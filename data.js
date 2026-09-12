@@ -311,18 +311,18 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "91-day T-bill",
-          "value": 6.68,
+          "value": 4.80,
           "dec": 2,
           "unit": "%",
-          "date": "4 Sep 2026",
-          "note": "182-day at 10.12%"
+          "date": "7 Sep 2026",
+          "note": "182-day at 6.67%"
         },
         {
           "label": "364-day T-bill",
-          "value": 12,
+          "value": 10.12,
           "dec": 2,
           "unit": "%",
-          "date": "4 Sep 2026",
+          "date": "7 Sep 2026",
           "note": "Weekly government auction"
         },
         {
