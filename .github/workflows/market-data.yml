@@ -1,0 +1,44 @@
+name: Update market data
+
+# Every day: exchange rates (Bank of Ghana, with a fallback), gold and cocoa prices.
+# Writes auto-data.js and commits it, which republishes the site on GitHub Pages.
+on:
+  schedule:
+    - cron: "15 7 * * *"   # 07:15 GMT daily (BoG rates for the previous day are up by then)
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: data-commits
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch prices and rates
+        run: node scripts/fetch-market-data.mjs
+      - name: Commit if anything changed
+        run: |
+          git config user.name "alfredo-data-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add auto-data.js
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Automatic market data update $(date -u +'%Y-%m-%d')"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
+      - name: Ask GitHub Pages to rebuild
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || echo "Pages will rebuild on its own schedule."

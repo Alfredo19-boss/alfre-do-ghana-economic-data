@@ -1,0 +1,46 @@
+name: Update business news
+
+# Every hour: collects Ghana business headlines from publishers' RSS feeds into news-data.js,
+# which feeds the "Business news" tab. Commits only when there are new stories.
+on:
+  schedule:
+    - cron: "20 * * * *"   # every hour at :20
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: data-commits
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Collect headlines
+        run: node scripts/fetch-news.mjs
+      - name: Commit if there are new stories
+        run: |
+          git config user.name "alfredo-data-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # ignore changes that only touch the "updated" time or log lines
+          if git diff --quiet -I '"updated":' -I '^    "' -- news-data.js; then
+            git checkout -- news-data.js
+            echo "No new stories."
+            exit 0
+          fi
+          git add news-data.js
+          git commit -m "News headlines $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
+      - name: Ask GitHub Pages to rebuild
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || true

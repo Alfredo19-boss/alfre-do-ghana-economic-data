@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alfredo Ghana Economic Data</title>
+  <meta name="description" content="Alfredo Ghana Economic Data: Ghana's public debt counting in real time, plus the 2026 budget, gold, cocoa, markets, cost of living and key economic indicators.">
+  <meta name="theme-color" content="#070a09">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Alfredo Ghana Economic Data">
+  <meta property="og:description" content="Ghana's public debt, counting in real time. Plus gold, cocoa, fuel prices, credit ratings, your household's share and key economic indicators.">
+  <meta property="og:image" content="og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Doto:wght@900&family=Azeret+Mono:wght@500;600&family=Barlow+Semi+Condensed:wght@500;600&family=Barlow:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="kente" aria-hidden="true"></div>
+
+  <div class="page page-head">
+    <header class="mast">
+      <a class="brand" href="#top" id="top" aria-label="Alfredo Ghana Economic Data, home">
+        <svg class="star" viewBox="0 0 100 100" aria-hidden="true"><polygon points="50,7 61.8,38.2 95.1,38.2 68.2,58.1 78.5,90.5 50,70.6 21.5,90.5 31.8,58.1 4.9,38.2 38.2,38.2"/></svg>
+        <span class="wordmark">Alfredo Ghana <em>Economic Data</em></span>
+      </a>
+      <div class="mast-right">
+        <div class="accra"><span>Accra</span><b data-clock>--:--:--</b><span>GMT</span></div>
+        <div class="toggle" role="group" aria-label="Display currency">
+          <button type="button" id="cur-ghs" aria-pressed="true">GH¢</button>
+          <button type="button" id="cur-usd" aria-pressed="false">US$</button>
+        </div>
+        <button type="button" class="btn board-btn" id="board-open" aria-label="Open board view for wide screens and TVs">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>
+          Board view
+        </button>
+      </div>
+    </header>
+
+  </div>
+
+  <div class="navbar">
+    <div class="page nav-inner">
+      <nav class="view-tabs" aria-label="Site sections">
+        <a href="#dashboard" data-view-link="dashboard" aria-current="page">Dashboard</a>
+        <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
+      </nav>
+      <span class="nav-date" data-date></span>
+    </div>
+  </div>
+
+  <div class="ticker" id="ticker" role="region" aria-label="Exchange rates against the cedi and Ghana's GDP">
+    <div class="ticker-label"><span class="ticker-dot"></span><span>GH¢ rates</span><b data-fx-date></b></div>
+    <div class="ticker-viewport" tabindex="0" aria-label="Scrolling rates. Hover or focus to pause."><div class="ticker-track" id="ticker-track"></div></div>
+    <button type="button" class="ticker-pause" id="ticker-pause" aria-pressed="false" aria-label="Pause the ticker">
+      <svg viewBox="0 0 16 16" aria-hidden="true"><rect x="3" y="2.5" width="3.2" height="11" rx="1"/><rect x="9.8" y="2.5" width="3.2" height="11" rx="1"/></svg>
+    </button>
+  </div>
+
+  <div class="dayband" id="dayband" role="status" hidden></div>
+
+  <div class="page">
+    <main id="dashboard-view">
+      <!-- Hero -->
+      <section class="hero area-hero" aria-labelledby="hero-label">
+        <div class="hero-head">
+          <h1 id="hero-label">Ghana’s total public debt, right now</h1>
+          <span class="live"><i></i>Live estimate</span>
+        </div>
+        <div class="hero-number" data-detail="debt:total" aria-label="Total public debt: show history and trend">
+          <span class="hero-cur" data-cur>GH¢</span>
+          <span class="led" data-live="debt"></span>
+        </div>
+        <p class="hero-words"><span data-words>&nbsp;</span><span class="since"><b data-live-text="open"></b> added since you arrived</span></p>
+        <div class="hero-strip lines">
+          <div class="cell">
+            <span class="k">Added every second</span>
+            <span class="mono v" data-rate="sec"></span>
+          </div>
+          <div class="cell">
+            <span class="k">Added every day</span>
+            <span class="mono v" data-rate="day"></span>
+          </div>
+          <div class="cell gdp-cell" data-detail="debt:gdp">
+            <span class="k">Ghana’s GDP so far in <span data-budget-year>2026</span></span>
+            <div class="gdp-num"><span class="cur" data-cur>GH¢</span><span class="led sm leaf" data-live="gdpYtd"></span></div>
+            <span class="note" id="gdp-note"></span>
+          </div>
+          <div class="cell" data-detail="debt:ratio">
+            <span class="k">Debt-to-GDP</span>
+            <span class="led sm" data-live="ratio"></span>
+            <div class="gauge" aria-hidden="true"><i data-gauge></i><b data-gauge-peak></b></div>
+            <span class="note" data-gauge-note></span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Milestones + share -->
+      <aside class="side area-side" aria-label="Milestones and sharing">
+        <section class="panel milestones">
+          <div class="panel-head"><h2 class="k">Milestone, trade &amp; reserves</h2><span class="note">Countdown at the current pace · latest published trade figures</span></div>
+          <ol class="ms-list" id="milestones"></ol>
+        </section>
+        <section class="panel share">
+          <div class="panel-head"><h2 class="k">Share the number</h2></div>
+          <p class="share-text" data-share-text></p>
+          <div class="share-row">
+            <a class="btn" id="share-wa" target="_blank" rel="noopener">WhatsApp</a>
+            <a class="btn" id="share-x" target="_blank" rel="noopener">X</a>
+            <a class="btn" id="share-fb" target="_blank" rel="noopener">Facebook</a>
+            <button type="button" class="btn" id="share-copy">Copy link</button>
+            <button type="button" class="btn" id="share-native" hidden>More…</button>
+          </div>
+          <p class="note share-status" id="share-status" aria-live="polite"></p>
+        </section>
+      </aside>
+
+      <p class="key-legend area-full"><span><i class="tap-dot"></i>Tap any figure for its history and trend</span><span><i class="led-dot"></i>Glowing digits tick live from the latest official figures</span><span><i class="mono-dot"></i>White figures are the latest published readings</span></p>
+
+      <div class="data-status area-full" id="data-status" role="status" hidden>
+        <b>Some figures need updating</b>
+        <ul id="data-status-text"></ul>
+      </div>
+
+      <!-- Debt breakdown -->
+      <section class="block area-full" aria-labelledby="h-debt">
+        <div class="block-head">
+          <h2 id="h-debt">The debt, broken down</h2>
+          <p id="debt-method"></p>
+        </div>
+        <div class="debt-rows">
+          <div class="panel lines quad">
+            <div class="cell" data-detail="debt:domestic">
+              <span class="k">Domestic debt</span>
+              <div class="num"><span class="cur" data-cur>GH¢</span><span class="led md" data-live="dom"></span></div>
+              <div class="split" aria-hidden="true"><i id="split-dom"></i></div>
+              <span class="note" id="n-dom"></span>
+            </div>
+            <div class="cell" data-detail="debt:external">
+              <span class="k">External debt</span>
+              <div class="num"><span class="cur" data-cur>GH¢</span><span class="led md" data-live="ext"></span></div>
+              <div class="split ext" aria-hidden="true"><i id="split-ext"></i></div>
+              <span class="note" id="n-ext"></span>
+            </div>
+            <div class="cell" data-detail="debt:percap">
+              <span class="k">Each Ghanaian’s share</span>
+              <div class="num"><span class="cur" data-cur>GH¢</span><span class="led md" data-live="percap"></span></div>
+              <span class="note">Total debt divided by a live population estimate</span>
+            </div>
+            <div class="cell" data-detail="debt:ytd">
+              <span class="k">Borrowed so far this year</span>
+              <div class="num"><span class="cur" data-cur>GH¢</span><span class="led md ember" data-live="ytd"></span></div>
+              <span class="note" id="n-ytd"></span>
+            </div>
+          </div>
+          <div class="panel lines trio">
+            <div class="cell row" data-detail="debt:today">
+              <span class="k">Borrowed today</span>
+              <span class="led xs ember" data-live="today"></span>
+            </div>
+            <div class="cell row">
+              <div class="grow">
+                <span class="k">Debt sinking fund</span>
+                <div class="bar" aria-hidden="true"><i id="sf-fill"></i></div>
+              </div>
+              <span class="mono v" id="sf-val"></span>
+            </div>
+            <div class="cell row">
+              <span class="k" id="mat-k">Falling due</span>
+              <span class="mono v" id="mat-val"></span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Budget -->
+      <section class="block area-main" aria-labelledby="h-budget">
+        <div class="block-head">
+          <h2 id="h-budget">The 2026 budget, day by day</h2>
+          <p>Each line spreads the approved budget evenly across the year and counts up from 1 January.</p>
+        </div>
+        <div class="year">
+          <div class="year-label"><span data-year-day></span><span data-year-pct></span></div>
+          <div class="year-bar" aria-hidden="true"><i data-year-fill></i><div class="months" id="months"></div></div>
+        </div>
+        <div class="ledger">
+          <div class="panel ledger-col">
+            <h3>Money in</h3>
+            <div id="ledger-in"></div>
+            <div class="pesewas">
+              <div class="pes-head">
+                <span class="mono big ember" id="pes-val"></span>
+                <span>pesewas of every GH¢1 the government collects goes to <strong>interest</strong></span>
+              </div>
+              <div class="dots" id="pes-dots" aria-hidden="true"></div>
+            </div>
+          </div>
+          <div class="panel ledger-col">
+            <h3>Money out</h3>
+            <div id="ledger-out"></div>
+            <div class="gap-row">
+              <div>
+                <span class="k">Spending gap so far</span>
+                <span class="note" id="gap-note"></span>
+              </div>
+              <span class="num"><span class="cur" data-cur>GH¢</span><span class="led sm ember" data-live="gap"></span></span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- People -->
+      <section class="block area-aside" aria-labelledby="h-people">
+        <div class="block-head">
+          <h2 id="h-people">Per person</h2>
+          <p id="people-method"></p>
+        </div>
+        <div class="panel lines people">
+          <div class="cell" data-detail="debt:pop">
+            <span class="k">Population</span>
+            <span class="led md leaf" data-live="pop"></span>
+            <span class="note" id="n-pop"></span>
+          </div>
+          <div class="cell">
+            <span class="k">Interest bill per person, 2026</span>
+            <div class="num"><span class="cur" data-cur>GH¢</span><span class="mono xl ember" id="p-int"></span></div>
+            <span class="note">Each person’s share of the year’s interest payments</span>
+          </div>
+          <div class="cell">
+            <span class="k">Government spending per person, 2026</span>
+            <div class="num"><span class="cur" data-cur>GH¢</span><span class="mono xl" id="p-exp"></span></div>
+            <span class="note" id="n-exp"></span>
+          </div>
+        </div>
+        <div class="panel lines trio" id="people-stats"></div>
+      </section>
+
+      <!-- Comparisons -->
+      <section class="block area-main" aria-labelledby="h-compare">
+        <div class="block-head">
+          <h2 id="h-compare">Put it in perspective</h2>
+          <p id="compare-method"></p>
+        </div>
+        <div class="panel lines compare" id="compare"></div>
+      </section>
+
+      <!-- Calculator -->
+      <section class="block area-aside" aria-labelledby="h-calc">
+        <div class="block-head">
+          <h2 id="h-calc">Your household’s share</h2>
+          <p>Change the number of people in your home.</p>
+        </div>
+        <div class="panel calc">
+          <div class="calc-input">
+            <label class="k" for="hh-size">People in your household</label>
+            <div class="stepper">
+              <button type="button" class="btn step" id="hh-minus" aria-label="One fewer person">−</button>
+              <input id="hh-size" type="number" inputmode="numeric" min="1" max="50" value="4">
+              <button type="button" class="btn step" id="hh-plus" aria-label="One more person">+</button>
+            </div>
+          </div>
+          <div class="lines calc-out">
+            <div class="cell">
+              <span class="k">Your household’s share of the debt</span>
+              <div class="num"><span class="cur" data-cur>GH¢</span><span class="led md" data-live="hhDebt"></span></div>
+              <span class="note" data-hh-days></span>
+            </div>
+            <div class="cell duo">
+              <div>
+                <span class="k">Borrowed for you this year</span>
+                <div class="num"><span class="cur" data-cur>GH¢</span><span class="led xs ember" data-live="hhYtd"></span></div>
+              </div>
+              <div>
+                <span class="k">Your 2026 interest bill</span>
+                <div class="num"><span class="cur" data-cur>GH¢</span><span class="mono v ember" data-hh-int></span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Economy -->
+      <section class="block area-full" aria-labelledby="h-econ">
+        <div class="block-head">
+          <h2 id="h-econ">The wider economy</h2>
+          <p>Latest published readings, each with its date. These do not tick.</p>
+        </div>
+        <div class="econ-groups" id="economy"></div>
+      </section>
+
+      <!-- National days & economic calendar -->
+      <section class="block area-full" aria-labelledby="h-cal">
+        <div class="block-head">
+          <h2 id="h-cal">National days &amp; the dates ahead</h2>
+          <p>Ghana’s public holidays and the days that move the figures on this page.</p>
+        </div>
+        <ol class="cal-list lines" id="cal-list"></ol>
+        <p class="note" id="cal-note"></p>
+      </section>
+
+      <!-- Markets -->
+      <section class="block area-full" aria-labelledby="h-markets">
+        <div class="block-head">
+          <h2 id="h-markets">Gold, cocoa &amp; markets</h2>
+          <p>What Ghana earns, what lenders think of its debt, and what daily life costs. Latest published readings, each with its date.</p>
+        </div>
+        <div class="ratings-wrap">
+          <h3 class="group-h">Credit ratings <span>Distance below investment grade</span></h3>
+          <div class="panel lines ratings" id="ratings"></div>
+        </div>
+        <div class="econ-groups" id="markets"></div>
+      </section>
+
+      <!-- Charts -->
+      <section class="block area-full" aria-labelledby="h-trend">
+        <div class="block-head">
+          <h2 id="h-trend">How Ghana got here</h2>
+          <p>Hover or tab onto a bar or point to read its value.</p>
+        </div>
+        <div class="charts">
+          <figure class="panel chart" id="ch-stock">
+            <figcaption><span class="k">Public debt, GH¢ billion</span><span class="note">Year-end 2020–2025 and end-June 2026 (hatched)</span></figcaption>
+            <svg role="img" aria-label="Bar chart of Ghana's public debt stock, 2020 to June 2026"></svg>
+          </figure>
+          <figure class="panel chart" id="ch-ratio">
+            <figcaption><span class="k">Debt-to-GDP, %</span><span class="note">The burden has fallen by almost half since 2020</span></figcaption>
+            <svg role="img" aria-label="Bar chart of Ghana's debt-to-GDP ratio, 2020 to June 2026"></svg>
+          </figure>
+          <figure class="panel chart" id="ch-month">
+            <figcaption>
+              <span class="k">2026, month by month, GH¢ billion</span>
+              <span class="legend"><span><i></i>Reported month-end</span><span><i class="dash"></i>Our estimate to today</span></span>
+            </figcaption>
+            <svg role="img" aria-label="Line chart of Ghana's monthly public debt in 2026 with our estimate to today"></svg>
+          </figure>
+          <figure class="panel chart" id="ch-cedi">
+            <figcaption><span class="k">Cedi per US dollar</span><span class="note" id="cedi-note"></span></figcaption>
+            <svg role="img" aria-label="Dot chart of Bank of Ghana interbank cedi per US dollar rates on published dates from end-2025 to September 2026"></svg>
+          </figure>
+        </div>
+        <details class="panel table-view">
+          <summary>Show the chart data as a table</summary>
+          <div class="table-wrap"><table id="data-table"></table></div>
+        </details>
+      </section>
+    </main>
+
+    <section class="news-view" id="news-view" aria-labelledby="h-news" hidden>
+      <div class="news-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-news">Ghana business news</h1>
+          <p class="news-intro">The latest headlines from Ghanaian business newsrooms, gathered automatically. Every story opens on the publisher’s own website.</p>
+        </div>
+        <span class="live news-live"><i></i><span id="news-status">Loading headlines…</span></span>
+      </div>
+
+      <div class="news-controls">
+        <div class="news-search">
+          <label for="news-search" class="sr-only">Search headlines</label>
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
+          <input id="news-search" type="search" placeholder="Search: cedi, cocoa, bank, fuel…" autocomplete="off">
+        </div>
+        <label for="news-source" class="sr-only">Filter by source</label>
+        <select id="news-source"><option value="">All sources</option></select>
+      </div>
+      <div class="news-topics" id="news-topics" role="group" aria-label="Filter by topic"></div>
+
+      <div class="news-layout">
+        <div>
+          <div class="news-list" id="news-list"></div>
+          <p class="news-empty" id="news-empty" hidden>No headlines match. Try another word or topic.</p>
+        </div>
+        <aside class="news-rail" aria-label="Market snapshot">
+          <div class="panel rail-card">
+            <h2 class="k">Market snapshot</h2>
+            <div class="rail-debt">
+              <span class="note">Public debt, live estimate</span>
+              <div class="num"><span class="cur" data-cur>GH¢</span><span class="led" data-live="debt"></span></div>
+            </div>
+            <dl class="rail-list" id="rail-list"></dl>
+            <a class="btn rail-btn" href="#dashboard">Open the full dashboard</a>
+          </div>
+          <div class="panel rail-card">
+            <h2 class="k">News sources</h2>
+            <ul class="rail-sources" id="rail-sources"></ul>
+            <p class="note">Headlines and links belong to their publishers. This page shows headlines only and links to the original stories.</p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <div class="method">
+        <h2>How the live numbers are estimated</h2>
+        <p id="m1"></p>
+        <p>Budget lines spread the approved 2026 figures evenly across the year. Population grows at the National Population Council’s projected rate. Dollar amounts convert at the Bank of Ghana interbank mid-rate shown in the economy section. Milestone dates assume today’s borrowing pace continues.</p>
+        <p>External debt is the least certain estimate. Most of it is owed in foreign currency, so a weaker cedi raises it without any new borrowing and a stronger cedi lowers it. That is why the reported total dipped from GH¢720.8bn in May to GH¢719.5bn in June.</p>
+      </div>
+      <div class="sources">
+        <h2>Sources</h2>
+        <ol id="sources"></ol>
+      </div>
+      <p class="fine"><span>Alfredo Ghana Economic Data is an independent public-education project. Not affiliated with the Government of Ghana or the Bank of Ghana.</span><span><span data-checked></span> · <span data-auto-status></span></span></p>
+    </footer>
+  </div>
+
+  <div class="sheet-scrim" id="sheet-scrim" hidden></div>
+  <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden>
+    <div class="sheet-grip" id="sheet-grip" aria-hidden="true"><i></i></div>
+    <header class="sheet-head">
+      <div class="sheet-heading">
+        <p class="sheet-eyebrow" id="sheet-eyebrow"></p>
+        <h2 id="sheet-title"></h2>
+      </div>
+      <button type="button" class="sheet-close" id="sheet-close" aria-label="Close">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M5 5l10 10M15 5L5 15"/></svg>
+      </button>
+    </header>
+    <div class="sheet-body" id="sheet-body"></div>
+  </aside>
+
+  <!-- Board view: a fixed 1920×1080 stage scaled to fit any screen -->
+  <div class="board" id="board" hidden>
+    <div class="stage" id="stage" role="dialog" aria-modal="true" aria-label="Alfredo Ghana Economic Data board view">
+      <div class="kente"></div>
+      <header class="b-top">
+        <div class="brand">
+          <svg class="star" viewBox="0 0 100 100" aria-hidden="true"><polygon points="50,7 61.8,38.2 95.1,38.2 68.2,58.1 78.5,90.5 50,70.6 21.5,90.5 31.8,58.1 4.9,38.2 38.2,38.2"/></svg>
+          <span class="wordmark">Alfredo Ghana <em>Economic Data</em></span>
+        </div>
+        <div class="b-top-right">
+          <span class="b-day" id="b-day" hidden></span>
+          <span class="live"><i></i>Live estimate</span>
+          <span class="b-date" data-date></span>
+          <span class="b-clock"><b data-clock>--:--:--</b> GMT</span>
+          <button type="button" class="btn" id="board-close">Exit board <kbd>Esc</kbd></button>
+        </div>
+      </header>
+
+      <section class="b-hero">
+        <div class="b-main">
+          <span class="b-label">Total public debt of Ghana</span>
+          <div class="b-number" data-detail="debt:total" aria-label="Total public debt: show history and trend"><span class="hero-cur" data-cur>GH¢</span><span class="led" data-live="debt"></span></div>
+          <div class="b-sub"><span data-words></span><span class="b-rate">+<span data-rate="sec"></span> every second</span></div>
+        </div>
+        <div class="b-side">
+          <div class="b-stat" data-detail="debt:ratio">
+            <span class="b-label">Debt-to-GDP</span>
+            <span class="led" data-live="ratio"></span>
+            <div class="gauge" aria-hidden="true"><i data-gauge></i><b data-gauge-peak></b></div>
+          </div>
+          <div class="b-stat" data-detail="debt:percap">
+            <span class="b-label">Each Ghanaian’s share <span data-cur>GH¢</span></span>
+            <span class="led" data-live="percap"></span>
+          </div>
+          <div class="b-stat" data-detail="debt:today">
+            <span class="b-label">Borrowed today <span data-cur>GH¢</span></span>
+            <span class="led ember" data-live="today"></span>
+          </div>
+        </div>
+      </section>
+
+      <section class="b-row b-six">
+        <div class="b-tile" data-detail="debt:domestic"><span class="b-label">Domestic debt <span data-cur>GH¢</span></span><span class="led" data-live="dom"></span></div>
+        <div class="b-tile" data-detail="debt:external"><span class="b-label">External debt <span data-cur>GH¢</span></span><span class="led" data-live="ext"></span></div>
+        <div class="b-tile" data-detail="debt:ytd"><span class="b-label">Borrowed this year <span data-cur>GH¢</span></span><span class="led ember" data-live="ytd"></span></div>
+        <div class="b-tile"><span class="b-label">Population</span><span class="led leaf" data-live="pop"></span></div>
+        <div class="b-tile" data-detail="budget:int"><span class="b-label">Interest paid <span data-cur>GH¢</span></span><span class="led ember" data-live="b-int"></span></div>
+        <div class="b-tile"><span class="b-label">Spending gap <span data-cur>GH¢</span></span><span class="led ember" data-live="gap"></span></div>
+      </section>
+
+      <section class="b-row b-budget">
+        <div class="b-tag"><span>2026 budget</span><b data-year-pct></b></div>
+        <div class="b-tile" data-detail="budget:rev"><span class="b-label">Revenue &amp; grants <span data-cur>GH¢</span></span><span class="led leaf" data-live="b-rev"></span></div>
+        <div class="b-tile" data-detail="budget:tax"><span class="b-label">Tax revenue <span data-cur>GH¢</span></span><span class="led leaf" data-live="b-tax"></span></div>
+        <div class="b-tile" data-detail="budget:exp"><span class="b-label">Total spending <span data-cur>GH¢</span></span><span class="led" data-live="b-exp"></span></div>
+        <div class="b-tile" data-detail="budget:wage"><span class="b-label">Wages <span data-cur>GH¢</span></span><span class="led" data-live="b-wage"></span></div>
+        <div class="b-tile" data-detail="budget:cap"><span class="b-label">Capital projects <span data-cur>GH¢</span></span><span class="led" data-live="b-cap"></span></div>
+      </section>
+
+      <section class="b-row b-econ" id="b-econ"></section>
+
+      <section class="b-row b-bottom">
+        <div class="b-ms" id="b-milestones"></div>
+        <div class="b-spark">
+          <span class="b-label">Debt stock, GH¢bn · 2020 → today</span>
+          <svg id="b-spark" viewBox="0 0 620 120" aria-hidden="true"></svg>
+        </div>
+      </section>
+
+      <div class="ticker b-ticker" aria-label="Exchange rates against the cedi and Ghana's GDP">
+        <div class="ticker-label"><span class="ticker-dot"></span><span>GH¢ rates</span><b data-fx-date></b></div>
+        <div class="ticker-viewport"><div class="ticker-track" id="b-ticker-track"></div></div>
+      </div>
+
+      <footer class="b-foot">
+        <span>Estimates count forward from official Bank of Ghana and Ministry of Finance figures · <span data-checked></span></span>
+        <span class="b-foot-r" data-site></span>
+      </footer>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="auto-data.js"></script>
+  <script src="history-data.js"></script>
+  <script src="news-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

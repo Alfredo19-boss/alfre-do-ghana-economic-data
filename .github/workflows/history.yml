@@ -1,0 +1,49 @@
+name: Update long history
+
+# Once a month: Ghana's annual series back to 1993 from the World Bank's open data API.
+# Feeds the "Since 1993" chart behind every figure. Writes history-data.js and commits it.
+on:
+  schedule:
+    - cron: "40 6 3 * *"   # 06:40 GMT on the 3rd of each month
+  workflow_dispatch:        # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: data-commits
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch the annual series
+        run: node scripts/fetch-history.mjs
+      - name: Commit if anything changed
+        run: |
+          git config user.name "alfredo-data-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add history-data.js
+          if git diff --cached --quiet -- history-data.js; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          if [ "$(git diff --cached --numstat -- history-data.js | cut -f1)" = "1" ] && git diff --cached -- history-data.js | grep -q '"updated"'; then
+            echo "Only the timestamp changed; nothing to publish."
+            git reset
+            exit 0
+          fi
+          git commit -m "Annual history update $(date -u +'%Y-%m-%d')"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
+      - name: Ask GitHub Pages to rebuild
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || echo "Pages will rebuild on its own schedule."

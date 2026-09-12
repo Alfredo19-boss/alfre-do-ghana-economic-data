@@ -1,0 +1,74 @@
+name: Update a reading
+
+# Fill in the form (Actions tab → Update a reading → Run workflow) to change any published figure,
+# such as Inflation, BoG policy rate, Petrol or Remittances. It opens a pull request for review.
+on:
+  workflow_dispatch:
+    inputs:
+      label:
+        description: "Name exactly as shown on the site, e.g. Inflation, BoG policy rate, Petrol"
+        required: true
+      value:
+        description: "New value (number only), e.g. 4.8"
+        required: true
+      date:
+        description: "Period, e.g. Sep 2026, 16 Sep 2026, Q2 2026 or H1 2026"
+        required: true
+      note:
+        description: "Short note shown under the figure (optional), e.g. ▼ from 5.0% in August"
+        required: false
+      source_title:
+        description: "Source title (optional)"
+        required: false
+      source_url:
+        description: "Source link (optional)"
+        required: false
+      force:
+        description: "Accept a very large change (only if you are sure)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Update data.js
+        env:
+          LABEL: ${{ inputs.label }}
+          VALUE: ${{ inputs.value }}
+          PERIOD: ${{ inputs.date }}
+          NOTE: ${{ inputs.note }}
+          SOURCE_TITLE: ${{ inputs.source_title }}
+          SOURCE_URL: ${{ inputs.source_url }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          ARGS=(--label "$LABEL" --value "$VALUE" --date "$PERIOD" --note "$NOTE" --source-title "$SOURCE_TITLE" --source-url "$SOURCE_URL")
+          if [ "$FORCE" = "true" ]; then ARGS+=(--force true); fi
+          node scripts/update-reading.mjs "${ARGS[@]}"
+      - name: Branch name
+        id: slug
+        env:
+          LABEL: ${{ inputs.label }}
+        run: echo "slug=$(echo "$LABEL" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-//;s/-$//')-$(date -u +%Y%m%d%H%M)" >> "$GITHUB_OUTPUT"
+      - name: Open a pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: data/${{ steps.slug.outputs.slug }}
+          commit-message: "Update ${{ inputs.label }}: ${{ inputs.value }} (${{ inputs.date }})"
+          title: "Update ${{ inputs.label }}: ${{ inputs.value }} (${{ inputs.date }})"
+          body: |
+            Updates **${{ inputs.label }}** to **${{ inputs.value }}** for **${{ inputs.date }}**.
+
+            Note: ${{ inputs.note || '(unchanged)' }}
+            Source: ${{ inputs.source_url || '—' }}
+
+            Check against the source, then **merge** to publish.
+          delete-branch: true

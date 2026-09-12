@@ -1,0 +1,72 @@
+name: Record debt figures
+
+# Fill in the form (Actions tab → Record debt figures → Run workflow).
+# It adds the reading to data.js and opens a pull request for you to review and merge.
+on:
+  workflow_dispatch:
+    inputs:
+      month_end:
+        description: "Month-end date of the figures (YYYY-MM-DD), e.g. 2026-07-31"
+        required: true
+      total:
+        description: "Total public debt, GH¢ billion, e.g. 735.2"
+        required: true
+      domestic:
+        description: "Domestic debt, GH¢ billion (optional)"
+        required: false
+      external:
+        description: "External debt, GH¢ billion (optional)"
+        required: false
+      ratio:
+        description: "Debt-to-GDP, per cent (optional), e.g. 45.9"
+        required: false
+      source_title:
+        description: "Source title, e.g. BoG Summary of Economic and Financial Data, July 2026"
+        required: false
+      source_url:
+        description: "Source link"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Add the reading to data.js
+        env:
+          MONTH_END: ${{ inputs.month_end }}
+          TOTAL: ${{ inputs.total }}
+          DOMESTIC: ${{ inputs.domestic }}
+          EXTERNAL: ${{ inputs.external }}
+          RATIO: ${{ inputs.ratio }}
+          SOURCE_TITLE: ${{ inputs.source_title }}
+          SOURCE_URL: ${{ inputs.source_url }}
+        run: |
+          node scripts/record-debt.mjs --month-end "$MONTH_END" --total "$TOTAL" --domestic "$DOMESTIC" \
+            --external "$EXTERNAL" --ratio "$RATIO" --source-title "$SOURCE_TITLE" --source-url "$SOURCE_URL"
+      - name: Open a pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: data/debt-${{ inputs.month_end }}
+          commit-message: "Record public debt for ${{ inputs.month_end }}"
+          title: "Record public debt for ${{ inputs.month_end }}: GH¢${{ inputs.total }}bn"
+          body: |
+            Adds the official debt reading for **${{ inputs.month_end }}**.
+
+            | Field | Value |
+            |---|---|
+            | Total | GH¢${{ inputs.total }}bn |
+            | Domestic | ${{ inputs.domestic || '—' }} |
+            | External | ${{ inputs.external || '—' }} |
+            | Debt-to-GDP | ${{ inputs.ratio || '—' }} |
+            | Source | ${{ inputs.source_url || '—' }} |
+
+            Check the numbers against the source, then **merge** to publish. The live debt estimate recalculates its pace automatically.
+          delete-branch: true
