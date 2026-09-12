@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-12T06:12:16.875Z",
+  "updated": "2026-09-12T10:55:46.896Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,32 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Private capital must lead Ghana’s green industrial push – Finance leaders",
+      "link": "https://www.ghanabusinessnews.com/2026/09/12/private-capital-must-lead-ghanas-green-industrial-push-finance-leaders/",
+      "source": "Ghana Business News",
+      "published": "2026-09-12T09:58:06.000Z",
+      "summary": "Industry, finance leaders and global partners have called for a shift towards an increase in private capital mobilisation as a guaranteed way to build a sustainable and competitive…"
+    },
+    {
+      "title": "Governance Gaps Add to Growth Challenges Facing Ghanaian SMEs",
+      "link": "https://thehighstreetjournal.com/governance-gaps-add-to-growth-challenges-facing-ghanaian-smes/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T09:30:00.000Z",
+      "summary": "As Ghanaian SMEs pursue growth and financing, stronger governance, clear structures and effective internal controls are becoming increasingly important to building sustainable businesses."
+    },
+    {
+      "title": "Wa-Han Road Rehabilitation to Slash Logistics Costs and Anchor Food Price Stability",
+      "link": "https://thehighstreetjournal.com/wa-han-road-rehabilitation-to-slash-logistics-costs-and-anchor-food-price-stability/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T08:00:26.000Z",
+      "summary": "President Mahama’s inspection of the Wa-Han road highlights infrastructure upgrades aimed at lowering logistics costs, reducing post-harvest losses, and stabilizing food inflation…"
+    },
     {
       "title": "Accra-Kumasi Expressway Could Reshape Business Travel, Transport Choices",
       "link": "https://thehighstreetjournal.com/accra-kumasi-expressway-could-reshape-business-travel-transport-choices/",
