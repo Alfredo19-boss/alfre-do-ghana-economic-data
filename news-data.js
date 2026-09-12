@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-12T19:26:29.593Z",
+  "updated": "2026-09-12T22:22:55.125Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Dr Bawumia expresses sympathy with farmers over their inability to sell their produce even at reduced prices",
+      "link": "https://www.myjoyonline.com/dr-bawumia-expresses-sympathy-with-farmers-over-their-inability-to-sell-their-produce-even-at-reduced-prices/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T20:06:18.000Z",
+      "summary": "The New Patriotic Party (NPP) Presidential Candidate for the 2028 elections, Dr Mahamudu Bawumia, has expressed deep concern over the plight of Ghanaian farmers who are unable to sell their…"
+    },
     {
       "title": "Ericsson celebrates 150 years of global innovation, 30 years of partnership and digital transformation in Ghana",
       "link": "https://www.myjoyonline.com/ericsson-celebrates-150-years-of-global-innovation-30-years-of-partnership-and-digital-transformation-in-ghana/",
