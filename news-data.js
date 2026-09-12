@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-12T14:13:24.821Z",
+  "updated": "2026-09-12T17:15:28.108Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Prospective homeowners troop to Day 2 of JoyNews-Republic Bank Habitat Fair, engage experts on homeownership",
+      "link": "https://www.myjoyonline.com/prospective-homeowners-troop-to-day-2-of-joynews-republic-bank-habitat-fair-engage-experts-on-homeownership/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T16:58:19.000Z",
+      "summary": "Prospective homeowners have trooped to Day two of the JoyNews–Republic Bank Habitat Fair at the Marina Mall in Accra, taking advantage of the event to seek answers to questions surrounding…"
+    },
+    {
+      "title": "The Rise of Agentic Commerce: When Machines Become Buyers",
+      "link": "https://thehighstreetjournal.com/the-rise-of-agentic-commerce-when-machines-become-buyers/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T16:11:22.000Z",
+      "summary": "Agentic commerce is reshaping buying as AI agents autonomously discover, compare, negotiate, and transact, creating new opportunities while raising critical questions around trust."
+    },
+    {
+      "title": "24-Hour Economy targets greenhouses, cold storage and air cargo to transform horticulture",
+      "link": "https://www.myjoyonline.com/24-hour-economy-targets-greenhouses-cold-storage-and-air-cargo-to-transform-horticulture/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T16:01:00.000Z",
+      "summary": "Government is positioning the 24-hour economy as a major driver of Ghana’s horticulture industry, with plans to link greenhouse production to cold storage, logistics and export markets."
+    },
+    {
+      "title": "Gov’t unveils ambitious cut-flower export corridor from from Daboya to Europe, West Africa and Gulf",
+      "link": "https://www.myjoyonline.com/govt-unveils-ambitious-cut-flower-export-corridor-from-from-daboya-to-europe-west-africa-and-gulf/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T15:10:00.000Z",
+      "summary": "Government is working with a private sector investor to develop a cut-flower production corridor linking Daboya to the Tamale Air Cargo Hub for exports to Europe, West Africa and the Gulf."
+    },
+    {
+      "title": "Systemic vulnerabilities within banking industry remain broadly subdued- BoG",
+      "link": "https://www.myjoyonline.com/systemic-vulnerabilities-within-banking-industry-remain-broadly-subdued-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T14:26:35.000Z",
+      "summary": "According to its July 2026 Monetary Policy Report (MPR), macro-financial risks have continued to moderate amid improving macroeconomic conditions, declining sovereign risk perceptions, and…"
+    },
+    {
+      "title": "Ghana, Côte d’Ivoire’s export sectors face heightened risks due to El l Niño – Fitch Solutions",
+      "link": "https://www.myjoyonline.com/ghana-cote-divoires-export-sectors-face-heightened-risks-due-to-el-l-nino-fitch-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T14:13:53.000Z",
+      "summary": "According to the UK-based firm, lower rainfall and higher temperatures during key pod-development stages could reduce yields, thereby weighing on export earnings, government revenues and…"
+    },
     {
       "title": "NCA awards 700MHz spectrum to MTN Ghana for US$109.9m",
       "link": "https://www.myjoyonline.com/nca-awards-700mhz-spectrum-to-mtn-ghana-for-us109-9m/",
@@ -40,7 +82,7 @@ window.GDC_NEWS = {
       "link": "https://www.myjoyonline.com/ghana-must-turn-horticulture-into-global-export-powerhouse-vice-president-naana-jane/",
       "source": "MyJoyOnline",
       "published": "2026-09-12T13:05:46.000Z",
-      "summary": "Vice President Prof Jane Naana Opoku Agyemang has challenged Ghana to build a competitive horticulture industry capable of creating jobs, expanding businesses and breaking into global…"
+      "summary": "Vice President Prof Naana Jane Opoku-Agyemang has challenged Ghana to build a competitive horticulture industry capable of creating jobs, expanding businesses and breaking into global…"
     },
     {
       "title": "Ghana Grows the Fruit, But Too Much Is Lost Before Processing — Can Tax Relief Close the Gap?",
