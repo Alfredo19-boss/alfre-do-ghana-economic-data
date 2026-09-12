@@ -2,17 +2,24 @@
 // Used by .github/workflows/update-reading.yml, or run locally:
 //   node scripts/update-reading.mjs --label "Inflation" --value 4.8 --date "Sep 2026" --note "▼ from 5.0% in August" \
 //        --source-title "GSS: September 2026 CPI" --source-url https://...
-// --label must match the label shown on the website exactly (not case-sensitive).
+// --label matches labels case-insensitively and tolerates punctuation/spacing variations.
 import { load, save, todayLabel } from "./lib/datafile.mjs";
 import { parseArgs } from "./record-debt.mjs";
 
 const FILE = new URL("../data.js", import.meta.url).pathname;
 const DATE_OK = /^(\d{1,2} [A-Z][a-z]{2} \d{4}|[A-Z][a-z]{2} \d{4}|Q[1-4] \d{4}|H[12] \d{4}|\d{4}( proj\.)?)$/;
+const normLabel = s => String(s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
 
 export function updateReading(D, a) {
   const items = [...D.economy.flatMap(g => g.items), ...D.people, ...D.markets.flatMap(g => g.items)];
   const label = (a.label || "").trim().toLowerCase();
-  const it = items.find(i => i.label.toLowerCase() === label);
+  let it = items.find(i => i.label.toLowerCase() === label);
+  if (!it) {
+    const normalized = normLabel(a.label);
+    const matches = items.filter(i => normLabel(i.label) === normalized);
+    if (matches.length > 1) throw new Error(`Label "${a.label}" is ambiguous. Use one of: ${matches.map(m => m.label).join(", ")}`);
+    if (matches.length === 1) it = matches[0];
+  }
   if (!it) throw new Error(`No reading called "${a.label}". Available: ${items.map(i => i.label).join(", ")}`);
   const value = Number(String(a.value ?? "").replace(/[, ]/g, ""));
   if (!isFinite(value) || a.value === "" || a.value === undefined) throw new Error(`value must be a number (got "${a.value}")`);
