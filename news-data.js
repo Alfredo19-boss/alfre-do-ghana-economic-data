@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-12T10:55:46.896Z",
+  "updated": "2026-09-12T14:13:24.821Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "NCA awards 700MHz spectrum to MTN Ghana for US$109.9m",
+      "link": "https://www.myjoyonline.com/nca-awards-700mhz-spectrum-to-mtn-ghana-for-us109-9m/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T13:53:57.000Z",
+      "summary": "The National Communications Authority (NCA) has advanced the process of assigning spectrum in the 700 MHz, 2.3 GHz and 3 GHz bands for mobile broadband services, including 5G."
+    },
+    {
+      "title": "Gov’t Partners Private Investor to Develop Cut Flower Export Corridor",
+      "link": "https://thehighstreetjournal.com/govt-partners-private-investor-to-develop-cut-flower-export-corridor/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T13:08:43.000Z",
+      "summary": "Government is partnering a private investor to develop a cut-flower corridor linking northern production to Tamale Air Cargo Hub, targeting European, West African, Gulf and domestic markets."
+    },
+    {
+      "title": "Ghana must turn horticulture into global export powerhouse – Vice President Naana Jane",
+      "link": "https://www.myjoyonline.com/ghana-must-turn-horticulture-into-global-export-powerhouse-vice-president-naana-jane/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T13:05:46.000Z",
+      "summary": "Vice President Prof Jane Naana Opoku Agyemang has challenged Ghana to build a competitive horticulture industry capable of creating jobs, expanding businesses and breaking into global…"
+    },
+    {
+      "title": "Ghana Grows the Fruit, But Too Much Is Lost Before Processing — Can Tax Relief Close the Gap?",
+      "link": "https://thehighstreetjournal.com/ghana-grows-the-fruit-but-too-much-is-lost-before-processing-can-tax-relief-close-the-gap/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T13:00:00.000Z",
+      "summary": "Ghana’s fruit juice tax relief could boost local processing and demand for farmers’ produce, but better roads, transport, power and storage remain essential."
+    },
+    {
+      "title": "Oil & Gas 6-Year Decline Could End This Year, Data Shows",
+      "link": "https://thehighstreetjournal.com/oil-gas-6-year-decline-could-end-this-year-data-shows/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T12:00:18.000Z",
+      "summary": "Ghana’s oil and gas sector grew 22.4% in Q2 2026, driven by new investments, drilling, and field expansions that could end a six-year decline."
+    },
+    {
+      "title": "ECG Drives GH¢8.8bn SOE Losses as Heavy Debt Hits State Firms",
+      "link": "https://thehighstreetjournal.com/ecg-drives-gh%c2%a28-8bn-soe-losses-as-heavy-debt-hits-state-firms/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T11:53:43.000Z",
+      "summary": "Ghana’s SOEs recorded GH¢8.8 billion in combined losses in 2024, with ECG responsible for about 85 percent, as high debt and financing costs deepened financial pressures."
+    },
     {
       "title": "Private capital must lead Ghana’s green industrial push – Finance leaders",
       "link": "https://www.ghanabusinessnews.com/2026/09/12/private-capital-must-lead-ghanas-green-industrial-push-finance-leaders/",
