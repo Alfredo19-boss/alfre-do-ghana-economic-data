@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-12T17:15:28.108Z",
+  "updated": "2026-09-12T19:26:29.593Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,34 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ericsson celebrates 150 years of global innovation, 30 years of partnership and digital transformation in Ghana",
+      "link": "https://www.myjoyonline.com/ericsson-celebrates-150-years-of-global-innovation-30-years-of-partnership-and-digital-transformation-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T19:19:30.000Z",
+      "summary": "Rostand Njomgang, Head of Cluster Central Ericsson West and Southern Africa, says: “For 150 years, Ericsson has been driven by the idea that communication can change the world. In Ghana, we…"
+    },
+    {
+      "title": "GI Protection Could Open Global Markets for Ghana’s Akpeteshie",
+      "link": "https://thehighstreetjournal.com/gi-protection-could-open-global-markets-for-ghanas-akpeteshie/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T18:38:39.000Z",
+      "summary": "Ghana is pursuing Geographical Indication protection for Akpeteshie to preserve traditional production methods, improve quality standards, strengthen its brand and help local producers…"
+    },
+    {
+      "title": "Green Development Can Create New Business Opportunities – Veep",
+      "link": "https://thehighstreetjournal.com/green-development-can-create-new-business-opportunities-veep/",
+      "source": "The High Street Journal",
+      "published": "2026-09-12T17:55:03.000Z",
+      "summary": "Vice President Opoku-Agyemang has urged Ghana to integrate greening into urban development, saying investment in trees, gardens and green spaces can improve cities and create business…"
+    },
+    {
+      "title": "Mahama announces maize processing plant for Sissala area to tackle glut",
+      "link": "https://www.myjoyonline.com/mahama-announces-maize-processing-plant-for-sissala-area-to-tackle-glut/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T17:45:16.000Z",
+      "summary": "President John Dramani Mahama has announced plans to establish a maize processing plant in the Sissala area of the Upper West Region as part of efforts to tackle the recurring glut faced by…"
+    },
     {
       "title": "Prospective homeowners troop to Day 2 of JoyNews-Republic Bank Habitat Fair, engage experts on homeownership",
       "link": "https://www.myjoyonline.com/prospective-homeowners-troop-to-day-2-of-joynews-republic-bank-habitat-fair-engage-experts-on-homeownership/",
