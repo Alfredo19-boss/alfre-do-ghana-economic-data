@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-13T01:07:07.755Z",
+  "updated": "2026-09-13T06:17:28.683Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,41 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Nuclear Power: A Critical Link Between Africa’s Valuable Mineral Wealth and Their Processing",
+      "link": "https://thehighstreetjournal.com/nuclear-power-a-critical-link-between-africas-valuable-mineral-wealth-and-their-processing/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T05:05:00.000Z",
+      "summary": "Africa’s mineral wealth could deliver greater economic value if reliable nuclear power enables local processing, manufacturing and industrialisation, helping countries move beyond raw…"
+    },
+    {
+      "title": "Government’s Agriculture Programmes Could Drive Ghana’s Green Economy – Veep",
+      "link": "https://thehighstreetjournal.com/governments-agriculture-programmes-could-drive-ghanas-green-economy-veep/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T05:03:00.000Z",
+      "summary": "Government’s agricultural programmes could strengthen Ghana’s green economy by expanding horticulture, improving production systems, connecting farmers to markets and creating jobs."
+    },
+    {
+      "title": "China, India Boost Demand for West African Crude as Refiners Seek Prompt Supplies",
+      "link": "https://thehighstreetjournal.com/china-india-demand-west-african-crude/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T05:02:00.000Z",
+      "summary": "OPEC says stronger buying from Asia and firm refining margins lifted West African crude differentials in August"
+    },
+    {
+      "title": "Non-OPEC Oil Supply Set to Grow Again Through 2027, OPEC Says",
+      "link": "https://thehighstreetjournal.com/non-opec-oil-supply-set-to-grow-again/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T05:01:00.000Z",
+      "summary": "Brazil, US, Canada and Argentina drive 2026 gains as Qatar joins the leading sources of growth next year"
+    },
+    {
+      "title": "High Court Draws the Line Between Company Loans and Personal Debt",
+      "link": "https://thehighstreetjournal.com/high-court-draws-the-line-between-company-loans-and-personal-debt/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T05:00:00.000Z",
+      "summary": "The High Court has clarified that where a person signs a loan agreement in his own name, describing himself as “trading as” a business does not by itself make the business the borrower"
+    },
     {
       "title": "IFC Managing Director Makhtar Diop to visit Ghana for investment talks",
       "link": "https://www.myjoyonline.com/ifc-managing-director-makhtar-diop-to-visit-ghana-for-investment-talks/",
