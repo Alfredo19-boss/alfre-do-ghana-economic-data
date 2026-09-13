@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-12T22:22:55.125Z",
+  "updated": "2026-09-13T01:07:07.755Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "IFC Managing Director Makhtar Diop to visit Ghana for investment talks",
+      "link": "https://www.myjoyonline.com/ifc-managing-director-makhtar-diop-to-visit-ghana-for-investment-talks/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-12T23:46:04.000Z",
+      "summary": "The Managing Director of the International Finance Corporation (IFC), Makhtar Diop, will visit Ghana from September 15 to 17, 2026, to engage government and private sector leaders on ways…"
+    },
     {
       "title": "Dr Bawumia expresses sympathy with farmers over their inability to sell their produce even at reduced prices",
       "link": "https://www.myjoyonline.com/dr-bawumia-expresses-sympathy-with-farmers-over-their-inability-to-sell-their-produce-even-at-reduced-prices/",
