@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-13T12:04:25.061Z",
+  "updated": "2026-09-13T16:26:13.264Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,48 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "MTN Wins $100.9m 5G Spectrum Bid as Competition Concerns Persist",
+      "link": "https://thehighstreetjournal.com/mtn-wins-100-9m-5g-spectrum-bid-as-competition-concerns-persist/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T16:00:37.000Z",
+      "summary": "MTN wins $100.9 million 700 MHz spectrum bid as NCA faces pressure to protect fair competition in Ghana’s growing 5G market."
+    },
+    {
+      "title": "GRA announces major policy proposal under Modified Taxation Scheme initiative",
+      "link": "https://www.myjoyonline.com/gra-announces-major-policy-proposal-under-modified-taxation-scheme-initiative/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-13T15:06:26.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) is proposing to extend the Modified Taxation Scheme (MTS) to qualifying small limited liability companies with annual turnover of up to GH¢750,000."
+    },
+    {
+      "title": "Can the Accra-Kumasi Expressway Really Create 30,000 Jobs? Expert Says Yes & It’s Even More",
+      "link": "https://thehighstreetjournal.com/can-the-accra-kumasi-expressway-really-create-30000-jobs-expert-says-yes-its-even-more/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T15:00:38.000Z",
+      "summary": "Dr. Theo Acheampong says the Accra-Kumasi Expressway’s 30,000-job projection is conservative, with direct and indirect employment potentially reaching 50,000 job-years, depending on local…"
+    },
+    {
+      "title": "TCL sues Samsung for false advertising over ‘Mini LED’ televisions",
+      "link": "https://www.myjoyonline.com/tcl-sues-samsung-for-false-advertising-over-mini-led-televisions/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-13T14:58:59.000Z",
+      "summary": "Chinese consumer electronics company TCL has sued South Korea's Samsung in Los Angeles federal court, accusing its ​rival of falsely advertising some televisions as using \"Mini LED\"…"
+    },
+    {
+      "title": "Kpeshie Lagoon Clearing Enters Enforcement Phase With Demolition Drive",
+      "link": "https://thehighstreetjournal.com/kpeshie-lagoon-clearing/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T14:00:24.000Z",
+      "summary": "Government steps up enforcement at Laboma as reclamation and construction shrink the lagoon’s capacity to retain floodwaters"
+    },
+    {
+      "title": "Ghana Targets 400,000 Tonnes Of Tomatoes Under New Self-Sufficiency Drive",
+      "link": "https://thehighstreetjournal.com/ghana-targets-400000-tonnes-of-tomatoes-under-new-self-sufficiency-drive/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T13:00:57.000Z",
+      "summary": "Ghana plans to raise domestic tomato production to 400,000 tonnes annually as it seeks to cut reliance on imports and build a year-round supply chain."
+    },
     {
       "title": "The Land Market Crisis: A Critical Productive & Housing Asset Turned into a Speculative Financial Asset",
       "link": "https://thehighstreetjournal.com/the-land-market-crisis-a-critical-productive-housing-asset-turned-into-a-speculative-financial-asset/",
