@@ -1,1 +1,61 @@
-{}
+{
+  "bog-sefd": {
+    "checked": "2026-09-13T21:56:07.859Z",
+    "seen": [
+      "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-july-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-july-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-may-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-may-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-march-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-march-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-january-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-january-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-november-2025/",
+      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-november-2025/"
+    ]
+  },
+  "bog-mpc": {
+    "checked": "2026-09-13T21:56:10.084Z",
+    "seen": [
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-july-2026/",
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-may-2026/",
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-march-2026/",
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-january-2026/",
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-november-2025/",
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-september-2025/"
+    ]
+  },
+  "gss-home": {
+    "checked": "2026-09-13T21:56:12.983Z",
+    "seen": [
+      "https://statsghana.gov.gh/CPI_Inflation_Cal.html",
+      "https://statsghana.gov.gh/highlights/gdp-performance",
+      "https://statsghana.gov.gh/data-statistics/economic-statistics?tab=price-index",
+      "https://statsghana.gov.gh/data-statistics/economic-statistics?tab=national-accounts",
+      "https://statsghana.gov.gh/releases/upcoming/cpi-july-2026-release"
+    ]
+  },
+  "mofep": {
+    "checked": "2026-09-13T21:56:14.379Z",
+    "seen": [
+      "https://mofep.gov.gh/fiscal-data",
+      "https://mofep.gov.gh/public-debt",
+      "https://mofep.gov.gh/publications/budget-statements",
+      "https://mofep.gov.gh/debt-operations",
+      "https://mofep.gov.gh/news-and-events/2025-11-11/ghana-signs-bilateral-debt-agreement-with-germany",
+      "https://mofep.gov.gh/news-and-events/2025-09-25/ghana-and-uk-sign-landmark-debt-restructuring-agreement-paving-way-for-major-infrastructure-projects",
+      "https://mofep.gov.gh/news-and-events/2026-08-31/2027-2030-budget-preparation-guidelines",
+      "https://mofep.gov.gh/news-and-events/2026-04-06/85-percent-of%20mofas-2026-budget-released-to-boost-food-production-deputy-finance-minister"
+    ]
+  },
+  "npa": {
+    "checked": "2026-09-13T21:56:34.535Z",
+    "seen": [
+      "https://npa.gov.gh/indicative-prices/",
+      "https://npa.gov.gh/price-build-up-2/",
+      "https://npa.gov.gh/price-floor/",
+      "https://npa.gov.gh/ex-pump-prices/",
+      "https://npa.gov.gh/key-indicative-quality-parameters/"
+    ]
+  }
+}
