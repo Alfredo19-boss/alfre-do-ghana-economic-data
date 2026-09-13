@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-13T06:17:28.683Z",
+  "updated": "2026-09-13T12:04:25.061Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,67 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 1/10 stories",
+    "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "The Land Market Crisis: A Critical Productive & Housing Asset Turned into a Speculative Financial Asset",
+      "link": "https://thehighstreetjournal.com/the-land-market-crisis-a-critical-productive-housing-asset-turned-into-a-speculative-financial-asset/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T12:00:06.000Z",
+      "summary": "Dickson Assan argues Ghana’s land market increasingly rewards speculation over productive use, as asking prices fuel further price hikes without reflecting actual transactions, making…"
+    },
+    {
+      "title": "When Art Speaks: “LOST CHILDHOOD” Exhibition Gives Voice to Ukraine’s Lost Children",
+      "link": "https://thehighstreetjournal.com/art-lost-childhood-exhibition/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T11:15:11.000Z",
+      "summary": "According to UNICEF, nearly 50 million children worldwide had been displaced by conflict and violence by the end of 2024"
+    },
+    {
+      "title": "CIMA President Alfred Ramosedi to engage Ghana’s finance, business leaders",
+      "link": "https://www.myjoyonline.com/cima-president-alfred-ramosedi-to-engage-ghanas-finance-business-leaders/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-13T10:44:09.000Z",
+      "summary": "The President of the Chartered Institute of Management Accountants (CIMA), Alfred Ramosedi, will visit Ghana from September 18 to 19, 2026, for engagements with finance professionals…"
+    },
+    {
+      "title": "Is Poor Customer Service Pulling Down Your Business?",
+      "link": "https://thehighstreetjournal.com/is-poor-customer-service-pulling-down-your-business/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T10:30:39.000Z",
+      "summary": "Poor customer service can turn first-time buyers into lost customers."
+    },
+    {
+      "title": "Ghana’s economy is standing on concrete pillars today – Mahama",
+      "link": "https://www.ghanabusinessnews.com/2026/09/13/ghanas-economy-is-standing-on-concrete-pillars-today-mahama/",
+      "source": "Ghana Business News",
+      "published": "2026-09-13T10:03:02.000Z",
+      "summary": "President John Dramani Mahama has described Ghana’s economy as resilient and capable of withstanding external shocks, attributing the stability to prudent management under his…"
+    },
+    {
+      "title": "Public Sector Cannot Absorb All Graduates; 24-Hour Economy is Key to Job Creation — President Mahama",
+      "link": "https://thehighstreetjournal.com/public-sector-cannot-absorb-all-graduates-24-hour-economy-is-key-to-job-creation-president-mahama/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T09:30:06.000Z",
+      "summary": "President Mahama stated state payrolls cannot employ all graduates, highlighting the 24-Hour Economy and a $2.5 billion fund to drive private-sector jobs."
+    },
+    {
+      "title": "Ghana Can Turn Flowers Into Jobs and Cut Import Costs – Stratcomm CEO",
+      "link": "https://thehighstreetjournal.com/ghana-can-turn-flowers-into-jobs-and-cut-import-costs-stratcomm-ceo/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T09:00:00.000Z",
+      "summary": "Ghana can turn horticulture into a major economic opportunity by creating jobs, reducing flower imports, earning foreign exchange and building sustainable green businesses."
+    },
+    {
+      "title": "Government Secures Funding for a New Airport in Wa",
+      "link": "https://thehighstreetjournal.com/government-secures-funding-for-a-new-airport-in-wa/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T08:00:30.000Z",
+      "summary": "President Mahama announced secured funding and selected contractors for a modern Wa airport, featuring night-landing capabilities to boost transit, agribusiness, and tourism."
+    },
     {
       "title": "Nuclear Power: A Critical Link Between Africa’s Valuable Mineral Wealth and Their Processing",
       "link": "https://thehighstreetjournal.com/nuclear-power-a-critical-link-between-africas-valuable-mineral-wealth-and-their-processing/",
