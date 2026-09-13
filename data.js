@@ -6,7 +6,7 @@
  * Field guide: see README.md ("data.js field guide").
  */
 window.GDC_DATA = {
-  "checked": "11 September 2026",
+  "checked": "12 September 2026",
   "siteUrl": "",
   "fx": {
     "usd": 11.44,
@@ -311,19 +311,31 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "91-day T-bill",
-          "value": 4.80,
+          "value": 4.8,
           "dec": 2,
           "unit": "%",
           "date": "7 Sep 2026",
-          "note": "182-day at 6.67%"
+          "note": "▼ 14 basis points · 182-day at 6.67%",
+          "series": [
+            {
+              "date": "4 Sep 2026",
+              "value": 6.68
+            }
+          ]
         },
         {
           "label": "364-day T-bill",
-          "value": 10.12,
+          "value": 10.11,
           "dec": 2,
           "unit": "%",
           "date": "7 Sep 2026",
-          "note": "Weekly government auction"
+          "note": "▼ 66 basis points · weekly government auction",
+          "series": [
+            {
+              "date": "4 Sep 2026",
+              "value": 12
+            }
+          ]
         },
         {
           "label": "Average lending rate",
@@ -829,6 +841,10 @@ window.GDC_DATA = {
     }
   ],
   "sources": [
+    [
+      "T-bills auction, 7 September 2026 (MyJoyOnline)",
+      "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-by-51-interest-rates-fall-again/"
+    ],
     [
       "Bank of Ghana debt data, June 2026 (MyJoyOnline)",
       "https://www.myjoyonline.com/domestic-debt-increased-by-gh%C2%A257bn-to-gh%C2%A2391bn-in-june-2026-total-public-debt-now-gh%C2%A2719-5bn/"

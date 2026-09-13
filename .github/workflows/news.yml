@@ -1,10 +1,12 @@
 name: Update business news
 
-# Every hour: collects Ghana business headlines from publishers' RSS feeds into news-data.js,
-# which feeds the "Business news" tab. Commits only when there are new stories.
+# Every five minutes: collects Ghana business headlines from publishers' RSS feeds into
+# news-data.js and the day's front pages into papers-data.js. Commits only when there are new
+# stories, so a quiet run changes nothing. Five minutes is GitHub's fastest schedule, and its
+# scheduler is best-effort: a run can arrive late or be skipped when GitHub is busy.
 on:
   schedule:
-    - cron: "20 * * * *"   # every hour at :20
+    - cron: "*/5 * * * *"   # every five minutes
   workflow_dispatch:
 
 permissions:
@@ -25,6 +27,8 @@ jobs:
           node-version: 20
       - name: Collect headlines
         run: node scripts/fetch-news.mjs
+      - name: Fetch today's front pages
+        run: node scripts/fetch-papers.mjs || echo "Papers job failed; keeping the previous front pages."
       - name: Commit if there are new stories
         run: |
           git config user.name "alfredo-data-bot"
@@ -35,7 +39,7 @@ jobs:
             echo "No new stories."
             exit 0
           fi
-          git add news-data.js
+          git add news-data.js papers-data.js
           git commit -m "News headlines $(date -u +'%Y-%m-%d %H:%M')"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push

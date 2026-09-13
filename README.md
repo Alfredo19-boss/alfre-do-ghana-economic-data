@@ -8,9 +8,9 @@ It's a plain static site: no build step, no framework, no server.
 
 - Live ticking counters for total, domestic and external debt, debt per person, debt-to-GDP and the 2026 budget
 - **Widescreen layout**: on monitors 1680px and wider the page spreads into a full-width grid
-- **Board view**: a single 16:9 screen with everything on it, for TVs, projectors and wall displays. Click *Board view*, or open `yoursite/#board` to launch straight into it (handy for a TV browser). Press Esc to leave.
+- **Board view**: a single 16:9 screen for TVs, projectors and wall displays. The counters stay fixed at the top; the panel at the foot turns every 15 seconds through the debt milestones, live market rates, business news, African inflation, today's papers and the week's briefing — so a wall display shows everything the site holds within about a minute and a half. A panel with no data behind it yet is left out rather than shown empty. Ask Alfredo is on the board too, for a touch screen in a reception or classroom; while someone has him open, or has a figure's history panel open, the rotation holds still until they close it. Click *Board view*, or open `yoursite/#board` to launch straight into it (handy for a TV browser). Press Esc to leave.
 - **Tap any figure for its history**: a chart, a table of past readings and a plain-language trend read-out slide in from the side on a desktop and up from the bottom on a phone. Works by touch, mouse or keyboard (Tab to a figure, press Enter; Esc closes).
-- **The long view, 1993 to today**: inflation, growth, income per person, population, reserves, the cedi, exports, imports, the trade balance, remittances, unemployment and nominal GDP carry an annual series from the World Bank, refreshed monthly, with its own chart, trend and year-by-year table.
+- **The long view, 1993 to today**: around 30 annual series — inflation, growth, income per person, population, reserves, the cedi, exports, imports, the trade balance, remittances, unemployment, nominal GDP, the lending rate, bad loans, the current account, poverty, private credit, the real interest rate, tax and government revenue, government debt, oil's share of the economy, metals and food exports, pump prices, foreign investment, and the gold and cocoa price back to 2000 — each with its own chart, trend and year-by-year table behind the figure it belongs to. Where no long run exists (T-bill rates, mobile money, the minimum wage, tariffs), the panel says so plainly instead of leaving a gap.
 - **National days**: a flag banner on Independence Day, Founder's Day and every other public holiday, plus the dates ahead (Bank of Ghana rate decisions, budget day, inflation releases)
 - Milestone countdowns (next GH¢1bn, GH¢10bn, GH¢100bn, GH¢1 trillion)
 - Household share calculator (remembers the household size on that device)
@@ -21,21 +21,35 @@ It's a plain static site: no build step, no framework, no server.
 - Indicators worked out automatically: real interest rate, interest vs tax revenue, gold share of exports, debt per person in US$
 - Cedi per US dollar chart; board view alternates between economy and markets readouts every 12 seconds
 - **Green rates ticker** under the header: GH¢ against world and African currencies (Bank of Ghana interbank rates, market rates for currencies BoG does not quote) plus Ghana's GDP, updated daily
+- **Market, right now**: a live cedi quote for the dollar, pound, euro and yuan plus the gold price, refreshed every 20 minutes and stamped with the minute it was taken, alongside the Bank of Ghana's official once-a-morning rate
 - **Ghana's GDP so far this year** as a live green counter in the hero
-- **Business news tab** (`#news`): Ghana business headlines from publishers' RSS feeds, refreshed hourly, with search, topic and source filters and a market snapshot
+- **Business news tab** (`#news`): Ghana business headlines from publishers' RSS feeds, refreshed every five minutes, with search, topic and source filters and a market snapshot
+- **Africa inflation tab** (`#africa`): Ghana's inflation at the centre of an orbit of every other African country, each showing its latest published month-on-year rate, with a ranked table and a panel per country
+- **Today's papers tab** (`#papers`): the day's front-page stories from Daily Graphic, MyJoyOnline, Citi Newsroom, GNA and the Ghanaian Times — headline, short summary and a link to the publisher
+- **Articles tab** (`#articles`): a weekly briefing written automatically from the site's own figures, readable on the page and downloadable as markdown or PDF
+- **Ask Alfredo**: a chat box that answers questions about any figure on the dashboard — what it is, when it was published, how it has moved and how it is worked out
+- **Alfredo in five languages**: English, Twi, Ewe, Ga and Hausa. Questions typed or spoken in any of them are understood, and answers come back in the chosen language. All the wording lives in `lang-data.js`
+- **Ask by voice, listen to the answer**: a microphone button dictates the question, and a speaker button reads the answer aloud
+- **System status page** (`#status`, linked from the footer): when each automatic job last delivered, whether it is on time, and the age of every published figure
 - GH¢ / US$ toggle, charts with keyboard-accessible tooltips, data table, sources
 
 ```
 index.html                 page structure, meta tags
 styles.css                 all styling
 app.js                     live counters, charts, staleness warnings, board view
+lang-data.js               what Alfredo says in English, Twi, Ewe, Ga and Hausa (safe to edit)
 data.js                    figures entered and checked by people
 auto-data.js               rates and prices fetched automatically every day (do not edit)
-news-data.js               business headlines fetched automatically every hour (do not edit)
+news-data.js               business headlines fetched automatically every 5 minutes (do not edit)
+live-data.js               market quotes for the cedi, refreshed every 20 minutes (do not edit)
 history-data.js            annual World Bank series since 1993 (do not edit)
+africa-data.js             African inflation comparison, refreshed monthly (do not edit)
+papers-data.js             today's newspaper front pages, refreshed every 5 minutes (do not edit)
+articles-data.js           the weekly briefings shown on the Articles tab (do not edit)
+articles/                  the same briefings as markdown files, for download
 favicon.svg, og-image.png  icon and share preview
 scripts/                   update scripts used by the GitHub automations
-.github/workflows/         the six GitHub automations
+.github/workflows/         the eight GitHub automations
 .github/data-watch/        what the release watcher has already seen
 ```
 
@@ -116,10 +130,16 @@ The site has three layers, so it stays current without anyone retyping numbers f
 | What | How it updates | You do |
 |---|---|---|
 | Exchange rates (US$, £, €), gold price, cocoa price, daily cedi history | **Update market data** runs every day at 07:15 GMT, fetches the Bank of Ghana interbank table (with a market-rate fallback), spot gold and ICE cocoa, checks every value is in a sensible range, and commits `auto-data.js`. The site republishes itself. | Nothing |
+| Live cedi and gold quotes | **Update live rates** runs every 20 minutes, takes a market quote for the dollar, pound, euro, yuan and gold, and commits `live-data.js` — but only when a rate has actually moved. Each quote keeps the minute it was taken. This never touches the Bank of Ghana figure. | Nothing |
 | Official statistics (debt, inflation, policy rate, budget, tariffs, fuel prices…) | **Watch official releases** checks Bank of Ghana, Ghana Statistical Service, Ministry of Finance, PURC and NPA pages every weekday at 09:00 GMT. When something new appears it opens a GitHub **issue** with the links, the figures affected and the lines from the PDF that mention key numbers. | Read the issue, check the PDF |
 | Recording the new figures | **Record debt figures** and **Update a reading** are forms in the Actions tab. They edit `data.js` safely (with checks for typos and wrong units) and open a **pull request**. | Fill the form, review, merge |
-| The long annual series (1993 onwards) | **Update long history** runs on the 3rd of each month, reads Ghana's series from the World Bank's open data API (no key needed), and commits `history-data.js`. | Nothing |
-| Business news headlines | **Update business news** runs every hour, reads RSS feeds from MyJoyOnline, Citi Newsroom, The High Street Journal, Ghana Business News, Ghana News Agency and News Ghana, keeps business stories (headline, short summary, date, link) and commits `news-data.js` when there are new stories. The news tab also reloads headlines every 10 minutes for visitors who keep it open. | Nothing |
+| The long annual series (1993 onwards) | **Update long history** runs on the 3rd of each month, reads 27 of Ghana's series from the World Bank's open data API (no key needed) plus the gold and cocoa price from the futures market, and commits `history-data.js`. A series that fails to arrive keeps the run already in the file. | Nothing |
+| Business news headlines | **Update business news** runs every five minutes, reads RSS feeds from MyJoyOnline, Citi Newsroom, The High Street Journal, Ghana Business News, Ghana News Agency and News Ghana, keeps business stories (headline, short summary, date, link) and commits `news-data.js` when there are new stories. A quiet run commits nothing. | Nothing |
+| African inflation comparison | **Update long history** also runs `scripts/fetch-africa.mjs` on the 3rd of each month. The file ships with the prevailing rate for 53 African countries, checked by hand; the job tops each one up from the World Bank's Global Economic Monitor (monthly CPI, year on year) and only ever replaces a country with a **newer month**, so a missing or failed feed changes nothing. Ghana's own figure is copied from `data.js`, so the board and the dashboard can never disagree. | Nothing |
+| Today's papers | **Update business news** also runs `scripts/fetch-papers.mjs` every five minutes, reads the front-page feeds of Daily Graphic, MyJoyOnline, Citi Newsroom, GNA and the Ghanaian Times, keeps the newest eight per masthead from the last three days and commits `papers-data.js`. | Nothing |
+| The weekly briefing | **Write weekly briefing** runs every Monday at 06:30 GMT, reads `data.js`, `auto-data.js` and `history-data.js`, writes the week's article into `articles/` and adds it to `articles-data.js`. Every figure in it comes from the site, so nothing is invented. | Read it; edit the markdown file if you want to |
+| Checking on all of it | The **System status** page (footer link, or `#status`) reads the data files themselves and shows, per job, when it last delivered and whether that is on time, plus every figure and its age. Look here first if something seems stale. | Glance at it now and then |
+| An open page | The page refreshes itself every minute (`REFRESH_MS` in `app.js`). It re-reads all seven data files; the portals (news, papers, Africa, briefings) are swapped in quietly so the reader keeps their place, and a change to the figures behind the counters reloads the page — but never while a detail panel, the board view or Alfredo is open. | Nothing |
 | Warnings | The website marks any figure past its usual update date with **Update due**, and shows a notice if the debt data is more than 120 days old, the budget year has ended, or the daily job has stopped. | Nothing |
 
 Nothing official changes on the public site until a person has checked it and merged the pull request.
@@ -147,8 +167,15 @@ The live debt estimate recalculates its pace on its own: it uses the newest read
 - **Scheduled jobs pause if a repo is idle.** GitHub disables scheduled workflows in public repos after 60 days without activity. The daily market-data commit normally keeps the repo active; if the jobs ever stop, open the Actions tab and re-enable them.
 - **Source websites change.** If a page is redesigned, the job for that source logs a failure and the site keeps the last good value (and eventually shows **Update due**). Edit the address or pattern in `scripts/fetch-market-data.mjs` or `scripts/watch-releases.mjs`.
 - **News sources** are listed at the top of `scripts/fetch-news.mjs`. Add or remove a feed there; set `filter: true` for feeds that mix general news so only business stories are kept. Headlines and links belong to their publishers; the site shows headlines and short summaries only and links to the full story.
+- **African inflation figures** live in `africa-data.js`, one entry per country: `latest` (value, month and a sort key such as `2026-08`), `prev` (the month before) and `series`. To correct one by hand, edit its `latest.value` and `latest.period`; the monthly job leaves it alone unless it finds a later month. Add a country by copying an entry and giving it the right ISO3 code.
+- **How live the rates are.** The Bank of Ghana publishes its interbank rate once each morning: that stays the official figure the rest of the page counts with. The market quote in the ticker is as current as a free feed allows — every 20 minutes, GitHub's fastest practical schedule — and always carries its own timestamp, so nothing is presented as newer than it is. Tick-by-tick rates need a paid feed and a server of your own; the sources in `scripts/fetch-live-fx.mjs` are where you would swap one in.
+- **Newspaper mastheads** are listed at the top of `scripts/fetch-papers.mjs` (name and feed address). Add or remove one there. As with the news tab, only the headline, a short summary and the link are stored, and every story opens on the publisher's own site.
+- **Alfredo's languages** are all in `lang-data.js`, one block per language: `strings` (what he says), `labels` (the names of figures), `suggestions` (the buttons under the chat) and `ask` (words people might use in that language). Anything in `{braces}` is a live figure — keep the braces, move them around the sentence as the language needs. Delete a line and it falls back to English, so a half-finished translation never breaks the page. To add a language, copy a block, change the code and the `name`, and translate what you can. The Twi, Ewe, Ga and Hausa wordings are a first pass and deserve a native speaker's eye.
+- **Voice depends on the device, not this site.** Dictation uses the browser's own speech recognition — best on Chrome, Android and desktop; Safari on iPhone is patchy. There is no speech model for Twi, Ewe or Ga anywhere yet, so dictation in those languages falls back to listening in English while Alfredo still answers in the chosen language. Reading answers aloud uses the voices installed on the device: most have English (and often Hausa), few have Ghanaian languages, so Alfredo uses the nearest voice available.
+- **Ask Alfredo answers from the site itself**, not from an outside service, so there is no key to buy and nothing to pay for. If you ever want it to answer wider questions, set `alfredo.apiUrl` in `data.js` to your own small endpoint; Alfredo will send the question plus a summary of the current figures and show whatever comes back. Leave it blank and Alfredo stays on the dashboard's own numbers.
+- **The weekly briefing** is built by `scripts/write-article.mjs` from the published figures — it does not guess. Change the wording or add a section there. Each article is a plain markdown file in `articles/`, so you can edit one by hand before sharing it.
 - **Ticker currencies** are set in `data.js` under `fxTicker` (code, name and how many units to quote, for example 1,000 naira). The daily job fetches whatever is listed.
-- **Run the scripts on your computer** (Node 20+): `node scripts/fetch-news.mjs`, `node scripts/fetch-market-data.mjs`, `node scripts/watch-releases.mjs --dry-run`, `node scripts/record-debt.mjs --month-end 2026-07-31 --total 735.2 …`, `node scripts/update-reading.mjs --label "Inflation" --value 4.8 --date "Sep 2026"`.
+- **Run the scripts on your computer** (Node 20+): `node scripts/fetch-news.mjs`, `node scripts/fetch-market-data.mjs`, `node scripts/watch-releases.mjs --dry-run`, `node scripts/record-debt.mjs --month-end 2026-07-31 --total 735.2 …`, `node scripts/update-reading.mjs --label "Inflation" --value 4.8 --date "Sep 2026"`, `node scripts/fetch-africa.mjs`, `node scripts/fetch-papers.mjs`, `node scripts/write-article.mjs`.
 
 ## data.js field guide
 

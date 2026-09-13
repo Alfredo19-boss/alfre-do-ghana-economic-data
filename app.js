@@ -291,7 +291,8 @@
     const box = $("data-status");
     if (issues.length) {
       box.hidden = false;
-      $("data-status-text").innerHTML = issues.map(t => `<li>${esc(t.charAt(0).toUpperCase() + t.slice(1))}.</li>`).join("");
+      $("data-status-text").innerHTML = issues.map(t => `<li>${esc(t.charAt(0).toUpperCase() + t.slice(1))}.</li>`).join("")
+        + `<li><a href="#status">See what is arriving and what is late</a>.</li>`;
     }
     $$("[data-auto-status]").forEach(el => (el.textContent = A.updated
       ? `Exchange rates and prices updated automatically · last run ${isoDayLabel(A.updated.slice(0, 10))}, ${clock12(Date.parse(A.updated), false).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()} GMT`
@@ -480,7 +481,13 @@
   const HIST = (window.GDC_HISTORY && window.GDC_HISTORY.series) || {};
   const HIST_SRC = (window.GDC_HISTORY || {}).source || "World Bank";
   const HIST_URL = (window.GDC_HISTORY || {}).sourceUrl || "";
-  const HIST_ALIAS = { "Trade surplus": "balance", "Nominal GDP": "gdp", "Remittances": "Remittances" };
+  const HIST_ALIAS = {
+    "Trade surplus": "balance", "Nominal GDP": "gdp", "Remittances": "Remittances",
+    "Oil exports": "oil", "Jubilee oil output": "oil",
+    "Gold exports": "metals", "Cocoa exports": "foodex",
+    "Bank lending growth": "Private credit growth",
+    "Real interest rate": "realrate"
+  };
   function longHistory(key) {
     const h = HIST[HIST_ALIAS[key] || key];
     if (!h || !Array.isArray(h.points) || h.points.length < 5) return "";
@@ -624,14 +631,45 @@
     const [type, id] = [key.slice(0, key.indexOf(":")), key.slice(key.indexOf(":") + 1)];
     const t = Date.now();
 
+    // a country on the Africa inflation board
+    if (type === "africa") {
+      const A = africaData();
+      const c = A && A.countries ? A.countries[id] : null;
+      if (!c || !c.latest) return null;
+      const gh = A.countries.GHA;
+      const pc = { unit: "%", dec: 1 };
+      const list = Object.values(A.countries).filter(x => x.latest).map(x => x.latest.value).sort((a, b) => a - b);
+      const place = list.length - list.indexOf(c.latest.value);
+      const diff = c.latest.value - gh.latest.value;
+      const move = typeof c.prev === "number" ? c.latest.value - c.prev : null;
+      const points = (c.series || []).map(p => ({ date: p.date, value: p.value }));
+      return {
+        eyebrow: `African inflation · ${esc(c.region || "")}`,
+        title: c.name,
+        body: `
+          <div class="facts">
+            ${factRow("Inflation", `${fmt(c.latest.value, 1)}<span class="u">%</span>`)}
+            ${factRow("As of", esc(c.latest.period || ""))}
+            ${typeof c.prev === "number" ? factRow("Month before", `${fmt(c.prev, 1)}% · ${move > 0 ? "up" : move < 0 ? "down" : "unchanged"}${move ? ` ${fmt(Math.abs(move), 1)} pts` : ""}`) : ""}
+            ${factRow("Against Ghana", id === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts (Ghana ${fmt(gh.latest.value, 1)}%)`)}
+            ${factRow("Rank in Africa", `${ordinal(place)} highest of ${list.length}`)}
+          </div>
+          ${points.length > 2 ? sheetSection("Recent months, %", sheetChart(points, pc)) : ""}
+          ${points.length > 1 ? sheetSection("Readings", sheetTable(points, pc)) : `<div class="sheet-empty"><b>One reading so far.</b><p>This board keeps every month it collects, so ${esc(c.name)} will build a run of readings from here.</p></div>`}
+          <p class="sheet-src">${esc(A.note || "")}</p>`
+      };
+    }
+
     if (type === "read") {
       const it = READS.get(id);
       if (!it) return null;
       const u = unitBits(it);
       const points = seriesOf(it);
       const age = staleDays(it);
+      const nowQ = liveFor(it.label);
       const facts = [
-        factRow("Latest reading", showVal(it.value, u)),
+        nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(liveTime(nowQ.at))}</span>`) : "",
+        factRow(nowQ ? "Official reading" : "Latest reading", showVal(it.value, u)),
         factRow("Period", esc(it.date || "—")),
         it.autoSource ? factRow("Updated", "Automatically, every morning") : "",
         age ? factRow("Age", `${age} days old · update due`) : ""
@@ -641,12 +679,13 @@
         title: it.label,
         body: `
           <div class="facts">${facts}</div>
+          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The official reading above is the Bank of Ghana's, published once each morning — it is the figure the rest of this page counts with.</p>` : ""}
           ${it.note ? `<p class="sheet-note">${toneNote(it.note, it.tone)}</p>` : ""}
           ${points.length > 1
             ? sheetSection("History", sheetChart(points, u) + sheetTable(points, u)) + sheetSection("Trend", trendHtml(analyse(points, u)))
             : `<div class="sheet-empty"><b>No history recorded yet.</b><p>This figure has one published reading so far. Every time it is updated — automatically each morning for market prices, or through the update form for published figures — the old reading is kept here, so the chart and trend build up from now on.</p></div>`}
           ${it.seriesSource ? `<p class="sheet-src">History from ${esc(it.seriesSource)}.</p>` : ""}
-          ${longHistory(it.label)}`
+          ${longHistory(it.label) || `<p class="sheet-src">No annual run back to 1993 is published anywhere for this figure, so there is no long chart to show. Its history here builds from the readings this site records, one per release.</p>`}`
       };
     }
 
@@ -670,6 +709,7 @@
           </div>
           <div class="sheet-bar" aria-hidden="true"><i style="width:${(f * 100).toFixed(1)}%"></i></div>
           <p class="sheet-note">${esc(b.note)}</p>
+          ${longHistory({ rev: "revenue", tax: "tax", int: "govdebt" }[id] || "")}
           <div class="sheet-empty">
             <b>How this figure moves.</b>
             <p>Budget lines are annual amounts approved by Parliament. The dashboard spreads each one evenly across the year and counts it up from 1 January, so the live figure is ${fmt(f * 100, 1)}% of the year's total. It is an even-pace estimate, not actual spending to date. A new budget every November replaces these figures.</p>
@@ -818,7 +858,8 @@
             </div>
             ${sheetSection("Year-end and monthly readings, % of GDP", sheetChart(points, pct) + sheetTable(points, pct))}
             ${sheetSection("Trend", trendHtml(analyse(points, pct)))}
-            <p class="sheet-src">The live figure divides the debt estimate by the ${Y} nominal GDP projection of ${short(D.debt.nominalGdp)}.</p>`
+            <p class="sheet-src">The live figure divides the debt estimate by the ${Y} nominal GDP projection of ${short(D.debt.nominalGdp)}.</p>
+            ${longHistory("govdebt")}`
         };
       }
       if (id === "pop") {
@@ -1138,6 +1179,7 @@
     scaleStage();
     lastSecond = -1; tick();
     drawSpark();
+    renderBoardDeck();
     fit(board);
     renderTicker();
     if (location.hash !== "#board") { try { history.replaceState(null, "", "#board"); } catch (e) {} }
@@ -1201,11 +1243,38 @@
     if (!x || !x.ghs) return "";
     return `<span class="t-item"><span class="t-name">GH¢1 in ${esc(label)}</span><b>${esc(SYMBOL[code] || "")}${sig(1 / x.ghs, 4)}${SYMBOL[code] ? "" : " " + esc(code)}</b></span>`;
   }
+  // Market quotes taken through the day (live-data.js, every 20 minutes). The Bank of Ghana's
+  // interbank rate stays the official figure; this is what the market is quoting right now.
+  const liveData = () => window.GDC_LIVE || null;
+  const LIVE_MAX_AGE = 8 * 3600e3;          // older than this and it is not "now" any more
+  function liveQuotes() {
+    const LV = liveData();
+    if (!LV || !LV.quotes) return [];
+    return Object.entries(LV.quotes)
+      .filter(([, q]) => q && typeof q.value === "number" && q.at && Date.now() - Date.parse(q.at) < LIVE_MAX_AGE)
+      .map(([key, q]) => ({ key, ...q }));
+  }
+  const LIVE_LABELS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur", "Chinese yuan": "cny", "Gold price": "gold" };
+  const liveFor = label => liveQuotes().find(q => q.key === LIVE_LABELS[label]) || null;
+  const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
+  function liveGroup() {
+    const qs = liveQuotes();
+    if (!qs.length) return "";
+    const items = qs.map(q => {
+      const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
+      const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
+      const name = q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`;
+      return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span class="t-rev">${esc(liveTime(q.at))}</span></span>`;
+    }).join("");
+    return `<span class="t-group t-group-live">Market, right now</span>${items}`;
+  }
+
   function renderTicker() {
     if (!tickerTrack || !D.fxTicker) return;
     const growth = allItems.find(i => i.label === "Real GDP growth");
     const perPerson = allItems.find(i => i.label === "Income per person");
     const gdpUsd = D.debt.nominalGdp / D.fx.usd;
+    const live = liveGroup();
     const cedi = [
       `<span class="t-item t-cedi"><span class="t-code">GHS</span><span class="t-name">Ghana cedi</span><b>GH¢1.00</b><span class="t-rev">base currency · 100 pesewas</span></span>`,
       cediItem("USD", "US dollars"), cediItem("EUR", "euros"), cediItem("GBP", "pounds"), cediItem("CNY", "yuan"),
@@ -1219,7 +1288,7 @@
     ].join("");
     const world = D.fxTicker.world.map(tickerItem).join("");
     const africa = D.fxTicker.africa.map(tickerItem).join("");
-    const copy = `<span class="ticker-copy"><span class="t-group t-group-cedi">Ghana cedi</span>${cedi}<span class="t-group">Ghana GDP</span>${gdp}<span class="t-group">Africa vs GH¢</span>${africa}<span class="t-group">World vs GH¢</span>${world}</span>`;
+    const copy = `<span class="ticker-copy">${live}<span class="t-group t-group-cedi">Ghana cedi</span>${cedi}<span class="t-group">Ghana GDP</span>${gdp}<span class="t-group">Africa vs GH¢</span>${africa}<span class="t-group">World vs GH¢</span>${world}</span>`;
     const both = copy + copy.replace('class="ticker-copy"', 'class="ticker-copy" aria-hidden="true"');
     tickerTracks.forEach(tr => { if (tr.innerHTML !== both) tr.innerHTML = both; });
     $$("[data-fx-date]").forEach(el => (el.textContent = FXT.date ? isoDayLabel(FXT.date) : ""));
@@ -1255,23 +1324,208 @@
     } catch (e) { /* offline or blocked: keep the stored rates */ }
   }
 
-  /* ================= views: dashboard / business news ================= */
+  /* ================= views: dashboard, news, Africa, papers, briefings ================= */
   const newsView = $("news-view");
+  const VIEWS = {
+    dashboard: { el: $("dashboard-view") },
+    news: { el: newsView, draw: () => renderNews() },
+    africa: { el: $("africa-view"), draw: () => renderAfrica() },
+    papers: { el: $("papers-view"), draw: () => renderPapers() },
+    articles: { el: $("articles-view"), draw: () => renderArticles() },
+    status: { el: $("status-view"), draw: () => renderStatus() }
+  };
+  let drawn = {};
   function setView(view) {
-    const news = view === "news";
-    document.body.dataset.view = news ? "news" : "dashboard";
-    newsView.hidden = !news;
-    $$("[data-view-link]").forEach(a => (a.dataset.viewLink === (news ? "news" : "dashboard") ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
-    if (news) renderNews();
+    if (!VIEWS[view]) view = "dashboard";
+    document.body.dataset.view = view;
+    Object.entries(VIEWS).forEach(([name, v]) => { if (v.el) v.el.hidden = name !== view; });
+    $$("[data-view-link]").forEach(a => (a.dataset.viewLink === view ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
+    const v = VIEWS[view];
+    if (v.draw && (!drawn[view] || view === "news" || view === "status")) { v.draw(); drawn[view] = true; }
     fit();
   }
   function routeFromHash() {
     const h = location.hash.replace("#", "");
     if (h === "board") return;
-    if (h === "news") { setView("news"); window.scrollTo(0, 0); }
-    else if (h === "dashboard" || h === "" || document.body.dataset.view === "news") { setView("dashboard"); if (h === "dashboard") window.scrollTo(0, 0); }
+    const view = VIEWS[h] ? h : "dashboard";
+    if (view !== document.body.dataset.view) { setView(view); window.scrollTo(0, 0); }
+    else if (h === "dashboard") window.scrollTo(0, 0);
   }
   window.addEventListener("hashchange", routeFromHash);
+
+  /* ================= Africa inflation: Ghana at the centre ================= */
+  const africaData = () => window.GDC_AFRICA || null;
+  function renderAfrica() {
+    const AFRICA = africaData();
+    if (!AFRICA || !AFRICA.countries) { $("africa-status").textContent = "No data yet"; return; }
+    const gh = AFRICA.countries.GHA;
+    const list = Object.entries(AFRICA.countries)
+      .map(([iso, c]) => ({ iso, ...c, value: c.latest.value, period: c.latest.period || c.latest.year || "" }))
+      .sort((a, b) => a.value - b.value);
+    const rank = list.findIndex(c => c.iso === "GHA") + 1;
+    const median = list[Math.floor(list.length / 2)].value;
+    const ghPeriod = gh.latest.period || gh.latest.year || "";
+
+    $("africa-status").textContent = `${list.length} countries · prevailing rates`;
+    $("africa-intro").innerHTML = `Ghana's inflation of <b>${fmt(gh.latest.value, 1)}%</b> in ${esc(ghPeriod)} is the <b>${ordinal(list.length - rank + 1)} highest</b> of ${list.length} African countries, ${Math.abs(gh.latest.value - median) < 0.25 ? `in line with the median of ${fmt(median, 1)}%` : `against a median of ${fmt(median, 1)}%`}. Each country shows the latest month it has published, so the months differ.`;
+
+    // the orbit: Ghana at the centre, the rest on three rings, closest rates nearest the middle.
+    // Rings are filled in proportion to their circumference so nothing overlaps.
+    const others = list.filter(c => c.iso !== "GHA")
+      .sort((a, b) => Math.abs(a.value - gh.latest.value) - Math.abs(b.value - gh.latest.value));
+    const RADIUS = [25, 35, 45], TILT = [0, 0.5, 0.25];
+    const share = RADIUS.map(r => r / RADIUS.reduce((s, x) => s + x, 0));
+    const rings = [[], [], []];
+    let cut = 0;
+    share.forEach((s, r) => {
+      const n = r === 2 ? others.length - cut : Math.round(others.length * s);
+      rings[r] = others.slice(cut, cut + n).sort((a, b) => a.value - b.value);
+      cut += n;
+    });
+    $("orbit").classList.toggle("dense", others.length > 30);
+    const html = rings.flatMap((ring, r) => ring.map((c, j) => {
+      const diff = c.value - gh.latest.value;
+      const angle = ((j + TILT[r]) / Math.max(ring.length, 1)) * Math.PI * 2 - Math.PI / 2;
+      const x = 50 + RADIUS[r] * Math.cos(angle) * 1.02;
+      const y = 50 + RADIUS[r] * Math.sin(angle) * 0.98;
+      const band = Math.abs(diff) <= 2 ? "near" : diff > 0 ? "high" : "low";
+      return `<button type="button" class="orb ${band}" style="left:${x.toFixed(2)}%;top:${y.toFixed(2)}%" data-iso="${esc(c.iso)}" data-detail="africa:${esc(c.iso)}"
+        title="${esc(c.name)}: ${fmt(c.value, 1)}% in ${esc(c.period)} · ${diff > 0 ? "+" : ""}${fmt(diff, 1)} points against Ghana">
+        <b>${fmt(c.value, 1)}</b><span>${esc(c.name)}</span></button>`;
+    })).join("");
+
+    $("orbit").innerHTML = `
+      <div class="orb-rings" aria-hidden="true"><i></i><i></i><i></i></div>
+      <div class="orb-centre" title="Ghana: ${fmt(gh.latest.value, 1)}% (${esc(ghPeriod)})">
+        <span class="orb-flag" aria-hidden="true"></span>
+        <b>${fmt(gh.latest.value, 1)}<small>%</small></b>
+        <span>Ghana · ${esc(ghPeriod)}</span>
+      </div>${html}`;
+
+    $("africa-table").innerHTML = `
+      <thead><tr><th>#</th><th>Country</th><th>Inflation</th><th>As of</th><th>Vs Ghana</th><th>Month before</th></tr></thead>
+      <tbody>${list.map((c, i) => {
+        const diff = c.value - gh.latest.value;
+        const prev = typeof c.prev === "number" ? c.prev
+          : (c.series || []).filter(p => p.date !== c.latest.key).slice(-1)[0]?.value;
+        const move = typeof prev === "number" ? c.value - prev : null;
+        return `<tr class="${c.iso === "GHA" ? "is-ghana" : ""}" data-detail="africa:${esc(c.iso)}" aria-label="${esc(c.name)}: show its readings">
+          <td class="n">${i + 1}</td>
+          <td>${esc(c.name)}<span class="reg">${esc(c.region)}</span></td>
+          <td class="v">${fmt(c.value, 1)}<small>%</small></td>
+          <td class="d">${esc(c.period)}</td>
+          <td class="d ${diff > 0 ? "up" : diff < 0 ? "down" : ""}">${c.iso === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts`}</td>
+          <td class="d">${typeof prev === "number" ? `${fmt(prev, 1)}% <span class="${move > 0 ? "up" : move < 0 ? "down" : ""}">${move > 0 ? "▲" : move < 0 ? "▼" : "—"}</span>` : "—"}</td>
+        </tr>`;
+      }).join("")}</tbody>`;
+
+    markTappable();
+    const src = AFRICA.sourceUrl ? ` <a href="${esc(AFRICA.sourceUrl)}" target="_blank" rel="noopener">${esc(AFRICA.source)}</a>.` : "";
+    $("africa-note").innerHTML = `${esc(AFRICA.note || "")}${src}`;
+  }
+  const ordinal = n => `${n}${["th", "st", "nd", "rd"][(n % 100 - n % 10 !== 10) * (n % 10 < 4) * (n % 10)] || "th"}`;
+
+  /* ================= today's papers ================= */
+  const paperData = () => window.GDC_PAPERS || { items: [] };
+  let paperFilter = "";
+  function renderPapers() {
+    const PAPERS = paperData();
+    const items = (PAPERS.items || []).filter(i => !paperFilter || i.source === paperFilter);
+    const mastheads = [...new Set((PAPERS.items || []).map(i => i.source))];
+    $("papers-status").textContent = PAPERS.updated
+      ? `${(PAPERS.items || []).length} stories · ${timeAgo(PAPERS.updated)} · checked every minute`
+      : "Waiting for the first run";
+    $("paper-filters").innerHTML = mastheads.length ? [["", "All papers"], ...mastheads.map(m => [m, m])]
+      .map(([v, label]) => `<button type="button" data-paper="${esc(v)}" class="${paperFilter === v ? "on" : ""}">${esc(label)}</button>`).join("") : "";
+    $("papers-empty").hidden = items.length > 0;
+
+    const byPaper = new Map();
+    items.forEach(i => byPaper.set(i.source, [...(byPaper.get(i.source) || []), i]));
+    $("papers").innerHTML = [...byPaper.entries()].map(([source, stories]) => {
+      const lead = stories[0];
+      return `<section class="paper">
+        <header class="paper-head">
+          <h2>${esc(source)}</h2>
+          <span class="note">${stories.length} stor${stories.length === 1 ? "y" : "ies"} · ${esc(timeAgo(lead.published))}</span>
+        </header>
+        <a class="paper-lead" href="${esc(lead.link)}" target="_blank" rel="noopener">
+          <h3>${esc(lead.title)}</h3>
+          ${lead.summary ? `<p>${esc(lead.summary)}</p>` : ""}
+          <span class="paper-when">${esc(timeAgo(lead.published))}</span>
+        </a>
+        <ol class="paper-rest">${stories.slice(1).map(s => `
+          <li><a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a><span>${esc(timeAgo(s.published))}</span></li>`).join("")}</ol>
+      </section>`;
+    }).join("");
+  }
+  $("paper-filters").addEventListener("click", e => {
+    const b = e.target.closest("button[data-paper]");
+    if (!b) return;
+    paperFilter = b.dataset.paper;
+    renderPapers();
+  });
+
+  /* ================= briefings ================= */
+  const articleData = () => ((window.GDC_ARTICLES || {}).articles || []);
+  let openArticle = 0;
+  function markdown(md) {
+    const inline = t => esc(t)
+      .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
+      .replace(/\*([^*]+)\*/g, "<i>$1</i>")
+      .replace(/`([^`]+)`/g, "<code>$1</code>");
+    return md.split(/\n{2,}/).map(block => {
+      const b = block.trim();
+      if (!b) return "";
+      if (b === "---") return "<hr>";
+      if (b.startsWith("## ")) return `<h3>${inline(b.slice(3))}</h3>`;
+      if (b.startsWith("# ")) return `<h2>${inline(b.slice(2))}</h2>`;
+      if (/^- /m.test(b)) return `<ul>${b.split("\n").map(l => `<li>${inline(l.replace(/^- /, ""))}</li>`).join("")}</ul>`;
+      return `<p>${inline(b)}</p>`;
+    }).join("");
+  }
+  function renderArticles() {
+    const ARTICLES = articleData();
+    $("articles-status").textContent = ARTICLES.length
+      ? `${ARTICLES.length} briefing${ARTICLES.length === 1 ? "" : "s"} · newest ${esc(ARTICLES[0].date)}`
+      : "Waiting for the first run";
+    $("articles-empty").hidden = ARTICLES.length > 0;
+    if (!ARTICLES.length) { $("article-list").innerHTML = ""; $("article-read").innerHTML = ""; return; }
+
+    $("article-list").innerHTML = ARTICLES.map((a, i) => `
+      <button type="button" class="art-item${i === openArticle ? " on" : ""}" data-article="${i}">
+        <span class="art-date">${esc(a.date)}</span>
+        <span class="art-title">${esc(a.title)}</span>
+      </button>`).join("");
+
+    const a = ARTICLES[openArticle];
+    $("article-read").innerHTML = `
+      <div class="art-head">
+        <p class="news-eyebrow">Briefing · ${esc(a.date)}</p>
+        <h2>${esc(a.title)}</h2>
+        <p class="art-stand">${esc(a.standfirst)}</p>
+        <div class="art-actions">
+          <a class="btn" href="${esc(a.file)}" download>Download markdown</a>
+          <button type="button" class="btn" id="art-print">Save as PDF</button>
+          <button type="button" class="btn" id="art-copy">Copy text</button>
+        </div>
+      </div>
+      <div class="art-body" id="art-body">${markdown(a.body)}</div>`;
+    $("art-print").addEventListener("click", () => window.print());
+    $("art-copy").addEventListener("click", async () => {
+      const text = `${a.title}\n\n${a.standfirst}\n\n${a.body}`;
+      try { await navigator.clipboard.writeText(text); $("art-copy").textContent = "Copied"; }
+      catch { $("art-copy").textContent = "Select the text to copy"; }
+      setTimeout(() => ($("art-copy").textContent = "Copy text"), 2200);
+    });
+  }
+  $("article-list").addEventListener("click", e => {
+    const b = e.target.closest("[data-article]");
+    if (!b) return;
+    openArticle = +b.dataset.article;
+    renderArticles();
+    $("article-read").scrollIntoView({ block: "nearest", behavior: "smooth" });
+  });
+
 
   /* ================= business news ================= */
   const TOPICS = [
@@ -1328,8 +1582,8 @@
     $("news-list").hidden = !shown.length;
     $("news-empty").hidden = !!shown.length;
     $("news-status").textContent = N.updated
-      ? `Updated ${timeAgo(N.updated)} · refreshes hourly`
-      : `${N.sample || "Sample headlines"} · hourly updates start once the news job runs`;
+      ? `Updated ${timeAgo(N.updated)} · this page checks every minute`
+      : `${N.sample || "Sample headlines"} · updates start once the news job runs`;
     const recent = items.filter(i => Date.now() - Date.parse(i.published) < 24 * 3600e3).length;
     const badge = $("news-badge");
     badge.hidden = !recent;
@@ -1351,16 +1605,500 @@
   });
   $("news-source").addEventListener("change", e => { newsState.source = e.target.value; renderNews(); });
   $("news-search").addEventListener("input", e => { newsState.q = e.target.value; renderNews(); });
-  // refresh headlines every 10 minutes on the live site
-  setInterval(() => {
-    if (!/^https?:/.test(location.protocol)) { if (!newsView.hidden) renderNews(); return; }
-    const before = (window.GDC_NEWS || {}).updated;
-    const sc = document.createElement("script");
-    sc.src = `news-data.js?t=${Date.now()}`;
-    sc.onload = () => { sc.remove(); if ((window.GDC_NEWS || {}).updated !== before || !newsView.hidden) renderNews(); };
-    sc.onerror = () => sc.remove();
-    document.body.appendChild(sc);
-  }, 10 * 60 * 1000);
+  // headlines, papers, the Africa board and the briefings are re-read by the
+  // five-minute refresh at the foot of this file.
+
+  /* ================= system status: is everything still arriving? ================= */
+  // Every figure on this site comes from a file that some job writes. This page says, in
+  // plain language, when each one last delivered and how old each published figure is.
+  const DAY_MS = 24 * 3600e3;
+  function renderStatus() {
+    const now = Date.now();
+    const age = iso => (iso ? (now - Date.parse(iso)) / DAY_MS : null);
+    const NEWS = window.GDC_NEWS || {}, PAPERS = window.GDC_PAPERS || {},
+          AFRICA = window.GDC_AFRICA || {}, ARTS = (window.GDC_ARTICLES || {}).articles || [],
+          HISTF = window.GDC_HISTORY || {};
+    const lastLog = f => {
+      const entry = (f.log || [])[0];
+      if (!entry) return "";
+      const msgs = Array.isArray(entry.messages) ? entry.messages : [entry];
+      return msgs.slice(0, 2).join(" · ");
+    };
+    const JOBS = [
+      { name: "Update market data", feeds: "Cedi rates, gold, cocoa, the ticker",
+        every: "Every day, 07:15 GMT", at: A.updated, lateAfter: 2.5, note: lastLog(A) },
+      { name: "Update business news", feeds: "Business news tab",
+        every: "Every 5 minutes", at: NEWS.updated, lateAfter: 1, note: `${(NEWS.items || []).length} headlines held` },
+      { name: "…and today's papers", feeds: "Today's papers tab",
+        every: "Every 5 minutes", at: PAPERS.updated, lateAfter: 2, note: `${(PAPERS.items || []).length} front-page stories held` },
+      { name: "Update live rates", feeds: "The market quotes in the ticker",
+        every: "Every 20 minutes", at: (window.GDC_LIVE || {}).updated, lateAfter: 0.5,
+        note: `${Object.keys((window.GDC_LIVE || {}).quotes || {}).length} quotes held` },
+      { name: "Update long history", feeds: "The series since 1993",
+        every: "3rd of each month", at: HISTF.updated, lateAfter: 45, note: `${Object.keys(HISTF.series || {}).length} indicators` },
+      { name: "…and African inflation", feeds: "Africa inflation tab",
+        every: "3rd of each month", at: AFRICA.updated, lateAfter: 45, note: `${Object.keys(AFRICA.countries || {}).length} countries` },
+      { name: "Write weekly briefing", feeds: "Articles tab",
+        every: "Mondays, 06:30 GMT", at: (ARTS[0] || {}).published || null,
+        fallbackDate: (ARTS[0] || {}).date, lateAfter: 10, note: ARTS.length ? `Newest: ${ARTS[0].title}` : "None yet" },
+      { name: "Figures checked by a person", feeds: "data.js — debt, budget, the readings below",
+        every: "When an official release lands", at: null, fallbackDate: D.checked, lateAfter: null,
+        note: "Recorded through the Actions forms, then merged" }
+    ];
+
+    let lateCount = 0, waitingCount = 0;
+    const rows = JOBS.map(j => {
+      const stamp = j.at || (/^\d{4}-\d{2}-\d{2}/.test(j.fallbackDate || "") ? j.fallbackDate : null);
+      const days = age(stamp);
+      const waiting = j.lateAfter != null && days == null;
+      const late = j.lateAfter != null && days != null && days > j.lateAfter;
+      if (late) lateCount++;
+      if (waiting) waitingCount++;
+      const when = stamp ? timeAgo(stamp) : (j.fallbackDate ? esc(j.fallbackDate) : "Not yet");
+      const state = j.lateAfter == null ? ["quiet", "By hand"]
+        : waiting ? ["warn", "Waiting for first run"]
+        : late ? ["bad", "Late"] : ["good", "On time"];
+      return `<tr>
+        <td><b>${esc(j.name)}</b><span class="reg">${esc(j.feeds)}</span></td>
+        <td class="d">${esc(j.every)}</td>
+        <td class="d">${when}</td>
+        <td><span class="pill ${state[0]}">${state[1]}</span></td>
+        <td class="d note-cell">${esc(j.note || "")}</td>
+      </tr>`;
+    }).join("");
+    $("status-jobs").innerHTML = `<thead><tr><th>Job</th><th>Runs</th><th>Last delivered</th><th>State</th><th>Last word</th></tr></thead><tbody>${rows}</tbody>`;
+
+    // every published reading, oldest first
+    const figs = allItems.map(it => ({ it, stale: staleDays(it) })).sort((a, b) => b.stale - a.stale);
+    const due = figs.filter(f => f.stale);
+    $("status-figures-note").textContent = due.length
+      ? `${due.length} of ${figs.length} figures are past their usual release date and are marked Update due on the dashboard. The site keeps showing the last published value with its date — it never guesses a newer one.`
+      : `All ${figs.length} published figures are within their usual release interval.`;
+    $("status-figures").innerHTML = `
+      <thead><tr><th>Figure</th><th>Value</th><th>Period</th><th>State</th><th>Comes from</th></tr></thead>
+      <tbody>${figs.map(f => `<tr>
+        <td>${esc(f.it.label)}</td>
+        <td class="v">${readValue(f.it)}</td>
+        <td class="d">${esc(f.it.date || "—")}</td>
+        <td><span class="pill ${f.stale ? "bad" : "good"}">${f.stale ? `${f.stale} days old` : "Current"}</span></td>
+        <td class="d note-cell">${f.it.autoSource ? esc(f.it.autoSource) : "Entered by hand"}</td>
+      </tr>`).join("")}</tbody>`;
+
+    const badge = $("status-badge");
+    badge.textContent = lateCount
+      ? `${lateCount} job${lateCount === 1 ? "" : "s"} need${lateCount === 1 ? "s" : ""} a look`
+      : waitingCount ? `${waitingCount} job${waitingCount === 1 ? "" : "s"} not started yet`
+      : due.length ? `Jobs healthy · ${due.length} figure${due.length === 1 ? "" : "s"} due`
+      : "Everything current";
+    badge.closest(".live").classList.toggle("warn", lateCount > 0 || waitingCount > 0);
+    $("status-intro").textContent = waitingCount
+      ? `How fresh everything on this site is. ${waitingCount} job${waitingCount === 1 ? " has" : "s have"} never delivered — normal before the site is published and the Actions schedules are switched on; run each one once from the Actions tab.`
+      : "How fresh everything on this site is: when each automatic job last delivered, and how old every published figure is.";
+
+    $("status-note").innerHTML = `This page reads the data files themselves, so it reflects what visitors are actually seeing, not what GitHub intended to run. A job marked late usually means the Actions schedule stopped — GitHub pauses scheduled workflows in a repository that has had no activity for 60 days. Open the <b>Actions</b> tab, re-enable them, and run the job once by hand. The page itself re-reads every data file once a minute.`;
+  }
+
+  /* ================= Alfredo: ask the dashboard a question ================= */
+  // Alfredo answers from the figures this site already holds. If data.js carries an
+  // `alfredo.apiUrl`, anything he can't answer is forwarded there and the reply shown;
+  // without it he says plainly what he doesn't know.
+  const ALF = D.alfredo || {};
+  const alfEl = $("alfredo"), alfLog = $("alf-log"), alfInput = $("alf-input");
+
+  /* ---- languages: English, Twi, Ewe, Ga, Hausa (all of it lives in lang-data.js) ---- */
+  const LANGS = window.GDC_LANG || { en: { name: "English", speech: "en-GH", strings: {}, suggestions: [], ask: {} } };
+  const remember = (k, v) => { try { v === undefined ? null : localStorage.setItem(k, v); } catch (e) { /* private window */ } };
+  const recall = k => { try { return localStorage.getItem(k); } catch (e) { return null; } };
+  let alfLang = LANGS[recall("alf.lang")] ? recall("alf.lang") : "en";
+
+  // t("debt.total", { now: "GH¢751bn" }) -> the sentence in the chosen language,
+  // falling back to English for anything not translated yet.
+  function t(key, vars = {}) {
+    const pack = LANGS[alfLang] || LANGS.en;
+    const line = (pack.strings || {})[key] || ((LANGS.en.strings || {})[key]) || "";
+    return line.replace(/\{(\w+)\}/g, (m, name) => (vars[name] === undefined ? m : String(vars[name])));
+  }
+  // figure names in the chosen language, English when there is no translation yet
+  const L10N = label => (((LANGS[alfLang] || {}).labels || {})[label]) || label;
+  const T = (key, vars) => t(key, vars);   // `t` is taken inside alfAnswer, where it means "now"
+  const alfSuggestions = () => ((LANGS[alfLang] || LANGS.en).suggestions || LANGS.en.suggestions || []);
+
+  // A question typed or spoken in Twi, Ewe, Ga or Hausa is matched to the same figures as
+  // English: the local words carry an English tag along with them into the matching below.
+  const ASK_TAGS = { debt: "total debt", percap: "debt per person", inflation: "inflation",
+    dollar: "us dollar", population: "population", holiday: "next holiday",
+    trade: "exports imports", budget: "budget" };
+  function alfLocalIntents(raw) {
+    const low = raw.toLowerCase();
+    const tags = [];
+    let greet = false, help = false;
+    for (const code of Object.keys(LANGS)) {
+      const ask = LANGS[code].ask || {};
+      for (const [intent, words] of Object.entries(ask)) {
+        if (!words.some(w => low.includes(w.toLowerCase()))) continue;
+        if (intent === "hello") greet = true;
+        else if (intent === "help") help = true;
+        else if (ASK_TAGS[intent]) tags.push(ASK_TAGS[intent]);
+      }
+    }
+    return { tags, greet, help };
+  }
+
+  const alfNorm = q => q.toLowerCase().replace(/[^a-z0-9%\s.-]/g, " ").replace(/\s+/g, " ").trim();
+  const alfMoney = v => `${sym()}${fmt(money(v), 0)}`;
+
+  // question words -> a figure on the page
+  const ALF_WORDS = {
+    "Inflation": ["inflation", "cpi", "prices rising", "cost of living"],
+    "Food inflation": ["food inflation", "food prices"],
+    "BoG policy rate": ["policy rate", "interest rate", "mpc rate", "central bank rate", "bog rate"],
+    "91-day T-bill": ["91 day", "91-day", "treasury bill", "t bill", "tbill"],
+    "364-day T-bill": ["364 day", "364-day", "one year bill"],
+    "Average lending rate": ["lending rate", "loan rate", "borrowing rate for businesses"],
+    "Real GDP growth": ["growth", "gdp growth", "economy growing"],
+    "Gross reserves": ["reserves", "foreign reserves", "import cover"],
+    "Trade surplus": ["trade surplus", "trade balance"],
+    "US dollar": ["dollar", "usd", "cedi rate", "exchange rate", "cedi to the dollar", "forex"],
+    "British pound": ["pound", "gbp", "sterling"],
+    "Euro": ["euro", "eur"],
+    "Nominal GDP": ["gdp", "size of the economy", "nominal gdp"],
+    "Gold price": ["gold price", "gold"],
+    "Cocoa world price": ["cocoa price", "cocoa"],
+    "Cocoa farmgate price": ["farmgate", "farmer price", "cocoa farmer"],
+    "BoG gold reserves": ["gold reserves", "bullion", "tonnes of gold"],
+    "GSE Composite Index": ["stock market", "gse", "stock exchange", "shares"],
+    "Business activity (PMI)": ["pmi", "business activity"],
+    "Mobile money payments": ["mobile money", "momo"],
+    "Remittances": ["remittance", "diaspora", "money sent home"],
+    "Bank bad-loan ratio": ["bad loans", "npl", "non performing"],
+    "Petrol": ["petrol", "fuel", "pump price", "gasoline"],
+    "Diesel": ["diesel"],
+    "Cooking gas (LPG)": ["lpg", "cooking gas", "gas cylinder"],
+    "Daily minimum wage": ["minimum wage", "daily wage"],
+    "Electricity tariff change": ["electricity", "tariff", "power price", "light bill"],
+    "Unemployment rate": ["unemployment", "jobless", "jobs"],
+    "Income per person": ["income per person", "gni per capita", "average income"],
+    "Multidimensional poverty": ["poverty", "poor"]
+  };
+
+  function alfFindReading(q) {
+    let best = null;
+    for (const [label, words] of Object.entries(ALF_WORDS)) {
+      for (const w of words) {
+        if (q.includes(w) && (!best || w.length > best.w.length)) best = { label, w };
+      }
+    }
+    if (!best) {
+      const hit = allItems.find(i => q.includes(i.label.toLowerCase()));
+      if (hit) return hit;
+      return null;
+    }
+    return allItems.find(i => i.label === best.label) || null;
+  }
+
+  const alfReadingAnswer = it => {
+    const u = unitBits(it);
+    const points = seriesOf(it);
+    const long = HIST[HIST_ALIAS[it.label] || it.label];
+    const prev = points.length > 1 ? points[points.length - 2] : null;
+    const move = prev ? it.value - prev.value : 0;
+    const trend = prev
+      ? t(move > 0 ? "reading.up" : move < 0 ? "reading.down" : "reading.flat",
+          { from: showVal(prev.value, u), fromDate: esc(prev.date) })
+      : "";
+    const range = long
+      ? t("reading.range", { since: esc(long.points[0].date),
+          high: fmt(Math.max(...long.points.map(p => p.value)), 1),
+          low: fmt(Math.min(...long.points.map(p => p.value)), 1) })
+      : "";
+    // the short note in data.js is written in English; it is shown only in English
+    const note = alfLang === "en" && it.note ? `<span class="alf-note">${toneNote(it.note, it.tone)}</span>` : "";
+    const nowQ = liveFor(it.label);
+    const liveLine = nowQ
+      ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`, time: esc(liveTime(nowQ.at)) })}</span>`
+      : "";
+    return `${t("reading", { label: esc(L10N(it.label)), value: showVal(it.value, u), date: esc(it.date || "") })}
+      ${liveLine}
+      ${note}
+      ${trend ? `<span class="alf-note">${trend}</span>` : ""}
+      ${range ? `<span class="alf-note">${range}</span>` : ""}`;
+  };
+
+  function alfAnswer(raw) {
+    const local = alfLocalIntents(raw);
+    const q = alfNorm(`${raw} ${local.tags.join(" ")}`);
+    const t0 = Date.now();
+    const t = t0;
+    if (!q) return null;
+
+    if (local.greet || /^(hi|hello|hey|good (morning|afternoon|evening)|ete sen|akwaaba)\b/.test(q))
+      return T("hello");
+
+    if (local.help || /(help|what can you|how do you work|who are you)/.test(q))
+      return T("help", { count: allItems.length });
+
+    // the live counters
+    if (/(debt per person|each person|per capita|how much do i owe|每)/.test(q) || (/per person/.test(q) && /debt/.test(q)))
+      return T("debt.percap", { value: alfMoney(LIVE.percap[0](t)), pop: fmt(popAt(t), 0) });
+
+    if (/(household|my family|family of)/.test(q)) {
+      const n = +(q.match(/(\d+)\s*(people|person|member)/) || [])[1] || household;
+      return T("debt.household", { n, share: alfMoney(debtAt(t) / popAt(t) * n), ytd: alfMoney((debtAt(t) - P.total) / popAt(t) * n) });
+    }
+
+    if (/(total debt|public debt|how much (does|do) ghana owe|debt (right )?now|national debt|what is the debt|how much debt|the debt)/.test(q) || /^debt\b/.test(q))
+      return T("debt.total", { now: alfMoney(debtAt(t)), latestLabel: esc(L.label), latest: alfMoney(L.total), perSecond: `${sym()}${fmt(money(rate.total), 0)}`, prevLabel: esc(P.label) });
+
+    if (/(domestic debt|owed at home)/.test(q)) return T("debt.domestic", { value: alfMoney(LIVE.dom[0](t)), share: fmt(L.domestic / L.total * 100, 1), label: esc(L.label) });
+    if (/(external debt|foreign debt|owed abroad)/.test(q)) return T("debt.external", { value: alfMoney(LIVE.ext[0](t)), share: fmt(100 - L.domestic / L.total * 100, 1) });
+    if (/(debt to gdp|debt-to-gdp|ratio)/.test(q)) return T("debt.ratio", { live: fmt(LIVE.ratio[0](t), 1), reported: fmt(D.debt.ratioLatest, 1), label: esc(L.label), peak: fmt(D.debt.ratioPeak.value, 1), peakLabel: esc(D.debt.ratioPeak.label) });
+    if (/(borrowed today|today'?s borrowing)/.test(q)) return T("debt.today", { value: alfMoney(LIVE.today[0](t)) });
+    if (/(this year|so far this year|ytd)/.test(q) && /(borrow|debt)/.test(q)) return T("debt.ytd", { value: alfMoney(LIVE.ytd[0](t)), label: esc(P.label) });
+    if (/(per second|every second|how fast)/.test(q)) return T("debt.rate", { perSecond: `${sym()}${fmt(money(rate.total), 0)}`, perDay: `${sym()}${fmt(money(rate.total * DAY) / 1e6, 1)}`, prevLabel: esc(P.label), latestLabel: esc(L.label) });
+    if (/(population|how many people|how many ghanaians)/.test(q)) return T("population", { pop: fmt(popAt(t), 0), source: esc(D.population.source), base: fmt(D.population.base / 1e6, 1), growth: fmt(D.population.growth * 100, 1) });
+
+    // how it works
+    if (/(how (is|are) .*(worked out|calculated|estimated)|where do.*numbers|is it real|accurate|guess)/.test(q))
+      return T("method", { label: esc(L.label), months: D.debt.paceMonths });
+
+    // budget
+    if (/(budget|revenue|spending|tax|interest)/.test(q) && !/inflation/.test(q)) {
+      const line = /tax/.test(q) ? "tax" : /interest/.test(q) ? "int" : /wage/.test(q) ? "wage" : /capital/.test(q) ? "cap" : /revenue|income/.test(q) ? "rev" : "exp";
+      const b = budgetItems.find(x => x.key === line);
+      if (b) return `${T("budget", { label: esc(L10N(b.label)), value: alfMoney(b.value), year: Y, toDate: alfMoney(b.value * yearFrac(t)) })}${alfLang === "en" && b.note ? ` <span class="alf-note">${esc(b.note)}</span>` : ""}`;
+    }
+
+    // trade
+    if (/(export|import|trade)/.test(q)) {
+      const surplus = readBy("Trade surplus").value ?? 0;
+      return T("trade", { exports: fmt(D.trade.totalExports, 1), period: esc(D.trade.period), gold: fmt(D.trade.goldExports, 1), imports: fmt(D.trade.totalExports - surplus, 1), surplus: fmt(surplus, 1) });
+    }
+
+    // the calendar
+    if (/(holiday|next holiday|public holiday|independence|founder|when is)/.test(q)) {
+      const next = calendarFrom(dayStart(t), 3);
+      if (next.length) return T("calendar", { list: next.map(e => T("calendar.item", { name: esc(e.entry.name), date: esc(calDateFmt(e.at)) })).join(", ") });
+    }
+
+    // news
+    if (/(news|headline|what'?s happening|story)/.test(q)) {
+      const items = newsItems().slice(0, 3);
+      if (items.length) return `${T("news")}<ul class="alf-list">${items.map(n => `<li><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a> <span class="alf-date">${esc(n.source)}</span></li>`).join("")}</ul>`;
+    }
+
+    // Africa comparison
+    const AFRICA = africaData();
+    const africaList = AFRICA ? Object.entries(AFRICA.countries).map(([iso, c]) => ({ iso, ...c, value: c.latest.value })).sort((a, b) => a.value - b.value) : [];
+    const namedCountry = africaList
+      .filter(c => new RegExp(`\\b${c.name.toLowerCase().replace(/[^a-z ]/g, ".")}\\b`).test(q))
+      .sort((a, b) => b.name.length - a.name.length)[0];
+    if (AFRICA && (namedCountry || /(africa|african|compare.*countr|other countries|region)/.test(q))) {
+      const list = africaList;
+      const gh = AFRICA.countries.GHA;
+      const named = namedCountry;
+      if (named && named.iso !== "GHA") {
+        const diff = gh.latest.value - named.value;
+        const per = p => esc(p.latest.period || p.latest.year || "");
+        return T("africa.country", { country: esc(named.name), value: fmt(named.value, 1), period: per(named), ghana: fmt(gh.latest.value, 1), ghanaPeriod: per(gh), gap: fmt(Math.abs(diff), 1), direction: T(diff > 0 ? "higher" : "lower") });
+      }
+      const rank = list.findIndex(c => c.iso === "GHA") + 1;
+      return `${T("africa.rank", { ghana: fmt(gh.latest.value, 1), period: esc(gh.latest.period || gh.latest.year || ""), rank: ordinal(list.length - rank + 1), count: list.length, highest: esc(list[list.length - 1].name), highestValue: fmt(list[list.length - 1].value, 1), lowest: esc(list[0].name), lowestValue: fmt(list[0].value, 1) })} <a href="#africa">${T("africa.open")}</a>.`;
+    }
+
+    // any published reading, with its history
+    const it = alfFindReading(q);
+    if (it) return alfReadingAnswer(it);
+
+    return null;
+  }
+
+  function alfSay(who, html) {
+    const div = document.createElement("div");
+    div.className = `alf-msg ${who}`;
+    div.innerHTML = html;
+    alfLog.appendChild(div);
+    alfLog.scrollTop = alfLog.scrollHeight;
+    return div;
+  }
+
+  async function alfAsk(question) {
+    alfSay("you", esc(question));
+    const local = alfAnswer(question);
+    if (local) { alfSay("alf", local); speak(local); return; }
+
+    if (!ALF.apiUrl) {
+      const miss = T("unknown", { count: allItems.length });
+      alfSay("alf", miss);
+      speak(miss);
+      return;
+    }
+    const waiting = alfSay("alf", `<span class="alf-wait">Asking…</span>`);
+    try {
+      const res = await fetch(ALF.apiUrl, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ question, context: alfContext() })
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      waiting.innerHTML = esc(data.answer || "No answer came back.").replace(/\n/g, "<br>");
+      speak(waiting.innerHTML);
+    } catch (e) {
+      waiting.innerHTML = `I couldn't reach the assistant just then. Everything on the dashboard I can still answer myself.`;
+    }
+  }
+
+  // what an external assistant would need to answer well
+  function alfContext() {
+    const t = Date.now();
+    return {
+      updated: D.checked,
+      debt: { estimate: Math.round(debtAt(t)), latestReading: L.total, latestLabel: L.label, perSecond: Math.round(rate.total), ratio: D.debt.ratioLatest },
+      population: Math.round(popAt(t)),
+      budget: Object.fromEntries(budgetItems.map(b => [b.label, b.value])),
+      trade: D.trade,
+      readings: allItems.map(i => ({ label: i.label, value: i.value, unit: i.unit, date: i.date }))
+    };
+  }
+
+  /* ---- Alfredo out loud, and listening ---- */
+  const synth = window.speechSynthesis || null;
+  const Recogniser = window.SpeechRecognition || window.webkitSpeechRecognition || null;
+  let speakOn = recall("alf.speak") === "1";
+  let listening = false, recogniser = null;
+
+  const plainText = html => {
+    const d = document.createElement("div");
+    d.innerHTML = html;
+    return (d.textContent || "").replace(/\s+/g, " ").trim();
+  };
+  function speak(html) {
+    if (!speakOn || !synth) return;
+    const text = plainText(html);
+    if (!text) return;
+    try {
+      synth.cancel();
+      const say = new SpeechSynthesisUtterance(text);
+      const want = ((LANGS[alfLang] || {}).speech || "en-GH");
+      const voices = synth.getVoices() || [];
+      // a voice in the chosen language if the device has one, otherwise any English voice
+      const voice = voices.find(v => v.lang && v.lang.toLowerCase() === want.toLowerCase())
+        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith(want.slice(0, 2).toLowerCase()))
+        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith("en-gh"))
+        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith("en"));
+      if (voice) say.voice = voice;
+      say.lang = voice ? voice.lang : "en-GB";
+      say.rate = 0.98;
+      synth.speak(say);
+    } catch (e) { /* no voice on this device: the answer is on screen anyway */ }
+  }
+  function setSpeak(on) {
+    speakOn = on;
+    remember("alf.speak", on ? "1" : "0");
+    const b = $("alf-speak");
+    b.setAttribute("aria-pressed", String(on));
+    b.classList.toggle("on", on);
+    if (!on && synth) synth.cancel();
+  }
+
+  function listen() {
+    if (!Recogniser) { alfSay("alf", T("ui.micNone")); return; }
+    if (listening) { try { recogniser.stop(); } catch (e) { /* already stopping */ } return; }
+    recogniser = new Recogniser();
+    recogniser.lang = (LANGS[alfLang] || {}).speech || "en-GH";
+    recogniser.interimResults = false;
+    recogniser.maxAlternatives = 1;
+    const mic = $("alf-mic");
+    const note = alfSay("alf", `<span class="alf-wait">${T("ui.listening")}</span>`);
+    listening = true;
+    mic.classList.add("on");
+    const stop = () => { listening = false; mic.classList.remove("on"); };
+    recogniser.onresult = e => {
+      const said = (e.results[0] && e.results[0][0] && e.results[0][0].transcript || "").trim();
+      note.remove();
+      stop();
+      if (said) alfAsk(said); else alfSay("alf", T("ui.noSpeech"));
+    };
+    recogniser.onerror = e => {
+      note.remove();
+      stop();
+      if (e.error === "not-allowed" || e.error === "service-not-allowed") alfSay("alf", T("ui.micBlocked"));
+      else if (e.error === "language-not-supported") {
+        // no model for this language on the device: listen in English instead
+        try {
+          const again = new Recogniser();
+          again.lang = "en-GH";
+          again.onresult = ev => { const said = (ev.results[0][0].transcript || "").trim(); if (said) alfAsk(said); };
+          again.start();
+          listening = true; mic.classList.add("on");
+          again.onend = stop;
+          return;
+        } catch (err) { /* fall through */ }
+        alfSay("alf", T("ui.noSpeech"));
+      } else if (e.error !== "aborted") alfSay("alf", T("ui.noSpeech"));
+    };
+    recogniser.onend = () => { note.remove(); stop(); };
+    try { recogniser.start(); } catch (e) { note.remove(); stop(); }
+  }
+
+  /* ---- language chooser ---- */
+  function drawLangs() {
+    $("alf-langs").innerHTML = Object.entries(LANGS)
+      .map(([code, l]) => `<button type="button" data-lang="${esc(code)}" class="${code === alfLang ? "on" : ""}" lang="${esc(code)}">${esc(l.name)}</button>`)
+      .join("");
+    alfInput.placeholder = T("ui.placeholder");
+    $("alf-send").textContent = T("ui.send");
+    $("alf-chips").innerHTML = alfSuggestions().map(x => `<button type="button">${esc(x)}</button>`).join("");
+  }
+  function setLang(code) {
+    if (!LANGS[code]) return;
+    alfLang = code;
+    remember("alf.lang", code);
+    drawLangs();
+    alfLog.innerHTML = "";
+    const note = T("note.figures");
+    alfSay("alf", T("greeting") + (note ? ` <span class="alf-note">${note}</span>` : ""));
+  }
+  $("alf-langs").addEventListener("click", e => {
+    const b = e.target.closest("button[data-lang]");
+    if (b) setLang(b.dataset.lang);
+  });
+  $("alf-speak").addEventListener("click", () => setSpeak(!speakOn));
+  if (Recogniser) $("alf-mic").hidden = false;
+  $("alf-mic").addEventListener("click", listen);
+  setSpeak(speakOn);
+  drawLangs();
+
+  function alfOpen(open) {
+    alfEl.hidden = !open;
+    $("alf-open").setAttribute("aria-expanded", String(open));
+    if (!open && synth) synth.cancel();
+    if (open) {
+      if (!alfLog.children.length) {
+        const note = T("note.figures");
+        alfSay("alf", T("greeting") + (note ? ` <span class="alf-note">${note}</span>` : ""));
+      }
+      setTimeout(() => alfInput.focus(), 60);
+    }
+  }
+  $("alf-open").addEventListener("click", () => alfOpen(alfEl.hidden));
+  $("alf-close").addEventListener("click", () => alfOpen(false));
+  $("alf-chips").addEventListener("click", e => {
+    const b = e.target.closest("button");
+    if (!b) return;
+    alfAsk(b.textContent);
+  });
+  $("alf-form").addEventListener("submit", e => {
+    e.preventDefault();
+    const q = alfInput.value.trim();
+    if (!q) return;
+    alfInput.value = "";
+    alfAsk(q);
+  });
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape" && !alfEl.hidden && sheetEl.hidden) alfOpen(false);
+  });
+
 
   /* ================= charts ================= */
   const NS = "http://www.w3.org/2000/svg";
@@ -1550,14 +2288,177 @@
     observe(fig, draw);
   })();
 
-  // board: the readout strip alternates between economy and markets
-  let boardPage = 0;
+  /* ---- board view: everything the site holds, in rotation ---- */
+  // The counters stay put at the top. The lower panel turns every 15 seconds so a wall
+  // display eventually shows all of it: the debt, live rates, news, Africa, the papers and
+  // the week's briefing. A panel with nothing behind it yet is left out rather than shown empty.
+  function boardDeckPages() {
+    const pages = [];
+    const qs = liveQuotes();
+    if (qs.length) {
+      pages.push({ key: "live", tag: "Market, right now", html: `<div class="b-grid b-grid-5">${qs.slice(0, 5).map(q => {
+        const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
+        return `<div class="b-cellule">
+          <span class="b-label">${esc(q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`)}</span>
+          <span class="mono big ${dir}">${q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</span>
+          <span class="b-when">${esc(liveTime(q.at))}</span>
+        </div>`;
+      }).join("")}</div>` });
+    }
+
+    const news = newsItems().slice(0, 4);
+    if (news.length) {
+      pages.push({ key: "news", tag: "Ghana business news", html: `<ol class="b-heads">${news.map(n => `
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
+    }
+
+    const AF = africaData();
+    if (AF && AF.countries && AF.countries.GHA) {
+      const list = Object.values(AF.countries).filter(c => c.latest).sort((a, b) => a.latest.value - b.latest.value);
+      const gh = AF.countries.GHA;
+      const top = list.slice(-4).reverse(), low = list.slice(0, 3);
+      const chip = c => `<span class="b-chip ${c.latest.value > gh.latest.value ? "high" : c.latest.value < gh.latest.value ? "low" : ""}"><b>${fmt(c.latest.value, 1)}%</b>${esc(c.name)}</span>`;
+      pages.push({ key: "africa", tag: "Inflation across Africa", html: `
+        <div class="b-africa">
+          <div class="b-africa-gh">
+            <span class="b-label">Ghana · ${esc(gh.latest.period || "")}</span>
+            <span class="mono big gold">${fmt(gh.latest.value, 1)}%</span>
+            <span class="b-when">${ordinal(list.length - list.findIndex(c => c === gh))} highest of ${list.length}</span>
+          </div>
+          <div class="b-africa-rows">
+            <div><span class="b-label">Highest</span><div class="b-chips">${top.map(chip).join("")}</div></div>
+            <div><span class="b-label">Lowest</span><div class="b-chips">${low.map(chip).join("")}</div></div>
+          </div>
+        </div>` });
+    }
+
+    const papers = (paperData().items || []);
+    if (papers.length) {
+      const byPaper = new Map();
+      papers.forEach(i => { if (!byPaper.has(i.source)) byPaper.set(i.source, i); });
+      pages.push({ key: "papers", tag: "Today's papers", html: `<div class="b-grid b-grid-3">${[...byPaper.entries()].slice(0, 3).map(([source, lead]) => `
+        <div class="b-cellule b-paper">
+          <span class="b-label">${esc(source)}</span>
+          <span class="b-head-title">${esc(lead.title)}</span>
+          <span class="b-when">${esc(timeAgo(lead.published))}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    const art = articleData()[0];
+    if (art) {
+      const points = (art.body || "").split(/\n/).filter(l => /^- /.test(l)).slice(0, 3).map(l => l.replace(/^- /, "").replace(/\*\*/g, ""));
+      pages.push({ key: "brief", tag: `Briefing · ${esc(art.date)}`, html: `
+        <div class="b-brief">
+          <span class="b-head-title big">${esc(art.title)}</span>
+          <span class="b-when">${esc(art.standfirst || "")}</span>
+          ${points.length ? `<ul class="b-brief-points">${points.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+        </div>` });
+    }
+    return pages;
+  }
+
+  function renderBoardDeck() {
+    const deck = $("b-deck");
+    if (!deck) return;
+    $$(".b-deck-page[data-built]").forEach(el => el.remove());
+    const dots = $("b-deck-dots");
+    boardDeckPages().forEach(p => {
+      const el = document.createElement("div");
+      el.className = "b-deck-page";
+      el.dataset.deck = p.key;
+      el.dataset.built = "1";
+      el.innerHTML = `<span class="b-deck-tag">${p.tag}</span>${p.html}`;
+      deck.insertBefore(el, dots);
+    });
+    const pages = $$(".b-deck-page");
+    dots.innerHTML = pages.map((_, i) => `<i class="${i === boardDeckAt ? "on" : ""}"></i>`).join("");
+    if (boardDeckAt >= pages.length) boardDeckAt = 0;
+    pages.forEach((el, i) => el.classList.toggle("on", i === boardDeckAt));
+  }
+
+  let boardPage = 0, boardDeckAt = 0;
   setInterval(() => {
-    const pages = $$(".b-page");
-    if (!pages.length || board.hidden || !sheetEl.hidden) return;
-    boardPage = (boardPage + 1) % pages.length;
-    pages.forEach((p, i) => p.classList.toggle("on", i === boardPage));
-  }, 12000);
+    if (board.hidden || !sheetEl.hidden || !alfEl.hidden) return;   // hold while someone is reading
+    const strip = $$(".b-page");
+    if (strip.length) {
+      boardPage = (boardPage + 1) % strip.length;
+      strip.forEach((p, i) => p.classList.toggle("on", i === boardPage));
+    }
+    const pages = $$(".b-deck-page");
+    if (pages.length > 1) {
+      boardDeckAt = (boardDeckAt + 1) % pages.length;
+      pages.forEach((p, i) => p.classList.toggle("on", i === boardDeckAt));
+      $$("#b-deck-dots i").forEach((d, i) => d.classList.toggle("on", i === boardDeckAt));
+    }
+  }, 15000);
+
+
+  /* ================= refresh everything every minute ================= */
+  // The whole page — dashboard figures, business news, today's papers, the Africa
+  // board and the briefings — re-reads its own data files every minute.
+  //
+  // Files that feed the counters force a reload, because every figure on the page is
+  // worked out from them. The portals are swapped in quietly instead: the file is
+  // re-run, the open portal redrawn, and the reader keeps their place and filters.
+  const REFRESH_MS = 1 * 60 * 1000;   // how often the page re-reads its data files
+  (() => {
+    if (!/^https?:/.test(location.protocol)) return;
+    const RELOAD = ["data.js", "auto-data.js", "history-data.js"];
+    const QUIET = {
+      "news-data.js": () => { drawn.news = false; if (!VIEWS.news.el.hidden) renderNews(); if (!board.hidden) renderBoardDeck(); },
+      "papers-data.js": () => { drawn.papers = false; if (!VIEWS.papers.el.hidden) renderPapers(); if (!board.hidden) renderBoardDeck(); },
+      "africa-data.js": () => { drawn.africa = false; if (!VIEWS.africa.el.hidden) renderAfrica(); if (!board.hidden) renderBoardDeck(); },
+      "articles-data.js": () => { drawn.articles = false; if (!VIEWS.articles.el.hidden) renderArticles(); if (!board.hidden) renderBoardDeck(); },
+      "live-data.js": () => { renderTicker(); if (!board.hidden) renderBoardDeck(); if (!VIEWS.status.el.hidden) renderStatus(); }
+    };
+    const fingerprints = new Map();
+    let pending = false, busy = false;
+
+    const hash = text => {
+      let h = 5381;
+      for (let i = 0; i < text.length; i++) h = ((h << 5) + h + text.charCodeAt(i)) | 0;
+      return `${text.length}:${h}`;
+    };
+    const changed = async file => {
+      const res = await fetch(`${file}?t=${Date.now()}`, { cache: "no-store" });
+      if (!res.ok) throw new Error(res.status);
+      const fp = hash(await res.text());
+      const seen = fingerprints.get(file);
+      fingerprints.set(file, fp);
+      return !!seen && seen !== fp;
+    };
+    // re-run a data file in place, so window.GDC_* picks up the new figures
+    const reload = file => new Promise((done, fail) => {
+      const sc = document.createElement("script");
+      sc.src = `${file}?t=${Date.now()}`;
+      sc.onload = () => { sc.remove(); done(); };
+      sc.onerror = () => { sc.remove(); fail(new Error("could not load")); };
+      document.body.appendChild(sc);
+    });
+
+    async function check() {
+      if (document.hidden || busy) return;
+      busy = true;
+      try {
+        for (const file of RELOAD) {
+          try { if (await changed(file)) { pending = true; break; } }
+          catch (e) { /* offline, or mid-deploy: try again next minute */ }
+        }
+        if (!pending) {
+          for (const [file, redraw] of Object.entries(QUIET)) {
+            try { if (await changed(file)) { await reload(file); redraw(); } }
+            catch (e) { /* leave the figures already on the page */ }
+          }
+        }
+        // a full reload waits until the reader is not in the middle of something
+        if (pending && sheetEl.hidden && board.hidden && alfEl.hidden) location.reload();
+      } finally { busy = false; }
+    }
+
+    check();
+    setInterval(check, REFRESH_MS);
+    document.addEventListener("visibilitychange", () => { if (!document.hidden) check(); });
+  })();
 
   /* ================= start ================= */
   paintMoney();

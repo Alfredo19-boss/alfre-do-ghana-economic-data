@@ -18,9 +18,29 @@ const HEADERS = {
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 `,
+  GDC_AFRICA: `/*
+ * Alfredo Ghana Economic Data: African inflation, fetched by .github/workflows/history.yml.
+ * Do not edit by hand.
+ */
+`,
+  GDC_PAPERS: `/*
+ * Alfredo Ghana Economic Data: today's newspaper front pages, fetched by .github/workflows/news.yml.
+ * Headlines and links only. Do not edit by hand.
+ */
+`,
+  GDC_ARTICLES: `/*
+ * Alfredo Ghana Economic Data: the article index, written by .github/workflows/article.yml.
+ * Do not edit by hand.
+ */
+`,
   GDC_HISTORY: `/*
  * Alfredo Ghana Economic Data: long annual series from the World Bank, 1993 onwards.
  * Fetched by .github/workflows/history.yml. Do not edit by hand.
+ */
+`,
+  GDC_LIVE: `/*
+ * Alfredo Ghana Economic Data: live market quotes for the cedi, fetched by
+ * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 `,
   GDC_NEWS: `/*

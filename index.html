@@ -48,6 +48,9 @@
       <nav class="view-tabs" aria-label="Site sections">
         <a href="#dashboard" data-view-link="dashboard" aria-current="page">Dashboard</a>
         <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
+        <a href="#africa" data-view-link="africa">Africa inflation</a>
+        <a href="#papers" data-view-link="papers">Today's papers</a>
+        <a href="#articles" data-view-link="articles">Articles</a>
       </nav>
       <span class="nav-date" data-date></span>
     </div>
@@ -394,6 +397,97 @@
       </div>
     </section>
 
+
+    <!-- Africa inflation -->
+    <section class="portal" id="africa-view" aria-labelledby="h-africa" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-africa">Ghana's inflation, against Africa</h1>
+          <p class="news-intro" id="africa-intro"></p>
+        </div>
+        <span class="live"><i></i><span id="africa-status">Loading…</span></span>
+      </div>
+      <div class="orbit-wrap">
+        <div class="orbit" id="orbit" role="img" aria-labelledby="africa-table-h"></div>
+        <div class="orbit-key">
+          <span><i class="dot low"></i>Below Ghana</span>
+          <span><i class="dot near"></i>Within 2 points</span>
+          <span><i class="dot high"></i>Above Ghana</span>
+        </div>
+      </div>
+      <div class="block">
+        <div class="block-head">
+          <h2 id="africa-table-h">Every country, ranked</h2>
+          <p>Lowest inflation first. Tap a row for that country's recent readings.</p>
+        </div>
+        <div class="panel table-wrap"><table class="rank-table" id="africa-table"></table></div>
+        <p class="note" id="africa-note"></p>
+      </div>
+    </section>
+
+    <!-- Today's papers -->
+    <section class="portal" id="papers-view" aria-labelledby="h-papers" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-papers">Today's papers</h1>
+          <p class="news-intro">What Ghana's newsrooms are leading with this morning. Headlines and links only — every story opens on the publisher's own website.</p>
+        </div>
+        <span class="live"><i></i><span id="papers-status">Loading…</span></span>
+      </div>
+      <div class="paper-filters" id="paper-filters" role="group" aria-label="Filter by masthead"></div>
+      <div class="papers" id="papers"></div>
+      <p class="news-empty" id="papers-empty" hidden>No front pages yet. Run <b>Update business news</b> in the Actions tab to fetch them.</p>
+    </section>
+
+    <!-- Articles -->
+    <section class="portal" id="articles-view" aria-labelledby="h-articles" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-articles">Briefings</h1>
+          <p class="news-intro">A dated briefing written from the dashboard every Monday: debt, prices, the cedi, trade and the week ahead. Every figure carries the release it came from.</p>
+        </div>
+        <span class="live"><i></i><span id="articles-status">Loading…</span></span>
+      </div>
+      <div class="article-layout">
+        <aside class="article-list" id="article-list" aria-label="Published briefings"></aside>
+        <article class="article-read panel" id="article-read"></article>
+      </div>
+      <p class="news-empty" id="articles-empty" hidden>No briefings yet. Run <b>Write weekly briefing</b> in the Actions tab to publish the first one.</p>
+    </section>
+
+    <!-- System status -->
+    <section class="portal" id="status-view" aria-labelledby="h-status" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-status">System status</h1>
+          <p class="news-intro" id="status-intro">How fresh everything on this site is: when each automatic job last delivered, and how old every published figure is.</p>
+        </div>
+        <span class="live"><i></i><span id="status-badge">Checking…</span></span>
+      </div>
+
+      <div class="block">
+        <div class="block-head">
+          <h2>The automatic jobs</h2>
+          <p>Each job writes one data file. A job is marked late when nothing has arrived for well past its usual gap — a quiet job that simply found no new figures is normal.</p>
+        </div>
+        <div class="panel table-wrap"><table class="rank-table status-table" id="status-jobs"></table></div>
+      </div>
+
+      <div class="block">
+        <div class="block-head">
+          <h2>Published figures</h2>
+          <p id="status-figures-note"></p>
+        </div>
+        <div class="panel table-wrap"><table class="rank-table status-table" id="status-figures"></table></div>
+      </div>
+
+      <p class="note" id="status-note"></p>
+    </section>
+
     <footer class="foot">
       <div class="method">
         <h2>How the live numbers are estimated</h2>
@@ -405,9 +499,42 @@
         <h2>Sources</h2>
         <ol id="sources"></ol>
       </div>
-      <p class="fine"><span>Alfredo Ghana Economic Data is an independent public-education project. Not affiliated with the Government of Ghana or the Bank of Ghana.</span><span><span data-checked></span> · <span data-auto-status></span></span></p>
+      <p class="fine"><span>Alfredo Ghana Economic Data is an independent public-education project. Not affiliated with the Government of Ghana or the Bank of Ghana.</span><span><span data-checked></span> · <span data-auto-status></span> · <a href="#status">System status</a></span></p>
     </footer>
   </div>
+
+  <button type="button" class="alf-open" id="alf-open" aria-expanded="false" aria-controls="alfredo">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12a8 8 0 1 1-3.2-6.4"/><path d="M8 11h8M8 15h5"/></svg>
+    <span>Ask Alfredo</span>
+  </button>
+
+  <section class="alfredo" id="alfredo" aria-labelledby="alf-title" hidden>
+    <header class="alf-head">
+      <div>
+        <p class="alf-eyebrow">Ask</p>
+        <h2 id="alf-title">Alfredo</h2>
+      </div>
+      <div class="alf-tools">
+        <button type="button" class="alf-icon" id="alf-speak" aria-pressed="false" aria-label="Read answers aloud" title="Read answers aloud">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 8v4h3l4 3V5L7 8H4z"/><path d="M14 7a4 4 0 010 6M16.5 5a7 7 0 010 10" class="waves"/></svg>
+        </button>
+        <button type="button" class="sheet-close" id="alf-close" aria-label="Close Alfredo">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M5 5l10 10M15 5L5 15"/></svg>
+        </button>
+      </div>
+    </header>
+    <div class="alf-langs" id="alf-langs" role="group" aria-label="Language"></div>
+    <div class="alf-log" id="alf-log" role="log" aria-live="polite"></div>
+    <div class="alf-chips" id="alf-chips"></div>
+    <form class="alf-form" id="alf-form">
+      <label class="sr-only" for="alf-input">Ask about Ghana's economy</label>
+      <button type="button" class="alf-icon alf-mic" id="alf-mic" aria-label="Ask by voice" title="Ask by voice" hidden>
+        <svg viewBox="0 0 20 20" aria-hidden="true"><rect x="7.5" y="2.5" width="5" height="9" rx="2.5"/><path d="M4.5 9.5a5.5 5.5 0 0011 0M10 15v3"/></svg>
+      </button>
+      <input id="alf-input" type="text" autocomplete="off" placeholder="Ask about the debt, inflation, the cedi…">
+      <button type="submit" class="btn" id="alf-send">Ask</button>
+    </form>
+  </section>
 
   <div class="sheet-scrim" id="sheet-scrim" hidden></div>
   <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden>
@@ -485,12 +612,15 @@
 
       <section class="b-row b-econ" id="b-econ"></section>
 
-      <section class="b-row b-bottom">
-        <div class="b-ms" id="b-milestones"></div>
-        <div class="b-spark">
-          <span class="b-label">Debt stock, GH¢bn · 2020 → today</span>
-          <svg id="b-spark" viewBox="0 0 620 120" aria-hidden="true"></svg>
+      <section class="b-row b-deck" id="b-deck" aria-label="Rotating panels">
+        <div class="b-deck-page on" data-deck="debt">
+          <div class="b-ms" id="b-milestones"></div>
+          <div class="b-spark">
+            <span class="b-label">Debt stock, GH¢bn · 2020 → today</span>
+            <svg id="b-spark" viewBox="0 0 620 120" aria-hidden="true"></svg>
+          </div>
         </div>
+        <div class="b-deck-dots" id="b-deck-dots" aria-hidden="true"></div>
       </section>
 
       <div class="ticker b-ticker" aria-label="Exchange rates against the cedi and Ghana's GDP">
@@ -505,9 +635,14 @@
     </div>
   </div>
 
+  <script src="lang-data.js"></script>
+  <script src="live-data.js"></script>
   <script src="data.js"></script>
   <script src="auto-data.js"></script>
   <script src="history-data.js"></script>
+  <script src="africa-data.js"></script>
+  <script src="papers-data.js"></script>
+  <script src="articles-data.js"></script>
   <script src="news-data.js"></script>
   <script src="app.js"></script>
 </body>

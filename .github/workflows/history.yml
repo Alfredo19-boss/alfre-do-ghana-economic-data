@@ -25,16 +25,18 @@ jobs:
           node-version: 20
       - name: Fetch the annual series
         run: node scripts/fetch-history.mjs
+      - name: Fetch African inflation
+        run: node scripts/fetch-africa.mjs
       - name: Commit if anything changed
         run: |
           git config user.name "alfredo-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add history-data.js
-          if git diff --cached --quiet -- history-data.js; then
+          git add history-data.js africa-data.js
+          if git diff --cached --quiet -- history-data.js africa-data.js; then
             echo "No changes to commit."
             exit 0
           fi
-          if [ "$(git diff --cached --numstat -- history-data.js | cut -f1)" = "1" ] && git diff --cached -- history-data.js | grep -q '"updated"'; then
+          if [ "$(git diff --cached --numstat | awk '{s+=$1} END {print s}')" = "2" ] && git diff --cached | grep -q '"updated"'; then
             echo "Only the timestamp changed; nothing to publish."
             git reset
             exit 0
