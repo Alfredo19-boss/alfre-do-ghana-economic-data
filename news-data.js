@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-13T16:26:13.264Z",
+  "updated": "2026-09-13T19:31:26.990Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Global Youth Economy Takes Centre Stage As 191 Nations Meet In Russia",
+      "link": "https://thehighstreetjournal.com/global-youth-economy-takes-centre-stage-as-191-nations-meet-in-russia/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T19:00:00.000Z",
+      "summary": "10,000 young leaders from 191 countries gather in Russia to build global networks around entrepreneurship, technology, creativity and the future of work."
+    },
+    {
+      "title": "Ghana Clears Major Hurdle for $4bn Accra-Kumasi Expressway as Military Hands Over 175.6km Corridor",
+      "link": "https://thehighstreetjournal.com/ghana-clears-major-hurdle-for-4bn-accra-kumasi-expressway-as-military-hands-over-175-6km-corridor/",
+      "source": "The High Street Journal",
+      "published": "2026-09-13T18:00:00.000Z",
+      "summary": "Ghana moves closer to a $4bn road project set to reshape trade, transport and jobs."
+    },
+    {
+      "title": "No two-phone law – GRA clarifies Customs rules for travellers",
+      "link": "https://www.myjoyonline.com/no-two-phone-law-gra-clarifies-customs-rules-for-travellers/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-13T16:49:56.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has reiterated that there is no law limiting travellers entering Ghana to two duty-free mobile phones."
+    },
     {
       "title": "MTN Wins $100.9m 5G Spectrum Bid as Competition Concerns Persist",
       "link": "https://thehighstreetjournal.com/mtn-wins-100-9m-5g-spectrum-bid-as-competition-concerns-persist/",
