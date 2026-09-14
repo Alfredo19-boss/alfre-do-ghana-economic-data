@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-13T19:31:26.990Z",
+  "updated": "2026-09-14T00:29:29.764Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "T-bills auction: Government exceeds target marginally; interest rates decline",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-marginally-interest-rates-decline/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T00:27:38.000Z",
+      "summary": "According to the auction results by the Bank of Ghana, the government recorded a 2.8% oversubscription of the short-term securities to the tune of GH¢8.1 billion."
+    },
     {
       "title": "Global Youth Economy Takes Centre Stage As 191 Nations Meet In Russia",
       "link": "https://thehighstreetjournal.com/global-youth-economy-takes-centre-stage-as-191-nations-meet-in-russia/",
