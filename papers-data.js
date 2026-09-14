@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-14T00:29:59.999Z",
+  "updated": "2026-09-14T05:21:07.469Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,119 +21,113 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Édouard Mendy annonce sa retraite internationale avec le Sénégal",
-      "link": "https://www.myjoyonline.com/edouard-mendy-annonce-sa-retraite-internationale-avec-le-senegal/",
+      "title": "Fuel prices may rise, but GOIL says 30% transport fare hike doesn’t add up",
+      "link": "https://www.myjoyonline.com/fuel-prices-may-rise-but-goil-says-30-transport-fare-hike-doesnt-add-up/",
       "source": "MyJoyOnline",
-      "published": "2026-09-13T21:17:07.000Z",
-      "summary": "The 34-year-old Al Ahli goalkeeper confirmed his decision on Saturday in a video posted on his Instagram account, accompanied by the simple message: “Thank you, Senegal.” The video featured…",
+      "published": "2026-09-14T05:15:50.000Z",
+      "summary": "GOIL says rising fuel prices alone cannot justify the Ghana Private Road Transport Union's (GPRTU) proposed 30% increase in transport fares.",
       "categories": [
-        "Football",
-        "Édouard Mendy",
-        "Senegal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lamine Yamal scores twice as Barcelona maintain perfect start",
-      "link": "https://www.myjoyonline.com/lamine-yamal-scores-twice-as-barcelona-maintain-perfect-start/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T21:12:31.000Z",
-      "summary": "The defending champions appeared to be cruising towards a fifth-consecutive league victory when Lamine Yamal scored his second goal of the game, and Barcelona's third, from the penalty spot…",
-      "categories": [
-        "Football",
-        "Barcelona",
-        "La Liga",
-        "Lamine Yamal"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Haaland scores controversial winner for 10-man City at Man Utd",
-      "link": "https://www.myjoyonline.com/haaland-scores-controversial-winner-for-10-man-city-at-man-utd/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T21:09:56.000Z",
-      "summary": "City midfielder Phil Foden was shown a straight red card for kicking out at Bruno Fernandes and United followed it with a period of dominance, hitting the post either side of half-time.",
-      "categories": [
-        "Football",
-        "Erling Haaland",
-        "Manchester City",
-        "Manchester United"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s narcotics crisis deepens as drug seizures linked to country top US$1bn – Minority",
-      "link": "https://www.myjoyonline.com/ghanas-narcotics-crisis-deepens-as-drug-seizures-linked-to-country-top-us1bn-minority/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T20:55:17.000Z",
-      "summary": "The Minority in Parliament has raised fresh alarm over what it describes as Ghana’s growing role as a transit hub for international narcotics trafficking.",
-      "categories": [
-        "HP News 3",
-        "Politics",
-        "Minority in Parliament",
-        "Pedu cocaine haul",
-        "Rev. Ntim Fordour"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CAF CC: Nations FC bow out after draw with FC Diarra in Accra",
-      "link": "https://www.myjoyonline.com/caf-cc-nations-fc-bow-out-after-draw-with-fc-diarra-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T20:52:52.000Z",
-      "summary": "Nations FC have been eliminated from the 2026/27 CAF Confederation Cup following their draw against Malian side FC Diarra. The MTN FA Cup winners bowed out of the competition after drawing…",
-      "categories": [
-        "Football",
+        "Energy",
         "National",
-        "CAF Confederation Cup",
-        "FC Diarra",
-        "Nations FC"
+        "GOIL",
+        "Transport fares"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kenyans dominate 2026 KGL Millennium Marathon as race champions mental health",
-      "link": "https://www.myjoyonline.com/kenyans-dominate-2026-kgl-millennium-marathon-as-race-champions-mental-health/",
+      "title": "Minority questions why alleged masterminds behind US$350m cocaine haul remain free",
+      "link": "https://www.myjoyonline.com/minority-questions-why-alleged-masterminds-behind-us350m-cocaine-haul-remain-free/",
       "source": "MyJoyOnline",
-      "published": "2026-09-13T20:51:00.000Z",
-      "summary": "The 2026 KGL Foundation Millennium Marathon registered a huge turnout at Independence Square in Accra, as thousands of runners from across Ghana and beyond participated in this year’s…",
+      "published": "2026-09-14T05:15:09.000Z",
+      "summary": "The Minority in Parliament has questioned the progress of investigations into a major cocaine seizure at Pedu Junction in Cape Coast, arguing that the case has so far failed to identify the…",
       "categories": [
-        "Athletics",
-        "Sports",
-        "Alex Korio",
-        "Alex Korio w",
-        "Kenyans",
-        "KGL Millennium Marathon",
-        "Millennium Marathon's Corporate Wellness Forum"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority demands full-scale probe into Ghana’s alleged emergence as narcotics transit hub",
-      "link": "https://www.myjoyonline.com/minority-demands-full-scale-probe-into-ghanas-alleged-emergence-as-narcotics-transit-hub/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T20:42:00.000Z",
-      "summary": "The Minority in Parliament is demanding a full-scale, independent parliamentary inquiry into what it describes as Ghana’s emergence as a narcotics transit hub.",
-      "categories": [
-        "Politics",
-        "Minority in Parliament",
-        "Pedu cocaine haul",
-        "Rev Ntim Fordjour"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NaCCA trains teachers to implement new Chinese language curriculum",
-      "link": "https://www.myjoyonline.com/nacca-trains-teachers-to-implement-new-chinese-language-curriculum/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T19:02:13.000Z",
-      "summary": "The National Council for Curriculum and Assessment (NaCCA) has held a national training workshop to equip basic school teachers with the knowledge and skills needed to implement the new…",
-      "categories": [
-        "Education",
-        "HP News 5",
         "National",
-        "Chinese",
-        "NaCCA"
+        "Cocaine",
+        "Minority",
+        "Ntim Fordjour"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AGI calls for workplace training to boost youth employability",
+      "link": "https://www.myjoyonline.com/agi-calls-for-workplace-training-to-boost-youth-employability/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T05:09:00.000Z",
+      "summary": "The Association of Ghana Industries (AGI) has called on small and medium-sized enterprises (SMEs) to adopt workplace-based training to enhance the employability of young people in Africa.",
+      "categories": [
+        "National",
+        "AGI",
+        "Youth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama inspects proposed site for Upper West Regional Airport",
+      "link": "https://www.myjoyonline.com/mahama-inspects-proposed-site-for-upper-west-regional-airport/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T05:05:00.000Z",
+      "summary": "President John Dramani Mahama on Saturday inspected the proposed site for the construction of the Upper West Regional Airport in Wa.",
+      "categories": [
+        "National",
+        "Airport",
+        "Mahama",
+        "Upper West"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government recruits 16,000 health personnel to support FPHC programme – Health Minister",
+      "link": "https://www.myjoyonline.com/government-recruits-16000-health-personnel-to-support-fphc-programme-health-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T05:00:00.000Z",
+      "summary": "Kwabena Mintah Akandoh, the Minister of Health, says the government is recruiting 16,000 health professionals to support the implementation of the government Free Primary Health Care (FPHC)…",
+      "categories": [
+        "National",
+        "Government",
+        "Health Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GOIL sets Sept. 16 deadline for decision on fuel prices",
+      "link": "https://www.myjoyonline.com/goil-sets-sept-16-deadline-for-decision-on-fuel-prices/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T04:57:51.000Z",
+      "summary": "GOIL is studying the impact of crude oil prices hitting $100 a barrel before deciding whether to adjust fuel prices at its pumps.",
+      "categories": [
+        "Energy",
+        "HP Business 1",
+        "HP News 4",
+        "National",
+        "Fuel Prices",
+        "GOIL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama reiterates government’s commitment to end double-track SHS system",
+      "link": "https://www.myjoyonline.com/mahama-reiterates-governments-commitment-to-end-double-track-shs-system/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T04:55:00.000Z",
+      "summary": "President John Dramani Mahama has reiterated his administration’s commitment to phase out the Double-Track System in the nation’s senior high schools (SHSs).",
+      "categories": [
+        "National",
+        "Government",
+        "Mahama",
+        "SHS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TMA warns against illegal felling of trees in Tema",
+      "link": "https://www.myjoyonline.com/tma-warns-against-illegal-felling-of-trees-in-tema/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T04:50:00.000Z",
+      "summary": "The Tema Metropolitan Assembly (TMA) has warned residents against the unauthorised felling of trees in the metropolis, saying the trees play a critical role in protecting residents from the…",
+      "categories": [
+        "National",
+        "Tema",
+        "TMA"
       ],
       "site": "https://www.myjoyonline.com/"
     },

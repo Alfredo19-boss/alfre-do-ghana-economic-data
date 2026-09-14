@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-14T00:29:29.764Z",
+  "updated": "2026-09-14T05:20:41.966Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,11 +22,123 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "Fuel prices may rise, but GOIL says 30% transport fare hike doesn’t add up",
+      "link": "https://www.myjoyonline.com/fuel-prices-may-rise-but-goil-says-30-transport-fare-hike-doesnt-add-up/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T05:15:50.000Z",
+      "summary": "GOIL says rising fuel prices alone cannot justify the Ghana Private Road Transport Union's (GPRTU) proposed 30% increase in transport fares."
+    },
+    {
+      "title": "What Really Goes Into Land Pricing in Accra? A ‘Frustrated’ Land Buyer Asks",
+      "link": "https://thehighstreetjournal.com/what-really-goes-into-land-pricing-in-accra-a-frustrated-land-buyer-asks/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:05:00.000Z",
+      "summary": "Dickson Assan questions Accra’s land-pricing system, arguing that asking prices, not actual completed transactions, often determine valuations, creating speculative price inflation and…"
+    },
+    {
+      "title": "Can Ghana Achieve the SDGs by 2030? Four Years Left, Progress Remains Uneven",
+      "link": "https://thehighstreetjournal.com/can-ghana-achieve-the-sdgs-by-2030-four-years-left-progress-remains-uneven/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:03:00.000Z",
+      "summary": "The clock is ticking on Ghana’s 2030 development targets. New assessments show gains in some areas, but serious gaps remain."
+    },
+    {
+      "title": "Makhtar Diop’s Visit to Focus on Private Investment, Competitiveness and Jobs",
+      "link": "https://thehighstreetjournal.com/makhtar-diops-visit-to-focus-on-private-investment-competitiveness-and-jobs/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:02:00.000Z",
+      "summary": "IFC Managing Director Makhtar Diop’s Ghana visit will focus on mobilising private investment, improving business competitiveness, expanding finance and creating more and better jobs."
+    },
+    {
+      "title": "Ghana’s Flood Politics Has a Compliance Problem",
+      "link": "https://thehighstreetjournal.com/ghanas-flood-politics-have-a-problem/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:01:00.000Z",
+      "summary": "On Sunday morning, soldiers from the 48 Engineers Regiment moved into Laboma Beach and began pulling down the Pink Flamingo Lounge and a string of other beachfront businesses sitting inside…"
+    },
+    {
+      "title": "Is T-Bill Market Drying Up? Gov’t Misses Target by GH¢764M Despite Mild Oversubscription & Cheaper Rates",
+      "link": "https://thehighstreetjournal.com/is-t-bill-market-drying-up-govt-misses-target-by-gh%c2%a2764m-despite-mild-oversubscription-cheaper-rates/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:00:00.000Z",
+      "summary": "Ghana’s Treasury missed its GH¢7.97 billion T-bill target by GH¢764.27 million despite a modest 2.8% oversubscription and falling yields, raising questions about whether the market’s…"
+    },
+    {
+      "title": "PAPSS Targets Scale-Up as Cross-Border Payment Volumes Surge",
+      "link": "https://thehighstreetjournal.com/papss-targets-scale-up/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:00:00.000Z",
+      "summary": "Pan-African payment network says transaction volumes jumped about 1,000% as it expands across more than 30 countries"
+    },
+    {
+      "title": "Afreximbank Backs Legends Football Match to Drive Africa’s Creative Economy",
+      "link": "https://thehighstreetjournal.com/legends-football-match-creative-economy/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:00:00.000Z",
+      "summary": "CANEX WKND event will reunite members of Nigeria’s iconic 1990s Super Eagles squad in Lagos"
+    },
+    {
+      "title": "AI Skills, Digital Economy Take Centre Stage at International Youth Festival in Russia",
+      "link": "https://thehighstreetjournal.com/ai-skills-digital-economy-take-centre-stage-at-international-youth-festival-in-russia/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:00:00.000Z",
+      "summary": "AI skills, digital literacy and creativity are emerging as key drivers of opportunity for the next generation of entrepreneurs and digital workers."
+    },
+    {
+      "title": "The Hidden Continuity Tax: Why Ghanaians Buy Private Solutions to Public Problems",
+      "link": "https://thehighstreetjournal.com/the-hidden-continuity-tax-why-ghanaians-buy-private-solutions-to-public-problems/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T05:00:00.000Z",
+      "summary": "Ghana’s hidden continuity tax reveals how unreliable public systems force households and businesses to privately finance electricity, water, security, connectivity, and other essential…"
+    },
+    {
+      "title": "GOIL sets Sept. 16 deadline for decision on fuel prices",
+      "link": "https://www.myjoyonline.com/goil-sets-sept-16-deadline-for-decision-on-fuel-prices/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T04:57:51.000Z",
+      "summary": "GOIL is studying the impact of crude oil prices hitting $100 a barrel before deciding whether to adjust fuel prices at its pumps."
+    },
+    {
+      "title": "Deloitte Partner calls for a specialised bank for industrial development",
+      "link": "https://www.myjoyonline.com/deloitte-partner-calls-for-a-specialised-bank-for-industrial-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T03:26:09.000Z",
+      "summary": "Deloitte Africa Leader for Infrastructure & Capital Projects (I&CP), Yaw Appiah Lartey, has proposed the establishment of a specialised financial institution dedicated to supporting…"
+    },
+    {
+      "title": "MPC to cut policy rate to 12.5%",
+      "link": "https://www.myjoyonline.com/mpc-to-cut-policy-rate-to-12-5/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T01:11:54.000Z",
+      "summary": "“Despite external shocks, monetary policy in 1H’26 [half-year 2026] remained on a cautious easing path, with our expectation of two rate cuts for the year [2026] still intact following the…"
+    },
+    {
+      "title": "Banks wrote off GH¢1.23bn as bad debt in half-year-2026",
+      "link": "https://www.myjoyonline.com/banks-wrote-off-gh%c2%a21-23bn-as-bad-debt-in-half-year-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T00:48:36.000Z",
+      "summary": "This was 38% year-on-increase over that of GH¢893.0 million recorded in June 2025"
+    },
+    {
       "title": "T-bills auction: Government exceeds target marginally; interest rates decline",
       "link": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-marginally-interest-rates-decline/",
       "source": "MyJoyOnline",
       "published": "2026-09-14T00:27:38.000Z",
       "summary": "According to the auction results by the Bank of Ghana, the government recorded a 2.8% oversubscription of the short-term securities to the tune of GH¢8.1 billion."
+    },
+    {
+      "title": "Ghana eyes flower export boom as government moves to build full horticulture industry",
+      "link": "https://www.myjoyonline.com/ghana-eyes-flower-export-boom-as-government-moves-to-build-full-horticulture-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-13T23:35:00.000Z",
+      "summary": "Ghana is positioning its horticulture sector for a major export push, with government working on a cut-flower corridor aimed at connecting local producers to markets in Europe, West Africa…"
+    },
+    {
+      "title": "Horticulture can create jobs, businesses and export opportunities for Ghana – Prof Naana Jane",
+      "link": "https://www.myjoyonline.com/horticulture-can-create-jobs-businesses-and-export-opportunities-for-ghana-prof-naana-jane/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-13T22:54:00.000Z",
+      "summary": "Vice President Prof Naana Jane Opoku-Agyemang has called for greater investment in Ghana’s horticulture sector, saying it can create jobs, build businesses and open new export opportunities…"
     },
     {
       "title": "Global Youth Economy Takes Centre Stage As 191 Nations Meet In Russia",
