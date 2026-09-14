@@ -13,7 +13,11 @@ const MAX_AGE_DAYS = 10;
 // filter: true means the feed mixes general news, so only stories that look like business are kept
 export const FEEDS = [
   { source: "MyJoyOnline", url: "https://www.myjoyonline.com/business/feed/", filter: false },
+  // Citi Newsroom stopped serving RSS in 2026 (both paths return HTML). The entry stays in
+  // case it comes back; meanwhile Citi arrives through the wire list below.
   { source: "Citi Newsroom", url: "https://citinewsroom.com/category/business/feed/", filter: false },
+  { source: "Graphic Online", url: "https://www.graphic.com.gh/news.feed", filter: true },
+  { source: "Graphic Business", url: "https://www.graphic.com.gh/business.feed", filter: false },
   { source: "The High Street Journal", url: "https://thehighstreetjournal.com/feed/", filter: false },
   { source: "Ghana Business News", url: "https://www.ghanabusinessnews.com/feed/", filter: true },
   { source: "Ghana News Agency", url: "https://gna.org.gh/category/business/feed/", filter: false },
@@ -61,6 +65,59 @@ export function parseFeed(xml, feed) {
   }).filter(i => i.title && /^https?:\/\//.test(i.link) && i.published);
 }
 
+
+/* ---------- the wire: Reuters, through GDELT's open news index ----------
+ * Reuters retired its public RSS feeds and blocks crawlers, so headlines come from GDELT,
+ * a free index of the world's news. Only the headline, the publisher and the link are kept,
+ * and every link goes to Reuters' own page. If GDELT is quiet the rest of the job carries on.
+ */
+export const WIRE = [
+  { source: "Reuters", domain: "reuters.com", query: "(Ghana OR cedi OR Accra) (economy OR inflation OR debt OR cocoa OR gold OR IMF OR budget OR bank)" },
+  { source: "Reuters", domain: "reuters.com", query: "\"West Africa\" (economy OR currency OR cocoa OR gold OR debt)" },
+  { source: "Citi Newsroom", domain: "citinewsroom.com", query: "(economy OR cedi OR inflation OR business OR bank OR tax OR budget OR cocoa OR gold OR fuel OR IMF)" },
+  { source: "Citi Newsroom", domain: "citinewsroom.com", query: "(Ghana Stock Exchange OR treasury OR interest OR trade OR investment OR mining OR energy)" }
+];
+const GDELT = (q, domain) =>
+  `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(`${q} domain:${domain}`)}` +
+  `&mode=artlist&maxrecords=25&format=json&sort=datedesc&timespan=7d`;
+
+// "20260914T091500Z" -> ISO, and anything unparseable is dropped
+export function wireDate(seen) {
+  const m = /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/.exec(String(seen || ""));
+  if (!m) { const d = new Date(seen); return isNaN(d) ? null : d.toISOString(); }
+  return `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}.000Z`;
+}
+
+export function parseWire(json, feed) {
+  const rows = (json && Array.isArray(json.articles)) ? json.articles : [];
+  return rows.map(a => {
+    // GDELT keeps the publisher's name on the end of the headline; the site shows it separately
+    const title = strip(a.title || "")
+      .replace(/\s*[-–|]\s*(Reuters(\.com)?|Citinewsroom|Citi Newsroom|Citi FM|MyJoyOnline|Graphic Online)\s*$/i, "")
+      .trim();
+    const link = String(a.url || "");
+    const published = wireDate(a.seendate);
+    if (!title || !/^https?:\/\//.test(link) || !published) return null;
+    if (feed.domain && !link.includes(feed.domain)) return null;
+    if (a.language && !/english/i.test(a.language)) return null;
+    return { title, link, source: feed.source, published, summary: "", categories: ["wire"], wire: true };
+  }).filter(Boolean);
+}
+
+export async function fetchWire(log) {
+  const out = [];
+  for (const feed of WIRE) {
+    try {
+      const res = await fetch(GDELT(feed.query, feed.domain), { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(30000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const items = parseWire(await res.json(), feed);
+      out.push(...items);
+      log.push(`${feed.source} wire: ${items.length} stories`);
+    } catch (e) { log.push(`${feed.source} wire: failed (${e.message})`); }
+  }
+  return out;
+}
+
 export function keep(item, feed) {
   if (!feed.filter) return true;
   return BUSINESS.test(`${item.title} ${item.categories.join(" ")}`);
@@ -81,7 +138,7 @@ export function mergeNews(oldItems, freshItems, now = Date.now()) {
     .sort((a, b) => b.published.localeCompare(a.published))
     .filter(i => { const k = i.source + "|" + i.title.toLowerCase().replace(/\W+/g, " ").trim(); if (seenTitles.has(k)) return false; seenTitles.add(k); return true; })
     .slice(0, MAX_ITEMS)
-    .map(({ title, link, source, published, summary }) => ({ title, link, source, published, summary }));
+    .map(({ title, link, source, published, summary, wire }) => (wire ? { title, link, source, published, summary, wire } : { title, link, source, published, summary }));
 }
 
 function loadExisting() {
@@ -111,6 +168,8 @@ async function main() {
       log.push(`${feed.source}: failed (${e.message})`);
     }
   }
+  fresh.push(...await fetchWire(log));
+
   console.log(log.join("\n"));
   if (!fresh.length) {
     console.error("No feed could be read. news-data.js was left unchanged.");
@@ -120,7 +179,7 @@ async function main() {
   // sample headlines from the first publish are replaced once live feeds work
   const base = existing.updated ? existing.items || [] : [];
   const items = mergeNews(base, fresh);
-  const out = { updated: new Date().toISOString(), sources: FEEDS.map(f => f.source), log, items };
+  const out = { updated: new Date().toISOString(), sources: [...FEEDS.map(f => f.source), ...new Set(WIRE.map(w => w.source))], log, items };
   const body = `/*\n * Alfredo Ghana Economic Data: business headlines collected by .github/workflows/news.yml from publishers' RSS feeds.\n * Do not edit by hand; the next run overwrites this file.\n */\nwindow.GDC_NEWS = ${JSON.stringify(out, null, 2)};\n`;
   const before = fs.existsSync(FILE) ? fs.readFileSync(FILE, "utf8") : "";
   const sameItems = before.includes(JSON.stringify(items.slice(0, 3), null, 2).slice(0, 400));

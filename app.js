@@ -219,9 +219,11 @@
       <h3 class="group-h">${esc(g.group)}</h3>
       <div class="panel lines econ-grid">
         ${g.items.map(it => `
-          <div class="cell stat tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}">
+          <div class="cell stat tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-label="${esc(it.label)}">
             <div class="stat-top"><span class="k">${esc(it.label)}</span>${chipFor(it)}</div>
             <span class="mono"${it.live ? ` data-calc="${it.live}"` : ""}>${readValue(it)}</span>
+            <span class="market-line" data-market="${esc(it.label)}" hidden></span>
+            ${it.sourceNewer ? `<span class="source-newer">${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} <small>${esc(it.sourceNewer.source)} · ${esc(it.sourceNewer.date)}</small></span>` : ""}
             <span class="note">${toneNote(it.note, it.tone)}${it.status || staleDays(it) ? ` · ${esc(it.date)}` : ""}</span>
           </div>`).join("")}
       </div>
@@ -409,6 +411,7 @@
       const bits = [KIND_WORD[e.entry.kind], anniversary(e)].filter(Boolean);
       band.className = `dayband ${e.entry.kind}`;
       band.innerHTML = `
+        ${e.entry.kind === "holiday" ? GH_FLAG.replace("gh-flag", "gh-flag band-flag") : ""}
         <span class="db-tag">Today</span>
         <b class="db-name">${esc(e.entry.name)}</b>
         <span class="db-meta">${bits.map(esc).join(" · ")}</span>
@@ -454,6 +457,14 @@
     }
   }
 
+
+  // the flag of Ghana, star and all
+  const GH_FLAG = `<svg class="gh-flag" viewBox="0 0 30 20" role="img" aria-label="Flag of Ghana">
+      <rect width="30" height="6.667" fill="#ce1126"/>
+      <rect y="6.667" width="30" height="6.666" fill="#fcd116"/>
+      <rect y="13.333" width="30" height="6.667" fill="#006b3f"/>
+      <polygon fill="#000" points="15.00,6.20 15.85,8.83 18.61,8.83 16.38,10.45 17.23,13.07 15.00,11.45 12.77,13.07 13.62,10.45 11.39,8.83 14.15,8.83"/>
+    </svg>`;
 
   /* ================= trade & reserves shown beside the milestone ================= */
   const OZ_PER_TONNE = 32150.7465;
@@ -653,6 +664,8 @@
             ${typeof c.prev === "number" ? factRow("Month before", `${fmt(c.prev, 1)}% · ${move > 0 ? "up" : move < 0 ? "down" : "unchanged"}${move ? ` ${fmt(Math.abs(move), 1)} pts` : ""}`) : ""}
             ${factRow("Against Ghana", id === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts (Ghana ${fmt(gh.latest.value, 1)}%)`)}
             ${factRow("Rank in Africa", `${ordinal(place)} highest of ${list.length}`)}
+            ${c.gdp ? factRow("Size of the economy", `US$${fmt(c.gdp.value, c.gdp.value < 10 ? 1 : 0)}bn <span class="u">${esc(c.gdp.year)}</span>`) : ""}
+            ${c.gdp && A.countries.GHA && A.countries.GHA.gdp ? factRow("Against Ghana's economy", id === "GHA" ? "—" : `${fmt(c.gdp.value / A.countries.GHA.gdp.value, c.gdp.value / A.countries.GHA.gdp.value < 1 ? 2 : 1)}×`) : ""}
           </div>
           ${points.length > 2 ? sheetSection("Recent months, %", sheetChart(points, pc)) : ""}
           ${points.length > 1 ? sheetSection("Readings", sheetTable(points, pc)) : `<div class="sheet-empty"><b>One reading so far.</b><p>This board keeps every month it collects, so ${esc(c.name)} will build a run of readings from here.</p></div>`}
@@ -671,6 +684,7 @@
         nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(liveTime(nowQ.at))}</span>`) : "",
         factRow(nowQ ? "Official reading" : "Latest reading", showVal(it.value, u)),
         factRow("Period", esc(it.date || "—")),
+        it.sourceNewer ? factRow("A newer figure exists", `${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} · ${esc(it.sourceNewer.source)}, ${esc(it.sourceNewer.date)}`) : "",
         it.autoSource ? factRow("Updated", "Automatically, every morning") : "",
         age ? factRow("Age", `${age} days old · update due`) : ""
       ].join("");
@@ -679,6 +693,7 @@
         title: it.label,
         body: `
           <div class="facts">${facts}</div>
+          ${it.sourceNewer ? `<p class="sheet-note">The figure above is the one Ghana's own statistics office last published. ${esc(it.sourceNewer.source)} has a newer estimate for ${esc(it.sourceNewer.date)} — it is measured differently, so it sits alongside rather than replacing it, until a person checks the official release.</p>` : ""}
           ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The official reading above is the Bank of Ghana's, published once each morning — it is the figure the rest of this page counts with.</p>` : ""}
           ${it.note ? `<p class="sheet-note">${toneNote(it.note, it.tone)}</p>` : ""}
           ${points.length > 1
@@ -1257,6 +1272,19 @@
   const LIVE_LABELS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur", "Chinese yuan": "cny", "Gold price": "gold" };
   const liveFor = label => liveQuotes().find(q => q.key === LIVE_LABELS[label]) || null;
   const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
+  // Both rates, side by side: the Bank of Ghana's official reading is the figure in the
+  // big type; the market quote sits under it with the minute it was taken.
+  function paintMarketLines() {
+    $$("[data-market]").forEach(el => {
+      const q = liveFor(el.dataset.market);
+      if (!q) { el.hidden = true; return; }
+      const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
+      const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
+      el.innerHTML = `<b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span>market · ${esc(liveTime(q.at))}</span>`;
+      el.hidden = false;
+    });
+  }
+
   function liveGroup() {
     const qs = liveQuotes();
     if (!qs.length) return "";
@@ -1330,6 +1358,9 @@
     dashboard: { el: $("dashboard-view") },
     news: { el: newsView, draw: () => renderNews() },
     africa: { el: $("africa-view"), draw: () => renderAfrica() },
+    markets: { el: $("markets-view"), draw: () => renderMarkets() },
+    gse: { el: $("gse-view"), draw: () => renderGse() },
+    charts: { el: $("charts-view"), draw: () => renderCharts() },
     papers: { el: $("papers-view"), draw: () => renderPapers() },
     articles: { el: $("articles-view"), draw: () => renderArticles() },
     status: { el: $("status-view"), draw: () => renderStatus() }
@@ -1341,7 +1372,7 @@
     Object.entries(VIEWS).forEach(([name, v]) => { if (v.el) v.el.hidden = name !== view; });
     $$("[data-view-link]").forEach(a => (a.dataset.viewLink === view ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
     const v = VIEWS[view];
-    if (v.draw && (!drawn[view] || view === "news" || view === "status")) { v.draw(); drawn[view] = true; }
+    if (v.draw && (!drawn[view] || ["news", "status", "markets", "gse"].includes(view))) { v.draw(); drawn[view] = true; }
     fit();
   }
   function routeFromHash() {
@@ -1352,6 +1383,271 @@
     else if (h === "dashboard") window.scrollTo(0, 0);
   }
   window.addEventListener("hashchange", routeFromHash);
+
+  /* ================= Ghana in pictures: the charts portal ================= */
+  // One measure per chart, one axis, thin marks, recessive grid. The four series colours
+  // are a validated categorical set (blue, orange, aqua, yellow) checked for colour-blind
+  // separation against this page's dark surface; text stays in the ink tokens.
+  const SERIES = ["#3987e5", "#d95926", "#199e70", "#c98500"];
+  const chartsData = () => ({ H: HIST, A: window.GDC_AUTO || {}, AF: africaData() });
+
+  const niceTop = max => {
+    const pow = Math.pow(10, Math.floor(Math.log10(Math.abs(max) || 1)));
+    return Math.ceil(max / (pow / 2)) * (pow / 2);
+  };
+  const axisFmt = (v, dec) => (Math.abs(v) >= 1000 ? fmt(v, 0) : fmt(v, dec ?? (Math.abs(v) < 10 ? 1 : 0)));
+
+  // a line (or area) over an evenly spaced series, with a crosshair on hover
+  function pLine(series, opts = {}) {
+    const W = 760, H = 300, L = 54, R = 16, T = 18, B = 34;
+    const all = series.flatMap(s => s.points.map(p => p.value));
+    if (!all.length) return "";
+    const min = Math.min(...all), max = Math.max(...all);
+    const lo = opts.zero === false ? Math.max(0, min - (max - min) * 0.35) : Math.min(0, min);
+    const hi = opts.zero === false ? max + (max - min) * 0.25 : niceTop(max);
+    const labels = series[0].points.map(p => p.date);
+    const x = i => L + (labels.length === 1 ? (W - L - R) / 2 : i * (W - L - R) / (labels.length - 1));
+    const y = v => T + (H - T - B) * (1 - (v - lo) / ((hi - lo) || 1));
+    const ticks = [0, 0.25, 0.5, 0.75, 1].map(f => lo + (hi - lo) * f);
+    const step = Math.max(1, Math.ceil(labels.length / 7));
+
+    const paths = series.map((s, i) => {
+      const d = s.points.map((p, k) => `${k ? "L" : "M"}${x(k).toFixed(1)},${y(p.value).toFixed(1)}`).join("");
+      const area = opts.area && series.length === 1
+        ? `<path class="c-area" d="${d}L${x(s.points.length - 1).toFixed(1)},${y(lo).toFixed(1)}L${x(0).toFixed(1)},${y(lo).toFixed(1)}Z" fill="${SERIES[i]}" opacity=".14"/>` : "";
+      const last = s.points[s.points.length - 1];
+      return `${area}<path d="${d}" fill="none" stroke="${SERIES[i]}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="${x(s.points.length - 1).toFixed(1)}" cy="${y(last.value).toFixed(1)}" r="4.5" fill="${SERIES[i]}" stroke="var(--panel)" stroke-width="2"/>
+        <text class="c-tip-label" x="${(x(s.points.length - 1) - 8).toFixed(1)}" y="${(y(last.value) + (i === 0 ? -12 : 18)).toFixed(1)}" text-anchor="end" fill="${SERIES[i]}">${esc(s.name)} ${axisFmt(last.value, opts.dec)}</text>`;
+    }).join("");
+
+    const hot = labels.map((lab, k) => {
+      const vals = series.map(s => `${esc(s.name)}: ${opts.pre || ""}${axisFmt(s.points[k] ? s.points[k].value : NaN, opts.dec)}${opts.unit || ""}`).join(" · ");
+      return `<rect class="c-hot" x="${(x(k) - (W - L - R) / (labels.length * 2)).toFixed(1)}" y="${T}" width="${((W - L - R) / labels.length).toFixed(1)}" height="${H - T - B}" fill="transparent"><title>${esc(lab)} — ${vals}</title></rect>`;
+    }).join("");
+
+    return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+      ${ticks.map(t => `<line class="c-grid" x1="${L}" x2="${W - R}" y1="${y(t).toFixed(1)}" y2="${y(t).toFixed(1)}"/>
+        <text class="c-axis" x="${L - 9}" y="${(y(t) + 4).toFixed(1)}" text-anchor="end">${axisFmt(t, opts.dec)}</text>`).join("")}
+      ${labels.map((lab, k) => (k % step === 0 || k === labels.length - 1)
+        ? `<text class="c-axis" x="${x(k).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(String(lab).slice(-4))}</text>` : "").join("")}
+      ${paths}${hot}
+    </svg>`;
+  }
+
+  // vertical bars for one measure across a handful of periods
+  function pBars(points, opts = {}) {
+    const W = 760, H = 300, L = 54, R = 16, T = 18, B = 34;
+    if (!points.length) return "";
+    const hi = niceTop(Math.max(...points.map(p => p.value)));
+    const bw = (W - L - R) / points.length;
+    const y = v => T + (H - T - B) * (1 - v / (hi || 1));
+    const ticks = [0, 0.25, 0.5, 0.75, 1].map(f => hi * f);
+    return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+      ${ticks.map(t => `<line class="c-grid" x1="${L}" x2="${W - R}" y1="${y(t).toFixed(1)}" y2="${y(t).toFixed(1)}"/>
+        <text class="c-axis" x="${L - 9}" y="${(y(t) + 4).toFixed(1)}" text-anchor="end">${axisFmt(t, opts.dec)}</text>`).join("")}
+      ${points.map((p, i) => {
+        const h = Math.max(2, H - B - y(p.value));
+        const px = L + i * bw + bw * 0.16, pw = bw * 0.68;
+        return `<rect class="c-bar" x="${px.toFixed(1)}" y="${y(p.value).toFixed(1)}" width="${pw.toFixed(1)}" height="${h.toFixed(1)}" rx="4" fill="${p.accent ? SERIES[3] : SERIES[0]}"><title>${esc(p.date)}: ${opts.pre || ""}${axisFmt(p.value, opts.dec)}${opts.unit || ""}</title></rect>
+          <text class="c-axis" x="${(px + pw / 2).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(p.date)}</text>
+          ${i === points.length - 1 || points.length <= 8 ? `<text class="c-val" x="${(px + pw / 2).toFixed(1)}" y="${(y(p.value) - 7).toFixed(1)}" text-anchor="middle">${axisFmt(p.value, opts.dec)}</text>` : ""}`;
+      }).join("")}
+    </svg>`;
+  }
+
+  // horizontal bars: good for ranking a list by size
+  function pHBars(rows, opts = {}) {
+    const W = 760, rowH = 30, T = 10, L = 158, R = 58;
+    if (!rows.length) return "";
+    const H = T * 2 + rows.length * rowH;
+    const hi = niceTop(Math.max(...rows.map(r => r.value)));
+    const w = v => Math.max(2, (W - L - R) * (v / (hi || 1)));
+    return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+      ${rows.map((r, i) => {
+        const yy = T + i * rowH;
+        return `<text class="c-axis c-name" x="${L - 10}" y="${(yy + rowH / 2 + 4).toFixed(1)}" text-anchor="end">${esc(r.name)}</text>
+          <rect class="c-bar" x="${L}" y="${(yy + 5).toFixed(1)}" width="${w(r.value).toFixed(1)}" height="${rowH - 12}" rx="4" fill="${r.accent ? SERIES[3] : SERIES[0]}"><title>${esc(r.name)}: ${opts.pre || ""}${axisFmt(r.value, opts.dec)}${opts.unit || ""}</title></rect>
+          <text class="c-val" x="${(L + w(r.value) + 8).toFixed(1)}" y="${(yy + rowH / 2 + 4).toFixed(1)}">${opts.pre || ""}${axisFmt(r.value, opts.dec)}${opts.unit || ""}</text>`;
+      }).join("")}
+    </svg>`;
+  }
+
+  function chartCard(title, blurb, svg, source, legend) {
+    if (!svg) return "";
+    return `<figure class="chart-card">
+      <figcaption>
+        <h3>${esc(title)}</h3>
+        <p>${esc(blurb)}</p>
+        ${legend && legend.length > 1 ? `<div class="c-legend">${legend.map((n, i) => `<span><i style="background:${SERIES[i]}"></i>${esc(n)}</span>`).join("")}</div>` : ""}
+      </figcaption>
+      <div class="chart-box">${svg}</div>
+      <p class="c-src">${esc(source)}</p>
+    </figure>`;
+  }
+
+  function renderCharts() {
+    const { H, A, AF } = chartsData();
+    const cards = [];
+    const seriesOf_ = key => (H[key] && H[key].points) || [];
+
+    // the debt itself
+    const debtBars = (D.history || []).filter(h => h.debt).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.debt }));
+    cards.push(chartCard("Public debt, GH¢ billion", "Year-end stock, with the latest reported month at the end.",
+      pBars(debtBars, { unit: "bn", dec: 0, alt: "Ghana's public debt stock by year" }), "Bank of Ghana · Ministry of Finance"));
+
+    const ratioBars = (D.history || []).filter(h => h.ratio).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.ratio }));
+    cards.push(chartCard("Debt-to-GDP, %", "The burden has almost halved since the 2022 peak.",
+      pBars(ratioBars, { unit: "%", dec: 1, alt: "Ghana's debt-to-GDP ratio by year" }), "Bank of Ghana · Ministry of Finance"));
+
+    // prices and the cedi
+    const infl = seriesOf_("Inflation");
+    cards.push(chartCard("Inflation since 1993, %", "Annual average consumer price inflation. The 1990s peaks dwarf anything since.",
+      pLine([{ name: "Inflation", points: infl }], { area: true, unit: "%", dec: 1, alt: "Ghana's annual inflation since 1993" }), "World Bank, World Development Indicators"));
+
+    // the daily job's own record where it exists, otherwise the readings entered by hand
+    const daily = (A.cediHistory || []).slice(-180).map(p => ({ date: p.date, value: p.rate }));
+    const cedi = daily.length > 3 ? daily : (D.cedi || []).map(p => ({ date: p.label || p.date, value: p.rate }));
+    cards.push(chartCard("Cedi per US dollar", "Every Bank of Ghana interbank rate this site has recorded.",
+      pLine([{ name: "GH¢ per US$", points: cedi }], { area: true, zero: false, pre: "GH¢", dec: 2, alt: "Cedi per US dollar over recent months" }), "Bank of Ghana interbank mid-rate"));
+
+    // trade, two series on one axis
+    const ex = seriesOf_("exports"), im = seriesOf_("imports");
+    if (ex.length && im.length) {
+      const years = ex.filter(p => im.some(q => q.date === p.date)).slice(-20);
+      cards.push(chartCard("Exports and imports, US$ billion", "Goods and services for the whole year. The gap between the lines is the trade balance.",
+        pLine([
+          { name: "Exports", points: years },
+          { name: "Imports", points: years.map(p => ({ date: p.date, value: (im.find(q => q.date === p.date) || {}).value })) }
+        ], { pre: "US$", unit: "bn", dec: 1, alt: "Ghana's exports and imports by year" }),
+        "World Bank, World Development Indicators", ["Exports", "Imports"]));
+    }
+
+    // gold and cocoa, indexed so one axis serves both
+    const gold = seriesOf_("Gold price"), cocoa = seriesOf_("Cocoa world price");
+    if (gold.length > 3 && cocoa.length > 3) {
+      const idx = pts => { const base = pts[0].value; return pts.map(p => ({ date: p.date, value: +(p.value / base * 100).toFixed(1) })); };
+      const from = Math.max(+gold[0].date, +cocoa[0].date);
+      const g = idx(gold.filter(p => +p.date >= from)), c = idx(cocoa.filter(p => +p.date >= from));
+      cards.push(chartCard(`Gold and cocoa, ${from} = 100`, "Ghana's two biggest earners, indexed so they share one scale.",
+        pLine([{ name: "Gold", points: g }, { name: "Cocoa", points: c }], { dec: 0, alt: "Gold and cocoa prices indexed" }),
+        "Yahoo Finance, year-end futures closes", ["Gold", "Cocoa"]));
+    }
+
+    // where the 2026 money goes
+    const total = (D.budget.out || []).find(b => b.key === "exp");
+    const parts = (D.budget.out || []).filter(b => !b.sub && b.key !== "exp").map(b => ({ name: b.label, value: b.value / 1e9 }));
+    if (parts.length && total) {
+      const named = parts.reduce((n, p) => n + p.value, 0);
+      const rest = total.value / 1e9 - named;
+      const rows = [...parts, ...(rest > 0 ? [{ name: "Everything else", value: rest }] : [])].sort((a, b) => b.value - a.value);
+      const share = parts.find(p => /interest/i.test(p.name));
+      cards.push(chartCard(`Where the ${Y} budget goes, GH¢ billion`,
+        `The parts of GH¢${fmt(total.value / 1e9, 1)}bn of approved spending${share ? `. Interest on debt alone takes ${fmt(share.value / (total.value / 1e9) * 100, 0)}% of it` : ""}.`,
+        pHBars(rows, { pre: "GH¢", unit: "bn", dec: 1, alt: "2026 budget spending lines" }),
+        `Ministry of Finance, ${Y} budget`));
+    }
+
+    // Ghana against Africa
+    if (AF && AF.countries) {
+      const list = Object.entries(AF.countries).filter(([, c]) => c.latest)
+        .map(([iso, c]) => ({ iso, name: c.name, value: c.latest.value }))
+        .sort((a, b) => b.value - a.value);
+      const gh = list.find(c => c.iso === "GHA");
+      const rows = [...list.slice(0, 8), ...(list.slice(0, 8).includes(gh) ? [] : [gh])].filter(Boolean)
+        .map(c => ({ name: c.name, value: c.value, accent: c.iso === "GHA" }));
+      cards.push(chartCard("Inflation across Africa, %", "The eight highest rates on the continent, with Ghana marked in gold.",
+        pHBars(rows, { unit: "%", dec: 1, alt: "African inflation compared with Ghana" }), AF.source || "National statistics offices"));
+    }
+
+    $("chart-wall").innerHTML = cards.filter(Boolean).join("");
+    $("charts-status").textContent = `${cards.filter(Boolean).length} charts`;
+    $("charts-note").textContent = "Every chart is drawn from the same figures as the dashboard — nothing here is smoothed, projected or rebased except where a title says so.";
+  }
+
+  /* ================= global markets, and the Ghana Stock Exchange ================= */
+  const marketsData = () => window.GDC_MARKETS || null;
+  const GROUP_TITLES = {
+    indices: ["Share indices", "What the world's stock markets did today"],
+    commodities: ["Commodities", "Gold and cocoa are Ghana's two biggest earners; oil moves the fuel price"],
+    crypto: ["Crypto", "Quoted around the clock, unlike the exchanges above"],
+    currencies: ["Currencies", "The cedi against the currencies Ghana trades in, and the majors against each other"]
+  };
+  const moveClass = pct => (pct > 0 ? "up" : pct < 0 ? "down" : "flat");
+  const moveMark = pct => (pct > 0 ? "▲" : pct < 0 ? "▼" : "—");
+  const quoteTime = iso => {
+    const ms = Date.now() - Date.parse(iso);
+    if (!isFinite(ms)) return "";
+    if (ms < 36e5) return `${Math.max(1, Math.round(ms / 6e4))} min ago`;
+    if (ms < 864e5) return new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
+    return new Date(iso).toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
+  };
+
+  function renderMarkets() {
+    const M = marketsData();
+    const world = (M && M.world) || {};
+    const groups = Object.entries(GROUP_TITLES).filter(([key]) => (world[key] || []).length);
+    $("markets-empty").hidden = groups.length > 0;
+    $("markets-status").textContent = M && M.updated
+      ? `${Object.values(world).reduce((n, l) => n + (l || []).length, 0)} prices · ${timeAgo(M.updated)}`
+      : "Waiting for the first run";
+    $("markets-body").innerHTML = groups.map(([key, [title, blurb]]) => `
+      <section class="block">
+        <div class="block-head"><h2>${esc(title)}</h2><p>${esc(blurb)}</p></div>
+        <div class="quote-grid">${world[key].map(q => {
+          const cls = moveClass(q.pct);
+          return `<article class="quote ${cls}">
+            <span class="q-name">${esc(q.name)}</span>
+            <span class="q-value">${q.unit && /^US\$|^GH¢/.test(q.unit) ? esc(q.unit.split("/")[0]) : ""}${fmt(q.value, q.dec ?? 2)}${q.unit && !/^US\$|^GH¢/.test(q.unit) ? `<small>${esc(q.unit)}</small>` : q.unit && q.unit.includes("/") ? `<small>${esc("/" + q.unit.split("/")[1])}</small>` : ""}</span>
+            <span class="q-move">${moveMark(q.pct)} ${q.pct == null ? "—" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`}${q.change == null ? "" : ` <i>${q.change > 0 ? "+" : ""}${fmt(q.change, Math.abs(q.change) < 10 ? 2 : 0)}</i>`}</span>
+            <span class="q-when">${esc(quoteTime(q.at))}</span>
+          </article>`;
+        }).join("")}</div>
+      </section>`).join("");
+    const src = M && M.source ? ` Source: ${esc(M.source)}.` : "";
+    $("markets-note").innerHTML = `${esc((M && M.note) || "")}${src} Prices are for information, not for trading.`;
+  }
+
+  let gseFind = "";
+  function renderGse() {
+    const M = marketsData();
+    const G = (M && M.ghana) || { equities: [] };
+    const all = G.equities || [];
+    $("gse-empty").hidden = all.length > 0;
+    $("gse-status").textContent = G.updated ? `${all.length} companies · ${timeAgo(G.updated)}` : "Waiting for the first run";
+
+    const index = allItems.find(i => i.label === "GSE Composite Index");
+    const up = all.filter(e => (e.change || 0) > 0).length;
+    const down = all.filter(e => (e.change || 0) < 0).length;
+    const movers = [...all].filter(e => typeof e.pct === "number").sort((a, b) => b.pct - a.pct);
+    const top = movers[0], bottom = movers[movers.length - 1];
+    $("gse-top").innerHTML = all.length ? `
+      <div class="quote-grid gse-summary">
+        ${index ? `<article class="quote"><span class="q-name">GSE Composite Index</span><span class="q-value">${fmt(index.value, 0)}</span><span class="q-when">${esc(index.date || "")}</span></article>` : ""}
+        <article class="quote up"><span class="q-name">Risers today</span><span class="q-value">${up}</span><span class="q-when">of ${all.length} listed</span></article>
+        <article class="quote down"><span class="q-name">Fallers today</span><span class="q-value">${down}</span><span class="q-when">of ${all.length} listed</span></article>
+        ${top && top.pct > 0 ? `<article class="quote up"><span class="q-name">Best mover</span><span class="q-value">${esc(top.code)}</span><span class="q-move">▲ +${fmt(top.pct, 2)}%</span></article>` : ""}
+        ${bottom && bottom.pct < 0 ? `<article class="quote down"><span class="q-name">Worst mover</span><span class="q-value">${esc(bottom.code)}</span><span class="q-move">▼ ${fmt(bottom.pct, 2)}%</span></article>` : ""}
+      </div>` : "";
+
+    const find = gseFind.toLowerCase();
+    const rows = all
+      .filter(e => !find || e.code.toLowerCase().includes(find) || (e.name || "").toLowerCase().includes(find))
+      .sort((a, b) => (b.pct ?? -999) - (a.pct ?? -999));
+    $("gse-table").innerHTML = `
+      <thead><tr><th>Code</th><th>Company</th><th>Price, GH¢</th><th>Change</th><th>Move</th><th>Volume</th></tr></thead>
+      <tbody>${rows.map(e => `<tr>
+        <td><b>${esc(e.code)}</b></td>
+        <td>${esc(e.name || "")}</td>
+        <td class="v">${fmt(e.price, 2)}</td>
+        <td class="d ${moveClass(e.change)}">${e.change == null ? "—" : `${e.change > 0 ? "+" : ""}${fmt(e.change, 2)}`}</td>
+        <td class="d ${moveClass(e.pct)}">${e.pct == null ? "—" : `${moveMark(e.pct)} ${e.pct > 0 ? "+" : ""}${fmt(e.pct, 2)}%`}</td>
+        <td class="d">${e.volume == null ? "—" : fmt(e.volume, 0)}</td>
+      </tr>`).join("")}</tbody>`;
+    const src = G.sourceUrl ? ` <a href="${esc(G.sourceUrl)}" target="_blank" rel="noopener">${esc(G.source || "Ghana Stock Exchange")}</a>.` : "";
+    $("gse-note").innerHTML = `Last traded prices, refreshed every 20 minutes while the exchange is open.${src} For information, not for trading.`;
+  }
+  $("gse-find").addEventListener("input", e => { gseFind = e.target.value; renderGse(); });
 
   /* ================= Africa inflation: Ghana at the centre ================= */
   const africaData = () => window.GDC_AFRICA || null;
@@ -1390,20 +1686,21 @@
       const y = 50 + RADIUS[r] * Math.sin(angle) * 0.98;
       const band = Math.abs(diff) <= 2 ? "near" : diff > 0 ? "high" : "low";
       return `<button type="button" class="orb ${band}" style="left:${x.toFixed(2)}%;top:${y.toFixed(2)}%" data-iso="${esc(c.iso)}" data-detail="africa:${esc(c.iso)}"
-        title="${esc(c.name)}: ${fmt(c.value, 1)}% in ${esc(c.period)} · ${diff > 0 ? "+" : ""}${fmt(diff, 1)} points against Ghana">
+        title="${esc(c.name)}: ${fmt(c.value, 1)}% in ${esc(c.period)} · ${diff > 0 ? "+" : ""}${fmt(diff, 1)} points against Ghana${c.gdp ? ` · economy US$${fmt(c.gdp.value, 0)}bn` : ""}">
         <b>${fmt(c.value, 1)}</b><span>${esc(c.name)}</span></button>`;
     })).join("");
 
     $("orbit").innerHTML = `
       <div class="orb-rings" aria-hidden="true"><i></i><i></i><i></i></div>
       <div class="orb-centre" title="Ghana: ${fmt(gh.latest.value, 1)}% (${esc(ghPeriod)})">
-        <span class="orb-flag" aria-hidden="true"></span>
+        ${GH_FLAG.replace("gh-flag", "gh-flag orb-flag")}
         <b>${fmt(gh.latest.value, 1)}<small>%</small></b>
         <span>Ghana · ${esc(ghPeriod)}</span>
+        ${gh.gdp ? `<span class="orb-gdp">US$${fmt(gh.gdp.value, 0)}bn economy</span>` : ""}
       </div>${html}`;
 
     $("africa-table").innerHTML = `
-      <thead><tr><th>#</th><th>Country</th><th>Inflation</th><th>As of</th><th>Vs Ghana</th><th>Month before</th></tr></thead>
+      <thead><tr><th>#</th><th>Country</th><th>Inflation</th><th>As of</th><th>Vs Ghana</th><th>Month before</th><th>Economy, US$bn</th></tr></thead>
       <tbody>${list.map((c, i) => {
         const diff = c.value - gh.latest.value;
         const prev = typeof c.prev === "number" ? c.prev
@@ -1416,12 +1713,13 @@
           <td class="d">${esc(c.period)}</td>
           <td class="d ${diff > 0 ? "up" : diff < 0 ? "down" : ""}">${c.iso === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts`}</td>
           <td class="d">${typeof prev === "number" ? `${fmt(prev, 1)}% <span class="${move > 0 ? "up" : move < 0 ? "down" : ""}">${move > 0 ? "▲" : move < 0 ? "▼" : "—"}</span>` : "—"}</td>
+          <td class="v gdp">${c.gdp ? `${fmt(c.gdp.value, c.gdp.value < 10 ? 1 : 0)}<small>${esc(c.gdp.year)}</small>` : "—"}</td>
         </tr>`;
       }).join("")}</tbody>`;
 
     markTappable();
     const src = AFRICA.sourceUrl ? ` <a href="${esc(AFRICA.sourceUrl)}" target="_blank" rel="noopener">${esc(AFRICA.source)}</a>.` : "";
-    $("africa-note").innerHTML = `${esc(AFRICA.note || "")}${src}`;
+    $("africa-note").innerHTML = `${esc(AFRICA.note || "")}${src}${AFRICA.gdpNote ? ` ${esc(AFRICA.gdpNote)}` : ""}`;
   }
   const ordinal = n => `${n}${["th", "st", "nd", "rd"][(n % 100 - n % 10 !== 10) * (n % 10 < 4) * (n % 10)] || "th"}`;
 
@@ -1573,7 +1871,7 @@
     $("news-list").innerHTML = shown.map((i, idx) => {
       const fresh = Date.now() - Date.parse(i.published) < 3 * 3600e3;
       return `<article class="story${leadAllowed && idx === 0 ? " lead" : ""}">
-        <div class="story-meta"><span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
+        <div class="story-meta"><span class="src">${esc(i.source)}</span>${i.wire ? `<span class="wire-tag">wire</span>` : ""}<time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
         <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
         ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
         ${i.topics.length ? `<div class="tags">${i.topics.slice(0, 2).map(k => `<span class="tag">${esc(topicName(k))}</span>`).join("")}</div>` : ""}
@@ -1671,16 +1969,17 @@
     // every published reading, oldest first
     const figs = allItems.map(it => ({ it, stale: staleDays(it) })).sort((a, b) => b.stale - a.stale);
     const due = figs.filter(f => f.stale);
+    const behind = figs.filter(f => f.it.sourceNewer);
     $("status-figures-note").textContent = due.length
       ? `${due.length} of ${figs.length} figures are past their usual release date and are marked Update due on the dashboard. The site keeps showing the last published value with its date — it never guesses a newer one.`
-      : `All ${figs.length} published figures are within their usual release interval.`;
+      : `All ${figs.length} published figures are within their usual release interval.${behind.length ? ` ${behind.length} have a newer third-party estimate waiting to be checked.` : ""}`;
     $("status-figures").innerHTML = `
       <thead><tr><th>Figure</th><th>Value</th><th>Period</th><th>State</th><th>Comes from</th></tr></thead>
       <tbody>${figs.map(f => `<tr>
         <td>${esc(f.it.label)}</td>
         <td class="v">${readValue(f.it)}</td>
         <td class="d">${esc(f.it.date || "—")}</td>
-        <td><span class="pill ${f.stale ? "bad" : "good"}">${f.stale ? `${f.stale} days old` : "Current"}</span></td>
+        <td><span class="pill ${f.stale ? "bad" : f.it.sourceNewer ? "warn" : "good"}">${f.stale ? `${f.stale} days old` : f.it.sourceNewer ? "Newer exists" : "Current"}</span></td>
         <td class="d note-cell">${f.it.autoSource ? esc(f.it.autoSource) : "Entered by hand"}</td>
       </tr>`).join("")}</tbody>`;
 
@@ -1831,6 +2130,9 @@
     const t = t0;
     if (!q) return null;
 
+    // someone says his name: he introduces himself
+    if (/\balfredo\b/.test(q)) return T("iam");
+
     if (local.greet || /^(hi|hello|hey|good (morning|afternoon|evening)|ete sen|akwaaba)\b/.test(q))
       return T("hello");
 
@@ -1899,7 +2201,8 @@
       if (named && named.iso !== "GHA") {
         const diff = gh.latest.value - named.value;
         const per = p => esc(p.latest.period || p.latest.year || "");
-        return T("africa.country", { country: esc(named.name), value: fmt(named.value, 1), period: per(named), ghana: fmt(gh.latest.value, 1), ghanaPeriod: per(gh), gap: fmt(Math.abs(diff), 1), direction: T(diff > 0 ? "higher" : "lower") });
+        const size = named.gdp ? ` <span class="alf-note">${T("africa.gdp", { country: esc(named.name), gdp: fmt(named.gdp.value, named.gdp.value < 10 ? 1 : 0), year: esc(named.gdp.year) })}</span>` : "";
+        return T("africa.country", { country: esc(named.name), value: fmt(named.value, 1), period: per(named), ghana: fmt(gh.latest.value, 1), ghanaPeriod: per(gh), gap: fmt(Math.abs(diff), 1), direction: T(diff > 0 ? "higher" : "lower") }) + size;
       }
       const rank = list.findIndex(c => c.iso === "GHA") + 1;
       return `${T("africa.rank", { ghana: fmt(gh.latest.value, 1), period: esc(gh.latest.period || gh.latest.year || ""), rank: ordinal(list.length - rank + 1), count: list.length, highest: esc(list[list.length - 1].name), highestValue: fmt(list[list.length - 1].value, 1), lowest: esc(list[0].name), lowestValue: fmt(list[0].value, 1) })} <a href="#africa">${T("africa.open")}</a>.`;
@@ -1972,26 +2275,141 @@
     d.innerHTML = html;
     return (d.textContent || "").replace(/\s+/g, " ").trim();
   };
+  // Which installed voice to use. A device usually has several English voices and no
+  // Ghanaian one at all, so this tries the exact language, then any close relative the
+  // language pack names, and only then falls back to English — saying so the first time.
+  let saidNoVoice = {};
+
+  // The Web Speech API doesn't say whether a voice is a man or a woman, so this matches the
+  // names devices actually ship. It only sets the default — the chooser lists every voice.
+  const MALE_NAMES = /\b(male|man|daniel|alex|fred|thomas|george|david|mark|ryan|james|oliver|arthur|gordon|nathan|aaron|reed|rocko|jamie|lee|rishi|guy|william|tom|john|paul|peter|eric|carlos|diego|kwame|kofi|samuel|michael|richard|christopher|brian|liam|noah|ethan|junior)\b/i;
+  const FEMALE_NAMES = /\b(female|woman|samantha|victoria|karen|moira|tessa|fiona|serena|allison|ava|susan|zoe|kate|emma|olivia|sophia|amelie|joana|luciana|paulina|nora|ama|akua|abena|mary|sarah|linda|jenny|aria|michelle)\b/i;
+  const isMale = v => MALE_NAMES.test(v.name || "") || (!FEMALE_NAMES.test(v.name || "") && /male/i.test(v.name || ""));
+  // devices ship both a thin old voice and a fuller modern one under similar names
+  const GOOD_VOICE = /\b(natural|neural|enhanced|premium|siri|google|online|eloquence)\b/i;
+  const quality = v => (GOOD_VOICE.test(v.name || "") ? 2 : 0) + (v.localService === false ? 1 : 0);
+  const bestOf = list => [...list].sort((a, b) => quality(b) - quality(a))[0];
+
+  // voices worth offering for the language in play: its own first, then English
+  function voicesFor(pack) {
+    const all = (synth && synth.getVoices()) || [];
+    if (!all.length) return [];
+    const want = [(pack.speech || "en-GH").toLowerCase(), ...(pack.voiceHints || []).map(h => h.toLowerCase())];
+    const near = all.filter(v => want.some(h => (v.lang || "").toLowerCase().startsWith(h.slice(0, 2))));
+    const english = all.filter(v => (v.lang || "").toLowerCase().startsWith("en") && !near.includes(v));
+    return [...near, ...english];
+  }
+
+  function chosenVoice(pack) {
+    const list = voicesFor(pack);
+    if (!list.length) return null;
+    const saved = recall(`alf.voice.${alfLang}`);
+    const match = saved && list.find(v => v.name === saved);
+    if (match) return match;
+    // a voice in the right language first; among those, a man's voice by default
+    const want = [(pack.speech || "en-GH").toLowerCase(), ...(pack.voiceHints || []).map(h => h.toLowerCase())];
+    const own = list.filter(v => want.some(h => (v.lang || "").toLowerCase().startsWith(h.slice(0, 2)) && h.slice(0, 2) !== "en"));
+    const pool = own.length ? own : list;
+    const men = pool.filter(isMale);
+    return bestOf(men.length ? men : pool);        // the fullest-sounding man's voice available
+  }
+
+  function drawVoices() {
+    const bar = $("alf-voicebar"), sel = $("alf-voice");
+    if (!bar || !sel) return;
+    const pack = LANGS[alfLang] || {};
+    const list = voicesFor(pack);
+    bar.hidden = list.length < 2;             // nothing to choose between
+    if (bar.hidden) return;
+    const current = chosenVoice(pack);
+    sel.innerHTML = list.map(v => {
+      const kind = isMale(v) ? "man" : FEMALE_NAMES.test(v.name || "") ? "woman" : "";
+      return `<option value="${esc(v.name)}"${current && v.name === current.name ? " selected" : ""}>${esc(v.name)} · ${esc(v.lang)}${kind ? ` · ${kind}` : ""}</option>`;
+    }).join("");
+  }
+
+  function pickVoice(pack) {
+    const voices = (synth && synth.getVoices()) || [];
+    if (!voices.length) return { voice: null, matched: false };
+    const want = (pack.speech || "en-GH").toLowerCase();
+    // English entries in voiceHints are stand-ins, not a match — they must not suppress the
+    // "no voice for this language" note, so they are left to the fallback below.
+    const wantsEnglish = want.startsWith("en");
+    const hints = [want, ...(pack.voiceHints || []).map(h => h.toLowerCase())]
+      .filter(h => wantsEnglish || !h.startsWith("en"));
+    for (const h of hints) {
+      const exact = voices.find(v => (v.lang || "").toLowerCase().replace("_", "-") === h);
+      if (exact) return { voice: exact, matched: true };
+      const loose = voices.find(v => (v.lang || "").toLowerCase().startsWith(h.slice(0, 2)));
+      if (loose) return { voice: loose, matched: true };
+    }
+    const english = voices.find(v => (v.lang || "").toLowerCase().startsWith("en-gh"))
+      || voices.find(v => (v.lang || "").toLowerCase().startsWith("en-ng"))
+      || voices.find(v => (v.lang || "").toLowerCase().startsWith("en-gb"))
+      || voices.find(v => (v.lang || "").toLowerCase().startsWith("en"));
+    return { voice: english || null, matched: false };
+  }
+
+  // If data.js carries `alfredo.ttsUrl`, the text is sent there instead and whatever audio
+  // comes back is played. That is where a Ghanaian text-to-speech service plugs in.
+  async function speakThroughService(text, code) {
+    const res = await fetch(ALF.ttsUrl, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ text, lang: code, speech: (LANGS[code] || {}).speech || code })
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const type = res.headers.get("content-type") || "";
+    let src;
+    if (type.includes("application/json")) {
+      const data = await res.json();
+      src = data.audio || data.url;                 // a data: URI, or an address to play
+      if (!src) throw new Error("no audio in the reply");
+    } else {
+      src = URL.createObjectURL(await res.blob());
+    }
+    const player = new Audio(src);
+    await player.play();
+  }
+
   function speak(html) {
-    if (!speakOn || !synth) return;
+    if (!speakOn) return;
     const text = plainText(html);
     if (!text) return;
+    const code = alfLang;
+    const pack = LANGS[code] || {};
+
+    if (ALF.ttsUrl) {
+      speakThroughService(text, code).catch(() => speakWithDevice(text, pack, code));
+      return;
+    }
+    speakWithDevice(text, pack, code);
+  }
+
+  function speakWithDevice(text, pack, code) {
+    if (!synth) return;
     try {
       synth.cancel();
       const say = new SpeechSynthesisUtterance(text);
-      const want = ((LANGS[alfLang] || {}).speech || "en-GH");
-      const voices = synth.getVoices() || [];
-      // a voice in the chosen language if the device has one, otherwise any English voice
-      const voice = voices.find(v => v.lang && v.lang.toLowerCase() === want.toLowerCase())
-        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith(want.slice(0, 2).toLowerCase()))
-        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith("en-gh"))
-        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith("en"));
-      if (voice) say.voice = voice;
+      const picked = chosenVoice(pack);
+      const { voice: auto, matched } = pickVoice(pack);
+      const voice = picked || auto;
+      try { if (voice) say.voice = voice; } catch (e) { /* a stale voice: the browser picks its own */ }
       say.lang = voice ? voice.lang : "en-GB";
-      say.rate = 0.98;
+      say.rate = matched ? 0.98 : 0.94;             // a fraction slower when the voice is a stand-in
       synth.speak(say);
+      if (!matched && code !== "en" && !saidNoVoice[code]) {
+        saidNoVoice[code] = true;
+        alfSay("alf", `<span class="alf-note">${T("voice.none", { language: pack.name || code })}</span>`);
+      }
     } catch (e) { /* no voice on this device: the answer is on screen anyway */ }
   }
+  if (synth && typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", () => { saidNoVoice = {}; drawVoices(); });
+  $("alf-voice").addEventListener("change", e => {
+    remember(`alf.voice.${alfLang}`, e.target.value);
+    const pack = LANGS[alfLang] || {};
+    if (speakOn) speakWithDevice(`${(pack.strings || {})["ui.send"] || "Ask"}. ${T("hello").replace(/<[^>]*>/g, "").slice(0, 90)}`, pack, alfLang);
+  });
   function setSpeak(on) {
     speakOn = on;
     remember("alf.speak", on ? "1" : "0");
@@ -2046,6 +2464,7 @@
     $("alf-langs").innerHTML = Object.entries(LANGS)
       .map(([code, l]) => `<button type="button" data-lang="${esc(code)}" class="${code === alfLang ? "on" : ""}" lang="${esc(code)}">${esc(l.name)}</button>`)
       .join("");
+    drawVoices();
     alfInput.placeholder = T("ui.placeholder");
     $("alf-send").textContent = T("ui.send");
     $("alf-chips").innerHTML = alfSuggestions().map(x => `<button type="button">${esc(x)}</button>`).join("");
@@ -2055,14 +2474,22 @@
     alfLang = code;
     remember("alf.lang", code);
     drawLangs();
-    alfLog.innerHTML = "";
-    const note = T("note.figures");
-    alfSay("alf", T("greeting") + (note ? ` <span class="alf-note">${note}</span>` : ""));
+    newChat();
   }
   $("alf-langs").addEventListener("click", e => {
     const b = e.target.closest("button[data-lang]");
     if (b) setLang(b.dataset.lang);
   });
+  function newChat() {
+    if (synth) synth.cancel();
+    alfLog.innerHTML = "";
+    const note = T("note.figures");
+    alfSay("alf", T("greeting") + (note ? ` <span class="alf-note">${note}</span>` : ""));
+    $("alf-chips").innerHTML = alfSuggestions().map(x => `<button type="button">${esc(x)}</button>`).join("");
+    alfInput.value = "";
+    setTimeout(() => alfInput.focus(), 40);
+  }
+  $("alf-new").addEventListener("click", newChat);
   $("alf-speak").addEventListener("click", () => setSpeak(!speakOn));
   if (Recogniser) $("alf-mic").hidden = false;
   $("alf-mic").addEventListener("click", listen);
@@ -2344,6 +2771,68 @@
         </div>`).join("")}</div>` });
     }
 
+    // what things cost
+    const costLabels = ["Petrol", "Diesel", "Cooking gas (LPG)", "Daily minimum wage", "Electricity tariff change"];
+    const cost = costLabels.map(l => allItems.find(i => i.label === l)).filter(Boolean);
+    if (cost.length) {
+      pages.push({ key: "cost", tag: "What things cost", html: `<div class="b-grid b-grid-5">${cost.map(it => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(it.label)}</span>
+          <span class="mono big">${readValue(it)}</span>
+          <span class="b-when">${esc(it.date || "")}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    // what lenders think
+    if ((D.ratings || []).length) {
+      pages.push({ key: "ratings", tag: "Credit ratings", html: `<div class="b-grid b-grid-3">${D.ratings.map(r => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(r.agency)}</span>
+          <span class="mono big gold">${esc(r.rating)}</span>
+          <span class="b-when">${esc(r.outlook || "")} outlook · ${esc(r.date || "")}${r.note ? ` · ${esc(r.note)}` : ""}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    // the days ahead
+    const ahead = calendarFrom(dayStart(Date.now()), 4);
+    if (ahead.length) {
+      pages.push({ key: "days", tag: "The days ahead", html: `<div class="b-grid b-grid-4">${ahead.map(e => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(calDateFmt(e.at))}</span>
+          <span class="b-head-title">${esc(e.entry.name)}</span>
+          <span class="b-when">${e.entry.kind === "holiday" ? "Public holiday" : esc(e.entry.note || "Economic release")}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    // the world's markets
+    const M = marketsData();
+    const world = (M && M.world) || {};
+    const pick = [...(world.commodities || []).slice(0, 3), ...(world.indices || []).slice(0, 2)];
+    if (pick.length) {
+      pages.push({ key: "world", tag: "World markets", html: `<div class="b-grid b-grid-5">${pick.map(q => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(q.name)}</span>
+          <span class="mono big ${moveClass(q.pct)}">${/US\$/.test(q.unit || "") ? "US$" : ""}${fmt(q.value, q.dec ?? 2)}</span>
+          <span class="b-when">${moveMark(q.pct)} ${q.pct == null ? "" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`} · ${esc(quoteTime(q.at))}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    // the Accra exchange
+    const gse = ((M && M.ghana) || {}).equities || [];
+    if (gse.length) {
+      const movers = [...gse].filter(e => typeof e.pct === "number").sort((a, b) => b.pct - a.pct);
+      const idx = allItems.find(i => i.label === "GSE Composite Index");
+      const show = [...movers.slice(0, 2), ...movers.slice(-2).reverse()];
+      pages.push({ key: "gse", tag: "Ghana Stock Exchange", html: `<div class="b-grid b-grid-5">
+        ${idx ? `<div class="b-cellule"><span class="b-label">GSE Composite Index</span><span class="mono big gold">${fmt(idx.value, 0)}</span><span class="b-when">${esc(idx.date || "")}</span></div>` : ""}
+        ${show.map(e => `<div class="b-cellule">
+          <span class="b-label">${esc(e.name || e.code)}</span>
+          <span class="mono big ${moveClass(e.pct)}">GH¢${fmt(e.price, 2)}</span>
+          <span class="b-when">${moveMark(e.pct)} ${e.pct > 0 ? "+" : ""}${fmt(e.pct, 2)}%</span>
+        </div>`).join("")}
+      </div>` });
+    }
+
     const art = articleData()[0];
     if (art) {
       const points = (art.body || "").split(/\n/).filter(l => /^- /.test(l)).slice(0, 3).map(l => l.replace(/^- /, "").replace(/\*\*/g, ""));
@@ -2409,7 +2898,13 @@
       "papers-data.js": () => { drawn.papers = false; if (!VIEWS.papers.el.hidden) renderPapers(); if (!board.hidden) renderBoardDeck(); },
       "africa-data.js": () => { drawn.africa = false; if (!VIEWS.africa.el.hidden) renderAfrica(); if (!board.hidden) renderBoardDeck(); },
       "articles-data.js": () => { drawn.articles = false; if (!VIEWS.articles.el.hidden) renderArticles(); if (!board.hidden) renderBoardDeck(); },
-      "live-data.js": () => { renderTicker(); if (!board.hidden) renderBoardDeck(); if (!VIEWS.status.el.hidden) renderStatus(); }
+      "markets-data.js": () => {
+        drawn.markets = false; drawn.gse = false;
+        if (!VIEWS.markets.el.hidden) renderMarkets();
+        if (!VIEWS.gse.el.hidden) renderGse();
+        if (!board.hidden) renderBoardDeck();
+      },
+      "live-data.js": () => { renderTicker(); paintMarketLines(); if (!board.hidden) renderBoardDeck(); if (!VIEWS.status.el.hidden) renderStatus(); }
     };
     const fingerprints = new Map();
     let pending = false, busy = false;
@@ -2467,6 +2962,7 @@
   if (location.hash === "#board") openBoard(false);
   routeFromHash();
   renderNews();
+  paintMarketLines();
   refreshRates();
   setInterval(refreshRates, 30 * 60 * 1000);
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { fit(); if (!board.hidden) fit(board); });

@@ -43,6 +43,11 @@ const HEADERS = {
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 `,
+  GDC_MARKETS: `/*
+ * Alfredo Ghana Economic Data: world markets and Ghana Stock Exchange prices, fetched by
+ * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
+ */
+`,
   GDC_NEWS: `/*
  * Alfredo Ghana Economic Data: business headlines fetched by .github/workflows/news.yml.
  * Do not edit by hand; the next scheduled run overwrites this file.

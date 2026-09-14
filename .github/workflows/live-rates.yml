@@ -1,8 +1,9 @@
 name: Update live rates
 
-# Every 20 minutes: a market quote for the cedi (and gold), each stamped with the minute it
-# was taken, written to live-data.js. The Bank of Ghana's official interbank rate is a
-# separate, once-a-morning job (market-data.yml); this one does not touch it.
+# Every 20 minutes: a market quote for the cedi (and gold) written to live-data.js, plus world
+# indices, commodities, crypto, currencies and every Ghana Stock Exchange listing written to
+# markets-data.js. The Bank of Ghana's official interbank rate is a separate, once-a-morning
+# job (market-data.yml); this one does not touch it.
 #
 # The job commits only when a quote has actually moved, so a flat market costs nothing and
 # GitHub Pages is not rebuilt for no reason.
@@ -29,12 +30,14 @@ jobs:
           node-version: 20
       - name: Fetch market quotes
         run: node scripts/fetch-live-fx.mjs || echo "No quote this run; the last one stands."
+      - name: Fetch world markets and the GSE
+        run: node scripts/fetch-markets.mjs || echo "No market prices this run; the last set stands."
       - name: Commit if a rate moved
         run: |
           git config user.name "alfredo-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add live-data.js
-          if git diff --cached --quiet -- live-data.js; then
+          git add live-data.js markets-data.js
+          if git diff --cached --quiet -- live-data.js markets-data.js; then
             echo "Nothing moved."
             exit 0
           fi

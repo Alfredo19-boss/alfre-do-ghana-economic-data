@@ -16,7 +16,26 @@ const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "
 // World Bank Global Economic Monitor, in order of preference:
 // headline CPI year-on-year, then the seasonally adjusted version.
 export const INDICATORS = ["CPTOTSAXNZGY", "CPTOTSAXMZGY"];
+// each country's economy, so the board can show what the inflation is happening to
+export const GDP_CODE = "NY.GDP.MKTP.CD";
 const SANE = [-50, 500];
+
+export const gdpUrl = (group, from) =>
+  `https://api.worldbank.org/v2/country/${group.join(";")}/indicator/${GDP_CODE}` +
+  `?date=${from}:${new Date().getUTCFullYear()}&format=json&per_page=2000`;
+
+// rows -> { ISO3: { value in US$bn, year } }, newest year each country has published
+export function newestGdp(rows) {
+  const out = {};
+  for (const r of rows || []) {
+    if (!r || r.value == null || !r.countryiso3code || !/^\d{4}$/.test(r.date)) continue;
+    const v = +(r.value / 1e9).toFixed(2);
+    if (!isFinite(v) || v <= 0) continue;
+    const prev = out[r.countryiso3code];
+    if (!prev || r.date > prev.year) out[r.countryiso3code] = { value: v, year: r.date };
+  }
+  return out;
+}
 
 export const url = (group, indicator, from) =>
   `https://api.worldbank.org/v2/country/${group.join(";")}/indicator/${indicator}` +
@@ -135,6 +154,20 @@ export async function main() {
         log.push(`${indicator} ${group.length} countries: ${rows.length} rows, ${Object.keys(found).length} with a reading`);
       } catch (e) { log.push(`${indicator} group failed: ${e.message}`); }
     }
+  }
+
+  // GDP, so each country carries the size of the economy next to its inflation
+  for (let i = 0; i < codes.length; i += 20) {
+    const group = codes.slice(i, i + 20);
+    try {
+      const json = await get(gdpUrl(group, new Date().getUTCFullYear() - 6));
+      const rows = Array.isArray(json) && Array.isArray(json[1]) ? json[1] : [];
+      const found = newestGdp(rows);
+      for (const [iso, g] of Object.entries(found)) {
+        if (countries[iso] && (!countries[iso].gdp || g.year >= countries[iso].gdp.year)) countries[iso].gdp = g;
+      }
+      log.push(`GDP ${group.length} countries: ${Object.keys(found).length} with a figure`);
+    } catch (e) { log.push(`GDP group failed: ${e.message}`); }
   }
 
   const updated = apply(countries, fresh, log);

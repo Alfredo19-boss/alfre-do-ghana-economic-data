@@ -8,6 +8,11 @@
 window.GDC_DATA = {
   "checked": "12 September 2026",
   "siteUrl": "",
+  "alfredo": {
+    "_": "Alfredo answers from this site's own figures and needs nothing here. Fill these in only if you have your own endpoint.",
+    "apiUrl": "",
+    "ttsUrl": ""
+  },
   "fx": {
     "usd": 11.44,
     "gbp": 15.5,
@@ -186,7 +191,8 @@ window.GDC_DATA = {
         "good",
         "Rising"
       ],
-      "date": "2025"
+      "date": "2025",
+      "wb": true
     },
     {
       "label": "Multidimensional poverty",

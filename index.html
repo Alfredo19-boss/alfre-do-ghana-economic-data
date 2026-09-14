@@ -48,8 +48,11 @@
       <nav class="view-tabs" aria-label="Site sections">
         <a href="#dashboard" data-view-link="dashboard" aria-current="page">Dashboard</a>
         <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
-        <a href="#africa" data-view-link="africa">Africa inflation</a>
+        <a href="#africa" data-view-link="africa">Africa</a>
+        <a href="#markets" data-view-link="markets">Global markets</a>
+        <a href="#gse" data-view-link="gse">GSE</a>
         <a href="#papers" data-view-link="papers">Today's papers</a>
+        <a href="#charts" data-view-link="charts">Charts</a>
         <a href="#articles" data-view-link="articles">Articles</a>
       </nav>
       <span class="nav-date" data-date></span>
@@ -426,6 +429,48 @@
       </div>
     </section>
 
+    <!-- Global markets -->
+    <section class="portal" id="markets-view" aria-labelledby="h-markets-w" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-markets-w">Global markets</h1>
+          <p class="news-intro" id="markets-intro">What the world is paying for the things Ghana sells and buys — gold, cocoa, oil — alongside the share indices and currencies that move with them. Each price carries the moment it was quoted.</p>
+        </div>
+        <span class="live"><i></i><span id="markets-status">Waiting for the first run</span></span>
+      </div>
+      <div id="markets-body"></div>
+      <p class="news-empty" id="markets-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
+      <p class="note" id="markets-note"></p>
+    </section>
+
+    <!-- Ghana Stock Exchange -->
+    <section class="portal" id="gse-view" aria-labelledby="h-gse" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-gse">The Ghana Stock Exchange</h1>
+          <p class="news-intro" id="gse-intro">Every company listed in Accra, with its last traded price. The GSE Composite Index on the dashboard is the market as a whole; this is the market company by company.</p>
+        </div>
+        <span class="live"><i></i><span id="gse-status">Waiting for the first run</span></span>
+      </div>
+      <div class="gse-top" id="gse-top"></div>
+      <div class="block">
+        <div class="block-head">
+          <h2>Listed companies</h2>
+          <p>Sorted by the day's move. Tap a column heading to sort another way.</p>
+        </div>
+        <div class="news-search gse-search">
+          <label for="gse-find" class="sr-only">Search companies</label>
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
+          <input id="gse-find" type="search" placeholder="Search: MTN, bank, oil…" autocomplete="off">
+        </div>
+        <div class="panel table-wrap"><table class="rank-table gse-table" id="gse-table"></table></div>
+      </div>
+      <p class="news-empty" id="gse-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
+      <p class="note" id="gse-note"></p>
+    </section>
+
     <!-- Today's papers -->
     <section class="portal" id="papers-view" aria-labelledby="h-papers" hidden>
       <div class="portal-head">
@@ -456,6 +501,20 @@
         <article class="article-read panel" id="article-read"></article>
       </div>
       <p class="news-empty" id="articles-empty" hidden>No briefings yet. Run <b>Write weekly briefing</b> in the Actions tab to publish the first one.</p>
+    </section>
+
+    <!-- Charts -->
+    <section class="portal" id="charts-view" aria-labelledby="h-charts" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-charts">Ghana in pictures</h1>
+          <p class="news-intro">The same figures as the dashboard, drawn instead of listed. Hover or touch any chart to read a value; every one names its source and the years it covers.</p>
+        </div>
+        <span class="live"><i></i><span id="charts-status">Drawing…</span></span>
+      </div>
+      <div class="chart-wall" id="chart-wall"></div>
+      <p class="note" id="charts-note"></p>
     </section>
 
     <!-- System status -->
@@ -515,6 +574,9 @@
         <h2 id="alf-title">Alfredo</h2>
       </div>
       <div class="alf-tools">
+        <button type="button" class="alf-icon" id="alf-new" aria-label="Start a new conversation" title="New conversation">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 4v12M4 10h12"/></svg>
+        </button>
         <button type="button" class="alf-icon" id="alf-speak" aria-pressed="false" aria-label="Read answers aloud" title="Read answers aloud">
           <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 8v4h3l4 3V5L7 8H4z"/><path d="M14 7a4 4 0 010 6M16.5 5a7 7 0 010 10" class="waves"/></svg>
         </button>
@@ -524,6 +586,10 @@
       </div>
     </header>
     <div class="alf-langs" id="alf-langs" role="group" aria-label="Language"></div>
+    <div class="alf-voicebar" id="alf-voicebar" hidden>
+      <label for="alf-voice">Voice</label>
+      <select id="alf-voice"></select>
+    </div>
     <div class="alf-log" id="alf-log" role="log" aria-live="polite"></div>
     <div class="alf-chips" id="alf-chips"></div>
     <form class="alf-form" id="alf-form">
@@ -637,6 +703,7 @@
 
   <script src="lang-data.js"></script>
   <script src="live-data.js"></script>
+  <script src="markets-data.js"></script>
   <script src="data.js"></script>
   <script src="auto-data.js"></script>
   <script src="history-data.js"></script>
