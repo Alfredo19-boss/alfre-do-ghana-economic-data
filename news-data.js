@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-14T05:20:41.966Z",
+  "updated": "2026-09-14T10:47:58.421Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,95 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 2/10 stories",
+    "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Workers must complement AI skills with professional expertise to remain relevant – ALX Enterprise",
+      "link": "https://www.myjoyonline.com/workers-must-complement-ai-skills-with-professional-expertise-to-remain-relevant-alx-enterprise/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T10:39:15.000Z",
+      "summary": "Alternative lead The rapid rise of artificial intelligence (AI) is changing the nature of work, with ALX Partnership Manager Edward Akani urging workers to continuously develop their skills…"
+    },
+    {
+      "title": "Why Kenneth Agyei-Duah’s Call for Smarter, Intelligence-Led Customs Still Matters",
+      "link": "https://thehighstreetjournal.com/why-kenneth-agyei-duahs-call-for-smarter-intelligence-led-customs-still-matters/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T10:31:43.000Z",
+      "summary": "A €225 million cocaine seizure from a Ghana-origin container in France puts fresh focus on how technology and intelligence can strengthen modern Customs operations."
+    },
+    {
+      "title": "Companies that delay AI adoption risk losing market opportunities – ALX Enterprise",
+      "link": "https://www.myjoyonline.com/companies-that-delay-ai-adoption-risk-losing-market-opportunities-alx-enterprise/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T10:25:30.000Z",
+      "summary": "ALX Partnership Manager Edward Akani has urged businesses to adopt artificial intelligence (AI) early to avoid losing market opportunities."
+    },
+    {
+      "title": "Malta and Ghana set sights on practical AI partnership",
+      "link": "https://www.myjoyonline.com/malta-and-ghana-set-sights-on-practical-ai-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T10:08:29.000Z",
+      "summary": "Malta’s High Commissioner to Ghana, Ronald Micallef, made the call at One Vecta Africa AI Week 2026 in Accra, where he proposed a structured dialogue bringing together governments…"
+    },
+    {
+      "title": "TCL Showcases 2026 Mini LED TVs, Smart Home Innovations for Ghana, Nigeria",
+      "link": "https://gna.org.gh/2026/09/tcl-showcases-2026-mini-led-tvs-smart-home-innovations-for-ghana-nigeria/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-14T09:23:25.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "Oil Climbs Above $108 as Supply Risks Extend into New Week",
+      "link": "https://thehighstreetjournal.com/oil-climbs-above-108-as-supply-risks-extend-into-new-week/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T09:17:37.000Z",
+      "summary": "Brent climbed above $108 as Saudi pipeline shutdown and Hormuz uncertainty raised supply concerns, extending last week’s rally and adding pressure to Ghana’s fuel market."
+    },
+    {
+      "title": "Ghana and Uganda deepen upstream petroleum cooperation through peer learning",
+      "link": "https://www.ghanabusinessnews.com/2026/09/14/ghana-and-uganda-deepen-upstream-petroleum-cooperation-through-peer-learning/",
+      "source": "Ghana Business News",
+      "published": "2026-09-14T07:01:14.000Z",
+      "summary": "Ghana and Uganda are strengthening cooperation in the upstream petroleum sector through the exchange of practical lessons on petroleum governance, regulation and operations."
+    },
+    {
+      "title": "MTN deepens cybersecurity awareness as fraudsters evolve",
+      "link": "https://www.ghanabusinessnews.com/2026/09/14/mtn-deepens-cybersecurity-awareness-as-fraudsters-evolve/",
+      "source": "Ghana Business News",
+      "published": "2026-09-14T06:36:41.000Z",
+      "summary": "MTN Ghana has intensified cybersecurity awareness among its workforce to counter increasingly sophisticated methods used by cybercriminals, hackers and fraudsters."
+    },
+    {
+      "title": "President Mahama inspects proposed site for Upper West Regional Airport",
+      "link": "https://www.ghanabusinessnews.com/2026/09/14/president-mahama-inspects-proposed-site-for-upper-west-regional-airport/",
+      "source": "Ghana Business News",
+      "published": "2026-09-14T06:30:53.000Z",
+      "summary": "President John Dramani Mahama on Saturday inspected the proposed site for the construction of the Upper West Regional Airport in Wa."
+    },
+    {
+      "title": "Bagbin urges Ewe diaspora to convert cultural network into investment platform",
+      "link": "https://www.ghanabusinessnews.com/2026/09/14/bagbin-urges-ewe-diaspora-to-convert-cultural-network-into-investment-platform/",
+      "source": "Ghana Business News",
+      "published": "2026-09-14T06:22:45.000Z",
+      "summary": "Mr Alban Sumana Kingsford Bahbin, the Speaker of Parliament, has challenged the Ewe diaspora to move beyond cultural celebration and remittances to leverage its global network as a catalyst…"
+    },
+    {
+      "title": "From Homes to High Finance: How Ghana’s Banking Industry Balances Credit Growth and Profitability",
+      "link": "https://thehighstreetjournal.com/from-homes-to-high-finance-how-ghanas-banking-industry-balances-credit-growth-and-profitability/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T06:11:47.000Z",
+      "summary": "Ghana’s banks face declining profitability despite surging credit growth, reshaping borrowing, investment, financial discipline and government financing while testing sector stability and…"
+    },
+    {
+      "title": "GOIL could hold fuel prices despite $100 crude oil shock – Edward Bawa",
+      "link": "https://www.myjoyonline.com/goil-could-hold-fuel-prices-despite-100-crude-oil-shock-edward-bawa/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T05:57:00.000Z",
+      "summary": "GOIL says it is exploring ways to prevent a surge in fuel prices at the pumps despite crude oil hitting $100 per barrel."
+    },
     {
       "title": "Fuel prices may rise, but GOIL says 30% transport fare hike doesn’t add up",
       "link": "https://www.myjoyonline.com/fuel-prices-may-rise-but-goil-says-30-transport-fare-hike-doesnt-add-up/",
@@ -115,6 +199,13 @@ window.GDC_NEWS = {
     {
       "title": "Banks wrote off GH¢1.23bn as bad debt in half-year-2026",
       "link": "https://www.myjoyonline.com/banks-wrote-off-gh%c2%a21-23bn-as-bad-debt-in-half-year-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T00:48:36.000Z",
+      "summary": "This was 38% year-on-increase over that of GH¢893.0 million recorded in June 2025"
+    },
+    {
+      "title": "Banks wrote off GH¢1.23bn as bad debt in the half-year 2026",
+      "link": "https://www.myjoyonline.com/banks-wrote-off-gh%c2%a21-23bn-as-bad-debt-in-the-half-year-2026/",
       "source": "MyJoyOnline",
       "published": "2026-09-14T00:48:36.000Z",
       "summary": "This was 38% year-on-increase over that of GH¢893.0 million recorded in June 2025"
