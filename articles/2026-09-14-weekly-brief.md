@@ -1,12 +1,12 @@
 # Ghana's economy, week to 14 September 2026
 
-_Public debt is running at about GH¢752.0bn, inflation stands at 5.0% for Aug 2026, and the policy rate is 14.0%. This briefing is assembled from the published figures on the dashboard, each with the date it belongs to._
+_Public debt is running at about GH¢752.2bn, inflation stands at 5.0% for Aug 2026, and the policy rate is 14.0%. This briefing is assembled from the published figures on the dashboard, each with the date it belongs to._
 
 ## The debt
 
-Ghana's public debt is estimated at **GH¢752.0bn** this morning. That is not a measurement: the Bank of Ghana's most recent published total is **GH¢719.5bn** at 30 June 2026, and the counter carries it forward at the pace debt grew between 31 December 2025 and 30 June 2026 — **GH¢5,014 a second**, or about GH¢433.2 million a day.
+Ghana's public debt is estimated at **GH¢752.2bn** this morning. That is not a measurement: the Bank of Ghana's most recent published total is **GH¢719.5bn** at 30 June 2026, and the counter carries it forward at the pace debt grew between 31 December 2025 and 30 June 2026 — **GH¢5,014 a second**, or about GH¢433.2 million a day.
 
-At that level, each of Ghana's roughly 34.4 million people carries about **GH¢21,861** of public debt. Debt-to-GDP was reported at 45.0% at the latest reading, against a peak of 61.8% at end-2024.
+At that level, each of Ghana's roughly 34.4 million people carries about **GH¢21,868** of public debt. Debt-to-GDP was reported at 45.0% at the latest reading, against a peak of 61.8% at end-2024.
 
 ## Prices and interest rates
 
@@ -28,7 +28,7 @@ That concentration cuts both ways: the same gold price that has carried the surp
 
 ## The budget, so far
 
-The 2026 budget approved **GH¢268.1bn** of revenue and grants against **GH¢302.5bn** of spending. Spread evenly, 70% of the year has passed, which puts revenue at about **GH¢188.0bn** and spending at **GH¢212.2bn** — an even-pace estimate, not collection to date.
+The 2026 budget approved **GH¢268.1bn** of revenue and grants against **GH¢302.5bn** of spending. Spread evenly, 70% of the year has passed, which puts revenue at about **GH¢188.4bn** and spending at **GH¢212.6bn** — an even-pace estimate, not collection to date.
 
 Interest on debt is budgeted at **GH¢57.7bn** for the year, which is **24.7%** of tax revenue: roughly 22 pesewas of every cedi the state collects.
 
