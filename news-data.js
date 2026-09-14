@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-14T16:39:07.828Z",
+  "updated": "2026-09-14T20:23:47.491Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,10 +27,45 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)"
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories"
   ],
   "items": [
+    {
+      "title": "Gov’t Sets Aside $2 Billion for Accra-Kumasi Expressway, Mahama Says",
+      "link": "https://thehighstreetjournal.com/2-bn-for-accra-kumasi-expressway/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T19:00:00.000Z",
+      "summary": "The funds, set aside by the Ministry of Finance, will allow contractors to be paid promptly once construction begins, Mahama said"
+    },
+    {
+      "title": "Ghana, Japan and Meiji Sign Cocoa Sustainability Pact to Expand Circular Economy",
+      "link": "https://thehighstreetjournal.com/cocoa-sustainabilitypact-circulareconomy/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T18:48:56.000Z",
+      "summary": "Ghana has signed a cooperation agreement with Japan and Japanese confectionery maker Meiji Holdings Co. Ltd. to support the sustainable development of the country’s cocoa industry and…"
+    },
+    {
+      "title": "Minerals Commission Tightens Grip On Foreign Fronting in Mining Sector",
+      "link": "https://thehighstreetjournal.com/minerals-commission-tightens-grip-on-foreign-fronting-in-mining-sector/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T18:33:50.000Z",
+      "summary": "The Minerals Commission has vowed to crack down on foreign fronting in mining, while strengthening local content, Ghanaian ownership, transparency and value addition across the mineral…"
+    },
+    {
+      "title": "ProMark, KPMG partner to advance Africa’s digital assets development",
+      "link": "https://gna.org.gh/2026/09/promark-kpmg-partner-to-advance-africas-digital-assets-development/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-14T17:51:18.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "The small lessons changing how Ghana’s restoration champions plant trees",
+      "link": "https://www.myjoyonline.com/the-small-lessons-changing-how-ghanas-restoration-champions-plant-trees/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T17:11:45.000Z",
+      "summary": "A seedling that looks strong and well developed may not necessarily be the best one to put in the ground. That was one of the lessons Dr Eva Agana took away from a recent gathering of…"
+    },
     {
       "title": "GRA Moves To End Tax Penalty On Small Formal Businesses",
       "link": "https://thehighstreetjournal.com/gra-moves-to-end-tax-penalty-on-small-formal-businesses/",
@@ -1045,41 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-09T23:26:00.000Z",
       "summary": "John Ternus has entered his second week as Apple's chief executive, and the company has revealed the first major change to the iPhone since it was released almost 20 years ago."
-    },
-    {
-      "title": "SSNIT honours 16 stakeholders at 2025 Awards",
-      "link": "https://www.myjoyonline.com/ssnit-honours-16-stakeholders-at-2025-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T20:44:13.000Z",
-      "summary": "The recognition took place at the 2025 SSNIT Stakeholder Awards, held last month at the La Palm Royal Beach Hotel in Accra. The awardees included employers, self-employed contributors…"
-    },
-    {
-      "title": "Ghana wastes up to 50% of fruits and vegetables annually – Akofresh",
-      "link": "https://www.myjoyonline.com/ghana-wastes-up-to-50-of-fruits-and-vegetables-annually-agrofresh/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T20:11:24.000Z",
-      "summary": "Ghana wastes between 40% and 50% of its fruits and vegetables annually, social entrepreneur, innovator and changemaker Mathias Charles Yabe has said. He said the losses occur across the…"
-    },
-    {
-      "title": "Poor transport and storage systems contribute to post-harvest losses in Ghana – Mathias Yabe",
-      "link": "https://www.myjoyonline.com/poor-transport-and-storage-systems-contribute-to-post-harvest-losses-in-ghana-mathias-yabe/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T19:37:52.000Z",
-      "summary": "The absence of appropriate transportation and storage systems is contributing to post-harvest losses among farmers, particularly those dealing with highly perishable crops, social…"
-    },
-    {
-      "title": "Indo-Ghana begins local liquid oxygen supply",
-      "link": "https://www.myjoyonline.com/indo-ghana-begins-local-liquid-oxygen-supply/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T16:53:24.000Z",
-      "summary": "Ghanaian hospitals, marking a shift in the country’s medical oxygen supply chain from cylinder-based distribution to a storage-based system designed to reduce shortages and improve…"
-    },
-    {
-      "title": "MTN, Telecel, Goal Telecom qualify for next stage of NCA spectrum auction",
-      "link": "https://www.myjoyonline.com/mtn-telecel-goal-telecom-qualify-for-next-stage-of-nca-spectrum-auction/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T16:07:46.000Z",
-      "summary": "The National Communications Authority (NCA) has completed the qualification stage of its Request for Applications for spectrum licences in the 700 MHz, 2.3 GHz and 3 GHz bands, with three…"
     }
   ]
 };

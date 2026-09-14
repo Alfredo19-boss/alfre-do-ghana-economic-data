@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-14T16:39:26.321Z",
+  "updated": "2026-09-14T20:24:02.410Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,61 +25,202 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana deepens diaspora diplomacy: Embassy pledges enhanced consular support for Ohio communities in Columbus",
-      "link": "https://www.myjoyonline.com/ghana-deepens-diaspora-diplomacy-embassy-pledges-enhanced-consular-support-for-ohio-communities-in-columbus/",
+      "title": "Emerging agri-journalists gather in Croatia for global event",
+      "link": "https://www.myjoyonline.com/emerging-agri-journalists-gather-in-croatia-for-global-event/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T16:34:00.000Z",
-      "summary": "The Embassy of Ghana in Washington, D.C., is strengthening its diplomatic ties and consular support with the diaspora, pledging that Ghanaian communities in Ohio remain a part of its…",
+      "published": "2026-09-14T19:48:43.000Z",
+      "summary": "Rising agricultural journalists under the age of 35 from across the world have gathered for a special event taking place this week in Croatia. The global Young Leaders in Agricultural…",
+      "categories": [
+        "International",
+        "Agri-journalists",
+        "Croatia",
+        "Journalism award"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PPI Ghana congratulates Dr Abdul-Baasit Aziz-Bamba: Ghana needs a proper reset on value for money",
+      "link": "https://www.myjoyonline.com/ppi-ghana-congratulates-dr-abdul-baasit-aziz-bamba-ghana-needs-a-proper-reset-on-value-for-money/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T19:43:40.000Z",
+      "summary": "The Progressive Policy Institute, Ghana (PPI), warmly congratulates Dr Abdul-Baasit Aziz-Bamba on his appointment as Acting Director-General of the Value for Money Office.",
       "categories": [
         "National",
-        "Columbus",
-        "diaspora diplomacy",
+        "News",
+        "Dr Abdul-Baasit Aziz-Bamba",
+        "PPI Ghana",
+        "Progressive Policy Institute",
+        "Value for Money Office"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kasise Ricky Peprah writes: GBA’s face must be called out – for the record",
+      "link": "https://www.myjoyonline.com/kasise-ricky-peprah-writes-gbas-face-must-be-called-out-for-the-record/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T19:42:28.000Z",
+      "summary": "The Constitution cannot be a convenient weapon today and an embarrassing inheritance tomorrow.",
+      "categories": [
+        "Opinion",
+        "GBA",
+        "Ghartey",
+        "Kasise Ricky Peprah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bernice Offei battled dementia for five years before death, former manager reveals",
+      "link": "https://www.myjoyonline.com/bernice-offei-battled-dementia-for-five-years-before-death-former-manager-reveals/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T19:40:08.000Z",
+      "summary": "Veteran gospel singer Bernice Offei had been battling dementia for about five years before her death at age 63, her former manager, Kwasi Ernest, has revealed. According to him, the…",
+      "categories": [
+        "National",
+        "Bernice Offei",
+        "dementia",
+        "Veteran gospel"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jordan Ayew’s return offers Ghana timely boost ahead of AFCON qualifiers",
+      "link": "https://www.myjoyonline.com/jordan-ayews-return-offers-ghana-timely-boost-ahead-of-afcon-qualifiers/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T19:39:51.000Z",
+      "summary": "Jordan Ayew made his Sheffield United debut over the weekend, coming off the bench in their clash against Wolves. The Ghana captain, who celebrated his 35th birthday last Friday, played the…",
+      "categories": [
+        "Football",
+        "Sports",
+        "2027 AFCON Qualifiers",
         "Ghana",
-        "Ohio Communities"
+        "Jordan Ayew",
+        "Sheffield United"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana’s maternal health success story at risk without rural incentives – UNFPA",
-      "link": "https://www.myjoyonline.com/ghanas-maternal-health-success-story-at-risk-without-rural-incentives-unfpa/",
+      "title": "De Zerbi raises doubts over Kudus’ availability for Ghana’s AFCON qualifiers",
+      "link": "https://www.myjoyonline.com/de-zerbi-raises-doubts-over-kudus-availability-for-ghanas-afcon-qualifiers/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T16:33:44.000Z",
-      "summary": "Ghana's hard-won progress in maternal health could stall unless deliberate incentives are introduced to retain health workers in remote parts of the country, the Regional Director for West…",
+      "published": "2026-09-14T19:30:20.000Z",
+      "summary": "Tottenham Hotspur head coach Roberto De Zerbi has raised doubts over Mohammed Kudus’ availability for Ghana’s upcoming 2027 Africa Cup of Nations qualifiers, admitting the midfielder is…",
       "categories": [
-        "Health",
-        "National",
-        "Maternal health",
-        "Success",
-        "UNFPA"
+        "Football",
+        "Sports",
+        "2027 AFCON Qualifiers",
+        "Carlos Queiroz",
+        "Kudus Mohammed",
+        "Roberto de Zerbi"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‎Gaps in suicide data affect prevention interventions in Ghana – Accra Psychiatric Hospital MD",
-      "link": "https://www.myjoyonline.com/gaps-in-suicide-data-affect-prevention-interventions-in-ghana/",
+      "title": "Ghana’s reputation must not be dented by self-centred individuals – Madina MP on cocaine seizure",
+      "link": "https://www.myjoyonline.com/ghanas-reputation-must-not-be-dented-by-self-centred-individuals-madina-mp-on-cocaine-seizure/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T16:32:54.000Z",
-      "summary": "Gaps in Ghana’s suicide reporting system are hindering efforts to accurately determine the scale and patterns of suicide in the country.",
+      "published": "2026-09-14T19:12:58.000Z",
+      "summary": "The Member of Parliament for Madina, Dr Francis-Xavier Kojo Sosu, says Ghana’s international reputation must not be damaged by the actions of individuals seeking to enrich themselves…",
       "categories": [
         "National",
-        "Ghana",
-        "Suicide"
+        "Cocaine seizure",
+        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana Armed Forces to participate in Accra-Kumasi Expressway construction – Mahama",
-      "link": "https://www.myjoyonline.com/ghana-armed-forces-to-participate-in-accra-kumasi-expressway-construction-mahama/",
+      "title": "MTN Ghana pushes digital growth for SMEs as sixth business clinic ends in Accra.",
+      "link": "https://www.myjoyonline.com/mtn-ghana-pushes-digital-growth-for-smes-as-sixth-business-clinic-ends-in-accra/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T16:32:26.000Z",
-      "summary": "President John Mahama says the Ghana Armed Forces Engineer Regiment will participate in the construction of the Accra-Kumasi Expressway as a major subcontractor to the main contractor.",
+      "published": "2026-09-14T19:09:58.000Z",
+      "summary": "MTN Ghana has reaffirmed its commitment to accelerating the growth of small and medium-sized enterprises (SMEs) through digital transformation, access to finance and market expansion, as it…",
       "categories": [
         "National",
-        "Accra-Kumasi expressway",
-        "Ghana Armed Forces Engineer Regiment",
-        "Mahama"
+        "Photo Story",
+        "MTN",
+        "SMEGA"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Attorney-General to introduce new bill to regulate discipline of lawyers",
+      "link": "https://ghanaiantimes.com.gh/attorney-general-to-introduce-new-bill-to-regulate-discipline-of-lawyers/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-14T18:38:07.000Z",
+      "summary": "The Attorney-General and Minister for Justice, Dr. Dominic Ayine, has announced plans to introduce a new Bill to strengthen the legal framework for the discipline of lawyers in Ghana. In an…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gov’t did not approve market near school — Stan Dogbe clears air on Ahafo Ano South market siting",
+      "link": "https://ghanaiantimes.com.gh/govt-did-not-approve-market-near-school-stan-dogbe-clears-air-on-ahafo-ano-south-market-siting/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-14T18:35:36.000Z",
+      "summary": "Deputy Chief of Staff, Stan Xoese Dogbe has reacted to a viral video raising concerns about the siting of a market close to a school in the Ahafo Ano South District of the Ashanti Region…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Richard Dogbe declares bid for NDC Greater Accra Deputy Youth Organiser position",
+      "link": "https://ghanaiantimes.com.gh/richard-dogbe-declares-bid-for-ndc-greater-accra-deputy-youth-organiser-position/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-14T18:30:24.000Z",
+      "summary": "Businessman and NDC stalwart, Richard Dogbe, affectionately known as Alhaji ATM, has declared his intention to contest for the position of Deputy Greater Accra Regional Youth Organiser of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Why I Started Paying Attention to How Betting Promotions Actually Work",
+      "link": "https://ghanaiantimes.com.gh/why-i-started-paying-attention-to-how-betting-promotions-actually-work/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-14T17:09:10.000Z",
+      "summary": "I’ll be honest, I never cared about sports betting until 8 months ago when a friend in Accra showed me his phone after a football match. He’d turned 50 cedis into 387 cedis in 90 minutes…",
+      "categories": [
+        "Technology"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Vice President opens 14th Ghana Garden and Flower Show",
+      "link": "https://www.graphic.com.gh/news/general-news/vice-president-opens-14th-ghana-garden-and-flower-show.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-14T16:47:03.000Z",
+      "summary": "Vice President Professor Jane Naana Opoku-Agyemang, has opened the 14th edition of the Ghana Garden and Flower Show in Accra.",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Malta, Ghana set sights on practical AI partnership",
+      "link": "https://ghanaiantimes.com.gh/malta-ghana-set-sights-on-practical-ai-partnership/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-14T16:42:18.000Z",
+      "summary": "Malta and Ghana have an opportunity to build a forward-looking partnership in artificial intelligence, combining Malta’s institutional agility and European regulatory experience with…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "SIC, NSIA bosses win CEO penalty shootout at 2026 Insurance Fun Games",
+      "link": "https://www.graphic.com.gh/sports/sports-news/sic-nsia-bosses-win-ceo-penalty-shootout-at-2026-insurance-fun-games.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-14T16:40:03.000Z",
+      "summary": "The General Manager of Finance and Administration at SIC Insurance, Mr Kenneth Acolatse, and the Managing Director of NSIA Insurance, Mrs Lorenda Deborah, emerged winners of the male and…",
+      "categories": [
+        "Sports News"
+      ],
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Paramount Chief of Bamvum donates land for new Fire Station at Jongshegu",
@@ -128,45 +269,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NACOC arrests three suspects linked to ‘Bolle Jos’ network",
-      "link": "https://ghanaiantimes.com.gh/nacoc-arrests-three-suspects-linked-to-bolle-jos-network/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:18:53.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) has arrested three suspects for allegedly representing and facilitating the activities of Dutch fugitive Jos Leijdekkers, popularly known as “Bolle…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Use chiefs to stop disputes from flooding Ghana’s courts – Deputy AG to governing council of ADR",
-      "link": "https://www.myjoyonline.com/use-chiefs-to-stop-disputes-from-flooding-ghanas-courts-deputy-ag-to-governing-council-of-adr/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T16:18:38.000Z",
-      "summary": "The Alternative Dispute Resolution (ADR) Council has been urged to bring chiefs into the formal dispute-resolution process as part of efforts to prevent Ghana’s already burdened courts from…",
-      "categories": [
-        "National",
-        "ADR",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Four arrested as police bust alleged kidnapping, torture and extortion syndicate",
-      "link": "https://www.myjoyonline.com/four-arrested-as-police-bust-alleged-kidnapping-torture-and-extortion-syndicate/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T16:16:32.000Z",
-      "summary": "The Central North Regional Police Command has disrupted an alleged kidnapping, torture and extortion syndicate, rescuing a 30-year-old man, Bismarck Amo, and arresting four suspects after…",
-      "categories": [
-        "Crime",
-        "Regional",
-        "Arrested",
-        "Extortion"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Steven Odarteifio declares bid for NDC National Youth Organiser position",
       "link": "https://www.graphic.com.gh/news/politics/steven-odarteifio-declares-bid-for-ndc-national-youth-organiser-position.html",
       "source": "Daily Graphic",
@@ -178,74 +280,15 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Minority in parliament demands parliamentary probe into Ghana’s alleged role as narcotics transit hub",
-      "link": "https://ghanaiantimes.com.gh/minority-in-parliament-demands-parliamentary-probe-into-ghanas-alleged-role-as-narcotics-transit-hub/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:15:27.000Z",
-      "summary": "The Minority in Parliament has called for an independent parliamentary inquiry into what it describes as Ghana’s growing involvement in major narcotics trafficking cases under the NDC…",
+      "title": "Police arrest four suspects including two teachers in alleged kidnapping incident",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-four-suspects-including-two-teachers-in-assin-fosu-kidnapping-incident.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-14T16:04:48.000Z",
+      "summary": "Four suspects, including two teachers, said to be involved in the kidnapping incident of 30-year-old Bismarck Amo from Assin Fosu, have been arrested by the police. The arrest of the…",
       "categories": [
-        "Hot!",
-        "News"
+        "General News"
       ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "No school will be demolished for 24-hour market – Ashanti Regional Minister",
-      "link": "https://ghanaiantimes.com.gh/no-school-will-be-demolished-for-24-hour-market-ashanti-regional-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:10:27.000Z",
-      "summary": "Ashanti Regional Minister, Dr. Frank Amoakohene, has intervened in the controversy surrounding the alleged plan to demolish a school facility in the Ahafo Ano South West District for the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "48 Engineer Regiment to be major sub-contractor on Accra-Kumasi Expressway, $2bn ready- Prez Mahama",
-      "link": "https://ghanaiantimes.com.gh/48-engineer-regiment-to-be-major-sub-contractor-on-accra-kumasi-expressway-2bn-ready-prez-mahama/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:05:37.000Z",
-      "summary": "President John Dramani Mahama has announced that the 48 Engineer Regiment of the Ghana Armed Forces will serve as the major sub-contractor for the construction of the new Accra-Kumasi…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NPA increases price floor from September 16; petrol to sell at GH¢16, diesel at GH¢16.77",
-      "link": "https://www.myjoyonline.com/npa-increases-price-floor-from-september-16-petrol-to-sell-at-ghc16-diesel-at-ghc16-77/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T15:55:31.000Z",
-      "summary": "The development should mean that we are likely to see some significant increases in the prices of petroleum products from the current levels or price quotes by the various oil marketing…",
-      "categories": [
-        "Business",
-        "Comp. Business",
-        "Energy",
-        "HP Business 1",
-        "National Petroleum Authority (NPA)",
-        "oil marketing companies (OMCs)",
-        "petroleum products",
-        "price floor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "OMJ fufils BECEPIP schorlaship promise, awards 12 learners",
-      "link": "https://www.myjoyonline.com/omj-fufils-becepip-schorlaship-promise-awards-12-learners/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T15:50:34.000Z",
-      "summary": "Founder and CEO of the OMJ Foundation, Osei Mensah Joseph (OMJ) has fulfilled his scholarship promise to beneficiaries of the Basic Education Certificate Examination Preparation…",
-      "categories": [
-        "Education",
-        "National",
-        "Regional",
-        "BECEPIP",
-        "OMJ",
-        "schorlaship"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Nana Fitz challenges GFA to revive Colts football",
@@ -325,17 +368,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Baba Yara must become fortress — Tinkler",
-      "link": "https://www.graphic.com.gh/sports/sports-news/baba-yara-must-become-fortress-tinkler.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T13:36:36.000Z",
-      "summary": "Asante Kotoko head coach Eric Tinkler has vowed to transform the Baba Yara Stadium into a fortress where visiting clubs will struggle to pick up points against the Porcupine Warriors. The…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
       "title": "President Mahama to cut sod for Accra-Kumasi Expressway before Christmas",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-cut-sod-for-accra-kumasi-expressway-before-christmas.html",
       "source": "Daily Graphic",
@@ -345,17 +377,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "SCC inmates commended for 100% pass in BECE",
-      "link": "https://ghanaiantimes.com.gh/scc-inmates-commended-for-100-pass-in-bece/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T12:00:44.000Z",
-      "summary": "Juvenile inmates at the Senior Correctional Centre (SCC), Accra, have achieved a 100 per cent pass rate in the 2026 Basic Education Certificate Examination (BECE), demonstrating the…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Ghana Medical Trust Fund gives 110 children a fighting chance – Cardiothoracic Centre Boss",
@@ -380,33 +401,11 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Govt will make strategic investment in Zongo communities — Ayariga",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-will-make-strategic-investment-in-zongo-communities-ayariga.html",
+      "title": "NACOC arrest three people in Ghana over €225m cocaine shipment seized in France",
+      "link": "https://www.graphic.com.gh/news/general-news/nacoc-arrests-three-over-ghana-cocaine-shipment.html",
       "source": "Daily Graphic",
-      "published": "2026-09-14T07:23:04.000Z",
-      "summary": "The Minister of Local Government, Chieftaincy, and Religious Affairs, Mahama Ayariga, has stated that the government will make strategic investment in Zongo communities to bridge the…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GCB Bank partners Catholic Church to empower West African youth",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gcb-bank-partners-catholic-church-to-empower-west-african-youth.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T07:19:34.000Z",
-      "summary": "GCB Bank PLC is deepening its commitment to youth empowerment and financial inclusion through a partnership with the Catholic Church for a major regional gathering that brings young people…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Collaborate with governments to accelerate development - Betty Mould-Iddrisu to African entities",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-collaborate-with-governments-to-accelerate-development-betty-mould-iddrisu-to-african-entities.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T07:15:21.000Z",
-      "summary": "A Member of the Council of State, Betty Mould-Iddrisu, has called on the private sector, members of academia, and young people in Africa to work closely with their respective governments to…",
+      "published": "2026-09-14T10:29:28.000Z",
+      "summary": "The Narcotics Control Commission (NACOC) has arrested three suspects following the seizure by French customs of nearly 3.9 tonnes of cocaine concealed in a container that arrived from Ghana.",
       "categories": [
         "General News"
       ],
