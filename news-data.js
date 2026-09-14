@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-14T20:23:47.491Z",
+  "updated": "2026-09-14T23:24:11.160Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -28,9 +28,37 @@ window.GDC_NEWS = {
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories"
+    "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "China Capital: Ghana COCOBOD’s multibillion-cedi profit masks a record of financial recklessness",
+      "link": "https://www.ghanabusinessnews.com/2026/09/14/china-capital-ghana-cocobods-multibillion-cedi-profit-masks-a-record-of-financial-recklessness/",
+      "source": "Ghana Business News",
+      "published": "2026-09-14T23:17:09.000Z",
+      "summary": "The Ghana Cocoa Board (COCOBOD) goes around every year seeking loans to buy cocoa, only to land on a lender’s watchlist. A watchlist is a red flag international financiers reserve for…"
+    },
+    {
+      "title": "Absa Bank named winner of Bancassurance Leadership Award at 2026 Ghana Insurance Awards",
+      "link": "https://www.myjoyonline.com/absa-bank-named-winner-of-bancassurance-leadership-award-at-2026-ghana-insurance-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T23:05:00.000Z",
+      "summary": "Absa Bank Ghana LTD has been recognised as the winner of the Bancassurance Leadership Award 2026 at the Ghana Insurance Awards, honouring the bank’s efforts in delivering integrated…"
+    },
+    {
+      "title": "IEAG calls for urgent intervention to decongest ports",
+      "link": "https://www.myjoyonline.com/ieag-calls-for-urgent-intervention-to-decongest-ports/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T22:07:00.000Z",
+      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called for an urgent intervention, led by the Chief of Staff, to address the worsening congestion and operational bottlenecks at…"
+    },
+    {
+      "title": "Ghana risks losing import trade to Abidjan – IEAG",
+      "link": "https://www.myjoyonline.com/ghana-risks-losing-import-trade-to-abidjan-ieag/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T21:45:00.000Z",
+      "summary": "Ghana risks losing portions of its import trade to competing ports in the sub-region if urgent measures are not taken to resolve persistent congestion and delays at its ports, the Importers…"
+    },
     {
       "title": "Gov’t Sets Aside $2 Billion for Accra-Kumasi Expressway, Mahama Says",
       "link": "https://thehighstreetjournal.com/2-bn-for-accra-kumasi-expressway/",
@@ -394,6 +422,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-13T22:54:00.000Z",
       "summary": "Vice President Prof Naana Jane Opoku-Agyemang has called for greater investment in Ghana’s horticulture sector, saying it can create jobs, build businesses and open new export opportunities…"
+    },
+    {
+      "title": "TCL showcases 2026 SQD Mini LED TVs and smart home innovations for Ghana",
+      "link": "https://www.myjoyonline.com/tcl-showcases-2026-sqd-mini-led-tvs-and-smart-home-innovations-for-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-13T21:13:00.000Z",
+      "summary": "TCL, a global leader in consumer electronics, has unveiled its 2026 consumer electronics and home appliance portfolio for Ghana at its West Africa regional launch in Côte d’Ivoire."
     },
     {
       "title": "Global Youth Economy Takes Centre Stage As 191 Nations Meet In Russia",
@@ -1045,41 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-10T07:14:20.000Z",
       "summary": "Ghana has made a strong pitch to Australian investors for its fast-growing critical minerals sector, positioning itself as a stable, reform-driven hub for the global energy transition at…"
-    },
-    {
-      "title": "What must gov’ts do to make food systems drive job creation in Africa? – Fareeda Mustapha asks Rwanda’s Kagame",
-      "link": "https://www.myjoyonline.com/what-must-govts-do-to-make-food-systems-drive-job-creation-in-africa-fareeda-mustapha-asks-rwandas-kagame/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T05:02:56.000Z",
-      "summary": "Twenty-four-year-old Ghanaian entrepreneur and CEO of PureLube, Fareeda Mustapha, says the agricultural and food systems sector holds enormous opportunities for job creation for Africa's…"
-    },
-    {
-      "title": "24-Hour Economy’s job creation push yet to gather speed – Nii Moi Thompson",
-      "link": "https://www.myjoyonline.com/24-hour-economys-job-creation-push-yet-to-gather-speed-nii-moi-thompson/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T04:24:00.000Z",
-      "summary": "Chairman of the National Development Planning Committee, Dr Nii Moi Thompson, says the job creation component of the government’s 24-hour economy programme is yet to gather the speed…"
-    },
-    {
-      "title": "Banks’ credit profiles improve on stronger operating environment – Fitch",
-      "link": "https://www.myjoyonline.com/ghanaian-bank-credit-profiles-improve-on-stronger-operating-environment-fitch/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T03:22:32.000Z",
-      "summary": "The UK-based firm upgraded Ghana’s Long-Term Issuer Default Ratings (IDRs) to ‘B’/Positive from ‘B-‌’/Stable in May reflected a sharp fall in government debt to Gross Domestic Product (GDP)…"
-    },
-    {
-      "title": "Ghana’s growth rate to exceed 6.5% in 2026 – Databank Research",
-      "link": "https://www.myjoyonline.com/ghanas-growth-rate-to-exceed-6-5-in-2026-databank-research/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T02:58:06.000Z",
-      "summary": "According to the firm, the ongoing structural reforms, domestic monetary easing, and a sharp rebound in key industrial sub-sectors will sustain the economy well ahead of the government’s…"
-    },
-    {
-      "title": "Apple’s new boss starts with big gamble on costly first folding iPhone",
-      "link": "https://www.myjoyonline.com/apples-new-boss-starts-with-big-gamble-on-costly-first-folding-iphone/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T23:26:00.000Z",
-      "summary": "John Ternus has entered his second week as Apple's chief executive, and the company has revealed the first major change to the iPhone since it was released almost 20 years ago."
     }
   ]
 };

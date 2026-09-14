@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-14T20:24:02.410Z",
+  "updated": "2026-09-14T23:24:26.288Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,119 +25,111 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Emerging agri-journalists gather in Croatia for global event",
-      "link": "https://www.myjoyonline.com/emerging-agri-journalists-gather-in-croatia-for-global-event/",
+      "title": "ITF World Tennis Tour Juniors: J60 stage begins in Accra",
+      "link": "https://www.myjoyonline.com/itf-world-tennis-tour-juniors-j60-stage-begins-in-accra/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T19:48:43.000Z",
-      "summary": "Rising agricultural journalists under the age of 35 from across the world have gathered for a special event taking place this week in Croatia. The global Young Leaders in Agricultural…",
+      "published": "2026-09-14T23:17:44.000Z",
+      "summary": "The third week of the ITF World Tennis Tour Juniors tournament begins in Accra today, with players competing for valuable ranking points at the National Tennis Centre.",
       "categories": [
-        "International",
-        "Agri-journalists",
-        "Croatia",
-        "Journalism award"
+        "HP Sports 5",
+        "Tennis",
+        "ITF J60",
+        "ITF World Tennis Junior Tournament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PPI Ghana congratulates Dr Abdul-Baasit Aziz-Bamba: Ghana needs a proper reset on value for money",
-      "link": "https://www.myjoyonline.com/ppi-ghana-congratulates-dr-abdul-baasit-aziz-bamba-ghana-needs-a-proper-reset-on-value-for-money/",
+      "title": "Absa Bank named winner of Bancassurance Leadership Award at 2026 Ghana Insurance Awards",
+      "link": "https://www.myjoyonline.com/absa-bank-named-winner-of-bancassurance-leadership-award-at-2026-ghana-insurance-awards/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T19:43:40.000Z",
-      "summary": "The Progressive Policy Institute, Ghana (PPI), warmly congratulates Dr Abdul-Baasit Aziz-Bamba on his appointment as Acting Director-General of the Value for Money Office.",
+      "published": "2026-09-14T23:05:00.000Z",
+      "summary": "Absa Bank Ghana LTD has been recognised as the winner of the Bancassurance Leadership Award 2026 at the Ghana Insurance Awards, honouring the bank’s efforts in delivering integrated…",
       "categories": [
-        "National",
-        "News",
-        "Dr Abdul-Baasit Aziz-Bamba",
-        "PPI Ghana",
-        "Progressive Policy Institute",
-        "Value for Money Office"
+        "Banking and Finance",
+        "2026 Ghana Insurance Awards",
+        "Absa Bank Ghana",
+        "Bancassurance Leadership Award"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kasise Ricky Peprah writes: GBA’s face must be called out – for the record",
-      "link": "https://www.myjoyonline.com/kasise-ricky-peprah-writes-gbas-face-must-be-called-out-for-the-record/",
+      "title": "Mr. Aloysius Kwesi Acquah Snr aka Kwesi Anfo",
+      "link": "https://www.myjoyonline.com/mr-aloysius-kwesi-acquah-snr-aka-kwesi-anfo/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T19:42:28.000Z",
-      "summary": "The Constitution cannot be a convenient weapon today and an embarrassing inheritance tomorrow.",
+      "published": "2026-09-14T22:53:13.000Z",
+      "summary": "Twidan Ebusua of Nkowdwo and Cape Coast, Ebusua Panyin Yaw Asiedu, Nana Henmaa Ama Kweewa II, Nana Motwey IV of Nkowdwo, Nana Dadzie (Mankrado of Amoyaw), Nana Amoyaw Il of Amoyaw…",
+      "categories": [
+        "Obituary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NACOC’s cocaine suspects arrest commendable, but it cannot run on ‘charity’ to fight drug cartels",
+      "link": "https://www.myjoyonline.com/nacocs-cocaine-suspects-arrest-commendable-but-it-cannot-run-on-charity-to-fight-drug-cartels/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T22:44:00.000Z",
+      "summary": "The arrest of three suspects linked to Dutch fugitive Jos Leijdekkers, alias \"Bolle Jos\", by the Narcotics Control Commission (NACOC) following the $260 million cocaine seizure in Dunkirk…",
       "categories": [
         "Opinion",
-        "GBA",
-        "Ghartey",
-        "Kasise Ricky Peprah"
+        "Cocaine bust",
+        "NACOC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bernice Offei battled dementia for five years before death, former manager reveals",
-      "link": "https://www.myjoyonline.com/bernice-offei-battled-dementia-for-five-years-before-death-former-manager-reveals/",
+      "title": "Gov’t cannot deny what it has already set in motion – Former NaCCA boss challenges Mahama on Arabic, Chinese policy",
+      "link": "https://www.myjoyonline.com/govt-cannot-deny-what-it-has-already-set-in-motion-former-nacca-boss-challenges-mahama-on-arabic-chinese-policy/",
       "source": "MyJoyOnline",
-      "published": "2026-09-14T19:40:08.000Z",
-      "summary": "Veteran gospel singer Bernice Offei had been battling dementia for about five years before her death at age 63, her former manager, Kwasi Ernest, has revealed. According to him, the…",
+      "published": "2026-09-14T22:32:00.000Z",
+      "summary": "A former head of the National Council for Curriculum and Assessment (NaCCA), Dr Prince Hamid Armah, has challenged President John Mahama’s claim that there was never a policy to introduce…",
+      "categories": [
+        "Education",
+        "HP News 5",
+        "Arabic",
+        "Chinese",
+        "Dr Prince Hamid Armah",
+        "NaCCA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Telecel Foundation marks Fetu Afahye with HealthFest",
+      "link": "https://www.myjoyonline.com/telecel-foundation-marks-fetu-afahye-with-healthfest/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T22:16:00.000Z",
+      "summary": "Marking this year’s Fetu Afahye celebrations, the Telecel Ghana Foundation provided free health screening to residents of Abura, Central Region, under its connected health pillar.",
+      "categories": [
+        "Health",
+        "Fetu Afahye",
+        "Telecel Foundation",
+        "Telecel Healthfest"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IEAG calls for urgent intervention to decongest ports",
+      "link": "https://www.myjoyonline.com/ieag-calls-for-urgent-intervention-to-decongest-ports/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T22:07:00.000Z",
+      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called for an urgent intervention, led by the Chief of Staff, to address the worsening congestion and operational bottlenecks at…",
+      "categories": [
+        "Economy",
+        "National",
+        "Harbour",
+        "Importers and Exporters Association of Ghana (IEAG)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Strong financial, technical capacity non-negotiable for Accra-Kumasi Expressway – Agbodza",
+      "link": "https://www.myjoyonline.com/strong-financial-technical-capacity-non-negotiable-for-accra-kumasi-expressway-agbodza/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T21:56:00.000Z",
+      "summary": "Government says firms seeking to undertake the Accra-Kumasi Expressway project must demonstrate strong financial and technical capacity, as it moves to ensure quality, value for money and…",
       "categories": [
         "National",
-        "Bernice Offei",
-        "dementia",
-        "Veteran gospel"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jordan Ayew’s return offers Ghana timely boost ahead of AFCON qualifiers",
-      "link": "https://www.myjoyonline.com/jordan-ayews-return-offers-ghana-timely-boost-ahead-of-afcon-qualifiers/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T19:39:51.000Z",
-      "summary": "Jordan Ayew made his Sheffield United debut over the weekend, coming off the bench in their clash against Wolves. The Ghana captain, who celebrated his 35th birthday last Friday, played the…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2027 AFCON Qualifiers",
-        "Ghana",
-        "Jordan Ayew",
-        "Sheffield United"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "De Zerbi raises doubts over Kudus’ availability for Ghana’s AFCON qualifiers",
-      "link": "https://www.myjoyonline.com/de-zerbi-raises-doubts-over-kudus-availability-for-ghanas-afcon-qualifiers/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T19:30:20.000Z",
-      "summary": "Tottenham Hotspur head coach Roberto De Zerbi has raised doubts over Mohammed Kudus’ availability for Ghana’s upcoming 2027 Africa Cup of Nations qualifiers, admitting the midfielder is…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2027 AFCON Qualifiers",
-        "Carlos Queiroz",
-        "Kudus Mohammed",
-        "Roberto de Zerbi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s reputation must not be dented by self-centred individuals – Madina MP on cocaine seizure",
-      "link": "https://www.myjoyonline.com/ghanas-reputation-must-not-be-dented-by-self-centred-individuals-madina-mp-on-cocaine-seizure/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T19:12:58.000Z",
-      "summary": "The Member of Parliament for Madina, Dr Francis-Xavier Kojo Sosu, says Ghana’s international reputation must not be damaged by the actions of individuals seeking to enrich themselves…",
-      "categories": [
-        "National",
-        "Cocaine seizure",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN Ghana pushes digital growth for SMEs as sixth business clinic ends in Accra.",
-      "link": "https://www.myjoyonline.com/mtn-ghana-pushes-digital-growth-for-smes-as-sixth-business-clinic-ends-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T19:09:58.000Z",
-      "summary": "MTN Ghana has reaffirmed its commitment to accelerating the growth of small and medium-sized enterprises (SMEs) through digital transformation, access to finance and market expansion, as it…",
-      "categories": [
-        "National",
-        "Photo Story",
-        "MTN",
-        "SMEGA"
+        "Accra-Kumasi expressway",
+        "Governs Kwame Agbodza"
       ],
       "site": "https://www.myjoyonline.com/"
     },
