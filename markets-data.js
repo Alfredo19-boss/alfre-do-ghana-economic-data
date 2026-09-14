@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_MARKETS = {
-  "updated": "2026-09-14T19:12:57.616Z",
+  "updated": "2026-09-14T21:54:37.443Z",
   "note": "Market prices as last traded. World figures from Yahoo Finance; Ghana Stock Exchange prices from the GSE's open feed. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance · Ghana Stock Exchange",
   "world": {
@@ -13,33 +13,33 @@ window.GDC_MARKETS = {
         "name": "S&P 500",
         "unit": "",
         "dec": 0,
-        "value": 7632.61,
+        "value": 7619.98,
         "prev": 7718.6,
-        "change": -85.99,
-        "pct": -1.11,
-        "at": "2026-09-14T19:12:34.000Z"
+        "change": -98.62,
+        "pct": -1.28,
+        "at": "2026-09-14T20:34:48.000Z"
       },
       {
         "symbol": "^DJI",
         "name": "Dow Jones",
         "unit": "",
         "dec": 0,
-        "value": 52474.38,
+        "value": 52421.2,
         "prev": 53414.25,
-        "change": -939.87,
-        "pct": -1.76,
-        "at": "2026-09-14T19:12:33.000Z"
+        "change": -993.05,
+        "pct": -1.86,
+        "at": "2026-09-14T20:34:53.000Z"
       },
       {
         "symbol": "^IXIC",
         "name": "Nasdaq",
         "unit": "",
         "dec": 0,
-        "value": 26259.826,
+        "value": 26186.414,
         "prev": 26506.99,
-        "change": -247.164,
-        "pct": -0.93,
-        "at": "2026-09-14T19:12:31.000Z"
+        "change": -320.576,
+        "pct": -1.21,
+        "at": "2026-09-14T21:15:59.000Z"
       },
       {
         "symbol": "^FTSE",
@@ -114,66 +114,66 @@ window.GDC_MARKETS = {
         "name": "Gold",
         "unit": "US$/oz",
         "dec": 0,
-        "value": 4346,
+        "value": 4340,
         "prev": 4416,
-        "change": -70,
-        "pct": -1.59,
-        "at": "2026-09-14T19:02:32.000Z"
+        "change": -76,
+        "pct": -1.72,
+        "at": "2026-09-14T20:59:59.000Z"
       },
       {
         "symbol": "SI=F",
         "name": "Silver",
         "unit": "US$/oz",
         "dec": 2,
-        "value": 64.115,
+        "value": 63.755,
         "prev": 67.942,
-        "change": -3.827,
-        "pct": -5.63,
-        "at": "2026-09-14T19:02:32.000Z"
+        "change": -4.187,
+        "pct": -6.16,
+        "at": "2026-09-14T20:59:43.000Z"
       },
       {
         "symbol": "HG=F",
         "name": "Copper",
         "unit": "US$/lb",
         "dec": 2,
-        "value": 6.412,
-        "prev": 6.804,
-        "change": -0.392,
-        "pct": -5.76,
-        "at": "2026-09-14T19:02:32.000Z"
+        "value": 6.3975,
+        "prev": 6.8035,
+        "change": -0.406,
+        "pct": -5.97,
+        "at": "2026-09-14T20:59:45.000Z"
       },
       {
         "symbol": "CL=F",
         "name": "Crude oil · WTI",
         "unit": "US$/bbl",
         "dec": 2,
-        "value": 101.07,
+        "value": 101.89,
         "prev": 96.05,
-        "change": 5.02,
-        "pct": 5.23,
-        "at": "2026-09-14T19:02:33.000Z"
+        "change": 5.84,
+        "pct": 6.08,
+        "at": "2026-09-14T20:59:57.000Z"
       },
       {
         "symbol": "BZ=F",
         "name": "Crude oil · Brent",
         "unit": "US$/bbl",
         "dec": 2,
-        "value": 105.33,
+        "value": 106.15,
         "prev": 101.21,
-        "change": 4.12,
-        "pct": 4.07,
-        "at": "2026-09-14T19:02:32.000Z"
+        "change": 4.94,
+        "pct": 4.88,
+        "at": "2026-09-14T20:59:31.000Z"
       },
       {
         "symbol": "NG=F",
         "name": "Natural gas",
         "unit": "US$/MMBtu",
         "dec": 2,
-        "value": 2.876,
+        "value": 2.884,
         "prev": 2.822,
-        "change": 0.054,
-        "pct": 1.91,
-        "at": "2026-09-14T19:01:43.000Z"
+        "change": 0.062,
+        "pct": 2.2,
+        "at": "2026-09-14T20:59:56.000Z"
       },
       {
         "symbol": "CC=F",
@@ -226,22 +226,22 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 79107.09,
+        "value": 78749.71,
         "prev": 76568.125,
-        "change": 2538.96,
-        "pct": 3.32,
-        "at": "2026-09-14T19:12:32.000Z"
+        "change": 2181.59,
+        "pct": 2.85,
+        "at": "2026-09-14T21:54:10.000Z"
       },
       {
         "symbol": "ETH-USD",
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 2538.67,
+        "value": 2547.04,
         "prev": 2437.0986,
-        "change": 101.571,
-        "pct": 4.17,
-        "at": "2026-09-14T19:12:33.000Z"
+        "change": 109.941,
+        "pct": 4.51,
+        "at": "2026-09-14T21:54:09.000Z"
       }
     ],
     "currencies": [
@@ -250,77 +250,77 @@ window.GDC_MARKETS = {
         "name": "US dollar in cedis",
         "unit": "GH¢",
         "dec": 4,
-        "value": 11.47,
+        "value": 11.45,
         "prev": 11.0364,
-        "change": 0.4336,
-        "pct": 3.93,
-        "at": "2026-09-14T17:59:59.000Z"
+        "change": 0.4136,
+        "pct": 3.75,
+        "at": "2026-09-14T19:31:33.000Z"
       },
       {
         "symbol": "EURGHS=X",
         "name": "Euro in cedis",
         "unit": "GH¢",
         "dec": 4,
-        "value": 13.2829,
+        "value": 13.2238,
         "prev": 12.834,
-        "change": 0.4489,
-        "pct": 3.5,
-        "at": "2026-09-14T18:28:59.000Z"
+        "change": 0.3898,
+        "pct": 3.04,
+        "at": "2026-09-14T19:58:56.000Z"
       },
       {
         "symbol": "GBPGHS=X",
         "name": "Pound in cedis",
         "unit": "GH¢",
         "dec": 4,
-        "value": 15.5277,
+        "value": 15.4603,
         "prev": 15.45,
-        "change": 0.0777,
-        "pct": 0.5,
-        "at": "2026-09-14T18:28:59.000Z"
+        "change": 0.0103,
+        "pct": 0.07,
+        "at": "2026-09-14T19:58:56.000Z"
       },
       {
         "symbol": "EURUSD=X",
         "name": "Euro in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.1561,
+        "value": 1.1558,
         "prev": 1.1628,
-        "change": -0.0067,
-        "pct": -0.58,
-        "at": "2026-09-14T19:12:00.000Z"
+        "change": -0.007,
+        "pct": -0.6,
+        "at": "2026-09-14T21:53:58.000Z"
       },
       {
         "symbol": "GBPUSD=X",
         "name": "Pound in dollars",
         "unit": "US$",
         "dec": 4,
-        "value": 1.3511,
+        "value": 1.3502,
         "prev": 1.3547,
-        "change": -0.0036,
-        "pct": -0.27,
-        "at": "2026-09-14T19:12:00.000Z"
+        "change": -0.0045,
+        "pct": -0.33,
+        "at": "2026-09-14T21:53:58.000Z"
       },
       {
         "symbol": "ZARGHS=X",
         "name": "Rand in cedis",
         "unit": "GH¢",
         "dec": 4,
-        "value": 0.7074,
+        "value": 0.7038,
         "prev": 0.7074,
-        "change": 0,
-        "pct": 0,
-        "at": "2026-09-14T18:28:59.000Z"
+        "change": -0.0036,
+        "pct": -0.51,
+        "at": "2026-09-14T19:58:56.000Z"
       },
       {
         "symbol": "CNYGHS=X",
         "name": "Yuan in cedis",
         "unit": "GH¢",
         "dec": 4,
-        "value": 1.7078,
+        "value": 1.7023,
         "prev": 1.6972,
-        "change": 0.0106,
-        "pct": 0.62,
-        "at": "2026-09-14T18:28:59.000Z"
+        "change": 0.0051,
+        "pct": 0.3,
+        "at": "2026-09-14T19:58:56.000Z"
       }
     ]
   },
