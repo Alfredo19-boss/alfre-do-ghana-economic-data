@@ -3,24 +3,125 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-14T10:47:58.421Z",
+  "updated": "2026-09-14T16:39:07.828Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
+    "Graphic Online",
+    "Graphic Business",
     "The High Street Journal",
     "Ghana Business News",
     "Ghana News Agency",
-    "News Ghana"
+    "News Ghana",
+    "Reuters",
+    "Citi Newsroom"
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Graphic Online: 4/25 stories",
+    "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 403)"
+    "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "GRA Moves To End Tax Penalty On Small Formal Businesses",
+      "link": "https://thehighstreetjournal.com/gra-moves-to-end-tax-penalty-on-small-formal-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T16:36:22.000Z",
+      "summary": "GRA proposes extending Modified Taxation Scheme to small limited liability companies with turnover up to GH¢750,000, seeking to reduce compliance burdens and encourage business…"
+    },
+    {
+      "title": "NPA increases price floor from September 16; petrol to sell at GH¢16, diesel at GH¢16.77",
+      "link": "https://www.myjoyonline.com/npa-increases-price-floor-from-september-16-petrol-to-sell-at-ghc16-diesel-at-ghc16-77/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T15:55:31.000Z",
+      "summary": "The development should mean that we are likely to see some significant increases in the prices of petroleum products from the current levels or price quotes by the various oil marketing…"
+    },
+    {
+      "title": "Elevate Africa Summit to push AfCFTA toward fully functional markets",
+      "link": "https://www.myjoyonline.com/elevate-africa-summit-to-push-afcfta-toward-fully-functional-markets/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T15:16:51.000Z",
+      "summary": "Accra will provide the setting for these discussions as Ghana continues to position itself as a key centre for Africa’s trade integration agenda. The city hosts the AfCFTA Secretariat…"
+    },
+    {
+      "title": "From Survival to Scale: Exploring How Businesses Start, Grow, Access Capital and Become Sustainable Enterprises",
+      "link": "https://thehighstreetjournal.com/from-survival-to-scale-exploring-how-businesses-start-grow-access-capital-and-become-sustainable-enterprises/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T15:03:00.000Z",
+      "summary": "From ideas to sustainable enterprises, exploring how businesses start, overcome challenges, access the right capital, grow, scale, create jobs and build lasting economic value."
+    },
+    {
+      "title": "GSE: More Shares Changed Hands, But Prices Generally Came Under Pressure Last Week",
+      "link": "https://thehighstreetjournal.com/gse-more-shares-changed-hands-but-prices-generally-came-under-pressure-last-week/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T14:53:22.000Z",
+      "summary": "GSE trading surged last week, with share volume and value rising sharply, even as prices generally declined and major market indices recorded weekly losses."
+    },
+    {
+      "title": "Supreme Court Restates Law on Advancement in Property Acquired in a Child’s Name",
+      "link": "https://thehighstreetjournal.com/supreme-court-restates-law-on-advancement-in-property-acquired-in-a-childs-name/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T14:08:15.000Z",
+      "summary": "The Supreme Court has reaffirmed the common law doctrine of advancement, holding that where a father acquires property in the name of his child, the law presumes that the property was…"
+    },
+    {
+      "title": "Societe Generale Ghana Clarifies Ownership Reports",
+      "link": "https://thehighstreetjournal.com/societe-generale-ghana-clarifies-ownership-reports/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T13:47:46.000Z",
+      "summary": "Societe Generale Ghana has distanced itself from reports that BOA and Access Bank are competing to acquire a majority stake, saying the claims were not officially communicated by the bank."
+    },
+    {
+      "title": "CBG launches five per cent loan scheme for PWD entrepreneurs",
+      "link": "https://gna.org.gh/2026/09/cbg-launches-five-per-cent-loan-scheme-for-pwd-entrepreneurs/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-14T13:27:24.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "Reimagining Land Administration to Support Development: A 9-Point Plan to Reform Land Sector",
+      "link": "https://thehighstreetjournal.com/reimagining-land-administration-to-support-development-a-9-point-plan-to-reform-land-sector/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T12:00:00.000Z",
+      "summary": "Dickson Assan proposes nine land reforms, including transaction-price databases, digitisation, stronger ownership protection, land-guard enforcement, urban valuation, taxation of idle…"
+    },
+    {
+      "title": "NACOC Arrests Three Over Alleged Bolle Jos Cocaine Trafficking Network",
+      "link": "https://thehighstreetjournal.com/nacoc-arrests-3-linked-to-bolle-jos/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T11:57:27.000Z",
+      "summary": "Suspects are being held as NACOC investigates alleged links to the Dutch fugitive’s operations"
+    },
+    {
+      "title": "Ghana’s Stronger Trade Position Builds External Buffer As Fitch Lifts 2026 Forecast",
+      "link": "https://thehighstreetjournal.com/ghanas-stronger-trade-position-builds-external-buffer-as-fitch-lifts-2026-forecast/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T11:36:00.000Z",
+      "summary": "Fitch Solutions has raised Ghana’s 2026 current account surplus forecast to 7.8% of GDP, citing stronger gold and crude exports that are boosting foreign exchange earnings and external…"
+    },
+    {
+      "title": "US Supplies More Than 73% of India’s LPG Imports as Supply Disruptions Persist",
+      "link": "https://thehighstreetjournal.com/us-supplies-more-than-73-of-indias-lpg/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T11:10:00.000Z",
+      "summary": "India imported 0.62 million tonnes of US LPG in August as geopolitical tensions constrain supplies"
+    },
+    {
+      "title": "Lower Port Delays Could Cut Cement Costs and Construction Pressure",
+      "link": "https://thehighstreetjournal.com/lower-port-delays-could-cut-cement-costs-and-construction-pressure/",
+      "source": "The High Street Journal",
+      "published": "2026-09-14T10:57:52.000Z",
+      "summary": "A temporary clinker berth at Tema Port could reduce demurrage and cement production costs, potentially easing pressure on construction expenses, infrastructure budgets and cement prices for…"
+    },
     {
       "title": "Workers must complement AI skills with professional expertise to remain relevant – ALX Enterprise",
       "link": "https://www.myjoyonline.com/workers-must-complement-ai-skills-with-professional-expertise-to-remain-relevant-alx-enterprise/",
@@ -64,11 +165,32 @@ window.GDC_NEWS = {
       "summary": "Brent climbed above $108 as Saudi pipeline shutdown and Hormuz uncertainty raised supply concerns, extending last week’s rally and adding pressure to Ghana’s fuel market."
     },
     {
+      "title": "Govt will make strategic investment in Zongo communities — Ayariga",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-will-make-strategic-investment-in-zongo-communities-ayariga.html",
+      "source": "Graphic Online",
+      "published": "2026-09-14T07:23:04.000Z",
+      "summary": "The Minister of Local Government, Chieftaincy, and Religious Affairs, Mahama Ayariga, has stated that the government will make strategic investment in Zongo communities to bridge the…"
+    },
+    {
+      "title": "GCB Bank partners Catholic Church to empower West African youth",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gcb-bank-partners-catholic-church-to-empower-west-african-youth.html",
+      "source": "Graphic Online",
+      "published": "2026-09-14T07:19:34.000Z",
+      "summary": "GCB Bank PLC is deepening its commitment to youth empowerment and financial inclusion through a partnership with the Catholic Church for a major regional gathering that brings young people…"
+    },
+    {
       "title": "Ghana and Uganda deepen upstream petroleum cooperation through peer learning",
       "link": "https://www.ghanabusinessnews.com/2026/09/14/ghana-and-uganda-deepen-upstream-petroleum-cooperation-through-peer-learning/",
       "source": "Ghana Business News",
       "published": "2026-09-14T07:01:14.000Z",
       "summary": "Ghana and Uganda are strengthening cooperation in the upstream petroleum sector through the exchange of practical lessons on petroleum governance, regulation and operations."
+    },
+    {
+      "title": "Ericsson celebrates 30 years partnership, digital transformation in Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ericsson-celebrates-30-years-partnership-digital-transformation-in-ghana.html",
+      "source": "Graphic Online",
+      "published": "2026-09-14T06:49:07.000Z",
+      "summary": "Technology company Ericsson has commemorated its 150th global anniversary and 30 years of operations in Ghana, celebrating a long-standing partnership with the government…"
     },
     {
       "title": "MTN deepens cybersecurity awareness as fraudsters evolve",
@@ -90,6 +212,13 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-09-14T06:22:45.000Z",
       "summary": "Mr Alban Sumana Kingsford Bahbin, the Speaker of Parliament, has challenged the Ewe diaspora to move beyond cultural celebration and remittances to leverage its global network as a catalyst…"
+    },
+    {
+      "title": "Stakeholders agree to decongest Tema Port",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-stakeholders-agree-to-decongest-tema-port.html",
+      "source": "Graphic Online",
+      "published": "2026-09-14T06:16:42.000Z",
+      "summary": "The Government is working to expand port facilities, including the development of the Keta Port, to accommodate increasing cargo volumes and improve efficiency."
     },
     {
       "title": "From Homes to High Finance: How Ghana’s Banking Industry Balances Credit Growth and Profitability",
@@ -951,34 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-09T16:07:46.000Z",
       "summary": "The National Communications Authority (NCA) has completed the qualification stage of its Request for Applications for spectrum licences in the 700 MHz, 2.3 GHz and 3 GHz bands, with three…"
-    },
-    {
-      "title": "The Role of Governance in Sustainability of Small and Medium Scale Enterprises (SMEs) in Ghana: A critical analysis of practical issues",
-      "link": "https://www.myjoyonline.com/the-role-of-governance-in-sustainability-of-small-and-medium-scale-enterprises-smes-in-ghana-a-critical-analysis-of-practical-issues/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T14:46:57.000Z",
-      "summary": "Background Governance plays a direct role in whether a small- or medium scale business survives beyond its founder, uses resources efficiently, attracts finance and responds successfully to…"
-    },
-    {
-      "title": "Ghana’s electricity generation continues to decline, recorded peak demand of 3968MW in July 2026 – PURC",
-      "link": "https://www.myjoyonline.com/ghanas-electricity-generation-continues-to-decline-recorded-peak-demand-of-3968mw-in-july-2026-purc/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T14:19:52.000Z",
-      "summary": "According to the report, generation remained resilient, however, the intermittent decline in generation highlights the need to closely monitor generation availability and fuel supply to…"
-    },
-    {
-      "title": "GTP, Woodin acquisition puts local private equity expertise in the spotlight",
-      "link": "https://www.myjoyonline.com/gtp-woodin-acquisition-puts-local-private-equity-expertise-in-the-spotlight/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-09T13:48:36.000Z",
-      "summary": "A Ghanaian-led private equity transaction involving two of the country’s most recognised textile brands, GTP and Woodin, is putting local ownership and homegrown investment expertise at the…"
-    },
-    {
-      "title": "Fidelity Bank champions value-chain approach Agriculture funding",
-      "link": "https://gna.org.gh/2026/09/fidelity-bank-champions-value-chain-approach-agriculture-funding/",
-      "source": "Ghana News Agency",
-      "published": "2026-09-09T11:53:02.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     }
   ]
 };
