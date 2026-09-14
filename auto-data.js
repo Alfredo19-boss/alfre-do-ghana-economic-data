@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-09-14T15:40:16.424Z",
+  "updated": "2026-09-14T19:14:10.539Z",
   "values": {
     "fx.usd": {
       "value": 11.4391,
@@ -31,7 +31,7 @@ window.GDC_AUTO = {
       "note": "Per ounce"
     },
     "cocoa.usdPerTonne": {
-      "value": 6051,
+      "value": 6029,
       "date": "2026-09-14",
       "source": "ICE New York cocoa futures",
       "url": "https://finance.yahoo.com/quote/CC=F",
@@ -116,40 +116,40 @@ window.GDC_AUTO = {
       },
       {
         "date": "2026-09-14",
-        "value": 6051
+        "value": 6029
       }
     ]
   },
   "fxTable": {
-    "date": "2026-09-14",
+    "date": "2026-09-13",
     "rates": {
       "USD": {
-        "ghs": 11.4615,
-        "src": "BoG"
+        "ghs": 11.4391,
+        "src": "market"
       },
       "GBP": {
-        "ghs": 15.5029,
-        "src": "BoG"
+        "ghs": 15.4748,
+        "src": "market"
       },
       "CHF": {
-        "ghs": 14.0482,
-        "src": "BoG"
+        "ghs": 14.0103,
+        "src": "market"
       },
       "AUD": {
-        "ghs": 8.2188,
-        "src": "BoG"
+        "ghs": 8.20259,
+        "src": "market"
       },
       "CAD": {
-        "ghs": 8.2576,
-        "src": "BoG"
+        "ghs": 8.24799,
+        "src": "market"
       },
       "DKK": {
         "ghs": 1.7802,
         "src": "BoG"
       },
       "JPY": {
-        "ghs": 0.0747,
-        "src": "BoG"
+        "ghs": 0.0744885,
+        "src": "market"
       },
       "NZD": {
         "ghs": 6.6631,
@@ -164,83 +164,83 @@ window.GDC_AUTO = {
         "src": "BoG"
       },
       "ZAR": {
-        "ghs": 0.7104,
-        "src": "BoG"
+        "ghs": 0.709519,
+        "src": "market"
       },
       "EUR": {
-        "ghs": 13.3066,
-        "src": "BoG"
+        "ghs": 13.2678,
+        "src": "market"
       },
       "CNY": {
-        "ghs": 1.7088,
-        "src": "BoG"
+        "ghs": 1.70488,
+        "src": "market"
       },
       "XOF": {
-        "ghs": 0.0202858,
-        "src": "BoG"
+        "ghs": 0.0202267,
+        "src": "market"
       },
       "GMD": {
-        "ghs": 0.157151,
-        "src": "BoG"
+        "ghs": 0.153403,
+        "src": "market"
       },
       "MRO": {
         "ghs": 0.0320601,
         "src": "BoG"
       },
       "NGN": {
-        "ghs": 0.00863129,
-        "src": "BoG"
+        "ghs": 0.00862105,
+        "src": "market"
       },
       "SLL": {
-        "ghs": 0.474338,
-        "src": "BoG"
+        "ghs": 0.000498654,
+        "src": "market"
       },
       "AED": {
-        "ghs": 3.11825,
+        "ghs": 3.11481,
         "src": "market"
       },
       "INR": {
-        "ghs": 0.119696,
+        "ghs": 0.119689,
         "src": "market"
       },
       "SAR": {
-        "ghs": 3.05381,
+        "ghs": 3.05043,
         "src": "market"
       },
       "KES": {
-        "ghs": 0.0884692,
+        "ghs": 0.0883853,
         "src": "market"
       },
       "EGP": {
-        "ghs": 0.222935,
+        "ghs": 0.222721,
         "src": "market"
       },
       "MAD": {
-        "ghs": 1.21837,
+        "ghs": 1.21585,
         "src": "market"
       },
       "XAF": {
-        "ghs": 0.0201951,
+        "ghs": 0.0202267,
         "src": "market"
       },
       "TZS": {
-        "ghs": 0.00432653,
+        "ghs": 0.00433746,
         "src": "market"
       },
       "UGX": {
-        "ghs": 0.00296036,
+        "ghs": 0.00295698,
         "src": "market"
       },
       "ETB": {
-        "ghs": 0.070972,
+        "ghs": 0.0709513,
         "src": "market"
       },
       "RWF": {
-        "ghs": 0.00778493,
+        "ghs": 0.00776801,
         "src": "market"
       },
       "BWP": {
-        "ghs": 0.850081,
+        "ghs": 0.815649,
         "src": "market"
       }
     },
@@ -369,6 +369,15 @@ window.GDC_AUTO = {
     }
   },
   "log": [
+    {
+      "at": "2026-09-14T19:14:10.539Z",
+      "messages": [
+        "BoG FX failed: fetch failed",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok",
+        "kept newer gold.usdPerOz from 2026-09-14"
+      ]
+    },
     {
       "at": "2026-09-14T15:40:16.424Z",
       "messages": [
