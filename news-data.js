@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-14T23:24:11.160Z",
+  "updated": "2026-09-15T01:37:58.364Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,7 +23,7 @@ window.GDC_NEWS = {
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: 1/1 stories",
+    "Ghana News Agency: failed (HTTP 415)",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
@@ -31,6 +31,13 @@ window.GDC_NEWS = {
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "AI ‘kill switch’ may need to be mandatory, Anthropic co-founder says",
+      "link": "https://www.myjoyonline.com/ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T23:46:00.000Z",
+      "summary": "An artificial intelligence \"kill switch\" which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world's largest AI firms has said."
+    },
     {
       "title": "China Capital: Ghana COCOBOD’s multibillion-cedi profit masks a record of financial recklessness",
       "link": "https://www.ghanabusinessnews.com/2026/09/14/china-capital-ghana-cocobods-multibillion-cedi-profit-masks-a-record-of-financial-recklessness/",
@@ -1073,13 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-10T07:31:13.000Z",
       "summary": "Republic Bank (Ghana) PLC has signed a strategic Memorandum of Understanding (MoU) with the University of Professional Studies, Accra (UPSA), establishing a framework for long-term…"
-    },
-    {
-      "title": "Ghana woos Australian investors into critical minerals",
-      "link": "https://www.myjoyonline.com/ghana-woos-australian-investors-into-critical-minerals/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T07:14:20.000Z",
-      "summary": "Ghana has made a strong pitch to Australian investors for its fast-growing critical minerals sector, positioning itself as a stable, reform-driven hub for the global energy transition at…"
     }
   ]
 };

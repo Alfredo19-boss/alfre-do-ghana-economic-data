@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-14T23:24:26.288Z",
+  "updated": "2026-09-15T01:38:11.784Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,100 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Valencia sack Corberan and chief executive",
+      "link": "https://www.myjoyonline.com/valencia-sack-corberan-and-chief-executive/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T00:23:00.000Z",
+      "summary": "Valencia have sacked head coach Carlos Corberan and their football chief executive Ron Gourlay after a winless start to the season.",
+      "categories": [
+        "Football",
+        "Carlos Corberan",
+        "La Liga",
+        "Valencia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ronaldo demands lifetime bans over Jota chants",
+      "link": "https://www.myjoyonline.com/ronaldo-demands-lifetime-bans-over-jota-chants/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T00:14:00.000Z",
+      "summary": "Portugal star Cristiano Ronaldo has called for lifetime bans to be issued to fans who chanted the late Diogo Jota's name towards his international team-mate Ruben Neves.",
+      "categories": [
+        "Football",
+        "Cristiano Ronaldo",
+        "Diogo Jota"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arsenal to contact Pro Ref over Konsa penalty",
+      "link": "https://www.myjoyonline.com/arsenal-to-contact-pro-ref-over-konsa-penalty/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T00:05:00.000Z",
+      "summary": "Arsenal will contact refereeing body Pro Ref over the incident in which Ezri Konsa conceded a penalty in Saturday's win over Sunderland.",
+      "categories": [
+        "Football",
+        "Arsenal",
+        "Ezri Konsa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No weekend game for Manchester derby VAR officials",
+      "link": "https://www.myjoyonline.com/no-weekend-game-for-manchester-derby-var-officials/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T23:55:00.000Z",
+      "summary": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, have not been appointed for this weekend's Premier League games.",
+      "categories": [
+        "Football",
+        "Manchester derby",
+        "VAR"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AI ‘kill switch’ may need to be mandatory, Anthropic co-founder says",
+      "link": "https://www.myjoyonline.com/ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T23:46:00.000Z",
+      "summary": "An artificial intelligence \"kill switch\" which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world's largest AI firms has said.",
+      "categories": [
+        "Technology",
+        "Anthropic",
+        "Artificial Intelligence (AI)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Culture shift’ needed in how UK does business, PM urges",
+      "link": "https://www.myjoyonline.com/culture-shift-needed-in-how-uk-does-business-pm-urges/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T23:35:00.000Z",
+      "summary": "The UK needs a \"culture shift\" in how it does business, Andy Burnham has said ahead of a meeting between some of Britain's biggest bosses and the government.",
+      "categories": [
+        "International",
+        "Andy Burnham",
+        "Culture shift",
+        "UK PM"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SHS placement crisis? GES says 95% of students are already placed",
+      "link": "https://www.myjoyonline.com/shs-placement-crisis-ges-says-95-of-students-are-already-placed/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T23:26:00.000Z",
+      "summary": "The Ghana Education Service (GES) says that about 95% of students seeking admission to senior high schools have already been placed, pushing back against growing concerns about this year’s…",
+      "categories": [
+        "Education",
+        "HP News 1",
+        "Computerised School Selection and Placement System (CSSPS)",
+        "Ghana Education Service"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "ITF World Tennis Tour Juniors: J60 stage begins in Accra",
       "link": "https://www.myjoyonline.com/itf-world-tennis-tour-juniors-j60-stage-begins-in-accra/",
       "source": "MyJoyOnline",
@@ -35,101 +129,6 @@ window.GDC_PAPERS = {
         "Tennis",
         "ITF J60",
         "ITF World Tennis Junior Tournament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Absa Bank named winner of Bancassurance Leadership Award at 2026 Ghana Insurance Awards",
-      "link": "https://www.myjoyonline.com/absa-bank-named-winner-of-bancassurance-leadership-award-at-2026-ghana-insurance-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T23:05:00.000Z",
-      "summary": "Absa Bank Ghana LTD has been recognised as the winner of the Bancassurance Leadership Award 2026 at the Ghana Insurance Awards, honouring the bank’s efforts in delivering integrated…",
-      "categories": [
-        "Banking and Finance",
-        "2026 Ghana Insurance Awards",
-        "Absa Bank Ghana",
-        "Bancassurance Leadership Award"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mr. Aloysius Kwesi Acquah Snr aka Kwesi Anfo",
-      "link": "https://www.myjoyonline.com/mr-aloysius-kwesi-acquah-snr-aka-kwesi-anfo/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T22:53:13.000Z",
-      "summary": "Twidan Ebusua of Nkowdwo and Cape Coast, Ebusua Panyin Yaw Asiedu, Nana Henmaa Ama Kweewa II, Nana Motwey IV of Nkowdwo, Nana Dadzie (Mankrado of Amoyaw), Nana Amoyaw Il of Amoyaw…",
-      "categories": [
-        "Obituary"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC’s cocaine suspects arrest commendable, but it cannot run on ‘charity’ to fight drug cartels",
-      "link": "https://www.myjoyonline.com/nacocs-cocaine-suspects-arrest-commendable-but-it-cannot-run-on-charity-to-fight-drug-cartels/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T22:44:00.000Z",
-      "summary": "The arrest of three suspects linked to Dutch fugitive Jos Leijdekkers, alias \"Bolle Jos\", by the Narcotics Control Commission (NACOC) following the $260 million cocaine seizure in Dunkirk…",
-      "categories": [
-        "Opinion",
-        "Cocaine bust",
-        "NACOC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t cannot deny what it has already set in motion – Former NaCCA boss challenges Mahama on Arabic, Chinese policy",
-      "link": "https://www.myjoyonline.com/govt-cannot-deny-what-it-has-already-set-in-motion-former-nacca-boss-challenges-mahama-on-arabic-chinese-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T22:32:00.000Z",
-      "summary": "A former head of the National Council for Curriculum and Assessment (NaCCA), Dr Prince Hamid Armah, has challenged President John Mahama’s claim that there was never a policy to introduce…",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "Arabic",
-        "Chinese",
-        "Dr Prince Hamid Armah",
-        "NaCCA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Telecel Foundation marks Fetu Afahye with HealthFest",
-      "link": "https://www.myjoyonline.com/telecel-foundation-marks-fetu-afahye-with-healthfest/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T22:16:00.000Z",
-      "summary": "Marking this year’s Fetu Afahye celebrations, the Telecel Ghana Foundation provided free health screening to residents of Abura, Central Region, under its connected health pillar.",
-      "categories": [
-        "Health",
-        "Fetu Afahye",
-        "Telecel Foundation",
-        "Telecel Healthfest"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IEAG calls for urgent intervention to decongest ports",
-      "link": "https://www.myjoyonline.com/ieag-calls-for-urgent-intervention-to-decongest-ports/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T22:07:00.000Z",
-      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called for an urgent intervention, led by the Chief of Staff, to address the worsening congestion and operational bottlenecks at…",
-      "categories": [
-        "Economy",
-        "National",
-        "Harbour",
-        "Importers and Exporters Association of Ghana (IEAG)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Strong financial, technical capacity non-negotiable for Accra-Kumasi Expressway – Agbodza",
-      "link": "https://www.myjoyonline.com/strong-financial-technical-capacity-non-negotiable-for-accra-kumasi-expressway-agbodza/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T21:56:00.000Z",
-      "summary": "Government says firms seeking to undertake the Accra-Kumasi Expressway project must demonstrate strong financial and technical capacity, as it moves to ensure quality, value for money and…",
-      "categories": [
-        "National",
-        "Accra-Kumasi expressway",
-        "Governs Kwame Agbodza"
       ],
       "site": "https://www.myjoyonline.com/"
     },
