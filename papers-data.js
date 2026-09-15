@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-15T19:56:58.719Z",
+  "updated": "2026-09-15T22:42:33.386Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,114 +25,114 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Chris Wilder backs Jordan Ayew to be a success at Sheffield United",
-      "link": "https://www.myjoyonline.com/chris-wilder-backs-jordan-ayew-to-be-a-success-at-sheffield-united/",
+      "title": "Kylian Mbappé scores, sets up winner as Real Madrid top Elche",
+      "link": "https://www.myjoyonline.com/kylian-mbappe-scores-sets-up-winner-as-real-madrid-top-elche/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T19:51:47.000Z",
-      "summary": "Sheffield United manager Chris Wilder has backed new signing Jordan Ayew to be a success at the club. The 35-year-old joined the Blades on a one-year contract after his deal with Leicester…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Forestry Commission arrests 12 illegal miners, impounds three excavators in South Formangso Forest Reserve",
-      "link": "https://www.myjoyonline.com/forestry-commission-arrests-12-illegal-miners-impounds-three-excavators-in-south-formangso-forest-reserve/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T19:42:24.000Z",
-      "summary": "The Forestry Commission has arrested 12 suspected illegal miners and impounded three excavators during an operation in the South Formangso Forest Reserve in the Ashanti Region. The…",
-      "categories": [
-        "Regional",
-        "excavators",
-        "forest reserve",
-        "Forestry Commission",
-        "ILLEGAL MINERS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s mineral resources must benefit host communities – Lands Minister",
-      "link": "https://www.myjoyonline.com/ghanas-mineral-resources-must-benefit-host-communities-lands-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T19:35:08.000Z",
-      "summary": "Minister for Lands and Natural Resources, Emmanuel Armah Kofi-Buah, says Ghana’s mineral resources must generate tangible benefits for communities where mining activities take place. He…",
-      "categories": [
-        "National",
-        "Host communities",
-        "Lands Minister",
-        "Mineral resources"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kudus makes first Tottenham start since January against Liverpool",
-      "link": "https://www.myjoyonline.com/kudus-makes-first-tottenham-start-since-january-against-liverpool/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T19:32:01.000Z",
-      "summary": "Mohammed Kudus has been named in Tottenham Hotspur’s starting lineup for the first time since January as they face Liverpool in the Carabao Cup. The Ghana international has returned to…",
+      "published": "2026-09-15T22:38:29.000Z",
+      "summary": "Carlos Espí tapped in a stoppage-time winner — from a Kylian Mbappé assist — as Real Madrid won 3-2 at Elche after letting slip a two-goal lead to climb level on points with Barcelona at…",
       "categories": [
         "Football",
         "Sports",
-        "Liverpool",
+        "Carlos Espí",
+        "Elche",
+        "Kylian Mbappé",
+        "Real Madrid"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "link": "https://www.myjoyonline.com/tuchel-regrets-not-eating-azteca-turf-after-win-over-mexico/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T22:36:00.000Z",
+      "summary": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's World Cup win against Mexico.",
+      "categories": [
+        "Football",
+        "Azteca",
+        "Thomas Tuchel",
+        "World Cup"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kudus ends 257-day wait for Tottenham start against Liverpool",
+      "link": "https://www.myjoyonline.com/kudus-ends-257-day-wait-for-tottenham-start-against-liverpool/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T22:33:49.000Z",
+      "summary": "Tottenham and Ghana forward Mohammed Kudus made his long-awaited return to the starting lineup, playing 75 minutes in Spurs’ Carabao Cup third-round clash with Liverpool at Anfield. The…",
+      "categories": [
+        "Football",
+        "Sports",
         "Mohammed Kudus",
         "Tottenham Hotspur"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government launches five-year initiative to improve emergency maternal and newborn care",
-      "link": "https://www.myjoyonline.com/government-launches-five-year-initiative-to-improve-emergency-maternal-and-newborn-care/",
+      "title": "Coutinho joins Neymar at Santos for rest of season",
+      "link": "https://www.myjoyonline.com/coutinho-joins-neymar-at-santos-for-rest-of-season/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T19:26:00.000Z",
-      "summary": "Government has launched a five-year Presidential Initiative on Maternal Health Emergency Response (PRIMER) as part of efforts to reduce maternal mortality and improve emergency care for…",
+      "published": "2026-09-15T22:27:00.000Z",
+      "summary": "Philippe Coutinho has joined his close friend and Brazil team-mate Neymar at Santos FC until the end of the season.",
       "categories": [
-        "National",
-        "Emergency",
-        "Government",
-        "Maternal",
-        "newborn care"
+        "Football",
+        "Coutinho",
+        "Santos"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "President Mahama will hear about colts football now – GFA President at League launch",
-      "link": "https://www.myjoyonline.com/president-mahama-will-hear-about-colts-football-now-gfa-president-at-league-launch/",
+      "title": "Szoboszlai stunner helps Liverpool knock out Spurs",
+      "link": "https://www.myjoyonline.com/szoboszlai-stunner-helps-liverpool-knock-out-spurs/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T19:25:38.000Z",
-      "summary": "GFA President Kurt Okraku has reiterated his administration’s commitment to developing grassroots football in Ghana. Okraku made the remarks at the launch of the 2026/27 Colts Football…",
+      "published": "2026-09-15T22:26:16.000Z",
+      "summary": "Tottenham’s difficult start to the season continued as they were knocked out of the Carabao Cup by a largely second string Liverpool side. Roberto de Zerbi’s team at least managed to score…",
       "categories": [
         "Football",
         "Sports",
-        "Colts Football League",
-        "Kurt Okraku",
-        "President Mahama"
+        "Carabao cup",
+        "Liverpool",
+        "Tottenham Hotspur"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Minority says Foreign Ministry has failed to release GH¢50m evacuation records despite RTI request",
-      "link": "https://www.myjoyonline.com/minority-says-foreign-ministry-has-failed-to-release-gh%c2%a250m-evacuation-records-despite-rti-request/",
+      "title": "Richarlison posts crying emoji after Spurs cup snub",
+      "link": "https://www.myjoyonline.com/richarlison-posts-crying-emoji-after-spurs-cup-snub/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T19:20:10.000Z",
-      "summary": "The Minority in Parliament says the Ministry of Foreign Affairs has failed to provide detailed expenditure records on the nearly GH¢50 million spent on the evacuation and reintegration of…",
+      "published": "2026-09-15T22:18:00.000Z",
+      "summary": "Richarlison has publicly expressed his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
       "categories": [
-        "Politics",
-        "Minority in Parliament",
-        "RTI request",
-        "South Africa evacuation"
+        "News",
+        "Richarlison",
+        "Spurs"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Minority withholds participation in SA evacuation briefing until GH¢50m records are released",
-      "link": "https://www.myjoyonline.com/minority-withholds-participation-in-sa-evacuation-briefing-until-gh50m-records-are-released/",
+      "title": "Ghana Dance Festival 2026 begins seven-day celebration in Accra",
+      "link": "https://www.myjoyonline.com/ghana-dance-festival-2026-begins-seven-day-celebration-in-accra/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T19:16:49.000Z",
-      "summary": "The Minority Caucus on Parliament’s Foreign Affairs Committee says it will boycott a closed-door meeting on the evacuation of Ghanaians from South Africa unless government provides a full…",
+      "published": "2026-09-15T22:16:19.000Z",
+      "summary": "The Ghana Dance Festival 2026 has begun in Accra, with a seven-day programme of performances, workshops, dance battles, seminars and social dancing.",
       "categories": [
-        "Politics",
-        "Samuel Abdulai Jinapor",
-        "South Africa Evacuation Meeting"
+        "Events",
+        "Dancetera",
+        "Ghana Dance Festival 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dowman scores twice as Arsenal beat Ipswich",
+      "link": "https://www.myjoyonline.com/dowman-scores-twice-as-arsenal-beat-ipswich-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T22:09:00.000Z",
+      "summary": "Max Dowman scored twice as Arsenal eased to a Carabao Cup third-round victory at Ipswich Town.",
+      "categories": [
+        "Football",
+        "Arsenal",
+        "Ipswich",
+        "Max Dowman"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -148,6 +148,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Chen Yuanyu Beats Omar Assar in WTT Champions Opener",
+      "link": "https://ghanaiantimes.com.gh/chen-yuanyu-beats-omar-assar-in-wtt-champions-opener/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T18:07:19.000Z",
+      "summary": "ALT: Table tennis ball struck by a paddle during a fast rally. Chen Yuanyu opened WTT Champions Macao on 8 September with a 3–0 victory over Omar Assar, but the individual games were…",
+      "categories": [
+        "Technology"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Majority in a poll blame double-track for decline in SHS quality",
       "link": "https://www.graphic.com.gh/news/general-news/majority-in-a-poll-blame-double-track-for-decline-in-shs-quality.html",
       "source": "Daily Graphic",
@@ -157,6 +168,18 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Police to begin full implementation of automated traffic enforcement from October 1",
+      "link": "https://ghanaiantimes.com.gh/police-to-begin-full-implementation-of-automated-traffic-enforcement-from-october-1/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T17:25:00.000Z",
+      "summary": "The Ghana Police Service, through the Motor Traffic and Transport Department (MTTD), will commence full implementation of its automated traffic law enforcement programme, TRAFFITECH-GH…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Fidelity Bank donates GH¢200,000 to Ghana Medical Trust Fund",
@@ -263,18 +286,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Gov’t to broadcast Assembly meetings live to boost transparency — Mahama Ayariga",
-      "link": "https://ghanaiantimes.com.gh/govt-to-broadcast-assembly-meetings-live-to-boost-transparency-mahama-ayariga/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T13:22:18.000Z",
-      "summary": "Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has announced plans to provide live coverage of General Assembly and Town Hall meetings across…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana, Columbus sign MoU to deploy nurses to US",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-columbus-sign-mou-to-open-us-jobs-for-nurses.html",
       "source": "Daily Graphic",
@@ -317,17 +328,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Scientists turn to 3D imaging to improve crop yields",
-      "link": "https://ghanaiantimes.com.gh/scientists-turn-to-3d-imaging-to-improve-crop-yields/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T09:42:57.000Z",
-      "summary": "Scientists in Ghana are set to “see” beneath the soil surface in real time for the first time, using a new technology expected to improve climate-resilient farming and deepen understanding…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "SIC, NSIA bosses win CEO penalty shootout at 2026 Insurance Fun Games",

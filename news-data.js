@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-15T19:56:43.225Z",
+  "updated": "2026-09-15T22:42:19.766Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,12 +25,33 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
     "Reuters wire: 0 stories",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "GIIF’s Accra-Kumasi Expressway Ltd. SPV Initiative: A bold blueprint for financing Ghana’s infrastructure development",
+      "link": "https://www.myjoyonline.com/giifs-accra-kumasi-expressway-ltd-spv-initiative-a-bold-blueprint-for-financing-ghanas-infrastructure-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T20:37:38.000Z",
+      "summary": "It is against this backdrop that the initiative by the Ghana Infrastructure Investment Fund (GIIF) to advance the Accra–Kumasi Expressway through a dedicated Special Purpose Vehicle (SPV)…"
+    },
+    {
+      "title": "GRA targets over double revenue by 2028",
+      "link": "https://www.myjoyonline.com/gra-targets-over-double-revenue-by-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T20:25:54.000Z",
+      "summary": "Mr Sarpong said the GRA is seeking to double the revenue it collected in 2024 by 2028, while improving tax compliance and creating a more predictable environment for businesses."
+    },
+    {
+      "title": "GNPC Explorco showcases Voltaian Basin exploration potential at AOW:Energy 2026",
+      "link": "https://www.myjoyonline.com/gnpc-explorco-showcases-voltaian-basin-exploration-potential-at-aowenergy-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T20:16:45.000Z",
+      "summary": "Ghana's national exploration company, GNPC Explorco, has showcased the investment and exploration potential of the Voltaian Basin as the country seeks to attract fresh investment into its…"
+    },
     {
       "title": "Coronation Insurance appoints Bridget Puorideme as acting Head of Sales and Distribution",
       "link": "https://www.myjoyonline.com/coronation-insurance-appoints-bridget-puorideme-as-acting-head-of-sales-and-distribution/",
@@ -1059,27 +1080,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-12T13:08:43.000Z",
       "summary": "Government is partnering a private investor to develop a cut-flower corridor linking northern production to Tamale Air Cargo Hub, targeting European, West African, Gulf and domestic markets."
-    },
-    {
-      "title": "Ghana must turn horticulture into global export powerhouse – Vice President Naana Jane",
-      "link": "https://www.myjoyonline.com/ghana-must-turn-horticulture-into-global-export-powerhouse-vice-president-naana-jane/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T13:05:46.000Z",
-      "summary": "Vice President Prof Naana Jane Opoku-Agyemang has challenged Ghana to build a competitive horticulture industry capable of creating jobs, expanding businesses and breaking into global…"
-    },
-    {
-      "title": "Ghana Grows the Fruit, But Too Much Is Lost Before Processing — Can Tax Relief Close the Gap?",
-      "link": "https://thehighstreetjournal.com/ghana-grows-the-fruit-but-too-much-is-lost-before-processing-can-tax-relief-close-the-gap/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T13:00:00.000Z",
-      "summary": "Ghana’s fruit juice tax relief could boost local processing and demand for farmers’ produce, but better roads, transport, power and storage remain essential."
-    },
-    {
-      "title": "Oil & Gas 6-Year Decline Could End This Year, Data Shows",
-      "link": "https://thehighstreetjournal.com/oil-gas-6-year-decline-could-end-this-year-data-shows/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T12:00:18.000Z",
-      "summary": "Ghana’s oil and gas sector grew 22.4% in Q2 2026, driven by new investments, drilling, and field expansions that could end a six-year decline."
     }
   ]
 };
