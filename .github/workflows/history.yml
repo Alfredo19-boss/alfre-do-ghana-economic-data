@@ -1,10 +1,11 @@
 name: Update long history
 
-# Once a month: Ghana's annual series back to 1993 from the World Bank's open data API.
+# Every morning: Ghana's annual series back to 1993 from the World Bank's open data API.
 # Feeds the "Since 1993" chart behind every figure. Writes history-data.js and commits it.
+# The sources publish annually, so most mornings there is nothing new and nothing is committed.
 on:
   schedule:
-    - cron: "40 6 3 * *"   # 06:40 GMT on the 3rd of each month
+    - cron: "40 6 * * *"   # 06:40 GMT, every day (Ghana runs on GMT, so 6:40 a.m. in Accra)
   workflow_dispatch:        # "Run workflow" button in the Actions tab
 
 permissions:
