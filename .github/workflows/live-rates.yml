@@ -16,8 +16,12 @@ permissions:
   contents: write
   pages: write
 
+# Its own concurrency group. A shared one meant this run sat pending behind the
+# five-minute news job and was cancelled by the next pending run before it ever
+# started; each job now queues only against itself. Simultaneous commits are safe
+# because every job rebases on origin before it pushes.
 concurrency:
-  group: data-commits
+  group: live-rates
   cancel-in-progress: false
 
 jobs:

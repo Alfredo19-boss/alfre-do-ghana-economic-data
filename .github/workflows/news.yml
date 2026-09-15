@@ -13,8 +13,12 @@ permissions:
   contents: write
   pages: write
 
+# Its own concurrency group. All the data jobs used to share one, and because this job runs
+# most often it kept the lane busy — the slower jobs sat pending and were cancelled by the
+# next pending run before they ever started. Each job now queues only against itself.
+# Simultaneous commits are safe because every job rebases on origin before it pushes.
 concurrency:
-  group: data-commits
+  group: news
   cancel-in-progress: false
 
 jobs:
@@ -47,4 +51,4 @@ jobs:
         if: success()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || true
+        run: gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || echo "Pages will rebuild on its own schedule."
