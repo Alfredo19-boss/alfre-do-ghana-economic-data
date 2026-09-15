@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-15T12:08:35.587Z",
+  "updated": "2026-09-15T16:54:51.570Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -19,18 +19,116 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 4/25 stories",
+    "Graphic Online: 2/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Fidelity Bank donates GH¢200,000 to Ghana Medical Trust Fund",
+      "link": "https://www.graphic.com.gh/news/general-news/fidelity-bank-donates-ghc200-000-to-ghana-medical-trust-fund.html",
+      "source": "Graphic Online",
+      "published": "2026-09-15T16:47:54.000Z",
+      "summary": "Fidelity Bank Ghana has stepped up its support for healthcare delivery with a GH¢200,000 cash donation to the Ghana Medical Trust Fund (GMTF) to help provide specialised treatment for…"
+    },
+    {
+      "title": "What the Law Expects After a Wrong: The Duty to Mitigate Loss",
+      "link": "https://thehighstreetjournal.com/what-the-law-expects-after-a-wrong-the-duty-to-mitigate-loss/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T16:30:00.000Z",
+      "summary": "A person who causes the loss may be responsible for the wrong, but the law will not necessarily make that person responsible for a loss that the injured party could reasonably have prevented"
+    },
+    {
+      "title": "GoldBod, EOCO Move to Track Illicit Financial Flows in Ghana’s Gold Trade",
+      "link": "https://thehighstreetjournal.com/goldbod-eoco-move-to-track-illicit-financial-flows-in-ghanas-gold-trade/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T16:00:41.000Z",
+      "summary": "New partnership targets hidden financial flows threatening the integrity of Ghana’s gold industry."
+    },
+    {
+      "title": "Cedi weakens as forex demand outpaces interbank supply; one dollar equals GH¢11.95",
+      "link": "https://www.myjoyonline.com/cedi-weakens-as-forex-demand-outpaces-interbank-supply-one-dollar-equals-gh%c2%a211-95/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T15:51:30.000Z",
+      "summary": "Going forward, the research firm expects the cedi to retain a mild depreciation bias in the coming weeks. However, GoldBod’s planned US$700 million forex supply to commercial banks…"
+    },
+    {
+      "title": "Petrol prices could jump nearly 10% from Sept 16 – COPEC",
+      "link": "https://www.myjoyonline.com/petrol-prices-could-jump-nearly-10-from-sept-16-copec/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T15:28:29.000Z",
+      "summary": "Petrol, diesel and Liquefied Petroleum Gas (LPG) prices are projected to increase from Wednesday, September 16, 2026, according to the Chamber of Petroleum Consumers (COPEC)."
+    },
+    {
+      "title": "President Mahama Inaugurates Phase III of Zonda Tec Ghana Assembly Plant",
+      "link": "https://thehighstreetjournal.com/president-mahama-inaugurates-phase-iii-of-zonda-tec-ghana-assembly-plant/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T15:16:39.000Z",
+      "summary": "Mahama commissions Zonda Tec’s Phase III plant, urging local production of vehicle components, stronger automotive supply chains and financing to drive Ghana’s manufacturing ambitions."
+    },
+    {
+      "title": "Laboma Demolitions: Any Remedy for the Purchaser of “Illegal” Land?",
+      "link": "https://thehighstreetjournal.com/laboma-demolitions-any-remedy-for-the-purchaser-of-illegal-land/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T15:09:00.000Z",
+      "summary": "The law can provide a remedy where a vendor knowingly sells land in which he has no interest. But the law also has little sympathy for a claimant seeking to recover from an illegality in…"
+    },
+    {
+      "title": "Importers Warn Port Charges, Congestion Threaten Ghana’s Trade Competitiveness",
+      "link": "https://thehighstreetjournal.com/importers-warn-port-charges-congestion-threaten-ghanas-trade-competitiveness/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T14:21:00.000Z",
+      "summary": "IEAG says disputed container charges and port congestion are raising trade costs, urging stronger maritime oversight and a review of shipping industry board representation to protect…"
+    },
+    {
+      "title": "MD of GCB Bank Says Africa’s Risk Reputation is Built on Perception and Not the Reality",
+      "link": "https://thehighstreetjournal.com/md-of-gcb-bank-says-africas-risk-reputation-is-built-on-perception-and-not-the-reality/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T14:06:00.000Z",
+      "summary": "GCB MD Farihan Alhassan says Africa’s risk perception is misplaced, with transactions often priced far above peers despite strong loan repayment, arguing that exaggerated risk perceptions…"
+    },
+    {
+      "title": "Vehicle assemblers must meet local content threshold to enjoy VAT exemption – Mahama",
+      "link": "https://www.myjoyonline.com/vehicle-assemblers-must-meet-local-content-threshold-to-enjoy-vat-exemption-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T14:00:08.000Z",
+      "summary": "President John Dramani Mahama has announced that vehicle assemblers in Ghana will be required to meet a specified local assembly threshold to qualify for VAT exemptions under new incentives…"
+    },
+    {
+      "title": "Ghana Tightens Drone Oversight As Commercial Use Expands",
+      "link": "https://thehighstreetjournal.com/ghana-tightens-drone-oversight-as-commercial-use-expands/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T13:30:00.000Z",
+      "summary": "GCAA is tightening risk-based drone regulation as commercial use expands in healthcare, agriculture, mining and infrastructure, seeking to support innovation while protecting Ghana’s…"
+    },
+    {
+      "title": "‘Bee’ Arthur to Unveil JEAN-ESIS at BEYOND CREATION in Accra",
+      "link": "https://thehighstreetjournal.com/jean-esis-at-beyond-creation/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T13:13:00.000Z",
+      "summary": "Arthur will unveil JEAN-ESIS: Chapter One, a 3-by-3-metre installation made largely from used jeans and materials associated with second-hand clothing bales"
+    },
+    {
+      "title": "AfCFTA Pushes Intellectual Property Rules to Unlock Intangible Assets",
+      "link": "https://thehighstreetjournal.com/afcfta-pushes-intellectual-property-rules/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T12:30:00.000Z",
+      "summary": "The AfCFTA Secretariat made the case at Africa IP Day 2026 under the theme “Growing Business Under the AfCFTA IP Ecosystem"
+    },
+    {
+      "title": "SEC Proposes Infrastructure Corporation To Unlock GH¢120bn Pension Funds",
+      "link": "https://thehighstreetjournal.com/sec-proposes-infrastructure-corporation-to-unlock-gh%c2%a2120bn-pension-funds/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T12:20:00.000Z",
+      "summary": "SEC proposes an infrastructure corporation to channel Ghana’s GH¢120 billion pension assets into projects, reducing government borrowing pressure while creating new long-term investment…"
+    },
     {
       "title": "Africa Doesn’t Need More Capital, It Needs Smart Capital that Supports Growth – GCB MD Says",
       "link": "https://thehighstreetjournal.com/africa-doesnt-need-more-capital-it-needs-smart-capital-that-supports-growth-gcb-md-says/",
@@ -65,6 +163,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-15T10:25:47.000Z",
       "summary": "The Ghana Revenue Authority (GRA) has warned businesses that deliberately evade their Value Added Tax (VAT) obligations that they risk facing penalties, interest and other enforcement…"
+    },
+    {
+      "title": "MTN Ghana expands DigiFest to drive digital innovation and skills development",
+      "link": "https://www.myjoyonline.com/mtn-ghana-expands-digifest-to-drive-digital-innovation-and-skills-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T10:13:00.000Z",
+      "summary": "MTN Ghana has launched the second edition of its DigiFest initiative, bringing together startups, technology companies, academia and other ecosystem players to promote digital innovation…"
     },
     {
       "title": "Local Refineries Now Meeting More Than 30% of Ghana’s Fuel Demand – COMAC",
@@ -975,111 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-11T20:55:43.000Z",
       "summary": "Accra-based fintech startup SusuPaa put its already-live product to the test at the just-ended Moolre Startup Cup, a four-month national buildathon built around Moolre's Collections…"
-    },
-    {
-      "title": "Ghana Scouts Push for Concrete Govt Support to Expand Youth Development",
-      "link": "https://thehighstreetjournal.com/ghana-scouts-push-for-concrete-govt-support-to-expand-youth-development/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T19:13:50.000Z",
-      "summary": "Ghana Scouts seek stronger government support to expand youth development, leadership training, skills building and community service nationwide."
-    },
-    {
-      "title": "Japan Motors unveils Geely’s new electrified vehicle range in Ghana",
-      "link": "https://www.myjoyonline.com/japan-motors-unveils-geelys-new-electrified-vehicle-range-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T18:42:42.000Z",
-      "summary": "Japan Motors Trading Company Ltd. has officially unveiled a breakthrough range of Geely electrified vehicles in Ghana, signalling a bold step toward sustainable, intelligent, and refined…"
-    },
-    {
-      "title": "Tema Port Dredging To Ease Clinker Delays, Cut Pressure On Cement Producers",
-      "link": "https://thehighstreetjournal.com/tema-port-dredging-to-ease-clinker-delays-cut-pressure-on-cement-producers/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T18:00:00.000Z",
-      "summary": "The government is addressing clinker import delays by expanding Tema Port’s berthing capacity to cut demurrage costs and ease pressure on cement manufacturers."
-    },
-    {
-      "title": "Ghana’s WASH Future Hinges on Sustainable Systems, Not Just More Money",
-      "link": "https://thehighstreetjournal.com/ghanas-wash-future-hinges-on-sustainable-systems-not-just-more-money/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T17:22:37.000Z",
-      "summary": "Ghana’s WASH challenge requires sustainable, predictable and equitable financing, stronger systems, private investment and accountability to deliver reliable services nationwide."
-    },
-    {
-      "title": "MTN Links SME Growth To Ghana’s Economic Expansion",
-      "link": "https://thehighstreetjournal.com/mtn-links-sme-growth-to-ghanas-economic-expansion/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T17:05:00.000Z",
-      "summary": "MTN Ghana says stronger access to finance, digital tools, markets and business training can help SMEs move beyond survival, expand operations, create jobs and contribute more to economic…"
-    },
-    {
-      "title": "The Nuclear ‘Fear’ & the Historical Records: Is the Most-Feared Energy Safer Than We Think?",
-      "link": "https://thehighstreetjournal.com/the-nuclear-fear-the-historical-records-is-the-most-feared-energy-safer-than-we-think/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T16:01:00.000Z",
-      "summary": "Nuclear power’s fear is shaped by disasters like Chernobyl and Fukushima, but deaths-per-terawatt-hour data show it is far safer than fossil fuels. Prof. Tyobeka says AI could further…"
-    },
-    {
-      "title": "The Rise of Agentic Commerce: When machines become buyers",
-      "link": "https://www.myjoyonline.com/the-rise-of-agentic-commerce-when-machines-become-buyers/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T15:43:24.000Z",
-      "summary": "Trade and commerce are critical to the functioning of society. Commerce has undergone a remarkable transformation, from barter and commodity-based exchange to today’s sophisticated…"
-    },
-    {
-      "title": "CBG launches PWD loan initiative to deepen financial inclusion",
-      "link": "https://www.myjoyonline.com/cbg-launches-pwd-loan-initiative-to-deepen-financial-inclusion/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T14:31:33.000Z",
-      "summary": "Consolidated Bank Ghana Limited (CBG) has launched a dedicated loan initiative for persons with disabilities, seeking to move financial inclusion beyond bank-account ownership towards…"
-    },
-    {
-      "title": "CBG to take PWD finance nationwide – Deputy Managing Director",
-      "link": "https://www.myjoyonline.com/cbg-to-take-pwd-finance-nationwide-deputy-managing-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T14:02:42.000Z",
-      "summary": "Deputy Managing Director of Consolidated Bank Ghana Limited (CBG), Sheila Azuntaba, says the bank plans to expand its pilot financial inclusion initiative for persons with disabilities…"
-    },
-    {
-      "title": "CBG to expand responsible credit access for PWD-owned businesses – Managing Director",
-      "link": "https://www.myjoyonline.com/cbg-to-expand-responsible-credit-access-for-pwd-owned-businesses-managing-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T13:37:24.000Z",
-      "summary": "The Managing Director of Consolidated Bank Ghana Limited (CBG), Dr Naomi Wolali Kwetey, has announced a dedicated financing initiative for entrepreneurs with disabilities, saying the bank…"
-    },
-    {
-      "title": "Ghana to launch tomato self-sufficiency initiative in Anloga",
-      "link": "https://www.myjoyonline.com/ghana-to-launch-tomato-self-sufficiency-initiative-in-anloga/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T11:43:18.000Z",
-      "summary": "The Ministry of Food and Agriculture (MoFA), in partnership with FarmMate LTD, will officially launch the Ghana Tomato Self-Sufficiency Initiative (GHATSI) on Tuesday, September 15, at the…"
-    },
-    {
-      "title": "DBG advocates tailored financing for Ghana’s ICT sector",
-      "link": "https://www.myjoyonline.com/dbg-advocates-tailored-financing-for-ghanas-ict-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T09:54:22.000Z",
-      "summary": "Development Bank Ghana (DBG) is advocating targeted financing instruments and stronger business development support to unlock the potential of Ghana’s Information and Communication…"
-    },
-    {
-      "title": "We look forward to new regime from Oct. 1 – FABAG on fruit juice tax",
-      "link": "https://www.myjoyonline.com/we-look-forward-to-new-regime-from-oct-1-fabag-on-fruit-juice-tax/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T09:19:51.000Z",
-      "summary": "The Food and Beverages Association of Ghana (FABAG) has welcomed the abolition of the 20% excise duty on locally manufactured fruit juices."
-    },
-    {
-      "title": "Okada, towing and digital fines: What Ghana’s new road rules mean for motorists",
-      "link": "https://www.myjoyonline.com/okada-towing-and-digital-fines-what-ghanas-new-road-rules-mean-for-motorists/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T09:13:38.000Z",
-      "summary": "Ghana is stepping up public education on its revised road traffic laws, with government drawing attention to new requirements covering commercial motorcycles and tricycles, vehicle…"
-    },
-    {
-      "title": "Remittance services lead payment product approvals in 2025",
-      "link": "https://www.ghanabusinessnews.com/2026/09/11/remittance-services-lead-payment-product-approvals-in-2025/",
-      "source": "Ghana Business News",
-      "published": "2026-09-11T07:42:12.000Z",
-      "summary": "Remittance services accounted for the largest share of payment product approvals granted by the Bank of Ghana (BoG) in 2025."
     }
   ]
 };
