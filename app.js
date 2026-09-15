@@ -2418,7 +2418,8 @@
       return T("debt.household", { n, share: alfMoney(debtAt(t) / popAt(t) * n), ytd: alfMoney((debtAt(t) - P.total) / popAt(t) * n) });
     }
 
-    if (/(total debt|public debt|how much (does|do) ghana owe|debt (right )?now|national debt|what is the debt|how much debt|the debt)/.test(q) || /^debt\b/.test(q))
+    // "debt to gdp" begins with the word debt but is a question about the ratio, handled below
+    if ((/(total debt|public debt|how much (does|do) ghana owe|debt (right )?now|national debt|what is the debt|how much debt|the debt)/.test(q) || /^debt\b/.test(q)) && !/(gdp|ratio|per cent of|percent of)/.test(q))
       return T("debt.total", { now: alfMoney(debtAt(t)), latestLabel: esc(L.label), latest: alfMoney(L.total), perSecond: `${sym()}${fmt(money(rate.total), 0)}`, prevLabel: esc(P.label) });
 
     if (/(domestic debt|owed at home)/.test(q)) return T("debt.domestic", { value: alfMoney(LIVE.dom[0](t)), share: fmt(L.domestic / L.total * 100, 1), label: esc(L.label) });

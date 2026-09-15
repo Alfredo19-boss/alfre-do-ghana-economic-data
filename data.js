@@ -6,7 +6,7 @@
  * Field guide: see README.md ("data.js field guide").
  */
 window.GDC_DATA = {
-  "checked": "12 September 2026",
+  "checked": "15 September 2026",
   "siteUrl": "",
   "alfredo": {
     "_": "Alfredo answers from this site's own figures and needs nothing here. Fill these in only if you have your own endpoint.",
@@ -40,7 +40,10 @@ window.GDC_DATA = {
       },
       {
         "date": "2026-03-31",
-        "total": 686.1
+        "total": 686.1,
+        "domestic": 365.84,
+        "external": 320.26,
+        "ratio": 42.9
       },
       {
         "date": "2026-04-30",
@@ -64,7 +67,7 @@ window.GDC_DATA = {
       "value": 61.8,
       "label": "end-2024"
     },
-    "nominalGdp": 1598930000000,
+    "nominalGdp": 1597456614686,
     "sinkingFund": {
       "value": 15600000000,
       "target": 30000000000,
@@ -94,21 +97,21 @@ window.GDC_DATA = {
         "key": "rev",
         "label": "Revenue & grants",
         "value": 268100000000,
-        "note": "H1 actual 7.8% of GDP vs 7.9% target"
+        "note": "Jan–Jul actual GH¢144.6bn — 9.05% of GDP against a 9.07% target"
       },
       {
         "key": "tax",
         "label": "Tax revenue",
         "sub": true,
-        "value": 233400000000,
-        "note": "Direct taxes GH¢115.4bn · goods & services GH¢86.4bn"
+        "value": 223930000000,
+        "note": "Direct taxes GH¢115.4bn · goods & services GH¢86.4bn · Jan–Jul actual GH¢120.0bn"
       },
       {
         "key": "oth",
         "label": "Non-tax revenue & grants",
         "sub": true,
-        "value": 34700000000,
-        "note": "Fees, oil proceeds, dividends and donor grants"
+        "value": 44160000000,
+        "note": "Non-tax GH¢26.5bn, other revenue GH¢12.9bn, grants GH¢3.1bn · oil and gas GH¢13.6bn"
       }
     ],
     "out": [
@@ -116,26 +119,26 @@ window.GDC_DATA = {
         "key": "exp",
         "label": "Total spending",
         "value": 302500000000,
-        "note": "H1 actual GH¢143.7bn, 47.5% of plan"
+        "note": "Jan–Jul actual GH¢147.1bn, 48.6% of the year’s plan"
       },
       {
         "key": "wage",
         "label": "Public sector wages",
         "value": 90800000000,
-        "note": "H1 actual GH¢48.8bn"
+        "note": "Jan–Jul actual GH¢50.6bn, of which GH¢45.4bn wages and salaries"
       },
       {
         "key": "int",
         "label": "Interest on debt",
         "value": 57700000000,
-        "note": "H1 domestic interest GH¢21.5bn",
+        "note": "Jan–Jul actual GH¢25.2bn, of which GH¢22.0bn domestic",
         "cost": true
       },
       {
         "key": "cap",
         "label": "Capital projects",
         "value": 57500000000,
-        "note": "Roads, schools, hospitals, rail"
+        "note": "Jan–Jul actual GH¢24.2bn · includes GH¢30.0bn for the Big Push · revised to GH¢52.5bn in-year"
       }
     ]
   },
@@ -381,11 +384,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "Gross reserves",
-          "value": 12.9,
-          "dec": 1,
+          "value": 12.94,
+          "dec": 2,
           "unit": "US$bn",
           "date": "Jun 2026",
-          "note": "5 months of imports · ▼ from 13.8",
+          "note": "5.0 months of imports · ▼ from US$13.8bn (5.7 months) at end-2025",
           "tone": "bad",
           "series": [
             {
@@ -460,11 +463,12 @@ window.GDC_DATA = {
         },
         {
           "label": "Nominal GDP",
-          "value": 1599,
+          "value": 1597.46,
           "dec": 0,
           "unit": "GH¢bn",
-          "date": "2026 proj.",
-          "note": "Used for the live debt ratio"
+          "date": "2026 budget",
+          "note": "GH¢1,597,456,614,686 · used for the live debt ratio",
+          "seriesSource": "Ministry of Finance, 2026 Budget Statement and Economic Policy"
         }
       ]
     }
@@ -847,6 +851,18 @@ window.GDC_DATA = {
     }
   ],
   "sources": [
+    [
+      "Public Debt Statistical Bulletin, Q2 2026 (Ministry of Finance)",
+      "https://mofep.gov.gh/sites/default/files/basic-page/Debt-Statistics-Bulletin-2026-Q2.pdf"
+    ],
+    [
+      "2026 Budget Statement and Economic Policy (Ministry of Finance)",
+      "https://mofep.gov.gh/sites/default/files/budget-statements/2026-Budget-Statement-and-Economic-Policy.pdf"
+    ],
+    [
+      "Central government fiscal data, January\u2013July 2026 (Ministry of Finance)",
+      "https://www.mofep.gov.gh/fiscal-data"
+    ],
     [
       "T-bills auction, 7 September 2026 (MyJoyOnline)",
       "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-by-51-interest-rates-fall-again/"
