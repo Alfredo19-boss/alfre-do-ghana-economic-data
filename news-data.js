@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-15T16:54:51.570Z",
+  "updated": "2026-09-15T19:56:43.225Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -19,18 +19,81 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 2/25 stories",
+    "Graphic Online: 3/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: 0 stories",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Coronation Insurance appoints Bridget Puorideme as acting Head of Sales and Distribution",
+      "link": "https://www.myjoyonline.com/coronation-insurance-appoints-bridget-puorideme-as-acting-head-of-sales-and-distribution/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T18:55:44.000Z",
+      "summary": "Coronation Insurance Ghana Limited has announced the appointment of Bridget Puorideme as Acting Head of Sales and Distribution, effective 1st September 2026. In her new role, Ms. Puorideme…"
+    },
+    {
+      "title": "GRA to roll out Fiscal and Accounting devices in Q4 to improve VAT compliance",
+      "link": "https://www.myjoyonline.com/gra-to-roll-out-fiscal-and-accounting-devices-in-q4-to-improve-vat-compliance/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T18:50:27.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) is set to implement the Fiscal and Accounting Devices Act in the last quarter of 2026, as part of efforts to strengthen tax compliance and improve…"
+    },
+    {
+      "title": "6 out of 10 businesses not complying with tax obligations – GRA",
+      "link": "https://www.myjoyonline.com/6-out-of-10-businesses-not-complying-with-tax-obligations-gra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T18:32:00.000Z",
+      "summary": "Commissioner-General of the GRA, Anthony Kwasi Sarpong, disclosed this at the AGI 2026 Industrial and Exhibition Summit, where he called for stronger tax compliance to ensure businesses…"
+    },
+    {
+      "title": "Chamber of Cocoa Marketers warns Cocobod’s GH¢4bn debt could disrupt cocoa purchases in new season",
+      "link": "https://www.myjoyonline.com/chamber-of-cocoa-marketers-warns-cocobods-gh%c2%a24bn-debt-could-disrupt-cocoa-purchases-in-new-season/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T18:28:24.000Z",
+      "summary": "The Chamber of Cocoa Marketers Ghana has warned that Licensed Buying Companies (LBCs) could struggle to return to the farms to buy cocoa when the 2026/27 season opens if Cocobod fails to…"
+    },
+    {
+      "title": "Gov’t to unveil 1.5GW renewable energy pipeline to cut power costs for industries",
+      "link": "https://www.myjoyonline.com/govt-to-unveil-1-5gw-renewable-energy-pipeline-to-cut-power-costs-for-industries/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T18:26:51.000Z",
+      "summary": "Government says it is developing a 1.5GW (Gigawatts) renewable energy pipeline dedicated to industrial use as part of efforts to reduce the high cost of electricity for businesses. Deputy…"
+    },
+    {
+      "title": "NANS students get first-hand gold industry exposure as Igbasan commits ₦15M to student development",
+      "link": "https://www.graphic.com.gh/news/general-news/nans-students-get-first-hand-gold-industry-exposure-as-igbasan-commits-15m-to-student-development.html",
+      "source": "Graphic Online",
+      "published": "2026-09-15T18:23:26.000Z",
+      "summary": "The National President of the National Association of Nigerian Students (NANS), Comrade Akinteye Babatunde Afeez, has led NANS executives and student leaders on an industry working visit to…"
+    },
+    {
+      "title": "Ghana Police to Begin Full Automated Traffic Enforcement From October 1",
+      "link": "https://thehighstreetjournal.com/ghana-police-enforcement-of-traffitech-gh/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T18:03:58.000Z",
+      "summary": "The programme, known as TRAFFITECH-GH, will be implemented by the Motor Traffic and Transport Department (MTTD) as part of efforts to improve compliance with traffic laws"
+    },
+    {
+      "title": "VALCO Employees Donate GH¢10,000 to Remar Foundation",
+      "link": "https://thehighstreetjournal.com/valco-employees-donate-gh%c2%a210000-to-remar-foundation/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T18:01:08.000Z",
+      "summary": "VALCO employees support underprivileged children with GH¢10,000 donation to help meet education and welfare needs."
+    },
+    {
+      "title": "miLife Insurance LTD wins Life Insurance Company of the Year 2025",
+      "link": "https://www.myjoyonline.com/milife-insurance-ltd-wins-life-insurance-company-of-the-year-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T16:53:43.000Z",
+      "summary": "Chartered Insurance Institute of Ghana honours miLife for protecting lives, delivering excellent service, and making insurance more accessible to Ghanaians."
+    },
     {
       "title": "Fidelity Bank donates GH¢200,000 to Ghana Medical Trust Fund",
       "link": "https://www.graphic.com.gh/news/general-news/fidelity-bank-donates-ghc200-000-to-ghana-medical-trust-fund.html",
@@ -62,6 +125,13 @@ window.GDC_NEWS = {
     {
       "title": "Petrol prices could jump nearly 10% from Sept 16 – COPEC",
       "link": "https://www.myjoyonline.com/petrol-prices-could-jump-nearly-10-from-sept-16-copec/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T15:28:29.000Z",
+      "summary": "Petrol, diesel and Liquefied Petroleum Gas (LPG) prices are projected to increase from Wednesday, September 16, 2026, according to the Chamber of Petroleum Consumers (COPEC)."
+    },
+    {
+      "title": "Petrol prices could jump nearly 10% from Sept 16 – COMAC",
+      "link": "https://www.myjoyonline.com/petrol-prices-could-jump-nearly-10-from-sept-16-comac/",
       "source": "MyJoyOnline",
       "published": "2026-09-15T15:28:29.000Z",
       "summary": "Petrol, diesel and Liquefied Petroleum Gas (LPG) prices are projected to increase from Wednesday, September 16, 2026, according to the Chamber of Petroleum Consumers (COPEC)."
@@ -1010,76 +1080,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-12T12:00:18.000Z",
       "summary": "Ghana’s oil and gas sector grew 22.4% in Q2 2026, driven by new investments, drilling, and field expansions that could end a six-year decline."
-    },
-    {
-      "title": "ECG Drives GH¢8.8bn SOE Losses as Heavy Debt Hits State Firms",
-      "link": "https://thehighstreetjournal.com/ecg-drives-gh%c2%a28-8bn-soe-losses-as-heavy-debt-hits-state-firms/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T11:53:43.000Z",
-      "summary": "Ghana’s SOEs recorded GH¢8.8 billion in combined losses in 2024, with ECG responsible for about 85 percent, as high debt and financing costs deepened financial pressures."
-    },
-    {
-      "title": "Private capital must lead Ghana’s green industrial push – Finance leaders",
-      "link": "https://www.ghanabusinessnews.com/2026/09/12/private-capital-must-lead-ghanas-green-industrial-push-finance-leaders/",
-      "source": "Ghana Business News",
-      "published": "2026-09-12T09:58:06.000Z",
-      "summary": "Industry, finance leaders and global partners have called for a shift towards an increase in private capital mobilisation as a guaranteed way to build a sustainable and competitive…"
-    },
-    {
-      "title": "Governance Gaps Add to Growth Challenges Facing Ghanaian SMEs",
-      "link": "https://thehighstreetjournal.com/governance-gaps-add-to-growth-challenges-facing-ghanaian-smes/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T09:30:00.000Z",
-      "summary": "As Ghanaian SMEs pursue growth and financing, stronger governance, clear structures and effective internal controls are becoming increasingly important to building sustainable businesses."
-    },
-    {
-      "title": "Wa-Han Road Rehabilitation to Slash Logistics Costs and Anchor Food Price Stability",
-      "link": "https://thehighstreetjournal.com/wa-han-road-rehabilitation-to-slash-logistics-costs-and-anchor-food-price-stability/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T08:00:26.000Z",
-      "summary": "President Mahama’s inspection of the Wa-Han road highlights infrastructure upgrades aimed at lowering logistics costs, reducing post-harvest losses, and stabilizing food inflation…"
-    },
-    {
-      "title": "Accra-Kumasi Expressway Could Reshape Business Travel, Transport Choices",
-      "link": "https://thehighstreetjournal.com/accra-kumasi-expressway-could-reshape-business-travel-transport-choices/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T05:05:00.000Z",
-      "summary": "The new expressway could cut travel time, lower transport costs and strengthen trade between Accra, Kumasi and markets across the country."
-    },
-    {
-      "title": "Ghana Targets Axim As New Economic Hub Through Agro-Processing And Blue Economy",
-      "link": "https://thehighstreetjournal.com/ghana-targets-axim-as-new-economic-hub-through-agro-processing-and-blue-economy/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T05:03:00.000Z",
-      "summary": "Axim is being positioned as a new economic hub by linking its agricultural, fisheries and tourism potential to processing, investment and export markets."
-    },
-    {
-      "title": "“What I Bought vs What I Got”: When Can a Buyer Reject Goods Under Ghanaian Law?",
-      "link": "https://thehighstreetjournal.com/what-i-bought-vs-what-i-got-when-can-a-buyer-reject-goods-under-ghanaian-law/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T05:02:00.000Z",
-      "summary": "The Sale of Goods Act, 1962 (Act 137) does not leave a disappointed buyer entirely without remedies. Under the Act, a buyer may reject goods and refuse to pay the price, or recover the…"
-    },
-    {
-      "title": "Senyo Hosi Says SOE Board Shake-Up Signals Governance Reset",
-      "link": "https://thehighstreetjournal.com/mahamas-soe-board-shake-reset/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T05:01:00.000Z",
-      "summary": "Dissolution of nine state-owned enterprise boards according to Senyo Hosi reflects push for strategic alignment and disciplined stewardship"
-    },
-    {
-      "title": "OPEC Sees Oil Demand Rebounding Sharply in 2027 as Prices Rise",
-      "link": "https://thehighstreetjournal.com/opec-sees-oil-demand-rebounding-in-2027/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T05:00:00.000Z",
-      "summary": "OPEC expects non-OECD oil demand to increase by about 0.5 million barrels a day this year, while OECD consumption is forecast to decline by about 0.1 million barrels a day"
-    },
-    {
-      "title": "SusuPaa wins double at Moolre Startup Cup",
-      "link": "https://www.myjoyonline.com/susupaa-wins-double-at-moolre-startup-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T20:55:43.000Z",
-      "summary": "Accra-based fintech startup SusuPaa put its already-live product to the test at the just-ended Moolre Startup Cup, a four-month national buildathon built around Moolre's Collections…"
     }
   ]
 };

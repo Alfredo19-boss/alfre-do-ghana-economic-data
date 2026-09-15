@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-15T16:55:07.964Z",
+  "updated": "2026-09-15T19:56:58.719Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,64 +25,138 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Management of Coachhene Sports Club pays courtesy call on Sports Minister",
-      "link": "https://www.myjoyonline.com/management-of-coachhene-sports-club-pays-courtesy-call-on-sports-minister/",
+      "title": "Chris Wilder backs Jordan Ayew to be a success at Sheffield United",
+      "link": "https://www.myjoyonline.com/chris-wilder-backs-jordan-ayew-to-be-a-success-at-sheffield-united/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T16:54:23.000Z",
-      "summary": "Led by club president and founder Mr. Emmanuel Afranie Jnr., the delegation also included key investors: Mr. Bader Al-Akkad of Phoenix United FC in Dubai, Marcus McCabe, owner of Radcliffe…",
+      "published": "2026-09-15T19:51:47.000Z",
+      "summary": "Sheffield United manager Chris Wilder has backed new signing Jordan Ayew to be a success at the club. The 35-year-old joined the Blades on a one-year contract after his deal with Leicester…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Forestry Commission arrests 12 illegal miners, impounds three excavators in South Formangso Forest Reserve",
+      "link": "https://www.myjoyonline.com/forestry-commission-arrests-12-illegal-miners-impounds-three-excavators-in-south-formangso-forest-reserve/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T19:42:24.000Z",
+      "summary": "The Forestry Commission has arrested 12 suspected illegal miners and impounded three excavators during an operation in the South Formangso Forest Reserve in the Ashanti Region. The…",
+      "categories": [
+        "Regional",
+        "excavators",
+        "forest reserve",
+        "Forestry Commission",
+        "ILLEGAL MINERS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s mineral resources must benefit host communities – Lands Minister",
+      "link": "https://www.myjoyonline.com/ghanas-mineral-resources-must-benefit-host-communities-lands-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T19:35:08.000Z",
+      "summary": "Minister for Lands and Natural Resources, Emmanuel Armah Kofi-Buah, says Ghana’s mineral resources must generate tangible benefits for communities where mining activities take place. He…",
+      "categories": [
+        "National",
+        "Host communities",
+        "Lands Minister",
+        "Mineral resources"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kudus makes first Tottenham start since January against Liverpool",
+      "link": "https://www.myjoyonline.com/kudus-makes-first-tottenham-start-since-january-against-liverpool/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T19:32:01.000Z",
+      "summary": "Mohammed Kudus has been named in Tottenham Hotspur’s starting lineup for the first time since January as they face Liverpool in the Carabao Cup. The Ghana international has returned to…",
       "categories": [
         "Football",
         "Sports",
-        "Coachhene",
-        "Emmanuel Afranie Jnr.",
-        "Minister for Sports and Recreation"
+        "Liverpool",
+        "Mohammed Kudus",
+        "Tottenham Hotspur"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "miLife Insurance LTD wins Life Insurance Company of the Year 2025",
-      "link": "https://www.myjoyonline.com/milife-insurance-ltd-wins-life-insurance-company-of-the-year-2025/",
+      "title": "Government launches five-year initiative to improve emergency maternal and newborn care",
+      "link": "https://www.myjoyonline.com/government-launches-five-year-initiative-to-improve-emergency-maternal-and-newborn-care/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T16:53:43.000Z",
-      "summary": "Chartered Insurance Institute of Ghana honours miLife for protecting lives, delivering excellent service, and making insurance more accessible to Ghanaians.",
+      "published": "2026-09-15T19:26:00.000Z",
+      "summary": "Government has launched a five-year Presidential Initiative on Maternal Health Emergency Response (PRIMER) as part of efforts to reduce maternal mortality and improve emergency care for…",
       "categories": [
-        "Business",
-        "Investments",
         "National",
-        "Life Insurance Company",
-        "miLife Insurance Ltd",
-        "Year 2025"
+        "Emergency",
+        "Government",
+        "Maternal",
+        "newborn care"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UNFPA and PPAG train service providers on gender-based violence and human rights in Kumasi",
-      "link": "https://www.myjoyonline.com/unfpa-and-ppag-train-service-providers-on-gender-based-violence-and-human-rights-in-kumasi/",
+      "title": "President Mahama will hear about colts football now – GFA President at League launch",
+      "link": "https://www.myjoyonline.com/president-mahama-will-hear-about-colts-football-now-gfa-president-at-league-launch/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T16:52:17.000Z",
-      "summary": "The United Nations Population Fund (UNFPA) and the Planned Parenthood Association of Ghana (PPAG) have trained service providers in Kumasi on gender-based violence (GBV) and human…",
+      "published": "2026-09-15T19:25:38.000Z",
+      "summary": "GFA President Kurt Okraku has reiterated his administration’s commitment to developing grassroots football in Ghana. Okraku made the remarks at the launch of the 2026/27 Colts Football…",
       "categories": [
-        "National",
-        "Human rights",
-        "PPAG",
-        "UNFPA"
+        "Football",
+        "Sports",
+        "Colts Football League",
+        "Kurt Okraku",
+        "President Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC Youth Organiser race: Odarteifio promises economic opportunities for young people",
-      "link": "https://www.myjoyonline.com/ndc-youth-organiser-race-odarteifio-promises-economic-opportunities-for-young-people/",
+      "title": "Minority says Foreign Ministry has failed to release GH¢50m evacuation records despite RTI request",
+      "link": "https://www.myjoyonline.com/minority-says-foreign-ministry-has-failed-to-release-gh%c2%a250m-evacuation-records-despite-rti-request/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T16:49:50.000Z",
-      "summary": "Steven Nhyira Odarteifio has announced his bid for the National Youth Organiser position of the National Democratic Congress (NDC), promising to reposition the party’s youth wing around…",
+      "published": "2026-09-15T19:20:10.000Z",
+      "summary": "The Minority in Parliament says the Ministry of Foreign Affairs has failed to provide detailed expenditure records on the nearly GH¢50 million spent on the evacuation and reintegration of…",
       "categories": [
-        "National",
         "Politics",
-        "NDC",
-        "Odarteifio",
-        "Youth Organiser"
+        "Minority in Parliament",
+        "RTI request",
+        "South Africa evacuation"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority withholds participation in SA evacuation briefing until GH¢50m records are released",
+      "link": "https://www.myjoyonline.com/minority-withholds-participation-in-sa-evacuation-briefing-until-gh50m-records-are-released/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T19:16:49.000Z",
+      "summary": "The Minority Caucus on Parliament’s Foreign Affairs Committee says it will boycott a closed-door meeting on the evacuation of Ghanaians from South Africa unless government provides a full…",
+      "categories": [
+        "Politics",
+        "Samuel Abdulai Jinapor",
+        "South Africa Evacuation Meeting"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NANS students get first-hand gold industry exposure as Igbasan commits ₦15M to student development",
+      "link": "https://www.graphic.com.gh/news/general-news/nans-students-get-first-hand-gold-industry-exposure-as-igbasan-commits-15m-to-student-development.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T18:23:26.000Z",
+      "summary": "The National President of the National Association of Nigerian Students (NANS), Comrade Akinteye Babatunde Afeez, has led NANS executives and student leaders on an industry working visit to…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Majority in a poll blame double-track for decline in SHS quality",
+      "link": "https://www.graphic.com.gh/news/general-news/majority-in-a-poll-blame-double-track-for-decline-in-shs-quality.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T17:59:16.000Z",
+      "summary": "A majority of Ghanaians who participated in a survey believe the double-track system has contributed to a decline in the quality of senior high school (SHS) education.",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Fidelity Bank donates GH¢200,000 to Ghana Medical Trust Fund",
@@ -96,63 +170,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "link": "https://www.myjoyonline.com/iran-war-has-led-to-us-munitions-shortfalls-pentagon-inspector-confirms/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T16:29:45.000Z",
-      "summary": "The US defence department's inspector general says the war with Iran has led to \"shortfalls\" in munitions and a bottleneck in resupply, contradicting President Donald Trump who has repeatly…",
-      "categories": [
-        "International",
-        "Iran",
-        "Pentagon inspector",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sentuo Airport Garden City project will enable Accra to host UN conferences – Mahama",
-      "link": "https://www.myjoyonline.com/sentuo-airport-garden-city-project-will-enable-accra-to-host-un-conferences-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T16:29:07.000Z",
-      "summary": "President John Dramani Mahama says the Sentuo Airport Garden City Project will help position Accra to host major international conferences, including events organised by the United Nations.",
-      "categories": [
-        "National",
-        "Mahama",
-        "Sentuo Airport Garden",
-        "UN conferences"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sentuo Airport Garden City project to create jobs, boost local industry – Trade Minister",
-      "link": "https://www.myjoyonline.com/sentuo-airport-garden-city-project-to-create-jobs-boost-local-industry-trade-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T16:14:47.000Z",
-      "summary": "The Minister for Trade, Agribusiness, and Industry, Elizabeth Ofosu-Agyare, says the Sentuo Airport Garden City project will create opportunities for Ghanaian businesses and workers across…",
-      "categories": [
-        "National",
-        "Jobs",
-        "local industry",
-        "Sentuo Airport Garden City",
-        "Trade Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trinity Software Centre calls for sustained investment in Ghana’s indigenous software industry",
-      "link": "https://www.myjoyonline.com/trinity-software-centre-calls-for-sustained-investment-in-ghanas-indigenous-software-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T16:13:38.000Z",
-      "summary": "Software developers in Ghana are calling for deliberate and sustained investment in the country’s indigenous software industry to strengthen local technological capacity and create more…",
-      "categories": [
-        "Technology",
-        "Artificial Intelligence",
-        "Investment",
-        "Trinity software centre"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Rhythms On Da Runway returns November 28 with 16th edition themed ‘Unbound’",
       "link": "https://ghanaiantimes.com.gh/rhythms-on-da-runway-returns-november-28-with-16th-edition-themed-unbound/",
       "source": "Ghanaian Times",
@@ -162,6 +179,28 @@ window.GDC_PAPERS = {
         "Lifestyle"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "It is now official: Beginning Oct 1, Ghana Police will use cameras to arrest traffic offenders, notices of violation to be served on drivers via SMS",
+      "link": "https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T15:34:37.000Z",
+      "summary": "The Ghana Police Service will begin full enforcement of traffic offences through its automated traffic law enforcement programme, TRAFFITECH-GH, from October 1, 2026.",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dogo Beach squatters given one-week ultimatum to vacate ahead of demolition",
+      "link": "https://www.graphic.com.gh/news/general-news/dogo-beach-squatters-given-one-week-ultimatum-to-vacate-ahead-of-demolition.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T15:16:17.000Z",
+      "summary": "The Accra Metropolitan Assembly has given occupants of Gbagbasetey, also known as Dogo Beach, in the Ashiedu Keteke Sub-Metropolitan District a one-week ultimatum to vacate the area ahead…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Henry Brew Gardner declares intent to contest Agona West NDC Youth Organizer position",
@@ -280,28 +319,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "LEAP payments restart nationwide",
-      "link": "https://www.graphic.com.gh/news/general-news/leap-payments-resume-nationwide-after-beneficiary-reassessment.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T11:10:12.000Z",
-      "summary": "Payments to eligible households under the Livelihood Empowerment Against Poverty (LEAP) programme have resumed nationwide following a reassessment of the beneficiary register.",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Report anyone demanding money for SHS placement, Education Ministry tells parents",
-      "link": "https://www.graphic.com.gh/news/education/report-anyone-demanding-money-for-shs-placement-education-ministry-tells-parents.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T10:56:49.000Z",
-      "summary": "The Ministry of Education has urged parents and guardians who are asked to pay money to secure or change senior high school (SHS) placements to report such demands to law enforcement.",
-      "categories": [
-        "Education"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Scientists turn to 3D imaging to improve crop yields",
       "link": "https://ghanaiantimes.com.gh/scientists-turn-to-3d-imaging-to-improve-crop-yields/",
       "source": "Ghanaian Times",
@@ -311,28 +328,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "97 Students to be trained agriculture specialists in Russia",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-97-students-to-be-trained-agriculture-specialists-in-russia.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T08:05:09.000Z",
-      "summary": "The Russian Embassy in Accra has issued scholarship opportunities to 97 specialist agriculture students as part of 237 scholarships awarded to Ghanaian students admitted to Russian…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "One Million Coders programme enrols 141,954",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-one-million-coders-programme-enrols-141-954.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T08:02:38.000Z",
-      "summary": "The government's One Million Coders Programme has enrolled 141,954 accounts nationwide as of August this year.",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "SIC, NSIA bosses win CEO penalty shootout at 2026 Insurance Fun Games",
