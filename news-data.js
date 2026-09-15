@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-15T06:40:54.236Z",
+  "updated": "2026-09-15T12:08:35.587Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,14 +23,133 @@ window.GDC_NEWS = {
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: failed (HTTP 415)",
+    "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Africa Doesn’t Need More Capital, It Needs Smart Capital that Supports Growth – GCB MD Says",
+      "link": "https://thehighstreetjournal.com/africa-doesnt-need-more-capital-it-needs-smart-capital-that-supports-growth-gcb-md-says/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T12:00:00.000Z",
+      "summary": "GCB MD Farihan Alhassan says Africa needs smarter, patient capital structures rather than simply more money, urging stronger bank-DFI partnerships to match long-term projects with suitable…"
+    },
+    {
+      "title": "GHIPO moves to secure global protection for Ghana’s Akpeteshie",
+      "link": "https://www.myjoyonline.com/ghipo-moves-to-secure-global-protection-for-ghanas-akpeteshie/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T11:56:11.000Z",
+      "summary": "Ghana is stepping up efforts to secure Geographical Indication (GI) protection for Akpeteshie, in a move aimed at safeguarding the identity of the traditional spirit and positioning it for…"
+    },
+    {
+      "title": "Ghana Positions AI Investment as Regional Growth Opportunity",
+      "link": "https://thehighstreetjournal.com/ghana-positions-ai-investment-as-regional-growth-opportunity/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T11:51:16.000Z",
+      "summary": "Ghana plans US$250 million AI infrastructure investment, seeking to become a regional computing hub while building skills, attracting technology investment and strengthening Africa’s…"
+    },
+    {
+      "title": "COMAC Calls for Shift From Fuel Prices to Energy Supply Security",
+      "link": "https://thehighstreetjournal.com/comac-calls-for-shift-from-fuel-prices-to-energy-supply-security/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T11:32:36.000Z",
+      "summary": "Ghana’s energy debate needs to move beyond the price motorists see at the pump and focus more closely on how the country secures a reliable supply of fuel, the Chamber of Oil Marketing…"
+    },
+    {
+      "title": "Deliberate VAT evasion will attract penalties — GRA",
+      "link": "https://www.myjoyonline.com/deliberate-vat-evasion-will-attract-penalties-gra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T10:25:47.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has warned businesses that deliberately evade their Value Added Tax (VAT) obligations that they risk facing penalties, interest and other enforcement…"
+    },
+    {
+      "title": "Local Refineries Now Meeting More Than 30% of Ghana’s Fuel Demand – COMAC",
+      "link": "https://thehighstreetjournal.com/local-refineries-now-meeting-more-than-30-of-ghanas-fuel-demand-comac/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T10:00:00.000Z",
+      "summary": "Ghana is now meeting more than 30% of its fuel demand through local refining, a significant increase from the roughly 10% it relied on previously, according to the Chief Executive Officer…"
+    },
+    {
+      "title": "Businesses above GH¢750,000 turnover must register for VAT – GRA",
+      "link": "https://www.myjoyonline.com/businesses-above-gh%c2%a2750000-turnover-must-register-for-vat-gra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T09:56:28.000Z",
+      "summary": "The Commissioner of Domestic Tax Revenue at the Ghana Revenue Authority (GRA), Dr Martin Kolbil Yamborigya, has warned businesses with annual taxable turnover exceeding GH¢750,000 to…"
+    },
+    {
+      "title": "Late Fuel Subsidy Decisions Leave OMCs Absorbing Losses – COMAC",
+      "link": "https://thehighstreetjournal.com/late-fuel-subsidy-decisions-leave-omcs-absorbing-losses-comac/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T09:12:00.000Z",
+      "summary": "Oil Marketing Companies (OMCs) could be left absorbing significant losses when government fuel interventions are announced after they have already bought and transported products at higher…"
+    },
+    {
+      "title": "Ghana risks losing import trade to Abidjan – IEAG",
+      "link": "https://www.ghanabusinessnews.com/2026/09/15/ghana-risks-losing-import-trade-to-abidjan-ieag/",
+      "source": "Ghana Business News",
+      "published": "2026-09-15T09:09:05.000Z",
+      "summary": "Ghana risks losing portions of its import trade to competing ports in the sub-region if urgent measures are not taken to resolve persistent congestion and delays at its ports, the Importers…"
+    },
+    {
+      "title": "TCDA Pushes Investment, Technology to Make Ghana’s Cashew Industry More Competitive",
+      "link": "https://thehighstreetjournal.com/tcda-pushes-investment-technology-to-make-ghanas-cashew-industry-more-competitive/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T09:07:00.000Z",
+      "summary": "Ghana seeks to turn its growing cashew production into a stronger industrial base through investment, technology and value addition."
+    },
+    {
+      "title": "Digital finance must move Ghanaians beyond basic transactions – MMFL",
+      "link": "https://www.ghanabusinessnews.com/2026/09/15/digital-finance-must-move-ghanaians-beyond-basic-transactions-mmfl/",
+      "source": "Ghana Business News",
+      "published": "2026-09-15T08:51:45.000Z",
+      "summary": "Ghana’s next phase of financial inclusion must move beyond sending and receiving money to help more people save, invest, access credit, obtain insurance and build stronger financial…"
+    },
+    {
+      "title": "Homeownership Fund seeks innovative solutions to Ghana’s housing finance challenges",
+      "link": "https://www.ghanabusinessnews.com/2026/09/15/homeownership-fund-seeks-innovative-solutions-to-ghanas-housing-finance-challenges/",
+      "source": "Ghana Business News",
+      "published": "2026-09-15T08:16:42.000Z",
+      "summary": "The National Homeownership Fund (NHF), in collaboration with government agencies and development partners, will convene a two-day national conference on Housing Finance to explore…"
+    },
+    {
+      "title": "A Partnership for Progress: Why the ProMark–KPMG collaboration matters for Africa’s digital assets future",
+      "link": "https://www.myjoyonline.com/a-partnership-for-progress-why-the-promark-kpmg-collaboration-matters-for-africas-digital-assets-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T07:15:41.000Z",
+      "summary": "Africa’s digital assets agenda has moved beyond interest in new technology. The priority now is to establish clear rules, strengthen institutional capacity and translate responsible…"
+    },
+    {
+      "title": "CBG launches 5% loan facility for PWD entrepreneurs",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cbg-launches-5-loan-facility-for-pwd-entrepreneurs.html",
+      "source": "Graphic Online",
+      "published": "2026-09-15T07:08:07.000Z",
+      "summary": "The Consolidated Bank Ghana (CBG) has initiated a pilot loan scheme to enable entrepreneurs with disabilities to access credit at a fixed interest rate of five per cent per annum to enable…"
+    },
+    {
+      "title": "September-Cancer Awareness Month: Provident Insurance champions early cancer detection",
+      "link": "https://www.graphic.com.gh/news/health/ghana-news-september-cancer-awareness-month-provident-insurance-champions-early-cancer-detection.html",
+      "source": "Graphic Online",
+      "published": "2026-09-15T06:49:59.000Z",
+      "summary": "The Provident Insurance Limited Company has partnered the Urology and Nephrology Centre of Excellence at the Korle Bu Teaching Hospital and the Ghana Association of Urological Surgeons…"
+    },
+    {
+      "title": "Labour Minister makes youth employment top priority",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-labour-minister-makes-youth-employment-top-priority.html",
+      "source": "Graphic Online",
+      "published": "2026-09-15T06:15:07.000Z",
+      "summary": "The new Minister of Labour, Employment and Job Creation, Emmanuel Kwadwo Agyekum, has indicated that reducing unemployment is his top priority, particularly as the country continues to…"
+    },
+    {
+      "title": "Price behind performance",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-price-behind-performance.html",
+      "source": "Graphic Online",
+      "published": "2026-09-15T06:13:18.000Z",
+      "summary": "Some time ago, I watched I Am: Céline Dion, a documentary about the life, career and health struggles of the legendary singer."
+    },
     {
       "title": "Cedi under fresh pressure as Christmas import demand drives dollar surge",
       "link": "https://www.myjoyonline.com/cedi-under-fresh-pressure-as-christmas-import-demand-drives-dollar-surge/",
@@ -961,125 +1080,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-09-11T07:42:12.000Z",
       "summary": "Remittance services accounted for the largest share of payment product approvals granted by the Bank of Ghana (BoG) in 2025."
-    },
-    {
-      "title": "GPHA seeks regional cooperation to boost port competitiveness, AfCFTA trade",
-      "link": "https://www.ghanabusinessnews.com/2026/09/11/gpha-seeks-regional-cooperation-to-boost-port-competitiveness-afcfta-trade/",
-      "source": "Ghana Business News",
-      "published": "2026-09-11T07:38:59.000Z",
-      "summary": "The Ghana Ports and Harbours Authority (GPHA) has called for stronger cooperation among West and Central African ports to improve competitiveness, operational efficiency and regional trade…"
-    },
-    {
-      "title": "NCA clears MTN Ghana, Telecel, Goal in 5G spectrum licencing process",
-      "link": "https://www.ghanabusinessnews.com/2026/09/11/nca-clears-mtn-ghana-telecel-goal-in-5g-spectrum-licencing-process/",
-      "source": "Ghana Business News",
-      "published": "2026-09-11T07:15:43.000Z",
-      "summary": "The National Communications Authority (NCA) has cleared three telecommunication companies to proceed to the next stage of Ghana’s 5G spectrum licencing process."
-    },
-    {
-      "title": "Telecel Shop unveiled to connect shoppers and businesses on one digital platform",
-      "link": "https://www.myjoyonline.com/telecel-shop-unveiled-to-connect-shoppers-and-businesses-on-one-digital-platform/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T03:54:00.000Z",
-      "summary": "Telecel Cash has unveiled Telecel Shop, a new e-commerce marketplace integrated into the Telecel Play App, offering customers a secure and convenient way to discover, purchase, and receive…"
-    },
-    {
-      "title": "GOIL’s biggest strength lies in its people, structures and strong internal systems – Bawa",
-      "link": "https://www.myjoyonline.com/goils-biggest-strength-lies-in-its-people-structures-and-strong-internal-systems-bawa/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T03:24:00.000Z",
-      "summary": "The smooth transition of Edward Bawa into the leadership of GOIL has been driven by more than just staff support."
-    },
-    {
-      "title": "Edward Bawa says GOIL leadership transition has been smoother than expected",
-      "link": "https://www.myjoyonline.com/edward-bawa-says-goil-leadership-transition-has-been-smoother-than-expected/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T03:05:00.000Z",
-      "summary": "Group Chief Executive Officer and Managing Director of GOIL PLC, Edward Bawa, says his transition into the leadership of the oil marketing company has been smoother than he initially…"
-    },
-    {
-      "title": "AfCFTA reinforces Ghana as gateway to Africa – Ghana’s UK High Commissioner at Asante Business Summit",
-      "link": "https://www.myjoyonline.com/afcfta-reinforces-ghana-as-gateway-to-africa-ghanas-uk-high-commissioner-at-asante-business-summit/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T02:42:20.000Z",
-      "summary": "She disclosed this at a London International Leadership Roundtable of the Asante Business Summit. The Summit brought together leaders from business, investment and institutions around the…"
-    },
-    {
-      "title": "Minerals Commission is drafting wage, tender floors for mining contractors, official says",
-      "link": "https://www.myjoyonline.com/minerals-commission-is-drafting-wage-tender-floors-for-mining-contractors-official-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T02:18:00.000Z",
-      "summary": "The Minerals Commission is developing ‌minimum wage and tender benchmarks for contract mining firms, seeking to curb aggressive underbidding as the country pushes miners to outsource more…"
-    },
-    {
-      "title": "GOIL, Star Oil price war rages on, but chiefs keep friendship alive",
-      "link": "https://www.myjoyonline.com/goil-star-oil-price-war-rages-on-but-chiefs-keep-friendship-alive/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T01:45:00.000Z",
-      "summary": "The battle for customers between GOIL and Star Oil is intensifying, but the rivalry has not stopped the two companies' chief executives from maintaining a cordial relationship."
-    },
-    {
-      "title": "GOIL CEO praises Star Oil counterpart despite fierce market rivalry",
-      "link": "https://www.myjoyonline.com/goil-ceo-praises-star-oil-counterpart-despite-fierce-market-rivalry/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T23:40:00.000Z",
-      "summary": "The Chief Executive Officer of GOIL, Edward Bawa, has praised his counterpart at rival fuel marketing company Star Oil, Philip Kwame Tieku, describing their relationship as healthy despite…"
-    },
-    {
-      "title": "GOIL won’t give up ground as Star Oil battles for market share, says Edward Bawa",
-      "link": "https://www.myjoyonline.com/goil-wont-give-up-ground-as-star-oil-battles-for-market-share-says-edward-bawa/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T23:04:00.000Z",
-      "summary": "GOIL is ready for a tough fight to retain its position in Ghana’s fuel market as competition from Star Oil intensifies, Chief Executive Officer Edward Bawa has said."
-    },
-    {
-      "title": "10 SOEs recorded net loss of GH¢8.8bn in 2024 – IMF",
-      "link": "https://www.myjoyonline.com/10-soes-recorded-net-loss-of-gh%c2%a28-8bn-in-2024-imf/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T21:50:14.000Z",
-      "summary": "According to a report by the International Monetary Fund (IMF), ECG alone contributed 85% of the aggregated losses made by SOEs in 2024, equivalent to 0.7% of Gross Domestic Product (GDP)."
-    },
-    {
-      "title": "IMF expresses worry over continued build-up of SOEs liabilities; ECG accounts for GH¢71bn of liabilities",
-      "link": "https://www.myjoyonline.com/imf-expresses-worry-over-continued-build-up-of-soes-liabilities-ecg-accounts-for-gh%c2%a271bn-of-liabilities/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T21:08:50.000Z",
-      "summary": "The Fund also mentioned that SOEs’ leverage profile is particularly at risk because much of the debt is denominated in foreign-currency or carries implicit government backing."
-    },
-    {
-      "title": "IMF identifies political appointments as major weakness in GPHA, VRA, COCOBOD and other SOEs",
-      "link": "https://www.myjoyonline.com/imf-identifies-political-appointments-as-major-weakness-in-gpha-vra-cocobod-and-other-soes/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T20:52:37.000Z",
-      "summary": "The International Monetary Fund has identified the politicisation of board and chief executive appointments as a major weakness in the governance of Ghana’s state-owned enterprises, warning…"
-    },
-    {
-      "title": "Government reform efforts yet to translate into improved SOEs financial performance – IMF",
-      "link": "https://www.myjoyonline.com/government-reform-efforts-yet-to-translate-into-improved-soes-financial-performance-imf/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T20:20:17.000Z",
-      "summary": "According to the Fund, the energy and commodity-sector SOEs remain the principal sources of financial strain, with arrears accumulation, liquidity constraints, and non-cost reflective…"
-    },
-    {
-      "title": "Three Ghanaian students launch e-commerce platform, Panta, to support small businesses",
-      "link": "https://www.myjoyonline.com/three-ghanaian-students-launch-e-commerce-platform-panta-to-support-small-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T18:58:55.000Z",
-      "summary": "Three students of Heritage Christian University in Accra have developed a Ghanaian online marketplace designed to give small businesses a simple way to establish an online presence and…"
-    },
-    {
-      "title": "Eni, Vitol sign MoUs with Ghana for two offshore blocks in Tano Basin",
-      "link": "https://www.myjoyonline.com/eni-vitol-sign-mous-with-ghana-for-two-offshore-blocks-in-tano-basin/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T18:24:28.000Z",
-      "summary": "Eni Ghana and its partner, Vitol Upstream Tano Ltd, have signed two Memoranda of Understanding (MoUs) with the Government of Ghana covering two offshore blocks in the Tano Basin. The…"
-    },
-    {
-      "title": "African health manufacturers meet in Addis Ababa for AHMTEC 2026, focus shifts from building capacity to commercial scale",
-      "link": "https://www.myjoyonline.com/african-health-manufacturers-meet-in-addis-ababa-for-ahmtec-2026-focus-shifts-from-building-capacity-to-commercial-scale/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T18:05:04.000Z",
-      "summary": "Under the theme \"Industrialise to Commercialise\", AHMTEC 2026 will focus on moving African pharmaceutical and medical device manufacturing beyond capacity building towards production that…"
     }
   ]
 };

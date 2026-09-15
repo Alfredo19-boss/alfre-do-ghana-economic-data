@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-15T06:41:07.848Z",
+  "updated": "2026-09-15T12:08:52.764Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,188 +25,295 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Catholic Bishops pressure gov’t to sign long-delayed mission schools agreement",
-      "link": "https://www.myjoyonline.com/catholic-bishops-pressure-govt-to-sign-long-delayed-mission-schools-agreement/",
+      "title": "Adisadel College 2002 Year Group launches GH¢4.6m clean water legacy project",
+      "link": "https://www.myjoyonline.com/adisadel-college-2002-year-group-launches-gh%c2%a24-6m-clean-water-legacy-project/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T06:06:00.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference is putting pressure on the government to conclude and sign the long-discussed agreement between the state and Churches on the management of mission…",
+      "published": "2026-09-15T12:05:04.000Z",
+      "summary": "The Adisadel College 2002 Year Group has launched a GH¢4.6 million Clean Water legacy project aimed at providing a sustainable source of potable water for the school and addressing…",
       "categories": [
         "Education",
-        "Catholic Bishops Conference",
-        "Christian Mission Schools",
-        "Ghana Education Service (GES)"
+        "Regional",
+        "2002 year group",
+        "4.6m clean water",
+        "Adisadel College"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Cedi under fresh pressure as Christmas import demand drives dollar surge",
-      "link": "https://www.myjoyonline.com/cedi-under-fresh-pressure-as-christmas-import-demand-drives-dollar-surge/",
+      "title": "GHIPO moves to secure global protection for Ghana’s Akpeteshie",
+      "link": "https://www.myjoyonline.com/ghipo-moves-to-secure-global-protection-for-ghanas-akpeteshie/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T05:51:00.000Z",
-      "summary": "The Ghana cedi is facing renewed pressure against the US dollar, recording its second monthly depreciation since May as demand for foreign exchange continues to rise.",
+      "published": "2026-09-15T11:56:11.000Z",
+      "summary": "Ghana is stepping up efforts to secure Geographical Indication (GI) protection for Akpeteshie, in a move aimed at safeguarding the identity of the traditional spirit and positioning it for…",
       "categories": [
-        "Banking and Finance",
-        "HP Business 2",
-        "HP News 8",
+        "Business",
+        "Akpeteshie",
+        "GHIPO",
+        "Global protection"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Zjili: Ghanaian Dagbani-language film premieres at Toronto International Film Festival",
+      "link": "https://www.myjoyonline.com/zjili-ghanaian-dagbani-language-film-premieres-at-toronto-international-film-festival/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T11:50:02.000Z",
+      "summary": "Ghanaian feature film Zjili: A Story of Sisterhood & the Burdens of Excess has made its world premiere at the Toronto International Film Festival (TIFF), marking a significant moment for…",
+      "categories": [
+        "Arts and Culture",
+        "Movies",
+        "Theatre"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Concerned Citizens of Yendi commend Farouk Aliu Mahama for supporting medical student",
+      "link": "https://www.myjoyonline.com/concerned-citizens-of-yendi-commend-farouk-aliu-mahama-for-supporting-medical-student/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T11:46:50.000Z",
+      "summary": "A group calling itself the Concerned Citizens of Yendi has commended Alhaji Farouk Aliu Mahama, former Member of Parliament for Yendi, for donating GHS 10,000 to support the medical…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC Youth Organiser aspirant Odarteifio pledges to tackle Northern Ghana’s irrigation crisis",
+      "link": "https://www.myjoyonline.com/ndc-youth-organiser-aspirant-odarteifio-pledges-to-tackle-northern-ghanas-irrigation-crisis/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T11:46:31.000Z",
+      "summary": "Steven Nhyira Odarteifio has declared his intention to contest the National Youth Organiser position of the National Democratic Congress (NDC), promising to make irrigation development in…",
+      "categories": [
+        "Politics",
+        "Irrigation crisis",
+        "NDC",
+        "Odarteifio",
+        "Youth Organiser"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Daily Insight for CEOs: Attracting and retaining critical talent",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-attracting-and-retaining-critical-talent/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T11:36:09.000Z",
+      "summary": "Talent is one of the organization’s most important competitive assets. CEOs must understand which skills and people are critical to delivering the strategy and create an environment where…",
+      "categories": [
+        "Features",
         "National",
-        "Cedi Depreciation",
-        "Dollar"
+        "Opinion",
+        "Critical talent",
+        "Daily Insight"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ato Forson eyes first-week November for 2027 Budget, promises jobs and major infrastructure push",
-      "link": "https://www.myjoyonline.com/ato-forson-eyes-first-week-november-for-2027-budget-promises-jobs-and-major-infrastructure-push/",
+      "title": "Ghana launches initiative to cut maternal deaths by 20% annually",
+      "link": "https://www.myjoyonline.com/ghana-launches-initiative-to-cut-maternal-deaths-by-20-annually/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T05:42:00.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has hinted that the 2027 Budget will be presented to Parliament in the first week of November 2026.",
+      "published": "2026-09-15T11:19:50.000Z",
+      "summary": "Ghana has launched the Presidential Initiative on Maternal Health Emergency Response (PRIMER) to step up efforts to reduce maternal deaths and ensure women receive timely and quality care…",
       "categories": [
-        "Economy",
-        "HP Business 1",
-        "HP News 3",
+        "Health",
         "National",
-        "2027 Budget",
-        "Dr Cassiel Ato Forson"
+        "Ghana",
+        "Maternal Death"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Catholic Bishops demand probe into ‘protocol’ admissions amid SHS placement challenges",
-      "link": "https://www.myjoyonline.com/catholic-bishops-demand-probe-into-protocol-admissions-amid-shs-placement-challenges/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T05:34:00.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference has called for a full review of Ghana’s senior high school placement system, demanding transparency over alleged “protocol” admissions into…",
-      "categories": [
-        "Education",
-        "Top Story",
-        "Catholic Bishops’ Conference",
-        "SHS placement"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SHS placement: Catholic Bishops demand probe into alleged payments for school places",
-      "link": "https://www.myjoyonline.com/shs-placement-catholic-bishops-demand-probe-into-alleged-payments-for-school-places/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T05:17:00.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference has called for an independent investigation into allegations that parents are being asked to pay money to secure senior high school places for their…",
-      "categories": [
-        "Education",
-        "Catholic Bishops Conference",
-        "SHS placement"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Facts about Nigeria’s Dangote oil refinery Initial Public Offering",
-      "link": "https://www.myjoyonline.com/facts-about-nigerias-dangote-oil-refinery-initial-public-offering/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T04:53:00.000Z",
-      "summary": "Nigeria's Dangote Group is selling 4.1 billion shares in its oil refinery to raise 2.15 trillion naira ($1.6 billion) in what is set to become Africa's largest initial public offering to…",
-      "categories": [
-        "Africa",
-        "HP News 9",
-        "Dangote oil refinery",
-        "IPO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump says AI safety fears a ‘hoax’ as he rejects calls for greater safeguards",
-      "link": "https://www.myjoyonline.com/trump-says-ai-safety-fears-a-hoax-as-he-rejects-calls-for-greater-safeguards/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T04:42:00.000Z",
-      "summary": "US President Donald Trump has said fears about the safety of AI are a \"hoax\", as he criticised calls for more guardrails on the fast-moving technology.",
-      "categories": [
-        "International",
-        "AI Safety",
-        "Donald Trump"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
-      "link": "https://www.myjoyonline.com/oil-climbs-as-saudi-pipeline-outage-fresh-attacks-heighten-supply-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T04:32:00.000Z",
-      "summary": "Oil prices rose on Tuesday as concerns over supply disruptions persisted after attacks on Saudi Arabian energy infrastructure left the kingdom's East-West pipeline offline and cast doubt on…",
-      "categories": [
-        "HP News 10",
-        "International",
-        "Oil prices",
-        "Saudi Arabia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Attorney-General to introduce new bill to regulate discipline of lawyers",
-      "link": "https://ghanaiantimes.com.gh/attorney-general-to-introduce-new-bill-to-regulate-discipline-of-lawyers/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T18:38:07.000Z",
-      "summary": "The Attorney-General and Minister for Justice, Dr. Dominic Ayine, has announced plans to introduce a new Bill to strengthen the legal framework for the discipline of lawyers in Ghana. In an…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gov’t did not approve market near school — Stan Dogbe clears air on Ahafo Ano South market siting",
-      "link": "https://ghanaiantimes.com.gh/govt-did-not-approve-market-near-school-stan-dogbe-clears-air-on-ahafo-ano-south-market-siting/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T18:35:36.000Z",
-      "summary": "Deputy Chief of Staff, Stan Xoese Dogbe has reacted to a viral video raising concerns about the siting of a market close to a school in the Ahafo Ano South District of the Ashanti Region…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Richard Dogbe declares bid for NDC Greater Accra Deputy Youth Organiser position",
-      "link": "https://ghanaiantimes.com.gh/richard-dogbe-declares-bid-for-ndc-greater-accra-deputy-youth-organiser-position/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T18:30:24.000Z",
-      "summary": "Businessman and NDC stalwart, Richard Dogbe, affectionately known as Alhaji ATM, has declared his intention to contest for the position of Deputy Greater Accra Regional Youth Organiser of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Why I Started Paying Attention to How Betting Promotions Actually Work",
-      "link": "https://ghanaiantimes.com.gh/why-i-started-paying-attention-to-how-betting-promotions-actually-work/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T17:09:10.000Z",
-      "summary": "I’ll be honest, I never cared about sports betting until 8 months ago when a friend in Accra showed me his phone after a football match. He’d turned 50 cedis into 387 cedis in 90 minutes…",
-      "categories": [
-        "Technology"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Vice President opens 14th Ghana Garden and Flower Show",
-      "link": "https://www.graphic.com.gh/news/general-news/vice-president-opens-14th-ghana-garden-and-flower-show.html",
+      "title": "LEAP payments restart nationwide",
+      "link": "https://www.graphic.com.gh/news/general-news/leap-payments-resume-nationwide-after-beneficiary-reassessment.html",
       "source": "Daily Graphic",
-      "published": "2026-09-14T16:47:03.000Z",
-      "summary": "Vice President Professor Jane Naana Opoku-Agyemang, has opened the 14th edition of the Ghana Garden and Flower Show in Accra.",
+      "published": "2026-09-15T11:10:12.000Z",
+      "summary": "Payments to eligible households under the Livelihood Empowerment Against Poverty (LEAP) programme have resumed nationwide following a reassessment of the beneficiary register.",
       "categories": [
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Malta, Ghana set sights on practical AI partnership",
-      "link": "https://ghanaiantimes.com.gh/malta-ghana-set-sights-on-practical-ai-partnership/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:42:18.000Z",
-      "summary": "Malta and Ghana have an opportunity to build a forward-looking partnership in artificial intelligence, combining Malta’s institutional agility and European regulatory experience with…",
+      "title": "Report anyone demanding money for SHS placement, Education Ministry tells parents",
+      "link": "https://www.graphic.com.gh/news/education/report-anyone-demanding-money-for-shs-placement-education-ministry-tells-parents.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T10:56:49.000Z",
+      "summary": "The Ministry of Education has urged parents and guardians who are asked to pay money to secure or change senior high school (SHS) placements to report such demands to law enforcement.",
       "categories": [
-        "Hot!",
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Examination malpractice is rising, not declining – EduWatch",
+      "link": "https://www.myjoyonline.com/examination-malpractice-is-rising-not-declining-eduwatch/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T10:56:16.000Z",
+      "summary": "The Executive Director of Africa Education Watch (Eduwatch), Kofi Asare, has disagreed with claims that examination malpractice is declining, saying available evidence instead points to a…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Top Story",
+        "BECE",
+        "Eduwatch",
+        "Malpractice",
+        "WAEC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Scientists turn to 3D imaging to improve crop yields",
+      "link": "https://ghanaiantimes.com.gh/scientists-turn-to-3d-imaging-to-improve-crop-yields/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:42:57.000Z",
+      "summary": "Scientists in Ghana are set to “see” beneath the soil surface in real time for the first time, using a new technology expected to improve climate-resilient farming and deepen understanding…",
+      "categories": [
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "VSD rolls out mass rabies vaccination",
+      "link": "https://ghanaiantimes.com.gh/vsd-rolls-out-mass-rabies-vaccination/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:41:06.000Z",
+      "summary": "The Veterinary Services Directorate (VSD) has launched a mass rabies vaccination campaign targeting 25,000 dogs and cats in high-risk areas across the country. The exercise, which runs…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nations FC exit 2026/27 CAF Confed. Cup",
+      "link": "https://ghanaiantimes.com.gh/nations-fc-exit-2026-27-caf-confed-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:35:47.000Z",
+      "summary": "Nations FC have been eliminated from the 2026/27 TotalEnergies CAF Confederation Cup after drawing 1-1 with FC Diarra in the second leg of their preliminary-round tie at the Accra Sports…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Maidens off to Cote d’Ivoire for WAFU B U17 tourney",
+      "link": "https://ghanaiantimes.com.gh/black-maidens-off-to-cote-divoire-for-wafu-b-u17-tourney/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:33:42.000Z",
+      "summary": "The Black Maidens have departed Accra for Yamoussoukro, Cote d’Ivoire, ahead of the WAFU B U17 Girls Cup, which kicks off today. Twenty Black Maidens, along with the technical team, left…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GPL: Hearts perfect, FC Samartex unbeaten, Kotoko back on track",
+      "link": "https://ghanaiantimes.com.gh/gpl-hearts-perfect-fc-samartex-unbeaten-kotoko-back-on-track/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:32:42.000Z",
+      "summary": "Hearts of Oak moved to the top of the Ghana Premier League (GPL) table after a stunning comeback victory, while Asante Kotoko, FC Samartex 1996, Berekum Chelsea, Karela United and Swedru…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+      "link": "https://ghanaiantimes.com.gh/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:28:47.000Z",
+      "summary": "The United States have won the Women’s Basketball World Cup for a record-extending 12th time, defeating a spirited France 97-79 in the final in Berlin. Perennial red-hot favourites, having…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
+      "link": "https://ghanaiantimes.com.gh/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:26:45.000Z",
+      "summary": "Americans Kenneth Bednarek and Melissa Jefferson-Wooden have claimed the sprint double to close off an action-packed weekend in Budapest that saw elite track and field athletes crowned…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ronaldo calls for life Bans over Jota chants",
+      "link": "https://ghanaiantimes.com.gh/ronaldo-calls-for-life-bans-over-jota-chants/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-15T09:24:30.000Z",
+      "summary": "Cristiano Ronaldo ‌has said that fans who appeared to make chants referencing ⁠former teammate Diogo ⁠Jota at Ruben Neves during a Saudi Pro League match should be banned from football…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "One Million Coders programme enrols 141,954",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-one-million-coders-programme-enrols-141-954.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T08:02:38.000Z",
+      "summary": "The government's One Million Coders Programme has enrolled 141,954 accounts nationwide as of August this year.",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dannex Ayrton Starwin donates medicines to support Graphic’s free health screening",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dannex-ayrton-starwin-donates-medicines-to-support-graphics-free-health-screening.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T07:51:56.000Z",
+      "summary": "Pharmaceutical company Dannex Ayrton Starwin PLC has donated medicines to the Graphic Communications Group Ltd (GCGL) to support its annual free health screening exercise.",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Registrar General’s Department holds workshop on protecting Akpeteshie",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-registrar-generals-department-holds-workshop-on-protecting-akpeteshie.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T07:43:47.000Z",
+      "summary": "The Ghana Industrial Property Office (GHIPO) under the Registrar General's Department (RGD) has held a national stakeholders workshop on the protection of locally distilled gin, popularly…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Mass rabies campaign takes off - VSA target to vaccinate 25,000 dogs, cats free this month",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-mass-rabies-campaign-takes-off-vsa-target-to-vaccinate-25-000-dogs-cats-free-this-month.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T07:41:20.000Z",
+      "summary": "The Veterinary Services Department has launched this year’s Mass Rabies Vaccination Campaign for dogs and cats in high-risk areas across the country with a target to vaccinate 25,000…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Health workers urged to save more for retirement",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-health-workers-urged-to-save-more-for-retirement.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T07:34:56.000Z",
+      "summary": "The Health Services Workers Union (HSWU) of the Trades Union Congress (TUC) has urged health workers to move beyond traditional savings and begin making deliberate, long-term investments…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Make higher education financing central to devt - Dr Apaak to African govts",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-make-higher-education-financing-central-to-devt-dr-apaak-to-african-govts.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-15T07:21:45.000Z",
+      "summary": "The Deputy Minister of Education, Dr Clement Abas Apaak, has charged African governments to make the financing of higher education central to their development agenda.",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "SIC, NSIA bosses win CEO penalty shootout at 2026 Insurance Fun Games",
@@ -220,18 +327,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Paramount Chief of Bamvum donates land for new Fire Station at Jongshegu",
-      "link": "https://ghanaiantimes.com.gh/paramount-chief-of-bamvum-donates-land-for-new-fire-station-at-jongshegu/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:31:02.000Z",
-      "summary": "The Paramount Chief of Bamvum, Abdulai Ziblim, has donated a one-acre plot of land at Jongshegu, a suburb of Tamale, to the Ghana National Fire Service (GNFS) for the construction of a new…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Burkina Faso dominates PRURide 2026 Elite Race in Accra",
       "link": "https://www.graphic.com.gh/sports/sports-news/burkina-faso-dominates-pruride-2026-elite-race-in-accra.html",
       "source": "Graphic Sports",
@@ -241,51 +336,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "We won ugly – Kotoko coach Tinkler after ending 11-year wait against Heart of Lions",
-      "link": "https://ghanaiantimes.com.gh/we-won-ugly-kotoko-coach-tinkler-after-ending-11-year-wait-against-heart-of-lions/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:25:44.000Z",
-      "summary": "Asante Kotoko head coach Eric Tinkler has admitted his side had to dig deep to secure their first win over Heart of Lions in 11 years. Kotoko edged the Kpando-based side in a tough…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GBA President calls out Chief Justice over praise for state institutions",
-      "link": "https://ghanaiantimes.com.gh/gba-president-calls-out-chief-justice-over-praise-for-state-institutions/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-14T16:21:57.000Z",
-      "summary": "The President of the Ghana Bar Association (GBA) has criticised Chief Justice Paul Baffoe-Bonnie over comments commending state-owned enterprises under the current administration. She made…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Steven Odarteifio declares bid for NDC National Youth Organiser position",
-      "link": "https://www.graphic.com.gh/news/politics/steven-odarteifio-declares-bid-for-ndc-national-youth-organiser-position.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T16:16:27.000Z",
-      "summary": "Steven Nhyira Odarteifio has officially declared his intention to contest for the position of National Youth Organiser of the National Democratic Congress (NDC).",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest four suspects including two teachers in alleged kidnapping incident",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-four-suspects-including-two-teachers-in-assin-fosu-kidnapping-incident.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T16:04:48.000Z",
-      "summary": "Four suspects, including two teachers, said to be involved in the kidnapping incident of 30-year-old Bismarck Amo from Assin Fosu, have been arrested by the police. The arrest of the…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Nana Fitz challenges GFA to revive Colts football",
@@ -321,17 +371,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Founder’s Day: Monday September 21 declared public holiday",
-      "link": "https://www.graphic.com.gh/news/general-news/founders-day-to-be-observed-on-september-21.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T14:13:31.000Z",
-      "summary": "The Ministry of the Interior has declared Monday, September 21, 2026, as Founder’s Day statutory public holiday. Interior Minister Muntaka Mohammed-Mubarak announced this in a notice issued…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Osagyefo Fight Night: Allotey, Takyi face defining tests in Accra",
       "link": "https://www.graphic.com.gh/sports/sports-news/osagyefo-fight-night-allotey-takyi-face-defining-tests-in-accra.html",
       "source": "Graphic Sports",
@@ -363,50 +402,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "President Mahama to cut sod for Accra-Kumasi Expressway before Christmas",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-cut-sod-for-accra-kumasi-expressway-before-christmas.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T13:13:16.000Z",
-      "summary": "President John Dramani Mahama has announced that construction works on the new 198.7-kiliometre Accra-Kumasi Expressway is expected to begin before Christmas 2026. He said US$2 billion was…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Medical Trust Fund gives 110 children a fighting chance – Cardiothoracic Centre Boss",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-medical-trust-fund-gives-110-children-a-fighting-chance-cardiothoracic-centre-boss.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T11:04:49.000Z",
-      "summary": "More than 110 children with serious heart conditions have received lifesaving treatment at the National Cardiothoracic Centre at Korle Bu Teaching Hospital, one year after the establishment…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kpeshie Lagoon to undergo ecological restoration after demolition of illegal structures",
-      "link": "https://www.graphic.com.gh/news/general-news/kpeshie-lagoon-to-undergo-ecological-restoration-after-demolition-of-illegal-structures.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T10:48:24.000Z",
-      "summary": "The Deputy Chief of Staff at the Presidency in charge Operations, Stan Xoese Dogbe, has directed the Greater Accra Regional Coordinating Council to commence the ecological restoration of…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NACOC arrest three people in Ghana over €225m cocaine shipment seized in France",
-      "link": "https://www.graphic.com.gh/news/general-news/nacoc-arrests-three-over-ghana-cocaine-shipment.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-14T10:29:28.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) has arrested three suspects following the seizure by French customs of nearly 3.9 tonnes of cocaine concealed in a container that arrived from Ghana.",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
