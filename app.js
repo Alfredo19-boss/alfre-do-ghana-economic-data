@@ -222,7 +222,7 @@
           <div class="cell stat tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-label="${esc(it.label)}">
             <div class="stat-top"><span class="k">${esc(it.label)}</span>${chipFor(it)}</div>
             <span class="mono"${it.live ? ` data-calc="${it.live}"` : ""}>${readValue(it)}</span>
-            <span class="market-line" data-market="${esc(it.label)}" hidden></span>
+            <span class="market-line" data-market="${esc(it.label)}" data-official="${esc(readValue(it).replace(/<[^>]+>/g, ""))}" data-officialdate="${esc(it.date || "")}" data-officialsrc="${esc(it.autoSource || "")}" hidden></span>
             ${it.sourceNewer ? `<span class="source-newer">${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} <small>${esc(it.sourceNewer.source)} · ${esc(it.sourceNewer.date)}</small></span>` : ""}
             <span class="note">${toneNote(it.note, it.tone)}${it.status || staleDays(it) ? ` · ${esc(it.date)}` : ""}</span>
           </div>`).join("")}
@@ -694,7 +694,7 @@
         body: `
           <div class="facts">${facts}</div>
           ${it.sourceNewer ? `<p class="sheet-note">The figure above is the one Ghana's own statistics office last published. ${esc(it.sourceNewer.source)} has a newer estimate for ${esc(it.sourceNewer.date)} — it is measured differently, so it sits alongside rather than replacing it, until a person checks the official release.</p>` : ""}
-          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The official reading above is the Bank of Ghana's, published once each morning — it is the figure the rest of this page counts with.</p>` : ""}
+          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The official reading is ${esc(it.autoSource || "the daily published rate")}, checked once each morning and dated ${esc(it.date || "—")} — official rates are published for the previous business day, so that date is normally a day or more behind today. It is the figure the rest of this page counts with.</p>` : ""}
           ${it.note ? `<p class="sheet-note">${toneNote(it.note, it.tone)}</p>` : ""}
           ${points.length > 1
             ? sheetSection("History", sheetChart(points, u) + sheetTable(points, u)) + sheetSection("Trend", trendHtml(analyse(points, u)))
@@ -1272,15 +1272,30 @@
   const LIVE_LABELS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur", "Chinese yuan": "cny", "Gold price": "gold" };
   const liveFor = label => liveQuotes().find(q => q.key === LIVE_LABELS[label]) || null;
   const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
-  // Both rates, side by side: the Bank of Ghana's official reading is the figure in the
-  // big type; the market quote sits under it with the minute it was taken.
+  // Both rates, one above the other. The market quote is the figure in the big type, with the
+  // minute it was taken, because that is what a cedi actually costs right now. The official
+  // reading — the Bank of Ghana's interbank rate, published a day in arrears — sits under it
+  // with its own date, so the card never implies the official rate is today's.
+  // If no fresh quote has arrived, the official reading takes the big type back.
   function paintMarketLines() {
     $$("[data-market]").forEach(el => {
+      const cell = el.closest(".stat");
+      const mono = cell && cell.querySelector(".mono");
+      if (mono && mono.dataset.base === undefined) mono.dataset.base = mono.innerHTML;
       const q = liveFor(el.dataset.market);
-      if (!q) { el.hidden = true; return; }
+      if (!q) {
+        if (mono && mono.dataset.base !== undefined) mono.innerHTML = mono.dataset.base;
+        el.hidden = true;
+        return;
+      }
       const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
       const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
-      el.innerHTML = `<b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span>market · ${esc(liveTime(q.at))}</span>`;
+      if (mono) mono.innerHTML = `${shown}${dir ? `<i class="t-arrow ${dir}">${dir === "up" ? "▲" : "▼"}</i>` : ""}`;
+      const off = el.dataset.official || "", when = el.dataset.officialdate || "", src = el.dataset.officialsrc || "";
+      // the daily figure named in as few words as fit under a card
+      const kind = q.key === "gold" ? "daily close" : /bank of ghana/i.test(src) ? "BoG official" : "official";
+      el.innerHTML = `<span class="at">market · ${esc(liveTime(q.at))}</span>`
+        + (off ? `<b class="official">${esc(off)}</b><span>${kind}${when ? ` · ${esc(when)}` : ""}</span>` : "");
       el.hidden = false;
     });
   }
@@ -1933,9 +1948,9 @@
         every: "Every 20 minutes", at: (window.GDC_LIVE || {}).updated, lateAfter: 0.5,
         note: `${Object.keys((window.GDC_LIVE || {}).quotes || {}).length} quotes held` },
       { name: "Update long history", feeds: "The series since 1993",
-        every: "3rd of each month", at: HISTF.updated, lateAfter: 45, note: `${Object.keys(HISTF.series || {}).length} indicators` },
+        every: "Every morning, 06:40 GMT", at: HISTF.updated, lateAfter: 45, note: `${Object.keys(HISTF.series || {}).length} indicators` },
       { name: "…and African inflation", feeds: "Africa inflation tab",
-        every: "3rd of each month", at: AFRICA.updated, lateAfter: 45, note: `${Object.keys(AFRICA.countries || {}).length} countries` },
+        every: "Every morning, 06:40 GMT", at: AFRICA.updated, lateAfter: 45, note: `${Object.keys(AFRICA.countries || {}).length} countries` },
       { name: "Write weekly briefing", feeds: "Articles tab",
         every: "Mondays, 06:30 GMT", at: (ARTS[0] || {}).published || null,
         fallbackDate: (ARTS[0] || {}).date, lateAfter: 10, note: ARTS.length ? `Newest: ${ARTS[0].title}` : "None yet" },
@@ -1994,6 +2009,20 @@
       ? `How fresh everything on this site is. ${waitingCount} job${waitingCount === 1 ? " has" : "s have"} never delivered — normal before the site is published and the Actions schedules are switched on; run each one once from the Actions tab.`
       : "How fresh everything on this site is: when each automatic job last delivered, and how old every published figure is.";
 
+    // what Alfredo was asked and could not answer, from this browser's own record
+    const misses = alfMisses();
+    $("status-alf-block").hidden = !misses.length;
+    if (misses.length) {
+      $("status-misses").innerHTML = `
+        <thead><tr><th>Asked</th><th>When</th><th>Language</th><th>What he offered instead</th></tr></thead>
+        <tbody>${misses.slice(0, 20).map(m => `<tr>
+          <td>${esc(m.q || "")}</td>
+          <td class="d">${m.at ? timeAgo(Date.parse(m.at)) : "—"}</td>
+          <td class="d">${esc(((LANGS[m.lang] || {}).name) || m.lang || "—")}</td>
+          <td class="d note-cell">${(m.near || []).length ? esc((m.near || []).join(", ")) : "Nothing close"}</td>
+        </tr>`).join("")}</tbody>`;
+    }
+
     $("status-note").innerHTML = `This page reads the data files themselves, so it reflects what visitors are actually seeing, not what GitHub intended to run. A job marked late usually means the Actions schedule stopped — GitHub pauses scheduled workflows in a repository that has had no activity for 60 days. Open the <b>Actions</b> tab, re-enable them, and run the job once by hand. The page itself re-reads every data file once a minute.`;
   }
 
@@ -2027,20 +2056,30 @@
   const ASK_TAGS = { debt: "total debt", percap: "debt per person", inflation: "inflation",
     dollar: "us dollar", population: "population", holiday: "next holiday",
     trade: "exports imports", budget: "budget" };
-  function alfLocalIntents(raw) {
-    const low = raw.toLowerCase();
-    const tags = [];
-    let greet = false, help = false;
+  // Every language's trigger words, flattened once instead of on every question, so the
+  // match is a single pass over a plain list however many languages are installed.
+  let ASK_INDEX = null;
+  function askIndex() {
+    if (ASK_INDEX) return ASK_INDEX;
+    ASK_INDEX = [];
     for (const code of Object.keys(LANGS)) {
       const ask = LANGS[code].ask || {};
       for (const [intent, words] of Object.entries(ask)) {
-        if (!words.some(w => low.includes(w.toLowerCase()))) continue;
-        if (intent === "hello") greet = true;
-        else if (intent === "help") help = true;
-        else if (ASK_TAGS[intent]) tags.push(ASK_TAGS[intent]);
+        (words || []).forEach(w => ASK_INDEX.push({ intent, word: String(w).toLowerCase() }));
       }
     }
-    return { tags, greet, help };
+    return ASK_INDEX;
+  }
+  function alfLocalIntents(raw) {
+    const low = raw.toLowerCase();
+    const tags = [];
+    const hit = new Set();
+    for (const { intent, word } of askIndex()) {
+      if (!low.includes(word)) continue;
+      hit.add(intent);
+      if (ASK_TAGS[intent]) tags.push(ASK_TAGS[intent]);
+    }
+    return { tags, hit, greet: hit.has("hello"), help: hit.has("help") };
   }
 
   const alfNorm = q => q.toLowerCase().replace(/[^a-z0-9%\s.-]/g, " ").replace(/\s+/g, " ").trim();
@@ -2116,22 +2155,253 @@
     const liveLine = nowQ
       ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`, time: esc(liveTime(nowQ.at)) })}</span>`
       : "";
+    // a picture of where the figure has been, and a way through to the full detail.
+    // Its own recent readings come first — they are closer to the figure being quoted than
+    // an annual series that may end a year earlier.
+    const chartPoints = points.length >= 4 ? points : ((long && long.points) || points);
+    const chart = alfSpark(chartPoints, `${it.label} over time`);
+    const src = it.seriesSource || it.autoSource || (long && long.source) || "";
+    const from = src ? `<span class="alf-note">${t("reading.from", { source: esc(src), date: esc(it.date || "") })}</span>` : "";
+    const open = readKey(it) ? `<button type="button" class="alf-open-read" data-detail="read:${readKey(it)}">${t("reading.open")}</button>` : "";
     return `${t("reading", { label: esc(L10N(it.label)), value: showVal(it.value, u), date: esc(it.date || "") })}
       ${liveLine}
       ${note}
       ${trend ? `<span class="alf-note">${trend}</span>` : ""}
-      ${range ? `<span class="alf-note">${range}</span>` : ""}`;
+      ${range ? `<span class="alf-note">${range}</span>` : ""}
+      ${chart}${from}${open}`;
   };
+
+  /* ---- how close two phrasings are, so a near miss can be offered back ---- */
+  // Dice coefficient on character pairs: tolerant of typos and of endings ("inflashun",
+  // "petrol prices"), and cheap enough to run over every figure name on every miss.
+  const alfPairs = s => { const o = []; for (let i = 0; i < s.length - 1; i++) o.push(s.slice(i, i + 2)); return o; };
+  function alfDice(a, b) {
+    if (a === b) return 1;
+    const A = alfPairs(a), B = alfPairs(b);
+    if (!A.length || !B.length) return 0;
+    const pool = new Map();
+    A.forEach(g => pool.set(g, (pool.get(g) || 0) + 1));
+    let hit = 0;
+    B.forEach(g => { const n = pool.get(g) || 0; if (n > 0) { pool.set(g, n - 1); hit++; } });
+    return 2 * hit / (A.length + B.length);
+  }
+  const ALF_STOP = new Set("the a an of for is are was were what how much many and or to in on at me my mine i you your tell show about please can could do does did give".split(" "));
+  // every name a figure answers to, English plus the chosen language.
+  // Built once per language rather than on every miss.
+  let NAME_INDEX = null, NAME_INDEX_LANG = null;
+  function alfNameIndex() {
+    if (NAME_INDEX && NAME_INDEX_LANG === alfLang) return NAME_INDEX;
+    const out = new Map();
+    Object.entries(ALF_WORDS).forEach(([label, words]) => out.set(label, [label.toLowerCase(), ...words]));
+    allItems.forEach(i => {
+      const words = out.get(i.label) || [i.label.toLowerCase()];
+      const local = L10N(i.label);
+      if (local && local !== i.label) words.push(String(local).toLowerCase());
+      out.set(i.label, words);
+    });
+    NAME_INDEX = out;
+    NAME_INDEX_LANG = alfLang;
+    return out;
+  }
+  // the closest figures to what was actually typed, best first
+  function alfNear(q, n = 3) {
+    const toks = alfNorm(q).split(" ").filter(w => w.length > 2 && !ALF_STOP.has(w));
+    const tries = [];
+    toks.forEach((w, i) => { tries.push(w); if (toks[i + 1]) tries.push(`${w} ${toks[i + 1]}`); });
+    if (!tries.length) return [];
+    const scored = [];
+    alfNameIndex().forEach((words, label) => {
+      let best = 0;
+      words.forEach(p => tries.forEach(c => { const s = alfDice(c, p); if (s > best) best = s; }));
+      if (best >= 0.5) scored.push({ label, best });
+    });
+    return scored.sort((a, b) => b.best - a.best).slice(0, n).map(s => s.label);
+  }
+
+  /* ---- a small chart, sized for a chat bubble ---- */
+  function alfSpark(points, alt) {
+    const pts = (points || []).filter(p => typeof p.value === "number").slice(-24);
+    if (pts.length < 3) return "";
+    const vals = pts.map(p => p.value);
+    const min = Math.min(...vals), max = Math.max(...vals), span = (max - min) || 1;
+    const W = 208, H = 46, P = 4;
+    const x = i => P + i * (W - 2 * P) / (pts.length - 1);
+    const y = v => H - P - (v - min) / span * (H - 2 * P);
+    const d = pts.map((p, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(p.value).toFixed(1)}`).join("");
+    const rising = vals[vals.length - 1] >= vals[0];
+    return `<span class="alf-chart">
+      <svg class="alf-spark ${rising ? "up" : "down"}" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(alt || "")}">
+        <path class="alf-spark-area" d="${d}L${x(pts.length - 1).toFixed(1)},${H - P}L${x(0).toFixed(1)},${H - P}Z"/>
+        <path class="alf-spark-line" d="${d}"/>
+        <circle class="alf-spark-dot" cx="${x(pts.length - 1).toFixed(1)}" cy="${y(vals[vals.length - 1]).toFixed(1)}" r="3"/>
+      </svg>
+      <span class="alf-spark-ends">${esc(pts[0].date)} — ${esc(pts[pts.length - 1].date)}</span>
+    </span>`;
+  }
+
+  /* ---- what he was last talking about, so a follow-up makes sense ---- */
+  let alfLast = { item: null, country: null };
+  const alfForget = () => { alfLast = { item: null, country: null }; };
+
+  // the long annual series for a figure, or its own recent readings
+  const alfSeriesFor = it => {
+    const long = HIST[HIST_ALIAS[it.label] || it.label];
+    const own = seriesOf(it);
+    return (long && long.points && long.points.length > own.length) ? long.points : own;
+  };
+
+  // "and last year?", "why?", "where is that from?" — only reached when nothing else matched
+  function alfFollowUp(q) {
+    const it = alfLast.item;
+    if (!it) return null;
+    const u = unitBits(it);
+    const label = esc(L10N(it.label));
+
+    if (/^(why|why is|why was|how come)\b/.test(q)) {
+      const pts = seriesOf(it);
+      const prev = pts.length > 1 ? pts[pts.length - 2] : null;
+      const move = prev ? it.value - prev.value : 0;
+      const trend = prev
+        ? `<span class="alf-note">${T(move > 0 ? "reading.up" : move < 0 ? "reading.down" : "reading.flat", { from: showVal(prev.value, u), fromDate: esc(prev.date) })}</span>`
+        : "";
+      return `${T("follow.why", { label })} ${it.note && alfLang === "en" ? toneNote(it.note, it.tone) : ""}${trend}${alfSourceLine(it)}`.trim();
+    }
+
+    if (/(source|where.*(from|get)|who says|who published|is it true)/.test(q))
+      return `${T("follow.source", { label })} ${alfSourceLine(it) || esc(it.date || "")}`;
+
+    if (/(last year|a year ago|year before|previously|earlier|before that|what about (the )?(past|history)|since when|trend|history)/.test(q))
+      return alfChangeAnswer(it, q);
+
+    if (/(high|highest|peak|record|low|lowest|worst|best|weakest|strongest|cheapest|dearest|most expensive)/.test(q))
+      return alfExtremeAnswer(it, q);
+
+    if (/^(and|what about|how about|ok|okay)\b/.test(q) && q.split(" ").length <= 4)
+      return alfReadingAnswer(it);
+
+    return null;
+  }
+
+  const alfSourceLine = it => {
+    const src = it.seriesSource || it.autoSource || (HIST[HIST_ALIAS[it.label] || it.label] || {}).source || "";
+    return src ? `<span class="alf-note">${T("reading.from", { source: esc(src), date: esc(it.date || "") })}</span>` : "";
+  };
+
+  // a gap between two readings of the same figure: percentages move in points, not per cent
+  const alfGap = (diff, it, u) =>
+    (it.unit || "").trim() === "%" ? `${fmt(Math.abs(diff), 1)} points` : showVal(Math.abs(diff), u);
+
+  // how a figure has moved: to a named year if one is given, otherwise a year back.
+  // The "now" end is always the figure published on the page, never the last point of an
+  // annual series that may stop a year short of it.
+  function alfChangeAnswer(it, q) {
+    const pts = alfSeriesFor(it);
+    if (pts.length < 2) return null;
+    const u = unitBits(it);
+    const yearOf = p => +((String((p || {}).date || "").match(/\b(19|20)\d{2}\b/) || [])[0] || 0);
+    const now = { date: it.date || (pts[pts.length - 1] || {}).date, value: it.value };
+    const nowYear = yearOf(now);
+    const wanted = (q.match(/\b(19|20)\d{2}\b/) || [])[0];
+
+    let then = null;
+    if (wanted) then = pts.filter(p => String(p.date).includes(wanted)).slice(-1)[0] || null;
+    if (!then && nowYear) then = pts.filter(p => yearOf(p) === nowYear - 1).slice(-1)[0] || null;
+    if (!then) then = pts.filter(p => yearOf(p) < nowYear).slice(-1)[0] || pts[Math.max(0, pts.length - 13)];
+    if (!then || then.date === now.date) return null;
+
+    const diff = now.value - then.value;
+    // a relative percentage on top of a figure already measured in per cent reads as a second,
+    // different number for the same move, so it is only shown for levels and money
+    const pct = (it.unit || "").trim() !== "%" && then.value ? Math.abs(diff / then.value) * 100 : null;
+    const line = pts.some(p => p.date === now.date) ? pts : [...pts, now];
+    return `${T("change", {
+      label: esc(L10N(it.label)), from: showVal(then.value, u), fromDate: esc(then.date),
+      to: showVal(now.value, u), toDate: esc(now.date),
+      direction: T(diff > 0 ? "rose" : diff < 0 ? "fell" : "held"),
+      gap: alfGap(diff, it, u)
+    })}${pct !== null && isFinite(pct) ? ` <span class="alf-note">${T("change.pct", { pct: fmt(pct, 1) })}</span>` : ""}
+      ${alfSpark(line, `${it.label} over time`)}${alfOpenLink(it)}`;
+  }
+
+  // the high or low of a figure across everything the site holds
+  function alfExtremeAnswer(it, q) {
+    const pts = alfSeriesFor(it);
+    if (pts.length < 3) return null;
+    // "weakest" for a currency means the most cedis per dollar, so it belongs with the highs
+    const wantLow = /(low|lowest|least|smallest|best|strongest|cheapest)/.test(q) && !/(high|highest|peak|record|worst|weakest|dearest|most expensive)/.test(q);
+    const pick = pts.reduce((a, b) => (wantLow ? (b.value < a.value ? b : a) : (b.value > a.value ? b : a)));
+    const u = unitBits(it);
+    const now = { date: it.date || (pts[pts.length - 1] || {}).date, value: it.value };
+    const line = pts.some(p => p.date === now.date) ? pts : [...pts, now];
+    return `${T(wantLow ? "extreme.low" : "extreme.high", {
+      label: esc(L10N(it.label)), value: showVal(pick.value, u), date: esc(pick.date),
+      since: esc(pts[0].date), now: showVal(it.value, u), nowDate: esc(it.date || "")
+    })} ${alfSpark(line, `${it.label} over time`)}${alfOpenLink(it)}`;
+  }
+
+  const alfOpenLink = it => {
+    const key = readKey(it);
+    return key ? `<button type="button" class="alf-open-read" data-detail="read:${key}">${T("reading.open")}</button>` : "";
+  };
+
+  /* ---- two figures at once ---- */
+  const ALF_SPLIT = /\bvs\.?\b|\bversus\b|\bcompared (?:to|with)\b|\bagainst\b|\bor\b|\bthan\b|\bminus\b|\band\b/;
+  function alfCompare(q) {
+    // the classic one first: is money actually earning anything above inflation?
+    const pol = readBy("BoG policy rate"), infl = readBy("Inflation");
+    if (pol && infl && /(real (interest )?rate|above inflation|beat(s|ing)? inflation|ahead of inflation|policy rate.*inflation|inflation.*policy rate)/.test(q)) {
+      const real = pol.value - infl.value;
+      return T("real.rate", {
+        policy: fmt(pol.value, 1), policyDate: esc(pol.date || ""),
+        inflation: fmt(infl.value, 1), inflationDate: esc(infl.date || ""),
+        real: fmt(Math.abs(real), 1), direction: T(real >= 0 ? "above" : "below")
+      });
+    }
+    const parts = q.split(ALF_SPLIT);
+    if (parts.length < 2) return null;
+    const a = alfFindReading(parts[0]);
+    const b = alfFindReading(parts.slice(1).join(" "));
+    if (!a || !b || a === b) return null;
+    const ua = unitBits(a), ub = unitBits(b);
+    const same = (a.unit || "") === (b.unit || "");
+    const gap = same
+      ? ` <span class="alf-note">${T("compare.gap", {
+          higher: esc(L10N(a.value >= b.value ? a.label : b.label)),
+          gap: showVal(Math.abs(a.value - b.value), ua)
+        })}</span>` : "";
+    alfLast.item = a;
+    return `${T("compare", {
+      a: esc(L10N(a.label)), av: showVal(a.value, ua), ad: esc(a.date || ""),
+      b: esc(L10N(b.label)), bv: showVal(b.value, ub), bd: esc(b.date || "")
+    })}${gap}`;
+  }
 
   function alfAnswer(raw) {
     const local = alfLocalIntents(raw);
-    const q = alfNorm(`${raw} ${local.tags.join(" ")}`);
+    let q = alfNorm(`${raw} ${local.tags.join(" ")}`);
     const t0 = Date.now();
     const t = t0;
     if (!q) return null;
 
-    // someone says his name: he introduces himself
-    if (/\balfredo\b/.test(q)) return T("iam");
+    // manners first, so "thank you Alfredo" is taken as thanks and not as his name
+    if (local.hit.has("thanks") || /\b(thanks|thank you|thank u|thankyou|thx|i appreciate|much obliged|well done|good job|nice one)\b/.test(q))
+      return T("thanks");
+
+    // apostrophes are stripped before matching, so "that's all" arrives as "that s all"
+    if (local.hit.has("bye") || /\b(bye|goodbye|good bye|see you|goodnight|good night|that s all|thats all|i m done|im done|nothing else|no more questions)\b/.test(q))
+      return T("bye");
+
+    if (local.hit.has("howareyou") || /\b(how are you|how you dey|how far|are you (ok|well|fine)|hope you are well)\b/.test(q))
+      return T("howareyou");
+
+    // His name. Said on its own it is someone calling him, and he answers at once. Said as
+    // part of a real question — "Alfredo, what is inflation?" — the name is dropped and the
+    // question answered, which is what the person actually wanted.
+    if (/\balfredo\b/.test(q)) {
+      const rest = q.replace(/\b(alfredo|hi|hello|hey|yo|ok|okay|please|oh|eh)\b/g, " ").replace(/[^a-z0-9%]+/g, " ").trim();
+      if (!rest || rest.length < 4) return T("iam");
+      q = q.replace(/\balfredo\b/g, " ").replace(/\s+/g, " ").trim();
+    }
 
     if (local.greet || /^(hi|hello|hey|good (morning|afternoon|evening)|ete sen|akwaaba)\b/.test(q))
       return T("hello");
@@ -2199,6 +2469,7 @@
       const gh = AFRICA.countries.GHA;
       const named = namedCountry;
       if (named && named.iso !== "GHA") {
+        alfLast.country = named;
         const diff = gh.latest.value - named.value;
         const per = p => esc(p.latest.period || p.latest.year || "");
         const size = named.gdp ? ` <span class="alf-note">${T("africa.gdp", { country: esc(named.name), gdp: fmt(named.gdp.value, named.gdp.value < 10 ? 1 : 0), year: esc(named.gdp.year) })}</span>` : "";
@@ -2208,18 +2479,42 @@
       return `${T("africa.rank", { ghana: fmt(gh.latest.value, 1), period: esc(gh.latest.period || gh.latest.year || ""), rank: ordinal(list.length - rank + 1), count: list.length, highest: esc(list[list.length - 1].name), highestValue: fmt(list[list.length - 1].value, 1), lowest: esc(list[0].name), lowestValue: fmt(list[0].value, 1) })} <a href="#africa">${T("africa.open")}</a>.`;
     }
 
+    // two figures at once: "the policy rate against inflation", "petrol or diesel"
+    const two = alfCompare(q);
+    if (two) return two;
+
     // any published reading, with its history
     const it = alfFindReading(q);
-    if (it) return alfReadingAnswer(it);
+    if (it) {
+      alfLast.item = it;
+      if (/(chang|mov|ris|ros|fall|fell|since|a year ago|last year|trend|history|over time)/.test(q)) {
+        const moved = alfChangeAnswer(it, q);
+        if (moved) return moved;
+      }
+      if (/(high|highest|peak|record|low|lowest|worst|best|weakest|strongest|cheapest|dearest|most expensive)/.test(q)) {
+        const ext = alfExtremeAnswer(it, q);
+        if (ext) return ext;
+      }
+      return alfReadingAnswer(it);
+    }
+
+    // nothing named at all: it may be following on from the last answer
+    const follow = alfFollowUp(q);
+    if (follow) return follow;
 
     return null;
   }
 
+  // A wall display can be left open for days. Keeping every message would grow the page
+  // without limit, so the oldest fall away once the conversation is long — well past
+  // anything a reader would scroll back through.
+  const ALF_LOG_MAX = 60;
   function alfSay(who, html) {
     const div = document.createElement("div");
     div.className = `alf-msg ${who}`;
     div.innerHTML = html;
     alfLog.appendChild(div);
+    while (alfLog.children.length > ALF_LOG_MAX) alfLog.removeChild(alfLog.firstChild);
     alfLog.scrollTop = alfLog.scrollHeight;
     return div;
   }
@@ -2230,6 +2525,16 @@
     if (local) { alfSay("alf", local); speak(local); return; }
 
     if (!ALF.apiUrl) {
+      // a dead end helps nobody: offer the figures closest to what was actually asked
+      const near = alfNear(question);
+      noteMiss(question, near);
+      if (near.length) {
+        const chips = near.map(l => `<button type="button" class="alf-guess" data-ask="${esc(l)}">${esc(L10N(l))}</button>`).join("");
+        const lead = T("unknown.near");
+        alfSay("alf", `${lead}<span class="alf-guesses">${chips}</span>`);
+        speak(lead);
+        return;
+      }
       const miss = T("unknown", { count: allItems.length });
       alfSay("alf", miss);
       speak(miss);
@@ -2250,6 +2555,24 @@
       waiting.innerHTML = `I couldn't reach the assistant just then. Everything on the dashboard I can still answer myself.`;
     }
   }
+
+  // Questions Alfredo could not answer, kept in this browser only so the person running the
+  // site can see what people actually ask and teach him those words. Nothing is sent anywhere.
+  function noteMiss(question, near) {
+    try {
+      const list = JSON.parse(recall("alf.misses") || "[]");
+      list.unshift({ q: String(question).slice(0, 140), at: new Date().toISOString(), lang: alfLang, near });
+      remember("alf.misses", JSON.stringify(list.slice(0, 40)));
+    } catch (e) { /* private window, or storage full: not worth interrupting the answer */ }
+  }
+  // a declaration, not a const: the status page renders before this block is reached
+  function alfMisses() { try { return JSON.parse(recall("alf.misses") || "[]"); } catch (e) { return []; } }
+
+  // tapping one of the "did you mean" chips asks that question properly
+  alfLog.addEventListener("click", e => {
+    const b = e.target.closest("button[data-ask]");
+    if (b) alfAsk(b.dataset.ask);
+  });
 
   // what an external assistant would need to answer well
   function alfContext() {
@@ -2328,9 +2651,18 @@
     }).join("");
   }
 
+  // Choosing a voice means walking every voice the device has installed, which on a laptop
+  // can be a hundred or more. The answer only changes when the device's voice list changes,
+  // so it is worked out once per language and kept.
+  let VOICE_CACHE = {};
   function pickVoice(pack) {
     const voices = (synth && synth.getVoices()) || [];
     if (!voices.length) return { voice: null, matched: false };
+    const key = `${pack.speech || "en-GH"}|${voices.length}`;
+    if (!VOICE_CACHE[key]) VOICE_CACHE[key] = pickVoiceFresh(pack, voices);
+    return VOICE_CACHE[key];
+  }
+  function pickVoiceFresh(pack, voices) {
     const want = (pack.speech || "en-GH").toLowerCase();
     // English entries in voiceHints are stand-ins, not a match — they must not suppress the
     // "no voice for this language" note, so they are left to the fallback below.
@@ -2372,9 +2704,23 @@
     await player.play();
   }
 
+  // What gets read aloud, as against what is on screen. A chart's date range, the button
+  // through to the history and the caveats underneath are all worth reading with the eye and
+  // tedious to sit through, so the voice takes the answer itself and starts sooner for it.
+  function spokenText(html) {
+    const d = document.createElement("div");
+    d.innerHTML = html;
+    d.querySelectorAll("svg, .alf-spark-ends, .alf-open-read, .alf-guesses").forEach(n => n.remove());
+    const lead = (d.textContent || "").replace(/\s+/g, " ").trim();
+    if (lead.length <= 260) return lead;
+    // a long answer: read to the end of the sentence that carries the figure
+    const cut = lead.slice(0, 260).lastIndexOf(". ");
+    return cut > 60 ? lead.slice(0, cut + 1) : lead.slice(0, 260);
+  }
+
   function speak(html) {
     if (!speakOn) return;
-    const text = plainText(html);
+    const text = spokenText(html);
     if (!text) return;
     const code = alfLang;
     const pack = LANGS[code] || {};
@@ -2404,7 +2750,11 @@
       }
     } catch (e) { /* no voice on this device: the answer is on screen anyway */ }
   }
-  if (synth && typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", () => { saidNoVoice = {}; drawVoices(); });
+  if (synth && typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", () => { saidNoVoice = {}; VOICE_CACHE = {}; drawVoices(); });
+  // Ask the browser for its voice list now rather than at the moment of the first answer:
+  // on Chrome the first call is what triggers the list to load, and doing it here means the
+  // first thing Alfredo says starts speaking straight away instead of after a pause.
+  if (synth) { try { synth.getVoices(); } catch (e) { /* no voices on this device */ } }
   $("alf-voice").addEventListener("change", e => {
     remember(`alf.voice.${alfLang}`, e.target.value);
     const pack = LANGS[alfLang] || {};
@@ -2482,6 +2832,7 @@
   });
   function newChat() {
     if (synth) synth.cancel();
+    alfForget();
     alfLog.innerHTML = "";
     const note = T("note.figures");
     alfSay("alf", T("greeting") + (note ? ` <span class="alf-note">${note}</span>` : ""));
