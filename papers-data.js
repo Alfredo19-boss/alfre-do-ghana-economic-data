@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-15T03:27:00.722Z",
+  "updated": "2026-09-15T06:41:07.848Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,112 +25,116 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Bond market: Turnover nearly doubled by 94.65% to GH¢4.13bn",
-      "link": "https://www.myjoyonline.com/bond-market-turnover-nearly-doubled-by-94-65-to-gh%c2%a24-13bn/",
+      "title": "Catholic Bishops pressure gov’t to sign long-delayed mission schools agreement",
+      "link": "https://www.myjoyonline.com/catholic-bishops-pressure-govt-to-sign-long-delayed-mission-schools-agreement/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T03:10:13.000Z",
-      "summary": "Trading was concentrated in the belly, with 2031-2034 maturities accounting for 53.75% of turnover at an average yield of 13.90%.",
-      "categories": [
-        "Business",
-        "Stocks",
-        "Bond market",
-        "GFIM",
-        "turnover",
-        "YTM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Valencia sack Corberan and chief executive",
-      "link": "https://www.myjoyonline.com/valencia-sack-corberan-and-chief-executive/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T00:23:00.000Z",
-      "summary": "Valencia have sacked head coach Carlos Corberan and their football chief executive Ron Gourlay after a winless start to the season.",
-      "categories": [
-        "Football",
-        "Carlos Corberan",
-        "La Liga",
-        "Valencia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ronaldo demands lifetime bans over Jota chants",
-      "link": "https://www.myjoyonline.com/ronaldo-demands-lifetime-bans-over-jota-chants/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T00:14:00.000Z",
-      "summary": "Portugal star Cristiano Ronaldo has called for lifetime bans to be issued to fans who chanted the late Diogo Jota's name towards his international team-mate Ruben Neves.",
-      "categories": [
-        "Football",
-        "Cristiano Ronaldo",
-        "Diogo Jota"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Arsenal to contact Pro Ref over Konsa penalty",
-      "link": "https://www.myjoyonline.com/arsenal-to-contact-pro-ref-over-konsa-penalty/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T00:05:00.000Z",
-      "summary": "Arsenal will contact refereeing body Pro Ref over the incident in which Ezri Konsa conceded a penalty in Saturday's win over Sunderland.",
-      "categories": [
-        "Football",
-        "Arsenal",
-        "Ezri Konsa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No weekend game for Manchester derby VAR officials",
-      "link": "https://www.myjoyonline.com/no-weekend-game-for-manchester-derby-var-officials/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T23:55:00.000Z",
-      "summary": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, have not been appointed for this weekend's Premier League games.",
-      "categories": [
-        "Football",
-        "Manchester derby",
-        "VAR"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AI ‘kill switch’ may need to be mandatory, Anthropic co-founder says",
-      "link": "https://www.myjoyonline.com/ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T23:46:00.000Z",
-      "summary": "An artificial intelligence \"kill switch\" which can be checked by a third party may need to be mandatory for companies, a co-founder of one of the world's largest AI firms has said.",
-      "categories": [
-        "Technology",
-        "Anthropic",
-        "Artificial Intelligence (AI)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Culture shift’ needed in how UK does business, PM urges",
-      "link": "https://www.myjoyonline.com/culture-shift-needed-in-how-uk-does-business-pm-urges/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T23:35:00.000Z",
-      "summary": "The UK needs a \"culture shift\" in how it does business, Andy Burnham has said ahead of a meeting between some of Britain's biggest bosses and the government.",
-      "categories": [
-        "International",
-        "Andy Burnham",
-        "Culture shift",
-        "UK PM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SHS placement crisis? GES says 95% of students are already placed",
-      "link": "https://www.myjoyonline.com/shs-placement-crisis-ges-says-95-of-students-are-already-placed/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T23:26:00.000Z",
-      "summary": "The Ghana Education Service (GES) says that about 95% of students seeking admission to senior high schools have already been placed, pushing back against growing concerns about this year’s…",
+      "published": "2026-09-15T06:06:00.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference is putting pressure on the government to conclude and sign the long-discussed agreement between the state and Churches on the management of mission…",
       "categories": [
         "Education",
-        "HP News 1",
-        "Computerised School Selection and Placement System (CSSPS)",
-        "Ghana Education Service"
+        "Catholic Bishops Conference",
+        "Christian Mission Schools",
+        "Ghana Education Service (GES)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cedi under fresh pressure as Christmas import demand drives dollar surge",
+      "link": "https://www.myjoyonline.com/cedi-under-fresh-pressure-as-christmas-import-demand-drives-dollar-surge/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T05:51:00.000Z",
+      "summary": "The Ghana cedi is facing renewed pressure against the US dollar, recording its second monthly depreciation since May as demand for foreign exchange continues to rise.",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 2",
+        "HP News 8",
+        "National",
+        "Cedi Depreciation",
+        "Dollar"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ato Forson eyes first-week November for 2027 Budget, promises jobs and major infrastructure push",
+      "link": "https://www.myjoyonline.com/ato-forson-eyes-first-week-november-for-2027-budget-promises-jobs-and-major-infrastructure-push/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T05:42:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has hinted that the 2027 Budget will be presented to Parliament in the first week of November 2026.",
+      "categories": [
+        "Economy",
+        "HP Business 1",
+        "HP News 3",
+        "National",
+        "2027 Budget",
+        "Dr Cassiel Ato Forson"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Catholic Bishops demand probe into ‘protocol’ admissions amid SHS placement challenges",
+      "link": "https://www.myjoyonline.com/catholic-bishops-demand-probe-into-protocol-admissions-amid-shs-placement-challenges/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T05:34:00.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference has called for a full review of Ghana’s senior high school placement system, demanding transparency over alleged “protocol” admissions into…",
+      "categories": [
+        "Education",
+        "Top Story",
+        "Catholic Bishops’ Conference",
+        "SHS placement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SHS placement: Catholic Bishops demand probe into alleged payments for school places",
+      "link": "https://www.myjoyonline.com/shs-placement-catholic-bishops-demand-probe-into-alleged-payments-for-school-places/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T05:17:00.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference has called for an independent investigation into allegations that parents are being asked to pay money to secure senior high school places for their…",
+      "categories": [
+        "Education",
+        "Catholic Bishops Conference",
+        "SHS placement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Facts about Nigeria’s Dangote oil refinery Initial Public Offering",
+      "link": "https://www.myjoyonline.com/facts-about-nigerias-dangote-oil-refinery-initial-public-offering/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T04:53:00.000Z",
+      "summary": "Nigeria's Dangote Group is selling 4.1 billion shares in its oil refinery to raise 2.15 trillion naira ($1.6 billion) in what is set to become Africa's largest initial public offering to…",
+      "categories": [
+        "Africa",
+        "HP News 9",
+        "Dangote oil refinery",
+        "IPO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump says AI safety fears a ‘hoax’ as he rejects calls for greater safeguards",
+      "link": "https://www.myjoyonline.com/trump-says-ai-safety-fears-a-hoax-as-he-rejects-calls-for-greater-safeguards/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T04:42:00.000Z",
+      "summary": "US President Donald Trump has said fears about the safety of AI are a \"hoax\", as he criticised calls for more guardrails on the fast-moving technology.",
+      "categories": [
+        "International",
+        "AI Safety",
+        "Donald Trump"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
+      "link": "https://www.myjoyonline.com/oil-climbs-as-saudi-pipeline-outage-fresh-attacks-heighten-supply-concerns/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T04:32:00.000Z",
+      "summary": "Oil prices rose on Tuesday as concerns over supply disruptions persisted after attacks on Saudi Arabian energy infrastructure left the kingdom's East-West pipeline offline and cast doubt on…",
+      "categories": [
+        "HP News 10",
+        "International",
+        "Oil prices",
+        "Saudi Arabia"
       ],
       "site": "https://www.myjoyonline.com/"
     },

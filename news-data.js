@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-15T03:26:41.466Z",
+  "updated": "2026-09-15T06:40:54.236Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,14 +23,84 @@ window.GDC_NEWS = {
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: 1/1 stories",
+    "Ghana News Agency: failed (HTTP 415)",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Cedi under fresh pressure as Christmas import demand drives dollar surge",
+      "link": "https://www.myjoyonline.com/cedi-under-fresh-pressure-as-christmas-import-demand-drives-dollar-surge/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T05:51:00.000Z",
+      "summary": "The Ghana cedi is facing renewed pressure against the US dollar, recording its second monthly depreciation since May as demand for foreign exchange continues to rise."
+    },
+    {
+      "title": "Ato Forson eyes first-week November for 2027 Budget, promises jobs and major infrastructure push",
+      "link": "https://www.myjoyonline.com/ato-forson-eyes-first-week-november-for-2027-budget-promises-jobs-and-major-infrastructure-push/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T05:42:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has hinted that the 2027 Budget will be presented to Parliament in the first week of November 2026."
+    },
+    {
+      "title": "Ghana’s Border Security: The Case for a Fully Integrated Joint Security Architecture",
+      "link": "https://thehighstreetjournal.com/ghanas-border-security-the-case-for-a-fully-integrated-joint-security-architecture/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T05:05:00.000Z",
+      "summary": "Ghana has the institutions and expertise to protect its borders; the challenge is connecting them through a permanent, intelligence-led security architecture that works together."
+    },
+    {
+      "title": "Laboma Demolition: When Negligent Authorities & ‘Corner-Cutting’ Developers Burn Huge Investments",
+      "link": "https://thehighstreetjournal.com/laboma-demolition-when-negligent-authorities-corner-cutting-developers-burn-huge-investments/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T05:03:00.000Z",
+      "summary": "Laboma’s demolitions expose how negligent authorities and developers who bypass rules can turn preventable encroachment into costly destruction, wiping out millions in investments…"
+    },
+    {
+      "title": "Ghana’s Cashew Waste Spurs Women-Led Businesses",
+      "link": "https://thehighstreetjournal.com/cashew-waste-to-create-women-led-jobs/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T05:02:00.000Z",
+      "summary": "Ghana discards an estimated 2 million metric tons of cashew apples each year, pointing to an untapped source of income as women and young people are trained to turn the highly perishable…"
+    },
+    {
+      "title": "TOR’s GH¢1.24bn Profit Revives Debate Over State Asset Restructuring",
+      "link": "https://thehighstreetjournal.com/tors-gh%c2%a21-24bn-profit-revives-debate-over-state-asset-restructuring/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T05:01:00.000Z",
+      "summary": "TOR’s turnaround strengthens the case for auditing distressed state assets before privatisation, as improved management, restructuring and investment can restore financial and strategic…"
+    },
+    {
+      "title": "China Railway Construction Expresses Interest in Developing Ghana’s Sport Projects",
+      "link": "https://thehighstreetjournal.com/crc-expresses-interest-in-ghanas-sport/",
+      "source": "The High Street Journal",
+      "published": "2026-09-15T05:00:00.000Z",
+      "summary": "The discussions could open the way for CRC to participate in future sports infrastructure projects in Ghana, although no contracts, project values or financing arrangements were announced"
+    },
+    {
+      "title": "African banks’ foreign subsidiary contributions increasing; Access Bank records fastest cross-border growth",
+      "link": "https://www.myjoyonline.com/african-banks-foreign-subsidiary-contributions-increasing-access-bank-records-fastest-cross-border-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T03:41:46.000Z",
+      "summary": "According to the UK-based firm, the contributions from these subsidiaries have grown over the past decade, and the increase has accelerated since the pandemic, propelled by acquisitions…"
+    },
+    {
+      "title": "Food prices in Ghana remain largely stable – AGRA report",
+      "link": "https://www.myjoyonline.com/food-prices-in-ghana-remain-largely-stable-agra-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T03:38:00.000Z",
+      "summary": "The latest AGRA Food Security Monitor report says food prices in Ghana remained largely stable in August compared to the previous month."
+    },
+    {
+      "title": "Fiscal economy to remain firm despite execution risks – Databank Research",
+      "link": "https://www.myjoyonline.com/fiscal-economy-to-remain-firm-despite-execution-risks-databank-research/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T03:32:02.000Z",
+      "summary": "According to the research arm of Databank Group, this adjustment reflects the sovereign' GH¢35.1 billion underspend in the first half of 2026 and a total expenditure cap of GH¢302 billion…"
+    },
     {
       "title": "Bond market: Turnover nearly doubled by 94.65% to GH¢4.13bn",
       "link": "https://www.myjoyonline.com/bond-market-turnover-nearly-doubled-by-94-65-to-gh%c2%a24-13bn/",
@@ -1010,76 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-10T18:05:04.000Z",
       "summary": "Under the theme \"Industrialise to Commercialise\", AHMTEC 2026 will focus on moving African pharmaceutical and medical device manufacturing beyond capacity building towards production that…"
-    },
-    {
-      "title": "Ghana pushes China for deeper mining partnerships, value addition",
-      "link": "https://www.myjoyonline.com/ghana-pushes-china-for-deeper-mining-partnerships-value-addition/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T15:27:13.000Z",
-      "summary": "Ghana is seeking deeper mining partnerships with China, with the government urging Chinese investors to move beyond the extraction and export of raw minerals and invest in processing…"
-    },
-    {
-      "title": "Northern Regional Minister praises GROW 2 Project for transforming women’s agriculture in Northern Ghana",
-      "link": "https://www.myjoyonline.com/northern-regional-minister-praises-grow-2-project-for-transforming-womens-agriculture-in-northern-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T15:02:47.000Z",
-      "summary": "A five-year, Canadian-funded initiative credited with expanding year-round farming and financial inclusion for thousands of women farmers in northern Ghana has come to a close this week…"
-    },
-    {
-      "title": "GCB extends CSR to communities through staff- led initiatives",
-      "link": "https://www.myjoyonline.com/gcb-extends-csr-to-communities-through-staff-led-initiatives/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T14:56:43.000Z",
-      "summary": "GCB Bank is expanding its corporate social responsibility efforts by empowering employees to identify and address pressing needs within communities across the country."
-    },
-    {
-      "title": "Electricity generation falls 3.99% in July 2026 despite year-on-year growth – PURC",
-      "link": "https://www.myjoyonline.com/electricity-generation-falls-3-99-in-july-2026-despite-year-on-year-growth-purc/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T14:48:29.000Z",
-      "summary": "Ghana’s total electricity generation fell by 3.99% in July 2026 compared with the previous month, according to the Public Utilities Regulatory Commission (PURC). The Commission’s Ghana…"
-    },
-    {
-      "title": "Mahama commends GoldBod’s GH¢896m profit, urges sustained growth",
-      "link": "https://www.myjoyonline.com/mahama-commends-goldbods-gh%c2%a2896m-profit-urges-sustained-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T14:41:21.000Z",
-      "summary": "President John Dramani Mahama has commended the Ghana Gold Board (GoldBod) for its significant improvement in financial performance, while cautioning the institution to strengthen its core…"
-    },
-    {
-      "title": "BoG warns against return to FATF grey list as financial crime risks rise",
-      "link": "https://www.myjoyonline.com/bog-warns-against-return-to-fatf-grey-list-as-financial-crime-risks-rise/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T13:22:33.000Z",
-      "summary": "Second Deputy Governor of the Bank of Ghana (BoG), Matilda Asante Asiedu, has warned that Ghana must strengthen its fight against financial crime to avoid being placed back on the Financial…"
-    },
-    {
-      "title": "Digital fraud incidents rise 98% between 2022 and 2025 – BoG",
-      "link": "https://www.myjoyonline.com/digital-fraud-incidents-rise-98-between-2022-and-2025-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T12:22:53.000Z",
-      "summary": "According to Central Bank, the sharp increase reflects a changing financial crime landscape, with fraudsters increasingly targeting digital platforms as more Ghanaians rely on electronic…"
-    },
-    {
-      "title": "Who is really protecting the business?",
-      "link": "https://www.myjoyonline.com/who-is-really-protecting-the-business/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T10:58:29.000Z",
-      "summary": "We talk about entrepreneurship, jobs and business growth. We talk far less about the dishonesty, weak accountability and broken trust that can destroy organizations from within."
-    },
-    {
-      "title": "GH₵12 addition to cement price: GPHA clarifies attribution to port congestion",
-      "link": "https://www.myjoyonline.com/gh12-addition-to-cement-price-gpha-clarifies-attribution-to-port-congestion/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T08:30:25.000Z",
-      "summary": "The Ghana Ports & Harbours Authority (GPHA) has clarified that port congestion alone is not sufficient justification for a GH₵12 increase in cement prices, as several operational and…"
-    },
-    {
-      "title": "Banking sector NPLs fall to GH¢19.9bn as asset quality improves",
-      "link": "https://www.myjoyonline.com/banking-sector-npls-fall-to-gh%c2%a219-9bn-as-asset-quality-improves/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T07:35:50.000Z",
-      "summary": "The stock of non-performing loans (NPLs) in Ghana’s banking sector declined to GH¢19.9 billion at the end of June 2026, down from GH¢20.7 billion a year earlier."
     }
   ]
 };
