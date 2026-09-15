@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-15T01:37:58.364Z",
+  "updated": "2026-09-15T03:26:41.466Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,7 +23,7 @@ window.GDC_NEWS = {
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: failed (HTTP 415)",
+    "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
@@ -31,6 +31,13 @@ window.GDC_NEWS = {
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Bond market: Turnover nearly doubled by 94.65% to GH¢4.13bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-nearly-doubled-by-94-65-to-gh%c2%a24-13bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T03:10:13.000Z",
+      "summary": "Trading was concentrated in the belly, with 2031-2034 maturities accounting for 53.75% of turnover at an average yield of 13.90%."
+    },
     {
       "title": "AI ‘kill switch’ may need to be mandatory, Anthropic co-founder says",
       "link": "https://www.myjoyonline.com/ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-says/",
@@ -1073,13 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-10T07:35:50.000Z",
       "summary": "The stock of non-performing loans (NPLs) in Ghana’s banking sector declined to GH¢19.9 billion at the end of June 2026, down from GH¢20.7 billion a year earlier."
-    },
-    {
-      "title": "Republic Bank Ghana, UPSA sign strategic MoU to advance professional development and industry-academia collaboration",
-      "link": "https://www.myjoyonline.com/republic-bank-ghana-upsa-sign-strategic-mou-to-advance-professional-development-and-industry-academia-collaboration/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-10T07:31:13.000Z",
-      "summary": "Republic Bank (Ghana) PLC has signed a strategic Memorandum of Understanding (MoU) with the University of Professional Studies, Accra (UPSA), establishing a framework for long-term…"
     }
   ]
 };

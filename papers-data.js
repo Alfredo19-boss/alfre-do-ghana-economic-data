@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-15T01:38:11.784Z",
+  "updated": "2026-09-15T03:27:00.722Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bond market: Turnover nearly doubled by 94.65% to GH¢4.13bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-nearly-doubled-by-94-65-to-gh%c2%a24-13bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T03:10:13.000Z",
+      "summary": "Trading was concentrated in the belly, with 2031-2034 maturities accounting for 53.75% of turnover at an average yield of 13.90%.",
+      "categories": [
+        "Business",
+        "Stocks",
+        "Bond market",
+        "GFIM",
+        "turnover",
+        "YTM"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Valencia sack Corberan and chief executive",
       "link": "https://www.myjoyonline.com/valencia-sack-corberan-and-chief-executive/",
@@ -115,20 +131,6 @@ window.GDC_PAPERS = {
         "HP News 1",
         "Computerised School Selection and Placement System (CSSPS)",
         "Ghana Education Service"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ITF World Tennis Tour Juniors: J60 stage begins in Accra",
-      "link": "https://www.myjoyonline.com/itf-world-tennis-tour-juniors-j60-stage-begins-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T23:17:44.000Z",
-      "summary": "The third week of the ITF World Tennis Tour Juniors tournament begins in Accra today, with players competing for valuable ranking points at the National Tennis Centre.",
-      "categories": [
-        "HP Sports 5",
-        "Tennis",
-        "ITF J60",
-        "ITF World Tennis Junior Tournament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
