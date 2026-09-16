@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T05:22:27.946Z",
+  "updated": "2026-09-16T06:07:54.954Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,13 +22,13 @@ window.GDC_NEWS = {
     "Graphic Online: 3/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 3/10 stories",
+    "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)"
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: 0 stories"
   ],
   "items": [
     {
@@ -43,7 +43,7 @@ window.GDC_NEWS = {
       "link": "https://thehighstreetjournal.com/ghana-risks-paying-a-bigger-price-for-port-delays/",
       "source": "The High Street Journal",
       "published": "2026-09-16T05:03:00.000Z",
-      "summary": "Prolonged port congestion is raising business costs, delaying trade and risking cargo diversion, threatening Ghana’s competitiveness, logistics sector and revenue if unresolved."
+      "summary": "Prolonged port congestion will raise business costs, delay trade and risk cargo diversion, threatening Ghana’s competitiveness, logistics sector and revenue if unresolved."
     },
     {
       "title": "A Healthier Ghana Banking Sector Needs Better Credit Discipline",

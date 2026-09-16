@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T05:22:40.817Z",
+  "updated": "2026-09-16T06:08:47.990Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,73 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES releases outstanding 2023 Capitation Grant arrears to basic schools",
+      "link": "https://www.myjoyonline.com/ges-releases-outstanding-2023-capitation-grant-arrears-to-basic-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T05:50:00.000Z",
+      "summary": "The Ghana Education Service (GES) has announced the release of outstanding 2023 Capitation Grant arrears to District Education Directorates for onward disbursement to basic schools…",
+      "categories": [
+        "Education",
+        "Capitation grant",
+        "Ghana Education Service (GES)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TikTok used to recruit Ghanaian Girls into sex trade in mining communities – Challenging Heights",
+      "link": "https://www.myjoyonline.com/tiktok-used-to-recruit-ghanaian-girls-into-sex-trade-in-mining-communities-challenging-heights/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T05:41:00.000Z",
+      "summary": "Child protection organisation Challenging Heights has raised concerns over an active network allegedly recruiting Ghanaian children into the commercial sex trade through social media…",
+      "categories": [
+        "National",
+        "Challenging Heights",
+        "James Kofi Annan",
+        "TikTok"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Recurrent brouhaha over SHS school placement: Which way out of the quagmire?",
+      "link": "https://www.myjoyonline.com/recurrent-brouhaha-over-shs-school-placement-which-way-out-of-the-quagmire/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T05:33:00.000Z",
+      "summary": "Another year, another scheduled time for “Back to school”, and need I say, it is also time for placements into Senior High School, Senior High Technical School, as well as Technical and…",
+      "categories": [
+        "Opinion",
+        "SHS placement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Auditor-General must explain missing Local Govt, Transport ministries Covid spending – Davis Ansah Opoku",
+      "link": "https://www.myjoyonline.com/auditor-general-must-explain-missing-local-govt-transport-ministries-covid-spending-davis-ansah-opoku/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T05:23:00.000Z",
+      "summary": "The Auditor-General must explain why COVID-19 expenditure by the Ministries of Local Government and Transport was not clearly captured in its audit report, the Vice Chairperson of…",
+      "categories": [
+        "National",
+        "Audit Covid Expenditure",
+        "Auditor-General",
+        "Davis Ansah Opoku"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COVID Audit: PAC Vice Chair says ‘no arrests’ yet over missing fumigation spending",
+      "link": "https://www.myjoyonline.com/covid-audit-pac-vice-chair-says-no-arrests-yet-over-missing-fumigation-spending/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T05:05:00.000Z",
+      "summary": "Vice Chairperson of Parliament’s Public Accounts Committee, Davis Ansah Opoku, says there is no basis for arrests over the alleged omission of COVID-19 fumigation expenditure from the…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Audit Covid Expenditure",
+        "Davis Ansah Opoku"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Old farming practice is offering new hope for climate action in Zuuku",
       "link": "https://www.myjoyonline.com/old-farming-practice-is-offering-new-hope-for-climate-action-in-zuuku/",
@@ -62,72 +129,6 @@ window.GDC_PAPERS = {
         "National",
         "Audit Covid Expenditure",
         "Manasseh Azure Awuni"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢299m COVID fumigation spending audited but left out of report, says Manasseh Awuni",
-      "link": "https://www.myjoyonline.com/gh%c2%a2299m-covid-fumigation-spending-audited-but-left-out-of-report-says-manasseh-awuni/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T03:58:00.000Z",
-      "summary": "Investigative journalist Manasseh Azure Awuni says the Audit Service has confirmed it audited GH¢299 million spent by the Ministry of Local Government on COVID-19 fumigation, even though…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Audit Covid Expenditure",
-        "Manasseh Azure Awuni"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Telecel CEO Obo-Nai champions integrity in leadership",
-      "link": "https://www.myjoyonline.com/telecel-ceo-obo-nai-champions-integrity-in-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T03:39:00.000Z",
-      "summary": "Chief Executive Officer of Telecel Ghana, Patricia Obo-Nai, has made a case for leadership that combines excellence and competence with integrity, courage and a strong sense of…",
-      "categories": [
-        "National",
-        "Telecom",
-        "Patricia Obo-Nai",
-        "Telecel Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Novartis backs Ghana Medical Trust Fund, eyes partnership to expand specialist care",
-      "link": "https://www.myjoyonline.com/novartis-backs-ghana-medical-trust-fund-eyes-partnership-to-expand-specialist-care/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T03:20:00.000Z",
-      "summary": "Global healthcare company Novartis has expressed support for the Ghana Medical Trust Fund (GMTF), describing the initiative as a critical intervention to improve access to specialised…",
-      "categories": [
-        "Health",
-        "Ghana Medical Trust Fund",
-        "Novartis"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil falls as US crude inventories rise despite Saudi supply concerns",
-      "link": "https://www.myjoyonline.com/oil-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T03:09:00.000Z",
-      "summary": "Oil prices fell on Wednesday after an unexpected build in U.S. crude inventories, while investors assessed supply risks after Saudi Arabia suspended ​oil loadings at its Yanbu port…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Magazine that was 132 years overdue returned to US library",
-      "link": "https://www.myjoyonline.com/magazine-that-was-132-years-overdue-returned-to-us-library/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T03:00:00.000Z",
-      "summary": "A 19th century magazine borrowed from a library in New Hampshire 132 years ago has finally been returned.",
-      "categories": [
-        "International",
-        "Overdue library return"
       ],
       "site": "https://www.myjoyonline.com/"
     },
