@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T21:39:05.406Z",
+  "updated": "2026-09-16T22:03:49.513Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,74 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Reggie Rockstone named Unichem Ghana brand ambassador",
+      "link": "https://www.myjoyonline.com/reggie-rockstone-named-unichem-ghana-brand-ambassador/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T21:54:34.000Z",
+      "summary": "Ghanaian music icon, entrepreneur and Hiplife pioneer Reggie Rockstone has been named Brand Ambassador for Unichem Ghana Group Limited. The partnership will see Mr Rockstone feature in…",
+      "categories": [
+        "National",
+        "brand ambassador",
+        "Reggie Rockstone",
+        "Unichem Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man United lose to Brighton from 2-0 up to end 50-year record",
+      "link": "https://www.myjoyonline.com/man-united-lose-to-brighton-from-2-0-up-to-end-50-year-record/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T21:52:40.000Z",
+      "summary": "Manchester United suffered a humiliating Carabao Cup exit at Old Trafford as Brighton came from two goals down to reach the last 16. United head coach Michael Carrick had to bring on…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Brighton",
+        "Man United"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man United lose to Brighton from 2-0 up to end 50-year record",
+      "link": "https://www.myjoyonline.com/man-united-lose-to-brighton-from-2-0-up-to-end-50-year-record-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T21:51:00.000Z",
+      "summary": "Manchester United suffered a humiliating Carabao Cup exit at Old Trafford as Brighton came from two goals down to reach the last 16.",
+      "categories": [
+        "Football",
+        "Brighton",
+        "Man United"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "link": "https://www.myjoyonline.com/petrol-and-diesel-price-rises-push-uk-inflation-higher/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T21:41:00.000Z",
+      "summary": "Rises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August.",
+      "categories": [
+        "International",
+        "Petrol",
+        "UK inflation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "City of David Foundation donates to Koforidua Hospital, Koforidua Prison",
+      "link": "https://www.myjoyonline.com/city-of-david-foundation-donates-to-koforidua-hospital-koforidua-prison/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T21:38:52.000Z",
+      "summary": "The City of David Foundation, led by its Founder and Chief Executive Officer, David Sarpong, popularly known as Randal, has extended humanitarian support to institutions in the Eastern…",
+      "categories": [
+        "National",
+        "City of David Foundation",
+        "Koforidua Hospital",
+        "Koforidua Prison"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AMA says Konkomba traders were consulted ahead of Agbogbloshie 24-hour market project",
       "link": "https://www.myjoyonline.com/ama-says-konkomba-traders-were-consulted-ahead-of-agbogbloshie-24-hour-market-project/",
@@ -65,85 +133,6 @@ window.GDC_PAPERS = {
         "Technology",
         "AI tool",
         "non-smartphones"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN@30: Three customers drive away brand-new Land Cruiser Prado in Kumasi",
-      "link": "https://www.myjoyonline.com/mtn30-three-customers-drive-away-brand-new-land-cruiser-prado-in-kumasi/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T19:56:50.000Z",
-      "summary": "MTN Ghana has rewarded three of its loyal customers with brand-new Toyota Land Cruiser Prado as part of its 30th anniversary celebrations, at a ceremony held at the Kejetia Market in Kumasi.",
-      "categories": [
-        "Regional",
-        "30th anniversary",
-        "Mega Promo",
-        "MTN Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "If BOST made GH¢684m profit, why use NPA Bill 2026 to weaken it? – IERPP questions Gov’t",
-      "link": "https://www.myjoyonline.com/if-bost-made-gh%c2%a2684m-profit-why-use-npa-bill-2026-to-weaken-it-ierpp-questions-govt/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T19:55:11.000Z",
-      "summary": "The Institute for Economic Research and Public Policy (IERPP) has cautioned Parliament against passing the National Petroleum Authority (NPA) Bill, 2026 in its current form, warning it…",
-      "categories": [
-        "Energy",
-        "BOST",
-        "IERPP",
-        "NPA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP alleges executive, administrative confusion over Arabic, Chinese language policy",
-      "link": "https://www.myjoyonline.com/npp-alleges-executive-administrative-confusion-over-arabic-chinese-language-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T19:54:42.000Z",
-      "summary": "The New Patriotic Party (NPP) has accused the government of creating what it describes as “executive and administrative confusion” over the implementation of Arabic and Chinese language…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Arabic",
-        "Chinese",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority accuses AMA of targeting Konkomba Yam Market in planned demolition over 24-hour market",
-      "link": "https://www.myjoyonline.com/minority-accuses-ama-of-targeting-konkomba-yam-market-in-planned-demolition-over-24-hour-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T19:47:07.000Z",
-      "summary": "The New Patriotic Party (NPP) Minority in Parliament has accused the Accra Metropolitan Assembly (AMA) of targeting the Konkomba community in plans to construct a 24-hour market at the site…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Dominic Nitiwul",
-        "Konkomba Yam Market",
-        "New Patriotic Party (NPP) Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana struggles to raise local funds for delayed cocoa season as investors demand higher returns",
-      "link": "https://www.myjoyonline.com/ghana-struggles-to-raise-local-funds-for-delayed-cocoa-season-as-investors-demand-higher-returns/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T19:31:01.000Z",
-      "summary": "Ghana is struggling to raise money on its domestic market to finance cocoa purchases for the 2026/27 season, sources with knowledge of the sector told JoyNews Research, as licensed buyers…",
-      "categories": [
-        "Agribusiness",
-        "Analysis",
-        "Economy",
-        "HP Research 1",
-        "International",
-        "National",
-        "Top Story",
-        "Ato Forson",
-        "Cocoa",
-        "COCOBOD",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },

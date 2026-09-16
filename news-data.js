@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T21:38:50.866Z",
+  "updated": "2026-09-16T22:03:17.799Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,10 +25,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)"
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)"
   ],
   "items": [
     {
@@ -53,7 +53,7 @@ window.GDC_NEWS = {
       "summary": "The Institute for Economic Research and Public Policy (IERPP) has cautioned Parliament against passing the National Petroleum Authority (NPA) Bill, 2026 in its current form, warning it…"
     },
     {
-      "title": "MTN 30th anniversary promo: Three MTN get customers drive away brand-new Prados",
+      "title": "MTN 30th anniversary promo: Three MTN customers drive away brand-new Prados",
       "link": "https://gna.org.gh/2026/09/mtn-30th-anniversary-promo-three-mtn-get-customers-drive-away-brand-new-prados/",
       "source": "Ghana News Agency",
       "published": "2026-09-16T19:50:08.000Z",
