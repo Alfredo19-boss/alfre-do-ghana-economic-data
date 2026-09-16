@@ -1,6 +1,6 @@
 {
   "bog-sefd": {
-    "checked": "2026-09-16T03:56:14.421Z",
+    "checked": "2026-09-16T13:58:07.132Z",
     "seen": [
       "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-july-2026/",
       "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-july-2026/",
@@ -15,7 +15,7 @@
     ]
   },
   "bog-mpc": {
-    "checked": "2026-09-16T03:56:16.665Z",
+    "checked": "2026-09-16T13:58:09.233Z",
     "seen": [
       "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-july-2026/",
       "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-may-2026/",
@@ -26,7 +26,7 @@
     ]
   },
   "gss-home": {
-    "checked": "2026-09-16T03:56:17.893Z",
+    "checked": "2026-09-16T13:58:10.126Z",
     "seen": [
       "https://statsghana.gov.gh/CPI_Inflation_Cal.html",
       "https://statsghana.gov.gh/highlights/gdp-performance",
@@ -36,7 +36,7 @@
     ]
   },
   "mofep": {
-    "checked": "2026-09-16T03:56:19.134Z",
+    "checked": "2026-09-16T13:58:11.158Z",
     "seen": [
       "https://mofep.gov.gh/fiscal-data",
       "https://mofep.gov.gh/public-debt",
@@ -53,7 +53,7 @@
     ]
   },
   "npa": {
-    "checked": "2026-09-16T03:56:40.681Z",
+    "checked": "2026-09-16T13:58:31.041Z",
     "seen": [
       "https://npa.gov.gh/indicative-prices/",
       "https://npa.gov.gh/price-build-up-2/",
