@@ -95,6 +95,20 @@ export function parseGse(rows) {
   }).filter(Boolean).sort((a, b) => a.code.localeCompare(b.code));
 }
 
+// Each instrument keeps its own trail of closing prices, one point a day, built up by the
+// site itself as the job runs. Nothing is backfilled or invented: the trail starts the day
+// the job first sees a price and grows from there, which is why a fresh install shows a
+// short line and an old one shows a long one.
+const HISTORY_DAYS = 180;
+export function addPoint(history, value, at) {
+  const day = String(at || new Date().toISOString()).slice(0, 10);
+  const out = (history || []).filter(p => p && p.date && typeof p.value === "number");
+  const last = out[out.length - 1];
+  if (last && last.date === day) last.value = value;          // same day: keep the latest price
+  else out.push({ date: day, value });
+  return out.slice(-HISTORY_DAYS);
+}
+
 export async function main() {
   let old = {};
   try { old = load(FILE, "GDC_MARKETS"); } catch (e) { /* first run */ }
@@ -108,7 +122,8 @@ export async function main() {
       try {
         const q = parseQuote(await getJson(CHART(symbol)));
         if (!q) throw new Error("no usable quote");
-        kept.set(symbol, { symbol, name, unit, dec, ...q });
+        const before = kept.get(symbol) || {};
+        kept.set(symbol, { symbol, name, unit, dec, ...q, history: addPoint(before.history, q.value, q.at) });
         got++;
       } catch (e) { log.push(`${symbol}: ${e.message}`); }
     }
