@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_MARKETS = {
-  "updated": "2026-09-16T21:56:36.974Z",
+  "updated": "2026-09-16T21:57:15.653Z",
   "note": "Market prices as last traded. World figures from Yahoo Finance; Ghana Stock Exchange prices from the GSE's open feed. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance · Ghana Stock Exchange",
   "world": {
@@ -376,15 +376,15 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 75877.51,
+        "value": 75904.39,
         "prev": 77270.47,
-        "change": -1392.96,
-        "pct": -1.8,
-        "at": "2026-09-16T21:56:09.000Z",
+        "change": -1366.08,
+        "pct": -1.77,
+        "at": "2026-09-16T21:56:50.000Z",
         "history": [
           {
             "date": "2026-09-16",
-            "value": 75877.51
+            "value": 75904.39
           }
         ]
       },
@@ -393,15 +393,15 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 2401.4,
+        "value": 2402.85,
         "prev": 2525.9446,
-        "change": -124.545,
-        "pct": -4.93,
-        "at": "2026-09-16T21:56:01.000Z",
+        "change": -123.095,
+        "pct": -4.87,
+        "at": "2026-09-16T21:56:51.000Z",
         "history": [
           {
             "date": "2026-09-16",
-            "value": 2401.4
+            "value": 2402.85
           }
         ]
       }
