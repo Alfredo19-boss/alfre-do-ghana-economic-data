@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T14:53:48.789Z",
+  "updated": "2026-09-16T15:36:26.862Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,12 +25,40 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Businesses Urged To Cut Costs As Producer Inflation Rises",
+      "link": "https://thehighstreetjournal.com/businesses-urged-to-cut-costs-as-producer-inflation-rises/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T15:35:00.000Z",
+      "summary": "Ghanaian businesses are being urged to strengthen cost controls, diversify suppliers and invest in productivity as producer inflation rises, particularly across industry and mining-related…"
+    },
+    {
+      "title": "Mining Drives Ghana’s Producer Price Inflation as Sector Trends Diverge",
+      "link": "https://thehighstreetjournal.com/mining-drives-ghanas-producer-price-inflation-as-sector-trends-diverge/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T15:15:00.000Z",
+      "summary": "Mining and energy costs push producer inflation higher as price pressures ease across construction and services."
+    },
+    {
+      "title": "Ghana’s Producer Price Inflation Climbs to 4.4% in August from 4.0%",
+      "link": "https://thehighstreetjournal.com/ghanas-producer-price-inflation-climbs-to-4-4-in-august-from-4-0/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T14:57:31.000Z",
+      "summary": "Ghana’s producer price inflation rose to 4.4% in August, driven mainly by higher mining costs, while price pressures eased across services and construction."
+    },
+    {
+      "title": "Denmark, Ghana must deepen green industrial partnership",
+      "link": "https://www.myjoyonline.com/denmark-ghana-must-deepen-green-industrial-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T14:48:25.000Z",
+      "summary": "The Head of Economic Diplomacy and Trade at the Danish Embassy, Jorgen Bollesen, has called for stronger cooperation with Ghana to accelerate sustainable industrialisation and help Ghanaian…"
+    },
     {
       "title": "Unlocking Markets for Local Businesses: GIPS Pushes Procurement as a Growth Tool",
       "link": "https://thehighstreetjournal.com/unlocking-markets-for-local-businesses-gips-pushes-procurement-as-a-growth-tool/",
@@ -1052,34 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-14T00:48:36.000Z",
       "summary": "This was 38% year-on-increase over that of GH¢893.0 million recorded in June 2025"
-    },
-    {
-      "title": "Banks wrote off GH¢1.23bn as bad debt in the half-year 2026",
-      "link": "https://www.myjoyonline.com/banks-wrote-off-gh%c2%a21-23bn-as-bad-debt-in-the-half-year-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T00:48:36.000Z",
-      "summary": "This was 38% year-on-increase over that of GH¢893.0 million recorded in June 2025"
-    },
-    {
-      "title": "T-bills auction: Government exceeds target marginally; interest rates decline",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-marginally-interest-rates-decline/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T00:27:38.000Z",
-      "summary": "According to the auction results by the Bank of Ghana, the government recorded a 2.8% oversubscription of the short-term securities to the tune of GH¢8.1 billion."
-    },
-    {
-      "title": "Ghana eyes flower export boom as government moves to build full horticulture industry",
-      "link": "https://www.myjoyonline.com/ghana-eyes-flower-export-boom-as-government-moves-to-build-full-horticulture-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T23:35:00.000Z",
-      "summary": "Ghana is positioning its horticulture sector for a major export push, with government working on a cut-flower corridor aimed at connecting local producers to markets in Europe, West Africa…"
-    },
-    {
-      "title": "Horticulture can create jobs, businesses and export opportunities for Ghana – Prof Naana Jane",
-      "link": "https://www.myjoyonline.com/horticulture-can-create-jobs-businesses-and-export-opportunities-for-ghana-prof-naana-jane/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T22:54:00.000Z",
-      "summary": "Vice President Prof Naana Jane Opoku-Agyemang has called for greater investment in Ghana’s horticulture sector, saying it can create jobs, build businesses and open new export opportunities…"
     }
   ]
 };

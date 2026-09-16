@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T14:54:02.943Z",
+  "updated": "2026-09-16T15:36:40.580Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,123 +25,121 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "UCC signs $500m MoU for 28,000-bed student accommodation facility",
-      "link": "https://www.myjoyonline.com/ucc-signs-500m-mou-for-28000-bed-student-accommodation-facility/",
+      "title": "Fuel crisis: Ad hoc interventions won’t solve transport fare concerns – Energy analyst",
+      "link": "https://www.myjoyonline.com/fuel-crisis-ad-hoc-interventions-wont-solve-transport-fare-concerns-energy-analyst/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T14:49:03.000Z",
-      "summary": "The University of Cape Coast (UCC) has signed a Memorandum of Understanding (MoU) with GSC Property Investment Limited for the development of a 28,000-bed student accommodation facility…",
+      "published": "2026-09-16T15:32:04.000Z",
+      "summary": "Energy analyst Kwadwo Poku says government must engage transport unions and agree on a sustainable formula for adjusting fares.",
       "categories": [
-        "Education",
-        "Accomodation",
-        "Bed student",
-        "MoU",
-        "UCC"
+        "National",
+        "News",
+        "Fuel",
+        "Kwadwo Poku",
+        "Transport fare"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Denmark, Ghana must deepen green industrial partnership",
-      "link": "https://www.myjoyonline.com/denmark-ghana-must-deepen-green-industrial-partnership/",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "link": "https://www.myjoyonline.com/eight-children-among-21-killed-after-war-damaged-gaza-building-collapses-rescuers-say/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T14:48:25.000Z",
-      "summary": "The Head of Economic Diplomacy and Trade at the Danish Embassy, Jorgen Bollesen, has called for stronger cooperation with Ghana to accelerate sustainable industrialisation and help Ghanaian…",
+      "published": "2026-09-16T15:28:15.000Z",
+      "summary": "At least 21 people have been killed, including eight children, and dozens are missing after a war-damaged building collapsed in the Gaza Strip overnight, local rescuers and medics say.",
       "categories": [
-        "Business",
+        "International",
+        "Building collapses",
+        "Gaza",
+        "War"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: Côte d’Ivoire name squad for Black Stars and Somalia clashes",
+      "link": "https://www.myjoyonline.com/afcon-2027q-cote-divoire-name-squad-for-black-stars-and-somalia-clashes/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T15:26:16.000Z",
+      "summary": "The Elephants will start their international break with the 2027 Africa Cup of Nations (AFCON) Qualifiers against the Black Stars on September 24.",
+      "categories": [
+        "Football",
+        "HP News 7",
         "National",
-        "Denmark",
+        "Black Stars",
+        "Cote D'Ivoire"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GBA President Efua Ghartey calls for Constituent Assembly to deliberate on 1992 Constitution reforms",
+      "link": "https://www.myjoyonline.com/gba-president-efua-ghartey-calls-for-constituent-assembly-to-deliberate-on-1992-constitution-reforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T15:25:08.000Z",
+      "summary": "The President of the Ghana Bar Association (GBA), Mrs Efua Ghartey, has called for the establishment of a Constituent Assembly to thoroughly deliberate on proposals to amend the 1992…",
+      "categories": [
+        "National",
+        "Efua Ghartey",
+        "GBA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Made In Africa: Prof. Douglas Boateng to address the continent’s largest supply chain and industrialisation professional gathering",
+      "link": "https://www.myjoyonline.com/made-in-africa-prof-douglas-boateng-to-address-the-continents-largest-supply-chain-and-industrialisation-professional-gathering/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T15:21:55.000Z",
+      "summary": "In a keynote address in Livingstone, Zambia, the leading Pan-African governance strategist will challenge thousands of supply chain and procurement leaders across the continent: “We cannot…",
+      "categories": [
+        "National",
+        "News",
         "Ghana",
-        "Ghana must deepen green industrial partnership"
+        "Made in Africa",
+        "Nigeria",
+        "Prof. Douglas Boateng",
+        "Supply chain"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Prospectus charges defeat purpose of Free SHS – Adutwum’s spokesperson",
-      "link": "https://www.myjoyonline.com/prospectus-charges-defeat-purpose-of-free-shs-adutwums-spokesperson/",
+      "title": "Rising fuel prices making it difficult for drivers to survive – Samuel Amoah",
+      "link": "https://www.myjoyonline.com/rising-fuel-prices-making-it-difficult-for-drivers-to-survive-samuel-amoah/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T14:46:06.000Z",
-      "summary": "Spokesperson for former Education Minister Dr Yaw Osei Adutwum has criticised the reported sale of Senior High School (SHS) prospectus items through Prospectus Ghana Limited, describing the…",
-      "categories": [
-        "Education",
-        "HP News 6",
-        "National",
-        "Free SHS",
-        "Prospectus Ghana Limited",
-        "SHS prospectus items"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Huge challenges remain in tackling teenage pregnancy along coast – Gender Minister",
-      "link": "https://www.myjoyonline.com/huge-challenges-remain-in-tackling-teenage-pregnancy-along-coast-gender-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T14:45:58.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, says Ghana has made progress in reducing teenage pregnancy, but significant challenges persist in coastal…",
+      "published": "2026-09-16T15:15:06.000Z",
+      "summary": "Deputy Public Relations Officer of the GPRTU, Samuel Amoah, says persistent increases in petroleum prices are putting commercial drivers under severe financial pressure and making it…",
       "categories": [
         "National",
-        "News",
-        "Coast",
-        "Gender Minister",
-        "Teenage Pregnancy"
+        "drivers",
+        "Fuel Prices",
+        "Samuel Amoah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NPP demands apology or dismissal of Education Minister over Arabic, Chinese language policy",
-      "link": "https://www.myjoyonline.com/npp-demands-apology-or-dismissal-of-education-minister-over-arabic-chinese-language-policy/",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "link": "https://www.myjoyonline.com/us-accuses-russia-of-trying-to-kill-ukrainian-allies-overseas/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T14:45:20.000Z",
-      "summary": "The New Patriotic Party (NPP) has called on President John Dramani Mahama to either apologise to Ghanaians or dismiss Education Minister Haruna Iddrisu over the controversy surrounding the…",
+      "published": "2026-09-16T15:12:40.000Z",
+      "summary": "The US Department of Justice (DoJ) has accused Russia of plotting to murder Ukrainian allies in the US and Europe.",
       "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Top Story",
-        "Arabic",
-        "Chinese",
-        "Education Minister",
-        "NPP"
+        "International",
+        "DOJ",
+        "Russia",
+        "Ukraine",
+        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GBA demands reasonable bail conditions, protection for arrested social media commentators",
-      "link": "https://www.myjoyonline.com/gba-demands-reasonable-bail-conditions-protection-for-arrested-social-media-commentators/",
+      "title": "GPRTU to maintain 30% proposed fare hike despite latest fuel increase – Deputy PRO",
+      "link": "https://www.myjoyonline.com/gprtu-to-maintain-30-proposed-fare-hike-despite-latest-fuel-increase-deputy-pro/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T14:43:24.000Z",
-      "summary": "The Ghana Bar Association (GBA) has raised concerns over the arrest of social media commentators, calling for greater protection of suspects’ constitutional rights and reasonable bail…",
+      "published": "2026-09-16T15:09:35.000Z",
+      "summary": "The Ghana Private Road Transport Union (GPRTU) says it will maintain its proposed 30% increase in transport fares despite the latest rise in fuel prices.",
       "categories": [
-        "National",
-        "commentators",
-        "Ghana Bar Association (GBA)",
-        "Social Media"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t to take over child marriage bill to speed up passage – Gender Minister",
-      "link": "https://www.myjoyonline.com/govt-to-take-over-child-marriage-bill-to-speed-up-passage-gender-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T14:42:53.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has said that government is working with the Attorney-General to take ownership of the proposed child…",
-      "categories": [
-        "HP News 8",
         "National",
         "News",
-        "Child marriage",
-        "Dr Agnes Naa Momo Lartey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Why healthcare innovation needs more than startup enthusiasm",
-      "link": "https://www.myjoyonline.com/why-healthcare-innovation-needs-more-than-startup-enthusiasm/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T14:39:56.000Z",
-      "summary": "Every healthcare innovation begins with an idea. It may be a medical diagnostic tool or a digital platform designed to solve a problem in healthcare.",
-      "categories": [
-        "Opinion",
-        "Dr Hephzi Tagoe",
-        "Healthcare"
+        "30% proposed fare hike",
+        "Fuel",
+        "GPRTU",
+        "Samuel Amoah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
