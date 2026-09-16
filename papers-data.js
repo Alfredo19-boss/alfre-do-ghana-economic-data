@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T13:50:22.943Z",
+  "updated": "2026-09-16T14:54:02.943Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,116 +25,136 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Trump seeks to rebuild support among 2024 voters in North Carolina",
-      "link": "https://www.myjoyonline.com/trump-seeks-to-rebuild-support-among-2024-voters-in-north-carolina/",
+      "title": "UCC signs $500m MoU for 28,000-bed student accommodation facility",
+      "link": "https://www.myjoyonline.com/ucc-signs-500m-mou-for-28000-bed-student-accommodation-facility/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T13:42:01.000Z",
-      "summary": "U.S. President Donald Trump will campaign in North Carolina on Wednesday ​for Republican Senate candidate Michael Whatley, his first major campaign stop since the Republican Party's midterm…",
+      "published": "2026-09-16T14:49:03.000Z",
+      "summary": "The University of Cape Coast (UCC) has signed a Memorandum of Understanding (MoU) with GSC Property Investment Limited for the development of a 28,000-bed student accommodation facility…",
       "categories": [
-        "International",
-        "North Carolina",
-        "Trump"
+        "Education",
+        "Accomodation",
+        "Bed student",
+        "MoU",
+        "UCC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Photos: IGP engages Okada riders on road safety, registration and crime prevention",
-      "link": "https://www.myjoyonline.com/photos-igp-engages-okada-riders-on-road-safety-registration-and-crime-prevention/",
+      "title": "Denmark, Ghana must deepen green industrial partnership",
+      "link": "https://www.myjoyonline.com/denmark-ghana-must-deepen-green-industrial-partnership/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T13:13:37.000Z",
-      "summary": "Inspector-General of Police (IGP) Christian Tetteh Yohuno has engaged the leadership of the Okada Riders Association of Ghana (ORAG) on road safety, regulatory compliance and collaboration…",
+      "published": "2026-09-16T14:48:25.000Z",
+      "summary": "The Head of Economic Diplomacy and Trade at the Danish Embassy, Jorgen Bollesen, has called for stronger cooperation with Ghana to accelerate sustainable industrialisation and help Ghanaian…",
       "categories": [
+        "Business",
         "National",
-        "Photo Story",
-        "IGP",
-        "Okada riders",
-        "Photos",
-        "road safety"
+        "Denmark",
+        "Ghana",
+        "Ghana must deepen green industrial partnership"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NPA reviewing calls to cushion consumers amid petrol price hikes – Edudzi Tameklo",
-      "link": "https://www.myjoyonline.com/npa-reviewing-calls-to-cushion-consumers-amid-petrol-price-hikes-edudzi-tameklo/",
+      "title": "Prospectus charges defeat purpose of Free SHS – Adutwum’s spokesperson",
+      "link": "https://www.myjoyonline.com/prospectus-charges-defeat-purpose-of-free-shs-adutwums-spokesperson/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T13:11:54.000Z",
-      "summary": "The National Petroleum Authority (NPA) says it is reviewing calls for government to extend its GH¢2 per litre subsidy on diesel to petrol consumers.",
+      "published": "2026-09-16T14:46:06.000Z",
+      "summary": "Spokesperson for former Education Minister Dr Yaw Osei Adutwum has criticised the reported sale of Senior High School (SHS) prospectus items through Prospectus Ghana Limited, describing the…",
+      "categories": [
+        "Education",
+        "HP News 6",
+        "National",
+        "Free SHS",
+        "Prospectus Ghana Limited",
+        "SHS prospectus items"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Huge challenges remain in tackling teenage pregnancy along coast – Gender Minister",
+      "link": "https://www.myjoyonline.com/huge-challenges-remain-in-tackling-teenage-pregnancy-along-coast-gender-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T14:45:58.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, says Ghana has made progress in reducing teenage pregnancy, but significant challenges persist in coastal…",
       "categories": [
         "National",
         "News",
-        "Edudzi Tameklo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Astroturf Exposé: Edem Senanu calls for tougher laws to punish public officials",
-      "link": "https://www.myjoyonline.com/astroturf-expose-edem-senanu-calls-for-tougher-laws-to-punish-public-officials/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T13:09:01.000Z",
-      "summary": "Anti-corruption campaigner and Vice Chair of the African Union Advisory Board Against Corruption, Edem Senanu, has called for clear laws and stronger sanctions to ensure public officials…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Laws",
-        "Public officials"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
-      "link": "https://www.myjoyonline.com/us-limits-visas-for-south-african-officials-over-alleged-anti-white-discrimination/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T12:54:30.000Z",
-      "summary": "The US has announced visa restrictions targeting people it accuses of discriminating against South Africa's white minority, in the latest escalation of tensions between the two countries.",
-      "categories": [
-        "Africa",
-        "International",
-        "anti-white discrimination",
-        "South African",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Edem Senanu calls for OSP investigation into alleged astroturf procurement breaches",
-      "link": "https://www.myjoyonline.com/edem-senanu-calls-for-osp-investigation-into-alleged-astroturf-procurement-breaches/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T12:53:56.000Z",
-      "summary": "Anti-corruption campaigner Edem Senanu has called for investigations into alleged breaches of procurement laws surrounding the construction of multi-million-cedi astroturf projects across…",
-      "categories": [
-        "National",
-        "Astroturf Exposé",
-        "OSP probe"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "272 graduates with disabilities being formalised into GES – Gender Minister",
-      "link": "https://www.myjoyonline.com/272-graduates-with-disabilities-being-formalised-into-ges-gender-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T12:52:46.000Z",
-      "summary": "The Ministry of Gender, Children, and Social Protection, Agnes Naa Momo Lartey, has said some 272 graduates with disabilities are being formalised into the Ghana Education Service (GES) as…",
-      "categories": [
-        "National",
-        "Disabilities",
+        "Coast",
         "Gender Minister",
-        "GES"
+        "Teenage Pregnancy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Measure reforms by impact on motorists, not projects completed – Nikpe to DVLA",
-      "link": "https://www.myjoyonline.com/measure-reforms-by-impact-on-motorists-not-projects-completed-nikpe-to-dvla/",
+      "title": "NPP demands apology or dismissal of Education Minister over Arabic, Chinese language policy",
+      "link": "https://www.myjoyonline.com/npp-demands-apology-or-dismissal-of-education-minister-over-arabic-chinese-language-policy/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T12:48:51.000Z",
-      "summary": "Transport Minister, Joseph Bukari Nikpe, has challenged the Driver and Vehicle Licensing Authority (DVLA) to measure the success of its ongoing reforms by how significantly they improve the…",
+      "published": "2026-09-16T14:45:20.000Z",
+      "summary": "The New Patriotic Party (NPP) has called on President John Dramani Mahama to either apologise to Ghanaians or dismiss Education Minister Haruna Iddrisu over the controversy surrounding the…",
       "categories": [
         "National",
-        "DVLA",
-        "Motorists",
-        "Nikpe"
+        "News",
+        "Politics",
+        "Top Story",
+        "Arabic",
+        "Chinese",
+        "Education Minister",
+        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GBA demands reasonable bail conditions, protection for arrested social media commentators",
+      "link": "https://www.myjoyonline.com/gba-demands-reasonable-bail-conditions-protection-for-arrested-social-media-commentators/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T14:43:24.000Z",
+      "summary": "The Ghana Bar Association (GBA) has raised concerns over the arrest of social media commentators, calling for greater protection of suspects’ constitutional rights and reasonable bail…",
+      "categories": [
+        "National",
+        "commentators",
+        "Ghana Bar Association (GBA)",
+        "Social Media"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t to take over child marriage bill to speed up passage – Gender Minister",
+      "link": "https://www.myjoyonline.com/govt-to-take-over-child-marriage-bill-to-speed-up-passage-gender-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T14:42:53.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has said that government is working with the Attorney-General to take ownership of the proposed child…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "News",
+        "Child marriage",
+        "Dr Agnes Naa Momo Lartey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Why healthcare innovation needs more than startup enthusiasm",
+      "link": "https://www.myjoyonline.com/why-healthcare-innovation-needs-more-than-startup-enthusiasm/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T14:39:56.000Z",
+      "summary": "Every healthcare innovation begins with an idea. It may be a medical diagnostic tool or a digital platform designed to solve a problem in healthcare.",
+      "categories": [
+        "Opinion",
+        "Dr Hephzi Tagoe",
+        "Healthcare"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EPA shuts down operations of Empire Cement at Weija in Accra in relation to pollution breaches",
+      "link": "https://www.graphic.com.gh/news/general-news/epa-directs-empire-cement-to-shut-down-in-relation-to-pollution-breaches.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T14:05:40.000Z",
+      "summary": "Following an earlier directive for Empire Cement Ghana Limited to shut down its factory operations at Weija in Accra with immediate effect over alleged breaches of conditions attached to…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Scholarship scheme launched for Ga-Dangme students",
@@ -297,17 +317,6 @@ window.GDC_PAPERS = {
       "source": "Daily Graphic",
       "published": "2026-09-16T07:39:03.000Z",
       "summary": "Ghana’s newest public institution of higher learning, the University of Engineering and Agricultural Sciences (UEAS), has pledged to train engineers and agricultural scientists who will…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Heritage Theatre Arts Festival 2026 to unite African and global performers in Accra",
-      "link": "https://www.graphic.com.gh/news/general-news/heritage-theatre-arts-festival-2026-to-unite-african-and-global-performers-in-accra.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-16T07:34:31.000Z",
-      "summary": "The Heritage Theatre Arts Festival 2026 is set to take place from October 5 to 11, 2026, at the University of Ghana's School of Performing Arts in Legon, bringing together theatre…",
       "categories": [
         "General News"
       ],

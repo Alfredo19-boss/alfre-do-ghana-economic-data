@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T13:50:08.768Z",
+  "updated": "2026-09-16T14:53:48.789Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,12 +25,19 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: 0 stories",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Unlocking Markets for Local Businesses: GIPS Pushes Procurement as a Growth Tool",
+      "link": "https://thehighstreetjournal.com/unlocking-markets-for-local-businesses-gips-pushes-procurement-as-a-growth-tool/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T14:24:00.000Z",
+      "summary": "GIPS wants government procurement linked more closely to industrial policy so public spending creates markets for local businesses, expands SME opportunities, attracts investment…"
+    },
     {
       "title": "GoldBod Becomes Go-To Reference for African Gold Reforms",
       "link": "https://thehighstreetjournal.com/goldbod-becomes-go-to-reference-for-african-gold-reforms/",
@@ -1073,13 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-13T22:54:00.000Z",
       "summary": "Vice President Prof Naana Jane Opoku-Agyemang has called for greater investment in Ghana’s horticulture sector, saying it can create jobs, build businesses and open new export opportunities…"
-    },
-    {
-      "title": "TCL showcases 2026 SQD Mini LED TVs and smart home innovations for Ghana",
-      "link": "https://www.myjoyonline.com/tcl-showcases-2026-sqd-mini-led-tvs-and-smart-home-innovations-for-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T21:13:00.000Z",
-      "summary": "TCL, a global leader in consumer electronics, has unveiled its 2026 consumer electronics and home appliance portfolio for Ghana at its West Africa regional launch in Côte d’Ivoire."
     }
   ]
 };
