@@ -48,6 +48,11 @@ const HEADERS = {
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 `,
+  GDC_WORLD: `/*
+ * Alfredo Ghana Economic Data: world and African headlines, fetched by
+ * .github/workflows/news.yml every five minutes. Do not edit by hand.
+ */
+`,
   GDC_NEWS: `/*
  * Alfredo Ghana Economic Data: business headlines fetched by .github/workflows/news.yml.
  * Do not edit by hand; the next scheduled run overwrites this file.
