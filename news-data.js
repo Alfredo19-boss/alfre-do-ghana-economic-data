@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T06:07:54.954Z",
+  "updated": "2026-09-16T10:05:53.438Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,15 +22,36 @@ window.GDC_NEWS = {
     "Graphic Online: 3/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 2/10 stories",
+    "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: 0 stories"
+    "Citi Newsroom wire: failed (fetch failed)"
   ],
   "items": [
+    {
+      "title": "Ghana Pivots to Industrial Execution to Boost Manufacturing, Exports",
+      "link": "https://thehighstreetjournal.com/ghana-to-boost-manufacturing-for-exports/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T10:00:00.000Z",
+      "summary": "The government's push comes as investment activity has strengthened. Ghana recorded $2.62 billion in foreign direct investment in 2025, up from about $652 million in 2024"
+    },
+    {
+      "title": "Sentuo Airport City: Ghana Eyes Local Business Gains From $1.3bn Private Investment",
+      "link": "https://thehighstreetjournal.com/sentuo-airport-city-ghana-eyes-local-business-gains-from-1-3bn-private-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T09:35:18.000Z",
+      "summary": "Sentuo Airport City investment opens new opportunities for Ghanaian businesses, jobs and local supply chains."
+    },
+    {
+      "title": "Oil Pulls Back Below $108 as US Crude Stocks Jump",
+      "link": "https://thehighstreetjournal.com/oil-pulls-back-below-108-as-us-crude-stocks-jump/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T09:03:58.000Z",
+      "summary": "Brent crude slips below $108 as a surprise US inventory build weighs on prices, while ongoing Saudi supply disruptions continue to support the market."
+    },
     {
       "title": "Data Scientists Lead ‘AI-Powered Growth’: Here are all the Jobs Set to Grow Despite High AI Exposure",
       "link": "https://thehighstreetjournal.com/data-scientists-lead-ai-powered-growth-here-are-all-the-jobs-set-to-grow-despite-high-ai-exposure/",
@@ -79,6 +100,20 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-16T05:00:00.000Z",
       "summary": "Memory is more than storage, it turns experience into context, context into better judgment, and repeated learning into intelligence that compounds across people, businesses, institutions…"
+    },
+    {
+      "title": "Lawyer Invokes Supreme Court’s Original Jurisdiction Over State’s Duty to Protect Ga and Dangme Languages",
+      "link": "https://thehighstreetjournal.com/lawyer-invokes-supreme-courts-original-jurisdiction-over-states-duty-to-protect-ga-and-dangme-languages/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:00:00.000Z",
+      "summary": "A legal practitioner and ordained Anglican priest, Rev’d Fr. Nii Omanye Boni-Lamptey, has invoked the original jurisdiction of the Supreme Court, challenging what he describes as the…"
+    },
+    {
+      "title": "How sports betting is changing business investment patterns in African markets",
+      "link": "https://www.ghanabusinessnews.com/2026/09/16/how-sports-betting-is-changing-business-investment-patterns-in-african-markets/",
+      "source": "Ghana Business News",
+      "published": "2026-09-16T04:28:38.000Z",
+      "summary": "After 18 months watching money move around West and East African markets, I've noticed a pattern most financial analysts ignore. Entrepreneurs in their twenties and thirties are using sport…"
     },
     {
       "title": "Telecel CEO Obo-Nai champions integrity in leadership",
@@ -718,6 +753,13 @@ window.GDC_NEWS = {
       "summary": "GCB Bank PLC is deepening its commitment to youth empowerment and financial inclusion through a partnership with the Catholic Church for a major regional gathering that brings young people…"
     },
     {
+      "title": "Accra gears up to host Africa’s biggest lawtech gathering in December",
+      "link": "https://www.myjoyonline.com/accra-gears-up-to-host-africas-biggest-lawtech-gathering-in-december/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-14T07:06:00.000Z",
+      "summary": "The Accra Lawtech Hangout 2026 is set to bring together legal professionals, technology enthusiasts, entrepreneurs, students and business leaders for a day of conversations, networking and…"
+    },
+    {
       "title": "Ghana and Uganda deepen upstream petroleum cooperation through peer learning",
       "link": "https://www.ghanabusinessnews.com/2026/09/14/ghana-and-uganda-deepen-upstream-petroleum-cooperation-through-peer-learning/",
       "source": "Ghana Business News",
@@ -1038,48 +1080,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-13T05:03:00.000Z",
       "summary": "Government’s agricultural programmes could strengthen Ghana’s green economy by expanding horticulture, improving production systems, connecting farmers to markets and creating jobs."
-    },
-    {
-      "title": "China, India Boost Demand for West African Crude as Refiners Seek Prompt Supplies",
-      "link": "https://thehighstreetjournal.com/china-india-demand-west-african-crude/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T05:02:00.000Z",
-      "summary": "OPEC says stronger buying from Asia and firm refining margins lifted West African crude differentials in August"
-    },
-    {
-      "title": "Non-OPEC Oil Supply Set to Grow Again Through 2027, OPEC Says",
-      "link": "https://thehighstreetjournal.com/non-opec-oil-supply-set-to-grow-again/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T05:01:00.000Z",
-      "summary": "Brazil, US, Canada and Argentina drive 2026 gains as Qatar joins the leading sources of growth next year"
-    },
-    {
-      "title": "High Court Draws the Line Between Company Loans and Personal Debt",
-      "link": "https://thehighstreetjournal.com/high-court-draws-the-line-between-company-loans-and-personal-debt/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T05:00:00.000Z",
-      "summary": "The High Court has clarified that where a person signs a loan agreement in his own name, describing himself as “trading as” a business does not by itself make the business the borrower"
-    },
-    {
-      "title": "IFC Managing Director Makhtar Diop to visit Ghana for investment talks",
-      "link": "https://www.myjoyonline.com/ifc-managing-director-makhtar-diop-to-visit-ghana-for-investment-talks/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T23:46:04.000Z",
-      "summary": "The Managing Director of the International Finance Corporation (IFC), Makhtar Diop, will visit Ghana from September 15 to 17, 2026, to engage government and private sector leaders on ways…"
-    },
-    {
-      "title": "Dr Bawumia expresses sympathy with farmers over their inability to sell their produce even at reduced prices",
-      "link": "https://www.myjoyonline.com/dr-bawumia-expresses-sympathy-with-farmers-over-their-inability-to-sell-their-produce-even-at-reduced-prices/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T20:06:18.000Z",
-      "summary": "The New Patriotic Party (NPP) Presidential Candidate for the 2028 elections, Dr Mahamudu Bawumia, has expressed deep concern over the plight of Ghanaian farmers who are unable to sell their…"
-    },
-    {
-      "title": "Ericsson celebrates 150 years of global innovation, 30 years of partnership and digital transformation in Ghana",
-      "link": "https://www.myjoyonline.com/ericsson-celebrates-150-years-of-global-innovation-30-years-of-partnership-and-digital-transformation-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T19:19:30.000Z",
-      "summary": "Rostand Njomgang, Head of Cluster Central Ericsson West and Southern Africa, says: “For 150 years, Ericsson has been driven by the idea that communication can change the world. In Ghana, we…"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T06:08:47.990Z",
+  "updated": "2026-09-16T10:06:06.215Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,213 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Catholic Bishops demand independent audit of CSSPS • Minister pledges to set up Technical Working Committee",
+      "link": "https://ghanaiantimes.com.gh/catholic-bishops-demand-independent-audit-of-cssps-minister-pledges-to-set-up-technical-working-committee/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T10:03:51.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference (GCBC) has called for an independent review of the Senior High School (SHS) placement system amid growing concerns over alleged unfairness, lack of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "$4,000 prize package announced for Accra Inter-City Marathon winner",
+      "link": "https://ghanaiantimes.com.gh/4000-prize-package-announced-for-accra-inter-city-marathon-winner/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T10:00:31.000Z",
+      "summary": "Medivents Consult, organisers of the Tampico Accra Inter-City Marathon, have announced that the winner of this year’s race will take home a total prize package of $4,000. Mr William Ezah…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "US Embassy trains 50 coaches, 300 female student-athletes",
+      "link": "https://ghanaiantimes.com.gh/us-embassy-trains-50-coaches-300-female-student-athletes/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T09:59:18.000Z",
+      "summary": "The U.S. Embassy in Ghana has concluded a sports diplomacy programme after training 50 coaches and 300 female student-athletes across Tamale, Kumasi, and Accra to strengthen the country’s…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2 Kenyans shine at 2026 KGL Foundation Millennium Marathon",
+      "link": "https://ghanaiantimes.com.gh/2-kenyans-shine-at-2026-kgl-foundation-millennium-marathon/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T09:56:10.000Z",
+      "summary": "Two Kenyan athletes emerged winners of the 2026 KGL Foundation Millennium Marathon held in Accra on Saturday. Alex Korio won the men’s 21-kilometre elite race, while Lucy Ndambuki triumphed…",
+      "categories": [
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Every department of our team is good’ – Black Maidens coach after Burkina Faso win",
+      "link": "https://www.myjoyonline.com/every-department-of-our-team-is-good-black-maidens-coach-after-burkina-faso-win/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T09:52:15.000Z",
+      "summary": "The Black Maidens defeated Burkina Faso in their opening game of the competition, claiming a 4-0 victory after scoring twice in each half.",
+      "categories": [
+        "Football",
+        "National",
+        "2026 WAFU B U-17 Girls Cup",
+        "Black Maidens",
+        "Burkina Faso"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sterling admits dangerous driving after highway collision",
+      "link": "https://ghanaiantimes.com.gh/sterling-admits-dangerous-driving-after-highway-collision/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T09:42:27.000Z",
+      "summary": "Former England forward Raheem Sterling admitted dangerous driving on Tuesday after being involved in a collision on a highway. Sterling pleaded guilty at Basingstoke Magistrates’ Court to…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Draper out until 2027",
+      "link": "https://ghanaiantimes.com.gh/draper-out-until-2027/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T09:40:26.000Z",
+      "summary": "Jack Draper has ruled himself out of action for the rest of the year. In an emotional Instagram post, Draper said he won’t be able to play again until 2027. “Don’t usually love lots of…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FIFPRO Europe calls for FIFA reform after Infantino’s failed proposal",
+      "link": "https://ghanaiantimes.com.gh/fifpro-europe-calls-for-fifa-reform-after-infantinos-failed-proposal/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T09:38:41.000Z",
+      "summary": "European soccer players’ union FIFPRO Europe demanded reforms to FIFA’s decision-making structures on Monday, arguing that the world body’s now-abandoned investment proposal exposed…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nairobi to host 2029 WAC in African first",
+      "link": "https://ghanaiantimes.com.gh/nairobi-to-host-2029-wac-in-african-first/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T09:36:07.000Z",
+      "summary": "Nairobi has been selected to host the 2029 World Athletics Championships (WAC), with the Kenyan capital becoming the first African city to stage the ‌event. World Athletics announced the…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Wednesday, September 16, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-wednesday-september-16-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T08:27:39.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Frontpages",
+        "Newspaper"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Real Intelligence must be free to the world – Prof. Ato Duncan",
+      "link": "https://www.graphic.com.gh/news/general-news/real-intelligence-must-be-free-to-the-world-prof-ato-duncan.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T08:17:22.000Z",
+      "summary": "The Executive President of the Centre of Awareness Global Peace Mission, Prof. Samuel Ato Duncan, has launched an initiative christened Real Intelligence in the Central Region, declaring…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "North Tongu MP supports fresh SHS students with chop boxes, mattresses and bicycles",
+      "link": "https://www.graphic.com.gh/news/general-news/north-tongu-mp-supports-fresh-shs-students-with-chop-boxes-mattresses-and-bicycles.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T08:08:27.000Z",
+      "summary": "The Member of Parliament for North Tongu, Mr Samuel Okudzeto Ablakwa, has presented 100 bicycles to day students and distributed chop boxes, mattresses, provisions and sanitary pads to over…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Novartis backs Ghana Medical Trust Fund, describes initiative as critical and timely",
+      "link": "https://www.graphic.com.gh/news/general-news/novartis-backs-ghana-medical-trust-fund-describes-initiative-as-critical-and-timely.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T07:49:04.000Z",
+      "summary": "Global healthcare giant Novartis has thrown its weight behind the Ghana Medical Trust Fund (GMTF), describing the initiative as a critical and timely intervention capable of saving lives…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Regulating establishment of EV charging stations: my thoughts",
+      "link": "https://www.myjoyonline.com/regulating-establishment-of-ev-charging-stations-my-thoughts/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T07:46:46.000Z",
+      "summary": "President John Dramani Mahama is reported to have announced on Tuesday, 15th September, plans to regulate the establishment of electric vehicle (EV) charging stations to prevent uneven…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Electric vehicle",
+        "EV",
+        "Kwaku Abtwi-Boasiako",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Heritage Theatre Arts Festival 2026 to unite African and global performers in Accra",
+      "link": "https://www.graphic.com.gh/news/general-news/heritage-theatre-arts-festival-2026-to-unite-african-and-global-performers-in-accra.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T07:34:31.000Z",
+      "summary": "The Heritage Theatre Arts Festival 2026 is set to take place from October 5 to 11, 2026, at the University of Ghana's School of Performing Arts in Legon, bringing together theatre…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Open Letter to the Chairperson and Members of the Constitution Review Implementation Committee – Preserving the People-Centred Character of Ghana’s Constitutional Reform Process",
+      "link": "https://www.myjoyonline.com/open-letter-to-the-chairperson-and-members-of-the-constitution-review-implementation-committee-preserving-the-people-centred-character-of-ghanas-constitutional-reform-process/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T07:33:02.000Z",
+      "summary": "I bring you good tidings from my home, where I practise my own version of constitutional democracy every day. My wife plays the role of the Speaker, while my children are the citizens. In…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Alex Boateng",
+        "Constitution",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Catholic Bishops demand 20% quota for Catholics in mission schools",
+      "link": "https://www.myjoyonline.com/catholic-bishops-demand-20-quota-for-catholics-in-mission-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T06:06:20.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference is pushing for the implementation of a 20% admission quota for Catholic students in mission schools.",
+      "categories": [
+        "Education",
+        "HP News 4",
+        "Catholic Bishop's Conference",
+        "School placement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GES releases outstanding 2023 Capitation Grant arrears to basic schools",
       "link": "https://www.myjoyonline.com/ges-releases-outstanding-2023-capitation-grant-arrears-to-basic-schools/",
       "source": "MyJoyOnline",
@@ -44,6 +251,7 @@ window.GDC_PAPERS = {
       "published": "2026-09-16T05:41:00.000Z",
       "summary": "Child protection organisation Challenging Heights has raised concerns over an active network allegedly recruiting Ghanaian children into the commercial sex trade through social media…",
       "categories": [
+        "HP News 5",
         "National",
         "Challenging Heights",
         "James Kofi Annan",
@@ -64,75 +272,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Auditor-General must explain missing Local Govt, Transport ministries Covid spending – Davis Ansah Opoku",
-      "link": "https://www.myjoyonline.com/auditor-general-must-explain-missing-local-govt-transport-ministries-covid-spending-davis-ansah-opoku/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T05:23:00.000Z",
-      "summary": "The Auditor-General must explain why COVID-19 expenditure by the Ministries of Local Government and Transport was not clearly captured in its audit report, the Vice Chairperson of…",
-      "categories": [
-        "National",
-        "Audit Covid Expenditure",
-        "Auditor-General",
-        "Davis Ansah Opoku"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COVID Audit: PAC Vice Chair says ‘no arrests’ yet over missing fumigation spending",
-      "link": "https://www.myjoyonline.com/covid-audit-pac-vice-chair-says-no-arrests-yet-over-missing-fumigation-spending/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T05:05:00.000Z",
-      "summary": "Vice Chairperson of Parliament’s Public Accounts Committee, Davis Ansah Opoku, says there is no basis for arrests over the alleged omission of COVID-19 fumigation expenditure from the…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Audit Covid Expenditure",
-        "Davis Ansah Opoku"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Old farming practice is offering new hope for climate action in Zuuku",
-      "link": "https://www.myjoyonline.com/old-farming-practice-is-offering-new-hope-for-climate-action-in-zuuku/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T04:44:00.000Z",
-      "summary": "The practice is not new. Older residents say it has been passed down through generations, long before climate change became part of everyday conversation.",
-      "categories": [
-        "News",
-        "Bawku",
-        "Climate change",
-        "crops residue",
-        "Zuuku"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Auditor-General’s own audit objective raises questions over omission of Local Gov’t spending – Manasseh Awuni",
-      "link": "https://www.myjoyonline.com/auditor-generals-own-audit-objective-raises-questions-over-omission-of-local-govt-spending-manasseh-awuni/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T04:36:00.000Z",
-      "summary": "Investigative journalist Manasseh Azure Awuni says the Auditor-General’s own stated objective for its COVID-19 expenditure audit raises questions over why the Ministry of Local Government’s…",
-      "categories": [
-        "National",
-        "Audit Covid Expenditure",
-        "Manasseh Azure Awuni"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Auditor-General reported GH¢96m, but Local Gov’t spent GH¢299m on fumigation – Manasseh Awuni",
-      "link": "https://www.myjoyonline.com/auditor-general-reported-gh%c2%a296m-but-local-govt-spent-gh%c2%a2299m-on-fumigation-manasseh-awuni/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T04:17:00.000Z",
-      "summary": "He said he contacted the Audit Service after questions emerged over why the Ministry of Local Government’s fumigation expenditure was not captured in the Auditor-General’s COVID-19…",
-      "categories": [
-        "National",
-        "Audit Covid Expenditure",
-        "Manasseh Azure Awuni"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "NANS students get first-hand gold industry exposure as Igbasan commits ₦15M to student development",
       "link": "https://www.graphic.com.gh/news/general-news/nans-students-get-first-hand-gold-industry-exposure-as-igbasan-commits-15m-to-student-development.html",
       "source": "Daily Graphic",
@@ -142,17 +281,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Chen Yuanyu Beats Omar Assar in WTT Champions Opener",
-      "link": "https://ghanaiantimes.com.gh/chen-yuanyu-beats-omar-assar-in-wtt-champions-opener/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T18:07:19.000Z",
-      "summary": "ALT: Table tennis ball struck by a paddle during a fast rally. Chen Yuanyu opened WTT Champions Macao on 8 September with a 3–0 victory over Omar Assar, but the individual games were…",
-      "categories": [
-        "Technology"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Majority in a poll blame double-track for decline in SHS quality",
@@ -166,18 +294,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Police to begin full implementation of automated traffic enforcement from October 1",
-      "link": "https://ghanaiantimes.com.gh/police-to-begin-full-implementation-of-automated-traffic-enforcement-from-october-1/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T17:25:00.000Z",
-      "summary": "The Ghana Police Service, through the Motor Traffic and Transport Department (MTTD), will commence full implementation of its automated traffic law enforcement programme, TRAFFITECH-GH…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Fidelity Bank donates GH¢200,000 to Ghana Medical Trust Fund",
       "link": "https://www.graphic.com.gh/news/general-news/fidelity-bank-donates-ghc200-000-to-ghana-medical-trust-fund.html",
       "source": "Daily Graphic",
@@ -189,104 +305,11 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Rhythms On Da Runway returns November 28 with 16th edition themed ‘Unbound’",
-      "link": "https://ghanaiantimes.com.gh/rhythms-on-da-runway-returns-november-28-with-16th-edition-themed-unbound/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T15:38:25.000Z",
-      "summary": "Ghana’s biggest fashion and music showcase, Rhythms on Da Runway (RODR), will return on November 28, 2026, at the Palms Convention Centre for its 16th edition. Described by the BBC as “the…",
-      "categories": [
-        "Lifestyle"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "It is now official: Beginning Oct 1, Ghana Police will use cameras to arrest traffic offenders, notices of violation to be served on drivers via SMS",
       "link": "https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html",
       "source": "Daily Graphic",
       "published": "2026-09-15T15:34:37.000Z",
       "summary": "The Ghana Police Service will begin full enforcement of traffic offences through its automated traffic law enforcement programme, TRAFFITECH-GH, from October 1, 2026.",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dogo Beach squatters given one-week ultimatum to vacate ahead of demolition",
-      "link": "https://www.graphic.com.gh/news/general-news/dogo-beach-squatters-given-one-week-ultimatum-to-vacate-ahead-of-demolition.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T15:16:17.000Z",
-      "summary": "The Accra Metropolitan Assembly has given occupants of Gbagbasetey, also known as Dogo Beach, in the Ashiedu Keteke Sub-Metropolitan District a one-week ultimatum to vacate the area ahead…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Henry Brew Gardner declares intent to contest Agona West NDC Youth Organizer position",
-      "link": "https://ghanaiantimes.com.gh/henry-brew-gardner-declares-intent-to-contest-agona-west-ndc-youth-organizer-position/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T14:09:14.000Z",
-      "summary": "Entrepreneur, Henry Brew Gardner has officially declared his intention to contest for the position of Agona West Constituency Youth Organizer of the National Democratic Congress (NDC) in…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Education Ministry to review CSSPS after current placement exercise",
-      "link": "https://ghanaiantimes.com.gh/education-ministry-to-review-cssps-after-current-placement-exercise/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T13:52:32.000Z",
-      "summary": "The Ministry of Education says it will establish a Technical Working Committee to conduct a comprehensive review of the Computerised School Selection and Placement System (CSSPS) after the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Janet Asana Nabla criticises Mahama over China curriculum controversy involving Haruna Iddrisu",
-      "link": "https://ghanaiantimes.com.gh/janet-asana-nabla-criticises-mahama-over-china-curriculum-controversy-involving-haruna-iddrisu/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T13:47:59.000Z",
-      "summary": "Presidential candidate for the people’s national party, Janet Asana Nabla has criticised President John Dramani Mahama over his public response to comments by Education Minister Haruna…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Steven Nhyira Odarteifio declares bid for NDC National Youth Organiser position",
-      "link": "https://ghanaiantimes.com.gh/steven-nhyira-odarteifio-declares-bid-for-ndc-national-youth-organiser-position/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T13:43:33.000Z",
-      "summary": "Comrade Steven Nhyira Odarteifio has declared his intention to contest for the position of National Youth Organiser of the National Democratic Congress (NDC). In his declaration speech, he…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, Columbus partner to recruit nurses for US jobs",
-      "link": "https://ghanaiantimes.com.gh/ghana-columbus-partner-to-recruit-nurses-for-us-jobs/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-15T13:34:44.000Z",
-      "summary": "The Ministry of Health has secured a new pathway for qualified Ghanaian nurses to access employment opportunities in the United States after signing a Memorandum of Understanding (MoU)…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, Columbus sign MoU to deploy nurses to US",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-columbus-sign-mou-to-open-us-jobs-for-nurses.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T13:18:17.000Z",
-      "summary": "Ghana has signed a Memorandum of Understanding (MoU) with the City of Columbus, Ohio, to facilitate the recruitment and deployment of Ghanaian nurses and other health professionals to the…",
       "categories": [
         "General News"
       ],
@@ -302,28 +325,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Challenging Heights warns trafficking networks now targeting Ghanaian girls",
-      "link": "https://www.graphic.com.gh/news/general-news/challenging-heights-warns-trafficking-networks-now-targeting-ghanaian-girls.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T12:45:04.000Z",
-      "summary": "Challenging Heights has warned that human trafficking networks operating in Ghana's mining communities are expanding their reach to Ghanaian girls, following the rescue of 47 Nigerian…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Local Government Ministry to roll out live broadcasts of Assembly meetings nationwide",
-      "link": "https://www.graphic.com.gh/news/general-news/local-government-ministry-to-roll-out-live-broadcasts-of-assembly-meetings-nationwide.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T11:58:58.000Z",
-      "summary": "The Ministry of Local Government, Chieftaincy and Religious Affairs is to partner the National Commission for Civic Education (NCCE) and the Ghana Broadcasting Corporation (GBC) to provide…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "SIC, NSIA bosses win CEO penalty shootout at 2026 Insurance Fun Games",
