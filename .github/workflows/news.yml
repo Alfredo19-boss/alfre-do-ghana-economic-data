@@ -1,9 +1,8 @@
 name: Update business news
 
 # Every five minutes: collects Ghana business headlines from publishers' RSS feeds into
-# news-data.js and the day's front pages into papers-data.js. Commits only when there are new
-# stories, so a quiet run changes nothing. Five minutes is GitHub's fastest schedule, and its
-# scheduler is best-effort: a run can arrive late or be skipped when GitHub is busy.
+# news-data.js, the day's front pages into papers-data.js, and world and African headlines
+# into world-data.js. Commits only when there are new stories, so a quiet run changes nothing.
 on:
   schedule:
     - cron: "*/5 * * * *"   # every five minutes
@@ -13,10 +12,6 @@ permissions:
   contents: write
   pages: write
 
-# Its own concurrency group. All the data jobs used to share one, and because this job runs
-# most often it kept the lane busy — the slower jobs sat pending and were cancelled by the
-# next pending run before they ever started. Each job now queues only against itself.
-# Simultaneous commits are safe because every job rebases on origin before it pushes.
 concurrency:
   group: news
   cancel-in-progress: false
