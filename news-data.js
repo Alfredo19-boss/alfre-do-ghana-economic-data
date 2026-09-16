@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T15:36:26.862Z",
+  "updated": "2026-09-16T18:32:26.729Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,12 +25,61 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)"
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)"
   ],
   "items": [
+    {
+      "title": "Customs revenue jumps to 450 million dollars monthly since AI introduction",
+      "link": "https://www.myjoyonline.com/customs-revenue-jumps-to-450-million-dollars-monthly-since-ai-introduction/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T17:57:55.000Z",
+      "summary": "Revenue mobilised by the Customs Division of the Ghana Revenue Authority has increased significantly to approximately 450 million dollars a month since the introduction of artificial…"
+    },
+    {
+      "title": "Fuel prices will continue to surge – COPEC",
+      "link": "https://www.myjoyonline.com/fuel-prices-will-continue-to-surge-copec/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T17:32:59.000Z",
+      "summary": "The Executive Director of the Chamber of Petroleum Consumers (COPEC), Duncan Amoah, has warned that fuel prices will continue to rise as global demand and other cost pressures persist."
+    },
+    {
+      "title": "Telecel CEO Links Ethical Leadership To Investor Confidence And Business Growth",
+      "link": "https://thehighstreetjournal.com/telecel-ceo-links-ethical-leadership-to-investor-confidence-and-business-growth/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T17:30:00.000Z",
+      "summary": "Telecel Ghana CEO Patricia Obo-Nai says ethical leadership is critical to investor confidence, trusted brands and sustainable business growth, urging universities to produce professionals…"
+    },
+    {
+      "title": "GRA, Eban Capital and ASSI hold national stakeholder workshop on Modified Taxation Scheme",
+      "link": "https://www.myjoyonline.com/gra-eban-capital-and-assi-hold-national-stakeholder-workshop-on-modified-taxation-scheme/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T17:20:44.000Z",
+      "summary": "The workshop, themed “Driving Informal-Sector Tax Compliance, Digital Revenue Mobilisation and Financial Inclusion through Partnership”, formed the centrepiece of a two-day national…"
+    },
+    {
+      "title": "GNPC sees potential 1bn barrels of oil, 2.5trn cubic feet of gas in Tano Basin",
+      "link": "https://www.myjoyonline.com/gnpc-sees-potential-1bn-barrels-of-oil-2-5trn-cubic-feet-of-gas-in-tano-basin/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T16:35:23.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) says it has identified potential stranded resources of more than one billion barrels of oil and 2.5 trillion cubic feet of gas in the Tano…"
+    },
+    {
+      "title": "Sekyedumase Community Bank PLC records increase in profit",
+      "link": "https://gna.org.gh/2026/09/sekyedumase-community-bank-plc-records-increase-in-profit/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-16T16:11:45.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "WTO Faces Critical Juncture as Global Trade Power Shifts – Report",
+      "link": "https://thehighstreetjournal.com/wtoglobal-trade-power-shifts-report-says/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T16:00:00.000Z",
+      "summary": "The World Trade Organization (WTO) is facing its most sustained disruption in decades as shifts in global economic power, rising government intervention, geopolitical tensions and…"
+    },
     {
       "title": "Businesses Urged To Cut Costs As Producer Inflation Rises",
       "link": "https://thehighstreetjournal.com/businesses-urged-to-cut-costs-as-producer-inflation-rises/",
@@ -571,6 +620,13 @@ window.GDC_NEWS = {
       "summary": "Ghana risks losing portions of its import trade to competing ports in the sub-region if urgent measures are not taken to resolve persistent congestion and delays at its ports, the Importers…"
     },
     {
+      "title": "Enterprise Life marks 25th anniversary after reaching over 3 million lives in Ghana",
+      "link": "https://www.myjoyonline.com/enterprise-life-marks-25th-anniversary-after-reaching-over-3-million-lives-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T09:08:00.000Z",
+      "summary": "Enterprise Life has marked its 25th anniversary with a thanksgiving service, celebrating a quarter-century of operations in Ghana’s insurance industry and expressing appreciation to…"
+    },
+    {
       "title": "TCDA Pushes Investment, Technology to Make Ghana’s Cashew Industry More Competitive",
       "link": "https://thehighstreetjournal.com/tcda-pushes-investment-technology-to-make-ghanas-cashew-industry-more-competitive/",
       "source": "The High Street Journal",
@@ -1024,62 +1080,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-14T05:00:00.000Z",
       "summary": "Ghana’s Treasury missed its GH¢7.97 billion T-bill target by GH¢764.27 million despite a modest 2.8% oversubscription and falling yields, raising questions about whether the market’s…"
-    },
-    {
-      "title": "PAPSS Targets Scale-Up as Cross-Border Payment Volumes Surge",
-      "link": "https://thehighstreetjournal.com/papss-targets-scale-up/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:00:00.000Z",
-      "summary": "Pan-African payment network says transaction volumes jumped about 1,000% as it expands across more than 30 countries"
-    },
-    {
-      "title": "Afreximbank Backs Legends Football Match to Drive Africa’s Creative Economy",
-      "link": "https://thehighstreetjournal.com/legends-football-match-creative-economy/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:00:00.000Z",
-      "summary": "CANEX WKND event will reunite members of Nigeria’s iconic 1990s Super Eagles squad in Lagos"
-    },
-    {
-      "title": "AI Skills, Digital Economy Take Centre Stage at International Youth Festival in Russia",
-      "link": "https://thehighstreetjournal.com/ai-skills-digital-economy-take-centre-stage-at-international-youth-festival-in-russia/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:00:00.000Z",
-      "summary": "AI skills, digital literacy and creativity are emerging as key drivers of opportunity for the next generation of entrepreneurs and digital workers."
-    },
-    {
-      "title": "The Hidden Continuity Tax: Why Ghanaians Buy Private Solutions to Public Problems",
-      "link": "https://thehighstreetjournal.com/the-hidden-continuity-tax-why-ghanaians-buy-private-solutions-to-public-problems/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:00:00.000Z",
-      "summary": "Ghana’s hidden continuity tax reveals how unreliable public systems force households and businesses to privately finance electricity, water, security, connectivity, and other essential…"
-    },
-    {
-      "title": "GOIL sets Sept. 16 deadline for decision on fuel prices",
-      "link": "https://www.myjoyonline.com/goil-sets-sept-16-deadline-for-decision-on-fuel-prices/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T04:57:51.000Z",
-      "summary": "GOIL is studying the impact of crude oil prices hitting $100 a barrel before deciding whether to adjust fuel prices at its pumps."
-    },
-    {
-      "title": "Deloitte Partner calls for a specialised bank for industrial development",
-      "link": "https://www.myjoyonline.com/deloitte-partner-calls-for-a-specialised-bank-for-industrial-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T03:26:09.000Z",
-      "summary": "Deloitte Africa Leader for Infrastructure & Capital Projects (I&CP), Yaw Appiah Lartey, has proposed the establishment of a specialised financial institution dedicated to supporting…"
-    },
-    {
-      "title": "MPC to cut policy rate to 12.5%",
-      "link": "https://www.myjoyonline.com/mpc-to-cut-policy-rate-to-12-5/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T01:11:54.000Z",
-      "summary": "“Despite external shocks, monetary policy in 1H’26 [half-year 2026] remained on a cautious easing path, with our expectation of two rate cuts for the year [2026] still intact following the…"
-    },
-    {
-      "title": "Banks wrote off GH¢1.23bn as bad debt in half-year-2026",
-      "link": "https://www.myjoyonline.com/banks-wrote-off-gh%c2%a21-23bn-as-bad-debt-in-half-year-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T00:48:36.000Z",
-      "summary": "This was 38% year-on-increase over that of GH¢893.0 million recorded in June 2025"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T15:36:40.580Z",
+  "updated": "2026-09-16T18:32:41.569Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,123 +25,229 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Fuel crisis: Ad hoc interventions won’t solve transport fare concerns – Energy analyst",
-      "link": "https://www.myjoyonline.com/fuel-crisis-ad-hoc-interventions-wont-solve-transport-fare-concerns-energy-analyst/",
+      "title": "Vaglas join Vughin to mark Dɛng Festival of Sonyor in Savannah Region",
+      "link": "https://www.myjoyonline.com/vaglas-join-vughin-to-mark-d%c9%9bng-festival-of-sonyor-in-savannah-region/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T15:32:04.000Z",
-      "summary": "Energy analyst Kwadwo Poku says government must engage transport unions and agree on a sustainable formula for adjusting fares.",
+      "published": "2026-09-16T18:21:42.000Z",
+      "summary": "Centuries ago, the Chɔra people of the Guan ethnic group who lived around where the Krachis currently live, wandered through thick forests and located a Vagla inhabited community of Sonyor…",
+      "categories": [
+        "Arts and Culture",
+        "Opinion",
+        "Vaglas"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian model Eligere Di Merrebel attends 2026 Venice Film Festival",
+      "link": "https://www.myjoyonline.com/ghanaian-model-eligere-di-merrebel-attends-2026-venice-film-festival/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T18:17:05.000Z",
+      "summary": "Ghanaian model Eligere Di Merrebel attended the 83rd Venice International Film Festival in 2026.",
+      "categories": [
+        "Arts and Culture",
+        "Fashion",
+        "Eligere Di Merrebel",
+        "Venice Film Festival"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“You can’t take our GH¢82m and run away to Nigeria” – Roads Minister fires Enchi–Elubo road contractor",
+      "link": "https://www.myjoyonline.com/you-cant-take-our-gh%c2%a282m-and-run-away-to-nigeria-roads-minister-fires-enchi-elubo-road-contractor/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T18:15:10.000Z",
+      "summary": "The Minister for Roads and Highways, Governs Kwame Agbodza, has expressed frustration over Enchi–Elubo road contractor, Top International Engineering (Gh) Ltd continued failure to take…",
       "categories": [
         "National",
         "News",
-        "Fuel",
-        "Kwadwo Poku",
-        "Transport fare"
+        "Enchi–Elubo road",
+        "Nigeria",
+        "Roads Minister"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "link": "https://www.myjoyonline.com/eight-children-among-21-killed-after-war-damaged-gaza-building-collapses-rescuers-say/",
+      "title": "GCB Bank unveils GH¢1m unsecured loans to boost business growth at Kumasi MSME Caravan",
+      "link": "https://www.myjoyonline.com/gcb-bank-unveils-gh%c2%a21m-unsecured-loans-to-boost-business-growth-at-kumasi-msme-caravan/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T15:28:15.000Z",
-      "summary": "At least 21 people have been killed, including eight children, and dozens are missing after a war-damaged building collapsed in the Gaza Strip overnight, local rescuers and medics say.",
+      "published": "2026-09-16T18:12:17.000Z",
+      "summary": "As part of its commitment to empowering small and medium-sized enterprises, GCB Bank PLC has held the Kumasi edition of its MSME Caravan Business Clinic to build the capacity of local…",
       "categories": [
-        "International",
-        "Building collapses",
-        "Gaza",
-        "War"
+        "Regional",
+        "GCB Bank PLC",
+        "GH¢1m",
+        "Kumasi MSME Caravan"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "AFCON 2027Q: Côte d’Ivoire name squad for Black Stars and Somalia clashes",
-      "link": "https://www.myjoyonline.com/afcon-2027q-cote-divoire-name-squad-for-black-stars-and-somalia-clashes/",
+      "title": "Education chanllenges: NPP not interested in gov’t failure, but we will hold them to account – Dr Kwabena Tandoh",
+      "link": "https://www.myjoyonline.com/education-chanllenges-npp-not-interested-in-govt-failure-but-we-will-hold-them-to-account-dr-kwabena-tandoh/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T15:26:16.000Z",
-      "summary": "The Elephants will start their international break with the 2027 Africa Cup of Nations (AFCON) Qualifiers against the Black Stars on September 24.",
+      "published": "2026-09-16T18:06:14.000Z",
+      "summary": "The New Patriotic Party (NPP) Education Committee spokesperson, Dr Kwabena Tandoh, says the party is not interested in seeing the government fail, despite its role as the opposition.",
       "categories": [
-        "Football",
+        "Education",
+        "National",
+        "Dr Kwabena Tandoh",
+        "New Patriotic Party"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kristo Asafo Bompata branch members allege post-funeral attacks",
+      "link": "https://www.myjoyonline.com/kristo-asafo-bompata-branch-members-allege-post-funeral-attacks/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T18:04:23.000Z",
+      "summary": "Some members of the Kristo Asafo Mission of Ghana, Bompata branch, have alleged targeted attacks for attending the funeral rites of the late founder and leader of the church, Apostle Kwadwo…",
+      "categories": [
+        "Regional",
+        "Bompata branch",
+        "Kristo Asafo Mission",
+        "post-funeral attacks"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Show up Friday or lose the contract’ – Roads Minister warns Top International over abandoned Enchi–Elubo road",
+      "link": "https://www.myjoyonline.com/show-up-friday-or-lose-the-contract-roads-minister-warns-top-international-over-abandoned-enchi-elubo-road/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T18:04:01.000Z",
+      "summary": "The Minister for Roads and Highways, Governs Kwame Agbodza, has given Top International Engineering (Gh) Ltd. until Friday to appear before the Ministry and explain its handling of a…",
+      "categories": [
         "HP News 7",
         "National",
-        "Black Stars",
-        "Cote D'Ivoire"
+        "News",
+        "Enchi–Elubo road",
+        "Roads Minister",
+        "Top International"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GBA President Efua Ghartey calls for Constituent Assembly to deliberate on 1992 Constitution reforms",
-      "link": "https://www.myjoyonline.com/gba-president-efua-ghartey-calls-for-constituent-assembly-to-deliberate-on-1992-constitution-reforms/",
+      "title": "Customs revenue jumps to 450 million dollars monthly since AI introduction",
+      "link": "https://www.myjoyonline.com/customs-revenue-jumps-to-450-million-dollars-monthly-since-ai-introduction/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T15:25:08.000Z",
+      "published": "2026-09-16T17:57:55.000Z",
+      "summary": "Revenue mobilised by the Customs Division of the Ghana Revenue Authority has increased significantly to approximately 450 million dollars a month since the introduction of artificial…",
+      "categories": [
+        "Business",
+        "Comp. Business",
+        "Economy",
+        "HP Business 1",
+        "Technology",
+        "artificial intelligence systems",
+        "Customs Division of the Ghana Revenue Authority (GRA)",
+        "Revenue Mobilisation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two petition police to investigate Nitiwul over alleged inflammatory comments on Agbogbloshie redevelopment",
+      "link": "https://ghanaiantimes.com.gh/two-petition-police-to-investigate-nitiwul-over-alleged-inflammatory-comments-on-agbogbloshie-redevelopment/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:51:10.000Z",
+      "summary": "Two Ghanaian citizens, Solomon Owusu and lawyer Andrew Appiah-Danquah, have petitioned the Criminal Investigation Department (CID) of the Ghana Police Service to investigate the Member of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police interdict seven officers over alleged extortion",
+      "link": "https://ghanaiantimes.com.gh/police-interdict-seven-officers-over-alleged-extortion/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:23:06.000Z",
+      "summary": "The Ghana Police Service has interdicted seven police personnel in connection with an alleged extortion incident in Accra. The officers, who were members of a patrol team, are alleged to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "IGP engages Okada riders on safety, calls for licensing compliance",
+      "link": "https://ghanaiantimes.com.gh/igp-engages-okada-riders-on-safety-calls-for-licensing-compliance/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:19:21.000Z",
+      "summary": "The Inspector-General of Police, Mr. Christian Tetteh Yohuno, has met with the leadership of the Okada Riders Association of Ghana (ORAG) to discuss road safety and strengthen collaboration…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Volta chiefs delegation arrives in China for investment tour",
+      "link": "https://ghanaiantimes.com.gh/volta-chiefs-delegation-arrives-in-china-for-investment-tour/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:14:49.000Z",
+      "summary": "A high-powered delegation of chiefs from the Volta Region has today arrived in China on a strategic investment tour at the invitation of Ghana’s Ambassador to China, H.E. Kojo Bonsu. The…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Volta has enormous agricultural potential – Regional Minister",
+      "link": "https://ghanaiantimes.com.gh/volta-has-enormous-agricultural-potential-regional-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:12:27.000Z",
+      "summary": "Volta Regional Minister, James Gunu, says the Volta Region holds enormous agricultural potential and efforts must be geared towards connecting farmers to the needed resources to unlock that…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mahama Ayariga engages Regional Ministers to strengthen local governance",
+      "link": "https://ghanaiantimes.com.gh/mahama-ayariga-engages-regional-ministers-to-strengthen-local-governance/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:09:57.000Z",
+      "summary": "The Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has welcomed a number of Regional Ministers to the Ministry for a courtesy engagement. The meeting…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "37 Nsawam Prison inmates sit for Teacher Licensure Examination",
+      "link": "https://ghanaiantimes.com.gh/37-nsawam-prison-inmates-sit-for-teacher-licensure-examination/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:06:04.000Z",
+      "summary": "Thirty-seven inmates of the Nsawam Medium Security Prison who have completed their degree programmes have sat for the Teacher Licensure Examination. The examination was conducted at the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP demands apology or sacking of Education Minister over Arabic, Chinese language controversy",
+      "link": "https://ghanaiantimes.com.gh/npp-demands-apology-or-sacking-of-education-minister-over-arabic-chinese-language-controversy/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T16:03:13.000Z",
+      "summary": "The New Patriotic Party (NPP) has called on President John Dramani Mahama to either apologise to Ghanaians or remove Education Minister Haruna Iddrisu from office over the controversy…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GBA President calls for Constituent Assembly to review constitutional amendments",
+      "link": "https://www.graphic.com.gh/news/general-news/gba-president-calls-for-constituent-assembly-to-review-constitutional-amendments.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T15:49:51.000Z",
       "summary": "The President of the Ghana Bar Association (GBA), Mrs Efua Ghartey, has called for the establishment of a Constituent Assembly to thoroughly deliberate on proposals to amend the 1992…",
       "categories": [
-        "National",
-        "Efua Ghartey",
-        "GBA"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Made In Africa: Prof. Douglas Boateng to address the continent’s largest supply chain and industrialisation professional gathering",
-      "link": "https://www.myjoyonline.com/made-in-africa-prof-douglas-boateng-to-address-the-continents-largest-supply-chain-and-industrialisation-professional-gathering/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T15:21:55.000Z",
-      "summary": "In a keynote address in Livingstone, Zambia, the leading Pan-African governance strategist will challenge thousands of supply chain and procurement leaders across the continent: “We cannot…",
-      "categories": [
-        "National",
-        "News",
-        "Ghana",
-        "Made in Africa",
-        "Nigeria",
-        "Prof. Douglas Boateng",
-        "Supply chain"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rising fuel prices making it difficult for drivers to survive – Samuel Amoah",
-      "link": "https://www.myjoyonline.com/rising-fuel-prices-making-it-difficult-for-drivers-to-survive-samuel-amoah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T15:15:06.000Z",
-      "summary": "Deputy Public Relations Officer of the GPRTU, Samuel Amoah, says persistent increases in petroleum prices are putting commercial drivers under severe financial pressure and making it…",
-      "categories": [
-        "National",
-        "drivers",
-        "Fuel Prices",
-        "Samuel Amoah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "link": "https://www.myjoyonline.com/us-accuses-russia-of-trying-to-kill-ukrainian-allies-overseas/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T15:12:40.000Z",
-      "summary": "The US Department of Justice (DoJ) has accused Russia of plotting to murder Ukrainian allies in the US and Europe.",
-      "categories": [
-        "International",
-        "DOJ",
-        "Russia",
-        "Ukraine",
-        "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPRTU to maintain 30% proposed fare hike despite latest fuel increase – Deputy PRO",
-      "link": "https://www.myjoyonline.com/gprtu-to-maintain-30-proposed-fare-hike-despite-latest-fuel-increase-deputy-pro/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T15:09:35.000Z",
-      "summary": "The Ghana Private Road Transport Union (GPRTU) says it will maintain its proposed 30% increase in transport fares despite the latest rise in fuel prices.",
-      "categories": [
-        "National",
-        "News",
-        "30% proposed fare hike",
-        "Fuel",
-        "GPRTU",
-        "Samuel Amoah"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "EPA shuts down operations of Empire Cement at Weija in Accra in relation to pollution breaches",
@@ -153,95 +259,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Scholarship scheme launched for Ga-Dangme students",
-      "link": "https://ghanaiantimes.com.gh/scholarship-scheme-launched-for-ga-dangme-students/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T10:06:56.000Z",
-      "summary": "The Ga Mantse, King Tackie Teiko Tsuru II, has called for greater investment in the education of Ga-Dangme youth to equip them with the knowledge and skills needed to become responsible…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Catholic Bishops demand independent audit of CSSPS • Minister pledges to set up Technical Working Committee",
-      "link": "https://ghanaiantimes.com.gh/catholic-bishops-demand-independent-audit-of-cssps-minister-pledges-to-set-up-technical-working-committee/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T10:03:51.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference (GCBC) has called for an independent review of the Senior High School (SHS) placement system amid growing concerns over alleged unfairness, lack of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "$4,000 prize package announced for Accra Inter-City Marathon winner",
-      "link": "https://ghanaiantimes.com.gh/4000-prize-package-announced-for-accra-inter-city-marathon-winner/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T10:00:31.000Z",
-      "summary": "Medivents Consult, organisers of the Tampico Accra Inter-City Marathon, have announced that the winner of this year’s race will take home a total prize package of $4,000. Mr William Ezah…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "US Embassy trains 50 coaches, 300 female student-athletes",
-      "link": "https://ghanaiantimes.com.gh/us-embassy-trains-50-coaches-300-female-student-athletes/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T09:59:18.000Z",
-      "summary": "The U.S. Embassy in Ghana has concluded a sports diplomacy programme after training 50 coaches and 300 female student-athletes across Tamale, Kumasi, and Accra to strengthen the country’s…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2 Kenyans shine at 2026 KGL Foundation Millennium Marathon",
-      "link": "https://ghanaiantimes.com.gh/2-kenyans-shine-at-2026-kgl-foundation-millennium-marathon/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T09:56:10.000Z",
-      "summary": "Two Kenyan athletes emerged winners of the 2026 KGL Foundation Millennium Marathon held in Accra on Saturday. Alex Korio won the men’s 21-kilometre elite race, while Lucy Ndambuki triumphed…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Sterling admits dangerous driving after highway collision",
-      "link": "https://ghanaiantimes.com.gh/sterling-admits-dangerous-driving-after-highway-collision/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T09:42:27.000Z",
-      "summary": "Former England forward Raheem Sterling admitted dangerous driving on Tuesday after being involved in a collision on a highway. Sterling pleaded guilty at Basingstoke Magistrates’ Court to…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Draper out until 2027",
-      "link": "https://ghanaiantimes.com.gh/draper-out-until-2027/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T09:40:26.000Z",
-      "summary": "Jack Draper has ruled himself out of action for the rest of the year. In an emotional Instagram post, Draper said he won’t be able to play again until 2027. “Don’t usually love lots of…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FIFPRO Europe calls for FIFA reform after Infantino’s failed proposal",
-      "link": "https://ghanaiantimes.com.gh/fifpro-europe-calls-for-fifa-reform-after-infantinos-failed-proposal/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T09:38:41.000Z",
-      "summary": "European soccer players’ union FIFPRO Europe demanded reforms to FIFA’s decision-making structures on Monday, arguing that the world body’s now-abandoned investment proposal exposed…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Real Intelligence must be free to the world – Prof. Ato Duncan",
@@ -304,17 +321,6 @@ window.GDC_PAPERS = {
       "source": "Daily Graphic",
       "published": "2026-09-16T07:43:35.000Z",
       "summary": "President John Dramani Mahama has commissioned Phase III of Zonda Tec Ghana’s assembly plant at Tema in the Greater Accra Region, describing the expansion works as fulfilment of the vision…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "University of Engineering and Agricultural Sciences: New university pledges agric transformation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-university-of-engineering-and-agricultural-sciences-new-university-pledges-agric-transformation.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-16T07:39:03.000Z",
-      "summary": "Ghana’s newest public institution of higher learning, the University of Engineering and Agricultural Sciences (UEAS), has pledged to train engineers and agricultural scientists who will…",
       "categories": [
         "General News"
       ],
