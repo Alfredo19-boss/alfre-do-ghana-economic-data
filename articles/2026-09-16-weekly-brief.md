@@ -28,7 +28,7 @@ That concentration cuts both ways: the same gold price that has carried the surp
 
 ## The budget, so far
 
-The 2026 budget approved **GH¢268.1bn** of revenue and grants against **GH¢302.5bn** of spending. Spread evenly, 71% of the year has passed, which puts revenue at about **GH¢189.6bn** and spending at **GH¢213.9bn** — an even-pace estimate, not collection to date.
+The 2026 budget approved **GH¢268.1bn** of revenue and grants against **GH¢302.5bn** of spending. Spread evenly, 71% of the year has passed, which puts revenue at about **GH¢189.6bn** and spending at **GH¢214.0bn** — an even-pace estimate, not collection to date.
 
 Interest on debt is budgeted at **GH¢57.7bn** for the year, which is **25.8%** of tax revenue: roughly 22 pesewas of every cedi the state collects.
 
