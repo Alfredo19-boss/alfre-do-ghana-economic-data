@@ -33,17 +33,20 @@ jobs:
         run: node scripts/fetch-news.mjs
       - name: Fetch today's front pages
         run: node scripts/fetch-papers.mjs || echo "Papers job failed; keeping the previous front pages."
+      - name: Fetch world and African headlines
+        run: node scripts/fetch-world-news.mjs || echo "World news failed; keeping the previous headlines."
       - name: Commit if there are new stories
         run: |
           git config user.name "alfredo-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # ignore changes that only touch the "updated" time or log lines
-          if git diff --quiet -I '"updated":' -I '^    "' -- news-data.js; then
-            git checkout -- news-data.js
+          # ignore changes that only touch the "updated" time or log lines; a run counts as
+          # worth committing if ANY of the three lists gained a story
+          if git diff --quiet -I '"updated":' -I '^    "' -- news-data.js world-data.js papers-data.js; then
+            git checkout -- news-data.js world-data.js papers-data.js
             echo "No new stories."
             exit 0
           fi
-          git add news-data.js papers-data.js
+          git add news-data.js papers-data.js world-data.js
           git commit -m "News headlines $(date -u +'%Y-%m-%d %H:%M')"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
