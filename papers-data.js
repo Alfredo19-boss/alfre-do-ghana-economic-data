@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T18:32:41.569Z",
+  "updated": "2026-09-16T21:39:05.406Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,122 +25,149 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Vaglas join Vughin to mark Dɛng Festival of Sonyor in Savannah Region",
-      "link": "https://www.myjoyonline.com/vaglas-join-vughin-to-mark-d%c9%9bng-festival-of-sonyor-in-savannah-region/",
+      "title": "AMA says Konkomba traders were consulted ahead of Agbogbloshie 24-hour market project",
+      "link": "https://www.myjoyonline.com/ama-says-konkomba-traders-were-consulted-ahead-of-agbogbloshie-24-hour-market-project/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T18:21:42.000Z",
-      "summary": "Centuries ago, the Chɔra people of the Guan ethnic group who lived around where the Krachis currently live, wandered through thick forests and located a Vagla inhabited community of Sonyor…",
-      "categories": [
-        "Arts and Culture",
-        "Opinion",
-        "Vaglas"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian model Eligere Di Merrebel attends 2026 Venice Film Festival",
-      "link": "https://www.myjoyonline.com/ghanaian-model-eligere-di-merrebel-attends-2026-venice-film-festival/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T18:17:05.000Z",
-      "summary": "Ghanaian model Eligere Di Merrebel attended the 83rd Venice International Film Festival in 2026.",
-      "categories": [
-        "Arts and Culture",
-        "Fashion",
-        "Eligere Di Merrebel",
-        "Venice Film Festival"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“You can’t take our GH¢82m and run away to Nigeria” – Roads Minister fires Enchi–Elubo road contractor",
-      "link": "https://www.myjoyonline.com/you-cant-take-our-gh%c2%a282m-and-run-away-to-nigeria-roads-minister-fires-enchi-elubo-road-contractor/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T18:15:10.000Z",
-      "summary": "The Minister for Roads and Highways, Governs Kwame Agbodza, has expressed frustration over Enchi–Elubo road contractor, Top International Engineering (Gh) Ltd continued failure to take…",
+      "published": "2026-09-16T21:04:01.000Z",
+      "summary": "The Accra Metropolitan Assembly (AMA) has rejected claims that traders and other stakeholders at Agbogbloshie were excluded from discussions over the proposed 24-hour market.",
       "categories": [
         "National",
-        "News",
-        "Enchi–Elubo road",
-        "Nigeria",
-        "Roads Minister"
+        "24-Hour Market Project",
+        "Accra Metropolitan Assembly (AMA)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GCB Bank unveils GH¢1m unsecured loans to boost business growth at Kumasi MSME Caravan",
-      "link": "https://www.myjoyonline.com/gcb-bank-unveils-gh%c2%a21m-unsecured-loans-to-boost-business-growth-at-kumasi-msme-caravan/",
+      "title": "Let’s pilot Chinese in public schools before scaling up – EduWatch",
+      "link": "https://www.myjoyonline.com/lets-pilot-chinese-in-public-schools-before-scaling-up-eduwatch/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T18:12:17.000Z",
-      "summary": "As part of its commitment to empowering small and medium-sized enterprises, GCB Bank PLC has held the Kumasi edition of its MSME Caravan Business Clinic to build the capacity of local…",
-      "categories": [
-        "Regional",
-        "GCB Bank PLC",
-        "GH¢1m",
-        "Kumasi MSME Caravan"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Education chanllenges: NPP not interested in gov’t failure, but we will hold them to account – Dr Kwabena Tandoh",
-      "link": "https://www.myjoyonline.com/education-chanllenges-npp-not-interested-in-govt-failure-but-we-will-hold-them-to-account-dr-kwabena-tandoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T18:06:14.000Z",
-      "summary": "The New Patriotic Party (NPP) Education Committee spokesperson, Dr Kwabena Tandoh, says the party is not interested in seeing the government fail, despite its role as the opposition.",
+      "published": "2026-09-16T20:55:45.000Z",
+      "summary": "The Executive Director of Africa Education Watch, Kofi Asare, has called for the piloting of Chinese language in selected public schools before any decision is taken to scale it up…",
       "categories": [
         "Education",
+        "HP News 5",
         "National",
-        "Dr Kwabena Tandoh",
-        "New Patriotic Party"
+        "News",
+        "Chinese",
+        "Kofi Asare",
+        "Public schools"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kristo Asafo Bompata branch members allege post-funeral attacks",
-      "link": "https://www.myjoyonline.com/kristo-asafo-bompata-branch-members-allege-post-funeral-attacks/",
+      "title": "Ghanaian tech professionals develop SMS-based AI tool for non-smartphones",
+      "link": "https://www.myjoyonline.com/ghanaian-tech-professionals-develop-sms-based-ai-tool-for-non-smartphones/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T18:04:23.000Z",
-      "summary": "Some members of the Kristo Asafo Mission of Ghana, Bompata branch, have alleged targeted attacks for attending the funeral rites of the late founder and leader of the church, Apostle Kwadwo…",
+      "published": "2026-09-16T20:17:03.000Z",
+      "summary": "A Ghanaian startup has developed an artificial intelligence (AI) service that allows people without smartphones, internet access or mobile data to interact with AI using simple text…",
+      "categories": [
+        "News",
+        "Technology",
+        "AI tool",
+        "non-smartphones"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MTN@30: Three customers drive away brand-new Land Cruiser Prado in Kumasi",
+      "link": "https://www.myjoyonline.com/mtn30-three-customers-drive-away-brand-new-land-cruiser-prado-in-kumasi/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T19:56:50.000Z",
+      "summary": "MTN Ghana has rewarded three of its loyal customers with brand-new Toyota Land Cruiser Prado as part of its 30th anniversary celebrations, at a ceremony held at the Kejetia Market in Kumasi.",
       "categories": [
         "Regional",
-        "Bompata branch",
-        "Kristo Asafo Mission",
-        "post-funeral attacks"
+        "30th anniversary",
+        "Mega Promo",
+        "MTN Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Show up Friday or lose the contract’ – Roads Minister warns Top International over abandoned Enchi–Elubo road",
-      "link": "https://www.myjoyonline.com/show-up-friday-or-lose-the-contract-roads-minister-warns-top-international-over-abandoned-enchi-elubo-road/",
+      "title": "If BOST made GH¢684m profit, why use NPA Bill 2026 to weaken it? – IERPP questions Gov’t",
+      "link": "https://www.myjoyonline.com/if-bost-made-gh%c2%a2684m-profit-why-use-npa-bill-2026-to-weaken-it-ierpp-questions-govt/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T18:04:01.000Z",
-      "summary": "The Minister for Roads and Highways, Governs Kwame Agbodza, has given Top International Engineering (Gh) Ltd. until Friday to appear before the Ministry and explain its handling of a…",
+      "published": "2026-09-16T19:55:11.000Z",
+      "summary": "The Institute for Economic Research and Public Policy (IERPP) has cautioned Parliament against passing the National Petroleum Authority (NPA) Bill, 2026 in its current form, warning it…",
+      "categories": [
+        "Energy",
+        "BOST",
+        "IERPP",
+        "NPA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP alleges executive, administrative confusion over Arabic, Chinese language policy",
+      "link": "https://www.myjoyonline.com/npp-alleges-executive-administrative-confusion-over-arabic-chinese-language-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T19:54:42.000Z",
+      "summary": "The New Patriotic Party (NPP) has accused the government of creating what it describes as “executive and administrative confusion” over the implementation of Arabic and Chinese language…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Arabic",
+        "Chinese",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority accuses AMA of targeting Konkomba Yam Market in planned demolition over 24-hour market",
+      "link": "https://www.myjoyonline.com/minority-accuses-ama-of-targeting-konkomba-yam-market-in-planned-demolition-over-24-hour-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T19:47:07.000Z",
+      "summary": "The New Patriotic Party (NPP) Minority in Parliament has accused the Accra Metropolitan Assembly (AMA) of targeting the Konkomba community in plans to construct a 24-hour market at the site…",
       "categories": [
         "HP News 7",
         "National",
-        "News",
-        "Enchi–Elubo road",
-        "Roads Minister",
-        "Top International"
+        "Dominic Nitiwul",
+        "Konkomba Yam Market",
+        "New Patriotic Party (NPP) Minority"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Customs revenue jumps to 450 million dollars monthly since AI introduction",
-      "link": "https://www.myjoyonline.com/customs-revenue-jumps-to-450-million-dollars-monthly-since-ai-introduction/",
+      "title": "Ghana struggles to raise local funds for delayed cocoa season as investors demand higher returns",
+      "link": "https://www.myjoyonline.com/ghana-struggles-to-raise-local-funds-for-delayed-cocoa-season-as-investors-demand-higher-returns/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T17:57:55.000Z",
-      "summary": "Revenue mobilised by the Customs Division of the Ghana Revenue Authority has increased significantly to approximately 450 million dollars a month since the introduction of artificial…",
+      "published": "2026-09-16T19:31:01.000Z",
+      "summary": "Ghana is struggling to raise money on its domestic market to finance cocoa purchases for the 2026/27 season, sources with knowledge of the sector told JoyNews Research, as licensed buyers…",
       "categories": [
-        "Business",
-        "Comp. Business",
+        "Agribusiness",
+        "Analysis",
         "Economy",
-        "HP Business 1",
-        "Technology",
-        "artificial intelligence systems",
-        "Customs Division of the Ghana Revenue Authority (GRA)",
-        "Revenue Mobilisation"
+        "HP Research 1",
+        "International",
+        "National",
+        "Top Story",
+        "Ato Forson",
+        "Cocoa",
+        "COCOBOD",
+        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "4 Ghanaians linked to €225 million cocaine shipment to France named and remanded in custody to reappear Oct 13",
+      "link": "https://www.graphic.com.gh/news/general-news/4-ghanaians-linked-to-eur225-million-cocaine-shipment-to-france-named-and-remanded-in-custody-to-reappear-oct-13.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T19:04:48.000Z",
+      "summary": "The four Ghanaians arrested by the Narcotics Control Commission in Ghana for allegedly conspiring to export about four tonnes of cocaine from Ghana to France, said to be worth € 225…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "7 policemen accused of extorting money from 'Diplomat' interdicted, they allegedly compelled him to withdraw money from ATM for them",
+      "link": "https://www.graphic.com.gh/news/general-news/7-policemen-accused-of-extorting-money-from-diplomat-interdicted-they-allegedly-compelled-him-to-withdraw-money-from-atm-for-them.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T18:27:48.000Z",
+      "summary": "Seven policemen, who were part of a patrol team and allegedly demanded money from their victim and compelled him to go to an ATM (automated teller machine) to withdraw money for them, have…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Two petition police to investigate Nitiwul over alleged inflammatory comments on Agbogbloshie redevelopment",
@@ -299,28 +326,6 @@ window.GDC_PAPERS = {
       "source": "Daily Graphic",
       "published": "2026-09-16T07:49:17.000Z",
       "summary": "Eni Ghana and its partner, Vitol Upstream Tano Ltd (Vitol), have signed two Memoranda of Understanding with the government, covering two offshore petroleum blocks.",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Novartis backs Ghana Medical Trust Fund, describes initiative as critical and timely",
-      "link": "https://www.graphic.com.gh/news/general-news/novartis-backs-ghana-medical-trust-fund-describes-initiative-as-critical-and-timely.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-16T07:49:04.000Z",
-      "summary": "Global healthcare giant Novartis has thrown its weight behind the Ghana Medical Trust Fund (GMTF), describing the initiative as a critical and timely intervention capable of saving lives…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama commissions Zonda Tec phase III project",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-commissions-zonda-tec-phase-iii-project.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-16T07:43:35.000Z",
-      "summary": "President John Dramani Mahama has commissioned Phase III of Zonda Tec Ghana’s assembly plant at Tema in the Greater Accra Region, describing the expansion works as fulfilment of the vision…",
       "categories": [
         "General News"
       ],

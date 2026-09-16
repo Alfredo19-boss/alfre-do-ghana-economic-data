@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T18:32:26.729Z",
+  "updated": "2026-09-16T21:38:50.866Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -19,21 +19,91 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 6/25 stories",
+    "Graphic Online: 4/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)"
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
     {
+      "title": "Ghanaian tech professionals develop SMS-based AI tool for non-smartphones",
+      "link": "https://www.myjoyonline.com/ghanaian-tech-professionals-develop-sms-based-ai-tool-for-non-smartphones/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T20:17:03.000Z",
+      "summary": "A Ghanaian startup has developed an artificial intelligence (AI) service that allows people without smartphones, internet access or mobile data to interact with AI using simple text…"
+    },
+    {
+      "title": "GRA Warns Tax Non-Compliance Is Distorting Business Competition",
+      "link": "https://thehighstreetjournal.com/gra-warns-tax-non-compliance-is-distorting-business-competition/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T20:00:00.000Z",
+      "summary": "The GRA says widespread tax non-compliance is distorting competition by disadvantaging compliant businesses, as the Authority moves to strengthen transaction monitoring and bring more…"
+    },
+    {
+      "title": "If BOST made GH¢684m profit, why use NPA Bill 2026 to weaken it? – IERPP questions Gov’t",
+      "link": "https://www.myjoyonline.com/if-bost-made-gh%c2%a2684m-profit-why-use-npa-bill-2026-to-weaken-it-ierpp-questions-govt/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T19:55:11.000Z",
+      "summary": "The Institute for Economic Research and Public Policy (IERPP) has cautioned Parliament against passing the National Petroleum Authority (NPA) Bill, 2026 in its current form, warning it…"
+    },
+    {
+      "title": "MTN 30th anniversary promo: Three MTN get customers drive away brand-new Prados",
+      "link": "https://gna.org.gh/2026/09/mtn-30th-anniversary-promo-three-mtn-get-customers-drive-away-brand-new-prados/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-16T19:50:08.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "Ghana struggles to raise local funds for delayed cocoa season as investors demand higher returns",
+      "link": "https://www.myjoyonline.com/ghana-struggles-to-raise-local-funds-for-delayed-cocoa-season-as-investors-demand-higher-returns/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T19:31:01.000Z",
+      "summary": "Ghana is struggling to raise money on its domestic market to finance cocoa purchases for the 2026/27 season, sources with knowledge of the sector told JoyNews Research, as licensed buyers…"
+    },
+    {
+      "title": "UBA Ghana Targets Cross-Border Trade, Investment Through Diplomatic Ties",
+      "link": "https://thehighstreetjournal.com/uba-ghana-targets-cross-border-trade-investment-through-diplomatic-ties/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T19:21:28.000Z",
+      "summary": "UBA Ghana is deepening diplomatic relationships to support cross-border trade, investment, payments and remittances, leveraging its pan-African network to connect businesses and markets."
+    },
+    {
+      "title": "Government Urged To Target Support At High-Cost Sectors",
+      "link": "https://thehighstreetjournal.com/government-urged-to-target-support-at-high-cost-sectors/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T19:02:37.000Z",
+      "summary": "GSS wants government to use producer price data to target support at sectors facing severe cost pressures, while monitoring emerging trends to guide timely economic decisions."
+    },
+    {
+      "title": "Russia Hits Back at EU Over Ghana Ties, Investment And Sanctions",
+      "link": "https://thehighstreetjournal.com/russia-hits-back-at-eu-over-ghana-ties-investment-and-sanctions/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T18:58:25.000Z",
+      "summary": "Russia and the EU trade competing claims over the impact of sanctions, investment commitments and economic ties with Ghana."
+    },
+    {
+      "title": "BoG urges digital asset businesses to build compliance into operations at Digital Assets Summit Africa",
+      "link": "https://www.myjoyonline.com/bog-urges-digital-asset-businesses-to-build-compliance-into-operations-at-digital-assets-summit-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T18:45:41.000Z",
+      "summary": "The Bank of Ghana (BoG) is urging digital asset businesses to make regulatory compliance an integral part of their operations from the outset, rather than waiting for regulators to…"
+    },
+    {
       "title": "Customs revenue jumps to 450 million dollars monthly since AI introduction",
       "link": "https://www.myjoyonline.com/customs-revenue-jumps-to-450-million-dollars-monthly-since-ai-introduction/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T17:57:55.000Z",
+      "summary": "Revenue mobilised by the Customs Division of the Ghana Revenue Authority has increased significantly to approximately 450 million dollars a month since the introduction of artificial…"
+    },
+    {
+      "title": "Customs revenue jumps to $450m monthly since AI introduction",
+      "link": "https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/",
       "source": "MyJoyOnline",
       "published": "2026-09-16T17:57:55.000Z",
       "summary": "Revenue mobilised by the Customs Division of the Ghana Revenue Authority has increased significantly to approximately 450 million dollars a month since the introduction of artificial…"
@@ -1010,76 +1080,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-09-14T06:30:53.000Z",
       "summary": "President John Dramani Mahama on Saturday inspected the proposed site for the construction of the Upper West Regional Airport in Wa."
-    },
-    {
-      "title": "Bagbin urges Ewe diaspora to convert cultural network into investment platform",
-      "link": "https://www.ghanabusinessnews.com/2026/09/14/bagbin-urges-ewe-diaspora-to-convert-cultural-network-into-investment-platform/",
-      "source": "Ghana Business News",
-      "published": "2026-09-14T06:22:45.000Z",
-      "summary": "Mr Alban Sumana Kingsford Bahbin, the Speaker of Parliament, has challenged the Ewe diaspora to move beyond cultural celebration and remittances to leverage its global network as a catalyst…"
-    },
-    {
-      "title": "Stakeholders agree to decongest Tema Port",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-stakeholders-agree-to-decongest-tema-port.html",
-      "source": "Graphic Online",
-      "published": "2026-09-14T06:16:42.000Z",
-      "summary": "The Government is working to expand port facilities, including the development of the Keta Port, to accommodate increasing cargo volumes and improve efficiency."
-    },
-    {
-      "title": "From Homes to High Finance: How Ghana’s Banking Industry Balances Credit Growth and Profitability",
-      "link": "https://thehighstreetjournal.com/from-homes-to-high-finance-how-ghanas-banking-industry-balances-credit-growth-and-profitability/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T06:11:47.000Z",
-      "summary": "Ghana’s banks face declining profitability despite surging credit growth, reshaping borrowing, investment, financial discipline and government financing while testing sector stability and…"
-    },
-    {
-      "title": "GOIL could hold fuel prices despite $100 crude oil shock – Edward Bawa",
-      "link": "https://www.myjoyonline.com/goil-could-hold-fuel-prices-despite-100-crude-oil-shock-edward-bawa/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T05:57:00.000Z",
-      "summary": "GOIL says it is exploring ways to prevent a surge in fuel prices at the pumps despite crude oil hitting $100 per barrel."
-    },
-    {
-      "title": "Fuel prices may rise, but GOIL says 30% transport fare hike doesn’t add up",
-      "link": "https://www.myjoyonline.com/fuel-prices-may-rise-but-goil-says-30-transport-fare-hike-doesnt-add-up/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-14T05:15:50.000Z",
-      "summary": "GOIL says rising fuel prices alone cannot justify the Ghana Private Road Transport Union's (GPRTU) proposed 30% increase in transport fares."
-    },
-    {
-      "title": "What Really Goes Into Land Pricing in Accra? A ‘Frustrated’ Land Buyer Asks",
-      "link": "https://thehighstreetjournal.com/what-really-goes-into-land-pricing-in-accra-a-frustrated-land-buyer-asks/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:05:00.000Z",
-      "summary": "Dickson Assan questions Accra’s land-pricing system, arguing that asking prices, not actual completed transactions, often determine valuations, creating speculative price inflation and…"
-    },
-    {
-      "title": "Can Ghana Achieve the SDGs by 2030? Four Years Left, Progress Remains Uneven",
-      "link": "https://thehighstreetjournal.com/can-ghana-achieve-the-sdgs-by-2030-four-years-left-progress-remains-uneven/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:03:00.000Z",
-      "summary": "The clock is ticking on Ghana’s 2030 development targets. New assessments show gains in some areas, but serious gaps remain."
-    },
-    {
-      "title": "Makhtar Diop’s Visit to Focus on Private Investment, Competitiveness and Jobs",
-      "link": "https://thehighstreetjournal.com/makhtar-diops-visit-to-focus-on-private-investment-competitiveness-and-jobs/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:02:00.000Z",
-      "summary": "IFC Managing Director Makhtar Diop’s Ghana visit will focus on mobilising private investment, improving business competitiveness, expanding finance and creating more and better jobs."
-    },
-    {
-      "title": "Ghana’s Flood Politics Has a Compliance Problem",
-      "link": "https://thehighstreetjournal.com/ghanas-flood-politics-have-a-problem/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:01:00.000Z",
-      "summary": "On Sunday morning, soldiers from the 48 Engineers Regiment moved into Laboma Beach and began pulling down the Pink Flamingo Lounge and a string of other beachfront businesses sitting inside…"
-    },
-    {
-      "title": "Is T-Bill Market Drying Up? Gov’t Misses Target by GH¢764M Despite Mild Oversubscription & Cheaper Rates",
-      "link": "https://thehighstreetjournal.com/is-t-bill-market-drying-up-govt-misses-target-by-gh%c2%a2764m-despite-mild-oversubscription-cheaper-rates/",
-      "source": "The High Street Journal",
-      "published": "2026-09-14T05:00:00.000Z",
-      "summary": "Ghana’s Treasury missed its GH¢7.97 billion T-bill target by GH¢764.27 million despite a modest 2.8% oversubscription and falling yields, raising questions about whether the market’s…"
     }
   ]
 };
