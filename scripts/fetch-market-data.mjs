@@ -40,17 +40,43 @@ async function get(url, as = "text") {
   return as === "json" ? res.json() : res.text();
 }
 
+// The headline pairs. The character class has to allow everything BoG puts in the currency
+// name column — apostrophes, brackets, hyphens — or a row like "Pound Sterling (UK)" is
+// skipped here while the full-table parser below reads it happily, and the two then disagree
+// about what day it is. Every matching row is considered and the newest wins.
 export function parseBogFx(html) {
   const text = html.replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ");
   const out = {};
   for (const [code, key] of [["USDGHS", "fx.usd"], ["GBPGHS", "fx.gbp"], ["EURGHS", "fx.eur"]]) {
-    const re = new RegExp(`(\\d{1,2})\\s+([A-Za-z]{3})[a-z]*\\s+(\\d{4})\\s+[A-Za-z .]*?${code}\\s+([\\d.]+)\\s+([\\d.]+)\\s+([\\d.]+)`);
-    const m = re.exec(text);
-    if (!m) continue;
+    const re = new RegExp(`(\\d{1,2})\\s+([A-Za-z]{3})[a-z]*\\s+(\\d{4})\\s+[A-Za-z .()'’-]*?${code}\\s+([\\d.]+)\\s+([\\d.]+)\\s+([\\d.]+)`, "g");
+    let m = null, best = null;
+    while ((m = re.exec(text))) {
+      const mo = MONTHS[m[2].toLowerCase()];
+      if (mo === undefined) continue;
+      const iso = new Date(Date.UTC(+m[3], mo, +m[1])).toISOString().slice(0, 10);
+      if (!best || iso > best.iso) best = { iso, m };
+    }
+    if (!best) continue;
+    m = best.m;
     const month = MONTHS[m[2].toLowerCase()];
     if (month === undefined) continue;
     const date = new Date(Date.UTC(+m[3], month, +m[1])).toISOString().slice(0, 10);
     out[key] = { value: +(+m[6]).toFixed(4), date, source: "Bank of Ghana interbank mid-rate", url: BOG_FX_URL };
+  }
+  return out;
+}
+
+// One source, one date. The full-table parser is the more tolerant of the two, so whatever it
+// reads is also used for the three headline cards. Without this the table could carry today's
+// rates while the dollar, pound and euro cards quietly fell back to a market feed dated
+// yesterday — which is exactly what happened on 16 September 2026.
+export function headlineFromTable(table) {
+  const out = {};
+  if (!table || !table.rates) return out;
+  for (const [code, key] of [["USD", "fx.usd"], ["GBP", "fx.gbp"], ["EUR", "fx.eur"]]) {
+    const r = table.rates[code];
+    if (!r || !(r.ghs > 0) || r.src !== "BoG") continue;
+    out[key] = { value: +r.ghs.toFixed(4), date: table.date, source: "Bank of Ghana interbank mid-rate", url: BOG_FX_URL };
   }
   return out;
 }
@@ -168,8 +194,9 @@ async function main() {
   for (const url of BOG_SOURCES) {
     try {
       const html = await get(url);
-      const rows = parseBogFx(html);
       const table = parseBogTable(html);
+      // the table first, the headline regex only for anything it did not cover
+      const rows = { ...parseBogFx(html), ...headlineFromTable(table) };
       const seen = table ? table.date : (Object.values(rows)[0] || {}).date;
       if (!seen) { log.push(`BoG FX ${url}: no rows found`); continue; }
       if (bogDate && seen <= bogDate) { log.push(`BoG FX ${url}: ${seen}, not newer than ${bogDate}`); continue; }
