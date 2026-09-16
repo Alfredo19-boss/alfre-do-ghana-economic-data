@@ -1269,3 +1269,14 @@ html { scroll-behavior: smooth; }
   .afr-title { font-size: 15px; }
 }
 @media (prefers-reduced-motion: reduce) { .afr-slide { transition: none; } }
+
+/* a market tile carries its own trend line and opens its history when tapped */
+.quote.tappable { cursor: pointer; }
+.quote.tappable:hover { background: var(--panel-2); }
+.quote.tappable:focus-visible { outline: 2px solid var(--gold); outline-offset: -2px; }
+.q-spark { display: block; margin: 6px 0 2px; }
+.q-spark .alf-chart { margin: 0; }
+.q-spark .alf-spark { width: 100%; height: 34px; }
+.q-spark .alf-spark-ends { font-size: 10.5px; }
+.afr-waiting .afr-title { color: var(--ink-3); font-size: 14.5px; }
+.afr-waiting { pointer-events: none; }

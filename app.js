@@ -673,6 +673,40 @@
       };
     }
 
+    // an instrument on the Global markets board
+    if (type === "market") {
+      const M = marketsData();
+      const world = (M && M.world) || {};
+      let q = null, groupKey = "";
+      for (const [key, list] of Object.entries(world)) {
+        const hit = (list || []).find(x => x && x.symbol === id);
+        if (hit) { q = hit; groupKey = key; break; }
+      }
+      if (!q) return null;
+      const u = { unit: q.unit || "", dec: q.dec ?? 2, pre: /^US\$|^GH\u00a2/.test(q.unit || "") };
+      const points = (Array.isArray(q.history) ? q.history : []).map(p => ({ date: p.date, value: p.value }));
+      const first = points[0], last = points[points.length - 1];
+      const overall = first && last ? last.value - first.value : null;
+      const shown = v => `${u.pre ? esc((q.unit || "").split("/")[0]) : ""}${fmt(v, u.dec)}${u.pre ? "" : `<span class="u">${esc(q.unit || "")}</span>`}`;
+      return {
+        eyebrow: `Global markets \u00b7 ${esc((GROUP_TITLES[groupKey] || [""])[0])}`,
+        title: q.name,
+        body: `
+          <div class="facts">
+            ${factRow("Last price", shown(q.value))}
+            ${factRow("Quoted", esc(quoteTime(q.at)))}
+            ${q.prev != null ? factRow("Previous close", shown(q.prev)) : ""}
+            ${q.pct != null ? factRow("Move on the day", `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%${q.change == null ? "" : ` (${q.change > 0 ? "+" : ""}${fmt(q.change, Math.abs(q.change) < 10 ? 2 : 0)})`}`) : ""}
+            ${overall != null && points.length > 2 ? factRow(`Since ${esc(first.date)}`, `${overall > 0 ? "+" : ""}${fmt(overall, u.dec)}${first.value ? ` (${overall > 0 ? "+" : ""}${fmt(overall / first.value * 100, 1)}%)` : ""}`) : ""}
+            ${factRow("Symbol", esc(q.symbol))}
+          </div>
+          ${points.length > 2
+            ? sheetSection(`Since ${esc(first.date)}`, sheetChart(points, u) + sheetTable(points.slice(-30), u)) + sheetSection("Trend", trendHtml(analyse(points, u)))
+            : `<div class="sheet-empty"><b>The trend is still being built.</b><p>This site keeps one closing price a day for every instrument, starting from the first time the job saw one. ${points.length ? `There ${points.length === 1 ? "is one point" : `are ${points.length} points`} so far` : "There are no points yet"} \u2014 the line fills in from here.</p></div>`}
+          <p class="sheet-src">${esc((M && M.note) || "")}</p>`
+      };
+    }
+
     if (type === "read") {
       const it = READS.get(id);
       if (!it) return null;
@@ -1611,10 +1645,12 @@
         <div class="block-head"><h2>${esc(title)}</h2><p>${esc(blurb)}</p></div>
         <div class="quote-grid">${world[key].map(q => {
           const cls = moveClass(q.pct);
-          return `<article class="quote ${cls}">
+          const trail = Array.isArray(q.history) ? q.history : [];
+          return `<article class="quote tappable ${cls}" data-detail="market:${esc(q.symbol)}" tabindex="0" aria-label="${esc(q.name)}: show its trend">
             <span class="q-name">${esc(q.name)}</span>
             <span class="q-value">${q.unit && /^US\$|^GH¢/.test(q.unit) ? esc(q.unit.split("/")[0]) : ""}${fmt(q.value, q.dec ?? 2)}${q.unit && !/^US\$|^GH¢/.test(q.unit) ? `<small>${esc(q.unit)}</small>` : q.unit && q.unit.includes("/") ? `<small>${esc("/" + q.unit.split("/")[1])}</small>` : ""}</span>
             <span class="q-move">${moveMark(q.pct)} ${q.pct == null ? "—" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`}${q.change == null ? "" : ` <i>${q.change > 0 ? "+" : ""}${fmt(q.change, Math.abs(q.change) < 10 ? 2 : 0)}</i>`}</span>
+            ${trail.length > 2 ? `<span class="q-spark">${alfSpark(trail, `${q.name} over time`)}</span>` : ""}
             <span class="q-when">${esc(quoteTime(q.at))}</span>
           </article>`;
         }).join("")}</div>
@@ -1720,8 +1756,15 @@
     const wrap = $("afr-wire");
     if (!wrap) return;
     const items = worldStories("africa").slice(0, 8);
-    wrap.hidden = !items.length;
-    if (!items.length) { if (afrWireTimer) { clearInterval(afrWireTimer); afrWireTimer = null; } return; }
+    wrap.hidden = false;
+    if (!items.length) {
+      // Nothing to slide yet. Say so plainly rather than vanishing, so it is obvious the strip
+      // exists and is waiting on the job rather than broken.
+      if (afrWireTimer) { clearInterval(afrWireTimer); afrWireTimer = null; }
+      $("afr-wire-stage").innerHTML = `<span class="afr-slide on afr-waiting"><span class="afr-title">African headlines appear here once <b>Update business news</b> has run.</span></span>`;
+      $("afr-wire-dots").innerHTML = "";
+      return;
+    }
     if (afrWireAt >= items.length) afrWireAt = 0;
 
     $("afr-wire-stage").innerHTML = items.map((i, n) => `
@@ -3268,7 +3311,7 @@
     // what the world's wires are carrying, in the same shape as the Ghana headlines panel
     const wworld = worldStories("global").slice(0, 4);
     if (wworld.length) {
-      pages.push({ key: "wnews", tag: "World news", html: `<ol class="b-heads">${wworld.map(n => `
+      pages.push({ key: "wnews", tag: "Global news", html: `<ol class="b-heads">${wworld.map(n => `
         <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
     }
 
