@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T00:50:03.407Z",
+  "updated": "2026-09-16T05:22:40.817Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,112 +25,109 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "US borrowing costs hit highest level since 2007",
-      "link": "https://www.myjoyonline.com/us-borrowing-costs-hit-highest-level-since-2007/",
+      "title": "Old farming practice is offering new hope for climate action in Zuuku",
+      "link": "https://www.myjoyonline.com/old-farming-practice-is-offering-new-hope-for-climate-action-in-zuuku/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T22:45:45.000Z",
-      "summary": "US government borrowing costs climbed to their highest level since 2007 after a jump in oil prices further fuelled inflation concerns.",
-      "categories": [
-        "International",
-        "US borowing"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kylian Mbappé scores, sets up winner as Real Madrid top Elche",
-      "link": "https://www.myjoyonline.com/kylian-mbappe-scores-sets-up-winner-as-real-madrid-top-elche/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T22:38:29.000Z",
-      "summary": "Carlos Espí tapped in a stoppage-time winner — from a Kylian Mbappé assist — as Real Madrid won 3-2 at Elche after letting slip a two-goal lead to climb level on points with Barcelona at…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Carlos Espí",
-        "Elche",
-        "Kylian Mbappé",
-        "Real Madrid"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
-      "link": "https://www.myjoyonline.com/tuchel-regrets-not-eating-azteca-turf-after-win-over-mexico/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T22:36:00.000Z",
-      "summary": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's World Cup win against Mexico.",
-      "categories": [
-        "Football",
-        "Azteca",
-        "Thomas Tuchel",
-        "World Cup"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kudus ends 257-day wait for Tottenham start against Liverpool",
-      "link": "https://www.myjoyonline.com/kudus-ends-257-day-wait-for-tottenham-start-against-liverpool/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T22:33:49.000Z",
-      "summary": "Tottenham and Ghana forward Mohammed Kudus made his long-awaited return to the starting lineup, playing 75 minutes in Spurs’ Carabao Cup third-round clash with Liverpool at Anfield. The…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Mohammed Kudus",
-        "Tottenham Hotspur"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Coutinho joins Neymar at Santos for rest of season",
-      "link": "https://www.myjoyonline.com/coutinho-joins-neymar-at-santos-for-rest-of-season/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T22:27:00.000Z",
-      "summary": "Philippe Coutinho has joined his close friend and Brazil team-mate Neymar at Santos FC until the end of the season.",
-      "categories": [
-        "Football",
-        "Coutinho",
-        "Santos"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Szoboszlai stunner helps Liverpool knock out Spurs",
-      "link": "https://www.myjoyonline.com/szoboszlai-stunner-helps-liverpool-knock-out-spurs/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T22:26:16.000Z",
-      "summary": "Tottenham’s difficult start to the season continued as they were knocked out of the Carabao Cup by a largely second string Liverpool side. Roberto de Zerbi’s team at least managed to score…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Carabao cup",
-        "Liverpool",
-        "Tottenham Hotspur"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Richarlison posts crying emoji after Spurs cup snub",
-      "link": "https://www.myjoyonline.com/richarlison-posts-crying-emoji-after-spurs-cup-snub/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T22:18:00.000Z",
-      "summary": "Richarlison has publicly expressed his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
+      "published": "2026-09-16T04:44:00.000Z",
+      "summary": "The practice is not new. Older residents say it has been passed down through generations, long before climate change became part of everyday conversation.",
       "categories": [
         "News",
-        "Richarlison",
-        "Spurs"
+        "Bawku",
+        "Climate change",
+        "crops residue",
+        "Zuuku"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana Dance Festival 2026 begins seven-day celebration in Accra",
-      "link": "https://www.myjoyonline.com/ghana-dance-festival-2026-begins-seven-day-celebration-in-accra/",
+      "title": "Auditor-General’s own audit objective raises questions over omission of Local Gov’t spending – Manasseh Awuni",
+      "link": "https://www.myjoyonline.com/auditor-generals-own-audit-objective-raises-questions-over-omission-of-local-govt-spending-manasseh-awuni/",
       "source": "MyJoyOnline",
-      "published": "2026-09-15T22:16:19.000Z",
-      "summary": "The Ghana Dance Festival 2026 has begun in Accra, with a seven-day programme of performances, workshops, dance battles, seminars and social dancing.",
+      "published": "2026-09-16T04:36:00.000Z",
+      "summary": "Investigative journalist Manasseh Azure Awuni says the Auditor-General’s own stated objective for its COVID-19 expenditure audit raises questions over why the Ministry of Local Government’s…",
       "categories": [
-        "Events",
-        "Dancetera",
-        "Ghana Dance Festival 2026"
+        "National",
+        "Audit Covid Expenditure",
+        "Manasseh Azure Awuni"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Auditor-General reported GH¢96m, but Local Gov’t spent GH¢299m on fumigation – Manasseh Awuni",
+      "link": "https://www.myjoyonline.com/auditor-general-reported-gh%c2%a296m-but-local-govt-spent-gh%c2%a2299m-on-fumigation-manasseh-awuni/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T04:17:00.000Z",
+      "summary": "He said he contacted the Audit Service after questions emerged over why the Ministry of Local Government’s fumigation expenditure was not captured in the Auditor-General’s COVID-19…",
+      "categories": [
+        "National",
+        "Audit Covid Expenditure",
+        "Manasseh Azure Awuni"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GH¢299m COVID fumigation spending audited but left out of report, says Manasseh Awuni",
+      "link": "https://www.myjoyonline.com/gh%c2%a2299m-covid-fumigation-spending-audited-but-left-out-of-report-says-manasseh-awuni/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T03:58:00.000Z",
+      "summary": "Investigative journalist Manasseh Azure Awuni says the Audit Service has confirmed it audited GH¢299 million spent by the Ministry of Local Government on COVID-19 fumigation, even though…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Audit Covid Expenditure",
+        "Manasseh Azure Awuni"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Telecel CEO Obo-Nai champions integrity in leadership",
+      "link": "https://www.myjoyonline.com/telecel-ceo-obo-nai-champions-integrity-in-leadership/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T03:39:00.000Z",
+      "summary": "Chief Executive Officer of Telecel Ghana, Patricia Obo-Nai, has made a case for leadership that combines excellence and competence with integrity, courage and a strong sense of…",
+      "categories": [
+        "National",
+        "Telecom",
+        "Patricia Obo-Nai",
+        "Telecel Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Novartis backs Ghana Medical Trust Fund, eyes partnership to expand specialist care",
+      "link": "https://www.myjoyonline.com/novartis-backs-ghana-medical-trust-fund-eyes-partnership-to-expand-specialist-care/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T03:20:00.000Z",
+      "summary": "Global healthcare company Novartis has expressed support for the Ghana Medical Trust Fund (GMTF), describing the initiative as a critical intervention to improve access to specialised…",
+      "categories": [
+        "Health",
+        "Ghana Medical Trust Fund",
+        "Novartis"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil falls as US crude inventories rise despite Saudi supply concerns",
+      "link": "https://www.myjoyonline.com/oil-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T03:09:00.000Z",
+      "summary": "Oil prices fell on Wednesday after an unexpected build in U.S. crude inventories, while investors assessed supply risks after Saudi Arabia suspended ​oil loadings at its Yanbu port…",
+      "categories": [
+        "International",
+        "Oil prices",
+        "US-Iran war"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Magazine that was 132 years overdue returned to US library",
+      "link": "https://www.myjoyonline.com/magazine-that-was-132-years-overdue-returned-to-us-library/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T03:00:00.000Z",
+      "summary": "A 19th century magazine borrowed from a library in New Hampshire 132 years ago has finally been returned.",
+      "categories": [
+        "International",
+        "Overdue library return"
       ],
       "site": "https://www.myjoyonline.com/"
     },

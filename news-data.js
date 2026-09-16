@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T00:49:48.171Z",
+  "updated": "2026-09-16T05:22:27.946Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -28,9 +28,72 @@ window.GDC_NEWS = {
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories"
+    "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Data Scientists Lead ‘AI-Powered Growth’: Here are all the Jobs Set to Grow Despite High AI Exposure",
+      "link": "https://thehighstreetjournal.com/data-scientists-lead-ai-powered-growth-here-are-all-the-jobs-set-to-grow-despite-high-ai-exposure/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:05:00.000Z",
+      "summary": "Data scientists, logisticians and engineers are among AI-exposed occupations projected to grow through 2035, showing that AI exposure can complement employment. BLS stresses exposure…"
+    },
+    {
+      "title": "Ghana Risks Paying a Bigger Price for Port Delays",
+      "link": "https://thehighstreetjournal.com/ghana-risks-paying-a-bigger-price-for-port-delays/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:03:00.000Z",
+      "summary": "Prolonged port congestion is raising business costs, delaying trade and risking cargo diversion, threatening Ghana’s competitiveness, logistics sector and revenue if unresolved."
+    },
+    {
+      "title": "A Healthier Ghana Banking Sector Needs Better Credit Discipline",
+      "link": "https://thehighstreetjournal.com/a-healthier-ghana-banking-sector-needs-better-credit-discipline/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:02:00.000Z",
+      "summary": "Ghana’s banking sector shows recovery as non-performing loans decline, credit expands and economic stability improves, though disciplined lending and borrowing remain critical."
+    },
+    {
+      "title": "AfCFTA Must Deliver Real Gains for African SMEs, Mene Says",
+      "link": "https://thehighstreetjournal.com/afcfta-african-integration-is-key/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:01:00.000Z",
+      "summary": "AfCFTA’s success will depend on reducing trade costs, simplifying cross-border processes and helping African SMEs access wider markets, finance and digital opportunities."
+    },
+    {
+      "title": "Scaling the Future of Women-Owned Businesses in Ghana: Bridging the Financing Gap",
+      "link": "https://thehighstreetjournal.com/scaling-the-future-of-women-owned-businesses-in-ghana-bridging-the-financing-gap/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:00:00.000Z",
+      "summary": "Women entrepreneurs need greater access to capital to move from small-scale operations to sustainable growth."
+    },
+    {
+      "title": "Ghana’s Ports: A New Gateway for Drug Traffickers?",
+      "link": "https://thehighstreetjournal.com/ghanas-ports-a-new-gateway-for-drug-traffickers/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:00:00.000Z",
+      "summary": "Ghana’s growing drug-trafficking exposure threatens to turn a trade advantage into a costly liability."
+    },
+    {
+      "title": "Every Complex System Becomes More Intelligent When It Remembers",
+      "link": "https://thehighstreetjournal.com/every-complex-system-becomes-more-intelligent-when-it-remembers/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T05:00:00.000Z",
+      "summary": "Memory is more than storage, it turns experience into context, context into better judgment, and repeated learning into intelligence that compounds across people, businesses, institutions…"
+    },
+    {
+      "title": "Telecel CEO Obo-Nai champions integrity in leadership",
+      "link": "https://www.myjoyonline.com/telecel-ceo-obo-nai-champions-integrity-in-leadership/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T03:39:00.000Z",
+      "summary": "Chief Executive Officer of Telecel Ghana, Patricia Obo-Nai, has made a case for leadership that combines excellence and competence with integrity, courage and a strong sense of…"
+    },
+    {
+      "title": "Meta’s Zuckerberg says AI labs have enough incentive to build safely",
+      "link": "https://www.myjoyonline.com/metas-zuckerberg-says-ai-labs-have-enough-incentive-to-build-safely/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T00:42:00.000Z",
+      "summary": "Meta platform CEO Mark Zuckerberg said on Tuesday that competition and liability give AI companies enough reason to act individually ‌on safety."
+    },
     {
       "title": "GIIF’s Accra-Kumasi Expressway Ltd. SPV Initiative: A bold blueprint for financing Ghana’s infrastructure development",
       "link": "https://www.myjoyonline.com/giifs-accra-kumasi-expressway-ltd-spv-initiative-a-bold-blueprint-for-financing-ghanas-infrastructure-development/",
@@ -163,6 +226,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-15T15:28:29.000Z",
       "summary": "Petrol, diesel and Liquefied Petroleum Gas (LPG) prices are projected to increase from Wednesday, September 16, 2026, according to the Chamber of Petroleum Consumers (COPEC)."
+    },
+    {
+      "title": "Petrol prices could jump nearly 10% from today – Chamber of Oil Marketing Companies",
+      "link": "https://www.myjoyonline.com/petrol-prices-could-jump-nearly-10-from-today-chamber-of-oil-marketing-companies/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T15:28:29.000Z",
+      "summary": "Petrol, diesel and Liquefied Petroleum Gas (LPG) prices are projected to increase from today, according to the Chamber of Oil Marketing Companies (COMAC)."
     },
     {
       "title": "President Mahama Inaugurates Phase III of Zonda Tec Ghana Assembly Plant",
@@ -1010,76 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-12T19:19:30.000Z",
       "summary": "Rostand Njomgang, Head of Cluster Central Ericsson West and Southern Africa, says: “For 150 years, Ericsson has been driven by the idea that communication can change the world. In Ghana, we…"
-    },
-    {
-      "title": "GI Protection Could Open Global Markets for Ghana’s Akpeteshie",
-      "link": "https://thehighstreetjournal.com/gi-protection-could-open-global-markets-for-ghanas-akpeteshie/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T18:38:39.000Z",
-      "summary": "Ghana is pursuing Geographical Indication protection for Akpeteshie to preserve traditional production methods, improve quality standards, strengthen its brand and help local producers…"
-    },
-    {
-      "title": "Green Development Can Create New Business Opportunities – Veep",
-      "link": "https://thehighstreetjournal.com/green-development-can-create-new-business-opportunities-veep/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T17:55:03.000Z",
-      "summary": "Vice President Opoku-Agyemang has urged Ghana to integrate greening into urban development, saying investment in trees, gardens and green spaces can improve cities and create business…"
-    },
-    {
-      "title": "Mahama announces maize processing plant for Sissala area to tackle glut",
-      "link": "https://www.myjoyonline.com/mahama-announces-maize-processing-plant-for-sissala-area-to-tackle-glut/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T17:45:16.000Z",
-      "summary": "President John Dramani Mahama has announced plans to establish a maize processing plant in the Sissala area of the Upper West Region as part of efforts to tackle the recurring glut faced by…"
-    },
-    {
-      "title": "Prospective homeowners troop to Day 2 of JoyNews-Republic Bank Habitat Fair, engage experts on homeownership",
-      "link": "https://www.myjoyonline.com/prospective-homeowners-troop-to-day-2-of-joynews-republic-bank-habitat-fair-engage-experts-on-homeownership/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T16:58:19.000Z",
-      "summary": "Prospective homeowners have trooped to Day two of the JoyNews–Republic Bank Habitat Fair at the Marina Mall in Accra, taking advantage of the event to seek answers to questions surrounding…"
-    },
-    {
-      "title": "The Rise of Agentic Commerce: When Machines Become Buyers",
-      "link": "https://thehighstreetjournal.com/the-rise-of-agentic-commerce-when-machines-become-buyers/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T16:11:22.000Z",
-      "summary": "Agentic commerce is reshaping buying as AI agents autonomously discover, compare, negotiate, and transact, creating new opportunities while raising critical questions around trust."
-    },
-    {
-      "title": "24-Hour Economy targets greenhouses, cold storage and air cargo to transform horticulture",
-      "link": "https://www.myjoyonline.com/24-hour-economy-targets-greenhouses-cold-storage-and-air-cargo-to-transform-horticulture/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T16:01:00.000Z",
-      "summary": "Government is positioning the 24-hour economy as a major driver of Ghana’s horticulture industry, with plans to link greenhouse production to cold storage, logistics and export markets."
-    },
-    {
-      "title": "Gov’t unveils ambitious cut-flower export corridor from from Daboya to Europe, West Africa and Gulf",
-      "link": "https://www.myjoyonline.com/govt-unveils-ambitious-cut-flower-export-corridor-from-from-daboya-to-europe-west-africa-and-gulf/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T15:10:00.000Z",
-      "summary": "Government is working with a private sector investor to develop a cut-flower production corridor linking Daboya to the Tamale Air Cargo Hub for exports to Europe, West Africa and the Gulf."
-    },
-    {
-      "title": "Systemic vulnerabilities within banking industry remain broadly subdued- BoG",
-      "link": "https://www.myjoyonline.com/systemic-vulnerabilities-within-banking-industry-remain-broadly-subdued-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T14:26:35.000Z",
-      "summary": "According to its July 2026 Monetary Policy Report (MPR), macro-financial risks have continued to moderate amid improving macroeconomic conditions, declining sovereign risk perceptions, and…"
-    },
-    {
-      "title": "Ghana, Côte d’Ivoire’s export sectors face heightened risks due to El l Niño – Fitch Solutions",
-      "link": "https://www.myjoyonline.com/ghana-cote-divoires-export-sectors-face-heightened-risks-due-to-el-l-nino-fitch-solutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T14:13:53.000Z",
-      "summary": "According to the UK-based firm, lower rainfall and higher temperatures during key pod-development stages could reduce yields, thereby weighing on export earnings, government revenues and…"
-    },
-    {
-      "title": "NCA awards 700MHz spectrum to MTN Ghana for US$109.9m",
-      "link": "https://www.myjoyonline.com/nca-awards-700mhz-spectrum-to-mtn-ghana-for-us109-9m/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-12T13:53:57.000Z",
-      "summary": "The National Communications Authority (NCA) has advanced the process of assigning spectrum in the 700 MHz, 2.3 GHz and 3 GHz bands for mobile broadband services, including 5G."
     }
   ]
 };
