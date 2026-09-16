@@ -50,7 +50,7 @@
         <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
         <a href="#africa" data-view-link="africa">Africa</a>
         <a href="#markets" data-view-link="markets">Global markets</a>
-        <a href="#gse" data-view-link="gse">GSE</a>
+        <a href="#world" data-view-link="world">World news</a>
         <a href="#papers" data-view-link="papers">Today's papers</a>
         <a href="#charts" data-view-link="charts">Charts</a>
         <a href="#articles" data-view-link="articles">Articles</a>
@@ -411,6 +411,11 @@
         </div>
         <span class="live"><i></i><span id="africa-status">Loading…</span></span>
       </div>
+      <div class="afr-wire" id="afr-wire" hidden aria-live="off">
+        <span class="afr-wire-tag">Africa now</span>
+        <div class="afr-wire-stage" id="afr-wire-stage"></div>
+        <div class="afr-wire-dots" id="afr-wire-dots" aria-hidden="true"></div>
+      </div>
       <div class="orbit-wrap">
         <div class="orbit" id="orbit" role="img" aria-labelledby="africa-table-h"></div>
         <div class="orbit-key">
@@ -441,34 +446,53 @@
       </div>
       <div id="markets-body"></div>
       <p class="news-empty" id="markets-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
-      <p class="note" id="markets-note"></p>
-    </section>
 
-    <!-- Ghana Stock Exchange -->
-    <section class="portal" id="gse-view" aria-labelledby="h-gse" hidden>
-      <div class="portal-head">
-        <div>
-          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-gse">The Ghana Stock Exchange</h1>
-          <p class="news-intro" id="gse-intro">Every company listed in Accra, with its last traded price. The GSE Composite Index on the dashboard is the market as a whole; this is the market company by company.</p>
-        </div>
-        <span class="live"><i></i><span id="gse-status">Waiting for the first run</span></span>
-      </div>
-      <div class="gse-top" id="gse-top"></div>
-      <div class="block">
+      <div class="block" id="gse-block">
         <div class="block-head">
-          <h2>Listed companies</h2>
-          <p>Sorted by the day's move. Tap a column heading to sort another way.</p>
+          <h2>The Ghana Stock Exchange</h2>
+          <p id="gse-intro">Every company listed in Accra, with its last traded price. The GSE Composite Index on the dashboard is the market as a whole; this is the market company by company. <span class="gse-when" id="gse-status">Waiting for the first run</span></p>
         </div>
+        <div class="gse-top" id="gse-top"></div>
         <div class="news-search gse-search">
           <label for="gse-find" class="sr-only">Search companies</label>
           <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
           <input id="gse-find" type="search" placeholder="Search: MTN, bank, oil…" autocomplete="off">
         </div>
         <div class="panel table-wrap"><table class="rank-table gse-table" id="gse-table"></table></div>
+        <p class="news-empty" id="gse-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
+        <p class="note" id="gse-note"></p>
       </div>
-      <p class="news-empty" id="gse-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
-      <p class="note" id="gse-note"></p>
+      <p class="note" id="markets-note"></p>
+    </section>
+
+    <!-- World news -->
+    <section class="portal" id="world-view" aria-labelledby="h-world" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-world">World news</h1>
+          <p class="news-intro" id="world-intro">What the world's wires are reporting right now — Reuters, the Associated Press, the BBC, Al Jazeera, France 24 and CNBC. Headlines and links only; every story opens on the publisher's own page.</p>
+        </div>
+        <span class="live"><i></i><span id="world-status">Waiting for the first run</span></span>
+      </div>
+
+      <div class="world-lead" id="world-lead"></div>
+
+      <div class="block">
+        <div class="block-head">
+          <h2>Across the world</h2>
+          <p>Newest first, from the last day and a half.</p>
+        </div>
+        <div class="news-search">
+          <label for="world-find" class="sr-only">Search headlines</label>
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
+          <input id="world-find" type="search" placeholder="Search: oil, election, rates…" autocomplete="off">
+        </div>
+        <div class="news-grid" id="world-list"></div>
+      </div>
+
+      <p class="news-empty" id="world-empty" hidden>No headlines yet. Run <b>Update business news</b> in the Actions tab to fetch the first set.</p>
+      <p class="note" id="world-note"></p>
     </section>
 
     <!-- Today's papers -->
@@ -712,6 +736,7 @@
   <script src="lang-data.js"></script>
   <script src="live-data.js"></script>
   <script src="markets-data.js"></script>
+  <script src="world-data.js"></script>
   <script src="data.js"></script>
   <script src="auto-data.js"></script>
   <script src="history-data.js"></script>

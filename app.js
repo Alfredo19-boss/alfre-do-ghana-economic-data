@@ -1373,8 +1373,8 @@
     dashboard: { el: $("dashboard-view") },
     news: { el: newsView, draw: () => renderNews() },
     africa: { el: $("africa-view"), draw: () => renderAfrica() },
-    markets: { el: $("markets-view"), draw: () => renderMarkets() },
-    gse: { el: $("gse-view"), draw: () => renderGse() },
+    markets: { el: $("markets-view"), draw: () => { renderMarkets(); renderGse(); } },
+    world: { el: $("world-view"), draw: () => renderWorld() },
     charts: { el: $("charts-view"), draw: () => renderCharts() },
     papers: { el: $("papers-view"), draw: () => renderPapers() },
     articles: { el: $("articles-view"), draw: () => renderArticles() },
@@ -1387,7 +1387,7 @@
     Object.entries(VIEWS).forEach(([name, v]) => { if (v.el) v.el.hidden = name !== view; });
     $$("[data-view-link]").forEach(a => (a.dataset.viewLink === view ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
     const v = VIEWS[view];
-    if (v.draw && (!drawn[view] || ["news", "status", "markets", "gse"].includes(view))) { v.draw(); drawn[view] = true; }
+    if (v.draw && (!drawn[view] || ["news", "status", "markets", "world"].includes(view))) { v.draw(); drawn[view] = true; }
     fit();
   }
   function routeFromHash() {
@@ -1664,9 +1664,89 @@
   }
   $("gse-find").addEventListener("input", e => { gseFind = e.target.value; renderGse(); });
 
+  /* ================= World news ================= */
+  // Headlines from the world's wires, through GDELT. Nothing here is summarised or rewritten:
+  // the headline, the publisher, the time it was seen and a link to the publisher's own page.
+  const worldData = () => window.GDC_WORLD || null;
+  const worldStories = (key = "global") => {
+    const W = worldData();
+    const list = (W && Array.isArray(W[key])) ? W[key] : [];
+    return list
+      .filter(i => i && i.title && i.link && i.published)
+      .sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+  };
+
+  let worldFind = "";
+  function renderWorld() {
+    const W = worldData() || {};
+    const all = worldStories("global");
+    const q = worldFind.trim().toLowerCase();
+    const shown = q ? all.filter(i => `${i.title} ${i.source}`.toLowerCase().includes(q)) : all;
+
+    $("world-status").textContent = W.updated
+      ? `${all.length} stories · updated ${timeAgo(W.updated)}`
+      : "Waiting for the first run";
+    $("world-empty").hidden = !!shown.length;
+
+    // the three newest, given room at the top
+    const lead = q ? [] : shown.slice(0, 3);
+    $("world-lead").innerHTML = lead.map(i => `
+      <article class="world-card">
+        <div class="story-meta"><span class="src">${esc(i.source)}</span>${i.country ? `<span class="wire-tag">${esc(i.country)}</span>` : ""}<time datetime="${esc(i.published)}">${esc(timeAgo(i.published))}</time></div>
+        <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+      </article>`).join("");
+    $("world-lead").hidden = !lead.length;
+
+    const rest = q ? shown : shown.slice(3);
+    $("world-list").innerHTML = rest.map(i => {
+      const fresh = Date.now() - Date.parse(i.published) < 3 * 3600e3;
+      return `<article class="story">
+        <div class="story-meta"><span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
+        <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+      </article>`;
+    }).join("");
+    $("world-list").hidden = !rest.length;
+
+    const src = W.source ? ` Indexed by ${esc(W.source)}.` : "";
+    $("world-note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed every five minutes; anything older than a day and a half drops off.`;
+  }
+  $("world-find").addEventListener("input", e => { worldFind = e.target.value; renderWorld(); });
+
+  /* ---- the African headline strip above the inflation orbit ---- */
+  // One story at a time, sliding on the same rhythm as the board view, so the portal carries
+  // what is happening across Africa as well as what prices are doing.
+  let afrWireAt = 0, afrWireTimer = null;
+  function renderAfrWire() {
+    const wrap = $("afr-wire");
+    if (!wrap) return;
+    const items = worldStories("africa").slice(0, 8);
+    wrap.hidden = !items.length;
+    if (!items.length) { if (afrWireTimer) { clearInterval(afrWireTimer); afrWireTimer = null; } return; }
+    if (afrWireAt >= items.length) afrWireAt = 0;
+
+    $("afr-wire-stage").innerHTML = items.map((i, n) => `
+      <a class="afr-slide${n === afrWireAt ? " on" : ""}" href="${esc(i.link)}" target="_blank" rel="noopener">
+        <span class="afr-src">${esc(i.source)}</span>
+        <span class="afr-title">${esc(i.title)}</span>
+        <span class="afr-when">${esc(timeAgo(i.published))}</span>
+      </a>`).join("");
+    $("afr-wire-dots").innerHTML = items.map((_, n) => `<i class="${n === afrWireAt ? "on" : ""}"></i>`).join("");
+
+    if (!afrWireTimer) {
+      afrWireTimer = setInterval(() => {
+        const slides = $$(".afr-slide");
+        if (!slides.length || VIEWS.africa.el.hidden) return;   // no work while nobody is looking
+        afrWireAt = (afrWireAt + 1) % slides.length;
+        slides.forEach((el, n) => el.classList.toggle("on", n === afrWireAt));
+        $$("#afr-wire-dots i").forEach((d, n) => d.classList.toggle("on", n === afrWireAt));
+      }, 6000);
+    }
+  }
+
   /* ================= Africa inflation: Ghana at the centre ================= */
   const africaData = () => window.GDC_AFRICA || null;
   function renderAfrica() {
+    renderAfrWire();
     const AFRICA = africaData();
     if (!AFRICA || !AFRICA.countries) { $("africa-status").textContent = "No data yet"; return; }
     const gh = AFRICA.countries.GHA;
@@ -3185,6 +3265,20 @@
       </div>` });
     }
 
+    // what the world's wires are carrying, in the same shape as the Ghana headlines panel
+    const wworld = worldStories("global").slice(0, 4);
+    if (wworld.length) {
+      pages.push({ key: "wnews", tag: "World news", html: `<ol class="b-heads">${wworld.map(n => `
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
+    }
+
+    // and what is being reported across Africa
+    const wafrica = worldStories("africa").slice(0, 4);
+    if (wafrica.length) {
+      pages.push({ key: "anews", tag: "Across Africa", html: `<ol class="b-heads">${wafrica.map(n => `
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
+    }
+
     const art = articleData()[0];
     if (art) {
       const points = (art.body || "").split(/\n/).filter(l => /^- /.test(l)).slice(0, 3).map(l => l.replace(/^- /, "").replace(/\*\*/g, ""));
@@ -3250,10 +3344,15 @@
       "papers-data.js": () => { drawn.papers = false; if (!VIEWS.papers.el.hidden) renderPapers(); if (!board.hidden) renderBoardDeck(); },
       "africa-data.js": () => { drawn.africa = false; if (!VIEWS.africa.el.hidden) renderAfrica(); if (!board.hidden) renderBoardDeck(); },
       "articles-data.js": () => { drawn.articles = false; if (!VIEWS.articles.el.hidden) renderArticles(); if (!board.hidden) renderBoardDeck(); },
+      "world-data.js": () => {
+        drawn.world = false;
+        if (!VIEWS.world.el.hidden) renderWorld();
+        if (!VIEWS.africa.el.hidden) renderAfrWire();
+        if (!board.hidden) renderBoardDeck();
+      },
       "markets-data.js": () => {
-        drawn.markets = false; drawn.gse = false;
-        if (!VIEWS.markets.el.hidden) renderMarkets();
-        if (!VIEWS.gse.el.hidden) renderGse();
+        drawn.markets = false;
+        if (!VIEWS.markets.el.hidden) { renderMarkets(); renderGse(); }
         if (!board.hidden) renderBoardDeck();
       },
       "live-data.js": () => { renderTicker(); paintMarketLines(); if (!board.hidden) renderBoardDeck(); if (!VIEWS.status.el.hidden) renderStatus(); }
