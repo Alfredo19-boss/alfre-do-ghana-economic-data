@@ -728,7 +728,7 @@
         body: `
           <div class="facts">${facts}</div>
           ${it.sourceNewer ? `<p class="sheet-note">The figure above is the one Ghana's own statistics office last published. ${esc(it.sourceNewer.source)} has a newer estimate for ${esc(it.sourceNewer.date)} — it is measured differently, so it sits alongside rather than replacing it, until a person checks the official release.</p>` : ""}
-          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The official reading is ${esc(it.autoSource || "the daily published rate")}, checked once each morning and dated ${esc(it.date || "—")} — official rates are published for the previous business day, so that date is normally a day or more behind today. It is the figure the rest of this page counts with.</p>` : ""}
+          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The daily reading is ${esc(it.autoSource || "the published rate")}, checked each morning and dated ${esc(it.date || "—")} — published rates are for the previous business day, so that date is normally a day or more behind today.${/bank of ghana/i.test(it.autoSource || "") ? "" : " The Bank of Ghana's own page did not yield a rate, so this is a market mid-rate standing in for it, not an official figure."} It is the figure the rest of this page counts with.</p>` : ""}
           ${it.note ? `<p class="sheet-note">${toneNote(it.note, it.tone)}</p>` : ""}
           ${points.length > 1
             ? sheetSection("History", sheetChart(points, u) + sheetTable(points, u)) + sheetSection("Trend", trendHtml(analyse(points, u)))
@@ -1326,8 +1326,13 @@
       const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
       if (mono) mono.innerHTML = `${shown}${dir ? `<i class="t-arrow ${dir}">${dir === "up" ? "▲" : "▼"}</i>` : ""}`;
       const off = el.dataset.official || "", when = el.dataset.officialdate || "", src = el.dataset.officialsrc || "";
-      // the daily figure named in as few words as fit under a card
-      const kind = q.key === "gold" ? "daily close" : /bank of ghana/i.test(src) ? "BoG official" : "official";
+      // Name the daily figure for what it actually is. When the Bank of Ghana's own page has
+      // not yielded a rate the site falls back to a market mid-rate, and saying "official"
+      // there would put BoG's name on somebody else's number.
+      const kind = q.key === "gold" ? "daily close"
+        : /bank of ghana/i.test(src) ? "BoG official"
+        : /currency-api|market mid/i.test(src) ? "market mid-rate"
+        : src ? "daily rate" : "daily rate";
       el.innerHTML = `<span class="at">market · ${esc(liveTime(q.at))}</span>`
         + (off ? `<b class="official">${esc(off)}</b><span>${kind}${when ? ` · ${esc(when)}` : ""}</span>` : "");
       el.hidden = false;
@@ -2548,6 +2553,19 @@
     $("status-intro").textContent = waitingCount
       ? `How fresh everything on this site is. ${waitingCount} job${waitingCount === 1 ? " has" : "s have"} never delivered — normal before the site is published and the Actions schedules are switched on; run each one once from the Actions tab.`
       : "How fresh everything on this site is: when each automatic job last delivered, and how old every published figure is.";
+
+    // A source that has quietly stopped working is worse than one that has obviously failed,
+    // so where a figure is standing in for another source the status page says so outright.
+    const standIns = allItems.filter(i => i.autoSource && /currency-api|market mid/i.test(i.autoSource));
+    const bogNote = $("status-standin");
+    if (bogNote) {
+      bogNote.hidden = !standIns.length;
+      if (standIns.length) bogNote.innerHTML =
+        `<b>${standIns.length} figure${standIns.length === 1 ? " is" : "s are"} using a stand-in source.</b> `
+        + `${standIns.map(i => esc(i.label)).join(", ")} ${standIns.length === 1 ? "is" : "are"} coming from a market mid-rate because the Bank of Ghana's daily page did not yield a rate. `
+        + `The figures are real market prices and are labelled as such on the dashboard — they are simply not BoG's official numbers. `
+        + `The morning job tries four different Bank of Ghana pages before falling back.`;
+    }
 
     // what Alfredo was asked and could not answer, from this browser's own record
     const misses = alfMisses();

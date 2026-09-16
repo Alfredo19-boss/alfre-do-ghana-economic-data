@@ -1346,3 +1346,10 @@ html { scroll-behavior: smooth; }
   .c-btn { font-size: 12px; padding: 5px 11px; }
   .c-tip { font-size: 12.5px; padding: 7px 9px; }
 }
+
+/* a figure running on a stand-in source: said out loud, not left to be discovered */
+.status-standin {
+  margin: 18px 0 0; padding: 14px 16px; font-size: 14px; line-height: 1.55; color: var(--ink-2);
+  background: rgba(201,133,0,.08); border: 1px solid rgba(201,133,0,.35); border-radius: 8px;
+}
+.status-standin b { color: var(--gold); }
