@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T10:05:53.438Z",
+  "updated": "2026-09-16T13:50:08.768Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -19,18 +19,109 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 3/25 stories",
+    "Graphic Online: 6/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)"
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "GoldBod Becomes Go-To Reference for African Gold Reforms",
+      "link": "https://thehighstreetjournal.com/goldbod-becomes-go-to-reference-for-african-gold-reforms/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T13:38:11.000Z",
+      "summary": "GoldBod’s reforms are drawing African governments seeking practical lessons on gold-sector regulation, value retention and mineral resource management."
+    },
+    {
+      "title": "Afreximbank, ZEP-RE Sign Three-Year Deal to Build Africa’s Trade Risk Expertise",
+      "link": "https://thehighstreetjournal.com/afreximbank-zep-re-sign-3-year-deal/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T13:29:00.000Z",
+      "summary": "Under the partnership, the two institutions will develop digital learning materials, including e-learning courses, toolkits and African case studies, through a joint content-development…"
+    },
+    {
+      "title": "Gov’t Moves to Tie Automotive Tax Incentives to Local Value Addition",
+      "link": "https://thehighstreetjournal.com/govt-moves-to-tie-automotive-tax-incentives-to-local-value-addition/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T13:04:00.000Z",
+      "summary": "Ghana Tightens Automotive Incentives to Drive Local Production and Component Manufacturing"
+    },
+    {
+      "title": "IFC eyes $1.2bn investment pipeline for Ghana",
+      "link": "https://www.myjoyonline.com/ifc-eyes-1-2bn-investment-pipeline-for-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T12:38:08.000Z",
+      "summary": "The International Finance Corporation (IFC) of the World Bank Group is positioning to deepen its support for Ghana’s private sector, with a pipeline of about US$1.2 billion in potential…"
+    },
+    {
+      "title": "Sierra Leone Moves to Align Investment Rules With AfCFTA Framework",
+      "link": "https://thehighstreetjournal.com/sierra-leone-moves-to-align-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T12:35:00.000Z",
+      "summary": "The workshop was organised under the Protocol on Investment Implementation and Support Programme, with support from the Overseas Development Institute"
+    },
+    {
+      "title": "September 2026 inflation to remain stable with a slight upside risk – IC Insights",
+      "link": "https://www.myjoyonline.com/september-2026-inflation-to-remain-stable-with-a-slight-upside-risk-ic-insights/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T12:34:14.000Z",
+      "summary": "However, it warned that the renewed upward pressure on energy prices due to the escalation of the Middle East war will sustain the emerging pressure in non-food inflation to potentially…"
+    },
+    {
+      "title": "Cedi to end year at GH¢12.20 to a US dollar – Databank Research",
+      "link": "https://www.myjoyonline.com/cedi-to-end-year-at-gh%c2%a212-20-to-a-us-dollar-databank-research/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T12:09:17.000Z",
+      "summary": "In its half-year economic outlook, it stated that the 30% Gold Off-Take Mandate under GoldBod, supported by the increase in its budget allocation from GH¢4.5 billion to GH¢5.0 billion…"
+    },
+    {
+      "title": "AI Casualties: Journalists, DJs & Adult Teachers Lead List of Entry-Level Jobs Set to Shrink by 2035",
+      "link": "https://thehighstreetjournal.com/ai-casualties-journalists-djs-adult-teachers-lead-list-of-entry-level-jobs-set-to-shrink-by-2035/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T12:00:00.000Z",
+      "summary": "Adult educators, computer programmers, journalists and broadcasters are among AI-exposed occupations projected to shrink through 2035. However, BLS cautions that AI exposure does not…"
+    },
+    {
+      "title": "GSA Warns Kumasi Businesses To Regularise Product Certification Ahead of Christmas",
+      "link": "https://thehighstreetjournal.com/gsa-warns-kumasi-businesses-to-regularise-product-certification-ahead-of-christmas/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T11:48:03.000Z",
+      "summary": "The GSA has urged Ashanti businesses to regularise product certification before Christmas, warning of intensified market surveillance and enforcement to protect consumers and ensure…"
+    },
+    {
+      "title": "GoldBod model draws interest as 7 African countries seek gold governance lessons",
+      "link": "https://www.myjoyonline.com/goldbod-model-draws-interest-as-7-african-countries-seek-gold-governance-lessons/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T11:36:24.000Z",
+      "summary": "The Ghana’s GoldBod model is increasingly attracting interest from countries across Africa, with seven international delegations undertaking official visits and engagements with the Ghana…"
+    },
+    {
+      "title": "The extreme engineering of aircraft windows",
+      "link": "https://www.myjoyonline.com/the-extreme-engineering-of-aircraft-windows/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T11:10:00.000Z",
+      "summary": "An industrial nightmare was brewing south of Los Angeles."
+    },
+    {
+      "title": "OPEC Fund Backs IAEA Cancer-Care Expansion With First DRC Project",
+      "link": "https://thehighstreetjournal.com/opec-fund-backs-iaea-drc-project/",
+      "source": "The High Street Journal",
+      "published": "2026-09-16T10:37:00.000Z",
+      "summary": "The OPEC Fund for International Development is expanding its support for cancer care in low- and middle-income countries, beginning with a project to establish the Democratic Republic of…"
+    },
+    {
+      "title": "Fuel prices rise as Star Oil raises petrol to GH¢16.77, diesel to GH¢17.77",
+      "link": "https://www.myjoyonline.com/fuel-prices-rise-as-star-oil-raises-petrol-to-gh%c2%a216-77-diesel-to-gh%c2%a217-77/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T10:14:46.000Z",
+      "summary": "Diesel has also risen from GH¢16.97 to GH¢17.77 per litre, a 4.71% increase."
+    },
     {
       "title": "Ghana Pivots to Industrial Execution to Boost Manufacturing, Exports",
       "link": "https://thehighstreetjournal.com/ghana-to-boost-manufacturing-for-exports/",
@@ -51,6 +142,48 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-16T09:03:58.000Z",
       "summary": "Brent crude slips below $108 as a surprise US inventory build weighs on prices, while ongoing Saudi supply disruptions continue to support the market."
+    },
+    {
+      "title": "Eni Ghana, Vitol sign MoU with government for 2 oil blocks",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-eni-ghana-vitol-sign-mou-with-government-for-2-oil-blocks.html",
+      "source": "Graphic Online",
+      "published": "2026-09-16T07:49:17.000Z",
+      "summary": "Eni Ghana and its partner, Vitol Upstream Tano Ltd (Vitol), have signed two Memoranda of Understanding with the government, covering two offshore petroleum blocks."
+    },
+    {
+      "title": "University of Engineering and Agricultural Sciences: New university pledges agric transformation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-university-of-engineering-and-agricultural-sciences-new-university-pledges-agric-transformation.html",
+      "source": "Graphic Online",
+      "published": "2026-09-16T07:39:03.000Z",
+      "summary": "Ghana’s newest public institution of higher learning, the University of Engineering and Agricultural Sciences (UEAS), has pledged to train engineers and agricultural scientists who will…"
+    },
+    {
+      "title": "Association calls for presidency-led intervention on port congestion",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-association-calls-for-presidency-led-intervention-on-port-congestion.html",
+      "source": "Graphic Online",
+      "published": "2026-09-16T07:23:24.000Z",
+      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called for an urgent presidency-led intervention to address worsening congestion and operational bottlenecks at the country’s…"
+    },
+    {
+      "title": "Public financial management must ensure value for money — Foreign Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-public-financial-management-must-ensure-value-for-money-foreign-minister.html",
+      "source": "Graphic Online",
+      "published": "2026-09-16T07:20:23.000Z",
+      "summary": "The Minister of Foreign Affairs, Samuel Okudzeto Ablakwa, has said that public financial management systems in Africa must ensure value for money."
+    },
+    {
+      "title": "Stop waiting for foreigners to invest in tourism - Ghanaians urged",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-stop-waiting-for-foreigners-to-invest-in-tourism-ghanaians-urged.html",
+      "source": "Graphic Online",
+      "published": "2026-09-16T07:00:19.000Z",
+      "summary": "The newly appointed Board Chairman of the Ghana Tourism Federation (GHATOF), Drolor Bosso Adamtey I, has challenged Ghanaians to stop waiting for foreigners to invest in the country’s…"
+    },
+    {
+      "title": "Review 24-Hour economy market programme - Minority demands",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-review-24-hour-economy-market-programme-minority-demands.html",
+      "source": "Graphic Online",
+      "published": "2026-09-16T06:50:58.000Z",
+      "summary": "The Minority Caucus in Parliament has called on the government to review the design and implementation of the 24-Hour Economy Market Programme to ensure that projects respond to the…"
     },
     {
       "title": "Data Scientists Lead ‘AI-Powered Growth’: Here are all the Jobs Set to Grow Despite High AI Exposure",
@@ -947,139 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-13T21:13:00.000Z",
       "summary": "TCL, a global leader in consumer electronics, has unveiled its 2026 consumer electronics and home appliance portfolio for Ghana at its West Africa regional launch in Côte d’Ivoire."
-    },
-    {
-      "title": "Global Youth Economy Takes Centre Stage As 191 Nations Meet In Russia",
-      "link": "https://thehighstreetjournal.com/global-youth-economy-takes-centre-stage-as-191-nations-meet-in-russia/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T19:00:00.000Z",
-      "summary": "10,000 young leaders from 191 countries gather in Russia to build global networks around entrepreneurship, technology, creativity and the future of work."
-    },
-    {
-      "title": "Ghana Clears Major Hurdle for $4bn Accra-Kumasi Expressway as Military Hands Over 175.6km Corridor",
-      "link": "https://thehighstreetjournal.com/ghana-clears-major-hurdle-for-4bn-accra-kumasi-expressway-as-military-hands-over-175-6km-corridor/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T18:00:00.000Z",
-      "summary": "Ghana moves closer to a $4bn road project set to reshape trade, transport and jobs."
-    },
-    {
-      "title": "No two-phone law – GRA clarifies Customs rules for travellers",
-      "link": "https://www.myjoyonline.com/no-two-phone-law-gra-clarifies-customs-rules-for-travellers/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T16:49:56.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has reiterated that there is no law limiting travellers entering Ghana to two duty-free mobile phones."
-    },
-    {
-      "title": "MTN Wins $100.9m 5G Spectrum Bid as Competition Concerns Persist",
-      "link": "https://thehighstreetjournal.com/mtn-wins-100-9m-5g-spectrum-bid-as-competition-concerns-persist/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T16:00:37.000Z",
-      "summary": "MTN wins $100.9 million 700 MHz spectrum bid as NCA faces pressure to protect fair competition in Ghana’s growing 5G market."
-    },
-    {
-      "title": "GRA announces major policy proposal under Modified Taxation Scheme initiative",
-      "link": "https://www.myjoyonline.com/gra-announces-major-policy-proposal-under-modified-taxation-scheme-initiative/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T15:06:26.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) is proposing to extend the Modified Taxation Scheme (MTS) to qualifying small limited liability companies with annual turnover of up to GH¢750,000."
-    },
-    {
-      "title": "Can the Accra-Kumasi Expressway Really Create 30,000 Jobs? Expert Says Yes & It’s Even More",
-      "link": "https://thehighstreetjournal.com/can-the-accra-kumasi-expressway-really-create-30000-jobs-expert-says-yes-its-even-more/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T15:00:38.000Z",
-      "summary": "Dr. Theo Acheampong says the Accra-Kumasi Expressway’s 30,000-job projection is conservative, with direct and indirect employment potentially reaching 50,000 job-years, depending on local…"
-    },
-    {
-      "title": "TCL sues Samsung for false advertising over ‘Mini LED’ televisions",
-      "link": "https://www.myjoyonline.com/tcl-sues-samsung-for-false-advertising-over-mini-led-televisions/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T14:58:59.000Z",
-      "summary": "Chinese consumer electronics company TCL has sued South Korea's Samsung in Los Angeles federal court, accusing its ​rival of falsely advertising some televisions as using \"Mini LED\"…"
-    },
-    {
-      "title": "Kpeshie Lagoon Clearing Enters Enforcement Phase With Demolition Drive",
-      "link": "https://thehighstreetjournal.com/kpeshie-lagoon-clearing/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T14:00:24.000Z",
-      "summary": "Government steps up enforcement at Laboma as reclamation and construction shrink the lagoon’s capacity to retain floodwaters"
-    },
-    {
-      "title": "Ghana Targets 400,000 Tonnes Of Tomatoes Under New Self-Sufficiency Drive",
-      "link": "https://thehighstreetjournal.com/ghana-targets-400000-tonnes-of-tomatoes-under-new-self-sufficiency-drive/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T13:00:57.000Z",
-      "summary": "Ghana plans to raise domestic tomato production to 400,000 tonnes annually as it seeks to cut reliance on imports and build a year-round supply chain."
-    },
-    {
-      "title": "The Land Market Crisis: A Critical Productive & Housing Asset Turned into a Speculative Financial Asset",
-      "link": "https://thehighstreetjournal.com/the-land-market-crisis-a-critical-productive-housing-asset-turned-into-a-speculative-financial-asset/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T12:00:06.000Z",
-      "summary": "Dickson Assan argues Ghana’s land market increasingly rewards speculation over productive use, as asking prices fuel further price hikes without reflecting actual transactions, making…"
-    },
-    {
-      "title": "When Art Speaks: “LOST CHILDHOOD” Exhibition Gives Voice to Ukraine’s Lost Children",
-      "link": "https://thehighstreetjournal.com/art-lost-childhood-exhibition/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T11:15:11.000Z",
-      "summary": "According to UNICEF, nearly 50 million children worldwide had been displaced by conflict and violence by the end of 2024"
-    },
-    {
-      "title": "CIMA President Alfred Ramosedi to engage Ghana’s finance, business leaders",
-      "link": "https://www.myjoyonline.com/cima-president-alfred-ramosedi-to-engage-ghanas-finance-business-leaders/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-13T10:44:09.000Z",
-      "summary": "The President of the Chartered Institute of Management Accountants (CIMA), Alfred Ramosedi, will visit Ghana from September 18 to 19, 2026, for engagements with finance professionals…"
-    },
-    {
-      "title": "Is Poor Customer Service Pulling Down Your Business?",
-      "link": "https://thehighstreetjournal.com/is-poor-customer-service-pulling-down-your-business/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T10:30:39.000Z",
-      "summary": "Poor customer service can turn first-time buyers into lost customers."
-    },
-    {
-      "title": "Ghana’s economy is standing on concrete pillars today – Mahama",
-      "link": "https://www.ghanabusinessnews.com/2026/09/13/ghanas-economy-is-standing-on-concrete-pillars-today-mahama/",
-      "source": "Ghana Business News",
-      "published": "2026-09-13T10:03:02.000Z",
-      "summary": "President John Dramani Mahama has described Ghana’s economy as resilient and capable of withstanding external shocks, attributing the stability to prudent management under his…"
-    },
-    {
-      "title": "Public Sector Cannot Absorb All Graduates; 24-Hour Economy is Key to Job Creation — President Mahama",
-      "link": "https://thehighstreetjournal.com/public-sector-cannot-absorb-all-graduates-24-hour-economy-is-key-to-job-creation-president-mahama/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T09:30:06.000Z",
-      "summary": "President Mahama stated state payrolls cannot employ all graduates, highlighting the 24-Hour Economy and a $2.5 billion fund to drive private-sector jobs."
-    },
-    {
-      "title": "Ghana Can Turn Flowers Into Jobs and Cut Import Costs – Stratcomm CEO",
-      "link": "https://thehighstreetjournal.com/ghana-can-turn-flowers-into-jobs-and-cut-import-costs-stratcomm-ceo/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T09:00:00.000Z",
-      "summary": "Ghana can turn horticulture into a major economic opportunity by creating jobs, reducing flower imports, earning foreign exchange and building sustainable green businesses."
-    },
-    {
-      "title": "Government Secures Funding for a New Airport in Wa",
-      "link": "https://thehighstreetjournal.com/government-secures-funding-for-a-new-airport-in-wa/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T08:00:30.000Z",
-      "summary": "President Mahama announced secured funding and selected contractors for a modern Wa airport, featuring night-landing capabilities to boost transit, agribusiness, and tourism."
-    },
-    {
-      "title": "Nuclear Power: A Critical Link Between Africa’s Valuable Mineral Wealth and Their Processing",
-      "link": "https://thehighstreetjournal.com/nuclear-power-a-critical-link-between-africas-valuable-mineral-wealth-and-their-processing/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T05:05:00.000Z",
-      "summary": "Africa’s mineral wealth could deliver greater economic value if reliable nuclear power enables local processing, manufacturing and industrialisation, helping countries move beyond raw…"
-    },
-    {
-      "title": "Government’s Agriculture Programmes Could Drive Ghana’s Green Economy – Veep",
-      "link": "https://thehighstreetjournal.com/governments-agriculture-programmes-could-drive-ghanas-green-economy-veep/",
-      "source": "The High Street Journal",
-      "published": "2026-09-13T05:03:00.000Z",
-      "summary": "Government’s agricultural programmes could strengthen Ghana’s green economy by expanding horticulture, improving production systems, connecting farmers to markets and creating jobs."
     }
   ]
 };

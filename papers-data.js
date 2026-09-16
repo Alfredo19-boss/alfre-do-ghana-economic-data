@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T10:06:06.215Z",
+  "updated": "2026-09-16T13:50:22.943Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,129 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Trump seeks to rebuild support among 2024 voters in North Carolina",
+      "link": "https://www.myjoyonline.com/trump-seeks-to-rebuild-support-among-2024-voters-in-north-carolina/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T13:42:01.000Z",
+      "summary": "U.S. President Donald Trump will campaign in North Carolina on Wednesday ​for Republican Senate candidate Michael Whatley, his first major campaign stop since the Republican Party's midterm…",
+      "categories": [
+        "International",
+        "North Carolina",
+        "Trump"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos: IGP engages Okada riders on road safety, registration and crime prevention",
+      "link": "https://www.myjoyonline.com/photos-igp-engages-okada-riders-on-road-safety-registration-and-crime-prevention/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T13:13:37.000Z",
+      "summary": "Inspector-General of Police (IGP) Christian Tetteh Yohuno has engaged the leadership of the Okada Riders Association of Ghana (ORAG) on road safety, regulatory compliance and collaboration…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "IGP",
+        "Okada riders",
+        "Photos",
+        "road safety"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPA reviewing calls to cushion consumers amid petrol price hikes – Edudzi Tameklo",
+      "link": "https://www.myjoyonline.com/npa-reviewing-calls-to-cushion-consumers-amid-petrol-price-hikes-edudzi-tameklo/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T13:11:54.000Z",
+      "summary": "The National Petroleum Authority (NPA) says it is reviewing calls for government to extend its GH¢2 per litre subsidy on diesel to petrol consumers.",
+      "categories": [
+        "National",
+        "News",
+        "Edudzi Tameklo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Astroturf Exposé: Edem Senanu calls for tougher laws to punish public officials",
+      "link": "https://www.myjoyonline.com/astroturf-expose-edem-senanu-calls-for-tougher-laws-to-punish-public-officials/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T13:09:01.000Z",
+      "summary": "Anti-corruption campaigner and Vice Chair of the African Union Advisory Board Against Corruption, Edem Senanu, has called for clear laws and stronger sanctions to ensure public officials…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Laws",
+        "Public officials"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "link": "https://www.myjoyonline.com/us-limits-visas-for-south-african-officials-over-alleged-anti-white-discrimination/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T12:54:30.000Z",
+      "summary": "The US has announced visa restrictions targeting people it accuses of discriminating against South Africa's white minority, in the latest escalation of tensions between the two countries.",
+      "categories": [
+        "Africa",
+        "International",
+        "anti-white discrimination",
+        "South African",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Edem Senanu calls for OSP investigation into alleged astroturf procurement breaches",
+      "link": "https://www.myjoyonline.com/edem-senanu-calls-for-osp-investigation-into-alleged-astroturf-procurement-breaches/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T12:53:56.000Z",
+      "summary": "Anti-corruption campaigner Edem Senanu has called for investigations into alleged breaches of procurement laws surrounding the construction of multi-million-cedi astroturf projects across…",
+      "categories": [
+        "National",
+        "Astroturf Exposé",
+        "OSP probe"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "272 graduates with disabilities being formalised into GES – Gender Minister",
+      "link": "https://www.myjoyonline.com/272-graduates-with-disabilities-being-formalised-into-ges-gender-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T12:52:46.000Z",
+      "summary": "The Ministry of Gender, Children, and Social Protection, Agnes Naa Momo Lartey, has said some 272 graduates with disabilities are being formalised into the Ghana Education Service (GES) as…",
+      "categories": [
+        "National",
+        "Disabilities",
+        "Gender Minister",
+        "GES"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Measure reforms by impact on motorists, not projects completed – Nikpe to DVLA",
+      "link": "https://www.myjoyonline.com/measure-reforms-by-impact-on-motorists-not-projects-completed-nikpe-to-dvla/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T12:48:51.000Z",
+      "summary": "Transport Minister, Joseph Bukari Nikpe, has challenged the Driver and Vehicle Licensing Authority (DVLA) to measure the success of its ongoing reforms by how significantly they improve the…",
+      "categories": [
+        "National",
+        "DVLA",
+        "Motorists",
+        "Nikpe"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Scholarship scheme launched for Ga-Dangme students",
+      "link": "https://ghanaiantimes.com.gh/scholarship-scheme-launched-for-ga-dangme-students/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-16T10:06:56.000Z",
+      "summary": "The Ga Mantse, King Tackie Teiko Tsuru II, has called for greater investment in the education of Ga-Dangme youth to equip them with the knowledge and skills needed to become responsible…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Catholic Bishops demand independent audit of CSSPS • Minister pledges to set up Technical Working Committee",
       "link": "https://ghanaiantimes.com.gh/catholic-bishops-demand-independent-audit-of-cssps-minister-pledges-to-set-up-technical-working-committee/",
@@ -70,21 +193,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "‘Every department of our team is good’ – Black Maidens coach after Burkina Faso win",
-      "link": "https://www.myjoyonline.com/every-department-of-our-team-is-good-black-maidens-coach-after-burkina-faso-win/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T09:52:15.000Z",
-      "summary": "The Black Maidens defeated Burkina Faso in their opening game of the competition, claiming a 4-0 victory after scoring twice in each half.",
-      "categories": [
-        "Football",
-        "National",
-        "2026 WAFU B U-17 Girls Cup",
-        "Black Maidens",
-        "Burkina Faso"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Sterling admits dangerous driving after highway collision",
       "link": "https://ghanaiantimes.com.gh/sterling-admits-dangerous-driving-after-highway-collision/",
       "source": "Ghanaian Times",
@@ -118,31 +226,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Nairobi to host 2029 WAC in African first",
-      "link": "https://ghanaiantimes.com.gh/nairobi-to-host-2029-wac-in-african-first/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-16T09:36:07.000Z",
-      "summary": "Nairobi has been selected to host the 2029 World Athletics Championships (WAC), with the Kenyan capital becoming the first African city to stage the ‌event. World Athletics announced the…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Today’s front pages: Wednesday, September 16, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-wednesday-september-16-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T08:27:39.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "Frontpages",
-        "Newspaper"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Real Intelligence must be free to the world – Prof. Ato Duncan",
       "link": "https://www.graphic.com.gh/news/general-news/real-intelligence-must-be-free-to-the-world-prof-ato-duncan.html",
       "source": "Daily Graphic",
@@ -165,6 +248,28 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "GHANBATT 92 personnel complete mission in Lebanon",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanbatt-92-personnel-complete-mission-in-lebanon.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T07:59:32.000Z",
+      "summary": "Six hundred and fifteen personnel of the United Nations Interim Force in Lebanon (UNIFIL), Ghana Battalion 92 (GHANBATT 92), arrived in Accra last Saturday after successfully completing…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Eni Ghana, Vitol sign MoU with government for 2 oil blocks",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-eni-ghana-vitol-sign-mou-with-government-for-2-oil-blocks.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T07:49:17.000Z",
+      "summary": "Eni Ghana and its partner, Vitol Upstream Tano Ltd (Vitol), have signed two Memoranda of Understanding with the government, covering two offshore petroleum blocks.",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Novartis backs Ghana Medical Trust Fund, describes initiative as critical and timely",
       "link": "https://www.graphic.com.gh/news/general-news/novartis-backs-ghana-medical-trust-fund-describes-initiative-as-critical-and-timely.html",
       "source": "Daily Graphic",
@@ -176,20 +281,26 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Regulating establishment of EV charging stations: my thoughts",
-      "link": "https://www.myjoyonline.com/regulating-establishment-of-ev-charging-stations-my-thoughts/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T07:46:46.000Z",
-      "summary": "President John Dramani Mahama is reported to have announced on Tuesday, 15th September, plans to regulate the establishment of electric vehicle (EV) charging stations to prevent uneven…",
+      "title": "President Mahama commissions Zonda Tec phase III project",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-commissions-zonda-tec-phase-iii-project.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T07:43:35.000Z",
+      "summary": "President John Dramani Mahama has commissioned Phase III of Zonda Tec Ghana’s assembly plant at Tema in the Greater Accra Region, describing the expansion works as fulfilment of the vision…",
       "categories": [
-        "National",
-        "Opinion",
-        "Electric vehicle",
-        "EV",
-        "Kwaku Abtwi-Boasiako",
-        "President John Mahama"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "University of Engineering and Agricultural Sciences: New university pledges agric transformation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-university-of-engineering-and-agricultural-sciences-new-university-pledges-agric-transformation.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-16T07:39:03.000Z",
+      "summary": "Ghana’s newest public institution of higher learning, the University of Engineering and Agricultural Sciences (UEAS), has pledged to train engineers and agricultural scientists who will…",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Heritage Theatre Arts Festival 2026 to unite African and global performers in Accra",
@@ -197,119 +308,6 @@ window.GDC_PAPERS = {
       "source": "Daily Graphic",
       "published": "2026-09-16T07:34:31.000Z",
       "summary": "The Heritage Theatre Arts Festival 2026 is set to take place from October 5 to 11, 2026, at the University of Ghana's School of Performing Arts in Legon, bringing together theatre…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Open Letter to the Chairperson and Members of the Constitution Review Implementation Committee – Preserving the People-Centred Character of Ghana’s Constitutional Reform Process",
-      "link": "https://www.myjoyonline.com/open-letter-to-the-chairperson-and-members-of-the-constitution-review-implementation-committee-preserving-the-people-centred-character-of-ghanas-constitutional-reform-process/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T07:33:02.000Z",
-      "summary": "I bring you good tidings from my home, where I practise my own version of constitutional democracy every day. My wife plays the role of the Speaker, while my children are the citizens. In…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Alex Boateng",
-        "Constitution",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Catholic Bishops demand 20% quota for Catholics in mission schools",
-      "link": "https://www.myjoyonline.com/catholic-bishops-demand-20-quota-for-catholics-in-mission-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T06:06:20.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference is pushing for the implementation of a 20% admission quota for Catholic students in mission schools.",
-      "categories": [
-        "Education",
-        "HP News 4",
-        "Catholic Bishop's Conference",
-        "School placement"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GES releases outstanding 2023 Capitation Grant arrears to basic schools",
-      "link": "https://www.myjoyonline.com/ges-releases-outstanding-2023-capitation-grant-arrears-to-basic-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T05:50:00.000Z",
-      "summary": "The Ghana Education Service (GES) has announced the release of outstanding 2023 Capitation Grant arrears to District Education Directorates for onward disbursement to basic schools…",
-      "categories": [
-        "Education",
-        "Capitation grant",
-        "Ghana Education Service (GES)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TikTok used to recruit Ghanaian Girls into sex trade in mining communities – Challenging Heights",
-      "link": "https://www.myjoyonline.com/tiktok-used-to-recruit-ghanaian-girls-into-sex-trade-in-mining-communities-challenging-heights/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T05:41:00.000Z",
-      "summary": "Child protection organisation Challenging Heights has raised concerns over an active network allegedly recruiting Ghanaian children into the commercial sex trade through social media…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Challenging Heights",
-        "James Kofi Annan",
-        "TikTok"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Recurrent brouhaha over SHS school placement: Which way out of the quagmire?",
-      "link": "https://www.myjoyonline.com/recurrent-brouhaha-over-shs-school-placement-which-way-out-of-the-quagmire/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T05:33:00.000Z",
-      "summary": "Another year, another scheduled time for “Back to school”, and need I say, it is also time for placements into Senior High School, Senior High Technical School, as well as Technical and…",
-      "categories": [
-        "Opinion",
-        "SHS placement"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NANS students get first-hand gold industry exposure as Igbasan commits ₦15M to student development",
-      "link": "https://www.graphic.com.gh/news/general-news/nans-students-get-first-hand-gold-industry-exposure-as-igbasan-commits-15m-to-student-development.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T18:23:26.000Z",
-      "summary": "The National President of the National Association of Nigerian Students (NANS), Comrade Akinteye Babatunde Afeez, has led NANS executives and student leaders on an industry working visit to…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Majority in a poll blame double-track for decline in SHS quality",
-      "link": "https://www.graphic.com.gh/news/general-news/majority-in-a-poll-blame-double-track-for-decline-in-shs-quality.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T17:59:16.000Z",
-      "summary": "A majority of Ghanaians who participated in a survey believe the double-track system has contributed to a decline in the quality of senior high school (SHS) education.",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fidelity Bank donates GH¢200,000 to Ghana Medical Trust Fund",
-      "link": "https://www.graphic.com.gh/news/general-news/fidelity-bank-donates-ghc200-000-to-ghana-medical-trust-fund.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T16:47:54.000Z",
-      "summary": "Fidelity Bank Ghana has stepped up its support for healthcare delivery with a GH¢200,000 cash donation to the Ghana Medical Trust Fund (GMTF) to help provide specialised treatment for…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "It is now official: Beginning Oct 1, Ghana Police will use cameras to arrest traffic offenders, notices of violation to be served on drivers via SMS",
-      "link": "https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-15T15:34:37.000Z",
-      "summary": "The Ghana Police Service will begin full enforcement of traffic offences through its automated traffic law enforcement programme, TRAFFITECH-GH, from October 1, 2026.",
       "categories": [
         "General News"
       ],
