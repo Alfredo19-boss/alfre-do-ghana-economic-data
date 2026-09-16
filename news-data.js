@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T22:03:17.799Z",
+  "updated": "2026-09-16T22:48:13.044Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,10 +27,17 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)"
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)"
   ],
   "items": [
+    {
+      "title": "Microsoft says AI rival Anthropic could have ‘disastrous impact’ on humanity",
+      "link": "https://www.myjoyonline.com/microsoft-says-ai-rival-anthropic-could-have-disastrous-impact-on-humanity/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:23:00.000Z",
+      "summary": "Microsoft's head of AI has warned that Anthropic's approach to training its AI model, Claude, could have a \"disastrous impact on the wellbeing of humanity\"."
+    },
     {
       "title": "Ghanaian tech professionals develop SMS-based AI tool for non-smartphones",
       "link": "https://www.myjoyonline.com/ghanaian-tech-professionals-develop-sms-based-ai-tool-for-non-smartphones/",
@@ -1073,13 +1080,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-09-14T06:36:41.000Z",
       "summary": "MTN Ghana has intensified cybersecurity awareness among its workforce to counter increasingly sophisticated methods used by cybercriminals, hackers and fraudsters."
-    },
-    {
-      "title": "President Mahama inspects proposed site for Upper West Regional Airport",
-      "link": "https://www.ghanabusinessnews.com/2026/09/14/president-mahama-inspects-proposed-site-for-upper-west-regional-airport/",
-      "source": "Ghana Business News",
-      "published": "2026-09-14T06:30:53.000Z",
-      "summary": "President John Dramani Mahama on Saturday inspected the proposed site for the construction of the Upper West Regional Airport in Wa."
     }
   ]
 };

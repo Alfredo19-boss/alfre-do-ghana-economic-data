@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T22:03:49.513Z",
+  "updated": "2026-09-16T22:48:27.818Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,76 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Microsoft says AI rival Anthropic could have ‘disastrous impact’ on humanity",
+      "link": "https://www.myjoyonline.com/microsoft-says-ai-rival-anthropic-could-have-disastrous-impact-on-humanity/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:23:00.000Z",
+      "summary": "Microsoft's head of AI has warned that Anthropic's approach to training its AI model, Claude, could have a \"disastrous impact on the wellbeing of humanity\".",
+      "categories": [
+        "Technology",
+        "AI",
+        "Anthropic",
+        "Microsoft"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "De la Fuente extends Spain contract to 2032",
+      "link": "https://www.myjoyonline.com/de-la-fuente-extends-spain-contract-to-2032/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:12:00.000Z",
+      "summary": "World Cup-winning head coach Luis de la Fuente has agreed to a contract extension with Spain until 2032.",
+      "categories": [
+        "Football",
+        "De la Fuente",
+        "Spain"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Raphinha hat trick in Barcelona’s 7-goal rout of Santander",
+      "link": "https://www.myjoyonline.com/raphinha-hat-trick-in-barcelonas-7-goal-rout-of-santander/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:11:54.000Z",
+      "summary": "Barcelona thrashed Racing Santander 7-2 on Wednesday to make it seven wins at the start of a season for the first time in their history. It was yet another scintillating Camp Nou show from…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Barcelona",
+        "La Liga",
+        "Racing Santander"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Carabao Cup fourth-round draw: Liverpool to host Chelsea as Arsenal drawn away to League Two Fleetwood",
+      "link": "https://www.myjoyonline.com/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:02:22.000Z",
+      "summary": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town. The…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Carabao cup",
+        "Chelsea",
+        "Liverpool"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mbappe, Vini and Konate obscure Real’s Ceuta message",
+      "link": "https://www.myjoyonline.com/mbappe-vini-and-konate-obscure-reals-ceuta-message/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:02:00.000Z",
+      "summary": "Kylian Mbappe, Vinicius Jr and Ibrahima Konate rolled up their pre-game T-shirts before Real Madrid's match at Elche on Tuesday to obscure the message of support for the people of Ceuta.",
+      "categories": [
+        "Football",
+        "Ceuta message",
+        "Real Madrid"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Reggie Rockstone named Unichem Ghana brand ambassador",
       "link": "https://www.myjoyonline.com/reggie-rockstone-named-unichem-ghana-brand-ambassador/",
@@ -62,77 +132,6 @@ window.GDC_PAPERS = {
         "Football",
         "Brighton",
         "Man United"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Petrol and diesel price rises push UK inflation higher",
-      "link": "https://www.myjoyonline.com/petrol-and-diesel-price-rises-push-uk-inflation-higher/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T21:41:00.000Z",
-      "summary": "Rises in petrol, diesel and airfares pushed UK inflation up to its highest level in five months in the year to August.",
-      "categories": [
-        "International",
-        "Petrol",
-        "UK inflation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "City of David Foundation donates to Koforidua Hospital, Koforidua Prison",
-      "link": "https://www.myjoyonline.com/city-of-david-foundation-donates-to-koforidua-hospital-koforidua-prison/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T21:38:52.000Z",
-      "summary": "The City of David Foundation, led by its Founder and Chief Executive Officer, David Sarpong, popularly known as Randal, has extended humanitarian support to institutions in the Eastern…",
-      "categories": [
-        "National",
-        "City of David Foundation",
-        "Koforidua Hospital",
-        "Koforidua Prison"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AMA says Konkomba traders were consulted ahead of Agbogbloshie 24-hour market project",
-      "link": "https://www.myjoyonline.com/ama-says-konkomba-traders-were-consulted-ahead-of-agbogbloshie-24-hour-market-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T21:04:01.000Z",
-      "summary": "The Accra Metropolitan Assembly (AMA) has rejected claims that traders and other stakeholders at Agbogbloshie were excluded from discussions over the proposed 24-hour market.",
-      "categories": [
-        "National",
-        "24-Hour Market Project",
-        "Accra Metropolitan Assembly (AMA)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Let’s pilot Chinese in public schools before scaling up – EduWatch",
-      "link": "https://www.myjoyonline.com/lets-pilot-chinese-in-public-schools-before-scaling-up-eduwatch/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T20:55:45.000Z",
-      "summary": "The Executive Director of Africa Education Watch, Kofi Asare, has called for the piloting of Chinese language in selected public schools before any decision is taken to scale it up…",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "National",
-        "News",
-        "Chinese",
-        "Kofi Asare",
-        "Public schools"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian tech professionals develop SMS-based AI tool for non-smartphones",
-      "link": "https://www.myjoyonline.com/ghanaian-tech-professionals-develop-sms-based-ai-tool-for-non-smartphones/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T20:17:03.000Z",
-      "summary": "A Ghanaian startup has developed an artificial intelligence (AI) service that allows people without smartphones, internet access or mobile data to interact with AI using simple text…",
-      "categories": [
-        "News",
-        "Technology",
-        "AI tool",
-        "non-smartphones"
       ],
       "site": "https://www.myjoyonline.com/"
     },
