@@ -8,6 +8,17 @@ import { load, save } from "./lib/datafile.mjs";
 
 const FILE = new URL("../auto-data.js", import.meta.url).pathname;
 const BOG_FX_URL = "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/";
+// The daily page builds its table through a date picker, so the HTML that arrives from a plain
+// request can carry a stale default row. These are tried in order and the NEWEST row found
+// across all of them wins, so a page that does serve today's figures is used whichever it is.
+// If BoG publishes nothing usable the job says so and falls back, clearly labelled, to a
+// market mid-rate — it never presents someone else's number as the Bank of Ghana's.
+export const BOG_SOURCES = [
+  BOG_FX_URL,
+  `${BOG_FX_URL}?date=${new Date().toISOString().slice(0, 10)}`,
+  "https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/",
+  "https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc"
+];
 const CURRENCY_API_URLS = [
   "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
   "https://latest.currency-api.pages.dev/v1/currencies/usd.json"
@@ -152,13 +163,23 @@ async function main() {
     tickerCodes = [...(D.fxTicker?.world || []), ...(D.fxTicker?.africa || [])].map(c => c.code);
   } catch (e) { log.push(`could not read ticker currencies from data.js: ${e.message}`); }
 
-  // 1. Exchange rates: Bank of Ghana first
-  try {
-    const html = await get(BOG_FX_URL);
-    Object.assign(fresh, parseBogFx(html));
-    bogTable = parseBogTable(html);
-    log.push(`BoG FX: ${Object.keys(fresh).join(", ") || "no rows found"}; table ${bogTable ? Object.keys(bogTable.rates).length + " currencies" : "not found"}`);
-  } catch (e) { log.push(`BoG FX failed: ${e.message}`); }
+  // 1. Exchange rates: Bank of Ghana first, across every page shape it publishes
+  let bogDate = null;
+  for (const url of BOG_SOURCES) {
+    try {
+      const html = await get(url);
+      const rows = parseBogFx(html);
+      const table = parseBogTable(html);
+      const seen = table ? table.date : (Object.values(rows)[0] || {}).date;
+      if (!seen) { log.push(`BoG FX ${url}: no rows found`); continue; }
+      if (bogDate && seen <= bogDate) { log.push(`BoG FX ${url}: ${seen}, not newer than ${bogDate}`); continue; }
+      bogDate = seen;
+      Object.assign(fresh, rows);
+      if (table) bogTable = table;
+      log.push(`BoG FX ${url}: ${seen} · ${Object.keys(rows).join(", ") || "headline pairs missing"}; table ${table ? Object.keys(table.rates).length + " currencies" : "not found"}`);
+    } catch (e) { log.push(`BoG FX ${url} failed: ${e.message}`); }
+  }
+  if (!bogDate) log.push("BoG published nothing usable today; the market mid-rate below is used instead and is labelled as such.");
 
   // 2. Gold, other currencies, plus fallback exchange rates if BoG failed
   for (const url of CURRENCY_API_URLS) {
