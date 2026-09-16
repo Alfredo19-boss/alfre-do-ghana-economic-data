@@ -1437,6 +1437,9 @@
   // One measure per chart, one axis, thin marks, recessive grid. The four series colours
   // are a validated categorical set (blue, orange, aqua, yellow) checked for colour-blind
   // separation against this page's dark surface; text stays in the ink tokens.
+  // The categorical palette, checked for colour-blind separation against this dark surface.
+  // Hues are assigned in this fixed order and never cycled: a chart that would need a fifth
+  // series is split in two instead.
   const SERIES = ["#3987e5", "#d95926", "#199e70", "#c98500"];
   const chartsData = () => ({ H: HIST, A: window.GDC_AUTO || {}, AF: africaData() });
 
@@ -1445,12 +1448,38 @@
     return Math.ceil(max / (pow / 2)) * (pow / 2);
   };
   const axisFmt = (v, dec) => (Math.abs(v) >= 1000 ? fmt(v, 0) : fmt(v, dec ?? (Math.abs(v) < 10 ? 1 : 0)));
+  const showAt = (v, o) => `${o.pre || ""}${axisFmt(v, o.dec)}${o.unit || ""}`;
 
-  // a line (or area) over an evenly spaced series, with a crosshair on hover
+  // Axis labels, shortened to suit the span. Slicing the last four characters off every label
+  // turns a run of months into a row of identical years, and an ISO date into nonsense, so the
+  // shape of the labels decides what is shown.
+  const MON_SHORT = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  function axisTicks(labels) {
+    const strs = labels.map(l => String(l));
+    const years = new Set(strs.map(l => (l.match(/(19|20)\d{2}/) || [])[0]).filter(Boolean));
+    const manyYears = years.size > 1;
+    return strs.map(l => {
+      const iso = /^(\d{4})-(\d{2})-(\d{2})$/.exec(l);
+      if (iso) return manyYears ? `${MON_SHORT[+iso[2] - 1]} ${iso[1].slice(2)}` : `${+iso[3]} ${MON_SHORT[+iso[2] - 1]}`;
+      const mon = /^([A-Za-z]{3})[a-z]*\s+((19|20)\d{2})$/.exec(l);
+      if (mon) return manyYears ? `${mon[1]} ${mon[2].slice(2)}` : mon[1];
+      const yr = /^((19|20)\d{2})$/.exec(l.trim());
+      if (yr) return yr[1];
+      return l.length > 9 ? l.slice(-8) : l;          // anything else: keep it short
+    });
+  }
+
+  // Every chart returns its picture AND the numbers behind it, so the same payload can feed
+  // the read-out under the pointer, the table view and the CSV download. One source, three uses.
+  function chartData(cols, rows, colors, opts) {
+    return { cols, rows, colors, unit: opts.unit || "", pre: opts.pre || "", dec: opts.dec };
+  }
+
+  // a line (or area) over an evenly spaced series
   function pLine(series, opts = {}) {
     const W = 760, H = 300, L = 54, R = 16, T = 18, B = 34;
     const all = series.flatMap(s => s.points.map(p => p.value));
-    if (!all.length) return "";
+    if (!all.length) return null;
     const min = Math.min(...all), max = Math.max(...all);
     const lo = opts.zero === false ? Math.max(0, min - (max - min) * 0.35) : Math.min(0, min);
     const hi = opts.zero === false ? max + (max - min) * 0.25 : niceTop(max);
@@ -1466,135 +1495,363 @@
         ? `<path class="c-area" d="${d}L${x(s.points.length - 1).toFixed(1)},${y(lo).toFixed(1)}L${x(0).toFixed(1)},${y(lo).toFixed(1)}Z" fill="${SERIES[i]}" opacity=".14"/>` : "";
       const last = s.points[s.points.length - 1];
       return `${area}<path d="${d}" fill="none" stroke="${SERIES[i]}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-        <circle cx="${x(s.points.length - 1).toFixed(1)}" cy="${y(last.value).toFixed(1)}" r="4.5" fill="${SERIES[i]}" stroke="var(--panel)" stroke-width="2"/>
+        <circle cx="${x(s.points.length - 1).toFixed(1)}" cy="${y(last.value).toFixed(1)}" r="4.5" fill="${SERIES[i]}" stroke="#0d1211" stroke-width="2"/>
         <text class="c-tip-label" x="${(x(s.points.length - 1) - 8).toFixed(1)}" y="${(y(last.value) + (i === 0 ? -12 : 18)).toFixed(1)}" text-anchor="end" fill="${SERIES[i]}">${esc(s.name)} ${axisFmt(last.value, opts.dec)}</text>`;
     }).join("");
 
-    const hot = labels.map((lab, k) => {
-      const vals = series.map(s => `${esc(s.name)}: ${opts.pre || ""}${axisFmt(s.points[k] ? s.points[k].value : NaN, opts.dec)}${opts.unit || ""}`).join(" · ");
-      return `<rect class="c-hot" x="${(x(k) - (W - L - R) / (labels.length * 2)).toFixed(1)}" y="${T}" width="${((W - L - R) / labels.length).toFixed(1)}" height="${H - T - B}" fill="transparent"><title>${esc(lab)} — ${vals}</title></rect>`;
-    }).join("");
+    // the crosshair, and one wide hit target per point so a finger can find it
+    const marks = labels.map((lab, k) => series.map((s, i) => {
+      const p = s.points[k];
+      return p ? `<circle class="c-dot" data-i="${k}" cx="${x(k).toFixed(1)}" cy="${y(p.value).toFixed(1)}" r="3.5" fill="${SERIES[i]}"/>` : "";
+    }).join("")).join("");
+    const hot = labels.map((lab, k) =>
+      `<rect class="c-hot" data-i="${k}" data-x="${x(k).toFixed(1)}" x="${(x(k) - (W - L - R) / (labels.length * 2)).toFixed(1)}" y="${T}" width="${Math.max(10, (W - L - R) / labels.length).toFixed(1)}" height="${H - T - B}" fill="transparent"/>`).join("");
 
-    return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+    const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
       ${ticks.map(t => `<line class="c-grid" x1="${L}" x2="${W - R}" y1="${y(t).toFixed(1)}" y2="${y(t).toFixed(1)}"/>
         <text class="c-axis" x="${L - 9}" y="${(y(t) + 4).toFixed(1)}" text-anchor="end">${axisFmt(t, opts.dec)}</text>`).join("")}
-      ${labels.map((lab, k) => (k % step === 0 || k === labels.length - 1)
-        ? `<text class="c-axis" x="${x(k).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(String(lab).slice(-4))}</text>` : "").join("")}
-      ${paths}${hot}
+      ${axisTicks(labels).map((lab, k) => (k % step === 0 || k === labels.length - 1)
+        ? `<text class="c-axis" x="${x(k).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(lab)}</text>` : "").join("")}
+      <line class="c-cross" x1="0" x2="0" y1="${T}" y2="${H - B}" style="opacity:0"/>
+      ${paths}${marks}${hot}
     </svg>`;
+
+    const rows = labels.map((lab, k) => [lab, ...series.map(s => (s.points[k] ? s.points[k].value : null))]);
+    return { svg, data: chartData([opts.xName || "Period", ...series.map(s => s.name)], rows, SERIES.slice(0, series.length), opts) };
   }
 
   // vertical bars for one measure across a handful of periods
   function pBars(points, opts = {}) {
     const W = 760, H = 300, L = 54, R = 16, T = 18, B = 34;
-    if (!points.length) return "";
+    if (!points.length) return null;
     const hi = niceTop(Math.max(...points.map(p => p.value)));
     const bw = (W - L - R) / points.length;
     const y = v => T + (H - T - B) * (1 - v / (hi || 1));
     const ticks = [0, 0.25, 0.5, 0.75, 1].map(f => hi * f);
-    return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+    const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
       ${ticks.map(t => `<line class="c-grid" x1="${L}" x2="${W - R}" y1="${y(t).toFixed(1)}" y2="${y(t).toFixed(1)}"/>
         <text class="c-axis" x="${L - 9}" y="${(y(t) + 4).toFixed(1)}" text-anchor="end">${axisFmt(t, opts.dec)}</text>`).join("")}
-      ${points.map((p, i) => {
+      ${(() => { const ticks = axisTicks(points.map(p => p.date)); return points.map((p, i) => {
         const h = Math.max(2, H - B - y(p.value));
         const px = L + i * bw + bw * 0.16, pw = bw * 0.68;
-        return `<rect class="c-bar" x="${px.toFixed(1)}" y="${y(p.value).toFixed(1)}" width="${pw.toFixed(1)}" height="${h.toFixed(1)}" rx="4" fill="${p.accent ? SERIES[3] : SERIES[0]}"><title>${esc(p.date)}: ${opts.pre || ""}${axisFmt(p.value, opts.dec)}${opts.unit || ""}</title></rect>
-          <text class="c-axis" x="${(px + pw / 2).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(p.date)}</text>
+        return `<rect class="c-bar c-hot" data-i="${i}" x="${px.toFixed(1)}" y="${y(p.value).toFixed(1)}" width="${pw.toFixed(1)}" height="${h.toFixed(1)}" rx="4" fill="${p.accent ? SERIES[3] : SERIES[0]}"/>
+          <text class="c-axis" x="${(px + pw / 2).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(ticks[i])}</text>
           ${i === points.length - 1 || points.length <= 8 ? `<text class="c-val" x="${(px + pw / 2).toFixed(1)}" y="${(y(p.value) - 7).toFixed(1)}" text-anchor="middle">${axisFmt(p.value, opts.dec)}</text>` : ""}`;
-      }).join("")}
+      }).join(""); })()}
     </svg>`;
+    return { svg, data: chartData([opts.xName || "Period", opts.name || "Value"], points.map(p => [p.date, p.value]), [SERIES[0]], opts) };
   }
 
   // horizontal bars: good for ranking a list by size
   function pHBars(rows, opts = {}) {
     const W = 760, rowH = 30, T = 10, L = 158, R = 58;
-    if (!rows.length) return "";
+    if (!rows.length) return null;
     const H = T * 2 + rows.length * rowH;
     const hi = niceTop(Math.max(...rows.map(r => r.value)));
     const w = v => Math.max(2, (W - L - R) * (v / (hi || 1)));
-    return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+    const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
       ${rows.map((r, i) => {
         const yy = T + i * rowH;
         return `<text class="c-axis c-name" x="${L - 10}" y="${(yy + rowH / 2 + 4).toFixed(1)}" text-anchor="end">${esc(r.name)}</text>
-          <rect class="c-bar" x="${L}" y="${(yy + 5).toFixed(1)}" width="${w(r.value).toFixed(1)}" height="${rowH - 12}" rx="4" fill="${r.accent ? SERIES[3] : SERIES[0]}"><title>${esc(r.name)}: ${opts.pre || ""}${axisFmt(r.value, opts.dec)}${opts.unit || ""}</title></rect>
+          <rect class="c-bar c-hot" data-i="${i}" x="${L}" y="${(yy + 5).toFixed(1)}" width="${w(r.value).toFixed(1)}" height="${rowH - 12}" rx="4" fill="${r.accent ? SERIES[3] : SERIES[0]}"/>
           <text class="c-val" x="${(L + w(r.value) + 8).toFixed(1)}" y="${(yy + rowH / 2 + 4).toFixed(1)}">${opts.pre || ""}${axisFmt(r.value, opts.dec)}${opts.unit || ""}</text>`;
       }).join("")}
     </svg>`;
+    return { svg, data: chartData([opts.xName || "Name", opts.name || "Value"], rows.map(r => [r.name, r.value]), [SERIES[0]], opts) };
   }
 
-  function chartCard(title, blurb, svg, source, legend) {
-    if (!svg) return "";
-    return `<figure class="chart-card">
+  /* ---- a chart card: the picture, the numbers behind it, and a way to take both away ---- */
+  let chartSeq = 0;
+  function chartCard(title, blurb, chart, source, legend) {
+    if (!chart || !chart.svg) return "";
+    const id = `ch${++chartSeq}`;
+    const d = chart.data;
+    return `<figure class="chart-card" id="${id}" data-title="${esc(title)}">
       <figcaption>
         <h3>${esc(title)}</h3>
         <p>${esc(blurb)}</p>
         ${legend && legend.length > 1 ? `<div class="c-legend">${legend.map((n, i) => `<span><i style="background:${SERIES[i]}"></i>${esc(n)}</span>`).join("")}</div>` : ""}
       </figcaption>
-      <div class="chart-box">${svg}</div>
+      <div class="chart-box">
+        ${chart.svg}
+        <div class="c-tip" hidden></div>
+      </div>
+      <div class="c-tools">
+        <button type="button" class="c-btn" data-table="${id}" aria-expanded="false">Read the numbers</button>
+        <span class="c-tools-right">
+          <button type="button" class="c-btn" data-png="${id}">Download PNG</button>
+          <button type="button" class="c-btn" data-csv="${id}">Download CSV</button>
+        </span>
+      </div>
+      <div class="c-table-wrap" hidden>
+        <table class="rank-table c-table">
+          <thead><tr>${d.cols.map(c => `<th>${esc(c)}</th>`).join("")}</tr></thead>
+          <tbody>${d.rows.map(r => `<tr>${r.map((v, i) => `<td${i ? ' class="v"' : ""}>${i === 0 ? esc(String(v)) : (v == null ? "\—" : esc(showAt(v, d)))}</td>`).join("")}</tr>`).join("")}</tbody>
+        </table>
+      </div>
       <p class="c-src">${esc(source)}</p>
+      <script type="application/json" class="c-json">${JSON.stringify(d).replace(/</g, "\\\u003c")}</script>
     </figure>`;
   }
 
+  /* ---- reading a chart: a read-out that follows the pointer, and works under a finger ---- */
+  const chartPayload = fig => {
+    if (!fig._data) {
+      const tag = fig.querySelector(".c-json");
+      try { fig._data = JSON.parse(tag.textContent); } catch (e) { fig._data = null; }
+    }
+    return fig._data;
+  };
+  function showChartTip(fig, i, clientX) {
+    const d = chartPayload(fig);
+    const tip = fig.querySelector(".c-tip");
+    const box = fig.querySelector(".chart-box");
+    if (!d || !tip || !d.rows[i]) return;
+    const row = d.rows[i];
+    tip.innerHTML = `<b>${esc(String(row[0]))}</b>` + row.slice(1).map((v, j) =>
+      `<span><i style="background:${d.colors[j] || SERIES[0]}"></i>${esc(d.cols[j + 1])} <b>${v == null ? "\—" : esc(showAt(v, d))}</b></span>`).join("");
+    tip.hidden = false;
+    const r = box.getBoundingClientRect();
+    const half = tip.offsetWidth / 2;
+    const at = Math.min(Math.max((clientX == null ? r.left + r.width / 2 : clientX) - r.left, half + 6), r.width - half - 6);
+    tip.style.left = `${at}px`;
+
+    // the crosshair, on charts that have one
+    const cross = fig.querySelector(".c-cross");
+    const hot = fig.querySelector(`.c-hot[data-i="${i}"]`);
+    if (cross && hot && hot.dataset.x) {
+      cross.setAttribute("x1", hot.dataset.x);
+      cross.setAttribute("x2", hot.dataset.x);
+      cross.style.opacity = "1";
+    }
+    fig.querySelectorAll(".c-dot").forEach(c => c.classList.toggle("on", c.dataset.i === String(i)));
+    fig.querySelectorAll(".c-bar").forEach(b => b.classList.toggle("dim", b.dataset.i !== String(i)));
+  }
+  function hideChartTip(fig) {
+    const tip = fig.querySelector(".c-tip");
+    if (tip) tip.hidden = true;
+    const cross = fig.querySelector(".c-cross");
+    if (cross) cross.style.opacity = "0";
+    fig.querySelectorAll(".c-dot.on").forEach(c => c.classList.remove("on"));
+    fig.querySelectorAll(".c-bar.dim").forEach(b => b.classList.remove("dim"));
+  }
+
+  /* ---- taking a chart away: the picture as PNG, the numbers as CSV ---- */
+  const saveBlob = (blob, name) => {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = name;
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 4000);
+  };
+  const fileName = (fig, ext) =>
+    `${(fig.dataset.title || "chart").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}-${new Date().toISOString().slice(0, 10)}.${ext}`;
+
+  function chartToCsv(fig) {
+    const d = chartPayload(fig);
+    if (!d) return;
+    const cell = v => (v == null ? "" : /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : String(v));
+    const lines = [d.cols.map(cell).join(","), ...d.rows.map(r => r.map(cell).join(","))];
+    saveBlob(new Blob([lines.join("\n")], { type: "text/csv;charset=utf-8" }), fileName(fig, "csv"));
+  }
+
+  // The SVG on the page leans on the stylesheet for its greys. A file saved to disk has no
+  // stylesheet, so every computed colour is written onto the clone before it is rasterised.
+  function chartToPng(fig) {
+    const src = fig.querySelector("svg");
+    if (!src) return;
+    const clone = src.cloneNode(true);
+    const css = getComputedStyle(document.documentElement);
+    const panel = (css.getPropertyValue("--panel") || "#0d1211").trim();
+    const ink3 = (css.getPropertyValue("--ink-3") || "#8a9a94").trim();
+    const line = (css.getPropertyValue("--line") || "#1d2725").trim();
+    const ink = (css.getPropertyValue("--ink") || "#eef3f1").trim();
+    clone.querySelectorAll(".c-grid").forEach(el => { el.setAttribute("stroke", line); el.setAttribute("stroke-width", "1"); });
+    clone.querySelectorAll(".c-axis").forEach(el => { el.setAttribute("fill", ink3); el.setAttribute("font-size", "11"); el.setAttribute("font-family", "system-ui, sans-serif"); });
+    clone.querySelectorAll(".c-val, .c-tip-label").forEach(el => { if (!el.getAttribute("fill")) el.setAttribute("fill", ink); el.setAttribute("font-size", "12"); el.setAttribute("font-family", "system-ui, sans-serif"); el.setAttribute("font-weight", "600"); });
+    // the invisible hit targets go, but a bar is both a mark and its own hit target
+    clone.querySelectorAll(".c-hot:not(.c-bar), .c-cross, .c-tip, .c-dot").forEach(el => el.remove());
+    clone.querySelectorAll("[stroke^='var('], [fill^='var(']").forEach(el => {
+      if ((el.getAttribute("stroke") || "").startsWith("var(")) el.setAttribute("stroke", panel);
+      if ((el.getAttribute("fill") || "").startsWith("var(")) el.setAttribute("fill", panel);
+    });
+    const vb = (src.getAttribute("viewBox") || "0 0 760 300").split(/\s+/).map(Number);
+    const w = vb[2] || 760, plot = vb[3] || 300, scale = 2;
+    // room above for the title and below for the source, so the file explains itself
+    const TOP = 56, FOOT = 30, h = plot + TOP + FOOT;
+    const title = fig.dataset.title || "";
+    const srcText = (fig.querySelector(".c-src") || {}).textContent || "";
+    [...clone.children].forEach(el => el.setAttribute("transform", `translate(0, ${TOP})`));
+    const wrapped = `<g transform="translate(0,${TOP})">${[...clone.children].map(el => { el.removeAttribute("transform"); return el.outerHTML; }).join("")}</g>`;
+    clone.innerHTML = `<rect x="0" y="0" width="${w}" height="${h}" fill="${panel}"/>
+      <text x="20" y="34" fill="${ink}" font-family="system-ui, sans-serif" font-size="20" font-weight="700">${esc(title)}</text>
+      ${wrapped}
+      <text x="20" y="${h - 11}" fill="${ink3}" font-family="system-ui, sans-serif" font-size="12">${esc(srcText)} · alfredo19-boss.github.io/alfre-do-ghana-economic-data</text>`;
+    clone.setAttribute("viewBox", `0 0 ${w} ${h}`);
+    clone.setAttribute("width", w); clone.setAttribute("height", h);
+    clone.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+
+    const svgText = new XMLSerializer().serializeToString(clone);
+    const img = new Image();
+    img.onload = () => {
+      const cv = document.createElement("canvas");
+      cv.width = w * scale; cv.height = h * scale;
+      const ctx = cv.getContext("2d");
+      ctx.fillStyle = panel; ctx.fillRect(0, 0, cv.width, cv.height);
+      ctx.drawImage(img, 0, 0, cv.width, cv.height);
+      cv.toBlob(b => { if (b) saveBlob(b, fileName(fig, "png")); }, "image/png");
+    };
+    img.onerror = () => { /* a browser that refuses the conversion: the CSV is still there */ };
+    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgText);
+  }
+
+  /* ---- the charts themselves ---- */
   function renderCharts() {
     const { H, A, AF } = chartsData();
     const cards = [];
     const seriesOf_ = key => (H[key] && H[key].points) || [];
+    const readSeries = label => {
+      const it = allItems.find(i => i.label === label);
+      return it && Array.isArray(it.series) ? it.series.map(p => ({ date: p.date, value: p.value })) : [];
+    };
 
     // the debt itself
     const debtBars = (D.history || []).filter(h => h.debt).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.debt }));
-    cards.push(chartCard("Public debt, GH¢ billion", "Year-end stock, with the latest reported month at the end.",
-      pBars(debtBars, { unit: "bn", dec: 0, alt: "Ghana's public debt stock by year" }), "Bank of Ghana · Ministry of Finance"));
+    cards.push(chartCard("Public debt, GH\¢ billion", "Year-end stock, with the latest reported month at the end.",
+      pBars(debtBars, { unit: "bn", dec: 0, name: "Public debt", xName: "Period", alt: "Ghana's public debt stock by year" }), "Bank of Ghana \· Ministry of Finance"));
 
     const ratioBars = (D.history || []).filter(h => h.ratio).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.ratio }));
     cards.push(chartCard("Debt-to-GDP, %", "The burden has almost halved since the 2022 peak.",
-      pBars(ratioBars, { unit: "%", dec: 1, alt: "Ghana's debt-to-GDP ratio by year" }), "Bank of Ghana · Ministry of Finance"));
+      pBars(ratioBars, { unit: "%", dec: 1, name: "Debt-to-GDP", xName: "Period", alt: "Ghana's debt-to-GDP ratio by year" }), "Bank of Ghana \· Ministry of Finance"));
+
+    // debt carried per person, worked out from the two series the site already holds
+    const popSeries = seriesOf_("population");
+    if (debtBars.length && popSeries.length) {
+      const popAtYear = yr => {
+        const hit = popSeries.filter(p => String(p.date).slice(0, 4) <= String(yr)).slice(-1)[0];
+        return hit ? hit.value : null;
+      };
+      const perHead = debtBars.map(b => {
+        const yr = (String(b.date).match(/(19|20)\d{2}/) || [])[0];
+        const pop = yr ? popAtYear(yr) : null;
+        return pop ? { date: b.date, value: b.value * 1e9 / pop } : null;
+      }).filter(Boolean);
+      if (perHead.length > 2) cards.push(chartCard("Debt per person, GH\¢", "The same debt divided by the population of the year it belongs to.",
+        pLine([{ name: "Per person", points: perHead }], { area: true, pre: "GH\¢", dec: 0, zero: false, xName: "Period", alt: "Ghana's public debt per person" }),
+        "Ghana Statistical Service \· Bank of Ghana"));
+    }
 
     // prices and the cedi
     const infl = seriesOf_("Inflation");
     cards.push(chartCard("Inflation since 1993, %", "Annual average consumer price inflation. The 1990s peaks dwarf anything since.",
-      pLine([{ name: "Inflation", points: infl }], { area: true, unit: "%", dec: 1, alt: "Ghana's annual inflation since 1993" }), "World Bank, World Development Indicators"));
+      pLine([{ name: "Inflation", points: infl }], { area: true, unit: "%", dec: 1, xName: "Year", alt: "Ghana's annual inflation since 1993" }), "World Bank, World Development Indicators"));
 
-    // the daily job's own record where it exists, otherwise the readings entered by hand
-    const daily = (A.cediHistory || []).slice(-180).map(p => ({ date: p.date, value: p.rate }));
-    const cedi = daily.length > 3 ? daily : (D.cedi || []).map(p => ({ date: p.label || p.date, value: p.rate }));
+    // inflation against the policy rate, both in per cent, so one scale serves both
+    const inflMonthly = readSeries("Inflation"), policy = readSeries("BoG policy rate");
+    if (inflMonthly.length > 2 && policy.length > 2) {
+      const dates = inflMonthly.map(p => p.date).filter(d => policy.some(q => q.date === d));
+      if (dates.length > 2) {
+        const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
+        cards.push(chartCard("Inflation and the policy rate, %", "What prices are doing, against what the Bank of Ghana charges. The gap between them is the real rate.",
+          pLine([
+            { name: "Inflation", points: dates.map(d => ({ date: d, value: pick(inflMonthly, d) })) },
+            { name: "Policy rate", points: dates.map(d => ({ date: d, value: pick(policy, d) })) }
+          ], { unit: "%", dec: 1, zero: false, xName: "Month", alt: "Ghana's inflation against the policy rate" }),
+          "Ghana Statistical Service \· Bank of Ghana", ["Inflation", "Policy rate"]));
+      }
+    }
+
+    const cedi = (A.cediHistory || []).map(c => ({ date: c.date, value: c.rate }));
+    const cediPts = cedi.length > 3 ? cedi : (D.cedi || []).map(c => ({ date: c.label || c.date, value: c.rate }));
     cards.push(chartCard("Cedi per US dollar", "Every Bank of Ghana interbank rate this site has recorded.",
-      pLine([{ name: "GH¢ per US$", points: cedi }], { area: true, zero: false, pre: "GH¢", dec: 2, alt: "Cedi per US dollar over recent months" }), "Bank of Ghana interbank mid-rate"));
+      pLine([{ name: "GH\¢ per US$", points: cediPts }], { area: true, zero: false, pre: "GH\¢", dec: 2, xName: "Date", alt: "Cedi per US dollar over recent months" }), "Bank of Ghana interbank mid-rate"));
 
-    // trade, two series on one axis
+    // what a litre costs
+    const petrol = readSeries("Petrol"), diesel = readSeries("Diesel");
+    if (petrol.length > 2 && diesel.length > 2) {
+      const dates = petrol.map(p => p.date).filter(d => diesel.some(q => q.date === d));
+      if (dates.length > 2) {
+        const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
+        cards.push(chartCard("Petrol and diesel, GH\¢ a litre", "Pump prices as published, the figure that reaches the trotro fare fastest.",
+          pLine([
+            { name: "Petrol", points: dates.map(d => ({ date: d, value: pick(petrol, d) })) },
+            { name: "Diesel", points: dates.map(d => ({ date: d, value: pick(diesel, d) })) }
+          ], { pre: "GH\¢", dec: 2, zero: false, xName: "Date", alt: "Petrol and diesel pump prices" }),
+          "National Petroleum Authority", ["Petrol", "Diesel"]));
+      }
+    }
+
+    // the wider economy, year by year
+    const growth = seriesOf_("Real GDP growth");
+    if (growth.length > 3) cards.push(chartCard("Real GDP growth, %", "How fast the economy grew each year. 2020 is the pandemic; 2023 the crisis year.",
+      pBars(growth.slice(-16), { unit: "%", dec: 1, name: "Real GDP growth", xName: "Year", alt: "Ghana's real GDP growth by year" }), "World Bank, World Development Indicators"));
+
+    const income = seriesOf_("Income per person");
+    if (income.length > 3) cards.push(chartCard("Income per person, US$", "Gross national income per head. The dip after 2022 is the cedi as much as the economy.",
+      pLine([{ name: "Income per person", points: income }], { area: true, pre: "US$", dec: 0, zero: false, xName: "Year", alt: "Ghana's income per person" }), "World Bank, World Development Indicators"));
+
+    const reserves = seriesOf_("Gross reserves");
+    if (reserves.length > 3) cards.push(chartCard("Gross reserves, US$ billion", "What the country holds in foreign currency \— the buffer behind the cedi.",
+      pLine([{ name: "Gross reserves", points: reserves }], { area: true, pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's gross international reserves" }), "World Bank \· Bank of Ghana"));
+
+    const remit = seriesOf_("Remittances");
+    if (remit.length > 3) cards.push(chartCard("Remittances, US$ billion", "Money sent home by Ghanaians abroad \— bigger than most export lines.",
+      pLine([{ name: "Remittances", points: remit }], { area: true, pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Remittances to Ghana" }), "World Bank, World Development Indicators"));
+
+    const jobless = seriesOf_("Unemployment rate");
+    if (jobless.length > 3) cards.push(chartCard("Unemployment rate, %", "The modelled international estimate, which runs lower than Ghana's own survey.",
+      pLine([{ name: "Unemployment", points: jobless }], { area: true, unit: "%", dec: 1, zero: false, xName: "Year", alt: "Ghana's unemployment rate" }), "World Bank / ILO modelled estimate"));
+
+    const people = seriesOf_("population");
+    if (people.length > 3) cards.push(chartCard("Population, millions", "Ghana has roughly doubled in a generation \— the denominator under every per-person figure on this site.",
+      pLine([{ name: "Population", points: people.map(p => ({ date: p.date, value: p.value / 1e6 })) }], { unit: "m", dec: 1, area: true, zero: false, xName: "Year", alt: "Ghana's population" }), "World Bank, World Development Indicators"));
+
+    // trade
     const ex = seriesOf_("exports"), im = seriesOf_("imports");
-    if (ex.length && im.length) {
-      const years = ex.filter(p => im.some(q => q.date === p.date)).slice(-20);
+    if (ex.length > 3 && im.length > 3) {
+      const years = ex.map(p => p.date).filter(d => im.some(q => q.date === d));
+      const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
       cards.push(chartCard("Exports and imports, US$ billion", "Goods and services for the whole year. The gap between the lines is the trade balance.",
         pLine([
-          { name: "Exports", points: years },
-          { name: "Imports", points: years.map(p => ({ date: p.date, value: (im.find(q => q.date === p.date) || {}).value })) }
-        ], { pre: "US$", unit: "bn", dec: 1, alt: "Ghana's exports and imports by year" }),
+          { name: "Exports", points: years.map(d => ({ date: d, value: pick(ex, d) })) },
+          { name: "Imports", points: years.map(d => ({ date: d, value: pick(im, d) })) }
+        ], { pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's exports against imports" }),
         "World Bank, World Development Indicators", ["Exports", "Imports"]));
+
+      const bal = seriesOf_("balance");
+      if (bal.length > 3) cards.push(chartCard("Trade balance, US$ billion", "Exports minus imports. Above the line is a surplus; the recent run of them is gold-led.",
+        pLine([{ name: "Trade balance", points: bal }], { pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's trade balance" }), "World Bank, World Development Indicators"));
     }
 
-    // gold and cocoa, indexed so one axis serves both
+    // gold and cocoa, indexed so two very different prices share one scale
     const gold = seriesOf_("Gold price"), cocoa = seriesOf_("Cocoa world price");
     if (gold.length > 3 && cocoa.length > 3) {
-      const idx = pts => { const base = pts[0].value; return pts.map(p => ({ date: p.date, value: +(p.value / base * 100).toFixed(1) })); };
-      const from = Math.max(+gold[0].date, +cocoa[0].date);
-      const g = idx(gold.filter(p => +p.date >= from)), c = idx(cocoa.filter(p => +p.date >= from));
-      cards.push(chartCard(`Gold and cocoa, ${from} = 100`, "Ghana's two biggest earners, indexed so they share one scale.",
-        pLine([{ name: "Gold", points: g }, { name: "Cocoa", points: c }], { dec: 0, alt: "Gold and cocoa prices indexed" }),
-        "Yahoo Finance, year-end futures closes", ["Gold", "Cocoa"]));
+      const years = gold.map(p => p.date).filter(d => cocoa.some(q => q.date === d));
+      if (years.length > 3) {
+        const base = (arr, d0) => (arr.find(p => p.date === d0) || {}).value || 1;
+        const from = years[0];
+        const g0 = base(gold, from), c0 = base(cocoa, from);
+        const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
+        cards.push(chartCard(`Gold and cocoa, ${from} = 100`, "Ghana's two biggest earners, indexed so they share one scale.",
+          pLine([
+            { name: "Gold", points: years.map(d => ({ date: d, value: pick(gold, d) / g0 * 100 })) },
+            { name: "Cocoa", points: years.map(d => ({ date: d, value: pick(cocoa, d) / c0 * 100 })) }
+          ], { dec: 0, zero: false, xName: "Year", alt: "Gold and cocoa prices indexed to a common base" }),
+          "Futures settlement prices", ["Gold", "Cocoa"]));
+      }
     }
 
-    // where the 2026 money goes
-    const total = (D.budget.out || []).find(b => b.key === "exp");
-    const parts = (D.budget.out || []).filter(b => !b.sub && b.key !== "exp").map(b => ({ name: b.label, value: b.value / 1e9 }));
-    if (parts.length && total) {
-      const named = parts.reduce((n, p) => n + p.value, 0);
-      const rest = total.value / 1e9 - named;
-      const rows = [...parts, ...(rest > 0 ? [{ name: "Everything else", value: rest }] : [])].sort((a, b) => b.value - a.value);
-      const share = parts.find(p => /interest/i.test(p.name));
-      cards.push(chartCard(`Where the ${Y} budget goes, GH¢ billion`,
-        `The parts of GH¢${fmt(total.value / 1e9, 1)}bn of approved spending${share ? `. Interest on debt alone takes ${fmt(share.value / (total.value / 1e9) * 100, 0)}% of it` : ""}.`,
-        pHBars(rows, { pre: "GH¢", unit: "bn", dec: 1, alt: "2026 budget spending lines" }),
-        `Ministry of Finance, ${Y} budget`));
+    // the budget
+    const bud = budgetItems.filter(b => b.key !== "exp");
+    if (bud.length) {
+      const total = (budgetItems.find(b => b.key === "exp") || {}).value || 0;
+      const named = bud.map(b => ({ name: b.label, value: b.value / 1e9 }));
+      const rest = total / 1e9 - named.reduce((n, b) => n + b.value, 0);
+      cards.push(chartCard(`Where the ${Y} budget goes, GH\¢ billion`,
+        "The approved allocations, with everything not named separately grouped at the end.",
+        pHBars([...named, ...(rest > 0 ? [{ name: "Everything else", value: rest }] : [])].sort((a, b) => b.value - a.value),
+          { pre: "GH\¢", unit: "bn", dec: 1, name: "Allocation", xName: "Line", alt: "How the budget is allocated" }),
+        "Ministry of Finance, budget statement"));
     }
 
     // Ghana against Africa
@@ -1606,13 +1863,173 @@
       const rows = [...list.slice(0, 8), ...(list.slice(0, 8).includes(gh) ? [] : [gh])].filter(Boolean)
         .map(c => ({ name: c.name, value: c.value, accent: c.iso === "GHA" }));
       cards.push(chartCard("Inflation across Africa, %", "The eight highest rates on the continent, with Ghana marked in gold.",
-        pHBars(rows, { unit: "%", dec: 1, alt: "African inflation compared with Ghana" }), AF.source || "National statistics offices"));
+        pHBars(rows, { unit: "%", dec: 1, name: "Inflation", xName: "Country", alt: "African inflation compared with Ghana" }), AF.source || "National statistics offices"));
+
+      const sized = Object.entries(AF.countries).filter(([, c]) => c.gdp && c.gdp.value)
+        .map(([iso, c]) => ({ iso, name: c.name, value: c.gdp.value }))
+        .sort((a, b) => b.value - a.value);
+      if (sized.length > 4) {
+        const ghs = sized.find(c => c.iso === "GHA");
+        const top = sized.slice(0, 8);
+        cards.push(chartCard("The biggest economies in Africa, US$ billion", "Nominal GDP, with Ghana marked in gold wherever it falls.",
+          pHBars([...top, ...(top.includes(ghs) ? [] : [ghs])].filter(Boolean).map(c => ({ name: c.name, value: c.value, accent: c.iso === "GHA" })),
+            { pre: "US$", unit: "bn", dec: 0, name: "GDP", xName: "Country", alt: "The largest African economies by GDP" }),
+          "IMF estimates"));
+      }
     }
 
-    $("chart-wall").innerHTML = cards.filter(Boolean).join("");
-    $("charts-status").textContent = `${cards.filter(Boolean).length} charts`;
-    $("charts-note").textContent = "Every chart is drawn from the same figures as the dashboard — nothing here is smoothed, projected or rebased except where a title says so.";
+    const built = cards.filter(Boolean);
+    $("chart-wall").innerHTML = built.join("");
+    $("charts-status").textContent = `${built.length} charts`;
+    $("charts-note").textContent = "Every chart is drawn from the same figures as the dashboard \— nothing here is smoothed, projected or rebased except where a title says so. Point at any chart, or touch it, to read the value under your finger.";
+    setupChartSlider(built.length);
   }
+
+  /* ---- the charts slide, one at a time, with everything still reachable ---- */
+  // A wall of sixteen charts is a lot to scroll past. By default they slide: one on screen,
+  // arrows and dots to move, and a slow auto-advance that stops the moment anyone touches
+  // the controls, reads a value, or opens a table. "Show all" puts the wall back for anyone
+  // who would rather scan or print the lot.
+  let chartAt = 0, chartTimer = null, chartSlide = true, chartHeld = false;
+  const CHART_EVERY = 11000;
+
+  function chartCards() { return $$("#chart-wall > .chart-card"); }
+  function paintChartSlider() {
+    const cards = chartCards();
+    if (!cards.length) return;
+    if (chartAt >= cards.length) chartAt = 0;
+    if (chartAt < 0) chartAt = cards.length - 1;
+    const wall = $("chart-wall");
+    wall.classList.toggle("sliding", chartSlide);
+    cards.forEach((c, i) => {
+      const on = !chartSlide || i === chartAt;
+      c.classList.toggle("on", on);
+      c.setAttribute("aria-hidden", String(!on));
+    });
+    const dots = $("chart-dots");
+    if (dots) {
+      dots.hidden = !chartSlide;
+      dots.innerHTML = chartSlide ? cards.map((c, i) =>
+        `<button type="button" class="${i === chartAt ? "on" : ""}" data-go="${i}" aria-label="Chart ${i + 1}: ${esc(c.dataset.title || "")}"${i === chartAt ? ' aria-current="true"' : ""}></button>`).join("") : "";
+    }
+    const at = $("chart-at");
+    if (at) at.textContent = chartSlide ? `${chartAt + 1} of ${cards.length}` : `${cards.length} charts`;
+    $$("#chart-prev, #chart-next").forEach(b => (b.hidden = !chartSlide));
+  }
+  function chartGo(n) {
+    const cards = chartCards();
+    if (!cards.length) return;
+    chartAt = (n + cards.length) % cards.length;
+    cards.forEach(c => hideChartTip(c));
+    paintChartSlider();
+  }
+  function setupChartSlider(count) {
+    chartAt = 0;
+    paintChartSlider();
+    if (chartTimer) clearInterval(chartTimer);
+    if (!count) return;
+    chartTimer = setInterval(() => {
+      if (!chartSlide || chartHeld) return;
+      if (VIEWS.charts.el.hidden) return;                       // nobody is looking
+      if (document.hidden) return;                              // the tab is in the background
+      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+      chartGo(chartAt + 1);
+    }, CHART_EVERY);
+  }
+
+  // reading a value: pointer, finger or the keyboard's own focus
+  (() => {
+    const wall = $("chart-wall");
+    if (!wall) return;
+    const figOf = e => e.target.closest && e.target.closest(".chart-card");
+    // A finger is not a mouse: a tap fires pointerdown, then a pointerleave a moment later as
+    // the finger lifts. Hiding on that would flash the read-out and take it away again, so on
+    // touch the value stays put until the next tap somewhere else.
+    let touching = false;
+    wall.addEventListener("pointermove", e => {
+      if (e.pointerType === "touch") return;
+      const fig = figOf(e); if (!fig) return;
+      const hot = e.target.closest(".c-hot");
+      if (hot) { chartHeld = true; showChartTip(fig, +hot.dataset.i, e.clientX); }
+      else hideChartTip(fig);
+    });
+    wall.addEventListener("pointerdown", e => {
+      touching = e.pointerType === "touch";
+      const fig = figOf(e); if (!fig) return;
+      const hot = e.target.closest(".c-hot");
+      if (hot) { chartHeld = true; showChartTip(fig, +hot.dataset.i, e.clientX); }
+      else if (touching) hideChartTip(fig);
+    });
+    wall.addEventListener("pointerleave", e => {
+      if (touching || e.pointerType === "touch") return;
+      chartCards().forEach(hideChartTip);
+      chartHeld = false;
+    }, true);
+    wall.addEventListener("mouseleave", e => {
+      if (touching) return;
+      const fig = figOf(e); if (fig) hideChartTip(fig);
+    }, true);
+    // a tap anywhere off the charts clears the read-out
+    document.addEventListener("pointerdown", e => {
+      if (!touching) return;
+      if (e.target.closest && e.target.closest(".chart-box")) return;
+      chartCards().forEach(hideChartTip);
+    }, true);
+
+    // the buttons under each chart
+    wall.addEventListener("click", e => {
+      const fig = figOf(e); if (!fig) return;
+      const t = e.target.closest("button"); if (!t) return;
+      if (t.dataset.png) { chartHeld = true; chartToPng(fig); return; }
+      if (t.dataset.csv) { chartHeld = true; chartToCsv(fig); return; }
+      if (t.dataset.table) {
+        chartHeld = true;
+        const box = fig.querySelector(".c-table-wrap");
+        const open = box.hidden;
+        box.hidden = !open;
+        t.setAttribute("aria-expanded", String(open));
+        t.textContent = open ? "Hide the numbers" : "Read the numbers";
+      }
+    });
+  })();
+
+  // the slider's own controls
+  (() => {
+    const prev = $("chart-prev"), next = $("chart-next"), dots = $("chart-dots"), all = $("chart-all");
+    if (prev) prev.addEventListener("click", () => { chartHeld = true; chartGo(chartAt - 1); });
+    if (next) next.addEventListener("click", () => { chartHeld = true; chartGo(chartAt + 1); });
+    if (dots) dots.addEventListener("click", e => {
+      const b = e.target.closest("button[data-go]");
+      if (b) { chartHeld = true; chartGo(+b.dataset.go); }
+    });
+    if (all) all.addEventListener("click", () => {
+      chartSlide = !chartSlide;
+      chartHeld = true;
+      all.textContent = chartSlide ? "Show all" : "Show one at a time";
+      all.setAttribute("aria-pressed", String(!chartSlide));
+      paintChartSlider();
+      if (!chartSlide) window.scrollTo({ top: window.scrollY, behavior: "instant" });
+    });
+    // arrow keys move through the charts while the portal is open
+    document.addEventListener("keydown", e => {
+      if (VIEWS.charts.el.hidden || !chartSlide) return;
+      if (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+      if (e.key === "ArrowRight") { chartHeld = true; chartGo(chartAt + 1); }
+      if (e.key === "ArrowLeft") { chartHeld = true; chartGo(chartAt - 1); }
+    });
+    // a swipe on a touch screen
+    let x0 = null;
+    const wall = $("chart-wall");
+    if (wall) {
+      wall.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; }, { passive: true });
+      wall.addEventListener("touchend", e => {
+        if (x0 == null || !chartSlide) return;
+        const dx = e.changedTouches[0].clientX - x0;
+        if (Math.abs(dx) > 60) { chartHeld = true; chartGo(chartAt + (dx < 0 ? 1 : -1)); }
+        x0 = null;
+      }, { passive: true });
+    }
+  })();
 
   /* ================= global markets, and the Ghana Stock Exchange ================= */
   const marketsData = () => window.GDC_MARKETS || null;

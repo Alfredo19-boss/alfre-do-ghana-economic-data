@@ -533,9 +533,22 @@
         <div>
           <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
           <h1 id="h-charts">Ghana in pictures</h1>
-          <p class="news-intro">The same figures as the dashboard, drawn instead of listed. Hover or touch any chart to read a value; every one names its source and the years it covers.</p>
+          <p class="news-intro">The same figures as the dashboard, drawn instead of listed. They slide one at a time — use the arrows, the dots, arrow keys or a swipe. Point at any chart, or touch it, to read the value under your finger; every chart can be read as a table and taken away as a picture or a spreadsheet.</p>
         </div>
         <span class="live"><i></i><span id="charts-status">Drawing…</span></span>
+      </div>
+      <div class="chart-bar">
+        <div class="chart-bar-left">
+          <button type="button" class="c-nav" id="chart-prev" aria-label="Previous chart">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+          </button>
+          <button type="button" class="c-nav" id="chart-next" aria-label="Next chart">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>
+          </button>
+          <span class="chart-at" id="chart-at"></span>
+        </div>
+        <div class="chart-dots" id="chart-dots" role="tablist" aria-label="Choose a chart"></div>
+        <button type="button" class="c-btn" id="chart-all" aria-pressed="false">Show all</button>
       </div>
       <div class="chart-wall" id="chart-wall"></div>
       <p class="note" id="charts-note"></p>
