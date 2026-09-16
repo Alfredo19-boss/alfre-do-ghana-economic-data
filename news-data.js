@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-16T22:48:13.044Z",
+  "updated": "2026-09-16T23:50:37.116Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,8 +25,8 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)"
   ],

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T22:48:27.818Z",
+  "updated": "2026-09-16T23:50:53.715Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jordan Ayew, Yirenkyi feature as Ghanaian trio exit Carabao Cup",
+      "link": "https://www.myjoyonline.com/jordan-ayew-yirenkyi-feature-as-ghanaian-trio-exit-carabao-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:53:39.000Z",
+      "summary": "Jordan Ayew came off the bench in the 58th minute as Sheffield United were eliminated from the Carabao Cup in the third round following a defeat to lower-league Fleetwood Town. Ayew, who…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Brandon Thomas Asante",
+        "Caleb Yirenkyi",
+        "Carabao cup",
+        "Jordan Ayew"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Microsoft says AI rival Anthropic could have ‘disastrous impact’ on humanity",
       "link": "https://www.myjoyonline.com/microsoft-says-ai-rival-anthropic-could-have-disastrous-impact-on-humanity/",
@@ -117,19 +133,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Football",
         "Sports",
-        "Brighton",
-        "Man United"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man United lose to Brighton from 2-0 up to end 50-year record",
-      "link": "https://www.myjoyonline.com/man-united-lose-to-brighton-from-2-0-up-to-end-50-year-record-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T21:51:00.000Z",
-      "summary": "Manchester United suffered a humiliating Carabao Cup exit at Old Trafford as Brighton came from two goals down to reach the last 16.",
-      "categories": [
-        "Football",
         "Brighton",
         "Man United"
       ],
