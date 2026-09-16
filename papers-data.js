@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-15T22:42:33.386Z",
+  "updated": "2026-09-16T00:50:03.407Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "US borrowing costs hit highest level since 2007",
+      "link": "https://www.myjoyonline.com/us-borrowing-costs-hit-highest-level-since-2007/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T22:45:45.000Z",
+      "summary": "US government borrowing costs climbed to their highest level since 2007 after a jump in oil prices further fuelled inflation concerns.",
+      "categories": [
+        "International",
+        "US borowing"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kylian Mbappé scores, sets up winner as Real Madrid top Elche",
       "link": "https://www.myjoyonline.com/kylian-mbappe-scores-sets-up-winner-as-real-madrid-top-elche/",
@@ -119,20 +131,6 @@ window.GDC_PAPERS = {
         "Events",
         "Dancetera",
         "Ghana Dance Festival 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dowman scores twice as Arsenal beat Ipswich",
-      "link": "https://www.myjoyonline.com/dowman-scores-twice-as-arsenal-beat-ipswich-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T22:09:00.000Z",
-      "summary": "Max Dowman scored twice as Arsenal eased to a Carabao Cup third-round victory at Ipswich Town.",
-      "categories": [
-        "Football",
-        "Arsenal",
-        "Ipswich",
-        "Max Dowman"
       ],
       "site": "https://www.myjoyonline.com/"
     },

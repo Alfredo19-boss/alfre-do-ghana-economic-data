@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-15T22:42:19.766Z",
+  "updated": "2026-09-16T00:49:48.171Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,10 +25,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)"
+    "Citi Newsroom wire: 0 stories"
   ],
   "items": [
     {
@@ -51,6 +51,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-15T20:16:45.000Z",
       "summary": "Ghana's national exploration company, GNPC Explorco, has showcased the investment and exploration potential of the Voltaian Basin as the country seeks to attract fresh investment into its…"
+    },
+    {
+      "title": "African Cashew Alliance Conference 2026 opens in Accra with call for sustainable growth",
+      "link": "https://www.myjoyonline.com/african-cashew-alliance-conference-2026-opens-in-accra-with-call-for-sustainable-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-15T20:08:00.000Z",
+      "summary": "The 2026 African Cashew Alliance (ACA) Annual Cashew Conference and Expo has opened in Accra, bringing together key stakeholders in the cashew industry to discuss ways of building a more…"
     },
     {
       "title": "Coronation Insurance appoints Bridget Puorideme as acting Head of Sales and Distribution",
@@ -1073,13 +1080,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-12T13:53:57.000Z",
       "summary": "The National Communications Authority (NCA) has advanced the process of assigning spectrum in the 700 MHz, 2.3 GHz and 3 GHz bands for mobile broadband services, including 5G."
-    },
-    {
-      "title": "Gov’t Partners Private Investor to Develop Cut Flower Export Corridor",
-      "link": "https://thehighstreetjournal.com/govt-partners-private-investor-to-develop-cut-flower-export-corridor/",
-      "source": "The High Street Journal",
-      "published": "2026-09-12T13:08:43.000Z",
-      "summary": "Government is partnering a private investor to develop a cut-flower corridor linking northern production to Tamale Air Cargo Hub, targeting European, West African, Gulf and domestic markets."
     }
   ]
 };
