@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T03:46:08.481Z",
+  "updated": "2026-09-17T04:23:49.171Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,76 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Gold rises over 1% as investors digest Fed hike, oil rally stalls",
+      "link": "https://www.myjoyonline.com/gold-rises-over-1-as-investors-digest-fed-hike-oil-rally-stalls/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T03:02:00.000Z",
+      "summary": "Gold prices rose more than 1% on Thursday ‌as investors digested the U.S. Federal Reserve's interest rate hike and its signal that further policy tightening may follow, while an earlier…",
+      "categories": [
+        "International",
+        "Gold"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BOST cuts fuel exports to Burkina Faso and Mali to protect local supply",
+      "link": "https://www.myjoyonline.com/bost-cuts-fuel-exports-to-burkina-faso-and-mali-to-protect-local-supply/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T02:52:00.000Z",
+      "summary": "Ghana's state-owned fuel distributor BOST Energies has cut diesel and ‌gasoline exports to neighbouring Burkina Faso and Mali since August, prioritising domestic demand, Managing Director…",
+      "categories": [
+        "Energy",
+        "HP News 9",
+        "National",
+        "BOST",
+        "Fuel export"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Gas to decide on $500 million gas pipeline early next year, CEO says",
+      "link": "https://www.myjoyonline.com/ghana-gas-to-decide-on-500-million-gas-pipeline-early-next-year-ceo-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T02:41:00.000Z",
+      "summary": "State-owned Ghana Gas plans to make a final investment decision by early next year on a long-discussed $500 million pipeline project that would transport gas from its processing plant in…",
+      "categories": [
+        "Energy",
+        "HP Business 1",
+        "HP News 6",
+        "National",
+        "Ghana Gas",
+        "Judith Adjobah Blay"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "South Africa’s president booked off from public engagements over ill health",
+      "link": "https://www.myjoyonline.com/south-africas-president-booked-off-from-public-engagements-over-ill-health/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T02:30:00.000Z",
+      "summary": "South African President Cyril Ramaphosa has been booked off from public engagements due to ill health, on the advice of his medical team, his office said on Wednesday.",
+      "categories": [
+        "Africa",
+        "Cyril Ramaphosa",
+        "South Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "National Cathedral will emerge stronger from controversy – GPCC President",
+      "link": "https://www.myjoyonline.com/national-cathedral-will-emerge-stronger-from-controversy-gpcc-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T02:21:00.000Z",
+      "summary": "President of the Ghana Pentecostal and Charismatic Council (GPCC), Rev. Prof. Paul Frimpong-Manso, believes the controversy surrounding the National Cathedral project will ultimately make…",
+      "categories": [
+        "National",
+        "Ghana Pentecostal and Charismatic Council (GPCC)",
+        "national cathedral",
+        "Rev. Prof. Paul Frimpong-Manso"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Oil prices extend losses as fears of Middle East supply disruptions ease",
       "link": "https://www.myjoyonline.com/oil-prices-extend-losses-as-fears-of-middle-east-supply-disruptions-ease/",
       "source": "MyJoyOnline",
@@ -35,6 +105,19 @@ window.GDC_PAPERS = {
         "International",
         "Oil prices",
         "US-Iran war"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Grief can colour memory’: Palace responds after Earl Spencer’s claim in Diana book",
+      "link": "https://www.myjoyonline.com/grief-can-colour-memory-palace-responds-after-earl-spencers-claim-in-diana-book/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T01:54:00.000Z",
+      "summary": "Buckingham Palace has responded after a claim by Earl Spencer, the brother of Diana, Princess of Wales, that King Charles said \"we'll forget her soon enough\" days after her death.",
+      "categories": [
+        "International",
+        "Earl Spencer",
+        "Princess Diana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -50,88 +133,6 @@ window.GDC_PAPERS = {
         "Sports",
         "12th FASU Games",
         "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Part-human part-mouse brain developed in science breakthrough",
-      "link": "https://www.myjoyonline.com/part-human-part-mouse-brain-developed-in-science-breakthrough/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T23:45:00.000Z",
-      "summary": "Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains.",
-      "categories": [
-        "International",
-        "human brain"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COVID funds audit has glaring gaps, Parliament may go back for forensic probe – Dafeamekpor",
-      "link": "https://www.myjoyonline.com/covid-funds-audit-has-glaring-gaps-parliament-may-go-back-for-forensic-probe-dafeamekpor/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T23:38:00.000Z",
-      "summary": "Parliament is set to revisit the audit of government’s COVID-19 expenditure after fresh findings raised questions about whether the Auditor-General’s report covered the full spectrum of…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Audit Covid Expenditure",
-        "Rockson-Nelson Dafeamekpor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dafeamekpor flags gaps in audit of GH¢775m approved for Transport, Local Gov’t and Education ministries",
-      "link": "https://www.myjoyonline.com/dafeamekpor-flags-gaps-in-audit-of-gh%c2%a2775m-approved-for-transport-local-govt-and-education-ministries/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T23:19:00.000Z",
-      "summary": "South Dayi MP and Majority Chief Whip, Rockson-Nelson Dafeamekpor, has flagged gaps in the Auditor-General’s audit of COVID-19 expenditure approved by Parliament.",
-      "categories": [
-        "National",
-        "Audit Covid Expenditure",
-        "Nelson-Rockson Dafeamekpor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jordan Ayew, Yirenkyi feature as Ghanaian trio exit Carabao Cup",
-      "link": "https://www.myjoyonline.com/jordan-ayew-yirenkyi-feature-as-ghanaian-trio-exit-carabao-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:53:39.000Z",
-      "summary": "Jordan Ayew came off the bench in the 58th minute as Sheffield United were eliminated from the Carabao Cup in the third round following a defeat to lower-league Fleetwood Town. Ayew, who…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Brandon Thomas Asante",
-        "Caleb Yirenkyi",
-        "Carabao cup",
-        "Jordan Ayew"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament has been bludgeoned from behind – Dafeamekpor demands forensic audit on Covid spending",
-      "link": "https://www.myjoyonline.com/parliament-has-been-bludgeoned-from-behind-dafeamekpor-demands-forensic-audit-on-covid-spending/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:51:00.000Z",
-      "summary": "South Dayi MP and Majority Chief Whip, Rockson-Nelson Dafeamekpor, has called for a forensic audit of government’s COVID-19 expenditure following fresh revelations about gaps in the…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Audit Covid Expenditure",
-        "Rockson-Nelson Dafeamekpor"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Snapchat ‘willing to implement’ daily time limits for teens, boss tells BBC",
-      "link": "https://www.myjoyonline.com/snapchat-willing-to-implement-daily-time-limits-for-teens-boss-tells-bbc/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:33:00.000Z",
-      "summary": "The boss of Snapchat says the firm would be \"willing to implement\" time limits for teens, following a call from Meta for it to take action.",
-      "categories": [
-        "Technology",
-        "Snapchat",
-        "time limits"
       ],
       "site": "https://www.myjoyonline.com/"
     },

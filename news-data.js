@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-17T03:45:55.813Z",
-  "worldAt": "2026-09-17T03:45:55.802Z",
+  "updated": "2026-09-17T04:23:35.727Z",
+  "worldAt": "2026-09-17T04:23:35.720Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,24 +26,38 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "World · Reuters: failed (HTTP 429)",
-    "World · Associated Press: failed (HTTP 429)",
-    "World · BBC News: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "World · Reuters: failed (fetch failed)",
+    "World · Associated Press: failed (fetch failed)",
+    "World · BBC News: failed (fetch failed)",
     "World · Al Jazeera: failed (HTTP 429)",
     "World · France 24: failed (HTTP 429)",
     "World · CNBC: failed (HTTP 429)",
     "Africa · AllAfrica: failed (HTTP 429)",
-    "Africa · Africanews: failed (fetch failed)",
+    "Africa · Africanews: failed (HTTP 429)",
     "Africa · Reuters: failed (HTTP 429)",
-    "Africa · BBC News: failed (fetch failed)",
-    "Africa · Al Jazeera: failed (Unexpected token 'Y', \"Your query\"... is not valid JSON)",
+    "Africa · BBC News: failed (Unexpected token 'Y', \"Your query\"... is not valid JSON)",
+    "Africa · Al Jazeera: failed (HTTP 429)",
     "world lists: 0 world, 0 African stories held"
   ],
   "items": [
+    {
+      "title": "BOST cuts fuel exports to Burkina Faso and Mali to protect local supply",
+      "link": "https://www.myjoyonline.com/bost-cuts-fuel-exports-to-burkina-faso-and-mali-to-protect-local-supply/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T02:52:00.000Z",
+      "summary": "Ghana's state-owned fuel distributor BOST Energies has cut diesel and ‌gasoline exports to neighbouring Burkina Faso and Mali since August, prioritising domestic demand, Managing Director…"
+    },
+    {
+      "title": "Ghana Gas to decide on $500 million gas pipeline early next year, CEO says",
+      "link": "https://www.myjoyonline.com/ghana-gas-to-decide-on-500-million-gas-pipeline-early-next-year-ceo-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T02:41:00.000Z",
+      "summary": "State-owned Ghana Gas plans to make a final investment decision by early next year on a long-discussed $500 million pipeline project that would transport gas from its processing plant in…"
+    },
     {
       "title": "Snapchat ‘willing to implement’ daily time limits for teens, boss tells BBC",
       "link": "https://www.myjoyonline.com/snapchat-willing-to-implement-daily-time-limits-for-teens-boss-tells-bbc/",
@@ -1079,20 +1093,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-14T07:06:00.000Z",
       "summary": "The Accra Lawtech Hangout 2026 is set to bring together legal professionals, technology enthusiasts, entrepreneurs, students and business leaders for a day of conversations, networking and…"
-    },
-    {
-      "title": "Ghana and Uganda deepen upstream petroleum cooperation through peer learning",
-      "link": "https://www.ghanabusinessnews.com/2026/09/14/ghana-and-uganda-deepen-upstream-petroleum-cooperation-through-peer-learning/",
-      "source": "Ghana Business News",
-      "published": "2026-09-14T07:01:14.000Z",
-      "summary": "Ghana and Uganda are strengthening cooperation in the upstream petroleum sector through the exchange of practical lessons on petroleum governance, regulation and operations."
-    },
-    {
-      "title": "Ericsson celebrates 30 years partnership, digital transformation in Ghana",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ericsson-celebrates-30-years-partnership-digital-transformation-in-ghana.html",
-      "source": "Graphic Online",
-      "published": "2026-09-14T06:49:07.000Z",
-      "summary": "Technology company Ericsson has commemorated its 150th global anniversary and 30 years of operations in Ghana, celebrating a long-standing partnership with the government…"
     }
   ],
   "world": [],
