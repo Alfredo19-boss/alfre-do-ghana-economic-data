@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T04:23:49.171Z",
+  "updated": "2026-09-17T04:47:55.213Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,60 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AGI Summit: Gov’t committed to supporting enterprises, manufacturing companies – Sampson Ahi",
+      "link": "https://www.myjoyonline.com/agi-summit-govt-committed-to-supporting-enterprises-manufacturing-companies-sampson-ahi/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T04:31:00.000Z",
+      "summary": "Sampson Ahi, the Deputy Minister of Trade and Industry, has reaffirmed the government’s commitment to implementing policies that support investment, innovation, production, and job creation.",
+      "categories": [
+        "National",
+        "AGI Summit",
+        "Government",
+        "Sampson Ahi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accra-Kumasi Expressway to be scrutinised by Value for Money Office",
+      "link": "https://www.myjoyonline.com/accra-kumasi-expressway-to-be-scrutinised-by-value-for-money-office/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T04:23:00.000Z",
+      "summary": "The Accra-Kumasi Expressway will be the first major infrastructure project to come under the scrutiny of the Value for Money Office (VfMO) under the Ministry of Finance.",
+      "categories": [
+        "National",
+        "Accra",
+        "Kumasi",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Why Ghana’s next generation must master technology and finance",
+      "link": "https://www.myjoyonline.com/why-ghanas-next-generation-must-master-technology-and-finance/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T04:17:00.000Z",
+      "summary": "Ghana’s financial and technology landscape is changing rapidly, creating new opportunities for young people to build businesses, access global markets and participate in the digital economy.",
+      "categories": [
+        "Opinion",
+        "Stanley Obeng Twene"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "It is getting out of hand – Amankwa-Manu wants Parliament recalled over drug trafficking",
+      "link": "https://www.myjoyonline.com/it-is-getting-out-of-hand-amankwa-manu-wants-parliament-recalled-over-drug-trafficking/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T03:23:00.000Z",
+      "summary": "Former Deputy Defence Minister Kofi Amankwa-Manu is calling for the recall of Parliament to enable lawmakers to hold an in-depth discussion on Ghana’s growing drug trafficking concerns.",
+      "categories": [
+        "National",
+        "Top Story",
+        "Drug trafficking",
+        "Kofi Amankwa-Manu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gold rises over 1% as investors digest Fed hike, oil rally stalls",
       "link": "https://www.myjoyonline.com/gold-rises-over-1-as-investors-digest-fed-hike-oil-rally-stalls/",
@@ -77,62 +131,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Cyril Ramaphosa",
         "South Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "National Cathedral will emerge stronger from controversy – GPCC President",
-      "link": "https://www.myjoyonline.com/national-cathedral-will-emerge-stronger-from-controversy-gpcc-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T02:21:00.000Z",
-      "summary": "President of the Ghana Pentecostal and Charismatic Council (GPCC), Rev. Prof. Paul Frimpong-Manso, believes the controversy surrounding the National Cathedral project will ultimately make…",
-      "categories": [
-        "National",
-        "Ghana Pentecostal and Charismatic Council (GPCC)",
-        "national cathedral",
-        "Rev. Prof. Paul Frimpong-Manso"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil prices extend losses as fears of Middle East supply disruptions ease",
-      "link": "https://www.myjoyonline.com/oil-prices-extend-losses-as-fears-of-middle-east-supply-disruptions-ease/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T02:05:00.000Z",
-      "summary": "Oil prices fell in early trade on Thursday, extending the previous day's losses, as reports that Saudi Arabia is offering extra crude cargoes through Oman eased fears of supply disruptions…",
-      "categories": [
-        "HP News 10",
-        "International",
-        "Oil prices",
-        "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Grief can colour memory’: Palace responds after Earl Spencer’s claim in Diana book",
-      "link": "https://www.myjoyonline.com/grief-can-colour-memory-palace-responds-after-earl-spencers-claim-in-diana-book/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T01:54:00.000Z",
-      "summary": "Buckingham Palace has responded after a claim by Earl Spencer, the brother of Diana, Princess of Wales, that King Charles said \"we'll forget her soon enough\" days after her death.",
-      "categories": [
-        "International",
-        "Earl Spencer",
-        "Princess Diana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "12th FASU Games: University of Ghana win 23 medals in Cairo",
-      "link": "https://www.myjoyonline.com/12th-fasu-games-university-of-ghana-win-23-medals-in-cairo/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T01:39:56.000Z",
-      "summary": "The University of Ghana has recorded an impressive medal haul at the 12th Federation of African University Sports (FASU) Games in Cairo, Egypt, winning a total of 23 medals.",
-      "categories": [
-        "Athletics",
-        "Other Sports",
-        "Sports",
-        "12th FASU Games",
-        "University of Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },

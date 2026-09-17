@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-17T04:23:35.727Z",
+  "updated": "2026-09-17T04:47:42.359Z",
   "worldAt": "2026-09-17T04:23:35.720Z",
   "sources": [
     "MyJoyOnline",
@@ -27,21 +27,10 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "World · Reuters: failed (fetch failed)",
-    "World · Associated Press: failed (fetch failed)",
-    "World · BBC News: failed (fetch failed)",
-    "World · Al Jazeera: failed (HTTP 429)",
-    "World · France 24: failed (HTTP 429)",
-    "World · CNBC: failed (HTTP 429)",
-    "Africa · AllAfrica: failed (HTTP 429)",
-    "Africa · Africanews: failed (HTTP 429)",
-    "Africa · Reuters: failed (HTTP 429)",
-    "Africa · BBC News: failed (Unexpected token 'Y', \"Your query\"... is not valid JSON)",
-    "Africa · Al Jazeera: failed (HTTP 429)",
-    "world lists: 0 world, 0 African stories held"
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "world lists: refreshed 24 min ago, left alone this run"
   ],
   "items": [
     {
