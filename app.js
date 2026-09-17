@@ -255,10 +255,21 @@
   }).join("");
   $("cedi-note").textContent = D.cediNote;
 
-  const readHtml = it => `<div class="b-read tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}"><span class="b-label">${esc(it.label)}</span><span class="mono">${readValue(it)}</span><span class="date">${esc(it.date || "")}${staleDays(it) ? " · update due" : ""}</span></div>`;
+  const readHtml = it => `<div class="b-read tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-bread="${esc(it.label)}"><span class="b-label">${esc(it.label)}</span><span class="mono">${readValue(it)}</span><span class="date">${esc(it.date || "")}${staleDays(it) ? " · update due" : ""}</span></div>`;
+  // Twelve readings to a panel. The ones marked board:true in data.js lead, in the order they
+  // are written there; if fewer than twelve carry the mark, the next readings from the same
+  // section fill the panel out rather than leaving it short. Nothing is invented to fill a
+  // gap — a reading with no value is skipped.
+  const BOARD_PER_PAGE = 12;
+  const boardPanel = list => {
+    const on = list.filter(i => i.board);
+    if (on.length >= BOARD_PER_PAGE) return on.slice(0, BOARD_PER_PAGE);
+    const rest = list.filter(i => !i.board && i.value !== undefined && i.value !== null && isFinite(i.value));
+    return [...on, ...rest.slice(0, BOARD_PER_PAGE - on.length)];
+  };
   const boardPages = [
-    [...D.economy.flatMap(g => g.items), ...D.people].filter(i => i.board),
-    D.markets.flatMap(g => g.items).filter(i => i.board)
+    boardPanel([...D.economy.flatMap(g => g.items), ...D.people]),
+    boardPanel(D.markets.flatMap(g => g.items))
   ];
   $("b-econ").innerHTML = boardPages.map((p, i) => `<div class="b-page${i ? "" : " on"}">${p.map(readHtml).join("")}</div>`).join("");
 
@@ -1306,36 +1317,96 @@
   const LIVE_LABELS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur", "Chinese yuan": "cny", "Gold price": "gold" };
   const liveFor = label => liveQuotes().find(q => q.key === LIVE_LABELS[label]) || null;
   const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
-  // Both rates, one above the other. The market quote is the figure in the big type, with the
-  // minute it was taken, because that is what a cedi actually costs right now. The official
-  // reading — the Bank of Ghana's interbank rate, published a day in arrears — sits under it
-  // with its own date, so the card never implies the official rate is today's.
-  // If no fresh quote has arrived, the official reading takes the big type back.
+  // The Bank of Ghana's own interbank rate, read straight from their daily page every twenty
+  // minutes by the live-rates job. This is the dashboard's headline figure.
+  const BOG_KEYS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur" };
+  const BOG_MAX_AGE = 7 * 864e5;            // a BoG reading older than a week is not "the rate"
+  function bogFor(label) {
+    const LV = liveData();
+    const o = LV && LV.official;
+    const key = BOG_KEYS[label];
+    if (!o || !key || !o.date || !o.rates || !o.rates[key] || typeof o.rates[key].value !== "number") return null;
+    if (Date.now() - Date.parse(`${o.date}T00:00:00Z`) > BOG_MAX_AGE) return null;
+    return { value: o.rates[key].value, date: o.date, source: o.source || "Bank of Ghana interbank mid-rate" };
+  }
+  // Both rates, one above the other, official on top. The Bank of Ghana's interbank rate is
+  // the figure in the big type — it is the rate the rest of the page counts with, and the one
+  // people mean by "the rate". It carries BoG's own date, taken from the same row the number
+  // came from, so the headline figure and its date can never drift apart. The market quote
+  // sits under it with the minute it was taken, so the card never implies BoG publishes by
+  // the minute. Gold has no official rate and keeps the market price on top.
   function paintMarketLines() {
     $$("[data-market]").forEach(el => {
       const cell = el.closest(".stat");
       const mono = cell && cell.querySelector(".mono");
       if (mono && mono.dataset.base === undefined) mono.dataset.base = mono.innerHTML;
-      const q = liveFor(el.dataset.market);
-      if (!q) {
+      const label = el.dataset.market;
+      const q = liveFor(label);
+      const bog = bogFor(label);
+
+      // What the published reading says, and where it came from. BoG's live page wins when it
+      // has one, because it is read every twenty minutes rather than once a morning.
+      let off = el.dataset.official || "", when = el.dataset.officialdate || "", src = el.dataset.officialsrc || "";
+      if (bog) { off = `GH¢${fmt(bog.value, 4)}`; when = dateFmt(`${bog.date}T00:00:00Z`); src = bog.source; }
+
+      // Name the daily figure for what it actually is. When the Bank of Ghana's own page has
+      // not yielded a rate the site falls back to a market mid-rate, and saying "official"
+      // there would put BoG's name on somebody else's number.
+      const kind = label === "Gold price" ? "daily close"
+        : /bank of ghana/i.test(src) ? "BoG official"
+        : /currency-api|market mid/i.test(src) ? "market mid-rate"
+        : "daily rate";
+
+      // Only the three currencies BoG actually publishes lead with the official figure. Every
+      // other reading on the page keeps exactly the behaviour it had: it shows a second line
+      // only when there is a live quote to put on it, and stays silent otherwise.
+      const officialLeads = !!bog;
+
+      if (!q && !officialLeads) {
         if (mono && mono.dataset.base !== undefined) mono.innerHTML = mono.dataset.base;
         el.hidden = true;
         return;
       }
-      const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
-      const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
-      if (mono) mono.innerHTML = `${shown}${dir ? `<i class="t-arrow ${dir}">${dir === "up" ? "▲" : "▼"}</i>` : ""}`;
-      const off = el.dataset.official || "", when = el.dataset.officialdate || "", src = el.dataset.officialsrc || "";
-      // Name the daily figure for what it actually is. When the Bank of Ghana's own page has
-      // not yielded a rate the site falls back to a market mid-rate, and saying "official"
-      // there would put BoG's name on somebody else's number.
-      const kind = q.key === "gold" ? "daily close"
-        : /bank of ghana/i.test(src) ? "BoG official"
-        : /currency-api|market mid/i.test(src) ? "market mid-rate"
-        : src ? "daily rate" : "daily rate";
-      el.innerHTML = `<span class="at">market · ${esc(liveTime(q.at))}</span>`
-        + (off ? `<b class="official">${esc(off)}</b><span>${kind}${when ? ` · ${esc(when)}` : ""}</span>` : "");
+
+      const dir = q && typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
+      const arrow = dir ? `<i class="t-arrow ${dir}">${dir === "up" ? "▲" : "▼"}</i>` : "";
+      const shown = q ? (q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`) : "";
+
+      if (officialLeads) {
+        if (mono) mono.innerHTML = off;
+        // The date chip in the corner is built from data.js when the page loads. BoG's page is
+        // read every twenty minutes and is the figure now in the big type, so the chip has to
+        // carry BoG's date too — otherwise the card shows one number and two different days,
+        // which is exactly the inconsistency this replaces. A fresh BoG reading also clears
+        // any "update due" mark, because the reading is no longer old.
+        if (cell) {
+          cell.classList.remove("is-stale");
+          const chip = cell.querySelector(".stat-top .date, .stat-top .chip");
+          if (chip && when) { chip.className = "date auto"; chip.textContent = when; chip.removeAttribute("title"); }
+        }
+        el.innerHTML = `<span class="at">${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>`
+          + (q ? `<b class="official">${shown}${arrow}</b><span>market · ${esc(liveTime(q.at))}</span>` : "");
+      } else {
+        if (mono) mono.innerHTML = `${shown}${arrow}`;
+        el.innerHTML = `<span class="at">market · ${esc(liveTime(q.at))}</span>`
+          + (off ? `<b class="official">${esc(off)}</b><span>${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>` : "");
+      }
       el.hidden = false;
+    });
+
+    // The board view carries the same three currencies in its own compact rows. They are built
+    // from data.js, so without this they would keep showing the morning job's figure while the
+    // card beside them showed BoG's — the same number with two different days on it.
+    Object.keys(BOG_KEYS).forEach(label => {
+      const bog = bogFor(label);
+      if (!bog) return;
+      $$(`[data-bread="${label.replace(/"/g, "")}"]`).forEach(row => {
+        const mono = row.querySelector(".mono");
+        const date = row.querySelector(".date");
+        if (mono) mono.innerHTML = `<span class="p">GH¢</span>${fmt(bog.value, 4)}`;
+        if (date) date.textContent = dateFmt(`${bog.date}T00:00:00Z`);
+        row.classList.remove("is-stale");
+      });
     });
   }
 
@@ -2144,7 +2215,10 @@
     if (own && ((own.global || []).length || (own.africa || []).length)) return own;
     const news = window.GDC_NEWS || null;
     if (news && ((news.world || []).length || (news.africa || []).length)) {
-      return { updated: news.updated, note: own && own.note, source: "GDELT Project", global: news.world || [], africa: news.africa || [] };
+      // worldAt is the minute the world lists themselves were last refreshed; news.updated is
+      // the Ghana business run, which happens far more often and would overstate how fresh
+      // these headlines are.
+      return { updated: news.worldAt || news.updated, note: own && own.note, source: "the publishers' own feeds", global: news.world || [], africa: news.africa || [] };
     }
     return own;
   };
@@ -2187,8 +2261,8 @@
     }).join("");
     $("world-list").hidden = !rest.length;
 
-    const src = W.source ? ` Indexed by ${esc(W.source)}.` : "";
-    $("world-note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed every five minutes; anything older than a day and a half drops off.`;
+    const src = W.source ? ` Read from ${esc(W.source)}.` : "";
+    $("world-note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed about every twenty minutes; anything older than a day and a half drops off.`;
   }
   $("world-find").addEventListener("input", e => { worldFind = e.target.value; renderWorld(); });
 
