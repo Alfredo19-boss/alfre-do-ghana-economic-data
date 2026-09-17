@@ -4,12 +4,14 @@
 //
 // Run locally: node scripts/fetch-news.mjs
 import fs from "node:fs";
+import { load } from "./lib/datafile.mjs";
 // The world and African headlines ride inside news-data.js rather than a file of their own.
 // The news workflow already fetches and commits this file, so the extra lists reach the site
 // without the workflow needing a step (or a git add) for a second data file.
-import { WORLD, AFRICA, gdelt, parseFeed as parseWorldFeed, merge as mergeWorld } from "./fetch-world-news.mjs";
+import { WORLD, AFRICA, gdelt, parseFeed as parseWorldFeed, merge as mergeWorld, fetchGdeltJson } from "./fetch-world-news.mjs";
 
 const FILE = new URL("../news-data.js", import.meta.url).pathname;
+const WORLD_FILE = new URL("../world-data.js", import.meta.url).pathname;
 const UA = "Mozilla/5.0 (compatible; AlfredoGhanaEconomicData/1.0; news headlines)";
 const MAX_ITEMS = 150;
 const MAX_AGE_DAYS = 10;
@@ -112,9 +114,7 @@ export async function fetchWire(log) {
   const out = [];
   for (const feed of WIRE) {
     try {
-      const res = await fetch(GDELT(feed.query, feed.domain), { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(30000) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const items = parseWire(await res.json(), feed);
+      const items = parseWire(await fetchGdeltJson(GDELT(feed.query, feed.domain)), feed);
       out.push(...items);
       log.push(`${feed.source} wire: ${items.length} stories`);
     } catch (e) { log.push(`${feed.source} wire: failed (${e.message})`); }
@@ -154,20 +154,15 @@ function loadExisting() {
   } catch { return { items: [] }; }
 }
 
-// GDELT rate-limits, and this job runs every five minutes. Eleven requests per run would be
-// well over 100 an hour and the wire feeds already come back with HTTP 429. The world lists are
-// therefore refreshed roughly every half hour and simply carried forward in between, which is
-// far more news than a half-hourly refresh can exhaust.
-const WORLD_EVERY_MS = 28 * 60 * 1000;
+// The workflow runs hourly; keep a small guard so repeated manual dispatches do not hammer GDELT.
+const WORLD_EVERY_MS = 55 * 60 * 1000;
 
 // One publisher at a time, so a single feed failing costs only its own stories.
 async function fetchWorldList(feeds, log, label) {
   const out = [];
   for (const feed of feeds) {
     try {
-      const res = await fetch(gdelt(feed.query, feed.domain), { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(30000) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const items = parseWorldFeed(await res.json(), feed);
+      const items = parseWorldFeed(await fetchGdeltJson(gdelt(feed.query, feed.domain)), feed);
       out.push(...items);
       log.push(`${label} · ${feed.source}: ${items.length} stories`);
     } catch (e) { log.push(`${label} · ${feed.source}: failed (${e.message})`); }
@@ -175,8 +170,13 @@ async function fetchWorldList(feeds, log, label) {
   return out;
 }
 
+function loadExistingWorld() {
+  try { return load(WORLD_FILE, "GDC_WORLD"); } catch { return null; }
+}
+
 async function main() {
   const existing = loadExisting();
+  const existingWorld = loadExistingWorld();
   const log = [];
   const fresh = [];
   for (const feed of FEEDS) {
@@ -197,14 +197,19 @@ async function main() {
 
   // World and African headlines, fetched BEFORE any decision to stop. Ghana's publishers and
   // GDELT fail independently; a bad morning for the RSS feeds must not cost the world lists.
-  let world = existing.world || [], africa = existing.africa || [];
-  const heldAge = existing.worldAt ? Date.now() - Date.parse(existing.worldAt) : Infinity;
-  let worldAt = existing.worldAt || null;
+  let world = (existing.world || []).length ? existing.world : (existingWorld?.global || []);
+  let africa = (existing.africa || []).length ? existing.africa : (existingWorld?.africa || []);
+  let worldAt = existing.worldAt || existingWorld?.updated || null;
+  const heldAge = worldAt ? Date.now() - Date.parse(worldAt) : Infinity;
   if (heldAge > WORLD_EVERY_MS) {
     try {
-      world = mergeWorld(world, await fetchWorldList(WORLD, log, "World"));
-      africa = mergeWorld(africa, await fetchWorldList(AFRICA, log, "Africa"));
-      worldAt = new Date().toISOString();
+      const freshWorld = await fetchWorldList(WORLD, log, "World");
+      const freshAfrica = await fetchWorldList(AFRICA, log, "Africa");
+      if (freshWorld.length) world = mergeWorld(world, freshWorld);
+      if (freshAfrica.length) africa = mergeWorld(africa, freshAfrica);
+      if (freshWorld.length || freshAfrica.length) worldAt = new Date().toISOString();
+      if (!freshWorld.length && world.length) log.push("World: no fresh stories, kept existing list.");
+      if (!freshAfrica.length && africa.length) log.push("Africa: no fresh stories, kept existing list.");
       log.push(`world lists: ${world.length} world, ${africa.length} African stories held`);
     } catch (e) {
       log.push(`world headlines failed: ${e.message}`);

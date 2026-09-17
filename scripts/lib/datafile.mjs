@@ -49,8 +49,8 @@ const HEADERS = {
  */
 `,
   GDC_WORLD: `/*
- * Alfredo Ghana Economic Data: world and African headlines, fetched by
- * .github/workflows/news.yml every five minutes. Do not edit by hand.
+ * Alfredo Ghana Economic Data: world and African headlines, written by
+ * scripts/fetch-world-news.mjs when that script is run. Do not edit by hand.
  */
 `,
   GDC_NEWS: `/*
