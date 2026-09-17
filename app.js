@@ -1373,7 +1373,18 @@
     const copy = `<span class="ticker-copy">${live}<span class="t-group t-group-cedi">Ghana cedi</span>${cedi}<span class="t-group">Ghana GDP</span>${gdp}<span class="t-group">Africa vs GH¢</span>${africa}<span class="t-group">World vs GH¢</span>${world}</span>`;
     const both = copy + copy.replace('class="ticker-copy"', 'class="ticker-copy" aria-hidden="true"');
     tickerTracks.forEach(tr => { if (tr.innerHTML !== both) tr.innerHTML = both; });
-    $$("[data-fx-date]").forEach(el => (el.textContent = FXT.date ? isoDayLabel(FXT.date) : ""));
+    // The strip carries two vintages at once: live market quotes stamped with the minute they
+    // were taken, and the daily table, which is published for the previous business day. One
+    // bare date beside both reads as though everything is that old, so the label says which
+    // is which whenever a live quote is present.
+    const liveNow = liveQuotes();
+    const newestLive = liveNow.length ? liveNow.map(q => Date.parse(q.at)).sort((a, b) => b - a)[0] : null;
+    $$("[data-fx-date]").forEach(el => {
+      const daily = FXT.date ? isoDayLabel(FXT.date) : "";
+      el.textContent = newestLive
+        ? `market ${liveTime(new Date(newestLive).toISOString())} · daily table ${daily}`
+        : daily;
+    });
     sizeTickers();
   }
   $("ticker-pause").addEventListener("click", e => {
@@ -2125,7 +2136,18 @@
   /* ================= World news ================= */
   // Headlines from the world's wires, through GDELT. Nothing here is summarised or rewritten:
   // the headline, the publisher, the time it was seen and a link to the publisher's own page.
-  const worldData = () => window.GDC_WORLD || null;
+  // The headlines may arrive in either of two places: their own world-data.js, or carried
+  // inside news-data.js by the news job. Whichever holds stories is used, so the feature works
+  // with or without a separate step in the workflow.
+  const worldData = () => {
+    const own = window.GDC_WORLD || null;
+    if (own && ((own.global || []).length || (own.africa || []).length)) return own;
+    const news = window.GDC_NEWS || null;
+    if (news && ((news.world || []).length || (news.africa || []).length)) {
+      return { updated: news.updated, note: own && own.note, source: "GDELT Project", global: news.world || [], africa: news.africa || [] };
+    }
+    return own;
+  };
   const worldStories = (key = "global") => {
     const W = worldData();
     const list = (W && Array.isArray(W[key])) ? W[key] : [];
@@ -3818,7 +3840,13 @@
     if (!/^https?:/.test(location.protocol)) return;
     const RELOAD = ["data.js", "auto-data.js", "history-data.js"];
     const QUIET = {
-      "news-data.js": () => { drawn.news = false; if (!VIEWS.news.el.hidden) renderNews(); if (!board.hidden) renderBoardDeck(); },
+      "news-data.js": () => {
+        drawn.news = false; drawn.world = false;
+        if (!VIEWS.news.el.hidden) renderNews();
+        if (!VIEWS.world.el.hidden) renderWorld();      // the world headlines ride in this file
+        if (!VIEWS.africa.el.hidden) renderAfrWire();
+        if (!board.hidden) renderBoardDeck();
+      },
       "papers-data.js": () => { drawn.papers = false; if (!VIEWS.papers.el.hidden) renderPapers(); if (!board.hidden) renderBoardDeck(); },
       "africa-data.js": () => { drawn.africa = false; if (!VIEWS.africa.el.hidden) renderAfrica(); if (!board.hidden) renderBoardDeck(); },
       "articles-data.js": () => { drawn.articles = false; if (!VIEWS.articles.el.hidden) renderArticles(); if (!board.hidden) renderBoardDeck(); },
