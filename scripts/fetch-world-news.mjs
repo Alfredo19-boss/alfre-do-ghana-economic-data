@@ -9,7 +9,8 @@
 // either retired their RSS or block crawlers. A feed that returns nothing is logged and the
 // stories already in the file stand; the job never empties a list it cannot refill.
 //
-// Runs alongside the business news job, every five minutes.
+// Usually run manually or from a dedicated workflow; the business news workflow carries world
+// lists inside news-data.js and no longer invokes this script on every run.
 //
 // Run locally: node scripts/fetch-world-news.mjs
 import { load, save } from "./lib/datafile.mjs";
@@ -19,6 +20,7 @@ const UA = "Mozilla/5.0 (compatible; AlfredoGhanaEconomicData/1.0; world news)";
 
 const KEEP_HOURS = 36;      // a headline older than this drops off the list
 const MAX_PER_LIST = 40;
+const RETRYABLE = new Set([429, 500, 502, 503, 504]);
 
 // One entry per publisher, so a single feed failing costs only its own stories.
 export const WORLD = [
@@ -45,6 +47,44 @@ export const AFRICA = [
 export const gdelt = (q, domain) =>
   `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(`${q} domain:${domain}`)}` +
   `&mode=artlist&maxrecords=25&format=json&sort=datedesc&timespan=2d`;
+
+const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+const retryAfterMs = header => {
+  const n = Number(header);
+  if (Number.isFinite(n) && n > 0) return n * 1000;
+  return 0;
+};
+
+export async function fetchGdeltJson(url, { attempts = 3, baseDelayMs = 1200 } = {}) {
+  let lastErr = null;
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    try {
+      const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(30000) });
+      if (!res.ok) {
+        const err = new Error(`HTTP ${res.status}`);
+        err.status = res.status;
+        err.retryAfterMs = retryAfterMs(res.headers.get("retry-after"));
+        throw err;
+      }
+      const text = await res.text();
+      try {
+        return JSON.parse(text);
+      } catch {
+        const hint = text.trim().slice(0, 50).replace(/\s+/g, " ") || "empty response";
+        const err = new Error(`invalid JSON (${hint})`);
+        err.retryable = true;
+        throw err;
+      }
+    } catch (err) {
+      lastErr = err;
+      const retryable = err.retryable ?? (!err.status || RETRYABLE.has(err.status));
+      if (!retryable || attempt === attempts) break;
+      const wait = Math.min(10000, Math.max(err.retryAfterMs || 0, baseDelayMs * (2 ** (attempt - 1))));
+      await sleep(wait);
+    }
+  }
+  throw lastErr || new Error("fetch failed");
+}
 
 const strip = s => String(s).replace(/<[^>]*>/g, "").replace(/&amp;/g, "&").replace(/&#\d+;/g, "").replace(/\s+/g, " ").trim();
 
@@ -96,9 +136,7 @@ async function fetchList(feeds, log, label) {
   const out = [];
   for (const feed of feeds) {
     try {
-      const res = await fetch(gdelt(feed.query, feed.domain), { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(30000) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const items = parseFeed(await res.json(), feed);
+      const items = parseFeed(await fetchGdeltJson(gdelt(feed.query, feed.domain)), feed);
       out.push(...items);
       log.push(`${label} · ${feed.source}: ${items.length} stories`);
     } catch (e) {
@@ -116,13 +154,15 @@ export async function main() {
   const freshGlobal = await fetchList(WORLD, log, "World");
   const freshAfrica = await fetchList(AFRICA, log, "Africa");
 
-  const global = merge(old.global, freshGlobal);
-  const africa = merge(old.africa, freshAfrica);
+  const global = freshGlobal.length ? merge(old.global, freshGlobal) : (old.global || []);
+  const africa = freshAfrica.length ? merge(old.africa, freshAfrica) : (old.africa || []);
+
+  if (!freshGlobal.length && (old.global || []).length) log.push("World: no fresh stories, kept existing list.");
+  if (!freshAfrica.length && (old.africa || []).length) log.push("Africa: no fresh stories, kept existing list.");
 
   if (!global.length && !africa.length) {
     console.log(log.join("\n"));
-    console.error("Nothing came back from any feed; world-data.js left unchanged.");
-    process.exitCode = 1;
+    console.log("Nothing came back from any feed and no previous world-data.js lists were available.");
     return;
   }
 

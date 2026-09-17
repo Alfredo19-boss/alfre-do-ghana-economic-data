@@ -1,11 +1,11 @@
 name: Update business news
 
-# Every five minutes: collects Ghana business headlines from publishers' RSS feeds into
-# news-data.js, the day's front pages into papers-data.js, and world and African headlines
-# into world-data.js. Commits only when there are new stories, so a quiet run changes nothing.
+# Hourly: collects Ghana business headlines from publishers' RSS feeds into news-data.js,
+# including embedded world/African wire lists, and updates papers-data.js. Commits only
+# when story lists change, so a quiet run changes nothing.
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every five minutes
+    - cron: "0 * * * *"   # hourly
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: news
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   news:
@@ -28,20 +28,18 @@ jobs:
         run: node scripts/fetch-news.mjs
       - name: Fetch today's front pages
         run: node scripts/fetch-papers.mjs || echo "Papers job failed; keeping the previous front pages."
-      - name: Fetch world and African headlines
-        run: node scripts/fetch-world-news.mjs || echo "World news failed; keeping the previous headlines."
       - name: Commit if there are new stories
         run: |
           git config user.name "alfredo-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # ignore changes that only touch the "updated" time or log lines; a run counts as
-          # worth committing if ANY of the three lists gained a story
-          if git diff --quiet -I '"updated":' -I '^    "' -- news-data.js world-data.js papers-data.js; then
-            git checkout -- news-data.js world-data.js papers-data.js
+          # worth committing if either news-data.js or papers-data.js gained stories.
+          if git diff --quiet -I '"updated":' -I '^    "' -- news-data.js papers-data.js; then
+            git checkout -- news-data.js papers-data.js
             echo "No new stories."
             exit 0
           fi
-          git add news-data.js papers-data.js world-data.js
+          git add news-data.js papers-data.js
           git commit -m "News headlines $(date -u +'%Y-%m-%d %H:%M')"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push

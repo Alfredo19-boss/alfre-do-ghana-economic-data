@@ -2137,15 +2137,22 @@
   // Headlines from the world's wires, through GDELT. Nothing here is summarised or rewritten:
   // the headline, the publisher, the time it was seen and a link to the publisher's own page.
   // The headlines may arrive in either of two places: their own world-data.js, or carried
-  // inside news-data.js by the news job. Whichever holds stories is used, so the feature works
-  // with or without a separate step in the workflow.
+  // inside news-data.js by the news job. If both are present, prefer the newer one so stale
+  // world-data.js does not block fresher lists carried in news-data.js.
   const worldData = () => {
     const own = window.GDC_WORLD || null;
-    if (own && ((own.global || []).length || (own.africa || []).length)) return own;
     const news = window.GDC_NEWS || null;
-    if (news && ((news.world || []).length || (news.africa || []).length)) {
-      return { updated: news.updated, note: own && own.note, source: "GDELT Project", global: news.world || [], africa: news.africa || [] };
+    const ownHasStories = !!(own && ((own.global || []).length || (own.africa || []).length));
+    const newsHasStories = !!(news && ((news.world || []).length || (news.africa || []).length));
+    const fromNews = () => ({ updated: news.worldAt || news.updated, note: own && own.note, source: "GDELT Project", global: news.world || [], africa: news.africa || [] });
+    if (ownHasStories && newsHasStories) {
+      const ownAt = Date.parse(own.updated || "");
+      const newsAt = Date.parse(news.worldAt || news.updated || "");
+      if (Number.isFinite(newsAt) && (!Number.isFinite(ownAt) || newsAt > ownAt)) return fromNews();
+      return own;
     }
+    if (ownHasStories) return own;
+    if (newsHasStories) return fromNews();
     return own;
   };
   const worldStories = (key = "global") => {
