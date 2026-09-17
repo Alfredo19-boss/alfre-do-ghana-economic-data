@@ -29,6 +29,68 @@ export async function get(url) {
   return res.json();
 }
 
+/* ---------- the Bank of Ghana's own interbank rate ----------
+ * The dashboard's headline figure is BoG's, not the market's. Their daily page is read here,
+ * every twenty minutes, rather than once each morning by the market-data job — so the moment
+ * BoG publishes a new day the dashboard moves with it, instead of waiting until tomorrow.
+ * Nothing else stands in: if BoG cannot be read, the previous BoG reading is kept and the
+ * market quote is the only thing that moves. The site never puts BoG's name on another
+ * source's number.
+ */
+const BOG_URL = "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/";
+export const BOG_SOURCES = [
+  BOG_URL,
+  `${BOG_URL}?date=${new Date().toISOString().slice(0, 10)}`,
+  "https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/"
+];
+const MONTHS = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
+const BOG_PAIRS = [["USDGHS", "usd", [5, 40]], ["GBPGHS", "gbp", [6, 60]], ["EURGHS", "eur", [5, 50]]];
+
+// One page, one date. Every row for a pair is read and the newest kept; then only the rows
+// sharing that newest date are published, so the three cards can never show three days.
+export function parseBog(html) {
+  const text = String(html)
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ");
+  const found = {};
+  for (const [code, key, range] of BOG_PAIRS) {
+    const re = new RegExp(`(\\d{1,2})\\s+([A-Za-z]{3})[a-z]*\\s+(\\d{4})\\s+[A-Za-z .()'’-]*?${code}\\s+([\\d.]+)\\s+([\\d.]+)\\s+([\\d.]+)`, "g");
+    let m, best = null;
+    while ((m = re.exec(text))) {
+      const mo = MONTHS[m[2].toLowerCase()];
+      if (mo === undefined) continue;
+      const value = +m[6];
+      if (!isFinite(value) || value < range[0] || value > range[1]) continue;
+      const date = new Date(Date.UTC(+m[3], mo, +m[1])).toISOString().slice(0, 10);
+      if (date > new Date(Date.now() + 864e5).toISOString().slice(0, 10)) continue;   // a date in the future is a misread
+      if (!best || date > best.date) best = { date, value: +value.toFixed(4) };
+    }
+    if (best) found[key] = best;
+  }
+  const dates = Object.values(found).map(r => r.date);
+  if (!dates.length) return null;
+  const date = dates.sort().slice(-1)[0];
+  const rates = {};
+  for (const [, key] of BOG_PAIRS) if (found[key] && found[key].date === date) rates[key] = { value: found[key].value };
+  return Object.keys(rates).length ? { date, rates, source: "Bank of Ghana interbank mid-rate", url: BOG_URL } : null;
+}
+
+// Try each page in turn and keep the newest day any of them yields.
+export async function fetchBog(log) {
+  let best = null;
+  for (const url of BOG_SOURCES) {
+    try {
+      const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "text/html,*/*" }, signal: AbortSignal.timeout(25000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const got = parseBog(await res.text());
+      if (!got) { log.push(`BoG ${url}: no rate row found`); continue; }
+      log.push(`BoG ${url}: ${got.date}, ${Object.keys(got.rates).join("/")}`);
+      if (!best || got.date > best.date) best = got;
+    } catch (e) { log.push(`BoG ${url}: failed (${e.message})`); }
+  }
+  return best;
+}
+
 // Yahoo's chart reply -> the latest traded price and the minute it was quoted
 export function parseQuote(json, range) {
   const r = json && json.chart && json.chart.result && json.chart.result[0];
@@ -87,7 +149,15 @@ export async function main() {
     } catch (e) { log.push(`${key}: failed (${e.message})`); }
   }
 
-  if (!Object.keys(fresh).length) {
+  // The Bank of Ghana's own rate, read on the same twenty-minute beat. A failure here costs
+  // nothing: the reading already held stands until BoG answers again.
+  const bog = await fetchBog(log) || old.official || null;
+  const bogMoved = !!bog && (!old.official
+    || old.official.date !== bog.date
+    || JSON.stringify(old.official.rates) !== JSON.stringify(bog.rates));
+  if (bog) log.push(`BoG in use: ${bog.date} · ${Object.entries(bog.rates).map(([k, r]) => `${k} ${r.value}`).join(", ")}`);
+
+  if (!Object.keys(fresh).length && !bogMoved) {
     console.log(log.join("\n"));
     console.error("No quote came back; live-data.js left unchanged.");
     process.exitCode = 1;
@@ -95,15 +165,17 @@ export async function main() {
   }
 
   const { quotes, changed } = merge(old, fresh);
-  if (!changed) {
+  if (!changed && !bogMoved) {
     console.log(log.join("\n"));
     console.log("Nothing moved; live-data.js left unchanged.");
     return;
   }
   save(FILE, "GDC_LIVE", {
     updated: new Date().toISOString(),
-    note: "Market quotes for the cedi, taken through the day. The Bank of Ghana's interbank rate, shown elsewhere on this page, is the official figure and is published once each morning.",
-    source: "Yahoo Finance",
+    note: "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
+    source: "Bank of Ghana, and Yahoo Finance for the market quotes",
+    official: bog || undefined,
+    officialAt: bog ? new Date().toISOString() : undefined,
     quotes
   });
   console.log(log.join("\n"));
