@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T12:11:48.340Z",
+  "updated": "2026-09-17T14:21:23.184Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,119 +25,149 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Assin Fosu judge recounts MoMo fraud attempt moments after sentencing fraudster",
-      "link": "https://www.myjoyonline.com/assin-fosu-judge-recounts-momo-fraud-attempt-moments-after-sentencing-fraudster/",
+      "title": "‘It has been an honour’ – Boehly speaks out as Clearlake Capital takes over Chelsea",
+      "link": "https://www.myjoyonline.com/it-has-been-an-honour-boehly-speaks-out-as-clearlake-capital-takes-over-chelsea/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T12:10:56.000Z",
-      "summary": "The Assin Fosu District Court Judge, His Worship Abdul Majid Iliasu, has recounted how suspected MoMo fraudsters attempted to defraud him moments after he had sentenced an accused person…",
+      "published": "2026-09-17T14:09:38.000Z",
+      "summary": "The deal gives Clearlake complete control over the direction of the club, with Boehly stepping down from his role as chairman.",
       "categories": [
-        "Crime",
-        "MoMo fraudster",
-        "Respect",
-        "Ruling"
+        "Football",
+        "Sports",
+        "Behdad Eghbali",
+        "Chelsea Football Club",
+        "Ruth Akoto-Donkor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
-      "link": "https://www.myjoyonline.com/nepal-to-use-new-flood-study-to-claim-millions-from-un-climate-disaster-fund/",
+      "title": "Wa West Hospital gets health equipment, GH¢340k support as Chief offers land for expansion",
+      "link": "https://www.myjoyonline.com/wa-west-hospital-gets-health-equipment-gh%c2%a2340k-support-as-chief-offers-land-for-expansion/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T12:09:43.000Z",
-      "summary": "Nepal plans to use a new study linking climate change to the deadly floods last month as the basis of a financial request from a United Nations fund.",
+      "published": "2026-09-17T14:05:54.000Z",
+      "summary": "The Wa West District Hospital has received surgical equipment and financial support worth hundreds of thousands of cedis following an intervention by the Member of Parliament for Wa West…",
+      "categories": [
+        "Regional",
+        "health equipment",
+        "Wa West Hospital"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP urges delegates to verify eligibility ahead of October 3 national officers elections",
+      "link": "https://www.myjoyonline.com/npp-urges-delegates-to-verify-eligibility-ahead-of-october-3-national-officers-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T13:59:59.000Z",
+      "summary": "The National Officers Elections Committee (NOEC) of the New Patriotic Party (NPP) has called on delegates to visit the NPP official website to verify their eligibility for the October 3…",
+      "categories": [
+        "National",
+        "Politics",
+        "delegates",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deputy Health Minister urges nursing leaders to turn research into practical solutions",
+      "link": "https://www.myjoyonline.com/deputy-health-minister-urges-nursing-leaders-to-turn-research-into-practical-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T13:56:39.000Z",
+      "summary": "The Deputy Health Minister, Professor Dr Grace Ayensu-Danquah, has urged nursing and midwifery leaders to translate research findings into practical solutions to improve healthcare delivery…",
+      "categories": [
+        "Health",
+        "National",
+        "Free primary healthcare",
+        "Professor Dr Grace Ayensu-Danquah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama Ayariga urges MMDCEs to strengthen local security early warning systems",
+      "link": "https://www.myjoyonline.com/mahama-ayariga-urges-mmdces-to-strengthen-local-security-early-warning-systems/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T13:54:58.000Z",
+      "summary": "Minister of Local Government, Chieftaincy and Religious Affairs, Mr Mahama Ayariga, has charged Metropolitan, Municipal and District Chief Executives (MMDCEs) to strengthen early warning…",
+      "categories": [
+        "National",
+        "News",
+        "Mahama Ayariga",
+        "MMDCEs",
+        "Security threats"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wa East MP, Assembly hand over three equipped health facilities",
+      "link": "https://www.myjoyonline.com/wa-east-mp-assembly-hand-over-three-equipped-health-facilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T13:52:40.000Z",
+      "summary": "The Member of Parliament for Wa East, Dr Godfred Seidu Jasaw, in collaboration with the Wa East District Assembly, has handed over three fully furnished health facilities to the Ghana…",
+      "categories": [
+        "Regional",
+        "Health",
+        "MP",
+        "Wa East"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Loyalty is currency of development — Rev. Wengam charges Assemblies of God leaders",
+      "link": "https://www.myjoyonline.com/loyalty-is-currency-of-development-rev-wengam-charges-assemblies-of-god-leaders/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T13:49:54.000Z",
+      "summary": "The General Superintendent of Assemblies of God, Ghana, Rev. Stephen Yenusom Wengam, has underlined the need for pastors to show utmost loyalty to God and their churches at all times.",
+      "categories": [
+        "National",
+        "Assemblies of God",
+        "Church",
+        "Wengam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+      "link": "https://www.myjoyonline.com/palace-in-war-of-words-with-earl-spencer-over-claims-in-diana-book/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T13:49:03.000Z",
+      "summary": "Buckingham Palace is in a war of words with Earl Spencer, the brother of Diana, Princess of Wales, over a controversial memoir about her life and death.",
       "categories": [
         "International",
-        "Nepal",
-        "UN"
+        "Earl Spencer",
+        "War"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nkwanta South Municipality faces shortage of more than 457 teachers",
-      "link": "https://www.myjoyonline.com/nkwanta-south-municipality-faces-shortage-of-more-than-457-teachers/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T12:08:49.000Z",
-      "summary": "The Nkwanta South Municipality in the Oti Region is grappling with a severe teacher shortage of more than 457; a situation education authorities say is undermining effective teaching and…",
+      "title": "Police arrest seven suspected armed robbers operating in Zebilla, Garu and Binduri",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-seven-suspected-armed-robbers-operating-in-zebilla-garu-and-binduri.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-17T13:22:19.000Z",
+      "summary": "The Upper East Regional Police Command has arrested seven suspected armed robbers believed to be operating within Zebilla, Garu and Binduri in the Upper East Region.",
       "categories": [
-        "Education",
-        "National",
-        "Regional",
-        "Basic Schools",
-        "Nkwanta South",
-        "Teacher shortage"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "NDPC inaugurates technical committee to review and finalise Ghana Infrastructure Plan",
-      "link": "https://www.myjoyonline.com/ndpc-inaugurates-technical-committee-to-review-and-finalise-ghana-infrastructure-plan/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T12:03:52.000Z",
-      "summary": "The National Development Planning Commission (NDPC) has inaugurated a Technical Committee to review, update and finalise the Ghana Infrastructure Plan (GIP), as part of efforts to…",
+      "title": "Police arrest seven suspected armed robbers in Upper East Region",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-seven-suspected-armed-robbers-in-upper-east-region.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-17T12:41:12.000Z",
+      "summary": "The Upper East Regional Police Command has arrested seven suspects for various armed robbery activities at Zebilla, Garu, and Binduri. The suspects are Issaka Iddrisu, 20; Ali Tamimu, 21…",
       "categories": [
-        "National",
-        "Ghana",
-        "NDPC"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Police declare Barbara Asantewaa Kodua ‘Ghana jollof’ wanted over alleged incitement violence",
-      "link": "https://www.myjoyonline.com/police-declare-barbara-asantewaa-kodua-ghana-jollof-wanted-over-alleged-incitement-violence/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T12:02:57.000Z",
-      "summary": "The Ghana Police Service has declared 40-year-old Barbara Asantewaa Kodua wanted in connection with an alleged case of inciting violence.",
+      "title": "Police arrest 36 suspects over lynching of officer at Gindabour",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-36-suspects-over-lynching-of-officer-at-gindabour.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-17T12:15:58.000Z",
+      "summary": "The Ghana Police Service has arrested 36 suspects in connection with the death of a police officer who was attacked and lynched by a mob at Gindabour in the Sawla District of the Savannah…",
       "categories": [
-        "Crime",
-        "National",
-        "Police",
-        "Violence"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hohoe MCE says residents long believed stadium was state-owned over Corruption Watch probe",
-      "link": "https://www.myjoyonline.com/hohoe-mce-says-residents-long-believed-stadium-was-state-owned-over-corruption-watch-probe/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T11:50:28.000Z",
-      "summary": "Hohoe Municipal Chief Executive (MCE), Prosper Kumi, says he is not surprised by findings from Corruption Watch’s investigation into the use of public funds for the construction of…",
-      "categories": [
-        "National",
-        "astroturf stadium",
-        "Prosper Kumi"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: Mahama hosts Ahafo Regional House of Chiefs at Presidency",
-      "link": "https://www.myjoyonline.com/photos-mahama-hosts-ahafo-regional-house-of-chiefs-at-presidency/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T11:49:07.000Z",
-      "summary": "President John Dramani Mahama has hosted a delegation from the Ahafo Regional House of Chiefs at the Presidency in Accra.",
-      "categories": [
-        "National",
-        "Photo Story",
-        "Ahafo Regional House of Chiefs",
-        "Mahama",
-        "Photos"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG to maintain policy rate at 14% – IC Insights",
-      "link": "https://www.myjoyonline.com/bog-to-maintain-policy-rate-at-14-ic-insights/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T11:48:49.000Z",
-      "summary": "According to the market research firm, the real policy rate of 9.0% suggests room for a modest cut in the policy rate if the external risk events were less volatile.",
-      "categories": [
-        "Business",
-        "Economy",
-        "BoG",
-        "IC Insights",
-        "Inflation",
-        "Interest rates",
-        "Policy rate"
-      ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "African greats inspired by the potential of Nairobi 2029",
@@ -295,39 +325,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Indo-Ghana begins local liquid oxygen supply - Lekma Hospital receives first delivery",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-indo-ghana-begins-local-liquid-oxygen-supply-lekma-hospital-receives-first-delivery.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T08:08:03.000Z",
-      "summary": "Medical oxygen production company, Indo-Ghana Industries Limited ,has begun supplying locally produced liquid medical oxygen to Ghanaian hospitals, marking a shift in the country’s medical…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mangrove restoration vital for coastal climate resilience — Experts",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-mangrove-restoration-vital-for-coastal-climate-resilience-experts.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T08:05:19.000Z",
-      "summary": "The destruction of mangrove vegetation along Ghana's coastline has been identified as the main cause of the escalating flooding and other climate change impacts in coastal communities and…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "DTI, TVET sign MoU to strengthen skills training nationwide",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dti-tvet-sign-mou-to-strengthen-skills-training-nationwide.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T08:00:13.000Z",
-      "summary": "A memorandum of understanding (MoU) has been signed between the Design and Technology Institute (DTI) and the Ghana Technical and Vocational Education and Training (TVET) Service to…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "London misses out to Nairobi in World Athletics bid",
       "link": "https://www.graphic.com.gh/sports/sports-news/london-misses-out-to-nairobi-in-world-athletics-bid.html",
       "source": "Graphic Sports",
@@ -388,17 +385,6 @@ window.GDC_PAPERS = {
       "source": "Graphic Sports",
       "published": "2026-09-14T14:56:38.000Z",
       "summary": "The battle over Borteyman Racecourse has ceased to be merely a land dispute. It has become a test of whether Ghana is serious about protecting sporting infrastructure, enforcing…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Osagyefo Fight Night: Allotey, Takyi face defining tests in Accra",
-      "link": "https://www.graphic.com.gh/sports/sports-news/osagyefo-fight-night-allotey-takyi-face-defining-tests-in-accra.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T13:50:17.000Z",
-      "summary": "Theophilus “Lopez” Kpakpo Allotey will put his world-title ambitions on the line against Argentina’s David Facundo Garcia on Saturday night, while Olympic bronze medallist Samuel “Ring…",
       "categories": [
         "Sports News"
       ],
