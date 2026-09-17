@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-09-17T14:10:58.627Z",
+  "updated": "2026-09-17T14:12:23.748Z",
   "values": {
     "fx.usd": {
       "value": 11.4975,
@@ -31,7 +31,7 @@ window.GDC_AUTO = {
       "note": "Per ounce"
     },
     "cocoa.usdPerTonne": {
-      "value": 5809,
+      "value": 5806,
       "date": "2026-09-17",
       "source": "ICE New York cocoa futures",
       "url": "https://finance.yahoo.com/quote/CC=F",
@@ -204,7 +204,7 @@ window.GDC_AUTO = {
       },
       {
         "date": "2026-09-17",
-        "value": 5809
+        "value": 5806
       }
     ]
   },
@@ -458,6 +458,21 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-09-17T14:12:23.748Z",
+      "messages": [
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-09-16 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-09-17: 2026-09-16, not newer than 2026-09-16",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rows found",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc: no rows found",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok",
+        "kept newer fx.usd from 2026-09-17",
+        "kept newer fx.gbp from 2026-09-17",
+        "kept newer fx.eur from 2026-09-17",
+        "kept newer gold.usdPerOz from 2026-09-17"
+      ]
+    },
+    {
       "at": "2026-09-17T14:10:58.627Z",
       "messages": [
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-09-16 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -589,17 +604,6 @@ window.GDC_AUTO = {
         "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
         "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-09-15T13:34:42.429Z",
-      "messages": [
-        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok",
-        "kept newer fx.usd from 2026-09-15",
-        "kept newer fx.gbp from 2026-09-15",
-        "kept newer fx.eur from 2026-09-15"
       ]
     }
   ]
