@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-16T23:50:53.715Z",
+  "updated": "2026-09-17T01:49:53.123Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "12th FASU Games: University of Ghana win 23 medals in Cairo",
+      "link": "https://www.myjoyonline.com/12th-fasu-games-university-of-ghana-win-23-medals-in-cairo/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T01:39:56.000Z",
+      "summary": "The University of Ghana has recorded an impressive medal haul at the 12th Federation of African University Sports (FASU) Games in Cairo, Egypt, winning a total of 23 medals.",
+      "categories": [
+        "Athletics",
+        "Other Sports",
+        "Sports",
+        "12th FASU Games",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Jordan Ayew, Yirenkyi feature as Ghanaian trio exit Carabao Cup",
       "link": "https://www.myjoyonline.com/jordan-ayew-yirenkyi-feature-as-ghanaian-trio-exit-carabao-cup/",
@@ -121,20 +136,6 @@ window.GDC_PAPERS = {
         "brand ambassador",
         "Reggie Rockstone",
         "Unichem Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man United lose to Brighton from 2-0 up to end 50-year record",
-      "link": "https://www.myjoyonline.com/man-united-lose-to-brighton-from-2-0-up-to-end-50-year-record/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T21:52:40.000Z",
-      "summary": "Manchester United suffered a humiliating Carabao Cup exit at Old Trafford as Brighton came from two goals down to reach the last 16. United head coach Michael Carrick had to bring on…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Brighton",
-        "Man United"
       ],
       "site": "https://www.myjoyonline.com/"
     },
