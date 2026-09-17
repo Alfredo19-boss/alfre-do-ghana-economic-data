@@ -6,8 +6,8 @@
 import fs from "node:fs";
 // The world and African headlines ride inside news-data.js rather than a file of their own.
 // The news workflow already fetches and commits this file, so the extra lists reach the site
-// without the workflow needing a step (or a git add) for a second data file.
-import { WORLD, AFRICA, gdelt, parseFeed as parseWorldFeed, merge as mergeWorld } from "./fetch-world-news.mjs";
+// without the workflow needing a step (or a git add) for a second data file. Everything they
+// need is in this one file — no second script has to be uploaded or kept in step.
 
 const FILE = new URL("../news-data.js", import.meta.url).pathname;
 const UA = "Mozilla/5.0 (compatible; AlfredoGhanaEconomicData/1.0; news headlines)";
@@ -154,23 +154,85 @@ function loadExisting() {
   } catch { return { items: [] }; }
 }
 
-// GDELT rate-limits, and this job runs every five minutes. Eleven requests per run would be
-// well over 100 an hour and the wire feeds already come back with HTTP 429. The world lists are
-// therefore refreshed roughly every half hour and simply carried forward in between, which is
-// far more news than a half-hourly refresh can exhaust.
-const WORLD_EVERY_MS = 28 * 60 * 1000;
+/* ---------- world and African headlines ----------
+ * These used to come from GDELT. GDELT answers GitHub's servers with HTTP 429 often enough
+ * that it cannot be the only route — that is why Global news and the African strip stayed
+ * empty. They now read the publishers' own RSS, which needs no key and no quota. Each feed
+ * is fetched on its own, so one publisher failing costs only its own stories, and a list is
+ * never emptied because it could not be refilled.
+ */
+const WORLD_FEEDS = [
+  { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+  { source: "Africanews", url: "https://www.africanews.com/feed/rss" },
+  { source: "NPR World", url: "https://feeds.npr.org/1004/rss.xml" },
+  { source: "UN News", url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml" },
+  { source: "BBC News", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+  { source: "Deutsche Welle", url: "https://rss.dw.com/rdf/rss-en-world" },
+  { source: "France 24", url: "https://www.france24.com/en/rss" }
+];
+
+// Africa: two feeds that are African by definition, and general feeds filtered to African stories.
+const AFRICAN = /\b(africa|african|sahel|maghreb|ghana|nigeria|kenya|ethiopia|south africa|senegal|morocco|egypt|tanzania|uganda|rwanda|ivory coast|c[oô]te d.?ivoire|zambia|zimbabwe|botswana|angola|cameroon|mali|niger|sudan|somalia|algeria|tunisia|libya|mozambique|malawi|namibia|burkina|benin|togo|gambia|guinea|liberia|sierra leone|congo|chad|gabon|madagascar|mauritius|eritrea|djibouti|lesotho|eswatini|accra|lagos|nairobi|addis ababa|cairo|johannesburg|dakar|abuja|kampala|kinshasa)\b/i;
+
+const AFRICA_FEEDS = [
+  { source: "AllAfrica", url: "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf" },
+  { source: "AllAfrica Business", url: "https://allafrica.com/tools/headlines/rdf/business/headlines.rdf" },
+  { source: "Africanews", url: "https://www.africanews.com/feed/rss", onlyAfrican: true },
+  { source: "BBC Africa", url: "https://feeds.bbci.co.uk/news/world/africa/rss.xml" },
+  { source: "Deutsche Welle", url: "https://rss.dw.com/rdf/rss-en-africa" },
+  { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml", onlyAfrican: true }
+];
+
+// Publishers' feeds are cheap but not free, and this job runs every five minutes. Refreshing
+// the world lists every twenty is plenty — a headline does not go stale in a quarter of an hour
+// — and it keeps the site a polite visitor to every publisher it borrows from.
+const WORLD_EVERY_MS = 18 * 60 * 1000;
+const WORLD_KEEP_HOURS = 36;     // a headline older than this drops off the list
+const WORLD_MAX = 40;            // per list
+
+const wait = ms => new Promise(r => setTimeout(r, ms));
 
 // One publisher at a time, so a single feed failing costs only its own stories.
 async function fetchWorldList(feeds, log, label) {
   const out = [];
   for (const feed of feeds) {
     try {
-      const res = await fetch(gdelt(feed.query, feed.domain), { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(30000) });
+      const res = await fetch(feed.url, { headers: { "User-Agent": UA, Accept: "application/rss+xml, application/xml, text/xml, */*" }, signal: AbortSignal.timeout(20000) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const items = parseWorldFeed(await res.json(), feed);
+      const xml = await res.text();
+      if (!/<(rss|feed|rdf)/i.test(xml.slice(0, 2000))) throw new Error("not an RSS/Atom feed");
+      let items = parseFeed(xml, feed)
+        .map(({ title, link, source, published, summary }) => ({ title, link, source, published, summary }));
+      if (feed.onlyAfrican) items = items.filter(i => AFRICAN.test(`${i.title} ${i.summary}`));
       out.push(...items);
       log.push(`${label} · ${feed.source}: ${items.length} stories`);
-    } catch (e) { log.push(`${label} · ${feed.source}: failed (${e.message})`); }
+    } catch (e) {
+      log.push(`${label} · ${feed.source}: failed (${e.message})`);
+    }
+    await wait(400);
+  }
+  return out;
+}
+
+// Newest first, one story per link, nothing older than WORLD_KEEP_HOURS, and never two
+// headlines from the same publisher back to back, so one busy feed cannot fill the strip.
+export function mergeWorld(oldItems, fresh, now = Date.now()) {
+  const norm = u => String(u).replace(/[?#].*$/, "").replace(/\/$/, "");
+  const byLink = new Map();
+  for (const it of [...(oldItems || []), ...(fresh || [])]) {
+    if (!it || !it.link || !it.published) continue;
+    if (now - Date.parse(it.published) > WORLD_KEEP_HOURS * 36e5) continue;
+    if (Date.parse(it.published) > now + 36e5) continue;   // a feed with a clock ahead of ours
+    byLink.set(norm(it.link), it);
+  }
+  const pool = [...byLink.values()].sort((a, b) => b.published.localeCompare(a.published));
+  const out = [];
+  while (pool.length && out.length < WORLD_MAX) {
+    // the newest story that is not from the publisher we just used; if every remaining story
+    // is from that publisher, take the newest anyway rather than dropping it
+    let i = pool.findIndex(it => !out.length || out[out.length - 1].source !== it.source);
+    if (i < 0) i = 0;
+    out.push(pool.splice(i, 1)[0]);
   }
   return out;
 }
@@ -202,8 +264,8 @@ async function main() {
   let worldAt = existing.worldAt || null;
   if (heldAge > WORLD_EVERY_MS) {
     try {
-      world = mergeWorld(world, await fetchWorldList(WORLD, log, "World"));
-      africa = mergeWorld(africa, await fetchWorldList(AFRICA, log, "Africa"));
+      world = mergeWorld(world, await fetchWorldList(WORLD_FEEDS, log, "World"));
+      africa = mergeWorld(africa, await fetchWorldList(AFRICA_FEEDS, log, "Africa"));
       worldAt = new Date().toISOString();
       log.push(`world lists: ${world.length} world, ${africa.length} African stories held`);
     } catch (e) {
