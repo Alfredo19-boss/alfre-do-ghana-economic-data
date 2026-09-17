@@ -188,6 +188,9 @@
   $("pes-dots").innerHTML = Array.from({ length: 100 }, (_, i) => `<i class="${i + 1 <= Math.floor(pesewas) ? "on" : i < pesewas ? "half" : ""}"></i>`).join("");
   $("months").innerHTML = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"].map(m => `<span>${m}</span>`).join("");
 
+  // The three rates people come to the page for. They get more room and bigger type than the
+  // readings around them, because "what is the dollar today" is the most-asked question here.
+  const FX_LABELS = ["US dollar", "British pound", "Euro"];
   const chipFor = it => {
     const age = staleDays(it);
     if (age) return `<span class="chip stale" title="This reading is ${age} days old and a newer release is probably out">Update due</span>`;
@@ -219,7 +222,7 @@
       <h3 class="group-h">${esc(g.group)}</h3>
       <div class="panel lines econ-grid">
         ${g.items.map(it => `
-          <div class="cell stat tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-label="${esc(it.label)}">
+          <div class="cell stat tappable${FX_LABELS.includes(it.label) ? " stat-fx" : ""}${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-label="${esc(it.label)}">
             <div class="stat-top"><span class="k">${esc(it.label)}</span>${chipFor(it)}</div>
             <span class="mono"${it.live ? ` data-calc="${it.live}"` : ""}>${readValue(it)}</span>
             <span class="market-line" data-market="${esc(it.label)}" data-official="${esc(readValue(it).replace(/<[^>]+>/g, ""))}" data-officialdate="${esc(it.date || "")}" data-officialsrc="${esc(it.autoSource || "")}" hidden></span>
@@ -1385,7 +1388,7 @@
           if (chip && when) { chip.className = "date auto"; chip.textContent = when; chip.removeAttribute("title"); }
         }
         el.innerHTML = `<span class="at">${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>`
-          + (q ? `<b class="official">${shown}${arrow}</b><span>market · ${esc(liveTime(q.at))}</span>` : "");
+          + (q ? `<span class="mkt"><b class="official">${shown}${arrow}</b><span>market · ${esc(liveTime(q.at))}</span></span>` : "");
       } else {
         if (mono) mono.innerHTML = `${shown}${arrow}`;
         el.innerHTML = `<span class="at">market · ${esc(liveTime(q.at))}</span>`
@@ -2230,33 +2233,85 @@
       .sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
   };
 
-  let worldFind = "";
+  /* ---- publisher lettermarks ----------------------------------------------
+   * A small badge for each newsroom: the letters people know it by, in one of eight
+   * tones from the site's own palette. These are NOT the publishers' logos — the site
+   * does not reproduce anyone's mark. They exist so a reader can tell AllAfrica from
+   * Al Jazeera at a glance without reading the label, and so the two news portals read
+   * as one designed system rather than a list of grey text.
+   */
+  const SRC_MARKS = {
+    "Al Jazeera": ["AJ", 1], "Africanews": ["AN", 2], "NPR World": ["NPR", 3],
+    "UN News": ["UN", 4], "BBC News": ["BBC", 5], "BBC Africa": ["BBC", 5],
+    "Deutsche Welle": ["DW", 6], "France 24": ["F24", 7],
+    "AllAfrica": ["AA", 8], "AllAfrica Business": ["AA", 8],
+    "Reuters": ["RT", 3], "Citi Newsroom": ["CN", 2], "MyJoyOnline": ["MJ", 1],
+    "Graphic Online": ["GO", 4], "Graphic Business": ["GB", 4],
+    "The High Street Journal": ["HSJ", 6], "Ghana Business News": ["GBN", 7],
+    "Ghana News Agency": ["GNA", 8], "News Ghana": ["NG", 5]
+  };
+  function srcMark(source) {
+    const hit = SRC_MARKS[source];
+    if (hit) return { text: hit[0], tone: hit[1] };
+    // an unknown publisher still gets a stable badge: its initials, and a tone picked
+    // from its name so the same source always looks the same
+    const words = String(source || "?").replace(/^the\s+/i, "").split(/\s+/).filter(Boolean);
+    const text = (words.length > 1 ? words.slice(0, 3).map(w => w[0]).join("") : (words[0] || "?").slice(0, 2)).toUpperCase();
+    let h = 0;
+    for (const ch of String(source || "")) h = (h * 31 + ch.charCodeAt(0)) % 8;
+    return { text, tone: h + 1 };
+  }
+  const srcBadge = (source, cls = "") => {
+    const m = srcMark(source);
+    return `<span class="src-badge ${cls}" data-tone="${m.tone}" title="${esc(source)}" aria-hidden="true">${esc(m.text)}</span>`;
+  };
+
+  let worldFind = "", worldSrc = "";
   function renderWorld() {
     const W = worldData() || {};
     const all = worldStories("global");
     const q = worldFind.trim().toLowerCase();
-    const shown = q ? all.filter(i => `${i.title} ${i.source}`.toLowerCase().includes(q)) : all;
+    if (worldSrc && !all.some(i => i.source === worldSrc)) worldSrc = "";   // that publisher has nothing left
+    const shown = all
+      .filter(i => !worldSrc || i.source === worldSrc)
+      .filter(i => !q || `${i.title} ${i.source}`.toLowerCase().includes(q));
 
     $("world-status").textContent = W.updated
       ? `${all.length} stories · updated ${timeAgo(W.updated)}`
       : "Waiting for the first run";
     $("world-empty").hidden = !!shown.length;
 
+    // One chip per newsroom, newsiest first, so a reader can read one publisher at a time.
+    const counts = new Map();
+    all.forEach(i => counts.set(i.source, (counts.get(i.source) || 0) + 1));
+    const chips = [["", "All newsrooms", all.length],
+      ...[...counts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).map(([s, n]) => [s, s, n])];
+    $("world-sources").innerHTML = chips.map(([val, label, n]) =>
+      `<button type="button" class="src-chip${worldSrc === val ? " on" : ""}" data-src="${esc(val)}">
+        ${val ? srcBadge(val) : `<span class="src-badge all" aria-hidden="true">ALL</span>`}
+        <span>${esc(val || label)}</span><b>${n}</b>
+      </button>`).join("");
+    $("world-sources").hidden = !all.length;
+
     // the three newest, given room at the top
-    const lead = q ? [] : shown.slice(0, 3);
+    const lead = (q || worldSrc) ? [] : shown.slice(0, 3);
     $("world-lead").innerHTML = lead.map(i => `
       <article class="world-card">
-        <div class="story-meta"><span class="src">${esc(i.source)}</span>${i.country ? `<span class="wire-tag">${esc(i.country)}</span>` : ""}<time datetime="${esc(i.published)}">${esc(timeAgo(i.published))}</time></div>
+        <div class="story-meta">${srcBadge(i.source)}<span class="src">${esc(i.source)}</span>${i.country ? `<span class="wire-tag">${esc(i.country)}</span>` : ""}<time datetime="${esc(i.published)}">${esc(timeAgo(i.published))}</time></div>
         <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+        ${i.summary ? `<p class="sum">${esc(i.summary)}</p>` : ""}
       </article>`).join("");
     $("world-lead").hidden = !lead.length;
 
-    const rest = q ? shown : shown.slice(3);
+    const rest = (q || worldSrc) ? shown : shown.slice(3);
     $("world-list").innerHTML = rest.map(i => {
       const fresh = Date.now() - Date.parse(i.published) < 3 * 3600e3;
-      return `<article class="story">
-        <div class="story-meta"><span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
-        <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+      return `<article class="story has-badge">
+        ${srcBadge(i.source, "sm")}
+        <div class="story-body">
+          <div class="story-meta"><span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
+          <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+        </div>
       </article>`;
     }).join("");
     $("world-list").hidden = !rest.length;
@@ -2265,6 +2320,12 @@
     $("world-note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed about every twenty minutes; anything older than a day and a half drops off.`;
   }
   $("world-find").addEventListener("input", e => { worldFind = e.target.value; renderWorld(); });
+  $("world-sources").addEventListener("click", e => {
+    const chip = e.target.closest(".src-chip");
+    if (!chip) return;
+    worldSrc = chip.dataset.src === worldSrc ? "" : chip.dataset.src;   // tapping the chosen one clears it
+    renderWorld();
+  });
 
   /* ---- the African headline strip above the inflation orbit ---- */
   // One story at a time, sliding on the same rhythm as the board view, so the portal carries
@@ -2287,6 +2348,7 @@
 
     $("afr-wire-stage").innerHTML = items.map((i, n) => `
       <a class="afr-slide${n === afrWireAt ? " on" : ""}" href="${esc(i.link)}" target="_blank" rel="noopener">
+        ${srcBadge(i.source, "sm")}
         <span class="afr-src">${esc(i.source)}</span>
         <span class="afr-title">${esc(i.title)}</span>
         <span class="afr-when">${esc(timeAgo(i.published))}</span>
