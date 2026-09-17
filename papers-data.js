@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T18:33:38.910Z",
+  "updated": "2026-09-17T20:05:58.876Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,118 +25,130 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ashanti region records 25% drop in maternal mortality in first half of 2026",
-      "link": "https://www.myjoyonline.com/ashanti-region-records-25-drop-in-maternal-mortality-in-first-half-of-2026/",
+      "title": "Large crowd of mourners attend one-week observation of Kessben; final funeral rites set for November 26–28",
+      "link": "https://www.myjoyonline.com/large-crowd-of-mourners-attend-one-week-observation-of-kessben-final-funeral-rites-set-for-november-26-28/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T18:23:48.000Z",
-      "summary": "The Ashanti Region has recorded a 25% drop in institutional maternal mortality in the first half of 2026, with the rate falling from 199.5 to 148.7 deaths per 100,000 live births. The…",
+      "published": "2026-09-17T19:49:35.000Z",
+      "summary": "Thousands of mourners, sympathisers, family members, business associates and well-wishers gathered in the Kumasi Officers' mess for the one-week observation of the late Lawyer Stephen…",
       "categories": [
-        "Health",
+        "National",
+        "Kessben",
+        "late Lawyer Stephen Boateng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nitiwul calls for GPHA boss Paul Tanye-Kulono to step aside over cocaine probe",
+      "link": "https://www.myjoyonline.com/nitiwul-calls-for-gpha-boss-paul-tanye-kulono-to-step-aside-over-cocaine-probe/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T19:44:50.000Z",
+      "summary": "Former Defence Minister Dominic Nitiwul is calling for the Ghana Ports and Harbours Authority (GPHA) Chief Executive Officer, Brigadier-General Paul Seidu Tanye-Kulono, responsible for…",
+      "categories": [
+        "National",
+        "News",
+        "Dominic Nitiwul"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Over 90 apprentices, master craftspersons in Wa East receive industrial tools under National Apprenticeship Programme",
+      "link": "https://www.myjoyonline.com/over-90-apprentices-master-craftspersons-in-wa-east-receive-industrial-tools-under-national-apprenticeship-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T19:42:39.000Z",
+      "summary": "More than 90 youth apprentices and master craftspersons in the Wa East District have received sets of industrial machines, starter tools and training kits to kick-start their skills…",
+      "categories": [
         "Regional",
-        "Ashanti Region",
-        "Drop",
-        "Maternal mortality"
+        "90 apprentices",
+        "National Apprenticeship Programme",
+        "Wa East District"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana’s unemployment situation is ‘scary’ – NSA Ashanti regional Director",
-      "link": "https://www.myjoyonline.com/ghanas-unemployment-situation-is-scary-nsa-ashanti-regional-director/",
+      "title": "SOL Energy, subsidiary of Star Oil, secures provisional BIDEC licence from NPA",
+      "link": "https://www.myjoyonline.com/sol-energy-subsidiary-of-star-oil-secures-provisional-bidec-licence-from-npa/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T18:17:01.000Z",
-      "summary": "The Ashanti Regional Director of the National Service Authority (NSA), Emmanuel Fynn Reagan, has described Ghana’s unemployment situation as \"scary,\" warning that urgent measures are needed…",
+      "published": "2026-09-17T19:41:54.000Z",
+      "summary": "Star Oil is now venturing into the “Bulk Oil Distribution Space” as its subsidiary, SOL Energy, secures a provisional licence from the National Petroleum Authority to operate as a Bulk…",
       "categories": [
-        "National",
-        "Politics",
-        "Ghana",
-        "NSA Director",
-        "Unemployment"
+        "Business",
+        "Energy",
+        "HP Business 1",
+        "Bulk Oil Distribution",
+        "Kwame Tieku",
+        "SOL Energy",
+        "Star Oil"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Photos: Mahama chairs security meeting over drug trafficking through Ghana’s ports",
-      "link": "https://www.myjoyonline.com/photos-mahama-chairs-security-meeting-over-drug-trafficking-through-ghanas-ports/",
+      "title": "Six other people in custody as Ghana investigates drug trafficking through ports – Felix Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/six-other-people-in-custody-as-ghana-investigates-drug-trafficking-through-ports-felix-kwakye-ofosu/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T18:11:24.000Z",
-      "summary": "President John Dramani Mahama on Thursday, September 17 chaired a meeting of security chiefs and received detailed briefing on investigations into the recent trafficking of drugs out of the…",
+      "published": "2026-09-17T19:41:10.000Z",
+      "summary": "The government says six additional suspects are currently in custody and assisting investigations into the recent drug trafficking case through Ghana’s ports.",
       "categories": [
-        "National",
-        "Photo Story",
-        "Ghana",
-        "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Constitutional Review: 5-year term means extra year to amass wealth, loot state coffers — Ansa-Asare",
-      "link": "https://www.myjoyonline.com/constitutional-review-5-year-term-means-extra-year-to-amass-wealth-loot-state-coffers-ansa-asare/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T18:08:55.000Z",
-      "summary": "Former Director of the Ghana School of Law, Kweku Ansa-Asare, has rejected the proposed extension of Ghana’s presidential term from four to five years, describing the move as unnecessary.",
-      "categories": [
-        "HP News 6",
-        "National",
-        "five-year presidential term",
-        "Kweku Ansa-Asare"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bekwai MP rewards top BECE performers as academic results improve",
-      "link": "https://www.myjoyonline.com/bekwai-mp-rewards-top-bece-performers-as-academic-results-improve/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T18:08:19.000Z",
-      "summary": "Member of Parliament for Bekwai, Ralph Poku-Adusei, has rewarded outstanding Basic Education Certificate Examination (BECE) candidates under the School Starter-Pack Scholarship (SSPS), as…",
-      "categories": [
-        "Education",
-        "Regional",
-        "BECE",
-        "Poku-Adusei"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NIA marks Identity Day with public education float, mass registration exercise",
-      "link": "https://www.myjoyonline.com/nia-marks-identity-day-with-public-education-float-mass-registration-exercise/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T18:05:38.000Z",
-      "summary": "The National Identification Authority (NIA) has marked this year’s Identity Day celebration and its 20th anniversary with a public education float and a special mass registration exercise…",
-      "categories": [
-        "National",
-        "NIA",
-        "Registration"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama directs inter-agency task force to submit roadmap to deal with drug trafficking in two weeks",
-      "link": "https://www.myjoyonline.com/mahama-directs-inter-agency-task-force-to-submit-roadmap-to-deal-with-drug-trafficking-in-two-weeks/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T18:04:50.000Z",
-      "summary": "President John Dramani Mahama has directed the formation of an inter-agency task force to develop a detailed roadmap to prevent the trafficking of drugs through Ghana’s borders.",
-      "categories": [
-        "HP News 1",
         "National",
         "Drug trafficking",
-        "Ghana",
-        "Mahama"
+        "Felix Kwakye Ofosu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gender Ministry tasks women in media to drive Affirmative Action Act implementation",
-      "link": "https://www.myjoyonline.com/gender-ministry-tasks-women-in-media-to-drive-affirmative-action-act-implementation/",
+      "title": "Suicide Prevention Awareness Month : Before another young Ghanaian says goodbye",
+      "link": "https://www.myjoyonline.com/suicide-prevention-awareness-month-before-another-young-ghanaian-says-goodbye/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T18:02:11.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection has called on women in the media to play a leading role in educating the public, monitoring compliance and keeping institutions…",
+      "published": "2026-09-17T19:34:44.000Z",
+      "summary": "James sits in his room in total darkness and silence at 1:34 a.m fixing his eyes on absolutely nothing and convincing himself that he’s listening to the music playing. His family thinks he…",
       "categories": [
-        "National",
-        "Affirmative Action Act",
-        "Gender Ministry",
-        "Media"
+        "Health",
+        "News",
+        "Opinion",
+        "Depression",
+        "Suicide Prevention",
+        "Young Ghanaians"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Revolutionizing education in Kenyasi No. 1: The visionary leadership of Nana Osei Kofi Abiri",
+      "link": "https://www.myjoyonline.com/revolutionizing-education-in-kenyasi-no-1-the-visionary-leadership-of-nana-osei-kofi-abiri/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T19:21:40.000Z",
+      "summary": "Nana Osei Kofi Abiri, the Paramount Chief of the Kenyasi No. 1 Traditional Area in the Ahafo Region, is proving that traditional leadership can be the ultimate engine for modern social…",
+      "categories": [
+        "Regional",
+        "Education",
+        "Kenyasi No. 1"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Climate-vulnerable countries spend nearly 25 times more on debt than climate action – ActionAid report",
+      "link": "https://www.myjoyonline.com/climate-vulnerable-countries-spend-nearly-25-times-more-on-debt-than-climate-action-actionaid-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T19:20:25.000Z",
+      "summary": "Climate-vulnerable countries are being forced to spend nearly 25 times more on debt repayments than on climate action, according to a new report by ActionAid and Development Finance…",
+      "categories": [
+        "HP News 8",
+        "International",
+        "National",
+        "ActionAid",
+        "Climate Action",
+        "Climate vulnerable"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Provide full account of GH¢58million World Cup expenditure - Minority demands",
+      "link": "https://www.graphic.com.gh/news/politics/provide-full-account-of-ghc58m-world-cup-expenditure-minority-demands.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-17T19:08:24.000Z",
+      "summary": "The Minority Caucus in Parliament has demanded a detailed, line-by-line account of how the GH¢58 million allocated by the government for Ghana’s participation in the 2026 World Cup was…",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Kenyans dominate 2026 Millennium Marathon",
@@ -338,17 +350,6 @@ window.GDC_PAPERS = {
       "source": "Daily Graphic",
       "published": "2026-09-17T08:59:56.000Z",
       "summary": "The Students Loan Trust Fund (SLTF) spent about GH¢ 600 million in the implementation of its portfolios this year, the Chief Executive Officer (CEO) of the SLTF, Dr Saadija Shiraz, has said.",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Design unique funding models for tech firms - Communication Minister to financial institutions",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-design-unique-funding-models-for-tech-firms-communication-minister-to-financial-institutions.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T08:56:19.000Z",
-      "summary": "The Minister of Communication, Digital Technology and Innovations, Samuel Nartey George, has called for a fundamental shift in the way financial institutions fund the country’s technology…",
       "categories": [
         "General News"
       ],
