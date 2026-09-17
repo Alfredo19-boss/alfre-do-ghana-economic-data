@@ -172,7 +172,7 @@ window.GDC_DATA = {
     {
       "board": true,
       "label": "Unemployment rate",
-      "value": 12.8,
+      "value": 13.0,
       "dec": 1,
       "unit": "%",
       "note": "Average of Q1–Q3 2025 · Ghana Statistical Service",
