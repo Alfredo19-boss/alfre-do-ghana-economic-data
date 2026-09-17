@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-17T01:49:38.198Z",
+  "updated": "2026-09-17T02:14:26.585Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,10 +25,21 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)"
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "World · Reuters: failed (HTTP 429)",
+    "World · Associated Press: failed (HTTP 429)",
+    "World · BBC News: 0 stories",
+    "World · Al Jazeera: failed (HTTP 429)",
+    "World · France 24: failed (HTTP 429)",
+    "World · CNBC: 0 stories",
+    "Africa · AllAfrica: failed (HTTP 429)",
+    "Africa · Africanews: failed (HTTP 429)",
+    "Africa · Reuters: failed (HTTP 429)",
+    "Africa · BBC News: failed (HTTP 429)",
+    "Africa · Al Jazeera: failed (HTTP 429)"
   ],
   "items": [
     {
@@ -1081,5 +1092,7 @@ window.GDC_NEWS = {
       "published": "2026-09-14T06:36:41.000Z",
       "summary": "MTN Ghana has intensified cybersecurity awareness among its workforce to counter increasingly sophisticated methods used by cybercriminals, hackers and fraudsters."
     }
-  ]
+  ],
+  "world": [],
+  "africa": []
 };
