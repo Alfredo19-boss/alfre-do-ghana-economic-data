@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T20:05:58.876Z",
+  "updated": "2026-09-17T22:50:59.123Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,119 +25,150 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Large crowd of mourners attend one-week observation of Kessben; final funeral rites set for November 26–28",
-      "link": "https://www.myjoyonline.com/large-crowd-of-mourners-attend-one-week-observation-of-kessben-final-funeral-rites-set-for-november-26-28/",
+      "title": "Fiji declares HIV a national emergency as cases surge",
+      "link": "https://www.myjoyonline.com/fiji-declares-hiv-a-national-emergency-as-cases-surge/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T19:49:35.000Z",
-      "summary": "Thousands of mourners, sympathisers, family members, business associates and well-wishers gathered in the Kumasi Officers' mess for the one-week observation of the late Lawyer Stephen…",
+      "published": "2026-09-17T22:05:00.000Z",
+      "summary": "Fiji has declared a national emergency as HIV cases surge, and is expanding access to testing, treatment and prevention services.",
       "categories": [
-        "National",
-        "Kessben",
-        "late Lawyer Stephen Boateng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nitiwul calls for GPHA boss Paul Tanye-Kulono to step aside over cocaine probe",
-      "link": "https://www.myjoyonline.com/nitiwul-calls-for-gpha-boss-paul-tanye-kulono-to-step-aside-over-cocaine-probe/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T19:44:50.000Z",
-      "summary": "Former Defence Minister Dominic Nitiwul is calling for the Ghana Ports and Harbours Authority (GPHA) Chief Executive Officer, Brigadier-General Paul Seidu Tanye-Kulono, responsible for…",
-      "categories": [
-        "National",
-        "News",
-        "Dominic Nitiwul"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Over 90 apprentices, master craftspersons in Wa East receive industrial tools under National Apprenticeship Programme",
-      "link": "https://www.myjoyonline.com/over-90-apprentices-master-craftspersons-in-wa-east-receive-industrial-tools-under-national-apprenticeship-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T19:42:39.000Z",
-      "summary": "More than 90 youth apprentices and master craftspersons in the Wa East District have received sets of industrial machines, starter tools and training kits to kick-start their skills…",
-      "categories": [
-        "Regional",
-        "90 apprentices",
-        "National Apprenticeship Programme",
-        "Wa East District"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SOL Energy, subsidiary of Star Oil, secures provisional BIDEC licence from NPA",
-      "link": "https://www.myjoyonline.com/sol-energy-subsidiary-of-star-oil-secures-provisional-bidec-licence-from-npa/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T19:41:54.000Z",
-      "summary": "Star Oil is now venturing into the “Bulk Oil Distribution Space” as its subsidiary, SOL Energy, secures a provisional licence from the National Petroleum Authority to operate as a Bulk…",
-      "categories": [
-        "Business",
-        "Energy",
-        "HP Business 1",
-        "Bulk Oil Distribution",
-        "Kwame Tieku",
-        "SOL Energy",
-        "Star Oil"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Six other people in custody as Ghana investigates drug trafficking through ports – Felix Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/six-other-people-in-custody-as-ghana-investigates-drug-trafficking-through-ports-felix-kwakye-ofosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T19:41:10.000Z",
-      "summary": "The government says six additional suspects are currently in custody and assisting investigations into the recent drug trafficking case through Ghana’s ports.",
-      "categories": [
-        "National",
-        "Drug trafficking",
-        "Felix Kwakye Ofosu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Suicide Prevention Awareness Month : Before another young Ghanaian says goodbye",
-      "link": "https://www.myjoyonline.com/suicide-prevention-awareness-month-before-another-young-ghanaian-says-goodbye/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T19:34:44.000Z",
-      "summary": "James sits in his room in total darkness and silence at 1:34 a.m fixing his eyes on absolutely nothing and convincing himself that he’s listening to the music playing. His family thinks he…",
-      "categories": [
-        "Health",
-        "News",
-        "Opinion",
-        "Depression",
-        "Suicide Prevention",
-        "Young Ghanaians"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Revolutionizing education in Kenyasi No. 1: The visionary leadership of Nana Osei Kofi Abiri",
-      "link": "https://www.myjoyonline.com/revolutionizing-education-in-kenyasi-no-1-the-visionary-leadership-of-nana-osei-kofi-abiri/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T19:21:40.000Z",
-      "summary": "Nana Osei Kofi Abiri, the Paramount Chief of the Kenyasi No. 1 Traditional Area in the Ahafo Region, is proving that traditional leadership can be the ultimate engine for modern social…",
-      "categories": [
-        "Regional",
-        "Education",
-        "Kenyasi No. 1"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Climate-vulnerable countries spend nearly 25 times more on debt than climate action – ActionAid report",
-      "link": "https://www.myjoyonline.com/climate-vulnerable-countries-spend-nearly-25-times-more-on-debt-than-climate-action-actionaid-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T19:20:25.000Z",
-      "summary": "Climate-vulnerable countries are being forced to spend nearly 25 times more on debt repayments than on climate action, according to a new report by ActionAid and Development Finance…",
-      "categories": [
-        "HP News 8",
         "International",
-        "National",
-        "ActionAid",
-        "Climate Action",
-        "Climate vulnerable"
+        "Fiji",
+        "HIV",
+        "National Emergency"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "link": "https://www.myjoyonline.com/michelin-starred-seoul-restaurant-fined-for-using-ants-as-garnish/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T21:55:00.000Z",
+      "summary": "A two Michelin-starred restaurant in Seoul has been fined for using ants as a dessert garnish.",
+      "categories": [
+        "International",
+        "ants",
+        "Seoul restaurant"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No politics behind fuel export reduction to Sahel – BOSTenergies",
+      "link": "https://www.myjoyonline.com/no-politics-behind-fuel-export-reduction-to-sahel-bostenergies/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T21:43:00.000Z",
+      "summary": "BOSTenergies Limited says the reduction in fuel export volumes to Burkina Faso and Mali has nothing to do with politics, security or diplomatic considerations.",
+      "categories": [
+        "Energy",
+        "HP News 4",
+        "National",
+        "BOSTenergies Limited"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BOST clarifies fuel export cut to Burkina Faso, Mali – Says no imminent shortage in Ghana",
+      "link": "https://www.myjoyonline.com/bost-clarifies-fuel-export-cut-to-burkina-faso-mali-says-no-imminent-shortage-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T21:24:00.000Z",
+      "summary": "BOST Energies Limited has clarified reports about a reduction in its fuel supply volumes to Burkina Faso and Mali, saying the development is not linked to an imminent fuel shortage in Ghana.",
+      "categories": [
+        "Energy",
+        "HP News 10",
+        "National",
+        "BOST Energies Limited",
+        "Burkina Faso",
+        "Mali"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New iPhones, new features: Is it time to upgrade?",
+      "link": "https://www.myjoyonline.com/new-iphones-new-features-is-it-time-to-upgrade/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T20:53:44.000Z",
+      "summary": "Apple just held its biggest hardware event of the year, unveiling the iPhone 18 Pro, the iPhone 18 Pro Max, and its first-ever folding phone, the iPhone Duo. Within 48 hours, timelines had…",
+      "categories": [
+        "Technology",
+        "iPhones",
+        "upgrade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Scaling Enterprise AI across Africa: From technology to real-world impact",
+      "link": "https://www.myjoyonline.com/scaling-enterprise-ai-across-africa-from-technology-to-real-world-impact/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T20:49:43.000Z",
+      "summary": "Artificial intelligence is moving quickly, but the real question for Africa is no longer simply \"How do we use AI?\" It is: how do we move AI from the drawing board into real businesses…",
+      "categories": [
+        "Technology",
+        "Africa",
+        "Enterprise AI"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fibre Broadband isn’t complicated: You’re just overthinking it",
+      "link": "https://www.myjoyonline.com/fibre-broadband-isnt-complicated-youre-just-overthinking-it/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T20:44:50.000Z",
+      "summary": "If you've ever heard the word \"fibre\" and pictured something technical, expensive, or meant only for offices and tech-savvy people, you're not alone. For many people, the word fibre can…",
+      "categories": [
+        "Technology",
+        "Complicated",
+        "Fire broadband"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arrest all officials who handled cocaine-linked container – Nitiwul",
+      "link": "https://www.myjoyonline.com/arrest-all-officials-who-handled-cocaine-linked-container-nitiwul/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T20:19:52.000Z",
+      "summary": "Former Defence Minister Dominic Nitiwul has called for the arrest of all officials involved in handling the container linked to the latest cocaine seizure.",
+      "categories": [
+        "HP News 2",
+        "News",
+        "Cocaine seizure",
+        "Dominic Nitiwul",
+        "port"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama chairs security meeting over drug trafficking, orders formation of inter-agency task force",
+      "link": "https://ghanaiantimes.com.gh/mahama-chairs-security-meeting-over-drug-trafficking-orders-formation-of-inter-agency-task-force/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T20:11:22.000Z",
+      "summary": "President John Dramani Mahama today chaired a meeting of security chiefs and received a detailed briefing on investigations into the recent trafficking of drugs out of Ghana’s ports. The…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UG research: 74.2% of NPP delegates expect Eugene Boakye Antwi to win General Secretary race",
+      "link": "https://ghanaiantimes.com.gh/ug-research-74-2-of-npp-delegates-expect-eugene-boakye-antwi-to-win-general-secretary-race/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T20:08:07.000Z",
+      "summary": "A University of Ghana research on the New Patriotic Party (NPP) National General Secretary election has found that 74.2% of surveyed delegates expect former Subin MP Eugene Boakye Antwi to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Man Utd bundled out of League Cup",
+      "link": "https://ghanaiantimes.com.gh/man-utd-bundled-out-of-league-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T19:46:13.000Z",
+      "summary": "Unhappy Manchester United fans witnessed something unseen at Old Trafford in half a century on Wednesday as their side lost 3-2 at home to Brighton & Hove Albion in ‌the third round of the…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Provide full account of GH¢58million World Cup expenditure - Minority demands",
@@ -225,42 +256,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-09-17T16:59:26.000Z",
       "summary": "The Member of Parliament for Effutu, Alexander Afenyo-Markin, has called for calm and restraint following the invasion of the New Winneba community which resulted in the loss of lives and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hawa Koomson demands bail for nurse held over alleged link to “Ghana Jollof”",
-      "link": "https://ghanaiantimes.com.gh/hawa-koomson-demands-bail-for-nurse-held-over-alleged-link-to-ghana-jollof/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T16:56:56.000Z",
-      "summary": "Aspiring National Women’s Organiser of the New Patriotic Party (NPP), Hawa Koomson, has called for the immediate release on bail of Madam Salomey Baffoe, a 40-year-old nurse and mother of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ayariga calls for stronger local intelligence to prevent crisis",
-      "link": "https://ghanaiantimes.com.gh/ayariga-calls-for-stronger-local-intelligence-to-prevent-crisis/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T16:54:09.000Z",
-      "summary": "Minister for Local Government and Religious Affairs, Mahama Ayariga, has underscored the need for stronger intelligence sharing and early warning systems at the local level to de-escalate…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Resources Intermediaries Limited marks 15th anniversary with donation to Ushers Hospital",
-      "link": "https://ghanaiantimes.com.gh/resources-intermediaries-limited-marks-15th-anniversary-with-donation-to-ushers-hospital/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T16:49:40.000Z",
-      "summary": "Resources Intermediaries Limited Ghana has marked its 15th anniversary by donating an undisclosed amount to Ushers Hospital to support the payment of minor medical bills for patients who…",
       "categories": [
         "Hot!",
         "News"
