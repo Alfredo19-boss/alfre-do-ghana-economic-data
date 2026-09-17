@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-17T16:59:31.497Z",
-  "worldAt": "2026-09-17T16:59:31.494Z",
+  "updated": "2026-09-17T18:33:18.996Z",
+  "worldAt": "2026-09-17T18:33:18.994Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,30 +22,44 @@ window.GDC_NEWS = {
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "Graphic Online: 6/25 stories",
     "Graphic Business: 0/0 stories",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 37 stories",
+    "World · BBC News: 39 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 32 stories",
-    "Africa · Africanews: 23 stories",
+    "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 29 stories",
-    "Africa · Deutsche Welle: 7 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Deutsche Welle: 6 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Ghana Faces Growing Need to Strengthen Maritime Security as Global Risks Spread",
+      "link": "https://thehighstreetjournal.com/ghana-faces-growing-need-to-strengthen-maritime-security-as-global-risks-spread/",
+      "source": "The High Street Journal",
+      "published": "2026-09-17T18:30:47.000Z",
+      "summary": "Ghana’s growing maritime economy faces rising security risks, making stronger surveillance, coordination and real-time information critical to protecting its waters and trade."
+    },
+    {
+      "title": "Africa’s Growing Savings and Trade Flows Signal Expanding Business Opportunities",
+      "link": "https://thehighstreetjournal.com/africas-growing-savings-and-trade-flows-signal-expanding-business-opportunities/",
+      "source": "The High Street Journal",
+      "published": "2026-09-17T17:05:00.000Z",
+      "summary": "Rising African deposits, electronic payments and cross-border transactions are creating larger pools of capital and signalling expanding commercial activity, while infrastructure investment…"
+    },
     {
       "title": "GCB’s Helmet On, Life On campaign targets motorcycle safety in Accra CBD",
       "link": "https://www.myjoyonline.com/gcbs-helmet-on-life-on-campaign-targets-motorcycle-safety-in-accra-cbd/",
@@ -66,6 +80,34 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-17T16:10:00.000Z",
       "summary": "Fidelity Bank Ghana has expanded its physical presence across the country with the opening of its Afienya Road Branch, bringing the Bank’s total number of branches to 82 across 14 regions."
+    },
+    {
+      "title": "CIPS To Cut Payment Costs For Ghana-China Businesses",
+      "link": "https://thehighstreetjournal.com/cips-to-cut-payment-costs-for-ghana-china-businesses/",
+      "source": "The High Street Journal",
+      "published": "2026-09-17T16:03:00.000Z",
+      "summary": "The introduction of CIPS in Ghana could lower payment costs and speed up settlement for Ghana-China trade, while enabling eligible businesses to transact more directly in Chinese yuan."
+    },
+    {
+      "title": "Afreximbank Urges Africa to Harness Diaspora Capital for Industrial Growth",
+      "link": "https://thehighstreetjournal.com/afreximbank-diaspora-capital-for-growth/",
+      "source": "The High Street Journal",
+      "published": "2026-09-17T15:31:00.000Z",
+      "summary": "Dangote Refinery highlights the continent’s capacity to build globally scaled industries as the bank pushes investment, regional value chains and economic integration"
+    },
+    {
+      "title": "Impact of Geopolitics on Ghana’s Fuel Prices: A Clear Warning to Depoliticize Country’s Fuel Issues",
+      "link": "https://thehighstreetjournal.com/impact-of-geopolitics-on-ghanas-fuel-prices-a-clear-warning-to-depoliticize-countrys-fuel-issues/",
+      "source": "The High Street Journal",
+      "published": "2026-09-17T15:14:00.000Z",
+      "summary": "Ghana must depoliticise crude oil and fuel-price debates and focus on long-term energy resilience, as geopolitical disruptions expose vulnerabilities in the downstream petroleum sector and…"
+    },
+    {
+      "title": "Ghana, Japan Seek Cooperation in Space Technology",
+      "link": "https://thehighstreetjournal.com/ghana-japan-space-technology/",
+      "source": "The High Street Journal",
+      "published": "2026-09-17T14:29:00.000Z",
+      "summary": "Ablakwa said the Foreign Affairs Ministry was prepared to coordinate international partnerships that support Ghana’s strategic objectives, stressing that space exploration requires…"
     },
     {
       "title": "A ‘Misplaced’ Procurement: When Africa’s Public Spending Follows Rules but Misses Growth",
@@ -1053,57 +1095,85 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-15T05:42:00.000Z",
       "summary": "Finance Minister Dr Cassiel Ato Forson has hinted that the 2027 Budget will be presented to Parliament in the first week of November 2026."
-    },
-    {
-      "title": "Ghana’s Border Security: The Case for a Fully Integrated Joint Security Architecture",
-      "link": "https://thehighstreetjournal.com/ghanas-border-security-the-case-for-a-fully-integrated-joint-security-architecture/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T05:05:00.000Z",
-      "summary": "Ghana has the institutions and expertise to protect its borders; the challenge is connecting them through a permanent, intelligence-led security architecture that works together."
-    },
-    {
-      "title": "Laboma Demolition: When Negligent Authorities & ‘Corner-Cutting’ Developers Burn Huge Investments",
-      "link": "https://thehighstreetjournal.com/laboma-demolition-when-negligent-authorities-corner-cutting-developers-burn-huge-investments/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T05:03:00.000Z",
-      "summary": "Laboma’s demolitions expose how negligent authorities and developers who bypass rules can turn preventable encroachment into costly destruction, wiping out millions in investments…"
-    },
-    {
-      "title": "Ghana’s Cashew Waste Spurs Women-Led Businesses",
-      "link": "https://thehighstreetjournal.com/cashew-waste-to-create-women-led-jobs/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T05:02:00.000Z",
-      "summary": "Ghana discards an estimated 2 million metric tons of cashew apples each year, pointing to an untapped source of income as women and young people are trained to turn the highly perishable…"
-    },
-    {
-      "title": "TOR’s GH¢1.24bn Profit Revives Debate Over State Asset Restructuring",
-      "link": "https://thehighstreetjournal.com/tors-gh%c2%a21-24bn-profit-revives-debate-over-state-asset-restructuring/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T05:01:00.000Z",
-      "summary": "TOR’s turnaround strengthens the case for auditing distressed state assets before privatisation, as improved management, restructuring and investment can restore financial and strategic…"
-    },
-    {
-      "title": "China Railway Construction Expresses Interest in Developing Ghana’s Sport Projects",
-      "link": "https://thehighstreetjournal.com/crc-expresses-interest-in-ghanas-sport/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T05:00:00.000Z",
-      "summary": "The discussions could open the way for CRC to participate in future sports infrastructure projects in Ghana, although no contracts, project values or financing arrangements were announced"
-    },
-    {
-      "title": "African banks’ foreign subsidiary contributions increasing; Access Bank records fastest cross-border growth",
-      "link": "https://www.myjoyonline.com/african-banks-foreign-subsidiary-contributions-increasing-access-bank-records-fastest-cross-border-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T03:41:46.000Z",
-      "summary": "According to the UK-based firm, the contributions from these subsidiaries have grown over the past decade, and the increase has accelerated since the pandemic, propelled by acquisitions…"
     }
   ],
   "world": [
     {
-      "title": "Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends",
-      "link": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss",
+      "title": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T16:23:49.000Z",
-      "summary": "Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter."
+      "published": "2026-09-17T18:18:48.000Z",
+      "summary": "A ninth woman has been found dead amid a wave of killings in South Africa’s Ekurhuleni region, east of Johannesburg."
+    },
+    {
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-17T17:08:00.000Z",
+      "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
+    },
+    {
+      "title": "English FA calls for Infantino to release FIFA World Cup sell-off documents",
+      "link": "https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T18:15:23.000Z",
+      "summary": "Gianni Infantino's World Cup selloff plan has faced global backlash with English FA latest to seek document release."
+    },
+    {
+      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+      "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-17T16:59:43.000Z",
+      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler."
+    },
+    {
+      "title": "Brazil’s Lula announces welfare increases ahead of presidential election",
+      "link": "https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T18:07:05.000Z",
+      "summary": "Government says that increase represents an adjustment for inflation that has eaten away purchasing power since 2023."
+    },
+    {
+      "title": "A war-fatigued and anxious Russia picks a new parliament",
+      "link": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-17T16:42:00.000Z",
+      "summary": "Fuel shortages, drone strikes and mobilization rumors are fueling anxiety and war fatigue in Russia. As support for peace talks grows among Russians, the Kremlin is watching closely ahead…"
+    },
+    {
+      "title": "Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T18:06:50.000Z",
+      "summary": "The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan."
+    },
+    {
+      "title": "Oil exploitation blamed for environmental damage, crop loss in Congo",
+      "link": "http://www.africanews.com/2026/09/17/oil-exploitation-blamed-for-environmental-damage-crop-loss-in-congo/",
+      "source": "Africanews",
+      "published": "2026-09-17T16:27:00.000Z",
+      "summary": "In a report co-authored with Caritas, the diocese of Pointe-Noire said farmers in the Koilou department have reported sharp drops in cassava harvests. The residents pointed the finger at…"
+    },
+    {
+      "title": "Abhishek Sharma hits record T20 ton as India beat Afghanistan by 127 runs",
+      "link": "https://www.aljazeera.com/sports/2026/9/17/abhishek-sharmas-30-ball-ton-leads-india-to-127-run-win-over-afghanistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T18:03:50.000Z",
+      "summary": "India opener Abhishek Sharma hits nine fours and 11 sixes in total of 221-7 as India seal 3-0 T20 series sweep."
+    },
+    {
+      "title": "Medical teams in DRC face difficult conditions as the race to contain Ebola outbreak",
+      "link": "http://www.africanews.com/2026/09/17/medical-teams-in-drc-face-difficult-conditions-as-the-race-to-contain-ebola-outbreak/",
+      "source": "Africanews",
+      "published": "2026-09-17T16:26:48.000Z",
+      "summary": "Medical teams face brutal conditions as grave diggers work night and day to bury victims of the Ebola outbreak which continues to grip the Democratic Republic of Congo."
+    },
+    {
+      "title": "‘I’m Russian’: NHL star Ovechkin defends Putin ad appearance",
+      "link": "https://www.aljazeera.com/sports/2026/9/17/im-russian-nhl-star-ovechkin-defends-putin-ad-appearance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T18:02:20.000Z",
+      "summary": "Washington Capitals captain under fire for appearing in an election campaign video for Putin's United Russia party."
     },
     {
       "title": "Food security under pressure from conflicts, extreme weather",
@@ -1113,11 +1183,11 @@ window.GDC_NEWS = {
       "summary": "Extreme weather and violent conflicts are threatening food production and trade across the globe. Experts are forecasting a super El Niño, which could further disrupt planting and harvests…"
     },
     {
-      "title": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-      "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
+      "title": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
+      "link": "https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T16:10:49.000Z",
-      "summary": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'."
+      "published": "2026-09-17T17:29:54.000Z",
+      "summary": "British monarch highlights AI's potential darker capacities, urging safety and humanity-focused development."
     },
     {
       "title": "Climate change: Glacier loss and dry rivers threaten water security",
@@ -1127,11 +1197,25 @@ window.GDC_NEWS = {
       "summary": "The world's rivers experienced one of their driest years in more than three decades in 2025, while glaciers continued to retreat and freshwater reserves kept declining, according to the…"
     },
     {
+      "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+      "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T17:02:31.000Z",
+      "summary": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests."
+    },
+    {
       "title": "Sudanese women preserve bridal henna tradition amid war and water crisis",
       "link": "http://www.africanews.com/2026/09/17/sudanese-women-preserve-bridal-henna-tradition-amid-war-and-water-crisis/",
       "source": "Africanews",
       "published": "2026-09-17T16:05:45.000Z",
       "summary": "For Sudanese women, keeping the tradition alive has become a way of preserving cultural identity amid profound upheaval."
+    },
+    {
+      "title": "Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends",
+      "link": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T16:23:49.000Z",
+      "summary": "Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter."
     },
     {
       "title": "'Sanctions won’t prevent us from doing our job' says ICC Prosecutor Mame Mandiaye Niang",
@@ -1141,11 +1225,11 @@ window.GDC_NEWS = {
       "summary": "In this edition of Perspective, the acting Prosecutor of the International Criminal Court tells FRANCE 24 that the court is needed now more than ever to ensure there is no gap for impunity…"
     },
     {
-      "title": "Rare Ethiopian manuscript stolen by British forces triggers restitution row",
-      "link": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss",
+      "title": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T15:52:04.000Z",
-      "summary": "The Gondar Gospel belonged to the library of Emperor Tewodros but was seized in a battle decades ago."
+      "published": "2026-09-17T16:10:49.000Z",
+      "summary": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'."
     },
     {
       "title": "Nicolas Winding Refn on nearly dying, reuniting with Ryan Gosling and why 'polarisation is success'",
@@ -1155,11 +1239,11 @@ window.GDC_NEWS = {
       "summary": "Ten years after The Neon Demon, Nicolas Winding Refn is back with 'Her Private Hell', a neon-soaked fever dream starring Sophie Thatcher and Charles Melton. Speaking to FRANCE 24’s Eve…"
     },
     {
-      "title": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
+      "title": "Rare Ethiopian manuscript stolen by British forces triggers restitution row",
+      "link": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T15:40:48.000Z",
-      "summary": "Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'."
+      "published": "2026-09-17T15:52:04.000Z",
+      "summary": "The Gondar Gospel belonged to the library of Emperor Tewodros but was seized in a battle decades ago."
     },
     {
       "title": "Netanyahu: Iran weakened but 'desire' to destroy Israel has not disappeared",
@@ -1167,6 +1251,20 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-17T15:25:09.000Z",
       "summary": "The war in the Middle East has weakened Iran militarily but it hasn’t changed Tehran’s hatred for his country, Israeli Prime Minister Benjamin Netanyahu said on Thursday."
+    },
+    {
+      "title": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
+      "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T15:40:48.000Z",
+      "summary": "Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'."
+    },
+    {
+      "title": "Gaza documentary 'NAZA' sparks political storm, threats against directors in Israel",
+      "link": "https://www.france24.com/en/middle-east/20260917-gaza-documentary-naza-sparks-political-storm-in-israel",
+      "source": "France 24",
+      "published": "2026-09-17T15:24:40.000Z",
+      "summary": "The award-winning documentary \"NAZA\" featuring anonymous military sources speaking about Israel's mass killing of civilians in Gaza has sparked a political firestorm in Israel. The film's…"
     },
     {
       "title": "Ninth woman’s body found as South Africa probes series of killings",
@@ -1211,11 +1309,25 @@ window.GDC_NEWS = {
       "summary": "Real Madrid's French forward Kylian Mbappé is facing mounting criticism by Spanish and French conservative and far-right politicians for partially obscuring a t-shirt supporting residents…"
     },
     {
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-17T15:07:47.000Z",
+      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
+    },
+    {
       "title": "What are all the sanctions Iran is under?",
       "link": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-17T15:01:27.000Z",
       "summary": "Iran has faced a torrent of international sanctions since the 1979 revolution - here's what's in place right now."
+    },
+    {
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-17T15:05:13.000Z",
+      "summary": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
     },
     {
       "title": "Amnesty accuses Iran of crimes against humanity",
@@ -1265,127 +1377,36 @@ window.GDC_NEWS = {
       "source": "France 24",
       "published": "2026-09-17T14:52:00.000Z",
       "summary": "Charles Pellegrin is pleased to welcome Hannah Storey, Head of Children and Young People’s Digital Rights at Amnesty International. Digital spaces can provide even young people with…"
-    },
-    {
-      "title": "Ohio bike shop offers refuge and community to Mauritanian immigrants",
-      "link": "http://www.africanews.com/2026/09/17/ohio-bike-shop-offers-refuge-and-community-to-mauritanian-immigrants/",
-      "source": "Africanews",
-      "published": "2026-09-17T14:20:31.000Z",
-      "summary": "This business in Lockland, Ohio, looks like a bike shop, but it’s a lot more than that. It’s also a gathering center for Mauritanians seeking asylum in the United States."
-    },
-    {
-      "title": "Brazil election: Lula vows to stand up to Trump",
-      "link": "https://www.france24.com/en/brazil-election-lula-vows-to-stand-up-to-trump",
-      "source": "France 24",
-      "published": "2026-09-17T14:47:39.000Z",
-      "summary": "Brazilian President Lula says he will confront President Donald Trump at the UN in New York, accusing him of interfering in Brazil's election as tensions between Washington and Brasília…"
-    },
-    {
-      "title": "Valencia region deluge leaves streets covered in mud and vehicles unusable in Torrent",
-      "link": "http://www.africanews.com/2026/09/17/valencia-region-deluge-leaves-streets-covered-in-mud-and-vehicles-unusable-in-torrent/",
-      "source": "Africanews",
-      "published": "2026-09-17T14:19:22.000Z",
-      "summary": "Intense rainfall dumped up to 96 mm on Torrent, south‑west of Valencia, flooding roads, homes and the Parc Central tunnel, trapping cars and prompting emergency pumping operations."
-    },
-    {
-      "title": "Lebanon on Paris talks : 'the general sentiment here is very little hope'",
-      "link": "https://www.france24.com/en/lebanon-on-paris-talks-the-general-sentiment-here-is-very-little-hope",
-      "source": "France 24",
-      "published": "2026-09-17T14:46:07.000Z",
-      "summary": "Lebanese President Joseph Aoun is in Paris for talks with Emmanuel Macron, but on the ground many Lebanese say they have little hope after months of war with Israel, the continued…"
-    },
-    {
-      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T14:10:41.000Z",
-      "summary": "Iran's speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation."
-    },
-    {
-      "title": "From Then to Now: European Heritage Days and saving France's 'patrimoine'",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260917-from-then-to-now-european-heritage-days-and-saving-france-s-patrimoine",
-      "source": "France 24",
-      "published": "2026-09-17T14:30:31.000Z",
-      "summary": "Whether it’s visiting a national monument, going behind-the-scenes at a television station or walking around a neighbour’s castle, millions participate every year in The European Heritage…"
-    },
-    {
-      "title": "Greetings from Beijing, where baozi are worth the wait in line",
-      "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-      "source": "NPR World",
-      "published": "2026-09-17T13:59:17.000Z",
-      "summary": "The popular fluffy steamed buns are filled with pork, vegetables, tofu — and in one trendy Beijing shop, chocolate and red beans."
-    },
-    {
-      "title": "US interest rate hike sparks Trump backlash",
-      "link": "https://www.france24.com/en/us-interest-rate-hike-sparks-trump-backlash",
-      "source": "France 24",
-      "published": "2026-09-17T14:21:23.000Z",
-      "summary": "The US Federal Reserve has raised interest rates for the first time since 2023, citing stubborn inflation despite pressure from President Donald Trump to cut borrowing costs. The decision…"
-    },
-    {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-17T13:44:07.000Z",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
-    },
-    {
-      "title": "Paris, the ultimate film set",
-      "link": "http://www.france24.com/en/tv-shows/entre-nous/20260917-paris-the-ultimate-film-set",
-      "source": "France 24",
-      "published": "2026-09-17T13:38:38.000Z",
-      "summary": "Paris has been a muse for filmmakers for over a century. The French capital has inspired countless scenes on the big screen. A new book brings them all together. Ruby Boukabou, author of…"
-    },
-    {
-      "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
-      "link": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T13:25:25.000Z",
-      "summary": "Pakistan says an Indian warship entered its EEZ, while India says the collision occurred in international waters."
-    },
-    {
-      "title": "Paris, the ultimate film set",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260917-paris-the-ultimate-film-set",
-      "source": "France 24",
-      "published": "2026-09-17T13:38:38.000Z",
-      "summary": "Paris has been a muse for filmmakers for over a century. The French capital has inspired countless scenes on the big screen. A new book brings them all together. Ruby Boukabou, author of…"
-    },
-    {
-      "title": "How far will Egypt go to help Saudi Arabia secure the Red Sea?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/17/how-far-will-egypt-go-to-help-saudi-arabia-secure-the-red-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T13:24:10.000Z",
-      "summary": "Regional analysts highlight the growing security alignment between Cairo and Riyadh amid escalating Red Sea tensions."
-    },
-    {
-      "title": "DR Congo says Ebola outbreak has passed its peak",
-      "link": "http://www.france24.com/en/dr-congo-says-ebola-outbreak-has-passed-its-peak",
-      "source": "France 24",
-      "published": "2026-09-17T13:36:09.000Z",
-      "summary": "More than 3,510 people have died from Ebola in eastern DR Congo since the outbreak was declared four months ago, with Ituri accounting for 78% of confirmed cases. Congolese authorities say…"
-    },
-    {
-      "title": "Exotic animal smuggling baffles activists in India",
-      "link": "https://www.dw.com/en/exotic-animal-smuggling-baffles-activists-in-india/a-79309352?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-17T13:18:00.000Z",
-      "summary": "Orangutans, rare reptiles and other exotic animals are popping up in India, suggesting the country is becoming a major destination for trafficked wildlife."
-    },
-    {
-      "title": "DR Congo says Ebola outbreak has passed its peak",
-      "link": "https://www.france24.com/en/dr-congo-says-ebola-outbreak-has-passed-its-peak",
-      "source": "France 24",
-      "published": "2026-09-17T13:36:09.000Z",
-      "summary": "More than 3,510 people have died from Ebola in eastern DR Congo since the outbreak was declared four months ago, with Ituri accounting for 78% of confirmed cases. Congolese authorities say…"
     }
   ],
   "africa": [
+    {
+      "title": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T18:18:48.000Z",
+      "summary": "A ninth woman has been found dead amid a wave of killings in South Africa’s Ekurhuleni region, east of Johannesburg."
+    },
+    {
+      "title": "Oil exploitation blamed for environmental damage, crop loss in Congo",
+      "link": "http://www.africanews.com/2026/09/17/oil-exploitation-blamed-for-environmental-damage-crop-loss-in-congo/",
+      "source": "Africanews",
+      "published": "2026-09-17T16:27:00.000Z",
+      "summary": "In a report co-authored with Caritas, the diocese of Pointe-Noire said farmers in the Koilou department have reported sharp drops in cassava harvests. The residents pointed the finger at…"
+    },
     {
       "title": "Liberia: Boakai Relishes Revenue Gains",
       "link": "https://allafrica.com/stories/202609170510.html",
       "source": "AllAfrica Business",
       "published": "2026-09-17T16:24:31.000Z",
       "summary": "[New Republic] -President Joseph Nyuma Boakai has relished Liberia's new revenue chapter of surpassing US$1 billion dollars in revenue collection; a milestone he attributed to the tenacity…"
+    },
+    {
+      "title": "Medical teams in DRC face difficult conditions as the race to contain Ebola outbreak",
+      "link": "http://www.africanews.com/2026/09/17/medical-teams-in-drc-face-difficult-conditions-as-the-race-to-contain-ebola-outbreak/",
+      "source": "Africanews",
+      "published": "2026-09-17T16:26:48.000Z",
+      "summary": "Medical teams face brutal conditions as grave diggers work night and day to bury victims of the Ebola outbreak which continues to grip the Democratic Republic of Congo."
     },
     {
       "title": "Ninth woman’s body found as South Africa probes series of killings",
@@ -1542,11 +1563,11 @@ window.GDC_NEWS = {
       "summary": "[Vanguard] ActionAid Nigeria, market women, university students and other civil society groups on Thursday staged a protest at the gate of the Federal Ministry of Finance over Nigeria's…"
     },
     {
-      "title": "Liberia: Kpelle Association Launches Dollar Rally for Ex-VP Taylor",
-      "link": "https://allafrica.com/stories/202609170262.html",
+      "title": "Nigeria: Lagos 2027 - 'I Will Campaign in Yoruba' - Grv",
+      "link": "https://allafrica.com/stories/202609170276.html",
       "source": "AllAfrica",
-      "published": "2026-09-17T10:57:53.000Z",
-      "summary": "[Liberian Observer] The National Association of the Kpelle and Kpelle-Speaking People of Liberia (NAKKSPL) has launched a solidarity fundraising campaign in support of former Liberian Vice…"
+      "published": "2026-09-17T11:07:06.000Z",
+      "summary": "[Vanguard] The Lagos governorship candidate of the African Democratic Congress, ADC, Gbadebo Rhodes-Vivour, has said he will campaign in Yoruba ahead of the 2027 election."
     },
     {
       "title": "Nigeria: Ondo Poisonous Drink - Death Toll Rises to 49",
@@ -1556,11 +1577,11 @@ window.GDC_NEWS = {
       "summary": "[Daily Trust] The death toll from the consumption of a suspected poisonous herbal drink in Ondo State has risen to 49, while the number of affected persons has climbed to about 170, health…"
     },
     {
-      "title": "African lab scientists gather in Togo to discuss challenges amid Ebola crisis",
-      "link": "http://www.africanews.com/2026/09/17/african-lab-scientists-gather-in-togo-to-discuss-challenges-amid-ebola-crisis/",
-      "source": "Africanews",
-      "published": "2026-09-17T10:37:26.000Z",
-      "summary": "As Ebola threatens parts of Africa, the Federation of West African Medical Laboratory Science opened its first conference Wednesday, in Lomé, Togo, to discuss the challenges posed by…"
+      "title": "Liberia: Kpelle Association Launches Dollar Rally for Ex-VP Taylor",
+      "link": "https://allafrica.com/stories/202609170262.html",
+      "source": "AllAfrica",
+      "published": "2026-09-17T10:57:53.000Z",
+      "summary": "[Liberian Observer] The National Association of the Kpelle and Kpelle-Speaking People of Liberia (NAKKSPL) has launched a solidarity fundraising campaign in support of former Liberian Vice…"
     },
     {
       "title": "Ghana: IGP Engages Okada Riders On Road Safety, Registration",
@@ -1568,6 +1589,20 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-17T11:06:27.000Z",
       "summary": "[Ghanaian Times] The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, has urged commercial motorbike riders, popularly known as Okada riders, to prioritise road safety and…"
+    },
+    {
+      "title": "African lab scientists gather in Togo to discuss challenges amid Ebola crisis",
+      "link": "http://www.africanews.com/2026/09/17/african-lab-scientists-gather-in-togo-to-discuss-challenges-amid-ebola-crisis/",
+      "source": "Africanews",
+      "published": "2026-09-17T10:37:26.000Z",
+      "summary": "As Ebola threatens parts of Africa, the Federation of West African Medical Laboratory Science opened its first conference Wednesday, in Lomé, Togo, to discuss the challenges posed by…"
+    },
+    {
+      "title": "Uganda: Only 737 Traders Verified for Shs20 Billion Kampala Flood Relief",
+      "link": "https://allafrica.com/stories/202609170266.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-17T10:59:42.000Z",
+      "summary": "[Independent (Kampala)] Kampala -- Only 737 traders have been verified as genuine victims of the floods that devastated several buildings and arcades in Kampala in October 2025 and are now…"
     },
     {
       "title": "Kenya: Kenya's Ex-Deputy President Gachagua Didn't Hint At Meeting President Ruto in Us for Talks - Quote Fabricated",
@@ -1624,41 +1659,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-17T09:40:45.000Z",
       "summary": "The discovery of the bodies of nine women near Johannesburg in the last two months has sent shock waves around South Africa and highlighted the scourge of femicide and high levels of…"
-    },
-    {
-      "title": "Ethiopia: 'Reporting On Abuses Shouldn't Be Treated As a Threat to National Interest'",
-      "link": "https://allafrica.com/stories/202609170167.html",
-      "source": "AllAfrica",
-      "published": "2026-09-17T09:47:22.000Z",
-      "summary": "[IPS] CIVICUS discusses renewed conflict and a growing crackdown on independent media in Ethiopia with Yonas Kedir, Editor-in-Chief of the independent news outlet Addis Standard, who was…"
-    },
-    {
-      "title": "Guinea media regulator warns France 24 over description of president",
-      "link": "http://www.africanews.com/2026/09/17/guinea-media-regulator-warns-france-24-over-description-of-president/",
-      "source": "Africanews",
-      "published": "2026-09-17T09:37:46.000Z",
-      "summary": "France 24 had not immediately responded to a request for comment. The regulator also withdrew the press accreditation of a Jeune Afrique correspondent, accusing him of professional…"
-    },
-    {
-      "title": "South Africa: Nine Women Dead and Police Still Can't Say Who Is Behind It",
-      "link": "https://allafrica.com/stories/202609170154.html",
-      "source": "AllAfrica",
-      "published": "2026-09-17T09:07:07.000Z",
-      "summary": "[Scrolla] Police found a half-naked woman wrapped in a sheet in Dawn Park, bringing the number of women found dead in Ekurhuleni to nine. The Human Rights Commission says 569 women were…"
-    },
-    {
-      "title": "South African sports broadcaster Owen Ndlovu found dead after hijacking",
-      "link": "http://www.africanews.com/2026/09/17/south-african-sports-broadcaster-owen-ndlovu-found-dead-after-hijacking/",
-      "source": "Africanews",
-      "published": "2026-09-17T09:17:57.000Z",
-      "summary": "South African sports broadcaster Owen Ndlovu has been found dead, hours after he was abducted during a vehicle hijacking near Johannesburg."
-    },
-    {
-      "title": "Nigeria: 2027 - How Former Governor's Backing of Ex-IGP Adamu Could Complicate APC's Bid to Retain Nasarawa Governorship Seat",
-      "link": "https://allafrica.com/stories/202609170152.html",
-      "source": "AllAfrica",
-      "published": "2026-09-17T08:54:53.000Z",
-      "summary": "[Premium Times] Mr Wadada took the APC ticket with the backing of Governor Abdullahi Sule, while Mr Adamu, who finished second in the party's primary, has moved on to the Social Democratic…"
     }
   ]
 };

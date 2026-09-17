@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T16:59:44.803Z",
+  "updated": "2026-09-17T18:33:38.910Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,123 +25,235 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GCB’s Helmet On, Life On campaign targets motorcycle safety in Accra CBD",
-      "link": "https://www.myjoyonline.com/gcbs-helmet-on-life-on-campaign-targets-motorcycle-safety-in-accra-cbd/",
+      "title": "Ashanti region records 25% drop in maternal mortality in first half of 2026",
+      "link": "https://www.myjoyonline.com/ashanti-region-records-25-drop-in-maternal-mortality-in-first-half-of-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:55:21.000Z",
-      "summary": "Employees of GCB Bank PLC have successfully implemented the Helmet On, Life On Campaign, a road safety initiative aimed at promoting responsible motorcycle use among commercial riders…",
+      "published": "2026-09-17T18:23:48.000Z",
+      "summary": "The Ashanti Region has recorded a 25% drop in institutional maternal mortality in the first half of 2026, with the rate falling from 199.5 to 148.7 deaths per 100,000 live births. The…",
       "categories": [
-        "Banking and Finance",
-        "National",
-        "Employees",
-        "GCB Staff CSR",
-        "Motorcycle"
+        "Health",
+        "Regional",
+        "Ashanti Region",
+        "Drop",
+        "Maternal mortality"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Tourism Minister calls for stronger policies, data to grow Ghana’s creative sector",
-      "link": "https://www.myjoyonline.com/tourism-minister-calls-for-stronger-policies-data-to-grow-ghanas-creative-sector/",
+      "title": "Ghana’s unemployment situation is ‘scary’ – NSA Ashanti regional Director",
+      "link": "https://www.myjoyonline.com/ghanas-unemployment-situation-is-scary-nsa-ashanti-regional-director/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:38:22.000Z",
-      "summary": "The Minister for Tourism, Culture and Creative Arts, Abla Dzifa Gomashie, has called for stronger policies, reliable data, effective institutions and robust intellectual property protection…",
+      "published": "2026-09-17T18:17:01.000Z",
+      "summary": "The Ashanti Regional Director of the National Service Authority (NSA), Emmanuel Fynn Reagan, has described Ghana’s unemployment situation as \"scary,\" warning that urgent measures are needed…",
       "categories": [
         "National",
-        "creative sector",
-        "Data",
-        "IP",
-        "Tourism Minister"
+        "Politics",
+        "Ghana",
+        "NSA Director",
+        "Unemployment"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GQAA to host International Quality Assurance Convention and AI Masterclasses in October",
-      "link": "https://www.myjoyonline.com/gqaa-to-host-international-quality-assurance-convention-and-ai-masterclasses-in-october/",
+      "title": "Photos: Mahama chairs security meeting over drug trafficking through Ghana’s ports",
+      "link": "https://www.myjoyonline.com/photos-mahama-chairs-security-meeting-over-drug-trafficking-through-ghanas-ports/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:37:00.000Z",
-      "summary": "The Global Quality Assurance Association (GQAA) is set to host two major professional development events in October 2026, bringing together quality assurance professionals, academics…",
+      "published": "2026-09-17T18:11:24.000Z",
+      "summary": "President John Dramani Mahama on Thursday, September 17 chaired a meeting of security chiefs and received detailed briefing on investigations into the recent trafficking of drugs out of the…",
       "categories": [
-        "Economy",
         "National",
-        "Global Quality Assurance Association (GQAA)",
-        "International Quality Assurance Convention"
+        "Photo Story",
+        "Ghana",
+        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NIA marks Identity Day with public education float and mass registration exercise in Accra",
-      "link": "https://www.myjoyonline.com/nia-marks-identity-day-with-public-education-float-and-mass-registration-exercise-in-accra/",
+      "title": "Constitutional Review: 5-year term means extra year to amass wealth, loot state coffers — Ansa-Asare",
+      "link": "https://www.myjoyonline.com/constitutional-review-5-year-term-means-extra-year-to-amass-wealth-loot-state-coffers-ansa-asare/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:34:27.000Z",
-      "summary": "The National Identification Authority (NIA) has marked this year’s Identity Day celebration and its 20th anniversary with a public education float and special mass registration exercise in…",
+      "published": "2026-09-17T18:08:55.000Z",
+      "summary": "Former Director of the Ghana School of Law, Kweku Ansa-Asare, has rejected the proposed extension of Ghana’s presidential term from four to five years, describing the move as unnecessary.",
       "categories": [
-        "Events",
+        "HP News 6",
         "National",
-        "Float",
-        "Identity day",
-        "NIA",
-        "public education"
+        "five-year presidential term",
+        "Kweku Ansa-Asare"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NaCCA denies partnering UCC Confucius Institute to train teachers for Chinese language curriculum",
-      "link": "https://www.myjoyonline.com/nacca-denies-partnering-ucc-confucius-institute-to-train-teachers-for-chinese-language-curriculum/",
+      "title": "Bekwai MP rewards top BECE performers as academic results improve",
+      "link": "https://www.myjoyonline.com/bekwai-mp-rewards-top-bece-performers-as-academic-results-improve/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:31:46.000Z",
-      "summary": "The National Council for Curriculum and Assessment (NaCCA) has denied reports suggesting that it partnered the Confucius Institute at the University of Cape Coast (UCC) to train teachers…",
+      "published": "2026-09-17T18:08:19.000Z",
+      "summary": "Member of Parliament for Bekwai, Ralph Poku-Adusei, has rewarded outstanding Basic Education Certificate Examination (BECE) candidates under the School Starter-Pack Scholarship (SSPS), as…",
       "categories": [
         "Education",
-        "National",
-        "Chinese",
-        "Confucius Institute",
-        "NaCCA",
-        "UCC"
+        "Regional",
+        "BECE",
+        "Poku-Adusei"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kpebu backs broader consultation on constitutional review but questions NPP’s proposed Consultative Assembly",
-      "link": "https://www.myjoyonline.com/kpebu-backs-broader-consultation-on-constitutional-review-but-questions-npps-proposed-consultative-assembly/",
+      "title": "NIA marks Identity Day with public education float, mass registration exercise",
+      "link": "https://www.myjoyonline.com/nia-marks-identity-day-with-public-education-float-mass-registration-exercise/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:27:53.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has questioned the New Patriotic Party’s (NPP) proposal for the establishment of a Consultative Assembly as part of the constitutional review process.",
+      "published": "2026-09-17T18:05:38.000Z",
+      "summary": "The National Identification Authority (NIA) has marked this year’s Identity Day celebration and its 20th anniversary with a public education float and a special mass registration exercise…",
       "categories": [
         "National",
-        "News",
-        "consultative assembly",
-        "Martin Kpebu",
-        "NPP"
+        "NIA",
+        "Registration"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Builsa South MP Clement Apaak allocates GH¢370,000 for road rehabilitation",
-      "link": "https://www.myjoyonline.com/builsa-south-mp-clement-apaak-allocates-gh%c2%a2370000-for-road-rehabilitation/",
+      "title": "Mahama directs inter-agency task force to submit roadmap to deal with drug trafficking in two weeks",
+      "link": "https://www.myjoyonline.com/mahama-directs-inter-agency-task-force-to-submit-roadmap-to-deal-with-drug-trafficking-in-two-weeks/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:25:23.000Z",
-      "summary": "Member of Parliament for Builsa South, Dr Clement Abas Apaak, has authorised the release of GH¢370,000 from his share of the District Assemblies Common Fund (DACF) to support the…",
+      "published": "2026-09-17T18:04:50.000Z",
+      "summary": "President John Dramani Mahama has directed the formation of an inter-agency task force to develop a detailed roadmap to prevent the trafficking of drugs through Ghana’s borders.",
       "categories": [
+        "HP News 1",
         "National",
-        "Apaak",
-        "Builsa",
-        "south"
+        "Drug trafficking",
+        "Ghana",
+        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kumawu MP Ernest Yaw Anim supports 500 fresh SHS students with school items",
-      "link": "https://www.myjoyonline.com/kumawu-mp-ernest-yaw-anim-supports-500-fresh-shs-students-with-school-items/",
+      "title": "Gender Ministry tasks women in media to drive Affirmative Action Act implementation",
+      "link": "https://www.myjoyonline.com/gender-ministry-tasks-women-in-media-to-drive-affirmative-action-act-implementation/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T16:24:01.000Z",
-      "summary": "Member of Parliament for Kumawu, Ernest Yaw Anim, has supported 500 boarding students among more than 1,000 fresh SHS entrants from the constituency with essential prospectus items ahead of…",
+      "published": "2026-09-17T18:02:11.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection has called on women in the media to play a leading role in educating the public, monitoring compliance and keeping institutions…",
       "categories": [
         "National",
-        "Ernest Yaw Anim",
-        "Kumawu MP",
-        "SHS"
+        "Affirmative Action Act",
+        "Gender Ministry",
+        "Media"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kenyans dominate 2026 Millennium Marathon",
+      "link": "https://www.graphic.com.gh/sports/sports-news/kenyans-dominate-2026-millennium-marathon.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-17T17:20:53.000Z",
+      "summary": "Kenyans dominated the 2026 KGL Foundation Millennium Half Marathon, sweeping the top three positions in both the men’s and women’s 21-kilometre races at an event that attracted more than…",
+      "categories": [
+        "Sports News"
+      ],
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "US Embassy concludes three-city girls’ football coaching initiative",
+      "link": "https://www.graphic.com.gh/sports/sports-news/us-embassy-concludes-three-city-girls-football-coaching-initiative.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-17T17:19:03.000Z",
+      "summary": "The US Embassy in Accra has concluded a 10-day Sports Envoy initiative designed to strengthen girls’ football development, coaching capacity and leadership across Tamale, Kumasi and Accra…",
+      "categories": [
+        "Sports News"
+      ],
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Bawumia engages Ghana Exporters, pledges more support for sector",
+      "link": "https://ghanaiantimes.com.gh/bawumia-engages-ghana-exporters-pledges-more-support-for-sector/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T17:12:28.000Z",
+      "summary": "Flagbearer of the New Patriotic Party (NPP) and former Vice President, Dr Mahamudu Bawumia, has held a meeting with the Federation of Associations of Ghanaian Exporters (FAGE) to discuss…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police Arrest 36 suspects over lynching of officer at Gindabour",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-36-suspects-over-lynching-of-officer-at-gindabour/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T17:09:23.000Z",
+      "summary": "The Ghana Police Service has arrested 36 suspects in connection with the lynching of a police officer at Gindabour in the Sawla District of the Savannah Region. Preliminary investigation…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police arrest seven armed robbers at Zebilla in Upper East",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-seven-armed-robbers-at-zebilla-in-upper-east/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T17:06:21.000Z",
+      "summary": "The Upper East Regional Police Command arrest seven (7) suspected armed robbers for robbery activities at Zebilla, Garu and Binduri. The suspects are :Issaka Iddrisu age 20, Ali Tamimu age…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "WiSA collaborates with UN to host Africa’s two roundtable sessions at 81st UNGA",
+      "link": "https://ghanaiantimes.com.gh/wisa-collaborates-with-un-to-host-africas-two-roundtable-sessions-at-81st-unga/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T17:01:53.000Z",
+      "summary": "Women in Sustainability Africa (WiSA), in collaboration with the UN Office for Partnerships and the African Union, will convene two high-level roundtables on the sidelines of the 81st…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Afenyo-Markin calls for calm after deadly New Winneba clash",
+      "link": "https://ghanaiantimes.com.gh/afenyo-markin-calls-for-calm-after-deadly-new-winneba-clash/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T16:59:26.000Z",
+      "summary": "The Member of Parliament for Effutu, Alexander Afenyo-Markin, has called for calm and restraint following the invasion of the New Winneba community which resulted in the loss of lives and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Hawa Koomson demands bail for nurse held over alleged link to “Ghana Jollof”",
+      "link": "https://ghanaiantimes.com.gh/hawa-koomson-demands-bail-for-nurse-held-over-alleged-link-to-ghana-jollof/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T16:56:56.000Z",
+      "summary": "Aspiring National Women’s Organiser of the New Patriotic Party (NPP), Hawa Koomson, has called for the immediate release on bail of Madam Salomey Baffoe, a 40-year-old nurse and mother of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ayariga calls for stronger local intelligence to prevent crisis",
+      "link": "https://ghanaiantimes.com.gh/ayariga-calls-for-stronger-local-intelligence-to-prevent-crisis/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T16:54:09.000Z",
+      "summary": "Minister for Local Government and Religious Affairs, Mahama Ayariga, has underscored the need for stronger intelligence sharing and early warning systems at the local level to de-escalate…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Resources Intermediaries Limited marks 15th anniversary with donation to Ushers Hospital",
+      "link": "https://ghanaiantimes.com.gh/resources-intermediaries-limited-marks-15th-anniversary-with-donation-to-ushers-hospital/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-17T16:49:40.000Z",
+      "summary": "Resources Intermediaries Limited Ghana has marked its 15th anniversary by donating an undisclosed amount to Ushers Hospital to support the payment of minor medical bills for patients who…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "NPP asks gov't to establish Consultative Assembly on constitution review before referendum",
@@ -208,95 +320,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Maize prices rise despite improved supply",
-      "link": "https://ghanaiantimes.com.gh/maize-prices-rise-despite-improved-supply/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:53:18.000Z",
-      "summary": "The average price of white maize in Ghana increased by 8.9 per cent in August to GH¢3,141 per metric tonne (MT), the latest Food Security Monitor report by the Alliance for a Green…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "UCC gets $500m PPP hostel deal",
-      "link": "https://ghanaiantimes.com.gh/ucc-gets-500m-ppp-hostel-deal/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:50:47.000Z",
-      "summary": "The University of Cape Coast (UCC) is to benefit from a US$500 million private-sector investment to construct 28 hostel blocks with capacity to accommodate up to 28,000 students under a…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Maidens thrash B’Faso in WAFU B opener",
-      "link": "https://ghanaiantimes.com.gh/black-maidens-thrash-bfaso-in-wafu-b-opener/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:47:01.000Z",
-      "summary": "The Black Maidens, the national female U-17 side, kicked off their WAFU B U17 Girls Cup campaign with an emphatic 4-0 victory over Burkina Faso on Match day 1. Ghana broke the deadlock…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "W/R Minister satisfied with progress on Sekondi Stadium rehabilitation",
-      "link": "https://ghanaiantimes.com.gh/w-r-minister-satisfied-with-progress-on-sekondi-stadium-rehabilitation/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:44:06.000Z",
-      "summary": "Mr Joseph Nelson, the Western Regional Minister, has expressed satisfaction at the progress of work on the rehabilitation of the Sekondi Sports Stadium. He called for a sustainable plan to…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GFA launches 2026/27 Colts football season",
-      "link": "https://ghanaiantimes.com.gh/gfa-launches-2026-27-colts-football-season/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:41:50.000Z",
-      "summary": "The Ghana Football Association (GFA) has officially launched the 2026/27 Colts football season, reaffirming its commitment to strengthening grassroots football and creating a sustainable…",
-      "categories": [
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Espi winner rescues Real Madrid",
-      "link": "https://ghanaiantimes.com.gh/espi-winner-rescues-real-madrid/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:38:20.000Z",
-      "summary": "Real Madrid squandered a two-goal lead before substitute Carlos Espi struck in stoppage time to secure a dramatic 3-2 victory at Elche in LaLiga on Tuesday. Real went ​2-0 up inside 33…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FIFA to present review of shelved investment plan",
-      "link": "https://ghanaiantimes.com.gh/fifa-to-present-review-of-shelved-investment-plan/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:32:08.000Z",
-      "summary": "FIFA said yesterday that a review of the withdrawn FFE proposal would be presented to the world soccer body’s Council, ​after criticism from Denmark’s football chief Jesper Moller over a…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Messi to face Benin in farewell game",
-      "link": "https://ghanaiantimes.com.gh/messi-to-face-benin-in-farewell-game/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T09:30:01.000Z",
-      "summary": "Argentina have named Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward’s farewell to international football. Messi announced his…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Govt urged to prioritise climate resilience policies",
