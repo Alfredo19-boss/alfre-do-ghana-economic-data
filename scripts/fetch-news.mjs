@@ -154,6 +154,12 @@ function loadExisting() {
   } catch { return { items: [] }; }
 }
 
+// GDELT rate-limits, and this job runs every five minutes. Eleven requests per run would be
+// well over 100 an hour and the wire feeds already come back with HTTP 429. The world lists are
+// therefore refreshed roughly every half hour and simply carried forward in between, which is
+// far more news than a half-hourly refresh can exhaust.
+const WORLD_EVERY_MS = 28 * 60 * 1000;
+
 // One publisher at a time, so a single feed failing costs only its own stories.
 async function fetchWorldList(feeds, log, label) {
   const out = [];
@@ -189,26 +195,38 @@ async function main() {
   }
   fresh.push(...await fetchWire(log));
 
-  console.log(log.join("\n"));
-  if (!fresh.length) {
-    console.error("No feed could be read. news-data.js was left unchanged.");
-    process.exitCode = 1;
-    return;
-  }
-  // sample headlines from the first publish are replaced once live feeds work
-  const base = existing.updated ? existing.items || [] : [];
-  const items = mergeNews(base, fresh);
-  // world and African headlines, carried in this same file
+  // World and African headlines, fetched BEFORE any decision to stop. Ghana's publishers and
+  // GDELT fail independently; a bad morning for the RSS feeds must not cost the world lists.
   let world = existing.world || [], africa = existing.africa || [];
-  try {
-    world = mergeWorld(world, await fetchWorldList(WORLD, log, "World"));
-    africa = mergeWorld(africa, await fetchWorldList(AFRICA, log, "Africa"));
-    console.log(`${world.length} world stories, ${africa.length} African stories held.`);
-  } catch (e) {
-    log.push(`world headlines failed: ${e.message}`);   // the Ghana headlines still save
+  const heldAge = existing.worldAt ? Date.now() - Date.parse(existing.worldAt) : Infinity;
+  let worldAt = existing.worldAt || null;
+  if (heldAge > WORLD_EVERY_MS) {
+    try {
+      world = mergeWorld(world, await fetchWorldList(WORLD, log, "World"));
+      africa = mergeWorld(africa, await fetchWorldList(AFRICA, log, "Africa"));
+      worldAt = new Date().toISOString();
+      log.push(`world lists: ${world.length} world, ${africa.length} African stories held`);
+    } catch (e) {
+      log.push(`world headlines failed: ${e.message}`);
+    }
+  } else {
+    log.push(`world lists: refreshed ${Math.round(heldAge / 60000)} min ago, left alone this run`);
   }
 
-  const out = { updated: new Date().toISOString(), sources: [...FEEDS.map(f => f.source), ...new Set(WIRE.map(w => w.source))], log, items, world, africa };
+  console.log(log.join("\n"));
+
+  // Nothing new anywhere? Say so and stop — but WITHOUT a failing exit code. This step has no
+  // "|| echo" guard in the workflow, so exiting non-zero here kills the whole job: no front
+  // pages, no world headlines, no commit. A quiet run is not a failure.
+  if (!fresh.length && !world.length && !africa.length) {
+    console.log("No feed could be read this run. news-data.js left unchanged.");
+    return;
+  }
+
+  // sample headlines from the first publish are replaced once live feeds work
+  const base = existing.updated ? existing.items || [] : [];
+  const items = fresh.length ? mergeNews(base, fresh) : base;
+  const out = { updated: new Date().toISOString(), worldAt, sources: [...FEEDS.map(f => f.source), ...new Set(WIRE.map(w => w.source))], log, items, world, africa };
   const body = `/*\n * Alfredo Ghana Economic Data: business headlines collected by .github/workflows/news.yml from publishers' RSS feeds.\n * Do not edit by hand; the next run overwrites this file.\n */\nwindow.GDC_NEWS = ${JSON.stringify(out, null, 2)};\n`;
   const before = fs.existsSync(FILE) ? fs.readFileSync(FILE, "utf8") : "";
   const sameItems = before.includes(JSON.stringify(items.slice(0, 3), null, 2).slice(0, 400));
