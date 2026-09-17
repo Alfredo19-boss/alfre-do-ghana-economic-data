@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T02:14:38.805Z",
+  "updated": "2026-09-17T03:46:08.481Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,20 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Oil prices extend losses as fears of Middle East supply disruptions ease",
+      "link": "https://www.myjoyonline.com/oil-prices-extend-losses-as-fears-of-middle-east-supply-disruptions-ease/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T02:05:00.000Z",
+      "summary": "Oil prices fell in early trade on Thursday, extending the previous day's losses, as reports that Saudi Arabia is offering extra crude cargoes through Oman eased fears of supply disruptions…",
+      "categories": [
+        "HP News 10",
+        "International",
+        "Oil prices",
+        "US-Iran war"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "12th FASU Games: University of Ghana win 23 medals in Cairo",
       "link": "https://www.myjoyonline.com/12th-fasu-games-university-of-ghana-win-23-medals-in-cairo/",
       "source": "MyJoyOnline",
@@ -36,6 +50,45 @@ window.GDC_PAPERS = {
         "Sports",
         "12th FASU Games",
         "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "link": "https://www.myjoyonline.com/part-human-part-mouse-brain-developed-in-science-breakthrough/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T23:45:00.000Z",
+      "summary": "Neuroscientists in the US have successfully adapted mice to have functioning human cells inside their own brains.",
+      "categories": [
+        "International",
+        "human brain"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COVID funds audit has glaring gaps, Parliament may go back for forensic probe – Dafeamekpor",
+      "link": "https://www.myjoyonline.com/covid-funds-audit-has-glaring-gaps-parliament-may-go-back-for-forensic-probe-dafeamekpor/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T23:38:00.000Z",
+      "summary": "Parliament is set to revisit the audit of government’s COVID-19 expenditure after fresh findings raised questions about whether the Auditor-General’s report covered the full spectrum of…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "Audit Covid Expenditure",
+        "Rockson-Nelson Dafeamekpor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dafeamekpor flags gaps in audit of GH¢775m approved for Transport, Local Gov’t and Education ministries",
+      "link": "https://www.myjoyonline.com/dafeamekpor-flags-gaps-in-audit-of-gh%c2%a2775m-approved-for-transport-local-govt-and-education-ministries/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T23:19:00.000Z",
+      "summary": "South Dayi MP and Majority Chief Whip, Rockson-Nelson Dafeamekpor, has flagged gaps in the Auditor-General’s audit of COVID-19 expenditure approved by Parliament.",
+      "categories": [
+        "National",
+        "Audit Covid Expenditure",
+        "Nelson-Rockson Dafeamekpor"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -56,86 +109,29 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Microsoft says AI rival Anthropic could have ‘disastrous impact’ on humanity",
-      "link": "https://www.myjoyonline.com/microsoft-says-ai-rival-anthropic-could-have-disastrous-impact-on-humanity/",
+      "title": "Parliament has been bludgeoned from behind – Dafeamekpor demands forensic audit on Covid spending",
+      "link": "https://www.myjoyonline.com/parliament-has-been-bludgeoned-from-behind-dafeamekpor-demands-forensic-audit-on-covid-spending/",
       "source": "MyJoyOnline",
-      "published": "2026-09-16T22:23:00.000Z",
-      "summary": "Microsoft's head of AI has warned that Anthropic's approach to training its AI model, Claude, could have a \"disastrous impact on the wellbeing of humanity\".",
+      "published": "2026-09-16T22:51:00.000Z",
+      "summary": "South Dayi MP and Majority Chief Whip, Rockson-Nelson Dafeamekpor, has called for a forensic audit of government’s COVID-19 expenditure following fresh revelations about gaps in the…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "Audit Covid Expenditure",
+        "Rockson-Nelson Dafeamekpor"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Snapchat ‘willing to implement’ daily time limits for teens, boss tells BBC",
+      "link": "https://www.myjoyonline.com/snapchat-willing-to-implement-daily-time-limits-for-teens-boss-tells-bbc/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:33:00.000Z",
+      "summary": "The boss of Snapchat says the firm would be \"willing to implement\" time limits for teens, following a call from Meta for it to take action.",
       "categories": [
         "Technology",
-        "AI",
-        "Anthropic",
-        "Microsoft"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "De la Fuente extends Spain contract to 2032",
-      "link": "https://www.myjoyonline.com/de-la-fuente-extends-spain-contract-to-2032/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:12:00.000Z",
-      "summary": "World Cup-winning head coach Luis de la Fuente has agreed to a contract extension with Spain until 2032.",
-      "categories": [
-        "Football",
-        "De la Fuente",
-        "Spain"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Raphinha hat trick in Barcelona’s 7-goal rout of Santander",
-      "link": "https://www.myjoyonline.com/raphinha-hat-trick-in-barcelonas-7-goal-rout-of-santander/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:11:54.000Z",
-      "summary": "Barcelona thrashed Racing Santander 7-2 on Wednesday to make it seven wins at the start of a season for the first time in their history. It was yet another scintillating Camp Nou show from…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Barcelona",
-        "La Liga",
-        "Racing Santander"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Carabao Cup fourth-round draw: Liverpool to host Chelsea as Arsenal drawn away to League Two Fleetwood",
-      "link": "https://www.myjoyonline.com/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:02:22.000Z",
-      "summary": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town. The…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Carabao cup",
-        "Chelsea",
-        "Liverpool"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mbappe, Vini and Konate obscure Real’s Ceuta message",
-      "link": "https://www.myjoyonline.com/mbappe-vini-and-konate-obscure-reals-ceuta-message/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:02:00.000Z",
-      "summary": "Kylian Mbappe, Vinicius Jr and Ibrahima Konate rolled up their pre-game T-shirts before Real Madrid's match at Elche on Tuesday to obscure the message of support for the people of Ceuta.",
-      "categories": [
-        "Football",
-        "Ceuta message",
-        "Real Madrid"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Reggie Rockstone named Unichem Ghana brand ambassador",
-      "link": "https://www.myjoyonline.com/reggie-rockstone-named-unichem-ghana-brand-ambassador/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T21:54:34.000Z",
-      "summary": "Ghanaian music icon, entrepreneur and Hiplife pioneer Reggie Rockstone has been named Brand Ambassador for Unichem Ghana Group Limited. The partnership will see Mr Rockstone feature in…",
-      "categories": [
-        "National",
-        "brand ambassador",
-        "Reggie Rockstone",
-        "Unichem Ghana"
+        "Snapchat",
+        "time limits"
       ],
       "site": "https://www.myjoyonline.com/"
     },

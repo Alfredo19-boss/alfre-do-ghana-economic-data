@@ -3,7 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-17T02:14:26.585Z",
+  "updated": "2026-09-17T03:45:55.813Z",
+  "worldAt": "2026-09-17T03:45:55.802Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,23 +26,31 @@ window.GDC_NEWS = {
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Reuters: failed (HTTP 429)",
     "World · Associated Press: failed (HTTP 429)",
-    "World · BBC News: 0 stories",
+    "World · BBC News: failed (HTTP 429)",
     "World · Al Jazeera: failed (HTTP 429)",
     "World · France 24: failed (HTTP 429)",
-    "World · CNBC: 0 stories",
+    "World · CNBC: failed (HTTP 429)",
     "Africa · AllAfrica: failed (HTTP 429)",
-    "Africa · Africanews: failed (HTTP 429)",
+    "Africa · Africanews: failed (fetch failed)",
     "Africa · Reuters: failed (HTTP 429)",
-    "Africa · BBC News: failed (HTTP 429)",
-    "Africa · Al Jazeera: failed (HTTP 429)"
+    "Africa · BBC News: failed (fetch failed)",
+    "Africa · Al Jazeera: failed (Unexpected token 'Y', \"Your query\"... is not valid JSON)",
+    "world lists: 0 world, 0 African stories held"
   ],
   "items": [
+    {
+      "title": "Snapchat ‘willing to implement’ daily time limits for teens, boss tells BBC",
+      "link": "https://www.myjoyonline.com/snapchat-willing-to-implement-daily-time-limits-for-teens-boss-tells-bbc/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-16T22:33:00.000Z",
+      "summary": "The boss of Snapchat says the firm would be \"willing to implement\" time limits for teens, following a call from Meta for it to take action."
+    },
     {
       "title": "Microsoft says AI rival Anthropic could have ‘disastrous impact’ on humanity",
       "link": "https://www.myjoyonline.com/microsoft-says-ai-rival-anthropic-could-have-disastrous-impact-on-humanity/",
@@ -1084,13 +1093,6 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-09-14T06:49:07.000Z",
       "summary": "Technology company Ericsson has commemorated its 150th global anniversary and 30 years of operations in Ghana, celebrating a long-standing partnership with the government…"
-    },
-    {
-      "title": "MTN deepens cybersecurity awareness as fraudsters evolve",
-      "link": "https://www.ghanabusinessnews.com/2026/09/14/mtn-deepens-cybersecurity-awareness-as-fraudsters-evolve/",
-      "source": "Ghana Business News",
-      "published": "2026-09-14T06:36:41.000Z",
-      "summary": "MTN Ghana has intensified cybersecurity awareness among its workforce to counter increasingly sophisticated methods used by cybercriminals, hackers and fraudsters."
     }
   ],
   "world": [],
