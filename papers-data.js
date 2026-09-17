@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T10:11:24.495Z",
+  "updated": "2026-09-17T12:11:48.340Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,132 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Assin Fosu judge recounts MoMo fraud attempt moments after sentencing fraudster",
+      "link": "https://www.myjoyonline.com/assin-fosu-judge-recounts-momo-fraud-attempt-moments-after-sentencing-fraudster/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T12:10:56.000Z",
+      "summary": "The Assin Fosu District Court Judge, His Worship Abdul Majid Iliasu, has recounted how suspected MoMo fraudsters attempted to defraud him moments after he had sentenced an accused person…",
+      "categories": [
+        "Crime",
+        "MoMo fraudster",
+        "Respect",
+        "Ruling"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+      "link": "https://www.myjoyonline.com/nepal-to-use-new-flood-study-to-claim-millions-from-un-climate-disaster-fund/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T12:09:43.000Z",
+      "summary": "Nepal plans to use a new study linking climate change to the deadly floods last month as the basis of a financial request from a United Nations fund.",
+      "categories": [
+        "International",
+        "Nepal",
+        "UN"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nkwanta South Municipality faces shortage of more than 457 teachers",
+      "link": "https://www.myjoyonline.com/nkwanta-south-municipality-faces-shortage-of-more-than-457-teachers/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T12:08:49.000Z",
+      "summary": "The Nkwanta South Municipality in the Oti Region is grappling with a severe teacher shortage of more than 457; a situation education authorities say is undermining effective teaching and…",
+      "categories": [
+        "Education",
+        "National",
+        "Regional",
+        "Basic Schools",
+        "Nkwanta South",
+        "Teacher shortage"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDPC inaugurates technical committee to review and finalise Ghana Infrastructure Plan",
+      "link": "https://www.myjoyonline.com/ndpc-inaugurates-technical-committee-to-review-and-finalise-ghana-infrastructure-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T12:03:52.000Z",
+      "summary": "The National Development Planning Commission (NDPC) has inaugurated a Technical Committee to review, update and finalise the Ghana Infrastructure Plan (GIP), as part of efforts to…",
+      "categories": [
+        "National",
+        "Ghana",
+        "NDPC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police declare Barbara Asantewaa Kodua ‘Ghana jollof’ wanted over alleged incitement violence",
+      "link": "https://www.myjoyonline.com/police-declare-barbara-asantewaa-kodua-ghana-jollof-wanted-over-alleged-incitement-violence/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T12:02:57.000Z",
+      "summary": "The Ghana Police Service has declared 40-year-old Barbara Asantewaa Kodua wanted in connection with an alleged case of inciting violence.",
+      "categories": [
+        "Crime",
+        "National",
+        "Police",
+        "Violence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hohoe MCE says residents long believed stadium was state-owned over Corruption Watch probe",
+      "link": "https://www.myjoyonline.com/hohoe-mce-says-residents-long-believed-stadium-was-state-owned-over-corruption-watch-probe/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T11:50:28.000Z",
+      "summary": "Hohoe Municipal Chief Executive (MCE), Prosper Kumi, says he is not surprised by findings from Corruption Watch’s investigation into the use of public funds for the construction of…",
+      "categories": [
+        "National",
+        "astroturf stadium",
+        "Prosper Kumi"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos: Mahama hosts Ahafo Regional House of Chiefs at Presidency",
+      "link": "https://www.myjoyonline.com/photos-mahama-hosts-ahafo-regional-house-of-chiefs-at-presidency/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T11:49:07.000Z",
+      "summary": "President John Dramani Mahama has hosted a delegation from the Ahafo Regional House of Chiefs at the Presidency in Accra.",
+      "categories": [
+        "National",
+        "Photo Story",
+        "Ahafo Regional House of Chiefs",
+        "Mahama",
+        "Photos"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG to maintain policy rate at 14% – IC Insights",
+      "link": "https://www.myjoyonline.com/bog-to-maintain-policy-rate-at-14-ic-insights/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T11:48:49.000Z",
+      "summary": "According to the market research firm, the real policy rate of 9.0% suggests room for a modest cut in the policy rate if the external risk events were less volatile.",
+      "categories": [
+        "Business",
+        "Economy",
+        "BoG",
+        "IC Insights",
+        "Inflation",
+        "Interest rates",
+        "Policy rate"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African greats inspired by the potential of Nairobi 2029",
+      "link": "https://www.graphic.com.gh/sports/sports-news/african-greats-inspired-by-the-potential-of-nairobi-2029.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-17T11:16:30.000Z",
+      "summary": "The decision to award the 2029 World Athletics Championships to Nairobi has prompted an outpouring of celebration across Africa. Ethiopian great Haile Gebrselassie, a two-time Olympic…",
+      "categories": [
+        "Sports News"
+      ],
+      "site": "https://www.graphic.com.gh/sports"
+    },
     {
       "title": "Maize prices rise despite improved supply",
       "link": "https://ghanaiantimes.com.gh/maize-prices-rise-despite-improved-supply/",
@@ -81,25 +207,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "2026 World Cup: Black Stars yet to receive bonuses over tax issues – Sports Minister",
-      "link": "https://www.myjoyonline.com/2026-world-cup-black-stars-yet-to-receive-bonuses-over-tax-issues-sports-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T09:40:52.000Z",
-      "summary": "Ghana progressed to the Round of 32 at the global showpiece but saw their campaign end after a 1-0 defeat to Colombia.",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Sports",
-        "2026 World Cup",
-        "Black Stars",
-        "Ghana",
-        "Haruna Mubarak",
-        "Kofi Adams",
-        "Sports Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Espi winner rescues Real Madrid",
       "link": "https://ghanaiantimes.com.gh/espi-winner-rescues-real-madrid/",
       "source": "Ghanaian Times",
@@ -133,82 +240,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Bawumia targets trade reforms to make Ghana business-friendly",
-      "link": "https://www.myjoyonline.com/bawumia-targets-trade-reforms-to-make-ghana-business-friendly/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T09:27:46.000Z",
-      "summary": "Trade and business policies that reduce the cost of doing business in Ghana formed the focus of a meeting between former Vice President Dr Mahamudu Bawumia and the Trade Advocacy Group.",
-      "categories": [
-        "National",
-        "Bawumia",
-        "Ghana",
-        "Traders"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KNUST warns applicants against fake admission, accommodation agents",
-      "link": "https://www.myjoyonline.com/knust-warns-applicants-against-fake-admission-accommodation-agents/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T09:22:52.000Z",
-      "summary": "The Kwame Nkrumah University of Science and Technology (KNUST) has warned prospective students and parents to be wary of individuals and online platforms claiming they can secure admission…",
-      "categories": [
-        "National",
-        "News",
-        "accommodation",
-        "Admission",
-        "KNUST"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump threatens ‘serious tariffs’ on EU over proposal to make Canada ‘associate member’",
-      "link": "https://www.myjoyonline.com/trump-threatens-serious-tariffs-on-eu-over-proposal-to-make-canada-associate-member/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T09:16:12.000Z",
-      "summary": "United States President Donald Trump has threatened severe financial penalties against the European Union following a proposal to make Canada the bloc’s first associate member. Trump warned…",
-      "categories": [
-        "International",
-        "News",
-        "Canada",
-        "Donald Trump",
-        "EU",
-        "Nana Karikari"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia engages traders over high import duties, demurrage and access to credit",
-      "link": "https://www.myjoyonline.com/bawumia-engages-traders-over-high-import-duties-demurrage-and-access-to-credit/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T09:13:06.000Z",
-      "summary": "Former Vice President and New Patriotic Party (NPP) 2028 presidential candidate Dr Mahamudu Bawumia has engaged traders, importers and other business operators as part of his ongoing policy…",
-      "categories": [
-        "National",
-        "Bawumia",
-        "Import duty",
-        "NPP",
-        "Traders"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Maidens are not owed any per diems or bonuses – Sports Minister",
-      "link": "https://www.myjoyonline.com/black-maidens-are-not-owed-any-per-diems-or-bonuses-sports-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T09:05:03.000Z",
-      "summary": "The GOC made official a 13-athlete contingent for the championship, which will be staged from October 31 to November 13.",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "National",
-        "Black Maidens",
-        "GFA",
-        "Kofi Adams"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Govt urged to prioritise climate resilience policies",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-urged-to-prioritise-climate-resilience-policies.html",
       "source": "Daily Graphic",
@@ -240,37 +271,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Abducted South African journalist found dead with gunshot wounds",
-      "link": "https://www.myjoyonline.com/abducted-south-african-journalist-found-dead-with-gunshot-wounds/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T08:51:51.000Z",
-      "summary": "Tributes are pouring in for a veteran South African sports broadcaster who was found dead on Wednesday hours after being abducted when his vehicle was hijacked in a township near…",
-      "categories": [
-        "Africa",
-        "International",
-        "News",
-        "Journalist",
-        "South Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Road Traffic Regulations L.I. 2519 — The full list of offences that could send many drivers to jail",
-      "link": "https://www.myjoyonline.com/new-road-traffic-regulations-l-i-2519-the-full-list-of-offences-that-could-send-many-drivers-to-jail/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T08:43:45.000Z",
-      "summary": "Ghana’s new Road Traffic Regulations, 2026 (L.I. 2519), prescribe fines and, in some cases, imprisonment for a range of road traffic offences, including illegal racing, jumping red lights…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "drivers",
-        "offences",
-        "Road Traffic Regulations"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "M&G, Ernest Chemists donate medicine to support Graphic health screening",
@@ -399,17 +399,6 @@ window.GDC_PAPERS = {
       "source": "Graphic Sports",
       "published": "2026-09-14T13:50:17.000Z",
       "summary": "Theophilus “Lopez” Kpakpo Allotey will put his world-title ambitions on the line against Argentina’s David Facundo Garcia on Saturday night, while Olympic bronze medallist Samuel “Ring…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Poncho Power promises comeback after first career",
-      "link": "https://www.graphic.com.gh/sports/sports-news/poncho-power-promises-comeback-after-first-career.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T13:46:24.000Z",
-      "summary": "Ghanaian welterweight contender Faisal Abubakari has vowed to rebuild and return stronger after the first defeat of his professional career ended his unbeaten run and denied him the WBA…",
       "categories": [
         "Sports News"
       ],
