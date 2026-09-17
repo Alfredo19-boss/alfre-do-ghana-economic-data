@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T04:47:55.213Z",
+  "updated": "2026-09-17T05:51:55.615Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,112 +25,106 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "AGI Summit: Gov’t committed to supporting enterprises, manufacturing companies – Sampson Ahi",
-      "link": "https://www.myjoyonline.com/agi-summit-govt-committed-to-supporting-enterprises-manufacturing-companies-sampson-ahi/",
+      "title": "Ex-convict arrested for allegedly posing as soldier and extorting residents in Ashaiman",
+      "link": "https://www.myjoyonline.com/ex-convict-arrested-for-allegedly-posing-as-soldier-and-extorting-residents-in-ashaiman/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T04:31:00.000Z",
-      "summary": "Sampson Ahi, the Deputy Minister of Trade and Industry, has reaffirmed the government’s commitment to implementing policies that support investment, innovation, production, and job creation.",
+      "published": "2026-09-17T05:45:00.000Z",
+      "summary": "The Tema Regional Police Command has arrested a 32-year-old ex-convict for allegedly impersonating a soldier and extorting money from unsuspecting residents in Ashaiman.",
       "categories": [
         "National",
-        "AGI Summit",
-        "Government",
-        "Sampson Ahi"
+        "Ashaiman",
+        "extorting",
+        "Soldier"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Accra-Kumasi Expressway to be scrutinised by Value for Money Office",
-      "link": "https://www.myjoyonline.com/accra-kumasi-expressway-to-be-scrutinised-by-value-for-money-office/",
+      "title": "Diesel could hit GH¢28 without government support – NPA CEO",
+      "link": "https://www.myjoyonline.com/diesel-could-hit-gh%c2%a228-without-government-support-npa-ceo/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T04:23:00.000Z",
-      "summary": "The Accra-Kumasi Expressway will be the first major infrastructure project to come under the scrutiny of the Value for Money Office (VfMO) under the Ministry of Finance.",
+      "published": "2026-09-17T05:40:00.000Z",
+      "summary": "The price of diesel at fuel stations could have risen to about GH¢28 per litre if government had not stepped in to absorb part of the sharp increase in international petroleum prices, the…",
       "categories": [
         "National",
-        "Accra",
-        "Kumasi",
-        "Mahama"
+        "Diesel",
+        "NPA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Why Ghana’s next generation must master technology and finance",
-      "link": "https://www.myjoyonline.com/why-ghanas-next-generation-must-master-technology-and-finance/",
+      "title": "Four-year water crisis deepens hardship in Agbozume",
+      "link": "https://www.myjoyonline.com/four-year-water-crisis-deepens-hardship-in-agbozume/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T04:17:00.000Z",
-      "summary": "Ghana’s financial and technology landscape is changing rapidly, creating new opportunities for young people to build businesses, access global markets and participate in the digital economy.",
-      "categories": [
-        "Opinion",
-        "Stanley Obeng Twene"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "It is getting out of hand – Amankwa-Manu wants Parliament recalled over drug trafficking",
-      "link": "https://www.myjoyonline.com/it-is-getting-out-of-hand-amankwa-manu-wants-parliament-recalled-over-drug-trafficking/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T03:23:00.000Z",
-      "summary": "Former Deputy Defence Minister Kofi Amankwa-Manu is calling for the recall of Parliament to enable lawmakers to hold an in-depth discussion on Ghana’s growing drug trafficking concerns.",
+      "published": "2026-09-17T05:35:00.000Z",
+      "summary": "Residents of Agbozume and surrounding communities in the Ketu South Municipality have endured severe water shortages for about four years, forcing many to travel to other towns to purchase…",
       "categories": [
         "National",
-        "Top Story",
-        "Drug trafficking",
-        "Kofi Amankwa-Manu"
+        "Agbozume",
+        "Water"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gold rises over 1% as investors digest Fed hike, oil rally stalls",
-      "link": "https://www.myjoyonline.com/gold-rises-over-1-as-investors-digest-fed-hike-oil-rally-stalls/",
+      "title": "Denmark, Ghana must deepen green industrial partnership",
+      "link": "https://www.myjoyonline.com/denmark-ghana-must-deepen-green-industrial-partnership-2/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T03:02:00.000Z",
-      "summary": "Gold prices rose more than 1% on Thursday ‌as investors digested the U.S. Federal Reserve's interest rate hike and its signal that further policy tightening may follow, while an earlier…",
+      "published": "2026-09-17T05:29:00.000Z",
+      "summary": "Jorgen Bollesen, the Head of Economic Diplomacy and Trade, Danish Embassy, has called for stronger cooperation with Ghana to accelerate sustainable industrialisation and help Ghanaian…",
       "categories": [
-        "International",
-        "Gold"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BOST cuts fuel exports to Burkina Faso and Mali to protect local supply",
-      "link": "https://www.myjoyonline.com/bost-cuts-fuel-exports-to-burkina-faso-and-mali-to-protect-local-supply/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T02:52:00.000Z",
-      "summary": "Ghana's state-owned fuel distributor BOST Energies has cut diesel and ‌gasoline exports to neighbouring Burkina Faso and Mali since August, prioritising domestic demand, Managing Director…",
-      "categories": [
-        "Energy",
-        "HP News 9",
         "National",
-        "BOST",
-        "Fuel export"
+        "Denmark",
+        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana Gas to decide on $500 million gas pipeline early next year, CEO says",
-      "link": "https://www.myjoyonline.com/ghana-gas-to-decide-on-500-million-gas-pipeline-early-next-year-ceo-says/",
+      "title": "LEAP new grant rates take effect this month, says Gender Minister",
+      "link": "https://www.myjoyonline.com/leap-new-grant-rates-take-effect-this-month-says-gender-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T02:41:00.000Z",
-      "summary": "State-owned Ghana Gas plans to make a final investment decision by early next year on a long-discussed $500 million pipeline project that would transport gas from its processing plant in…",
+      "published": "2026-09-17T05:23:00.000Z",
+      "summary": "Dr Agnes Naa Momo Lartey, the Minister of Gender, Children and Social Protection, has announced that the new grant rates under the Livelihood Empowerment Against Poverty (LEAP) programme…",
       "categories": [
-        "Energy",
-        "HP Business 1",
-        "HP News 6",
         "National",
-        "Ghana Gas",
-        "Judith Adjobah Blay"
+        "Gender Minister",
+        "LEAP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "South Africa’s president booked off from public engagements over ill health",
-      "link": "https://www.myjoyonline.com/south-africas-president-booked-off-from-public-engagements-over-ill-health/",
+      "title": "Ghana shifts from advocacy to enforcement on gender equity, disability inclusion",
+      "link": "https://www.myjoyonline.com/ghana-shifts-from-advocacy-to-enforcement-on-gender-equity-disability-inclusion/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T02:30:00.000Z",
-      "summary": "South African President Cyril Ramaphosa has been booked off from public engagements due to ill health, on the advice of his medical team, his office said on Wednesday.",
+      "published": "2026-09-17T05:17:00.000Z",
+      "summary": "Dr Agnes Naa Momo Lartey, Minister of Gender, Children and Social Protection, says Ghana has moved from advocacy to enforcement in advancing gender equity and disability inclusion, with…",
       "categories": [
-        "Africa",
-        "Cyril Ramaphosa",
-        "South Africa"
+        "National",
+        "Dr Agnes Naa Momo Lartey",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ho West communities benefit from 2026 big push rural electrification",
+      "link": "https://www.myjoyonline.com/ho-west-communities-benefit-from-2026-big-push-rural-electrification/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T05:11:00.000Z",
+      "summary": "Eight communities in the Ho West Constituency are benefiting from rural electrification works under the Government’s 2026 Big Push Projects.",
+      "categories": [
+        "National",
+        "Ho West"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dorcas Afo-Toffey pledges to sustain SHS scholarship support in Jomoro",
+      "link": "https://www.myjoyonline.com/dorcas-afo-toffey-pledges-to-sustain-shs-scholarship-support-in-jomoro/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T05:04:00.000Z",
+      "summary": "Jomoro MP and Deputy Minister of Transport, Dorcas Afo-Toffey, has pledged to sustain her annual educational support programme for newly admitted Senior High School students in the…",
+      "categories": [
+        "National",
+        "Dorcas Afo-Toffey",
+        "Jomoro"
       ],
       "site": "https://www.myjoyonline.com/"
     },
