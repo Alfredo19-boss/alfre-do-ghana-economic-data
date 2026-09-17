@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T14:21:23.184Z",
+  "updated": "2026-09-17T16:59:44.803Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,116 +25,145 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘It has been an honour’ – Boehly speaks out as Clearlake Capital takes over Chelsea",
-      "link": "https://www.myjoyonline.com/it-has-been-an-honour-boehly-speaks-out-as-clearlake-capital-takes-over-chelsea/",
+      "title": "GCB’s Helmet On, Life On campaign targets motorcycle safety in Accra CBD",
+      "link": "https://www.myjoyonline.com/gcbs-helmet-on-life-on-campaign-targets-motorcycle-safety-in-accra-cbd/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T14:09:38.000Z",
-      "summary": "The deal gives Clearlake complete control over the direction of the club, with Boehly stepping down from his role as chairman.",
+      "published": "2026-09-17T16:55:21.000Z",
+      "summary": "Employees of GCB Bank PLC have successfully implemented the Helmet On, Life On Campaign, a road safety initiative aimed at promoting responsible motorcycle use among commercial riders…",
       "categories": [
-        "Football",
-        "Sports",
-        "Behdad Eghbali",
-        "Chelsea Football Club",
-        "Ruth Akoto-Donkor"
+        "Banking and Finance",
+        "National",
+        "Employees",
+        "GCB Staff CSR",
+        "Motorcycle"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Wa West Hospital gets health equipment, GH¢340k support as Chief offers land for expansion",
-      "link": "https://www.myjoyonline.com/wa-west-hospital-gets-health-equipment-gh%c2%a2340k-support-as-chief-offers-land-for-expansion/",
+      "title": "Tourism Minister calls for stronger policies, data to grow Ghana’s creative sector",
+      "link": "https://www.myjoyonline.com/tourism-minister-calls-for-stronger-policies-data-to-grow-ghanas-creative-sector/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T14:05:54.000Z",
-      "summary": "The Wa West District Hospital has received surgical equipment and financial support worth hundreds of thousands of cedis following an intervention by the Member of Parliament for Wa West…",
-      "categories": [
-        "Regional",
-        "health equipment",
-        "Wa West Hospital"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP urges delegates to verify eligibility ahead of October 3 national officers elections",
-      "link": "https://www.myjoyonline.com/npp-urges-delegates-to-verify-eligibility-ahead-of-october-3-national-officers-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T13:59:59.000Z",
-      "summary": "The National Officers Elections Committee (NOEC) of the New Patriotic Party (NPP) has called on delegates to visit the NPP official website to verify their eligibility for the October 3…",
+      "published": "2026-09-17T16:38:22.000Z",
+      "summary": "The Minister for Tourism, Culture and Creative Arts, Abla Dzifa Gomashie, has called for stronger policies, reliable data, effective institutions and robust intellectual property protection…",
       "categories": [
         "National",
-        "Politics",
-        "delegates",
+        "creative sector",
+        "Data",
+        "IP",
+        "Tourism Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GQAA to host International Quality Assurance Convention and AI Masterclasses in October",
+      "link": "https://www.myjoyonline.com/gqaa-to-host-international-quality-assurance-convention-and-ai-masterclasses-in-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T16:37:00.000Z",
+      "summary": "The Global Quality Assurance Association (GQAA) is set to host two major professional development events in October 2026, bringing together quality assurance professionals, academics…",
+      "categories": [
+        "Economy",
+        "National",
+        "Global Quality Assurance Association (GQAA)",
+        "International Quality Assurance Convention"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NIA marks Identity Day with public education float and mass registration exercise in Accra",
+      "link": "https://www.myjoyonline.com/nia-marks-identity-day-with-public-education-float-and-mass-registration-exercise-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T16:34:27.000Z",
+      "summary": "The National Identification Authority (NIA) has marked this year’s Identity Day celebration and its 20th anniversary with a public education float and special mass registration exercise in…",
+      "categories": [
+        "Events",
+        "National",
+        "Float",
+        "Identity day",
+        "NIA",
+        "public education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NaCCA denies partnering UCC Confucius Institute to train teachers for Chinese language curriculum",
+      "link": "https://www.myjoyonline.com/nacca-denies-partnering-ucc-confucius-institute-to-train-teachers-for-chinese-language-curriculum/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T16:31:46.000Z",
+      "summary": "The National Council for Curriculum and Assessment (NaCCA) has denied reports suggesting that it partnered the Confucius Institute at the University of Cape Coast (UCC) to train teachers…",
+      "categories": [
+        "Education",
+        "National",
+        "Chinese",
+        "Confucius Institute",
+        "NaCCA",
+        "UCC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kpebu backs broader consultation on constitutional review but questions NPP’s proposed Consultative Assembly",
+      "link": "https://www.myjoyonline.com/kpebu-backs-broader-consultation-on-constitutional-review-but-questions-npps-proposed-consultative-assembly/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T16:27:53.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has questioned the New Patriotic Party’s (NPP) proposal for the establishment of a Consultative Assembly as part of the constitutional review process.",
+      "categories": [
+        "National",
+        "News",
+        "consultative assembly",
+        "Martin Kpebu",
         "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Deputy Health Minister urges nursing leaders to turn research into practical solutions",
-      "link": "https://www.myjoyonline.com/deputy-health-minister-urges-nursing-leaders-to-turn-research-into-practical-solutions/",
+      "title": "Builsa South MP Clement Apaak allocates GH¢370,000 for road rehabilitation",
+      "link": "https://www.myjoyonline.com/builsa-south-mp-clement-apaak-allocates-gh%c2%a2370000-for-road-rehabilitation/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T13:56:39.000Z",
-      "summary": "The Deputy Health Minister, Professor Dr Grace Ayensu-Danquah, has urged nursing and midwifery leaders to translate research findings into practical solutions to improve healthcare delivery…",
-      "categories": [
-        "Health",
-        "National",
-        "Free primary healthcare",
-        "Professor Dr Grace Ayensu-Danquah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama Ayariga urges MMDCEs to strengthen local security early warning systems",
-      "link": "https://www.myjoyonline.com/mahama-ayariga-urges-mmdces-to-strengthen-local-security-early-warning-systems/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T13:54:58.000Z",
-      "summary": "Minister of Local Government, Chieftaincy and Religious Affairs, Mr Mahama Ayariga, has charged Metropolitan, Municipal and District Chief Executives (MMDCEs) to strengthen early warning…",
+      "published": "2026-09-17T16:25:23.000Z",
+      "summary": "Member of Parliament for Builsa South, Dr Clement Abas Apaak, has authorised the release of GH¢370,000 from his share of the District Assemblies Common Fund (DACF) to support the…",
       "categories": [
         "National",
-        "News",
-        "Mahama Ayariga",
-        "MMDCEs",
-        "Security threats"
+        "Apaak",
+        "Builsa",
+        "south"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Wa East MP, Assembly hand over three equipped health facilities",
-      "link": "https://www.myjoyonline.com/wa-east-mp-assembly-hand-over-three-equipped-health-facilities/",
+      "title": "Kumawu MP Ernest Yaw Anim supports 500 fresh SHS students with school items",
+      "link": "https://www.myjoyonline.com/kumawu-mp-ernest-yaw-anim-supports-500-fresh-shs-students-with-school-items/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T13:52:40.000Z",
-      "summary": "The Member of Parliament for Wa East, Dr Godfred Seidu Jasaw, in collaboration with the Wa East District Assembly, has handed over three fully furnished health facilities to the Ghana…",
-      "categories": [
-        "Regional",
-        "Health",
-        "MP",
-        "Wa East"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Loyalty is currency of development — Rev. Wengam charges Assemblies of God leaders",
-      "link": "https://www.myjoyonline.com/loyalty-is-currency-of-development-rev-wengam-charges-assemblies-of-god-leaders/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T13:49:54.000Z",
-      "summary": "The General Superintendent of Assemblies of God, Ghana, Rev. Stephen Yenusom Wengam, has underlined the need for pastors to show utmost loyalty to God and their churches at all times.",
+      "published": "2026-09-17T16:24:01.000Z",
+      "summary": "Member of Parliament for Kumawu, Ernest Yaw Anim, has supported 500 boarding students among more than 1,000 fresh SHS entrants from the constituency with essential prospectus items ahead of…",
       "categories": [
         "National",
-        "Assemblies of God",
-        "Church",
-        "Wengam"
+        "Ernest Yaw Anim",
+        "Kumawu MP",
+        "SHS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
-      "link": "https://www.myjoyonline.com/palace-in-war-of-words-with-earl-spencer-over-claims-in-diana-book/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T13:49:03.000Z",
-      "summary": "Buckingham Palace is in a war of words with Earl Spencer, the brother of Diana, Princess of Wales, over a controversial memoir about her life and death.",
+      "title": "NPP asks gov't to establish Consultative Assembly on constitution review before referendum",
+      "link": "https://www.graphic.com.gh/news/politics/npp-calls-on-govt-to-establish-consultative-assembly-on-constitution-review-before-referendum.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-17T14:33:19.000Z",
+      "summary": "The New Patriotic Party (NPP) has called on the government to establish a deliberative Assembly to contribute to the recommendations of the Prof. H. Kwasi Prempeh Constitution Review…",
       "categories": [
-        "International",
-        "Earl Spencer",
-        "War"
+        "Politics"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bawumia calls on Asantehemaa Nana Yaa Akyaa II",
+      "link": "https://www.graphic.com.gh/news/politics/bawumia-calls-on-asantehemaa-nana-yaa-akyaa-ii.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-17T13:33:37.000Z",
+      "summary": "The flagbearer of the oposition New Patriotic Party (NPP), Dr Mahamudu Bawumia, paid a courtesy call on the Asantehemaa, Nana Yaa Akyaa II, at the Manhyia Palace in Kumasi on Thursday…",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Police arrest seven suspected armed robbers operating in Zebilla, Garu and Binduri",
@@ -303,88 +332,11 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "M&G, Ernest Chemists donate medicine to support Graphic health screening",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-m-g-ernest-chemists-donate-medicine-to-support-graphic-health-screening.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T08:18:44.000Z",
-      "summary": "Two pharmaceutical companies, M&G Pharmaceutical Ltd and Ernest Chemists Limited, have donated essential medicines worth about GH¢15,000 to support the Graphic annual free health screening…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Local contractors need to prioritise quality — Works and Housing Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-local-contractors-need-to-prioritise-quality-works-and-housing-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T08:10:20.000Z",
-      "summary": "The Minister of Works and Housing, Ahmed Ibrahim, has called for deliberate efforts to strengthen indigenous contractors to enable them to play a leading role in Ghana’s infrastructure…",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "London misses out to Nairobi in World Athletics bid",
       "link": "https://www.graphic.com.gh/sports/sports-news/london-misses-out-to-nairobi-in-world-athletics-bid.html",
       "source": "Graphic Sports",
       "published": "2026-09-15T12:47:15.000Z",
       "summary": "London has missed out to Nairobi in the bid to host the 2029 World Athletics Championships. The decision, which means an African city will host the event for the first time, was confirmed…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "SIC, NSIA bosses win CEO penalty shootout at 2026 Insurance Fun Games",
-      "link": "https://www.graphic.com.gh/sports/sports-news/sic-nsia-bosses-win-ceo-penalty-shootout-at-2026-insurance-fun-games.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T16:40:03.000Z",
-      "summary": "The General Manager of Finance and Administration at SIC Insurance, Mr Kenneth Acolatse, and the Managing Director of NSIA Insurance, Mrs Lorenda Deborah, emerged winners of the male and…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Burkina Faso dominates PRURide 2026 Elite Race in Accra",
-      "link": "https://www.graphic.com.gh/sports/sports-news/burkina-faso-dominates-pruride-2026-elite-race-in-accra.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T16:28:35.000Z",
-      "summary": "Burkinabè cyclists delivered a commanding performance at the seventh edition of the PRURide Elite Race, which ended at the Borteyman Highway on Sunday, September 6, 2026, with riders from…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Nana Fitz challenges GFA to revive Colts football",
-      "link": "https://www.graphic.com.gh/sports/sports-news/nana-fitz-challenges-gfa-to-revive-colts-football.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T15:21:28.000Z",
-      "summary": "Veteran football administrator, Fitzgerald Barkers Woode, known in football circles as Nana Fitz, has challenged the Ghana Football Association (GFA) to take immediate steps to address…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "From struggling to walk to lifting trophy: How Rybakina triumphed at US Open",
-      "link": "https://www.graphic.com.gh/sports/sports-news/from-struggling-to-walk-to-lifting-trophy-how-rybakina-triumphed-at-us-open.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T15:02:24.000Z",
-      "summary": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one. Kazakhstan's Rybakina produced…",
-      "categories": [
-        "Sports News"
-      ],
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Sports Editorial: Save Borteyman Racecourse, save Ghanaian horseracing",
-      "link": "https://www.graphic.com.gh/sports/sports-news/sports-editorial-save-borteyman-racecourse-save-ghanaian-horseracing.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-14T14:56:38.000Z",
-      "summary": "The battle over Borteyman Racecourse has ceased to be merely a land dispute. It has become a test of whether Ghana is serious about protecting sporting infrastructure, enforcing…",
       "categories": [
         "Sports News"
       ],
