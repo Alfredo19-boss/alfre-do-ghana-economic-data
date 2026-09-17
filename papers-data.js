@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T05:51:55.615Z",
+  "updated": "2026-09-17T06:46:48.690Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,12 +25,80 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Outstanding challenges in school placement will be addressed before schools reopen – Education Minister",
+      "link": "https://www.myjoyonline.com/outstanding-challenges-in-school-placement-will-be-addressed-before-schools-reopen-education-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T06:12:00.000Z",
+      "summary": "Haruna Iddrisu, the Minister of Education, on Wednesday assured students and parents that the outstanding challenges in the Senior High School placement will be addressed before schools…",
+      "categories": [
+        "National",
+        "Education Minister",
+        "schools"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akufo-Addo to attend NPP National Delegates Conference as party begins rebuilding process",
+      "link": "https://www.myjoyonline.com/akufo-addo-to-attend-npp-national-delegates-conference-as-party-begins-rebuilding-process/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T06:07:00.000Z",
+      "summary": "Former President Nana Addo Dankwa Akufo-Addo is expected to attend the New Patriotic Party’s (NPP) 2026 National Delegates Conference after receiving a formal invitation from the party’s…",
+      "categories": [
+        "National",
+        "Akufo-Addo",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA questions GH¢79.65m Servestar Minwax claim, seeks independent audit",
+      "link": "https://www.myjoyonline.com/gra-questions-gh%c2%a279-65m-servestar-minwax-claim-seeks-independent-audit/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T05:55:00.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) is challenging the basis of a GH¢79.65 million judgment debt being pursued by Servestar Minwax (WA) Limited, insisting that the amount must first undergo…",
+      "categories": [
+        "National",
+        "GRA",
+        "Servestar Minwax"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PROTOA sets September 21 for indefinite strike over rising transport costs",
+      "link": "https://www.myjoyonline.com/protoa-sets-september-21-for-indefinite-strike-over-rising-transport-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T05:54:39.000Z",
+      "summary": "Commercial transport operators under the Progressive Transport Owners Association (PROTOA) are threatening an indefinite withdrawal of their services from September 21, 2026, over…",
+      "categories": [
+        "National",
+        "PROTOA",
+        "Strike",
+        "Trotro"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP must unite and rebuild for 2028 – Akufo-Addo",
+      "link": "https://www.myjoyonline.com/npp-must-unite-and-rebuild-for-2028-akufo-addo/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T05:50:00.000Z",
+      "summary": "Former President Nana Addo Dankwa Akufo-Addo has urged members of the New Patriotic Party (NPP) to prioritise unity and grassroots mobilisation as the party begins preparations towards the…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Akufo-Addo",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ex-convict arrested for allegedly posing as soldier and extorting residents in Ashaiman",
       "link": "https://www.myjoyonline.com/ex-convict-arrested-for-allegedly-posing-as-soldier-and-extorting-residents-in-ashaiman/",
       "source": "MyJoyOnline",
       "published": "2026-09-17T05:45:00.000Z",
       "summary": "The Tema Regional Police Command has arrested a 32-year-old ex-convict for allegedly impersonating a soldier and extorting money from unsuspecting residents in Ashaiman.",
       "categories": [
+        "HP News 8",
         "National",
         "Ashaiman",
         "extorting",
@@ -45,6 +113,7 @@ window.GDC_PAPERS = {
       "published": "2026-09-17T05:40:00.000Z",
       "summary": "The price of diesel at fuel stations could have risen to about GH¢28 per litre if government had not stepped in to absorb part of the sharp increase in international petroleum prices, the…",
       "categories": [
+        "HP News 6",
         "National",
         "Diesel",
         "NPA"
@@ -61,70 +130,6 @@ window.GDC_PAPERS = {
         "National",
         "Agbozume",
         "Water"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Denmark, Ghana must deepen green industrial partnership",
-      "link": "https://www.myjoyonline.com/denmark-ghana-must-deepen-green-industrial-partnership-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T05:29:00.000Z",
-      "summary": "Jorgen Bollesen, the Head of Economic Diplomacy and Trade, Danish Embassy, has called for stronger cooperation with Ghana to accelerate sustainable industrialisation and help Ghanaian…",
-      "categories": [
-        "National",
-        "Denmark",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "LEAP new grant rates take effect this month, says Gender Minister",
-      "link": "https://www.myjoyonline.com/leap-new-grant-rates-take-effect-this-month-says-gender-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T05:23:00.000Z",
-      "summary": "Dr Agnes Naa Momo Lartey, the Minister of Gender, Children and Social Protection, has announced that the new grant rates under the Livelihood Empowerment Against Poverty (LEAP) programme…",
-      "categories": [
-        "National",
-        "Gender Minister",
-        "LEAP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana shifts from advocacy to enforcement on gender equity, disability inclusion",
-      "link": "https://www.myjoyonline.com/ghana-shifts-from-advocacy-to-enforcement-on-gender-equity-disability-inclusion/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T05:17:00.000Z",
-      "summary": "Dr Agnes Naa Momo Lartey, Minister of Gender, Children and Social Protection, says Ghana has moved from advocacy to enforcement in advancing gender equity and disability inclusion, with…",
-      "categories": [
-        "National",
-        "Dr Agnes Naa Momo Lartey",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ho West communities benefit from 2026 big push rural electrification",
-      "link": "https://www.myjoyonline.com/ho-west-communities-benefit-from-2026-big-push-rural-electrification/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T05:11:00.000Z",
-      "summary": "Eight communities in the Ho West Constituency are benefiting from rural electrification works under the Government’s 2026 Big Push Projects.",
-      "categories": [
-        "National",
-        "Ho West"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dorcas Afo-Toffey pledges to sustain SHS scholarship support in Jomoro",
-      "link": "https://www.myjoyonline.com/dorcas-afo-toffey-pledges-to-sustain-shs-scholarship-support-in-jomoro/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T05:04:00.000Z",
-      "summary": "Jomoro MP and Deputy Minister of Transport, Dorcas Afo-Toffey, has pledged to sustain her annual educational support programme for newly admitted Senior High School students in the…",
-      "categories": [
-        "National",
-        "Dorcas Afo-Toffey",
-        "Jomoro"
       ],
       "site": "https://www.myjoyonline.com/"
     },
