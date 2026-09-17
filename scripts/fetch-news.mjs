@@ -4,6 +4,10 @@
 //
 // Run locally: node scripts/fetch-news.mjs
 import fs from "node:fs";
+// The world and African headlines ride inside news-data.js rather than a file of their own.
+// The news workflow already fetches and commits this file, so the extra lists reach the site
+// without the workflow needing a step (or a git add) for a second data file.
+import { WORLD, AFRICA, gdelt, parseFeed as parseWorldFeed, merge as mergeWorld } from "./fetch-world-news.mjs";
 
 const FILE = new URL("../news-data.js", import.meta.url).pathname;
 const UA = "Mozilla/5.0 (compatible; AlfredoGhanaEconomicData/1.0; news headlines)";
@@ -150,6 +154,21 @@ function loadExisting() {
   } catch { return { items: [] }; }
 }
 
+// One publisher at a time, so a single feed failing costs only its own stories.
+async function fetchWorldList(feeds, log, label) {
+  const out = [];
+  for (const feed of feeds) {
+    try {
+      const res = await fetch(gdelt(feed.query, feed.domain), { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(30000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const items = parseWorldFeed(await res.json(), feed);
+      out.push(...items);
+      log.push(`${label} · ${feed.source}: ${items.length} stories`);
+    } catch (e) { log.push(`${label} · ${feed.source}: failed (${e.message})`); }
+  }
+  return out;
+}
+
 async function main() {
   const existing = loadExisting();
   const log = [];
@@ -179,7 +198,17 @@ async function main() {
   // sample headlines from the first publish are replaced once live feeds work
   const base = existing.updated ? existing.items || [] : [];
   const items = mergeNews(base, fresh);
-  const out = { updated: new Date().toISOString(), sources: [...FEEDS.map(f => f.source), ...new Set(WIRE.map(w => w.source))], log, items };
+  // world and African headlines, carried in this same file
+  let world = existing.world || [], africa = existing.africa || [];
+  try {
+    world = mergeWorld(world, await fetchWorldList(WORLD, log, "World"));
+    africa = mergeWorld(africa, await fetchWorldList(AFRICA, log, "Africa"));
+    console.log(`${world.length} world stories, ${africa.length} African stories held.`);
+  } catch (e) {
+    log.push(`world headlines failed: ${e.message}`);   // the Ghana headlines still save
+  }
+
+  const out = { updated: new Date().toISOString(), sources: [...FEEDS.map(f => f.source), ...new Set(WIRE.map(w => w.source))], log, items, world, africa };
   const body = `/*\n * Alfredo Ghana Economic Data: business headlines collected by .github/workflows/news.yml from publishers' RSS feeds.\n * Do not edit by hand; the next run overwrites this file.\n */\nwindow.GDC_NEWS = ${JSON.stringify(out, null, 2)};\n`;
   const before = fs.existsSync(FILE) ? fs.readFileSync(FILE, "utf8") : "";
   const sameItems = before.includes(JSON.stringify(items.slice(0, 3), null, 2).slice(0, 400));
