@@ -28,8 +28,6 @@ jobs:
         run: node scripts/fetch-news.mjs
       - name: Fetch today's front pages
         run: node scripts/fetch-papers.mjs || echo "Papers job failed; keeping the previous front pages."
-      - name: Fetch world and African headlines
-        run: node scripts/fetch-world-news.mjs || echo "World news failed; keeping the previous headlines."
       - name: Commit if there are new stories
         run: |
           git config user.name "alfredo-data-bot"
