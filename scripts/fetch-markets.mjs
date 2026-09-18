@@ -41,11 +41,54 @@ export const GSE_URLS = [
   "https://dev.kwayisi.org/apis/gse/live",
   "https://dev.kwayisi.org/apis/gse/equities"
 ];
+// If both JSON endpoints are down, the same publisher's public table is read instead. It is a
+// last resort and parsed loosely on purpose: any row whose first cell looks like a ticker and
+// which carries a price is kept, so a change of markup costs formatting rather than the data.
+export const GSE_PAGE = "https://afx.kwayisi.org/gse/";
+
+const wait = ms => new Promise(r => setTimeout(r, ms));
 
 export async function getJson(url) {
   const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/json" }, signal: AbortSignal.timeout(25000) });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.json();
+}
+
+// Yahoo is happy to answer a handful of requests and starts refusing a burst of thirty with
+// HTTP 429. This job asks for about thirty symbols, which is why it was coming back with
+// nothing at all while the five-symbol cedi job beside it worked perfectly. Each call now
+// waits its turn, retries once after a pause, and tries Yahoo's second host before giving up.
+export async function getQuoteJson(url) {
+  let last = null;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const target = attempt === 2 ? url.replace("query1.", "query2.") : url;
+    try {
+      return await getJson(target);
+    } catch (e) {
+      last = e;
+      if (attempt < 2) await wait(/429|throttl/i.test(e.message) ? 5000 : 1200);
+    }
+  }
+  throw last;
+}
+
+// One row per listed company, read from the publisher's HTML table when the JSON is unavailable.
+export function parseGsePage(html) {
+  const rows = String(html).match(/<tr[\s>][\s\S]*?<\/tr>/gi) || [];
+  const clean = s => String(s).replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
+  const out = [];
+  for (const tr of rows) {
+    const cells = (tr.match(/<t[dh][\s>][\s\S]*?<\/t[dh]>/gi) || []).map(clean);
+    if (cells.length < 3) continue;
+    const code = cells[0].toUpperCase();
+    if (!/^[A-Z][A-Z0-9.\-]{1,7}$/.test(code)) continue;          // the ticker column
+    const nums = cells.slice(1).map(c => Number(String(c).replace(/[, ]/g, "")));
+    const price = nums.find(n => isFinite(n) && n > 0);
+    if (!isFinite(price)) continue;
+    const name = cells.slice(1).find(c => /[A-Za-z]{3}/.test(c)) || code;
+    out.push({ name: code, company: name, price });
+  }
+  return out;
 }
 
 // Yahoo's chart reply -> the last price, what it closed at before, and when it was quoted
@@ -120,11 +163,12 @@ export async function main() {
     let got = 0;
     for (const [symbol, name, unit, dec] of list) {
       try {
-        const q = parseQuote(await getJson(CHART(symbol)));
+        const q = parseQuote(await getQuoteJson(CHART(symbol)));
         if (!q) throw new Error("no usable quote");
         const before = kept.get(symbol) || {};
         kept.set(symbol, { symbol, name, unit, dec, ...q, history: addPoint(before.history, q.value, q.at) });
         got++;
+        await wait(350);            // Yahoo refuses a burst; a third of a second apart is plenty
       } catch (e) { log.push(`${symbol}: ${e.message}`); }
     }
     world[group] = list.map(([symbol]) => kept.get(symbol)).filter(Boolean);
@@ -139,21 +183,29 @@ export async function main() {
       ghana = { updated: new Date().toISOString(), source: "Ghana Stock Exchange, via the GSE open data feed", sourceUrl: "https://gse.com.gh/", equities };
       log.push(`GSE: ${equities.length} listed companies from ${url}`);
       break;
-    } catch (e) { log.push(`GSE ${url}: ${e.message}`); }
+    } catch (e) { log.push(`GSE ${url}: failed (${e.message})`); }
+  }
+  // Still nothing from either JSON endpoint: read the published table instead.
+  if (!(ghana.equities || []).length) {
+    try {
+      const res = await fetch(GSE_PAGE, { headers: { "User-Agent": UA, Accept: "text/html,*/*" }, signal: AbortSignal.timeout(25000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const equities = parseGse(parseGsePage(await res.text()));
+      if (equities.length < 5) throw new Error(`only ${equities.length} rows`);
+      ghana = { updated: new Date().toISOString(), source: "Ghana Stock Exchange, via the GSE open data feed", sourceUrl: "https://gse.com.gh/", equities };
+      log.push(`GSE: ${equities.length} listed companies from the published table`);
+    } catch (e) { log.push(`GSE ${GSE_PAGE}: failed (${e.message})`); }
   }
 
-  const anyWorld = Object.values(world).some(list => (list || []).length);
-  if (!anyWorld && !(ghana.equities || []).length) {
-    console.log(log.join("\n"));
-    console.error("Nothing came back; markets-data.js left unchanged.");
-    process.exitCode = 1;
-    return;
-  }
-
+  // Always write. `world` and `ghana` both start from what the file already held, so a run that
+  // fetched nothing simply rewrites the same prices — it can never empty the file. What it does
+  // add is the log, and that is the point: when this job came back with nothing it wrote nothing,
+  // so there was no way to see why from the site. Now the reason is in the file and on #status.
   save(FILE, "GDC_MARKETS", {
     updated: new Date().toISOString(),
     note: "Market prices as last traded. World figures from Yahoo Finance; Ghana Stock Exchange prices from the GSE's open feed. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
     source: "Yahoo Finance · Ghana Stock Exchange",
+    log,
     world,
     ghana
   });

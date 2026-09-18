@@ -65,8 +65,34 @@ export function parseFeed(xml, feed) {
     const published = isNaN(d) ? null : d.toISOString();
     const summary = summarise(tag(b, "description") || tag(b, "summary") || "");
     const categories = (b.match(/<category[^>]*>([\s\S]*?)<\/category>/gi) || []).map(c => strip(c.replace(/<\/?category[^>]*>/gi, "")));
-    return { title, link, source: feed.source, published, summary, categories };
+    return { title, link, source: feed.source, published, summary, categories, image: feedImage(b) };
   }).filter(i => i.title && /^https?:\/\//.test(i.link) && i.published);
+}
+
+// The picture a publisher attaches to its own story. Feeds advertise it in four different
+// ways, so all four are tried in the order most likely to be the real photograph rather than
+// a logo or a tracking pixel. Only https is kept — the site is served over https and a plain
+// http image would be blocked by the browser anyway. Nothing is downloaded or re-hosted: the
+// URL is stored and the reader's browser loads it from the publisher, as a feed intends.
+export function feedImage(block) {
+  const tries = [
+    /<media:content[^>]+url=["']([^"']+)["'][^>]*>/i,
+    /<media:thumbnail[^>]+url=["']([^"']+)["']/i,
+    /<enclosure[^>]+url=["']([^"']+)["'][^>]*type=["']image\//i,
+    /<enclosure[^>]+type=["']image\/[^"']*["'][^>]*url=["']([^"']+)["']/i,
+    /<img[^>]+src=["']([^"']+)["']/i,
+    /&lt;img[^&]*src=["']([^"']+)["']/i
+  ];
+  for (const re of tries) {
+    const m = re.exec(block);
+    if (!m) continue;
+    const url = decode(m[1]).trim();
+    if (!/^https:\/\//i.test(url)) continue;
+    if (!/\.(jpe?g|png|webp|avif|gif)(\?|$)/i.test(url) && !/image|photo|media|thumb/i.test(url)) continue;
+    if (/1x1|pixel|spacer|blank\.|\/ads?\//i.test(url)) continue;     // tracking pixels, not photographs
+    return url;
+  }
+  return null;
 }
 
 
@@ -202,7 +228,7 @@ async function fetchWorldList(feeds, log, label) {
       const xml = await res.text();
       if (!/<(rss|feed|rdf)/i.test(xml.slice(0, 2000))) throw new Error("not an RSS/Atom feed");
       let items = parseFeed(xml, feed)
-        .map(({ title, link, source, published, summary }) => ({ title, link, source, published, summary }));
+        .map(({ title, link, source, published, summary, image }) => (image ? { title, link, source, published, summary, image } : { title, link, source, published, summary }));
       if (feed.onlyAfrican) items = items.filter(i => AFRICAN.test(`${i.title} ${i.summary}`));
       out.push(...items);
       log.push(`${label} · ${feed.source}: ${items.length} stories`);
