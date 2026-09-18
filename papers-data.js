@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T00:51:25.245Z",
+  "updated": "2026-09-18T01:12:11.395Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,16 +25,99 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Volta chiefs secure Chinese partnerships for investment",
-      "link": "https://ghanaiantimes.com.gh/volta-chiefs-secure-chinese-partnerships-for-investment/",
+      "title": "Preventing the dual crisis of early marriages and teenage pregnancy in Ghana",
+      "link": "https://ghanaiantimes.com.gh/preventing-the-dual-crisis-of-early-marriages-and-teenage-pregnancy-in-ghana/",
       "source": "Ghanaian Times",
-      "published": "2026-09-18T00:18:00.000Z",
-      "summary": "An eight-member delegation of the Volta Regional House of Chiefs (VRHC) has signed three Memoranda of Understanding (MoUs) with Chinese companies to attract investment, promote technology…",
+      "published": "2026-09-18T00:47:00.000Z",
+      "summary": "Educating our wards, particularly our girls is one of the surest and most powerful ways to prevent teenage pregnancy and early marriages in Ghana. It affords them the knowledge, skills and…",
       "categories": [
-        "Hot!",
-        "News"
+        "Features"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2 Britons among 3 killed in Swiss plane crash",
+      "link": "https://ghanaiantimes.com.gh/2-britons-among-3-killed-in-swiss-plane-crash/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:38:00.000Z",
+      "summary": "Two Britons were among the three people who died when a small plane crashed into a Swiss mountainside ‌this week, the British Foreign, Commonwealth and Development Office said yesterday…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nigeria’s state police amendment bill to be ratified",
+      "link": "https://ghanaiantimes.com.gh/nigerias-state-police-amendment-bill-to-be-ratified/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:36:00.000Z",
+      "summary": "Nigeria’s parliament has sent a constitutional amendment bill that would establish state police forces to the country’s 36 state assembly’s ‌for ratification, advancing a key security…",
+      "categories": [
+        "Africa"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Abducted South African journalist found dead",
+      "link": "https://ghanaiantimes.com.gh/abducted-south-african-journalist-found-dead/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:36:00.000Z",
+      "summary": "Tributes are pouring in for a veteran South African sports broadcaster who was found dead on Wednesday hours after being abducted when his vehicle was hijacked in a township near…",
+      "categories": [
+        "Africa"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Boehly, Walter sell Chelsea stake to Clearlake Capital",
+      "link": "https://ghanaiantimes.com.gh/boehly-walter-sell-chelsea-stake-to-clearlake-capital/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:34:00.000Z",
+      "summary": "Chelsea chairman Todd Boehly and director Mark Walter have sold their stakes in the Premier League side to majority owner Clearlake Capital, which has assumed full control, the club…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "DBG launches AI-powered platform to support farmers",
+      "link": "https://ghanaiantimes.com.gh/dbg-launches-ai-powered-platform-to-support-farmers/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:32:00.000Z",
+      "summary": "The Development Bank Ghana (DBG), in partnership with Opportunity International (OI) and the Ghana Incentive-Based Risk-Sharing System for Agricultural Lending (GIRSAL), has launched an…",
+      "categories": [
+        "Business"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Volta’s China partnerships must deliver",
+      "link": "https://ghanaiantimes.com.gh/voltas-china-partnerships-must-deliver/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:30:00.000Z",
+      "summary": "The decision by the Volta Regional House of Chiefs (VRHC) to look beyond Ghana’s shores for partnerships to accelerate development is both timely and encouraging. During a one-week business…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "CIRIP Ghana urges distressed firms to seek early help",
+      "link": "https://ghanaiantimes.com.gh/cirip-ghana-urges-distressed-firms-to-seek-early-help/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:29:00.000Z",
+      "summary": "BY KINGSLEY ASAREThe Chartered Institute of Restructuring and Insolvency Practitioners Ghana (CIRIP Ghana) has urged financially struggling and distressed registered businesses to seek…",
+      "categories": [
+        "Business"
+      ],
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -154,44 +237,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama chairs security meeting over drug trafficking, orders formation of inter-agency task force",
-      "link": "https://ghanaiantimes.com.gh/mahama-chairs-security-meeting-over-drug-trafficking-orders-formation-of-inter-agency-task-force/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T20:11:22.000Z",
-      "summary": "President John Dramani Mahama today chaired a meeting of security chiefs and received a detailed briefing on investigations into the recent trafficking of drugs out of Ghana’s ports. The…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "UG research: 74.2% of NPP delegates expect Eugene Boakye Antwi to win General Secretary race",
-      "link": "https://ghanaiantimes.com.gh/ug-research-74-2-of-npp-delegates-expect-eugene-boakye-antwi-to-win-general-secretary-race/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T20:08:07.000Z",
-      "summary": "A University of Ghana research on the New Patriotic Party (NPP) National General Secretary election has found that 74.2% of surveyed delegates expect former Subin MP Eugene Boakye Antwi to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Man Utd bundled out of League Cup",
-      "link": "https://ghanaiantimes.com.gh/man-utd-bundled-out-of-league-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T19:46:13.000Z",
-      "summary": "Unhappy Manchester United fans witnessed something unseen at Old Trafford in half a century on Wednesday as their side lost 3-2 at home to Brighton & Hove Albion in ‌the third round of the…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Provide full account of GH¢58million World Cup expenditure - Minority demands",
       "link": "https://www.graphic.com.gh/news/politics/provide-full-account-of-ghc58m-world-cup-expenditure-minority-demands.html",
       "source": "Daily Graphic",
@@ -226,57 +271,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/17/coach.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Bawumia engages Ghana Exporters, pledges more support for sector",
-      "link": "https://ghanaiantimes.com.gh/bawumia-engages-ghana-exporters-pledges-more-support-for-sector/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T17:12:28.000Z",
-      "summary": "Flagbearer of the New Patriotic Party (NPP) and former Vice President, Dr Mahamudu Bawumia, has held a meeting with the Federation of Associations of Ghanaian Exporters (FAGE) to discuss…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police Arrest 36 suspects over lynching of officer at Gindabour",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-36-suspects-over-lynching-of-officer-at-gindabour/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T17:09:23.000Z",
-      "summary": "The Ghana Police Service has arrested 36 suspects in connection with the lynching of a police officer at Gindabour in the Sawla District of the Savannah Region. Preliminary investigation…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police arrest seven armed robbers at Zebilla in Upper East",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-seven-armed-robbers-at-zebilla-in-upper-east/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T17:06:21.000Z",
-      "summary": "The Upper East Regional Police Command arrest seven (7) suspected armed robbers for robbery activities at Zebilla, Garu and Binduri. The suspects are :Issaka Iddrisu age 20, Ali Tamimu age…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "WiSA collaborates with UN to host Africa’s two roundtable sessions at 81st UNGA",
-      "link": "https://ghanaiantimes.com.gh/wisa-collaborates-with-un-to-host-africas-two-roundtable-sessions-at-81st-unga/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T17:01:53.000Z",
-      "summary": "Women in Sustainability Africa (WiSA), in collaboration with the UN Office for Partnerships and the African Union, will convene two high-level roundtables on the sidelines of the 81st…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "NPP asks gov't to establish Consultative Assembly on constitution review before referendum",

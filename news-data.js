@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-18T00:51:07.255Z",
-  "worldAt": "2026-09-18T00:51:07.253Z",
+  "updated": "2026-09-18T01:11:57.543Z",
+  "worldAt": "2026-09-18T01:11:57.540Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,8 +26,8 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
     "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 29 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 3 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,21 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Trump says 'major progress' made toward US military base in Poland",
+      "link": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
+      "source": "France 24",
+      "published": "2026-09-18T01:04:18.000Z",
+      "summary": "US President Donald Trump said that Washington and Warsaw were making 'major progress' toward establishing a US military base in Poland, potentially giving the United States a permanent…",
+      "image": "https://s.france24.com/media/display/e7d252d8-4780-11f1-8bbb-005056a90284/w:1024/p:16x9/2026-05-02T083745Z-1119197471-RC2W0LAB5BIB-RTRMADP-3-USA-TRUMP-GERMANY.jpg"
+    },
+    {
+      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+      "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T00:49:24.000Z",
+      "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
+    },
+    {
       "title": "37 suspected illegal miners die in custody in central Nigeria",
       "link": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
       "source": "France 24",
@@ -1381,29 +1396,15 @@ window.GDC_NEWS = {
       "published": "2026-09-17T19:29:04.000Z",
       "summary": "The EU laid out plans Thursday for strict age limits for children to access social media, games and AI assistants -- and on forcing companies to make platforms safe before minors use them…",
       "image": "https://s.france24.com/media/display/44df0360-b2cd-11f1-8181-1d1125ed9143/w:1024/p:16x9/EN-20260917-210451-211619-CS.jpg"
-    },
-    {
-      "title": "Four bodies found in Nepal tunnel as flood search continues",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T19:34:15.000Z",
-      "summary": "Rescuers in Nepal have recovered four bodies from a flooded hydropower tunnel in Chilime."
-    },
-    {
-      "title": "Russian birth tourism to Brazil increases",
-      "link": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-17T19:19:00.000Z",
-      "summary": "Since Russia's full-scale invasion of Ukraine and stricter regulations in Argentina, more and more Russians are choosing to travel to Brazil to give birth to children, who will obtain…"
     }
   ],
   "africa": [
     {
-      "title": "US approves $414M uranium investment in Niger, two years after troops left",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+      "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T23:16:25.000Z",
-      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
+      "published": "2026-09-18T00:49:24.000Z",
+      "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
     },
     {
       "title": "Africa: South Korea, Africa Pledge Deeper Ai Partnership to Accelerate Continent's Digital Transformation",
@@ -1413,11 +1414,11 @@ window.GDC_NEWS = {
       "summary": "[African Development Bank (AfDB)] The Republic of Korea plans to deepen its long-standing partnership with Africa by expanding cooperation in artificial intelligence (AI) and digital…"
     },
     {
-      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
+      "title": "US approves $414M uranium investment in Niger, two years after troops left",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:27:11.000Z",
-      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
+      "published": "2026-09-17T23:16:25.000Z",
+      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
     },
     {
       "title": "Women living in fear after body of ninth victim found outside Johannesburg",
@@ -1427,11 +1428,11 @@ window.GDC_NEWS = {
       "summary": "The discovery of the bodies of nine women in the same area on the outskirts of South Africa's biggest city, Johannesburg, in the last two months have prompted police to investigate if the…"
     },
     {
-      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
-      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:47:52.000Z",
-      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting."
+      "published": "2026-09-17T21:27:11.000Z",
+      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
     },
     {
       "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
@@ -1441,11 +1442,11 @@ window.GDC_NEWS = {
       "summary": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed…"
     },
     {
-      "title": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss",
+      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T18:18:48.000Z",
-      "summary": "A ninth woman has been found dead amid a wave of killings in South Africa’s Ekurhuleni region, east of Johannesburg."
+      "published": "2026-09-17T20:47:52.000Z",
+      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting."
     },
     {
       "title": "Oil exploitation blamed for environmental damage, crop loss in Congo",
@@ -1455,11 +1456,11 @@ window.GDC_NEWS = {
       "summary": "In a report co-authored with Caritas, the diocese of Pointe-Noire said farmers in the Koilou department have reported sharp drops in cassava harvests. The residents pointed the finger at…"
     },
     {
-      "title": "Liberia: Boakai Relishes Revenue Gains",
-      "link": "https://allafrica.com/stories/202609170510.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-17T16:24:31.000Z",
-      "summary": "[New Republic] -President Joseph Nyuma Boakai has relished Liberia's new revenue chapter of surpassing US$1 billion dollars in revenue collection; a milestone he attributed to the tenacity…"
+      "title": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T18:18:48.000Z",
+      "summary": "A ninth woman has been found dead amid a wave of killings in South Africa’s Ekurhuleni region, east of Johannesburg."
     },
     {
       "title": "Medical teams in DRC face difficult conditions as the race to contain Ebola outbreak",
@@ -1467,6 +1468,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-17T16:26:48.000Z",
       "summary": "Medical teams face brutal conditions as grave diggers work night and day to bury victims of the Ebola outbreak which continues to grip the Democratic Republic of Congo."
+    },
+    {
+      "title": "Liberia: Boakai Relishes Revenue Gains",
+      "link": "https://allafrica.com/stories/202609170510.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-17T16:24:31.000Z",
+      "summary": "[New Republic] -President Joseph Nyuma Boakai has relished Liberia's new revenue chapter of surpassing US$1 billion dollars in revenue collection; a milestone he attributed to the tenacity…"
     },
     {
       "title": "Ninth woman’s body found as South Africa probes series of killings",
@@ -1671,13 +1679,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-17T10:37:26.000Z",
       "summary": "As Ebola threatens parts of Africa, the Federation of West African Medical Laboratory Science opened its first conference Wednesday, in Lomé, Togo, to discuss the challenges posed by…"
-    },
-    {
-      "title": "Liberia: The U.S.$1 Billion Is Not Sitting in a Bank Account",
-      "link": "https://allafrica.com/stories/202609170264.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-17T10:58:56.000Z",
-      "summary": "[Liberian Observer] Liberia's historic US$1 billion revenue collection is an important achievement, but it is already creating a dangerous misconception: that the government suddenly has…"
     }
   ]
 };
