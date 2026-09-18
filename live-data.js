@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-09-17T21:56:28.151Z",
+  "updated": "2026-09-18T00:00:05.024Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, and Yahoo Finance for the market quotes",
   "official": {
@@ -22,7 +22,7 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-09-17T21:56:28.151Z",
+  "officialAt": "2026-09-18T00:00:05.024Z",
   "quotes": {
     "usd": {
       "value": 11.5,
@@ -49,10 +49,10 @@ window.GDC_LIVE = {
       "prev": 1.7095
     },
     "gold": {
-      "value": 4380.6,
-      "at": "2026-09-17T20:59:57.000Z",
+      "value": 4383.4,
+      "at": "2026-09-17T23:49:30.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4390.5
+      "prev": 4380.6
     }
   }
 };
