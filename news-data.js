@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-18T00:24:50.106Z",
-  "worldAt": "2026-09-18T00:24:50.104Z",
+  "updated": "2026-09-18T00:51:07.255Z",
+  "worldAt": "2026-09-18T00:51:07.253Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,9 +26,9 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 29 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 4 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,11 +1099,19 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+      "title": "37 suspected illegal miners die in custody in central Nigeria",
+      "link": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
+      "source": "France 24",
+      "published": "2026-09-18T00:27:53.000Z",
+      "summary": "Nigerian authorities launched an investigation Thursday after 37 suspected illegal miners died in a civil defence detention facility in central Niger state, with conflicting accounts…",
+      "image": "https://s.france24.com/media/display/fd53c6ca-b2f4-11f1-8166-5570cf9529c5/w:1024/p:16x9/AP24346673836644.jpg"
+    },
+    {
+      "title": "Iran expels Swedish diplomat in retaliatory move",
+      "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T00:00:00.000Z",
-      "summary": "Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'."
+      "published": "2026-09-18T00:09:32.000Z",
+      "summary": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure."
     },
     {
       "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
@@ -1114,11 +1122,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3892/live/bc8899c0-b251-11f1-aeda-b3619ea893bd.jpg"
     },
     {
-      "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
-      "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
+      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T23:42:37.000Z",
-      "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM."
+      "published": "2026-09-18T00:00:00.000Z",
+      "summary": "Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'."
     },
     {
       "title": "Rare Aztec manuscript returns to Mexico on loan after nearly two centuries in France",
@@ -1129,11 +1137,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/eac40b7e-b2e9-11f1-a029-8bce42b8e305/w:1024/p:16x9/000-C8MK2CX.jpg"
     },
     {
-      "title": "US approves $414M uranium investment in Niger, two years after troops left",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+      "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
+      "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T23:16:25.000Z",
-      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
+      "published": "2026-09-17T23:42:37.000Z",
+      "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM."
     },
     {
       "title": "French police officer arrested over suspected far-right terror plot",
@@ -1144,11 +1152,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/734d60f4-a19b-11f1-ba2b-005056bfb2b6/w:1024/p:16x9/000-34RN2HF.jpg"
     },
     {
-      "title": "Russia election: Could other parties challenge United Russia?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "title": "US approves $414M uranium investment in Niger, two years after troops left",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T22:19:58.000Z",
-      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?"
+      "published": "2026-09-17T23:16:25.000Z",
+      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
     },
     {
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
@@ -1159,11 +1167,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e890/live/25bea680-b2cc-11f1-aa00-7947ea0dbeab.jpg"
     },
     {
-      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T22:12:22.000Z",
-      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge."
+      "published": "2026-09-17T22:19:58.000Z",
+      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?"
     },
     {
       "title": "US Midterms: Russian disinformation campaign targets Democrats",
@@ -1174,11 +1182,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/404b89e0-b2dc-11f1-8ebd-8bce42b8e305/w:1024/p:16x9/ANGL260917-2045-Live-CS2045.jpg"
     },
     {
-      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:42:31.000Z",
-      "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it."
+      "published": "2026-09-17T22:12:22.000Z",
+      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge."
     },
     {
       "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
@@ -1189,11 +1197,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg"
     },
     {
-      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:38:17.000Z",
-      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis."
+      "published": "2026-09-17T21:42:31.000Z",
+      "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it."
     },
     {
       "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
@@ -1204,11 +1212,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/09b313bc-b2cd-11f1-835c-61f6f55d211c/w:1024/p:16x9/EN-20260917-181320-182715-CS.jpg"
     },
     {
-      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:27:11.000Z",
-      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
+      "published": "2026-09-17T21:38:17.000Z",
+      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis."
     },
     {
       "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
@@ -1219,11 +1227,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg"
     },
     {
-      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
+      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:20:57.000Z",
-      "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases."
+      "published": "2026-09-17T21:27:11.000Z",
+      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
     },
     {
       "title": "French fishermen to end blockades over fuel prices",
@@ -1234,11 +1242,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5833d92c-b2d7-11f1-981e-8bce42b8e305/w:1024/p:16x9/capture-16886675566aac4f1ae9c029-89417278.jpg"
     },
     {
-      "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
-      "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
+      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:08:51.000Z",
-      "summary": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread."
+      "published": "2026-09-17T21:20:57.000Z",
+      "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases."
     },
     {
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -1249,11 +1257,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
-      "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+      "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+      "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:01:41.000Z",
-      "summary": "Move ends the Security Council’s watchdog panel on Iran sanctions."
+      "published": "2026-09-17T21:08:51.000Z",
+      "summary": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread."
     },
     {
       "title": "AFP photo shows Trump examining image of apparent Kennedy Center razing",
@@ -1264,11 +1272,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6d25a13c-b2d5-11f1-be23-430f3874e448/w:1024/p:16x9/EN-20260917-220927-221244-CS.jpg"
     },
     {
-      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
-      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+      "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:47:52.000Z",
-      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting."
+      "published": "2026-09-17T21:01:41.000Z",
+      "summary": "Move ends the Security Council’s watchdog panel on Iran sanctions."
     },
     {
       "title": "Women living in fear after body of ninth victim found outside Johannesburg",
@@ -1278,11 +1286,11 @@ window.GDC_NEWS = {
       "summary": "The discovery of the bodies of nine women in the same area on the outskirts of South Africa's biggest city, Johannesburg, in the last two months have prompted police to investigate if the…"
     },
     {
-      "title": "Why does Brazil get to speak first at UNGA?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
+      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:46:21.000Z",
-      "summary": "Why does Brazil get to speak first at UNGA?"
+      "published": "2026-09-17T20:47:52.000Z",
+      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting."
     },
     {
       "title": "Serial killer suspicions in South Africa",
@@ -1293,11 +1301,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3611477c-b2d6-11f1-8e6b-430f3874e448/w:1024/p:16x9/capture-12071973626aac4d34225ba0-03662603.jpg"
     },
     {
-      "title": "Can ‘middle powers’ come together to build a new economic alliance?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
+      "title": "Why does Brazil get to speak first at UNGA?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:37:06.000Z",
-      "summary": "Canada's prime minister outlines plans for stronger ties with the EU."
+      "published": "2026-09-17T20:46:21.000Z",
+      "summary": "Why does Brazil get to speak first at UNGA?"
     },
     {
       "title": "Behind the overture from the European Union to Canada",
@@ -1307,11 +1315,11 @@ window.GDC_NEWS = {
       "summary": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S."
     },
     {
-      "title": "Why have China’s oil prices reached a record high?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
+      "title": "Can ‘middle powers’ come together to build a new economic alliance?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:30:39.000Z",
-      "summary": "Why have China's oil prices reached a record high?"
+      "published": "2026-09-17T20:37:06.000Z",
+      "summary": "Canada's prime minister outlines plans for stronger ties with the EU."
     },
     {
       "title": "Trump threatens EU over 'hostile' Canada association plan",
@@ -1320,6 +1328,13 @@ window.GDC_NEWS = {
       "published": "2026-09-17T20:04:02.000Z",
       "summary": "US President Donald Trump threatened on Wednesday to cut trade with the European Union after the bloc proposed to make Canada its first ever associate member. \"I think it's laughable,\"…",
       "image": "https://s.france24.com/media/display/45458dc8-b2ce-11f1-88d2-61f6f55d211c/w:1024/p:16x9/EN-20260917-203120-203742-CS.jpg"
+    },
+    {
+      "title": "Why have China’s oil prices reached a record high?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-17T20:30:39.000Z",
+      "summary": "Why have China's oil prices reached a record high?"
     },
     {
       "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
@@ -1380,20 +1395,6 @@ window.GDC_NEWS = {
       "source": "Deutsche Welle",
       "published": "2026-09-17T19:19:00.000Z",
       "summary": "Since Russia's full-scale invasion of Ukraine and stricter regulations in Argentina, more and more Russians are choosing to travel to Brazil to give birth to children, who will obtain…"
-    },
-    {
-      "title": "Houthi leader denies targeting Mecca, vows to protect holy city",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/houthi-leader-denies-targeting-mecca-vows-to-protect-holy-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T19:31:03.000Z",
-      "summary": "Houthi leader Abdul Malik al-Houthi pledges to defend Mecca and other Islamic holy sites."
-    },
-    {
-      "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
-      "link": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/",
-      "source": "Africanews",
-      "published": "2026-09-17T18:56:35.000Z",
-      "summary": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed…"
     }
   ],
   "africa": [
