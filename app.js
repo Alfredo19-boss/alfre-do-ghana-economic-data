@@ -1365,6 +1365,13 @@
       // only when there is a live quote to put on it, and stays silent otherwise.
       const officialLeads = !!bog;
 
+      // Gold has no Ghanaian official rate — there is one world price, and the site should show
+      // one number for it. It was showing two: the live world quote in the big type and an older
+      // published figure from a different source underneath, which read as a disagreement. The
+      // world market price wins and the second figure goes; Global markets quotes the same
+      // instrument, so the two sections now agree by construction.
+      if (label === "Gold price" && q) { off = ""; when = ""; }
+
       if (!q && !officialLeads) {
         if (mono && mono.dataset.base !== undefined) mono.innerHTML = mono.dataset.base;
         el.hidden = true;
@@ -1391,6 +1398,12 @@
           + (q ? `<span class="mkt"><b class="official">${shown}${arrow}</b><span>market · ${esc(liveTime(q.at))}</span></span>` : "");
       } else {
         if (mono) mono.innerHTML = `${shown}${arrow}`;
+        // the figure in the big type is today's world price, so the corner date says today
+        if (label === "Gold price" && cell) {
+          cell.classList.remove("is-stale");
+          const chip = cell.querySelector(".stat-top .date, .stat-top .chip");
+          if (chip) { chip.className = "date auto"; chip.textContent = dateFmt(q.at); chip.removeAttribute("title"); }
+        }
         el.innerHTML = `<span class="at">market · ${esc(liveTime(q.at))}</span>`
           + (off ? `<b class="official">${esc(off)}</b><span>${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>` : "");
       }
@@ -1496,6 +1509,7 @@
   const VIEWS = {
     dashboard: { el: $("dashboard-view") },
     news: { el: newsView, draw: () => renderNews() },
+    afrnews: { el: $("afrnews-view"), draw: () => renderAfrNews() },
     africa: { el: $("africa-view"), draw: () => renderAfrica() },
     markets: { el: $("markets-view"), draw: () => { renderMarkets(); renderGse(); } },
     world: { el: $("world-view"), draw: () => renderWorld() },
@@ -1511,7 +1525,7 @@
     Object.entries(VIEWS).forEach(([name, v]) => { if (v.el) v.el.hidden = name !== view; });
     $$("[data-view-link]").forEach(a => (a.dataset.viewLink === view ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
     const v = VIEWS[view];
-    if (v.draw && (!drawn[view] || ["news", "status", "markets", "world"].includes(view))) { v.draw(); drawn[view] = true; }
+    if (v.draw && (!drawn[view] || ["news", "status", "markets", "world", "afrnews"].includes(view))) { v.draw(); drawn[view] = true; }
     fit();
   }
   function routeFromHash() {
@@ -1652,10 +1666,40 @@
 
   /* ---- a chart card: the picture, the numbers behind it, and a way to take both away ---- */
   let chartSeq = 0;
+  /* ---- how to read each chart ------------------------------------------------
+   * Written for somebody meeting the chart for the first time — a student, or anyone who has
+   * not spent years looking at economic series. Each one says what is actually plotted, how to
+   * read the shape, and the one mistake that is easiest to make with it. Matched on the start
+   * of the chart's title, because three of the titles carry a year in them.
+   */
+  const CHART_LEARN = [
+    ["Public debt, GH", "Each bar is the total the government owed at the end of that year, in billions of cedis. Taller means more debt. Read the <em>gaps</em> between bars rather than their height: a jump from one year to the next is a year of heavy borrowing, and a bar that is only slightly taller is a quiet year. The last bar is the most recent month rather than a full year, so it is not yet comparable with the ones before it."],
+    ["Debt-to-GDP", "This is the debt divided by the size of the whole economy, as a percentage. It matters more than the raw debt because it asks whether the country can carry what it owes — GH¢100bn is heavy for a small economy and light for a large one. The line can fall in two quite different ways: the country repays debt, or the economy grows faster than the debt does. Both look identical here."],
+    ["Debt per person", "The same total debt, divided by how many people lived in Ghana that year. Nobody is handed this bill — it is a way of putting a number too large to picture into one you can. Because the population keeps growing, this line rises more slowly than the debt itself."],
+    ["Inflation since 1993", "Inflation is how fast prices rose over a year, as a percentage. A falling line does not mean prices fell — it means they rose more slowly than before. Prices only actually fall when the line goes below zero, which is rare. Notice how the 1990s dwarf everything since: that is the scale problem this chart exists to show."],
+    ["Inflation and the policy rate", "Two lines on one scale. The policy rate is what the Bank of Ghana charges banks; inflation is what prices are doing. The distance between them is the <em>real</em> interest rate. When the policy rate sits above inflation, saving beats rising prices and borrowing is expensive — that is the Bank leaning against inflation. When it sits below, money loses value in the bank."],
+    ["Cedi per US dollar", "How many cedis one dollar costs. Because the cedi is on the bottom of that fraction, the line going <em>up</em> means the cedi is getting <em>weaker</em> — this catches almost everyone out the first time. A weaker cedi raises the price of anything imported, which is most fuel, most medicine and most machinery."],
+    ["Petrol and diesel", "The published pump price per litre. This is the figure that reaches ordinary prices fastest: fuel moves transport costs, transport costs move food prices, and food is the biggest single item in Ghana's inflation basket. Watch it as an early warning for the inflation chart above."],
+    ["Real GDP growth", "The percentage the economy grew in each year, after stripping inflation out — that is what \"real\" means. A smaller positive number is still growth, just slower growth. Only a bar below zero means the economy actually shrank."],
+    ["Income per person", "Total national income divided by the population, in US dollars. It is an average, so it says nothing about how income is shared. Because it is converted into dollars, a fall can mean the economy weakened, or simply that the cedi did — the 2022 dip is mostly the second."],
+    ["Gross reserves", "The foreign currency the central bank holds. It is the buffer behind the cedi and behind the country's ability to pay for imports: economists usually judge it in months of import cover, and three months is the conventional comfort line. Reserves rising is generally a sign of strength."],
+    ["Remittances", "Money sent home by Ghanaians living abroad. It arrives as foreign currency, exactly like export earnings, which is why it belongs on the same page as trade. It is also unusually steady — it tends to hold up in years when exports fall."],
+    ["Unemployment rate", "The share of people who want work and cannot find it. This is the modelled international estimate, which is why it runs lower than Ghana's own survey: the two count differently, and neither is wrong. Comparing this line with another country is fair; comparing it with the Ghanaian survey figure is not."],
+    ["Population, millions", "How many people live in Ghana. It sits under nearly every other figure on this site: debt per person, income per person and reserves per person all use it as their denominator, so its slope quietly shapes those lines too."],
+    ["Exports and imports", "Two lines: what Ghana sold abroad and what it bought. The gap between them is the trade balance. Exports above imports means money coming in on trade; imports above exports means money going out, which has to be financed from somewhere — usually borrowing or reserves."],
+    ["Trade balance", "Exports minus imports, so this is the gap from the chart above drawn as a single line. Above zero is a surplus, below zero a deficit. The zero line is the one that matters: crossing it is a change of kind, not just of degree."],
+    ["Gold and cocoa", "Two prices on very different scales — an ounce of gold and a tonne of cocoa — so both are rebased to 100 at the start year. Every point then reads as \"this per cent of where it began\". That makes the comparison about <em>how much each has moved</em>, not which is worth more."],
+    ["Where the", "Each bar is one line of the approved budget for the year, in billions of cedis. Sorted largest first, so the ordering tells you the government's priorities as written down. Remember this is what was <em>approved</em>, not what has been spent yet."],
+    ["Inflation across Africa", "One bar per country, Ghana in gold. Each country publishes on its own timetable, so the months behind the bars are not identical — treat this as a rough ranking rather than a precise league table. It answers \"is this normal for the region?\", which a single country's line never can."],
+    ["The biggest economies in Africa", "The total value of what each country produces in a year, in US dollars, with Ghana marked in gold. Bigger is not the same as richer: a large economy divided among many people can leave each person with less than a small one. For that, look at income per person instead."]
+  ];
+  const chartLearn = title => (CHART_LEARN.find(([k]) => String(title).startsWith(k)) || [])[1] || "";
+
   function chartCard(title, blurb, chart, source, legend) {
     if (!chart || !chart.svg) return "";
     const id = `ch${++chartSeq}`;
     const d = chart.data;
+    const learn = chartLearn(title);
     return `<figure class="chart-card" id="${id}" data-title="${esc(title)}">
       <figcaption>
         <h3>${esc(title)}</h3>
@@ -1666,6 +1710,10 @@
         ${chart.svg}
         <div class="c-tip" hidden></div>
       </div>
+      ${learn ? `<details class="c-learn">
+        <summary>How to read this chart</summary>
+        <p>${learn}</p>
+      </details>` : ""}
       <div class="c-tools">
         <button type="button" class="c-btn" data-table="${id}" aria-expanded="false">Read the numbers</button>
         <span class="c-tools-right">
@@ -2266,65 +2314,104 @@
     return `<span class="src-badge ${cls}" data-tone="${m.tone}" title="${esc(source)}" aria-hidden="true">${esc(m.text)}</span>`;
   };
 
-  let worldFind = "", worldSrc = "";
-  function renderWorld() {
+  /* Two portals, one piece of machinery. Global news and African news differ only in which
+   * list they read and a line of wording, so they share this renderer: a fix or an improvement
+   * to one is a fix to both, and they cannot drift apart. */
+  const FEEDS_UI = {
+    world: { list: "global", ids: "world", find: "", src: "" },
+    afrnews: { list: "africa", ids: "afrnews", find: "", src: "" }
+  };
+  function renderFeedPortal(name) {
+    const cfg = FEEDS_UI[name];
+    const id = suffix => $(`${cfg.ids}-${suffix}`);
+    if (!id("list")) return;                       // that portal is not in this page
     const W = worldData() || {};
-    const all = worldStories("global");
-    const q = worldFind.trim().toLowerCase();
-    if (worldSrc && !all.some(i => i.source === worldSrc)) worldSrc = "";   // that publisher has nothing left
+    const all = worldStories(cfg.list);
+    const q = cfg.find.trim().toLowerCase();
+    if (cfg.src && !all.some(i => i.source === cfg.src)) cfg.src = "";   // that publisher has nothing left
     const shown = all
-      .filter(i => !worldSrc || i.source === worldSrc)
+      .filter(i => !cfg.src || i.source === cfg.src)
       .filter(i => !q || `${i.title} ${i.source}`.toLowerCase().includes(q));
 
-    $("world-status").textContent = W.updated
+    id("status").textContent = W.updated
       ? `${all.length} stories · updated ${timeAgo(W.updated)}`
       : "Waiting for the first run";
-    $("world-empty").hidden = !!shown.length;
+    id("empty").hidden = !!shown.length;
 
     // One chip per newsroom, newsiest first, so a reader can read one publisher at a time.
     const counts = new Map();
     all.forEach(i => counts.set(i.source, (counts.get(i.source) || 0) + 1));
     const chips = [["", "All newsrooms", all.length],
       ...[...counts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).map(([s, n]) => [s, s, n])];
-    $("world-sources").innerHTML = chips.map(([val, label, n]) =>
-      `<button type="button" class="src-chip${worldSrc === val ? " on" : ""}" data-src="${esc(val)}">
+    id("sources").innerHTML = chips.map(([val, label, n]) =>
+      `<button type="button" class="src-chip${cfg.src === val ? " on" : ""}" data-src="${esc(val)}">
         ${val ? srcBadge(val) : `<span class="src-badge all" aria-hidden="true">ALL</span>`}
         <span>${esc(val || label)}</span><b>${n}</b>
       </button>`).join("");
-    $("world-sources").hidden = !all.length;
+    id("sources").hidden = !all.length;
 
-    // the three newest, given room at the top
-    const lead = (q || worldSrc) ? [] : shown.slice(0, 3);
-    $("world-lead").innerHTML = lead.map(i => `
-      <article class="world-card">
-        <div class="story-meta">${srcBadge(i.source)}<span class="src">${esc(i.source)}</span>${i.country ? `<span class="wire-tag">${esc(i.country)}</span>` : ""}<time datetime="${esc(i.published)}">${esc(timeAgo(i.published))}</time></div>
-        <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
-        ${i.summary ? `<p class="sum">${esc(i.summary)}</p>` : ""}
+    // A picture the publisher put on its own feed. It is loaded from their server, never copied
+    // here, and a story without one simply keeps its lettermark — the layout has to look right
+    // either way, because plenty of feeds carry no image at all.
+    const pic = (i, cls) => i.image
+      ? `<span class="${cls}"><img src="${esc(i.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`
+      : "";
+
+    // the newest three, given room at the top; the first gets the width
+    const lead = (q || cfg.src) ? [] : shown.slice(0, 3);
+    id("lead").innerHTML = lead.map(i => `
+      <article class="world-card${i.image ? " has-pic" : ""}">
+        ${pic(i, "world-pic")}
+        <div class="world-body">
+          <div class="story-meta">${srcBadge(i.source)}<span class="src">${esc(i.source)}</span>${i.country ? `<span class="wire-tag">${esc(i.country)}</span>` : ""}<time datetime="${esc(i.published)}">${esc(timeAgo(i.published))}</time></div>
+          <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+          ${i.summary ? `<p class="sum">${esc(i.summary)}</p>` : ""}
+        </div>
       </article>`).join("");
-    $("world-lead").hidden = !lead.length;
+    id("lead").hidden = !lead.length;
 
-    const rest = (q || worldSrc) ? shown : shown.slice(3);
-    $("world-list").innerHTML = rest.map(i => {
+    const rest = (q || cfg.src) ? shown : shown.slice(3);
+    id("list").innerHTML = rest.map(i => {
       const fresh = Date.now() - Date.parse(i.published) < 3 * 3600e3;
-      return `<article class="story has-badge">
-        ${srcBadge(i.source, "sm")}
+      return `<article class="story has-badge${i.image ? " has-pic" : ""}">
+        ${i.image ? pic(i, "story-thumb") : srcBadge(i.source, "sm")}
         <div class="story-body">
-          <div class="story-meta"><span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
+          <div class="story-meta">${i.image ? srcBadge(i.source, "xs") : ""}<span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
           <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
         </div>
       </article>`;
     }).join("");
-    $("world-list").hidden = !rest.length;
+    id("list").hidden = !rest.length;
+
+    // A publisher's image can 404, move, or be blocked. When one fails to load, its frame is
+    // removed and the story falls back to the lettermark rather than leaving a broken box.
+    $$(`#${cfg.ids}-lead img, #${cfg.ids}-list img`).forEach(img => {
+      img.addEventListener("error", () => {
+        const card = img.closest(".story, .world-card");
+        img.parentElement.remove();
+        if (!card) return;
+        card.classList.remove("has-pic");
+        if (card.classList.contains("story") && !card.querySelector(".src-badge")) {
+          card.insertAdjacentHTML("afterbegin", srcBadge(card.querySelector(".src") ? card.querySelector(".src").textContent : "", "sm"));
+        }
+      }, { once: true });
+    });
 
     const src = W.source ? ` Read from ${esc(W.source)}.` : "";
-    $("world-note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed about every twenty minutes; anything older than a day and a half drops off.`;
+    id("note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed about every twenty minutes; anything older than a day and a half drops off.`;
   }
-  $("world-find").addEventListener("input", e => { worldFind = e.target.value; renderWorld(); });
-  $("world-sources").addEventListener("click", e => {
-    const chip = e.target.closest(".src-chip");
-    if (!chip) return;
-    worldSrc = chip.dataset.src === worldSrc ? "" : chip.dataset.src;   // tapping the chosen one clears it
-    renderWorld();
+  const renderWorld = () => renderFeedPortal("world");
+  const renderAfrNews = () => { renderFeedPortal("afrnews"); renderAfrWire(); };
+  Object.keys(FEEDS_UI).forEach(name => {
+    const cfg = FEEDS_UI[name];
+    const find = $(`${cfg.ids}-find`), sources = $(`${cfg.ids}-sources`);
+    if (find) find.addEventListener("input", e => { cfg.find = e.target.value; renderFeedPortal(name); });
+    if (sources) sources.addEventListener("click", e => {
+      const chip = e.target.closest(".src-chip");
+      if (!chip) return;
+      cfg.src = chip.dataset.src === cfg.src ? "" : chip.dataset.src;   // tapping the chosen one clears it
+      renderFeedPortal(name);
+    });
   });
 
   /* ---- the African headline strip above the inflation orbit ---- */
@@ -2358,7 +2445,7 @@
     if (!afrWireTimer) {
       afrWireTimer = setInterval(() => {
         const slides = $$(".afr-slide");
-        if (!slides.length || VIEWS.africa.el.hidden) return;   // no work while nobody is looking
+        if (!slides.length || VIEWS.afrnews.el.hidden) return;   // no work while nobody is looking
         afrWireAt = (afrWireAt + 1) % slides.length;
         slides.forEach((el, n) => el.classList.toggle("on", n === afrWireAt));
         $$("#afr-wire-dots i").forEach((d, n) => d.classList.toggle("on", n === afrWireAt));
@@ -2369,7 +2456,7 @@
   /* ================= Africa inflation: Ghana at the centre ================= */
   const africaData = () => window.GDC_AFRICA || null;
   function renderAfrica() {
-    renderAfrWire();
+    // the headline strip lives in the African news portal now; this one is the inflation data
     const AFRICA = africaData();
     if (!AFRICA || !AFRICA.countries) { $("africa-status").textContent = "No data yet"; return; }
     const gh = AFRICA.countries.GHA;
@@ -3092,6 +3179,120 @@
     })}${gap}`;
   }
 
+  /* ================= what Alfredo knows beyond the published readings =================
+   * He can read the three headline lists, the market board and the direction each figure has
+   * travelled, so "what is in the news", "how are the markets" and "what should I watch" are
+   * answerable from the page itself. Two rules hold throughout: he never fetches anything, and
+   * he never predicts a number. He will say which way something has moved, what is due, and
+   * what would change it — an outlook is a judgement, and this site does not make those up.
+   */
+  const ALF_NEWS_NAME = { ghana: "Ghana business", world: "world", africa: "African" };
+  const alfHeadlines = kind => kind === "ghana" ? newsItems() : worldStories(kind === "africa" ? "africa" : "global");
+
+  function alfHeadlineList(list, n = 4) {
+    return `<ul class="alf-list">${list.slice(0, n).map(i =>
+      `<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><span class="alf-src">${esc(i.source)} · ${esc(timeAgo(i.published))}</span></li>`).join("")}</ul>`;
+  }
+
+  // Words that are about the act of asking for news rather than about a subject.
+  const ALF_NEWS_WORDS = /^(news|newses|headline|headlines|story|stories|report|reports|reporting|world|global|africa|african|continent|ghana|ghanaian|business|latest|recent|today|todays|now|happening|happened|going|summary|summarise|summarize|brief|briefing|update|updates|anything|something)$/;
+
+  function alfNewsAnswer(kind, q) {
+    const list = alfHeadlines(kind);
+    if (!list.length) return `I don't have any ${ALF_NEWS_NAME[kind]} headlines in front of me just now — the news job may not have run yet. Everything else on the dashboard I can still answer.`;
+
+    // a subject inside the question narrows the list
+    const words = alfNorm(q).split(" ").filter(w => w.length > 3 && !ALF_STOP.has(w) && !ALF_NEWS_WORDS.test(w));
+    const hits = words.length ? list.filter(i => words.some(w => `${i.title} ${i.summary || ""}`.toLowerCase().includes(w))) : [];
+    if (hits.length) return `Here is what I have on that — ${hits.length} ${hits.length === 1 ? "story" : "stories"} in the ${ALF_NEWS_NAME[kind]} list:${alfHeadlineList(hits, 5)}`;
+    if (words.length) return `I have ${list.length} ${ALF_NEWS_NAME[kind]} headlines, but none of them mention that. Here are the newest, in case one is close:${alfHeadlineList(list, 3)}`;
+
+    const sources = [...new Set(list.slice(0, 24).map(i => i.source))];
+    const named = sources.slice(0, 3).join(", ") + (sources.length > 3 ? ` and ${sources.length - 3} more` : "");
+    return `There are ${list.length} ${ALF_NEWS_NAME[kind]} headlines on the page, the newest from ${timeAgo(list[0].published)}, carried by ${named}. These are at the top:${alfHeadlineList(list)}`;
+  }
+
+  // The biggest movers on the market board, by size of the day's percentage change.
+  function alfMovers(n = 4) {
+    const M = marketsData();
+    if (!M || !M.world) return [];
+    return Object.values(M.world).flat()
+      .filter(x => x && typeof x.pct === "number" && isFinite(x.pct))
+      .sort((a, b) => Math.abs(b.pct) - Math.abs(a.pct))
+      .slice(0, n);
+  }
+  const alfMoveWord = p => p > 0 ? "up" : p < 0 ? "down" : "flat";
+
+  function alfMarketAnswer(q) {
+    const M = marketsData() || {};
+    const movers = alfMovers(4);
+    const gse = (M.ghana && M.ghana.equities) || [];
+
+    if (/\b(gse|stock exchange|listed compan|share price|equit)\b/.test(q)) {
+      if (!gse.length) return `The Ghana Stock Exchange listing hasn't been filled in yet. Once <b>Update live rates</b> has run I'll have every listed company and its last traded price.`;
+      const up = gse.filter(e => typeof e.pct === "number" && e.pct > 0).sort((a, b) => b.pct - a.pct);
+      const down = gse.filter(e => typeof e.pct === "number" && e.pct < 0).sort((a, b) => a.pct - b.pct);
+      const bits = [`${gse.length} companies are listed on the Ghana Stock Exchange and I have a last traded price for all of them.`];
+      if (up.length) bits.push(`The best of the day is ${esc(up[0].name || up[0].code)} at GH¢${fmt(up[0].price, 2)}, up ${fmt(up[0].pct, 2)}%.`);
+      if (down.length) bits.push(`The weakest is ${esc(down[0].name || down[0].code)} at GH¢${fmt(down[0].price, 2)}, down ${fmt(Math.abs(down[0].pct), 2)}%.`);
+      bits.push(`The full list is under <b>Global markets</b>.`);
+      return bits.join(" ");
+    }
+
+    if (!movers.length) return `The market board is empty at the moment — run <b>Update live rates</b> and I'll have the world indices, the commodities, crypto and the currency pairs.`;
+    const lines = movers.map(m => `<li>${esc(m.name)} <b>${alfMoveWord(m.pct)} ${fmt(Math.abs(m.pct), 2)}%</b><span class="alf-src">${esc(m.unit || "")} ${fmt(m.value, m.dec ?? 2)}</span></li>`).join("");
+    const rose = movers.filter(m => m.pct > 0).length;
+    const mood = rose > movers.length / 2 ? "More of them are up than down" : rose ? "It is mixed" : "They are mostly lower";
+    return `${mood} today. The biggest moves on the board:<ul class="alf-list">${lines}</ul>Exchanges close overnight and at weekends, so each price carries the moment it was quoted.`;
+  }
+
+  // Which way a published reading has travelled since the previous one on file.
+  function alfDirection(it) {
+    const s = (it.series || []).filter(p => p && typeof p.value === "number");
+    if (!s.length || typeof it.value !== "number") return null;
+    const prev = s[s.length - 1];
+    const diff = it.value - prev.value;
+    if (!isFinite(diff)) return null;
+    return { word: Math.abs(diff) < 1e-9 ? "unchanged" : diff > 0 ? "higher" : "lower", diff, from: prev };
+  }
+
+  const alfRead = label => allItems.find(i => i.label === label);
+
+  function alfBriefing() {
+    const t = Date.now();
+    const bits = [];
+    bits.push(`Ghana's public debt is running at ${alfMoney(debtAt(t))} right now, about ${sym()}${fmt(money(rate.total), 0)} a second on the pace between ${esc(P.label)} and ${esc(L.label)}.`);
+    const infl = alfRead("Inflation"), pol = alfRead("BoG policy rate");
+    if (infl && pol) bits.push(`Inflation is ${fmt(infl.value, infl.dec)}% for ${esc(infl.date)} and the policy rate is ${fmt(pol.value, pol.dec)}%, so money lent at policy is earning about ${fmt(pol.value - infl.value, 1)} points above inflation.`);
+    const usd = alfRead("US dollar");
+    if (usd) bits.push(`The cedi is at ${sym()}${fmt(usd.value, 4)} to the dollar.`);
+    const movers = alfMovers(1);
+    if (movers.length) bits.push(`On the world board the biggest move is ${esc(movers[0].name)}, ${alfMoveWord(movers[0].pct)} ${fmt(Math.abs(movers[0].pct), 2)}%.`);
+    const gh = alfHeadlines("ghana"), wd = alfHeadlines("world");
+    if (gh.length) bits.push(`In Ghana business news the top headline is “${esc(gh[0].title)}” — ${esc(gh[0].source)}, ${esc(timeAgo(gh[0].published))}.`);
+    if (wd.length) bits.push(`Around the world: “${esc(wd[0].title)}” — ${esc(wd[0].source)}.`);
+    return bits.join(" ");
+  }
+
+  // "What to expect" — honestly answered. Direction of travel, what is due, what would move it.
+  // Deliberately no projected numbers: this site has never printed a figure nobody published.
+  function alfWatch() {
+    const bits = [`I don't forecast, so I won't put a number on next month. What I can do is tell you which way things are travelling and what is due.`];
+    const moved = [];
+    for (const label of ["Inflation", "BoG policy rate", "91-day T-bill", "US dollar", "Gold price"]) {
+      const it = alfRead(label);
+      const d = it && alfDirection(it);
+      if (!d || d.word === "unchanged") continue;
+      moved.push(`${esc(it.label.toLowerCase())} is ${d.word} than at ${esc(d.from.date || d.from.label || "the previous reading")} (${fmt(d.from.value, it.dec)}${esc(it.unit || "")} → ${fmt(it.value, it.dec)}${esc(it.unit || "")})`);
+    }
+    if (moved.length) bits.push(`Since the last readings on file: ${moved.join("; ")}.`);
+    const due = allItems.filter(i => staleDays(i)).slice(0, 4);
+    if (due.length) bits.push(`Due an update, by the age of what is published: ${due.map(i => esc(i.label.toLowerCase())).join(", ")}. When those land the page picks them up on its own.`);
+    bits.push(`The debt counter will keep climbing whatever happens — it counts forward from the last two official totals, so it moves at the same pace until a new figure is published.`);
+    bits.push(`If you want my honest advice on what matters: watch inflation against the policy rate, and watch the cedi. Those two set nearly everything else on this page.`);
+    return bits.join(" ");
+  }
+
   function alfAnswer(raw) {
     const local = alfLocalIntents(raw);
     let q = alfNorm(`${raw} ${local.tags.join(" ")}`);
@@ -3124,6 +3325,38 @@
 
     if (local.help || /(help|what can you|how do you work|who are you)/.test(q))
       return T("help", { count: allItems.length });
+
+    /* ---- the ordinary things people say to a screen, answered like a person would ---- */
+    if (/\b(who (made|built|created|wrote) you|who is your (maker|owner)|where do you (come from|get your))\b/.test(q))
+      return `I'm Alfredo, the assistant built into this page. I read the same figures you can see on it — the Bank of Ghana rate, the Ministry of Finance numbers, the news feeds — and nothing else. Every figure I give you has its source on the card it comes from.`;
+    if (/\b(are you (a |an )?(robot|human|person|real|ai|bot|computer|machine))\b/.test(q))
+      return `Not a person, no — I'm a small piece of the page itself. It does mean I'm never guessing: if a number isn't published on this dashboard, I'd rather tell you I don't have it.`;
+    if (/\b(sorry|my bad|my fault|apolog)/.test(q) && q.split(" ").length <= 6)
+      return `No need to apologise at all. Ask me anything you like — I don't mind repeating myself.`;
+    if (/\b(nice|cool|great|lovely|beautiful|brilliant|impressive|amazing|well done|good work|i like (this|it|you)|i love (this|it))\b/.test(q) && q.split(" ").length <= 7)
+      return `That's kind of you, thank you. Is there another figure you'd like me to pull up?`;
+    if (/\b(ok|okay|alright|all right|fine|got it|understood|i see|noted|sure|yes|yeah)\b/.test(q) && q.split(" ").length <= 2)
+      return `Good. I'm here whenever you need the next one.`;
+    if (/\b(what (is )?your name|your name)\b/.test(q))
+      return `Alfredo. Call my name any time and I'll answer.`;
+
+    /* ---- the news, the markets, a briefing, and what to watch ---- */
+    if (/\b(brief|briefing|summary|summarise|summarize|overview|catch me up|what should i know|tell me everything|how are things|state of (the )?(economy|things)|the big picture)\b/.test(q))
+      return alfBriefing();
+
+    if (/\b(what to expect|expect|outlook|forecast|predict|prediction|what next|what happens next|what should i watch|going forward|future|coming (weeks|months)|projection)\b/.test(q))
+      return alfWatch();
+
+    if (/\b(africa|african|continent)\b/.test(q) && /\b(news|headline|story|stories|happening|report)\b/.test(q))
+      return alfNewsAnswer("africa", q);
+    if (/\b(world|global|international|abroad|overseas)\b/.test(q) && /\b(news|headline|story|stories|happening|report)\b/.test(q))
+      return alfNewsAnswer("world", q);
+    if (/\b(news|headline|headlines|top story|what.s happening|what happened|any stories)\b/.test(q))
+      return alfNewsAnswer("ghana", q);
+
+    if (/\b(gse|stock exchange|listed compan|share price|equities)\b/.test(q)
+      || (/\b(market|markets|trading|movers|moving)\b/.test(q) && !/\b(mobile money|momo)\b/.test(q)))
+      return alfMarketAnswer(q);
 
     // the live counters
     if (/(debt per person|each person|per capita|how much do i owe|每)/.test(q) || (/per person/.test(q) && /debt/.test(q)))
@@ -3980,7 +4213,7 @@
         drawn.news = false; drawn.world = false;
         if (!VIEWS.news.el.hidden) renderNews();
         if (!VIEWS.world.el.hidden) renderWorld();      // the world headlines ride in this file
-        if (!VIEWS.africa.el.hidden) renderAfrWire();
+        if (!VIEWS.afrnews.el.hidden) renderAfrNews();
         if (!board.hidden) renderBoardDeck();
       },
       "papers-data.js": () => { drawn.papers = false; if (!VIEWS.papers.el.hidden) renderPapers(); if (!board.hidden) renderBoardDeck(); },
@@ -3989,7 +4222,7 @@
       "world-data.js": () => {
         drawn.world = false;
         if (!VIEWS.world.el.hidden) renderWorld();
-        if (!VIEWS.africa.el.hidden) renderAfrWire();
+        if (!VIEWS.afrnews.el.hidden) renderAfrNews();
         if (!board.hidden) renderBoardDeck();
       },
       "markets-data.js": () => {

@@ -172,8 +172,8 @@ window.GDC_DATA = {
     {
       "board": true,
       "label": "Unemployment rate",
-      "value": 13.0,
-      "dec": 1,
+      "value": 13,
+      "dec": 0,
       "unit": "%",
       "note": "Average of Q1–Q3 2025 · Ghana Statistical Service",
       "status": [
@@ -320,11 +320,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "91-day T-bill",
-          "value": 4.8,
-          "dec": 2,
+          "value": 4.6405,
+          "dec": 4,
           "unit": "%",
           "date": "7 Sep 2026",
-          "note": "▼ 14 basis points · 182-day at 6.67%",
+          "note": "182-day at 6.67%",
           "series": [
             {
               "date": "4 Sep 2026",

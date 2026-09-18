@@ -48,7 +48,8 @@
       <nav class="view-tabs" aria-label="Site sections">
         <a href="#dashboard" data-view-link="dashboard" aria-current="page">Dashboard</a>
         <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
-        <a href="#africa" data-view-link="africa">Africa</a>
+        <a href="#afrnews" data-view-link="afrnews">African news</a>
+        <a href="#africa" data-view-link="africa">African inflation data</a>
         <a href="#markets" data-view-link="markets">Global markets</a>
         <a href="#world" data-view-link="world">Global news</a>
         <a href="#papers" data-view-link="papers">Today's papers</a>
@@ -401,20 +402,52 @@
     </section>
 
 
-    <!-- Africa inflation -->
-    <section class="portal" id="africa-view" aria-labelledby="h-africa" hidden>
+    <!-- African news -->
+    <section class="portal" id="afrnews-view" aria-labelledby="h-afrnews" hidden>
       <div class="portal-head">
         <div>
           <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-africa">Ghana's inflation, against Africa</h1>
-          <p class="news-intro" id="africa-intro"></p>
+          <h1 id="h-afrnews">African news</h1>
+          <p class="news-intro">What newsrooms across the continent are reporting — AllAfrica, Africanews, the BBC's Africa service, Deutsche Welle and Al Jazeera, read from their own feeds. Headlines and links only; every story opens on the publisher's own page.</p>
         </div>
-        <span class="live"><i></i><span id="africa-status">Loading…</span></span>
+        <span class="live"><i></i><span id="afrnews-status">Waiting for the first run</span></span>
       </div>
+
       <div class="afr-wire" id="afr-wire" hidden aria-live="off">
         <span class="afr-wire-tag">Africa now</span>
         <div class="afr-wire-stage" id="afr-wire-stage"></div>
         <div class="afr-wire-dots" id="afr-wire-dots" aria-hidden="true"></div>
+      </div>
+
+      <div class="world-lead" id="afrnews-lead"></div>
+
+      <div class="block">
+        <div class="block-head">
+          <h2>Across the continent</h2>
+          <p>Newest first, from the last day and a half.</p>
+        </div>
+        <div class="news-search">
+          <label for="afrnews-find" class="sr-only">Search headlines</label>
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
+          <input id="afrnews-find" type="search" placeholder="Search: cocoa, election, debt…" autocomplete="off">
+        </div>
+        <div class="src-chips" id="afrnews-sources" hidden></div>
+        <div class="news-grid" id="afrnews-list"></div>
+      </div>
+
+      <p class="news-empty" id="afrnews-empty" hidden>No headlines yet. Run <b>Update business news</b> in the Actions tab to fetch the first set.</p>
+      <p class="note" id="afrnews-note"></p>
+    </section>
+
+    <!-- African inflation data -->
+    <section class="portal" id="africa-view" aria-labelledby="h-africa" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-africa">African inflation data</h1>
+          <p class="news-intro" id="africa-intro"></p>
+        </div>
+        <span class="live"><i></i><span id="africa-status">Loading…</span></span>
       </div>
       <div class="orbit-wrap">
         <div class="orbit" id="orbit" role="img" aria-labelledby="africa-table-h"></div>
