@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T09:54:10.375Z",
+  "updated": "2026-09-18T13:57:51.845Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,50 +25,226 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Today’s front pages: Friday, September 18, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-friday-september-18-2026/",
+      "title": "German Ambassador describes Black Sherif’s visit to his residence as ‘dream come true’",
+      "link": "https://www.myjoyonline.com/german-ambassador-describes-black-sherifs-visit-to-his-residence-as-dream-come-true/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T08:13:17.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "published": "2026-09-18T13:54:57.000Z",
+      "summary": "Ghanaian musician Black Sherif has paid a visit to the German Ambassador to Ghana, Frederik Landshöft, and his family at the German Residence in Accra.",
       "categories": [
-        "In Focus",
+        "Music",
         "National",
-        "Frontpages",
-        "Newspaper"
+        "Black Sherif",
+        "German Ambassador"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2471.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-1.50.17-PM-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Prof Kwaku Asare questions legal basis of case against senior nursing officer linked to ‘Ghana Jollof’",
-      "link": "https://www.myjoyonline.com/prof-kwaku-asare-questions-legal-basis-of-case-against-senior-nursing-officer-linked-to-ghana-jollof/",
+      "title": "Government begins evacuation of decades-old waste heap at Jamestown",
+      "link": "https://www.myjoyonline.com/government-begins-evacuation-of-decades-old-waste-heap-at-jamestown/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T08:10:37.000Z",
-      "summary": "Legal luminary Prof Kwaku Asare has raised a series of legal questions over the prosecution’s case against senior nursing officer Salomey Awiti Baffoe, who has been remanded for two weeks…",
+      "published": "2026-09-18T13:44:53.000Z",
+      "summary": "The government has begun a major evacuation exercise to clear the decades-old waste heap at the Jamestown landfill, as part of efforts to improve sanitation around the Korle Lagoon area.",
+      "categories": [
+        "HP News 7",
+        "National",
+        "News",
+        "Government",
+        "Jamestown",
+        "waste"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-101319.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s UN reparations resolution proof Nkrumah’s ideas still alive – Sir Sam Jonah",
+      "link": "https://www.myjoyonline.com/ghanas-un-reparations-resolution-proof-nkrumahs-ideas-still-alive-sir-sam-jonah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T13:44:41.000Z",
+      "summary": "The Chancellor of the University of Cape Coast (UCC), Sir Samuel Esson Jonah, has linked Kwame Nkrumah’s Pan-Africanist vision to Ghana’s role in securing a historic United Nations…",
       "categories": [
         "National",
         "News",
-        "Top Story",
-        "Ghana Jollof",
-        "Prof Kwaku Asare",
-        "Senior nursing officer"
+        "Nkrumah",
+        "Sir Sam Jonah",
+        "UN reparations"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-82.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/sam-Jonah.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Financial inclusion must go hand in hand with investor protection – BoG Governor",
-      "link": "https://www.myjoyonline.com/financial-inclusion-must-go-hand-in-hand-with-investor-protection-bog-governor/",
+      "title": "Grace Temple donates medical equipment and supplies to Korle Bu Children’s Hospital",
+      "link": "https://www.myjoyonline.com/grace-temple-donates-medical-equipment-and-supplies-to-korle-bu-childrens-hospital/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T08:06:19.000Z",
-      "summary": "Bank of Ghana Governor, Dr Johnson Asiama, has called for stronger investor protection alongside efforts to deepen financial inclusion in Ghana.",
+      "published": "2026-09-18T13:42:36.000Z",
+      "summary": "Apostles Continuation Church International (Grace Temple, Kwabenya Branch) has donated medical equipment and essential supplies worth more than GH¢30,000 to the Child Health Department of…",
       "categories": [
-        "Banking and Finance",
-        "Bank of Ghana Governor",
-        "Financial Inclusion"
+        "Health",
+        "National",
+        "Grace Temple",
+        "Korle Bu",
+        "Korle Bu Children's Hospital"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-21-at-1.32.50-PM-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-92-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana, IFC deepen partnership on agriculture, infrastructure, and education",
+      "link": "https://www.myjoyonline.com/ghana-ifc-deepen-partnership-on-agriculture-infrastructure-and-education/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T13:39:14.000Z",
+      "summary": "President John Dramani Mahama has held high-level bilateral discussions with the Managing Director of the International Finance Corporation (IFC), Makhtar Diop, as Ghana seeks to deepen its…",
+      "categories": [
+        "National",
+        "Education",
+        "IFC",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2328-1024x580.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Stars: ‘We cannot win AFCON when we have not qualified’ – Carlos Queiroz",
+      "link": "https://www.myjoyonline.com/black-stars-we-cannot-win-afcon-when-we-have-not-qualified-carlos-queiroz/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T13:36:44.000Z",
+      "summary": "Ghana is hoping to return to the continental stage once again after missing out on the last edition, which was hosted in Morocco.",
+      "categories": [
+        "Football",
+        "National",
+        "AFCON",
+        "Black Stars",
+        "Carlos Quieroz"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/0dbe2024-1185-463b-9659-155a3e6fe76c.jpg-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama unveils plans for textile factory at reclaimed Agbogbloshie site",
+      "link": "https://www.myjoyonline.com/mahama-unveils-plans-for-textile-factory-at-reclaimed-agbogbloshie-site/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T13:35:44.000Z",
+      "summary": "President John Dramani Mahama has announced plans to convert the reclaimed Agbogbloshie landfill site into an industrial hub, including a textile factory aimed at creating jobs for young…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Agbogbloshie",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-4.50.48-AM-1024x613.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sir Sam Jonah defends Nkrumah’s Preventive Detention Act, says history must be judged in context",
+      "link": "https://www.myjoyonline.com/sir-sam-jonah-defends-nkrumahs-preventive-detention-act-says-history-must-be-judged-in-context/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T13:34:31.000Z",
+      "summary": "The Chancellor of the University of Cape Coast (UCC), Sir Samuel Esson Jonah, has called for a more contextual assessment of Kwame Nkrumah’s constitutional legacy, particularly the…",
+      "categories": [
+        "National",
+        "News",
+        "Kwame Nkrumah",
+        "Preventive Detention Act",
+        "Sir Sam Jonah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-37.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police arrest ex-convict for impersonating soldier, extorting residents at Ashaiman",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-ex-convict-for-impersonating-soldier-extorting-residents-at-ashaiman.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T12:39:13.000Z",
+      "summary": "The Tema Regional Police Command, through the Ashaiman Police, has arrested Bright Atsu Kudiabor, aged 32, for allegedly posing as a soldier and extorting money from persons within Ashaiman.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Atsu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Police intercept 2,213 slabs of suspected Indian hemp on River Volta",
+      "link": "https://www.graphic.com.gh/news/general-news/police-intercept-2-213-slabs-of-suspected-indian-hemp-on-river-volta.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T12:25:27.000Z",
+      "summary": "The Tema Regional Police Command, through the Marine Police Detachment at Ada, has intercepted an outboard-powered wooden canoe containing 29 sacks of dried leaf substances suspected to be…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/sack.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "New road traffic regulations 2026: The full list of offences, fines, and penalties",
+      "link": "https://www.graphic.com.gh/news/general-news/new-road-traffic-regulations-2026-the-full-list-of-offences-fines-and-penalties.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T11:22:05.000Z",
+      "summary": "Ghana’s new Road Traffic Regulations, 2026 (L.I. 2519), prescribe fines and, in some cases, imprisonment for a range of road traffic offences, including illegal racing, jumping red lights…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2021/aug/23/traffic_cameras.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "France honours Ibrahim Mahama",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-france-honours-ibrahim-mahama.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T09:38:38.000Z",
+      "summary": "The French Embassy in Ghana has conferred the insignia of “Chevalier de l’Ordre des Arts et des Lettres” (Knight of the Order of Arts and Letters), one of France’s top cultural honours on…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Ibrahim.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AI boosts customs revenue by $100m monthly",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ai-boosts-customs-revenue-by-100m-monthly.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T09:32:16.000Z",
+      "summary": "The use of Artificial Intelligence (AI) in customs valuation and classification has increased monthly customs revenue by about $100 million since implementation began in April 2026, the…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Anthony.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt begins state media turnaround",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-begins-state-media-turnaround.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T09:11:03.000Z",
+      "summary": "The Minister of State for Government Communications, Felix Kwakye Ofosu, has announced that the government has initiated plans to retool and modernise state-owned media houses as part of…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Ofosu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Unicom Chemist renews support for GCGL health screening",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-unicom-chemist-renews-support-for-gcgl-health-screening.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T09:05:56.000Z",
+      "summary": "Pharmaceutical company, Unicom Chemist Limited, has donated a variety of medicines and medical devices to Graphic Communications Group Ltd's (GCGL) free health screening exercise in…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Amoatey.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UESD, MALEKA Farms launch scholarship for aquaculture students",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-uesd-maleka-farms-launch-scholarship-for-aquaculture-students.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T09:01:33.000Z",
+      "summary": "University of Environment and Sustainable Development (UESD) at Somanya and MALEKA Farms, a fish farm at Kadjanya near Akuse, have launched the MALEKA Farms Excellence Scholarship for…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Sampson.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "KoKMA tackles open urination with new Tudu facility",
@@ -105,83 +281,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ablakwa rewards six North Tongu WASSCE best performers with MacBooks, scholarships",
-      "link": "https://www.myjoyonline.com/ablakwa-rewards-six-north-tongu-wassce-best-performers-with-macbooks-scholarships/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T07:11:00.000Z",
-      "summary": "Minister for Foreign Affairs and Member of Parliament for North Tongu, Samuel Okudzeto Ablakwa, has rewarded the six best-performing WASSCE candidates from the constituency with MacBooks…",
-      "categories": [
-        "National",
-        "Ablakwa",
-        "Macbooks",
-        "North Tongu",
-        "Scholarships",
-        "WASSCE"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-22-1024x640.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry touts gains in LEAP, school feeding and disability support",
-      "link": "https://www.myjoyonline.com/gender-ministry-touts-gains-in-leap-school-feeding-and-disability-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T06:32:00.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection says its interventions have expanded support for millions of vulnerable Ghanaians, with significant gains recorded in school feeding…",
-      "categories": [
-        "National"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-21-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "72 vessels, 17,336 fishing hours: The monitoring gap at Ghana’s first Marine Protected Area",
-      "link": "https://www.myjoyonline.com/72-vessels-17336-fishing-hours-the-monitoring-gap-at-ghanas-first-marine-protected-area/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T06:12:00.000Z",
-      "summary": "Five months after Ghana declared its first protected ocean zone, there are no marked boundaries, operational patrols or government funding – and fishermen say they do not know where the…",
-      "categories": [
-        "Features",
-        "News",
-        "Earth Journalism Network",
-        "fishing hours",
-        "Global fishing watch",
-        "Marine Protected Area",
-        "Monitoring gaps",
-        "Vessels"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-16.25.09.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ansa-Asare questions rush to lower presidential age to 30",
-      "link": "https://www.myjoyonline.com/ansa-asare-questions-rush-to-lower-presidential-age-to-30/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T05:58:00.000Z",
-      "summary": "Former Director of the Ghana School of Law, Kwaku Ansa-Asare, has questioned the push to reduce the minimum age for presidential candidates from 40 to 30, arguing that there is no pressing…",
-      "categories": [
-        "National",
-        "Ansa-Asare",
-        "Government"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/05/Ansa-Asare-e1747852930952.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority challenges claim all 431 government-sponsored World Cup travellers have returned",
-      "link": "https://www.myjoyonline.com/minority-challenges-claim-all-431-government-sponsored-world-cup-travellers-have-returned/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T05:52:00.000Z",
-      "summary": "The Minority in Parliament has challenged the government’s claim that all 431 people sponsored to attend the 2026 FIFA World Cup in the United States have returned to Ghana.",
-      "categories": [
-        "National",
-        "Ekow Assafuah",
-        "Minority",
-        "World Cup"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/600345789_25645804645012886_1947691233972704687_n-e1776606924431-1024x519.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Benfica earn win in Milan as Sunderland celebrate historic night",
@@ -246,18 +345,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Provide full account of GH¢58million World Cup expenditure - Minority demands",
-      "link": "https://www.graphic.com.gh/news/politics/provide-full-account-of-ghc58m-world-cup-expenditure-minority-demands.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T19:08:24.000Z",
-      "summary": "The Minority Caucus in Parliament has demanded a detailed, line-by-line account of how the GH¢58 million allocated by the government for Ghana’s participation in the 2026 World Cup was…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/adams.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Kenyans dominate 2026 Millennium Marathon",
       "link": "https://www.graphic.com.gh/sports/sports-news/kenyans-dominate-2026-millennium-marathon.html",
       "source": "Graphic Sports",
@@ -282,66 +369,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "NPP asks gov't to establish Consultative Assembly on constitution review before referendum",
-      "link": "https://www.graphic.com.gh/news/politics/npp-calls-on-govt-to-establish-consultative-assembly-on-constitution-review-before-referendum.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T14:33:19.000Z",
-      "summary": "The New Patriotic Party (NPP) has called on the government to establish a deliberative Assembly to contribute to the recommendations of the Prof. H. Kwasi Prempeh Constitution Review…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/kon.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bawumia calls on Asantehemaa Nana Yaa Akyaa II",
-      "link": "https://www.graphic.com.gh/news/politics/bawumia-calls-on-asantehemaa-nana-yaa-akyaa-ii.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T13:33:37.000Z",
-      "summary": "The flagbearer of the oposition New Patriotic Party (NPP), Dr Mahamudu Bawumia, paid a courtesy call on the Asantehemaa, Nana Yaa Akyaa II, at the Manhyia Palace in Kumasi on Thursday…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/bawumia.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest seven suspected armed robbers operating in Zebilla, Garu and Binduri",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-seven-suspected-armed-robbers-operating-in-zebilla-garu-and-binduri.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T13:22:19.000Z",
-      "summary": "The Upper East Regional Police Command has arrested seven suspected armed robbers believed to be operating within Zebilla, Garu and Binduri in the Upper East Region.",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest seven suspected armed robbers in Upper East Region",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-seven-suspected-armed-robbers-in-upper-east-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T12:41:12.000Z",
-      "summary": "The Upper East Regional Police Command has arrested seven suspects for various armed robbery activities at Zebilla, Garu, and Binduri. The suspects are Issaka Iddrisu, 20; Ali Tamimu, 21…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/robbers.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest 36 suspects over lynching of officer at Gindabour",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-36-suspects-over-lynching-of-officer-at-gindabour.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T12:15:58.000Z",
-      "summary": "The Ghana Police Service has arrested 36 suspects in connection with the death of a police officer who was attacked and lynched by a mob at Gindabour in the Sawla District of the Savannah…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2017/JUNE/june30/lync.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "African greats inspired by the potential of Nairobi 2029",
       "link": "https://www.graphic.com.gh/sports/sports-news/african-greats-inspired-by-the-potential-of-nairobi-2029.html",
       "source": "Graphic Sports",
@@ -351,42 +378,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/17/Faith.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Govt urged to prioritise climate resilience policies",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-urged-to-prioritise-climate-resilience-policies.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T09:02:47.000Z",
-      "summary": "The government has been urged to make climate resilience and environmental protection central to national development planning, with metropolitan, municipal and district assemblies (MMDAs)…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/Gifty.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Students Loan Trust disburses GH¢600m this year — CEO",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-students-loan-trust-disburses-ghc600m-this-year-ceo.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-17T08:59:56.000Z",
-      "summary": "The Students Loan Trust Fund (SLTF) spent about GH¢ 600 million in the implementation of its portfolios this year, the Chief Executive Officer (CEO) of the SLTF, Dr Saadija Shiraz, has said.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/Machayi.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "London misses out to Nairobi in World Athletics bid",
-      "link": "https://www.graphic.com.gh/sports/sports-news/london-misses-out-to-nairobi-in-world-athletics-bid.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-15T12:47:15.000Z",
-      "summary": "London has missed out to Nairobi in the bid to host the 2029 World Athletics Championships. The decision, which means an African city will host the event for the first time, was confirmed…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/15/London.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
