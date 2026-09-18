@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T19:57:57.032Z",
+  "updated": "2026-09-18T22:09:52.172Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,83 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "CPP urges Ghanaians to revive Nkrumah’s vision of self-reliance and industrialisation",
+      "link": "https://www.myjoyonline.com/cpp-urges-ghanaians-to-revive-nkrumahs-vision-of-self-reliance-and-industrialisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T21:58:40.000Z",
+      "summary": "The General Secretary of the Convention People’s Party (CPP), Harold Stephen Ato Eshun, has called on Ghanaians to renew their commitment to Dr Kwame Nkrumah’s vision of economic…",
+      "categories": [
+        "National",
+        "CPP",
+        "industralisation",
+        "Kwame Nkrumah",
+        "self reliance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Harold.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bagbin re-inaugurates African Commission of Health and Human Rights Promoters with GH¢100,000 donation",
+      "link": "https://www.myjoyonline.com/bagbin-re-inaugurates-african-commission-of-health-and-human-rights-promoters-with-gh%c2%a2100000-donation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T21:40:57.000Z",
+      "summary": "Speaker of Parliament, Rt. Hon. Alban Kingsford Bagbin, has formally re-inaugurated the African Commission of Health and Human Rights Promoters and launched its Endowment Fund with a…",
+      "categories": [
+        "Health",
+        "National",
+        "Commission of health",
+        "Donation",
+        "Endowment Fund",
+        "Human rights promoters"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_9710-1024x768-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GNPC, Explorco pay condolence visit to Regent of Dagbon, reaffirm commitment to sustainable operations",
+      "link": "https://www.myjoyonline.com/gnpc-explorco-pay-condolence-visit-to-regent-of-dagbon-reaffirm-commitment-to-sustainable-operations/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T21:19:18.000Z",
+      "summary": "A high-level delegation from the Ghana National Petroleum Corporation (GNPC) and its upstream operating subsidiary, GNPC Explorco, has paid a condolence visit to the Regent of the Dagbon…",
+      "categories": [
+        "Regional",
+        "Explorco",
+        "GNPC",
+        "Regent of Dagbon",
+        "Sustainable operations"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/CPM0458-1024x731.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Western Regional YMCA turns plastic waste into school bags for pupils",
+      "link": "https://www.myjoyonline.com/western-regional-ymca-turns-plastic-waste-into-school-bags-for-pupils/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T20:28:12.000Z",
+      "summary": "Fifty pupils at Funko M/A School in the Western Region have become the first beneficiaries of the Western Regional YMCA’s Green Bags Outreach, an initiative that turns recovered plastic…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Western-Regional-YMCA-turns-plastic-waste-into-school-bags-for-pupils-1-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Do you have the capacity to investigate narcotic seizure? – Majority questions Minority’s recall of Parliament",
+      "link": "https://www.myjoyonline.com/do-you-have-the-capacity-to-investigate-narcotic-seizure-majority-questions-minoritys-recall-of-parliament/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T20:18:44.000Z",
+      "summary": "The Deputy Majority Whip, Richard Acheampong, has questioned the Minority’s capacity to independently investigate recent major narcotics seizures linked to Ghana, following its request for…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Minority",
+        "Narcotic seizure",
+        "Richard Acheampong"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Acheampong-and-Habib-1024x752.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Alidu Seidu joins OGC Nice on loan",
       "link": "https://www.myjoyonline.com/alidu-seidu-joins-ogc-nice-on-loan/",
@@ -69,50 +146,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "AUCB invests first Chancellor as stakeholders chart new direction for university",
-      "link": "https://www.myjoyonline.com/aucb-invests-first-chancellor-as-stakeholders-chart-new-direction-for-university/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T19:04:31.000Z",
-      "summary": "The African University of Communications and Business (AUCB) has formally invested Mr Frank Adu Jnr as its first Chancellor, marking a significant milestone in the institution’s development…",
-      "categories": [
-        "Education",
-        "National",
-        "AUCB",
-        "Chancellor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2645-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The 4,126-kilometre journey of three African wild dogs",
-      "link": "https://www.myjoyonline.com/the-4126-kilometre-journey-of-three-african-wild-dogs/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T19:03:32.000Z",
-      "summary": "Three African wild dog brothers have travelled 4,126 kilometres across Zambia after leaving their pack in search of new breeding opportunities, making it the longest recorded dispersal by…",
-      "categories": [
-        "News",
-        "wild dogs",
-        "Zambia"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/file-20260914-50-jv0qoj-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tano North MP responds to constituents’ concerns with 100 streetlights",
-      "link": "https://www.myjoyonline.com/tano-north-mp-responds-to-constituents-concerns-with-100-streetlights/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T19:02:37.000Z",
-      "summary": "The New Patriotic Party (NPP) Member of Parliament (MP) for Tano North, Dr Gideon Boako, has stepped up his constituency development interventions with the installation of 100 streetlights…",
-      "categories": [
-        "National",
-        "100 streetlights",
-        "Nkwanta",
-        "Tano North MP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2527.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Carlos Queiroz: AFCON qualification is absolute priority, but eyes on 2030 World Cup",
       "link": "https://ghanaiantimes.com.gh/carlos-queiroz-afcon-qualification-is-absolute-priority-but-eyes-on-2030-world-cup/",
       "source": "Ghanaian Times",
@@ -126,22 +159,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Narcotic seizure probe: Minority says inter-agency task force cannot replace parliamentary inquiry",
-      "link": "https://www.myjoyonline.com/narcotic-seizure-probe-minority-says-inter-agency-task-force-cannot-replace-parliamentary-inquiry/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T18:56:44.000Z",
-      "summary": "The Deputy Minority Whip, Habib Iddrisu, says that President John Mahama's newly constituted Executive inter-agency task force to investigate recent narcotic seizures cannot replace…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Habib Iddrisu",
-        "Minority",
-        "Narcotic seizure"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/vlcsnap-2026-06-09-18h16m38s253-e1781029206113.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Our intelligence agencies will not be reduced to chasing citizens for insulting me – Dr. Bawumia jabs gov’t",
       "link": "https://ghanaiantimes.com.gh/our-intelligence-agencies-will-not-be-reduced-to-chasing-citizens-for-insulting-me-dr-bawumia-jabs-govt/",
       "source": "Ghanaian Times",
@@ -153,22 +170,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "MUSIGA opens applications for SheRhythms Festival 2026",
-      "link": "https://www.myjoyonline.com/musiga-opens-applications-for-sherhythms-festival-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T18:56:01.000Z",
-      "summary": "The Musicians Union of Ghana (MUSIGA) has opened applications for the second edition of the SheRhythms Festival, with submissions closing on Thursday, 30 October 2026.",
-      "categories": [
-        "HP Entertainment 3",
-        "Music",
-        "2026 edition",
-        "MUSIGA",
-        "SheRhythms Festival"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_8826.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Carlos Queiroz names 24-man squad for AFCON Qualifiers and Morocco friendly",

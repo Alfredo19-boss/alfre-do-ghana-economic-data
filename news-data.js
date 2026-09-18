@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-18T19:56:42.259Z",
-  "worldAt": "2026-09-18T19:56:42.256Z",
+  "updated": "2026-09-18T22:09:38.129Z",
+  "worldAt": "2026-09-18T22:09:38.128Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,13 +20,13 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: failed (The operation was aborted due to timeout)",
-    "Graphic Business: failed (The operation was aborted due to timeout)",
+    "Graphic Online: 6/25 stories",
+    "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
@@ -34,7 +34,7 @@ window.GDC_NEWS = {
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 28 stories",
+    "World · BBC News: 25 stories",
     "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -1099,12 +1099,64 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Donald Trump says he is banning CNN and Politico from White House",
+      "title": "Trump says he is banning CNN and Politico from White House",
       "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-18T19:54:41.000Z",
-      "summary": "The US president has had a tense and fiery relationship with the US media since returning to office.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c10/live/9d352f80-b39a-11f1-bf60-ad6e22c4842e.jpg"
+      "published": "2026-09-18T21:45:19.000Z",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg"
+    },
+    {
+      "title": "New cat species found, first in more than 100 years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T21:06:15.000Z",
+      "summary": "A new species of living cat has been identified for the first time in more than a century."
+    },
+    {
+      "title": "Uproar in Niger state, 37 die in custody",
+      "link": "https://www.france24.com/en/uproar-in-niger-state-37-die-in-custody",
+      "source": "France 24",
+      "published": "2026-09-18T20:52:51.000Z",
+      "summary": "In tonights programme, investigation is ongoing into the death in custody of thirty-seven people, accused of illegal mining in Nigeria. Also,Tunisia is emerging as a major boat-building…",
+      "image": "https://s.france24.com/media/display/e2e3a4ec-b3a1-11f1-9c84-0730212ba17f/w:1024/p:16x9/capture-7532683446aada2e9e59607-09759263.jpg"
+    },
+    {
+      "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+      "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T21:06:14.000Z",
+      "summary": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin."
+    },
+    {
+      "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+      "link": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-18T20:35:03.000Z",
+      "summary": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea3/live/9f098810-b39f-11f1-ad35-e154e6209840.jpg"
+    },
+    {
+      "title": "UK court clears woman of voicing support for Hamas in university speech",
+      "link": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T20:55:57.000Z",
+      "summary": "Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist."
+    },
+    {
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-18T20:17:50.000Z",
+      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T20:38:00.000Z",
+      "summary": "Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus."
     },
     {
       "title": "UEFA, CONCACAF demand FIFA make $2.1 billion payout to member groups amid funding row",
@@ -1115,11 +1167,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b0165db4-b38a-11f1-aee7-6f779f079bc8/w:1024/p:16x9/000-C6C88F3.jpg"
     },
     {
-      "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
-      "link": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-18T19:22:00.000Z",
-      "summary": "After Houthi victories in Yemen, the group's importance in the US-Iran war has grown. Previously Lebanon's Hezbollah was considered most significant in Iran's \"axis of resistance.\" Now the…"
+      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+      "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T20:20:23.000Z",
+      "summary": "Former air officers, including an air force general, were arrested in a series of operations."
     },
     {
       "title": "Trump bans media outlets CNN, MSNOW, Politico from White House",
@@ -1129,19 +1181,55 @@ window.GDC_NEWS = {
       "summary": ""
     },
     {
+      "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+      "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T19:50:04.000Z",
+      "summary": "The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access."
+    },
+    {
+      "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
+      "link": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-18T19:22:00.000Z",
+      "summary": "After Houthi victories in Yemen, the group's importance in the US-Iran war has grown. Previously Lebanon's Hezbollah was considered most significant in Iran's \"axis of resistance.\" Now the…"
+    },
+    {
+      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+      "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T19:39:16.000Z",
+      "summary": "Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine."
+    },
+    {
+      "title": "Trump bans media outlets CNN, MSNOW and Politico from the White House",
+      "link": "https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house",
+      "source": "France 24",
+      "published": "2026-09-18T19:20:35.000Z",
+      "summary": "US President Donald Trump on Friday said he would ban media outlets CNN, MSNOW and Politico from the White House over what he described as unfavourable coverage in his latest test of the US…",
+      "image": "https://s.france24.com/media/display/d1e5ce1a-b395-11f1-972b-5b4fdf021577/w:1024/p:16x9/2026-08-21T205608Z-444001983-RC283NA7GZ0I-RTRMADP-3-USA-TRUMP.jpg"
+    },
+    {
+      "title": "Lebanese artist turns Israeli missile debris into art",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T19:31:32.000Z",
+      "summary": "In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art."
+    },
+    {
+      "title": "AI: Silicon Species or Trojan Horse? Riyadh Calling, Russia Votes & the Ed Sheeran debate",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260918-time-to-stop-suggesting-ai-is-conscious-riyadh-calling-saudi-s-hour-of-news-russian-elections",
+      "source": "France 24",
+      "published": "2026-09-18T19:20:00.000Z",
+      "summary": "This week, Saudi Arabia has turned to its allies for military support as Iran-backed Houthi rebels tighten their grip on Yemen’s Red Sea coast and the Bab el Mandeb shipping choke point…",
+      "image": "https://s.france24.com/media/display/db7520f4-b393-11f1-a724-ed3d9e22a40f/w:1024/p:16x9/ANTHROPIC.jpg"
+    },
+    {
       "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
       "link": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-18T19:14:41.000Z",
       "summary": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces."
-    },
-    {
-      "title": "Trump bans media outlets CNN, MSNOW and Politico from White House",
-      "link": "https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house",
-      "source": "France 24",
-      "published": "2026-09-18T19:20:35.000Z",
-      "summary": "President Donald Trump says he is banning CNN, MSNOW and Politico from the White House over what he describes as their unfavourable media coverage in the latest test of America's first…",
-      "image": "https://s.france24.com/media/display/d1e5ce1a-b395-11f1-972b-5b4fdf021577/w:1024/p:16x9/2026-08-21T205608Z-444001983-RC283NA7GZ0I-RTRMADP-3-USA-TRUMP.jpg"
     },
     {
       "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
@@ -1152,12 +1240,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x4380+0+0/resize/6570x4380!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F83%2F683f4f4a4f86b0e8c874da99f7b9%2Fgettyimages-2210032597.jpg"
     },
     {
-      "title": "Time to stop suggesting AI is conscious?, Riyadh Calling: Saudi’s Hour of News, Russian elections",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260918-time-to-stop-suggesting-ai-is-conscious-riyadh-calling-saudi-s-hour-of-news-russian-elections",
-      "source": "France 24",
-      "published": "2026-09-18T19:20:00.000Z",
-      "summary": "This week, Saudi Arabia has turned to its allies for military support as Iran-backed Houthi rebels tighten their grip on Yemen’s Red Sea coast and the Bab el Mandeb shipping choke point…",
-      "image": "https://s.france24.com/media/display/db7520f4-b393-11f1-a724-ed3d9e22a40f/w:1024/p:16x9/ANTHROPIC.jpg"
+      "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
+      "link": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T19:12:58.000Z",
+      "summary": "Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken."
     },
     {
       "title": "Syrian regime planned American journalist's kidnapping for weeks",
@@ -1168,13 +1255,6 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F76%2Fb083c2734a4e949de559e060fa05%2F391805bf-389d-436d-b4d0-c5a772fd1afe.jpg"
     },
     {
-      "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-18T19:12:58.000Z",
-      "summary": "Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken."
-    },
-    {
       "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
       "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1183,11 +1263,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c2/live/d8cd31d0-b383-11f1-a430-4d16ee157c41.png"
     },
     {
-      "title": "Pentagon resumes paused testosterone policy amid medical experts’ concerns",
+      "title": "Pentagon resumes mandatory testosterone testing for US troops over 30",
       "link": "https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-18T18:54:12.000Z",
-      "summary": "New policy mandates testosterone testing for US service members over 30, citing readiness while experts warn of risks."
+      "summary": "Experts have called policy unnecessary and said testosterone injections could increase risks of infertility."
     },
     {
       "title": "Nigeria: Armed security deployed in Minna after deaths of miners",
@@ -1261,12 +1341,12 @@ window.GDC_NEWS = {
       "summary": "At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave."
     },
     {
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-18T17:31:30.000Z",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg"
+      "published": "2026-09-18T17:57:30.000Z",
+      "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg"
     },
     {
       "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
@@ -1274,6 +1354,21 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-09-18T18:15:32.000Z",
       "summary": "Virginia leads the way for in-person voting, reflecting a nationwide trend towards casting ballots before Election Day."
+    },
+    {
+      "title": "North Korean anthem played for South Korea at Asian Games",
+      "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-18T17:18:09.000Z",
+      "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c124/live/30cd1f40-b379-11f1-b1d1-571ed4d7ff2c.png"
+    },
+    {
+      "title": "Sweden’s left-wing opposition leader begins efforts to form government",
+      "link": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T17:55:38.000Z",
+      "summary": "Magdalena Andersson will likely face several challenges as she tries to get Sweden's other left-wing parties to unite."
     },
     {
       "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
@@ -1284,21 +1379,6 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "title": "Sweden’s left-wing opposition leader begins efforts to form government",
-      "link": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-18T17:55:38.000Z",
-      "summary": "Magdalena Andersson will likely face several challenges as she tries to get Sweden's other left-wing parties to unite."
-    },
-    {
-      "title": "War in Iran 'jeopardises the Trump presidency', ex-Obama National Security Council member says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260918-war-in-iran-jeopardises-the-trump-presidency-ex-obama-national-security-council-member-says",
-      "source": "France 24",
-      "published": "2026-09-18T17:01:29.000Z",
-      "summary": "In an interview with FRANCE 24, former Obama administration National Security Council member Charles Kupchan said the war in Iran \"in many respects jeopardises the Trump presidency\"…",
-      "image": "https://s.france24.com/media/display/1f13023c-b375-11f1-9407-9ff5c3f464d4/w:1024/p:16x9/CHARLES-KUPCHAN.jpg"
-    },
-    {
       "title": "Iranians rally in biggest show of defiance against US since war began",
       "link": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1306,96 +1386,22 @@ window.GDC_NEWS = {
       "summary": "Volunteers rallied through downtown Tehran to join campaign highlighting 'self-sacrifice' for Iran."
     },
     {
-      "title": "REPLAY: Zidane names first squad as France manager",
-      "link": "https://www.france24.com/en/video/20260918-replay-zidane-names-first-squad-as-france-manager",
-      "source": "France 24",
-      "published": "2026-09-18T16:47:43.000Z",
-      "summary": "Zinedine Zidane named his first squad since taking over from Didier Deschamps as head coach of the French man's football team Friday. His selection included five new players and but…",
-      "image": "https://s.france24.com/media/display/788b5674-b380-11f1-8d08-47f1c44d1006/w:1024/p:16x9/EN-20260918-180102-183323-CS.jpg"
-    },
-    {
-      "title": "UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-18T16:59:38.000Z",
-      "summary": "Confederation chiefs call on Gianni Infantino to make $2.1bn payout to all FIFA's 211 member associations."
-    },
-    {
-      "title": "Madagascar tourist arrivals grow despite instability",
-      "link": "http://www.africanews.com/2026/09/18/madagascar-tourist-arrivals-grow-despite-instability/",
-      "source": "Africanews",
-      "published": "2026-09-18T16:38:42.000Z",
-      "summary": "The Indian Ocean island nation recorded nearly 150,000 arrivals in the first half of 2026, a ministry of tourism official said"
-    },
-    {
-      "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-18T16:38:10.000Z",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’"
-    },
-    {
-      "title": "Teleperformance Kenya faces allegations over workers’ rights",
-      "link": "http://www.africanews.com/2026/09/18/teleperformance-kenya-faces-allegations-over-workers-rights/",
-      "source": "Africanews",
-      "published": "2026-09-18T16:33:44.000Z",
-      "summary": "The company has three months to engage in mediation. If no agreement is reached, the organisations say they could take the case to a French court."
-    },
-    {
-      "title": "A Sydney Sweeney ad goes viral: Are we all just being played?",
-      "link": "https://www.france24.com/en/tv-shows/the-51/20260918-sydney-sweeney-ad-goes-viral-are-we-all-just-being-played",
-      "source": "France 24",
-      "published": "2026-09-18T16:27:44.000Z",
-      "summary": "Another Sydney Sweeney ad goes viral – this time promoting a sports betting application almost naked. The campaign sparked fury among female athletes who said it undermines decades of…",
-      "image": "https://s.france24.com/media/display/f9cc8146-b37a-11f1-b6e7-5b4fdf021577/w:1024/p:16x9/ENMG-THE-51-PERCENT-260918-2027-Ep-3.jpg"
-    },
-    {
-      "title": "Iran: Tehran stages largest demonstration since start of conflict",
-      "link": "http://www.africanews.com/2026/09/18/iran-tehran-stages-largest-demonstration-since-start-of-conflict/",
-      "source": "Africanews",
-      "published": "2026-09-18T16:31:07.000Z",
-      "summary": "Hundreds of thousands of Iranians took to the streets on Friday, in a government-organized demonstration following months of conflict. It marks the largest such protest since the United…"
-    },
-    {
-      "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
-      "link": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-18T16:12:28.000Z",
-      "summary": "United Nations says 22 million people need humanitarian aid as conflict intensifies."
-    },
-    {
-      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-      "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-      "source": "NPR World",
-      "published": "2026-09-18T16:07:51.000Z",
-      "summary": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3304x1858+0+0/resize/3304x1858!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2Fdb%2F34271613449da2a792f1451601bb%2Fsdg-goals.jpg"
-    },
-    {
-      "title": "Sweden's centre-left leader Andersson tasked with forming government after election",
-      "link": "https://www.france24.com/en/europe/20260918-sweden-s-centre-left-leader-andersson-tasked-with-forming-government-after-election",
-      "source": "France 24",
-      "published": "2026-09-18T16:01:11.000Z",
-      "summary": "Sweden's parliament speaker on Friday tasked opposition leader Magdalena Andersson with forming a government after an election gave the left-wing bloc a narrow majority, setting the stage…",
-      "image": "https://s.france24.com/media/display/40e68e1e-b36c-11f1-b0a0-af2d0a26bd49/w:1024/p:16x9/2026-09-18T081854Z-1103190166-RC2JLNAQH6AJ-RTRMADP-3-SWEDEN-POLITICS.jpg"
-    },
-    {
-      "title": "Iran war fuels clean energy push but emissions remain high",
-      "link": "http://www.africanews.com/2026/09/18/iran-war-fuels-clean-energy-push-but-emissions-remain-high/",
-      "source": "Africanews",
-      "published": "2026-09-18T15:50:51.000Z",
-      "summary": "Stanford climate scientist Rob Jackson says prolonged high oil prices could encourage longer-term investment in alternatives."
-    },
-    {
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-18T15:47:28.000Z",
-      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bd3/live/0aae5d10-b379-11f1-9023-9990160baacc.jpg"
+      "published": "2026-09-18T17:10:58.000Z",
+      "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Nigeria: Nigeria Wins $2.35bn Arbitration Battle With Sunrise Power",
+      "link": "https://allafrica.com/stories/202609180708.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-18T21:32:57.000Z",
+      "summary": "[Daily Trust] The International Chamber of Commerce (ICC) tribunal in Paris, France, has ruled in favour of Nigeria in the $2.35 billion claim brought by Sunrise Power over the Mambilla…"
+    },
     {
       "title": "Nigeria: Armed security deployed in Minna after deaths of miners",
       "link": "http://www.africanews.com/2026/09/18/nigeria-armed-security-deployed-in-minna-after-deaths-of-miners/",
@@ -1404,11 +1410,25 @@ window.GDC_NEWS = {
       "summary": "Armed security personnel have been deployed in the Nigerian city of Minna, where demonstrators have been taking to the streets, a day after dozens suspected illegal gold miners died while…"
     },
     {
+      "title": "Namibia: Nandi-Ndaitwah to Focus On Investment and Energy At UN Assembly",
+      "link": "https://allafrica.com/stories/202609180699.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-18T21:19:04.000Z",
+      "summary": "[Namibian] President Netumbo Nandi-Ndaitwah is expected to focus on peace and security, investment, energy, critical minerals and climate resilience at the 81st session of the United…"
+    },
+    {
       "title": "Ebola: DR Congo outbreak not slowing, MSF warns",
       "link": "https://www.dw.com/en/ebola-dr-congo-outbreak-not-slowing-msf-warns/a-79333719?maca=en-rss-en-africa-8291-rdf",
       "source": "Deutsche Welle",
       "published": "2026-09-18T18:36:00.000Z",
       "summary": "Doctors Without Borders has warned against premature optimism amid the DRC's largest-ever Ebola outbreak. \"The outbreak is not shrinking, it is moving,\" an MSF official said, entering new…"
+    },
+    {
+      "title": "Uganda: World Bank Warns Approval Delays Threaten Shs18tn Projects",
+      "link": "https://allafrica.com/stories/202609180683.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-18T20:17:27.000Z",
+      "summary": "[Nile Post] The World Bank has warned that delays in Uganda's government approval processes are increasingly threatening the timely implementation of projects under its $4.6 billion…"
     },
     {
       "title": "DRC: OCHA helps with response endeavours amid ebola outbreak",
@@ -1658,27 +1678,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-18T11:55:12.000Z",
       "summary": "[New Republic] For Gizzie Kollie, career progress at ArcelorMittal Liberia (AML) is measured not only by the kilometers of roads he has helped build across the company's mining operations…"
-    },
-    {
-      "title": "Liberia: Jewel Lawyers Push for Bail",
-      "link": "https://allafrica.com/stories/202609180322.html",
-      "source": "AllAfrica",
-      "published": "2026-09-18T11:54:35.000Z",
-      "summary": "[New Republic] Lawyers representing former Vice President Jewel Howard Taylor have withdrawn their request for a preliminary examination in the ongoing drug-related case and are instead…"
-    },
-    {
-      "title": "Liberia: Lima Considers Modern Multi-Purpose Ferry Coastal Transport",
-      "link": "https://allafrica.com/stories/202609180319.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-18T11:51:06.000Z",
-      "summary": "[New Republic] Monrovia -- The Government of Liberia, through the Liberia Maritime Authority (LiMA), has announced that it is advancing plans to procure a modern, multi-purpose ferry to…"
-    },
-    {
-      "title": "Uganda: Police Spent Shs59.3 Million to Transcribe Audio, Videos in Besigye Treason Case",
-      "link": "https://allafrica.com/stories/202609180318.html",
-      "source": "AllAfrica",
-      "published": "2026-09-18T11:50:07.000Z",
-      "summary": "[Independent (Kampala)] Kampala -- The High Court in Kampala has heard that the Criminal Investigations Department of Police paid UGX 59,300,000 to Makerere University's Institute of…"
     }
   ]
 };
