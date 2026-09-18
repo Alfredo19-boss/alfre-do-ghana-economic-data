@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T13:57:51.845Z",
+  "updated": "2026-09-18T17:31:14.413Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,130 +25,228 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "German Ambassador describes Black Sherif’s visit to his residence as ‘dream come true’",
-      "link": "https://www.myjoyonline.com/german-ambassador-describes-black-sherifs-visit-to-his-residence-as-dream-come-true/",
+      "title": "Two arrested over alleged CSSPS fraud after collecting up to GH¢22,000 for school placement",
+      "link": "https://www.myjoyonline.com/two-arrested-over-alleged-cssps-fraud-after-collecting-up-to-gh22000-for-school-placement/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T13:54:57.000Z",
-      "summary": "Ghanaian musician Black Sherif has paid a visit to the German Ambassador to Ghana, Frederik Landshöft, and his family at the German Residence in Accra.",
+      "published": "2026-09-18T17:24:12.000Z",
+      "summary": "Two people have been arrested in Accra in connection with an alleged Computerised School Selection and Placement System (CSSPS) fraud following a tip-off from the Minister for Education…",
       "categories": [
-        "Music",
+        "Crime",
+        "Education",
         "National",
-        "Black Sherif",
-        "German Ambassador"
+        "CSSPS fraud",
+        "Minister for Education Haruna Iddrisu"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-1.50.17-PM-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/arrest.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government begins evacuation of decades-old waste heap at Jamestown",
-      "link": "https://www.myjoyonline.com/government-begins-evacuation-of-decades-old-waste-heap-at-jamestown/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T13:44:53.000Z",
-      "summary": "The government has begun a major evacuation exercise to clear the decades-old waste heap at the Jamestown landfill, as part of efforts to improve sanitation around the Korle Lagoon area.",
+      "title": "SHS admissions and bribery: Two suspects picked up by police at CSSPS centre",
+      "link": "https://www.graphic.com.gh/news/general-news/shs-admissions-and-bribery-two-suspects-picked-up-by-police-at-cssps-centre.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T17:12:59.000Z",
+      "summary": "Two persons have been picked up by the Police in Accra for allegedly engaging in bribery activities in relation to the placement of students into senior high schools under the Computerised…",
       "categories": [
-        "HP News 7",
-        "National",
-        "News",
-        "Government",
-        "Jamestown",
-        "waste"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-101319.png",
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "link": "https://www.myjoyonline.com/dozens-of-suspected-illegal-miners-die-in-nigerian-custody/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T17:04:50.000Z",
+      "summary": "Thirty-seven people accused of illegal mining in north-central Nigeria have died in custody, official say.",
+      "categories": [
+        "International",
+        "Mosque",
+        "Pakistan",
+        "ram"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2631-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana’s UN reparations resolution proof Nkrumah’s ideas still alive – Sir Sam Jonah",
-      "link": "https://www.myjoyonline.com/ghanas-un-reparations-resolution-proof-nkrumahs-ideas-still-alive-sir-sam-jonah/",
+      "title": "Doormaster supports COBAANA Medical Centre project to improve access to dialysis care in Bono Region",
+      "link": "https://www.myjoyonline.com/doormaster-supports-cobaana-medical-centre-project-to-improve-access-to-dialysis-care-in-bono-region/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T13:44:41.000Z",
-      "summary": "The Chancellor of the University of Cape Coast (UCC), Sir Samuel Esson Jonah, has linked Kwame Nkrumah’s Pan-Africanist vision to Ghana’s role in securing a historic United Nations…",
-      "categories": [
-        "National",
-        "News",
-        "Nkrumah",
-        "Sir Sam Jonah",
-        "UN reparations"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/sam-Jonah.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Grace Temple donates medical equipment and supplies to Korle Bu Children’s Hospital",
-      "link": "https://www.myjoyonline.com/grace-temple-donates-medical-equipment-and-supplies-to-korle-bu-childrens-hospital/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T13:42:36.000Z",
-      "summary": "Apostles Continuation Church International (Grace Temple, Kwabenya Branch) has donated medical equipment and essential supplies worth more than GH¢30,000 to the Child Health Department of…",
+      "published": "2026-09-18T17:03:30.000Z",
+      "summary": "A major healthcare initiative aimed at improving access to dialysis treatment in Ghana’s Bono, Bono East, and Ahafo regions has received support from Doormaster as construction of the…",
       "categories": [
         "Health",
         "National",
-        "Grace Temple",
-        "Korle Bu",
-        "Korle Bu Children's Hospital"
+        "Bono Region",
+        "COBAANA Medical Centre",
+        "Dialysis",
+        "Doormaster"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-92-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2621-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana, IFC deepen partnership on agriculture, infrastructure, and education",
-      "link": "https://www.myjoyonline.com/ghana-ifc-deepen-partnership-on-agriculture-infrastructure-and-education/",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "link": "https://www.myjoyonline.com/russian-hybrid-attacks-against-europe-intensifying-says-macron/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T13:39:14.000Z",
-      "summary": "President John Dramani Mahama has held high-level bilateral discussions with the Managing Director of the International Finance Corporation (IFC), Makhtar Diop, as Ghana seeks to deepen its…",
+      "published": "2026-09-18T17:02:56.000Z",
+      "summary": "French President Emmanuel Macron has warned that the threat of hybrid attacks by Russia against Europe and France has intensified.",
       "categories": [
-        "National",
-        "Education",
-        "IFC",
-        "Mahama"
+        "International",
+        "Europe",
+        "hybrid",
+        "Russia"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2328-1024x580.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2625-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Black Stars: ‘We cannot win AFCON when we have not qualified’ – Carlos Queiroz",
-      "link": "https://www.myjoyonline.com/black-stars-we-cannot-win-afcon-when-we-have-not-qualified-carlos-queiroz/",
+      "title": "‘She is not a flight risk; even worst criminals get bail’ – GRNMA on detention of nurse in Ghana Jollof case",
+      "link": "https://www.myjoyonline.com/she-is-not-a-flight-risk-even-worst-criminals-get-bail-grnma-on-detention-of-nurse-in-ghana-jollof-case/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T13:36:44.000Z",
-      "summary": "Ghana is hoping to return to the continental stage once again after missing out on the last edition, which was hosted in Morocco.",
+      "published": "2026-09-18T17:01:38.000Z",
+      "summary": "The Ghana Registered Nurses and Midwives Association (GRNMA) is calling for bail for senior nursing officer Salomey Awity Baffoe, arguing that there is no justification for keeping her in…",
       "categories": [
-        "Football",
+        "Health",
         "National",
-        "AFCON",
-        "Black Stars",
-        "Carlos Quieroz"
+        "Ghana Jollof",
+        "GRNMA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/0dbe2024-1185-463b-9659-155a3e6fe76c.jpg-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2624.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama unveils plans for textile factory at reclaimed Agbogbloshie site",
-      "link": "https://www.myjoyonline.com/mahama-unveils-plans-for-textile-factory-at-reclaimed-agbogbloshie-site/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T13:35:44.000Z",
-      "summary": "President John Dramani Mahama has announced plans to convert the reclaimed Agbogbloshie landfill site into an industrial hub, including a textile factory aimed at creating jobs for young…",
+      "title": "Police CID provides details on how nurse arrested in Techiman is linked to 'Ghana Jollof' Tiktok publications",
+      "link": "https://www.graphic.com.gh/news/general-news/police-cid-provide-details-on-how-nurse-arrested-in-techiman-is-linked-to-ghana-jollof-tiktok-publications.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T16:55:49.000Z",
+      "summary": "The Criminal Investigations Department (CID) of Ghana Police Service has provided some details on how it uncovered a network involved in the production, funding and circulation of videos…",
       "categories": [
-        "National",
-        "Top Story",
-        "Agbogbloshie",
-        "Mahama"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-4.50.48-AM-1024x613.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/cid_boss.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Sir Sam Jonah defends Nkrumah’s Preventive Detention Act, says history must be judged in context",
-      "link": "https://www.myjoyonline.com/sir-sam-jonah-defends-nkrumahs-preventive-detention-act-says-history-must-be-judged-in-context/",
+      "title": "Uber ordered to pay $40m to family of woman killed after driver left her on highway",
+      "link": "https://www.myjoyonline.com/uber-ordered-to-pay-40m-to-family-of-woman-killed-after-driver-left-her-on-highway/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T13:34:31.000Z",
-      "summary": "The Chancellor of the University of Cape Coast (UCC), Sir Samuel Esson Jonah, has called for a more contextual assessment of Kwame Nkrumah’s constitutional legacy, particularly the…",
+      "published": "2026-09-18T16:55:07.000Z",
+      "summary": "Uber has been ordered to pay $40m (£29m) to the family of a 23-year-old woman who was fatally struck on a California highway after the rideshare company's driver allegedly pulled over and…",
       "categories": [
-        "National",
+        "International",
         "News",
-        "Kwame Nkrumah",
-        "Preventive Detention Act",
-        "Sir Sam Jonah"
+        "Highway",
+        "Uber",
+        "Woman"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-37.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2626-1024x576.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Ghana Jollof’ sent money to others to circulate false news – Police",
+      "link": "https://www.myjoyonline.com/ghana-jollof-sent-money-to-others-to-circulate-false-news-police/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T16:41:33.000Z",
+      "summary": "The Ghana Police Service has disclosed that its investigations so far have established that TikToker, Barbara Asantewaa Kodua, popularly known as 'Ghana Jollof' paid Salomey Awitti Baffoe…",
+      "categories": [
+        "Crime",
+        "HP News 1",
+        "National",
+        "Ghana Jollof",
+        "Police",
+        "Senior Nurse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2623.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos: Mahama commissions evacuation of Agbogbloshie waste to Nsawam landfill",
+      "link": "https://www.myjoyonline.com/photos-mahama-commissions-evacuation-of-agbogbloshie-waste-to-nsawam-landfill/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T16:24:24.000Z",
+      "summary": "President John Dramani Mahama has commissioned the evacuation of accumulated waste from Agbogbloshie in Accra to the Adepa Engineered Landfill Site near Nsawam in the Eastern Region.",
+      "categories": [
+        "National",
+        "Photo Story",
+        "Agbogbloshie",
+        "Mahama",
+        "Nsawam landfill",
+        "Photos"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2597-1024x682.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KATH staff members swap stethoscopes for sports boots as 70th Anniversary fun games fever hits Paa Joe Stadium",
+      "link": "https://www.graphic.com.gh/sports/sports-news/kath-staff-members-swap-stethoscopes-for-sports-boots-as-70th-anniversary-fun-games-fever-hits-paa-joe-stadium.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-18T15:44:43.000Z",
+      "summary": "On Saturday, September 19, 2026, the stethoscopes are going down, the white coats are being hung and the sports boots are coming out at the Komfo Anokye Teaching Hospital (KATH). Staff…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/kath_tram.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Mohammed Kudus, Alexander Djiku return as Carlos Queiroz launches Black Stars rebuild with Côte d’Ivoire test",
+      "link": "https://www.graphic.com.gh/sports/sports-news/mohammed-kudus-alexander-djiku-return-as-carlos-queiroz-launches-black-stars-rebuild-with-cote-divoire-test.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-18T15:07:12.000Z",
+      "summary": "Mohammed Kudus and Alexander Djiku are back in the Black Stars as Carlos Queiroz begins Ghana’s post-World Cup rebuild with a demanding 2027 Africa Cup of Nations qualifying opener against…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/18/MohammedKudus.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Gov't Spokesperson on outcome of high-level meeting on narcotics trafficking case",
+      "link": "https://www.graphic.com.gh/news/general-news/govt-spokesperson-on-outcome-of-high-level-meeting-on-narcotics-trafficking-case.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T15:00:16.000Z",
+      "summary": "President John Dramani Mahama on Thursday chaired a meeting of security chiefs and received detailed briefing on investigations into the recent trafficking of drugs out of the ports of…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/ma2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Former CalBank MD and CEO Frank B. Adu Jnr invested as AUCB first Chancellor",
+      "link": "https://www.graphic.com.gh/news/general-news/former-calbank-md-and-ceo-frank-b-adu-jnr-invested-as-aucb-first-chancellor.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T14:40:56.000Z",
+      "summary": "Former Managing Director and Chief Executive Officer (CEO) of CalBank, Mr Frank B. Adu Jnr, has been invested as the first Chancellor of the African University of Communications and…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bawumia writes: 'Our intelligence agencies will not chase citizens for insulting the President under my leadership'",
+      "link": "https://www.graphic.com.gh/news/politics/bawumia-writes-our-intelligence-agencies-will-not-chase-citizens-for-insulting-the-president-under-my-leadership.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T14:12:02.000Z",
+      "summary": "The story of how a Techiman based nurse and mother of three (including a 4yr old) Salomey Bafoh Awiti was picked up in the middle of the night by national intelligence officers and has been…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/bawumia.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UCC confers honorary doctorate on Kwesi Pratt Jnr",
+      "link": "https://www.graphic.com.gh/news/general-news/ucc-confers-honorary-doctorate-on-kwesi-pratt-jnr.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T13:58:38.000Z",
+      "summary": "The University of Cape Coast (UCC) has conferred an honorary Doctor of Letters (D.Litt.), honoris causa, on veteran journalist, publisher and Pan-Africanist, Mr Kwesi Pratt Jnr., in…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/pratt1.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Police arrest ex-convict for impersonating soldier, extorting residents at Ashaiman",
@@ -172,78 +270,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/18/sack.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "New road traffic regulations 2026: The full list of offences, fines, and penalties",
-      "link": "https://www.graphic.com.gh/news/general-news/new-road-traffic-regulations-2026-the-full-list-of-offences-fines-and-penalties.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-18T11:22:05.000Z",
-      "summary": "Ghana’s new Road Traffic Regulations, 2026 (L.I. 2519), prescribe fines and, in some cases, imprisonment for a range of road traffic offences, including illegal racing, jumping red lights…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2021/aug/23/traffic_cameras.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "France honours Ibrahim Mahama",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-france-honours-ibrahim-mahama.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-18T09:38:38.000Z",
-      "summary": "The French Embassy in Ghana has conferred the insignia of “Chevalier de l’Ordre des Arts et des Lettres” (Knight of the Order of Arts and Letters), one of France’s top cultural honours on…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Ibrahim.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AI boosts customs revenue by $100m monthly",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ai-boosts-customs-revenue-by-100m-monthly.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-18T09:32:16.000Z",
-      "summary": "The use of Artificial Intelligence (AI) in customs valuation and classification has increased monthly customs revenue by about $100 million since implementation began in April 2026, the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Anthony.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt begins state media turnaround",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-begins-state-media-turnaround.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-18T09:11:03.000Z",
-      "summary": "The Minister of State for Government Communications, Felix Kwakye Ofosu, has announced that the government has initiated plans to retool and modernise state-owned media houses as part of…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Ofosu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Unicom Chemist renews support for GCGL health screening",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-unicom-chemist-renews-support-for-gcgl-health-screening.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-18T09:05:56.000Z",
-      "summary": "Pharmaceutical company, Unicom Chemist Limited, has donated a variety of medicines and medical devices to Graphic Communications Group Ltd's (GCGL) free health screening exercise in…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Amoatey.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UESD, MALEKA Farms launch scholarship for aquaculture students",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-uesd-maleka-farms-launch-scholarship-for-aquaculture-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-18T09:01:33.000Z",
-      "summary": "University of Environment and Sustainable Development (UESD) at Somanya and MALEKA Farms, a fish farm at Kadjanya near Akuse, have launched the MALEKA Farms Excellence Scholarship for…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/Sampson.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
