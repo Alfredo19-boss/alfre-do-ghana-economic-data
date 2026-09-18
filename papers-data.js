@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-17T22:50:59.123Z",
+  "updated": "2026-09-18T00:25:04.175Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,114 +25,132 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Fiji declares HIV a national emergency as cases surge",
-      "link": "https://www.myjoyonline.com/fiji-declares-hiv-a-national-emergency-as-cases-surge/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T22:05:00.000Z",
-      "summary": "Fiji has declared a national emergency as HIV cases surge, and is expanding access to testing, treatment and prevention services.",
+      "title": "Volta chiefs secure Chinese partnerships for investment",
+      "link": "https://ghanaiantimes.com.gh/volta-chiefs-secure-chinese-partnerships-for-investment/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:18:00.000Z",
+      "summary": "An eight-member delegation of the Volta Regional House of Chiefs (VRHC) has signed three Memoranda of Understanding (MoUs) with Chinese companies to attract investment, promote technology…",
       "categories": [
-        "International",
-        "Fiji",
-        "HIV",
-        "National Emergency"
+        "Hot!",
+        "News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-      "link": "https://www.myjoyonline.com/michelin-starred-seoul-restaurant-fined-for-using-ants-as-garnish/",
+      "title": "South Africa pushes back against new US visa curbs",
+      "link": "https://www.myjoyonline.com/south-africa-pushes-back-against-new-us-visa-curbs/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T21:55:00.000Z",
-      "summary": "A two Michelin-starred restaurant in Seoul has been fined for using ants as a dessert garnish.",
+      "published": "2026-09-18T00:05:00.000Z",
+      "summary": "South Africa on Wednesday criticised new U.S. visa restrictions, saying the ‌measures were driven by fringe groups that falsely claim to represent the country's white minority.",
       "categories": [
-        "International",
-        "ants",
-        "Seoul restaurant"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No politics behind fuel export reduction to Sahel – BOSTenergies",
-      "link": "https://www.myjoyonline.com/no-politics-behind-fuel-export-reduction-to-sahel-bostenergies/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T21:43:00.000Z",
-      "summary": "BOSTenergies Limited says the reduction in fuel export volumes to Burkina Faso and Mali has nothing to do with politics, security or diplomatic considerations.",
-      "categories": [
-        "Energy",
-        "HP News 4",
-        "National",
-        "BOSTenergies Limited"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BOST clarifies fuel export cut to Burkina Faso, Mali – Says no imminent shortage in Ghana",
-      "link": "https://www.myjoyonline.com/bost-clarifies-fuel-export-cut-to-burkina-faso-mali-says-no-imminent-shortage-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T21:24:00.000Z",
-      "summary": "BOST Energies Limited has clarified reports about a reduction in its fuel supply volumes to Burkina Faso and Mali, saying the development is not linked to an imminent fuel shortage in Ghana.",
-      "categories": [
-        "Energy",
-        "HP News 10",
-        "National",
-        "BOST Energies Limited",
-        "Burkina Faso",
-        "Mali"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New iPhones, new features: Is it time to upgrade?",
-      "link": "https://www.myjoyonline.com/new-iphones-new-features-is-it-time-to-upgrade/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T20:53:44.000Z",
-      "summary": "Apple just held its biggest hardware event of the year, unveiling the iPhone 18 Pro, the iPhone 18 Pro Max, and its first-ever folding phone, the iPhone Duo. Within 48 hours, timelines had…",
-      "categories": [
-        "Technology",
-        "iPhones",
-        "upgrade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Scaling Enterprise AI across Africa: From technology to real-world impact",
-      "link": "https://www.myjoyonline.com/scaling-enterprise-ai-across-africa-from-technology-to-real-world-impact/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T20:49:43.000Z",
-      "summary": "Artificial intelligence is moving quickly, but the real question for Africa is no longer simply \"How do we use AI?\" It is: how do we move AI from the drawing board into real businesses…",
-      "categories": [
-        "Technology",
         "Africa",
-        "Enterprise AI"
+        "South Africa",
+        "US Visa"
       ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2468-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fibre Broadband isn’t complicated: You’re just overthinking it",
-      "link": "https://www.myjoyonline.com/fibre-broadband-isnt-complicated-youre-just-overthinking-it/",
+      "title": "Grand Theft Auto 6 soundtrack reveal revives digital release debate",
+      "link": "https://www.myjoyonline.com/grand-theft-auto-6-soundtrack-reveal-revives-digital-release-debate/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T20:44:50.000Z",
-      "summary": "If you've ever heard the word \"fibre\" and pictured something technical, expensive, or meant only for offices and tech-savvy people, you're not alone. For many people, the word fibre can…",
+      "published": "2026-09-17T23:54:00.000Z",
+      "summary": "The reveal of a Grand Theft Auto 6 soundtrack album has reignited a debate over the decision not to release the game on disc.",
       "categories": [
-        "Technology",
-        "Complicated",
-        "Fire broadband"
+        "International",
+        "Music",
+        "digital music",
+        "Grand Theft Auto 6"
       ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2467-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Arrest all officials who handled cocaine-linked container – Nitiwul",
-      "link": "https://www.myjoyonline.com/arrest-all-officials-who-handled-cocaine-linked-container-nitiwul/",
+      "title": "Charles ‘sounded giddily elated’ after Diana died, Earl Spencer claims",
+      "link": "https://www.myjoyonline.com/charles-sounded-giddily-elated-after-diana-died-earl-spencer-claims/",
       "source": "MyJoyOnline",
-      "published": "2026-09-17T20:19:52.000Z",
-      "summary": "Former Defence Minister Dominic Nitiwul has called for the arrest of all officials involved in handling the container linked to the latest cocaine seizure.",
+      "published": "2026-09-17T23:45:00.000Z",
+      "summary": "Earl Spencer, brother of Diana, Princess of Wales, has claimed King Charles \"sounded giddily elated\" when he called him after her death in 1997.",
       "categories": [
-        "HP News 2",
-        "News",
-        "Cocaine seizure",
-        "Dominic Nitiwul",
-        "port"
+        "International",
+        "King Charles",
+        "Princess Diana"
       ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/08/Princess-Diana.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Samba with debut double as Man City thrash Norwich",
+      "link": "https://www.myjoyonline.com/samba-with-debut-double-as-man-city-thrash-norwich/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T23:34:00.000Z",
+      "summary": "Teenager Floyd Samba enjoyed a dream first-team debut by scoring twice to help Manchester City begin the defence of their Carabao Cup crown with a thrashing of Championship outfit Norwich…",
+      "categories": [
+        "Football",
+        "Floyd Samba",
+        "Man City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2465.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Becham backs Messi for Ballon d’Or after 100th Miami goal",
+      "link": "https://www.myjoyonline.com/becham-backs-messi-for-ballon-dor-after-100th-miami-goal/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T23:24:00.000Z",
+      "summary": "Lionel Messi deserves to win this year's Ballon d'Or, according to Inter Miami co-owner and former England captain David Beckham.",
+      "categories": [
+        "Football",
+        "Ballon d'Or",
+        "David Becham",
+        "Inter Miami",
+        "Lionel Messi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2464.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+      "link": "https://www.myjoyonline.com/real-madrid-keen-on-man-utd-forward-gabriel-15/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T23:15:00.000Z",
+      "summary": "Real Madrid are among the clubs trying to sign Manchester United academy player JJ Gabriel.",
+      "categories": [
+        "Football",
+        "JJ Gabriel",
+        "Man United",
+        "Real Madrid"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2463.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Klopp wants to ‘reclaim’ flag amid German elections",
+      "link": "https://www.myjoyonline.com/klopp-wants-to-reclaim-flag-amid-german-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T23:06:00.000Z",
+      "summary": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+      "categories": [
+        "Football",
+        "German national team",
+        "Jurgen Klopp"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2462.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FA chair demands Infantino release World Cup sell-off documents",
+      "link": "https://www.myjoyonline.com/fa-chair-demands-infantino-release-world-cup-sell-off-documents/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-17T22:55:00.000Z",
+      "summary": "FIFA president Gianni Infantino has been told to release all documents relating to his controversial plan to sell a stake in the World Cup in a letter from Football Association chair Debbie…",
+      "categories": [
+        "Football",
+        "Gianni Infantino",
+        "UK FA Chair"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2461.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -145,6 +163,7 @@ window.GDC_PAPERS = {
         "Hot!",
         "News"
       ],
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -157,6 +176,7 @@ window.GDC_PAPERS = {
         "Hot!",
         "News"
       ],
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -168,6 +188,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Foriegn"
       ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -179,6 +200,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Politics"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/adams.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -190,6 +212,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Sports News"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/marathon.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
@@ -201,6 +224,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Sports News"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/coach.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
@@ -213,6 +237,7 @@ window.GDC_PAPERS = {
         "Hot!",
         "News"
       ],
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -225,6 +250,7 @@ window.GDC_PAPERS = {
         "Crime",
         "Hot!"
       ],
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -237,6 +263,7 @@ window.GDC_PAPERS = {
         "Hot!",
         "News"
       ],
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -248,18 +275,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Uncategorized"
       ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Afenyo-Markin calls for calm after deadly New Winneba clash",
-      "link": "https://ghanaiantimes.com.gh/afenyo-markin-calls-for-calm-after-deadly-new-winneba-clash/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-17T16:59:26.000Z",
-      "summary": "The Member of Parliament for Effutu, Alexander Afenyo-Markin, has called for calm and restraint following the invasion of the New Winneba community which resulted in the loss of lives and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -271,6 +287,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Politics"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/kon.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -282,6 +299,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Politics"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/bawumia.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -293,6 +311,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
+      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -304,6 +323,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/robbers.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -315,6 +335,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
+      "image": "https://www.graphic.com.gh/images/2017/JUNE/june30/lync.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -326,6 +347,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Sports News"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/Faith.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
@@ -337,6 +359,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/Gifty.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -348,6 +371,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/17/Machayi.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -359,6 +383,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Sports News"
       ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/15/London.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
