@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-18T01:11:57.543Z",
-  "worldAt": "2026-09-18T01:11:57.540Z",
+  "updated": "2026-09-18T03:34:17.466Z",
+  "worldAt": "2026-09-18T03:34:17.464Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,7 +26,7 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
@@ -46,6 +46,20 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "NPA puts buffers in place to stop fuel firms holding Ghana to ransom",
+      "link": "https://www.myjoyonline.com/npa-puts-buffers-in-place-to-stop-fuel-firms-holding-ghana-to-ransom/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T03:04:00.000Z",
+      "summary": "The National Petroleum Authority (NPA) says it has put safeguards in place to prevent private fuel companies from gaining enough control over petroleum supplies to hold Ghana to ransom."
+    },
+    {
+      "title": "My major concern now is price – NPA boss on fuel supply",
+      "link": "https://www.myjoyonline.com/my-major-concern-now-is-price-npa-boss-on-fuel-supply/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T02:33:00.000Z",
+      "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says Ghana has enough petroleum products in stock to meet demand for at least the next six weeks."
+    },
     {
       "title": "We have at least 6 weeks of fuel cover – NPA boss calms supply fears",
       "link": "https://www.myjoyonline.com/we-have-at-least-6-weeks-of-fuel-cover-npa-boss-calms-supply-fears/",
@@ -1081,23 +1095,31 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-15T10:13:00.000Z",
       "summary": "MTN Ghana has launched the second edition of its DigiFest initiative, bringing together startups, technology companies, academia and other ecosystem players to promote digital innovation…"
-    },
-    {
-      "title": "Local Refineries Now Meeting More Than 30% of Ghana’s Fuel Demand – COMAC",
-      "link": "https://thehighstreetjournal.com/local-refineries-now-meeting-more-than-30-of-ghanas-fuel-demand-comac/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T10:00:00.000Z",
-      "summary": "Ghana is now meeting more than 30% of its fuel demand through local refining, a significant increase from the roughly 10% it relied on previously, according to the Chief Executive Officer…"
-    },
-    {
-      "title": "Businesses above GH¢750,000 turnover must register for VAT – GRA",
-      "link": "https://www.myjoyonline.com/businesses-above-gh%c2%a2750000-turnover-must-register-for-vat-gra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T09:56:28.000Z",
-      "summary": "The Commissioner of Domestic Tax Revenue at the Ghana Revenue Authority (GRA), Dr Martin Kolbil Yamborigya, has warned businesses with annual taxable turnover exceeding GH¢750,000 to…"
     }
   ],
   "world": [
+    {
+      "title": "Japan’s interest rate hiked to 31-year high at 1.25% as inflation rises",
+      "link": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T03:20:20.000Z",
+      "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks."
+    },
+    {
+      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-18T01:23:10.000Z",
+      "summary": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c43/live/071e0fd0-b2c8-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "Critics in meltdown over US cheese giant Tillamook halal label",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T03:13:48.000Z",
+      "summary": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling."
+    },
     {
       "title": "Trump says 'major progress' made toward US military base in Poland",
       "link": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
@@ -1107,11 +1129,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/e7d252d8-4780-11f1-8bbb-005056a90284/w:1024/p:16x9/2026-05-02T083745Z-1119197471-RC2W0LAB5BIB-RTRMADP-3-USA-TRUMP-GERMANY.jpg"
     },
     {
-      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-      "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
+      "link": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T00:49:24.000Z",
-      "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
+      "published": "2026-09-18T02:53:05.000Z",
+      "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays."
     },
     {
       "title": "37 suspected illegal miners die in custody in central Nigeria",
@@ -1122,11 +1144,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fd53c6ca-b2f4-11f1-8166-5570cf9529c5/w:1024/p:16x9/AP24346673836644.jpg"
     },
     {
-      "title": "Iran expels Swedish diplomat in retaliatory move",
-      "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+      "title": "Drone attacks by Colombian armed groups more than double in early 2026",
+      "link": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T00:09:32.000Z",
-      "summary": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure."
+      "published": "2026-09-18T02:51:08.000Z",
+      "summary": "Civilians are caught in the crossfire of drone attacks between armed groups and government forces."
     },
     {
       "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
@@ -1137,11 +1159,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3892/live/bc8899c0-b251-11f1-aeda-b3619ea893bd.jpg"
     },
     {
-      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+      "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T00:00:00.000Z",
-      "summary": "Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'."
+      "published": "2026-09-18T02:44:10.000Z",
+      "summary": "A veteran was told he is ‘embarrassing’ his uniform for protesting Palm Beach County’s $1B investment in Israel bonds."
     },
     {
       "title": "Rare Aztec manuscript returns to Mexico on loan after nearly two centuries in France",
@@ -1152,11 +1174,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/eac40b7e-b2e9-11f1-a029-8bce42b8e305/w:1024/p:16x9/000-C8MK2CX.jpg"
     },
     {
-      "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
-      "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
+      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+      "link": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T23:42:37.000Z",
-      "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM."
+      "published": "2026-09-18T01:58:54.000Z",
+      "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory."
     },
     {
       "title": "French police officer arrested over suspected far-right terror plot",
@@ -1167,11 +1189,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/734d60f4-a19b-11f1-ba2b-005056bfb2b6/w:1024/p:16x9/000-34RN2HF.jpg"
     },
     {
-      "title": "US approves $414M uranium investment in Niger, two years after troops left",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+      "title": "UN findings show US strikes on Minab could be war crimes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T23:16:25.000Z",
-      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
+      "published": "2026-09-18T01:58:53.000Z",
+      "summary": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes."
     },
     {
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
@@ -1182,11 +1204,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e890/live/25bea680-b2cc-11f1-aa00-7947ea0dbeab.jpg"
     },
     {
-      "title": "Russia election: Could other parties challenge United Russia?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
+      "link": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T22:19:58.000Z",
-      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?"
+      "published": "2026-09-18T01:23:44.000Z",
+      "summary": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations."
     },
     {
       "title": "US Midterms: Russian disinformation campaign targets Democrats",
@@ -1197,11 +1219,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/404b89e0-b2dc-11f1-8ebd-8bce42b8e305/w:1024/p:16x9/ANGL260917-2045-Live-CS2045.jpg"
     },
     {
-      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+      "title": "Former Assad officer sentenced to 60 years in US for torture",
+      "link": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T22:12:22.000Z",
-      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge."
+      "published": "2026-09-18T01:15:25.000Z",
+      "summary": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad's regime."
     },
     {
       "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
@@ -1212,11 +1234,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg"
     },
     {
-      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+      "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:42:31.000Z",
-      "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it."
+      "published": "2026-09-18T00:49:24.000Z",
+      "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
     },
     {
       "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
@@ -1227,11 +1249,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/09b313bc-b2cd-11f1-835c-61f6f55d211c/w:1024/p:16x9/EN-20260917-181320-182715-CS.jpg"
     },
     {
-      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "title": "Iran expels Swedish diplomat in retaliatory move",
+      "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:38:17.000Z",
-      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis."
+      "published": "2026-09-18T00:09:32.000Z",
+      "summary": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure."
     },
     {
       "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
@@ -1242,11 +1264,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg"
     },
     {
-      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
+      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:27:11.000Z",
-      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
+      "published": "2026-09-18T00:00:00.000Z",
+      "summary": "Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'."
     },
     {
       "title": "French fishermen to end blockades over fuel prices",
@@ -1257,11 +1279,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5833d92c-b2d7-11f1-981e-8bce42b8e305/w:1024/p:16x9/capture-16886675566aac4f1ae9c029-89417278.jpg"
     },
     {
-      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
+      "title": "Migrant sea crossings to Europe drop sharply as deaths rise: IOM",
+      "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:20:57.000Z",
-      "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases."
+      "published": "2026-09-17T23:42:37.000Z",
+      "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM."
     },
     {
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -1272,11 +1294,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
-      "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
+      "title": "US approves $414M uranium investment in Niger, two years after troops left",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:08:51.000Z",
-      "summary": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread."
+      "published": "2026-09-17T23:16:25.000Z",
+      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
     },
     {
       "title": "AFP photo shows Trump examining image of apparent Kennedy Center razing",
@@ -1287,11 +1309,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6d25a13c-b2d5-11f1-be23-430f3874e448/w:1024/p:16x9/EN-20260917-220927-221244-CS.jpg"
     },
     {
-      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
-      "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:01:41.000Z",
-      "summary": "Move ends the Security Council’s watchdog panel on Iran sanctions."
+      "published": "2026-09-17T22:19:58.000Z",
+      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?"
     },
     {
       "title": "Women living in fear after body of ninth victim found outside Johannesburg",
@@ -1301,11 +1323,11 @@ window.GDC_NEWS = {
       "summary": "The discovery of the bodies of nine women in the same area on the outskirts of South Africa's biggest city, Johannesburg, in the last two months have prompted police to investigate if the…"
     },
     {
-      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
-      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:47:52.000Z",
-      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting."
+      "published": "2026-09-17T22:12:22.000Z",
+      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge."
     },
     {
       "title": "Serial killer suspicions in South Africa",
@@ -1316,11 +1338,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3611477c-b2d6-11f1-8e6b-430f3874e448/w:1024/p:16x9/capture-12071973626aac4d34225ba0-03662603.jpg"
     },
     {
-      "title": "Why does Brazil get to speak first at UNGA?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
+      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:46:21.000Z",
-      "summary": "Why does Brazil get to speak first at UNGA?"
+      "published": "2026-09-17T21:42:31.000Z",
+      "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it."
     },
     {
       "title": "Behind the overture from the European Union to Canada",
@@ -1330,11 +1352,11 @@ window.GDC_NEWS = {
       "summary": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S."
     },
     {
-      "title": "Can ‘middle powers’ come together to build a new economic alliance?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:37:06.000Z",
-      "summary": "Canada's prime minister outlines plans for stronger ties with the EU."
+      "published": "2026-09-17T21:38:17.000Z",
+      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis."
     },
     {
       "title": "Trump threatens EU over 'hostile' Canada association plan",
@@ -1345,19 +1367,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/45458dc8-b2ce-11f1-88d2-61f6f55d211c/w:1024/p:16x9/EN-20260917-203120-203742-CS.jpg"
     },
     {
-      "title": "Why have China’s oil prices reached a record high?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
+      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T20:30:39.000Z",
-      "summary": "Why have China's oil prices reached a record high?"
-    },
-    {
-      "title": "Canadians welcome closer ties with Europe as tensions simmer with US",
-      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-17T19:59:54.000Z",
-      "summary": "Toronto residents tell the BBC they are excited by the possibility of working and studying in the EU.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c43/live/071e0fd0-b2c8-11f1-bc1f-3f186ca4140c.jpg"
+      "published": "2026-09-17T21:27:11.000Z",
+      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
     },
     {
       "title": "'Guess who didn't like Mark Carney's speech today? The far-right'",
@@ -1368,37 +1382,30 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/401bccd8-b2d1-11f1-93a8-430f3874e448/w:1024/p:16x9/EN-20260917-213420-214001-CS.jpg"
     },
     {
-      "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
-      "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss",
+      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T19:54:46.000Z",
-      "summary": "Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border."
+      "published": "2026-09-17T21:20:57.000Z",
+      "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases."
     },
     {
-      "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+      "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
       "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
       "source": "NPR World",
       "published": "2026-09-17T19:33:30.000Z",
       "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a…",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3334+0+0/resize/5000x3334!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2Feb%2F72cdb86e42e1bc2bfacb766d508c%2Fgettyimages-1225247404.jpg"
-    },
-    {
-      "title": "Ilhan Omar attacker sentenced to more than a year in prison",
-      "link": "https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T19:42:30.000Z",
-      "summary": "The assailant sprayed vinegar at Ilhan Omar, admitting political motives were behind the assault at a townhall."
-    },
-    {
-      "title": "'The harms have come to outweigh the benefits' of social media, researcher says",
-      "link": "https://www.france24.com/en/the-harms-have-come-to-outweigh-the-benefits-of-social-media-researcher-says",
-      "source": "France 24",
-      "published": "2026-09-17T19:29:04.000Z",
-      "summary": "The EU laid out plans Thursday for strict age limits for children to access social media, games and AI assistants -- and on forcing companies to make platforms safe before minors use them…",
-      "image": "https://s.france24.com/media/display/44df0360-b2cd-11f1-8181-1d1125ed9143/w:1024/p:16x9/EN-20260917-210451-211619-CS.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Nigerian police probe 37 deaths in custody of suspected illegal miners",
+      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-18T02:52:33.000Z",
+      "summary": "Authorities linked the deaths to disease, but the official explanation has been disputed by intelligence reports and relatives of the accused.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f036/live/59294000-b305-11f1-a079-0563cfe4edc8.jpg"
+    },
     {
       "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
       "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
@@ -1407,11 +1414,12 @@ window.GDC_NEWS = {
       "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
     },
     {
-      "title": "Africa: South Korea, Africa Pledge Deeper Ai Partnership to Accelerate Continent's Digital Transformation",
-      "link": "https://allafrica.com/stories/202609170603.html",
-      "source": "AllAfrica",
-      "published": "2026-09-17T21:01:45.000Z",
-      "summary": "[African Development Bank (AfDB)] The Republic of Korea plans to deepen its long-standing partnership with Africa by expanding cooperation in artificial intelligence (AI) and digital…"
+      "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-18T02:41:43.000Z",
+      "summary": "Police exchanged fire with the suspected kidnappers, who were armed with an AK-47 rifle and a pistol.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e512/live/18410a00-b305-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "US approves $414M uranium investment in Niger, two years after troops left",
@@ -1421,11 +1429,11 @@ window.GDC_NEWS = {
       "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
     },
     {
-      "title": "Women living in fear after body of ninth victim found outside Johannesburg",
-      "link": "http://www.africanews.com/2026/09/17/women-living-in-fear-after-body-of-ninth-victim-found-outside-johannesburg/",
-      "source": "Africanews",
-      "published": "2026-09-17T20:26:14.000Z",
-      "summary": "The discovery of the bodies of nine women in the same area on the outskirts of South Africa's biggest city, Johannesburg, in the last two months have prompted police to investigate if the…"
+      "title": "Africa: South Korea, Africa Pledge Deeper Ai Partnership to Accelerate Continent's Digital Transformation",
+      "link": "https://allafrica.com/stories/202609170603.html",
+      "source": "AllAfrica",
+      "published": "2026-09-17T21:01:45.000Z",
+      "summary": "[African Development Bank (AfDB)] The Republic of Korea plans to deepen its long-standing partnership with Africa by expanding cooperation in artificial intelligence (AI) and digital…"
     },
     {
       "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
@@ -1435,11 +1443,11 @@ window.GDC_NEWS = {
       "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
     },
     {
-      "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
-      "link": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/",
+      "title": "Women living in fear after body of ninth victim found outside Johannesburg",
+      "link": "http://www.africanews.com/2026/09/17/women-living-in-fear-after-body-of-ninth-victim-found-outside-johannesburg/",
       "source": "Africanews",
-      "published": "2026-09-17T18:56:35.000Z",
-      "summary": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed…"
+      "published": "2026-09-17T20:26:14.000Z",
+      "summary": "The discovery of the bodies of nine women in the same area on the outskirts of South Africa's biggest city, Johannesburg, in the last two months have prompted police to investigate if the…"
     },
     {
       "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
@@ -1449,11 +1457,11 @@ window.GDC_NEWS = {
       "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting."
     },
     {
-      "title": "Oil exploitation blamed for environmental damage, crop loss in Congo",
-      "link": "http://www.africanews.com/2026/09/17/oil-exploitation-blamed-for-environmental-damage-crop-loss-in-congo/",
+      "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
+      "link": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/",
       "source": "Africanews",
-      "published": "2026-09-17T16:27:00.000Z",
-      "summary": "In a report co-authored with Caritas, the diocese of Pointe-Noire said farmers in the Koilou department have reported sharp drops in cassava harvests. The residents pointed the finger at…"
+      "published": "2026-09-17T18:56:35.000Z",
+      "summary": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed…"
     },
     {
       "title": "South Africa gender commissioner: women ‘hunted’ amid femicide crisis",
@@ -1463,11 +1471,11 @@ window.GDC_NEWS = {
       "summary": "A ninth woman has been found dead amid a wave of killings in South Africa’s Ekurhuleni region, east of Johannesburg."
     },
     {
-      "title": "Medical teams in DRC face difficult conditions as the race to contain Ebola outbreak",
-      "link": "http://www.africanews.com/2026/09/17/medical-teams-in-drc-face-difficult-conditions-as-the-race-to-contain-ebola-outbreak/",
+      "title": "Oil exploitation blamed for environmental damage, crop loss in Congo",
+      "link": "http://www.africanews.com/2026/09/17/oil-exploitation-blamed-for-environmental-damage-crop-loss-in-congo/",
       "source": "Africanews",
-      "published": "2026-09-17T16:26:48.000Z",
-      "summary": "Medical teams face brutal conditions as grave diggers work night and day to bury victims of the Ebola outbreak which continues to grip the Democratic Republic of Congo."
+      "published": "2026-09-17T16:27:00.000Z",
+      "summary": "In a report co-authored with Caritas, the diocese of Pointe-Noire said farmers in the Koilou department have reported sharp drops in cassava harvests. The residents pointed the finger at…"
     },
     {
       "title": "Liberia: Boakai Relishes Revenue Gains",
@@ -1475,6 +1483,13 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-17T16:24:31.000Z",
       "summary": "[New Republic] -President Joseph Nyuma Boakai has relished Liberia's new revenue chapter of surpassing US$1 billion dollars in revenue collection; a milestone he attributed to the tenacity…"
+    },
+    {
+      "title": "Medical teams in DRC face difficult conditions as the race to contain Ebola outbreak",
+      "link": "http://www.africanews.com/2026/09/17/medical-teams-in-drc-face-difficult-conditions-as-the-race-to-contain-ebola-outbreak/",
+      "source": "Africanews",
+      "published": "2026-09-17T16:26:48.000Z",
+      "summary": "Medical teams face brutal conditions as grave diggers work night and day to bury victims of the Ebola outbreak which continues to grip the Democratic Republic of Congo."
     },
     {
       "title": "Ninth woman’s body found as South Africa probes series of killings",
@@ -1665,20 +1680,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-17T10:57:53.000Z",
       "summary": "[Liberian Observer] The National Association of the Kpelle and Kpelle-Speaking People of Liberia (NAKKSPL) has launched a solidarity fundraising campaign in support of former Liberian Vice…"
-    },
-    {
-      "title": "Uganda: Only 737 Traders Verified for Shs20 Billion Kampala Flood Relief",
-      "link": "https://allafrica.com/stories/202609170266.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-17T10:59:42.000Z",
-      "summary": "[Independent (Kampala)] Kampala -- Only 737 traders have been verified as genuine victims of the floods that devastated several buildings and arcades in Kampala in October 2025 and are now…"
-    },
-    {
-      "title": "African lab scientists gather in Togo to discuss challenges amid Ebola crisis",
-      "link": "http://www.africanews.com/2026/09/17/african-lab-scientists-gather-in-togo-to-discuss-challenges-amid-ebola-crisis/",
-      "source": "Africanews",
-      "published": "2026-09-17T10:37:26.000Z",
-      "summary": "As Ebola threatens parts of Africa, the Federation of West African Medical Laboratory Science opened its first conference Wednesday, in Lomé, Togo, to discuss the challenges posed by…"
     }
   ]
 };

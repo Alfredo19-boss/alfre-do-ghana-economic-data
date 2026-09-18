@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T01:12:11.395Z",
+  "updated": "2026-09-18T03:34:35.023Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,11 +25,26 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Preventing the dual crisis of early marriages and teenage pregnancy in Ghana",
-      "link": "https://ghanaiantimes.com.gh/preventing-the-dual-crisis-of-early-marriages-and-teenage-pregnancy-in-ghana/",
+      "title": "NPA puts buffers in place to stop fuel firms holding Ghana to ransom",
+      "link": "https://www.myjoyonline.com/npa-puts-buffers-in-place-to-stop-fuel-firms-holding-ghana-to-ransom/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T03:04:00.000Z",
+      "summary": "The National Petroleum Authority (NPA) says it has put safeguards in place to prevent private fuel companies from gaining enough control over petroleum supplies to hold Ghana to ransom.",
+      "categories": [
+        "Energy",
+        "National",
+        "Godwin Edudzi Tamakloe",
+        "NPA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.26.47-am-1024x569.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Who will pay for Ghana’s roads, schools and clinics? The Report Card points to a smarter way to finance the future",
+      "link": "https://ghanaiantimes.com.gh/who-will-pay-for-ghanas-roads-schools-and-clinics-the-report-card-points-to-a-smarter-way-to-finance-the-future/",
       "source": "Ghanaian Times",
-      "published": "2026-09-18T00:47:00.000Z",
-      "summary": "Educating our wards, particularly our girls is one of the surest and most powerful ways to prevent teenage pregnancy and early marriages in Ghana. It affords them the knowledge, skills and…",
+      "published": "2026-09-18T02:51:00.000Z",
+      "summary": "The 2026 Infrastructure Report Card marked funding as the weakest link in every single sector. The answer is not simply to borrow more. It is to finance differently, and the money Ghana…",
       "categories": [
         "Features"
       ],
@@ -37,87 +52,176 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "2 Britons among 3 killed in Swiss plane crash",
-      "link": "https://ghanaiantimes.com.gh/2-britons-among-3-killed-in-swiss-plane-crash/",
+      "title": "Minority demands suspension or dismissal of NSA boss over World Cup visa allegations",
+      "link": "https://www.myjoyonline.com/minority-demands-suspension-or-dismissal-of-nsa-boss-over-world-cup-visa-allegations/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T02:45:00.000Z",
+      "summary": "The Minority in Parliament is demanding the dismissal or suspension of the Director-General of the National Sports Authority (NSA), Yaw Ampofo Ankrah, over allegations of money collection…",
+      "categories": [
+        "HP News 6",
+        "HP Sports 1",
+        "National",
+        "NSA boss",
+        "yaw ampofo ankrah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Yaw-Ampofo-Ankrah-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "1 dead after torrential rain, flash floods hit Barcelona region",
+      "link": "https://ghanaiantimes.com.gh/1-dead-after-torrential-rain-flash-floods-hit-barcelona-region/",
       "source": "Ghanaian Times",
-      "published": "2026-09-18T00:38:00.000Z",
-      "summary": "Two Britons were among the three people who died when a small plane crashed into a Swiss mountainside ‌this week, the British Foreign, Commonwealth and Development Office said yesterday…",
+      "published": "2026-09-18T02:43:00.000Z",
+      "summary": "North-eastern Spain has been hit by torrential rain and flash floods, leaving one person dead and causing widespread disruption across the region. Spain’s national weather agency AEMET…",
       "categories": [
         "World"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nigeria’s state police amendment bill to be ratified",
-      "link": "https://ghanaiantimes.com.gh/nigerias-state-police-amendment-bill-to-be-ratified/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:36:00.000Z",
-      "summary": "Nigeria’s parliament has sent a constitutional amendment bill that would establish state police forces to the country’s 36 state assembly’s ‌for ratification, advancing a key security…",
-      "categories": [
-        "Africa"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Abducted South African journalist found dead",
-      "link": "https://ghanaiantimes.com.gh/abducted-south-african-journalist-found-dead/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:36:00.000Z",
-      "summary": "Tributes are pouring in for a veteran South African sports broadcaster who was found dead on Wednesday hours after being abducted when his vehicle was hijacked in a township near…",
-      "categories": [
-        "Africa"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Boehly, Walter sell Chelsea stake to Clearlake Capital",
-      "link": "https://ghanaiantimes.com.gh/boehly-walter-sell-chelsea-stake-to-clearlake-capital/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:34:00.000Z",
-      "summary": "Chelsea chairman Todd Boehly and director Mark Walter have sold their stakes in the Premier League side to majority owner Clearlake Capital, which has assumed full control, the club…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "DBG launches AI-powered platform to support farmers",
-      "link": "https://ghanaiantimes.com.gh/dbg-launches-ai-powered-platform-to-support-farmers/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:32:00.000Z",
-      "summary": "The Development Bank Ghana (DBG), in partnership with Opportunity International (OI) and the Ghana Incentive-Based Risk-Sharing System for Agricultural Lending (GIRSAL), has launched an…",
-      "categories": [
-        "Business"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Volta’s China partnerships must deliver",
-      "link": "https://ghanaiantimes.com.gh/voltas-china-partnerships-must-deliver/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:30:00.000Z",
-      "summary": "The decision by the Volta Regional House of Chiefs (VRHC) to look beyond Ghana’s shores for partnerships to accelerate development is both timely and encouraging. During a one-week business…",
-      "categories": [
-        "Editorial"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "CIRIP Ghana urges distressed firms to seek early help",
-      "link": "https://ghanaiantimes.com.gh/cirip-ghana-urges-distressed-firms-to-seek-early-help/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:29:00.000Z",
-      "summary": "BY KINGSLEY ASAREThe Chartered Institute of Restructuring and Insolvency Practitioners Ghana (CIRIP Ghana) has urged financially struggling and distressed registered businesses to seek…",
-      "categories": [
-        "Business"
-      ],
       "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "My major concern now is price – NPA boss on fuel supply",
+      "link": "https://www.myjoyonline.com/my-major-concern-now-is-price-npa-boss-on-fuel-supply/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T02:33:00.000Z",
+      "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says Ghana has enough petroleum products in stock to meet demand for at least the next six weeks.",
+      "categories": [
+        "Energy",
+        "National",
+        "Fuel Supply",
+        "Godwin Edudzi Tamakloe",
+        "National Petroleum Authority (NPA)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2470-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigeria begins trial of five suspected Ansaru members over school kidnapping",
+      "link": "https://www.myjoyonline.com/nigeria-begins-trial-of-five-suspected-ansaru-members-over-school-kidnapping/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T02:14:00.000Z",
+      "summary": "Nigeria's state security service on Thursday opened the trial of five suspected members of ​the Islamist group Ansaru over the abduction of pupils and ‌teachers from schools in southwestern…",
+      "categories": [
+        "Africa",
+        "kidnapping",
+        "Nigeria"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2468-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ebola outbreak in Congo is still serious, African health body says",
+      "link": "https://www.myjoyonline.com/ebola-outbreak-in-congo-is-still-serious-african-health-body-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T02:05:00.000Z",
+      "summary": "The ongoing Ebola outbreak in the Democratic Republic of the Congo is still serious, with data ​indicating gaps in infection prevention and control, ‌Africa's top public health agency said…",
+      "categories": [
+        "Africa",
+        "Congo",
+        "Ebola"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-939-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Govt to resolve CSSPS challenges before schools reopen",
+      "link": "https://ghanaiantimes.com.gh/govt-to-resolve-cssps-challenges-before-schools-reopen/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T02:01:00.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has assured parents and students facing challenges with the 2026 school placement exercise that all outstanding issues will be resolved before…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Boundary Commission takes border communities’ concerns to govt",
+      "link": "https://ghanaiantimes.com.gh/boundary-commission-takes-border-communities-concerns-to-govt/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T01:56:00.000Z",
+      "summary": "The Ghana Boundary Commission has assured residents of border communities in the Jaman North District in the Bono Region that the government would work to address their security and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Militants kill 15 in overnight Cameroon raid, village sources say",
+      "link": "https://www.myjoyonline.com/militants-kill-15-in-overnight-cameroon-raid-village-sources-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T01:55:00.000Z",
+      "summary": "Suspected Islamist militants killed at least 15 people in a pre-dawn attack on ​a village in northern Cameroon, a local vigilante and ‌an administrative authority said on Thursday",
+      "categories": [
+        "Africa",
+        "Cameroon"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/image-1014-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Libya power cuts push small businesses and weary citizens to brink",
+      "link": "https://www.myjoyonline.com/libya-power-cuts-push-small-businesses-and-weary-citizens-to-brink/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T01:44:00.000Z",
+      "summary": "Power cuts have been a fact of life for years for Naseem Al-Akkari, who owns a chain of restaurants in Libya's capital, Tripoli.",
+      "categories": [
+        "Africa",
+        "Libya",
+        "Power cuts"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2469-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Journalists urged to prioritise conflict-sensitive reporting",
+      "link": "https://ghanaiantimes.com.gh/journalists-urged-to-prioritise-conflict-sensitive-reporting/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:59:00.000Z",
+      "summary": "Journalists and media practitioners in the northern part of the country have been urged to prioritise conflict-sensitive journalism in their coverage of conflicts and related developments…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Warning labels needed to tackle NCDs – SEND Ghana",
+      "link": "https://ghanaiantimes.com.gh/warning-labels-needed-to-tackle-ncds-send-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:57:00.000Z",
+      "summary": "SEND Ghana has launched a mass media campaign to educate the public on front-of-package warning labelling and promote healthier food choices as part of efforts to prevent non-communicable…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana face Morocco Oct. 4",
+      "link": "https://ghanaiantimes.com.gh/ghana-face-morocco-oct-4/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:55:00.000Z",
+      "summary": "Ghana will play Morocco in an international friendly on Sunday, October 4, 2026, at the Grand Stade de Tanger. Both countries will use the match to assess their squads during the…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kotoko target Samartex fall",
+      "link": "https://ghanaiantimes.com.gh/kotoko-target-samartex-fall/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T00:50:00.000Z",
+      "summary": "Kumasi Asante Kotoko will be looking to exact revenge on FC Samartex when the two sides clash at the Nsenkyire Sports Arena in Samreboi on Sunday for their Ghana Premier League Matchday 3…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -132,108 +236,6 @@ window.GDC_PAPERS = {
         "US Visa"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2468-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Grand Theft Auto 6 soundtrack reveal revives digital release debate",
-      "link": "https://www.myjoyonline.com/grand-theft-auto-6-soundtrack-reveal-revives-digital-release-debate/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T23:54:00.000Z",
-      "summary": "The reveal of a Grand Theft Auto 6 soundtrack album has reignited a debate over the decision not to release the game on disc.",
-      "categories": [
-        "International",
-        "Music",
-        "digital music",
-        "Grand Theft Auto 6"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2467-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Charles ‘sounded giddily elated’ after Diana died, Earl Spencer claims",
-      "link": "https://www.myjoyonline.com/charles-sounded-giddily-elated-after-diana-died-earl-spencer-claims/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T23:45:00.000Z",
-      "summary": "Earl Spencer, brother of Diana, Princess of Wales, has claimed King Charles \"sounded giddily elated\" when he called him after her death in 1997.",
-      "categories": [
-        "International",
-        "King Charles",
-        "Princess Diana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/08/Princess-Diana.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samba with debut double as Man City thrash Norwich",
-      "link": "https://www.myjoyonline.com/samba-with-debut-double-as-man-city-thrash-norwich/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T23:34:00.000Z",
-      "summary": "Teenager Floyd Samba enjoyed a dream first-team debut by scoring twice to help Manchester City begin the defence of their Carabao Cup crown with a thrashing of Championship outfit Norwich…",
-      "categories": [
-        "Football",
-        "Floyd Samba",
-        "Man City"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2465.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Becham backs Messi for Ballon d’Or after 100th Miami goal",
-      "link": "https://www.myjoyonline.com/becham-backs-messi-for-ballon-dor-after-100th-miami-goal/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T23:24:00.000Z",
-      "summary": "Lionel Messi deserves to win this year's Ballon d'Or, according to Inter Miami co-owner and former England captain David Beckham.",
-      "categories": [
-        "Football",
-        "Ballon d'Or",
-        "David Becham",
-        "Inter Miami",
-        "Lionel Messi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2464.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-      "link": "https://www.myjoyonline.com/real-madrid-keen-on-man-utd-forward-gabriel-15/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T23:15:00.000Z",
-      "summary": "Real Madrid are among the clubs trying to sign Manchester United academy player JJ Gabriel.",
-      "categories": [
-        "Football",
-        "JJ Gabriel",
-        "Man United",
-        "Real Madrid"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2463.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Klopp wants to ‘reclaim’ flag amid German elections",
-      "link": "https://www.myjoyonline.com/klopp-wants-to-reclaim-flag-amid-german-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T23:06:00.000Z",
-      "summary": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
-      "categories": [
-        "Football",
-        "German national team",
-        "Jurgen Klopp"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2462.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FA chair demands Infantino release World Cup sell-off documents",
-      "link": "https://www.myjoyonline.com/fa-chair-demands-infantino-release-world-cup-sell-off-documents/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T22:55:00.000Z",
-      "summary": "FIFA president Gianni Infantino has been told to release all documents relating to his controversial plan to sell a stake in the World Cup in a letter from Football Association chair Debbie…",
-      "categories": [
-        "Football",
-        "Gianni Infantino",
-        "UK FA Chair"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2461.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
