@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-09-18T09:11:09.431Z",
+  "updated": "2026-09-18T13:40:09.338Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, and Yahoo Finance for the market quotes",
   "official": {
@@ -22,37 +22,37 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-09-18T09:11:09.431Z",
+  "officialAt": "2026-09-18T13:40:09.338Z",
   "quotes": {
     "usd": {
-      "value": 11.5,
-      "at": "2026-09-18T04:17:33.000Z",
+      "value": 11.48,
+      "at": "2026-09-18T13:24:08.000Z",
       "name": "US dollar",
-      "prev": 11.48
+      "prev": 11.5
     },
     "gbp": {
-      "value": 15.3799,
-      "at": "2026-09-18T04:43:57.000Z",
+      "value": 15.3195,
+      "at": "2026-09-18T13:38:59.000Z",
       "name": "British pound",
-      "prev": 15.3796
+      "prev": 15.3799
     },
     "eur": {
-      "value": 13.2142,
-      "at": "2026-09-18T04:43:57.000Z",
+      "value": 13.1608,
+      "at": "2026-09-18T13:38:59.000Z",
       "name": "Euro",
-      "prev": 13.2155
+      "prev": 13.2142
     },
     "cny": {
-      "value": 1.7128,
-      "at": "2026-09-18T04:43:57.000Z",
+      "value": 1.7082,
+      "at": "2026-09-18T13:38:59.000Z",
       "name": "Chinese yuan",
-      "prev": 1.7127
+      "prev": 1.7128
     },
     "gold": {
-      "value": 4432.4,
-      "at": "2026-09-18T09:00:45.000Z",
+      "value": 4405.7,
+      "at": "2026-09-18T13:29:35.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4392.3
+      "prev": 4432.4
     }
   }
 };
