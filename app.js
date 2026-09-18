@@ -1319,8 +1319,7 @@
   }
   const LIVE_LABELS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur", "Chinese yuan": "cny", "Gold price": "gold" };
   const liveFor = label => liveQuotes().find(q => q.key === LIVE_LABELS[label]) || null;
-  const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
-  // The Bank of Ghana's own interbank rate, read straight from their daily page every twenty
+  const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "numeric", minute: "2-digit", hour12: true, timeZone: "UTC" }).toUpperCase() + " GMT";  // The Bank of Ghana's own interbank rate, read straight from their daily page every twenty
   // minutes by the live-rates job. This is the dashboard's headline figure.
   const BOG_KEYS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur" };
   const BOG_MAX_AGE = 7 * 864e5;            // a BoG reading older than a week is not "the rate"
