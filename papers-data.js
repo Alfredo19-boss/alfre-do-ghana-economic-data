@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T17:31:14.413Z",
+  "updated": "2026-09-18T19:57:57.032Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,20 +25,226 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Two arrested over alleged CSSPS fraud after collecting up to GH¢22,000 for school placement",
-      "link": "https://www.myjoyonline.com/two-arrested-over-alleged-cssps-fraud-after-collecting-up-to-gh22000-for-school-placement/",
+      "title": "Alidu Seidu joins OGC Nice on loan",
+      "link": "https://www.myjoyonline.com/alidu-seidu-joins-ogc-nice-on-loan/",
       "source": "MyJoyOnline",
-      "published": "2026-09-18T17:24:12.000Z",
-      "summary": "Two people have been arrested in Accra in connection with an alleged Computerised School Selection and Placement System (CSSPS) fraud following a tip-off from the Minister for Education…",
+      "published": "2026-09-18T19:26:35.000Z",
+      "summary": "Ghana defender Alidu Seidu has joined French Ligue 1 side OGC Nice on loan from Stade Rennais until the end of the 2026/27 season. The 26-year-old has moved to Nice as a joker signing…",
       "categories": [
-        "Crime",
+        "Football",
+        "Sports",
+        "alidu seidu",
+        "OGC Nice",
+        "Rennes"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ef13af86-4a4b-4098-a3e4-b8c67435ba14.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Thunderstorms, rain expected across several regions this evening – GMet",
+      "link": "https://www.myjoyonline.com/thunderstorms-rain-expected-across-several-regions-this-evening-gmet/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T19:25:08.000Z",
+      "summary": "The Ghana Meteorological Agency (GMet) says thunderstorms and rain currently affecting parts of the Oti, Eastern and Northern Regions are expected to spread to other parts of the country…",
+      "categories": [
+        "National",
+        "Ghana Meteorological Agency (GMet)",
+        "Thunderstorms"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Thunderstorm-and-rains-754x424-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ten female entrepreneurs graduate from the Standard Chartered Foundation Women in Tech Accelerator",
+      "link": "https://www.myjoyonline.com/ten-female-entrepreneurs-graduate-from-the-standard-chartered-foundation-women-in-tech-accelerator/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T19:11:25.000Z",
+      "summary": "Standard Chartered Bank Ghana PLC held the Pitch Day and Graduation ceremony for the sixth cohort of its Women in Tech programme, celebrating ten women entrepreneurs who completed the…",
+      "categories": [
+        "Banking and Finance",
+        "Standard Chartered",
+        "Wome In Tech"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/A95A9869.jpg-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AUCB invests first Chancellor as stakeholders chart new direction for university",
+      "link": "https://www.myjoyonline.com/aucb-invests-first-chancellor-as-stakeholders-chart-new-direction-for-university/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T19:04:31.000Z",
+      "summary": "The African University of Communications and Business (AUCB) has formally invested Mr Frank Adu Jnr as its first Chancellor, marking a significant milestone in the institution’s development…",
+      "categories": [
         "Education",
         "National",
-        "CSSPS fraud",
-        "Minister for Education Haruna Iddrisu"
+        "AUCB",
+        "Chancellor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/arrest.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2645-1024x768.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The 4,126-kilometre journey of three African wild dogs",
+      "link": "https://www.myjoyonline.com/the-4126-kilometre-journey-of-three-african-wild-dogs/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T19:03:32.000Z",
+      "summary": "Three African wild dog brothers have travelled 4,126 kilometres across Zambia after leaving their pack in search of new breeding opportunities, making it the longest recorded dispersal by…",
+      "categories": [
+        "News",
+        "wild dogs",
+        "Zambia"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/file-20260914-50-jv0qoj-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tano North MP responds to constituents’ concerns with 100 streetlights",
+      "link": "https://www.myjoyonline.com/tano-north-mp-responds-to-constituents-concerns-with-100-streetlights/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T19:02:37.000Z",
+      "summary": "The New Patriotic Party (NPP) Member of Parliament (MP) for Tano North, Dr Gideon Boako, has stepped up his constituency development interventions with the installation of 100 streetlights…",
+      "categories": [
+        "National",
+        "100 streetlights",
+        "Nkwanta",
+        "Tano North MP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2527.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Carlos Queiroz: AFCON qualification is absolute priority, but eyes on 2030 World Cup",
+      "link": "https://ghanaiantimes.com.gh/carlos-queiroz-afcon-qualification-is-absolute-priority-but-eyes-on-2030-world-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T18:58:42.000Z",
+      "summary": "Black Stars head coach Carlos Queiroz says his immediate focus is securing qualification for the Africa Cup of Nations, while laying the foundation for a bigger dream building a Ghana side…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Narcotic seizure probe: Minority says inter-agency task force cannot replace parliamentary inquiry",
+      "link": "https://www.myjoyonline.com/narcotic-seizure-probe-minority-says-inter-agency-task-force-cannot-replace-parliamentary-inquiry/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T18:56:44.000Z",
+      "summary": "The Deputy Minority Whip, Habib Iddrisu, says that President John Mahama's newly constituted Executive inter-agency task force to investigate recent narcotic seizures cannot replace…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Habib Iddrisu",
+        "Minority",
+        "Narcotic seizure"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/vlcsnap-2026-06-09-18h16m38s253-e1781029206113.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Our intelligence agencies will not be reduced to chasing citizens for insulting me – Dr. Bawumia jabs gov’t",
+      "link": "https://ghanaiantimes.com.gh/our-intelligence-agencies-will-not-be-reduced-to-chasing-citizens-for-insulting-me-dr-bawumia-jabs-govt/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T18:56:11.000Z",
+      "summary": "New Patriotic Party flagbearer, Dr Mahamudu Bawumia, has condemned the arrest and remand of Techiman-based nurse and mother of three, Salomey Bafor Awiti, over allegations of abetting the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "MUSIGA opens applications for SheRhythms Festival 2026",
+      "link": "https://www.myjoyonline.com/musiga-opens-applications-for-sherhythms-festival-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T18:56:01.000Z",
+      "summary": "The Musicians Union of Ghana (MUSIGA) has opened applications for the second edition of the SheRhythms Festival, with submissions closing on Thursday, 30 October 2026.",
+      "categories": [
+        "HP Entertainment 3",
+        "Music",
+        "2026 edition",
+        "MUSIGA",
+        "SheRhythms Festival"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_8826.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Carlos Queiroz names 24-man squad for AFCON Qualifiers and Morocco friendly",
+      "link": "https://ghanaiantimes.com.gh/carlos-queiroz-names-24-man-squad-for-afcon-qualifiers-and-morocco-friendly/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T18:54:11.000Z",
+      "summary": "Ghana Coach Carlos Queiroz has named a 24-man squad for this month’s 2027 Africa Cup of Nations qualifiers against Côte d’Ivoire and The Gambia, as well as the international friendly…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority demands answers over Thomas Partey’s denied entry to Canada for World Cup opener",
+      "link": "https://ghanaiantimes.com.gh/minority-demands-answers-over-thomas-parteys-denied-entry-to-canada-for-world-cup-opener/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T18:51:45.000Z",
+      "summary": "The Minority in Parliament is demanding answers from the Ghana Football Association (GFA) and the Ministry of Sports and Recreation over reports that Thomas Partey was denied entry into…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Man arrested in Ashaiman for allegedly posing as soldier and extorting money",
+      "link": "https://ghanaiantimes.com.gh/man-arrested-in-ashaiman-for-allegedly-posing-as-soldier-and-extorting-money/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T18:49:37.000Z",
+      "summary": "The Tema Regional Police Command has arrested a 32-year-old man for allegedly posing as a soldier and extorting money from unsuspecting members of the public at Ashaiman. The suspect…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NIA marks Identity Day with float and mass registration in Accra",
+      "link": "https://ghanaiantimes.com.gh/nia-marks-identity-day-with-float-and-mass-registration-in-accra/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T18:44:36.000Z",
+      "summary": "The National Identification Authority (NIA) on Wednesday, September 16, 2026, organised a public education float and special mass registration exercise in Accra as part of activities…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-15.04.16-1-1024x682.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Stop political fights and save Ghana sport – Samson Deen",
+      "link": "https://www.graphic.com.gh/sports/sports-news/stop-political-fights-and-save-ghana-sport-samson-deen.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-18T18:40:33.000Z",
+      "summary": "The President of the National Paralympic Committee of Ghana, Mr Samson Deen, has warned that Ghana risks sacrificing its sporting future to political rivalry. He has called on the New…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Recall Parliament for extraordinary sitting over cocaine seizures – Habib Iddrisu leads petition",
+      "link": "https://www.graphic.com.gh/news/politics/recall-parliament-for-extraordinary-sitting-over-cocaine-seizures-habib-iddrisu-leads-petition.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-18T18:00:14.000Z",
+      "summary": "Some members of Parliament have petitioned the Speaker to recall the House from recess for an extraordinary sitting to consider a series of major narcotics-related incidents linked to Ghana.",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/habib3.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "SHS admissions and bribery: Two suspects picked up by police at CSSPS centre",
@@ -49,70 +255,8 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
-      "image": null,
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/haruna1.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "link": "https://www.myjoyonline.com/dozens-of-suspected-illegal-miners-die-in-nigerian-custody/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T17:04:50.000Z",
-      "summary": "Thirty-seven people accused of illegal mining in north-central Nigeria have died in custody, official say.",
-      "categories": [
-        "International",
-        "Mosque",
-        "Pakistan",
-        "ram"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2631-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Doormaster supports COBAANA Medical Centre project to improve access to dialysis care in Bono Region",
-      "link": "https://www.myjoyonline.com/doormaster-supports-cobaana-medical-centre-project-to-improve-access-to-dialysis-care-in-bono-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T17:03:30.000Z",
-      "summary": "A major healthcare initiative aimed at improving access to dialysis treatment in Ghana’s Bono, Bono East, and Ahafo regions has received support from Doormaster as construction of the…",
-      "categories": [
-        "Health",
-        "National",
-        "Bono Region",
-        "COBAANA Medical Centre",
-        "Dialysis",
-        "Doormaster"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2621-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "link": "https://www.myjoyonline.com/russian-hybrid-attacks-against-europe-intensifying-says-macron/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T17:02:56.000Z",
-      "summary": "French President Emmanuel Macron has warned that the threat of hybrid attacks by Russia against Europe and France has intensified.",
-      "categories": [
-        "International",
-        "Europe",
-        "hybrid",
-        "Russia"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2625-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘She is not a flight risk; even worst criminals get bail’ – GRNMA on detention of nurse in Ghana Jollof case",
-      "link": "https://www.myjoyonline.com/she-is-not-a-flight-risk-even-worst-criminals-get-bail-grnma-on-detention-of-nurse-in-ghana-jollof-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T17:01:38.000Z",
-      "summary": "The Ghana Registered Nurses and Midwives Association (GRNMA) is calling for bail for senior nursing officer Salomey Awity Baffoe, arguing that there is no justification for keeping her in…",
-      "categories": [
-        "Health",
-        "National",
-        "Ghana Jollof",
-        "GRNMA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2624.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Police CID provides details on how nurse arrested in Techiman is linked to 'Ghana Jollof' Tiktok publications",
@@ -125,56 +269,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/cid_boss.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Uber ordered to pay $40m to family of woman killed after driver left her on highway",
-      "link": "https://www.myjoyonline.com/uber-ordered-to-pay-40m-to-family-of-woman-killed-after-driver-left-her-on-highway/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T16:55:07.000Z",
-      "summary": "Uber has been ordered to pay $40m (£29m) to the family of a 23-year-old woman who was fatally struck on a California highway after the rideshare company's driver allegedly pulled over and…",
-      "categories": [
-        "International",
-        "News",
-        "Highway",
-        "Uber",
-        "Woman"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2626-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Ghana Jollof’ sent money to others to circulate false news – Police",
-      "link": "https://www.myjoyonline.com/ghana-jollof-sent-money-to-others-to-circulate-false-news-police/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T16:41:33.000Z",
-      "summary": "The Ghana Police Service has disclosed that its investigations so far have established that TikToker, Barbara Asantewaa Kodua, popularly known as 'Ghana Jollof' paid Salomey Awitti Baffoe…",
-      "categories": [
-        "Crime",
-        "HP News 1",
-        "National",
-        "Ghana Jollof",
-        "Police",
-        "Senior Nurse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2623.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: Mahama commissions evacuation of Agbogbloshie waste to Nsawam landfill",
-      "link": "https://www.myjoyonline.com/photos-mahama-commissions-evacuation-of-agbogbloshie-waste-to-nsawam-landfill/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T16:24:24.000Z",
-      "summary": "President John Dramani Mahama has commissioned the evacuation of accumulated waste from Agbogbloshie in Accra to the Adepa Engineered Landfill Site near Nsawam in the Eastern Region.",
-      "categories": [
-        "National",
-        "Photo Story",
-        "Agbogbloshie",
-        "Mahama",
-        "Nsawam landfill",
-        "Photos"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2597-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "KATH staff members swap stethoscopes for sports boots as 70th Anniversary fun games fever hits Paa Joe Stadium",
@@ -245,7 +339,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/pratt1.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/pratt12.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -258,18 +352,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/18/Atsu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police intercept 2,213 slabs of suspected Indian hemp on River Volta",
-      "link": "https://www.graphic.com.gh/news/general-news/police-intercept-2-213-slabs-of-suspected-indian-hemp-on-river-volta.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-18T12:25:27.000Z",
-      "summary": "The Tema Regional Police Command, through the Marine Police Detachment at Ada, has intercepted an outboard-powered wooden canoe containing 29 sacks of dried leaf substances suspected to be…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/sack.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -294,80 +376,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Aga provisionally suspended over prohibited substance",
-      "link": "https://ghanaiantimes.com.gh/aga-provisionally-suspended-over-prohibited-substance/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T07:41:00.000Z",
-      "summary": "Ethiopian athlete Ruti Aga, who won the Tokyo Marathon in ‌2019, has been provisionally suspended for the presence or use of the prohibited substance methylprednisolone and tampering, ⁠the…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Benfica earn win in Milan as Sunderland celebrate historic night",
-      "link": "https://ghanaiantimes.com.gh/benfica-earn-win-in-milan-as-sunderland-celebrate-historic-night/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T05:39:00.000Z",
-      "summary": "Benfica claimed a 2-0 Europa League victory over hosts AC Milan, while debutants Sunderland edged AZ Alkmaar and Olympique Lyonnais defeated Anderlecht in Brussels in the opening round of…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "91st Ghana Open: GGA ready to host nearly 250 golfers",
-      "link": "https://ghanaiantimes.com.gh/91st-ghana-open-gga-ready-to-host-nearly-250-golfers/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T04:53:00.000Z",
-      "summary": "The Ghana Golf Association (GGA) says it has put the necessary measures in place to host nearly 250 golfers for the 91st Ghana Open Championship. GGA President Leonard Kwaku Okyere made the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police arrest 7 suspected robbers at Zebilla",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-7-suspected-robbers-at-zebilla/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T04:20:00.000Z",
-      "summary": "Seven suspected armed robbers have been arrested by the Upper East Regional Police Command for their alleged involvement in robbery activities at Zebilla, Garu and Binduri. The suspects had…",
-      "categories": [
-        "Crime"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Police-arrest-7-suspected-Suspects-3.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NPP rejects five-year presidential term • Demands Constituent Assembly for constitutional reforms",
-      "link": "https://ghanaiantimes.com.gh/npp-rejects-five-year-presidential-term-demands-constituent-assembly-for-constitutional-reforms/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T04:11:00.000Z",
-      "summary": "The opposition New Patriotic Party (NPP) has rejected the proposed extension of the presidential and parliamentary terms from four to five years, insisting that the existing four-year…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "7 police officers interdicted over alleged extortion",
-      "link": "https://ghanaiantimes.com.gh/7-police-officers-interdicted-over-alleged-extortion/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T03:56:00.000Z",
-      "summary": "The Ghana Police Service has interdicted seven police personnel over an alleged extortion incident in Accra. According to the Police, the officers, who were members of a patrol team…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/7-police-officers-interdcited-Suspects-11-515x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
