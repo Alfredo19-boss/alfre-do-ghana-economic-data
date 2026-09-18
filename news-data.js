@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-18T03:34:17.466Z",
-  "worldAt": "2026-09-18T03:34:17.464Z",
+  "updated": "2026-09-18T05:19:24.895Z",
+  "worldAt": "2026-09-18T05:19:24.893Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,7 +27,7 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
@@ -35,17 +35,66 @@ window.GDC_NEWS = {
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
     "World · BBC News: 41 stories",
-    "World · Deutsche Welle: 12 stories",
+    "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 32 stories",
     "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 29 stories",
-    "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 4 stories",
+    "Africa · Deutsche Welle: 7 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Tomato Prices Surged 158% in August. Ghana’s Answer, a 400,000-Tonne Farming Plan",
+      "link": "https://thehighstreetjournal.com/ghana-tomato-prices-surged-158-in-august/",
+      "source": "The High Street Journal",
+      "published": "2026-09-18T05:05:00.000Z",
+      "summary": "Ghana’s tomato price shock exposes supply gaps, import dependence and post-harvest losses, driving a new push for year-round domestic production."
+    },
+    {
+      "title": "Building Energy Resilience Amid Geopolitics: Expert Makes Case for Investment in Ethanol, Biofuel",
+      "link": "https://thehighstreetjournal.com/building-energy-resilience-amid-geopolitics-expert-makes-case-for-investment-in-ethanol-biofuel/",
+      "source": "The High Street Journal",
+      "published": "2026-09-18T05:03:00.000Z",
+      "summary": "Recurring global oil disruptions should push Ghana to invest in ethanol, biofuels and research while diversifying its energy mix, reducing dependence on petroleum imports and limiting the…"
+    },
+    {
+      "title": "TRAFFITECH Could Become a Financial ‘Leech’ on the Pockets of Repeat Traffic Offenders",
+      "link": "https://thehighstreetjournal.com/traffitech-could-become-a-financial-leech-on-the-pockets-of-repeat-traffic-offenders/",
+      "source": "The High Street Journal",
+      "published": "2026-09-18T05:02:00.000Z",
+      "summary": "Repeat traffic offenders could face a growing financial burden as automated fines become harder to avoid."
+    },
+    {
+      "title": "World Bank Mobilises Record $112bn Private Capital as Africa Share Rises",
+      "link": "https://thehighstreetjournal.com/world-bank-mobilises-record-112bn-private-capital-as-africa-share-rises/",
+      "source": "The High Street Journal",
+      "published": "2026-09-18T05:00:00.000Z",
+      "summary": "The World Bank mobilised a record $112 billion in private capital in 2026, with Africa attracting $22 billion as developing economies seek investment for jobs."
+    },
+    {
+      "title": "IFC, Complete Farmer to Transform Ghana’s Farming with Data, AgTech, & Digital Finance",
+      "link": "https://thehighstreetjournal.com/ifc-complete-farmer-to-transform-ghanas-farming-with-data-agtech-digital-finance/",
+      "source": "The High Street Journal",
+      "published": "2026-09-18T05:00:00.000Z",
+      "summary": "IFC’s $3.06 million partnership with Complete Farmer will scale Ghana’s digital agriculture ecosystem, using data, AgTech and digital finance to connect smallholders to inputs, agronomy…"
+    },
+    {
+      "title": "2014-15 fuel queues were ‘artificial’ – NPA boss reveals lesson driving government’s strategy",
+      "link": "https://www.myjoyonline.com/2014-15-fuel-queues-were-artificial-npa-boss-reveals-lesson-driving-governments-strategy/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T03:44:00.000Z",
+      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says lessons from Ghana’s 2014–15 fuel crisis are shaping the government’s strategy to protect the downstream…"
+    },
+    {
+      "title": "Petroleum is nervous system of the economy – NPA boss explains why fuel security is national security",
+      "link": "https://www.myjoyonline.com/petroleum-is-nervous-system-of-the-economy-npa-boss-explains-why-fuel-security-is-national-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T03:23:00.000Z",
+      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, has described petroleum supply as a critical national security issue, stressing its importance to the functioning…"
+    },
     {
       "title": "NPA puts buffers in place to stop fuel firms holding Ghana to ransom",
       "link": "https://www.myjoyonline.com/npa-puts-buffers-in-place-to-stop-fuel-firms-holding-ghana-to-ransom/",
@@ -59,6 +108,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-18T02:33:00.000Z",
       "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says Ghana has enough petroleum products in stock to meet demand for at least the next six weeks."
+    },
+    {
+      "title": "Why Government doesn’t control most fuel stocks – NPA boss explains",
+      "link": "https://www.myjoyonline.com/why-government-doesnt-control-most-fuel-stocks-npa-boss-explains/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T00:29:00.000Z",
+      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, has explained why government does not directly control most of Ghana’s fuel stocks."
     },
     {
       "title": "We have at least 6 weeks of fuel cover – NPA boss calms supply fears",
@@ -1039,71 +1095,52 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-15T13:13:00.000Z",
       "summary": "Arthur will unveil JEAN-ESIS: Chapter One, a 3-by-3-metre installation made largely from used jeans and materials associated with second-hand clothing bales"
-    },
-    {
-      "title": "AfCFTA Pushes Intellectual Property Rules to Unlock Intangible Assets",
-      "link": "https://thehighstreetjournal.com/afcfta-pushes-intellectual-property-rules/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T12:30:00.000Z",
-      "summary": "The AfCFTA Secretariat made the case at Africa IP Day 2026 under the theme “Growing Business Under the AfCFTA IP Ecosystem"
-    },
-    {
-      "title": "SEC Proposes Infrastructure Corporation To Unlock GH¢120bn Pension Funds",
-      "link": "https://thehighstreetjournal.com/sec-proposes-infrastructure-corporation-to-unlock-gh%c2%a2120bn-pension-funds/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T12:20:00.000Z",
-      "summary": "SEC proposes an infrastructure corporation to channel Ghana’s GH¢120 billion pension assets into projects, reducing government borrowing pressure while creating new long-term investment…"
-    },
-    {
-      "title": "Africa Doesn’t Need More Capital, It Needs Smart Capital that Supports Growth – GCB MD Says",
-      "link": "https://thehighstreetjournal.com/africa-doesnt-need-more-capital-it-needs-smart-capital-that-supports-growth-gcb-md-says/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T12:00:00.000Z",
-      "summary": "GCB MD Farihan Alhassan says Africa needs smarter, patient capital structures rather than simply more money, urging stronger bank-DFI partnerships to match long-term projects with suitable…"
-    },
-    {
-      "title": "GHIPO moves to secure global protection for Ghana’s Akpeteshie",
-      "link": "https://www.myjoyonline.com/ghipo-moves-to-secure-global-protection-for-ghanas-akpeteshie/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T11:56:11.000Z",
-      "summary": "Ghana is stepping up efforts to secure Geographical Indication (GI) protection for Akpeteshie, in a move aimed at safeguarding the identity of the traditional spirit and positioning it for…"
-    },
-    {
-      "title": "Ghana Positions AI Investment as Regional Growth Opportunity",
-      "link": "https://thehighstreetjournal.com/ghana-positions-ai-investment-as-regional-growth-opportunity/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T11:51:16.000Z",
-      "summary": "Ghana plans US$250 million AI infrastructure investment, seeking to become a regional computing hub while building skills, attracting technology investment and strengthening Africa’s…"
-    },
-    {
-      "title": "COMAC Calls for Shift From Fuel Prices to Energy Supply Security",
-      "link": "https://thehighstreetjournal.com/comac-calls-for-shift-from-fuel-prices-to-energy-supply-security/",
-      "source": "The High Street Journal",
-      "published": "2026-09-15T11:32:36.000Z",
-      "summary": "Ghana’s energy debate needs to move beyond the price motorists see at the pump and focus more closely on how the country secures a reliable supply of fuel, the Chamber of Oil Marketing…"
-    },
-    {
-      "title": "Deliberate VAT evasion will attract penalties — GRA",
-      "link": "https://www.myjoyonline.com/deliberate-vat-evasion-will-attract-penalties-gra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T10:25:47.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has warned businesses that deliberately evade their Value Added Tax (VAT) obligations that they risk facing penalties, interest and other enforcement…"
-    },
-    {
-      "title": "MTN Ghana expands DigiFest to drive digital innovation and skills development",
-      "link": "https://www.myjoyonline.com/mtn-ghana-expands-digifest-to-drive-digital-innovation-and-skills-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-15T10:13:00.000Z",
-      "summary": "MTN Ghana has launched the second edition of its DigiFest initiative, bringing together startups, technology companies, academia and other ecosystem players to promote digital innovation…"
     }
   ],
   "world": [
     {
-      "title": "Japan’s interest rate hiked to 31-year high at 1.25% as inflation rises",
-      "link": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+      "title": "Europa League: Marseille suffer heavy defeat at Besiktas",
+      "link": "https://www.france24.com/en/tv-shows/sports/20260918-europa-league-marseille-suffer-heavy-defeat-at-besiktas",
+      "source": "France 24",
+      "published": "2026-09-18T05:04:16.000Z",
+      "summary": "Marseille suffered a heavy 4-1 defeat at Besiktas in Turkey in their opening Europa League match. The result was a fourth consecutive defeat for the French side, who must now prepare for…",
+      "image": "https://s.france24.com/media/display/074b5eea-b309-11f1-a15a-7922de457103/w:1024/p:16x9/om-1-1.jpg"
+    },
+    {
+      "title": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T03:20:20.000Z",
-      "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks."
+      "published": "2026-09-18T05:03:29.000Z",
+      "summary": "A Russian strike hit a shopping centre in Zaporizhzhia, southeastern Ukraine, sparking a major fire."
+    },
+    {
+      "title": "Live: At least five injured in Russian drone strikes in Kyiv region",
+      "link": "https://www.france24.com/en/europe/20260918-live-voting-begins-in-russia-s-parliamentary-elections",
+      "source": "France 24",
+      "published": "2026-09-18T03:16:54.000Z",
+      "summary": "At least five people were injured on Friday after Russian drone strikes struck the Kyiv region, including three children, local officials said. The attack came as polling stations in Russia…",
+      "image": "https://s.france24.com/media/display/55917092-b31f-11f1-b1f6-7922de457103/w:1024/p:16x9/2026-09-16T121610Z-522200717-RC27WLA5MPW7-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-REFINERY.jpg"
+    },
+    {
+      "title": "Australia to detain tourists who overstay visas amid immigration crackdown",
+      "link": "https://www.aljazeera.com/news/2026/9/18/australia-to-detain-tourists-who-overstay-visas-amid-immigration-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T05:02:54.000Z",
+      "summary": "More than 77,000 visa overstayers face detention or departure as Australia cracks down on immigration violations."
+    },
+    {
+      "title": "Aztec manuscript returns to Mexico after two centuries, on loan",
+      "link": "https://www.dw.com/en/aztec-manuscript-returns-to-mexico-after-two-centuries-on-loan/a-79316983?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-18T03:07:00.000Z",
+      "summary": "For years, Mexico has demanded the return of a treasured manuscript. Now the Aztec relic is back home from France — but on loan."
+    },
+    {
+      "title": "Could this economic squeeze sway US voters?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T04:27:25.000Z",
+      "summary": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power."
     },
     {
       "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
@@ -1114,29 +1151,29 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c43/live/071e0fd0-b2c8-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "title": "Critics in meltdown over US cheese giant Tillamook halal label",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
+      "title": "New tiger cat species identified in Bolivia, first in over a century",
+      "link": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T03:13:48.000Z",
-      "summary": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling."
+      "published": "2026-09-18T04:16:28.000Z",
+      "summary": "Leopardus tilcayo is the first new living cat species named and described in more than a century."
     },
     {
-      "title": "Trump says 'major progress' made toward US military base in Poland",
+      "title": "Trump says 'major progress' made towards US military base in Poland",
       "link": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
       "source": "France 24",
       "published": "2026-09-18T01:04:18.000Z",
-      "summary": "US President Donald Trump said that Washington and Warsaw were making 'major progress' toward establishing a US military base in Poland, potentially giving the United States a permanent…",
+      "summary": "US President Donald Trump said that Washington and Warsaw were making \"major progress\" towards establishing a US military base in Poland, potentially giving the United States a permanent…",
       "image": "https://s.france24.com/media/display/e7d252d8-4780-11f1-8bbb-005056a90284/w:1024/p:16x9/2026-05-02T083745Z-1119197471-RC2W0LAB5BIB-RTRMADP-3-USA-TRUMP-GERMANY.jpg"
     },
     {
-      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
-      "link": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
+      "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
+      "link": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T02:53:05.000Z",
-      "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays."
+      "published": "2026-09-18T03:20:20.000Z",
+      "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks."
     },
     {
-      "title": "37 suspected illegal miners die in custody in central Nigeria",
+      "title": "At least 37 suspected illegal miners die in custody in central Nigeria",
       "link": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
       "source": "France 24",
       "published": "2026-09-18T00:27:53.000Z",
@@ -1144,11 +1181,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fd53c6ca-b2f4-11f1-8166-5570cf9529c5/w:1024/p:16x9/AP24346673836644.jpg"
     },
     {
-      "title": "Drone attacks by Colombian armed groups more than double in early 2026",
-      "link": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
+      "title": "Critics in meltdown over US cheese giant Tillamook halal label",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T02:51:08.000Z",
-      "summary": "Civilians are caught in the crossfire of drone attacks between armed groups and government forces."
+      "published": "2026-09-18T03:13:48.000Z",
+      "summary": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling."
     },
     {
       "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
@@ -1159,11 +1196,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3892/live/bc8899c0-b251-11f1-aeda-b3619ea893bd.jpg"
     },
     {
-      "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
+      "title": "Italy to deploy warships to protect shipping through Bab al-Mandeb",
+      "link": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T02:44:10.000Z",
-      "summary": "A veteran was told he is ‘embarrassing’ his uniform for protesting Palm Beach County’s $1B investment in Israel bonds."
+      "published": "2026-09-18T02:53:05.000Z",
+      "summary": "Italy's defence minister warns of severe economic fallout if Bab al-Mandeb becomes impassable, bypassing EU delays."
     },
     {
       "title": "Rare Aztec manuscript returns to Mexico on loan after nearly two centuries in France",
@@ -1174,11 +1211,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/eac40b7e-b2e9-11f1-a029-8bce42b8e305/w:1024/p:16x9/000-C8MK2CX.jpg"
     },
     {
-      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-      "link": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
+      "title": "Drone attacks by Colombian armed groups more than double in early 2026",
+      "link": "https://www.aljazeera.com/news/2026/9/18/drone-attacks-by-colombian-armed-groups-more-than-double-in-early-2026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T01:58:54.000Z",
-      "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory."
+      "published": "2026-09-18T02:51:08.000Z",
+      "summary": "Civilians are caught in the crossfire of drone attacks between armed groups and government forces."
     },
     {
       "title": "French police officer arrested over suspected far-right terror plot",
@@ -1189,11 +1226,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/734d60f4-a19b-11f1-ba2b-005056bfb2b6/w:1024/p:16x9/000-34RN2HF.jpg"
     },
     {
-      "title": "UN findings show US strikes on Minab could be war crimes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
+      "title": "US Veteran told he is ‘embarrassing’ uniform over Israeli bonds stance",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_council-removes-us-veteran-over-israel-bond-170926?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T01:58:53.000Z",
-      "summary": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes."
+      "published": "2026-09-18T02:44:10.000Z",
+      "summary": "A veteran was told he is ‘embarrassing’ his uniform for protesting Palm Beach County’s $1B investment in Israel bonds."
     },
     {
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
@@ -1204,11 +1241,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e890/live/25bea680-b2cc-11f1-aa00-7947ea0dbeab.jpg"
     },
     {
-      "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
-      "link": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
+      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+      "link": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T01:23:44.000Z",
-      "summary": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations."
+      "published": "2026-09-18T01:58:54.000Z",
+      "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory."
     },
     {
       "title": "US Midterms: Russian disinformation campaign targets Democrats",
@@ -1219,11 +1256,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/404b89e0-b2dc-11f1-8ebd-8bce42b8e305/w:1024/p:16x9/ANGL260917-2045-Live-CS2045.jpg"
     },
     {
-      "title": "Former Assad officer sentenced to 60 years in US for torture",
-      "link": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
+      "title": "UN findings show US strikes on Minab could be war crimes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T01:15:25.000Z",
-      "summary": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad's regime."
+      "published": "2026-09-18T01:58:53.000Z",
+      "summary": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes."
     },
     {
       "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
@@ -1234,11 +1271,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg"
     },
     {
-      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
-      "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+      "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
+      "link": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T00:49:24.000Z",
-      "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
+      "published": "2026-09-18T01:23:44.000Z",
+      "summary": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations."
     },
     {
       "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
@@ -1249,11 +1286,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/09b313bc-b2cd-11f1-835c-61f6f55d211c/w:1024/p:16x9/EN-20260917-181320-182715-CS.jpg"
     },
     {
-      "title": "Iran expels Swedish diplomat in retaliatory move",
-      "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+      "title": "Former Assad officer sentenced to 60 years in US for torture",
+      "link": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T00:09:32.000Z",
-      "summary": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure."
+      "published": "2026-09-18T01:15:25.000Z",
+      "summary": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad's regime."
     },
     {
       "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
@@ -1264,11 +1301,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg"
     },
     {
-      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+      "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T00:00:00.000Z",
-      "summary": "Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'."
+      "published": "2026-09-18T00:49:24.000Z",
+      "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
     },
     {
       "title": "French fishermen to end blockades over fuel prices",
@@ -1279,11 +1316,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5833d92c-b2d7-11f1-981e-8bce42b8e305/w:1024/p:16x9/capture-16886675566aac4f1ae9c029-89417278.jpg"
     },
     {
-      "title": "Migrant sea crossings to Europe drop sharply as deaths rise: IOM",
-      "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
+      "title": "Iran expels Swedish diplomat in retaliatory move",
+      "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T23:42:37.000Z",
-      "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM."
+      "published": "2026-09-18T00:09:32.000Z",
+      "summary": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure."
     },
     {
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
@@ -1294,11 +1331,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f29/live/f45ca2b0-b29c-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "title": "US approves $414M uranium investment in Niger, two years after troops left",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T23:16:25.000Z",
-      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
+      "published": "2026-09-18T00:00:00.000Z",
+      "summary": "Trump says he faces a 'big decision' on whether to 'annihilate' his Iranian foes, adding that 'anything could happen'."
     },
     {
       "title": "AFP photo shows Trump examining image of apparent Kennedy Center razing",
@@ -1309,11 +1346,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6d25a13c-b2d5-11f1-be23-430f3874e448/w:1024/p:16x9/EN-20260917-220927-221244-CS.jpg"
     },
     {
-      "title": "Russia election: Could other parties challenge United Russia?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "title": "Migrant sea crossings to Europe drop sharply as deaths rise: IOM",
+      "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T22:19:58.000Z",
-      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?"
+      "published": "2026-09-17T23:42:37.000Z",
+      "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM."
     },
     {
       "title": "Women living in fear after body of ninth victim found outside Johannesburg",
@@ -1323,11 +1360,11 @@ window.GDC_NEWS = {
       "summary": "The discovery of the bodies of nine women in the same area on the outskirts of South Africa's biggest city, Johannesburg, in the last two months have prompted police to investigate if the…"
     },
     {
-      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+      "title": "US approves $414M uranium investment in Niger, two years after troops left",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T22:12:22.000Z",
-      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge."
+      "published": "2026-09-17T23:16:25.000Z",
+      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations."
     },
     {
       "title": "Serial killer suspicions in South Africa",
@@ -1338,11 +1375,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3611477c-b2d6-11f1-8e6b-430f3874e448/w:1024/p:16x9/capture-12071973626aac4d34225ba0-03662603.jpg"
     },
     {
-      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:42:31.000Z",
-      "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it."
+      "published": "2026-09-17T22:19:58.000Z",
+      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?"
     },
     {
       "title": "Behind the overture from the European Union to Canada",
@@ -1352,49 +1389,11 @@ window.GDC_NEWS = {
       "summary": "NPR's Mary Louise Kelly speaks with Ian Bremmer, president and founder of the Eurasia Group, about the latest developments between Canada, the European Union and the U.S."
     },
     {
-      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-17T21:38:17.000Z",
-      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis."
-    },
-    {
-      "title": "Trump threatens EU over 'hostile' Canada association plan",
-      "link": "https://www.france24.com/en/trump-threatens-eu-over-hostile-canada-association-plan",
-      "source": "France 24",
-      "published": "2026-09-17T20:04:02.000Z",
-      "summary": "US President Donald Trump threatened on Wednesday to cut trade with the European Union after the bloc proposed to make Canada its first ever associate member. \"I think it's laughable,\"…",
-      "image": "https://s.france24.com/media/display/45458dc8-b2ce-11f1-88d2-61f6f55d211c/w:1024/p:16x9/EN-20260917-203120-203742-CS.jpg"
-    },
-    {
-      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T21:27:11.000Z",
-      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen."
-    },
-    {
-      "title": "'Guess who didn't like Mark Carney's speech today? The far-right'",
-      "link": "https://www.france24.com/en/guess-who-didn-t-like-mark-carney-s-speech-today-the-far-right",
-      "source": "France 24",
-      "published": "2026-09-17T19:57:43.000Z",
-      "summary": "\"There was thunderous applause for Mark Carney, a standing ovation, the centrist MEPs all loved him, the far-left MEPs also really liked it. But guess who didn't like this speech today? The…",
-      "image": "https://s.france24.com/media/display/401bccd8-b2d1-11f1-93a8-430f3874e448/w:1024/p:16x9/EN-20260917-213420-214001-CS.jpg"
-    },
-    {
-      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-17T21:20:57.000Z",
-      "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases."
-    },
-    {
-      "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
-      "source": "NPR World",
-      "published": "2026-09-17T19:33:30.000Z",
-      "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a…",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3334+0+0/resize/5000x3334!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2Feb%2F72cdb86e42e1bc2bfacb766d508c%2Fgettyimages-1225247404.jpg"
+      "published": "2026-09-17T22:12:22.000Z",
+      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge."
     }
   ],
   "africa": [
@@ -1402,9 +1401,24 @@ window.GDC_NEWS = {
       "title": "Nigerian police probe 37 deaths in custody of suspected illegal miners",
       "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published": "2026-09-18T02:52:33.000Z",
+      "published": "2026-09-18T05:15:36.000Z",
       "summary": "Authorities linked the deaths to disease, but the official explanation has been disputed by intelligence reports and relatives of the accused.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f036/live/59294000-b305-11f1-a079-0563cfe4edc8.jpg"
+    },
+    {
+      "title": "Nigeria: At least 37 suspected illegal miners die in custody",
+      "link": "https://www.dw.com/en/nigeria-at-least-37-suspected-illegal-miners-die-in-custody/a-79316847?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-18T03:31:00.000Z",
+      "summary": "Dozens of suspects accused of illegal mining were found dead in custody in Nigeria's north-central Niger State. Officials blame disease, while reports cite overcrowding and poor ventilation."
+    },
+    {
+      "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-18T03:59:17.000Z",
+      "summary": "The mother of two young children was kidnapped last week in the middle of the day in the main city, Blantyre.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e512/live/18410a00-b305-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
@@ -1414,12 +1428,12 @@ window.GDC_NEWS = {
       "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness."
     },
     {
-      "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&at_campaign=rss",
+      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published": "2026-09-18T02:41:43.000Z",
-      "summary": "Police exchanged fire with the suspected kidnappers, who were armed with an AK-47 rifle and a pistol.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e512/live/18410a00-b305-11f1-bc1f-3f186ca4140c.jpg"
+      "published": "2026-09-17T23:24:07.000Z",
+      "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6961/live/e6754e10-b2b8-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "US approves $414M uranium investment in Niger, two years after troops left",
@@ -1666,20 +1680,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-17T11:03:18.000Z",
       "summary": "[Ghanaian Times] The implementation of the Gender Equality (Gender Equity) Act, 2024 (Act 1121), is now operational, the Minister for Gender, Children and Social Protection, Dr Agnes Naa…"
-    },
-    {
-      "title": "Ghana: IGP Engages Okada Riders On Road Safety, Registration",
-      "link": "https://allafrica.com/stories/202609170275.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-17T11:06:27.000Z",
-      "summary": "[Ghanaian Times] The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, has urged commercial motorbike riders, popularly known as Okada riders, to prioritise road safety and…"
-    },
-    {
-      "title": "Liberia: Kpelle Association Launches Dollar Rally for Ex-VP Taylor",
-      "link": "https://allafrica.com/stories/202609170262.html",
-      "source": "AllAfrica",
-      "published": "2026-09-17T10:57:53.000Z",
-      "summary": "[Liberian Observer] The National Association of the Kpelle and Kpelle-Speaking People of Liberia (NAKKSPL) has launched a solidarity fundraising campaign in support of former Liberian Vice…"
     }
   ]
 };

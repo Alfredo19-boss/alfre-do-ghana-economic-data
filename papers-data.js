@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T03:34:35.023Z",
+  "updated": "2026-09-18T05:19:42.498Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,166 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Mahama thanks Ahafo chiefs for backing NDC in 2024 election",
+      "link": "https://www.myjoyonline.com/mahama-thanks-ahafo-chiefs-for-backing-ndc-in-2024-election/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T04:27:00.000Z",
+      "summary": "President John Dramani Mahama has expressed appreciation to the Chiefs and people of the Ahafo Region for their support for him and the National Democratic Congress (NDC) during the 2024…",
+      "categories": [
+        "National",
+        "Ahafo",
+        "Chiefs",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-4.40.10-AM-1024x612.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t does not support harassment, intimidation of journalists – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/govt-does-not-support-harassment-intimidation-of-journalists-kwakye-ofosu/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T04:20:00.000Z",
+      "summary": "Felix Kwakye Ofosu, the Minister of State in charge of Government Communications, Thursday said the Government does not condone the harassment or intimidation of journalists and strongly…",
+      "categories": [
+        "National",
+        "Government",
+        "Harassment",
+        "Kwakye Ofosu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-492-e1775576520251.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "7 police officers interdicted over alleged extortion",
+      "link": "https://ghanaiantimes.com.gh/7-police-officers-interdicted-over-alleged-extortion/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:56:00.000Z",
+      "summary": "The Ghana Police Service has interdicted seven police personnel over an alleged extortion incident in Accra. According to the Police, the officers, who were members of a patrol team…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/7-police-officers-interdcited-Suspects-11-515x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Executive Women Network marks 10 years with leadership conference",
+      "link": "https://ghanaiantimes.com.gh/executive-women-network-marks-10-years-with-leadership-conference/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:54:00.000Z",
+      "summary": "The Executive Women Network (EWN), a network dedicated to supporting women in senior management and executive positions, will mark its 10th anniversary with a two-day conference and expo in…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UEFA on track to find credible challenger to Infantino",
+      "link": "https://ghanaiantimes.com.gh/uefa-on-track-to-find-credible-challenger-to-infantino/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:46:00.000Z",
+      "summary": "UEFA remains on course to find a credible challenger to FIFA President Gianni Infantino and has not allowed its campaign for change to dissolve into wishful thinking, Vice-president Laura…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2014-15 fuel queues were ‘artificial’ – NPA boss reveals lesson driving government’s strategy",
+      "link": "https://www.myjoyonline.com/2014-15-fuel-queues-were-artificial-npa-boss-reveals-lesson-driving-governments-strategy/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T03:44:00.000Z",
+      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says lessons from Ghana’s 2014–15 fuel crisis are shaping the government’s strategy to protect the downstream…",
+      "categories": [
+        "Energy",
+        "HP News 10",
+        "National",
+        "Edudzi Tamakloe",
+        "NPA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-925-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Messi scores 100th goal as Inter Miami win Campeones Cup",
+      "link": "https://ghanaiantimes.com.gh/messi-scores-100th-goal-as-inter-miami-win-campeones-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:44:00.000Z",
+      "summary": "Lionel Messi scored his 100th goal for Inter Miami ‌as the Major League Soccer side beat Mexican club Cruz Azul 2-0 to win the Campeones Cup at Nu Stadium in Florida on Wednesday. Messi…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Australia cracks down on student, backpacker visas to curb migration",
+      "link": "https://ghanaiantimes.com.gh/australia-cracks-down-on-student-backpacker-visas-to-curb-migration/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:44:00.000Z",
+      "summary": "Australia will stop foreign students from bringing partners and children to accompany them while they study and tighten working holiday visa rules, a senior minister said yesterday, amid…",
+      "categories": [
+        "World"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Pedro out of Brazil’s friendlies with injury",
+      "link": "https://ghanaiantimes.com.gh/pedro-out-of-brazils-friendlies-with-injury/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:39:00.000Z",
+      "summary": "Chelsea striker Joao Pedro has withdrawn from Brazil’s friendlies against Australia ‌and India due to injury, the national team said on Wednesday. The 24-year-old played the full game for…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "DCE calls for dedicated DACF allocation for child protection",
+      "link": "https://ghanaiantimes.com.gh/dce-calls-for-dedicated-dacf-allocation-for-child-protection/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:25:00.000Z",
+      "summary": "The District Chief Executive (DCE) for Adaklu in the Volta Region, Mr Jerry Yao Ameko, has called for a dedicated allocation from the District Assemblies Common Fund (DACF) to finance child…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Petroleum is nervous system of the economy – NPA boss explains why fuel security is national security",
+      "link": "https://www.myjoyonline.com/petroleum-is-nervous-system-of-the-economy-npa-boss-explains-why-fuel-security-is-national-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T03:23:00.000Z",
+      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, has described petroleum supply as a critical national security issue, stressing its importance to the functioning…",
+      "categories": [
+        "Energy",
+        "National",
+        "Edudzi Tamakloe",
+        "NPA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.43.52-am-1024x629.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "36 suspects arrested over lynching of police officer at Gindabour",
+      "link": "https://ghanaiantimes.com.gh/36-suspects-arrested-over-lynching-of-police-officer-at-gindabour/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-18T03:17:00.000Z",
+      "summary": "The Ghana Police Service has arrested 36 suspects in connection with the death of a police officer who was allegedly attacked and lynched by a mob at Gindabour in the Sawla-Tuna-Kalba…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "NPA puts buffers in place to stop fuel firms holding Ghana to ransom",
       "link": "https://www.myjoyonline.com/npa-puts-buffers-in-place-to-stop-fuel-firms-holding-ghana-to-ransom/",
       "source": "MyJoyOnline",
@@ -38,18 +198,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.26.47-am-1024x569.png",
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Who will pay for Ghana’s roads, schools and clinics? The Report Card points to a smarter way to finance the future",
-      "link": "https://ghanaiantimes.com.gh/who-will-pay-for-ghanas-roads-schools-and-clinics-the-report-card-points-to-a-smarter-way-to-finance-the-future/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T02:51:00.000Z",
-      "summary": "The 2026 Infrastructure Report Card marked funding as the weakest link in every single sector. The answer is not simply to borrow more. It is to finance differently, and the money Ghana…",
-      "categories": [
-        "Features"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Minority demands suspension or dismissal of NSA boss over World Cup visa allegations",
@@ -66,18 +214,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Yaw-Ampofo-Ankrah-1.jpeg",
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "1 dead after torrential rain, flash floods hit Barcelona region",
-      "link": "https://ghanaiantimes.com.gh/1-dead-after-torrential-rain-flash-floods-hit-barcelona-region/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T02:43:00.000Z",
-      "summary": "North-eastern Spain has been hit by torrential rain and flash floods, leaving one person dead and causing widespread disruption across the region. Spain’s national weather agency AEMET…",
-      "categories": [
-        "World"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "My major concern now is price – NPA boss on fuel supply",
@@ -107,135 +243,6 @@ window.GDC_PAPERS = {
         "Nigeria"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2468-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ebola outbreak in Congo is still serious, African health body says",
-      "link": "https://www.myjoyonline.com/ebola-outbreak-in-congo-is-still-serious-african-health-body-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T02:05:00.000Z",
-      "summary": "The ongoing Ebola outbreak in the Democratic Republic of the Congo is still serious, with data ​indicating gaps in infection prevention and control, ‌Africa's top public health agency said…",
-      "categories": [
-        "Africa",
-        "Congo",
-        "Ebola"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-939-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Govt to resolve CSSPS challenges before schools reopen",
-      "link": "https://ghanaiantimes.com.gh/govt-to-resolve-cssps-challenges-before-schools-reopen/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T02:01:00.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has assured parents and students facing challenges with the 2026 school placement exercise that all outstanding issues will be resolved before…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Boundary Commission takes border communities’ concerns to govt",
-      "link": "https://ghanaiantimes.com.gh/boundary-commission-takes-border-communities-concerns-to-govt/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T01:56:00.000Z",
-      "summary": "The Ghana Boundary Commission has assured residents of border communities in the Jaman North District in the Bono Region that the government would work to address their security and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Militants kill 15 in overnight Cameroon raid, village sources say",
-      "link": "https://www.myjoyonline.com/militants-kill-15-in-overnight-cameroon-raid-village-sources-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T01:55:00.000Z",
-      "summary": "Suspected Islamist militants killed at least 15 people in a pre-dawn attack on ​a village in northern Cameroon, a local vigilante and ‌an administrative authority said on Thursday",
-      "categories": [
-        "Africa",
-        "Cameroon"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/image-1014-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Libya power cuts push small businesses and weary citizens to brink",
-      "link": "https://www.myjoyonline.com/libya-power-cuts-push-small-businesses-and-weary-citizens-to-brink/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T01:44:00.000Z",
-      "summary": "Power cuts have been a fact of life for years for Naseem Al-Akkari, who owns a chain of restaurants in Libya's capital, Tripoli.",
-      "categories": [
-        "Africa",
-        "Libya",
-        "Power cuts"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2469-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Journalists urged to prioritise conflict-sensitive reporting",
-      "link": "https://ghanaiantimes.com.gh/journalists-urged-to-prioritise-conflict-sensitive-reporting/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:59:00.000Z",
-      "summary": "Journalists and media practitioners in the northern part of the country have been urged to prioritise conflict-sensitive journalism in their coverage of conflicts and related developments…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Warning labels needed to tackle NCDs – SEND Ghana",
-      "link": "https://ghanaiantimes.com.gh/warning-labels-needed-to-tackle-ncds-send-ghana/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:57:00.000Z",
-      "summary": "SEND Ghana has launched a mass media campaign to educate the public on front-of-package warning labelling and promote healthier food choices as part of efforts to prevent non-communicable…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana face Morocco Oct. 4",
-      "link": "https://ghanaiantimes.com.gh/ghana-face-morocco-oct-4/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:55:00.000Z",
-      "summary": "Ghana will play Morocco in an international friendly on Sunday, October 4, 2026, at the Grand Stade de Tanger. Both countries will use the match to assess their squads during the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kotoko target Samartex fall",
-      "link": "https://ghanaiantimes.com.gh/kotoko-target-samartex-fall/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T00:50:00.000Z",
-      "summary": "Kumasi Asante Kotoko will be looking to exact revenge on FC Samartex when the two sides clash at the Nsenkyire Sports Arena in Samreboi on Sunday for their Ghana Premier League Matchday 3…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "South Africa pushes back against new US visa curbs",
-      "link": "https://www.myjoyonline.com/south-africa-pushes-back-against-new-us-visa-curbs/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T00:05:00.000Z",
-      "summary": "South Africa on Wednesday criticised new U.S. visa restrictions, saying the ‌measures were driven by fringe groups that falsely claim to represent the country's white minority.",
-      "categories": [
-        "Africa",
-        "South Africa",
-        "US Visa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2468-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
