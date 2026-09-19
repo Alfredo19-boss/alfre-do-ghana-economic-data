@@ -1444,30 +1444,38 @@
       const name = q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`;
       return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span class="t-rev">${esc(quoteWhen(q))}</span></span>`;
     }).join("");
-    return `<span class="t-group t-group-live">Market, right now</span>${items}`;
+    return `<span class="t-group t-group-live">GH¢ market rates</span>${items}`;
   }
 
   function renderTicker() {
     if (!tickerTrack || !D.fxTicker) return;
-    const growth = allItems.find(i => i.label === "Real GDP growth");
-    const perPerson = allItems.find(i => i.label === "Income per person");
-    const gdpUsd = D.debt.nominalGdp / D.fx.usd;
     const live = liveGroup();
     const cedi = [
       `<span class="t-item t-cedi"><span class="t-code">GHS</span><span class="t-name">Ghana cedi</span><b>GH¢1.00</b><span class="t-rev">base currency · 100 pesewas</span></span>`,
       cediItem("USD", "US dollars"), cediItem("EUR", "euros"), cediItem("GBP", "pounds"), cediItem("CNY", "yuan"),
       cediItem("NGN", "naira"), cediItem("XOF", "CFA francs"), cediItem("ZAR", "rand")
     ].join("");
-    const gdp = [
-      `<span class="t-item"><span class="t-name">Nominal GDP, ${Y} projection</span><b>GH¢${fmt(D.debt.nominalGdp / 1e12, 2)} trillion</b><span class="t-name">≈ US$${fmt(gdpUsd / 1e9, 1)}bn</span></span>`,
-      growth ? `<span class="t-item"><span class="t-name">Real GDP growth</span><b>${fmt(growth.value, 1)}%</b><span class="t-name">${esc(growth.date)}</span></span>` : "",
-      perPerson ? `<span class="t-item"><span class="t-name">GDP per person</span><b>US$${fmt(perPerson.value, 0)}</b><span class="t-name">${esc(perPerson.date || "")}</span></span>` : "",
-      `<span class="t-item"><span class="t-name">Debt-to-GDP</span><b>${fmt(debtAt(Date.now()) / D.debt.nominalGdp * 100, 1)}%</b><span class="t-name">estimate</span></span>`
-    ].join("");
-    const world = D.fxTicker.world.map(tickerItem).join("");
-    const africa = D.fxTicker.africa.map(tickerItem).join("");
-    const copy = `<span class="ticker-copy">${live}<span class="t-group t-group-cedi">Ghana cedi</span>${cedi}<span class="t-group">Ghana GDP</span>${gdp}<span class="t-group">Africa vs GH¢</span>${africa}<span class="t-group">World vs GH¢</span>${world}</span>`;
-    const both = copy + copy.replace('class="ticker-copy"', 'class="ticker-copy" aria-hidden="true"');
+    // The strip used to run the cedi, then GDP, then every African currency, then the world —
+    // a full lap took longer than anyone stands in front of a screen, so the one thing people
+    // came for scrolled past once and did not come back. It now carries the cedi rates only,
+    // each with the moment it was taken. GDP is on the dashboard, the currencies are in Global
+    // markets, and the ticker is short enough to watch round.
+    // Every rate here carries the moment it was taken. The cedi-per-unit items below follow
+    // without a second heading, because they are the same rates read the other way round.
+    const copy = `<span class="ticker-copy">${live || `<span class="t-group t-group-cedi">GH¢ market rates</span>`}${cedi}</span>`;
+    // The strip scrolls one copy while the next follows it. If a single copy is narrower than
+    // the screen there would be a visible gap between them, so it is repeated until two laps
+    // comfortably cover the viewport — short content, no hole in the marquee.
+    const wide = tickerTrack ? tickerTrack.parentElement.clientWidth || 1200 : 1200;
+    const probe = document.createElement("span");
+    probe.style.cssText = "position:absolute;visibility:hidden;white-space:nowrap";
+    probe.innerHTML = copy;
+    document.body.appendChild(probe);
+    const oneLap = probe.firstElementChild ? probe.firstElementChild.getBoundingClientRect().width : wide;
+    probe.remove();
+    const laps = Math.max(2, Math.ceil((wide * 2) / Math.max(oneLap, 1)));
+    const both = Array.from({ length: laps }, (_, i) =>
+      i ? copy.replace('class="ticker-copy"', 'class="ticker-copy" aria-hidden="true"') : copy).join("");
     tickerTracks.forEach(tr => { if (tr.innerHTML !== both) tr.innerHTML = both; });
     // The strip carries two vintages at once: live market quotes stamped with the minute they
     // were taken, and the daily table, which is published for the previous business day. One
@@ -1481,13 +1489,13 @@
     const midday = liveNow.filter(q => q.daily);
     const newest = list => list.length ? list.map(q => Date.parse(q.at)).sort((a, b) => b - a)[0] : null;
     $$("[data-fx-date]").forEach(el => {
-      const daily = FXT.date ? isoDayLabel(FXT.date) : "";
+      // The strip no longer carries the published currency table, so its date does not belong
+      // in the label any more — only the stamps of what is actually scrolling past.
       const parts = [];
       const nLive = newest(intraday), nMid = newest(midday);
-      if (nLive) parts.push(`market ${liveTime(new Date(nLive).toISOString())}`);
-      if (nMid) parts.push(`mid-market ${dateFmt(new Date(nMid).toISOString())}`);
-      if (daily) parts.push(`daily table ${daily}`);
-      el.textContent = parts.join(" · ");
+      if (nMid) parts.push(dateFmt(new Date(nMid).toISOString()));
+      if (nLive) parts.push(liveTime(new Date(nLive).toISOString()));
+      el.textContent = parts.join(" · ") || (FXT.date ? isoDayLabel(FXT.date) : "");
     });
     sizeTickers();
   }
@@ -2236,7 +2244,15 @@
     const M = marketsData();
     const G = (M && M.ghana) || { equities: [] };
     const all = G.equities || [];
-    $("gse-empty").hidden = all.length > 0;
+
+    // The Ghana Stock Exchange sells its own feed, so every free source is somebody
+    // republishing it, and from GitHub's servers none of them has answered. Rather than leave
+    // an empty section apologising for itself, the whole block steps aside until prices
+    // actually arrive — and reappears on its own the moment a source starts answering.
+    const block = $("gse-block");
+    if (block) block.hidden = !all.length;
+    if (!all.length) return;
+    $("gse-empty").hidden = true;
     $("gse-status").textContent = G.updated ? `${all.length} companies · ${timeAgo(G.updated)}` : "Waiting for the first run";
 
     const index = allItems.find(i => i.label === "GSE Composite Index");

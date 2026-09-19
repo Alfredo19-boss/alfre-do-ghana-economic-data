@@ -49,7 +49,7 @@
         <a href="#dashboard" data-view-link="dashboard" aria-current="page">Dashboard</a>
         <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
         <a href="#afrnews" data-view-link="afrnews">African news</a>
-        <a href="#africa" data-view-link="africa">African inflation data</a>
+        <a href="#africa" data-view-link="africa">Africa inflation</a>
         <a href="#markets" data-view-link="markets">Global markets</a>
         <a href="#world" data-view-link="world">Global news</a>
         <a href="#papers" data-view-link="papers">Today's papers</a>
@@ -60,8 +60,8 @@
     </div>
   </div>
 
-  <div class="ticker" id="ticker" role="region" aria-label="Exchange rates against the cedi and Ghana's GDP">
-    <div class="ticker-label"><span class="ticker-dot"></span><span>GH¢ rates</span><b data-fx-date></b></div>
+  <div class="ticker" id="ticker" role="region" aria-label="Market exchange rates against the cedi">
+    <div class="ticker-label"><span class="ticker-dot"></span><span>GH¢ market rates</span><b data-fx-date></b></div>
     <div class="ticker-viewport" tabindex="0" aria-label="Scrolling rates. Hover or focus to pause."><div class="ticker-track" id="ticker-track"></div></div>
     <button type="button" class="ticker-pause" id="ticker-pause" aria-pressed="false" aria-label="Pause the ticker">
       <svg viewBox="0 0 16 16" aria-hidden="true"><rect x="3" y="2.5" width="3.2" height="11" rx="1"/><rect x="9.8" y="2.5" width="3.2" height="11" rx="1"/></svg>
@@ -439,12 +439,12 @@
       <p class="note" id="afrnews-note"></p>
     </section>
 
-    <!-- African inflation data -->
+    <!-- Africa inflation -->
     <section class="portal" id="africa-view" aria-labelledby="h-africa" hidden>
       <div class="portal-head">
         <div>
           <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-africa">African inflation data</h1>
+          <h1 id="h-africa">Africa inflation</h1>
           <p class="news-intro" id="africa-intro"></p>
         </div>
         <span class="live"><i></i><span id="africa-status">Loading…</span></span>
