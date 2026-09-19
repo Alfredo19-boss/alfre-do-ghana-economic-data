@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-18T22:09:52.172Z",
+  "updated": "2026-09-19T00:18:30.924Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,12 +25,61 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "‘Relax, I’m not contesting you in 2028’ — DVLA CEO tells Zanetor",
+      "link": "https://www.myjoyonline.com/relax-im-not-contesting-you-in-2028-dvla-ceo-tells-zanetor/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T23:12:27.000Z",
+      "summary": "Chief Executive Officer of the Driver and Vehicle Licensing Authority (DVLA), Julius Neequaye Kotey, has dismissed speculation that he is preparing to challenge Klottey Korle MP Dr Zanetor…",
+      "categories": [
+        "HP News 4",
+        "Politics",
+        "DVLA CEO",
+        "Parliamentary election",
+        "Zanetor Rawlings"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_4725.jpg-696x464-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Insurance sector offers huge job opportunities as Ghana faces actuarial skills shortage — GIU Rector",
+      "link": "https://www.myjoyonline.com/insurance-sector-offers-huge-job-opportunities-as-ghana-faces-actuarial-skills-shortage-giu-rector/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T22:32:39.000Z",
+      "summary": "The insurance industry offers significant employment opportunities for young people, particularly in specialised fields such as actuarial science and statistics, Rector of the Ghana…",
+      "categories": [
+        "National",
+        "Actuarial skills shortage",
+        "insurance sector",
+        "Job Opportunities"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/66632451.295.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Newsfile to discuss Ghana Jollof nurse case, cocaine shipment, COVID audit and constitutional reforms",
+      "link": "https://www.myjoyonline.com/newsfile-to-discuss-ghana-jollof-nurse-case-cocaine-shipment-covid-audit-and-constitutional-reforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T22:21:55.000Z",
+      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, September 19, 2026, examine four major national issues that have dominated public discourse over the past week…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Cocaine",
+        "COvid",
+        "Ghana Jollof",
+        "Newsfile"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-21.55.01-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "CPP urges Ghanaians to revive Nkrumah’s vision of self-reliance and industrialisation",
       "link": "https://www.myjoyonline.com/cpp-urges-ghanaians-to-revive-nkrumahs-vision-of-self-reliance-and-industrialisation/",
       "source": "MyJoyOnline",
       "published": "2026-09-18T21:58:40.000Z",
       "summary": "The General Secretary of the Convention People’s Party (CPP), Harold Stephen Ato Eshun, has called on Ghanaians to renew their commitment to Dr Kwame Nkrumah’s vision of economic…",
       "categories": [
+        "HP News 3",
         "National",
         "CPP",
         "industralisation",
@@ -55,6 +104,23 @@ window.GDC_PAPERS = {
         "Human rights promoters"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_9710-1024x768-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Why Republic Bank is betting big on mortgages",
+      "link": "https://www.myjoyonline.com/why-republic-bank-is-betting-big-on-mortgages/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-18T21:20:00.000Z",
+      "summary": "Republic Bank (Ghana) PLC is putting mortgage financing back at the centre of its growth strategy, with Managing Director, Dr Benjamin Dzoboku, saying the move represents a return to the…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "News",
+        "Habitat Fair",
+        "Joy News",
+        "Republic Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MD1.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -83,66 +149,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Western-Regional-YMCA-turns-plastic-waste-into-school-bags-for-pupils-1-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Do you have the capacity to investigate narcotic seizure? – Majority questions Minority’s recall of Parliament",
-      "link": "https://www.myjoyonline.com/do-you-have-the-capacity-to-investigate-narcotic-seizure-majority-questions-minoritys-recall-of-parliament/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T20:18:44.000Z",
-      "summary": "The Deputy Majority Whip, Richard Acheampong, has questioned the Minority’s capacity to independently investigate recent major narcotics seizures linked to Ghana, following its request for…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Minority",
-        "Narcotic seizure",
-        "Richard Acheampong"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Acheampong-and-Habib-1024x752.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alidu Seidu joins OGC Nice on loan",
-      "link": "https://www.myjoyonline.com/alidu-seidu-joins-ogc-nice-on-loan/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T19:26:35.000Z",
-      "summary": "Ghana defender Alidu Seidu has joined French Ligue 1 side OGC Nice on loan from Stade Rennais until the end of the 2026/27 season. The 26-year-old has moved to Nice as a joker signing…",
-      "categories": [
-        "Football",
-        "Sports",
-        "alidu seidu",
-        "OGC Nice",
-        "Rennes"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ef13af86-4a4b-4098-a3e4-b8c67435ba14.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Thunderstorms, rain expected across several regions this evening – GMet",
-      "link": "https://www.myjoyonline.com/thunderstorms-rain-expected-across-several-regions-this-evening-gmet/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T19:25:08.000Z",
-      "summary": "The Ghana Meteorological Agency (GMet) says thunderstorms and rain currently affecting parts of the Oti, Eastern and Northern Regions are expected to spread to other parts of the country…",
-      "categories": [
-        "National",
-        "Ghana Meteorological Agency (GMet)",
-        "Thunderstorms"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Thunderstorm-and-rains-754x424-1.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ten female entrepreneurs graduate from the Standard Chartered Foundation Women in Tech Accelerator",
-      "link": "https://www.myjoyonline.com/ten-female-entrepreneurs-graduate-from-the-standard-chartered-foundation-women-in-tech-accelerator/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T19:11:25.000Z",
-      "summary": "Standard Chartered Bank Ghana PLC held the Pitch Day and Graduation ceremony for the sixth cohort of its Women in Tech programme, celebrating ten women entrepreneurs who completed the…",
-      "categories": [
-        "Banking and Finance",
-        "Standard Chartered",
-        "Wome In Tech"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/A95A9869.jpg-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
