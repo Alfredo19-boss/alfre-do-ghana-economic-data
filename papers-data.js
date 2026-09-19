@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T21:01:11.323Z",
+  "updated": "2026-09-19T22:53:07.930Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,122 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Samia Nkrumah rejects the narrative that Ghanaians were happy after Nkrumah’s overthrow",
+      "link": "https://www.myjoyonline.com/samia-nkrumah-rejects-the-narrative-that-ghanaians-were-happy-after-nkrumahs-overthrow/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T22:29:23.000Z",
+      "summary": "Samia Yaba Nkrumah has rejected narratives suggesting that Ghanaians universally welcomed the overthrow of her father, Ghana’s first President, Osagyefo Dr Kwame Nkrumah, in 1966. Speaking…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Kwame Nkrumah",
+        "Overthrow",
+        "Samia Nkrumah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-15.38.46-1-800x600-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "A Mother’s pain: Tribute by Ivan Baidoo’s mother",
+      "link": "https://www.myjoyonline.com/a-mothers-pain-tribute-by-ivan-baidoos-mother/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T22:17:04.000Z",
+      "summary": "“My beloved son, my pride and my joy, How do I find the words to speak about a pain that words cannot explain? How do I accept that the child I carried in my womb, gave birth to,nurtured…",
+      "categories": [
+        "Features",
+        "National",
+        "Ivan Baidoo",
+        "Tribute"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-97-e1789856208819-1024x588.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Forgive us for staying away’ — Samia Nkrumah leads family back to Nkroful, pledges to preserve Nkrumah’s legacy",
+      "link": "https://www.myjoyonline.com/forgive-us-for-staying-away-samia-nkrumah-leads-family-back-to-nkroful-pledges-to-preserve-nkrumahs-legacy/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T22:06:05.000Z",
+      "summary": "The family of Ghana’s first President, Osagyefo Dr Kwame Nkrumah, has returned to Nkroful with a renewed commitment to preserving his legacy and reconnecting younger generations with his…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "Kwame Nkrumah",
+        "Nkroful",
+        "Samia Nkrumah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-15.38.46-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ernest Nuamah scores twice as Lyon beat Rennes",
+      "link": "https://www.myjoyonline.com/ernest-nuamah-scores-twice-as-lyon-beat-rennes/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T22:01:59.000Z",
+      "summary": "Nuamah scored twice in the 4-0 drubbing of Rennes as his side moved to second position on the league table.",
+      "categories": [
+        "Football",
+        "HP News 7",
+        "National",
+        "Ernest Nuamah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ernest-Nuamah-1-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘My dear Ivan’ – A father’s tribute to a son tragically killed",
+      "link": "https://www.myjoyonline.com/my-dear-ivan-a-fathers-tribute-to-a-son-tragically-killed/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T21:58:21.000Z",
+      "summary": "“My Dear Ivan, I left the house on the morning of 27th August 2026 for work, only to return in the evening to be informed that you had been involved in an accident and had tragically died…",
+      "categories": [
+        "Features",
+        "In Focus",
+        "National",
+        "Ivan Baidoo",
+        "Tribute"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-96-e1789855096625-1024x777.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GNPC Explorco advances Voltaian Basin drilling preparations with 13.5km access road",
+      "link": "https://www.myjoyonline.com/gnpc-explorco-advances-voltaian-basin-drilling-preparations-with-13-5km-access-road/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T21:52:26.000Z",
+      "summary": "Preparations for the first exploratory well in Ghana’s onshore Voltaian Basin have advanced with a high-level inspection of the proposed well location at Chegu in the Mion District. A…",
+      "categories": [
+        "Energy",
+        "National",
+        "News",
+        "Regional",
+        "Top Story",
+        "drilling preparations",
+        "GNPC",
+        "Voltaian basin"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/CPM0751-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cabinet approves facility manager for Borteyman Sports Complex – Kofi Adams",
+      "link": "https://www.myjoyonline.com/cabinet-approves-facility-manager-for-borteyman-sports-complex-kofi-adams/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T21:02:30.000Z",
+      "summary": "Minister for Sports and Recreation Kofi Adams says Cabinet has approved the appointment of a facility manager for the Borteyman Sports Complex. The Borteyman Multipurpose Sports Facility…",
+      "categories": [
+        "Athletics",
+        "Football",
+        "HP News 9",
+        "National",
+        "Other Sports",
+        "Sports",
+        "Borteyman Sports Complex",
+        "Kofi Adams"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/bort-1024x662.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Sanitation is improving; critics may be ‘living in another world’ – Salaga South MP replies Bekwai MP",
       "link": "https://www.myjoyonline.com/sanitation-is-improving-critics-may-be-living-in-another-world-salaga-south-mp-replies-bekwai-mp/",
       "source": "MyJoyOnline",
@@ -38,116 +154,6 @@ window.GDC_PAPERS = {
         "Sanitation"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/zu-1024x526.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government must do more to tackle sanitation crisis – Bekwai MP",
-      "link": "https://www.myjoyonline.com/government-must-do-more-to-tackle-sanitation-crisis-bekwai-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T20:55:35.000Z",
-      "summary": "Deputy Ranking Member on Parliament’s Select Committee on Sanitation and Water Resources, and Member of Parliament for Bekwai, Ralph Poku-Adusei, says that the government must do more to…",
-      "categories": [
-        "National",
-        "News",
-        "Bekwai MP",
-        "Government",
-        "sanitation crisis"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ralph-1024x538.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Cleanup Day: GFF begins sanitation education in local communities",
-      "link": "https://www.myjoyonline.com/world-cleanup-day-gff-begins-sanitation-education-in-local-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T20:37:16.000Z",
-      "summary": "The Head of Community Environmental Research, Haggar Quao, said her outfit will spread the gospel of environmental sanitation and be deliberate in its actions in protecting the environment.",
-      "categories": [
-        "News",
-        "GF Foundation",
-        "Haggar Quao",
-        "World Cleanup Day"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-17.07.38-1024x694.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EU Ambassador, IGP discuss stronger cooperation on policing and security",
-      "link": "https://www.myjoyonline.com/eu-ambassador-igp-discuss-stronger-cooperation-on-policing-and-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T20:27:36.000Z",
-      "summary": "European Union (EU) Ambassador to Ghana, Rune Skinnebach, has paid a courtesy call on the Inspector-General of Police (IGP), Christian Tetteh Yohuno, to strengthen cooperation between the…",
-      "categories": [
-        "National",
-        "Christian Tetteh Yohuno",
-        "European Union (EU) Ambassador to Ghana",
-        "Rune Skinnebach"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/818353610_1072960201988937_8079604826925562274_n-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa Nations Volleyball Championship: Ghana set up quarterfinal clash with Cameroon after beating Chad",
-      "link": "https://www.myjoyonline.com/africa-nations-volleyball-championship-ghana-set-up-quarterfinal-clash-with-cameroon-after-beating-chad/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T20:10:59.000Z",
-      "summary": "The Black Spikers defeated Chad in the round of 16 of the competition, claiming a 3-0 straight set win to ensure they made the last eight of the championship.",
-      "categories": [
-        "National",
-        "Other Sports",
-        "Africa Nations Volleyball Championship",
-        "Black Spikers",
-        "Cameroon",
-        "Chad"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ghana-Black-Spikers-1-1024x680.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Meet Dr Benjamin Appiah Osei — Ghana’s three-time tourism awards winner",
-      "link": "https://www.myjoyonline.com/meet-dr-benjamin-appiah-osei-ghanas-three-time-tourism-awards-winner/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T19:42:22.000Z",
-      "summary": "The KNUST academic using education, technology and digital storytelling to make hospitality and tourism accessible to all. For Dr. Benjamin Appiah Osei, tourism is more than a profession…",
-      "categories": [
-        "National",
-        "awards winner",
-        "Dr Benjamin Appiah Osei",
-        "Tourism"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2716-683x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UEFA & CONCACAF demand Fifa pays $10m to all 211 members",
-      "link": "https://www.myjoyonline.com/uefa-concacaf-demand-fifa-pays-10m-to-all-211-members/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T19:41:08.000Z",
-      "summary": "UEFA and CONCACAF have written to Gianni Infantino, calling on FIFA to pay at least $10m (£7.5m) from its cash reserves to each of the 211 member associations.",
-      "categories": [
-        "Football",
-        "National",
-        "Concacaf",
-        "FIFA",
-        "UEFA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2794.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Inter fight back again to snatch draw at leaders Roma",
-      "link": "https://www.myjoyonline.com/inter-fight-back-again-to-snatch-draw-at-leaders-roma/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T19:37:14.000Z",
-      "summary": "Defending champions Inter Milan came from 2-0 down for the third Serie A game in a row to earn a dramatic draw against leaders Roma.",
-      "categories": [
-        "Football",
-        "Inter",
-        "Lautaro Martinez",
-        "Roma",
-        "Serie A"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2793.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

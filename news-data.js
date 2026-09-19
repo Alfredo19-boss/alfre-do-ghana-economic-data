@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-19T21:00:58.904Z",
-  "worldAt": "2026-09-19T21:00:58.900Z",
+  "updated": "2026-09-19T22:52:56.190Z",
+  "worldAt": "2026-09-19T22:52:56.188Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -46,6 +46,13 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "GNPC Explorco advances Voltaian Basin drilling preparations with 13.5km access road",
+      "link": "https://www.myjoyonline.com/gnpc-explorco-advances-voltaian-basin-drilling-preparations-with-13-5km-access-road/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T21:52:26.000Z",
+      "summary": "Preparations for the first exploratory well in Ghana’s onshore Voltaian Basin have advanced with a high-level inspection of the proposed well location at Chegu in the Mion District. A…"
+    },
     {
       "title": "Ghana’s Borrowers Relied Heavily on Cash as Collateral for Secured Credit in Q2",
       "link": "https://thehighstreetjournal.com/ghanas-borrowers-relied-heavily-on-cash-as-collateral-for-secured-credit-in-q2/",
@@ -1088,16 +1095,31 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-16T16:00:00.000Z",
       "summary": "The World Trade Organization (WTO) is facing its most sustained disruption in decades as shifts in global economic power, rising government intervention, geopolitical tensions and…"
-    },
-    {
-      "title": "Businesses Urged To Cut Costs As Producer Inflation Rises",
-      "link": "https://thehighstreetjournal.com/businesses-urged-to-cut-costs-as-producer-inflation-rises/",
-      "source": "The High Street Journal",
-      "published": "2026-09-16T15:35:00.000Z",
-      "summary": "Ghanaian businesses are being urged to strengthen cost controls, diversify suppliers and invest in productivity as producer inflation rises, particularly across industry and mining-related…"
     }
   ],
   "world": [
+    {
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T22:03:05.000Z",
+      "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis."
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T21:01:56.000Z",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
+    },
+    {
+      "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T20:47:20.000Z",
+      "summary": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip."
+    },
     {
       "title": "Two arrested for Louvre stunt 'for fun' in Mona Lisa hall",
       "link": "https://www.france24.com/en/france/20260919-two-arrested-for-louvre-stunt-for-fun-in-mona-lisa-hall",
@@ -1118,7 +1140,7 @@ window.GDC_NEWS = {
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-09-19T20:16:07.000Z",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg"
     },
     {
@@ -1372,28 +1394,6 @@ window.GDC_NEWS = {
       "published": "2026-09-19T13:04:36.000Z",
       "summary": "As the West continues to denounce Russian aggression in Ukraine and to support Kyiv with a host of economic and military measures, Russian President Vladimir Putin says that Nato is…",
       "image": "https://s.france24.com/media/display/38d1d742-b42a-11f1-aa92-9ff5c3f464d4/w:1024/p:16x9/EN-20260919-131011-131847-CS.jpg"
-    },
-    {
-      "title": "UEFA defends policy after rejecting Ireland’s request not to play Israel",
-      "link": "https://www.aljazeera.com/sports/2026/9/19/uefa-defends-policy-after-rejecting-irelands-request-not-to-play-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T15:04:39.000Z",
-      "summary": "UEFA responds after Ireland's football association says its request to avoid future pairings with Israel was ⁠⁠rejected."
-    },
-    {
-      "title": "Millions without power in Cuba as electrical grid collapses again",
-      "link": "https://www.france24.com/en/millions-without-power-in-cuba-as-electrical-grid-collapses-again",
-      "source": "France 24",
-      "published": "2026-09-19T13:01:52.000Z",
-      "summary": "Cuba was plunged into its seventh massive blackout of the year on Friday. The island of over nine million people endures constant power cuts due to the poor state of its aging…",
-      "image": "https://s.france24.com/media/display/200f6eae-b42a-11f1-b7ad-0730212ba17f/w:1024/p:16x9/2026-09-19T023408Z-1676795578-RC20MNAYWKDZ-RTRMADP-3-CUBA-CRISIS.jpg"
-    },
-    {
-      "title": "Syria says blast at military site in Deir Az Zor killed 11",
-      "link": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T14:55:18.000Z",
-      "summary": "Syrian army holds funeral for soldiers killed in ammunition blast in town of Ayyash, in western Deir Az Zor, on Friday."
     }
   ],
   "africa": [
