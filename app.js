@@ -729,7 +729,7 @@
       const age = staleDays(it);
       const nowQ = liveFor(it.label);
       const facts = [
-        nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(liveTime(nowQ.at))}</span>`) : "",
+        nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(quoteWhen(nowQ))}</span>`) : "",
         factRow(nowQ ? "Official reading" : "Latest reading", showVal(it.value, u)),
         factRow("Period", esc(it.date || "—")),
         it.sourceNewer ? factRow("A newer figure exists", `${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} · ${esc(it.sourceNewer.source)}, ${esc(it.sourceNewer.date)}`) : "",
@@ -1309,17 +1309,27 @@
   // Market quotes taken through the day (live-data.js, every 20 minutes). The Bank of Ghana's
   // interbank rate stays the official figure; this is what the market is quoting right now.
   const liveData = () => window.GDC_LIVE || null;
-  const LIVE_MAX_AGE = 8 * 3600e3;          // older than this and it is not "now" any more
+  // An intraday quote stops being "now" after eight hours. A daily mid-market rate is stamped
+  // midnight and is the rate for the whole of that day, so it is allowed two days before it
+  // counts as stale — otherwise the cedi would vanish from the page every afternoon.
+  const LIVE_MAX_AGE = 8 * 3600e3;
+  const DAILY_MAX_AGE = 48 * 3600e3;
   function liveQuotes() {
     const LV = liveData();
     if (!LV || !LV.quotes) return [];
     return Object.entries(LV.quotes)
-      .filter(([, q]) => q && typeof q.value === "number" && q.at && Date.now() - Date.parse(q.at) < LIVE_MAX_AGE)
+      .filter(([, q]) => q && typeof q.value === "number" && q.at
+        && Date.now() - Date.parse(q.at) < (q.daily ? DAILY_MAX_AGE : LIVE_MAX_AGE))
       .map(([key, q]) => ({ key, ...q }));
   }
   const LIVE_LABELS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur", "Chinese yuan": "cny", "Gold price": "gold" };
   const liveFor = label => liveQuotes().find(q => q.key === LIVE_LABELS[label]) || null;
-  const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "numeric", minute: "2-digit", hour12: true, timeZone: "UTC" }).toUpperCase() + " GMT";  // The Bank of Ghana's own interbank rate, read straight from their daily page every twenty
+  const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
+  // A quote taken at a minute says the minute; a daily mid-market rate says the day it is for.
+  // Putting a time on a daily rate would claim a precision the source does not have.
+  const quoteWhen = q => q && q.daily ? dateFmt(q.at) : liveTime(q.at);
+  const quoteKind = q => q && q.daily ? "mid-market" : "market";
+  // The Bank of Ghana's own interbank rate, read straight from their daily page every twenty
   // minutes by the live-rates job. This is the dashboard's headline figure.
   const BOG_KEYS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur" };
   const BOG_MAX_AGE = 7 * 864e5;            // a BoG reading older than a week is not "the rate"
@@ -1394,7 +1404,7 @@
           if (chip && when) { chip.className = "date auto"; chip.textContent = when; chip.removeAttribute("title"); }
         }
         el.innerHTML = `<span class="at">${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>`
-          + (q ? `<span class="mkt"><b class="official">${shown}${arrow}</b><span>market · ${esc(liveTime(q.at))}</span></span>` : "");
+          + (q ? `<span class="mkt"><b class="official">${shown}${arrow}</b><span>${esc(quoteKind(q))} · ${esc(quoteWhen(q))}</span></span>` : "");
       } else {
         if (mono) mono.innerHTML = `${shown}${arrow}`;
         // the figure in the big type is today's world price, so the corner date says today
@@ -1403,7 +1413,7 @@
           const chip = cell.querySelector(".stat-top .date, .stat-top .chip");
           if (chip) { chip.className = "date auto"; chip.textContent = dateFmt(q.at); chip.removeAttribute("title"); }
         }
-        el.innerHTML = `<span class="at">market · ${esc(liveTime(q.at))}</span>`
+        el.innerHTML = `<span class="at">${esc(quoteKind(q))} · ${esc(quoteWhen(q))}</span>`
           + (off ? `<b class="official">${esc(off)}</b><span>${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>` : "");
       }
       el.hidden = false;
@@ -1432,7 +1442,7 @@
       const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
       const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
       const name = q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`;
-      return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span class="t-rev">${esc(liveTime(q.at))}</span></span>`;
+      return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span class="t-rev">${esc(quoteWhen(q))}</span></span>`;
     }).join("");
     return `<span class="t-group t-group-live">Market, right now</span>${items}`;
   }
@@ -1463,13 +1473,21 @@
     // were taken, and the daily table, which is published for the previous business day. One
     // bare date beside both reads as though everything is that old, so the label says which
     // is which whenever a live quote is present.
+    // The strip can carry three vintages: a quote taken at a minute, a daily mid-market rate,
+    // and the published table. The label names whichever is actually there rather than putting
+    // one bare date beside all of them, which reads as though everything is that old.
     const liveNow = liveQuotes();
-    const newestLive = liveNow.length ? liveNow.map(q => Date.parse(q.at)).sort((a, b) => b - a)[0] : null;
+    const intraday = liveNow.filter(q => !q.daily);
+    const midday = liveNow.filter(q => q.daily);
+    const newest = list => list.length ? list.map(q => Date.parse(q.at)).sort((a, b) => b - a)[0] : null;
     $$("[data-fx-date]").forEach(el => {
       const daily = FXT.date ? isoDayLabel(FXT.date) : "";
-      el.textContent = newestLive
-        ? `market ${liveTime(new Date(newestLive).toISOString())} · daily table ${daily}`
-        : daily;
+      const parts = [];
+      const nLive = newest(intraday), nMid = newest(midday);
+      if (nLive) parts.push(`market ${liveTime(new Date(nLive).toISOString())}`);
+      if (nMid) parts.push(`mid-market ${dateFmt(new Date(nMid).toISOString())}`);
+      if (daily) parts.push(`daily table ${daily}`);
+      el.textContent = parts.join(" · ");
     });
     sizeTickers();
   }
@@ -2955,7 +2973,7 @@
     const note = alfLang === "en" && it.note ? `<span class="alf-note">${toneNote(it.note, it.tone)}</span>` : "";
     const nowQ = liveFor(it.label);
     const liveLine = nowQ
-      ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`, time: esc(liveTime(nowQ.at)) })}</span>`
+      ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`, time: esc(quoteWhen(nowQ)) })}</span>`
       : "";
     // a picture of where the figure has been, and a way through to the full detail.
     // Its own recent readings come first — they are closer to the figure being quoted than
@@ -3276,7 +3294,7 @@
   // "What to expect" — honestly answered. Direction of travel, what is due, what would move it.
   // Deliberately no projected numbers: this site has never printed a figure nobody published.
   function alfWatch() {
-    const bits = [`I don't forecast, so I won't put a number on next month. What I can do is tell you which way things are travelling and what is due.`];
+    const bits = [`I can run the counters forward if you name a date — ask me what the debt or the debt-to-GDP ratio will be by December. What I won't do is guess at a surveyed figure like inflation. Here is which way things are travelling and what is due.`];
     const moved = [];
     for (const label of ["Inflation", "BoG policy rate", "91-day T-bill", "US dollar", "Gold price"]) {
       const it = alfRead(label);
@@ -3290,6 +3308,215 @@
     bits.push(`The debt counter will keep climbing whatever happens — it counts forward from the last two official totals, so it moves at the same pace until a new figure is published.`);
     bits.push(`If you want my honest advice on what matters: watch inflation against the policy rate, and watch the cedi. Those two set nearly everything else on this page.`);
     return bits.join(" ");
+  }
+
+  /* ================= projecting a counter forward =================
+   * The debt clock already extrapolates: it counts forward from the last two official totals
+   * at the pace measured between them. Asking what the figure will be in December is the same
+   * arithmetic run further, so it is a fair thing to answer — as long as it is called what it
+   * is. Every projection here says the assumption out loud and shows the sum. Readings that
+   * are surveyed rather than counted (inflation, unemployment, the T-bill) are NOT projected:
+   * there is no pace to run forward, and inventing one would be a forecast wearing a sum's
+   * clothing.
+   */
+  const ALF_MONTHS = { january: 0, february: 1, march: 2, april: 3, may: 4, june: 5, july: 6, august: 7, september: 8, october: 9, november: 10, december: 11, jan: 0, feb: 1, mar: 2, apr: 3, jun: 5, jul: 6, aug: 7, sep: 8, sept: 8, oct: 9, nov: 10, dec: 11 };
+  const endOfMonth = (y, m) => Date.UTC(y, m + 1, 0, 23, 59, 59);
+
+  function alfTargetDate(q) {
+    const now = new Date();
+    let m = /\bin (\d{1,3}) (day|days|week|weeks|month|months|year|years)\b/.exec(q);
+    if (m) {
+      const n = +m[1], d = new Date(now);
+      if (/month/.test(m[2])) d.setUTCMonth(d.getUTCMonth() + n);
+      else if (/year/.test(m[2])) d.setUTCFullYear(d.getUTCFullYear() + n);
+      else if (/week/.test(m[2])) d.setUTCDate(d.getUTCDate() + n * 7);
+      else d.setUTCDate(d.getUTCDate() + n);
+      return { at: d.getTime(), label: dateFmt(d.toISOString()) };
+    }
+    m = /\b(?:by|in|at|end of|before|come)\s+(?:the\s+)?(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|sept|oct|nov|dec)\b(?:\s+(\d{4}))?/.exec(q);
+    if (m) {
+      const mo = ALF_MONTHS[m[1]];
+      let y = m[2] ? +m[2] : now.getUTCFullYear();
+      if (!m[2] && mo < now.getUTCMonth()) y++;              // "by March" said in September means next March
+      const at = endOfMonth(y, mo);
+      return { at, label: `the end of ${dateFmt(new Date(at).toISOString()).replace(/^\d+\s/, "")}` };
+    }
+    if (/\b(end of (the )?year|year.?end|by christmas|31 december|december 31)\b/.test(q)) {
+      const at = endOfMonth(now.getUTCFullYear(), 11);
+      return { at, label: `the end of ${now.getUTCFullYear()}` };
+    }
+    if (/\bnext year\b/.test(q)) {
+      const at = endOfMonth(now.getUTCFullYear() + 1, 11);
+      return { at, label: `the end of ${now.getUTCFullYear() + 1}` };
+    }
+    m = /\b(20[2-9]\d)\b/.exec(q);
+    if (m && +m[1] > now.getUTCFullYear()) {
+      const at = endOfMonth(+m[1], 11);
+      return { at, label: `the end of ${m[1]}` };
+    }
+    return null;
+  }
+
+  const ALF_PROJECTABLE = [
+    [/(debt to gdp|debt-to-gdp|ratio|per cent of gdp|percent of gdp)/, "ratio", "debt-to-GDP", t => LIVE.ratio[0](t), v => `${fmt(v, 1)}%`],
+    [/(per person|per head|each (ghanaian|person)|per capita)/, "percap", "debt per person", t => LIVE.percap[0](t), v => alfMoney(v)],
+    [/(domestic debt|owed at home)/, "dom", "domestic debt", t => LIVE.dom[0](t), v => alfMoney(v)],
+    [/(external debt|foreign debt|owed abroad)/, "ext", "external debt", t => LIVE.ext[0](t), v => alfMoney(v)],
+    [/(population|how many people)/, "pop", "the population", t => popAt(t), v => fmt(v, 0)],
+    [/(debt|owe|borrow)/, "debt", "the total debt", t => debtAt(t), v => alfMoney(v)]
+  ];
+
+  function alfProject(q) {
+    const target = alfTargetDate(q);
+    if (!target) return null;
+    if (target.at <= Date.now()) return `That date has already passed, so I can give you the figure rather than a projection — ask me without the date and I'll read it off the counter.`;
+
+    const hit = ALF_PROJECTABLE.find(([re]) => re.test(q));
+    if (!hit) {
+      // Named a date but not something the counters extrapolate.
+      return `I can only run a figure forward when the dashboard already counts it forward — the debt, the debt-to-GDP ratio, debt per person, the domestic and external split, and the population. Inflation, the T-bill and the rest are surveyed and published, not counted, so there is no pace to project and I would only be guessing. Ask me about one of the counters with your date, or ask what to watch and I'll tell you which way things are travelling.`;
+    }
+    const [, , name, calc, show] = hit;
+    const now = Date.now();
+    const a = calc(now), b = calc(target.at);
+    const days = Math.max(1, Math.round((target.at - now) / DAY / SEC));
+    const diff = b - a;
+    const dir = diff > 0 ? "higher" : diff < 0 ? "lower" : "unchanged";
+
+    let arith = "";
+    if (hit[1] === "ratio") {
+      arith = `The ratio is the debt divided by nominal GDP of ${alfMoney(D.debt.nominalGdp)}, which is the ${esc(D.debt.gdpLabel || "latest published")} figure and is held flat — so this shows the debt growing against an economy that is not growing in the sum. Real GDP will rise over the same period, which would pull the true ratio below this.`;
+    } else if (hit[1] === "pop") {
+      arith = `That grows at ${fmt(D.population.growth * 100, 1)}% a year from the published projection.`;
+    } else {
+      arith = `That is ${sym()}${fmt(money(rate.total), 0)} a second for ${fmt(days, 0)} days, the pace measured between ${esc(P.label)} and ${esc(L.label)}.`;
+    }
+
+    return `<b>${show(b)}</b> by ${esc(target.label)} — ${esc(name)}, ${dir === "unchanged" ? "about where it is now" : `${show(Math.abs(diff))} ${dir} than the ${show(a)} showing right now`}. `
+      + `${arith} `
+      + `<span class="alf-note">This is a projection, not a forecast. It is the dashboard's own arithmetic run forward and it assumes today's pace simply continues — no new borrowing decision, no repayment, no shock. Treat it as "where this ends up if nothing changes", which is the one thing that never quite happens.</span>`;
+  }
+
+  /* ================= the ideas behind the figures =================
+   * Plain-language explanations, written for somebody who has not studied economics. They are
+   * general knowledge rather than anything about Ghana specifically — where a Ghanaian figure
+   * exists, it gets added underneath so the idea and the number arrive together.
+   */
+  const ALF_TEACH = [
+    ["inflation", "Inflation is how fast prices are rising, measured as a percentage over twelve months. If inflation is 5%, something that cost GH¢100 a year ago costs about GH¢105 now. The most-missed point: when inflation <em>falls</em>, prices are still rising — just more slowly. Prices only fall when inflation goes below zero, which is called deflation and is rarer and usually worse."],
+    ["deflation", "Deflation is inflation below zero — prices actually falling. It sounds good and generally is not: people put off buying because things will be cheaper next month, so businesses sell less, cut jobs, and the cycle deepens."],
+    ["gross domestic product", "GDP is the value of everything a country produces in a year. \"Nominal\" GDP counts it at today's prices; \"real\" GDP strips inflation out, so real growth tells you whether the country actually produced more rather than just charged more."],
+    ["gdp", "GDP is the value of everything a country produces in a year. \"Nominal\" GDP counts it at today's prices; \"real\" GDP strips inflation out, so real growth tells you whether the country actually produced more rather than just charged more."],
+    ["debt to gdp", "The debt-to-GDP ratio is what a country owes divided by what it produces in a year, as a percentage. It matters more than the raw debt because it asks whether the country can carry the load: the same GH¢100bn is crushing for a small economy and comfortable for a large one. It can fall two ways — paying debt down, or growing the economy faster than the debt."],
+    ["policy rate", "The policy rate is what the central bank charges commercial banks to borrow. It is the lever monetary policy is pulled with: raise it and borrowing gets dearer everywhere, which cools spending and, in time, inflation. Lower it and the opposite happens. Every other interest rate in the country is built on top of it."],
+    ["real interest rate", "The real interest rate is the interest rate minus inflation. If a bank pays 10% and inflation is 12%, you are earning 10% and losing 12% — a real rate of minus 2%, so your money buys less at the end of the year than at the start. It is the number that tells you whether saving is actually worth it."],
+    ["treasury bill", "A treasury bill is a short-term loan to the government, usually 91, 182 or 364 days. You buy it below face value and are paid the full face value at maturity; the difference is your return. They are considered the safest local investment because the government would have to fail to repay for you to lose."],
+    ["t-bill", "A treasury bill is a short-term loan to the government, usually 91, 182 or 364 days. You buy it below face value and are paid the full face value at maturity; the difference is your return. They are the benchmark every other local interest rate is judged against."],
+    ["bond", "A bond is a longer-term loan to a government or company. You lend a sum, receive interest (the \"coupon\") at fixed intervals, and get the sum back at the end. Bond prices move opposite to interest rates: when rates rise, existing bonds paying the old lower rate become less attractive, so their price falls."],
+    ["eurobond", "A Eurobond is a bond issued in a foreign currency — for Ghana, usually US dollars — and sold to international investors. The catch is that it has to be repaid in that currency, so if the cedi weakens the debt gets heavier without a single extra dollar being borrowed."],
+    ["budget deficit", "A deficit is spending more in a year than you raise in revenue. The gap has to be filled by borrowing, which is where debt comes from. A surplus is the opposite — raising more than you spend."],
+    ["primary balance", "The primary balance is the budget balance before interest payments are counted. It answers a specific question: leaving aside the cost of old debt, is the government living within its means today? A primary surplus with an overall deficit means the debt problem is inherited rather than being made worse."],
+    ["fiscal policy", "Fiscal policy is what the government does with taxing and spending. Monetary policy is what the central bank does with interest rates and the money supply. They are separate hands on separate levers, and they do not always pull the same way."],
+    ["monetary policy", "Monetary policy is the central bank's control of interest rates and the supply of money, aimed mainly at keeping inflation under control. Fiscal policy — taxing and spending — belongs to the government instead."],
+    ["exchange rate", "An exchange rate is the price of one currency in another. When it takes more cedis to buy a dollar, the cedi has weakened: imports get dearer, exports earn more in cedi terms, and any debt owed in dollars grows in cedi terms without new borrowing."],
+    ["depreciation", "Depreciation is a currency losing value against another on the market. Devaluation is the same thing done deliberately by the authorities. Either way, imports cost more and foreign-currency debt gets heavier."],
+    ["devaluation", "Devaluation is an official decision to lower a currency's value. Depreciation is the market doing it on its own. The effect on prices is the same: imports cost more."],
+    ["foreign reserves", "Reserves are the foreign currency a central bank holds. They pay for imports and defend the exchange rate. The usual measure is months of import cover, and roughly three months is the conventional comfort line."],
+    ["remittance", "Remittances are money sent home by people working abroad. For Ghana they arrive as foreign currency, exactly like export earnings, and they are unusually steady — they tend to hold up in the years when exports fall."],
+    ["balance of trade", "The trade balance is exports minus imports. A surplus means more money coming in from trade than going out; a deficit means the opposite, and it has to be paid for somehow — from reserves, or by borrowing."],
+    ["current account", "The current account is the trade balance plus income and transfers, including remittances. It is the broader measure of whether a country is earning more from the rest of the world than it spends."],
+    ["credit rating", "A credit rating is an agency's judgement of how likely a borrower is to repay. Ratings run from AAA down through B and C to D for default. Below BBB− is called \"sub-investment grade\" or \"junk\", which raises what a country pays to borrow because some large funds are not permitted to hold it."],
+    ["recession", "A recession is a sustained fall in economic activity — the common rule of thumb is two consecutive quarters of shrinking real GDP, though the fuller definition looks at employment and incomes too."],
+    ["compound interest", "Compound interest is interest earned on interest. GH¢100 at 10% is GH¢110 after a year, then GH¢121 after two — the second year earns on GH¢110, not GH¢100. Over long periods this is why debt and savings both grow faster than people expect."],
+    ["stock exchange", "A stock exchange is a market where shares in listed companies are bought and sold. Buying a share makes you a part-owner: you may receive a share of the profits as a dividend, and the share price rises or falls with what people will pay for that ownership."],
+    ["dividend", "A dividend is a share of a company's profit paid out to its shareholders, usually as an amount per share. A company can also keep the profit and reinvest it instead, which is why some healthy companies pay nothing."],
+    ["market capitalisation", "Market capitalisation is the share price multiplied by the number of shares — the market's price for the whole company. It is how you compare companies fairly, because a high share price alone says nothing about size."],
+    ["money supply", "The money supply is the total money circulating in an economy. If it grows much faster than the economy produces, there is more money chasing the same goods, which pushes prices up — one of the oldest explanations of inflation."],
+    ["imf", "The International Monetary Fund lends to countries in balance-of-payments difficulty. The loans come with conditions — usually spending cuts, revenue measures and reforms — which is why an IMF programme is politically heavy as well as financially significant."],
+    ["value added tax", "VAT is a tax charged on the value added at each stage of production, collected by businesses and ultimately paid by the final buyer. Because everyone pays the same rate regardless of income, it takes a larger share of a poor household's spending than a rich one's."],
+    ["vat", "VAT is a tax charged on the value added at each stage of production and ultimately paid by the final buyer. Because everyone pays the same rate regardless of income, it takes a larger share of a poor household's spending than a rich one's."],
+    ["liquidity", "Liquidity is how easily something can be turned into cash without moving its price. Cash is perfectly liquid; a house is not. A market described as \"thin\" or illiquid moves sharply on small trades, which is why some quoted prices sit still for days and then jump."],
+    ["interest rate", "An interest rate is the price of borrowing money, as a percentage per year. What matters for your pocket is the real rate — the interest rate minus inflation — because that is what says whether your money is actually gaining or losing value."]
+  ];
+  // onlyIdeas: answer only when the thing asked about is an idea with no published figure of
+  // its own. "Compound interest" and "a eurobond" are ideas; "inflation" is a reading, and
+  // somebody typing that wants Ghana's number, not a lecture. This is what keeps the concepts
+  // from stealing questions the dashboard can answer with a figure.
+  // Ideas the dashboard also publishes a figure for. Somebody typing one of these wants
+  // Ghana's number first, so they never short-circuit the figure lookup — they are still
+  // explained when the question explicitly asks to have them explained.
+  const ALF_OWN_TOPICS = new Set(["inflation", "gdp", "gross domestic product", "debt to gdp",
+    "policy rate", "exchange rate", "foreign reserves", "remittance", "treasury bill", "t-bill",
+    "balance of trade", "stock exchange"]);
+
+  function alfTeach(q, onlyIdeas) {
+    const hits = ALF_TEACH.filter(([k]) => q.includes(k)).sort((a, b) => b[0].length - a[0].length);
+    if (!hits.length) return null;
+    const [key, text] = hits[0];
+    const own = ALF_OWN_TOPICS.has(key);
+    if (onlyIdeas && own) return null;
+    // If Ghana has a figure for it, the idea and the number belong together.
+    const it = alfFindReading(key) || alfFindReading(q);
+    const num = it && typeof it.value === "number"
+      ? `<span class="alf-note">Ghana's figure: <b>${fmt(it.value, it.dec)}${esc(it.unit || "")}</b>, ${esc(it.date || "")}.</span>` : "";
+    return text + num;
+  }
+
+  /* ================= weather =================
+   * The one thing on this page fetched live by the reader's own browser. It is a free service
+   * that needs no key and permits browser requests; if it is unreachable Alfredo says so
+   * plainly rather than showing nothing.
+   */
+  const ALF_PLACES = {
+    accra: [5.556, -0.1969, "Accra"], kumasi: [6.6885, -1.6244, "Kumasi"],
+    takoradi: [4.8845, -1.7554, "Takoradi"], "sekondi": [4.9344, -1.7137, "Sekondi-Takoradi"],
+    tamale: [9.4008, -0.8393, "Tamale"], "cape coast": [5.1053, -1.2466, "Cape Coast"],
+    ho: [6.6, 0.4713, "Ho"], sunyani: [7.3349, -2.3268, "Sunyani"],
+    koforidua: [6.0941, -0.2591, "Koforidua"], bolgatanga: [10.7856, -0.8514, "Bolgatanga"],
+    wa: [10.0601, -2.5099, "Wa"], techiman: [7.5907, -1.9383, "Techiman"],
+    tema: [5.6698, -0.0166, "Tema"], obuasi: [6.2027, -1.6631, "Obuasi"]
+  };
+  // WMO weather codes, in words
+  const WMO = {
+    0: "clear sky", 1: "mainly clear", 2: "partly cloudy", 3: "overcast", 45: "fog", 48: "freezing fog",
+    51: "light drizzle", 53: "drizzle", 55: "heavy drizzle", 56: "freezing drizzle", 57: "freezing drizzle",
+    61: "light rain", 63: "rain", 65: "heavy rain", 66: "freezing rain", 67: "freezing rain",
+    71: "light snow", 73: "snow", 75: "heavy snow", 77: "snow grains",
+    80: "light rain showers", 81: "rain showers", 82: "violent rain showers",
+    85: "snow showers", 86: "heavy snow showers", 95: "a thunderstorm", 96: "a thunderstorm with hail", 99: "a thunderstorm with hail"
+  };
+  const wmoWord = c => WMO[c] || "changeable weather";
+
+  function alfPlace(q) {
+    for (const [key, v] of Object.entries(ALF_PLACES)) if (q.includes(key)) return v;
+    return ALF_PLACES.accra;
+  }
+
+  async function alfWeatherAnswer(q) {
+    const [lat, lon, name] = alfPlace(q);
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}`
+      + `&current=temperature_2m,relative_humidity_2m,wind_speed_10m,weather_code`
+      + `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max`
+      + `&timezone=Africa%2FAccra&forecast_days=4`;
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const j = await res.json();
+      const c = j.current || {}, d = j.daily || {};
+      const day = (n) => {
+        const when = n === 0 ? "Today" : new Date(`${d.time[n]}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "long", timeZone: "UTC" });
+        const rain = d.precipitation_probability_max && d.precipitation_probability_max[n];
+        return `<li><b>${esc(when)}</b> ${esc(wmoWord(d.weather_code[n]))}, ${fmt(d.temperature_2m_min[n], 0)}–${fmt(d.temperature_2m_max[n], 0)}°C${typeof rain === "number" ? `<span class="alf-src">${fmt(rain, 0)}% chance of rain</span>` : ""}</li>`;
+      };
+      const days = (d.time || []).map((_, n) => n).slice(0, 4).map(day).join("");
+      return `In <b>${esc(name)}</b> right now it is <b>${fmt(c.temperature_2m, 0)}°C</b> with ${esc(wmoWord(c.weather_code))}`
+        + `${typeof c.relative_humidity_2m === "number" ? `, humidity ${fmt(c.relative_humidity_2m, 0)}%` : ""}`
+        + `${typeof c.wind_speed_10m === "number" ? `, wind ${fmt(c.wind_speed_10m, 0)} km/h` : ""}.`
+        + `<ul class="alf-list">${days}</ul>`
+        + `<span class="alf-note">Forecast from Open-Meteo, read by your browser just now. Everything else I tell you comes from this site's own data files.</span>`;
+    } catch (e) {
+      return `I couldn't reach the weather service just then — that one is fetched live, so it needs a working connection. Everything on the dashboard I can still answer from the page itself.`;
+    }
   }
 
   function alfAnswer(raw) {
@@ -3338,6 +3565,25 @@
       return `Good. I'm here whenever you need the next one.`;
     if (/\b(what (is )?your name|your name)\b/.test(q))
       return `Alfredo. Call my name any time and I'll answer.`;
+
+    /* ---- weather: the one answer fetched live, so it is handed back as work to do ---- */
+    if (/\b(weather|forecast|rain|raining|sunny|temperature|hot|cold|humid|harmattan|climate today|how is the sky)\b/.test(q)
+      && !/\b(inflation|debt|rate|market|price)\b/.test(q))
+      return { work: () => alfWeatherAnswer(q) };
+
+    /* ---- an idea with no figure of its own: explain it before anything else claims the words.
+       "Compound interest" was being answered with the budget's interest line, because the word
+       interest matches a reading. A concept the dashboard does not publish is safe to take. ---- */
+    const idea = alfTeach(q, true);
+    if (idea) return idea;
+
+    /* ---- projecting a counter to a date the person named ---- */
+    // "will" on its own, because "what will inflation be by December" puts a word between
+    // "will" and "be". Paired with a date the person actually named, it is a safe signal.
+    if (/\b(will|going to|projection|project|forecast|expect|estimate)\b/.test(q) && alfTargetDate(q)) {
+      const forward = alfProject(q);
+      if (forward) return forward;
+    }
 
     /* ---- the news, the markets, a briefing, and what to watch ---- */
     if (/\b(brief|briefing|summary|summarise|summarize|overview|catch me up|what should i know|tell me everything|how are things|state of (the )?(economy|things)|the big picture)\b/.test(q))
@@ -3432,6 +3678,13 @@
     const two = alfCompare(q);
     if (two) return two;
 
+    // Asked to explain rather than to quote: the idea comes first, with Ghana's figure under
+    // it. "What is inflation" still gives the number, because that is what people mean by it.
+    if (/\b(explain|define|definition|what does .* mean|meaning of|what do you mean by|in simple terms|simply put|teach me|help me understand|how does .* work|difference between)\b/.test(q)) {
+      const lesson = alfTeach(q);
+      if (lesson) return lesson;
+    }
+
     // any published reading, with its history
     const it = alfFindReading(q);
     if (it) {
@@ -3451,6 +3704,10 @@
     const follow = alfFollowUp(q);
     if (follow) return follow;
 
+    // no figure by that name, but it may be an idea he can explain
+    const taught = alfTeach(q);
+    if (taught) return taught;
+
     return null;
   }
 
@@ -3468,28 +3725,58 @@
     return div;
   }
 
+  // Three dots while he works. Even a local answer arrives in under a millisecond, and a reply
+  // that appears in the same instant as the question reads as a lookup table rather than as
+  // somebody listening — so the dots hold for a short beat. Long enough to feel considered,
+  // short enough that nobody waits for it.
+  const alfThinking = () => alfSay("alf", `<span class="alf-dots" aria-label="Thinking"><i></i><i></i><i></i></span>`);
+  const settle = (bubble, html) => { bubble.innerHTML = html; alfLog.scrollTop = alfLog.scrollHeight; };
+  const beat = ms => new Promise(r => setTimeout(r, ms));
+
   async function alfAsk(question) {
     alfSay("you", esc(question));
     const local = alfAnswer(question);
-    if (local) { alfSay("alf", local); speak(local); return; }
+
+    // an answer that has to go and fetch something: dots until it lands
+    if (local && typeof local === "object" && typeof local.work === "function") {
+      const bubble = alfThinking();
+      let html;
+      // the dots hold for at least a beat even when the answer comes back instantly, so a
+      // failure does not flash past before anyone has seen him thinking
+      try { [html] = await Promise.all([local.work(), beat(450)]); }
+      catch (e) { html = `Something went wrong working that out. Try me again in a moment.`; }
+      settle(bubble, html);
+      speak(html);
+      return;
+    }
+
+    if (local) {
+      const bubble = alfThinking();
+      await beat(420 + Math.round(Math.random() * 260));
+      settle(bubble, local);
+      speak(local);
+      return;
+    }
 
     if (!ALF.apiUrl) {
       // a dead end helps nobody: offer the figures closest to what was actually asked
       const near = alfNear(question);
       noteMiss(question, near);
+      const bubble = alfThinking();
+      await beat(520 + Math.round(Math.random() * 280));
       if (near.length) {
         const chips = near.map(l => `<button type="button" class="alf-guess" data-ask="${esc(l)}">${esc(L10N(l))}</button>`).join("");
         const lead = T("unknown.near");
-        alfSay("alf", `${lead}<span class="alf-guesses">${chips}</span>`);
+        settle(bubble, `${lead}<span class="alf-guesses">${chips}</span>`);
         speak(lead);
         return;
       }
       const miss = T("unknown", { count: allItems.length });
-      alfSay("alf", miss);
+      settle(bubble, miss);
       speak(miss);
       return;
     }
-    const waiting = alfSay("alf", `<span class="alf-wait">Asking…</span>`);
+    const waiting = alfThinking();
     try {
       const res = await fetch(ALF.apiUrl, {
         method: "POST",
@@ -4028,7 +4315,7 @@
         return `<div class="b-cellule">
           <span class="b-label">${esc(q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`)}</span>
           <span class="mono big ${dir}">${q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</span>
-          <span class="b-when">${esc(liveTime(q.at))}</span>
+          <span class="b-when">${esc(quoteWhen(q))}</span>
         </div>`;
       }).join("")}</div>` });
     }
