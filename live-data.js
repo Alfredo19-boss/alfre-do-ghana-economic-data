@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-09-19T04:35:03.648Z",
+  "updated": "2026-09-19T13:23:25.356Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,13 +22,13 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-09-19T04:35:03.648Z",
+  "officialAt": "2026-09-19T13:23:25.356Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
-    "usd: 11.5088 (mid-market, 2026-09-18)",
-    "gbp: 15.3953 (mid-market, 2026-09-18)",
-    "eur: 13.2254 (mid-market, 2026-09-18)",
-    "cny: 1.71579 (mid-market, 2026-09-18)",
+    "usd: 11.5168 (mid-market, 2026-09-19)",
+    "gbp: 15.425 (mid-market, 2026-09-19)",
+    "eur: 13.2277 (mid-market, 2026-09-19)",
+    "cny: 1.7185 (mid-market, 2026-09-19)",
     "gold: 4424.9 at 2026-09-18T20:59:59.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-09-18, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-09-19: 2026-09-18, usd/gbp/eur",
@@ -37,32 +37,32 @@ window.GDC_LIVE = {
   ],
   "quotes": {
     "usd": {
-      "value": 11.5088,
-      "at": "2026-09-18T00:00:00.000Z",
+      "value": 11.5168,
+      "at": "2026-09-19T00:00:00.000Z",
       "daily": true,
       "name": "US dollar",
-      "prev": 11.48
+      "prev": 11.5088
     },
     "gbp": {
-      "value": 15.3953,
-      "at": "2026-09-18T00:00:00.000Z",
+      "value": 15.425,
+      "at": "2026-09-19T00:00:00.000Z",
       "daily": true,
       "name": "British pound",
-      "prev": 15.3807
+      "prev": 15.3953
     },
     "eur": {
-      "value": 13.2254,
-      "at": "2026-09-18T00:00:00.000Z",
+      "value": 13.2277,
+      "at": "2026-09-19T00:00:00.000Z",
       "daily": true,
       "name": "Euro",
-      "prev": 13.1893
+      "prev": 13.2254
     },
     "cny": {
-      "value": 1.71579,
-      "at": "2026-09-18T00:00:00.000Z",
+      "value": 1.7185,
+      "at": "2026-09-19T00:00:00.000Z",
       "daily": true,
       "name": "Chinese yuan",
-      "prev": 1.7095
+      "prev": 1.71579
     },
     "gold": {
       "value": 4424.9,
