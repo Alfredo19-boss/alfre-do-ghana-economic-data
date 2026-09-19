@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T03:30:17.171Z",
+  "updated": "2026-09-19T04:25:26.493Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Daily Insight for CEOs: Employee engagement as a leadership responsibility",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-employee-engagement-as-a-leadership-responsibility/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T04:06:17.000Z",
+      "summary": "Engaged employees are more likely to understand organisational priorities, contribute ideas, collaborate effectively, and remain committed to achieving results.",
+      "categories": [
+        "Opinion",
+        "Daily Insight",
+        "Employee",
+        "Leadership"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2404-683x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Publicly funded, privately controlled! The multi-million-cedi Astroturf Exposé",
+      "link": "https://www.myjoyonline.com/publicly-funded-privately-controlled-the-multi-million-cedi-astroturf-expose/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T04:05:40.000Z",
+      "summary": "The One Constituency, One Astroturf programme that began in 2017 as one of President Nana Akufo-Addo’s administration’s most celebrated sports infrastructure initiative was welcomed across…",
+      "categories": [
+        "National",
+        "Astroturf Exposé",
+        "Ghana",
+        "ne Constituency One Astroturf programme"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2558.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NCD burden rising as Ghana struggles with prevention, awareness and long-term care – Health Expert",
       "link": "https://www.myjoyonline.com/ncd-burden-rising-as-ghana-struggles-with-prevention-awareness-and-long-term-care-health-expert/",
@@ -126,37 +156,6 @@ window.GDC_PAPERS = {
         "Political insults"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-26.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Use your time wisely’ — Republic Bank MD advises youth",
-      "link": "https://www.myjoyonline.com/use-your-time-wisely-republic-bank-md-advises-youth/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T00:04:00.000Z",
-      "summary": "Managing Director of Republic Bank (Ghana) PLC, Dr Benjamin Dzoboku, has urged the youth to make deliberate use of their time and talents, cautioning them against allowing social media and…",
-      "categories": [
-        "News",
-        "Ghana",
-        "Republic Bank",
-        "Youth"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MD2.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Relax, I’m not contesting you in 2028’ — DVLA CEO tells Zanetor",
-      "link": "https://www.myjoyonline.com/relax-im-not-contesting-you-in-2028-dvla-ceo-tells-zanetor/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T23:12:27.000Z",
-      "summary": "Chief Executive Officer of the Driver and Vehicle Licensing Authority (DVLA), Julius Neequaye Kotey, has dismissed speculation that he is preparing to challenge Klottey Korle MP Dr Zanetor…",
-      "categories": [
-        "HP News 4",
-        "Politics",
-        "DVLA CEO",
-        "Parliamentary election",
-        "Zanetor Rawlings"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_4725.jpg-696x464-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
