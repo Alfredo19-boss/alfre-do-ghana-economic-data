@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-19T00:18:17.669Z",
-  "worldAt": "2026-09-19T00:18:17.665Z",
+  "updated": "2026-09-19T03:30:04.345Z",
+  "worldAt": "2026-09-19T03:30:04.343Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -46,6 +46,20 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Collateral Registry: Security interest registrations declined by 32.2% in quarter 2, 2026",
+      "link": "https://www.myjoyonline.com/collateral-registry-security-interest-registrations-declined-by-32-2-in-quarter-2-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T01:29:21.000Z",
+      "summary": "The registration of security interests decreased significantly to 92,033 in quarter two 2026 from 135,721 registrations recorded in quarter two 2025."
+    },
+    {
+      "title": "Total value of secured loans hits GH¢31.5bn in quarter 2 2026",
+      "link": "https://www.myjoyonline.com/total-value-of-secured-loans-hit-gh%c2%a231-5bn-in-quarter-2-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T01:16:21.000Z",
+      "summary": "According to the report, banks continued to dominate the secured transactions landscape by value of registered credit, accounting for a total value of GH¢19.9 billion, equivalent to 63.1%…"
+    },
     {
       "title": "Why Republic Bank is betting big on mortgages",
       "link": "https://www.myjoyonline.com/why-republic-bank-is-betting-big-on-mortgages/",
@@ -1081,29 +1095,30 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-16T09:35:18.000Z",
       "summary": "Sentuo Airport City investment opens new opportunities for Ghanaian businesses, jobs and local supply chains."
-    },
-    {
-      "title": "Oil Pulls Back Below $108 as US Crude Stocks Jump",
-      "link": "https://thehighstreetjournal.com/oil-pulls-back-below-108-as-us-crude-stocks-jump/",
-      "source": "The High Street Journal",
-      "published": "2026-09-16T09:03:58.000Z",
-      "summary": "Brent crude slips below $108 as a surprise US inventory build weighs on prices, while ongoing Saudi supply disruptions continue to support the market."
-    },
-    {
-      "title": "Eni Ghana, Vitol sign MoU with government for 2 oil blocks",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-eni-ghana-vitol-sign-mou-with-government-for-2-oil-blocks.html",
-      "source": "Graphic Online",
-      "published": "2026-09-16T07:49:17.000Z",
-      "summary": "Eni Ghana and its partner, Vitol Upstream Tano Ltd (Vitol), have signed two Memoranda of Understanding with the government, covering two offshore petroleum blocks."
     }
   ],
   "world": [
     {
-      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-      "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+      "title": "Report: More US troops have died in Iran war than Pentagon says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T00:02:03.000Z",
-      "summary": "Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse."
+      "published": "2026-09-19T03:02:51.000Z",
+      "summary": "The Pentagon publicly lists 18 US military deaths since the Iran war began."
+    },
+    {
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T00:03:53.000Z",
+      "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0977/live/a4b5d6c0-b3bc-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "South Africans voice their anger as hundreds hold femicide vigil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T02:41:57.000Z",
+      "summary": "Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa."
     },
     {
       "title": "Trump says he is banning CNN and Politico from White House",
@@ -1114,11 +1129,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg"
     },
     {
-      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "title": "US court blocks Trump plan to deport migrants to third countries",
+      "link": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T00:00:26.000Z",
-      "summary": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran."
+      "published": "2026-09-19T02:16:45.000Z",
+      "summary": "US judges affirm migrants must have opportunities to voice safety concerns before deportation to unfamiliar nations."
     },
     {
       "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
@@ -1129,11 +1144,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e8/live/2fe49140-b08a-11f1-b7c1-3dec1512f22d.jpg"
     },
     {
-      "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
+      "title": "Iranian women defy law and run Tehran race without hijab",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T23:56:09.000Z",
-      "summary": "Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark."
+      "published": "2026-09-19T01:45:36.000Z",
+      "summary": "Hundreds of Iranian women defy hijab law in Tehran 10K race."
     },
     {
       "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
@@ -1144,11 +1159,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8460/live/fe6b4100-b330-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "title": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/super-macklemore-64-video-game-mocks-sheeran-concert-controversy?traffic_source=rss",
+      "title": "Google’s Gemini AI hacks 3 companies in security test, then stops",
+      "link": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T23:17:15.000Z",
-      "summary": "In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts."
+      "published": "2026-09-19T01:38:02.000Z",
+      "summary": "Google discloses first breakout by Gemini following similar incidents by Meta, Anthropic and OpenAI."
     },
     {
       "title": "Russians head to the polls to choose lawmakers for their parliament",
@@ -1158,11 +1173,11 @@ window.GDC_NEWS = {
       "summary": "Russians head to the polls to choose lawmakers for their parliament, the Duma. It's Russia's first nationwide parliamentary race since launching its full scale invasion of Ukraine in 2022."
     },
     {
-      "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
-      "link": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
+      "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T23:14:00.000Z",
-      "summary": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis."
+      "published": "2026-09-19T00:46:04.000Z",
+      "summary": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India."
     },
     {
       "title": "Grim discoveries of murdered women spark fear in South Africa",
@@ -1173,11 +1188,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a2/live/be22b180-b3a0-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
-      "link": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
+      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T22:01:35.000Z",
-      "summary": "Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments."
+      "published": "2026-09-19T00:02:03.000Z",
+      "summary": "Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse."
     },
     {
       "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
@@ -1188,11 +1203,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/446ff8b0-a1fe-11f1-a97e-999c5aae08bf.jpg"
     },
     {
-      "title": "🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly",
-      "link": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly",
-      "source": "France 24",
-      "published": "2026-09-18T21:59:51.000Z",
-      "summary": ""
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T00:00:26.000Z",
+      "summary": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran."
     },
     {
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
@@ -1203,11 +1218,25 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg"
     },
     {
-      "title": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss",
+      "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T21:41:55.000Z",
-      "summary": "Premier League holders Arsenal have won all seven of their matches to start the new season."
+      "published": "2026-09-18T23:56:09.000Z",
+      "summary": "Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark."
+    },
+    {
+      "title": "🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly",
+      "link": "https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly",
+      "source": "France 24",
+      "published": "2026-09-18T21:59:51.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Super Macklemore 64: Video game mocks Sheeran concert controversy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/super-macklemore-64-video-game-mocks-sheeran-concert-controversy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-18T23:17:15.000Z",
+      "summary": "In Super Macklemore 64, players are chased by a giant Ed Sheeran, dodge tiny billionaire Robert Krafts."
     },
     {
       "title": "Uproar in Niger state, 37 die in custody",
@@ -1218,11 +1247,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/e2e3a4ec-b3a1-11f1-9c84-0730212ba17f/w:1024/p:16x9/capture-7532683446aada2e9e59607-09759263.jpg"
     },
     {
-      "title": "New cat species found, first in more than 100 years",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss",
+      "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
+      "link": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T21:06:15.000Z",
-      "summary": "A new species of living cat has been identified for the first time in more than a century."
+      "published": "2026-09-18T23:14:00.000Z",
+      "summary": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis."
     },
     {
       "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
@@ -1233,11 +1262,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea3/live/9f098810-b39f-11f1-ad35-e154e6209840.jpg"
     },
     {
-      "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
-      "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
+      "title": "Trump claims deal with Denmark gives US ‘permanent control’ over Greenland",
+      "link": "https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T21:06:14.000Z",
-      "summary": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin."
+      "published": "2026-09-18T22:01:35.000Z",
+      "summary": "Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments."
     },
     {
       "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
@@ -1248,11 +1277,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "title": "UK court clears woman of voicing support for Hamas in university speech",
-      "link": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+      "title": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T20:55:57.000Z",
-      "summary": "Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist."
+      "published": "2026-09-18T21:41:55.000Z",
+      "summary": "Premier League holders Arsenal have won all seven of their matches to start the new season."
     },
     {
       "title": "UEFA, CONCACAF demand FIFA make $2.1 billion payout to member groups amid funding row",
@@ -1263,11 +1292,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b0165db4-b38a-11f1-aee7-6f779f079bc8/w:1024/p:16x9/000-C6C88F3.jpg"
     },
     {
-      "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+      "title": "New cat species found, first in more than 100 years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T20:38:00.000Z",
-      "summary": "Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus."
+      "published": "2026-09-18T21:06:15.000Z",
+      "summary": "A new species of living cat has been identified for the first time in more than a century."
     },
     {
       "title": "Trump bans media outlets CNN, MSNOW, Politico from White House",
@@ -1277,11 +1306,11 @@ window.GDC_NEWS = {
       "summary": ""
     },
     {
-      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
-      "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+      "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+      "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T20:20:23.000Z",
-      "summary": "Former air officers, including an air force general, were arrested in a series of operations."
+      "published": "2026-09-18T21:06:14.000Z",
+      "summary": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin."
     },
     {
       "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
@@ -1291,11 +1320,11 @@ window.GDC_NEWS = {
       "summary": "After Houthi victories in Yemen, the group's importance in the US-Iran war has grown. Previously Lebanon's Hezbollah was considered most significant in Iran's \"axis of resistance.\" Now the…"
     },
     {
-      "title": "Trump bans CNN, MS NOW, Politico from White House for ‘fake news’",
-      "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+      "title": "UK court clears woman of voicing support for Hamas in university speech",
+      "link": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T19:50:04.000Z",
-      "summary": "The US president insists media outlets report 'fiction and lies' as he announces new bans on White House access."
+      "published": "2026-09-18T20:55:57.000Z",
+      "summary": "Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist."
     },
     {
       "title": "Trump bans media outlets CNN, MSNOW and Politico from the White House",
@@ -1306,11 +1335,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d1e5ce1a-b395-11f1-972b-5b4fdf021577/w:1024/p:16x9/2026-08-21T205608Z-444001983-RC283NA7GZ0I-RTRMADP-3-USA-TRUMP.jpg"
     },
     {
-      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
-      "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+      "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T19:39:16.000Z",
-      "summary": "Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine."
+      "published": "2026-09-18T20:38:00.000Z",
+      "summary": "Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus."
     },
     {
       "title": "AI: Silicon Species or Trojan Horse? Riyadh Calling, Russia Votes & the Ed Sheeran debate",
@@ -1321,11 +1350,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/db7520f4-b393-11f1-a724-ed3d9e22a40f/w:1024/p:16x9/ANTHROPIC.jpg"
     },
     {
-      "title": "Lebanese artist turns Israeli missile debris into art",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+      "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T19:31:32.000Z",
-      "summary": "In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art."
+      "published": "2026-09-18T20:20:23.000Z",
+      "summary": "Former air officers, including an air force general, were arrested in a series of operations."
     },
     {
       "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
@@ -1336,11 +1365,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x4380+0+0/resize/6570x4380!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F83%2F683f4f4a4f86b0e8c874da99f7b9%2Fgettyimages-2210032597.jpg"
     },
     {
-      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+      "title": "Trump bans CNN, MS NOW, Politico from White House for ‘fake news’",
+      "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T19:14:41.000Z",
-      "summary": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces."
+      "published": "2026-09-18T19:50:04.000Z",
+      "summary": "The US president insists media outlets report 'fiction and lies' as he announces new bans on White House access."
     },
     {
       "title": "Syrian regime planned American journalist's kidnapping for weeks",
@@ -1351,11 +1380,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F76%2Fb083c2734a4e949de559e060fa05%2F391805bf-389d-436d-b4d0-c5a772fd1afe.jpg"
     },
     {
-      "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
+      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+      "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-18T19:12:58.000Z",
-      "summary": "Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken."
+      "published": "2026-09-18T19:39:16.000Z",
+      "summary": "Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine."
     },
     {
       "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
@@ -1364,37 +1393,16 @@ window.GDC_NEWS = {
       "published": "2026-09-18T18:56:17.000Z",
       "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c2/live/d8cd31d0-b383-11f1-a430-4d16ee157c41.png"
-    },
-    {
-      "title": "Pentagon resumes mandatory testosterone testing for US troops over 30",
-      "link": "https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-18T18:54:12.000Z",
-      "summary": "Experts have called policy unnecessary and said testosterone injections could increase risks of infertility."
-    },
-    {
-      "title": "Nigeria: Armed security deployed in Minna after deaths of miners",
-      "link": "http://www.africanews.com/2026/09/18/nigeria-armed-security-deployed-in-minna-after-deaths-of-miners/",
-      "source": "Africanews",
-      "published": "2026-09-18T18:42:16.000Z",
-      "summary": "Armed security personnel have been deployed in the Nigerian city of Minna, where demonstrators have been taking to the streets, a day after dozens suspected illegal gold miners died while…"
-    },
-    {
-      "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
-      "link": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-18T18:46:51.000Z",
-      "summary": "Mexican president says she is seeking a decrease in tariffs as both countries seek new bilateral trade deal."
-    },
-    {
-      "title": "DRC: OCHA helps with response endeavours amid ebola outbreak",
-      "link": "http://www.africanews.com/2026/09/18/drc-ocha-helps-with-response-endeavours-amid-ebola-outbreak/",
-      "source": "Africanews",
-      "published": "2026-09-18T18:31:24.000Z",
-      "summary": "The Ebola outbreak continues to spread in the Democratic Republic of the Congo, where the UN Office for the Coordination of Humanitarian Affairs, OCHA, is helping response endeavours…"
     }
   ],
   "africa": [
+    {
+      "title": "South Africans voice their anger as hundreds hold femicide vigil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T02:41:57.000Z",
+      "summary": "Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa."
+    },
     {
       "title": "Grim discoveries of murdered women spark fear in South Africa",
       "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
@@ -1671,13 +1679,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-18T12:20:13.000Z",
       "summary": "[ISS] Growing competition for African ports and security partnerships offers new leverage - if countries can avoid deeper geopolitical fragmentation."
-    },
-    {
-      "title": "Tanzania: Police Impound 103 Motorcycles in Crackdown",
-      "link": "https://allafrica.com/stories/202609180329.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-18T12:06:32.000Z",
-      "summary": "[Daily News] Mwanza -- POLICE in Mwanza have impounded 103 motorcycles and detained 30 suspects during a crackdown targeting reckless riders practices that residents say have become a…"
     }
   ]
 };

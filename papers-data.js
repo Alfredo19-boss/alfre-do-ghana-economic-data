@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T00:18:30.924Z",
+  "updated": "2026-09-19T03:30:17.171Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,125 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "NCD burden rising as Ghana struggles with prevention, awareness and long-term care – Health Expert",
+      "link": "https://www.myjoyonline.com/ncd-burden-rising-as-ghana-struggles-with-prevention-awareness-and-long-term-care-health-expert/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T02:51:44.000Z",
+      "summary": "Ghana is facing a growing burden of non-communicable diseases (NCDs), with low public awareness, unhealthy lifestyles and challenges in long-term disease management complicating efforts to…",
+      "categories": [
+        "Health",
+        "National",
+        "2026 World Patient Safety Day",
+        "Dr Efua Commeh",
+        "NCDs",
+        "Safe Care"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Efua-Commeh_top.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Patient safety must extend across entire NCD care journey – FOCOS Hospital’s orthopaedics chief",
+      "link": "https://www.myjoyonline.com/patient-safety-must-extend-across-entire-ncd-care-journey-focos-hospitals-orthopaedics-chief/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T01:36:57.000Z",
+      "summary": "Healthcare providers have been urged to treat patient safety as a shared responsibility that extends from diagnosis and treatment to monitoring, discharge and follow-up. Head of…",
+      "categories": [
+        "Health",
+        "National",
+        "FOCOS Hospital",
+        "NCDs",
+        "Non-Communicable diseases",
+        "World Patient Safety Day"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Dr.-Arthur-Sackeyfio.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Collateral Registry: Security interest registrations declined by 32.2% in quarter 2, 2026",
+      "link": "https://www.myjoyonline.com/collateral-registry-security-interest-registrations-declined-by-32-2-in-quarter-2-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T01:29:21.000Z",
+      "summary": "The registration of security interests decreased significantly to 92,033 in quarter two 2026 from 135,721 registrations recorded in quarter two 2025.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 7",
+        "BoG",
+        "Collateral Registry",
+        "S&Ls",
+        "Security Interest"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/download-6.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ninani Group staff take part in health walk, football and games at annual wellness programme",
+      "link": "https://www.myjoyonline.com/ninani-group-staff-take-part-in-health-walk-football-and-games-at-annual-wellness-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T01:28:45.000Z",
+      "summary": "After hours of staring at screens, chasing deadlines and working through demanding briefs, employees of the Ninani Group recently traded their office routines for football, racing, table…",
+      "categories": [
+        "Events",
+        "annual wellness",
+        "Football",
+        "Health Walk",
+        "Ninani Group"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/vlcsnap-2026-09-18-19h16m30s161-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Total value of secured loans hits GH¢31.5bn in quarter 2 2026",
+      "link": "https://www.myjoyonline.com/total-value-of-secured-loans-hit-gh%c2%a231-5bn-in-quarter-2-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T01:16:21.000Z",
+      "summary": "According to the report, banks continued to dominate the secured transactions landscape by value of registered credit, accounting for a total value of GH¢19.9 billion, equivalent to 63.1%…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 2",
+        "BoG",
+        "MCIs",
+        "MFIs",
+        "S&Ls",
+        "secured loans"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-2381-1024x682.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana needs national dialogue to end political insult culture — Kpebu",
+      "link": "https://www.myjoyonline.com/ghana-needs-national-dialogue-to-end-political-insult-culture-kpebu/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T00:36:54.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has called for a national dialogue on Ghana’s growing culture of political insults, arguing that arrests and prosecutions alone will not resolve the…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Ghana Jollof",
+        "Insult culture",
+        "National Dialogue",
+        "Political insults"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-26.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Use your time wisely’ — Republic Bank MD advises youth",
+      "link": "https://www.myjoyonline.com/use-your-time-wisely-republic-bank-md-advises-youth/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T00:04:00.000Z",
+      "summary": "Managing Director of Republic Bank (Ghana) PLC, Dr Benjamin Dzoboku, has urged the youth to make deliberate use of their time and talents, cautioning them against allowing social media and…",
+      "categories": [
+        "News",
+        "Ghana",
+        "Republic Bank",
+        "Youth"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MD2.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘Relax, I’m not contesting you in 2028’ — DVLA CEO tells Zanetor",
       "link": "https://www.myjoyonline.com/relax-im-not-contesting-you-in-2028-dvla-ceo-tells-zanetor/",
       "source": "MyJoyOnline",
@@ -38,117 +157,6 @@ window.GDC_PAPERS = {
         "Zanetor Rawlings"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_4725.jpg-696x464-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Insurance sector offers huge job opportunities as Ghana faces actuarial skills shortage — GIU Rector",
-      "link": "https://www.myjoyonline.com/insurance-sector-offers-huge-job-opportunities-as-ghana-faces-actuarial-skills-shortage-giu-rector/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T22:32:39.000Z",
-      "summary": "The insurance industry offers significant employment opportunities for young people, particularly in specialised fields such as actuarial science and statistics, Rector of the Ghana…",
-      "categories": [
-        "National",
-        "Actuarial skills shortage",
-        "insurance sector",
-        "Job Opportunities"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/66632451.295.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newsfile to discuss Ghana Jollof nurse case, cocaine shipment, COVID audit and constitutional reforms",
-      "link": "https://www.myjoyonline.com/newsfile-to-discuss-ghana-jollof-nurse-case-cocaine-shipment-covid-audit-and-constitutional-reforms/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T22:21:55.000Z",
-      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, September 19, 2026, examine four major national issues that have dominated public discourse over the past week…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Cocaine",
-        "COvid",
-        "Ghana Jollof",
-        "Newsfile"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-21.55.01-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CPP urges Ghanaians to revive Nkrumah’s vision of self-reliance and industrialisation",
-      "link": "https://www.myjoyonline.com/cpp-urges-ghanaians-to-revive-nkrumahs-vision-of-self-reliance-and-industrialisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T21:58:40.000Z",
-      "summary": "The General Secretary of the Convention People’s Party (CPP), Harold Stephen Ato Eshun, has called on Ghanaians to renew their commitment to Dr Kwame Nkrumah’s vision of economic…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "CPP",
-        "industralisation",
-        "Kwame Nkrumah",
-        "self reliance"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Harold.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bagbin re-inaugurates African Commission of Health and Human Rights Promoters with GH¢100,000 donation",
-      "link": "https://www.myjoyonline.com/bagbin-re-inaugurates-african-commission-of-health-and-human-rights-promoters-with-gh%c2%a2100000-donation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T21:40:57.000Z",
-      "summary": "Speaker of Parliament, Rt. Hon. Alban Kingsford Bagbin, has formally re-inaugurated the African Commission of Health and Human Rights Promoters and launched its Endowment Fund with a…",
-      "categories": [
-        "Health",
-        "National",
-        "Commission of health",
-        "Donation",
-        "Endowment Fund",
-        "Human rights promoters"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_9710-1024x768-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Why Republic Bank is betting big on mortgages",
-      "link": "https://www.myjoyonline.com/why-republic-bank-is-betting-big-on-mortgages/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T21:20:00.000Z",
-      "summary": "Republic Bank (Ghana) PLC is putting mortgage financing back at the centre of its growth strategy, with Managing Director, Dr Benjamin Dzoboku, saying the move represents a return to the…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "News",
-        "Habitat Fair",
-        "Joy News",
-        "Republic Bank"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MD1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GNPC, Explorco pay condolence visit to Regent of Dagbon, reaffirm commitment to sustainable operations",
-      "link": "https://www.myjoyonline.com/gnpc-explorco-pay-condolence-visit-to-regent-of-dagbon-reaffirm-commitment-to-sustainable-operations/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T21:19:18.000Z",
-      "summary": "A high-level delegation from the Ghana National Petroleum Corporation (GNPC) and its upstream operating subsidiary, GNPC Explorco, has paid a condolence visit to the Regent of the Dagbon…",
-      "categories": [
-        "Regional",
-        "Explorco",
-        "GNPC",
-        "Regent of Dagbon",
-        "Sustainable operations"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/CPM0458-1024x731.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Western Regional YMCA turns plastic waste into school bags for pupils",
-      "link": "https://www.myjoyonline.com/western-regional-ymca-turns-plastic-waste-into-school-bags-for-pupils/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T20:28:12.000Z",
-      "summary": "Fifty pupils at Funko M/A School in the Western Region have become the first beneficiaries of the Western Regional YMCA’s Green Bags Outreach, an initiative that turns recovered plastic…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Western-Regional-YMCA-turns-plastic-waste-into-school-bags-for-pupils-1-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
