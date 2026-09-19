@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T18:41:01.784Z",
+  "updated": "2026-09-19T21:01:11.323Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,31 +25,129 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Eviction notice leaves retired and serving railway workers in Kumasi in limbo",
-      "link": "https://www.myjoyonline.com/eviction-notice-leaves-retired-and-serving-railway-workers-in-kumasi-in-limbo/",
+      "title": "Sanitation is improving; critics may be ‘living in another world’ – Salaga South MP replies Bekwai MP",
+      "link": "https://www.myjoyonline.com/sanitation-is-improving-critics-may-be-living-in-another-world-salaga-south-mp-replies-bekwai-mp/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T18:32:28.000Z",
-      "summary": "Anxiety has gripped retired and serving railway workers occupying bungalows on railway lands at Adum in Kumasi.",
+      "published": "2026-09-19T20:56:06.000Z",
+      "summary": "Salaga South MP and Vice Chairperson of Parliament’s Select Committee on Sanitation and Water Resources, Zuwera Mohammed Ibrahimah, has pushed back against criticism that government is not…",
       "categories": [
-        "Regional",
-        "Eviction notice",
-        "Railway workers"
+        "National",
+        "News",
+        "Bekwai MP",
+        "Salaga South MP",
+        "Sanitation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-18.10.58-1024x582.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/zu-1024x526.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Asiedu Nketia: Why I remain an unrepentant Nkrumahist",
-      "link": "https://www.myjoyonline.com/why-i-remain-an-unrepentant-nkrumahist-asiedu-nketia/",
+      "title": "Government must do more to tackle sanitation crisis – Bekwai MP",
+      "link": "https://www.myjoyonline.com/government-must-do-more-to-tackle-sanitation-crisis-bekwai-mp/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T18:12:47.000Z",
-      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has attributed his political journey and current position to the free education policy introduced by…",
+      "published": "2026-09-19T20:55:35.000Z",
+      "summary": "Deputy Ranking Member on Parliament’s Select Committee on Sanitation and Water Resources, and Member of Parliament for Bekwai, Ralph Poku-Adusei, says that the government must do more to…",
       "categories": [
         "National",
-        "Asiedu Nketia",
-        "Nkrumahist"
+        "News",
+        "Bekwai MP",
+        "Government",
+        "sanitation crisis"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2786-1024x684.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ralph-1024x538.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "World Cleanup Day: GFF begins sanitation education in local communities",
+      "link": "https://www.myjoyonline.com/world-cleanup-day-gff-begins-sanitation-education-in-local-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T20:37:16.000Z",
+      "summary": "The Head of Community Environmental Research, Haggar Quao, said her outfit will spread the gospel of environmental sanitation and be deliberate in its actions in protecting the environment.",
+      "categories": [
+        "News",
+        "GF Foundation",
+        "Haggar Quao",
+        "World Cleanup Day"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-16-at-17.07.38-1024x694.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EU Ambassador, IGP discuss stronger cooperation on policing and security",
+      "link": "https://www.myjoyonline.com/eu-ambassador-igp-discuss-stronger-cooperation-on-policing-and-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T20:27:36.000Z",
+      "summary": "European Union (EU) Ambassador to Ghana, Rune Skinnebach, has paid a courtesy call on the Inspector-General of Police (IGP), Christian Tetteh Yohuno, to strengthen cooperation between the…",
+      "categories": [
+        "National",
+        "Christian Tetteh Yohuno",
+        "European Union (EU) Ambassador to Ghana",
+        "Rune Skinnebach"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/818353610_1072960201988937_8079604826925562274_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa Nations Volleyball Championship: Ghana set up quarterfinal clash with Cameroon after beating Chad",
+      "link": "https://www.myjoyonline.com/africa-nations-volleyball-championship-ghana-set-up-quarterfinal-clash-with-cameroon-after-beating-chad/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T20:10:59.000Z",
+      "summary": "The Black Spikers defeated Chad in the round of 16 of the competition, claiming a 3-0 straight set win to ensure they made the last eight of the championship.",
+      "categories": [
+        "National",
+        "Other Sports",
+        "Africa Nations Volleyball Championship",
+        "Black Spikers",
+        "Cameroon",
+        "Chad"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ghana-Black-Spikers-1-1024x680.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Meet Dr Benjamin Appiah Osei — Ghana’s three-time tourism awards winner",
+      "link": "https://www.myjoyonline.com/meet-dr-benjamin-appiah-osei-ghanas-three-time-tourism-awards-winner/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T19:42:22.000Z",
+      "summary": "The KNUST academic using education, technology and digital storytelling to make hospitality and tourism accessible to all. For Dr. Benjamin Appiah Osei, tourism is more than a profession…",
+      "categories": [
+        "National",
+        "awards winner",
+        "Dr Benjamin Appiah Osei",
+        "Tourism"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2716-683x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UEFA & CONCACAF demand Fifa pays $10m to all 211 members",
+      "link": "https://www.myjoyonline.com/uefa-concacaf-demand-fifa-pays-10m-to-all-211-members/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T19:41:08.000Z",
+      "summary": "UEFA and CONCACAF have written to Gianni Infantino, calling on FIFA to pay at least $10m (£7.5m) from its cash reserves to each of the 211 member associations.",
+      "categories": [
+        "Football",
+        "National",
+        "Concacaf",
+        "FIFA",
+        "UEFA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2794.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Inter fight back again to snatch draw at leaders Roma",
+      "link": "https://www.myjoyonline.com/inter-fight-back-again-to-snatch-draw-at-leaders-roma/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T19:37:14.000Z",
+      "summary": "Defending champions Inter Milan came from 2-0 down for the third Serie A game in a row to earn a dramatic draw against leaders Roma.",
+      "categories": [
+        "Football",
+        "Inter",
+        "Lautaro Martinez",
+        "Roma",
+        "Serie A"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2793.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -63,101 +161,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/GHANACHESS.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Kudus, Djiku return a boost to Black Stars – Agyemang-Badu",
-      "link": "https://www.myjoyonline.com/kudus-djiku-return-a-boost-to-black-stars-agyemang-badu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T17:53:42.000Z",
-      "summary": "Ghana will face Côte d’Ivoire on Thursday, September 24, before hosting The Gambia at the Accra Sports Stadium on Tuesday, September 29. The Black Stars will then travel to Morocco for a…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Alexander Djiku",
-        "Mohammed Kudus",
-        "Razak Musbau"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-13.10.23.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘If the world, Africa honoured Nkrumah as the Millennium Man, why are we not doing same?’ – Asiedu Nketia",
-      "link": "https://www.myjoyonline.com/if-the-world-africa-honoured-nkrumah-as-the-millennium-man-why-are-we-not-doing-same-asiedu-nketia/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T17:51:54.000Z",
-      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has questioned why Ghanaians are not giving Osagyefo Dr Kwame Nkrumah the same level of recognition and…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Africa",
-        "Asiedu Nketia",
-        "Osagyefo Dr Kwame Nkrumah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2783-1024x763.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Yaw Preko backs renewed push to revive Colts football",
-      "link": "https://www.myjoyonline.com/yaw-preko-backs-renewed-push-to-revive-colts-football/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T17:50:35.000Z",
-      "summary": "His comments come after President John Mahama called for the revival of the traditional Colts League and the GFA launched the 2026/27 Colts Football Season.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Colts Football",
-        "Razak Musbau",
-        "Yaw Preko"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-13.12.10.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UMB Speed Stars defeat Black Stars Legends 6-2 in friendly",
-      "link": "https://www.myjoyonline.com/umb-speed-stars-defeat-black-stars-legends-6-2-in-friendly/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T17:38:55.000Z",
-      "summary": "The event comes as UMB deepens its involvement in Ghana football, with the bank now serving as the headline sponsor of the Ghana Division One League.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Fatawu Dauda",
-        "Razak Musbau",
-        "Sammy Agyei",
-        "UMB Speed Stars",
-        "Yaw Preko"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-16.10.37-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dafeamekpor hails Kwasi Pratt Jnr as ‘scholar of formidable proportions’",
-      "link": "https://www.myjoyonline.com/dafeamekpor-hails-kwasi-pratt-jnr-as-scholar-of-formidable-proportions/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T17:36:37.000Z",
-      "summary": "The Member of Parliament (MP) for South Dayi, Rockson-Nelson Dafeamekpor, has paid tribute to veteran journalist Kwasi Pratt Jnr, describing him as a principled scholar whose work has…",
-      "categories": [
-        "In Focus",
-        "National",
-        "Kwasi Pratt Jnr",
-        "Rockson-Nelson Dafeamekpor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Kwasi-Pratt.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The BECE exam and placement conundrum: Necessary evil or failing system?",
-      "link": "https://www.myjoyonline.com/the-bece-exam-and-placement-conundrum-necessary-evil-or-failing-system/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T17:36:25.000Z",
-      "summary": "Every year, the release of the BECE results is followed by another familiar national ritual: the scramble for Senior High School places, anxious parents, long queues at placement centres…",
-      "categories": [
-        "Opinion",
-        "BECE",
-        "System"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/BECE-CANDIDATES.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "ADB Ghana Medicals supports $100m Otumfuo Cancer Centre project in Kumasi",
