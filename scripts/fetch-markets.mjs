@@ -60,8 +60,10 @@ export const GSE_URLS = [
 // of markup costs formatting rather than the data.
 export const GSE_PAGES = [
   "https://afx.kwayisi.org/gse/",
-  "https://ghanastockmarket.com/companies",
-  "https://www.ghanaweb.com/GhanaHomePage/business/stock_market.php"
+  "https://phionyxandacfe.org/market-intelligence/",
+  "https://www.mystocks.africa/exchanges/gse-ghana",
+  "https://ghanastockmarket.com/prices",
+  "https://ghanastockmarket.com/companies"
 ];
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
@@ -94,16 +96,36 @@ export async function getQuoteJson(url) {
 export function parseGsePage(html) {
   const rows = String(html).match(/<tr[\s>][\s\S]*?<\/tr>/gi) || [];
   const clean = s => String(s).replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
+  // "MTNGH.GH" and "MTNGH" are the same company; the suffix is the venue, not the ticker
+  const tick = s => String(s).toUpperCase().replace(/\.(GH|GSE)$/i, "").trim();
+  const isTicker = s => /^[A-Z][A-Z0-9-]{1,7}$/.test(s);
+  // "GHS 6.67", "GH¢ 5.20" and "5.20" are all a price; "+3.3%" is not, and neither is a
+  // volume in the millions. The first plain number after the ticker is the one wanted.
+  const priceOf = s => {
+    const t = String(s);
+    if (/%/.test(t)) return null;
+    const m = /(\d[\d,]*\.?\d*)/.exec(t.replace(/\s/g, ""));
+    if (!m) return null;
+    const n = Number(m[1].replace(/,/g, ""));
+    return isFinite(n) && n > 0 && n < 1e6 ? n : null;
+  };
   const out = [];
   for (const tr of rows) {
     const cells = (tr.match(/<t[dh][\s>][\s\S]*?<\/t[dh]>/gi) || []).map(clean);
     if (cells.length < 3) continue;
-    const code = cells[0].toUpperCase();
-    if (!/^[A-Z][A-Z0-9.\-]{1,7}$/.test(code)) continue;          // the ticker column
-    const nums = cells.slice(1).map(c => Number(String(c).replace(/[, ]/g, "")));
-    const price = nums.find(n => isFinite(n) && n > 0);
-    if (!isFinite(price)) continue;
-    const name = cells.slice(1).find(c => /[A-Za-z]{3}/.test(c)) || code;
+    // the ticker is usually first, sometimes second, behind the company name
+    let at = -1, code = "";
+    for (let i = 0; i < Math.min(3, cells.length); i++) {
+      const c = tick(cells[i]);
+      if (isTicker(c)) { at = i; code = c; break; }
+    }
+    if (at < 0) continue;
+    let price = null;
+    for (let i = at + 1; i < cells.length; i++) { price = priceOf(cells[i]); if (price != null) break; }
+    if (price == null) for (let i = 0; i < at; i++) { price = priceOf(cells[i]); if (price != null) break; }
+    if (price == null) continue;
+    // the company name: the first cell that is words rather than a number, ticker aside
+    const name = cells.find((c, i) => i !== at && /[A-Za-z]{3}/.test(c) && priceOf(c) == null) || code;
     out.push({ name: code, company: name, price });
   }
   return out;
