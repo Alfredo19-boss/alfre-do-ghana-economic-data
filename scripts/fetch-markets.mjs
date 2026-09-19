@@ -5,7 +5,15 @@
 // every 20 minutes, and keeps the last good figure for anything that fails to arrive.
 //
 // Run locally: node scripts/fetch-markets.mjs
+import dns from "node:dns";
 import { load, save } from "./lib/datafile.mjs";
+
+// GitHub's runners advertise IPv6, and Node 18+ tries the AAAA record first. Hosts that
+// publish an AAAA record but do not actually answer on it fail with a bare "fetch failed" —
+// no status, no body, because the connection never opened. That is exactly what every Ghana
+// Stock Exchange source returned from Actions while answering normally from elsewhere.
+// Asking for IPv4 first costs nothing and is the usual cure.
+dns.setDefaultResultOrder("ipv4first");
 
 const FILE = new URL("../markets-data.js", import.meta.url).pathname;
 const UA = "Mozilla/5.0 (compatible; AlfredoGhanaEconomicData/1.0; markets)";
@@ -37,14 +45,24 @@ export const SYMBOLS = {
 };
 
 // The GSE publishes through this open endpoint; the second is a fallback with the same shape.
+/* The Ghana Stock Exchange sells its own feed for a great deal of money, so every free source
+ * is somebody republishing it. They are tried in turn and the log names which one answered —
+ * from GitHub's servers the answer has been "none of them", which is why the list is now
+ * longer and spread across four different hosts rather than two paths on one. */
 export const GSE_URLS = [
   "https://dev.kwayisi.org/apis/gse/live",
-  "https://dev.kwayisi.org/apis/gse/equities"
+  "https://dev.kwayisi.org/apis/gse/equities",
+  "https://api.ghana-api.dev/api/v1/stock-market/live",
+  "https://api.ghana-api.dev/api/v1/stock-market/stocks"
 ];
-// If both JSON endpoints are down, the same publisher's public table is read instead. It is a
-// last resort and parsed loosely on purpose: any row whose first cell looks like a ticker and
-// which carries a price is kept, so a change of markup costs formatting rather than the data.
-export const GSE_PAGE = "https://afx.kwayisi.org/gse/";
+// If no JSON endpoint answers, a published table is read instead. Parsed loosely on purpose:
+// any row whose first cell looks like a ticker and which carries a price is kept, so a change
+// of markup costs formatting rather than the data.
+export const GSE_PAGES = [
+  "https://afx.kwayisi.org/gse/",
+  "https://ghanastockmarket.com/companies",
+  "https://www.ghanaweb.com/GhanaHomePage/business/stock_market.php"
+];
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
 
@@ -117,19 +135,65 @@ export function parseQuote(json) {
   };
 }
 
+/* ---- the cedi pairs ----------------------------------------------------------
+ * Yahoo's quote for the cedi is an indicative one and it is not good enough. Recorded over
+ * three days it read 11.48, 11.50, 11.48 while the Bank of Ghana's own rate moved 11.50 to
+ * 11.55 — a thin pair quoted on round numbers, which on the ticker looks like a rate that
+ * has stopped. The daily mid-market rate below is the figure a search engine shows, it moves
+ * every day, and it carries naira, rand and yuan too — which also fixes NGNGHS=X, the one
+ * symbol Yahoo answers with a 404. Yahoo stays the fallback, and stays the source for gold,
+ * the indices and everything else, where its quotes are good.
+ */
+const CURRENCY_API = [
+  "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
+  "https://latest.currency-api.pages.dev/v1/currencies/usd.json"
+];
+// symbol -> the currency to divide the cedi rate by; null means the dollar itself
+export const CEDI_PAIRS = { "GHS=X": null, "EURGHS=X": "eur", "GBPGHS=X": "gbp", "NGNGHS=X": "ngn", "ZARGHS=X": "zar", "CNYGHS=X": "cny" };
+
+export function parseCedis(json) {
+  const r = json && json.usd;
+  if (!r || typeof r.ghs !== "number" || !(r.ghs > 0) || !json.date) return {};
+  const at = `${json.date}T00:00:00.000Z`;
+  const out = {};
+  for (const [symbol, per] of Object.entries(CEDI_PAIRS)) {
+    const value = per === null ? r.ghs : (typeof r[per] === "number" && r[per] > 0 ? r.ghs / r[per] : null);
+    if (value == null || !isFinite(value) || value <= 0) continue;
+    out[symbol] = { value: +value.toPrecision(8), at };
+  }
+  return out;
+}
+
+async function fetchCedis(log) {
+  for (const url of CURRENCY_API) {
+    try {
+      const got = parseCedis(await getJson(url));
+      const n = Object.keys(got).length;
+      if (!n) throw new Error("no cedi rate in the reply");
+      log.push(`cedi mid-rates: ${n} pairs from ${url}`);
+      return got;
+    } catch (e) { log.push(`cedi mid-rates ${url}: failed (${e.message})`); }
+  }
+  return {};
+}
+
 // The GSE feed gives one row per listed company. Shapes differ slightly between the two
 // endpoints, so this takes whichever fields are present and ignores anything unusable.
 export function parseGse(rows) {
   if (!Array.isArray(rows)) return [];
   return rows.map(r => {
-    const code = String(r.name || r.symbol || r.ticker || "").trim().toUpperCase();
-    const price = Number(r.price ?? r.close ?? r.last);
+    // Publishers disagree about which field holds the ticker: one puts it in `name` with the
+    // company in `company`, another uses `symbol`. Take the first field that actually looks
+    // like a ticker rather than trusting any one name.
+    const candidates = [r.symbol, r.ticker, r.code, r.name].map(v => String(v || "").trim().toUpperCase());
+    const code = candidates.find(v => /^[A-Z][A-Z0-9.\-]{1,7}$/.test(v)) || candidates.find(Boolean) || "";
+    const price = Number(r.price ?? r.close ?? r.last ?? r.lastPrice ?? r.closing);
     if (!code || !isFinite(price) || price <= 0) return null;
     const change = Number(r.change);
     const volume = Number(r.volume ?? r.vol);
     return {
       code,
-      name: String(r.company || r.longName || r.title || code).trim(),
+      name: String(r.company || r.companyName || r.longName || r.title || (r.name && String(r.name).toUpperCase() !== code ? r.name : "") || code).trim(),
       price: +price.toFixed(2),
       change: isFinite(change) ? +change.toFixed(2) : null,
       pct: isFinite(change) && price - change > 0 ? +((change / (price - change)) * 100).toFixed(2) : null,
@@ -158,17 +222,34 @@ export async function main() {
   const log = [];
   const world = { ...(old.world || {}) };
 
+  const cedis = await fetchCedis(log);
+
   for (const [group, list] of Object.entries(SYMBOLS)) {
     const kept = new Map((world[group] || []).map(x => [x.symbol, x]));
     let got = 0;
     for (const [symbol, name, unit, dec] of list) {
       try {
-        const q = parseQuote(await getQuoteJson(CHART(symbol)));
-        if (!q) throw new Error("no usable quote");
         const before = kept.get(symbol) || {};
+        let q;
+        if (cedis[symbol]) {
+          // a daily mid-market rate: yesterday's stored close is what it moved from
+          const past = (before.history || []).filter(p => p && p.date !== cedis[symbol].at.slice(0, 10));
+          const prev = past.length ? past[past.length - 1].value : (before.prev ?? null);
+          const value = cedis[symbol].value;
+          q = {
+            value, prev,
+            change: prev ? +(value - prev).toPrecision(6) : null,
+            pct: prev ? +((value / prev - 1) * 100).toFixed(2) : null,
+            at: cedis[symbol].at,
+            daily: true
+          };
+        } else {
+          q = parseQuote(await getQuoteJson(CHART(symbol)));
+          if (!q) throw new Error("no usable quote");
+          await wait(350);          // Yahoo refuses a burst; a third of a second apart is plenty
+        }
         kept.set(symbol, { symbol, name, unit, dec, ...q, history: addPoint(before.history, q.value, q.at) });
         got++;
-        await wait(350);            // Yahoo refuses a burst; a third of a second apart is plenty
       } catch (e) { log.push(`${symbol}: ${e.message}`); }
     }
     world[group] = list.map(([symbol]) => kept.get(symbol)).filter(Boolean);
@@ -185,16 +266,19 @@ export async function main() {
       break;
     } catch (e) { log.push(`GSE ${url}: failed (${e.message})`); }
   }
-  // Still nothing from either JSON endpoint: read the published table instead.
+  // Still nothing from any JSON endpoint: read a published table instead.
   if (!(ghana.equities || []).length) {
-    try {
-      const res = await fetch(GSE_PAGE, { headers: { "User-Agent": UA, Accept: "text/html,*/*" }, signal: AbortSignal.timeout(25000) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const equities = parseGse(parseGsePage(await res.text()));
-      if (equities.length < 5) throw new Error(`only ${equities.length} rows`);
-      ghana = { updated: new Date().toISOString(), source: "Ghana Stock Exchange, via the GSE open data feed", sourceUrl: "https://gse.com.gh/", equities };
-      log.push(`GSE: ${equities.length} listed companies from the published table`);
-    } catch (e) { log.push(`GSE ${GSE_PAGE}: failed (${e.message})`); }
+    for (const page of GSE_PAGES) {
+      try {
+        const res = await fetch(page, { headers: { "User-Agent": UA, Accept: "text/html,*/*" }, signal: AbortSignal.timeout(25000) });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const equities = parseGse(parseGsePage(await res.text()));
+        if (equities.length < 5) throw new Error(`only ${equities.length} rows`);
+        ghana = { updated: new Date().toISOString(), source: "Ghana Stock Exchange, via a published price table", sourceUrl: "https://gse.com.gh/", equities };
+        log.push(`GSE: ${equities.length} listed companies from ${page}`);
+        break;
+      } catch (e) { log.push(`GSE ${page}: failed (${e.message})`); }
+    }
   }
 
   // Always write. `world` and `ghana` both start from what the file already held, so a run that

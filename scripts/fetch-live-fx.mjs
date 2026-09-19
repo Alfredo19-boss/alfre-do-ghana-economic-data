@@ -128,11 +128,55 @@ export function merge(old, fresh) {
   let changed = false;
   for (const [key, q] of Object.entries(fresh)) {
     const before = quotes[key];
-    if (before && Date.parse(q.at) < Date.parse(before.at)) continue;   // never go backwards
+    // Never go backwards in time — except when the source itself changes. A daily mid-market
+    // rate is stamped midnight, so without this the first run after the switch would look
+    // older than the intraday quote it replaces and be thrown away for the rest of the day.
+    if (before && !!before.daily === !!q.daily && Date.parse(q.at) < Date.parse(before.at)) continue;
     if (moved(before, q)) changed = true;
     quotes[key] = { ...q, name: QUOTES[key][1], prev: before && before.value !== q.value ? before.value : (before ? before.prev : undefined) };
   }
   return { quotes, changed };
+}
+
+/* ---- the market rate for the cedi ---------------------------------------------
+ * Yahoo's cedi quote is indicative and moves in coarse steps — over three days it read
+ * 11.48, 11.50, 11.48 while the Bank of Ghana's own rate went 11.50 to 11.55. On the page
+ * that reads as a rate that has stopped. The daily mid-market rate below is the figure a
+ * search engine shows, it moves every day, and it is the same source the ticker uses, so
+ * the card and the ticker cannot disagree. Yahoo keeps gold, where its quote is good.
+ */
+const CURRENCY_API = [
+  "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
+  "https://latest.currency-api.pages.dev/v1/currencies/usd.json"
+];
+const MID_PAIRS = { usd: null, gbp: "gbp", eur: "eur", cny: "cny" };
+
+export function parseMid(json) {
+  const r = json && json.usd;
+  if (!r || typeof r.ghs !== "number" || !(r.ghs > 0) || !json.date) return {};
+  const at = `${json.date}T00:00:00.000Z`;
+  const out = {};
+  for (const [key, per] of Object.entries(MID_PAIRS)) {
+    const value = per === null ? r.ghs : (typeof r[per] === "number" && r[per] > 0 ? r.ghs / r[per] : null);
+    if (value == null || !isFinite(value) || value <= 0) continue;
+    const range = QUOTES[key] && QUOTES[key][2];
+    if (range && (value < range[0] || value > range[1])) continue;
+    out[key] = { value: +value.toPrecision(6), at, daily: true };
+  }
+  return out;
+}
+
+async function fetchMid(log) {
+  for (const url of CURRENCY_API) {
+    try {
+      const got = parseMid(await get(url));
+      const n = Object.keys(got).length;
+      if (!n) throw new Error("no cedi rate in the reply");
+      log.push(`cedi mid-rates: ${n} pairs from ${url}`);
+      return got;
+    } catch (e) { log.push(`cedi mid-rates ${url}: failed (${e.message})`); }
+  }
+  return {};
 }
 
 export async function main() {
@@ -140,7 +184,9 @@ export async function main() {
   try { old = load(FILE, "GDC_LIVE"); } catch (e) { /* first run */ }
 
   const log = [], fresh = {};
+  const mid = await fetchMid(log);
   for (const [key, [symbol, , range]] of Object.entries(QUOTES)) {
+    if (mid[key]) { fresh[key] = mid[key]; log.push(`${key}: ${mid[key].value} (mid-market, ${mid[key].at.slice(0, 10)})`); continue; }
     try {
       const q = parseQuote(await get(CHART(symbol)), range);
       if (!q) { log.push(`${key}: no usable quote`); continue; }
@@ -173,9 +219,10 @@ export async function main() {
   save(FILE, "GDC_LIVE", {
     updated: new Date().toISOString(),
     note: "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
-    source: "Bank of Ghana, and Yahoo Finance for the market quotes",
+    source: "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
     official: bog || undefined,
     officialAt: bog ? new Date().toISOString() : undefined,
+    log,
     quotes
   });
   console.log(log.join("\n"));
