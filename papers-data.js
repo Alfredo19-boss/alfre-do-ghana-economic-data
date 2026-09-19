@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T04:45:45.376Z",
+  "updated": "2026-09-19T09:01:13.116Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,131 +25,144 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Government reviews GH¢25,000 citizenship fee after diaspora concerns",
-      "link": "https://www.myjoyonline.com/government-reviews-gh%c2%a225000-citizenship-fee-after-diaspora-concerns/",
+      "title": "GES directs SHS and SHTS to stop turning away students over trunks and chop boxes",
+      "link": "https://www.myjoyonline.com/ges-directs-shs-and-shts-to-stop-turning-away-students-over-trunks-and-chop-boxes/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T04:32:57.000Z",
-      "summary": "The government is reviewing the GH¢25,000 fee for acquiring Ghanaian citizenship following concerns from members of the diaspora that the cost could discourage people from formalising their…",
+      "published": "2026-09-19T08:57:15.000Z",
+      "summary": "The Ghana Education Service (GES) has directed Senior High Schools (SHSs) and Senior High Technical Schools (SHTSs) to stop turning away duly admitted boarding students because of the type…",
       "categories": [
+        "Education",
+        "National",
+        "chop boxes",
+        "GES",
+        "SHS",
+        "SHTS",
+        "trunks"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2688.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Foreign Affairs Ministry requests special audit of evacuation spending since 2017 to date",
+      "link": "https://www.myjoyonline.com/foreign-affairs-ministry-requests-special-audit-of-evacuation-spending-since-2017-to-date/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T08:28:29.000Z",
+      "summary": "The Ministry of Foreign Affairs has asked the Auditor-General to conduct a special audit of government-funded emergency evacuation exercises undertaken since 2017, including the recent…",
+      "categories": [
+        "HP News 8",
+        "National",
         "News",
-        "citizenship fee",
-        "Diaspora",
-        "Government"
+        "Auditor Genenral",
+        "Covid-19",
+        "Evacuation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-18.25.01-1024x642.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Samuel-Okudzeto-Ablakwa3-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Leadership Skills and Public Policy Priorities for Inclusive and Resilient Africa: An integrated Ubuntu perspective",
-      "link": "https://www.myjoyonline.com/leadership-skills-and-public-policy-priorities-for-inclusive-and-resilient-africa-an-integrated-ubuntu-perspective/",
+      "title": "Livestream: Newsfile discusses Ghana Jollof case, cocaine shipment, COVID audit, constitutional reforms",
+      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-ghana-jollof-case-cocaine-shipment-covid-audit-constitutional-reforms/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T04:26:52.000Z",
-      "summary": "This paper utilizes the 2014-2016 Ebola virus disease outbreak as a case study to examine how leadership skills and public policy grounded in the philosophy of Ubuntu can drive inclusive…",
-      "categories": [
-        "Opinion",
-        "IMANI",
-        "Leadership",
-        "Ubuntu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-27.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Daily Insight for CEOs: Employee engagement as a leadership responsibility",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-employee-engagement-as-a-leadership-responsibility/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T04:06:17.000Z",
-      "summary": "Engaged employees are more likely to understand organisational priorities, contribute ideas, collaborate effectively, and remain committed to achieving results.",
-      "categories": [
-        "Opinion",
-        "Daily Insight",
-        "Employee",
-        "Leadership"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2404-683x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Publicly funded, privately controlled! The multi-million-cedi Astroturf Exposé",
-      "link": "https://www.myjoyonline.com/publicly-funded-privately-controlled-the-multi-million-cedi-astroturf-expose/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T04:05:40.000Z",
-      "summary": "The One Constituency, One Astroturf programme that began in 2017 as one of President Nana Akufo-Addo’s administration’s most celebrated sports infrastructure initiative was welcomed across…",
+      "published": "2026-09-19T08:07:23.000Z",
+      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will today examine four major national issues that have dominated public discourse over the past week. The programme will examine the…",
       "categories": [
         "National",
-        "Astroturf Exposé",
-        "Ghana",
-        "ne Constituency One Astroturf programme"
+        "Top Story",
+        "Cocaine",
+        "Covid-19 audit",
+        "Ghana Jollof",
+        "Newsfile"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2558.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2685-1024x595.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NCD burden rising as Ghana struggles with prevention, awareness and long-term care – Health Expert",
-      "link": "https://www.myjoyonline.com/ncd-burden-rising-as-ghana-struggles-with-prevention-awareness-and-long-term-care-health-expert/",
+      "title": "SA Evacuation Exercise: Detailed breakdown of the GH¢27.18m spent on chartered flights",
+      "link": "https://www.myjoyonline.com/sa-evacuation-exercise-detailed-breakdown-of-the-gh%c2%a227-18m-spent-on-chartered-flights/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T02:51:44.000Z",
-      "summary": "Ghana is facing a growing burden of non-communicable diseases (NCDs), with low public awareness, unhealthy lifestyles and challenges in long-term disease management complicating efforts to…",
+      "published": "2026-09-19T07:57:04.000Z",
+      "summary": "The Ministry of Foreign Affairs earlier disclosed that GH¢27.18 million was spent on chartered flights during the government’s GH¢49.72 million evacuation of Ghanaians from South Africa…",
+      "categories": [
+        "National",
+        "News",
+        "evacuation exercise",
+        "Foreign Affair Ministry",
+        "Ibrahim Mahama",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/CEDIS.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Foreign Affairs Ministry submits 200-page report to Minority on GH¢49.7m South Africa evacuation",
+      "link": "https://www.myjoyonline.com/foreign-affairs-ministry-submits-200-page-report-to-minority-on-gh%c2%a249-7m-south-africa-evacuation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T07:48:50.000Z",
+      "summary": "The Ministry of Foreign Affairs has responded to a Right to Information (RTI) request from the Deputy Ranking Member of Parliament’s Foreign Affairs and Regional Integration Committee, Nana…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Foreign Affairs Ministry",
+        "Samuel Okudzeto Ablakwa",
+        "South Africa",
+        "xenophobia attacks"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/99a03cd5-b3bb-46d7-840b-56bd3c1dcb79-1024x702.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "link": "https://www.myjoyonline.com/us-and-denmark-reach-deal-over-greenland-after-trump-annexation-threats/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T07:38:16.000Z",
+      "summary": "The US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force.",
+      "categories": [
+        "International",
+        "Donald Trump",
+        "Greenland"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2684-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian nurses set for US opportunities as GEA brokers Columbus partnership",
+      "link": "https://www.myjoyonline.com/ghanaian-nurses-set-for-us-opportunities-as-gea-brokers-columbus-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T07:33:09.000Z",
+      "summary": "The Ghana Enterprises Agency (GEA) says an initiative led by its CEO, Margaret Ansei, has resulted in a partnership to create structured professional opportunities for qualified Ghanaian…",
       "categories": [
         "Health",
+        "Ghana Enterprises Agency (GEA)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2666-1024x736.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "University of Ghana wins 23 medals at 2026 FASU Games in Cairo",
+      "link": "https://www.graphic.com.gh/sports/sports-news/university-of-ghana-wins-23-medals-at-2026-fasu-games-in-cairo.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-19T07:24:32.000Z",
+      "summary": "The University of Ghana has clinched 23 medals at the 12th Federation of African University Sports Games held in Cairo, Egypt, with officials calling for increased support for university…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Time to list Uncle Ebo Whyte in Guinness Book",
+      "link": "https://www.myjoyonline.com/time-to-list-uncle-ebo-whyte-in-guinness-book/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T07:20:21.000Z",
+      "summary": "Today, in what I intend to be the final write-up in this gallery, permit me to add James (Uncle) Ebo Whyte.",
+      "categories": [
         "National",
-        "2026 World Patient Safety Day",
-        "Dr Efua Commeh",
-        "NCDs",
-        "Safe Care"
+        "Opinion",
+        "Enimil Ashon",
+        "James Ebo Whyte"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Efua-Commeh_top.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Patient safety must extend across entire NCD care journey – FOCOS Hospital’s orthopaedics chief",
-      "link": "https://www.myjoyonline.com/patient-safety-must-extend-across-entire-ncd-care-journey-focos-hospitals-orthopaedics-chief/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T01:36:57.000Z",
-      "summary": "Healthcare providers have been urged to treat patient safety as a shared responsibility that extends from diagnosis and treatment to monitoring, discharge and follow-up. Head of…",
-      "categories": [
-        "Health",
-        "National",
-        "FOCOS Hospital",
-        "NCDs",
-        "Non-Communicable diseases",
-        "World Patient Safety Day"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Dr.-Arthur-Sackeyfio.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Collateral Registry: Security interest registrations declined by 32.2% in quarter 2, 2026",
-      "link": "https://www.myjoyonline.com/collateral-registry-security-interest-registrations-declined-by-32-2-in-quarter-2-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T01:29:21.000Z",
-      "summary": "The registration of security interests decreased significantly to 92,033 in quarter two 2026 from 135,721 registrations recorded in quarter two 2025.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 7",
-        "BoG",
-        "Collateral Registry",
-        "S&Ls",
-        "Security Interest"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/download-6.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ninani Group staff take part in health walk, football and games at annual wellness programme",
-      "link": "https://www.myjoyonline.com/ninani-group-staff-take-part-in-health-walk-football-and-games-at-annual-wellness-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T01:28:45.000Z",
-      "summary": "After hours of staring at screens, chasing deadlines and working through demanding briefs, employees of the Ninani Group recently traded their office routines for football, racing, table…",
-      "categories": [
-        "Events",
-        "annual wellness",
-        "Football",
-        "Health Walk",
-        "Ninani Group"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/vlcsnap-2026-09-18-19h16m30s161-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/Screenshot-2025-06-15-at-4.28.43 AM-1024x616.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
