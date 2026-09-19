@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T04:25:26.493Z",
+  "updated": "2026-09-19T04:45:45.376Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government reviews GH¢25,000 citizenship fee after diaspora concerns",
+      "link": "https://www.myjoyonline.com/government-reviews-gh%c2%a225000-citizenship-fee-after-diaspora-concerns/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T04:32:57.000Z",
+      "summary": "The government is reviewing the GH¢25,000 fee for acquiring Ghanaian citizenship following concerns from members of the diaspora that the cost could discourage people from formalising their…",
+      "categories": [
+        "News",
+        "citizenship fee",
+        "Diaspora",
+        "Government"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-18.25.01-1024x642.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Leadership Skills and Public Policy Priorities for Inclusive and Resilient Africa: An integrated Ubuntu perspective",
+      "link": "https://www.myjoyonline.com/leadership-skills-and-public-policy-priorities-for-inclusive-and-resilient-africa-an-integrated-ubuntu-perspective/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T04:26:52.000Z",
+      "summary": "This paper utilizes the 2014-2016 Ebola virus disease outbreak as a case study to examine how leadership skills and public policy grounded in the philosophy of Ubuntu can drive inclusive…",
+      "categories": [
+        "Opinion",
+        "IMANI",
+        "Leadership",
+        "Ubuntu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-27.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Daily Insight for CEOs: Employee engagement as a leadership responsibility",
       "link": "https://www.myjoyonline.com/daily-insight-for-ceos-employee-engagement-as-a-leadership-responsibility/",
@@ -120,42 +150,6 @@ window.GDC_PAPERS = {
         "Ninani Group"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/vlcsnap-2026-09-18-19h16m30s161-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Total value of secured loans hits GH¢31.5bn in quarter 2 2026",
-      "link": "https://www.myjoyonline.com/total-value-of-secured-loans-hit-gh%c2%a231-5bn-in-quarter-2-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T01:16:21.000Z",
-      "summary": "According to the report, banks continued to dominate the secured transactions landscape by value of registered credit, accounting for a total value of GH¢19.9 billion, equivalent to 63.1%…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 2",
-        "BoG",
-        "MCIs",
-        "MFIs",
-        "S&Ls",
-        "secured loans"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-2381-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana needs national dialogue to end political insult culture — Kpebu",
-      "link": "https://www.myjoyonline.com/ghana-needs-national-dialogue-to-end-political-insult-culture-kpebu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T00:36:54.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has called for a national dialogue on Ghana’s growing culture of political insults, arguing that arrests and prosecutions alone will not resolve the…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Ghana Jollof",
-        "Insult culture",
-        "National Dialogue",
-        "Political insults"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-26.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
