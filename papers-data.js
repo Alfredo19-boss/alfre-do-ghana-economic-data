@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T13:03:42.578Z",
+  "updated": "2026-09-19T16:23:33.946Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,123 +25,174 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "MTN Ghana expands Savannahfest football gala to unearth grassroots talent",
-      "link": "https://www.myjoyonline.com/mtn-ghana-expands-savannahfest-football-gala-to-unearth-grassroots-talent/",
+      "title": "CNN and MS NOW say reporters denied White House access after Trump banned some media outlets",
+      "link": "https://www.myjoyonline.com/cnn-and-ms-now-say-reporters-denied-white-house-access-after-trump-banned-some-media-outlets/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T12:58:41.000Z",
-      "summary": "MTN Ghana has transformed its Savannahfest community football gala into a broader platform for grassroots talent development, drawing 16 teams from communities across the Northern Region to…",
-      "categories": [
-        "National",
-        "MTN Ghana",
-        "Savannahfest"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2720-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“Your vehicle will be seized” – Police warn vehicle owners over drug trafficking",
-      "link": "https://www.myjoyonline.com/your-vehicle-will-be-seized-police-warn-vehicle-owners-over-drug-trafficking/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T12:57:56.000Z",
-      "summary": "The Upper West Regional Police Command has confirmed that the substance retrieved from two persons arrested in Wa is cocaine.",
-      "categories": [
-        "News",
-        "Regional",
-        "Cocaine",
-        "Remand",
-        "Upper West Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/police-1024x521.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wa East Assembly hands over completed 6-unit classroom block abandoned since 2016 at Jeyiri",
-      "link": "https://www.myjoyonline.com/wa-east-assembly-hands-over-completed-6-unit-classroom-block-abandoned-since-2016-at-jeyiri/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T12:57:15.000Z",
-      "summary": "The Wa East District Assembly has completed and handed over a previously abandoned six-unit classroom block to the chiefs and people of Jeyiri, ending nearly a decade of severe…",
-      "categories": [
-        "Education",
-        "Regional",
-        "6-unit classroom",
-        "Jeyiri",
-        "Wa East Assembly"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2711-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sanitation crisis: Minority demands dedicated fund as municipalities struggle with basic waste collection",
-      "link": "https://www.myjoyonline.com/sanitation-crisis-minority-demands-dedicated-fund-as-municipalities-struggle-with-basic-waste-collection/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T12:41:04.000Z",
-      "summary": "The Minority in Parliament is demanding a dedicated sanitation fund, warning that Ghana cannot modernise waste management while municipalities struggle to finance even basic waste…",
-      "categories": [
-        "News",
-        "Minority",
-        "sanitation crisis",
-        "Waste collection"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2700.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Deadly shark attack prompts rare kill order in Western Australia",
-      "link": "https://www.myjoyonline.com/deadly-shark-attack-prompts-rare-kill-order-in-western-australia/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T12:40:49.000Z",
-      "summary": "A rare catch-and-kill order has been issued for a great white shark off the coast of Western Australia, after a man was killed while on a morning swim at a popular beach on Friday. His body…",
+      "published": "2026-09-19T16:19:00.000Z",
+      "summary": "CNN and MS NOW journalists have been denied access to the White House after US President Donald Trump announced he was banning the outlets.",
       "categories": [
         "International",
-        "Shark",
-        "Western Australia"
+        "CNN",
+        "MS NOW",
+        "Trump"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2708-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-1015-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "192 cocaine wraps confirmed in Wa drug bust",
-      "link": "https://www.myjoyonline.com/192-cocaine-wraps-confirmed-in-wa-drug-bust/",
+      "title": "Mahama directs AMA, sister assemblies to prevent renewed dumping at Agbogbloshie",
+      "link": "https://www.myjoyonline.com/mahama-directs-ama-sister-assemblies-to-prevent-renewed-dumping-at-agbogbloshie/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T12:40:27.000Z",
-      "summary": "The Upper West Regional Police Command has confirmed that the substance retrieved from two persons arrested in Wa is cocaine.",
+      "published": "2026-09-19T16:11:44.000Z",
+      "summary": "President John Mahama has directed the Accra Metropolitan Assembly (AMA), Ablekuma Central Municipal Assembly and other local authorities to intensify sanitation enforcement and protect the…",
+      "categories": [
+        "National",
+        "Accra Metropolitan Assembly (AMA)",
+        "Agbogbloshie",
+        "President John Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/016A9876-1024x617.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deputy Health Minister charges military nurses to uphold compassion, excellence",
+      "link": "https://www.myjoyonline.com/deputy-health-minister-charges-military-nurses-to-uphold-compassion-excellence/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T16:00:29.000Z",
+      "summary": "The Deputy Minister for Health, Professor Dr Grace Ayensu-Danquah, has urged military nurses and midwives to remain committed to compassionate care, professional excellence and dedicated…",
+      "categories": [
+        "Health",
+        "National",
+        "Deputy Health Minister",
+        "military nurses",
+        "Professor Dr Grace Ayensu-Danquah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Grace-Ayensu-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Osagyefo Fight Night: Allotey, Garcia on weight for WBA world title eliminator",
+      "link": "https://www.graphic.com.gh/sports/sports-news/osagyefo-fight-night-allotey-garcia-on-weight-for-wba-world-title-eliminator.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-19T15:51:00.000Z",
+      "summary": "Theophilus Kpakpo “Theo Lopez” Allotey and Argentina’s Facundo David Garcia have both made weight ahead of Saturday’s high-stakes WBA Super Flyweight world-title final eliminator at the…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/ALLOTEY2.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Deputy Health Minister charges military nurses, midwives to remain dedicated to service",
+      "link": "https://www.myjoyonline.com/deputy-health-minister-charges-military-nurses-midwives-to-remain-dedicated-to-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T15:46:36.000Z",
+      "summary": "The Deputy Minister for Health, Prof. Dr Grace Ayensu-Danquah, has urged Ghanaian military nurses and midwives to continue demonstrating compassion, pursuing professional excellence, and…",
+      "categories": [
+        "National",
+        "Deputy Health Minister",
+        "midwives",
+        "nurses"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2758-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Three suspected robbers killed as police dismantle gang in Upper East",
+      "link": "https://www.myjoyonline.com/three-suspected-robbers-killed-as-police-dismantle-gang-in-upper-east/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T15:43:00.000Z",
+      "summary": "Three suspected members of a robbery gang linked to a series of attacks on motorbike riders and mobile money vendors in parts of the Upper East Region have died following a gunfire exchange…",
       "categories": [
         "Crime",
         "Regional",
-        "Cocaine",
-        "Wa"
+        "Police",
+        "Upper East"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-09.05.18-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2765-1024x768.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Arrest everyone involved in the handling chain of cocaine-linked container – Kofi Bentil",
-      "link": "https://www.myjoyonline.com/arrest-everyone-in-the-handling-chain-of-cocaine-linked-container-kofi-bentil/",
+      "title": "EU Ambassador pays courtesy call on IGP to strengthen security cooperation",
+      "link": "https://www.myjoyonline.com/eu-ambassador-pays-courtesy-call-on-igp-to-strengthen-security-cooperation/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T12:15:43.000Z",
-      "summary": "Lawyer and Vice President of IMANI Africa, Kofi Bentil, has called for the arrest of everyone involved in the handling of a container loaded with cocaine that was shipped from Ghana.",
+      "published": "2026-09-19T15:39:49.000Z",
+      "summary": "European Union (EU) Ambassador to Ghana, H.E. Rune Skinnebach, has paid a courtesy call on the Inspector-General of Police (IGP), Mr. Christian Tetteh Yohuno, as part of efforts to…",
       "categories": [
         "National",
-        "News",
-        "Cocaine",
-        "Kofi Bentil"
+        "EU Ambassador",
+        "IGP",
+        "Security"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-482-754x424-1.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2774-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-      "link": "https://www.myjoyonline.com/saudi-arabia-issues-first-air-raid-alerts-for-riyadh-since-houthis-escalated-attacks/",
+      "title": "Africa’s dependence on foreign powers betrays Nkrumah’s unfinished vision – P.L.O. Lumumba",
+      "link": "https://www.myjoyonline.com/africas-dependence-on-foreign-powers-betrays-nkrumahs-unfinished-vision-p-l-o-lumumba/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T12:15:40.000Z",
-      "summary": "Residents in Saudi Arabia's Riyadh have been given the all-clear after air raid alerts were issued and explosions were reported in the capital.",
+      "published": "2026-09-19T15:31:27.000Z",
+      "summary": "Renowned Pan-Africanist and anti-corruption crusader Professor P.L.O. Lumumba has warned that Africa’s continued dependence on foreign powers for its medicines, food, technology and global…",
       "categories": [
-        "International",
-        "air raid",
-        "Saudi Arabia"
+        "National",
+        "Regional",
+        "Africa",
+        "Professor P.L.O. Lumumba"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2707-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2764-1024x536.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "3 suspects shot dead, 2 officers injured in Tilly Forest robbery follow-up operation",
+      "link": "https://www.myjoyonline.com/3-suspects-shot-dead-2-officers-injured-in-tilly-forest-robbery-follow-up-operation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T15:29:01.000Z",
+      "summary": "Three suspects have been shot dead and two police officers injured during a follow-up operation by the Upper East Regional Police Command to retrieve weapons allegedly concealed by a…",
+      "categories": [
+        "Crime",
+        "HP News 5",
+        "National",
+        "Police",
+        "Upper West"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2754-1024x891.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mireku Jnr stars as MTN marks 30 years with golf classic",
+      "link": "https://www.graphic.com.gh/sports/sports-news/mireku-jnr-stars-as-mtn-marks-30-years-with-golf-classic.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-19T14:30:13.000Z",
+      "summary": "Yaw Mireku Jnr produced the tournament’s outstanding score of 45 points, but MTN Ghana’s 30th Anniversary Invitational at Achimota Golf Club carried a significance beyond the leaderboard as…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/YAMSON.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Timber Giants set trap for Kotoko as Hearts, Medeama face defining tests",
+      "link": "https://www.graphic.com.gh/sports/sports-news/timber-giants-set-trap-for-kotoko-as-hearts-medeama-face-defining-tests.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-19T14:22:14.000Z",
+      "summary": "FC Samartex’s perfect start in the Ghana Premier League faces its toughest test yet when the Timber Giants host Kumasi Asante Kotoko in Samreboi tomorrow, while leaders Hearts of Oak chase…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/SAMARTEX.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Allotey vows to go ‘all out’ as world-title shot beckons",
+      "link": "https://www.graphic.com.gh/sports/sports-news/allotey-vows-to-go-all-out-as-world-title-shot-beckons.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-19T14:12:20.000Z",
+      "summary": "Theophilus Kpakpo “Theo Lopez” Allotey stands potentially 12 rounds away from transforming a remarkable two-year professional rise into a world-title opportunity when he faces Argentina’s…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/ALLOTEY.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "World Patient Safety Day commemorated in Accra",
@@ -388,42 +439,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kenyans dominate 2026 Millennium Marathon",
-      "link": "https://www.graphic.com.gh/sports/sports-news/kenyans-dominate-2026-millennium-marathon.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-17T17:20:53.000Z",
-      "summary": "Kenyans dominated the 2026 KGL Foundation Millennium Half Marathon, sweeping the top three positions in both the men’s and women’s 21-kilometre races at an event that attracted more than…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/marathon.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "US Embassy concludes three-city girls’ football coaching initiative",
-      "link": "https://www.graphic.com.gh/sports/sports-news/us-embassy-concludes-three-city-girls-football-coaching-initiative.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-17T17:19:03.000Z",
-      "summary": "The US Embassy in Accra has concluded a 10-day Sports Envoy initiative designed to strengthen girls’ football development, coaching capacity and leadership across Tamale, Kumasi and Accra…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/coach.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "African greats inspired by the potential of Nairobi 2029",
-      "link": "https://www.graphic.com.gh/sports/sports-news/african-greats-inspired-by-the-potential-of-nairobi-2029.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-17T11:16:30.000Z",
-      "summary": "The decision to award the 2029 World Athletics Championships to Nairobi has prompted an outpouring of celebration across Africa. Ethiopian great Haile Gebrselassie, a two-time Olympic…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/17/Faith.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
