@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T22:53:07.930Z",
+  "updated": "2026-09-19T23:48:28.832Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -193,6 +193,18 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
+      "title": "Upper East: Police retrieve weapons, motorbikes after dismantling robbery gang",
+      "link": "https://www.graphic.com.gh/news/general-news/upper-east-police-retrieve-weapons-motorbikes-after-dismantling-robbery-gang.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-19T15:25:07.000Z",
+      "summary": "The Upper East Regional Police Command has retrieved weapons and motorbikes following the dismantling of a notorious robbery gang connected to a series of robbery attacks on motorbike…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/items.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Mireku Jnr stars as MTN marks 30 years with golf classic",
       "link": "https://www.graphic.com.gh/sports/sports-news/mireku-jnr-stars-as-mtn-marks-30-years-with-golf-classic.html",
       "source": "Graphic Sports",
@@ -229,6 +241,42 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
+      "title": "Police intercept truck with 5,164 suspected narcotic parcels in Oti Region",
+      "link": "https://www.graphic.com.gh/news/general-news/police-intercept-truck-with-5-164-suspected-narcotic-parcels-in-oti-region.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-19T12:11:21.000Z",
+      "summary": "The Oti Regional Police Command has intercepted a DAF articulator truck with registration number GE 3906-15, suspected to be conveying narcotic substances concealed in secret compartments.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/aliu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GES warns schools against unauthorised charges for trunks, uniforms, cutlasses",
+      "link": "https://www.graphic.com.gh/news/education/ges-warns-schools-against-unauthorised-charges-for-trunks-uniforms-cutlasses.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-19T11:36:26.000Z",
+      "summary": "The Ghana Education Service has warned heads of senior high schools against imposing unauthorised charges on parents and guardians, including compelling them to purchase items such as…",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2023/feb/13/shs_students_report.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GES directs schools to stop rejecting students over metal trunks, chop boxes",
+      "link": "https://www.graphic.com.gh/news/education/ges-directs-schools-to-stop-rejecting-students-over-metal-trunks-chop-boxes.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-19T11:21:39.000Z",
+      "summary": "The Ghana Education Service has directed heads of senior high and technical schools to stop turning away or refusing accommodation to duly admitted students solely because they report to…",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2017/september/13/freeshs.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "World Patient Safety Day commemorated in Accra",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-world-patient-safety-day-commemorated-in-accra.html",
       "source": "Daily Graphic",
@@ -262,54 +310,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/Naana.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Green Ghana Project: Over 90% of seedlings die in communities in Upper East",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-green-ghana-project-over-90-of-seedlings-die-in-communities-in-upper-east.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T10:49:31.000Z",
-      "summary": "About 90 per cent of seedlings planted in some part of the Upper East Region under the Green Ghana Project have failed to survive, a Daily Graphic investigation has found.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/seedlings.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Killer foods spark campaign - Mass media to promote front-of-pack warning labels",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-killer-foods-spark-campaign-mass-media-to-promote-front-of-pack-warning-labels.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T10:24:03.000Z",
-      "summary": "About 2.4 million Ghanaians are living with diabetes, while approximately 7.5 per cent of adults have Type 2 diabetes, according to the World Health Organisation (WHO).",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/Agyemang.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "One health: Why Ghana cannot fight the next disease outbreak alone",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-one-health-why-ghana-cannot-fight-the-next-disease-outbreak-alone.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T10:11:27.000Z",
-      "summary": "When bird flu swept through poultry farms in the Greater Accra, Ashanti, Central and other regions in past outbreaks, the response that followed involved veterinary officers culling birds…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/Zoonotic.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police uncover alleged network behind ‘Ghana Jollof’ operations",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-police-uncover-alleged-network-behind-ghana-jollof-operations.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T10:05:55.000Z",
-      "summary": "The Ghana Police Service (GPS) has uncovered an alleged network involved in the production, funding and circulation of videos published by TikTok personality, Barbara Asantewaa Kodua, alias…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/Donkor.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {

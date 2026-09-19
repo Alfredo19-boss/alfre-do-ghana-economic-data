@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-19T22:52:56.190Z",
-  "worldAt": "2026-09-19T22:52:56.188Z",
+  "updated": "2026-09-19T23:48:17.163Z",
+  "worldAt": "2026-09-19T23:48:17.160Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,7 +26,7 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 27 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,21 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+      "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T23:18:34.000Z",
+      "summary": "Turkish FM highlights Turkiye's readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen."
+    },
+    {
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T23:18:18.000Z",
+      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
       "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
       "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1106,12 +1121,12 @@ window.GDC_NEWS = {
       "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis."
     },
     {
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-19T21:01:56.000Z",
-      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
+      "published": "2026-09-19T23:18:06.000Z",
+      "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a670/live/ef18c930-b113-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
@@ -1119,6 +1134,14 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-09-19T20:47:20.000Z",
       "summary": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip."
+    },
+    {
+      "title": "Not all AI workers think the tech could kill everyone",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T23:01:57.000Z",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
     },
     {
       "title": "Two arrested for Louvre stunt 'for fun' in Mona Lisa hall",
@@ -1129,11 +1152,64 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/18ada5bc-b46c-11f1-8251-ed3d9e22a40f/w:1024/p:16x9/000-C2U84CB.jpg"
     },
     {
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T23:01:45.000Z",
+      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6132/live/ba962470-b355-11f1-bc1f-3f186ca4140c.png"
+    },
+    {
       "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
       "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-19T20:40:09.000Z",
       "summary": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case."
+    },
+    {
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T23:01:38.000Z",
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+      "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T20:30:01.000Z",
+      "summary": "Gaza's IT industry has been devastated from three-years of bombing and destruction."
+    },
+    {
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T23:00:27.000Z",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg"
+    },
+    {
+      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T20:13:56.000Z",
+      "summary": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash."
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T21:01:56.000Z",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg"
+    },
+    {
+      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+      "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T20:03:23.000Z",
+      "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic."
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -1144,11 +1220,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg"
     },
     {
-      "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-      "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+      "title": "Canadians warm to EU ‘associate membership’ proposal",
+      "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T20:30:01.000Z",
-      "summary": "Gaza's IT industry has been devastated from three-years of bombing and destruction."
+      "published": "2026-09-19T19:53:55.000Z",
+      "summary": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union."
     },
     {
       "title": "Journalists denied White House access after Trump banned some media outlets",
@@ -1159,11 +1235,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg"
     },
     {
-      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+      "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
+      "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T20:13:56.000Z",
-      "summary": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash."
+      "published": "2026-09-19T19:50:10.000Z",
+      "summary": "The announcements come as AI faces mounting concerns from populations across the United States."
     },
     {
       "title": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
@@ -1174,13 +1250,6 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/63d2a060-b458-11f1-b32e-0730212ba17f/w:1024/p:16x9/000-C8RZ2XK.jpg"
     },
     {
-      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-      "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T20:03:23.000Z",
-      "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic."
-    },
-    {
       "title": "The new lines of southern Lebanon",
       "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
       "source": "NPR World",
@@ -1189,11 +1258,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2Fea%2Fe687dbea4516b2a79105c90d0eb2%2Flbn-patrol-diegoibarrasanchez-003.jpg"
     },
     {
-      "title": "Canadians warm to EU ‘associate membership’ proposal",
-      "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+      "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+      "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T19:53:55.000Z",
-      "summary": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union."
+      "published": "2026-09-19T18:32:30.000Z",
+      "summary": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response."
     },
     {
       "title": "Greenland Deal: Greenland: A Trump Win or Danish Masterclass?",
@@ -1204,11 +1273,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5d23c3d0-b44d-11f1-bf20-5b4fdf021577/w:1024/p:16x9/MILANO-CORTINA-000-97EH8CM.jpg"
     },
     {
-      "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
-      "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+      "title": "Israel targets paramedics in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T19:50:10.000Z",
-      "summary": "The announcements come as AI faces mounting concerns from populations across the United States."
+      "published": "2026-09-19T18:06:52.000Z",
+      "summary": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team."
     },
     {
       "title": "CNN, MS NOW, Politico reporters blocked from White House after Trump ban",
@@ -1219,11 +1288,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/eb650650-b447-11f1-8a93-9f514b90f153/w:1024/p:16x9/AP26262504511078.jpg"
     },
     {
-      "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-      "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+      "title": "Cuba works to restore power after another major nationwide blackout",
+      "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T18:32:30.000Z",
-      "summary": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response."
+      "published": "2026-09-19T17:59:57.000Z",
+      "summary": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect."
     },
     {
       "title": "Ukraine steps up measures to protect railways",
@@ -1233,11 +1302,11 @@ window.GDC_NEWS = {
       "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is making plans to keep passengers safe."
     },
     {
-      "title": "Israel targets paramedics in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
+      "title": "Dutch riot police break up violent far-right protest in The Hague",
+      "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T18:06:52.000Z",
-      "summary": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team."
+      "published": "2026-09-19T17:55:45.000Z",
+      "summary": "Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally."
     },
     {
       "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
@@ -1248,11 +1317,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5936ae04-b43e-11f1-82e1-9f514b90f153/w:1024/p:16x9/EN-20260919-170853-171035-CS.jpg"
     },
     {
-      "title": "Cuba works to restore power after another major nationwide blackout",
-      "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
+      "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
+      "link": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T17:59:57.000Z",
-      "summary": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect."
+      "published": "2026-09-19T17:48:18.000Z",
+      "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday."
     },
     {
       "title": "Macron visits remote French territory in the North America, a first in over a decade",
@@ -1263,11 +1332,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/32c5d5c0-b43d-11f1-a60d-9f514b90f153/w:1024/p:16x9/EN-20260919-170648-170803-CS.jpg"
     },
     {
-      "title": "Dutch riot police break up violent far-right protest in The Hague",
-      "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
+      "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T17:55:45.000Z",
-      "summary": "Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally."
+      "published": "2026-09-19T17:14:45.000Z",
+      "summary": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine."
     },
     {
       "title": "Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia",
@@ -1278,11 +1347,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6756645e-b43c-11f1-8e27-9ff5c3f464d4/w:1024/p:16x9/EN-20260919-160101-160431-CS.jpg"
     },
     {
-      "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
-      "link": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
+      "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
+      "link": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T17:48:18.000Z",
-      "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday."
+      "published": "2026-09-19T16:42:26.000Z",
+      "summary": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City."
     },
     {
       "title": "Nigeria gold miner deaths spark protests in Niger state",
@@ -1292,11 +1361,11 @@ window.GDC_NEWS = {
       "summary": "Survivors of a Nigerian disaster that saw 37 suspected illegal gold miners die while in the custody of a paramilitary civil defence group recounted their panic on Friday as they struggled…"
     },
     {
-      "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
-      "link": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
+      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+      "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T17:14:45.000Z",
-      "summary": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine."
+      "published": "2026-09-19T16:21:36.000Z",
+      "summary": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue."
     },
     {
       "title": "As petrol prices rise, France turns to bioethanol – a cheaper fuel alternative",
@@ -1307,11 +1376,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f12fd33c-b436-11f1-808f-5b4fdf021577/w:1024/p:16x9/EN-20260919-161057-161228-CS.jpg"
     },
     {
-      "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
-      "link": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
+      "title": "Police hiring standards matter. But they alone cannot stop abuse",
+      "link": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T16:42:26.000Z",
-      "summary": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City."
+      "published": "2026-09-19T15:58:55.000Z",
+      "summary": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities."
     },
     {
       "title": "Converse pulls 'deeply upsetting' advert after backlash",
@@ -1322,78 +1391,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3993/live/0f1fa560-b433-11f1-9fa0-111a12dcb7b0.jpg"
     },
     {
-      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
-      "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T16:21:36.000Z",
-      "summary": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue."
-    },
-    {
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-19T13:39:32.000Z",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg"
-    },
-    {
-      "title": "Police hiring standards matter. But they alone cannot stop abuse",
-      "link": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T15:58:55.000Z",
-      "summary": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities."
-    },
-    {
-      "title": "China is now Rwanda’s biggest export market – now comes the hard part",
-      "link": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
-      "source": "France 24",
-      "published": "2026-09-19T13:30:55.000Z",
-      "summary": "In the first quarter of 2026, China became the leading destination for Rwandan exports, accounting for 26% of the total, compared with less than 5% just one year earlier. A spectacular…",
-      "image": "https://s.france24.com/media/display/23e2c4d8-b42d-11f1-b885-6f779f079bc8/w:1024/p:16x9/EN-20260918-214938-215138-CS.jpg"
-    },
-    {
       "title": "Jerusalem Daily: Gaza’s children return to schools",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-19T15:38:58.000Z",
       "summary": "It's the first official day back to school for Gaza's children."
-    },
-    {
-      "title": "France's Macron hosts Canadian PM Carney amid US tensions",
-      "link": "https://www.france24.com/en/france-s-macron-hosts-canadian-pm-carney-amid-us-tensions",
-      "source": "France 24",
-      "published": "2026-09-19T13:25:22.000Z",
-      "summary": "President Emmanuel Macron embarks on a rare and symbolic visit to a remote French territory in the North Atlantic on Saturday, hosting Canadian Prime Minister Mark Carney at a time of…",
-      "image": "https://s.france24.com/media/display/71e8596e-b42c-11f1-afc2-0730212ba17f/w:1024/p:16x9/EN-20260919-143531-144329-CS.jpg"
-    },
-    {
-      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T15:31:05.000Z",
-      "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict."
-    },
-    {
-      "title": "South African circus gives young performers a new route forward",
-      "link": "http://www.africanews.com/2026/09/19/south-african-circus-gives-young-performers-a-new-route-forward/",
-      "source": "Africanews",
-      "published": "2026-09-19T13:11:08.000Z",
-      "summary": "In Johannesburg, a circus is helping young performers from under-resourced communities turn talent into careers. Among them is 29-year-old Brian Ngobese, who grew up in Alexandra township…"
-    },
-    {
-      "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
-      "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T15:18:00.000Z",
-      "summary": "This is Russia's first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war."
-    },
-    {
-      "title": "Putin says Europe is 'preparing for war'",
-      "link": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
-      "source": "France 24",
-      "published": "2026-09-19T13:04:36.000Z",
-      "summary": "As the West continues to denounce Russian aggression in Ukraine and to support Kyiv with a host of economic and military measures, Russian President Vladimir Putin says that Nato is…",
-      "image": "https://s.france24.com/media/display/38d1d742-b42a-11f1-aa92-9ff5c3f464d4/w:1024/p:16x9/EN-20260919-131011-131847-CS.jpg"
     }
   ],
   "africa": [
