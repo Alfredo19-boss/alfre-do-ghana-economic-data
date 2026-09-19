@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T16:23:33.946Z",
+  "updated": "2026-09-19T18:41:01.784Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,50 +25,151 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "CNN and MS NOW say reporters denied White House access after Trump banned some media outlets",
-      "link": "https://www.myjoyonline.com/cnn-and-ms-now-say-reporters-denied-white-house-access-after-trump-banned-some-media-outlets/",
+      "title": "Eviction notice leaves retired and serving railway workers in Kumasi in limbo",
+      "link": "https://www.myjoyonline.com/eviction-notice-leaves-retired-and-serving-railway-workers-in-kumasi-in-limbo/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T16:19:00.000Z",
-      "summary": "CNN and MS NOW journalists have been denied access to the White House after US President Donald Trump announced he was banning the outlets.",
+      "published": "2026-09-19T18:32:28.000Z",
+      "summary": "Anxiety has gripped retired and serving railway workers occupying bungalows on railway lands at Adum in Kumasi.",
       "categories": [
-        "International",
-        "CNN",
-        "MS NOW",
-        "Trump"
+        "Regional",
+        "Eviction notice",
+        "Railway workers"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-1015-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-18.10.58-1024x582.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama directs AMA, sister assemblies to prevent renewed dumping at Agbogbloshie",
-      "link": "https://www.myjoyonline.com/mahama-directs-ama-sister-assemblies-to-prevent-renewed-dumping-at-agbogbloshie/",
+      "title": "Asiedu Nketia: Why I remain an unrepentant Nkrumahist",
+      "link": "https://www.myjoyonline.com/why-i-remain-an-unrepentant-nkrumahist-asiedu-nketia/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T16:11:44.000Z",
-      "summary": "President John Mahama has directed the Accra Metropolitan Assembly (AMA), Ablekuma Central Municipal Assembly and other local authorities to intensify sanitation enforcement and protect the…",
+      "published": "2026-09-19T18:12:47.000Z",
+      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has attributed his political journey and current position to the free education policy introduced by…",
       "categories": [
         "National",
-        "Accra Metropolitan Assembly (AMA)",
-        "Agbogbloshie",
-        "President John Mahama"
+        "Asiedu Nketia",
+        "Nkrumahist"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/016A9876-1024x617.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2786-1024x684.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Deputy Health Minister charges military nurses to uphold compassion, excellence",
-      "link": "https://www.myjoyonline.com/deputy-health-minister-charges-military-nurses-to-uphold-compassion-excellence/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T16:00:29.000Z",
-      "summary": "The Deputy Minister for Health, Professor Dr Grace Ayensu-Danquah, has urged military nurses and midwives to remain committed to compassionate care, professional excellence and dedicated…",
+      "title": "Ghana Grabs Spotlight at 46th FIDE Chess Olympiad in Samarkand",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-grabs-spotlight-at-46th-fide-chess-olympiad-in-samarkand.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-19T17:57:00.000Z",
+      "summary": "Ghana has officially joined the global chess community at the 46th FIDE Chess Olympiad in Samarkand, Uzbekistan, with the national delegation departing Accra on September 14, 2026, to…",
       "categories": [
-        "Health",
-        "National",
-        "Deputy Health Minister",
-        "military nurses",
-        "Professor Dr Grace Ayensu-Danquah"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Grace-Ayensu-1024x683.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/GHANACHESS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Kudus, Djiku return a boost to Black Stars – Agyemang-Badu",
+      "link": "https://www.myjoyonline.com/kudus-djiku-return-a-boost-to-black-stars-agyemang-badu/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T17:53:42.000Z",
+      "summary": "Ghana will face Côte d’Ivoire on Thursday, September 24, before hosting The Gambia at the Accra Sports Stadium on Tuesday, September 29. The Black Stars will then travel to Morocco for a…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Alexander Djiku",
+        "Mohammed Kudus",
+        "Razak Musbau"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-13.10.23.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘If the world, Africa honoured Nkrumah as the Millennium Man, why are we not doing same?’ – Asiedu Nketia",
+      "link": "https://www.myjoyonline.com/if-the-world-africa-honoured-nkrumah-as-the-millennium-man-why-are-we-not-doing-same-asiedu-nketia/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T17:51:54.000Z",
+      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has questioned why Ghanaians are not giving Osagyefo Dr Kwame Nkrumah the same level of recognition and…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Africa",
+        "Asiedu Nketia",
+        "Osagyefo Dr Kwame Nkrumah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2783-1024x763.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yaw Preko backs renewed push to revive Colts football",
+      "link": "https://www.myjoyonline.com/yaw-preko-backs-renewed-push-to-revive-colts-football/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T17:50:35.000Z",
+      "summary": "His comments come after President John Mahama called for the revival of the traditional Colts League and the GFA launched the 2026/27 Colts Football Season.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Colts Football",
+        "Razak Musbau",
+        "Yaw Preko"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-13.12.10.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UMB Speed Stars defeat Black Stars Legends 6-2 in friendly",
+      "link": "https://www.myjoyonline.com/umb-speed-stars-defeat-black-stars-legends-6-2-in-friendly/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T17:38:55.000Z",
+      "summary": "The event comes as UMB deepens its involvement in Ghana football, with the bank now serving as the headline sponsor of the Ghana Division One League.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Fatawu Dauda",
+        "Razak Musbau",
+        "Sammy Agyei",
+        "UMB Speed Stars",
+        "Yaw Preko"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-16.10.37-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dafeamekpor hails Kwasi Pratt Jnr as ‘scholar of formidable proportions’",
+      "link": "https://www.myjoyonline.com/dafeamekpor-hails-kwasi-pratt-jnr-as-scholar-of-formidable-proportions/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T17:36:37.000Z",
+      "summary": "The Member of Parliament (MP) for South Dayi, Rockson-Nelson Dafeamekpor, has paid tribute to veteran journalist Kwasi Pratt Jnr, describing him as a principled scholar whose work has…",
+      "categories": [
+        "In Focus",
+        "National",
+        "Kwasi Pratt Jnr",
+        "Rockson-Nelson Dafeamekpor"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Kwasi-Pratt.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The BECE exam and placement conundrum: Necessary evil or failing system?",
+      "link": "https://www.myjoyonline.com/the-bece-exam-and-placement-conundrum-necessary-evil-or-failing-system/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T17:36:25.000Z",
+      "summary": "Every year, the release of the BECE results is followed by another familiar national ritual: the scramble for Senior High School places, anxious parents, long queues at placement centres…",
+      "categories": [
+        "Opinion",
+        "BECE",
+        "System"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/BECE-CANDIDATES.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ADB Ghana Medicals supports $100m Otumfuo Cancer Centre project in Kumasi",
+      "link": "https://www.graphic.com.gh/news/re-project.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-19T17:07:41.000Z",
+      "summary": "Ghanaian healthcare solutions company, ADB Ghana Medical Systems Group Limited, is undertaking the hospital engineering and infrastructure component of the $100 million Otumfuo Osei Tutu II…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/19/ADBteam.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Osagyefo Fight Night: Allotey, Garcia on weight for WBA world title eliminator",
@@ -81,82 +182,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/ALLOTEY2.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Deputy Health Minister charges military nurses, midwives to remain dedicated to service",
-      "link": "https://www.myjoyonline.com/deputy-health-minister-charges-military-nurses-midwives-to-remain-dedicated-to-service/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T15:46:36.000Z",
-      "summary": "The Deputy Minister for Health, Prof. Dr Grace Ayensu-Danquah, has urged Ghanaian military nurses and midwives to continue demonstrating compassion, pursuing professional excellence, and…",
-      "categories": [
-        "National",
-        "Deputy Health Minister",
-        "midwives",
-        "nurses"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2758-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Three suspected robbers killed as police dismantle gang in Upper East",
-      "link": "https://www.myjoyonline.com/three-suspected-robbers-killed-as-police-dismantle-gang-in-upper-east/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T15:43:00.000Z",
-      "summary": "Three suspected members of a robbery gang linked to a series of attacks on motorbike riders and mobile money vendors in parts of the Upper East Region have died following a gunfire exchange…",
-      "categories": [
-        "Crime",
-        "Regional",
-        "Police",
-        "Upper East"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2765-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EU Ambassador pays courtesy call on IGP to strengthen security cooperation",
-      "link": "https://www.myjoyonline.com/eu-ambassador-pays-courtesy-call-on-igp-to-strengthen-security-cooperation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T15:39:49.000Z",
-      "summary": "European Union (EU) Ambassador to Ghana, H.E. Rune Skinnebach, has paid a courtesy call on the Inspector-General of Police (IGP), Mr. Christian Tetteh Yohuno, as part of efforts to…",
-      "categories": [
-        "National",
-        "EU Ambassador",
-        "IGP",
-        "Security"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2774-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa’s dependence on foreign powers betrays Nkrumah’s unfinished vision – P.L.O. Lumumba",
-      "link": "https://www.myjoyonline.com/africas-dependence-on-foreign-powers-betrays-nkrumahs-unfinished-vision-p-l-o-lumumba/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T15:31:27.000Z",
-      "summary": "Renowned Pan-Africanist and anti-corruption crusader Professor P.L.O. Lumumba has warned that Africa’s continued dependence on foreign powers for its medicines, food, technology and global…",
-      "categories": [
-        "National",
-        "Regional",
-        "Africa",
-        "Professor P.L.O. Lumumba"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2764-1024x536.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "3 suspects shot dead, 2 officers injured in Tilly Forest robbery follow-up operation",
-      "link": "https://www.myjoyonline.com/3-suspects-shot-dead-2-officers-injured-in-tilly-forest-robbery-follow-up-operation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T15:29:01.000Z",
-      "summary": "Three suspects have been shot dead and two police officers injured during a follow-up operation by the Upper East Regional Police Command to retrieve weapons allegedly concealed by a…",
-      "categories": [
-        "Crime",
-        "HP News 5",
-        "National",
-        "Police",
-        "Upper West"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2754-1024x891.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Mireku Jnr stars as MTN marks 30 years with golf classic",
@@ -279,18 +304,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Chiefs in Kpedze Traditional Area smoke peace pipe",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-chiefs-in-kpedze-traditional-area-smoke-peace-pipe.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T10:02:31.000Z",
-      "summary": "The Chiefs of the Kpedze Traditional Area in the Ho West District have smoked the peace pipe to formally end a 15-year-old tension and dispute which has affected unity among the traditional…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "University of Ghana wins 23 medals at 2026 FASU Games in Cairo",
       "link": "https://www.graphic.com.gh/sports/sports-news/university-of-ghana-wins-23-medals-at-2026-fasu-games-in-cairo.html",
       "source": "Graphic Sports",
@@ -402,18 +415,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/18/kath_tram.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Mohammed Kudus, Alexander Djiku return as Carlos Queiroz launches Black Stars rebuild with Côte d’Ivoire test",
-      "link": "https://www.graphic.com.gh/sports/sports-news/mohammed-kudus-alexander-djiku-return-as-carlos-queiroz-launches-black-stars-rebuild-with-cote-divoire-test.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-18T15:07:12.000Z",
-      "summary": "Mohammed Kudus and Alexander Djiku are back in the Black Stars as Carlos Queiroz begins Ghana’s post-World Cup rebuild with a demanding 2027 Africa Cup of Nations qualifying opener against…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/MohammedKudus.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {

@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-19T16:23:22.873Z",
-  "worldAt": "2026-09-19T16:23:22.870Z",
+  "updated": "2026-09-19T18:40:48.661Z",
+  "worldAt": "2026-09-19T18:40:48.659Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,18 +23,18 @@ window.GDC_NEWS = {
     "Graphic Online: 1/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 5/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 29 stories",
+    "World · BBC News: 24 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -1099,11 +1099,41 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Police hiring standards matter. But they alone cannot stop abuse",
-      "link": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
+      "title": "Israel targets paramedics in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T15:58:55.000Z",
-      "summary": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities."
+      "published": "2026-09-19T18:06:52.000Z",
+      "summary": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team."
+    },
+    {
+      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T17:50:14.000Z",
+      "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d3/live/ee41c280-b426-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "Cuba works to restore power after another major nationwide blackout",
+      "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T17:59:57.000Z",
+      "summary": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect."
+    },
+    {
+      "title": "CNN, MS NOW, Politico reporters blocked from White House after Trump ban",
+      "link": "https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban",
+      "source": "France 24",
+      "published": "2026-09-19T17:02:47.000Z",
+      "summary": "White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was…",
+      "image": "https://s.france24.com/media/display/eb650650-b447-11f1-8a93-9f514b90f153/w:1024/p:16x9/AP26262504511078.jpg"
+    },
+    {
+      "title": "Dutch riot police break up violent far-right protest in The Hague",
+      "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T17:55:45.000Z",
+      "summary": "Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally."
     },
     {
       "title": "Ukraine steps up measures to protect railways",
@@ -1113,11 +1143,71 @@ window.GDC_NEWS = {
       "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is making plans to keep passengers safe."
     },
     {
-      "title": "Jerusalem Daily: Gaza’s children return to schools",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
+      "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
+      "link": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T15:38:58.000Z",
-      "summary": "It's the first official day back to school for Gaza's children."
+      "published": "2026-09-19T17:48:18.000Z",
+      "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday."
+    },
+    {
+      "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
+      "link": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough",
+      "source": "France 24",
+      "published": "2026-09-19T15:28:23.000Z",
+      "summary": "Germany is gearing up for two more pivotal state elections on Sunday: in the capital Berlin and in the largely rural region of Mecklenburg-Western Pomerania. All eyes are on the far-right…",
+      "image": "https://s.france24.com/media/display/5936ae04-b43e-11f1-82e1-9f514b90f153/w:1024/p:16x9/EN-20260919-170853-171035-CS.jpg"
+    },
+    {
+      "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T17:14:45.000Z",
+      "summary": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine."
+    },
+    {
+      "title": "Macron visits remote French territory in the North America, a first in over a decade",
+      "link": "https://www.france24.com/en/macron-visits-remote-french-territory-in-the-north-america-a-first-in-over-a-decade",
+      "source": "France 24",
+      "published": "2026-09-19T15:25:40.000Z",
+      "summary": "President Emmanuel Macron embarks on a rare and symbolic visit to a remote French territory in the North Atlantic on Saturday, hosting Canadian Prime Minister Mark Carney at a time of…",
+      "image": "https://s.france24.com/media/display/32c5d5c0-b43d-11f1-a60d-9f514b90f153/w:1024/p:16x9/EN-20260919-170648-170803-CS.jpg"
+    },
+    {
+      "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
+      "link": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T16:42:26.000Z",
+      "summary": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City."
+    },
+    {
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T15:19:39.000Z",
+      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg"
+    },
+    {
+      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+      "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T16:21:36.000Z",
+      "summary": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue."
+    },
+    {
+      "title": "Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia",
+      "link": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
+      "source": "France 24",
+      "published": "2026-09-19T15:16:03.000Z",
+      "summary": "⁠Flames and plumes of smoke ‌were ⁠seen ‌rising near ⁠Riyadh airport this afternoon with flights cancelled and delayed. This as fighting between Saudi-backed government forces and…",
+      "image": "https://s.france24.com/media/display/6756645e-b43c-11f1-8e27-9ff5c3f464d4/w:1024/p:16x9/EN-20260919-160101-160431-CS.jpg"
+    },
+    {
+      "title": "Police hiring standards matter. But they alone cannot stop abuse",
+      "link": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T15:58:55.000Z",
+      "summary": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities."
     },
     {
       "title": "Nigeria gold miner deaths spark protests in Niger state",
@@ -1127,11 +1217,11 @@ window.GDC_NEWS = {
       "summary": "Survivors of a Nigerian disaster that saw 37 suspected illegal gold miners die while in the custody of a paramilitary civil defence group recounted their panic on Friday as they struggled…"
     },
     {
-      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+      "title": "Jerusalem Daily: Gaza’s children return to schools",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T15:31:05.000Z",
-      "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict."
+      "published": "2026-09-19T15:38:58.000Z",
+      "summary": "It's the first official day back to school for Gaza's children."
     },
     {
       "title": "As petrol prices rise, France turns to bioethanol – a cheaper fuel alternative",
@@ -1140,6 +1230,21 @@ window.GDC_NEWS = {
       "published": "2026-09-19T14:35:04.000Z",
       "summary": "With the prices of fuel continuously escalating, more and more drivers have been switching to bioethanol in France. It's cheaper to produce and currently costs around 95 cents per liter…",
       "image": "https://s.france24.com/media/display/f12fd33c-b436-11f1-808f-5b4fdf021577/w:1024/p:16x9/EN-20260919-161057-161228-CS.jpg"
+    },
+    {
+      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T15:31:05.000Z",
+      "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict."
+    },
+    {
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-19T14:05:01.000Z",
+      "summary": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3993/live/0f1fa560-b433-11f1-9fa0-111a12dcb7b0.jpg"
     },
     {
       "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
@@ -1261,7 +1366,7 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/74111114-b426-11f1-9220-9ff5c3f464d4/w:1024/p:16x9/Vignette-RS.png"
     },
     {
-      "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+      "title": "Child among four Palestinians killed in Israeli attacks across Gaza",
       "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-19T12:59:31.000Z",
@@ -1288,109 +1393,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-19T12:26:28.000Z",
       "summary": "UN staffs traveled to Kimoka in North Kivu on Friday, in eastern Democratic Republic of Congo, in an area controlled by M23 rebels, to assess the situation of returnees and their living…"
-    },
-    {
-      "title": "Asian Games 2026: Top athletes and storylines to look out for",
-      "link": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T12:38:45.000Z",
-      "summary": "From Olympic champions to teen sensations, several athletes are looking to make their mark at the continental event."
-    },
-    {
-      "title": "Why the UN General Assembly still matters",
-      "link": "https://news.un.org/feed/view/en/story/2026/09/1168361",
-      "source": "UN News",
-      "published": "2026-09-19T12:00:00.000Z",
-      "summary": "More than eight decades on, the UN General Assembly remains the place where the UN’s 193 Member States come together to debate the defining challenges of the day, from war and peace – to…",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-04-2020-GA-Hall-Empty.jpg/image560x340cropped.jpg"
-    },
-    {
-      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T12:34:37.000Z",
-      "summary": "The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military."
-    },
-    {
-      "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-19T11:50:50.000Z",
-      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623e/live/bb9fcf60-b41d-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T12:29:51.000Z",
-      "summary": "Funerals are underway in Kohat, Pakistan, after a suicide attacker rammed an explosives-laden car into a mosque killing"
-    },
-    {
-      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-19T11:50:22.000Z",
-      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/762a/live/cf51bb00-b41c-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T12:21:01.000Z",
-      "summary": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea."
-    },
-    {
-      "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
-      "source": "NPR World",
-      "published": "2026-09-19T11:40:48.000Z",
-      "summary": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks."
-    },
-    {
-      "title": "In Gaza, actors perform a war they are still living",
-      "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T12:18:52.000Z",
-      "summary": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships."
-    },
-    {
-      "title": "Life in Kabul 5 years after the Taliban's return",
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-      "source": "NPR World",
-      "published": "2026-09-19T11:40:40.000Z",
-      "summary": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions."
-    },
-    {
-      "title": "Doomsday AI: panic, regulation and the China fear",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T12:10:21.000Z",
-      "summary": "When tech CEOs warn AI could end humanity, does the media get the story right?"
-    },
-    {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-19T11:36:55.000Z",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg"
-    },
-    {
-      "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
-      "link": "https://www.aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T11:30:00.000Z",
-      "summary": "101 East meets innovators across East Asia using digital technology to transform how we grieve those we love."
-    },
-    {
-      "title": "37 die in Nigerian custody: Reports blame overcrowding, government disputes claim",
-      "link": "https://www.france24.com/en/37-die-in-nigerian-custody-reports-blame-overcrowding-government-disputes-claim",
-      "source": "France 24",
-      "published": "2026-09-19T11:26:22.000Z",
-      "summary": "Authorities in north-central Nigeria are investigating the deaths of 37 people while they were in custody for illegal mining. Officials say the detainees died at a detention facility in…",
-      "image": "https://s.france24.com/media/display/65545b5a-b41b-11f1-a160-0730212ba17f/w:1024/p:16x9/EN-20260918-214253-214509-CS.jpg"
     }
   ],
   "africa": [
