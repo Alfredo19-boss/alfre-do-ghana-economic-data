@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-20T05:13:33.101Z",
+  "updated": "2026-09-20T09:50:33.072Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,134 +25,127 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GNFS contains fire outbreak at Teshie Lekma Road near Lekma Hospital",
-      "link": "https://www.myjoyonline.com/gnfs-contains-fire-outbreak-at-teshie-lekma-road-near-lekma-hospital/",
+      "title": "Finance Minister advises African governments to strengthen regional tax cooperation",
+      "link": "https://www.myjoyonline.com/finance-minister-advises-african-governments-to-strengthen-regional-tax-cooperation/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T23:47:34.000Z",
-      "summary": "The Ghana National Fire Service (GNFS) has brought under control a fire outbreak involving several commercial containers at Ebenezer Junction on the Teshie Lekma Road, near Lekma Hospital…",
+      "published": "2026-09-20T09:35:01.000Z",
+      "summary": "Finance Minister Cassiel Ato Forson has urged African governments and regional institutions to strengthen tax cooperation to protect domestic revenue and secure the continent’s development…",
       "categories": [
-        "Regional",
-        "GNFS",
-        "LEKMA Hospital",
-        "Teshie Lekma road"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-19-at-23.45.39.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samia Nkrumah rejects the narrative that Ghanaians were happy after Nkrumah’s overthrow",
-      "link": "https://www.myjoyonline.com/samia-nkrumah-rejects-the-narrative-that-ghanaians-were-happy-after-nkrumahs-overthrow/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T22:29:23.000Z",
-      "summary": "Samia Yaba Nkrumah has rejected narratives suggesting that Ghanaians universally welcomed the overthrow of her father, Ghana’s first President, Osagyefo Dr Kwame Nkrumah, in 1966. Speaking…",
-      "categories": [
-        "HP News 1",
         "National",
-        "Kwame Nkrumah",
-        "Overthrow",
-        "Samia Nkrumah"
+        "Africa",
+        "Ato Forson",
+        "Finance Minister",
+        "Government"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-15.38.46-1-800x600-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-6.11.24-AM-1024x612.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "A Mother’s pain: Tribute by Ivan Baidoo’s mother",
-      "link": "https://www.myjoyonline.com/a-mothers-pain-tribute-by-ivan-baidoos-mother/",
+      "title": "NPP accuses NDC of master-minding demolition of Ho regional office fence",
+      "link": "https://www.myjoyonline.com/npp-accuses-ndc-of-master-minding-demolition-of-ho-regional-office-fence/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T22:17:04.000Z",
-      "summary": "“My beloved son, my pride and my joy, How do I find the words to speak about a pain that words cannot explain? How do I accept that the child I carried in my womb, gave birth to,nurtured…",
+      "published": "2026-09-20T09:34:37.000Z",
+      "summary": "James Geh, Ho Central Constituency Communications Officer of the NPP, has accused the National Democratic Congress (NDC) of deliberately targeting structures belonging to the party in Ho.",
       "categories": [
-        "Features",
         "National",
-        "Ivan Baidoo",
-        "Tribute"
+        "NDC",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-97-e1789856208819-1024x588.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-5.51.05-AM-1024x614.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Forgive us for staying away’ — Samia Nkrumah leads family back to Nkroful, pledges to preserve Nkrumah’s legacy",
-      "link": "https://www.myjoyonline.com/forgive-us-for-staying-away-samia-nkrumah-leads-family-back-to-nkroful-pledges-to-preserve-nkrumahs-legacy/",
+      "title": "Ghana plans stronger regional power trade with Nigeria",
+      "link": "https://www.myjoyonline.com/ghana-plans-stronger-regional-power-trade-with-nigeria/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T22:06:05.000Z",
-      "summary": "The family of Ghana’s first President, Osagyefo Dr Kwame Nkrumah, has returned to Nkroful with a renewed commitment to preserving his legacy and reconnecting younger generations with his…",
+      "published": "2026-09-20T09:33:50.000Z",
+      "summary": "Ghana is exploring deeper electricity cooperation with Nigeria as part of plans to strengthen its position as a regional electricity hub, Richard Gyan-Mensah, the Deputy Minister of Energy…",
       "categories": [
-        "HP News 8",
         "National",
-        "Kwame Nkrumah",
-        "Nkroful",
-        "Samia Nkrumah"
+        "Ghana",
+        "Nigeria",
+        "Power"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-15.38.46-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-10-at-2.42.20-PM-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ernest Nuamah scores twice as Lyon beat Rennes",
-      "link": "https://www.myjoyonline.com/ernest-nuamah-scores-twice-as-lyon-beat-rennes/",
+      "title": "GRA Commissioner-General calls for stronger tax cooperation to boost regional revenue mobilisation",
+      "link": "https://www.myjoyonline.com/gra-commissioner-general-calls-for-stronger-tax-cooperation-to-boost-regional-revenue-mobilisation/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T22:01:59.000Z",
-      "summary": "Nuamah scored twice in the 4-0 drubbing of Rennes as his side moved to second position on the league table.",
+      "published": "2026-09-20T09:33:05.000Z",
+      "summary": "Anthony Kwasi Sarpong, the Commissioner-General of the Ghana Revenue Authority (GRA), has called for stronger cooperation among African tax administrations to enhance domestic revenue…",
       "categories": [
-        "Football",
-        "HP News 7",
         "National",
-        "Ernest Nuamah"
+        "GRA",
+        "Tax"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ernest-Nuamah-1-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-6.17.37-AM-1024x616.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘My dear Ivan’ – A father’s tribute to a son tragically killed",
-      "link": "https://www.myjoyonline.com/my-dear-ivan-a-fathers-tribute-to-a-son-tragically-killed/",
+      "title": "NACOC needs more personnel to tackle drug trafficking – Toobu",
+      "link": "https://www.myjoyonline.com/nacoc-needs-more-personnel-to-tackle-drug-trafficking-toobu/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T21:58:21.000Z",
-      "summary": "“My Dear Ivan, I left the house on the morning of 27th August 2026 for work, only to return in the evening to be informed that you had been involved in an accident and had tragically died…",
+      "published": "2026-09-20T09:29:19.000Z",
+      "summary": "Ghana needs to significantly increase the number of personnel available to the Narcotics Control Commission (NACOC) if the country is to effectively respond to the growing sophistication of…",
       "categories": [
-        "Features",
-        "In Focus",
         "National",
-        "Ivan Baidoo",
-        "Tribute"
+        "Drug",
+        "NACOC",
+        "Toobu"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-96-e1789855096625-1024x777.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/08/Peter-Toobu-1024x702.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GNPC Explorco advances Voltaian Basin drilling preparations with 13.5km access road",
-      "link": "https://www.myjoyonline.com/gnpc-explorco-advances-voltaian-basin-drilling-preparations-with-13-5km-access-road/",
+      "title": "Railway workers resist KMA eviction order, demand consultation",
+      "link": "https://www.myjoyonline.com/railway-workers-resist-kma-eviction-order-demand-consultation/",
       "source": "MyJoyOnline",
-      "published": "2026-09-19T21:52:26.000Z",
-      "summary": "Preparations for the first exploratory well in Ghana’s onshore Voltaian Basin have advanced with a high-level inspection of the proposed well location at Chegu in the Mion District. A…",
+      "published": "2026-09-20T09:27:34.000Z",
+      "summary": "Former and serving workers of the Ghana Railway Company in the Ashanti Region have vowed to resist attempts by the Kumasi Metropolitan Assembly (KMA) to evict them from an area they have…",
       "categories": [
-        "Energy",
+        "National",
+        "Eviction",
+        "Railway",
+        "Workers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/railway-1140x570-1-1024x512.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Legacy Leadership Africa Institute to host boardroom women’s leadership programme",
+      "link": "https://www.myjoyonline.com/legacy-leadership-africa-institute-to-host-boardroom-womens-leadership-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T09:15:27.000Z",
+      "summary": "Legacy Leadership Africa Institute is set to organise a flagship executive education programme aimed at preparing the next generation of women leaders for effective participation in…",
+      "categories": [
+        "Business",
+        "HP Business 7",
+        "Investments",
+        "Boardroom Women Leadership Programme",
+        "Dynaspace",
+        "Legacy Leadership Africa Institute"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-10.40.55-AM.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana needs a law to sustain constitutional reforms – CDD-Ghana",
+      "link": "https://www.myjoyonline.com/ghana-needs-a-law-to-sustain-constitutional-reforms-cdd-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T06:00:00.000Z",
+      "summary": "The Centre for Democratic Development (CDD-Ghana) is calling for legislation to guide the implementation of proposed constitutional reforms and ensure the process continues despite changes…",
+      "categories": [
         "National",
         "News",
-        "Regional",
         "Top Story",
-        "drilling preparations",
-        "GNPC",
-        "Voltaian basin"
+        "CDD-Ghana",
+        "Ghana",
+        "Government",
+        "Vera Abena Addo"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/CPM0751-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cabinet approves facility manager for Borteyman Sports Complex – Kofi Adams",
-      "link": "https://www.myjoyonline.com/cabinet-approves-facility-manager-for-borteyman-sports-complex-kofi-adams/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T21:02:30.000Z",
-      "summary": "Minister for Sports and Recreation Kofi Adams says Cabinet has approved the appointment of a facility manager for the Borteyman Sports Complex. The Borteyman Multipurpose Sports Facility…",
-      "categories": [
-        "Athletics",
-        "Football",
-        "HP News 9",
-        "National",
-        "Other Sports",
-        "Sports",
-        "Borteyman Sports Complex",
-        "Kofi Adams"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/bort-1024x662.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/vera-1-1024x634.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
