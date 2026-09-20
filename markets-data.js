@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_MARKETS = {
-  "updated": "2026-09-19T23:31:33.081Z",
+  "updated": "2026-09-20T01:36:47.664Z",
   "note": "Market prices as last traded. World figures from Yahoo Finance; Ghana Stock Exchange prices from the GSE's open feed. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance · Ghana Stock Exchange",
   "log": [
@@ -555,11 +555,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 81279.17,
-        "prev": 75612.51,
-        "change": 5666.66,
-        "pct": 7.49,
-        "at": "2026-09-19T23:31:04.000Z",
+        "value": 81024.8,
+        "prev": 76150.32,
+        "change": 4874.48,
+        "pct": 6.4,
+        "at": "2026-09-20T01:36:20.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -576,6 +576,10 @@ window.GDC_MARKETS = {
           {
             "date": "2026-09-19",
             "value": 81279.17
+          },
+          {
+            "date": "2026-09-20",
+            "value": 81024.8
           }
         ]
       },
@@ -584,11 +588,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 2631.44,
-        "prev": 2399.087,
-        "change": 232.353,
-        "pct": 9.69,
-        "at": "2026-09-19T23:31:00.000Z",
+        "value": 2616.75,
+        "prev": 2416.1199,
+        "change": 200.63,
+        "pct": 8.3,
+        "at": "2026-09-20T01:36:16.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -605,6 +609,10 @@ window.GDC_MARKETS = {
           {
             "date": "2026-09-19",
             "value": 2631.44
+          },
+          {
+            "date": "2026-09-20",
+            "value": 2616.75
           }
         ]
       }
@@ -734,7 +742,7 @@ window.GDC_MARKETS = {
         "prev": 1.3526,
         "change": -0.0133,
         "pct": -0.98,
-        "at": "2026-09-19T09:56:07.000Z",
+        "at": "2026-09-20T00:17:06.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -750,6 +758,10 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-09-19",
+            "value": 1.3393
+          },
+          {
+            "date": "2026-09-20",
             "value": 1.3393
           }
         ]
