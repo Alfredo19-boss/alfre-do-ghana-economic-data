@@ -26,7 +26,7 @@
     ]
   },
   "gss-home": {
-    "checked": "2026-09-19T04:39:02.785Z",
+    "checked": "2026-09-20T17:07:56.202Z",
     "seen": [
       "https://statsghana.gov.gh/CPI_Inflation_Cal.html",
       "https://statsghana.gov.gh/highlights/gdp-performance",
@@ -36,7 +36,7 @@
     ]
   },
   "mofep": {
-    "checked": "2026-09-19T04:39:03.623Z",
+    "checked": "2026-09-20T17:07:57.327Z",
     "seen": [
       "https://mofep.gov.gh/fiscal-data",
       "https://mofep.gov.gh/public-debt",
@@ -53,13 +53,27 @@
     ]
   },
   "npa": {
-    "checked": "2026-09-19T04:39:24.020Z",
+    "checked": "2026-09-20T17:08:08.351Z",
     "seen": [
       "https://npa.gov.gh/indicative-prices/",
       "https://npa.gov.gh/price-build-up-2/",
       "https://npa.gov.gh/price-floor/",
       "https://npa.gov.gh/ex-pump-prices/",
       "https://npa.gov.gh/key-indicative-quality-parameters/"
+    ]
+  },
+  "purc": {
+    "checked": "2026-09-20T17:07:58.050Z",
+    "seen": [
+      "https://www.purc.com.gh/sub_subcategories/1768",
+      "https://www.purc.com.gh/categ/tariffs/subcategories/electricity-consumption-estimator",
+      "https://www.purc.com.gh/categ/tariffs/subcategories/tariff-reckoner",
+      "https://www.purc.com.gh/sub_subcategories/7542",
+      "https://www.purc.com.gh/categ/tariffs/subcategories/feed-in-tariffs",
+      "https://www.purc.com.gh/categ/tariffs/subcategories/rate-setting-guidelines",
+      "https://www.purc.com.gh/categ/tariffs/subcategories/tariff-decision-papers",
+      "https://www.purc.com.gh/categ/tariffs/subcategories/consumer-expectations-on-multi-year-tariff-review",
+      "https://www.purc.com.gh/categ/tariffs/subcategories/automatic-adjustment"
     ]
   }
 }
