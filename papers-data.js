@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-19T23:48:28.832Z",
+  "updated": "2026-09-20T00:28:16.506Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GNFS contains fire outbreak at Teshie Lekma Road near Lekma Hospital",
+      "link": "https://www.myjoyonline.com/gnfs-contains-fire-outbreak-at-teshie-lekma-road-near-lekma-hospital/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-19T23:47:34.000Z",
+      "summary": "The Ghana National Fire Service (GNFS) has brought under control a fire outbreak involving several commercial containers at Ebenezer Junction on the Teshie Lekma Road, near Lekma Hospital…",
+      "categories": [
+        "Regional",
+        "GNFS",
+        "LEKMA Hospital",
+        "Teshie Lekma road"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-19-at-23.45.39.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Samia Nkrumah rejects the narrative that Ghanaians were happy after Nkrumah’s overthrow",
       "link": "https://www.myjoyonline.com/samia-nkrumah-rejects-the-narrative-that-ghanaians-were-happy-after-nkrumahs-overthrow/",
@@ -138,22 +153,6 @@ window.GDC_PAPERS = {
         "Kofi Adams"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/bort-1024x662.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sanitation is improving; critics may be ‘living in another world’ – Salaga South MP replies Bekwai MP",
-      "link": "https://www.myjoyonline.com/sanitation-is-improving-critics-may-be-living-in-another-world-salaga-south-mp-replies-bekwai-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-19T20:56:06.000Z",
-      "summary": "Salaga South MP and Vice Chairperson of Parliament’s Select Committee on Sanitation and Water Resources, Zuwera Mohammed Ibrahimah, has pushed back against criticism that government is not…",
-      "categories": [
-        "National",
-        "News",
-        "Bekwai MP",
-        "Salaga South MP",
-        "Sanitation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/zu-1024x526.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
