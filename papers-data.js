@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-20T13:46:28.270Z",
+  "updated": "2026-09-20T17:02:09.729Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,153 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghanaian smock showcased at Lesotho Tourism Summit",
+      "link": "https://www.myjoyonline.com/ghanaian-smock-showcased-at-lesotho-tourism-summit/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T16:51:17.000Z",
+      "summary": "A traditional Northern Ghanaian smock has been presented to Lesotho’s tourism minister as part of efforts to promote Ghanaian culture and strengthen African ties.",
+      "categories": [
+        "HP Entertainment 1",
+        "Travel and Tourism",
+        "Ghana smock",
+        "Lesotho Tourism Summit"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/7ee4231d-7e5f-4269-8620-8495a26ce613-1024x570.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Four pupils to one desk: The painful plight of schools in New Juaben North",
+      "link": "https://www.myjoyonline.com/four-pupils-to-one-desk-the-painful-plight-of-schools-in-new-juaben-north/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T16:19:08.000Z",
+      "summary": "The New Juaben North Education Directorate in the Eastern Region has appealed for more desks and chairs for schools in the municipality, following concerns that up to four pupils are being…",
+      "categories": [
+        "Education",
+        "In Focus",
+        "National",
+        "Regional",
+        "Desks",
+        "Juaben North",
+        "schools"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-19.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ipswich launch investigation into racist abuse of Abdul Fatawu",
+      "link": "https://www.myjoyonline.com/ipswich-launch-investigation-into-racist-abuse-of-abdul-fatawu/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T16:14:27.000Z",
+      "summary": "Premier League side Ipswich Town have condemned the racist abuse directed at Ghanaian winger Abdul Fatawu on social media following their 1-0 defeat to Everton on Saturday. The Ghana…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Abdul Fatawu",
+        "Everton",
+        "ipswich town"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/fb7a130ee88f42ecb3f6b5f185c740d3-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arrest of Techiman nurse is purely political persecution – ‘Ghana Jollof’",
+      "link": "https://www.myjoyonline.com/arrest-of-techiman-nurse-is-purely-political-persecution-ghana-jollof/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T15:59:12.000Z",
+      "summary": "Barbara Asantewaa Kodua, popularly known as ‘Ghana Jollof’, has described the arrest and prosecution of a 40-year-old senior nursing officer from Techiman as “purely political persecution”.",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Ghana Jollof",
+        "political persecution",
+        "Techiman nurse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MAIN.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Isak nets winner as Liverpool edge Bournemouth",
+      "link": "https://www.myjoyonline.com/isak-nets-winner-as-liverpool-edge-bournemouth/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T15:26:31.000Z",
+      "summary": "Liverpool boss Andoni Iraoli made a winning return to Bournemouth as his side signed off for the international break with a narrow victory at Vitality Stadium. Alexander Isak’s fourth…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Alexander Isak",
+        "Liverpool"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/72c84130-b500-11f1-91cc-c5691e33b858.png.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I dare gov’t of Ghana to extradite me; they can never do it – ‘Ghana Jollof’ speaks",
+      "link": "https://www.myjoyonline.com/i-dare-govt-of-ghana-to-extradite-me-they-can-never-do-it-ghana-jollof-speaks/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T15:24:08.000Z",
+      "summary": "Barbara Asantewaa Kodua, popularly known as ‘Ghana Jollof’, has challenged the Ghanaian government to extradite her from the United Kingdom following her declaration as wanted by the Ghana…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "extradite",
+        "Ghana Jollof",
+        "Government"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2798.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Semenyo scores twice as Manchester City beat Sunderland 5-3 in eight-goal thriller",
+      "link": "https://www.myjoyonline.com/semenyo-scores-twice-as-manchester-city-beat-sunderland-5-3-in-eight-goal-thriller/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T15:14:56.000Z",
+      "summary": "Ghana forward Antoine Semenyo scored twice as Manchester City maintained their perfect start to the Premier League season with a thrilling 5-3 victory over Sunderland at the Etihad Stadium.",
+      "categories": [
+        "Football",
+        "HP News 8",
+        "HP Sports 3",
+        "National",
+        "News",
+        "Sports",
+        "Antoine Semenyo",
+        "Black Stars",
+        "Man City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/antoine-semenyo-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament calls for government-private sector collaboration to improve waste management",
+      "link": "https://www.myjoyonline.com/parliament-calls-for-government-private-sector-collaboration-to-improve-waste-management/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T15:12:36.000Z",
+      "summary": "Parliament’s Select Committee on Sanitation and Water Resources is calling for stronger collaboration between government, investors and private waste management companies to improve waste…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Parliament",
+        "Recycling",
+        "waste management"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/waste_into_resources_ogp-1024x538.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jehovah's Witnesses keep whole blood ban but allow personal choice on components",
+      "link": "https://www.graphic.com.gh/news/general-news/jehovahs-witnesses-keep-whole-blood-ban-but-allow-personal-choice-on-components.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-20T13:43:41.000Z",
+      "summary": "The Governing Body of Jehovah's Witnesses has announced that the decision to accept red cells, white cells, plasma or platelets from another person's blood is now a matter of personal…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/07/JW26.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Allotey dominates Garcia to win WBA world title eliminator",
       "link": "https://www.graphic.com.gh/sports/boxing/allotey-dominates-garcia-to-win-wba-world-title-eliminator.html",
       "source": "Graphic Sports",
@@ -35,140 +182,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/20/allotey.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Africa World Airlines unveils first Embraer E190 as part of 10-aircraft fleet expansion",
-      "link": "https://www.myjoyonline.com/africa-world-airlines-unveils-first-embraer-e190-as-part-of-10-aircraft-fleet-expansion/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T13:14:13.000Z",
-      "summary": "Africa World Airlines (AWA) has unveiled its first Embraer E190 aircraft as part of a planned 10-aircraft fleet expansion aimed at strengthening air connectivity in Ghana and across West…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "HP News 5",
-        "National",
-        "News",
-        "Africa World Airlines",
-        "Embraer E 19"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_4060-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Civilian hospitalised after alleged machete attack by prison officers, inmates",
-      "link": "https://www.myjoyonline.com/civilian-hospitalised-after-alleged-machete-attack-by-prison-officers-inmates/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T12:57:41.000Z",
-      "summary": "A civilian is in serious condition at the Asutifi North District Hospital after allegedly being attacked with machetes by two prison officers and three inmates from the Kenyasi Settlement…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "Regional",
-        "Civilian",
-        "machete attack",
-        "Prison Officers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-99-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Toobu rejects calls to recall Parliament over 3.9-tonne cocaine shipment",
-      "link": "https://www.myjoyonline.com/toobu-rejects-calls-to-recall-parliament-over-3-9-tonne-cocaine-shipment/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T12:15:37.000Z",
-      "summary": "Vice Chairman of Parliament’s Defence and Interior Committee and Wa West MP Peter Lanchene Toobu has rejected calls for Parliament to be recalled to investigate the circumstances…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "Cocaine",
-        "Parliament",
-        "Toobu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/08/Lanchene-Toobu-1024x798.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Residents in 5 Northern Regions warned of approaching rainstorm",
-      "link": "https://www.myjoyonline.com/residents-in-5-northern-regions-warned-of-approaching-rainstorm/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T12:13:28.000Z",
-      "summary": "A moderate to heavy rainstorm is approaching the north-eastern parts of Ghana, with thunderstorms, heavy rain and gusty winds expected across several regions, according to a weather alert…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Regional",
-        "Ghana Meteorological Agency",
-        "rainstorm"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/02/GMET-1024x527.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Constituency Games still a work in progress – Sports Minister",
-      "link": "https://www.myjoyonline.com/constituency-games-still-a-work-in-progress-sports-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T11:55:46.000Z",
-      "summary": "The initiative is intended to create a structured pathway for young athletes to progress from community-level competition to regional and national championships.",
-      "categories": [
-        "Football",
-        "Other Sports",
-        "Sports",
-        "Kofi Adams.",
-        "Sports Minister"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-01.37.49.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Team Ghana set for historic Karting Africa Showrun in Angola",
-      "link": "https://www.myjoyonline.com/team-ghana-set-for-historic-karting-africa-showrun-in-angola/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T11:51:29.000Z",
-      "summary": "The delegation, led by Auto Racing Ghana (ARG) president Samuel Moses Opoku-Agyemang, paid a courtesy call on National Sports Authority (NSA) Director-General Yaw Ampofo Ankrah in Accra.",
-      "categories": [
-        "Other Sports",
-        "Sports",
-        "Ampofo Ankrah",
-        "Engineers & Planners",
-        "Karting Africa Showrun",
-        "National Sports Authority (NSA)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-11.47.23-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "52-year-old South African arrested with suspected heroin after arriving from Accra",
-      "link": "https://www.myjoyonline.com/52-year-old-south-african-arrested-with-suspected-heroin-after-arriving-from-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T11:38:45.000Z",
-      "summary": "A 52-year-old South African man has been arrested at OR Tambo International Airport after police allegedly found suspected heroin worth more than R2 million in his luggage. The arrest was…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Ghana",
-        "Heroin",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-98.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Shatta Wale challenges UPSA students to build entrepreneurial mindsets",
-      "link": "https://www.myjoyonline.com/shatta-wale-challenges-upsa-students-to-build-entrepreneurial-mindsets/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T11:04:39.000Z",
-      "summary": "Ghanaian musician and entrepreneur Charles Nii Armah Mensah Jr., popularly known as Shatta Wale, has challenged students of the University of Professional Studies, Accra (UPSA) to cultivate…",
-      "categories": [
-        "National",
-        "Shatta Wale",
-        "UPSA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-6.07.16-AM-1024x571.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana Grabs Spotlight at 46th FIDE Chess Olympiad in Samarkand",
@@ -312,18 +325,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/Agnes.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "World Shea Expo: Vice-President plants first hybrid shea tree in Tamale",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-world-shea-expo-vice-president-plants-first-hybrid-shea-tree-in-tamale.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T11:00:28.000Z",
-      "summary": "A new hybrid shea variety developed by researchers at the Cocoa Research Institute of Ghana (CRIG) is being piloted on a 30-acre demonstration farm at Futa, in the Northern Region capital…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/Naana.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {

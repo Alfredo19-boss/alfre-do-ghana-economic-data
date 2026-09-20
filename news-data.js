@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-20T13:46:15.327Z",
-  "worldAt": "2026-09-20T13:46:15.324Z",
+  "updated": "2026-09-20T17:01:56.410Z",
+  "worldAt": "2026-09-20T17:01:56.408Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,29 +23,43 @@ window.GDC_NEWS = {
     "Graphic Online: 1/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 24 stories",
+    "World · BBC News: 26 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: failed (fetch failed)",
-    "Africa · AllAfrica Business: failed (fetch failed)",
+    "Africa · AllAfrica: 33 stories",
+    "Africa · AllAfrica Business: 32 stories",
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 27 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 0 stories",
-    "world lists: 40 world, 23 African stories held"
+    "Africa · Al Jazeera: 2 stories",
+    "world lists: 40 world, 24 African stories held"
   ],
   "items": [
+    {
+      "title": "The 90 Pesewas at the Pump: Where Is Your UPPF Money Going?",
+      "link": "https://thehighstreetjournal.com/the-90-pesewas-at-the-pump-where-is-your-uppf-money-going/",
+      "source": "The High Street Journal",
+      "published": "2026-09-20T15:00:58.000Z",
+      "summary": "Ghanaian motorists pay 90 pesewas per litre into the UPPF, yet questions persist over the fund’s GH¢10 billion accumulation, utilisation and controls, prompting calls for detailed…"
+    },
+    {
+      "title": "Insurance Industry Can Create More Jobs for Ghanaian Youth – GIU Rector Says",
+      "link": "https://thehighstreetjournal.com/insurance-industry-can-create-more-jobs-for-ghanaian-youth-giu-rector-says/",
+      "source": "The High Street Journal",
+      "published": "2026-09-20T14:00:21.000Z",
+      "summary": "GIU Rector Dr Richard Okyere says Ghana’s insurance sector can create jobs for young people as low insurance penetration and shortages of actuaries increase demand for specialised skills."
+    },
     {
       "title": "Africa World Airlines unveils first Embraer E190 as part of 10-aircraft fleet expansion",
       "link": "https://www.myjoyonline.com/africa-world-airlines-unveils-first-embraer-e190-as-part-of-10-aircraft-fleet-expansion/",
@@ -1081,36 +1095,156 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-16T22:23:00.000Z",
       "summary": "Microsoft's head of AI has warned that Anthropic's approach to training its AI model, Claude, could have a \"disastrous impact on the wellbeing of humanity\"."
-    },
-    {
-      "title": "Ghanaian tech professionals develop SMS-based AI tool for non-smartphones",
-      "link": "https://www.myjoyonline.com/ghanaian-tech-professionals-develop-sms-based-ai-tool-for-non-smartphones/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T20:17:03.000Z",
-      "summary": "A Ghanaian startup has developed an artificial intelligence (AI) service that allows people without smartphones, internet access or mobile data to interact with AI using simple text…"
-    },
-    {
-      "title": "GRA Warns Tax Non-Compliance Is Distorting Business Competition",
-      "link": "https://thehighstreetjournal.com/gra-warns-tax-non-compliance-is-distorting-business-competition/",
-      "source": "The High Street Journal",
-      "published": "2026-09-16T20:00:00.000Z",
-      "summary": "The GRA says widespread tax non-compliance is distorting competition by disadvantaging compliant businesses, as the Authority moves to strengthen transaction monitoring and bring more…"
     }
   ],
   "world": [
     {
-      "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
+      "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-20T16:50:21.000Z",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T13:31:25.000Z",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound."
+      "published": "2026-09-20T16:37:19.000Z",
+      "summary": "The game hinged on Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box."
+    },
+    {
+      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-20T16:36:43.000Z",
+      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg"
+    },
+    {
+      "title": "Photos: Nepal flood survivors find little trace of former lives",
+      "link": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T16:36:03.000Z",
+      "summary": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris."
+    },
+    {
+      "title": "Germany’s Merz admits ‘disaster’ in state elections, vows to press ahead with reforms",
+      "link": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections",
+      "source": "France 24",
+      "published": "2026-09-20T16:23:34.000Z",
+      "summary": "German Chancellor Friedrich Merz on Sunday described his CDU party's heavy losses in two regional elections as a \"disaster\", but vowed to push ahead with a reform drive. The far-right…",
+      "image": "https://s.france24.com/media/display/b61722ba-b511-11f1-8624-9ff5c3f464d4/w:1024/p:16x9/000-C8UC22G.jpg"
+    },
+    {
+      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+      "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T15:57:48.000Z",
+      "summary": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle."
+    },
+    {
+      "title": "Israeli settler and Palestinian driver killed in West Bank shootings",
+      "link": "https://www.france24.com/en/middle-east/20260920-israeli-settler-and-palestinian-driver-killed-in-west-bank-shootings",
+      "source": "France 24",
+      "published": "2026-09-20T15:30:08.000Z",
+      "summary": "A suspected Palestinian gunman on Sunday shot dead an Israeli man near a West Bank settlement, according to Israeli officials. The gunman was located at a Ramallah hospital and arrested…",
+      "image": "https://s.france24.com/media/display/95da504c-b504-11f1-bc3f-5b4fdf021577/w:1024/p:16x9/AP26263426242066.jpg"
+    },
+    {
+      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T15:30:10.000Z",
+      "summary": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second."
+    },
+    {
+      "title": "AfD threatens fresh blow to Merz: Two German states hold key vote",
+      "link": "https://www.france24.com/en/afd-threatens-fresh-blow-to-merz-two-german-states-hold-key-vote",
+      "source": "France 24",
+      "published": "2026-09-20T14:56:15.000Z",
+      "summary": "Two German states are heading to the polls today – in Berlin and the state of Mecklenburg-Western Pomerania. The far-right AfD party is expected to make further gains after securing a…",
+      "image": "https://s.france24.com/media/display/46b47c8c-b503-11f1-b65c-9ff5c3f464d4/w:1024/p:16x9/capture-1450590606aaff3cdae6eb7-21030001.jpg"
+    },
+    {
+      "title": "Trump says monumental arch in Washington, DC will also be military complex",
+      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T15:16:38.000Z",
+      "summary": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city."
+    },
+    {
+      "title": "Ukraine fires over 1,000 drones at Russia in \"largest ever\" attack on Moscow",
+      "link": "https://www.france24.com/en/ukraine-fires-over-1-000-drones-at-russia-in-largest-ever-attack-on-moscow",
+      "source": "France 24",
+      "published": "2026-09-20T14:46:52.000Z",
+      "summary": "Russia is completing its three-day vote for the Duma this Sunday – the first since its large-scale invasion of Ukraine. The election was organised for the first time also in the Ukrainian…",
+      "image": "https://s.france24.com/media/display/a1124f9e-b501-11f1-bf2f-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-160125-160258-CS.jpg"
+    },
+    {
+      "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T14:43:49.000Z",
+      "summary": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June."
+    },
+    {
+      "title": "An Israeli settler and a Palestinian driver killed in West Bank shootings",
+      "link": "https://www.france24.com/en/an-israeli-settler-and-a-palestinian-driver-killed-in-west-bank-shootings",
+      "source": "France 24",
+      "published": "2026-09-20T14:34:25.000Z",
+      "summary": "An Israeli settler has been fatally shot in the occupied West Bank, while Israel's military said it killed a man who attempted to ram his vehicle into troops elsewhere in the Palestinian…",
+      "image": "https://s.france24.com/media/display/420fc5b2-b4fc-11f1-8b03-9f514b90f153/w:1024/p:16x9/EN-20260920-150528-150741-CS.jpg"
+    },
+    {
+      "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T14:38:01.000Z",
+      "summary": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists."
+    },
+    {
+      "title": "Iran closes French language centre in Tehran for ‘illegal acts’",
+      "link": "https://www.france24.com/en/middle-east/20260920-iran-closes-french-language-centre-in-tehran-for-illegal-acts",
+      "source": "France 24",
+      "published": "2026-09-20T13:46:00.000Z",
+      "summary": "Iranian authorities on Sunday shut down the French Language Centre (CLF) in Tehran, alleging the French embassy-linked institute conducted \"illegal acts that violated diplomatic…",
+      "image": "https://s.france24.com/media/display/d7627854-b4f1-11f1-a6d1-0730212ba17f/w:1024/p:16x9/AP26258653383251.jpg"
+    },
+    {
+      "title": "Humanoid robots fight in cage match in Shanghai",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T14:12:28.000Z",
+      "summary": "Humanoid robots fight in cage match in Shanghai"
+    },
+    {
+      "title": "Peter Thiel: Power, Palantir, and the antichrist",
+      "link": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-20T13:29:00.000Z",
+      "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world’s richest people. But from his theories on the antichrist and AI to his distinctive politics, Peter Thiel…"
+    },
+    {
+      "title": "The pro-Israel censors are starting to lose",
+      "link": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T14:00:32.000Z",
+      "summary": "The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing."
     },
     {
       "title": "Brazil transforms waste palm oil into green energy",
       "link": "http://www.africanews.com/2026/09/20/brazil-transforms-waste-palm-oil-into-green-energy/",
       "source": "Africanews",
-      "published": "2026-09-20T13:20:19.000Z",
+      "published": "2026-09-20T13:27:41.000Z",
       "summary": "Salvador, the capital of Bahia state, is promoting the reuse of residual palm oil from its iconic acarajé fritters — African-inspired, shrimp-filled dumplings made with peeled black-eyed…"
+    },
+    {
+      "title": "Jews and Muslims lived together for centuries. Did Zionism tear them apart?",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T13:53:21.000Z",
+      "summary": "On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism."
     },
     {
       "title": "The week in pictures: Syria protests, Céline Dion on stage and Quito wildfires",
@@ -1121,11 +1255,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/edae22ca-b343-11f1-8e1c-2b7cd267a8ec/w:1024/p:16x9/AP26259483265880.jpg"
     },
     {
-      "title": "Iran win Asian Games basketball bronze amid emotional scenes",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
+      "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
+      "link": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T13:13:27.000Z",
-      "summary": "Players celebrate podium finish that brings exemption from conscription, saying the pressure was 'out of this world'."
+      "published": "2026-09-20T13:47:26.000Z",
+      "summary": "Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US."
     },
     {
       "title": "Gaza children return to school after years of war and displacement",
@@ -1135,11 +1269,11 @@ window.GDC_NEWS = {
       "summary": "Children in Gaza are heading back to school as a new academic year begins, returning to classrooms that remain heavily damaged and lacking basic equipment after years of war."
     },
     {
-      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-      "link": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
+      "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T13:12:40.000Z",
-      "summary": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians."
+      "published": "2026-09-20T13:31:25.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound."
     },
     {
       "title": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
@@ -1150,11 +1284,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f5c423ba-b42e-11f1-9171-6f779f079bc8/w:1024/p:16x9/2026-09-19T114800Z-1100229945-RC28MNAOL58F-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg"
     },
     {
-      "title": "Moscow attacked by more than 1,000 Ukrainian drones",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
+      "title": "Iran win Asian Games basketball bronze amid emotional scenes",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T13:10:35.000Z",
-      "summary": "This is the moment a drone exploded as it hit an apartment building in Moscow."
+      "published": "2026-09-20T13:13:27.000Z",
+      "summary": "Players celebrate podium finish that brings exemption from conscription, saying the pressure was 'out of this world'."
     },
     {
       "title": "PHOTOS: The precarious life of fisherfolk",
@@ -1165,11 +1299,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fe5%2Fa77316e045bf85a175c6a671f00e%2Ffisherfolk-4.jpg"
     },
     {
-      "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
-      "link": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
+      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
+      "link": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T12:57:57.000Z",
-      "summary": "Khan’s party condemns his sister’s arrest as an illegal attempt to silence her over PTI leader’s ongoing imprisonment."
+      "published": "2026-09-20T13:12:40.000Z",
+      "summary": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians."
     },
     {
       "title": "'NAZA' documentary about Gaza war sparks political storm in Israel",
@@ -1180,11 +1314,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/cd909d7e-b4ec-11f1-8bfb-9ff5c3f464d4/w:1024/p:16x9/EN-20260920-133404-134124-CS.jpg"
     },
     {
-      "title": "Gaza’s children return to classrooms after years of Israeli attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
+      "title": "Moscow attacked by more than 1,000 Ukrainian drones",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T12:38:21.000Z",
-      "summary": "Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools."
+      "published": "2026-09-20T13:10:35.000Z",
+      "summary": "This is the moment a drone exploded as it hit an apartment building in Moscow."
     },
     {
       "title": "Why doesn't the US intervene to defend Saudi Arabia against the Houthis?",
@@ -1195,11 +1329,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/cce5cada-b4eb-11f1-98b6-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-130940-132125-CS.jpg"
     },
     {
-      "title": "LIVE: Fulham vs Manchester United – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss",
+      "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
+      "link": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T12:33:08.000Z",
-      "summary": "Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage."
+      "published": "2026-09-20T12:57:57.000Z",
+      "summary": "Khan’s party condemns his sister’s arrest as an illegal attempt to silence her over PTI leader’s ongoing imprisonment."
     },
     {
       "title": "North Korea fires two ballistic missiles into the sea in latest weapons display",
@@ -1210,11 +1344,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/75838ad2-b4e3-11f1-8ac0-5b4fdf021577/w:1024/p:16x9/AP26263309350737.jpg"
     },
     {
-      "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
+      "title": "Gaza’s children return to classrooms after years of Israeli attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T12:11:22.000Z",
-      "summary": "Israeli forces killed a Palestinian man near Jenin and an Israeli settler was fatally shot in separate incident."
+      "published": "2026-09-20T12:38:21.000Z",
+      "summary": "Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools."
     },
     {
       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -1225,11 +1359,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
+      "title": "LIVE: Fulham vs Manchester United – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T12:00:16.000Z",
-      "summary": "Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia."
+      "published": "2026-09-20T12:33:08.000Z",
+      "summary": "Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage."
     },
     {
       "title": "Uganda suspends military cooperation with Turkey amid political tensions",
@@ -1239,11 +1373,11 @@ window.GDC_NEWS = {
       "summary": "Uganda's army said Saturday it had suspended military cooperation with Turkey, after demands for Ankara to hand over a prominent political blogger and fierce critic of President Yoweri…"
     },
     {
-      "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-      "link": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
+      "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T11:54:24.000Z",
-      "summary": "Netanyahu storms Western Wall tunnels amid Yom Kippur settler incursions, drawing fierce condemnation."
+      "published": "2026-09-20T12:11:22.000Z",
+      "summary": "Israeli forces have killed a Palestinian man near Jenin, and an Israeli settler was fatally shot in a separate incident."
     },
     {
       "title": "Germany: Could regional polls force Friedrich Merz to step down?",
@@ -1254,163 +1388,34 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7241ef7c-b4dd-11f1-a7e3-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-090118-091249-CS.jpg"
     },
     {
-      "title": "Back to school in Gaza: Learning in tents after years of disruption",
-      "link": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
+      "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T11:26:20.000Z",
-      "summary": "After nearly three years of disruption, children return to school in Gaza in makeshift spaces with scarce resources."
-    },
-    {
-      "title": "Ukraine hits Russia with major drone attack, targetting refinery",
-      "link": "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery",
-      "source": "France 24",
-      "published": "2026-09-20T10:24:57.000Z",
-      "summary": "In Russia, voters are on the third and final day of casting ballots in the country's first wartime parliamentary election. Despite the voting however, Ukraine carried out what Moscow…",
-      "image": "https://s.france24.com/media/display/7fbde97c-b4be-11f1-b2c6-5b4fdf021577/w:1024/p:16x9/2026-09-20T042905Z-1824787393-RC2QMNA5QBAK-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-REFINERY.jpg"
-    },
-    {
-      "title": "What are Iran’s latest conditions to end its war with the US?",
-      "link": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T11:21:06.000Z",
-      "summary": "Iran's latest stipulations come as growing regional escalation causes oil prices to cross $100 per barrel."
-    },
-    {
-      "title": "Nine women found dead near Johannesburg sends shockwaves through South Africa",
-      "link": "https://www.france24.com/en/nine-women-found-dead-near-johannesburg-sends-shockwaves-through-south-africa",
-      "source": "France 24",
-      "published": "2026-09-20T10:00:02.000Z",
-      "summary": "Vigils, group runs and moments of silence: thousands of protesters gathered across South Africa this weekend to pay tribute to the nine women found murdered in eastern Johannesburg. In a…",
-      "image": "https://s.france24.com/media/display/bf5a0fc8-b4d9-11f1-a35a-6f779f079bc8/w:1024/p:16x9/2026-09-18T210632Z-470438108-RC2ULNA6GEGV-RTRMADP-3-SAFRICA-CRIME.jpg"
-    },
-    {
-      "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T11:18:21.000Z",
-      "summary": "Accommodation crisis, transport gaffes and national anthem mix-ups headline the games before their opening in Japan."
-    },
-    {
-      "title": "Ed Sheeran calls Gaza war catastrophic after dropping Macklemore over pro-Palestinian comments",
-      "link": "https://www.france24.com/en/ed-sheeran-calls-gaza-war-catastrophic-after-dropping-macklemore-over-pro-palestinian-comments",
-      "source": "France 24",
-      "published": "2026-09-20T09:57:12.000Z",
-      "summary": "English singer Ed Sheeran opened his first show since his opener Macklemore was dropped after making pro-Palestinian comments onstage. The move sparked controversy and prompted several…",
-      "image": "https://s.france24.com/media/display/6678406e-b4d9-11f1-b75e-9ff5c3f464d4/w:1024/p:16x9/2026-09-20T040207Z-1831225387-RC2QMNAI21XV-RTRMADP-3-ISRAEL-PALESTINIANS-MACKLEMORE-ED-SHEERAN.jpg"
-    },
-    {
-      "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T11:10:00.000Z",
-      "summary": "Follow updates from the Madrid derby, including the build-up, analysis and live text commentary of the game."
-    },
-    {
-      "title": "Three media outlets barred from the White House over 'fake news'",
-      "link": "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news",
-      "source": "France 24",
-      "published": "2026-09-20T09:55:09.000Z",
-      "summary": "Donald Trump has suggested that more news outlets may be barred from the White House after he announced he was banning Politico, CNN and MS NOW. On Saturday, all three outlets said that the…",
-      "image": "https://s.france24.com/media/display/17f41504-b4d8-11f1-b0a3-5b4fdf021577/w:1024/p:16x9/EN-20260920-081748-081932-CS.jpg"
-    },
-    {
-      "title": "Trump’s Greenland deal: A triumph of optics?",
-      "link": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T10:49:10.000Z",
-      "summary": "It seems the new agreement may not be that 'new'."
-    },
-    {
-      "title": "US and Denmark reach Greenland security deal",
-      "link": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal",
-      "source": "France 24",
-      "published": "2026-09-20T09:40:12.000Z",
-      "summary": "The US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump when he threatened to seize the semi-autonomous territory…",
-      "image": "https://s.france24.com/media/display/63667182-b4d6-11f1-8b04-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-081031-081205-CS.jpg"
-    },
-    {
-      "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
-      "link": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T10:23:33.000Z",
-      "summary": "Ankara expresses readiness to assist Riyadh as Houthi attacks escalate, testing a recent trilateral defence agreement."
-    },
-    {
-      "title": "Yemen's Houthis strike Saudi capital Riyadh for the first time",
-      "link": "https://www.france24.com/en/yemen-s-houthis-strike-saudi-capital-riyadh-for-the-first-time",
-      "source": "France 24",
-      "published": "2026-09-20T09:38:42.000Z",
-      "summary": "Fighting between Iran-backed Houthi rebels and Saudi Arabia continues to intensify. On Saturday morning, a fire broke out near Riyadh's main airport after Houthis said they launched…",
-      "image": "https://s.france24.com/media/display/264babe8-b4d4-11f1-9455-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-080551-080719-CS.jpg"
-    },
-    {
-      "title": "Salah scores hat-trick as Trabzonspor beat Galatasaray in Turkish league",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/salah-scores-hat-trick-as-trabzonspor-beat-galatasaray-in-turkish-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T09:52:30.000Z",
-      "summary": "Mohamed Salah scored three goals and created the fourth as the Turkish champions were defeated 4–0 by Trabzonspor."
-    },
-    {
-      "title": "Argentines protest Milei's austerity, demanding higher wages and public spending",
-      "link": "https://www.france24.com/en/argentines-protest-milei-s-austerity-demanding-higher-wages-and-public-spending",
-      "source": "France 24",
-      "published": "2026-09-20T09:38:27.000Z",
-      "summary": "Tensions are boiling over in Argentina, where a massive wave of public anger is spilling onto the streets of the capital. Following months of aggressive economic reforms and rising…",
-      "image": "https://s.france24.com/media/display/836bc8c6-b4d4-11f1-9638-0730212ba17f/w:1024/p:16x9/EN-20260920-080821-080959-CS.jpg"
-    },
-    {
-      "title": "Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T09:36:23.000Z",
-      "summary": "India defeat Bangladesh by 114 runs to book women's cricket final against Sri Lanka, who beat Pakistan by eight wickets."
-    },
-    {
-      "title": "Will German's far right party AfD win over two more regions?",
-      "link": "https://www.france24.com/en/will-german-s-far-right-party-afd-win-over-two-more-regions",
-      "source": "France 24",
-      "published": "2026-09-20T09:35:34.000Z",
-      "summary": "Two weeks after the far-right AfD won its first major regional election in Germany, two more eastern states vote this Sunday. Polls have just opened in the capital, Berlin, and the largely…",
-      "image": "https://s.france24.com/media/display/7190e544-b4d6-11f1-bbc5-0730212ba17f/w:1024/p:16x9/2026-09-17T154724Z-1958111571-RC23LNAVC6LP-RTRMADP-3-GERMANY-ELECTION-BERLIN-MERZ.jpg"
-    },
-    {
-      "title": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T09:30:51.000Z",
-      "summary": "Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive."
-    },
-    {
-      "title": "Ligue 1: Paris Saint-Germain head to Marseille for a tense Classique",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260920-ligue-1-paris-saint-germain-head-to-marseille-for-a-tense-classique",
-      "source": "France 24",
-      "published": "2026-09-20T09:34:08.000Z",
-      "summary": "Paris Saint-Germain will travel to Marseille this Sunday to face OM at the Vélodrome in the final game of Matchday 5 in Ligue 1. It is a must-not-lose clash between two struggling sides…",
-      "image": "https://s.france24.com/media/display/3b6a712c-b492-11f1-941d-ed3d9e22a40f/w:1024/p:16x9/000-372P8CV.jpg"
-    },
-    {
-      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-      "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-      "source": "NPR World",
-      "published": "2026-09-20T09:16:42.000Z",
-      "summary": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5440x3627+0+0/resize/5440x3627!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff7%2Fe7%2F30ae5c6649fcaa1d8badb854e7e1%2Fap26262779814089.jpg"
+      "published": "2026-09-20T12:00:16.000Z",
+      "summary": "Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia."
     }
   ],
   "africa": [
     {
+      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T15:30:10.000Z",
+      "summary": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second."
+    },
+    {
       "title": "Brazil transforms waste palm oil into green energy",
       "link": "http://www.africanews.com/2026/09/20/brazil-transforms-waste-palm-oil-into-green-energy/",
       "source": "Africanews",
-      "published": "2026-09-20T13:20:19.000Z",
+      "published": "2026-09-20T13:27:41.000Z",
       "summary": "Salvador, the capital of Bahia state, is promoting the reuse of residual palm oil from its iconic acarajé fritters — African-inspired, shrimp-filled dumplings made with peeled black-eyed…"
     },
     {
-      "title": "Decolonizing perceptions about Africa",
-      "link": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-20T06:32:00.000Z",
-      "summary": "As a UN resolution alters the standard global map to reflect the continent more accurately, initiatives to decolonize African schools and a campaign to present positive developments are…"
+      "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T14:38:01.000Z",
+      "summary": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists."
     },
     {
       "title": "Uganda suspends military cooperation with Turkey amid political tensions",
@@ -1420,11 +1425,11 @@ window.GDC_NEWS = {
       "summary": "Uganda's army said Saturday it had suspended military cooperation with Turkey, after demands for Ankara to hand over a prominent political blogger and fierce critic of President Yoweri…"
     },
     {
-      "title": "Morocco’s PJD: what has the party learned from its dramatic fall",
-      "link": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T03:40:24.000Z",
-      "summary": "After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?"
+      "title": "Decolonizing perceptions about Africa",
+      "link": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-20T06:32:00.000Z",
+      "summary": "As a UN resolution alters the standard global map to reflect the continent more accurately, initiatives to decolonize African schools and a campaign to present positive developments are…"
     },
     {
       "title": "Congo launches Ebola vaccination campaign for frontline workers",
@@ -1434,11 +1439,11 @@ window.GDC_NEWS = {
       "summary": "Congo began vaccinating health care workers against Ebola on Saturday in Bunia, the epicenter of the fastest-growing outbreak of the disease in the country’s history."
     },
     {
-      "title": "DR Congo begins Ebola vaccination trials for frontline health workers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
+      "title": "Morocco’s PJD: what has the party learned from its dramatic fall",
+      "link": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T01:51:47.000Z",
-      "summary": "DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis."
+      "published": "2026-09-20T03:40:24.000Z",
+      "summary": "After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?"
     },
     {
       "title": "Nigeria appoints panel to probe deaths of 37 miners in holding cell",
@@ -1448,11 +1453,11 @@ window.GDC_NEWS = {
       "summary": "Nigeria's government has appointed a 10-member independent panel to investigate the deaths of 37 people in a paramilitary civil defence force holding cell, the interior minister said…"
     },
     {
-      "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
-      "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+      "title": "DR Congo begins Ebola vaccination trials for frontline health workers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T00:36:05.000Z",
-      "summary": "50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial."
+      "published": "2026-09-20T01:51:47.000Z",
+      "summary": "DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis."
     },
     {
       "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
@@ -1463,11 +1468,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6132/live/ba962470-b355-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+      "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+      "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T15:31:05.000Z",
-      "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict."
+      "published": "2026-09-20T00:36:05.000Z",
+      "summary": "50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial."
     },
     {
       "title": "Nigeria gold miner deaths spark protests in Niger state",
@@ -1477,11 +1482,11 @@ window.GDC_NEWS = {
       "summary": "Survivors of a Nigerian disaster that saw 37 suspected illegal gold miners die while in the custody of a paramilitary civil defence group recounted their panic on Friday as they struggled…"
     },
     {
-      "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
-      "link": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
+      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T13:55:44.000Z",
-      "summary": "Police examining 'all possibilities' as women in Ekurhuleni, Johannesburg, fear murders could be linked."
+      "published": "2026-09-19T15:31:05.000Z",
+      "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict."
     },
     {
       "title": "South African circus gives young performers a new route forward",
@@ -1491,11 +1496,11 @@ window.GDC_NEWS = {
       "summary": "In Johannesburg, a circus is helping young performers from under-resourced communities turn talent into careers. Among them is 29-year-old Brian Ngobese, who grew up in Alexandra township…"
     },
     {
-      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
-      "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+      "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
+      "link": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-19T12:34:37.000Z",
-      "summary": "The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military."
+      "published": "2026-09-19T13:55:44.000Z",
+      "summary": "Police examining 'all possibilities' as women in Ekurhuleni, Johannesburg, fear murders could be linked."
     },
     {
       "title": "UN envoy visits displaced communities in eastern DR Congo",
@@ -1503,6 +1508,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-19T12:26:28.000Z",
       "summary": "UN staffs traveled to Kimoka in North Kivu on Friday, in eastern Democratic Republic of Congo, in an area controlled by M23 rebels, to assess the situation of returnees and their living…"
+    },
+    {
+      "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+      "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-19T12:34:37.000Z",
+      "summary": "The sanctions, introduced during the Biden administration, targeted Eritrea's governing party and the military."
     },
     {
       "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
@@ -1540,13 +1552,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-19T08:57:41.000Z",
       "summary": "Residents of Olifantsfontein gathered to remember a woman whose body was found floating in a river in Clayville, east of Johannesburg, as communities across the area demand action over a…"
-    },
-    {
-      "title": "South Africans voice their anger as hundreds hold femicide vigil",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T02:41:57.000Z",
-      "summary": "Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa."
     },
     {
       "title": "Student pilot and flight instructor killed in Kenya plane crash near wind turbines",
