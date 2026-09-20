@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-20T21:40:13.348Z",
+  "updated": "2026-09-20T23:31:48.331Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,66 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Government has improved sanitation in one-and-a-half years — Salaga South MP",
+      "link": "https://www.myjoyonline.com/government-has-improved-sanitation-in-one-and-a-half-years-zuwera/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T22:05:28.000Z",
+      "summary": "Member of Parliament for Salaga South and member of Parliament’s Select Committee on Sanitation and Water Resources, Zuwera Mohammed Ibrahimah, has rejected claims that little has been done…",
+      "categories": [
+        "National",
+        "monitoring exercise",
+        "Sanitation",
+        "Water resources"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-31.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nkwanta North Assembly to appear before Parliament over DACF sanitation spending",
+      "link": "https://www.myjoyonline.com/nkwanta-north-assembly-to-appear-before-parliament-over-dacf-sanitation-spending/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T21:53:16.000Z",
+      "summary": "The Nkwanta North District Assembly is expected to appear before Parliament’s Select Committee on Sanitation and Water Resources in Accra for further questioning over its presentation…",
+      "categories": [
+        "National",
+        "DACF Sanitation",
+        "Nkwanta north assembly",
+        "Parliament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-30.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mourinho prints out ‘red card’ incidents after Real lose derby",
+      "link": "https://www.myjoyonline.com/mourinho-prints-out-red-card-incidents-after-real-lose-derby/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T21:33:00.000Z",
+      "summary": "Real Madrid manager Jose Mourinho arrived at his post-match news conference carrying an A4 sheet of printed paper with screenshots displaying two incidents he believed should have resulted…",
+      "categories": [
+        "Football",
+        "Atletico Madrid",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2807.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Atletico beat 10-man Real in feisty Madrid derby",
+      "link": "https://www.myjoyonline.com/atletico-beat-10-man-real-in-feisty-madrid-derby/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T21:22:00.000Z",
+      "summary": "Atletico Madrid beat Real Madrid in a feisty derby to move above their rivals into second place in La Liga.",
+      "categories": [
+        "News",
+        "Atletico Madrid",
+        "Madrid derby",
+        "Real Madrid"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2808.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Twelve Tribes of Israel Ghana to mark 40 years with anniversary celebration",
       "link": "https://www.myjoyonline.com/twelve-tribes-of-israel-ghana-to-mark-40-years-with-anniversary-celebration/",
@@ -91,68 +151,6 @@ window.GDC_PAPERS = {
         "Services"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/GDP.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The ungodliness and unrighteousness underlying the National Cathedral mess!",
-      "link": "https://www.myjoyonline.com/the-ungodliness-and-unrighteousness-underlying-the-national-cathedral-mess/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T20:12:34.000Z",
-      "summary": "When former President Akufo-Addo claimed that he had made a personal pledge to God to build the National Cathedral if God helped him to win the election to become President, did anybody ask…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Kwaku Abtwi-Boasiako",
-        "national cathedral"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Akufo-Addo1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "T-bills auction: Government fails to achieve target; yield on 91-day-bill remains unchanged",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-fails-to-achieve-target-yield-on-91-day-bill-remains-unchanged/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T20:01:39.000Z",
-      "summary": "The 91-day bill was the most subscribed, as GH¢2.28 billion of the bids were tendered, representing 57.8% of the total bids.",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "182-day bill",
-        "364-day bill",
-        "91-day bill",
-        "BoG",
-        "Interest rates"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "It’s Ghana’s shame to denigrate Nkrumah when the whole world honours him as African of the Century – Asiedu Nketiah",
-      "link": "https://www.myjoyonline.com/its-ghanas-shame-to-denigrate-nkrumah-when-the-whole-world-honours-him-as-african-of-the-century-asiedu-nketiah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T19:54:02.000Z",
-      "summary": "In a reprimand akin to the Biblical admonition that a prophet is without honour among his kindred, the National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah…",
-      "categories": [
-        "National",
-        "Politics",
-        "Dr. Kwame Nkrumah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Asiedu-Nketiah_Ghana_Flag.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No other nationalist can compare to Nkrumah – Asiedu Nketiah",
-      "link": "https://www.myjoyonline.com/no-other-nationalist-can-compare-to-nkrumah-asiedu-nketiah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T19:46:47.000Z",
-      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, says modern Ghana owes a significant part of its existence as a nation to Osagyefo Dr Kwame Nkrumah…",
-      "categories": [
-        "National",
-        "Politics",
-        "Asiedu Nketiah",
-        "Nkrumah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Asiedu_Nketiah_Prof_Lumumba.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

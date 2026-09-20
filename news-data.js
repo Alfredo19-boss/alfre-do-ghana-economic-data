@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-20T21:40:00.617Z",
-  "worldAt": "2026-09-20T21:40:00.615Z",
+  "updated": "2026-09-20T23:31:35.163Z",
+  "worldAt": "2026-09-20T23:31:35.161Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -24,12 +24,12 @@ window.GDC_NEWS = {
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: failed (HTTP 415)",
+    "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -43,7 +43,7 @@ window.GDC_NEWS = {
     "Africa · BBC Africa: 27 stories",
     "Africa · Deutsche Welle: 3 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 20 African stories held"
+    "world lists: 40 world, 18 African stories held"
   ],
   "items": [
     {
@@ -1099,6 +1099,36 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Polls close in Russian wartime election with ruling party set to dominate",
+      "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T22:54:00.000Z",
+      "summary": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine."
+    },
+    {
+      "title": "Torres strikes again as PSG beat bitter rivals Marseille 2-1",
+      "link": "https://www.france24.com/en/sport/20260920-torres-strikes-again-as-psg-beat-bitter-rivals-marseille-2-1",
+      "source": "France 24",
+      "published": "2026-09-20T21:55:07.000Z",
+      "summary": "Paris Saint-Germain claimed the bragging rights in 'Le Classique' on Sunday, edging Marseille 2-1 as Spaniard Ferran Torres scored his seventh goal in six appearances for his new club.",
+      "image": "https://s.france24.com/media/display/97da7028-b53d-11f1-8cbb-5b4fdf021577/w:1024/p:16x9/AP26263739092176.jpg"
+    },
+    {
+      "title": "France to summon Iran envoy after language centre closure in Tehran",
+      "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T22:06:22.000Z",
+      "summary": "Iran accuses the French language centre of conducting 'illegal acts that violated diplomatic conventions'."
+    },
+    {
+      "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+      "source": "NPR World",
+      "published": "2026-09-20T21:39:24.000Z",
+      "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5266x3511+0+0/resize/5266x3511!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F81%2F8aa962b54221ad8ec82e05992ed3%2Fap652341088737.jpg"
+    },
+    {
       "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
       "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1366,35 +1396,6 @@ window.GDC_NEWS = {
       "source": "Deutsche Welle",
       "published": "2026-09-20T13:29:00.000Z",
       "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world’s richest people. But from his theories on the antichrist and AI to his distinctive politics, Peter Thiel…"
-    },
-    {
-      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T15:30:10.000Z",
-      "summary": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second."
-    },
-    {
-      "title": "Brazil transforms waste palm oil into green energy",
-      "link": "http://www.africanews.com/2026/09/20/brazil-transforms-waste-palm-oil-into-green-energy/",
-      "source": "Africanews",
-      "published": "2026-09-20T13:27:41.000Z",
-      "summary": "Salvador, the capital of Bahia state, is promoting the reuse of residual palm oil from its iconic acarajé fritters — African-inspired, shrimp-filled dumplings made with peeled black-eyed…"
-    },
-    {
-      "title": "Trump says monumental arch in Washington, DC will also be military complex",
-      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T15:16:38.000Z",
-      "summary": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city."
-    },
-    {
-      "title": "The week in pictures: Syria protests, Céline Dion on stage and Quito wildfires",
-      "link": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
-      "source": "France 24",
-      "published": "2026-09-20T13:15:57.000Z",
-      "summary": "From protests against rising fuel prices in Syria to Canadian Prime Minister Mark Carney’s EU charm offensive to Quito’s wildfires and Céline Dion’s return to the stage, FRANCE 24 looks…",
-      "image": "https://s.france24.com/media/display/edae22ca-b343-11f1-8e1c-2b7cd267a8ec/w:1024/p:16x9/AP26259483265880.jpg"
     }
   ],
   "africa": [
@@ -1525,21 +1526,6 @@ window.GDC_NEWS = {
       "published": "2026-09-19T11:50:50.000Z",
       "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623e/live/bb9fcf60-b41d-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "Greece-Egypt military exercise draws tourists’ attention in Crete",
-      "link": "http://www.africanews.com/2026/09/19/greece-egypt-military-exercise-draws-tourists-attention-in-crete/",
-      "source": "Africanews",
-      "published": "2026-09-19T10:33:49.000Z",
-      "summary": "Vacationers on the Greek island of Crete — taking a morning dip or seeking shade on wooden sunbeds — watched a major military exercise unfold on a beachfront Friday, just 50 meters (yards)…"
-    },
-    {
-      "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-09-19T10:24:01.000Z",
-      "summary": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661f/live/5d15cef0-b372-11f1-9023-9990160baacc.jpg"
     }
   ]
 };
