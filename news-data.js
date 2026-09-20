@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-20T19:21:42.875Z",
-  "worldAt": "2026-09-20T19:21:42.873Z",
+  "updated": "2026-09-20T21:40:00.617Z",
+  "worldAt": "2026-09-20T21:40:00.615Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -24,9 +24,9 @@ window.GDC_NEWS = {
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
-    "Ghana News Agency: 1/1 stories",
+    "Ghana News Agency: failed (HTTP 415)",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: 0 stories",
@@ -34,7 +34,7 @@ window.GDC_NEWS = {
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 26 stories",
+    "World · BBC News: 27 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -43,9 +43,30 @@ window.GDC_NEWS = {
     "Africa · BBC Africa: 27 stories",
     "Africa · Deutsche Welle: 3 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 22 African stories held"
+    "world lists: 40 world, 20 African stories held"
   ],
   "items": [
+    {
+      "title": "We expect growth rate to re-accelerate in second-half of 2026 – IC Insights",
+      "link": "https://www.myjoyonline.com/we-expect-growth-rate-to-re-accelerate-in-second-half-of-2026-ic-insights/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T20:25:04.000Z",
+      "summary": "According to IC Securities, it remains confident about continued recovery in oil & gas output into the second-half of 2026 as Tullow Oil PLC’s management guidance indicates that new wells…"
+    },
+    {
+      "title": "T-bills auction: Government fails to achieve target; yield on 91-day-bill remains unchanged",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-fails-to-achieve-target-yield-on-91-day-bill-remains-unchanged/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T20:01:39.000Z",
+      "summary": "The 91-day bill was the most subscribed, as GH¢2.28 billion of the bids were tendered, representing 57.8% of the total bids."
+    },
+    {
+      "title": "Collateral Registry: Foreign banks accounted for GH¢19.9bn of secured credit in quarter 2, 2026",
+      "link": "https://www.myjoyonline.com/collateral-registry-foreign-banks-accounted-for-gh%c2%a219-9bn-of-secured-credit-in-quarter-2-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T19:46:24.000Z",
+      "summary": "On the other hand, indigenous banks registered total credit of GH¢5.7 billion during the review period. This corresponds to a year-on-year growth of 112.4% from GH¢2.7 billion recorded in…"
+    },
     {
       "title": "Sentuo offers fuel supply reassurance as NPA sees steady output through December",
       "link": "https://www.myjoyonline.com/sentuo-offers-fuel-supply-reassurance-as-npa-sees-steady-output-through-december/",
@@ -1074,30 +1095,61 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-17T04:33:00.000Z",
       "summary": "The National Communications Authority (NCA) has awarded three spectrum lots in the 2.3 GHz band to Telecel Ghana to support the company’s rollout of 5G services and expansion of mobile…"
-    },
-    {
-      "title": "BOST cuts fuel exports to Burkina Faso and Mali to protect local supply",
-      "link": "https://www.myjoyonline.com/bost-cuts-fuel-exports-to-burkina-faso-and-mali-to-protect-local-supply/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T02:52:00.000Z",
-      "summary": "Ghana's state-owned fuel distributor BOST Energies has cut diesel and ‌gasoline exports to neighbouring Burkina Faso and Mali since August, prioritising domestic demand, Managing Director…"
-    },
-    {
-      "title": "Ghana Gas to decide on $500 million gas pipeline early next year, CEO says",
-      "link": "https://www.myjoyonline.com/ghana-gas-to-decide-on-500-million-gas-pipeline-early-next-year-ceo-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T02:41:00.000Z",
-      "summary": "State-owned Ghana Gas plans to make a final investment decision by early next year on a long-discussed $500 million pipeline project that would transport gas from its processing plant in…"
-    },
-    {
-      "title": "Snapchat ‘willing to implement’ daily time limits for teens, boss tells BBC",
-      "link": "https://www.myjoyonline.com/snapchat-willing-to-implement-daily-time-limits-for-teens-boss-tells-bbc/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:33:00.000Z",
-      "summary": "The boss of Snapchat says the firm would be \"willing to implement\" time limits for teens, following a call from Meta for it to take action."
     }
   ],
   "world": [
+    {
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-20T21:17:22.000Z",
+      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg"
+    },
+    {
+      "title": "Defining global leadership in AI at Trump-Xi summit",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
+      "source": "NPR World",
+      "published": "2026-09-20T21:15:56.000Z",
+      "summary": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi…"
+    },
+    {
+      "title": "Qatar PM urges Gulf security framework with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T21:00:15.000Z",
+      "summary": "Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other."
+    },
+    {
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-20T20:21:40.000Z",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5d/live/0cb35a40-b539-11f1-9bd0-bb4fc2f94a87.jpg"
+    },
+    {
+      "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T20:58:01.000Z",
+      "summary": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’."
+    },
+    {
+      "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow",
+      "link": "https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow",
+      "source": "France 24",
+      "published": "2026-09-20T20:14:33.000Z",
+      "summary": "Russia's ruling United Russia party on Sunday was projected to win the country's tightly controlled parliamentary elections, according to exit polls. Ukraine launched a massive drone attack…",
+      "image": "https://s.france24.com/media/display/90be9e84-b52b-11f1-b600-9f514b90f153/w:1024/p:16x9/AP26263602850279.jpg"
+    },
+    {
+      "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+      "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T20:31:15.000Z",
+      "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil."
+    },
     {
       "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
       "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
@@ -1107,26 +1159,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg"
     },
     {
-      "title": "How will Saudi Arabia deal with the Houthis?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+      "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+      "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T18:34:36.000Z",
-      "summary": "Yemeni group warns of further attacks on the kingdom."
-    },
-    {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-20T18:32:55.000Z",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T18:32:03.000Z",
-      "summary": "Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick."
+      "published": "2026-09-20T20:13:18.000Z",
+      "summary": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy."
     },
     {
       "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
@@ -1137,11 +1174,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/2aae4180-b521-11f1-bd8b-5b4fdf021577/w:1024/p:16x9/000-C8UJ3KN.jpg"
     },
     {
-      "title": "Gaza artists honour Macklemore for supporting Palestine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+      "title": "US, China open high-level talks ahead of Trump-Xi summit",
+      "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T17:59:10.000Z",
-      "summary": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine."
+      "published": "2026-09-20T19:42:13.000Z",
+      "summary": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week."
     },
     {
       "title": "Replay: Macron, Carney hail new chapter on France-Canada ties at St. Pierre and Miquelon meeting",
@@ -1152,11 +1189,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/dcfcab98-b51b-11f1-a34e-0730212ba17f/w:1024/p:16x9/EN-20260920-191709-193331-CS.jpg"
     },
     {
-      "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
+      "title": "Qatar says it is working to revive Iran-US talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T17:55:46.000Z",
-      "summary": "Jerusalem Daily: Israel pardons soldier Elor Azaria"
+      "published": "2026-09-20T19:36:12.000Z",
+      "summary": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks."
     },
     {
       "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
@@ -1167,11 +1204,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7489x4992+0+0/resize/7489x4992!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F9e%2F55e4991d44b1a77d05ebbbdf2f6b%2Fap26263591596464.jpg"
     },
     {
-      "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
-      "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
+      "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+      "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T17:35:12.000Z",
-      "summary": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight."
+      "published": "2026-09-20T19:28:43.000Z",
+      "summary": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US."
     },
     {
       "title": "Germany: Merz vows to \"push on despite setbacks\"",
@@ -1182,11 +1219,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b61722ba-b511-11f1-8624-9ff5c3f464d4/w:1024/p:16x9/000-C8UC22G.jpg"
     },
     {
-      "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
-      "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
+      "title": "How will Saudi Arabia deal with the Houthis?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T17:27:53.000Z",
-      "summary": "Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party."
+      "published": "2026-09-20T18:34:36.000Z",
+      "summary": "Yemeni group warns of further attacks on the kingdom."
     },
     {
       "title": "The Deportation Project: Inside the Trump administration's secret deals to expel people worldwide",
@@ -1197,11 +1234,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/920e53da-b515-11f1-afb3-6f779f079bc8/w:1024/p:16x9/Vertical-EN-1.jpg"
     },
     {
-      "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
-      "link": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
+      "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T16:47:33.000Z",
-      "summary": "The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions."
+      "published": "2026-09-20T18:32:03.000Z",
+      "summary": "Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick."
     },
     {
       "title": "Exit polls show 'disaster' for Merz' CDU party in two state elections",
@@ -1212,11 +1249,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/8707b430-b511-11f1-99f9-0730212ba17f/w:1024/p:16x9/EN-20260920-180658-181009-CS.jpg"
     },
     {
-      "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+      "title": "Gaza artists honour Macklemore for supporting Palestine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T16:37:19.000Z",
-      "summary": "The game hinged on Dean Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box."
+      "published": "2026-09-20T17:59:10.000Z",
+      "summary": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine."
     },
     {
       "title": "Trump says triumphal arch will be military complex with drones and snipers",
@@ -1227,11 +1264,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg"
     },
     {
-      "title": "Photos: Nepal flood survivors find little trace of former lives",
-      "link": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
+      "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T16:36:03.000Z",
-      "summary": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris."
+      "published": "2026-09-20T17:55:46.000Z",
+      "summary": "Jerusalem Daily: Israel pardons soldier Elor Azaria"
     },
     {
       "title": "Germany’s Merz admits ‘disaster’ in state elections, vows to press ahead with reforms",
@@ -1242,11 +1279,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b61722ba-b511-11f1-8624-9ff5c3f464d4/w:1024/p:16x9/000-C8UC22G.jpg"
     },
     {
-      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-      "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+      "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
+      "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T15:57:48.000Z",
-      "summary": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle."
+      "published": "2026-09-20T17:35:12.000Z",
+      "summary": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight."
     },
     {
       "title": "Israeli settler and Palestinian driver killed in West Bank shootings",
@@ -1257,11 +1294,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/95da504c-b504-11f1-bc3f-5b4fdf021577/w:1024/p:16x9/AP26263426242066.jpg"
     },
     {
-      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+      "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+      "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T15:30:10.000Z",
-      "summary": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second."
+      "published": "2026-09-20T17:27:53.000Z",
+      "summary": "Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party."
     },
     {
       "title": "AfD threatens fresh blow to Merz: Two German states hold key vote",
@@ -1272,11 +1309,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/46b47c8c-b503-11f1-b65c-9ff5c3f464d4/w:1024/p:16x9/capture-1450590606aaff3cdae6eb7-21030001.jpg"
     },
     {
-      "title": "Trump says monumental arch in Washington, DC will also be military complex",
-      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+      "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
+      "link": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T15:16:38.000Z",
-      "summary": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city."
+      "published": "2026-09-20T16:47:33.000Z",
+      "summary": "The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions."
     },
     {
       "title": "Ukraine fires over 1,000 drones at Russia in \"largest ever\" attack on Moscow",
@@ -1287,11 +1324,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a1124f9e-b501-11f1-bf2f-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-160125-160258-CS.jpg"
     },
     {
-      "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
+      "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T14:43:49.000Z",
-      "summary": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June."
+      "published": "2026-09-20T16:37:19.000Z",
+      "summary": "The game hinged on Dean Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box."
     },
     {
       "title": "An Israeli settler and a Palestinian driver killed in West Bank shootings",
@@ -1302,11 +1339,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/420fc5b2-b4fc-11f1-8b03-9f514b90f153/w:1024/p:16x9/EN-20260920-150528-150741-CS.jpg"
     },
     {
-      "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+      "title": "Photos: Nepal flood survivors find little trace of former lives",
+      "link": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T14:38:01.000Z",
-      "summary": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists."
+      "published": "2026-09-20T16:36:03.000Z",
+      "summary": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris."
     },
     {
       "title": "Iran closes French language centre in Tehran for ‘illegal acts’",
@@ -1317,11 +1354,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d7627854-b4f1-11f1-a6d1-0730212ba17f/w:1024/p:16x9/AP26258653383251.jpg"
     },
     {
-      "title": "Humanoid robots fight in cage match in Shanghai",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+      "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T14:12:28.000Z",
-      "summary": "Humanoid robots fight in cage match in Shanghai"
+      "published": "2026-09-20T15:57:48.000Z",
+      "summary": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle."
     },
     {
       "title": "Peter Thiel: Power, Palantir, and the antichrist",
@@ -1331,11 +1368,11 @@ window.GDC_NEWS = {
       "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world’s richest people. But from his theories on the antichrist and AI to his distinctive politics, Peter Thiel…"
     },
     {
-      "title": "The pro-Israel censors are starting to lose",
-      "link": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
+      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T14:00:32.000Z",
-      "summary": "The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing."
+      "published": "2026-09-20T15:30:10.000Z",
+      "summary": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second."
     },
     {
       "title": "Brazil transforms waste palm oil into green energy",
@@ -1345,11 +1382,11 @@ window.GDC_NEWS = {
       "summary": "Salvador, the capital of Bahia state, is promoting the reuse of residual palm oil from its iconic acarajé fritters — African-inspired, shrimp-filled dumplings made with peeled black-eyed…"
     },
     {
-      "title": "Jews and Muslims lived together for centuries. Did Zionism tear them apart?",
-      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss",
+      "title": "Trump says monumental arch in Washington, DC will also be military complex",
+      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-20T13:53:21.000Z",
-      "summary": "On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism."
+      "published": "2026-09-20T15:16:38.000Z",
+      "summary": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city."
     },
     {
       "title": "The week in pictures: Syria protests, Céline Dion on stage and Quito wildfires",
@@ -1358,42 +1395,6 @@ window.GDC_NEWS = {
       "published": "2026-09-20T13:15:57.000Z",
       "summary": "From protests against rising fuel prices in Syria to Canadian Prime Minister Mark Carney’s EU charm offensive to Quito’s wildfires and Céline Dion’s return to the stage, FRANCE 24 looks…",
       "image": "https://s.france24.com/media/display/edae22ca-b343-11f1-8e1c-2b7cd267a8ec/w:1024/p:16x9/AP26259483265880.jpg"
-    },
-    {
-      "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
-      "link": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T13:47:26.000Z",
-      "summary": "Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US."
-    },
-    {
-      "title": "Gaza children return to school after years of war and displacement",
-      "link": "http://www.africanews.com/2026/09/20/gaza-children-return-to-school-after-years-of-war-and-displacement/",
-      "source": "Africanews",
-      "published": "2026-09-20T12:29:37.000Z",
-      "summary": "Children in Gaza are heading back to school as a new academic year begins, returning to classrooms that remain heavily damaged and lacking basic equipment after years of war."
-    },
-    {
-      "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T13:31:25.000Z",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound."
-    },
-    {
-      "title": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-      "link": "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "source": "France 24",
-      "published": "2026-09-20T12:24:19.000Z",
-      "summary": "The US has warned that fighting between Saudi Arabia and Iran-backed Houthis could rapidly escalate. It comes after a missile attack targeted Riyadh for the first time since the Yemen…",
-      "image": "https://s.france24.com/media/display/f5c423ba-b42e-11f1-9171-6f779f079bc8/w:1024/p:16x9/2026-09-19T114800Z-1100229945-RC28MNAOL58F-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg"
-    },
-    {
-      "title": "Iran win Asian Games basketball bronze amid emotional scenes",
-      "link": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T13:13:27.000Z",
-      "summary": "Players celebrate podium finish that brings exemption from conscription, saying the pressure was 'out of this world'."
     }
   ],
   "africa": [
@@ -1539,20 +1540,6 @@ window.GDC_NEWS = {
       "published": "2026-09-19T10:24:01.000Z",
       "summary": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661f/live/5d15cef0-b372-11f1-9023-9990160baacc.jpg"
-    },
-    {
-      "title": "Africa’s Green Revolution threatens traditional foods",
-      "link": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-19T09:36:38.000Z",
-      "summary": "The promotion of monocultures is hurting the production of much more nutritious and climate-resistant traditional crops."
-    },
-    {
-      "title": "South Africa: Olifantsfontein residents hold vigil for woman found dead",
-      "link": "http://www.africanews.com/2026/09/19/south-africa-olifantsfontein-residents-hold-vigil-for-woman-found-dead/",
-      "source": "Africanews",
-      "published": "2026-09-19T08:57:41.000Z",
-      "summary": "Residents of Olifantsfontein gathered to remember a woman whose body was found floating in a river in Clayville, east of Johannesburg, as communities across the area demand action over a…"
     }
   ]
 };

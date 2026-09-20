@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-20T19:21:58.197Z",
+  "updated": "2026-09-20T21:40:13.348Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,136 +25,134 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Two-year-old girl dies in domestic fire at Cantonments",
-      "link": "https://www.myjoyonline.com/two-year-old-girl-dies-in-domestic-fire-at-cantonments/",
+      "title": "Twelve Tribes of Israel Ghana to mark 40 years with anniversary celebration",
+      "link": "https://www.myjoyonline.com/twelve-tribes-of-israel-ghana-to-mark-40-years-with-anniversary-celebration/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T18:36:35.000Z",
-      "summary": "A two-year-old girl has died after being trapped in a domestic fire that broke out at Cantonments in Accra, near Susanna Lodge.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Cantonments",
-        "Domestic Fire"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-5.26.13-PM-972x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asiedu Nketiah urges better working conditions for journalists",
-      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-better-working-conditions-for-journalists/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T18:27:40.000Z",
-      "summary": "The National Chairman of the governing National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called for improved working conditions and greater institutional support for…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "Johnson Asiedu Nketiah",
-        "Journalists",
-        "working conditions"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2804-1024x688.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JoyNews’ Precious Semevoh wins climate change reporting award at Bono GJA Awards",
-      "link": "https://www.myjoyonline.com/joynews-precious-semevoh-wins-climate-change-reporting-award-at-bono-gja-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T18:20:33.000Z",
-      "summary": "JoyNews correspondent for the Bono Region, Precious Semevoh, has been adjudged the Best Journalist in Climate Change and Green Transition Reporting at the 4th Bono Regional Ghana…",
+      "published": "2026-09-20T20:54:00.000Z",
+      "summary": "The Twelve Tribes of Israel Ghana Chapter will mark its 40th anniversary with a celebration at the Arts Centre, Accra, on Saturday, 6 December 2026.",
       "categories": [
         "National",
-        "Regional",
-        "Best Journalist in Climate Change and Green Transition Reporting",
-        "Bono Region",
-        "JoyNews correspondent"
+        "40th anniversary",
+        "Ghana",
+        "Twelve Tribes of Israel"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2800-1024x753.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/7d012949-2341-4b7d-b2e2-bd08f9802215.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kumasi Central Market phase 2 to begin in October after years of abandonment",
-      "link": "https://www.myjoyonline.com/kumasi-central-market-phase-2-to-begin-in-october-after-years-of-abandonment/",
+      "title": "GPL 2026/27: Hearts held by Bechem as Kotoko, Samartex share spoils",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-held-by-bechem-as-kotoko-samartex-share-spoils/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T18:15:22.000Z",
-      "summary": "Construction works on the second phase of the Kumasi Central Market Redevelopment project is expected to resume in October 2026.",
-      "categories": [
-        "HP News 6",
-        "News",
-        "Regional",
-        "Kejetia phase 2",
-        "October"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2799.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sentuo offers fuel supply reassurance as NPA sees steady output through December",
-      "link": "https://www.myjoyonline.com/sentuo-offers-fuel-supply-reassurance-as-npa-sees-steady-output-through-december/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T17:17:04.000Z",
-      "summary": "The National Petroleum Authority (NPA) expects Sentuo Oil Refinery to maintain consistent fuel production through December 2026, providing an important source of domestic supply alongside…",
-      "categories": [
-        "Business",
-        "National",
-        "Fuel",
-        "NPA",
-        "Sentuo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-100-e1789924616906.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian smock showcased at Lesotho Tourism Summit",
-      "link": "https://www.myjoyonline.com/ghanaian-smock-showcased-at-lesotho-tourism-summit/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T16:51:17.000Z",
-      "summary": "A traditional Northern Ghanaian smock has been presented to Lesotho’s tourism minister as part of efforts to promote Ghanaian culture and strengthen African ties.",
-      "categories": [
-        "HP Entertainment 1",
-        "Travel and Tourism",
-        "Ghana smock",
-        "Lesotho Tourism Summit"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/7ee4231d-7e5f-4269-8620-8495a26ce613-1024x570.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Four pupils to one desk: The painful plight of schools in New Juaben North",
-      "link": "https://www.myjoyonline.com/four-pupils-to-one-desk-the-painful-plight-of-schools-in-new-juaben-north/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T16:19:08.000Z",
-      "summary": "The New Juaben North Education Directorate in the Eastern Region has appealed for more desks and chairs for schools in the municipality, following concerns that up to four pupils are being…",
-      "categories": [
-        "Education",
-        "In Focus",
-        "National",
-        "Regional",
-        "Desks",
-        "Juaben North",
-        "schools"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-19.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ipswich launch investigation into racist abuse of Abdul Fatawu",
-      "link": "https://www.myjoyonline.com/ipswich-launch-investigation-into-racist-abuse-of-abdul-fatawu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T16:14:27.000Z",
-      "summary": "Premier League side Ipswich Town have condemned the racist abuse directed at Ghanaian winger Abdul Fatawu on social media following their 1-0 defeat to Everton on Saturday. The Ghana…",
+      "published": "2026-09-20T20:33:36.000Z",
+      "summary": "At the Nsenkyire Sports Arena, Kotoko goalkeeper Ibrahim Danlad saved a penalty in the 66th minute before former Samartex striker Emmanuel Mamah headed the visitors into the lead nine…",
       "categories": [
         "Football",
-        "HP News 10",
-        "HP Sports 1",
-        "National",
         "Sports",
-        "Abdul Fatawu",
-        "Everton",
-        "ipswich town"
+        "Ghana Premier League",
+        "Hearts of Oak",
+        "Ibrahim Danlad",
+        "Karela United",
+        "Nsenkyire Sports Arena"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/fb7a130ee88f42ecb3f6b5f185c740d3-1024x576.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-20.28.48.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "My Story (Kwaku Antwi-Boasiako)",
+      "link": "https://www.myjoyonline.com/my-story-kwaku-antwi-boasiako/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T20:27:31.000Z",
+      "summary": "As you begin your secondary school education, I want you to always keep this in mind: Education can make a difference in your life. I come from a poor background. Growing up in a large but…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Kwaku Antwi Boasiako",
+        "School"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/04/Free-SHS.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We expect growth rate to re-accelerate in second-half of 2026 – IC Insights",
+      "link": "https://www.myjoyonline.com/we-expect-growth-rate-to-re-accelerate-in-second-half-of-2026-ic-insights/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T20:25:04.000Z",
+      "summary": "According to IC Securities, it remains confident about continued recovery in oil & gas output into the second-half of 2026 as Tullow Oil PLC’s management guidance indicates that new wells…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 3",
+        "Agric",
+        "Cocoa",
+        "GDP",
+        "IC Insights",
+        "ICT",
+        "Industry",
+        "Services"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/GDP.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The ungodliness and unrighteousness underlying the National Cathedral mess!",
+      "link": "https://www.myjoyonline.com/the-ungodliness-and-unrighteousness-underlying-the-national-cathedral-mess/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T20:12:34.000Z",
+      "summary": "When former President Akufo-Addo claimed that he had made a personal pledge to God to build the National Cathedral if God helped him to win the election to become President, did anybody ask…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Kwaku Abtwi-Boasiako",
+        "national cathedral"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Akufo-Addo1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "T-bills auction: Government fails to achieve target; yield on 91-day-bill remains unchanged",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-fails-to-achieve-target-yield-on-91-day-bill-remains-unchanged/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T20:01:39.000Z",
+      "summary": "The 91-day bill was the most subscribed, as GH¢2.28 billion of the bids were tendered, representing 57.8% of the total bids.",
+      "categories": [
+        "Business",
+        "HP Business 2",
+        "182-day bill",
+        "364-day bill",
+        "91-day bill",
+        "BoG",
+        "Interest rates"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "It’s Ghana’s shame to denigrate Nkrumah when the whole world honours him as African of the Century – Asiedu Nketiah",
+      "link": "https://www.myjoyonline.com/its-ghanas-shame-to-denigrate-nkrumah-when-the-whole-world-honours-him-as-african-of-the-century-asiedu-nketiah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T19:54:02.000Z",
+      "summary": "In a reprimand akin to the Biblical admonition that a prophet is without honour among his kindred, the National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah…",
+      "categories": [
+        "National",
+        "Politics",
+        "Dr. Kwame Nkrumah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Asiedu-Nketiah_Ghana_Flag.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No other nationalist can compare to Nkrumah – Asiedu Nketiah",
+      "link": "https://www.myjoyonline.com/no-other-nationalist-can-compare-to-nkrumah-asiedu-nketiah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T19:46:47.000Z",
+      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, says modern Ghana owes a significant part of its existence as a nation to Osagyefo Dr Kwame Nkrumah…",
+      "categories": [
+        "National",
+        "Politics",
+        "Asiedu Nketiah",
+        "Nkrumah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Asiedu_Nketiah_Prof_Lumumba.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
