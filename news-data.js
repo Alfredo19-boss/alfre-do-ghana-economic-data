@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-20T17:01:56.410Z",
-  "worldAt": "2026-09-20T17:01:56.408Z",
+  "updated": "2026-09-20T19:21:42.875Z",
+  "worldAt": "2026-09-20T19:21:42.873Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,9 +27,9 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -41,11 +41,18 @@ window.GDC_NEWS = {
     "Africa · AllAfrica Business: 32 stories",
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 27 stories",
-    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Deutsche Welle: 3 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 24 African stories held"
+    "world lists: 40 world, 22 African stories held"
   ],
   "items": [
+    {
+      "title": "Sentuo offers fuel supply reassurance as NPA sees steady output through December",
+      "link": "https://www.myjoyonline.com/sentuo-offers-fuel-supply-reassurance-as-npa-sees-steady-output-through-december/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T17:17:04.000Z",
+      "summary": "The National Petroleum Authority (NPA) expects Sentuo Oil Refinery to maintain consistent fuel production through December 2026, providing an important source of domestic supply alongside…"
+    },
     {
       "title": "The 90 Pesewas at the Pump: Where Is Your UPPF Money Going?",
       "link": "https://thehighstreetjournal.com/the-90-pesewas-at-the-pump-where-is-your-uppf-money-going/",
@@ -1088,33 +1095,131 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-16T22:33:00.000Z",
       "summary": "The boss of Snapchat says the firm would be \"willing to implement\" time limits for teens, following a call from Meta for it to take action."
-    },
-    {
-      "title": "Microsoft says AI rival Anthropic could have ‘disastrous impact’ on humanity",
-      "link": "https://www.myjoyonline.com/microsoft-says-ai-rival-anthropic-could-have-disastrous-impact-on-humanity/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-16T22:23:00.000Z",
-      "summary": "Microsoft's head of AI has warned that Anthropic's approach to training its AI model, Claude, could have a \"disastrous impact on the wellbeing of humanity\"."
     }
   ],
   "world": [
     {
-      "title": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-20T19:04:11.000Z",
+      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg"
+    },
+    {
+      "title": "How will Saudi Arabia deal with the Houthis?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T18:34:36.000Z",
+      "summary": "Yemeni group warns of further attacks on the kingdom."
+    },
+    {
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
       "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-20T16:50:21.000Z",
+      "published": "2026-09-20T18:32:55.000Z",
       "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T18:32:03.000Z",
+      "summary": "Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick."
+    },
+    {
+      "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
+      "link": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
+      "source": "France 24",
+      "published": "2026-09-20T18:29:56.000Z",
+      "summary": "French President ​Emmanuel Macron and Canadian Prime Minister Mark Carney on ​Sunday called for stronger bilateral ties in the face of new global threats at a meeting on Saint Pierre and…",
+      "image": "https://s.france24.com/media/display/2aae4180-b521-11f1-bd8b-5b4fdf021577/w:1024/p:16x9/000-C8UJ3KN.jpg"
+    },
+    {
+      "title": "Gaza artists honour Macklemore for supporting Palestine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T17:59:10.000Z",
+      "summary": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine."
+    },
+    {
+      "title": "Replay: Macron, Carney hail new chapter on France-Canada ties at St. Pierre and Miquelon meeting",
+      "link": "https://www.france24.com/en/replay-macron-carney-hail-new-chapter-on-france-canada-ties-at-st-pierre-and-miquelon-meeting",
+      "source": "France 24",
+      "published": "2026-09-20T18:24:12.000Z",
+      "summary": "French President Emmanuel Macron said France and Canada were \"two great independent nations who want to stay that way\" in a joint news conference with Canadian leader Mark Carney Sunday…",
+      "image": "https://s.france24.com/media/display/dcfcab98-b51b-11f1-a34e-0730212ba17f/w:1024/p:16x9/EN-20260920-191709-193331-CS.jpg"
+    },
+    {
+      "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T17:55:46.000Z",
+      "summary": "Jerusalem Daily: Israel pardons soldier Elor Azaria"
+    },
+    {
+      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+      "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "source": "NPR World",
+      "published": "2026-09-20T17:29:29.000Z",
+      "summary": "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made…",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7489x4992+0+0/resize/7489x4992!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F9e%2F55e4991d44b1a77d05ebbbdf2f6b%2Fap26263591596464.jpg"
+    },
+    {
+      "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
+      "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T17:35:12.000Z",
+      "summary": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight."
+    },
+    {
+      "title": "Germany: Merz vows to \"push on despite setbacks\"",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260920-germany-merz-vows-to-push-on-despite-setbacks",
+      "source": "France 24",
+      "published": "2026-09-20T17:20:15.000Z",
+      "summary": "German voters have delivered a fresh setback to Chancellor Friedrich Merz in two key regional elections.",
+      "image": "https://s.france24.com/media/display/b61722ba-b511-11f1-8624-9ff5c3f464d4/w:1024/p:16x9/000-C8UC22G.jpg"
+    },
+    {
+      "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+      "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T17:27:53.000Z",
+      "summary": "Prime minister of Italy's longest serving government since WW2 faces election threat from far-right rival party."
+    },
+    {
+      "title": "The Deportation Project: Inside the Trump administration's secret deals to expel people worldwide",
+      "link": "https://www.france24.com/en/video/20260920-the-deportation-project-inside-the-trump-administration-s-secret-deals-to-expel-people-worldwide",
+      "source": "France 24",
+      "published": "2026-09-20T17:08:45.000Z",
+      "summary": "A consortium of 72 journalists from 26 media outlets coordinated by Forbidden Stories have been working on the Deportation Project for months. On Monday, we will take you inside the Trump…",
+      "image": "https://s.france24.com/media/display/920e53da-b515-11f1-afb3-6f779f079bc8/w:1024/p:16x9/Vertical-EN-1.jpg"
+    },
+    {
+      "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
+      "link": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-20T16:47:33.000Z",
+      "summary": "The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions."
+    },
+    {
+      "title": "Exit polls show 'disaster' for Merz' CDU party in two state elections",
+      "link": "https://www.france24.com/en/exit-polls-show-disaster-for-merz-cdu-party-in-two-state-elections",
+      "source": "France 24",
+      "published": "2026-09-20T16:54:05.000Z",
+      "summary": "Germans headed to the polls today in two state elections - in Berlin and Mecklenburg-Western Pomerania. Exit polls suggest a dramatic loss for the Chancellor Freidrich Mertz's Christian…",
+      "image": "https://s.france24.com/media/display/8707b430-b511-11f1-99f9-0730212ba17f/w:1024/p:16x9/EN-20260920-180658-181009-CS.jpg"
     },
     {
       "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
       "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-20T16:37:19.000Z",
-      "summary": "The game hinged on Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box."
+      "summary": "The game hinged on Dean Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box."
     },
     {
-      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
       "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-09-20T16:36:43.000Z",
@@ -1289,110 +1394,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-09-20T13:13:27.000Z",
       "summary": "Players celebrate podium finish that brings exemption from conscription, saying the pressure was 'out of this world'."
-    },
-    {
-      "title": "PHOTOS: The precarious life of fisherfolk",
-      "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
-      "source": "NPR World",
-      "published": "2026-09-20T12:24:02.000Z",
-      "summary": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fe5%2Fa77316e045bf85a175c6a671f00e%2Ffisherfolk-4.jpg"
-    },
-    {
-      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
-      "link": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T13:12:40.000Z",
-      "summary": "Iran's cost of living crisis is affecting the dreams and everyday life choices of young Iranians."
-    },
-    {
-      "title": "'NAZA' documentary about Gaza war sparks political storm in Israel",
-      "link": "https://www.france24.com/en/naza-documentary-about-gaza-war-sparks-political-storm-in-israel",
-      "source": "France 24",
-      "published": "2026-09-20T12:22:26.000Z",
-      "summary": "The Israeli filmmakers behind the documentary NAZA may have received a standing ovation at the Venice film festival, they have been facing violent threats to their lives and citizenship at…",
-      "image": "https://s.france24.com/media/display/cd909d7e-b4ec-11f1-8bfb-9ff5c3f464d4/w:1024/p:16x9/EN-20260920-133404-134124-CS.jpg"
-    },
-    {
-      "title": "Moscow attacked by more than 1,000 Ukrainian drones",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T13:10:35.000Z",
-      "summary": "This is the moment a drone exploded as it hit an apartment building in Moscow."
-    },
-    {
-      "title": "Why doesn't the US intervene to defend Saudi Arabia against the Houthis?",
-      "link": "https://www.france24.com/en/why-doesn-t-the-us-intervene-to-defend-saudi-arabia-against-the-houthis",
-      "source": "France 24",
-      "published": "2026-09-20T12:20:38.000Z",
-      "summary": "The US cautioned against a rapidly escalating situation in Yemen after Houthi rebels carried out a missile attack on the Saudi capital. In recent weeks, the Iran backed militants have also…",
-      "image": "https://s.france24.com/media/display/cce5cada-b4eb-11f1-98b6-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-130940-132125-CS.jpg"
-    },
-    {
-      "title": "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
-      "link": "https://www.aljazeera.com/news/2026/9/20/former-pakistan-pm-imran-khans-sister-arrested-ahead-of-planned-pti-march?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T12:57:57.000Z",
-      "summary": "Khan’s party condemns his sister’s arrest as an illegal attempt to silence her over PTI leader’s ongoing imprisonment."
-    },
-    {
-      "title": "North Korea fires two ballistic missiles into the sea in latest weapons display",
-      "link": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display",
-      "source": "France 24",
-      "published": "2026-09-20T11:40:58.000Z",
-      "summary": "North Korea fired two short-range ballistic missiles into the sea off its eastern coast on Sunday, South Korea’s military said. This came days after Pyongyang reaffirmed its status as a…",
-      "image": "https://s.france24.com/media/display/75838ad2-b4e3-11f1-8ac0-5b4fdf021577/w:1024/p:16x9/AP26263309350737.jpg"
-    },
-    {
-      "title": "Gaza’s children return to classrooms after years of Israeli attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T12:38:21.000Z",
-      "summary": "Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools."
-    },
-    {
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-20T10:45:39.000Z",
-      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "LIVE: Fulham vs Manchester United – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T12:33:08.000Z",
-      "summary": "Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage."
-    },
-    {
-      "title": "Uganda suspends military cooperation with Turkey amid political tensions",
-      "link": "http://www.africanews.com/2026/09/20/uganda-suspends-military-cooperation-with-turkey-amid-political-tensions/",
-      "source": "Africanews",
-      "published": "2026-09-20T10:29:18.000Z",
-      "summary": "Uganda's army said Saturday it had suspended military cooperation with Turkey, after demands for Ankara to hand over a prominent political blogger and fierce critic of President Yoweri…"
-    },
-    {
-      "title": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T12:11:22.000Z",
-      "summary": "Israeli forces have killed a Palestinian man near Jenin, and an Israeli settler was fatally shot in a separate incident."
-    },
-    {
-      "title": "Germany: Could regional polls force Friedrich Merz to step down?",
-      "link": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
-      "source": "France 24",
-      "published": "2026-09-20T10:26:10.000Z",
-      "summary": "Polling is underway in the German capital Berlin and the largely rural state of Mecklenburg-Western Pomerania for regional elections. Both elections are seen as a test for Germany's…",
-      "image": "https://s.france24.com/media/display/7241ef7c-b4dd-11f1-a7e3-ed3d9e22a40f/w:1024/p:16x9/EN-20260920-090118-091249-CS.jpg"
-    },
-    {
-      "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-20T12:00:16.000Z",
-      "summary": "Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia."
     }
   ],
   "africa": [
@@ -1552,20 +1553,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-19T08:57:41.000Z",
       "summary": "Residents of Olifantsfontein gathered to remember a woman whose body was found floating in a river in Clayville, east of Johannesburg, as communities across the area demand action over a…"
-    },
-    {
-      "title": "Student pilot and flight instructor killed in Kenya plane crash near wind turbines",
-      "link": "http://www.africanews.com/2026/09/19/student-pilot-and-flight-instructor-killed-in-kenya-plane-crash-near-wind-turbines/",
-      "source": "Africanews",
-      "published": "2026-09-19T07:20:29.000Z",
-      "summary": "The aircraft went down near wind turbines in Kipeto, a hilly area of Kajiado County southwest of Nairobi, according to Kajiado West police commander Maureen Kuto. Neither victim was…"
-    },
-    {
-      "title": "Nigeria probes deaths of 37 suspected illegal miners in custody",
-      "link": "http://www.africanews.com/2026/09/19/nigeria-probes-deaths-of-37-suspected-illegal-miners-in-custody/",
-      "source": "Africanews",
-      "published": "2026-09-19T06:21:42.000Z",
-      "summary": "Nigeria's government suspended a civil defence commander as President Bola Tinubu ordered a \"thorough\", \"urgent and \"full and transparent investigation\" over Thursday's deaths."
     }
   ]
 };

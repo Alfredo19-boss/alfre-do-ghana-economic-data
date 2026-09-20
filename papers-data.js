@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-20T17:02:09.729Z",
+  "updated": "2026-09-20T19:21:58.197Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,87 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two-year-old girl dies in domestic fire at Cantonments",
+      "link": "https://www.myjoyonline.com/two-year-old-girl-dies-in-domestic-fire-at-cantonments/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T18:36:35.000Z",
+      "summary": "A two-year-old girl has died after being trapped in a domestic fire that broke out at Cantonments in Accra, near Susanna Lodge.",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Cantonments",
+        "Domestic Fire"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-5.26.13-PM-972x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asiedu Nketiah urges better working conditions for journalists",
+      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-better-working-conditions-for-journalists/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T18:27:40.000Z",
+      "summary": "The National Chairman of the governing National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called for improved working conditions and greater institutional support for…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "Johnson Asiedu Nketiah",
+        "Journalists",
+        "working conditions"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2804-1024x688.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "JoyNews’ Precious Semevoh wins climate change reporting award at Bono GJA Awards",
+      "link": "https://www.myjoyonline.com/joynews-precious-semevoh-wins-climate-change-reporting-award-at-bono-gja-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T18:20:33.000Z",
+      "summary": "JoyNews correspondent for the Bono Region, Precious Semevoh, has been adjudged the Best Journalist in Climate Change and Green Transition Reporting at the 4th Bono Regional Ghana…",
+      "categories": [
+        "National",
+        "Regional",
+        "Best Journalist in Climate Change and Green Transition Reporting",
+        "Bono Region",
+        "JoyNews correspondent"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2800-1024x753.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kumasi Central Market phase 2 to begin in October after years of abandonment",
+      "link": "https://www.myjoyonline.com/kumasi-central-market-phase-2-to-begin-in-october-after-years-of-abandonment/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T18:15:22.000Z",
+      "summary": "Construction works on the second phase of the Kumasi Central Market Redevelopment project is expected to resume in October 2026.",
+      "categories": [
+        "HP News 6",
+        "News",
+        "Regional",
+        "Kejetia phase 2",
+        "October"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2799.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sentuo offers fuel supply reassurance as NPA sees steady output through December",
+      "link": "https://www.myjoyonline.com/sentuo-offers-fuel-supply-reassurance-as-npa-sees-steady-output-through-december/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T17:17:04.000Z",
+      "summary": "The National Petroleum Authority (NPA) expects Sentuo Oil Refinery to maintain consistent fuel production through December 2026, providing an important source of domestic supply alongside…",
+      "categories": [
+        "Business",
+        "National",
+        "Fuel",
+        "NPA",
+        "Sentuo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-100-e1789924616906.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian smock showcased at Lesotho Tourism Summit",
       "link": "https://www.myjoyonline.com/ghanaian-smock-showcased-at-lesotho-tourism-summit/",
@@ -65,98 +146,15 @@ window.GDC_PAPERS = {
       "summary": "Premier League side Ipswich Town have condemned the racist abuse directed at Ghanaian winger Abdul Fatawu on social media following their 1-0 defeat to Everton on Saturday. The Ghana…",
       "categories": [
         "Football",
+        "HP News 10",
         "HP Sports 1",
+        "National",
         "Sports",
         "Abdul Fatawu",
         "Everton",
         "ipswich town"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/fb7a130ee88f42ecb3f6b5f185c740d3-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Arrest of Techiman nurse is purely political persecution – ‘Ghana Jollof’",
-      "link": "https://www.myjoyonline.com/arrest-of-techiman-nurse-is-purely-political-persecution-ghana-jollof/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T15:59:12.000Z",
-      "summary": "Barbara Asantewaa Kodua, popularly known as ‘Ghana Jollof’, has described the arrest and prosecution of a 40-year-old senior nursing officer from Techiman as “purely political persecution”.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Ghana Jollof",
-        "political persecution",
-        "Techiman nurse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MAIN.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Isak nets winner as Liverpool edge Bournemouth",
-      "link": "https://www.myjoyonline.com/isak-nets-winner-as-liverpool-edge-bournemouth/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T15:26:31.000Z",
-      "summary": "Liverpool boss Andoni Iraoli made a winning return to Bournemouth as his side signed off for the international break with a narrow victory at Vitality Stadium. Alexander Isak’s fourth…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Alexander Isak",
-        "Liverpool"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/72c84130-b500-11f1-91cc-c5691e33b858.png.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I dare gov’t of Ghana to extradite me; they can never do it – ‘Ghana Jollof’ speaks",
-      "link": "https://www.myjoyonline.com/i-dare-govt-of-ghana-to-extradite-me-they-can-never-do-it-ghana-jollof-speaks/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T15:24:08.000Z",
-      "summary": "Barbara Asantewaa Kodua, popularly known as ‘Ghana Jollof’, has challenged the Ghanaian government to extradite her from the United Kingdom following her declaration as wanted by the Ghana…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "extradite",
-        "Ghana Jollof",
-        "Government"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2798.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Semenyo scores twice as Manchester City beat Sunderland 5-3 in eight-goal thriller",
-      "link": "https://www.myjoyonline.com/semenyo-scores-twice-as-manchester-city-beat-sunderland-5-3-in-eight-goal-thriller/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T15:14:56.000Z",
-      "summary": "Ghana forward Antoine Semenyo scored twice as Manchester City maintained their perfect start to the Premier League season with a thrilling 5-3 victory over Sunderland at the Etihad Stadium.",
-      "categories": [
-        "Football",
-        "HP News 8",
-        "HP Sports 3",
-        "National",
-        "News",
-        "Sports",
-        "Antoine Semenyo",
-        "Black Stars",
-        "Man City"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/antoine-semenyo-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament calls for government-private sector collaboration to improve waste management",
-      "link": "https://www.myjoyonline.com/parliament-calls-for-government-private-sector-collaboration-to-improve-waste-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T15:12:36.000Z",
-      "summary": "Parliament’s Select Committee on Sanitation and Water Resources is calling for stronger collaboration between government, investors and private waste management companies to improve waste…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Parliament",
-        "Recycling",
-        "waste management"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/waste_into_resources_ogp-1024x538.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
