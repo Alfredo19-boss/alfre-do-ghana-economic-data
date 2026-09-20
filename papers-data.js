@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-20T09:50:33.072Z",
+  "updated": "2026-09-20T13:46:28.270Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,127 +25,149 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Finance Minister advises African governments to strengthen regional tax cooperation",
-      "link": "https://www.myjoyonline.com/finance-minister-advises-african-governments-to-strengthen-regional-tax-cooperation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T09:35:01.000Z",
-      "summary": "Finance Minister Cassiel Ato Forson has urged African governments and regional institutions to strengthen tax cooperation to protect domestic revenue and secure the continent’s development…",
+      "title": "Allotey dominates Garcia to win WBA world title eliminator",
+      "link": "https://www.graphic.com.gh/sports/boxing/allotey-dominates-garcia-to-win-wba-world-title-eliminator.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-20T13:35:33.000Z",
+      "summary": "Theophilus Kpakpo “Lopez” Allotey produced a commanding performance to defeat Argentina’s Facundo David Garcia by unanimous decision and win their WBA super flyweight world title eliminator…",
       "categories": [
-        "National",
-        "Africa",
-        "Ato Forson",
-        "Finance Minister",
-        "Government"
+        "Boxing"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-6.11.24-AM-1024x612.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/20/allotey.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "NPP accuses NDC of master-minding demolition of Ho regional office fence",
-      "link": "https://www.myjoyonline.com/npp-accuses-ndc-of-master-minding-demolition-of-ho-regional-office-fence/",
+      "title": "Africa World Airlines unveils first Embraer E190 as part of 10-aircraft fleet expansion",
+      "link": "https://www.myjoyonline.com/africa-world-airlines-unveils-first-embraer-e190-as-part-of-10-aircraft-fleet-expansion/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T09:34:37.000Z",
-      "summary": "James Geh, Ho Central Constituency Communications Officer of the NPP, has accused the National Democratic Congress (NDC) of deliberately targeting structures belonging to the party in Ho.",
-      "categories": [
-        "National",
-        "NDC",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-5.51.05-AM-1024x614.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana plans stronger regional power trade with Nigeria",
-      "link": "https://www.myjoyonline.com/ghana-plans-stronger-regional-power-trade-with-nigeria/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T09:33:50.000Z",
-      "summary": "Ghana is exploring deeper electricity cooperation with Nigeria as part of plans to strengthen its position as a regional electricity hub, Richard Gyan-Mensah, the Deputy Minister of Energy…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Nigeria",
-        "Power"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-10-at-2.42.20-PM-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA Commissioner-General calls for stronger tax cooperation to boost regional revenue mobilisation",
-      "link": "https://www.myjoyonline.com/gra-commissioner-general-calls-for-stronger-tax-cooperation-to-boost-regional-revenue-mobilisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T09:33:05.000Z",
-      "summary": "Anthony Kwasi Sarpong, the Commissioner-General of the Ghana Revenue Authority (GRA), has called for stronger cooperation among African tax administrations to enhance domestic revenue…",
-      "categories": [
-        "National",
-        "GRA",
-        "Tax"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-6.17.37-AM-1024x616.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC needs more personnel to tackle drug trafficking – Toobu",
-      "link": "https://www.myjoyonline.com/nacoc-needs-more-personnel-to-tackle-drug-trafficking-toobu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T09:29:19.000Z",
-      "summary": "Ghana needs to significantly increase the number of personnel available to the Narcotics Control Commission (NACOC) if the country is to effectively respond to the growing sophistication of…",
-      "categories": [
-        "National",
-        "Drug",
-        "NACOC",
-        "Toobu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/08/Peter-Toobu-1024x702.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Railway workers resist KMA eviction order, demand consultation",
-      "link": "https://www.myjoyonline.com/railway-workers-resist-kma-eviction-order-demand-consultation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T09:27:34.000Z",
-      "summary": "Former and serving workers of the Ghana Railway Company in the Ashanti Region have vowed to resist attempts by the Kumasi Metropolitan Assembly (KMA) to evict them from an area they have…",
-      "categories": [
-        "National",
-        "Eviction",
-        "Railway",
-        "Workers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/railway-1140x570-1-1024x512.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Legacy Leadership Africa Institute to host boardroom women’s leadership programme",
-      "link": "https://www.myjoyonline.com/legacy-leadership-africa-institute-to-host-boardroom-womens-leadership-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T09:15:27.000Z",
-      "summary": "Legacy Leadership Africa Institute is set to organise a flagship executive education programme aimed at preparing the next generation of women leaders for effective participation in…",
+      "published": "2026-09-20T13:14:13.000Z",
+      "summary": "Africa World Airlines (AWA) has unveiled its first Embraer E190 aircraft as part of a planned 10-aircraft fleet expansion aimed at strengthening air connectivity in Ghana and across West…",
       "categories": [
         "Business",
-        "HP Business 7",
-        "Investments",
-        "Boardroom Women Leadership Programme",
-        "Dynaspace",
-        "Legacy Leadership Africa Institute"
+        "HP Business 2",
+        "HP News 5",
+        "National",
+        "News",
+        "Africa World Airlines",
+        "Embraer E 19"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-19-at-10.40.55-AM.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_4060-1024x682.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana needs a law to sustain constitutional reforms – CDD-Ghana",
-      "link": "https://www.myjoyonline.com/ghana-needs-a-law-to-sustain-constitutional-reforms-cdd-ghana/",
+      "title": "Civilian hospitalised after alleged machete attack by prison officers, inmates",
+      "link": "https://www.myjoyonline.com/civilian-hospitalised-after-alleged-machete-attack-by-prison-officers-inmates/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T06:00:00.000Z",
-      "summary": "The Centre for Democratic Development (CDD-Ghana) is calling for legislation to guide the implementation of proposed constitutional reforms and ensure the process continues despite changes…",
+      "published": "2026-09-20T12:57:41.000Z",
+      "summary": "A civilian is in serious condition at the Asutifi North District Hospital after allegedly being attacked with machetes by two prison officers and three inmates from the Kenyasi Settlement…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "Regional",
+        "Civilian",
+        "machete attack",
+        "Prison Officers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-99-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Toobu rejects calls to recall Parliament over 3.9-tonne cocaine shipment",
+      "link": "https://www.myjoyonline.com/toobu-rejects-calls-to-recall-parliament-over-3-9-tonne-cocaine-shipment/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T12:15:37.000Z",
+      "summary": "Vice Chairman of Parliament’s Defence and Interior Committee and Wa West MP Peter Lanchene Toobu has rejected calls for Parliament to be recalled to investigate the circumstances…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "News",
+        "Cocaine",
+        "Parliament",
+        "Toobu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/08/Lanchene-Toobu-1024x798.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Residents in 5 Northern Regions warned of approaching rainstorm",
+      "link": "https://www.myjoyonline.com/residents-in-5-northern-regions-warned-of-approaching-rainstorm/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T12:13:28.000Z",
+      "summary": "A moderate to heavy rainstorm is approaching the north-eastern parts of Ghana, with thunderstorms, heavy rain and gusty winds expected across several regions, according to a weather alert…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Regional",
+        "Ghana Meteorological Agency",
+        "rainstorm"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/02/GMET-1024x527.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Constituency Games still a work in progress – Sports Minister",
+      "link": "https://www.myjoyonline.com/constituency-games-still-a-work-in-progress-sports-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T11:55:46.000Z",
+      "summary": "The initiative is intended to create a structured pathway for young athletes to progress from community-level competition to regional and national championships.",
+      "categories": [
+        "Football",
+        "Other Sports",
+        "Sports",
+        "Kofi Adams.",
+        "Sports Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-01.37.49.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Team Ghana set for historic Karting Africa Showrun in Angola",
+      "link": "https://www.myjoyonline.com/team-ghana-set-for-historic-karting-africa-showrun-in-angola/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T11:51:29.000Z",
+      "summary": "The delegation, led by Auto Racing Ghana (ARG) president Samuel Moses Opoku-Agyemang, paid a courtesy call on National Sports Authority (NSA) Director-General Yaw Ampofo Ankrah in Accra.",
+      "categories": [
+        "Other Sports",
+        "Sports",
+        "Ampofo Ankrah",
+        "Engineers & Planners",
+        "Karting Africa Showrun",
+        "National Sports Authority (NSA)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-11.47.23-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "52-year-old South African arrested with suspected heroin after arriving from Accra",
+      "link": "https://www.myjoyonline.com/52-year-old-south-african-arrested-with-suspected-heroin-after-arriving-from-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T11:38:45.000Z",
+      "summary": "A 52-year-old South African man has been arrested at OR Tambo International Airport after police allegedly found suspected heroin worth more than R2 million in his luggage. The arrest was…",
       "categories": [
         "National",
         "News",
         "Top Story",
-        "CDD-Ghana",
         "Ghana",
-        "Government",
-        "Vera Abena Addo"
+        "Heroin",
+        "South Africa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/vera-1-1024x634.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-98.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Shatta Wale challenges UPSA students to build entrepreneurial mindsets",
+      "link": "https://www.myjoyonline.com/shatta-wale-challenges-upsa-students-to-build-entrepreneurial-mindsets/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-20T11:04:39.000Z",
+      "summary": "Ghanaian musician and entrepreneur Charles Nii Armah Mensah Jr., popularly known as Shatta Wale, has challenged students of the University of Professional Studies, Accra (UPSA) to cultivate…",
+      "categories": [
+        "National",
+        "Shatta Wale",
+        "UPSA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-20-at-6.07.16-AM-1024x571.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -404,18 +426,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "KATH staff members swap stethoscopes for sports boots as 70th Anniversary fun games fever hits Paa Joe Stadium",
-      "link": "https://www.graphic.com.gh/sports/sports-news/kath-staff-members-swap-stethoscopes-for-sports-boots-as-70th-anniversary-fun-games-fever-hits-paa-joe-stadium.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-18T15:44:43.000Z",
-      "summary": "On Saturday, September 19, 2026, the stethoscopes are going down, the white coats are being hung and the sports boots are coming out at the Komfo Anokye Teaching Hospital (KATH). Staff…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/18/kath_tram.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
