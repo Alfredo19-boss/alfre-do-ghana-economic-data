@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-21T01:32:07.544Z",
+  "updated": "2026-09-21T07:00:49.344Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,132 +25,121 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Government has improved sanitation in one-and-a-half years — Salaga South MP",
-      "link": "https://www.myjoyonline.com/government-has-improved-sanitation-in-one-and-a-half-years-zuwera/",
+      "title": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war",
+      "link": "https://www.myjoyonline.com/oil-hits-over-1-week-low-on-hopes-of-boost-to-diplomacy-in-iran-war/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T22:05:28.000Z",
-      "summary": "Member of Parliament for Salaga South and member of Parliament’s Select Committee on Sanitation and Water Resources, Zuwera Mohammed Ibrahimah, has rejected claims that little has been done…",
+      "published": "2026-09-21T05:55:00.000Z",
+      "summary": "Oil prices slid to their ​lowest in more than a week on Monday on hopes that diplomacy in the Iran war will get a chance ‌this week amid a UN meeting, and as investors eyed a partial…",
       "categories": [
+        "International",
+        "Oil prices",
+        "US-Iran war"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3313-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "They take GH¢100, sometimes GH¢200 – Okada riders allege police extortion in Accra",
+      "link": "https://www.myjoyonline.com/they-take-gh%c2%a2100-sometimes-gh%c2%a2200-okada-riders-allege-police-extortion-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T05:46:00.000Z",
+      "summary": "Some commercial motorcycle operators, popularly known as Okada riders, in Accra have raised concerns over alleged extortion by officers of the Motor Traffic and Transport Directorate (MTTD)…",
+      "categories": [
+        "HP News 6",
+        "Regional",
+        "okada",
+        "Police extortion"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1968.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NACOC: We’ve found no presidential escort among suspects in €225m France cocaine case",
+      "link": "https://www.myjoyonline.com/nacoc-weve-found-no-presidential-escort-among-suspects-in-e225m-france-cocaine-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T05:37:00.000Z",
+      "summary": "The Narcotics Control Commission (NACOC) says preliminary checks have found no evidence that any of the suspects in its custody over the €225 million cocaine seizure in France is a…",
+      "categories": [
+        "HP News 1",
         "National",
-        "monitoring exercise",
-        "Sanitation",
-        "Water resources"
+        "Narcotics Control Commission (NACOC)"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-31.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2819.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nkwanta North Assembly to appear before Parliament over DACF sanitation spending",
-      "link": "https://www.myjoyonline.com/nkwanta-north-assembly-to-appear-before-parliament-over-dacf-sanitation-spending/",
+      "title": "Don’t turn students away over trunks and chop boxes – GES",
+      "link": "https://www.myjoyonline.com/dont-turn-students-away-over-trunks-and-chop-boxes-ges/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T21:53:16.000Z",
-      "summary": "The Nkwanta North District Assembly is expected to appear before Parliament’s Select Committee on Sanitation and Water Resources in Accra for further questioning over its presentation…",
+      "published": "2026-09-21T05:25:00.000Z",
+      "summary": "The Ghana Education Service (GES) has asked heads of schools not to turn away newly admitted students or refuse to accommodate them over metal trunks or wooden chop boxes.",
       "categories": [
-        "National",
-        "DACF Sanitation",
-        "Nkwanta north assembly",
-        "Parliament"
+        "Education",
+        "HP News 8",
+        "Free SHS",
+        "Ghana Education Service (GES)"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-30.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/Free-SHS-450990278-750x375-1.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mourinho prints out ‘red card’ incidents after Real lose derby",
-      "link": "https://www.myjoyonline.com/mourinho-prints-out-red-card-incidents-after-real-lose-derby/",
+      "title": "Italian Apple store employees strike on iPhone 18 Pro launch day",
+      "link": "https://www.myjoyonline.com/italian-apple-store-employees-strike-on-iphone-18-pro-launch-day/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T21:33:00.000Z",
-      "summary": "Real Madrid manager Jose Mourinho arrived at his post-match news conference carrying an A4 sheet of printed paper with screenshots displaying two incidents he believed should have resulted…",
+      "published": "2026-09-21T05:15:00.000Z",
+      "summary": "Italian Apple Store employees went on strike over their ​working conditions on Friday, the launch day for the new iPhone 18 Pro, ‌the latest version of the U.S. tech giant's premium…",
       "categories": [
-        "Football",
-        "Atletico Madrid",
-        "La Liga",
-        "Real Madrid"
+        "International",
+        "Apple",
+        "iPhone 18",
+        "Italy"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2807.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2818.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Atletico beat 10-man Real in feisty Madrid derby",
-      "link": "https://www.myjoyonline.com/atletico-beat-10-man-real-in-feisty-madrid-derby/",
+      "title": "Apple’s Tim Cook sees Australia’s social media curbs as ‘world-leading’, PM says",
+      "link": "https://www.myjoyonline.com/apples-tim-cook-sees-australias-social-media-curbs-as-world-leading-pm-says/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T21:22:00.000Z",
-      "summary": "Atletico Madrid beat Real Madrid in a feisty derby to move above their rivals into second place in La Liga.",
+      "published": "2026-09-21T05:06:00.000Z",
+      "summary": "Apple Executive Chair Tim Cook views the Australian government's pioneering curbs on ​social media as \"world-leading\", Prime Minister Anthony Albanese said on Sunday after ‌meeting with…",
       "categories": [
-        "News",
-        "Atletico Madrid",
-        "Madrid derby",
-        "Real Madrid"
+        "International",
+        "Apple",
+        "Social media addiction",
+        "Tim Cook"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2808.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/People-with-phones-on-social-media-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Twelve Tribes of Israel Ghana to mark 40 years with anniversary celebration",
-      "link": "https://www.myjoyonline.com/twelve-tribes-of-israel-ghana-to-mark-40-years-with-anniversary-celebration/",
+      "title": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers",
+      "link": "https://www.myjoyonline.com/amazon-raises-minimum-hourly-pay-by-1-to-20-for-us-operations-workers/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T20:54:00.000Z",
-      "summary": "The Twelve Tribes of Israel Ghana Chapter will mark its 40th anniversary with a celebration at the Arts Centre, Accra, on Saturday, 6 December 2026.",
+      "published": "2026-09-21T04:55:00.000Z",
+      "summary": "Amazon.com is raising the minimum hourly pay ​for its eligible full-time U.S. ‌operations workers by $1 to $20, the e-commerce and cloud giant said on Wednesday.",
       "categories": [
-        "National",
-        "40th anniversary",
-        "Ghana",
-        "Twelve Tribes of Israel"
+        "International",
+        "Amazon",
+        "Hourly pay"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/7d012949-2341-4b7d-b2e2-bd08f9802215.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/image-2061-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GPL 2026/27: Hearts held by Bechem as Kotoko, Samartex share spoils",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-held-by-bechem-as-kotoko-samartex-share-spoils/",
+      "title": "Insurance cost has largely remained stable – NPA boss on transport fare pressure",
+      "link": "https://www.myjoyonline.com/insurance-cost-has-largely-remained-stable-npa-boss-on-transport-fare-pressure/",
       "source": "MyJoyOnline",
-      "published": "2026-09-20T20:33:36.000Z",
-      "summary": "At the Nsenkyire Sports Arena, Kotoko goalkeeper Ibrahim Danlad saved a penalty in the 66th minute before former Samartex striker Emmanuel Mamah headed the visitors into the lead nine…",
+      "published": "2026-09-21T04:44:00.000Z",
+      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says insurance costs for transport operators have remained largely stable despite growing pressure on the sector.",
       "categories": [
-        "Football",
-        "Sports",
-        "Ghana Premier League",
-        "Hearts of Oak",
-        "Ibrahim Danlad",
-        "Karela United",
-        "Nsenkyire Sports Arena"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-20-at-20.28.48.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "My Story (Kwaku Antwi-Boasiako)",
-      "link": "https://www.myjoyonline.com/my-story-kwaku-antwi-boasiako/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T20:27:31.000Z",
-      "summary": "As you begin your secondary school education, I want you to always keep this in mind: Education can make a difference in your life. I come from a poor background. Growing up in a large but…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Kwaku Antwi Boasiako",
-        "School"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/04/Free-SHS.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We expect growth rate to re-accelerate in second-half of 2026 – IC Insights",
-      "link": "https://www.myjoyonline.com/we-expect-growth-rate-to-re-accelerate-in-second-half-of-2026-ic-insights/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-20T20:25:04.000Z",
-      "summary": "According to IC Securities, it remains confident about continued recovery in oil & gas output into the second-half of 2026 as Tullow Oil PLC’s management guidance indicates that new wells…",
-      "categories": [
-        "Business",
         "Economy",
-        "HP Business 3",
-        "Agric",
-        "Cocoa",
-        "GDP",
-        "IC Insights",
-        "ICT",
-        "Industry",
-        "Services"
+        "National",
+        "Godwin Edudzi Tamakloe",
+        "National Petroleum Authority (NPA)",
+        "Transport fares"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/GDP.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.43.52-am-1024x629.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
