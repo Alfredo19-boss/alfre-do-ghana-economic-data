@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-21T07:00:49.344Z",
+  "updated": "2026-09-21T13:52:43.430Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,122 +25,147 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war",
-      "link": "https://www.myjoyonline.com/oil-hits-over-1-week-low-on-hopes-of-boost-to-diplomacy-in-iran-war/",
+      "title": "KATH marks 70th anniversary with inter-directorate games",
+      "link": "https://www.myjoyonline.com/kath-marks-70th-anniversary-with-inter-directorate-games/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T05:55:00.000Z",
-      "summary": "Oil prices slid to their ​lowest in more than a week on Monday on hopes that diplomacy in the Iran war will get a chance ‌this week amid a UN meeting, and as investors eyed a partial…",
+      "published": "2026-09-21T13:19:07.000Z",
+      "summary": "The event, held at Paa Joe Stadium, KNUST, brought together staff from various directorates, members of management and families for a day of sporting and recreational activities.",
       "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
+        "Football",
+        "Other Sports",
+        "Sports",
+        "Tennis",
+        "KATH"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3313-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/64845939-8fed-4b00-b735-4e14d746b97e-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "They take GH¢100, sometimes GH¢200 – Okada riders allege police extortion in Accra",
-      "link": "https://www.myjoyonline.com/they-take-gh%c2%a2100-sometimes-gh%c2%a2200-okada-riders-allege-police-extortion-in-accra/",
+      "title": "Black Stars: Godwin Attram replaces Desmond Ofei as assistant coach",
+      "link": "https://www.myjoyonline.com/black-stars-godwin-attram-replaces-desmond-ofei-as-assistant-coach/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T05:46:00.000Z",
-      "summary": "Some commercial motorcycle operators, popularly known as Okada riders, in Accra have raised concerns over alleged extortion by officers of the Motor Traffic and Transport Directorate (MTTD)…",
+      "published": "2026-09-21T13:11:32.000Z",
+      "summary": "Attram joins the Black Stars technical team replacing Desmond Ofei, who will now concentrate fully on his role as head coach of the Black Meteors, Ghana's U23 national team.",
       "categories": [
-        "HP News 6",
-        "Regional",
-        "okada",
-        "Police extortion"
+        "Football",
+        "Black Stars",
+        "Godwin Attram"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1968.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_7434-1024x852.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NACOC: We’ve found no presidential escort among suspects in €225m France cocaine case",
-      "link": "https://www.myjoyonline.com/nacoc-weve-found-no-presidential-escort-among-suspects-in-e225m-france-cocaine-case/",
+      "title": "Nkrumah never dies",
+      "link": "https://www.myjoyonline.com/nkrumah-never-dies/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T05:37:00.000Z",
-      "summary": "The Narcotics Control Commission (NACOC) says preliminary checks have found no evidence that any of the suspects in its custody over the €225 million cocaine seizure in France is a…",
+      "published": "2026-09-21T12:40:06.000Z",
+      "summary": "Every human life eventually comes to an end. Yet some lives produce ideas, institutions and possibilities that continue long after the individual is gone. This is the deeper meaning of the…",
+      "categories": [
+        "Features",
+        "Dr. Kwame Nkrumah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-2-2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CalBank ‘Abakade Promo’ rewards 5 customers with GH¢25,000 in first draw",
+      "link": "https://www.myjoyonline.com/calbank-abakade-promo-rewards-5-customers-with-gh%c2%a225000-in-first-draw/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T12:33:01.000Z",
+      "summary": "Speaking at the event, Kwame Danso, Chief of Staff, CalBank PLC, welcomed customers, media, management and staff to what he described as an important milestone in a campaign designed to…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Abakade Promo",
+        "CalBank",
+        "Kwame Danso"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/EVS17471.jpg-683x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ecobank, Joy Business to host financial dialogue on green finance and inclusive agri-growth in Ghana",
+      "link": "https://www.myjoyonline.com/ecobank-joy-business-to-host-financial-dialogue-on-green-finance-and-inclusive-agri-growth-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T12:12:04.000Z",
+      "summary": "Ecobank Ghana PLC and Joy Business are set to host a Financial Dialogue on Tuesday, September 22, to examine how green finance can help accelerate sustainable and inclusive growth in…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "Events",
+        "HP News 3",
+        "National",
+        "Agri growth",
+        "Ecobank",
+        "finance",
+        "green finance",
+        "Joy Business"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/HRxvhlzbcAI63SU-830x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nkrumah’s vision remains relevant to Ghana’s future — Mahama",
+      "link": "https://www.myjoyonline.com/nkrumahs-vision-remains-relevant-to-ghanas-future-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T12:03:25.000Z",
+      "summary": "President John Dramani Mahama has urged Ghanaians to draw inspiration from the vision and legacy of Ghana’s first President, Osagyefo Dr Kwame Nkrumah, as the country marks Founder’s Day…",
+      "categories": [
+        "Politics",
+        "Top Story",
+        "John Mahama",
+        "Kwame Nkrumah",
+        "Legacy",
+        "vision"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/527202451517-osjvm8x432-mahama-kwame-nkrumah.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hitz FM announces Beach Rave for October 31",
+      "link": "https://www.myjoyonline.com/hitz-fm-announces-beach-rave-for-october-31/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T11:49:36.000Z",
+      "summary": "Hitz 103.9 FM is set to host the Hitz Beach Rave on Saturday, 31st October at Rehab Beach Resort.",
+      "categories": [
+        "Events",
+        "HP Entertainment 2",
+        "Radio & TV",
+        "Hitz Beach Rave",
+        "Hitz FM",
+        "October 31"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/82aa8c8c-1ae3-4495-a6d4-d1d0f2e945cc-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CPP calls for protection and revival of state-owned enterprises to honour Nkrumah",
+      "link": "https://www.myjoyonline.com/cpp-calls-for-protection-and-revival-of-state-owned-enterprises-to-honour-nkrumah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T11:31:40.000Z",
+      "summary": "The Convention People’s Party (CPP) has called for the protection, revival and proper management of Ghana’s state-owned enterprises as the country marks the 117th birthday of its founder…",
       "categories": [
         "HP News 1",
         "National",
-        "Narcotics Control Commission (NACOC)"
+        "Politics",
+        "CPP",
+        "Nkrumah",
+        "State Owned Enterprises"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2819.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-11.27.14.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Don’t turn students away over trunks and chop boxes – GES",
-      "link": "https://www.myjoyonline.com/dont-turn-students-away-over-trunks-and-chop-boxes-ges/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T05:25:00.000Z",
-      "summary": "The Ghana Education Service (GES) has asked heads of schools not to turn away newly admitted students or refuse to accommodate them over metal trunks or wooden chop boxes.",
+      "title": "Ahafo Ano South West DCE Abubakar Sedik is dead",
+      "link": "https://www.graphic.com.gh/news/politics/ahafo-ano-south-west-dce-is-dead.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-21T09:37:11.000Z",
+      "summary": "The District Chief Executive for Ahafo Ano South West in the Ashanti Region, Abubakar Sedik is dead.",
       "categories": [
-        "Education",
-        "HP News 8",
-        "Free SHS",
-        "Ghana Education Service (GES)"
+        "Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/Free-SHS-450990278-750x375-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Italian Apple store employees strike on iPhone 18 Pro launch day",
-      "link": "https://www.myjoyonline.com/italian-apple-store-employees-strike-on-iphone-18-pro-launch-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T05:15:00.000Z",
-      "summary": "Italian Apple Store employees went on strike over their ​working conditions on Friday, the launch day for the new iPhone 18 Pro, ‌the latest version of the U.S. tech giant's premium…",
-      "categories": [
-        "International",
-        "Apple",
-        "iPhone 18",
-        "Italy"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2818.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Apple’s Tim Cook sees Australia’s social media curbs as ‘world-leading’, PM says",
-      "link": "https://www.myjoyonline.com/apples-tim-cook-sees-australias-social-media-curbs-as-world-leading-pm-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T05:06:00.000Z",
-      "summary": "Apple Executive Chair Tim Cook views the Australian government's pioneering curbs on ​social media as \"world-leading\", Prime Minister Anthony Albanese said on Sunday after ‌meeting with…",
-      "categories": [
-        "International",
-        "Apple",
-        "Social media addiction",
-        "Tim Cook"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/People-with-phones-on-social-media-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amazon raises minimum hourly pay by $1 to $20 for US operations workers",
-      "link": "https://www.myjoyonline.com/amazon-raises-minimum-hourly-pay-by-1-to-20-for-us-operations-workers/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T04:55:00.000Z",
-      "summary": "Amazon.com is raising the minimum hourly pay ​for its eligible full-time U.S. ‌operations workers by $1 to $20, the e-commerce and cloud giant said on Wednesday.",
-      "categories": [
-        "International",
-        "Amazon",
-        "Hourly pay"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/image-2061-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Insurance cost has largely remained stable – NPA boss on transport fare pressure",
-      "link": "https://www.myjoyonline.com/insurance-cost-has-largely-remained-stable-npa-boss-on-transport-fare-pressure/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T04:44:00.000Z",
-      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says insurance costs for transport operators have remained largely stable despite growing pressure on the sector.",
-      "categories": [
-        "Economy",
-        "National",
-        "Godwin Edudzi Tamakloe",
-        "National Petroleum Authority (NPA)",
-        "Transport fares"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.43.52-am-1024x629.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/21/dce2.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Jehovah's Witnesses keep whole blood ban but allow personal choice on components",
@@ -299,18 +324,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Gender ministry increases LEAP grant, expands school feeding",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gender-ministry-increases-leap-grant-expands-school-feeding.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T11:05:25.000Z",
-      "summary": "The Ministry for Gender, Children and Social Protection has expanded social protection coverage and increased cash grants for vulnerable households, while strengthening the legal framework…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/Agnes.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "University of Ghana wins 23 medals at 2026 FASU Games in Cairo",
       "link": "https://www.graphic.com.gh/sports/sports-news/university-of-ghana-wins-23-medals-at-2026-fasu-games-in-cairo.html",
       "source": "Graphic Sports",
@@ -411,30 +424,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "KoKMA tackles open urination with new Tudu facility",
-      "link": "https://ghanaiantimes.com.gh/kokma-tackles-open-urination-with-new-tudu-facility/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T08:01:00.000Z",
-      "summary": "The Korle Klottey Municipal Assembly (KoKMA) has inaugurated a new sanitation facility at Tudu in Accra to improve access to public sanitation services and help curb open urination in the…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Wa West MP donates medical supplies, GH¢300,000 for healthcare",
-      "link": "https://ghanaiantimes.com.gh/wa-west-mp-donates-medical-supplies-gh%c2%a2300000-for-healthcare/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T07:47:06.000Z",
-      "summary": "The Member of Parliament (MP) for Wa West, Mr Peter Lanchene Toobu, has donated surgical instruments and hospital consumables to health facilities in the Wa West District to support the…",
-      "categories": [
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
