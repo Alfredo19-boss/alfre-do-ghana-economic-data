@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-21T18:57:26.916Z",
+  "updated": "2026-09-21T22:26:30.545Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -17,146 +17,136 @@ window.GDC_PAPERS = {
     {
       "source": "MyJoyOnline",
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "source": "Ghanaian Times",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ],
   "items": [
     {
-      "title": "Mankranso DCE laid to rest as Muslims hold final Juma’ah prayers",
-      "link": "https://www.myjoyonline.com/mankranso-dce-laid-to-rest-as-muslims-hold-final-jumaah-prayers/",
+      "title": "Tamale: 5 arrested over suspected drug activities; police seize pistols, narcotics",
+      "link": "https://www.myjoyonline.com/tamale-5-arrested-over-suspected-drug-activities-police-seize-pistols-narcotics/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T18:10:11.000Z",
-      "summary": "A deep sense of sorrow has engulfed Mankranso in the Ahafo Ano South West Municipality following the sudden death of the District Chief Executive, Abubakar Sedik.",
+      "published": "2026-09-21T22:18:01.000Z",
+      "summary": "The Northern Regional Police Command has arrested five persons and seized firearms, ammunition, suspected narcotics and other items during an intelligence-led operation at the Tamale Aboabo…",
       "categories": [
-        "In Focus",
+        "HP News 1",
         "National",
-        "News",
+        "Drugs",
+        "Police",
+        "Tamale"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-25-1024x512.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We have lost a great developer – Mankranso residents pay tribute to late DCE",
+      "link": "https://www.myjoyonline.com/we-have-lost-a-great-developer-mankranso-residents-pay-tribute-to-late-dce/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T22:16:03.000Z",
+      "summary": "Residents of Mankranso in the Ahafo Ano South West District of the Ashanti Region have described their late District Chief Executive (DCE), Abubakar Sedik, as a great developer whose…",
+      "categories": [
+        "National",
         "Regional",
-        "Mankranso DE",
-        "Muslims",
-        "Prayers"
+        "DCE",
+        "Developer",
+        "Mankranso residents"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2830.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2834.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghanaian professor Kofi Akamani shot dead in US; wife arrested",
-      "link": "https://www.myjoyonline.com/ghanaian-professor-kofi-akamani-shot-dead-in-us-wife-arrested/",
+      "title": "Ghana Law Society sets September 30 for maiden Bar Conference on legal reforms",
+      "link": "https://www.myjoyonline.com/ghana-law-society-sets-september-30-for-maiden-bar-conference-on-legal-reforms/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T18:00:11.000Z",
-      "summary": "A Ghanaian academic based in the United States, Dr Kofi Akamani, has been shot dead in Illinois, where he worked as a lecturer at Southern Illinois University (SIU) Carbondale.",
+      "published": "2026-09-21T21:52:33.000Z",
+      "summary": "The Ghana Law Society (GLS) has announced Wednesday, September 30, 2026, for its maiden Annual Bar Conference.",
       "categories": [
-        "HP News 2",
         "National",
         "News",
-        "Ghanaian",
-        "Lecturer",
-        "US"
+        "Bar Conference",
+        "Ghana Law Society (GLS)",
+        "Legal reforms"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_2350-1024x512.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260921-WA0019-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sammy Gyamfi says 2018 NACOC removal from port inspections weakened drug checks",
-      "link": "https://www.myjoyonline.com/sammy-gyamfi-says-2018-nacoc-removal-from-port-inspections-weakened-drug-checks/",
+      "title": "GPL Week 3: Port City’s Gyetuah bags a brace as 9 outstanding players named NASCO Players of the Match",
+      "link": "https://www.myjoyonline.com/gpl-week-3-port-citys-gyetuah-bags-a-brace-as-9-outstanding-players-named-nasco-players-of-the-match/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T17:49:52.000Z",
-      "summary": "GoldBod Chief Executive Officer, Sammy Gyamfi, has raised concerns over the removal of the Narcotics Control Commission (NACOC) from Ghana’s list of Port Inspection Agencies in 2018.",
-      "categories": [
-        "National",
-        "Top Story",
-        "Government",
-        "NACOC",
-        "Sammy Gyamfi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Sammy-Gyamfi-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Greater Accra region accounts for 77% of total secured credit in half-year 2026 – BoG",
-      "link": "https://www.myjoyonline.com/greater-accra-region-accounts-for-77-of-total-secured-credit-in-half-year-2026-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T17:46:39.000Z",
-      "summary": "The Greater Accra Region recorded the largest share of total secured credit as of 30th June 2026, accounting for GH¢24.5 billion, representing 77.8%, the half-year 2026 Collateral Registry…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 3",
-        "BoG",
-        "Collateral Registry",
-        "Greater Accra",
-        "Secured credit"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Dr-Johnson-Asiama.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Founder’s Day: We face forward, but are we moving?",
-      "link": "https://www.myjoyonline.com/founders-day-we-face-forward-but-are-we-moving/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T17:39:31.000Z",
-      "summary": "Today, Ghana observes Founder’s Day, and while many of us will appreciate the chance to rest, spend time with family, attend an event, or simply step away from our normal routines, I find…",
-      "categories": [
-        "HP Opinion 1",
-        "Opinion",
-        "Foundaers' Day",
-        "Nkrumah Day",
-        "Nkrumah Fest"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Untitled-1-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sheenah Naturals unveils Akuaba Collection at Beauty Inside Out Conference",
-      "link": "https://www.myjoyonline.com/sheenah-naturals-unveils-akuaba-collection-at-beauty-inside-out-conference/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T17:30:43.000Z",
-      "summary": "Ghanaian beauty and wellness brand Sheenah Naturals has unveiled its new premium Akuaba Collection at the Beauty Inside Out Conference, held on Friday, September 18, 2026, at Africa Trade…",
-      "categories": [
-        "Business",
-        "Gladys Nana Akua Cobbina",
-        "Sheenah Naturals"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-20.15.50-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "T-bills: 91-day, 364-day yields to trade slightly higher in second half of 2026",
-      "link": "https://www.myjoyonline.com/t-bills-91-day-364-day-yields-to-trade-slightly-higher-in-second-half-of-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T17:25:33.000Z",
-      "summary": "The 91-day bill is expected to trade within 5.5%-7.5% in the second half of 2026, while the 364-day bill would trade within 12.5%-14.0%. According to Databank Research, its outlook reflects…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 2",
-        "182-day",
-        "91-day",
-        "Databank Research",
-        "T-Bills",
-        "yields"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Stars: It’s our decision to leave Kudus to recover – Queiroz",
-      "link": "https://www.myjoyonline.com/black-stars-its-our-decision-to-leave-kudus-to-recover-queiroz/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T17:00:02.000Z",
-      "summary": "Kudus, who has as initially included in the 24-man squad list for the upcoming game against Côte d’Ivoire, Gambia and Morocco.",
+      "published": "2026-09-21T21:37:30.000Z",
+      "summary": "Nine outstanding players were once again, named NASCO Man of the Match winners for Matchweek 3 of the 2026/27 Ghana Premier League, following an action-packed weekend that produced 19 goals…",
       "categories": [
         "Football",
-        "HP News 8",
-        "National",
-        "Black Stars",
-        "Carlos Queiroz",
-        "Mohammed Kudus"
+        "HP Sports 5",
+        "Ghana Premier League",
+        "NASCO",
+        "Port city"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/G3eZfODXEAA2_9q.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260921-WA0083-819x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Visibility without substance is just noise; I don’t seek popularity—Dr Oppong-Fosu",
+      "link": "https://www.myjoyonline.com/visibility-without-substance-is-just-noise-i-dont-seek-popularity-dr-oppong-fosu/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T21:31:14.000Z",
+      "summary": "National Chairman hopeful of the National Democratic Congress (NDC), Dr Akwasi Oppong-Fosu, has rejected suggestions that his decision to contest the party’s leadership race is motivated by…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Politics",
+        "Noise",
+        "Oppong-Fosu",
+        "Popularity",
+        "Visibility"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2833.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The late Abubakar Sedik was an exceptional DCE – Ashanti Regional Minister",
+      "link": "https://www.myjoyonline.com/the-late-abubakar-sedik-was-an-exceptional-dce-ashanti-regional-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T21:17:36.000Z",
+      "summary": "The Ashanti Regional Minister, Dr. Frank Amoakohene, has described the late District Chief Executive (DCE) for Ahafo Ano South West, Abubakar Sedik, as an exceptional and hardworking…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Adubakar Sedik",
+        "Ashanti Regional Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2837-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Stars must win next game against Côte d’Ivoire – Carlos Queiroz",
+      "link": "https://www.myjoyonline.com/black-stars-must-win-next-game-against-cote-divoire-carlos-queiroz/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T20:32:03.000Z",
+      "summary": "Black Stars head coach Carlos Queiroz says winning the next game is Ghana’s immediate priority as they begin their 2027 Africa Cup of Nations qualifying campaign.",
+      "categories": [
+        "Football",
+        "Sports",
+        "AFCON Qualifiers",
+        "Black Stars",
+        "Carlos Quiroz",
+        "Côte d’Ivoire"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/0dbe2024-1185-463b-9659-155a3e6fe76c.jpg-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Global Game Scouting Tournament set for September 25 kick-off in Accra",
+      "link": "https://www.myjoyonline.com/global-game-scouting-tournament-set-for-september-25-kick-off-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T20:09:22.000Z",
+      "summary": "The Global Game Scouting Tournament is entering its final days of preparations ahead of its September 25-26 staging at the McDan Sports Complex in Labadi.",
+      "categories": [
+        "Football",
+        "Sports",
+        "ExcelsiorPro",
+        "Global Game Scouting Tournament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GLOBAL-GAME-SCOUTING-TOURNAMENT_EXCELSIORPRO-e1790021429888.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -338,19 +328,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Carlos Queiroz: AFCON qualification is absolute priority, but eyes on 2030 World Cup",
-      "link": "https://ghanaiantimes.com.gh/carlos-queiroz-afcon-qualification-is-absolute-priority-but-eyes-on-2030-world-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T18:58:42.000Z",
-      "summary": "Black Stars head coach Carlos Queiroz says his immediate focus is securing qualification for the Africa Cup of Nations, while laying the foundation for a bigger dream building a Ghana side…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
