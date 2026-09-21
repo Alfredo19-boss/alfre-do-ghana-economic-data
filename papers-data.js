@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-21T13:52:43.430Z",
+  "updated": "2026-09-21T18:57:26.916Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,135 +25,151 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "KATH marks 70th anniversary with inter-directorate games",
-      "link": "https://www.myjoyonline.com/kath-marks-70th-anniversary-with-inter-directorate-games/",
+      "title": "Mankranso DCE laid to rest as Muslims hold final Juma’ah prayers",
+      "link": "https://www.myjoyonline.com/mankranso-dce-laid-to-rest-as-muslims-hold-final-jumaah-prayers/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T13:19:07.000Z",
-      "summary": "The event, held at Paa Joe Stadium, KNUST, brought together staff from various directorates, members of management and families for a day of sporting and recreational activities.",
+      "published": "2026-09-21T18:10:11.000Z",
+      "summary": "A deep sense of sorrow has engulfed Mankranso in the Ahafo Ano South West Municipality following the sudden death of the District Chief Executive, Abubakar Sedik.",
       "categories": [
-        "Football",
-        "Other Sports",
-        "Sports",
-        "Tennis",
-        "KATH"
+        "In Focus",
+        "National",
+        "News",
+        "Regional",
+        "Mankranso DE",
+        "Muslims",
+        "Prayers"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/64845939-8fed-4b00-b735-4e14d746b97e-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2830.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Black Stars: Godwin Attram replaces Desmond Ofei as assistant coach",
-      "link": "https://www.myjoyonline.com/black-stars-godwin-attram-replaces-desmond-ofei-as-assistant-coach/",
+      "title": "Ghanaian professor Kofi Akamani shot dead in US; wife arrested",
+      "link": "https://www.myjoyonline.com/ghanaian-professor-kofi-akamani-shot-dead-in-us-wife-arrested/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T13:11:32.000Z",
-      "summary": "Attram joins the Black Stars technical team replacing Desmond Ofei, who will now concentrate fully on his role as head coach of the Black Meteors, Ghana's U23 national team.",
+      "published": "2026-09-21T18:00:11.000Z",
+      "summary": "A Ghanaian academic based in the United States, Dr Kofi Akamani, has been shot dead in Illinois, where he worked as a lecturer at Southern Illinois University (SIU) Carbondale.",
       "categories": [
-        "Football",
-        "Black Stars",
-        "Godwin Attram"
+        "HP News 2",
+        "National",
+        "News",
+        "Ghanaian",
+        "Lecturer",
+        "US"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_7434-1024x852.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_2350-1024x512.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nkrumah never dies",
-      "link": "https://www.myjoyonline.com/nkrumah-never-dies/",
+      "title": "Sammy Gyamfi says 2018 NACOC removal from port inspections weakened drug checks",
+      "link": "https://www.myjoyonline.com/sammy-gyamfi-says-2018-nacoc-removal-from-port-inspections-weakened-drug-checks/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T12:40:06.000Z",
-      "summary": "Every human life eventually comes to an end. Yet some lives produce ideas, institutions and possibilities that continue long after the individual is gone. This is the deeper meaning of the…",
+      "published": "2026-09-21T17:49:52.000Z",
+      "summary": "GoldBod Chief Executive Officer, Sammy Gyamfi, has raised concerns over the removal of the Narcotics Control Commission (NACOC) from Ghana’s list of Port Inspection Agencies in 2018.",
       "categories": [
-        "Features",
-        "Dr. Kwame Nkrumah"
+        "National",
+        "Top Story",
+        "Government",
+        "NACOC",
+        "Sammy Gyamfi"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-2-2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Sammy-Gyamfi-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "CalBank ‘Abakade Promo’ rewards 5 customers with GH¢25,000 in first draw",
-      "link": "https://www.myjoyonline.com/calbank-abakade-promo-rewards-5-customers-with-gh%c2%a225000-in-first-draw/",
+      "title": "Greater Accra region accounts for 77% of total secured credit in half-year 2026 – BoG",
+      "link": "https://www.myjoyonline.com/greater-accra-region-accounts-for-77-of-total-secured-credit-in-half-year-2026-bog/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T12:33:01.000Z",
-      "summary": "Speaking at the event, Kwame Danso, Chief of Staff, CalBank PLC, welcomed customers, media, management and staff to what he described as an important milestone in a campaign designed to…",
+      "published": "2026-09-21T17:46:39.000Z",
+      "summary": "The Greater Accra Region recorded the largest share of total secured credit as of 30th June 2026, accounting for GH¢24.5 billion, representing 77.8%, the half-year 2026 Collateral Registry…",
       "categories": [
         "Banking and Finance",
         "Business",
-        "Abakade Promo",
-        "CalBank",
-        "Kwame Danso"
+        "HP Business 3",
+        "BoG",
+        "Collateral Registry",
+        "Greater Accra",
+        "Secured credit"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/EVS17471.jpg-683x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Dr-Johnson-Asiama.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ecobank, Joy Business to host financial dialogue on green finance and inclusive agri-growth in Ghana",
-      "link": "https://www.myjoyonline.com/ecobank-joy-business-to-host-financial-dialogue-on-green-finance-and-inclusive-agri-growth-in-ghana/",
+      "title": "Founder’s Day: We face forward, but are we moving?",
+      "link": "https://www.myjoyonline.com/founders-day-we-face-forward-but-are-we-moving/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T12:12:04.000Z",
-      "summary": "Ecobank Ghana PLC and Joy Business are set to host a Financial Dialogue on Tuesday, September 22, to examine how green finance can help accelerate sustainable and inclusive growth in…",
+      "published": "2026-09-21T17:39:31.000Z",
+      "summary": "Today, Ghana observes Founder’s Day, and while many of us will appreciate the chance to rest, spend time with family, attend an event, or simply step away from our normal routines, I find…",
       "categories": [
-        "Agribusiness",
+        "HP Opinion 1",
+        "Opinion",
+        "Foundaers' Day",
+        "Nkrumah Day",
+        "Nkrumah Fest"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Untitled-1-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sheenah Naturals unveils Akuaba Collection at Beauty Inside Out Conference",
+      "link": "https://www.myjoyonline.com/sheenah-naturals-unveils-akuaba-collection-at-beauty-inside-out-conference/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T17:30:43.000Z",
+      "summary": "Ghanaian beauty and wellness brand Sheenah Naturals has unveiled its new premium Akuaba Collection at the Beauty Inside Out Conference, held on Friday, September 18, 2026, at Africa Trade…",
+      "categories": [
         "Business",
-        "Events",
-        "HP News 3",
+        "Gladys Nana Akua Cobbina",
+        "Sheenah Naturals"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-20.15.50-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "T-bills: 91-day, 364-day yields to trade slightly higher in second half of 2026",
+      "link": "https://www.myjoyonline.com/t-bills-91-day-364-day-yields-to-trade-slightly-higher-in-second-half-of-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T17:25:33.000Z",
+      "summary": "The 91-day bill is expected to trade within 5.5%-7.5% in the second half of 2026, while the 364-day bill would trade within 12.5%-14.0%. According to Databank Research, its outlook reflects…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 2",
+        "182-day",
+        "91-day",
+        "Databank Research",
+        "T-Bills",
+        "yields"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Stars: It’s our decision to leave Kudus to recover – Queiroz",
+      "link": "https://www.myjoyonline.com/black-stars-its-our-decision-to-leave-kudus-to-recover-queiroz/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T17:00:02.000Z",
+      "summary": "Kudus, who has as initially included in the 24-man squad list for the upcoming game against Côte d’Ivoire, Gambia and Morocco.",
+      "categories": [
+        "Football",
+        "HP News 8",
         "National",
-        "Agri growth",
-        "Ecobank",
-        "finance",
-        "green finance",
-        "Joy Business"
+        "Black Stars",
+        "Carlos Queiroz",
+        "Mohammed Kudus"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/HRxvhlzbcAI63SU-830x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/G3eZfODXEAA2_9q.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nkrumah’s vision remains relevant to Ghana’s future — Mahama",
-      "link": "https://www.myjoyonline.com/nkrumahs-vision-remains-relevant-to-ghanas-future-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T12:03:25.000Z",
-      "summary": "President John Dramani Mahama has urged Ghanaians to draw inspiration from the vision and legacy of Ghana’s first President, Osagyefo Dr Kwame Nkrumah, as the country marks Founder’s Day…",
+      "title": "PAG urges economic self-reliance on Nkrumah's 117th birthday",
+      "link": "https://www.graphic.com.gh/news/politics/pag-urges-economic-self-reliance-on-nkrumahs-117th-birthday.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-21T14:16:22.000Z",
+      "summary": "The Progressive Alliance for Ghana (PAG) has called for a fundamental transformation of the country's economy, with particular emphasis on youth enterprise, cooperative ownership, value…",
       "categories": [
-        "Politics",
-        "Top Story",
-        "John Mahama",
-        "Kwame Nkrumah",
-        "Legacy",
-        "vision"
+        "Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/527202451517-osjvm8x432-mahama-kwame-nkrumah.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hitz FM announces Beach Rave for October 31",
-      "link": "https://www.myjoyonline.com/hitz-fm-announces-beach-rave-for-october-31/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T11:49:36.000Z",
-      "summary": "Hitz 103.9 FM is set to host the Hitz Beach Rave on Saturday, 31st October at Rehab Beach Resort.",
-      "categories": [
-        "Events",
-        "HP Entertainment 2",
-        "Radio & TV",
-        "Hitz Beach Rave",
-        "Hitz FM",
-        "October 31"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/82aa8c8c-1ae3-4495-a6d4-d1d0f2e945cc-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CPP calls for protection and revival of state-owned enterprises to honour Nkrumah",
-      "link": "https://www.myjoyonline.com/cpp-calls-for-protection-and-revival-of-state-owned-enterprises-to-honour-nkrumah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T11:31:40.000Z",
-      "summary": "The Convention People’s Party (CPP) has called for the protection, revival and proper management of Ghana’s state-owned enterprises as the country marks the 117th birthday of its founder…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Politics",
-        "CPP",
-        "Nkrumah",
-        "State Owned Enterprises"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-11.27.14.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ahafo Ano South West DCE Abubakar Sedik is dead",
@@ -312,18 +328,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "World Patient Safety Day commemorated in Accra",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-world-patient-safety-day-commemorated-in-accra.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T11:10:35.000Z",
-      "summary": "This year’s World Patient Safety Day has been commemorated at Pantang, Accra, with a call on healthcare professionals to deepen collaboration with patients along the entire healthcare chain…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/Francis.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "University of Ghana wins 23 medals at 2026 FASU Games in Cairo",
       "link": "https://www.graphic.com.gh/sports/sports-news/university-of-ghana-wins-23-medals-at-2026-fasu-games-in-cairo.html",
       "source": "Graphic Sports",
@@ -347,83 +351,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Our intelligence agencies will not be reduced to chasing citizens for insulting me – Dr. Bawumia jabs gov’t",
-      "link": "https://ghanaiantimes.com.gh/our-intelligence-agencies-will-not-be-reduced-to-chasing-citizens-for-insulting-me-dr-bawumia-jabs-govt/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T18:56:11.000Z",
-      "summary": "New Patriotic Party flagbearer, Dr Mahamudu Bawumia, has condemned the arrest and remand of Techiman-based nurse and mother of three, Salomey Bafor Awiti, over allegations of abetting the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Carlos Queiroz names 24-man squad for AFCON Qualifiers and Morocco friendly",
-      "link": "https://ghanaiantimes.com.gh/carlos-queiroz-names-24-man-squad-for-afcon-qualifiers-and-morocco-friendly/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T18:54:11.000Z",
-      "summary": "Ghana Coach Carlos Queiroz has named a 24-man squad for this month’s 2027 Africa Cup of Nations qualifiers against Côte d’Ivoire and The Gambia, as well as the international friendly…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minority demands answers over Thomas Partey’s denied entry to Canada for World Cup opener",
-      "link": "https://ghanaiantimes.com.gh/minority-demands-answers-over-thomas-parteys-denied-entry-to-canada-for-world-cup-opener/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T18:51:45.000Z",
-      "summary": "The Minority in Parliament is demanding answers from the Ghana Football Association (GFA) and the Ministry of Sports and Recreation over reports that Thomas Partey was denied entry into…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Man arrested in Ashaiman for allegedly posing as soldier and extorting money",
-      "link": "https://ghanaiantimes.com.gh/man-arrested-in-ashaiman-for-allegedly-posing-as-soldier-and-extorting-money/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T18:49:37.000Z",
-      "summary": "The Tema Regional Police Command has arrested a 32-year-old man for allegedly posing as a soldier and extorting money from unsuspecting members of the public at Ashaiman. The suspect…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NIA marks Identity Day with float and mass registration in Accra",
-      "link": "https://ghanaiantimes.com.gh/nia-marks-identity-day-with-float-and-mass-registration-in-accra/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-18T18:44:36.000Z",
-      "summary": "The National Identification Authority (NIA) on Wednesday, September 16, 2026, organised a public education float and special mass registration exercise in Accra as part of activities…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-15.04.16-1-1024x682.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Stop political fights and save Ghana sport – Samson Deen",
-      "link": "https://www.graphic.com.gh/sports/sports-news/stop-political-fights-and-save-ghana-sport-samson-deen.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-18T18:40:33.000Z",
-      "summary": "The President of the National Paralympic Committee of Ghana, Mr Samson Deen, has warned that Ghana risks sacrificing its sporting future to political rivalry. He has called on the New…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
