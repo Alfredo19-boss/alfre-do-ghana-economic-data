@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-22T05:58:00.822Z",
+  "updated": "2026-09-22T11:02:35.532Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -17,9 +17,348 @@ window.GDC_PAPERS = {
     {
       "source": "MyJoyOnline",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "source": "Ghanaian Times",
+      "site": "https://ghanaiantimes.com.gh/"
     }
   ],
   "items": [
+    {
+      "title": "Photos: Gender Ministry presents 2027–2030 priorities at budget technical hearing",
+      "link": "https://www.myjoyonline.com/photos-gender-ministry-presents-2027-2030-priorities-at-budget-technical-hearing/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T10:57:38.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection has presented its proposed priorities and interventions for the 2027–2030 medium-term period at a Budget Technical Hearing organised…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "Budget Technical Hearing",
+        "Gender Ministry",
+        "Photos"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2892-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos: Mahama engages global leaders in Presidential Roundtable in New York",
+      "link": "https://www.myjoyonline.com/photos-mahama-engages-global-leaders-in-presidential-roundtable-in-new-york/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T10:56:38.000Z",
+      "summary": "President John Dramani Mahama has participated in a Presidential Roundtable organised by the Open Society Foundation in New York, as part of engagements on the sidelines of the 81st United…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "global leaders",
+        "Mahama",
+        "Photos",
+        "Presidential Roundtable"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2869-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ecobank deepens support for agriculture with dedicated expertise and training – Charlotte Amanquah",
+      "link": "https://www.myjoyonline.com/ecobank-deepens-support-for-agriculture-with-dedicated-expertise-and-training-charlotte-amanquah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T10:52:07.000Z",
+      "summary": "Ecobank is strengthening its support for the agricultural sector through dedicated resources, specialised expertise, staff training and technical assistance aimed at improving access to…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "HP News 4",
+        "National",
+        "Agriculture",
+        "Ecobank",
+        "Joybusines"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2868.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "High collateral, documentation requirements limiting farmers’ access to finance – PFA",
+      "link": "https://www.myjoyonline.com/high-collateral-documentation-requirements-limiting-farmers-access-to-finance-pfa/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T10:40:33.000Z",
+      "summary": "The former Director of the Peasant Farmers Association of Ghana (PFA), Dr Charles Nyaaba, says excessive documentation requirements by financial institutions are limiting farmers’ access to…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "HP Business 2",
+        "HP News 1",
+        "National",
+        "Dr Charles Nyaaba",
+        "Farmers",
+        "finance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2867.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP will be out of opposition in just two years – Afoko vows",
+      "link": "https://www.myjoyonline.com/npp-will-be-out-of-opposition-in-just-two-years-afoko-vows/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T10:32:15.000Z",
+      "summary": "National Chairman hopeful of the New Patriotic Party (NPP), Awentami Paul Afoko, has expressed optimism that the party will form the next government, with him at the helm of affairs.",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "Politics",
+        "Afoko",
+        "NPP",
+        "Opposition"
+      ],
+      "image": null,
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "5-month-old baby stolen at Asafo Market, police launch manhunt for female suspect",
+      "link": "https://www.myjoyonline.com/5-month-old-baby-stolen-at-asafo-market-police-launch-manhunt-for-female-suspect/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T10:24:53.000Z",
+      "summary": "Panic has gripped traders at the Asafo Market in Kumasi after a five-month-old baby boy was allegedly stolen by an unknown woman in the early hours of Sunday.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "Regional",
+        "Asafo Market",
+        "Ashanti Region",
+        "Baby",
+        "Kumasi",
+        "Police"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2861-758x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Forklift kills roadside pawpaw seller at Asokwa Brewery",
+      "link": "https://www.myjoyonline.com/forklift-kills-roadside-pawpaw-seller-at-asokwa-brewery/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T10:19:03.000Z",
+      "summary": "A pall of grief hangs over the Brewery Traffic Light intersection in the Asokwa Municipality of the Ashanti Region following a tragic accident that claimed the life of a young roadside…",
+      "categories": [
+        "Regional",
+        "Top Story",
+        "Asokwa Brewery",
+        "pawpaw seller"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2862-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "When market traders want to lose weight: What are they doing and who are they listening to?",
+      "link": "https://www.myjoyonline.com/when-market-traders-want-to-lose-weight-what-are-they-doing-and-who-are-they-listening-to/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T09:53:34.000Z",
+      "summary": "We depend on traders in our markets for much of the food that reaches our homes. We meet and bargain with them for our foodstuffs – plantain, cassava tomatoes, garden eggs, fish, fruits…",
+      "categories": [
+        "Features",
+        "Health",
+        "Lifestyle",
+        "National",
+        "Obesity",
+        "Weight",
+        "Written by Dr. Laurene Boateng"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Obese_vs_reality.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Insurance sector offers opportunities for Ghanaian youth — GIUC Rector",
+      "link": "https://ghanaiantimes.com.gh/insurance-sector-offers-opportunities-for-ghanaian-youth-giuc-rector/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T09:29:38.000Z",
+      "summary": "The Rector of the Ghana Insurance University College (GIUC), Dr Richard Okyere, has urged the youth to pursue courses in insurance, particularly actuarial science, to help address the…",
+      "categories": [
+        "Business"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana Stocks Retreat 2.06% … as weekly turnover falls",
+      "link": "https://ghanaiantimes.com.gh/ghana-stocks-retreat-2-06-as-weekly-turnover-falls/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T09:27:47.000Z",
+      "summary": "Ghana’s equity market retreated in the week to September 18, 2026, as losses in several heavily weighted stocks pulled the benchmark indices lower and erased more than GH¢6 billion in…",
+      "categories": [
+        "Business"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Govt seeks Diaspora input to shape policies",
+      "link": "https://ghanaiantimes.com.gh/govt-seeks-diaspora-input-to-shape-policies/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T09:25:01.000Z",
+      "summary": "The Diaspora Affairs Office of the President (DAOOP) has held the maiden Ghana Diaspora Townhall Meeting at the Christiansborg Castle in Osu, Accra, as part of efforts to strengthen…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Finance immunisation ahead of GAVI exit — Stakeholders",
+      "link": "https://ghanaiantimes.com.gh/finance-immunisation-ahead-of-gavi-exit-stakeholders/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T09:22:55.000Z",
+      "summary": "Health-sector stakeholders have called on the government to step up efforts to fully finance immunisation interventions ahead of Ghana’s planned exit from the Global Alliance for Vaccines…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana to host 6th FAJ Continental Congress",
+      "link": "https://ghanaiantimes.com.gh/ghana-to-host-6th-faj-continental-congress/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T09:20:53.000Z",
+      "summary": "Ghana has won the bid to host the 6th Continental Congress of the Federation of African Journalists (FAJ) after the FAJ Steering Committee unanimously approved the bid submitted by the…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Why OneTwoMarkets is booming in Ghana and why is the first choice of 40.000 ghanaian traders",
+      "link": "https://ghanaiantimes.com.gh/why-onetwomarkets-is-booming-in-ghana-and-why-is-the-first-choice-of-40-000-ghanaian-traders/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T08:59:06.000Z",
+      "summary": "Ghana’s financial environment has changed considerably over the last few years, particularly as mobile money, digital banking and online financial services have become a normal part of…",
+      "categories": [
+        "Technology"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Govt targets cheaper power for industries",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-targets-cheaper-power-for-industries.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:48:12.000Z",
+      "summary": "The government is working towards reducing electricity generation costs to make power more affordable and predictable for industries, the Deputy Minister of Energy and Green Transition…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/Richard.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Interior Minister hands over vehicles, equipment to GNFS",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-interior-minister-hands-over-vehicles-equipment-to-gnfs.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:42:21.000Z",
+      "summary": "The Minister for the Interior, Muntaka Mohammed-Mubarak, has handed over vehicles and equipment — the Automated Fire Compliance and Safety System (AFCAS) — to the Ghana National Fire…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/Mubarak.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dr Kwame Nkrumah’s birthday celebration: Africa must heed Nkrumah’s vision of unity - Prof. Lumumba",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dr-kwame-nkrumahs-birthday-celebration-africa-must-heed-nkrumahs-vision-of-unity-prof-lumumba.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:39:23.000Z",
+      "summary": "African leaders have been urged to return to the founding ideals of intercontinental unity by Ghana’s first President, Osagyefo Dr Kwame Nkrumah.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/Lumumna.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Pres Mahama to court investment at UNGA",
+      "link": "https://ghanaiantimes.com.gh/pres-mahama-to-court-investment-at-unga/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T07:27:29.000Z",
+      "summary": "PRESIDENT John Dramani Mahama is in the United States of America to participate in the 81st Session of the United Nations General Assembly (UNGA), which is being held on the theme…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Operation clear Agbogbloshie begins:1m tonnes of waste to go in 90 days",
+      "link": "https://ghanaiantimes.com.gh/operation-clear-agbogbloshie-begins1m-tonnes-of-waste-to-go-in-90-days/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T07:23:41.000Z",
+      "summary": "A MASSIVE 90-day operation to remove one million metric tonnes of waste from Agbogbloshie, Old Fadama and surrounding communities has begun, as part of efforts to restore the polluted Korle…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Graphic’s free health screening records high patronage",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-graphics-free-health-screening-records-high-patronage.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:17:56.000Z",
+      "summary": "Hundreds of people patronised this year’s free health screening exercise organised by the Graphic Communications Group Ltd. (GCGL) for residents of Adabraka and surrounding communities.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/participant.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Awutu-Senya chiefs applaud government for ongoing development projects",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-awutu-senya-chiefs-applaud-government-for-ongoing-development-projects.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:12:31.000Z",
+      "summary": "The Chiefs and people of Awutu-Senya Constituency have applauded the government for initiating massive development projects to improve livelihoods across communities in the country.",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Let’s turn research into practical solutions — Chief of Staff",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-lets-turn-research-into-practical-solutions-chief-of-staff.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:10:53.000Z",
+      "summary": "The Chief of Staff of the Office of the Presidnet, Dr Julius Debrah, has called for a stronger link between universities, government and industry to ensure that research conducted in the…",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/Ernest.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Kwashieman Anglican JHS gets over 11,000 exercise books",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-kwashieman-anglican-jhs-gets-over-11-000-exercise-books.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:08:14.000Z",
+      "summary": "The Shalom D Susu Enterprise has presented over 11,200 exercise books to the Kwashieman Anglican Junior High School in Accra to support students in their academic work.",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/Doodoo.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana needs foresight, not crisis management — Asiedu Nketiah",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-needs-foresight-not-crisis-management-asiedu-nketiah.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T07:05:31.000Z",
+      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called for greater foresight in national development to enable the country to anticipate…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/Nketiah.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Black Challenge call 20 for Mexico 2026 Amputee Football World Cup",
       "link": "https://www.graphic.com.gh/sports/sports-news/black-challenge-call-20-for-mexico-2026-amputee-football-world-cup.html",
@@ -31,191 +370,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/22/a5ff3ca2-7205-4fca-8825-162e773106df.jpeg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Prof. Kwofie urges publishers to use indigenous knowledge systems to decolonise AI",
-      "link": "https://www.myjoyonline.com/prof-kwofie-urges-publishers-to-use-indigenous-knowledge-systems-to-decolonise-ai/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T23:44:44.000Z",
-      "summary": "The Director of the Institute of Applied Science and Technology at the University of Ghana, Prof. Samuel Kojo Kwofie, has called for the integration of indigenous knowledge systems into…",
-      "categories": [
-        "Books",
-        "National",
-        "AI",
-        "Prof. Samuel Kojo Kwofie",
-        "publishers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2842-1024x668.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC’s two years of economic gains not enough to establish stability – Alan Kyerematen",
-      "link": "https://www.myjoyonline.com/ndcs-two-years-of-economic-gains-not-enough-to-establish-stability-alan-kyerematen/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T23:35:56.000Z",
-      "summary": "United Party founder and leader Alan Kyerematen says Ghana’s recent macroeconomic gains cannot yet be described as sustained economic stability, arguing that a much longer period of growth…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "News",
-        "Politics",
-        "Alan Kyerematen",
-        "economic stability",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/alan-2.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Save Nations Foundation donates exercise books to Nooria Islamic Basic School",
-      "link": "https://www.graphic.com.gh/news/general-news/save-nations-foundation-donates-exercise-books-to-nooria-islamic-basic-school.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-21T23:26:41.000Z",
-      "summary": "Save Nations Foundation, a non-governmental organisation, has donated exercise books to Nooria Islamic Basic School in Accra as part of sustained efforts to promote quality education and…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AFCON 2027Q: Nine new call-up for Cote, The Gambia matches",
-      "link": "https://www.myjoyonline.com/afcon-2027q-nine-new-call-up-for-cote-the-gambia-matches/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T23:16:00.000Z",
-      "summary": "Following medical uncertainties presented by some players, Black Stars Head Coach Carlos Queiroz has made additions to the squad for the 2027 Africa Cup of Nations qualifiers against Cote…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "National",
-        "Afcon 2027",
-        "Black Stars",
-        "Jonas Adjetey"
-      ],
-      "image": null,
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s MSMEs: Burdened by regulation and overtaxed; why the system isn’t working",
-      "link": "https://www.myjoyonline.com/ghanas-msmes-burdened-by-regulation-and-overtaxed-why-the-system-isnt-working/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T23:03:17.000Z",
-      "summary": "Ghana’s MSMEs face a profound policy paradox: while tax reforms at the national level have been unprecedented in ambition, the fragmented and opaque regulatory enforcement at the municipal…",
-      "categories": [
-        "Business",
-        "HP Opinion 2",
-        "National",
-        "Ghana",
-        "MSME"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-107.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Patience Akyianu, former Barclays Bank Ghana MD and Hollard Group CEO, reported dead",
-      "link": "https://www.myjoyonline.com/patience-akyianu-former-barclays-bank-ghana-md-and-hollard-group-ceo-reported-dead/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T22:57:38.000Z",
-      "summary": "The former Managing Director of Barclays Bank Ghana and Group Chief Executive Officer of Hollard Ghana, Patience Enyonam Akyianu, has reportedly passed away. Her reported death marks the…",
-      "categories": [
-        "Business",
-        "HP Business 1",
-        "National",
-        "News",
-        "Top Story",
-        "Barclays Bank",
-        "Hollard",
-        "Patience Akyianu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-106.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama pushes ‘health sovereignty’ agenda, says Global South needs control over resources",
-      "link": "https://www.myjoyonline.com/mahama-pushes-health-sovereignty-agenda-says-global-south-needs-control-over-resources/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T22:47:44.000Z",
-      "summary": "President John Dramani Mahama has called for a fundamental shift in the way global health cooperation is structured, insisting that countries in the Global South cannot truly own their…",
-      "categories": [
-        "Health",
-        "HP News 6",
-        "National",
-        "News",
-        "Global South",
-        "John Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-104.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama: We are reforming systems, fighting corruption and improving use of public funds",
-      "link": "https://www.myjoyonline.com/mahama-we-are-reforming-systems-fighting-corruption-and-improving-use-of-public-funds/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T22:42:12.000Z",
-      "summary": "President John Dramani Mahama says his administration is reforming Ghana’s governance systems to strengthen accountability, fight corruption and ensure public resources are used more…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "Corruption",
-        "John Mahama",
-        "Public funds"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-104.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Catholic Bishops welcome task force to tackle drug menace, acknowledge inter-agency efforts",
-      "link": "https://www.myjoyonline.com/catholic-bishops-welcome-task-force-to-tackle-drug-menace-acknowledge-inter-agency-efforts/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T22:33:13.000Z",
-      "summary": "The Ghana Catholic Bishops’ Conference has welcomed President John Dramani Mahama’s decision to establish an inter-agency task force to tackle the movement of narcotic drugs through the…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "Catholic Bishops",
-        "Drug",
-        "NACOC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-102-1024x512.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PAG urges economic self-reliance on Nkrumah's 117th birthday",
-      "link": "https://www.graphic.com.gh/news/politics/pag-urges-economic-self-reliance-on-nkrumahs-117th-birthday.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-21T14:16:22.000Z",
-      "summary": "The Progressive Alliance for Ghana (PAG) has called for a fundamental transformation of the country's economy, with particular emphasis on youth enterprise, cooperative ownership, value…",
-      "categories": [
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ahafo Ano South West DCE Abubakar Sedik is dead",
-      "link": "https://www.graphic.com.gh/news/politics/ahafo-ano-south-west-dce-is-dead.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-21T09:37:11.000Z",
-      "summary": "The District Chief Executive for Ahafo Ano South West in the Ashanti Region, Abubakar Sedik is dead.",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/21/dce2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Jehovah's Witnesses keep whole blood ban but allow personal choice on components",
-      "link": "https://www.graphic.com.gh/news/general-news/jehovahs-witnesses-keep-whole-blood-ban-but-allow-personal-choice-on-components.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-20T13:43:41.000Z",
-      "summary": "The Governing Body of Jehovah's Witnesses has announced that the decision to accept red cells, white cells, plasma or platelets from another person's blood is now a matter of personal…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/07/JW26.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Allotey dominates Garcia to win WBA world title eliminator",
@@ -242,18 +396,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "ADB Ghana Medicals supports $100m Otumfuo Cancer Centre project in Kumasi",
-      "link": "https://www.graphic.com.gh/news/re-project.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T17:07:41.000Z",
-      "summary": "Ghanaian healthcare solutions company, ADB Ghana Medical Systems Group Limited, is undertaking the hospital engineering and infrastructure component of the $100 million Otumfuo Osei Tutu II…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/ADBteam.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Osagyefo Fight Night: Allotey, Garcia on weight for WBA world title eliminator",
       "link": "https://www.graphic.com.gh/sports/sports-news/osagyefo-fight-night-allotey-garcia-on-weight-for-wba-world-title-eliminator.html",
       "source": "Graphic Sports",
@@ -264,18 +406,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/ALLOTEY2.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Upper East: Police retrieve weapons, motorbikes after dismantling robbery gang",
-      "link": "https://www.graphic.com.gh/news/general-news/upper-east-police-retrieve-weapons-motorbikes-after-dismantling-robbery-gang.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T15:25:07.000Z",
-      "summary": "The Upper East Regional Police Command has retrieved weapons and motorbikes following the dismantling of a notorious robbery gang connected to a series of robbery attacks on motorbike…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/items.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Mireku Jnr stars as MTN marks 30 years with golf classic",
@@ -311,42 +441,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/ALLOTEY.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Police intercept truck with 5,164 suspected narcotic parcels in Oti Region",
-      "link": "https://www.graphic.com.gh/news/general-news/police-intercept-truck-with-5-164-suspected-narcotic-parcels-in-oti-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T12:11:21.000Z",
-      "summary": "The Oti Regional Police Command has intercepted a DAF articulator truck with registration number GE 3906-15, suspected to be conveying narcotic substances concealed in secret compartments.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/19/aliu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES warns schools against unauthorised charges for trunks, uniforms, cutlasses",
-      "link": "https://www.graphic.com.gh/news/education/ges-warns-schools-against-unauthorised-charges-for-trunks-uniforms-cutlasses.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T11:36:26.000Z",
-      "summary": "The Ghana Education Service has warned heads of senior high schools against imposing unauthorised charges on parents and guardians, including compelling them to purchase items such as…",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/feb/13/shs_students_report.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "University of Ghana wins 23 medals at 2026 FASU Games in Cairo",
-      "link": "https://www.graphic.com.gh/sports/sports-news/university-of-ghana-wins-23-medals-at-2026-fasu-games-in-cairo.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-19T07:24:32.000Z",
-      "summary": "The University of Ghana has clinched 23 medals at the 12th Federation of African University Sports Games held in Cairo, Egypt, with officials calling for increased support for university…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
