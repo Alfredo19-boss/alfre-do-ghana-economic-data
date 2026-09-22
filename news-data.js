@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-21T22:26:15.540Z",
-  "worldAt": "2026-09-21T22:26:15.538Z",
+  "updated": "2026-09-22T00:59:41.478Z",
+  "worldAt": "2026-09-22T00:59:41.476Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -41,11 +41,25 @@ window.GDC_NEWS = {
     "Africa · AllAfrica Business: 32 stories",
     "Africa · Africanews: 37 stories",
     "Africa · BBC Africa: 28 stories",
-    "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 3 stories",
+    "Africa · Deutsche Welle: 5 stories",
+    "Africa · Al Jazeera: 5 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Ghana’s MSMEs: Burdened by regulation and overtaxed; why the system isn’t working",
+      "link": "https://www.myjoyonline.com/ghanas-msmes-burdened-by-regulation-and-overtaxed-why-the-system-isnt-working/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T23:03:17.000Z",
+      "summary": "Ghana’s MSMEs face a profound policy paradox: while tax reforms at the national level have been unprecedented in ambition, the fragmented and opaque regulatory enforcement at the municipal…"
+    },
+    {
+      "title": "Patience Akyianu, former Barclays Bank Ghana MD and Hollard Group CEO, reported dead",
+      "link": "https://www.myjoyonline.com/patience-akyianu-former-barclays-bank-ghana-md-and-hollard-group-ceo-reported-dead/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T22:57:38.000Z",
+      "summary": "The former Managing Director of Barclays Bank Ghana and Group Chief Executive Officer of Hollard Ghana, Patience Enyonam Akyianu, has reportedly passed away. Her reported death marks the…"
+    },
     {
       "title": "Ghana And Panama Open New Channel For Trade And Sector Cooperation",
       "link": "https://thehighstreetjournal.com/ghana-and-panama-open-new-channel-for-trade-and-sector-cooperation/",
@@ -1081,30 +1095,89 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-17T19:41:54.000Z",
       "summary": "Star Oil is now venturing into the “Bulk Oil Distribution Space” as its subsidiary, SOL Energy, secures a provisional licence from the National Petroleum Authority to operate as a Bulk…"
-    },
-    {
-      "title": "SMEs Can Leverage Sustainability To Attract Investment – Madam Wiafe",
-      "link": "https://thehighstreetjournal.com/smes-can-leverage-sustainability-to-attract-investment-madam-wiafe/",
-      "source": "The High Street Journal",
-      "published": "2026-09-17T18:36:59.000Z",
-      "summary": "Madam Adwoa Wiafe urges SMEs to embed sustainability into operations to improve funding access, attract investors, strengthen customer trust and prepare for emerging ESG reporting…"
-    },
-    {
-      "title": "Afarinick, Meiji deepen partnership to advance sustainable cocoa production",
-      "link": "https://www.myjoyonline.com/afarinick-meiji-deepen-partnership-to-advance-sustainable-cocoa-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-17T18:36:41.000Z",
-      "summary": "Ghanaian-owned farm and agroforestry restoration company, Afarinick Company Limited (ACL), has partnered with Japan’s Meiji Co. Ltd. to develop a sustainable and circular agroforestry cocoa…"
     }
   ],
   "world": [
     {
+      "title": "Here’s what to pay attention to at the UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:36:12.000Z",
+      "summary": "World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains."
+    },
+    {
       "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-21T21:52:32.000Z",
+      "published": "2026-09-22T00:16:06.000Z",
       "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg"
+    },
+    {
+      "title": "Trump returns to the UN, what will he say?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:31:56.000Z",
+      "summary": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims."
+    },
+    {
+      "title": "US, Denmark and Greenland to sign security deal on Tuesday",
+      "link": "https://www.france24.com/en/americas/20260921-us-denmark-and-greenland-to-sign-security-deal-on-tuesday",
+      "source": "France 24",
+      "published": "2026-09-21T23:30:46.000Z",
+      "summary": "The United States, Denmark and Greenland are set to sign a security agreement Tuesday expanding US involvement in Greenland’s defense while affirming Danish sovereignty over the Arctic…",
+      "image": "https://s.france24.com/media/display/42623fae-94d6-11f1-b3d4-005056bfb2b6/w:1024/p:16x9/000-994M3G3.jpg"
+    },
+    {
+      "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:29:28.000Z",
+      "summary": "British Prime Minister Andy Burnham says he has agreed to a request for 'defensive' air-to-air refuelling of Saudi jets."
+    },
+    {
+      "title": "Paramount settles with US states to clear Warner Bros. mega-merger",
+      "link": "https://www.france24.com/en/video/20260921-paramount-settles-with-us-states-to-clear-warner-bros-mega-merger",
+      "source": "France 24",
+      "published": "2026-09-21T23:07:14.000Z",
+      "summary": "Paramount has reached a settlement with a group of US states that clears the way for its takeover of Warner Bros. Discovery, officials announced Monday, creating a Hollywood empire spanning…",
+      "image": "https://s.france24.com/media/display/7d117c5e-b610-11f1-90c1-d382746d948a/w:1024/p:16x9/capture-10965374426ab1b77789cdb1-95808430.jpg"
+    },
+    {
+      "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
+      "link": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:09:59.000Z",
+      "summary": "Storm is moving northeast away from Japan's eastern coast into the Pacific, leaving a path of destruction behind."
+    },
+    {
+      "title": "Paramount settles with US states, clearing path for Warner Bros. merger",
+      "link": "https://www.france24.com/en/americas/20260921-paramount-settles-with-us-states-clearing-path-for-warner-bros-merger",
+      "source": "France 24",
+      "published": "2026-09-21T22:48:23.000Z",
+      "summary": "Paramount has reached a settlement with California and 11 other states that clears a major legal hurdle to its $110 billion takeover of Warner Bros. Discovery, with the deal imposing…",
+      "image": "https://s.france24.com/media/display/ca174cbc-1391-11f1-9093-005056a90284/w:1024/p:16x9/AP26058003516764.jpg"
+    },
+    {
+      "title": "Morocco’s youth take Gen Z protest demands to the polls",
+      "link": "https://www.aljazeera.com/news/2026/9/22/moroccos-youth-take-gen-z-protest-demands-to-the-polls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:07:42.000Z",
+      "summary": "Young candidates hope the election can turn youth frustration into political participation."
+    },
+    {
+      "title": "Soaring living costs have many Nigerian couples rethinking the lavish wedding tradition",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5909146/soaring-living-costs-have-many-nigerian-couples-rethinking-the-lavish-wedding-tradition",
+      "source": "NPR World",
+      "published": "2026-09-21T22:44:05.000Z",
+      "summary": "Nigeria's lavish wedding tradition is colliding with a cost-of-living crisis, forcing young couples to rethink how they say \"I do.\""
+    },
+    {
+      "title": "Mali marks independence amid a worsening security crisis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:02:53.000Z",
+      "summary": "The 66th anniversary comes as armed groups expand their reach and the government struggles to secure key supply routes."
     },
     {
       "title": "AI and autonomous weapons are high on the agenda at the UN General Assembly",
@@ -1114,11 +1187,56 @@ window.GDC_NEWS = {
       "summary": "As world leaders gather for the U.N. General Assembly's annual general debate, Colombia's former president and Nobel Peace Prize laureate discusses the growing risks of autonomous weapons…"
     },
     {
+      "title": "Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:00:00.000Z",
+      "summary": "The IRGC says the US and Israel \"must accept the region's freedom from their vile and criminal presence\"."
+    },
+    {
+      "title": "Ethiopia's main armed groups form anti-government alliance",
+      "link": "https://www.france24.com/en/ethiopia-s-main-armed-groups-form-anti-government-alliance",
+      "source": "France 24",
+      "published": "2026-09-21T21:16:13.000Z",
+      "summary": "In tonight's edition, a coalition of opposition groups band together in the hope of ousting Ethiopian Prime Minister Abiy Ahmed. Also, I speak to the deputy chief of the UN's peacekeeping…",
+      "image": "https://s.france24.com/media/display/b3a17374-b600-11f1-84fc-e554abee39f5/w:1024/p:16x9/DN196930-A-01-20260914.jpg"
+    },
+    {
       "title": "How thousands of migrants stranded in Ceuta are surviving",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-21T21:04:44.000Z",
       "summary": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July."
+    },
+    {
+      "title": "Paramount, US states settle antitrust lawsuit over Warner Bros. acquisition",
+      "link": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition",
+      "source": "France 24",
+      "published": "2026-09-21T21:13:22.000Z",
+      "summary": "Paramount Skydance has settled a lawsuit with a dozen US states that sought to block its acquisition of Warner Brothers, as well as with the Writers Guild of America. California's Attorney…",
+      "image": "https://s.france24.com/media/display/65877814-b600-11f1-89b2-557acd7c815c/w:1024/p:16x9/capture-2083076806ab19c78239ea9-11861395.jpg"
+    },
+    {
+      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+      "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-21T20:57:43.000Z",
+      "summary": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule."
+    },
+    {
+      "title": "Ed Sheeran hit by viral false claims after Macklemore controversy",
+      "link": "https://www.france24.com/en/ed-sheeran-hit-by-viral-false-claims-after-macklemore-controversy-1",
+      "source": "France 24",
+      "published": "2026-09-21T21:05:09.000Z",
+      "summary": "Ed Sheeran’s controversial US tour has sparked a wave of viral rumours. A false claim that his music was removed from Spotify racked up more than 3 million views on X, despite his his music…",
+      "image": "https://s.france24.com/media/display/afe8b04e-b600-11f1-92a7-e554abee39f5/w:1024/p:16x9/capture-13699188246ab19cf4df7d61-47525837.jpg"
+    },
+    {
+      "title": "Trump speech inaudible as US networks boycott White House event",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-21T20:38:51.000Z",
+      "summary": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest."
     },
     {
       "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
@@ -1129,25 +1247,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f73/live/802ac5d0-b5de-11f1-88a2-d7d3c19446bf.jpg"
     },
     {
-      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
-      "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T20:57:43.000Z",
-      "summary": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule."
-    },
-    {
       "title": "Egypt: Compensation paid to familt of Shaimaa Al-Sabbagh",
       "link": "http://www.africanews.com/2026/09/21/egypt-compensation-paid-to-familt-of-shaimaa-al-sabbagh/",
       "source": "Africanews",
       "published": "2026-09-21T20:25:07.000Z",
       "summary": "Over a decade after Shaimaa Al-Sabbagh was shot dead by police, Egypt has paid compensation to the poet and activist’s family. Al-Sabbagh was killed as she laid a wreath in memory of slain…"
-    },
-    {
-      "title": "Trump speech inaudible as US networks boycott White House event",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T20:38:51.000Z",
-      "summary": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest."
     },
     {
       "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
@@ -1288,117 +1392,29 @@ window.GDC_NEWS = {
       "published": "2026-09-21T17:46:24.000Z",
       "summary": "Flavio Bolsonaro is not the only member of his family campaigning in his father’s shadow. The former president's eldest son, who is now polling neck and neck with incumbent President Luiz…",
       "image": "https://s.france24.com/media/display/ad79a5e2-b50c-11f1-b8c1-5b4fdf021577/w:1024/p:16x9/AP25180712083292.jpg"
-    },
-    {
-      "title": "Protesters march on Islamabad over soaring fuel prices",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T17:48:51.000Z",
-      "summary": "Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices."
-    },
-    {
-      "title": "Cameroon: Thousands flee the Far North after Boko Haram attack [Africanews Today]",
-      "link": "http://www.africanews.com/2026/09/21/cameroon-thousands-flee-the-far-north-after-boko-haram-attack-africanews-today/",
-      "source": "Africanews",
-      "published": "2026-09-21T17:13:40.000Z",
-      "summary": "In Cameroon, insecurity is triggering a fresh wave of displacement in the Far North. Following an attack attributed to Boko Haram that left 15 people dead, thousands of residents are…"
-    },
-    {
-      "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
-      "link": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T17:45:40.000Z",
-      "summary": "Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta."
-    },
-    {
-      "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
-      "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-21T17:06:16.000Z",
-      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg"
-    },
-    {
-      "title": "Paramount settles with US states, union to win Warner Bros takeover",
-      "link": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T17:42:24.000Z",
-      "summary": "Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30."
-    },
-    {
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-21T17:02:47.000Z",
-      "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/d7511890-b585-11f1-b2a3-f56f2cdf83e9.jpg"
-    },
-    {
-      "title": "‘Licence to kill:’ French protests decry police use-of-force bill",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T17:38:07.000Z",
-      "summary": "Thousands of protesters across France rallied against a new law they say will give police a \"licence to kill”."
-    },
-    {
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-21T16:54:56.000Z",
-      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf2e/live/a7f43980-b5d8-11f1-8c16-65d8f060d73f.jpg"
-    },
-    {
-      "title": "Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/airplane-makes-miracle-landing-as-typhoon-dujuan-hits-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T17:32:34.000Z",
-      "summary": "A plane landing in Tokyo that one passenger called 'a miracle' ended with applause as Typhoon Dujuan battered Japan."
-    },
-    {
-      "title": "Watch: Timelapse shows typhoon barrelling towards Japan",
-      "link": "https://www.bbc.co.uk/news/videos/cm0j3224p6j8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-21T16:52:12.000Z",
-      "summary": "The typhoon is passing Japan's eastern coast, bringing major disruption and heavy rainfall in its wake.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af02/live/b93c6630-b5d9-11f1-8c16-65d8f060d73f.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T17:19:59.000Z",
-      "summary": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed settler"
-    },
-    {
-      "title": "Police: \"only a matter of time\" before femicide perpetrators brought to justice",
-      "link": "http://www.africanews.com/2026/09/21/police-only-a-matter-of-time-before-femicide-perpetrators-brought-to-justice/",
-      "source": "Africanews",
-      "published": "2026-09-21T16:47:51.000Z",
-      "summary": "Police in South Africa said Monday they have arrested three suspects in connection with one of a series of killings of women in the same area on the outskirts of Johannesburg."
-    },
-    {
-      "title": "How is Europe dealing with ‘hybrid war’?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T17:12:32.000Z",
-      "summary": "European leaders accuse Russia of hybrid warfare."
-    },
-    {
-      "title": "Ceuta: Madrid takes preventie measures amid migration calls",
-      "link": "http://www.africanews.com/2026/09/21/ceuta-madrid-takes-preventie-measures-amid-migration-calls/",
-      "source": "Africanews",
-      "published": "2026-09-21T16:47:51.000Z",
-      "summary": "After a call on social media urging people to cross back to the Spanish exclave of Ceuta, Madrid says it's taking preventive measures."
     }
   ],
   "africa": [
     {
-      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
-      "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+      "title": "Morocco’s youth take Gen Z protest demands to the polls",
+      "link": "https://www.aljazeera.com/news/2026/9/22/moroccos-youth-take-gen-z-protest-demands-to-the-polls?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-21T20:57:43.000Z",
-      "summary": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule."
+      "published": "2026-09-22T00:07:42.000Z",
+      "summary": "Young candidates hope the election can turn youth frustration into political participation."
+    },
+    {
+      "title": "UK: Man charged over suspected role in Rwanda genocide",
+      "link": "https://www.dw.com/en/uk-man-charged-over-suspected-role-in-rwanda-genocide/a-79364493?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-21T21:57:00.000Z",
+      "summary": "The suspect has been accused of directing and inciting acts of murder and genocide carried out by others in Rwanda."
+    },
+    {
+      "title": "Mali marks independence amid a worsening security crisis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T00:02:53.000Z",
+      "summary": "The 66th anniversary comes as armed groups expand their reach and the government struggles to secure key supply routes."
     },
     {
       "title": "Egypt: Compensation paid to familt of Shaimaa Al-Sabbagh",
@@ -1406,6 +1422,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-21T20:25:07.000Z",
       "summary": "Over a decade after Shaimaa Al-Sabbagh was shot dead by police, Egypt has paid compensation to the poet and activist’s family. Al-Sabbagh was killed as she laid a wreath in memory of slain…"
+    },
+    {
+      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+      "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-21T20:57:43.000Z",
+      "summary": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule."
     },
     {
       "title": "Africa: Corporate Council on Africa Announces Côte d'Ivoire as Host of 2027 U.S.-Africa Business Summit",
@@ -1654,27 +1677,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-21T13:29:43.000Z",
       "summary": "[Scrolla] Registered lenders in South Africa are capped at 5% interest a month, but mashonisas often charge 30 to 50 percent. It is a crime for a lender to hold your ID, bank card or SASSA…"
-    },
-    {
-      "title": "West Africa: Ecowas Competition Authority Calls for Fairer, Integrated Regional Markets",
-      "link": "https://allafrica.com/stories/202609210464.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-21T12:47:17.000Z",
-      "summary": "[Liberian Observer] The ECOWAS Regional Competition Authority (ERCA) has called for stronger efforts to promote fair competition and deeper market integration across West Africa…"
-    },
-    {
-      "title": "Kenya: No, Viral Video Doesn't Show Arson Attack On Migrants' Property in Kenya",
-      "link": "https://allafrica.com/stories/202609210561.html",
-      "source": "AllAfrica",
-      "published": "2026-09-21T13:24:39.000Z",
-      "summary": "[Africa Check] No, viral video doesn't show arson attack on migrants' property in Kenya"
-    },
-    {
-      "title": "Why do Sudan’s humanitarian truces keep failing and who is to blame?",
-      "link": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T11:22:40.000Z",
-      "summary": "Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories."
     }
   ]
 };

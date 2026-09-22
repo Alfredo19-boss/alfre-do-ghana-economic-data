@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-21T22:26:30.545Z",
+  "updated": "2026-09-22T00:59:56.217Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,132 +21,152 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Tamale: 5 arrested over suspected drug activities; police seize pistols, narcotics",
-      "link": "https://www.myjoyonline.com/tamale-5-arrested-over-suspected-drug-activities-police-seize-pistols-narcotics/",
+      "title": "Prof. Kwofie urges publishers to use indigenous knowledge systems to decolonise AI",
+      "link": "https://www.myjoyonline.com/prof-kwofie-urges-publishers-to-use-indigenous-knowledge-systems-to-decolonise-ai/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T22:18:01.000Z",
-      "summary": "The Northern Regional Police Command has arrested five persons and seized firearms, ammunition, suspected narcotics and other items during an intelligence-led operation at the Tamale Aboabo…",
+      "published": "2026-09-21T23:44:44.000Z",
+      "summary": "The Director of the Institute of Applied Science and Technology at the University of Ghana, Prof. Samuel Kojo Kwofie, has called for the integration of indigenous knowledge systems into…",
       "categories": [
-        "HP News 1",
+        "Books",
         "National",
-        "Drugs",
-        "Police",
-        "Tamale"
+        "AI",
+        "Prof. Samuel Kojo Kwofie",
+        "publishers"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-25-1024x512.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2842-1024x668.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "We have lost a great developer – Mankranso residents pay tribute to late DCE",
-      "link": "https://www.myjoyonline.com/we-have-lost-a-great-developer-mankranso-residents-pay-tribute-to-late-dce/",
+      "title": "NDC’s two years of economic gains not enough to establish stability – Alan Kyerematen",
+      "link": "https://www.myjoyonline.com/ndcs-two-years-of-economic-gains-not-enough-to-establish-stability-alan-kyerematen/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T22:16:03.000Z",
-      "summary": "Residents of Mankranso in the Ahafo Ano South West District of the Ashanti Region have described their late District Chief Executive (DCE), Abubakar Sedik, as a great developer whose…",
+      "published": "2026-09-21T23:35:56.000Z",
+      "summary": "United Party founder and leader Alan Kyerematen says Ghana’s recent macroeconomic gains cannot yet be described as sustained economic stability, arguing that a much longer period of growth…",
       "categories": [
-        "National",
-        "Regional",
-        "DCE",
-        "Developer",
-        "Mankranso residents"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2834.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Law Society sets September 30 for maiden Bar Conference on legal reforms",
-      "link": "https://www.myjoyonline.com/ghana-law-society-sets-september-30-for-maiden-bar-conference-on-legal-reforms/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T21:52:33.000Z",
-      "summary": "The Ghana Law Society (GLS) has announced Wednesday, September 30, 2026, for its maiden Annual Bar Conference.",
-      "categories": [
+        "HP News 7",
         "National",
         "News",
-        "Bar Conference",
-        "Ghana Law Society (GLS)",
-        "Legal reforms"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260921-WA0019-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL Week 3: Port City’s Gyetuah bags a brace as 9 outstanding players named NASCO Players of the Match",
-      "link": "https://www.myjoyonline.com/gpl-week-3-port-citys-gyetuah-bags-a-brace-as-9-outstanding-players-named-nasco-players-of-the-match/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T21:37:30.000Z",
-      "summary": "Nine outstanding players were once again, named NASCO Man of the Match winners for Matchweek 3 of the 2026/27 Ghana Premier League, following an action-packed weekend that produced 19 goals…",
-      "categories": [
-        "Football",
-        "HP Sports 5",
-        "Ghana Premier League",
-        "NASCO",
-        "Port city"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260921-WA0083-819x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Visibility without substance is just noise; I don’t seek popularity—Dr Oppong-Fosu",
-      "link": "https://www.myjoyonline.com/visibility-without-substance-is-just-noise-i-dont-seek-popularity-dr-oppong-fosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T21:31:14.000Z",
-      "summary": "National Chairman hopeful of the National Democratic Congress (NDC), Dr Akwasi Oppong-Fosu, has rejected suggestions that his decision to contest the party’s leadership race is motivated by…",
-      "categories": [
-        "HP News 9",
-        "National",
         "Politics",
-        "Noise",
-        "Oppong-Fosu",
-        "Popularity",
-        "Visibility"
+        "Alan Kyerematen",
+        "economic stability",
+        "NDC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2833.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/alan-2.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The late Abubakar Sedik was an exceptional DCE – Ashanti Regional Minister",
-      "link": "https://www.myjoyonline.com/the-late-abubakar-sedik-was-an-exceptional-dce-ashanti-regional-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T21:17:36.000Z",
-      "summary": "The Ashanti Regional Minister, Dr. Frank Amoakohene, has described the late District Chief Executive (DCE) for Ahafo Ano South West, Abubakar Sedik, as an exceptional and hardworking…",
+      "title": "Save Nations Foundation donates exercise books to Nooria Islamic Basic School",
+      "link": "https://www.graphic.com.gh/news/general-news/save-nations-foundation-donates-exercise-books-to-nooria-islamic-basic-school.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-21T23:26:41.000Z",
+      "summary": "Save Nations Foundation, a non-governmental organisation, has donated exercise books to Nooria Islamic Basic School in Accra as part of sustained efforts to promote quality education and…",
       "categories": [
-        "HP News 10",
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AFCON 2027Q: Nine new call-up for Cote, The Gambia matches",
+      "link": "https://www.myjoyonline.com/afcon-2027q-nine-new-call-up-for-cote-the-gambia-matches/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T23:16:00.000Z",
+      "summary": "Following medical uncertainties presented by some players, Black Stars Head Coach Carlos Queiroz has made additions to the squad for the 2027 Africa Cup of Nations qualifiers against Cote…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
         "National",
-        "Adubakar Sedik",
-        "Ashanti Regional Minister"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2837-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Stars must win next game against Côte d’Ivoire – Carlos Queiroz",
-      "link": "https://www.myjoyonline.com/black-stars-must-win-next-game-against-cote-divoire-carlos-queiroz/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T20:32:03.000Z",
-      "summary": "Black Stars head coach Carlos Queiroz says winning the next game is Ghana’s immediate priority as they begin their 2027 Africa Cup of Nations qualifying campaign.",
-      "categories": [
-        "Football",
-        "Sports",
-        "AFCON Qualifiers",
+        "Afcon 2027",
         "Black Stars",
-        "Carlos Quiroz",
-        "Côte d’Ivoire"
+        "Jonas Adjetey"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/0dbe2024-1185-463b-9659-155a3e6fe76c.jpg-1.jpg",
+      "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Global Game Scouting Tournament set for September 25 kick-off in Accra",
-      "link": "https://www.myjoyonline.com/global-game-scouting-tournament-set-for-september-25-kick-off-in-accra/",
+      "title": "Ghana’s MSMEs: Burdened by regulation and overtaxed; why the system isn’t working",
+      "link": "https://www.myjoyonline.com/ghanas-msmes-burdened-by-regulation-and-overtaxed-why-the-system-isnt-working/",
       "source": "MyJoyOnline",
-      "published": "2026-09-21T20:09:22.000Z",
-      "summary": "The Global Game Scouting Tournament is entering its final days of preparations ahead of its September 25-26 staging at the McDan Sports Complex in Labadi.",
+      "published": "2026-09-21T23:03:17.000Z",
+      "summary": "Ghana’s MSMEs face a profound policy paradox: while tax reforms at the national level have been unprecedented in ambition, the fragmented and opaque regulatory enforcement at the municipal…",
       "categories": [
-        "Football",
-        "Sports",
-        "ExcelsiorPro",
-        "Global Game Scouting Tournament"
+        "Business",
+        "HP Opinion 2",
+        "National",
+        "Ghana",
+        "MSME"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GLOBAL-GAME-SCOUTING-TOURNAMENT_EXCELSIORPRO-e1790021429888.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-107.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Patience Akyianu, former Barclays Bank Ghana MD and Hollard Group CEO, reported dead",
+      "link": "https://www.myjoyonline.com/patience-akyianu-former-barclays-bank-ghana-md-and-hollard-group-ceo-reported-dead/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T22:57:38.000Z",
+      "summary": "The former Managing Director of Barclays Bank Ghana and Group Chief Executive Officer of Hollard Ghana, Patience Enyonam Akyianu, has reportedly passed away. Her reported death marks the…",
+      "categories": [
+        "Business",
+        "HP Business 1",
+        "National",
+        "News",
+        "Top Story",
+        "Barclays Bank",
+        "Hollard",
+        "Patience Akyianu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-106.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama pushes ‘health sovereignty’ agenda, says Global South needs control over resources",
+      "link": "https://www.myjoyonline.com/mahama-pushes-health-sovereignty-agenda-says-global-south-needs-control-over-resources/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T22:47:44.000Z",
+      "summary": "President John Dramani Mahama has called for a fundamental shift in the way global health cooperation is structured, insisting that countries in the Global South cannot truly own their…",
+      "categories": [
+        "Health",
+        "HP News 6",
+        "National",
+        "News",
+        "Global South",
+        "John Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-104.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama: We are reforming systems, fighting corruption and improving use of public funds",
+      "link": "https://www.myjoyonline.com/mahama-we-are-reforming-systems-fighting-corruption-and-improving-use-of-public-funds/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T22:42:12.000Z",
+      "summary": "President John Dramani Mahama says his administration is reforming Ghana’s governance systems to strengthen accountability, fight corruption and ensure public resources are used more…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "Corruption",
+        "John Mahama",
+        "Public funds"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-104.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Catholic Bishops welcome task force to tackle drug menace, acknowledge inter-agency efforts",
+      "link": "https://www.myjoyonline.com/catholic-bishops-welcome-task-force-to-tackle-drug-menace-acknowledge-inter-agency-efforts/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-21T22:33:13.000Z",
+      "summary": "The Ghana Catholic Bishops’ Conference has welcomed President John Dramani Mahama’s decision to establish an inter-agency task force to tackle the movement of narcotic drugs through the…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "News",
+        "Catholic Bishops",
+        "Drug",
+        "NACOC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-102-1024x512.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -303,18 +323,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "image": "https://www.graphic.com.gh/images/2023/feb/13/shs_students_report.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES directs schools to stop rejecting students over metal trunks, chop boxes",
-      "link": "https://www.graphic.com.gh/news/education/ges-directs-schools-to-stop-rejecting-students-over-metal-trunks-chop-boxes.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-19T11:21:39.000Z",
-      "summary": "The Ghana Education Service has directed heads of senior high and technical schools to stop turning away or refusing accommodation to duly admitted students solely because they report to…",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2017/september/13/freeshs.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
