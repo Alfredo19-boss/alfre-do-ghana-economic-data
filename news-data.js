@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-22T15:04:15.104Z",
-  "worldAt": "2026-09-22T15:04:15.101Z",
+  "updated": "2026-09-22T15:29:57.405Z",
+  "worldAt": "2026-09-22T15:29:57.402Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -46,6 +46,20 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "$543,000 in Counterfeit Notes Seized as Four Printing Hubs Dismantled, 16 Arrested",
+      "link": "https://thehighstreetjournal.com/543000-in-counterfeit-notes-seized/",
+      "source": "The High Street Journal",
+      "published": "2026-09-22T15:18:35.000Z",
+      "summary": "Security agencies seize printing machines, vehicles and counterfeit notes in intelligence-led operations across Greater Accra"
+    },
+    {
+      "title": "Mahama: MiDA is Ghana’s gateway to global philanthropy",
+      "link": "https://www.myjoyonline.com/mahama-mida-is-ghanas-gateway-to-global-philanthropy/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T15:03:24.000Z",
+      "summary": "The President made the remarks during a courtesy call by Alex Soros, Chairman of the Open Society Foundations (OSF), in New York, as Ghana intensifies engagement with global philanthropic…"
+    },
     {
       "title": "Limited Cross-Border Movement Could Slow Africa’s Health Industrial Push",
       "link": "https://thehighstreetjournal.com/limited-cross-border-movement-could-slow-africas-health-industrial-push/",
@@ -1081,37 +1095,46 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-18T13:23:13.000Z",
       "summary": "The Ministry of Food and Agriculture has launched Phase I of a major initiative aimed at boosting local tomato production and reducing Ghana’s dependence on imported tomatoes."
-    },
-    {
-      "title": "President Mahama commissions Zonda Tec’s newest vehicle Assembly plant",
-      "link": "https://www.myjoyonline.com/president-mahama-commissions-zonda-tecs-newest-vehicle-assembly-plant/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T12:30:00.000Z",
-      "summary": "President John Dramani Mahama has officially commissioned Zonda Tec Ghana Limited’s newest vehicle assembly plant, marking another significant development in Ghana’s growing automotive…"
-    },
-    {
-      "title": "Explainer: Can Ghana’s new oil deals reverse years of declining production?",
-      "link": "https://www.myjoyonline.com/explainer-can-ghanas-new-oil-deals-reverse-years-of-declining-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T12:14:51.000Z",
-      "summary": "For years, Ghana’s oil industry was seen as one of the country’s biggest economic success stories. Commercial production began in 2010 after the discovery of the Jubilee Field, and output…"
     }
   ],
   "world": [
+    {
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T15:17:37.000Z",
+      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ec/live/9312ec00-b691-11f1-99b0-21d40bed432b.jpg"
+    },
+    {
+      "title": "Syrian man reunited with secret library hidden for 15 years",
+      "link": "https://www.france24.com/en/video/20260922-syrian-man-reunited-with-secret-library-hidden-for-15-years",
+      "source": "France 24",
+      "published": "2026-09-22T15:15:25.000Z",
+      "summary": "A Syrian man has been reunited with his collection of over 100 Islamic texts, science books and poems,15 years after sealing the collection behind a wall. Mustafa Khaled Alwan had built to…",
+      "image": "https://s.france24.com/media/display/65d9509c-b693-11f1-bf36-1d61c7110e09/w:1024/p:16x9/EN-20260922-162308-162452-CS.jpg"
+    },
+    {
+      "title": "What’s behind French protests against a new police bill?",
+      "link": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T15:01:19.000Z",
+      "summary": "Critics say controversial law will give police officers a 'licence to kill'."
+    },
     {
       "title": "Lady Diana: Spencer’s memoir on Diana reignites royal controversy",
       "link": "https://www.france24.com/en/video/20260922-lady-diana-spencer-s-memoir-on-diana-reignites-royal-controversy",
       "source": "France 24",
       "published": "2026-09-22T14:59:41.000Z",
-      "summary": "Prince Charles married with Lady Diana in 1981. The couple divorced in 1996 and a decade later Charles married Camilla Parker Bowles, now Queen Camilla. Spencer has long clashed with the…"
+      "summary": "Prince Charles married with Lady Diana in 1981. The couple divorced in 1996 and a decade later Charles married Camilla Parker Bowles, now Queen Camilla. Spencer has long clashed with the…",
+      "image": "https://s.france24.com/media/display/d0e968ea-b698-11f1-9d00-557acd7c815c/w:1024/p:16x9/Lady-Diana-thumbnail.jpg"
     },
     {
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T14:57:37.000Z",
-      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ec/live/9312ec00-b691-11f1-99b0-21d40bed432b.jpg"
+      "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
+      "link": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T14:47:25.000Z",
+      "summary": "Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes."
     },
     {
       "title": "UN climate change body accused of conflict of interest, Saudi influence",
@@ -1188,7 +1211,7 @@ window.GDC_NEWS = {
       "summary": "The Spangdahlem Air Base is located in the German state of Rhineland-Palatinate. Local authorities said that first responders were helping at the scene but that they could only comment in a…"
     },
     {
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies",
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
       "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-09-22T14:16:42.000Z",
@@ -1375,31 +1398,37 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-09-22T13:05:30.000Z",
       "summary": "India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan."
-    },
-    {
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T12:54:14.000Z",
-      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg"
-    },
-    {
-      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
-      "link": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T12:58:29.000Z",
-      "summary": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says."
-    },
-    {
-      "title": "Ruto pushes for global finance reforms at summit for multilateralism",
-      "link": "http://www.africanews.com/2026/09/22/ruto-pushes-for-global-finance-reforms-at-summit-for-multilateralism/",
-      "source": "Africanews",
-      "published": "2026-09-22T12:42:45.000Z",
-      "summary": "The meeting discussed how conflicts as well as emerging global challenges such as climate change and artificial intelligence are increasing pressure on multilateralism"
     }
   ],
   "africa": [
+    {
+      "title": "Kenya: Uda Hits Back At Uhuru Over Raila's 2022 Election Claim",
+      "link": "https://allafrica.com/stories/202609220374.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T15:04:16.000Z",
+      "summary": "[Capital FM] Nairobi -- UDA has hit back at retired President Uhuru Kenyatta after he said he still believes the late Raila Odinga won the 2022 presidential election."
+    },
+    {
+      "title": "Nigeria: Nepza Threatens Sanctions Over Illegal Container Imports",
+      "link": "https://allafrica.com/stories/202609220372.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-22T15:02:37.000Z",
+      "summary": "[Leadership] The Nigeria Export Processing Zones Authority (NEPZA) has announced tighter enforcement against the alleged illegal importation of containers into Free Trade Zones, warning…"
+    },
+    {
+      "title": "Ethiopia: Ethiopia, U.S. Agree to Deepen Peace and Economic Ties",
+      "link": "https://allafrica.com/stories/202609220373.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T15:03:33.000Z",
+      "summary": "[Reporter] Ethiopia and the United States have agreed to expand cooperation on regional peace and security while working to strengthen bilateral economic and trade relations, according to…"
+    },
+    {
+      "title": "Nigeria: Power Minister Admits Nigerians Still Lack Reliable Electricity",
+      "link": "https://allafrica.com/stories/202609220370.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-22T15:01:33.000Z",
+      "summary": "[Leadership] The Minister of Power, Joseph Tegbe, has admitted that many Nigerians are still without reliable electricity despite ongoing efforts by the Federal Government to improve power…"
+    },
     {
       "title": "South Africa: Application Period for Special Votes Opens",
       "link": "https://allafrica.com/stories/202609220363.html",
@@ -1408,11 +1437,11 @@ window.GDC_NEWS = {
       "summary": "[SAnews.gov.za] The Electoral Commission of South Africa (IEC) has opened applications for Special Votes for the upcoming Local Government Elections."
     },
     {
-      "title": "South Africa: Poor Households Spend Two-Thirds of Their Money On Just Food and Rent",
-      "link": "https://allafrica.com/stories/202609220361.html",
+      "title": "Zimbabwe: Zimpapers Sacks Capitalk's Pathisani, Star FM Boss Yvonne Tivatye As Retrenchments Commence",
+      "link": "https://allafrica.com/stories/202609220369.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:51:00.000Z",
-      "summary": "[Scrolla] For every R100 a poor household earns, almost R67 goes straight to food and housing, before anything else is paid for. Electricity, water, petrol and taxi fares have all gone up…"
+      "published": "2026-09-22T15:00:58.000Z",
+      "summary": "[New Zimbabwe] ZIMPAPERS has fired popular Capitalk FM presenter Pathisani Sibanda and Star FM station manager Yvonne Tivatye as retrenchments commence."
     },
     {
       "title": "South Africa: Micah Reddy Has Been Released and Is On His Way Home",
@@ -1422,11 +1451,11 @@ window.GDC_NEWS = {
       "summary": "[GroundUp] Kooki Mahmoud has also been freed by Djiboutian authorities"
     },
     {
-      "title": "Kenya: DP Kindiki - Final Preparations Underway for Lamu Refinery Groundbreaking Next Wednesday",
-      "link": "https://allafrica.com/stories/202609220360.html",
+      "title": "South Africa: Poor Households Spend Two-Thirds of Their Money On Just Food and Rent",
+      "link": "https://allafrica.com/stories/202609220361.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:49:58.000Z",
-      "summary": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki says final preparations are underway for the groundbreaking ceremony of the proposed Lamu Oil Refinery next Wednesday."
+      "published": "2026-09-22T14:51:00.000Z",
+      "summary": "[Scrolla] For every R100 a poor household earns, almost R67 goes straight to food and housing, before anything else is paid for. Electricity, water, petrol and taxi fares have all gone up…"
     },
     {
       "title": "Nigeria: Couple, Three Children Die As Head Tank Falls On Building in Enugu",
@@ -1436,14 +1465,14 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] The incident, PREMIUM TIMES gathered, occurred in Nenwenta, a community in Awgu Local Government Area of the state."
     },
     {
-      "title": "Mozambique: Chapo Invites Brazilian Companies to Invest in Gas Sector",
-      "link": "https://allafrica.com/stories/202609220351.html",
+      "title": "Kenya: DP Kindiki - Final Preparations Underway for Lamu Refinery Groundbreaking Next Wednesday",
+      "link": "https://allafrica.com/stories/202609220360.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:45:15.000Z",
-      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo has invited Brazilian investors and companies to participate in the \"new phase of development for Mozambique's oil and gas sector.\""
+      "published": "2026-09-22T14:49:58.000Z",
+      "summary": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki says final preparations are underway for the groundbreaking ceremony of the proposed Lamu Oil Refinery next Wednesday."
     },
     {
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies",
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
       "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published": "2026-09-22T14:16:42.000Z",
@@ -1451,11 +1480,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad0a/live/3ed1e8e0-b67c-11f1-ba87-73dd9416d9df.png"
     },
     {
-      "title": "Mozambique: Motorcycle Taxi Drivers Protest Against Fuel Shortage in Nampula",
-      "link": "https://allafrica.com/stories/202609220349.html",
+      "title": "Mozambique: Chapo Invites Brazilian Companies to Invest in Gas Sector",
+      "link": "https://allafrica.com/stories/202609220351.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:44:01.000Z",
-      "summary": "[AIM] Maputo -- Hundreds of motorcycle taxi drivers on Monday protested against fuel shortage in the northern Mozambican province of Nampula."
+      "published": "2026-09-22T14:45:15.000Z",
+      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo has invited Brazilian investors and companies to participate in the \"new phase of development for Mozambique's oil and gas sector.\""
     },
     {
       "title": "DR Congo to probe violence, death of protestor at anti-govt rally",
@@ -1465,11 +1494,11 @@ window.GDC_NEWS = {
       "summary": "The C64 movement had called for a day of protest against a planned constitutional change that could allow 63-year-old President Felix Tshisekedi to seek a third five-year term in office"
     },
     {
-      "title": "South Africa: Local Companies to Be Asked to Make Foot-and-Mouth Disease Vaccines",
-      "link": "https://allafrica.com/stories/202609220347.html",
+      "title": "Mozambique: Motorcycle Taxi Drivers Protest Against Fuel Shortage in Nampula",
+      "link": "https://allafrica.com/stories/202609220349.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:43:42.000Z",
-      "summary": "[GroundUp] Agricultural Research Council cannot meet demand, Minister of Agriculture tells Parliament"
+      "published": "2026-09-22T14:44:01.000Z",
+      "summary": "[AIM] Maputo -- Hundreds of motorcycle taxi drivers on Monday protested against fuel shortage in the northern Mozambican province of Nampula."
     },
     {
       "title": "US to return $2.5 million to The Gambia after sale of ex-president Jammeh's mansion",
@@ -1479,11 +1508,11 @@ window.GDC_NEWS = {
       "summary": "The United States has agreed to return 2.5 million dollars to The Gambia - the proceeds of the sale of a property belonging to the country’s former president Yahya Jammeh."
     },
     {
-      "title": "Africa: WHO, CJID Begin Development of Africa's First Road Safety Media Guidelines",
-      "link": "https://allafrica.com/stories/202609220344.html",
+      "title": "South Africa: Local Companies to Be Asked to Make Foot-and-Mouth Disease Vaccines",
+      "link": "https://allafrica.com/stories/202609220347.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:40:42.000Z",
-      "summary": "[Premium Times] The region accounts for about one-fifth of global road fatalities despite having only three per cent of the world's registered vehicles"
+      "published": "2026-09-22T14:43:42.000Z",
+      "summary": "[GroundUp] Agricultural Research Council cannot meet demand, Minister of Agriculture tells Parliament"
     },
     {
       "title": "Libya oil production hit after armed group shuts pipeline valve",
@@ -1493,11 +1522,11 @@ window.GDC_NEWS = {
       "summary": "An unnamed armed group shut a valve on a pipeline from a major Libyan oil field, causing a drop in production, the National Oil Corporation (NOC) said late Monday."
     },
     {
-      "title": "Nigeria: Central Bank Cuts Interest Rate",
-      "link": "https://allafrica.com/stories/202609220342.html",
+      "title": "Africa: WHO, CJID Begin Development of Africa's First Road Safety Media Guidelines",
+      "link": "https://allafrica.com/stories/202609220344.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:39:13.000Z",
-      "summary": "[Premium Times] \"It emphasised that the recalibration of the corridor does not constitute a change in the current monetary policy stance, but rather an operational reset to enhance the…"
+      "published": "2026-09-22T14:40:42.000Z",
+      "summary": "[Premium Times] The region accounts for about one-fifth of global road fatalities despite having only three per cent of the world's registered vehicles"
     },
     {
       "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
@@ -1507,11 +1536,11 @@ window.GDC_NEWS = {
       "summary": "No group claims responsibility for attack, but suspicion falls on ISIL affiliate."
     },
     {
-      "title": "Nigeria: NMDPRA Unveils New Rules in Bid to Curb Monopoly, Market Abuse in Petroleum Sector",
-      "link": "https://allafrica.com/stories/202609220340.html",
+      "title": "Nigeria: Central Bank Cuts Interest Rate",
+      "link": "https://allafrica.com/stories/202609220342.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:37:49.000Z",
-      "summary": "[Vanguard] The Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) has unveiled proposed regulations aimed at curbing monopoly, abuse of market dominance, collusion…"
+      "published": "2026-09-22T14:39:13.000Z",
+      "summary": "[Premium Times] \"It emphasised that the recalibration of the corridor does not constitute a change in the current monetary policy stance, but rather an operational reset to enhance the…"
     },
     {
       "title": "South African ostriches plucked alive for luxury fashion",
@@ -1521,11 +1550,11 @@ window.GDC_NEWS = {
       "summary": "South African ostrich farms are using mechanical pluckers to remove feathers from living birds destined for major luxury fashion brands in techniques that are cruel and painful, animal…"
     },
     {
-      "title": "Nigeria: JAMB Lifts Ban On SIM Swap, Email Change for Utme Candidates",
-      "link": "https://allafrica.com/stories/202609220336.html",
+      "title": "Nigeria: NMDPRA Unveils New Rules in Bid to Curb Monopoly, Market Abuse in Petroleum Sector",
+      "link": "https://allafrica.com/stories/202609220340.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:09:18.000Z",
-      "summary": "[Leadership] The Joint Admissions and Matriculation Board (JAMB), has lifted its long-standing ban on SIM card swapping and registered email address changes for candidates, introducing a…"
+      "published": "2026-09-22T14:37:49.000Z",
+      "summary": "[Vanguard] The Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) has unveiled proposed regulations aimed at curbing monopoly, abuse of market dominance, collusion…"
     },
     {
       "title": "East Africa: Why the Int'l Community Must Confront TPLF Hardliners & Foreign Spoilers",
@@ -1535,11 +1564,11 @@ window.GDC_NEWS = {
       "summary": "[ENA] The signing of the Pretoria Permanent Cessation of Hostilities Agreement (CoHA) in November 2022 was widely hailed as a watershed moment for Ethiopia. After two years of devastating…"
     },
     {
-      "title": "Nigeria: South Africa Probes Moriel Infrastructure Over Contractor Gradings and State Deals",
-      "link": "https://allafrica.com/stories/202609220333.html",
+      "title": "Nigeria: JAMB Lifts Ban On SIM Swap, Email Change for Utme Candidates",
+      "link": "https://allafrica.com/stories/202609220336.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:09:16.000Z",
-      "summary": "[Leadership] South African authorities have launched separate investigations into Moriel Infrastructure Group's contractor gradings and government contracts following a viral video…"
+      "published": "2026-09-22T14:09:18.000Z",
+      "summary": "[Leadership] The Joint Admissions and Matriculation Board (JAMB), has lifted its long-standing ban on SIM card swapping and registered email address changes for candidates, introducing a…"
     },
     {
       "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
@@ -1549,11 +1578,11 @@ window.GDC_NEWS = {
       "summary": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says."
     },
     {
-      "title": "Liberia: Aml High School Principal Credits Strong Leadership and Quality Teaching for 100 Percent Wassce Success",
-      "link": "https://allafrica.com/stories/202609220304.html",
+      "title": "Nigeria: South Africa Probes Moriel Infrastructure Over Contractor Gradings and State Deals",
+      "link": "https://allafrica.com/stories/202609220333.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T13:08:33.000Z",
-      "summary": "[New Republic] MONROVIA -- Juwle Kumeh, Principal of the ArcelorMittal Liberia High School in Yekepa, Nimba County, is celebrating a remarkable academic achievement after all 41 of the…"
+      "published": "2026-09-22T14:09:16.000Z",
+      "summary": "[Leadership] South African authorities have launched separate investigations into Moriel Infrastructure Group's contractor gradings and government contracts following a viral video…"
     },
     {
       "title": "Kenya: Uhuru Hits Back At Ruto Over Continued Blame",
@@ -1563,11 +1592,11 @@ window.GDC_NEWS = {
       "summary": "[Capital FM] Former President Uhuru Kenyatta has hit back at President William Ruto over what he described as the continued blame being directed at his administration, asking why his name…"
     },
     {
-      "title": "Uganda: Quality Chemicals Calls for Greater Awareness, Access to Sickle Cell Diagnosis and Treatment",
-      "link": "https://allafrica.com/stories/202609220299.html",
+      "title": "Liberia: Aml High School Principal Credits Strong Leadership and Quality Teaching for 100 Percent Wassce Success",
+      "link": "https://allafrica.com/stories/202609220304.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T13:04:12.000Z",
-      "summary": "[Nile Post] Officials at Quality Chemical Industries Limited (QCIL) have called for increased public awareness, early diagnosis and improved access to treatment as Uganda steps up efforts…"
+      "published": "2026-09-22T13:08:33.000Z",
+      "summary": "[New Republic] MONROVIA -- Juwle Kumeh, Principal of the ArcelorMittal Liberia High School in Yekepa, Nimba County, is celebrating a remarkable academic achievement after all 41 of the…"
     },
     {
       "title": "Nigeria: Ignore Fake Newspaper Graphic Claiming Nigerian President Tinubu Said Student Loan Defaulters Face Life Imprisonment",
@@ -1577,11 +1606,11 @@ window.GDC_NEWS = {
       "summary": "[Africa Check] Ignore fake newspaper graphic claiming Nigerian president Tinubu said student loan defaulters face life imprisonment"
     },
     {
-      "title": "Uganda: Prudential Uganda Targets Family Financial Security With Three New Products",
-      "link": "https://allafrica.com/stories/202609220296.html",
+      "title": "Uganda: Quality Chemicals Calls for Greater Awareness, Access to Sickle Cell Diagnosis and Treatment",
+      "link": "https://allafrica.com/stories/202609220299.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T13:03:47.000Z",
-      "summary": "[Nile Post] Prudential Uganda has launched three financial protection and savings products aimed at helping Ugandan families plan for children's education, build long-term wealth and…"
+      "published": "2026-09-22T13:04:12.000Z",
+      "summary": "[Nile Post] Officials at Quality Chemical Industries Limited (QCIL) have called for increased public awareness, early diagnosis and improved access to treatment as Uganda steps up efforts…"
     },
     {
       "title": "Africa: African Development Bank Group and France Deepen Cooperation On Capital Mobilisation and Private-Sector Development",
@@ -1591,11 +1620,11 @@ window.GDC_NEWS = {
       "summary": "[African Development Bank (AfDB)] The African Development Bank Group and France are developing a more integrated approach to financing projects, strengthening delivery and widening…"
     },
     {
-      "title": "Ethiopia: Egyptian Minister's Remarks Reflect Crude Colonial Mentality - Ministry of Water and Energy",
-      "link": "https://allafrica.com/stories/202609220291.html",
+      "title": "Uganda: Prudential Uganda Targets Family Financial Security With Three New Products",
+      "link": "https://allafrica.com/stories/202609220296.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T13:01:51.000Z",
-      "summary": "[ENA] Addis Ababa -- Egyptian Minister of Water Resources and Irrigation recent statement suggesting that Ethiopians lack education is a manifestation of a crude colonial mentality that…"
+      "published": "2026-09-22T13:03:47.000Z",
+      "summary": "[Nile Post] Prudential Uganda has launched three financial protection and savings products aimed at helping Ugandan families plan for children's education, build long-term wealth and…"
     },
     {
       "title": "Africa: All of Africa Today - September 22, 2026",
@@ -1605,11 +1634,11 @@ window.GDC_NEWS = {
       "summary": "[allAfrica] Monrovia -- South Africa Pushes for Permanent African Seat on UN Security Council"
     },
     {
-      "title": "Ethiopia: Ethiopia's Renewable Energy, Ev Transition Attracts Nordic Investment Interest",
-      "link": "https://allafrica.com/stories/202609220289.html",
+      "title": "Ethiopia: Egyptian Minister's Remarks Reflect Crude Colonial Mentality - Ministry of Water and Energy",
+      "link": "https://allafrica.com/stories/202609220291.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T13:00:40.000Z",
-      "summary": "[ENA] Addis Ababa -- Ethiopia's vast renewable energy resources and rapid shift toward electric mobility are drawing growing interest from Nordic investors and technology companies…"
+      "published": "2026-09-22T13:01:51.000Z",
+      "summary": "[ENA] Addis Ababa -- Egyptian Minister of Water Resources and Irrigation recent statement suggesting that Ethiopians lack education is a manifestation of a crude colonial mentality that…"
     },
     {
       "title": "Kenya: Kenyatta Clears Way for New Jubilee Leadership",
@@ -1619,11 +1648,11 @@ window.GDC_NEWS = {
       "summary": "[Capital FM] Nairobi -- Former President Uhuru Kenyatta has formally cleared the way for a leadership transition in the Jubilee Party, asking members to accept former Interior Cabinet…"
     },
     {
-      "title": "Uganda: France Expands Support for Uganda's Green Entrepreneurs",
-      "link": "https://allafrica.com/stories/202609220285.html",
+      "title": "Ethiopia: Ethiopia's Renewable Energy, Ev Transition Attracts Nordic Investment Interest",
+      "link": "https://allafrica.com/stories/202609220289.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T12:58:24.000Z",
-      "summary": "[Independent (Kampala)] Kampala -- France is expanding support for Uganda's women and youth-led green businesses, moving beyond project funding towards a longer-term pipeline intended to…"
+      "published": "2026-09-22T13:00:40.000Z",
+      "summary": "[ENA] Addis Ababa -- Ethiopia's vast renewable energy resources and rapid shift toward electric mobility are drawing growing interest from Nordic investors and technology companies…"
     },
     {
       "title": "Doctor in court to face Rwanda genocide charges in UK first",
@@ -1634,11 +1663,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/6c03b580-b674-11f1-b711-df5e4d50c2fd.jpg"
     },
     {
-      "title": "Nigeria: Opay Marks 8th Anniversary, Reaffirms Commitment to Driving Financial Inclusion in Nigeria",
-      "link": "https://allafrica.com/stories/202609220268.html",
+      "title": "Uganda: France Expands Support for Uganda's Green Entrepreneurs",
+      "link": "https://allafrica.com/stories/202609220285.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T12:55:55.000Z",
-      "summary": "[This Day] Eight years after commencing operations in Nigeria, financial technology company, OPay, has reaffirmed its commitment to using technology to make financial services simpler, more…"
+      "published": "2026-09-22T12:58:24.000Z",
+      "summary": "[Independent (Kampala)] Kampala -- France is expanding support for Uganda's women and youth-led green businesses, moving beyond project funding towards a longer-term pipeline intended to…"
     },
     {
       "title": "Noma: The neglected disease devastating children in northern Nigeria",
@@ -1648,39 +1677,11 @@ window.GDC_NEWS = {
       "summary": "Noma is a rapidly progressing and often fatal infection of the face and mouth. It begins with gum inflammation in malnourished children living in polluted environments and quickly spreads…"
     },
     {
-      "title": "Ghana: NDPC Revives Nation's Infrastructure Plan",
-      "link": "https://allafrica.com/stories/202609220242.html",
+      "title": "Nigeria: Opay Marks 8th Anniversary, Reaffirms Commitment to Driving Financial Inclusion in Nigeria",
+      "link": "https://allafrica.com/stories/202609220268.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T12:47:14.000Z",
-      "summary": "[Ghanaian Times] THE National Development Planning Commission (NDPC) has inaugurated a 26-member Technical Committee to review and update the Ghana Infrastructure Plan (GIP) to provide a…"
-    },
-    {
-      "title": "Nigeria: ADC Questions Who Is in Charge As Tinubu, Shettima Remain Abroad",
-      "link": "https://allafrica.com/stories/202609220095.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T10:46:16.000Z",
-      "summary": "[Premium Times] Mr Abdullahi questioned the constitutional basis for the Secretary to the Government of the Federation, George Akume, continuing to represent the president at official…"
-    },
-    {
-      "title": "Tanzania: Tanesco Upgrades Infrastructure Before El Niño",
-      "link": "https://allafrica.com/stories/202609220231.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T12:43:18.000Z",
-      "summary": "[Daily News] Dar es Salaam -- THE Tanzania Electric Supply Company (TANESCO) has upgraded power infrastructure and deployed emergency response teams nationwide to minimise the impact of El…"
-    },
-    {
-      "title": "Ethiopia: From Global South Solidarity to Economic Power - Transforming India-Ethiopia Ties Beyond Brics",
-      "link": "https://allafrica.com/stories/202609220094.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T10:45:00.000Z",
-      "summary": "[Addis Standard] Addis Abeba -- The most overused phrase in contemporary diplomacy may also be one of its most important: the Global South. It appears in declarations, summits and speeches…"
-    },
-    {
-      "title": "Tanzania: Shares Everyone Is Buying, but No One Is Selling",
-      "link": "https://allafrica.com/stories/202609220230.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T12:42:57.000Z",
-      "summary": "[Daily News] Dar es Salaam -- TANZANIA'S stock market is having the kind of year that attracts headlines."
+      "published": "2026-09-22T12:55:55.000Z",
+      "summary": "[This Day] Eight years after commencing operations in Nigeria, financial technology company, OPay, has reaffirmed its commitment to using technology to make financial services simpler, more…"
     }
   ]
 };

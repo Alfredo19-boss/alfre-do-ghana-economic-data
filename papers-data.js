@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-22T15:04:29.619Z",
+  "updated": "2026-09-22T15:30:14.632Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,128 +25,133 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "NPP alleges illicit drug-processing laboratories operating at Ghana’s main ports",
-      "link": "https://www.myjoyonline.com/npp-alleges-illicit-drug-processing-laboratories-operating-at-ghanas-main-ports/",
+      "title": "Counterfeit currency syndicates used churches to hide printing operations – National Security Council Secretariat",
+      "link": "https://www.myjoyonline.com/counterfeit-currency-syndicates-used-churches-to-hide-printing-operations-national-security-council-secretariat/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:01:32.000Z",
-      "summary": "The National Organiser of the opposition New Patriotic Party (NPP), Henry Nana Boakye, has alleged that laboratories used to process illicit drugs have been established at Ghana’s main…",
+      "published": "2026-09-22T15:24:49.000Z",
+      "summary": "Counterfeit currency syndicates deliberately exploited churches and administrative offices of some religious organisations to conceal their printing operations, the National Security…",
+      "categories": [
+        "Crime",
+        "National",
+        "Churches",
+        "Counterfeit currency",
+        "National Security",
+        "printing"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/black-person-hands-in-suit-pointing-inspecting-and-checking-200-ghanaian-cedi-note-watermark-inspection-of-money-verification-of-paper-currency-not-fake-counterfeit-original-real-png.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP press conference on drug busts should be treated with contempt – NDC",
+      "link": "https://www.myjoyonline.com/npp-press-conference-on-drug-busts-should-be-treated-with-contempt-ndc/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T15:24:32.000Z",
+      "summary": "The Deputy Director of Elections and IT of the National Democratic Congress (NDC), Rashid Tanko-Computer, has called for the New Patriotic Party’s (NPP) recent press conference on drug…",
       "categories": [
         "National",
         "News",
-        "illicit drug-processing",
+        "drug busts",
+        "NDC",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/computer-1024x591.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Don’t abandon working policies because of politics – Asiedu Nketiah",
+      "link": "https://www.myjoyonline.com/dont-abandon-working-policies-because-of-politics-asiedu-nketiah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T15:18:59.000Z",
+      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called for greater policy continuity in Ghana, urging successive governments to improve programmes…",
+      "categories": [
+        "National",
+        "Politics",
+        "Asiedu Nketiah",
+        "Continuity",
+        "Democracy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Johnson-Asiedu-Nketia.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "National Security arrests 16 and seizes millions in counterfeit currency and printing equipment",
+      "link": "https://www.myjoyonline.com/national-security-arrests-16-and-seizes-millions-in-counterfeit-currency-and-printing-equipment/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T15:18:19.000Z",
+      "summary": "The National Security Council Secretariat (NSCS), working with security and intelligence agencies, says it has dismantled four major counterfeit currency printing hubs and arrested 16…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Counterfeit",
+        "Currency",
+        "National Security",
+        "printing equipment"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-41.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP links resurgence of drug trafficking cases to NDC’s return to power",
+      "link": "https://www.myjoyonline.com/npp-links-resurgence-of-drug-trafficking-cases-to-ndcs-return-to-power/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T15:17:27.000Z",
+      "summary": "The National Organiser of the opposition New Patriotic Party (NPP), Henry Nana Boakye, has accused the governing National Democratic Congress (NDC) of having a history of association with…",
+      "categories": [
+        "National",
+        "Cocaine",
+        "drug tracfiking",
+        "illicit drug",
+        "NDC",
         "NPP"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2948-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘A serious country cannot start afresh every four years’ – Asiedu Nketiah",
-      "link": "https://www.myjoyonline.com/a-serious-country-cannot-start-afresh-every-four-years-asiedu-nketiah/",
+      "title": "KGL Foundation and GNPC Foundation partner to expand educational scholarships for Ghanaian students",
+      "link": "https://www.myjoyonline.com/kgl-foundation-and-gnpc-foundation-partner-to-expand-educational-scholarships-for-ghanaian-students/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:01:02.000Z",
-      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has criticised Ghana’s tendency to discontinue or substantially alter development programmes…",
+      "published": "2026-09-22T15:17:21.000Z",
+      "summary": "The KGL Foundation and the GNPC Foundation have entered into a strategic partnership to expand educational opportunities for Ghanaian students, bringing the public and private sector…",
+      "categories": [
+        "National",
+        "GNPC",
+        "KGL"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-2.40.32-PM-1024x731.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asiedu Nketiah urges journalists to report fairly at all times, and not based on politicians’ complaints",
+      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-journalists-to-report-fairly-at-all-times-and-not-based-on-politicians-complaints/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T15:12:53.000Z",
+      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has urged journalists to remain independent and resist allowing complaints from politicians to determine…",
       "categories": [
         "National",
         "Politics",
-        "Democracy",
-        "Ghana",
-        "Johnson Asiedu Nketiah",
-        "Restart"
+        "Asiedu Nketiah",
+        "Bono GJA",
+        "Fair reportage",
+        "Journalists"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Asiedu_Nketiah_portrait.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "National Horticultural Seed Roadmap launched to strengthen Ghana’s vegetable seed sector",
-      "link": "https://www.myjoyonline.com/national-horticultural-seed-roadmap-launched-to-strengthen-ghanas-vegetable-seed-sector/",
+      "title": "Finance Ministry to write off $120m of TOR’s $400m legacy debt – MD reveals",
+      "link": "https://www.myjoyonline.com/finance-ministry-to-write-off-120m-of-tors-400m-legacy-debt-md-reveals/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T14:48:18.000Z",
-      "summary": "The Ministry of Food and Agriculture, in collaboration with the Embassy of the Kingdom of the Netherlands, has launched the National Horticultural Seed Roadmap to strengthen Ghana’s…",
+      "published": "2026-09-22T15:05:30.000Z",
+      "summary": "The Ministry of Finance is set to write off about $120 million of the Tema Oil Refinery’s (TOR) legacy debt as part of efforts to further ease the financial burden on the state-owned…",
       "categories": [
-        "Agribusiness",
-        "National Horticultural Seed Roadmap",
-        "vegetable seed"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1000221859.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP accuses Mahama government of allowing Ghana to become drug transit hub",
-      "link": "https://www.myjoyonline.com/npp-accuses-mahama-government-of-allowing-ghana-to-become-drug-transit-hub/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T14:46:35.000Z",
-      "summary": "The National Organiser of the New Patriotic Party (NPP), Henry Nana Boakye, has alleged that Ghana has become a major transit point for illicit drugs under the administration of President…",
-      "categories": [
+        "HP News 6",
         "National",
-        "News",
-        "Ghana",
-        "Henry Nana Boakye"
+        "Finance Ministry",
+        "MD",
+        "TOR"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/oakye-1024x513.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wontumi Exim Bank case adjourned over amended charge",
-      "link": "https://www.myjoyonline.com/wontumi-exim-bank-case-adjourned-over-amended-charge/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T14:45:01.000Z",
-      "summary": "The Accra High Court has adjourned the GH¢30 million Ghana Export-Import Bank (Exim Bank) case involving the convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP)…",
-      "categories": [
-        "National",
-        "Wontumi Exim Bank"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2947.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Families are going hungry’ – Horse owners, jockeys raise alarm over Race Course demolition",
-      "link": "https://www.myjoyonline.com/families-are-going-hungry-horse-owners-jockeys-raise-alarm-over-race-course-demolition/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T14:42:47.000Z",
-      "summary": "The Race Course was demolished on August 22 in an exercise that the Association says involved about 200 armed men, nine bulldozers and an excavator. The facility was subsequently sealed…",
-      "categories": [
-        "Other Sports",
-        "Sports",
-        "Horse Owners",
-        "Race Course",
-        "Razak Musbau"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/HORSE_RACE.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP demands dismisssal of officials over cocaine busts, accuses Mahama of weak leadership",
-      "link": "https://www.myjoyonline.com/npp-demands-dismisssal-of-officials-over-cocaine-busts-accuses-mahama-of-weak-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T14:28:46.000Z",
-      "summary": "The National Organiser of the New Patriotic Party (NPP), Henry Nana Boakye, has accused President John Dramani Mahama of weak leadership over his handling of recent drug trafficking cases…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Cocaine busts",
-        "Mahama",
-        "NPP",
-        "weak leadership"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-151624-1024x541.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fully mobilise back to Dome-Kitase road this week – Roads Minister directs First Sky Construction",
-      "link": "https://www.myjoyonline.com/fully-mobilise-back-to-dome-kitase-road-this-week-roads-minister-directs-first-sky-construction/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T14:24:51.000Z",
-      "summary": "Roads and Highways Minister, Governs Kwame Agbodza, has directed First Sky Construction to immediately remobilise and return to the abandoned Kwabenya-Berekuso-Kitase road by the close of…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Dome-Kitase road",
-        "First Sky construction",
-        "Roads Minister"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/Governs-Kwame-Agbodza.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2949.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
