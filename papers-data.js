@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-22T19:03:48.790Z",
+  "updated": "2026-09-22T22:00:24.483Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,121 +25,123 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Government tackling drug trafficking head-on – Tanko-Computer assures",
-      "link": "https://www.myjoyonline.com/government-tackling-drug-trafficking-head-on-tanko-computer-assures/",
+      "title": "La Liga chief dismisses Real’s ref conspiracy claims",
+      "link": "https://www.myjoyonline.com/la-liga-chief-dismisses-reals-ref-conspiracy-claims/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T18:47:48.000Z",
-      "summary": "The National Democratic Congress' Deputy Director of Elections and IT, Rashid Tanko-Computer, says the government is tackling drug trafficking head-on and working to address gaps in the…",
+      "published": "2026-09-22T21:41:00.000Z",
+      "summary": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+      "categories": [
+        "Football",
+        "Javier Tebas",
+        "La Liga chief",
+        "Real Madrid"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3002.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMA rejects claims its vessel monitoring system is ineffective",
+      "link": "https://www.myjoyonline.com/gma-rejects-claims-its-vessel-monitoring-system-is-ineffective/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T21:30:14.000Z",
+      "summary": "The Ghana Maritime Authority (GMA) has rejected claims that vessels operating in Ghana’s waters are not being monitored.",
       "categories": [
         "National",
-        "News",
-        "Drug trafficking",
-        "Government",
-        "Rashid Tanko-Computer"
+        "Ghana Maritime Authority (GMA)",
+        "Miracle Aboagye"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/Tanko-Computer-1024x524.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Dennis-Miracles-Aboagye-e1784063898527.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Climate, conflict and the struggle for resources: Why peacebuilding must look beyond the battlefield",
-      "link": "https://www.myjoyonline.com/climate-conflict-and-the-struggle-for-resources-why-peacebuilding-must-look-beyond-the-battlefield/",
+      "title": "I was close to joining Liverpool in 2016 – Mbappe",
+      "link": "https://www.myjoyonline.com/i-was-close-to-joining-liverpool-in-2016-mbappe/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T18:43:39.000Z",
-      "summary": "Climate change is often described as an environmental challenge. But for communities facing drought, floods, declining harvests or water shortages, its consequences are immediate. They…",
-      "categories": [
-        "Opinion",
-        "Climate",
-        "conflict"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-6.20.05-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRAY Network’s Menstrual Health project transforms education in Central and South Tongu",
-      "link": "https://www.myjoyonline.com/gray-networks-menstrual-health-project-transforms-education-in-central-and-south-tongu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T18:34:25.000Z",
-      "summary": "A menstrual hygiene project initiated by GRAY Network has significantly promoted inclusive education in the Central and South Tongu Districts in the Volta Region. The project led to…",
+      "published": "2026-09-22T21:18:00.000Z",
+      "summary": "Kylian Mbappe has revealed how \"close\" he came to joining Liverpool in 2016, saying he went against the advice of his mother who \"fell in love\" with Anfield.",
       "categories": [
         "News",
-        "GRAY Network"
+        "Kylian Mbappe",
+        "Liverpol"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GRAY-NETWORK-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3001.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Green finance goes beyond banks and big corporations to driving climate and environmental solutions – Nanabanyin Addo-Brown",
-      "link": "https://www.myjoyonline.com/green-finance-goes-beyond-banks-and-big-corporations-to-driving-climate-and-environmental-solutions-nanabanyin-addo-brown/",
+      "title": "Ministry of Sports and Recreation holds national validation workshop on National Sports Policy Draft",
+      "link": "https://www.myjoyonline.com/ministry-of-sports-and-recreation-holds-national-validation-workshop-on-national-sports-policy-draft/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T18:31:02.000Z",
-      "summary": "Head of Joy Business, Nanabanyin Addo-Brown, has said green finance should go beyond banks and big corporations to support investments that deliver climate and environmental benefits.",
+      "published": "2026-09-22T21:14:10.000Z",
+      "summary": "The workshop was intended to grant stakeholders an opportunity to review and confirm programmes and strategies collectively identified in the draft document.",
       "categories": [
-        "National",
-        "Climate",
-        "Ecobank",
-        "green finance",
-        "JoyBusiness"
+        "Athletics",
+        "Boxing",
+        "Football",
+        "Other Sports",
+        "Tennis",
+        "Ministry of Sports and Recreation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2865-e1790068847683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/da11d496-3a02-4073-bc6a-4242cccdb893-576x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The journey is short",
-      "link": "https://www.myjoyonline.com/the-journey-is-short/",
+      "title": "‘Do you want me to be happy with this poor performance?’ – Bono East Minister fumes over Kintampo market project with less than 1% work done",
+      "link": "https://www.myjoyonline.com/do-you-want-me-to-be-happy-with-this-poor-performance-bono-east-minister-fumes-over-kintampo-market-project-with-less-than-1-work-done/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T18:27:24.000Z",
-      "summary": "September brings back some bad memories. Half a decade ago, I lost my father. It hit me like a blow because I least expected it.",
+      "published": "2026-09-22T21:06:48.000Z",
+      "summary": "The Bono East Regional Minister, Francis Owusu Antwi, has issued a strong warning to the contractor handling the Kintampo North 24-Hour Economy Market project, vowing to terminate the…",
+      "categories": [
+        "Regional",
+        "Bono East Minister",
+        "Francis Owusu Antwi",
+        "Kintampo North 24-Hour Economy Market project"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-20.58.47-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "London screening honours Nkrumah and 103 years of Ghana cinema",
+      "link": "https://www.myjoyonline.com/london-screening-honours-nkrumah-and-103-years-of-ghana-cinema/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T21:03:28.000Z",
+      "summary": "A restored Ghanaian film, His Majesty’s Sergeant, has been screened in London to mark Dr Kwame Nkrumah’s birthday and 103 years of Ghanaian cinema.",
+      "categories": [
+        "Events",
+        "Kwame Nkrumah",
+        "London",
+        "Screening"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/927c1f9d-0852-43a4-ac1e-8562868a61b5-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Founder’s Day: Is Nkrumah’s glory fading? – Nkrumah’s iconic fountain at Circle runs dry",
+      "link": "https://www.myjoyonline.com/founders-day-is-nkrumahs-glory-fading-nkrumahs-iconic-fountain-at-circle-runs-dry/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T21:02:12.000Z",
+      "summary": "“The Black man is capable of managing his own affairs.” Those words by Ghana’s first President, Osagyefo Dr Kwame Nkrumah, became a defining statement of Ghana’s independence and African…",
       "categories": [
         "Features",
-        "Journey",
-        "Short"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2946.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Teacher unions give government September 24 deadline to resolve promotion arrears",
-      "link": "https://www.myjoyonline.com/teacher-unions-give-government-september-24-deadline-to-resolve-promotion-arrears/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T18:26:40.000Z",
-      "summary": "The three teacher unions have given the government until midday on Thursday, September 24, 2026, to resolve outstanding issues concerning the payment of promotion salaries and arrears owed…",
-      "categories": [
-        "Education",
-        "HP News 8",
         "National",
         "News",
-        "Government",
-        "promotion arrears",
-        "Teacher Unions"
+        "Nkrumah’s iconic fountain"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Teacher-Unions-strike.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-203408-1024x591.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Restoring BDC confidence helped turn around TOR – MD",
-      "link": "https://www.myjoyonline.com/restoring-bdc-confidence-helped-turn-around-tor-md/",
+      "title": "GHS calls for stronger systems to ensure safe care for NCD patients",
+      "link": "https://www.myjoyonline.com/ghs-calls-for-stronger-systems-to-ensure-safe-care-for-ncd-patients/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T18:15:32.000Z",
-      "summary": "The Managing Director of the Tema Oil Refinery (TOR), Edmund Kombat, has linked the refinery’s turnaround to efforts to restore the confidence of Bulk Distribution Companies (BDCs), who had…",
+      "published": "2026-09-22T21:01:58.000Z",
+      "summary": "The Ghana Health Service (GHS) has called for stronger health systems, effective patient navigation and improved primary healthcare services to ensure safe and continuous care for persons…",
       "categories": [
+        "Health",
         "National",
-        "BDC",
-        "MD",
-        "TOR"
+        "Ghana Health Service",
+        "GHS calls for stronger systems to ensure safe care for NCD patients"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2996.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Chipper Cash launches bank-backed virtual accounts through collaboration with Universal Merchant Bank in Ghana",
-      "link": "https://www.myjoyonline.com/chipper-cash-launches-bank-backed-virtual-accounts-through-collaboration-with-universal-merchant-bank-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T18:15:00.000Z",
-      "summary": "Chipper Cash, a leading African financial technology company, has achieved a significant milestone in Ghana's digital financial services ecosystem by successfully integrating with Universal…",
-      "categories": [
-        "National"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-5.44.03-PM-1024x682.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Health-Patients-Day-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {

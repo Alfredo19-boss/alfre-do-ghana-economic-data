@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-22T19:03:34.028Z",
-  "worldAt": "2026-09-22T19:03:34.026Z",
+  "updated": "2026-09-22T22:00:11.547Z",
+  "worldAt": "2026-09-22T22:00:11.545Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,23 +26,23 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 22 stories",
+    "World · BBC News: 24 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 32 stories",
     "Africa · Africanews: 34 stories",
-    "Africa · BBC Africa: 32 stories",
+    "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 4 stories",
+    "Africa · Al Jazeera: 5 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,26 +1099,221 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Is Ethiopia heading towards renewed civil war?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T18:51:53.000Z",
-      "summary": "Seven armed groups announce alliance to topple government."
+      "title": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T21:50:31.000Z",
+      "summary": "His tone contrasted with remarks earlier from UN Secretary General António Guterres, who warned global divisions were deepening.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg"
+    },
+    {
+      "title": "Zelensky says Ukraine is ready for an energy ceasefire with Russia",
+      "link": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia",
+      "source": "France 24",
+      "published": "2026-09-22T21:38:04.000Z",
+      "summary": "On the sidelines of the UN General Assembly in New York on Tuesday, Ukraine's President Volodymyr Zelensky told journalists that Kyiv is ready to halt strikes on Russian energy…",
+      "image": "https://s.france24.com/media/display/8fc1ad66-b6cd-11f1-9bea-557acd7c815c/w:1024/p:16x9/2026-09-22T185321Z-294428292-RC2IONAPQIAG-RTRMADP-3-UN-ASSEMBLY-ZELENSKIY-TRUMP.jpg"
     },
     {
       "title": "US to build two military bases in Greenland under new deal with Denmark",
       "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-22T18:43:29.000Z",
+      "published": "2026-09-22T21:36:55.000Z",
       "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg"
     },
     {
-      "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
+      "title": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
+      "link": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T18:49:36.000Z",
-      "summary": "Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees."
+      "published": "2026-09-22T21:30:51.000Z",
+      "summary": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift."
+    },
+    {
+      "title": "The United Nations General Assembly is meeting. Is it accomplishing anything?",
+      "link": "https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything",
+      "source": "NPR World",
+      "published": "2026-09-22T21:23:48.000Z",
+      "summary": "NPR's Mary Louise Kelly speaks with Michael Froman, Council on Foreign Relations president, at the UN General Assembly."
+    },
+    {
+      "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T21:11:47.000Z",
+      "summary": "Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland."
+    },
+    {
+      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T21:09:25.000Z",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/8e6f0380-b5ee-11f1-aff1-eb6baa3fda4f.png"
+    },
+    {
+      "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T21:09:23.000Z",
+      "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator."
+    },
+    {
+      "title": "Guterres pleads for 'world built on interdependence' in final General Assembly address",
+      "link": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
+      "source": "France 24",
+      "published": "2026-09-22T21:02:47.000Z",
+      "summary": "UN Secretary-General Antonio Guterres pleaded for “a world built on interdependence” Tuesday as he made his final address to the annual gathering of world leaders convening to face a…",
+      "image": "https://s.france24.com/media/display/ea1e1384-b697-11f1-8e11-557acd7c815c/w:1024/p:16x9/2026-09-22T130946Z-751559590-RC2DONAJFJ4B-RTRMADP-3-UN-ASSEMBLY.jpg"
+    },
+    {
+      "title": "Macron: France won’t ‘yield an inch’ on Ukraine support",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T21:09:03.000Z",
+      "summary": "French President Emmanuel Macron says the “coalition of the willing\" will not back down in its support of Ukraine."
+    },
+    {
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T20:59:00.000Z",
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6d/live/eb5cde20-b6af-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "French government scales up targeted fuel price relief",
+      "link": "https://www.france24.com/en/tv-shows/business/20260922-french-government-scales-up-targeted-fuel-price-relief",
+      "source": "France 24",
+      "published": "2026-09-22T20:54:51.000Z",
+      "summary": "Under pressure to help businesses and workers cope with soaring fuel prices, the French government has announced it will expand targeted energy relief for those most affected. The new…",
+      "image": "https://s.france24.com/media/display/8a15ad1e-b6c7-11f1-9a2a-557acd7c815c/w:1024/p:16x9/capture-7310295556ab2ea935571e0-15059456.jpg"
+    },
+    {
+      "title": "South Sudan: President dissolves govt as controversy engulfs December poll",
+      "link": "http://www.africanews.com/2026/09/22/south-sudan-president-dissolves-govt-as-controversy-engulfs-december-poll/",
+      "source": "Africanews",
+      "published": "2026-09-22T20:51:04.000Z",
+      "summary": "Heavy security was deployed in South Sudan on Tuesday as the president prepared to dissolve the government for the first-ever election, with analysts warning that last-minute legal changes…"
+    },
+    {
+      "title": "Viral NATO video falsely framed as ‘war propaganda’ against Russia",
+      "link": "https://www.france24.com/en/viral-nato-video-falsely-framed-as-war-propaganda-against-russia-1",
+      "source": "France 24",
+      "published": "2026-09-22T20:44:29.000Z",
+      "summary": "A viral NATO video is being falsely framed online as “war propaganda”, with users accusing the Alliance of sharing a “promotional video” designed to prepare the public for imminent war with…",
+      "image": "https://s.france24.com/media/display/2579b26c-b6c5-11f1-a667-4d220c210a04/w:1024/p:16x9/capture-15120144666ab2e68f813325-23240503.jpg"
+    },
+    {
+      "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T20:27:45.000Z",
+      "summary": "Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen."
+    },
+    {
+      "title": "US refusing to give Sudan's de facto leader visa for UN",
+      "link": "https://www.france24.com/en/us-refusing-to-give-sudan-s-de-facto-leader-visa-for-un",
+      "source": "France 24",
+      "published": "2026-09-22T20:13:30.000Z",
+      "summary": "In tonight's edition, the United States is withholding a visa for Sudanese army chief al-Burhan ahead of his scheduled UN appearance. Also, Ghana’s beefing up its drugs authority in the…",
+      "image": "https://s.france24.com/media/display/0e378640-b6c2-11f1-8a88-e554abee39f5/w:1024/p:16x9/capture-10838219656ab2e15fe7a857-34442302.jpg"
+    },
+    {
+      "title": "Trump: US-Iran meeting at UN was ‘very good’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T20:23:48.000Z",
+      "summary": "US President Donald Trump says he had a ‘very good’ three-hour meeting with Iranian officials at the UN."
+    },
+    {
+      "title": "Macron urges world to 'stand firm' against 'abuse of power by empires' in final UN speech",
+      "link": "https://www.france24.com/en/france/20260922-macron-urges-world-stand-firm-against-abuse-of-power-by-empires-final-un-speech",
+      "source": "France 24",
+      "published": "2026-09-22T20:08:28.000Z",
+      "summary": "French President Emmanuel Macron used his last address before the UN General Assembly as France's leader to urge the world's nations to stand alongside the United Nations in the face of a…",
+      "image": "https://s.france24.com/media/display/1a0a7a22-b6bd-11f1-be68-1d61c7110e09/w:1024/p:16x9/AP26265675284236.jpg"
+    },
+    {
+      "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+      "link": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T20:03:50.000Z",
+      "summary": "Settlement is largest of its kind in any US city and is set to affect 260,000 delivery drivers."
+    },
+    {
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T19:47:44.000Z",
+      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T19:59:36.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza."
+    },
+    {
+      "title": "Noma: The neglected disease devastating children in northern Nigeria",
+      "link": "http://www.africanews.com/2026/09/22/noma-the-neglected-disease-devastating-children-in-northern-nigeria/",
+      "source": "Africanews",
+      "published": "2026-09-22T19:44:57.000Z",
+      "summary": "Noma is a rapidly progressing and often fatal infection of the face and mouth. It begins with gum inflammation in malnourished children living in polluted environments and quickly spreads…"
+    },
+    {
+      "title": "Djibouti minister appeals for aid for Yemeni refugees",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T19:56:02.000Z",
+      "summary": "Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees"
+    },
+    {
+      "title": "What is the White House pool and why is it in a row with Trump?",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T19:25:16.000Z",
+      "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ffa/live/e7abbca0-b665-11f1-b785-7d19738c6de2.png"
+    },
+    {
+      "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
+      "link": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T19:52:16.000Z",
+      "summary": "US solicitor general challenges lower court's ruling on Georgetown scholar's detention, sparking constitutional debates."
+    },
+    {
+      "title": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
+      "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T19:15:57.000Z",
+      "summary": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0af9/live/e93b1d50-b6b4-11f1-8448-334c53ba4316.jpg"
+    },
+    {
+      "title": "Qatar denounces Israeli aggression across the region",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T19:29:03.000Z",
+      "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani has denounced Israeli aggression in neighbouring countries."
+    },
+    {
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T19:06:06.000Z",
+      "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "What led to the 1994 Tutsi Genocide in Rwanda",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-led-to-the-1994-tutsi-genocide-in-rwanda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T19:17:44.000Z",
+      "summary": "A British doctor accused of killing people during the 1994 genocide against the Tutsi in Rwanda has been charged."
     },
     {
       "title": "Trump's world? Leaders navigate consequences of US policy",
@@ -1129,11 +1324,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5563ab84-b6ae-11f1-93d1-d5a6f2570fbe/w:1024/p:16x9/2026-09-22T175028Z-586299362-RC2HONA599SW-RTRMADP-3-UKRAINE-CRISIS-TRUMP-ZELENSKIY.jpg"
     },
     {
-      "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
-      "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
+      "title": "Erdogan accuses Israel of ‘genocidal mindset’ at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T18:48:37.000Z",
-      "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran."
+      "published": "2026-09-22T19:14:41.000Z",
+      "summary": "Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly."
     },
     {
       "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
@@ -1144,11 +1339,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/8e6f0380-b5ee-11f1-aff1-eb6baa3fda4f.png"
     },
     {
-      "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-      "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+      "title": "Is Ethiopia heading towards renewed civil war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T18:46:32.000Z",
-      "summary": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland."
+      "published": "2026-09-22T18:51:53.000Z",
+      "summary": "Seven armed groups announce alliance to topple government."
     },
     {
       "title": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
@@ -1159,11 +1354,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/089d084a-b69f-11f1-8123-557acd7c815c/w:1024/p:16x9/2026-09-22T152351Z-782234015-RC2FONAJ9I0O-RTRMADP-3-UN-ASSEMBLY.jpg"
     },
     {
-      "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
+      "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T18:27:01.000Z",
-      "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN."
+      "published": "2026-09-22T18:49:36.000Z",
+      "summary": "Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees."
     },
     {
       "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
@@ -1174,11 +1369,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebad/live/b5f04860-b69d-11f1-ba3d-1d5c8a47f823.png"
     },
     {
-      "title": "Trump says US officials met for three hours with Iranian delegation",
-      "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
+      "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
+      "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T18:14:12.000Z",
-      "summary": "This is a breaking news story."
+      "published": "2026-09-22T18:48:37.000Z",
+      "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israel war on Iran."
     },
     {
       "title": "Top South African policeman charged with sexual offences",
@@ -1189,11 +1384,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46aa/live/d5084a60-7f69-11f1-8812-63adb81ec20b.jpg"
     },
     {
-      "title": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
+      "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
+      "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T18:01:49.000Z",
-      "summary": "India’s first MMA medal at the Asian Games was overshadowed by controversy over the result."
+      "published": "2026-09-22T18:46:32.000Z",
+      "summary": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland."
     },
     {
       "title": "Trump threatens to 'annihilate' Iran, attacks ICC in UN speech",
@@ -1201,207 +1396,44 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-22T16:50:31.000Z",
       "summary": "US President Donald Trump said Tuesday he has to decide whether to make a deal with Iran or \"annihilate\" the country, in a bombastic speech to the United Nations that appeared tailored to…"
-    },
-    {
-      "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
-      "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T17:51:07.000Z",
-      "summary": "Lula’s remarks come as Trump asserts US power in Latin America in his own UN address."
-    },
-    {
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T16:42:23.000Z",
-      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7808/live/dd755fe0-b672-11f1-a430-4d16ee157c41.png"
-    },
-    {
-      "title": "Sudan’s historical famine echoes through latest hunger crisis",
-      "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T17:45:55.000Z",
-      "summary": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages."
-    },
-    {
-      "title": "Iran: Trump believes in an agreement after US midterms",
-      "link": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms",
-      "source": "France 24",
-      "published": "2026-09-22T16:17:06.000Z",
-      "summary": "US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the…",
-      "image": "https://s.france24.com/media/display/e8874df6-b6a1-11f1-939f-d382746d948a/w:1024/p:16x9/Trump-onu.jpg"
-    },
-    {
-      "title": "ECHR hears how 10 children went missing after Russia annexed Crimea",
-      "link": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T17:35:01.000Z",
-      "summary": "Ukrainians aged between one and five were taken from childcare institutions and put up for adoption, court hears."
-    },
-    {
-      "title": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
-      "link": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
-      "source": "France 24",
-      "published": "2026-09-22T16:13:28.000Z",
-      "summary": "US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it \"out of control.\" He also used the speech to argue…",
-      "image": "https://s.france24.com/media/display/37b640be-b69b-11f1-8d1d-4d220c210a04/w:1024/p:16x9/EN-20260922-162749-170515-CS.jpg"
-    },
-    {
-      "title": "Turkiye school shooting leaves 11 pupils wounded",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T17:02:36.000Z",
-      "summary": "Eleven pupils were wounded after a student opened fire near a secondary school in Manisa, western Turkiye"
-    },
-    {
-      "title": "How is the EU responding to record fuel prices?",
-      "link": "https://www.france24.com/en/europe/20260922-how-is-the-eu-approaching-record-fuel-prices",
-      "source": "France 24",
-      "published": "2026-09-22T16:07:06.000Z",
-      "summary": "Fuel prices have hit record highs across Europe in recent days, driven by soaring oil prices amid the war in the Middle East and Ukrainian strikes on Russian refineries. However, the scale…",
-      "image": "https://s.france24.com/media/display/a788ff72-b69f-11f1-8f8a-557acd7c815c/w:1024/p:16x9/7f50b136c93ac6ca88a6c611851705ecc2fc34fb.jpg"
-    },
-    {
-      "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-      "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T16:55:39.000Z",
-      "summary": "Turkish leader says UN has been forced into 'dysfunction' and was 'bleeding out' in Palestine, Lebanon, Sudan."
-    },
-    {
-      "title": "Ceuta on alert as Spain braces for new border surge",
-      "link": "http://www.africanews.com/2026/09/22/ceuta-on-alert-as-spain-braces-for-new-border-surge/",
-      "source": "Africanews",
-      "published": "2026-09-22T16:03:07.000Z",
-      "summary": "Ceuta is on alert. Spanish forces are patrolling the border after fresh calls on social media for migrants to cross from Morocco. The warnings follow a dramatic crisis on July 30 and 31…"
-    },
-    {
-      "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T16:35:14.000Z",
-      "summary": "Jordan's King Abdullah II decried Israeli settlements in the occupied West Bank as a strategy of ‘forced displacement.'"
-    },
-    {
-      "title": "World Rhino Day: Less than 27,000 of the giant animals remain in the wild",
-      "link": "http://www.africanews.com/2026/09/22/world-rhino-day-less-than-27000-of-the-giant-animals-remain-in-the-wild/",
-      "source": "Africanews",
-      "published": "2026-09-22T15:35:44.000Z",
-      "summary": "This year’s theme is “Keep the Five Alive”, highlighting the fragile status of the surviving species in Africa and Asia."
-    },
-    {
-      "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
-      "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T16:31:58.000Z",
-      "summary": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009."
-    },
-    {
-      "title": "Tunisia says 2026 summer hottest on record, temperatures topped 49.7°C",
-      "link": "http://www.africanews.com/2026/09/22/tunisia-says-2026-summer-hottest-on-record-temperatures-topped-497c/",
-      "source": "Africanews",
-      "published": "2026-09-22T15:23:30.000Z",
-      "summary": "Tunisia's summer this year was its hottest on record, the country's weather authority said Tuesday, following multiple heatwaves, water shortages and power cuts"
-    },
-    {
-      "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T16:18:48.000Z",
-      "summary": "Speaking at the UN General Assembly, US President Donald Trump claimed he helped end the war in Gaza."
-    },
-    {
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T15:17:37.000Z",
-      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ec/live/9312ec00-b691-11f1-99b0-21d40bed432b.jpg"
-    },
-    {
-      "title": "UNGA 2026: Can the UN stop wars?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T15:49:12.000Z",
-      "summary": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts."
-    },
-    {
-      "title": "Syrian man reunited with secret library hidden for 15 years",
-      "link": "https://www.france24.com/en/video/20260922-syrian-man-reunited-with-secret-library-hidden-for-15-years",
-      "source": "France 24",
-      "published": "2026-09-22T15:15:25.000Z",
-      "summary": "A Syrian man has been reunited with his collection of over 100 Islamic texts, science books and poems,15 years after sealing the collection behind a wall. Mustafa Khaled Alwan had built to…",
-      "image": "https://s.france24.com/media/display/65d9509c-b693-11f1-bf36-1d61c7110e09/w:1024/p:16x9/EN-20260922-162308-162452-CS.jpg"
-    },
-    {
-      "title": "Trump follows in Hugo Chavez’s footsteps to launch his own TV channel",
-      "link": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T15:33:22.000Z",
-      "summary": "Trump has launched his own channel amid an ongoing rift with the White House press pool."
-    },
-    {
-      "title": "Lady Diana: Spencer’s memoir on Diana reignites royal controversy",
-      "link": "https://www.france24.com/en/video/20260922-lady-diana-spencer-s-memoir-on-diana-reignites-royal-controversy",
-      "source": "France 24",
-      "published": "2026-09-22T14:59:41.000Z",
-      "summary": "Prince Charles married with Lady Diana in 1981. The couple divorced in 1996 and a decade later Charles married Camilla Parker Bowles, now Queen Camilla. Spencer has long clashed with the…",
-      "image": "https://s.france24.com/media/display/d0e968ea-b698-11f1-9d00-557acd7c815c/w:1024/p:16x9/Lady-Diana-thumbnail.jpg"
-    },
-    {
-      "title": "The return of Palestinian football: ‘We are a people who must live’",
-      "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T15:32:27.000Z",
-      "summary": "The Martyrs’ World Cup brings Palestinian football back after nearly three years, despite military restrictions."
-    },
-    {
-      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T14:51:39.000Z",
-      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/a8257e70-b6a3-11f1-ba3d-1d5c8a47f823.png"
-    },
-    {
-      "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
-      "link": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T15:27:49.000Z",
-      "summary": "The White House launched 'Trump TV' as major networks suspended the television pool covering the US president."
-    },
-    {
-      "title": "UN climate change body accused of conflict of interest, Saudi influence",
-      "link": "https://www.france24.com/en/video/20260922-un-climate-change-body-accused-of-conflict-of-interest-saudi-influence",
-      "source": "France 24",
-      "published": "2026-09-22T14:38:51.000Z",
-      "summary": "An investigation conducted by the Guardian is raising questions about potential conflicts of interest among experts helping produce the next major assessment from the UN’s…",
-      "image": "https://s.france24.com/media/display/4298cdac-b692-11f1-8b2b-4d220c210a04/w:1024/p:16x9/EN-20260922-161430-161543-CS.jpg"
-    },
-    {
-      "title": "Dozens of people sue GLP-1 drug companies over alleged vision loss",
-      "link": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T15:23:14.000Z",
-      "summary": "More than 90 lawsuits against GLP-1 companies claim rare eye condition resulted from diabetes and weight loss drugs."
-    },
-    {
-      "title": "Father admits causing death of his son in Cyprus hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T14:31:34.000Z",
-      "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg"
     }
   ],
   "africa": [
     {
-      "title": "Is Ethiopia heading towards renewed civil war?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-22T20:59:00.000Z",
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6d/live/eb5cde20-b6af-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "South Sudan: President dissolves govt as controversy engulfs December poll",
+      "link": "http://www.africanews.com/2026/09/22/south-sudan-president-dissolves-govt-as-controversy-engulfs-december-poll/",
+      "source": "Africanews",
+      "published": "2026-09-22T20:51:04.000Z",
+      "summary": "Heavy security was deployed in South Sudan on Tuesday as the president prepared to dissolve the government for the first-ever election, with analysts warning that last-minute legal changes…"
+    },
+    {
+      "title": "Djibouti minister appeals for aid for Yemeni refugees",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T18:51:53.000Z",
-      "summary": "Seven armed groups announce alliance to topple government."
+      "published": "2026-09-22T19:56:02.000Z",
+      "summary": "Djibouti’s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees"
+    },
+    {
+      "title": "Noma: The neglected disease devastating children in northern Nigeria",
+      "link": "http://www.africanews.com/2026/09/22/noma-the-neglected-disease-devastating-children-in-northern-nigeria/",
+      "source": "Africanews",
+      "published": "2026-09-22T19:44:57.000Z",
+      "summary": "Noma is a rapidly progressing and often fatal infection of the face and mouth. It begins with gum inflammation in malnourished children living in polluted environments and quickly spreads…"
+    },
+    {
+      "title": "What led to the 1994 Tutsi Genocide in Rwanda",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/what-led-to-the-1994-tutsi-genocide-in-rwanda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T19:17:44.000Z",
+      "summary": "A British doctor accused of killing people during the 1994 genocide against the Tutsi in Rwanda has been charged."
     },
     {
       "title": "Niger: Junta Strips 5 More Exiled Critics of Nationality",
@@ -1411,11 +1443,11 @@ window.GDC_NEWS = {
       "summary": "[HRW] Nairobi -- Latest Crackdown Heightens Rights Concerns Amid Renewed Political Tensions"
     },
     {
-      "title": "Sudan’s historical famine echoes through latest hunger crisis",
-      "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
+      "title": "Is Ethiopia heading towards renewed civil war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T17:45:55.000Z",
-      "summary": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages."
+      "published": "2026-09-22T18:51:53.000Z",
+      "summary": "Seven armed groups announce alliance to topple government."
     },
     {
       "title": "Djibouti: Djibouti Frees Top SA Investigative Journalist Micah Reddy",
@@ -1425,11 +1457,11 @@ window.GDC_NEWS = {
       "summary": "[Daily Maverick] South African investigative journalist Micah Reddy of the International Consortium of Investigative Journalists was detained on Saturday, but is now on his way back to…"
     },
     {
-      "title": "North Africa: Egypt Declares Suez Canal Secure As August Revenue Surges to $567 Million",
-      "link": "https://allafrica.com/stories/202609220446.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T17:36:54.000Z",
-      "summary": "[Radio Dalsan] CAIRO -- Egypt's Suez Canal Authority (SCA) has declared the waterway safe, with maritime traffic flowing normally as August revenue rose 56.7 percent year-on-year to $567.1…"
+      "title": "Sudan’s historical famine echoes through latest hunger crisis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T17:45:55.000Z",
+      "summary": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages."
     },
     {
       "title": "Sudan: Drone Strikes Destroy More Than 330,000 Learning Materials in Sudan's North Kordofan State",
@@ -1439,11 +1471,11 @@ window.GDC_NEWS = {
       "summary": "[Unicef] New York/Nairobi/Khartoum -- Drone strikes on two warehouses in Shikan locality, North Kordofan, on 20 September destroyed over 292,000 school textbooks, 40,000 Arabic Language and…"
     },
     {
-      "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-      "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T16:55:39.000Z",
-      "summary": "Turkish leader says UN has been forced into 'dysfunction' and was 'bleeding out' in Palestine, Lebanon, Sudan."
+      "title": "North Africa: Egypt Declares Suez Canal Secure As August Revenue Surges to $567 Million",
+      "link": "https://allafrica.com/stories/202609220446.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-22T17:36:54.000Z",
+      "summary": "[Radio Dalsan] CAIRO -- Egypt's Suez Canal Authority (SCA) has declared the waterway safe, with maritime traffic flowing normally as August revenue rose 56.7 percent year-on-year to $567.1…"
     },
     {
       "title": "Liberia: A Decade On - the World Is Still Listening to Liberia's Ebola Story",
@@ -1451,6 +1483,13 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-22T17:35:25.000Z",
       "summary": "[Liberian Observer] Ten years after Ebola swept through Liberia and claimed thousands of lives, the world is still turning to this small West African nation for answers. On Sunday, in a…"
+    },
+    {
+      "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
+      "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T16:55:39.000Z",
+      "summary": "Turkish leader says UN has been forced into 'dysfunction' and was 'bleeding out' in Palestine, Lebanon, Sudan."
     },
     {
       "title": "Top South African policeman charged with sexual offences",
@@ -1643,41 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-22T14:40:42.000Z",
       "summary": "[Premium Times] The region accounts for about one-fifth of global road fatalities despite having only three per cent of the world's registered vehicles"
-    },
-    {
-      "title": "Libya oil production hit after armed group shuts pipeline valve",
-      "link": "http://www.africanews.com/2026/09/22/libya-oil-production-hit-after-armed-group-shuts-pipeline-valve/",
-      "source": "Africanews",
-      "published": "2026-09-22T13:39:55.000Z",
-      "summary": "An unnamed armed group shut a valve on a pipeline from a major Libyan oil field, causing a drop in production, the National Oil Corporation (NOC) said late Monday."
-    },
-    {
-      "title": "Nigeria: Central Bank Cuts Interest Rate",
-      "link": "https://allafrica.com/stories/202609220342.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T14:39:13.000Z",
-      "summary": "[Premium Times] \"It emphasised that the recalibration of the corridor does not constitute a change in the current monetary policy stance, but rather an operational reset to enhance the…"
-    },
-    {
-      "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
-      "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T13:28:07.000Z",
-      "summary": "No group claims responsibility for attack, but suspicion falls on ISIL affiliate."
-    },
-    {
-      "title": "Nigeria: NMDPRA Unveils New Rules in Bid to Curb Monopoly, Market Abuse in Petroleum Sector",
-      "link": "https://allafrica.com/stories/202609220340.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T14:37:49.000Z",
-      "summary": "[Vanguard] The Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) has unveiled proposed regulations aimed at curbing monopoly, abuse of market dominance, collusion…"
-    },
-    {
-      "title": "South African ostriches plucked alive for luxury fashion",
-      "link": "http://www.africanews.com/2026/09/22/south-african-ostriches-plucked-alive-for-luxury-fashion/",
-      "source": "Africanews",
-      "published": "2026-09-22T13:16:13.000Z",
-      "summary": "South African ostrich farms are using mechanical pluckers to remove feathers from living birds destined for major luxury fashion brands in techniques that are cruel and painful, animal…"
     }
   ]
 };
