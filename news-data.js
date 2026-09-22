@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-22T15:29:57.405Z",
-  "worldAt": "2026-09-22T15:29:57.402Z",
+  "updated": "2026-09-22T19:03:34.028Z",
+  "worldAt": "2026-09-22T19:03:34.026Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,26 +26,68 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 26 stories",
+    "World · BBC News: 22 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 32 stories",
-    "Africa · Africanews: 35 stories",
-    "Africa · BBC Africa: 31 stories",
+    "Africa · Africanews: 34 stories",
+    "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Career opportunity: Senior Geologist sought for key mining role",
+      "link": "https://www.myjoyonline.com/career-opportunity-senior-geologist-sought-for-key-mining-role/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T17:55:06.000Z",
+      "summary": "Career opportunity: Senior Geologist sought for key mining role A reputable mining company in Ghana is seeking to recruit an experienced and highly capable Senior Geologist to support its…"
+    },
+    {
+      "title": "OPEC, India Call for Timely Oil Investment to Strengthen Energy Security",
+      "link": "https://thehighstreetjournal.com/opec-india-call-for-timely-oil-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-09-22T17:00:00.000Z",
+      "summary": "India, together with OPEC, seeks to strengthen energy security and promote stability in global energy markets"
+    },
+    {
+      "title": "Ghanaian interest comes first in 2027 Budget – Dr Ato Forson",
+      "link": "https://www.myjoyonline.com/ghanaian-interest-comes-first-in-2027-budget-dr-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T16:54:27.000Z",
+      "summary": "As budget hearings with ministries, departments and agencies conclude this week, Dr Forson said every spending decision and policy choice would be guided by the needs and aspirations of…"
+    },
+    {
+      "title": "Afreximbank Combines Trade Finance, Compliance Forums to Boost AfCFTA Integration",
+      "link": "https://thehighstreetjournal.com/afreximbank-trade-finance-forums/",
+      "source": "The High Street Journal",
+      "published": "2026-09-22T16:05:00.000Z",
+      "summary": "The three-day Botswana programme will focus on resilient value chains, regulatory alignment and expanding access to trade finance across Africa"
+    },
+    {
+      "title": "Protect the customer by changing who owns the loss",
+      "link": "https://www.myjoyonline.com/protect-the-customer-by-changing-who-owns-the-loss/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T15:33:56.000Z",
+      "summary": "Between 2022 and 2025, fraud cases among Ghana's payment service providers nearly doubled. At a recent COCLAB workshop, Matilda Asante Asiedu, the Second Deputy Governor of the Bank of…"
+    },
+    {
+      "title": "From Survival to Scale: Before You Spend Money on Your Business Idea, Ask These Questions",
+      "link": "https://thehighstreetjournal.com/from-survival-to-scale-before-you-spend-money-on-your-business-idea-ask-these-questions/",
+      "source": "The High Street Journal",
+      "published": "2026-09-22T15:30:00.000Z",
+      "summary": "Exploring how entrepreneurs can test business ideas, understand customer needs, assess market opportunities and make informed decisions before committing significant time, money and…"
+    },
     {
       "title": "$543,000 in Counterfeit Notes Seized as Four Printing Hubs Dismantled, 16 Arrested",
       "link": "https://thehighstreetjournal.com/543000-in-counterfeit-notes-seized/",
@@ -1053,51 +1095,222 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-09-18T14:52:17.000Z",
       "summary": "The Assin Fosu District Court Judge, Mr Abdul Majid Iliasu, has revealed that suspected mobile-money (MoMo) fraudsters tried to scam him moments after he had sentenced someone for a similar…"
-    },
-    {
-      "title": "“Sometimes it’s deliberate to allow the cedi to depreciate a little” – Governor assures of control",
-      "link": "https://www.myjoyonline.com/sometimes-its-deliberate-to-allow-the-cedi-to-depreciate-a-little-governor-assures-of-control/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T14:45:28.000Z",
-      "summary": "Governor of the Bank of Ghana, Dr. Johnson Asiama, has assured businesses that the recent movements in the foreign exchange market are under control."
-    },
-    {
-      "title": "Inheritance is not succession: REBRAND Masterclass ’26 to challenge founders on legacy",
-      "link": "https://www.myjoyonline.com/inheritance-is-not-succession-rebrand-masterclass-26-to-challenge-founders-on-legacy/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T14:34:33.000Z",
-      "summary": "The programme will focus on succession, governance, leadership transition and the structures required to preserve and grow businesses across generations."
-    },
-    {
-      "title": "EU Moves to Restrict Social Media Access for Children Under 15",
-      "link": "https://thehighstreetjournal.com/eu-moves-to-restrict-social-media-access-for-children-under-15/",
-      "source": "The High Street Journal",
-      "published": "2026-09-18T14:20:00.000Z",
-      "summary": "The EU plans stricter social media rules for under-15s, combining age limits, parental controls and safety requirements for technology companies amid growing concerns about children’s…"
-    },
-    {
-      "title": "Afreximbank Extends $10 Million Facility to Tanzania’s Azania Bank for SME Export Growth",
-      "link": "https://thehighstreetjournal.com/afreximbank-extends-10mn-to-azania-bank/",
-      "source": "The High Street Journal",
-      "published": "2026-09-18T14:11:28.000Z",
-      "summary": "Financing will support working capital, business expansion and export readiness as African trade lender seeks to deepen regional value chains"
-    },
-    {
-      "title": "Ghana Pushes Regional Cooperation to Build Stronger Cashew Industry",
-      "link": "https://thehighstreetjournal.com/ghana-pushes-regional-cooperation-to-build-stronger-cashew-industry/",
-      "source": "The High Street Journal",
-      "published": "2026-09-18T14:08:00.000Z",
-      "summary": "Ghana is backing cashew production with US$200 million in tree-crop investment while urging African producers to work together to expand processing and market opportunities."
-    },
-    {
-      "title": "Agriculture Ministry launches Phase I of tomato production initiative",
-      "link": "https://www.myjoyonline.com/agriculture-ministry-launches-phase-i-of-tomato-production-initiative/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-18T13:23:13.000Z",
-      "summary": "The Ministry of Food and Agriculture has launched Phase I of a major initiative aimed at boosting local tomato production and reducing Ghana’s dependence on imported tomatoes."
     }
   ],
   "world": [
+    {
+      "title": "Is Ethiopia heading towards renewed civil war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:51:53.000Z",
+      "summary": "Seven armed groups announce alliance to topple government."
+    },
+    {
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T18:43:29.000Z",
+      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg"
+    },
+    {
+      "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:49:36.000Z",
+      "summary": "Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees."
+    },
+    {
+      "title": "Trump's world? Leaders navigate consequences of US policy",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy",
+      "source": "France 24",
+      "published": "2026-09-22T18:14:41.000Z",
+      "summary": "A year ago, Donald Trump went to the rostrum of the United Nations General Assembly - and after taxing an axe to US aid and development funding, read the world the riot act. One Iran war…",
+      "image": "https://s.france24.com/media/display/5563ab84-b6ae-11f1-93d1-d5a6f2570fbe/w:1024/p:16x9/2026-09-22T175028Z-586299362-RC2HONA599SW-RTRMADP-3-UKRAINE-CRISIS-TRUMP-ZELENSKIY.jpg"
+    },
+    {
+      "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
+      "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:48:37.000Z",
+      "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran."
+    },
+    {
+      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T17:17:01.000Z",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/8e6f0380-b5ee-11f1-aff1-eb6baa3fda4f.png"
+    },
+    {
+      "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
+      "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:46:32.000Z",
+      "summary": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland."
+    },
+    {
+      "title": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
+      "link": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+      "source": "France 24",
+      "published": "2026-09-22T17:09:26.000Z",
+      "summary": "US President Donald Trump launched a full-throated defence of the deeply unpopular US-Israeli war against Iran before the UN General Assembly on Tuesday, claiming that Washington would…",
+      "image": "https://s.france24.com/media/display/089d084a-b69f-11f1-8123-557acd7c815c/w:1024/p:16x9/2026-09-22T152351Z-782234015-RC2FONAJ9I0O-RTRMADP-3-UN-ASSEMBLY.jpg"
+    },
+    {
+      "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:27:01.000Z",
+      "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN."
+    },
+    {
+      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T16:57:55.000Z",
+      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebad/live/b5f04860-b69d-11f1-ba3d-1d5c8a47f823.png"
+    },
+    {
+      "title": "Trump says US officials met for three hours with Iranian delegation",
+      "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:14:12.000Z",
+      "summary": "This is a breaking news story."
+    },
+    {
+      "title": "Top South African policeman charged with sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T16:54:41.000Z",
+      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46aa/live/d5084a60-7f69-11f1-8812-63adb81ec20b.jpg"
+    },
+    {
+      "title": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:01:49.000Z",
+      "summary": "India’s first MMA medal at the Asian Games was overshadowed by controversy over the result."
+    },
+    {
+      "title": "Trump threatens to 'annihilate' Iran, attacks ICC in UN speech",
+      "link": "http://www.africanews.com/2026/09/22/trump-threatens-to-annihilate-iran-attacks-icc-in-un-speech/",
+      "source": "Africanews",
+      "published": "2026-09-22T16:50:31.000Z",
+      "summary": "US President Donald Trump said Tuesday he has to decide whether to make a deal with Iran or \"annihilate\" the country, in a bombastic speech to the United Nations that appeared tailored to…"
+    },
+    {
+      "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
+      "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T17:51:07.000Z",
+      "summary": "Lula’s remarks come as Trump asserts US power in Latin America in his own UN address."
+    },
+    {
+      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T16:42:23.000Z",
+      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7808/live/dd755fe0-b672-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "title": "Sudan’s historical famine echoes through latest hunger crisis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T17:45:55.000Z",
+      "summary": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages."
+    },
+    {
+      "title": "Iran: Trump believes in an agreement after US midterms",
+      "link": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms",
+      "source": "France 24",
+      "published": "2026-09-22T16:17:06.000Z",
+      "summary": "US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the…",
+      "image": "https://s.france24.com/media/display/e8874df6-b6a1-11f1-939f-d382746d948a/w:1024/p:16x9/Trump-onu.jpg"
+    },
+    {
+      "title": "ECHR hears how 10 children went missing after Russia annexed Crimea",
+      "link": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T17:35:01.000Z",
+      "summary": "Ukrainians aged between one and five were taken from childcare institutions and put up for adoption, court hears."
+    },
+    {
+      "title": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
+      "link": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
+      "source": "France 24",
+      "published": "2026-09-22T16:13:28.000Z",
+      "summary": "US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it \"out of control.\" He also used the speech to argue…",
+      "image": "https://s.france24.com/media/display/37b640be-b69b-11f1-8d1d-4d220c210a04/w:1024/p:16x9/EN-20260922-162749-170515-CS.jpg"
+    },
+    {
+      "title": "Turkiye school shooting leaves 11 pupils wounded",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T17:02:36.000Z",
+      "summary": "Eleven pupils were wounded after a student opened fire near a secondary school in Manisa, western Turkiye"
+    },
+    {
+      "title": "How is the EU responding to record fuel prices?",
+      "link": "https://www.france24.com/en/europe/20260922-how-is-the-eu-approaching-record-fuel-prices",
+      "source": "France 24",
+      "published": "2026-09-22T16:07:06.000Z",
+      "summary": "Fuel prices have hit record highs across Europe in recent days, driven by soaring oil prices amid the war in the Middle East and Ukrainian strikes on Russian refineries. However, the scale…",
+      "image": "https://s.france24.com/media/display/a788ff72-b69f-11f1-8f8a-557acd7c815c/w:1024/p:16x9/7f50b136c93ac6ca88a6c611851705ecc2fc34fb.jpg"
+    },
+    {
+      "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
+      "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T16:55:39.000Z",
+      "summary": "Turkish leader says UN has been forced into 'dysfunction' and was 'bleeding out' in Palestine, Lebanon, Sudan."
+    },
+    {
+      "title": "Ceuta on alert as Spain braces for new border surge",
+      "link": "http://www.africanews.com/2026/09/22/ceuta-on-alert-as-spain-braces-for-new-border-surge/",
+      "source": "Africanews",
+      "published": "2026-09-22T16:03:07.000Z",
+      "summary": "Ceuta is on alert. Spanish forces are patrolling the border after fresh calls on social media for migrants to cross from Morocco. The warnings follow a dramatic crisis on July 30 and 31…"
+    },
+    {
+      "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T16:35:14.000Z",
+      "summary": "Jordan's King Abdullah II decried Israeli settlements in the occupied West Bank as a strategy of ‘forced displacement.'"
+    },
+    {
+      "title": "World Rhino Day: Less than 27,000 of the giant animals remain in the wild",
+      "link": "http://www.africanews.com/2026/09/22/world-rhino-day-less-than-27000-of-the-giant-animals-remain-in-the-wild/",
+      "source": "Africanews",
+      "published": "2026-09-22T15:35:44.000Z",
+      "summary": "This year’s theme is “Keep the Five Alive”, highlighting the fragile status of the surviving species in Africa and Asia."
+    },
+    {
+      "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
+      "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T16:31:58.000Z",
+      "summary": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009."
+    },
+    {
+      "title": "Tunisia says 2026 summer hottest on record, temperatures topped 49.7°C",
+      "link": "http://www.africanews.com/2026/09/22/tunisia-says-2026-summer-hottest-on-record-temperatures-topped-497c/",
+      "source": "Africanews",
+      "published": "2026-09-22T15:23:30.000Z",
+      "summary": "Tunisia's summer this year was its hottest on record, the country's weather authority said Tuesday, following multiple heatwaves, water shortages and power cuts"
+    },
+    {
+      "title": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T16:18:48.000Z",
+      "summary": "Speaking at the UN General Assembly, US President Donald Trump claimed he helped end the war in Gaza."
+    },
     {
       "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
       "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
@@ -1105,6 +1318,13 @@ window.GDC_NEWS = {
       "published": "2026-09-22T15:17:37.000Z",
       "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ec/live/9312ec00-b691-11f1-99b0-21d40bed432b.jpg"
+    },
+    {
+      "title": "UNGA 2026: Can the UN stop wars?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T15:49:12.000Z",
+      "summary": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts."
     },
     {
       "title": "Syrian man reunited with secret library hidden for 15 years",
@@ -1115,11 +1335,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/65d9509c-b693-11f1-bf36-1d61c7110e09/w:1024/p:16x9/EN-20260922-162308-162452-CS.jpg"
     },
     {
-      "title": "What’s behind French protests against a new police bill?",
-      "link": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss",
+      "title": "Trump follows in Hugo Chavez’s footsteps to launch his own TV channel",
+      "link": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T15:01:19.000Z",
-      "summary": "Critics say controversial law will give police officers a 'licence to kill'."
+      "published": "2026-09-22T15:33:22.000Z",
+      "summary": "Trump has launched his own channel amid an ongoing rift with the White House press pool."
     },
     {
       "title": "Lady Diana: Spencer’s memoir on Diana reignites royal controversy",
@@ -1130,11 +1350,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d0e968ea-b698-11f1-9d00-557acd7c815c/w:1024/p:16x9/Lady-Diana-thumbnail.jpg"
     },
     {
-      "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
-      "link": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
+      "title": "The return of Palestinian football: ‘We are a people who must live’",
+      "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T14:47:25.000Z",
-      "summary": "Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes."
+      "published": "2026-09-22T15:32:27.000Z",
+      "summary": "The Martyrs’ World Cup brings Palestinian football back after nearly three years, despite military restrictions."
+    },
+    {
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T14:51:39.000Z",
+      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/a8257e70-b6a3-11f1-ba3d-1d5c8a47f823.png"
+    },
+    {
+      "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
+      "link": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T15:27:49.000Z",
+      "summary": "The White House launched 'Trump TV' as major networks suspended the television pool covering the US president."
     },
     {
       "title": "UN climate change body accused of conflict of interest, Saudi influence",
@@ -1145,11 +1380,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/4298cdac-b692-11f1-8b2b-4d220c210a04/w:1024/p:16x9/EN-20260922-161430-161543-CS.jpg"
     },
     {
-      "title": "UN Chief condemns Gaza destruction, West Bank settlements",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
+      "title": "Dozens of people sue GLP-1 drug companies over alleged vision loss",
+      "link": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-22T14:37:24.000Z",
-      "summary": "In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza."
+      "published": "2026-09-22T15:23:14.000Z",
+      "summary": "More than 90 lawsuits against GLP-1 companies claim rare eye condition resulted from diabetes and weight loss drugs."
     },
     {
       "title": "Father admits causing death of his son in Cyprus hotel fall",
@@ -1158,255 +1393,136 @@ window.GDC_NEWS = {
       "published": "2026-09-22T14:31:34.000Z",
       "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg"
-    },
-    {
-      "title": "Where is the US opening new military bases in Greenland?",
-      "link": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T14:31:50.000Z",
-      "summary": "At least two new US bases will be established as part of a deal with Denmark and Greenland."
-    },
-    {
-      "title": "Guterres delivers 'message to superpowers' in last UN General Assembly speech",
-      "link": "https://www.france24.com/en/video/20260922-guterres-delivers-message-to-superpowers-in-last-un-general-assembly-speech",
-      "source": "France 24",
-      "published": "2026-09-22T14:28:18.000Z",
-      "summary": "UN Secretary-General Antonio Guterres pleaded for “a world built on interdependence” as he made his final address Tuesday to the General Assembly, a yearly gathering of world leaders, in a…",
-      "image": "https://s.france24.com/media/display/ef53fb86-b690-11f1-b99d-557acd7c815c/w:1024/p:16x9/EN-20260922-153710-154506-CS.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Israel besieges Palestinian town",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T14:30:51.000Z",
-      "summary": "Israeli forces have effectively turned the Palestinian town of Biddu into military barracks."
-    },
-    {
-      "title": "🔴Live: Trump set to defend Iran war in speech before UN General Assembly",
-      "link": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-      "source": "France 24",
-      "published": "2026-09-22T14:26:41.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Ex-Rwandan official appears at UK trial over 1994 genocide",
-      "link": "https://www.aljazeera.com/news/2026/9/22/2425?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T14:28:54.000Z",
-      "summary": "Prosecutors allege Vincent Brown incited and directed acts of violence during the early days of the Rwandan genocide."
-    },
-    {
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T14:23:39.000Z",
-      "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
-    },
-    {
-      "title": "Spangdahlem: Military aircraft crashes near US air base",
-      "link": "https://www.dw.com/en/spangdahlem-military-aircraft-crashes-near-us-air-base/a-79376025?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-22T14:12:00.000Z",
-      "summary": "The Spangdahlem Air Base is located in the German state of Rhineland-Palatinate. Local authorities said that first responders were helping at the scene but that they could only comment in a…"
-    },
-    {
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T14:16:42.000Z",
-      "summary": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad0a/live/3ed1e8e0-b67c-11f1-ba87-73dd9416d9df.png"
-    },
-    {
-      "title": "REPLAY: UN chief Guterres makes final address to the General Assembly",
-      "link": "https://www.france24.com/en/video/20260922-replay-un-chief-guterres-makes-final-address-to-the-general-assembly",
-      "source": "France 24",
-      "published": "2026-09-22T14:11:29.000Z",
-      "summary": "United Nations Secretary-General Antonio Guterres used ​his final address to the General Assembly on Tuesday to urge world leaders to regulate artificial intelligence, end wars, focus on…",
-      "image": "https://s.france24.com/media/display/121af176-b68f-11f1-8ef5-4d220c210a04/w:1024/p:16x9/EN-20260922-150456-153652-CS.jpg"
-    },
-    {
-      "title": "DR Congo to probe violence, death of protestor at anti-govt rally",
-      "link": "http://www.africanews.com/2026/09/22/dr-congo-to-probe-violence-death-of-protestor-at-anti-govt-rally/",
-      "source": "Africanews",
-      "published": "2026-09-22T14:07:06.000Z",
-      "summary": "The C64 movement had called for a day of protest against a planned constitutional change that could allow 63-year-old President Felix Tshisekedi to seek a third five-year term in office"
-    },
-    {
-      "title": "From slavery to today: The Black women who shaped America",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260922-from-slavery-to-today-the-black-women-who-shaped-america",
-      "source": "France 24",
-      "published": "2026-09-22T14:06:43.000Z",
-      "summary": "\"If you don’t understand the history of Black women, you don’t understand the history of America.\" Those words from Nobel Prize-winning novelist Toni Morrison open Sasha Bonét's debut…",
-      "image": "https://s.france24.com/media/display/a950cb96-b68b-11f1-ba5b-d5a6f2570fbe/w:1024/p:16x9/ENG-NEWS-22-09-2026-11-59-ING18-CLEAN-N3-frame-41986.jpeg"
-    },
-    {
-      "title": "Exiled Guinean opposition leader says his passport has been revoked",
-      "link": "http://www.africanews.com/2026/09/22/exiled-guinean-opposition-leader-says-his-passport-has-been-revoked/",
-      "source": "Africanews",
-      "published": "2026-09-22T14:06:58.000Z",
-      "summary": "Cellou Dalein Diallo says this prevented him from travelling to New York where he was due to hold meetings on the sidelines of the United Nations General Assembly."
-    },
-    {
-      "title": "Guatemala receives first US arms in nearly 50 years",
-      "link": "https://www.france24.com/en/video/20260922-guatemala-receives-first-us-arms-in-nearly-50-years",
-      "source": "France 24",
-      "published": "2026-09-22T14:05:15.000Z",
-      "summary": "Guatemala on Monday received the first batch of military weapons from the US in almost five decades. It ends an arms embargo implemented by the US due to human rights violations made during…",
-      "image": "https://s.france24.com/media/display/348adaf0-b68a-11f1-9ef0-e554abee39f5/w:1024/p:16x9/EN-20260922-143721-143917-CS.jpg"
-    },
-    {
-      "title": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
-      "link": "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-22T14:04:00.000Z",
-      "summary": "Do Trump's task force and a special envoy for artificial intelligence in the US indicate a move toward regulating this disputed technology, particularly vis-a-vis China?"
-    },
-    {
-      "title": "'UN unable to bring peace to conflicts: We haven’t seen this level of violence in decades’",
-      "link": "https://www.france24.com/en/un-unable-to-bring-peace-to-conflicts-we-haven-t-seen-this-level-of-violence-in-decades",
-      "source": "France 24",
-      "published": "2026-09-22T14:04:23.000Z",
-      "summary": "Rochelle Ferguson Bouyahi is pleased to welcome Fanny Badache, Researcher at Sciences Po and Lecturer at the University of Geneva. The UN mandate is international peace and security, yet…",
-      "image": "https://s.france24.com/media/display/3b702458-b688-11f1-8c9a-1d61c7110e09/w:1024/p:16x9/EN-20260922-130359-131013-CS.jpg"
-    },
-    {
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T14:03:20.000Z",
-      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "US to return $2.5 million to The Gambia after sale of ex-president Jammeh's mansion",
-      "link": "http://www.africanews.com/2026/09/22/us-to-return-25-million-to-the-gambia-after-sale-of-ex-president-jammehs-mansion/",
-      "source": "Africanews",
-      "published": "2026-09-22T13:46:34.000Z",
-      "summary": "The United States has agreed to return 2.5 million dollars to The Gambia - the proceeds of the sale of a property belonging to the country’s former president Yahya Jammeh."
-    },
-    {
-      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T13:58:42.000Z",
-      "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7999/live/356d1bb0-b683-11f1-97fb-8d66d3951490.jpg"
-    },
-    {
-      "title": "Colombia eases gun restrictions despite fears of more violence",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T13:45:31.000Z",
-      "summary": "Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence."
-    },
-    {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T13:49:22.000Z",
-      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "Libya oil production hit after armed group shuts pipeline valve",
-      "link": "http://www.africanews.com/2026/09/22/libya-oil-production-hit-after-armed-group-shuts-pipeline-valve/",
-      "source": "Africanews",
-      "published": "2026-09-22T13:39:55.000Z",
-      "summary": "An unnamed armed group shut a valve on a pipeline from a major Libyan oil field, causing a drop in production, the National Oil Corporation (NOC) said late Monday."
-    },
-    {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T13:39:09.000Z",
-      "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/6082be10-b686-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "US threatens South Sudan with sanctions over aid obstruction",
-      "link": "https://www.france24.com/en/video/20260922-us-threatens-south-sudan-with-sanctions-over-aid-obstruction",
-      "source": "France 24",
-      "published": "2026-09-22T13:34:04.000Z",
-      "summary": "The United States has threatened to impose sanctions on South Sudan over alleged obstruction of humanitarian assistance, accusing officials at national, state and local levels of treating…",
-      "image": "https://s.france24.com/media/display/18dba4b0-b680-11f1-b6b5-4d220c210a04/w:1024/p:16x9/EN-20260921-225222-225420-CS.jpg"
-    },
-    {
-      "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
-      "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
-      "source": "NPR World",
-      "published": "2026-09-22T13:30:01.000Z",
-      "summary": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1575x1050+0+0/resize/1575x1050!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F9b%2F73af239a45ff901e59ed983262c6%2Fap26265212684916.jpg"
-    },
-    {
-      "title": "Ladin: Dolomites villages refuse to give up on ancient language",
-      "link": "https://www.france24.com/en/europe/20260922-ladin-dolomites-villages-refuse-to-give-up-on-ancient-language",
-      "source": "France 24",
-      "published": "2026-09-22T13:30:40.000Z",
-      "summary": "Year after year, the mountains of the Dolomites become more popular with tourists. Amid millions of visitors, 30,000 inhabitants speak a language only they understand: Ladin, one of the…",
-      "image": "https://s.france24.com/media/display/95696006-b5c4-11f1-bde2-d5a6f2570fbe/w:1024/p:16x9/TN-PANNEAU-ELENA.jpg"
-    },
-    {
-      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-      "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T13:29:53.000Z",
-      "summary": "Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised."
-    },
-    {
-      "title": "Ethiopian armed groups announce anti-government alliance",
-      "link": "https://www.france24.com/en/video/20260922-ethiopian-armed-groups-announce-anti-government-alliance",
-      "source": "France 24",
-      "published": "2026-09-22T13:29:52.000Z",
-      "summary": "On the eve of International Peace Day, an Ethiopian rebel leader announced an alliance of seven armed groups with the stated objective of toppling Prime Minister Abiy Ahmed's ruling party…",
-      "image": "https://s.france24.com/media/display/372332f4-b67f-11f1-b59c-d382746d948a/w:1024/p:16x9/EN-20260921-224505-224704-CS.jpg"
-    },
-    {
-      "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
-      "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T13:28:07.000Z",
-      "summary": "No group claims responsibility for attack, but suspicion falls on ISIL affiliate."
-    },
-    {
-      "title": "South African ostriches plucked alive for luxury fashion",
-      "link": "http://www.africanews.com/2026/09/22/south-african-ostriches-plucked-alive-for-luxury-fashion/",
-      "source": "Africanews",
-      "published": "2026-09-22T13:16:13.000Z",
-      "summary": "South African ostrich farms are using mechanical pluckers to remove feathers from living birds destined for major luxury fashion brands in techniques that are cruel and painful, animal…"
-    },
-    {
-      "title": "FIFA President Infantino’s letter a ploy for re-election, says German FA",
-      "link": "https://www.aljazeera.com/sports/2026/9/22/fifa-president-infantinos-letter-a-ploy-for-re-election-says-german-fa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T13:11:01.000Z",
-      "summary": "Infantino proposed an independent review of FIFA's decision-making process amid criticism of his leadership."
-    },
-    {
-      "title": "Nutrition expert shares easy steps to healthier eating",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260922-nutrition-expert-shares-easy-steps-to-healthier-eating",
-      "source": "France 24",
-      "published": "2026-09-22T13:02:00.000Z",
-      "summary": "In this edition we're looking at how to eat healthier. We speak to Cynthia Ka, the author of \"Mes assiettes naturo\". Cynthia says cooking is your pharmacy and doing your weekly shopping is…",
-      "image": "https://s.france24.com/media/display/713da01a-b67e-11f1-8006-557acd7c815c/w:1024/p:16x9/capture-8132248796ab26ff0552d39-30971946.jpg"
-    },
-    {
-      "title": "‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?",
-      "link": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T13:05:30.000Z",
-      "summary": "India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan."
     }
   ],
   "africa": [
     {
-      "title": "Kenya: Uda Hits Back At Uhuru Over Raila's 2022 Election Claim",
-      "link": "https://allafrica.com/stories/202609220374.html",
+      "title": "Is Ethiopia heading towards renewed civil war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T18:51:53.000Z",
+      "summary": "Seven armed groups announce alliance to topple government."
+    },
+    {
+      "title": "Niger: Junta Strips 5 More Exiled Critics of Nationality",
+      "link": "https://allafrica.com/stories/202609220449.html",
       "source": "AllAfrica",
-      "published": "2026-09-22T15:04:16.000Z",
-      "summary": "[Capital FM] Nairobi -- UDA has hit back at retired President Uhuru Kenyatta after he said he still believes the late Raila Odinga won the 2022 presidential election."
+      "published": "2026-09-22T17:38:39.000Z",
+      "summary": "[HRW] Nairobi -- Latest Crackdown Heightens Rights Concerns Amid Renewed Political Tensions"
+    },
+    {
+      "title": "Sudan’s historical famine echoes through latest hunger crisis",
+      "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T17:45:55.000Z",
+      "summary": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages."
+    },
+    {
+      "title": "Djibouti: Djibouti Frees Top SA Investigative Journalist Micah Reddy",
+      "link": "https://allafrica.com/stories/202609220448.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T17:37:57.000Z",
+      "summary": "[Daily Maverick] South African investigative journalist Micah Reddy of the International Consortium of Investigative Journalists was detained on Saturday, but is now on his way back to…"
+    },
+    {
+      "title": "North Africa: Egypt Declares Suez Canal Secure As August Revenue Surges to $567 Million",
+      "link": "https://allafrica.com/stories/202609220446.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-22T17:36:54.000Z",
+      "summary": "[Radio Dalsan] CAIRO -- Egypt's Suez Canal Authority (SCA) has declared the waterway safe, with maritime traffic flowing normally as August revenue rose 56.7 percent year-on-year to $567.1…"
+    },
+    {
+      "title": "Sudan: Drone Strikes Destroy More Than 330,000 Learning Materials in Sudan's North Kordofan State",
+      "link": "https://allafrica.com/stories/202609220447.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T17:37:32.000Z",
+      "summary": "[Unicef] New York/Nairobi/Khartoum -- Drone strikes on two warehouses in Shikan locality, North Kordofan, on 20 September destroyed over 292,000 school textbooks, 40,000 Arabic Language and…"
+    },
+    {
+      "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
+      "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T16:55:39.000Z",
+      "summary": "Turkish leader says UN has been forced into 'dysfunction' and was 'bleeding out' in Palestine, Lebanon, Sudan."
+    },
+    {
+      "title": "Liberia: A Decade On - the World Is Still Listening to Liberia's Ebola Story",
+      "link": "https://allafrica.com/stories/202609220445.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T17:35:25.000Z",
+      "summary": "[Liberian Observer] Ten years after Ebola swept through Liberia and claimed thousands of lives, the world is still turning to this small West African nation for answers. On Sunday, in a…"
+    },
+    {
+      "title": "Top South African policeman charged with sexual offences",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-22T16:54:41.000Z",
+      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46aa/live/d5084a60-7f69-11f1-8812-63adb81ec20b.jpg"
+    },
+    {
+      "title": "Ceuta on alert as Spain braces for new border surge",
+      "link": "http://www.africanews.com/2026/09/22/ceuta-on-alert-as-spain-braces-for-new-border-surge/",
+      "source": "Africanews",
+      "published": "2026-09-22T16:03:07.000Z",
+      "summary": "Ceuta is on alert. Spanish forces are patrolling the border after fresh calls on social media for migrants to cross from Morocco. The warnings follow a dramatic crisis on July 30 and 31…"
+    },
+    {
+      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-22T16:42:23.000Z",
+      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7808/live/dd755fe0-b672-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "title": "UNGA 2026: Can the UN stop wars?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T15:49:12.000Z",
+      "summary": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts."
+    },
+    {
+      "title": "World Rhino Day: Less than 27,000 of the giant animals remain in the wild",
+      "link": "http://www.africanews.com/2026/09/22/world-rhino-day-less-than-27000-of-the-giant-animals-remain-in-the-wild/",
+      "source": "Africanews",
+      "published": "2026-09-22T15:35:44.000Z",
+      "summary": "This year’s theme is “Keep the Five Alive”, highlighting the fragile status of the surviving species in Africa and Asia."
+    },
+    {
+      "title": "Uganda: Balimwezo Asks Museveni to Suspend Buyala Garbage Dumping Directive",
+      "link": "https://allafrica.com/stories/202609220388.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T15:32:25.000Z",
+      "summary": "[Nile Post] Kampala Lord Mayor Ronald Balimwezo has asked President Yoweri Museveni to suspend his directive stopping the dumping of garbage at the Buyala Waste Management Facility in Mpigi…"
+    },
+    {
+      "title": "Namibia: Families Navigate High Food Costs Via Backyard Gardens",
+      "link": "https://allafrica.com/stories/202609220386.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-22T15:29:47.000Z",
+      "summary": "[New Era] Residents of Windhoek's informal settlements are turning to backyard gardens to produce their own vegetables, reduce household grocery expenses and improve food security, with…"
+    },
+    {
+      "title": "Namibia: Usakos Is Water Sufficient - Goraseb...Dismisses Namwater's Rationing",
+      "link": "https://allafrica.com/stories/202609220387.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T15:30:15.000Z",
+      "summary": "[New Era] Walvis Bay -- Usakos Town Council CEO Lesley Goraseb says NamWater's rationing of the town's water is not due to outstanding water bills but because of ailing infrastructure."
+    },
+    {
+      "title": "Tunisia says 2026 summer hottest on record, temperatures topped 49.7°C",
+      "link": "http://www.africanews.com/2026/09/22/tunisia-says-2026-summer-hottest-on-record-temperatures-topped-497c/",
+      "source": "Africanews",
+      "published": "2026-09-22T15:23:30.000Z",
+      "summary": "Tunisia's summer this year was its hottest on record, the country's weather authority said Tuesday, following multiple heatwaves, water shortages and power cuts"
+    },
+    {
+      "title": "Namibia: Namibia's Social Workers' Shortfall At 330",
+      "link": "https://allafrica.com/stories/202609220384.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T15:28:47.000Z",
+      "summary": "[New Era] Namibia is currently grappling with an acute shortage of 330 regional social workers, including community liaison officers, administrative officers and support staff, to help…"
     },
     {
       "title": "Nigeria: Nepza Threatens Sanctions Over Illegal Container Imports",
@@ -1416,11 +1532,11 @@ window.GDC_NEWS = {
       "summary": "[Leadership] The Nigeria Export Processing Zones Authority (NEPZA) has announced tighter enforcement against the alleged illegal importation of containers into Free Trade Zones, warning…"
     },
     {
-      "title": "Ethiopia: Ethiopia, U.S. Agree to Deepen Peace and Economic Ties",
-      "link": "https://allafrica.com/stories/202609220373.html",
+      "title": "Kenya: Uda Hits Back At Uhuru Over Raila's 2022 Election Claim",
+      "link": "https://allafrica.com/stories/202609220374.html",
       "source": "AllAfrica",
-      "published": "2026-09-22T15:03:33.000Z",
-      "summary": "[Reporter] Ethiopia and the United States have agreed to expand cooperation on regional peace and security while working to strengthen bilateral economic and trade relations, according to…"
+      "published": "2026-09-22T15:04:16.000Z",
+      "summary": "[Capital FM] Nairobi -- UDA has hit back at retired President Uhuru Kenyatta after he said he still believes the late Raila Odinga won the 2022 presidential election."
     },
     {
       "title": "Nigeria: Power Minister Admits Nigerians Still Lack Reliable Electricity",
@@ -1430,11 +1546,11 @@ window.GDC_NEWS = {
       "summary": "[Leadership] The Minister of Power, Joseph Tegbe, has admitted that many Nigerians are still without reliable electricity despite ongoing efforts by the Federal Government to improve power…"
     },
     {
-      "title": "South Africa: Application Period for Special Votes Opens",
-      "link": "https://allafrica.com/stories/202609220363.html",
+      "title": "Ethiopia: Ethiopia, U.S. Agree to Deepen Peace and Economic Ties",
+      "link": "https://allafrica.com/stories/202609220373.html",
       "source": "AllAfrica",
-      "published": "2026-09-22T14:53:49.000Z",
-      "summary": "[SAnews.gov.za] The Electoral Commission of South Africa (IEC) has opened applications for Special Votes for the upcoming Local Government Elections."
+      "published": "2026-09-22T15:03:33.000Z",
+      "summary": "[Reporter] Ethiopia and the United States have agreed to expand cooperation on regional peace and security while working to strengthen bilateral economic and trade relations, according to…"
     },
     {
       "title": "Zimbabwe: Zimpapers Sacks Capitalk's Pathisani, Star FM Boss Yvonne Tivatye As Retrenchments Commence",
@@ -1444,11 +1560,11 @@ window.GDC_NEWS = {
       "summary": "[New Zimbabwe] ZIMPAPERS has fired popular Capitalk FM presenter Pathisani Sibanda and Star FM station manager Yvonne Tivatye as retrenchments commence."
     },
     {
-      "title": "South Africa: Micah Reddy Has Been Released and Is On His Way Home",
-      "link": "https://allafrica.com/stories/202609220346.html",
+      "title": "South Africa: Application Period for Special Votes Opens",
+      "link": "https://allafrica.com/stories/202609220363.html",
       "source": "AllAfrica",
-      "published": "2026-09-22T14:42:46.000Z",
-      "summary": "[GroundUp] Kooki Mahmoud has also been freed by Djiboutian authorities"
+      "published": "2026-09-22T14:53:49.000Z",
+      "summary": "[SAnews.gov.za] The Electoral Commission of South Africa (IEC) has opened applications for Special Votes for the upcoming Local Government Elections."
     },
     {
       "title": "South Africa: Poor Households Spend Two-Thirds of Their Money On Just Food and Rent",
@@ -1458,11 +1574,11 @@ window.GDC_NEWS = {
       "summary": "[Scrolla] For every R100 a poor household earns, almost R67 goes straight to food and housing, before anything else is paid for. Electricity, water, petrol and taxi fares have all gone up…"
     },
     {
-      "title": "Nigeria: Couple, Three Children Die As Head Tank Falls On Building in Enugu",
-      "link": "https://allafrica.com/stories/202609220341.html",
+      "title": "South Africa: Micah Reddy Has Been Released and Is On His Way Home",
+      "link": "https://allafrica.com/stories/202609220346.html",
       "source": "AllAfrica",
-      "published": "2026-09-22T14:38:29.000Z",
-      "summary": "[Premium Times] The incident, PREMIUM TIMES gathered, occurred in Nenwenta, a community in Awgu Local Government Area of the state."
+      "published": "2026-09-22T14:42:46.000Z",
+      "summary": "[GroundUp] Kooki Mahmoud has also been freed by Djiboutian authorities"
     },
     {
       "title": "Kenya: DP Kindiki - Final Preparations Underway for Lamu Refinery Groundbreaking Next Wednesday",
@@ -1470,6 +1586,20 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-22T14:49:58.000Z",
       "summary": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki says final preparations are underway for the groundbreaking ceremony of the proposed Lamu Oil Refinery next Wednesday."
+    },
+    {
+      "title": "Nigeria: Couple, Three Children Die As Head Tank Falls On Building in Enugu",
+      "link": "https://allafrica.com/stories/202609220341.html",
+      "source": "AllAfrica",
+      "published": "2026-09-22T14:38:29.000Z",
+      "summary": "[Premium Times] The incident, PREMIUM TIMES gathered, occurred in Nenwenta, a community in Awgu Local Government Area of the state."
+    },
+    {
+      "title": "Mozambique: Chapo Invites Brazilian Companies to Invest in Gas Sector",
+      "link": "https://allafrica.com/stories/202609220351.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-22T14:45:15.000Z",
+      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo has invited Brazilian investors and companies to participate in the \"new phase of development for Mozambique's oil and gas sector.\""
     },
     {
       "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
@@ -1480,11 +1610,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad0a/live/3ed1e8e0-b67c-11f1-ba87-73dd9416d9df.png"
     },
     {
-      "title": "Mozambique: Chapo Invites Brazilian Companies to Invest in Gas Sector",
-      "link": "https://allafrica.com/stories/202609220351.html",
+      "title": "Mozambique: Motorcycle Taxi Drivers Protest Against Fuel Shortage in Nampula",
+      "link": "https://allafrica.com/stories/202609220349.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:45:15.000Z",
-      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo has invited Brazilian investors and companies to participate in the \"new phase of development for Mozambique's oil and gas sector.\""
+      "published": "2026-09-22T14:44:01.000Z",
+      "summary": "[AIM] Maputo -- Hundreds of motorcycle taxi drivers on Monday protested against fuel shortage in the northern Mozambican province of Nampula."
     },
     {
       "title": "DR Congo to probe violence, death of protestor at anti-govt rally",
@@ -1494,11 +1624,11 @@ window.GDC_NEWS = {
       "summary": "The C64 movement had called for a day of protest against a planned constitutional change that could allow 63-year-old President Felix Tshisekedi to seek a third five-year term in office"
     },
     {
-      "title": "Mozambique: Motorcycle Taxi Drivers Protest Against Fuel Shortage in Nampula",
-      "link": "https://allafrica.com/stories/202609220349.html",
+      "title": "South Africa: Local Companies to Be Asked to Make Foot-and-Mouth Disease Vaccines",
+      "link": "https://allafrica.com/stories/202609220347.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:44:01.000Z",
-      "summary": "[AIM] Maputo -- Hundreds of motorcycle taxi drivers on Monday protested against fuel shortage in the northern Mozambican province of Nampula."
+      "published": "2026-09-22T14:43:42.000Z",
+      "summary": "[GroundUp] Agricultural Research Council cannot meet demand, Minister of Agriculture tells Parliament"
     },
     {
       "title": "US to return $2.5 million to The Gambia after sale of ex-president Jammeh's mansion",
@@ -1508,11 +1638,11 @@ window.GDC_NEWS = {
       "summary": "The United States has agreed to return 2.5 million dollars to The Gambia - the proceeds of the sale of a property belonging to the country’s former president Yahya Jammeh."
     },
     {
-      "title": "South Africa: Local Companies to Be Asked to Make Foot-and-Mouth Disease Vaccines",
-      "link": "https://allafrica.com/stories/202609220347.html",
+      "title": "Africa: WHO, CJID Begin Development of Africa's First Road Safety Media Guidelines",
+      "link": "https://allafrica.com/stories/202609220344.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:43:42.000Z",
-      "summary": "[GroundUp] Agricultural Research Council cannot meet demand, Minister of Agriculture tells Parliament"
+      "published": "2026-09-22T14:40:42.000Z",
+      "summary": "[Premium Times] The region accounts for about one-fifth of global road fatalities despite having only three per cent of the world's registered vehicles"
     },
     {
       "title": "Libya oil production hit after armed group shuts pipeline valve",
@@ -1522,11 +1652,11 @@ window.GDC_NEWS = {
       "summary": "An unnamed armed group shut a valve on a pipeline from a major Libyan oil field, causing a drop in production, the National Oil Corporation (NOC) said late Monday."
     },
     {
-      "title": "Africa: WHO, CJID Begin Development of Africa's First Road Safety Media Guidelines",
-      "link": "https://allafrica.com/stories/202609220344.html",
+      "title": "Nigeria: Central Bank Cuts Interest Rate",
+      "link": "https://allafrica.com/stories/202609220342.html",
       "source": "AllAfrica Business",
-      "published": "2026-09-22T14:40:42.000Z",
-      "summary": "[Premium Times] The region accounts for about one-fifth of global road fatalities despite having only three per cent of the world's registered vehicles"
+      "published": "2026-09-22T14:39:13.000Z",
+      "summary": "[Premium Times] \"It emphasised that the recalibration of the corridor does not constitute a change in the current monetary policy stance, but rather an operational reset to enhance the…"
     },
     {
       "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
@@ -1536,20 +1666,6 @@ window.GDC_NEWS = {
       "summary": "No group claims responsibility for attack, but suspicion falls on ISIL affiliate."
     },
     {
-      "title": "Nigeria: Central Bank Cuts Interest Rate",
-      "link": "https://allafrica.com/stories/202609220342.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T14:39:13.000Z",
-      "summary": "[Premium Times] \"It emphasised that the recalibration of the corridor does not constitute a change in the current monetary policy stance, but rather an operational reset to enhance the…"
-    },
-    {
-      "title": "South African ostriches plucked alive for luxury fashion",
-      "link": "http://www.africanews.com/2026/09/22/south-african-ostriches-plucked-alive-for-luxury-fashion/",
-      "source": "Africanews",
-      "published": "2026-09-22T13:16:13.000Z",
-      "summary": "South African ostrich farms are using mechanical pluckers to remove feathers from living birds destined for major luxury fashion brands in techniques that are cruel and painful, animal…"
-    },
-    {
       "title": "Nigeria: NMDPRA Unveils New Rules in Bid to Curb Monopoly, Market Abuse in Petroleum Sector",
       "link": "https://allafrica.com/stories/202609220340.html",
       "source": "AllAfrica Business",
@@ -1557,131 +1673,11 @@ window.GDC_NEWS = {
       "summary": "[Vanguard] The Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) has unveiled proposed regulations aimed at curbing monopoly, abuse of market dominance, collusion…"
     },
     {
-      "title": "East Africa: Why the Int'l Community Must Confront TPLF Hardliners & Foreign Spoilers",
-      "link": "https://allafrica.com/stories/202609220292.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T13:02:46.000Z",
-      "summary": "[ENA] The signing of the Pretoria Permanent Cessation of Hostilities Agreement (CoHA) in November 2022 was widely hailed as a watershed moment for Ethiopia. After two years of devastating…"
-    },
-    {
-      "title": "Nigeria: JAMB Lifts Ban On SIM Swap, Email Change for Utme Candidates",
-      "link": "https://allafrica.com/stories/202609220336.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T14:09:18.000Z",
-      "summary": "[Leadership] The Joint Admissions and Matriculation Board (JAMB), has lifted its long-standing ban on SIM card swapping and registered email address changes for candidates, introducing a…"
-    },
-    {
-      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
-      "link": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T12:58:29.000Z",
-      "summary": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says."
-    },
-    {
-      "title": "Nigeria: South Africa Probes Moriel Infrastructure Over Contractor Gradings and State Deals",
-      "link": "https://allafrica.com/stories/202609220333.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T14:09:16.000Z",
-      "summary": "[Leadership] South African authorities have launched separate investigations into Moriel Infrastructure Group's contractor gradings and government contracts following a viral video…"
-    },
-    {
-      "title": "Kenya: Uhuru Hits Back At Ruto Over Continued Blame",
-      "link": "https://allafrica.com/stories/202609220198.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T12:29:59.000Z",
-      "summary": "[Capital FM] Former President Uhuru Kenyatta has hit back at President William Ruto over what he described as the continued blame being directed at his administration, asking why his name…"
-    },
-    {
-      "title": "Liberia: Aml High School Principal Credits Strong Leadership and Quality Teaching for 100 Percent Wassce Success",
-      "link": "https://allafrica.com/stories/202609220304.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T13:08:33.000Z",
-      "summary": "[New Republic] MONROVIA -- Juwle Kumeh, Principal of the ArcelorMittal Liberia High School in Yekepa, Nimba County, is celebrating a remarkable academic achievement after all 41 of the…"
-    },
-    {
-      "title": "Nigeria: Ignore Fake Newspaper Graphic Claiming Nigerian President Tinubu Said Student Loan Defaulters Face Life Imprisonment",
-      "link": "https://allafrica.com/stories/202609220195.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T12:29:13.000Z",
-      "summary": "[Africa Check] Ignore fake newspaper graphic claiming Nigerian president Tinubu said student loan defaulters face life imprisonment"
-    },
-    {
-      "title": "Uganda: Quality Chemicals Calls for Greater Awareness, Access to Sickle Cell Diagnosis and Treatment",
-      "link": "https://allafrica.com/stories/202609220299.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T13:04:12.000Z",
-      "summary": "[Nile Post] Officials at Quality Chemical Industries Limited (QCIL) have called for increased public awareness, early diagnosis and improved access to treatment as Uganda steps up efforts…"
-    },
-    {
-      "title": "Africa: African Development Bank Group and France Deepen Cooperation On Capital Mobilisation and Private-Sector Development",
-      "link": "https://allafrica.com/stories/202609220188.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T12:25:27.000Z",
-      "summary": "[African Development Bank (AfDB)] The African Development Bank Group and France are developing a more integrated approach to financing projects, strengthening delivery and widening…"
-    },
-    {
-      "title": "Uganda: Prudential Uganda Targets Family Financial Security With Three New Products",
-      "link": "https://allafrica.com/stories/202609220296.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T13:03:47.000Z",
-      "summary": "[Nile Post] Prudential Uganda has launched three financial protection and savings products aimed at helping Ugandan families plan for children's education, build long-term wealth and…"
-    },
-    {
-      "title": "Africa: All of Africa Today - September 22, 2026",
-      "link": "https://allafrica.com/stories/202609220182.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T12:24:24.000Z",
-      "summary": "[allAfrica] Monrovia -- South Africa Pushes for Permanent African Seat on UN Security Council"
-    },
-    {
-      "title": "Ethiopia: Egyptian Minister's Remarks Reflect Crude Colonial Mentality - Ministry of Water and Energy",
-      "link": "https://allafrica.com/stories/202609220291.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T13:01:51.000Z",
-      "summary": "[ENA] Addis Ababa -- Egyptian Minister of Water Resources and Irrigation recent statement suggesting that Ethiopians lack education is a manifestation of a crude colonial mentality that…"
-    },
-    {
-      "title": "Kenya: Kenyatta Clears Way for New Jubilee Leadership",
-      "link": "https://allafrica.com/stories/202609220173.html",
-      "source": "AllAfrica",
-      "published": "2026-09-22T12:18:38.000Z",
-      "summary": "[Capital FM] Nairobi -- Former President Uhuru Kenyatta has formally cleared the way for a leadership transition in the Jubilee Party, asking members to accept former Interior Cabinet…"
-    },
-    {
-      "title": "Ethiopia: Ethiopia's Renewable Energy, Ev Transition Attracts Nordic Investment Interest",
-      "link": "https://allafrica.com/stories/202609220289.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T13:00:40.000Z",
-      "summary": "[ENA] Addis Ababa -- Ethiopia's vast renewable energy resources and rapid shift toward electric mobility are drawing growing interest from Nordic investors and technology companies…"
-    },
-    {
-      "title": "Doctor in court to face Rwanda genocide charges in UK first",
-      "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-09-22T11:25:19.000Z",
-      "summary": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/6c03b580-b674-11f1-b711-df5e4d50c2fd.jpg"
-    },
-    {
-      "title": "Uganda: France Expands Support for Uganda's Green Entrepreneurs",
-      "link": "https://allafrica.com/stories/202609220285.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T12:58:24.000Z",
-      "summary": "[Independent (Kampala)] Kampala -- France is expanding support for Uganda's women and youth-led green businesses, moving beyond project funding towards a longer-term pipeline intended to…"
-    },
-    {
-      "title": "Noma: The neglected disease devastating children in northern Nigeria",
-      "link": "http://www.africanews.com/2026/09/22/noma-the-neglected-disease-devastating-children-in-northern-nigeria/",
+      "title": "South African ostriches plucked alive for luxury fashion",
+      "link": "http://www.africanews.com/2026/09/22/south-african-ostriches-plucked-alive-for-luxury-fashion/",
       "source": "Africanews",
-      "published": "2026-09-22T10:54:43.000Z",
-      "summary": "Noma is a rapidly progressing and often fatal infection of the face and mouth. It begins with gum inflammation in malnourished children living in polluted environments and quickly spreads…"
-    },
-    {
-      "title": "Nigeria: Opay Marks 8th Anniversary, Reaffirms Commitment to Driving Financial Inclusion in Nigeria",
-      "link": "https://allafrica.com/stories/202609220268.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-22T12:55:55.000Z",
-      "summary": "[This Day] Eight years after commencing operations in Nigeria, financial technology company, OPay, has reaffirmed its commitment to using technology to make financial services simpler, more…"
+      "published": "2026-09-22T13:16:13.000Z",
+      "summary": "South African ostrich farms are using mechanical pluckers to remove feathers from living birds destined for major luxury fashion brands in techniques that are cruel and painful, animal…"
     }
   ]
 };

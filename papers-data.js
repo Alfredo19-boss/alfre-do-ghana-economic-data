@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-22T15:30:14.632Z",
+  "updated": "2026-09-22T19:03:48.790Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,134 +25,213 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Counterfeit currency syndicates used churches to hide printing operations – National Security Council Secretariat",
-      "link": "https://www.myjoyonline.com/counterfeit-currency-syndicates-used-churches-to-hide-printing-operations-national-security-council-secretariat/",
+      "title": "Government tackling drug trafficking head-on – Tanko-Computer assures",
+      "link": "https://www.myjoyonline.com/government-tackling-drug-trafficking-head-on-tanko-computer-assures/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:24:49.000Z",
-      "summary": "Counterfeit currency syndicates deliberately exploited churches and administrative offices of some religious organisations to conceal their printing operations, the National Security…",
-      "categories": [
-        "Crime",
-        "National",
-        "Churches",
-        "Counterfeit currency",
-        "National Security",
-        "printing"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/black-person-hands-in-suit-pointing-inspecting-and-checking-200-ghanaian-cedi-note-watermark-inspection-of-money-verification-of-paper-currency-not-fake-counterfeit-original-real-png.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP press conference on drug busts should be treated with contempt – NDC",
-      "link": "https://www.myjoyonline.com/npp-press-conference-on-drug-busts-should-be-treated-with-contempt-ndc/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T15:24:32.000Z",
-      "summary": "The Deputy Director of Elections and IT of the National Democratic Congress (NDC), Rashid Tanko-Computer, has called for the New Patriotic Party’s (NPP) recent press conference on drug…",
+      "published": "2026-09-22T18:47:48.000Z",
+      "summary": "The National Democratic Congress' Deputy Director of Elections and IT, Rashid Tanko-Computer, says the government is tackling drug trafficking head-on and working to address gaps in the…",
       "categories": [
         "National",
         "News",
-        "drug busts",
-        "NDC",
-        "NPP"
+        "Drug trafficking",
+        "Government",
+        "Rashid Tanko-Computer"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/computer-1024x591.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/Tanko-Computer-1024x524.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Don’t abandon working policies because of politics – Asiedu Nketiah",
-      "link": "https://www.myjoyonline.com/dont-abandon-working-policies-because-of-politics-asiedu-nketiah/",
+      "title": "Climate, conflict and the struggle for resources: Why peacebuilding must look beyond the battlefield",
+      "link": "https://www.myjoyonline.com/climate-conflict-and-the-struggle-for-resources-why-peacebuilding-must-look-beyond-the-battlefield/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:18:59.000Z",
-      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has called for greater policy continuity in Ghana, urging successive governments to improve programmes…",
+      "published": "2026-09-22T18:43:39.000Z",
+      "summary": "Climate change is often described as an environmental challenge. But for communities facing drought, floods, declining harvests or water shortages, its consequences are immediate. They…",
       "categories": [
-        "National",
-        "Politics",
-        "Asiedu Nketiah",
-        "Continuity",
-        "Democracy"
+        "Opinion",
+        "Climate",
+        "conflict"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Johnson-Asiedu-Nketia.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-6.20.05-PM-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "National Security arrests 16 and seizes millions in counterfeit currency and printing equipment",
-      "link": "https://www.myjoyonline.com/national-security-arrests-16-and-seizes-millions-in-counterfeit-currency-and-printing-equipment/",
+      "title": "GRAY Network’s Menstrual Health project transforms education in Central and South Tongu",
+      "link": "https://www.myjoyonline.com/gray-networks-menstrual-health-project-transforms-education-in-central-and-south-tongu/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:18:19.000Z",
-      "summary": "The National Security Council Secretariat (NSCS), working with security and intelligence agencies, says it has dismantled four major counterfeit currency printing hubs and arrested 16…",
+      "published": "2026-09-22T18:34:25.000Z",
+      "summary": "A menstrual hygiene project initiated by GRAY Network has significantly promoted inclusive education in the Central and South Tongu Districts in the Volta Region. The project led to…",
       "categories": [
-        "HP News 4",
-        "National",
-        "Counterfeit",
-        "Currency",
-        "National Security",
-        "printing equipment"
+        "News",
+        "GRAY Network"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-41.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GRAY-NETWORK-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NPP links resurgence of drug trafficking cases to NDC’s return to power",
-      "link": "https://www.myjoyonline.com/npp-links-resurgence-of-drug-trafficking-cases-to-ndcs-return-to-power/",
+      "title": "Green finance goes beyond banks and big corporations to driving climate and environmental solutions – Nanabanyin Addo-Brown",
+      "link": "https://www.myjoyonline.com/green-finance-goes-beyond-banks-and-big-corporations-to-driving-climate-and-environmental-solutions-nanabanyin-addo-brown/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:17:27.000Z",
-      "summary": "The National Organiser of the opposition New Patriotic Party (NPP), Henry Nana Boakye, has accused the governing National Democratic Congress (NDC) of having a history of association with…",
+      "published": "2026-09-22T18:31:02.000Z",
+      "summary": "Head of Joy Business, Nanabanyin Addo-Brown, has said green finance should go beyond banks and big corporations to support investments that deliver climate and environmental benefits.",
       "categories": [
         "National",
-        "Cocaine",
-        "drug tracfiking",
-        "illicit drug",
-        "NDC",
-        "NPP"
+        "Climate",
+        "Ecobank",
+        "green finance",
+        "JoyBusiness"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2948-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2865-e1790068847683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "KGL Foundation and GNPC Foundation partner to expand educational scholarships for Ghanaian students",
-      "link": "https://www.myjoyonline.com/kgl-foundation-and-gnpc-foundation-partner-to-expand-educational-scholarships-for-ghanaian-students/",
+      "title": "The journey is short",
+      "link": "https://www.myjoyonline.com/the-journey-is-short/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:17:21.000Z",
-      "summary": "The KGL Foundation and the GNPC Foundation have entered into a strategic partnership to expand educational opportunities for Ghanaian students, bringing the public and private sector…",
+      "published": "2026-09-22T18:27:24.000Z",
+      "summary": "September brings back some bad memories. Half a decade ago, I lost my father. It hit me like a blow because I least expected it.",
       "categories": [
-        "National",
-        "GNPC",
-        "KGL"
+        "Features",
+        "Journey",
+        "Short"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-2.40.32-PM-1024x731.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2946.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Asiedu Nketiah urges journalists to report fairly at all times, and not based on politicians’ complaints",
-      "link": "https://www.myjoyonline.com/asiedu-nketiah-urges-journalists-to-report-fairly-at-all-times-and-not-based-on-politicians-complaints/",
+      "title": "Teacher unions give government September 24 deadline to resolve promotion arrears",
+      "link": "https://www.myjoyonline.com/teacher-unions-give-government-september-24-deadline-to-resolve-promotion-arrears/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:12:53.000Z",
-      "summary": "National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has urged journalists to remain independent and resist allowing complaints from politicians to determine…",
+      "published": "2026-09-22T18:26:40.000Z",
+      "summary": "The three teacher unions have given the government until midday on Thursday, September 24, 2026, to resolve outstanding issues concerning the payment of promotion salaries and arrears owed…",
       "categories": [
+        "Education",
+        "HP News 8",
         "National",
-        "Politics",
-        "Asiedu Nketiah",
-        "Bono GJA",
-        "Fair reportage",
-        "Journalists"
+        "News",
+        "Government",
+        "promotion arrears",
+        "Teacher Unions"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Asiedu_Nketiah_portrait.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Teacher-Unions-strike.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Finance Ministry to write off $120m of TOR’s $400m legacy debt – MD reveals",
-      "link": "https://www.myjoyonline.com/finance-ministry-to-write-off-120m-of-tors-400m-legacy-debt-md-reveals/",
+      "title": "Restoring BDC confidence helped turn around TOR – MD",
+      "link": "https://www.myjoyonline.com/restoring-bdc-confidence-helped-turn-around-tor-md/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T15:05:30.000Z",
-      "summary": "The Ministry of Finance is set to write off about $120 million of the Tema Oil Refinery’s (TOR) legacy debt as part of efforts to further ease the financial burden on the state-owned…",
+      "published": "2026-09-22T18:15:32.000Z",
+      "summary": "The Managing Director of the Tema Oil Refinery (TOR), Edmund Kombat, has linked the refinery’s turnaround to efforts to restore the confidence of Bulk Distribution Companies (BDCs), who had…",
       "categories": [
-        "HP News 6",
         "National",
-        "Finance Ministry",
+        "BDC",
         "MD",
         "TOR"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2949.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2996.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Chipper Cash launches bank-backed virtual accounts through collaboration with Universal Merchant Bank in Ghana",
+      "link": "https://www.myjoyonline.com/chipper-cash-launches-bank-backed-virtual-accounts-through-collaboration-with-universal-merchant-bank-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T18:15:00.000Z",
+      "summary": "Chipper Cash, a leading African financial technology company, has achieved a significant milestone in Ghana's digital financial services ecosystem by successfully integrating with Universal…",
+      "categories": [
+        "National"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-5.44.03-PM-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama calls for stronger domestic capacity and sustainable financing for Global South",
+      "link": "https://ghanaiantimes.com.gh/mahama-calls-for-stronger-domestic-capacity-and-sustainable-financing-for-global-south/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T17:30:21.000Z",
+      "summary": "President John Dramani Mahama has called for stronger domestic capacity, effective institutions and sustainable financing as countries in the Global South continue to face growing debt…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Five arrested as police recover guns and suspected drugs in Tamale",
+      "link": "https://ghanaiantimes.com.gh/five-arrested-as-police-recover-guns-and-suspected-drugs-in-tamale/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T17:27:39.000Z",
+      "summary": "The Northern Regional Police Command has arrested five people during an operation at the Aboabo scraps area in Tamale, where two pistols, ammunition, suspected narcotics and cash were…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP will be out of opposition In just 2 Years – Afoko vows",
+      "link": "https://ghanaiantimes.com.gh/npp-will-be-out-of-opposition-in-just-2-years-afoko-vows/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T17:25:12.000Z",
+      "summary": "Former National Chairman of the New Patriotic Party (NPP), Awentami Paul Afoko, has expressed optimism that the party will form the next government, with him at the helm as National…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana set to reopen diplomatic mission in Ireland after 17 years",
+      "link": "https://ghanaiantimes.com.gh/ghana-set-to-reopen-diplomatic-mission-in-ireland-after-17-years/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T17:22:58.000Z",
+      "summary": "Ghana is set to reopen its diplomatic mission in Ireland as part of efforts to strengthen relations between the two countries and improve support for Ghanaians living there. The Deputy…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "I have no hand in Laboma demolition- La Shikitele Nii Adjei Koofeh lV Boldly states",
+      "link": "https://ghanaiantimes.com.gh/i-have-no-hand-in-laboma-demolition-la-shikitele-nii-adjei-koofeh-lv-boldly-states/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T17:19:48.000Z",
+      "summary": "Head of the Nmati Abonase Quarter at Konadu We, La Shikitele, Nii Adjei Koofeh IV, has denied any responsibility for the demolition of some structures at the Laboma Beach Resort. He…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-16.01.07-1-1024x576.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NELEF 2026: Emerging leaders urged to take responsibility for Ghana’s development",
+      "link": "https://ghanaiantimes.com.gh/nelef-2026-emerging-leaders-urged-to-take-responsibility-for-ghanas-development/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T17:15:22.000Z",
+      "summary": "Founder and Chief Executive Officer of VODEC Africa and Convener of the National Emerging Leaders’ Economic Forum (NELEF), Daniel Asomani, has urged young Africans to take greater…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Teacher Unions give government until September 24 to resolve promotion arrears",
+      "link": "https://ghanaiantimes.com.gh/teacher-unions-give-government-until-september-24-to-resolve-promotion-arrears/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-22T17:11:21.000Z",
+      "summary": "The teacher unions have given the government until midday on Thursday, September 24, 2026, to resolve outstanding issues concerning the promotion placement, salaries and arrears of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Semenyo ready to lead Man City's attack if called upon",
@@ -252,31 +331,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "New fire tenders to arrive in 4 months — Interior Minister",
-      "link": "https://ghanaiantimes.com.gh/new-fire-tenders-to-arrive-in-4-months-interior-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T13:17:33.000Z",
-      "summary": "The first batch of newly procured fire tenders for the Ghana National Fire Service (GNFS) is expected to arrive within four months, the Minister for the Interior, Muntaka Mohammed Mubarak…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Politics undermining sports dev’t agenda –NPC President",
-      "link": "https://ghanaiantimes.com.gh/politics-undermining-sports-devt-agenda-npc-president/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T13:14:11.000Z",
-      "summary": "Mr Samson Deen, President of the National Paralympic Committee (NPC) of Ghana, has called on political actors and sports stakeholders to work together to end divisions within the sports…",
-      "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Coach Sarpong questions continued Black Stars snub of local players",
       "link": "https://www.graphic.com.gh/sports/sports-news/coach-sarpong-questions-continued-black-stars-snub-of-local-players.html",
       "source": "Graphic Sports",
@@ -287,6 +341,18 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/22/COACH_SARPONG.jpg",
       "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "IFC to provide $200 million financing to open logistics corridor by linking Volta Lake to northern Ghana, Burkina Faso and other Sahelian states",
+      "link": "https://www.graphic.com.gh/news/general-news/ifc-to-provide-200-million-financing-to-open-logistics-corridor-by-linking-volta-lake-to-northern-ghana-burkina-faso-and-other-sahelian-states.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-22T12:22:10.000Z",
+      "summary": "The International Finance Corporation (IFC) has agreed to provide $200 million in financing to help open the logistics corridor linking the Volta Lake to northern Ghana, then to Burkina…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/accra.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Former UK Prime Minister Brown backs Accra Reset",
@@ -370,78 +436,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/22/tamale.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Insurance sector offers opportunities for Ghanaian youth — GIUC Rector",
-      "link": "https://ghanaiantimes.com.gh/insurance-sector-offers-opportunities-for-ghanaian-youth-giuc-rector/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T09:29:38.000Z",
-      "summary": "The Rector of the Ghana Insurance University College (GIUC), Dr Richard Okyere, has urged the youth to pursue courses in insurance, particularly actuarial science, to help address the…",
-      "categories": [
-        "Business"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana Stocks Retreat 2.06% … as weekly turnover falls",
-      "link": "https://ghanaiantimes.com.gh/ghana-stocks-retreat-2-06-as-weekly-turnover-falls/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T09:27:47.000Z",
-      "summary": "Ghana’s equity market retreated in the week to September 18, 2026, as losses in several heavily weighted stocks pulled the benchmark indices lower and erased more than GH¢6 billion in…",
-      "categories": [
-        "Business"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Govt seeks Diaspora input to shape policies",
-      "link": "https://ghanaiantimes.com.gh/govt-seeks-diaspora-input-to-shape-policies/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T09:25:01.000Z",
-      "summary": "The Diaspora Affairs Office of the President (DAOOP) has held the maiden Ghana Diaspora Townhall Meeting at the Christiansborg Castle in Osu, Accra, as part of efforts to strengthen…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Finance immunisation ahead of GAVI exit — Stakeholders",
-      "link": "https://ghanaiantimes.com.gh/finance-immunisation-ahead-of-gavi-exit-stakeholders/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T09:22:55.000Z",
-      "summary": "Health-sector stakeholders have called on the government to step up efforts to fully finance immunisation interventions ahead of Ghana’s planned exit from the Global Alliance for Vaccines…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana to host 6th FAJ Continental Congress",
-      "link": "https://ghanaiantimes.com.gh/ghana-to-host-6th-faj-continental-congress/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T09:20:53.000Z",
-      "summary": "Ghana has won the bid to host the 6th Continental Congress of the Federation of African Journalists (FAJ) after the FAJ Steering Committee unanimously approved the bid submitted by the…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Govt targets cheaper power for industries",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-targets-cheaper-power-for-industries.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T07:48:12.000Z",
-      "summary": "The government is working towards reducing electricity generation costs to make power more affordable and predictable for industries, the Deputy Minister of Energy and Green Transition…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/Richard.jpg",
       "site": "https://www.graphic.com.gh/"
     }
   ]
