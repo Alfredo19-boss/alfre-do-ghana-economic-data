@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-22T00:59:56.217Z",
+  "updated": "2026-09-22T05:58:00.822Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Black Challenge call 20 for Mexico 2026 Amputee Football World Cup",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-challenge-call-20-for-mexico-2026-amputee-football-world-cup.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-22T05:14:47.000Z",
+      "summary": "Ghana’s Black Challenge have named a provisional 20-player squad for national camping ahead of the 2026 World Amputee Football Federation (WAFF) World Cup in Mexico. The tournament is…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/22/a5ff3ca2-7205-4fca-8825-162e773106df.jpeg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
     {
       "title": "Prof. Kwofie urges publishers to use indigenous knowledge systems to decolonise AI",
       "link": "https://www.myjoyonline.com/prof-kwofie-urges-publishers-to-use-indigenous-knowledge-systems-to-decolonise-ai/",
