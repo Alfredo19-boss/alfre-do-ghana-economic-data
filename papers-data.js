@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-23T09:35:45.052Z",
+  "updated": "2026-09-23T14:25:05.880Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,66 +25,156 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "The Luckiest launches 4th edition of annual promotion with nationwide activations",
-      "link": "https://www.myjoyonline.com/the-luckiest-launches-4th-edition-of-annual-promotion-with-nationwide-activations/",
+      "title": "Manhyia South MP recounts alleged attempt to forcibly take him to EOCO",
+      "link": "https://www.myjoyonline.com/manhyia-south-mp-recounts-alleged-attempt-to-forcibly-take-him-to-eoco/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T09:20:12.000Z",
-      "summary": "The Luckiest has launched the fourth edition of its annual promotion, promising participants prizes, entertainment and activations across the country. The 2026 edition begins on October 3…",
+      "published": "2026-09-23T14:06:21.000Z",
+      "summary": "Manhyia South MP, Nana Agyei Baffour Awuah, has given a detailed account of an alleged attempt by a woman claiming to be from the Economic and Organised Crime Office (EOCO) to arrest him…",
       "categories": [
-        "Business",
-        "Investments",
+        "National",
+        "News",
+        "Top Story",
+        "EOCO",
+        "Manhyia South MP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/awuah-1024x523.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘I had to drive off to safety’ – Nana Agyei Baffour Awuah on why he fled after High Court clash",
+      "link": "https://www.myjoyonline.com/i-had-to-drive-off-to-safety-nana-agyei-baffour-awuah-on-why-he-fled-after-high-court-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T14:00:46.000Z",
+      "summary": "Manhyia South legislator and lawyer for detained nurse Salomey Baffoe Awiti, Nana Agyei Baffour Awuah, says he drove away from the Accra High Court after Wednesday’s confrontation because…",
+      "categories": [
+        "HP News 1",
+        "Politics",
+        "Minority",
+        "Nana Agyei Baffour Awuah",
+        "safety"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3105.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nkrumah was a lonely man because of Pan-African vision – PLO Lumumba",
+      "link": "https://www.myjoyonline.com/nkrumah-was-a-lonely-man-because-of-pan-african-vision-plo-lumumba/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T13:55:29.000Z",
+      "summary": "Renowned Pan-Africanist and Kenyan lawyer Professor Patrick Lumumba has described Ghana’s first President, Dr Kwame Nkrumah, as a “lonely man”, saying his commitment to the broader African…",
+      "categories": [
+        "National",
+        "News",
+        "Lonely man",
+        "Nkrumah",
+        "P.L.O. Lumumba"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3104.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "P.L.O Lumumba calls for end to ‘primitive accumulation’ in public office",
+      "link": "https://www.myjoyonline.com/p-l-o-lumumba-calls-for-end-to-primitive-accumulation-in-public-office/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T13:54:18.000Z",
+      "summary": "Renowned Pan-Africanist and Author Professor P.L.O. Lumumba has called for a renewed commitment to integrity and selfless leadership in Africa, warning against the use of public office as a…",
+      "categories": [
+        "National",
+        "Corruption",
+        "P.L.O Lumumba"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3103.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Attempted arrest of Manhyia South MP in that manner a retrogression in Ghana’s democracy – Martin Kpebu",
+      "link": "https://www.myjoyonline.com/attempted-arrest-of-manhyia-south-mp-in-that-manner-a-retrogression-in-ghanas-democracy-martin-kpebu/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T13:49:01.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has described the alleged attempted arrest of Manhyia South MP Nana Agyei Baffour Awuah by security personnel believed to be from the Economic and…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "Democracy",
+        "EOCO",
         "Ghana",
-        "The Luckiest"
+        "Manhyia South MP",
+        "Martin Kpebu"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-3.28.34-PM-3-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/mart-1024x537.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ecobank calls for wider access and stronger collaboration on agricultural finance",
-      "link": "https://www.myjoyonline.com/ecobank-calls-for-wider-access-and-stronger-collaboration-on-agricultural-finance/",
+      "title": "Peace in an age of fragmentation: Why global cooperation matters more than ever",
+      "link": "https://www.myjoyonline.com/peace-in-an-age-of-fragmentation-why-global-cooperation-matters-more-than-ever/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T08:55:41.000Z",
-      "summary": "Ecobank’s Regional Head of Commercial and Consumer Banking, Charllote Amanquah, has called for closer cooperation among financial and agricultural institutions to extend support to more…",
+      "published": "2026-09-23T13:44:34.000Z",
+      "summary": "The world is more connected than ever. Goods, money, information and people move across borders every day. Yet countries are increasingly finding it difficult to agree on how to address…",
       "categories": [
-        "Agribusiness",
-        "National",
-        "Agriculture",
-        "Ecobank",
-        "Joy Business",
-        "Loans"
+        "HP Opinion 1",
+        "Opinion",
+        "global cooperation",
+        "Peace"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/ecobank_branch_13-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-11.51.57-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Agribusinesses need more than loans to reach their full potential – Ecobank",
-      "link": "https://www.myjoyonline.com/agribusinesses-need-more-than-loans-to-reach-their-full-potential-ecobank/",
+      "title": "Nkrumah’s vision for African dignity remains relevant – P.L.O. Lumumba",
+      "link": "https://www.myjoyonline.com/nkrumahs-vision-for-african-dignity-remains-relevant-p-l-o-lumumba/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T08:55:05.000Z",
-      "summary": "Ecobank’s Regional Head of Commercial and Consumer Banking, Charllote Amanquah, says access to finance alone will not resolve the challenges facing Ghana’s agricultural businesses.",
+      "published": "2026-09-23T13:27:13.000Z",
+      "summary": "Renowned Pan-Africanist and anti-corruption crusader Professor P.L.O. Lumumba has described Osagyefo Dr Kwame Nkrumah as a selfless leader whose vision for African unity and dignity…",
       "categories": [
+        "HP News 10",
         "National",
-        "Agribusiness",
-        "Charllote Amanquah",
-        "Ecobank"
+        "Africa",
+        "Osagyefo Dr Kwame Nkrumah",
+        "Professor P.L.O. Lumumba"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2868.webp",
+      "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Green finance must deliver measurable benefits to Ghanaian farmers – Ecobank",
-      "link": "https://www.myjoyonline.com/green-finance-must-deliver-measurable-benefits-to-ghanaian-farmers-ecobank/",
+      "title": "Court jails mason 4 years for GH¢44,800 fraud",
+      "link": "https://www.myjoyonline.com/court-jails-mason-4-years-for-gh%c2%a244800-fraud/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T08:49:59.000Z",
-      "summary": "Ecobank’s Regional Head of Commercial and Consumer Banking, Charllote Amanquah, says green financing must produce benefits that farmers and businesses can see in their daily operations.",
+      "published": "2026-09-23T13:25:33.000Z",
+      "summary": "The Accra Circuit Court has sentenced a mason to 48 months' imprisonment with hard labour for defrauding a businesswoman of GH¢44,800 under the pretext of supplying seven tonnes of iron…",
       "categories": [
-        "Agribusiness",
-        "National",
-        "Ecobank",
-        "green finance"
+        "Crime",
+        "News",
+        "Accra Circuit Court",
+        "Fraud",
+        "mason"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2868.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-4.47.41-AM-1024x606.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bagbin calls for direct election of ECOWAS Parliament members",
+      "link": "https://www.graphic.com.gh/news/politics/bagbin-calls-for-direct-election-of-ecowas-parliament-members.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T12:54:26.000Z",
+      "summary": "The Speaker of Ghana’s Parliament, Alban Sumana Kingsford Bagbin, has called for the progressive introduction of direct elections for members of ECOWAS Parliament to deepen democratic…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/asiamah.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Media must connect African citizens across borders - Kufuor",
+      "link": "https://www.graphic.com.gh/news/general-news/kufuor-calls-for-african-media-to-connect-citizens-across-borders.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T12:11:27.000Z",
+      "summary": "Former President John Agyekum Kufuor has asked the media to connect Africans beyond borders, saying media organisations have to become an “electronic classroom” to connect young people…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Media must step up fight against financial crimes — GIABA",
@@ -207,21 +297,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Today’s front pages: Wednesday, September 23, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-wednesday-september-23-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T08:10:30.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Frontpages",
-        "Newspaper"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "CSD launches platform to bring capital market closer to Ghanaians",
       "link": "https://ghanaiantimes.com.gh/csd-launches-platform-to-bring-capital-market-closer-to-ghanaians/",
       "source": "Ghanaian Times",
@@ -234,112 +309,39 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Ghanaian pastor, Rev Emmanuel Boakye-Danquah on the run over alleged counterfeit currency syndicate",
-      "link": "https://www.myjoyonline.com/ghanaian-pastor-rev-emmanuel-boakye-danquah-on-the-run-over-alleged-counterfeit-currency-syndicate/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T08:02:14.000Z",
-      "summary": "The National Security Council Secretariat (NSCS) says Ghanaian pastor Rev. Emmanuel Boakye-Danquah is at large after a nationwide crackdown on criminal syndicates allegedly involved in the…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Counterfeit currency",
-        "Rev Emmanuel Boakye-Danquah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-5.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Give Teshie Desalination to Kasapreko or Accra Brewery",
-      "link": "https://www.myjoyonline.com/give-teshie-desalination-to-kasapreko-or-accra-brewery/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T07:55:03.000Z",
-      "summary": "Why make Ghana Water the commercial buyer in the first place? A better structure would have separated production, transmission and retail. The desalination company produces the water. A…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Opinion",
-        "Accra Brewery",
-        "Kasapreko",
-        "Kwame Sowu",
-        "Teshie Desalination"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Kwame-Sowu.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian project company wins US$235 million ICC award over Teshie Desalination Plant",
-      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-project-company-wins-us-235-million-icc-award-over-teshie-desalination-plant.html",
+      "title": "Irrigation facilities in Volta Region to be rehabilitated by end of 2027 — Agric Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-irrigation-facilities-in-v-r-to-be-rehabilitated-by-end-of-2027-agric-minister.html",
       "source": "Daily Graphic",
-      "published": "2026-09-23T07:46:57.000Z",
-      "summary": "Befesa Desalination Developments Ghana Limited has won two final awards in an international arbitration over the Teshie-Nungua desalination plant.",
+      "published": "2026-09-23T07:56:39.000Z",
+      "summary": "All 22 existing irrigation facilities in the Volta Region will be rehabilitated by the end of 2027 to boost the shift from rain-fed to irrigation agriculture.",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2025/oct/31/GWL.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Eric.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Absa Bank Ghana and IFC announce $50m facility to expand cocoa financing",
-      "link": "https://www.myjoyonline.com/absa-bank-ghana-and-ifc-announce-50m-facility-to-expand-cocoa-financing/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T07:46:50.000Z",
-      "summary": "Absa Bank Ghana LTD and IFC have announced a $50 million unfunded risk participation facility to expand financing for Licensed Buying Companies purchasing traceable cocoa from farmers…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Absa Bank Ghana",
-        "IFC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3023-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WHO hails Ghana Medical Trust Fund's first-year impact",
-      "link": "https://www.graphic.com.gh/news/health/who-hails-ghana-medical-trust-funds-first-year-impact.html",
+      "title": "Kejetia Market Phase II project resumes October — Mahama Ayariga",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-kejetia-market-phase-ii-project-resumes-october-mahama-ayariga.html",
       "source": "Daily Graphic",
-      "published": "2026-09-23T07:44:31.000Z",
-      "summary": "The World Health Organization (WHO) has commended the Ghana Medical Trust Fund (GMTF) for its progress during its first year, describing the initiative as a significant step towards…",
-      "categories": [
-        "Health"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President reaffirms reset of global health governance",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-reaffirms-reset-of-global-health-governance.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T07:10:41.000Z",
-      "summary": "President John Dramani Mahama has reiterated to the Global South to have control over its relationships in global health, trade and financing, stating that there can be no ownership without…",
+      "published": "2026-09-23T07:53:22.000Z",
+      "summary": "Construction works on the Kejetia Market Redevelopment Phase II will resume in October this year, towards its eventual completion.",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Mahama.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Ayariga.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana to host 6th Federation of African Journalists Congress",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-to-host-6th-federation-of-african-journalists-continental-congress.html",
+      "title": "Journalists build capacity in gender-sensitive reporting",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-journalists-build-capacity-in-gender-sensitive-reporting.html",
       "source": "Daily Graphic",
-      "published": "2026-09-23T06:47:41.000Z",
-      "summary": "Ghana has been selected to host the 6th Continental Congress of the Federation of African Journalists (FAJ).",
+      "published": "2026-09-23T07:50:28.000Z",
+      "summary": "DW Akademie has organised a five-day gender-sensitive reporting workshop for Ghanaian journalists to strengthen their capacity to report gender issues accurately, fairly and responsibly.",
       "categories": [
-        "General News"
+        "Education"
       ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "At Graphic Business/Stanbic Bank Breakfast Meeting: Collaborate to make cross-border payments easier — Panellists",
-      "link": "https://www.graphic.com.gh/news/general-news/at-graphic-business-stanbic-bank-breakfast-meeting-collaborate-to-make-cross-border-payments-easier-panellists.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T06:27:55.000Z",
-      "summary": "Two speakers at the Graphic Business/Stanbic Bank Breakfast Meeting have called for collaboration among businesses to make cross-border payments faster, cheaper and more predictable.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Musah.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Participant.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
