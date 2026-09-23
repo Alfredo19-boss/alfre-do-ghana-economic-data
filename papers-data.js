@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-23T14:25:05.880Z",
+  "updated": "2026-09-23T18:30:27.543Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,132 +25,167 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Manhyia South MP recounts alleged attempt to forcibly take him to EOCO",
-      "link": "https://www.myjoyonline.com/manhyia-south-mp-recounts-alleged-attempt-to-forcibly-take-him-to-eoco/",
+      "title": "UK, Netherlands, Denmark ready to work with Ghana on reparatory justice – Ablakwa",
+      "link": "https://www.myjoyonline.com/uk-netherlands-denmark-ready-to-work-with-ghana-on-reparatory-justice-ablakwa/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T14:06:21.000Z",
-      "summary": "Manhyia South MP, Nana Agyei Baffour Awuah, has given a detailed account of an alleged attempt by a woman claiming to be from the Economic and Organised Crime Office (EOCO) to arrest him…",
+      "published": "2026-09-23T18:25:04.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says several European countries, including the United Kingdom, the Netherlands and Denmark, are ready to work with Ghana in advancing the…",
       "categories": [
-        "National",
         "News",
-        "Top Story",
-        "EOCO",
-        "Manhyia South MP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/awuah-1024x523.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I had to drive off to safety’ – Nana Agyei Baffour Awuah on why he fled after High Court clash",
-      "link": "https://www.myjoyonline.com/i-had-to-drive-off-to-safety-nana-agyei-baffour-awuah-on-why-he-fled-after-high-court-clash/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T14:00:46.000Z",
-      "summary": "Manhyia South legislator and lawyer for detained nurse Salomey Baffoe Awiti, Nana Agyei Baffour Awuah, says he drove away from the Accra High Court after Wednesday’s confrontation because…",
-      "categories": [
-        "HP News 1",
-        "Politics",
-        "Minority",
-        "Nana Agyei Baffour Awuah",
-        "safety"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3105.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nkrumah was a lonely man because of Pan-African vision – PLO Lumumba",
-      "link": "https://www.myjoyonline.com/nkrumah-was-a-lonely-man-because-of-pan-african-vision-plo-lumumba/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T13:55:29.000Z",
-      "summary": "Renowned Pan-Africanist and Kenyan lawyer Professor Patrick Lumumba has described Ghana’s first President, Dr Kwame Nkrumah, as a “lonely man”, saying his commitment to the broader African…",
-      "categories": [
-        "National",
-        "News",
-        "Lonely man",
-        "Nkrumah",
-        "P.L.O. Lumumba"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3104.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "P.L.O Lumumba calls for end to ‘primitive accumulation’ in public office",
-      "link": "https://www.myjoyonline.com/p-l-o-lumumba-calls-for-end-to-primitive-accumulation-in-public-office/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T13:54:18.000Z",
-      "summary": "Renowned Pan-Africanist and Author Professor P.L.O. Lumumba has called for a renewed commitment to integrity and selfless leadership in Africa, warning against the use of public office as a…",
-      "categories": [
-        "National",
-        "Corruption",
-        "P.L.O Lumumba"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3103.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Attempted arrest of Manhyia South MP in that manner a retrogression in Ghana’s democracy – Martin Kpebu",
-      "link": "https://www.myjoyonline.com/attempted-arrest-of-manhyia-south-mp-in-that-manner-a-retrogression-in-ghanas-democracy-martin-kpebu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T13:49:01.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has described the alleged attempted arrest of Manhyia South MP Nana Agyei Baffour Awuah by security personnel believed to be from the Economic and…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "Democracy",
-        "EOCO",
+        "Denmark",
         "Ghana",
-        "Manhyia South MP",
-        "Martin Kpebu"
+        "Netherlands",
+        "Reparatory justice",
+        "Samuel Okudzeto Ablakwa",
+        "UK"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/mart-1024x537.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/okudzeto-1-1024x576.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Peace in an age of fragmentation: Why global cooperation matters more than ever",
-      "link": "https://www.myjoyonline.com/peace-in-an-age-of-fragmentation-why-global-cooperation-matters-more-than-ever/",
+      "title": "Ghana TVET Service partners TOR to strengthen industry skills training",
+      "link": "https://www.myjoyonline.com/ghana-tvet-service-partners-tor-to-strengthen-industry-skills-training/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T13:44:34.000Z",
-      "summary": "The world is more connected than ever. Goods, money, information and people move across borders every day. Yet countries are increasingly finding it difficult to agree on how to address…",
+      "published": "2026-09-23T18:19:27.000Z",
+      "summary": "The Ghana TVET Service has partnered with Tema Oil Refinery (ToR) to strengthen skills development and improve the alignment between technical and vocational training and industry…",
       "categories": [
-        "HP Opinion 1",
-        "Opinion",
-        "global cooperation",
-        "Peace"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-11.51.57-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nkrumah’s vision for African dignity remains relevant – P.L.O. Lumumba",
-      "link": "https://www.myjoyonline.com/nkrumahs-vision-for-african-dignity-remains-relevant-p-l-o-lumumba/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T13:27:13.000Z",
-      "summary": "Renowned Pan-Africanist and anti-corruption crusader Professor P.L.O. Lumumba has described Osagyefo Dr Kwame Nkrumah as a selfless leader whose vision for African unity and dignity…",
-      "categories": [
-        "HP News 10",
         "National",
-        "Africa",
-        "Osagyefo Dr Kwame Nkrumah",
-        "Professor P.L.O. Lumumba"
+        "News",
+        "Ghana TVET Service"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-17.15.13-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KNUST hosts Nyansapo Photonics School, commissions GPOL to boost research and innovation",
+      "link": "https://www.myjoyonline.com/knust-hosts-nyansapo-photonics-school-commissions-gpol-to-boost-research-and-innovation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T18:08:42.000Z",
+      "summary": "The international photonics training school, \"NYANSAPƆ\", aimed at providing world-class hands-on optics training to students in Ghana and the wider African region, has been officially…",
+      "categories": [
+        "Education",
+        "GPOL",
+        "KNUST"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-5.38.09-PM-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority Leader outlines procedure for security agencies seeking to arrest MPs",
+      "link": "https://www.myjoyonline.com/minority-leader-outlines-procedure-for-security-agencies-seeking-to-arrest-mps/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T18:04:30.000Z",
+      "summary": "Minority Leader in Parliament, Alexander Afenyo-Markin, has outlined the established procedure for state security agencies seeking to have Members of Parliament appear before investigating…",
+      "categories": [
+        "National",
+        "News",
+        "Minority Leader",
+        "MPs",
+        "Security agencies"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/leader-1024x479.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Baffour Awuah’s lawyers dispute EOCO claim over February invitations",
+      "link": "https://www.myjoyonline.com/baffour-awuahs-lawyers-dispute-eoco-claim-over-february-invitations/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T18:02:19.000Z",
+      "summary": "Lawyers for Manhyia South Member of Parliament Nana Agyei Baffour Awuah have disputed the Economic and Organised Crime Office’s (EOCO) account that he failed to honour invitations to assist…",
+      "categories": [
+        "National",
+        "EOCO",
+        "Februrary",
+        "Nana Baffour Awuah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-34.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pursuing Manhyia South MP through Parliament would have made arrest process more decorous – Interior Ministry spokesperson",
+      "link": "https://www.myjoyonline.com/pursuing-manhyia-south-mp-through-parliament-would-have-made-arrest-process-more-decorous-interior-ministry-spokesperson/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T17:59:16.000Z",
+      "summary": "The Ghana Maritime Authority (GMA) has rejected claims that its vessel monitoring system is ineffective and that vessels sailing within Ghana’s maritime waters are not being monitored.",
+      "categories": [
+        "National",
+        "News",
+        "Julius Kwame Anthony",
+        "Manhyia South MP",
+        "Parliament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/julius-1024x469.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026 Women’s Super Cup: Hasaacas, Prisons Ladies dominate first round of games",
+      "link": "https://www.myjoyonline.com/2026-womens-super-cup-hasaacas-prisons-ladies-dominate-first-round-of-games/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T17:58:45.000Z",
+      "summary": "The 2026 Women’s Super Cup kicked off at the Ghana Soccer Centre of Excellence on Wednesday, September 23, with games across the two groups. The competition got underway with Hasaacas…",
+      "categories": [
+        "Football",
+        "National",
+        "2026 Women's Super Cup",
+        "Army Ladies",
+        "FC Savannah",
+        "Hasaacas Ladies",
+        "Prisons Ladies"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Matchday-1-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "After a year without Police, Kwame Danso breathes again as Station reopens",
+      "link": "https://www.myjoyonline.com/after-a-year-without-police-kwame-danso-breathes-again-as-station-reopens/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T17:57:05.000Z",
+      "summary": "For nearly a year, the people of Kwame Danso lived a reality few Ghanaians can imagine: a district with no police station, no court, and no formal path to justice.",
+      "categories": [
+        "National",
+        "News",
+        "Kwame Danso",
+        "Police station",
+        "Reopens"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3114-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Jollof case: High Court adjourns Salomey Bafoh’s bail application",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-jollof-case-high-court-adjourns-salomey-bafohs-bail-application.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T17:06:10.000Z",
+      "summary": "The High Court in Accra has adjourned the bail application of Salomey Awity Bafoh, the Techiman-based senior nursing officer facing a charge of abetment of crime in connection with the…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/awity_s.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "EOCO confirms attempted arrest of Manhyia South MP Baffour Awuah at court premises and says he ignored two invitations for interrogation in February 2026",
+      "link": "https://www.graphic.com.gh/news/general-news/eoco-confirms-attempted-arrest-of-baffour-awuah.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T15:03:11.000Z",
+      "summary": "The Economic and Organised Crime Office (EOCO) has confirmed that its officers attempted to arrest the Manhyia South Member of Parliament (MP), Nana Agyei Baffour Awuah at the High Court…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/eoco3.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Accra Turf Club members stage another peace protest over Borteyman race course takeover",
+      "link": "https://www.graphic.com.gh/news/general-news/accra-turf-club-members-stage-another-peace-protest-over-borteyman-race-course-takeover.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T14:25:47.000Z",
+      "summary": "Members of the Accra Turf Club have stepped up their call for the Accra Race Course land to be restored following a recent demolition exercise that destroyed horse stables by a developer…",
+      "categories": [
+        "General News"
       ],
       "image": null,
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Court jails mason 4 years for GH¢44,800 fraud",
-      "link": "https://www.myjoyonline.com/court-jails-mason-4-years-for-gh%c2%a244800-fraud/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T13:25:33.000Z",
-      "summary": "The Accra Circuit Court has sentenced a mason to 48 months' imprisonment with hard labour for defrauding a businesswoman of GH¢44,800 under the pretext of supplying seven tonnes of iron…",
-      "categories": [
-        "Crime",
-        "News",
-        "Accra Circuit Court",
-        "Fraud",
-        "mason"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-4.47.41-AM-1024x606.png",
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Bagbin calls for direct election of ECOWAS Parliament members",
@@ -173,7 +208,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
-      "image": null,
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/kufuor_iea_meeting.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -307,42 +342,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Irrigation facilities in Volta Region to be rehabilitated by end of 2027 — Agric Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-irrigation-facilities-in-v-r-to-be-rehabilitated-by-end-of-2027-agric-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T07:56:39.000Z",
-      "summary": "All 22 existing irrigation facilities in the Volta Region will be rehabilitated by the end of 2027 to boost the shift from rain-fed to irrigation agriculture.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Eric.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kejetia Market Phase II project resumes October — Mahama Ayariga",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-kejetia-market-phase-ii-project-resumes-october-mahama-ayariga.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T07:53:22.000Z",
-      "summary": "Construction works on the Kejetia Market Redevelopment Phase II will resume in October this year, towards its eventual completion.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Ayariga.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Journalists build capacity in gender-sensitive reporting",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-journalists-build-capacity-in-gender-sensitive-reporting.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T07:50:28.000Z",
-      "summary": "DW Akademie has organised a five-day gender-sensitive reporting workshop for Ghanaian journalists to strengthen their capacity to report gender issues accurately, fairly and responsibly.",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Participant.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Semenyo ready to lead Man City's attack if called upon",
