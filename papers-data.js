@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-23T18:30:27.543Z",
+  "updated": "2026-09-23T21:42:40.138Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,131 +25,160 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "UK, Netherlands, Denmark ready to work with Ghana on reparatory justice – Ablakwa",
-      "link": "https://www.myjoyonline.com/uk-netherlands-denmark-ready-to-work-with-ghana-on-reparatory-justice-ablakwa/",
+      "title": "Ghana’s public debt hit GH¢733.9 billion in July 2026",
+      "link": "https://www.myjoyonline.com/ghanas-public-debt-hit-gh%c2%a2733-9-billion-in-july-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T18:25:04.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says several European countries, including the United Kingdom, the Netherlands and Denmark, are ready to work with Ghana in advancing the…",
+      "published": "2026-09-23T21:35:57.000Z",
+      "summary": "According to the September 2026 Summary of Financial and Economic Data by the Bank of Ghana, the country’s public debt has been increasing since January 2026.",
       "categories": [
-        "News",
-        "Denmark",
-        "Ghana",
-        "Netherlands",
-        "Reparatory justice",
-        "Samuel Okudzeto Ablakwa",
-        "UK"
+        "Business",
+        "Economy",
+        "domestic debt",
+        "external debt",
+        "fiscal balance",
+        "primary surplus",
+        "Public Debt"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/okudzeto-1-1024x576.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/istockphoto-1407965602-612x612-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana TVET Service partners TOR to strengthen industry skills training",
-      "link": "https://www.myjoyonline.com/ghana-tvet-service-partners-tor-to-strengthen-industry-skills-training/",
+      "title": "GMA rejects claims that vessel monitoring system Is ineffective",
+      "link": "https://ghanaiantimes.com.gh/gma-rejects-claims-that-vessel-monitoring-system-is-ineffective/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T21:19:12.000Z",
+      "summary": "The Ghana Maritime Authority (GMA) has rejected claims by Dennis Miracles Aboagye that its vessel monitoring system is ineffective and that vessels operating in Ghana’s waters are not being…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "“I don’t see any rational basis” – Inusah Fuseini rejects proposed five-year term",
+      "link": "https://www.myjoyonline.com/i-dont-see-any-rational-basis-inusah-fuseini-rejects-proposed-five-year-term/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T18:19:27.000Z",
-      "summary": "The Ghana TVET Service has partnered with Tema Oil Refinery (ToR) to strengthen skills development and improve the alignment between technical and vocational training and industry…",
+      "published": "2026-09-23T21:12:51.000Z",
+      "summary": "Former Tamale Central MP Inusah Fuseini has rejected the proposal to extend the tenure of the President and Members of Parliament from four to five years.",
+      "categories": [
+        "National",
+        "five-year term",
+        "Inusah Fuseini"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Inusah-Fuseini-1024x688.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Constitution shouldn’t be amended simply because years have passed – IEA",
+      "link": "https://www.myjoyonline.com/constitution-shouldnt-be-amended-simply-because-years-have-passed-iea/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T21:12:29.000Z",
+      "summary": "The Institute of Economic Affairs (IEA) has cautioned against amending Ghana’s Constitution merely because a certain number of years have elapsed.",
       "categories": [
         "National",
         "News",
-        "Ghana TVET Service"
+        "Constitution",
+        "IEA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-17.15.13-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/iea.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "KNUST hosts Nyansapo Photonics School, commissions GPOL to boost research and innovation",
-      "link": "https://www.myjoyonline.com/knust-hosts-nyansapo-photonics-school-commissions-gpol-to-boost-research-and-innovation/",
+      "title": "Access Bank, Visa launch ‘Visa Accept’ in Ghana",
+      "link": "https://www.myjoyonline.com/access-bank-visa-launch-visa-accept-in-ghana/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T18:08:42.000Z",
-      "summary": "The international photonics training school, \"NYANSAPƆ\", aimed at providing world-class hands-on optics training to students in Ghana and the wider African region, has been officially…",
+      "published": "2026-09-23T20:50:03.000Z",
+      "summary": "Visa Accept helps to address a key challenge facing many of Ghana's smallest businesses.",
       "categories": [
-        "Education",
-        "GPOL",
-        "KNUST"
+        "Banking and Finance",
+        "Business",
+        "Access Bank",
+        "Eugene Ocansey",
+        "Fabrice Konan",
+        "visa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-5.38.09-PM-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-23.40.28-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Minority Leader outlines procedure for security agencies seeking to arrest MPs",
-      "link": "https://www.myjoyonline.com/minority-leader-outlines-procedure-for-security-agencies-seeking-to-arrest-mps/",
+      "title": "‘Our young people must inherit story of what Africa created, not lost’ – Mahama",
+      "link": "https://www.myjoyonline.com/our-young-people-must-inherit-story-of-what-africa-created-not-lost-mahama/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T18:04:30.000Z",
-      "summary": "Minority Leader in Parliament, Alexander Afenyo-Markin, has outlined the established procedure for state security agencies seeking to have Members of Parliament appear before investigating…",
-      "categories": [
-        "National",
-        "News",
-        "Minority Leader",
-        "MPs",
-        "Security agencies"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/leader-1024x479.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Baffour Awuah’s lawyers dispute EOCO claim over February invitations",
-      "link": "https://www.myjoyonline.com/baffour-awuahs-lawyers-dispute-eoco-claim-over-february-invitations/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T18:02:19.000Z",
-      "summary": "Lawyers for Manhyia South Member of Parliament Nana Agyei Baffour Awuah have disputed the Economic and Organised Crime Office’s (EOCO) account that he failed to honour invitations to assist…",
-      "categories": [
-        "National",
-        "EOCO",
-        "Februrary",
-        "Nana Baffour Awuah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-34.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pursuing Manhyia South MP through Parliament would have made arrest process more decorous – Interior Ministry spokesperson",
-      "link": "https://www.myjoyonline.com/pursuing-manhyia-south-mp-through-parliament-would-have-made-arrest-process-more-decorous-interior-ministry-spokesperson/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T17:59:16.000Z",
-      "summary": "The Ghana Maritime Authority (GMA) has rejected claims that its vessel monitoring system is ineffective and that vessels sailing within Ghana’s maritime waters are not being monitored.",
+      "published": "2026-09-23T20:48:13.000Z",
+      "summary": "President John Dramani Mahama has called for the restoration of Africa’s cultural heritage to help future generations reconnect with the continent’s history, achievements and identity.",
       "categories": [
         "National",
         "News",
-        "Julius Kwame Anthony",
-        "Manhyia South MP",
-        "Parliament"
+        "Africa",
+        "Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/julius-1024x469.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3811-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2026 Women’s Super Cup: Hasaacas, Prisons Ladies dominate first round of games",
-      "link": "https://www.myjoyonline.com/2026-womens-super-cup-hasaacas-prisons-ladies-dominate-first-round-of-games/",
+      "title": "Afreximbank, GIIF and 24-Hour Economy Authority pact marks real progress toward 24-hour economy agenda",
+      "link": "https://www.myjoyonline.com/afreximbank-giif-and-24-hour-economy-authority-pact-marks-real-progress-toward-24-hour-economy-agenda-amo-agyapong/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T17:58:45.000Z",
-      "summary": "The 2026 Women’s Super Cup kicked off at the Ghana Soccer Centre of Excellence on Wednesday, September 23, with games across the two groups. The competition got underway with Hasaacas…",
+      "published": "2026-09-23T20:19:02.000Z",
+      "summary": "The significance of the agreement goes beyond the signing ceremony. For a country seeking to transform ambitious economic priorities into productive assets, industrial capacity, export…",
       "categories": [
-        "Football",
-        "National",
-        "2026 Women's Super Cup",
-        "Army Ladies",
-        "FC Savannah",
-        "Hasaacas Ladies",
-        "Prisons Ladies"
+        "Business",
+        "Features",
+        "24-hour economy",
+        "Afreximbank",
+        "CIPAC",
+        "GIIF"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Matchday-1-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-01.37.22-1024x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "After a year without Police, Kwame Danso breathes again as Station reopens",
-      "link": "https://www.myjoyonline.com/after-a-year-without-police-kwame-danso-breathes-again-as-station-reopens/",
+      "title": "IMANI, Local Government Ministry discuss reforms on sanitation, local revenue and urban infrastructure",
+      "link": "https://www.myjoyonline.com/imani-local-government-ministry-discuss-reforms-on-sanitation-local-revenue-and-urban-infrastructure/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T17:57:05.000Z",
-      "summary": "For nearly a year, the people of Kwame Danso lived a reality few Ghanaians can imagine: a district with no police station, no court, and no formal path to justice.",
+      "published": "2026-09-23T20:07:12.000Z",
+      "summary": "Sanitation reform, local revenue mobilisation, urban mobility and the redevelopment of major markets have featured prominently in policy discussions between policy think tank IMANI Africa…",
       "categories": [
         "National",
-        "News",
-        "Kwame Danso",
-        "Police station",
-        "Reopens"
+        "IMANI",
+        "Local government",
+        "local revenue",
+        "Sanitation",
+        "urban infrastructure"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3114-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-20.18.06-1024x484.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s international reserves drop to US$11.04 billion in August as BoG pushes for significant build-ups in coming months",
+      "link": "https://www.myjoyonline.com/ghanas-international-reserves-drop-to-us11-04-billion-in-august-as-bog-pushes-for-significant-build-ups-in-coming-months/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T20:06:43.000Z",
+      "summary": "This marks a US$1.9 billion decline from the about US$12.94 billion that the country recorded at the end of June 2026.",
+      "categories": [
+        "Business",
+        "Comp. Business",
+        "Economy",
+        "HP Business 1",
+        "Bank of Ghana",
+        "Dr. Johnson Asiama",
+        "international reserves"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_1430-1536x1025vg-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Manhyia South MP Baffour Awuah questions EOCO's explanation for his attempted arrest",
+      "link": "https://www.graphic.com.gh/news/general-news/manhyia-south-mp-baffour-awuah-alleges-attempted-abduction-outside-high-court.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T17:09:25.000Z",
+      "summary": "The Member of Parliament (MP) for Manhyia South, Nana Agyei Baffour Awuah, who is serving as counsel for an accused person in the \"Ghana Jollof\" case pending before the courts, has been…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/baffour_awuah.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana Jollof case: High Court adjourns Salomey Bafoh’s bail application",
@@ -315,30 +344,6 @@ window.GDC_PAPERS = {
       "summary": "FIFA President Gianni Infantino has proposed an independent review of the world soccer body’s decision-making, in a move that could ‌help him regain support after the withdrawal of a…",
       "categories": [
         "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Money follows trust: Dangote hails Ghana's quick economic turnaround",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-money-follows-trust-dangote-hails-ghanas-quick-economic-turnaround.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T08:11:10.000Z",
-      "summary": "Business magnate and President of the Dangote Group, Aliko Dangote, has hailed President John Dramani Mahama for turning around Ghana's economy within a short period.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Alinko.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "CSD launches platform to bring capital market closer to Ghanaians",
-      "link": "https://ghanaiantimes.com.gh/csd-launches-platform-to-bring-capital-market-closer-to-ghanaians/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:10:17.000Z",
-      "summary": "The Central Securities Depository (CSD) has launched a new digital platform, Investor Connect, aimed at making Ghana’s capital market more accessible, convenient and transparent to…",
-      "categories": [
-        "Business"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
