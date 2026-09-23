@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-23T00:13:48.636Z",
+  "updated": "2026-09-23T04:46:43.613Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,120 +25,131 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Lekzy DeComic to feature four generations of comedians on upcoming show",
-      "link": "https://www.myjoyonline.com/lekzy-decomic-to-feature-four-generations-of-comedians-on-upcoming-show/",
+      "title": "I was mocked for getting pregnant out of wedlock as pastor’s daughter – Davido’s baby mama",
+      "link": "https://www.myjoyonline.com/i-was-mocked-for-getting-pregnant-out-of-wedlock-as-pastors-daughter-davidos-baby-mama/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T22:10:55.000Z",
-      "summary": "Dubbed Lekzy Unleashed: The Godfather Edition the programme will be held on Friday, 7th November 2026, at the UPSA Auditorium in Accra.",
+      "published": "2026-09-23T03:53:00.000Z",
+      "summary": "Nigerian influencer and entrepreneur, Sophia Momodu, has revealed that she was subjected to emotional and psychological abuse after she got pregnant out of wedlock for singer Davido.",
       "categories": [
-        "Events",
-        "HP Entertainment 2",
-        "Comedy events",
-        "Four generations",
-        "Lekzy DeComic"
+        "Music",
+        "Baby Mama drama",
+        "Davido",
+        "Sophia Momodu"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_8899-1024x630.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3009.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nigeria wins arbitration as Sunrise’s $400 million hydropower claim dismissed",
-      "link": "https://www.myjoyonline.com/nigeria-wins-arbitration-as-sunrises-400-million-hydropower-claim-dismissed/",
+      "title": "Young John rejects collaboration request from Blaqbonez over old tweet",
+      "link": "https://www.myjoyonline.com/young-john-rejects-collaboration-request-from-blaqbonez-over-old-tweet/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T22:04:00.000Z",
-      "summary": "Nigeria has won an international arbitration case after a tribunal dismissed ​a $400 million claim by Sunrise Power and ‌Transmission over the long-delayed Mambilla hydroelectric project…",
+      "published": "2026-09-23T03:42:00.000Z",
+      "summary": "Producer-turned-singer Young Jonn has rejected a request from rapper Blaqbonez to collaborate with him after digging up a 2015 tweet in which the rapper compared him with another producer…",
+      "categories": [
+        "Music",
+        "Young John"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-1201-1024x640.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump administration to admit primarily Afrikaners under new refugee proposal",
+      "link": "https://www.myjoyonline.com/trump-administration-to-admit-primarily-afrikaners-under-new-refugee-proposal/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T03:35:00.000Z",
+      "summary": "The Trump administration ‌plans to set a refugee admissions ceiling of 17,500 over the next 12 months consisting \"primarily\" of South Africans from the country's white Afrikaner ethnic…",
       "categories": [
         "Africa",
-        "Nigeria",
-        "Sunrise"
+        "Afrikaners",
+        "Trump administration"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/1-10.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3008-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "link": "https://www.myjoyonline.com/xhaka-under-investigation-over-covid-19-certificate/",
+      "title": "They should have Ghana first – Ntim Fordjour warns MPs against politicising drug crisis",
+      "link": "https://www.myjoyonline.com/they-should-have-ghana-first-ntim-fordjour-warns-mps-against-politicising-drug-crisis/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T21:53:00.000Z",
-      "summary": "Switzerland captain Granit Xhaka is under investigation by Swiss prosecutors over allegations he obtained a forged Covid-19 vaccination certificate.",
+      "published": "2026-09-23T03:25:00.000Z",
+      "summary": "The Ranking Member of Parliament’s Defence and Interior Committee, Rev Ntim Fordjour, has warned MPs against allowing partisan politics to overshadow Ghana’s growing drug trafficking crisis.",
       "categories": [
-        "Football",
-        "Granit Xhaka"
+        "Politics",
+        "Cocaine bust",
+        "Rev Ntim Fordjour"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3003.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Rev-Ntim-Fordjour.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "FAW chief questions Infantino’s Fifa reform claims",
-      "link": "https://www.myjoyonline.com/faw-chief-questions-infantinos-fifa-reform-claims/",
+      "title": "We got more than 15% – Ntim Fordjour confirms support for Parliament recall over cocaine scandal",
+      "link": "https://www.myjoyonline.com/we-got-more-than-15-ntim-fordjour-confirms-support-for-parliament-recall-over-cocaine-scandal/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T21:42:00.000Z",
-      "summary": "Football Association of Wales chief executive Noel Mooney has played down suggestions Fifa is planning major reforms.",
+      "published": "2026-09-23T03:04:00.000Z",
+      "summary": "The Ranking Member of Parliament’s Defence and Interior Committee, Rev. Ntim Fordjour, has confirmed that the Minority has secured more than the required 15% support to trigger a…",
       "categories": [
-        "Football",
-        "Gianni Infantino"
+        "HP News 5",
+        "Politics",
+        "Cocaine scandal",
+        "Rev Ntim Fordjour"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/image-3010.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Parliament-Chamber.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "La Liga chief dismisses Real’s ref conspiracy claims",
-      "link": "https://www.myjoyonline.com/la-liga-chief-dismisses-reals-ref-conspiracy-claims/",
+      "title": "Wherever there is money laundering, it is linked to terrorism – Ntim Fordjour warns over drug crisis",
+      "link": "https://www.myjoyonline.com/wherever-there-is-money-laundering-it-is-linked-to-terrorism-ntim-fordjour-warns-over-drug-crisis/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T21:41:00.000Z",
-      "summary": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+      "published": "2026-09-23T02:44:00.000Z",
+      "summary": "Ranking Member of Parliament’s Defence and Interior Committee, Rev Ntim Fordjour, has warned that Ghana’s growing drug-trafficking crisis could expose the country to serious national…",
       "categories": [
-        "Football",
-        "Javier Tebas",
-        "La Liga chief",
-        "Real Madrid"
+        "Politics",
+        "Drug crisis",
+        "Rev Ntim Fordjour"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3002.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/ntim-fordjour-e1772130370794.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GMA rejects claims its vessel monitoring system is ineffective",
-      "link": "https://www.myjoyonline.com/gma-rejects-claims-its-vessel-monitoring-system-is-ineffective/",
+      "title": "Parliament Recall: Ntim Fordjour expects emergency sitting over drug-trafficking crisis",
+      "link": "https://www.myjoyonline.com/parliament-recall-ntim-fordjour-expects-emergency-sitting-over-drug-trafficking-crisis/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T21:30:14.000Z",
-      "summary": "The Ghana Maritime Authority (GMA) has rejected claims that vessels operating in Ghana’s waters are not being monitored.",
+      "published": "2026-09-23T02:25:00.000Z",
+      "summary": "Ranking Member of Parliament’s Defence and Interior Committee, Rev Ntim Fordjour, expects Parliament to be recalled for an emergency sitting over Ghana’s worsening drug-trafficking crisis.",
       "categories": [
-        "National",
-        "Ghana Maritime Authority (GMA)",
-        "Miracle Aboagye"
+        "HP News 1",
+        "Politics",
+        "Drug crisis",
+        "Parliament recall",
+        "Rev Ntim Fordjour"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Dennis-Miracles-Aboagye-e1784063898527.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/Ntim-Fordjour-1024x523.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I was close to joining Liverpool in 2016 – Mbappe",
-      "link": "https://www.myjoyonline.com/i-was-close-to-joining-liverpool-in-2016-mbappe/",
+      "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks",
+      "link": "https://www.myjoyonline.com/oil-falls-on-increased-gulf-supply-and-hopes-for-us-iran-talks/",
       "source": "MyJoyOnline",
-      "published": "2026-09-22T21:18:00.000Z",
-      "summary": "Kylian Mbappe has revealed how \"close\" he came to joining Liverpool in 2016, saying he went against the advice of his mother who \"fell in love\" with Anfield.",
+      "published": "2026-09-23T02:15:00.000Z",
+      "summary": "Oil prices drifted lower on Wednesday as Saudi Arabia began restoring crude supply on a ​critical pipeline to the Red Sea and on hopes for a diplomatic solution to the US-Iran ‌war through…",
       "categories": [
-        "News",
-        "Kylian Mbappe",
-        "Liverpol"
+        "International",
+        "Oil prices",
+        "US-Iran war"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3001.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-3002-1024x690.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ministry of Sports and Recreation holds national validation workshop on National Sports Policy Draft",
-      "link": "https://www.myjoyonline.com/ministry-of-sports-and-recreation-holds-national-validation-workshop-on-national-sports-policy-draft/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T21:14:10.000Z",
-      "summary": "The workshop was intended to grant stakeholders an opportunity to review and confirm programmes and strategies collectively identified in the draft document.",
+      "title": "GPL: Hearts trip, Kotoko draw as Debibi, Port City claim wins",
+      "link": "https://ghanaiantimes.com.gh/gpl-hearts-trip-kotoko-draw-as-debibi-port-city-claim-wins/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T01:06:00.000Z",
+      "summary": "Accra Hearts of Oak dropped their first points of the season, Asante Kotoko stretched their unbeaten start while Debibi United and Port City FC recorded historic first top-flight victories…",
       "categories": [
-        "Athletics",
-        "Boxing",
-        "Football",
-        "Other Sports",
-        "Tennis",
-        "Ministry of Sports and Recreation"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/da11d496-3a02-4073-bc6a-4242cccdb893-576x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Mahama calls for stronger domestic capacity and sustainable financing for Global South",
@@ -314,19 +325,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/22/IKE_QUARTEY.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Nandom Assembly hands over development projects",
-      "link": "https://ghanaiantimes.com.gh/nandom-assembly-hands-over-development-projects/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T13:22:21.000Z",
-      "summary": "The Nandom Municipal Assembly in the Upper West Region has handed over a number of completed development projects to beneficiary communities to improve access to essential social services…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/xxxxx-2-1024x768.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Coach Sarpong questions continued Black Stars snub of local players",
