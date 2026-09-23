@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-23T04:46:43.613Z",
+  "updated": "2026-09-23T09:35:45.052Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,222 +25,322 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "I was mocked for getting pregnant out of wedlock as pastor’s daughter – Davido’s baby mama",
-      "link": "https://www.myjoyonline.com/i-was-mocked-for-getting-pregnant-out-of-wedlock-as-pastors-daughter-davidos-baby-mama/",
+      "title": "The Luckiest launches 4th edition of annual promotion with nationwide activations",
+      "link": "https://www.myjoyonline.com/the-luckiest-launches-4th-edition-of-annual-promotion-with-nationwide-activations/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T03:53:00.000Z",
-      "summary": "Nigerian influencer and entrepreneur, Sophia Momodu, has revealed that she was subjected to emotional and psychological abuse after she got pregnant out of wedlock for singer Davido.",
+      "published": "2026-09-23T09:20:12.000Z",
+      "summary": "The Luckiest has launched the fourth edition of its annual promotion, promising participants prizes, entertainment and activations across the country. The 2026 edition begins on October 3…",
       "categories": [
-        "Music",
-        "Baby Mama drama",
-        "Davido",
-        "Sophia Momodu"
+        "Business",
+        "Investments",
+        "Ghana",
+        "The Luckiest"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3009.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-3.28.34-PM-3-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Young John rejects collaboration request from Blaqbonez over old tweet",
-      "link": "https://www.myjoyonline.com/young-john-rejects-collaboration-request-from-blaqbonez-over-old-tweet/",
+      "title": "Ecobank calls for wider access and stronger collaboration on agricultural finance",
+      "link": "https://www.myjoyonline.com/ecobank-calls-for-wider-access-and-stronger-collaboration-on-agricultural-finance/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T03:42:00.000Z",
-      "summary": "Producer-turned-singer Young Jonn has rejected a request from rapper Blaqbonez to collaborate with him after digging up a 2015 tweet in which the rapper compared him with another producer…",
+      "published": "2026-09-23T08:55:41.000Z",
+      "summary": "Ecobank’s Regional Head of Commercial and Consumer Banking, Charllote Amanquah, has called for closer cooperation among financial and agricultural institutions to extend support to more…",
       "categories": [
-        "Music",
-        "Young John"
+        "Agribusiness",
+        "National",
+        "Agriculture",
+        "Ecobank",
+        "Joy Business",
+        "Loans"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-1201-1024x640.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/ecobank_branch_13-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Trump administration to admit primarily Afrikaners under new refugee proposal",
-      "link": "https://www.myjoyonline.com/trump-administration-to-admit-primarily-afrikaners-under-new-refugee-proposal/",
+      "title": "Agribusinesses need more than loans to reach their full potential – Ecobank",
+      "link": "https://www.myjoyonline.com/agribusinesses-need-more-than-loans-to-reach-their-full-potential-ecobank/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T03:35:00.000Z",
-      "summary": "The Trump administration ‌plans to set a refugee admissions ceiling of 17,500 over the next 12 months consisting \"primarily\" of South Africans from the country's white Afrikaner ethnic…",
+      "published": "2026-09-23T08:55:05.000Z",
+      "summary": "Ecobank’s Regional Head of Commercial and Consumer Banking, Charllote Amanquah, says access to finance alone will not resolve the challenges facing Ghana’s agricultural businesses.",
       "categories": [
-        "Africa",
-        "Afrikaners",
-        "Trump administration"
+        "National",
+        "Agribusiness",
+        "Charllote Amanquah",
+        "Ecobank"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3008-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2868.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "They should have Ghana first – Ntim Fordjour warns MPs against politicising drug crisis",
-      "link": "https://www.myjoyonline.com/they-should-have-ghana-first-ntim-fordjour-warns-mps-against-politicising-drug-crisis/",
+      "title": "Green finance must deliver measurable benefits to Ghanaian farmers – Ecobank",
+      "link": "https://www.myjoyonline.com/green-finance-must-deliver-measurable-benefits-to-ghanaian-farmers-ecobank/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T03:25:00.000Z",
-      "summary": "The Ranking Member of Parliament’s Defence and Interior Committee, Rev Ntim Fordjour, has warned MPs against allowing partisan politics to overshadow Ghana’s growing drug trafficking crisis.",
+      "published": "2026-09-23T08:49:59.000Z",
+      "summary": "Ecobank’s Regional Head of Commercial and Consumer Banking, Charllote Amanquah, says green financing must produce benefits that farmers and businesses can see in their daily operations.",
       "categories": [
-        "Politics",
-        "Cocaine bust",
-        "Rev Ntim Fordjour"
+        "Agribusiness",
+        "National",
+        "Ecobank",
+        "green finance"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Rev-Ntim-Fordjour.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-2868.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "We got more than 15% – Ntim Fordjour confirms support for Parliament recall over cocaine scandal",
-      "link": "https://www.myjoyonline.com/we-got-more-than-15-ntim-fordjour-confirms-support-for-parliament-recall-over-cocaine-scandal/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T03:04:00.000Z",
-      "summary": "The Ranking Member of Parliament’s Defence and Interior Committee, Rev. Ntim Fordjour, has confirmed that the Minority has secured more than the required 15% support to trigger a…",
-      "categories": [
-        "HP News 5",
-        "Politics",
-        "Cocaine scandal",
-        "Rev Ntim Fordjour"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Parliament-Chamber.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wherever there is money laundering, it is linked to terrorism – Ntim Fordjour warns over drug crisis",
-      "link": "https://www.myjoyonline.com/wherever-there-is-money-laundering-it-is-linked-to-terrorism-ntim-fordjour-warns-over-drug-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T02:44:00.000Z",
-      "summary": "Ranking Member of Parliament’s Defence and Interior Committee, Rev Ntim Fordjour, has warned that Ghana’s growing drug-trafficking crisis could expose the country to serious national…",
-      "categories": [
-        "Politics",
-        "Drug crisis",
-        "Rev Ntim Fordjour"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/ntim-fordjour-e1772130370794.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament Recall: Ntim Fordjour expects emergency sitting over drug-trafficking crisis",
-      "link": "https://www.myjoyonline.com/parliament-recall-ntim-fordjour-expects-emergency-sitting-over-drug-trafficking-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T02:25:00.000Z",
-      "summary": "Ranking Member of Parliament’s Defence and Interior Committee, Rev Ntim Fordjour, expects Parliament to be recalled for an emergency sitting over Ghana’s worsening drug-trafficking crisis.",
-      "categories": [
-        "HP News 1",
-        "Politics",
-        "Drug crisis",
-        "Parliament recall",
-        "Rev Ntim Fordjour"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/Ntim-Fordjour-1024x523.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks",
-      "link": "https://www.myjoyonline.com/oil-falls-on-increased-gulf-supply-and-hopes-for-us-iran-talks/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T02:15:00.000Z",
-      "summary": "Oil prices drifted lower on Wednesday as Saudi Arabia began restoring crude supply on a ​critical pipeline to the Red Sea and on hopes for a diplomatic solution to the US-Iran ‌war through…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "US-Iran war"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-3002-1024x690.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL: Hearts trip, Kotoko draw as Debibi, Port City claim wins",
-      "link": "https://ghanaiantimes.com.gh/gpl-hearts-trip-kotoko-draw-as-debibi-port-city-claim-wins/",
+      "title": "Media must step up fight against financial crimes — GIABA",
+      "link": "https://ghanaiantimes.com.gh/media-must-step-up-fight-against-financial-crimes-giaba/",
       "source": "Ghanaian Times",
-      "published": "2026-09-23T01:06:00.000Z",
-      "summary": "Accra Hearts of Oak dropped their first points of the season, Asante Kotoko stretched their unbeaten start while Debibi United and Port City FC recorded historic first top-flight victories…",
+      "published": "2026-09-23T08:26:13.000Z",
+      "summary": "The Inter-Governmental Action Group Against Money Laundering in West Africa (GIABA) has urged journalists across the ECOWAS sub-region to intensify investigations into money laundering…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "West Africa steps up fight against cross-border crime",
+      "link": "https://ghanaiantimes.com.gh/west-africa-steps-up-fight-against-cross-border-crime/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T08:24:31.000Z",
+      "summary": "West African countries must deepen cooperation and coordination to combat the growing threat of transnational organised crime and strengthen security across the sub-region, the Minister for…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Rafatu Inusah appointed C’wlth Youth Games Chef de Mission",
+      "link": "https://ghanaiantimes.com.gh/rafatu-inusah-appointed-cwlth-youth-games-chef-de-mission/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T08:20:15.000Z",
+      "summary": "The Ghana Olympic Committee (GOC) has appointed Ms. Rafatu Inusah, President of Ghana Rugby, as Chef de Mission (CDM) for Team Ghana at the upcoming Commonwealth Youth Games. The event is…",
       "categories": [
         "Sports"
       ],
-      "image": null,
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Mahama calls for stronger domestic capacity and sustainable financing for Global South",
-      "link": "https://ghanaiantimes.com.gh/mahama-calls-for-stronger-domestic-capacity-and-sustainable-financing-for-global-south/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T17:30:21.000Z",
-      "summary": "President John Dramani Mahama has called for stronger domestic capacity, effective institutions and sustainable financing as countries in the Global South continue to face growing debt…",
+      "title": "Ghana courts Qatar, others for railway transformation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-courts-qatar-others-for-railway-transformation.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T08:19:54.000Z",
+      "summary": "The government is pursuing strategic bilateral agreements with resource-rich countries to support its railway transformation agenda to drive industrialisation and job creation.",
       "categories": [
-        "Hot!",
-        "News"
+        "General News"
       ],
-      "image": null,
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Ablakwa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hearts lucky to escape defeat -Bechem United Coach",
+      "link": "https://ghanaiantimes.com.gh/hearts-lucky-to-escape-defeat-bechem-united-coach/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T08:17:57.000Z",
+      "summary": "The Head Coach of Bechem United, Mohammed Bashar Ogba, says the outcome of their Matchday 3 clash against Hearts of Oak was not a true reflection of the game, believing that the Phobians…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Five arrested as police recover guns and suspected drugs in Tamale",
-      "link": "https://ghanaiantimes.com.gh/five-arrested-as-police-recover-guns-and-suspected-drugs-in-tamale/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T17:27:39.000Z",
-      "summary": "The Northern Regional Police Command has arrested five people during an operation at the Aboabo scraps area in Tamale, where two pistols, ammunition, suspected narcotics and cash were…",
+      "title": "Gordon Brown backs Accra Reset initiative",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gordon-brown-backs-accra-reset-initiative.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T08:14:51.000Z",
+      "summary": "Former British Prime Minister, Gordon Brown, has lauded the Accra Reset Initiative championed by President John Dramani Mahama, describing it as a decisive shift from external dependence to…",
       "categories": [
-        "Hot!",
-        "News"
+        "General News"
       ],
-      "image": null,
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Gordon.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ngetich breaks women half-marathon record",
+      "link": "https://ghanaiantimes.com.gh/ngetich-breaks-women-half-marathon-record/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T08:14:36.000Z",
+      "summary": "Agnes Ngetich broke the world record for a women-only half marathon as she took gold at the World Road Running Championships in Copenhagen. The Kenyan claimed victory in one hour, five…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NPP will be out of opposition In just 2 Years – Afoko vows",
-      "link": "https://ghanaiantimes.com.gh/npp-will-be-out-of-opposition-in-just-2-years-afoko-vows/",
+      "title": "Arteta agrees new deal with champions Arsenal",
+      "link": "https://ghanaiantimes.com.gh/arteta-agrees-new-deal-with-champions-arsenal/",
       "source": "Ghanaian Times",
-      "published": "2026-09-22T17:25:12.000Z",
-      "summary": "Former National Chairman of the New Patriotic Party (NPP), Awentami Paul Afoko, has expressed optimism that the party will form the next government, with him at the helm as National…",
+      "published": "2026-09-23T08:13:18.000Z",
+      "summary": "Mikel Arteta has agreed an improved new contract with Premier League champions Arsenal. The Spaniard’s current deal expires at the end of the current season but talks over a new contract…",
       "categories": [
-        "Hot!",
-        "News"
+        "Foriegn"
       ],
-      "image": null,
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Ghana set to reopen diplomatic mission in Ireland after 17 years",
-      "link": "https://ghanaiantimes.com.gh/ghana-set-to-reopen-diplomatic-mission-in-ireland-after-17-years/",
+      "title": "Infantino open to talks over FIFA reform",
+      "link": "https://ghanaiantimes.com.gh/infantino-open-to-talks-over-fifa-reform/",
       "source": "Ghanaian Times",
-      "published": "2026-09-22T17:22:58.000Z",
-      "summary": "Ghana is set to reopen its diplomatic mission in Ireland as part of efforts to strengthen relations between the two countries and improve support for Ghanaians living there. The Deputy…",
+      "published": "2026-09-23T08:12:02.000Z",
+      "summary": "FIFA President Gianni Infantino has proposed an independent review of the world soccer body’s decision-making, in a move that could ‌help him regain support after the withdrawal of a…",
       "categories": [
-        "Hot!",
-        "News"
+        "Foriegn"
       ],
-      "image": null,
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "I have no hand in Laboma demolition- La Shikitele Nii Adjei Koofeh lV Boldly states",
-      "link": "https://ghanaiantimes.com.gh/i-have-no-hand-in-laboma-demolition-la-shikitele-nii-adjei-koofeh-lv-boldly-states/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T17:19:48.000Z",
-      "summary": "Head of the Nmati Abonase Quarter at Konadu We, La Shikitele, Nii Adjei Koofeh IV, has denied any responsibility for the demolition of some structures at the Laboma Beach Resort. He…",
+      "title": "Money follows trust: Dangote hails Ghana's quick economic turnaround",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-money-follows-trust-dangote-hails-ghanas-quick-economic-turnaround.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T08:11:10.000Z",
+      "summary": "Business magnate and President of the Dangote Group, Aliko Dangote, has hailed President John Dramani Mahama for turning around Ghana's economy within a short period.",
       "categories": [
-        "Hot!",
-        "News"
+        "General News"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-16.01.07-1-1024x576.jpeg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Alinko.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Wednesday, September 23, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-wednesday-september-23-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T08:10:30.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Frontpages",
+        "Newspaper"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CSD launches platform to bring capital market closer to Ghanaians",
+      "link": "https://ghanaiantimes.com.gh/csd-launches-platform-to-bring-capital-market-closer-to-ghanaians/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T08:10:17.000Z",
+      "summary": "The Central Securities Depository (CSD) has launched a new digital platform, Investor Connect, aimed at making Ghana’s capital market more accessible, convenient and transparent to…",
+      "categories": [
+        "Business"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NELEF 2026: Emerging leaders urged to take responsibility for Ghana’s development",
-      "link": "https://ghanaiantimes.com.gh/nelef-2026-emerging-leaders-urged-to-take-responsibility-for-ghanas-development/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T17:15:22.000Z",
-      "summary": "Founder and Chief Executive Officer of VODEC Africa and Convener of the National Emerging Leaders’ Economic Forum (NELEF), Daniel Asomani, has urged young Africans to take greater…",
+      "title": "Ghanaian pastor, Rev Emmanuel Boakye-Danquah on the run over alleged counterfeit currency syndicate",
+      "link": "https://www.myjoyonline.com/ghanaian-pastor-rev-emmanuel-boakye-danquah-on-the-run-over-alleged-counterfeit-currency-syndicate/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T08:02:14.000Z",
+      "summary": "The National Security Council Secretariat (NSCS) says Ghanaian pastor Rev. Emmanuel Boakye-Danquah is at large after a nationwide crackdown on criminal syndicates allegedly involved in the…",
       "categories": [
-        "Hot!",
-        "News"
+        "HP News 3",
+        "National",
+        "News",
+        "Counterfeit currency",
+        "Rev Emmanuel Boakye-Danquah"
       ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-5.png",
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Teacher Unions give government until September 24 to resolve promotion arrears",
-      "link": "https://ghanaiantimes.com.gh/teacher-unions-give-government-until-september-24-to-resolve-promotion-arrears/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-22T17:11:21.000Z",
-      "summary": "The teacher unions have given the government until midday on Thursday, September 24, 2026, to resolve outstanding issues concerning the promotion placement, salaries and arrears of…",
+      "title": "Give Teshie Desalination to Kasapreko or Accra Brewery",
+      "link": "https://www.myjoyonline.com/give-teshie-desalination-to-kasapreko-or-accra-brewery/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T07:55:03.000Z",
+      "summary": "Why make Ghana Water the commercial buyer in the first place? A better structure would have separated production, transmission and retail. The desalination company produces the water. A…",
       "categories": [
-        "Hot!",
-        "News"
+        "HP News 5",
+        "National",
+        "Opinion",
+        "Accra Brewery",
+        "Kasapreko",
+        "Kwame Sowu",
+        "Teshie Desalination"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Kwame-Sowu.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian project company wins US$235 million ICC award over Teshie Desalination Plant",
+      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-project-company-wins-us-235-million-icc-award-over-teshie-desalination-plant.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T07:46:57.000Z",
+      "summary": "Befesa Desalination Developments Ghana Limited has won two final awards in an international arbitration over the Teshie-Nungua desalination plant.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/oct/31/GWL.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Absa Bank Ghana and IFC announce $50m facility to expand cocoa financing",
+      "link": "https://www.myjoyonline.com/absa-bank-ghana-and-ifc-announce-50m-facility-to-expand-cocoa-financing/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T07:46:50.000Z",
+      "summary": "Absa Bank Ghana LTD and IFC have announced a $50 million unfunded risk participation facility to expand financing for Licensed Buying Companies purchasing traceable cocoa from farmers…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Absa Bank Ghana",
+        "IFC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3023-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "WHO hails Ghana Medical Trust Fund's first-year impact",
+      "link": "https://www.graphic.com.gh/news/health/who-hails-ghana-medical-trust-funds-first-year-impact.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T07:44:31.000Z",
+      "summary": "The World Health Organization (WHO) has commended the Ghana Medical Trust Fund (GMTF) for its progress during its first year, describing the initiative as a significant step towards…",
+      "categories": [
+        "Health"
       ],
       "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President reaffirms reset of global health governance",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-reaffirms-reset-of-global-health-governance.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T07:10:41.000Z",
+      "summary": "President John Dramani Mahama has reiterated to the Global South to have control over its relationships in global health, trade and financing, stating that there can be no ownership without…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Mahama.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana to host 6th Federation of African Journalists Congress",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-to-host-6th-federation-of-african-journalists-continental-congress.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T06:47:41.000Z",
+      "summary": "Ghana has been selected to host the 6th Continental Congress of the Federation of African Journalists (FAJ).",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "At Graphic Business/Stanbic Bank Breakfast Meeting: Collaborate to make cross-border payments easier — Panellists",
+      "link": "https://www.graphic.com.gh/news/general-news/at-graphic-business-stanbic-bank-breakfast-meeting-collaborate-to-make-cross-border-payments-easier-panellists.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T06:27:55.000Z",
+      "summary": "Two speakers at the Graphic Business/Stanbic Bank Breakfast Meeting have called for collaboration among businesses to make cross-border payments faster, cheaper and more predictable.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Musah.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Semenyo ready to lead Man City's attack if called upon",
@@ -337,102 +437,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/22/COACH_SARPONG.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "IFC to provide $200 million financing to open logistics corridor by linking Volta Lake to northern Ghana, Burkina Faso and other Sahelian states",
-      "link": "https://www.graphic.com.gh/news/general-news/ifc-to-provide-200-million-financing-to-open-logistics-corridor-by-linking-volta-lake-to-northern-ghana-burkina-faso-and-other-sahelian-states.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T12:22:10.000Z",
-      "summary": "The International Finance Corporation (IFC) has agreed to provide $200 million in financing to help open the logistics corridor linking the Volta Lake to northern Ghana, then to Burkina…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/accra.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Former UK Prime Minister Brown backs Accra Reset",
-      "link": "https://www.graphic.com.gh/news/general-news/former-uk-prime-minister-brown-backs-accra-reset.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T12:15:40.000Z",
-      "summary": "Former British Prime Minister Gordon Brown has lauded the Accra Reset Initiative championed by President John Dramani Mahama, describing it as a decisive shift from external dependence to…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Wontumi Exim Bank case adjourned over amended charge",
-      "link": "https://www.graphic.com.gh/news/general-news/wontumi-exim-bank-case-adjourned-over-amended-charge.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T12:09:43.000Z",
-      "summary": "The Accra High Court has adjourned the GH¢30 million Ghana Export-Import Bank (Exim Bank) case involving the convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP)…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/July/28/Wontumi.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "US based Ghanaian professor shot, wife arrested as suspect",
-      "link": "https://www.graphic.com.gh/news/general-news/us-based-ghanaian-professor-shot-wife-arrested-as-suspect.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T12:08:20.000Z",
-      "summary": "A US-based Ghanaian lecturer at Southern Illinois University (SIU), Kofi Akamani, has been shot dead in Illinois.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/illinois.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dangote calls for visa-free Africa",
-      "link": "https://www.graphic.com.gh/news/politics/dangote-calls-for-visa-free-africa.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T12:02:50.000Z",
-      "summary": "Africa's richest man and President of the Dangote Group, Aliko Dangote, has hailed President John Dramani Mahama for turning around Ghana's economy within a short period.",
-      "categories": [
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, Kenya, Rwanda to pilot digital wallet designed to let people share trusted evidence of qualifications, work experience across employers",
-      "link": "https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T11:39:56.000Z",
-      "summary": "Kenyan President William Ruto has announced a digital wallet initiative designed to let people obtain, hold and share trusted evidence of qualifications, work experience across employers…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/contactless-payment_2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES probes SHS heads over compulsory sale of prospectus items",
-      "link": "https://www.graphic.com.gh/news/education/ges-probes-shs-heads-over-forced-sale-of-school-items.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T10:58:19.000Z",
-      "summary": "The Ghana Education Service (GES) is investigating some senior high schools over complaints that parents are being compelled to buy items listed in the school prospectus directly from the…",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/aaaPro_ghana_news.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest five suspects in Tamale, firearms and narcotics seized",
-      "link": "https://www.graphic.com.gh/news/general-news/tamale-five-arrested-firearms-and-narcotics-recovered.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-22T10:41:25.000Z",
-      "summary": "The Northern Regional Police Command has arrested five suspects and recovered firearms, narcotics, and other exhibits at Aboabo, a suburb of Tamale.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/tamale.jpg",
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
