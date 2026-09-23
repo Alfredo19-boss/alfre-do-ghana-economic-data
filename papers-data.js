@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-22T22:00:24.483Z",
+  "updated": "2026-09-23T00:13:48.636Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,62 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Lekzy DeComic to feature four generations of comedians on upcoming show",
+      "link": "https://www.myjoyonline.com/lekzy-decomic-to-feature-four-generations-of-comedians-on-upcoming-show/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T22:10:55.000Z",
+      "summary": "Dubbed Lekzy Unleashed: The Godfather Edition the programme will be held on Friday, 7th November 2026, at the UPSA Auditorium in Accra.",
+      "categories": [
+        "Events",
+        "HP Entertainment 2",
+        "Comedy events",
+        "Four generations",
+        "Lekzy DeComic"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_8899-1024x630.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigeria wins arbitration as Sunrise’s $400 million hydropower claim dismissed",
+      "link": "https://www.myjoyonline.com/nigeria-wins-arbitration-as-sunrises-400-million-hydropower-claim-dismissed/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T22:04:00.000Z",
+      "summary": "Nigeria has won an international arbitration case after a tribunal dismissed ​a $400 million claim by Sunrise Power and ‌Transmission over the long-delayed Mambilla hydroelectric project…",
+      "categories": [
+        "Africa",
+        "Nigeria",
+        "Sunrise"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/1-10.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Xhaka under investigation over Covid-19 certificate",
+      "link": "https://www.myjoyonline.com/xhaka-under-investigation-over-covid-19-certificate/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T21:53:00.000Z",
+      "summary": "Switzerland captain Granit Xhaka is under investigation by Swiss prosecutors over allegations he obtained a forged Covid-19 vaccination certificate.",
+      "categories": [
+        "Football",
+        "Granit Xhaka"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3003.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FAW chief questions Infantino’s Fifa reform claims",
+      "link": "https://www.myjoyonline.com/faw-chief-questions-infantinos-fifa-reform-claims/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-22T21:42:00.000Z",
+      "summary": "Football Association of Wales chief executive Noel Mooney has played down suggestions Fifa is planning major reforms.",
+      "categories": [
+        "Football",
+        "Gianni Infantino"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/image-3010.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "La Liga chief dismisses Real’s ref conspiracy claims",
       "link": "https://www.myjoyonline.com/la-liga-chief-dismisses-reals-ref-conspiracy-claims/",
@@ -82,66 +138,6 @@ window.GDC_PAPERS = {
         "Ministry of Sports and Recreation"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/da11d496-3a02-4073-bc6a-4242cccdb893-576x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Do you want me to be happy with this poor performance?’ – Bono East Minister fumes over Kintampo market project with less than 1% work done",
-      "link": "https://www.myjoyonline.com/do-you-want-me-to-be-happy-with-this-poor-performance-bono-east-minister-fumes-over-kintampo-market-project-with-less-than-1-work-done/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T21:06:48.000Z",
-      "summary": "The Bono East Regional Minister, Francis Owusu Antwi, has issued a strong warning to the contractor handling the Kintampo North 24-Hour Economy Market project, vowing to terminate the…",
-      "categories": [
-        "Regional",
-        "Bono East Minister",
-        "Francis Owusu Antwi",
-        "Kintampo North 24-Hour Economy Market project"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-22-at-20.58.47-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "London screening honours Nkrumah and 103 years of Ghana cinema",
-      "link": "https://www.myjoyonline.com/london-screening-honours-nkrumah-and-103-years-of-ghana-cinema/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T21:03:28.000Z",
-      "summary": "A restored Ghanaian film, His Majesty’s Sergeant, has been screened in London to mark Dr Kwame Nkrumah’s birthday and 103 years of Ghanaian cinema.",
-      "categories": [
-        "Events",
-        "Kwame Nkrumah",
-        "London",
-        "Screening"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/927c1f9d-0852-43a4-ac1e-8562868a61b5-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Founder’s Day: Is Nkrumah’s glory fading? – Nkrumah’s iconic fountain at Circle runs dry",
-      "link": "https://www.myjoyonline.com/founders-day-is-nkrumahs-glory-fading-nkrumahs-iconic-fountain-at-circle-runs-dry/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T21:02:12.000Z",
-      "summary": "“The Black man is capable of managing his own affairs.” Those words by Ghana’s first President, Osagyefo Dr Kwame Nkrumah, became a defining statement of Ghana’s independence and African…",
-      "categories": [
-        "Features",
-        "National",
-        "News",
-        "Nkrumah’s iconic fountain"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-203408-1024x591.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GHS calls for stronger systems to ensure safe care for NCD patients",
-      "link": "https://www.myjoyonline.com/ghs-calls-for-stronger-systems-to-ensure-safe-care-for-ncd-patients/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T21:01:58.000Z",
-      "summary": "The Ghana Health Service (GHS) has called for stronger health systems, effective patient navigation and improved primary healthcare services to ensure safe and continuous care for persons…",
-      "categories": [
-        "Health",
-        "National",
-        "Ghana Health Service",
-        "GHS calls for stronger systems to ensure safe care for NCD patients"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Health-Patients-Day-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {

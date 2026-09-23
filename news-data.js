@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-22T22:00:11.547Z",
-  "worldAt": "2026-09-22T22:00:11.545Z",
+  "updated": "2026-09-23T00:13:35.050Z",
+  "worldAt": "2026-09-23T00:13:35.047Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 34 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 5 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,12 +1099,56 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Trump tells UN he has 'big decision' on whether to 'annihilate' Iran or make peace deal",
+      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+      "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T23:46:06.000Z",
+      "summary": "Iran's aviation officials negotiate with Oman and Iraq as US's Bessent targets carriers seven months into the conflict."
+    },
+    {
+      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T23:36:12.000Z",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/8e6f0380-b5ee-11f1-aff1-eb6baa3fda4f.png"
+    },
+    {
+      "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
+      "link": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T23:20:17.000Z",
+      "summary": "The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan."
+    },
+    {
+      "title": "Watch: Threats, deals and passionate speeches at UNGA event",
+      "link": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T22:33:44.000Z",
+      "summary": "Delegations from across the world attended the United Nations General Assembly in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f4/live/f7bcd0d0-b6d2-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T22:48:56.000Z",
+      "summary": "The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address."
+    },
+    {
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
       "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-09-22T21:50:31.000Z",
-      "summary": "His tone contrasted with remarks earlier from UN Secretary General António Guterres, who warned global divisions were deepening.",
+      "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg"
+    },
+    {
+      "title": "Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?",
+      "link": "https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T22:10:25.000Z",
+      "summary": "Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth."
     },
     {
       "title": "Zelensky says Ukraine is ready for an energy ceasefire with Russia",
@@ -1113,6 +1157,13 @@ window.GDC_NEWS = {
       "published": "2026-09-22T21:38:04.000Z",
       "summary": "On the sidelines of the UN General Assembly in New York on Tuesday, Ukraine's President Volodymyr Zelensky told journalists that Kyiv is ready to halt strikes on Russian energy…",
       "image": "https://s.france24.com/media/display/8fc1ad66-b6cd-11f1-9bea-557acd7c815c/w:1024/p:16x9/2026-09-22T185321Z-294428292-RC2IONAPQIAG-RTRMADP-3-UN-ASSEMBLY-ZELENSKIY-TRUMP.jpg"
+    },
+    {
+      "title": "US Republican calls for probe into Donald Trump Jr’s business dealings",
+      "link": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-22T22:07:50.000Z",
+      "summary": "US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable."
     },
     {
       "title": "US to build two military bases in Greenland under new deal with Denmark",
@@ -1144,12 +1195,12 @@ window.GDC_NEWS = {
       "summary": "Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland."
     },
     {
-      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T21:09:25.000Z",
-      "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/8e6f0380-b5ee-11f1-aff1-eb6baa3fda4f.png"
+      "title": "Guterres pleads for 'world built on interdependence' in final General Assembly address",
+      "link": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
+      "source": "France 24",
+      "published": "2026-09-22T21:02:47.000Z",
+      "summary": "UN Secretary-General Antonio Guterres pleaded for “a world built on interdependence” Tuesday as he made his final address to the annual gathering of world leaders convening to face a…",
+      "image": "https://s.france24.com/media/display/ea1e1384-b697-11f1-8e11-557acd7c815c/w:1024/p:16x9/2026-09-22T130946Z-751559590-RC2DONAJFJ4B-RTRMADP-3-UN-ASSEMBLY.jpg"
     },
     {
       "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
@@ -1159,12 +1210,12 @@ window.GDC_NEWS = {
       "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator."
     },
     {
-      "title": "Guterres pleads for 'world built on interdependence' in final General Assembly address",
-      "link": "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address",
-      "source": "France 24",
-      "published": "2026-09-22T21:02:47.000Z",
-      "summary": "UN Secretary-General Antonio Guterres pleaded for “a world built on interdependence” Tuesday as he made his final address to the annual gathering of world leaders convening to face a…",
-      "image": "https://s.france24.com/media/display/ea1e1384-b697-11f1-8e11-557acd7c815c/w:1024/p:16x9/2026-09-22T130946Z-751559590-RC2DONAJFJ4B-RTRMADP-3-UN-ASSEMBLY.jpg"
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-22T20:59:00.000Z",
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6d/live/eb5cde20-b6af-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "Macron: France won’t ‘yield an inch’ on Ukraine support",
@@ -1172,14 +1223,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-09-22T21:09:03.000Z",
       "summary": "French President Emmanuel Macron says the “coalition of the willing\" will not back down in its support of Ukraine."
-    },
-    {
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T20:59:00.000Z",
-      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6d/live/eb5cde20-b6af-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "title": "French government scales up targeted fuel price relief",
@@ -1352,50 +1395,6 @@ window.GDC_NEWS = {
       "published": "2026-09-22T17:09:26.000Z",
       "summary": "US President Donald Trump launched a full-throated defence of the deeply unpopular US-Israeli war against Iran before the UN General Assembly on Tuesday, claiming that Washington would…",
       "image": "https://s.france24.com/media/display/089d084a-b69f-11f1-8123-557acd7c815c/w:1024/p:16x9/2026-09-22T152351Z-782234015-RC2FONAJ9I0O-RTRMADP-3-UN-ASSEMBLY.jpg"
-    },
-    {
-      "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T18:49:36.000Z",
-      "summary": "Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees."
-    },
-    {
-      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T16:57:55.000Z",
-      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebad/live/b5f04860-b69d-11f1-ba3d-1d5c8a47f823.png"
-    },
-    {
-      "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
-      "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T18:48:37.000Z",
-      "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israel war on Iran."
-    },
-    {
-      "title": "Top South African policeman charged with sexual offences",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-22T16:54:41.000Z",
-      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46aa/live/d5084a60-7f69-11f1-8812-63adb81ec20b.jpg"
-    },
-    {
-      "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-      "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-22T18:46:32.000Z",
-      "summary": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland."
-    },
-    {
-      "title": "Trump threatens to 'annihilate' Iran, attacks ICC in UN speech",
-      "link": "http://www.africanews.com/2026/09/22/trump-threatens-to-annihilate-iran-attacks-icc-in-un-speech/",
-      "source": "Africanews",
-      "published": "2026-09-22T16:50:31.000Z",
-      "summary": "US President Donald Trump said Tuesday he has to decide whether to make a deal with Iran or \"annihilate\" the country, in a bombastic speech to the United Nations that appeared tailored to…"
     }
   ],
   "africa": [
