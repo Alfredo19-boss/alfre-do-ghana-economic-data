@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-24T00:00:04.285Z",
+  "updated": "2026-09-24T03:48:24.759Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,62 +25,119 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-      "link": "https://www.myjoyonline.com/lidl-banned-from-selling-copycat-birkenstock-sandals-dutch-court-rules/",
+      "title": "Cocobod pitches $1.4 billion domestic financing plan",
+      "link": "https://www.myjoyonline.com/cocobod-pitches-1-4-billion-domestic-financing-plan/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T23:36:00.000Z",
-      "summary": "Lidl must stop selling copycat versions of Birkenstock's famous sandals in the Netherlands, a Dutch court has ruled.",
+      "published": "2026-09-24T03:06:00.000Z",
+      "summary": "Ghana Cocoa Board (COCOBOD) is seeking to raise GH¢16.3 billion ($1.4 billion) from domestic investors to fund cocoa purchases for the upcoming season, according to a government…",
+      "categories": [
+        "Economy",
+        "National",
+        "COCOBOD"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-344-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Eriksen leaves Wolfsburg by mutual consent",
+      "link": "https://www.myjoyonline.com/eriksen-leaves-wolfsburg-by-mutual-consent-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T02:55:00.000Z",
+      "summary": "Christian Eriksen has left Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
+      "categories": [
+        "Football",
+        "Christian Eriksen"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-1184.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump offers warm welcome as China’s Xi arrives for US visit",
+      "link": "https://www.myjoyonline.com/trump-offers-warm-welcome-as-chinas-xi-arrives-for-us-visit/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T02:44:00.000Z",
+      "summary": "US President Donald Trump has greeted his Chinese counterpart Xi Jinping with a military flyover and 100ft (30m) red carpet to kick off their three-day summit in Washington.",
       "categories": [
         "International",
-        "Birkenstock",
-        "Lidl",
-        "sandals"
+        "Donald Trump",
+        "Xi Jinping"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3133-1024x684.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3140.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I’ve never come across a woman that strong – Baffour Awuah recounts botched EOCO arrest",
-      "link": "https://www.myjoyonline.com/ive-never-come-across-a-woman-that-strong-baffour-awuah-recounts-botched-eoco-arrest/",
+      "title": "Bentley unveils its first fully electric car",
+      "link": "https://www.myjoyonline.com/bentley-unveils-its-first-fully-electric-car/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T23:25:00.000Z",
-      "summary": "Manhyia South MP, Nana Agyei Baffour Awuah, has recounted a tense encounter with a woman he says attempted to take him to the Economic and Organised Crime Office (EOCO) after a court…",
+      "published": "2026-09-24T02:33:00.000Z",
+      "summary": "Bentley has unveiled its first fully electric car after investing £350m to upgrade its factory in Cheshire.",
       "categories": [
-        "National",
-        "EOCo arrest",
-        "Nana Agyei Baffour Awuah"
+        "Cars",
+        "International",
+        "Bentley"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-10.17.12-AM-1024x613.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3137-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Netherlands to return to Eurovision after 2026 boycott",
-      "link": "https://www.myjoyonline.com/netherlands-to-return-to-eurovision-after-2026-boycott/",
+      "title": "OpenAI agent ‘infiltrated’ Australian government website, PM says",
+      "link": "https://www.myjoyonline.com/openai-agent-infiltrated-australian-government-website-pm-says/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T23:06:00.000Z",
-      "summary": "The Netherlands will return to the Eurovision Song Contest next year despite a boycott by the broadcaster that was previously in charge of the country's participation.",
+      "published": "2026-09-24T02:23:00.000Z",
+      "summary": "An artificial intelligence agent developed by OpenAI \"infiltrated\" an Australian government website in June, Prime Minister Anthony Albanese has said.",
+      "categories": [
+        "Technology",
+        "Australia",
+        "OpenAI"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3136-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US pledges $267m more to fight Ebola in central Africa",
+      "link": "https://www.myjoyonline.com/us-pledges-267m-more-to-fight-ebola-in-central-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T02:14:00.000Z",
+      "summary": "The US State Department on Wednesday pledged an additional $267 million to fight the Ebola outbreak in central Africa, as health authorities battle to get the deadly virus under control.",
+      "categories": [
+        "Africa",
+        "DR Congo",
+        "Ebola"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2786-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war",
+      "link": "https://www.myjoyonline.com/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T02:04:00.000Z",
+      "summary": "Oil prices edged lower on Thursday, after climbing 4% in the previous ‌session, as Iran said it remained open to diplomacy to end the US-Iran war, though the two countries remain far apart…",
       "categories": [
         "International",
-        "Music",
-        "Eurovision",
-        "Netherlands"
+        "Oil prices",
+        "Strait of Hormuz",
+        "US-Iran war"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3132-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-1753-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Alan Kyerematen calls for more leaner government",
-      "link": "https://www.myjoyonline.com/alan-kyerematen-calls-for-more-leaner-government/",
+      "title": "Rule of Men is replacing Rule of Law – Abu Jinapor",
+      "link": "https://www.myjoyonline.com/rule-of-men-is-replacing-rule-of-law-abu-jinapor/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T22:56:00.000Z",
-      "summary": "Ghana must significantly reduce the size of government and redirect public resources towards productive economic activity, former Trade and Industry Minister Alan Kwadwo Kyerematen has…",
+      "published": "2026-09-24T02:02:01.000Z",
+      "summary": "The Member of Parliament for Damongo and Ranking Member of Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has bemoaned what he described as a blatant disregard for the rule of…",
       "categories": [
+        "HP News 7",
         "National",
-        "News",
-        "Alan Kyerematen",
-        "Alan Kyerematen demands a more leaner government"
+        "Politics",
+        "Nana Agyei Baffour Awuah",
+        "Rule of Law",
+        "Rule of men",
+        "Samuel Abu Jinapor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-19.36.30-1-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-4.28.11-am-1024x629.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -123,21 +180,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "I will go when EOCO is ready to do the right thing – Baffour Awuah on disputed invitation",
-      "link": "https://www.myjoyonline.com/i-will-go-when-eoco-is-ready-to-do-the-right-thing-baffour-awuah-on-disputed-invitation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T22:45:00.000Z",
-      "summary": "Manhyia South MP Nana Agyei Baffour Awuah has defended his decision to drive away from Economic and Organised Crime Office (EOCO) officials after an attempt to take him to the agency on…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "EOCO",
-        "Nana Agyei Baffour Awuah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2864-1024x527.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Black Stars touch down in Bouaké ahead of crunch AFCON qualifier against Côte d’Ivoire",
       "link": "https://ghanaiantimes.com.gh/black-stars-touch-down-in-bouake-ahead-of-crunch-afcon-qualifier-against-cote-divoire/",
       "source": "Ghanaian Times",
@@ -151,36 +193,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Uproar in France over award-winning author accused of using AI",
-      "link": "https://www.myjoyonline.com/uproar-in-france-over-award-winning-author-accused-of-using-ai/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T22:24:00.000Z",
-      "summary": "The French book scene is in uproar after a Canadian-Haitian author billed as a sensation was accused of using artificial intelligence (AI) to write his first novel.",
-      "categories": [
-        "International",
-        "AI",
-        "France",
-        "Thélyson Orélien"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3131-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mauritius backs Moroccan sovereignty as most credible solution to regional dispute over Moroccan Sahara",
-      "link": "https://www.myjoyonline.com/mauritius-backs-moroccan-sovereignty-as-most-credible-solution-to-regional-dispute-over-moroccan-sahara/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T22:16:47.000Z",
-      "summary": "In a statement to the press following the meeting, Mr. Ramful explained that the Republic of Mauritius had recently reviewed its position on the Moroccan Sahara issue during a Cabinet…",
-      "categories": [
-        "International",
-        "Dhananjay Ramful",
-        "Mauritius",
-        "Morocco"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-22.49.37.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Afenyo-Markin hands over Ghana’s ECOWAS Parliament leadership to Ricketts-Hagan",
       "link": "https://www.graphic.com.gh/news/politics/afenyo-markin-hands-over-ghanas-ecowas-parliament-leadership-to-ricketts-hagan.html",
       "source": "Daily Graphic",
@@ -191,20 +203,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/24/afenyo.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Trump’s Board of Peace unveils $2.45bn plan to begin Gaza’s reconstruction",
-      "link": "https://www.myjoyonline.com/trumps-board-of-peace-unveils-2-45bn-plan-to-begin-gazas-reconstruction/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T22:14:00.000Z",
-      "summary": "US President Donald Trump's Board of Peace has announced a Gaza recovery plan worth $2.45bn (£1.85bn) during a meeting on the sidelines of the UN General Assembly.",
-      "categories": [
-        "International",
-        "Board of Peace",
-        "Donald Trump"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3130-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama says he will unite Africa, Caribbean and Latin America into world's biggest trading bloc",

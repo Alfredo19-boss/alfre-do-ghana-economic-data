@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-23T23:59:52.176Z",
-  "worldAt": "2026-09-23T23:59:52.174Z",
+  "updated": "2026-09-24T03:48:10.266Z",
+  "worldAt": "2026-09-24T03:48:10.264Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: 0 stories",
-    "Citi Newsroom wire: 0 stories",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,10 +42,17 @@ window.GDC_NEWS = {
     "Africa · Africanews: 34 stories",
     "Africa · BBC Africa: 34 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 3 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Cocobod pitches $1.4 billion domestic financing plan",
+      "link": "https://www.myjoyonline.com/cocobod-pitches-1-4-billion-domestic-financing-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T03:06:00.000Z",
+      "summary": "Ghana Cocoa Board (COCOBOD) is seeking to raise GH¢16.3 billion ($1.4 billion) from domestic investors to fund cocoa purchases for the upcoming season, according to a government…"
+    },
     {
       "title": "Cedi depreciates by 9.5% in nine months of 2026 – BoG",
       "link": "https://www.myjoyonline.com/cedi-depreciates-by-9-5-in-nine-months-of-2026-bog/",
@@ -1088,13 +1095,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-21T05:01:00.000Z",
       "summary": "Research from IMF offers central banks a framework to distinguish exchange-rate movements driven by economic fundamentals from those caused by financial market disruptions before intervening"
-    },
-    {
-      "title": "MrBeast’s $10m Ghana Village Puts Cocoa Child Labour Back in Focus",
-      "link": "https://thehighstreetjournal.com/mrbeasts-10m-ghana-village-puts-cocoa-child-labour-back-in-focus/",
-      "source": "The High Street Journal",
-      "published": "2026-09-21T05:00:00.000Z",
-      "summary": "MrBeast’s $10m village puts cocoa child labour in focus. Ghana faces pressure to protect children and modernise cocoa production."
     }
   ],
   "world": [
@@ -1102,16 +1102,91 @@ window.GDC_NEWS = {
       "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-23T23:44:58.000Z",
+      "published": "2026-09-24T03:22:54.000Z",
       "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "title": "China’s Xi arrives to Trump welcome on state visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+      "title": "Australia says OpenAI agent hacked Medicare portal",
+      "link": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T23:19:29.000Z",
-      "summary": "China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit"
+      "published": "2026-09-24T02:34:58.000Z",
+      "summary": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach."
+    },
+    {
+      "title": "Trump gives Xi rare airport welcome as Chinese leader begins US state visit",
+      "link": "https://www.france24.com/en/americas/20260924-trump-gives-xi-rare-airport-welcome-as-chinese-leader-begins-us-state-visit",
+      "source": "France 24",
+      "published": "2026-09-24T01:48:47.000Z",
+      "summary": "US President Donald Trump personally welcomed Chinese President Xi Jinping at a military airfield outside Washington on Wednesday, kicking off a lavish state visit focused on trade…",
+      "image": "https://s.france24.com/media/display/e7834690-b7b8-11f1-9b65-513157f91e8c/w:1024/p:16x9/AP26266799984457.jpg"
+    },
+    {
+      "title": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T02:23:06.000Z",
+      "summary": "Venezuela’s Interim President Delcy Rodriguez says her country must abandon the ‘extremism’ of the past."
+    },
+    {
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T00:50:24.000Z",
+      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bad/live/e6a022b0-b75a-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T02:17:36.000Z",
+      "summary": "Iran’s president delivered his UN General Assembly address after US President Trump threatened to ‘annihilate’ Iran."
+    },
+    {
+      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T00:15:46.000Z",
+      "summary": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b31/live/276fdbc0-b768-11f1-a7b2-f3bdba1cd194.jpg"
+    },
+    {
+      "title": "Israel moves to bar both main Arab lists from October election",
+      "link": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T02:06:59.000Z",
+      "summary": "Excluding Ra'am and the Joint List leaves Palestinian citizens in Israel without major Knesset representation options."
+    },
+    {
+      "title": "Turkey to hand over military base in northern Iraq to Baghdad",
+      "link": "https://www.france24.com/en/middle-east/20260924-turkey-to-hand-over-military-base-in-northern-iraq-to-baghdad",
+      "source": "France 24",
+      "published": "2026-09-24T00:02:51.000Z",
+      "summary": "Turkey will gradually hand over control of its Bashiqa military base in northern Iraq to Baghdad, Ankara and Baghdad said Wednesday, in a move aimed at strengthening Iraqi state authority…",
+      "image": "https://s.france24.com/media/display/75398aa8-b7a5-11f1-98fb-55848da96185/w:1024/p:16x9/AP26231257250409.jpg"
+    },
+    {
+      "title": "Venezuela’s Delcy Rodriguez promises elections at UN, gives no date",
+      "link": "https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T01:26:30.000Z",
+      "summary": "Rodriguez says Venezuela is transitioning to full democracy and has opened dialogue with opposition sectors."
+    },
+    {
+      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-23T23:58:50.000Z",
+      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/a0279100-b76a-11f1-a7b2-f3bdba1cd194.jpg"
+    },
+    {
+      "title": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
+      "link": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T01:04:28.000Z",
+      "summary": "Iraqi Prime Minister al-Zaidi and Turkish President Erdogan pledged deeper security cooperation at UNGA."
     },
     {
       "title": "'Make women feel seen': Why the Dutch have a new word for labia",
@@ -1122,11 +1197,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
-      "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
-      "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+      "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T22:56:41.000Z",
-      "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship."
+      "published": "2026-09-24T00:43:10.000Z",
+      "summary": "US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner."
     },
     {
       "title": "Indians are discovering the thrill of shopping without paying",
@@ -1137,12 +1212,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg"
     },
     {
-      "title": "OpenAI AI agent breached Australian government website, PM says",
-      "link": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
-      "source": "France 24",
-      "published": "2026-09-23T22:10:45.000Z",
-      "summary": "An AI agent developed by OpenAI gained unauthorised access to an Australian government website in June, accessing public and non-public files in what Prime Minister Anthony Albanese…",
-      "image": "https://s.france24.com/media/display/aa643d1c-1aad-11f1-b81a-005056bfb2b6/w:1024/p:16x9/2026-03-04T012358Z-954232101-RC2LU7AFX5KU-RTRMADP-3-OPENAI-NATO.jpg"
+      "title": "OpenAI, Anthropic CEOs call for global AI regulation at UN",
+      "link": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T00:13:53.000Z",
+      "summary": "Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails."
     },
     {
       "title": "A red carpet and military flyover - How Trump welcomed Xi",
@@ -1153,11 +1227,40 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fa/live/b4540960-b7a1-11f1-ba14-197cc9acea52.jpg"
     },
     {
+      "title": "Why is Kenya turning against Tata Chemicals in Magadi?",
+      "link": "https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T00:03:14.000Z",
+      "summary": "A century-old industry faces a reckoning over regulation, jobs and local benefits."
+    },
+    {
+      "title": "OpenAI AI agent breached Australian government website, PM says",
+      "link": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
+      "source": "France 24",
+      "published": "2026-09-23T22:10:45.000Z",
+      "summary": "An AI agent developed by OpenAI gained unauthorised access to an Australian government website in June, accessing public and non-public files in what Prime Minister Anthony Albanese…",
+      "image": "https://s.france24.com/media/display/aa643d1c-1aad-11f1-b81a-005056bfb2b6/w:1024/p:16x9/2026-03-04T012358Z-954232101-RC2LU7AFX5KU-RTRMADP-3-OPENAI-NATO.jpg"
+    },
+    {
+      "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T00:00:00.000Z",
+      "summary": "Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech."
+    },
+    {
       "title": "Here's what happened on day 2 of the UN General Assembly",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
       "source": "NPR World",
       "published": "2026-09-23T22:06:37.000Z",
       "summary": "Iran and Ukraine take center stage at the UN as diplomats push to contain two wars threatening global stability."
+    },
+    {
+      "title": "China’s Xi arrives to Trump welcome on state visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T23:19:29.000Z",
+      "summary": "China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit"
     },
     {
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
@@ -1166,6 +1269,13 @@ window.GDC_NEWS = {
       "published": "2026-09-23T22:01:17.000Z",
       "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg"
+    },
+    {
+      "title": "Trump welcomes Xi to Washington as US, China agree to extend trade truce",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T22:56:41.000Z",
+      "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship."
     },
     {
       "title": "Does the UN have a future?",
@@ -1191,11 +1301,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801a/live/bba851a0-b790-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+      "title": "FBI investigates alleged theft of ‘very sensitive’ employee data",
       "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-23T21:18:22.000Z",
-      "summary": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees."
+      "summary": "ShinyHunters hackers claim to have stolen data on thousands of FBI employees as the agency probes a portal breach."
     },
     {
       "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
@@ -1286,127 +1396,15 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-09-23T19:54:24.000Z",
       "summary": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock."
-    },
-    {
-      "title": "No, this video doesn't disprove the 9/11 attack on the south tower of the World Trade Center",
-      "link": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11",
-      "source": "France 24",
-      "published": "2026-09-23T19:01:33.000Z",
-      "summary": "A former British member of parliament implied that a video filmed from a helicopter on September 11, 2001 shows that no planes actually hit the World Trade Center's south tower, but this…",
-      "image": "https://s.france24.com/media/display/3fd9994e-b75e-11f1-ba39-55848da96185/w:1024/p:16x9/september.jpg"
-    },
-    {
-      "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
-      "link": "https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:35:09.000Z",
-      "summary": "Manchester United's debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss."
-    },
-    {
-      "title": "Zelensky accuses Putin of using nationals of 47 countries to fight Ukraine war",
-      "link": "https://www.france24.com/en/europe/20260923-putin-using-citizens-from-47-countries-to-fight-ukraine-zelensky-tells-un",
-      "source": "France 24",
-      "published": "2026-09-23T18:53:33.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky told the UN General Assembly on Wednesday that Russian President Vladimir Putin had enlisted fighters from 47 countries including North Korea, Ghana…",
-      "image": "https://s.france24.com/media/display/0a98f242-b782-11f1-acc3-513157f91e8c/w:1024/p:16x9/AP26266647906867.jpg"
-    },
-    {
-      "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
-      "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:32:58.000Z",
-      "summary": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana."
-    },
-    {
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-23T18:51:12.000Z",
-      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
-      "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:31:12.000Z",
-      "summary": "Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts."
-    },
-    {
-      "title": "Morocco’s opposition leader casts vote in parliamentary election",
-      "link": "http://www.africanews.com/2026/09/23/moroccos-opposition-leader-casts-vote-in-parliamentary-election/",
-      "source": "Africanews",
-      "published": "2026-09-23T18:47:48.000Z",
-      "summary": "The leader of Morocco's opposition PPS (Party of Progress and Socialism) arrived at a polling station in Rabat on Wednesday to vote in the parliamentary election."
-    },
-    {
-      "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:29:49.000Z",
-      "summary": "Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon."
-    },
-    {
-      "title": "Holy regulation? Pope in Paris to press case for 'disarming' AI",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260923-holy-regulation-pope-in-paris-to-press-case-for-disarming-ai",
-      "source": "France 24",
-      "published": "2026-09-23T18:44:11.000Z",
-      "summary": "It's all about his high holiness here in France. For weeks already, the nation's been abuzz over the upcoming visit of Leo. From Friday evening mass at Notre Dame Cathedral and mass before…",
-      "image": "https://s.france24.com/media/display/5c8c38ec-b779-11f1-92f1-cd71256adcef/w:1024/p:16x9/2026-09-23T092617Z-1132175007-RC2WONAUADS9-RTRMADP-3-MIGRATION-POPE.jpg"
-    },
-    {
-      "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
-      "link": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:29:28.000Z",
-      "summary": "Legislation seeks to pause advanced AI systems until federal safety standards are established."
-    },
-    {
-      "title": "Trump and Xi meet at moment of global consequence",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "source": "NPR World",
-      "published": "2026-09-23T18:23:19.000Z",
-      "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5869x3913+0+0/resize/5869x3913!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F7a%2F1094091b469a9206052f1f67c31e%2Fgettyimages-2275589464.jpg"
-    },
-    {
-      "title": "Iran threatens countries enforcing US airline sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:27:50.000Z",
-      "summary": "Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions"
-    },
-    {
-      "title": "'Breakthrough' archeological find could confirm location of Paris's original settlement",
-      "link": "https://www.france24.com/en/france/20260923-breakthrough-archeological-find-could-confirm-paris-origins",
-      "source": "France 24",
-      "published": "2026-09-23T18:19:47.000Z",
-      "summary": "An ancient wall discovered this summer under a hospital in central Paris is thought to be a fragment of city ramparts built by Iron age settlers. Experts say the stone-and-wood structure…",
-      "image": "https://s.france24.com/media/display/d504aa80-b773-11f1-a019-55848da96185/w:1024/p:16x9/000-C94W2ZQ.jpg"
-    },
-    {
-      "title": "US judge leaves White House media ban in place for now",
-      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:26:03.000Z",
-      "summary": "A judge heard arguments on Wednesday but did not rule on the case."
-    },
-    {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-23T18:15:31.000Z",
-      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg"
     }
   ],
   "africa": [
     {
-      "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
-      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+      "title": "Why is Kenya turning against Tata Chemicals in Magadi?",
+      "link": "https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T20:56:15.000Z",
-      "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says."
+      "published": "2026-09-24T00:03:14.000Z",
+      "summary": "A century-old industry faces a reckoning over regulation, jobs and local benefits."
     },
     {
       "title": "Rwanda: Belgium and Rwanda Restore Diplomatic Ties After 18-Month Rupture",
@@ -1416,11 +1414,11 @@ window.GDC_NEWS = {
       "summary": "[RFI] Belgium and Rwanda have restored diplomatic relations, 18 months after Kigali severed ties with Brussels over opposing positions on the conflict in eastern Democratic Republic of…"
     },
     {
-      "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+      "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T20:37:18.000Z",
-      "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive."
+      "published": "2026-09-23T20:56:15.000Z",
+      "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says."
     },
     {
       "title": "Africa: Right to Development - a Blueprint for Unmet Promises",
@@ -1430,11 +1428,11 @@ window.GDC_NEWS = {
       "summary": "[UN News] Ahead of the 40th anniversary of the groundbreaking Declaration on the Right to Development this December, world leaders gathered at a High-Level Week meeting on Wednesday to map…"
     },
     {
-      "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
-      "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
+      "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T19:32:58.000Z",
-      "summary": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana."
+      "published": "2026-09-23T20:37:18.000Z",
+      "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive."
     },
     {
       "title": "Congo-Kinshasa: DR Congo Ebola Outbreak Toll Exceeds 3,700 Deaths",
@@ -1442,6 +1440,13 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-23T20:05:47.000Z",
       "summary": "[UN News] More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up…"
+    },
+    {
+      "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
+      "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T19:32:58.000Z",
+      "summary": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana."
     },
     {
       "title": "Morocco’s opposition leader casts vote in parliamentary election",
@@ -1678,13 +1683,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-23T12:50:44.000Z",
       "summary": "[Capital FM] Nairobi -- President William Ruto has co-hosted a high-level clean cooking event with Norway on the sidelines of the 81st United Nations General Assembly in New York, where…"
-    },
-    {
-      "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
-      "link": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T12:29:21.000Z",
-      "summary": "The 2027 Africa Cup of Nations will be held in Kenya, Uganda and Tanzania, with 24 qualification spots up for grabs."
     }
   ]
 };
