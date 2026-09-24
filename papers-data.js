@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-24T18:01:10.260Z",
+  "updated": "2026-09-24T21:26:43.093Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,19 +25,161 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Cargill Ghana and International Cocoa Initiative celebrate 111 young graduates building skills for the future",
-      "link": "https://www.myjoyonline.com/cargill-ghana-and-international-cocoa-initiative-celebrate-111-young-graduates-building-skills-for-the-future/",
+      "title": "AFCON 2027Q: Black Stars open campaign with defeat to Ivory Coast in Bouaké",
+      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-open-campaign-with-defeat-to-ivory-coast-in-bouake/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T17:44:17.000Z",
-      "summary": "Cargill Ghana, in collaboration with the International Cocoa Initiative (ICI), has celebrated 111 young graduates who successfully completed various vocational apprenticeship training…",
+      "published": "2026-09-24T21:06:04.000Z",
+      "summary": "The defeat leaves Ghana at the bottom of Group C ahead of Friday's meeting between The Gambia and Somalia.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "Sports",
+        "2027 AFCON Qualifiers",
+        "Augustine Boakye",
+        "Benjamin Tetteh",
+        "Black Stars",
+        "Carlos Queiroz",
+        "Frank Kessie",
+        "Ghana",
+        "Haruna Mubarak",
+        "Malick Yalcouye"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Black-Stars1-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From construction site to top of class: Daniel Doe emerges Legon’s best Computer Engineering student",
+      "link": "https://www.myjoyonline.com/from-construction-site-to-top-of-class-daniel-doe-emerges-legons-best-computer-engineering-student/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T20:50:45.000Z",
+      "summary": "Daniel Agudey Doe, a Computer Engineering graduate of the University of Ghana, has emerged as the best graduating student in his programme after navigating significant financial…",
+      "categories": [
+        "Features",
+        "Computer Engineering student",
+        "Daniel Doe"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-12.46.24-682x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama: Peaceful political transitions prove democracy can work in Africa",
+      "link": "https://www.myjoyonline.com/mahama-peaceful-political-transitions-prove-democracy-can-work-in-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T20:47:18.000Z",
+      "summary": "President John Dramani Mahama has pointed to Ghana’s record of peaceful political transitions as evidence that democratic institutions can provide a stable framework for managing changes in…",
+      "categories": [
+        "National",
+        "Africa",
+        "Democracy",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/JM-2-1024x732.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“The law must work” – NDC rejects claims Salomey Baffoe’s bail denial is diversion from cocaine scandal",
+      "link": "https://www.myjoyonline.com/the-law-must-work-ndc-rejects-claims-salomey-baffoes-bail-denial-is-diversion-from-cocaine-scandal/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T20:37:07.000Z",
+      "summary": "The Deputy Director of Elections and IT for the National Democratic Congress (NDC), Rashid Tanko Computer, has rejected claims that the continued detention of Salomey Awiti Baffoe is a…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "NDC",
+        "Rashid Tanko Computer",
+        "“The Law Must Work” – NDC rejects claims Salomey Baffoe’s bail denial is diversion from cocaine scandal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/top-story-npp-accuses-government.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police arrest two suspects over murder of Senegalese goalkeeper",
+      "link": "https://www.myjoyonline.com/police-arrest-two-suspects-over-murder-of-senegalese-goalkeeper/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T20:36:36.000Z",
+      "summary": "The Ghana Police Service has arrested two suspects in connection with the kidnapping and murder of Senegalese goalkeeper Cheikh Toure in Kumasi in October 2025.",
+      "categories": [
+        "Crime",
+        "HP News 9",
+        "Regional",
+        "Ghana Police Service",
+        "Murder",
+        "Senegalese goalkeeper"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Untitled-1-1024x724.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TVET Service, Bank of Ghana explore partnership to boost skills development",
+      "link": "https://www.myjoyonline.com/tvet-service-bank-of-ghana-explore-partnership-to-boost-skills-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T19:48:37.000Z",
+      "summary": "The management of the Ghana TVET Service, led by its Director-General, Engr. Dr Eric Kofi Adzroe, has paid a courtesy call on the Governor of the Bank of Ghana, Dr Johnson Pandit Asiama, at…",
       "categories": [
         "Education",
-        "Regional",
-        "Cargill Ghana",
-        "International Cocoa initiative"
+        "National",
+        "News",
+        "Ghana TVET Service"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-15.12.59.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-17.58.50-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana TVET Service, OR Foundation partner to promote sustainable fashion",
+      "link": "https://www.myjoyonline.com/ghana-tvet-service-or-foundation-partner-to-promote-sustainable-fashion/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T19:35:35.000Z",
+      "summary": "The Ghana TVET Service has partnered with The OR Foundation to promote sustainable fashion and circular design as part of National TVET Week 2026.",
+      "categories": [
+        "National",
+        "News",
+        "Ghana TVET Service",
+        "The Or Foundation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-18.15.15-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Achimota, Accra Academy, PRESEC Osu qualify for next stage of National Public Speaking Event",
+      "link": "https://www.myjoyonline.com/achimota-accra-academy-presec-osu-qualify-for-next-stage-of-national-public-speaking-event/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T19:32:38.000Z",
+      "summary": "The Greater Accra National Public Speaking Event held at PRESEC Legon saw Achimota School, Accra Academy, and PRESEC Osu emerge as the winners and secure their places in the next stage of…",
+      "categories": [
+        "Education",
+        "National",
+        "Accra Academy",
+        "Achimota School",
+        "Greater Accra National Public Speaking Event",
+        "PRESEC Osu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-19.05.39-1-1024x724.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asanko Gold supports 80 farmers with agricultural inputs",
+      "link": "https://www.graphic.com.gh/news/general-news/asanko-gold-supports-80-farmers-with-agricultural-inputs.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-24T18:59:01.000Z",
+      "summary": "Asanko Gold Ghana Limited has extended support to 80 smallholder farmers across 12 communities in the Amansie West and Amansie South districts in the Ashanti Region.",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Gyetuah bags brace as 9 players named NASCO GPL Man of the Match",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gyetuah-bags-brace-as-9-players-named-nasco-gpl-man-of-the-match.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-24T18:36:18.000Z",
+      "summary": "Nine outstanding players were named NASCO Man of the Match winners for Matchweek Three of the 2026/27 Ghana Premier League (GPL), following an action-packed weekend that produced 19 goals…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Parliament appeals for release of GH¢5.6 million to Petroleum Commission",
@@ -51,21 +193,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Video: Madina MP Francis-Xavier Sosu collapses while addressing students at GIMPA",
-      "link": "https://www.myjoyonline.com/video-madina-mp-francis-xavier-sosu-collapses-while-addressing-students-at-gimpa/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T17:42:35.000Z",
-      "summary": "The Member of Parliament for Madina, Lawyer Francis-Xavier Sosu, reportedly collapsed while addressing students at the Ghana Institute of Management and Public Administration (GIMPA) in…",
-      "categories": [
-        "National",
-        "Collapse",
-        "GIMPA",
-        "Lawyer Francis-Xavier Sosu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-17.33.54.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "“No civilisation deserves to be annihilated” – Mahama calls for dialogue on global conflicts at UNGA 81",
@@ -85,7 +212,7 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ecg-queens-donate-to-tema-hospital.html",
       "source": "Daily Graphic",
       "published": "2026-09-24T17:38:24.000Z",
-      "summary": "The Tema ECG Regional branch of the all female club of the Electricity Company of Ghana, the Power Queens Club, Tema Region made a donation to the Fridoug Children's Unit of the Tema Urban…",
+      "summary": "The Tema ECG Regional branch of the all female club of the Electricity Company of Ghana, the Power Queens Club, donated items to the Fridoug Children's Block of the Tema Urban Hospital.",
       "categories": [
         "General News"
       ],
@@ -106,21 +233,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Hunnyboy reveals how social media landed him Shatta Wale feature",
-      "link": "https://www.myjoyonline.com/hunnyboy-reveals-how-social-media-landed-him-shatta-wale-feature/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T17:37:02.000Z",
-      "summary": "Ghanaian singer Hunnyboy has revealed how a social media campaign led to his collaboration with Shatta Wale and changed the course of his career.",
-      "categories": [
-        "HP Entertainment 3",
-        "Music",
-        "Hunnyboy",
-        "Shatta Wale"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_8924.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Real reparations requires structural transformation, not gestures – Mahama",
       "link": "https://ghanaiantimes.com.gh/real-reparations-requires-structural-transformation-not-gestures-mahama/",
       "source": "Ghanaian Times",
@@ -132,21 +244,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "I am a perfectionist – Actor William Lamptey",
-      "link": "https://www.myjoyonline.com/i-am-a-perfectionist-actor-william-lamptey/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T17:32:53.000Z",
-      "summary": "Ghanaian actor William Lamptey says winning the 2026 Africa Monologue Challenge has made him realise he is a perfectionist.",
-      "categories": [
-        "HP Entertainment 1",
-        "Movies",
-        "Perfectionist",
-        "William Lamptey"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_8923.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "We came to seek healing, not division – Prez Mahama",
@@ -200,56 +297,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "No room for another false start as Ghana begin AFCON qualifying campaign",
-      "link": "https://www.myjoyonline.com/no-room-for-another-false-start-as-ghana-begin-afcon-qualifying-campaign/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T17:13:01.000Z",
-      "summary": "Two years ago, Ghana began its quest to qualify for the 2025 Africa Cup of Nations with what appeared to be a straightforward opening assignment. Angola and Niger stood in the way of the…",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Opinion",
-        "Sports",
-        "AFCON Qualifiers",
-        "Black Stars",
-        "Daniel Koranteng",
-        "Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GHA02509-820x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“We are grateful for what you have achieved” – AGI President tells Finance Minister",
-      "link": "https://www.myjoyonline.com/we-are-grateful-for-what-you-have-achieved-agi-president-tells-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T17:04:40.000Z",
-      "summary": "He made the remarks during a meeting between the Finance Minister, the leadership of the AGI and leading captains of industry.",
-      "categories": [
-        "Business",
-        "Economy",
-        "AGI",
-        "Dr. Ato Forson",
-        "Dr. Nsiah-Poku",
-        "Ministry of Finance"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-20.49.29-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“No Nation is Inferior”: Mahama champions human dignity and security council reform at the UN",
-      "link": "https://www.myjoyonline.com/no-nation-is-inferior-mahama-champions-human-dignity-and-security-council-reform-at-the-un/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T16:42:06.000Z",
-      "summary": "Addressing the 81st Session of the United Nations General Assembly in New York on September 24, 2026, Ghanaian President His Excellency John Dramani Mahama delivered an expansive speech…",
-      "categories": [
-        "Opinion",
-        "John Mahama",
-        "UN"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/JM-5-1024x575.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana Jollof case: High Court denies Salomey Awity Bafoh's bail application",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-jollof-case-high-court-denies-salomey-awity-bafohs-bail-application.html",
       "source": "Daily Graphic",
@@ -260,22 +307,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/23/awity_s.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Manhyia South residents, NPP executives fume over botched EOCO arrest of MP",
-      "link": "https://www.myjoyonline.com/manhyia-south-residents-npp-executives-fume-over-botched-eoco-arrest-of-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T16:32:11.000Z",
-      "summary": "The leadership of the New Patriotic Party (NPP) in the Manhyia South Constituency has condemned what it calls a botched attempt by the Economic and Organised Crime Office (EOCO) to arrest…",
-      "categories": [
-        "Regional",
-        "EOCO",
-        "Manhyia south",
-        "MP",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3270.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "PREVIEW: Depleted Black Stars face Bouaké test as Carlos Queiroz begins AFCON mission",
@@ -386,18 +417,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "No change in utility tariffs for the rest of 2026",
-      "link": "https://www.graphic.com.gh/news/general-news/no-change-in-utility-tariffs-for-the-rest-of-2026.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-24T10:20:30.000Z",
-      "summary": "The Public Utilities Regulatory Commission (PURC) has maintained electricity and water tariffs at 0 per cent adjustment for the fourth quarter of 2026, with the existing third-quarter rates…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2020/jan/11/4262022100330-uypctgfsrm-powerandwatertariffs.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Klottey’s anti-galamsey walk reaches Northern Region",
       "link": "https://www.graphic.com.gh/sports/sports-news/klotteys-anti-galamsey-walk-reaches-northern-region.html",
       "source": "Graphic Sports",
@@ -431,18 +450,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/22/NGETICH.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Sports Editorial: Colts football revival must become a national devt priority",
-      "link": "https://www.graphic.com.gh/sports/sports-news/sports-editorial-colts-football-revival-must-become-a-national-devt-priority.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-22T14:00:23.000Z",
-      "summary": "For decades, Ghana’s reputation in African football rested not only on the achievements of the Black Stars, but also on the remarkable talent pipeline that continually fed the national…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/COLTS.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]

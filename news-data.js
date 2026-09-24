@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-24T18:00:56.775Z",
-  "worldAt": "2026-09-24T18:00:56.773Z",
+  "updated": "2026-09-24T21:26:29.573Z",
+  "worldAt": "2026-09-24T21:26:29.569Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,32 +20,60 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 4/25 stories",
+    "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 28 stories",
+    "World · BBC News: 35 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 35 stories",
+    "Africa · Africanews: 34 stories",
     "Africa · BBC Africa: 29 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 4 stories",
+    "Africa · Al Jazeera: 6 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Asanko Gold supports 80 farmers with agricultural inputs",
+      "link": "https://www.graphic.com.gh/news/general-news/asanko-gold-supports-80-farmers-with-agricultural-inputs.html",
+      "source": "Graphic Online",
+      "published": "2026-09-24T18:59:01.000Z",
+      "summary": "Asanko Gold Ghana Limited has extended support to 80 smallholder farmers across 12 communities in the Amansie West and Amansie South districts in the Ashanti Region."
+    },
+    {
+      "title": "Ecobank Group commits US$2.6bn to women-led businesses and agribusinesses across Africa",
+      "link": "https://www.myjoyonline.com/ecobank-group-commits-us2-6bn-to-women-led-businesses-and-agribusinesses-across-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T18:49:14.000Z",
+      "summary": "The announcement was made during the Ecobank@40 Media Conference in Lomé, as the pan-African banking group marked the conclusion of its 40th anniversary year."
+    },
+    {
+      "title": "High Court Denies Salomey Baffoe Bail, Cites Risk of Witness Interference",
+      "link": "https://thehighstreetjournal.com/high-court-denies-salomey-baffoe-bail-cites-risk-of-witness-interference/",
+      "source": "The High Street Journal",
+      "published": "2026-09-24T18:34:17.000Z",
+      "summary": "High Court denies Salomey Awity Baffoe’s bail, citing witness interference risks as cyber-related investigations continue; court directs prosecution to expedite."
+    },
+    {
+      "title": "MTN launches 2026 Suncity Fest, assures customers of excellent services",
+      "link": "https://gna.org.gh/2026/09/mtn-launches-2026-suncity-fest-assures-customers-of-excellent-services/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-24T17:43:30.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
     {
       "title": "“We are grateful for what you have achieved” – AGI President tells Finance Minister",
       "link": "https://www.myjoyonline.com/we-are-grateful-for-what-you-have-achieved-agi-president-tells-finance-minister/",
@@ -352,7 +380,7 @@ window.GDC_NEWS = {
       "link": "https://www.myjoyonline.com/ghana-yorkshire-trade-investment-summit-brings-enterprise-culture-and-community-together-in-bradford/",
       "source": "MyJoyOnline",
       "published": "2026-09-24T07:16:49.000Z",
-      "summary": "For two remarkable days in September, the University of Bradford became a meeting place between Ghana and Yorkshire, bringing together business, academia, government, traditional…"
+      "summary": "For two remarkable days in September, the University of Bradford became a meeting point between Ghana and Yorkshire, bringing together business, academia, government, traditional…"
     },
     {
       "title": "Wontumi Exim Bank case adjourned over amended charge",
@@ -1067,51 +1095,233 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-22T12:04:00.000Z",
       "summary": "Appiah Kusi Adomako urges government to cut airport charges, benchmark aviation costs, attract low-cost carriers and strengthen competition oversight to reduce Ghana’s domestic airfares…"
-    },
-    {
-      "title": "Hollard Ghana mourns Group CEO Patience Akyianu",
-      "link": "https://www.myjoyonline.com/hollard-ghana-mourns-group-ceo-patience-akyianu/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T11:43:35.000Z",
-      "summary": "Hollard Ghana has announced the death of its Group Chief Executive Officer, Patience Enyonam Akyianu, who died on Sunday, September 20, 2026. The company announced her death in a statement…"
-    },
-    {
-      "title": "Ghana, Kenya, Rwanda to pilot digital wallet designed to let people share trusted evidence of qualifications, work experience across employers",
-      "link": "https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html",
-      "source": "Graphic Online",
-      "published": "2026-09-22T11:39:56.000Z",
-      "summary": "Kenyan President William Ruto has announced a digital wallet initiative designed to let people obtain, hold and share trusted evidence of qualifications, work experience across employers…"
-    },
-    {
-      "title": "High cost of domestic airline fares: can the government do something about it?",
-      "link": "https://www.myjoyonline.com/high-cost-of-domestic-airline-fares-can-the-government-do-something-about-it/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T11:34:36.000Z",
-      "summary": "Across five Ghanaian routes, the average lowest return fare was US$313.06 and the average highest was US$450.48. Across 12 routes in Nigeria, South Africa, Kenya and India, the averages…"
-    },
-    {
-      "title": "Ten years after the blackouts, what changed in Ghana’s power story?",
-      "link": "https://www.myjoyonline.com/ten-years-after-the-blackouts-what-changed-in-ghanas-power-story/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T11:24:00.000Z",
-      "summary": "Karpowership arrived in that context in December 2015, when its floating power plant docked in Tema under a supply agreement with the Electricity Company of Ghana."
     }
   ],
   "world": [
+    {
+      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T21:21:47.000Z",
+      "summary": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T20:54:28.000Z",
+      "summary": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank."
+    },
+    {
+      "title": "Macron says 'CIA did not ​inform French services' of possible Russian drone attacks",
+      "link": "https://www.france24.com/en/france/20260924-macron-says-cia-did-not-inform-french-services-of-possible-russian-drone-attacks",
+      "source": "France 24",
+      "published": "2026-09-24T20:38:09.000Z",
+      "summary": "French President Emmanuel Macron on Thursday denied a report by Spanish newspaper El Mundo that the US Central Intelligence Agency had warned European governments of possible Russian drone…",
+      "image": "https://s.france24.com/media/display/8e756596-b84f-11f1-a08d-852b23529bb9/w:1024/p:16x9/000-C9B32J2.jpg"
+    },
+    {
+      "title": "Trade truce, Taiwan and Iran top Trump-Xi agenda in Washington",
+      "link": "http://www.africanews.com/2026/09/24/trade-truce-taiwan-and-iran-top-trump-xi-agenda-in-washington/",
+      "source": "Africanews",
+      "published": "2026-09-24T20:35:57.000Z",
+      "summary": "President Donald Trump has welcomed Chinese President Xi Jinping to Washington, praising what he called their “truly great friendship” as the two leaders opened talks focused on trade…"
+    },
+    {
+      "title": "Iran sees air, land travel chaos as US sanctions bite",
+      "link": "https://www.france24.com/en/iran-sees-air-land-travel-chaos-as-us-sanctions-bite",
+      "source": "France 24",
+      "published": "2026-09-24T20:35:39.000Z",
+      "summary": "Flights between Iran and the United Arab Emirates have been suspended, following tighter US sanctions on Iran's aviation industry. The move effectively cuts Tehran off from Dubai, one of…",
+      "image": "https://s.france24.com/media/display/b36b9184-b856-11f1-95b9-11fa9f8a3b4f/w:1024/p:16x9/capture-7725897766ab58841cb11c4-10270280.jpg"
+    },
+    {
+      "title": "US citizen injured after wrongly arrested by ICE in Illinois",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T20:23:06.000Z",
+      "summary": "US citizen injured after wrongly arrested by ICE in Illinois"
+    },
+    {
+      "title": "Tigray rebels in 'full-blown' war with government",
+      "link": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
+      "source": "France 24",
+      "published": "2026-09-24T20:23:08.000Z",
+      "summary": "In tonight's edition, Tigrayans in northern Ethiopia start panic buying supplies in the rush to stock up amidst fears that months of tensions have finally tipped over into full-blown…",
+      "image": "https://s.france24.com/media/display/bce64688-b855-11f1-b7ff-91cf9f3cd539/w:1024/p:16x9/capture-6857433396ab586a440a986-82786000.jpg"
+    },
+    {
+      "title": "New York sues Polymarket over allegations of illegal gambling operations",
+      "link": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T20:15:25.000Z",
+      "summary": "The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi."
+    },
+    {
+      "title": "Pretoria hosts massive barbecue world record attempt",
+      "link": "http://www.africanews.com/2026/09/24/pretoria-hosts-massive-barbecue-world-record-attempt/",
+      "source": "Africanews",
+      "published": "2026-09-24T19:57:39.000Z",
+      "summary": "South Africans in Pretoria are hoping to have cooked up a new Guinness World Record. Hundreds gathered on Thursday to fire up their grills and attempt the largest simultaneous barbecue ever…"
+    },
+    {
+      "title": "Israel moves to ban main Palestinian-led lists from election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T19:54:00.000Z",
+      "summary": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election."
+    },
+    {
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T19:32:59.000Z",
+      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2842/live/d1b99780-b833-11f1-b4bc-39c67eb36497.jpg"
+    },
+    {
+      "title": "What’s triggered the latest violence in Ethiopia?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T19:34:53.000Z",
+      "summary": "Tigrayan forces say they are in a 'full-blown war' with the army."
+    },
+    {
+      "title": "Israeli PM Netanyahu calls Gaza genocide allegations ‘biggest lie of the century’",
+      "link": "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un",
+      "source": "France 24",
+      "published": "2026-09-24T19:31:41.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu gave a combative speech at the UN General Assembly on Thursday in which he denied that Israel had committed genocide in Gaza, lashed out at…",
+      "image": "https://s.france24.com/media/display/a8935772-b844-11f1-9dc4-91cf9f3cd539/w:1024/p:16x9/AP26267658621628.jpg"
+    },
+    {
+      "title": "US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout",
+      "link": "https://www.aljazeera.com/news/2026/9/24/us-rapper-macklemore-announces-free-palestine-tour-after-ed-sheeran-fallout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T19:22:27.000Z",
+      "summary": "Macklemore says 'being apolitical during a genocide doesn’t work', promises to donate proceeds to Palestinian causes."
+    },
+    {
+      "title": "REPLAY: Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
+      "link": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
+      "source": "France 24",
+      "published": "2026-09-24T19:28:01.000Z",
+      "summary": "Prime Minister Benjamin Netanyahu on ​Thursday mounted a forceful defense of Israel's actions in the region at the UN, seeking to counter growing international isolation ahead of elections…",
+      "image": "https://s.france24.com/media/display/c851b5f2-b850-11f1-a883-8f3418d01115/w:1024/p:16x9/2026-09-24T183822Z-1183987970-RC2UPNA2HRCN-RTRMADP-3-UN-ASSEMBLY.jpg"
+    },
+    {
+      "title": "Delegates walk out of Netanyahu’s UN speech",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T19:18:29.000Z",
+      "summary": "Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech."
+    },
+    {
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T19:18:12.000Z",
+      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
+      "source": "France 24",
+      "published": "2026-09-24T19:05:59.000Z",
+      "summary": "It’s their AI world and we’re just living in it. If that's the feeling of those who suffer from AI anxiety, it may worsen watching the Chinese president’s first state visit to Washington in…",
+      "image": "https://s.france24.com/media/display/3ea7fa6e-b841-11f1-aab4-11fa9f8a3b4f/w:1024/p:16x9/2026-09-24T173904Z-397346931-RC2TPNAQ79LN-RTRMADP-3-USA-CHINA.jpg"
+    },
+    {
+      "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+      "link": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T19:02:50.000Z",
+      "summary": "Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it."
+    },
+    {
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T19:02:36.000Z",
+      "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/34396cd0-b827-11f1-9173-8b6ede38f022.jpg"
+    },
+    {
+      "title": "Residents in West Bank's Masafer Yatta face Israeli demolitions",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20260924-residents-west-bank-masafer-yatta-israeli-demolitions",
+      "source": "France 24",
+      "published": "2026-09-24T18:47:22.000Z",
+      "summary": "On September 2, the Israeli army demolished the village of Khirbet a-Taban in the occupied West Bank. The village is located in Masafer Yatta, an area Israel declared a restricted military…",
+      "image": "https://s.france24.com/media/display/68d48224-b834-11f1-b8c5-c959b9d22ec6/w:1024/p:16x9/vlcsnap-2026-09-24-16h16m03s237.png"
+    },
+    {
+      "title": "Moroccan voters call for action after election results",
+      "link": "http://www.africanews.com/2026/09/24/moroccan-voters-call-for-action-after-election-results/",
+      "source": "Africanews",
+      "published": "2026-09-24T18:46:57.000Z",
+      "summary": "Morocco’s ruling coalition has dominated parliamentary elections marked by low turnout and a stronger showing from the Islamist opposition. But beyond the results, voters are focusing on…"
+    },
+    {
+      "title": "Watch: UN delegates walk out of Netanyahu speech",
+      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T18:29:29.000Z",
+      "summary": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbc7/live/4d40df20-b844-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+      "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T18:19:03.000Z",
+      "summary": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government."
+    },
+    {
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T18:06:40.000Z",
+      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg"
+    },
+    {
+      "title": "US and China presidents discuss cooperation, trade and AI risks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T18:19:01.000Z",
+      "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House"
+    },
+    {
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-24T17:55:44.000Z",
+      "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec3b/live/dddb23a0-b840-11f1-aeab-cbd1b7662429.jpg"
+    },
+    {
+      "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T18:13:32.000Z",
+      "summary": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019."
+    },
     {
       "title": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-09-24T17:49:20.000Z",
       "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "title": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
-      "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
+      "title": "Iranian-American group sues Trump over war",
+      "link": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T17:15:31.000Z",
-      "summary": "Ukraine's President Zelenskyy denounces 'horrific crime' after 31-year-old attacks clergy, worshippers in border town."
+      "published": "2026-09-24T17:45:52.000Z",
+      "summary": "Plaintiffs have families in Iran who have been harmed by the US war, they say."
     },
     {
       "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
@@ -1122,11 +1332,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00fa/live/d58230e0-b836-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
+      "title": "Ukrainian man kills one, wounds four in Poland abbey knife attack",
+      "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T17:08:50.000Z",
-      "summary": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister."
+      "published": "2026-09-24T17:15:31.000Z",
+      "summary": "Ukraine's President Zelenskyy denounces 'horrific crime' after 31-year-old attacks clergy, worshippers in border town."
     },
     {
       "title": "Dangote’s Big Energy Expansion: From Nigerian Refinery to African Powerhouse {Business Africa}",
@@ -1136,11 +1346,11 @@ window.GDC_NEWS = {
       "summary": "Dangote is expanding its energy business across Africa, putting local capital and cross-border infrastructure at the centre of the continent’s refining future. South Sudan’s small…"
     },
     {
-      "title": "Collapsing currency and inflation leave families struggling in Sudan",
-      "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
+      "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T17:03:55.000Z",
-      "summary": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability."
+      "published": "2026-09-24T17:08:50.000Z",
+      "summary": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister."
     },
     {
       "title": "Nigeria busts another Mexican cartel-linked meth lab",
@@ -1150,11 +1360,11 @@ window.GDC_NEWS = {
       "summary": "It is Nigeria’s fourth major meth lab bust since May, with authorities saying all four operations were linked to Mexican nationals."
     },
     {
-      "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-      "link": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
+      "title": "Collapsing currency and inflation leave families struggling in Sudan",
+      "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T17:03:31.000Z",
-      "summary": "UN trade body report says consequences of Israeli occupation have 'skyrocketed' with 90% unemployed in Gaza."
+      "published": "2026-09-24T17:03:55.000Z",
+      "summary": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability."
     },
     {
       "title": "Houthi advances in Yemen drive displacement, deepen humanitarian crisis",
@@ -1164,11 +1374,11 @@ window.GDC_NEWS = {
       "summary": "With more than 132,000 people already displaced by the latest fighting and Houthi territorial gains, Yemen is on the brink of slipping back into a full-fledged humanitarian emergency. DW…"
     },
     {
-      "title": "Africa’s bid for a seat on the Security Council",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council?traffic_source=rss",
+      "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
+      "link": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T16:58:49.000Z",
-      "summary": "Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council."
+      "published": "2026-09-24T17:03:31.000Z",
+      "summary": "UN trade body report says consequences of Israeli occupation have 'skyrocketed' with 90% unemployed in Gaza."
     },
     {
       "title": "Nigeria and US sign deal to increase mining investment",
@@ -1178,222 +1388,42 @@ window.GDC_NEWS = {
       "summary": "Nigeria and the United States on Wednesday signed a framework agreement to \"deepen American investment\" in the West African's country mining sector. Nigeria says its mineral resources are…"
     },
     {
-      "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss",
+      "title": "Africa’s bid for a seat on the Security Council",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T16:53:29.000Z",
-      "summary": "Some analysts say extending the truce is pure optics - others say it's a useful step towards a more durable deal."
-    },
-    {
-      "title": "Climate warning: El Niño offers a glimpse of a deadlier, hotter future",
-      "link": "http://www.africanews.com/2026/09/24/climate-warning-el-nino-offers-a-glimpse-of-a-deadlier-hotter-future/",
-      "source": "Africanews",
-      "published": "2026-09-24T16:07:07.000Z",
-      "summary": "This year's powerful El Nino and the record global heat it's driving, along with severe droughts, wildfires and shrinking water supplies, could lead to nearly half a million more deaths…"
-    },
-    {
-      "title": "Four civilians killed in Pakistani airstrikes in Afghanistan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T16:51:30.000Z",
-      "summary": "Four civilians have been killed in the latest Pakistani airstrikes in Afghanistan."
-    },
-    {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T16:00:29.000Z",
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg"
-    },
-    {
-      "title": "Media outlets access to White House restored after a chaotic few hours",
-      "link": "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T16:45:39.000Z",
-      "summary": "A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access."
-    },
-    {
-      "title": "Israeli policies threaten 'life and existence' of Palestinians, Abbas tells UN",
-      "link": "https://www.france24.com/en/americas/20260924-israel-policies-threaten-life-existence-palestinian-says-abbas-un",
-      "source": "France 24",
-      "published": "2026-09-24T15:54:28.000Z",
-      "summary": "Palestinian President Mahmoud Abbas addressed the UN General Assembly on Thursday by video after being denied a visa to the United States for the second year in a row. In his prerecorded…",
-      "image": "https://s.france24.com/media/display/737ae326-b82a-11f1-a9cf-a18ad05a0c45/w:1024/p:16x9/2026-09-24T142617Z-1582678867-RC2QPNAWN47P-RTRMADP-3-UN-ASSEMBLY.jpg"
-    },
-    {
-      "title": "Mahmoud Abbas: What will it take to ‘protect’ Palestine?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/mahmoud-abbas-what-will-it-take-to-protect-palestine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T16:35:16.000Z",
-      "summary": "Palestinian President Mahmoud Abbas questioned how long the world would “remain silent” on Israel's actions."
-    },
-    {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T15:42:07.000Z",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "Trump invites Putin to Miami G20: Why that matters",
-      "link": "https://www.aljazeera.com/news/2026/9/24/trump-invites-putin-to-miami-g20-why-that-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T16:32:56.000Z",
-      "summary": "US Secretary of State Rubio said the summit would be an 'opportunity' for Putin to engage with other world leaders."
-    },
-    {
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T15:37:45.000Z",
-      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "LIVE: Ivory Coast vs Ghana – AFCON qualifying",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T16:01:15.000Z",
-      "summary": "Follow updates, build-up, team news and lineups, from our live text commentary stream coverage as Yan Diomande stars."
-    },
-    {
-      "title": "Schism with rebel Catholic sect casts a pall over Pope Leo’s visit to France",
-      "link": "https://www.france24.com/en/europe/20260924-schism-ultra-conservative-rebel-sect-sspx-pope-leo-visit-france-catholics-lourdes",
-      "source": "France 24",
-      "published": "2026-09-24T15:18:23.000Z",
-      "summary": "The Vatican’s recent excommunication of followers of a Catholic splinter sect, the Society of Saint Pius X, has revived a longstanding feud within the Roman Catholic Church ahead of Pope…",
-      "image": "https://s.france24.com/media/display/344a7888-b7f8-11f1-a0d8-712f76118fd1/w:1024/p:16x9/visuel-pape-2.jpg"
-    },
-    {
-      "title": "NAZA, Israeli film on Gaza, to stream for free after theatrical run",
-      "link": "https://www.aljazeera.com/news/2026/9/24/naza-israeli-film-on-gaza-to-stream-for-free-after-theatrical-run?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T15:59:25.000Z",
-      "summary": "Co-director Yuval Abraham says documentary exposing Israeli abuses will be available online in November."
-    },
-    {
-      "title": "Threat to 'life and existence': Major takeaways from Palestinian president's UN speech",
-      "link": "https://www.france24.com/en/video/20260924-threat-to-life-and-existence-major-takeaways-from-palestinian-president-s-un-speech",
-      "source": "France 24",
-      "published": "2026-09-24T15:09:04.000Z",
-      "summary": "Palestinian President Mahmoud Abbas addressed the UN General Assembly on Thursday, delivering prerecorded remarks from his office in Ramallah after the United States denied him and other…",
-      "image": "https://s.france24.com/media/display/f0954cc2-b828-11f1-b2b8-a18ad05a0c45/w:1024/p:16x9/EN-20260924-163824-164359-CS.jpg"
-    },
-    {
-      "title": "LIVE: Portugal vs Wales – UEFA Nations League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T15:46:12.000Z",
-      "summary": "Follow updates, with build-up, team news and lineups, from our live text commentary stream coverage as Ronaldo stars."
-    },
-    {
-      "title": "REPLAY: Palestinian president Abbas addresses UN General Assembly",
-      "link": "https://www.france24.com/en/video/20260924-replay-palestinian-president-abbas-addresses-un-general-assembly",
-      "source": "France 24",
-      "published": "2026-09-24T15:06:58.000Z",
-      "summary": "Palestinian president Mahmud Abbas told the UN on Thursday that Israeli policies no longer just jeopardized a two-state solution but were now threatening the \"very life and existence\" of…",
-      "image": "https://s.france24.com/media/display/943e5f68-b828-11f1-ac34-a18ad05a0c45/w:1024/p:16x9/EN-20260924-161505-163726-CS.jpg"
-    },
-    {
-      "title": "Trump welcomes China’s Xi Jinping to White House",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-welcomes-chinas-xi-jinping-to-white-house?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T15:27:45.000Z",
-      "summary": "Trump welcomes China’s Xi Jinping to White House"
-    },
-    {
-      "title": "Fighting intensifies in northern Ethiopia as Tigray rebels declare full-blown war",
-      "link": "http://www.africanews.com/2026/09/24/fighting-intensifies-in-northern-ethiopia-as-tigray-rebels-declare-full-blown-war/",
-      "source": "Africanews",
-      "published": "2026-09-24T15:04:07.000Z",
-      "summary": "Ethiopia’s army says its forces have killed 272 Tigrayan fighters and wounded 260 during a counter-offensive in Amhara. The press says the figures could not be independently verified."
-    },
-    {
-      "title": "How do the French feel about religion?",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20260924-how-do-the-french-feel-about-religion",
-      "source": "France 24",
-      "published": "2026-09-24T15:03:20.000Z",
-      "summary": "Amid the enthusiasm over the first papal visit to France in 18 years, we take a deep dive into religion in France. We try to answer the question, \"How do the French feel about religion?\"…",
-      "image": "https://s.france24.com/media/display/c65d60e2-b81a-11f1-b717-2d71c64b41d0/w:1024/p:16x9/capture-21420579086ab523b7dc4413-23446875.jpg"
-    },
-    {
-      "title": "Niger signs deal with Australian group to relaunch uranium project",
-      "link": "http://www.africanews.com/2026/09/24/niger-signs-deal-with-australian-group-to-relaunch-uranium-project/",
-      "source": "Africanews",
-      "published": "2026-09-24T14:58:56.000Z",
-      "summary": "Niger authorities said Wednesday they have signed a new agreement with the Madaouela Mining Company, which is 60% owned by the Australian Atomic Eagle group, to relaunch a uranium mining…"
-    },
-    {
-      "title": "'Trump views US-China relations as a personal friendship: Xi views US as an adversary to be managed'",
-      "link": "https://www.france24.com/en/trump-views-us-china-relations-as-a-personal-friendship-xi-views-us-as-an-adversary-to-be-managed",
-      "source": "France 24",
-      "published": "2026-09-24T15:01:53.000Z",
-      "summary": "Erin Ogunkeye is pleased to welcome Henrietta Levin, Senior Fellow with the Freeman Chair in China Studies at the Center for Strategic and International Studies in Washington. The US…",
-      "image": "https://s.france24.com/media/display/61aec282-b827-11f1-9e10-a18ad05a0c45/w:1024/p:16x9/EN-20260924-150401-151641-CS.jpg"
-    },
-    {
-      "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
-      "link": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T14:56:00.000Z",
-      "summary": "No response by Yemen's Houthis to a claim by the coalition forces that its missiles targeted Taif and Yanbu."
-    },
-    {
-      "title": "United States: Trump's unconventional welcome for Xi's state visit",
-      "link": "https://www.france24.com/en/video/20260924-united-states-trump-s-unconventional-welcome-for-xi-s-state-visit",
-      "source": "France 24",
-      "published": "2026-09-24T14:40:50.000Z",
-      "summary": "🇺🇸 🇨🇳 In a first for a US president, Donald Trump greeted his Chinese counterpart Xi Jinping on the tarmac as the latter landed in a military airbase near Washington DC on Wednesday for…",
-      "image": "https://s.france24.com/media/display/6d9c2b9c-b823-11f1-8769-9debf8c79810/w:1024/p:16x9/Trump-Xi-thumb-EN.jpg"
-    },
-    {
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T14:37:34.000Z",
-      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1b2/live/b86b4a70-b811-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "Why are Ireland vs Israel football matches so controversial?",
-      "link": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T14:36:02.000Z",
-      "summary": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza."
-    },
-    {
-      "title": "🔴 Live: Palestinian President Abbas calls on UN General Assembly to 'not allow another Nakba'",
-      "link": "https://www.france24.com/en/americas/20260924-live-netanyahu-faces-un-over-gaza-as-abbas-set-to-address-assembly-by-video",
-      "source": "France 24",
-      "published": "2026-09-24T14:29:20.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Forever Chemicals: Ground Zero",
-      "link": "https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T14:30:00.000Z",
-      "summary": "Pervasive, persistent and poisonous: How one US company helped pollute the world with forever chemicals."
-    },
-    {
-      "title": "Tangier’s annual art night brings the city’s creative spirit to life",
-      "link": "http://www.africanews.com/2026/09/24/tangiers-annual-art-night-brings-the-citys-creative-spirit-to-life/",
-      "source": "Africanews",
-      "published": "2026-09-24T14:22:36.000Z",
-      "summary": "The sixth edition of the event, titled “Being Here”, brought together artists at seven venues along Liberty Street, including the abandoned Liberty Hotel, built in the early twentieth…"
-    },
-    {
-      "title": "Nigerian superstar Yemi Alade: From viral hit 'Johnny' to working with Beyoncé",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260924-nigerian-superstar-yemi-alade-from-viral-hit-johnny-to-working-with-beyonc%C3%A9",
-      "source": "France 24",
-      "published": "2026-09-24T14:16:18.000Z",
-      "summary": "Nigerian superstar Yemi Alade is one of Africa's biggest female artists, with global hits, hundreds of millions of views online and a collaboration with Beyoncé. Speaking to Eve Jackson as…",
-      "image": "https://s.france24.com/media/display/c5b38270-b815-11f1-9d8f-6dfe19ed9d2f/w:1024/p:16x9/capture-11739432996ab51b532cead8-75247464.jpg"
+      "published": "2026-09-24T16:58:49.000Z",
+      "summary": "Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council."
     }
   ],
   "africa": [
+    {
+      "title": "What’s triggered the latest violence in Ethiopia?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T19:34:53.000Z",
+      "summary": "Tigrayan forces say they are in a 'full-blown war' with the army."
+    },
+    {
+      "title": "Moroccan voters call for action after election results",
+      "link": "http://www.africanews.com/2026/09/24/moroccan-voters-call-for-action-after-election-results/",
+      "source": "Africanews",
+      "published": "2026-09-24T18:46:57.000Z",
+      "summary": "Morocco’s ruling coalition has dominated parliamentary elections marked by low turnout and a stronger showing from the Islamist opposition. But beyond the results, voters are focusing on…"
+    },
+    {
+      "title": "Ethiopia's military says it killed hundreds of TPLF rebels",
+      "link": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-24T18:37:00.000Z",
+      "summary": "The TPLF fought against against the Ethiopian military from 2020 to 2022 in a conflict that saw hundreds of thousands of civilians killed. A resumption of fighting has sparked fears of…"
+    },
+    {
+      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+      "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T18:19:03.000Z",
+      "summary": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government."
+    },
     {
       "title": "Liberia: Ngafuan Woos Investors in New York",
       "link": "https://allafrica.com/stories/202609240594.html",
@@ -1402,11 +1432,11 @@ window.GDC_NEWS = {
       "summary": "[New Dawn] - Liberia's Minister of Finance and Development Planning, Augustine Kpehe Ngafuan, has urged international investors to take a closer look at Liberia, highlighting the country's…"
     },
     {
-      "title": "Collapsing currency and inflation leave families struggling in Sudan",
-      "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
+      "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T17:03:55.000Z",
-      "summary": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability."
+      "published": "2026-09-24T18:13:32.000Z",
+      "summary": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019."
     },
     {
       "title": "Dangote’s Big Energy Expansion: From Nigerian Refinery to African Powerhouse {Business Africa}",
@@ -1416,11 +1446,11 @@ window.GDC_NEWS = {
       "summary": "Dangote is expanding its energy business across Africa, putting local capital and cross-border infrastructure at the centre of the continent’s refining future. South Sudan’s small…"
     },
     {
-      "title": "Africa’s bid for a seat on the Security Council",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council?traffic_source=rss",
+      "title": "Collapsing currency and inflation leave families struggling in Sudan",
+      "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T16:58:49.000Z",
-      "summary": "Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council."
+      "published": "2026-09-24T17:03:55.000Z",
+      "summary": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability."
     },
     {
       "title": "Nigeria busts another Mexican cartel-linked meth lab",
@@ -1430,11 +1460,11 @@ window.GDC_NEWS = {
       "summary": "It is Nigeria’s fourth major meth lab bust since May, with authorities saying all four operations were linked to Mexican nationals."
     },
     {
-      "title": "LIVE: Ivory Coast vs Ghana – AFCON qualifying",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss",
+      "title": "Africa’s bid for a seat on the Security Council",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T16:01:15.000Z",
-      "summary": "Follow updates, build-up, team news and lineups, from our live text commentary stream coverage as Yan Diomande stars."
+      "published": "2026-09-24T16:58:49.000Z",
+      "summary": "Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council."
     },
     {
       "title": "Nigeria and US sign deal to increase mining investment",
@@ -1442,6 +1472,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-24T16:25:39.000Z",
       "summary": "Nigeria and the United States on Wednesday signed a framework agreement to \"deepen American investment\" in the West African's country mining sector. Nigeria says its mineral resources are…"
+    },
+    {
+      "title": "LIVE: Ivory Coast vs Ghana – AFCON qualifying",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-24T16:01:15.000Z",
+      "summary": "Follow updates, build-up, team news and lineups, from our live text commentary stream coverage as Yan Diomande stars."
     },
     {
       "title": "Kenya: Better Prices Lure Kitui Farmers Back to Cotton - If Seed, Rain and Young Farmers Follow",
@@ -1640,41 +1677,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-24T13:15:59.000Z",
       "summary": "[Capital FM] Marsabit -- The Judiciary has begun public consultations on its proposed budget for the 2027/28 financial year, seeking views on priorities aimed at expanding access to…"
-    },
-    {
-      "title": "Uganda: Afrigo Band Legend Moses Matovu Attacked, Killed",
-      "link": "https://allafrica.com/stories/202609240338.html",
-      "source": "AllAfrica",
-      "published": "2026-09-24T13:02:52.000Z",
-      "summary": "[Independent (Kampala)] Kampala -- Veteran musician and Afrigo Band icon Moses Matovu has died after he was attacked by unidentified assailants in Kampala. Matovu breathed his last at…"
-    },
-    {
-      "title": "Zambia: A Lusaka Bag Maker Is Sewing a Bigger Future For Zambia's Youth",
-      "link": "https://allafrica.com/stories/202609240344.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-24T13:06:54.000Z",
-      "summary": "[Bird Story Agency] Money saved from selling bracelets helped 25-year-old Brian Hamubotu establish a growing bag-manufacturing business that employs and trains 14 young Zambians. Now he…"
-    },
-    {
-      "title": "Liberia: Liberia Targets $30b Natural Capital Through Carbon Market",
-      "link": "https://allafrica.com/stories/202609240334.html",
-      "source": "AllAfrica",
-      "published": "2026-09-24T13:01:15.000Z",
-      "summary": "[Liberian Observer] Liberia has unveiled an ambitious vision to transform more than $30 billion in estimated natural capital--including forests, mangroves, biodiversity and renewable-energy…"
-    },
-    {
-      "title": "Tunisia fuel strike highlights growing economic and political anger",
-      "link": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T12:54:47.000Z",
-      "summary": "A 48-hour strike in Tunis adds to mounting public frustration over worsening living conditions and basic services."
-    },
-    {
-      "title": "Sudan: Chemical Weapons and Regional Interests Confront 'Double Standards'",
-      "link": "https://allafrica.com/stories/202609240329.html",
-      "source": "AllAfrica",
-      "published": "2026-09-24T13:00:31.000Z",
-      "summary": "[Nile Post] The war in Sudan is currently classified as one of the fiercest and bloodiest conflicts in Africa. It is no longer merely a war between the Rapid Support Forces and the Sudanese…"
     }
   ]
 };
