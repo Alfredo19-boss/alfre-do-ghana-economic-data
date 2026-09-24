@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-24T08:47:55.881Z",
+  "updated": "2026-09-24T13:48:53.273Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,327 +25,376 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Money, disinformation threaten Africa’s democratic gains – NPC",
-      "link": "https://ghanaiantimes.com.gh/money-disinformation-threaten-africas-democratic-gains-npc/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T08:45:02.000Z",
-      "summary": "The Chairman of the National Peace Council (NPC), Bishop Emanuel Kofi Fianu, has warned that the growing commercialisation of politics, misuse of technology and restrictions on civic…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Dr Kwabena Bempah Tandoh engages Mim market traders as Parliamentary campaign gathers momentum",
-      "link": "https://www.myjoyonline.com/dr-kwabena-bempah-tandoh-engages-mim-market-traders-as-parliamentary-campaign-gathers-momentum/",
+      "title": "Shot and killed in the US: Who was Dr Kofi Akamani?",
+      "link": "https://www.myjoyonline.com/shot-and-killed-in-the-us-who-was-dr-kofi-akamani/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T08:40:53.000Z",
-      "summary": "Former Deputy Director-General of the Ghana Education Service (GES), Dr Kwabena Bempah Tandoh, has intensified his grassroots engagement in the Asunafo North Constituency with a visit to…",
+      "published": "2026-09-24T13:40:02.000Z",
+      "summary": "From planning at KNUST in Kumasi to leadership of an international scientific organisation, Dr Kofi Akamani built an academic career focused on natural-resource management, conservation…",
       "categories": [
-        "Politics",
-        "Regional",
-        "Asunafo North",
-        "Ghana Education Service",
-        "Mim Market"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-08.32.45-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pres Mahama sets new direction for global philanthropy",
-      "link": "https://ghanaiantimes.com.gh/pres-mahama-sets-new-direction-for-global-philanthropy/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T08:39:37.000Z",
-      "summary": "President John Dramani Mahama has called for a coordinated approach to Ghana’s engagement with global philanthropic and development partners, with the Millennium Development Authority…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "PURC keeps electricity and water tariffs unchanged for fourth quarter of 2026",
-      "link": "https://www.myjoyonline.com/purc-keeps-electricity-and-water-tariffs-unchanged-for-fourth-quarter-of-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T08:33:33.000Z",
-      "summary": "The Public Utilities Regulatory Commission (PURC) has announced that electricity and water tariffs will remain unchanged for the fourth quarter of 2026. The Commission said the existing…",
-      "categories": [
-        "Economy",
+        "Africa",
+        "Agribusiness",
+        "Diaspora",
+        "Education",
         "Energy",
+        "News",
+        "Dr Akamani"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/akamni-750x375-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sosu challenges EOCO’s basis for attempted arrest of Manhyia South MP",
+      "link": "https://www.myjoyonline.com/sosu-challenges-eocos-basis-for-attempted-arrest-of-manhyia-south-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T13:33:42.000Z",
+      "summary": "Madina MP Francis-Xavier Sosu has challenged the Economic and Organised Crime Office’s (EOCO) justification for its attempted arrest of Manhyia South MP Nana Agyei Baffour Awuah.",
+      "categories": [
         "National",
-        "Electricity",
-        "fourth quarter",
-        "PURC",
-        "Water tariffs"
+        "Francis Sosu"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Water-and-ECG-762x424-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3251.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "WHO raises alarm over shisha, vapes… says rising use threatens tobacco gains",
-      "link": "https://ghanaiantimes.com.gh/who-raises-alarm-over-shisha-vapes-says-rising-use-threatens-tobacco-gains/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T08:26:39.000Z",
-      "summary": "The World Health Organisation (WHO) has warned that the growing popularity of shisha, vapes and other emerging nicotine products in Ghana could undermine the country’s gains in tobacco…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Shisha-smoke-1.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ejisu Police release parents, arrest caretaker over missing five-month-old baby from Asafo Market",
-      "link": "https://www.myjoyonline.com/ejisu-police-release-parents-arrest-caretaker-over-missing-five-month-old-baby-from-asafo-market/",
+      "title": "KMA plans to convert Adum railway enclave into cargo truck terminal",
+      "link": "https://www.myjoyonline.com/kma-plans-to-convert-adum-railway-enclave-into-cargo-truck-terminal/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T08:20:19.000Z",
-      "summary": "The Ejisu Divisional Police Command has released the parents and an uncle of the five-month-old baby allegedly stolen at the Asafo Market in Kumasi, after they were earlier arrested for…",
+      "published": "2026-09-24T13:31:58.000Z",
+      "summary": "The Chief Executive Officer of the Kumasi Metropolitan Assembly, Richard Ofori Agyemang Boadi, has disclosed that plans are underway to convert the Adum railway enclave into a terminal for…",
       "categories": [
-        "Regional",
-        "Missing Baby Saga",
-        "Parents",
-        "Police"
+        "National",
+        "KMA",
+        "Krofrom Market",
+        "Kumasi Adum"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3173-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3260-1024x768.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Early intervention key to saving distressed enterprises – Auditor-General",
-      "link": "https://ghanaiantimes.com.gh/early-intervention-key-to-saving-distressed-enterprises-auditor-general/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T08:18:02.000Z",
-      "summary": "The Auditor-General, Dr Pamela Graham, has urged State-Owned Enterprises (SOEs) and other public entities to seek professional restructuring support at the early stages of financial or…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "AfCFTA needs efficient payment systems, borders and infrastructure to boost intra-African trade – Wamkele Mene",
-      "link": "https://www.myjoyonline.com/afcfta-needs-efficient-payment-systems-borders-and-infrastructure-to-boost-intra-african-trade-wamkele-mene/",
+      "title": "2026/27 cocoa season: COCOBOD engages international trading partners in London",
+      "link": "https://www.myjoyonline.com/2026-27-cocoa-season-cocobod-engages-international-trading-partners-in-london/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T08:12:54.000Z",
-      "summary": "Africa must strengthen its capacity to deliver the payment systems, efficient borders and infrastructure that businesses need to benefit from the African Continental Free Trade Area…",
+      "published": "2026-09-24T13:14:45.000Z",
+      "summary": "The Chief Executive of COCOBOD, Dr. Ransford Abbey, and his Deputy in charge of Finance & Administration, Mr. Ato Boateng, held a strategic engagement with leading international cocoa…",
       "categories": [
+        "Agribusiness",
+        "Banking and Finance",
         "Business",
-        "HP News 8",
-        "National",
-        "AfCFCTA",
-        "PMI",
-        "Wamkele Mene"
+        "HP Business 2",
+        "COCOBOD",
+        "Dr. Ransford Abbey",
+        "London"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-7.41.07-AM-1024x682.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-5.04.02-AM-1-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kow Essuman confident NPP will reclaim Ablekuma West ‘with a huge margin’",
-      "link": "https://www.myjoyonline.com/kow-essuman-confident-npp-will-reclaim-ablekuma-west-with-a-huge-margin/",
+      "title": "Fire contained at Dansoman’s Dayspring School, no casualties reported",
+      "link": "https://www.myjoyonline.com/fire-contained-at-dansomans-dayspring-school-no-casualties-reported/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T08:09:39.000Z",
-      "summary": "Former legal counsel to former President Nana Akufo-Addo, Kow Essuman, says he is confident the New Patriotic Party (NPP) will reclaim the Ablekuma West parliamentary seat in the 2028…",
+      "published": "2026-09-24T13:10:40.000Z",
+      "summary": "A fire has broken out at Dayspring School in Dansoman, affecting portions of the school building. According to officials, the fire is currently under control, and all pupils have been…",
       "categories": [
-        "National",
-        "Ablekuma West",
-        "Kow Essuman",
-        "NPP"
+        "HP News 3",
+        "Regional",
+        "Casualties",
+        "Dansoman",
+        "Dayspring school"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Kow-Essuman-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-at-13.09.43.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Today’s front pages: Thursday, September 24, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-september-24-2026/",
+      "title": "Nyankyerenease gets furnished CHPS compound to improve healthcare access",
+      "link": "https://www.myjoyonline.com/nyankyerenease-gets-furnished-chps-compound-to-improve-healthcare-access/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T08:05:04.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "published": "2026-09-24T13:00:50.000Z",
+      "summary": "The Kwadaso Municipal Assembly in the Ashanti Region has commissioned and handed over a fully furnished Community-based Health Planning and Services (CHPS) compound at Nyankyerenease to…",
+      "categories": [
+        "Health",
+        "Regional",
+        "CHPS compound",
+        "Healthcare",
+        "Kwadaso Assembly"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3254-1024x572.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sky Train trial moves to defence as Asamoah, Ameyaw-Akumfi file witness statements",
+      "link": "https://www.myjoyonline.com/sky-train-trial-moves-to-defence-as-asamoah-ameyaw-akumfi-file-witness-statements/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T12:58:35.000Z",
+      "summary": "The two accused persons in the ongoing Sky Train trial, former Ghana Infrastructure Investment Fund (GIIF) Chief Executive Officer Solomon Asamoah and former GIIF Board Chairman Prof…",
       "categories": [
         "HP News 2",
         "National",
-        "Newspaper Front pages"
+        "News",
+        "Sky train trial",
+        "witness statements"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3142.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Skytrain_accused.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "EU launches ‘EU for a Secure Ghana’ project to tackle terrorism, organised crime and arms trafficking",
-      "link": "https://www.myjoyonline.com/eu-launches-eu-for-a-secure-ghana-project-to-tackle-terrorism-organised-crime-and-arms-trafficking/",
+      "title": "AFCON 2027Q: Ghana will face Ivory Coast, Gambia unscathed – Sports Minister",
+      "link": "https://www.myjoyonline.com/afcon-2027q-ghana-will-face-ivory-coast-gambia-unscathed-sports-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T08:05:00.000Z",
-      "summary": "Deputy Interior Minister Ebenezer Okletey Terlabi has launched the “EU for a Secure Ghana” project to strengthen the country’s response to violent extremism, terrorism, organised crime and…",
-      "categories": [
-        "National",
-        "EU",
-        "Firearms",
-        "Interior Minister",
-        "Security"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/821523215_2272755956897240_624741685864712262_n-1024x460.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra Turf Club appeals to President over race course demolition",
-      "link": "https://ghanaiantimes.com.gh/accra-turf-club-appeals-to-president-over-race-course-demolition/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T07:56:02.000Z",
-      "summary": "The Accra Turf Club has appealed to President John Dramani Mahama to intervene in the demolition of the Accra Race Course at Borteyman and help secure the club’s land. The appeal was made…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GPL 2026/27: Dreams denied first win as Medeama snatch dramatic late draw",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-dreams-denied-first-win-as-medeama-snatch-dramatic-late-draw/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T07:55:51.000Z",
-      "summary": "Dreams FC were denied their first Premier League victory of the season after Medeama SC fought back to secure a dramatic 2-2 draw in an outstanding Matchday One fixture at the Tuba Astro…",
+      "published": "2026-09-24T12:56:15.000Z",
+      "summary": "The Black Stars will be tested in their Group C opener against Côte d'Ivoire at the Stade de la Paix in Bouake on 24 September before facing The Gambia five days later at the Accra Sports…",
       "categories": [
         "Football",
-        "HP Sports 5",
+        "HP Sports 2",
+        "National",
         "Sports",
-        "Dreams Fc",
-        "Ghana Premier League",
-        "Medeama SC",
-        "Rahman Osman"
+        "AFCON 2027Q qualifiers",
+        "Black Stars",
+        "Côte d’Ivoire",
+        "Ghana",
+        "Papa Kwadwo Adu Gyina-Tawiah",
+        "The Gambia"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MDDREAMS-1024x597.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/kofi-adams-black-stars.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Entrepreneurs urged to build sustainable businesses",
-      "link": "https://ghanaiantimes.com.gh/entrepreneurs-urged-to-build-sustainable-businesses/",
+      "title": "Court rules that removal of Prof Samuel Erasmus Alnaa as Vice Chancellor of Bolgatanga Technical University was 'illegal'",
+      "link": "https://www.graphic.com.gh/news/general-news/court-rules-that-removal-prof-samuel-erasmus-alnaa-as-vice-chancellor-of-bolgatanga-technical-university-was-illegal.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-24T12:45:02.000Z",
+      "summary": "The High Court has ruled that the decision by the Governing Council of the Bolgatanga Technical University to remove Prof Samuel Erasmus Alnaa as Vice Chancellor of the university was…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/dec/18/alnaa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AFCON 2027 Qualifiers: Pressure mounting on Nigeria, Ghana hit by absences as Vieira faces first test",
+      "link": "https://www.graphic.com.gh/sports/sports-news/afcon-2027-qualifiers-pressure-mounting-on-nigeria-ghana-hit-by-absences-as-vieira-faces-first-test.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-24T12:31:38.000Z",
+      "summary": "For Africa's national teams, the first international break of the 2026-27 season represents far more than merely the opening qualifying exchanges for next year's Africa Cup of Nations…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/CARLOS_Q.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "GCB Bank employees equip Osei Tutu SHS library",
+      "link": "https://ghanaiantimes.com.gh/gcb-bank-employees-equip-osei-tutu-shs-library/",
       "source": "Ghanaian Times",
-      "published": "2026-09-24T07:50:56.000Z",
-      "summary": "Ghanaian entrepreneurs have been urged to look beyond simply registering businesses and focus on building sustainable enterprises anchored on hard work, dedication, commitment and…",
+      "published": "2026-09-24T11:40:11.000Z",
+      "summary": "Employees of GCB Bank PLC have enhanced the library of Osei Tutu Senior High School in Akropong in the Ashanti Region by donating books and desktop computers to improve students’ access to…",
       "categories": [
         "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NPP calls for probe into cocaine seizures",
-      "link": "https://ghanaiantimes.com.gh/npp-calls-for-probe-into-cocaine-seizures/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T07:46:11.000Z",
-      "summary": "The opposition New Patriotic Party (NPP) has called for urgent action to halt what it described as a growing drug trafficking menace, warning that the development poses a national security…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Asiedu Nketia tops NDC flagbearer attribute survey",
-      "link": "https://ghanaiantimes.com.gh/asiedu-nketia-tops-ndc-flagbearer-attribute-survey/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T07:43:04.000Z",
-      "summary": "National Chairman of the National Democratic Congress (NDC), Mr Johnson Asiedu Nketia, has emerged as the leading potential contender in a new survey assessing the attributes delegates…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Afenyo-Markin hands over Ghana’s ECOWAS Parliament leadership to Ricketts-Hagan",
-      "link": "https://www.graphic.com.gh/news/politics/afenyo-markin-hands-over-ghanas-ecowas-parliament-leadership-to-ricketts-hagan.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T22:14:32.000Z",
-      "summary": "The Third Deputy Speaker of the Economic Community of West African States (ECOWAS) Parliament, Alexander Afenyo-Markin, has handed over leadership of Ghana’s delegation to the regional…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/afenyo.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama says he will unite Africa, Caribbean and Latin America into world's biggest trading bloc",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-unite-africa-caribbean-and-latin-america-into-worlds-biggest-trading-bloc.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T22:09:55.000Z",
-      "summary": "President John Dramani Mahama said he will use his upcoming tenure as Chair of the African Union (AU) to bring together the Community of Latin American and Caribbean States (CELAC), the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/pres1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Manhyia South MP Baffour Awuah questions EOCO's explanation for his attempted arrest",
-      "link": "https://www.graphic.com.gh/news/general-news/manhyia-south-mp-baffour-awuah-alleges-attempted-abduction-outside-high-court.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T17:09:25.000Z",
-      "summary": "The Member of Parliament (MP) for Manhyia South, Nana Agyei Baffour Awuah, who is serving as counsel for an accused person in the \"Ghana Jollof\" case pending before the courts, has been…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/baffour_awuah.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Jollof case: High Court adjourns Salomey Bafoh’s bail application",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-jollof-case-high-court-adjourns-salomey-bafohs-bail-application.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T17:06:10.000Z",
-      "summary": "The High Court in Accra has adjourned the bail application of Salomey Awity Bafoh, the Techiman-based senior nursing officer facing a charge of abetment of crime in connection with the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/awity_s.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "EOCO confirms attempted arrest of Manhyia South MP Baffour Awuah at court premises and says he ignored two invitations for interrogation in February 2026",
-      "link": "https://www.graphic.com.gh/news/general-news/eoco-confirms-attempted-arrest-of-baffour-awuah.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T15:03:11.000Z",
-      "summary": "The Economic and Organised Crime Office (EOCO) has confirmed that its officers attempted to arrest the Manhyia South Member of Parliament (MP), Nana Agyei Baffour Awuah at the High Court…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/eoco3.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Accra Turf Club members stage another peace protest over Borteyman race course takeover",
-      "link": "https://www.graphic.com.gh/news/general-news/accra-turf-club-members-stage-another-peace-protest-over-borteyman-race-course-takeover.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T14:25:47.000Z",
-      "summary": "Members of the Accra Turf Club have stepped up their call for the Accra Race Course land to be restored following a recent demolition exercise that destroyed horse stables by a developer…",
-      "categories": [
-        "General News"
       ],
       "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "'One of the great unsolved mysteries of science': What general anaesthetic reveals about our brains",
+      "link": "https://www.graphic.com.gh/news/health/one-of-the-great-unsolved-mysteries-of-science-what-general-anaesthetic-reveals-about-our-brains.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-24T11:21:12.000Z",
+      "summary": "How general anaesthetics work is still not fully understood, but they are revealing clues about the nature of consciousness. In 1797, the British naval commander Admiral Horatio Nelson had…",
+      "categories": [
+        "Health"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/anaesthetics.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Bagbin calls for direct election of ECOWAS Parliament members",
-      "link": "https://www.graphic.com.gh/news/politics/bagbin-calls-for-direct-election-of-ecowas-parliament-members.html",
+      "title": "Spotlight on new coaches as road to Afcon 2027 begins",
+      "link": "https://www.graphic.com.gh/sports/sports-news/spotlight-on-new-coaches-as-road-to-afcon-2027-begins.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-24T10:52:43.000Z",
+      "summary": "Just eight months on from the final of the 2025 Africa Cup of Nations (Afcon) - and with the world still waiting to find out the ultimate destination of the title - the road to the 2027…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/coaches.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Speaker Bagbin summons Parliament for extraordinary sitting on September 29",
+      "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-summons-parliament-for-extraordinary-sitting-on-september-29.html",
       "source": "Daily Graphic",
-      "published": "2026-09-23T12:54:26.000Z",
-      "summary": "The Speaker of Ghana’s Parliament, Alban Sumana Kingsford Bagbin, has called for the progressive introduction of direct elections for members of ECOWAS Parliament to deepen democratic…",
+      "published": "2026-09-24T10:34:31.000Z",
+      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has summoned Parliament to sit on Tuesday, September 29, 2026, amid growing calls for parliamentary scrutiny of recent major…",
       "categories": [
         "Politics"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/asiamah.jpg",
+      "image": "https://www.graphic.com.gh/images/2025/may/11/mace.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Media must connect African citizens across borders - Kufuor",
-      "link": "https://www.graphic.com.gh/news/general-news/kufuor-calls-for-african-media-to-connect-citizens-across-borders.html",
+      "title": "UMB Speed Stars thrash Black Stars legends in thrilling exxhibition match",
+      "link": "https://www.graphic.com.gh/sports/sports-news/umb-speed-stars-thrash-black-stars-legends-in-thrilling-exxhibition-match.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-24T10:30:39.000Z",
+      "summary": "The PFAG Black Stars Legends were thrashed 6-2 by the Universal Merchant Bank (UMB) Speed Stars in an entertaining exhibition match at the Adjiringanor Astro Turf on Saturday, September 19…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/UMB.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "No change in utility tariffs for the rest of 2026",
+      "link": "https://www.graphic.com.gh/news/general-news/no-change-in-utility-tariffs-for-the-rest-of-2026.html",
       "source": "Daily Graphic",
-      "published": "2026-09-23T12:11:27.000Z",
-      "summary": "Former President John Agyekum Kufuor has asked the media to connect Africans beyond borders, saying media organisations have to become an “electronic classroom” to connect young people…",
+      "published": "2026-09-24T10:20:30.000Z",
+      "summary": "The Public Utilities Regulatory Commission (PURC) has maintained electricity and water tariffs at 0 per cent adjustment for the fourth quarter of 2026, with the existing third-quarter rates…",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/kufuor_iea_meeting.jpg",
+      "image": "https://www.graphic.com.gh/images/2020/jan/11/4262022100330-uypctgfsrm-powerandwatertariffs.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Klottey’s anti-galamsey walk reaches Northern Region",
+      "link": "https://www.graphic.com.gh/sports/sports-news/klotteys-anti-galamsey-walk-reaches-northern-region.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-24T09:46:27.000Z",
+      "summary": "Ghanaian international marathon walker, King Klottey, has arrived in the Northern Region as he continues his two-week walk from Burkina Faso to Accra to raise awareness about the dangers of…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/KLOTTEY.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "ORC intensifies risk awareness to strengthen resilience",
+      "link": "https://ghanaiantimes.com.gh/orc-intensifies-risk-awareness-to-strengthen-resilience/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T09:31:59.000Z",
+      "summary": "The Office of the Registrar of Companies (ORC) has intensified efforts to strengthen risk management across its directorates and zonal offices, urging staff to take ownership of risks and…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON 2027 qualifier in Bouake: Black Stars face Cote d’Ivoire’s Elephants…without 7 key players",
+      "link": "https://ghanaiantimes.com.gh/afcon-2027-qualifier-in-bouake-black-stars-face-cote-divoires-elephantswithout-7-key-players/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T09:29:20.000Z",
+      "summary": "The Black Stars of Ghana will begin their 2027 Africa Cup of Nations (AFCON) journey today with a tough test in Bouaké, where they face The Elephants of La Côte d’Ivoire without several key…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Jerry-Afriyie.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GOC holds clinic to create awareness on Ghana’s participation in 2026 Youth Olympics",
+      "link": "https://ghanaiantimes.com.gh/goc-holds-clinic-to-create-awareness-on-ghanas-participation-in-2026-youth-olympics/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T09:26:01.000Z",
+      "summary": "The Ghana Olympic Committee (GOC) on Tuesday held a day’s clinic on the Olympic Values Education Programme (OVEP) for selected school children at the University of Ghana Stadium, Legon. The…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana can compete despite setbacks -Queiroz",
+      "link": "https://ghanaiantimes.com.gh/ghana-can-compete-despite-setbacks-queiroz/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T09:24:13.000Z",
+      "summary": "Ghana coach Carlos Queiroz said his side will remain focused despite injury and availability concerns ahead of their 2027 Africa Cup of Nations (AFCON) qualifiers. The four-time African…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Wolfsburg terminate Eriksen’s contract",
+      "link": "https://ghanaiantimes.com.gh/wolfsburg-terminate-eriksens-contract/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T09:22:10.000Z",
+      "summary": "German side VfL Wolfsburg and midfielder Christian Eriksen have agreed to terminate the Danish international’s contract by mutual consent, the second-tier Bundesliga club said yesterday…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "England players carrying World Cup scar – Saka",
+      "link": "https://ghanaiantimes.com.gh/england-players-carrying-world-cup-scar-saka/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T09:21:11.000Z",
+      "summary": "England winger Bukayo Saka says the team are still carrying the “scar” of their heartbreaking World Cup semi-final exit to Argentina. Thomas Tuchel’s team were on the verge of becoming the…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON qualifiers to kick-off as decision on last winners awaited",
+      "link": "https://ghanaiantimes.com.gh/afcon-qualifiers-to-kick-off-as-decision-on-last-winners-awaited/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T09:19:55.000Z",
+      "summary": "A new cycle of Africa Cup of Nations competition gets under way in earnest today as group qualifiers for the 2027 finals kick off, with the winners of the last edition still in dispute. A…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Patrick-Vieira-Senegal-coach.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Let’s commercialise research, tackle emerging e-waste — Zanetor",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-lets-commercialise-research-tackle-emerging-e-waste-zanetor.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-24T07:59:42.000Z",
+      "summary": "The Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has stressed the need for stronger collaboration between the government, scientific institutions and…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/Bosu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Create market access, economic opportunities for young women - UNFPA",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-create-market-access-economic-opportunities-for-young-women-unfpa.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-24T07:46:49.000Z",
+      "summary": "The United Nations Population Fund (UNFPA) Country Representative, Dr Wilfred Ochan, has called for a shift in how programmes for vulnerable young women are designed, stressing that skills…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/Wilfred.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ablekuma North Assembly equips marriage counsellors",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ablekuma-north-assembly-equips-marriage-counsellors.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-24T07:44:02.000Z",
+      "summary": "The Ablekuma North Municipal Assembly has partnered AAK Marriage Foundation to train marriage counsellors on contemporary approaches to counselling to help promote stable and healthy…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/Krampah.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Teachers urged to turn play-based learning into classroom practice",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-teachers-urged-to-turn-play-based-learning-into-classroom-practice.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-24T07:41:40.000Z",
+      "summary": "Improving the quality of teaching and learning requires teachers to continually strengthen their professional knowledge and adopt approaches that make classroom learning more engaging and…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/Kwabena.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -394,54 +443,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/22/OSIMHEN.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Why Diego Maradona and Pele never won the Ballon d’Or",
-      "link": "https://www.graphic.com.gh/sports/sports-news/why-diego-maradona-and-pele-never-won-the-ballon-dor.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-22T13:39:54.000Z",
-      "summary": "From the award's creation in 1956 through to 1994, the Ballon d'Or was not a global prize. It was the European Footballer of the Year, and France Football restricted eligibility strictly to…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/PELE.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Allotey eyes world title after statement win",
-      "link": "https://www.graphic.com.gh/sports/sports-news/allotey-eyes-world-title-after-statement-win.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-22T13:33:59.000Z",
-      "summary": "Theophilus Kpakpo “Theo Lopez” Allotey has forced himself into the WBA super flyweight world-title conversation with a dominant final-eliminator victory over Argentina’s Facundo David…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/ALLOTEY22.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Global honour for Quartey as WBA celebrates Ghana legend",
-      "link": "https://www.graphic.com.gh/sports/sports-news/global-honour-for-quartey-as-wba-celebrates-ghana-legend.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-22T13:24:04.000Z",
-      "summary": "Nearly three decades after Ike “Bazooka” Quartey ruled the WBA welterweight division, the World Boxing Association has formally celebrated one of Ghana’s most accomplished fighters…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/IKE_QUARTEY.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Coach Sarpong questions continued Black Stars snub of local players",
-      "link": "https://www.graphic.com.gh/sports/sports-news/coach-sarpong-questions-continued-black-stars-snub-of-local-players.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-22T13:12:31.000Z",
-      "summary": "Veteran coach Joseph Emmanuel Sarpong has expressed disappointment over the continued omission of locally based players from the Black Stars squad, despite persistent calls for the…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/22/COACH_SARPONG.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
