@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-24T03:48:24.759Z",
+  "updated": "2026-09-24T08:47:55.881Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,171 +25,231 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Cocobod pitches $1.4 billion domestic financing plan",
-      "link": "https://www.myjoyonline.com/cocobod-pitches-1-4-billion-domestic-financing-plan/",
+      "title": "Money, disinformation threaten Africa’s democratic gains – NPC",
+      "link": "https://ghanaiantimes.com.gh/money-disinformation-threaten-africas-democratic-gains-npc/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T08:45:02.000Z",
+      "summary": "The Chairman of the National Peace Council (NPC), Bishop Emanuel Kofi Fianu, has warned that the growing commercialisation of politics, misuse of technology and restrictions on civic…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dr Kwabena Bempah Tandoh engages Mim market traders as Parliamentary campaign gathers momentum",
+      "link": "https://www.myjoyonline.com/dr-kwabena-bempah-tandoh-engages-mim-market-traders-as-parliamentary-campaign-gathers-momentum/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T03:06:00.000Z",
-      "summary": "Ghana Cocoa Board (COCOBOD) is seeking to raise GH¢16.3 billion ($1.4 billion) from domestic investors to fund cocoa purchases for the upcoming season, according to a government…",
+      "published": "2026-09-24T08:40:53.000Z",
+      "summary": "Former Deputy Director-General of the Ghana Education Service (GES), Dr Kwabena Bempah Tandoh, has intensified his grassroots engagement in the Asunafo North Constituency with a visit to…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Asunafo North",
+        "Ghana Education Service",
+        "Mim Market"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-08.32.45-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pres Mahama sets new direction for global philanthropy",
+      "link": "https://ghanaiantimes.com.gh/pres-mahama-sets-new-direction-for-global-philanthropy/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T08:39:37.000Z",
+      "summary": "President John Dramani Mahama has called for a coordinated approach to Ghana’s engagement with global philanthropic and development partners, with the Millennium Development Authority…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "PURC keeps electricity and water tariffs unchanged for fourth quarter of 2026",
+      "link": "https://www.myjoyonline.com/purc-keeps-electricity-and-water-tariffs-unchanged-for-fourth-quarter-of-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T08:33:33.000Z",
+      "summary": "The Public Utilities Regulatory Commission (PURC) has announced that electricity and water tariffs will remain unchanged for the fourth quarter of 2026. The Commission said the existing…",
       "categories": [
         "Economy",
+        "Energy",
         "National",
-        "COCOBOD"
+        "Electricity",
+        "fourth quarter",
+        "PURC",
+        "Water tariffs"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-344-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Water-and-ECG-762x424-1.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Eriksen leaves Wolfsburg by mutual consent",
-      "link": "https://www.myjoyonline.com/eriksen-leaves-wolfsburg-by-mutual-consent-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T02:55:00.000Z",
-      "summary": "Christian Eriksen has left Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
-      "categories": [
-        "Football",
-        "Christian Eriksen"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-1184.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump offers warm welcome as China’s Xi arrives for US visit",
-      "link": "https://www.myjoyonline.com/trump-offers-warm-welcome-as-chinas-xi-arrives-for-us-visit/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T02:44:00.000Z",
-      "summary": "US President Donald Trump has greeted his Chinese counterpart Xi Jinping with a military flyover and 100ft (30m) red carpet to kick off their three-day summit in Washington.",
-      "categories": [
-        "International",
-        "Donald Trump",
-        "Xi Jinping"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3140.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bentley unveils its first fully electric car",
-      "link": "https://www.myjoyonline.com/bentley-unveils-its-first-fully-electric-car/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T02:33:00.000Z",
-      "summary": "Bentley has unveiled its first fully electric car after investing £350m to upgrade its factory in Cheshire.",
-      "categories": [
-        "Cars",
-        "International",
-        "Bentley"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3137-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "OpenAI agent ‘infiltrated’ Australian government website, PM says",
-      "link": "https://www.myjoyonline.com/openai-agent-infiltrated-australian-government-website-pm-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T02:23:00.000Z",
-      "summary": "An artificial intelligence agent developed by OpenAI \"infiltrated\" an Australian government website in June, Prime Minister Anthony Albanese has said.",
-      "categories": [
-        "Technology",
-        "Australia",
-        "OpenAI"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3136-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US pledges $267m more to fight Ebola in central Africa",
-      "link": "https://www.myjoyonline.com/us-pledges-267m-more-to-fight-ebola-in-central-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T02:14:00.000Z",
-      "summary": "The US State Department on Wednesday pledged an additional $267 million to fight the Ebola outbreak in central Africa, as health authorities battle to get the deadly virus under control.",
-      "categories": [
-        "Africa",
-        "DR Congo",
-        "Ebola"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2786-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war",
-      "link": "https://www.myjoyonline.com/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T02:04:00.000Z",
-      "summary": "Oil prices edged lower on Thursday, after climbing 4% in the previous ‌session, as Iran said it remained open to diplomacy to end the US-Iran war, though the two countries remain far apart…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "Strait of Hormuz",
-        "US-Iran war"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-1753-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rule of Men is replacing Rule of Law – Abu Jinapor",
-      "link": "https://www.myjoyonline.com/rule-of-men-is-replacing-rule-of-law-abu-jinapor/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T02:02:01.000Z",
-      "summary": "The Member of Parliament for Damongo and Ranking Member of Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has bemoaned what he described as a blatant disregard for the rule of…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Politics",
-        "Nana Agyei Baffour Awuah",
-        "Rule of Law",
-        "Rule of men",
-        "Samuel Abu Jinapor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-4.28.11-am-1024x629.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EOCO breaks silence on attempted arrest of Manhyia South MP: “He declined two invitations”",
-      "link": "https://ghanaiantimes.com.gh/eoco-breaks-silence-on-attempted-arrest-of-manhyia-south-mp-he-declined-two-invitations/",
+      "title": "WHO raises alarm over shisha, vapes… says rising use threatens tobacco gains",
+      "link": "https://ghanaiantimes.com.gh/who-raises-alarm-over-shisha-vapes-says-rising-use-threatens-tobacco-gains/",
       "source": "Ghanaian Times",
-      "published": "2026-09-23T22:53:53.000Z",
-      "summary": "The Economic and Organised Crime Office (EOCO) has responded to the viral video showing its officers attempting to arrest the Member of Parliament for Manhyia South, Hon. Nana Agyei Baffour…",
+      "published": "2026-09-24T08:26:39.000Z",
+      "summary": "The World Health Organisation (WHO) has warned that the growing popularity of shisha, vapes and other emerging nicotine products in Ghana could undermine the country’s gains in tobacco…",
       "categories": [
         "Hot!",
         "News"
       ],
-      "image": null,
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Shisha-smoke-1.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "“I feared I was being kidnapped” – Agyei Baffuor explains why he refused EOCO arrest",
-      "link": "https://ghanaiantimes.com.gh/i-feared-i-was-being-kidnapped-agyei-baffuor-explains-why-he-refused-eoco-arrest/",
+      "title": "Ejisu Police release parents, arrest caretaker over missing five-month-old baby from Asafo Market",
+      "link": "https://www.myjoyonline.com/ejisu-police-release-parents-arrest-caretaker-over-missing-five-month-old-baby-from-asafo-market/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T08:20:19.000Z",
+      "summary": "The Ejisu Divisional Police Command has released the parents and an uncle of the five-month-old baby allegedly stolen at the Asafo Market in Kumasi, after they were earlier arrested for…",
+      "categories": [
+        "Regional",
+        "Missing Baby Saga",
+        "Parents",
+        "Police"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3173-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Early intervention key to saving distressed enterprises – Auditor-General",
+      "link": "https://ghanaiantimes.com.gh/early-intervention-key-to-saving-distressed-enterprises-auditor-general/",
       "source": "Ghanaian Times",
-      "published": "2026-09-23T22:50:41.000Z",
-      "summary": "Private legal practitioner, Lawyer Agyei Baffuor, has broken his silence on his confrontation with a woman who identified herself as an official of the Economic and Organised Crime Office…",
+      "published": "2026-09-24T08:18:02.000Z",
+      "summary": "The Auditor-General, Dr Pamela Graham, has urged State-Owned Enterprises (SOEs) and other public entities to seek professional restructuring support at the early stages of financial or…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AfCFTA needs efficient payment systems, borders and infrastructure to boost intra-African trade – Wamkele Mene",
+      "link": "https://www.myjoyonline.com/afcfta-needs-efficient-payment-systems-borders-and-infrastructure-to-boost-intra-african-trade-wamkele-mene/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T08:12:54.000Z",
+      "summary": "Africa must strengthen its capacity to deliver the payment systems, efficient borders and infrastructure that businesses need to benefit from the African Continental Free Trade Area…",
       "categories": [
         "Business",
-        "Hot!"
+        "HP News 8",
+        "National",
+        "AfCFCTA",
+        "PMI",
+        "Wamkele Mene"
       ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-7.41.07-AM-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Alhaji Faisal Abdullah Masud installed as Tema’s first Sariki Zongo I",
-      "link": "https://ghanaiantimes.com.gh/alhaji-faisal-abdullah-masud-installed-as-temas-first-sariki-zongo-i/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T22:45:22.000Z",
-      "summary": "The Zongo community in Tema has entered a new chapter following the historic installation of Alhaji Faisal Abdullah Masud as Sariki Zongo I of Tema, making him the first person to…",
+      "title": "Kow Essuman confident NPP will reclaim Ablekuma West ‘with a huge margin’",
+      "link": "https://www.myjoyonline.com/kow-essuman-confident-npp-will-reclaim-ablekuma-west-with-a-huge-margin/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T08:09:39.000Z",
+      "summary": "Former legal counsel to former President Nana Akufo-Addo, Kow Essuman, says he is confident the New Patriotic Party (NPP) will reclaim the Ablekuma West parliamentary seat in the 2028…",
       "categories": [
-        "Hot!",
+        "National",
+        "Ablekuma West",
+        "Kow Essuman",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Kow-Essuman-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Today’s front pages: Thursday, September 24, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-september-24-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T08:05:04.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3142.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EU launches ‘EU for a Secure Ghana’ project to tackle terrorism, organised crime and arms trafficking",
+      "link": "https://www.myjoyonline.com/eu-launches-eu-for-a-secure-ghana-project-to-tackle-terrorism-organised-crime-and-arms-trafficking/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T08:05:00.000Z",
+      "summary": "Deputy Interior Minister Ebenezer Okletey Terlabi has launched the “EU for a Secure Ghana” project to strengthen the country’s response to violent extremism, terrorism, organised crime and…",
+      "categories": [
+        "National",
+        "EU",
+        "Firearms",
+        "Interior Minister",
+        "Security"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/821523215_2272755956897240_624741685864712262_n-1024x460.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accra Turf Club appeals to President over race course demolition",
+      "link": "https://ghanaiantimes.com.gh/accra-turf-club-appeals-to-president-over-race-course-demolition/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T07:56:02.000Z",
+      "summary": "The Accra Turf Club has appealed to President John Dramani Mahama to intervene in the demolition of the Accra Race Course at Borteyman and help secure the club’s land. The appeal was made…",
+      "categories": [
         "News"
       ],
-      "image": null,
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Black Stars touch down in Bouaké ahead of crunch AFCON qualifier against Côte d’Ivoire",
-      "link": "https://ghanaiantimes.com.gh/black-stars-touch-down-in-bouake-ahead-of-crunch-afcon-qualifier-against-cote-divoire/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T22:37:09.000Z",
-      "summary": "The Black Stars of Ghana have arrived in Côte d’Ivoire ahead of their highly anticipated Africa Cup of Nations (AFCON) qualifier clash against the Elephants of Côte d’Ivoire. The team…",
+      "title": "GPL 2026/27: Dreams denied first win as Medeama snatch dramatic late draw",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-dreams-denied-first-win-as-medeama-snatch-dramatic-late-draw/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T07:55:51.000Z",
+      "summary": "Dreams FC were denied their first Premier League victory of the season after Medeama SC fought back to secure a dramatic 2-2 draw in an outstanding Matchday One fixture at the Tuba Astro…",
       "categories": [
-        "Hot!",
-        "Sports"
+        "Football",
+        "HP Sports 5",
+        "Sports",
+        "Dreams Fc",
+        "Ghana Premier League",
+        "Medeama SC",
+        "Rahman Osman"
       ],
-      "image": null,
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/MDDREAMS-1024x597.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Entrepreneurs urged to build sustainable businesses",
+      "link": "https://ghanaiantimes.com.gh/entrepreneurs-urged-to-build-sustainable-businesses/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T07:50:56.000Z",
+      "summary": "Ghanaian entrepreneurs have been urged to look beyond simply registering businesses and focus on building sustainable enterprises anchored on hard work, dedication, commitment and…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP calls for probe into cocaine seizures",
+      "link": "https://ghanaiantimes.com.gh/npp-calls-for-probe-into-cocaine-seizures/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T07:46:11.000Z",
+      "summary": "The opposition New Patriotic Party (NPP) has called for urgent action to halt what it described as a growing drug trafficking menace, warning that the development poses a national security…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Asiedu Nketia tops NDC flagbearer attribute survey",
+      "link": "https://ghanaiantimes.com.gh/asiedu-nketia-tops-ndc-flagbearer-attribute-survey/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-24T07:43:04.000Z",
+      "summary": "National Chairman of the National Democratic Congress (NDC), Mr Johnson Asiedu Nketia, has emerged as the leading potential contender in a new survey assessing the attributes delegates…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -215,19 +275,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/24/pres1.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GMA rejects claims that vessel monitoring system Is ineffective",
-      "link": "https://ghanaiantimes.com.gh/gma-rejects-claims-that-vessel-monitoring-system-is-ineffective/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T21:19:12.000Z",
-      "summary": "The Ghana Maritime Authority (GMA) has rejected claims by Dennis Miracles Aboagye that its vessel monitoring system is ineffective and that vessels operating in Ghana’s waters are not being…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Manhyia South MP Baffour Awuah questions EOCO's explanation for his attempted arrest",
@@ -300,42 +347,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/23/kufuor_iea_meeting.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Media must step up fight against financial crimes — GIABA",
-      "link": "https://ghanaiantimes.com.gh/media-must-step-up-fight-against-financial-crimes-giaba/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:26:13.000Z",
-      "summary": "The Inter-Governmental Action Group Against Money Laundering in West Africa (GIABA) has urged journalists across the ECOWAS sub-region to intensify investigations into money laundering…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "West Africa steps up fight against cross-border crime",
-      "link": "https://ghanaiantimes.com.gh/west-africa-steps-up-fight-against-cross-border-crime/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:24:31.000Z",
-      "summary": "West African countries must deepen cooperation and coordination to combat the growing threat of transnational organised crime and strengthen security across the sub-region, the Minister for…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Rafatu Inusah appointed C’wlth Youth Games Chef de Mission",
-      "link": "https://ghanaiantimes.com.gh/rafatu-inusah-appointed-cwlth-youth-games-chef-de-mission/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:20:15.000Z",
-      "summary": "The Ghana Olympic Committee (GOC) has appointed Ms. Rafatu Inusah, President of Ghana Rugby, as Chef de Mission (CDM) for Team Ghana at the upcoming Commonwealth Youth Games. The event is…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Semenyo ready to lead Man City's attack if called upon",
