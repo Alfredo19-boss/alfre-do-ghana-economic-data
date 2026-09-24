@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-23T21:42:40.138Z",
+  "updated": "2026-09-24T00:00:04.285Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,22 +25,198 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana’s public debt hit GH¢733.9 billion in July 2026",
-      "link": "https://www.myjoyonline.com/ghanas-public-debt-hit-gh%c2%a2733-9-billion-in-july-2026/",
+      "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+      "link": "https://www.myjoyonline.com/lidl-banned-from-selling-copycat-birkenstock-sandals-dutch-court-rules/",
       "source": "MyJoyOnline",
-      "published": "2026-09-23T21:35:57.000Z",
-      "summary": "According to the September 2026 Summary of Financial and Economic Data by the Bank of Ghana, the country’s public debt has been increasing since January 2026.",
+      "published": "2026-09-23T23:36:00.000Z",
+      "summary": "Lidl must stop selling copycat versions of Birkenstock's famous sandals in the Netherlands, a Dutch court has ruled.",
+      "categories": [
+        "International",
+        "Birkenstock",
+        "Lidl",
+        "sandals"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3133-1024x684.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I’ve never come across a woman that strong – Baffour Awuah recounts botched EOCO arrest",
+      "link": "https://www.myjoyonline.com/ive-never-come-across-a-woman-that-strong-baffour-awuah-recounts-botched-eoco-arrest/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T23:25:00.000Z",
+      "summary": "Manhyia South MP, Nana Agyei Baffour Awuah, has recounted a tense encounter with a woman he says attempted to take him to the Economic and Organised Crime Office (EOCO) after a court…",
+      "categories": [
+        "National",
+        "EOCo arrest",
+        "Nana Agyei Baffour Awuah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-10.17.12-AM-1024x613.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Netherlands to return to Eurovision after 2026 boycott",
+      "link": "https://www.myjoyonline.com/netherlands-to-return-to-eurovision-after-2026-boycott/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T23:06:00.000Z",
+      "summary": "The Netherlands will return to the Eurovision Song Contest next year despite a boycott by the broadcaster that was previously in charge of the country's participation.",
+      "categories": [
+        "International",
+        "Music",
+        "Eurovision",
+        "Netherlands"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3132-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Alan Kyerematen calls for more leaner government",
+      "link": "https://www.myjoyonline.com/alan-kyerematen-calls-for-more-leaner-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T22:56:00.000Z",
+      "summary": "Ghana must significantly reduce the size of government and redirect public resources towards productive economic activity, former Trade and Industry Minister Alan Kwadwo Kyerematen has…",
+      "categories": [
+        "National",
+        "News",
+        "Alan Kyerematen",
+        "Alan Kyerematen demands a more leaner government"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-19.36.30-1-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EOCO breaks silence on attempted arrest of Manhyia South MP: “He declined two invitations”",
+      "link": "https://ghanaiantimes.com.gh/eoco-breaks-silence-on-attempted-arrest-of-manhyia-south-mp-he-declined-two-invitations/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T22:53:53.000Z",
+      "summary": "The Economic and Organised Crime Office (EOCO) has responded to the viral video showing its officers attempting to arrest the Member of Parliament for Manhyia South, Hon. Nana Agyei Baffour…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "“I feared I was being kidnapped” – Agyei Baffuor explains why he refused EOCO arrest",
+      "link": "https://ghanaiantimes.com.gh/i-feared-i-was-being-kidnapped-agyei-baffuor-explains-why-he-refused-eoco-arrest/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T22:50:41.000Z",
+      "summary": "Private legal practitioner, Lawyer Agyei Baffuor, has broken his silence on his confrontation with a woman who identified herself as an official of the Economic and Organised Crime Office…",
       "categories": [
         "Business",
-        "Economy",
-        "domestic debt",
-        "external debt",
-        "fiscal balance",
-        "primary surplus",
-        "Public Debt"
+        "Hot!"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/istockphoto-1407965602-612x612-1.jpg",
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Alhaji Faisal Abdullah Masud installed as Tema’s first Sariki Zongo I",
+      "link": "https://ghanaiantimes.com.gh/alhaji-faisal-abdullah-masud-installed-as-temas-first-sariki-zongo-i/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T22:45:22.000Z",
+      "summary": "The Zongo community in Tema has entered a new chapter following the historic installation of Alhaji Faisal Abdullah Masud as Sariki Zongo I of Tema, making him the first person to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "I will go when EOCO is ready to do the right thing – Baffour Awuah on disputed invitation",
+      "link": "https://www.myjoyonline.com/i-will-go-when-eoco-is-ready-to-do-the-right-thing-baffour-awuah-on-disputed-invitation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T22:45:00.000Z",
+      "summary": "Manhyia South MP Nana Agyei Baffour Awuah has defended his decision to drive away from Economic and Organised Crime Office (EOCO) officials after an attempt to take him to the agency on…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "EOCO",
+        "Nana Agyei Baffour Awuah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2864-1024x527.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Stars touch down in Bouaké ahead of crunch AFCON qualifier against Côte d’Ivoire",
+      "link": "https://ghanaiantimes.com.gh/black-stars-touch-down-in-bouake-ahead-of-crunch-afcon-qualifier-against-cote-divoire/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-23T22:37:09.000Z",
+      "summary": "The Black Stars of Ghana have arrived in Côte d’Ivoire ahead of their highly anticipated Africa Cup of Nations (AFCON) qualifier clash against the Elephants of Côte d’Ivoire. The team…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Uproar in France over award-winning author accused of using AI",
+      "link": "https://www.myjoyonline.com/uproar-in-france-over-award-winning-author-accused-of-using-ai/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T22:24:00.000Z",
+      "summary": "The French book scene is in uproar after a Canadian-Haitian author billed as a sensation was accused of using artificial intelligence (AI) to write his first novel.",
+      "categories": [
+        "International",
+        "AI",
+        "France",
+        "Thélyson Orélien"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3131-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mauritius backs Moroccan sovereignty as most credible solution to regional dispute over Moroccan Sahara",
+      "link": "https://www.myjoyonline.com/mauritius-backs-moroccan-sovereignty-as-most-credible-solution-to-regional-dispute-over-moroccan-sahara/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T22:16:47.000Z",
+      "summary": "In a statement to the press following the meeting, Mr. Ramful explained that the Republic of Mauritius had recently reviewed its position on the Moroccan Sahara issue during a Cabinet…",
+      "categories": [
+        "International",
+        "Dhananjay Ramful",
+        "Mauritius",
+        "Morocco"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-22.49.37.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Afenyo-Markin hands over Ghana’s ECOWAS Parliament leadership to Ricketts-Hagan",
+      "link": "https://www.graphic.com.gh/news/politics/afenyo-markin-hands-over-ghanas-ecowas-parliament-leadership-to-ricketts-hagan.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T22:14:32.000Z",
+      "summary": "The Third Deputy Speaker of the Economic Community of West African States (ECOWAS) Parliament, Alexander Afenyo-Markin, has handed over leadership of Ghana’s delegation to the regional…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/afenyo.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Trump’s Board of Peace unveils $2.45bn plan to begin Gaza’s reconstruction",
+      "link": "https://www.myjoyonline.com/trumps-board-of-peace-unveils-2-45bn-plan-to-begin-gazas-reconstruction/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T22:14:00.000Z",
+      "summary": "US President Donald Trump's Board of Peace has announced a Gaza recovery plan worth $2.45bn (£1.85bn) during a meeting on the sidelines of the UN General Assembly.",
+      "categories": [
+        "International",
+        "Board of Peace",
+        "Donald Trump"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3130-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama says he will unite Africa, Caribbean and Latin America into world's biggest trading bloc",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-unite-africa-caribbean-and-latin-america-into-worlds-biggest-trading-bloc.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-23T22:09:55.000Z",
+      "summary": "President John Dramani Mahama said he will use his upcoming tenure as Chair of the African Union (AU) to bring together the Community of Latin American and Caribbean States (CELAC), the…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/pres1.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GMA rejects claims that vessel monitoring system Is ineffective",
@@ -54,119 +230,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "“I don’t see any rational basis” – Inusah Fuseini rejects proposed five-year term",
-      "link": "https://www.myjoyonline.com/i-dont-see-any-rational-basis-inusah-fuseini-rejects-proposed-five-year-term/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T21:12:51.000Z",
-      "summary": "Former Tamale Central MP Inusah Fuseini has rejected the proposal to extend the tenure of the President and Members of Parliament from four to five years.",
-      "categories": [
-        "National",
-        "five-year term",
-        "Inusah Fuseini"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Inusah-Fuseini-1024x688.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Constitution shouldn’t be amended simply because years have passed – IEA",
-      "link": "https://www.myjoyonline.com/constitution-shouldnt-be-amended-simply-because-years-have-passed-iea/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T21:12:29.000Z",
-      "summary": "The Institute of Economic Affairs (IEA) has cautioned against amending Ghana’s Constitution merely because a certain number of years have elapsed.",
-      "categories": [
-        "National",
-        "News",
-        "Constitution",
-        "IEA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/iea.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Access Bank, Visa launch ‘Visa Accept’ in Ghana",
-      "link": "https://www.myjoyonline.com/access-bank-visa-launch-visa-accept-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T20:50:03.000Z",
-      "summary": "Visa Accept helps to address a key challenge facing many of Ghana's smallest businesses.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Access Bank",
-        "Eugene Ocansey",
-        "Fabrice Konan",
-        "visa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-23.40.28-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Our young people must inherit story of what Africa created, not lost’ – Mahama",
-      "link": "https://www.myjoyonline.com/our-young-people-must-inherit-story-of-what-africa-created-not-lost-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T20:48:13.000Z",
-      "summary": "President John Dramani Mahama has called for the restoration of Africa’s cultural heritage to help future generations reconnect with the continent’s history, achievements and identity.",
-      "categories": [
-        "National",
-        "News",
-        "Africa",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3811-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afreximbank, GIIF and 24-Hour Economy Authority pact marks real progress toward 24-hour economy agenda",
-      "link": "https://www.myjoyonline.com/afreximbank-giif-and-24-hour-economy-authority-pact-marks-real-progress-toward-24-hour-economy-agenda-amo-agyapong/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T20:19:02.000Z",
-      "summary": "The significance of the agreement goes beyond the signing ceremony. For a country seeking to transform ambitious economic priorities into productive assets, industrial capacity, export…",
-      "categories": [
-        "Business",
-        "Features",
-        "24-hour economy",
-        "Afreximbank",
-        "CIPAC",
-        "GIIF"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-24-at-01.37.22-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IMANI, Local Government Ministry discuss reforms on sanitation, local revenue and urban infrastructure",
-      "link": "https://www.myjoyonline.com/imani-local-government-ministry-discuss-reforms-on-sanitation-local-revenue-and-urban-infrastructure/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T20:07:12.000Z",
-      "summary": "Sanitation reform, local revenue mobilisation, urban mobility and the redevelopment of major markets have featured prominently in policy discussions between policy think tank IMANI Africa…",
-      "categories": [
-        "National",
-        "IMANI",
-        "Local government",
-        "local revenue",
-        "Sanitation",
-        "urban infrastructure"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-20.18.06-1024x484.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s international reserves drop to US$11.04 billion in August as BoG pushes for significant build-ups in coming months",
-      "link": "https://www.myjoyonline.com/ghanas-international-reserves-drop-to-us11-04-billion-in-august-as-bog-pushes-for-significant-build-ups-in-coming-months/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-23T20:06:43.000Z",
-      "summary": "This marks a US$1.9 billion decline from the about US$12.94 billion that the country recorded at the end of June 2026.",
-      "categories": [
-        "Business",
-        "Comp. Business",
-        "Economy",
-        "HP Business 1",
-        "Bank of Ghana",
-        "Dr. Johnson Asiama",
-        "international reserves"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_1430-1536x1025vg-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Manhyia South MP Baffour Awuah questions EOCO's explanation for his attempted arrest",
@@ -272,78 +335,6 @@ window.GDC_PAPERS = {
       "summary": "The Ghana Olympic Committee (GOC) has appointed Ms. Rafatu Inusah, President of Ghana Rugby, as Chef de Mission (CDM) for Team Ghana at the upcoming Commonwealth Youth Games. The event is…",
       "categories": [
         "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana courts Qatar, others for railway transformation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-courts-qatar-others-for-railway-transformation.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T08:19:54.000Z",
-      "summary": "The government is pursuing strategic bilateral agreements with resource-rich countries to support its railway transformation agenda to drive industrialisation and job creation.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Ablakwa.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hearts lucky to escape defeat -Bechem United Coach",
-      "link": "https://ghanaiantimes.com.gh/hearts-lucky-to-escape-defeat-bechem-united-coach/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:17:57.000Z",
-      "summary": "The Head Coach of Bechem United, Mohammed Bashar Ogba, says the outcome of their Matchday 3 clash against Hearts of Oak was not a true reflection of the game, believing that the Phobians…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gordon Brown backs Accra Reset initiative",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gordon-brown-backs-accra-reset-initiative.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-23T08:14:51.000Z",
-      "summary": "Former British Prime Minister, Gordon Brown, has lauded the Accra Reset Initiative championed by President John Dramani Mahama, describing it as a decisive shift from external dependence to…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/23/Gordon.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ngetich breaks women half-marathon record",
-      "link": "https://ghanaiantimes.com.gh/ngetich-breaks-women-half-marathon-record/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:14:36.000Z",
-      "summary": "Agnes Ngetich broke the world record for a women-only half marathon as she took gold at the World Road Running Championships in Copenhagen. The Kenyan claimed victory in one hour, five…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Arteta agrees new deal with champions Arsenal",
-      "link": "https://ghanaiantimes.com.gh/arteta-agrees-new-deal-with-champions-arsenal/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:13:18.000Z",
-      "summary": "Mikel Arteta has agreed an improved new contract with Premier League champions Arsenal. The Spaniard’s current deal expires at the end of the current season but talks over a new contract…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Infantino open to talks over FIFA reform",
-      "link": "https://ghanaiantimes.com.gh/infantino-open-to-talks-over-fifa-reform/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-23T08:12:02.000Z",
-      "summary": "FIFA President Gianni Infantino has proposed an independent review of the world soccer body’s decision-making, in a move that could ‌help him regain support after the withdrawal of a…",
-      "categories": [
-        "Foriegn"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"

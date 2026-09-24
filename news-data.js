@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-23T21:42:26.999Z",
-  "worldAt": "2026-09-23T21:42:26.994Z",
+  "updated": "2026-09-23T23:59:52.176Z",
+  "worldAt": "2026-09-23T23:59:52.174Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,14 +27,14 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
+    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 23 stories",
+    "World · BBC News: 22 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -46,6 +46,13 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Cedi depreciates by 9.5% in nine months of 2026 – BoG",
+      "link": "https://www.myjoyonline.com/cedi-depreciates-by-9-5-in-nine-months-of-2026-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-23T22:01:23.000Z",
+      "summary": "According to the September 2026 Summary of Economic and Financial Data by the Bank of Ghana, the cedi traded at GH¢11.55 to one American greenback in September 2026."
+    },
     {
       "title": "Ghana’s public debt hit GH¢733.9 billion in July 2026",
       "link": "https://www.myjoyonline.com/ghanas-public-debt-hit-gh%c2%a2733-9-billion-in-july-2026/",
@@ -68,7 +75,7 @@ window.GDC_NEWS = {
       "summary": "The significance of the agreement goes beyond the signing ceremony. For a country seeking to transform ambitious economic priorities into productive assets, industrial capacity, export…"
     },
     {
-      "title": "Ghana’s international reserves drop to US$11.04 billion in August as BoG pushes for significant build-ups in coming months",
+      "title": "Ghana’s international reserves drop to US$11.04bn in August; BoG pushes for significant build-ups in coming months",
       "link": "https://www.myjoyonline.com/ghanas-international-reserves-drop-to-us11-04-billion-in-august-as-bog-pushes-for-significant-build-ups-in-coming-months/",
       "source": "MyJoyOnline",
       "published": "2026-09-23T20:06:43.000Z",
@@ -80,6 +87,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-23T19:09:13.000Z",
       "summary": "The General Secretary of the Industrial and Commercial Workers’ Union (ICU), Ghana, Morgan Ayawine, has urged smock weavers and leather workers to prepare for mass production as growing…"
+    },
+    {
+      "title": "MTN rewards three loyal customers with brand-new Toyota land cruiser Prado each",
+      "link": "https://gna.org.gh/2026/09/mtn-rewards-three-loyal-customers-with-brand-new-toyota-land-cruiser-prado-each/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-23T17:58:29.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     },
     {
       "title": "Ghana Should Decentralise US$500m Oil Palm Financing for Wider Impact – Oro Oil CEO",
@@ -1081,23 +1095,108 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-21T05:00:00.000Z",
       "summary": "MrBeast’s $10m village puts cocoa child labour in focus. Ghana faces pressure to protect children and modernise cocoa production."
-    },
-    {
-      "title": "Insurance cost has largely remained stable – NPA boss on transport fare pressure",
-      "link": "https://www.myjoyonline.com/insurance-cost-has-largely-remained-stable-npa-boss-on-transport-fare-pressure/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T04:44:00.000Z",
-      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says insurance costs for transport operators have remained largely stable despite growing pressure on the sector."
-    },
-    {
-      "title": "NPA boss flags ‘recalcitrant’ transport operators raising fares arbitrarily",
-      "link": "https://www.myjoyonline.com/npa-boss-flags-recalcitrant-transport-operators-raising-fares-arbitrarily/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-21T04:06:00.000Z",
-      "summary": "The CEO of the National Petroleum Authority (NPA), Godwin Edudzi Tamakloe, says he is “greatly worried” about attempts by some transport operators to increase fares arbitrarily following…"
     }
   ],
   "world": [
+    {
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-23T23:44:58.000Z",
+      "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "China’s Xi arrives to Trump welcome on state visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T23:19:29.000Z",
+      "summary": "China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit"
+    },
+    {
+      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-23T23:42:38.000Z",
+      "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg"
+    },
+    {
+      "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T22:56:41.000Z",
+      "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship."
+    },
+    {
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-23T23:14:10.000Z",
+      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083e/live/e4049770-b732-11f1-9f81-a10976817ca3.jpg"
+    },
+    {
+      "title": "OpenAI AI agent breached Australian government website, PM says",
+      "link": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says",
+      "source": "France 24",
+      "published": "2026-09-23T22:10:45.000Z",
+      "summary": "An AI agent developed by OpenAI gained unauthorised access to an Australian government website in June, accessing public and non-public files in what Prime Minister Anthony Albanese…",
+      "image": "https://s.france24.com/media/display/aa643d1c-1aad-11f1-b81a-005056bfb2b6/w:1024/p:16x9/2026-03-04T012358Z-954232101-RC2LU7AFX5KU-RTRMADP-3-OPENAI-NATO.jpg"
+    },
+    {
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-23T23:03:56.000Z",
+      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fa/live/b4540960-b7a1-11f1-ba14-197cc9acea52.jpg"
+    },
+    {
+      "title": "Here's what happened on day 2 of the UN General Assembly",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
+      "source": "NPR World",
+      "published": "2026-09-23T22:06:37.000Z",
+      "summary": "Iran and Ukraine take center stage at the UN as diplomats push to contain two wars threatening global stability."
+    },
+    {
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-23T22:01:17.000Z",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg"
+    },
+    {
+      "title": "Does the UN have a future?",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5976846/does-the-un-have-a-future",
+      "source": "NPR World",
+      "published": "2026-09-23T21:58:37.000Z",
+      "summary": "NPR's Mary Louise Kelly speaks with former U.S. Ambassador to the United Nations Susan Rice about the relevance of the United Nations in 2026."
+    },
+    {
+      "title": "AI leaders urge caution at UN, with Anthropic chief pledging to slow down",
+      "link": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down",
+      "source": "France 24",
+      "published": "2026-09-23T21:46:14.000Z",
+      "summary": "Leaders of some of the world's biggest AI companies urged caution at the United Nations on Wednesday, warning that increasingly autonomous systems could outpace human oversight. Anthropic…",
+      "image": "https://s.france24.com/media/display/d42315b2-b795-11f1-a9d7-cd71256adcef/w:1024/p:16x9/AP26266700229610.jpg"
+    },
+    {
+      "title": "Watch: The arms race in space and how the UK is defending itself",
+      "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-23T21:29:04.000Z",
+      "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801a/live/bba851a0-b790-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+      "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T21:18:22.000Z",
+      "summary": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees."
+    },
     {
       "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
       "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
@@ -1107,11 +1206,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77bf/live/26f24db0-b770-11f1-a7b2-f3bdba1cd194.jpg"
     },
     {
-      "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
-      "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+      "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T21:18:22.000Z",
-      "summary": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees."
+      "published": "2026-09-23T21:05:36.000Z",
+      "summary": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes."
     },
     {
       "title": "UK survivor of Canadian poison seller says he exploited her despair",
@@ -1122,11 +1221,56 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8549/live/b7449770-b792-11f1-a7dc-51a9fb487fda.jpg"
     },
     {
-      "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-      "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+      "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T21:05:36.000Z",
-      "summary": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes."
+      "published": "2026-09-23T20:56:15.000Z",
+      "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says."
+    },
+    {
+      "title": "Fact-checking Trump’s speech at the United Nations General Assembly",
+      "link": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1",
+      "source": "France 24",
+      "published": "2026-09-23T20:54:26.000Z",
+      "summary": "Donald Trump’s UN address was packed with claims that are misleading, false or exaggerated. He said the US has more munitions than it could ever use, despite reports of depleting stocks. He…",
+      "image": "https://s.france24.com/media/display/a8be10ae-b78e-11f1-aede-4d7b41827f6c/w:1024/p:16x9/capture-3896148356ab438a48b6a83-47524315.jpg"
+    },
+    {
+      "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T20:37:18.000Z",
+      "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive."
+    },
+    {
+      "title": "Trump sparks debate over diesel export ban",
+      "link": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban",
+      "source": "France 24",
+      "published": "2026-09-23T20:38:13.000Z",
+      "summary": "The Trump administration's suggestion that it could ban or limit diesel exports has sparked furious backlash from the American oil industry. Politicians are trying to bring down soaring…",
+      "image": "https://s.france24.com/media/display/7cde0ff8-b78d-11f1-b379-4d7b41827f6c/w:1024/p:16x9/Anglais-2026-09-23T16-49-30-243Z.jpg"
+    },
+    {
+      "title": "Trump administration invites Putin to attend G20 summit in Miami",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T20:23:31.000Z",
+      "summary": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders."
+    },
+    {
+      "title": "Tigray rebels seize airports",
+      "link": "https://www.france24.com/en/tigray-rebels-seize-airports",
+      "source": "France 24",
+      "published": "2026-09-23T20:27:14.000Z",
+      "summary": "In tonight's edition, concerns about South Africa's high rates of crimes are brought even more into focus this week as 11 are killed in a mass killing at a party. Also, TPLF fighters take…",
+      "image": "https://s.france24.com/media/display/f9ff6988-b78c-11f1-8500-a5615d7a48ac/w:1024/p:16x9/capture-18328327726ab435d1e2fc40-24631004.jpg"
+    },
+    {
+      "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
+      "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-23T19:58:00.000Z",
+      "summary": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant."
     },
     {
       "title": "REPLAY: Ukrainian President Zelensky addresses the UN General Assembly",
@@ -1137,11 +1281,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/04703e78-b77f-11f1-9a98-833f01c30b8b/w:1024/p:16x9/EN-20260923-195330-201931-CS.jpg"
     },
     {
-      "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
-      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+      "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
+      "link": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T20:56:15.000Z",
-      "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says."
+      "published": "2026-09-23T19:54:24.000Z",
+      "summary": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock."
     },
     {
       "title": "No, this video doesn't disprove the 9/11 attack on the south tower of the World Trade Center",
@@ -1152,11 +1296,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3fd9994e-b75e-11f1-ba39-55848da96185/w:1024/p:16x9/september.jpg"
     },
     {
-      "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+      "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
+      "link": "https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T20:37:18.000Z",
-      "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive."
+      "published": "2026-09-23T19:35:09.000Z",
+      "summary": "Manchester United's debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss."
     },
     {
       "title": "Zelensky accuses Putin of using nationals of 47 countries to fight Ukraine war",
@@ -1167,11 +1311,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0a98f242-b782-11f1-acc3-513157f91e8c/w:1024/p:16x9/AP26266647906867.jpg"
     },
     {
-      "title": "Trump administration invites Putin to attend G20 summit in Miami",
-      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss",
+      "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
+      "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T20:23:31.000Z",
-      "summary": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders."
+      "published": "2026-09-23T19:32:58.000Z",
+      "summary": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana."
     },
     {
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
@@ -1182,11 +1326,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg"
     },
     {
-      "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
-      "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+      "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
+      "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T19:58:00.000Z",
-      "summary": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant."
+      "published": "2026-09-23T19:31:12.000Z",
+      "summary": "Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts."
     },
     {
       "title": "Morocco’s opposition leader casts vote in parliamentary election",
@@ -1196,11 +1340,11 @@ window.GDC_NEWS = {
       "summary": "The leader of Morocco's opposition PPS (Party of Progress and Socialism) arrived at a polling station in Rabat on Wednesday to vote in the parliamentary election."
     },
     {
-      "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
-      "link": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
+      "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T19:54:24.000Z",
-      "summary": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock."
+      "published": "2026-09-23T19:29:49.000Z",
+      "summary": "Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon."
     },
     {
       "title": "Holy regulation? Pope in Paris to press case for 'disarming' AI",
@@ -1211,14 +1355,14 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5c8c38ec-b779-11f1-92f1-cd71256adcef/w:1024/p:16x9/2026-09-23T092617Z-1132175007-RC2WONAUADS9-RTRMADP-3-MIGRATION-POPE.jpg"
     },
     {
-      "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
-      "link": "https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss",
+      "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
+      "link": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T19:35:09.000Z",
-      "summary": "Manchester United's debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss."
+      "published": "2026-09-23T19:29:28.000Z",
+      "summary": "Legislation seeks to pause advanced AI systems until federal safety standards are established."
     },
     {
-      "title": "Trump set to greet Xi for high-stakes state visit",
+      "title": "Trump and Xi meet at moment of global consequence",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
       "source": "NPR World",
       "published": "2026-09-23T18:23:19.000Z",
@@ -1226,11 +1370,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5869x3913+0+0/resize/5869x3913!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F7a%2F1094091b469a9206052f1f67c31e%2Fgettyimages-2275589464.jpg"
     },
     {
-      "title": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
-      "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss",
+      "title": "Iran threatens countries enforcing US airline sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T19:32:58.000Z",
-      "summary": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid's Yan Diomande lead Ivory Coast against depleted Ghana."
+      "published": "2026-09-23T19:27:50.000Z",
+      "summary": "Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions"
     },
     {
       "title": "'Breakthrough' archeological find could confirm location of Paris's original settlement",
@@ -1241,11 +1385,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d504aa80-b773-11f1-a019-55848da96185/w:1024/p:16x9/000-C94W2ZQ.jpg"
     },
     {
-      "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
-      "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
+      "title": "US judge leaves White House media ban in place for now",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-23T19:31:12.000Z",
-      "summary": "Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts."
+      "published": "2026-09-23T19:26:03.000Z",
+      "summary": "A judge heard arguments on Wednesday but did not rule on the case."
     },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -1254,144 +1398,6 @@ window.GDC_NEWS = {
       "published": "2026-09-23T18:15:31.000Z",
       "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:29:49.000Z",
-      "summary": "Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon."
-    },
-    {
-      "title": "Iran's president gives a rare wartime speech at the U.N.",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-      "source": "NPR World",
-      "published": "2026-09-23T18:14:40.000Z",
-      "summary": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F13%2F307a810041e88b26be27e72565d3%2Fgettyimages-2296136332.jpg"
-    },
-    {
-      "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
-      "link": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:29:28.000Z",
-      "summary": "Legislation seeks to pause advanced AI systems until federal safety standards are established."
-    },
-    {
-      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-23T17:58:19.000Z",
-      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbc/live/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "Iran threatens countries enforcing US airline sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:27:50.000Z",
-      "summary": "Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions"
-    },
-    {
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-23T17:40:59.000Z",
-      "summary": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/fc68f0f0-b718-11f1-8d21-19ad84e0e822.jpg"
-    },
-    {
-      "title": "Trump administration to defend White House ban on news outlets in court",
-      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:26:03.000Z",
-      "summary": "The news organisations are scheduled to make their case to a US district judge on Wednesday afternoon."
-    },
-    {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-23T16:53:37.000Z",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg"
-    },
-    {
-      "title": "Zelenskyy: Putin is making the world ‘more dangerous’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:13:09.000Z",
-      "summary": "Ukrainian President Volodymyr Zelenskyy is warning that Russia's “never-ending war\" could spread throughout Europe."
-    },
-    {
-      "title": "Ebola surveillance expands beyond DR Congo borders as IOM steps up efforts",
-      "link": "http://www.africanews.com/2026/09/23/ebola-surveillance-expands-beyond-dr-congo-borders-as-iom-steps-up-efforts/",
-      "source": "Africanews",
-      "published": "2026-09-23T16:49:39.000Z",
-      "summary": "As the Ebola outbreak in the DRC reaches unprecedented levels, disease surveillance is spreading beyond the country's borders. The International Organization for Migration tracks the…"
-    },
-    {
-      "title": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
-      "link": "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T19:12:27.000Z",
-      "summary": "Argentina steps up its Las Malvinas claim as tensions with the UK grow over offshore oil drilling."
-    },
-    {
-      "title": "Analyst flags uncertainty over South Sudan polls after government dismissal",
-      "link": "http://www.africanews.com/2026/09/23/analyst-flags-uncertainty-over-south-sudan-polls-after-government-dismissal/",
-      "source": "Africanews",
-      "published": "2026-09-23T16:16:41.000Z",
-      "summary": "Uncertainty lingers over South Sudan's ability to hold elections in December, with persisting insecurity and lack of political dialogue remaining potential obstacles."
-    },
-    {
-      "title": "The White House press pool: What is it and how does it work?",
-      "link": "https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T18:57:50.000Z",
-      "summary": "White House banned CNN, MS NOW, and Politico, after US President Donald Trump complained about coverage."
-    },
-    {
-      "title": "Ethiopia: Tigray forces seize airports as fighting spreads to Afar",
-      "link": "http://www.africanews.com/2026/09/23/ethiopia-tigray-forces-seize-airports-as-fighting-spreads-to-afar/",
-      "source": "Africanews",
-      "published": "2026-09-23T16:15:48.000Z",
-      "summary": "Tigrayan rebels in northern Ethiopia seized control of airports and battled federal troops in the neighbouring Afar region, multiple sources told AFP on Wednesday, as long-standing tensions…"
-    },
-    {
-      "title": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
-      "link": "https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T18:49:45.000Z",
-      "summary": "Palestinian shot dead as Israel's ambassador to the US identifies injured soldier as his son."
-    },
-    {
-      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-      "source": "NPR World",
-      "published": "2026-09-23T16:13:52.000Z",
-      "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this…"
-    },
-    {
-      "title": "US lawmakers seek sanctions for Israel’s ‘E1’ West Bank settlement plan",
-      "link": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T18:48:26.000Z",
-      "summary": "Project would effectively cleave Palestinian territory in half and has prompted widespread international condemnation."
-    },
-    {
-      "title": "Disgraced Hollywood mogul Harvey Weinstein sentenced to 15 years for 2006 sex assault",
-      "link": "https://www.france24.com/en/americas/20260923-disgraced-hollywood-mogul-harvey-weinstein-sentenced-to-15-years-for-2006-sex-assault",
-      "source": "France 24",
-      "published": "2026-09-23T15:55:04.000Z",
-      "summary": "Disgraced movie mogul Harvey Weinstein was sentenced to 15 years in prison Wednesday in another #MeToo reckoning for sexually assaulting a former production assistant in 2006.",
-      "image": "https://s.france24.com/media/display/1a50d81a-b766-11f1-8f22-a5615d7a48ac/w:1024/p:16x9/AP26266556744346.jpg"
-    },
-    {
-      "title": "Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech",
-      "link": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T18:36:39.000Z",
-      "summary": "Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz."
     }
   ],
   "africa": [
