@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-25T14:35:23.424Z",
+  "updated": "2026-09-25T18:52:03.702Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,125 +25,227 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Stanbic Bank moves to boost electric vehicle through ‘Be Powered’ campaign",
-      "link": "https://www.myjoyonline.com/stanbic-bank-moves-to-boost-electric-vehicle-through-be-powered-campaign/",
+      "title": "Photos: Democracy Is Not For Sale forum in Savannah region",
+      "link": "https://www.myjoyonline.com/photos-democracy-is-not-for-sale-forum-in-savannah-region/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:29:39.000Z",
-      "summary": "Stanbic Bank Ghana is stepping up efforts to support sustainable mobility and renewable energy adoption through its 'Be Powered' campaign, providing financing and technical support to…",
+      "published": "2026-09-25T18:43:01.000Z",
+      "summary": "The JoyNews' Democracy Is Not For Sale forum has moved to Damongo in the Savannah Region, bringing together stakeholders and residents to discuss the growing influence of money in Ghana’s…",
       "categories": [
         "National",
-        "Be Powered campaign",
-        "Stanbic Bank"
+        "Photo Story",
+        "Democracy Is Not For Sale"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/stanbic-bank-launches-be-power-c.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_9716-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Tears in Damongo court as accused persons show alleged torture wounds while in police custody",
-      "link": "https://www.myjoyonline.com/tears-in-damongo-court-as-accused-persons-show-alleged-torture-wounds-while-in-police-custody/",
+      "title": "GNFS launches 2026/27 National Anti-Bushfire campaign in Atebubu, records 62.8% reduction in bushfire cases",
+      "link": "https://www.myjoyonline.com/gnfs-launches-2026-27-national-anti-bushfire-campaign-in-atebubu-records-62-8-reduction-in-bushfire-cases/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:28:34.000Z",
-      "summary": "A Damongo Circuit Court was thrown into concern after two accused persons appeared unable to stand in the dock and told the court they had allegedly been beaten while in police custody…",
+      "published": "2026-09-25T18:24:47.000Z",
+      "summary": "The Ghana National Fire Service (GNFS) has officially launched its 2026/27 National Anti-Bushfire Campaign in Atebubu, in the Bono East Region, with a strong call for collective action to…",
       "categories": [
-        "Regional",
-        "Damongo",
-        "Police",
-        "wounds"
+        "National",
+        "Atebubu",
+        "Ghana National Fire Service (GNFS)",
+        "National Anti-Bushfire campaign"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3379.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-12.41.57-1-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Telecel Business Runaway in Takoradi equips SMEs with practical tools for growth",
-      "link": "https://www.myjoyonline.com/telecel-business-runaway-in-takoradi-equips-smes-with-practical-tools-for-growth/",
+      "title": "I’ll vote for a female president; women are less likely to steal from the state – Okyeame Kwame",
+      "link": "https://www.myjoyonline.com/ill-vote-for-a-female-president-women-are-less-likely-to-steal-from-the-state-okyeame-kwame/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:23:36.000Z",
-      "summary": "A large number of entrepreneurs and small and medium-sized business owners have participated in Telecel Ghana’s Business Runway in Takoradi, describing the engagement as an eye-opener on…",
+      "published": "2026-09-25T18:23:51.000Z",
+      "summary": "Ghanaian rapper and developmental activist Kwame Nsiah-Apau, popularly known by his stage name Okyeame Kwame, aka the Rap Doctor, has shared his opinion on women taking up leadership roles…",
       "categories": [
-        "Business",
-        "Telecom",
-        "Dr. Daniel Mckorley",
-        "Joseph Nelson",
-        "Patricia Obo Nai",
-        "Telecel"
+        "HP Entertainment 1",
+        "Radio & TV",
+        "Ama Nkrumah",
+        "Big Up",
+        "Mabel Danquah",
+        "Naa Dedei Ashikishan",
+        "Okyeame Kwame",
+        "Susanna Al-Hassan",
+        "Theodosia Okoh"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-14.47.48-2-1024x613.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/OKYEAME-KWAME.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Education Ministry to meet teacher unions on Monday as strike begins over promotion arrears",
-      "link": "https://www.myjoyonline.com/education-ministry-to-meet-teacher-unions-on-monday-as-strike-begins-over-promotion-arrears/",
+      "title": "More public education needed to stop vote-buying – Savannah Region MP",
+      "link": "https://www.myjoyonline.com/more-public-education-needed-to-stop-vote-buying-savannah-region-mp/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:18:39.000Z",
-      "summary": "The Ministry of Education will meet the country’s teacher unions on Monday, September 28, in a fresh attempt to resolve the dispute over unpaid promotion arrears and other outstanding…",
+      "published": "2026-09-25T18:14:41.000Z",
+      "summary": "Savannah Regional Minister Salisu Be-Awuribe has called for stronger public education to help tackle vote buying, saying an informed electorate must play a leading role in resisting…",
       "categories": [
-        "Education",
         "HP News 3",
         "National",
-        "Education Ministry",
-        "Strike",
-        "Teacher Unions"
+        "public education",
+        "Savannah MP",
+        "Vote-buying"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3378.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3412.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gender Minister calls for stronger financing, accountability to improve lives of Africa’s children",
-      "link": "https://www.myjoyonline.com/gender-minister-calls-for-stronger-financing-accountability-to-improve-lives-of-africas-children/",
+      "title": "Absa Bank commissions new head office, commits to strengthening operations in Ghana",
+      "link": "https://www.myjoyonline.com/absa-bank-commissions-new-head-office-commits-to-strengthening-operations-in-ghana/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:14:32.000Z",
-      "summary": "Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger financing, reliable data and greater accountability to ensure commitments to Africa’s…",
+      "published": "2026-09-25T18:11:52.000Z",
+      "summary": "The new facility, known as Absa Place, was officially commissioned on Friday, September 25, with Vice President Professor Jane Naana Opoku-Agyemang and senior officials from the Bank of…",
       "categories": [
-        "National",
-        "Africa’s children",
-        "Dr Agnes Naa Momo Lartey"
+        "Banking and Finance",
+        "Business",
+        "HP Business 2",
+        "Absa Bank Ghana",
+        "Dr Edward Botchway",
+        "Matilda Asante Asiedu",
+        "Professor Jane Naana Opoku-Agyemang"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/817663931_1730194348242311_6899256685536309867_n-1-1024x674.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-21.06.07-1024x546.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Shoot to maim illegal miners if ‘shoot to kill’ is opposed – Kwame Jantuah",
-      "link": "https://www.myjoyonline.com/shoot-to-maim-illegal-miners-if-shoot-to-kill-is-opposed-kwame-jantuah/",
+      "title": "Republic Bank-JoyNews Habitat Fair clinic: Day 1 ends on positive note as patrons explore housing solutions at Junction Mall",
+      "link": "https://www.myjoyonline.com/republic-bank-joynews-habitat-fair-clinic-day-1-ends-on-positive-note-as-patrons-explore-housing-solutions-at-junction-mall/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:13:46.000Z",
-      "summary": "Legal practitioner and member of the Convention People’s Party (CPP), Kwame Jantuah, says a drastic approach is needed to put a lasting end to the illegal mining menace Ghana is dealing…",
+      "published": "2026-09-25T18:08:24.000Z",
+      "summary": "The first day of the third Republic Bank-JoyNews Habitat Fair Clinic has come to a close at the Junction Mall in Nungua, with patrons engaging exhibitors on housing, mortgage financing…",
       "categories": [
         "National",
-        "Kwame Jantuah",
-        "Shoot to kill"
+        "3rd Republic Bank-JoyNews Habitat Fair Clinic"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-2139.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260925173118_IMG_8557.jpg-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "24-hour Economy Secretariat to support 2026 Inter Tourism Expo",
-      "link": "https://www.myjoyonline.com/24-hour-economy-secretariat-to-support-2026-inter-tourism-expo/",
+      "title": "Vanderpuye: NDC welfare system needed to support former officials, cadres",
+      "link": "https://www.myjoyonline.com/vanderpuye-ndc-welfare-system-needed-to-support-former-officials-cadres/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:12:25.000Z",
-      "summary": "The Secretariat of the 24-hour Economy is set to support the 6th Inter Tourism Expo, scheduled to take place in Cape Coast in the Central Region from October 21 to 23, 2026. The commitment…",
+      "published": "2026-09-25T18:04:11.000Z",
+      "summary": "Former Odododiodioo Member of Parliament and National Democratic Congress (NDC) National Chairman aspirant, Edwin Nii Lante Vanderpuye, has called for the establishment of a dedicated…",
       "categories": [
-        "National",
-        "Travel and Tourism",
-        "24-hour economy",
-        "Inter Tourism Expo"
+        "Politics",
+        "Cadres",
+        "NDC",
+        "Nii Lante Vanderpuye"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-10-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/2-60-1024x576.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana must produce more of what it imports to create jobs – Mahama",
-      "link": "https://www.myjoyonline.com/ghana-must-produce-more-of-what-it-imports-to-create-jobs-mahama/",
+      "title": "Chamber of Mines extends support to Akropong, Mampong Special Schools",
+      "link": "https://www.myjoyonline.com/chamber-of-mines-extends-support-to-akropong-mampong-special-schools/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T14:07:48.000Z",
-      "summary": "President John Dramani Mahama has challenged Ghanaian businesses to expand domestic production of goods the country currently imports, saying the shift is necessary to create jobs and build…",
+      "published": "2026-09-25T18:01:13.000Z",
+      "summary": "Speaking during the presentation, the Director of Analysis, Research, and Finance at the Ghana Chamber of Mines, Christopher Opoku Nyarko, said the organisation was committed to supporting…",
       "categories": [
-        "National",
-        "Ghana",
-        "Jobs",
-        "Mahama"
+        "Business",
+        "Mining",
+        "Akropong School For The Blind",
+        "Chamber of Mines",
+        "Christopher Opoku Nyarko"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/JM-1-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-20.44.23.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Eckankar Ghana marks 50th anniversary with call for spiritual freedom",
+      "link": "https://www.graphic.com.gh/news/general-news/eckankar-ghana-marks-50th-anniversary-with-call-for-spiritual-freedom.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T17:31:02.000Z",
+      "summary": "Eckankar Ghana has marked its 50th anniversary as a religious organisation in the country with a public celebration at the Temple of ECK in Accra, reflecting on its humble beginnings and…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "64 suspects picked up in police operation at Achimota, firearms recovered",
+      "link": "https://www.graphic.com.gh/news/general-news/achimota-64-suspects-picked-up-in-police-operation-firearms-recovered.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T17:22:03.000Z",
+      "summary": "A total of 64 suspects have been picked up by the police at Achimota in Accra for unlawful possession of firearms and ammunition. They were arrested at a lounge near Achimota Mile 7 in the…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/achimota4.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "US, France intervention in Lybia cause of Sahel terror surge - President Mahama",
+      "link": "https://www.graphic.com.gh/news/politics/us-france-intervention-in-lybia-cause-of-sahel-terror-surge-president-mahama.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T17:13:24.000Z",
+      "summary": "President John Dramani Mahama has traced the roots of the worsening terrorism crisis in the Sahel to the US and French-led overthrow of Libyan leader Muammar Gaddafi.",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama_un3.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama on why Ghana rejected US health compact and says conditions were humiliating",
+      "link": "https://www.graphic.com.gh/news/politics/president-mahama-jon-why-ghana-rejected-us-health-compact-and-says-conditions-were-humiliating.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T17:10:52.000Z",
+      "summary": "President John Dramani Mahama has justified the government’s decision to reject a new health compact presented by the United States to replace funding previously provided under the United…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama_un2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama decries debt trap",
+      "link": "https://www.graphic.com.gh/news/politics/president-mahama-decries-debt-trap.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T17:05:41.000Z",
+      "summary": "President John Dramani Mahama has decried the debt trap developing countries are subjected to, saying Africa borrows at eight times more expensive rate than the rest of the world, a…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama_un4.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "US Embassy builds coaching pipeline for girls’ football",
+      "link": "https://www.graphic.com.gh/sports/sports-news/us-embassy-builds-coaching-pipeline-for-girls-football.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-25T16:22:01.000Z",
+      "summary": "The United States Embassy in Accra has completed a three-city girls’ football coaching initiative with ambitions to build a broader development pathway — but the shape and scale of the next…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/GIRLS_COACHING.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Swimmer Ivan Snowden departs Accra for Bahrain to begin World Aquatics scholarship",
+      "link": "https://www.graphic.com.gh/sports/sports-news/swimmer-ivan-snowden-departs-accra-for-bahrain-to-begin-world-aquatics-scholarship.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-25T16:01:33.000Z",
+      "summary": "Ghanaian swimmer Ivan Christopher Snowden will depart Accra for Bahrain on Sunday to begin a historic World Aquatics scholarship programme combining high-performance swimming with…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/IVAN.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "180 Ghanaians repatriated from Libya with support from IOM, ECOWAS",
+      "link": "https://www.graphic.com.gh/news/general-news/180-ghanaians-repatriated-from-libya-with-support-from-iom-ecowas.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T14:58:02.000Z",
+      "summary": "The government of Ghana, in collaboration with the International Organisation for Migration and the Economic Community of West African States, has facilitated the safe return of 180…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Libya.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Africa needs partnership, not charity: President tells global leaders at UN - Warns continent won't be arena for new scramble",
@@ -158,87 +260,15 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Utility tariffs remain unchanged for rest of 2026",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-utility-tariffs-remain-unchanged-for-rest-of-2026.html",
+      "title": "MTTD trains personnel on Traffitech-GH cameras to arrest traffic offenders, issue notices of violation",
+      "link": "https://www.graphic.com.gh/news/general-news/mttd-trains-personnel-on-traffitech-gh-cameras-to-arrest-traffic-offenders-issue-notices-of-violation.html",
       "source": "Daily Graphic",
-      "published": "2026-09-25T11:08:18.000Z",
-      "summary": "The Public Utilities Regulatory Commission (PURC) has maintained the charges for electricity and water tariffs for the fourth quarter of 2026, with the existing third-quarter rates…",
+      "published": "2026-09-25T11:15:16.000Z",
+      "summary": "The Motor Traffic and Transport Department of the Ghana Police Service, in collaboration with its private sector partner, has organised a training session for selected Police personnel and…",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Shafic.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GTBank donates paediatric cancer care equipment to G/A Regional Hospital",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gtbank-donates-paediatric-cancer-care-equipment-to-g-a-regional-hospital.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T11:03:58.000Z",
-      "summary": "Guaranty Trust Bank (Ghana) Ltd (GTBank) has donated medical equipment to the Paediatric Oncology Unit of the Greater Accra Regional Hospital, Ridge, Accra, as part of its commitment to…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Agnes.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES directs SHS heads to stop illegal fees collection",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-ges-directs-shs-heads-to-stop-illegal-fees-collection.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T11:00:39.000Z",
-      "summary": "The management of the Ghana Education Service (GES) has expressed concern about reports of some heads of second cycle schools collecting admission fees, parent-teacher-association (PTA)…",
-      "categories": [
-        "Education"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education in emergencies: Ghana to host conference Tuesday",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-education-in-emergencies-ghana-to-host-conference-tuesday.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T10:58:29.000Z",
-      "summary": "Ghana will next week play host to the Second High-Level Conference on Scaling Education initiatives in Emergencies (EiE) in the West Africa sub-region.",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Haruna.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Metro Mass seeks government support as 80% of fleet ages",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-metro-mass-seeks-government-support-as-80-of-fleet-ages.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T10:44:49.000Z",
-      "summary": "Metro Mass Transit (MMT) has appealed to the government for further support to replace its ageing fleet to help strengthen its capacity to provide affordable public transport across the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Committee.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Saudi Arabia celebrates 96th National Day, hails historic ties",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-saudi-arabia-celebrates-96th-national-day-hails-historic-ties.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T10:41:49.000Z",
-      "summary": "The Kingdom of Saudi Arabia celebrated its 96th National Day in Ghana with a call for deeper bilateral cooperation and reaffirmation of the Kingdom's commitment to strengthening its…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Al-Dhakel.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Eastern Region to host this year’s World Tourism Day",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-eastern-region-to-host-this-years-world-tourism-day.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T10:34:36.000Z",
-      "summary": "Eastern Region is expected to host this year’s World Tourism Day celebration from September 26 to October 3, 2026.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/tourism.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/police.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
