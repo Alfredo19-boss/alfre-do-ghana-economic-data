@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-25T03:39:56.667Z",
+  "updated": "2026-09-25T09:06:34.057Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,125 +25,229 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Policy rate hike ideal, but would hurt businesses amid rising fuel, utility costs – Prof Quartey",
-      "link": "https://www.myjoyonline.com/policy-rate-hike-ideal-but-would-hurt-businesses-amid-rising-fuel-utility-costs-prof-quartey/",
+      "title": "Energy Commission to monitor EV charging stations",
+      "link": "https://www.myjoyonline.com/energy-commission-to-monitor-ev-charging-stations/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T02:37:00.000Z",
-      "summary": "Economist Professor Peter Quartey has backed the Bank of Ghana’s decision to maintain the policy rate at 14%.",
+      "published": "2026-09-25T09:03:55.000Z",
+      "summary": "Speaking at the graduation ceremony of some 884 electricians who completed the Energy Commission 25th Electrical Wiring Certification, Executive Secretary of the Commission, Adwoa Serwaa…",
       "categories": [
-        "Banking and Finance",
+        "Business",
+        "Adwoa Serwaa Bondzie",
+        "Energy Commission",
+        "John Gatsi",
+        "Ministry of Energy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-11.27.22-576x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Invest with confidence, Ghana’s golden era is beginning – Finance Minister",
+      "link": "https://www.myjoyonline.com/invest-with-confidence-ghanas-golden-era-is-beginning-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T08:53:48.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has urged businesses to invest with confidence, assuring them that the government will sustain the gains made in stabilising Ghana’s economy. Speaking…",
+      "categories": [
+        "Business",
+        "Economy",
+        "AGI",
+        "Dr. Ato Forson",
+        "Dr. Nsiah-Poku",
+        "Ministry of Finance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-11.33.20-1024x819.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Do Ghana to launch The Great Ghana Day Out on World Tourism Day",
+      "link": "https://www.myjoyonline.com/do-ghana-to-launch-the-great-ghana-day-out-on-world-tourism-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T08:53:29.000Z",
+      "summary": "Do Ghana, the domestic tourism movement initiated by WangoWango, will launch The Great Ghana Day Out on World Tourism Day, Sunday, 27 September 2026.",
+      "categories": [
+        "Travel and Tourism",
+        "Do Ghana",
+        "The Great Ghana Day Out"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/adced13c-fb1e-4bbf-9d2a-76313bb89031.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Clean up our politics before politics cleans us up",
+      "link": "https://www.myjoyonline.com/clean-up-our-politics-before-politics-cleans-us-up/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T08:19:40.000Z",
+      "summary": "Ghana must rediscover the meaning of political leadership before political competition destroys the values that hold us together. There is something deeply troubling about the direction of…",
+      "categories": [
+        "Opinion",
+        "Ing. Dr Peter Debrah",
+        "Politics"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-8.11.58-AM-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2025 was a turning point, says Abradu-Otoo as NAFCO posts record GH¢91.7m profit",
+      "link": "https://www.myjoyonline.com/2025-was-a-turning-point-says-abradu-otoo-as-nafco-posts-record-gh%c2%a291-7m-profit/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T07:56:43.000Z",
+      "summary": "The National Food Buffer Stock Company (NAFCO) has recorded its highest profit in 16 years, posting a Net Profit Before Tax of GH¢91.7 million for 2025.",
+      "categories": [
         "National",
-        "BoG policy rate",
-        "Prof Peter Quartey"
+        "George Abradu-Otoo",
+        "National Food Buffer Stock Company (NAFCO)"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/the-bank-of-ghanas-decision-to-s-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3309-1024x682.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "ECG workers hit the streets over PSP, set Sept. 29 for nationwide demo",
-      "link": "https://www.myjoyonline.com/ecg-workers-hit-the-streets-over-psp-set-sept-29-for-nationwide-demo/",
+      "title": "Today’s front pages: Friday, September 25, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-friday-september-25-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T02:21:00.000Z",
-      "summary": "The Senior Staff Union (SSU) and Junior Staff Union (JSU) of the Electricity Company of Ghana (ECG) have announced plans for a nationwide demonstration against the proposed Private Sector…",
+      "published": "2026-09-25T07:38:47.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
       "categories": [
+        "HP News 2",
         "National",
-        "ECG workers",
-        "Nationwide demo"
+        "Frontpages",
+        "Newspaper"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/ECG.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3292.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nigeria, US sign agreement to boost mining investment",
-      "link": "https://www.myjoyonline.com/nigeria-us-sign-agreement-to-boost-mining-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T02:06:00.000Z",
-      "summary": "Nigeria and the United States have signed a framework agreement aimed at deepening US investment in the West African country's mining sector, Nigeria's solid minerals minister, Dele Alake…",
+      "title": "African leaders push for higher education transformation in Accra",
+      "link": "https://www.graphic.com.gh/news/education/african-leaders-push-for-higher-education-transformation-in-accra.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T07:24:57.000Z",
+      "summary": "Leaders from Africa's higher education institutions, the African Union, government ministries, global and regional financial institutions, industry partners and young people gathered in…",
       "categories": [
-        "Africa",
-        "Mining agreement",
-        "Nigeria",
-        "US"
+        "Education"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-103.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "‘No doubt’ Black Stars will beat Cote d’ivore in Accra – Carlos Quieroz",
-      "link": "https://www.myjoyonline.com/no-doubt-black-stars-will-beat-cote-divore-in-accra-carlos-quieroz/",
+      "title": "‘FA President has four clubs; what do you think he would do?’ – Nana Baffour Awuah fires back",
+      "link": "https://www.myjoyonline.com/fa-president-has-four-clubs-what-do-you-think-he-would-do-nana-baffour-awuah-fires-back/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T01:18:34.000Z",
-      "summary": "Carlos Queiroz says he has “no doubt” Ghana will beat Ivory Coast when the two sides meet again in Accra in the 2027 Africa Cup of Nations qualifiers.",
+      "published": "2026-09-25T07:22:31.000Z",
+      "summary": "Speaking to Luv FM, Nana Baffour Awuah questioned the business interests surrounding football administration, claiming that the current GFA president presents a potential conflict of…",
       "categories": [
         "Football",
-        "Sports",
-        "Black Stars",
-        "Carlos Queiroz",
-        "Cote d’ivore",
-        "Ghana"
+        "Nana Baffour Awuah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3021.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/02/kurt-okrakuu.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Thomas-Asante urges Ghanaians to rally behind Black Stars after Cote d’Ivoire defeat",
-      "link": "https://www.myjoyonline.com/thomas-asante-urges-ghanaians-to-rally-behind-black-stars-after-cote-divoire-defeat/",
+      "title": "MoFA, ABC Oyasasee Yie sign fertilizer MoU",
+      "link": "https://ghanaiantimes.com.gh/mofa-abc-oyasasee-yie-sign-fertilizer-mou/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T07:22:05.000Z",
+      "summary": "THE Ministry of Food and Agriculture (MOFA) has signed a Memorandum of Understanding (MoU) with ABC Oyasasee Yie Limited for the establishment of the new organic facility in the Eastern…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Varsity Don warns against GMOs",
+      "link": "https://ghanaiantimes.com.gh/varsity-don-warns-against-gmos/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T07:08:29.000Z",
+      "summary": "AN agricultural economist and educationist, Professor Saa Dittoh, has warned against the subtle acceptance of genetically modified organisms (GMOs) within the country’s agricultural…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kurt Okraku doesn’t like criticism, but Ghana football is beyond him – Nana Baffour Awuah",
+      "link": "https://www.myjoyonline.com/kurt-okraku-doesnt-like-criticism-but-ghana-football-is-beyond-him-nana-baffour-awuah/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T01:10:12.000Z",
-      "summary": "Brandon Thomas-Asante has called on Ghanaians to rally behind the Black Stars as they look to respond to their 2-0 defeat to Cote d’Ivoire in Bouake.",
+      "published": "2026-09-25T07:08:13.000Z",
+      "summary": "In his first interview since the war of words with the FA president began, Nana Baffour Awuah told Luv Fm that “Kurt Okraku has always had problems with criticism.",
       "categories": [
         "Football",
-        "Sports",
-        "AFCON Qualifiers",
-        "Black Stars",
-        "Côte d’Ivoire",
-        "Ghana"
+        "Kurt Okraku",
+        "Nana Baffour Awuah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/Brandon-Thomas-Asante-2-1024x776.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/KURT-OKRAKU-581x424-1.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Hundreds of thousands expected in Paris for Pope’s visit",
-      "link": "https://www.myjoyonline.com/hundreds-of-thousands-expected-in-paris-for-popes-visit/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T00:13:23.000Z",
-      "summary": "Pope Leo XIV embarks on a four-day visit to France on Friday, with the highpoint being a giant Mass attended by more than half a million people in central Paris.",
+      "title": "Black Maidens thump Niger 6-1 in WAFU B Girls Cup",
+      "link": "https://ghanaiantimes.com.gh/black-maidens-thump-niger-6-1-in-wafu-b-girls-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T07:03:09.000Z",
+      "summary": "The Black Maidens produced a dominant display to secure an emphatic 6-1 victory over Niger on Matchday Four of the WAFU B U-17 Girls Cup in Yamoussoukro. The crucial fixture was the…",
       "categories": [
-        "International",
-        "Paris",
-        "Pope Leo XIV"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3272-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Abena Kyei Boakye unveiled as Ambassador for Glow Washing Powder",
-      "link": "https://www.myjoyonline.com/abena-kyei-boakye-unveiled-as-ambassador-for-glow-washing-powder/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T00:12:41.000Z",
-      "summary": "Award-winning TV personality Abena Kyei Boakye has been unveiled as the new brand ambassador for Glow Washing Powder, a Ghanaian-owned detergent brand. The unveiling ceremony was held at…",
+      "title": "BHOBU 2003 crowned Tsitsi champions",
+      "link": "https://ghanaiantimes.com.gh/bhobu-2003-crowned-tsitsi-champions/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T07:01:17.000Z",
+      "summary": "The 2003 Year Group of the Bishop Herman Old Boys Union (BHOBU 2003) have been crowned ‘Tsitsi’ Champions of the 10th edition of the BHOBU Games after an impressive unbeaten campaign. The…",
       "categories": [
-        "Photo Story",
-        "Abena Kyei Boakye",
-        "ambassador",
-        "for Glow Washing Powder"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_9126_2.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "link": "https://www.myjoyonline.com/105-year-old-investigated-for-crimes-at-nazi-pow-camp-in-germany/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T00:02:00.000Z",
-      "summary": "German prosecutors are investigating a man aged 105 over allegations that he was an accessory to multiple counts of murder at a Nazi prisoner of war camp in World War Two.",
+      "title": "Karela to test Hearts",
+      "link": "https://ghanaiantimes.com.gh/karela-to-test-hearts/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T06:56:58.000Z",
+      "summary": "Accra Hearts of Oak will look to maintain their hold on the Ghana Premier League summit when they trek to the Aliu Mahama Stadium in Tamale to play as guests of Karela United tomorrow. The…",
       "categories": [
-        "International",
-        "Germany",
-        "Nazi PoW camp"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3273-1024x717.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Konate out with knee sprain",
+      "link": "https://ghanaiantimes.com.gh/konate-out-with-knee-sprain/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T06:53:51.000Z",
+      "summary": "Earlier yesterday, it was confirmed that Real Madrid new arrival Ibrahima Konate was leaving the France national team camp after suffering a knee sprain. The summer signing was called up by…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Man Utd selling Old Trafford turf cubes",
+      "link": "https://ghanaiantimes.com.gh/man-utd-selling-old-trafford-turf-cubes/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T06:52:16.000Z",
+      "summary": "Manchester United are selling pieces of their Old Trafford pitch for £125 each. The initiative was announced the same day that the club reported that overall debt remains more than £1bn…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "England cannot imitate Spain’s success- Gordon",
+      "link": "https://ghanaiantimes.com.gh/england-cannot-imitate-spains-success-gordon/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-25T06:50:41.000Z",
+      "summary": "Anthony Gordon believes England cannot copy Spain’s example and must use their own strengths to end a 60-year wait to win a major tournament. Barcelona winger Gordon was part of the Three…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Asanko Gold supports 80 farmers with agricultural inputs",
@@ -170,32 +274,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Parliament appeals for release of GH¢5.6 million to Petroleum Commission",
-      "link": "https://ghanaiantimes.com.gh/parliament-appeals-for-release-of-gh%c2%a25-6-million-to-petroleum-commission/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T17:44:03.000Z",
-      "summary": "The Parliamentary Select Committee on Energy has appealed to the Ministry of Finance to release GH¢5.6 million to the Petroleum Commission to enable it to establish and operate a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "“No civilisation deserves to be annihilated” – Mahama calls for dialogue on global conflicts at UNGA 81",
-      "link": "https://ghanaiantimes.com.gh/no-civilisation-deserves-to-be-annihilated-mahama-calls-for-dialogue-on-global-conflicts-at-unga-81/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T17:41:35.000Z",
-      "summary": "President John Dramani Mahama has called for solidarity and dialogue in resolving global conflicts, insisting that no civilisation deserves to be wiped out. “No human civilisation deserves…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "ECG Queens donate to Tema Hospital",
       "link": "https://www.graphic.com.gh/news/general-news/ecg-queens-donate-to-tema-hospital.html",
       "source": "Daily Graphic",
@@ -206,71 +284,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/24/ecg2.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mahama slams selective morality on global conflicts, demands justice for Gaza, Sudan, Cuba",
-      "link": "https://ghanaiantimes.com.gh/mahama-slams-selective-morality-on-global-conflicts-demands-justice-for-gaza-sudan-cuba/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T17:37:56.000Z",
-      "summary": "President John Dramani Mahama has warned of a dangerous drift toward unilateralism and lawlessness in global affairs, saying the UN Charter must reign supreme over the doctrine that “might…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Real reparations requires structural transformation, not gestures – Mahama",
-      "link": "https://ghanaiantimes.com.gh/real-reparations-requires-structural-transformation-not-gestures-mahama/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T17:34:53.000Z",
-      "summary": "President John Dramani Mahama says the UN resolution affirming the transatlantic slave trade as the gravest crime against humanity must lead to structural transformation of the global…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "We came to seek healing, not division – Prez Mahama",
-      "link": "https://ghanaiantimes.com.gh/we-came-to-seek-healing-not-division-prez-mahama/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T17:32:49.000Z",
-      "summary": "President John Dramani Mahama says Ghana’s push for reparations is about healing, not division, as he recounted progress made since his pledge at the United Nations a year ago. “Last year…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Speaker summons Parliament to sit on September 29",
-      "link": "https://ghanaiantimes.com.gh/speaker-summons-parliament-to-sit-on-september-29/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T17:30:20.000Z",
-      "summary": "Speaker of Parliament Alban Sumana Kingsford Bagbin has summoned Parliament to sit on Tuesday, September 29, 2026. According to a notice issued by the Office of the Speaker on Thursday…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mahama to UN: No race is superior, every human being belongs to human family",
-      "link": "https://ghanaiantimes.com.gh/mahama-to-un-no-race-is-superior-every-human-being-belongs-to-human-family/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T17:27:36.000Z",
-      "summary": "President John Dramani Mahama has told the United Nations General Assembly that every human being belongs to the human family, stressing that no race is superior and no nation is inferior…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Africa does not seek charity, Africa seeks equal partnership — President Mahama @ UNGA 81st Session",
@@ -345,18 +358,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GCB Bank employees equip Osei Tutu SHS library",
-      "link": "https://ghanaiantimes.com.gh/gcb-bank-employees-equip-osei-tutu-shs-library/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-24T11:40:11.000Z",
-      "summary": "Employees of GCB Bank PLC have enhanced the library of Osei Tutu Senior High School in Akropong in the Ashanti Region by donating books and desktop computers to improve students’ access to…",
-      "categories": [
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "'One of the great unsolved mysteries of science': What general anaesthetic reveals about our brains",
       "link": "https://www.graphic.com.gh/news/health/one-of-the-great-unsolved-mysteries-of-science-what-general-anaesthetic-reveals-about-our-brains.html",
       "source": "Daily Graphic",
@@ -379,18 +380,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/24/coaches.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Speaker Bagbin summons Parliament for extraordinary sitting on September 29",
-      "link": "https://www.graphic.com.gh/news/politics/speaker-bagbin-summons-parliament-for-extraordinary-sitting-on-september-29.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-24T10:34:31.000Z",
-      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has summoned Parliament to sit on Tuesday, September 29, 2026, amid growing calls for parliamentary scrutiny of recent major…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/may/11/mace.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "UMB Speed Stars thrash Black Stars legends in thrilling exxhibition match",
