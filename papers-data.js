@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-25T18:52:03.702Z",
+  "updated": "2026-09-25T21:53:25.290Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,131 +25,149 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Photos: Democracy Is Not For Sale forum in Savannah region",
-      "link": "https://www.myjoyonline.com/photos-democracy-is-not-for-sale-forum-in-savannah-region/",
+      "title": "JoyNews gets results as listeners raise GH¢40,000 to help 17-year-old student with cerebral palsy attend SHS",
+      "link": "https://www.myjoyonline.com/joynews-gets-results-as-listeners-raise-gh%c2%a240000-to-help-17-year-old-student-with-cerebral-palsy-attend-shs/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T18:43:01.000Z",
-      "summary": "The JoyNews' Democracy Is Not For Sale forum has moved to Damongo in the Savannah Region, bringing together stakeholders and residents to discuss the growing influence of money in Ghana’s…",
+      "published": "2026-09-25T21:41:28.000Z",
+      "summary": "Seventeen-year-old Priscilla Nana Ama Samson, a student living with cerebral palsy, has returned to senior high school after Ghanaians rallied to support her education. Priscilla had feared…",
+      "categories": [
+        "Education",
+        "Cerebral palsy",
+        "JoyNews",
+        "JoyNews gets results",
+        "SHS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-223530.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vice President calls for stronger local pharmaceutical production to reduce medicine imports",
+      "link": "https://www.myjoyonline.com/vice-president-calls-for-stronger-local-pharmaceutical-production-to-reduce-medicine-imports/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T21:26:49.000Z",
+      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has called for stronger local pharmaceutical production as Ghana seeks to reduce its reliance on imported medicines and improve access to…",
+      "categories": [
+        "Health",
+        "medicine imports",
+        "pharmaceutical production",
+        "Vice President"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-17.29.30-1024x550.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The brewing tension at KNUST; Beware the Ides of October….",
+      "link": "https://www.myjoyonline.com/the-brewing-tension-at-knust-beware-the-ides-of-october/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T21:05:01.000Z",
+      "summary": "Less than a month after the investiture of a new Vice-Chancellor, the Governing Council of KNUST has decided to end a practice that has been part of KNUST's academic governance for…",
+      "categories": [
+        "Opinion",
+        "KNUST",
+        "Tension",
+        "UTAG"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-2-3.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Health Ministry moves to integrate traditional medicine into mainstream healthcare",
+      "link": "https://www.myjoyonline.com/health-ministry-moves-to-integrate-traditional-medicine-into-mainstream-healthcare/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T20:41:57.000Z",
+      "summary": "The Deputy Minister for Health, Prof. Dr Grace Ayensu-Danquah, has called for greater integration of scientifically validated traditional medicine into Ghana’s mainstream healthcare system.",
+      "categories": [
+        "Health",
+        "National",
+        "Health Ministry",
+        "Prof. Dr Grace Ayensu-Danquah",
+        "Traditional medicine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/825268474_1098353505930116_2227356843412589969_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "550 pupils in Kintampo South get educational lifeline as ‘Seeds of Hope’ reaches farming communities",
+      "link": "https://www.myjoyonline.com/550-pupils-in-kintampo-south-get-educational-lifeline-as-seeds-of-hope-reaches-farming-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T20:21:09.000Z",
+      "summary": "More than 550 pupils in two farming communities in the Kintampo South District have received school supplies as part of an outreach programme aimed at easing some of the educational…",
+      "categories": [
+        "Education",
+        "Regional",
+        "550 pupils",
+        "educational lifeline",
+        "Kintampo South District"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-19.12.13-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Opoku Mensah urges Christian Council, House of Chiefs to speak up on democratic freedoms",
+      "link": "https://www.myjoyonline.com/opoku-mensah-urges-christian-council-house-of-chiefs-to-speak-up-on-democratic-freedoms/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T20:04:22.000Z",
+      "summary": "Spokesperson for former Education Minister Dr Yaw Osei Adutwum has challenged the Christian Council of Ghana and the National House of Chiefs to speak out on what he describes as the…",
       "categories": [
         "National",
-        "Photo Story",
-        "Democracy Is Not For Sale"
+        "Christian Council",
+        "House of Chiefs",
+        "Yaw Opoku Mensah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_9716-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-16.27.56-472x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GNFS launches 2026/27 National Anti-Bushfire campaign in Atebubu, records 62.8% reduction in bushfire cases",
-      "link": "https://www.myjoyonline.com/gnfs-launches-2026-27-national-anti-bushfire-campaign-in-atebubu-records-62-8-reduction-in-bushfire-cases/",
+      "title": "Teacher unions’ strike: Minority demands immediate payment of teacher arrears, 20% deprived area allowance",
+      "link": "https://www.myjoyonline.com/teacher-unions-strike-minority-demands-immediate-payment-of-teacher-arrears-20-deprived-area-allowance/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T18:24:47.000Z",
-      "summary": "The Ghana National Fire Service (GNFS) has officially launched its 2026/27 National Anti-Bushfire Campaign in Atebubu, in the Bono East Region, with a strong call for collective action to…",
+      "published": "2026-09-25T19:56:30.000Z",
+      "summary": "The Minority in Parliament has called on the government to urgently resolve outstanding concerns raised by the country's teacher unions to avert an indefinite industrial action.",
       "categories": [
         "National",
-        "Atebubu",
-        "Ghana National Fire Service (GNFS)",
-        "National Anti-Bushfire campaign"
+        "Minority in Parliament",
+        "Teacher unions strike"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-12.41.57-1-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/strike_1540x1050-696x475-1-621x424-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I’ll vote for a female president; women are less likely to steal from the state – Okyeame Kwame",
-      "link": "https://www.myjoyonline.com/ill-vote-for-a-female-president-women-are-less-likely-to-steal-from-the-state-okyeame-kwame/",
+      "title": "The Accra-Kumasi Expressway: Building it right",
+      "link": "https://www.myjoyonline.com/the-accra-kumasi-expressway-building-it-right/",
       "source": "MyJoyOnline",
-      "published": "2026-09-25T18:23:51.000Z",
-      "summary": "Ghanaian rapper and developmental activist Kwame Nsiah-Apau, popularly known by his stage name Okyeame Kwame, aka the Rap Doctor, has shared his opinion on women taking up leadership roles…",
+      "published": "2026-09-25T19:47:43.000Z",
+      "summary": "Ghana is about to spend an enormous sum of public money to construct a new expressway.",
       "categories": [
-        "HP Entertainment 1",
-        "Radio & TV",
-        "Ama Nkrumah",
-        "Big Up",
-        "Mabel Danquah",
-        "Naa Dedei Ashikishan",
-        "Okyeame Kwame",
-        "Susanna Al-Hassan",
-        "Theodosia Okoh"
+        "Opinion",
+        "Accra-Kumasi",
+        "Build"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/OKYEAME-KWAME.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-14.00.45-e1790365598812-1024x612.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "More public education needed to stop vote-buying – Savannah Region MP",
-      "link": "https://www.myjoyonline.com/more-public-education-needed-to-stop-vote-buying-savannah-region-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T18:14:41.000Z",
-      "summary": "Savannah Regional Minister Salisu Be-Awuribe has called for stronger public education to help tackle vote buying, saying an informed electorate must play a leading role in resisting…",
+      "title": "Ivan Snowden to begin World Aquatics scholarship in Bahrain",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ivan-snowden-to-begin-world-aquatics-scholarship-in-bahrain.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-25T19:13:51.000Z",
+      "summary": "Ghanaian swimmer Ivan Christopher Snowden will depart Accra for Bahrain on Sunday to begin a World Aquatics (WA) scholarship programme combining high-performance swimming with university…",
       "categories": [
-        "HP News 3",
-        "National",
-        "public education",
-        "Savannah MP",
-        "Vote-buying"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3412.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/swimming.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Absa Bank commissions new head office, commits to strengthening operations in Ghana",
-      "link": "https://www.myjoyonline.com/absa-bank-commissions-new-head-office-commits-to-strengthening-operations-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T18:11:52.000Z",
-      "summary": "The new facility, known as Absa Place, was officially commissioned on Friday, September 25, with Vice President Professor Jane Naana Opoku-Agyemang and senior officials from the Bank of…",
+      "title": "New Ghana Army soldiers warned against misusing uniform on social media",
+      "link": "https://www.graphic.com.gh/news/general-news/new-ghana-army-soldiers-warned-against-misusing-uniform-on-social-media.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-25T18:38:14.000Z",
+      "summary": "The Ghana Army has cautioned newly trained soldiers against the misuse of social media and their uniforms. The have also been urged to uphold the reputation of the Ghana Armed Forces (GAF)…",
       "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 2",
-        "Absa Bank Ghana",
-        "Dr Edward Botchway",
-        "Matilda Asante Asiedu",
-        "Professor Jane Naana Opoku-Agyemang"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-21.06.07-1024x546.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Republic Bank-JoyNews Habitat Fair clinic: Day 1 ends on positive note as patrons explore housing solutions at Junction Mall",
-      "link": "https://www.myjoyonline.com/republic-bank-joynews-habitat-fair-clinic-day-1-ends-on-positive-note-as-patrons-explore-housing-solutions-at-junction-mall/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T18:08:24.000Z",
-      "summary": "The first day of the third Republic Bank-JoyNews Habitat Fair Clinic has come to a close at the Junction Mall in Nungua, with patrons engaging exhibitors on housing, mortgage financing…",
-      "categories": [
-        "National",
-        "3rd Republic Bank-JoyNews Habitat Fair Clinic"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260925173118_IMG_8557.jpg-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vanderpuye: NDC welfare system needed to support former officials, cadres",
-      "link": "https://www.myjoyonline.com/vanderpuye-ndc-welfare-system-needed-to-support-former-officials-cadres/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T18:04:11.000Z",
-      "summary": "Former Odododiodioo Member of Parliament and National Democratic Congress (NDC) National Chairman aspirant, Edwin Nii Lante Vanderpuye, has called for the establishment of a dedicated…",
-      "categories": [
-        "Politics",
-        "Cadres",
-        "NDC",
-        "Nii Lante Vanderpuye"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/2-60-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Chamber of Mines extends support to Akropong, Mampong Special Schools",
-      "link": "https://www.myjoyonline.com/chamber-of-mines-extends-support-to-akropong-mampong-special-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T18:01:13.000Z",
-      "summary": "Speaking during the presentation, the Director of Analysis, Research, and Finance at the Ghana Chamber of Mines, Christopher Opoku Nyarko, said the organisation was committed to supporting…",
-      "categories": [
-        "Business",
-        "Mining",
-        "Akropong School For The Blind",
-        "Chamber of Mines",
-        "Christopher Opoku Nyarko"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-20.44.23.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/soldiers1.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Eckankar Ghana marks 50th anniversary with call for spiritual freedom",
@@ -257,18 +275,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/25/Mahama.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "MTTD trains personnel on Traffitech-GH cameras to arrest traffic offenders, issue notices of violation",
-      "link": "https://www.graphic.com.gh/news/general-news/mttd-trains-personnel-on-traffitech-gh-cameras-to-arrest-traffic-offenders-issue-notices-of-violation.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T11:15:16.000Z",
-      "summary": "The Motor Traffic and Transport Department of the Ghana Police Service, in collaboration with its private sector partner, has organised a training session for selected Police personnel and…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/police.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -425,18 +431,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/24/UMB.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Klottey’s anti-galamsey walk reaches Northern Region",
-      "link": "https://www.graphic.com.gh/sports/sports-news/klotteys-anti-galamsey-walk-reaches-northern-region.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-24T09:46:27.000Z",
-      "summary": "Ghanaian international marathon walker, King Klottey, has arrived in the Northern Region as he continues his two-week walk from Burkina Faso to Accra to raise awareness about the dangers of…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/KLOTTEY.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]

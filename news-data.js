@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-25T18:51:49.237Z",
-  "worldAt": "2026-09-25T18:51:49.234Z",
+  "updated": "2026-09-25T21:53:10.924Z",
+  "worldAt": "2026-09-25T21:53:10.922Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,22 +27,22 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 31 stories",
-    "World · Deutsche Welle: 12 stories",
+    "World · BBC News: 33 stories",
+    "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 29 stories",
+    "Africa · Africanews: 27 stories",
     "Africa · BBC Africa: 29 stories",
     "Africa · Deutsche Welle: 8 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 0 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,189 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "What would a US diesel export ban mean for global fuel prices?",
+      "link": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T21:28:56.000Z",
+      "summary": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally."
+    },
+    {
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T20:47:49.000Z",
+      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png"
+    },
+    {
+      "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+      "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T21:20:05.000Z",
+      "summary": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico."
+    },
+    {
+      "title": "Yemen's president calls on his people to mobilise against Iran-backed Houthis",
+      "link": "https://www.france24.com/en/middle-east/20260925-yemen-president-calls-on-his-people-to-mobilise-against-iran-backed-houthis",
+      "source": "France 24",
+      "published": "2026-09-25T20:41:29.000Z",
+      "summary": "Yemen’s Riyadh-based President Rashid al-Alimi on Friday called on ‌his people to mobilise and join the armed ‌forces while offering a general amnesty to the Iran-backed Houthi rebels who…",
+      "image": "https://s.france24.com/media/display/1ad03680-b907-11f1-add1-91cf9f3cd539/w:1024/p:16x9/2026-09-14T132010Z-886379123-RC21JNAQNIP4-RTRMADP-3-IRAN-CRISIS-YEMEN-HOUTHI.jpg"
+    },
+    {
+      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+      "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T20:59:43.000Z",
+      "summary": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties."
+    },
+    {
+      "title": "Telecoms disruption raises fears as heavy fighting strikes Ethiopia",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260925-telecoms-disruption-raises-fears-as-heavy-fighting-strikes-ethiopia",
+      "source": "France 24",
+      "published": "2026-09-25T20:32:28.000Z",
+      "summary": "First, fighting continues between the Ethiopian forces and the Tigray People's Liberation Front as fears of a regional spillover continue to mount. Then, both the opposition and the ruling…",
+      "image": "https://s.france24.com/media/display/a6947f2c-b91c-11f1-b040-852b23529bb9/w:1024/p:16x9/ANGL260925-2140-Live-01.jpg"
+    },
+    {
+      "title": "Manchester City reportedly found guilty of almost 115 financial charges",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T20:56:20.000Z",
+      "summary": "Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing."
+    },
+    {
+      "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
+      "link": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-25T20:15:00.000Z",
+      "summary": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flavio, who wants to bring Brazil closer to…"
+    },
+    {
+      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T20:46:15.000Z",
+      "summary": "A fire erupted aboard the vehicle ferry Blue Carrier 2 north of the Greek island of Mykonos, prompting a major emergency"
+    },
+    {
+      "title": "Macron and Pope Leo XIV unite on AI risks and nuclear weapons",
+      "link": "http://www.africanews.com/2026/09/25/macron-and-pope-leo-xiv-unite-on-ai-risks-and-nuclear-weapons/",
+      "source": "Africanews",
+      "published": "2026-09-25T20:06:26.000Z",
+      "summary": "The French leader called on international oversight to ensure the most advanced systems mankind has ever created, are not controlled by a small number of powerful actors, or get used as…"
+    },
+    {
+      "title": "Afghan taxi drivers defy the Taliban’s music ban",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/afghan-taxi-drivers-defy-the-talibans-music-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T20:42:47.000Z",
+      "summary": "Afghan taxi drivers are playing music in their cars despite it being banned by the Taliban."
+    },
+    {
+      "title": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+      "link": "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "source": "France 24",
+      "published": "2026-09-25T19:57:30.000Z",
+      "summary": "Armed with paper fortune-tellers and pop worship songs, young French Catholics from the Anuncio movement fanned out into the crowds awaiting Pope Leo XIV's arrival in Paris on Friday…",
+      "image": "https://s.france24.com/media/display/6f6e94dc-b91d-11f1-a688-91cf9f3cd539/w:1024/p:16x9/Pope-3.jpg"
+    },
+    {
+      "title": "Which countries walked out of Netanyahu’s UNGA speech?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T19:50:00.000Z",
+      "summary": "Which countries walked out of Netanyahu’s UNGA speech?"
+    },
+    {
+      "title": "Leo XIV in Paris: A look at the vespers evening prayer at Notre-Dame",
+      "link": "https://www.france24.com/en/video/20260925-leo-xiv-in-paris-a-look-at-the-vespers-evening-prayer-at-notre-dame",
+      "source": "France 24",
+      "published": "2026-09-25T19:46:26.000Z",
+      "summary": "On Friday, Pope Leo XIV praised the \"splendor\" of Notre-Dame de Paris, which has been restored following the devastating fire of 2019, saying \"the heart of a people\" beats within this…",
+      "image": "https://s.france24.com/media/display/d3fc2cd8-b919-11f1-bbf4-8f3418d01115/w:1024/p:16x9/EN-Notre-Dame-thumb000.png"
+    },
+    {
+      "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T19:48:37.000Z",
+      "summary": "Dozens of countries’ delegations walked out of or were absent for Israeli PM Benjamin Netanyahu’s UNGA speech."
+    },
+    {
+      "title": "UN receives just one-fifth of funds needed to prepare for El Niño crisis",
+      "link": "http://www.africanews.com/2026/09/25/un-receives-just-one-fifth-of-funds-needed-to-prepare-for-el-nino-crisis/",
+      "source": "Africanews",
+      "published": "2026-09-25T19:24:13.000Z",
+      "summary": "The United Nations says it has received just one-fifth of the funding needed to prepare for food crises linked to the El Niño weather phenomenon."
+    },
+    {
+      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T19:38:21.000Z",
+      "summary": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81."
+    },
+    {
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T19:13:35.000Z",
+      "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg"
+    },
+    {
+      "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
+      "link": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T19:24:46.000Z",
+      "summary": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion."
+    },
+    {
+      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+      "source": "NPR World",
+      "published": "2026-09-25T19:11:47.000Z",
+      "summary": "The visit comes at an important time for both men.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3653x2435+0+0/resize/3653x2435!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F38%2F97ce22624b4c96a4c2989507b836%2Fgettyimages-2297112576.jpg"
+    },
+    {
+      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+      "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T19:21:57.000Z",
+      "summary": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli."
+    },
+    {
+      "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
+      "link": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-25T18:56:00.000Z",
+      "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the…"
+    },
+    {
+      "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T19:11:03.000Z",
+      "summary": "Iraq has suspended Iranian flights at all four airports where they operated"
+    },
+    {
+      "title": "Pope in Paris, Xi in DC, AI at a Crossroads",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads",
+      "source": "France 24",
+      "published": "2026-09-25T18:52:55.000Z",
+      "summary": "It’s been a week of walkouts, power plays and diplomatic theatre — from a battle over press freedom in Washington, to a United Nations General Assembly marked by protests and departures, as…",
+      "image": "https://s.france24.com/media/display/93dacb3a-b911-11f1-9a83-555a0aff87a4/w:1024/p:16x9/Untitled-Sequence-02-1.jpg"
+    },
+    {
+      "title": "Will Turkiye end its military presence in northern Iraq?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T19:06:54.000Z",
+      "summary": "Ankara agrees to gradually hand over a base in Sinjar."
+    },
+    {
       "title": "Media outlets banned by Trump resume White House coverage after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1114,12 +1297,12 @@ window.GDC_NEWS = {
       "summary": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector."
     },
     {
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's plans for massive arch move ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-09-25T18:29:28.000Z",
-      "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg"
+      "published": "2026-09-25T18:27:46.000Z",
+      "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg"
     },
     {
       "title": "India’s Cockroach movement joins opposition push to oust election chief",
@@ -1158,7 +1341,7 @@ window.GDC_NEWS = {
       "summary": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting."
     },
     {
-      "title": "EU releases €6.6 billion for members arming Ukraine as five killed in Kyiv",
+      "title": "EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv",
       "link": "https://www.france24.com/en/europe/20260925-eu-releases-%E2%82%AC6-6-billion-for-members-arming-ukraine-as-five-killed-in-kyiv",
       "source": "France 24",
       "published": "2026-09-25T17:09:55.000Z",
@@ -1173,12 +1356,12 @@ window.GDC_NEWS = {
       "summary": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement."
     },
     {
-      "title": "US Supreme Court allows Trump to use controversial voter 'verification' system",
-      "link": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+      "title": "Lots of pomp but little progress as Trump and Xi end state visit to DC",
+      "link": "https://www.france24.com/en/americas/20260925-lots-of-pomp-but-no-progress-as-trump-and-xi-end-state-visit",
       "source": "France 24",
-      "published": "2026-09-25T16:52:32.000Z",
-      "summary": "The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics…",
-      "image": "https://s.france24.com/media/display/477530d0-b8fa-11f1-8e25-c959b9d22ec6/w:1024/p:16x9/AP26254125465273.jpg"
+      "published": "2026-09-25T16:58:08.000Z",
+      "summary": "US President Donald Trump and Chinese leader Xi Jinping capped a state visit to Washington on Friday with pomp and pageantry but no real breakthroughs. Trump said he discussed the Iran war…",
+      "image": "https://s.france24.com/media/display/48138eda-b902-11f1-bd61-852b23529bb9/w:1024/p:16x9/61407f68b9f8f6478e2b8020a9dcf60bd0b6e405.jpg"
     },
     {
       "title": "Lebanese in Brazil, Brazilian in Lebanon",
@@ -1188,11 +1371,12 @@ window.GDC_NEWS = {
       "summary": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared."
     },
     {
-      "title": "Over 55,000 Sudanese refugees fled to east Chad this year: UN",
-      "link": "http://www.africanews.com/2026/09/25/over-55000-sudanese-refugees-fled-to-east-chad-this-year-un/",
-      "source": "Africanews",
-      "published": "2026-09-25T16:43:49.000Z",
-      "summary": "More than 55,000 Sudanese refugees have crossed into eastern Chad since the start of the year, the United Nations said Friday, warning that the displacement was accelerating even as aid…"
+      "title": "US Supreme Court allows Trump to use controversial voter 'verification' system",
+      "link": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+      "source": "France 24",
+      "published": "2026-09-25T16:52:32.000Z",
+      "summary": "The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics…",
+      "image": "https://s.france24.com/media/display/477530d0-b8fa-11f1-8e25-c959b9d22ec6/w:1024/p:16x9/AP26254125465273.jpg"
     },
     {
       "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
@@ -1202,197 +1386,11 @@ window.GDC_NEWS = {
       "summary": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says."
     },
     {
-      "title": "Pope Leon XIV greets crowds on 'popemobile' ride through Paris",
-      "link": "https://www.france24.com/en/video/20260925-pope-leon-xiv-greets-crowds-on-popemobile-ride-through-paris",
-      "source": "France 24",
-      "published": "2026-09-25T16:23:03.000Z",
-      "summary": "Enthused believers hailed Pope Leo XIV as he waved to the crowds from a 'popemobile' in the French capital on Friday, after speeches calling for peace and warning against losing humanity in…",
-      "image": "https://s.france24.com/media/display/7bf5509a-b8fc-11f1-84e5-852b23529bb9/w:1024/p:16x9/Thumb-popemobile-V2.png"
-    },
-    {
-      "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
-      "link": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:20:58.000Z",
-      "summary": "City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023."
-    },
-    {
-      "title": "Common and Public Enemy honoured at Black Music Action Coalition Awards",
-      "link": "http://www.africanews.com/2026/09/25/common-and-public-enemy-honoured-at-black-music-action-coalition-awards/",
+      "title": "Over 55,000 Sudanese refugees fled to east Chad this year: UN",
+      "link": "http://www.africanews.com/2026/09/25/over-55000-sudanese-refugees-fled-to-east-chad-this-year-un/",
       "source": "Africanews",
-      "published": "2026-09-25T16:03:06.000Z",
-      "summary": "The Black Music Action Coalition honored rap artists Common and Public Enemy at their 6th annual BMAC Gala Thursday."
-    },
-    {
-      "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
-      "link": "https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:18:35.000Z",
-      "summary": "Singer's tour has faced numerous setbacks after expulsion of rapper Macklemore over support for Palestine drew backlash."
-    },
-    {
-      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-      "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-      "source": "NPR World",
-      "published": "2026-09-25T15:57:35.000Z",
-      "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3750+0+0/resize/5000x3750!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fc1%2F28098e704f97bdaa12c607baf7b0%2Fcovid-dna-1203072511.jpg"
-    },
-    {
-      "title": "US court upholds Pentagon’s blacklisting of Anthropic",
-      "link": "https://www.aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:03:52.000Z",
-      "summary": "Conflict began in February when Anthropic refused to remove restrictions on use of Claude for fully autonomous weapons."
-    },
-    {
-      "title": "Students strike across Germany in protest against military service",
-      "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-25T15:36:22.000Z",
-      "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58af/live/7383ad60-b8ef-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "Netanyahu’s UN belligerence wins cheers at home as world walks out",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/25/netanyahus-un-belligerence-wins-cheers-at-home-as-world-walks-out?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:03:03.000Z",
-      "summary": "Israeli PM's defiant UN speech alienated critics abroad but delighted his base as elections draw near."
-    },
-    {
-      "title": "Pope Leo XIV leads Vespers at Notre-Dame Cathedral in Paris",
-      "link": "https://www.france24.com/en/pope-leo-xiv-leads-vespers-at-notre-dame-cathedral-in-paris",
-      "source": "France 24",
-      "published": "2026-09-25T15:33:08.000Z",
-      "summary": "Watch our special FRANCE 24 edition as Pope Leo XIV leads Vespers at Notre-Dame Cathedral on September 25 during his visit to Paris. Our journalists followed the event live from outside the…",
-      "image": "https://s.france24.com/media/display/3eb519d8-b8f5-11f1-a616-11fa9f8a3b4f/w:1024/p:16x9/EN-20260925-165914-171005-CS.jpg"
-    },
-    {
-      "title": "Israeli shelling continues as Lebanon’s PM demands withdrawal in UN speech",
-      "link": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T16:57:39.000Z",
-      "summary": "Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat."
-    },
-    {
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-25T15:29:48.000Z",
-      "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8b/live/842c9760-b8f1-11f1-a698-ff5dd8cb1a06.jpg"
-    },
-    {
-      "title": "Ethiopia’s new rebel alliance faces an old problem",
-      "link": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T16:10:55.000Z",
-      "summary": "Former enemies have united against Abiy Ahmed, but disputes over territory, power and command could pull them apart."
-    },
-    {
-      "title": "Pope Leo XIV rides through Paris in the popemobile to Notre-Dame",
-      "link": "https://www.france24.com/en/pope-leo-xiv-rides-through-paris-in-the-popemobile-to-notre-dame",
-      "source": "France 24",
-      "published": "2026-09-25T15:23:20.000Z",
-      "summary": "Watch our special FRANCE 24 coverage of Pope Leo XIV's visit to Paris as the pontiff travelled through the French capital in the popemobile on his way to Notre-Dame Cathedral, where our…",
-      "image": "https://s.france24.com/media/display/71bd8c82-b8f2-11f1-b869-8f3418d01115/w:1024/p:16x9/2026-09-25T145322Z-771772986-RC2EQNAQOUHM-RTRMADP-3-POPE-FRANCE.jpg"
-    },
-    {
-      "title": "More than 55,000 Sudanese refugees flee to Chad as UN calls for funding",
-      "link": "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T16:06:45.000Z",
-      "summary": "UN refugee agency says 400 people a day, about 20 times the previous daily rate, now cross from Sudan into eastern Chad."
-    },
-    {
-      "title": "Trump-Xi summit: Pomp and pageantry, but few concrete breakthroughs",
-      "link": "http://www.africanews.com/2026/09/25/trump-xi-summit-pomp-and-pageantry-but-few-concrete-breakthroughs/",
-      "source": "Africanews",
-      "published": "2026-09-25T15:21:45.000Z",
-      "summary": "On AI, Trump and Xi signalled differing approaches, with Xi stressing that the technology should remain under human control."
-    },
-    {
-      "title": "LIVE: Turkiye vs France – UEFA Nations League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:47:07.000Z",
-      "summary": "Follow the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage."
-    },
-    {
-      "title": "America at 250: From the American dream to book bans and AI",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20260925-america-at-250-from-the-american-dream-to-book-bans-and-ai",
-      "source": "France 24",
-      "published": "2026-09-25T15:17:40.000Z",
-      "summary": "As the United States marks its 250th anniversary, its founding promises, identity and place in the world are being fiercely debated. As the Festival America in Vincennes gets underway…",
-      "image": "https://s.france24.com/media/display/471dc3c4-b8f3-11f1-b723-555a0aff87a4/w:1024/p:16x9/capture-10653557876ab68ef3282f08-05647161.jpg"
-    },
-    {
-      "title": "What the Trump-Xi meeting revealed about global power",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:26:56.000Z",
-      "summary": "Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York."
-    },
-    {
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-25T15:06:41.000Z",
-      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/5ddfe0d0-b8c4-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "Trump hails ‘very productive’ talks with China’s Xi",
-      "link": "https://www.aljazeera.com/news/2026/9/25/trump-hails-very-productive-talks-with-chinas-xi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:19:34.000Z",
-      "summary": "Xi says future of China-US ties 'bright' after state visit that included discussions about Iran and AI cooperation."
-    },
-    {
-      "title": "EU vows to pursue €120 million fine on X after US backs Musk's court challenge",
-      "link": "https://www.france24.com/en/europe/20260925-eu-vows-to-pursue-%E2%82%AC120-million-fine-on-x-after-us-backs-musk-s-court-challenge",
-      "source": "France 24",
-      "published": "2026-09-25T15:01:34.000Z",
-      "summary": "The European Union on Friday said it will pursue a €120 million fine against the X social network after the US Justice Department said it supported the efforts of X owner Elon Musk to have…",
-      "image": "https://s.france24.com/media/display/f01d8900-b8e9-11f1-b5cc-852b23529bb9/w:1024/p:16x9/AP24047480894574.jpg"
-    },
-    {
-      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:07:48.000Z",
-      "summary": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’."
-    },
-    {
-      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "source": "NPR World",
-      "published": "2026-09-25T14:55:12.000Z",
-      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6177x4118+0+0/resize/6177x4118!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Ff8%2F47e40dfe42668087f048cdf8fedf%2Fap26268410442066.jpg"
-    },
-    {
-      "title": "Iraq calls for a ‘sovereign Palestinian state’ at UNGA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iraq-calls-for-a-sovereign-palestinian-state-at-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:03:22.000Z",
-      "summary": "Iraqi Prime Minister Ali Falih Al-Zaidi called for a sovereign state of Palestine at the 81st session of the UNGA."
-    },
-    {
-      "title": "REPLAY: Pope Leo XIV's address at UNESCO",
-      "link": "https://www.france24.com/en/replay-pope-leo-xiv-s-address-at-unesco",
-      "source": "France 24",
-      "published": "2026-09-25T14:54:59.000Z",
-      "summary": "Watch the replay of Pope Leo XIV's address at UNESCO on September 25, 2026 where he spoke about peace, culture, AI and international cooperation during the first stop of his France visit.",
-      "image": "https://s.france24.com/media/display/a7c52750-b8ec-11f1-9da8-91cf9f3cd539/w:1024/p:16x9/EN-20260925-153925-161001-CS.jpg"
-    },
-    {
-      "title": "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
-      "link": "https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T14:47:49.000Z",
-      "summary": "China's Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games."
+      "published": "2026-09-25T16:43:49.000Z",
+      "summary": "More than 55,000 Sudanese refugees have crossed into eastern Chad since the start of the year, the United Nations said Friday, warning that the displacement was accelerating even as aid…"
     }
   ],
   "africa": [
@@ -1539,11 +1537,11 @@ window.GDC_NEWS = {
       "summary": "Critics have questioned whether credible elections can be held in just three months, amid concerns over security, political space and the absence of a permanent constitution."
     },
     {
-      "title": "Why Eritrea matters as fighting returns to Tigray",
-      "link": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-25T13:34:00.000Z",
-      "summary": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing."
+      "title": "Africa: UN Secretary-General Launches Global Grids Accelerator to Power Growth and Clean Energy in Africa and South-East Asia",
+      "link": "https://allafrica.com/stories/202609250369.html",
+      "source": "AllAfrica",
+      "published": "2026-09-25T13:43:07.000Z",
+      "summary": "[African Development Bank (AfDB)] UN Secretary-General António Guterres today launched the Global Grids Accelerator, a new initiative to help accelerate investment in electricity…"
     },
     {
       "title": "Analyst warns Ethiopia fighting could widen into regional conflict",
@@ -1553,8 +1551,8 @@ window.GDC_NEWS = {
       "summary": "Renewed fighting in northern Ethiopia could spread beyond Tigray and destabilize the wider Horn of Africa, an International Crisis Group analyst warned"
     },
     {
-      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
-      "link": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-africa-8291-rdf",
+      "title": "Why Eritrea matters as fighting returns to Tigray",
+      "link": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582?maca=en-rss-en-africa-8291-rdf",
       "source": "Deutsche Welle",
       "published": "2026-09-25T13:34:00.000Z",
       "summary": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing."
@@ -1567,11 +1565,11 @@ window.GDC_NEWS = {
       "summary": "[Capital FM] Nairobi -- Kenya's push to commence commercial crude oil production by the end of 2026 has gained momentum following the arrival of an onshore drilling rig for the South…"
     },
     {
-      "title": "South Africa: Former President's Wife Sounds Alarm On Rising Gender-Based Violence",
-      "link": "https://allafrica.com/stories/202609250326.html",
-      "source": "AllAfrica",
-      "published": "2026-09-25T13:14:32.000Z",
-      "summary": "[Scrolla] Thobeka Madiba-Zuma, wife of former President Jacob Zuma, has called on government to strengthen public safety measures to combat rising gender-based violence. She was speaking at…"
+      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
+      "link": "https://www.dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-25T13:34:00.000Z",
+      "summary": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing."
     },
     {
       "title": "Nigeria: Sterling Financial Optimises Capital Structure",
@@ -1581,11 +1579,11 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] The reclassification leaves total shareholders' funds unchanged"
     },
     {
-      "title": "Namibia: Namibia Beefs With FMD",
-      "link": "https://allafrica.com/stories/202609250316.html",
+      "title": "South Africa: Former President's Wife Sounds Alarm On Rising Gender-Based Violence",
+      "link": "https://allafrica.com/stories/202609250326.html",
       "source": "AllAfrica",
-      "published": "2026-09-25T13:11:22.000Z",
-      "summary": "[New Era] As the only African country concurrently holding beef export access to the lucrative EU, United States, China and Norwegian markets, Namibia might face a tough time, one…"
+      "published": "2026-09-25T13:14:32.000Z",
+      "summary": "[Scrolla] Thobeka Madiba-Zuma, wife of former President Jacob Zuma, has called on government to strengthen public safety measures to combat rising gender-based violence. She was speaking at…"
     },
     {
       "title": "South Africa: Ramokgopa Promises Plan to Ensure Poor Households Get Free Electricity",
@@ -1595,11 +1593,11 @@ window.GDC_NEWS = {
       "summary": "[Scrolla] Minister Kgosientsho Ramokgopa wants Eskom to pay free basic electricity directly to households, cutting municipalities out of the process. He says municipalities receive R21…"
     },
     {
-      "title": "African-American artist’s work celebrated in travelling retrospective",
-      "link": "http://www.africanews.com/2026/09/25/african-american-artists-work-celebrated-in-travelling-retrospective/",
-      "source": "Africanews",
-      "published": "2026-09-25T12:38:33.000Z",
-      "summary": "Kerry James Marshall's arguably done more than any living artist to bring black figures into Western galleries"
+      "title": "Namibia: Namibia Beefs With FMD",
+      "link": "https://allafrica.com/stories/202609250316.html",
+      "source": "AllAfrica",
+      "published": "2026-09-25T13:11:22.000Z",
+      "summary": "[New Era] As the only African country concurrently holding beef export access to the lucrative EU, United States, China and Norwegian markets, Namibia might face a tough time, one…"
     },
     {
       "title": "Namibia: Will Fima Make Small Pension Funds Too Expensive to Run?",
@@ -1609,11 +1607,11 @@ window.GDC_NEWS = {
       "summary": "[New Era] Every trustee of a small or stand-alone pension fund should ask: Can our fund and members afford to comply with FIMA and remain economically viable?"
     },
     {
-      "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
-      "link": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T12:30:05.000Z",
-      "summary": "Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people."
+      "title": "African-American artist’s work celebrated in travelling retrospective",
+      "link": "http://www.africanews.com/2026/09/25/african-american-artists-work-celebrated-in-travelling-retrospective/",
+      "source": "Africanews",
+      "published": "2026-09-25T12:38:33.000Z",
+      "summary": "Kerry James Marshall's arguably done more than any living artist to bring black figures into Western galleries"
     },
     {
       "title": "East Africa: East Africa's Premier Mum & Baby Event Returns - Baby Banda Pregnancy & Baby Fair Marks 18th Year",
@@ -1623,11 +1621,11 @@ window.GDC_NEWS = {
       "summary": "[Capital FM] Baby Banda is East and Central Africa's leading mum and baby brand, launched in 2008 to support mothers through pregnancy, birth and early parenthood."
     },
     {
-      "title": "KoBold Metals uses AI to search for critical minerals in Congo",
-      "link": "http://www.africanews.com/2026/09/25/kobold-metals-uses-ai-to-search-for-critical-minerals-in-congo/",
-      "source": "Africanews",
-      "published": "2026-09-25T12:29:59.000Z",
-      "summary": "A US mining company is using artificial intelligence to search for critical minerals in the Democratic Republic of Congo."
+      "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
+      "link": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T12:30:05.000Z",
+      "summary": "Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people."
     },
     {
       "title": "Uganda: Uganda Cancer Institute Just Got a New Look. Here's Why That's a Bigger Deal Than It Sounds",
@@ -1637,11 +1635,11 @@ window.GDC_NEWS = {
       "summary": "[Nile Post] Walk past the Uganda Cancer Institute's (UCI) social media pages this month and something looks off. Not wrong but off, in the way it takes a second to register. The photos are…"
     },
     {
-      "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T12:08:16.000Z",
-      "summary": "Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray."
+      "title": "KoBold Metals uses AI to search for critical minerals in Congo",
+      "link": "http://www.africanews.com/2026/09/25/kobold-metals-uses-ai-to-search-for-critical-minerals-in-congo/",
+      "source": "Africanews",
+      "published": "2026-09-25T12:29:59.000Z",
+      "summary": "A US mining company is using artificial intelligence to search for critical minerals in the Democratic Republic of Congo."
     },
     {
       "title": "Uganda: Govt Eyes Ai Tool to Tackle Rising Nude, Explicit Content On Social Media",
@@ -1651,11 +1649,11 @@ window.GDC_NEWS = {
       "summary": "[Nile Post] The Government is in the process of acquiring an Artificial Intelligence-powered system to help curb adult and offensive content being shared on social media and other digital…"
     },
     {
-      "title": "Nigeria and US sign deal to increase mining investment",
-      "link": "http://www.africanews.com/2026/09/24/nigeria-and-us-sign-deal-to-increase-mining-investment/",
-      "source": "Africanews",
-      "published": "2026-09-25T12:04:38.000Z",
-      "summary": "Nigeria and the United States on Wednesday signed a framework agreement to \"deepen American investment\" in the West African's country mining sector. Nigeria says its mineral resources are…"
+      "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T12:08:16.000Z",
+      "summary": "Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray."
     },
     {
       "title": "Liberia: Maryland Rubber Stakeholders Urged to Strengthen Local Market",
@@ -1665,11 +1663,11 @@ window.GDC_NEWS = {
       "summary": "[New Dawn] PLEEBO, Maryland County, September 24, 2026: The Chairman of the National Rubber Brokers and Farmers Union of Liberia, Maryland Branch, Wellington Kyne, has called for stronger…"
     },
     {
-      "title": "Niger signs deal with Australian group to relaunch uranium project",
-      "link": "http://www.africanews.com/2026/09/24/niger-signs-deal-with-australian-group-to-relaunch-uranium-project/",
+      "title": "Nigeria and US sign deal to increase mining investment",
+      "link": "http://www.africanews.com/2026/09/24/nigeria-and-us-sign-deal-to-increase-mining-investment/",
       "source": "Africanews",
-      "published": "2026-09-25T12:03:53.000Z",
-      "summary": "Niger authorities said Wednesday they have signed a new agreement with the Madaouela Mining Company, which is 60% owned by the Australian Atomic Eagle group, to relaunch a uranium mining…"
+      "published": "2026-09-25T12:04:38.000Z",
+      "summary": "Nigeria and the United States on Wednesday signed a framework agreement to \"deepen American investment\" in the West African's country mining sector. Nigeria says its mineral resources are…"
     },
     {
       "title": "Nigeria: Nigeria, U.S. Sign Framework to Unlock Investment in $700bn Minerals Sector",
