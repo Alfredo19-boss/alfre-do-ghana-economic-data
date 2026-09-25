@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-24T21:26:43.093Z",
+  "updated": "2026-09-24T23:58:21.845Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,38 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Côte d’Ivoire 2-0 Ghana: Sibo earns lowest mark as Boakye takes opportunity – Black Stars ratings",
+      "link": "https://www.myjoyonline.com/cote-divoire-2-0-ghana-sibo-earns-lowest-mark-as-boakye-takes-opportunity-black-stars-ratings/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T21:58:54.000Z",
+      "summary": "Ghana’s quest to return to the Africa Cup of Nations got off to a false start after losing 2-0 to Côte d’Ivoire in Bouaké in their opening game of the 2027 edition qualifiers. A first-half…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "2027 AFCON Qualifiers",
+        "Adamu Benin Abdul Karim",
+        "Black Stars",
+        "Côte d’Ivoire"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Cote-dIvoire-2-0-Ghana.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Stance considering autonomy under Moroccan sovereignty ‘could constitute most feasible solution’",
+      "link": "https://www.myjoyonline.com/stance-considering-autonomy-under-moroccan-sovereignty-could-constitute-most-feasible-solution/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T21:37:51.000Z",
+      "summary": "It follows talks held on the sidelines of the 81st session of the United Nations General Assembly.",
+      "categories": [
+        "International",
+        "Jamaica",
+        "Morocco"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-22.55.06.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AFCON 2027Q: Black Stars open campaign with defeat to Ivory Coast in Bouaké",
       "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-open-campaign-with-defeat-to-ivory-coast-in-bouake/",
@@ -123,38 +155,6 @@ window.GDC_PAPERS = {
         "Ghana TVET Service"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-17.58.50-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana TVET Service, OR Foundation partner to promote sustainable fashion",
-      "link": "https://www.myjoyonline.com/ghana-tvet-service-or-foundation-partner-to-promote-sustainable-fashion/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T19:35:35.000Z",
-      "summary": "The Ghana TVET Service has partnered with The OR Foundation to promote sustainable fashion and circular design as part of National TVET Week 2026.",
-      "categories": [
-        "National",
-        "News",
-        "Ghana TVET Service",
-        "The Or Foundation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-18.15.15-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Achimota, Accra Academy, PRESEC Osu qualify for next stage of National Public Speaking Event",
-      "link": "https://www.myjoyonline.com/achimota-accra-academy-presec-osu-qualify-for-next-stage-of-national-public-speaking-event/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T19:32:38.000Z",
-      "summary": "The Greater Accra National Public Speaking Event held at PRESEC Legon saw Achimota School, Accra Academy, and PRESEC Osu emerge as the winners and secure their places in the next stage of…",
-      "categories": [
-        "Education",
-        "National",
-        "Accra Academy",
-        "Achimota School",
-        "Greater Accra National Public Speaking Event",
-        "PRESEC Osu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-19.05.39-1-1024x724.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
