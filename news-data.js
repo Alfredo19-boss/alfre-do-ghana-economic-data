@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-24T23:58:03.870Z",
-  "worldAt": "2026-09-24T23:58:03.867Z",
+  "updated": "2026-09-25T03:39:42.943Z",
+  "worldAt": "2026-09-25T03:39:42.941Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,7 +26,7 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
@@ -42,10 +42,38 @@ window.GDC_NEWS = {
     "Africa · Africanews: 34 stories",
     "Africa · BBC Africa: 29 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 5 stories",
+    "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Policy rate hike ideal, but would hurt businesses amid rising fuel, utility costs – Prof Quartey",
+      "link": "https://www.myjoyonline.com/policy-rate-hike-ideal-but-would-hurt-businesses-amid-rising-fuel-utility-costs-prof-quartey/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T02:37:00.000Z",
+      "summary": "Economist Professor Peter Quartey has backed the Bank of Ghana’s decision to maintain the policy rate at 14%."
+    },
+    {
+      "title": "The Acronymic Totemism: Political Party Names, Superstitions, and Elections in Africa",
+      "link": "https://thehighstreetjournal.com/the-acronymic-totemism-political-party-names-superstitions-and-elections-in-africa/",
+      "source": "The High Street Journal",
+      "published": "2026-09-25T02:10:46.000Z",
+      "summary": "By Rebecca Akatue Yakubu (PhD) Introduction In Africa, political party names and acronyms are far more than organizational labels. They operate as symbolic artifacts imbued with historical…"
+    },
+    {
+      "title": "Rolls-Royce signs ‘multi-million’ engine deal",
+      "link": "https://www.myjoyonline.com/rolls-royce-signs-multi-million-engine-deal/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T23:30:00.000Z",
+      "summary": "Rolls-Royce has moved forward with a deal to power a new fleet of Airbus long-haul jets for Philippine Airlines."
+    },
+    {
+      "title": "Global oil prices could go up further – Prof Quartey backs BoG’s 14% policy rate",
+      "link": "https://www.myjoyonline.com/global-oil-prices-could-go-up-further-prof-quartey-backs-bogs-14-policy-rate/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-24T23:18:00.000Z",
+      "summary": "Economist Professor Peter Quartey has backed the Bank of Ghana (BoG)’s decision to maintain its policy rate at 14%, citing rising global oil prices and persistent inflationary threats."
+    },
     {
       "title": "Asanko Gold supports 80 farmers with agricultural inputs",
       "link": "https://www.graphic.com.gh/news/general-news/asanko-gold-supports-80-farmers-with-agricultural-inputs.html",
@@ -1067,37 +1095,106 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-22T12:43:07.000Z",
       "summary": "Brent crude falls below $99 as hopes of a Strait of Hormuz reopening ease supply concerns, extending losses to a fifth consecutive session."
-    },
-    {
-      "title": "Investor sentiment towards banking stocks to remain positive",
-      "link": "https://www.myjoyonline.com/investor-sentiment-towards-banking-stocks-to-remain-positive/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T12:29:18.000Z",
-      "summary": "The report stated that although non-performing loan (NPL) ratios remain above the Bank of Ghana’s regulatory threshold for some banks, it expects asset quality to improve further as credit…"
-    },
-    {
-      "title": "GIRSAL calls for affordable financing and technical support for Ghana’s smallholder farmers",
-      "link": "https://www.myjoyonline.com/girsal-calls-for-affordable-financing-and-technical-support-for-ghanas-smallholder-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T12:23:51.000Z",
-      "summary": "The Chief Operating Officer of GIRSAL Ltd, Samuel Yeboah, has called for affordable and accessible financing for smallholder farmers, while urging stakeholders in the agricultural sector to…"
-    },
-    {
-      "title": "Ghana Industries & Manufacturing Awards 2026 highlights local trade, industrial, growth and quality manufacturing",
-      "link": "https://www.myjoyonline.com/ghana-industries-manufacturing-awards-2026-highlights-local-trade-industrial-growth-and-quality-manufacturing/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-22T12:06:51.000Z",
-      "summary": "The 2026 GIMA also provided an international platform for diplomatic and development representatives to share perspectives on opportunities available to Ghanaian businesses and the…"
-    },
-    {
-      "title": "Addressing Ghana’s Prohibitive Domestic Airfares: What Gov’t Should Do",
-      "link": "https://thehighstreetjournal.com/addressing-ghanas-prohibitive-domestic-airfares-what-govt-should-do/",
-      "source": "The High Street Journal",
-      "published": "2026-09-22T12:04:00.000Z",
-      "summary": "Appiah Kusi Adomako urges government to cut airport charges, benchmark aviation costs, attract low-cost carriers and strengthen competition oversight to reduce Ghana’s domestic airfares…"
     }
   ],
   "world": [
+    {
+      "title": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T02:35:53.000Z",
+      "summary": "Rights groups accuse UN of hosting a 'war criminal' as delegations walk out during Israeli prime minister's speech."
+    },
+    {
+      "title": "Argentina's poverty rate climbs to nearly one in three under Milei",
+      "link": "https://www.france24.com/en/americas/20260925-argentina-poverty-rate-nearly-one-in-three-milei",
+      "source": "France 24",
+      "published": "2026-09-25T02:30:02.000Z",
+      "summary": "Argentina’s poverty rate rose to 32.3% in the first half of 2026 from 28.2% in the previous six months, official data showed on Thursday, as incomes lagged rising prices. Extreme poverty…",
+      "image": "https://s.france24.com/media/display/8c52abc8-9aa6-11f1-a07f-005056a90284/w:1024/p:16x9/AP26061025634978.jpg"
+    },
+    {
+      "title": "Contrasting treatment of Israel and Palestine on display at the UN",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T02:26:16.000Z",
+      "summary": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant."
+    },
+    {
+      "title": "Live: Pope heads to France on first state visit in 18 years",
+      "link": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
+      "source": "France 24",
+      "published": "2026-09-25T01:57:04.000Z",
+      "summary": "Pope Leo XIV flies to France on Friday for the Vatican's first state visit to the European nation in 18 years, with artificial intelligence and young believers near the top of his agenda…",
+      "image": "https://s.france24.com/media/display/1db82c6a-b865-11f1-8afe-91cf9f3cd539/w:1024/p:16x9/AP26266308128654.jpg"
+    },
+    {
+      "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+      "link": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T02:24:16.000Z",
+      "summary": "Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA."
+    },
+    {
+      "title": "Nepal’s catastrophic floods were ‘warning to the world,’ PM Shah tells UN",
+      "link": "https://www.france24.com/en/asia-pacific/20260925-nepal-floods-warning-world-pm-shah-un",
+      "source": "France 24",
+      "published": "2026-09-25T01:42:59.000Z",
+      "summary": "Nepal’s Prime Minister Balendra Shah said on Thursday that last month’s catastrophic floods were a “warning to the world” of growing climate risks in the Himalayas. He said warming was…",
+      "image": "https://s.france24.com/media/display/076076f0-b87b-11f1-98d9-91cf9f3cd539/w:1024/p:16x9/AP26268010715411.jpg"
+    },
+    {
+      "title": "Meloni government bans burqas, caps foreign students in Italian schools",
+      "link": "https://www.aljazeera.com/news/2026/9/25/meloni-government-bans-burqas-caps-foreign-students-in-italian-schools?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T02:07:29.000Z",
+      "summary": "Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election."
+    },
+    {
+      "title": "The world’s two most powerful men just met. How did it go?",
+      "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T01:27:10.000Z",
+      "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0694/live/bcd32e70-b87f-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
+      "link": "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T02:00:16.000Z",
+      "summary": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade."
+    },
+    {
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T01:10:35.000Z",
+      "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+      "link": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T00:38:13.000Z",
+      "summary": "Forty-nine passengers have been rescued and a search is under way for the missing."
+    },
+    {
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T00:44:04.000Z",
+      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+      "link": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T00:35:51.000Z",
+      "summary": "Luiz Inacio Lula da Silva is up two points, but that's still within the poll's margin of error."
+    },
     {
       "title": "Live: Iran's President says US ‘must choose’ whether to end war",
       "link": "https://www.france24.com/en/americas/20260924-live-iran-pezeshkian-us-war-yemen",
@@ -1105,6 +1202,28 @@ window.GDC_NEWS = {
       "published": "2026-09-24T23:52:57.000Z",
       "summary": "It is for the United States to choose whether to end its war in Iran as Tehran does not wish to continue fighting, Iranian President Masoud Pezeshkian told Fox News in an interview aired…",
       "image": "https://s.france24.com/media/display/459e3c16-a5d6-11f1-8b01-005056bf30b7/w:1024/p:16x9/585ee05b5fd079cb8b37bd8a44e5f1e81f5df486.jpg"
+    },
+    {
+      "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+      "link": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T00:24:47.000Z",
+      "summary": "UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines."
+    },
+    {
+      "title": "Live: Iran's President says US ‘must choose’ whether to end war",
+      "link": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
+      "source": "France 24",
+      "published": "2026-09-24T23:52:57.000Z",
+      "summary": "It is for the United States to choose whether to end its war in Iran as Tehran does not wish to continue fighting, Iranian President Masoud Pezeshkian told Fox News in an interview aired…",
+      "image": "https://s.france24.com/media/display/459e3c16-a5d6-11f1-8b01-005056bf30b7/w:1024/p:16x9/585ee05b5fd079cb8b37bd8a44e5f1e81f5df486.jpg"
+    },
+    {
+      "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
+      "link": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T00:23:24.000Z",
+      "summary": "A 4.1-percentage-point rise in poverty in the first half of 2026 could be bad news for Milei's re-election bid."
     },
     {
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
@@ -1115,27 +1234,26 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c4/live/d45fc990-b839-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
+      "title": "Iran war live: Saudi, Turkiye and Pakistan plan emergency military meeting",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T00:00:00.000Z",
+      "summary": "Saudi, Turkiye and Pakistan plan urgent military meeting over Houthi attacks."
+    },
+    {
       "title": "Saudi reports fresh Houthi attacks as France pledges to defend key oil port",
       "link": "https://www.france24.com/en/middle-east/20260924-saudi-houthi-attacks-france-oil-port",
       "source": "France 24",
       "published": "2026-09-24T23:34:29.000Z",
       "summary": "Saudi Arabia intercepted Houthi ballistic missiles on Thursday after warning several regions, including Mecca, of possible attacks. France said it would send military assets to help protect…",
-      "image": "https://s.france24.com/media/display/824ac65c-b206-11f1-83d2-757719c1152f/w:1024/p:16x9/000-C8H2794.jpg"
+      "image": "https://s.france24.com/media/display/114b2c58-b873-11f1-b5fe-11fa9f8a3b4f/w:1024/p:16x9/000-B93J4NX.jpg"
     },
     {
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T23:32:51.000Z",
-      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
-      "link": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
+      "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
+      "link": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T23:29:03.000Z",
-      "summary": "President Fernandez dismisses foreign minister over his attendance at the \"Shield of the Americas\" meeting in New York."
+      "published": "2026-09-24T23:51:56.000Z",
+      "summary": "Trump, Xi seek stable US-China ties at the White House, but differences over Iran, Taiwan and trade remain unresolved."
     },
     {
       "title": "Hundreds of thousands expected in Paris for Pope's visit",
@@ -1146,11 +1264,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d70/live/7b6d6240-b7f6-11f1-8ef6-b9665ffdab6f.jpg"
     },
     {
-      "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+      "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+      "link": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T22:55:03.000Z",
-      "summary": "Zinedine Zidane brings 'aura' to his first France game as coach, against Turkiye in Nations League."
+      "published": "2026-09-24T23:29:03.000Z",
+      "summary": "President Fernandez dismisses foreign minister over his attendance at the \"Shield of the Americas\" meeting in New York."
     },
     {
       "title": "Trump and Xi meet, but hopes for AI cooperation stay slim",
@@ -1161,11 +1279,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/1c3e4596-b814-11f1-bfbf-0fb9a8008200/w:1024/p:16x9/2026-09-23T225034Z-690498338-RC2APNA2RVRP-RTRMADP-3-USA-CHINA.jpg"
     },
     {
-      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-      "link": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
+      "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T22:32:39.000Z",
-      "summary": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians."
+      "published": "2026-09-24T22:55:03.000Z",
+      "summary": "Zinedine Zidane brings 'aura' to his first France game as coach, against Turkiye in Nations League."
     },
     {
       "title": "‘Send in the Clowns’: Viral video fuels claims Denmark trolled Trump and Rubio",
@@ -1176,11 +1294,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ebcfbc70-b857-11f1-b38e-c959b9d22ec6/w:1024/p:16x9/ANGL260924-2220-Live-CS2220.jpg"
     },
     {
-      "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-      "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
+      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+      "link": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T21:56:15.000Z",
-      "summary": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin."
+      "published": "2026-09-24T22:32:39.000Z",
+      "summary": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians."
     },
     {
       "title": "Macron says 'CIA did not ​inform French services' of possible Russian drone attacks",
@@ -1191,11 +1309,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/8e756596-b84f-11f1-a08d-852b23529bb9/w:1024/p:16x9/000-C9B32J2.jpg"
     },
     {
-      "title": "Croatian court approves extradition in Nord Stream bombing case",
-      "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
+      "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T21:47:44.000Z",
-      "summary": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending."
+      "published": "2026-09-24T21:56:15.000Z",
+      "summary": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin."
     },
     {
       "title": "Trade truce, Taiwan and Iran top Trump-Xi agenda in Washington",
@@ -1205,11 +1323,11 @@ window.GDC_NEWS = {
       "summary": "President Donald Trump has welcomed Chinese President Xi Jinping to Washington, praising what he called their “truly great friendship” as the two leaders opened talks focused on trade…"
     },
     {
-      "title": "Trump and Xi hold critical talks at White House summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+      "title": "Croatian court approves extradition in Nord Stream bombing case",
+      "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T21:41:40.000Z",
-      "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran."
+      "published": "2026-09-24T21:47:44.000Z",
+      "summary": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending."
     },
     {
       "title": "Iran sees air, land travel chaos as US sanctions bite",
@@ -1220,11 +1338,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b36b9184-b856-11f1-95b9-11fa9f8a3b4f/w:1024/p:16x9/capture-7725897766ab58841cb11c4-10270280.jpg"
     },
     {
-      "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss",
+      "title": "Trump and Xi hold critical talks at White House summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T21:15:56.000Z",
-      "summary": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech."
+      "published": "2026-09-24T21:41:40.000Z",
+      "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran."
     },
     {
       "title": "Tigray rebels in 'full-blown' war with government",
@@ -1235,11 +1353,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/bce64688-b855-11f1-b7ff-91cf9f3cd539/w:1024/p:16x9/capture-6857433396ab586a440a986-82786000.jpg"
     },
     {
-      "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
+      "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T21:08:30.000Z",
-      "summary": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant."
+      "published": "2026-09-24T21:15:56.000Z",
+      "summary": "Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech."
     },
     {
       "title": "Pretoria hosts massive barbecue world record attempt",
@@ -1249,11 +1367,11 @@ window.GDC_NEWS = {
       "summary": "South Africans in Pretoria are hoping to have cooked up a new Guinness World Record. Hundreds gathered on Thursday to fire up their grills and attempt the largest simultaneous barbecue ever…"
     },
     {
-      "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
-      "link": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
+      "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T21:07:33.000Z",
-      "summary": "Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0."
+      "published": "2026-09-24T21:08:30.000Z",
+      "summary": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant."
     },
     {
       "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
@@ -1264,11 +1382,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2842/live/d1b99780-b833-11f1-b4bc-39c67eb36497.jpg"
     },
     {
-      "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
+      "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
+      "link": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-24T20:54:28.000Z",
-      "summary": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank."
+      "published": "2026-09-24T21:07:33.000Z",
+      "summary": "Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0."
     },
     {
       "title": "Israeli PM Netanyahu calls Gaza genocide allegations ‘biggest lie of the century’",
@@ -1277,125 +1395,6 @@ window.GDC_NEWS = {
       "published": "2026-09-24T19:31:41.000Z",
       "summary": "Israeli Prime Minister Benjamin Netanyahu gave a combative speech at the UN General Assembly on Thursday in which he denied that Israel had committed genocide in Gaza, lashed out at…",
       "image": "https://s.france24.com/media/display/a8935772-b844-11f1-9dc4-91cf9f3cd539/w:1024/p:16x9/AP26267658621628.jpg"
-    },
-    {
-      "title": "US citizen injured after wrongly arrested by ICE in Illinois",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T20:23:06.000Z",
-      "summary": "US citizen injured after wrongly arrested by ICE in Illinois"
-    },
-    {
-      "title": "REPLAY: Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
-      "link": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga",
-      "source": "France 24",
-      "published": "2026-09-24T19:28:01.000Z",
-      "summary": "Prime Minister Benjamin Netanyahu on ​Thursday mounted a forceful defense of Israel's actions in the region at the UN, seeking to counter growing international isolation ahead of elections…",
-      "image": "https://s.france24.com/media/display/c851b5f2-b850-11f1-a883-8f3418d01115/w:1024/p:16x9/2026-09-24T183822Z-1183987970-RC2UPNA2HRCN-RTRMADP-3-UN-ASSEMBLY.jpg"
-    },
-    {
-      "title": "New York sues Polymarket over allegations of illegal gambling operations",
-      "link": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T20:15:25.000Z",
-      "summary": "The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi."
-    },
-    {
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T19:18:12.000Z",
-      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "Israel moves to ban main Palestinian-led lists from election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T19:54:00.000Z",
-      "summary": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election."
-    },
-    {
-      "title": "The future of AI in their hands? Trump-Xi summit dismisses calls for global oversight",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260924-the-future-of-ai-in-their-hands-trump-xi-summit-dismisses-calls-for-global-oversight",
-      "source": "France 24",
-      "published": "2026-09-24T19:05:59.000Z",
-      "summary": "It’s their AI world and we’re just living in it. If that's the feeling of those who suffer from AI anxiety, it may worsen watching the Chinese president’s first state visit to Washington in…",
-      "image": "https://s.france24.com/media/display/3ea7fa6e-b841-11f1-aab4-11fa9f8a3b4f/w:1024/p:16x9/2026-09-24T173904Z-397346931-RC2TPNAQ79LN-RTRMADP-3-USA-CHINA.jpg"
-    },
-    {
-      "title": "What’s triggered the latest violence in Ethiopia?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T19:34:53.000Z",
-      "summary": "Tigrayan forces say they are in a 'full-blown war' with the army."
-    },
-    {
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T19:02:36.000Z",
-      "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/34396cd0-b827-11f1-9173-8b6ede38f022.jpg"
-    },
-    {
-      "title": "US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout",
-      "link": "https://www.aljazeera.com/news/2026/9/24/us-rapper-macklemore-announces-free-palestine-tour-after-ed-sheeran-fallout?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T19:22:27.000Z",
-      "summary": "Macklemore says 'being apolitical during a genocide doesn’t work', promises to donate proceeds to Palestinian causes."
-    },
-    {
-      "title": "Residents in West Bank's Masafer Yatta face Israeli demolitions",
-      "link": "https://www.france24.com/en/tv-shows/the-observers/20260924-residents-west-bank-masafer-yatta-israeli-demolitions",
-      "source": "France 24",
-      "published": "2026-09-24T18:47:22.000Z",
-      "summary": "On September 2, the Israeli army demolished the village of Khirbet a-Taban in the occupied West Bank. The village is located in Masafer Yatta, an area Israel declared a restricted military…",
-      "image": "https://s.france24.com/media/display/68d48224-b834-11f1-b8c5-c959b9d22ec6/w:1024/p:16x9/vlcsnap-2026-09-24-16h16m03s237.png"
-    },
-    {
-      "title": "Delegates walk out of Netanyahu’s UN speech",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T19:18:29.000Z",
-      "summary": "Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech."
-    },
-    {
-      "title": "Moroccan voters call for action after election results",
-      "link": "http://www.africanews.com/2026/09/24/moroccan-voters-call-for-action-after-election-results/",
-      "source": "Africanews",
-      "published": "2026-09-24T18:46:57.000Z",
-      "summary": "Morocco’s ruling coalition has dominated parliamentary elections marked by low turnout and a stronger showing from the Islamist opposition. But beyond the results, voters are focusing on…"
-    },
-    {
-      "title": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
-      "link": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T19:02:50.000Z",
-      "summary": "Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it."
-    },
-    {
-      "title": "Watch: UN delegates walk out of Netanyahu speech",
-      "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T18:29:29.000Z",
-      "summary": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbc7/live/4d40df20-b844-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-      "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T18:19:03.000Z",
-      "summary": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government."
-    },
-    {
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-24T18:06:40.000Z",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg"
     }
   ],
   "africa": [

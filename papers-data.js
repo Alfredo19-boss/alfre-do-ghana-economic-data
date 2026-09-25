@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-24T23:58:21.845Z",
+  "updated": "2026-09-25T03:39:56.667Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,136 +25,124 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Côte d’Ivoire 2-0 Ghana: Sibo earns lowest mark as Boakye takes opportunity – Black Stars ratings",
-      "link": "https://www.myjoyonline.com/cote-divoire-2-0-ghana-sibo-earns-lowest-mark-as-boakye-takes-opportunity-black-stars-ratings/",
+      "title": "Policy rate hike ideal, but would hurt businesses amid rising fuel, utility costs – Prof Quartey",
+      "link": "https://www.myjoyonline.com/policy-rate-hike-ideal-but-would-hurt-businesses-amid-rising-fuel-utility-costs-prof-quartey/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T21:58:54.000Z",
-      "summary": "Ghana’s quest to return to the Africa Cup of Nations got off to a false start after losing 2-0 to Côte d’Ivoire in Bouaké in their opening game of the 2027 edition qualifiers. A first-half…",
+      "published": "2026-09-25T02:37:00.000Z",
+      "summary": "Economist Professor Peter Quartey has backed the Bank of Ghana’s decision to maintain the policy rate at 14%.",
       "categories": [
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "2027 AFCON Qualifiers",
-        "Adamu Benin Abdul Karim",
-        "Black Stars",
-        "Côte d’Ivoire"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Cote-dIvoire-2-0-Ghana.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stance considering autonomy under Moroccan sovereignty ‘could constitute most feasible solution’",
-      "link": "https://www.myjoyonline.com/stance-considering-autonomy-under-moroccan-sovereignty-could-constitute-most-feasible-solution/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T21:37:51.000Z",
-      "summary": "It follows talks held on the sidelines of the 81st session of the United Nations General Assembly.",
-      "categories": [
-        "International",
-        "Jamaica",
-        "Morocco"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-22.55.06.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON 2027Q: Black Stars open campaign with defeat to Ivory Coast in Bouaké",
-      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-open-campaign-with-defeat-to-ivory-coast-in-bouake/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T21:06:04.000Z",
-      "summary": "The defeat leaves Ghana at the bottom of Group C ahead of Friday's meeting between The Gambia and Somalia.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
+        "Banking and Finance",
         "National",
+        "BoG policy rate",
+        "Prof Peter Quartey"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/the-bank-of-ghanas-decision-to-s-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ECG workers hit the streets over PSP, set Sept. 29 for nationwide demo",
+      "link": "https://www.myjoyonline.com/ecg-workers-hit-the-streets-over-psp-set-sept-29-for-nationwide-demo/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T02:21:00.000Z",
+      "summary": "The Senior Staff Union (SSU) and Junior Staff Union (JSU) of the Electricity Company of Ghana (ECG) have announced plans for a nationwide demonstration against the proposed Private Sector…",
+      "categories": [
+        "National",
+        "ECG workers",
+        "Nationwide demo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/ECG.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigeria, US sign agreement to boost mining investment",
+      "link": "https://www.myjoyonline.com/nigeria-us-sign-agreement-to-boost-mining-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T02:06:00.000Z",
+      "summary": "Nigeria and the United States have signed a framework agreement aimed at deepening US investment in the West African country's mining sector, Nigeria's solid minerals minister, Dele Alake…",
+      "categories": [
+        "Africa",
+        "Mining agreement",
+        "Nigeria",
+        "US"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-103.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘No doubt’ Black Stars will beat Cote d’ivore in Accra – Carlos Quieroz",
+      "link": "https://www.myjoyonline.com/no-doubt-black-stars-will-beat-cote-divore-in-accra-carlos-quieroz/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T01:18:34.000Z",
+      "summary": "Carlos Queiroz says he has “no doubt” Ghana will beat Ivory Coast when the two sides meet again in Accra in the 2027 Africa Cup of Nations qualifiers.",
+      "categories": [
+        "Football",
         "Sports",
-        "2027 AFCON Qualifiers",
-        "Augustine Boakye",
-        "Benjamin Tetteh",
         "Black Stars",
         "Carlos Queiroz",
-        "Frank Kessie",
-        "Ghana",
-        "Haruna Mubarak",
-        "Malick Yalcouye"
+        "Cote d’ivore",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Black-Stars1-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3021.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "From construction site to top of class: Daniel Doe emerges Legon’s best Computer Engineering student",
-      "link": "https://www.myjoyonline.com/from-construction-site-to-top-of-class-daniel-doe-emerges-legons-best-computer-engineering-student/",
+      "title": "Thomas-Asante urges Ghanaians to rally behind Black Stars after Cote d’Ivoire defeat",
+      "link": "https://www.myjoyonline.com/thomas-asante-urges-ghanaians-to-rally-behind-black-stars-after-cote-divoire-defeat/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T20:50:45.000Z",
-      "summary": "Daniel Agudey Doe, a Computer Engineering graduate of the University of Ghana, has emerged as the best graduating student in his programme after navigating significant financial…",
+      "published": "2026-09-25T01:10:12.000Z",
+      "summary": "Brandon Thomas-Asante has called on Ghanaians to rally behind the Black Stars as they look to respond to their 2-0 defeat to Cote d’Ivoire in Bouake.",
       "categories": [
-        "Features",
-        "Computer Engineering student",
-        "Daniel Doe"
+        "Football",
+        "Sports",
+        "AFCON Qualifiers",
+        "Black Stars",
+        "Côte d’Ivoire",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-12.46.24-682x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/Brandon-Thomas-Asante-2-1024x776.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama: Peaceful political transitions prove democracy can work in Africa",
-      "link": "https://www.myjoyonline.com/mahama-peaceful-political-transitions-prove-democracy-can-work-in-africa/",
+      "title": "Hundreds of thousands expected in Paris for Pope’s visit",
+      "link": "https://www.myjoyonline.com/hundreds-of-thousands-expected-in-paris-for-popes-visit/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T20:47:18.000Z",
-      "summary": "President John Dramani Mahama has pointed to Ghana’s record of peaceful political transitions as evidence that democratic institutions can provide a stable framework for managing changes in…",
+      "published": "2026-09-25T00:13:23.000Z",
+      "summary": "Pope Leo XIV embarks on a four-day visit to France on Friday, with the highpoint being a giant Mass attended by more than half a million people in central Paris.",
       "categories": [
-        "National",
-        "Africa",
-        "Democracy",
-        "Mahama"
+        "International",
+        "Paris",
+        "Pope Leo XIV"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/JM-2-1024x732.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3272-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "“The law must work” – NDC rejects claims Salomey Baffoe’s bail denial is diversion from cocaine scandal",
-      "link": "https://www.myjoyonline.com/the-law-must-work-ndc-rejects-claims-salomey-baffoes-bail-denial-is-diversion-from-cocaine-scandal/",
+      "title": "Abena Kyei Boakye unveiled as Ambassador for Glow Washing Powder",
+      "link": "https://www.myjoyonline.com/abena-kyei-boakye-unveiled-as-ambassador-for-glow-washing-powder/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T20:37:07.000Z",
-      "summary": "The Deputy Director of Elections and IT for the National Democratic Congress (NDC), Rashid Tanko Computer, has rejected claims that the continued detention of Salomey Awiti Baffoe is a…",
+      "published": "2026-09-25T00:12:41.000Z",
+      "summary": "Award-winning TV personality Abena Kyei Boakye has been unveiled as the new brand ambassador for Glow Washing Powder, a Ghanaian-owned detergent brand. The unveiling ceremony was held at…",
       "categories": [
-        "HP News 6",
-        "National",
-        "NDC",
-        "Rashid Tanko Computer",
-        "“The Law Must Work” – NDC rejects claims Salomey Baffoe’s bail denial is diversion from cocaine scandal"
+        "Photo Story",
+        "Abena Kyei Boakye",
+        "ambassador",
+        "for Glow Washing Powder"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/top-story-npp-accuses-government.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_9126_2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Police arrest two suspects over murder of Senegalese goalkeeper",
-      "link": "https://www.myjoyonline.com/police-arrest-two-suspects-over-murder-of-senegalese-goalkeeper/",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "link": "https://www.myjoyonline.com/105-year-old-investigated-for-crimes-at-nazi-pow-camp-in-germany/",
       "source": "MyJoyOnline",
-      "published": "2026-09-24T20:36:36.000Z",
-      "summary": "The Ghana Police Service has arrested two suspects in connection with the kidnapping and murder of Senegalese goalkeeper Cheikh Toure in Kumasi in October 2025.",
+      "published": "2026-09-25T00:02:00.000Z",
+      "summary": "German prosecutors are investigating a man aged 105 over allegations that he was an accessory to multiple counts of murder at a Nazi prisoner of war camp in World War Two.",
       "categories": [
-        "Crime",
-        "HP News 9",
-        "Regional",
-        "Ghana Police Service",
-        "Murder",
-        "Senegalese goalkeeper"
+        "International",
+        "Germany",
+        "Nazi PoW camp"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Untitled-1-1024x724.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TVET Service, Bank of Ghana explore partnership to boost skills development",
-      "link": "https://www.myjoyonline.com/tvet-service-bank-of-ghana-explore-partnership-to-boost-skills-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T19:48:37.000Z",
-      "summary": "The management of the Ghana TVET Service, led by its Director-General, Engr. Dr Eric Kofi Adzroe, has paid a courtesy call on the Governor of the Bank of Ghana, Dr Johnson Pandit Asiama, at…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "Ghana TVET Service"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-24-at-17.58.50-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3273-1024x717.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
