@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T09:45:19.994Z",
+  "updated": "2026-09-26T13:54:39.826Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,176 +25,252 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "I don’t mind being insulted; I have a crocodile skin – President Mahama",
-      "link": "https://www.myjoyonline.com/i-dont-mind-being-insulted-i-have-a-crocodile-skin-president-mahama/",
+      "title": "‘I never said I’ll declare a state of emergency’ – President Mahama on galamsey",
+      "link": "https://www.myjoyonline.com/i-never-said-ill-declare-a-state-of-emergency-president-mahama-on-galamsey/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T09:34:08.000Z",
-      "summary": "President John Dramani Mahama has said he is unfazed by insults directed at him, stressing that his focus remains on doing what he believes is right for Ghana and Africa. The President made…",
+      "published": "2026-09-26T13:20:09.000Z",
+      "summary": "President John Dramani Mahama has dismissed reports that he plans to declare a state of emergency to tackle illegal mining, popularly known as galamsey. Speaking to Ghanaians in New York on…",
       "categories": [
-        "HP News 4",
         "National",
         "News",
-        "Insults",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samson’s Take: Verify the badge – and verify the story",
-      "link": "https://www.myjoyonline.com/samsons-take-verify-the-badge-and-verify-the-story/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T09:22:13.000Z",
-      "summary": "We have been discussing arrests, particularly by people who may not immediately be identifiable as law enforcement officers. Please be careful if people in plain clothes approach you…",
-      "categories": [
-        "National",
-        "story",
-        "Verify"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/verify-the-badge-and-verify-the-.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama explains why Ghana must rethink regulation of TikTok, other new media platforms",
-      "link": "https://www.myjoyonline.com/president-mahama-explains-why-ghana-must-rethink-regulation-of-tiktok-other-new-media-platforms/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T09:10:53.000Z",
-      "summary": "President John Dramani Mahama has explained why he believes Ghana needs a broader conversation on how TikTok and other new media platforms should be regulated, pointing to concerns over…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Ghana",
+        "Galamsey",
         "Mahama",
-        "new media",
-        "TikTok"
+        "State of Emergency"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Mahama-4.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Teacher unions go on strike - Education Ministry calls for meeting Monday",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-teacher-unions-go-on-strike-education-ministry-calls-for-meeting-monday.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-26T08:53:07.000Z",
-      "summary": "The Ministry of Education has scheduled a meeting with the three teacher unions for Monday in an attempt to resolve a dispute over unpaid promotion arrears and other outstanding demands.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/sept/19/aaastrike.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "VIDEO: President Mahama on why he has called for forum to decide how Ghana should regulate TikTok and other new media platforms",
-      "link": "https://www.graphic.com.gh/news/politics/president-mahama-on-why-he-has-called-for-forum-to-decide-how-ghana-should-regulate-tiktok-and-other-new-media-platforms.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-26T08:24:09.000Z",
-      "summary": "President John Dramani Mahama has said he does not mind being insulted as a leader and that he has a \"crocodile skin\". But he insists that Ghanaians must collectively decide how to regulate…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Rule of law must be protected – GBA condemns EOCO action against Baffour Awuah",
-      "link": "https://www.myjoyonline.com/rule-of-law-must-be-protected-gba-condemns-eoco-action-against-baffour-awuah/",
+      "title": "Bobby Banson condemns EOCO’s attempted arrest of Nana Agyei Baffour Awuah",
+      "link": "https://www.myjoyonline.com/bobby-banson-condemns-eocos-attempted-arrest-of-nana-agyei-baffour-awuah/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T07:44:58.000Z",
-      "summary": "The Ghana Bar Association (GBA) has expressed concern over the Economic and Organised Crime Office’s (EOCO) attempted arrest of Manhyia South MP Nana Agyei Baffour Awuah at the Accra High…",
+      "published": "2026-09-26T12:54:51.000Z",
+      "summary": "Lawyer Bobby Banson has criticised the Economic and Organised Crime Office (EOCO) over its attempted arrest of Manhyia South MP Nana Agyei Baffour Awuah.",
       "categories": [
+        "HP News 10",
         "National",
-        "Attempted arrest",
-        "EOCO",
-        "Nana Agyei Baffour Awuah"
+        "Baffuour Awuah",
+        "Bobby Banson",
+        "EOCO"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3427.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/bobby-banson-condemns-the-action.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "950,000 barrels of Sankofa crude head to TOR as GNPC deepens domestic refining",
-      "link": "https://www.myjoyonline.com/950000-barrels-of-sankofa-crude-head-to-tor-as-gnpc-deepens-domestic-refining/",
+      "title": "When Kumasi begins to look like somebody is in charge",
+      "link": "https://www.myjoyonline.com/when-kumasi-begins-to-look-like-somebody-is-in-charge/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T07:32:43.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) has supplied approximately 950,000 barrels of Sankofa crude oil to the Tema Oil Refinery (TOR), deepening the link between Ghana’s upstream…",
+      "published": "2026-09-26T12:54:41.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, we developed a very convenient relationship with disorder. If a trader occupied a pavement long enough, the pavement eventually became…",
       "categories": [
-        "Energy",
+        "Features",
         "National",
-        "GNPC",
-        "Sankofa crude oil",
-        "Tema Oil Refinery (TOR)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3425-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Scales of deception removed – Annoh-Dompreh attacks new cocoa price",
-      "link": "https://www.myjoyonline.com/scales-of-deception-removed-annoh-dompreh-attacks-new-cocoa-price/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T07:21:00.000Z",
-      "summary": "Minority Chief Whip Frank Annoh-Dompreh has criticised the government’s new cocoa producer price, describing the GH¢2,650 per 64-kilogramme bag as a disappointment to farmers.",
-      "categories": [
-        "Politics",
-        "Cocoa price",
-        "Frank Annoh-Dompreh"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/a22f1810-8913-4d3b-ab16-cf752ca5fc4a-e1788673027380-1024x705.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Young Positivist Writes : My Experience with GCLP",
-      "link": "https://www.myjoyonline.com/young-positivist-writes-my-experience-with-gclp/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T06:06:15.000Z",
-      "summary": "Folks, in a cautious effort to raise awareness of climate change and its effects on humans and ecosystems, I have decided to talk about another important aspect of climate change: climate…",
-      "categories": [
         "Opinion",
-        "Climate change",
-        "Ghana Climate literacy portal",
-        "Young positivist"
+        "Jimmy Aglah",
+        "Kumasi",
+        "Order",
+        "Republic of Uncommon Sense",
+        "Zuba"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-37.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Zuta-959x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Strong Day 1 turnout sets tone for Day 2 of Republic Bank-JoyNews Habitat Fair Clinic",
-      "link": "https://www.myjoyonline.com/strong-day-1-turnout-sets-tone-for-day-2-of-republic-bank-joynews-habitat-fair-clinic/",
+      "title": "Parliamentary probe into cocaine seizure would be a waste of time – Inusah Fuseini",
+      "link": "https://www.myjoyonline.com/parliamentary-probe-into-cocaine-seizure-would-be-a-waste-of-time-inusah-fuseini/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T05:35:06.000Z",
-      "summary": "Strong patronage on the opening day of the third Republic Bank-JoyNews Habitat Fair Clinic has set the tone for a busy second day, as prospective homeowners and property investors return to…",
+      "published": "2026-09-26T12:48:14.000Z",
+      "summary": "Former Tamale Central MP Inusah Fuseini says he has no confidence in Parliament’s ability to conduct a useful inquiry into the recent cocaine seizure linked to Ghana.",
       "categories": [
-        "Events",
         "National",
+        "News",
         "Top Story",
-        "Habitat Fair",
-        "JoyNews",
-        "Republic Bank"
+        "Cocaine",
+        "Inusah Fuseini",
+        "Parliament"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260925144458_IMG_8498.jpg-1-1024x683-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/drug-busts-it-would-be-a-waste-o.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Hollard Ghana announces death of Group CEO Patience Akyianu",
-      "link": "https://www.graphic.com.gh/news/general-news/hollard-ghana-announces-death-of-group-ceo-patience-akyianu.html",
+      "title": "Cocaine seizure: Focus on Ghana’s reputation, not partisan blame – Osae-Kwapong",
+      "link": "https://www.myjoyonline.com/cocaine-seizure-focus-on-ghanas-reputation-not-partisan-blame-osae-kwapong/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T12:42:09.000Z",
+      "summary": "A fellow at the Centre for Democratic Development (CDD-Ghana), Dr John Osae Kwapong, has urged the New Patriotic Party (NPP) and the National Democratic Congress (NDC) to stop blaming…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Cocaine",
+        "Dr Osae-Kwapong",
+        "Drug",
+        "NACOC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.39.45-AM-1-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two Invitations, Three Interrogations: Did Baffour Awuah tell the whole story?",
+      "link": "https://www.myjoyonline.com/two-invitations-three-interrogations-did-baffour-awuah-tell-the-whole-story/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T12:32:37.000Z",
+      "summary": "There is something wonderfully creative about the way accountability can suddenly become frightening when it arrives at your doorstep. On Wednesday, Ghana witnessed what looked less like a…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Baffour Awuah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Baffour-Awuah.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AMA calls for science-led action to protect Accra communities",
+      "link": "https://www.graphic.com.gh/news/general-news/ama-calls-for-science-led-action-to-protect-accra-communities.html",
       "source": "Daily Graphic",
-      "published": "2026-09-26T00:30:10.000Z",
-      "summary": "Hollard Ghana has announced the death of its Group CEO, Patience Akyianu.",
+      "published": "2026-09-26T12:14:07.000Z",
+      "summary": "The Accra Metropolitan Assembly (AMA) has called for greater use of scientific evidence in addressing environmental health challenges in the metropolis to protect communities from…",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2020/aug/09/Patience%20Akyianu.jpg",
+      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Police arrest 2 suspects in murder of Senegalese goalkeeper in Kumasi in 2025",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-2-suspects-in-murder-of-senegalese-goalkeeper-in-kumasi-in-2025.html",
+      "title": "Drug cartels may be seeing Ghana as easy route – Lenin Anane Agyei",
+      "link": "https://www.myjoyonline.com/drug-cartels-may-be-seeing-ghana-as-easy-route-lenin-anane-agyei/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T11:39:33.000Z",
+      "summary": "Lawyer and lecturer at the Ghana School of Law, Lenin Nicholas Anane Agyei, has warned that recent drug seizures could indicate that narcotics traffickers are beginning to view Ghana as an…",
+      "categories": [
+        "National",
+        "Drug",
+        "Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-343-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana risks gaining notoriety as drug-trafficking hub – Bobby Banson",
+      "link": "https://www.myjoyonline.com/ghana-risks-gaining-notoriety-as-drug-trafficking-hub-bobby-banson/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T11:30:31.000Z",
+      "summary": "Lawyer and lecturer at the Ghana School of Law, Makola, Bobby Banson, has warned that Ghana risks gaining notoriety as a hub for narcotics trafficking if recent drug-related concerns are…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Bobby Banson",
+        "Drug trafficking"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-339-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Premier League clubs seek legal advice after Man City found guilty over financial rule breaches",
+      "link": "https://www.graphic.com.gh/sports/sports-news/premier-league-clubs-seek-legal-advice-after-man-city-found-guilty-over-financial-rule-breaches.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T11:00:31.000Z",
+      "summary": "Premier League clubs are seeking legal advice about compensation after Manchester City were found guilty of the vast majority of 115 breaches of financial rules they had been accused of by…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Many attractions, untapped wealth: Bono East’s tourism story",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-many-attractions-untapped-wealth-bono-easts-tourism-story.html",
       "source": "Daily Graphic",
-      "published": "2026-09-26T00:12:23.000Z",
-      "summary": "Ghana Police Service, through a sustained intelligence led operation, has arrested two key suspects in connection with the kidnapping and murder of Cheikh Toure, a Senegalese goalkeeper, in…",
+      "published": "2026-09-26T10:48:00.000Z",
+      "summary": "Bono East has the waterfalls, the wildlife, the forests and the history that tourists look for.",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/senegal.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Dzifa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Shea processing: Lifeline of women in Sorugu under threat",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-shea-processing-lifeline-of-women-in-sorugu-under-threat.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T10:38:53.000Z",
+      "summary": "Every bag of shea nuts processed into butter means food on the table, school fees paid and household needs met for many women in Sorugu, a farming community in the Sagnarigu Municipality in…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/women.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana needs comprehensive emergency preparedness plan — UNFPA",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-needs-comprehensive-emergency-preparedness-plan-unfpa.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T10:34:49.000Z",
+      "summary": "The Country Representative of the UN Population Fund (UNFPA), Dr David Wilfred Ochan, has said Ghana needs a comprehensive emergency preparedness plan supported by regular practice and…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/David.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GTF launches 5-region taekwondo awareness campaign in Kumasi",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gtf-launches-5-region-taekwondo-awareness-campaign-in-kumasi.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T10:33:27.000Z",
+      "summary": "About 500 schoolchildren from 10 private schools in the Ashanti Region have taken part in the launch of a Ghana Taekwondo Federation campaign that will take the sport into schools and…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Achieving net-zero economy needs collaboration — Energy Ministry",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-achieving-net-zero-economy-needs-collaboration-energy-ministry.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T10:31:31.000Z",
+      "summary": "The country will require about $500 billion to transition to a net-zero economy by 2070, the Technical Advisor to the Minister of Energy and Green Transition, Seth Mahu, has said.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Dignitaries.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Parliament to review dollar payment for local crude",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-to-review-dollar-payment-for-local-crude.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T10:28:13.000Z",
+      "summary": "The Parliamentary Select Committee on Energy has said it will scrutinise the policy requiring local oil refineries to pay in US dollars for Ghana’s crude oil, amid concerns that the…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Members.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Return all human remains; They are not collectibles - President Mahama tells nations holding Africa's artefacts",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-return-all-human-remains-they-are-not-collectibles-president-mahama-tells-nations-holding-africas-artefacts.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T10:13:51.000Z",
+      "summary": "President John Dramani Mahama has called on countries in possession of Africa's artefacts and human remains to return them as he pushes up the next level of the demand for reparations and…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/25/skull.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Growing antifungal challenge as Candida resists common drugs",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-growing-antifungal-challenge-as-candida-resists-common-drugs.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T09:49:41.000Z",
+      "summary": "Ghana is facing a growing but often overlooked challenge from Candida infections as some strains develop resistance to commonly used antifungal medicines, raising concerns about treatment…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -208,54 +284,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/26/swimming.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "New Ghana Army soldiers warned against misusing uniform on social media",
-      "link": "https://www.graphic.com.gh/news/general-news/new-ghana-army-soldiers-warned-against-misusing-uniform-on-social-media.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T18:38:14.000Z",
-      "summary": "The Ghana Army has cautioned newly trained soldiers against the misuse of social media and their uniforms. The have also been urged to uphold the reputation of the Ghana Armed Forces (GAF)…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/soldiers1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Eckankar Ghana marks 50th anniversary with call for spiritual freedom",
-      "link": "https://www.graphic.com.gh/news/general-news/eckankar-ghana-marks-50th-anniversary-with-call-for-spiritual-freedom.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T17:31:02.000Z",
-      "summary": "Eckankar Ghana has marked its 50th anniversary as a religious organisation in the country with a public celebration at the Temple of ECK in Accra, reflecting on its humble beginnings and…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "64 suspects picked up in police operation at Achimota, firearms recovered",
-      "link": "https://www.graphic.com.gh/news/general-news/achimota-64-suspects-picked-up-in-police-operation-firearms-recovered.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T17:22:03.000Z",
-      "summary": "A total of 64 suspects have been picked up by the police at Achimota in Accra for unlawful possession of firearms and ammunition. They were arrested at a lounge near Achimota Mile 7 in the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/achimota4.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "US, France intervention in Lybia cause of Sahel terror surge - President Mahama",
-      "link": "https://www.graphic.com.gh/news/politics/us-france-intervention-in-lybia-cause-of-sahel-terror-surge-president-mahama.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T17:13:24.000Z",
-      "summary": "President John Dramani Mahama has traced the roots of the worsening terrorism crisis in the Sahel to the US and French-led overthrow of Libyan leader Muammar Gaddafi.",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama_un3.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "US Embassy builds coaching pipeline for girls’ football",
@@ -411,30 +439,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/24/CARLOS_Q.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Spotlight on new coaches as road to Afcon 2027 begins",
-      "link": "https://www.graphic.com.gh/sports/sports-news/spotlight-on-new-coaches-as-road-to-afcon-2027-begins.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-24T10:52:43.000Z",
-      "summary": "Just eight months on from the final of the 2025 Africa Cup of Nations (Afcon) - and with the world still waiting to find out the ultimate destination of the title - the road to the 2027…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/coaches.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "UMB Speed Stars thrash Black Stars legends in thrilling exxhibition match",
-      "link": "https://www.graphic.com.gh/sports/sports-news/umb-speed-stars-thrash-black-stars-legends-in-thrilling-exxhibition-match.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-24T10:30:39.000Z",
-      "summary": "The PFAG Black Stars Legends were thrashed 6-2 by the Universal Merchant Bank (UMB) Speed Stars in an entertaining exhibition match at the Adjiringanor Astro Turf on Saturday, September 19…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/UMB.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
