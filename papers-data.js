@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T13:54:39.826Z",
+  "updated": "2026-09-26T17:29:39.552Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,104 +25,173 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘I never said I’ll declare a state of emergency’ – President Mahama on galamsey",
-      "link": "https://www.myjoyonline.com/i-never-said-ill-declare-a-state-of-emergency-president-mahama-on-galamsey/",
+      "title": "UPSA uncovers mass results manipulation involving 178 students, over 500 results compromised",
+      "link": "https://www.myjoyonline.com/upsa-uncovers-mass-results-manipulation-involving-178-students-over-500-results-compromised/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T13:20:09.000Z",
-      "summary": "President John Dramani Mahama has dismissed reports that he plans to declare a state of emergency to tackle illegal mining, popularly known as galamsey. Speaking to Ghanaians in New York on…",
+      "published": "2026-09-26T17:21:39.000Z",
+      "summary": "The University of Professional Studies, Accra (UPSA) has uncovered a major results manipulation scheme involving 178 students, with more than 500 academic results altered in the…",
+      "categories": [
+        "Education",
+        "HP News 2",
+        "National",
+        "Results manipulation",
+        "UPSA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_6019.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTF takes Taekwondo awareness campaign to schools in Kumasi, targets five regions",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gtf-takes-taekwondo-awareness-campaign-to-schools-in-kumasi-targets-five-regions.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T17:10:57.000Z",
+      "summary": "The Ghana Taekwondo Federation (GTF) has begun a five-region awareness campaign aimed at introducing more schoolchildren to Taekwondo, with about 500 pupils from 10 private schools…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/TAEKWONDO_SCHOOLS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "ECG announces planned power outages in parts of Tema from Sept. 29 to October 1",
+      "link": "https://www.myjoyonline.com/ecg-announces-planned-power-outages-in-parts-of-tema-from-sept-29-to-october-1/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T17:00:43.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has announced planned maintenance works that will cause temporary power outages in parts of the Tema Region from Tuesday, September 29 to Thursday…",
       "categories": [
         "National",
         "News",
-        "Galamsey",
-        "Mahama",
-        "State of Emergency"
+        "ECG",
+        "Tema"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Mahama-4.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Electricity-Company-of-Ghana-ECG-696x387-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bobby Banson condemns EOCO’s attempted arrest of Nana Agyei Baffour Awuah",
-      "link": "https://www.myjoyonline.com/bobby-banson-condemns-eocos-attempted-arrest-of-nana-agyei-baffour-awuah/",
+      "title": "Sylvester Mensah urges Latenu FM to promote trade, export opportunities in Ga",
+      "link": "https://www.myjoyonline.com/sylvester-mensah-urges-latenu-fm-to-promote-trade-export-opportunities-in-ga/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T12:54:51.000Z",
-      "summary": "Lawyer Bobby Banson has criticised the Economic and Organised Crime Office (EOCO) over its attempted arrest of Manhyia South MP Nana Agyei Baffour Awuah.",
+      "published": "2026-09-26T16:46:57.000Z",
+      "summary": "The Chief Executive Officer of Ghana EXIM Bank, Sylvester Adinam Mensah, has proposed working with a community radio station in La to bring information on business growth and export…",
       "categories": [
-        "HP News 10",
         "National",
-        "Baffuour Awuah",
-        "Bobby Banson",
-        "EOCO"
+        "Exim Bank",
+        "Ga Language",
+        "Ga Traditional Area",
+        "Latenu Radio",
+        "Sylvester Adinam Mensah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/bobby-banson-condemns-the-action.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-28-at-2.37.01-PM-1-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "When Kumasi begins to look like somebody is in charge",
-      "link": "https://www.myjoyonline.com/when-kumasi-begins-to-look-like-somebody-is-in-charge/",
+      "title": "Ga language under threat of decline as children shy away from speaking it – Sylvester Mensah",
+      "link": "https://www.myjoyonline.com/ga-language-under-threat-of-decline-as-children-shy-away-from-speaking-it-sylvester-mensah/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T12:54:41.000Z",
-      "summary": "Once upon a time in the Republic of Uncommon Sense, we developed a very convenient relationship with disorder. If a trader occupied a pavement long enough, the pavement eventually became…",
+      "published": "2026-09-26T16:42:08.000Z",
+      "summary": "The Chief Executive Officer of Ghana EXIM Bank, Sylvester Adinam Mensah, has warned that the Ga language faces growing pressure as some children hesitate to speak it and others cannot speak…",
       "categories": [
-        "Features",
         "National",
-        "Opinion",
-        "Jimmy Aglah",
-        "Kumasi",
-        "Order",
-        "Republic of Uncommon Sense",
-        "Zuba"
+        "Regional",
+        "Ga Language",
+        "Ga Traditional Area",
+        "Gexim Bank",
+        "Sylvester Mensah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Zuta-959x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-2823-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Parliamentary probe into cocaine seizure would be a waste of time – Inusah Fuseini",
-      "link": "https://www.myjoyonline.com/parliamentary-probe-into-cocaine-seizure-would-be-a-waste-of-time-inusah-fuseini/",
+      "title": "‘Let every Ga child you raise know the Ga language and story’ – Sylvester Mensah",
+      "link": "https://www.myjoyonline.com/let-every-ga-child-you-raise-know-the-ga-language-and-story-sylvester-mensah/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T12:48:14.000Z",
-      "summary": "Former Tamale Central MP Inusah Fuseini says he has no confidence in Parliament’s ability to conduct a useful inquiry into the recent cocaine seizure linked to Ghana.",
+      "published": "2026-09-26T16:35:43.000Z",
+      "summary": "The Chief Executive Officer of Ghana EXIM Bank, Sylvester Adinam Mensah, has called on the Ga traditional authorities and parents for greater efforts to teach their children the Ga language…",
+      "categories": [
+        "Arts and Culture",
+        "National",
+        "News",
+        "Regional",
+        "Exim Bank",
+        "Ga Traditional Area",
+        "Latenu Radio",
+        "Sylvester Adinam Mensah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-28-at-2.37.01-PM-1-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We are not deterred’ – Ablakwa responds to backlash over South Africa evacuation",
+      "link": "https://www.myjoyonline.com/we-are-not-deterred-ablakwa-responds-to-backlash-over-south-africa-evacuation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T16:34:16.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has defended the government’s decision to evacuate Ghanaians from South Africa, saying the safety, welfare and dignity of citizens remain a…",
       "categories": [
         "National",
         "News",
+        "Evacuation",
+        "Foreign Minister",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-7.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NCA announces major voice and data disruption across Northern Ghana due to fibre cuts",
+      "link": "https://www.myjoyonline.com/nca-announces-major-voice-and-data-disruption-across-northern-ghana-due-to-fibre-cuts/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T15:52:49.000Z",
+      "summary": "The National Communications Authority (NCA) has announced a significant disruption to voice and data services across the five northern regions of Ghana and parts of the Oti Region.",
+      "categories": [
+        "National",
         "Top Story",
-        "Cocaine",
-        "Inusah Fuseini",
-        "Parliament"
+        "NCA",
+        "Northern region",
+        "Oti Region"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/drug-busts-it-would-be-a-waste-o.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-113.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Cocaine seizure: Focus on Ghana’s reputation, not partisan blame – Osae-Kwapong",
-      "link": "https://www.myjoyonline.com/cocaine-seizure-focus-on-ghanas-reputation-not-partisan-blame-osae-kwapong/",
+      "title": "Photos: Housing solutions take centre stage at Day 2 of the 3rd Republic Bank-JoyNews Habitat Fair",
+      "link": "https://www.myjoyonline.com/photos-housing-solutions-take-centre-stage-at-day-2-of-the-3rd-republic-bank-joynews-habitat-fair/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T12:42:09.000Z",
-      "summary": "A fellow at the Centre for Democratic Development (CDD-Ghana), Dr John Osae Kwapong, has urged the New Patriotic Party (NPP) and the National Democratic Congress (NDC) to stop blaming…",
+      "published": "2026-09-26T15:20:44.000Z",
+      "summary": "Day Two of the 3rd Republic Bank-JoyNews Habitat Fair Clinic continues to draw patrons to Junction Mall, with participating institutions showcasing a wide range of products and services for…",
       "categories": [
-        "HP News 3",
+        "Events",
+        "HP News 1",
         "National",
-        "Cocaine",
-        "Dr Osae-Kwapong",
-        "Drug",
-        "NACOC"
+        "News",
+        "Photo Story",
+        "3rd Republic Bank-JoyNews Habitat Fair Clinic"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-10.39.45-AM-1-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260926124252_IMG_8645.jpg-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Two Invitations, Three Interrogations: Did Baffour Awuah tell the whole story?",
-      "link": "https://www.myjoyonline.com/two-invitations-three-interrogations-did-baffour-awuah-tell-the-whole-story/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T12:32:37.000Z",
-      "summary": "There is something wonderfully creative about the way accountability can suddenly become frightening when it arrives at your doorstep. On Wednesday, Ghana witnessed what looked less like a…",
+      "title": "PKO trio storm Odwira Festival Fight Night",
+      "link": "https://www.graphic.com.gh/sports/sports-news/pko-trio-storm-odwira-festival-fight-night.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T14:56:15.000Z",
+      "summary": "Promotional and management syndicate, PKO Boxing will be represented by three fighters when boxing takes centre stage at the Odwira festival in Akropong on Saturday evening. Joseph “The…",
       "categories": [
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Baffour Awuah"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Baffour-Awuah.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/BOXERS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Manchester City charges latest: Premier League process 'still has long way to run': Chairman issues statement over 'breaches'",
+      "link": "https://www.graphic.com.gh/sports/sports-news/manchester-city-charges-latest-premier-league-process-still-has-long-way-to-run-chairman-issues-statement-over-breaches.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T14:30:58.000Z",
+      "summary": "Man City faced 115 charges of breaching the Premier League's financial rules. The club has always denied the allegations, but if the guilty verdicts are confirmed, it could face major…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/aug/05/city.jpeg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "AMA calls for science-led action to protect Accra communities",
@@ -137,33 +206,40 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Drug cartels may be seeing Ghana as easy route – Lenin Anane Agyei",
-      "link": "https://www.myjoyonline.com/drug-cartels-may-be-seeing-ghana-as-easy-route-lenin-anane-agyei/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T11:39:33.000Z",
-      "summary": "Lawyer and lecturer at the Ghana School of Law, Lenin Nicholas Anane Agyei, has warned that recent drug seizures could indicate that narcotics traffickers are beginning to view Ghana as an…",
+      "title": "DVLA launches iOS app and web platform for vehicle registration verification",
+      "link": "https://www.graphic.com.gh/news/general-news/dvla-launches-ios-app-and-web-platform-for-vehicle-registration-verification.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T11:55:44.000Z",
+      "summary": "The Driver and Vehicle Licensing Authority (DVLA) has announced the availability of its DVLAverify application on iOS devices and a web-based verification platform for vehicle registration…",
       "categories": [
-        "National",
-        "Drug",
-        "Ghana"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-343-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2019/oct/12/dvla266.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana risks gaining notoriety as drug-trafficking hub – Bobby Banson",
-      "link": "https://www.myjoyonline.com/ghana-risks-gaining-notoriety-as-drug-trafficking-hub-bobby-banson/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T11:30:31.000Z",
-      "summary": "Lawyer and lecturer at the Ghana School of Law, Makola, Bobby Banson, has warned that Ghana risks gaining notoriety as a hub for narcotics trafficking if recent drug-related concerns are…",
+      "title": "Only five of 30 fire hydrants functional in Ministries enclave in Accra – Fire Service",
+      "link": "https://www.graphic.com.gh/news/general-news/only-five-of-30-fire-hydrants-functional-in-ministries-enclave-fire-command.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T11:49:35.000Z",
+      "summary": "The Greater Accra Regional Fire Command, in collaboration with Ghana Water Limited, has inspected fire hydrants within the Ministries enclave as part of efforts to strengthen firefighting…",
       "categories": [
-        "HP News 1",
-        "National",
-        "Bobby Banson",
-        "Drug trafficking"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-339-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/hydrant.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Gov't committed to integrating traditional medicine into healthcare – Deputy Health Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/govt-committed-to-integrating-traditional-medicine-into-healthcare-deputy-health-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T11:44:28.000Z",
+      "summary": "The Deputy Minister for Health, Dr Grace Ayensu-Danquah, has expressed government's commitment to integrating scientifically validated traditional medicine into Ghana's mainstream…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/Grace.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Premier League clubs seek legal advice after Man City found guilty over financial rule breaches",
@@ -235,42 +311,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/25/Dignitaries.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament to review dollar payment for local crude",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-to-review-dollar-payment-for-local-crude.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-26T10:28:13.000Z",
-      "summary": "The Parliamentary Select Committee on Energy has said it will scrutinise the policy requiring local oil refineries to pay in US dollars for Ghana’s crude oil, amid concerns that the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Members.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Return all human remains; They are not collectibles - President Mahama tells nations holding Africa's artefacts",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-return-all-human-remains-they-are-not-collectibles-president-mahama-tells-nations-holding-africas-artefacts.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-26T10:13:51.000Z",
-      "summary": "President John Dramani Mahama has called on countries in possession of Africa's artefacts and human remains to return them as he pushes up the next level of the demand for reparations and…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/skull.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Growing antifungal challenge as Candida resists common drugs",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-growing-antifungal-challenge-as-candida-resists-common-drugs.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-26T09:49:41.000Z",
-      "summary": "Ghana is facing a growing but often overlooked challenge from Candida infections as some strains develop resistance to commonly used antifungal medicines, raising concerns about treatment…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -404,42 +444,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Gyetuah bags brace as 9 players named NASCO GPL Man of the Match",
-      "link": "https://www.graphic.com.gh/sports/sports-news/gyetuah-bags-brace-as-9-players-named-nasco-gpl-man-of-the-match.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-24T18:36:18.000Z",
-      "summary": "Nine outstanding players were named NASCO Man of the Match winners for Matchweek Three of the 2026/27 Ghana Premier League (GPL), following an action-packed weekend that produced 19 goals…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "PREVIEW: Depleted Black Stars face Bouaké test as Carlos Queiroz begins AFCON mission",
-      "link": "https://www.graphic.com.gh/sports/sports-news/preview-depleted-black-stars-face-bouake-test-as-carlos-queiroz-begins-afcon-mission.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-24T15:01:22.000Z",
-      "summary": "Without his captain, chief creator and most explosive forward, Carlos Queiroz must find a way past Côte d’Ivoire in Bouaké tonight as Ghana begin the mission to return to the Africa Cup of…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/CarlosQ.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "AFCON 2027 Qualifiers: Pressure mounting on Nigeria, Ghana hit by absences as Vieira faces first test",
-      "link": "https://www.graphic.com.gh/sports/sports-news/afcon-2027-qualifiers-pressure-mounting-on-nigeria-ghana-hit-by-absences-as-vieira-faces-first-test.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-24T12:31:38.000Z",
-      "summary": "For Africa's national teams, the first international break of the 2026-27 season represents far more than merely the opening qualifying exchanges for next year's Africa Cup of Nations…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/24/CARLOS_Q.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
