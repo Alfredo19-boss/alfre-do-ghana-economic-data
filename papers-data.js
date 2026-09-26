@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-25T21:53:25.290Z",
+  "updated": "2026-09-26T00:13:01.285Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,47 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "PKO trio eye victories at Odwira Festival",
+      "link": "https://www.myjoyonline.com/pko-trio-eye-victories-at-odwira-festival/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T22:43:40.000Z",
+      "summary": "Joseph “The Humble” Commodor will square off against Sani Yidana Kugblie, while Hamza Muhammad “Tank Hand” takes on John Oblitey Commey.",
+      "categories": [
+        "Boxing",
+        "PKO Boxing"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/bc276374-2bf2-440a-83d5-861d36368681-819x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "346 Ghana Navy recruits pass out after 26 weeks of intensive training",
+      "link": "https://www.myjoyonline.com/346-ghana-navy-recruits-pass-out-after-26-weeks-of-intensive-training/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T22:37:44.000Z",
+      "summary": "The Naval Recruit Training School (NRTS) of the Naval Training Command (NAVTRAC) has passed out 346 recruits of Basic Training Intake 85 (BT 85) following the successful completion of 26…",
+      "categories": [
+        "Regional",
+        "Ghana Navy",
+        "Recruits"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3424-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Newsfile to discuss EOCO-MP arrest, drug trafficking, speech arrests and $235m water debt",
+      "link": "https://www.myjoyonline.com/newsfile-to-discuss-eoco-mp-arrest-drug-trafficking-speech-arrests-and-235m-water-debt/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-25T22:09:59.000Z",
+      "summary": "JoyNews’ flagship current affairs programme, Newsfile, returns on Saturday, September 26, with host Samson Lardy Anyenini leading discussions on four major issues dominating Ghana’s…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Newsfile"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3414-1024x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "JoyNews gets results as listeners raise GH¢40,000 to help 17-year-old student with cerebral palsy attend SHS",
       "link": "https://www.myjoyonline.com/joynews-gets-results-as-listeners-raise-gh%c2%a240000-to-help-17-year-old-student-with-cerebral-palsy-attend-shs/",
       "source": "MyJoyOnline",
@@ -32,6 +73,7 @@ window.GDC_PAPERS = {
       "summary": "Seventeen-year-old Priscilla Nana Ama Samson, a student living with cerebral palsy, has returned to senior high school after Ghanaians rallied to support her education. Priscilla had feared…",
       "categories": [
         "Education",
+        "HP News 2",
         "Cerebral palsy",
         "JoyNews",
         "JoyNews gets results",
@@ -100,49 +142,6 @@ window.GDC_PAPERS = {
         "Kintampo South District"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-19.12.13-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Opoku Mensah urges Christian Council, House of Chiefs to speak up on democratic freedoms",
-      "link": "https://www.myjoyonline.com/opoku-mensah-urges-christian-council-house-of-chiefs-to-speak-up-on-democratic-freedoms/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T20:04:22.000Z",
-      "summary": "Spokesperson for former Education Minister Dr Yaw Osei Adutwum has challenged the Christian Council of Ghana and the National House of Chiefs to speak out on what he describes as the…",
-      "categories": [
-        "National",
-        "Christian Council",
-        "House of Chiefs",
-        "Yaw Opoku Mensah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-16.27.56-472x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Teacher unions’ strike: Minority demands immediate payment of teacher arrears, 20% deprived area allowance",
-      "link": "https://www.myjoyonline.com/teacher-unions-strike-minority-demands-immediate-payment-of-teacher-arrears-20-deprived-area-allowance/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T19:56:30.000Z",
-      "summary": "The Minority in Parliament has called on the government to urgently resolve outstanding concerns raised by the country's teacher unions to avert an indefinite industrial action.",
-      "categories": [
-        "National",
-        "Minority in Parliament",
-        "Teacher unions strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/strike_1540x1050-696x475-1-621x424-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Accra-Kumasi Expressway: Building it right",
-      "link": "https://www.myjoyonline.com/the-accra-kumasi-expressway-building-it-right/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T19:47:43.000Z",
-      "summary": "Ghana is about to spend an enormous sum of public money to construct a new expressway.",
-      "categories": [
-        "Opinion",
-        "Accra-Kumasi",
-        "Build"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-14.00.45-e1790365598812-1024x612.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {

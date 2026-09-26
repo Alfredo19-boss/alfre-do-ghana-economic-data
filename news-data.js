@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-25T21:53:10.924Z",
-  "worldAt": "2026-09-25T21:53:10.922Z",
+  "updated": "2026-09-26T00:12:47.022Z",
+  "worldAt": "2026-09-26T00:12:47.020Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: 0 stories",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,10 +42,17 @@ window.GDC_NEWS = {
     "Africa · Africanews: 27 stories",
     "Africa · BBC Africa: 29 stories",
     "Africa · Deutsche Welle: 8 stories",
-    "Africa · Al Jazeera: 0 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Prudential Life Insurance named among Top 100 MDRT global businesses",
+      "link": "https://gna.org.gh/2026/09/prudential-life-insurance-named-among-top-100-mdrt-global-businesses/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-25T18:26:14.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
     {
       "title": "$10bn Investment Plan Sets New Direction for Ghana’s Private Sector",
       "link": "https://thehighstreetjournal.com/10bn-investment-plan-sets-new-direction-for-ghanas-private-sector/",
@@ -1088,22 +1095,128 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-23T12:34:11.000Z",
       "summary": "The Ghana Revenue Authority (GRA) is deploying its Integrated Tax Administration System (ITAS) to bring key aspects of the country’s tax administration onto a single digital platform, with…"
-    },
-    {
-      "title": "Beyond Environmental Protection: How Ecobank is Transforming Farmers’ Lives with Green Finance",
-      "link": "https://thehighstreetjournal.com/beyond-environmental-protection-how-ecobank-is-transforming-farmers-lives-with-green-finance/",
-      "source": "The High Street Journal",
-      "published": "2026-09-23T12:00:00.000Z",
-      "summary": "Ecobank Ghana says its green finance agenda goes beyond environmental protection, providing over GH¢100 million to nearly 50 smallholder farmers and agribusinesses, helping boost…"
     }
   ],
   "world": [
+    {
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-26T00:09:45.000Z",
+      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company…",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg"
+    },
+    {
+      "title": "Iran says it awaits US response on seven-day roadmap to end war",
+      "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T23:52:18.000Z",
+      "summary": "Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees."
+    },
+    {
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T23:42:39.000Z",
+      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/a94bfae0-b905-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+      "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T23:21:52.000Z",
+      "summary": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace."
+    },
+    {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T23:38:48.000Z",
+      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg"
+    },
+    {
+      "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T22:33:27.000Z",
+      "summary": "Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them"
+    },
+    {
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T23:20:48.000Z",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1747/live/dc2a8ea0-b85a-11f1-a8b8-8b929801ec51.jpg"
+    },
+    {
+      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+      "link": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T22:16:35.000Z",
+      "summary": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele."
+    },
+    {
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T23:08:02.000Z",
+      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/65e845d0-b80e-11f1-b205-219f899eccc7.jpg"
+    },
+    {
+      "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T21:37:35.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”"
+    },
+    {
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T23:05:40.000Z",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg"
+    },
+    {
+      "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+      "link": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T21:32:43.000Z",
+      "summary": "Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury."
+    },
+    {
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T22:12:48.000Z",
+      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
     {
       "title": "What would a US diesel export ban mean for global fuel prices?",
       "link": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-25T21:28:56.000Z",
       "summary": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally."
+    },
+    {
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-25T21:16:59.000Z",
+      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1485/live/6664e170-b922-11f1-b685-519146636d7f.jpg"
+    },
+    {
+      "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+      "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T21:20:05.000Z",
+      "summary": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico."
     },
     {
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
@@ -1114,11 +1227,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png"
     },
     {
-      "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-      "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+      "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-25T21:20:05.000Z",
-      "summary": "Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico."
+      "published": "2026-09-25T20:59:43.000Z",
+      "summary": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties."
     },
     {
       "title": "Yemen's president calls on his people to mobilise against Iran-backed Houthis",
@@ -1129,11 +1242,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/1ad03680-b907-11f1-add1-91cf9f3cd539/w:1024/p:16x9/2026-09-14T132010Z-886379123-RC21JNAQNIP4-RTRMADP-3-IRAN-CRISIS-YEMEN-HOUTHI.jpg"
     },
     {
-      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-      "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+      "title": "Manchester City reportedly found guilty of almost 115 financial charges",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-25T20:59:43.000Z",
-      "summary": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties."
+      "published": "2026-09-25T20:56:20.000Z",
+      "summary": "Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing."
     },
     {
       "title": "Telecoms disruption raises fears as heavy fighting strikes Ethiopia",
@@ -1144,11 +1257,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a6947f2c-b91c-11f1-b040-852b23529bb9/w:1024/p:16x9/ANGL260925-2140-Live-01.jpg"
     },
     {
-      "title": "Manchester City reportedly found guilty of almost 115 financial charges",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
+      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-25T20:56:20.000Z",
-      "summary": "Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing."
+      "published": "2026-09-25T20:46:15.000Z",
+      "summary": "A fire erupted aboard the vehicle ferry Blue Carrier 2 north of the Greek island of Mykonos, prompting a major emergency"
     },
     {
       "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
@@ -1158,11 +1271,11 @@ window.GDC_NEWS = {
       "summary": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flavio, who wants to bring Brazil closer to…"
     },
     {
-      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
+      "title": "Afghan taxi drivers defy the Taliban’s music ban",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/afghan-taxi-drivers-defy-the-talibans-music-ban?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-25T20:46:15.000Z",
-      "summary": "A fire erupted aboard the vehicle ferry Blue Carrier 2 north of the Greek island of Mykonos, prompting a major emergency"
+      "published": "2026-09-25T20:42:47.000Z",
+      "summary": "Afghan taxi drivers are playing music in their cars despite it being banned by the Taliban."
     },
     {
       "title": "Macron and Pope Leo XIV unite on AI risks and nuclear weapons",
@@ -1170,13 +1283,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-09-25T20:06:26.000Z",
       "summary": "The French leader called on international oversight to ensure the most advanced systems mankind has ever created, are not controlled by a small number of powerful actors, or get used as…"
-    },
-    {
-      "title": "Afghan taxi drivers defy the Taliban’s music ban",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/afghan-taxi-drivers-defy-the-talibans-music-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T20:42:47.000Z",
-      "summary": "Afghan taxi drivers are playing music in their cars despite it being banned by the Taliban."
     },
     {
       "title": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
@@ -1288,112 +1394,39 @@ window.GDC_NEWS = {
       "published": "2026-09-25T18:36:30.000Z",
       "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b5/live/159a3ed0-b8a9-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T18:30:20.000Z",
-      "summary": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector."
-    },
-    {
-      "title": "Trump's plans for massive arch move ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-25T18:27:46.000Z",
-      "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg"
-    },
-    {
-      "title": "India’s Cockroach movement joins opposition push to oust election chief",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T18:16:47.000Z",
-      "summary": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign."
-    },
-    {
-      "title": "🔴 Live: Yemen's president calls on his people to mobilise against Iran-backed Houthis",
-      "link": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
-      "source": "France 24",
-      "published": "2026-09-25T17:35:26.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T18:15:43.000Z",
-      "summary": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen."
-    },
-    {
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-25T17:13:55.000Z",
-      "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50e/live/5b7ab3c0-b8dc-11f1-953d-97bd0803bc08.jpg"
-    },
-    {
-      "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-      "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T18:05:32.000Z",
-      "summary": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting."
-    },
-    {
-      "title": "EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv",
-      "link": "https://www.france24.com/en/europe/20260925-eu-releases-%E2%82%AC6-6-billion-for-members-arming-ukraine-as-five-killed-in-kyiv",
-      "source": "France 24",
-      "published": "2026-09-25T17:09:55.000Z",
-      "summary": "European Union countries have agreed to release €6.6 billion from a fund meant to reimburse member states that have provided arms to Ukraine, EU foreign policy chief Kaja Kallas said on…",
-      "image": "https://s.france24.com/media/display/fe988e5c-b8fe-11f1-afb5-8f3418d01115/w:1024/p:16x9/AP26250532034091.jpg"
-    },
-    {
-      "title": "US top court allows Trump to use controversial voter verification system",
-      "link": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:45:24.000Z",
-      "summary": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement."
-    },
-    {
-      "title": "Lots of pomp but little progress as Trump and Xi end state visit to DC",
-      "link": "https://www.france24.com/en/americas/20260925-lots-of-pomp-but-no-progress-as-trump-and-xi-end-state-visit",
-      "source": "France 24",
-      "published": "2026-09-25T16:58:08.000Z",
-      "summary": "US President Donald Trump and Chinese leader Xi Jinping capped a state visit to Washington on Friday with pomp and pageantry but no real breakthroughs. Trump said he discussed the Iran war…",
-      "image": "https://s.france24.com/media/display/48138eda-b902-11f1-bd61-852b23529bb9/w:1024/p:16x9/61407f68b9f8f6478e2b8020a9dcf60bd0b6e405.jpg"
-    },
-    {
-      "title": "Lebanese in Brazil, Brazilian in Lebanon",
-      "link": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:44:39.000Z",
-      "summary": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared."
-    },
-    {
-      "title": "US Supreme Court allows Trump to use controversial voter 'verification' system",
-      "link": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
-      "source": "France 24",
-      "published": "2026-09-25T16:52:32.000Z",
-      "summary": "The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics…",
-      "image": "https://s.france24.com/media/display/477530d0-b8fa-11f1-8e25-c959b9d22ec6/w:1024/p:16x9/AP26254125465273.jpg"
-    },
-    {
-      "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-      "link": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:34:16.000Z",
-      "summary": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says."
-    },
-    {
-      "title": "Over 55,000 Sudanese refugees fled to east Chad this year: UN",
-      "link": "http://www.africanews.com/2026/09/25/over-55000-sudanese-refugees-fled-to-east-chad-this-year-un/",
-      "source": "Africanews",
-      "published": "2026-09-25T16:43:49.000Z",
-      "summary": "More than 55,000 Sudanese refugees have crossed into eastern Chad since the start of the year, the United Nations said Friday, warning that the displacement was accelerating even as aid…"
     }
   ],
   "africa": [
+    {
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-25T23:42:39.000Z",
+      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/a94bfae0-b905-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "title": "Africa: Africa Urged to Strengthen Budget Oversight",
+      "link": "https://allafrica.com/stories/202609250571.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-25T23:19:31.000Z",
+      "summary": "[New Era] African parliaments have been urged to strengthen their oversight of public finances through well-resourced and independent Parliamentary Budget Offices (PBOs) as the continent…"
+    },
+    {
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-25T23:20:48.000Z",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1747/live/dc2a8ea0-b85a-11f1-a8b8-8b929801ec51.jpg"
+    },
+    {
+      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+      "link": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-25T22:16:35.000Z",
+      "summary": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele."
+    },
     {
       "title": "Africa: AfDB President Sidi Ould Tah Explores Lessons From Korea's Development Transformation At Kdi Gkedc",
       "link": "https://allafrica.com/stories/202609250491.html",
@@ -1647,34 +1680,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-25T13:05:11.000Z",
       "summary": "[Nile Post] The Government is in the process of acquiring an Artificial Intelligence-powered system to help curb adult and offensive content being shared on social media and other digital…"
-    },
-    {
-      "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T12:08:16.000Z",
-      "summary": "Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray."
-    },
-    {
-      "title": "Liberia: Maryland Rubber Stakeholders Urged to Strengthen Local Market",
-      "link": "https://allafrica.com/stories/202609250289.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-25T13:03:58.000Z",
-      "summary": "[New Dawn] PLEEBO, Maryland County, September 24, 2026: The Chairman of the National Rubber Brokers and Farmers Union of Liberia, Maryland Branch, Wellington Kyne, has called for stronger…"
-    },
-    {
-      "title": "Nigeria and US sign deal to increase mining investment",
-      "link": "http://www.africanews.com/2026/09/24/nigeria-and-us-sign-deal-to-increase-mining-investment/",
-      "source": "Africanews",
-      "published": "2026-09-25T12:04:38.000Z",
-      "summary": "Nigeria and the United States on Wednesday signed a framework agreement to \"deepen American investment\" in the West African's country mining sector. Nigeria says its mineral resources are…"
-    },
-    {
-      "title": "Nigeria: Nigeria, U.S. Sign Framework to Unlock Investment in $700bn Minerals Sector",
-      "link": "https://allafrica.com/stories/202609250265.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-25T13:00:50.000Z",
-      "summary": "[This Day] Nigeria and the United States have signed a framework agreement to deepen American investment in Nigeria's solid minerals sector, with cooperation spanning geological data and…"
     }
   ]
 };
