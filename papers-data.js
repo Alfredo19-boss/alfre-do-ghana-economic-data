@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T18:54:06.393Z",
+  "updated": "2026-09-26T20:05:52.667Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,51 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Stakeholders demand action against foreign-led illegal mining in Ahafo Region",
+      "link": "https://www.myjoyonline.com/stakeholders-demand-action-against-foreign-led-illegal-mining-in-ahafo-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T19:24:40.000Z",
+      "summary": "Stakeholders in the Ahafo Region have expressed disappointment in law enforcement agencies and state regulatory bodies over their continued failure to curb rampant illegal mining…",
+      "categories": [
+        "News",
+        "Regional",
+        "Ahafo Region",
+        "Illegal mining"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/faa65289-1aa6-46a9-86fc-382d8f580b63-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana handed tricky draw at 2026 Amputee World Cup",
+      "link": "https://www.myjoyonline.com/ghana-handed-tricky-draw-at-2026-amputee-world-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T19:17:12.000Z",
+      "summary": "Ghana’s Black Challenge have been drawn in Group D alongside Angola, Colombia and Iraq at the 2026 WAFF Amputee Football World Cup in Mexico. The draw, held in San Juan de los Lagos…",
+      "categories": [
+        "Football",
+        "Other Sports",
+        "Sports",
+        "2026 Amputee World Cup"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/grou-1024x573.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2024 Nyankpala election violence: Youth group petitions authorities over slow probe",
+      "link": "https://www.myjoyonline.com/2024-nyankpala-election-violence-youth-group-petitions-authorities-over-slow-probe/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T19:13:02.000Z",
+      "summary": "Some concerned residents of Nyankpala in the Tolon District have petitioned state authorities to expedite investigations into violence that occurred on December 7, 2024, which resulted in…",
+      "categories": [
+        "News",
+        "Regional",
+        "election violence",
+        "Nyankpala"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/e6bee050-ec67-48fd-b35c-a006a205fb0f-1024x575.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana, UNICEF strengthen partnership to advance child protection",
       "link": "https://www.myjoyonline.com/ghana-unicef-strengthen-partnership-to-advance-child-protection/",
@@ -46,6 +91,7 @@ window.GDC_PAPERS = {
       "published": "2026-09-26T18:45:30.000Z",
       "summary": "Day Two of the 3rd Republic Bank-JoyNews Habitat Fair Clinic has ended at Junction Mall, Nungua, after another day of strong engagement between prospective homeowners, property investors…",
       "categories": [
+        "HP News 1",
         "National",
         "3rd Republic Bank-JoyNews Habitat Fair"
       ],
@@ -77,6 +123,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Africa",
         "International",
+        "News",
         "South Africa",
         "Women murder"
       ],
@@ -98,22 +145,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UPSA uncovers mass results manipulation involving 178 students, over 500 results compromised",
-      "link": "https://www.myjoyonline.com/upsa-uncovers-mass-results-manipulation-involving-178-students-over-500-results-compromised/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T17:21:39.000Z",
-      "summary": "The University of Professional Studies, Accra (UPSA) has uncovered a major results manipulation scheme involving 178 students, with more than 500 academic results altered in the…",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "National",
-        "Results manipulation",
-        "UPSA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_6019.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GTF takes Taekwondo awareness campaign to schools in Kumasi, targets five regions",
       "link": "https://www.graphic.com.gh/sports/sports-news/gtf-takes-taekwondo-awareness-campaign-to-schools-in-kumasi-targets-five-regions.html",
       "source": "Graphic Sports",
@@ -124,38 +155,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/26/TAEKWONDO_SCHOOLS.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "ECG announces planned power outages in parts of Tema from Sept. 29 to October 1",
-      "link": "https://www.myjoyonline.com/ecg-announces-planned-power-outages-in-parts-of-tema-from-sept-29-to-october-1/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T17:00:43.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has announced planned maintenance works that will cause temporary power outages in parts of the Tema Region from Tuesday, September 29 to Thursday…",
-      "categories": [
-        "National",
-        "News",
-        "ECG",
-        "Tema"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Electricity-Company-of-Ghana-ECG-696x387-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sylvester Mensah urges Latenu FM to promote trade, export opportunities in Ga",
-      "link": "https://www.myjoyonline.com/sylvester-mensah-urges-latenu-fm-to-promote-trade-export-opportunities-in-ga/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T16:46:57.000Z",
-      "summary": "The Chief Executive Officer of Ghana EXIM Bank, Sylvester Adinam Mensah, has proposed working with a community radio station in La to bring information on business growth and export…",
-      "categories": [
-        "National",
-        "Exim Bank",
-        "Ga Language",
-        "Ga Traditional Area",
-        "Latenu Radio",
-        "Sylvester Adinam Mensah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-28-at-2.37.01-PM-1-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "PKO trio storm Odwira Festival Fight Night",
