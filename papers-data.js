@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T04:59:08.935Z",
+  "updated": "2026-09-26T09:45:19.994Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,34 +25,152 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "He entered at eight. He is now 16: Ghana’s children growing up in prayer camps",
-      "link": "https://www.myjoyonline.com/he-entered-at-eight-he-is-now-16-ghanas-children-growing-up-in-prayer-camps/",
+      "title": "I don’t mind being insulted; I have a crocodile skin – President Mahama",
+      "link": "https://www.myjoyonline.com/i-dont-mind-being-insulted-i-have-a-crocodile-skin-president-mahama/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T01:20:59.000Z",
-      "summary": "At eight years old, Hafiz Abdallah was taken to Nyinbonya, a prayer camp in Paga, near Ghana’s border with Burkina Faso. He is now 16. For eight years, his mother says, her son has lived at…",
+      "published": "2026-09-26T09:34:08.000Z",
+      "summary": "President John Dramani Mahama has said he is unfazed by insults directed at him, stressing that his focus remains on doing what he believes is right for Ghana and Africa. The President made…",
       "categories": [
-        "Features",
-        "Children",
-        "Nyinbonya",
-        "Prayer camps"
+        "HP News 4",
+        "National",
+        "News",
+        "Insults",
+        "Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-15-1024x608.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Development must not always begin from Accra’ — Anwelle Foundation launched in Jirapa",
-      "link": "https://www.myjoyonline.com/development-must-not-always-begin-from-accra-anwelle-foundation-launched-in-jirapa/",
+      "title": "Samson’s Take: Verify the badge – and verify the story",
+      "link": "https://www.myjoyonline.com/samsons-take-verify-the-badge-and-verify-the-story/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T01:18:38.000Z",
-      "summary": "The Paramount Chief of the Jirapa Traditional Area, Naa Di-Naa Donlabong III, has called on residents and natives of Jirapa living outside the community to take greater responsibility for…",
+      "published": "2026-09-26T09:22:13.000Z",
+      "summary": "We have been discussing arrests, particularly by people who may not immediately be identifiable as law enforcement officers. Please be careful if people in plain clothes approach you…",
       "categories": [
-        "Regional",
-        "Accra",
-        "Anwelle Foundation",
-        "Jirapa",
-        "Paramount Chief"
+        "National",
+        "story",
+        "Verify"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-23.47.36-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/verify-the-badge-and-verify-the-.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama explains why Ghana must rethink regulation of TikTok, other new media platforms",
+      "link": "https://www.myjoyonline.com/president-mahama-explains-why-ghana-must-rethink-regulation-of-tiktok-other-new-media-platforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T09:10:53.000Z",
+      "summary": "President John Dramani Mahama has explained why he believes Ghana needs a broader conversation on how TikTok and other new media platforms should be regulated, pointing to concerns over…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "Ghana",
+        "Mahama",
+        "new media",
+        "TikTok"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Mahama-4.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Teacher unions go on strike - Education Ministry calls for meeting Monday",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-teacher-unions-go-on-strike-education-ministry-calls-for-meeting-monday.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T08:53:07.000Z",
+      "summary": "The Ministry of Education has scheduled a meeting with the three teacher unions for Monday in an attempt to resolve a dispute over unpaid promotion arrears and other outstanding demands.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/sept/19/aaastrike.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "VIDEO: President Mahama on why he has called for forum to decide how Ghana should regulate TikTok and other new media platforms",
+      "link": "https://www.graphic.com.gh/news/politics/president-mahama-on-why-he-has-called-for-forum-to-decide-how-ghana-should-regulate-tiktok-and-other-new-media-platforms.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T08:24:09.000Z",
+      "summary": "President John Dramani Mahama has said he does not mind being insulted as a leader and that he has a \"crocodile skin\". But he insists that Ghanaians must collectively decide how to regulate…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Rule of law must be protected – GBA condemns EOCO action against Baffour Awuah",
+      "link": "https://www.myjoyonline.com/rule-of-law-must-be-protected-gba-condemns-eoco-action-against-baffour-awuah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T07:44:58.000Z",
+      "summary": "The Ghana Bar Association (GBA) has expressed concern over the Economic and Organised Crime Office’s (EOCO) attempted arrest of Manhyia South MP Nana Agyei Baffour Awuah at the Accra High…",
+      "categories": [
+        "National",
+        "Attempted arrest",
+        "EOCO",
+        "Nana Agyei Baffour Awuah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3427.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "950,000 barrels of Sankofa crude head to TOR as GNPC deepens domestic refining",
+      "link": "https://www.myjoyonline.com/950000-barrels-of-sankofa-crude-head-to-tor-as-gnpc-deepens-domestic-refining/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T07:32:43.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has supplied approximately 950,000 barrels of Sankofa crude oil to the Tema Oil Refinery (TOR), deepening the link between Ghana’s upstream…",
+      "categories": [
+        "Energy",
+        "National",
+        "GNPC",
+        "Sankofa crude oil",
+        "Tema Oil Refinery (TOR)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3425-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Scales of deception removed – Annoh-Dompreh attacks new cocoa price",
+      "link": "https://www.myjoyonline.com/scales-of-deception-removed-annoh-dompreh-attacks-new-cocoa-price/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T07:21:00.000Z",
+      "summary": "Minority Chief Whip Frank Annoh-Dompreh has criticised the government’s new cocoa producer price, describing the GH¢2,650 per 64-kilogramme bag as a disappointment to farmers.",
+      "categories": [
+        "Politics",
+        "Cocoa price",
+        "Frank Annoh-Dompreh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/a22f1810-8913-4d3b-ab16-cf752ca5fc4a-e1788673027380-1024x705.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Young Positivist Writes : My Experience with GCLP",
+      "link": "https://www.myjoyonline.com/young-positivist-writes-my-experience-with-gclp/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T06:06:15.000Z",
+      "summary": "Folks, in a cautious effort to raise awareness of climate change and its effects on humans and ecosystems, I have decided to talk about another important aspect of climate change: climate…",
+      "categories": [
+        "Opinion",
+        "Climate change",
+        "Ghana Climate literacy portal",
+        "Young positivist"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-37.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Strong Day 1 turnout sets tone for Day 2 of Republic Bank-JoyNews Habitat Fair Clinic",
+      "link": "https://www.myjoyonline.com/strong-day-1-turnout-sets-tone-for-day-2-of-republic-bank-joynews-habitat-fair-clinic/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T05:35:06.000Z",
+      "summary": "Strong patronage on the opening day of the third Republic Bank-JoyNews Habitat Fair Clinic has set the tone for a busy second day, as prospective homeowners and property investors return to…",
+      "categories": [
+        "Events",
+        "National",
+        "Top Story",
+        "Habitat Fair",
+        "JoyNews",
+        "Republic Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260925144458_IMG_8498.jpg-1-1024x683-1.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -78,94 +196,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/26/senegal.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "PKO trio eye victories at Odwira Festival",
-      "link": "https://www.myjoyonline.com/pko-trio-eye-victories-at-odwira-festival/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T22:43:40.000Z",
-      "summary": "Joseph “The Humble” Commodor will square off against Sani Yidana Kugblie, while Hamza Muhammad “Tank Hand” takes on John Oblitey Commey.",
-      "categories": [
-        "Boxing",
-        "PKO Boxing"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/bc276374-2bf2-440a-83d5-861d36368681-819x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "346 Ghana Navy recruits pass out after 26 weeks of intensive training",
-      "link": "https://www.myjoyonline.com/346-ghana-navy-recruits-pass-out-after-26-weeks-of-intensive-training/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T22:37:44.000Z",
-      "summary": "The Naval Recruit Training School (NRTS) of the Naval Training Command (NAVTRAC) has passed out 346 recruits of Basic Training Intake 85 (BT 85) following the successful completion of 26…",
-      "categories": [
-        "Regional",
-        "Ghana Navy",
-        "Recruits"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3424-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newsfile to discuss EOCO-MP arrest, drug trafficking, speech arrests and $235m water debt",
-      "link": "https://www.myjoyonline.com/newsfile-to-discuss-eoco-mp-arrest-drug-trafficking-speech-arrests-and-235m-water-debt/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T22:09:59.000Z",
-      "summary": "JoyNews’ flagship current affairs programme, Newsfile, returns on Saturday, September 26, with host Samson Lardy Anyenini leading discussions on four major issues dominating Ghana’s…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Newsfile"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3414-1024x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JoyNews gets results as listeners raise GH¢40,000 to help 17-year-old student with cerebral palsy attend SHS",
-      "link": "https://www.myjoyonline.com/joynews-gets-results-as-listeners-raise-gh%c2%a240000-to-help-17-year-old-student-with-cerebral-palsy-attend-shs/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T21:41:28.000Z",
-      "summary": "Seventeen-year-old Priscilla Nana Ama Samson, a student living with cerebral palsy, has returned to senior high school after Ghanaians rallied to support her education. Priscilla had feared…",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "Cerebral palsy",
-        "JoyNews",
-        "JoyNews gets results",
-        "SHS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-223530.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vice President calls for stronger local pharmaceutical production to reduce medicine imports",
-      "link": "https://www.myjoyonline.com/vice-president-calls-for-stronger-local-pharmaceutical-production-to-reduce-medicine-imports/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T21:26:49.000Z",
-      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has called for stronger local pharmaceutical production as Ghana seeks to reduce its reliance on imported medicines and improve access to…",
-      "categories": [
-        "Health",
-        "medicine imports",
-        "pharmaceutical production",
-        "Vice President"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-17.29.30-1024x550.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The brewing tension at KNUST; Beware the Ides of October….",
-      "link": "https://www.myjoyonline.com/the-brewing-tension-at-knust-beware-the-ides-of-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T21:05:01.000Z",
-      "summary": "Less than a month after the investiture of a new Vice-Chancellor, the Governing Council of KNUST has decided to end a practice that has been part of KNUST's academic governance for…",
-      "categories": [
-        "Opinion",
-        "KNUST",
-        "Tension",
-        "UTAG"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-2-3.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ivan Snowden to begin World Aquatics scholarship in Bahrain",
@@ -225,30 +255,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama_un3.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama on why Ghana rejected US health compact and says conditions were humiliating",
-      "link": "https://www.graphic.com.gh/news/politics/president-mahama-jon-why-ghana-rejected-us-health-compact-and-says-conditions-were-humiliating.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T17:10:52.000Z",
-      "summary": "President John Dramani Mahama has justified the government’s decision to reject a new health compact presented by the United States to replace funding previously provided under the United…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama_un2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama decries debt trap",
-      "link": "https://www.graphic.com.gh/news/politics/president-mahama-decries-debt-trap.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T17:05:41.000Z",
-      "summary": "President John Dramani Mahama has decried the debt trap developing countries are subjected to, saying Africa borrows at eight times more expensive rate than the rest of the world, a…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/mahama_un4.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
