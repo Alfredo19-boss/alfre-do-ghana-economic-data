@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T20:05:52.667Z",
+  "updated": "2026-09-26T22:43:21.525Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,127 +25,178 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Stakeholders demand action against foreign-led illegal mining in Ahafo Region",
-      "link": "https://www.myjoyonline.com/stakeholders-demand-action-against-foreign-led-illegal-mining-in-ahafo-region/",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "link": "https://www.myjoyonline.com/white-house-bars-cnn-from-travelling-with-trump-on-air-force-one/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T19:24:40.000Z",
-      "summary": "Stakeholders in the Ahafo Region have expressed disappointment in law enforcement agencies and state regulatory bodies over their continued failure to curb rampant illegal mining…",
+      "published": "2026-09-26T22:34:23.000Z",
+      "summary": "Broadcaster CNN has been barred from travelling with US President Donald Trump on Air Force One for a trip to Tennessee on Saturday. The move is the latest in a battle between the White…",
       "categories": [
-        "News",
-        "Regional",
-        "Ahafo Region",
-        "Illegal mining"
+        "International",
+        "Air Force One",
+        "CNN",
+        "Trump",
+        "White House"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/faa65289-1aa6-46a9-86fc-382d8f580b63-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg-1024x576.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana handed tricky draw at 2026 Amputee World Cup",
-      "link": "https://www.myjoyonline.com/ghana-handed-tricky-draw-at-2026-amputee-world-cup/",
+      "title": "Fennis wins second consecutive ITF J60 title in Accra",
+      "link": "https://www.myjoyonline.com/fennis-wins-second-consecutive-itf-j60-title-in-accra/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T19:17:12.000Z",
-      "summary": "Ghana’s Black Challenge have been drawn in Group D alongside Angola, Colombia and Iraq at the 2026 WAFF Amputee Football World Cup in Mexico. The draw, held in San Juan de los Lagos…",
+      "published": "2026-09-26T22:30:10.000Z",
+      "summary": "Dutch teenager Peppa Fennis has won her second consecutive ITF J60 girls' singles title at the Accra Sports Stadium National Tennis Centre in Ghana.",
+      "categories": [
+        "HP Sports 5",
+        "Tennis",
+        "ITF J60 Accra tennis",
+        "Peppa Fennis"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260926-WA0066-676x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Spain beat England in thriller after Kane penalty miss",
+      "link": "https://www.myjoyonline.com/spain-beat-england-in-thriller-after-kane-penalty-miss/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T22:24:09.000Z",
+      "summary": "Spain struck inside two minutes when Lamine Yamal was the beneficiary of Marc Guehi's error and slotted past James Trafford.",
       "categories": [
         "Football",
-        "Other Sports",
-        "Sports",
-        "2026 Amputee World Cup"
+        "England",
+        "Spain"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/grou-1024x573.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ENGLAND-SPAIN.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2024 Nyankpala election violence: Youth group petitions authorities over slow probe",
-      "link": "https://www.myjoyonline.com/2024-nyankpala-election-violence-youth-group-petitions-authorities-over-slow-probe/",
+      "title": "GPL 2026/27: Zaidan’s late goal ends Hearts of Oak unbeaten start",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-zaidans-late-goal-ends-hearts-of-oak-unbeaten-start/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T19:13:02.000Z",
-      "summary": "Some concerned residents of Nyankpala in the Tolon District have petitioned state authorities to expedite investigations into violence that occurred on December 7, 2024, which resulted in…",
+      "published": "2026-09-26T22:20:47.000Z",
+      "summary": "The decisive moment came at the Aliu Mahama Sports Stadium after an entertaining Matchday Four encounter, with Zaidan producing a composed finish late in the game to spark wild celebrations…",
       "categories": [
+        "Football",
+        "GPL",
+        "Hearts of Oak",
+        "Karela United"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Zaidan.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CEOs demand clarity on pay harmonisation, board autonomy as FWSC engages SOEs bosses over IPEC transition",
+      "link": "https://www.myjoyonline.com/ceos-demand-clarity-on-pay-harmonisation-board-autonomy-as-fwsc-engages-soes-bosses-over-ipec-transition/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T22:18:24.000Z",
+      "summary": "The Fair Wages and Salaries Commission (FWSC) on Friday engaged chief executive officers of State-Owned Enterprises (SOEs) on the transition to the Independent Public Emoluments Commission…",
+      "categories": [
+        "Economy",
+        "National",
         "News",
-        "Regional",
-        "election violence",
-        "Nyankpala"
+        "CEOs",
+        "FWSC",
+        "IPEC",
+        "SOEs"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/e6bee050-ec67-48fd-b35c-a006a205fb0f-1024x575.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/FWSC1-1024x674.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana, UNICEF strengthen partnership to advance child protection",
-      "link": "https://www.myjoyonline.com/ghana-unicef-strengthen-partnership-to-advance-child-protection/",
+      "title": "2026 Women’s Super Cup: FC Savannah, Epiphany Warriors maintain top spots ahead of final group games",
+      "link": "https://www.myjoyonline.com/2026-womens-super-cup-fc-savannah-epiphany-warriors-maintain-top-spots-ahead-of-final-group-games/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T18:49:21.000Z",
-      "summary": "Ghana and the United Nations Children’s Fund (UNICEF) have reaffirmed their commitment to strengthening collaboration to protect children and empower adolescent girls across the country.",
+      "published": "2026-09-26T22:09:12.000Z",
+      "summary": "FC Savannah, who beat Fosu Royal Ladies in their opening game, maintained top position in Group A despite their goalless draw against Jonina Ladies on matchday two.",
+      "categories": [
+        "Football",
+        "2026 Women's Super Cup",
+        "Epiphany Warriors",
+        "FC Savannah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_1431-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Is EOCO responsible for determining lawyers’ fees?’ – Baffour Awuah",
+      "link": "https://www.myjoyonline.com/is-eoco-responsible-for-determining-lawyers-fees-baffour-awuah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T22:08:24.000Z",
+      "summary": "Member of Parliament for Manyhia South, Nana Agyei Baffour Awuah, has questioned whether the Economic and Organised Crime Office (EOCO) is responsible for regulating or determining lawyers’…",
       "categories": [
         "National",
-        "Child Protection",
-        "Ghana",
-        "UNICEF"
+        "EOCO",
+        "Nana Adjei Baffour Awuah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_6022.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_2411.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Day Two of 3rd Republic Bank-JoyNews Habitat Fair ends with great homeownership offers and financing solutions",
-      "link": "https://www.myjoyonline.com/day-two-of-3rd-republic-bank-joynews-habitat-fair-ends-with-great-homeownership-offers-and-financing-solutions/",
+      "title": "David Beckles claims second J60 Accra title",
+      "link": "https://www.myjoyonline.com/david-beckles-claims-second-j60-accra-title/",
       "source": "MyJoyOnline",
-      "published": "2026-09-26T18:45:30.000Z",
-      "summary": "Day Two of the 3rd Republic Bank-JoyNews Habitat Fair Clinic has ended at Junction Mall, Nungua, after another day of strong engagement between prospective homeowners, property investors…",
+      "published": "2026-09-26T21:41:35.000Z",
+      "summary": "American teenager David Beckles has won the J60 Accra boys’ singles title for a second time after beating France’s Antoine Baudot in the final.",
       "categories": [
-        "HP News 1",
-        "National",
-        "3rd Republic Bank-JoyNews Habitat Fair"
+        "HP Sports 4",
+        "Tennis",
+        "David Beckles",
+        "ITF Junior Tennis Tournament",
+        "Tennis Foundation Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260926150955_IMG_8703.jpg-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260926-WA0065-730x1024.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Guinness Ghana DJ Awards 2026 Pub Fest celebrates Ghana’s DJ culture as Accra turns up the energy",
-      "link": "https://www.myjoyonline.com/guinness-ghana-dj-awards-2026-pub-fest-celebrates-ghanas-dj-culture-as-accra-turns-up-the-energy/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T18:27:35.000Z",
-      "summary": "The road to the 2026 Guinness Ghana DJ Awards, powered by Smirnoff, is gathering pace, with the Pub Fest tour bringing Ghana’s DJ culture to audiences across the country ahead of the grand…",
+      "title": "National Sports Authority, University of Health and Allied Sciences renews MoU on sports medicine in Ghana",
+      "link": "https://www.graphic.com.gh/sports/sports-news/national-sports-authority-university-of-health-and-allied-sciences-sign-mou-sports-medicine-in-ghana.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T21:05:17.000Z",
+      "summary": "The National Sports Authority (NSA) and the University of Health and Allied Sciences (UHAS) have renewed Memorandum of Understanding (MOU) aimed at transforming Ghana’s sports landscape…",
       "categories": [
-        "Arts and Culture",
-        "Comp. Entertainment",
-        "Lifestyle",
-        "Guinness Ghana DJ Awards 2026",
-        "Pub Fest"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/014a4514-8cea-4510-8a93-419e070840ee.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/nsa.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "10th woman found dead in South Africa’s string of killings",
-      "link": "https://www.myjoyonline.com/10th-woman-found-dead-in-south-africas-string-of-killings/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T18:26:58.000Z",
-      "summary": "South African police on Saturday found another body in Ekurhuleni, east of Johannesburg, bringing to 10 the number of women found dead in the municipality over the past two months.",
+      "title": "Accra Marathon returns Nov 14 with full 42.2km race and new route for 35th edition",
+      "link": "https://www.graphic.com.gh/sports/sports-news/accra-marathon-returns-nov-14-with-full-42-2km-race-and-new-route-for-35th-edition.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T20:58:31.000Z",
+      "summary": "The Dansoman Keep Fit Club has launched the sixth edition of the First National Bank Accra Marathon, announcing a return to the full 42.2-kilometer distance and a brand-new route that will…",
       "categories": [
-        "Africa",
-        "International",
-        "News",
-        "South Africa",
-        "Women murder"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_6021-1024x686.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/marathon1.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "French Embassy trains Ghana Police CTU in counter-terrorism operations",
-      "link": "https://www.myjoyonline.com/french-embassy-trains-ghana-police-ctu-in-counter-terrorism-operations/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T17:55:56.000Z",
-      "summary": "The French Embassy in Ghana has successfully trained personnel of the Counter Terrorism Unit (CTU) of the Ghana Police Service in a two-week intensive workshop aimed at enhancing Ghana's…",
+      "title": "Ghana amputee football team draw Angola, Colombia and Iraq in chase for World Cup glory",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-amputee-football-team-draw-angola-colombia-and-iraq-in-chase-for-world-cup-glory.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-26T20:45:06.000Z",
+      "summary": "Ghana’s national amputee football team, the Black Challenge, have been drawn alongside Angola, Colombia and Iraq in Group D of the 2026 WAFF Amputee Football World Cup. The tournament will…",
       "categories": [
-        "National",
-        "French Embassy",
-        "Police"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-16.54.23-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/amputee1.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GTF takes Taekwondo awareness campaign to schools in Kumasi, targets five regions",
+      "title": "Power of Worship International pays court fines to free 23 inmates from Nsawam Prison",
+      "link": "https://www.graphic.com.gh/news/general-news/power-of-worship-international-pays-court-fines-to-free-20-inmates-from-nsawam-prison.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T20:41:00.000Z",
+      "summary": "The Power of Worship International (POWI), led by Head Pastor Prophet Daniel Amoateng, has helped with the payment of outstanding court fines for 23 inmates from the Nsawam Medium Security…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/amoateng.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Federation takes Taekwondo awareness campaign to schools in Kumasi, targets five regions",
       "link": "https://www.graphic.com.gh/sports/sports-news/gtf-takes-taekwondo-awareness-campaign-to-schools-in-kumasi-targets-five-regions.html",
       "source": "Graphic Sports",
       "published": "2026-09-26T17:10:57.000Z",
@@ -286,54 +337,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Achieving net-zero economy needs collaboration — Energy Ministry",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-achieving-net-zero-economy-needs-collaboration-energy-ministry.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-26T10:31:31.000Z",
-      "summary": "The country will require about $500 billion to transition to a net-zero economy by 2070, the Technical Advisor to the Minister of Energy and Green Transition, Seth Mahu, has said.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Dignitaries.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ivan Snowden to begin World Aquatics scholarship in Bahrain",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ivan-snowden-to-begin-world-aquatics-scholarship-in-bahrain.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-25T19:13:51.000Z",
-      "summary": "Ghanaian swimmer Ivan Christopher Snowden will depart Accra for Bahrain on Sunday to begin a World Aquatics (WA) scholarship programme combining high-performance swimming with university…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/26/swimming.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "US Embassy builds coaching pipeline for girls’ football",
-      "link": "https://www.graphic.com.gh/sports/sports-news/us-embassy-builds-coaching-pipeline-for-girls-football.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-25T16:22:01.000Z",
-      "summary": "The United States Embassy in Accra has completed a three-city girls’ football coaching initiative with ambitions to build a broader development pathway — but the shape and scale of the next…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/GIRLS_COACHING.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Swimmer Ivan Snowden departs Accra for Bahrain to begin World Aquatics scholarship",
-      "link": "https://www.graphic.com.gh/sports/sports-news/swimmer-ivan-snowden-departs-accra-for-bahrain-to-begin-world-aquatics-scholarship.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-25T16:01:33.000Z",
-      "summary": "Ghanaian swimmer Ivan Christopher Snowden will depart Accra for Bahrain on Sunday to begin a historic World Aquatics scholarship programme combining high-performance swimming with…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/IVAN.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {

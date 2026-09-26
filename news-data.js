@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-26T20:05:38.266Z",
-  "worldAt": "2026-09-26T20:05:38.264Z",
+  "updated": "2026-09-26T22:43:07.718Z",
+  "worldAt": "2026-09-26T22:43:07.715Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,32 +20,46 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 4/25 stories",
+    "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 26 stories",
-    "World · Deutsche Welle: 12 stories",
+    "World · BBC News: 27 stories",
+    "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
     "Africa · Africanews: 27 stories",
-    "Africa · BBC Africa: 28 stories",
-    "Africa · Deutsche Welle: 6 stories",
+    "Africa · BBC Africa: 29 stories",
+    "Africa · Deutsche Welle: 5 stories",
     "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "CEOs demand clarity on pay harmonisation, board autonomy as FWSC engages SOEs bosses over IPEC transition",
+      "link": "https://www.myjoyonline.com/ceos-demand-clarity-on-pay-harmonisation-board-autonomy-as-fwsc-engages-soes-bosses-over-ipec-transition/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T22:18:24.000Z",
+      "summary": "The Fair Wages and Salaries Commission (FWSC) on Friday engaged chief executive officers of State-Owned Enterprises (SOEs) on the transition to the Independent Public Emoluments Commission…"
+    },
+    {
+      "title": "Power of Worship International pays court fines to free 23 inmates from Nsawam Prison",
+      "link": "https://www.graphic.com.gh/news/general-news/power-of-worship-international-pays-court-fines-to-free-20-inmates-from-nsawam-prison.html",
+      "source": "Graphic Online",
+      "published": "2026-09-26T20:41:00.000Z",
+      "summary": "The Power of Worship International (POWI), led by Head Pastor Prophet Daniel Amoateng, has helped with the payment of outstanding court fines for 23 inmates from the Nsawam Medium Security…"
+    },
     {
       "title": "AfroQuality opens flagship Accra store to boost African brands",
       "link": "https://gna.org.gh/2026/09/afroquality-opens-flagship-accra-store-to-boost-african-brands/",
@@ -1081,23 +1095,113 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-24T04:47:00.000Z",
       "summary": "Ghana’s total export earnings have risen further to a record US$22.4 billion as of August 2026, driven largely by higher gold prices."
-    },
-    {
-      "title": "Chinese businesses urged to invest in Volta Region",
-      "link": "https://www.myjoyonline.com/chinese-businesses-urged-to-invest-in-volta-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T04:39:00.000Z",
-      "summary": "Mr Wang Jinxiao, Chairman of Sunon Asogli Power (Ghana), has urged Chinese businesses operating in Ghana to explore investment opportunities in the Volta Region and turn them into viable…"
-    },
-    {
-      "title": "Cocobod pitches $1.4 billion domestic financing plan",
-      "link": "https://www.myjoyonline.com/cocobod-pitches-1-4-billion-domestic-financing-plan/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-24T03:06:00.000Z",
-      "summary": "Ghana Cocoa Board (COCOBOD) is seeking to raise GH¢16.3 billion ($1.4 billion) from domestic investors to fund cocoa purchases for the upcoming season, according to a government…"
     }
   ],
   "world": [
+    {
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-26T22:15:59.000Z",
+      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png"
+    },
+    {
+      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-26T21:51:56.000Z",
+      "summary": "The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles."
+    },
+    {
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-26T22:04:26.000Z",
+      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "Pope Leo XIV draws 800,000 faithful to Paris before emotional Lourdes pilgrimage",
+      "link": "http://www.africanews.com/2026/09/26/pope-leo-xiv-draws-800000-faithful-to-paris-before-emotional-lourdes-pilgrimage/",
+      "source": "Africanews",
+      "published": "2026-09-26T21:48:42.000Z",
+      "summary": "Pope Leo XIV celebrated a huge outdoor Mass in Paris, then travelled to Lourdes to pray at the grotto, greet pilgrims and continue his French pilgrimage."
+    },
+    {
+      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+      "source": "NPR World",
+      "published": "2026-09-26T21:13:54.000Z",
+      "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and…"
+    },
+    {
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-26T21:13:13.000Z",
+      "summary": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17c/live/ff226520-ac63-11f1-be57-03729df1d736.jpg"
+    },
+    {
+      "title": "Is Congo's Ebola outbreak coming under control?",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control",
+      "source": "NPR World",
+      "published": "2026-09-26T21:13:52.000Z",
+      "summary": "Four months in, Congo's Ebola outbreak is one of the largest ever recorded. Officials and outside experts can't agree on whether it's finally slowing down."
+    },
+    {
+      "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-26T21:09:59.000Z",
+      "summary": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty."
+    },
+    {
+      "title": "Pope Leo XIV celebrates open-air Mass in front of 800,000 people in central Paris",
+      "link": "https://www.france24.com/en/france/20260926-pope-leo-xiv-celebrates-open-air-mass-in-front-of-800-000-people-in-central-paris",
+      "source": "France 24",
+      "published": "2026-09-26T20:28:37.000Z",
+      "summary": "More than 800,000 people filled the streets of central Paris to hear Pope Leo XIV say Mass on Saturday, according to Vatican estimates. The pontiff rounded out the second day of his…",
+      "image": "https://s.france24.com/media/display/a5d75a5a-b9cb-11f1-98e4-91cf9f3cd539/w:1024/p:16x9/000-C9F84HC.jpg"
+    },
+    {
+      "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-26T20:57:54.000Z",
+      "summary": "A wave of Russian strikes has hit various regions across Ukraine."
+    },
+    {
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+      "source": "NPR World",
+      "published": "2026-09-26T20:08:28.000Z",
+      "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back…",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4501x3001+0+0/resize/4501x3001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F5b%2Fe9c7396247718f809901fcb122a5%2Fgettyimages-2296657910.jpg"
+    },
+    {
+      "title": "Why is violence between Pakistan and Afghanistan recurring?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-26T20:55:44.000Z",
+      "summary": "Pakistan has carried out new strikes inside Afghanistan."
+    },
+    {
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-26T19:59:00.000Z",
+      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg"
+    },
+    {
+      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-26T20:33:05.000Z",
+      "summary": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations."
+    },
     {
       "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
       "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
@@ -1107,11 +1211,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
+      "link": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T19:43:03.000Z",
-      "summary": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis."
+      "published": "2026-09-26T20:21:56.000Z",
+      "summary": "Demonstrators are demanding early elections and accuse Pedro Sanchez's government of negligence."
     },
     {
       "title": "White House bars CNN from travelling with Trump on Air Force One",
@@ -1122,14 +1226,14 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "title": "Ireland decide to play Israel in Nations League after squad vote",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T19:42:57.000Z",
-      "summary": "Ireland's players have voted to proceed with their Nations League fixture against Israel on Sunday."
+      "published": "2026-09-26T19:43:03.000Z",
+      "summary": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis."
     },
     {
-      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "title": "Tenth woman's body found as South Africa police probe killings",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-09-26T18:30:04.000Z",
@@ -1137,26 +1241,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2323/live/c5e43700-b9d0-11f1-b9a2-c51fbcac2d8e.jpg"
     },
     {
-      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+      "title": "Ireland decide to play Israel in Nations League after squad vote",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T19:40:14.000Z",
-      "summary": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved."
-    },
-    {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-26T18:17:12.000Z",
-      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png"
-    },
-    {
-      "title": "Colombia extradites leader of armed group to US in shift towards Washington",
-      "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T19:21:53.000Z",
-      "summary": "Colombian President Abelardo De La Espriella has emerged as close ally the of Trump administration in South America."
+      "published": "2026-09-26T19:42:57.000Z",
+      "summary": "Ireland's players have voted to proceed with their Nations League fixture against Israel on Sunday."
     },
     {
       "title": "Backlash over data centers tests Europe's AI ambitions",
@@ -1166,11 +1255,11 @@ window.GDC_NEWS = {
       "summary": "Massive data centers needed to run AI are triggering protests across Europe. Their operators counter that they boost digital sovereignty and energy independence."
     },
     {
-      "title": "South African police discover body of 10th woman near Johannesburg",
-      "link": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T18:08:12.000Z",
-      "summary": "Police are investigating the killings in a country with one of the highest femicide rates in the world."
+      "published": "2026-09-26T19:40:14.000Z",
+      "summary": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved."
     },
     {
       "title": "Maricarmen Vs The ‘Vultures’: A “social tragedy” mobilising Spaniards",
@@ -1181,26 +1270,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/823a6b58-b9cd-11f1-bc0b-8f3418d01115/w:1024/p:16x9/SPAIN-HOUSING-EVICTION-000-C9FJ6W7.jpg"
     },
     {
-      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+      "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T18:00:43.000Z",
-      "summary": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping."
-    },
-    {
-      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-26T17:47:09.000Z",
-      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T17:55:22.000Z",
-      "summary": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people."
+      "published": "2026-09-26T19:21:53.000Z",
+      "summary": "Colombian President Abelardo De La Espriella has emerged as close ally the of Trump administration in South America."
     },
     {
       "title": "Pope Leo XIV addresses youth at giant Paris Mass",
@@ -1211,11 +1285,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/349f5534-b9cd-11f1-977d-555a0aff87a4/w:1024/p:16x9/pope-youth.png"
     },
     {
-      "title": "Trump rejects combining US-China AI efforts",
-      "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+      "title": "South African police discover body of 10th woman near Johannesburg",
+      "link": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T17:39:18.000Z",
-      "summary": "The US president said the fears over AI were just 'hoaxes'."
+      "published": "2026-09-26T18:08:12.000Z",
+      "summary": "Police are investigating the killings in a country with one of the highest femicide rates in the world."
     },
     {
       "title": "Thousands march in Madrid to protest eviction of 87-year-old woman",
@@ -1226,11 +1300,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/484addf2-b9cc-11f1-b153-91cf9f3cd539/w:1024/p:16x9/f9113121b07943e7c37808516612e5cf6957826e.jpg"
     },
     {
-      "title": "Iraq seeks US exemption from ban on Iranian flights",
-      "link": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T17:35:11.000Z",
-      "summary": "Ali al-Zaidi government urges dialogue to de-escalate regional tensions amid US sanctions on Iranian airlines."
+      "published": "2026-09-26T18:00:43.000Z",
+      "summary": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping."
     },
     {
       "title": "Pope Leo XIV 600,000 people gather for Mass on the Champs-Élysées",
@@ -1241,11 +1315,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6ff23eb4-b9c1-11f1-8f21-555a0aff87a4/w:1024/p:16x9/Image-1-6.jpg"
     },
     {
-      "title": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
+      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T17:27:19.000Z",
-      "summary": "Pro-Palestine protesters have marched on Labour’s annual conference in Liverpool."
+      "published": "2026-09-26T17:55:22.000Z",
+      "summary": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people."
     },
     {
       "title": "'A once-in-a-lifetime event': Faithful and curious flock to Pope Leo XIV's Mass in Paris",
@@ -1256,11 +1330,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5f823dc0-b9b9-11f1-bd50-8f3418d01115/w:1024/p:16x9/IMG-3138.jpg"
     },
     {
-      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
-      "link": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
+      "title": "Trump rejects combining US-China AI efforts",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T17:22:44.000Z",
-      "summary": "The Cuban foreign minister's comments come days after the US told the UN that ‘freedom will be coming’ to the country."
+      "published": "2026-09-26T17:39:18.000Z",
+      "summary": "The US president said the fears over AI were just 'hoaxes'."
     },
     {
       "title": "Pope Leo XIV calls to protect migrants during his official visit to France",
@@ -1271,11 +1345,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c97c0ffc-b9c4-11f1-8099-8f3418d01115/w:1024/p:16x9/EN-20260925-161012-161610-CS.jpg"
     },
     {
-      "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
+      "title": "Iraq seeks US exemption from ban on Iranian flights",
+      "link": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T17:15:43.000Z",
-      "summary": "Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region."
+      "published": "2026-09-26T17:35:11.000Z",
+      "summary": "Ali al-Zaidi government urges dialogue to de-escalate regional tensions amid US sanctions on Iranian airlines."
     },
     {
       "title": "German town bans 'stumbling stone' memorials to Nazi victims",
@@ -1286,11 +1360,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b9/live/73f91880-b9c0-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "title": "Venezuelan government, opposition agree to work towards reform of top court",
-      "link": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
+      "title": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T16:42:38.000Z",
-      "summary": "The two sides appointed a committee to review selection of candidates for Supreme Court of Justice."
+      "published": "2026-09-26T17:27:19.000Z",
+      "summary": "Pro-Palestine protesters have marched on Labour’s annual conference in Liverpool."
     },
     {
       "title": "Brazil's Lula bans online gambling ahead of presidential election",
@@ -1301,11 +1375,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10f/live/bf3283b0-b95a-11f1-b4ff-03f89ad0727d.jpg"
     },
     {
-      "title": "Women take up arms as sexual violence ravages eastern DRC",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
+      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+      "link": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T16:24:51.000Z",
-      "summary": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves"
+      "published": "2026-09-26T17:22:44.000Z",
+      "summary": "The Cuban foreign minister's comments come days after the US told the UN that ‘freedom will be coming’ to the country."
     },
     {
       "title": "At least 16 people killed as Russia and Ukraine trade deadly air strikes",
@@ -1316,88 +1390,22 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/8e463074-b9c0-11f1-91cd-c959b9d22ec6/w:1024/p:16x9/decc0eec72f8a868402d3a4e3ae6a161415d1834.jpg"
     },
     {
-      "title": "At least 10 people killed in Russian and Ukrainian attacks",
-      "link": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
+      "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-26T16:16:49.000Z",
-      "summary": "New strikes come as Russian FM accuses Europe of doing 'everything it can to thwart peace talks' with Ukraine."
-    },
-    {
-      "title": "Russia expected to intensify hybrid war on Europe",
-      "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-26T15:39:00.000Z",
-      "summary": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks…"
-    },
-    {
-      "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T16:14:35.000Z",
-      "summary": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians."
-    },
-    {
-      "title": "Watch: Bangkok declared flood disaster zone",
-      "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-26T15:34:18.000Z",
-      "summary": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50d/live/cf665130-b9be-11f1-9190-07b6ee147cf1.jpg"
-    },
-    {
-      "title": "Manchester City confident they can prove ‘innocence’ over charges: Chairman",
-      "link": "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T15:49:57.000Z",
-      "summary": "Man City to appeal 114 breaches of Premier League financial rules, chairman says club is confident of success."
-    },
-    {
-      "title": "France's baptism boom as more young people seek catholic community",
-      "link": "https://www.france24.com/en/france-s-baptism-boom-as-more-young-people-seek-catholic-community",
-      "source": "France 24",
-      "published": "2026-09-26T15:31:15.000Z",
-      "summary": "Charlotte Lam has more.",
-      "image": "https://s.france24.com/media/display/8a033fa0-b9bd-11f1-b841-555a0aff87a4/w:1024/p:16x9/EN-20260926-170950-171358-CS.jpg"
-    },
-    {
-      "title": "LIVE: England vs Spain – UEFA Nations League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T15:47:40.000Z",
-      "summary": "Follow the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage."
-    },
-    {
-      "title": "Leo XIV in France: 700,000 crowd attend Pope mass in central Paris",
-      "link": "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris",
-      "source": "France 24",
-      "published": "2026-09-26T15:19:59.000Z",
-      "summary": "Luke Shrago talks to Father Grégoire Catta.",
-      "image": "https://s.france24.com/media/display/2a832df6-b9bd-11f1-9da9-91cf9f3cd539/w:1024/p:16x9/EN-20260926-170033-170602-CS.jpg"
-    },
-    {
-      "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-      "link": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T15:43:11.000Z",
-      "summary": "Vatican estimates 700,000 people in attendance as the Catholic religious leader continues four-day tour of France."
-    },
-    {
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-26T15:12:25.000Z",
-      "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c708/live/4e426b20-b9b9-11f1-8b0a-2d37feea76dc.png"
-    },
-    {
-      "title": "Thousands of students protest German military conscription",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T15:23:38.000Z",
-      "summary": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans."
+      "published": "2026-09-26T17:15:43.000Z",
+      "summary": "Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region."
     }
   ],
   "africa": [
+    {
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-26T18:30:04.000Z",
+      "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2323/live/c5e43700-b9d0-11f1-b9a2-c51fbcac2d8e.jpg"
+    },
     {
       "title": "South African police discover body of 10th woman near Johannesburg",
       "link": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
@@ -1673,13 +1681,6 @@ window.GDC_NEWS = {
       "published": "2026-09-25T17:13:55.000Z",
       "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50e/live/5b7ab3c0-b8dc-11f1-953d-97bd0803bc08.jpg"
-    },
-    {
-      "title": "Namibia: King Mex Opens Studio to Support Aspiring Musicians",
-      "link": "https://allafrica.com/stories/202609250576.html",
-      "source": "AllAfrica",
-      "published": "2026-09-25T23:19:33.000Z",
-      "summary": "[New Era] ONDANGWA - For aspiring musicians in Ondangwa, producing a song can be an expensive hurdle, but one local artist is opening his doors to help emerging talent turn their musical…"
     }
   ]
 };
