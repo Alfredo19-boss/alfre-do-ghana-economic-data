@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T00:13:01.285Z",
+  "updated": "2026-09-26T04:59:08.935Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,61 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "He entered at eight. He is now 16: Ghana’s children growing up in prayer camps",
+      "link": "https://www.myjoyonline.com/he-entered-at-eight-he-is-now-16-ghanas-children-growing-up-in-prayer-camps/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T01:20:59.000Z",
+      "summary": "At eight years old, Hafiz Abdallah was taken to Nyinbonya, a prayer camp in Paga, near Ghana’s border with Burkina Faso. He is now 16. For eight years, his mother says, her son has lived at…",
+      "categories": [
+        "Features",
+        "Children",
+        "Nyinbonya",
+        "Prayer camps"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-15-1024x608.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Development must not always begin from Accra’ — Anwelle Foundation launched in Jirapa",
+      "link": "https://www.myjoyonline.com/development-must-not-always-begin-from-accra-anwelle-foundation-launched-in-jirapa/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T01:18:38.000Z",
+      "summary": "The Paramount Chief of the Jirapa Traditional Area, Naa Di-Naa Donlabong III, has called on residents and natives of Jirapa living outside the community to take greater responsibility for…",
+      "categories": [
+        "Regional",
+        "Accra",
+        "Anwelle Foundation",
+        "Jirapa",
+        "Paramount Chief"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-23.47.36-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hollard Ghana announces death of Group CEO Patience Akyianu",
+      "link": "https://www.graphic.com.gh/news/general-news/hollard-ghana-announces-death-of-group-ceo-patience-akyianu.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T00:30:10.000Z",
+      "summary": "Hollard Ghana has announced the death of its Group CEO, Patience Akyianu.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2020/aug/09/Patience%20Akyianu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Police arrest 2 suspects in murder of Senegalese goalkeeper in Kumasi in 2025",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-2-suspects-in-murder-of-senegalese-goalkeeper-in-kumasi-in-2025.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-26T00:12:23.000Z",
+      "summary": "Ghana Police Service, through a sustained intelligence led operation, has arrested two key suspects in connection with the kidnapping and murder of Cheikh Toure, a Senegalese goalkeeper, in…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/26/senegal.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "PKO trio eye victories at Odwira Festival",
       "link": "https://www.myjoyonline.com/pko-trio-eye-victories-at-odwira-festival/",
@@ -110,38 +165,6 @@ window.GDC_PAPERS = {
         "UTAG"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-2-3.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Health Ministry moves to integrate traditional medicine into mainstream healthcare",
-      "link": "https://www.myjoyonline.com/health-ministry-moves-to-integrate-traditional-medicine-into-mainstream-healthcare/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T20:41:57.000Z",
-      "summary": "The Deputy Minister for Health, Prof. Dr Grace Ayensu-Danquah, has called for greater integration of scientifically validated traditional medicine into Ghana’s mainstream healthcare system.",
-      "categories": [
-        "Health",
-        "National",
-        "Health Ministry",
-        "Prof. Dr Grace Ayensu-Danquah",
-        "Traditional medicine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/825268474_1098353505930116_2227356843412589969_n-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "550 pupils in Kintampo South get educational lifeline as ‘Seeds of Hope’ reaches farming communities",
-      "link": "https://www.myjoyonline.com/550-pupils-in-kintampo-south-get-educational-lifeline-as-seeds-of-hope-reaches-farming-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T20:21:09.000Z",
-      "summary": "More than 550 pupils in two farming communities in the Kintampo South District have received school supplies as part of an outreach programme aimed at easing some of the educational…",
-      "categories": [
-        "Education",
-        "Regional",
-        "550 pupils",
-        "educational lifeline",
-        "Kintampo South District"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-19.12.13-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -251,30 +274,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/25/IVAN.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "180 Ghanaians repatriated from Libya with support from IOM, ECOWAS",
-      "link": "https://www.graphic.com.gh/news/general-news/180-ghanaians-repatriated-from-libya-with-support-from-iom-ecowas.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T14:58:02.000Z",
-      "summary": "The government of Ghana, in collaboration with the International Organisation for Migration and the Economic Community of West African States, has facilitated the safe return of 180…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Libya.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Africa needs partnership, not charity: President tells global leaders at UN - Warns continent won't be arena for new scramble",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-africa-needs-partnership-not-charity-president-tells-global-leaders-at-un-warns-continent-wont-be-arena-for-new-scramble.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-25T11:22:13.000Z",
-      "summary": "President John Dramani Mahama has demanded from world leaders equal partnership anchored on mutual respect for Africa, stressing that the continent is not asking for charity.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/25/Mahama.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "MoFA, ABC Oyasasee Yie sign fertilizer MoU",
