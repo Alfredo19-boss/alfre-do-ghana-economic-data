@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T17:29:39.552Z",
+  "updated": "2026-09-26T18:54:06.393Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,79 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana, UNICEF strengthen partnership to advance child protection",
+      "link": "https://www.myjoyonline.com/ghana-unicef-strengthen-partnership-to-advance-child-protection/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T18:49:21.000Z",
+      "summary": "Ghana and the United Nations Children’s Fund (UNICEF) have reaffirmed their commitment to strengthening collaboration to protect children and empower adolescent girls across the country.",
+      "categories": [
+        "National",
+        "Child Protection",
+        "Ghana",
+        "UNICEF"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_6022.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Day Two of 3rd Republic Bank-JoyNews Habitat Fair ends with great homeownership offers and financing solutions",
+      "link": "https://www.myjoyonline.com/day-two-of-3rd-republic-bank-joynews-habitat-fair-ends-with-great-homeownership-offers-and-financing-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T18:45:30.000Z",
+      "summary": "Day Two of the 3rd Republic Bank-JoyNews Habitat Fair Clinic has ended at Junction Mall, Nungua, after another day of strong engagement between prospective homeowners, property investors…",
+      "categories": [
+        "National",
+        "3rd Republic Bank-JoyNews Habitat Fair"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260926150955_IMG_8703.jpg-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Guinness Ghana DJ Awards 2026 Pub Fest celebrates Ghana’s DJ culture as Accra turns up the energy",
+      "link": "https://www.myjoyonline.com/guinness-ghana-dj-awards-2026-pub-fest-celebrates-ghanas-dj-culture-as-accra-turns-up-the-energy/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T18:27:35.000Z",
+      "summary": "The road to the 2026 Guinness Ghana DJ Awards, powered by Smirnoff, is gathering pace, with the Pub Fest tour bringing Ghana’s DJ culture to audiences across the country ahead of the grand…",
+      "categories": [
+        "Arts and Culture",
+        "Comp. Entertainment",
+        "Lifestyle",
+        "Guinness Ghana DJ Awards 2026",
+        "Pub Fest"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/014a4514-8cea-4510-8a93-419e070840ee.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "10th woman found dead in South Africa’s string of killings",
+      "link": "https://www.myjoyonline.com/10th-woman-found-dead-in-south-africas-string-of-killings/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T18:26:58.000Z",
+      "summary": "South African police on Saturday found another body in Ekurhuleni, east of Johannesburg, bringing to 10 the number of women found dead in the municipality over the past two months.",
+      "categories": [
+        "Africa",
+        "International",
+        "South Africa",
+        "Women murder"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_6021-1024x686.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "French Embassy trains Ghana Police CTU in counter-terrorism operations",
+      "link": "https://www.myjoyonline.com/french-embassy-trains-ghana-police-ctu-in-counter-terrorism-operations/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T17:55:56.000Z",
+      "summary": "The French Embassy in Ghana has successfully trained personnel of the Counter Terrorism Unit (CTU) of the Ghana Police Service in a two-week intensive workshop aimed at enhancing Ghana's…",
+      "categories": [
+        "National",
+        "French Embassy",
+        "Police"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-16.54.23-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UPSA uncovers mass results manipulation involving 178 students, over 500 results compromised",
       "link": "https://www.myjoyonline.com/upsa-uncovers-mass-results-manipulation-involving-178-students-over-500-results-compromised/",
@@ -82,91 +155,6 @@ window.GDC_PAPERS = {
         "Sylvester Adinam Mensah"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-28-at-2.37.01-PM-1-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ga language under threat of decline as children shy away from speaking it – Sylvester Mensah",
-      "link": "https://www.myjoyonline.com/ga-language-under-threat-of-decline-as-children-shy-away-from-speaking-it-sylvester-mensah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T16:42:08.000Z",
-      "summary": "The Chief Executive Officer of Ghana EXIM Bank, Sylvester Adinam Mensah, has warned that the Ga language faces growing pressure as some children hesitate to speak it and others cannot speak…",
-      "categories": [
-        "National",
-        "Regional",
-        "Ga Language",
-        "Ga Traditional Area",
-        "Gexim Bank",
-        "Sylvester Mensah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-2823-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Let every Ga child you raise know the Ga language and story’ – Sylvester Mensah",
-      "link": "https://www.myjoyonline.com/let-every-ga-child-you-raise-know-the-ga-language-and-story-sylvester-mensah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T16:35:43.000Z",
-      "summary": "The Chief Executive Officer of Ghana EXIM Bank, Sylvester Adinam Mensah, has called on the Ga traditional authorities and parents for greater efforts to teach their children the Ga language…",
-      "categories": [
-        "Arts and Culture",
-        "National",
-        "News",
-        "Regional",
-        "Exim Bank",
-        "Ga Traditional Area",
-        "Latenu Radio",
-        "Sylvester Adinam Mensah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-28-at-2.37.01-PM-1-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We are not deterred’ – Ablakwa responds to backlash over South Africa evacuation",
-      "link": "https://www.myjoyonline.com/we-are-not-deterred-ablakwa-responds-to-backlash-over-south-africa-evacuation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T16:34:16.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has defended the government’s decision to evacuate Ghanaians from South Africa, saying the safety, welfare and dignity of citizens remain a…",
-      "categories": [
-        "National",
-        "News",
-        "Evacuation",
-        "Foreign Minister",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-7.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NCA announces major voice and data disruption across Northern Ghana due to fibre cuts",
-      "link": "https://www.myjoyonline.com/nca-announces-major-voice-and-data-disruption-across-northern-ghana-due-to-fibre-cuts/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T15:52:49.000Z",
-      "summary": "The National Communications Authority (NCA) has announced a significant disruption to voice and data services across the five northern regions of Ghana and parts of the Oti Region.",
-      "categories": [
-        "National",
-        "Top Story",
-        "NCA",
-        "Northern region",
-        "Oti Region"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-113.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: Housing solutions take centre stage at Day 2 of the 3rd Republic Bank-JoyNews Habitat Fair",
-      "link": "https://www.myjoyonline.com/photos-housing-solutions-take-centre-stage-at-day-2-of-the-3rd-republic-bank-joynews-habitat-fair/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T15:20:44.000Z",
-      "summary": "Day Two of the 3rd Republic Bank-JoyNews Habitat Fair Clinic continues to draw patrons to Junction Mall, with participating institutions showcasing a wide range of products and services for…",
-      "categories": [
-        "Events",
-        "HP News 1",
-        "National",
-        "News",
-        "Photo Story",
-        "3rd Republic Bank-JoyNews Habitat Fair Clinic"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260926124252_IMG_8645.jpg-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
