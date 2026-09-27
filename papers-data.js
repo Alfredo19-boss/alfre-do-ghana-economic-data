@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-27T11:43:42.528Z",
+  "updated": "2026-09-27T15:49:00.775Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,117 +25,135 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Africa’s richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "link": "https://www.myjoyonline.com/africas-richest-man-helps-fund-660m-fuel-pipeline-between-ethiopia-and-djibouti/",
+      "title": "World Vision Ghana, Ahafo districts sign MoU for universal WASH coverage",
+      "link": "https://www.myjoyonline.com/world-vision-ghana-ahafo-districts-sign-mou-for-universal-wash-coverage/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T11:19:06.000Z",
-      "summary": "Nigerian billionaire Aliko Dangote has announced that he is helping to fund a new $660m (£500m) fuel pipeline between Ethiopia and Djibouti",
+      "published": "2026-09-27T15:44:02.000Z",
+      "summary": "World Vision Ghana has signed a Memorandum of Understanding (MoU) with the Asunafo North Municipal and Asutifi North District Assemblies to deliver universal water, sanitation and hygiene…",
       "categories": [
-        "Africa",
-        "Aliko Dangote",
-        "Ethiopia"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3487-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "link": "https://www.myjoyonline.com/security-lapses-at-utah-campus-where-charlie-kirk-was-killed-review-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T11:14:52.000Z",
-      "summary": "An independent review has pointed to a number of security shortcomings at the Utah campus where conservative activist Charlie Kirk was shot dead last year.",
-      "categories": [
-        "International",
-        "Charlie Kirk",
-        "Killed"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3485-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "White House bars CNN from travelling with Trump on Air Force One",
-      "link": "https://www.myjoyonline.com/white-house-bars-cnn-from-travelling-with-trump-on-air-force-one-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T11:09:23.000Z",
-      "summary": "Broadcaster CNN has been barred from travelling with US President Donald Trump on Air Force One for a trip to Tennessee on Saturday.",
-      "categories": [
-        "International",
-        "CNN",
-        "White House"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3484-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pope praises young people’s ‘energy and commitment’ at huge open-air Mass in Paris",
-      "link": "https://www.myjoyonline.com/pope-praises-young-peoples-energy-and-commitment-at-huge-open-air-mass-in-paris/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T11:00:25.000Z",
-      "summary": "Pope Leo XIV has praised the \"enthusiasm, energy and commitment\" young people bring to the Catholic Church as dense crowds attended an open-air Mass in Paris.",
-      "categories": [
-        "International",
-        "Mass",
-        "Paris",
-        "Pope Leo XIV"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3481-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nyankamam residents benefit from free medical screening, healthcare outreach",
-      "link": "https://www.myjoyonline.com/nyankamam-residents-benefit-from-free-medical-screening-healthcare-outreach/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T10:55:01.000Z",
-      "summary": "Hundreds of residents in Nyankamam, a community in the Aowin Municipality of the Western North Region, have benefited from a free medical screening and healthcare outreach organised and…",
-      "categories": [
-        "Health",
+        "News",
         "Regional",
-        "Nyankamam"
+        "Ahafo districts",
+        "WASH coverage",
+        "World Vision Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3473-1024x768.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-15.21.29-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana, Boeing explore setting up regional aircraft maintenance hub",
-      "link": "https://www.myjoyonline.com/ghana-boeing-explore-setting-up-regional-aircraft-maintenance-hub/",
+      "title": "When the gold engine stutters: What Ghana’s Cedi and reserves are telling us about the new economic architecture",
+      "link": "https://www.myjoyonline.com/when-the-gold-engine-stutters-what-ghanas-cedi-and-reserves-are-telling-us-about-the-new-economic-architecture/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T10:54:55.000Z",
-      "summary": "Ghana and American aircraft manufacturer, Boeing, are exploring the establishment of a regional Maintenance, Repair and Overhaul (MRO) hub in the country to serve airlines operating across…",
+      "published": "2026-09-27T15:26:31.000Z",
+      "summary": "For much of 2025, the economic narrative was one of remarkable stabilisation. Inflation fell sharply, the cedi appreciated strongly, fiscal conditions improved and international reserves…",
       "categories": [
-        "HP News 8",
+        "Opinion",
+        "Bank of Ghana",
+        "Ghana",
+        "Gideon Boako",
+        "Goldbod",
+        "Government"
+      ],
+      "image": null,
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two reportedly die after being trapped in mining pit at Juaboso",
+      "link": "https://www.myjoyonline.com/two-reportedly-die-after-being-trapped-in-mining-pit-at-juaboso/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T15:16:26.000Z",
+      "summary": "Two people have died following an incident at a mining site in Juaboso in the Juaboso District of the Western North Region.",
+      "categories": [
+        "HP News 4",
+        "News",
+        "Regional",
+        "Juaboso",
+        "mining pit"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Juaboso-galamsey-death.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Petrosol cleans up Wa Municipal Hospital, to donate medical equipment",
+      "link": "https://www.myjoyonline.com/petrosol-cleans-up-wa-municipal-hospital-to-donate-medical-equipment/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T15:15:24.000Z",
+      "summary": "Petrosol Platinum Energy PLC has embarked on a clean-up exercise at the Wa Municipal Hospital as part of its annual Corporate Social Responsibility (CSR) initiative, with plans to donate…",
+      "categories": [
+        "News",
+        "Regional",
+        "Petrosol",
+        "Wa Municipal Hospital"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-12.44.34-1-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KiDi brings the hits to London in sold-out UK headline concert",
+      "link": "https://www.myjoyonline.com/kidi-brings-the-hits-to-london-in-sold-out-uk-headline-concert/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T14:47:31.000Z",
+      "summary": "Ghanaian singer KiDi has made a strong mark in London with a sold-out performance at his first-ever UK solo headline concert.",
+      "categories": [
+        "HP News 7",
+        "Music",
         "National",
-        "boeing",
-        "Ghana"
+        "KiDi",
+        "London"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3469.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-2.46.22-PM-949x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "link": "https://www.myjoyonline.com/bangkok-roads-submerged-as-flood-disaster-declared/",
+      "title": "The last goodbye of Ghanaian shot dead in the US",
+      "link": "https://www.myjoyonline.com/the-last-goodbye-of-ghanaian-shot-dead-in-the-us/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T10:54:31.000Z",
-      "summary": "A flood emergency disaster has been declared across Bangkok after more than 300mm (12in) of rain fell since Thursday, leavingroads in the Thai capital submerged.",
+      "published": "2026-09-27T14:29:15.000Z",
+      "summary": "At about 6 pm on Friday, 18 September 2026, members of the Akamani family joined a conference call to discuss whether to send a delegation to a funeral in Biu, near Navrongo in the Upper…",
       "categories": [
-        "International",
-        "Bankok",
-        "Flood"
+        "Features",
+        "HP News 9",
+        "National",
+        "Dr Akamani",
+        "USA Shooting"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3477-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_20260926_131334221.jpg-1024x769.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Four killed in helicopter crash near Montreal",
-      "link": "https://www.myjoyonline.com/four-killed-in-helicopter-crash-near-montreal/",
+      "title": "MCC opens door to Ghana again as MiDA revives development partnership",
+      "link": "https://www.myjoyonline.com/mcc-opens-door-to-ghana-again-as-mida-revives-development-partnership/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T10:48:58.000Z",
-      "summary": "Four people have died after a helicopter crashed in a small town 50km (31 miles) from Montreal, Quebec's provincial police have told the BBC.",
+      "published": "2026-09-27T14:19:34.000Z",
+      "summary": "The engagement, held in New York, brought together senior officials of the two institutions to reflect on Ghana’s longstanding partnership with MCC, the lessons and legacy of the country’s…",
       "categories": [
-        "International",
-        "Helicopter",
-        "Montreal"
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "Alex Mould",
+        "Charles Abugre",
+        "Jason Small",
+        "MCC",
+        "MiDA",
+        "TAriq Ahmed"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3476-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-16.57.41-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CSIR moves to turn scientific research into jobs, national growth",
+      "link": "https://www.myjoyonline.com/csir-moves-to-turn-scientific-research-into-jobs-national-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T14:08:41.000Z",
+      "summary": "The Council for Scientific and Industrial Research (CSIR) will bring scientists, businesses, investors and policymakers together in October to help turn locally developed research into…",
+      "categories": [
+        "National",
+        "News",
+        "CSIR",
+        "CSIR moves to turn scientific research into jobs",
+        "Scientific research"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Science-Innovation-Fair.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
