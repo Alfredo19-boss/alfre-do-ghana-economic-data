@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-27T00:54:38.022Z",
+  "updated": "2026-09-27T05:59:44.846Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,120 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Crowds, deals and home solutions as Republic Bank-JoyNews Habitat Fair enters final day",
+      "link": "https://www.myjoyonline.com/crowds-deals-and-home-solutions-as-republic-bank-joynews-habitat-fair-enters-final-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T05:14:58.000Z",
+      "summary": "The Junction Mall in Nungua has been buzzing with activity as strong patronage continues to characterise the third Republic Bank-JoyNews Habitat Fair Clinic. The three-day fair, which…",
+      "categories": [
+        "Events",
+        "National",
+        "News",
+        "Top Story",
+        "Habitat Fair",
+        "home solutions",
+        "JoyNews",
+        "Republic Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260926124422_IMG_8655.jpg-1024x683-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fire Service finds only five functional hydrants in Ministries enclave",
+      "link": "https://www.myjoyonline.com/fire-service-finds-only-five-functional-hydrants-in-ministries-enclave/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T05:00:00.000Z",
+      "summary": "Only five of about 30 fire hydrants inspected within the Ministries enclave in Accra were found to be fully functional, raising concerns about firefighting preparedness in the area. The…",
+      "categories": [
+        "National",
+        "enclave",
+        "Fire Service",
+        "hydrants",
+        "Ministries"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/hydrant.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government to sign 1,200MW gas power deal before end of 2026 – Mahama",
+      "link": "https://www.myjoyonline.com/government-to-sign-1200mw-gas-power-deal-before-end-of-2026-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T05:00:00.000Z",
+      "summary": "President John Dramani Mahama has announced plans for Ghana to build a 1,200-megawatt (MW) state-owned gas-fired thermal power plant, which would become the country's largest single power…",
+      "categories": [
+        "Energy",
+        "HP News 6",
+        "National",
+        "2026",
+        "Gas power",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-38.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "West Mamprusi launches community-led WASH and livelihoods project across 100 communities",
+      "link": "https://www.myjoyonline.com/west-mamprusi-launches-community-led-wash-and-livelihoods-project-across-100-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T04:58:46.000Z",
+      "summary": "A two-year partnership aimed at strengthening community agency, improving access to water, sanitation and hygiene (WASH), enhancing livelihoods and deepening government accountability has…",
+      "categories": [
+        "Regional",
+        "WASH",
+        "West Mamprusi Municipality"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/33a5d9c5-7a2a-4def-997e-7d7efae0d56e-1024x562.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+      "link": "https://www.myjoyonline.com/iran-says-it-will-wait-for-official-us-response-after-trump-rejects-strait-of-hormuz-proposal/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T04:44:00.000Z",
+      "summary": "Iran has said it will wait for an official response from US negotiators after President Donald Trump rejected a proposal to reopen the Strait of Hormuz to commercial shipping within seven…",
+      "categories": [
+        "HP News 10",
+        "International",
+        "Iran",
+        "Strait of Hormuz",
+        "Trump"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg-1024x575.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "90 Oti communities to benefit from government electrification project",
+      "link": "https://www.myjoyonline.com/90-oti-communities-to-benefit-from-government-electrification-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T04:42:20.000Z",
+      "summary": "Ninety communities across all nine districts of the Oti Region are set to benefit from a government electrification project aimed at expanding electricity access and improving the…",
+      "categories": [
+        "Regional",
+        "Electrification project",
+        "Oti communities",
+        "Power networks"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-39.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Floods leave 246 without shelter as 93 houses collapse in North East Gonja",
+      "link": "https://www.myjoyonline.com/floods-leave-246-without-shelter-as-93-houses-collapse-in-north-east-gonja/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T04:30:04.000Z",
+      "summary": "At least 93 houses have collapsed and more than 246 residents have been left without shelter after torrential rains caused severe flooding in parts of the North East Gonja District of the…",
+      "categories": [
+        "HP News 2",
+        "Regional",
+        "Collapsed houses",
+        "Floods",
+        "NADMO",
+        "North east Gonja"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-17.09.41-1024x568.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Labour Minister wants SOEs to help shape new public pay system",
       "link": "https://www.myjoyonline.com/labour-minister-wants-soes-to-help-shape-new-public-pay-system/",
       "source": "MyJoyOnline",
@@ -38,118 +152,6 @@ window.GDC_PAPERS = {
         "Labour Minister"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Labour-Minister-1-1024x687.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IPEC will ensure Equity and Sustainability in SOEs Compensation",
-      "link": "https://www.myjoyonline.com/ipec-will-ensure-equity-and-sustainability-in-soes-compensation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T23:17:53.000Z",
-      "summary": "The Chief Executive of the Fair Wages and Salaries Commission (FWSC), Dr. George Smith-Graham, has called on Chief Executives of State-Owned Enterprises (SOEs) to support government's move…",
-      "categories": [
-        "Economy",
-        "National",
-        "News",
-        "CEOs",
-        "FWSC",
-        "IPEC",
-        "Smith Graham",
-        "SOEs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Smith_Graham2-1024x673.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "White House bars CNN from travelling with Trump on Air Force One",
-      "link": "https://www.myjoyonline.com/white-house-bars-cnn-from-travelling-with-trump-on-air-force-one/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T22:34:23.000Z",
-      "summary": "Broadcaster CNN has been barred from travelling with US President Donald Trump on Air Force One for a trip to Tennessee on Saturday. The move is the latest in a battle between the White…",
-      "categories": [
-        "International",
-        "Air Force One",
-        "CNN",
-        "Trump",
-        "White House"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg-1024x576.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fennis wins second consecutive ITF J60 title in Accra",
-      "link": "https://www.myjoyonline.com/fennis-wins-second-consecutive-itf-j60-title-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T22:30:10.000Z",
-      "summary": "Dutch teenager Peppa Fennis has won her second consecutive ITF J60 girls' singles title at the Accra Sports Stadium National Tennis Centre in Ghana.",
-      "categories": [
-        "HP Sports 5",
-        "Tennis",
-        "ITF J60 Accra tennis",
-        "Peppa Fennis"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260926-WA0066-676x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Spain beat England in thriller after Kane penalty miss",
-      "link": "https://www.myjoyonline.com/spain-beat-england-in-thriller-after-kane-penalty-miss/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T22:24:09.000Z",
-      "summary": "Spain struck inside two minutes when Lamine Yamal was the beneficiary of Marc Guehi's error and slotted past James Trafford.",
-      "categories": [
-        "Football",
-        "England",
-        "Spain"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ENGLAND-SPAIN.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Zaidan’s late goal ends Hearts of Oak unbeaten start",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-zaidans-late-goal-ends-hearts-of-oak-unbeaten-start/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T22:20:47.000Z",
-      "summary": "The decisive moment came at the Aliu Mahama Sports Stadium after an entertaining Matchday Four encounter, with Zaidan producing a composed finish late in the game to spark wild celebrations…",
-      "categories": [
-        "Football",
-        "GPL",
-        "Hearts of Oak",
-        "Karela United"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Zaidan.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CEOs demand clarity on pay harmonisation, board autonomy as FWSC engages SOEs bosses over IPEC transition",
-      "link": "https://www.myjoyonline.com/ceos-demand-clarity-on-pay-harmonisation-board-autonomy-as-fwsc-engages-soes-bosses-over-ipec-transition/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T22:18:24.000Z",
-      "summary": "The Fair Wages and Salaries Commission (FWSC) on Friday engaged chief executive officers of State-Owned Enterprises (SOEs) on the transition to the Independent Public Emoluments Commission…",
-      "categories": [
-        "Economy",
-        "National",
-        "News",
-        "CEOs",
-        "FWSC",
-        "IPEC",
-        "SOEs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/FWSC1-1024x674.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026 Women’s Super Cup: FC Savannah, Epiphany Warriors maintain top spots ahead of final group games",
-      "link": "https://www.myjoyonline.com/2026-womens-super-cup-fc-savannah-epiphany-warriors-maintain-top-spots-ahead-of-final-group-games/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T22:09:12.000Z",
-      "summary": "FC Savannah, who beat Fosu Royal Ladies in their opening game, maintained top position in Group A despite their goalless draw against Jonina Ladies on matchday two.",
-      "categories": [
-        "Football",
-        "2026 Women's Super Cup",
-        "Epiphany Warriors",
-        "FC Savannah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_1431-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
