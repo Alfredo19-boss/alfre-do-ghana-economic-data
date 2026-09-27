@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-26T22:43:21.525Z",
+  "updated": "2026-09-27T00:54:38.022Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,41 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Labour Minister wants SOEs to help shape new public pay system",
+      "link": "https://www.myjoyonline.com/labour-minister-wants-soes-to-help-shape-new-public-pay-system/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T23:47:35.000Z",
+      "summary": "The Minister for Labour, Jobs and Employment, Emmanuel Kwadwo Agyekum, has urged Chief Executives of State-Owned Enterprises (SOEs) to actively contribute to the development of Ghana’s…",
+      "categories": [
+        "Economy",
+        "National",
+        "FWSC",
+        "IPEC",
+        "Labour Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Labour-Minister-1-1024x687.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IPEC will ensure Equity and Sustainability in SOEs Compensation",
+      "link": "https://www.myjoyonline.com/ipec-will-ensure-equity-and-sustainability-in-soes-compensation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-26T23:17:53.000Z",
+      "summary": "The Chief Executive of the Fair Wages and Salaries Commission (FWSC), Dr. George Smith-Graham, has called on Chief Executives of State-Owned Enterprises (SOEs) to support government's move…",
+      "categories": [
+        "Economy",
+        "National",
+        "News",
+        "CEOs",
+        "FWSC",
+        "IPEC",
+        "Smith Graham",
+        "SOEs"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Smith_Graham2-1024x673.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "White House bars CNN from travelling with Trump on Air Force One",
       "link": "https://www.myjoyonline.com/white-house-bars-cnn-from-travelling-with-trump-on-air-force-one/",
@@ -115,36 +150,6 @@ window.GDC_PAPERS = {
         "FC Savannah"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_1431-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Is EOCO responsible for determining lawyers’ fees?’ – Baffour Awuah",
-      "link": "https://www.myjoyonline.com/is-eoco-responsible-for-determining-lawyers-fees-baffour-awuah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T22:08:24.000Z",
-      "summary": "Member of Parliament for Manyhia South, Nana Agyei Baffour Awuah, has questioned whether the Economic and Organised Crime Office (EOCO) is responsible for regulating or determining lawyers’…",
-      "categories": [
-        "National",
-        "EOCO",
-        "Nana Adjei Baffour Awuah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_2411.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "David Beckles claims second J60 Accra title",
-      "link": "https://www.myjoyonline.com/david-beckles-claims-second-j60-accra-title/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T21:41:35.000Z",
-      "summary": "American teenager David Beckles has won the J60 Accra boys’ singles title for a second time after beating France’s Antoine Baudot in the final.",
-      "categories": [
-        "HP Sports 4",
-        "Tennis",
-        "David Beckles",
-        "ITF Junior Tennis Tournament",
-        "Tennis Foundation Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260926-WA0065-730x1024.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
