@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-27T19:20:29.369Z",
+  "updated": "2026-09-27T22:22:31.526Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,134 +25,130 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "6,079 promotion cases fully processed and paid – CAGD says amid nationwide teachers’ strike",
-      "link": "https://www.myjoyonline.com/6079-promotion-cases-fully-processed-and-paid-cagd-says-amid-nationwide-teachers-strike/",
+      "title": "Localization must transfer decision-making power, not just project responsibilities",
+      "link": "https://www.myjoyonline.com/localization-must-transfer-decision-making-power-not-just-project-responsibilities/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T19:15:10.000Z",
-      "summary": "The Controller and Accountant-General’s Department (CAGD) says it has fully processed and paid 6,079 cases involving promoted teachers, including applicable promotion arrears.",
+      "published": "2026-09-27T22:14:32.000Z",
+      "summary": "A local NGO is invited to a project meeting after the proposal has already been approved. When the donor selects the problem, budget, indicators and deadline, the Ghanaian NGO is expected…",
       "categories": [
-        "Education",
-        "National",
-        "promotopn",
-        "Strike",
-        "Teachers"
+        "Opinion",
+        "Localization",
+        "NGO",
+        "Project"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/10/Controller-and-Accouontant-Generals-Department-CAGD.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-2-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Teacher unions to meet government Monday over nationwide strike",
-      "link": "https://www.myjoyonline.com/teacher-unions-to-meet-government-monday-over-nationwide-strike/",
+      "title": "Modernising Ghana’s traditional markets through the 24-Hour Economy markets initiative",
+      "link": "https://www.myjoyonline.com/modernising-ghanas-traditional-markets-through-the-24-hour-economy-markets-initiative/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T19:00:01.000Z",
-      "summary": "Pre-tertiary teacher unions are set to meet the government on Monday, September 28, in a fresh effort to resolve outstanding concerns over their conditions of service and pave the way for…",
+      "published": "2026-09-27T22:12:01.000Z",
+      "summary": "These markets play a significant role in Ghana’s economy. Historical estimates cited by the World Bank and the United States Department of Agriculture’s Foreign Agricultural Service place…",
       "categories": [
-        "Education",
-        "HP News 1",
-        "National",
-        "Meeting",
-        "Strike",
-        "Teacher Unions"
+        "Business",
+        "Features",
+        "24-hour economy",
+        "GIPA",
+        "traditional markets"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-4.28.21-AM-1024x612.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-08-at-15.20.27-1-819x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Photo story: Republic Bank-JoyNews Habitat Fair clinic wraps up after three days of housing solutions, expert engagement",
-      "link": "https://www.myjoyonline.com/photo-story-republic-bank-joynews-habitat-fair-wraps-up-after-three-days-of-housing-solutions-expert-engagement/",
+      "title": "New economy will boost local production and create jobs – Finance Minister",
+      "link": "https://www.myjoyonline.com/new-economy-will-boost-local-production-and-create-jobs-finance-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T18:56:46.000Z",
-      "summary": "After three days of engaging activities, professional guidance and opportunities for prospective homeowners, the Republic Bank-JoyNews Habitat Fair Clinic has drawn to a close, leaving…",
+      "published": "2026-09-27T22:06:11.000Z",
+      "summary": "“Our mission is to produce more of what we consume and create more jobs here at home,” he stated.",
       "categories": [
-        "HP News 3",
-        "National",
-        "Photo Story",
-        "Republic Bank-JoyNews Habitat Fair"
+        "Business",
+        "Economy",
+        "Dr. Ato Forson",
+        "Ministry of Finance",
+        "new economy"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260927155015_IMG_9081.jpg-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/784076039_1028062920059497_2352046554807316020_n-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "National Peace Council urges investment in youth to sustain Ghana’s peace",
-      "link": "https://www.myjoyonline.com/national-peace-council-urges-investment-in-youth-to-sustain-ghanas-peace/",
+      "title": "Real-Time VAT on cross-border digital services – not a new tax and does not violate double taxation principle",
+      "link": "https://www.myjoyonline.com/real-time-vat-on-cross-border-digital-services-not-a-new-tax-and-does-not-violate-double-taxation-principle/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T18:34:45.000Z",
-      "summary": "The National Peace Council (NPC) has called for greater investment in young people’s education, tolerance, critical thinking and capacity to promote peace and prevent violence.",
+      "published": "2026-09-27T21:16:00.000Z",
+      "summary": "Ghana’s digital economy has grown faster than its traditional VAT collection mechanisms. In 2022, only a few non-resident e-commerce entities were on the GRA’s radar.",
+      "categories": [
+        "Opinion",
+        "Elsie Appau-Klu",
+        "Real-time tax"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3503.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Digitalisation, AI key to Ghana’s tourism transformation – GHATOF",
+      "link": "https://www.myjoyonline.com/digitalisation-ai-key-to-ghanas-tourism-transformation-ghatof/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T21:04:03.000Z",
+      "summary": "The Ghana Tourism Federation (GHATOF) has called on stakeholders in the tourism and hospitality industry to embrace digitalisation and artificial intelligence (AI) to transform the sector…",
       "categories": [
         "National",
         "News",
+        "AI",
+        "Digitalisation",
+        "Tourism"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/seth-ocra-1024x763.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Stronger GTA-private sector partnership needed to grow tourism – GHATOF",
+      "link": "https://www.myjoyonline.com/stronger-gta-private-sector-partnership-needed-to-grow-tourism-ghatof/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T20:53:54.000Z",
+      "summary": "The Ghana Tourism Federation (GHATOF) has called for stronger collaboration between the Ghana Tourism Authority (GTA) and private-sector tourism associations to help build a more…",
+      "categories": [
+        "National",
+        "News",
+        "GHATOF",
+        "GTA",
+        "Private sector partnership",
+        "Tourism"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/seth-ocra-1-1024x763.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amazon eyes Ghana for broadband expansion after talks with Mahama",
+      "link": "https://www.myjoyonline.com/amazon-eyes-ghana-for-broadband-expansion-after-talks-with-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T20:09:29.000Z",
+      "summary": "Amazon is considering Ghana as a potential partner in its efforts to expand broadband connectivity across Africa following high-level talks between President John Dramani Mahama and senior…",
+      "categories": [
+        "National",
+        "News",
+        "Amazon",
+        "broadband expansion",
         "Ghana",
-        "National peace council",
-        "Peace",
-        "Youth"
+        "Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-12.41.46.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-19.01.02-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Afenyo-Markin urges youth to speak up against injustice",
-      "link": "https://www.myjoyonline.com/afenyo-markin-urges-youth-to-speak-up-against-injustice/",
+      "title": "National Investment Quiz 2026: Six schools qualify for quarter-finals",
+      "link": "https://www.myjoyonline.com/national-investment-quiz-2026-six-schools-qualify-for-quarter-finals/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T18:23:59.000Z",
-      "summary": "The Minority Leader and Member of Parliament for the Effutu Constituency, Alexander Afenyo-Markin, has called on young people to speak up against injustice and defend their fundamental…",
+      "published": "2026-09-27T19:41:52.000Z",
+      "summary": "Six Senior High Schools have secured qualification to the quarter-final stage of the 2026 National Investment Quiz, following a competitive preliminary round. The schools are Our Lady of…",
       "categories": [
-        "National",
-        "News",
-        "Afenyo-Markin",
-        "Injustice",
-        "Youth"
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "Ghana",
+        "National Investment Quiz Competition"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-17.33.55-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CAF annuls Edo Queens victory, orders WAFU B final to resume from extra time",
-      "link": "https://www.myjoyonline.com/caf-annuls-edo-queens-victory-orders-wafu-b-final-to-resume-from-extra-time/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T18:01:39.000Z",
-      "summary": "The Confederation of African Football (CAF) has annulled Edo Queens’ 4-1 penalty-shootout victory over Ghana’s Ampem Darkoa Ladies in the final of the WAFU Zone B qualifying tournament for…",
-      "categories": [
-        "Football",
-        "HP News 5",
-        "HP Sports 1",
-        "National",
-        "Ampem Darkoa Ladies",
-        "Edo Queens",
-        "WAFU B Women’s Champions League"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ampem-Darkoa-1024x864.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Interior Minister urges traditional authorities to enforce anti-bushfire bye-laws",
-      "link": "https://www.myjoyonline.com/interior-minister-urges-traditional-authorities-to-enforce-anti-bushfire-bye-laws/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T18:00:11.000Z",
-      "summary": "The Minister of the Interior, Muntaka Mubarak, has called on traditional authorities to enact and strictly enforce anti-bushfire bylaws in their respective communities to prevent bushfire…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "News",
-        "anti-bushfire",
-        "Bye-laws",
-        "Interior Minister"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Social-Fire-Campaign-Picture-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "3rd Republic Bank-JoyNews Habitat Fair Clinic ends on a high note after three days of strong patronage",
-      "link": "https://www.myjoyonline.com/3rd-republic-bank-joynews-habitat-fair-clinic-ends-on-a-high-note-after-three-days-of-strong-patronage/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T17:58:30.000Z",
-      "summary": "The 3rd Republic Bank-JoyNews Habitat Fair Clinic has ended on a positive note at the Junction Mall, Nungua, after three days of strong patronage, expert engagements and access to a wide…",
-      "categories": [
-        "Events",
-        "National",
-        "Top Story",
-        "3rd Republic Bank-JoyNews Habitat Fair Clinic"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260927144909_IMG_9021.jpg-1-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-2.53.07-AM-782x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
