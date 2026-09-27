@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-27T15:49:00.775Z",
+  "updated": "2026-09-27T19:20:29.369Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,135 +25,134 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "World Vision Ghana, Ahafo districts sign MoU for universal WASH coverage",
-      "link": "https://www.myjoyonline.com/world-vision-ghana-ahafo-districts-sign-mou-for-universal-wash-coverage/",
+      "title": "6,079 promotion cases fully processed and paid – CAGD says amid nationwide teachers’ strike",
+      "link": "https://www.myjoyonline.com/6079-promotion-cases-fully-processed-and-paid-cagd-says-amid-nationwide-teachers-strike/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T15:44:02.000Z",
-      "summary": "World Vision Ghana has signed a Memorandum of Understanding (MoU) with the Asunafo North Municipal and Asutifi North District Assemblies to deliver universal water, sanitation and hygiene…",
+      "published": "2026-09-27T19:15:10.000Z",
+      "summary": "The Controller and Accountant-General’s Department (CAGD) says it has fully processed and paid 6,079 cases involving promoted teachers, including applicable promotion arrears.",
       "categories": [
-        "News",
-        "Regional",
-        "Ahafo districts",
-        "WASH coverage",
-        "World Vision Ghana"
+        "Education",
+        "National",
+        "promotopn",
+        "Strike",
+        "Teachers"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-15.21.29-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/10/Controller-and-Accouontant-Generals-Department-CAGD.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "When the gold engine stutters: What Ghana’s Cedi and reserves are telling us about the new economic architecture",
-      "link": "https://www.myjoyonline.com/when-the-gold-engine-stutters-what-ghanas-cedi-and-reserves-are-telling-us-about-the-new-economic-architecture/",
+      "title": "Teacher unions to meet government Monday over nationwide strike",
+      "link": "https://www.myjoyonline.com/teacher-unions-to-meet-government-monday-over-nationwide-strike/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T15:26:31.000Z",
-      "summary": "For much of 2025, the economic narrative was one of remarkable stabilisation. Inflation fell sharply, the cedi appreciated strongly, fiscal conditions improved and international reserves…",
+      "published": "2026-09-27T19:00:01.000Z",
+      "summary": "Pre-tertiary teacher unions are set to meet the government on Monday, September 28, in a fresh effort to resolve outstanding concerns over their conditions of service and pave the way for…",
       "categories": [
-        "Opinion",
-        "Bank of Ghana",
+        "Education",
+        "HP News 1",
+        "National",
+        "Meeting",
+        "Strike",
+        "Teacher Unions"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-4.28.21-AM-1024x612.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photo story: Republic Bank-JoyNews Habitat Fair clinic wraps up after three days of housing solutions, expert engagement",
+      "link": "https://www.myjoyonline.com/photo-story-republic-bank-joynews-habitat-fair-wraps-up-after-three-days-of-housing-solutions-expert-engagement/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T18:56:46.000Z",
+      "summary": "After three days of engaging activities, professional guidance and opportunities for prospective homeowners, the Republic Bank-JoyNews Habitat Fair Clinic has drawn to a close, leaving…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Photo Story",
+        "Republic Bank-JoyNews Habitat Fair"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260927155015_IMG_9081.jpg-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "National Peace Council urges investment in youth to sustain Ghana’s peace",
+      "link": "https://www.myjoyonline.com/national-peace-council-urges-investment-in-youth-to-sustain-ghanas-peace/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T18:34:45.000Z",
+      "summary": "The National Peace Council (NPC) has called for greater investment in young people’s education, tolerance, critical thinking and capacity to promote peace and prevent violence.",
+      "categories": [
+        "National",
+        "News",
         "Ghana",
-        "Gideon Boako",
-        "Goldbod",
-        "Government"
+        "National peace council",
+        "Peace",
+        "Youth"
       ],
-      "image": null,
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-12.41.46.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Two reportedly die after being trapped in mining pit at Juaboso",
-      "link": "https://www.myjoyonline.com/two-reportedly-die-after-being-trapped-in-mining-pit-at-juaboso/",
+      "title": "Afenyo-Markin urges youth to speak up against injustice",
+      "link": "https://www.myjoyonline.com/afenyo-markin-urges-youth-to-speak-up-against-injustice/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T15:16:26.000Z",
-      "summary": "Two people have died following an incident at a mining site in Juaboso in the Juaboso District of the Western North Region.",
-      "categories": [
-        "HP News 4",
-        "News",
-        "Regional",
-        "Juaboso",
-        "mining pit"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Juaboso-galamsey-death.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Petrosol cleans up Wa Municipal Hospital, to donate medical equipment",
-      "link": "https://www.myjoyonline.com/petrosol-cleans-up-wa-municipal-hospital-to-donate-medical-equipment/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T15:15:24.000Z",
-      "summary": "Petrosol Platinum Energy PLC has embarked on a clean-up exercise at the Wa Municipal Hospital as part of its annual Corporate Social Responsibility (CSR) initiative, with plans to donate…",
-      "categories": [
-        "News",
-        "Regional",
-        "Petrosol",
-        "Wa Municipal Hospital"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-12.44.34-1-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KiDi brings the hits to London in sold-out UK headline concert",
-      "link": "https://www.myjoyonline.com/kidi-brings-the-hits-to-london-in-sold-out-uk-headline-concert/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T14:47:31.000Z",
-      "summary": "Ghanaian singer KiDi has made a strong mark in London with a sold-out performance at his first-ever UK solo headline concert.",
-      "categories": [
-        "HP News 7",
-        "Music",
-        "National",
-        "KiDi",
-        "London"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-2.46.22-PM-949x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The last goodbye of Ghanaian shot dead in the US",
-      "link": "https://www.myjoyonline.com/the-last-goodbye-of-ghanaian-shot-dead-in-the-us/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T14:29:15.000Z",
-      "summary": "At about 6 pm on Friday, 18 September 2026, members of the Akamani family joined a conference call to discuss whether to send a delegation to a funeral in Biu, near Navrongo in the Upper…",
-      "categories": [
-        "Features",
-        "HP News 9",
-        "National",
-        "Dr Akamani",
-        "USA Shooting"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_20260926_131334221.jpg-1024x769.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MCC opens door to Ghana again as MiDA revives development partnership",
-      "link": "https://www.myjoyonline.com/mcc-opens-door-to-ghana-again-as-mida-revives-development-partnership/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T14:19:34.000Z",
-      "summary": "The engagement, held in New York, brought together senior officials of the two institutions to reflect on Ghana’s longstanding partnership with MCC, the lessons and legacy of the country’s…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "Alex Mould",
-        "Charles Abugre",
-        "Jason Small",
-        "MCC",
-        "MiDA",
-        "TAriq Ahmed"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-16.57.41-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CSIR moves to turn scientific research into jobs, national growth",
-      "link": "https://www.myjoyonline.com/csir-moves-to-turn-scientific-research-into-jobs-national-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T14:08:41.000Z",
-      "summary": "The Council for Scientific and Industrial Research (CSIR) will bring scientists, businesses, investors and policymakers together in October to help turn locally developed research into…",
+      "published": "2026-09-27T18:23:59.000Z",
+      "summary": "The Minority Leader and Member of Parliament for the Effutu Constituency, Alexander Afenyo-Markin, has called on young people to speak up against injustice and defend their fundamental…",
       "categories": [
         "National",
         "News",
-        "CSIR",
-        "CSIR moves to turn scientific research into jobs",
-        "Scientific research"
+        "Afenyo-Markin",
+        "Injustice",
+        "Youth"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Science-Innovation-Fair.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-17.33.55-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CAF annuls Edo Queens victory, orders WAFU B final to resume from extra time",
+      "link": "https://www.myjoyonline.com/caf-annuls-edo-queens-victory-orders-wafu-b-final-to-resume-from-extra-time/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T18:01:39.000Z",
+      "summary": "The Confederation of African Football (CAF) has annulled Edo Queens’ 4-1 penalty-shootout victory over Ghana’s Ampem Darkoa Ladies in the final of the WAFU Zone B qualifying tournament for…",
+      "categories": [
+        "Football",
+        "HP News 5",
+        "HP Sports 1",
+        "National",
+        "Ampem Darkoa Ladies",
+        "Edo Queens",
+        "WAFU B Women’s Champions League"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ampem-Darkoa-1024x864.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Interior Minister urges traditional authorities to enforce anti-bushfire bye-laws",
+      "link": "https://www.myjoyonline.com/interior-minister-urges-traditional-authorities-to-enforce-anti-bushfire-bye-laws/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T18:00:11.000Z",
+      "summary": "The Minister of the Interior, Muntaka Mubarak, has called on traditional authorities to enact and strictly enforce anti-bushfire bylaws in their respective communities to prevent bushfire…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "News",
+        "anti-bushfire",
+        "Bye-laws",
+        "Interior Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Social-Fire-Campaign-Picture-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "3rd Republic Bank-JoyNews Habitat Fair Clinic ends on a high note after three days of strong patronage",
+      "link": "https://www.myjoyonline.com/3rd-republic-bank-joynews-habitat-fair-clinic-ends-on-a-high-note-after-three-days-of-strong-patronage/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T17:58:30.000Z",
+      "summary": "The 3rd Republic Bank-JoyNews Habitat Fair Clinic has ended on a positive note at the Junction Mall, Nungua, after three days of strong patronage, expert engagements and access to a wide…",
+      "categories": [
+        "Events",
+        "National",
+        "Top Story",
+        "3rd Republic Bank-JoyNews Habitat Fair Clinic"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260927144909_IMG_9021.jpg-1-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
