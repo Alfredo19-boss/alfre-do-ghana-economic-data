@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-27T05:59:44.846Z",
+  "updated": "2026-09-27T11:43:42.528Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,133 +25,117 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Crowds, deals and home solutions as Republic Bank-JoyNews Habitat Fair enters final day",
-      "link": "https://www.myjoyonline.com/crowds-deals-and-home-solutions-as-republic-bank-joynews-habitat-fair-enters-final-day/",
+      "title": "Africa’s richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "link": "https://www.myjoyonline.com/africas-richest-man-helps-fund-660m-fuel-pipeline-between-ethiopia-and-djibouti/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T05:14:58.000Z",
-      "summary": "The Junction Mall in Nungua has been buzzing with activity as strong patronage continues to characterise the third Republic Bank-JoyNews Habitat Fair Clinic. The three-day fair, which…",
+      "published": "2026-09-27T11:19:06.000Z",
+      "summary": "Nigerian billionaire Aliko Dangote has announced that he is helping to fund a new $660m (£500m) fuel pipeline between Ethiopia and Djibouti",
       "categories": [
-        "Events",
-        "National",
-        "News",
-        "Top Story",
-        "Habitat Fair",
-        "home solutions",
-        "JoyNews",
-        "Republic Bank"
+        "Africa",
+        "Aliko Dangote",
+        "Ethiopia"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/20260926124422_IMG_8655.jpg-1024x683-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3487-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fire Service finds only five functional hydrants in Ministries enclave",
-      "link": "https://www.myjoyonline.com/fire-service-finds-only-five-functional-hydrants-in-ministries-enclave/",
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "link": "https://www.myjoyonline.com/security-lapses-at-utah-campus-where-charlie-kirk-was-killed-review-says/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T05:00:00.000Z",
-      "summary": "Only five of about 30 fire hydrants inspected within the Ministries enclave in Accra were found to be fully functional, raising concerns about firefighting preparedness in the area. The…",
+      "published": "2026-09-27T11:14:52.000Z",
+      "summary": "An independent review has pointed to a number of security shortcomings at the Utah campus where conservative activist Charlie Kirk was shot dead last year.",
       "categories": [
-        "National",
-        "enclave",
-        "Fire Service",
-        "hydrants",
-        "Ministries"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/hydrant.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government to sign 1,200MW gas power deal before end of 2026 – Mahama",
-      "link": "https://www.myjoyonline.com/government-to-sign-1200mw-gas-power-deal-before-end-of-2026-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T05:00:00.000Z",
-      "summary": "President John Dramani Mahama has announced plans for Ghana to build a 1,200-megawatt (MW) state-owned gas-fired thermal power plant, which would become the country's largest single power…",
-      "categories": [
-        "Energy",
-        "HP News 6",
-        "National",
-        "2026",
-        "Gas power",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-38.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "West Mamprusi launches community-led WASH and livelihoods project across 100 communities",
-      "link": "https://www.myjoyonline.com/west-mamprusi-launches-community-led-wash-and-livelihoods-project-across-100-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T04:58:46.000Z",
-      "summary": "A two-year partnership aimed at strengthening community agency, improving access to water, sanitation and hygiene (WASH), enhancing livelihoods and deepening government accountability has…",
-      "categories": [
-        "Regional",
-        "WASH",
-        "West Mamprusi Municipality"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/33a5d9c5-7a2a-4def-997e-7d7efae0d56e-1024x562.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
-      "link": "https://www.myjoyonline.com/iran-says-it-will-wait-for-official-us-response-after-trump-rejects-strait-of-hormuz-proposal/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T04:44:00.000Z",
-      "summary": "Iran has said it will wait for an official response from US negotiators after President Donald Trump rejected a proposal to reopen the Strait of Hormuz to commercial shipping within seven…",
-      "categories": [
-        "HP News 10",
         "International",
-        "Iran",
-        "Strait of Hormuz",
-        "Trump"
+        "Charlie Kirk",
+        "Killed"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg-1024x575.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3485-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "90 Oti communities to benefit from government electrification project",
-      "link": "https://www.myjoyonline.com/90-oti-communities-to-benefit-from-government-electrification-project/",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "link": "https://www.myjoyonline.com/white-house-bars-cnn-from-travelling-with-trump-on-air-force-one-2/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T04:42:20.000Z",
-      "summary": "Ninety communities across all nine districts of the Oti Region are set to benefit from a government electrification project aimed at expanding electricity access and improving the…",
+      "published": "2026-09-27T11:09:23.000Z",
+      "summary": "Broadcaster CNN has been barred from travelling with US President Donald Trump on Air Force One for a trip to Tennessee on Saturday.",
       "categories": [
+        "International",
+        "CNN",
+        "White House"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3484-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pope praises young people’s ‘energy and commitment’ at huge open-air Mass in Paris",
+      "link": "https://www.myjoyonline.com/pope-praises-young-peoples-energy-and-commitment-at-huge-open-air-mass-in-paris/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T11:00:25.000Z",
+      "summary": "Pope Leo XIV has praised the \"enthusiasm, energy and commitment\" young people bring to the Catholic Church as dense crowds attended an open-air Mass in Paris.",
+      "categories": [
+        "International",
+        "Mass",
+        "Paris",
+        "Pope Leo XIV"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3481-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nyankamam residents benefit from free medical screening, healthcare outreach",
+      "link": "https://www.myjoyonline.com/nyankamam-residents-benefit-from-free-medical-screening-healthcare-outreach/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T10:55:01.000Z",
+      "summary": "Hundreds of residents in Nyankamam, a community in the Aowin Municipality of the Western North Region, have benefited from a free medical screening and healthcare outreach organised and…",
+      "categories": [
+        "Health",
         "Regional",
-        "Electrification project",
-        "Oti communities",
-        "Power networks"
+        "Nyankamam"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-39.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3473-1024x768.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Floods leave 246 without shelter as 93 houses collapse in North East Gonja",
-      "link": "https://www.myjoyonline.com/floods-leave-246-without-shelter-as-93-houses-collapse-in-north-east-gonja/",
+      "title": "Ghana, Boeing explore setting up regional aircraft maintenance hub",
+      "link": "https://www.myjoyonline.com/ghana-boeing-explore-setting-up-regional-aircraft-maintenance-hub/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T04:30:04.000Z",
-      "summary": "At least 93 houses have collapsed and more than 246 residents have been left without shelter after torrential rains caused severe flooding in parts of the North East Gonja District of the…",
+      "published": "2026-09-27T10:54:55.000Z",
+      "summary": "Ghana and American aircraft manufacturer, Boeing, are exploring the establishment of a regional Maintenance, Repair and Overhaul (MRO) hub in the country to serve airlines operating across…",
       "categories": [
-        "HP News 2",
-        "Regional",
-        "Collapsed houses",
-        "Floods",
-        "NADMO",
-        "North east Gonja"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-17.09.41-1024x568.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Labour Minister wants SOEs to help shape new public pay system",
-      "link": "https://www.myjoyonline.com/labour-minister-wants-soes-to-help-shape-new-public-pay-system/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-26T23:47:35.000Z",
-      "summary": "The Minister for Labour, Jobs and Employment, Emmanuel Kwadwo Agyekum, has urged Chief Executives of State-Owned Enterprises (SOEs) to actively contribute to the development of Ghana’s…",
-      "categories": [
-        "Economy",
+        "HP News 8",
         "National",
-        "FWSC",
-        "IPEC",
-        "Labour Minister"
+        "boeing",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Labour-Minister-1-1024x687.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3469.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "link": "https://www.myjoyonline.com/bangkok-roads-submerged-as-flood-disaster-declared/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T10:54:31.000Z",
+      "summary": "A flood emergency disaster has been declared across Bangkok after more than 300mm (12in) of rain fell since Thursday, leavingroads in the Thai capital submerged.",
+      "categories": [
+        "International",
+        "Bankok",
+        "Flood"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3477-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Four killed in helicopter crash near Montreal",
+      "link": "https://www.myjoyonline.com/four-killed-in-helicopter-crash-near-montreal/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T10:48:58.000Z",
+      "summary": "Four people have died after a helicopter crashed in a small town 50km (31 miles) from Montreal, Quebec's provincial police have told the BBC.",
+      "categories": [
+        "International",
+        "Helicopter",
+        "Montreal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3476-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
