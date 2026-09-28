@@ -1,6 +1,6 @@
 {
   "bog-sefd": {
-    "checked": "2026-09-22T15:52:31.385Z",
+    "checked": "2026-09-28T17:15:21.901Z",
     "seen": [
       "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-july-2026/",
       "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-july-2026/",
@@ -11,22 +11,25 @@
       "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-january-2026/",
       "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-january-2026/",
       "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-november-2025/",
-      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-november-2025/"
+      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-november-2025/",
+      "https://www.bog.gov.gh/econ_fin_data/summary-of-economic-and-financial-data-september-2026/",
+      "https://www.bog.gov.gh/econ_fin_data/charts-summary-of-economic-and-financial-charts-september-2026/"
     ]
   },
   "bog-mpc": {
-    "checked": "2026-09-22T15:52:33.689Z",
+    "checked": "2026-09-28T17:15:28.756Z",
     "seen": [
       "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-july-2026/",
       "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-may-2026/",
       "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-march-2026/",
       "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-january-2026/",
       "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-november-2025/",
-      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-september-2025/"
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-september-2025/",
+      "https://www.bog.gov.gh/mpc_press_release/mpc-press-release-september-2026/"
     ]
   },
   "gss-home": {
-    "checked": "2026-09-25T14:22:23.587Z",
+    "checked": "2026-09-28T17:15:33.879Z",
     "seen": [
       "https://statsghana.gov.gh/CPI_Inflation_Cal.html",
       "https://statsghana.gov.gh/highlights/gdp-performance",
@@ -36,7 +39,7 @@
     ]
   },
   "mofep": {
-    "checked": "2026-09-25T14:22:24.626Z",
+    "checked": "2026-09-28T17:15:34.761Z",
     "seen": [
       "https://mofep.gov.gh/fiscal-data",
       "https://mofep.gov.gh/public-debt",
@@ -53,7 +56,7 @@
     ]
   },
   "npa": {
-    "checked": "2026-09-25T14:22:35.318Z",
+    "checked": "2026-09-28T17:15:46.215Z",
     "seen": [
       "https://npa.gov.gh/indicative-prices/",
       "https://npa.gov.gh/price-build-up-2/",
@@ -63,7 +66,7 @@
     ]
   },
   "purc": {
-    "checked": "2026-09-25T14:22:24.934Z",
+    "checked": "2026-09-28T17:15:35.633Z",
     "seen": [
       "https://www.purc.com.gh/sub_subcategories/1768",
       "https://www.purc.com.gh/categ/tariffs/subcategories/electricity-consumption-estimator",
