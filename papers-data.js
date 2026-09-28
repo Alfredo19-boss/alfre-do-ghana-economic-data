@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-28T16:57:29.471Z",
+  "updated": "2026-09-28T20:16:37.445Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,144 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Pay striking teachers before expressway spending, Dr Kingsley Agyemang tells government",
+      "link": "https://www.myjoyonline.com/pay-striking-teachers-before-expressway-spending-dr-kingsley-agyemang-tells-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T20:03:56.000Z",
+      "summary": "Member of Parliament for Abuakwa South and member of Parliament’s Education Committee, Kingsley Agyemang, has urged government to prioritise payments owed to teachers instead of committing…",
+      "categories": [
+        "National",
+        "News",
+        "Abuakwa South MP",
+        "Kingsley Agyemang",
+        "Road Project",
+        "Teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/04/image-107-1024x591.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Customs intercepts assault rifle, two pistols and 610 rounds of ammunition at Tema Port",
+      "link": "https://www.myjoyonline.com/customs-intercepts-assault-rifle-two-pistols-and-610-rounds-of-ammunition-at-tema-port/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T19:51:43.000Z",
+      "summary": "Customs officials at the Tema Port have intercepted an assault rifle, two pistols and 610 rounds of ammunition concealed among personal effects arriving from the United States. The firearms…",
+      "categories": [
+        "National",
+        "News",
+        "Assault rifle",
+        "Customs",
+        "pistols",
+        "Tema Port"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-204812.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PKO boxers secure wins at Odwira Festival",
+      "link": "https://www.myjoyonline.com/pko-boxers-secure-wins-at-odwira-festival/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T19:37:51.000Z",
+      "summary": "Hamza Mohammed delivered an impressive performance, stopping John Oblitey Commey in the third round by knockout in their lightweight contest.",
+      "categories": [
+        "Boxing",
+        "PKO Boxing"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/PKO-Boxing-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "South Tongu Records Rise in Teenage Pregnancy",
+      "link": "https://www.myjoyonline.com/south-tongu-records-rise-in-teenage-pregnancy/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T19:20:23.000Z",
+      "summary": "The South Tongu District in the Volta Region has seen a notable rise in teenage pregnancy cases during the second quarter of 2026. According to reports, about 190 teenage pregnancy cases…",
+      "categories": [
+        "Health",
+        "News",
+        "South Tongu",
+        "Teenage Pregnancy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Teenage-Pregnancy.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cabinet threw out US health compact faster than anything I’ve seen – Mahama",
+      "link": "https://www.myjoyonline.com/cabinet-threw-out-us-health-compact-faster-than-anything-ive-seen-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T19:18:41.000Z",
+      "summary": "President John Dramani Mahama says he has never seen Cabinet throw out anything as fast as it rejected the United States health compact, after it flagged demands for Ghana’s pathogen…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Cabinet",
+        "Mahama",
+        "US health compact"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Mahama-us-compact.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MoFA urges Finance Ministry to reverse World Bank food programme withdrawal over GH¢643m commitments",
+      "link": "https://www.myjoyonline.com/mofa-urges-finance-ministry-to-reverse-world-bank-food-programme-withdrawal-over-gh%c2%a2643m-commitments/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T19:13:57.000Z",
+      "summary": "The Ministry of Food and Agriculture (MoFA) has urged the Ministry of Finance to reverse Ghana’s withdrawal from the West Africa Food System Resilience Programme (FSRP), warning that the…",
+      "categories": [
+        "National",
+        "Ministry of Finance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-7.10.59-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NAGRAT demands signed timelines before calling off strike",
+      "link": "https://www.myjoyonline.com/nagrat-demands-signed-timelines-before-calling-off-strike/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T19:00:32.000Z",
+      "summary": "The National Association of Graduate Teachers (NAGRAT) says it will not call off the ongoing teachers’ strike until government provides concrete and binding timelines for resolving the…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "NAGRAT",
+        "Strike",
+        "Teachers’ strike:"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/03/NAGRAT-1024x585.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "National Investment Quiz: West Africa SHS, St. Louis SHS advance to semi-finals",
+      "link": "https://www.myjoyonline.com/national-investment-quiz-west-africa-shs-st-louis-shs-advance-to-semi-finals/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T18:39:20.000Z",
+      "summary": "West Africa Senior High School (WASS) and St. Louis Senior High School have secured qualification to the semi-finals of the 2026 National Investment Quiz after emerging as the top two…",
+      "categories": [
+        "Business",
+        "Investments",
+        "National Investment Quiz",
+        "St. Louis SHS",
+        "West Africa SHS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-11.36.21-AM-834x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two dead, 14 rescued in Kpetoe-Sarakope accident",
+      "link": "https://ghanaiantimes.com.gh/two-dead-14-rescued-in-kpetoe-sarakope-accident/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-28T16:59:58.000Z",
+      "summary": "Two people have been confirmed dead while 14 others were rescued following a road accident on the Accra-Aflao Highway on Saturday. The accident occurred on the Kpetoe–Sarakope stretch on…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-16.27.05.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GoldBod changes gold testing rules for local purchases from October 1",
       "link": "https://ghanaiantimes.com.gh/goldbod-changes-gold-testing-rules-for-local-purchases-from-october-1/",
@@ -64,20 +202,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Four bodies found after avalanche hits Himalayan climbing group",
-      "link": "https://www.myjoyonline.com/four-bodies-found-after-avalanche-hits-himalayan-climbing-group/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:49:48.000Z",
-      "summary": "Rescuers have recovered four bodies from the site of an avalanche that struck a climbing group camping in the Nepalese part of the Himalayas.",
-      "categories": [
-        "International",
-        "avalanche",
-        "Himalayan"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3636-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GES disowns NCPTA deal with EduPack, says purchase of prospectus Ghana products not compulsory",
       "link": "https://ghanaiantimes.com.gh/ges-disowns-ncpta-deal-with-edupack-says-purchase-of-prospectus-ghana-products-not-compulsory/",
       "source": "Ghanaian Times",
@@ -88,52 +212,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Adipa residents give government seven days to halt Agbogbloshie waste transfer",
-      "link": "https://www.myjoyonline.com/adipa-residents-give-government-seven-days-to-halt-agbogbloshie-waste-transfer/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:40:10.000Z",
-      "summary": "Residents and community leaders in Adipa in the Nsawam Adoagyiri Constituency have given the government a seven-day ultimatum to halt the transfer of waste from Agbogbloshie and other parts…",
-      "categories": [
-        "National",
-        "Regional",
-        "Adipa residents",
-        "Agbobloshie"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3634.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Desks rotting in abandoned Kintampo South E-Block: A decade of neglect and a waste of state resources",
-      "link": "https://www.myjoyonline.com/desks-rotting-in-abandoned-kintampo-south-e-block-a-decade-of-neglect-and-a-waste-of-state-resources/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:38:28.000Z",
-      "summary": "In the quiet farming community of Anyima, in the Kintampo South District of the Bono East Region, a grim monument to broken promises stands silently.",
-      "categories": [
-        "National",
-        "Regional",
-        "Desk",
-        "Kintampo South E-Block",
-        "State resources",
-        "waste"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3611-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "West Africa cannot simply import security models without accounting for local realities – WAMS",
-      "link": "https://www.myjoyonline.com/west-africa-cannot-simply-import-security-models-without-accounting-for-local-realities-wams/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:37:24.000Z",
-      "summary": "Security strategies developed elsewhere cannot simply be transplanted into West Africa’s mining sector without accounting for local political, economic and community realities, speakers at…",
-      "categories": [
-        "National",
-        "Security",
-        "WAMS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/wams_event_2.jpg.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GCX calls for new era of shea trading",
@@ -147,66 +225,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bono East Minister directs MCE to stop hotel project near Konkrompe SHS",
-      "link": "https://www.myjoyonline.com/bono-east-minister-directs-mce-to-stop-hotel-project-near-konkrompe-shs/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:14:45.000Z",
-      "summary": "A private developer's decision to put up a hotel facility adjacent to the New Konkrompe Senior High School has sparked serious concerns among school authorities, who fear it poses a direct…",
-      "categories": [
-        "Education",
-        "National",
-        "Hotel",
-        "New Konkrompe SHS",
-        "Regional Minister"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3620-1024x578.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AGN Chair urges action-driven tracking and reporting on inclusive climate adaptation in Ghana’s agriculture",
-      "link": "https://www.myjoyonline.com/agn-chair-urges-action-driven-tracking-and-reporting-on-inclusive-climate-adaptation-in-ghanas-agriculture/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:12:08.000Z",
-      "summary": "Climate experts, government officials, and agricultural stakeholders have gathered in Accra for a three-day stakeholder engagement workshop focused on strengthening inclusive climate…",
-      "categories": [
-        "Agribusiness",
-        "AGN Chair",
-        "Agriculture",
-        "Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3609.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man City rule breaches not my concern – Mancini",
-      "link": "https://www.myjoyonline.com/man-city-rule-breaches-not-my-concern-mancini/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:11:46.000Z",
-      "summary": "Roberto Mancini says an alleged \"double contract\" during his time as Manchester City manager is \"not my concern\" after the club were found guilty of breaking the majority of the financial…",
-      "categories": [
-        "Football",
-        "Man City",
-        "Roberto Mancini"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3632.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NSA releases PIN Codes for 2026/2027 national service private candidates and foreign-trained graduates",
-      "link": "https://www.myjoyonline.com/nsa-releases-pin-codes-for-2026-2027-national-service-private-candidates-and-foreign-trained-graduates/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T16:08:44.000Z",
-      "summary": "The National Service Authority (NSA) has announced the release of National Service PIN Codes for qualified applicants under the 2026/2027 national service year, covering eligible Ghanaians…",
-      "categories": [
-        "Education",
-        "National",
-        "NSA",
-        "PIN Codes"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/05/National-Service-Scheme.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NSA releases PIN codes for national service defaulters, private candidates",
@@ -422,18 +440,6 @@ window.GDC_PAPERS = {
         "Sports"
       ],
       "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "AFCON 2026/27 qualifier… Black Stars aim to bounce back against The Gambia tomorrow",
-      "link": "https://ghanaiantimes.com.gh/afcon-2026-27-qualifier-black-stars-aim-to-bounce-back-against-the-gambia-tomorrow/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-28T09:03:11.000Z",
-      "summary": "Following a 2-0 defeat in the hands of the Elephants of La Cote d’Ivoire, Ghana’s Black Stars would face the Scorpions of The Gambia in another test of their 2027 Africa Cup of Nations…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     }
   ]
