@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-28T20:16:37.445Z",
+  "updated": "2026-09-28T20:31:39.624Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -371,7 +371,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Police provide details on how 3 arrested suspects were involved in kidnap, murder of Circle phone dealer Nana Yaw Kyere at Teshie and how they transported his body to Community 18 to burn it to conceal evidence",
+      "title": "Police provide details on how 3 arrested suspects were involved in kidnap, murder of Circle phone dealer Nana Yaw Kyere at Teshie",
       "link": "https://www.graphic.com.gh/news/general-news/police-provide-details-on-how-3-arrested-suspects-were-involved-in-kidnap-murder-of-circle-phone-dealer-nana-yaw-kyere-at-teshie-and-how-they-transported-his-body-to-community-18-to-burn-it-to-conceal-evidence.html",
       "source": "Daily Graphic",
       "published": "2026-09-28T12:13:08.000Z",

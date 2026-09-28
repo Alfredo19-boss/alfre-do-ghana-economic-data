@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-28T20:16:23.841Z",
+  "updated": "2026-09-28T20:31:24.716Z",
   "worldAt": "2026-09-28T20:16:23.838Z",
   "sources": [
     "MyJoyOnline",
@@ -27,23 +27,10 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
-    "World · Al Jazeera: 25 stories",
-    "World · Africanews: 50 stories",
-    "World · NPR World: 10 stories",
-    "World · UN News: 30 stories",
-    "World · BBC News: 34 stories",
-    "World · Deutsche Welle: 13 stories",
-    "World · France 24: 24 stories",
-    "Africa · AllAfrica: 33 stories",
-    "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 28 stories",
-    "Africa · BBC Africa: 28 stories",
-    "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 1 stories",
-    "world lists: 40 world, 40 African stories held"
+    "world lists: refreshed 15 min ago, left alone this run"
   ],
   "items": [
     {
