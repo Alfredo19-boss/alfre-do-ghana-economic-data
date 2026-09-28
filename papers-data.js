@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-28T14:03:45.644Z",
+  "updated": "2026-09-28T16:57:29.471Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,34 +25,212 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "8% fare hike: Lack of coins forcing some fares to be rounded up – GRTCC",
-      "link": "https://www.myjoyonline.com/8-fare-hike-lack-of-coins-forcing-some-fares-to-be-rounded-up-grtcc/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T14:02:28.000Z",
-      "summary": "The Ghana Road Transport Coordinated Council (GRTCC) says the shortage of coins in circulation is contributing to some transport fares being rounded up following the approved 8% increase.",
+      "title": "GoldBod changes gold testing rules for local purchases from October 1",
+      "link": "https://ghanaiantimes.com.gh/goldbod-changes-gold-testing-rules-for-local-purchases-from-october-1/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-28T16:55:30.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) has announced changes to how the purity of gold will be tested for local purchases, with the new rules taking effect from October 1, 2026. The notice was…",
       "categories": [
-        "National",
-        "News",
-        "coins",
-        "Fares",
-        "GRTCC"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/images-13.jpeg",
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Manasseh Azure Awuni slams SA returnees over resettlement complaints",
+      "link": "https://ghanaiantimes.com.gh/manasseh-azure-awuni-slams-sa-returnees-over-resettlement-complaints/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-28T16:53:08.000Z",
+      "summary": "Investigative journalist Manasseh Azure Awuni has waded into the debate over government support for Ghanaian evacuees, describing complaints over the amount given as “nauseating…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "“Dear GES, wake up”- Ketu North MP fires over Prospectus Ghana Deal",
+      "link": "https://ghanaiantimes.com.gh/dear-ges-wake-up-ketu-north-mp-fires-over-prospectus-ghana-deal/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-28T16:50:00.000Z",
+      "summary": "The Member of Parliament for Ketu North, Eric Edem Agbana, has taken a swipe at the Ghana Education Service (GES) over its handling of the controversy surrounding Prospectus Ghana Limited…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Four bodies found after avalanche hits Himalayan climbing group",
+      "link": "https://www.myjoyonline.com/four-bodies-found-after-avalanche-hits-himalayan-climbing-group/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:49:48.000Z",
+      "summary": "Rescuers have recovered four bodies from the site of an avalanche that struck a climbing group camping in the Nepalese part of the Himalayas.",
+      "categories": [
+        "International",
+        "avalanche",
+        "Himalayan"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3636-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement",
-      "link": "https://www.myjoyonline.com/tiktok-to-pay-100m-and-limit-daily-child-usage-in-alabama-settlement/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T14:01:41.000Z",
-      "summary": "TikTok and its parent company ByteDance will pay the US state of Alabama $100m (£75.45m) and make a series of changes to restrict children's usage in the state as part of a lawsuit…",
+      "title": "GES disowns NCPTA deal with EduPack, says purchase of prospectus Ghana products not compulsory",
+      "link": "https://ghanaiantimes.com.gh/ges-disowns-ncpta-deal-with-edupack-says-purchase-of-prospectus-ghana-products-not-compulsory/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-28T16:46:13.000Z",
+      "summary": "The Ghana Education Service (GES) has disassociated itself from a reported partnership between the National Council of Parent-Teacher Associations (NCPTA) and Prospectus Ghana Limited to…",
       "categories": [
-        "International",
-        "Alabama",
-        "TikTok"
+        "Uncategorized"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3608-1024x576.png",
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Adipa residents give government seven days to halt Agbogbloshie waste transfer",
+      "link": "https://www.myjoyonline.com/adipa-residents-give-government-seven-days-to-halt-agbogbloshie-waste-transfer/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:40:10.000Z",
+      "summary": "Residents and community leaders in Adipa in the Nsawam Adoagyiri Constituency have given the government a seven-day ultimatum to halt the transfer of waste from Agbogbloshie and other parts…",
+      "categories": [
+        "National",
+        "Regional",
+        "Adipa residents",
+        "Agbobloshie"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3634.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Desks rotting in abandoned Kintampo South E-Block: A decade of neglect and a waste of state resources",
+      "link": "https://www.myjoyonline.com/desks-rotting-in-abandoned-kintampo-south-e-block-a-decade-of-neglect-and-a-waste-of-state-resources/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:38:28.000Z",
+      "summary": "In the quiet farming community of Anyima, in the Kintampo South District of the Bono East Region, a grim monument to broken promises stands silently.",
+      "categories": [
+        "National",
+        "Regional",
+        "Desk",
+        "Kintampo South E-Block",
+        "State resources",
+        "waste"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3611-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "West Africa cannot simply import security models without accounting for local realities – WAMS",
+      "link": "https://www.myjoyonline.com/west-africa-cannot-simply-import-security-models-without-accounting-for-local-realities-wams/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:37:24.000Z",
+      "summary": "Security strategies developed elsewhere cannot simply be transplanted into West Africa’s mining sector without accounting for local political, economic and community realities, speakers at…",
+      "categories": [
+        "National",
+        "Security",
+        "WAMS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/wams_event_2.jpg.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GCX calls for new era of shea trading",
+      "link": "https://ghanaiantimes.com.gh/gcx-calls-for-new-era-of-shea-trading/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-28T16:35:00.000Z",
+      "summary": "The Ghana Commodity Exchange (GCX) has called for a fundamental transformation in the way shea is traded in Ghana to ensure that the country and the communities that sustain the industry…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bono East Minister directs MCE to stop hotel project near Konkrompe SHS",
+      "link": "https://www.myjoyonline.com/bono-east-minister-directs-mce-to-stop-hotel-project-near-konkrompe-shs/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:14:45.000Z",
+      "summary": "A private developer's decision to put up a hotel facility adjacent to the New Konkrompe Senior High School has sparked serious concerns among school authorities, who fear it poses a direct…",
+      "categories": [
+        "Education",
+        "National",
+        "Hotel",
+        "New Konkrompe SHS",
+        "Regional Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3620-1024x578.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AGN Chair urges action-driven tracking and reporting on inclusive climate adaptation in Ghana’s agriculture",
+      "link": "https://www.myjoyonline.com/agn-chair-urges-action-driven-tracking-and-reporting-on-inclusive-climate-adaptation-in-ghanas-agriculture/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:12:08.000Z",
+      "summary": "Climate experts, government officials, and agricultural stakeholders have gathered in Accra for a three-day stakeholder engagement workshop focused on strengthening inclusive climate…",
+      "categories": [
+        "Agribusiness",
+        "AGN Chair",
+        "Agriculture",
+        "Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3609.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man City rule breaches not my concern – Mancini",
+      "link": "https://www.myjoyonline.com/man-city-rule-breaches-not-my-concern-mancini/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:11:46.000Z",
+      "summary": "Roberto Mancini says an alleged \"double contract\" during his time as Manchester City manager is \"not my concern\" after the club were found guilty of breaking the majority of the financial…",
+      "categories": [
+        "Football",
+        "Man City",
+        "Roberto Mancini"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3632.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NSA releases PIN Codes for 2026/2027 national service private candidates and foreign-trained graduates",
+      "link": "https://www.myjoyonline.com/nsa-releases-pin-codes-for-2026-2027-national-service-private-candidates-and-foreign-trained-graduates/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T16:08:44.000Z",
+      "summary": "The National Service Authority (NSA) has announced the release of National Service PIN Codes for qualified applicants under the 2026/2027 national service year, covering eligible Ghanaians…",
+      "categories": [
+        "Education",
+        "National",
+        "NSA",
+        "PIN Codes"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/05/National-Service-Scheme.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NSA releases PIN codes for national service defaulters, private candidates",
+      "link": "https://www.graphic.com.gh/news/general-news/national-service-authority-gives-defaulters-second-chance-with-2026-27-pin-codes.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-28T15:49:17.000Z",
+      "summary": "The National Service Authority (NSA) has released PIN codes for qualified private candidates, past national service defaulters and foreign-trained graduates for the 2026/2027 national…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2023/jun/17/NSA.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Tema Port: Customs intercept assault rifle, two pistols and 610 rounds of ammunition being smuggled into Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/customs-intercepts-assault-rifle-two-pistols-and-610-rounds-of-ammunition-being-smuggled-into-ghana-at-tema-port.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-28T15:23:41.000Z",
+      "summary": "An assault rifle, two pistols and 610 rounds of ammunition, which were being smuggled into Ghana under the guise as personal effects have been intercepted by Customs at the Golden Jubilee…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/28/GRA_4.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Inside GameZone Casino: A Complete Guide to Platform Features and Navigation",
@@ -65,108 +243,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/image-65-1024x576.png",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fair Wages and Salaries Commission to meet teacher unions October 6 as strike continues",
-      "link": "https://www.myjoyonline.com/fair-wages-and-salaries-commission-to-meet-teacher-unions-october-6-as-strike-continues/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T13:58:11.000Z",
-      "summary": "The Fair Wages and Salaries Commission is expected to meet the pre-tertiary teacher unions on Tuesday, October 6, as government seeks to resolve outstanding concerns that have triggered the…",
-      "categories": [
-        "National",
-        "Fair Wages",
-        "Strike",
-        "Teachers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3607.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Hearts of Oak victory ‘helpful’ ahead of Kotoko game – Karela United coach",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-of-oak-victory-helpful-ahead-of-kotoko-game-karela-united-coach/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T13:55:02.000Z",
-      "summary": "The Tamale-based side secured a 1-0 win at the Aliu Mahama Stadium to end the league leaders' unbeaten run.",
-      "categories": [
-        "Football",
-        "Sports",
-        "Hearts of Oak",
-        "Karela United",
-        "Nurudeen Amadu",
-        "Papa Kwadwo Adu Gyina-Tawiah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/09/NURUDEEN-AMADU-1-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama explains Ghana’s rejection of US health compact over medical records, FDA concerns",
-      "link": "https://www.myjoyonline.com/mahama-explains-ghanas-rejection-of-us-health-compact-over-medical-records-fda-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T13:47:10.000Z",
-      "summary": "President John Dramani Mahama has explained Ghana’s decision to reject a proposed health compact from the United States, saying some of the conditions attached to the agreement were…",
-      "categories": [
-        "Health",
-        "HP News 3",
-        "National",
-        "FDA concerns",
-        "Mahama",
-        "US health compact"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/download-750x375-1.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Suspect in murder of phone dealer allegedly sold his iPhone 12 for GH¢100",
-      "link": "https://www.myjoyonline.com/suspect-in-murder-of-phone-dealer-allegedly-sold-his-iphone-12-for-gh%c2%a2100/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T13:45:24.000Z",
-      "summary": "The Ghana Police Service has retrieved the iPhone 12 belonging to 33-year-old Nana Yaw Kyere, a phone dealer at Kwame Nkrumah Circle, who was reported missing on September 22. His alleged…",
-      "categories": [
-        "Crime",
-        "HP News 6",
-        "National",
-        "iPhone 12",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-4-2.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sarkodie, Omar Sterling, Medikal, others named in Lawyer Bobby Banson’s Greatest Ghanaian Rappers list",
-      "link": "https://www.myjoyonline.com/sarkodie-omar-sterling-medikal-others-named-in-lawyer-bobby-bansons-greatest-ghanaian-rappers-list/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T13:44:15.000Z",
-      "summary": "Ghanaian lawyer and lecturer, Bobby Banson, has compiled a list of Ghanaian rappers who have distinguished themselves in the Ghanaian music industry.",
-      "categories": [
-        "HP Entertainment 1",
-        "Music",
-        "Lawyer Bobby Banson",
-        "Medikal",
-        "Omar Sterling",
-        "Sarkodie"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GREATEST-RAPPERS.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Private cars, taxis, trotros, okadas barred from Ayalolo lanes during peak hours",
-      "link": "https://www.myjoyonline.com/private-cars-taxis-trotros-okadas-barred-from-ayalolo-lanes-during-peak-hours/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T13:42:09.000Z",
-      "summary": "Private cars, taxis, trotros, okadas and trucks will be barred from lanes designated for Ayalolo buses during peak hours when a pilot contraflow system begins on Tuesday, September 29. The…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "Regional",
-        "Ayalolo Buses",
-        "okadas",
-        "private cars",
-        "taxis",
-        "Transport"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_1994-01-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "No Premier League appetite to strip Man City of titles — but threat remains",
@@ -191,6 +267,18 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/28/SPAIN.jpg",
       "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Four confirmed dead, one injured in dawn crash involving Voxy and truck at Anyinasin Junction on Accra-Kumasi N1 highway crash",
+      "link": "https://www.graphic.com.gh/news/general-news/four-dead-one-injured-in-anyinasin-junction-highway-crash.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-28T13:26:54.000Z",
+      "summary": "Four people have died and one person has been injured in a fatal road crash involving a Toyota Voxy and a MAN Diesel trailer at Anyinasin Junction on the Accra-Kumasi N1 Highway. The crash…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/28/crash2.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Dorgbetor, Kamoko return with big wins as PKO youngsters shine at Odwira Fight Night",
@@ -325,42 +413,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "New road rules: Police explain tyre, tint, parking rules ahead of October 1 automated enforcement",
-      "link": "https://www.graphic.com.gh/news/general-news/mttd-explains-new-road-rules-as-automated-traffic-enforcement-starts-october-1.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-28T10:40:04.000Z",
-      "summary": "The Motor Traffic and Transport Department (MTTD) of the Ghana Police Service has explained some of the requirements under the new Road Traffic Regulations, 2026 (L.I. 2519), ahead of the…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Strike: Controller says GES submitted information on only 6,079 out 58,620 expected promotions",
-      "link": "https://www.graphic.com.gh/news/general-news/strike-controller-says-ges-submitted-information-on-only-6-079-out-58-620-expected-promotions.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-28T09:37:39.000Z",
-      "summary": "The Controller and Accountant-General’s Department (CAGD) says it has processed and paid all 6,079 newly promoted teachers, whose names were submitted by the Ghana Education Service (GES).",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "IGP petitioned to re-deploy 'Black Maria' special operations in Tamale",
-      "link": "https://www.graphic.com.gh/news/general-news/igp-petitioned-to-re-deploy-black-maria-special-operations-in-tamale.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-28T09:21:00.000Z",
-      "summary": "Some residents of Tamale and the Northern Region have petitioned the Inspector-General of Police (IGP) to re-deploy the Black Maria special operations team to help fight crime in Tamale.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/black_maria.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Zaidan strikes as Karela United halt Hearts unbeaten run",
       "link": "https://ghanaiantimes.com.gh/zaidan-strikes-as-karela-united-halt-hearts-unbeaten-run/",
       "source": "Ghanaian Times",
@@ -380,66 +432,6 @@ window.GDC_PAPERS = {
       "summary": "Following a 2-0 defeat in the hands of the Elephants of La Cote d’Ivoire, Ghana’s Black Stars would face the Scorpions of The Gambia in another test of their 2027 Africa Cup of Nations…",
       "categories": [
         "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Starlets beat Morocco in friendly",
-      "link": "https://ghanaiantimes.com.gh/black-starlets-beat-morocco-in-friendly/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-28T08:58:26.000Z",
-      "summary": "The Black Starlets recorded an impressive 2-0 victory over Morocco’s U-17 side in the first of two international friendly matches played at the King Mohammed VI Football Complex in Rabat…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Golden Shuttlers advance in All-Africa U-19 Junior Championships Mixed Team Relay",
-      "link": "https://ghanaiantimes.com.gh/golden-shuttlers-advance-in-all-africa-u-19-junior-championships-mixed-team-relay/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-28T08:56:30.000Z",
-      "summary": "Ghana’s national junior badminton team, the Golden Shuttlers have booked qualification to the next phase of the mixed team relay event at the ongoing 2026 All-Africa U-19 Junior…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GTF launches awareness campaign to take sport to schools",
-      "link": "https://ghanaiantimes.com.gh/gtf-launches-awareness-campaign-to-take-sport-to-schools/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-28T08:54:21.000Z",
-      "summary": "The Ghana Taekwondo Federation (GTF) has launched an awareness campaign targeting five regions and aimed at introducing more school children to Taekwondo. The launch in Kumasi over the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Czechs beat Ukraine for 12th Billie Jean King Cup title",
-      "link": "https://ghanaiantimes.com.gh/czechs-beat-ukraine-for-12th-billie-jean-king-cup-title/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-28T08:50:46.000Z",
-      "summary": "Czech Republic eased past Ukraine to win the Billie Jean King Cup for the 12th time. This year’s Wimbledon finalists Linda Noskova and Karolina Muchova breezed past their opponents to…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "French hurdler Samba-Mayela given whereabouts ban",
-      "link": "https://ghanaiantimes.com.gh/french-hurdler-samba-mayela-given-whereabouts-ban/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-28T08:48:49.000Z",
-      "summary": "French hurdler Cyrena Samba-Mayela has been given a temporary suspension for not disclosing her whereabouts to anti-doping officials. Samba-Mayela won silver in the 100m hurdles at the 2024…",
-      "categories": [
-        "Foriegn"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
