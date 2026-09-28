@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-09-28T00:55:10.106Z",
+  "updated": "2026-09-28T06:21:48.578Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,14 +22,14 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-09-28T00:55:10.106Z",
+  "officialAt": "2026-09-28T06:21:48.578Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.6169 (mid-market, 2026-09-27)",
     "gbp: 15.3911 (mid-market, 2026-09-27)",
     "eur: 13.234 (mid-market, 2026-09-27)",
     "cny: 1.72994 (mid-market, 2026-09-27)",
-    "gold: 4271 at 2026-09-28T00:44:54.000Z",
+    "gold: 4213 at 2026-09-28T06:11:31.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-09-25, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-09-28: 2026-09-25, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.73054
     },
     "gold": {
-      "value": 4271,
-      "at": "2026-09-28T00:44:54.000Z",
+      "value": 4213,
+      "at": "2026-09-28T06:11:31.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4321.2
+      "prev": 4271
     }
   }
 };
