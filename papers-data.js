@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-27T22:22:31.526Z",
+  "updated": "2026-09-28T00:56:22.780Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,70 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "T-bills auction: Government exceeds target marginally; yield on 91-day bill remains unchanged",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-marginally-yield-on-91-day-bill-remains-unchanged/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T23:11:43.000Z",
+      "summary": "According to the auction results, the government received GH¢2.9 billion but accepted about GH¢2.8 billion of the bids tendered. The target for the auction was estimated at GH¢2.75 billion.",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "182-day",
+        "364-day",
+        "91-day",
+        "Interest rates",
+        "T-Bills"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Treasury-bills.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL 2026/27: 10-man Aduana hand Kotoko defeat in Kumasi",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-10-man-aduana-hand-kotoko-defeat-in-kumasi/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T23:00:49.000Z",
+      "summary": "Aduana Football Club sealed victory over Asante Kotoko on matchday four of the 2026/27 Ghana Premier League season on Sunday. Aduana produced one of the standout performances of the…",
+      "categories": [
+        "Football",
+        "Aduana",
+        "GPL",
+        "Kotoko"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Kotoko-Aduana.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL 2026/27: Medeama ease past Basake Holy Stars",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-medeama-ease-past-basake-holy-stars/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T22:27:08.000Z",
+      "summary": "The Tarkwa-based side thumped Basake Holy Stars 4-1 in the Western derby.",
+      "categories": [
+        "Football",
+        "National",
+        "Basake Holy Stars",
+        "GPL",
+        "Medeama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Medeama-4-1024x819.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Appiah Adomako writes: Why DVLA must stop treating every expired licence holder as delinquent",
+      "link": "https://www.myjoyonline.com/appiah-adomako-writes-why-dvla-must-stop-treating-every-expired-licence-holder-as-delinquent/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-27T22:23:42.000Z",
+      "summary": "About six weeks ago, CUTS raised concerns about the Driver and Vehicle Licensing Authority’s (DVLA) delinquency charges for late renewal and replacement of a driver’s licence. Our position…",
+      "categories": [
+        "Features",
+        "Appiah Adomako",
+        "DVLA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/ap-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Localization must transfer decision-making power, not just project responsibilities",
       "link": "https://www.myjoyonline.com/localization-must-transfer-decision-making-power-not-just-project-responsibilities/",
@@ -64,6 +128,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Economy",
+        "HP Business 3",
         "Dr. Ato Forson",
         "Ministry of Finance",
         "new economy"
@@ -83,72 +148,6 @@ window.GDC_PAPERS = {
         "Real-time tax"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3503.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Digitalisation, AI key to Ghana’s tourism transformation – GHATOF",
-      "link": "https://www.myjoyonline.com/digitalisation-ai-key-to-ghanas-tourism-transformation-ghatof/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T21:04:03.000Z",
-      "summary": "The Ghana Tourism Federation (GHATOF) has called on stakeholders in the tourism and hospitality industry to embrace digitalisation and artificial intelligence (AI) to transform the sector…",
-      "categories": [
-        "National",
-        "News",
-        "AI",
-        "Digitalisation",
-        "Tourism"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/seth-ocra-1024x763.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stronger GTA-private sector partnership needed to grow tourism – GHATOF",
-      "link": "https://www.myjoyonline.com/stronger-gta-private-sector-partnership-needed-to-grow-tourism-ghatof/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T20:53:54.000Z",
-      "summary": "The Ghana Tourism Federation (GHATOF) has called for stronger collaboration between the Ghana Tourism Authority (GTA) and private-sector tourism associations to help build a more…",
-      "categories": [
-        "National",
-        "News",
-        "GHATOF",
-        "GTA",
-        "Private sector partnership",
-        "Tourism"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/seth-ocra-1-1024x763.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amazon eyes Ghana for broadband expansion after talks with Mahama",
-      "link": "https://www.myjoyonline.com/amazon-eyes-ghana-for-broadband-expansion-after-talks-with-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T20:09:29.000Z",
-      "summary": "Amazon is considering Ghana as a potential partner in its efforts to expand broadband connectivity across Africa following high-level talks between President John Dramani Mahama and senior…",
-      "categories": [
-        "National",
-        "News",
-        "Amazon",
-        "broadband expansion",
-        "Ghana",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-19.01.02-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "National Investment Quiz 2026: Six schools qualify for quarter-finals",
-      "link": "https://www.myjoyonline.com/national-investment-quiz-2026-six-schools-qualify-for-quarter-finals/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T19:41:52.000Z",
-      "summary": "Six Senior High Schools have secured qualification to the quarter-final stage of the 2026 National Investment Quiz, following a competitive preliminary round. The schools are Our Lady of…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "Ghana",
-        "National Investment Quiz Competition"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-2.53.07-AM-782x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
