@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-28T00:56:22.780Z",
+  "updated": "2026-09-28T06:16:12.162Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,129 +25,142 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "T-bills auction: Government exceeds target marginally; yield on 91-day bill remains unchanged",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-marginally-yield-on-91-day-bill-remains-unchanged/",
+      "title": "COCOBOD asks investors to fund cocoa purchases, but proceeds may also repay old debt",
+      "link": "https://www.myjoyonline.com/cocobod-asks-investors-to-fund-cocoa-purchases-but-proceeds-may-also-repay-old-debt/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T23:11:43.000Z",
-      "summary": "According to the auction results, the government received GH¢2.9 billion but accepted about GH¢2.8 billion of the bids tendered. The target for the auction was estimated at GH¢2.75 billion.",
+      "published": "2026-09-28T06:06:00.000Z",
+      "summary": "COCOBOD’s first commercial paper offer under its GH¢16.3 billion Cocoa Notes Programme may be used to repay a bridge loan taken out to refinance existing debt, despite being presented to…",
       "categories": [
+        "Agribusiness",
+        "Analysis",
         "Business",
+        "Data",
         "Economy",
-        "HP Business 2",
-        "182-day",
-        "364-day",
-        "91-day",
-        "Interest rates",
-        "T-Bills"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Treasury-bills.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: 10-man Aduana hand Kotoko defeat in Kumasi",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-10-man-aduana-hand-kotoko-defeat-in-kumasi/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T23:00:49.000Z",
-      "summary": "Aduana Football Club sealed victory over Asante Kotoko on matchday four of the 2026/27 Ghana Premier League season on Sunday. Aduana produced one of the standout performances of the…",
-      "categories": [
-        "Football",
-        "Aduana",
-        "GPL",
-        "Kotoko"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Kotoko-Aduana.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Medeama ease past Basake Holy Stars",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-medeama-ease-past-basake-holy-stars/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-27T22:27:08.000Z",
-      "summary": "The Tarkwa-based side thumped Basake Holy Stars 4-1 in the Western derby.",
-      "categories": [
-        "Football",
+        "HP Research 1",
+        "International",
+        "Investments",
         "National",
-        "Basake Holy Stars",
-        "GPL",
-        "Medeama"
+        "News",
+        "Research",
+        "Cocoa",
+        "Cocoa Capital PLC",
+        "cocoa financing",
+        "Cocoa Notes Programme",
+        "cocoa purchases",
+        "COCOBOD",
+        "commercial paper",
+        "legacy debt",
+        "Randy Abbey"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Medeama-4-1024x819.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/11/cocobod.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Appiah Adomako writes: Why DVLA must stop treating every expired licence holder as delinquent",
-      "link": "https://www.myjoyonline.com/appiah-adomako-writes-why-dvla-must-stop-treating-every-expired-licence-holder-as-delinquent/",
+      "title": "Gov’t hands over site for construction of 160-bed Savannah Regional Hospital",
+      "link": "https://www.myjoyonline.com/govt-hands-over-site-for-construction-of-160-bed-savannah-regional-hospital/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T22:23:42.000Z",
-      "summary": "About six weeks ago, CUTS raised concerns about the Driver and Vehicle Licensing Authority’s (DVLA) delinquency charges for late renewal and replacement of a driver’s licence. Our position…",
+      "published": "2026-09-28T05:59:00.000Z",
+      "summary": "The government has formally handed over the site for the construction of a 160-bed Savannah Regional Referral Hospital at Damongo, paving the way for work on the long-awaited healthcare…",
       "categories": [
-        "Features",
-        "Appiah Adomako",
-        "DVLA"
+        "National",
+        "Government",
+        "Kwakye Ofosu",
+        "Savannah Regional Hospital"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/ap-1024x682.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-32-1024x573.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Localization must transfer decision-making power, not just project responsibilities",
-      "link": "https://www.myjoyonline.com/localization-must-transfer-decision-making-power-not-just-project-responsibilities/",
+      "title": "NCPTA clarifies GH¢200 cap on PTA dues and levies per parent",
+      "link": "https://www.myjoyonline.com/ncpta-clarifies-gh%c2%a2200-cap-on-pta-dues-and-levies-per-parent/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T22:14:32.000Z",
-      "summary": "A local NGO is invited to a project meeting after the proposal has already been approved. When the donor selects the problem, budget, indicators and deadline, the Ghanaian NGO is expected…",
+      "published": "2026-09-28T05:55:00.000Z",
+      "summary": "The National Council of Parents-Teacher Associations (NCPTA-Ghana) has clarified that the approved Parents-Teacher Association (PTA) dues and levies remain GH¢200 per parent per semester.",
       "categories": [
-        "Opinion",
-        "Localization",
-        "NGO",
-        "Project"
+        "National",
+        "dues",
+        "NCPTA",
+        "PTA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-2-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/NCPTA-700x375-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Modernising Ghana’s traditional markets through the 24-Hour Economy markets initiative",
-      "link": "https://www.myjoyonline.com/modernising-ghanas-traditional-markets-through-the-24-hour-economy-markets-initiative/",
+      "title": "Asante Kotoko part ways with coach Eric Tinkler",
+      "link": "https://www.myjoyonline.com/asante-kotoko-part-ways-with-coach-eric-tinkler/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T22:12:01.000Z",
-      "summary": "These markets play a significant role in Ghana’s economy. Historical estimates cited by the World Bank and the United States Department of Agriculture’s Foreign Agricultural Service place…",
+      "published": "2026-09-28T05:53:08.000Z",
+      "summary": "Asante Kotoko have parted ways with head coach Eric Tinkler, effective immediately",
       "categories": [
-        "Business",
-        "Features",
-        "24-hour economy",
-        "GIPA",
-        "traditional markets"
+        "Football",
+        "HP Sports 1",
+        "National",
+        "Asante Kotoko",
+        "Eric Tinkler",
+        "Ghana Premier League"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-08-at-15.20.27-1-819x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260928-WA0006.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "New economy will boost local production and create jobs – Finance Minister",
-      "link": "https://www.myjoyonline.com/new-economy-will-boost-local-production-and-create-jobs-finance-minister/",
+      "title": "GTA calls for ultra-modern Cocoa Museum in Western North",
+      "link": "https://www.myjoyonline.com/gta-calls-for-ultra-modern-cocoa-museum-in-western-north/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T22:06:11.000Z",
-      "summary": "“Our mission is to produce more of what we consume and create more jobs here at home,” he stated.",
+      "published": "2026-09-28T05:50:00.000Z",
+      "summary": "The Ghana Tourism Authority (GTA) in the Western North Region has called on the Ghana Cocoa Board (COCOBOD) and other stakeholders to establish an ultra-modern Cocoa Museum to preserve the…",
       "categories": [
-        "Business",
-        "Economy",
-        "HP Business 3",
-        "Dr. Ato Forson",
-        "Ministry of Finance",
-        "new economy"
+        "National",
+        "Cocoa",
+        "COCOBOD",
+        "GTA",
+        "Western North"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/784076039_1028062920059497_2352046554807316020_n-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Cocobod-720x375-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Real-Time VAT on cross-border digital services – not a new tax and does not violate double taxation principle",
-      "link": "https://www.myjoyonline.com/real-time-vat-on-cross-border-digital-services-not-a-new-tax-and-does-not-violate-double-taxation-principle/",
+      "title": "NPP says concerns over delegates’ register addressed ahead of October 3 polls",
+      "link": "https://www.myjoyonline.com/npp-says-concerns-over-delegates-register-addressed-ahead-of-october-3-polls/",
       "source": "MyJoyOnline",
-      "published": "2026-09-27T21:16:00.000Z",
-      "summary": "Ghana’s digital economy has grown faster than its traditional VAT collection mechanisms. In 2022, only a few non-resident e-commerce entities were on the GRA’s radar.",
+      "published": "2026-09-28T05:49:55.000Z",
+      "summary": "The New Patriotic Party (NPP) says concerns raised by aspirants over its delegates’ register ahead of the October 3 national officers’ elections have been reviewed and addressed.",
       "categories": [
-        "Opinion",
-        "Elsie Appau-Klu",
-        "Real-time tax"
+        "National",
+        "delegates",
+        "Frederick Opare Ansah",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3503.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-4.52.33-AM-1024x610.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PwC Ghana appoints George Arhin as Country Senior Partner",
+      "link": "https://www.myjoyonline.com/pwc-ghana-appoints-george-arhin-as-country-senior-partner/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T05:45:11.000Z",
+      "summary": "PwC Ghana has announced the appointment of George Arhin as the Country Senior Partner (CSP), effective 1 October 2026.",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "George Arhin",
+        "PwC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-5.44.38-am.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New Economy will turn imports into opportunities for Ghanaian production – Ato Forson",
+      "link": "https://www.myjoyonline.com/new-economy-will-turn-imports-into-opportunities-for-ghanaian-production-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T05:45:00.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says the government’s New Economy programme will seek to strengthen local production, reduce reliance on imported goods and create more employment by…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Ato Forson",
+        "Economy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Economy-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
