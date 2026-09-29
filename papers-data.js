@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-29T12:42:24.733Z",
+  "updated": "2026-09-29T18:16:47.728Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,129 +25,206 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘It’s not a matter of evidence; it was a metaphor’ – Afenyo-Markin defends ‘drug lab’ comment",
-      "link": "https://www.myjoyonline.com/its-not-a-matter-of-evidence-it-was-a-metaphor-afenyo-markin-defends-drug-lab-comment/",
+      "title": "St. John’s Grammar edges Mfantsipim in nail-biting NIQ showdown",
+      "link": "https://www.myjoyonline.com/st-johns-grammar-edges-mfantsipim-in-nail-biting-niq-showdown/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T12:35:00.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has defended his description of Ghana as a potential “hub” for cocaine-related activities, insisting that the comment was metaphorical and intended…",
+      "published": "2026-09-29T18:09:29.000Z",
+      "summary": "St. John’s Grammar School and Mfantsipim School have completed the semi-final line-up of the 2026 National Investment Quiz after emerging as the top two schools in the fourth and final…",
+      "categories": [
+        "Business",
+        "Investments",
+        "Mfantsipim",
+        "St. John’s Grammar"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260928-WA0047.jpg-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Daily Insight for CEOs: Preparing the organisation for 2027",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-preparing-the-organisation-for-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T17:50:29.000Z",
+      "summary": "Effective CEOs do not wait until December to begin preparing for the next business year.",
+      "categories": [
+        "Opinion",
+        "CEOs",
+        "Daily Insight"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3705-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Don’t just sit silent and expect a referral’ – Speaker urges Human Rights Committee to investigate abuses",
+      "link": "https://www.myjoyonline.com/dont-just-sit-silent-and-expect-a-referral-speaker-urges-human-rights-committee-to-investigate-abuses/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T17:47:30.000Z",
+      "summary": "The Speaker of Parliament, Alban Bagbin, has urged Parliament’s Human Rights Committee to proactively investigate reported human rights abuses rather than wait for formal referrals before…",
+      "categories": [
+        "National",
+        "Alban Bagbin",
+        "Human Rights Committee",
+        "Speaker of Parliament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-3125.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sports Minister calls for protection of recreational areas",
+      "link": "https://www.graphic.com.gh/sports/sports-minister-calls-for-protection-of-recreational-areas.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T17:46:39.000Z",
+      "summary": "The Minister for Sports and Recreation, Kofi Iddi Adams, also called for the protection of natural green spaces, particularly recreational areas that were being converted into…",
+      "categories": [
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "57-year-old New York man identified as Yaw Boahene killed after bag was caught in subway train doors",
+      "link": "https://www.graphic.com.gh/news/general-news/new-york-man-identified-as-yaw-boahene-killed-after-bag-was-caught-in-subway-train-doors.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-29T17:41:11.000Z",
+      "summary": "A man in Brooklyn, New York, died after his bag got caught between the doors of a subway train which then dragged him down.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/IMG_5374.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "‘Give caucus leaders adequate time to speak before ruling’ – Afenyo-Markin to Bagbin",
+      "link": "https://www.myjoyonline.com/give-caucus-leaders-adequate-time-to-speak-before-ruling-afenyo-markin-to-bagbin/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T17:30:29.000Z",
+      "summary": "Minority Leader in Parliament Alexander Afenyo-Markin has urged Speaker Alban Bagbin to allow the leaders of the respective parliamentary caucuses adequate opportunity to make their…",
+      "categories": [
+        "National",
+        "Afenyo Markin",
+        "Bagbin",
+        "Minority Leader",
+        "Parliament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-17.29.15-1024x472.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Petrosol gives back to society by donating 3,600 books and bags to Sawla DA Primary",
+      "link": "https://www.myjoyonline.com/petrosol-gives-back-to-society-by-donating-3600-books-and-bags-to-sawla-da-primary/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T17:23:44.000Z",
+      "summary": "The management of Petrosol Platinum Energy, PLC, as part of its social responsibility, has given back to society by donating 3,600 school bags and books to Sawla D/A Primary School in the…",
+      "categories": [
+        "Regional",
+        "Books",
+        "Petrosol",
+        "Sawla D A Primary"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3763-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bagbin dismisses Minority motion on narcotics seizures as inadmissible",
+      "link": "https://www.myjoyonline.com/bagbin-dismisses-minority-motion-on-narcotics-seizures-as-inadmissible/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T17:19:14.000Z",
+      "summary": "Speaker of Parliament Alban Bagbin has ruled a motion seeking a parliamentary inquiry into recent major narcotics seizures involving consignments linked to Ghana inadmissible.",
       "categories": [
         "HP News 1",
         "National",
-        "News",
-        "Politics",
-        "Alexander Afenyo-Markin",
-        "drug lab"
+        "Albagn Bagbin"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_0464.jpg-1024x683-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/IMG_2878.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Borrowing costs cut by more than half – Finance Minister",
-      "link": "https://www.myjoyonline.com/borrowing-costs-cut-by-more-than-half-finance-minister/",
+      "title": "From Oversight to Impact: Why board committees will make or break Africa’s organisations",
+      "link": "https://www.myjoyonline.com/from-oversight-to-impact-why-board-committees-will-make-or-break-africas-organisations/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T12:31:44.000Z",
-      "summary": "“Since President Mahama took office, we have deliberately brought down the cost of capital. Today, businesses can borrow at between 9% and 13%,” Dr Forson said.",
+      "published": "2026-09-29T17:15:22.000Z",
+      "summary": "Accra, Ghana. Behind almost every corporate success, and almost every corporate failure, sits a board committee. It is in the audit committee that financial irregularities are either caught…",
       "categories": [
-        "Business",
-        "Economy",
-        "Dr. Ato Forson",
-        "Food and Beverages Association",
-        "Ministry of Finance"
+        "Events",
+        "Board committees",
+        "Douglas Boateng",
+        "PanAvest International"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/784076039_1028062920059497_2352046554807316020_n-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Prof-Douglas-Boateng-1024x699.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "KNUST students urged to look beyond Ghana for AI and robotics opportunities",
-      "link": "https://www.myjoyonline.com/knust-students-urged-to-look-beyond-ghana-for-ai-and-robotics-opportunities/",
+      "title": "‘Strong criticism is legitimate but insult is not argument’ – Speaker urges restraint in public discourse",
+      "link": "https://www.myjoyonline.com/strong-criticism-is-legitimate-but-insult-is-not-argument-speaker-urges-restraint-in-public-discourse/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T12:28:51.000Z",
-      "summary": "The Career Services Centre of the Kwame Nkrumah University of Science and Technology, Kumasi, on the April 28, organised a practitioners’ forum on artificial intelligence (AI) and robotics…",
-      "categories": [
-        "Regional",
-        "AI",
-        "Career services centre",
-        "KNUST",
-        "Thinquebytes"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3726.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Odeibea Foundation extends energy equity initiative with solar streetlights in Akpato and Worwonyo",
-      "link": "https://www.myjoyonline.com/odeibea-foundation-extends-energy-equity-initiative-with-solar-streetlights-in-akpato-and-worwonyo/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T12:27:55.000Z",
-      "summary": "The Odeibea Foundation has taken another significant step toward addressing rural energy deficiency in Ghana with the installation of solar streetlights in the communities of Akpato and…",
-      "categories": [
-        "Features",
-        "Odeibea",
-        "Streetlights"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-2.28.29-PM-1-1024x372.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Customs increases surveillance at ports, warns importers against concealing restricted items",
-      "link": "https://www.myjoyonline.com/customs-increases-surveillance-at-ports-warns-importers-against-concealing-restricted-items/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T12:25:47.000Z",
-      "summary": "The warnings come after some restricted weapons and ammunition were intercepted at the Tema Port Golden Jubilee Terminal after an attempt by an importer to smuggle into the country as a…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Customs Division",
-        "Florence Asante",
-        "GRA",
-        "Tema Port"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.46.29-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WERise urges women entrepreneurs to scale businesses, increase revenue and create jobs",
-      "link": "https://www.myjoyonline.com/werise-urges-women-entrepreneurs-to-scale-businesses-increase-revenue-and-create-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T12:24:18.000Z",
-      "summary": "Women entrepreneurs have been encouraged to move beyond starting businesses and focus on building sustainable enterprises capable of increasing revenue, creating jobs and contributing to…",
+      "published": "2026-09-29T17:13:12.000Z",
+      "summary": "The Speaker of Parliament, Alban Bagbin, has called on Members of Parliament and the public to distinguish between legitimate political criticism and personal insults, stressing that…",
       "categories": [
         "National",
-        "Entrepreneurs",
-        "Revenue",
-        "Scale businesses",
-        "WErise"
+        "Alban Bagbin",
+        "Speaker of Parliament"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-11.08.41-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Speaker.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "POWA calls for end to gendered attacks on Lordina Mahama, Samira Bawumia",
-      "link": "https://www.myjoyonline.com/powa-calls-for-end-to-gendered-attacks-on-lordina-mahama-samira-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T12:19:36.000Z",
-      "summary": "The Progressive Organisation for Women’s Advancement (POWA) has called for an end to what it describes as gendered insults, personal attacks and mockery directed at First Lady Lordina…",
+      "title": "Asare starts against Gambia",
+      "link": "https://www.graphic.com.gh/sports/asare-starts-against-gambia.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T16:09:59.000Z",
+      "summary": "Accra Hearts of Oak goalkeeper Benjamin Asare has been handed his first start in Ghana’s 2027 Africa Cup of Nations Group C qualifier against The Gambia at the Accra Sports Stadium this…",
       "categories": [
-        "National",
-        "Lordina Mahama",
-        "POWA",
-        "Samira Bawumia"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-29-at-10.17.17-1-766x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/asare.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Zigx Foundation supports 50 vulnerable mothers in Akwapim North",
-      "link": "https://www.myjoyonline.com/zigx-foundation-supports-50-vulnerable-mothers-in-akwapim-north/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T12:19:27.000Z",
-      "summary": "The Zigx Foundation for Sustainable Mining is supporting 50 vulnerable mothers in Akwapim North as part of its 2026 Corporate Social Responsibility programme.",
+      "title": "Tinkler reveals lucrative South Africa offer behind Kotoko exit",
+      "link": "https://www.graphic.com.gh/sports/tinkler-reveals-lucrative-south-africa-offer-behind-kotoko-exit.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T16:01:50.000Z",
+      "summary": "Asante Kotoko’s former coach, Eric Tinkler, has revealed that a lucrative offer from a South African club was the main reason behind his decision to abruptly terminate his contract with the…",
       "categories": [
-        "National",
-        "vulnerable mothers",
-        "Zigx Foundation"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_8982-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Tinkler hints at Kotoko return",
+      "link": "https://www.graphic.com.gh/sports/tinkler-hints-at-kotoko-return.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T15:46:28.000Z",
+      "summary": "Outgoing Asante Kotoko coach, Eric Tinkler, has hinted at a possible return to the club in the future, insisting that his work with the Porcupine Warriors is “not finished” despite his…",
+      "categories": [
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Tinkler abruptly ends Kotoko stay after four matches",
+      "link": "https://www.graphic.com.gh/sports/tinkler-abruptly-ends-kotoko-stay-after-four-matches.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T14:27:12.000Z",
+      "summary": "Asante Kotoko’s South African coach, Eric Tinkler, has abruptly terminated his contract with the club after just four Ghana Premier League matches . The decision was announced by the club…",
+      "categories": [
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana vs The Gambia: Carlos Queiroz demands Black Stars response in must-win AFCON qualifier",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-vs-the-gambia-carlos-queiroz-demands-black-stars-response-in-must-win-afcon-qualifier.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T13:41:44.000Z",
+      "summary": "Ghana face The Gambia at the Accra Sports Stadium on Tuesday afternoon with far more than three points at stake. For Coach Carlos Queiroz and the Black Stars, this 2027 Africa Cup of…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/ErnestNuamah.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Ghanaian nurses to enjoy enhanced salaries, insurance, rent allowance under new Ghana–Saint Kitts agreement",
@@ -330,18 +407,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana to sign 1,200MW gas power deal for biggest thermal plant",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-to-sign-1-200mw-gas-power-deal-for-biggest-thermal-plant.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T07:17:11.000Z",
-      "summary": "President John Dramani Mahama has announced that the government will build the biggest thermal capacity, with agreements for 1,200 megawatts of gas-fired thermal power to be signed before…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/President.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "No Premier League appetite to strip Man City of titles — but threat remains",
       "link": "https://www.graphic.com.gh/sports/sports-news/no-premier-league-appetite-to-strip-man-city-of-titles-but-threat-remains.html",
       "source": "Graphic Sports",
@@ -363,78 +428,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/28/SPAIN.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Dorgbetor, Kamoko return with big wins as PKO youngsters shine at Odwira Fight Night",
-      "link": "https://www.graphic.com.gh/sports/sports-news/dorgbetor-kamoko-return-with-big-wins-as-pko-youngsters-shine-at-odwira-fight-night.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T13:22:20.000Z",
-      "summary": "Holy “Jaw Breaker” Dorgbetor and Abu “Ambitious Tilapia” Kamoko returned with impressive victories at the Odwira Fight Night in Akropong last Saturday, but emerging PKO Boxing prospects…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/PKO_BOXING.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Black Bombers begin LA 2028 journey with Kinshasa test",
-      "link": "https://www.graphic.com.gh/sports/sports-news/black-bombers-begin-la-2028-journey-with-kinshasa-test.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T13:11:50.000Z",
-      "summary": "Ghana’s revamped Black Bombers will face their first major continental examination next month after confirming participation in the 2026 IBA Africa Elite Men’s and Women’s Boxing…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/BOMBERS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Damba challenges Black Stars to go all out against Gambia",
-      "link": "https://www.graphic.com.gh/sports/sports-news/damba-challenges-black-stars-to-go-all-out-against-gambia.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T13:05:48.000Z",
-      "summary": "Former Black Stars goalkeeper, Abukari Damba, has challenged the senior national team to go the extra mile to secure victory when they face The Gambia in their 2027 Africa Cup of Nations…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/DAMBA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Kapor blames key absences for Hearts defeat",
-      "link": "https://www.graphic.com.gh/sports/sports-news/kapor-blames-key-absences-for-hearts-defeat.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T13:01:11.000Z",
-      "summary": "Accra Hearts of Oak coach, Nebojsa Kapor, has attributed his side’s first defeat of the season to the absence of some key players in their 1-0 loss to Karela United last Saturday. The…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Agbasi targets CAF Champions League with Stellenbosch",
-      "link": "https://www.graphic.com.gh/sports/sports-news/agbasi-targets-caf-champions-league-with-stellenbosch.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T12:55:50.000Z",
-      "summary": "Newly-recruited Stellenbosch FC goalkeeper, Solomon Agbasi, has set his sights on helping the South African Premier Soccer League side return to the top four and eventually compete in the…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/AGBASI.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "How Man United missed £800K deal for Kudus",
-      "link": "https://www.graphic.com.gh/sports/sports-news/how-man-united-missed-gbp800k-deal-for-kudus.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T12:50:27.000Z",
-      "summary": "Former Tottenham scout Bryan King has revealed just how close Mohammed Kudus came to joining Manchester United nearly a decade ago. Mohammed Kudus has since returned for Tottenham Hotspur…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/KUDUS_M.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
