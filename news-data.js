@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-28T20:31:24.716Z",
-  "worldAt": "2026-09-28T20:16:23.838Z",
+  "updated": "2026-09-29T00:30:43.513Z",
+  "worldAt": "2026-09-29T00:30:43.511Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -30,9 +30,57 @@ window.GDC_NEWS = {
     "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
-    "world lists: refreshed 15 min ago, left alone this run"
+    "World · Al Jazeera: 25 stories",
+    "World · Africanews: 50 stories",
+    "World · NPR World: 10 stories",
+    "World · UN News: 30 stories",
+    "World · BBC News: 35 stories",
+    "World · Deutsche Welle: 13 stories",
+    "World · France 24: 24 stories",
+    "Africa · AllAfrica: 33 stories",
+    "Africa · AllAfrica Business: 33 stories",
+    "Africa · Africanews: 27 stories",
+    "Africa · BBC Africa: 28 stories",
+    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Al Jazeera: 1 stories",
+    "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Fidelity Bank launches 20th anniversary with new CSR commitments, Jubilee Drive promo",
+      "link": "https://gna.org.gh/2026/09/fidelity-bank-launches-20th-anniversary-with-new-csr-commitments-jubilee-drive-promo/",
+      "source": "Ghana News Agency",
+      "published": "2026-09-28T23:51:30.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "Interest payments to average a high 20% of government revenue over next 4 years",
+      "link": "https://www.myjoyonline.com/interest-payments-to-average-a-high-20-of-government-revenue-over-next-4-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T22:28:46.000Z",
+      "summary": "According to the US-based firm, the reduction is underpinned by the effects of debt restructuring, the cedi's exchange rate appreciation in 2025 and lower local currency financing costs, as…"
+    },
+    {
+      "title": "Strategy of accumulating foreign reserves, gold carries high fiscal cost – S&P Global",
+      "link": "https://www.myjoyonline.com/strategy-of-accumulating-foreign-reserves-gold-carries-high-fiscal-cost-sp/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T22:13:58.000Z",
+      "summary": "According to the US-based rating agency, although the gold sector is fueling the accumulation of reserves, implementing Ghana Accelerated National Reserves Accumulation Program (GANRAP)…"
+    },
+    {
+      "title": "Weak institutional arrangements, high debt servicing constrain Ghana’s rating – S&P",
+      "link": "https://www.myjoyonline.com/weak-institutional-arrangements-high-debt-servicing-constrain-ghanas-rating-sp/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T22:07:46.000Z",
+      "summary": "Ratings agency, S&P Global has stated that Ghana’s institutional arrangements are weak, but improving. According to the US-based firm, the cost of servicing government debt remains…"
+    },
+    {
+      "title": "Bond market: Turnover declined by 28% to GH¢1.56bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-declined-by-28-to-gh%c2%a21-56bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T21:37:59.000Z",
+      "summary": "The secondary bond market activity slowed, with turnover declining 28.56% week-to-week to GH¢1.56 billion. Trading remained concentrated in the 2031-2034 segment. It accounted for 71.30% of…"
+    },
     {
       "title": "SOE Listing Plan Puts Corporate Governance Under The Spotlight",
       "link": "https://thehighstreetjournal.com/soe-listing-plan-puts-corporate-governance-under-the-spotlight/",
@@ -1047,44 +1095,211 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-25T09:37:38.000Z",
       "summary": "The business environment in Ghana remains positive and dynamic, but businesses must adapt their internal processes, relationships and market strategies to take full advantage of emerging…"
-    },
-    {
-      "title": "At least 2 new airlines could join domestic aviation market by 2027 – GCAA Director General",
-      "link": "https://www.myjoyonline.com/at-least-2-new-airlines-could-join-domestic-aviation-market-by-2027-gcaa-director-general/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T09:28:49.000Z",
-      "summary": "Rev. Arthur noted that “We still have that hope that those currently going through the five phases of certification could be completed on time for them to join the current operators”."
-    },
-    {
-      "title": "Energy Commission to monitor EV charging stations",
-      "link": "https://www.myjoyonline.com/energy-commission-to-monitor-ev-charging-stations/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T09:03:55.000Z",
-      "summary": "Speaking at the graduation ceremony of some 884 electricians who completed the Energy Commission 25th Electrical Wiring Certification, Executive Secretary of the Commission, Adwoa Serwaa…"
-    },
-    {
-      "title": "CSD Targets Global Investors as Ghana Pushes Digital Capital Market Access",
-      "link": "https://thehighstreetjournal.com/csd-targets-global-investors-as-ghana-pushes-digital-capital-market-access/",
-      "source": "The High Street Journal",
-      "published": "2026-09-25T09:03:00.000Z",
-      "summary": "Ghana’s CSD is expanding digital investor access, identity verification and global entity identification to connect the domestic capital market with diaspora, international investors and…"
-    },
-    {
-      "title": "Invest with confidence, Ghana’s golden era is beginning – Finance Minister",
-      "link": "https://www.myjoyonline.com/invest-with-confidence-ghanas-golden-era-is-beginning-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-25T08:53:48.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has urged businesses to invest with confidence, assuring them that the government will sustain the gains made in stabilising Ghana’s economy. Speaking…"
-    },
-    {
-      "title": "Gov’t Moves to Make Kaizen Philosophy Permanent in Industrial Development After 200 Enterprises Benefit",
-      "link": "https://thehighstreetjournal.com/kaizen-in-industrial-development/",
-      "source": "The High Street Journal",
-      "published": "2026-09-25T08:46:56.000Z",
-      "summary": "Government urges expansion of Japan’s continuous-improvement approach as four-year UNIDO project closes"
     }
   ],
   "world": [
+    {
+      "title": "Inside Al Jazeera’s UNGA coverage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T00:10:21.000Z",
+      "summary": "Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV."
+    },
+    {
+      "title": "US prosecutors reopen Cornell university gang rape investigation",
+      "link": "https://www.france24.com/en/americas/20260929-us-prosecutors-cornell-university-gang-rape-investigation",
+      "source": "France 24",
+      "published": "2026-09-29T00:04:48.000Z",
+      "summary": "US prosecutors reopened an investigation on Monday into an alleged 2024 gang rape at Cornell University after the woman involved accused the school of failing to punish those responsible…",
+      "image": "https://s.france24.com/media/display/763f398e-bb83-11f1-a9d1-8f3418d01115/w:1024/p:16x9/AP26271727531918.jpg"
+    },
+    {
+      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T00:00:00.000Z",
+      "summary": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds."
+    },
+    {
+      "title": "French student protests fuel political clash ahead of 2027 Presidential vote",
+      "link": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote",
+      "source": "France 24",
+      "published": "2026-09-28T23:54:27.000Z",
+      "summary": "French Prime Minister Sébastien Lecornu and far-left leader Jean-Luc Mélenchon traded barbs on Monday over high school students blockading classes to demand more resources. The students…",
+      "image": "https://s.france24.com/media/display/8568237a-a95f-11f1-aa90-005056a97e36/w:1024/p:16x9/1066aa1a30a7ed0b2585d5df888371556dc6b135.jpg"
+    },
+    {
+      "title": "Fiery end for SpaceX Starship mission",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T23:48:48.000Z",
+      "summary": "Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown."
+    },
+    {
+      "title": "Journalist to be crowned king in Uganda after bitter succession dispute",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-28T23:44:49.000Z",
+      "summary": "Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094c/live/97ee2750-bb49-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T23:34:19.000Z",
+      "summary": "UK Defence Minister Wes Streeting said it was ‘too soon’ to blame a foreign state for a suspected plot near RAF Fairford"
+    },
+    {
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-28T23:43:48.000Z",
+      "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e35/live/359c99e0-bb96-11f1-857e-2582c6806c50.jpg"
+    },
+    {
+      "title": "Evicted 87-year-old Spanish pensioner to return home after deal",
+      "link": "https://www.france24.com/en/europe/20260928-evicted-spanish-pensioner-to-return-home-after-housing-protest-deal-spain-madrid",
+      "source": "France 24",
+      "published": "2026-09-28T22:34:14.000Z",
+      "summary": "An 87-year-old Madrid pensioner whose eviction became a rallying point for Spain’s housing protests will be able to return home after reaching a deal with the property’s owners, her lawyer…",
+      "image": "https://s.france24.com/media/display/21b7db2a-b91a-11f1-ae34-91cf9f3cd539/w:1024/p:16x9/2026-09-23T131755Z-2084017206-RC2XONACI57G-RTRMADP-3-SPAIN-HOUSING.jpg"
+    },
+    {
+      "title": "British men released on bail after suspected terror plot",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
+      "source": "NPR World",
+      "published": "2026-09-28T22:10:02.000Z",
+      "summary": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The British base is used by the U.S. military for strikes on Iran."
+    },
+    {
+      "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+      "link": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T22:05:43.000Z",
+      "summary": "Researchers link the rise to immigration politics, economic anxiety and the growing visibility of South Asians in US."
+    },
+    {
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-28T21:46:53.000Z",
+      "summary": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f058/live/59b822c0-bb7a-11f1-b505-77b42c904b07.jpg"
+    },
+    {
+      "title": "Nations League: Italy rebound in Turkey as France snatch late win in Belgium",
+      "link": "https://www.france24.com/en/sport/20260928-italy-rebound-in-turkey-as-france-win-late-in-belgium",
+      "source": "France 24",
+      "published": "2026-09-28T21:38:08.000Z",
+      "summary": "Italy bounced back in style on Monday, thumping Turkey 4-1 in the rain to revive their Nations League campaign, while France edged Belgium 1-0 in Brussels with a late winner from Michael…",
+      "image": "https://s.france24.com/media/display/8995ab96-bb81-11f1-a917-177f79e345bf/w:1024/p:16x9/7061f5ab976a03337a9ed9ea70acca05fe405af8.jpg"
+    },
+    {
+      "title": "Pope Leo ends France trip in Metz, spotlighting Schuman and EU unity",
+      "link": "http://www.africanews.com/2026/09/28/pope-leo-ends-france-trip-in-metz-spotlighting-schuman-and-eu-unity/",
+      "source": "Africanews",
+      "published": "2026-09-28T21:37:16.000Z",
+      "summary": "Pope Leo XIV ended his four-day visit to France in Metz on Monday by urging Europe to build on its Christian heritage and culture of dialogue rather than succumb to what he called the…"
+    },
+    {
+      "title": "Gold falls amid rising oil prices and higher US dollar",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T21:34:51.000Z",
+      "summary": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss."
+    },
+    {
+      "title": "Expert says UK airbase plot 'fits into a very intense pattern we've been seeing in past two months'",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260928-expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
+      "source": "France 24",
+      "published": "2026-09-28T21:25:18.000Z",
+      "summary": "British police said Monday five men arrested near an airbase used by the United States were released on bail, as officers probed whether a \"foreign state\" could be involved in a suspected…",
+      "image": "https://s.france24.com/media/display/2c4376c8-bb7f-11f1-a664-852b23529bb9/w:1024/p:16x9/EN-20260928-223110-224124-CS.jpg"
+    },
+    {
+      "title": "Hundreds set up tent encampments in Madrid over housing crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T21:12:29.000Z",
+      "summary": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs."
+    },
+    {
+      "title": "Expert says UK airbase plot 'fits into a very intense pattern we've been seeing in past two months'",
+      "link": "https://www.france24.com/en/expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
+      "source": "France 24",
+      "published": "2026-09-28T21:23:39.000Z",
+      "summary": "British police said Monday five men arrested near an airbase used by the United States were released on bail, as officers probed whether a \"foreign state\" could be involved in a suspected…",
+      "image": "https://s.france24.com/media/display/2c4376c8-bb7f-11f1-a664-852b23529bb9/w:1024/p:16x9/EN-20260928-223110-224124-CS.jpg"
+    },
+    {
+      "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
+      "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T21:04:58.000Z",
+      "summary": "Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute."
+    },
+    {
+      "title": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
+      "link": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
+      "source": "France 24",
+      "published": "2026-09-28T20:55:42.000Z",
+      "summary": "Five men arrested over a suspected bomb plot at RAF Fairford have been released on bail as investigations continue. Meanwhile, AI-enhanced images purporting to show their faces have gone…",
+      "image": "https://s.france24.com/media/display/ab19577c-bb7c-11f1-a78f-555a0aff87a4/w:1024/p:16x9/capture-5205307536abad0724223a0-04593679.jpg"
+    },
+    {
+      "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T20:53:53.000Z",
+      "summary": "Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta."
+    },
+    {
+      "title": "France braces for a day of strikes and protests over civil servants' pay",
+      "link": "https://www.france24.com/en/tv-shows/business/20260928-france-braces-for-a-day-of-strikes-and-protests-over-civil-servants-pay",
+      "source": "France 24",
+      "published": "2026-09-28T20:42:09.000Z",
+      "summary": "Trade unions in France have called on public sector workers - from train drivers to teachers to health workers and police officers - to stop working and protest at the government's plan to…",
+      "image": "https://s.france24.com/media/display/8ae006c2-bb7c-11f1-94ae-11fa9f8a3b4f/w:1024/p:16x9/capture-21399766096abad03c306d15-42688400.jpg"
+    },
+    {
+      "title": "French far-right leader Bardella refutes anti-Semitism allegations",
+      "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T20:52:03.000Z",
+      "summary": "Mediapart's explosive report comes a day after France's National Rally party secures a record number of Senate seats."
+    },
+    {
+      "title": "Ethiopian forces claim Tigray town",
+      "link": "https://www.france24.com/en/ethiopian-forces-claim-tigray-town",
+      "source": "France 24",
+      "published": "2026-09-28T20:32:38.000Z",
+      "summary": "In tonight's edition, Ethiopia's army says it's seized a key city in the northern region of Tigray amidst escalating conflict with local rebels. Also, two mass shootings in South Africa…",
+      "image": "https://s.france24.com/media/display/9322f35a-bb7a-11f1-94cc-11fa9f8a3b4f/w:1024/p:16x9/DN197082-A-01-20260921-01.jpg"
+    },
+    {
+      "title": "South Sudan calls for sanctions to be lifted at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T20:45:52.000Z",
+      "summary": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted"
+    },
+    {
+      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-28T20:23:12.000Z",
+      "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f7f/live/8efc6ea0-bb4d-11f1-a071-65d2e11c8f4a.jpg"
+    },
+    {
+      "title": "Slovenia’s U-turn towards Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T20:35:51.000Z",
+      "summary": "Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu."
+    },
     {
       "title": "French far-right's Bardella denies alleged 2013 antisemitic comments as Le Pen sees boost in polls",
       "link": "https://www.france24.com/en/french-far-right-s-bardella-denies-alleged-2013-antisemitic-comments-as-le-pen-sees-boost-in-polls",
@@ -1094,11 +1309,25 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/92523ed0-bb76-11f1-85b0-852b23529bb9/w:1024/p:16x9/capture-12180213876abac637aac461-22704211.jpg"
     },
     {
-      "title": "NFL asks US Homeland Security to remove video with former star player",
-      "link": "https://www.aljazeera.com/news/2026/9/28/nfl-asks-us-homeland-security-to-remove-video-with-former-star-player?traffic_source=rss",
+      "title": "Gaza’s young inventors build robots with what they have",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-28T19:49:25.000Z",
-      "summary": "Agency used video of Hall of Fame player Brian Dawkins to show readiness for border protection."
+      "published": "2026-09-28T20:34:22.000Z",
+      "summary": "At a youth hackathon in Gaza City, young inventors are developing robots."
+    },
+    {
+      "title": "UN marks 25 Years of Durban Declaration as Guterres calls for stronger global action",
+      "link": "http://www.africanews.com/2026/09/28/un-marks-25-years-of-durban-declaration-as-guterres-calls-for-stronger-global-action/",
+      "source": "Africanews",
+      "published": "2026-09-28T19:49:45.000Z",
+      "summary": "The UN General Assembly marked 25 years of the Durban Declaration on racism and racial discrimination with a high-level meeting in New York."
+    },
+    {
+      "title": "Apple ordered to pay $5.7bn in patent infringement case",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T20:11:30.000Z",
+      "summary": "California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal."
     },
     {
       "title": "Ukrainian arms producers warn competitive edge eroding due to stringent export licence rules",
@@ -1109,26 +1338,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/53811644-bb72-11f1-a30e-11fa9f8a3b4f/w:1024/p:16x9/EN-20260928-210748-211410-CS.jpg"
     },
     {
-      "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
-      "link": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
+      "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-28T19:45:06.000Z",
-      "summary": "Defendants were sentenced in absentia to 10 years in prison over the 2016 fatal abduction of the Cambridge scholar."
-    },
-    {
-      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-28T19:26:15.000Z",
-      "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f7f/live/8efc6ea0-bb4d-11f1-a071-65d2e11c8f4a.jpg"
-    },
-    {
-      "title": "UAE confirms Netanyahu visit to Abu Dhabi",
-      "link": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T19:42:30.000Z",
-      "summary": "The visit takes place as the Israeli prime minister battles domestic turmoil ahead of October's Knesset elections"
+      "published": "2026-09-28T20:04:27.000Z",
+      "summary": "Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement."
     },
     {
       "title": "Leo the moderate? Pope in France defends EU values",
@@ -1139,11 +1353,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/77647dfc-bb64-11f1-8928-11fa9f8a3b4f/w:1024/p:16x9/2026-09-28T173849Z-1858150346-RC2HSNAISWMZ-RTRMADP-3-POPE-FRANCE.jpg"
     },
     {
-      "title": "How can the UK’s Labour Party rebuild voter trust?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/28/how-can-the-uks-labour-party-rebuild-voter-trust?traffic_source=rss",
+      "title": "Nepal hit by deadly floods, landslides, and avalanche",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-28T19:37:27.000Z",
-      "summary": "Members at annual conference are optimistic about new PM"
+      "published": "2026-09-28T19:59:36.000Z",
+      "summary": "Heavy rain triggered deadly floods and landslides across Nepal, while an avalanche left 12 workers missing."
     },
     {
       "title": "DRC: Vally Amisi’s Family Demands Answers [Africanews Today]",
@@ -1153,11 +1367,11 @@ window.GDC_NEWS = {
       "summary": "In the DRC, Vally Amisi’s family is demanding answers. In Ethiopia, fears of renewed conflict are growing among the population, while Niger takes back control of its uranium sector."
     },
     {
-      "title": "Myanmar army air strike kills dozens in Rakhine state",
-      "link": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss",
+      "title": "NFL asks US Homeland Security to remove video with former star player",
+      "link": "https://www.aljazeera.com/news/2026/9/28/nfl-asks-us-homeland-security-to-remove-video-with-former-star-player?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-28T19:31:27.000Z",
-      "summary": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups."
+      "published": "2026-09-28T19:49:25.000Z",
+      "summary": "Agency used video of Hall of Fame player Brian Dawkins to show readiness for border protection."
     },
     {
       "title": "Three migrants die in Channel crossing as boats become more overcrowded and risky",
@@ -1167,223 +1381,51 @@ window.GDC_NEWS = {
       "summary": "Emergency crews gathered at the port of Calais after three migrants died trying to cross the English Channel to Britain. Two women in their thirties and a 10-year-old boy, believed to be…"
     },
     {
-      "title": "American and six Ukrainians released by India after six months in jail",
-      "link": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail?traffic_source=rss",
+      "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
+      "link": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-28T19:02:53.000Z",
-      "summary": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India."
+      "published": "2026-09-28T19:45:06.000Z",
+      "summary": "Defendants were sentenced in absentia to 10 years in prison over the 2016 fatal abduction of the Cambridge scholar."
     },
     {
-      "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+      "title": "The Frenemy: How Australia navigates superpower rivalry",
       "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-09-28T18:37:15.000Z",
       "summary": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d3/live/86c72290-b8a8-11f1-8257-a79ccb54f692.jpg"
-    },
-    {
-      "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
-      "link": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T18:50:24.000Z",
-      "summary": "Tehran filed a UN complaint against US sanctions forcing regional cancellations of Iran flights."
-    },
-    {
-      "title": "Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260928-saudis-furious-trump-flips-flops-between-deal-with-iran-and-attacks-in-devastating-fashion",
-      "source": "France 24",
-      "published": "2026-09-28T18:18:16.000Z",
-      "summary": "François Picard is pleased to welcome Barbara Slavin, Distinguished Fellow at the Stimson Center. She describes the US-Iran conflict as a dangerous combination of military escalation…",
-      "image": "https://s.france24.com/media/display/f8e078b2-bb60-11f1-b5fc-11fa9f8a3b4f/w:1024/p:16x9/EN-20260928-180123-181137-CS.jpg"
-    },
-    {
-      "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
-      "link": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T18:18:32.000Z",
-      "summary": "World champions Spain host Croatia in matchday two of the UEFA Nations League, with Yamal facing Modric."
-    },
-    {
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-28T18:11:07.000Z",
-      "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75df/live/cf54f150-bb59-11f1-b3b3-91d0b491a464.jpg"
-    },
-    {
-      "title": "Trump made the right decision to reject Iran’s offer",
-      "link": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T18:16:26.000Z",
-      "summary": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point."
-    },
-    {
-      "title": "US deportations are triggering a 'cascade' of rights abuses, UN experts warn",
-      "link": "https://www.france24.com/en/americas/20260928-us-trump-deportations-triggering-cascade-of-rights-abuses-un-experts-warn-forbidden-stories",
-      "source": "France 24",
-      "published": "2026-09-28T18:01:17.000Z",
-      "summary": "The Trump administration's policy of deportating thousands of people to countries with which they have no links is \"increasing risks of torture and ill-treatment and enforced…",
-      "image": "https://s.france24.com/media/display/db4a30b2-bb61-11f1-9d45-91cf9f3cd539/w:1024/p:16x9/AP25243812139636.jpg"
-    },
-    {
-      "title": "Somali army clashes with local forces for control of Baidoa",
-      "link": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:58:11.000Z",
-      "summary": "The latest outbreak of fighting in the South West State city stranded civilians unable to flee or reach hospitals."
-    },
-    {
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-28T17:26:21.000Z",
-      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c325/live/9671af90-bb40-11f1-a071-65d2e11c8f4a.jpg"
-    },
-    {
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-      "link": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:43:10.000Z",
-      "summary": "Mediators are trying to facilitate more talks, but Washington signals faith in its pressure tactics."
-    },
-    {
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-28T17:15:00.000Z",
-      "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
-      "link": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:37:36.000Z",
-      "summary": "Ukraine condemns Russian targeting of civilians as strikes kill seven and injure dozens across Kyiv."
-    },
-    {
-      "title": "People escape historic Kyiv building hit by Russian drone",
-      "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-28T17:04:14.000Z",
-      "summary": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f9/live/6c252360-bb5a-11f1-b3b3-91d0b491a464.jpg"
-    },
-    {
-      "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:32:44.000Z",
-      "summary": "British police officials say that suspects arrested over a 'terror' incident at a RAF base were released on police bail."
-    },
-    {
-      "title": "France puts out massive fire that torched 42,000 hectares and smouldered for 69 days",
-      "link": "https://www.france24.com/en/france/20260928-france-puts-out-massive-fire-that-torched-42-000-hectares-and-smouldered-for-69-days",
-      "source": "France 24",
-      "published": "2026-09-28T17:00:08.000Z",
-      "summary": "France's largest wildfire since 1949 has been declared extinguished more than two months after it broke out in southwestern Gironde, forcing the evacuation of around 224,000 people and…",
-      "image": "https://s.france24.com/media/display/0e7d8b7c-bb5e-11f1-99d0-11fa9f8a3b4f/w:1024/p:16x9/b0f91c8b5c330512b36891557fe227255f531c13.jpg"
-    },
-    {
-      "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
-      "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:13:03.000Z",
-      "summary": "Spain's Swiftair was fined 225,000 euros in France for corporate manslaughter over 2014 Air Algerie disaster in Mali."
-    },
-    {
-      "title": "Israel's opposition bloc, Netanyahu’s coalition in dead heat, election poll finds",
-      "link": "https://www.france24.com/en/video/20260928-israel-s-opposition-bloc-netanayhu-s-coalition-in-dead-heat-election-poll-finds",
-      "source": "France 24",
-      "published": "2026-09-28T16:55:29.000Z",
-      "summary": "With a month to go until Israel goes to the polls on October 27th, a new opinion poll shows the opposition bloc led by Gadi Eisenkot's Yashar party in a dead heat with Prime Minister…",
-      "image": "https://s.france24.com/media/display/c5ed39c6-bb5c-11f1-8e3e-8f3418d01115/w:1024/p:16x9/EN-20260928-171008-171205-CS.jpg"
-    },
-    {
-      "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:06:00.000Z",
-      "summary": "A Russian drone struck the National Academy of Sciences of Ukraine in central Kyiv, killing one person"
-    },
-    {
-      "title": "Tigray TV station hit by drone as rebels advance in north Ethiopia",
-      "link": "https://www.france24.com/en/video/20260928-tigray-tv-station-hit-by-drone-as-rebels-advance-in-north-ethiopia",
-      "source": "France 24",
-      "published": "2026-09-28T16:51:23.000Z",
-      "summary": "Authorities in Ethiopia are accusing outside forces of backing armed groups fighting the country's troops in the north. Since last week, heavy clashes have been reported between government…",
-      "image": "https://s.france24.com/media/display/704b7948-bb5b-11f1-9cef-555a0aff87a4/w:1024/p:16x9/EN-20260928-170303-170502-CS.jpg"
-    },
-    {
-      "title": "168 hours on the dance floor: Nigerian dancer chases Guinness World Record",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/09-28-nigerian-dancer-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:02:53.000Z",
-      "summary": "Nigerian dancer Benjamin Daniel Gabriel is trying to dance for 168 hours straight in a bid to set a world record."
-    },
-    {
-      "title": "As midterms approach, does GOP have a Trump problem?",
-      "link": "https://www.france24.com/en/video/20260928-as-midterms-approach-does-gop-have-a-trump-problem",
-      "source": "France 24",
-      "published": "2026-09-28T16:50:14.000Z",
-      "summary": "The US midterm elections are just five weeks away - and while the US President is not on the ballot, his influence is top of mind for Republicans. Donald Trump's approval ratings have been…",
-      "image": "https://s.france24.com/media/display/3e204c94-bb49-11f1-ac13-852b23529bb9/w:1024/p:16x9/EN-20260928-161855-162048-CS.jpg"
-    },
-    {
-      "title": "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T16:55:05.000Z",
-      "summary": "Analysts dismissed Trump's proposal as lacking any strategic logic – but said it revealed how he views Beijing."
-    },
-    {
-      "title": "French hotels, souvenir shops benefit from pope business boost",
-      "link": "https://www.france24.com/en/video/20260928-french-hotels-souvenir-shops-benefit-from-pope-business-boost",
-      "source": "France 24",
-      "published": "2026-09-28T16:48:33.000Z",
-      "summary": "Monday is the final day of Pope Leo'svisit to France and the trip has been marked not only by an outpouring of emotion from France's Catholics but also flurry of economic activity. The…",
-      "image": "https://s.france24.com/media/display/0074efb2-bb49-11f1-adc4-852b23529bb9/w:1024/p:16x9/EN-20260928-161101-161236-CS.jpg"
-    },
-    {
-      "title": "South Korea suspects North Korean mines behind DMZ blast",
-      "link": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T16:50:08.000Z",
-      "summary": "The report into the explosion in Demilitarized Zone threatens to provoke renewed tension between the two Koreas."
-    },
-    {
-      "title": "Five suspects arrested in explosives case near UK airbase were British nationals",
-      "link": "https://www.france24.com/en/video/20260928-five-suspects-arrested-in-explosives-case-near-uk-airbase-were-british-nationals",
-      "source": "France 24",
-      "published": "2026-09-28T16:47:11.000Z",
-      "summary": "Five suspects arrested by British police on suspicion of terrorism and explosives ​offenses after white vans drove towards an airbase used by US forces were all British nationals from…",
-      "image": "https://s.france24.com/media/display/a29fe546-bb47-11f1-8485-555a0aff87a4/w:1024/p:16x9/EN-20260928-152457-153058-CS.jpg"
-    },
-    {
-      "title": "Migrant children protest after police clear beach camp in Ceuta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/migrant-children-protest-after-police-clear-beach-camp-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T16:44:58.000Z",
-      "summary": "Migrant children in Ceuta have protested for adequate shelter after heavy rain soaked their makeshift tents."
-    },
-    {
-      "title": "Traoré marks four years in power, following Sankara’s legacy",
-      "link": "http://www.africanews.com/2026/09/28/traore-marks-four-years-in-power-following-sankaras-legacy/",
-      "source": "Africanews",
-      "published": "2026-09-28T16:35:29.000Z",
-      "summary": "Captain Ibrahim Traoré has now led Burkina Faso for four years, the same length of time Thomas Sankara was in power."
-    },
-    {
-      "title": "French police fire tear gas at migrants on beach",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/french-police-fire-tear-gas-at-migrants-on-beach?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T16:37:19.000Z",
-      "summary": "French police have used tear gas to disperse migrants attempting to cross the English Channel to Britain from France."
     }
   ],
   "africa": [
+    {
+      "title": "Journalist to be crowned king in Uganda after bitter succession dispute",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-09-28T23:44:49.000Z",
+      "summary": "Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094c/live/97ee2750-bb49-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "title": "Africa: 'Define Success by Problems You Tackle and Solve' - Prof Moghalu to USIU-Africa Grads",
+      "link": "https://allafrica.com/stories/202609280733.html",
+      "source": "AllAfrica",
+      "published": "2026-09-28T22:44:35.000Z",
+      "summary": "[allAfrica] Nairobi -- Commencement address by At the 48th Commencement Ceremony of the United States International University-Africa (USIU-Africa) on September 26, 2026"
+    },
+    {
+      "title": "West Africa: ECOWAS Parliament Seeks Regional Funding for Climate Polices",
+      "link": "https://allafrica.com/stories/202609280709.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-28T21:27:40.000Z",
+      "summary": "[Daily Trust] The ECOWAS Parliament has urged member states to strengthen implementation and financing of climate policies to tackle environmental degradation, population displacement and…"
+    },
+    {
+      "title": "South Sudan calls for sanctions to be lifted at UNGA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T20:45:52.000Z",
+      "summary": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted"
+    },
     {
       "title": "DRC: Vally Amisi’s Family Demands Answers [Africanews Today]",
       "link": "http://www.africanews.com/2026/09/28/drc-vally-amisis-family-demands-answers-africanews-today/",
@@ -1640,34 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-28T12:26:22.000Z",
       "summary": "[RFI] Go anywhere in Madagascar and you'll find gony - large woven polypropylene sacks used to transport and store everything from vanilla to cement. For the past 50 years, these…"
-    },
-    {
-      "title": "Nigeria: Fire Guts Customs Western Marine Command Office in Lagos",
-      "link": "https://allafrica.com/stories/202609280384.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-28T13:20:46.000Z",
-      "summary": "[Vanguard] Fire gutted the Nigeria Customs Service (NCS) Western Marine Command office in Apapa, Lagos, on Monday, destroying property worth millions of Naira."
-    },
-    {
-      "title": "South Africa: Pregnant Woman Left Waiting As Ambulance Is Denied Entry to Eastern Cape Hospital",
-      "link": "https://allafrica.com/stories/202609280207.html",
-      "source": "AllAfrica",
-      "published": "2026-09-28T12:25:27.000Z",
-      "summary": "[Health-e] Security guards refused ambulance access to Frontier Hospital. Pregnant woman left waiting for 30 minutes while in distress. Eastern Cape health department has apologised and is…"
-    },
-    {
-      "title": "Liberia: Liberia, India Launch Global Maritime Security Initiative",
-      "link": "https://allafrica.com/stories/202609280368.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-28T13:14:39.000Z",
-      "summary": "[New Dawn] Liberia and India have jointly launched the Group of Friends on Safety and Security of Shipping and Seafarers (GoF on S4), a new international platform aimed at strengthening…"
-    },
-    {
-      "title": "Kenya: 'Wantam!', 'Tutam!' Political Sloganeering Divides Kenya's Electorate",
-      "link": "https://allafrica.com/stories/202609280205.html",
-      "source": "AllAfrica",
-      "published": "2026-09-28T12:24:49.000Z",
-      "summary": "[ISS] Youth frustration fuels calls to prevent Ruto from winning a second term, even as opposition splits strengthen his prospects for 2027."
     }
   ]
 };

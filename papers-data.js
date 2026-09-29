@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-28T20:31:39.624Z",
+  "updated": "2026-09-29T00:31:00.318Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,127 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Interest payments to average a high 20% of government revenue over next 4 years",
+      "link": "https://www.myjoyonline.com/interest-payments-to-average-a-high-20-of-government-revenue-over-next-4-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T22:28:46.000Z",
+      "summary": "According to the US-based firm, the reduction is underpinned by the effects of debt restructuring, the cedi's exchange rate appreciation in 2025 and lower local currency financing costs, as…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "Cedi",
+        "Inflation",
+        "interest payments",
+        "Middle of Finance",
+        "S&P Global"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/images-3-2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Strategy of accumulating foreign reserves, gold carries high fiscal cost – S&P Global",
+      "link": "https://www.myjoyonline.com/strategy-of-accumulating-foreign-reserves-gold-carries-high-fiscal-cost-sp/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T22:13:58.000Z",
+      "summary": "According to the US-based rating agency, although the gold sector is fueling the accumulation of reserves, implementing Ghana Accelerated National Reserves Accumulation Program (GANRAP)…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "BoG",
+        "Foreign reserves",
+        "GANRAP",
+        "Gold",
+        "S&P"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/07/Gross-reserves.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Weak institutional arrangements, high debt servicing constrain Ghana’s rating – S&P",
+      "link": "https://www.myjoyonline.com/weak-institutional-arrangements-high-debt-servicing-constrain-ghanas-rating-sp/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T22:07:46.000Z",
+      "summary": "Ratings agency, S&P Global has stated that Ghana’s institutional arrangements are weak, but improving. According to the US-based firm, the cost of servicing government debt remains…",
+      "categories": [
+        "Business",
+        "Economy",
+        "debt servicing",
+        "GDP",
+        "Institutional arrangements",
+        "S&P Global"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/12/SP.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bond market: Turnover declined by 28% to GH¢1.56bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-declined-by-28-to-gh%c2%a21-56bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T21:37:59.000Z",
+      "summary": "The secondary bond market activity slowed, with turnover declining 28.56% week-to-week to GH¢1.56 billion. Trading remained concentrated in the 2031-2034 segment. It accounted for 71.30% of…",
+      "categories": [
+        "Business",
+        "HP Business 4",
+        "Stocks",
+        "Bon market",
+        "Databank Research",
+        "turnover",
+        "yield",
+        "YTM"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/09/Bond-market.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Volta Region National Public Speaking contest advances drug prevention conversation",
+      "link": "https://www.myjoyonline.com/volta-region-national-public-speaking-contest-advances-drug-prevention-conversation/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T21:33:35.000Z",
+      "summary": "The Volta Region stage of the National Public Speaking competition has been held at Sogakope Senior High School, bringing together students to engage in thought-provoking discussions on…",
+      "categories": [
+        "Education",
+        "News",
+        "Regional",
+        "National Public Speaking contest",
+        "Volta Region"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-19.48.52-1-1024x773.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New health training facility at Ampoma-Jema to address admission shortfalls, but Minister flags missing amenities",
+      "link": "https://www.myjoyonline.com/new-health-training-facility-at-ampoma-jema-to-address-admission-shortfalls-but-minister-flags-missing-amenities/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T21:08:41.000Z",
+      "summary": "A new health training facility is being constructed from scratch by the government between Ampoma and Jema in the Bono East Region, with the Regional Minister, Francis Owusu, expressing…",
+      "categories": [
+        "Health",
+        "Ampoma-Jema",
+        "Health Facility"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-7.48.14-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Challenge unveiled with sights set on Amputee World Cup glory",
+      "link": "https://www.myjoyonline.com/black-challenge-unveiled-with-sights-set-on-amputee-world-cup-glory/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-28T20:48:21.000Z",
+      "summary": "The event, held at the ESP Hotel in Accra, was attended by several dignitaries, including Minister for Sports and Recreation Kofi Adams.",
+      "categories": [
+        "Football",
+        "Sports",
+        "2026 Amputee World Cup",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Ghana Paralympic Committee"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-20.39.12-1024x732.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Pay striking teachers before expressway spending, Dr Kingsley Agyemang tells government",
       "link": "https://www.myjoyonline.com/pay-striking-teachers-before-expressway-spending-dr-kingsley-agyemang-tells-government/",
       "source": "MyJoyOnline",
@@ -39,114 +160,6 @@ window.GDC_PAPERS = {
         "Teachers"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2024/04/image-107-1024x591.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Customs intercepts assault rifle, two pistols and 610 rounds of ammunition at Tema Port",
-      "link": "https://www.myjoyonline.com/customs-intercepts-assault-rifle-two-pistols-and-610-rounds-of-ammunition-at-tema-port/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T19:51:43.000Z",
-      "summary": "Customs officials at the Tema Port have intercepted an assault rifle, two pistols and 610 rounds of ammunition concealed among personal effects arriving from the United States. The firearms…",
-      "categories": [
-        "National",
-        "News",
-        "Assault rifle",
-        "Customs",
-        "pistols",
-        "Tema Port"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-204812.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PKO boxers secure wins at Odwira Festival",
-      "link": "https://www.myjoyonline.com/pko-boxers-secure-wins-at-odwira-festival/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T19:37:51.000Z",
-      "summary": "Hamza Mohammed delivered an impressive performance, stopping John Oblitey Commey in the third round by knockout in their lightweight contest.",
-      "categories": [
-        "Boxing",
-        "PKO Boxing"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/PKO-Boxing-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "South Tongu Records Rise in Teenage Pregnancy",
-      "link": "https://www.myjoyonline.com/south-tongu-records-rise-in-teenage-pregnancy/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T19:20:23.000Z",
-      "summary": "The South Tongu District in the Volta Region has seen a notable rise in teenage pregnancy cases during the second quarter of 2026. According to reports, about 190 teenage pregnancy cases…",
-      "categories": [
-        "Health",
-        "News",
-        "South Tongu",
-        "Teenage Pregnancy"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Teenage-Pregnancy.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cabinet threw out US health compact faster than anything I’ve seen – Mahama",
-      "link": "https://www.myjoyonline.com/cabinet-threw-out-us-health-compact-faster-than-anything-ive-seen-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T19:18:41.000Z",
-      "summary": "President John Dramani Mahama says he has never seen Cabinet throw out anything as fast as it rejected the United States health compact, after it flagged demands for Ghana’s pathogen…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Cabinet",
-        "Mahama",
-        "US health compact"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Mahama-us-compact.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MoFA urges Finance Ministry to reverse World Bank food programme withdrawal over GH¢643m commitments",
-      "link": "https://www.myjoyonline.com/mofa-urges-finance-ministry-to-reverse-world-bank-food-programme-withdrawal-over-gh%c2%a2643m-commitments/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T19:13:57.000Z",
-      "summary": "The Ministry of Food and Agriculture (MoFA) has urged the Ministry of Finance to reverse Ghana’s withdrawal from the West Africa Food System Resilience Programme (FSRP), warning that the…",
-      "categories": [
-        "National",
-        "Ministry of Finance"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-7.10.59-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NAGRAT demands signed timelines before calling off strike",
-      "link": "https://www.myjoyonline.com/nagrat-demands-signed-timelines-before-calling-off-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T19:00:32.000Z",
-      "summary": "The National Association of Graduate Teachers (NAGRAT) says it will not call off the ongoing teachers’ strike until government provides concrete and binding timelines for resolving the…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "NAGRAT",
-        "Strike",
-        "Teachers’ strike:"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/03/NAGRAT-1024x585.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "National Investment Quiz: West Africa SHS, St. Louis SHS advance to semi-finals",
-      "link": "https://www.myjoyonline.com/national-investment-quiz-west-africa-shs-st-louis-shs-advance-to-semi-finals/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T18:39:20.000Z",
-      "summary": "West Africa Senior High School (WASS) and St. Louis Senior High School have secured qualification to the semi-finals of the 2026 National Investment Quiz after emerging as the top two…",
-      "categories": [
-        "Business",
-        "Investments",
-        "National Investment Quiz",
-        "St. Louis SHS",
-        "West Africa SHS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-11.36.21-AM-834x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
