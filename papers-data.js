@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-29T00:31:00.318Z",
+  "updated": "2026-09-29T06:04:28.118Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,141 +25,128 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Interest payments to average a high 20% of government revenue over next 4 years",
-      "link": "https://www.myjoyonline.com/interest-payments-to-average-a-high-20-of-government-revenue-over-next-4-years/",
+      "title": "The Pusiga connection behind Gertrude Atongi’s work in New York",
+      "link": "https://www.myjoyonline.com/the-pusiga-connection-behind-gertrude-atongis-work-in-new-york/",
       "source": "MyJoyOnline",
-      "published": "2026-09-28T22:28:46.000Z",
-      "summary": "According to the US-based firm, the reduction is underpinned by the effects of debt restructuring, the cedi's exchange rate appreciation in 2025 and lower local currency financing costs, as…",
+      "published": "2026-09-29T05:54:00.000Z",
+      "summary": "For Gertrude Atongi, living and working in New York has not meant losing touch with Pusiga, the community in the Upper East Region where her family has its roots, as her professional career…",
       "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "Cedi",
-        "Inflation",
-        "interest payments",
-        "Middle of Finance",
-        "S&P Global"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/images-3-2.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Strategy of accumulating foreign reserves, gold carries high fiscal cost – S&P Global",
-      "link": "https://www.myjoyonline.com/strategy-of-accumulating-foreign-reserves-gold-carries-high-fiscal-cost-sp/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T22:13:58.000Z",
-      "summary": "According to the US-based rating agency, although the gold sector is fueling the accumulation of reserves, implementing Ghana Accelerated National Reserves Accumulation Program (GANRAP)…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "BoG",
-        "Foreign reserves",
-        "GANRAP",
-        "Gold",
-        "S&P"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/07/Gross-reserves.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Weak institutional arrangements, high debt servicing constrain Ghana’s rating – S&P",
-      "link": "https://www.myjoyonline.com/weak-institutional-arrangements-high-debt-servicing-constrain-ghanas-rating-sp/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T22:07:46.000Z",
-      "summary": "Ratings agency, S&P Global has stated that Ghana’s institutional arrangements are weak, but improving. According to the US-based firm, the cost of servicing government debt remains…",
-      "categories": [
-        "Business",
-        "Economy",
-        "debt servicing",
-        "GDP",
-        "Institutional arrangements",
-        "S&P Global"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/12/SP.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bond market: Turnover declined by 28% to GH¢1.56bn",
-      "link": "https://www.myjoyonline.com/bond-market-turnover-declined-by-28-to-gh%c2%a21-56bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T21:37:59.000Z",
-      "summary": "The secondary bond market activity slowed, with turnover declining 28.56% week-to-week to GH¢1.56 billion. Trading remained concentrated in the 2031-2034 segment. It accounted for 71.30% of…",
-      "categories": [
-        "Business",
-        "HP Business 4",
-        "Stocks",
-        "Bon market",
-        "Databank Research",
-        "turnover",
-        "yield",
-        "YTM"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/09/Bond-market.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Volta Region National Public Speaking contest advances drug prevention conversation",
-      "link": "https://www.myjoyonline.com/volta-region-national-public-speaking-contest-advances-drug-prevention-conversation/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T21:33:35.000Z",
-      "summary": "The Volta Region stage of the National Public Speaking competition has been held at Sogakope Senior High School, bringing together students to engage in thought-provoking discussions on…",
-      "categories": [
+        "Africa",
         "Education",
-        "News",
-        "Regional",
-        "National Public Speaking contest",
-        "Volta Region"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-27-at-19.48.52-1-1024x773.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New health training facility at Ampoma-Jema to address admission shortfalls, but Minister flags missing amenities",
-      "link": "https://www.myjoyonline.com/new-health-training-facility-at-ampoma-jema-to-address-admission-shortfalls-but-minister-flags-missing-amenities/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T21:08:41.000Z",
-      "summary": "A new health training facility is being constructed from scratch by the government between Ampoma and Jema in the Bono East Region, with the Regional Minister, Francis Owusu, expressing…",
-      "categories": [
         "Health",
-        "Ampoma-Jema",
-        "Health Facility"
+        "News",
+        "Atongi family",
+        "Bronklyn",
+        "Pusiga"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-7.48.14-PM-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-8.35.48-PM-1-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Black Challenge unveiled with sights set on Amputee World Cup glory",
-      "link": "https://www.myjoyonline.com/black-challenge-unveiled-with-sights-set-on-amputee-world-cup-glory/",
+      "title": "NPA launches 2026 staff welfare week with focus on teamwork and employee wellbeing",
+      "link": "https://www.myjoyonline.com/npa-launches-2026-staff-welfare-week-with-focus-on-teamwork-and-employee-wellbeing/",
       "source": "MyJoyOnline",
-      "published": "2026-09-28T20:48:21.000Z",
-      "summary": "The event, held at the ESP Hotel in Accra, was attended by several dignitaries, including Minister for Sports and Recreation Kofi Adams.",
-      "categories": [
-        "Football",
-        "Sports",
-        "2026 Amputee World Cup",
-        "Benaiah Elorm Dafeamekpor",
-        "Black Challenge",
-        "Ghana Paralympic Committee"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-20.39.12-1024x732.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pay striking teachers before expressway spending, Dr Kingsley Agyemang tells government",
-      "link": "https://www.myjoyonline.com/pay-striking-teachers-before-expressway-spending-dr-kingsley-agyemang-tells-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-28T20:03:56.000Z",
-      "summary": "Member of Parliament for Abuakwa South and member of Parliament’s Education Committee, Kingsley Agyemang, has urged government to prioritise payments owed to teachers instead of committing…",
+      "published": "2026-09-29T05:49:00.000Z",
+      "summary": "The National Petroleum Authority (NPA) has launched its 2026 Staff Welfare Celebration with a week-long programme designed to promote employee wellbeing, teamwork, entrepreneurship and…",
       "categories": [
         "National",
-        "News",
-        "Abuakwa South MP",
-        "Kingsley Agyemang",
-        "Road Project",
-        "Teachers"
+        "Godwin Edudzi Tameklo",
+        "NPA",
+        "Staff"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/04/image-107-1024x591.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/hm-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana, Saint Kitts and Nevis sign labour deal to strengthen protections for Ghanaian nurses",
+      "link": "https://www.myjoyonline.com/ghana-saint-kitts-and-nevis-sign-labour-deal-to-strengthen-protections-for-ghanaian-nurses/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T05:43:00.000Z",
+      "summary": "Ghana and Saint Kitts and Nevis have signed an additional bilateral labour agreement to provide enhanced employment conditions for Ghanaian nurses recruited to work in the Caribbean country.",
+      "categories": [
+        "National",
+        "Ablakwa",
+        "Ghana",
+        "nurses",
+        "Saint Kitts and Nevis"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/m-5-1024x731.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No ‘Bawumia candidates’ in NPP executive elections – Anthony Karbo",
+      "link": "https://www.myjoyonline.com/no-bawumia-candidates-in-npp-executive-elections-anthony-karbo/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T05:39:00.000Z",
+      "summary": "The NPP’s Organisation Committee Chairperson, Anthony Karbo, rejected suggestions that the October 3 elections in Kumasi could produce a slate of candidates aligned to Dr Bawumia.",
+      "categories": [
+        "National",
+        "Anthony Karbo",
+        "Bawumia",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/02/Anthony-Karbo.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Over 3,000 displaced as flooding overwhelms Hohoe communities",
+      "link": "https://www.myjoyonline.com/over-3000-displaced-as-flooding-overwhelms-hohoe-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T05:34:00.000Z",
+      "summary": "More than 3,000 residents have been displaced by severe flooding in the Hohoe Municipality of the Volta Region, with more than 400 homes reportedly affected after the River Dayi overflowed…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Flood",
+        "Hohoe",
+        "Livelihoods",
+        "Zongo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-4.36.45-AM-1024x512.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sunyani East NPP executives begin reconciliation drive ahead of 2028 polls",
+      "link": "https://www.myjoyonline.com/sunyani-east-npp-executives-begin-reconciliation-drive-ahead-of-2028-polls/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T05:29:00.000Z",
+      "summary": "The New Patriotic Party (NPP) in the Sunyani East Constituency has begun efforts to reconcile members who contested its 2026 constituency executive elections as the party seeks to rebuild…",
+      "categories": [
+        "National",
+        "NPP",
+        "Sunyani East"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-4.12.14-AM-1024x612.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agric Minister engages Ga Mantse on agriculture transformation agenda",
+      "link": "https://www.myjoyonline.com/agric-minister-engages-ga-mantse-on-agriculture-transformation-agenda/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T05:24:00.000Z",
+      "summary": "Minister for Food and Agriculture, Eric Opoku, has begun engagements with traditional authorities as part of efforts to strengthen collaboration in advancing Ghana’s agricultural…",
+      "categories": [
+        "National",
+        "Agric Minister",
+        "Eric Opoku",
+        "Ga Mantse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/m-6-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Aayalolo expansion targets private car users, not trotro operators – Mahama Ayariga",
+      "link": "https://www.myjoyonline.com/aayalolo-expansion-targets-private-car-users-not-trotro-operators-mahama-ayariga/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T05:19:00.000Z",
+      "summary": "The government expects the expansion of Aayalolo Bus Rapid Transit (BRT) services to encourage more private motorists to leave their cars at home and use public transport, rather than…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Aayalolo",
+        "Mahama Ayariga"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Mahama-Ayariga-846x1024.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
