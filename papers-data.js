@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-29T18:16:47.728Z",
+  "updated": "2026-09-29T22:22:34.787Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,48 +25,204 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "St. John’s Grammar edges Mfantsipim in nail-biting NIQ showdown",
-      "link": "https://www.myjoyonline.com/st-johns-grammar-edges-mfantsipim-in-nail-biting-niq-showdown/",
+      "title": "‘Beating Ghana did not surprise me’ – Gambia boss",
+      "link": "https://www.myjoyonline.com/beating-ghana-did-not-surprise-me-gambia-boss/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T18:09:29.000Z",
-      "summary": "St. John’s Grammar School and Mfantsipim School have completed the semi-final line-up of the 2026 National Investment Quiz after emerging as the top two schools in the fourth and final…",
+      "published": "2026-09-29T21:49:51.000Z",
+      "summary": "Gambia head coach Jonathan McKinstry says his side’s remarkable 4-2 victory over Ghana in Accra did not come as a surprise, despite the Scorpions recovering from two goals down to stun the…",
       "categories": [
-        "Business",
-        "Investments",
-        "Mfantsipim",
-        "St. John’s Grammar"
+        "Football",
+        "Sports",
+        "Gambia",
+        "Ghana",
+        "Jonathan McKinstry"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG-20260928-WA0047.jpg-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-12-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Daily Insight for CEOs: Preparing the organisation for 2027",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-preparing-the-organisation-for-2027/",
+      "title": "OpenAI agents get rebrand – as ‘dots’ – while safety worries delay new model",
+      "link": "https://www.myjoyonline.com/openai-agents-get-rebrand-as-dots-while-safety-worries-delay-new-model/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T17:50:29.000Z",
-      "summary": "Effective CEOs do not wait until December to begin preparing for the next business year.",
+      "published": "2026-09-29T21:43:10.000Z",
+      "summary": "OpenAI has chosen to rename new versions of artificial intelligence tools widely known as agents. They are now being called \"dots.\"",
       "categories": [
-        "Opinion",
-        "CEOs",
-        "Daily Insight"
+        "Technology",
+        "dots",
+        "OpenAI"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3705-1024x683.png",
+      "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Don’t just sit silent and expect a referral’ – Speaker urges Human Rights Committee to investigate abuses",
-      "link": "https://www.myjoyonline.com/dont-just-sit-silent-and-expect-a-referral-speaker-urges-human-rights-committee-to-investigate-abuses/",
+      "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+      "link": "https://www.myjoyonline.com/us-ban-on-canadian-alcohol-and-dairy-takes-effect-as-trade-war-drags-on/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T17:47:30.000Z",
-      "summary": "The Speaker of Parliament, Alban Bagbin, has urged Parliament’s Human Rights Committee to proactively investigate reported human rights abuses rather than wait for formal referrals before…",
+      "published": "2026-09-29T21:30:34.000Z",
+      "summary": "A US ban on several Canadian imports, including alcohol, dairy and motorcycles, has come into effect as a trade war between the two neighbours drags on.",
+      "categories": [
+        "International",
+        "Alcohol",
+        "US-Canada trade ban"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3794-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Baffour Awuah’s EOCO case reopens Equity Savings & Loans file as SIC recovery battle emerges",
+      "link": "https://www.myjoyonline.com/baffour-awuahs-eoco-case-reopens-equity-savings-loans-file-as-sic-recovery-battle-emerges/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T21:29:57.000Z",
+      "summary": "According to the MP, the investigation is connected to legal work his firm carried out for SIC Life Savings and Loans Company Limited in an attempt to recover millions of cedis from Equity…",
+      "categories": [
+        "Africa",
+        "Analysis",
+        "National",
+        "News",
+        "Baffour Awuah",
+        "EOCO",
+        "Ghana",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/eocos-failed-arrest-of-lawyer-an.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana ranked 5th source of cocaine seized at Antwerp, Belgium in 2025",
+      "link": "https://www.myjoyonline.com/ghana-ranked-5th-source-of-cocaine-seized-at-antwerp-belgium-in-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T21:29:21.000Z",
+      "summary": "Ghana was the fifth-largest country of origin for cocaine seized at the port of Antwerp in Belgium in 2025, according to figures from Belgian customs. It was the only African country on a…",
+      "categories": [
+        "Analysis",
+        "HP Research 1",
+        "National",
+        "News",
+        "Research",
+        "Bust",
+        "Cocaine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/A-New-Design-7-6.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We knew there was disruption’ – Gambia boss claims Ghana players clashed at half-time",
+      "link": "https://www.myjoyonline.com/we-knew-there-was-disruption-gambia-boss-claims-ghana-players-clashed-at-half-time/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T21:28:05.000Z",
+      "summary": "The Gambia head coach Jonathan McKinstry says his technical team noticed signs of frustration and disagreement among Ghana’s players during Tuesday’s 4-2 defeat at the Accra Sports Stadium…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "2027 AFCON Qualifiers",
+        "Gambia",
+        "Ghana",
+        "Jonathan McKinstry"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-12-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 AFCON qualifiers: Black Stars collapse in 4-2 home loss to Gambia",
+      "link": "https://www.graphic.com.gh/sports/sports-news/2027-afcon-qualifiers-black-stars-collapse-in-4-2-home-loss-to-gambia.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T21:00:11.000Z",
+      "summary": "Ghana’s 2027 Africa Cup of Nations campaign plunged into crisis at the Accra Sports Stadium on Tuesday after the Black Stars surrendered a 2-0 lead to suffer a humiliating 4-2 defeat to The…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Bagbin adjourns Parliament indefinitely",
+      "link": "https://www.myjoyonline.com/bagbin-adjourns-parliament-indefinitely/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T20:57:38.000Z",
+      "summary": "Speaker of Parliament Alban Bagbin has adjourned the House indefinitely following his decision to reject a Minority motion seeking a parliamentary investigation into major narcotics…",
       "categories": [
         "National",
-        "Alban Bagbin",
-        "Human Rights Committee",
-        "Speaker of Parliament"
+        "News",
+        "Parliament",
+        "Speaker Bagbin"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-3125.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Screenshot-2026-03-30-at-4.40.11-AM-1024x619.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African Most Beautiful USA Queen to host Community Zumba Dance session in Accra",
+      "link": "https://www.myjoyonline.com/african-most-beautiful-usa-queen-to-host-community-zumba-dance-session-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T20:57:20.000Z",
+      "summary": "Ms Ama Kwakye, the reigning African Most Beautiful USA Queen and Ghanaian American entrepreneur, is set to host a free community Zumba and wellness dance session in Accra on Saturday…",
+      "categories": [
+        "Events",
+        "African Most Beautiful USA Queen",
+        "Community Zumba Dance"
+      ],
+      "image": null,
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Speaker 'got it wrong' in dismissing narcotics probe motion - Minority Leader says",
+      "link": "https://www.graphic.com.gh/news/politics/speaker-got-it-wrong-in-dismissing-narcotics-probe-motion-minority-leader-says.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-29T19:47:27.000Z",
+      "summary": "The Minority Leader, Alexander Afenyo-Markin, has stated that the Speaker of Parliament got it all wrong when he dismissed a Private Member’s Motion seeking a parliamentary inquiry into a…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/minority1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Narcotics seizures: Speaker Bagbin dismisses Private Members’ motion calling for parliamentary probe",
+      "link": "https://www.graphic.com.gh/news/politics/narcotics-seizures-speaker-bagbin-dismisses-private-members-motion-calling-for-parliamentary-probe.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-29T19:02:41.000Z",
+      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has dismissed a Private Member’s motion seeking a parliamentary inquiry into a series of reported narcotics seizures linked to…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/bagnin1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Duamenefa Sports Director resigns",
+      "link": "https://www.graphic.com.gh/sports/sports-news/duamenefa-sports-director-resigns.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T18:23:47.000Z",
+      "summary": "The Director of Sports of the Duamenefa Regional Tournament, Patrick Doamekpor, has resigned from his position with immediate effect, citing growing concerns over the administration of the…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/amazing.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Speaker backs President’s call for national dialogue on hate speech",
+      "link": "https://www.graphic.com.gh/news/politics/speaker-backs-presidents-call-for-national-dialogue-on-hate-speech.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-29T17:58:55.000Z",
+      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has backed President John Dramani Mahama’s call for a national dialogue on hate speech and abusive online content.",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/bagbin.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sports Minister calls for protection of recreational areas",
+      "link": "https://www.graphic.com.gh/sports/sports-news/sports-minister-calls-for-protection-of-recreational-areas.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T17:46:39.000Z",
+      "summary": "The Minister for Sports and Recreation, Kofi Iddi Adams, also called for the protection of natural green spaces, particularly recreational areas that were being converted into…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Sports Minister calls for protection of recreational areas",
@@ -93,78 +249,28 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "‘Give caucus leaders adequate time to speak before ruling’ – Afenyo-Markin to Bagbin",
-      "link": "https://www.myjoyonline.com/give-caucus-leaders-adequate-time-to-speak-before-ruling-afenyo-markin-to-bagbin/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T17:30:29.000Z",
-      "summary": "Minority Leader in Parliament Alexander Afenyo-Markin has urged Speaker Alban Bagbin to allow the leaders of the respective parliamentary caucuses adequate opportunity to make their…",
+      "title": "Police reschedule full implementation of automated traffic law enforcement programme (TRAFFITECH-GH) from Oct 1 to Nov 1",
+      "link": "https://www.graphic.com.gh/news/general-news/traffitech-gh-implementation-rescheduled-to-november-1.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-29T16:57:51.000Z",
+      "summary": "The Ghana Police Service, through the Motor Traffic and Transport Department, has rescheduled the full implementation of the automated traffic law enforcement programme, TRAFFITECH-GH, from…",
       "categories": [
-        "National",
-        "Afenyo Markin",
-        "Bagbin",
-        "Minority Leader",
-        "Parliament"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-17.29.15-1024x472.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/15/police.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Petrosol gives back to society by donating 3,600 books and bags to Sawla DA Primary",
-      "link": "https://www.myjoyonline.com/petrosol-gives-back-to-society-by-donating-3600-books-and-bags-to-sawla-da-primary/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T17:23:44.000Z",
-      "summary": "The management of Petrosol Platinum Energy, PLC, as part of its social responsibility, has given back to society by donating 3,600 school bags and books to Sawla D/A Primary School in the…",
+      "title": "Asare starts against Gambia",
+      "link": "https://www.graphic.com.gh/sports/sports-news/asare-starts-against-gambia.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-29T16:09:59.000Z",
+      "summary": "Accra Hearts of Oak goalkeeper Benjamin Asare has been handed his first start in Ghana’s 2027 Africa Cup of Nations Group C qualifier against The Gambia at the Accra Sports Stadium this…",
       "categories": [
-        "Regional",
-        "Books",
-        "Petrosol",
-        "Sawla D A Primary"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3763-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bagbin dismisses Minority motion on narcotics seizures as inadmissible",
-      "link": "https://www.myjoyonline.com/bagbin-dismisses-minority-motion-on-narcotics-seizures-as-inadmissible/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T17:19:14.000Z",
-      "summary": "Speaker of Parliament Alban Bagbin has ruled a motion seeking a parliamentary inquiry into recent major narcotics seizures involving consignments linked to Ghana inadmissible.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Albagn Bagbin"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/IMG_2878.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From Oversight to Impact: Why board committees will make or break Africa’s organisations",
-      "link": "https://www.myjoyonline.com/from-oversight-to-impact-why-board-committees-will-make-or-break-africas-organisations/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T17:15:22.000Z",
-      "summary": "Accra, Ghana. Behind almost every corporate success, and almost every corporate failure, sits a board committee. It is in the audit committee that financial irregularities are either caught…",
-      "categories": [
-        "Events",
-        "Board committees",
-        "Douglas Boateng",
-        "PanAvest International"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Prof-Douglas-Boateng-1024x699.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Strong criticism is legitimate but insult is not argument’ – Speaker urges restraint in public discourse",
-      "link": "https://www.myjoyonline.com/strong-criticism-is-legitimate-but-insult-is-not-argument-speaker-urges-restraint-in-public-discourse/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T17:13:12.000Z",
-      "summary": "The Speaker of Parliament, Alban Bagbin, has called on Members of Parliament and the public to distinguish between legitimate political criticism and personal insults, stressing that…",
-      "categories": [
-        "National",
-        "Alban Bagbin",
-        "Speaker of Parliament"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Speaker.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/asare.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Asare starts against Gambia",
@@ -192,39 +298,39 @@ window.GDC_PAPERS = {
     },
     {
       "title": "Tinkler hints at Kotoko return",
-      "link": "https://www.graphic.com.gh/sports/tinkler-hints-at-kotoko-return.html",
+      "link": "https://www.graphic.com.gh/sports/sports-news/tinkler-hints-at-kotoko-return.html",
       "source": "Graphic Sports",
       "published": "2026-09-29T15:46:28.000Z",
       "summary": "Outgoing Asante Kotoko coach, Eric Tinkler, has hinted at a possible return to the club in the future, insisting that his work with the Porcupine Warriors is “not finished” despite his…",
       "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Tinkler abruptly ends Kotoko stay after four matches",
-      "link": "https://www.graphic.com.gh/sports/tinkler-abruptly-ends-kotoko-stay-after-four-matches.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T14:27:12.000Z",
-      "summary": "Asante Kotoko’s South African coach, Eric Tinkler, has abruptly terminated his contract with the club after just four Ghana Premier League matches . The decision was announced by the club…",
-      "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana vs The Gambia: Carlos Queiroz demands Black Stars response in must-win AFCON qualifier",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-vs-the-gambia-carlos-queiroz-demands-black-stars-response-in-must-win-afcon-qualifier.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T13:41:44.000Z",
-      "summary": "Ghana face The Gambia at the Accra Sports Stadium on Tuesday afternoon with far more than three points at stake. For Coach Carlos Queiroz and the Black Stars, this 2027 Africa Cup of…",
-      "categories": [
         "Sports News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/ErnestNuamah.jpg",
+      "image": null,
       "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Auditor-General to track audit recommendations as GH¢280.5m in surcharges remains unpaid",
+      "link": "https://www.graphic.com.gh/news/general-news/auditor-general-to-launch-audit-tracker-as-pac-chair-says-ghc280-5m-in-surcharges-remains-unpaid.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-29T14:55:30.000Z",
+      "summary": "The Ghana Audit Service will in October 2026 launch an online tracker to monitor the implementation of audit recommendations.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/auditor_general2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AMA directs commercial drivers with yellow plates to obtain commercial licences",
+      "link": "https://www.graphic.com.gh/news/general-news/ama-directs-commercial-drivers-with-yellow-plates-to-obtain-commercial-licences.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-29T14:25:17.000Z",
+      "summary": "The Accra Metropolitan Assembly has reminded persons driving commercial vehicles with yellow registration plates within its jurisdiction to obtain commercial driver's licences from the…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/plates.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghanaian nurses to enjoy enhanced salaries, insurance, rent allowance under new Ghana–Saint Kitts agreement",
@@ -236,18 +342,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Philippines to open Embassy in Ghana for the first time",
-      "link": "https://www.graphic.com.gh/news/general-news/philippines-to-open-embassy-in-ghana-for-the-first-time.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T11:13:46.000Z",
-      "summary": "The Philippines has decided to open an Embassy in Ghana later this year for the first time in the history of Ghana-Philippines bilateral relations.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/Theresa.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -285,18 +379,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "KNUST, GMTF explore AI partnership to transform healthcare delivery",
-      "link": "https://www.graphic.com.gh/news/general-news/knust-gmtf-explore-ai-partnership-to-transform-healthcare-delivery.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T09:02:36.000Z",
-      "summary": "The Kwame Nkrumah University of Science and Technology (KNUST) has initiated discussions with the Ghana Medical Trust Fund (GMTF) on the use of Artificial Intelligence and science-driven…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Stunning wins for Aduana FC, Port City as Medeama thrash Basake …in GPL Matchday 4 games",
@@ -357,78 +439,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GAF honour eight retiring generals",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gaf-honour-eight-retiring-generals.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T07:39:32.000Z",
-      "summary": "The Ghana Armed Forces (GAF) have honoured eight flag officers for their dedicated and selfless service to the country as they retire from active military duty at a send-off parade at Burma…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/generals.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sustain gains on maritime security - Danish ambassador urges",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-sustain-gains-on-maritime-security-danish-ambassador-urges.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T07:36:12.000Z",
-      "summary": "The Danish Ambassador to Ghana, Jakob Linulf, has called for sustained efforts to protect the gains made in maritime security in the Gulf of Guinea, cautioning that emerging threats such as…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/Jakob.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "University administrators strike stalls academic activities at UCC",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-university-administrators-strike-stalls-academic-activities-at-ucc.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T07:31:51.000Z",
-      "summary": "The ongoing strike by members of the Ghana Association of University Administrators (GAUA) is having a toll on the administration of academic affairs in public universities in the country…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/students.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt urges unions to call off strike - Commits to resolve outstanding issues",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-urges-unions-to-call-off-strike-commits-to-resolve-outstanding-issues.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T07:26:57.000Z",
-      "summary": "The government has called on the pre-tertiary teacher unions to call off their industrial action as negotiations continue to address their issues.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/edu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "No Premier League appetite to strip Man City of titles — but threat remains",
-      "link": "https://www.graphic.com.gh/sports/sports-news/no-premier-league-appetite-to-strip-man-city-of-titles-but-threat-remains.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T13:40:12.000Z",
-      "summary": "It is one of the biggest talking points from the Manchester City case. Should City be stripped of the eight trophies they won between 2009 and 2018, the period in which they were accused of…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/CITY.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Education, Barcelona & Basque culture: Why Spain are dominating football",
-      "link": "https://www.graphic.com.gh/sports/sports-news/education-barcelona-basque-culture-why-spain-are-dominating-football.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-28T13:34:03.000Z",
-      "summary": "World champions. European champions. Olympic champions. Undefeated in two and a half years. Spain are the dominant force in men's world football. Of the past 10 major international…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/28/SPAIN.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
