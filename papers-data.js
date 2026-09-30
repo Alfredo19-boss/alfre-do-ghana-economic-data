@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-30T06:53:05.322Z",
+  "updated": "2026-09-30T13:05:34.816Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,217 +25,347 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Nigeria court orders regulator to keep issuing fuel import licences to marketers",
-      "link": "https://ghanaiantimes.com.gh/nigeria-court-orders-regulator-to-keep-issuing-fuel-import-licences-to-marketers/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T06:47:13.000Z",
-      "summary": "A Nigerian court ordered the country’s downstream petroleum regulator to continue issuing ‌fuel import licences and related permits to three oil marketing firms, saying any refusal would be…",
+      "title": "Margaret-Marie Krakue",
+      "link": "https://www.myjoyonline.com/margaret-marie-krakue/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T13:01:24.000Z",
+      "summary": "IN LOVING MEMORY OF Margaret-Marie Krakue 22nd JUNE, 1975 – 26th SEPTEMBER, 2026. With deep sorrow and heavy hearts, we announce the passing of our beloved wife, mother, and friend. Requiem…",
       "categories": [
-        "Africa"
+        "National",
+        "Obituary",
+        "Margaret-Marie Krakue"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Two-2.png",
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "50 members of Niger’s security forces killed in attacks",
-      "link": "https://ghanaiantimes.com.gh/50-members-of-nigers-security-forces-killed-in-attacks/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T06:45:20.000Z",
-      "summary": "More than 50 members of Niger’s security forces have been killed in two attacks in the west of the landlocked Sahel nation, ‌where jihadists including members of the regional Islamic State…",
+      "title": "Ayariga announces plans for live broadcast of MMDAs’ meetings on local radio stations",
+      "link": "https://www.myjoyonline.com/ayariga-announces-plans-for-live-broadcast-of-mmdas-meetings-on-local-radio-stations/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T12:58:18.000Z",
+      "summary": "The Minister of Local Government and Chieftaincy Affairs, Mahama Ayariga, has announced plans to introduce regulations and directives requiring Metropolitan, Municipal and District…",
       "categories": [
-        "Africa"
+        "National",
+        "MMDAs"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/mahama-ayariga.webp",
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Argentina threatens legal action over Falklands oil project",
-      "link": "https://ghanaiantimes.com.gh/argentina-threatens-legal-action-over-falklands-oil-project/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T06:43:48.000Z",
-      "summary": "Argentina’s president has threatened to launch a legal challenge against the British government unless it halts oil exploration work off the coast of the Falkland Islands. In a social media…",
+      "title": "Mrs Anna Tackie",
+      "link": "https://www.myjoyonline.com/mrs-anna-tackie-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T12:56:20.000Z",
+      "summary": "Okokroko nana Ekua Maanan (V) Mannkrado- Elmina Traditional Council, Nana Hemma Aba Fritsewa (I), Nana Essel Kobina (Head of Nana Ekua Maana Nsona Family- Elmina) Ebusua Baatan Opanyin Kojo…",
       "categories": [
-        "World"
+        "Obituary",
+        "Mrs Anna Tackie"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-17-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Burkina Faso opens first gold refinery",
-      "link": "https://ghanaiantimes.com.gh/burkina-faso-opens-first-gold-refinery/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T06:41:25.000Z",
-      "summary": "Burkina Faso has opened its first gold refinery as the military-led government seeks to process more of the country’s mineral wealth at home and tighten its control over one of its most…",
+      "title": "Ghana links Afghan heroin and Brazilian cocaine to global drug markets – Global Organised Crime Index",
+      "link": "https://www.myjoyonline.com/ghana-links-afghan-heroin-and-brazilian-cocaine-to-global-drug-markets-global-organised-crime-index/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T12:49:05.000Z",
+      "summary": "Ghana serves as a transit point for heroin originating mostly from Afghanistan and cocaine supplied primarily from Brazil, according to findings in the Global Organised Crime Index.",
       "categories": [
-        "Africa"
+        "National",
+        "Afghanistan",
+        "Brazil",
+        "Cocaine",
+        "illicit drug"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/03/Cocaine.jpg",
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Investing in nutrition is investing in Ghana’s future",
-      "link": "https://ghanaiantimes.com.gh/investing-in-nutrition-is-investing-in-ghanas-future/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T06:30:32.000Z",
-      "summary": "Nutrition is too important to be treated as a matter that concerns only the health sector. It affects children, women, families and, ultimately, the country’s human development. The call by…",
+      "title": "NHIA launches nationwide inter-school quiz to deepen students’ knowledge of NHIS",
+      "link": "https://www.myjoyonline.com/nhia-launches-nationwide-inter-school-quiz-to-deepen-students-knowledge-of-nhis/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T12:42:32.000Z",
+      "summary": "The National Health Insurance Authority (NHIA) has launched an inter-school quiz competition and nationwide sensitisation exercise aimed at deepening Senior High School students’ knowledge…",
       "categories": [
-        "Editorial"
+        "Education",
+        "Health",
+        "National",
+        "nationwide inter-school quiz",
+        "NHIA"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3902-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Prof. Prempeh calls for consensus on constitutional reforms",
-      "link": "https://ghanaiantimes.com.gh/prof-prempeh-calls-for-consensus-on-constitutional-reforms/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T06:28:35.000Z",
-      "summary": "The Chairman of the Constitutional Review Committee, Professor Henry Kwasi Prempeh, has called for broad consensus among political actors, civil society organisations and other stakeholders…",
+      "title": "Political protection could be masking Ghana’s cocaine trade – Global Organised Crime Index",
+      "link": "https://www.myjoyonline.com/political-protection-could-be-masking-ghanas-cocaine-trade-global-organised-crime-index/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T12:37:36.000Z",
+      "summary": "Political protection may explain a decline in visible cocaine trafficking in Ghana, according to findings in the Global Organised Crime Index.",
       "categories": [
-        "Hot!",
+        "National",
+        "News",
+        "Top Story",
+        "Cocaine",
+        "drug trade",
+        "global organised crime index",
+        "illicit drug",
+        "Politcs"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/02/Cocaine.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: ‘We have to dissolve the GFA’ – Effia MP after Black Stars lose to Gambia",
+      "link": "https://www.myjoyonline.com/afcon-2027q-we-have-to-dissolve-the-gfa-effia-mp-after-black-stars-lose-to-gambia/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T12:35:32.000Z",
+      "summary": "The 4-2 loss on Tuesday, 29 September, marks a second consecutive setback for Ghana in the 2027 Africa Cup of Nations (AFCON) qualifiers, following an opening 2-0 defeat to Côte d'Ivoire in…",
+      "categories": [
+        "Football",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "GFA",
+        "Isaac Boamah-Nyarko"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/HTZvHMvW8AAlogZ-1024x663.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP announces voting schedule and ID requirements for October 3 national elections",
+      "link": "https://www.myjoyonline.com/npp-announces-voting-schedule-and-id-requirements-for-october-3-national-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T12:33:31.000Z",
+      "summary": "The New Patriotic Party (NPP) has announced the voting schedule and identification requirements for its national officers' elections scheduled for Saturday, October 3, 2026.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "Politics",
+        "ID",
+        "NPP",
+        "Voting schedule"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3897.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VIDEO: ‘Stop rewarding people with bitter tongues’ - Speaker Bagbin to political leaders",
+      "link": "https://www.graphic.com.gh/news/politics/stop-rewarding-people-with-bitter-tongues-speaker-bagbin-to-political-leaders.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T10:40:04.000Z",
+      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has urged leaders of political parties to stop the practice of rewarding politicians who use abusive and inflammatory language in…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/bagbin3.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana wins US$393m Tullow tax arbitration",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-wins-us-393m-tullow-tax-arbitration.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T10:29:49.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has secured a US$393.09 million tax ruling against Tullow Ghana Limited after an international arbitral tribunal dismissed the company’s claims and upheld…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2023/06/TU_LLOW.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dissolving GFA could create more problems, Sports Minister will have to step in, says ex-Black Stars management committee member",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-stars-squad-picked-without-management-committee-meeting-former-member-claims.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T10:03:33.000Z",
+      "summary": "A former member of the Black Stars Management Committee has cautioned against calls to dissolve the Ghana Football Association (GFA) following abysmal performances by the senior national…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/June/15/GHANA_PANAMA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Absa Bank Ghana commissions new Head Office",
+      "link": "https://ghanaiantimes.com.gh/absa-bank-ghana-commissions-new-head-office/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T09:26:27.000Z",
+      "summary": "Absa Bank Ghana Ltd has formally commissioned Absa Place, its new Head Office at 64 Independence Avenue, Ridge, Accra, marking a new chapter for an institution that has been part of Ghana’s…",
+      "categories": [
         "News"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Gender Minister assures women’s group of action on Affirmative Action, Development Bank",
-      "link": "https://www.myjoyonline.com/gender-minister-assures-womens-group-of-action-on-affirmative-action-development-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T06:26:26.000Z",
-      "summary": "Gender, Children and Social Protection Minister Dr Agnes Naa Momo Lartey has assured the Women’s Voices Matter Movement of government’s commitment to addressing concerns affecting women and…",
+      "title": "Audit Service steps up efforts to recover public funds",
+      "link": "https://ghanaiantimes.com.gh/audit-service-steps-up-efforts-to-recover-public-funds/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T09:24:21.000Z",
+      "summary": "The Ghana Audit Service is set to introduce a new electronic tracker to publicly monitor the implementation of audit recommendations, in a move aimed at ensuring that audit findings lead to…",
       "categories": [
-        "National"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/m-6-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Audit-Service-steps-up-efforts-xxxxx-1024x683.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Miner jailed 24 months for stealing gh¢4,300",
-      "link": "https://ghanaiantimes.com.gh/miner-jailed-24-months-for-stealing-gh%c2%a24300/",
+      "title": "GOC appoints Chef de Mission for LA 2028 Olympic Games",
+      "link": "https://ghanaiantimes.com.gh/goc-appoints-chef-de-mission-for-la-2028-olympic-games/",
       "source": "Ghanaian Times",
-      "published": "2026-09-30T06:22:25.000Z",
-      "summary": "A 20-year-old small scale miner, has been sentenced to 24 months imprisonment in hard labour by the Tarkwa Circuit Court for stealing GH¢4,300 from a drinking bar at the Tarkwa Railway…",
+      "published": "2026-09-30T09:20:59.000Z",
+      "summary": "Veteran sports administrator and Ghana Olympic Committee (GOC) Board Member, Richmond Quarcoo, has been appointed Chef de Mission for Ghana’s delegation to the 2028 Olympic Games in Los…",
       "categories": [
-        "Crime",
-        "Hot!"
+        "Sports"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Dame seeks release of Aludiba’s phones and belongings",
-      "link": "https://ghanaiantimes.com.gh/dame-seeks-release-of-aludibas-phones-and-belongings/",
+      "title": "Starlets set for Morocco friendly today",
+      "link": "https://ghanaiantimes.com.gh/starlets-set-for-morocco-friendly-today/",
       "source": "Ghanaian Times",
-      "published": "2026-09-30T06:19:10.000Z",
-      "summary": "Former Attorney-General and Minister of Justice, Mr Godfred Yeboah Dame, counsel for former Chief Executive Officer (CEO) of the National Food and Buffer Stock Company (NAFCO), Alhaji…",
+      "published": "2026-09-30T09:19:06.000Z",
+      "summary": "The Black Starlets have stepped up preparations for their second international friendly against Morocco’s U17 side following a full-scale training session on Monday. The Black Starlets will…",
       "categories": [
-        "Crime",
-        "Hot!"
+        "Sports"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Over 2,000 teachers in Dormaa comply with strike – GNAT Secretary",
-      "link": "https://www.myjoyonline.com/over-2000-teachers-in-dormaa-comply-with-strike-gnat-secretary/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T06:16:00.000Z",
-      "summary": "Justice Acquah, the Dormaa District Secretary of the Ghana National Association of Teachers (GNAT) in the Bono Region says none of the about 2,000 teachers in 25 basic schools in the area…",
+      "title": "16 c’nities competing in 2026 MTN Inter-C’nity Football Gala",
+      "link": "https://ghanaiantimes.com.gh/16-cnities-competing-in-2026-mtn-inter-cnity-football-gala/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T09:16:42.000Z",
+      "summary": "Sixteen community teams are participating in the 2026 MTN Inter-Community Football Gala at the Twene Amanfo Senior High School Park in Sunyani, Bono Region. The annual event, dubbed Sun…",
       "categories": [
-        "National",
-        "Dormaa",
-        "GNAT",
-        "Strike"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.14.46-AM-1024x606.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Food Buffer Stock seeks stronger liquidity buffer despite record profit",
-      "link": "https://www.myjoyonline.com/food-buffer-stock-seeks-stronger-liquidity-buffer-despite-record-profit/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T06:10:00.000Z",
-      "summary": "The National Food Buffer Stock Company (NAFCO) is seeking to strengthen its liquidity position despite recording a profit before tax of GH¢91.7 million in 2025.",
+      "title": "Badminton: Golden Shuttlers settle for bronze in All-Africa U-19 Junior Championships Mixed Team Relay",
+      "link": "https://ghanaiantimes.com.gh/badminton-golden-shuttlers-settle-for-bronze-in-all-africa-u-19-junior-championships-mixed-team-relay/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T09:12:19.000Z",
+      "summary": "Ghana’s hopes to defend their Mixed Team Relay at the ongoing 2026 All Africa U-19 Badminton Championship in Cairo, Egypt were dashed yesterday after falling 2-1 to Algeria in the…",
       "categories": [
-        "National",
-        "Food Buffer Stock",
-        "liquidity"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.17.25-AM-1024x615.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "LPG investments key to achieving 50% access target by 2030 – Energy Minister",
-      "link": "https://www.myjoyonline.com/lpg-investments-key-to-achieving-50-access-target-by-2030-energy-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T06:08:53.000Z",
-      "summary": "Energy and Green Transition Minister Dr John Abdulai Jinapor says sustained investment in LPG infrastructure will be critical to achieving the government’s target of at least 50% LPG access…",
+      "title": "UEFA to distribute €31.5 million to clubs for Nations League",
+      "link": "https://ghanaiantimes.com.gh/uefa-to-distribute-e31-5-million-to-clubs-for-nations-league/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T09:09:54.000Z",
+      "summary": "UEFA will distribute €31.5 million ($35.7 million) to clubs who released their players to compete in the 2024-25 season ‌of the Nations League, European soccer’s governing body said…",
       "categories": [
-        "National",
-        "Government",
-        "John Jinapor",
-        "LPG"
+        "Foriegn"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/828896112_29784789287777271_2659903404051167862_n-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Jinapor: New LPG terminal strengthens Ghana’s energy security",
-      "link": "https://www.myjoyonline.com/jinapor-new-lpg-terminal-strengthens-ghanas-energy-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T06:05:59.000Z",
-      "summary": "Energy and Green Transition Minister Dr John Abdulai Jinapor says the commissioning of a new 6,000-metric-tonne LPG storage terminal will strengthen Ghana’s energy security and improve the…",
+      "title": "Turkish referees’ chief arrested in corruption investigation",
+      "link": "https://ghanaiantimes.com.gh/turkish-referees-chief-arrested-in-corruption-investigation/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T09:07:35.000Z",
+      "summary": "The head of the Turkish referees’ body has been arrested as part of a police investigation into corruption. Turkish justice minister Akin Gurlek said the investigation focused on “claims…",
       "categories": [
-        "National",
-        "John Jinapor",
-        "LPG"
+        "Foriegn"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/826111655_29784788111110722_2107915239759908315_n-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Agbodza directs road agencies to fast-track design approvals to prevent project delays",
-      "link": "https://www.myjoyonline.com/agbodza-directs-road-agencies-to-fast-track-design-approvals-to-prevent-project-delays/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T06:03:00.000Z",
-      "summary": "Minister for Roads and Highways, Governs Kwame Agbodza, has directed consultants and road agencies to accelerate the review and approval of construction designs to prevent avoidable delays…",
+      "title": "Ex sports authority chief executive calls for GFA President’s resignation",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ex-sports-authority-chief-executive-calls-for-gfa-presidents-resignation.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T08:35:17.000Z",
+      "summary": "A former Chief Executive Officer (CEO) of the National Sports Authority, Seth Panwum, has called for the resignation of the Ghana Football Association president following the Black Stars’…",
       "categories": [
-        "National",
-        "Agbodza",
-        "Roads Minister"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/581930271_1159124833090370_2016120966736876188_n-e1774609976861-1140x570-1-1024x512.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Housing Minister urges stakeholders to prioritise quality education in Banda District",
-      "link": "https://www.myjoyonline.com/housing-minister-urges-stakeholders-to-prioritise-quality-education-in-banda-district/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T05:57:00.000Z",
-      "summary": "Ahmed Ibrahim, the Minister for Works, Housing and Water Resources has called for stakeholder supports towards growth and development of quality education in the Banda District of the Bono…",
+      "title": "Ghana opposes attempts to abolish ICC",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-opposes-attempts-to-abolish-icc.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T08:05:12.000Z",
+      "summary": "Ghana has opposed attempts to abolish the International Criminal Court (ICC), insisting the court must rather be strengthened to hold perpetrators of racism, genocide and crimes against…",
       "categories": [
-        "National",
-        "Ahmed Ibrahim",
-        "Banda",
-        "Housing Minister"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.11.28-AM-1024x608.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/Ablakwa.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Government redeems pledge to complete abandoned projects – Kofi Buah",
-      "link": "https://www.myjoyonline.com/government-redeems-pledge-to-complete-abandoned-projects-kofi-buah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T05:52:00.000Z",
-      "summary": "Emmanuel Armah-Kofi Buah, Member of Parliament for Ellembelle, has reiterated the government’s commitment to completing projects abandoned under previous regimes before undertaking new ones.",
+      "title": "Auditor-General calls for effective collaboration to ensure accountability",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-auditor-general-calls-for-effective-collaboration-to-ensure-accountability.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T07:59:53.000Z",
+      "summary": "The Auditor-General, Dr Pamela Graham, has called for stronger collaboration among public institutions to ensure that audit findings lead to corrective actions, including recovery of public…",
       "categories": [
-        "National",
-        "abandoned projects",
-        "Government",
-        "Kofi Buah"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.09.16-AM-1024x609.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/Pamela.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Drug crisis threat to mental health system — BasicNeeds-Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-drug-crisis-threat-to-mental-health-system-basicneeds-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T07:43:39.000Z",
+      "summary": "A Not-For-Profit Organisation, BasicNeeds-Ghana, has cautioned that the country's fragile mental health system could be overwhelmed if the growing availability and abuse of illicit drugs…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Indus Life, Unichem Ghana support Graphic health screening outreach",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-indus-life-unichem-ghana-support-graphic-health-screening-outreach.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T07:38:58.000Z",
+      "summary": "Two pharmaceutical companies, Indus Life Sciences Pvt Limited and Unichem Ghana Group, have donated medicines to the Graphic Communications Group Ltd (GCGL) to support this year’s annual…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/Prem.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Strengthen domestic financing to support education in emergencies - Dr Apaak to West African countries",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-strengthen-domestic-financing-to-support-education-in-emergencies-dr-apaak-to-west-african-countries.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T07:35:05.000Z",
+      "summary": "The Deputy Minister of Education, Dr Clement Abas Apaak, has charged countries in the West African sub-region to strengthen domestic financing and regional co-operation in addressing…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/Clement.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "610 Rounds, assault rifle in US consignment seized at port",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-610-rounds-assault-rifle-in-us-consignment-seized-at-port.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T07:32:19.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has seized a cache of ammunition at the Golden Jubilee Terminal concealed among personal effects arriving from the United States of America.",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana smash Table Tennis Tournament debuts with thrilling action",
@@ -262,30 +392,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Speaker 'got it wrong' in dismissing narcotics probe motion - Minority Leader says",
-      "link": "https://www.graphic.com.gh/news/politics/speaker-got-it-wrong-in-dismissing-narcotics-probe-motion-minority-leader-says.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T19:47:27.000Z",
-      "summary": "The Minority Leader, Alexander Afenyo-Markin, has stated that the Speaker of Parliament got it all wrong when he dismissed a Private Member’s Motion seeking a parliamentary inquiry into a…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/minority1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Narcotics seizures: Speaker Bagbin dismisses Private Members’ motion calling for parliamentary probe",
-      "link": "https://www.graphic.com.gh/news/politics/narcotics-seizures-speaker-bagbin-dismisses-private-members-motion-calling-for-parliamentary-probe.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T19:02:41.000Z",
-      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has dismissed a Private Member’s motion seeking a parliamentary inquiry into a series of reported narcotics seizures linked to…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/bagnin1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Duamenefa Sports Director resigns",
       "link": "https://www.graphic.com.gh/sports/sports-news/duamenefa-sports-director-resigns.html",
       "source": "Graphic Sports",
@@ -296,18 +402,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/29/amazing.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Speaker backs President’s call for national dialogue on hate speech",
-      "link": "https://www.graphic.com.gh/news/politics/speaker-backs-presidents-call-for-national-dialogue-on-hate-speech.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T17:58:55.000Z",
-      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has backed President John Dramani Mahama’s call for a national dialogue on hate speech and abusive online content.",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/bagbin.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Sports Minister calls for protection of recreational areas",
@@ -334,30 +428,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "57-year-old New York man identified as Yaw Boahene killed after bag was caught in subway train doors",
-      "link": "https://www.graphic.com.gh/news/general-news/new-york-man-identified-as-yaw-boahene-killed-after-bag-was-caught-in-subway-train-doors.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T17:41:11.000Z",
-      "summary": "A man in Brooklyn, New York, died after his bag got caught between the doors of a subway train which then dragged him down.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/IMG_5374.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police reschedule full implementation of automated traffic law enforcement programme (TRAFFITECH-GH) from Oct 1 to Nov 1",
-      "link": "https://www.graphic.com.gh/news/general-news/traffitech-gh-implementation-rescheduled-to-november-1.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T16:57:51.000Z",
-      "summary": "The Ghana Police Service, through the Motor Traffic and Transport Department, has rescheduled the full implementation of the automated traffic law enforcement programme, TRAFFITECH-GH, from…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/15/police.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Asare starts against Gambia",
       "link": "https://www.graphic.com.gh/sports/sports-news/asare-starts-against-gambia.html",
       "source": "Graphic Sports",
@@ -368,66 +438,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/29/asare.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Asare starts against Gambia",
-      "link": "https://www.graphic.com.gh/sports/asare-starts-against-gambia.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T16:09:59.000Z",
-      "summary": "Accra Hearts of Oak goalkeeper Benjamin Asare has been handed his first start in Ghana’s 2027 Africa Cup of Nations Group C qualifier against The Gambia at the Accra Sports Stadium this…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/asare.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Tinkler reveals lucrative South Africa offer behind Kotoko exit",
-      "link": "https://www.graphic.com.gh/sports/tinkler-reveals-lucrative-south-africa-offer-behind-kotoko-exit.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T16:01:50.000Z",
-      "summary": "Asante Kotoko’s former coach, Eric Tinkler, has revealed that a lucrative offer from a South African club was the main reason behind his decision to abruptly terminate his contract with the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Auditor-General to track audit recommendations as GH¢280.5m in surcharges remains unpaid",
-      "link": "https://www.graphic.com.gh/news/general-news/auditor-general-to-launch-audit-tracker-as-pac-chair-says-ghc280-5m-in-surcharges-remains-unpaid.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T14:55:30.000Z",
-      "summary": "The Ghana Audit Service will in October 2026 launch an online tracker to monitor the implementation of audit recommendations.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/auditor_general2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AMA directs commercial drivers with yellow plates to obtain commercial licences",
-      "link": "https://www.graphic.com.gh/news/general-news/ama-directs-commercial-drivers-with-yellow-plates-to-obtain-commercial-licences.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T14:25:17.000Z",
-      "summary": "The Accra Metropolitan Assembly has reminded persons driving commercial vehicles with yellow registration plates within its jurisdiction to obtain commercial driver's licences from the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/plates.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghanaian nurses to enjoy enhanced salaries, insurance, rent allowance under new Ghana–Saint Kitts agreement",
-      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-nurses-to-enjoy-enhanced-salaries-insurance-rent-allowance-under-new-ghana-saint-kitts-agreement.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-29T11:24:48.000Z",
-      "summary": "Ghanaian nurses who take up employment in the Saint Kitts and Nevis in the Caribbean will enjoy legally protected enhanced salaries, health insurance, rent allowance, and end-of-service…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
