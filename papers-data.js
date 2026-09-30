@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-29T22:22:34.787Z",
+  "updated": "2026-09-30T01:22:13.165Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,102 +25,139 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘Beating Ghana did not surprise me’ – Gambia boss",
-      "link": "https://www.myjoyonline.com/beating-ghana-did-not-surprise-me-gambia-boss/",
+      "title": "Ballon d’Or Power Rankings: Lamine Yamal leads race for Golden Ball ahead of Rodri and Kane",
+      "link": "https://www.myjoyonline.com/ballon-dor-power-rankings-lamine-yamal-leads-race-for-golden-ball-ahead-of-rodri-and-kane/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T21:49:51.000Z",
-      "summary": "Gambia head coach Jonathan McKinstry says his side’s remarkable 4-2 victory over Ghana in Accra did not come as a surprise, despite the Scorpions recovering from two goals down to stun the…",
+      "published": "2026-09-30T01:14:41.000Z",
+      "summary": "Lamine Yamal leads the latest 2026 Ballon d’Or Power Rankings ahead of Harry Kane, Rodri, Kylian Mbappe and Lionel Messi.",
       "categories": [
         "Football",
         "Sports",
-        "Gambia",
-        "Ghana",
-        "Jonathan McKinstry"
+        "Ballon d'Or",
+        "Kane",
+        "Lamine Yamal",
+        "Rodri"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-12-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/0a14d1bb-0aca-4cd5-a55f-b9b3434312ce.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "OpenAI agents get rebrand – as ‘dots’ – while safety worries delay new model",
-      "link": "https://www.myjoyonline.com/openai-agents-get-rebrand-as-dots-while-safety-worries-delay-new-model/",
+      "title": "‘Nothing worked for us’ – Gideon Mensah takes responsibility for Gambia defeat",
+      "link": "https://www.myjoyonline.com/nothing-worked-for-us-gideon-mensah-takes-responsibility-for-gambia-defeat/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T21:43:10.000Z",
-      "summary": "OpenAI has chosen to rename new versions of artificial intelligence tools widely known as agents. They are now being called \"dots.\"",
-      "categories": [
-        "Technology",
-        "dots",
-        "OpenAI"
-      ],
-      "image": null,
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-      "link": "https://www.myjoyonline.com/us-ban-on-canadian-alcohol-and-dairy-takes-effect-as-trade-war-drags-on/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T21:30:34.000Z",
-      "summary": "A US ban on several Canadian imports, including alcohol, dairy and motorcycles, has come into effect as a trade war between the two neighbours drags on.",
-      "categories": [
-        "International",
-        "Alcohol",
-        "US-Canada trade ban"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3794-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Baffour Awuah’s EOCO case reopens Equity Savings & Loans file as SIC recovery battle emerges",
-      "link": "https://www.myjoyonline.com/baffour-awuahs-eoco-case-reopens-equity-savings-loans-file-as-sic-recovery-battle-emerges/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T21:29:57.000Z",
-      "summary": "According to the MP, the investigation is connected to legal work his firm carried out for SIC Life Savings and Loans Company Limited in an attempt to recover millions of cedis from Equity…",
-      "categories": [
-        "Africa",
-        "Analysis",
-        "National",
-        "News",
-        "Baffour Awuah",
-        "EOCO",
-        "Ghana",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/eocos-failed-arrest-of-lawyer-an.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana ranked 5th source of cocaine seized at Antwerp, Belgium in 2025",
-      "link": "https://www.myjoyonline.com/ghana-ranked-5th-source-of-cocaine-seized-at-antwerp-belgium-in-2025/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T21:29:21.000Z",
-      "summary": "Ghana was the fifth-largest country of origin for cocaine seized at the port of Antwerp in Belgium in 2025, according to figures from Belgian customs. It was the only African country on a…",
-      "categories": [
-        "Analysis",
-        "HP Research 1",
-        "National",
-        "News",
-        "Research",
-        "Bust",
-        "Cocaine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/A-New-Design-7-6.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We knew there was disruption’ – Gambia boss claims Ghana players clashed at half-time",
-      "link": "https://www.myjoyonline.com/we-knew-there-was-disruption-gambia-boss-claims-ghana-players-clashed-at-half-time/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T21:28:05.000Z",
-      "summary": "The Gambia head coach Jonathan McKinstry says his technical team noticed signs of frustration and disagreement among Ghana’s players during Tuesday’s 4-2 defeat at the Accra Sports Stadium…",
+      "published": "2026-09-30T00:55:57.000Z",
+      "summary": "Black Stars captain Gideon Mensah has taken responsibility for Ghana’s 4-2 defeat to The Gambia, admitting that “nothing worked” for the team on Tuesday.",
       "categories": [
         "Football",
-        "HP Sports 2",
+        "Sports",
+        "AFCON 2027 qualifiers",
+        "Black Stars",
+        "Gideon Mensah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GIDEON-MENSA.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026 Women’s Super Cup: FC Savannah beat Epiphany Warriors to win trophy for first time",
+      "link": "https://www.myjoyonline.com/2026-womens-super-cup-fc-savannah-beat-epiphany-warriors-to-win-trophy-for-first-time/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T23:21:15.000Z",
+      "summary": "Savannah defeated the Southern Zone outfit on Tuesday morning at the Ghanaman Soccer Centre of Excellence with a 1-0 score as the game travelled to extra time.",
+      "categories": [
+        "Football",
+        "Epiphany Warriors",
+        "FC Savannah",
+        "Women's Super Cup"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Savannah-1024x767.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: ‘The last time Ghana won was eight games ago’ – Carlos Queiroz",
+      "link": "https://www.myjoyonline.com/afcon-2027q-the-last-time-ghana-won-was-eight-games-ago-carlos-queiroz/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T23:02:08.000Z",
+      "summary": "Black Stars head coach Carlos Queiroz says Ghana’s latest defeat to The Gambia is part of a longer winless run in the Africa Cup of Nations qualifiers.",
+      "categories": [
+        "Football",
+        "Sports",
+        "AFCON 2027 qualifiers",
+        "Black Stars",
+        "Carlos Quieroz",
+        "Gambia"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/OAINQU6EDNN3PEIHQPIEWTYUUU-1-1-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: Gambia defeat doesn’t make me a loser – Carlos Queiroz",
+      "link": "https://www.myjoyonline.com/afcon-2027q-gambia-defeat-doesnt-make-me-a-loser-carlos-queiroz/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T22:58:13.000Z",
+      "summary": "Queiroz was on the touchline as the Black Stars blew away a two-goal lead to lose 4-2 to Gambia at the Accra Sports Stadium in their second game of the 2027 Africa Cup of Nations (AFCON)…",
+      "categories": [
+        "Football",
+        "HP News 7",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Gambia",
+        "Queiroz"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/0dbe2024-1185-463b-9659-155a3e6fe76c.jpg-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 AFCONQ: Late goals seal 2-0 for Côte d’Ivoire against Somalia",
+      "link": "https://www.myjoyonline.com/2027-afconq-late-goals-seal-2-0-for-cote-divoire-against-somalia/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T22:47:27.000Z",
+      "summary": "Ghana’s hopes of qualifying for the 2027 Africa Cup of Nations have come under further pressure after Côte d’Ivoire snatched a late 2-0 victory over Somalia. The Elephants appeared set to…",
+      "categories": [
+        "Football",
         "Sports",
         "2027 AFCON Qualifiers",
-        "Gambia",
+        "Côte d’Ivoire",
         "Ghana",
-        "Jonathan McKinstry"
+        "Somalia"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/images-12-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/4917c2f031bcd2566920b6cffe0d46a2ed70440687cb3d248e3bcb7296ce186b-1200-675-1024x576.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: My resignation won’t solve Ghana football issues – Queiroz",
+      "link": "https://www.myjoyonline.com/afcon-2027q-my-resignation-wont-solve-ghana-football-issues-queiroz/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T22:42:15.000Z",
+      "summary": "Queiroz was on the touchline as the Black Stars blew away a two-goal lead to lose 4-2 to Gambia at the Accra Sports Stadium in their second game of the 2027 Africa Cup of Nations (AFCON)…",
+      "categories": [
+        "Football",
+        "HP News 8",
+        "National",
+        "Black Stars",
+        "Carlos Queiroz",
+        "GFA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3021.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Morocco call off Ghana friendly after Black Stars’ AFCON setback",
+      "link": "https://www.myjoyonline.com/morocco-call-off-ghana-friendly-after-black-stars-afcon-setback/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-29T22:36:25.000Z",
+      "summary": "Morocco have cancelled their planned international friendly against Ghana, which was scheduled for October 4 in Tangier. The fixture was expected to give the Black Stars an opportunity to…",
+      "categories": [
+        "Football",
+        "HP News 2",
+        "National",
+        "News",
+        "Sports",
+        "Carlos Queiroz",
+        "Ghana",
+        "Morocco"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/equipe-national-maroc-Vs-haiti2.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -134,35 +171,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Bagbin adjourns Parliament indefinitely",
-      "link": "https://www.myjoyonline.com/bagbin-adjourns-parliament-indefinitely/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T20:57:38.000Z",
-      "summary": "Speaker of Parliament Alban Bagbin has adjourned the House indefinitely following his decision to reject a Minority motion seeking a parliamentary investigation into major narcotics…",
-      "categories": [
-        "National",
-        "News",
-        "Parliament",
-        "Speaker Bagbin"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Screenshot-2026-03-30-at-4.40.11-AM-1024x619.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African Most Beautiful USA Queen to host Community Zumba Dance session in Accra",
-      "link": "https://www.myjoyonline.com/african-most-beautiful-usa-queen-to-host-community-zumba-dance-session-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T20:57:20.000Z",
-      "summary": "Ms Ama Kwakye, the reigning African Most Beautiful USA Queen and Ghanaian American entrepreneur, is set to host a free community Zumba and wellness dance session in Accra on Saturday…",
-      "categories": [
-        "Events",
-        "African Most Beautiful USA Queen",
-        "Community Zumba Dance"
-      ],
-      "image": null,
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Speaker 'got it wrong' in dismissing narcotics probe motion - Minority Leader says",
