@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-30T01:22:13.165Z",
+  "updated": "2026-09-30T06:53:05.322Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,140 +25,229 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ballon d’Or Power Rankings: Lamine Yamal leads race for Golden Ball ahead of Rodri and Kane",
-      "link": "https://www.myjoyonline.com/ballon-dor-power-rankings-lamine-yamal-leads-race-for-golden-ball-ahead-of-rodri-and-kane/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T01:14:41.000Z",
-      "summary": "Lamine Yamal leads the latest 2026 Ballon d’Or Power Rankings ahead of Harry Kane, Rodri, Kylian Mbappe and Lionel Messi.",
+      "title": "Nigeria court orders regulator to keep issuing fuel import licences to marketers",
+      "link": "https://ghanaiantimes.com.gh/nigeria-court-orders-regulator-to-keep-issuing-fuel-import-licences-to-marketers/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:47:13.000Z",
+      "summary": "A Nigerian court ordered the country’s downstream petroleum regulator to continue issuing ‌fuel import licences and related permits to three oil marketing firms, saying any refusal would be…",
       "categories": [
-        "Football",
-        "Sports",
-        "Ballon d'Or",
-        "Kane",
-        "Lamine Yamal",
-        "Rodri"
+        "Africa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/0a14d1bb-0aca-4cd5-a55f-b9b3434312ce.webp",
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "50 members of Niger’s security forces killed in attacks",
+      "link": "https://ghanaiantimes.com.gh/50-members-of-nigers-security-forces-killed-in-attacks/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:45:20.000Z",
+      "summary": "More than 50 members of Niger’s security forces have been killed in two attacks in the west of the landlocked Sahel nation, ‌where jihadists including members of the regional Islamic State…",
+      "categories": [
+        "Africa"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Argentina threatens legal action over Falklands oil project",
+      "link": "https://ghanaiantimes.com.gh/argentina-threatens-legal-action-over-falklands-oil-project/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:43:48.000Z",
+      "summary": "Argentina’s president has threatened to launch a legal challenge against the British government unless it halts oil exploration work off the coast of the Falkland Islands. In a social media…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Burkina Faso opens first gold refinery",
+      "link": "https://ghanaiantimes.com.gh/burkina-faso-opens-first-gold-refinery/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:41:25.000Z",
+      "summary": "Burkina Faso has opened its first gold refinery as the military-led government seeks to process more of the country’s mineral wealth at home and tighten its control over one of its most…",
+      "categories": [
+        "Africa"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Investing in nutrition is investing in Ghana’s future",
+      "link": "https://ghanaiantimes.com.gh/investing-in-nutrition-is-investing-in-ghanas-future/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:30:32.000Z",
+      "summary": "Nutrition is too important to be treated as a matter that concerns only the health sector. It affects children, women, families and, ultimately, the country’s human development. The call by…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prof. Prempeh calls for consensus on constitutional reforms",
+      "link": "https://ghanaiantimes.com.gh/prof-prempeh-calls-for-consensus-on-constitutional-reforms/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:28:35.000Z",
+      "summary": "The Chairman of the Constitutional Review Committee, Professor Henry Kwasi Prempeh, has called for broad consensus among political actors, civil society organisations and other stakeholders…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gender Minister assures women’s group of action on Affirmative Action, Development Bank",
+      "link": "https://www.myjoyonline.com/gender-minister-assures-womens-group-of-action-on-affirmative-action-development-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T06:26:26.000Z",
+      "summary": "Gender, Children and Social Protection Minister Dr Agnes Naa Momo Lartey has assured the Women’s Voices Matter Movement of government’s commitment to addressing concerns affecting women and…",
+      "categories": [
+        "National"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/m-6-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Nothing worked for us’ – Gideon Mensah takes responsibility for Gambia defeat",
-      "link": "https://www.myjoyonline.com/nothing-worked-for-us-gideon-mensah-takes-responsibility-for-gambia-defeat/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T00:55:57.000Z",
-      "summary": "Black Stars captain Gideon Mensah has taken responsibility for Ghana’s 4-2 defeat to The Gambia, admitting that “nothing worked” for the team on Tuesday.",
+      "title": "Miner jailed 24 months for stealing gh¢4,300",
+      "link": "https://ghanaiantimes.com.gh/miner-jailed-24-months-for-stealing-gh%c2%a24300/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:22:25.000Z",
+      "summary": "A 20-year-old small scale miner, has been sentenced to 24 months imprisonment in hard labour by the Tarkwa Circuit Court for stealing GH¢4,300 from a drinking bar at the Tarkwa Railway…",
       "categories": [
-        "Football",
-        "Sports",
-        "AFCON 2027 qualifiers",
-        "Black Stars",
-        "Gideon Mensah"
+        "Crime",
+        "Hot!"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/GIDEON-MENSA.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "2026 Women’s Super Cup: FC Savannah beat Epiphany Warriors to win trophy for first time",
-      "link": "https://www.myjoyonline.com/2026-womens-super-cup-fc-savannah-beat-epiphany-warriors-to-win-trophy-for-first-time/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T23:21:15.000Z",
-      "summary": "Savannah defeated the Southern Zone outfit on Tuesday morning at the Ghanaman Soccer Centre of Excellence with a 1-0 score as the game travelled to extra time.",
+      "title": "Dame seeks release of Aludiba’s phones and belongings",
+      "link": "https://ghanaiantimes.com.gh/dame-seeks-release-of-aludibas-phones-and-belongings/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T06:19:10.000Z",
+      "summary": "Former Attorney-General and Minister of Justice, Mr Godfred Yeboah Dame, counsel for former Chief Executive Officer (CEO) of the National Food and Buffer Stock Company (NAFCO), Alhaji…",
       "categories": [
-        "Football",
-        "Epiphany Warriors",
-        "FC Savannah",
-        "Women's Super Cup"
+        "Crime",
+        "Hot!"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Savannah-1024x767.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "AFCON 2027Q: ‘The last time Ghana won was eight games ago’ – Carlos Queiroz",
-      "link": "https://www.myjoyonline.com/afcon-2027q-the-last-time-ghana-won-was-eight-games-ago-carlos-queiroz/",
+      "title": "Over 2,000 teachers in Dormaa comply with strike – GNAT Secretary",
+      "link": "https://www.myjoyonline.com/over-2000-teachers-in-dormaa-comply-with-strike-gnat-secretary/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T23:02:08.000Z",
-      "summary": "Black Stars head coach Carlos Queiroz says Ghana’s latest defeat to The Gambia is part of a longer winless run in the Africa Cup of Nations qualifiers.",
+      "published": "2026-09-30T06:16:00.000Z",
+      "summary": "Justice Acquah, the Dormaa District Secretary of the Ghana National Association of Teachers (GNAT) in the Bono Region says none of the about 2,000 teachers in 25 basic schools in the area…",
       "categories": [
-        "Football",
-        "Sports",
-        "AFCON 2027 qualifiers",
-        "Black Stars",
-        "Carlos Quieroz",
-        "Gambia"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/OAINQU6EDNN3PEIHQPIEWTYUUU-1-1-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON 2027Q: Gambia defeat doesn’t make me a loser – Carlos Queiroz",
-      "link": "https://www.myjoyonline.com/afcon-2027q-gambia-defeat-doesnt-make-me-a-loser-carlos-queiroz/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T22:58:13.000Z",
-      "summary": "Queiroz was on the touchline as the Black Stars blew away a two-goal lead to lose 4-2 to Gambia at the Accra Sports Stadium in their second game of the 2027 Africa Cup of Nations (AFCON)…",
-      "categories": [
-        "Football",
-        "HP News 7",
         "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Gambia",
-        "Queiroz"
+        "Dormaa",
+        "GNAT",
+        "Strike"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/0dbe2024-1185-463b-9659-155a3e6fe76c.jpg-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.14.46-AM-1024x606.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 AFCONQ: Late goals seal 2-0 for Côte d’Ivoire against Somalia",
-      "link": "https://www.myjoyonline.com/2027-afconq-late-goals-seal-2-0-for-cote-divoire-against-somalia/",
+      "title": "Food Buffer Stock seeks stronger liquidity buffer despite record profit",
+      "link": "https://www.myjoyonline.com/food-buffer-stock-seeks-stronger-liquidity-buffer-despite-record-profit/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T22:47:27.000Z",
-      "summary": "Ghana’s hopes of qualifying for the 2027 Africa Cup of Nations have come under further pressure after Côte d’Ivoire snatched a late 2-0 victory over Somalia. The Elephants appeared set to…",
+      "published": "2026-09-30T06:10:00.000Z",
+      "summary": "The National Food Buffer Stock Company (NAFCO) is seeking to strengthen its liquidity position despite recording a profit before tax of GH¢91.7 million in 2025.",
       "categories": [
-        "Football",
-        "Sports",
-        "2027 AFCON Qualifiers",
-        "Côte d’Ivoire",
-        "Ghana",
-        "Somalia"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/4917c2f031bcd2566920b6cffe0d46a2ed70440687cb3d248e3bcb7296ce186b-1200-675-1024x576.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON 2027Q: My resignation won’t solve Ghana football issues – Queiroz",
-      "link": "https://www.myjoyonline.com/afcon-2027q-my-resignation-wont-solve-ghana-football-issues-queiroz/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-29T22:42:15.000Z",
-      "summary": "Queiroz was on the touchline as the Black Stars blew away a two-goal lead to lose 4-2 to Gambia at the Accra Sports Stadium in their second game of the 2027 Africa Cup of Nations (AFCON)…",
-      "categories": [
-        "Football",
-        "HP News 8",
         "National",
-        "Black Stars",
-        "Carlos Queiroz",
-        "GFA"
+        "Food Buffer Stock",
+        "liquidity"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3021.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.17.25-AM-1024x615.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Morocco call off Ghana friendly after Black Stars’ AFCON setback",
-      "link": "https://www.myjoyonline.com/morocco-call-off-ghana-friendly-after-black-stars-afcon-setback/",
+      "title": "LPG investments key to achieving 50% access target by 2030 – Energy Minister",
+      "link": "https://www.myjoyonline.com/lpg-investments-key-to-achieving-50-access-target-by-2030-energy-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-09-29T22:36:25.000Z",
-      "summary": "Morocco have cancelled their planned international friendly against Ghana, which was scheduled for October 4 in Tangier. The fixture was expected to give the Black Stars an opportunity to…",
+      "published": "2026-09-30T06:08:53.000Z",
+      "summary": "Energy and Green Transition Minister Dr John Abdulai Jinapor says sustained investment in LPG infrastructure will be critical to achieving the government’s target of at least 50% LPG access…",
       "categories": [
-        "Football",
-        "HP News 2",
         "National",
-        "News",
-        "Sports",
-        "Carlos Queiroz",
-        "Ghana",
-        "Morocco"
+        "Government",
+        "John Jinapor",
+        "LPG"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/equipe-national-maroc-Vs-haiti2.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/828896112_29784789287777271_2659903404051167862_n-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jinapor: New LPG terminal strengthens Ghana’s energy security",
+      "link": "https://www.myjoyonline.com/jinapor-new-lpg-terminal-strengthens-ghanas-energy-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T06:05:59.000Z",
+      "summary": "Energy and Green Transition Minister Dr John Abdulai Jinapor says the commissioning of a new 6,000-metric-tonne LPG storage terminal will strengthen Ghana’s energy security and improve the…",
+      "categories": [
+        "National",
+        "John Jinapor",
+        "LPG"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/826111655_29784788111110722_2107915239759908315_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agbodza directs road agencies to fast-track design approvals to prevent project delays",
+      "link": "https://www.myjoyonline.com/agbodza-directs-road-agencies-to-fast-track-design-approvals-to-prevent-project-delays/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T06:03:00.000Z",
+      "summary": "Minister for Roads and Highways, Governs Kwame Agbodza, has directed consultants and road agencies to accelerate the review and approval of construction designs to prevent avoidable delays…",
+      "categories": [
+        "National",
+        "Agbodza",
+        "Roads Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/581930271_1159124833090370_2016120966736876188_n-e1774609976861-1140x570-1-1024x512.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Housing Minister urges stakeholders to prioritise quality education in Banda District",
+      "link": "https://www.myjoyonline.com/housing-minister-urges-stakeholders-to-prioritise-quality-education-in-banda-district/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T05:57:00.000Z",
+      "summary": "Ahmed Ibrahim, the Minister for Works, Housing and Water Resources has called for stakeholder supports towards growth and development of quality education in the Banda District of the Bono…",
+      "categories": [
+        "National",
+        "Ahmed Ibrahim",
+        "Banda",
+        "Housing Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.11.28-AM-1024x608.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government redeems pledge to complete abandoned projects – Kofi Buah",
+      "link": "https://www.myjoyonline.com/government-redeems-pledge-to-complete-abandoned-projects-kofi-buah/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T05:52:00.000Z",
+      "summary": "Emmanuel Armah-Kofi Buah, Member of Parliament for Ellembelle, has reiterated the government’s commitment to completing projects abandoned under previous regimes before undertaking new ones.",
+      "categories": [
+        "National",
+        "abandoned projects",
+        "Government",
+        "Kofi Buah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.09.16-AM-1024x609.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana smash Table Tennis Tournament debuts with thrilling action",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-smash-table-tennis-tournament-debuts-with-thrilling-action.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T03:56:33.000Z",
+      "summary": "The Borteyman Sports Complex buzzed with excitement this past weekend as it hosted the inaugural Ghana Smash table tennis tournament. Held from September 26 to 27, the event marked a…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/29/TT.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "2027 AFCON qualifiers: Black Stars collapse in 4-2 home loss to Gambia",
@@ -305,18 +394,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Tinkler hints at Kotoko return",
-      "link": "https://www.graphic.com.gh/sports/sports-news/tinkler-hints-at-kotoko-return.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T15:46:28.000Z",
-      "summary": "Outgoing Asante Kotoko coach, Eric Tinkler, has hinted at a possible return to the club in the future, insisting that his work with the Porcupine Warriors is “not finished” despite his…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
       "title": "Auditor-General to track audit recommendations as GH¢280.5m in surcharges remains unpaid",
       "link": "https://www.graphic.com.gh/news/general-news/auditor-general-to-launch-audit-tracker-as-pac-chair-says-ghc280-5m-in-surcharges-remains-unpaid.html",
       "source": "Daily Graphic",
@@ -351,102 +428,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Black Stars cannot afford another slip …battles Scorpions today without Djiku",
-      "link": "https://ghanaiantimes.com.gh/black-stars-cannot-afford-another-slip-battles-scorpions-today-without-djiku/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T09:20:42.000Z",
-      "summary": "The Black Stars would attempt to breathe life into the shaky 2027 AFCON qualiers when they face the Scorpions of The Gambia at the Accra Sports Stadium today at 4pm. Sadly, they would face…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Gideon-Mensah-850x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Moroccan ref for Ghana, The Gambia clash",
-      "link": "https://ghanaiantimes.com.gh/moroccan-ref-for-ghana-the-gambia-clash/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T09:16:46.000Z",
-      "summary": "Moroccan referee Mustapha Kechchaf will be the Centre Referee for the 2027 Africa Cup of Nations Group C qualifier between Ghana and The Gambia. He will be assisted by compatriot Lahsen…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Golden Shuttlers beat host Egypt to reach Mixed Team Relay Semi-Finals",
-      "link": "https://ghanaiantimes.com.gh/golden-shuttlers-beat-host-egypt-to-reach-mixed-team-relay-semi-finals/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T09:11:18.000Z",
-      "summary": "Ghana’s Golden Shuttlers produced a strong performance to defeat hosts Egypt 2-0 in the quarter-finals of the Mixed Team Relay at the ongoing 2026 All Africa U-19 Junior Championship in…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Stunning wins for Aduana FC, Port City as Medeama thrash Basake …in GPL Matchday 4 games",
-      "link": "https://ghanaiantimes.com.gh/stunning-wins-for-aduana-fc-port-city-as-medeama-thrash-basake-in-gpl-matchday-4-games/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T09:00:43.000Z",
-      "summary": "The 2026/27 Premier League delivered another action-packed Matchday Four, with Medeama SC, Aduana FC and Port City among the major winners, while Heart of Lions produced a dramatic late…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Maidens beat Cote d’Ivoire in final WAFU B Cup contest",
-      "link": "https://ghanaiantimes.com.gh/black-maidens-beat-cote-divoire-in-final-wafu-b-cup-contest/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T08:58:28.000Z",
-      "summary": "The Black Maidens ended their WAFU B U-17 Girls Cup campaign with an emphatic 4-0 victory over hosts Cote d’Ivoire on Sunday. Seidatu Wahab opened the scoring in the 14th minute from the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Figo urges patience with Diomande at Real Madrid",
-      "link": "https://ghanaiantimes.com.gh/figo-urges-patience-with-diomande-at-real-madrid/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T08:56:27.000Z",
-      "summary": "Real Madrid fans should have no concerns over Yan Diomande’s progress according to club legend Luis Figo. The Ivory Coast international completed a blockbuster transfer move from RB Leipzig…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mbappé banned for 3 Champions League games",
-      "link": "https://ghanaiantimes.com.gh/mbappe-banned-for-3-champions-league-games/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T08:54:38.000Z",
-      "summary": "Ethan Mbappé will serve a three-game ban in the Champions League for his red card in an opening loss against Real Betis, UEFA said yesterday. Mbappé had been charged with “assaulting…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Zverev comeback leads Europe to Laver Cup victory",
-      "link": "https://ghanaiantimes.com.gh/zverev-comeback-leads-europe-to-laver-cup-victory/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-29T08:53:06.000Z",
-      "summary": "Alexander Zverev beat Learner Tien on the final day of the Laver Cup to lead Team Europe to their sixth title. US Open champion Zverev recovered from a disappointing defeat by Team World’s…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
