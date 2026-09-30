@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-30T13:05:34.816Z",
+  "updated": "2026-09-30T18:26:16.651Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,130 +25,344 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Margaret-Marie Krakue",
-      "link": "https://www.myjoyonline.com/margaret-marie-krakue/",
+      "title": "Ofori-Sarpong named Alumni President of the Year, honoured for PRESEC dormitory project",
+      "link": "https://www.myjoyonline.com/ofori-sarpong-named-alumni-president-of-the-year-honoured-for-presec-dormitory-project/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T13:01:24.000Z",
-      "summary": "IN LOVING MEMORY OF Margaret-Marie Krakue 22nd JUNE, 1975 – 26th SEPTEMBER, 2026. With deep sorrow and heavy hearts, we announce the passing of our beloved wife, mother, and friend. Requiem…",
+      "published": "2026-09-30T17:59:41.000Z",
+      "summary": "The Global President of the Presbyterian Boys’ Secondary School (PRESEC) Alumni Association, Dr Ernest Ofori-Sarpong, has been named Old Schools Alumni President of the Year 2026 in…",
       "categories": [
         "National",
-        "Obituary",
-        "Margaret-Marie Krakue"
+        "Dr Ernest Ofori Sarpong",
+        "Presec"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Two-2.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/828258813_1491562216337855_1409375000264236405_n-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ayariga announces plans for live broadcast of MMDAs’ meetings on local radio stations",
-      "link": "https://www.myjoyonline.com/ayariga-announces-plans-for-live-broadcast-of-mmdas-meetings-on-local-radio-stations/",
+      "title": "Germany commits $132m to Ghana for skills development and training university – Pelpuo",
+      "link": "https://www.myjoyonline.com/germany-commits-132m-to-ghana-for-skills-development-and-training-university-pelpuo/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T12:58:18.000Z",
-      "summary": "The Minister of Local Government and Chieftaincy Affairs, Mahama Ayariga, has announced plans to introduce regulations and directives requiring Metropolitan, Municipal and District…",
-      "categories": [
-        "National",
-        "MMDAs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/mahama-ayariga.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mrs Anna Tackie",
-      "link": "https://www.myjoyonline.com/mrs-anna-tackie-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T12:56:20.000Z",
-      "summary": "Okokroko nana Ekua Maanan (V) Mannkrado- Elmina Traditional Council, Nana Hemma Aba Fritsewa (I), Nana Essel Kobina (Head of Nana Ekua Maana Nsona Family- Elmina) Ebusua Baatan Opanyin Kojo…",
-      "categories": [
-        "Obituary",
-        "Mrs Anna Tackie"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-17-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana links Afghan heroin and Brazilian cocaine to global drug markets – Global Organised Crime Index",
-      "link": "https://www.myjoyonline.com/ghana-links-afghan-heroin-and-brazilian-cocaine-to-global-drug-markets-global-organised-crime-index/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T12:49:05.000Z",
-      "summary": "Ghana serves as a transit point for heroin originating mostly from Afghanistan and cocaine supplied primarily from Brazil, according to findings in the Global Organised Crime Index.",
-      "categories": [
-        "National",
-        "Afghanistan",
-        "Brazil",
-        "Cocaine",
-        "illicit drug"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/03/Cocaine.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NHIA launches nationwide inter-school quiz to deepen students’ knowledge of NHIS",
-      "link": "https://www.myjoyonline.com/nhia-launches-nationwide-inter-school-quiz-to-deepen-students-knowledge-of-nhis/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T12:42:32.000Z",
-      "summary": "The National Health Insurance Authority (NHIA) has launched an inter-school quiz competition and nationwide sensitisation exercise aimed at deepening Senior High School students’ knowledge…",
-      "categories": [
-        "Education",
-        "Health",
-        "National",
-        "nationwide inter-school quiz",
-        "NHIA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3902-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Political protection could be masking Ghana’s cocaine trade – Global Organised Crime Index",
-      "link": "https://www.myjoyonline.com/political-protection-could-be-masking-ghanas-cocaine-trade-global-organised-crime-index/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T12:37:36.000Z",
-      "summary": "Political protection may explain a decline in visible cocaine trafficking in Ghana, according to findings in the Global Organised Crime Index.",
+      "published": "2026-09-30T17:59:01.000Z",
+      "summary": "The German government has committed $132 million to support skills development and workplace training for young people in Ghana, Minister of State at the Presidency in charge of Special…",
       "categories": [
         "National",
         "News",
-        "Top Story",
-        "Cocaine",
-        "drug trade",
-        "global organised crime index",
-        "illicit drug",
-        "Politcs"
+        "Dr Abdul-Rashid Pelpuo",
+        "Germany",
+        "Ghana",
+        "youth skills development"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/02/Cocaine.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/exclusive-there-will-be-a-constr.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "AFCON 2027Q: ‘We have to dissolve the GFA’ – Effia MP after Black Stars lose to Gambia",
-      "link": "https://www.myjoyonline.com/afcon-2027q-we-have-to-dissolve-the-gfa-effia-mp-after-black-stars-lose-to-gambia/",
+      "title": "‘Influence should go beyond visibility’ – Taadi Banyinba GH launches The TB Impact",
+      "link": "https://www.myjoyonline.com/influence-should-go-beyond-visibility-taadi-banyinba-gh-launches-the-tb-impact/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T12:35:32.000Z",
-      "summary": "The 4-2 loss on Tuesday, 29 September, marks a second consecutive setback for Ghana in the 2027 Africa Cup of Nations (AFCON) qualifiers, following an opening 2-0 defeat to Côte d'Ivoire in…",
+      "published": "2026-09-30T17:54:19.000Z",
+      "summary": "Ghanaian content creator Enoch Osei Tabiri, popularly known as Taadi Banyinba GH, is set to use his platform to support vulnerable people and communities through a new social impact…",
       "categories": [
-        "Football",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "GFA",
-        "Isaac Boamah-Nyarko"
+        "Events",
+        "Taadi Banyinba GH",
+        "The TB Impact"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/HTZvHMvW8AAlogZ-1024x663.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_3347.JPG-e1790778942582-1024x861.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NPP announces voting schedule and ID requirements for October 3 national elections",
-      "link": "https://www.myjoyonline.com/npp-announces-voting-schedule-and-id-requirements-for-october-3-national-elections/",
+      "title": "Videos: Government announces emergency LEAP package for Hohoe flood victims",
+      "link": "https://www.myjoyonline.com/videos-government-announces-emergency-leap-package-for-hohoe-flood-victims/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T12:33:31.000Z",
-      "summary": "The New Patriotic Party (NPP) has announced the voting schedule and identification requirements for its national officers' elections scheduled for Saturday, October 3, 2026.",
+      "published": "2026-09-30T17:50:08.000Z",
+      "summary": "The government has announced an emergency Livelihood Empowerment Against Poverty (LEAP) package for victims of the flooding that hit the Hohoe Municipality in the Volta Region on Monday.",
       "categories": [
-        "HP News 2",
         "National",
         "News",
-        "Politics",
-        "ID",
-        "NPP",
-        "Voting schedule"
+        "Government",
+        "Hohoe flood",
+        "LEAP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3897.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3974.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Salomey Baffoe’s children are crying for their mother – Family appeals for her release",
+      "link": "https://www.myjoyonline.com/salomey-baffoes-children-are-crying-for-their-mother-family-appeals-for-her-release/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T17:48:09.000Z",
+      "summary": "The family of senior nursing officer Salomey Awiti Baffoe has appealed to the government to facilitate her release, saying her children are struggling with her continued detention.",
+      "categories": [
+        "National",
+        "News",
+        "Family",
+        "Ghana Jollof",
+        "Salomey Baffoe"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-82-2.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Shortage of trained investigators and prosecutors hampers Ghana’s fight against money laundering – Report",
+      "link": "https://www.myjoyonline.com/shortage-of-trained-investigators-and-prosecutors-hampers-ghanas-fight-against-money-laundering-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T17:47:53.000Z",
+      "summary": "Ghana’s efforts to combat money laundering face significant enforcement gaps, including a shortage of trained investigators and prosecutors, according to the Global Organised Crime Index.",
+      "categories": [
+        "National",
+        "Illicit financial flow",
+        "Money Laundering"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/ghana-police-service-has-alleged-2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GoldBod generates US$1.87bn in September FX operations, exceeding monthly target",
+      "link": "https://www.myjoyonline.com/goldbod-generates-us1-87bn-in-september-fx-operations-exceeding-monthly-target/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T17:47:19.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) says it generated US$1.871 billion in foreign exchange from its artisanal and small-scale mining (ASM) gold trade operations in September 2026, exceeding its…",
+      "categories": [
+        "National",
+        "Goldbod"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/goldbod.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Roads Minister says it is time to change one-year defect liability period for contractors, consultants",
+      "link": "https://www.myjoyonline.com/roads-minister-says-it-is-time-to-change-one-year-defect-liability-period-for-contractors-consultants/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T17:46:51.000Z",
+      "summary": "The Minister of Roads and Highways, Governs Kwame Agbodza, has said it is time the one-year defect liability period agreement in road contracts change to hold contractors accountable for…",
+      "categories": [
+        "National",
+        "Contractors",
+        "Governs Kwame Agbodza"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3985.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Midea Building Technologies West Africa reaffirms commitment to West Africa",
+      "link": "https://www.graphic.com.gh/news/general-news/midea-building-technologies-west-africa-reaffirms-commitment-to-west-africa.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T17:05:44.000Z",
+      "summary": "Midea Building Technologies (MBT) has reaffirmed its deep commitment to West Africa, convening its valued partners in Ghana for the 2026 Market Review and 2027 Planning Conference under the…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "2027 AFCON Qualifiers: Mensah blames bad luck for Gambia defeat",
+      "link": "https://www.graphic.com.gh/sports/sports-news/2027-afcon-qualifiers-mensah-blames-bad-luck-for-gambia-defeat.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T16:57:44.000Z",
+      "summary": "Stand-in Black Stars captain Gideon Mensah has attributed Ghana’s woeful 2-4 defeat to The Gambia in their 2027 Africa Cup of Nations (AFCON) qualifier to a combination of bad luck and an…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/GIDEON_MENSAH.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Gideon Mensah demands urgent changes in Black Stars",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gideon-mensah-demands-urgent-changes-in-black-stars.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T16:43:01.000Z",
+      "summary": "Black Stars left-back Gideon Mensah has called for urgent changes in the team following their disappointing 2-4 defeat to The Gambia in their 2027 Africa Cup of Nations (AFCON) qualifier at…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/GIDEON.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "2026 Amputee World Cup: Ghana unveils Black Challenge squad for camping",
+      "link": "https://www.graphic.com.gh/sports/sports-news/2026-amputee-world-cup-ghana-unveils-black-challenge-squad-for-camping.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T16:21:48.000Z",
+      "summary": "The National Paralympic Committee (NPC) Ghana has unveiled a 20-player squad of the amputee national team, Black Challenge, to begin camping as Ghana steps up preparations for the 2026…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/AMPUTEE_TEAM.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "New association for lawyers, Ghana Law Society officially launched by Speaker Alban Bagbin",
+      "link": "https://www.graphic.com.gh/news/general-news/new-association-for-lawyers-ghana-law-society-officially-launched-by-speaker-alban-bagbin.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T16:17:05.000Z",
+      "summary": "The Ghana Law Society, a new association for lawyers in Ghana has been officially launched. It was launched by the Speaker of Parliament, Alban Sumana Kingsford Bagbin at the maiden edition…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/society2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Roads Minister says it is time to change one-year defect liability period for contractors, consultants",
+      "link": "https://www.graphic.com.gh/news/general-news/roads-minister-says-it-is-time-to-change-one-year-defect-liability-period-for-contractors-consultants.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T15:55:48.000Z",
+      "summary": "The Minister of Roads and Highways, Governs Kwame Agbodza, has said it is time the one-year defect liability period agreement in road contracts change to hold contractors accountable for…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/roads1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Maiden Black Star Fashion Week to highlight Ghana’s National Fashion Platform",
+      "link": "https://ghanaiantimes.com.gh/maiden-black-star-fashion-week-to-highlight-ghanas-national-fashion-platform/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:44:32.000Z",
+      "summary": "Ghana is set to take centre stage in fashion, culture and the creative economy as the maiden Black Star Fashion Week (BSFW) takes off with a two-day national fashion experience designed to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Diaspora African Forum honours Nana Yaa Sarpong with Women of Excellence Award At UNGA",
+      "link": "https://ghanaiantimes.com.gh/diaspora-african-forum-honours-nana-yaa-sarpong-with-women-of-excellence-award-at-unga/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:42:34.000Z",
+      "summary": "Ambassador Dr. Erieka Bennett, Founder and Head of Mission of the Diaspora African Forum (DAF) Embassy for the African Diaspora, has presented the prestigious Women of Excellence Award to…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-14.36.54-768x1024-1.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GNFS rescues driver trapped for nearly two hours in overturned tipper at Bolgatanga",
+      "link": "https://ghanaiantimes.com.gh/gnfs-rescues-driver-trapped-for-nearly-two-hours-in-overturned-tipper-at-bolgatanga/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:39:44.000Z",
+      "summary": "It was a race against time at the Customs Barrier on Tuesday evening after a loaded tipper truck overturned, trapping its driver inside the mangled cabin. The truck, with registration…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP announces schedule and voter ID requirements for October 3 elections",
+      "link": "https://ghanaiantimes.com.gh/npp-announces-schedule-and-voter-id-requirements-for-october-3-elections/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:37:50.000Z",
+      "summary": "The New Patriotic Party (NPP) has announced the programme and voter identification requirements for its national officers elections scheduled for Saturday, October 3, 2026. In a notice…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "EchoWaves : The new sound powerhouse raising bar for live music in Ghana",
+      "link": "https://ghanaiantimes.com.gh/echowaves-the-new-sound-powerhouse-raising-bar-for-live-music-in-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:34:38.000Z",
+      "summary": "Ghana’s live events industry has a new standard for world-class sound, EchoWave. The cutting-edge event sound and logistics company made a bold statement over the weekend, delivering…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-14.32.18-768x1024-1.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NC-PTAS supports striking teachers, urges Government to resolve dispute",
+      "link": "https://ghanaiantimes.com.gh/nc-ptas-supports-striking-teachers-urges-government-to-resolve-dispute/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:32:51.000Z",
+      "summary": "The National Council of Parent-Teacher Associations (NC-PTAS) Ghana has expressed its support for pre-tertiary teacher unions currently on strike, describing their demands as legitimate and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2026 edition of Ghana Energy Awards launched In Accra",
+      "link": "https://ghanaiantimes.com.gh/2026-edition-of-ghana-energy-awards-launched-in-accra/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:29:35.000Z",
+      "summary": "The 10th edition of the Ghana Energy Awards has officially been launched in Accra, with nominations opening for individuals, companies and institutions that have made significant…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-14.30.09-1-1024x768.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Queiroz refuses to resign after Black Stars’ Gambia humiliation",
+      "link": "https://www.graphic.com.gh/sports/sports-news/queiroz-refuses-to-resign-after-black-stars-gambia-humiliation.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T15:26:31.000Z",
+      "summary": "Black Stars coach, Carlos Queiroz, says he has no intention of resigning following Ghana’s disappointing 2-4 defeat to The Gambia in their 2027 Africa Cup of Nations qualifier on Tuesday…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/CARLOS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana wins $393m Tullow Tax Arbitration",
+      "link": "https://ghanaiantimes.com.gh/ghana-wins-393m-tullow-tax-arbitration/",
+      "source": "Ghanaian Times",
+      "published": "2026-09-30T15:21:53.000Z",
+      "summary": "Ghana has won an international tax arbitration case against Tullow Ghana Limited over the taxation of business interruption insurance proceeds. The Ministry of Finance said an arbitral…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Queiroz apologises to Ghanaians after Gambia defeat",
+      "link": "https://www.graphic.com.gh/sports/sports-news/queiroz-apologises-to-ghanaians-after-gambia-defeat.html",
+      "source": "Graphic Sports",
+      "published": "2026-09-30T15:12:36.000Z",
+      "summary": "Black Stars coach, Carlos Queiroz, has accepted responsibility for Ghana’s disappointing 2-4 defeat to The Gambia in their 2027 Africa Cup of Nations qualifier at the Accra Sports Stadium…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/CARLOS_Q.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "IDP Foundation Partners with Opportunity International to Expand the Rising Schools Program to Northern Ghana",
+      "link": "https://www.graphic.com.gh/news/education/idp-foundation-partners-with-opportunity-international-to-expand-the-rising-schools-program-to-northern-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T12:27:38.000Z",
+      "summary": "Pioneering school finance model reaches new communities as part of a strategic partnership to bring education financing to underserved regions",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/30/IDF.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hexagon Nutrition Launches VIT A+, a Stable Vitamin A Formulation Developed by Particles for Humanity, Transforming Food Fortification Across Africa",
+      "link": "https://www.graphic.com.gh/news/health/hexagon-nutrition-launches-vit-a-a-stable-vitamin-a-formulation-developed-by-particles-for-humanity-transforming-food-fortification-across-africa.html",
+      "source": "Daily Graphic",
+      "published": "2026-09-30T12:12:52.000Z",
+      "summary": "Accra, Ghana / Mumbai, India / Cambridge, Massachusetts, USA September 28, 2026. Hexagon Nutrition Limited today launched VIT A+, a stable vitamin A palmitate formulation for large-scale…",
+      "categories": [
+        "Health"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "VIDEO: ‘Stop rewarding people with bitter tongues’ - Speaker Bagbin to political leaders",
@@ -187,103 +401,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Absa Bank Ghana commissions new Head Office",
-      "link": "https://ghanaiantimes.com.gh/absa-bank-ghana-commissions-new-head-office/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:26:27.000Z",
-      "summary": "Absa Bank Ghana Ltd has formally commissioned Absa Place, its new Head Office at 64 Independence Avenue, Ridge, Accra, marking a new chapter for an institution that has been part of Ghana’s…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Audit Service steps up efforts to recover public funds",
-      "link": "https://ghanaiantimes.com.gh/audit-service-steps-up-efforts-to-recover-public-funds/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:24:21.000Z",
-      "summary": "The Ghana Audit Service is set to introduce a new electronic tracker to publicly monitor the implementation of audit recommendations, in a move aimed at ensuring that audit findings lead to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/Audit-Service-steps-up-efforts-xxxxx-1024x683.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GOC appoints Chef de Mission for LA 2028 Olympic Games",
-      "link": "https://ghanaiantimes.com.gh/goc-appoints-chef-de-mission-for-la-2028-olympic-games/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:20:59.000Z",
-      "summary": "Veteran sports administrator and Ghana Olympic Committee (GOC) Board Member, Richmond Quarcoo, has been appointed Chef de Mission for Ghana’s delegation to the 2028 Olympic Games in Los…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Starlets set for Morocco friendly today",
-      "link": "https://ghanaiantimes.com.gh/starlets-set-for-morocco-friendly-today/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:19:06.000Z",
-      "summary": "The Black Starlets have stepped up preparations for their second international friendly against Morocco’s U17 side following a full-scale training session on Monday. The Black Starlets will…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "16 c’nities competing in 2026 MTN Inter-C’nity Football Gala",
-      "link": "https://ghanaiantimes.com.gh/16-cnities-competing-in-2026-mtn-inter-cnity-football-gala/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:16:42.000Z",
-      "summary": "Sixteen community teams are participating in the 2026 MTN Inter-Community Football Gala at the Twene Amanfo Senior High School Park in Sunyani, Bono Region. The annual event, dubbed Sun…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Badminton: Golden Shuttlers settle for bronze in All-Africa U-19 Junior Championships Mixed Team Relay",
-      "link": "https://ghanaiantimes.com.gh/badminton-golden-shuttlers-settle-for-bronze-in-all-africa-u-19-junior-championships-mixed-team-relay/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:12:19.000Z",
-      "summary": "Ghana’s hopes to defend their Mixed Team Relay at the ongoing 2026 All Africa U-19 Badminton Championship in Cairo, Egypt were dashed yesterday after falling 2-1 to Algeria in the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "UEFA to distribute €31.5 million to clubs for Nations League",
-      "link": "https://ghanaiantimes.com.gh/uefa-to-distribute-e31-5-million-to-clubs-for-nations-league/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:09:54.000Z",
-      "summary": "UEFA will distribute €31.5 million ($35.7 million) to clubs who released their players to compete in the 2024-25 season ‌of the Nations League, European soccer’s governing body said…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Turkish referees’ chief arrested in corruption investigation",
-      "link": "https://ghanaiantimes.com.gh/turkish-referees-chief-arrested-in-corruption-investigation/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T09:07:35.000Z",
-      "summary": "The head of the Turkish referees’ body has been arrested as part of a police investigation into corruption. Turkish justice minister Akin Gurlek said the investigation focused on “claims…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ex sports authority chief executive calls for GFA President’s resignation",
       "link": "https://www.graphic.com.gh/sports/sports-news/ex-sports-authority-chief-executive-calls-for-gfa-presidents-resignation.html",
       "source": "Graphic Sports",
@@ -308,66 +425,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Auditor-General calls for effective collaboration to ensure accountability",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-auditor-general-calls-for-effective-collaboration-to-ensure-accountability.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-30T07:59:53.000Z",
-      "summary": "The Auditor-General, Dr Pamela Graham, has called for stronger collaboration among public institutions to ensure that audit findings lead to corrective actions, including recovery of public…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/30/Pamela.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Drug crisis threat to mental health system — BasicNeeds-Ghana",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-drug-crisis-threat-to-mental-health-system-basicneeds-ghana.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-30T07:43:39.000Z",
-      "summary": "A Not-For-Profit Organisation, BasicNeeds-Ghana, has cautioned that the country's fragile mental health system could be overwhelmed if the growing availability and abuse of illicit drugs…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Indus Life, Unichem Ghana support Graphic health screening outreach",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-indus-life-unichem-ghana-support-graphic-health-screening-outreach.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-30T07:38:58.000Z",
-      "summary": "Two pharmaceutical companies, Indus Life Sciences Pvt Limited and Unichem Ghana Group, have donated medicines to the Graphic Communications Group Ltd (GCGL) to support this year’s annual…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/30/Prem.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Strengthen domestic financing to support education in emergencies - Dr Apaak to West African countries",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-strengthen-domestic-financing-to-support-education-in-emergencies-dr-apaak-to-west-african-countries.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-30T07:35:05.000Z",
-      "summary": "The Deputy Minister of Education, Dr Clement Abas Apaak, has charged countries in the West African sub-region to strengthen domestic financing and regional co-operation in addressing…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/30/Clement.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "610 Rounds, assault rifle in US consignment seized at port",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-610-rounds-assault-rifle-in-us-consignment-seized-at-port.html",
-      "source": "Daily Graphic",
-      "published": "2026-09-30T07:32:19.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has seized a cache of ammunition at the Golden Jubilee Terminal concealed among personal effects arriving from the United States of America.",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Ghana smash Table Tennis Tournament debuts with thrilling action",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghana-smash-table-tennis-tournament-debuts-with-thrilling-action.html",
       "source": "Graphic Sports",
@@ -377,66 +434,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/29/TT.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "2027 AFCON qualifiers: Black Stars collapse in 4-2 home loss to Gambia",
-      "link": "https://www.graphic.com.gh/sports/sports-news/2027-afcon-qualifiers-black-stars-collapse-in-4-2-home-loss-to-gambia.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T21:00:11.000Z",
-      "summary": "Ghana’s 2027 Africa Cup of Nations campaign plunged into crisis at the Accra Sports Stadium on Tuesday after the Black Stars surrendered a 2-0 lead to suffer a humiliating 4-2 defeat to The…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Duamenefa Sports Director resigns",
-      "link": "https://www.graphic.com.gh/sports/sports-news/duamenefa-sports-director-resigns.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T18:23:47.000Z",
-      "summary": "The Director of Sports of the Duamenefa Regional Tournament, Patrick Doamekpor, has resigned from his position with immediate effect, citing growing concerns over the administration of the…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/amazing.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Sports Minister calls for protection of recreational areas",
-      "link": "https://www.graphic.com.gh/sports/sports-news/sports-minister-calls-for-protection-of-recreational-areas.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T17:46:39.000Z",
-      "summary": "The Minister for Sports and Recreation, Kofi Iddi Adams, also called for the protection of natural green spaces, particularly recreational areas that were being converted into…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Sports Minister calls for protection of recreational areas",
-      "link": "https://www.graphic.com.gh/sports/sports-minister-calls-for-protection-of-recreational-areas.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T17:46:39.000Z",
-      "summary": "The Minister for Sports and Recreation, Kofi Iddi Adams, also called for the protection of natural green spaces, particularly recreational areas that were being converted into…",
-      "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Asare starts against Gambia",
-      "link": "https://www.graphic.com.gh/sports/sports-news/asare-starts-against-gambia.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-29T16:09:59.000Z",
-      "summary": "Accra Hearts of Oak goalkeeper Benjamin Asare has been handed his first start in Ghana’s 2027 Africa Cup of Nations Group C qualifier against The Gambia at the Accra Sports Stadium this…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/29/asare.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
