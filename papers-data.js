@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-30T18:26:16.651Z",
+  "updated": "2026-09-30T22:28:51.171Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,121 +25,122 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ofori-Sarpong named Alumni President of the Year, honoured for PRESEC dormitory project",
-      "link": "https://www.myjoyonline.com/ofori-sarpong-named-alumni-president-of-the-year-honoured-for-presec-dormitory-project/",
+      "title": "Afoko can unite NPP’s factions, says Charles Owusu Juanah",
+      "link": "https://www.myjoyonline.com/afoko-can-unite-npps-factions-says-charles-owusu-juanah/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T17:59:41.000Z",
-      "summary": "The Global President of the Presbyterian Boys’ Secondary School (PRESEC) Alumni Association, Dr Ernest Ofori-Sarpong, has been named Old Schools Alumni President of the Year 2026 in…",
+      "published": "2026-09-30T22:20:28.000Z",
+      "summary": "Private legal practitioner and New Patriotic Party (NPP) stalwart Charles Owusu Juanah says former NPP National Chairman Paul Afoko has begun engaging members of opposing camps within the…",
       "categories": [
-        "National",
-        "Dr Ernest Ofori Sarpong",
-        "Presec"
+        "News",
+        "Politics",
+        "NPP",
+        "Paul Afoko",
+        "Unity"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/828258813_1491562216337855_1409375000264236405_n-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-125-832x1024.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Germany commits $132m to Ghana for skills development and training university – Pelpuo",
-      "link": "https://www.myjoyonline.com/germany-commits-132m-to-ghana-for-skills-development-and-training-university-pelpuo/",
+      "title": "Guardiola backing Man City after guilty verdicts",
+      "link": "https://www.myjoyonline.com/guardiola-backing-man-city-after-guilty-verdicts/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T17:59:01.000Z",
-      "summary": "The German government has committed $132 million to support skills development and workplace training for young people in Ghana, Minister of State at the Presidency in charge of Special…",
+      "published": "2026-09-30T22:14:00.000Z",
+      "summary": "Former manager Pep Guardiola has backed Manchester City's owners and leadership and says he will \"always\" be behind the club after they were found guilty of all charges related to breaches…",
+      "categories": [
+        "Football",
+        "Man City",
+        "Pep Guardiola"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-4002.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Annoh-Dompreh questions EOCO’s claim that Manhyia South MP was unavailable for questioning",
+      "link": "https://www.myjoyonline.com/annoh-dompreh-questions-eocos-claim-that-manhyia-south-mp-was-unavailable-for-questioning/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T22:13:45.000Z",
+      "summary": "Minority Chief Whip in Parliament, Frank Annoh-Dompreh, has questioned EOCO’s claim that it exhausted reasonable avenues to secure the voluntary attendance of Manhyia South MP Nana Agyei…",
       "categories": [
         "National",
         "News",
-        "Dr Abdul-Rashid Pelpuo",
-        "Germany",
-        "Ghana",
-        "youth skills development"
+        "Annoh-Dompreh",
+        "EOCO",
+        "Manhyia South MP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/exclusive-there-will-be-a-constr.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-1.20.41-pm-1024x677.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Influence should go beyond visibility’ – Taadi Banyinba GH launches The TB Impact",
-      "link": "https://www.myjoyonline.com/influence-should-go-beyond-visibility-taadi-banyinba-gh-launches-the-tb-impact/",
+      "title": "Djokovic wins first match since Wimbledon at China Open",
+      "link": "https://www.myjoyonline.com/djokovic-wins-first-match-since-wimbledon-at-china-open/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T17:54:19.000Z",
-      "summary": "Ghanaian content creator Enoch Osei Tabiri, popularly known as Taadi Banyinba GH, is set to use his platform to support vulnerable people and communities through a new social impact…",
+      "published": "2026-09-30T22:01:20.000Z",
+      "summary": "Novak Djokovic maintained his remarkable unbeaten record at the China Open, beating Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July.",
       "categories": [
-        "Events",
-        "Taadi Banyinba GH",
-        "The TB Impact"
+        "Tennis",
+        "Novak Djokovic"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMG_3347.JPG-e1790778942582-1024x861.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3844.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Videos: Government announces emergency LEAP package for Hohoe flood victims",
-      "link": "https://www.myjoyonline.com/videos-government-announces-emergency-leap-package-for-hohoe-flood-victims/",
+      "title": "KAIPTC, National Peace Council move to bridge civilian-security trust deficit to counter violent extremism",
+      "link": "https://www.myjoyonline.com/kaiptc-national-peace-council-move-to-bridge-civilian-security-trust-deficit-to-counter-violent-extremism/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T17:50:08.000Z",
-      "summary": "The government has announced an emergency Livelihood Empowerment Against Poverty (LEAP) package for victims of the flooding that hit the Hohoe Municipality in the Volta Region on Monday.",
+      "published": "2026-09-30T21:54:15.000Z",
+      "summary": "The Kofi Annan International Peacekeeping Training Centre (KAIPTC) and the National Peace Council (NPC), with support from the Embassy of Spain in Ghana, have launched a multi-stakeholder…",
       "categories": [
         "National",
-        "News",
-        "Government",
-        "Hohoe flood",
-        "LEAP"
+        "Kofi Annan International Peacekeeping Training Centre (KAIPTC)",
+        "National peace council",
+        "Violent extremism"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3974.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-17.17.44-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Salomey Baffoe’s children are crying for their mother – Family appeals for her release",
-      "link": "https://www.myjoyonline.com/salomey-baffoes-children-are-crying-for-their-mother-family-appeals-for-her-release/",
+      "title": "Infantino should have no place in future of football – Pinto",
+      "link": "https://www.myjoyonline.com/infantino-should-have-no-place-in-future-of-football-pinto/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T17:48:09.000Z",
-      "summary": "The family of senior nursing officer Salomey Awiti Baffoe has appealed to the government to facilitate her release, saying her children are struggling with her continued detention.",
+      "published": "2026-09-30T21:51:36.000Z",
+      "summary": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Fifa president Gianni Infantino \"should have no place in the future of the…",
       "categories": [
-        "National",
-        "News",
-        "Family",
-        "Ghana Jollof",
-        "Salomey Baffoe"
+        "Football",
+        "FIFA",
+        "Gianni Infantino",
+        "UEFA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-82-2.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-4001.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Shortage of trained investigators and prosecutors hampers Ghana’s fight against money laundering – Report",
-      "link": "https://www.myjoyonline.com/shortage-of-trained-investigators-and-prosecutors-hampers-ghanas-fight-against-money-laundering-report/",
+      "title": "A decade of duty: First Commander recounts the unexpected birth of Ministries Fire Station",
+      "link": "https://www.myjoyonline.com/a-decade-of-duty-first-commander-recounts-the-unexpected-birth-of-ministries-fire-station/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T17:47:53.000Z",
-      "summary": "Ghana’s efforts to combat money laundering face significant enforcement gaps, including a shortage of trained investigators and prosecutors, according to the Global Organised Crime Index.",
+      "published": "2026-09-30T21:48:54.000Z",
+      "summary": "The Ministries Fire Station in Accra has marked a decade of dedicated service with a heartfelt 10th anniversary thanksgiving service, revealing a remarkable journey of transformation…",
       "categories": [
         "National",
-        "Illicit financial flow",
-        "Money Laundering"
+        "First Commander",
+        "Ministries Fire Station"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/ghana-police-service-has-alleged-2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-14.02.53.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GoldBod generates US$1.87bn in September FX operations, exceeding monthly target",
-      "link": "https://www.myjoyonline.com/goldbod-generates-us1-87bn-in-september-fx-operations-exceeding-monthly-target/",
+      "title": "Mfantsipim must cultivate more business leaders, entrepreneurs – Nana Awuah",
+      "link": "https://www.myjoyonline.com/mfantsipim-must-cultivate-more-business-leaders-entrepreneurs-nana-awuah/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T17:47:19.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) says it generated US$1.871 billion in foreign exchange from its artisanal and small-scale mining (ASM) gold trade operations in September 2026, exceeding its…",
+      "published": "2026-09-30T21:47:15.000Z",
+      "summary": "Managing Partner of Parkwood and Mossane and a 2006 year-group student of Mfantsipim School, Nana Akwasi Awuah, has called for a stronger focus on entrepreneurship and business leadership…",
       "categories": [
+        "Education",
         "National",
-        "Goldbod"
+        "Mfantsipim Old Boys Association (MOBA)",
+        "Mfantsipim School",
+        "Nana Akwasi Awuah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/goldbod.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Roads Minister says it is time to change one-year defect liability period for contractors, consultants",
-      "link": "https://www.myjoyonline.com/roads-minister-says-it-is-time-to-change-one-year-defect-liability-period-for-contractors-consultants/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T17:46:51.000Z",
-      "summary": "The Minister of Roads and Highways, Governs Kwame Agbodza, has said it is time the one-year defect liability period agreement in road contracts change to hold contractors accountable for…",
-      "categories": [
-        "National",
-        "Contractors",
-        "Governs Kwame Agbodza"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3985.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/annual-engagement-series-xi-hen-1-2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {

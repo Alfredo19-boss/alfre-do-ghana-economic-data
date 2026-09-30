@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-30T18:26:04.269Z",
-  "worldAt": "2026-09-30T18:26:04.266Z",
+  "updated": "2026-09-30T22:28:39.144Z",
+  "worldAt": "2026-09-30T22:28:39.141Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,26 +26,47 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 30 stories",
-    "World · Deutsche Welle: 11 stories",
+    "World · BBC News: 31 stories",
+    "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 32 stories",
-    "Africa · Africanews: 30 stories",
+    "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Al Jazeera: 0 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "GCB extends Customer Service Week into month-long customer engagement",
+      "link": "https://www.myjoyonline.com/gcb-extends-customer-service-week-into-month-long-customer-engagement/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T21:45:30.000Z",
+      "summary": "GCB Bank PLC has extended this year’s Customer Service Week into a month-long customer engagement programme, dedicating October to customer appreciation, education and direct interaction…"
+    },
+    {
+      "title": "Digital Customer Service",
+      "link": "https://www.myjoyonline.com/digital-customer-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T21:00:00.000Z",
+      "summary": "Today’s customers expect quick service without any delays. They do not want to sit on hold or explain their problem over and over. Digital customer service meets them where they already are…"
+    },
+    {
+      "title": "Ghana Energy Awards opens nominations for landmark 10th anniversary edition",
+      "link": "https://www.myjoyonline.com/ghana-energy-awards-opens-nominations-for-landmark-10th-anniversary-edition/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T18:47:05.000Z",
+      "summary": "The Ghana Energy Awards has officially opened nominations for its 10th anniversary edition, marking a decade of recognising excellence, inspiring innovation and celebrating the individuals…"
+    },
     {
       "title": "GoldBod Generates $1.87 Billion in FX, Targets $1.5 Billion in October 2026",
       "link": "https://thehighstreetjournal.com/goldbod-generates-1-87-billion-in-fx/",
@@ -1074,30 +1095,247 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-28T08:07:51.000Z",
       "summary": "Adequate allocations will be made in next year’s budget for the construction of silos for the storage of grains, the Minister of Food and Agriculture, Eric Opoku, has disclosed."
-    },
-    {
-      "title": "Govt moves to turn maritime policies into economic gains",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-moves-to-turn-maritime-policies-into-economic-gains.html",
-      "source": "Graphic Online",
-      "published": "2026-09-28T08:03:01.000Z",
-      "summary": "The government is taking steps to translate Ghana’s maritime policies and international commitments into practical interventions to position the country as a leading maritime and logistics…"
-    },
-    {
-      "title": "Ghana-Japan deepen ties through business, cultural cooperation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-japan-deepen-ties-through-business-cultural-cooperation.html",
-      "source": "Graphic Online",
-      "published": "2026-09-28T07:41:57.000Z",
-      "summary": "The Japanese Ambassador to Ghana, Hiroshi Yoshimoto, has said relations between Ghana and Japan have expanded beyond government-to-government engagements to include stronger business and…"
-    },
-    {
-      "title": "MIIF explores greater participation in mining value chain",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-miif-explores-greater-participation-in-mining-value-chain.html",
-      "source": "Graphic Online",
-      "published": "2026-09-28T07:29:40.000Z",
-      "summary": "The Minerals Income Investment Fund (MIIF) is assessing businesses across the mining value chain for potential investment in a bid to increase local participation and retain more value from…"
     }
   ],
   "world": [
+    {
+      "title": "U.S. military forces formally left Iraq today, marking a new era",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5983521/u-s-military-forces-formally-left-iraq-today-marking-a-new-era",
+      "source": "NPR World",
+      "published": "2026-09-30T22:20:30.000Z",
+      "summary": "The U.S. military has been in Iraq for much of the past 35 years. A low-key ceremony Wednesday marked the formal departure of U.S. forces at a time when Iraq is still facing an uncertain…"
+    },
+    {
+      "title": "Paramount takeover of Warner Bros. Discovery clears legal hurdle",
+      "link": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
+      "source": "France 24",
+      "published": "2026-09-30T22:19:23.000Z",
+      "summary": "A federal judge on Wednesday approved a settlement clearing Paramount’s takeover of Warner Bros. Discovery after 12 US states challenged the deal on antitrust grounds. The agreement…",
+      "image": "https://s.france24.com/media/display/2c2a999a-bd1a-11f1-8121-d367a0468893/w:1024/p:16x9/063-2296482973.jpg"
+    },
+    {
+      "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
+      "link": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-30T22:10:00.000Z",
+      "summary": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is creeping west toward the coast, preventing…"
+    },
+    {
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-30T22:01:16.000Z",
+      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/a7dfc5c0-bcec-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T21:34:30.000Z",
+      "summary": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions."
+    },
+    {
+      "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-30T21:38:54.000Z",
+      "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab8/live/f51d98c0-bd10-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "title": "Like a 'rollercoaster': passengers describe harrowing flydubai flight",
+      "link": "https://www.france24.com/en/like-a-rollercoaster-passengers-describe-harrowing-flydubai-flight",
+      "source": "France 24",
+      "published": "2026-09-30T21:31:34.000Z",
+      "summary": "As flight FZ 1073 from Dubai to Tel Aviv approached the Jordanian border on Wednesday, passengers knew in an instant that something was wrong when the plane began plummeting from the sky in…",
+      "image": "https://s.france24.com/media/display/133b75fc-bd16-11f1-b85e-d367a0468893/w:1024/p:16x9/capture-16771745746abd7f51257970-94832487.jpg"
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-30T21:36:31.000Z",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Trump administration files complaint against judges over media comments",
+      "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T21:28:43.000Z",
+      "summary": "Seven Minnesota judges face ethics complaint after speaking publicly about US president's immigration crackdown."
+    },
+    {
+      "title": "UK PM Burnham reopens divisive debate on rejoining EU",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "source": "France 24",
+      "published": "2026-09-30T21:08:39.000Z",
+      "summary": "Andy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's…",
+      "image": "https://s.france24.com/media/display/af69c10a-bd10-11f1-8116-d367a0468893/w:1024/p:16x9/EN-20260930-223109-224328-CS.jpg"
+    },
+    {
+      "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T21:12:46.000Z",
+      "summary": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed."
+    },
+    {
+      "title": "UK PM Burnham reopens divisive debate on rejoining EU",
+      "link": "https://www.france24.com/en/uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "source": "France 24",
+      "published": "2026-09-30T20:55:42.000Z",
+      "summary": "Andy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's…",
+      "image": "https://s.france24.com/media/display/af69c10a-bd10-11f1-8116-d367a0468893/w:1024/p:16x9/EN-20260930-223109-224328-CS.jpg"
+    },
+    {
+      "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
+      "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T21:01:13.000Z",
+      "summary": "Powe rationing hours are to increase as a result of the blast."
+    },
+    {
+      "title": "Ethiopian AI expert, Timnit Gebru, wins 'alternative Nobel'",
+      "link": "https://www.france24.com/en/ethiopian-ai-expert-timnit-gebru-wins-alternative-nobel",
+      "source": "France 24",
+      "published": "2026-09-30T20:44:49.000Z",
+      "summary": "In tonight's edition, Africa's richest man breaks ground on a 16 billion dollar oil refinery in Kenya. Also, at universities across Cameroon, programming is overshadowed with uncertainty…",
+      "image": "https://s.france24.com/media/display/a9e0f72e-bd0d-11f1-bb26-7be0f5469a6a/w:1024/p:16x9/DN197084-A-01-20260921-01.jpg"
+    },
+    {
+      "title": "Passengers of diverted flydubai flight land in Israel",
+      "link": "http://www.africanews.com/2026/09/30/passengers-of-diverted-flydubai-flight-land-in-israel/",
+      "source": "Africanews",
+      "published": "2026-09-30T20:42:30.000Z",
+      "summary": "Passengers on a FlyDubai flight that made an emergency landing in Saudi Arabia after a violent cockpit incident, arrived in Tel Aviv on Wednesday, describing the ordeal as “very terrifying”"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T20:12:22.000Z",
+      "summary": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday"
+    },
+    {
+      "title": "Meet 'America': Trump’s AI chatbot changes answers after challenging his claims",
+      "link": "https://www.france24.com/en/meet-america-trump-s-ai-chatbot-changes-answers-after-challenging-his-claims-1",
+      "source": "France 24",
+      "published": "2026-09-30T20:08:13.000Z",
+      "summary": "Donald Trump has launched “America”, an AI chatbot designed as a digital portal for US government information. But its responses appear to be changing. The chatbot initially challenged…",
+      "image": "https://s.france24.com/media/display/2e053cc0-bd06-11f1-b6c3-7be0f5469a6a/w:1024/p:16x9/capture-9934752996abd64a62a23a7-71615901.jpg"
+    },
+    {
+      "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T20:00:36.000Z",
+      "summary": "Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling."
+    },
+    {
+      "title": "'Hard to see Man City getting anything other than the book thrown at them', expert says",
+      "link": "https://www.france24.com/en/hard-to-see-man-city-getting-anything-other-than-the-book-thrown-at-them-expert-says",
+      "source": "France 24",
+      "published": "2026-09-30T19:56:07.000Z",
+      "summary": "Manchester City enjoyed a meteoric rise from mid-table mediocrity to Premier League domination, but their golden era could be forever tarnished after they were found guilty of scores of…",
+      "image": "https://s.france24.com/media/display/a89e3c52-bd06-11f1-9418-1b050e7dec5f/w:1024/p:16x9/EN-20260930-210843-212132-CS.jpg"
+    },
+    {
+      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+      "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T19:49:21.000Z",
+      "summary": "The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'."
+    },
+    {
+      "title": "'No backing down': S.African anti-migrant protesters vow to keep marching",
+      "link": "http://www.africanews.com/2026/09/30/no-backing-down-safrican-anti-migrant-protesters-vow-to-keep-marching/",
+      "source": "Africanews",
+      "published": "2026-09-30T19:18:31.000Z",
+      "summary": "South African anti-migrant protesters rallied in Durban vow to keep up their months-long fight to get undocumented migrants to leave the country"
+    },
+    {
+      "title": "US regulator launches probe into AI companies",
+      "link": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T19:46:35.000Z",
+      "summary": "FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade."
+    },
+    {
+      "title": "Five EU states plan first deportation center in Africa for 2027",
+      "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-30T19:16:00.000Z",
+      "summary": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partner country has reportedly already been…"
+    },
+    {
+      "title": "How does Trump’s White House AI accord work?",
+      "link": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T19:44:42.000Z",
+      "summary": "Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations."
+    },
+    {
+      "title": "Ronaldo leaves Portugal training camp after coach drops him from upcoming match",
+      "link": "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+      "source": "France 24",
+      "published": "2026-09-30T19:14:33.000Z",
+      "summary": "Portugal captain and striker Cristiano Ronaldo said Wednesday he had walked out on the national team's training camp in Copenhagen after coach Jorge Jesus announced the 41-year-old player…",
+      "image": "https://s.france24.com/media/display/a94802c6-bcf9-11f1-ab0c-ddce071186a9/w:1024/p:16x9/5e59e151fd9de4028ee658699a78fdd885897e2d.jpg"
+    },
+    {
+      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+      "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T19:43:47.000Z",
+      "summary": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship."
+    },
+    {
+      "title": "Clashes between French teens, police as school blockades intensify",
+      "link": "https://www.france24.com/en/clashes-between-french-teens-police-as-school-blockades-intensify",
+      "source": "France 24",
+      "published": "2026-09-30T19:07:32.000Z",
+      "summary": "French teenagers on Tuesday set fire to rubbish bins and threw projectiles at police who responded with batons and tear gas, with hundreds detained across the country over the blockades and…",
+      "image": "https://s.france24.com/media/display/5b148b08-bd01-11f1-ac56-1b050e7dec5f/w:1024/p:16x9/EN-20260930-204115-204316-CS.jpg"
+    },
+    {
+      "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
+      "link": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T19:41:43.000Z",
+      "summary": "Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021."
+    },
+    {
+      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
+      "source": "France 24",
+      "published": "2026-09-30T19:04:20.000Z",
+      "summary": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats…",
+      "image": "https://s.france24.com/media/display/b4b4ab32-b81c-11f1-9a75-9d4ae5c4ba17/w:1024/p:16x9/2026-09-24T101012Z-919341318-RC2KPNA74E5F-RTRMADP-3-ETHIOPIA-SECURITY.jpg"
+    },
+    {
+      "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
+      "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T19:39:50.000Z",
+      "summary": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt."
+    },
+    {
+      "title": "British PM alleges there are 'strong indications' Iran was involved in Fairford airbase incident",
+      "link": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
+      "source": "France 24",
+      "published": "2026-09-30T19:01:30.000Z",
+      "summary": "UK Prime Minister Andy Burnham on Wednesday insisted that there were \"strong indications\" that Tehran was involved in a security incident on Sunday near an airbase in England that the US…",
+      "image": "https://s.france24.com/media/display/79072c1c-bc0a-11f1-9add-555a0aff87a4/w:1024/p:16x9/2026-09-29T064654Z-1635109463-RC2USNAUC1I4-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg"
+    },
+    {
+      "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T19:24:11.000Z",
+      "summary": "Trump said former Fed chair Jerome Powell should resign anyway."
+    },
     {
       "title": "Tunisia president softens 'fake news' decree after criticism by rights groups",
       "link": "http://www.africanews.com/2026/09/30/tunisia-president-softens-fake-news-decree-after-criticism-by-rights-groups/",
@@ -1106,26 +1344,11 @@ window.GDC_NEWS = {
       "summary": "Tunisian President Kais Saied on Wednesday softened a cybercrime decree that was widely criticised by rights groups, by scrapping a five-year prison sentence for the dissemination of \"fake…"
     },
     {
-      "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+      "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
+      "link": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-30T17:55:59.000Z",
-      "summary": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns."
-    },
-    {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-30T17:51:49.000Z",
-      "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Syria removed from US arms export ban list",
-      "link": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T17:55:13.000Z",
-      "summary": "US has gradually loosened restrictions placed on Syria during the Assad era to aid country's recovery from conflict."
+      "published": "2026-09-30T19:20:04.000Z",
+      "summary": "Crown Prince Mohammed bin Salman says the kingdom 'will not hesitate to respond firmly to any threat'."
     },
     {
       "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
@@ -1136,11 +1359,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F7c%2Fa4d053f446749491f915fc9bc529%2Ffarflungpostcard-syria.jpg"
     },
     {
-      "title": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
+      "title": "Norway launches probe into 11 senior officials over US Epstein files links",
+      "link": "https://www.aljazeera.com/news/2026/9/30/norway-launches-probe-into-11-senior-officials-over-us-epstein-files-links?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-30T17:36:17.000Z",
-      "summary": "Benjamin Netanyahu has met Yaniv Hayun, the Flydubai passenger that helped restrain a pilot who stabbed a colleague."
+      "published": "2026-09-30T19:10:03.000Z",
+      "summary": "Norway investigates over $13m in state grants linked to Epstein and top ministers."
     },
     {
       "title": "Are the Houthis winning against Saudi Arabia?",
@@ -1150,11 +1373,11 @@ window.GDC_NEWS = {
       "summary": "It's unclear how the Saudis can defuse the threat presented by the Houthis in next-door Yemen or who they can turn to for help. The US isn't interested, the Europeans are hedging and nobody…"
     },
     {
-      "title": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss",
+      "title": "US FCC head says controversial Trump ads do not raise concerns",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-fcc-head-says-controversial-trump-ads-do-not-raise-concerns?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-30T17:34:55.000Z",
-      "summary": "British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips."
+      "published": "2026-09-30T19:07:13.000Z",
+      "summary": "Series of publicly-funded television spots have been criticised by Republicans and Democrats as self-promotion by Trump."
     },
     {
       "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
@@ -1165,245 +1388,27 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8a/live/2bc20fe0-bcef-11f1-8ce2-417f8f7cb095.jpg"
     },
     {
-      "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
-      "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
+      "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+      "link": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-09-30T17:13:05.000Z",
-      "summary": "Israeli raids at Al-Aqsa Mosque compound have intensified during the Jewish holiday season."
-    },
-    {
-      "title": "UK-France 'one in, one out' migrant exchange deal is scrapped",
-      "link": "https://www.france24.com/en/europe/20260930-uk-france-one-in-one-out-migrant-exchange-deal-is-scrapped",
-      "source": "France 24",
-      "published": "2026-09-30T17:12:12.000Z",
-      "summary": "A British-French agreement aimed at reducing the number of people trying to cross the English Channel in small boats has been scrapped, London said Wednesday. The pilot programme was…",
-      "image": "https://s.france24.com/media/display/97e2e0e8-bced-11f1-9d0b-d367a0468893/w:1024/p:16x9/AP26271435063936.jpg"
-    },
-    {
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-30T17:11:08.000Z",
-      "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3390/live/d0d6c780-bce7-11f1-8ce2-417f8f7cb095.jpg"
-    },
-    {
-      "title": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
-      "link": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T17:07:09.000Z",
-      "summary": "UK intelligence agency accuses Chinese institute of funding academic research to boost Beijing’s espionage capability."
-    },
-    {
-      "title": "France to unveil 2027 budget as debt hits record high",
-      "link": "https://www.france24.com/en/video/20260930-france-to-unveil-2027-budget-as-debt-hits-record-high",
-      "source": "France 24",
-      "published": "2026-09-30T16:58:35.000Z",
-      "summary": "As the French government prepares to unveil its latest budget, the country's debt is at a record high and growing every day. France's public debt currently stands at nearly 3.6 trillion…",
-      "image": "https://s.france24.com/media/display/a9b15182-bce4-11f1-bb0a-ddce071186a9/w:1024/p:16x9/EN-20260930-152848-153036-CS.jpg"
-    },
-    {
-      "title": "Pix of the Day, 30 September, 2026 - Across the world",
-      "link": "http://www.africanews.com/2026/09/30/pix-of-the-day-30-september-2026-across-the-world/",
-      "source": "Africanews",
-      "published": "2026-09-30T16:45:03.000Z",
-      "summary": "Burkina Faso has inaugurated its first gold refinery as its military-led government seeks to strengthen economic sovereignty after breaking ties with its traditional Western partners."
-    },
-    {
-      "title": "Israel PM says pilot of rerouted flight tried to crash plane",
-      "link": "https://www.france24.com/en/video/20260930-israel-pm-says-pilot-of-rerouted-flight-tried-to-crash-plane",
-      "source": "France 24",
-      "published": "2026-09-30T16:57:41.000Z",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu said Wednesday that the pilot of a Tel Aviv-bound flydubai flight had tried to crash the plane and kill its passengers, after the aircraft was…",
-      "image": "https://s.france24.com/media/display/b3e4ddf4-bce4-11f1-8ae7-d367a0468893/w:1024/p:16x9/EN-20260930-160148-160351-CS.jpg"
-    },
-    {
-      "title": "US appeals court halts Tennessee execution of Christa Pike",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T16:44:16.000Z",
-      "summary": "Christa Pike was set to become the first woman executed by Tennessee in more than 200 years."
-    },
-    {
-      "title": "New York Gov pushes for probe into Cornell's handling of gang rape allegation",
-      "link": "https://www.france24.com/en/video/20260930-new-york-gov-pushes-for-probe-into-cornell-s-handling-of-gang-rape-allegation",
-      "source": "France 24",
-      "published": "2026-09-30T16:55:36.000Z",
-      "summary": "New York Gov. Kathy Hochul on Tuesday called for an investigation into Cornell University's response to a 2024 gang rape allegation in which a woman says she was sexually assaulted by seven…",
-      "image": "https://s.france24.com/media/display/b83cc204-bce4-11f1-89b4-d367a0468893/w:1024/p:16x9/EN-20260930-171246-171433-CS.jpg"
-    },
-    {
-      "title": "Three European lawmakers say humanitarian situation in Ceuta is 'grim'",
-      "link": "http://www.africanews.com/2026/09/30/three-european-lawmakers-say-humanitarian-situation-in-ceuta-is-grim/",
-      "source": "Africanews",
-      "published": "2026-09-30T16:41:04.000Z",
-      "summary": "Speaking following a fact-finding mission, they also accused the Spanish armed forces of 'torture' and 'inhumane treatment'."
-    },
-    {
-      "title": "Climate change reshaping the polar oceans, says report",
-      "link": "https://www.france24.com/en/video/20260930-climate-change-reshaping-the-polar-oceans-says-report",
-      "source": "France 24",
-      "published": "2026-09-30T16:53:09.000Z",
-      "summary": "Climate change is increasingly reshaping the polar oceans, with Arctic waters warming rapidly, sea ice shrinking and wildlife losing habitat at both ends of the planet, an annual report…",
-      "image": "https://s.france24.com/media/display/7ae5d166-bce4-11f1-b4bb-ddce071186a9/w:1024/p:16x9/EN-20260930-154103-154250-CS.jpg"
-    },
-    {
-      "title": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T16:38:25.000Z",
-      "summary": "Executive committee reverses its support ‌for the ​Swiss football administrator after endorsing his candidacy in June."
-    },
-    {
-      "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces",
-      "link": "https://www.france24.com/en/video/20260930-syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces",
-      "source": "France 24",
-      "published": "2026-09-30T16:45:19.000Z",
-      "summary": "Several factions of foreign fighters are credited with helping topple Syria's Bashar al-Assad nearly two years ago - among them, the Uyghurs, a predominantly Muslim, Turkic ethnic minority…",
-      "image": "https://s.france24.com/media/display/553bc02e-bce4-11f1-9888-098db7fa8bc7/w:1024/p:16x9/EN-20260930-152118-152816-CS.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T16:36:52.000Z",
-      "summary": "A Flydubai flight to Tel Aviv was diverted after a stabbing, with Israeli officials calling it 'an act of terror'."
-    },
-    {
-      "title": "‘Attempted terror attack’: What happened on board the rerouted Flydubai flight?",
-      "link": "https://www.france24.com/en/video/20260930-attempted-terror-attack-what-happened-on-board-the-rerouted-flydubai-flight",
-      "source": "France 24",
-      "published": "2026-09-30T16:04:30.000Z",
-      "summary": "The co-pilot of a flight from Dubai to Tel Aviv ​tried ‌to crash the plane after stabbing the pilot, but passengers then ⁠held him down while other pilots landed the plane safely in Saudi…",
-      "image": "https://s.france24.com/media/display/b44a2bda-bce6-11f1-9437-098db7fa8bc7/w:1024/p:16x9/mini3-1.jpg"
-    },
-    {
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "link": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T16:33:02.000Z",
-      "summary": "The withdrawal ends two decades of foreign intervention in Iraq as part of 'global war on terror' and anti-ISIL fight."
-    },
-    {
-      "title": "Appeals court halts execution of Tennessee woman less than two hours before lethal injection",
-      "link": "https://www.france24.com/en/americas/20260930-appeals-court-halts-execution-of-tennessee-woman-less-than-two-hours-before-lethal-injection",
-      "source": "France 24",
-      "published": "2026-09-30T16:03:32.000Z",
-      "summary": "A US appeals court ordered a \"short stay of execution\" for death row inmate Christa Pike, less than two hours before she was scheduled to be the first woman put to death in the state in…",
-      "image": "https://s.france24.com/media/display/7a4f7cc8-bce1-11f1-a0fb-1b050e7dec5f/w:1024/p:16x9/2026-09-30T135639Z-1416470123-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg"
-    },
-    {
-      "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-      "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T16:18:11.000Z",
-      "summary": "Siegfried Muresan's loss of the confidence motion increases the prospect for snap elections."
-    },
-    {
-      "title": "FlyDubai says investigating mid-air pilot fight as Israel alleges terror plot",
-      "link": "http://www.africanews.com/2026/09/30/flydubai-says-investigating-mid-air-pilot-fight-as-israel-alleges-terror-plot/",
-      "source": "Africanews",
-      "published": "2026-09-30T15:37:08.000Z",
-      "summary": "A pilot on a flight from the United Arab Emirates stabbed another pilot and then apparently tried to crash the aircraft carrying dozens of Israelis on Wednesday, Israel's prime minister…"
-    },
-    {
-      "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-      "source": "NPR World",
-      "published": "2026-09-30T15:33:19.000Z",
-      "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it…"
-    },
-    {
-      "title": "Russia ramps up disinformation attacks on French media ahead of 2027 Presidential race",
-      "link": "https://www.france24.com/en/france/20260930-russia-ramps-up-disinformation-attacks-on-french-media-ahead-of-2027-presidential-race",
-      "source": "France 24",
-      "published": "2026-09-30T15:29:40.000Z",
-      "summary": "Pro-Russian influence operations have caused a surge of 850% in fake news stories mimicking real media brands, according to a report published this week by disinformation specialist…",
-      "image": "https://s.france24.com/media/display/a036fb0c-b8f7-11f1-8a9f-555a0aff87a4/w:1024/p:16x9/Main-Russie-Hackers.png"
-    },
-    {
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-30T15:29:11.000Z",
-      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cd/live/e4a1ffd0-bbdb-11f1-bd21-bdf910f2cec6.jpg"
-    },
-    {
-      "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T15:27:26.000Z",
-      "summary": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane."
-    },
-    {
-      "title": "IATA says African air cargo capacity rose by 14 per cent in August",
-      "link": "http://www.africanews.com/2026/09/30/iata-says-african-air-cargo-capacity-rose-by-14-per-cent-in-august/",
-      "source": "Africanews",
-      "published": "2026-09-30T15:23:13.000Z",
-      "summary": "The world airline body said this significantly outpaced the 3 per cent growth in cargo demand across the region."
-    },
-    {
-      "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
-      "link": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T15:22:52.000Z",
-      "summary": "Wazwan, a multicourse mutton feast, reflects Kashmiri cultural roots with recipes dating back to the 14th century."
-    },
-    {
-      "title": "Passengers describe stabbing on Israel-bound plane",
-      "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-30T15:07:00.000Z",
-      "summary": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee3c/live/4572b2f0-bcea-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-      "link": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T15:06:37.000Z",
-      "summary": "Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict."
-    },
-    {
-      "title": "Prosecutor reopens probe into Cornell gang rape allegations",
-      "link": "https://www.france24.com/en/video/20260930-prosecutor-reopens-probe-into-cornell-gang-rape-allegations",
-      "source": "France 24",
-      "published": "2026-09-30T15:06:20.000Z",
-      "summary": "A New York prosecutor has reopened an investigation into gang rape allegations at a Cornell University fraternity in response to a lawsuit filed by a woman who says she was sexually…",
-      "image": "https://s.france24.com/media/display/a4c0d3ea-bcd1-11f1-bde5-816a8398162d/w:1024/p:16x9/EN-20260930-143905-144333-CS.jpg"
-    },
-    {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-30T15:04:32.000Z",
-      "summary": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c58/live/f0312b90-bcdb-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "title": "Macron says UK’s return to EU would be ‘excellent news’",
-      "link": "https://www.france24.com/en/video/20260930-replay-france-s-macron-calls-for-stronger-europe-on-spain-trip",
-      "source": "France 24",
-      "published": "2026-09-30T15:01:32.000Z",
-      "summary": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European…",
-      "image": "https://s.france24.com/media/display/f943f80e-bcc5-11f1-9e59-d367a0468893/w:1024/p:16x9/2026-09-30T115111Z-1926653752-RC2NTNAIQ2O3-RTRMADP-3-SPAIN-FRANCE-POLITICS.jpg"
-    },
-    {
-      "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-      "link": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T14:54:34.000Z",
-      "summary": "Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150."
+      "published": "2026-09-30T18:52:51.000Z",
+      "summary": "Moscow claims that NATO is preparing an air and naval blockade in the Baltic Sea."
     }
   ],
   "africa": [
     {
-      "title": "Tunisia president softens 'fake news' decree after criticism by rights groups",
-      "link": "http://www.africanews.com/2026/09/30/tunisia-president-softens-fake-news-decree-after-criticism-by-rights-groups/",
+      "title": "Zimbabwe: Wicknell Chivayo and Wife, Lulu, Killed in Helicopter Crash - Report",
+      "link": "https://allafrica.com/stories/202609300702.html",
+      "source": "AllAfrica",
+      "published": "2026-09-30T19:41:39.000Z",
+      "summary": "[allAfrica] Cape Town -- Six people died when a helicopter crashed in Marondera Rural on Wednesday evening. The government said there were no survivors."
+    },
+    {
+      "title": "'No backing down': S.African anti-migrant protesters vow to keep marching",
+      "link": "http://www.africanews.com/2026/09/30/no-backing-down-safrican-anti-migrant-protesters-vow-to-keep-marching/",
       "source": "Africanews",
-      "published": "2026-09-30T18:14:24.000Z",
-      "summary": "Tunisian President Kais Saied on Wednesday softened a cybercrime decree that was widely criticised by rights groups, by scrapping a five-year prison sentence for the dissemination of \"fake…"
+      "published": "2026-09-30T19:18:31.000Z",
+      "summary": "South African anti-migrant protesters rallied in Durban vow to keep up their months-long fight to get undocumented migrants to leave the country"
     },
     {
       "title": "The Sudan connection: Is Ethiopia at risk of a proxy war?",
@@ -1413,11 +1418,11 @@ window.GDC_NEWS = {
       "summary": "Ethiopia and Sudan are trading accusations over the armed conflicts they face. Can the conflict dynamics in the wider Horn of Africa exacerbate tensions?"
     },
     {
-      "title": "Pix of the Day, 30 September, 2026 - Across the world",
-      "link": "http://www.africanews.com/2026/09/30/pix-of-the-day-30-september-2026-across-the-world/",
+      "title": "Tunisia president softens 'fake news' decree after criticism by rights groups",
+      "link": "http://www.africanews.com/2026/09/30/tunisia-president-softens-fake-news-decree-after-criticism-by-rights-groups/",
       "source": "Africanews",
-      "published": "2026-09-30T16:45:03.000Z",
-      "summary": "Burkina Faso has inaugurated its first gold refinery as its military-led government seeks to strengthen economic sovereignty after breaking ties with its traditional Western partners."
+      "published": "2026-09-30T18:14:24.000Z",
+      "summary": "Tunisian President Kais Saied on Wednesday softened a cybercrime decree that was widely criticised by rights groups, by scrapping a five-year prison sentence for the dissemination of \"fake…"
     },
     {
       "title": "Senegal's Youth Olympics makes Olympics in Africa 'logical'",
@@ -1427,11 +1432,11 @@ window.GDC_NEWS = {
       "summary": "The Youth Olympics are to be hosted in Africa for the first time ever. The edition in Senegal is also a chance to prove the continent can host a full Olympics in the future."
     },
     {
-      "title": "IATA says African air cargo capacity rose by 14 per cent in August",
-      "link": "http://www.africanews.com/2026/09/30/iata-says-african-air-cargo-capacity-rose-by-14-per-cent-in-august/",
+      "title": "Pix of the Day, 30 September, 2026 - Across the world",
+      "link": "http://www.africanews.com/2026/09/30/pix-of-the-day-30-september-2026-across-the-world/",
       "source": "Africanews",
-      "published": "2026-09-30T15:23:13.000Z",
-      "summary": "The world airline body said this significantly outpaced the 3 per cent growth in cargo demand across the region."
+      "published": "2026-09-30T16:45:03.000Z",
+      "summary": "Burkina Faso has inaugurated its first gold refinery as its military-led government seeks to strengthen economic sovereignty after breaking ties with its traditional Western partners."
     },
     {
       "title": "African leaders herald $16B Dangote oil refinery in Kenya",
@@ -1439,6 +1444,13 @@ window.GDC_NEWS = {
       "source": "Deutsche Welle",
       "published": "2026-09-30T15:11:00.000Z",
       "summary": "An oil refinery on Kenya's coast is expected to be completed in 40 months, and will process an estimated 700,000 barrels of oil per day. Africa's richest man, Aliko Dangote, will lead the…"
+    },
+    {
+      "title": "IATA says African air cargo capacity rose by 14 per cent in August",
+      "link": "http://www.africanews.com/2026/09/30/iata-says-african-air-cargo-capacity-rose-by-14-per-cent-in-august/",
+      "source": "Africanews",
+      "published": "2026-09-30T15:23:13.000Z",
+      "summary": "The world airline body said this significantly outpaced the 3 per cent growth in cargo demand across the region."
     },
     {
       "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
@@ -1667,20 +1679,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-09-30T11:13:47.000Z",
       "summary": "[New Light] The Office of the National Chairman (ONC) has stepped up monitoring of government education programmes in Luweero District, assessing service delivery, school management and the…"
-    },
-    {
-      "title": "Photos: A journalist is crowned king in Uganda",
-      "link": "https://www.aljazeera.com/gallery/2026/9/30/photos-a-journalist-is-crowned-king-in-uganda?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T09:39:00.000Z",
-      "summary": "The death of King Oyo Nyimba in August triggered widespread grief and a succession dispute in Uganda’s Tooro Kingdom."
-    },
-    {
-      "title": "East Africa: Lamu Refinery 'Will Generate 60,000 Jobs' - Dangote",
-      "link": "https://allafrica.com/stories/202609300296.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-30T11:11:55.000Z",
-      "summary": "[Independent (Kampala)] Lamu, Kenya -- The upcoming construction of the multi-trillion-shilling Dangote East Africa Refinery in Lamu is set to transform the region into a massive hub for…"
     }
   ]
 };
