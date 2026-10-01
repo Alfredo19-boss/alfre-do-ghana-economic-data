@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-01T14:42:25.759Z",
+  "updated": "2026-10-01T19:50:54.154Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,62 +25,257 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Daily Insight for CEOs series",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-series/",
+      "title": "Baffour Awuah ready to cooperate fully with EOCO investigation – Bosome Freho MP",
+      "link": "https://www.myjoyonline.com/baffour-awuah-ready-to-cooperate-fully-with-eoco-investigation-bosome-freho-mp/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T14:39:55.000Z",
-      "summary": "The final quarter is a critical period for CEOs. It is a time to accelerate execution, pursue meaningful growth, strengthen leadership effectiveness, and begin preparing the organization…",
+      "published": "2026-10-01T19:39:51.000Z",
+      "summary": "The Member of Parliament for Bosome Freho, Nana Asafo-Adjei Ayeh, says his colleague, Manhyia South MP Nana Agyei Baffour Awuah, is prepared to cooperate fully with the Economic and…",
       "categories": [
-        "Opinion",
-        "CEO",
-        "Daily Insight"
+        "National",
+        "News",
+        "Baffour Awuah",
+        "Bosome Freho MP",
+        "EOCO"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-66-1024x682.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-8.37.48-AM-1024x582.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "How a Ghanaian technology is helping fish farmers detect hidden threats before fish die",
+      "link": "https://www.myjoyonline.com/how-a-ghanaian-technology-is-helping-fish-farmers-detect-hidden-threats-before-fish-die/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-01T19:30:29.000Z",
+      "summary": "Ghana is looking to aquaculture to help close its fish-supply gap. But producing more fish comes with another challenge — keeping them alive. For fish farmers, some of the most dangerous…",
+      "categories": [
+        "Technology",
+        "Aquaculture",
+        "Aquamet",
+        "Fish farmers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-09.53.55-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AI tool helps Ghanaian farmers identify crop threats from field observations",
+      "link": "https://www.myjoyonline.com/ai-tool-helps-ghanaian-farmers-identify-crop-threats-from-field-observations/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-01T19:25:18.000Z",
+      "summary": "For a farmer, a yellow spot on a tomato leaf may seem insignificant. But that small change could be an early sign of a disease or pest infestation that, if not identified and addressed…",
+      "categories": [
+        "National",
+        "Technology",
+        "AI tool",
+        "crop threats",
+        "Farmers",
+        "field observations"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-09.44.29-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NEIP: Designing a Ghana Startup Agency that builds enterprises, not programmes",
+      "link": "https://www.myjoyonline.com/neip-designing-a-ghana-startup-agency-that-builds-enterprises-not-programmes/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-01T19:19:11.000Z",
+      "summary": "The proposed transformation of the National Entrepreneurship and Innovation Programme (NEIP) into a statutory Ghana Startup Agency should be treated as an opportunity for institutional…",
+      "categories": [
+        "News",
+        "Opinion",
+        "Alhasan Adams",
+        "NEIP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261001-WA00561-819x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Breast cancer diagnosis is not a life sentence – Gender Minister urges early treatment",
+      "link": "https://www.myjoyonline.com/breast-cancer-diagnosis-is-not-a-life-sentence-gender-minister-urges-early-treatment/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-01T19:17:14.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has stated that a diagnosis of breast cancer isn’t a life sentence; therefore, individuals should avail…",
+      "categories": [
+        "News",
+        "Breast cancer",
+        "Dr Agnes Naa Momo Lartey"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Being-diagnosed-with-breast-cancer-isnt-a-life-sentence-seek-early-treatment-Gender-Minister-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘How does a bad settlement translate into criminality?’ – Atta Akyea questions EOCO",
+      "link": "https://www.myjoyonline.com/how-does-a-bad-settlement-translate-into-criminality-atta-akyea-questions-eoco/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-01T19:11:41.000Z",
+      "summary": "Lawyer for Manhyia South MP Nana Agyei Baffour Awuah, Samuel Atta Akyea, has questioned the basis of the Economic and Organised Crime Office’s (EOCO) investigation into a settlement…",
+      "categories": [
+        "National",
+        "News",
+        "Atta Akyea",
+        "Bad settlement",
+        "Baffour Awuah",
+        "EOCO"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Samuel-Atta-Akyea.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Foreign Affairs Ministry launches ‘ECOWAS for All’ campaign to boost public awareness",
+      "link": "https://www.myjoyonline.com/foreign-affairs-ministry-launches-ecowas-for-all-campaign-to-boost-public-awareness/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-01T19:03:41.000Z",
+      "summary": "The Ministry of Foreign Affairs has launched “ECOWAS for All”, a national citizens' engagement and public sensitisation campaign aimed at bringing the regional bloc closer to Ghanaians.",
+      "categories": [
+        "National",
+        "ECOWAS for All",
+        "James Gyakye Quayson"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ECOWAS.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Baffour Awuah’s EOCO questioning centred on SIC matter – Bosome Freho MP",
+      "link": "https://www.myjoyonline.com/baffour-awuahs-eoco-questioning-centred-on-sic-matter-bosome-freho-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-01T19:00:36.000Z",
+      "summary": "Member of Parliament for Bosome Freho, Nana Asafo-Adjei Ayeh says the questioning of the Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah, by the Economic and Organised…",
+      "categories": [
+        "National",
+        "News",
+        "Baffour Awuah",
+        "Bosome Freho MP",
+        "EOCO",
+        "SIC Life"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Nana-Agyei-Baffour-Awuah-.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The President’s wallet and the boys who won’t score",
+      "link": "https://ghanaiantimes.com.gh/the-presidents-wallet-and-the-boys-who-wont-score/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T17:13:36.000Z",
+      "summary": "There is a particular type of heartbreak that only eleven grown men chasing a leather sphere can inflict upon a nation. It is a unique Ghanaian tragedy, seasoned with broken promises and…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "President John Mahama joins African leaders at Alamein Africa Forum",
+      "link": "https://ghanaiantimes.com.gh/president-john-mahama-joins-african-leaders-at-alamein-africa-forum/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T17:11:49.000Z",
+      "summary": "President John Dramani Mahama will be joining African heads of state, business leaders, investors and innovators shaping Africa’s next chapter, at the inaugural Alamein Africa Forum…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Contractors move to site to begin construction of 120-Bed Trauma Hospital at Bole – Felix Kwakye Ofosu",
+      "link": "https://ghanaiantimes.com.gh/contractors-move-to-site-to-begin-construction-of-120-bed-trauma-hospital-at-bole-felix-kwakye-ofosu/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T17:10:16.000Z",
+      "summary": "Minister for Government Communications, Felix Kwakye Ofosu, has revealed that contractors have moved to site to begin construction of a 120-bed Specialised Trauma and Emergency Hospital at…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Carlos Queiroz and GFA mutually agree to terminate contract as Black Stars Head Coach",
+      "link": "https://ghanaiantimes.com.gh/carlos-queiroz-and-gfa-mutually-agree-to-terminate-contract-as-black-stars-head-coach/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T17:06:56.000Z",
+      "summary": "Carlos Queiroz and the Ghana Football Association (GFA) have mutually agreed to terminate his contract as Head Coach of the Black Stars. In a statement, the Portuguese coach said the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Vice President to launch six NDC historiographies on October 13",
+      "link": "https://ghanaiantimes.com.gh/vice-president-to-launch-six-ndc-historiographies-on-october-13/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T17:03:12.000Z",
+      "summary": "The Vice President of the Republic of Ghana, Professor Jane Naana Opoku-Agyemang, is expected to serve as the Special Guest of Honour at the launch of six historiographies documenting the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cristiano Ronaldo quits Portugal camp with immediate effect",
+      "link": "https://ghanaiantimes.com.gh/cristiano-ronaldo-quits-portugal-camp-with-immediate-effect/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T17:01:30.000Z",
+      "summary": "Cristiano Ronaldo has sensationally left the Portugal national team camp permanently following a fallout with head coach Jorge Jesus. The Portugal captain announced his decision in a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nukunu FC accepts resignation of Head Coach Christian Chibueze",
+      "link": "https://ghanaiantimes.com.gh/nukunu-fc-accepts-resignation-of-head-coach-christian-chibueze/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T16:59:28.000Z",
+      "summary": "Nukunu FC has announced that head coach Christian Chibueze has resigned. In an official statement, the club said management has accepted the coach’s resignation, citing personal reasons…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Central Regional Prisons Command launches Medicine and Equipment Bank",
+      "link": "https://ghanaiantimes.com.gh/central-regional-prisons-command-launches-medicine-and-equipment-bank/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T16:57:50.000Z",
+      "summary": "The Central Regional Command of the Ghana Prisons Service has launched its Medicine and Equipment Bank at the Pempamsie Hotel in Cape Coast on Wednesday, September 30, 2026, to mobilise…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prof. Emmanuel Osei Sarpong appointed acting NSA boss",
+      "link": "https://www.graphic.com.gh/sports/sports-news/prof-emmanuel-osei-sarpong-appointed-acting-nsa-boss.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-01T15:18:18.000Z",
+      "summary": "Associate Professor of Physical Education and Sports at the University of Education, Winneba (UEW), Professor Emmanuel Osei Sarpong has been appointed Acting Director-General of the…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/01/EMMA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "NSA Director-General Yaw Ampofo Ankrah asked to step down",
       "link": "https://www.graphic.com.gh/sports/sports-news/nsa-director-general-yaw-ampofo-ankrah-asked-to-step-down.html",
       "source": "Graphic Sports",
       "published": "2026-10-01T14:38:35.000Z",
-      "summary": "National Sports Authority (NSA) Director-General, Yaw Ampofo Ankrah, has been asked to step down from his position, bringing his tenure at the sports governing body to an end. Mr Ankrah…",
+      "summary": "National Sports Authority (NSA) Director-General, Yaw Ampofo Ankrah, has been asked to step down from his position, bringing his tenure at the sports governing body to an end. According to…",
       "categories": [
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/ANKRAH.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Government moves to make public institutions buy from Ghanaian farmers",
-      "link": "https://www.myjoyonline.com/government-moves-to-make-public-institutions-buy-from-ghanaian-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T14:35:47.000Z",
-      "summary": "“Ghana’s budget for free secondary education is GH¢5 billion, and feeding accounts for about half of this amount. Let us even say GH¢3 billion,” Dr Forson said.",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "Dr Ato Forson",
-        "Ministry of Finance",
-        "procurement laws"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-2891-e1784823959530-1024x628.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Diesel price to remain below GH¢20 per litre in October after government intervention – NPA",
-      "link": "https://www.myjoyonline.com/diesel-price-to-remain-below-gh%c2%a220-per-litre-in-october-after-government-intervention-npa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T14:31:48.000Z",
-      "summary": "The National Petroleum Authority (NPA) says diesel prices will remain below GH¢20 per litre in the first pricing window of October, following government interventions to cushion consumers…",
-      "categories": [
-        "Energy",
-        "National",
-        "News",
-        "Diesel",
-        "NPA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Diesel-Fuel-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "'I will always carry Ghana with me, with respect and affection' – Queiroz",
@@ -93,85 +288,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/CARLOSS.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Yaw Ampofo Ankrah suspended as NSA Director-General amid World Cup visa controversy",
-      "link": "https://www.myjoyonline.com/yaw-ampofo-ankrah-suspended-as-nsa-director-general-amid-world-cup-visa-controversy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T14:27:16.000Z",
-      "summary": "Yaw Ampofo Ankrah has been suspended from his position as Director-General of the National Sports Authority (NSA), following controversy over an alleged visa facilitation arrangement linked…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "NSA",
-        "yaw ampofo ankrah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_1382-1024x600.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SSNIT increases stake in Societe Generale Ghana to 24.36%",
-      "link": "https://www.myjoyonline.com/ssnit-increases-stake-in-societe-generale-ghana-to-24-36/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T14:12:08.000Z",
-      "summary": "In a statement issued today, SSNIT said the development follows the completion of the acquisition of Société Générale Group’s 60.22% controlling stake in the bank by Attijariwafa Bank and…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Attijariwafa Bank",
-        "BoG",
-        "SEC",
-        "Societe Generale Bank",
-        "SSNIT"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/ssnit-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa cannot rely on government budgets alone to finance climate ambitions – Deputy Finance Minister",
-      "link": "https://www.myjoyonline.com/africa-cannot-rely-on-government-budgets-alone-to-finance-climate-ambitions-deputy-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T13:51:56.000Z",
-      "summary": "Deputy Finance Minister Thomas Nyarko Ampem says Africa cannot rely on government budgets alone to finance its climate ambitions, as countries face growing pressure on public finances.",
-      "categories": [
-        "National",
-        "Africa",
-        "Finance climate"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/31006279.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COMAC gives Finance Ministry 14 days to suspend implementation of Section 136 of Customs Act",
-      "link": "https://www.myjoyonline.com/comac-gives-finance-ministry-14-days-to-suspend-implementation-of-section-136-of-customs-act/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T13:51:54.000Z",
-      "summary": "In a statement, COMAC, pointed out that “we have no interest in disruption, given the essential service its members provide to households and businesses”.",
-      "categories": [
-        "Business",
-        "Energy",
-        "HP Business 3",
-        "COMAC",
-        "Customs Act",
-        "Dr. Riverson Oppong",
-        "Ministry of Finance"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20260924-WA0058-682x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WhatsApp introduces optional parental controls for teenagers",
-      "link": "https://www.myjoyonline.com/whatsapp-introduces-optional-parental-controls-for-teenagers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T13:49:31.000Z",
-      "summary": "WhatsApp is introducing new parental controls for teenagers as tech companies come under pressure to provide more age-appropriate experiences for children.",
-      "categories": [
-        "International",
-        "Technology",
-        "WhatsApp"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2800-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "What went wrong for Nigeria in 3-0 AFCON qualifying defeat to Guinea-Bissau?",
@@ -246,19 +362,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "football facing broader problems …my departure won’t solve it -Queiroz",
-      "link": "https://ghanaiantimes.com.gh/football-facing-broader-problems-my-departure-wont-solve-it-queiroz/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T08:22:55.000Z",
-      "summary": "The Black Stars Head Coach, Carlos Queiroz, has rejected calls for his resignation after Ghana surrendered a two-goal lead to suffer a humiliating 4-2 defeat to The Scorpions of The Gambia…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Black-StarsFelix-Afena-Gyan-in-a-tussle-for-the-ball-with-The-Gambia-defender-James-Gomez-1.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Fire Service controls Avenor fire incident [VIDEO]",
       "link": "https://www.graphic.com.gh/news/general-news/fire-outbreak-at-avenor-in-accra.html",
       "source": "Daily Graphic",
@@ -269,31 +372,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/avenor3.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hundreds participate in Godwin Adukpo’s Ho Hills Challenge",
-      "link": "https://ghanaiantimes.com.gh/hundreds-participate-in-godwin-adukpos-ho-hills-challenge/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T08:13:34.000Z",
-      "summary": "Hundreds of athletes took on the steep and demanding hills of Ho on Saturday as they competed in the maiden Godwin Adukpo Hill Challenge, a 10-kilometre race designed to test endurance…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Godwin-Adukpo-together-with-winners-in-the-boys-category.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Stars lost psychological battle at half time – The Gambia coach",
-      "link": "https://ghanaiantimes.com.gh/black-stars-lost-psychological-battle-at-half-time-the-gambia-coach/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T08:07:16.000Z",
-      "summary": "The Gambia coach, Johnny McKinstry, says he knew his side had won the psychological battle after witnessing Ghana players exchange strong words among themselves in the tunnel at half-time…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Christian, Muslim leaders oppose proposed five-year presidential term",
@@ -308,30 +386,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Djokovic grinds out opening-round win, Auger-Aliassime out",
-      "link": "https://ghanaiantimes.com.gh/djokovic-grinds-out-opening-round-win-auger-aliassime-out/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T08:00:46.000Z",
-      "summary": "Novak Djokovic held his nerve during a tense tie-break to beat Nuno Borges 6-3, 7-6 (7/2) at the China Open yesterday and extend his extraordinary unbeaten streak in Beijing. The…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bulgarian soccer club president shot dead at home",
-      "link": "https://ghanaiantimes.com.gh/bulgarian-soccer-club-president-shot-dead-at-home/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T07:59:11.000Z",
-      "summary": "The president of a top-flight Bulgarian soccer club and prominent businessman was shot dead early yesterday in the city of Plovdiv, police said. Iliyan Filipov, 53, president of the Botev…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Finance, trade connectivity key to unlocking African growth — GCB",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-finance-trade-connectivity-key-to-unlocking-african-growth-gcb.html",
       "source": "Daily Graphic",
@@ -344,30 +398,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Yamal sinks Croatia in Spain’s World Cup homecoming",
-      "link": "https://ghanaiantimes.com.gh/yamal-sinks-croatia-in-spains-world-cup-homecoming/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T07:57:56.000Z",
-      "summary": "Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup. Lamine Yamal had opened…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Morocco replace Ghana with Mali for Oct. 4 friendly",
-      "link": "https://ghanaiantimes.com.gh/morocco-replace-ghana-with-mali-for-oct-4-friendly/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T07:56:30.000Z",
-      "summary": "Morocco will face Mali in a friendly on October 4 at the Grand Stade de Tanger after the Royal Moroccan Football Federation (FRMF) confirmed the West African side as Ghana’s replacement…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Don’t allow work to consume your personal, family lives - Chief Justice admonishes judges, magistrates",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dont-allow-work-to-consume-your-personal-family-lives-chief-justice-admonishes-judges-magistrates.html",
       "source": "Daily Graphic",
@@ -378,18 +408,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/Justice.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Raphinha leaves Brazil camp",
-      "link": "https://ghanaiantimes.com.gh/raphinha-leaves-brazil-camp/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T07:54:44.000Z",
-      "summary": "Raphinha left the Brazil national team squad on Wednesday as a precaution due to swelling in his right thigh, the ‌Brazilian Football Confederation said. The 29-year-old was substituted at…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Tullow to cough up $393m tax - Loses legal battle against GRA",
@@ -425,18 +443,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/29/bennine.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "2027 AFCON Qualifiers: Mensah blames bad luck for Gambia defeat",
-      "link": "https://www.graphic.com.gh/sports/sports-news/2027-afcon-qualifiers-mensah-blames-bad-luck-for-gambia-defeat.html",
-      "source": "Graphic Sports",
-      "published": "2026-09-30T16:57:44.000Z",
-      "summary": "Stand-in Black Stars captain Gideon Mensah has attributed Ghana’s woeful 2-4 defeat to The Gambia in their 2027 Africa Cup of Nations (AFCON) qualifier to a combination of bad luck and an…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/30/GIDEON_MENSAH.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
