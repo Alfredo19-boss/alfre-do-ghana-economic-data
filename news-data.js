@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-09-30T22:28:39.144Z",
-  "worldAt": "2026-09-30T22:28:39.141Z",
+  "updated": "2026-10-01T01:26:38.684Z",
+  "worldAt": "2026-10-01T01:26:38.682Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,7 +27,7 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
@@ -1099,6 +1099,127 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "California bans child marriage, a practice still legal in 32 US states",
+      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-01T00:57:04.000Z",
+      "summary": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f079/live/883c4d20-bd2c-11f1-bc4e-9de2d6f9d7b2.jpg"
+    },
+    {
+      "title": "Iran parades Shahed drones through capital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T00:39:04.000Z",
+      "summary": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran."
+    },
+    {
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-01T00:19:20.000Z",
+      "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T00:00:00.000Z",
+      "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other."
+    },
+    {
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-01T00:08:23.000Z",
+      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4300/live/fc078410-bccb-11f1-9f83-d9975ff80416.jpg"
+    },
+    {
+      "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T23:50:17.000Z",
+      "summary": "An amazed US President Donald Trump relayed the story of how an ‘Israeli plumber’ helped land a Flydubai flight."
+    },
+    {
+      "title": "Trump renews calls for former Federal Reserve chief Jerome Powell's resignation",
+      "link": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
+      "source": "France 24",
+      "published": "2026-09-30T23:44:27.000Z",
+      "summary": "The Federal Reserve's watchdog on Wednesday found no grounds for a criminal referral over a roughly $1 billion cost overrun on renovations to the central bank's Washington buildings, while…",
+      "image": "https://s.france24.com/media/display/174d3e3e-bd00-11f1-a251-816a8398162d/w:1024/p:16x9/a1af0265f11cf71602d750c5f21c83ff210bf872.jpg"
+    },
+    {
+      "title": "The children dying in India's remote tribal heartland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-30T23:41:34.000Z",
+      "summary": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4a/live/aa88d750-bbdc-11f1-bfea-9d5bb7e7d40b.jpg"
+    },
+    {
+      "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+      "link": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T23:31:54.000Z",
+      "summary": "Cases have more than doubled since August as a dispute with federal health officials over the death count continues."
+    },
+    {
+      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-30T23:25:23.000Z",
+      "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035f/live/4e878500-bcdb-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T23:15:00.000Z",
+      "summary": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media."
+    },
+    {
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-30T23:10:19.000Z",
+      "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg"
+    },
+    {
+      "title": "France: Hundreds arrested as student protests escalate",
+      "link": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-09-30T23:02:00.000Z",
+      "summary": "Student protests have grown in scale and intensity, with violent clashes in some places leading to hundreds of arrests and dozens of injuries."
+    },
+    {
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-09-30T23:10:06.000Z",
+      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg"
+    },
+    {
+      "title": "Swiss glaciers suffer another year of record ice loss",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+      "source": "NPR World",
+      "published": "2026-09-30T23:00:00.000Z",
+      "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1429+0+0/resize/2000x1429!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F06%2F92fb3d454823b47041801337f49b%2F03-clariden-mhuss.jpg"
+    },
+    {
+      "title": "US Senate rejects bill targeting AI data centre electricity costs",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T22:58:21.000Z",
+      "summary": "Democrats criticise bill as lacking 'teeth' and push for mandatory measures to address soaring electricity bills."
+    },
+    {
       "title": "U.S. military forces formally left Iraq today, marking a new era",
       "link": "https://www.npr.org/2026/09/30/nx-s1-5983521/u-s-military-forces-formally-left-iraq-today-marking-a-new-era",
       "source": "NPR World",
@@ -1114,11 +1235,25 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/2c2a999a-bd1a-11f1-8121-d367a0468893/w:1024/p:16x9/063-2296482973.jpg"
     },
     {
+      "title": "Hong Kong journalist arrested on sedition charge",
+      "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T22:16:01.000Z",
+      "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern."
+    },
+    {
       "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
       "link": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "published": "2026-09-30T22:10:00.000Z",
       "summary": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is creeping west toward the coast, preventing…"
+    },
+    {
+      "title": "Russian drone crashes into Kyiv playground without exploding",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T22:13:35.000Z",
+      "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding."
     },
     {
       "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
@@ -1190,11 +1325,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/af69c10a-bd10-11f1-8116-d367a0468893/w:1024/p:16x9/EN-20260930-223109-224328-CS.jpg"
     },
     {
-      "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
+      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
       "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-09-30T21:01:13.000Z",
-      "summary": "Powe rationing hours are to increase as a result of the blast."
+      "summary": "Gunmen attack bus in Homs province hours after a pipeline explosion knocked out three power plants near Damascus."
     },
     {
       "title": "Ethiopian AI expert, Timnit Gebru, wins 'alternative Nobel'",
@@ -1261,141 +1396,16 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-09-30T19:46:35.000Z",
       "summary": "FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade."
-    },
-    {
-      "title": "Five EU states plan first deportation center in Africa for 2027",
-      "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-30T19:16:00.000Z",
-      "summary": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partner country has reportedly already been…"
-    },
-    {
-      "title": "How does Trump’s White House AI accord work?",
-      "link": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:44:42.000Z",
-      "summary": "Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations."
-    },
-    {
-      "title": "Ronaldo leaves Portugal training camp after coach drops him from upcoming match",
-      "link": "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
-      "source": "France 24",
-      "published": "2026-09-30T19:14:33.000Z",
-      "summary": "Portugal captain and striker Cristiano Ronaldo said Wednesday he had walked out on the national team's training camp in Copenhagen after coach Jorge Jesus announced the 41-year-old player…",
-      "image": "https://s.france24.com/media/display/a94802c6-bcf9-11f1-ab0c-ddce071186a9/w:1024/p:16x9/5e59e151fd9de4028ee658699a78fdd885897e2d.jpg"
-    },
-    {
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:43:47.000Z",
-      "summary": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship."
-    },
-    {
-      "title": "Clashes between French teens, police as school blockades intensify",
-      "link": "https://www.france24.com/en/clashes-between-french-teens-police-as-school-blockades-intensify",
-      "source": "France 24",
-      "published": "2026-09-30T19:07:32.000Z",
-      "summary": "French teenagers on Tuesday set fire to rubbish bins and threw projectiles at police who responded with batons and tear gas, with hundreds detained across the country over the blockades and…",
-      "image": "https://s.france24.com/media/display/5b148b08-bd01-11f1-ac56-1b050e7dec5f/w:1024/p:16x9/EN-20260930-204115-204316-CS.jpg"
-    },
-    {
-      "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
-      "link": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:41:43.000Z",
-      "summary": "Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021."
-    },
-    {
-      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
-      "source": "France 24",
-      "published": "2026-09-30T19:04:20.000Z",
-      "summary": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats…",
-      "image": "https://s.france24.com/media/display/b4b4ab32-b81c-11f1-9a75-9d4ae5c4ba17/w:1024/p:16x9/2026-09-24T101012Z-919341318-RC2KPNA74E5F-RTRMADP-3-ETHIOPIA-SECURITY.jpg"
-    },
-    {
-      "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-      "link": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:39:50.000Z",
-      "summary": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt."
-    },
-    {
-      "title": "British PM alleges there are 'strong indications' Iran was involved in Fairford airbase incident",
-      "link": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
-      "source": "France 24",
-      "published": "2026-09-30T19:01:30.000Z",
-      "summary": "UK Prime Minister Andy Burnham on Wednesday insisted that there were \"strong indications\" that Tehran was involved in a security incident on Sunday near an airbase in England that the US…",
-      "image": "https://s.france24.com/media/display/79072c1c-bc0a-11f1-9add-555a0aff87a4/w:1024/p:16x9/2026-09-29T064654Z-1635109463-RC2USNAUC1I4-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg"
-    },
-    {
-      "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:24:11.000Z",
-      "summary": "Trump said former Fed chair Jerome Powell should resign anyway."
-    },
-    {
-      "title": "Tunisia president softens 'fake news' decree after criticism by rights groups",
-      "link": "http://www.africanews.com/2026/09/30/tunisia-president-softens-fake-news-decree-after-criticism-by-rights-groups/",
-      "source": "Africanews",
-      "published": "2026-09-30T18:14:24.000Z",
-      "summary": "Tunisian President Kais Saied on Wednesday softened a cybercrime decree that was widely criticised by rights groups, by scrapping a five-year prison sentence for the dissemination of \"fake…"
-    },
-    {
-      "title": "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
-      "link": "https://www.aljazeera.com/news/2026/9/30/saudi-crown-prince-says-no-compromise-on-kingdoms-security-against-threats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:20:04.000Z",
-      "summary": "Crown Prince Mohammed bin Salman says the kingdom 'will not hesitate to respond firmly to any threat'."
-    },
-    {
-      "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
-      "source": "NPR World",
-      "published": "2026-09-30T17:51:42.000Z",
-      "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F7c%2Fa4d053f446749491f915fc9bc529%2Ffarflungpostcard-syria.jpg"
-    },
-    {
-      "title": "Norway launches probe into 11 senior officials over US Epstein files links",
-      "link": "https://www.aljazeera.com/news/2026/9/30/norway-launches-probe-into-11-senior-officials-over-us-epstein-files-links?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:10:03.000Z",
-      "summary": "Norway investigates over $13m in state grants linked to Epstein and top ministers."
-    },
-    {
-      "title": "Are the Houthis winning against Saudi Arabia?",
-      "link": "https://www.dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-09-30T17:23:00.000Z",
-      "summary": "It's unclear how the Saudis can defuse the threat presented by the Houthis in next-door Yemen or who they can turn to for help. The US isn't interested, the Europeans are hedging and nobody…"
-    },
-    {
-      "title": "US FCC head says controversial Trump ads do not raise concerns",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-fcc-head-says-controversial-trump-ads-do-not-raise-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:07:13.000Z",
-      "summary": "Series of publicly-funded television spots have been criticised by Republicans and Democrats as self-promotion by Trump."
-    },
-    {
-      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-09-30T17:14:03.000Z",
-      "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8a/live/2bc20fe0-bcef-11f1-8ce2-417f8f7cb095.jpg"
-    },
-    {
-      "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-      "link": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T18:52:51.000Z",
-      "summary": "Moscow claims that NATO is preparing an air and naval blockade in the Baltic Sea."
     }
   ],
   "africa": [
+    {
+      "title": "Angola: DP World to Invest More Than USD 90 Million in Angola",
+      "link": "https://allafrica.com/stories/202609300772.html",
+      "source": "AllAfrica Business",
+      "published": "2026-09-30T23:29:21.000Z",
+      "summary": "[ANGOP] Talatona -- DP World plans to invest more than USD 90 million in Angola over the next two years, its CEO for Africa, Mohammed Akoojee, announced in Luanda on Monday."
+    },
     {
       "title": "Zimbabwe: Wicknell Chivayo and Wife, Lulu, Killed in Helicopter Crash - Report",
       "link": "https://allafrica.com/stories/202609300702.html",
@@ -1672,13 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-09-30T09:42:32.000Z",
       "summary": "[Daily News] President Dr Samia Suluhu Hassan yesterday appointed 22 new District Commissioners (DCs) and transferred 26 others in changes aimed at improving the efficiency of government…"
-    },
-    {
-      "title": "Uganda: Attendance Gaps, Infrastructure Needs Flagged in Luweero Schools",
-      "link": "https://allafrica.com/stories/202609300305.html",
-      "source": "AllAfrica Business",
-      "published": "2026-09-30T11:13:47.000Z",
-      "summary": "[New Light] The Office of the National Chairman (ONC) has stepped up monitoring of government education programmes in Luweero District, assessing service delivery, school management and the…"
     }
   ]
 };

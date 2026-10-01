@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-09-30T22:28:51.171Z",
+  "updated": "2026-10-01T01:26:51.323Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,122 +25,146 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Afoko can unite NPP’s factions, says Charles Owusu Juanah",
-      "link": "https://www.myjoyonline.com/afoko-can-unite-npps-factions-says-charles-owusu-juanah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T22:20:28.000Z",
-      "summary": "Private legal practitioner and New Patriotic Party (NPP) stalwart Charles Owusu Juanah says former NPP National Chairman Paul Afoko has begun engaging members of opposing camps within the…",
+      "title": "To the Moon: The Phrase That Moved Markets and What It Actually Means",
+      "link": "https://ghanaiantimes.com.gh/to-the-moon-the-phrase-that-moved-markets-and-what-it-actually-means/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-01T00:49:48.000Z",
+      "summary": "Language moves crypto markets. Not because words change fundamentals, but because in a market where retail participation is disproportionately large and sentiment is disproportionately…",
       "categories": [
-        "News",
-        "Politics",
-        "NPP",
-        "Paul Afoko",
-        "Unity"
+        "Technology"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/1-125-832x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/image-1024x687.png",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Guardiola backing Man City after guilty verdicts",
-      "link": "https://www.myjoyonline.com/guardiola-backing-man-city-after-guilty-verdicts/",
+      "title": "Ghana lose Morocco friendly as Atlas Lions turn to Mali",
+      "link": "https://www.myjoyonline.com/ghana-lose-morocco-friendly-as-atlas-lions-turn-to-mali/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T22:14:00.000Z",
-      "summary": "Former manager Pep Guardiola has backed Manchester City's owners and leadership and says he will \"always\" be behind the club after they were found guilty of all charges related to breaches…",
+      "published": "2026-09-30T23:57:30.000Z",
+      "summary": "Morocco will face Mali in an international friendly on Sunday, October 4, after their planned meeting with Ghana was cancelled.",
       "categories": [
         "Football",
-        "Man City",
-        "Pep Guardiola"
+        "Sports",
+        "Ghana",
+        "International friendly",
+        "Mali",
+        "Morroco"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-4002.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Black-Stars-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Annoh-Dompreh questions EOCO’s claim that Manhyia South MP was unavailable for questioning",
-      "link": "https://www.myjoyonline.com/annoh-dompreh-questions-eocos-claim-that-manhyia-south-mp-was-unavailable-for-questioning/",
+      "title": "2026/2027 GPL: Kelvin Nkrumah strike sends Medeama top of league table",
+      "link": "https://www.myjoyonline.com/2026-2027-gpl-kelvin-nkrumah-strike-sends-medeama-top-of-league-table/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T22:13:45.000Z",
-      "summary": "Minority Chief Whip in Parliament, Frank Annoh-Dompreh, has questioned EOCO’s claim that it exhausted reasonable avenues to secure the voluntary attendance of Manhyia South MP Nana Agyei…",
+      "published": "2026-09-30T23:51:33.000Z",
+      "summary": "Medeama SC have moved to the top of the Ghana Premier League table after beating Port City FC 1-0 in their outstanding Week 2 fixture on Wednesday.",
+      "categories": [
+        "Football",
+        "Sports",
+        "2026/2027 GPL",
+        "Medeama SC",
+        "Port city"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/medeama-beat-port-city.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Emmanuel City crowned champions of maiden Global Game Scouting Tournament",
+      "link": "https://www.myjoyonline.com/emmanuel-city-crowned-champions-of-maiden-global-game-scouting-tournament/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T23:42:37.000Z",
+      "summary": "Emmanuel City have been crowned champions of the maiden Global Game Scouting Tournament after beating Teshie Football Academy on penalties at the McDan Astro-turf in Labadi.",
+      "categories": [
+        "Football",
+        "HP Sports 6",
+        "Sports",
+        "Alfie Apps",
+        "Drew Cook",
+        "Emmanuel City",
+        "Global Game Scouting Tournament",
+        "Maxwell Asimanyi",
+        "Teshie Football Academy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-11.39.01-PM-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Thomas Partey loses father Jacob Teye Partey",
+      "link": "https://www.myjoyonline.com/thomas-partey-loses-father-jacob-teye-partey/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T23:30:01.000Z",
+      "summary": "Ghana midfielder Thomas Partey is mourning the death of his father, Jacob Teye Partey.",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Black Stars",
+        "Jacob Teye Partey",
+        "Thomas Partey"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Jacob-Partey-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Martin Kpebu explains when EOCO can arrest Manhyia South MP after securing court warrant",
+      "link": "https://www.myjoyonline.com/martin-kpebu-explains-when-eoco-can-arrest-manhyia-south-mp-after-securing-court-warrant/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T23:12:11.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has explained the circumstances under which the Economic and Organised Crime Office (EOCO) can arrest the Manhyia South MP, Nana Agyei Baffour Awuah…",
       "categories": [
         "National",
         "News",
-        "Annoh-Dompreh",
         "EOCO",
+        "Manhyia South MP",
+        "Martin Kpebu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/328202525235-n6ium8x432-baffour-awuah.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EOCO’s reasons for seeking Manhyia South MP arrest warrant not justified – Kpebu",
+      "link": "https://www.myjoyonline.com/eocos-reasons-for-seeking-manhyia-south-mp-arrest-warrant-not-justified-kpebu/",
+      "source": "MyJoyOnline",
+      "published": "2026-09-30T23:09:09.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has rejected EOCO’s reasons for seeking a court warrant to arrest Manhyia South MP Nana Agyei Baffour Awuah, including its claim that it had…",
+      "categories": [
+        "National",
+        "News",
+        "EOCO",
+        "Kpebu",
         "Manhyia South MP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-1.20.41-pm-1024x677.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/02/Martin-Kpebu1-Copy-696x436-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Djokovic wins first match since Wimbledon at China Open",
-      "link": "https://www.myjoyonline.com/djokovic-wins-first-match-since-wimbledon-at-china-open/",
+      "title": "MTN Ghana warns SMEs against sharing PINs amid digital fraud risks",
+      "link": "https://www.myjoyonline.com/mtn-ghana-warns-smes-against-sharing-pins-amid-digital-fraud-risks/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T22:01:20.000Z",
-      "summary": "Novak Djokovic maintained his remarkable unbeaten record at the China Open, beating Nuno Borges to secure his first win since reaching the Wimbledon semi-finals in July.",
-      "categories": [
-        "Tennis",
-        "Novak Djokovic"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3844.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KAIPTC, National Peace Council move to bridge civilian-security trust deficit to counter violent extremism",
-      "link": "https://www.myjoyonline.com/kaiptc-national-peace-council-move-to-bridge-civilian-security-trust-deficit-to-counter-violent-extremism/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T21:54:15.000Z",
-      "summary": "The Kofi Annan International Peacekeeping Training Centre (KAIPTC) and the National Peace Council (NPC), with support from the Embassy of Spain in Ghana, have launched a multi-stakeholder…",
+      "published": "2026-09-30T23:07:25.000Z",
+      "summary": "Small and medium-sized enterprises (SMEs) have been cautioned by MTN against sharing their personal identification numbers (PINs) or responding to suspicious codes and links, stressing that…",
       "categories": [
         "National",
-        "Kofi Annan International Peacekeeping Training Centre (KAIPTC)",
-        "National peace council",
-        "Violent extremism"
+        "MTN",
+        "sharing PINs",
+        "SMEs"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-17.17.44-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3993-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Infantino should have no place in future of football – Pinto",
-      "link": "https://www.myjoyonline.com/infantino-should-have-no-place-in-future-of-football-pinto/",
+      "title": "Yendi nursing students warn restricted access to skills lab could affect their training",
+      "link": "https://www.myjoyonline.com/yendi-nursing-students-warn-restricted-access-to-skills-lab-could-affect-their-training/",
       "source": "MyJoyOnline",
-      "published": "2026-09-30T21:51:36.000Z",
-      "summary": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Fifa president Gianni Infantino \"should have no place in the future of the…",
+      "published": "2026-09-30T23:07:01.000Z",
+      "summary": "Nursing students at the Yendi College of Health Sciences say they are being denied access to their skills laboratory, raising concerns that the situation could affect their practical…",
       "categories": [
-        "Football",
-        "FIFA",
-        "Gianni Infantino",
-        "UEFA"
+        "Regional",
+        "Nursing students",
+        "Yendi College of Health Sciences"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-4001.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A decade of duty: First Commander recounts the unexpected birth of Ministries Fire Station",
-      "link": "https://www.myjoyonline.com/a-decade-of-duty-first-commander-recounts-the-unexpected-birth-of-ministries-fire-station/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T21:48:54.000Z",
-      "summary": "The Ministries Fire Station in Accra has marked a decade of dedicated service with a heartfelt 10th anniversary thanksgiving service, revealing a remarkable journey of transformation…",
-      "categories": [
-        "National",
-        "First Commander",
-        "Ministries Fire Station"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-30-at-14.02.53.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim must cultivate more business leaders, entrepreneurs – Nana Awuah",
-      "link": "https://www.myjoyonline.com/mfantsipim-must-cultivate-more-business-leaders-entrepreneurs-nana-awuah/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T21:47:15.000Z",
-      "summary": "Managing Partner of Parkwood and Mossane and a 2006 year-group student of Mfantsipim School, Nana Akwasi Awuah, has called for a stronger focus on entrepreneurship and business leadership…",
-      "categories": [
-        "Education",
-        "National",
-        "Mfantsipim Old Boys Association (MOBA)",
-        "Mfantsipim School",
-        "Nana Akwasi Awuah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/annual-engagement-series-xi-hen-1-2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3989-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -315,19 +339,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/30/CARLOS.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana wins $393m Tullow Tax Arbitration",
-      "link": "https://ghanaiantimes.com.gh/ghana-wins-393m-tullow-tax-arbitration/",
-      "source": "Ghanaian Times",
-      "published": "2026-09-30T15:21:53.000Z",
-      "summary": "Ghana has won an international tax arbitration case against Tullow Ghana Limited over the taxation of business interruption insurance proceeds. The Ministry of Finance said an arbitral…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Queiroz apologises to Ghanaians after Gambia defeat",
