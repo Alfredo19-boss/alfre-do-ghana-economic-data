@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-01T19:50:54.154Z",
+  "updated": "2026-10-01T23:29:26.001Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,129 +25,144 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Baffour Awuah ready to cooperate fully with EOCO investigation – Bosome Freho MP",
-      "link": "https://www.myjoyonline.com/baffour-awuah-ready-to-cooperate-fully-with-eoco-investigation-bosome-freho-mp/",
+      "title": "Asylum votes show people want help, says Kemi Badenoch",
+      "link": "https://www.myjoyonline.com/asylum-votes-show-people-want-help-says-kemi-badenoch/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:39:51.000Z",
-      "summary": "The Member of Parliament for Bosome Freho, Nana Asafo-Adjei Ayeh, says his colleague, Manhyia South MP Nana Agyei Baffour Awuah, is prepared to cooperate fully with the Economic and…",
+      "published": "2026-10-01T23:03:00.000Z",
+      "summary": "The Conservative leader says referendums on whether asylum seekers should be housed in military camps are \"a good way of showing the strength of public feeling\".",
       "categories": [
-        "National",
-        "News",
-        "Baffour Awuah",
-        "Bosome Freho MP",
-        "EOCO"
+        "International",
+        "Kemi Badenoch",
+        "UK asylum"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-8.37.48-AM-1024x582.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-164-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "How a Ghanaian technology is helping fish farmers detect hidden threats before fish die",
-      "link": "https://www.myjoyonline.com/how-a-ghanaian-technology-is-helping-fish-farmers-detect-hidden-threats-before-fish-die/",
+      "title": "Badenoch welcomes expanded grooming gangs inquiry",
+      "link": "https://www.myjoyonline.com/badenoch-welcomes-expanded-grooming-gangs-inquiry/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:30:29.000Z",
-      "summary": "Ghana is looking to aquaculture to help close its fish-supply gap. But producing more fish comes with another challenge — keeping them alive. For fish farmers, some of the most dangerous…",
+      "published": "2026-10-01T23:02:00.000Z",
+      "summary": "Conservative party leader Kemi Badenoch has said she welcomes the inclusion of Birmingham in a national inquiry into child sexual exploitation, and hopes it moves quickly to get justice for…",
       "categories": [
-        "Technology",
-        "Aquaculture",
-        "Aquamet",
-        "Fish farmers"
+        "International",
+        "Conservative party leader",
+        "Kemi Badenoch",
+        "UK"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-09.53.55-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-162-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "AI tool helps Ghanaian farmers identify crop threats from field observations",
-      "link": "https://www.myjoyonline.com/ai-tool-helps-ghanaian-farmers-identify-crop-threats-from-field-observations/",
+      "title": "GACL MD sues Samuel Buabeng over alleged Facebook defamation",
+      "link": "https://www.myjoyonline.com/gacl-md-sues-samuel-buabeng-over-alleged-facebook-defamation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:25:18.000Z",
-      "summary": "For a farmer, a yellow spot on a tomato leaf may seem insignificant. But that small change could be an early sign of a disease or pest infestation that, if not identified and addressed…",
+      "published": "2026-10-01T22:56:56.000Z",
+      "summary": "Mrs Yvonne Nana Afriyie Opare, Managing Director of the Ghana Airports Company Limited (GACL), has sued Mr Samuel Bryan Buabeng, a Facebook user, over alleged defamatory words and…",
       "categories": [
-        "National",
-        "Technology",
-        "AI tool",
-        "crop threats",
-        "Farmers",
-        "field observations"
+        "Regional",
+        "facebook defamation",
+        "Ghana Airports Company Limited (GACL)",
+        "Samuel Bryan Buabeng",
+        "Yvonne Nana Afriyie Opare"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-09.44.29-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/law-theme-gavel-mallet-judge-600nw-2482775329.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NEIP: Designing a Ghana Startup Agency that builds enterprises, not programmes",
-      "link": "https://www.myjoyonline.com/neip-designing-a-ghana-startup-agency-that-builds-enterprises-not-programmes/",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "link": "https://www.myjoyonline.com/christa-pike-in-critical-condition-after-surviving-two-lethal-injections-lawyer-says/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:19:11.000Z",
-      "summary": "The proposed transformation of the National Entrepreneurship and Innovation Programme (NEIP) into a statutory Ghana Startup Agency should be treated as an opportunity for institutional…",
+      "published": "2026-10-01T22:53:00.000Z",
+      "summary": "Tennessee death row inmate Christa Pike is in \"critical condition, receiving life-saving care\" at hospital, after surviving two lethal injection attempts, leading the state's governor to…",
       "categories": [
-        "News",
-        "Opinion",
-        "Alhasan Adams",
-        "NEIP"
+        "International",
+        "Christa Pike",
+        "Lethal injection"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261001-WA00561-819x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-7-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Breast cancer diagnosis is not a life sentence – Gender Minister urges early treatment",
-      "link": "https://www.myjoyonline.com/breast-cancer-diagnosis-is-not-a-life-sentence-gender-minister-urges-early-treatment/",
+      "title": "Kemi Badenoch backs face covering ban at protest",
+      "link": "https://www.myjoyonline.com/kemi-badenoch-backs-face-covering-ban-at-protest/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:17:14.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has stated that a diagnosis of breast cancer isn’t a life sentence; therefore, individuals should avail…",
+      "published": "2026-10-01T22:39:22.000Z",
+      "summary": "Conservative leader Kemi Badenoch says she would support a ban on face coverings at protests if police believe one is needed.",
       "categories": [
-        "News",
-        "Breast cancer",
-        "Dr Agnes Naa Momo Lartey"
+        "International",
+        "Conservative leader",
+        "Kemi Badenoch"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Being-diagnosed-with-breast-cancer-isnt-a-life-sentence-seek-early-treatment-Gender-Minister-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-161-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘How does a bad settlement translate into criminality?’ – Atta Akyea questions EOCO",
-      "link": "https://www.myjoyonline.com/how-does-a-bad-settlement-translate-into-criminality-atta-akyea-questions-eoco/",
+      "title": "Man City not ‘above the rules’, says No 10 after backlash to Burnham remarks",
+      "link": "https://www.myjoyonline.com/man-city-not-above-the-rules-says-no-10-after-backlash-to-burnham-remarks/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:11:41.000Z",
-      "summary": "Lawyer for Manhyia South MP Nana Agyei Baffour Awuah, Samuel Atta Akyea, has questioned the basis of the Economic and Organised Crime Office’s (EOCO) investigation into a settlement…",
+      "published": "2026-10-01T22:31:00.000Z",
+      "summary": "Downing Street has said Manchester City are not \"above the rules\" after Andy Burnham was criticised for his comments about the club's breaches of Premier League financial rules.",
       "categories": [
-        "National",
-        "News",
-        "Atta Akyea",
-        "Bad settlement",
-        "Baffour Awuah",
-        "EOCO"
+        "Business",
+        "Football",
+        "Andy Burnham",
+        "Man City"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Samuel-Atta-Akyea.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-160-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Foreign Affairs Ministry launches ‘ECOWAS for All’ campaign to boost public awareness",
-      "link": "https://www.myjoyonline.com/foreign-affairs-ministry-launches-ecowas-for-all-campaign-to-boost-public-awareness/",
+      "title": "Real Madrid submit ‘substantial’ dossier in Barca payments case",
+      "link": "https://www.myjoyonline.com/real-madrid-submit-substantial-dossier-in-barca-payments-case/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:03:41.000Z",
-      "summary": "The Ministry of Foreign Affairs has launched “ECOWAS for All”, a national citizens' engagement and public sensitisation campaign aimed at bringing the regional bloc closer to Ghanaians.",
+      "published": "2026-10-01T22:22:00.000Z",
+      "summary": "Real Madrid says it has sent UEFA \"evidence of extraordinary gravity\" regarding payments made by Barcelona to a former vice-president of Spain's referees' committee.",
       "categories": [
-        "National",
-        "ECOWAS for All",
-        "James Gyakye Quayson"
+        "Football",
+        "FC Barcelona",
+        "Real Madrid"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ECOWAS.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-159.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Baffour Awuah’s EOCO questioning centred on SIC matter – Bosome Freho MP",
-      "link": "https://www.myjoyonline.com/baffour-awuahs-eoco-questioning-centred-on-sic-matter-bosome-freho-mp/",
+      "title": "Messi completes purchase of second Spanish club",
+      "link": "https://www.myjoyonline.com/messi-completes-purchase-of-second-spanish-club/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T19:00:36.000Z",
-      "summary": "Member of Parliament for Bosome Freho, Nana Asafo-Adjei Ayeh says the questioning of the Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah, by the Economic and Organised…",
+      "published": "2026-10-01T22:13:51.000Z",
+      "summary": "Lionel Messi has completed his purchase of Spanish second-division club CD Eldense.",
       "categories": [
-        "National",
-        "News",
-        "Baffour Awuah",
-        "Bosome Freho MP",
-        "EOCO",
-        "SIC Life"
+        "Football",
+        "Cornella",
+        "Messi"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Nana-Agyei-Baffour-Awuah-.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-1572.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "University of Ghana Debate Society to represent Ghana at 2027 World Universities Debate Championship",
+      "link": "https://www.graphic.com.gh/news/education/university-of-ghana-debate-society-to-represent-ghana-at-2027-world-universities-debate-championship.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-01T21:33:39.000Z",
+      "summary": "The University of Ghana Debate Society is set to represent Ghana at the 2027 World Universities Debate Championship (WUDC) in Ottawa, Canada, after securing qualification through its…",
+      "categories": [
+        "Education"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama to open national conference on housing finance",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-open-national-conference-on-housing-finance.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-01T21:26:57.000Z",
+      "summary": "President John Dramani Mahama is expected to open the two-day National Conference on Housing Finance on October 7, 2026, in Accra, with stakeholders set to deliberate on innovative…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "The President’s wallet and the boys who won’t score",
@@ -407,30 +422,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/Justice.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Tullow to cough up $393m tax - Loses legal battle against GRA",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-tullow-to-cough-up-393m-tax-loses-legal-battle-against-gra.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-01T07:52:08.000Z",
-      "summary": "The International Court of Arbitration of the International Chamber of Commerce (ICC) has dismissed a challenge to a $393 million tax assessment liability and a penalty on Tullow Ghana…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/01/Jean-Medard.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GMTF, HeFRA explore partnership to strengthen healthcare regulation",
-      "link": "https://www.graphic.com.gh/news/general-news/gmtf-hefra-explore-partnership-to-strengthen-healthcare-regulation.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-01T07:47:50.000Z",
-      "summary": "The Health Facilities Regulatory Agency (HeFRA) and the Ghana Medical Trust Fund (GMTF) have begun discussions on a strategic partnership aimed at strengthening healthcare delivery and…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
