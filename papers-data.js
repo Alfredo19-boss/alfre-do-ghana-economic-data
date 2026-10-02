@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-02T02:30:02.877Z",
+  "updated": "2026-10-02T08:53:12.348Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,120 +25,235 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Mobile Money Fintech LTD, UMB train hairdressers and beauticians",
-      "link": "https://www.myjoyonline.com/mobile-money-fintech-ltd-umb-train-hairdressers-and-beauticians/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T00:11:16.000Z",
-      "summary": "Mobile Money Fintech LTD, in partnership with UMB Bank, has completed the third and final session of its financial literacy and capacity-building workshop for Micro, Small and Medium…",
+      "title": "FGBMFI Ladies settle hospital bills at Korle Bu, Ridge hospitals for detained mothers",
+      "link": "https://ghanaiantimes.com.gh/fgbmfi-ladies-settle-hospital-bills-at-korle-bu-ridge-hospitals-for-detained-mothers/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:44:38.000Z",
+      "summary": "The Ladies of the Fellowship of the Full Gospel Business Men’s Fellowship International (FGBMFI-Ghana) have paid GH¢303,100 to secure the release of female patients, including mothers…",
       "categories": [
-        "Photo Story",
-        "Hair dressers",
-        "MobileMoney Fintech Limited",
-        "UMB bank"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_0617_2.jpg",
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Yendi Assembly dismisses ‘ghost boreholes’ report",
+      "link": "https://ghanaiantimes.com.gh/yendi-assembly-dismisses-ghost-boreholes-report/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:42:25.000Z",
+      "summary": "The Yendi Municipal Assembly has described as inaccurate a report alleging that some boreholes under the Gulf of Guinea Northern Regions Social Cohesion (SOCO) Project existed only on…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Senior Military Officers urged to drive institutional transformation",
+      "link": "https://ghanaiantimes.com.gh/senior-military-officers-urged-to-drive-institutional-transformation/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:40:26.000Z",
+      "summary": "The maiden Chief of the Defence Staff’s (CDS) Generals’ Seminar of the Ghana Armed Forces (GAF) ended in Accra yesterday with a call on senior military officers to become agents of…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GMTF supports 9 hospitals with critical medical equipment",
+      "link": "https://ghanaiantimes.com.gh/gmtf-supports-9-hospitals-with-critical-medical-equipment/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:38:14.000Z",
+      "summary": "The Ghana Medical Trust Fund (GMTF) has extended its nationwide healthcare support to nine more hospitals with the delivery of critical medical equipment as part of activities marking the…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Boankra Inland Port can’t be abandoned – Ashanti Regional Minister",
+      "link": "https://ghanaiantimes.com.gh/boankra-inland-port-cant-be-abandoned-ashanti-regional-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:34:53.000Z",
+      "summary": "The Ashanti Regional Minister, Dr Frank Amoakohene, has identified inadequate funding as a major factor delaying the completion of the Boankra Integrated and Logistics Terminal (BILT)…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Boankra-Inland-Port-xxxx-1024x576.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Senyocue: Highlife will dominate global music in the next 20 years",
+      "link": "https://www.myjoyonline.com/senyocue-highlife-will-dominate-global-music-in-the-next-20-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T08:32:35.000Z",
+      "summary": "The next generation will take those elements even further. Highlife will not just survive the future. It will shape it.",
+      "categories": [
+        "Arts and Culture",
+        "HP Entertainment 2",
+        "HP Opinion 1",
+        "Music",
+        "Global music",
+        "Highlife",
+        "Senyocue"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/431bf9b9-7a05-4b44-b288-a8bc47cc4a24-1024x646.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Asylum votes show people want help, says Kemi Badenoch",
-      "link": "https://www.myjoyonline.com/asylum-votes-show-people-want-help-says-kemi-badenoch/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T23:03:00.000Z",
-      "summary": "The Conservative leader says referendums on whether asylum seekers should be housed in military camps are \"a good way of showing the strength of public feeling\".",
+      "title": "How Mobile-First Design Is Changing the Online Casino Experience",
+      "link": "https://ghanaiantimes.com.gh/how-mobile-first-design-is-changing-the-online-casino-experience/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:28:38.000Z",
+      "summary": "Open a browser or an app store on any busy commute and the pattern is clear: people now expect entertainment to fit in their pocket. Online casinos are no exception. What began as desktop…",
       "categories": [
-        "International",
-        "Kemi Badenoch",
-        "UK asylum"
+        "Technology"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-164-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Badenoch welcomes expanded grooming gangs inquiry",
-      "link": "https://www.myjoyonline.com/badenoch-welcomes-expanded-grooming-gangs-inquiry/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T23:02:00.000Z",
-      "summary": "Conservative party leader Kemi Badenoch has said she welcomes the inclusion of Birmingham in a national inquiry into child sexual exploitation, and hopes it moves quickly to get justice for…",
+      "title": "James Town harbour battles waste, siltation",
+      "link": "https://ghanaiantimes.com.gh/james-town-harbour-battles-waste-siltation/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:24:02.000Z",
+      "summary": "The General Manager of the James Town Fishing Harbour, Mr Stephen Owiah, has appealed to the government to extend the harbour’s breakwater to prevent waste carried in by the sea from…",
       "categories": [
-        "International",
-        "Conservative party leader",
-        "Kemi Badenoch",
-        "UK"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-162-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GACL MD sues Samuel Buabeng over alleged Facebook defamation",
-      "link": "https://www.myjoyonline.com/gacl-md-sues-samuel-buabeng-over-alleged-facebook-defamation/",
+      "title": "Innovare Limited congratulates Ahantaman Community Bank on ISO/IEC 27001:2022 certification urges others to follow suit",
+      "link": "https://www.myjoyonline.com/innovare-limited-congratulates-ahantaman-community-bank-on-iso-iec-270012022-certification-urges-others-to-follow-suit/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T22:56:56.000Z",
-      "summary": "Mrs Yvonne Nana Afriyie Opare, Managing Director of the Ghana Airports Company Limited (GACL), has sued Mr Samuel Bryan Buabeng, a Facebook user, over alleged defamatory words and…",
-      "categories": [
-        "Regional",
-        "facebook defamation",
-        "Ghana Airports Company Limited (GACL)",
-        "Samuel Bryan Buabeng",
-        "Yvonne Nana Afriyie Opare"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/law-theme-gavel-mallet-judge-600nw-2482775329.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "link": "https://www.myjoyonline.com/christa-pike-in-critical-condition-after-surviving-two-lethal-injections-lawyer-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T22:53:00.000Z",
-      "summary": "Tennessee death row inmate Christa Pike is in \"critical condition, receiving life-saving care\" at hospital, after surviving two lethal injection attempts, leading the state's governor to…",
-      "categories": [
-        "International",
-        "Christa Pike",
-        "Lethal injection"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-7-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kemi Badenoch backs face covering ban at protest",
-      "link": "https://www.myjoyonline.com/kemi-badenoch-backs-face-covering-ban-at-protest/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T22:39:22.000Z",
-      "summary": "Conservative leader Kemi Badenoch says she would support a ban on face coverings at protests if police believe one is needed.",
-      "categories": [
-        "International",
-        "Conservative leader",
-        "Kemi Badenoch"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-161-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man City not ‘above the rules’, says No 10 after backlash to Burnham remarks",
-      "link": "https://www.myjoyonline.com/man-city-not-above-the-rules-says-no-10-after-backlash-to-burnham-remarks/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T22:31:00.000Z",
-      "summary": "Downing Street has said Manchester City are not \"above the rules\" after Andy Burnham was criticised for his comments about the club's breaches of Premier League financial rules.",
+      "published": "2026-10-02T08:13:00.000Z",
+      "summary": "Innovare Limited, a wholly Ghanaian-owned management consulting and technology services company, extends its warmest congratulations to Ahantaman Community Bank PLC on attaining the ISO/IEC…",
       "categories": [
         "Business",
-        "Football",
-        "Andy Burnham",
-        "Man City"
+        "Ahantaman community bank",
+        "Innovare limited",
+        "ISO Certification"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-160-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1-1024x694.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Real Madrid submit ‘substantial’ dossier in Barca payments case",
-      "link": "https://www.myjoyonline.com/real-madrid-submit-substantial-dossier-in-barca-payments-case/",
+      "title": "German President to visit Ghana",
+      "link": "https://ghanaiantimes.com.gh/german-president-to-visit-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T08:02:18.000Z",
+      "summary": "The German Federal President, Frank-Walter Steinmeier, is scheduled to visit Ghana in November for the second time in less than a year, in a move expected to further deepen economic…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Friday, October 2, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-friday-october-2-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-10-01T22:22:00.000Z",
-      "summary": "Real Madrid says it has sent UEFA \"evidence of extraordinary gravity\" regarding payments made by Barcelona to a former vice-president of Spain's referees' committee.",
+      "published": "2026-10-02T08:00:23.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-179.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL 2026/27: Opoku Agyemang strike sends Kotoko third after Karela win",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-opoku-agyemang-strike-sends-kotoko-third-after-karela-win/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T07:55:16.000Z",
+      "summary": "Isaac Opoku Agyemang scored just four minutes into the game to settle a closely fought contest and give the Porcupine Warriors a much-needed response after their previous league defeat.",
       "categories": [
         "Football",
-        "FC Barcelona",
-        "Real Madrid"
+        "HP Sports 6",
+        "Sports",
+        "Asante Kotoko",
+        "Emmanuel Sanja",
+        "Ghana Premier League",
+        "Haruna Mubarak",
+        "Isaac Opoku Agyemang",
+        "Karela United"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-159.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HTj01yzWIAA5Ttj-1024x765.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government ‘cannot dissolve’ GFA – Sports Minister Kofi Adams",
+      "link": "https://www.myjoyonline.com/government-cannot-dissolve-gfa-sports-minister-kofi-adams/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T07:42:07.000Z",
+      "summary": "Pressure on the GFA has intensified after Ghana suffered back-to-back defeats in the 2027 Africa Cup of Nations qualifiers,",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "Sports",
+        "AFCON Qualifiers",
+        "Carlos Queiroz",
+        "Ghana Football Association",
+        "Haruna Mubarak",
+        "Kofi Adams",
+        "Ministry for Sports and Recreation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sports-Minister-Kofi-Adams-hosts-GFA-Executive-Council-members-and-RFA-Chairmen-who-were-formal-1-1024x537.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Baffour Awuah granted GH¢50m bail after EOCO detention",
+      "link": "https://www.myjoyonline.com/baffour-awuah-granted-gh%c2%a250m-bail-after-eoco-detention/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T07:08:09.000Z",
+      "summary": "Manhyia South MP Nana Agyei Baffour Awuah has been granted bail of GH¢50 million with three sureties following his appearance before the Economic and Organised Crime Office (EOCO).",
+      "categories": [
+        "National",
+        "Top Story",
+        "Baffour Awuah",
+        "Bail",
+        "EOCO"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-10.20.24-AM-1024x608.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“Every genre we create doesn’t have to be ‘Afro’ something” – M.anifest",
+      "link": "https://www.myjoyonline.com/every-genre-we-create-doesnt-have-to-be-afro-something-m-anifest/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T06:56:17.000Z",
+      "summary": "Celebrated Ghanaian rapper Kwame Ametepe Tsikata, popularly known as M.anifest, has criticised the growing tendency to attach the prefix ‘Afro’ to new African music genres and their…",
+      "categories": [
+        "HP Entertainment 1",
+        "Music",
+        "Afro",
+        "M.anifest",
+        "Music genres"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9039.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMTF marks first anniversary with lifesaving equipment for 9 more hospitals",
+      "link": "https://www.myjoyonline.com/gmtf-marks-first-anniversary-with-lifesaving-equipment-for-9-more-hospitals/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T06:38:13.000Z",
+      "summary": "The Ghana Medical Trust Fund (GMTF) has extended its healthcare support to nine more hospitals by delivering critical medical equipment as part of activities marking the Fund’s first…",
+      "categories": [
+        "Health",
+        "Ghana Medical Trust Fund (GMTF)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-176-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -164,110 +279,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "The President’s wallet and the boys who won’t score",
-      "link": "https://ghanaiantimes.com.gh/the-presidents-wallet-and-the-boys-who-wont-score/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T17:13:36.000Z",
-      "summary": "There is a particular type of heartbreak that only eleven grown men chasing a leather sphere can inflict upon a nation. It is a unique Ghanaian tragedy, seasoned with broken promises and…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President John Mahama joins African leaders at Alamein Africa Forum",
-      "link": "https://ghanaiantimes.com.gh/president-john-mahama-joins-african-leaders-at-alamein-africa-forum/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T17:11:49.000Z",
-      "summary": "President John Dramani Mahama will be joining African heads of state, business leaders, investors and innovators shaping Africa’s next chapter, at the inaugural Alamein Africa Forum…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Contractors move to site to begin construction of 120-Bed Trauma Hospital at Bole – Felix Kwakye Ofosu",
-      "link": "https://ghanaiantimes.com.gh/contractors-move-to-site-to-begin-construction-of-120-bed-trauma-hospital-at-bole-felix-kwakye-ofosu/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T17:10:16.000Z",
-      "summary": "Minister for Government Communications, Felix Kwakye Ofosu, has revealed that contractors have moved to site to begin construction of a 120-bed Specialised Trauma and Emergency Hospital at…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Carlos Queiroz and GFA mutually agree to terminate contract as Black Stars Head Coach",
-      "link": "https://ghanaiantimes.com.gh/carlos-queiroz-and-gfa-mutually-agree-to-terminate-contract-as-black-stars-head-coach/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T17:06:56.000Z",
-      "summary": "Carlos Queiroz and the Ghana Football Association (GFA) have mutually agreed to terminate his contract as Head Coach of the Black Stars. In a statement, the Portuguese coach said the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Vice President to launch six NDC historiographies on October 13",
-      "link": "https://ghanaiantimes.com.gh/vice-president-to-launch-six-ndc-historiographies-on-october-13/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T17:03:12.000Z",
-      "summary": "The Vice President of the Republic of Ghana, Professor Jane Naana Opoku-Agyemang, is expected to serve as the Special Guest of Honour at the launch of six historiographies documenting the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cristiano Ronaldo quits Portugal camp with immediate effect",
-      "link": "https://ghanaiantimes.com.gh/cristiano-ronaldo-quits-portugal-camp-with-immediate-effect/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T17:01:30.000Z",
-      "summary": "Cristiano Ronaldo has sensationally left the Portugal national team camp permanently following a fallout with head coach Jorge Jesus. The Portugal captain announced his decision in a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nukunu FC accepts resignation of Head Coach Christian Chibueze",
-      "link": "https://ghanaiantimes.com.gh/nukunu-fc-accepts-resignation-of-head-coach-christian-chibueze/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T16:59:28.000Z",
-      "summary": "Nukunu FC has announced that head coach Christian Chibueze has resigned. In an official statement, the club said management has accepted the coach’s resignation, citing personal reasons…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Central Regional Prisons Command launches Medicine and Equipment Bank",
-      "link": "https://ghanaiantimes.com.gh/central-regional-prisons-command-launches-medicine-and-equipment-bank/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-01T16:57:50.000Z",
-      "summary": "The Central Regional Command of the Ghana Prisons Service has launched its Medicine and Equipment Bank at the Pempamsie Hotel in Cape Coast on Wednesday, September 30, 2026, to mobilise…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Prof. Emmanuel Osei Sarpong appointed acting NSA boss",
