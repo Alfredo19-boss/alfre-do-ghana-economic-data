@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-02T19:56:27.911Z",
+  "updated": "2026-10-02T23:32:11.114Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,130 +25,130 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "51,000 teachers’ promotion arrears to be validated for October payment – Education Minister",
-      "link": "https://www.myjoyonline.com/51000-teachers-promotion-arrears-to-be-validated-for-october-payment-education-minister/",
+      "title": "NPP national elections: 3,000–4,000 police to handle security, traffic in Kumasi – Karbo",
+      "link": "https://www.myjoyonline.com/npp-national-elections-3000-4000-police-to-handle-security-traffic-in-kumasi-karbo/",
       "source": "MyJoyOnline",
-      "published": "2026-10-02T19:42:05.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, says the Controller and Accountant-General’s Department is validating data on up to 51,000 teachers as the government works to pay outstanding…",
+      "published": "2026-10-02T23:16:21.000Z",
+      "summary": "The New Patriotic Party’s (NPP) Organisation Committee Chairperson, Anthony Abayifaa Karbo, says between 3,000 and 4,000 police personnel have been deployed to provide security for the…",
       "categories": [
-        "Education",
-        "National",
-        "Haruna Iddrisu",
-        "October payment",
-        "Teacher Unions"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/image-179-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kwabena Boamah appointed Board Chair for Impact Investing Ghana",
-      "link": "https://www.myjoyonline.com/kwabena-boamah-appointed-board-chair-for-impact-investing-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T19:34:42.000Z",
-      "summary": "Impact Investing Ghana (IIGh) is pleased to announce a transition in its Board of Directors leadership. Kwabena Boamah has been appointed as the new Board Chair, bringing more than 25 years…",
-      "categories": [
-        "Business",
-        "Impact Investing Ghana",
-        "Kwabena Boamah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Chiar_Transition.jpg-819x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Striking teacher unions to meet Fair Wages and Salaries Commission on October 6",
-      "link": "https://www.myjoyonline.com/striking-teacher-unions-to-meet-fair-wages-and-salaries-commission-on-october-6/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T19:20:44.000Z",
-      "summary": "The government says the striking teacher unions will return to the negotiating table with the Fair Wages and Salaries Commission (FWSC) on Tuesday, October 6, to begin discussions on their…",
-      "categories": [
-        "Education",
-        "HP News 6",
-        "National",
-        "Education Minister Haruna Iddrisu",
-        "Fair Wages and Salaries Commission",
-        "Striking teacher unions"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Screenshot-2026-01-27-at-5.41.33-AM-1024x622.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EOCO working with AG to arraign Nana Baffour Awuah before weekend court",
-      "link": "https://www.myjoyonline.com/eoco-working-with-ag-to-arraign-nana-baffour-awuah-before-weekend-court/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T19:17:31.000Z",
-      "summary": "The Economic and Organised Crime Office (EOCO) says it is working with the Attorney-General’s Office to bring Manhyia South MP Nana Agyei Baffour Awuah before a weekend court following his…",
-      "categories": [
-        "National",
-        "Top Story",
-        "court",
-        "EOCO",
-        "Nana Baffour Awuah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-8-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Duraplast reassures customers after fire, announces October 5 reopening",
-      "link": "https://www.myjoyonline.com/duraplast-reassures-customers-after-fire-announces-october-5-reopening/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T19:09:20.000Z",
-      "summary": "Duraplast Limited says the fire that broke out at one of its facilities on Thursday, October 1, has been brought under control, with no further threat to its operations.",
-      "categories": [
-        "National",
-        "Duraplast"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/08/duraplast.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Call off strike, gov’t will not renege on promotion arrears pledge – Haruna Iddrisu appeals to teacher unions",
-      "link": "https://www.myjoyonline.com/call-off-strike-govt-will-not-renege-on-promotion-arrears-pledge-haruna-iddrisu-appeals-to-teacher-unions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T19:07:13.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has appealed to the three teacher unions to consider calling off their nationwide strike, assuring them that the government will honour its…",
-      "categories": [
-        "Education",
         "HP News 1",
         "National",
-        "Haruna Iddrisu",
-        "Industrial strike",
-        "Teacher Unions"
+        "News",
+        "Politics",
+        "Kumasi",
+        "NPP",
+        "NPP conference",
+        "Police"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Iddrisu.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Police-1-636x424-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Committee set up to validate teachers eligible for 20% deprived-area allowance – Education Minister",
-      "link": "https://www.myjoyonline.com/committee-set-up-to-validate-teachers-eligible-for-20-deprived-area-allowance-education-minister/",
+      "title": "Atta Akyea fumes as Manhyia MP is to spend another night in EOCO custody",
+      "link": "https://www.myjoyonline.com/atta-akyea-fumes-as-manhyia-mp-is-to-spend-another-night-in-eoco-custody/",
       "source": "MyJoyOnline",
-      "published": "2026-10-02T19:03:00.000Z",
-      "summary": "The Minister for Education, Haruna Iddrisu, says the government has established a committee to validate data and determine which teachers qualify for the proposed 20 per cent deprived-area…",
+      "published": "2026-10-02T22:47:01.000Z",
+      "summary": "Lawyer for Manhyia South MP Nana Agyei Baffour Awuah, Samuel Atta Akyea, has expressed disappointment over the continued detention of his client by the Economic and Organised Crime Office…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Atta Akyea",
+        "Baffour Awuah",
+        "Manhyia MP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/NEW.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SSNIT says La Beach clearance was to protect hotel investments, beaches to remain public",
+      "link": "https://www.myjoyonline.com/ssnit-says-la-beach-clearance-was-to-protect-hotel-investments-beaches-to-remain-public/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T21:55:32.000Z",
+      "summary": "The Social Security and National Insurance Trust (SSNIT) has, in a statement issued by its Board of Trustees, explained its decision to seek the removal of structures and unauthorised…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "Demolition",
+        "La Beach",
+        "SSNIT"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-11.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "APSU congratulates St Augustine’s College after back-to-back National Investment Quiz wins",
+      "link": "https://www.myjoyonline.com/apsu-congratulates-st-augustines-college-after-back-to-back-national-investment-quiz-wins/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T21:51:13.000Z",
+      "summary": "The APSU Secretariat has congratulated the St Augustine’s College team for successfully defending the National Investment Quiz trophy, following its victory in the 2026 competition. In a…",
       "categories": [
         "Education",
-        "HP News 3",
-        "National",
-        "20% deprived-area allowance",
-        "Education Minister",
-        "Haruna Iddrisu",
-        "Teachers strike"
+        "APSU",
+        "NIQ"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/image-178-1024x682.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-17.39.29-1-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Five-member committee to search for new Black Stars coach after Sports Ministry-GFA meeting",
-      "link": "https://www.myjoyonline.com/five-member-committee-to-search-for-new-black-stars-coach-after-sports-ministry-gfa-meeting/",
+      "title": "Renewed flood intervention at Mallam Junction raises hopes among residents, businesses",
+      "link": "https://www.myjoyonline.com/renewed-flood-intervention-at-mallam-junction-raises-hopes-among-residents-businesses/",
       "source": "MyJoyOnline",
-      "published": "2026-10-02T18:28:22.000Z",
-      "summary": "The Ministry of Sports and Recreation and the Ghana Football Association (GFA) have agreed to constitute a five-member Technical Search Committee to scout for and recommend a new head coach…",
+      "published": "2026-10-02T21:11:02.000Z",
+      "summary": "Renewed government intervention at Mallam Junction is raising hopes among residents, motorists and businesses of a lasting solution to the recurring flooding that has affected the area.",
       "categories": [
-        "Football",
-        "HP Sports 1",
-        "Black Stars",
-        "Kurt Okraku",
-        "Sports Minister"
+        "National",
+        "Mallam Junction"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HTfr2TlWoAEaIb0-2-828x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/19b91407-ebd7-4089-927a-9f3ed9cc1f00.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "St Augustine’s College retain National Investment Quiz title after nail-biting grand finale",
+      "link": "https://www.myjoyonline.com/st-augustines-college-retain-national-investment-quiz-title-after-nail-biting-grand-finale/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T21:02:05.000Z",
+      "summary": "Four schools walked into the grand finale of the 2026 National Investment Quiz, but only one walked out with the trophy, and it is the same school that lifted it last year.",
+      "categories": [
+        "Education",
+        "HP News 5",
+        "National",
+        "National Investment Quiz 2026",
+        "St Augustine's College"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-6.22.00-PM-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education infrastructure investment will drive Banda’s development – Ahmed Ibrahim",
+      "link": "https://www.myjoyonline.com/education-infrastructure-investment-will-drive-bandas-development-ahmed-ibrahim/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T20:54:37.000Z",
+      "summary": "Minister of Works, Housing and Water Resources and Member of Parliament for Banda, Ahmed Ibrahim, says the government’s investment in educational infrastructure is critical to developing…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Ahmed Ibrahim",
+        "Banda",
+        "education infrastructure"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-20.27.07-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Teacher unions strike: Gov’t presents fresh proposals as talks end inconclusively",
+      "link": "https://www.myjoyonline.com/teacher-unions-strike-govt-presents-fresh-proposals-as-talks-end-inconclusively/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T20:12:31.000Z",
+      "summary": "A meeting between the government and the leadership of the striking teacher unions over the ongoing nationwide strike ended inconclusively on Friday, October 2, with new proposals expected…",
+      "categories": [
+        "Education",
+        "HP News 10",
+        "National",
+        "Teacher unions strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Thomas-Musah-1-1024x579.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
