@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-02T15:08:15.686Z",
+  "updated": "2026-10-02T19:56:27.911Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,133 +25,221 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "NPP congress: 7,163 delegates to elect national officers in Kumasi",
-      "link": "https://www.myjoyonline.com/npp-congress-7163-delegates-to-elect-national-officers-in-kumasi/",
+      "title": "51,000 teachers’ promotion arrears to be validated for October payment – Education Minister",
+      "link": "https://www.myjoyonline.com/51000-teachers-promotion-arrears-to-be-validated-for-october-payment-education-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-10-02T15:06:52.000Z",
-      "summary": "A total of 7,163 delegates from across Ghana are expected to participate in the New Patriotic Party’s (NPP) National Delegates Congress and national officers’ elections on Saturday, October…",
-      "categories": [
-        "Politics",
-        "delegates",
-        "Kumasi",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-278.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG Governor, all MPC members voted to keep policy rate at 14%",
-      "link": "https://www.myjoyonline.com/bog-governor-all-mpc-members-voted-to-keep-policy-rate-at-14/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T15:00:35.000Z",
-      "summary": "A careful look at the report showed that the majority of these members cited external risks to the economy and concerns about the rising inflation as their major reasons for the rate hold.",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "BoG",
-        "Dr. Asiama",
-        "Fuel Prices",
-        "GDP",
-        "gross international reserves",
-        "Infation",
-        "MPC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Dr-Johnson-Asiama.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Real poll will be Saturday’s vote’ – Ahiagbah dismisses Global InfoAnalytics survey",
-      "link": "https://www.myjoyonline.com/real-poll-will-be-saturdays-vote-ahiagbah-dismisses-global-infoanalytics-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T14:51:44.000Z",
-      "summary": "New Patriotic Party (NPP) National First Vice Chairman aspirant Richard Ahiagbah has rejected a recent poll by Global InfoAnalytics that places four of his contenders ahead of him in the…",
-      "categories": [
-        "National",
-        "Politics",
-        "Elections",
-        "Global InfoAnalytics poll",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-26.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Importers petition GRA over alleged unauthorised removal of 28 containers from Tema Port",
-      "link": "https://www.myjoyonline.com/importers-petition-gra-over-alleged-unauthorised-removal-of-28-containers-from-tema-port/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T14:42:26.000Z",
-      "summary": "Some importers have petitioned the Ghana Revenue Authority (GRA) to investigate the alleged unauthorised removal and transfer of 28 containers from the Tema Port.",
-      "categories": [
-        "HP News 1",
-        "National",
-        "containers",
-        "GRA",
-        "Tema Port"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Tema-Port1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Creative Arts Agency Board seeks Lands Ministry’s support for welfare project",
-      "link": "https://www.myjoyonline.com/creative-arts-agency-board-seeks-lands-ministrys-support-for-welfare-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T14:35:36.000Z",
-      "summary": "The Governing Board of the Creative Arts Agency has paid a courtesy visit to the Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, to discuss initiatives aimed at…",
-      "categories": [
-        "Arts and Culture",
-        "National",
-        "Creative Arts Agency",
-        "Lands Ministry",
-        "welfare project"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-13.58.08-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama and Kyrgyzstan Foreign Minister discuss AU-UN cooperation – Ablakwa",
-      "link": "https://www.myjoyonline.com/mahama-and-kyrgyzstan-foreign-minister-discuss-au-un-cooperation-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T14:15:29.000Z",
-      "summary": "President John Dramani Mahama has held discussions with Kyrgyzstan’s Foreign Minister, Jeenbek Kulubayev, on strengthening cooperation between the African Union (AU) and the United Nations…",
-      "categories": [
-        "National",
-        "AU",
-        "Kyrgyzstan Foreign Minister",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-210-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana, Kyrgyzstan explore cooperation in gold mining and trading",
-      "link": "https://www.myjoyonline.com/ghana-kyrgyzstan-explore-cooperation-in-gold-mining-and-trading/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T14:14:22.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, has held discussions with a high-level delegation from the Kyrgyz Republic on opportunities for cooperation in…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Kyrgyzstan"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-151-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bono Region teacher unions back strike, demand action on outstanding grievances",
-      "link": "https://www.myjoyonline.com/bono-region-teacher-unions-back-strike-demand-action-on-outstanding-grievances/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T14:12:27.000Z",
-      "summary": "The Bono Regional branches of the Ghana National Association of Teachers (GNAT), National Association of Graduate Teachers (NAGRAT) and Pre-Tertiary Teachers Association of Ghana (PRETAG)…",
+      "published": "2026-10-02T19:42:05.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, says the Controller and Accountant-General’s Department is validating data on up to 51,000 teachers as the government works to pay outstanding…",
       "categories": [
         "Education",
-        "Regional",
-        "Bono Region",
-        "Ghana National Association of Teachers (GNAT)",
-        "Strike Action"
+        "National",
+        "Haruna Iddrisu",
+        "October payment",
+        "Teacher Unions"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bono-Teachers-Strike.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/image-179-1024x682.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwabena Boamah appointed Board Chair for Impact Investing Ghana",
+      "link": "https://www.myjoyonline.com/kwabena-boamah-appointed-board-chair-for-impact-investing-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T19:34:42.000Z",
+      "summary": "Impact Investing Ghana (IIGh) is pleased to announce a transition in its Board of Directors leadership. Kwabena Boamah has been appointed as the new Board Chair, bringing more than 25 years…",
+      "categories": [
+        "Business",
+        "Impact Investing Ghana",
+        "Kwabena Boamah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Chiar_Transition.jpg-819x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Striking teacher unions to meet Fair Wages and Salaries Commission on October 6",
+      "link": "https://www.myjoyonline.com/striking-teacher-unions-to-meet-fair-wages-and-salaries-commission-on-october-6/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T19:20:44.000Z",
+      "summary": "The government says the striking teacher unions will return to the negotiating table with the Fair Wages and Salaries Commission (FWSC) on Tuesday, October 6, to begin discussions on their…",
+      "categories": [
+        "Education",
+        "HP News 6",
+        "National",
+        "Education Minister Haruna Iddrisu",
+        "Fair Wages and Salaries Commission",
+        "Striking teacher unions"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Screenshot-2026-01-27-at-5.41.33-AM-1024x622.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EOCO working with AG to arraign Nana Baffour Awuah before weekend court",
+      "link": "https://www.myjoyonline.com/eoco-working-with-ag-to-arraign-nana-baffour-awuah-before-weekend-court/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T19:17:31.000Z",
+      "summary": "The Economic and Organised Crime Office (EOCO) says it is working with the Attorney-General’s Office to bring Manhyia South MP Nana Agyei Baffour Awuah before a weekend court following his…",
+      "categories": [
+        "National",
+        "Top Story",
+        "court",
+        "EOCO",
+        "Nana Baffour Awuah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/One-8-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Duraplast reassures customers after fire, announces October 5 reopening",
+      "link": "https://www.myjoyonline.com/duraplast-reassures-customers-after-fire-announces-october-5-reopening/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T19:09:20.000Z",
+      "summary": "Duraplast Limited says the fire that broke out at one of its facilities on Thursday, October 1, has been brought under control, with no further threat to its operations.",
+      "categories": [
+        "National",
+        "Duraplast"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/08/duraplast.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Call off strike, gov’t will not renege on promotion arrears pledge – Haruna Iddrisu appeals to teacher unions",
+      "link": "https://www.myjoyonline.com/call-off-strike-govt-will-not-renege-on-promotion-arrears-pledge-haruna-iddrisu-appeals-to-teacher-unions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T19:07:13.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has appealed to the three teacher unions to consider calling off their nationwide strike, assuring them that the government will honour its…",
+      "categories": [
+        "Education",
+        "HP News 1",
+        "National",
+        "Haruna Iddrisu",
+        "Industrial strike",
+        "Teacher Unions"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Iddrisu.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Committee set up to validate teachers eligible for 20% deprived-area allowance – Education Minister",
+      "link": "https://www.myjoyonline.com/committee-set-up-to-validate-teachers-eligible-for-20-deprived-area-allowance-education-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T19:03:00.000Z",
+      "summary": "The Minister for Education, Haruna Iddrisu, says the government has established a committee to validate data and determine which teachers qualify for the proposed 20 per cent deprived-area…",
+      "categories": [
+        "Education",
+        "HP News 3",
+        "National",
+        "20% deprived-area allowance",
+        "Education Minister",
+        "Haruna Iddrisu",
+        "Teachers strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/image-178-1024x682.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Five-member committee to search for new Black Stars coach after Sports Ministry-GFA meeting",
+      "link": "https://www.myjoyonline.com/five-member-committee-to-search-for-new-black-stars-coach-after-sports-ministry-gfa-meeting/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T18:28:22.000Z",
+      "summary": "The Ministry of Sports and Recreation and the Ghana Football Association (GFA) have agreed to constitute a five-member Technical Search Committee to scout for and recommend a new head coach…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Black Stars",
+        "Kurt Okraku",
+        "Sports Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HTfr2TlWoAEaIb0-2-828x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama visits Global Mercy Ship at Tema port, hails its humanitarian impact",
+      "link": "https://ghanaiantimes.com.gh/mahama-visits-global-mercy-ship-at-tema-port-hails-its-humanitarian-impact/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T17:17:06.000Z",
+      "summary": "President John Dramani Mahama has described the Global Mercy hospital ship as a “floating vessel of true mercy and humanism” after touring the world’s largest civilian hospital ship docked…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-15.56.52-1.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "EOCO must pursue drug kingpins, not persecute political opponents – Afenyo-Markin",
+      "link": "https://ghanaiantimes.com.gh/eoco-must-pursue-drug-kingpins-not-persecute-political-opponents-afenyo-markin/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T17:13:37.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has accused the Economic and Organised Crime Office (EOCO) of selective justice, saying the state appears more interested in intimidating opposition…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Man City appeal Premier League Commission verdict, insists club is innocent",
+      "link": "https://ghanaiantimes.com.gh/man-city-appeal-premier-league-commission-verdict-insists-club-is-innocent/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T17:11:52.000Z",
+      "summary": "Manchester City Football Club has lodged a comprehensive appeal against the opinion of the Premier League Commission in relation to its long-running disciplinary case. In a statement on…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Govt launches ‘ECOWAS for All’ campaign to bridge gap between regional policies and citizens",
+      "link": "https://ghanaiantimes.com.gh/govt-launches-ecowas-for-all-campaign-to-bridge-gap-between-regional-policies-and-citizens/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T17:09:45.000Z",
+      "summary": "The Ministry of Foreign Affairs has launched a national public sensitisation campaign dubbed “ECOWAS for All” to deepen citizens’ awareness and participation in regional integration…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "La Pleasure Beach demolition; MP says govt unaware",
+      "link": "https://ghanaiantimes.com.gh/la-pleasure-beach-demolition-mp-says-govt-unaware/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T17:07:54.000Z",
+      "summary": "Structures at La Pleasure Beach in Accra have been demolished in an exercise carried out under the supervision of National Security. Popular entertainment spots including Pera Beach and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP needs Afoko to break NDC In 2028 — Political Scientist",
+      "link": "https://ghanaiantimes.com.gh/npp-needs-afoko-to-break-ndc-in-2028-political-scientist/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-02T17:02:00.000Z",
+      "summary": "Political Scientist Dr. Kwasi Amakye-Boateng has argued that the New Patriotic Party (NPP) faces a tougher task ahead of the 2028 elections because of what he described as improvements in…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Happy 76th Birthday to the Daily Graphic!",
+      "link": "https://www.graphic.com.gh/news/general-news/happy-76th-birthday-to-the-daily-graphic.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-02T15:57:32.000Z",
+      "summary": "The 2nd of October should be celebrated as one of the really pivotal days in the history of the media in Ghana. For that day in 1950 saw the birth of a technologically advanced method of…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2024/apr/22/Graphic.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Abban eyes world title shot with Nettey challenge",
@@ -274,18 +362,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ignite to establish Ghana office, hotline",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ignite-to-establish-ghana-office-hotline.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T11:49:44.000Z",
-      "summary": "Ignite, a product distribution company, is to establish a physical office and hotline in the country as part of measures to strengthen its operations and provide a local point of contact…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/Adisi.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Man City verdict has 'significant implications for integrity of the game', Football Association says",
       "link": "https://www.graphic.com.gh/sports/sports-news/man-city-verdict-has-significant-implications-for-integrity-of-the-game-football-association-says.html",
       "source": "Graphic Sports",
@@ -318,79 +394,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prof Osei Sarpong appointed acting NSA boss",
-      "link": "https://ghanaiantimes.com.gh/prof-osei-sarpong-appointed-acting-nsa-boss/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:22:53.000Z",
-      "summary": "Professor Emmanuel Osei Sarpong has been appointed Acting Director-General of the National Sports Authority (NSA) following the suspension of Yaw Ampofo Ankrah. Prof. Sarpong, an Associate…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Golden Shuttlers join BWF Devt Training Camp in Cairo",
-      "link": "https://ghanaiantimes.com.gh/golden-shuttlers-join-bwf-devt-training-camp-in-cairo/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:18:26.000Z",
-      "summary": "Ghana’s Golden Shuttlers have taken part in a Badminton World Federation (BWF) training and development camp in Cairo, Egypt, as part of ongoing efforts to enhance the skills of players…",
-      "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "National teams require different management approach – Ernest Thompson",
-      "link": "https://ghanaiantimes.com.gh/national-teams-require-different-management-approach-ernest-thompson/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:16:27.000Z",
-      "summary": "Mr Ernest Thompson, a sports administrator, lawyer and former member of the Black Stars Management Committee, has called for a different management approach to national teams, stressing…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Man City to argue Abu Dhabi government backed sponsorships",
-      "link": "https://ghanaiantimes.com.gh/man-city-to-argue-abu-dhabi-government-backed-sponsorships/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:14:15.000Z",
-      "summary": "Manchester City will claim that key sponsorship deals were funded by the Abu Dhabi government, rather than the club’s owners, as part of an appeal after being found to have breached…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Toney denies Soho nightclub assault",
-      "link": "https://ghanaiantimes.com.gh/toney-denies-soho-nightclub-assault/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:13:00.000Z",
-      "summary": "England striker Ivan Toney has pleaded not guilty to assaulting a man at a central London nightclub. The 30-year-old footballer, from Northampton, is accused of headbutting and punching…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mofokeng stars as South Africa cruise past Eritrea in Cairo",
-      "link": "https://ghanaiantimes.com.gh/mofokeng-stars-as-south-africa-cruise-past-eritrea-in-cairo/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:11:56.000Z",
-      "summary": "Relebohile Mofokeng scored twice as South Africa cruised to a 5-0 victory over Eritrea in Cairo on Wednesday to make it six points from their opening two CAF Africa Cup of Nations PAMOJA…",
-      "categories": [
-        "Foriegn"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
