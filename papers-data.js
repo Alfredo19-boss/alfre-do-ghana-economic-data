@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-01T23:29:26.001Z",
+  "updated": "2026-10-02T02:30:02.877Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mobile Money Fintech LTD, UMB train hairdressers and beauticians",
+      "link": "https://www.myjoyonline.com/mobile-money-fintech-ltd-umb-train-hairdressers-and-beauticians/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-02T00:11:16.000Z",
+      "summary": "Mobile Money Fintech LTD, in partnership with UMB Bank, has completed the third and final session of its financial literacy and capacity-building workshop for Micro, Small and Medium…",
+      "categories": [
+        "Photo Story",
+        "Hair dressers",
+        "MobileMoney Fintech Limited",
+        "UMB bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_0617_2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Asylum votes show people want help, says Kemi Badenoch",
       "link": "https://www.myjoyonline.com/asylum-votes-show-people-want-help-says-kemi-badenoch/",
@@ -124,20 +139,6 @@ window.GDC_PAPERS = {
         "Real Madrid"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-159.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Messi completes purchase of second Spanish club",
-      "link": "https://www.myjoyonline.com/messi-completes-purchase-of-second-spanish-club/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-01T22:13:51.000Z",
-      "summary": "Lionel Messi has completed his purchase of Spanish second-division club CD Eldense.",
-      "categories": [
-        "Football",
-        "Cornella",
-        "Messi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-1572.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

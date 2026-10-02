@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-01T23:29:13.132Z",
-  "worldAt": "2026-10-01T23:29:13.130Z",
+  "updated": "2026-10-02T02:29:52.171Z",
+  "worldAt": "2026-10-02T02:29:52.169Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -35,14 +35,14 @@ window.GDC_NEWS = {
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
     "World · BBC News: 30 stories",
-    "World · Deutsche Welle: 11 stories",
+    "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: 32 stories",
+    "Africa · AllAfrica: 31 stories",
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 7 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,58 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "More than half of Europe faced intense summer heat stress, EU monitor says",
+      "link": "https://www.france24.com/en/environment/20261002-europe-summer-heat-stress-eu-monitor",
+      "source": "France 24",
+      "published": "2026-10-02T02:18:51.000Z",
+      "summary": "A record 52% of Europe faced intense heat stress this summer, the EU’s climate monitor said Friday, as climate change fuelled widespread heatwaves and tens of thousands of excess deaths…",
+      "image": "https://s.france24.com/media/display/199fdc12-9593-11f1-b1b3-005056bf30b7/w:1024/p:16x9/2026-08-11T140108Z-1178186913-RC2DWMAS5JSN-RTRMADP-3-EUROPE-WEATHER-FRANCE-AGRICULTURE.jpg"
+    },
+    {
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-02T02:11:34.000Z",
+      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Everything you need to know about Brazil’s tight presidential race",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/everything-you-need-to-know-about-brazils-tight-presidential-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T02:07:49.000Z",
+      "summary": "Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro."
+    },
+    {
+      "title": "G20 trade ministers deadlocked over industrial overcapacity, says US trade chief",
+      "link": "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer",
+      "source": "France 24",
+      "published": "2026-10-02T01:30:05.000Z",
+      "summary": "G20 trade ministers failed to agree on tackling excess industrial capacity and eliminating forced labour from supply chains, US Trade Representative Jamieson Greer said Thursday. Speaking…",
+      "image": "https://s.france24.com/media/display/37f9a59e-bdf2-11f1-9121-69fad0a7cb9f/w:1024/p:16x9/AP26274737096335.jpg"
+    },
+    {
+      "title": "The price Europe pays for keeping AI under control",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/the-price-europe-pays-for-keeping-ai-under-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T01:56:57.000Z",
+      "summary": "The European Union (EU) has introduced some of the world's strictest Artificial Intelligence (AI) laws."
+    },
+    {
+      "title": "EU ministers mull new ways to curb irregular migration",
+      "link": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-02T00:54:00.000Z",
+      "summary": "The proposals include setting up so-called return hubs outside the EU and strengthening the border agency Frontex. Greece has even proposed temporarily suspending asylum applications in…"
+    },
+    {
+      "title": "Pot banging protests across Spain over housing crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/pot-banging-protests-across-spain-over-housing-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T01:56:50.000Z",
+      "summary": "Hundreds of protesters across Spain took part in pot banging demonstrations to demand political action over housing"
+    },
+    {
       "title": "Netanyahu says flydubai co-pilot was radicalised as UAE probes terror link",
       "link": "https://www.france24.com/en/middle-east/20261001-netanyahu-flydubai-co-pilot-uae-terror-link",
       "source": "France 24",
@@ -1107,19 +1159,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/be013ffa-bc7e-11f1-adb1-177f79e345bf/w:1024/p:16x9/AP25357403714237.jpg"
     },
     {
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-01T22:52:19.000Z",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Brazilian government calls for probe into US funding of far-right causes",
-      "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+      "title": "Trump launches midterms campaign blitz amid record low approval ratings",
+      "link": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T22:48:17.000Z",
-      "summary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election."
+      "published": "2026-10-02T01:39:08.000Z",
+      "summary": "In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs."
     },
     {
       "title": "French investigative site says antisemitic messages tied to Jordan Bardella, Le Pen's ally",
@@ -1130,11 +1174,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/50c7836c-bdb5-11f1-b93f-578a4b968fd6/w:1024/p:16x9/000-C9H88TT.jpg"
     },
     {
-      "title": "94-year-old Jewish barrister arrested for supporting Palestine Action",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+      "title": "Trump says US may ask Europe to release diesel reserves",
+      "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T22:44:56.000Z",
-      "summary": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action."
+      "published": "2026-10-02T01:23:35.000Z",
+      "summary": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies."
     },
     {
       "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
@@ -1145,11 +1189,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
+      "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
+      "link": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T22:31:30.000Z",
-      "summary": "France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured."
+      "published": "2026-10-02T00:29:57.000Z",
+      "summary": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running."
     },
     {
       "title": "Migration deal: 'Really a scheme around political diplomacy between UK & France in post-Brexit era'",
@@ -1160,11 +1204,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/64d97c44-bde6-11f1-9fd2-dd51fcab6130/w:1024/p:16x9/EN-20261001-151533-152620-CS.jpg"
     },
     {
-      "title": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
+      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T22:30:32.000Z",
-      "summary": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament."
+      "published": "2026-10-02T00:00:00.000Z",
+      "summary": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran."
     },
     {
       "title": "US presses Europe to release 'immediately' diesel reserves as Trump threatens export ban",
@@ -1175,11 +1219,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0321c574-b409-11f1-a939-9f514b90f153/w:1024/p:16x9/2026-09-17T093053Z-2036940640-RC2ZINAAJOGS-RTRMADP-3-EUROPE-ECONOMY-ENERGY.jpg"
     },
     {
-      "title": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/tyson-fury-vs-anthony-joshua-fight-confirmed-but-is-the-bout-too-late?traffic_source=rss",
+      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T21:54:26.000Z",
-      "summary": "As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides."
+      "published": "2026-10-01T23:44:39.000Z",
+      "summary": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025."
     },
     {
       "title": "Fake BBC report falsely implicates Indian passenger and pilot in Flydubai hijacking attempt",
@@ -1190,11 +1234,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ba58f1da-bdd8-11f1-97a7-13e372f41e70/w:1024/p:16x9/capture-13379394976abec5e3cfa6e8-19055800.jpg"
     },
     {
-      "title": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
-      "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss",
+      "title": "Brazilian government calls for probe into US funding of far-right causes",
+      "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T21:53:16.000Z",
-      "summary": "Saudi Arabia's Interior Ministry says pilots were returned to the UAE with an Emirati security team."
+      "published": "2026-10-01T22:48:17.000Z",
+      "summary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election."
     },
     {
       "title": "'Fundamental demand': Saint-Denis students seek same opportunity as those in 'more privileged areas'",
@@ -1205,11 +1249,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/60eee436-bdda-11f1-b27d-13420ab900a2/w:1024/p:16x9/EN-20261001-150354-151021-CS.jpg"
     },
     {
-      "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-      "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
+      "title": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T21:33:15.000Z",
-      "summary": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad."
+      "published": "2026-10-01T22:44:56.000Z",
+      "summary": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action."
     },
     {
       "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
@@ -1220,11 +1264,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4257/live/b16f52c0-bdb1-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss",
+      "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T21:22:17.000Z",
-      "summary": "Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo's absence not felt by Portugal in Austria."
+      "published": "2026-10-01T22:31:30.000Z",
+      "summary": "France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured."
     },
     {
       "title": "Ethiopia and Eritrea break diplomatic ties over conflict",
@@ -1235,11 +1279,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3d1693e6-bdd6-11f1-9bfe-69fad0a7cb9f/w:1024/p:16x9/ANGL261001-2140-Live.jpg"
     },
     {
-      "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss",
+      "title": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T21:14:55.000Z",
-      "summary": "Republic of Ireland's game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand."
+      "published": "2026-10-01T22:30:32.000Z",
+      "summary": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament."
     },
     {
       "title": "Egypt arrests entire newsroom of 'unlicensed' independent outlet",
@@ -1249,11 +1293,11 @@ window.GDC_NEWS = {
       "summary": "Egypt's interior ministry said Thursday it arrested six staff members of a fact-checking platform it accused of being \"unlicensed\" and linked to the banned Muslim Brotherhood group"
     },
     {
-      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
+      "title": "Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/tyson-fury-vs-anthony-joshua-fight-confirmed-but-is-the-bout-too-late?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:49:45.000Z",
-      "summary": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July."
+      "published": "2026-10-01T21:54:26.000Z",
+      "summary": "As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides."
     },
     {
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
@@ -1264,11 +1308,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg"
     },
     {
-      "title": "Funeral held for Palestinian man killed in the occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
+      "title": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
+      "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:45:04.000Z",
-      "summary": "Funeral held for Palestinian man killed in the occupied West Bank"
+      "published": "2026-10-01T21:53:16.000Z",
+      "summary": "Saudi Arabia's Interior Ministry says pilots were returned to the UAE with an Emirati security team."
     },
     {
       "title": "UK police arrest dual UK-Iranian national over Fairford air base incident",
@@ -1279,11 +1323,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ed3c1f38-bdcd-11f1-be32-dd51fcab6130/w:1024/p:16x9/AP26272329512134.jpg"
     },
     {
-      "title": "The filmmaker taking on Kenya’s colonised tea plantations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
+      "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+      "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:29:51.000Z",
-      "summary": "The filmmaker taking on Kenya’s colonised tea plantations"
+      "published": "2026-10-01T21:33:15.000Z",
+      "summary": "Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad."
     },
     {
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
@@ -1294,11 +1338,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d348/live/42c7b520-bdc4-11f1-964e-45603b94c961.jpg"
     },
     {
-      "title": "ICC ends contract with French insurer amid US sanctions threat",
-      "link": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
+      "title": "Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:20:00.000Z",
-      "summary": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports."
+      "published": "2026-10-01T21:22:17.000Z",
+      "summary": "Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo's absence not felt by Portugal in Austria."
     },
     {
       "title": "France’s purchasing power crisis: Navigating the pinch",
@@ -1309,11 +1353,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a7c7667a-bdcc-11f1-8e15-13e372f41e70/w:1024/p:16x9/000-89NZ8CQ.jpg"
     },
     {
-      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
-      "link": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+      "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+      "link": "https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:10:52.000Z",
-      "summary": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata."
+      "published": "2026-10-01T21:14:55.000Z",
+      "summary": "Republic of Ireland's game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand."
     },
     {
       "title": "Fires break out at French schools as students protest nationwide",
@@ -1324,11 +1368,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc55/live/287dd260-bd94-11f1-9a76-4118bb2c2e43.jpg"
     },
     {
-      "title": "Manchester City breaches need tax implication answers, UK Parliament told",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss",
+      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
+      "link": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:08:46.000Z",
-      "summary": "HM Revenue and Customs (HMRC) has been contacted in the United Kingdom about Man City's financial breaches."
+      "published": "2026-10-01T20:49:45.000Z",
+      "summary": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July."
     },
     {
       "title": "Former Sudanese president Bashir hospitalized in Khartoum",
@@ -1338,11 +1382,11 @@ window.GDC_NEWS = {
       "summary": "The 82-year-old has spent most of his life, since his ouster in 2019, between hospital and prison"
     },
     {
-      "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss",
+      "title": "Funeral held for Palestinian man killed in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:02:42.000Z",
-      "summary": "Six sources from Syria, the US and Lebanon told Reuters news agency the reported meeting aimed to calm tensions."
+      "published": "2026-10-01T20:45:04.000Z",
+      "summary": "Funeral held for Palestinian man killed in the occupied West Bank"
     },
     {
       "title": "Libya's pay strike rallies teachers across divided nation",
@@ -1350,57 +1394,15 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-01T18:33:38.000Z",
       "summary": "Classes for some 1.6 million public-school students were due to start in early September but have been postponed indefinitely, as teachers regularly take to the streets to protest over…"
-    },
-    {
-      "title": "Who is Capt. Smit, Machchhar, the pilot of the Flydubai flight?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/who-is-capt-smit-machchhar-the-pilot-of-the-flydubai-flight?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T19:54:36.000Z",
-      "summary": "Captain Smit Machchhar from India is recovering from stab wounds he suffered in a Flydubai flight altercation."
-    },
-    {
-      "title": "Algeria adopts law imposing death penalty on forest arsonists",
-      "link": "http://www.africanews.com/2026/10/01/algeria-adopts-law-imposing-death-penalty-on-forest-arsonists/",
-      "source": "Africanews",
-      "published": "2026-10-01T17:12:36.000Z",
-      "summary": "Algerian lawmakers on Thursday voted to impose the death penalty on convicted forest arsonists, after deadly wildfires killed at least 12 people during the summer."
-    },
-    {
-      "title": "Cornell rape allegations renew push to change New York sexual assault law",
-      "link": "https://www.aljazeera.com/editorial/2026/10/1/cornell-rape-allegations-renew-push-to-change-new-york-sexual-assault-law?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T19:47:58.000Z",
-      "summary": "New York law treats intoxicated victims differently depending on whether they willingly consumed alcohol or drugs."
-    },
-    {
-      "title": "East African countries are racing to finish preparations ahead of AFCON 2027",
-      "link": "http://www.africanews.com/2026/10/01/east-african-countries-are-racing-to-finish-preparations-ahead-of-afcon-2027/",
-      "source": "Africanews",
-      "published": "2026-10-01T16:52:00.000Z",
-      "summary": "With less than nine months to go before the start of the 2027 Africa Cup of Nations, host nations Kenya, Tanzania and Uganda are scrambling to finish preparations amid rumours of a…"
-    },
-    {
-      "title": "What’s driving Israeli settler violence in the occupied West Bank?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T19:45:37.000Z",
-      "summary": "Attacks on Palestinians in the area are growing at unprecedented levels."
-    },
-    {
-      "title": "Mixed reactions after prominent Zimbabwe businessman dies in helicopter crash",
-      "link": "http://www.africanews.com/2026/10/01/mixed-reactions-after-prominent-zimbabwe-businessman-dies-in-helicopter-crash/",
-      "source": "Africanews",
-      "published": "2026-10-01T16:46:16.000Z",
-      "summary": "Wicknell Chivayo was one of the most recognisable faces of a class of conspicuously wealthy entrepreneurs with ties to the ruling party"
     }
   ],
   "africa": [
     {
-      "title": "The filmmaker taking on Kenya’s colonised tea plantations",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
+      "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
+      "link": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:29:51.000Z",
-      "summary": "The filmmaker taking on Kenya’s colonised tea plantations"
+      "published": "2026-10-02T00:29:57.000Z",
+      "summary": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running."
     },
     {
       "title": "Egypt arrests entire newsroom of 'unlicensed' independent outlet",
@@ -1410,11 +1412,11 @@ window.GDC_NEWS = {
       "summary": "Egypt's interior ministry said Thursday it arrested six staff members of a fact-checking platform it accused of being \"unlicensed\" and linked to the banned Muslim Brotherhood group"
     },
     {
-      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
-      "link": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+      "title": "The filmmaker taking on Kenya’s colonised tea plantations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-01T20:10:52.000Z",
-      "summary": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata."
+      "published": "2026-10-01T20:29:51.000Z",
+      "summary": "The filmmaker taking on Kenya’s colonised tea plantations"
     },
     {
       "title": "Libya's pay strike rallies teachers across divided nation",
@@ -1422,6 +1424,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-01T18:33:38.000Z",
       "summary": "Classes for some 1.6 million public-school students were due to start in early September but have been postponed indefinitely, as teachers regularly take to the streets to protest over…"
+    },
+    {
+      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+      "link": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T20:10:52.000Z",
+      "summary": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata."
     },
     {
       "title": "Kenya: Dangote Refinery IPO Open to Kenyans Through NSE-Listed Gdrs",
@@ -1538,11 +1547,11 @@ window.GDC_NEWS = {
       "summary": "[New Zimbabwe] A 12-YEAR-OLD US$95,322 arbitral award involving General Agriculture and Plantation Workers Union of Zimbabwe (GAPWUZ) and The Wattle Company Limited has hit a legal hurdle…"
     },
     {
-      "title": "Kenya: Bamburi Cement Targets Cement Supply Deal for Dangote Lamu Refinery",
-      "link": "https://allafrica.com/stories/202610010447.html",
+      "title": "Kenya: The Moth Returns to Nairobi As Cost of Living, Unemployment Shape Personal Stories",
+      "link": "https://allafrica.com/stories/202610010448.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-01T14:54:02.000Z",
-      "summary": "[Capital FM] Nairobi -- Bamburi Cement Plc is seeking to supply more than one million tonnes of cement and concrete products to the Dangote East Africa Petroleum Refinery in Lamu."
+      "published": "2026-10-01T14:56:30.000Z",
+      "summary": "[Capital FM] Nairobi -- Rising living costs, unemployment and public health challenges will feature in personal stories when The Moth stages its seventh Nairobi Mainstage event next month."
     },
     {
       "title": "Malawi: Zambian Hitmaker Yo Maps Set to Headline Sand Music Festival As Organisers Confirm Final Details for Beachside Bash",
@@ -1552,11 +1561,11 @@ window.GDC_NEWS = {
       "summary": "[Nyasa Times] Music fans across Malawi are gearing up for a weekend of beats and sunshine, after organisers confirmed Zambian star Yo Maps as the headline act for this year's Sand Music…"
     },
     {
-      "title": "Angola: Minister of Transport Highlights Private Sector's Commitment to Infrastructures",
-      "link": "https://allafrica.com/stories/202610010442.html",
+      "title": "Kenya: Bamburi Cement Targets Cement Supply Deal for Dangote Lamu Refinery",
+      "link": "https://allafrica.com/stories/202610010447.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-01T14:49:03.000Z",
-      "summary": "[ANGOP] Talatona -- The minister of transport, Ricardo de Abreu, on Wednesday (30) in Luanda highlighted the strong engagement of the private sector in transnational infrastructure…"
+      "published": "2026-10-01T14:54:02.000Z",
+      "summary": "[Capital FM] Nairobi -- Bamburi Cement Plc is seeking to supply more than one million tonnes of cement and concrete products to the Dangote East Africa Petroleum Refinery in Lamu."
     },
     {
       "title": "Somalia: Brigadier General Ivan Falasca Formally Assumes Command of the European Union Training Mission in Somalia",
@@ -1566,11 +1575,11 @@ window.GDC_NEWS = {
       "summary": "[Shabelle] Mogadishu -- Brigadier General Ivan FALASCA formally assumed command of the European Union Training Mission in Somalia (EUTM Somalia), succeeding Brigadier General Elio MANES…"
     },
     {
-      "title": "Mozambique: Government Denies Reports of Fuel Shortage",
-      "link": "https://allafrica.com/stories/202610010434.html",
+      "title": "Angola: Minister of Transport Highlights Private Sector's Commitment to Infrastructures",
+      "link": "https://allafrica.com/stories/202610010442.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-01T14:45:17.000Z",
-      "summary": "[AIM] Maputo -- Mozambique's the Ministry of Mineral Resources and Energy (MIREME) denies that the country is facing another fuel shortage despite long queues of vehicles at filling…"
+      "published": "2026-10-01T14:49:03.000Z",
+      "summary": "[ANGOP] Talatona -- The minister of transport, Ricardo de Abreu, on Wednesday (30) in Luanda highlighted the strong engagement of the private sector in transnational infrastructure…"
     },
     {
       "title": "Uganda: Inclusive Education Should Not Erase Special Needs Schools, Govt Told",
@@ -1580,11 +1589,11 @@ window.GDC_NEWS = {
       "summary": "[Independent (Kampala)] Kampala -- As the Ministry of Education and Sports moves towards promoting inclusive education, stakeholders are warning that the shift should not result in the…"
     },
     {
-      "title": "Mozambique: Volume of Currency Trading Reached 5.73 Billion Dollars",
-      "link": "https://allafrica.com/stories/202610010433.html",
+      "title": "Mozambique: Government Denies Reports of Fuel Shortage",
+      "link": "https://allafrica.com/stories/202610010434.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-01T14:44:59.000Z",
-      "summary": "[AIM] Maputo -- Mozambique's foreign exchange market has recorded a high volume of currency trading between January and August of this year, with commercial banks purchasing 5.73 billion US…"
+      "published": "2026-10-01T14:45:17.000Z",
+      "summary": "[AIM] Maputo -- Mozambique's the Ministry of Mineral Resources and Energy (MIREME) denies that the country is facing another fuel shortage despite long queues of vehicles at filling…"
     },
     {
       "title": "Nigeria: Independence - Mutfwang Pardons 130 Inmates, Commutes 4 Death Sentences",
@@ -1594,11 +1603,11 @@ window.GDC_NEWS = {
       "summary": "[Daily Trust] Governor Caleb Mutfwang of Plateau State has granted absolute pardon to 130 inmates across custodial facilities in the state."
     },
     {
-      "title": "Mozambique: Bank of Mozambique Holds Interest Rate At 9.25 Percent",
-      "link": "https://allafrica.com/stories/202610010430.html",
+      "title": "Mozambique: Volume of Currency Trading Reached 5.73 Billion Dollars",
+      "link": "https://allafrica.com/stories/202610010433.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-01T14:35:17.000Z",
-      "summary": "[AIM] Maputo -- The Monetary Policy Committee of the Bank of Mozambique (CPMO), meeting in Maputo on Wednesday, has decided to continue keeping its benchmark interest rate, known as the…"
+      "published": "2026-10-01T14:44:59.000Z",
+      "summary": "[AIM] Maputo -- Mozambique's foreign exchange market has recorded a high volume of currency trading between January and August of this year, with commercial banks purchasing 5.73 billion US…"
     },
     {
       "title": "Nigeria: Govt Skips Independence Day Parade for Second Year Running",
@@ -1608,6 +1617,20 @@ window.GDC_NEWS = {
       "summary": "[Daily Trust] For the second consecutive year, President Bola Ahmed Tinubu's administration has dropped the traditional Independence Day military parade."
     },
     {
+      "title": "Mozambique: Bank of Mozambique Holds Interest Rate At 9.25 Percent",
+      "link": "https://allafrica.com/stories/202610010430.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-01T14:35:17.000Z",
+      "summary": "[AIM] Maputo -- The Monetary Policy Committee of the Bank of Mozambique (CPMO), meeting in Maputo on Wednesday, has decided to continue keeping its benchmark interest rate, known as the…"
+    },
+    {
+      "title": "Malawi: Army Boss in Cuffs - Ex-Malawi Defence Force Commander Arrested Over 'Illegal Arms Trafficking' and Terrorism-Linked Offences",
+      "link": "https://allafrica.com/stories/202610010436.html",
+      "source": "AllAfrica",
+      "published": "2026-10-01T14:45:51.000Z",
+      "summary": "[Nyasa Times] A retired former commander of the Malawi Defence Force has been dramatically arrested over allegations of illegal arms trafficking in a case set to rock the country's security…"
+    },
+    {
       "title": "Zimbabwe: IPEC Says Projects Must Guarantee Returns Before Accessing Pension Funds",
       "link": "https://allafrica.com/stories/202610010401.html",
       "source": "AllAfrica Business",
@@ -1615,11 +1638,11 @@ window.GDC_NEWS = {
       "summary": "[New Zimbabwe] THE Insurance and Pensions Commission (IPEC) says it will only support bankable projects that can guarantee a return on investment, sending a clear message to policymakers…"
     },
     {
-      "title": "Botswana: Chapo Reaffirms the Need for Stronger Cooperation With Botswana",
-      "link": "https://allafrica.com/stories/202610010431.html",
+      "title": "Malawi: General Phiri's Court Date Abruptly Postponed - As He's Hauled Into Police Custody",
+      "link": "https://allafrica.com/stories/202610010435.html",
       "source": "AllAfrica",
-      "published": "2026-10-01T14:44:01.000Z",
-      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo has described his state visit to Botswana as positive, highlighting stronger bilateral cooperation, new investment prospects and plans to…"
+      "published": "2026-10-01T14:45:32.000Z",
+      "summary": "[Nyasa Times] Dramatic scenes unfolded outside a Lilongwe courthouse as former Malawi Defence Force commander General Paul Valentino Phiri was abruptly sent away on the eve of his scheduled…"
     },
     {
       "title": "Uganda: Airtel Uganda Hands Sh42.6 Billion Dividend to NSSF",
@@ -1629,11 +1652,11 @@ window.GDC_NEWS = {
       "summary": "[Independent (Kampala)] Kampala -- Airtel Uganda has handed over a dividend cheque worth sh42,609,880,000 to the National Social Security Fund (NSSF), representing returns on the Fund's…"
     },
     {
-      "title": "Botswana: Botswana Relives 1966 At Diamond Jubilee",
-      "link": "https://allafrica.com/stories/202610010428.html",
+      "title": "Botswana: Chapo Reaffirms the Need for Stronger Cooperation With Botswana",
+      "link": "https://allafrica.com/stories/202610010431.html",
       "source": "AllAfrica",
-      "published": "2026-10-01T14:34:35.000Z",
-      "summary": "[Botswana Daily News] Gaborone -- For more than 15 minutes, the sky above the National Stadium glittered with fireworks on Tuesday night, bringing a spectacular close to Botswana's Diamond…"
+      "published": "2026-10-01T14:44:01.000Z",
+      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo has described his state visit to Botswana as positive, highlighting stronger bilateral cooperation, new investment prospects and plans to…"
     },
     {
       "title": "Africa: How Lafarge Tried to 'Frustrate' Dangote's Cement Expansion in Africa - Obasanjo",
@@ -1643,11 +1666,11 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] \"The people who really didn't want Aliko to succeed in cement production is a French company called Lafarge, and they put every obstacle on Aliko's way, just as they are…"
     },
     {
-      "title": "Botswana: Diamond Jubilee Calls for Reflection",
-      "link": "https://allafrica.com/stories/202610010427.html",
+      "title": "Botswana: Botswana Relives 1966 At Diamond Jubilee",
+      "link": "https://allafrica.com/stories/202610010428.html",
       "source": "AllAfrica",
-      "published": "2026-10-01T14:34:13.000Z",
-      "summary": "[Botswana Daily News] Serowe -- The 60th anniversary of Botswana's independence, the Diamond Jubilee, provided an opportunity for every Motswana to reflect on the country's journey…"
+      "published": "2026-10-01T14:34:35.000Z",
+      "summary": "[Botswana Daily News] Gaborone -- For more than 15 minutes, the sky above the National Stadium glittered with fireworks on Tuesday night, bringing a spectacular close to Botswana's Diamond…"
     },
     {
       "title": "South Africa: VC Shares Insights On UCT's Adoption of AI",
@@ -1655,27 +1678,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-01T13:38:56.000Z",
       "summary": "[UCT] The era of artificial intelligence (AI) has taken the world by storm, and reimagining a future where universities shift gear and leverage AI for its constituents' and societal benefit…"
-    },
-    {
-      "title": "Kenya: Politrack Poll - Ruto 45.1 Percent, Sifuna 19.6 Percent, Kalonzo 10.3 Percent If Elections Held Today",
-      "link": "https://allafrica.com/stories/202610010372.html",
-      "source": "AllAfrica",
-      "published": "2026-10-01T13:39:18.000Z",
-      "summary": "[Capital FM] Nairobi -- President William Ruto leads the presidential preference survey by Politrack Africa, with 45.1 per cent of respondents saying they would vote for him if elections…"
-    },
-    {
-      "title": "Nigeria: Tinubu Compares His Tough Policies to Painful Cancer Treatment",
-      "link": "https://allafrica.com/stories/202610010359.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-01T13:35:24.000Z",
-      "summary": "[Premium Times] \"Nigeria was like a sick patient who receives the terrible news that he has cancer.\""
-    },
-    {
-      "title": "Namibia: Health Ministry 'Illegally' Pays Suppliers N$13m",
-      "link": "https://allafrica.com/stories/202610010370.html",
-      "source": "AllAfrica",
-      "published": "2026-10-01T13:38:03.000Z",
-      "summary": "[Namibian] Auditor general Junias Kandjeke has exposed widespread financial irregularities and the unauthorised spending of over N$13 million at the health ministry through improper…"
     }
   ]
 };
