@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-02T23:31:42.245Z",
-  "worldAt": "2026-10-02T23:31:42.243Z",
+  "updated": "2026-10-03T02:17:32.667Z",
+  "worldAt": "2026-10-03T02:17:32.664Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -25,27 +25,34 @@ window.GDC_NEWS = {
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 1/10 stories",
     "Ghana News Agency: 1/1 stories",
-    "News Ghana: failed (HTTP 526)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 35 stories",
+    "World · BBC News: 37 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 31 stories",
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 30 stories",
-    "Africa · BBC Africa: 31 stories",
+    "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 8 stories",
     "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "MTN set to deploy 5G services after winning spectrum licenses worth US$202m",
+      "link": "https://www.myjoyonline.com/mtn-set-to-deploy-5g-services-after-winning-spectrum-licenses-worth-us202m/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T01:19:30.000Z",
+      "summary": "This is coming after the telecom giant announced that the NCA has notified the firm of the award of spectrum in the 700 MHz and 3 GHz bands, following its invitation to apply for spectrum…"
+    },
     {
       "title": "OccupyGhana Tells EOCO, BNI: Investigate, Don’t Punish",
       "link": "https://thehighstreetjournal.com/occupyghana-tells-eoco-bni-investigate-dont-punish/",
@@ -1088,16 +1095,99 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-09-30T05:00:00.000Z",
       "summary": "Importers warn that delays in FDA approvals are driving up storage, demurrage, and other port-related costs."
-    },
-    {
-      "title": "Same Tax, Smarter Collection: How GRA’s Sentinel System Will Make Foreign Digital Platforms Pay Their Fair Share",
-      "link": "https://thehighstreetjournal.com/same-tax-smarter-collection-how-gras-sentinel-system-will-make-foreign-digital-platforms-pay-their-fair-share/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T05:00:00.000Z",
-      "summary": "It is Friday evening in Accra. Ama settles onto her sofa, opens her phone and renews her monthly streaming subscription with mobile money. A few kilometers away, Kwame, who runs a small…"
     }
   ],
   "world": [
+    {
+      "title": "India vs Pakistan live: Asian Games cricket final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T01:55:31.000Z",
+      "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match."
+    },
+    {
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-02T23:56:21.000Z",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8afb/live/fab26a80-be6f-11f1-8a45-cd59664d243b.jpg"
+    },
+    {
+      "title": "Schools ablaze as student protests spread across France",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T01:46:10.000Z",
+      "summary": "Students have set fire to schools and clashed with police as protests spread across France"
+    },
+    {
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-02T23:53:35.000Z",
+      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg"
+    },
+    {
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T00:46:10.000Z",
+      "summary": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day."
+    },
+    {
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-02T23:37:13.000Z",
+      "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/bc021660-be5f-11f1-b36c-81ad410b221e.jpg"
+    },
+    {
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T00:00:00.000Z",
+      "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters."
+    },
+    {
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-02T23:16:03.000Z",
+      "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fb8/live/f598a470-bd79-11f1-8134-9503562e5ca9.jpg"
+    },
+    {
+      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+      "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T23:55:24.000Z",
+      "summary": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea's military says."
+    },
+    {
+      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-02T23:06:00.000Z",
+      "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47c/live/3978fa60-beaf-11f1-b48e-15cf4ddc906e.jpg"
+    },
+    {
+      "title": "Dutch royal house helped slave trade to survive, study finds",
+      "link": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T23:43:50.000Z",
+      "summary": "In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries."
+    },
+    {
+      "title": "The vanishing world of India's street magicians",
+      "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-02T22:59:05.000Z",
+      "summary": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abca/live/28b1f100-bdb0-11f1-8373-27235719cf2a.jpg"
+    },
     {
       "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
       "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
@@ -1199,7 +1289,7 @@ window.GDC_NEWS = {
       "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-02T20:25:19.000Z",
-      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg"
     },
     {
@@ -1303,97 +1393,17 @@ window.GDC_NEWS = {
       "published": "2026-10-02T18:16:07.000Z",
       "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its…",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2934x1762+0+0/resize/2934x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fbc%2Fe022d62a4f859ff4c48649b85df9%2Fmou-23.jpg"
-    },
-    {
-      "title": "Arab party leader withdraws from Israeli elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T19:10:23.000Z",
-      "summary": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election."
-    },
-    {
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-02T17:44:08.000Z",
-      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T19:01:45.000Z",
-      "summary": "US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles."
-    },
-    {
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-02T17:35:10.000Z",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-      "link": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T18:51:54.000Z",
-      "summary": "Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army's goal of cutting the RSF’s supply lines."
-    },
-    {
-      "title": "Yemen: Deadly battles between Ansar Allah, gov't forces",
-      "link": "http://www.africanews.com/2026/10/02/yemen-deadly-battles-between-ansar-allah-govt-forces/",
-      "source": "Africanews",
-      "published": "2026-10-02T16:47:34.000Z",
-      "summary": "Yemen's Houthis and Saudi-backed forces fought over an area located not far from a waterway that is crucial to global energy flows, killing 80 combatants over the past day, sources on both…"
-    },
-    {
-      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-      "link": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T18:18:42.000Z",
-      "summary": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare."
-    },
-    {
-      "title": "Spain's parliament rejects housing bill as protests continue",
-      "link": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-02T16:39:00.000Z",
-      "summary": "Spain's minority government suffered defeat in parliament as it tried to push through a pair of emergency measures aimed at making housing more affordable. A pensioner's eviction and…"
-    },
-    {
-      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-      "link": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T18:11:37.000Z",
-      "summary": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure."
-    },
-    {
-      "title": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
-      "link": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term",
-      "source": "France 24",
-      "published": "2026-10-02T16:20:06.000Z",
-      "summary": "President Luiz Inacio Lula da Silva will stand for re-election in Brazil on Sunday. At 80, the former steelworker hopes to capitalise on his popularity and economic successes to win a…",
-      "image": "https://s.france24.com/media/display/9ea92c66-b9f0-11f1-8cc7-91cf9f3cd539/w:1024/p:16x9/WEB-IVS-NOT-26SEP-PORTADA-WEB.png"
-    },
-    {
-      "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-      "link": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T17:43:30.000Z",
-      "summary": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations."
-    },
-    {
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-02T16:08:25.000Z",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc3/live/316213c0-be23-11f1-bf88-854b5521eba9.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-02T23:56:21.000Z",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8afb/live/fab26a80-be6f-11f1-8a45-cd59664d243b.jpg"
+    },
     {
       "title": "Could conflict in Ethiopia expand across the region?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
@@ -1668,13 +1678,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-02T13:14:24.000Z",
       "summary": "Deaf and hearing impaired people in Burkina Faso are using a special technique to dance. The Vibra-Signe technique helps them feel the rhythm and has opened up new social possibilities for…"
-    },
-    {
-      "title": "Kenya: City Hall Launches Day 2 of 'Operation Okoa Maisha' El Niño Emergency Simulation",
-      "link": "https://allafrica.com/stories/202610020159.html",
-      "source": "AllAfrica",
-      "published": "2026-10-02T14:35:06.000Z",
-      "summary": "[Capital FM] Nairobi -- Nairobi City County has entered the second day of Operation Okoa Maisha, a multi-agency emergency simulation exercise designed to test the city's preparedness and…"
     }
   ]
 };

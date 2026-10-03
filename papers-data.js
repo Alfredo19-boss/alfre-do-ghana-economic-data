@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-02T23:32:11.114Z",
+  "updated": "2026-10-03T02:17:46.218Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "MTN set to deploy 5G services after winning spectrum licenses worth US$202m",
+      "link": "https://www.myjoyonline.com/mtn-set-to-deploy-5g-services-after-winning-spectrum-licenses-worth-us202m/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T01:19:30.000Z",
+      "summary": "This is coming after the telecom giant announced that the NCA has notified the firm of the award of spectrum in the 700 MHz and 3 GHz bands, following its invitation to apply for spectrum…",
+      "categories": [
+        "Business",
+        "HP Business 1",
+        "Telecom",
+        "5G",
+        "GSE",
+        "MTN",
+        "NCA",
+        "spectrum"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-616-1024x690.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana secure three semi-final slots at All Africa U-19 Badminton Championship",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-secure-three-semi-final-slots-at-all-africa-u-19-badminton-championship.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-02T23:58:20.000Z",
+      "summary": "Ghana’s Golden Shuttlers have secured three semi-final places at the ongoing 2026 All Africa U-19 Badminton Championship in Cairo, Egypt, following an impressive showing in the individual…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Golden Shuttlers rally to victory at 2026 All Africa U-19 Badminton Championship",
+      "link": "https://www.graphic.com.gh/sports/sports-news/golden-shuttlers-rally-to-victory-at-2026-all-africa-u-19-badminton-championship.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-02T23:55:18.000Z",
+      "summary": "Ghana’s Golden Shuttlers produced an impressive opening day in the individual events of the 2026 All Africa U-19 Badminton Championship in Cairo, Egypt, with several players advancing to…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/02/BADMINTON.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
     {
       "title": "NPP national elections: 3,000–4,000 police to handle security, traffic in Kumasi – Karbo",
       "link": "https://www.myjoyonline.com/npp-national-elections-3000-4000-police-to-handle-security-traffic-in-kumasi-karbo/",
@@ -134,21 +177,6 @@ window.GDC_PAPERS = {
         "education infrastructure"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-20.27.07-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Teacher unions strike: Gov’t presents fresh proposals as talks end inconclusively",
-      "link": "https://www.myjoyonline.com/teacher-unions-strike-govt-presents-fresh-proposals-as-talks-end-inconclusively/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T20:12:31.000Z",
-      "summary": "A meeting between the government and the leadership of the striking teacher unions over the ongoing nationwide strike ended inconclusively on Friday, October 2, with new proposals expected…",
-      "categories": [
-        "Education",
-        "HP News 10",
-        "National",
-        "Teacher unions strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Thomas-Musah-1-1024x579.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -420,30 +448,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/ANKRAH.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "'I will always carry Ghana with me, with respect and affection' – Queiroz",
-      "link": "https://www.graphic.com.gh/sports/sports-news/i-will-always-carry-ghana-with-me-with-respect-and-affection-queiroz.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-01T14:28:12.000Z",
-      "summary": "The Portuguese coach Calrlos Queiroz says he arrived in Ghana with the determination to help build a stronger future for the Black Stars and contribute to the development of the country’s…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/01/CARLOSS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "What went wrong for Nigeria in 3-0 AFCON qualifying defeat to Guinea-Bissau?",
-      "link": "https://www.graphic.com.gh/sports/sports-news/what-went-wrong-for-nigeria-in-3-0-afcon-qualifying-defeat-to-guinea-bissau.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-01T12:26:00.000Z",
-      "summary": "Nigeria suffered a major setback in their bid to qualify for the 2027 Africa Cup of Nations, losing 3-0 to Guinea-Bissau in a disappointing outing that exposed several weaknesses in the…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/01/EAGLES.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
