@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-03T02:17:32.667Z",
-  "worldAt": "2026-10-03T02:17:32.664Z",
+  "updated": "2026-10-03T08:15:24.513Z",
+  "worldAt": "2026-10-03T08:15:24.510Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,29 +23,85 @@ window.GDC_NEWS = {
     "Graphic Online: 2/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 1/10 stories",
+    "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 37 stories",
-    "World · Deutsche Welle: 11 stories",
+    "World · BBC News: 38 stories",
+    "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 31 stories",
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 30 stories",
-    "Africa · BBC Africa: 32 stories",
+    "Africa · BBC Africa: 33 stories",
     "Africa · Deutsche Welle: 8 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "LPG infrastructure investments critical to Ghana’s energy future – Jinapor",
+      "link": "https://www.ghanabusinessnews.com/2026/10/03/lpg-infrastructure-investments-critical-to-ghanas-energy-future-jinapor/",
+      "source": "Ghana Business News",
+      "published": "2026-10-03T07:56:24.000Z",
+      "summary": "Dr John Abdulai Jinapor, Minister for Energy and Green Transition, has stressed the need for strategic investments in liquefied petroleum gas (LPG) infrastructure to strengthen Ghana’s…"
+    },
+    {
+      "title": "Press 1 for Love, Press 2 for Sex, Press 3 to Speak to a Supervisor",
+      "link": "https://thehighstreetjournal.com/press-1-for-love-press-2-for-sex-press-3-to-speak-to-a-supervisor/",
+      "source": "The High Street Journal",
+      "published": "2026-10-03T07:24:58.000Z",
+      "summary": "Modern relationships may not suffer from a lack of love, but poor customer service, giving partners what we value instead of discovering what truly makes them feel loved."
+    },
+    {
+      "title": "SSNIT Seeks National Security Action to Protect Labadi, La Palm Hotel Assets",
+      "link": "https://thehighstreetjournal.com/ssnit-seeks-national-security-action/",
+      "source": "The High Street Journal",
+      "published": "2026-10-03T05:05:00.000Z",
+      "summary": "The pension fund says beachfront encroachment threatens hotel operations, tourism assets and returns for Ghanaian workers and pensioners"
+    },
+    {
+      "title": "VRA’s Cash-Flow Woes Deepen as It Steps Up Power Investments",
+      "link": "https://thehighstreetjournal.com/vras-cash-flow-woes-deepen-as-it-steps-up-power-investments/",
+      "source": "The High Street Journal",
+      "published": "2026-10-03T05:03:00.000Z",
+      "summary": "VRA says delayed payments, inter-utility debt and revenue shortfalls are straining liquidity, despite GH¢8.95 billion electricity revenue in 2025 and continued investment in new generation…"
+    },
+    {
+      "title": "Tullow Tax Arbitration Should Be a Warning to the Gov’t for Future Oil Agreement – Tax Expert Says",
+      "link": "https://thehighstreetjournal.com/tullow-tax-arbitration-should-be-a-warning-to-the-govt-for-future-oil-agreement-tax-expert-says/",
+      "source": "The High Street Journal",
+      "published": "2026-10-03T05:02:00.000Z",
+      "summary": "Tax expert Francis Timore-Boi has urged Ghana to strengthen petroleum agreement drafting, warning that the Tullow arbitration victory could have gone differently and exposing the state to…"
+    },
+    {
+      "title": "Informal Workers Left Out of Africa’s Trade Policy, ILO Warns",
+      "link": "https://thehighstreetjournal.com/informal-workers-left-out-of-africas-trade-policy-ilo-warns/",
+      "source": "The High Street Journal",
+      "published": "2026-10-03T05:01:00.000Z",
+      "summary": "ILO says informal workers drive much of Africa’s trade-linked employment but remain underrepresented in decisions shaping trade and labour policy."
+    },
+    {
+      "title": "GEA Pushes for Closer Employer-Regulator Engagement on Labor Rules",
+      "link": "https://thehighstreetjournal.com/gea-pushes-for-closer-employer-regulator-engagement-on-labor-rules/",
+      "source": "The High Street Journal",
+      "published": "2026-10-03T05:00:00.000Z",
+      "summary": "GEA urges stronger employer-regulator engagement to improve labour compliance, workplace safety and understanding of evolving employment regulations across businesses."
+    },
+    {
+      "title": "Africa Faces Gunboat Diplomacy Without the Gunboats",
+      "link": "https://thehighstreetjournal.com/africa-faces-gunboat-diplomacy-without-the-gunboats/",
+      "source": "The High Street Journal",
+      "published": "2026-10-03T04:32:49.000Z",
+      "summary": "By Bertie Jacobs “Speak softly and carry a big stick; you will go far.” That was one of the mantras of Theodore ‘Teddy’ Roosevelt, the 26th president of the United States. It meant…"
+    },
     {
       "title": "MTN set to deploy 5G services after winning spectrum licenses worth US$202m",
       "link": "https://www.myjoyonline.com/mtn-set-to-deploy-5g-services-after-winning-spectrum-licenses-worth-us202m/",
@@ -1039,71 +1095,163 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-09-30T06:50:09.000Z",
       "summary": "Ghana has taken another step towards strengthening efforts to prevent and eliminate child labour with the rollout of the new Ghana Child Labour Monitoring System (GCLMS)."
-    },
-    {
-      "title": "Know Thyself: Turning Human Differences into Organisational Value",
-      "link": "https://thehighstreetjournal.com/know-thyself-turning-human-differences-into-organisational-value/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T06:00:00.000Z",
-      "summary": "Human behaviour changes across environments, making self-awareness and understanding differences essential for productivity, leadership, collaboration, trust and organisational value."
-    },
-    {
-      "title": "Finance Minister engages AGI, leaders ahead of 2027 Budget",
-      "link": "https://www.myjoyonline.com/finance-minister-engages-agi-leaders-ahead-of-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T05:19:00.000Z",
-      "summary": "Dr Cassiel Ato Forson, the Minister of Finance, on Friday engaged the Association of Ghana Industries (AGI) and leading industry executives as part of consultations towards the 2027 Budget."
-    },
-    {
-      "title": "Making Cost of Credit Cheaper & Affordable: Ato’s Vision for a Single-Digit Interest on Loans",
-      "link": "https://thehighstreetjournal.com/making-cost-of-credit-cheaper-affordable-atos-vision-for-a-single-digit-interest-on-loans/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T05:05:00.000Z",
-      "summary": "Finance Minister Ato Forson says government aims to push Ghana’s borrowing costs into single digits, building on rate reductions from around 30%, while improving private-sector credit…"
-    },
-    {
-      "title": "Plant Costs Emerge as New Pressure Point for Ghana’s Construction Industry",
-      "link": "https://thehighstreetjournal.com/plant-costs-emerge-as-new-pressure-point-for-ghanas-construction-industry/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T05:03:00.000Z",
-      "summary": "Ghana’s construction industry may be facing a new source of cost pressure as rising plant and machinery expenses begin to weigh more heavily on project budgets, despite a relatively…"
-    },
-    {
-      "title": "Fake Jobs are Now New Cyber Threats As Scammers Clone Official Websites",
-      "link": "https://thehighstreetjournal.com/fake-jobs-become-new-cyber-threat-as-scammers-clone-official-websites/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T05:02:00.000Z",
-      "summary": "Jobseekers are increasingly becoming targets of sophisticated online recruitment scams, with cybercriminals cloning legitimate government websites and impersonating senior officials to make…"
-    },
-    {
-      "title": "BlackStars Poor Run Threatens Football Economy, Tourism Windfall",
-      "link": "https://thehighstreetjournal.com/blackstars-poor-run-threatens-football/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T05:01:00.000Z",
-      "summary": "A failure to qualify for AFCON could deprive travel and tourism businesses of football-driven demand"
-    },
-    {
-      "title": "Germany Backs Ghana Cocoa Traceability Drive as EU Rules Tighten",
-      "link": "https://thehighstreetjournal.com/germany-backs-ghana-cocoa-traceability/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T05:00:00.000Z",
-      "summary": "German and EU-backed digital system aims to help farmers and cocoa supply-chain operators meet new sustainability requirements and preserve access to international markets"
-    },
-    {
-      "title": "FDA Clearance Delays Push Up Costs for Importers",
-      "link": "https://thehighstreetjournal.com/fda-clearance-delays-push-up-costs-for-importers/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T05:00:00.000Z",
-      "summary": "Importers warn that delays in FDA approvals are driving up storage, demurrage, and other port-related costs."
     }
   ],
   "world": [
     {
+      "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T07:57:53.000Z",
+      "summary": "Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections."
+    },
+    {
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-03T07:49:40.000Z",
+      "summary": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T07:57:47.000Z",
+      "summary": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians."
+    },
+    {
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-03T07:25:09.000Z",
+      "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg"
+    },
+    {
+      "title": "To reclaim its sovereignty, Senegal must approach debt differently",
+      "link": "https://www.aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T07:51:04.000Z",
+      "summary": "The country must break the cycle of flawed structural adjustment that only feeds its debt crisis"
+    },
+    {
+      "title": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
+      "link": "https://www.dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-03T06:51:00.000Z",
+      "summary": "Bosnia-Herzegovina is governed by a system established after the Bosnian war — more than 30 years ago. Ethnic divisions, a complex administration and European integration all shape the…"
+    },
+    {
+      "title": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T06:53:09.000Z",
+      "summary": "US singer Zach Bryan wore a ‘Free Palestine’ shirt while performing at Gillette Stadium, owned by Robert Kraft."
+    },
+    {
+      "title": "Russia strikes another major bridge across Kyiv's Dnipro river",
+      "link": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv",
+      "source": "France 24",
+      "published": "2026-10-03T06:40:29.000Z",
+      "summary": "Kyiv's Northern Bridge across the Dnipro river was hit by a Russian air attack, Mayor Vitali Klitschko said Saturday, amid an escalation in strikes ​on ‌infrastructure in the Ukrainian…",
+      "image": "https://s.france24.com/media/display/ea2cd384-bef2-11f1-b2ef-69fad0a7cb9f/w:1024/p:16x9/2026-10-02T171441Z-992305596-RC22VNAD0WX5-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV-BRIDGE.jpg"
+    },
+    {
+      "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
+      "link": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T06:51:09.000Z",
+      "summary": "Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation."
+    },
+    {
+      "title": "UAE investigators say Omani Flydubai co-pilot was planning 'terrorist' attack",
+      "link": "https://www.france24.com/en/middle-east/20261003-co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman-for-holding-extremist-views",
+      "source": "France 24",
+      "published": "2026-10-03T06:17:45.000Z",
+      "summary": "The Omani co-pilot accused of attacking the captain aboard a Flydubai flight to Israel on September 30 attempted to carry out a \"terrorist\" attack, the United Arab Emirates prosecutor…",
+      "image": "https://s.france24.com/media/display/c016f272-bcd7-11f1-b2a8-ddce071186a9/w:1024/p:16x9/2026-09-30T135141Z-62230240-RC2PTNASHNVV-RTRMADP-3-ISRAEL-GULF-FLIGHT.jpg"
+    },
+    {
       "title": "India vs Pakistan live: Asian Games cricket final",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T01:55:31.000Z",
-      "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match."
+      "published": "2026-10-03T06:37:31.000Z",
+      "summary": "Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan."
+    },
+    {
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-03T04:38:31.000Z",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
+      "link": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T06:16:47.000Z",
+      "summary": "Probe ⁠under way to ​determine 'all the ⁠circumstances', including motive, UAE's prosecutor general says."
+    },
+    {
+      "title": "Australia: Car crashes into rugby fans, 10 injured",
+      "link": "https://www.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-03T04:27:00.000Z",
+      "summary": "The driver has been identified as an 18-year-old man who is said to have been \"revving\" when he lost control of his car."
+    },
+    {
+      "title": "Gaza voters want jobs and security as Palestinian elections approach",
+      "link": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T05:39:29.000Z",
+      "summary": "Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction."
+    },
+    {
+      "title": "Brazil's big political rematch: What to know",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+      "source": "NPR World",
+      "published": "2026-10-03T02:57:07.000Z",
+      "summary": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4667+0+0/resize/7000x4667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F8d%2F407a545043ed90bcf25c84d4e879%2Fgettyimages-2294280005.jpg"
+    },
+    {
+      "title": "New claims that Netanyahu rejected Hamas offer to release captives",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T04:58:43.000Z",
+      "summary": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023."
+    },
+    {
+      "title": "North Korea launches ballistic missile as tensions with Seoul grow over border mine blasts",
+      "link": "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand",
+      "source": "France 24",
+      "published": "2026-10-03T02:40:43.000Z",
+      "summary": "North Korea launched a ballistic missile Saturday morning from the Wonsan area on its east coast into the Sea of Japan, according to South Korea's military. The launch comes amid renewed…",
+      "image": "https://s.france24.com/media/display/d3d5e108-bed3-11f1-8d0c-13420ab900a2/w:1024/p:16x9/33573f643956faa9ed06abffc2ea828d225eaae2.jpg"
+    },
+    {
+      "title": "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
+      "link": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T04:54:20.000Z",
+      "summary": "The WHO's representative in Palestine calls on Israeli authorities to 'release the pressure on medical supplies'."
+    },
+    {
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-03T02:23:07.000Z",
+      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg"
+    },
+    {
+      "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T04:43:15.000Z",
+      "summary": "Brazilian President Lula da Silva held his final campaign rally in Rio de Janeiro on Friday"
     },
     {
       "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
@@ -1114,26 +1262,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8afb/live/fab26a80-be6f-11f1-8a45-cd59664d243b.jpg"
     },
     {
-      "title": "Schools ablaze as student protests spread across France",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+      "title": "10 injured after car crashes into rugby supporters in Australia",
+      "link": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T01:46:10.000Z",
-      "summary": "Students have set fire to schools and clashed with police as protests spread across France"
-    },
-    {
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-02T23:53:35.000Z",
-      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg"
-    },
-    {
-      "title": "US and Australia suspend diplomatic operations in Brazil before election",
-      "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T00:46:10.000Z",
-      "summary": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day."
+      "published": "2026-10-03T04:29:23.000Z",
+      "summary": "New South Wales police say the driver, an 18-year-old rugby league fan, has been arrested."
     },
     {
       "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
@@ -1144,11 +1277,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/bc021660-be5f-11f1-b36c-81ad410b221e.jpg"
     },
     {
-      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "title": "India’s Cockroach Party headlines day of anti-establishment protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T00:00:00.000Z",
-      "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters."
+      "published": "2026-10-03T04:28:03.000Z",
+      "summary": "India’s Cockroach Janta Party launches protest after millions of voters were allegedly improperly removed from rolls."
     },
     {
       "title": "Women given shorts at Oktoberfest to prevent upskirting",
@@ -1159,11 +1292,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fb8/live/f598a470-bd79-11f1-8134-9503562e5ca9.jpg"
     },
     {
-      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
-      "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+      "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+      "link": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-02T23:55:24.000Z",
-      "summary": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea's military says."
+      "published": "2026-10-03T03:56:10.000Z",
+      "summary": "Two Iranian men are accused of preparing to ​commit attack in Manchester on or before Yom Kippur."
     },
     {
       "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
@@ -1174,11 +1307,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47c/live/3978fa60-beaf-11f1-b48e-15cf4ddc906e.jpg"
     },
     {
-      "title": "Dutch royal house helped slave trade to survive, study finds",
-      "link": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
+      "title": "G7 nations bow to US pressure and avoid crippling diesel ban",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-02T23:43:50.000Z",
-      "summary": "In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries."
+      "published": "2026-10-03T03:54:58.000Z",
+      "summary": "Crude oil prices eased after G7 leaders bowed to US President Donald Trump’s demand to release oil and diesel reserves."
     },
     {
       "title": "The vanishing world of India's street magicians",
@@ -1189,11 +1322,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abca/live/28b1f100-bdb0-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-      "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+      "title": "Dominican Republic bans Haiti from its stadiums after football fans clash",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-02T22:50:23.000Z",
-      "summary": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv."
+      "published": "2026-10-03T02:42:26.000Z",
+      "summary": "Fans forced their way through entrances, damaging a gate at the teams' CONCACAF Nations League match in Santo Domingo."
     },
     {
       "title": "French media respond to M. Le Pen’s ‘Kevlar suit’ comments against investigative outlet",
@@ -1204,11 +1337,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/cfc4834a-bb30-11f1-a787-177f79e345bf/w:1024/p:16x9/AP26256535056731.jpg"
     },
     {
-      "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
-      "link": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
+      "title": "Israeli air attack on Gaza City apartment kills at least five",
+      "link": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-02T22:14:34.000Z",
-      "summary": "Unions say proposed changes to Canada's labour laws could weaken workers’ right to strike."
+      "published": "2026-10-03T02:25:23.000Z",
+      "summary": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods."
     },
     {
       "title": "Riot police clash with students as education protests rage in France",
@@ -1219,11 +1352,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg"
     },
     {
-      "title": "Croatia vs England: UEFA Nations League – Kane, Modric, teams, form",
-      "link": "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss",
+      "title": "Schools ablaze as student protests spread across France",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-02T21:59:26.000Z",
-      "summary": "Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric."
+      "published": "2026-10-03T01:46:10.000Z",
+      "summary": "Students have set fire to schools and clashed with police as protests spread across France"
     },
     {
       "title": "How Brazil's two leading presidential candidates are talking about crime",
@@ -1233,11 +1366,11 @@ window.GDC_NEWS = {
       "summary": "Crime is at the top of voters' concerns in Brazil ahead of Sunday's national elections. Many are calling for tougher measures — part of a broader rightward shift across Latin America."
     },
     {
-      "title": "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss",
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-02T21:59:11.000Z",
-      "summary": "Newly released bodycam footage shows police arresting and searching Luigi Mangione at a McDonald’s in Altoona in 2024."
+      "published": "2026-10-03T00:46:10.000Z",
+      "summary": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day."
     },
     {
       "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
@@ -1248,154 +1381,29 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fab2/live/e805b6e0-be91-11f1-9f15-2f9dbc671f7d.jpg"
     },
     {
-      "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-      "link": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+      "title": "Iran war live: Oil tankers attacked in Hormuz, reports UK maritime agency",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-02T21:53:17.000Z",
-      "summary": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'."
+      "published": "2026-10-03T00:00:00.000Z",
+      "summary": "Two oil tankers have been struck by 'unidentified projectiles' in Hormuz says United Kingdom Maritime Trade Operations."
     },
     {
-      "title": "Ethiopian army pushes back Tigrayan rebels",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
+      "title": "Nations League: France held by Italy in Zidane's homecoming after Olise stunner",
+      "link": "https://www.france24.com/en/sport/20261002-france-held-by-italy-in-zidane-s-homecoming-after-olise-stunner",
       "source": "France 24",
-      "published": "2026-10-02T20:46:00.000Z",
-      "summary": "First, Ethiopia and Eritrea have severed ties and now with tensions spreading across the region, the African Union is urging all sides to show restraint. Meanwhile, Ethiopia's army is…",
-      "image": "https://s.france24.com/media/display/8650d954-be9e-11f1-9808-dd51fcab6130/w:1024/p:16x9/ANGL261002-2140-Live-01.jpg"
-    },
-    {
-      "title": "France held 1-1 by Italy in Zidane home debut after Olise stunner",
-      "link": "https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T21:24:24.000Z",
-      "summary": "Italy's Alessandro Bastoni cancels out Michael Olise's opener for France in 1-1 UEFA Nations League draw in Saint-Denis."
-    },
-    {
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-02T20:32:07.000Z",
-      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg"
-    },
-    {
-      "title": "Bosnia’s elections explained",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T21:21:47.000Z",
-      "summary": "Bosnia and Herzegovina votes on October 4 in an election that may determine whether it breaks its political deadlock."
-    },
-    {
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-02T20:25:19.000Z",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "title": "Israeli general: Gaza captives could have been freed a year earlier",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T21:15:58.000Z",
-      "summary": "Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could've been freed a year earlier."
-    },
-    {
-      "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
-      "source": "NPR World",
-      "published": "2026-10-02T20:23:49.000Z",
-      "summary": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in…"
-    },
-    {
-      "title": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
-      "link": "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:57:32.000Z",
-      "summary": "The Tennessee woman's legal team says doctors are working to clear doses of the drug pentobarbital from her system."
-    },
-    {
-      "title": "43 killed in political hits ahead of S.Africa polls: report",
-      "link": "http://www.africanews.com/2026/10/02/43-killed-in-political-hits-ahead-of-safrica-polls-report/",
-      "source": "Africanews",
-      "published": "2026-10-02T20:10:27.000Z",
-      "summary": "Suspected political assassinations in South Africa have claimed at least 43 lives this year to September, with local government elections still one month away, a report said Friday"
-    },
-    {
-      "title": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:54:49.000Z",
-      "summary": "FlyDubai pilot hailed as ‘national hero’ as he describes attack"
-    },
-    {
-      "title": "On the run for 20 years, Ugandan warlord Kony still 'active' within the Lord's Resistance Army",
-      "link": "https://www.france24.com/en/africa/20261002-on-the-run-for-20-years-ugandan-warlord-kony-still-active-within-the-lord-s-resistance-army",
-      "source": "France 24",
-      "published": "2026-10-02T19:31:27.000Z",
-      "summary": "In recent months, the eastern Central African Republic has been hit by several attacks attributed to the Lord’s Resistance Army (LRA), a Ugandan militia infamous for its massacres and mass…",
-      "image": "https://s.france24.com/media/display/b82f173c-be45-11f1-a052-dd51fcab6130/w:1024/p:16x9/AP25057524866482.jpg"
-    },
-    {
-      "title": "Latin America sees China as more positive global influence than US: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:52:29.000Z",
-      "summary": "Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen."
-    },
-    {
-      "title": "Germany's political center fights for relevance after far-right and far-left gains",
-      "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
-      "source": "NPR World",
-      "published": "2026-10-02T19:22:57.000Z",
-      "summary": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to…",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3558x2400+0+0/resize/3558x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fce%2Fa3c4e61844c191f71b542f62b12d%2Fgettyimages-2295879496.jpg"
-    },
-    {
-      "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-      "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:32:02.000Z",
-      "summary": "Mahan Air is excluded from the agreement as Baghdad says Washington granted its request for a waiver."
-    },
-    {
-      "title": "At least 5,700 killed, wounded in Haiti gang crisis this year: UN",
-      "link": "http://www.africanews.com/2026/10/02/at-least-5700-killed-wounded-in-haiti-gang-crisis-this-year-un/",
-      "source": "Africanews",
-      "published": "2026-10-02T18:54:19.000Z",
-      "summary": "Haiti's gang violence crisis has left at least 5,700 people dead or wounded this year while more than 1,000 women and girls have been raped, UN human rights chief Volker Turk said Friday"
-    },
-    {
-      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
-      "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:28:07.000Z",
-      "summary": "Lawsuit alleges NHTSA contravenes its congressional mandate to set fuel-economy standards at 'maximum feasible' ."
-    },
-    {
-      "title": "French Unrest: Are we witnessing a new 'Yellow Vests' movement?",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261002-french-unrest-are-we-witnessing-a-new-yellow-vests-movement",
-      "source": "France 24",
-      "published": "2026-10-02T18:54:00.000Z",
-      "summary": "It's been 18 days since we first reported on isolated cases of schools protests at a high school in Rennes in Brittany, in Caen in Normandy and Villeneueve d'Asque on the suburbs of Lille…",
-      "image": "https://s.france24.com/media/display/d4e24d0e-be90-11f1-a1dd-69fad0a7cb9f/w:1024/p:16x9/2026-10-02T120129Z-1186691067-RC20VNAHEKPY-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "title": "Could conflict in Ethiopia expand across the region?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:17:50.000Z",
-      "summary": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups."
-    },
-    {
-      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
-      "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
-      "source": "NPR World",
-      "published": "2026-10-02T18:16:07.000Z",
-      "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its…",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2934x1762+0+0/resize/2934x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fbc%2Fe022d62a4f859ff4c48649b85df9%2Fmou-23.jpg"
+      "published": "2026-10-02T20:58:45.000Z",
+      "summary": "After two wins in two away games, Zinédine Zidane’s return to the Stade de France as coach was not exactly a success, as Les Bleus were held to a 1-1 draw by Italy on Friday in the UEFA…",
+      "image": "https://s.france24.com/media/display/0e72d6e8-bea4-11f1-8ae9-13420ab900a2/w:1024/p:16x9/54f432f67f4a9380ef23d6e85d8c39a7aff79564.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "To reclaim its sovereignty, Senegal must approach debt differently",
+      "link": "https://www.aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T07:51:04.000Z",
+      "summary": "The country must break the cycle of flawed structural adjustment that only feeds its debt crisis"
+    },
     {
       "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
       "link": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
@@ -1410,6 +1418,14 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-02T20:17:50.000Z",
       "summary": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups."
+    },
+    {
+      "title": "Pretorius breaks Gayle's T20 record score",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-02T22:22:36.000Z",
+      "summary": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1443/live/99a34d50-beaa-11f1-a22a-011993fe1af2.jpg"
     },
     {
       "title": "43 killed in political hits ahead of S.Africa polls: report",
@@ -1566,11 +1582,11 @@ window.GDC_NEWS = {
       "summary": "[Namibian] Beyond a Gas Master Plan: Planning for the Life of Namibia's Gas System"
     },
     {
-      "title": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia",
-      "link": "https://allafrica.com/stories/202610020310.html",
+      "title": "Uganda: Jeema Demands Probe Into Alleged Torture of Sam Mugumya",
+      "link": "https://allafrica.com/stories/202610020341.html",
       "source": "AllAfrica",
-      "published": "2026-10-02T16:45:36.000Z",
-      "summary": "[Addis Standard] Addis Abeba -- The Europe Peace Foundation and three US lawmakers have separately called for an immediate end to hostilities in Ethiopia, urging the parties to return to…"
+      "published": "2026-10-02T17:09:29.000Z",
+      "summary": "[Nile Post] The Justice Forum (JEEMA) has demanded the immediate production of missing opposition activist Sam Mugumya before the High Court and an independent investigation into…"
     },
     {
       "title": "Namibia: Petrol Price Goes Up Again in October, Diesel Remains the Same",
@@ -1580,12 +1596,11 @@ window.GDC_NEWS = {
       "summary": "[Namibian] Petrol prices will go up by N$1.50 per litre on Wednesday, while diesel prices will remain the same for the month of October."
     },
     {
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-02T16:08:25.000Z",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc3/live/316213c0-be23-11f1-bf88-854b5521eba9.jpg"
+      "title": "Namibia: Jordan, Namibia Highlight Cultural Ties to Boost Tourism Cooperation With Ethiopia",
+      "link": "https://allafrica.com/stories/202610020334.html",
+      "source": "AllAfrica",
+      "published": "2026-10-02T17:01:33.000Z",
+      "summary": "[ENA] Addis Ababa -- Tourism representatives from Jordan and Namibia have emphasized shared cultural connections with Ethiopia as a key opportunity to expand tourism exchanges, business…"
     },
     {
       "title": "Liberia: The Stronger Liberian Dollar Must Reach the Market",
@@ -1593,6 +1608,21 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-02T16:47:16.000Z",
       "summary": "[Liberian Investigator] The exchange rate has moved from about L$190 to L$170 for US$1, but small traders say wholesalers still convert their purchases at the old rate. The government must…"
+    },
+    {
+      "title": "Ethiopia: U.S. Lawmakers, Europe Peace Foundation Urge Dialogue As Fighting Escalates in Ethiopia",
+      "link": "https://allafrica.com/stories/202610020310.html",
+      "source": "AllAfrica",
+      "published": "2026-10-02T16:45:36.000Z",
+      "summary": "[Addis Standard] Addis Abeba -- The Europe Peace Foundation and three US lawmakers have separately called for an immediate end to hostilities in Ethiopia, urging the parties to return to…"
+    },
+    {
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-02T16:08:25.000Z",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc3/live/316213c0-be23-11f1-bf88-854b5521eba9.jpg"
     },
     {
       "title": "Ethiopia: Alamata Fighting Leaves Trail of Civilian Casualties - Adigrat Eparch Appeals for Help",
@@ -1650,34 +1680,6 @@ window.GDC_NEWS = {
       "published": "2026-10-02T14:11:55.000Z",
       "summary": "Kenyan runner Naomi Korir was born with fistula, a condition which can cause the uncontrolled leakage of urine or faeces.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf8/live/d25668f0-bdb3-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "title": "Nigeria: Public Servants Begin 3-Day Warning Strike Today",
-      "link": "https://allafrica.com/stories/202610020181.html",
-      "source": "AllAfrica",
-      "published": "2026-10-02T14:35:11.000Z",
-      "summary": "[Daily Trust] Public sector unions, under the aegis of the Joint National Public Service Negotiating Council (JNPSNC), have directed all federal, state and local government employees to…"
-    },
-    {
-      "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
-      "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T13:53:24.000Z",
-      "summary": "Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan."
-    },
-    {
-      "title": "Kenya: Lecturers and University Staff Down Tools Over 2025-2029 Cba Dispute",
-      "link": "https://allafrica.com/stories/202610020160.html",
-      "source": "AllAfrica",
-      "published": "2026-10-02T14:35:09.000Z",
-      "summary": "[Capital FM] Nairobi -- Lecturers and other staff in public universities have begun a nationwide strike after their unions rejected a counter-offer by the Inter-Public Universities Councils…"
-    },
-    {
-      "title": "Burkina Faso deaf dancers use special technique to follow rhythm",
-      "link": "http://www.africanews.com/2026/10/02/burkina-faso-deaf-dancers-use-special-technique-to-follow-rhythm/",
-      "source": "Africanews",
-      "published": "2026-10-02T13:14:24.000Z",
-      "summary": "Deaf and hearing impaired people in Burkina Faso are using a special technique to dance. The Vibra-Signe technique helps them feel the rhythm and has opened up new social possibilities for…"
     }
   ]
 };

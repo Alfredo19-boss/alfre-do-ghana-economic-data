@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-03T02:17:46.218Z",
+  "updated": "2026-10-03T08:15:37.513Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,22 +25,136 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "MTN set to deploy 5G services after winning spectrum licenses worth US$202m",
-      "link": "https://www.myjoyonline.com/mtn-set-to-deploy-5g-services-after-winning-spectrum-licenses-worth-us202m/",
+      "title": "Health Minister orders deployment of 40 additional health workers to Weija Children’s Specialist Hospital",
+      "link": "https://www.myjoyonline.com/health-minister-orders-deployment-of-40-additional-health-workers-to-weija-childrens-specialist-hospital/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T01:19:30.000Z",
-      "summary": "This is coming after the telecom giant announced that the NCA has notified the firm of the award of spectrum in the 700 MHz and 3 GHz bands, following its invitation to apply for spectrum…",
+      "published": "2026-10-03T08:02:12.000Z",
+      "summary": "Health Minister, Kwabena Mintah Akandoh, has directed the immediate deployment of 10 medical doctors and 30 nurses and midwives to the Weija Children’s Specialist Hospital.",
       "categories": [
-        "Business",
-        "HP Business 1",
-        "Telecom",
-        "5G",
-        "GSE",
-        "MTN",
-        "NCA",
-        "spectrum"
+        "Health",
+        "National",
+        "News",
+        "Doctors",
+        "Health Minister",
+        "Health workers",
+        "midwives",
+        "Weija Children’s Specialist Hospital"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-616-1024x690.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Akandoh-e1788879014360-1024x863.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Greater Accra teacher unions back nationwide strike over three key demands",
+      "link": "https://www.myjoyonline.com/greater-accra-teacher-unions-back-nationwide-strike-over-three-key-demands/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T07:57:12.000Z",
+      "summary": "The Greater Accra leadership of the Ghana National Association of Teachers (GNAT), the National Association of Graduate Teachers (NAGRAT) and the Pre-Tertiary Teachers Association of Ghana…",
+      "categories": [
+        "Education",
+        "National",
+        "demands",
+        "GNAT",
+        "NAGRAT",
+        "Nationwide strike",
+        "Teacher Unions"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-07.25.06-1024x510.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia promises leases and redevelopment for businesses affected by La Beach demolition",
+      "link": "https://www.myjoyonline.com/bawumia-promises-leases-and-redevelopment-for-businesses-affected-by-la-beach-demolition/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T07:52:23.000Z",
+      "summary": "Dr Mahamudu Bawumia has pledged to rebuild the economy around La Pleasure Beach and provide leases for businesses following the demolition of structures at the site.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Dr Mahamudu Bawumia",
+        "La Beach",
+        "La Pleasure Beach"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/bawumia.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia condemns La Pleasure Beach demolition, questions destruction of movable assets",
+      "link": "https://www.myjoyonline.com/bawumia-condemns-la-pleasure-beach-demolition-questions-destruction-of-movable-assets/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T07:47:40.000Z",
+      "summary": "Dr Mahamudu Bawumia has condemned the demolition at La Pleasure Beach, expressing concern that movable property belonging to business operators was destroyed when owners could have removed…",
+      "categories": [
+        "National",
+        "Dr Bawumia",
+        "La Beach"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-09.04.57-1-750x375-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Livestream: Newsfile discusses EOCO arrest of Manhyia South MP, drug trafficking, teachers’ strike and Ghana’s sports crisis",
+      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-eoco-arrest-of-manhyia-south-mp-drug-trafficking-teachers-strike-and-ghanas-sports-crisis/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T07:40:42.000Z",
+      "summary": "JoyNews' Newsfile this Saturday will examine some of the major issues dominating Ghana’s national conversation, from the ongoing investigation into Manhyia South MP Nana Agyei Baffour Awuah…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Drug trafficking",
+        "EOCO",
+        "Manhyia South MP",
+        "Newsfile",
+        "sports crisis"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-newsfile-3-10-26-npp-confer.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Chief of Staff urges effective implementation of laws to strengthen public confidence",
+      "link": "https://www.myjoyonline.com/chief-of-staff-urges-effective-implementation-of-laws-to-strengthen-public-confidence/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T07:21:44.000Z",
+      "summary": "The Chief of Staff, Julius Debrah, has called for Ghana to move beyond passing good laws and ensure their effective implementation, stressing that public confidence in the justice system…",
+      "categories": [
+        "News",
+        "Chief of Staff",
+        "Julius Debrah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-20-at-13.03.01-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "La Dadekotopon NDC, MP demand answers over demolition of La Pleasure Beach",
+      "link": "https://www.myjoyonline.com/la-dadekotopon-ndc-mp-demand-answers-over-demolition-of-la-pleasure-beach/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T07:16:56.000Z",
+      "summary": "Some members of the ruling National Democratic Congress (NDC) in La Dadekotopon, in the Greater Accra Region, have distanced themselves from the demolition of structures at La Pleasure…",
+      "categories": [
+        "National",
+        "La",
+        "La Dadekotopon",
+        "La Pleasure Beach",
+        "Labadi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-09.04.57-1-750x375-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL 2026/27: Hearts of Oak seek immediate response against Dreams",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-of-oak-seek-immediate-response-against-dreams/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T07:16:31.000Z",
+      "summary": "The Phobians make the short trip to the University of Ghana Sports Stadium seeking an immediate response after a late goal condemned them to a narrow defeat against Karela United in Tamale…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Gold Stars SC",
+        "Hearts of Oak",
+        "University of Ghana Sports Stadium",
+        "Vision FC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Hearts-of-Oak-vs-Dreams.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -66,118 +180,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/02/BADMINTON.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "NPP national elections: 3,000–4,000 police to handle security, traffic in Kumasi – Karbo",
-      "link": "https://www.myjoyonline.com/npp-national-elections-3000-4000-police-to-handle-security-traffic-in-kumasi-karbo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T23:16:21.000Z",
-      "summary": "The New Patriotic Party’s (NPP) Organisation Committee Chairperson, Anthony Abayifaa Karbo, says between 3,000 and 4,000 police personnel have been deployed to provide security for the…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Politics",
-        "Kumasi",
-        "NPP",
-        "NPP conference",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Police-1-636x424-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Atta Akyea fumes as Manhyia MP is to spend another night in EOCO custody",
-      "link": "https://www.myjoyonline.com/atta-akyea-fumes-as-manhyia-mp-is-to-spend-another-night-in-eoco-custody/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T22:47:01.000Z",
-      "summary": "Lawyer for Manhyia South MP Nana Agyei Baffour Awuah, Samuel Atta Akyea, has expressed disappointment over the continued detention of his client by the Economic and Organised Crime Office…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Atta Akyea",
-        "Baffour Awuah",
-        "Manhyia MP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/NEW.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "SSNIT says La Beach clearance was to protect hotel investments, beaches to remain public",
-      "link": "https://www.myjoyonline.com/ssnit-says-la-beach-clearance-was-to-protect-hotel-investments-beaches-to-remain-public/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T21:55:32.000Z",
-      "summary": "The Social Security and National Insurance Trust (SSNIT) has, in a statement issued by its Board of Trustees, explained its decision to seek the removal of structures and unauthorised…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "Demolition",
-        "La Beach",
-        "SSNIT"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-11.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "APSU congratulates St Augustine’s College after back-to-back National Investment Quiz wins",
-      "link": "https://www.myjoyonline.com/apsu-congratulates-st-augustines-college-after-back-to-back-national-investment-quiz-wins/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T21:51:13.000Z",
-      "summary": "The APSU Secretariat has congratulated the St Augustine’s College team for successfully defending the National Investment Quiz trophy, following its victory in the 2026 competition. In a…",
-      "categories": [
-        "Education",
-        "APSU",
-        "NIQ"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-17.39.29-1-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Renewed flood intervention at Mallam Junction raises hopes among residents, businesses",
-      "link": "https://www.myjoyonline.com/renewed-flood-intervention-at-mallam-junction-raises-hopes-among-residents-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T21:11:02.000Z",
-      "summary": "Renewed government intervention at Mallam Junction is raising hopes among residents, motorists and businesses of a lasting solution to the recurring flooding that has affected the area.",
-      "categories": [
-        "National",
-        "Mallam Junction"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/19b91407-ebd7-4089-927a-9f3ed9cc1f00.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "St Augustine’s College retain National Investment Quiz title after nail-biting grand finale",
-      "link": "https://www.myjoyonline.com/st-augustines-college-retain-national-investment-quiz-title-after-nail-biting-grand-finale/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T21:02:05.000Z",
-      "summary": "Four schools walked into the grand finale of the 2026 National Investment Quiz, but only one walked out with the trophy, and it is the same school that lifted it last year.",
-      "categories": [
-        "Education",
-        "HP News 5",
-        "National",
-        "National Investment Quiz 2026",
-        "St Augustine's College"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-6.22.00-PM-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Education infrastructure investment will drive Banda’s development – Ahmed Ibrahim",
-      "link": "https://www.myjoyonline.com/education-infrastructure-investment-will-drive-bandas-development-ahmed-ibrahim/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-02T20:54:37.000Z",
-      "summary": "Minister of Works, Housing and Water Resources and Member of Parliament for Banda, Ahmed Ibrahim, says the government’s investment in educational infrastructure is critical to developing…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Ahmed Ibrahim",
-        "Banda",
-        "education infrastructure"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-20.27.07-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Mahama visits Global Mercy Ship at Tema port, hails its humanitarian impact",
