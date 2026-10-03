@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-03T20:08:03.712Z",
-  "worldAt": "2026-10-03T20:08:03.709Z",
+  "updated": "2026-10-03T22:52:19.746Z",
+  "worldAt": "2026-10-03T22:52:19.744Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,23 +26,23 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
     "World · BBC News: 42 stories",
-    "World · Deutsche Welle: 12 stories",
+    "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 31 stories",
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 30 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 5 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,11 +1099,91 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
-      "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+      "title": "For some Brazilians, this election is a vote on Trump",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+      "source": "NPR World",
+      "published": "2026-10-03T21:57:36.000Z",
+      "summary": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their…"
+    },
+    {
+      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+      "link": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-03T21:55:00.000Z",
+      "summary": "Days after President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or…"
+    },
+    {
+      "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+      "source": "NPR World",
+      "published": "2026-10-03T21:57:35.000Z",
+      "summary": "High school students say their classrooms are overcrowded, teachers are missing and buildings need repairs. The protests have spread to cities across France, and some 5,000 people have been…"
+    },
+    {
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-03T21:16:21.000Z",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg"
+    },
+    {
+      "title": "U.S. withdrawal from Iraq is complete",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
+      "source": "NPR World",
+      "published": "2026-10-03T21:57:33.000Z",
+      "summary": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq."
+    },
+    {
+      "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T19:14:43.000Z",
-      "summary": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece."
+      "published": "2026-10-03T21:15:05.000Z",
+      "summary": "Israeli settlers attack Palestinian farmers during olive harvest"
+    },
+    {
+      "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
+      "source": "NPR World",
+      "published": "2026-10-03T21:57:29.000Z",
+      "summary": "Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Brazilians explain what worries them, and why some still can't choose."
+    },
+    {
+      "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T21:02:22.000Z",
+      "summary": "Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad."
+    },
+    {
+      "title": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
+      "link": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
+      "source": "France 24",
+      "published": "2026-10-03T20:58:30.000Z",
+      "summary": "Latvian Prime Minister Andris Kulbergs' pro-Ukraine and pro-Europe party was seen winning a parliamentary election on Saturday by an unexpectedly wide margin, exit polls showed, even as…",
+      "image": "https://s.france24.com/media/display/2928feea-bf6c-11f1-8285-dd51fcab6130/w:1024/p:16x9/2026-10-03T092541Z-1228379656-RC2KVNAISL7K-RTRMADP-3-LATVIA-ELECTION.jpg"
+    },
+    {
+      "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+      "link": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T20:16:50.000Z",
+      "summary": "The US president published a lawmaker's cell phone number as he called for the passage of a bill making DST permanent."
+    },
+    {
+      "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
+      "link": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+      "source": "France 24",
+      "published": "2026-10-03T20:16:01.000Z",
+      "summary": "Brazil's President Luiz Inacio Lula da Silva and his main challenger Flavio Bolsonaro wrapped up their campaigns on Saturday in the powerhouse state of Sao Paulo, where a fifth of the…",
+      "image": "https://s.france24.com/media/display/4ae32c90-bf62-11f1-bcb8-dd51fcab6130/w:1024/p:16x9/2026-10-03T181839Z-337218467-RC2QVNAP2RHU-RTRMADP-3-BRAZIL-ELECTION-LULA.jpg"
+    },
+    {
+      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T20:10:17.000Z",
+      "summary": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter."
     },
     {
       "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
@@ -1113,11 +1193,11 @@ window.GDC_NEWS = {
       "summary": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing."
     },
     {
-      "title": "Is the CJP changing India’s political landscape?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+      "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T19:00:01.000Z",
-      "summary": "Youth-led movement demands resignation of chief election commissioner."
+      "published": "2026-10-03T19:14:43.000Z",
+      "summary": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece."
     },
     {
       "title": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
@@ -1128,26 +1208,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/39db6df8-bf4f-11f1-a837-13420ab900a2/w:1024/p:16x9/capture-20813474576ac13a318fedb5-47858484.jpg"
     },
     {
-      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+      "title": "Is the CJP changing India’s political landscape?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T18:49:03.000Z",
-      "summary": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank."
-    },
-    {
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
-      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-03T18:06:47.000Z",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg"
-    },
-    {
-      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T18:23:29.000Z",
-      "summary": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'."
+      "published": "2026-10-03T19:00:01.000Z",
+      "summary": "Youth-led movement demands resignation of chief election commissioner."
     },
     {
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
@@ -1158,11 +1223,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
+      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T18:20:51.000Z",
-      "summary": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping."
+      "published": "2026-10-03T18:49:03.000Z",
+      "summary": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank."
     },
     {
       "title": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
@@ -1173,11 +1238,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0b87e52e-bf4c-11f1-8e0a-13e372f41e70/w:1024/p:16x9/AP26225608672619.jpg"
     },
     {
-      "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
+      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T18:13:41.000Z",
-      "summary": "Nations League title holders Portugal hosts Erling Haaland's Norway, days after Cristiano Ronaldo's exit from the camp."
+      "published": "2026-10-03T18:23:29.000Z",
+      "summary": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'."
     },
     {
       "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
@@ -1188,11 +1253,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg"
     },
     {
-      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-      "link": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+      "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T18:03:08.000Z",
-      "summary": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers."
+      "published": "2026-10-03T18:20:51.000Z",
+      "summary": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping."
     },
     {
       "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
@@ -1202,11 +1267,11 @@ window.GDC_NEWS = {
       "summary": "The pair were arrested on the eve of Yom Kippur and later charged with plotting to attack Jewish targets in Manchester."
     },
     {
-      "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
+      "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T17:31:54.000Z",
-      "summary": "The state's governor said Frank Strada would step down as an independent review examines what went wrong."
+      "published": "2026-10-03T18:13:41.000Z",
+      "summary": "Nations League title holders Portugal hosts Erling Haaland's Norway, days after Cristiano Ronaldo's exit from the camp."
     },
     {
       "title": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
@@ -1217,11 +1282,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/cc7cbc12-bf35-11f1-9acd-1ff0321dbbd3/w:1024/p:16x9/AP23245467521507.jpg"
     },
     {
-      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+      "link": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T17:25:28.000Z",
-      "summary": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland's players."
+      "published": "2026-10-03T18:03:08.000Z",
+      "summary": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers."
     },
     {
       "title": "Loud explosions heard Yemeni capital amid reports of Saudi strikes",
@@ -1231,11 +1296,11 @@ window.GDC_NEWS = {
       "summary": "The internationally-recognised government says attacks target the rebel group's positions across the country."
     },
     {
-      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-      "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+      "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
+      "link": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T16:25:03.000Z",
-      "summary": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera."
+      "published": "2026-10-03T17:31:54.000Z",
+      "summary": "The state's governor said Frank Strada would step down as an independent review examines what went wrong."
     },
     {
       "title": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
@@ -1246,11 +1311,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg"
     },
     {
-      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T16:17:23.000Z",
-      "summary": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack"
+      "published": "2026-10-03T17:25:28.000Z",
+      "summary": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland's players."
     },
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -1261,11 +1326,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T16:16:32.000Z",
-      "summary": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference"
+      "published": "2026-10-03T16:25:03.000Z",
+      "summary": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera."
     },
     {
       "title": "Fuel shortage in Sudan drives up prices, burdening ordinary people",
@@ -1275,11 +1340,11 @@ window.GDC_NEWS = {
       "summary": "The scarcity is driven by global oil disruptions tied to the Middle East conflict and by domestic import restrictions."
     },
     {
-      "title": "What we know about the co-pilot accused in Flydubai attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
+      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T15:39:10.000Z",
-      "summary": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami."
+      "published": "2026-10-03T16:17:23.000Z",
+      "summary": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack"
     },
     {
       "title": "Why has Brazil accused the US of election interference?",
@@ -1290,11 +1355,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg"
     },
     {
-      "title": "‘Bordering on angry’: The state of play as US midterms enter final month",
-      "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
+      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T15:18:28.000Z",
-      "summary": "Democrats enter final stretch with surprisingly positive outlook as Republican money seeks to stem damage."
+      "published": "2026-10-03T16:16:32.000Z",
+      "summary": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference"
     },
     {
       "title": "UN says at least 150,000 have fled their homes in Yemen amid fighting",
@@ -1304,92 +1369,26 @@ window.GDC_NEWS = {
       "summary": "It is further intensifying the country's humanitarian crisis with more than 5 million people already internally displaced following years of conflict."
     },
     {
-      "title": "Tens of thousands protest in Spain after failed housing reforms",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
+      "title": "What we know about the co-pilot accused in Flydubai attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T15:06:40.000Z",
-      "summary": "Latest demonstrations deepen a days-long crisis after parliament struck down two affordable housing decrees."
+      "published": "2026-10-03T15:39:10.000Z",
+      "summary": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami."
     },
     {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-03T13:34:11.000Z",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
-      "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+      "title": "‘Bordering on angry’: The state of play as US midterms enter final month",
+      "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-03T14:30:40.000Z",
-      "summary": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims."
-    },
-    {
-      "title": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
-      "link": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
-      "source": "France 24",
-      "published": "2026-10-03T13:20:35.000Z",
-      "summary": "Tens of thousands of protesters marched in Madrid and other cities in Spain on Saturday to demand affordable housing, fuelled by anger at lawmakers who narrowly rejected measures put…",
-      "image": "https://s.france24.com/media/display/9be2eeca-bf29-11f1-9e39-13e372f41e70/w:1024/p:16x9/2026-10-02T144436Z-1967364448-RC22VNA86KAV-RTRMADP-3-SPAIN-HOUSING-PARLIAMENT-PROTEST.jpg"
-    },
-    {
-      "title": "What to know about Brazil’s 2026 presidential election",
-      "link": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T14:23:55.000Z",
-      "summary": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy."
-    },
-    {
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-03T12:26:30.000Z",
-      "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2169/live/c040d170-bf23-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Israel election double standard: Arab leader forced out, far right cleared",
-      "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T14:06:47.000Z",
-      "summary": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls."
-    },
-    {
-      "title": "Oil prices fall as G7 agrees to release 100 million barrels of reserves",
-      "link": "http://www.africanews.com/2026/10/03/oil-prices-fall-as-g7-agrees-to-release-100-million-barrels-of-reserves/",
-      "source": "Africanews",
-      "published": "2026-10-03T12:23:37.000Z",
-      "summary": "International benchmark Brent crude briefly fell below $100 per barrel before stabilising around $102, while US oil prices slumped by up to 5 per cent."
-    },
-    {
-      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T13:18:37.000Z",
-      "summary": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it."
-    },
-    {
-      "title": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168469",
-      "source": "UN News",
-      "published": "2026-10-03T12:00:00.000Z",
-      "summary": "The package originated in Entebbe, Uganda, bound for Cairo, containing 10 kilograms of thumb-sized pieces that could have been either bone or elephant ivory.",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/28-09-2026_Adobe_Elephant.jpg/image560x340cropped.jpg"
-    },
-    {
-      "title": "Croatia 0-7 England: UEFA Nations League – as it happened",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T13:01:40.000Z",
-      "summary": "All the updates from our live text commentary stream coverage as Harry Kane and Bukayo Saka both net twice."
-    },
-    {
-      "title": "El Niño: Mozambique ranked as one of the 'most vulnerable' African countries",
-      "link": "http://www.africanews.com/2026/10/03/el-nino-mozambique-ranked-as-one-of-the-most-vulnerable-african-countries/",
-      "source": "Africanews",
-      "published": "2026-10-03T11:42:48.000Z",
-      "summary": "The powerful weather system is projected to bring severe heatwaves, below-normal rainfall, and heightened drought risks across Southern Africa."
+      "published": "2026-10-03T15:18:28.000Z",
+      "summary": "Democrats enter final stretch with surprisingly positive outlook as Republican money seeks to stem damage."
     }
   ],
   "africa": [

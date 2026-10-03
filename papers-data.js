@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-03T20:08:16.783Z",
+  "updated": "2026-10-03T22:52:33.022Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,66 +25,122 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "NDC’s failed 24-Hour Economy has become 24-Hour demolition – Dr. Bawumia",
-      "link": "https://www.myjoyonline.com/ndcs-failed-24-hour-economy-has-become-24-hour-demolition-dr-bawumia/",
+      "title": "Happy 76th Birthday to the Daily Graphic!",
+      "link": "https://www.myjoyonline.com/happy-76th-birthday-to-the-daily-graphic-2/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T19:59:29.000Z",
-      "summary": "The 2028 presidential candidate of the New Patriotic Party, Dr. Mahamudu Bawumia, has delivered a damning assessment of the National Democratic Congress (NDC) government's two years in…",
+      "published": "2026-10-03T22:34:51.000Z",
+      "summary": "The 2nd of October should be celebrated as one of the really pivotal days in the history of the media in Ghana.",
       "categories": [
         "National",
+        "Daily Graphic",
+        "Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-316.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amin Adam celebrates Prof. Alhassan Musah on appointment as KAAF University Vice-Chancellor",
+      "link": "https://www.myjoyonline.com/amin-adam-celebrates-prof-alhassan-musah-on-appointment-as-kaaf-university-vice-chancellor/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T22:27:00.000Z",
+      "summary": "Former Finance Minister and Member of Parliament for Karaga, Dr Mohammed Amin Adam, has congratulated Professor Alhassan Musah on his appointment as Vice-Chancellor of KAAF University.",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "KAAF",
+        "Prof. Alhassan Musah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/830573568_1681198523611741_3456632870279506981_n-1024x731.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama reaffirms commitment to Volta development at Asogli Te Za",
+      "link": "https://www.myjoyonline.com/mahama-reaffirms-commitment-to-volta-development-at-asogli-te-za/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T22:16:43.000Z",
+      "summary": "President John Dramani Mahama has reaffirmed his government’s commitment to the development of the Volta Region, citing youth employment, support for women entrepreneurs and regional…",
+      "categories": [
+        "News",
+        "Asogli Te Za",
+        "President Mahama",
+        "Volta Development"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ho-Politics-Asogli-Mahama-1jpeg-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia urges NPP aspirants to accept results, reunite party after elections",
+      "link": "https://www.myjoyonline.com/bawumia-urges-npp-aspirants-to-accept-results-reunite-party-after-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T22:10:38.000Z",
+      "summary": "Flagbearer of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has urged all aspirants contesting the party’s national executive positions to accept the election results and work…",
+      "categories": [
+        "HP News 3",
         "Politics",
-        "Bawumia",
-        "NPP Congress"
+        "Dr Mahamudu Bawumia",
+        "NPP Delegates Conference"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bawumia.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-326.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Stampede at NPP conference leaves three injured in Kumasi",
-      "link": "https://www.myjoyonline.com/stampede-at-npp-conference-leaves-three-injured-in-kumasi/",
+      "title": "Double fibre cut disrupts Telecel services, 72,754 subscribers affected",
+      "link": "https://www.myjoyonline.com/double-fibre-cut-disrupts-telecel-services-72754-subscribers-affected/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T19:48:44.000Z",
-      "summary": "At least three people have sustained injuries after a stampede broke out among crowds attending the New Patriotic Party’s (NPP) National Delegates Conference at the Baba Yara Sports Stadium…",
+      "published": "2026-10-03T21:55:00.000Z",
+      "summary": "Minister for Communications, Digital Technology and Innovation, Samuel Nartey George, says a double fibre cut along the Accra–Winneba and Winneba–Cape Coast routes has disrupted Telecel…",
       "categories": [
-        "HP News 1",
         "National",
-        "Kumasi",
-        "NPP",
-        "Stampede"
+        "Double fibre",
+        "Sam George",
+        "Telecel"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/an-3-e1791055473676-720x375-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-325.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Use power to serve Ghanaians, not to intimidate – Okoe Boye to NDC",
-      "link": "https://www.myjoyonline.com/use-power-to-serve-ghanaians-not-to-intimidate-okoe-boye-to-ndc/",
+      "title": "Bawumia demands probe into financiers behind Ghana-linked cocaine shipments",
+      "link": "https://www.myjoyonline.com/bawumia-demands-probe-into-financiers-behind-ghana-linked-cocaine-shipments/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T19:44:50.000Z",
-      "summary": "Former Health Minister Dr Bernard Okoe Boye has urged the National Democratic Congress (NDC) government to use political power to improve the lives of Ghanaians rather than to demonstrate…",
+      "published": "2026-10-03T21:51:54.000Z",
+      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has called for investigations into the individuals and entities financing cocaine shipments linked to Ghana.",
       "categories": [
-        "National",
-        "Ghanaians",
-        "Okoe Boye",
-        "Power"
+        "Politics",
+        "Delegates Conference",
+        "Dr Mahamadu Bawumia",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-318.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-306.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "“I’ll have no honour if your arrears are not paid by October 30,” Haruna Iddrisu tells teachers",
-      "link": "https://www.myjoyonline.com/ill-have-no-honour-if-your-arrears-are-not-paid-by-october-30-haruna-iddrisu-tells-teachers/",
+      "title": "Spain beat Czech Republic to maintain winning run",
+      "link": "https://www.myjoyonline.com/spain-beat-czech-republic-to-maintain-winning-run/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T19:43:21.000Z",
-      "summary": "Education Minister Haruna Iddrisu has renewed his appeal to teacher unions to call off their ongoing strike, assuring teachers that government is committed to resolving their concerns…",
+      "published": "2026-10-03T21:37:00.000Z",
+      "summary": "World champions Spain maintained their perfect start to their Nations League campaign with a victory over the Czech Republic in Oviedo.",
       "categories": [
-        "Education",
-        "HP News 7",
-        "National",
-        "Education Minister",
-        "Oct",
-        "Teachers"
+        "Football",
+        "Lamine Yamal",
+        "Spain",
+        "Uefa Nations League"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-2370-1024x682.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-324.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ronaldo ‘greatest symbol’ of Portugal – Fernandes",
+      "link": "https://www.myjoyonline.com/ronaldo-greatest-symbol-of-portugal-fernandes/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T21:26:00.000Z",
+      "summary": "Portugal midfielder Bruno Fernandes said Cristiano Ronaldo remains the country's greatest footballing figure, despite leaving the squad this week after learning he would not start a match.",
+      "categories": [
+        "Football",
+        "Bruno Fernanades",
+        "Cristiano Ronaldo",
+        "Portugal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-323.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -98,65 +154,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5418.jpeg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Billboard collapses at NPP delegates conference, 4 vehicles damaged",
-      "link": "https://www.myjoyonline.com/billboard-collapses-at-npp-delegates-conference-4-vehicles-damaged/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T19:39:41.000Z",
-      "summary": "A billboard bearing the image of New Patriotic Party (NPP) Chairperson aspirant Boakye Agyarko reportedly fell at the Heroes Park of the Baba Yara Sports Stadium in Kumasi, damaging four…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Politics",
-        "Boakye Agyarko",
-        "NPP conference"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-317.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP Delegates Congress: The 14 approved constitutional amendments",
-      "link": "https://www.myjoyonline.com/npp-delegates-congress-the-14-approved-constitutional-amendments/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T19:38:34.000Z",
-      "summary": "The New Patriotic Party (NPP) has approved 14 amendments to its constitution at its National Delegates Conference in Kumasi, as the party seeks to strengthen its internal structures…",
-      "categories": [
-        "Politics",
-        "amendments",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/NPP-Congress.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EOCO’s handling of arrests could cost NDC power – Kpebu",
-      "link": "https://www.myjoyonline.com/eocos-handling-of-arrests-could-cost-ndc-power-kpebu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T19:19:47.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has warned that the conduct of the Economic and Organised Crime Office (EOCO) in handling arrest cases, including that of Manhyia South MP Nana Agyei…",
-      "categories": [
-        "HP News 9",
-        "Politics",
-        "EOCO",
-        "Martin Kpebu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Martin-Kpebu-1024x509.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Health sovereignty a priority for 1.4b Africans – President Mahama declares",
-      "link": "https://www.myjoyonline.com/health-sovereignty-a-priority-for-1-4b-africans-president-mahama-declares/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T19:06:24.000Z",
-      "summary": "President John Dramani Mahama has urged African leaders to make health sovereignty a priority for their country as part of a broader strategy for the continent to achieve health sovereignty.",
-      "categories": [
-        "Health",
-        "Africans",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-312.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Health sovereignty a priority for 1.4 billion Africans - President Mahama declares",
