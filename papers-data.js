@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-03T17:30:32.522Z",
+  "updated": "2026-10-03T20:08:16.783Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,85 +25,162 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘Justice has prevailed’ – Atta Akyea reacts to Baffour Awuah’s GH¢10m bail",
-      "link": "https://www.myjoyonline.com/justice-has-prevailed-atta-akyea-reacts-to-baffour-awuahs-gh%c2%a210m-bail/",
+      "title": "NDC’s failed 24-Hour Economy has become 24-Hour demolition – Dr. Bawumia",
+      "link": "https://www.myjoyonline.com/ndcs-failed-24-hour-economy-has-become-24-hour-demolition-dr-bawumia/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T17:15:03.000Z",
-      "summary": "Samuel Atta Akyea, lawyer for Manhyia South Member of Parliament Nana Agyei Baffour Awuah, says justice has prevailed following the court’s decision to grant his client GH¢10 million bail.",
-      "categories": [
-        "HP News 6",
-        "National",
-        "News",
-        "Bail"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Atta-Akyea-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I’m above board, no dirt can stick on me – Baffour Awuah",
-      "link": "https://www.myjoyonline.com/im-above-board-no-dirt-can-stick-on-me-baffour-awuah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T17:08:42.000Z",
-      "summary": "Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah, has challenged prosecutors to prove in court that the allegations levelled against him constitute criminal conduct…",
-      "categories": [
-        "HP News 3",
-        "Politics",
-        "Baffour Awuah",
-        "Dirt",
-        "EOCO"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-8.50.33-AM-1024x573.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prince Adu-Owusu: The things the heart sees",
-      "link": "https://www.myjoyonline.com/prince-adu-owusu-the-things-the-heart-sees/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T17:06:01.000Z",
-      "summary": "There are some things in life that you cannot photograph. You cannot capture them in a picture, measure them with numbers or explain them completely with words. Yet somehow, you know when…",
-      "categories": [
-        "HP Lifestyle 1",
-        "HP Opinion 4",
-        "National",
-        "Heart",
-        "Love",
-        "Prince Adu-Owusu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Heart-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey is a complex national challenge that deserves seriousness, not slogans – Bawumia",
-      "link": "https://www.myjoyonline.com/galamsey-is-a-complex-national-challenge-that-deserves-seriousness-not-slogans-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T17:01:42.000Z",
-      "summary": "Former Vice President and NPP flagbearer for the 2028 presidential election, Dr Mahamudu Bawumia, has accused the NDC government of failing to deliver on its promises to tackle illegal…",
+      "published": "2026-10-03T19:59:29.000Z",
+      "summary": "The 2028 presidential candidate of the New Patriotic Party, Dr. Mahamudu Bawumia, has delivered a damning assessment of the National Democratic Congress (NDC) government's two years in…",
       "categories": [
         "National",
         "Politics",
         "Bawumia",
-        "Galamsey"
+        "NPP Congress"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Bawumia-and-Accra-Executives-1024x592.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bawumia.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Boyoyo: Is the new search for a Black Stars coach a faux pas or an own goal?",
-      "link": "https://www.myjoyonline.com/boyoyo-is-the-new-search-for-a-black-stars-coach-a-faux-pas-or-an-own-goal/",
+      "title": "Stampede at NPP conference leaves three injured in Kumasi",
+      "link": "https://www.myjoyonline.com/stampede-at-npp-conference-leaves-three-injured-in-kumasi/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T16:58:03.000Z",
-      "summary": "The Black Stars’ 4-2 defeat to The Gambia has reopened a much bigger conversation about the management and direction of Ghana’s senior national team.",
+      "published": "2026-10-03T19:48:44.000Z",
+      "summary": "At least three people have sustained injuries after a stampede broke out among crowds attending the New Patriotic Party’s (NPP) National Delegates Conference at the Baba Yara Sports Stadium…",
       "categories": [
-        "Football",
-        "HP Opinion 1",
-        "HP Sports 2",
-        "Afcon 2027",
-        "Black Stars",
-        "GFA",
-        "Kurt Okraku"
+        "HP News 1",
+        "National",
+        "Kumasi",
+        "NPP",
+        "Stampede"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HTfr2TlWoAEaIb0-3-828x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/an-3-e1791055473676-720x375-1.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Use power to serve Ghanaians, not to intimidate – Okoe Boye to NDC",
+      "link": "https://www.myjoyonline.com/use-power-to-serve-ghanaians-not-to-intimidate-okoe-boye-to-ndc/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T19:44:50.000Z",
+      "summary": "Former Health Minister Dr Bernard Okoe Boye has urged the National Democratic Congress (NDC) government to use political power to improve the lives of Ghanaians rather than to demonstrate…",
+      "categories": [
+        "National",
+        "Ghanaians",
+        "Okoe Boye",
+        "Power"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-318.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“I’ll have no honour if your arrears are not paid by October 30,” Haruna Iddrisu tells teachers",
+      "link": "https://www.myjoyonline.com/ill-have-no-honour-if-your-arrears-are-not-paid-by-october-30-haruna-iddrisu-tells-teachers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T19:43:21.000Z",
+      "summary": "Education Minister Haruna Iddrisu has renewed his appeal to teacher unions to call off their ongoing strike, assuring teachers that government is committed to resolving their concerns…",
+      "categories": [
+        "Education",
+        "HP News 7",
+        "National",
+        "Education Minister",
+        "Oct",
+        "Teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-2370-1024x682.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "High Court grants Manhyia South MP Nana Agyei Baffour GH¢10 million bail",
+      "link": "https://www.graphic.com.gh/news/general-news/high-court-grants-manhyia-south-mp-nana-agyei-baffour-ghc10-million-bail.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T19:43:14.000Z",
+      "summary": "The Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah has been granted a GH¢10 million bail with two sureties by the High Court in Accra.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5418.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Billboard collapses at NPP delegates conference, 4 vehicles damaged",
+      "link": "https://www.myjoyonline.com/billboard-collapses-at-npp-delegates-conference-4-vehicles-damaged/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T19:39:41.000Z",
+      "summary": "A billboard bearing the image of New Patriotic Party (NPP) Chairperson aspirant Boakye Agyarko reportedly fell at the Heroes Park of the Baba Yara Sports Stadium in Kumasi, damaging four…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Politics",
+        "Boakye Agyarko",
+        "NPP conference"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-317.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP Delegates Congress: The 14 approved constitutional amendments",
+      "link": "https://www.myjoyonline.com/npp-delegates-congress-the-14-approved-constitutional-amendments/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T19:38:34.000Z",
+      "summary": "The New Patriotic Party (NPP) has approved 14 amendments to its constitution at its National Delegates Conference in Kumasi, as the party seeks to strengthen its internal structures…",
+      "categories": [
+        "Politics",
+        "amendments",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/NPP-Congress.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EOCO’s handling of arrests could cost NDC power – Kpebu",
+      "link": "https://www.myjoyonline.com/eocos-handling-of-arrests-could-cost-ndc-power-kpebu/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T19:19:47.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has warned that the conduct of the Economic and Organised Crime Office (EOCO) in handling arrest cases, including that of Manhyia South MP Nana Agyei…",
+      "categories": [
+        "HP News 9",
+        "Politics",
+        "EOCO",
+        "Martin Kpebu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Martin-Kpebu-1024x509.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Health sovereignty a priority for 1.4b Africans – President Mahama declares",
+      "link": "https://www.myjoyonline.com/health-sovereignty-a-priority-for-1-4b-africans-president-mahama-declares/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T19:06:24.000Z",
+      "summary": "President John Dramani Mahama has urged African leaders to make health sovereignty a priority for their country as part of a broader strategy for the continent to achieve health sovereignty.",
+      "categories": [
+        "Health",
+        "Africans",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-312.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Health sovereignty a priority for 1.4 billion Africans - President Mahama declares",
+      "link": "https://www.graphic.com.gh/news/general-news/health-sovereignty-a-priority-for-1-4-billion-africans-president-mahama-declares.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T18:42:55.000Z",
+      "summary": "President John Dramani Mahama has urged African leaders to make health sovereignty a priority for their country as part of broader strategy for the continent to achieve health sovereignty.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/mahama_egypt.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama in Egypt for AU Mid-Year Summit",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-in-egypt-for-au-mid-year-summit.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T17:57:13.000Z",
+      "summary": "President John Dramani Mahama is in the Alamein city of Egypt, to participate in the Eighth African Union (AU) Mid-Year Coordination Summit, which opens Saturday .",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/egypt.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Manhyia South MP Nana Agyei Baffour Awuah granted GH¢10 million bail",
@@ -116,50 +193,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5418.jpeg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "We will not wait for campaign before preparing to govern – Bawumia",
-      "link": "https://www.myjoyonline.com/we-will-not-wait-for-campaign-before-preparing-to-govern-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T16:52:51.000Z",
-      "summary": "Former Vice President and NPP flagbearer for the 2028 presidential election, Dr. Mahamudu Bawumia, says the New Patriotic Party has already begun preparing its governance programme ahead of…",
-      "categories": [
-        "National",
-        "Politics",
-        "Bawumia",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-306.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cost of living has risen massively despite lower inflation – Bawumia",
-      "link": "https://www.myjoyonline.com/cost-of-living-has-risen-massively-despite-lower-inflation-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T16:48:38.000Z",
-      "summary": "NPP flagbearer Dr Mahamudu Bawumia has acknowledged the decline in Ghana’s inflation rate but argued that the cost of living remains significantly higher despite the recent easing in price…",
-      "categories": [
-        "National",
-        "Bawumia",
-        "Government",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-4.22.13-PM-1024x498.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC struggling to fulfil many lofty 2024 promises – Bawumia",
-      "link": "https://www.myjoyonline.com/ndc-struggling-to-fulfil-many-lofty-2024-promises-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T16:48:01.000Z",
-      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has accused the governing National Democratic Congress (NDC) of struggling to fulfil many of the promises it made to Ghanaians ahead…",
-      "categories": [
-        "National",
-        "Bawumia",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-4.23.18-PM-1024x529.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Beyond Queiroz’s exit: Ghana football needs accountability, reform — not another quick fix",
@@ -244,42 +277,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/03/DR_GINA.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Parliament condemns continued EOCO detention of Manhyia South MP Baffour Awuah and calls for immediate release",
-      "link": "https://www.graphic.com.gh/news/politics/parliament-condemns-continued-eoco-detention-manhyia-south-mp-baffour-awuah-and-calls-for-immediate-release.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T10:57:56.000Z",
-      "summary": "Parliament has condemned the continued detention of the Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah by the Economic and Organised Crime Office (EOCO) since his…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/nana1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Market traders urged to support food warning labels campaign",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-market-traders-urged-to-support-food-warning-labels-campaign.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T10:14:28.000Z",
-      "summary": "Traders and consumers in the Central Region have been urged to support calls for the introduction of mandatory front-of-package warning labels on packaged food products to help consumers…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/Market.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Whispers from Tafi-Atome Monkey Sanctuary - Where loyalty is tied to the banana",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-whispers-from-tafi-atome-monkey-sanctuary-where-loyalty-is-tied-to-the-banana.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T10:03:51.000Z",
-      "summary": "Welcome to Tafi Atome Monkey Sanctuary and Cultural Village,” a metallic signpost embossed with the picture of the colourful Mona monkey gave an indication that we had reached our…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/Visitors.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana secure three semi-final slots at All Africa U-19 Badminton Championship",
