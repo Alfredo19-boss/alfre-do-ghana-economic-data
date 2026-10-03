@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-03T13:26:48.050Z",
+  "updated": "2026-10-03T17:30:32.522Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,167 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "‘Justice has prevailed’ – Atta Akyea reacts to Baffour Awuah’s GH¢10m bail",
+      "link": "https://www.myjoyonline.com/justice-has-prevailed-atta-akyea-reacts-to-baffour-awuahs-gh%c2%a210m-bail/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T17:15:03.000Z",
+      "summary": "Samuel Atta Akyea, lawyer for Manhyia South Member of Parliament Nana Agyei Baffour Awuah, says justice has prevailed following the court’s decision to grant his client GH¢10 million bail.",
+      "categories": [
+        "HP News 6",
+        "National",
+        "News",
+        "Bail"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Atta-Akyea-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I’m above board, no dirt can stick on me – Baffour Awuah",
+      "link": "https://www.myjoyonline.com/im-above-board-no-dirt-can-stick-on-me-baffour-awuah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T17:08:42.000Z",
+      "summary": "Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah, has challenged prosecutors to prove in court that the allegations levelled against him constitute criminal conduct…",
+      "categories": [
+        "HP News 3",
+        "Politics",
+        "Baffour Awuah",
+        "Dirt",
+        "EOCO"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-18-at-8.50.33-AM-1024x573.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prince Adu-Owusu: The things the heart sees",
+      "link": "https://www.myjoyonline.com/prince-adu-owusu-the-things-the-heart-sees/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T17:06:01.000Z",
+      "summary": "There are some things in life that you cannot photograph. You cannot capture them in a picture, measure them with numbers or explain them completely with words. Yet somehow, you know when…",
+      "categories": [
+        "HP Lifestyle 1",
+        "HP Opinion 4",
+        "National",
+        "Heart",
+        "Love",
+        "Prince Adu-Owusu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Heart-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Galamsey is a complex national challenge that deserves seriousness, not slogans – Bawumia",
+      "link": "https://www.myjoyonline.com/galamsey-is-a-complex-national-challenge-that-deserves-seriousness-not-slogans-bawumia/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T17:01:42.000Z",
+      "summary": "Former Vice President and NPP flagbearer for the 2028 presidential election, Dr Mahamudu Bawumia, has accused the NDC government of failing to deliver on its promises to tackle illegal…",
+      "categories": [
+        "National",
+        "Politics",
+        "Bawumia",
+        "Galamsey"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Bawumia-and-Accra-Executives-1024x592.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Boyoyo: Is the new search for a Black Stars coach a faux pas or an own goal?",
+      "link": "https://www.myjoyonline.com/boyoyo-is-the-new-search-for-a-black-stars-coach-a-faux-pas-or-an-own-goal/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T16:58:03.000Z",
+      "summary": "The Black Stars’ 4-2 defeat to The Gambia has reopened a much bigger conversation about the management and direction of Ghana’s senior national team.",
+      "categories": [
+        "Football",
+        "HP Opinion 1",
+        "HP Sports 2",
+        "Afcon 2027",
+        "Black Stars",
+        "GFA",
+        "Kurt Okraku"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HTfr2TlWoAEaIb0-3-828x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Manhyia South MP Nana Agyei Baffour Awuah granted GH¢10 million bail",
+      "link": "https://www.graphic.com.gh/news/general-news/court-grants-bail-for-manhyia-south-mp-nana-agyei-baffour-awuah.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T16:56:59.000Z",
+      "summary": "The Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah has been granted a GH¢10 million bail with two sureties by the High Court in Accra.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5418.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "We will not wait for campaign before preparing to govern – Bawumia",
+      "link": "https://www.myjoyonline.com/we-will-not-wait-for-campaign-before-preparing-to-govern-bawumia/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T16:52:51.000Z",
+      "summary": "Former Vice President and NPP flagbearer for the 2028 presidential election, Dr. Mahamudu Bawumia, says the New Patriotic Party has already begun preparing its governance programme ahead of…",
+      "categories": [
+        "National",
+        "Politics",
+        "Bawumia",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-306.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cost of living has risen massively despite lower inflation – Bawumia",
+      "link": "https://www.myjoyonline.com/cost-of-living-has-risen-massively-despite-lower-inflation-bawumia/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T16:48:38.000Z",
+      "summary": "NPP flagbearer Dr Mahamudu Bawumia has acknowledged the decline in Ghana’s inflation rate but argued that the cost of living remains significantly higher despite the recent easing in price…",
+      "categories": [
+        "National",
+        "Bawumia",
+        "Government",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-4.22.13-PM-1024x498.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC struggling to fulfil many lofty 2024 promises – Bawumia",
+      "link": "https://www.myjoyonline.com/ndc-struggling-to-fulfil-many-lofty-2024-promises-bawumia/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T16:48:01.000Z",
+      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has accused the governing National Democratic Congress (NDC) of struggling to fulfil many of the promises it made to Ghanaians ahead…",
+      "categories": [
+        "National",
+        "Bawumia",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-4.23.18-PM-1024x529.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Beyond Queiroz’s exit: Ghana football needs accountability, reform — not another quick fix",
+      "link": "https://www.graphic.com.gh/sports/sports-news/beyond-queirozs-exit-ghana-football-needs-accountability-reform-not-another-quick-fix.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-03T14:44:49.000Z",
+      "summary": "The sacking of another Black Stars coach will not rescue Ghana football. After six coaches in seven years, collapsing national teams, fading clubs and a domestic league struggling for…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/KURTT.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana Premier League: Medeama guard top spot as Hearts, Samartex turn up heat",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-premier-league-medeama-guard-top-spot-as-hearts-samartex-turn-up-heat.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-03T13:56:56.000Z",
+      "summary": "Medeama SC have little time to dwell on continental disappointment. With their CAF Champions League adventure over, the defending Ghana Premier League champions must immediately protect…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/ETSE_DOGLI.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
       "title": "Thousands benefit from LIFECHECK 2026 in Dansoman",
       "link": "https://www.graphic.com.gh/news/general-news/thousands-benefit-from-lifecheck-2026-in-dansoman.html",
       "source": "Daily Graphic",
@@ -37,100 +198,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Livestream: NPP National Delegates Conference underway in Kumasi",
-      "link": "https://www.myjoyonline.com/livestream-npp-national-delegates-conference-underway-in-kumasi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:58:49.000Z",
-      "summary": "More than 7,000 delegates of the New Patriotic Party (NPP) are gathered at the Baba Yara Sports Stadium in Kumasi for the party’s National Delegates Congress to elect its national…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Kumasi",
-        "National Delegates Conference",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-coverage-of-the-2026-npp-na.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘We are waiting for the delegates’ – NPP explains delay in voting at Kumasi conference",
-      "link": "https://www.myjoyonline.com/we-are-waiting-for-the-delegates-npp-explains-delay-in-voting-at-kumasi-conference/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:44:12.000Z",
-      "summary": "The Acting National Chairman of the New Patriotic Party (NPP), Danquah Smith Buttey, has attributed the delay in the commencement of voting at the party’s National Delegates Conference in…",
-      "categories": [
-        "National",
-        "Politics",
-        "Danquah Smith Buttey",
-        "NPP National Delegates Conference"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Smith-Buttey.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Drug fight will yield results as Mahama steps up action – Dzimega",
-      "link": "https://www.myjoyonline.com/drug-fight-will-yield-results-as-mahama-steps-up-action-dzimega/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:35:47.000Z",
-      "summary": "Lawyer and member of the NDC Communications Team, Theophilus Dzimega Jr., says President John Mahama’s proactive approach to tackling drug trafficking will produce results in the coming…",
-      "categories": [
-        "National",
-        "News",
-        "drug menace",
-        "Mahama",
-        "Theophilus Dzimega"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/dzimega-1024x500.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘It’s bizarre’ – Freddie Blay questions EOCO’s handling of Baffour Awuah case",
-      "link": "https://www.myjoyonline.com/its-bizarre-freddie-blay-questions-eocos-handling-of-baffour-awuah-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:33:45.000Z",
-      "summary": "Former National Chairman of the New Patriotic Party (NPP), Freddie Blay, has criticised the Economic and Organised Crime Office (EOCO) over the arrest and detention of lawyer Baffour Awuah…",
-      "categories": [
-        "National",
-        "Politics",
-        "Baffour Awuah",
-        "EOCO"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-299-1024x565.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP conference to reinforce support for Bawumia ahead of 2028 – Evans Nimako",
-      "link": "https://www.myjoyonline.com/npp-conference-to-reinforce-support-for-bawumia-ahead-of-2028-evans-nimako/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:24:41.000Z",
-      "summary": "The New Patriotic Party (NPP) says its National Delegates Conference will reinforce the party’s commitment to its presidential candidate, Dr Mahamudu Bawumia, ahead of the 2028 general…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Politics",
-        "Dr Mahamudu Bawumia",
-        "Evans Nimako",
-        "NPP National Delegates Conference"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Bawumia-2.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "France and Ghana’s Gender Ministry explore cooperation on women’s economic empowerment",
-      "link": "https://www.myjoyonline.com/france-and-ghanas-gender-ministry-explore-cooperation-on-womens-economic-empowerment/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:17:02.000Z",
-      "summary": "The French Embassy in Ghana and the Ministry of Gender, Children and Social Protection have begun discussions to strengthen cooperation on women’s economic empowerment, focusing on…",
-      "categories": [
-        "National",
-        "Dr Agnes Naa Momo Lartey",
-        "France",
-        "Gender Ministry"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/836320985_1628847132174956_3290496763170847932_n-683x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Turn Saltpond history into economic opportunity - Stakeholders",
       "link": "https://www.graphic.com.gh/news/general-news/turn-saltpond-history-into-economic-opportunity-stakeholders.html",
       "source": "Daily Graphic",
@@ -141,37 +208,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/03/founders.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana’s growing drug trafficking links are deeply troubling – Victoria Bright",
-      "link": "https://www.myjoyonline.com/ghanas-growing-drug-trafficking-links-are-deeply-troubling-victoria-bright/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:14:22.000Z",
-      "summary": "International corporate lawyer and entrepreneur says the growing number of drug trafficking cases linked to Ghana is deeply troubling and requires urgent national attention.",
-      "categories": [
-        "National",
-        "News",
-        "Drug trafficking",
-        "Ghana",
-        "Victoria Bright"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Screenshot-2025-10-27-at-07.19.51-1-1024x563.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘The MP’s tears are crocodile tears’ – Kofi Bentil on La Pleasure Beach demolition",
-      "link": "https://www.myjoyonline.com/the-mps-tears-are-crocodile-tears-kofi-bentil-on-la-pleasure-beach-demolition/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T12:12:12.000Z",
-      "summary": "Lawyer and Senior Vice President of IMANI Africa, Kofi Bentil, has questioned the response of the Member of Parliament for the La Dade-Kotopon constituency to the demolition of structures…",
-      "categories": [
-        "National",
-        "La Pleasure Beach",
-        "MP",
-        "Polo Beach Club"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-298.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Newly certified electricians urged to embrace EV, solar technologies",
@@ -243,18 +279,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/03/Visitors.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "SSNIT Board on why it requested National Security intervention on demolition of structures at Labadi, La Palm beachfronts",
-      "link": "https://www.graphic.com.gh/news/general-news/ssnit-board-on-why-it-requested-national-security-intervention-on-demolition-of-structures-at-labadi-la-palm-beachfronts.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T09:58:26.000Z",
-      "summary": "The Board of Trustees of the Social Security and National Insurance Trust has defended the removal of unauthorised occupants from the beachfronts adjoining the Labadi Beach Hotel and La…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/DEMOLISH.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -396,18 +420,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Man City verdict has 'significant implications for integrity of the game', Football Association says",
-      "link": "https://www.graphic.com.gh/sports/sports-news/man-city-verdict-has-significant-implications-for-integrity-of-the-game-football-association-says.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-02T10:08:36.000Z",
-      "summary": "The independent commission's verdict against Manchester City has \"significant implications for the integrity of the game\", according to the Football Association. In a statement, English…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
       "title": "Hearts eye comeback against Dreams FC",
       "link": "https://ghanaiantimes.com.gh/hearts-eye-comeback-against-dreams-fc/",
       "source": "Ghanaian Times",
@@ -431,18 +443,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prof. Emmanuel Osei Sarpong appointed acting NSA boss",
-      "link": "https://www.graphic.com.gh/sports/sports-news/prof-emmanuel-osei-sarpong-appointed-acting-nsa-boss.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-01T15:18:18.000Z",
-      "summary": "Associate Professor of Physical Education and Sports at the University of Education, Winneba (UEW), Professor Emmanuel Osei Sarpong has been appointed Acting Director-General of the…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/01/EMMA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
