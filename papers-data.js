@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-03T08:15:37.513Z",
+  "updated": "2026-10-03T13:26:48.050Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,137 +25,237 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Health Minister orders deployment of 40 additional health workers to Weija Children’s Specialist Hospital",
-      "link": "https://www.myjoyonline.com/health-minister-orders-deployment-of-40-additional-health-workers-to-weija-childrens-specialist-hospital/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T08:02:12.000Z",
-      "summary": "Health Minister, Kwabena Mintah Akandoh, has directed the immediate deployment of 10 medical doctors and 30 nurses and midwives to the Weija Children’s Specialist Hospital.",
+      "title": "Thousands benefit from LIFECHECK 2026 in Dansoman",
+      "link": "https://www.graphic.com.gh/news/general-news/thousands-benefit-from-lifecheck-2026-in-dansoman.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T13:01:10.000Z",
+      "summary": "More than 13,000 residents from Dansoman, Mamprobi, Chorkor, Lartebiokoshie and surrounding communities have benefited from LIFECHECK 2026, a community outreach initiative focused on…",
       "categories": [
-        "Health",
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Livestream: NPP National Delegates Conference underway in Kumasi",
+      "link": "https://www.myjoyonline.com/livestream-npp-national-delegates-conference-underway-in-kumasi/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T12:58:49.000Z",
+      "summary": "More than 7,000 delegates of the New Patriotic Party (NPP) are gathered at the Baba Yara Sports Stadium in Kumasi for the party’s National Delegates Congress to elect its national…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Kumasi",
+        "National Delegates Conference",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-coverage-of-the-2026-npp-na.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We are waiting for the delegates’ – NPP explains delay in voting at Kumasi conference",
+      "link": "https://www.myjoyonline.com/we-are-waiting-for-the-delegates-npp-explains-delay-in-voting-at-kumasi-conference/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T12:44:12.000Z",
+      "summary": "The Acting National Chairman of the New Patriotic Party (NPP), Danquah Smith Buttey, has attributed the delay in the commencement of voting at the party’s National Delegates Conference in…",
+      "categories": [
+        "National",
+        "Politics",
+        "Danquah Smith Buttey",
+        "NPP National Delegates Conference"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Smith-Buttey.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Drug fight will yield results as Mahama steps up action – Dzimega",
+      "link": "https://www.myjoyonline.com/drug-fight-will-yield-results-as-mahama-steps-up-action-dzimega/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T12:35:47.000Z",
+      "summary": "Lawyer and member of the NDC Communications Team, Theophilus Dzimega Jr., says President John Mahama’s proactive approach to tackling drug trafficking will produce results in the coming…",
+      "categories": [
         "National",
         "News",
-        "Doctors",
-        "Health Minister",
-        "Health workers",
-        "midwives",
-        "Weija Children’s Specialist Hospital"
+        "drug menace",
+        "Mahama",
+        "Theophilus Dzimega"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Akandoh-e1788879014360-1024x863.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/dzimega-1024x500.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Greater Accra teacher unions back nationwide strike over three key demands",
-      "link": "https://www.myjoyonline.com/greater-accra-teacher-unions-back-nationwide-strike-over-three-key-demands/",
+      "title": "‘It’s bizarre’ – Freddie Blay questions EOCO’s handling of Baffour Awuah case",
+      "link": "https://www.myjoyonline.com/its-bizarre-freddie-blay-questions-eocos-handling-of-baffour-awuah-case/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T07:57:12.000Z",
-      "summary": "The Greater Accra leadership of the Ghana National Association of Teachers (GNAT), the National Association of Graduate Teachers (NAGRAT) and the Pre-Tertiary Teachers Association of Ghana…",
+      "published": "2026-10-03T12:33:45.000Z",
+      "summary": "Former National Chairman of the New Patriotic Party (NPP), Freddie Blay, has criticised the Economic and Organised Crime Office (EOCO) over the arrest and detention of lawyer Baffour Awuah…",
       "categories": [
-        "Education",
         "National",
-        "demands",
-        "GNAT",
-        "NAGRAT",
-        "Nationwide strike",
-        "Teacher Unions"
+        "Politics",
+        "Baffour Awuah",
+        "EOCO"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-07.25.06-1024x510.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-299-1024x565.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bawumia promises leases and redevelopment for businesses affected by La Beach demolition",
-      "link": "https://www.myjoyonline.com/bawumia-promises-leases-and-redevelopment-for-businesses-affected-by-la-beach-demolition/",
+      "title": "NPP conference to reinforce support for Bawumia ahead of 2028 – Evans Nimako",
+      "link": "https://www.myjoyonline.com/npp-conference-to-reinforce-support-for-bawumia-ahead-of-2028-evans-nimako/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T07:52:23.000Z",
-      "summary": "Dr Mahamudu Bawumia has pledged to rebuild the economy around La Pleasure Beach and provide leases for businesses following the demolition of structures at the site.",
+      "published": "2026-10-03T12:24:41.000Z",
+      "summary": "The New Patriotic Party (NPP) says its National Delegates Conference will reinforce the party’s commitment to its presidential candidate, Dr Mahamudu Bawumia, ahead of the 2028 general…",
       "categories": [
-        "HP News 2",
+        "HP News 3",
         "National",
+        "Politics",
         "Dr Mahamudu Bawumia",
-        "La Beach",
-        "La Pleasure Beach"
+        "Evans Nimako",
+        "NPP National Delegates Conference"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/bawumia.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Bawumia-2.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bawumia condemns La Pleasure Beach demolition, questions destruction of movable assets",
-      "link": "https://www.myjoyonline.com/bawumia-condemns-la-pleasure-beach-demolition-questions-destruction-of-movable-assets/",
+      "title": "France and Ghana’s Gender Ministry explore cooperation on women’s economic empowerment",
+      "link": "https://www.myjoyonline.com/france-and-ghanas-gender-ministry-explore-cooperation-on-womens-economic-empowerment/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T07:47:40.000Z",
-      "summary": "Dr Mahamudu Bawumia has condemned the demolition at La Pleasure Beach, expressing concern that movable property belonging to business operators was destroyed when owners could have removed…",
+      "published": "2026-10-03T12:17:02.000Z",
+      "summary": "The French Embassy in Ghana and the Ministry of Gender, Children and Social Protection have begun discussions to strengthen cooperation on women’s economic empowerment, focusing on…",
       "categories": [
         "National",
-        "Dr Bawumia",
-        "La Beach"
+        "Dr Agnes Naa Momo Lartey",
+        "France",
+        "Gender Ministry"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-09.04.57-1-750x375-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/836320985_1628847132174956_3290496763170847932_n-683x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Livestream: Newsfile discusses EOCO arrest of Manhyia South MP, drug trafficking, teachers’ strike and Ghana’s sports crisis",
-      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-eoco-arrest-of-manhyia-south-mp-drug-trafficking-teachers-strike-and-ghanas-sports-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T07:40:42.000Z",
-      "summary": "JoyNews' Newsfile this Saturday will examine some of the major issues dominating Ghana’s national conversation, from the ongoing investigation into Manhyia South MP Nana Agyei Baffour Awuah…",
+      "title": "Turn Saltpond history into economic opportunity - Stakeholders",
+      "link": "https://www.graphic.com.gh/news/general-news/turn-saltpond-history-into-economic-opportunity-stakeholders.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T12:16:29.000Z",
+      "summary": "The President of the Mfantseman-Saltpond Development Alliance (MSDA), Ernest De-Graft Egyir has called for the establishment of a National Political History and Heritage Centre at Saltpond…",
       "categories": [
-        "HP News 1",
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/founders.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana’s growing drug trafficking links are deeply troubling – Victoria Bright",
+      "link": "https://www.myjoyonline.com/ghanas-growing-drug-trafficking-links-are-deeply-troubling-victoria-bright/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-03T12:14:22.000Z",
+      "summary": "International corporate lawyer and entrepreneur says the growing number of drug trafficking cases linked to Ghana is deeply troubling and requires urgent national attention.",
+      "categories": [
         "National",
         "News",
         "Drug trafficking",
-        "EOCO",
-        "Manhyia South MP",
-        "Newsfile",
-        "sports crisis"
+        "Ghana",
+        "Victoria Bright"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-newsfile-3-10-26-npp-confer.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Screenshot-2025-10-27-at-07.19.51-1-1024x563.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Chief of Staff urges effective implementation of laws to strengthen public confidence",
-      "link": "https://www.myjoyonline.com/chief-of-staff-urges-effective-implementation-of-laws-to-strengthen-public-confidence/",
+      "title": "‘The MP’s tears are crocodile tears’ – Kofi Bentil on La Pleasure Beach demolition",
+      "link": "https://www.myjoyonline.com/the-mps-tears-are-crocodile-tears-kofi-bentil-on-la-pleasure-beach-demolition/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T07:21:44.000Z",
-      "summary": "The Chief of Staff, Julius Debrah, has called for Ghana to move beyond passing good laws and ensure their effective implementation, stressing that public confidence in the justice system…",
-      "categories": [
-        "News",
-        "Chief of Staff",
-        "Julius Debrah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-20-at-13.03.01-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "La Dadekotopon NDC, MP demand answers over demolition of La Pleasure Beach",
-      "link": "https://www.myjoyonline.com/la-dadekotopon-ndc-mp-demand-answers-over-demolition-of-la-pleasure-beach/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T07:16:56.000Z",
-      "summary": "Some members of the ruling National Democratic Congress (NDC) in La Dadekotopon, in the Greater Accra Region, have distanced themselves from the demolition of structures at La Pleasure…",
+      "published": "2026-10-03T12:12:12.000Z",
+      "summary": "Lawyer and Senior Vice President of IMANI Africa, Kofi Bentil, has questioned the response of the Member of Parliament for the La Dade-Kotopon constituency to the demolition of structures…",
       "categories": [
         "National",
-        "La",
-        "La Dadekotopon",
         "La Pleasure Beach",
-        "Labadi"
+        "MP",
+        "Polo Beach Club"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-09.04.57-1-750x375-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-298.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GPL 2026/27: Hearts of Oak seek immediate response against Dreams",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-of-oak-seek-immediate-response-against-dreams/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T07:16:31.000Z",
-      "summary": "The Phobians make the short trip to the University of Ghana Sports Stadium seeking an immediate response after a late goal condemned them to a narrow defeat against Karela United in Tamale…",
+      "title": "Newly certified electricians urged to embrace EV, solar technologies",
+      "link": "https://www.graphic.com.gh/news/general-news/newly-certified-electricians-urged-to-embrace-ev-solar-technologies.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T12:10:31.000Z",
+      "summary": "The Energy Commission (EC) has urged newly certified electrical wiring professionals to equip themselves with skills in electric vehicle (EV) charging systems, solar installations and…",
       "categories": [
-        "Football",
-        "Sports",
-        "Gold Stars SC",
-        "Hearts of Oak",
-        "University of Ghana Sports Stadium",
-        "Vision FC"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Hearts-of-Oak-vs-Dreams.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/energyc.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Mion NDC chairman hopeful calls for grassroots leadership",
+      "link": "https://www.graphic.com.gh/news/politics/mion-ndc-chairman-hopeful-calls-for-grassroots-leadership.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T11:29:38.000Z",
+      "summary": "An aspiring constituency chairman for National Democratic Congress (NDC) in Mion in the Northern Region, Alhassan Issah, has called on delegates to elect leaders who are closely connected…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/mion.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ho Teaching Hospital makes progress in cancer treatment",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ho-teaching-hospital-makes-progress-in-cancer-treatment.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-03T11:28:28.000Z",
+      "summary": "Out of about 500 breast cancer patients who reported to the Ho Teaching Hospital (HTH) between 2012 and 2026, more than 366 were successfully treated. The patients were from Ghana, Togo…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/DR_GINA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Parliament condemns continued EOCO detention of Manhyia South MP Baffour Awuah and calls for immediate release",
+      "link": "https://www.graphic.com.gh/news/politics/parliament-condemns-continued-eoco-detention-manhyia-south-mp-baffour-awuah-and-calls-for-immediate-release.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T10:57:56.000Z",
+      "summary": "Parliament has condemned the continued detention of the Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah by the Economic and Organised Crime Office (EOCO) since his…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/nana1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Market traders urged to support food warning labels campaign",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-market-traders-urged-to-support-food-warning-labels-campaign.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T10:14:28.000Z",
+      "summary": "Traders and consumers in the Central Region have been urged to support calls for the introduction of mandatory front-of-package warning labels on packaged food products to help consumers…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/Market.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Whispers from Tafi-Atome Monkey Sanctuary - Where loyalty is tied to the banana",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-whispers-from-tafi-atome-monkey-sanctuary-where-loyalty-is-tied-to-the-banana.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T10:03:51.000Z",
+      "summary": "Welcome to Tafi Atome Monkey Sanctuary and Cultural Village,” a metallic signpost embossed with the picture of the colourful Mona monkey gave an indication that we had reached our…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/Visitors.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "SSNIT Board on why it requested National Security intervention on demolition of structures at Labadi, La Palm beachfronts",
+      "link": "https://www.graphic.com.gh/news/general-news/ssnit-board-on-why-it-requested-national-security-intervention-on-demolition-of-structures-at-labadi-la-palm-beachfronts.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-03T09:58:26.000Z",
+      "summary": "The Board of Trustees of the Social Security and National Insurance Trust has defended the removal of unauthorised occupants from the beachfronts adjoining the Labadi Beach Hotel and La…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/02/DEMOLISH.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana secure three semi-final slots at All Africa U-19 Badminton Championship",
@@ -260,18 +360,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Happy 76th Birthday to the Daily Graphic!",
-      "link": "https://www.graphic.com.gh/news/general-news/happy-76th-birthday-to-the-daily-graphic.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T15:57:32.000Z",
-      "summary": "The 2nd of October should be celebrated as one of the really pivotal days in the history of the media in Ghana. For that day in 1950 saw the birth of a technologically advanced method of…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2024/apr/22/Graphic.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Abban eyes world title shot with Nettey challenge",
       "link": "https://www.graphic.com.gh/sports/sports-news/abban-eyes-world-title-shot-with-nettey-challenge.html",
       "source": "Graphic Sports",
@@ -296,18 +384,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Achieving universal health coverage requires collective action — Speakers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-achieving-universal-health-coverage-requires-collective-action-speakers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T12:21:35.000Z",
-      "summary": "Speakers at the 6th Biennial Scientific Conference have called for stronger collaboration among government agencies, universities, health institutions, the private sector and communities to…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/Samuel.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "SWAG calls for GFA overhaul as Black Stars’ decline deepens",
       "link": "https://www.graphic.com.gh/sports/sports-news/swag-calls-for-gfa-overhaul-as-black-stars-decline-deepens.html",
       "source": "Graphic Sports",
@@ -318,78 +394,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/02/SWAG_PREZ.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana urged to ratify climate change agreement",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-urged-to-ratify-climate-change-agreement.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T12:18:10.000Z",
-      "summary": "The Republic of Korea has urged Ghana to expedite the ratification of the Korea-Ghana Framework Agreement on Climate Change Cooperation to pave the way for the implementation of joint…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/Park.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GMTF delivers lifesaving equipment to 9 more hospitals",
-      "link": "https://www.graphic.com.gh/news/general-news/gmtf-delivers-lifesaving-equipment-to-9-more-hospitals.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T12:16:57.000Z",
-      "summary": "The Ghana Medical Trust Fund (GMTF) has extended its nationwide healthcare support with the delivery of critical medical equipment to nine more hospitals as part of activities marking the…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President visits medical ship, pledges support for free surgeries",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-visits-medical-ship-pledges-support-for-free-surgeries.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T12:12:32.000Z",
-      "summary": "President John Dramani Mahama yesterday welcomed the crew and medical staff of Global Mercy, a hospital ship docked at Tema Port, in the Greater Accra Region.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/Mahama.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Who chairs NPP into 2028? - Tomorrow’s National Delegates Conference decide",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-who-chairs-npp-into-2028-tomorrows-national-delegates-conference-decide.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T12:06:53.000Z",
-      "summary": "More than 7,000 delegates will converge on the Baba Yara Stadium in Kumasi tomorrow to elect a new national leadership for the New Patriotic Party (NPP) and determine the organisational…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Massive fire ravages warehouses, makeshift structures at Avenor - 2 Feared dead",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-massive-fire-ravages-warehouses-makeshift-structures-at-avenor-2-feared-dead.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T11:57:44.000Z",
-      "summary": "After more than eight hours of raging fire at the North Industrial Area, the Ghana National Fire Service (GNFS) and other security officers managed to confine the inferno to protect lives…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/Personnel.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "90 Communities to benefit in Oti Region",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-90-communities-to-benefit-in-oti-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-02T11:53:26.000Z",
-      "summary": "The Ministry of Energy and Green Transition has launched the Turnkey Electrification Project under the Rural Electricity Acceleration and Urban Intensification Initiative (REIP) in the Oti…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/Gyan-Mensah.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Man City verdict has 'significant implications for integrity of the game', Football Association says",
@@ -438,18 +442,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/EMMA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "NSA Director-General Yaw Ampofo Ankrah asked to step down",
-      "link": "https://www.graphic.com.gh/sports/sports-news/nsa-director-general-yaw-ampofo-ankrah-asked-to-step-down.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-01T14:38:35.000Z",
-      "summary": "National Sports Authority (NSA) Director-General, Yaw Ampofo Ankrah, has been asked to step down from his position, bringing his tenure at the sports governing body to an end. According to…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/01/ANKRAH.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
