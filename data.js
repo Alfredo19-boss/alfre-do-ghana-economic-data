@@ -6,7 +6,7 @@
  * Field guide: see README.md ("data.js field guide").
  */
 window.GDC_DATA = {
-  "checked": "26 September 2026",
+  "checked": "4 October 2026",
   "siteUrl": "",
   "alfredo": {
     "_": "Alfredo answers from this site's own figures and needs nothing here. Fill these in only if you have your own endpoint.",
