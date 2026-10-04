@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-10-04T13:13:24.439Z",
+  "updated": "2026-10-04T21:02:34.386Z",
   "values": {
     "fx.usd": {
       "value": 11.71,
@@ -790,6 +790,17 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-10-04T21:02:34.386Z",
+      "messages": [
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-02 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-04: 2026-10-02, not newer than 2026-10-02",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rows found",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc: no rows found",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok"
+      ]
+    },
+    {
       "at": "2026-10-04T13:13:24.439Z",
       "messages": [
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-02 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -937,17 +948,6 @@ window.GDC_AUTO = {
       "messages": [
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-09-25 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-09-25: 2026-09-25, not newer than 2026-09-25",
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rows found",
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc: no rows found",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-09-25T12:47:46.719Z",
-      "messages": [
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-09-24 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-09-25: 2026-09-24, not newer than 2026-09-24",
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rows found",
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc: no rows found",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
