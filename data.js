@@ -6,7 +6,7 @@
  * Field guide: see README.md ("data.js field guide").
  */
 window.GDC_DATA = {
-  "checked": "15 September 2026",
+  "checked": "26 September 2026",
   "siteUrl": "",
   "alfredo": {
     "_": "Alfredo answers from this site's own figures and needs nothing here. Fill these in only if you have your own endpoint.",
@@ -14,10 +14,10 @@ window.GDC_DATA = {
     "ttsUrl": ""
   },
   "fx": {
-    "usd": 11.44,
-    "gbp": 15.5,
-    "eur": 13.31,
-    "date": "2026-09-10"
+    "usd": 11.55,
+    "gbp": 15.4464,
+    "eur": 13.2445,
+    "date": "2026-09-18"
   },
   "debt": {
     "paceMonths": 6,
@@ -61,6 +61,13 @@ window.GDC_DATA = {
         "domestic": 391.115,
         "external": 328.405,
         "ratio": 45
+      },
+      {
+        "date": "2026-07-31",
+        "total": 733.9,
+        "domestic": 396.7,
+        "external": 337.2,
+        "ratio": 45.9
       }
     ],
     "ratioPeak": {
@@ -287,8 +294,8 @@ window.GDC_DATA = {
           "value": 14,
           "dec": 1,
           "unit": "%",
-          "date": "Jul 2026",
-          "note": "Held at the 131st MPC meeting",
+          "date": "24 Sep 2026",
+          "note": "Held at the 132nd MPC meeting, by a unanimous vote",
           "series": [
             {
               "date": "Sep 2025",
@@ -313,6 +320,10 @@ window.GDC_DATA = {
             {
               "date": "Jul 2026",
               "value": 14
+            },
+            {
+              "date": "Sep 2026",
+              "value": 14
             }
           ],
           "seriesSource": "Bank of Ghana MPC decisions"
@@ -324,13 +335,46 @@ window.GDC_DATA = {
           "dec": 4,
           "unit": "%",
           "date": "7 Sep 2026",
-          "note": "182-day at 6.67%",
+          "note": "Bank of Ghana monthly average 5.38% in Aug 2026 · 182-day at 7.28%",
           "series": [
             {
-              "date": "4 Sep 2026",
-              "value": 6.68
+              "date": "Dec 2025",
+              "value": 11.08
+            },
+            {
+              "date": "Jan 2026",
+              "value": 11.17
+            },
+            {
+              "date": "Feb 2026",
+              "value": 8.96
+            },
+            {
+              "date": "Mar 2026",
+              "value": 4.89
+            },
+            {
+              "date": "Apr 2026",
+              "value": 4.9
+            },
+            {
+              "date": "May 2026",
+              "value": 4.91
+            },
+            {
+              "date": "Jun 2026",
+              "value": 5.27
+            },
+            {
+              "date": "Jul 2026",
+              "value": 5.85
+            },
+            {
+              "date": "Aug 2026",
+              "value": 5.38
             }
-          ]
+          ],
+          "seriesSource": "Bank of Ghana: Summary of Economic and Financial Data, table 3a"
         },
         {
           "label": "364-day T-bill",
@@ -341,27 +385,60 @@ window.GDC_DATA = {
           "note": "▼ 66 basis points · weekly government auction",
           "series": [
             {
-              "date": "4 Sep 2026",
-              "value": 12
+              "date": "Dec 2025",
+              "value": 12.92
+            },
+            {
+              "date": "Jan 2026",
+              "value": 12.97
+            },
+            {
+              "date": "Feb 2026",
+              "value": 11.53
+            },
+            {
+              "date": "Mar 2026",
+              "value": 9.57
+            },
+            {
+              "date": "Apr 2026",
+              "value": 10.02
+            },
+            {
+              "date": "May 2026",
+              "value": 10.27
+            },
+            {
+              "date": "Jun 2026",
+              "value": 11.29
+            },
+            {
+              "date": "Jul 2026",
+              "value": 13.45
+            },
+            {
+              "date": "Aug 2026",
+              "value": 12.16
             }
-          ]
+          ],
+          "seriesSource": "Bank of Ghana: Summary of Economic and Financial Data, table 3a"
         },
         {
           "label": "Average lending rate",
-          "value": 15.6,
+          "value": 15.94,
           "dec": 1,
           "unit": "%",
-          "date": "Jun 2026",
-          "note": "▼ from 27% a year earlier",
+          "date": "Aug 2026",
+          "note": "▼ from 24.15% a year earlier",
           "tone": "good"
         },
         {
           "label": "Private credit growth",
-          "value": 41.2,
+          "value": 35.5,
           "dec": 1,
           "unit": "%",
-          "date": "Jun 2026",
-          "note": "34.1% after inflation"
+          "date": "Aug 2026",
+          "note": "29.0% in real terms · GH¢123.3bn lent to the private sector"
         }
       ]
     },
@@ -371,24 +448,30 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "Real GDP growth",
-          "value": 6.4,
+          "value": 6,
           "dec": 1,
           "unit": "%",
-          "date": "Q1 2026",
-          "note": "2026 target at least 4.8%",
+          "date": "Q2 2026",
+          "note": "Non-oil growth 5.4% · services 8.0%, industry 4.3%, agriculture 3.9%",
           "status": [
             "good",
             "Strong"
+          ],
+          "series": [
+            {
+              "date": "Q2 2026",
+              "value": 6
+            }
           ]
         },
         {
           "board": true,
           "label": "Gross reserves",
-          "value": 12.94,
+          "value": 12.05,
           "dec": 2,
           "unit": "US$bn",
-          "date": "Jun 2026",
-          "note": "5.0 months of imports · ▼ from US$13.8bn (5.7 months) at end-2025",
+          "date": "22 Sep 2026",
+          "note": "4.5 months of imports · ▼ from US$13.8bn (5.7 months) at end-2025",
           "tone": "bad",
           "series": [
             {
@@ -402,17 +485,21 @@ window.GDC_DATA = {
             {
               "date": "Jun 2026",
               "value": 12.9
+            },
+            {
+              "date": "Sep 2026",
+              "value": 12.05
             }
           ],
           "seriesSource": "Bank of Ghana reserve statements"
         },
         {
           "label": "Trade surplus",
-          "value": 8.8,
+          "value": 8.86,
           "dec": 1,
           "unit": "US$bn",
-          "date": "H1 2026",
-          "note": "US$5.8bn in H1 2025 · gold-led"
+          "date": "Jan–Aug 2026",
+          "note": "Exports US$22.4bn against imports US$13.6bn · 6.7% of GDP"
         },
         {
           "label": "Current account surplus",
@@ -430,11 +517,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "US dollar",
-          "value": 11.44,
+          "value": 11.55,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "10 Sep 2026",
+          "date": "18 Sep 2026",
           "note": "▲ cedi down 9.5% this year to 17 Jul",
           "tone": "bad",
           "auto": "fx.usd"
@@ -442,22 +529,22 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "British pound",
-          "value": 15.5,
+          "value": 15.4464,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "10 Sep 2026",
+          "date": "18 Sep 2026",
           "note": "BoG interbank mid-rate",
           "auto": "fx.gbp"
         },
         {
           "board": true,
           "label": "Euro",
-          "value": 13.31,
+          "value": 13.2445,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "10 Sep 2026",
+          "date": "18 Sep 2026",
           "note": "BoG interbank mid-rate",
           "auto": "fx.eur"
         },
@@ -530,9 +617,9 @@ window.GDC_DATA = {
     }
   ],
   "trade": {
-    "period": "H1 2026",
-    "totalExports": 18.2,
-    "goldExports": 12.5
+    "period": "Jan–Aug 2026",
+    "totalExports": 22.44,
+    "goldExports": 14.86
   },
   "markets": [
     {
@@ -541,29 +628,29 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "Gold price",
-          "value": 4368,
+          "value": 4408,
           "dec": 0,
           "unit": "US$",
           "pre": true,
-          "date": "10 Sep 2026",
-          "note": "Per ounce · record US$5,597 on 29 Jan 2026",
+          "date": "Aug 2026",
+          "note": "Monthly average, per fine ounce · record US$5,597 on 29 Jan 2026",
           "auto": "gold.usdPerOz"
         },
         {
           "label": "Gold exports",
-          "value": 12.5,
+          "value": 14.86,
           "dec": 1,
           "unit": "US$bn",
-          "date": "H1 2026",
-          "note": "▲ from US$8.3bn in H1 2025",
+          "date": "Jan–Aug 2026",
+          "note": "66% of all export earnings",
           "tone": "good"
         },
         {
           "label": "BoG gold reserves",
-          "value": 24.4,
+          "value": 25.2,
           "dec": 1,
           "unit": "tonnes",
-          "date": "Jun 2026",
+          "date": "Aug 2026",
           "note": "▲ from 18.6 tonnes at end-2025",
           "tone": "good"
         },
@@ -578,12 +665,12 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "Cocoa world price",
-          "value": 5619,
+          "value": 5989,
           "dec": 0,
           "unit": "US$",
           "pre": true,
-          "date": "10 Sep 2026",
-          "note": "Per tonne, New York futures",
+          "date": "Aug 2026",
+          "note": "Monthly average, per tonne · Ghana realised US$4,132",
           "auto": "cocoa.usdPerTonne"
         },
         {
@@ -599,18 +686,18 @@ window.GDC_DATA = {
         },
         {
           "label": "Cocoa exports",
-          "value": 2.2,
+          "value": 2.76,
           "dec": 1,
           "unit": "US$bn",
-          "date": "H1 2026",
+          "date": "Jan–Aug 2026",
           "note": "US$2.1bn in H1 2025"
         },
         {
           "label": "Oil exports",
-          "value": 1.7,
+          "value": 2.42,
           "dec": 1,
           "unit": "US$bn",
-          "date": "H1 2026",
+          "date": "Jan–Aug 2026",
           "note": "Crude oil export earnings"
         }
       ]
@@ -621,11 +708,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "GSE Composite Index",
-          "value": 14724,
+          "value": 15076,
           "dec": 0,
           "unit": "pts",
-          "date": "4 Sep 2026",
-          "note": "▲ 67.9% so far in 2026",
+          "date": "Aug 2026",
+          "note": "▲ 71.9% so far this year · market capitalisation GH¢285.6bn",
           "tone": "good"
         },
         {
@@ -679,20 +766,20 @@ window.GDC_DATA = {
         },
         {
           "label": "Bank bad-loan ratio",
-          "value": 16.1,
+          "value": 15.7,
           "dec": 1,
           "unit": "%",
-          "date": "Jun 2026",
-          "note": "▼ from 23.1% · BoG wants below 10%",
+          "date": "Aug 2026",
+          "note": "▼ from 20.8% a year earlier · 3.8% excluding the loss category",
           "tone": "good"
         },
         {
           "label": "Bank lending growth",
-          "value": 39.4,
+          "value": 35.5,
           "dec": 1,
           "unit": "%",
-          "date": "Jun 2026",
-          "note": "Gross loans reached GH¢124.3bn"
+          "date": "Aug 2026",
+          "note": "Total advances GH¢129.2bn · capital adequacy 19.1%"
         }
       ]
     },
@@ -860,7 +947,7 @@ window.GDC_DATA = {
       "https://mofep.gov.gh/sites/default/files/budget-statements/2026-Budget-Statement-and-Economic-Policy.pdf"
     ],
     [
-      "Central government fiscal data, January\u2013July 2026 (Ministry of Finance)",
+      "Central government fiscal data, January–July 2026 (Ministry of Finance)",
       "https://www.mofep.gov.gh/fiscal-data"
     ],
     [
@@ -1022,6 +1109,14 @@ window.GDC_DATA = {
     [
       "Bank of Ghana: MPC meeting dates",
       "https://www.bog.gov.gh/monetary-policy/mpc-meeting-dates/"
+    ],
+    [
+      "Bank of Ghana: Monetary Policy Committee press release, 24 September 2026",
+      "https://www.bog.gov.gh/news/monetary-policy-committee-press-release/"
+    ],
+    [
+      "Bank of Ghana: Summary of Economic and Financial Data, 23 September 2026",
+      "https://www.bog.gov.gh/economic-data/summary-of-economic-and-financial-data/"
     ]
   ],
   "fxTicker": {
