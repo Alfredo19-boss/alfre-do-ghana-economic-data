@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-04T02:11:54.310Z",
+  "updated": "2026-10-04T08:27:05.573Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,116 +25,202 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘There is no competition’ – Justin Kodua confident of NPP General Secretary re-election",
-      "link": "https://www.myjoyonline.com/there-is-no-competition-justin-kodua-confident-of-npp-general-secretary-re-election/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T01:48:39.000Z",
-      "summary": "Incumbent General Secretary of the New Patriotic Party (NPP), Justin Frimpong Kodua, has expressed confidence in retaining his position, saying feedback from delegates across the country…",
+      "title": "John Boadu elected NPP National Chairman",
+      "link": "https://ghanaiantimes.com.gh/john-boadu-elected-npp-national-chairman/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-04T08:25:40.000Z",
+      "summary": "John Boadu has been elected as the National Chairman of the New Patriotic Party (NPP) following the party’s National Delegates Conference held on Saturday, October 3, 2026, at the Baba Yara…",
       "categories": [
-        "HP News 2",
-        "Politics",
-        "Justin Frimpong Kodua",
-        "NPP Delegates Conference"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/IMG_6324-636x424-1-e1759149401242.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "J100 Accra Doubles Champions : Kolesolva/ Ndukwa, Agarwal/Patel seal title victories",
-      "link": "https://www.myjoyonline.com/j100-accra-doubles-champions-kolesolva-ndukwa-agarwal-patel-seal-title-victories/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T01:46:45.000Z",
-      "summary": "Milana Kolesova and Alisha Ndukwu won the girls’ doubles title at the ITF World Tennis Tour Juniors J100 Accra with a commanding final against Kuzivaishe Chapepa and Kudzai Erin Patience…",
-      "categories": [
-        "Tennis",
-        "J100 Accra Doubles Champions"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3a9aa8ce-6610-49b8-b224-c5e185d9c476-963x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sydney Wright crowned J100 Accra Champion",
-      "link": "https://www.myjoyonline.com/sydney-wright-crowned-j100-accra-champion/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T01:42:18.000Z",
-      "summary": "Wright booked her spot in the title decider by defeating second seed Milana Kolesova of Russia 6-3, 6-0 in a dominant straight-sets performance",
-      "categories": [
-        "Tennis",
-        "ITF J100 Accra"
+        "Hot!",
+        "News"
       ],
       "image": null,
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "J100 Accra Boys’ Singles: Verma denies Beckles back-to-back titles to claim crown",
-      "link": "https://www.myjoyonline.com/j100-accra-boys-singles-verma-denies-beckles-back-to-back-titles-to-claim-crown/",
+      "title": "From banking to party finances: Alfred Kwadwo Thompson elected NPP Treasurer",
+      "link": "https://www.myjoyonline.com/from-banking-to-party-finances-alfred-kwadwo-thompson-elected-npp-treasurer/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T01:39:29.000Z",
-      "summary": "India’s sixth seed Om Verma produced a commanding performance to defeat David Beckles 6-3, 6-3 in the boys’ singles final at the ITF World Tennis Tour Juniors J100 Accra on Saturday, 3…",
-      "categories": [
-        "Tennis",
-        "J100 Accra Boys’ Singles"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3d6bff86-31dd-4a9e-97f6-1277aac91513-857x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two friends fined GH¢12,000 for stealing",
-      "link": "https://www.myjoyonline.com/two-friends-fined-gh%c2%a212000-for-stealing/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T01:33:18.000Z",
-      "summary": "Two friends have been fined GHS 6,000.00 each by the Nkawie Circuit Court in the Atwima Nwabiagya South Municipality of the Ashanti Region for stealing at Bonteso in the Amansie West…",
-      "categories": [
-        "Crime",
-        "Nkawie Circuit Court",
-        "Stealing"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/a-wooden-judge-gavel-rests-on-a-matching-sound-block-isolated-on-a-white-background-suitable-for-legal-justice-court-or-law-related-content-and-educational-materials-photo.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Son jailed for threatening to stab mother",
-      "link": "https://www.myjoyonline.com/son-jailed-for-threatening-to-stab-mother/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T01:18:00.000Z",
-      "summary": "The Tarkwa Circuit Court has sentenced Joseph Quaye, a 26-year-old unemployed man, who threatened to stab his mother with a knife and a pair of scissors, to four years' imprisonment in hard…",
-      "categories": [
-        "Crime",
-        "Stabbing",
-        "Tarkwa Circuit Court"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-1786.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Drive constitutional reform – GJA urges journalists",
-      "link": "https://www.myjoyonline.com/drive-constitutional-reform-gja-urges-journalists/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T00:56:00.000Z",
-      "summary": "The Vice-President of the Ghana Journalists Association (GJA), Rebecca Ekpe, has urged colleague journalists to lead the charge in ensuring that Ghana's constitutional reform is owned by…",
+      "published": "2026-10-04T08:20:31.000Z",
+      "summary": "Alfred Kwadwo Thompson has been elected National Treasurer of the New Patriotic Party (NPP) after securing 2,243 votes at the party’s National Delegates Conference in Kumasi.",
       "categories": [
         "News",
-        "constitutional reform",
-        "GJA",
-        "Journalist"
+        "Politics",
+        "Alfred Kwadwo Thompson",
+        "NIB",
+        "NPP National Treasurer"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/01/ghana-constitution-01-1024x682.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-05.11.21-e1791099167672-1024x815.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NPP Delagates Congress: Confusion delays voting at Ashanti Region TESCON centre",
-      "link": "https://www.myjoyonline.com/npp-delagates-congress-confusion-delays-voting-at-ashanti-region-tescon-centre/",
+      "title": "George Christian Papa Mends",
+      "link": "https://www.myjoyonline.com/george-christian-papa-mends/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T00:01:33.000Z",
-      "summary": "Confusion broke out at the Ashanti Region TESCON polling area during the New Patriotic Party’s national delegates congress after some delegates struggled to locate their names on the…",
+      "published": "2026-10-04T08:15:39.000Z",
+      "summary": "The Ahiekpor Family of Dzelukope, Keta; the Gaza and Tay Agbozo Families of Dzelukope, Keta; the Kwawukume Family of Anloga and Abroad; the Tamakloe and Allied Families Home and Abroad…",
       "categories": [
-        "HP News 1",
-        "Politics",
-        "Confusion",
-        "TESCON"
+        "Obituary",
+        "George Christian Papa Mends"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-333.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-07.52.23-e1791101420889-1024x759.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ali Suraj elected NPP NASARA Coordinator",
+      "link": "https://www.myjoyonline.com/ali-suraj-elected-npp-nasara-coordinator/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T08:04:34.000Z",
+      "summary": "Ali Suraj has been elected the National NASARA Coordinator of the New Patriotic Party (NPP).",
+      "categories": [
+        "News",
+        "Politics",
+        "Ali Suraj",
+        "NPP Nasara Coordinator"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/02/Alhaji-Ali-Suraj.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mustapha Hamid misses out on NPP Vice Chairmanship by 31 votes despite early poll lead",
+      "link": "https://www.myjoyonline.com/mustapha-hamid-misses-out-on-npp-vice-chairmanship-by-31-votes-despite-early-poll-lead/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T07:55:44.000Z",
+      "summary": "Former National Petroleum Authority (NPA) Chief Executive, Dr Mustapha Abdul-Hamid, has missed out on the New Patriotic Party’s (NPP) Vice Chairmanship, finishing fourth in a closely…",
+      "categories": [
+        "Politics",
+        "Mustapha Hamid",
+        "NPA CEO",
+        "NPP elections",
+        "NPP Vice Chairmanship"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-9.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kojo Bamba, Henry Nana Boakye and Nana Akomea elected NPP Vice Chairmen",
+      "link": "https://www.myjoyonline.com/kojo-bamba-henry-nana-boakye-and-nana-akomea-elected-npp-vice-chairmen/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T07:09:21.000Z",
+      "summary": "Kwadwo Fosu Boadu has been elected as the First National Vice Chairman of the New Patriotic Party (NPP) with Henry Nana Boakye as his Second Vice Chairman and Nana Akomea as Third Vice…",
+      "categories": [
+        "HP News 3",
+        "News",
+        "Politics",
+        "Kwadwo Fosu Boadu",
+        "Nana Akomea",
+        "Nana Boakye",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/vice-chair-1-1024x632.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From Delta Force to NPP First Vice Chairman – Kojo Bamba’s political journey",
+      "link": "https://www.myjoyonline.com/from-delta-force-to-npp-first-vice-chairman-kojo-bambas-political-journey/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T07:04:26.000Z",
+      "summary": "Kwadwo Fosu Boadu, popularly known as Kojo Bamba, has been elected National First Vice Chairman of the New Patriotic Party (NPP), capping a political journey that began at the party's…",
+      "categories": [
+        "HP News 4",
+        "Politics",
+        "Delta Force",
+        "First vice chairman",
+        "Kojo Bamba",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2025-09-01-at-11.53.26-AM-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police restore calm at Larteh following Odwira festival disturbance",
+      "link": "https://www.myjoyonline.com/police-restore-calm-at-larteh-following-odwira-festival-disturbance/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T06:12:01.000Z",
+      "summary": "The Eastern Regional Police Command says calm has been restored at Larteh in the Eastern Region following disturbances during the Ahenase Odwira Festival celebration on Saturday, October 3…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Larteh",
+        "Odwira",
+        "Police"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-989.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘All the camps will dissolve’ – Bawumia demands one NPP for 2028",
+      "link": "https://www.myjoyonline.com/all-the-camps-will-dissolve-bawumia-demands-one-npp-for-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T06:10:04.000Z",
+      "summary": "Former Vice President Dr Mahamudu Bawumia has called for unity within the New Patriotic Party (NPP) following the party’s national executive elections.",
+      "categories": [
+        "Politics",
+        "Dr Mahamudu Bawumia",
+        "NPP National Delegates Conference"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-4.23.18-PM-1024x529.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mavis Hawa Koomson is the new National Women's Organiser of NPP",
+      "link": "https://www.graphic.com.gh/news/politics/mavis-hawa-koomson-is-the-new-national-womens-organiser-of-npp.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T04:53:49.000Z",
+      "summary": "Mavis Hawa Koomson has been elected as the new National Women's Organiser of New Patriotic Party (NPP). Mavis Hawa Yakubu emerged winner with 783 votes against Hajia Safia Mohammed's 429…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/hawa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Kojo 'Bamba' Fosu Boadu, Nana Boakye and Nana Akomea elected 1st, 2nd and 3rd vice chairs of NPP",
+      "link": "https://www.graphic.com.gh/news/politics/nana-akomea-is-new-first-vice-chairman-of-npp.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T04:46:52.000Z",
+      "summary": "Kojo Fosu Boadu has been elected as the First National Vice Chairman of the New Patriotic Party (NPP) with Henry Nana Boakye as his Second Vice Chairman and Nana Akomea as Third Vice…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/akomea.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "John Boadu elected National Chairman of NPP",
+      "link": "https://www.graphic.com.gh/news/politics/john-boadu-elected-national-chairman-of-npp.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T04:43:50.000Z",
+      "summary": "John Boadu has been elected National Chairman of the New Patriotic Party (NPP).",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/john.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Justin Kodua Frimpong re-elected General Secretary of NPP",
+      "link": "https://www.graphic.com.gh/news/politics/justin-kodua-frimpong-re-elected-general-secretary-of-npp.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T04:34:14.000Z",
+      "summary": "Justin Kodua Frimpong has been re-elected General Secretary of New Patriotic Party (NPP).",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/justin.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Titus Glover elected National Organiser of NPP",
+      "link": "https://www.graphic.com.gh/news/politics/titus-glover-elected-national-organiser-of-npp.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T04:31:46.000Z",
+      "summary": "Daniel Titus Glover has been elected National Organiser of the New Patriotic Party (NPP).",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/titus.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "High Court grants Manhyia South MP Nana Agyei Baffour GH¢10 million bail",
@@ -173,18 +259,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Manhyia South MP Nana Agyei Baffour Awuah granted GH¢10 million bail",
-      "link": "https://www.graphic.com.gh/news/general-news/court-grants-bail-for-manhyia-south-mp-nana-agyei-baffour-awuah.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T16:56:59.000Z",
-      "summary": "The Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah has been granted a GH¢10 million bail with two sureties by the High Court in Accra.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5418.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Beyond Queiroz’s exit: Ghana football needs accountability, reform — not another quick fix",
       "link": "https://www.graphic.com.gh/sports/sports-news/beyond-queirozs-exit-ghana-football-needs-accountability-reform-not-another-quick-fix.html",
       "source": "Graphic Sports",
@@ -207,54 +281,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/03/ETSE_DOGLI.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Thousands benefit from LIFECHECK 2026 in Dansoman",
-      "link": "https://www.graphic.com.gh/news/general-news/thousands-benefit-from-lifecheck-2026-in-dansoman.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T13:01:10.000Z",
-      "summary": "More than 13,000 residents from Dansoman, Mamprobi, Chorkor, Lartebiokoshie and surrounding communities have benefited from LIFECHECK 2026, a community outreach initiative focused on…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Turn Saltpond history into economic opportunity - Stakeholders",
-      "link": "https://www.graphic.com.gh/news/general-news/turn-saltpond-history-into-economic-opportunity-stakeholders.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T12:16:29.000Z",
-      "summary": "The President of the Mfantseman-Saltpond Development Alliance (MSDA), Ernest De-Graft Egyir has called for the establishment of a National Political History and Heritage Centre at Saltpond…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/founders.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Newly certified electricians urged to embrace EV, solar technologies",
-      "link": "https://www.graphic.com.gh/news/general-news/newly-certified-electricians-urged-to-embrace-ev-solar-technologies.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T12:10:31.000Z",
-      "summary": "The Energy Commission (EC) has urged newly certified electrical wiring professionals to equip themselves with skills in electric vehicle (EV) charging systems, solar installations and…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/energyc.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mion NDC chairman hopeful calls for grassroots leadership",
-      "link": "https://www.graphic.com.gh/news/politics/mion-ndc-chairman-hopeful-calls-for-grassroots-leadership.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T11:29:38.000Z",
-      "summary": "An aspiring constituency chairman for National Democratic Congress (NDC) in Mion in the Northern Region, Alhassan Issah, has called on delegates to elect leaders who are closely connected…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/mion.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ho Teaching Hospital makes progress in cancer treatment",
@@ -413,19 +439,6 @@ window.GDC_PAPERS = {
       "published": "2026-10-02T09:28:05.000Z",
       "summary": "It will be fireworks at the University of Ghana Sports Stadium on Sunday as Accra Hearts of Oak and Dreams FC lock horns in a Matchday 5 encounter of the Ghana Premier League. The Rainbow…",
       "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GFA, Queiroz mutually terminate contract",
-      "link": "https://ghanaiantimes.com.gh/gfa-queiroz-mutually-terminate-contract/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:24:58.000Z",
-      "summary": "The Ghana Football Association (GFA) and Carlos Queiroz have mutually agreed to terminate the Service Agreement governing his role as Head Coach of the Black Stars, following discussions…",
-      "categories": [
-        "Hot!",
         "Sports"
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
