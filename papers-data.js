@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-04T18:13:01.919Z",
+  "updated": "2026-10-04T21:06:15.164Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,142 +25,157 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Diaspora Nasara Caucus congratulates Mohammed Ali Suraj, new NPP executives",
-      "link": "https://www.myjoyonline.com/diaspora-nasara-caucus-congratulates-mohammed-ali-suraj-new-npp-executives/",
+      "title": "Archbishop Agyinasare calls for responsible speech amid growing social media abuse",
+      "link": "https://www.myjoyonline.com/archbishop-agyinasare-calls-for-responsible-speech-amid-growing-social-media-abuse/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T18:10:47.000Z",
-      "summary": "The Diaspora Nasara Organiser Caucus has congratulated the newly elected National Executives of the New Patriotic Party (NPP) following the party’s National Delegates Conference in Kumasi…",
-      "categories": [
-        "National",
-        "Diaspora Nasara caucus",
-        "Mohammed Ali Suraj",
-        "NPP Executives"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-17.14.31-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr Antwi-Boasiako’s cybersecurity book showcased at UN crime prevention congress",
-      "link": "https://www.myjoyonline.com/dr-antwi-boasiakos-cybersecurity-book-showcased-at-un-crime-prevention-congress/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T18:08:46.000Z",
-      "summary": "A book documenting Ghana’s cybersecurity development, authored by former Director-General of the Cyber Security Authority, Dr Albert Antwi-Boasiako, has been exhibited at the 15th United…",
-      "categories": [
-        "National",
-        "Cybersecurity",
-        "Dr Albert Antwi-Boasiako",
-        "UN crime prevention"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/AA-B-1-973x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We will empower the grassroots and protect every vote – NPP’s 1st Vice Chair Kojo Bamba",
-      "link": "https://www.myjoyonline.com/we-will-empower-the-grassroots-and-protect-every-vote-npps-1st-vice-chair-kojo-bamba/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T17:58:49.000Z",
-      "summary": "Newly elected National First Vice Chairman of the New Patriotic Party (NPP), Kwadwo Fosu Boadu, popularly known as Kojo Bamba, has pledged to prioritise the grassroots and protect the…",
+      "published": "2026-10-04T21:02:15.000Z",
+      "summary": "Archbishop Dr Charles Agyinasare, Founder and Leader of Perez Chapel International, has cautioned Ghanaians against normalising information disorder through the circulation of unverified…",
       "categories": [
         "National",
         "News",
-        "Politics",
-        "Top Story",
-        "NPP",
-        "Youth"
+        "Archbishop Agyinasare",
+        "responsible speech",
+        "Social Media"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-384.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/AGYINASARE-e1791147727997.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I do not see myself as better than anyone – NPP’s 1st Vice Chair Kojo Bamba",
-      "link": "https://www.myjoyonline.com/i-do-not-see-myself-as-better-than-anyone-npps-1st-vice-chair-kojo-bamba/",
+      "title": "‘It will be inexcusable for gov’t not to honour payment of teachers’ arrears’ – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/it-will-be-inexcusable-for-govt-not-to-honour-payment-of-teachers-arrears-haruna-iddrisu/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T17:29:23.000Z",
-      "summary": "Newly elected First Vice Chairman of the New Patriotic Party (NPP), Kwadwo Fosu Boadu, popularly known as Kojo Bamba, says his new position is not about personal advancement but about…",
+      "published": "2026-10-04T20:53:48.000Z",
+      "summary": "Education Minister Haruna Iddrisu says the Ministry will pursue supplementary funding to facilitate payment of promoted teachers once the Ghana Education Service completes processing their…",
+      "categories": [
+        "Education",
+        "National",
+        "Government",
+        "payment",
+        "Teachers strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-4.28.21-AM-1024x612.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Forbes’ World’s Best Employers 2026: No Ghanaian firm ranked among 900 companies",
+      "link": "https://www.myjoyonline.com/forbes-worlds-best-employers-2026-no-ghanaian-firm-ranked-among-900-companies/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T20:51:25.000Z",
+      "summary": "Most of the Africa-ranked firms were from South Africa, Nigeria and Egypt.",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "Absa",
+        "Access Bank",
+        "FNB",
+        "Forbes",
+        "GT Bank",
+        "MTN",
+        "Nigeria",
+        "Sanlam",
+        "Standard Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Electronic processing of teachers’ data: ‘The decision is the Controller’s’ – GES boss",
+      "link": "https://www.myjoyonline.com/electronic-processing-of-teachers-data-the-decision-is-the-controllers-ges-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T20:47:33.000Z",
+      "summary": "Director-General of the Ghana Education Service (GES), Prof. Ernest Kofi Davis, says he would want the details of promoted teachers to be processed electronically, but the final decision…",
+      "categories": [
+        "Education",
+        "National",
+        "electronic processing",
+        "GES",
+        "reacher's data"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-386.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Teachers’ Strike: Haruna Iddrisu questions paper-based processing of promoted teachers’ data",
+      "link": "https://www.myjoyonline.com/teachers-strike-haruna-iddrisu-questions-paper-based-processing-of-promoted-teachers-data/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T20:34:56.000Z",
+      "summary": "Education Minister Haruna Iddrisu has questioned the continued use of paper forms to process the details of promoted teachers, calling for the adoption of an electronic system to make the…",
+      "categories": [
+        "Education",
+        "HP News 2",
+        "National",
+        "data processing",
+        "paper-based",
+        "promoted teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-385.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Teachers’ strike: GES targets Monday deadline to submit promotion data to Controller",
+      "link": "https://www.myjoyonline.com/teachers-strike-ges-targets-monday-deadline-to-submit-promotion-data-to-controller/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T20:26:55.000Z",
+      "summary": "The Director-General of the Ghana Education Service (GES), Professor Ernest Kofi Davis, says the Service is working to meet the deadline for processing promoted teachers’ details, but the…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Top Story",
+        "GES",
+        "Teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/Ernest.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Inflation to average 11.3% in 2027 – Fitch Solutions",
+      "link": "https://www.myjoyonline.com/inflation-to-average-11-3-in-2027-fitch-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T19:56:27.000Z",
+      "summary": "This will be driven by fading exchange rate support, modest fiscal loosening and strong money supply growth, with broad money supply growth already exceeding nominal Gross Domestic Product…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "BoG",
+        "El Nino",
+        "Fitch Solutions",
+        "Infation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/download-20.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I didn’t campaign for NDC to come and do this nonsense – Kpebu on EOCO",
+      "link": "https://www.myjoyonline.com/i-didnt-campaign-for-ndc-to-come-and-do-this-nonsense-kpebu-on-eoco/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T19:55:06.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has expressed disappointment with the conduct of some National Democratic Congress (NDC) appointees, saying he did not vote for the party in the 2024…",
       "categories": [
         "HP News 1",
         "National",
-        "News",
-        "Politics",
-        "1st Vice Chairman",
-        "Kojo Bamba",
-        "Kwadwo Fosu Boadu"
+        "EOCO",
+        "Martin Kpebu",
+        "Nana Agyei Baffuor Awuah",
+        "NDC",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-14-694x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Screenshot-2025-12-06-at-9.39.38-AM-1024x637.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Police blur the line between invitations and arrests – Reindorf Twumasi Ankrah",
-      "link": "https://www.myjoyonline.com/police-blur-the-line-between-invitations-and-arrests-reindorf-twumasi-ankrah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T16:54:55.000Z",
-      "summary": "Legal practitioner and Acting Chief Executive Officer of the Ghana Integrated Aluminium Development Corporation (GIADEC), Reindorf Twumasi Ankrah, has criticised law enforcement agencies…",
+      "title": "How Kojo 'Bamba' pulled a surprise and got elected as NPP 1st national vice chairman beating 12 other contestants",
+      "link": "https://www.graphic.com.gh/news/politics/how-kojo-bamba-pulled-a-surprise-and-got-elected-as-npp-national-1st-vice-chairman-beating-12-other-contestants.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T17:51:17.000Z",
+      "summary": "He is a boy from the Kumasi suburb of Asafo, an auto mechanic who got involved in partisan politics as a 'machoman'. His real name is Kojo Fosu Boadu but he is commonly known in the New…",
       "categories": [
-        "HP News 5",
-        "HP News 9",
-        "National",
-        "Investigation",
-        "Police",
-        "Reindorf Twumasi Ankrah"
+        "Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-2.41.20-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Turning invitations into arrests is making citizens reluctant to assist police – Twumasi Ankrah",
-      "link": "https://www.myjoyonline.com/turning-invitations-into-arrests-is-making-citizens-reluctant-to-assist-police-twumasi-ankrah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T16:21:23.000Z",
-      "summary": "Legal practitioner Reindorf Twumasi Ankrah has warned that the practice of arresting people after inviting them to assist investigations is making citizens increasingly reluctant to…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Arrest",
-        "Criminal",
-        "Investigation",
-        "Police",
-        "Reindorf Twumasi Ankrah",
-        "Suspect"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-2.41.20-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Traffitech-GH SMS spot-fine system: The good, the sad, and the funny – Bright Simons writes",
-      "link": "https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T16:09:33.000Z",
-      "summary": "The carnage on Ghana’s roads is not a joke. Road crashes killed 2,949 people in 2025, up from 2,494 the year before.",
-      "categories": [
-        "Features",
-        "HP News 4",
-        "HP Opinion 1",
-        "National",
-        "Opinion",
-        "Ghana Police",
-        "SMS spot-fine system",
-        "Traffitech-GH"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-345.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hawa Koomson pledges experienced and mature leadership of NPP women’s wing",
-      "link": "https://www.myjoyonline.com/hawa-koomson-pledges-experienced-and-mature-leadership-of-npp-womens-wing/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T15:02:09.000Z",
-      "summary": "Newly elected Women’s Organiser of the New Patriotic Party (NPP), Mavis Hawa Koomson, says she will bring experience and maturity to the position as she assumes responsibility for the…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Politics",
-        "Experience",
-        "Hawa Koomson",
-        "NPP",
-        "Women’s Organiser"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Hawa-Koomson-11-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/bamba3.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Abanga Fuseini Yakubu declared NPP National Youth Organiser",
@@ -321,18 +336,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/04/titus.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "High Court grants Manhyia South MP Nana Agyei Baffour GH¢10 million bail",
-      "link": "https://www.graphic.com.gh/news/general-news/high-court-grants-manhyia-south-mp-nana-agyei-baffour-ghc10-million-bail.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T19:43:14.000Z",
-      "summary": "The Member of Parliament for Manhyia South, Nana Agyei Baffour Awuah has been granted a GH¢10 million bail with two sureties by the High Court in Accra.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5418.jpeg",
       "site": "https://www.graphic.com.gh/"
     },
     {
