@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-04T14:18:04.025Z",
+  "updated": "2026-10-04T18:13:01.919Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,20 +25,141 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Livestream: The Law examines lawful arrest in Ghana",
-      "link": "https://www.myjoyonline.com/livestream-the-law-examines-lawful-arrest-in-ghana/",
+      "title": "Diaspora Nasara Caucus congratulates Mohammed Ali Suraj, new NPP executives",
+      "link": "https://www.myjoyonline.com/diaspora-nasara-caucus-congratulates-mohammed-ali-suraj-new-npp-executives/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T14:04:49.000Z",
-      "summary": "The legal procedures governing arrests and the rights of individuals who are arrested will come under discussion on this Sunday's edition of JoyNews' The Law.",
+      "published": "2026-10-04T18:10:47.000Z",
+      "summary": "The Diaspora Nasara Organiser Caucus has congratulated the newly elected National Executives of the New Patriotic Party (NPP) following the party’s National Delegates Conference in Kumasi…",
+      "categories": [
+        "National",
+        "Diaspora Nasara caucus",
+        "Mohammed Ali Suraj",
+        "NPP Executives"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-17.14.31-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dr Antwi-Boasiako’s cybersecurity book showcased at UN crime prevention congress",
+      "link": "https://www.myjoyonline.com/dr-antwi-boasiakos-cybersecurity-book-showcased-at-un-crime-prevention-congress/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T18:08:46.000Z",
+      "summary": "A book documenting Ghana’s cybersecurity development, authored by former Director-General of the Cyber Security Authority, Dr Albert Antwi-Boasiako, has been exhibited at the 15th United…",
+      "categories": [
+        "National",
+        "Cybersecurity",
+        "Dr Albert Antwi-Boasiako",
+        "UN crime prevention"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/AA-B-1-973x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We will empower the grassroots and protect every vote – NPP’s 1st Vice Chair Kojo Bamba",
+      "link": "https://www.myjoyonline.com/we-will-empower-the-grassroots-and-protect-every-vote-npps-1st-vice-chair-kojo-bamba/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T17:58:49.000Z",
+      "summary": "Newly elected National First Vice Chairman of the New Patriotic Party (NPP), Kwadwo Fosu Boadu, popularly known as Kojo Bamba, has pledged to prioritise the grassroots and protect the…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Top Story",
+        "NPP",
+        "Youth"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-384.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I do not see myself as better than anyone – NPP’s 1st Vice Chair Kojo Bamba",
+      "link": "https://www.myjoyonline.com/i-do-not-see-myself-as-better-than-anyone-npps-1st-vice-chair-kojo-bamba/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T17:29:23.000Z",
+      "summary": "Newly elected First Vice Chairman of the New Patriotic Party (NPP), Kwadwo Fosu Boadu, popularly known as Kojo Bamba, says his new position is not about personal advancement but about…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Politics",
+        "1st Vice Chairman",
+        "Kojo Bamba",
+        "Kwadwo Fosu Boadu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-14-694x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police blur the line between invitations and arrests – Reindorf Twumasi Ankrah",
+      "link": "https://www.myjoyonline.com/police-blur-the-line-between-invitations-and-arrests-reindorf-twumasi-ankrah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T16:54:55.000Z",
+      "summary": "Legal practitioner and Acting Chief Executive Officer of the Ghana Integrated Aluminium Development Corporation (GIADEC), Reindorf Twumasi Ankrah, has criticised law enforcement agencies…",
+      "categories": [
+        "HP News 5",
+        "HP News 9",
+        "National",
+        "Investigation",
+        "Police",
+        "Reindorf Twumasi Ankrah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-2.41.20-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Turning invitations into arrests is making citizens reluctant to assist police – Twumasi Ankrah",
+      "link": "https://www.myjoyonline.com/turning-invitations-into-arrests-is-making-citizens-reluctant-to-assist-police-twumasi-ankrah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T16:21:23.000Z",
+      "summary": "Legal practitioner Reindorf Twumasi Ankrah has warned that the practice of arresting people after inviting them to assist investigations is making citizens increasingly reluctant to…",
       "categories": [
         "HP News 2",
         "National",
-        "News",
-        "Ghana",
-        "lawful arrest",
-        "The Law"
+        "Arrest",
+        "Criminal",
+        "Investigation",
+        "Police",
+        "Reindorf Twumasi Ankrah",
+        "Suspect"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-law-with-samson-lardy-anyeni.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-2.41.20-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Traffitech-GH SMS spot-fine system: The good, the sad, and the funny – Bright Simons writes",
+      "link": "https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T16:09:33.000Z",
+      "summary": "The carnage on Ghana’s roads is not a joke. Road crashes killed 2,949 people in 2025, up from 2,494 the year before.",
+      "categories": [
+        "Features",
+        "HP News 4",
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Ghana Police",
+        "SMS spot-fine system",
+        "Traffitech-GH"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-345.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hawa Koomson pledges experienced and mature leadership of NPP women’s wing",
+      "link": "https://www.myjoyonline.com/hawa-koomson-pledges-experienced-and-mature-leadership-of-npp-womens-wing/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T15:02:09.000Z",
+      "summary": "Newly elected Women’s Organiser of the New Patriotic Party (NPP), Mavis Hawa Koomson, says she will bring experience and maturity to the position as she assumes responsibility for the…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Politics",
+        "Experience",
+        "Hawa Koomson",
+        "NPP",
+        "Women’s Organiser"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Hawa-Koomson-11-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -79,127 +200,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mahama urges African governments to treat healthcare as an investment, not budget cost",
-      "link": "https://www.myjoyonline.com/mahama-urges-african-governments-to-treat-healthcare-as-an-investment-not-budget-cost/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T13:29:46.000Z",
-      "summary": "President John Mahama has called for a major rethink of healthcare financing in Africa, urging governments and investors to treat the sector as an economic investment rather than merely a…",
-      "categories": [
-        "Africa",
-        "National",
-        "News",
-        "African governments",
-        "budget cost",
-        "Healthcare",
-        "Investment",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/President-Mahama-1024x731.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia congratulates John Boadu and new NPP executives, pledges support ahead of 2028",
-      "link": "https://www.myjoyonline.com/bawumia-congratulates-john-boadu-and-new-npp-executives-pledges-support-ahead-of-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T13:28:23.000Z",
-      "summary": "The Leader and Presidential Candidate of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has congratulated the party’s newly elected National Executives following Saturday’s national…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Politics",
-        "2028",
-        "Bawumia",
-        "John Boadu",
-        "NPP Executives"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-11.25.58-853x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘No talent should be left out’ – Bawumia pledges inclusive NPP campaign for 2028",
-      "link": "https://www.myjoyonline.com/no-talent-should-be-left-out-bawumia-pledges-inclusive-npp-campaign-for-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T13:22:34.000Z",
-      "summary": "The Leader and Presidential Candidate of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has pledged to ensure that no talent within the party is left out of its campaign ahead of the…",
-      "categories": [
-        "National",
-        "Top Story",
-        "2028",
-        "Bawumia",
-        "NPP",
-        "NPP Campaign"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bawumia-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof. Mike Oquaye recounts how he blocked Special Prosecutor’s attempt to arrest Bawku Central MP",
-      "link": "https://www.myjoyonline.com/prof-mike-oquaye-recounts-how-he-blocked-special-prosecutors-attempt-to-arrest-bawku-central-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T13:06:47.000Z",
-      "summary": "Former Speaker of Parliament, Prof. Aaron Mike Oquaye, has revealed how he intervened to stop the then Special Prosecutor from pursuing the arrest of Bawku Central MP, Mahama Ayariga…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "News",
-        "Bawku Central MP",
-        "Mahama Ayariga",
-        "Prof. Aaron Mike Oquaye",
-        "Special prosecutor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/image-1157-e1773331483302-1024x897.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Make health sovereignty a priority for Africa – Mahama",
-      "link": "https://www.myjoyonline.com/make-health-sovereignty-a-priority-for-africa-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T12:55:10.000Z",
-      "summary": "President John Dramani Mahama has urged African leaders to make health sovereignty a priority for their country as part of a broader strategy for the continent to achieve health sovereignty.",
-      "categories": [
-        "National",
-        "News",
-        "Africans",
-        "Health Sovereignty",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mahama_egypt.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dorimon Naa, Wa West DCE lead massive clean-up exercise; threaten sanctions against recalcitrant residents",
-      "link": "https://www.myjoyonline.com/dorimon-naa-wa-west-dce-lead-massive-clean-up-exercise-threaten-sanctions-against-recalcitrant-residents/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T12:38:00.000Z",
-      "summary": "The Paramount Chief of the Dorimon Traditional Area, Naa Alhaji Seidu Tungbani Salinbile II, and the District Chief Executive for Wa West, Richard Wullo, have led residents in a major…",
-      "categories": [
-        "News",
-        "Regional",
-        "Dorimon Naa",
-        "Wa West DCE"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-09.03.54-1-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos from Adom FM Y2K Jam",
-      "link": "https://www.myjoyonline.com/photos-from-adom-fm-y2k-jam/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T12:35:28.000Z",
-      "summary": "Adom FM Y2K Jam turned back the clock as patrons gathered at the La Palm Dome for an evening filled with music, dancing and nostalgia from the year 2000 and beyond. The event was marked by…",
-      "categories": [
-        "Events",
-        "In Focus",
-        "Music",
-        "Adom FM Y2K",
-        "Jam",
-        "La Palm",
-        "Praye"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_1297.jpg-1-1536x1024-1-1-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "'Political victory is never an entitlement' - Newly elected NPP National Chairman John Boadu pledges to lead with humility",
@@ -284,7 +284,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Politics"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/04/akomea.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5450.jpeg",
       "site": "https://www.graphic.com.gh/"
     },
     {

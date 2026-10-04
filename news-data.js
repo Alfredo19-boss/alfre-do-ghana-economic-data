@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-04T14:17:50.100Z",
-  "worldAt": "2026-10-04T14:17:50.097Z",
+  "updated": "2026-10-04T18:12:48.152Z",
+  "worldAt": "2026-10-04T18:12:48.149Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,32 +26,53 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 22 stories",
+    "World · BBC News: 21 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: 31 stories",
+    "Africa · AllAfrica: 32 stories",
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 32 stories",
     "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 6 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 24 African stories held"
+    "world lists: 40 world, 35 African stories held"
   ],
   "items": [
+    {
+      "title": "SG-Ghana Exit: Customers Have Nothing to Fear as Deposits Are Safe – Finance Lecturer Assures",
+      "link": "https://thehighstreetjournal.com/sg-ghana-exit-customers-have-nothing-to-fear-as-deposits-are-safe-finance-lecturer-assures/",
+      "source": "The High Street Journal",
+      "published": "2026-10-04T16:00:04.000Z",
+      "summary": "Finance lecturer Dr. Benjamin Amoah has assured SG-Ghana customers that their deposits and savings are safe despite the ownership change, saying the acquisition covers the bank’s assets…"
+    },
+    {
+      "title": "Recurring Fibre Cuts Raise Business and Investment Risks for Ghana",
+      "link": "https://thehighstreetjournal.com/recurring-fibre-cuts-raise-business-and-investment-risks-for-ghana/",
+      "source": "The High Street Journal",
+      "published": "2026-10-04T15:00:30.000Z",
+      "summary": "Recurring fibre cuts are imposing rising costs on Ghana’s telecom sector, disrupting businesses and weakening network reliability, prompting calls for stronger coordination to protect…"
+    },
     {
       "title": "StarOil Moves to Rejoin COMAC After 9 Months of Exit, But Not Without Critical Concerns",
       "link": "https://thehighstreetjournal.com/staroil-moves-to-rejoin-comac-after-9-months-of-exit-but-not-without-critical-concerns/",
       "source": "The High Street Journal",
       "published": "2026-10-04T14:00:26.000Z",
       "summary": "StarOil Ghana is rejoining COMAC after nine months away, citing industry appeals and the need for collective representation, but is demanding governance reforms, particularly over permanent…"
+    },
+    {
+      "title": "Aksa Energy delegation pays courtesy call on GRA Commissioner-General",
+      "link": "https://www.myjoyonline.com/aksa-energy-delegation-pays-courtesy-call-on-gra-commissioner-general/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T13:27:00.000Z",
+      "summary": "The Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Kwasi Sarpong, has received and hosted a delegation from Aksa Energy led by the company’s Chief Finance Officer…"
     },
     {
       "title": "What does East Africa’s effort to host AFCON teach us about collaboration and sports tourism?",
@@ -1074,36 +1095,158 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-09-30T16:06:14.000Z",
       "summary": "The issue came into focus when Western Regional Minister Joseph Nelson paid a working visit to the Karpowership facility in the Sekondi-Takoradi Metropolis on Tuesday, September 29, 2026…"
-    },
-    {
-      "title": "Four Schools, One Crown: Prempeh, Corpus Christi, Mfantsipim and St Augustine’s battle for NIQ trophy",
-      "link": "https://www.myjoyonline.com/four-schools-one-crown-prempeh-corpus-christi-mfantsipim-and-st-augustines-battle-for-niq-trophy/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T16:03:32.000Z",
-      "summary": "The race for the 2026 National Investment Quiz (NIQ) crown has narrowed to four schools after a thrilling semi-final stage produced four finalists — Prempeh College, Corpus Christi…"
-    },
-    {
-      "title": "Ghana Seeks Private Capital to Close Climate Investment Gap",
-      "link": "https://thehighstreetjournal.com/ghana-seeks-private-capital-to-close-climate-investment-gap/",
-      "source": "The High Street Journal",
-      "published": "2026-09-30T16:00:00.000Z",
-      "summary": "Deputy Finance Minister Thomas Nyarko Ampem said the government must use public and concessional resources to reduce investment risks and attract commercial capital rather than relying…"
-    },
-    {
-      "title": "GoldBod generates US$1.87bn in FX in September, exceeds monthly target",
-      "link": "https://www.myjoyonline.com/goldbod-generates-us1-87bn-in-fx-in-september-exceeds-monthly-target/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-30T15:33:10.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) generated US$1.871 billion in foreign exchange from its artisanal and small-scale gold (ASM) trading operations in September 2026, exceeding its monthly…"
     }
   ],
   "world": [
     {
-      "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
-      "link": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
+      "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+      "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T13:42:16.000Z",
-      "summary": "Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight."
+      "published": "2026-10-04T17:17:42.000Z",
+      "summary": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president."
+    },
+    {
+      "title": "Indian police accused of sexual harassment against journalists at protest",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-04T17:01:19.000Z",
+      "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Mass protests demanding poll chief resignation shake India for third day",
+      "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:55:03.000Z",
+      "summary": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi."
+    },
+    {
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-04T16:51:30.000Z",
+      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg"
+    },
+    {
+      "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
+      "link": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
+      "source": "France 24",
+      "published": "2026-10-04T16:38:55.000Z",
+      "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro…",
+      "image": "https://s.france24.com/media/display/ff70d622-c010-11f1-baeb-69fad0a7cb9f/w:1024/p:16x9/EN-20261004-170357-170917-CS.jpg"
+    },
+    {
+      "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:38:45.000Z",
+      "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid"
+    },
+    {
+      "title": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
+      "link": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
+      "source": "France 24",
+      "published": "2026-10-04T16:25:01.000Z",
+      "summary": "The woman who alleged that she was drugged and raped by seven male students at a Cornell University fraternity house has been the target of threats, her lawyer told CNN on Sunday. Cornell's…",
+      "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg"
+    },
+    {
+      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:28:43.000Z",
+      "summary": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says."
+    },
+    {
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-04T16:24:48.000Z",
+      "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "US and Man City’s Cavan Sullivan becomes youngest international goalscorer",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:23:59.000Z",
+      "summary": "Sullivan’s goal came after teenager Julian Hall, 18, had given Mauricio Pochettino's side the lead in Mexico friendly."
+    },
+    {
+      "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+      "source": "NPR World",
+      "published": "2026-10-04T15:15:09.000Z",
+      "summary": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2Fc6%2Ff72a9ae744848961c0d4d90575a5%2Fap26277348834813.jpg"
+    },
+    {
+      "title": "Three years of genocide in Gaza through one man’s camera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:18:01.000Z",
+      "summary": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza."
+    },
+    {
+      "title": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
+      "link": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support",
+      "source": "France 24",
+      "published": "2026-10-04T14:37:56.000Z",
+      "summary": "German Chancellor Friedrich Merz visited Ukraine on Sunday to show solidarity after Russian attacks on Kyiv infrastructure, including three bridges. Last month, Germany’s foreign minister…",
+      "image": "https://s.france24.com/media/display/fa89a1c8-bffe-11f1-b41d-578a4b968fd6/w:1024/p:16x9/EN-20261004-160659-160855-CS.jpg"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:04:53.000Z",
+      "summary": "Jerusalem Daily: Israeli forces arrest school children during raid"
+    },
+    {
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-04T14:36:57.000Z",
+      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg"
+    },
+    {
+      "title": "Philippines arrests 244 suspects in online scam crackdown",
+      "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:00:50.000Z",
+      "summary": "Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder."
+    },
+    {
+      "title": "Why I quit the movement shaping AI",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
+      "source": "France 24",
+      "published": "2026-10-04T14:30:32.000Z",
+      "summary": "Artificial intelligence insiders are quitting their jobs, saying the technology could mean the end of humanity. Pope Leo in France warned of a “paradise of machines”. And the New York Times…",
+      "image": "https://s.france24.com/media/display/c3f74796-bffe-11f1-9791-578a4b968fd6/w:1024/p:16x9/EN-WB-TECH24-effective-altruism-confessional-1.png"
+    },
+    {
+      "title": "LIVE: Portugal vs Norway – UEFA Nations League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T15:47:10.000Z",
+      "summary": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes."
+    },
+    {
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-04T14:25:32.000Z",
+      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+      "link": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T15:45:04.000Z",
+      "summary": "Ambassador vows cooperation as Japan protests after a US marine’s arrest in connection to Okinawa murder case."
     },
     {
       "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
@@ -1114,6 +1257,13 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/29936e26-bf10-11f1-9557-dd51fcab6130/w:1024/p:16x9/AP26273599274856-1-1.jpg"
     },
     {
+      "title": "Why does the US want to deport Salah Sarsour?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T15:36:10.000Z",
+      "summary": "A US judge has ruled a prominent Palestinian rights advocate can be deported under a controversial, cold-war era law."
+    },
+    {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1122,11 +1272,25 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg"
     },
     {
-      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
-      "link": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+      "title": "‘Did he know?’: Why Israel is rejecting an October 7 reckoning",
+      "link": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T13:31:15.000Z",
-      "summary": "Fighting escalates in Taiz governorate as Yemen's government and Houthis battle for control of key strategic locations."
+      "published": "2026-10-04T15:22:25.000Z",
+      "summary": "The fixation on Netanyahu’s failures allows Israel to avoid confronting what it has done in Gaza."
+    },
+    {
+      "title": "Eight countries including China join military exercises in Russia",
+      "link": "http://www.africanews.com/2026/10/04/eight-countries-including-china-join-military-exercises-in-russia/",
+      "source": "Africanews",
+      "published": "2026-10-04T13:28:26.000Z",
+      "summary": "Troops from eight countries including China have been participating in joint military exercises in Russia. The exercise concluded on Saturday after conducting coordinated ground and air…"
+    },
+    {
+      "title": "‘We need freedom’: New Delhi women protest sexual violence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/we-need-freedom-new-delhi-women-protest-sexual-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T15:20:48.000Z",
+      "summary": "Aditi Subramanian joined protests after the alleged gang rape of a teenager in New Delhi, calling for women’s safety."
     },
     {
       "title": "Brazil: Lula and Bolsonaro tied in polls",
@@ -1137,11 +1301,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/148e8480-bff5-11f1-baa5-13e372f41e70/w:1024/p:16x9/EN-20261004-140634-141113-CS.jpg"
     },
     {
-      "title": "Somali president: Ethiopia can access our port, but must negotiate",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
+      "title": "Dodik urges Serb turnout against ‘Sarajevo crooks’ in Bosnia election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/dodik-urges-serb-turnout-against-sarajevo-crooks-in-bosnia-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T13:22:22.000Z",
-      "summary": "Somali President Hassan Sheikh Mohamud says Addis Ababa has yet to come to Mogadishu to negotiate access to sea ports."
+      "published": "2026-10-04T15:16:50.000Z",
+      "summary": "Dodik urges Serb turnout against ‘Sarajevo crooks’ in Bosnia election"
     },
     {
       "title": "Lula de Silva: 80-year-old incumbent Brazilian president seeks 4th term",
@@ -1152,11 +1316,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7a972198-bff4-11f1-ad27-1ff0321dbbd3/w:1024/p:16x9/EN-20261004-140151-140634-CS.jpg"
     },
     {
-      "title": "What are the five questions being asked regarding the Flydubai attack?",
-      "link": "https://www.aljazeera.com/news/2026/10/4/what-are-the-five-questions-being-asked-regarding-the-flydubai-attack?traffic_source=rss",
+      "title": "Iran tells US: there is ‘no military solution’ to end the war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T13:11:27.000Z",
-      "summary": "As investigations are conducted, official versions of the incident have come under scrutiny."
+      "published": "2026-10-04T15:06:14.000Z",
+      "summary": "Iranian Foreign Minister Abbas Araghchi says the era of “wasting time and dictating demands is over’."
     },
     {
       "title": "Persistent violence stalling African development, Burundi's Ndayishimiye tells summit",
@@ -1166,14 +1330,14 @@ window.GDC_NEWS = {
       "summary": "Burundian President Evariste Ndayishimiye says at an African Union meeting in El Alamein, Egypt, that persistent violence across Africa is taking a toll on farming, education and…"
     },
     {
-      "title": "Did the fall of al-Andalus reshape Europe forever?",
-      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/4/did-the-fall-of-al-andalus-reshape-europe-forever?traffic_source=rss",
+      "title": "Lula and Bolsonaro vote in Brazil’s polarised presidential election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T13:01:54.000Z",
-      "summary": "Deja Vu traces Europe’s Muslim history from Al-Andalus to today. Why are Muslims still treated as outsiders?"
+      "published": "2026-10-04T15:05:37.000Z",
+      "summary": "President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro have voted in a tightly contested election."
     },
     {
-      "title": "Yemen's leader announces counter-offensive as Houthis cut off supply route to besieged city",
+      "title": "Yemen's government declares counter-offensive as Houthis cut vital route to besieged city",
       "link": "https://www.france24.com/en/middle-east/20261004-yemen-leader-announces-counter-offensive-as-houthis-cut-off-supply-route-besieged-city-taiz",
       "source": "France 24",
       "published": "2026-10-04T12:59:17.000Z",
@@ -1181,11 +1345,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d00fb47e-bfee-11f1-9c60-1ff0321dbbd3/w:1024/p:16x9/000-C9E87YK.jpg"
     },
     {
-      "title": "Amid teen triumph and organisational chaos, Asian Games close in Japan",
-      "link": "https://www.aljazeera.com/sports/2026/10/4/amid-teen-triumph-and-organisational-chaos-asian-games-close-in-japan?traffic_source=rss",
+      "title": "Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T12:53:33.000Z",
-      "summary": "The continental competition hosted 17,000 athletes over two weeks in Aichi-Nagoya."
+      "published": "2026-10-04T14:21:20.000Z",
+      "summary": "Bosnian Serb leader's controversial comments ahead of Bosnia and Herzegovina's high-stakes elections."
     },
     {
       "title": "Up to 500 French schools to be totally or partly closed Monday amid student protests",
@@ -1196,11 +1360,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/61d80878-be43-11f1-b4ef-69fad0a7cb9f/w:1024/p:16x9/022ba4e8b312d3db20028d7ab7851a66d3b76f5e.jpg"
     },
     {
-      "title": "Yemen’s leader announces military operation to retake Houthi-held territory",
-      "link": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
+      "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T12:48:50.000Z",
-      "summary": "Rashad al-Alimi says the campaign aims to restore state authority throughout Yemen."
+      "published": "2026-10-04T13:42:16.000Z",
+      "summary": "Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight."
     },
     {
       "title": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters",
@@ -1208,6 +1372,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-04T12:22:24.000Z",
       "summary": "Ethiopian federal forces have taken Mekelle airport, reversing a takeover by Tigrayan fighters last month."
+    },
+    {
+      "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
+      "link": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T13:31:15.000Z",
+      "summary": "Fighting escalates in Taiz governorate as Yemen's government and Houthis battle for control of key strategic locations."
     },
     {
       "title": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
@@ -1218,186 +1389,70 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/59ce40b6-bfd8-11f1-82be-1ff0321dbbd3/w:1024/p:16x9/AP23327396671319.jpg"
     },
     {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-04T12:09:04.000Z",
-      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c25/live/34af1c20-bff5-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "title": "West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones",
-      "link": "https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones",
-      "source": "France 24",
-      "published": "2026-10-04T12:01:27.000Z",
-      "summary": "Palestinians and activists report an increased use of drones in the occupied West Bank, particularly by the army and settlers, to whom the government supplies the drones directly. The…",
-      "image": "https://s.france24.com/media/display/9ad046c8-bd7a-11f1-b57d-d367a0468893/w:1024/p:16x9/Cover-Pic-Drones.png"
-    },
-    {
-      "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-      "link": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+      "title": "Somali president: Ethiopia can access our port, but must negotiate",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T11:58:14.000Z",
-      "summary": "German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital."
-    },
-    {
-      "title": "Lula and Bolsonaro face off in Brazil presidential race",
-      "link": "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race",
-      "source": "France 24",
-      "published": "2026-10-04T11:56:08.000Z",
-      "summary": "Twelve candidates are on the ballot, but the presidential race is centred on two rivals: President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term…",
-      "image": "https://s.france24.com/media/display/4af16eb0-bfe7-11f1-a8ca-dd51fcab6130/w:1024/p:16x9/EN-20261004-130852-131819-CS.jpg"
-    },
-    {
-      "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "link": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-04T11:28:00.000Z",
-      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely…"
-    },
-    {
-      "title": "Cornell president breaks silence over alleged campus rape",
-      "link": "https://www.france24.com/en/cornell-president-breaks-silence-over-alleged-campus-rape",
-      "source": "France 24",
-      "published": "2026-10-04T11:53:09.000Z",
-      "summary": "Cornell University remains at the centre of controversy over an alleged gang rape at a fraternity on campus, with the university president now breaking his silence. In an eight-minute video…",
-      "image": "https://s.france24.com/media/display/22935d1c-bfe6-11f1-95ff-13420ab900a2/w:1024/p:16x9/EN-20261004-130412-130611-CS.jpg"
-    },
-    {
-      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-      "link": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T11:15:34.000Z",
-      "summary": "Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro."
-    },
-    {
-      "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
-      "link": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
-      "source": "France 24",
-      "published": "2026-10-04T11:17:45.000Z",
-      "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro…",
-      "image": "https://s.france24.com/media/display/e99df506-bff1-11f1-b070-13420ab900a2/w:1024/p:16x9/000-D27G68K.jpg"
-    },
-    {
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T11:11:30.000Z",
-      "summary": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks."
-    },
-    {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-04T11:03:20.000Z",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png"
-    },
-    {
-      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-      "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T11:05:02.000Z",
-      "summary": "Federal troops and allied fighters seen in control of the city after capturing main regional airport."
-    },
-    {
-      "title": "Israel prepares to mark October 7",
-      "link": "https://www.france24.com/en/israel-prepares-to-mark-october-7",
-      "source": "France 24",
-      "published": "2026-10-04T10:59:38.000Z",
-      "summary": "An Israeli strike on a civilian vehicle in Gaza on Sunday killed one Palestinian and wounded at least 11 others. Israel’s military said it was targeting a Hamas militant. Palestinians have…",
-      "image": "https://s.france24.com/media/display/9482b6e4-bfe0-11f1-9696-13e372f41e70/w:1024/p:16x9/EN-20261004-120715-121646-CS.jpg"
-    },
-    {
-      "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
-      "link": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T11:02:33.000Z",
-      "summary": "Championship leader Kimi Antonelli of Mercedes and Ferrari's Lewis Hamilton finish second and third."
-    },
-    {
-      "title": "Houthi rebels claim attack on Saudi oil facility in Riyadh",
-      "link": "http://www.africanews.com/2026/10/04/houthi-rebels-claim-attack-on-saudi-oil-facility-in-riyadh/",
-      "source": "Africanews",
-      "published": "2026-10-04T10:19:00.000Z",
-      "summary": "Yemen’s Houthi rebels on Saturday claimed attacks against facilities of Aramco, the world's largest oil company, in Saudi Arabia's capital Riyadh."
-    },
-    {
-      "title": "Is the Sudanese army gaining momentum against the RSF?",
-      "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T10:56:12.000Z",
-      "summary": "The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes."
-    },
-    {
-      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-      "source": "NPR World",
-      "published": "2026-10-04T10:00:00.000Z",
-      "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x3000+0+0/resize/4800x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2F6f%2F09b190a0450caf4225fc0a616abb%2Fukraine-fox1.jpg"
-    },
-    {
-      "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
-      "link": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T10:55:40.000Z",
-      "summary": "Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America."
-    },
-    {
-      "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
-      "link": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
-      "source": "France 24",
-      "published": "2026-10-04T09:52:14.000Z",
-      "summary": "Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended…",
-      "image": "https://s.france24.com/media/display/e390ed6c-bfd8-11f1-82ff-dd51fcab6130/w:1024/p:16x9/EN-20261004-110613-111023-CS.jpg"
-    },
-    {
-      "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T10:44:23.000Z",
-      "summary": "Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad."
-    },
-    {
-      "title": "Brazil: A portrait of Flavio Bolsonaro",
-      "link": "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
-      "source": "France 24",
-      "published": "2026-10-04T09:49:19.000Z",
-      "summary": "Brazilians are voting for governors and lawmakers, but the biggest stakes are in the presidential race. Twelve candidates are on the ballot, but the contest is seen as a toss-up between…",
-      "image": "https://s.france24.com/media/display/c6f86b4a-bfd7-11f1-914f-13e372f41e70/w:1024/p:16x9/EN-20261004-110148-110322-CS.jpg"
-    },
-    {
-      "title": "Spain protests flare after housing bill rejected: Will it cause snap poll?",
-      "link": "https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T10:16:49.000Z",
-      "summary": "Measures pushed by Spain's leftist government fail to pass parliament as the protests spread."
-    },
-    {
-      "title": "Who are the mystery pilots who successfully landed endangered Flydubai flight 1073?",
-      "link": "https://www.france24.com/en/middle-east/20261004-who-are-the-mystery-pilots-who-successfully-landed-endangered-flydubai-flight-1073",
-      "source": "France 24",
-      "published": "2026-10-04T09:36:47.000Z",
-      "summary": "A passenger on Flydubai flight 1073 has described the actions of on-duty crew members who rushed into the cockpit to stabilise and land the plane after the co-pilot attacked the captain…",
-      "image": "https://s.france24.com/media/display/da1105dc-bfcf-11f1-8542-13e372f41e70/w:1024/p:16x9/AP26273485606536-1.jpg"
-    },
-    {
-      "title": "Netanyahu’s fight to own the election narrative",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T10:05:53.000Z",
-      "summary": "What did Netanyahu know about October 7 before it happened?"
-    },
-    {
-      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
-      "link": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-04T09:30:00.000Z",
-      "summary": "Polls have opened in Bosnia and Herzegovina, where voters are taking part in parliamentary, presidential and local elections."
+      "published": "2026-10-04T13:22:22.000Z",
+      "summary": "Somali President Hassan Sheikh Mohamud says Addis Ababa has yet to come to Mogadishu to negotiate access to sea ports."
     }
   ],
   "africa": [
+    {
+      "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+      "link": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-04T17:15:00.000Z",
+      "summary": "A new report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations have been made about propaganda in Democratic Republic of the…"
+    },
+    {
+      "title": "Ethiopia: Ethiopia Captures Tigray Capital As Its Regional Rivals Meet in Egypt",
+      "link": "https://allafrica.com/stories/202610040094.html",
+      "source": "AllAfrica",
+      "published": "2026-10-04T16:37:18.000Z",
+      "summary": "[RFI] Ethiopian federal forces have regained control of the Tigray rebels' regional capital, local sources said on Sunday, while Ethiopia's regional rivals gathered in Egypt to discuss the…"
+    },
+    {
+      "title": "East Africa: What Washington Agreed to Last Month - Somaliland",
+      "link": "https://allafrica.com/stories/202610040087.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-04T16:32:46.000Z",
+      "summary": "[African Arguments] Somaliland's president spent two weeks in Washington this month offering almost everything he has. Access to the port at Berbera. Access to the territory's minerals…"
+    },
+    {
+      "title": "Africa: Africa CDC Supports DR Congo in Strengthening Transparency and Accountability in Ebola Response Funding",
+      "link": "https://allafrica.com/stories/202610040090.html",
+      "source": "AllAfrica",
+      "published": "2026-10-04T16:36:38.000Z",
+      "summary": "[Africa CDC] Kinshasa -- The Africa Centres for Disease Control and Prevention (Africa CDC) welcomes and supports the position of the Government of the Democratic Republic of the Congo…"
+    },
+    {
+      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:28:43.000Z",
+      "summary": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says."
+    },
+    {
+      "title": "Uganda: Uganda's UN-Supported Wildlife Forensics Lab Turns Ivory Seizures Into Convictions",
+      "link": "https://allafrica.com/stories/202610040089.html",
+      "source": "AllAfrica",
+      "published": "2026-10-04T16:34:46.000Z",
+      "summary": "[UN News] The package originated in Entebbe, Uganda, bound for Cairo, containing 10 kilograms of thumb-sized pieces that could have been either bone or elephant ivory."
+    },
+    {
+      "title": "Nigeria: Nigerian Drugmaker Fidson Selected to Manufacture Generic Influenza Antiviral Under Global Licence",
+      "link": "https://allafrica.com/stories/202610040065.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-04T15:57:06.000Z",
+      "summary": "[Premium Times] The selected manufacturers are from Brazil, China, India, Indonesia, Malaysia, Nigeria, Uganda, Ukraine and Vietnam."
+    },
+    {
+      "title": "Ethiopia: Tigray Rebels Reportedly Abandon Capital As Ethiopian Government Forces Advance",
+      "link": "https://allafrica.com/stories/202610040088.html",
+      "source": "AllAfrica",
+      "published": "2026-10-04T16:33:16.000Z",
+      "summary": "[RFI] Tigray rebels are abandoning their regional capital in northern Ethiopia, local residents said on Saturday, as pro-government forces advanced on the city. The region is in the grip of…"
+    },
     {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
@@ -1407,6 +1462,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg"
     },
     {
+      "title": "Sudan: 'Drone Strike On El Obeid Shelter Kills Boy, Wounds 12 Children'",
+      "link": "https://allafrica.com/stories/202610040083.html",
+      "source": "AllAfrica",
+      "published": "2026-10-04T16:28:44.000Z",
+      "summary": "[Dabanga] El Obeid -- A drone strike on a shelter for internally displaced people in El Obeid, North Kordofan, late on Thursday reportedly killed a boy and wounded 12 children, as another…"
+    },
+    {
       "title": "Somali president: Ethiopia can access our port, but must negotiate",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1414,11 +1476,25 @@ window.GDC_NEWS = {
       "summary": "Somali President Hassan Sheikh Mohamud says Addis Ababa has yet to come to Mogadishu to negotiate access to sea ports."
     },
     {
+      "title": "Nigeria: How Tinubu Ran Nigeria During Four-Week Trip Abroad - Shettima",
+      "link": "https://allafrica.com/stories/202610040064.html",
+      "source": "AllAfrica",
+      "published": "2026-10-04T15:56:26.000Z",
+      "summary": "[Premium Times] Mr Shettima the economic difficulties facing Nigerians and said the government is working on measures to reduce the impact of the hardship."
+    },
+    {
       "title": "Persistent violence stalling African development, Burundi's Ndayishimiye tells summit",
       "link": "http://www.africanews.com/2026/10/04/persistent-violence-stalling-african-development-burundis-ndayishimiye-tells-summit/",
       "source": "Africanews",
       "published": "2026-10-04T13:07:40.000Z",
       "summary": "Burundian President Evariste Ndayishimiye says at an African Union meeting in El Alamein, Egypt, that persistent violence across Africa is taking a toll on farming, education and…"
+    },
+    {
+      "title": "Sudan: WFP Strongly Condemns Attack on Trucks in South Kordofan, Killing One Driver",
+      "link": "https://allafrica.com/stories/202610040063.html",
+      "source": "AllAfrica",
+      "published": "2026-10-04T15:47:59.000Z",
+      "summary": "[WFP] Khartoum -- The United Nations World Food Programme (WFP) strongly condemns an aerial attack that hit two contracted trucks carrying WFP food commodities in South Kordofan in the…"
     },
     {
       "title": "Photos: Community unites in Senegal’s Dakar to clean dilapidated school",
