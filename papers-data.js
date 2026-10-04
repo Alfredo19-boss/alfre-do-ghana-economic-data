@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-04T21:06:15.164Z",
+  "updated": "2026-10-04T21:25:35.097Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,12 +25,29 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GTA sensitises taxi drivers in ‘Know Ghana’ tourism campaign",
+      "link": "https://www.myjoyonline.com/gta-sensitises-taxi-drivers-in-know-ghana-tourism-campaign/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T21:06:51.000Z",
+      "summary": "The Ghana Tourism Authority has begun sensitising taxi drivers to promote Ghana’s tourism attractions, culture and local experiences to visitors. The first exercise was done with the Osu…",
+      "categories": [
+        "HP Entertainment 2",
+        "National",
+        "Travel and Tourism",
+        "Ghana Tourism Authority",
+        "Taxi drivers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f54435ba-95d7-4a22-a6ec-d94ab215c2c2-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Archbishop Agyinasare calls for responsible speech amid growing social media abuse",
       "link": "https://www.myjoyonline.com/archbishop-agyinasare-calls-for-responsible-speech-amid-growing-social-media-abuse/",
       "source": "MyJoyOnline",
       "published": "2026-10-04T21:02:15.000Z",
       "summary": "Archbishop Dr Charles Agyinasare, Founder and Leader of Perez Chapel International, has cautioned Ghanaians against normalising information disorder through the circulation of unverified…",
       "categories": [
+        "HP News 3",
         "National",
         "News",
         "Archbishop Agyinasare",
@@ -38,6 +55,23 @@ window.GDC_PAPERS = {
         "Social Media"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/AGYINASARE-e1791147727997.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘It will be inexcusable for gov’t not to honour payment of teachers’ arrears by 30th October’ – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/it-will-be-inexcusable-for-govt-not-to-honour-payment-of-teachers-arrears-by-30th-october-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T20:53:48.000Z",
+      "summary": "Education Minister Haruna Iddrisu says the Ministry will pursue supplementary funding to facilitate payment of promoted teachers once the Ghana Education Service completes processing their…",
+      "categories": [
+        "Education",
+        "HP News 6",
+        "National",
+        "Government",
+        "payment",
+        "Teachers strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-4.28.21-AM-1024x612.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -113,56 +147,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Teachers’ strike: GES targets Monday deadline to submit promotion data to Controller",
-      "link": "https://www.myjoyonline.com/teachers-strike-ges-targets-monday-deadline-to-submit-promotion-data-to-controller/",
+      "title": "Savannah Region: Kunfusi bridge collapses again, leaving nearly 4,000 residents cut off",
+      "link": "https://www.myjoyonline.com/savannah-region-kunfusi-bridge-collapses-again-leaving-nearly-4000-residents-cut-off/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T20:26:55.000Z",
-      "summary": "The Director-General of the Ghana Education Service (GES), Professor Ernest Kofi Davis, says the Service is working to meet the deadline for processing promoted teachers’ details, but the…",
+      "published": "2026-10-04T20:30:00.000Z",
+      "summary": "About 4,000 residents in the Sawla-Tuna-Kalba District of the Savannah Region are facing difficulties reaching health facilities and markets after the Kunfusi Bridge collapsed for the…",
       "categories": [
-        "Education",
-        "National",
-        "News",
-        "Top Story",
-        "GES",
-        "Teachers"
+        "Regional",
+        "Kunfusi",
+        "Sawla-Tuna-Kalba District"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/Ernest.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Inflation to average 11.3% in 2027 – Fitch Solutions",
-      "link": "https://www.myjoyonline.com/inflation-to-average-11-3-in-2027-fitch-solutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T19:56:27.000Z",
-      "summary": "This will be driven by fading exchange rate support, modest fiscal loosening and strong money supply growth, with broad money supply growth already exceeding nominal Gross Domestic Product…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "BoG",
-        "El Nino",
-        "Fitch Solutions",
-        "Infation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/download-20.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I didn’t campaign for NDC to come and do this nonsense – Kpebu on EOCO",
-      "link": "https://www.myjoyonline.com/i-didnt-campaign-for-ndc-to-come-and-do-this-nonsense-kpebu-on-eoco/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T19:55:06.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has expressed disappointment with the conduct of some National Democratic Congress (NDC) appointees, saying he did not vote for the party in the 2024…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "EOCO",
-        "Martin Kpebu",
-        "Nana Agyei Baffuor Awuah",
-        "NDC",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Screenshot-2025-12-06-at-9.39.38-AM-1024x637.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/BRI-6-1024x581.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {

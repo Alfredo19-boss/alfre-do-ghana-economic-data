@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-04T21:05:58.832Z",
-  "worldAt": "2026-10-04T21:05:58.830Z",
+  "updated": "2026-10-04T21:25:18.784Z",
+  "worldAt": "2026-10-04T21:25:18.782Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,15 +26,15 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 21 stories",
+    "World · BBC News: 22 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 32 stories",
@@ -1099,6 +1099,14 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-04T21:11:49.000Z",
+      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a59/live/bee37260-c036-11f1-a64c-550be9e3c66b.png"
+    },
+    {
       "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
       "link": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1135,11 +1143,11 @@ window.GDC_NEWS = {
       "summary": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro."
     },
     {
-      "title": "Polls close in Bosnia-Herzegovina's divisive election",
-      "link": "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
+      "title": "Brazil election: Early count puts Bolsonaro ahead of Lula",
+      "link": "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "published": "2026-10-04T19:15:00.000Z",
-      "summary": "Zeljka ​Cvijanovic, the Serb nationalist candidate backed by disqualified secessionist leader Milorad Dodik, took the lead for the Serb seat of the three-member presidency."
+      "published": "2026-10-04T20:00:00.000Z",
+      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. The early results show a trend favoring Bolsonaro."
     },
     {
       "title": "Imran Khan’s party launches march to Islamabad demanding his release",
@@ -1147,6 +1155,20 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-04T19:53:55.000Z",
       "summary": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad."
+    },
+    {
+      "title": "Polls close in Bosnia-Herzegovina's divisive election",
+      "link": "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-04T19:15:00.000Z",
+      "summary": "Zeljka ​Cvijanovic, the Serb nationalist candidate backed by disqualified secessionist leader Milorad Dodik, took the lead for the Serb seat of the three-member presidency."
+    },
+    {
+      "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T19:46:34.000Z",
+      "summary": "Balkan nation seeks EU membership, but divisions threaten that goal."
     },
     {
       "title": "A Profile of Brazil's Potential President",
@@ -1157,11 +1179,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d73b2380-c01d-11f1-8efa-13e372f41e70/w:1024/p:16x9/9e6d0d4bbdec1f8c7bb91b10df86b261d1bb19d0-1.jpg"
     },
     {
-      "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
+      "title": "France to shutter up to 500 schools as more student protests called",
+      "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T19:46:34.000Z",
-      "summary": "Balkan nation seeks EU membership, but divisions threaten that goal."
+      "published": "2026-10-04T19:41:04.000Z",
+      "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests."
     },
     {
       "title": "Indian police accused of sexually harassing journalists at protest",
@@ -1172,11 +1194,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fb/live/20fd0ca0-bffa-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "France to shutter up to 500 schools as more student protests called",
-      "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+      "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+      "link": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T19:41:04.000Z",
-      "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests."
+      "published": "2026-10-04T19:20:08.000Z",
+      "summary": "Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad."
     },
     {
       "title": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -1187,11 +1209,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg"
     },
     {
-      "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
-      "link": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
+      "title": "War on Iran: Is escalation more likely than a deal?",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T19:20:08.000Z",
-      "summary": "Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad."
+      "published": "2026-10-04T18:47:22.000Z",
+      "summary": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks."
     },
     {
       "title": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
@@ -1202,11 +1224,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ff70d622-c010-11f1-baeb-69fad0a7cb9f/w:1024/p:16x9/EN-20261004-170357-170917-CS.jpg"
     },
     {
-      "title": "War on Iran: Is escalation more likely than a deal?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+      "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T18:47:22.000Z",
-      "summary": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks."
+      "published": "2026-10-04T18:34:30.000Z",
+      "summary": "The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith."
     },
     {
       "title": "Evenepoel snatches photo-finish win to clinch European road cycling crown",
@@ -1217,11 +1239,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/aa4cbb02-c010-11f1-bae4-dd51fcab6130/w:1024/p:16x9/5e1c0e1e2f42a8525903e1a47bf34e70f02ce2f3.jpg"
     },
     {
-      "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
+      "title": "Police investigating Flydubai co-pilot’s Australia ties",
+      "link": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T18:34:30.000Z",
-      "summary": "The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith."
+      "published": "2026-10-04T17:53:34.000Z",
+      "summary": "Australian police and intelligence join the list of those probing the incident."
     },
     {
       "title": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
@@ -1232,11 +1254,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg"
     },
     {
-      "title": "Police investigating Flydubai co-pilot’s Australia ties",
-      "link": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+      "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+      "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T17:53:34.000Z",
-      "summary": "Australian police and intelligence join the list of those probing the incident."
+      "published": "2026-10-04T17:17:42.000Z",
+      "summary": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president."
     },
     {
       "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
@@ -1247,11 +1269,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-      "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+      "title": "Mass protests demanding poll chief resignation shake India for third day",
+      "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T17:17:42.000Z",
-      "summary": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president."
+      "published": "2026-10-04T16:55:03.000Z",
+      "summary": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi."
     },
     {
       "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
@@ -1262,11 +1284,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2Fc6%2Ff72a9ae744848961c0d4d90575a5%2Fap26277348834813.jpg"
     },
     {
-      "title": "Mass protests demanding poll chief resignation shake India for third day",
-      "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+      "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T16:55:03.000Z",
-      "summary": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi."
+      "published": "2026-10-04T16:38:45.000Z",
+      "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid"
     },
     {
       "title": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
@@ -1277,11 +1299,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fa89a1c8-bffe-11f1-b41d-578a4b968fd6/w:1024/p:16x9/EN-20261004-160659-160855-CS.jpg"
     },
     {
-      "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T16:38:45.000Z",
-      "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid"
+      "published": "2026-10-04T16:28:43.000Z",
+      "summary": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says."
     },
     {
       "title": "US Marine arrested over murder of woman in Okinawa, Japan",
@@ -1292,11 +1314,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg"
     },
     {
-      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-      "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+      "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T16:28:43.000Z",
-      "summary": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says."
+      "published": "2026-10-04T16:23:59.000Z",
+      "summary": "Sullivan’s goal beat fellow teenager Julian Hall's record for United States which was only set against Chile on Tuesday."
     },
     {
       "title": "Why I quit the movement shaping AI",
@@ -1307,11 +1329,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c3f74796-bffe-11f1-9791-578a4b968fd6/w:1024/p:16x9/EN-WB-TECH24-effective-altruism-confessional-1.png"
     },
     {
-      "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
-      "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
+      "title": "Three years of genocide in Gaza through one man’s camera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T16:23:59.000Z",
-      "summary": "Sullivan’s goal beat fellow teenager Julian Hall's record for United States which was only set against Chile on Tuesday."
+      "published": "2026-10-04T16:18:01.000Z",
+      "summary": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza."
     },
     {
       "title": "Watch: What we know about Russian strikes on Kyiv bridges",
@@ -1322,11 +1344,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Three years of genocide in Gaza through one man’s camera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T16:18:01.000Z",
-      "summary": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza."
+      "published": "2026-10-04T16:04:53.000Z",
+      "summary": "Jerusalem Daily: Israeli forces arrest school children during raid"
     },
     {
       "title": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
@@ -1337,11 +1359,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/29936e26-bf10-11f1-9557-dd51fcab6130/w:1024/p:16x9/AP26273599274856-1-1.jpg"
     },
     {
-      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+      "title": "Philippines arrests 244 suspects in online scam crackdown",
+      "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T16:04:53.000Z",
-      "summary": "Jerusalem Daily: Israeli forces arrest school children during raid"
+      "published": "2026-10-04T16:00:50.000Z",
+      "summary": "Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder."
     },
     {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
@@ -1352,11 +1374,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg"
     },
     {
-      "title": "Philippines arrests 244 suspects in online scam crackdown",
-      "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
+      "title": "LIVE: Portugal vs Norway – UEFA Nations League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-04T16:00:50.000Z",
-      "summary": "Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder."
+      "published": "2026-10-04T15:47:10.000Z",
+      "summary": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes."
     },
     {
       "title": "Eight countries including China join military exercises in Russia",
@@ -1366,34 +1388,11 @@ window.GDC_NEWS = {
       "summary": "Troops from eight countries including China have been participating in joint military exercises in Russia. The exercise concluded on Saturday after conducting coordinated ground and air…"
     },
     {
-      "title": "LIVE: Portugal vs Norway – UEFA Nations League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T15:47:10.000Z",
-      "summary": "Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes."
-    },
-    {
-      "title": "Brazil: Lula and Bolsonaro tied in polls",
-      "link": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-      "source": "France 24",
-      "published": "2026-10-04T13:19:54.000Z",
-      "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro…",
-      "image": "https://s.france24.com/media/display/148e8480-bff5-11f1-baa5-13e372f41e70/w:1024/p:16x9/EN-20261004-140634-141113-CS.jpg"
-    },
-    {
       "title": "Japan summons US envoy as marine arrested over Okinawa murder",
       "link": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-04T15:45:04.000Z",
       "summary": "Ambassador vows cooperation as Japan protests after a US marine’s arrest in connection to Okinawa murder case."
-    },
-    {
-      "title": "Lula de Silva: 80-year-old incumbent Brazilian president seeks 4th term",
-      "link": "https://www.france24.com/en/lula-de-silva-80-year-old-incumbent-brazilian-president-seeks-4th-term",
-      "source": "France 24",
-      "published": "2026-10-04T13:17:55.000Z",
-      "summary": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro…",
-      "image": "https://s.france24.com/media/display/7a972198-bff4-11f1-ad27-1ff0321dbbd3/w:1024/p:16x9/EN-20261004-140151-140634-CS.jpg"
     }
   ],
   "africa": [
