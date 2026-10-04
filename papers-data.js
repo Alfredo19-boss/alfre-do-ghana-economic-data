@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-03T22:52:33.022Z",
+  "updated": "2026-10-04T02:11:54.310Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,122 +25,115 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Happy 76th Birthday to the Daily Graphic!",
-      "link": "https://www.myjoyonline.com/happy-76th-birthday-to-the-daily-graphic-2/",
+      "title": "‘There is no competition’ – Justin Kodua confident of NPP General Secretary re-election",
+      "link": "https://www.myjoyonline.com/there-is-no-competition-justin-kodua-confident-of-npp-general-secretary-re-election/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T22:34:51.000Z",
-      "summary": "The 2nd of October should be celebrated as one of the really pivotal days in the history of the media in Ghana.",
+      "published": "2026-10-04T01:48:39.000Z",
+      "summary": "Incumbent General Secretary of the New Patriotic Party (NPP), Justin Frimpong Kodua, has expressed confidence in retaining his position, saying feedback from delegates across the country…",
       "categories": [
-        "National",
-        "Daily Graphic",
-        "Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-316.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam celebrates Prof. Alhassan Musah on appointment as KAAF University Vice-Chancellor",
-      "link": "https://www.myjoyonline.com/amin-adam-celebrates-prof-alhassan-musah-on-appointment-as-kaaf-university-vice-chancellor/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T22:27:00.000Z",
-      "summary": "Former Finance Minister and Member of Parliament for Karaga, Dr Mohammed Amin Adam, has congratulated Professor Alhassan Musah on his appointment as Vice-Chancellor of KAAF University.",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "KAAF",
-        "Prof. Alhassan Musah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/830573568_1681198523611741_3456632870279506981_n-1024x731.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama reaffirms commitment to Volta development at Asogli Te Za",
-      "link": "https://www.myjoyonline.com/mahama-reaffirms-commitment-to-volta-development-at-asogli-te-za/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T22:16:43.000Z",
-      "summary": "President John Dramani Mahama has reaffirmed his government’s commitment to the development of the Volta Region, citing youth employment, support for women entrepreneurs and regional…",
-      "categories": [
-        "News",
-        "Asogli Te Za",
-        "President Mahama",
-        "Volta Development"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ho-Politics-Asogli-Mahama-1jpeg-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia urges NPP aspirants to accept results, reunite party after elections",
-      "link": "https://www.myjoyonline.com/bawumia-urges-npp-aspirants-to-accept-results-reunite-party-after-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T22:10:38.000Z",
-      "summary": "Flagbearer of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has urged all aspirants contesting the party’s national executive positions to accept the election results and work…",
-      "categories": [
-        "HP News 3",
+        "HP News 2",
         "Politics",
-        "Dr Mahamudu Bawumia",
+        "Justin Frimpong Kodua",
         "NPP Delegates Conference"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-326.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/IMG_6324-636x424-1-e1759149401242.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Double fibre cut disrupts Telecel services, 72,754 subscribers affected",
-      "link": "https://www.myjoyonline.com/double-fibre-cut-disrupts-telecel-services-72754-subscribers-affected/",
+      "title": "J100 Accra Doubles Champions : Kolesolva/ Ndukwa, Agarwal/Patel seal title victories",
+      "link": "https://www.myjoyonline.com/j100-accra-doubles-champions-kolesolva-ndukwa-agarwal-patel-seal-title-victories/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T21:55:00.000Z",
-      "summary": "Minister for Communications, Digital Technology and Innovation, Samuel Nartey George, says a double fibre cut along the Accra–Winneba and Winneba–Cape Coast routes has disrupted Telecel…",
+      "published": "2026-10-04T01:46:45.000Z",
+      "summary": "Milana Kolesova and Alisha Ndukwu won the girls’ doubles title at the ITF World Tennis Tour Juniors J100 Accra with a commanding final against Kuzivaishe Chapepa and Kudzai Erin Patience…",
       "categories": [
-        "National",
-        "Double fibre",
-        "Sam George",
-        "Telecel"
+        "Tennis",
+        "J100 Accra Doubles Champions"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-325.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3a9aa8ce-6610-49b8-b224-c5e185d9c476-963x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bawumia demands probe into financiers behind Ghana-linked cocaine shipments",
-      "link": "https://www.myjoyonline.com/bawumia-demands-probe-into-financiers-behind-ghana-linked-cocaine-shipments/",
+      "title": "Sydney Wright crowned J100 Accra Champion",
+      "link": "https://www.myjoyonline.com/sydney-wright-crowned-j100-accra-champion/",
       "source": "MyJoyOnline",
-      "published": "2026-10-03T21:51:54.000Z",
-      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has called for investigations into the individuals and entities financing cocaine shipments linked to Ghana.",
+      "published": "2026-10-04T01:42:18.000Z",
+      "summary": "Wright booked her spot in the title decider by defeating second seed Milana Kolesova of Russia 6-3, 6-0 in a dominant straight-sets performance",
       "categories": [
+        "Tennis",
+        "ITF J100 Accra"
+      ],
+      "image": null,
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "J100 Accra Boys’ Singles: Verma denies Beckles back-to-back titles to claim crown",
+      "link": "https://www.myjoyonline.com/j100-accra-boys-singles-verma-denies-beckles-back-to-back-titles-to-claim-crown/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T01:39:29.000Z",
+      "summary": "India’s sixth seed Om Verma produced a commanding performance to defeat David Beckles 6-3, 6-3 in the boys’ singles final at the ITF World Tennis Tour Juniors J100 Accra on Saturday, 3…",
+      "categories": [
+        "Tennis",
+        "J100 Accra Boys’ Singles"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3d6bff86-31dd-4a9e-97f6-1277aac91513-857x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Two friends fined GH¢12,000 for stealing",
+      "link": "https://www.myjoyonline.com/two-friends-fined-gh%c2%a212000-for-stealing/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T01:33:18.000Z",
+      "summary": "Two friends have been fined GHS 6,000.00 each by the Nkawie Circuit Court in the Atwima Nwabiagya South Municipality of the Ashanti Region for stealing at Bonteso in the Amansie West…",
+      "categories": [
+        "Crime",
+        "Nkawie Circuit Court",
+        "Stealing"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/a-wooden-judge-gavel-rests-on-a-matching-sound-block-isolated-on-a-white-background-suitable-for-legal-justice-court-or-law-related-content-and-educational-materials-photo.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Son jailed for threatening to stab mother",
+      "link": "https://www.myjoyonline.com/son-jailed-for-threatening-to-stab-mother/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T01:18:00.000Z",
+      "summary": "The Tarkwa Circuit Court has sentenced Joseph Quaye, a 26-year-old unemployed man, who threatened to stab his mother with a knife and a pair of scissors, to four years' imprisonment in hard…",
+      "categories": [
+        "Crime",
+        "Stabbing",
+        "Tarkwa Circuit Court"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-1786.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Drive constitutional reform – GJA urges journalists",
+      "link": "https://www.myjoyonline.com/drive-constitutional-reform-gja-urges-journalists/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T00:56:00.000Z",
+      "summary": "The Vice-President of the Ghana Journalists Association (GJA), Rebecca Ekpe, has urged colleague journalists to lead the charge in ensuring that Ghana's constitutional reform is owned by…",
+      "categories": [
+        "News",
+        "constitutional reform",
+        "GJA",
+        "Journalist"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/01/ghana-constitution-01-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP Delagates Congress: Confusion delays voting at Ashanti Region TESCON centre",
+      "link": "https://www.myjoyonline.com/npp-delagates-congress-confusion-delays-voting-at-ashanti-region-tescon-centre/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T00:01:33.000Z",
+      "summary": "Confusion broke out at the Ashanti Region TESCON polling area during the New Patriotic Party’s national delegates congress after some delegates struggled to locate their names on the…",
+      "categories": [
+        "HP News 1",
         "Politics",
-        "Delegates Conference",
-        "Dr Mahamadu Bawumia",
-        "NPP"
+        "Confusion",
+        "TESCON"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-306.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Spain beat Czech Republic to maintain winning run",
-      "link": "https://www.myjoyonline.com/spain-beat-czech-republic-to-maintain-winning-run/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T21:37:00.000Z",
-      "summary": "World champions Spain maintained their perfect start to their Nations League campaign with a victory over the Czech Republic in Oviedo.",
-      "categories": [
-        "Football",
-        "Lamine Yamal",
-        "Spain",
-        "Uefa Nations League"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-324.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ronaldo ‘greatest symbol’ of Portugal – Fernandes",
-      "link": "https://www.myjoyonline.com/ronaldo-greatest-symbol-of-portugal-fernandes/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-03T21:26:00.000Z",
-      "summary": "Portugal midfielder Bruno Fernandes said Cristiano Ronaldo remains the country's greatest footballing figure, despite leaving the squad this week after learning he would not start a match.",
-      "categories": [
-        "Football",
-        "Bruno Fernanades",
-        "Cristiano Ronaldo",
-        "Portugal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-323.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-333.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
