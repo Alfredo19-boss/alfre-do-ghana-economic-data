@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-04T08:27:05.573Z",
+  "updated": "2026-10-04T14:18:04.025Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,232 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Livestream: The Law examines lawful arrest in Ghana",
+      "link": "https://www.myjoyonline.com/livestream-the-law-examines-lawful-arrest-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T14:04:49.000Z",
+      "summary": "The legal procedures governing arrests and the rights of individuals who are arrested will come under discussion on this Sunday's edition of JoyNews' The Law.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "Ghana",
+        "lawful arrest",
+        "The Law"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-law-with-samson-lardy-anyeni.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Abanga Fuseini Yakubu declared NPP National Youth Organiser",
+      "link": "https://ghanaiantimes.com.gh/abanga-fuseini-yakubu-declared-npp-national-youth-organiser/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-04T13:48:16.000Z",
+      "summary": "Abanga Fuseini Yakubu has been declared the newly elected National Youth Organiser of the New Patriotic Party (NPP) after winning the position at the party’s National Delegates Conference…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "I’ll unite NPP for Bawumia’s 2028 victory- Titus Glover",
+      "link": "https://ghanaiantimes.com.gh/ill-unite-npp-for-bawumias-2028-victory-titus-glover/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-04T13:44:56.000Z",
+      "summary": "Newly elected National Organiser of the New Patriotic Party (NPP), Daniel Nii Kwartei Titus Glover, has pledged to work to ensure peace, unity and respect within the party as it prepares…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dr Bawumia becomes new leader of New Patriotic Party ahead of 2028 elections",
+      "link": "https://ghanaiantimes.com.gh/dr-bawumia-becomes-new-leader-of-new-patriotic-party-ahead-of-2028-elections/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-04T13:40:44.000Z",
+      "summary": "Dr Bawumia becomes new leader of New Patriotic Party ahead of 2028 elections Dr Mahamudu Bawumia has become the new leader of the New Patriotic Party (NPP) after delegates approved a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mahama urges African governments to treat healthcare as an investment, not budget cost",
+      "link": "https://www.myjoyonline.com/mahama-urges-african-governments-to-treat-healthcare-as-an-investment-not-budget-cost/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T13:29:46.000Z",
+      "summary": "President John Mahama has called for a major rethink of healthcare financing in Africa, urging governments and investors to treat the sector as an economic investment rather than merely a…",
+      "categories": [
+        "Africa",
+        "National",
+        "News",
+        "African governments",
+        "budget cost",
+        "Healthcare",
+        "Investment",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/President-Mahama-1024x731.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia congratulates John Boadu and new NPP executives, pledges support ahead of 2028",
+      "link": "https://www.myjoyonline.com/bawumia-congratulates-john-boadu-and-new-npp-executives-pledges-support-ahead-of-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T13:28:23.000Z",
+      "summary": "The Leader and Presidential Candidate of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has congratulated the party’s newly elected National Executives following Saturday’s national…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Politics",
+        "2028",
+        "Bawumia",
+        "John Boadu",
+        "NPP Executives"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-11.25.58-853x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘No talent should be left out’ – Bawumia pledges inclusive NPP campaign for 2028",
+      "link": "https://www.myjoyonline.com/no-talent-should-be-left-out-bawumia-pledges-inclusive-npp-campaign-for-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T13:22:34.000Z",
+      "summary": "The Leader and Presidential Candidate of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has pledged to ensure that no talent within the party is left out of its campaign ahead of the…",
+      "categories": [
+        "National",
+        "Top Story",
+        "2028",
+        "Bawumia",
+        "NPP",
+        "NPP Campaign"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bawumia-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prof. Mike Oquaye recounts how he blocked Special Prosecutor’s attempt to arrest Bawku Central MP",
+      "link": "https://www.myjoyonline.com/prof-mike-oquaye-recounts-how-he-blocked-special-prosecutors-attempt-to-arrest-bawku-central-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T13:06:47.000Z",
+      "summary": "Former Speaker of Parliament, Prof. Aaron Mike Oquaye, has revealed how he intervened to stop the then Special Prosecutor from pursuing the arrest of Bawku Central MP, Mahama Ayariga…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "News",
+        "Bawku Central MP",
+        "Mahama Ayariga",
+        "Prof. Aaron Mike Oquaye",
+        "Special prosecutor"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/image-1157-e1773331483302-1024x897.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Make health sovereignty a priority for Africa – Mahama",
+      "link": "https://www.myjoyonline.com/make-health-sovereignty-a-priority-for-africa-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T12:55:10.000Z",
+      "summary": "President John Dramani Mahama has urged African leaders to make health sovereignty a priority for their country as part of a broader strategy for the continent to achieve health sovereignty.",
+      "categories": [
+        "National",
+        "News",
+        "Africans",
+        "Health Sovereignty",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mahama_egypt.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dorimon Naa, Wa West DCE lead massive clean-up exercise; threaten sanctions against recalcitrant residents",
+      "link": "https://www.myjoyonline.com/dorimon-naa-wa-west-dce-lead-massive-clean-up-exercise-threaten-sanctions-against-recalcitrant-residents/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T12:38:00.000Z",
+      "summary": "The Paramount Chief of the Dorimon Traditional Area, Naa Alhaji Seidu Tungbani Salinbile II, and the District Chief Executive for Wa West, Richard Wullo, have led residents in a major…",
+      "categories": [
+        "News",
+        "Regional",
+        "Dorimon Naa",
+        "Wa West DCE"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-09.03.54-1-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos from Adom FM Y2K Jam",
+      "link": "https://www.myjoyonline.com/photos-from-adom-fm-y2k-jam/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T12:35:28.000Z",
+      "summary": "Adom FM Y2K Jam turned back the clock as patrons gathered at the La Palm Dome for an evening filled with music, dancing and nostalgia from the year 2000 and beyond. The event was marked by…",
+      "categories": [
+        "Events",
+        "In Focus",
+        "Music",
+        "Adom FM Y2K",
+        "Jam",
+        "La Palm",
+        "Praye"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_1297.jpg-1-1536x1024-1-1-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "'Political victory is never an entitlement' - Newly elected NPP National Chairman John Boadu pledges to lead with humility",
+      "link": "https://www.graphic.com.gh/news/politics/political-victory-is-never-an-entitlement-newly-elected-npp-national-chairman-john-boadu-pledges-to-lead-with-humility.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T11:25:53.000Z",
+      "summary": "The newly elected National Chairman of the New Patriotic Party (NPP), John Boadu has said \"political victory is never an entitlement.\"",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/JB_win.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Fred Pappoe, Tony Baffoe, Stephen Appiah, Chibsah and Dzakpasu lead search for new Black Stars coach",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gfa-sports-ministry-set-up-committee-to-find-new-black-stars-coach-deadline-set-for-october-9.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-04T11:15:23.000Z",
+      "summary": "A five-member committee has been tasked to find a new head coach for the senior national football team, the Black Stars. The committee has up to Friday, October 9, 2026, to submit its…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/coach.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Asogli 2026 Yam Festival (Te Za) rounded off with durbar",
+      "link": "https://www.graphic.com.gh/news/general-news/asogli-2026-yam-festival-te-za-rounded-off-with-durbar.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T09:05:17.000Z",
+      "summary": "The chiefs, queens and people of Asogli on Saturday rounded off their 2026 Te Za (yam festival) with a grand durbar at the Ho Jubilee Park.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/c1f65019-e101-4e5e-a5b3-68bfa35ed14b.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hawa Koomson elected NPP National Women’s Organiser",
+      "link": "https://ghanaiantimes.com.gh/hawa-koomson-elected-npp-national-womens-organiser/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-04T08:28:10.000Z",
+      "summary": "Former Awutu Senya East Member of Parliament, Mavis Hawa Koomson, has been elected the National Women’s Organiser of the New Patriotic Party (NPP). She secured 738 votes to defeat her main…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/1000596206.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "John Boadu elected NPP National Chairman",
       "link": "https://ghanaiantimes.com.gh/john-boadu-elected-npp-national-chairman/",
       "source": "Ghanaian Times",
@@ -38,136 +264,11 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "From banking to party finances: Alfred Kwadwo Thompson elected NPP Treasurer",
-      "link": "https://www.myjoyonline.com/from-banking-to-party-finances-alfred-kwadwo-thompson-elected-npp-treasurer/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T08:20:31.000Z",
-      "summary": "Alfred Kwadwo Thompson has been elected National Treasurer of the New Patriotic Party (NPP) after securing 2,243 votes at the party’s National Delegates Conference in Kumasi.",
-      "categories": [
-        "News",
-        "Politics",
-        "Alfred Kwadwo Thompson",
-        "NIB",
-        "NPP National Treasurer"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-05.11.21-e1791099167672-1024x815.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "George Christian Papa Mends",
-      "link": "https://www.myjoyonline.com/george-christian-papa-mends/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T08:15:39.000Z",
-      "summary": "The Ahiekpor Family of Dzelukope, Keta; the Gaza and Tay Agbozo Families of Dzelukope, Keta; the Kwawukume Family of Anloga and Abroad; the Tamakloe and Allied Families Home and Abroad…",
-      "categories": [
-        "Obituary",
-        "George Christian Papa Mends"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-07.52.23-e1791101420889-1024x759.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ali Suraj elected NPP NASARA Coordinator",
-      "link": "https://www.myjoyonline.com/ali-suraj-elected-npp-nasara-coordinator/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T08:04:34.000Z",
-      "summary": "Ali Suraj has been elected the National NASARA Coordinator of the New Patriotic Party (NPP).",
-      "categories": [
-        "News",
-        "Politics",
-        "Ali Suraj",
-        "NPP Nasara Coordinator"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/02/Alhaji-Ali-Suraj.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mustapha Hamid misses out on NPP Vice Chairmanship by 31 votes despite early poll lead",
-      "link": "https://www.myjoyonline.com/mustapha-hamid-misses-out-on-npp-vice-chairmanship-by-31-votes-despite-early-poll-lead/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T07:55:44.000Z",
-      "summary": "Former National Petroleum Authority (NPA) Chief Executive, Dr Mustapha Abdul-Hamid, has missed out on the New Patriotic Party’s (NPP) Vice Chairmanship, finishing fourth in a closely…",
-      "categories": [
-        "Politics",
-        "Mustapha Hamid",
-        "NPA CEO",
-        "NPP elections",
-        "NPP Vice Chairmanship"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-9.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kojo Bamba, Henry Nana Boakye and Nana Akomea elected NPP Vice Chairmen",
-      "link": "https://www.myjoyonline.com/kojo-bamba-henry-nana-boakye-and-nana-akomea-elected-npp-vice-chairmen/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T07:09:21.000Z",
-      "summary": "Kwadwo Fosu Boadu has been elected as the First National Vice Chairman of the New Patriotic Party (NPP) with Henry Nana Boakye as his Second Vice Chairman and Nana Akomea as Third Vice…",
-      "categories": [
-        "HP News 3",
-        "News",
-        "Politics",
-        "Kwadwo Fosu Boadu",
-        "Nana Akomea",
-        "Nana Boakye",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/vice-chair-1-1024x632.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From Delta Force to NPP First Vice Chairman – Kojo Bamba’s political journey",
-      "link": "https://www.myjoyonline.com/from-delta-force-to-npp-first-vice-chairman-kojo-bambas-political-journey/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T07:04:26.000Z",
-      "summary": "Kwadwo Fosu Boadu, popularly known as Kojo Bamba, has been elected National First Vice Chairman of the New Patriotic Party (NPP), capping a political journey that began at the party's…",
-      "categories": [
-        "HP News 4",
-        "Politics",
-        "Delta Force",
-        "First vice chairman",
-        "Kojo Bamba",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2025-09-01-at-11.53.26-AM-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police restore calm at Larteh following Odwira festival disturbance",
-      "link": "https://www.myjoyonline.com/police-restore-calm-at-larteh-following-odwira-festival-disturbance/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T06:12:01.000Z",
-      "summary": "The Eastern Regional Police Command says calm has been restored at Larteh in the Eastern Region following disturbances during the Ahenase Odwira Festival celebration on Saturday, October 3…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Larteh",
-        "Odwira",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-989.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘All the camps will dissolve’ – Bawumia demands one NPP for 2028",
-      "link": "https://www.myjoyonline.com/all-the-camps-will-dissolve-bawumia-demands-one-npp-for-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T06:10:04.000Z",
-      "summary": "Former Vice President Dr Mahamudu Bawumia has called for unity within the New Patriotic Party (NPP) following the party’s national executive elections.",
-      "categories": [
-        "Politics",
-        "Dr Mahamudu Bawumia",
-        "NPP National Delegates Conference"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-4.23.18-PM-1024x529.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Mavis Hawa Koomson is the new National Women's Organiser of NPP",
       "link": "https://www.graphic.com.gh/news/politics/mavis-hawa-koomson-is-the-new-national-womens-organiser-of-npp.html",
       "source": "Daily Graphic",
       "published": "2026-10-04T04:53:49.000Z",
-      "summary": "Mavis Hawa Koomson has been elected as the new National Women's Organiser of New Patriotic Party (NPP). Mavis Hawa Yakubu emerged winner with 783 votes against Hajia Safia Mohammed's 429…",
+      "summary": "Mavis Hawa Koomson has been elected as the new National Women's Organiser of New Patriotic Party (NPP). Mavis Hawa Koomson emerged winner with 783 votes against Hajia Safia Mohammed's 429…",
       "categories": [
         "Politics"
       ],
@@ -232,30 +333,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/04/IMG_5418.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Health sovereignty a priority for 1.4 billion Africans - President Mahama declares",
-      "link": "https://www.graphic.com.gh/news/general-news/health-sovereignty-a-priority-for-1-4-billion-africans-president-mahama-declares.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T18:42:55.000Z",
-      "summary": "President John Dramani Mahama has urged African leaders to make health sovereignty a priority for their country as part of broader strategy for the continent to achieve health sovereignty.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/mahama_egypt.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama in Egypt for AU Mid-Year Summit",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-in-egypt-for-au-mid-year-summit.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-03T17:57:13.000Z",
-      "summary": "President John Dramani Mahama is in the Alamein city of Egypt, to participate in the Eighth African Union (AU) Mid-Year Coordination Summit, which opens Saturday .",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/04/egypt.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -358,45 +435,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Govt launches ‘ECOWAS for All’ campaign to bridge gap between regional policies and citizens",
-      "link": "https://ghanaiantimes.com.gh/govt-launches-ecowas-for-all-campaign-to-bridge-gap-between-regional-policies-and-citizens/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T17:09:45.000Z",
-      "summary": "The Ministry of Foreign Affairs has launched a national public sensitisation campaign dubbed “ECOWAS for All” to deepen citizens’ awareness and participation in regional integration…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "La Pleasure Beach demolition; MP says govt unaware",
-      "link": "https://ghanaiantimes.com.gh/la-pleasure-beach-demolition-mp-says-govt-unaware/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T17:07:54.000Z",
-      "summary": "Structures at La Pleasure Beach in Accra have been demolished in an exercise carried out under the supervision of National Security. Popular entertainment spots including Pera Beach and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NPP needs Afoko to break NDC In 2028 — Political Scientist",
-      "link": "https://ghanaiantimes.com.gh/npp-needs-afoko-to-break-ndc-in-2028-political-scientist/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T17:02:00.000Z",
-      "summary": "Political Scientist Dr. Kwasi Amakye-Boateng has argued that the New Patriotic Party (NPP) faces a tougher task ahead of the 2028 elections because of what he described as improvements in…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Abban eyes world title shot with Nettey challenge",
       "link": "https://www.graphic.com.gh/sports/sports-news/abban-eyes-world-title-shot-with-nettey-challenge.html",
       "source": "Graphic Sports",
@@ -419,30 +457,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/02/FREEZY.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "SWAG calls for GFA overhaul as Black Stars’ decline deepens",
-      "link": "https://www.graphic.com.gh/sports/sports-news/swag-calls-for-gfa-overhaul-as-black-stars-decline-deepens.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-02T12:19:00.000Z",
-      "summary": "The Sports Writers Association of Ghana (SWAG) has called for fundamental reforms in the management of Ghana’s national football teams following the Black Stars’ back-to-back defeats to…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/SWAG_PREZ.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Hearts eye comeback against Dreams FC",
-      "link": "https://ghanaiantimes.com.gh/hearts-eye-comeback-against-dreams-fc/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-02T09:28:05.000Z",
-      "summary": "It will be fireworks at the University of Ghana Sports Stadium on Sunday as Accra Hearts of Oak and Dreams FC lock horns in a Matchday 5 encounter of the Ghana Premier League. The Rainbow…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
