@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-05T00:03:28.378Z",
+  "updated": "2026-10-05T05:25:44.915Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,37 +25,126 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Mr President, Ghana was mentioned at the UN; why aren’t we talking about it?",
-      "link": "https://www.myjoyonline.com/mr-president-ghana-was-mentioned-at-the-un-why-arent-we-talking-about-it/",
+      "title": "Cryptocurrency regulation: BoG, SEC must collaborate closely to align risk assessments – IMF",
+      "link": "https://www.myjoyonline.com/cryptocurrency-regulation-bog-sec-must-collaborate-closely-to-align-risk-assessments-imf/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T22:55:34.000Z",
-      "summary": "There are moments when a statement made on the floor of the United Nations should stop a nation in its tracks. For me, that moment came when Ukrainian President Volodymyr Zelenskyy stood…",
+      "published": "2026-10-05T03:56:04.000Z",
+      "summary": "According to the Fund, this collaboration should not be limited to the risk-based supervision of dual-regulated entities but should cover all current and potential cross-sector risks…",
       "categories": [
-        "HP Opinion 1",
-        "National",
-        "Ghana",
-        "UN"
+        "Banking and Finance",
+        "Business",
+        "HP Business 4",
+        "BoG",
+        "cryptocurrency",
+        "IMF",
+        "SEC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-3-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/IMF-Logo.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Accra to convene Africa’s regulators and markets on tokenisation at AVAS 2026",
-      "link": "https://www.myjoyonline.com/accra-to-convene-africas-regulators-and-markets-on-tokenization-at-avas-2026/",
+      "title": "Congo’s Ebola outbreak has killed more than 4,000, government data shows",
+      "link": "https://www.myjoyonline.com/congos-ebola-outbreak-has-killed-more-than-4000-government-data-shows/",
       "source": "MyJoyOnline",
-      "published": "2026-10-04T22:52:54.000Z",
-      "summary": "Under the theme “Tokenisation: Africa’s Pathway Towards Building a Trusted, Inclusive and Innovative Virtual Asset Ecosystem,” AVAS 2026 is designed to deliver practical outcomes. A central…",
+      "published": "2026-10-05T03:45:00.000Z",
+      "summary": "The number of deaths in Democratic Republic ​of Congo's Ebola outbreak has surpassed 4,000, ‌government data showed on Friday, as the worst epidemic in the country's history resists…",
       "categories": [
-        "Business",
-        "HP Business 5",
-        "Investments",
-        "AVAS",
-        "Dr. James Klutse Avedzi",
-        "GSE",
-        "Sabah Zita Benson",
-        "SEC"
+        "Africa",
+        "Congo",
+        "Ebola"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-01.28.47-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-2878-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "link": "https://www.myjoyonline.com/ethiopian-rebel-forces-withdraw-from-tigray-regional-capital/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T03:37:00.000Z",
+      "summary": "Rebel forces in Ethiopia's northern Tigray region have said they have temporarily withdrawn from the regional capital, Mekelle, as fighting with the national army moves towards the city.",
+      "categories": [
+        "Africa",
+        "Ethiopia",
+        "Tigray"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-405-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "All set for 7th Ghana Credit Excellence Awards 2026 on October 10",
+      "link": "https://www.myjoyonline.com/all-set-for-7th-ghana-credit-excellence-awards-2026-on-october-10/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T03:34:07.000Z",
+      "summary": "This year’s edition comes at an important time for the industry. Ghana’s banking sector has in recent years navigated a challenging macroeconomic environment characterised by inflationary…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "BoG",
+        "CICMG",
+        "GAB",
+        "GHASALC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/download-6.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Why pastors may not be seen – or heard – preaching on buses for much longer",
+      "link": "https://www.myjoyonline.com/why-pastors-may-not-be-seen-or-heard-preaching-on-buses-for-much-longer/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T03:26:00.000Z",
+      "summary": "Before the morning rush begins, the sound of praise and worship fills the Neoplan bus station in Ghana's capital, Accra, as a group of Christians gather to prepare to evangelise on buses…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Preaching on buses",
+        "Trotro"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-404.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil slips as Middle East crude exports rise, G7 to release stocks",
+      "link": "https://www.myjoyonline.com/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T03:15:00.000Z",
+      "summary": "Oil prices edged lower on Monday as rising ​Middle East crude exports and a release of oil stocks by the Group of Seven ‌nations boosted supplies, offsetting concerns about further damage…",
+      "categories": [
+        "HP News 10",
+        "International",
+        "Middle East",
+        "Oil",
+        "US-Iran war"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-3559-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "France to step up Ebola funding in Congo amid resurgence fears, minister says",
+      "link": "https://www.myjoyonline.com/france-to-step-up-ebola-funding-in-congo-amid-resurgence-fears-minister-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T03:04:00.000Z",
+      "summary": "France will step up its support for efforts to eradicate Ebola in eastern Democratic Republic of ​Congo, Foreign Minister Jean-Noel Barrot said on Saturday during ‌a visit to a region hit…",
+      "categories": [
+        "Africa",
+        "DR Congo",
+        "Ebola",
+        "France"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-324-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Djokovic beats Zverev to reach China Open semis",
+      "link": "https://www.myjoyonline.com/djokovic-beats-zverev-to-reach-china-open-semis/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T02:54:00.000Z",
+      "summary": "Novak Djokovic battled back from a set down to defeat top seed Alexander Zverev and book his place in the China Open semi-finals.",
+      "categories": [
+        "Tennis",
+        "China Open",
+        "Novak Djokovic"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/image-2482.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -69,115 +158,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/01/boook.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "The Paradox of Plenty — When every smartphone becomes a newsroom",
-      "link": "https://www.myjoyonline.com/the-paradox-of-plenty-when-every-smartphone-becomes-a-newsroom/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T22:19:37.000Z",
-      "summary": "The newsroom is no longer the only place where a story can begin. Today, a smartphone, a microphone and the courage to ask questions can put an injustice before the entire nation and…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "newsroom",
-        "Smartphone",
-        "Stephen Armah Quaye"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-2-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GTA sensitises taxi drivers in ‘Know Ghana’ tourism campaign",
-      "link": "https://www.myjoyonline.com/gta-sensitises-taxi-drivers-in-know-ghana-tourism-campaign/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T21:06:51.000Z",
-      "summary": "The Ghana Tourism Authority has begun sensitising taxi drivers to promote Ghana’s tourism attractions, culture and local experiences to visitors. The first exercise was done with the Osu…",
-      "categories": [
-        "HP Entertainment 2",
-        "National",
-        "Travel and Tourism",
-        "Ghana Tourism Authority",
-        "Taxi drivers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f54435ba-95d7-4a22-a6ec-d94ab215c2c2-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Archbishop Agyinasare calls for responsible speech amid growing social media abuse",
-      "link": "https://www.myjoyonline.com/archbishop-agyinasare-calls-for-responsible-speech-amid-growing-social-media-abuse/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T21:02:15.000Z",
-      "summary": "Archbishop Dr Charles Agyinasare, Founder and Leader of Perez Chapel International, has cautioned Ghanaians against normalising information disorder through the circulation of unverified…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Archbishop Agyinasare",
-        "responsible speech",
-        "Social Media"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/AGYINASARE-e1791147727997.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘It will be inexcusable for gov’t not to honour payment of teachers’ arrears by 30th October’ – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/it-will-be-inexcusable-for-govt-not-to-honour-payment-of-teachers-arrears-by-30th-october-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T20:53:48.000Z",
-      "summary": "Education Minister Haruna Iddrisu says the Ministry will pursue supplementary funding to facilitate payment of promoted teachers once the Ghana Education Service completes processing their…",
-      "categories": [
-        "Education",
-        "HP News 6",
-        "National",
-        "Government",
-        "payment",
-        "Teachers strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-4.28.21-AM-1024x612.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘It will be inexcusable for gov’t not to honour payment of teachers’ arrears’ – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/it-will-be-inexcusable-for-govt-not-to-honour-payment-of-teachers-arrears-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T20:53:48.000Z",
-      "summary": "Education Minister Haruna Iddrisu says the Ministry will pursue supplementary funding to facilitate payment of promoted teachers once the Ghana Education Service completes processing their…",
-      "categories": [
-        "Education",
-        "National",
-        "Government",
-        "payment",
-        "Teachers strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-4.28.21-AM-1024x612.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Forbes’ World’s Best Employers 2026: No Ghanaian firm ranked among 900 companies",
-      "link": "https://www.myjoyonline.com/forbes-worlds-best-employers-2026-no-ghanaian-firm-ranked-among-900-companies/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T20:51:25.000Z",
-      "summary": "Most of the Africa-ranked firms were from South Africa, Nigeria and Egypt.",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "HP News 9",
-        "National",
-        "News",
-        "Absa",
-        "Access Bank",
-        "FNB",
-        "Forbes",
-        "GT Bank",
-        "MTN",
-        "Nigeria",
-        "Sanlam",
-        "Standard Bank"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "How Kojo 'Bamba' pulled a surprise and got elected as NPP 1st national vice chairman beating 12 other contestants",
