@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-04T21:25:35.097Z",
+  "updated": "2026-10-05T00:03:28.378Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,69 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mr President, Ghana was mentioned at the UN; why aren’t we talking about it?",
+      "link": "https://www.myjoyonline.com/mr-president-ghana-was-mentioned-at-the-un-why-arent-we-talking-about-it/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T22:55:34.000Z",
+      "summary": "There are moments when a statement made on the floor of the United Nations should stop a nation in its tracks. For me, that moment came when Ukrainian President Volodymyr Zelenskyy stood…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Ghana",
+        "UN"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-3-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accra to convene Africa’s regulators and markets on tokenisation at AVAS 2026",
+      "link": "https://www.myjoyonline.com/accra-to-convene-africas-regulators-and-markets-on-tokenization-at-avas-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T22:52:54.000Z",
+      "summary": "Under the theme “Tokenisation: Africa’s Pathway Towards Building a Trusted, Inclusive and Innovative Virtual Asset Ecosystem,” AVAS 2026 is designed to deliver practical outcomes. A central…",
+      "categories": [
+        "Business",
+        "HP Business 5",
+        "Investments",
+        "AVAS",
+        "Dr. James Klutse Avedzi",
+        "GSE",
+        "Sabah Zita Benson",
+        "SEC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-01.28.47-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dr Albert Antwi-Boasiako's book exhibited at UN Congress in Abu Dhabi",
+      "link": "https://www.graphic.com.gh/news/general-news/dr-albert-antwi-boasiakos-book-exhibited-at-un-congress-in-abu-dhabi.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-04T22:40:13.000Z",
+      "summary": "A book authored by Dr Albert Antwi-Boasiako, the former Director-General of Ghana's Cyber Security Authority, has been selected for exhibition at the 15th United Nations Congress on Crime…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/01/boook.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "The Paradox of Plenty — When every smartphone becomes a newsroom",
+      "link": "https://www.myjoyonline.com/the-paradox-of-plenty-when-every-smartphone-becomes-a-newsroom/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-04T22:19:37.000Z",
+      "summary": "The newsroom is no longer the only place where a story can begin. Today, a smartphone, a microphone and the courage to ask questions can put an injustice before the entire nation and…",
+      "categories": [
+        "HP Opinion 2",
+        "National",
+        "Opinion",
+        "newsroom",
+        "Smartphone",
+        "Stephen Armah Quaye"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-2-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GTA sensitises taxi drivers in ‘Know Ghana’ tourism campaign",
       "link": "https://www.myjoyonline.com/gta-sensitises-taxi-drivers-in-know-ghana-tourism-campaign/",
@@ -47,7 +110,7 @@ window.GDC_PAPERS = {
       "published": "2026-10-04T21:02:15.000Z",
       "summary": "Archbishop Dr Charles Agyinasare, Founder and Leader of Perez Chapel International, has cautioned Ghanaians against normalising information disorder through the circulation of unverified…",
       "categories": [
-        "HP News 3",
+        "HP News 1",
         "National",
         "News",
         "Archbishop Agyinasare",
@@ -100,6 +163,9 @@ window.GDC_PAPERS = {
         "Business",
         "Economy",
         "HP Business 2",
+        "HP News 9",
+        "National",
+        "News",
         "Absa",
         "Access Bank",
         "FNB",
@@ -111,53 +177,6 @@ window.GDC_PAPERS = {
         "Standard Bank"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Electronic processing of teachers’ data: ‘The decision is the Controller’s’ – GES boss",
-      "link": "https://www.myjoyonline.com/electronic-processing-of-teachers-data-the-decision-is-the-controllers-ges-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T20:47:33.000Z",
-      "summary": "Director-General of the Ghana Education Service (GES), Prof. Ernest Kofi Davis, says he would want the details of promoted teachers to be processed electronically, but the final decision…",
-      "categories": [
-        "Education",
-        "National",
-        "electronic processing",
-        "GES",
-        "reacher's data"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-386.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Teachers’ Strike: Haruna Iddrisu questions paper-based processing of promoted teachers’ data",
-      "link": "https://www.myjoyonline.com/teachers-strike-haruna-iddrisu-questions-paper-based-processing-of-promoted-teachers-data/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T20:34:56.000Z",
-      "summary": "Education Minister Haruna Iddrisu has questioned the continued use of paper forms to process the details of promoted teachers, calling for the adoption of an electronic system to make the…",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "National",
-        "data processing",
-        "paper-based",
-        "promoted teachers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-385.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Savannah Region: Kunfusi bridge collapses again, leaving nearly 4,000 residents cut off",
-      "link": "https://www.myjoyonline.com/savannah-region-kunfusi-bridge-collapses-again-leaving-nearly-4000-residents-cut-off/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-04T20:30:00.000Z",
-      "summary": "About 4,000 residents in the Sawla-Tuna-Kalba District of the Savannah Region are facing difficulties reaching health facilities and markets after the Kunfusi Bridge collapsed for the…",
-      "categories": [
-        "Regional",
-        "Kunfusi",
-        "Sawla-Tuna-Kalba District"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/BRI-6-1024x581.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -319,18 +338,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/04/justin.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Titus Glover elected National Organiser of NPP",
-      "link": "https://www.graphic.com.gh/news/politics/titus-glover-elected-national-organiser-of-npp.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-04T04:31:46.000Z",
-      "summary": "Daniel Titus Glover has been elected National Organiser of the New Patriotic Party (NPP).",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/04/titus.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
