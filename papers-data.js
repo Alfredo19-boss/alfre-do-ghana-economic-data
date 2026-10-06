@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-06T01:28:13.159Z",
+  "updated": "2026-10-06T07:54:27.549Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,20 +25,225 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "FTBLRLIFE targets Ghana in expansion of global grassroots football network",
-      "link": "https://www.myjoyonline.com/ftblrlife-targets-ghana-in-expansion-of-global-grassroots-football-network/",
+      "title": "Multimedia Group congratulates Fidelity Bank on 20 years of excellence and impact",
+      "link": "https://www.myjoyonline.com/multimedia-group-congratulates-fidelity-bank-on-20-years-of-excellence-and-impact/",
       "source": "MyJoyOnline",
-      "published": "2026-10-06T00:55:03.000Z",
-      "summary": "Global grassroots football platform FTBLRLIFE is targeting Ghana as part of its expansion into the African football market, with the company looking to connect the country's young players…",
+      "published": "2026-10-06T07:49:57.000Z",
+      "summary": "The Multimedia Group has congratulated Fidelity Bank Ghana on its 20th anniversary, describing the milestone as a testament to the bank’s growth, resilience, innovation and contribution to…",
       "categories": [
-        "Football",
-        "Sports",
-        "David Clark",
-        "FTBLRLIFE",
-        "Grassroots football",
-        "Joseph Ayinga-Walter"
+        "Business",
+        "Events",
+        "Excellence",
+        "Fidelity Bank",
+        "Impact",
+        "Multimedia Group"
       ],
-      "image": null,
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-4.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Payment of teachers’ arrears: Govt targets Oct 16 for first tranche",
+      "link": "https://ghanaiantimes.com.gh/payment-of-teachers-arrears-govt-targets-oct-16-for-first-tranche/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:47:28.000Z",
+      "summary": "THE government has set October 16, 2026, as the target date for the payment of the first tranche of salary arrears owed teachers who were promoted but have not received their corresponding…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Is 24-hour Market concept still part of 24-hour Economy?’ – Hassan Ayariga asks government",
+      "link": "https://www.myjoyonline.com/is-24-hour-market-concept-still-part-of-24-hour-economy-hassan-ayariga-asks-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T07:43:24.000Z",
+      "summary": "The Founder and Leader of the All People’s Congress (APC), Hassan Ayariga, has called on the government to clarify its policy direction following the apparent change in terminology from…",
+      "categories": [
+        "National",
+        "24 hour market",
+        "District Model Markets",
+        "Hassan Ayariga"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Today’s front pages: Tuesday, October 6, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-tuesday-october-6-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T07:40:14.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-557-778x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UFO calls for urgent action on teachers’ concerns",
+      "link": "https://ghanaiantimes.com.gh/ufo-calls-for-urgent-action-on-teachers-concerns/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:38:30.000Z",
+      "summary": "THE Universal Friendship Organisation (UFO), a civil society organisation, has called on the government to urgently address challenges affecting pre-tertiary teachers, saying their welfare…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Breast Society urges women to prioritise screening",
+      "link": "https://ghanaiantimes.com.gh/breast-society-urges-women-to-prioritise-screening/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:35:10.000Z",
+      "summary": "THE Breast Society of Ghana has urged women to prioritise breast screening and seek prompt medical attention when they notice symptoms, saying early detection and timely treatment could…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "VAG launches 2026 poppy appeal to raise funds for district offices",
+      "link": "https://ghanaiantimes.com.gh/vag-launches-2026-poppy-appeal-to-raise-funds-for-district-offices/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:28:44.000Z",
+      "summary": "The Veterans Administration, Ghana (VAG) has launched the 2026 Poppy Appeal, with a focus on raising funds to construct district offices across the country to improve access to services for…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bawumia urges NPP Ashanti region stakeholders to use experience to strengthen party ahead of 2028",
+      "link": "https://www.myjoyonline.com/bawumia-urges-npp-ashanti-region-stakeholders-to-use-experience-to-strengthen-party-ahead-of-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T07:27:43.000Z",
+      "summary": "NPP Flagbearer Dr Mahamudu Bawumia has urged key stakeholders of the party in the Ashanti Region to deploy their experience, expertise and political capital to strengthen the party’s…",
+      "categories": [
+        "National",
+        "Bawumia",
+        "Grassroots",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/836858090_924282073879256_4324621157866522580_n-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Francis Dabang wins GJA award",
+      "link": "https://ghanaiantimes.com.gh/francis-dabang-wins-gja-award/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:21:34.000Z",
+      "summary": "Francis Dabre Dabang of the New Times Corporation, publishers of The Ghanaian Times and The Spectator, has won the Business and Economics Reporting category at the 5th Upper East Regional…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Put Ghana first … NDC urges NPP",
+      "link": "https://ghanaiantimes.com.gh/put-ghana-first-ndc-urges-npp/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:18:44.000Z",
+      "summary": "The National Democratic Congress (NDC) has urged the newly elected leadership of the New Patriotic Party (NPP) to put the national interest ahead of partisan considerations and work towards…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Who’s in charge doesn’t really matter — John Boadu",
+      "link": "https://ghanaiantimes.com.gh/whos-in-charge-doesnt-really-matter-john-boadu/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:14:42.000Z",
+      "summary": "The Newly elected National Chairman of the New Patriotic Party (NPP), John Boadu, has said that all elected party executives are servants entrusted with the responsibility of serving and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "The Ada West District Assembly hands over development projects",
+      "link": "https://ghanaiantimes.com.gh/the-ada-west-district-assembly-hands-over-development-projects/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-06T07:12:01.000Z",
+      "summary": "The Ada West District Assembly has handed over a number of development projects to selected institutions as part of efforts to improve the lives of people in the districts. The projects…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Parliament questions proliferation of unapproved containers in East Legon",
+      "link": "https://www.myjoyonline.com/parliament-questions-proliferation-of-unapproved-containers-in-east-legon/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T06:02:00.000Z",
+      "summary": "Parliament’s Local Government and Rural Development Committee has challenged the Ayawaso West Municipal Assembly over the growing number of containers and temporary structures springing up…",
+      "categories": [
+        "National",
+        "containers",
+        "East Legon",
+        "Parliament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Queenstar-Maame-Pokuah-Sawyerr-e1791260379137-750x375-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Promotion arrears alone cannot end teachers’ strike — PRETAG",
+      "link": "https://www.myjoyonline.com/promotion-arrears-alone-cannot-end-teachers-strike-pretag/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T05:56:00.000Z",
+      "summary": "The Pre-Tertiary Teachers Association of Ghana (PRETAG) says the government’s commitment to clear outstanding promotion arrears will not, on its own, be enough to bring an end to the…",
+      "categories": [
+        "National",
+        "PRETAG",
+        "Promotion",
+        "Strike",
+        "Teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/strike_1540x1050-696x475-1-621x424-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ebi Bright alleges assault on driver in dispute with Tema Central MP",
+      "link": "https://www.myjoyonline.com/ebi-bright-alleges-assault-on-driver-in-dispute-with-tema-central-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T05:50:00.000Z",
+      "summary": "Tema Metropolitan Chief Executive Ebi Bright has alleged that a dispute with Tema Central Member of Parliament Charles Forson has escalated to the point where one of her drivers was…",
+      "categories": [
+        "National",
+        "Ebi Bright",
+        "Tema Central MP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ebi-Bright-.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GH¢35m Darkuman 24-hour market to be completed in 16 months — MCE",
+      "link": "https://www.myjoyonline.com/gh%c2%a235m-darkuman-24-hour-market-to-be-completed-in-16-months-mce/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T05:43:00.000Z",
+      "summary": "The Ablekuma North Municipal Assembly has begun construction of a GH¢35 million 24-hour market at Darkuman, with the facility expected to be completed within 16 months.",
+      "categories": [
+        "National",
+        "24-Hour Market",
+        "Darkuman"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot_20261005_171014_WhatsApp-1024x577.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -54,23 +259,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Former ‘American Idol’ contestant sentenced to life without parole for wife’s murder",
-      "link": "https://www.myjoyonline.com/former-american-idol-contestant-sentenced-to-life-without-parole-for-wifes-murder/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T23:34:08.000Z",
-      "summary": "An Ohio man who was found guilty of murdering his wife and staging the crime scene to make it seem as if an intruder had broken into their home and fatally shot the mother of two was…",
-      "categories": [
-        "International",
-        "News",
-        "American Idol",
-        "Caleb Flynn",
-        "Ohio",
-        "wife killer"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Two.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Yam Festival turns bloody at Nchiraa, 2 killed, 14 people including police officer injured",
       "link": "https://www.graphic.com.gh/news/general-news/yam-festival-turns-bloody-at-nchiraa-2-killed-14-people-including-police-officer-injured.html",
       "source": "Daily Graphic",
@@ -81,97 +269,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/05/nchiraa.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education Ministry commends Ghanaian teachers on World Teachers’ Day 2026",
-      "link": "https://www.myjoyonline.com/education-ministry-commends-ghanaian-teachers-on-world-teachers-day-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T23:12:35.000Z",
-      "summary": "The Ministry of Education has commended teachers across Ghana for their dedication, professionalism and sacrifices as the country joins the international community to celebrate World…",
-      "categories": [
-        "Education",
-        "National",
-        "Ministry of Education",
-        "Teachers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/image-932-768x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP can reconcile with aggrieved members who want to return – Nana Akomea",
-      "link": "https://www.myjoyonline.com/npp-can-reconcile-with-aggrieved-members-who-want-to-return-nana-akomea/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T23:00:30.000Z",
-      "summary": "Newly elected NPP Third Vice Chairperson, Nana Akomea, says the party is willing to reconcile with aggrieved members who are prepared to return and work with the party.",
-      "categories": [
-        "Politics",
-        "Nana Akomea",
-        "NPP reconciliation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-4.33.54-am-1024x707.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tamale Child Deaths: Vehicle owner arrested as IGP deploys homicide team",
-      "link": "https://www.myjoyonline.com/tamale-child-deaths-vehicle-owner-arrested-as-igp-deploys-homicide-team/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T22:45:12.000Z",
-      "summary": "The owner of the vehicle in which the bodies of three children were found in Tamale has been arrested and transported to Accra to assist with police investigations.",
-      "categories": [
-        "HP News 10",
-        "Regional",
-        "IGP",
-        "Tamale Child Deaths"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-545-1024x566.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From ShattaFest to MoMo Fest: Entertainment takes centre stage in youth engagement",
-      "link": "https://www.myjoyonline.com/from-shattafest-to-momo-fest-entertainment-takes-centre-stage-in-youth-engagement/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T22:38:55.000Z",
-      "summary": "Entertainment is playing an increasingly important role in how brands, artistes and organisations connect with Ghana’s growing youth population. Recent experiences from ShattaFest and MoMo…",
-      "categories": [
-        "Arts and Culture",
-        "National",
-        "MoMo",
-        "MoMo Fest",
-        "MTN",
-        "ShattFest"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-5-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigerian military aircraft crashes, killing 32",
-      "link": "https://www.myjoyonline.com/nigerian-military-aircraft-crashes-killing-32/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T22:33:53.000Z",
-      "summary": "A Nigerian ​military plane flying from Benin City ‌to Lagos crashed on Monday in southwestern Ondo state, killing 25 passengers and seven crew ​members.",
-      "categories": [
-        "Africa",
-        "military aircraft crashes",
-        "Nigeria"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-543-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN encourages Ghanaians to use MoMo for saving, investing and financial planning",
-      "link": "https://www.myjoyonline.com/mtn-encourages-ghanaians-to-use-momo-for-saving-investing-and-financial-planning/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T22:33:47.000Z",
-      "summary": "MTN Ghana is encouraging customers to move beyond basic Mobile Money transactions and take advantage of the wider range of digital financial services available on the MoMo App. The…",
-      "categories": [
-        "Business",
-        "National",
-        "MoMo",
-        "MTN",
-        "MTN Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/2-7.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "AIT President calls for lifelong learning mindset in the AI age",
@@ -220,109 +317,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/05/UDS.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament clarifies “No Vacancy” notice for NSS Personnel",
-      "link": "https://ghanaiantimes.com.gh/parliament-clarifies-no-vacancy-notice-for-nss-personnel/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T17:05:27.000Z",
-      "summary": "Parliament has clarified public commentary on social media regarding a notice on its notice board that read “No Vacancy for National Service Personnel 2026/2027. Kindly go for reposting.”…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hopeson Adorye elected to Board of World Taxpayers Association",
-      "link": "https://ghanaiantimes.com.gh/hopeson-adorye-elected-to-board-of-world-taxpayers-association/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T17:03:07.000Z",
-      "summary": "Ghanaian public advocate Hopeson Yaovi Adorye has been elected to the Board of Directors of the World Taxpayers Association (WTA). The election took place on Sunday, October 5, 2026, during…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prof. Oquaye backs Kojo Bamba’s election, says NPP needs men to protect ballot",
-      "link": "https://ghanaiantimes.com.gh/prof-oquaye-backs-kojo-bambas-election-says-npp-needs-men-to-protect-ballot/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T17:01:15.000Z",
-      "summary": "Former Speaker of Parliament, Professor Mike Oquaye, has backed the election of former Delta Force leader Kojo Ofosu Boadu, affectionately called Kojo Bamba as the New Patriotic Party’s…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-15.06.22.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Former NPA boss Mustapha Abdul-Hamid accepts defeat in NPP vice chairmanship race",
-      "link": "https://ghanaiantimes.com.gh/former-npa-boss-mustapha-abdul-hamid-accepts-defeat-in-npp-vice-chairmanship-race/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T16:58:24.000Z",
-      "summary": "Former Chief Executive Officer of the National Petroleum Authority (NPA), Dr Mustapha Abdul-Hamid, has accepted defeat in his bid to become a National Vice Chairman of the New Patriotic…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GRA investigates alleged GH¢600 extortion by Customs officer at Accra airport",
-      "link": "https://ghanaiantimes.com.gh/gra-investigates-alleged-gh%c2%a2600-extortion-by-customs-officer-at-accra-airport/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T16:47:56.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has commenced investigations into an allegation that a Customs officer at the Accra International Airport collected GH¢600 from a TikToker without issuing…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDC congratulates NPP on successful election of national executives",
-      "link": "https://ghanaiantimes.com.gh/ndc-congratulates-npp-on-successful-election-of-national-executives/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T16:45:43.000Z",
-      "summary": "The National Democratic Congress (NDC) has congratulated the New Patriotic Party (NPP) on the successful election of its new national executives. In a statement signed by its General…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Adenta Kumi accepts defeat after devastating loss in the NPP national election",
-      "link": "https://ghanaiantimes.com.gh/adenta-kumi-accepts-defeat-after-devastating-loss-in-the-npp-national-election/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T16:44:23.000Z",
-      "summary": "Alfred Ababio Kumi, popularly known as Adenta Kumi, has accepted defeat in his bid to become the National Youth Organiser of the New Patriotic Party (NPP). Mr Kumi polled 25 votes in the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama urges Africans to turn health dependence into investment opportunity",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-urges-africans-to-turn-health-dependence-into-investment-opportunity/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T16:42:29.000Z",
-      "summary": "Ghana’s President, John Dramani Mahama has called on African governments, financial institutions and private investors to reposition healthcare as a high-growth economic sector capable of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Golden Shuttlers storm World Juniors after continental success",
