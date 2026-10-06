@@ -50,6 +50,7 @@
         <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
         <a href="#afrnews" data-view-link="afrnews">African news</a>
         <a href="#africa" data-view-link="africa">Africa inflation</a>
+        <a href="#exchange" data-view-link="exchange">Exchange</a>
         <a href="#markets" data-view-link="markets">Global markets</a>
         <a href="#world" data-view-link="world">Global news</a>
         <a href="#papers" data-view-link="papers">Today's papers</a>
@@ -480,22 +481,59 @@
       <div id="markets-body"></div>
       <p class="news-empty" id="markets-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
 
-      <div class="block" id="gse-block">
-        <div class="block-head">
-          <h2>The Ghana Stock Exchange</h2>
-          <p id="gse-intro">Every company listed in Accra, with its last traded price. The GSE Composite Index on the dashboard is the market as a whole; this is the market company by company. <span class="gse-when" id="gse-status">Waiting for the first run</span></p>
-        </div>
-        <div class="gse-top" id="gse-top"></div>
-        <div class="news-search gse-search">
-          <label for="gse-find" class="sr-only">Search companies</label>
-          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
-          <input id="gse-find" type="search" placeholder="Search: MTN, bank, oil…" autocomplete="off">
-        </div>
-        <div class="panel table-wrap"><table class="rank-table gse-table" id="gse-table"></table></div>
-        <p class="news-empty" id="gse-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
-        <p class="note" id="gse-note"></p>
-      </div>
       <p class="note" id="markets-note"></p>
+    </section>
+
+    <!-- Exchange: the cedi against the world -->
+    <section class="portal" id="exchange-view" aria-labelledby="h-exchange" hidden>
+      <div class="portal-head">
+        <div>
+          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
+          <h1 id="h-exchange">Exchange</h1>
+          <p class="news-intro">What the cedi is worth against the world, refreshed through the day. The Bank of Ghana's interbank rate is the official figure; the rest are mid-market rates — the midpoint between buying and selling, before any bank's margin.</p>
+        </div>
+        <span class="live"><i></i><span id="exchange-status">Waiting for the first run</span></span>
+      </div>
+
+      <div class="fx-official" id="fx-official"></div>
+
+      <div class="block">
+        <div class="block-head">
+          <h2>Convert</h2>
+          <p>Type an amount in either box.</p>
+        </div>
+        <div class="fx-convert" id="fx-convert">
+          <div class="fx-side">
+            <label for="fx-amount-ghs">Ghana cedis</label>
+            <div class="fx-field"><span class="fx-code">GH¢</span><input id="fx-amount-ghs" type="text" inputmode="decimal" value="100" autocomplete="off"></div>
+          </div>
+          <button type="button" class="fx-swap" id="fx-swap" aria-label="Swap the two currencies">⇄</button>
+          <div class="fx-side">
+            <label for="fx-amount-other">Other currency</label>
+            <div class="fx-field">
+              <select id="fx-currency" aria-label="Currency to convert to"></select>
+              <input id="fx-amount-other" type="text" inputmode="decimal" autocomplete="off">
+            </div>
+          </div>
+        </div>
+        <p class="fx-line" id="fx-line"></p>
+      </div>
+
+      <div class="block">
+        <div class="block-head">
+          <h2>Every rate</h2>
+          <p>What one unit costs in cedis, and what one cedi buys.</p>
+        </div>
+        <div class="news-search">
+          <label for="fx-find" class="sr-only">Search currencies</label>
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
+          <input id="fx-find" type="search" placeholder="Search: naira, euro, CFA…" autocomplete="off">
+        </div>
+        <div class="panel table-wrap"><table class="rank-table fx-table" id="fx-table"></table></div>
+      </div>
+
+      <p class="news-empty" id="exchange-empty" hidden>No rates yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
+      <p class="note" id="exchange-note"></p>
     </section>
 
     <!-- World news -->
@@ -641,6 +679,10 @@
       </div>
       <p class="fine"><span>Alfredo Ghana Economic Data is an independent public-education project. Not affiliated with the Government of Ghana or the Bank of Ghana.</span><span><span data-checked></span> · <span data-auto-status></span> · <a href="#status">System status</a></span></p>
     </footer>
+
+    <!-- Sits outside .foot on purpose: that block is hidden on every view but the dashboard,
+         and a copyright line belongs at the bottom of every page of the site. -->
+    <p class="copyright">© <span data-year>2026</span> Alfredo · Alfredo Ghana Economic Data</p>
   </div>
 
   <button type="button" class="alf-open" id="alf-open" aria-expanded="false" aria-controls="alfredo">
@@ -777,7 +819,7 @@
 
       <footer class="b-foot">
         <span>Estimates count forward from official Bank of Ghana and Ministry of Finance figures · <span data-checked></span></span>
-        <span class="b-foot-r" data-site></span>
+        <span class="b-foot-r">© <span data-year>2026</span> Alfredo <span data-site></span></span>
       </footer>
     </div>
   </div>

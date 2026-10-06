@@ -10,7 +10,7 @@
   const parseDay = iso => Date.parse(iso + "T00:00:00Z");
   const isoDayLabel = iso => { const d = new Date(parseDay(iso)); return `${d.getUTCDate()} ${MON[d.getUTCMonth()]} ${d.getUTCFullYear()}`; };
 
-  /* ================= debt readings â†’ model inputs ================= */
+  /* ================= debt readings → model inputs ================= */
   (function adaptDebt() {
     const R = D.debt.readings.slice().sort((a, b) => a.date.localeCompare(b.date));
     const last = R[R.length - 1];
@@ -41,7 +41,7 @@
     D.history = D.history.filter(h => !h.partial);
     const ld = new Date(parseDay(last.date));
     if (ld.getUTCMonth() !== 11) {
-      D.history.push({ k: `${MON[ld.getUTCMonth()]} â€™${String(ld.getUTCFullYear()).slice(2)}`, label: `End-${MON_LONG[ld.getUTCMonth()]} ${ld.getUTCFullYear()}`, debt: last.total, ratio: D.debt.ratioLatest, partial: true });
+      D.history.push({ k: `${MON[ld.getUTCMonth()]} ’${String(ld.getUTCFullYear()).slice(2)}`, label: `End-${MON_LONG[ld.getUTCMonth()]} ${ld.getUTCFullYear()}`, debt: last.total, ratio: D.debt.ratioLatest, partial: true });
     }
   })();
 
@@ -80,11 +80,11 @@
     it.autoSource = a.source;
     if (it.auto === "fx.usd" && cediBase) {
       const pct = (a.value / cediBase.rate - 1) * 100;
-      it.note = `${pct >= 0 ? "â–²" : "â–¼"} ${Math.abs(pct).toFixed(1)}% more cedis per dollar than at end-2025`;
+      it.note = `${pct >= 0 ? "▲" : "▼"} ${Math.abs(pct).toFixed(1)}% more cedis per dollar than at end-2025`;
       it.tone = pct >= 0 ? "bad" : "good";
-      if (pct < 0) it.note = `â–¼ ${Math.abs(pct).toFixed(1)}% fewer cedis per dollar than at end-2025`;
+      if (pct < 0) it.note = `▼ ${Math.abs(pct).toFixed(1)}% fewer cedis per dollar than at end-2025`;
     } else if (a.source) {
-      it.note = `${a.note ? a.note + " Â· " : ""}Updated automatically Â· ${a.source}`;
+      it.note = `${a.note ? a.note + " · " : ""}Updated automatically · ${a.source}`;
     }
   });
   ["usd", "gbp", "eur"].forEach(c => {
@@ -127,7 +127,7 @@
   let household = 4;
   try { const saved = parseInt(localStorage.getItem("gdc-household"), 10); if (saved >= 1 && saved <= 50) household = saved; } catch (e) {}
 
-  const sym = () => (usd ? "US$" : "GHÂ¢");
+  const sym = () => (usd ? "US$" : "GH¢");
   const money = v => (usd ? v / D.fx.usd : v);
   const fmt = (v, dec = 0) => v.toLocaleString("en-US", { minimumFractionDigits: dec, maximumFractionDigits: dec });
   const short = v => {
@@ -137,7 +137,7 @@
     if (a >= 1e6) return `${sym()}${fmt(m / 1e6, 1)}m`;
     return `${sym()}${fmt(m, 0)}`;
   };
-  const cedisShort = v => (v >= 1e12 ? `GHÂ¢${fmt(v / 1e12, v % 1e12 ? 2 : 0)} trillion` : `GHÂ¢${fmt(v / 1e9, v % 1e9 ? 1 : 0)}bn`);
+  const cedisShort = v => (v >= 1e12 ? `GH¢${fmt(v / 1e12, v % 1e12 ? 2 : 0)} trillion` : `GH¢${fmt(v / 1e9, v % 1e9 ? 1 : 0)}bn`);
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const dateFmt = t => new Date(t).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
   const pad = n => String(n).padStart(2, "0");
@@ -176,9 +176,9 @@
     <div class="lrow tappable${b.sub ? " sub" : ""}" data-detail="budget:${b.key}">
       <div class="lbl">
         <span class="name">${b.sub ? '<span class="of">of which</span>' : ""}${esc(b.label)}</span>
-        <span class="note">Full year <b data-short="${b.value}"></b> Â· ${esc(b.note)}</span>
+        <span class="note">Full year <b data-short="${b.value}"></b> · ${esc(b.note)}</span>
       </div>
-      <div class="val"><span class="cur" data-cur>GHÂ¢</span><span class="led ${b.cost ? "ember" : colour}" data-live="b-${b.key}"></span></div>
+      <div class="val"><span class="cur" data-cur>GH¢</span><span class="led ${b.cost ? "ember" : colour}" data-live="b-${b.key}"></span></div>
     </div>`;
   $("ledger-in").innerHTML = D.budget.in.map(b => ledgerRow(b, "leaf")).join("");
   $("ledger-out").innerHTML = D.budget.out.map(b => ledgerRow(b, "")).join("");
@@ -200,7 +200,7 @@
   const readValue = it => `${it.pre ? `<span class="p">${esc(it.unit)}</span>` : ""}${fmt(it.value, it.dec)}${it.pre ? "" : `<span class="u">${esc(it.unit)}</span>`}`;
   const toneNote = (note, tone) => {
     const safe = esc(note);
-    return tone ? safe.replace(/(^|Â· )([â–²â–¼])/g, `$1<span class="tone-${tone}">$2</span>`) : safe;
+    return tone ? safe.replace(/(^|· )([▲▼])/g, `$1<span class="tone-${tone}">$2</span>`) : safe;
   };
   const READS = new Map();
   const READ_IDS = new WeakMap();
@@ -226,8 +226,8 @@
             <div class="stat-top"><span class="k">${esc(it.label)}</span>${chipFor(it)}</div>
             <span class="mono"${it.live ? ` data-calc="${it.live}"` : ""}>${readValue(it)}</span>
             <span class="market-line" data-market="${esc(it.label)}" data-official="${esc(readValue(it).replace(/<[^>]+>/g, ""))}" data-officialdate="${esc(it.date || "")}" data-officialsrc="${esc(it.autoSource || "")}" hidden></span>
-            ${it.sourceNewer ? `<span class="source-newer">${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} <small>${esc(it.sourceNewer.source)} Â· ${esc(it.sourceNewer.date)}</small></span>` : ""}
-            <span class="note">${toneNote(it.note, it.tone)}${it.status || staleDays(it) ? ` Â· ${esc(it.date)}` : ""}</span>
+            ${it.sourceNewer ? `<span class="source-newer">${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} <small>${esc(it.sourceNewer.source)} · ${esc(it.sourceNewer.date)}</small></span>` : ""}
+            <span class="note">${toneNote(it.note, it.tone)}${it.status || staleDays(it) ? ` · ${esc(it.date)}` : ""}</span>
           </div>`).join("")}
       </div>
     </div>`;
@@ -241,7 +241,7 @@
     { label: "Real interest rate", value: policyRate - inflationNow, dec: 1, unit: "%", date: "Calculated", note: `Policy rate ${fmt(policyRate, 1)}% minus inflation ${fmt(inflationNow, 1)}%` },
     { label: "Interest vs tax revenue", value: interest / budget("tax") * 100, dec: 1, unit: "%", date: `${Y} budget`, note: "Share of tax income that goes on interest" },
     { label: "Gold share of exports", value: D.trade.goldExports / D.trade.totalExports * 100, dec: 1, unit: "%", date: D.trade.period, note: `US$${fmt(D.trade.goldExports, 1)}bn of US$${fmt(D.trade.totalExports, 1)}bn exported` },
-    { label: "Debt per person in dollars", value: debtAt(Date.now()) / popAt(Date.now()) / D.fx.usd, dec: 0, unit: "US$", pre: true, live: "percapUsd", date: "Estimate", note: `Converted at GHÂ¢${fmt(D.fx.usd, 2)} per US$` }
+    { label: "Debt per person in dollars", value: debtAt(Date.now()) / popAt(Date.now()) / D.fx.usd, dec: 0, unit: "US$", pre: true, live: "percapUsd", date: "Estimate", note: `Converted at GH¢${fmt(D.fx.usd, 2)} per US$` }
   ]};
   $("markets").innerHTML = [...D.markets, calcGroup].map(groupHtml).join("");
 
@@ -253,16 +253,16 @@
       <div class="stat-top"><span class="k">${esc(r.agency)}</span><span class="chip ${/positive/i.test(r.outlook) ? "good" : ""}">${esc(r.outlook)}</span></div>
       <div class="rating-row"><span class="rating-grade">${esc(r.rating)}</span><span class="rating-below"><b>${below}</b> notch${below === 1 ? "" : "es"} below<br>investment grade</span></div>
       <div class="ladder" aria-hidden="true">${r.scale.map((n, k) => `<span class="${k === idx ? "on" : k < idx ? "past" : ""}${k === r.scale.length - 1 ? " ig" : ""}">${esc(n)}</span>`).join("")}</div>
-      <span class="note">${esc(r.note)} Â· ${esc(r.date)}</span>
+      <span class="note">${esc(r.note)} · ${esc(r.date)}</span>
     </div>`;
   }).join("");
   $("cedi-note").textContent = D.cediNote;
 
-  const readHtml = it => `<div class="b-read tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-bread="${esc(it.label)}"><span class="b-label">${esc(it.label)}</span><span class="mono">${readValue(it)}</span><span class="date">${esc(it.date || "")}${staleDays(it) ? " Â· update due" : ""}</span></div>`;
+  const readHtml = it => `<div class="b-read tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-bread="${esc(it.label)}"><span class="b-label">${esc(it.label)}</span><span class="mono">${readValue(it)}</span><span class="date">${esc(it.date || "")}${staleDays(it) ? " · update due" : ""}</span></div>`;
   // Twelve readings to a panel. The ones marked board:true in data.js lead, in the order they
   // are written there; if fewer than twelve carry the mark, the next readings from the same
   // section fill the panel out rather than leaving it short. Nothing is invented to fill a
-  // gap â€” a reading with no value is skipped.
+  // gap — a reading with no value is skipped.
   const BOARD_PER_PAGE = 12;
   const boardPanel = list => {
     const on = list.filter(i => i.board);
@@ -279,19 +279,19 @@
   const shareDom = L.domestic / L.total * 100;
   $("split-dom").style.width = shareDom.toFixed(1) + "%";
   $("split-ext").style.width = (100 - shareDom).toFixed(1) + "%";
-  $("n-dom").innerHTML = `${fmt(shareDom, 1)}% of the total Â· <b data-short="${L.domestic}"></b> at ${esc(L.label)}`;
-  $("n-ext").innerHTML = `${fmt(100 - shareDom, 1)}% of the total Â· <b data-short="${L.external}"></b> at ${esc(L.label)}`;
+  $("n-dom").innerHTML = `${fmt(shareDom, 1)}% of the total · <b data-short="${L.domestic}"></b> at ${esc(L.label)}`;
+  $("n-ext").innerHTML = `${fmt(100 - shareDom, 1)}% of the total · <b data-short="${L.external}"></b> at ${esc(L.label)}`;
   $("n-ytd").innerHTML = `Added on top of <b data-short="${P.total}"></b> at ${esc(P.label)}`;
-  $("debt-method").textContent = `Counts forward from the Bank of Ghanaâ€™s ${L.label} figure at the pace debt grew between ${P.label} and ${L.label}.`;
+  $("debt-method").textContent = `Counts forward from the Bank of Ghana’s ${L.label} figure at the pace debt grew between ${P.label} and ${L.label}.`;
   const sf = D.debt.sinkingFund;
   $("sf-fill").style.width = Math.min(100, sf.value / sf.target * 100).toFixed(1) + "%";
-  $("mat-k").textContent = `Falling due ${D.debt.maturities.map(m => m.year).join(" Â· ")}`;
+  $("mat-k").textContent = `Falling due ${D.debt.maturities.map(m => m.year).join(" · ")}`;
   $$("[data-gauge-peak]").forEach(el => (el.style.left = D.debt.ratioPeak.value + "%"));
-  $$("[data-gauge-note]").forEach(el => (el.textContent = `Reported ${fmt(D.debt.ratioLatest, 1)}% at ${L.label} Â· tick shows ${fmt(D.debt.ratioPeak.value, 1)}% at ${D.debt.ratioPeak.label}`));
-  $("n-pop").textContent = `${fmt(D.population.base / 1e6, 1)} million projected for ${Y} Â· growing ${fmt(D.population.growth * 100, 1)}% a year`;
-  $("people-method").textContent = `Budget totals divided by the ${D.population.source}â€™s ${Y} projection of ${fmt(D.population.base / 1e6, 1)} million people.`;
-  $("compare-method").textContent = `Built from the figures on this page, the ${Y} budgetâ€™s programme allocations and the GHÂ¢${fmt(minWage, 2)} daily minimum wage.`;
-  $("m1").textContent = `Ghana publishes its debt monthly, two to three months late, so there is no official figure for this exact second. The site starts from the Bank of Ghanaâ€™s ${L.label} total of GHÂ¢${fmt(L.total / 1e9, 1)}bn and adds debt at the pace between ${P.label} and ${L.label}: GHÂ¢${fmt((L.total - P.total) / 1e9, 1)}bn over ${Math.round(span / DAY)} days, or about GHÂ¢${fmt(rate.total, 0)} a second.`;
+  $$("[data-gauge-note]").forEach(el => (el.textContent = `Reported ${fmt(D.debt.ratioLatest, 1)}% at ${L.label} · tick shows ${fmt(D.debt.ratioPeak.value, 1)}% at ${D.debt.ratioPeak.label}`));
+  $("n-pop").textContent = `${fmt(D.population.base / 1e6, 1)} million projected for ${Y} · growing ${fmt(D.population.growth * 100, 1)}% a year`;
+  $("people-method").textContent = `Budget totals divided by the ${D.population.source}’s ${Y} projection of ${fmt(D.population.base / 1e6, 1)} million people.`;
+  $("compare-method").textContent = `Built from the figures on this page, the ${Y} budget’s programme allocations and the GH¢${fmt(minWage, 2)} daily minimum wage.`;
+  $("m1").textContent = `Ghana publishes its debt monthly, two to three months late, so there is no official figure for this exact second. The site starts from the Bank of Ghana’s ${L.label} total of GH¢${fmt(L.total / 1e9, 1)}bn and adds debt at the pace between ${P.label} and ${L.label}: GH¢${fmt((L.total - P.total) / 1e9, 1)}bn over ${Math.round(span / DAY)} days, or about GH¢${fmt(rate.total, 0)} a second.`;
   $("sources").innerHTML = D.sources.map(([t, u]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a></li>`).join("");
   $$("[data-checked]").forEach(el => (el.textContent = `Figures last checked ${D.checked}`));
 
@@ -338,26 +338,26 @@
         + `<li><a href="#status">See what is arriving and what is late</a>.</li>`;
     }
     $$("[data-auto-status]").forEach(el => (el.textContent = A.updated
-      ? `Exchange rates and prices updated automatically Â· last run ${isoDayLabel(A.updated.slice(0, 10))}, ${clock12(Date.parse(A.updated), false).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()} GMT`
+      ? `Exchange rates and prices updated automatically · last run ${isoDayLabel(A.updated.slice(0, 10))}, ${clock12(Date.parse(A.updated), false).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()} GMT`
       : "Exchange rates and prices update automatically once the daily job is running"));
     if (Date.now() - parseDay(D.debt.latestIso) > (D.debt.staleAfterDays || 120) * DAY * SEC) {
       $$("[data-gauge-note]").forEach(el => el.classList.add("warn-text"));
     }
   })();
   $("data-table").innerHTML =
-    `<thead><tr><th>Period</th><th>Debt, GHÂ¢bn</th><th>Debt-to-GDP, %</th></tr></thead><tbody>` +
+    `<thead><tr><th>Period</th><th>Debt, GH¢bn</th><th>Debt-to-GDP, %</th></tr></thead><tbody>` +
     D.history.map(h => `<tr><td>${esc(h.label)}</td><td>${fmt(h.debt, 1)}</td><td>${fmt(h.ratio, 1)}</td></tr>`).join("") +
-    D.monthly.slice(1, -1).map(m => `<tr><td>${esc(m.label)} (month-end)</td><td>${fmt(m.debt, 1)}</td><td>â€“</td></tr>`).join("") +
+    D.monthly.slice(1, -1).map(m => `<tr><td>${esc(m.label)} (month-end)</td><td>${fmt(m.debt, 1)}</td><td>–</td></tr>`).join("") +
     `</tbody>`;
 
   // everyday comparisons
   const COMPARE = [
-    { big: t => [fmt(debtAt(t) / revenue, 1), "years"], text: `of <b>all government revenue</b>, with nothing else spent, would be needed to pay off the debt`, note: `Debt Ã· ${Y} revenue & grants of GHÂ¢${fmt(revenue / 1e9, 1)}bn` },
-    { big: t => [fmt(debtAt(t) / popAt(t) / minWage, 0), "days"], text: `of <b>minimum-wage work</b> to cover one Ghanaianâ€™s share of the debt`, note: `At GHÂ¢${fmt(minWage, 2)} a day from ${D.benchmarks.minWageDate}` },
-    { big: () => [fmt(interest / alloc("fshs").value, 1), "Ã—"], text: `the <b>Free SHS budget</b> goes on interest payments in ${Y}`, note: `Interest GHÂ¢${fmt(interest / 1e9, 1)}bn vs Free SHS GHÂ¢${fmt(alloc("fshs").value / 1e9, 1)}bn` },
-    { big: () => [fmt(alloc("feeding").value / (rate.total * DAY), 1), "days"], text: `of new borrowing adds up to a <b>full year of school feeding</b>`, note: `School Feeding Programme GHÂ¢${fmt(alloc("feeding").value / 1e9, 2)}bn` },
-    { big: () => [fmt(alloc("bigpush").value / (rate.total * DAY), 0), "days"], text: `of new borrowing equals the whole <b>Big Push</b> roads and infrastructure budget`, note: `Big Push GHÂ¢${fmt(alloc("bigpush").value / 1e9, 0)}bn in ${Y}` },
-    { big: () => [fmt(interest / (365 * DAY) / minWage, 0), "days"], text: `of <b>minimum-wage pay</b> is what interest on the debt costs every second`, note: `GHÂ¢${fmt(interest / (365 * DAY), 0)} of interest a second, on average` }
+    { big: t => [fmt(debtAt(t) / revenue, 1), "years"], text: `of <b>all government revenue</b>, with nothing else spent, would be needed to pay off the debt`, note: `Debt ÷ ${Y} revenue & grants of GH¢${fmt(revenue / 1e9, 1)}bn` },
+    { big: t => [fmt(debtAt(t) / popAt(t) / minWage, 0), "days"], text: `of <b>minimum-wage work</b> to cover one Ghanaian’s share of the debt`, note: `At GH¢${fmt(minWage, 2)} a day from ${D.benchmarks.minWageDate}` },
+    { big: () => [fmt(interest / alloc("fshs").value, 1), "×"], text: `the <b>Free SHS budget</b> goes on interest payments in ${Y}`, note: `Interest GH¢${fmt(interest / 1e9, 1)}bn vs Free SHS GH¢${fmt(alloc("fshs").value / 1e9, 1)}bn` },
+    { big: () => [fmt(alloc("feeding").value / (rate.total * DAY), 1), "days"], text: `of new borrowing adds up to a <b>full year of school feeding</b>`, note: `School Feeding Programme GH¢${fmt(alloc("feeding").value / 1e9, 2)}bn` },
+    { big: () => [fmt(alloc("bigpush").value / (rate.total * DAY), 0), "days"], text: `of new borrowing equals the whole <b>Big Push</b> roads and infrastructure budget`, note: `Big Push GH¢${fmt(alloc("bigpush").value / 1e9, 0)}bn in ${Y}` },
+    { big: () => [fmt(interest / (365 * DAY) / minWage, 0), "days"], text: `of <b>minimum-wage pay</b> is what interest on the debt costs every second`, note: `GH¢${fmt(interest / (365 * DAY), 0)} of interest a second, on average` }
   ];
   $("compare").innerHTML = COMPARE.map((c, i) => `
     <div class="cell cmp">
@@ -393,7 +393,7 @@
     const month = Math.floor((h + l - 7 * m + 114) / 31), day = ((h + l - 7 * m + 114) % 31) + 1;
     return Date.UTC(y, month - 1, day);
   }
-  function nthWeekdayAt(y, month, weekday, nth) { // weekday: 0 Sun â€¦ 6 Sat
+  function nthWeekdayAt(y, month, weekday, nth) { // weekday: 0 Sun … 6 Sat
     const first = new Date(Date.UTC(y, month - 1, 1));
     return Date.UTC(y, month - 1, 1 + ((weekday - first.getUTCDay() + 7) % 7) + (nth - 1) * 7);
   }
@@ -455,7 +455,7 @@
         ${e.entry.kind === "holiday" ? GH_FLAG.replace("gh-flag", "gh-flag band-flag") : ""}
         <span class="db-tag">Today</span>
         <b class="db-name">${esc(e.entry.name)}</b>
-        <span class="db-meta">${bits.map(esc).join(" Â· ")}</span>
+        <span class="db-meta">${bits.map(esc).join(" · ")}</span>
         <span class="db-blurb">${esc(e.entry.blurb || "")}</span>`;
       band.hidden = false;
     } else {
@@ -465,7 +465,7 @@
 
     $("cal-list").innerHTML = list.map(e => {
       const d = new Date(e.at), today_ = e.at === today;
-      const note = [anniversary(e), e.entry.approx ? "Expected date" : ""].filter(Boolean).join(" Â· ");
+      const note = [anniversary(e), e.entry.approx ? "Expected date" : ""].filter(Boolean).join(" · ");
       return `
       <li class="cell cal-item ${e.entry.kind}${today_ ? " is-today" : ""}">
         <span class="cal-date"><b>${d.getUTCDate()}</b><span>${MON[d.getUTCMonth()]}${d.getUTCFullYear() !== Y ? " " + d.getUTCFullYear() : ""}</span></span>
@@ -475,7 +475,7 @@
         </span>
         <span class="cal-right">
           <span class="cal-away">${awayWords(e.at, today)}</span>
-          <span class="note">${esc(WEEKDAY(e.at))}${note ? " Â· " + esc(note) : ""}</span>
+          <span class="note">${esc(WEEKDAY(e.at))}${note ? " · " + esc(note) : ""}</span>
         </span>
       </li>`;
     }).join("");
@@ -493,7 +493,7 @@
       const next = list.find(e => e.entry.kind !== "economic") || list[0];
       if (!next) { bd.hidden = true; return; }
       bd.className = `b-day next ${next.entry.kind}`;
-      bd.innerHTML = `<i>Next</i>${esc(next.entry.name)} <b>${esc(calDateFmt(next.at))} Â· ${esc(awayWords(next.at, today).toLowerCase())}</b>`;
+      bd.innerHTML = `<i>Next</i>${esc(next.entry.name)} <b>${esc(calDateFmt(next.at))} · ${esc(awayWords(next.at, today).toLowerCase())}</b>`;
       bd.hidden = false;
     }
   }
@@ -517,14 +517,14 @@
     const goldUsd = goldT * OZ_PER_TONNE * (readBy("Gold price").value ?? 0) / 1e9;
     return [
       { key: "trade:exports", what: "Exports", value: `US$${fmt(exports_, 1)}`, unit: "bn",
-        when: `Gold US$${fmt(D.trade.goldExports, 1)}bn of the total Â· ${D.trade.period}`,
-        short: `gold US$${fmt(D.trade.goldExports, 1)}bn Â· ${D.trade.period}` },
+        when: `Gold US$${fmt(D.trade.goldExports, 1)}bn of the total · ${D.trade.period}`,
+        short: `gold US$${fmt(D.trade.goldExports, 1)}bn · ${D.trade.period}` },
       { key: "trade:imports", what: "Imports", value: `US$${fmt(imports_, 1)}`, unit: "bn",
-        when: `Exports minus the US$${fmt(surplus, 1)}bn surplus Â· ${D.trade.period}`,
-        short: `US$${fmt(surplus, 1)}bn surplus Â· ${D.trade.period}` },
+        when: `Exports minus the US$${fmt(surplus, 1)}bn surplus · ${D.trade.period}`,
+        short: `US$${fmt(surplus, 1)}bn surplus · ${D.trade.period}` },
       { key: "trade:gold", what: "Gold reserves", value: fmt(goldT, 1), unit: "tonnes",
-        when: `About US$${fmt(goldUsd, 1)}bn at today's gold price Â· ${esc(readBy("BoG gold reserves").date || "")}`,
-        short: `about US$${fmt(goldUsd, 1)}bn Â· ${esc(readBy("BoG gold reserves").date || "")}` }
+        when: `About US$${fmt(goldUsd, 1)}bn at today's gold price · ${esc(readBy("BoG gold reserves").date || "")}`,
+        short: `about US$${fmt(goldUsd, 1)}bn · ${esc(readBy("BoG gold reserves").date || "")}` }
     ];
   }
 
@@ -596,7 +596,7 @@
 
       const hi = points.reduce((a, b) => (b.value > a.value ? b : a));
       const lo = points.reduce((a, b) => (b.value < a.value ? b : a));
-      lines.push(`Highest ${plainVal(hi.value, u)} in ${esc(hi.date)} Â· lowest ${plainVal(lo.value, u)} in ${esc(lo.date)}.`);
+      lines.push(`Highest ${plainVal(hi.value, u)} in ${esc(hi.date)} · lowest ${plainVal(lo.value, u)} in ${esc(lo.date)}.`);
 
       let ups = 0, downs = 0;
       for (let i = 1; i < points.length; i++) {
@@ -663,7 +663,7 @@
             const older = rows[i + 1];
             const diff = older ? p.value - older.value : null;
             const cls = diff == null ? "" : diff > 0 ? "up" : diff < 0 ? "down" : "flat";
-            const txt = diff == null ? "â€”" : `${diff > 0 ? "â–²" : diff < 0 ? "â–¼" : "â€¢"} ${plainVal(Math.abs(diff), u)}`;
+            const txt = diff == null ? "—" : `${diff > 0 ? "▲" : diff < 0 ? "▼" : "•"} ${plainVal(Math.abs(diff), u)}`;
             return `<tr><td>${esc(p.date)}</td><td class="v">${plainVal(p.value, u)}</td><td class="c ${cls}">${esc(txt)}</td></tr>`;
           }).join("")}</tbody>
         </table>
@@ -696,17 +696,17 @@
       const move = typeof c.prev === "number" ? c.latest.value - c.prev : null;
       const points = (c.series || []).map(p => ({ date: p.date, value: p.value }));
       return {
-        eyebrow: `African inflation Â· ${esc(c.region || "")}`,
+        eyebrow: `African inflation · ${esc(c.region || "")}`,
         title: c.name,
         body: `
           <div class="facts">
             ${factRow("Inflation", `${fmt(c.latest.value, 1)}<span class="u">%</span>`)}
             ${factRow("As of", esc(c.latest.period || ""))}
-            ${typeof c.prev === "number" ? factRow("Month before", `${fmt(c.prev, 1)}% Â· ${move > 0 ? "up" : move < 0 ? "down" : "unchanged"}${move ? ` ${fmt(Math.abs(move), 1)} pts` : ""}`) : ""}
-            ${factRow("Against Ghana", id === "GHA" ? "â€”" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts (Ghana ${fmt(gh.latest.value, 1)}%)`)}
+            ${typeof c.prev === "number" ? factRow("Month before", `${fmt(c.prev, 1)}% · ${move > 0 ? "up" : move < 0 ? "down" : "unchanged"}${move ? ` ${fmt(Math.abs(move), 1)} pts` : ""}`) : ""}
+            ${factRow("Against Ghana", id === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts (Ghana ${fmt(gh.latest.value, 1)}%)`)}
             ${factRow("Rank in Africa", `${ordinal(place)} highest of ${list.length}`)}
             ${c.gdp ? factRow("Size of the economy", `US$${fmt(c.gdp.value, c.gdp.value < 10 ? 1 : 0)}bn <span class="u">${esc(c.gdp.year)}</span>`) : ""}
-            ${c.gdp && A.countries.GHA && A.countries.GHA.gdp ? factRow("Against Ghana's economy", id === "GHA" ? "â€”" : `${fmt(c.gdp.value / A.countries.GHA.gdp.value, c.gdp.value / A.countries.GHA.gdp.value < 1 ? 2 : 1)}Ã—`) : ""}
+            ${c.gdp && A.countries.GHA && A.countries.GHA.gdp ? factRow("Against Ghana's economy", id === "GHA" ? "—" : `${fmt(c.gdp.value / A.countries.GHA.gdp.value, c.gdp.value / A.countries.GHA.gdp.value < 1 ? 2 : 1)}×`) : ""}
           </div>
           ${points.length > 2 ? sheetSection("Recent months, %", sheetChart(points, pc)) : ""}
           ${points.length > 1 ? sheetSection("Readings", sheetTable(points, pc)) : `<div class="sheet-empty"><b>One reading so far.</b><p>This board keeps every month it collects, so ${esc(c.name)} will build a run of readings from here.</p></div>`}
@@ -756,24 +756,24 @@
       const age = staleDays(it);
       const nowQ = liveFor(it.label);
       const facts = [
-        nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GHÂ¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(quoteWhen(nowQ))}</span>`) : "",
+        nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(quoteWhen(nowQ))}</span>`) : "",
         factRow(nowQ ? "Official reading" : "Latest reading", showVal(it.value, u)),
-        factRow("Period", esc(it.date || "â€”")),
-        it.sourceNewer ? factRow("A newer figure exists", `${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} Â· ${esc(it.sourceNewer.source)}, ${esc(it.sourceNewer.date)}`) : "",
+        factRow("Period", esc(it.date || "—")),
+        it.sourceNewer ? factRow("A newer figure exists", `${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} · ${esc(it.sourceNewer.source)}, ${esc(it.sourceNewer.date)}`) : "",
         it.autoSource ? factRow("Updated", "Automatically, every morning") : "",
-        age ? factRow("Age", `${age} days old Â· update due`) : ""
+        age ? factRow("Age", `${age} days old · update due`) : ""
       ].join("");
       return {
         eyebrow: "Indicator",
         title: it.label,
         body: `
           <div class="facts">${facts}</div>
-          ${it.sourceNewer ? `<p class="sheet-note">The figure above is the one Ghana's own statistics office last published. ${esc(it.sourceNewer.source)} has a newer estimate for ${esc(it.sourceNewer.date)} â€” it is measured differently, so it sits alongside rather than replacing it, until a person checks the official release.</p>` : ""}
-          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The daily reading is ${esc(it.autoSource || "the published rate")}, checked each morning and dated ${esc(it.date || "â€”")} â€” published rates are for the previous business day, so that date is normally a day or more behind today.${/bank of ghana/i.test(it.autoSource || "") ? "" : " The Bank of Ghana's own page did not yield a rate, so this is a market mid-rate standing in for it, not an official figure."} It is the figure the rest of this page counts with.</p>` : ""}
+          ${it.sourceNewer ? `<p class="sheet-note">The figure above is the one Ghana's own statistics office last published. ${esc(it.sourceNewer.source)} has a newer estimate for ${esc(it.sourceNewer.date)} — it is measured differently, so it sits alongside rather than replacing it, until a person checks the official release.</p>` : ""}
+          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The daily reading is ${esc(it.autoSource || "the published rate")}, checked each morning and dated ${esc(it.date || "—")} — published rates are for the previous business day, so that date is normally a day or more behind today.${/bank of ghana/i.test(it.autoSource || "") ? "" : " The Bank of Ghana's own page did not yield a rate, so this is a market mid-rate standing in for it, not an official figure."} It is the figure the rest of this page counts with.</p>` : ""}
           ${it.note ? `<p class="sheet-note">${toneNote(it.note, it.tone)}</p>` : ""}
           ${points.length > 1
             ? sheetSection("History", sheetChart(points, u) + sheetTable(points, u)) + sheetSection("Trend", trendHtml(analyse(points, u)))
-            : `<div class="sheet-empty"><b>No history recorded yet.</b><p>This figure has one published reading so far. Every time it is updated â€” automatically each morning for market prices, or through the update form for published figures â€” the old reading is kept here, so the chart and trend build up from now on.</p></div>`}
+            : `<div class="sheet-empty"><b>No history recorded yet.</b><p>This figure has one published reading so far. Every time it is updated — automatically each morning for market prices, or through the update form for published figures — the old reading is kept here, so the chart and trend build up from now on.</p></div>`}
           ${it.seriesSource ? `<p class="sheet-src">History from ${esc(it.seriesSource)}.</p>` : ""}
           ${longHistory(it.label) || `<p class="sheet-src">No annual run back to 1993 is published anywhere for this figure, so there is no long chart to show. Its history here builds from the readings this site records, one per release.</p>`}`
       };
@@ -787,7 +787,7 @@
       const f = yearFrac(t), soFar = b.value * f;
       const u = { unit: "", dec: 0, pre: false };
       return {
-        eyebrow: side === "in" ? `Money in Â· ${Y} budget` : `Money out Â· ${Y} budget`,
+        eyebrow: side === "in" ? `Money in · ${Y} budget` : `Money out · ${Y} budget`,
         title: b.label,
         body: `
           <div class="facts">
@@ -836,14 +836,14 @@
       if (id === "exports") {
         const rows = [gold, cocoa, oil].filter(x => x.value).map(x => ({ date: x.label, value: x.value }));
         return {
-          eyebrow: `Trade Â· ${esc(D.trade.period)}`,
+          eyebrow: `Trade · ${esc(D.trade.period)}`,
           title: "Exports",
           body: `
             <div class="facts">
               ${factRow("Total exports", `US$${fmt(ex, 1)}<span class="u">bn</span>`)}
-              ${factRow("Gold", `US$${fmt(D.trade.goldExports, 1)}bn Â· ${fmt(D.trade.goldExports / ex * 100, 0)}%`)}
-              ${cocoa.value ? factRow("Cocoa", `US$${fmt(cocoa.value, 1)}bn Â· ${fmt(cocoa.value / ex * 100, 0)}%`) : ""}
-              ${oil.value ? factRow("Crude oil", `US$${fmt(oil.value, 1)}bn Â· ${fmt(oil.value / ex * 100, 0)}%`) : ""}
+              ${factRow("Gold", `US$${fmt(D.trade.goldExports, 1)}bn · ${fmt(D.trade.goldExports / ex * 100, 0)}%`)}
+              ${cocoa.value ? factRow("Cocoa", `US$${fmt(cocoa.value, 1)}bn · ${fmt(cocoa.value / ex * 100, 0)}%`) : ""}
+              ${oil.value ? factRow("Crude oil", `US$${fmt(oil.value, 1)}bn · ${fmt(oil.value / ex * 100, 0)}%`) : ""}
               ${factRow("Trade balance", `US$${fmt(surplus, 1)}bn surplus`)}
             </div>
             ${sheetSection("What Ghana sold, US$bn", sheetTable(rows, usd))}
@@ -854,7 +854,7 @@
       }
       if (id === "imports") {
         return {
-          eyebrow: `Trade Â· ${esc(D.trade.period)}`,
+          eyebrow: `Trade · ${esc(D.trade.period)}`,
           title: "Imports",
           body: `
             <div class="facts">
@@ -864,9 +864,9 @@
               ${factRow("Exports cover imports", `${fmt(ex / im * 100, 0)}%`)}
               ${res.value ? factRow("Gross reserves", `US$${fmt(res.value, 1)}bn`) : ""}
             </div>
-            <div class="sheet-empty"><b>How this figure is worked out.</b><p>Ghana publishes exports and the trade balance more promptly than a headline import total, so this is exports minus the surplus: US$${fmt(ex, 1)}bn âˆ’ US$${fmt(surplus, 1)}bn = US$${fmt(im, 1)}bn for ${esc(D.trade.period)}. It counts goods, not services.</p></div>
+            <div class="sheet-empty"><b>How this figure is worked out.</b><p>Ghana publishes exports and the trade balance more promptly than a headline import total, so this is exports minus the surplus: US$${fmt(ex, 1)}bn − US$${fmt(surplus, 1)}bn = US$${fmt(im, 1)}bn for ${esc(D.trade.period)}. It counts goods, not services.</p></div>
             ${res.note ? `<p class="sheet-note">Reserves: ${toneNote(res.note, res.tone)}</p>` : ""}
-            <p class="sheet-src">A surplus means the country earned more from what it sold abroad than it spent on what it bought â€” the first stretch of surpluses in two decades, and the reason the cedi has held.</p>
+            <p class="sheet-src">A surplus means the country earned more from what it sold abroad than it spent on what it bought — the first stretch of surpluses in two decades, and the reason the cedi has held.</p>
             ${longHistory("imports")}
             ${longHistory("balance")}`
         };
@@ -882,7 +882,7 @@
               ${factRow("Held by the central bank", `${fmt(t_, 1)}<span class="u">tonnes</span>`)}
               ${factRow("Worth about", `US$${fmt(worth, 2)}bn`)}
               ${factRow("Gold price used", `US$${fmt(price.value || 0, 0)} an ounce`)}
-              ${factRow("As at", esc(bar.date || "â€”"))}
+              ${factRow("As at", esc(bar.date || "—"))}
               ${res.value ? factRow("Share of gross reserves", `${fmt(worth / res.value * 100, 0)}%`) : ""}
             </div>
             ${bar.note ? `<p class="sheet-note">${toneNote(bar.note, bar.tone)}</p>` : ""}
@@ -893,7 +893,7 @@
     }
 
     if (type === "debt") {
-      const bn = { unit: "GHÂ¢bn", dec: 1, pre: false };
+      const bn = { unit: "GH¢bn", dec: 1, pre: false };
       const pct = { unit: "%", dec: 1, pre: false };
       const paceSec = rate.total, paceDay = rate.total * DAY;
       const method = `Counts forward from the ${L.label} figure at the pace debt grew between ${P.label} and ${L.label}.`;
@@ -909,10 +909,10 @@
             <div class="facts">
               ${factRow("Live estimate now", `${sym()}${fmt(money(LIVE[id === "total" ? "debt" : id][0](t)), 0)}`)}
               ${factRow(`Latest official reading (${esc(L.label)})`, `${sym()}${fmt(money(L.total), 0)}`)}
-              ${factRow("Pace", `${sym()}${fmt(money(paceSec), 0)} a second Â· ${sym()}${fmt(money(paceDay) / 1e6, 1)}m a day`)}
+              ${factRow("Pace", `${sym()}${fmt(money(paceSec), 0)} a second · ${sym()}${fmt(money(paceDay) / 1e6, 1)}m a day`)}
               ${factRow("Debt-to-GDP", `${fmt(D.debt.ratioLatest, 1)}% at ${esc(L.label)}`)}
             </div>
-            ${sheetSection(isFlow ? "Borrowed each month, GHÂ¢bn" : "Official readings, GHÂ¢bn", (isFlow ? sheetChart(monthly, bn) + sheetTable(monthly, bn) : sheetChart(points, bn) + sheetTable(points, bn)))}
+            ${sheetSection(isFlow ? "Borrowed each month, GH¢bn" : "Official readings, GH¢bn", (isFlow ? sheetChart(monthly, bn) + sheetTable(monthly, bn) : sheetChart(points, bn) + sheetTable(points, bn)))}
             ${sheetSection("Trend", trendHtml(analyse(isFlow ? monthly : points, bn)))}
             <p class="sheet-src">${esc(method)}</p>`
         };
@@ -929,7 +929,7 @@
               ${factRow(`At ${esc(L.label)}`, `${sym()}${fmt(money(id === "domestic" ? L.domestic : L.external), 0)}`)}
               ${factRow("Share of total debt", `${fmt(share, 1)}%`)}
             </div>
-            ${sheetSection("Official readings, GHÂ¢bn", sheetChart(points, bn) + sheetTable(points, bn))}
+            ${sheetSection("Official readings, GH¢bn", sheetChart(points, bn) + sheetTable(points, bn))}
             ${sheetSection("Trend", trendHtml(analyse(points, bn)))}
             ${id === "external" ? `<p class="sheet-note">Most external debt is owed in foreign currency, so a weaker cedi raises this figure even without new borrowing.</p>` : ""}
             <p class="sheet-src">${esc(method)}</p>`
@@ -962,7 +962,7 @@
               ${factRow("Live estimate now", fmt(popAt(t), 0))}
               ${factRow(`${D.population.source} projection`, `${fmt(D.population.base / 1e6, 1)} million`)}
               ${factRow("Projection dated", esc(isoDayLabel(D.population.date.slice(0, 10))))}
-              ${factRow("Growing", `${fmt(growthPct, 1)}% a year Â· one more person every ${fmt(365.25 * DAY / (D.population.base * D.population.growth), 0)} seconds`)}
+              ${factRow("Growing", `${fmt(growthPct, 1)}% a year · one more person every ${fmt(365.25 * DAY / (D.population.base * D.population.growth), 0)} seconds`)}
               ${factRow("Debt per person now", `${sym()}${fmt(money(LIVE.percap[0](t)), 2)}`)}
             </div>
             <p class="sheet-note">Ghana counts its people in a census, not day by day. The counter carries the ${D.population.source}'s projection forward at the published growth rate, which is why the per-person figures on this page drift down slowly as it climbs.</p>
@@ -981,7 +981,7 @@
               ${factRow(`${Y} projection`, short(D.debt.nominalGdp))}
               ${factRow("Per second", `${sym()}${fmt(money(D.debt.nominalGdp / (365 * DAY)), 0)}`)}
             </div>
-            ${sheetSection("Nominal GDP, GHÂ¢bn", sheetChart(points, bn) + sheetTable(points, bn))}
+            ${sheetSection("Nominal GDP, GH¢bn", sheetChart(points, bn) + sheetTable(points, bn))}
             ${sheetSection("Trend", trendHtml(analyse(points, bn)))}
             <p class="sheet-src">Earlier years are worked back from each year-end debt stock and its debt-to-GDP ratio. The counter spreads the ${Y} projection evenly across the year.</p>
             ${longHistory("gdp")}`
@@ -1109,13 +1109,13 @@
     $$(".hero-strip [data-rate='sec']").forEach(el => (el.innerHTML = `<span class="p">${sym()}</span>${fmt(money(rate.total), 0)}`));
     $$("[data-rate='day']").forEach(el => (el.innerHTML = `<span class="p">${sym()}</span>${fmt(money(rate.total * DAY) / 1e6, 1)}<span class="u">million</span>`));
     $("sf-val").innerHTML = `${short(sf.value)} <span class="u">of ${short(sf.target)}</span>`;
-    $("mat-val").textContent = D.debt.maturities.map(m => short(m.value)).join(" Â· ");
+    $("mat-val").textContent = D.debt.maturities.map(m => short(m.value)).join(" · ");
     const pop = D.population.base;
     $("p-int").textContent = fmt(money(interest / pop), 2);
     $("p-exp").textContent = fmt(money(spending / pop), 2);
     $("n-exp").innerHTML = `Against <b>${sym()}${fmt(money(revenue / pop), 2)}</b> of revenue per person`;
     const growth = allItems.find(i => i.label === "Real GDP growth");
-    $("gdp-note").innerHTML = `Of â‰ˆ<b>${short(D.debt.nominalGdp)}</b> projected for ${Y}${growth ? ` Â· real growth <b>${fmt(growth.value, 1)}%</b> (${esc(growth.date)})` : ""}`;
+    $("gdp-note").innerHTML = `Of ≈<b>${short(D.debt.nominalGdp)}</b> projected for ${Y}${growth ? ` · real growth <b>${fmt(growth.value, 1)}%</b> (${esc(growth.date)})` : ""}`;
     $$("[data-budget-year]").forEach(el => (el.textContent = Y));
     renderTicker();
     paintHousehold();
@@ -1145,7 +1145,7 @@
 
     cmpEls.forEach(el => {
       const [n, unit] = COMPARE[+el.dataset.cmp].big(t);
-      const html = unit === "Ã—" ? `${n}Ã—` : `${n}<small>${unit}</small>`;
+      const html = unit === "×" ? `${n}×` : `${n}<small>${unit}</small>`;
       if (el.innerHTML !== html) el.innerHTML = html;
     });
 
@@ -1155,7 +1155,7 @@
       <li class="ms-goal">
         <span class="ms-what">Debt reaches <b>${cedisShort(m.v)}</b></span>
         <span class="ms-when">${isFinite(m.at) ? `Around ${dateFmt(m.at)}` : "Not at the current pace"}</span>
-        <span class="ms-count">${isFinite(m.at) ? countdown(m.at - t) : "â€“"}</span>
+        <span class="ms-count">${isFinite(m.at) ? countdown(m.at - t) : "–"}</span>
       </li>` + facts.map(f => `
       <li class="ms-fact tappable" data-detail="${f.key}">
         <span class="ms-what">${esc(f.what)}</span>
@@ -1166,7 +1166,7 @@
       <div>
         <span class="b-label">Debt reaches</span>
         <span class="b-what">${cedisShort(m.v)}</span>
-        <span class="b-count">${isFinite(m.at) ? countdown(m.at - t) : "â€“"}</span>
+        <span class="b-count">${isFinite(m.at) ? countdown(m.at - t) : "–"}</span>
         <span class="b-when">${isFinite(m.at) ? `around ${dateFmt(m.at)}` : "not at current pace"}</span>
       </div>` + facts.map(f => `
       <div class="b-fact tappable" data-detail="${f.key}">
@@ -1177,12 +1177,12 @@
     markTappable();
 
     const days = d / popAt(t) * household / minWage;
-    $$("[data-hh-days]").forEach(el => (el.innerHTML = `Thatâ€™s <b>${fmt(days, 0)} days</b> of minimum-wage work, about <b>${fmt(days / 260, 1)} working years</b>, for ${household === 1 ? "one person" : `${household} people`}`));
+    $$("[data-hh-days]").forEach(el => (el.innerHTML = `That’s <b>${fmt(days, 0)} days</b> of minimum-wage work, about <b>${fmt(days / 260, 1)} working years</b>, for ${household === 1 ? "one person" : `${household} people`}`));
 
-    const text = `Ghanaâ€™s public debt is about ${sym()}${fmt(money(d) / 1e9, 1)} billion and grows by roughly ${sym()}${fmt(money(rate.total), 0)} every second.`;
+    const text = `Ghana’s public debt is about ${sym()}${fmt(money(d) / 1e9, 1)} billion and grows by roughly ${sym()}${fmt(money(rate.total), 0)} every second.`;
     $$("[data-calc='percapUsd']").forEach(el => (el.innerHTML = `<span class="p">US$</span>${fmt(d / popAt(t) / D.fx.usd, 0)}`));
     currentShareText = text;
-    $$("[data-share-text]").forEach(el => (el.innerHTML = esc(text).replace(/(GHÂ¢|US\$)[\d.,]+( billion)?/g, "<b>$&</b>")));
+    $$("[data-share-text]").forEach(el => (el.innerHTML = esc(text).replace(/(GH¢|US\$)[\d.,]+( billion)?/g, "<b>$&</b>")));
     const url = shareUrl(), enc = encodeURIComponent;
     $("share-wa").href = `https://wa.me/?text=${enc(`${text} See it live on Alfredo Ghana Economic Data: ${url}`)}`;
     $("share-x").href = `https://twitter.com/intent/tweet?text=${enc(text)}&url=${enc(url)}`;
@@ -1290,7 +1290,7 @@
   document.addEventListener("keydown", e => { if (e.key === "Escape" && !board.hidden && sheetEl.hidden) closeBoard(); });
   document.addEventListener("fullscreenchange", () => { if (!board.hidden) scaleStage(); });
 
-  /* ================= green ticker: GHÂ¢ rates and GDP ================= */
+  /* ================= green ticker: GH¢ rates and GDP ================= */
   const FXT = A.fxTable || { rates: {}, prev: {} };
   const tickerTrack = $("ticker-track"), tickerBox = $("ticker");
   const tickerTracks = $$(".ticker-track");
@@ -1308,13 +1308,13 @@
   }
   // significant-figure formatting for small or large cross rates, e.g. 0.08730, 115.5, 2,109
   const sig = (v, digits = 4) => {
-    if (!isFinite(v) || v <= 0) return "â€“";
+    if (!isFinite(v) || v <= 0) return "–";
     const mag = Math.floor(Math.log10(v));
     const dec = Math.max(0, digits - 1 - mag);
     return fmt(v, Math.min(dec, 6));
   };
-  const SYMBOL = { USD: "US$", EUR: "â‚¬", GBP: "Â£", NGN: "â‚¦", ZAR: "R", CNY: "Â¥", JPY: "Â¥", XOF: "CFA ", XAF: "FCFA ", KES: "KSh ", EGP: "EÂ£", INR: "â‚¹" };
-  // Every pair is quoted against the cedi, both ways: 1 foreign unit in GHÂ¢, and what GHÂ¢1 buys.
+  const SYMBOL = { USD: "US$", EUR: "€", GBP: "£", NGN: "₦", ZAR: "R", CNY: "¥", JPY: "¥", XOF: "CFA ", XAF: "FCFA ", KES: "KSh ", EGP: "E£", INR: "₹" };
+  // Every pair is quoted against the cedi, both ways: 1 foreign unit in GH¢, and what GH¢1 buys.
   function tickerItem(c) {
     const x = rateFor(c.code);
     if (!x || !x.ghs) return "";
@@ -1324,21 +1324,21 @@
     let change = "";
     if (prev && prev.ghs) {
       const pct = (x.ghs / prev.ghs - 1) * 100;
-      if (Math.abs(pct) >= 0.005) change = `<i class="${pct > 0 ? "up" : "down"}" title="${pct > 0 ? "Cedi weaker" : "Cedi stronger"} than the previous day">${pct > 0 ? "â–²" : "â–¼"}${Math.abs(pct).toFixed(2)}%</i>`;
+      if (Math.abs(pct) >= 0.005) change = `<i class="${pct > 0 ? "up" : "down"}" title="${pct > 0 ? "Cedi weaker" : "Cedi stronger"} than the previous day">${pct > 0 ? "▲" : "▼"}${Math.abs(pct).toFixed(2)}%</i>`;
     }
-    return `<span class="t-item" title="${esc(c.name)} against the Ghana cedi"><span class="t-code">${esc(c.code)}/GHS</span><span class="t-name">${c.unit > 1 ? `${fmt(c.unit)} ` : "1 "}${esc(c.name)} =</span><b>GHÂ¢${sig(perUnits, 4)}</b><span class="t-rev">GHÂ¢1 = ${esc(SYMBOL[c.code] || "")}${sig(cediBuys, 4)}${SYMBOL[c.code] ? "" : " " + esc(c.code)}</span>${change}</span>`;
+    return `<span class="t-item" title="${esc(c.name)} against the Ghana cedi"><span class="t-code">${esc(c.code)}/GHS</span><span class="t-name">${c.unit > 1 ? `${fmt(c.unit)} ` : "1 "}${esc(c.name)} =</span><b>GH¢${sig(perUnits, 4)}</b><span class="t-rev">GH¢1 = ${esc(SYMBOL[c.code] || "")}${sig(cediBuys, 4)}${SYMBOL[c.code] ? "" : " " + esc(c.code)}</span>${change}</span>`;
   }
   function cediItem(code, label) {
     const x = rateFor(code);
     if (!x || !x.ghs) return "";
-    return `<span class="t-item"><span class="t-name">GHÂ¢1 in ${esc(label)}</span><b>${esc(SYMBOL[code] || "")}${sig(1 / x.ghs, 4)}${SYMBOL[code] ? "" : " " + esc(code)}</b></span>`;
+    return `<span class="t-item"><span class="t-name">GH¢1 in ${esc(label)}</span><b>${esc(SYMBOL[code] || "")}${sig(1 / x.ghs, 4)}${SYMBOL[code] ? "" : " " + esc(code)}</b></span>`;
   }
   // Market quotes taken through the day (live-data.js, every 20 minutes). The Bank of Ghana's
   // interbank rate stays the official figure; this is what the market is quoting right now.
   const liveData = () => window.GDC_LIVE || null;
   // An intraday quote stops being "now" after eight hours. A daily mid-market rate is stamped
   // midnight and is the rate for the whole of that day, so it is allowed two days before it
-  // counts as stale â€” otherwise the cedi would vanish from the page every afternoon.
+  // counts as stale — otherwise the cedi would vanish from the page every afternoon.
   const LIVE_MAX_AGE = 8 * 3600e3;
   const DAILY_MAX_AGE = 48 * 3600e3;
   function liveQuotes() {
@@ -1369,7 +1369,7 @@
     return { value: o.rates[key].value, date: o.date, source: o.source || "Bank of Ghana interbank mid-rate" };
   }
   // Both rates, one above the other, official on top. The Bank of Ghana's interbank rate is
-  // the figure in the big type â€” it is the rate the rest of the page counts with, and the one
+  // the figure in the big type — it is the rate the rest of the page counts with, and the one
   // people mean by "the rate". It carries BoG's own date, taken from the same row the number
   // came from, so the headline figure and its date can never drift apart. The market quote
   // sits under it with the minute it was taken, so the card never implies BoG publishes by
@@ -1386,7 +1386,7 @@
       // What the published reading says, and where it came from. BoG's live page wins when it
       // has one, because it is read every twenty minutes rather than once a morning.
       let off = el.dataset.official || "", when = el.dataset.officialdate || "", src = el.dataset.officialsrc || "";
-      if (bog) { off = `GHÂ¢${fmt(bog.value, 4)}`; when = dateFmt(`${bog.date}T00:00:00Z`); src = bog.source; }
+      if (bog) { off = `GH¢${fmt(bog.value, 4)}`; when = dateFmt(`${bog.date}T00:00:00Z`); src = bog.source; }
 
       // Name the daily figure for what it actually is. When the Bank of Ghana's own page has
       // not yielded a rate the site falls back to a market mid-rate, and saying "official"
@@ -1401,7 +1401,7 @@
       // only when there is a live quote to put on it, and stays silent otherwise.
       const officialLeads = !!bog;
 
-      // Gold has no Ghanaian official rate â€” there is one world price, and the site should show
+      // Gold has no Ghanaian official rate — there is one world price, and the site should show
       // one number for it. It was showing two: the live world quote in the big type and an older
       // published figure from a different source underneath, which read as a disagreement. The
       // world market price wins and the second figure goes; Global markets quotes the same
@@ -1415,14 +1415,14 @@
       }
 
       const dir = q && typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
-      const arrow = dir ? `<i class="t-arrow ${dir}">${dir === "up" ? "â–²" : "â–¼"}</i>` : "";
-      const shown = q ? (q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GHÂ¢${fmt(q.value, 4)}`) : "";
+      const arrow = dir ? `<i class="t-arrow ${dir}">${dir === "up" ? "▲" : "▼"}</i>` : "";
+      const shown = q ? (q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`) : "";
 
       if (officialLeads) {
         if (mono) mono.innerHTML = off;
         // The date chip in the corner is built from data.js when the page loads. BoG's page is
         // read every twenty minutes and is the figure now in the big type, so the chip has to
-        // carry BoG's date too â€” otherwise the card shows one number and two different days,
+        // carry BoG's date too — otherwise the card shows one number and two different days,
         // which is exactly the inconsistency this replaces. A fresh BoG reading also clears
         // any "update due" mark, because the reading is no longer old.
         if (cell) {
@@ -1430,8 +1430,8 @@
           const chip = cell.querySelector(".stat-top .date, .stat-top .chip");
           if (chip && when) { chip.className = "date auto"; chip.textContent = when; chip.removeAttribute("title"); }
         }
-        el.innerHTML = `<span class="at">${esc(kind)}${when ? ` Â· ${esc(when)}` : ""}</span>`
-          + (q ? `<span class="mkt"><b class="official">${shown}${arrow}</b><span>${esc(quoteKind(q))} Â· ${esc(quoteWhen(q))}</span></span>` : "");
+        el.innerHTML = `<span class="at">${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>`
+          + (q ? `<span class="mkt"><b class="official">${shown}${arrow}</b><span>${esc(quoteKind(q))} · ${esc(quoteWhen(q))}</span></span>` : "");
       } else {
         if (mono) mono.innerHTML = `${shown}${arrow}`;
         // the figure in the big type is today's world price, so the corner date says today
@@ -1440,22 +1440,22 @@
           const chip = cell.querySelector(".stat-top .date, .stat-top .chip");
           if (chip) { chip.className = "date auto"; chip.textContent = dateFmt(q.at); chip.removeAttribute("title"); }
         }
-        el.innerHTML = `<span class="at">${esc(quoteKind(q))} Â· ${esc(quoteWhen(q))}</span>`
-          + (off ? `<b class="official">${esc(off)}</b><span>${esc(kind)}${when ? ` Â· ${esc(when)}` : ""}</span>` : "");
+        el.innerHTML = `<span class="at">${esc(quoteKind(q))} · ${esc(quoteWhen(q))}</span>`
+          + (off ? `<b class="official">${esc(off)}</b><span>${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>` : "");
       }
       el.hidden = false;
     });
 
     // The board view carries the same three currencies in its own compact rows. They are built
     // from data.js, so without this they would keep showing the morning job's figure while the
-    // card beside them showed BoG's â€” the same number with two different days on it.
+    // card beside them showed BoG's — the same number with two different days on it.
     Object.keys(BOG_KEYS).forEach(label => {
       const bog = bogFor(label);
       if (!bog) return;
       $$(`[data-bread="${label.replace(/"/g, "")}"]`).forEach(row => {
         const mono = row.querySelector(".mono");
         const date = row.querySelector(".date");
-        if (mono) mono.innerHTML = `<span class="p">GHÂ¢</span>${fmt(bog.value, 4)}`;
+        if (mono) mono.innerHTML = `<span class="p">GH¢</span>${fmt(bog.value, 4)}`;
         if (date) date.textContent = dateFmt(`${bog.date}T00:00:00Z`);
         row.classList.remove("is-stale");
       });
@@ -1467,32 +1467,32 @@
     if (!qs.length) return "";
     const items = qs.map(q => {
       const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
-      const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GHÂ¢${fmt(q.value, 4)}`;
+      const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
       const name = q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`;
-      return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "â–²" : "â–¼"}</i>` : ""}</b><span class="t-rev">${esc(quoteWhen(q))}</span></span>`;
+      return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span class="t-rev">${esc(quoteWhen(q))}</span></span>`;
     }).join("");
-    return `<span class="t-group t-group-live">GHÂ¢ market rates</span>${items}`;
+    return `<span class="t-group t-group-live">GH¢ market rates</span>${items}`;
   }
 
   function renderTicker() {
     if (!tickerTrack || !D.fxTicker) return;
     const live = liveGroup();
     const cedi = [
-      `<span class="t-item t-cedi"><span class="t-code">GHS</span><span class="t-name">Ghana cedi</span><b>GHÂ¢1.00</b><span class="t-rev">base currency Â· 100 pesewas</span></span>`,
+      `<span class="t-item t-cedi"><span class="t-code">GHS</span><span class="t-name">Ghana cedi</span><b>GH¢1.00</b><span class="t-rev">base currency · 100 pesewas</span></span>`,
       cediItem("USD", "US dollars"), cediItem("EUR", "euros"), cediItem("GBP", "pounds"), cediItem("CNY", "yuan"),
       cediItem("NGN", "naira"), cediItem("XOF", "CFA francs"), cediItem("ZAR", "rand")
     ].join("");
-    // The strip used to run the cedi, then GDP, then every African currency, then the world â€”
+    // The strip used to run the cedi, then GDP, then every African currency, then the world —
     // a full lap took longer than anyone stands in front of a screen, so the one thing people
     // came for scrolled past once and did not come back. It now carries the cedi rates only,
     // each with the moment it was taken. GDP is on the dashboard, the currencies are in Global
     // markets, and the ticker is short enough to watch round.
     // Every rate here carries the moment it was taken. The cedi-per-unit items below follow
     // without a second heading, because they are the same rates read the other way round.
-    const copy = `<span class="ticker-copy">${live || `<span class="t-group t-group-cedi">GHÂ¢ market rates</span>`}${cedi}</span>`;
+    const copy = `<span class="ticker-copy">${live || `<span class="t-group t-group-cedi">GH¢ market rates</span>`}${cedi}</span>`;
     // The strip scrolls one copy while the next follows it. If a single copy is narrower than
     // the screen there would be a visible gap between them, so it is repeated until two laps
-    // comfortably cover the viewport â€” short content, no hole in the marquee.
+    // comfortably cover the viewport — short content, no hole in the marquee.
     const wide = tickerTrack ? tickerTrack.parentElement.clientWidth || 1200 : 1200;
     const probe = document.createElement("span");
     probe.style.cssText = "position:absolute;visibility:hidden;white-space:nowrap";
@@ -1517,12 +1517,12 @@
     const newest = list => list.length ? list.map(q => Date.parse(q.at)).sort((a, b) => b - a)[0] : null;
     $$("[data-fx-date]").forEach(el => {
       // The strip no longer carries the published currency table, so its date does not belong
-      // in the label any more â€” only the stamps of what is actually scrolling past.
+      // in the label any more — only the stamps of what is actually scrolling past.
       const parts = [];
       const nLive = newest(intraday), nMid = newest(midday);
       if (nMid) parts.push(dateFmt(new Date(nMid).toISOString()));
       if (nLive) parts.push(liveTime(new Date(nLive).toISOString()));
-      el.textContent = parts.join(" Â· ") || (FXT.date ? isoDayLabel(FXT.date) : "");
+      el.textContent = parts.join(" · ") || (FXT.date ? isoDayLabel(FXT.date) : "");
     });
     sizeTickers();
   }
@@ -1720,36 +1720,36 @@
   /* ---- a chart card: the picture, the numbers behind it, and a way to take both away ---- */
   let chartSeq = 0;
   /* ---- how to read each chart ------------------------------------------------
-   * Written for somebody meeting the chart for the first time â€” a student, or anyone who has
+   * Written for somebody meeting the chart for the first time — a student, or anyone who has
    * not spent years looking at economic series. Each one says what is actually plotted, how to
    * read the shape, and the one mistake that is easiest to make with it. Matched on the start
    * of the chart's title, because three of the titles carry a year in them.
    */
   const CHART_LEARN = [
-    ["Public debt this year", "The same debt as the bar chart further down, but month by month instead of year by year â€” so you can see what is happening now rather than how Ghana got here. Each point is an official Bank of Ghana reading. A month where the line dips is usually the cedi strengthening rather than debt being repaid: most external debt is owed in dollars, so its cedi value falls when the cedi rises."],
+    ["Public debt this year", "The same debt as the bar chart further down, but month by month instead of year by year — so you can see what is happening now rather than how Ghana got here. Each point is an official Bank of Ghana reading. A month where the line dips is usually the cedi strengthening rather than debt being repaid: most external debt is owed in dollars, so its cedi value falls when the cedi rises."],
     ["Debt-to-GDP this year", "The monthly debt divided by the size of the economy. Watch the slope rather than the level: a line climbing steadily means debt is growing faster than the economy can carry it, which is the thing that matters more than any single month's number."],
-    ["Inflation this year", "Each point is how much prices rose over the twelve months ending in that month. A falling line still means prices are rising â€” just more slowly than before. The jump and fall between months is normal; one month tells you very little, the direction over several tells you a lot."],
+    ["Inflation this year", "Each point is how much prices rose over the twelve months ending in that month. A falling line still means prices are rising — just more slowly than before. The jump and fall between months is normal; one month tells you very little, the direction over several tells you a lot."],
     ["The policy rate against inflation", "Two lines, same scale. The distance between them is the real interest rate. When the policy rate sits above inflation, the Bank is leaning against rising prices and saving beats inflation; when it sits below, money loses value in the bank. The gap closing or opening is the story here, not either line alone."],
     ["Treasury bills this year", "What the government pays to borrow, for three months and for a year. Normally the longer loan costs more, so the 364-day line sits above the 91-day. When they converge or cross, the market is saying something has changed about how risky the near term looks."],
-    ["The cedi against the dollar, daily", "How many cedis one dollar costs, each day the site has recorded. The line going <em>up</em> means the cedi getting <em>weaker</em> â€” the cedi is on the bottom of the fraction. The trail starts the day this site first ran, so it is short at first and lengthens over time; nothing is backfilled."],
+    ["The cedi against the dollar, daily", "How many cedis one dollar costs, each day the site has recorded. The line going <em>up</em> means the cedi getting <em>weaker</em> — the cedi is on the bottom of the fraction. The trail starts the day this site first ran, so it is short at first and lengthens over time; nothing is backfilled."],
     ["Public debt, GH", "Each bar is the total the government owed at the end of that year, in billions of cedis. Taller means more debt. Read the <em>gaps</em> between bars rather than their height: a jump from one year to the next is a year of heavy borrowing, and a bar that is only slightly taller is a quiet year. The last bar is the most recent month rather than a full year, so it is not yet comparable with the ones before it."],
-    ["Debt-to-GDP", "This is the debt divided by the size of the whole economy, as a percentage. It matters more than the raw debt because it asks whether the country can carry what it owes â€” GHÂ¢100bn is heavy for a small economy and light for a large one. The line can fall in two quite different ways: the country repays debt, or the economy grows faster than the debt does. Both look identical here."],
-    ["Debt per person", "The same total debt, divided by how many people lived in Ghana that year. Nobody is handed this bill â€” it is a way of putting a number too large to picture into one you can. Because the population keeps growing, this line rises more slowly than the debt itself."],
-    ["Inflation since 1993", "Inflation is how fast prices rose over a year, as a percentage. A falling line does not mean prices fell â€” it means they rose more slowly than before. Prices only actually fall when the line goes below zero, which is rare. Notice how the 1990s dwarf everything since: that is the scale problem this chart exists to show."],
-    ["Inflation and the policy rate", "Two lines on one scale. The policy rate is what the Bank of Ghana charges banks; inflation is what prices are doing. The distance between them is the <em>real</em> interest rate. When the policy rate sits above inflation, saving beats rising prices and borrowing is expensive â€” that is the Bank leaning against inflation. When it sits below, money loses value in the bank."],
-    ["Cedi per US dollar", "How many cedis one dollar costs. Because the cedi is on the bottom of that fraction, the line going <em>up</em> means the cedi is getting <em>weaker</em> â€” this catches almost everyone out the first time. A weaker cedi raises the price of anything imported, which is most fuel, most medicine and most machinery."],
+    ["Debt-to-GDP", "This is the debt divided by the size of the whole economy, as a percentage. It matters more than the raw debt because it asks whether the country can carry what it owes — GH¢100bn is heavy for a small economy and light for a large one. The line can fall in two quite different ways: the country repays debt, or the economy grows faster than the debt does. Both look identical here."],
+    ["Debt per person", "The same total debt, divided by how many people lived in Ghana that year. Nobody is handed this bill — it is a way of putting a number too large to picture into one you can. Because the population keeps growing, this line rises more slowly than the debt itself."],
+    ["Inflation since 1993", "Inflation is how fast prices rose over a year, as a percentage. A falling line does not mean prices fell — it means they rose more slowly than before. Prices only actually fall when the line goes below zero, which is rare. Notice how the 1990s dwarf everything since: that is the scale problem this chart exists to show."],
+    ["Inflation and the policy rate", "Two lines on one scale. The policy rate is what the Bank of Ghana charges banks; inflation is what prices are doing. The distance between them is the <em>real</em> interest rate. When the policy rate sits above inflation, saving beats rising prices and borrowing is expensive — that is the Bank leaning against inflation. When it sits below, money loses value in the bank."],
+    ["Cedi per US dollar", "How many cedis one dollar costs. Because the cedi is on the bottom of that fraction, the line going <em>up</em> means the cedi is getting <em>weaker</em> — this catches almost everyone out the first time. A weaker cedi raises the price of anything imported, which is most fuel, most medicine and most machinery."],
     ["Petrol and diesel", "The published pump price per litre. This is the figure that reaches ordinary prices fastest: fuel moves transport costs, transport costs move food prices, and food is the biggest single item in Ghana's inflation basket. Watch it as an early warning for the inflation chart above."],
-    ["Real GDP growth", "The percentage the economy grew in each year, after stripping inflation out â€” that is what \"real\" means. A smaller positive number is still growth, just slower growth. Only a bar below zero means the economy actually shrank."],
-    ["Income per person", "Total national income divided by the population, in US dollars. It is an average, so it says nothing about how income is shared. Because it is converted into dollars, a fall can mean the economy weakened, or simply that the cedi did â€” the 2022 dip is mostly the second."],
+    ["Real GDP growth", "The percentage the economy grew in each year, after stripping inflation out — that is what \"real\" means. A smaller positive number is still growth, just slower growth. Only a bar below zero means the economy actually shrank."],
+    ["Income per person", "Total national income divided by the population, in US dollars. It is an average, so it says nothing about how income is shared. Because it is converted into dollars, a fall can mean the economy weakened, or simply that the cedi did — the 2022 dip is mostly the second."],
     ["Gross reserves", "The foreign currency the central bank holds. It is the buffer behind the cedi and behind the country's ability to pay for imports: economists usually judge it in months of import cover, and three months is the conventional comfort line. Reserves rising is generally a sign of strength."],
-    ["Remittances", "Money sent home by Ghanaians living abroad. It arrives as foreign currency, exactly like export earnings, which is why it belongs on the same page as trade. It is also unusually steady â€” it tends to hold up in years when exports fall."],
+    ["Remittances", "Money sent home by Ghanaians living abroad. It arrives as foreign currency, exactly like export earnings, which is why it belongs on the same page as trade. It is also unusually steady — it tends to hold up in years when exports fall."],
     ["Unemployment rate", "The share of people who want work and cannot find it. This is the modelled international estimate, which is why it runs lower than Ghana's own survey: the two count differently, and neither is wrong. Comparing this line with another country is fair; comparing it with the Ghanaian survey figure is not."],
     ["Population, millions", "How many people live in Ghana. It sits under nearly every other figure on this site: debt per person, income per person and reserves per person all use it as their denominator, so its slope quietly shapes those lines too."],
-    ["Exports and imports", "Two lines: what Ghana sold abroad and what it bought. The gap between them is the trade balance. Exports above imports means money coming in on trade; imports above exports means money going out, which has to be financed from somewhere â€” usually borrowing or reserves."],
+    ["Exports and imports", "Two lines: what Ghana sold abroad and what it bought. The gap between them is the trade balance. Exports above imports means money coming in on trade; imports above exports means money going out, which has to be financed from somewhere — usually borrowing or reserves."],
     ["Trade balance", "Exports minus imports, so this is the gap from the chart above drawn as a single line. Above zero is a surplus, below zero a deficit. The zero line is the one that matters: crossing it is a change of kind, not just of degree."],
-    ["Gold and cocoa", "Two prices on very different scales â€” an ounce of gold and a tonne of cocoa â€” so both are rebased to 100 at the start year. Every point then reads as \"this per cent of where it began\". That makes the comparison about <em>how much each has moved</em>, not which is worth more."],
+    ["Gold and cocoa", "Two prices on very different scales — an ounce of gold and a tonne of cocoa — so both are rebased to 100 at the start year. Every point then reads as \"this per cent of where it began\". That makes the comparison about <em>how much each has moved</em>, not which is worth more."],
     ["Where the", "Each bar is one line of the approved budget for the year, in billions of cedis. Sorted largest first, so the ordering tells you the government's priorities as written down. Remember this is what was <em>approved</em>, not what has been spent yet."],
-    ["Inflation across Africa", "One bar per country, Ghana in gold. Each country publishes on its own timetable, so the months behind the bars are not identical â€” treat this as a rough ranking rather than a precise league table. It answers \"is this normal for the region?\", which a single country's line never can."],
+    ["Inflation across Africa", "One bar per country, Ghana in gold. Each country publishes on its own timetable, so the months behind the bars are not identical — treat this as a rough ranking rather than a precise league table. It answers \"is this normal for the region?\", which a single country's line never can."],
     ["The biggest economies in Africa", "The total value of what each country produces in a year, in US dollars, with Ghana marked in gold. Bigger is not the same as richer: a large economy divided among many people can leave each person with less than a small one. For that, look at income per person instead."]
   ];
   const chartLearn = title => (CHART_LEARN.find(([k]) => String(title).startsWith(k)) || [])[1] || "";
@@ -1783,7 +1783,7 @@
       <div class="c-table-wrap" hidden>
         <table class="rank-table c-table">
           <thead><tr>${d.cols.map(c => `<th>${esc(c)}</th>`).join("")}</tr></thead>
-          <tbody>${d.rows.map(r => `<tr>${r.map((v, i) => `<td${i ? ' class="v"' : ""}>${i === 0 ? esc(String(v)) : (v == null ? "\â€”" : esc(showAt(v, d)))}</td>`).join("")}</tr>`).join("")}</tbody>
+          <tbody>${d.rows.map(r => `<tr>${r.map((v, i) => `<td${i ? ' class="v"' : ""}>${i === 0 ? esc(String(v)) : (v == null ? "\—" : esc(showAt(v, d)))}</td>`).join("")}</tr>`).join("")}</tbody>
         </table>
       </div>
       <p class="c-src">${esc(source)}</p>
@@ -1806,7 +1806,7 @@
     if (!d || !tip || !d.rows[i]) return;
     const row = d.rows[i];
     tip.innerHTML = `<b>${esc(String(row[0]))}</b>` + row.slice(1).map((v, j) =>
-      `<span><i style="background:${d.colors[j] || SERIES[0]}"></i>${esc(d.cols[j + 1])} <b>${v == null ? "\â€”" : esc(showAt(v, d))}</b></span>`).join("");
+      `<span><i style="background:${d.colors[j] || SERIES[0]}"></i>${esc(d.cols[j + 1])} <b>${v == null ? "\—" : esc(showAt(v, d))}</b></span>`).join("");
     tip.hidden = false;
     const r = box.getBoundingClientRect();
     const half = tip.offsetWidth / 2;
@@ -1883,7 +1883,7 @@
     clone.innerHTML = `<rect x="0" y="0" width="${w}" height="${h}" fill="${panel}"/>
       <text x="20" y="34" fill="${ink}" font-family="system-ui, sans-serif" font-size="20" font-weight="700">${esc(title)}</text>
       ${wrapped}
-      <text x="20" y="${h - 11}" fill="${ink3}" font-family="system-ui, sans-serif" font-size="12">${esc(srcText)} Â· alfredo19-boss.github.io/alfre-do-ghana-economic-data</text>`;
+      <text x="20" y="${h - 11}" fill="${ink3}" font-family="system-ui, sans-serif" font-size="12">${esc(srcText)} · alfredo19-boss.github.io/alfre-do-ghana-economic-data</text>`;
     clone.setAttribute("viewBox", `0 0 ${w} ${h}`);
     clone.setAttribute("width", w); clone.setAttribute("height", h);
     clone.setAttribute("xmlns", "http://www.w3.org/2000/svg");
@@ -1914,7 +1914,7 @@
 
     /* ---- this year first ------------------------------------------------------
      * The long annual series answer "how did Ghana get here". They are not much use for
-     * "what is happening now", which is what most people open the page for â€” a chart that
+     * "what is happening now", which is what most people open the page for — a chart that
      * starts in 1993 flattens this year into the last pixel. These come first and cover the
      * months the site actually holds readings for, so the trend you can see on the dashboard
      * is the trend you can see in the charts.
@@ -1937,9 +1937,9 @@
       .filter(r => r.date >= "2025-12-31" && typeof r.total === "number")
       .map(r => ({ date: `${MON[+r.date.slice(5, 7) - 1]} ${r.date.slice(2, 4)}`, value: r.total }));
     if (debtMonths.length > 2) {
-      cards.push(chartCard("Public debt this year, GH\Â¢ billion", "Every month the Bank of Ghana has reported, newest last.",
+      cards.push(chartCard("Public debt this year, GH\¢ billion", "Every month the Bank of Ghana has reported, newest last.",
         pLine([{ name: "Public debt", points: debtMonths }], { area: true, zero: false, unit: "bn", dec: 0, xName: "Month", alt: "Ghana's public debt month by month this year" }),
-        "Bank of Ghana \Â· Ministry of Finance"));
+        "Bank of Ghana \· Ministry of Finance"));
     }
 
     const ratioMonths = (D.debt.readings || [])
@@ -1948,7 +1948,7 @@
     if (ratioMonths.length > 2) {
       cards.push(chartCard("Debt-to-GDP this year, %", "The same debt measured against the size of the economy.",
         pLine([{ name: "Debt-to-GDP", points: ratioMonths }], { area: true, zero: false, unit: "%", dec: 1, xName: "Month", alt: "Ghana's debt-to-GDP ratio month by month this year" }),
-        "Bank of Ghana \Â· Ministry of Finance"));
+        "Bank of Ghana \· Ministry of Finance"));
     }
 
     const inflMonths = monthly("Inflation");
@@ -1959,10 +1959,10 @@
         "Ghana Statistical Service"));
     }
     if (inflMonths.length > 2 && polMonths.length > 2) {
-      cards.push(chartCard("The policy rate against inflation, this year", "The gap between the two lines is the real rate â€” what saving actually earns.",
+      cards.push(chartCard("The policy rate against inflation, this year", "The gap between the two lines is the real rate — what saving actually earns.",
         pLine([{ name: "Policy rate", points: polMonths }, { name: "Inflation", points: inflMonths }],
           { zero: true, unit: "%", dec: 1, xName: "Month", alt: "Ghana's policy rate against inflation, month by month" }),
-        "Bank of Ghana \Â· Ghana Statistical Service", ["Policy rate", "Inflation"]));
+        "Bank of Ghana \· Ghana Statistical Service", ["Policy rate", "Inflation"]));
     }
 
     const t91 = monthly("91-day T-bill"), t364 = monthly("364-day T-bill");
@@ -1979,18 +1979,18 @@
     if (usdTrail.length > 3) {
       const pts = usdTrail.map(p => ({ date: dateFmt(`${p.date}T00:00:00Z`), value: p.value }));
       cards.push(chartCard("The cedi against the dollar, daily", "Every daily close this site has recorded. It starts the day the job first ran and grows from there.",
-        pLine([{ name: "GH\Â¢ per US$", points: pts }], { area: true, zero: false, pre: "GH\Â¢", dec: 2, xName: "Date", alt: "Cedis per US dollar, daily" }),
+        pLine([{ name: "GH\¢ per US$", points: pts }], { area: true, zero: false, pre: "GH\¢", dec: 2, xName: "Date", alt: "Cedis per US dollar, daily" }),
         "Daily mid-market rate"));
     }
 
     // the debt itself
     const debtBars = (D.history || []).filter(h => h.debt).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.debt }));
-    cards.push(chartCard("Public debt, GH\Â¢ billion", "Year-end stock, with the latest reported month at the end.",
-      pBars(debtBars, { unit: "bn", dec: 0, name: "Public debt", xName: "Period", alt: "Ghana's public debt stock by year" }), "Bank of Ghana \Â· Ministry of Finance"));
+    cards.push(chartCard("Public debt, GH\¢ billion", "Year-end stock, with the latest reported month at the end.",
+      pBars(debtBars, { unit: "bn", dec: 0, name: "Public debt", xName: "Period", alt: "Ghana's public debt stock by year" }), "Bank of Ghana \· Ministry of Finance"));
 
     const ratioBars = (D.history || []).filter(h => h.ratio).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.ratio }));
     cards.push(chartCard("Debt-to-GDP, %", "The burden has almost halved since the 2022 peak.",
-      pBars(ratioBars, { unit: "%", dec: 1, name: "Debt-to-GDP", xName: "Period", alt: "Ghana's debt-to-GDP ratio by year" }), "Bank of Ghana \Â· Ministry of Finance"));
+      pBars(ratioBars, { unit: "%", dec: 1, name: "Debt-to-GDP", xName: "Period", alt: "Ghana's debt-to-GDP ratio by year" }), "Bank of Ghana \· Ministry of Finance"));
 
     // debt carried per person, worked out from the two series the site already holds
     const popSeries = seriesOf_("population");
@@ -2004,9 +2004,9 @@
         const pop = yr ? popAtYear(yr) : null;
         return pop ? { date: b.date, value: b.value * 1e9 / pop } : null;
       }).filter(Boolean);
-      if (perHead.length > 2) cards.push(chartCard("Debt per person, GH\Â¢", "The same debt divided by the population of the year it belongs to.",
-        pLine([{ name: "Per person", points: perHead }], { area: true, pre: "GH\Â¢", dec: 0, zero: false, xName: "Period", alt: "Ghana's public debt per person" }),
-        "Ghana Statistical Service \Â· Bank of Ghana"));
+      if (perHead.length > 2) cards.push(chartCard("Debt per person, GH\¢", "The same debt divided by the population of the year it belongs to.",
+        pLine([{ name: "Per person", points: perHead }], { area: true, pre: "GH\¢", dec: 0, zero: false, xName: "Period", alt: "Ghana's public debt per person" }),
+        "Ghana Statistical Service \· Bank of Ghana"));
     }
 
     // prices and the cedi
@@ -2025,14 +2025,14 @@
             { name: "Inflation", points: dates.map(d => ({ date: d, value: pick(inflMonthly, d) })) },
             { name: "Policy rate", points: dates.map(d => ({ date: d, value: pick(policy, d) })) }
           ], { unit: "%", dec: 1, zero: false, xName: "Month", alt: "Ghana's inflation against the policy rate" }),
-          "Ghana Statistical Service \Â· Bank of Ghana", ["Inflation", "Policy rate"]));
+          "Ghana Statistical Service \· Bank of Ghana", ["Inflation", "Policy rate"]));
       }
     }
 
     const cedi = (A.cediHistory || []).map(c => ({ date: c.date, value: c.rate }));
     const cediPts = cedi.length > 3 ? cedi : (D.cedi || []).map(c => ({ date: c.label || c.date, value: c.rate }));
     cards.push(chartCard("Cedi per US dollar", "Every Bank of Ghana interbank rate this site has recorded.",
-      pLine([{ name: "GH\Â¢ per US$", points: cediPts }], { area: true, zero: false, pre: "GH\Â¢", dec: 2, xName: "Date", alt: "Cedi per US dollar over recent months" }), "Bank of Ghana interbank mid-rate"));
+      pLine([{ name: "GH\¢ per US$", points: cediPts }], { area: true, zero: false, pre: "GH\¢", dec: 2, xName: "Date", alt: "Cedi per US dollar over recent months" }), "Bank of Ghana interbank mid-rate"));
 
     // what a litre costs
     const petrol = readSeries("Petrol"), diesel = readSeries("Diesel");
@@ -2040,11 +2040,11 @@
       const dates = petrol.map(p => p.date).filter(d => diesel.some(q => q.date === d));
       if (dates.length > 2) {
         const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
-        cards.push(chartCard("Petrol and diesel, GH\Â¢ a litre", "Pump prices as published, the figure that reaches the trotro fare fastest.",
+        cards.push(chartCard("Petrol and diesel, GH\¢ a litre", "Pump prices as published, the figure that reaches the trotro fare fastest.",
           pLine([
             { name: "Petrol", points: dates.map(d => ({ date: d, value: pick(petrol, d) })) },
             { name: "Diesel", points: dates.map(d => ({ date: d, value: pick(diesel, d) })) }
-          ], { pre: "GH\Â¢", dec: 2, zero: false, xName: "Date", alt: "Petrol and diesel pump prices" }),
+          ], { pre: "GH\¢", dec: 2, zero: false, xName: "Date", alt: "Petrol and diesel pump prices" }),
           "National Petroleum Authority", ["Petrol", "Diesel"]));
       }
     }
@@ -2059,11 +2059,11 @@
       pLine([{ name: "Income per person", points: income }], { area: true, pre: "US$", dec: 0, zero: false, xName: "Year", alt: "Ghana's income per person" }), "World Bank, World Development Indicators"));
 
     const reserves = seriesOf_("Gross reserves");
-    if (reserves.length > 3) cards.push(chartCard("Gross reserves, US$ billion", "What the country holds in foreign currency \â€” the buffer behind the cedi.",
-      pLine([{ name: "Gross reserves", points: reserves }], { area: true, pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's gross international reserves" }), "World Bank \Â· Bank of Ghana"));
+    if (reserves.length > 3) cards.push(chartCard("Gross reserves, US$ billion", "What the country holds in foreign currency \— the buffer behind the cedi.",
+      pLine([{ name: "Gross reserves", points: reserves }], { area: true, pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's gross international reserves" }), "World Bank \· Bank of Ghana"));
 
     const remit = seriesOf_("Remittances");
-    if (remit.length > 3) cards.push(chartCard("Remittances, US$ billion", "Money sent home by Ghanaians abroad \â€” bigger than most export lines.",
+    if (remit.length > 3) cards.push(chartCard("Remittances, US$ billion", "Money sent home by Ghanaians abroad \— bigger than most export lines.",
       pLine([{ name: "Remittances", points: remit }], { area: true, pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Remittances to Ghana" }), "World Bank, World Development Indicators"));
 
     const jobless = seriesOf_("Unemployment rate");
@@ -2071,7 +2071,7 @@
       pLine([{ name: "Unemployment", points: jobless }], { area: true, unit: "%", dec: 1, zero: false, xName: "Year", alt: "Ghana's unemployment rate" }), "World Bank / ILO modelled estimate"));
 
     const people = seriesOf_("population");
-    if (people.length > 3) cards.push(chartCard("Population, millions", "Ghana has roughly doubled in a generation \â€” the denominator under every per-person figure on this site.",
+    if (people.length > 3) cards.push(chartCard("Population, millions", "Ghana has roughly doubled in a generation \— the denominator under every per-person figure on this site.",
       pLine([{ name: "Population", points: people.map(p => ({ date: p.date, value: p.value / 1e6 })) }], { unit: "m", dec: 1, area: true, zero: false, xName: "Year", alt: "Ghana's population" }), "World Bank, World Development Indicators"));
 
     // trade
@@ -2115,10 +2115,10 @@
       const total = (budgetItems.find(b => b.key === "exp") || {}).value || 0;
       const named = bud.map(b => ({ name: b.label, value: b.value / 1e9 }));
       const rest = total / 1e9 - named.reduce((n, b) => n + b.value, 0);
-      cards.push(chartCard(`Where the ${Y} budget goes, GH\Â¢ billion`,
+      cards.push(chartCard(`Where the ${Y} budget goes, GH\¢ billion`,
         "The approved allocations, with everything not named separately grouped at the end.",
         pHBars([...named, ...(rest > 0 ? [{ name: "Everything else", value: rest }] : [])].sort((a, b) => b.value - a.value),
-          { pre: "GH\Â¢", unit: "bn", dec: 1, name: "Allocation", xName: "Line", alt: "How the budget is allocated" }),
+          { pre: "GH\¢", unit: "bn", dec: 1, name: "Allocation", xName: "Line", alt: "How the budget is allocated" }),
         "Ministry of Finance, budget statement"));
     }
 
@@ -2149,7 +2149,7 @@
     const built = cards.filter(Boolean);
     $("chart-wall").innerHTML = built.join("");
     $("charts-status").textContent = `${built.length} charts`;
-    $("charts-note").textContent = "Every chart is drawn from the same figures as the dashboard \â€” nothing here is smoothed, projected or rebased except where a title says so. Point at any chart, or touch it, to read the value under your finger.";
+    $("charts-note").textContent = "Every chart is drawn from the same figures as the dashboard \— nothing here is smoothed, projected or rebased except where a title says so. Point at any chart, or touch it, to read the value under your finger.";
     setupChartSlider(built.length);
   }
 
@@ -2308,7 +2308,7 @@
     currencies: ["Currencies", "The cedi against the currencies Ghana trades in, and the majors against each other"]
   };
   const moveClass = pct => (pct > 0 ? "up" : pct < 0 ? "down" : "flat");
-  const moveMark = pct => (pct > 0 ? "â–²" : pct < 0 ? "â–¼" : "â€”");
+  const moveMark = pct => (pct > 0 ? "▲" : pct < 0 ? "▼" : "—");
   const quoteTime = iso => {
     const ms = Date.now() - Date.parse(iso);
     if (!isFinite(ms)) return "";
@@ -2323,7 +2323,7 @@
     const groups = Object.entries(GROUP_TITLES).filter(([key]) => (world[key] || []).length);
     $("markets-empty").hidden = groups.length > 0;
     $("markets-status").textContent = M && M.updated
-      ? `${Object.values(world).reduce((n, l) => n + (l || []).length, 0)} prices Â· ${timeAgo(M.updated)}`
+      ? `${Object.values(world).reduce((n, l) => n + (l || []).length, 0)} prices · ${timeAgo(M.updated)}`
       : "Waiting for the first run";
     $("markets-body").innerHTML = groups.map(([key, [title, blurb]]) => `
       <section class="block">
@@ -2333,8 +2333,8 @@
           const trail = Array.isArray(q.history) ? q.history : [];
           return `<article class="quote tappable ${cls}" data-detail="market:${esc(q.symbol)}" tabindex="0" aria-label="${esc(q.name)}: show its trend">
             <span class="q-name">${esc(q.name)}</span>
-            <span class="q-value">${q.unit && /^US\$|^GHÂ¢/.test(q.unit) ? esc(q.unit.split("/")[0]) : ""}${fmt(q.value, q.dec ?? 2)}${q.unit && !/^US\$|^GHÂ¢/.test(q.unit) ? `<small>${esc(q.unit)}</small>` : q.unit && q.unit.includes("/") ? `<small>${esc("/" + q.unit.split("/")[1])}</small>` : ""}</span>
-            <span class="q-move">${moveMark(q.pct)} ${q.pct == null ? "â€”" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`}${q.change == null ? "" : ` <i>${q.change > 0 ? "+" : ""}${fmt(q.change, Math.abs(q.change) < 10 ? 2 : 0)}</i>`}</span>
+            <span class="q-value">${q.unit && /^US\$|^GH¢/.test(q.unit) ? esc(q.unit.split("/")[0]) : ""}${fmt(q.value, q.dec ?? 2)}${q.unit && !/^US\$|^GH¢/.test(q.unit) ? `<small>${esc(q.unit)}</small>` : q.unit && q.unit.includes("/") ? `<small>${esc("/" + q.unit.split("/")[1])}</small>` : ""}</span>
+            <span class="q-move">${moveMark(q.pct)} ${q.pct == null ? "—" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`}${q.change == null ? "" : ` <i>${q.change > 0 ? "+" : ""}${fmt(q.change, Math.abs(q.change) < 10 ? 2 : 0)}</i>`}</span>
             ${trail.length > 2 ? `<span class="q-spark">${alfSpark(trail, `${q.name} over time`)}</span>` : ""}
             <span class="q-when">${esc(quoteTime(q.at))}</span>
           </article>`;
@@ -2347,7 +2347,7 @@
   /* ================= Exchange: the cedi against the world =================
    * Two rates sit side by side and they are not the same thing. The Bank of Ghana's interbank
    * mid-rate is Ghana's official figure, published once a business day. The table below it is
-   * the world mid-market rate â€” the midpoint between what buyers and sellers are quoting,
+   * the world mid-market rate — the midpoint between what buyers and sellers are quoting,
    * before any bank adds its margin. Nobody is offered the mid-market rate at a counter, and
    * the page says so rather than letting a reader plan around a number they cannot get.
    */
@@ -2385,7 +2385,7 @@
     const codes = Object.keys(rates);
     $("exchange-empty").hidden = !!codes.length;
     $("exchange-status").textContent = X && X.date
-      ? `${codes.length} currencies Â· ${dateFmt(`${X.date}T00:00:00Z`)}`
+      ? `${codes.length} currencies · ${dateFmt(`${X.date}T00:00:00Z`)}`
       : "Waiting for the first run";
 
     // the official three, large, straight from the Bank of Ghana where we have them
@@ -2398,9 +2398,9 @@
       return `<article class="fx-card">
         <span class="fx-card-code">${esc(code)}</span>
         <span class="fx-card-name">${esc(label)}</span>
-        <b class="fx-card-value">GHÂ¢${fmt(headline, 4)}</b>
-        <span class="fx-card-when">${bog ? `Bank of Ghana Â· ${esc(dateFmt(`${bog.date}T00:00:00Z`))}` : "mid-market"}</span>
-        ${bog && mid ? `<span class="fx-card-alt">mid-market GHÂ¢${fmt(mid.ghs, 4)}</span>` : ""}
+        <b class="fx-card-value">GH¢${fmt(headline, 4)}</b>
+        <span class="fx-card-when">${bog ? `Bank of Ghana · ${esc(dateFmt(`${bog.date}T00:00:00Z`))}` : "mid-market"}</span>
+        ${bog && mid ? `<span class="fx-card-alt">mid-market GH¢${fmt(mid.ghs, 4)}</span>` : ""}
       </article>`;
     }).join("");
     $("fx-official").hidden = !off && !codes.length;
@@ -2411,7 +2411,7 @@
     if (sel && sel.dataset.built !== String(codes.length)) {
       sel.innerHTML = codes
         .sort((a, b) => fxName(a).localeCompare(fxName(b)))
-        .map(c => `<option value="${esc(c)}">${esc(c)} Â· ${esc(fxName(c))}</option>`).join("");
+        .map(c => `<option value="${esc(c)}">${esc(c)} · ${esc(fxName(c))}</option>`).join("");
       sel.dataset.built = String(codes.length);
     }
     if (sel) sel.value = fxPick;
@@ -2422,19 +2422,19 @@
       .filter(c => !q || `${c} ${rates[c].name} ${rates[c].place}`.toLowerCase().includes(q))
       .sort((a, b) => fxName(a).localeCompare(fxName(b)));
     $("fx-table").innerHTML = `
-      <thead><tr><th>Currency</th><th class="v">1 unit in cedis</th><th class="v">GHÂ¢1 buys</th></tr></thead>
+      <thead><tr><th>Currency</th><th class="v">1 unit in cedis</th><th class="v">GH¢1 buys</th></tr></thead>
       <tbody>${rows.map(c => {
         const r = rates[c], ghs = fxGhs(c);
         return `<tr>
           <td><b>${esc(c)}</b> ${esc(r.name)}<span class="fx-place">${esc(r.place)}</span></td>
-          <td class="v mono">GHÂ¢${fmt(ghs, ghs >= 1 ? 4 : 6)}</td>
+          <td class="v mono">GH¢${fmt(ghs, ghs >= 1 ? 4 : 6)}</td>
           <td class="v mono">${fmt(r.per, r.per >= 1 ? 4 : 6)} ${esc(c)}</td>
         </tr>`;
       }).join("")}</tbody>`;
 
     $("exchange-note").innerHTML = `Official dollar, pound and euro rates are the Bank of Ghana's interbank mid-rate, read from their daily page. `
       + `The rest are world mid-market rates${X && X.date ? ` for ${esc(dateFmt(`${X.date}T00:00:00Z`))}` : ""}, refreshed every twenty minutes. `
-      + `A mid-market rate is the midpoint between buying and selling â€” a bank or a bureau will quote you something either side of it, so treat these as the reference, not the price you will be offered.`;
+      + `A mid-market rate is the midpoint between buying and selling — a bank or a bureau will quote you something either side of it, so treat these as the reference, not the price you will be offered.`;
   }
 
   // Typing in either box fills the other. "ghs" means the cedi box was the one edited.
@@ -2453,7 +2453,7 @@
       a.value = n == null ? "" : fxShow(n * rate);
     }
     const one = $("fx-line");
-    if (one) one.innerHTML = `<b>1 ${esc(code)} = GHÂ¢${fmt(rate, rate >= 1 ? 4 : 6)}</b> Â· GHÂ¢1 = ${fmt(1 / rate, 1 / rate >= 1 ? 4 : 6)} ${esc(code)}`;
+    if (one) one.innerHTML = `<b>1 ${esc(code)} = GH¢${fmt(rate, rate >= 1 ? 4 : 6)}</b> · GH¢1 = ${fmt(1 / rate, 1 / rate >= 1 ? 4 : 6)} ${esc(code)}`;
   }
 
   if ($("fx-amount-ghs")) {
@@ -2498,7 +2498,7 @@
 
   /* ---- publisher lettermarks ----------------------------------------------
    * A small badge for each newsroom: the letters people know it by, in one of eight
-   * tones from the site's own palette. These are NOT the publishers' logos â€” the site
+   * tones from the site's own palette. These are NOT the publishers' logos — the site
    * does not reproduce anyone's mark. They exist so a reader can tell AllAfrica from
    * Al Jazeera at a glance without reading the label, and so the two news portals read
    * as one designed system rather than a list of grey text.
@@ -2549,7 +2549,7 @@
       .filter(i => !q || `${i.title} ${i.source}`.toLowerCase().includes(q));
 
     id("status").textContent = W.updated
-      ? `${all.length} stories Â· updated ${timeAgo(W.updated)}`
+      ? `${all.length} stories · updated ${timeAgo(W.updated)}`
       : "Waiting for the first run";
     id("empty").hidden = !!shown.length;
 
@@ -2566,7 +2566,7 @@
     id("sources").hidden = !all.length;
 
     // A picture the publisher put on its own feed. It is loaded from their server, never copied
-    // here, and a story without one simply keeps its lettermark â€” the layout has to look right
+    // here, and a story without one simply keeps its lettermark — the layout has to look right
     // either way, because plenty of feeds carry no image at all.
     const pic = (i, cls) => i.image
       ? `<span class="${cls}"><img src="${esc(i.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`
@@ -2613,7 +2613,7 @@
     });
 
     const src = W.source ? ` Read from ${esc(W.source)}.` : "";
-    id("note").innerHTML = `Headlines and links only â€” each story opens on the publisher's own page, where it belongs.${src} Refreshed about every twenty minutes; anything older than a day and a half drops off.`;
+    id("note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed about every twenty minutes; anything older than a day and a half drops off.`;
   }
   const renderWorld = () => renderFeedPortal("world");
   const renderAfrNews = () => { renderFeedPortal("afrnews"); renderAfrWire(); };
@@ -2682,7 +2682,7 @@
     const median = list[Math.floor(list.length / 2)].value;
     const ghPeriod = gh.latest.period || gh.latest.year || "";
 
-    $("africa-status").textContent = `${list.length} countries Â· prevailing rates`;
+    $("africa-status").textContent = `${list.length} countries · prevailing rates`;
     $("africa-intro").innerHTML = `Ghana's inflation of <b>${fmt(gh.latest.value, 1)}%</b> in ${esc(ghPeriod)} is the <b>${ordinal(list.length - rank + 1)} highest</b> of ${list.length} African countries, ${Math.abs(gh.latest.value - median) < 0.25 ? `in line with the median of ${fmt(median, 1)}%` : `against a median of ${fmt(median, 1)}%`}. Each country shows the latest month it has published, so the months differ.`;
 
     // the orbit: Ghana at the centre, the rest on three rings, closest rates nearest the middle.
@@ -2706,7 +2706,7 @@
       const y = 50 + RADIUS[r] * Math.sin(angle) * 0.98;
       const band = Math.abs(diff) <= 2 ? "near" : diff > 0 ? "high" : "low";
       return `<button type="button" class="orb ${band}" style="left:${x.toFixed(2)}%;top:${y.toFixed(2)}%" data-iso="${esc(c.iso)}" data-detail="africa:${esc(c.iso)}"
-        title="${esc(c.name)}: ${fmt(c.value, 1)}% in ${esc(c.period)} Â· ${diff > 0 ? "+" : ""}${fmt(diff, 1)} points against Ghana${c.gdp ? ` Â· economy US$${fmt(c.gdp.value, 0)}bn` : ""}">
+        title="${esc(c.name)}: ${fmt(c.value, 1)}% in ${esc(c.period)} · ${diff > 0 ? "+" : ""}${fmt(diff, 1)} points against Ghana${c.gdp ? ` · economy US$${fmt(c.gdp.value, 0)}bn` : ""}">
         <b>${fmt(c.value, 1)}</b><span>${esc(c.name)}</span></button>`;
     })).join("");
 
@@ -2715,7 +2715,7 @@
       <div class="orb-centre" title="Ghana: ${fmt(gh.latest.value, 1)}% (${esc(ghPeriod)})">
         ${GH_FLAG.replace("gh-flag", "gh-flag orb-flag")}
         <b>${fmt(gh.latest.value, 1)}<small>%</small></b>
-        <span>Ghana Â· ${esc(ghPeriod)}</span>
+        <span>Ghana · ${esc(ghPeriod)}</span>
         ${gh.gdp ? `<span class="orb-gdp">US$${fmt(gh.gdp.value, 0)}bn economy</span>` : ""}
       </div>${html}`;
 
@@ -2731,9 +2731,9 @@
           <td>${esc(c.name)}<span class="reg">${esc(c.region)}</span></td>
           <td class="v">${fmt(c.value, 1)}<small>%</small></td>
           <td class="d">${esc(c.period)}</td>
-          <td class="d ${diff > 0 ? "up" : diff < 0 ? "down" : ""}">${c.iso === "GHA" ? "â€”" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts`}</td>
-          <td class="d">${typeof prev === "number" ? `${fmt(prev, 1)}% <span class="${move > 0 ? "up" : move < 0 ? "down" : ""}">${move > 0 ? "â–²" : move < 0 ? "â–¼" : "â€”"}</span>` : "â€”"}</td>
-          <td class="v gdp">${c.gdp ? `${fmt(c.gdp.value, c.gdp.value < 10 ? 1 : 0)}<small>${esc(c.gdp.year)}</small>` : "â€”"}</td>
+          <td class="d ${diff > 0 ? "up" : diff < 0 ? "down" : ""}">${c.iso === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts`}</td>
+          <td class="d">${typeof prev === "number" ? `${fmt(prev, 1)}% <span class="${move > 0 ? "up" : move < 0 ? "down" : ""}">${move > 0 ? "▲" : move < 0 ? "▼" : "—"}</span>` : "—"}</td>
+          <td class="v gdp">${c.gdp ? `${fmt(c.gdp.value, c.gdp.value < 10 ? 1 : 0)}<small>${esc(c.gdp.year)}</small>` : "—"}</td>
         </tr>`;
       }).join("")}</tbody>`;
 
@@ -2751,7 +2751,7 @@
     const items = (PAPERS.items || []).filter(i => !paperFilter || i.source === paperFilter);
     const mastheads = [...new Set((PAPERS.items || []).map(i => i.source))];
     $("papers-status").textContent = PAPERS.updated
-      ? `${(PAPERS.items || []).length} stories Â· ${timeAgo(PAPERS.updated)} Â· checked every minute`
+      ? `${(PAPERS.items || []).length} stories · ${timeAgo(PAPERS.updated)} · checked every minute`
       : "Waiting for the first run";
     $("paper-filters").innerHTML = mastheads.length ? [["", "All papers"], ...mastheads.map(m => [m, m])]
       .map(([v, label]) => `<button type="button" data-paper="${esc(v)}" class="${paperFilter === v ? "on" : ""}">${esc(label)}</button>`).join("") : "";
@@ -2764,7 +2764,7 @@
       return `<section class="paper">
         <header class="paper-head">
           <h2>${esc(source)}</h2>
-          <span class="note">${stories.length} stor${stories.length === 1 ? "y" : "ies"} Â· ${esc(timeAgo(lead.published))}</span>
+          <span class="note">${stories.length} stor${stories.length === 1 ? "y" : "ies"} · ${esc(timeAgo(lead.published))}</span>
         </header>
         <a class="paper-lead" href="${esc(lead.link)}" target="_blank" rel="noopener">
           <h3>${esc(lead.title)}</h3>
@@ -2804,7 +2804,7 @@
   function renderArticles() {
     const ARTICLES = articleData();
     $("articles-status").textContent = ARTICLES.length
-      ? `${ARTICLES.length} briefing${ARTICLES.length === 1 ? "" : "s"} Â· newest ${esc(ARTICLES[0].date)}`
+      ? `${ARTICLES.length} briefing${ARTICLES.length === 1 ? "" : "s"} · newest ${esc(ARTICLES[0].date)}`
       : "Waiting for the first run";
     $("articles-empty").hidden = ARTICLES.length > 0;
     if (!ARTICLES.length) { $("article-list").innerHTML = ""; $("article-read").innerHTML = ""; return; }
@@ -2818,7 +2818,7 @@
     const a = ARTICLES[openArticle];
     $("article-read").innerHTML = `
       <div class="art-head">
-        <p class="news-eyebrow">Briefing Â· ${esc(a.date)}</p>
+        <p class="news-eyebrow">Briefing · ${esc(a.date)}</p>
         <h2>${esc(a.title)}</h2>
         <p class="art-stand">${esc(a.standfirst)}</p>
         <div class="art-actions">
@@ -2900,8 +2900,8 @@
     $("news-list").hidden = !shown.length;
     $("news-empty").hidden = !!shown.length;
     $("news-status").textContent = N.updated
-      ? `Updated ${timeAgo(N.updated)} Â· this page checks every minute`
-      : `${N.sample || "Sample headlines"} Â· updates start once the news job runs`;
+      ? `Updated ${timeAgo(N.updated)} · this page checks every minute`
+      : `${N.sample || "Sample headlines"} · updates start once the news job runs`;
     const recent = items.filter(i => Date.now() - Date.parse(i.published) < 24 * 3600e3).length;
     const badge = $("news-badge");
     badge.hidden = !recent;
@@ -2940,26 +2940,26 @@
       const entry = (f.log || [])[0];
       if (!entry) return "";
       const msgs = Array.isArray(entry.messages) ? entry.messages : [entry];
-      return msgs.slice(0, 2).join(" Â· ");
+      return msgs.slice(0, 2).join(" · ");
     };
     const JOBS = [
       { name: "Update market data", feeds: "Cedi rates, gold, cocoa, the ticker",
         every: "Every day, 07:15 GMT", at: A.updated, lateAfter: 2.5, note: lastLog(A) },
       { name: "Update business news", feeds: "Business news tab",
         every: "Every 5 minutes", at: NEWS.updated, lateAfter: 1, note: `${(NEWS.items || []).length} headlines held` },
-      { name: "â€¦and today's papers", feeds: "Today's papers tab",
+      { name: "…and today's papers", feeds: "Today's papers tab",
         every: "Every 5 minutes", at: PAPERS.updated, lateAfter: 2, note: `${(PAPERS.items || []).length} front-page stories held` },
       { name: "Update live rates", feeds: "The market quotes in the ticker",
         every: "Every 20 minutes", at: (window.GDC_LIVE || {}).updated, lateAfter: 0.5,
         note: `${Object.keys((window.GDC_LIVE || {}).quotes || {}).length} quotes held` },
       { name: "Update long history", feeds: "The series since 1993",
         every: "Every morning, 06:40 GMT", at: HISTF.updated, lateAfter: 45, note: `${Object.keys(HISTF.series || {}).length} indicators` },
-      { name: "â€¦and African inflation", feeds: "Africa inflation tab",
+      { name: "…and African inflation", feeds: "Africa inflation tab",
         every: "Every morning, 06:40 GMT", at: AFRICA.updated, lateAfter: 45, note: `${Object.keys(AFRICA.countries || {}).length} countries` },
       { name: "Write weekly briefing", feeds: "Articles tab",
         every: "Mondays, 06:30 GMT", at: (ARTS[0] || {}).published || null,
         fallbackDate: (ARTS[0] || {}).date, lateAfter: 10, note: ARTS.length ? `Newest: ${ARTS[0].title}` : "None yet" },
-      { name: "Figures checked by a person", feeds: "data.js â€” debt, budget, the readings below",
+      { name: "Figures checked by a person", feeds: "data.js — debt, budget, the readings below",
         every: "When an official release lands", at: null, fallbackDate: D.checked, lateAfter: null,
         note: "Recorded through the Actions forms, then merged" }
     ];
@@ -2991,14 +2991,14 @@
     const due = figs.filter(f => f.stale);
     const behind = figs.filter(f => f.it.sourceNewer);
     $("status-figures-note").textContent = due.length
-      ? `${due.length} of ${figs.length} figures are past their usual release date and are marked Update due on the dashboard. The site keeps showing the last published value with its date â€” it never guesses a newer one.`
+      ? `${due.length} of ${figs.length} figures are past their usual release date and are marked Update due on the dashboard. The site keeps showing the last published value with its date — it never guesses a newer one.`
       : `All ${figs.length} published figures are within their usual release interval.${behind.length ? ` ${behind.length} have a newer third-party estimate waiting to be checked.` : ""}`;
     $("status-figures").innerHTML = `
       <thead><tr><th>Figure</th><th>Value</th><th>Period</th><th>State</th><th>Comes from</th></tr></thead>
       <tbody>${figs.map(f => `<tr>
         <td>${esc(f.it.label)}</td>
         <td class="v">${readValue(f.it)}</td>
-        <td class="d">${esc(f.it.date || "â€”")}</td>
+        <td class="d">${esc(f.it.date || "—")}</td>
         <td><span class="pill ${f.stale ? "bad" : f.it.sourceNewer ? "warn" : "good"}">${f.stale ? `${f.stale} days old` : f.it.sourceNewer ? "Newer exists" : "Current"}</span></td>
         <td class="d note-cell">${f.it.autoSource ? esc(f.it.autoSource) : "Entered by hand"}</td>
       </tr>`).join("")}</tbody>`;
@@ -3007,11 +3007,11 @@
     badge.textContent = lateCount
       ? `${lateCount} job${lateCount === 1 ? "" : "s"} need${lateCount === 1 ? "s" : ""} a look`
       : waitingCount ? `${waitingCount} job${waitingCount === 1 ? "" : "s"} not started yet`
-      : due.length ? `Jobs healthy Â· ${due.length} figure${due.length === 1 ? "" : "s"} due`
+      : due.length ? `Jobs healthy · ${due.length} figure${due.length === 1 ? "" : "s"} due`
       : "Everything current";
     badge.closest(".live").classList.toggle("warn", lateCount > 0 || waitingCount > 0);
     $("status-intro").textContent = waitingCount
-      ? `How fresh everything on this site is. ${waitingCount} job${waitingCount === 1 ? " has" : "s have"} never delivered â€” normal before the site is published and the Actions schedules are switched on; run each one once from the Actions tab.`
+      ? `How fresh everything on this site is. ${waitingCount} job${waitingCount === 1 ? " has" : "s have"} never delivered — normal before the site is published and the Actions schedules are switched on; run each one once from the Actions tab.`
       : "How fresh everything on this site is: when each automatic job last delivered, and how old every published figure is.";
 
     // A source that has quietly stopped working is worse than one that has obviously failed,
@@ -3023,7 +3023,7 @@
       if (standIns.length) bogNote.innerHTML =
         `<b>${standIns.length} figure${standIns.length === 1 ? " is" : "s are"} using a stand-in source.</b> `
         + `${standIns.map(i => esc(i.label)).join(", ")} ${standIns.length === 1 ? "is" : "are"} coming from a market mid-rate because the Bank of Ghana's daily page did not yield a rate. `
-        + `The figures are real market prices and are labelled as such on the dashboard â€” they are simply not BoG's official numbers. `
+        + `The figures are real market prices and are labelled as such on the dashboard — they are simply not BoG's official numbers. `
         + `The morning job tries four different Bank of Ghana pages before falling back.`;
     }
 
@@ -3035,13 +3035,13 @@
         <thead><tr><th>Asked</th><th>When</th><th>Language</th><th>What he offered instead</th></tr></thead>
         <tbody>${misses.slice(0, 20).map(m => `<tr>
           <td>${esc(m.q || "")}</td>
-          <td class="d">${m.at ? timeAgo(Date.parse(m.at)) : "â€”"}</td>
-          <td class="d">${esc(((LANGS[m.lang] || {}).name) || m.lang || "â€”")}</td>
+          <td class="d">${m.at ? timeAgo(Date.parse(m.at)) : "—"}</td>
+          <td class="d">${esc(((LANGS[m.lang] || {}).name) || m.lang || "—")}</td>
           <td class="d note-cell">${(m.near || []).length ? esc((m.near || []).join(", ")) : "Nothing close"}</td>
         </tr>`).join("")}</tbody>`;
     }
 
-    $("status-note").innerHTML = `This page reads the data files themselves, so it reflects what visitors are actually seeing, not what GitHub intended to run. A job marked late usually means the Actions schedule stopped â€” GitHub pauses scheduled workflows in a repository that has had no activity for 60 days. Open the <b>Actions</b> tab, re-enable them, and run the job once by hand. The page itself re-reads every data file once a minute.`;
+    $("status-note").innerHTML = `This page reads the data files themselves, so it reflects what visitors are actually seeing, not what GitHub intended to run. A job marked late usually means the Actions schedule stopped — GitHub pauses scheduled workflows in a repository that has had no activity for 60 days. Open the <b>Actions</b> tab, re-enable them, and run the job once by hand. The page itself re-reads every data file once a minute.`;
   }
 
   /* ================= Alfredo: ask the dashboard a question ================= */
@@ -3057,7 +3057,7 @@
   const recall = k => { try { return localStorage.getItem(k); } catch (e) { return null; } };
   let alfLang = LANGS[recall("alf.lang")] ? recall("alf.lang") : "en";
 
-  // t("debt.total", { now: "GHÂ¢751bn" }) -> the sentence in the chosen language,
+  // t("debt.total", { now: "GH¢751bn" }) -> the sentence in the chosen language,
   // falling back to English for anything not translated yet.
   function t(key, vars = {}) {
     const pack = LANGS[alfLang] || LANGS.en;
@@ -3171,10 +3171,10 @@
     const note = alfLang === "en" && it.note ? `<span class="alf-note">${toneNote(it.note, it.tone)}</span>` : "";
     const nowQ = liveFor(it.label);
     const liveLine = nowQ
-      ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GHÂ¢${fmt(nowQ.value, 4)}`, time: esc(quoteWhen(nowQ)) })}</span>`
+      ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`, time: esc(quoteWhen(nowQ)) })}</span>`
       : "";
     // a picture of where the figure has been, and a way through to the full detail.
-    // Its own recent readings come first â€” they are closer to the figure being quoted than
+    // Its own recent readings come first — they are closer to the figure being quoted than
     // an annual series that may end a year earlier.
     const chartPoints = points.length >= 4 ? points : ((long && long.points) || points);
     const chart = alfSpark(chartPoints, `${it.label} over time`);
@@ -3253,7 +3253,7 @@
         <path class="alf-spark-line" d="${d}"/>
         <circle class="alf-spark-dot" cx="${x(pts.length - 1).toFixed(1)}" cy="${y(vals[vals.length - 1]).toFixed(1)}" r="3"/>
       </svg>
-      <span class="alf-spark-ends">${esc(pts[0].date)} â€” ${esc(pts[pts.length - 1].date)}</span>
+      <span class="alf-spark-ends">${esc(pts[0].date)} — ${esc(pts[pts.length - 1].date)}</span>
     </span>`;
   }
 
@@ -3268,7 +3268,7 @@
     return (long && long.points && long.points.length > own.length) ? long.points : own;
   };
 
-  // "and last year?", "why?", "where is that from?" â€” only reached when nothing else matched
+  // "and last year?", "why?", "where is that from?" — only reached when nothing else matched
   function alfFollowUp(q) {
     const it = alfLast.item;
     if (!it) return null;
@@ -3399,14 +3399,14 @@
    * travelled, so "what is in the news", "how are the markets" and "what should I watch" are
    * answerable from the page itself. Two rules hold throughout: he never fetches anything, and
    * he never predicts a number. He will say which way something has moved, what is due, and
-   * what would change it â€” an outlook is a judgement, and this site does not make those up.
+   * what would change it — an outlook is a judgement, and this site does not make those up.
    */
   const ALF_NEWS_NAME = { ghana: "Ghana business", world: "world", africa: "African" };
   const alfHeadlines = kind => kind === "ghana" ? newsItems() : worldStories(kind === "africa" ? "africa" : "global");
 
   function alfHeadlineList(list, n = 4) {
     return `<ul class="alf-list">${list.slice(0, n).map(i =>
-      `<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><span class="alf-src">${esc(i.source)} Â· ${esc(timeAgo(i.published))}</span></li>`).join("")}</ul>`;
+      `<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><span class="alf-src">${esc(i.source)} · ${esc(timeAgo(i.published))}</span></li>`).join("")}</ul>`;
   }
 
   // Words that are about the act of asking for news rather than about a subject.
@@ -3414,12 +3414,12 @@
 
   function alfNewsAnswer(kind, q) {
     const list = alfHeadlines(kind);
-    if (!list.length) return `I don't have any ${ALF_NEWS_NAME[kind]} headlines in front of me just now â€” the news job may not have run yet. Everything else on the dashboard I can still answer.`;
+    if (!list.length) return `I don't have any ${ALF_NEWS_NAME[kind]} headlines in front of me just now — the news job may not have run yet. Everything else on the dashboard I can still answer.`;
 
     // a subject inside the question narrows the list
     const words = alfNorm(q).split(" ").filter(w => w.length > 3 && !ALF_STOP.has(w) && !ALF_NEWS_WORDS.test(w));
     const hits = words.length ? list.filter(i => words.some(w => `${i.title} ${i.summary || ""}`.toLowerCase().includes(w))) : [];
-    if (hits.length) return `Here is what I have on that â€” ${hits.length} ${hits.length === 1 ? "story" : "stories"} in the ${ALF_NEWS_NAME[kind]} list:${alfHeadlineList(hits, 5)}`;
+    if (hits.length) return `Here is what I have on that — ${hits.length} ${hits.length === 1 ? "story" : "stories"} in the ${ALF_NEWS_NAME[kind]} list:${alfHeadlineList(hits, 5)}`;
     if (words.length) return `I have ${list.length} ${ALF_NEWS_NAME[kind]} headlines, but none of them mention that. Here are the newest, in case one is close:${alfHeadlineList(list, 3)}`;
 
     const sources = [...new Set(list.slice(0, 24).map(i => i.source))];
@@ -3450,11 +3450,11 @@
       const bits = idx
         ? [`The GSE Composite Index is <b>${fmt(idx.value, 0)}</b>, ${esc(idx.date || "")}. ${esc(idx.note || "")}`]
         : [`I don't have the Ghana Stock Exchange index to hand just now.`];
-      bits.push(`I don't carry prices company by company â€” the exchange sells that feed, so this site reports the market as a whole rather than publishing figures it cannot stand behind.`);
+      bits.push(`I don't carry prices company by company — the exchange sells that feed, so this site reports the market as a whole rather than publishing figures it cannot stand behind.`);
       return bits.join(" ");
     }
 
-    if (!movers.length) return `The market board is empty at the moment â€” run <b>Update live rates</b> and I'll have the world indices, the commodities, crypto and the currency pairs.`;
+    if (!movers.length) return `The market board is empty at the moment — run <b>Update live rates</b> and I'll have the world indices, the commodities, crypto and the currency pairs.`;
     const lines = movers.map(m => `<li>${esc(m.name)} <b>${alfMoveWord(m.pct)} ${fmt(Math.abs(m.pct), 2)}%</b><span class="alf-src">${esc(m.unit || "")} ${fmt(m.value, m.dec ?? 2)}</span></li>`).join("");
     const rose = movers.filter(m => m.pct > 0).length;
     const mood = rose > movers.length / 2 ? "More of them are up than down" : rose ? "It is mixed" : "They are mostly lower";
@@ -3484,26 +3484,26 @@
     const movers = alfMovers(1);
     if (movers.length) bits.push(`On the world board the biggest move is ${esc(movers[0].name)}, ${alfMoveWord(movers[0].pct)} ${fmt(Math.abs(movers[0].pct), 2)}%.`);
     const gh = alfHeadlines("ghana"), wd = alfHeadlines("world");
-    if (gh.length) bits.push(`In Ghana business news the top headline is â€œ${esc(gh[0].title)}â€ â€” ${esc(gh[0].source)}, ${esc(timeAgo(gh[0].published))}.`);
-    if (wd.length) bits.push(`Around the world: â€œ${esc(wd[0].title)}â€ â€” ${esc(wd[0].source)}.`);
+    if (gh.length) bits.push(`In Ghana business news the top headline is “${esc(gh[0].title)}” — ${esc(gh[0].source)}, ${esc(timeAgo(gh[0].published))}.`);
+    if (wd.length) bits.push(`Around the world: “${esc(wd[0].title)}” — ${esc(wd[0].source)}.`);
     return bits.join(" ");
   }
 
-  // "What to expect" â€” honestly answered. Direction of travel, what is due, what would move it.
+  // "What to expect" — honestly answered. Direction of travel, what is due, what would move it.
   // Deliberately no projected numbers: this site has never printed a figure nobody published.
   function alfWatch() {
-    const bits = [`I can run the counters forward if you name a date â€” ask me what the debt or the debt-to-GDP ratio will be by December. What I won't do is guess at a surveyed figure like inflation. Here is which way things are travelling and what is due.`];
+    const bits = [`I can run the counters forward if you name a date — ask me what the debt or the debt-to-GDP ratio will be by December. What I won't do is guess at a surveyed figure like inflation. Here is which way things are travelling and what is due.`];
     const moved = [];
     for (const label of ["Inflation", "BoG policy rate", "91-day T-bill", "US dollar", "Gold price"]) {
       const it = alfRead(label);
       const d = it && alfDirection(it);
       if (!d || d.word === "unchanged") continue;
-      moved.push(`${esc(it.label.toLowerCase())} is ${d.word} than at ${esc(d.from.date || d.from.label || "the previous reading")} (${fmt(d.from.value, it.dec)}${esc(it.unit || "")} â†’ ${fmt(it.value, it.dec)}${esc(it.unit || "")})`);
+      moved.push(`${esc(it.label.toLowerCase())} is ${d.word} than at ${esc(d.from.date || d.from.label || "the previous reading")} (${fmt(d.from.value, it.dec)}${esc(it.unit || "")} → ${fmt(it.value, it.dec)}${esc(it.unit || "")})`);
     }
     if (moved.length) bits.push(`Since the last readings on file: ${moved.join("; ")}.`);
     const due = allItems.filter(i => staleDays(i)).slice(0, 4);
     if (due.length) bits.push(`Due an update, by the age of what is published: ${due.map(i => esc(i.label.toLowerCase())).join(", ")}. When those land the page picks them up on its own.`);
-    bits.push(`The debt counter will keep climbing whatever happens â€” it counts forward from the last two official totals, so it moves at the same pace until a new figure is published.`);
+    bits.push(`The debt counter will keep climbing whatever happens — it counts forward from the last two official totals, so it moves at the same pace until a new figure is published.`);
     bits.push(`If you want my honest advice on what matters: watch inflation against the policy rate, and watch the cedi. Those two set nearly everything else on this page.`);
     return bits.join(" ");
   }
@@ -3511,7 +3511,7 @@
   /* ================= projecting a counter forward =================
    * The debt clock already extrapolates: it counts forward from the last two official totals
    * at the pace measured between them. Asking what the figure will be in December is the same
-   * arithmetic run further, so it is a fair thing to answer â€” as long as it is called what it
+   * arithmetic run further, so it is a fair thing to answer — as long as it is called what it
    * is. Every projection here says the assumption out loud and shows the sum. Readings that
    * are surveyed rather than counted (inflation, unemployment, the T-bill) are NOT projected:
    * there is no pace to run forward, and inventing one would be a forecast wearing a sum's
@@ -3567,12 +3567,12 @@
   function alfProject(q) {
     const target = alfTargetDate(q);
     if (!target) return null;
-    if (target.at <= Date.now()) return `That date has already passed, so I can give you the figure rather than a projection â€” ask me without the date and I'll read it off the counter.`;
+    if (target.at <= Date.now()) return `That date has already passed, so I can give you the figure rather than a projection — ask me without the date and I'll read it off the counter.`;
 
     const hit = ALF_PROJECTABLE.find(([re]) => re.test(q));
     if (!hit) {
       // Named a date but not something the counters extrapolate.
-      return `I can only run a figure forward when the dashboard already counts it forward â€” the debt, the debt-to-GDP ratio, debt per person, the domestic and external split, and the population. Inflation, the T-bill and the rest are surveyed and published, not counted, so there is no pace to project and I would only be guessing. Ask me about one of the counters with your date, or ask what to watch and I'll tell you which way things are travelling.`;
+      return `I can only run a figure forward when the dashboard already counts it forward — the debt, the debt-to-GDP ratio, debt per person, the domestic and external split, and the population. Inflation, the T-bill and the rest are surveyed and published, not counted, so there is no pace to project and I would only be guessing. Ask me about one of the counters with your date, or ask what to watch and I'll tell you which way things are travelling.`;
     }
     const [, , name, calc, show] = hit;
     const now = Date.now();
@@ -3583,65 +3583,65 @@
 
     let arith = "";
     if (hit[1] === "ratio") {
-      arith = `The ratio is the debt divided by nominal GDP of ${alfMoney(D.debt.nominalGdp)}, which is the ${esc(D.debt.gdpLabel || "latest published")} figure and is held flat â€” so this shows the debt growing against an economy that is not growing in the sum. Real GDP will rise over the same period, which would pull the true ratio below this.`;
+      arith = `The ratio is the debt divided by nominal GDP of ${alfMoney(D.debt.nominalGdp)}, which is the ${esc(D.debt.gdpLabel || "latest published")} figure and is held flat — so this shows the debt growing against an economy that is not growing in the sum. Real GDP will rise over the same period, which would pull the true ratio below this.`;
     } else if (hit[1] === "pop") {
       arith = `That grows at ${fmt(D.population.growth * 100, 1)}% a year from the published projection.`;
     } else {
       arith = `That is ${sym()}${fmt(money(rate.total), 0)} a second for ${fmt(days, 0)} days, the pace measured between ${esc(P.label)} and ${esc(L.label)}.`;
     }
 
-    return `<b>${show(b)}</b> by ${esc(target.label)} â€” ${esc(name)}, ${dir === "unchanged" ? "about where it is now" : `${show(Math.abs(diff))} ${dir} than the ${show(a)} showing right now`}. `
+    return `<b>${show(b)}</b> by ${esc(target.label)} — ${esc(name)}, ${dir === "unchanged" ? "about where it is now" : `${show(Math.abs(diff))} ${dir} than the ${show(a)} showing right now`}. `
       + `${arith} `
-      + `<span class="alf-note">This is a projection, not a forecast. It is the dashboard's own arithmetic run forward and it assumes today's pace simply continues â€” no new borrowing decision, no repayment, no shock. Treat it as "where this ends up if nothing changes", which is the one thing that never quite happens.</span>`;
+      + `<span class="alf-note">This is a projection, not a forecast. It is the dashboard's own arithmetic run forward and it assumes today's pace simply continues — no new borrowing decision, no repayment, no shock. Treat it as "where this ends up if nothing changes", which is the one thing that never quite happens.</span>`;
   }
 
   /* ================= the ideas behind the figures =================
    * Plain-language explanations, written for somebody who has not studied economics. They are
-   * general knowledge rather than anything about Ghana specifically â€” where a Ghanaian figure
+   * general knowledge rather than anything about Ghana specifically — where a Ghanaian figure
    * exists, it gets added underneath so the idea and the number arrive together.
    */
   const ALF_TEACH = [
-    ["inflation", "Inflation is how fast prices are rising, measured as a percentage over twelve months. If inflation is 5%, something that cost GHÂ¢100 a year ago costs about GHÂ¢105 now. The most-missed point: when inflation <em>falls</em>, prices are still rising â€” just more slowly. Prices only fall when inflation goes below zero, which is called deflation and is rarer and usually worse."],
-    ["deflation", "Deflation is inflation below zero â€” prices actually falling. It sounds good and generally is not: people put off buying because things will be cheaper next month, so businesses sell less, cut jobs, and the cycle deepens."],
+    ["inflation", "Inflation is how fast prices are rising, measured as a percentage over twelve months. If inflation is 5%, something that cost GH¢100 a year ago costs about GH¢105 now. The most-missed point: when inflation <em>falls</em>, prices are still rising — just more slowly. Prices only fall when inflation goes below zero, which is called deflation and is rarer and usually worse."],
+    ["deflation", "Deflation is inflation below zero — prices actually falling. It sounds good and generally is not: people put off buying because things will be cheaper next month, so businesses sell less, cut jobs, and the cycle deepens."],
     ["gross domestic product", "GDP is the value of everything a country produces in a year. \"Nominal\" GDP counts it at today's prices; \"real\" GDP strips inflation out, so real growth tells you whether the country actually produced more rather than just charged more."],
     ["gdp", "GDP is the value of everything a country produces in a year. \"Nominal\" GDP counts it at today's prices; \"real\" GDP strips inflation out, so real growth tells you whether the country actually produced more rather than just charged more."],
-    ["debt to gdp", "The debt-to-GDP ratio is what a country owes divided by what it produces in a year, as a percentage. It matters more than the raw debt because it asks whether the country can carry the load: the same GHÂ¢100bn is crushing for a small economy and comfortable for a large one. It can fall two ways â€” paying debt down, or growing the economy faster than the debt."],
+    ["debt to gdp", "The debt-to-GDP ratio is what a country owes divided by what it produces in a year, as a percentage. It matters more than the raw debt because it asks whether the country can carry the load: the same GH¢100bn is crushing for a small economy and comfortable for a large one. It can fall two ways — paying debt down, or growing the economy faster than the debt."],
     ["policy rate", "The policy rate is what the central bank charges commercial banks to borrow. It is the lever monetary policy is pulled with: raise it and borrowing gets dearer everywhere, which cools spending and, in time, inflation. Lower it and the opposite happens. Every other interest rate in the country is built on top of it."],
-    ["real interest rate", "The real interest rate is the interest rate minus inflation. If a bank pays 10% and inflation is 12%, you are earning 10% and losing 12% â€” a real rate of minus 2%, so your money buys less at the end of the year than at the start. It is the number that tells you whether saving is actually worth it."],
+    ["real interest rate", "The real interest rate is the interest rate minus inflation. If a bank pays 10% and inflation is 12%, you are earning 10% and losing 12% — a real rate of minus 2%, so your money buys less at the end of the year than at the start. It is the number that tells you whether saving is actually worth it."],
     ["treasury bill", "A treasury bill is a short-term loan to the government, usually 91, 182 or 364 days. You buy it below face value and are paid the full face value at maturity; the difference is your return. They are considered the safest local investment because the government would have to fail to repay for you to lose."],
     ["t-bill", "A treasury bill is a short-term loan to the government, usually 91, 182 or 364 days. You buy it below face value and are paid the full face value at maturity; the difference is your return. They are the benchmark every other local interest rate is judged against."],
     ["bond", "A bond is a longer-term loan to a government or company. You lend a sum, receive interest (the \"coupon\") at fixed intervals, and get the sum back at the end. Bond prices move opposite to interest rates: when rates rise, existing bonds paying the old lower rate become less attractive, so their price falls."],
-    ["eurobond", "A Eurobond is a bond issued in a foreign currency â€” for Ghana, usually US dollars â€” and sold to international investors. The catch is that it has to be repaid in that currency, so if the cedi weakens the debt gets heavier without a single extra dollar being borrowed."],
-    ["budget deficit", "A deficit is spending more in a year than you raise in revenue. The gap has to be filled by borrowing, which is where debt comes from. A surplus is the opposite â€” raising more than you spend."],
+    ["eurobond", "A Eurobond is a bond issued in a foreign currency — for Ghana, usually US dollars — and sold to international investors. The catch is that it has to be repaid in that currency, so if the cedi weakens the debt gets heavier without a single extra dollar being borrowed."],
+    ["budget deficit", "A deficit is spending more in a year than you raise in revenue. The gap has to be filled by borrowing, which is where debt comes from. A surplus is the opposite — raising more than you spend."],
     ["primary balance", "The primary balance is the budget balance before interest payments are counted. It answers a specific question: leaving aside the cost of old debt, is the government living within its means today? A primary surplus with an overall deficit means the debt problem is inherited rather than being made worse."],
     ["fiscal policy", "Fiscal policy is what the government does with taxing and spending. Monetary policy is what the central bank does with interest rates and the money supply. They are separate hands on separate levers, and they do not always pull the same way."],
-    ["monetary policy", "Monetary policy is the central bank's control of interest rates and the supply of money, aimed mainly at keeping inflation under control. Fiscal policy â€” taxing and spending â€” belongs to the government instead."],
+    ["monetary policy", "Monetary policy is the central bank's control of interest rates and the supply of money, aimed mainly at keeping inflation under control. Fiscal policy — taxing and spending — belongs to the government instead."],
     ["exchange rate", "An exchange rate is the price of one currency in another. When it takes more cedis to buy a dollar, the cedi has weakened: imports get dearer, exports earn more in cedi terms, and any debt owed in dollars grows in cedi terms without new borrowing."],
     ["depreciation", "Depreciation is a currency losing value against another on the market. Devaluation is the same thing done deliberately by the authorities. Either way, imports cost more and foreign-currency debt gets heavier."],
     ["devaluation", "Devaluation is an official decision to lower a currency's value. Depreciation is the market doing it on its own. The effect on prices is the same: imports cost more."],
     ["foreign reserves", "Reserves are the foreign currency a central bank holds. They pay for imports and defend the exchange rate. The usual measure is months of import cover, and roughly three months is the conventional comfort line."],
-    ["remittance", "Remittances are money sent home by people working abroad. For Ghana they arrive as foreign currency, exactly like export earnings, and they are unusually steady â€” they tend to hold up in the years when exports fall."],
-    ["balance of trade", "The trade balance is exports minus imports. A surplus means more money coming in from trade than going out; a deficit means the opposite, and it has to be paid for somehow â€” from reserves, or by borrowing."],
+    ["remittance", "Remittances are money sent home by people working abroad. For Ghana they arrive as foreign currency, exactly like export earnings, and they are unusually steady — they tend to hold up in the years when exports fall."],
+    ["balance of trade", "The trade balance is exports minus imports. A surplus means more money coming in from trade than going out; a deficit means the opposite, and it has to be paid for somehow — from reserves, or by borrowing."],
     ["current account", "The current account is the trade balance plus income and transfers, including remittances. It is the broader measure of whether a country is earning more from the rest of the world than it spends."],
-    ["credit rating", "A credit rating is an agency's judgement of how likely a borrower is to repay. Ratings run from AAA down through B and C to D for default. Below BBBâˆ’ is called \"sub-investment grade\" or \"junk\", which raises what a country pays to borrow because some large funds are not permitted to hold it."],
-    ["recession", "A recession is a sustained fall in economic activity â€” the common rule of thumb is two consecutive quarters of shrinking real GDP, though the fuller definition looks at employment and incomes too."],
-    ["compound interest", "Compound interest is interest earned on interest. GHÂ¢100 at 10% is GHÂ¢110 after a year, then GHÂ¢121 after two â€” the second year earns on GHÂ¢110, not GHÂ¢100. Over long periods this is why debt and savings both grow faster than people expect."],
+    ["credit rating", "A credit rating is an agency's judgement of how likely a borrower is to repay. Ratings run from AAA down through B and C to D for default. Below BBB− is called \"sub-investment grade\" or \"junk\", which raises what a country pays to borrow because some large funds are not permitted to hold it."],
+    ["recession", "A recession is a sustained fall in economic activity — the common rule of thumb is two consecutive quarters of shrinking real GDP, though the fuller definition looks at employment and incomes too."],
+    ["compound interest", "Compound interest is interest earned on interest. GH¢100 at 10% is GH¢110 after a year, then GH¢121 after two — the second year earns on GH¢110, not GH¢100. Over long periods this is why debt and savings both grow faster than people expect."],
     ["stock exchange", "A stock exchange is a market where shares in listed companies are bought and sold. Buying a share makes you a part-owner: you may receive a share of the profits as a dividend, and the share price rises or falls with what people will pay for that ownership."],
     ["dividend", "A dividend is a share of a company's profit paid out to its shareholders, usually as an amount per share. A company can also keep the profit and reinvest it instead, which is why some healthy companies pay nothing."],
-    ["market capitalisation", "Market capitalisation is the share price multiplied by the number of shares â€” the market's price for the whole company. It is how you compare companies fairly, because a high share price alone says nothing about size."],
-    ["money supply", "The money supply is the total money circulating in an economy. If it grows much faster than the economy produces, there is more money chasing the same goods, which pushes prices up â€” one of the oldest explanations of inflation."],
-    ["imf", "The International Monetary Fund lends to countries in balance-of-payments difficulty. The loans come with conditions â€” usually spending cuts, revenue measures and reforms â€” which is why an IMF programme is politically heavy as well as financially significant."],
+    ["market capitalisation", "Market capitalisation is the share price multiplied by the number of shares — the market's price for the whole company. It is how you compare companies fairly, because a high share price alone says nothing about size."],
+    ["money supply", "The money supply is the total money circulating in an economy. If it grows much faster than the economy produces, there is more money chasing the same goods, which pushes prices up — one of the oldest explanations of inflation."],
+    ["imf", "The International Monetary Fund lends to countries in balance-of-payments difficulty. The loans come with conditions — usually spending cuts, revenue measures and reforms — which is why an IMF programme is politically heavy as well as financially significant."],
     ["value added tax", "VAT is a tax charged on the value added at each stage of production, collected by businesses and ultimately paid by the final buyer. Because everyone pays the same rate regardless of income, it takes a larger share of a poor household's spending than a rich one's."],
     ["vat", "VAT is a tax charged on the value added at each stage of production and ultimately paid by the final buyer. Because everyone pays the same rate regardless of income, it takes a larger share of a poor household's spending than a rich one's."],
     ["liquidity", "Liquidity is how easily something can be turned into cash without moving its price. Cash is perfectly liquid; a house is not. A market described as \"thin\" or illiquid moves sharply on small trades, which is why some quoted prices sit still for days and then jump."],
-    ["interest rate", "An interest rate is the price of borrowing money, as a percentage per year. What matters for your pocket is the real rate â€” the interest rate minus inflation â€” because that is what says whether your money is actually gaining or losing value."]
+    ["interest rate", "An interest rate is the price of borrowing money, as a percentage per year. What matters for your pocket is the real rate — the interest rate minus inflation — because that is what says whether your money is actually gaining or losing value."]
   ];
   // onlyIdeas: answer only when the thing asked about is an idea with no published figure of
   // its own. "Compound interest" and "a eurobond" are ideas; "inflation" is a reading, and
   // somebody typing that wants Ghana's number, not a lecture. This is what keeps the concepts
   // from stealing questions the dashboard can answer with a figure.
   // Ideas the dashboard also publishes a figure for. Somebody typing one of these wants
-  // Ghana's number first, so they never short-circuit the figure lookup â€” they are still
+  // Ghana's number first, so they never short-circuit the figure lookup — they are still
   // explained when the question explicitly asks to have them explained.
   const ALF_OWN_TOPICS = new Set(["inflation", "gdp", "gross domestic product", "debt to gdp",
     "policy rate", "exchange rate", "foreign reserves", "remittance", "treasury bill", "t-bill",
@@ -3704,16 +3704,16 @@
       const day = (n) => {
         const when = n === 0 ? "Today" : new Date(`${d.time[n]}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "long", timeZone: "UTC" });
         const rain = d.precipitation_probability_max && d.precipitation_probability_max[n];
-        return `<li><b>${esc(when)}</b> ${esc(wmoWord(d.weather_code[n]))}, ${fmt(d.temperature_2m_min[n], 0)}â€“${fmt(d.temperature_2m_max[n], 0)}Â°C${typeof rain === "number" ? `<span class="alf-src">${fmt(rain, 0)}% chance of rain</span>` : ""}</li>`;
+        return `<li><b>${esc(when)}</b> ${esc(wmoWord(d.weather_code[n]))}, ${fmt(d.temperature_2m_min[n], 0)}–${fmt(d.temperature_2m_max[n], 0)}°C${typeof rain === "number" ? `<span class="alf-src">${fmt(rain, 0)}% chance of rain</span>` : ""}</li>`;
       };
       const days = (d.time || []).map((_, n) => n).slice(0, 4).map(day).join("");
-      return `In <b>${esc(name)}</b> right now it is <b>${fmt(c.temperature_2m, 0)}Â°C</b> with ${esc(wmoWord(c.weather_code))}`
+      return `In <b>${esc(name)}</b> right now it is <b>${fmt(c.temperature_2m, 0)}°C</b> with ${esc(wmoWord(c.weather_code))}`
         + `${typeof c.relative_humidity_2m === "number" ? `, humidity ${fmt(c.relative_humidity_2m, 0)}%` : ""}`
         + `${typeof c.wind_speed_10m === "number" ? `, wind ${fmt(c.wind_speed_10m, 0)} km/h` : ""}.`
         + `<ul class="alf-list">${days}</ul>`
         + `<span class="alf-note">Forecast from Open-Meteo, read by your browser just now. Everything else I tell you comes from this site's own data files.</span>`;
     } catch (e) {
-      return `I couldn't reach the weather service just then â€” that one is fetched live, so it needs a working connection. Everything on the dashboard I can still answer from the page itself.`;
+      return `I couldn't reach the weather service just then — that one is fetched live, so it needs a working connection. Everything on the dashboard I can still answer from the page itself.`;
     }
   }
 
@@ -3736,7 +3736,7 @@
       return T("howareyou");
 
     // His name. Said on its own it is someone calling him, and he answers at once. Said as
-    // part of a real question â€” "Alfredo, what is inflation?" â€” the name is dropped and the
+    // part of a real question — "Alfredo, what is inflation?" — the name is dropped and the
     // question answered, which is what the person actually wanted.
     if (/\balfredo\b/.test(q)) {
       const rest = q.replace(/\b(alfredo|hi|hello|hey|yo|ok|okay|please|oh|eh)\b/g, " ").replace(/[^a-z0-9%]+/g, " ").trim();
@@ -3752,11 +3752,11 @@
 
     /* ---- the ordinary things people say to a screen, answered like a person would ---- */
     if (/\b(who (made|built|created|wrote) you|who is your (maker|owner)|where do you (come from|get your))\b/.test(q))
-      return `I'm Alfredo, the assistant built into this page. I read the same figures you can see on it â€” the Bank of Ghana rate, the Ministry of Finance numbers, the news feeds â€” and nothing else. Every figure I give you has its source on the card it comes from.`;
+      return `I'm Alfredo, the assistant built into this page. I read the same figures you can see on it — the Bank of Ghana rate, the Ministry of Finance numbers, the news feeds — and nothing else. Every figure I give you has its source on the card it comes from.`;
     if (/\b(are you (a |an )?(robot|human|person|real|ai|bot|computer|machine))\b/.test(q))
-      return `Not a person, no â€” I'm a small piece of the page itself. It does mean I'm never guessing: if a number isn't published on this dashboard, I'd rather tell you I don't have it.`;
+      return `Not a person, no — I'm a small piece of the page itself. It does mean I'm never guessing: if a number isn't published on this dashboard, I'd rather tell you I don't have it.`;
     if (/\b(sorry|my bad|my fault|apolog)/.test(q) && q.split(" ").length <= 6)
-      return `No need to apologise at all. Ask me anything you like â€” I don't mind repeating myself.`;
+      return `No need to apologise at all. Ask me anything you like — I don't mind repeating myself.`;
     if (/\b(nice|cool|great|lovely|beautiful|brilliant|impressive|amazing|well done|good work|i like (this|it|you)|i love (this|it))\b/.test(q) && q.split(" ").length <= 7)
       return `That's kind of you, thank you. Is there another figure you'd like me to pull up?`;
     if (/\b(ok|okay|alright|all right|fine|got it|understood|i see|noted|sure|yes|yeah)\b/.test(q) && q.split(" ").length <= 2)
@@ -3802,7 +3802,7 @@
       return alfMarketAnswer(q);
 
     // the live counters
-    if (/(debt per person|each person|per capita|how much do i owe|æ¯)/.test(q) || (/per person/.test(q) && /debt/.test(q)))
+    if (/(debt per person|each person|per capita|how much do i owe|每)/.test(q) || (/per person/.test(q) && /debt/.test(q)))
       return T("debt.percap", { value: alfMoney(LIVE.percap[0](t)), pop: fmt(popAt(t), 0) });
 
     if (/(household|my family|family of)/.test(q)) {
@@ -3910,7 +3910,7 @@
   }
 
   // A wall display can be left open for days. Keeping every message would grow the page
-  // without limit, so the oldest fall away once the conversation is long â€” well past
+  // without limit, so the oldest fall away once the conversation is long — well past
   // anything a reader would scroll back through.
   const ALF_LOG_MAX = 60;
   function alfSay(who, html) {
@@ -3925,7 +3925,7 @@
 
   // Three dots while he works. Even a local answer arrives in under a millisecond, and a reply
   // that appears in the same instant as the question reads as a lookup table rather than as
-  // somebody listening â€” so the dots hold for a short beat. Long enough to feel considered,
+  // somebody listening — so the dots hold for a short beat. Long enough to feel considered,
   // short enough that nobody waits for it.
   const alfThinking = () => alfSay("alf", `<span class="alf-dots" aria-label="Thinking"><i></i><i></i><i></i></span>`);
   const settle = (bubble, html) => { bubble.innerHTML = html; alfLog.scrollTop = alfLog.scrollHeight; };
@@ -4034,11 +4034,11 @@
   };
   // Which installed voice to use. A device usually has several English voices and no
   // Ghanaian one at all, so this tries the exact language, then any close relative the
-  // language pack names, and only then falls back to English â€” saying so the first time.
+  // language pack names, and only then falls back to English — saying so the first time.
   let saidNoVoice = {};
 
   // The Web Speech API doesn't say whether a voice is a man or a woman, so this matches the
-  // names devices actually ship. It only sets the default â€” the chooser lists every voice.
+  // names devices actually ship. It only sets the default — the chooser lists every voice.
   const MALE_NAMES = /\b(male|man|daniel|alex|fred|thomas|george|david|mark|ryan|james|oliver|arthur|gordon|nathan|aaron|reed|rocko|jamie|lee|rishi|guy|william|tom|john|paul|peter|eric|carlos|diego|kwame|kofi|samuel|michael|richard|christopher|brian|liam|noah|ethan|junior)\b/i;
   const FEMALE_NAMES = /\b(female|woman|samantha|victoria|karen|moira|tessa|fiona|serena|allison|ava|susan|zoe|kate|emma|olivia|sophia|amelie|joana|luciana|paulina|nora|ama|akua|abena|mary|sarah|linda|jenny|aria|michelle)\b/i;
   const isMale = v => MALE_NAMES.test(v.name || "") || (!FEMALE_NAMES.test(v.name || "") && /male/i.test(v.name || ""));
@@ -4081,7 +4081,7 @@
     const current = chosenVoice(pack);
     sel.innerHTML = list.map(v => {
       const kind = isMale(v) ? "man" : FEMALE_NAMES.test(v.name || "") ? "woman" : "";
-      return `<option value="${esc(v.name)}"${current && v.name === current.name ? " selected" : ""}>${esc(v.name)} Â· ${esc(v.lang)}${kind ? ` Â· ${kind}` : ""}</option>`;
+      return `<option value="${esc(v.name)}"${current && v.name === current.name ? " selected" : ""}>${esc(v.name)} · ${esc(v.lang)}${kind ? ` · ${kind}` : ""}</option>`;
     }).join("");
   }
 
@@ -4098,7 +4098,7 @@
   }
   function pickVoiceFresh(pack, voices) {
     const want = (pack.speech || "en-GH").toLowerCase();
-    // English entries in voiceHints are stand-ins, not a match â€” they must not suppress the
+    // English entries in voiceHints are stand-ins, not a match — they must not suppress the
     // "no voice for this language" note, so they are left to the fallback below.
     const wantsEnglish = want.startsWith("en");
     const hints = [want, ...(pack.voiceHints || []).map(h => h.toLowerCase())]
@@ -4389,7 +4389,7 @@
     observe(fig, draw);
   }
   barChart("ch-stock", D.history.map(h => ({ k: h.k, label: h.label, v: h.debt, partial: h.partial })),
-    { max: 820, ticks: [0, 200, 400, 600, 800], unit: "billion cedis", valueText: v => "GHÂ¢" + fmt(v, 1) + "bn" });
+    { max: 820, ticks: [0, 200, 400, 600, 800], unit: "billion cedis", valueText: v => "GH¢" + fmt(v, 1) + "bn" });
   barChart("ch-ratio", D.history.map(h => ({ k: h.k, label: h.label, v: h.ratio, partial: h.partial })),
     { max: 90, ticks: [0, 20, 40, 60, 80], unit: "of GDP", valueText: v => fmt(v, 1) + "%" });
 
@@ -4425,14 +4425,14 @@
       node("path", { d: `M${x(last.t)},${y(last.v)}L${x(now)},${y(est)}`, stroke: C.ember, "stroke-width": 2, "stroke-dasharray": "5 5", fill: "none" }, svg);
       node("path", { d: line, stroke: C.gold, "stroke-width": 2, fill: "none", "stroke-linejoin": "round", "stroke-linecap": "round" }, svg);
       const nx = x(now), ny = y(est), right = nx > W - 170;
-      label(svg, right ? nx - 10 : nx + 10, ny - 10, `â‰ˆ GHÂ¢${fmt(est, 1)}bn today`, { "text-anchor": right ? "end" : "start", fill: C.ink, "font-size": 12, "font-weight": 600 });
+      label(svg, right ? nx - 10 : nx + 10, ny - 10, `≈ GH¢${fmt(est, 1)}bn today`, { "text-anchor": right ? "end" : "start", fill: C.ink, "font-size": 12, "font-weight": 600 });
       all.forEach((p, i) => {
         const cx = x(p.t), cy = y(p.v);
         const dot = node("circle", { cx, cy, r: 4, fill: p.est ? C.ember : C.gold, stroke: C.panel, "stroke-width": 2 }, svg);
         const prev = i ? x(all[i - 1].t) : cx - 16, next = i < all.length - 1 ? x(all[i + 1].t) : cx + 16;
         const hx = (prev + cx) / 2, hw = (next + cx) / 2 - hx;
-        const hit = node("rect", { x: hx, y: M.t - 10, width: Math.max(8, hw), height: ph + 10, fill: "transparent", tabindex: 0, role: "img", "aria-label": `${p.label}: GHÂ¢${fmt(p.v, 1)} billion` }, svg);
-        hover(hit, () => { dot.setAttribute("r", 6); tip.show(svg, cx, cy, p.label, `GHÂ¢${fmt(p.v, 1)}bn`); },
+        const hit = node("rect", { x: hx, y: M.t - 10, width: Math.max(8, hw), height: ph + 10, fill: "transparent", tabindex: 0, role: "img", "aria-label": `${p.label}: GH¢${fmt(p.v, 1)} billion` }, svg);
+        hover(hit, () => { dot.setAttribute("r", 6); tip.show(svg, cx, cy, p.label, `GH¢${fmt(p.v, 1)}bn`); },
                    () => { dot.setAttribute("r", 4); tip.hide(); });
       });
     }
@@ -4489,10 +4489,10 @@
         const small = pts.length > 12 && p.auto && !last;
         const dot = node("circle", { cx, cy, r: small ? 2 : 5, fill: i === 0 ? C["ink-2"] : C.gold, stroke: C.panel, "stroke-width": small ? 0 : 2 }, svg);
         if (i === 0 || last || p.v === Math.max(...vals)) {
-          label(svg, cx + (last ? 6 : 8), cy - (last ? 14 : 10), last ? `${p.label}: GHÂ¢${fmt(p.v, 2)}` : `GHÂ¢${fmt(p.v, 2)}`, { "text-anchor": last ? "end" : "start", fill: C.ink, "font-size": 11.5, "font-weight": 600, stroke: C.panel, "stroke-width": 3, "paint-order": "stroke" });
+          label(svg, cx + (last ? 6 : 8), cy - (last ? 14 : 10), last ? `${p.label}: GH¢${fmt(p.v, 2)}` : `GH¢${fmt(p.v, 2)}`, { "text-anchor": last ? "end" : "start", fill: C.ink, "font-size": 11.5, "font-weight": 600, stroke: C.panel, "stroke-width": 3, "paint-order": "stroke" });
         }
-        const hit = node("circle", { cx, cy, r: small ? 6 : 16, fill: "transparent", tabindex: 0, role: "img", "aria-label": `${p.label}: GHÂ¢${fmt(p.v, 2)} per US dollar` }, svg);
-        hover(hit, () => { dot.setAttribute("r", 7); tip.show(svg, cx, cy, p.label, `GHÂ¢${fmt(p.v, 2)} per US$`); },
+        const hit = node("circle", { cx, cy, r: small ? 6 : 16, fill: "transparent", tabindex: 0, role: "img", "aria-label": `${p.label}: GH¢${fmt(p.v, 2)} per US dollar` }, svg);
+        hover(hit, () => { dot.setAttribute("r", 7); tip.show(svg, cx, cy, p.label, `GH¢${fmt(p.v, 2)} per US$`); },
                    () => { dot.setAttribute("r", small ? 2 : 5); tip.hide(); });
       });
     }
@@ -4512,7 +4512,7 @@
         const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
         return `<div class="b-cellule">
           <span class="b-label">${esc(q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`)}</span>
-          <span class="mono big ${dir}">${q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GHÂ¢${fmt(q.value, 4)}`}${dir ? `<i class="t-arrow">${dir === "up" ? "â–²" : "â–¼"}</i>` : ""}</span>
+          <span class="mono big ${dir}">${q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</span>
           <span class="b-when">${esc(quoteWhen(q))}</span>
         </div>`;
       }).join("")}</div>` });
@@ -4521,7 +4521,7 @@
     const news = newsItems().slice(0, 4);
     if (news.length) {
       pages.push({ key: "news", tag: "Ghana business news", html: `<ol class="b-heads">${news.map(n => `
-        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} Â· ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
     }
 
     const AF = africaData();
@@ -4533,7 +4533,7 @@
       pages.push({ key: "africa", tag: "Inflation across Africa", html: `
         <div class="b-africa">
           <div class="b-africa-gh">
-            <span class="b-label">Ghana Â· ${esc(gh.latest.period || "")}</span>
+            <span class="b-label">Ghana · ${esc(gh.latest.period || "")}</span>
             <span class="mono big gold">${fmt(gh.latest.value, 1)}%</span>
             <span class="b-when">${ordinal(list.length - list.findIndex(c => c === gh))} highest of ${list.length}</span>
           </div>
@@ -4574,7 +4574,7 @@
         <div class="b-cellule">
           <span class="b-label">${esc(r.agency)}</span>
           <span class="mono big gold">${esc(r.rating)}</span>
-          <span class="b-when">${esc(r.outlook || "")} outlook Â· ${esc(r.date || "")}${r.note ? ` Â· ${esc(r.note)}` : ""}</span>
+          <span class="b-when">${esc(r.outlook || "")} outlook · ${esc(r.date || "")}${r.note ? ` · ${esc(r.note)}` : ""}</span>
         </div>`).join("")}</div>` });
     }
 
@@ -4598,7 +4598,7 @@
         <div class="b-cellule">
           <span class="b-label">${esc(q.name)}</span>
           <span class="mono big ${moveClass(q.pct)}">${/US\$/.test(q.unit || "") ? "US$" : ""}${fmt(q.value, q.dec ?? 2)}</span>
-          <span class="b-when">${moveMark(q.pct)} ${q.pct == null ? "" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`} Â· ${esc(quoteTime(q.at))}</span>
+          <span class="b-when">${moveMark(q.pct)} ${q.pct == null ? "" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`} · ${esc(quoteTime(q.at))}</span>
         </div>`).join("")}</div>` });
     }
 
@@ -4607,20 +4607,20 @@
     const wworld = worldStories("global").slice(0, 4);
     if (wworld.length) {
       pages.push({ key: "wnews", tag: "Global news", html: `<ol class="b-heads">${wworld.map(n => `
-        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} Â· ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
     }
 
     // and what is being reported across Africa
     const wafrica = worldStories("africa").slice(0, 4);
     if (wafrica.length) {
       pages.push({ key: "anews", tag: "Across Africa", html: `<ol class="b-heads">${wafrica.map(n => `
-        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} Â· ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
     }
 
     const art = articleData()[0];
     if (art) {
       const points = (art.body || "").split(/\n/).filter(l => /^- /.test(l)).slice(0, 3).map(l => l.replace(/^- /, "").replace(/\*\*/g, ""));
-      pages.push({ key: "brief", tag: `Briefing Â· ${esc(art.date)}`, html: `
+      pages.push({ key: "brief", tag: `Briefing · ${esc(art.date)}`, html: `
         <div class="b-brief">
           <span class="b-head-title big">${esc(art.title)}</span>
           <span class="b-when">${esc(art.standfirst || "")}</span>
@@ -4667,8 +4667,8 @@
 
 
   /* ================= refresh everything every minute ================= */
-  // The whole page â€” dashboard figures, business news, today's papers, the Africa
-  // board and the briefings â€” re-reads its own data files every minute.
+  // The whole page — dashboard figures, business news, today's papers, the Africa
+  // board and the briefings — re-reads its own data files every minute.
   //
   // Files that feed the counters force a reload, because every figure on the page is
   // worked out from them. The portals are swapped in quietly instead: the file is

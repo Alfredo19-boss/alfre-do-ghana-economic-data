@@ -2,7 +2,7 @@
  * Alfredo Ghana Economic Data: figures entered and checked by people.
  * Edit values here, or use the "Record debt figures" / "Update a reading" workflows on GitHub,
  * which edit this file for you and open a pull request to review.
- * Money is in GHÂ¢ unless a unit says otherwise. Debt readings are in GHÂ¢ billion.
+ * Money is in GH¢ unless a unit says otherwise. Debt readings are in GH¢ billion.
  * Field guide: see README.md ("data.js field guide").
  */
 window.GDC_DATA = {
@@ -104,21 +104,21 @@ window.GDC_DATA = {
         "key": "rev",
         "label": "Revenue & grants",
         "value": 268100000000,
-        "note": "Janâ€“Jul actual GHÂ¢144.6bn â€” 9.05% of GDP against a 9.07% target"
+        "note": "Jan–Jul actual GH¢144.6bn — 9.05% of GDP against a 9.07% target"
       },
       {
         "key": "tax",
         "label": "Tax revenue",
         "sub": true,
         "value": 223930000000,
-        "note": "Direct taxes GHÂ¢115.4bn Â· goods & services GHÂ¢86.4bn Â· Janâ€“Jul actual GHÂ¢120.0bn"
+        "note": "Direct taxes GH¢115.4bn · goods & services GH¢86.4bn · Jan–Jul actual GH¢120.0bn"
       },
       {
         "key": "oth",
         "label": "Non-tax revenue & grants",
         "sub": true,
         "value": 44160000000,
-        "note": "Non-tax GHÂ¢26.5bn, other revenue GHÂ¢12.9bn, grants GHÂ¢3.1bn Â· oil and gas GHÂ¢13.6bn"
+        "note": "Non-tax GH¢26.5bn, other revenue GH¢12.9bn, grants GH¢3.1bn · oil and gas GH¢13.6bn"
       }
     ],
     "out": [
@@ -126,26 +126,26 @@ window.GDC_DATA = {
         "key": "exp",
         "label": "Total spending",
         "value": 302500000000,
-        "note": "Janâ€“Jul actual GHÂ¢147.1bn, 48.6% of the yearâ€™s plan"
+        "note": "Jan–Jul actual GH¢147.1bn, 48.6% of the year’s plan"
       },
       {
         "key": "wage",
         "label": "Public sector wages",
         "value": 90800000000,
-        "note": "Janâ€“Jul actual GHÂ¢50.6bn, of which GHÂ¢45.4bn wages and salaries"
+        "note": "Jan–Jul actual GH¢50.6bn, of which GH¢45.4bn wages and salaries"
       },
       {
         "key": "int",
         "label": "Interest on debt",
         "value": 57700000000,
-        "note": "Janâ€“Jul actual GHÂ¢25.2bn, of which GHÂ¢22.0bn domestic",
+        "note": "Jan–Jul actual GH¢25.2bn, of which GH¢22.0bn domestic",
         "cost": true
       },
       {
         "key": "cap",
         "label": "Capital projects",
         "value": 57500000000,
-        "note": "Janâ€“Jul actual GHÂ¢24.2bn Â· includes GHÂ¢30.0bn for the Big Push Â· revised to GHÂ¢52.5bn in-year"
+        "note": "Jan–Jul actual GH¢24.2bn · includes GH¢30.0bn for the Big Push · revised to GH¢52.5bn in-year"
       }
     ]
   },
@@ -182,12 +182,12 @@ window.GDC_DATA = {
       "value": 13,
       "dec": 0,
       "unit": "%",
-      "note": "Average of Q1â€“Q3 2025 Â· Ghana Statistical Service",
+      "note": "Average of Q1–Q3 2025 · Ghana Statistical Service",
       "status": [
         "warn",
         "High"
       ],
-      "date": "Q1â€“Q3 2025",
+      "date": "Q1–Q3 2025",
       "maxAgeDays": 0
     },
     {
@@ -196,7 +196,7 @@ window.GDC_DATA = {
       "dec": 0,
       "unit": "US$",
       "pre": true,
-      "note": "2025 Â· up US$850 on 2024",
+      "note": "2025 · up US$850 on 2024",
       "status": [
         "good",
         "Rising"
@@ -209,7 +209,7 @@ window.GDC_DATA = {
       "value": 21.9,
       "dec": 1,
       "unit": "%",
-      "note": "Down from 24.9% Â· 950,000 people exited",
+      "note": "Down from 24.9% · 950,000 people exited",
       "status": [
         "good",
         "Falling"
@@ -228,7 +228,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Aug 2026",
-          "note": "â–² from 4.6% Â· target 8 Â± 2%",
+          "note": "▲ from 4.6% · target 8 ± 2%",
           "tone": "bad",
           "status": [
             "good",
@@ -276,7 +276,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Aug 2026",
-          "note": "â–¼ from 3.1% in July",
+          "note": "▼ from 3.1% in July",
           "tone": "good"
         },
         {
@@ -285,7 +285,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Aug 2026",
-          "note": "â–² from 6.7% Â· rent, transport",
+          "note": "▲ from 6.7% · rent, transport",
           "tone": "bad"
         },
         {
@@ -335,7 +335,7 @@ window.GDC_DATA = {
           "dec": 4,
           "unit": "%",
           "date": "7 Sep 2026",
-          "note": "Bank of Ghana monthly average 5.38% in Aug 2026 Â· 182-day at 7.28%",
+          "note": "Bank of Ghana monthly average 5.38% in Aug 2026 · 182-day at 7.28%",
           "series": [
             {
               "date": "Dec 2025",
@@ -382,7 +382,7 @@ window.GDC_DATA = {
           "dec": 2,
           "unit": "%",
           "date": "7 Sep 2026",
-          "note": "â–¼ 66 basis points Â· weekly government auction",
+          "note": "▼ 66 basis points · weekly government auction",
           "series": [
             {
               "date": "Dec 2025",
@@ -429,7 +429,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Aug 2026",
-          "note": "â–¼ from 24.15% a year earlier",
+          "note": "▼ from 24.15% a year earlier",
           "tone": "good"
         },
         {
@@ -438,7 +438,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Aug 2026",
-          "note": "29.0% in real terms Â· GHÂ¢123.3bn lent to the private sector"
+          "note": "29.0% in real terms · GH¢123.3bn lent to the private sector"
         }
       ]
     },
@@ -452,7 +452,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Q2 2026",
-          "note": "Non-oil growth 5.4% Â· services 8.0%, industry 4.3%, agriculture 3.9%",
+          "note": "Non-oil growth 5.4% · services 8.0%, industry 4.3%, agriculture 3.9%",
           "status": [
             "good",
             "Strong"
@@ -471,7 +471,7 @@ window.GDC_DATA = {
           "dec": 2,
           "unit": "US$bn",
           "date": "22 Sep 2026",
-          "note": "4.5 months of imports Â· â–¼ from US$13.8bn (5.7 months) at end-2025",
+          "note": "4.5 months of imports · ▼ from US$13.8bn (5.7 months) at end-2025",
           "tone": "bad",
           "series": [
             {
@@ -498,8 +498,8 @@ window.GDC_DATA = {
           "value": 8.86,
           "dec": 1,
           "unit": "US$bn",
-          "date": "Janâ€“Aug 2026",
-          "note": "Exports US$22.4bn against imports US$13.6bn Â· 6.7% of GDP"
+          "date": "Jan–Aug 2026",
+          "note": "Exports US$22.4bn against imports US$13.6bn · 6.7% of GDP"
         },
         {
           "label": "Current account surplus",
@@ -519,10 +519,10 @@ window.GDC_DATA = {
           "label": "US dollar",
           "value": 11.55,
           "dec": 2,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "18 Sep 2026",
-          "note": "â–² cedi down 9.5% this year to 17 Jul",
+          "note": "▲ cedi down 9.5% this year to 17 Jul",
           "tone": "bad",
           "auto": "fx.usd"
         },
@@ -531,7 +531,7 @@ window.GDC_DATA = {
           "label": "British pound",
           "value": 15.4464,
           "dec": 2,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "18 Sep 2026",
           "note": "BoG interbank mid-rate",
@@ -542,7 +542,7 @@ window.GDC_DATA = {
           "label": "Euro",
           "value": 13.2445,
           "dec": 2,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "18 Sep 2026",
           "note": "BoG interbank mid-rate",
@@ -552,9 +552,9 @@ window.GDC_DATA = {
           "label": "Nominal GDP",
           "value": 1597.46,
           "dec": 0,
-          "unit": "GHÂ¢bn",
+          "unit": "GH¢bn",
           "date": "2026 budget",
-          "note": "GHÂ¢1,597,456,614,686 Â· used for the live debt ratio",
+          "note": "GH¢1,597,456,614,686 · used for the live debt ratio",
           "seriesSource": "Ministry of Finance, 2026 Budget Statement and Economic Policy"
         }
       ]
@@ -598,7 +598,7 @@ window.GDC_DATA = {
       ]
     },
     {
-      "agency": "Moodyâ€™s",
+      "agency": "Moody’s",
       "rating": "Caa1",
       "outlook": "Positive",
       "date": "Apr 2026",
@@ -617,7 +617,7 @@ window.GDC_DATA = {
     }
   ],
   "trade": {
-    "period": "Janâ€“Aug 2026",
+    "period": "Jan–Aug 2026",
     "totalExports": 22.44,
     "goldExports": 14.86
   },
@@ -633,7 +633,7 @@ window.GDC_DATA = {
           "unit": "US$",
           "pre": true,
           "date": "Aug 2026",
-          "note": "Monthly average, per fine ounce Â· record US$5,597 on 29 Jan 2026",
+          "note": "Monthly average, per fine ounce · record US$5,597 on 29 Jan 2026",
           "auto": "gold.usdPerOz"
         },
         {
@@ -641,7 +641,7 @@ window.GDC_DATA = {
           "value": 14.86,
           "dec": 1,
           "unit": "US$bn",
-          "date": "Janâ€“Aug 2026",
+          "date": "Jan–Aug 2026",
           "note": "66% of all export earnings",
           "tone": "good"
         },
@@ -651,7 +651,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "tonnes",
           "date": "Aug 2026",
-          "note": "â–² from 18.6 tonnes at end-2025",
+          "note": "▲ from 18.6 tonnes at end-2025",
           "tone": "good"
         },
         {
@@ -660,7 +660,7 @@ window.GDC_DATA = {
           "dec": 0,
           "unit": "bpd",
           "date": "Jul 2026",
-          "note": "Barrels a day Â· first rise after six years of decline"
+          "note": "Barrels a day · first rise after six years of decline"
         },
         {
           "board": true,
@@ -670,7 +670,7 @@ window.GDC_DATA = {
           "unit": "US$",
           "pre": true,
           "date": "Aug 2026",
-          "note": "Monthly average, per tonne Â· Ghana realised US$4,132",
+          "note": "Monthly average, per tonne · Ghana realised US$4,132",
           "auto": "cocoa.usdPerTonne"
         },
         {
@@ -678,10 +678,10 @@ window.GDC_DATA = {
           "label": "Cocoa farmgate price",
           "value": 2587,
           "dec": 0,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "Feb 2026",
-          "note": "Per 64kg bag Â· a 6% rise is planned for 2026/27",
+          "note": "Per 64kg bag · a 6% rise is planned for 2026/27",
           "maxAgeDays": 260
         },
         {
@@ -689,7 +689,7 @@ window.GDC_DATA = {
           "value": 2.76,
           "dec": 1,
           "unit": "US$bn",
-          "date": "Janâ€“Aug 2026",
+          "date": "Jan–Aug 2026",
           "note": "US$2.1bn in H1 2025"
         },
         {
@@ -697,7 +697,7 @@ window.GDC_DATA = {
           "value": 2.42,
           "dec": 1,
           "unit": "US$bn",
-          "date": "Janâ€“Aug 2026",
+          "date": "Jan–Aug 2026",
           "note": "Crude oil export earnings"
         }
       ]
@@ -712,7 +712,7 @@ window.GDC_DATA = {
           "dec": 0,
           "unit": "pts",
           "date": "Aug 2026",
-          "note": "â–² 71.9% so far this year Â· market capitalisation GHÂ¢285.6bn",
+          "note": "▲ 71.9% so far this year · market capitalisation GH¢285.6bn",
           "tone": "good"
         },
         {
@@ -722,7 +722,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "",
           "date": "Aug 2026",
-          "note": "â–² from 49.2 Â· above 50 means growth",
+          "note": "▲ from 49.2 · above 50 means growth",
           "tone": "good",
           "status": [
             "good",
@@ -734,17 +734,17 @@ window.GDC_DATA = {
           "label": "Mobile money payments",
           "value": 492.9,
           "dec": 1,
-          "unit": "GHÂ¢bn",
+          "unit": "GH¢bn",
           "date": "Jun 2026",
-          "note": "In one month Â· up 52% on June 2025"
+          "note": "In one month · up 52% on June 2025"
         },
         {
           "label": "Mobile money balances",
           "value": 40,
           "dec": 0,
-          "unit": "GHÂ¢bn",
+          "unit": "GH¢bn",
           "date": "Jun 2026",
-          "note": "Held in wallets Â· up from GHÂ¢28.9bn"
+          "note": "Held in wallets · up from GH¢28.9bn"
         },
         {
           "label": "Active mobile money accounts",
@@ -761,7 +761,7 @@ window.GDC_DATA = {
           "dec": 2,
           "unit": "US$bn",
           "date": "H1 2026",
-          "note": "â–¼ from US$3.93bn in H1 2025",
+          "note": "▼ from US$3.93bn in H1 2025",
           "tone": "bad"
         },
         {
@@ -770,7 +770,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Aug 2026",
-          "note": "â–¼ from 20.8% a year earlier Â· 3.8% excluding the loss category",
+          "note": "▼ from 20.8% a year earlier · 3.8% excluding the loss category",
           "tone": "good"
         },
         {
@@ -779,7 +779,7 @@ window.GDC_DATA = {
           "dec": 1,
           "unit": "%",
           "date": "Aug 2026",
-          "note": "Total advances GHÂ¢129.2bn Â· capital adequacy 19.1%"
+          "note": "Total advances GH¢129.2bn · capital adequacy 19.1%"
         }
       ]
     },
@@ -791,39 +791,39 @@ window.GDC_DATA = {
           "label": "Petrol",
           "value": 16.39,
           "dec": 2,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "1 Sep 2026",
-          "note": "Per litre Â· projected average pump price"
+          "note": "Per litre · projected average pump price"
         },
         {
           "board": true,
           "label": "Diesel",
           "value": 17.6,
           "dec": 2,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "1 Sep 2026",
-          "note": "Per litre Â· projected average pump price"
+          "note": "Per litre · projected average pump price"
         },
         {
           "label": "Cooking gas (LPG)",
           "value": 13.73,
           "dec": 2,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "1 Sep 2026",
-          "note": "Per kg Â· â–¼ 0.9% on the last window",
+          "note": "Per kg · ▼ 0.9% on the last window",
           "tone": "good"
         },
         {
           "label": "Daily minimum wage",
           "value": 21.77,
           "dec": 2,
-          "unit": "GHÂ¢",
+          "unit": "GH¢",
           "pre": true,
           "date": "Jan 2026",
-          "note": "â–² 9% from GHÂ¢19.97",
+          "note": "▲ 9% from GH¢19.97",
           "tone": "good",
           "maxAgeDays": 400
         }
@@ -838,7 +838,7 @@ window.GDC_DATA = {
           "dec": 2,
           "unit": "%",
           "date": "Jul 2026",
-          "note": "â–² Q3 rise after a 4.81% cut in Q2 Â· water +0.85%",
+          "note": "▲ Q3 rise after a 4.81% cut in Q2 · water +0.85%",
           "tone": "bad",
           "maxAgeDays": 80
         },
@@ -848,7 +848,7 @@ window.GDC_DATA = {
           "dec": 2,
           "unit": "US$bn",
           "date": "2026 proj.",
-          "note": "Power US$925m Â· gas US$178m (IMF)"
+          "note": "Power US$925m · gas US$178m (IMF)"
         },
         {
           "label": "Eurobond payments due",
@@ -862,7 +862,7 @@ window.GDC_DATA = {
           "label": "Road arrears paid",
           "value": 23.1,
           "dec": 1,
-          "unit": "GHÂ¢bn",
+          "unit": "GH¢bn",
           "date": "Jul 2026",
           "note": "Contractor arrears and Big Push payments"
         }
@@ -930,7 +930,7 @@ window.GDC_DATA = {
       "ratio": 44.7
     },
     {
-      "k": "Jun â€™26",
+      "k": "Jun ’26",
       "label": "End-June 2026",
       "debt": 719.5,
       "ratio": 45,
@@ -947,7 +947,7 @@ window.GDC_DATA = {
       "https://mofep.gov.gh/sites/default/files/budget-statements/2026-Budget-Statement-and-Economic-Policy.pdf"
     ],
     [
-      "Central government fiscal data, Januaryâ€“July 2026 (Ministry of Finance)",
+      "Central government fiscal data, January–July 2026 (Ministry of Finance)",
       "https://www.mofep.gov.gh/fiscal-data"
     ],
     [
@@ -959,11 +959,11 @@ window.GDC_DATA = {
       "https://www.myjoyonline.com/domestic-debt-increased-by-gh%C2%A257bn-to-gh%C2%A2391bn-in-june-2026-total-public-debt-now-gh%C2%A2719-5bn/"
     ],
     [
-      "Domestic and external split, Dec 2025 â€“ Jun 2026 (Ourhomeland)",
+      "Domestic and external split, Dec 2025 – Jun 2026 (Ourhomeland)",
       "https://ourhomelandghana.com/ghanas-public-debt-rises-gh%C2%A278-41bn-in-six-months/"
     ],
     [
-      "Monthly debt, January â€“ May 2026 (MyJoyOnline)",
+      "Monthly debt, January – May 2026 (MyJoyOnline)",
       "https://www.myjoyonline.com/ghanas-public-debt-hits-gh%C2%A2720-8bn-in-may-2026/"
     ],
     [
@@ -999,7 +999,7 @@ window.GDC_DATA = {
       "https://www.mansamarkets.com/ghana/bonds"
     ],
     [
-      "Unemployment Q1â€“Q3 2025, GSS (Citi Newsroom)",
+      "Unemployment Q1–Q3 2025, GSS (Citi Newsroom)",
       "https://citinewsroom.com/2025/12/unemployment-remains-elevated-at-12-8-in-first-three-quarters-of-2025/"
     ],
     [
@@ -1047,7 +1047,7 @@ window.GDC_DATA = {
       "https://dmarketforces.com/ghana-ratings-affirmed-at-b-b-outlook-remains-stable-sp/"
     ],
     [
-      "Moodyâ€™s outlook to positive (Citi Newsroom)",
+      "Moody’s outlook to positive (Citi Newsroom)",
       "https://citinewsroom.com/2026/04/moodys-upgrades-ghanas-outlook-to-positive-affirms-caa1-rating/"
     ],
     [
@@ -1120,7 +1120,7 @@ window.GDC_DATA = {
     ]
   ],
   "fxTicker": {
-    "note": "GHÂ¢ per unit of each currency. Bank of Ghana interbank mid-rates where published, market mid-rates otherwise.",
+    "note": "GH¢ per unit of each currency. Bank of Ghana interbank mid-rates where published, market mid-rates otherwise.",
     "world": [
       {
         "code": "USD",
@@ -1252,7 +1252,7 @@ window.GDC_DATA = {
     ]
   },
   "calendar": {
-    "note": "Statutory holidays and commemorative days follow the Ministry of the Interior list. Islamic holidays are fixed by the Office of the Chief Imam, so dates marked â€œexpectedâ€ move by a day or two. When a holiday falls on a weekend, government usually declares the following Monday.",
+    "note": "Statutory holidays and commemorative days follow the Ministry of the Interior list. Islamic holidays are fixed by the Office of the Chief Imam, so dates marked “expected” move by a day or two. When a holiday falls on a weekend, government usually declares the following Monday.",
     "sourceTitle": "Ministry of the Interior: statutory public holidays and commemorative days",
     "sourceUrl": "https://www.mint.gov.gh/statutory-public-holidays/",
     "days": [

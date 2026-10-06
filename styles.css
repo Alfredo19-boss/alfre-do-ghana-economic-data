@@ -320,6 +320,11 @@ main { display: flex; flex-direction: column; gap: 64px; }
 
 /* ---------- view tabs ---------- */
 .view-tabs {
+  /* Ten sections now. Rather than let the last few spill off the edge where nobody can reach
+     them, the strip scrolls sideways — with the bar itself hidden, because the pill shape
+     reads as a control and a scrollbar through the middle of it does not. */
+  overflow-x: auto; overflow-y: hidden; max-width: 100%;
+  scrollbar-width: none; -ms-overflow-style: none; -webkit-overflow-scrolling: touch;
   position: relative; display: flex; gap: 4px; padding: 4px; border-radius: 999px;
   background: linear-gradient(150deg, rgba(233, 238, 233, .12), rgba(233, 238, 233, .04) 46%, rgba(233, 238, 233, .09));
   border: 1px solid rgba(233, 238, 233, .16);
@@ -327,6 +332,7 @@ main { display: flex; flex-direction: column; gap: 64px; }
   backdrop-filter: blur(14px) saturate(140%); -webkit-backdrop-filter: blur(14px) saturate(140%);
 }
 .view-tabs a { display: inline-flex; align-items: center; gap: 7px; white-space: nowrap; text-decoration: none; font-family: var(--f-label); font-weight: 600; font-size: 14px; letter-spacing: .05em; color: var(--ink-2); padding: 6px 14px; border-radius: 999px; }
+.view-tabs::-webkit-scrollbar { display: none; }
 .view-tabs a:hover { color: var(--ink); }
 .view-tabs a { transition: background .18s, color .18s, box-shadow .18s; }
 .view-tabs a:hover { background: rgba(233, 238, 233, .08); }
@@ -411,6 +417,40 @@ body:not([data-view="dashboard"]) #dashboard-view, body:not([data-view="dashboar
 .news-topics button small { font-family: var(--f-mono); font-size: 11px; opacity: .75; margin-left: 4px; }
 .news-layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 24px; align-items: start; }
 .news-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; }
+/* ---- Exchange portal -------------------------------------------------------
+   The three the Bank of Ghana publishes get cards; everything else gets a row. */
+.fx-official { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); margin: 20px 0 8px; }
+.fx-card { background: var(--panel); background-image: linear-gradient(170deg, rgba(246, 193, 75, .09), transparent 62%); padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.fx-card-code { font-family: var(--f-label); font-weight: 700; font-size: 11.5px; letter-spacing: .14em; color: var(--gold); }
+.fx-card-name { font-size: 13.5px; color: var(--ink-2); }
+.fx-card-value { font-family: var(--f-mono); font-weight: 600; font-size: clamp(26px, 2.6vw, 34px); line-height: 1.05; color: var(--ink); letter-spacing: -.01em; margin-top: 2px; }
+.fx-card-when { font-family: var(--f-label); font-size: 11px; letter-spacing: .07em; text-transform: uppercase; color: var(--ink-3); }
+.fx-card-alt { font-family: var(--f-mono); font-size: 12px; color: var(--ink-3); }
+
+.fx-convert { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: end; gap: 14px; margin: 14px 0 10px; }
+.fx-side { min-width: 0; display: flex; flex-direction: column; gap: 7px; }
+.fx-side label { font-family: var(--f-label); font-weight: 600; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+.fx-field { display: flex; align-items: stretch; border: 1px solid var(--line-2); border-radius: 10px; background: var(--panel); overflow: hidden; }
+.fx-field:focus-within { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(246, 193, 75, .18); }
+.fx-field input { flex: 1 1 auto; min-width: 0; height: 54px; border: 0; background: transparent; color: var(--ink); font: 600 22px var(--f-mono); padding: 0 14px; text-align: right; }
+.fx-field input:focus { outline: none; }
+.fx-code { display: flex; align-items: center; padding: 0 13px; font-family: var(--f-mono); font-size: 15px; color: var(--ink-3); background: var(--panel-2); border-right: 1px solid var(--line); }
+.fx-field select { border: 0; background: var(--panel-2); color: var(--ink); font: 600 13.5px var(--f-body); padding: 0 10px; border-right: 1px solid var(--line); max-width: 46%; }
+.fx-field select:focus { outline: none; }
+.fx-swap { align-self: center; margin-bottom: 4px; width: 42px; height: 42px; flex: none; border: 1px solid var(--line-2); border-radius: 50%; background: var(--panel); color: var(--gold); font-size: 19px; cursor: pointer; transition: border-color .2s ease, transform .2s ease; }
+.fx-swap:hover { border-color: var(--gold); transform: rotate(180deg); }
+.fx-line { margin: 4px 0 0; font-family: var(--f-mono); font-size: 14.5px; color: var(--ink-2); }
+.fx-line b { color: var(--ink); }
+.fx-place { display: block; font-size: 12px; color: var(--ink-3); }
+.fx-table td.v { font-variant-numeric: tabular-nums; white-space: nowrap; }
+@media (prefers-reduced-motion: reduce) { .fx-swap { transition: none; } .fx-swap:hover { transform: none; } }
+@media (max-width: 720px) {
+  .fx-convert { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .fx-swap { justify-self: center; margin: 0; }
+  .fx-field input { height: 48px; font-size: 19px; }
+  .fx-field select { max-width: 52%; }
+}
+
 /* ---- publisher lettermarks ------------------------------------------------
    Typographic badges, not the publishers' own logos — two or three letters in one
    of eight tones from this site's palette, so sources are told apart at a glance
@@ -432,10 +472,10 @@ body:not([data-view="dashboard"]) #dashboard-view, body:not([data-view="dashboar
 .src-badge[data-tone="7"] { --tone: #c3d257; }
 .src-badge[data-tone="8"] { --tone: #45c7bd; }
 
-/* The Global news search sits directly in a column flex block, where `flex: 1 1 280px`
-   was being read as a 280px HEIGHT — it left a tall empty gap under the field. It only
-   needs to stretch when it shares a row with other controls, as it does on Business news. */
-#world-view .news-search { flex: 0 0 auto; }
+/* A search box sitting directly inside a column flex block had `flex: 1 1 280px` read as a
+   280px HEIGHT, leaving a tall empty gap under the field. It only needs to stretch when it
+   shares a row with other controls, as it does on Business news. */
+.block > .news-search { flex: 0 0 auto; }
 
 /* one chip per newsroom, above the grid */
 .src-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 2px; }
@@ -1209,6 +1249,15 @@ body[data-view="dashboard"] .alf-open { bottom: 20px; }
 .pill.quiet { color: var(--ink-3); border-color: var(--line-2); }
 .live.warn i { background: var(--ember); box-shadow: 0 0 8px var(--ember); }
 .live.warn { color: var(--ember); }
+/* The copyright line, on every view. Quiet, with a rule above it so it reads as the end of
+   the page rather than another note. */
+.copyright {
+  margin: 36px 0 0; padding: 18px 0 30px; border-top: 1px solid var(--line);
+  font-family: var(--f-label); font-size: 12.5px; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--ink-3); text-align: center;
+}
+@media (max-width: 560px) { .copyright { font-size: 11.5px; letter-spacing: .06em; padding-bottom: 24px; } }
+
 .foot .fine a { color: var(--ink-2); }
 .foot .fine a:hover { color: var(--gold); }
 /* language row, voice in and voice out */
