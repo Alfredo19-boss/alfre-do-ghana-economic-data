@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-05T12:28:16.640Z",
+  "updated": "2026-10-06T01:28:13.159Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,400 +25,423 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Christa Pike’s prognosis still unclear after failed execution, lawyer says",
-      "link": "https://www.myjoyonline.com/christa-pikes-prognosis-still-unclear-after-failed-execution-lawyer-says/",
+      "title": "FTBLRLIFE targets Ghana in expansion of global grassroots football network",
+      "link": "https://www.myjoyonline.com/ftblrlife-targets-ghana-in-expansion-of-global-grassroots-football-network/",
       "source": "MyJoyOnline",
-      "published": "2026-10-05T12:26:56.000Z",
-      "summary": "US murderer Christa Pike remains critically ill in hospital and her prognosis is still unclear following her failed execution, her lawyer has said on Sunday. Speaking to CNN on Sunday…",
+      "published": "2026-10-06T00:55:03.000Z",
+      "summary": "Global grassroots football platform FTBLRLIFE is targeting Ghana as part of its expansion into the African football market, with the company looking to connect the country's young players…",
       "categories": [
-        "International",
-        "Christa Pike",
-        "Execution"
+        "Football",
+        "Sports",
+        "David Clark",
+        "FTBLRLIFE",
+        "Grassroots football",
+        "Joseph Ayinga-Walter"
       ],
       "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "SLTF offers fee advance to first-year students under ‘No Academic Fees’ policy",
-      "link": "https://www.myjoyonline.com/sltf-offers-fee-advance-to-first-year-students-under-no-academic-fees-policy/",
+      "title": "Police arrest suspected drug dealer in Paga, seizes 38 parcels of Indian hemp",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-suspected-drug-dealer-in-paga-seizes-38-parcels-of-indian-hemp.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-05T23:36:38.000Z",
+      "summary": "The Upper East Regional Police Command has arrested a 36-year-old suspected drug dealer, Tumbana Ane, at Paga in the Kassena Nankana West District of the Upper East Region and seized 38…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/06/wee1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Former ‘American Idol’ contestant sentenced to life without parole for wife’s murder",
+      "link": "https://www.myjoyonline.com/former-american-idol-contestant-sentenced-to-life-without-parole-for-wifes-murder/",
       "source": "MyJoyOnline",
-      "published": "2026-10-05T12:24:10.000Z",
-      "summary": "The Students Loan Trust Fund (SLTF) is providing bridge financing to newly admitted first-year students of public universities and public technical universities who require immediate…",
+      "published": "2026-10-05T23:34:08.000Z",
+      "summary": "An Ohio man who was found guilty of murdering his wife and staging the crime scene to make it seem as if an intruder had broken into their home and fatally shot the mother of two was…",
+      "categories": [
+        "International",
+        "News",
+        "American Idol",
+        "Caleb Flynn",
+        "Ohio",
+        "wife killer"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Two.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yam Festival turns bloody at Nchiraa, 2 killed, 14 people including police officer injured",
+      "link": "https://www.graphic.com.gh/news/general-news/yam-festival-turns-bloody-at-nchiraa-2-killed-14-people-including-police-officer-injured.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-05T23:12:55.000Z",
+      "summary": "What began as a celebration of the annual Yam Festival at Nchiraa in the Wenchi Municipality of the Bono Region ended in bloodshed on Saturday, October 3, 2026 with the killing of people…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/nchiraa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Education Ministry commends Ghanaian teachers on World Teachers’ Day 2026",
+      "link": "https://www.myjoyonline.com/education-ministry-commends-ghanaian-teachers-on-world-teachers-day-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T23:12:35.000Z",
+      "summary": "The Ministry of Education has commended teachers across Ghana for their dedication, professionalism and sacrifices as the country joins the international community to celebrate World…",
       "categories": [
         "Education",
         "National",
-        "SLTF"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/1-18-e1752000830476.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Institute of Architects calls for action to make adequate housing a human right",
-      "link": "https://www.myjoyonline.com/ghana-institute-of-architects-calls-for-action-to-make-adequate-housing-a-human-right/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T12:24:09.000Z",
-      "summary": "The Ghana Institute of Architects (GIA) has called for coordinated national action to ensure access to safe, habitable and affordable housing as the country joins the global community to…",
-      "categories": [
-        "Business",
-        "Real Estate",
-        "GIA",
-        "World Architecture Day"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-10.44.12.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG, Police arrest seven over cedi bouquets",
-      "link": "https://www.myjoyonline.com/bog-police-arrest-seven-over-cedi-bouquets/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T12:23:35.000Z",
-      "summary": "The Bank of Ghana (BoG), in collaboration with the Ghana Police Service, has arrested seven persons for allegedly misusing Ghana cedi banknotes by using them to create money bouquets. The…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 2",
-        "BoG",
-        "Cedi",
-        "Ghana",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-2.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NCPTAs appeal to striking teachers to return to classroom",
-      "link": "https://www.myjoyonline.com/ncptas-appeal-to-striking-teachers-to-return-to-classroom/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T12:23:21.000Z",
-      "summary": "The National Council of Parent-Teacher Associations (NCPTAs) has appealed to the leadership of the Ghana National Association of Teachers (GNAT), National Association of Graduate Teachers…",
-      "categories": [
-        "National",
-        "Classrrom",
-        "NCPTAs",
+        "Ministry of Education",
         "Teachers"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-487.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/image-932-768x1024.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government plans engineered landfills and waste transfer stations nationwide – Ayariga",
-      "link": "https://www.myjoyonline.com/government-plans-engineered-landfills-and-waste-transfer-stations-nationwide-ayariga/",
+      "title": "NPP can reconcile with aggrieved members who want to return – Nana Akomea",
+      "link": "https://www.myjoyonline.com/npp-can-reconcile-with-aggrieved-members-who-want-to-return-nana-akomea/",
       "source": "MyJoyOnline",
-      "published": "2026-10-05T12:21:22.000Z",
-      "summary": "The government is preparing to invest in engineered landfill sites across regional capitals and waste transfer stations in Metropolitan, Municipal and District Assemblies as part of a major…",
+      "published": "2026-10-05T23:00:30.000Z",
+      "summary": "Newly elected NPP Third Vice Chairperson, Nana Akomea, says the party is willing to reconcile with aggrieved members who are prepared to return and work with the party.",
       "categories": [
-        "National",
-        "Ayariga",
-        "Mahama",
-        "MMDAs"
+        "Politics",
+        "Nana Akomea",
+        "NPP reconciliation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/M-1024x887.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-4.33.54-am-1024x707.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Second edition of Prince Amoako Jr giveback project scheduled for December",
-      "link": "https://www.myjoyonline.com/second-edition-of-prince-amoako-jr-giveback-project-scheduled-for-december/",
+      "title": "Tamale Child Deaths: Vehicle owner arrested as IGP deploys homicide team",
+      "link": "https://www.myjoyonline.com/tamale-child-deaths-vehicle-owner-arrested-as-igp-deploys-homicide-team/",
       "source": "MyJoyOnline",
-      "published": "2026-10-05T12:18:48.000Z",
-      "summary": "The 2026 edition of the initiative is scheduled for December 25 and December 26 in Accra with two activities planned.",
+      "published": "2026-10-05T22:45:12.000Z",
+      "summary": "The owner of the vehicle in which the bodies of three children were found in Tamale has been arrested and transported to Accra to assist with police investigations.",
       "categories": [
-        "Football",
-        "FC Nordsjaelland",
-        "PAJ Foundation",
-        "Prince Amoako Jr"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/PAJ.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Muntaka commissions polyclinic at Ayigya Zongo to address healthcare challenges",
-      "link": "https://www.myjoyonline.com/muntaka-commissions-polyclinic-at-ayigya-zongo-to-address-healthcare-challenges/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-05T12:11:26.000Z",
-      "summary": "The Interior Minister, Mohammed Mubarak Muntaka, who doubles as the Member of Parliament for Asawase, has, within six months, ensured the construction and commissioning of a polyclinic for…",
-      "categories": [
+        "HP News 10",
         "Regional",
-        "Ayigya Zongo",
-        "Interior Minister",
-        "Polyclinic"
+        "IGP",
+        "Tamale Child Deaths"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-480-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-545-1024x566.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "German and US scientists win Nobel medicine prize for work on optogenetics",
-      "link": "https://www.graphic.com.gh/news/general-news/german-and-us-scientists-win-nobel-medicine-prize-for-work-on-optogenetics.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-05T11:33:36.000Z",
-      "summary": "The 2026 Nobel Prize announcements are currently taking place from October 5 to 12, 2026. The first prize was announced on Monday, October 5, with the remaining categories scheduled…",
+      "title": "From ShattaFest to MoMo Fest: Entertainment takes centre stage in youth engagement",
+      "link": "https://www.myjoyonline.com/from-shattafest-to-momo-fest-entertainment-takes-centre-stage-in-youth-engagement/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T22:38:55.000Z",
+      "summary": "Entertainment is playing an increasingly important role in how brands, artistes and organisations connect with Ghana’s growing youth population. Recent experiences from ShattaFest and MoMo…",
       "categories": [
-        "General News"
+        "Arts and Culture",
+        "National",
+        "MoMo",
+        "MoMo Fest",
+        "MTN",
+        "ShattFest"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/nobel.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-5-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigerian military aircraft crashes, killing 32",
+      "link": "https://www.myjoyonline.com/nigerian-military-aircraft-crashes-killing-32/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T22:33:53.000Z",
+      "summary": "A Nigerian ​military plane flying from Benin City ‌to Lagos crashed on Monday in southwestern Ondo state, killing 25 passengers and seven crew ​members.",
+      "categories": [
+        "Africa",
+        "military aircraft crashes",
+        "Nigeria"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-543-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MTN encourages Ghanaians to use MoMo for saving, investing and financial planning",
+      "link": "https://www.myjoyonline.com/mtn-encourages-ghanaians-to-use-momo-for-saving-investing-and-financial-planning/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-05T22:33:47.000Z",
+      "summary": "MTN Ghana is encouraging customers to move beyond basic Mobile Money transactions and take advantage of the wider range of digital financial services available on the MoMo App. The…",
+      "categories": [
+        "Business",
+        "National",
+        "MoMo",
+        "MTN",
+        "MTN Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/2-7.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AIT President calls for lifelong learning mindset in the AI age",
+      "link": "https://www.graphic.com.gh/news/education/ait-president-calls-for-lifelong-learning-mindset-in-the-ai-age.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-05T20:45:48.000Z",
+      "summary": "The President of the Accra Institute of Technology (AIT), Professor Clement K. Dzidonu, has called for a fundamental shift in how individuals, educational institutions and society think…",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/01/IMG_0300.jpg.jpeg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GIA calls for action to make adequate housing a human right",
-      "link": "https://www.graphic.com.gh/news/general-news/gia-calls-for-action-to-make-adequate-housing-a-human-right.html",
+      "title": "President Mahama grants pardon to 863 convicted persons",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-grants-pardon-to-863-convicted-persons.html",
       "source": "Daily Graphic",
-      "published": "2026-10-05T11:07:12.000Z",
-      "summary": "The Ghana Institute of Architects (GIA) has called for coordinated national action to ensure access to safe, habitable and affordable housing as the country joins the global community to…",
+      "published": "2026-10-05T19:46:50.000Z",
+      "summary": "President John Dramani Mahama has granted presidential pardon to 863 convicted persons as part of activities marking Ghana's 70th Independence Anniversary.",
       "categories": [
         "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/01/prisonser.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Activa International Insurance Ghana reinforces culture of compliance and customer protection",
+      "link": "https://www.graphic.com.gh/news/general-news/activa-international-insurance-ghana-reinforces-culture-of-compliance-and-customer-protection.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-05T17:37:59.000Z",
+      "summary": "Activa International Insurance Ghana has reinforced the culture of compliance and customer protection with a commitment to protecting clients and securing the future. In a statement marking…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/04/activa1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GTEC directs UDS to immediately cease unauthorised mode of delivering accredited LLB programme",
+      "link": "https://www.graphic.com.gh/news/education/gtec-directs-uds-to-immediately-cease-unauthorised-mode-of-delivering-accredited-llb-programme.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-05T17:29:18.000Z",
+      "summary": "The Ghana Tertiary Education Commission (GTEC) has directed the University of Development Studies (UDS) to cease with immediate effect, the delivery of the accredited evening LLB programme…",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/UDS.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Parliament clarifies “No Vacancy” notice for NSS Personnel",
+      "link": "https://ghanaiantimes.com.gh/parliament-clarifies-no-vacancy-notice-for-nss-personnel/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-05T17:05:27.000Z",
+      "summary": "Parliament has clarified public commentary on social media regarding a notice on its notice board that read “No Vacancy for National Service Personnel 2026/2027. Kindly go for reposting.”…",
+      "categories": [
+        "Hot!",
+        "News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP national council, elders and executives will serve as checks on new party leader role under amended constitution - Professor Oquaye",
-      "link": "https://www.graphic.com.gh/news/politics/npp-flagbearer-will-not-have-free-hand-professor-oquaye.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-05T11:04:29.000Z",
-      "summary": "Following the amendment of the constitution of the opposition New Patriotic Party (NPP), making its presidential candidate/flagbearer the leader of the party, while in opposition and the…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Feb/13/Oquaye.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Health Ministry opens mop-up recruitment for 432 health professional slots",
-      "link": "https://www.graphic.com.gh/news/general-news/health-ministry-opens-mop-up-recruitment-for-432-health-professional-slots.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-05T10:41:19.000Z",
-      "summary": "The Ministry of Health will undertake a nationwide mop-up recruitment exercise to replace applicants who have refused to report to their various selected districts and facilities.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/feb/28/nurses.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Jollof case: Nurse Salomey Awity Bafoh granted GH¢100,000 bail; Case adjourned to February 17, 2027",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-jollof-case-nurse-salomey-bafoh-granted-ghc100-000-bail.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-05T10:29:54.000Z",
-      "summary": "The Adenta Circuit Court has granted the 40-year-old Senior Nursing Officer, Salomey Awity Bafoh, bail in the sum of GH¢100,000 with two sureties to be justified in a case in which she has…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/awity.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Third edition of Ghana's AI summit and awards to take place in March 2027 in Accra",
-      "link": "https://www.graphic.com.gh/news/general-news/ai-summit-and-awards-to-take-place-in-march-2027-in-accra.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-05T09:46:15.000Z",
-      "summary": "The Ghana AI Summit and Awards 2027, the third edition of Ghana’s artificial intelligence gathering, will take place from March 30 to 31 in 2027 in Accra.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/AI.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Phyto-Riker Pharmaceuticals supports Tamale West Hospital anniversary",
-      "link": "https://www.graphic.com.gh/news/general-news/phyto-riker-pharmaceuticals-supports-tamale-west-hospital-anniversary.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-05T09:27:18.000Z",
-      "summary": "As part of a Corporate Social Responsibility (CSR) activity, Phyto-Riker Pharmaceuticals has supported the Tamale West Hospital with a donation to their 100 years anniversary.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/phyto1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kyrgyzstan eyes Ghana as gateway to West Africa -Foreign Minister Kulubaev",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-kyrgyzstan-eyes-ghana-as-gateway-to-west-africa-foreign-minister-kulubaev.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-05T09:14:14.000Z",
-      "summary": "The Foreign Minister of the Kyrgyz Republic, Zheenbek Kulubaev, has said his country wants to establish Ghana as its gateway to West Africa as it expands its presence on the continent.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/Ablakwa.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Vision held at home by Gold Stars",
-      "link": "https://ghanaiantimes.com.gh/vision-held-at-home-by-gold-stars/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T08:21:48.000Z",
-      "summary": "Vision FC were unable to turn home advantage into victory as they were held to a goalless draw by Gold Stars SC at the Nii Adjei Kraku II Sports Complex on Saturday in their Matchday 5…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Dreams FC, Hearts share points",
-      "link": "https://ghanaiantimes.com.gh/dreams-fc-hearts-share-points/",
+      "title": "Hopeson Adorye elected to Board of World Taxpayers Association",
+      "link": "https://ghanaiantimes.com.gh/hopeson-adorye-elected-to-board-of-world-taxpayers-association/",
       "source": "Ghanaian Times",
-      "published": "2026-10-05T08:19:36.000Z",
-      "summary": "Accra Hearts of Oak and struggling Dreams FC on Saturday played goalless in their Matchday 5 Ghana Premier League (GPL) fixture honoured at the University of Ghana Stadium in Legon.Winless…",
+      "published": "2026-10-05T17:03:07.000Z",
+      "summary": "Ghanaian public advocate Hopeson Yaovi Adorye has been elected to the Board of Directors of the World Taxpayers Association (WTA). The election took place on Sunday, October 5, 2026, during…",
       "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Hearts-John-Antwi-controls-the-ball-away-from-Chris-Yaovi-1-1-745x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Queens coach names squad for Olympic qualifier",
-      "link": "https://ghanaiantimes.com.gh/black-queens-coach-names-squad-for-olympic-qualifier/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T08:15:39.000Z",
-      "summary": "Black Queens Head Coach, Lars Kim Björkegren, has named his squad for the second round of the African qualifiers for the Los Angeles 2028 Olympic Games, with two members of the Black…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Pappoe heads Black Stars coach search c’ttee",
-      "link": "https://ghanaiantimes.com.gh/pappoe-heads-black-stars-coach-search-cttee/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T08:11:43.000Z",
-      "summary": "Former Ghana Football Association (GFA) Vice-President, Mr Fred Pappoe, has been appointed to head a new committee tasked to find a new coach for the senior national male football team, the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GFA-KGL Foundation launch U-17 Inter-Regional Colts Championship",
-      "link": "https://ghanaiantimes.com.gh/gfa-kgl-foundation-launch-u-17-inter-regional-colts-championship/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T08:08:52.000Z",
-      "summary": "The Ghana Football Association (GFA), in partnership with the KGL Foundation, on Friday launched the sixth edition of the U-17 Inter-Regional Colts Championship. A total of 12 teams will…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Argentina puts seven past Burkina Faso",
-      "link": "https://ghanaiantimes.com.gh/argentina-puts-seven-past-burkina-faso/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T07:56:29.000Z",
-      "summary": "Argentina produced a devastating display to thrash Burkina Faso 7-0 in a friendly overshadowed by problems surrounding the visitors’ trip to Buenos Aires. The African team arrived in…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "England healing pain of World Cup heartache -Tuchel",
-      "link": "https://ghanaiantimes.com.gh/england-healing-pain-of-world-cup-heartache-tuchel/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T07:54:43.000Z",
-      "summary": "Just three months after Thomas Tuchel came under fire for his contentious role in England’s World Cup exit, the German said Saturday’s 7-0 demolition of Croatia proved they have healed the…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Yamal on target as Spain hold off Czech Republic",
-      "link": "https://ghanaiantimes.com.gh/yamal-on-target-as-spain-hold-off-czech-republic/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-05T07:52:34.000Z",
-      "summary": "Lamine Yamal continued his superb goalscoring form as Spain secured a 3-1 win over the Czech Republic on Saturday in the Nations League. The world champions moved three points clear of…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fred Pappoe, Tony Baffoe, Stephen Appiah, Chibsah and Dzakpasu lead search for new Black Stars coach",
-      "link": "https://www.graphic.com.gh/sports/sports-news/gfa-sports-ministry-set-up-committee-to-find-new-black-stars-coach-deadline-set-for-october-9.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-04T11:15:23.000Z",
-      "summary": "A five-member committee has been tasked to find a new head coach for the senior national football team, the Black Stars. The committee has up to Friday, October 9, 2026, to submit its…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/04/coach.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Beyond Queiroz’s exit: Ghana football needs accountability, reform — not another quick fix",
-      "link": "https://www.graphic.com.gh/sports/sports-news/beyond-queirozs-exit-ghana-football-needs-accountability-reform-not-another-quick-fix.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-03T14:44:49.000Z",
-      "summary": "The sacking of another Black Stars coach will not rescue Ghana football. After six coaches in seven years, collapsing national teams, fading clubs and a domestic league struggling for…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/KURTT.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana Premier League: Medeama guard top spot as Hearts, Samartex turn up heat",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-premier-league-medeama-guard-top-spot-as-hearts-samartex-turn-up-heat.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-03T13:56:56.000Z",
-      "summary": "Medeama SC have little time to dwell on continental disappointment. With their CAF Champions League adventure over, the defending Ghana Premier League champions must immediately protect…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/ETSE_DOGLI.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ho Teaching Hospital makes progress in cancer treatment",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ho-teaching-hospital-makes-progress-in-cancer-treatment.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-03T11:28:28.000Z",
-      "summary": "Out of about 500 breast cancer patients who reported to the Ho Teaching Hospital (HTH) between 2012 and 2026, more than 366 were successfully treated. The patients were from Ghana, Togo…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/DR_GINA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana secure three semi-final slots at All Africa U-19 Badminton Championship",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-secure-three-semi-final-slots-at-all-africa-u-19-badminton-championship.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-02T23:58:20.000Z",
-      "summary": "Ghana’s Golden Shuttlers have secured three semi-final places at the ongoing 2026 All Africa U-19 Badminton Championship in Cairo, Egypt, following an impressive showing in the individual…",
-      "categories": [
-        "Sports News"
+        "Hot!",
+        "News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/sports"
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Golden Shuttlers rally to victory at 2026 All Africa U-19 Badminton Championship",
-      "link": "https://www.graphic.com.gh/sports/sports-news/golden-shuttlers-rally-to-victory-at-2026-all-africa-u-19-badminton-championship.html",
+      "title": "Prof. Oquaye backs Kojo Bamba’s election, says NPP needs men to protect ballot",
+      "link": "https://ghanaiantimes.com.gh/prof-oquaye-backs-kojo-bambas-election-says-npp-needs-men-to-protect-ballot/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-05T17:01:15.000Z",
+      "summary": "Former Speaker of Parliament, Professor Mike Oquaye, has backed the election of former Delta Force leader Kojo Ofosu Boadu, affectionately called Kojo Bamba as the New Patriotic Party’s…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-15.06.22.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Former NPA boss Mustapha Abdul-Hamid accepts defeat in NPP vice chairmanship race",
+      "link": "https://ghanaiantimes.com.gh/former-npa-boss-mustapha-abdul-hamid-accepts-defeat-in-npp-vice-chairmanship-race/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-05T16:58:24.000Z",
+      "summary": "Former Chief Executive Officer of the National Petroleum Authority (NPA), Dr Mustapha Abdul-Hamid, has accepted defeat in his bid to become a National Vice Chairman of the New Patriotic…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GRA investigates alleged GH¢600 extortion by Customs officer at Accra airport",
+      "link": "https://ghanaiantimes.com.gh/gra-investigates-alleged-gh%c2%a2600-extortion-by-customs-officer-at-accra-airport/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-05T16:47:56.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has commenced investigations into an allegation that a Customs officer at the Accra International Airport collected GH¢600 from a TikToker without issuing…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NDC congratulates NPP on successful election of national executives",
+      "link": "https://ghanaiantimes.com.gh/ndc-congratulates-npp-on-successful-election-of-national-executives/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-05T16:45:43.000Z",
+      "summary": "The National Democratic Congress (NDC) has congratulated the New Patriotic Party (NPP) on the successful election of its new national executives. In a statement signed by its General…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Adenta Kumi accepts defeat after devastating loss in the NPP national election",
+      "link": "https://ghanaiantimes.com.gh/adenta-kumi-accepts-defeat-after-devastating-loss-in-the-npp-national-election/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-05T16:44:23.000Z",
+      "summary": "Alfred Ababio Kumi, popularly known as Adenta Kumi, has accepted defeat in his bid to become the National Youth Organiser of the New Patriotic Party (NPP). Mr Kumi polled 25 votes in the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "President Mahama urges Africans to turn health dependence into investment opportunity",
+      "link": "https://ghanaiantimes.com.gh/president-mahama-urges-africans-to-turn-health-dependence-into-investment-opportunity/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-05T16:42:29.000Z",
+      "summary": "Ghana’s President, John Dramani Mahama has called on African governments, financial institutions and private investors to reposition healthcare as a high-growth economic sector capable of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Golden Shuttlers storm World Juniors after continental success",
+      "link": "https://www.graphic.com.gh/sports/sports-news/golden-shuttlers-storm-world-juniors-after-continental-success.html",
       "source": "Graphic Sports",
-      "published": "2026-10-02T23:55:18.000Z",
-      "summary": "Ghana’s Golden Shuttlers produced an impressive opening day in the individual events of the 2026 All Africa U-19 Badminton Championship in Cairo, Egypt, with several players advancing to…",
+      "published": "2026-10-05T16:10:51.000Z",
+      "summary": "Ghana’s Golden Shuttlers head into the 2026 BWF World Junior Championships in Cairo with continental momentum after claiming four medals at the All-Africa U-19 Championships, including…",
       "categories": [
         "Sports News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/BADMINTON.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/BADMINTON2.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Abban eyes world title shot with Nettey challenge",
-      "link": "https://www.graphic.com.gh/sports/sports-news/abban-eyes-world-title-shot-with-nettey-challenge.html",
+      "title": "Northern Rumble: SP Sport takes boxing beyond Accra with Tamale showdown",
+      "link": "https://www.graphic.com.gh/sports/sports-news/northern-rumble-sp-sport-takes-boxing-beyond-accra-with-tamale-showdown.html",
       "source": "Graphic Sports",
-      "published": "2026-10-02T12:38:13.000Z",
-      "summary": "The nation’s best kept secret and world title hopeful Michael Abban will return to the ring at the Zile Events Centre in Accra when he takes on hard hitter Joseph Akai Nettey on December…",
+      "published": "2026-10-05T16:05:30.000Z",
+      "summary": "Tamale will become the latest frontier in Ghana boxing’s push beyond Accra when SP Sport Promotions stages its inaugural Northern Rumble at the Aliu Mahama Sports Stadium on December 5…",
       "categories": [
         "Sports News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/02/ABBAN.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/BOXERS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "AMA MCE urges traders to make cleanliness a daily habit",
+      "link": "https://www.graphic.com.gh/news/general-news/ama-mce-urges-traders-to-make-cleanliness-a-daily-habit.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-05T15:56:36.000Z",
+      "summary": "The Metropolitan Chief Officer for Accra, Michael Kpakpo Allotey, has urged traders to make cleanliness a daily responsibility rather than limiting it to designated sanitation exercises.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/ama.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Search for Black Stars’ saviour: No more quick fixes, warns Lamptey",
+      "link": "https://www.graphic.com.gh/sports/sports-news/search-for-black-stars-saviour-no-more-quick-fixes-warns-lamptey.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-05T15:54:49.000Z",
+      "summary": "Ghana are hunting for another Black Stars coach after yet another failed reset — the sixth different manager to handle the national team in seven years — and former international Nii…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/ODARTEY.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana Premier League: Medeama, FC Samartex battle for the top, Port City impress, Hearts fire blanks",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-premier-league-medeama-fc-samartex-battle-for-the-top-port-city-impress-hearts-fire-blanks.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-05T15:43:12.000Z",
+      "summary": "Defending champions Medeama SC and FC Samartex 1996 tightened their grip on the early Ghana Premier League title race with narrow victories on match day five, while newcomers Port City FC…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/GPL.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Salisu makes long-awaited injury return",
+      "link": "https://www.graphic.com.gh/sports/sports-news/salisu-makes-long-awaited-injury-return.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-05T15:27:17.000Z",
+      "summary": "Ghana defender Mohammed Salisu has taken another significant step in his recovery from a serious knee injury after featuring for 75 minutes in AS Monaco's 2-0 friendly victory over Italian…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/SALISU.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Fury wants President Trump for Joshua ringwalk",
+      "link": "https://www.graphic.com.gh/sports/sports-news/fury-wants-president-trump-for-joshua-ringwalk.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-05T15:21:29.000Z",
+      "summary": "Former heavyweight champion Tyson Fury plans to ask US President Donald Trump to lead his ringwalk before fighting Anthony Joshua. Fury and Joshua are set to meet in an long-awaiting…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/FURY.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "New date to be announced as GSA suspends Pre-Shipment Inspection for imported used vehicles",
+      "link": "https://www.graphic.com.gh/news/general-news/new-date-to-be-announced-as-gsa-suspends-pre-shipment-inspection-for-imported-used-vehicles.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-05T15:19:39.000Z",
+      "summary": "The Ghana Standards Authority (GSA) has suspended the Pre-Shipment Inspection exercise for imported used vehicles, with a new implementation date to be communicated in due course.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/01/Used-Cars.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Partey granted leave to travel following father’s death",
+      "link": "https://www.graphic.com.gh/sports/sports-news/partey-granted-leave-to-travel-following-fathers-death.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-05T15:06:48.000Z",
+      "summary": "Al Shabab have granted Ghanaian midfielder Thomas Partey special leave to travel to his home country following the death of his father. The Saudi Pro League club expressed its deepest…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/PARTEY_THOMAS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Fans in Keta back Ayew to contest GFA position",
+      "link": "https://www.graphic.com.gh/sports/sports-news/fans-in-keta-back-ayew-to-contest-gfa-position.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-05T14:56:45.000Z",
+      "summary": "Football fans in Keta have backed reports that former Black Stars captain André Dede Ayew is considering contesting the next Ghana Football Association (GFA) presidential election, to help…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/05/DEDE.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
