@@ -1,8 +1,8 @@
 // Global markets and the Ghana Stock Exchange.
 //
 // Writes markets-data.js: world indices, commodities, crypto and major currency pairs from
-// Yahoo Finance, plus every equity listed on the GSE. Runs alongside the live cedi quotes,
-// every 20 minutes, and keeps the last good figure for anything that fails to arrive.
+// Yahoo Finance, plus a full cedi exchange table. Runs alongside the live cedi quotes, every
+// 20 minutes, and keeps the last good figure for anything that fails to arrive.
 //
 // Run locally: node scripts/fetch-markets.mjs
 import dns from "node:dns";
@@ -44,28 +44,6 @@ export const SYMBOLS = {
   ]
 };
 
-// The GSE publishes through this open endpoint; the second is a fallback with the same shape.
-/* The Ghana Stock Exchange sells its own feed for a great deal of money, so every free source
- * is somebody republishing it. They are tried in turn and the log names which one answered —
- * from GitHub's servers the answer has been "none of them", which is why the list is now
- * longer and spread across four different hosts rather than two paths on one. */
-export const GSE_URLS = [
-  "https://dev.kwayisi.org/apis/gse/live",
-  "https://dev.kwayisi.org/apis/gse/equities",
-  "https://api.ghana-api.dev/api/v1/stock-market/live",
-  "https://api.ghana-api.dev/api/v1/stock-market/stocks"
-];
-// If no JSON endpoint answers, a published table is read instead. Parsed loosely on purpose:
-// any row whose first cell looks like a ticker and which carries a price is kept, so a change
-// of markup costs formatting rather than the data.
-export const GSE_PAGES = [
-  "https://afx.kwayisi.org/gse/",
-  "https://phionyxandacfe.org/market-intelligence/",
-  "https://www.mystocks.africa/exchanges/gse-ghana",
-  "https://ghanastockmarket.com/prices",
-  "https://ghanastockmarket.com/companies"
-];
-
 const wait = ms => new Promise(r => setTimeout(r, ms));
 
 export async function getJson(url) {
@@ -90,45 +68,6 @@ export async function getQuoteJson(url) {
     }
   }
   throw last;
-}
-
-// One row per listed company, read from the publisher's HTML table when the JSON is unavailable.
-export function parseGsePage(html) {
-  const rows = String(html).match(/<tr[\s>][\s\S]*?<\/tr>/gi) || [];
-  const clean = s => String(s).replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
-  // "MTNGH.GH" and "MTNGH" are the same company; the suffix is the venue, not the ticker
-  const tick = s => String(s).toUpperCase().replace(/\.(GH|GSE)$/i, "").trim();
-  const isTicker = s => /^[A-Z][A-Z0-9-]{1,7}$/.test(s);
-  // "GHS 6.67", "GH¢ 5.20" and "5.20" are all a price; "+3.3%" is not, and neither is a
-  // volume in the millions. The first plain number after the ticker is the one wanted.
-  const priceOf = s => {
-    const t = String(s);
-    if (/%/.test(t)) return null;
-    const m = /(\d[\d,]*\.?\d*)/.exec(t.replace(/\s/g, ""));
-    if (!m) return null;
-    const n = Number(m[1].replace(/,/g, ""));
-    return isFinite(n) && n > 0 && n < 1e6 ? n : null;
-  };
-  const out = [];
-  for (const tr of rows) {
-    const cells = (tr.match(/<t[dh][\s>][\s\S]*?<\/t[dh]>/gi) || []).map(clean);
-    if (cells.length < 3) continue;
-    // the ticker is usually first, sometimes second, behind the company name
-    let at = -1, code = "";
-    for (let i = 0; i < Math.min(3, cells.length); i++) {
-      const c = tick(cells[i]);
-      if (isTicker(c)) { at = i; code = c; break; }
-    }
-    if (at < 0) continue;
-    let price = null;
-    for (let i = at + 1; i < cells.length; i++) { price = priceOf(cells[i]); if (price != null) break; }
-    if (price == null) for (let i = 0; i < at; i++) { price = priceOf(cells[i]); if (price != null) break; }
-    if (price == null) continue;
-    // the company name: the first cell that is words rather than a number, ticker aside
-    const name = cells.find((c, i) => i !== at && /[A-Za-z]{3}/.test(c) && priceOf(c) == null) || code;
-    out.push({ name: code, company: name, price });
-  }
-  return out;
 }
 
 // Yahoo's chart reply -> the last price, what it closed at before, and when it was quoted
@@ -199,29 +138,63 @@ async function fetchCedis(log) {
   return {};
 }
 
-// The GSE feed gives one row per listed company. Shapes differ slightly between the two
-// endpoints, so this takes whichever fields are present and ignores anything unusable.
-export function parseGse(rows) {
-  if (!Array.isArray(rows)) return [];
-  return rows.map(r => {
-    // Publishers disagree about which field holds the ticker: one puts it in `name` with the
-    // company in `company`, another uses `symbol`. Take the first field that actually looks
-    // like a ticker rather than trusting any one name.
-    const candidates = [r.symbol, r.ticker, r.code, r.name].map(v => String(v || "").trim().toUpperCase());
-    const code = candidates.find(v => /^[A-Z][A-Z0-9.\-]{1,7}$/.test(v)) || candidates.find(Boolean) || "";
-    const price = Number(r.price ?? r.close ?? r.last ?? r.lastPrice ?? r.closing);
-    if (!code || !isFinite(price) || price <= 0) return null;
-    const change = Number(r.change);
-    const volume = Number(r.volume ?? r.vol);
-    return {
-      code,
-      name: String(r.company || r.companyName || r.longName || r.title || (r.name && String(r.name).toUpperCase() !== code ? r.name : "") || code).trim(),
-      price: +price.toFixed(2),
-      change: isFinite(change) ? +change.toFixed(2) : null,
-      pct: isFinite(change) && price - change > 0 ? +((change / (price - change)) * 100).toFixed(2) : null,
-      volume: isFinite(volume) ? Math.round(volume) : null
-    };
-  }).filter(Boolean).sort((a, b) => a.code.localeCompare(b.code));
+/* ---- the full exchange table ----------------------------------------------------
+ * One request returns what a single cedi buys in every currency the source carries —
+ * around 350 of them, including every African neighbour, the CFA franc and the majors.
+ * That is the whole Exchange portal in one file, refreshed on the same twenty-minute beat.
+ * The site keeps only the currencies it names, so a reader is never shown a code the page
+ * cannot label, and it stores the rate as cedis-per-unit, which is how Ghanaians quote it.
+ */
+const CEDI_TABLE = [
+  "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/ghs.json",
+  "https://latest.currency-api.pages.dev/v1/currencies/ghs.json"
+];
+// code -> [name, country or region]. Chosen for who actually reads this site: Ghana's
+// neighbours and trading partners, the currencies the diaspora sends money from, and the
+// majors. Anything not listed is dropped rather than shown as a bare code.
+export const CURRENCIES = {
+  USD: ["US dollar", "United States"], EUR: ["Euro", "Euro area"], GBP: ["British pound", "United Kingdom"],
+  CNY: ["Chinese yuan", "China"], JPY: ["Japanese yen", "Japan"], CHF: ["Swiss franc", "Switzerland"],
+  CAD: ["Canadian dollar", "Canada"], AUD: ["Australian dollar", "Australia"], INR: ["Indian rupee", "India"],
+  AED: ["UAE dirham", "United Arab Emirates"], SAR: ["Saudi riyal", "Saudi Arabia"], QAR: ["Qatari riyal", "Qatar"],
+  TRY: ["Turkish lira", "Türkiye"], BRL: ["Brazilian real", "Brazil"], RUB: ["Russian rouble", "Russia"],
+  SEK: ["Swedish krona", "Sweden"], NOK: ["Norwegian krone", "Norway"], DKK: ["Danish krone", "Denmark"],
+  SGD: ["Singapore dollar", "Singapore"], HKD: ["Hong Kong dollar", "Hong Kong"], KRW: ["South Korean won", "South Korea"],
+  NGN: ["Nigerian naira", "Nigeria"], XOF: ["CFA franc BCEAO", "West Africa"], XAF: ["CFA franc BEAC", "Central Africa"],
+  ZAR: ["South African rand", "South Africa"], KES: ["Kenyan shilling", "Kenya"], UGX: ["Ugandan shilling", "Uganda"],
+  TZS: ["Tanzanian shilling", "Tanzania"], RWF: ["Rwandan franc", "Rwanda"], ETB: ["Ethiopian birr", "Ethiopia"],
+  EGP: ["Egyptian pound", "Egypt"], MAD: ["Moroccan dirham", "Morocco"], TND: ["Tunisian dinar", "Tunisia"],
+  DZD: ["Algerian dinar", "Algeria"], LRD: ["Liberian dollar", "Liberia"], SLE: ["Sierra Leonean leone", "Sierra Leone"],
+  GMD: ["Gambian dalasi", "The Gambia"], GNF: ["Guinean franc", "Guinea"], CVE: ["Cape Verdean escudo", "Cape Verde"],
+  ZMW: ["Zambian kwacha", "Zambia"], BWP: ["Botswana pula", "Botswana"], MUR: ["Mauritian rupee", "Mauritius"],
+  NAD: ["Namibian dollar", "Namibia"], MWK: ["Malawian kwacha", "Malawi"], MZN: ["Mozambican metical", "Mozambique"],
+  AOA: ["Angolan kwanza", "Angola"], CDF: ["Congolese franc", "DR Congo"], ZWL: ["Zimbabwean dollar", "Zimbabwe"],
+  XDR: ["IMF special drawing right", "International Monetary Fund"]
+};
+
+export function parseCediTable(json) {
+  const r = json && json.ghs;
+  if (!r || !json.date) return null;
+  const rates = {};
+  for (const [code, [name, place]] of Object.entries(CURRENCIES)) {
+    const perCedi = r[code.toLowerCase()];
+    if (typeof perCedi !== "number" || !(perCedi > 0)) continue;
+    // stored as cedis per unit, which is how the rate is quoted in Ghana
+    rates[code] = { name, place, ghs: +(1 / perCedi).toPrecision(8), per: +perCedi.toPrecision(8) };
+  }
+  return Object.keys(rates).length ? { date: json.date, rates } : null;
+}
+
+async function fetchCediTable(log) {
+  for (const url of CEDI_TABLE) {
+    try {
+      const got = parseCediTable(await getJson(url));
+      if (!got) throw new Error("no cedi table in the reply");
+      log.push(`exchange table: ${Object.keys(got.rates).length} currencies, ${got.date}`);
+      return got;
+    } catch (e) { log.push(`exchange table ${url}: failed (${e.message})`); }
+  }
+  return null;
 }
 
 // Each instrument keeps its own trail of closing prices, one point a day, built up by the
@@ -245,6 +218,7 @@ export async function main() {
   const world = { ...(old.world || {}) };
 
   const cedis = await fetchCedis(log);
+  const exchange = await fetchCediTable(log) || old.exchange || null;
 
   for (const [group, list] of Object.entries(SYMBOLS)) {
     const kept = new Map((world[group] || []).map(x => [x.symbol, x]));
@@ -278,42 +252,17 @@ export async function main() {
     log.push(`${group}: ${got}/${list.length} fresh, ${world[group].length} held`);
   }
 
-  let ghana = old.ghana || { equities: [] };
-  for (const url of GSE_URLS) {
-    try {
-      const equities = parseGse(await getJson(url));
-      if (equities.length < 5) throw new Error(`only ${equities.length} rows`);
-      ghana = { updated: new Date().toISOString(), source: "Ghana Stock Exchange, via the GSE open data feed", sourceUrl: "https://gse.com.gh/", equities };
-      log.push(`GSE: ${equities.length} listed companies from ${url}`);
-      break;
-    } catch (e) { log.push(`GSE ${url}: failed (${e.message})`); }
-  }
-  // Still nothing from any JSON endpoint: read a published table instead.
-  if (!(ghana.equities || []).length) {
-    for (const page of GSE_PAGES) {
-      try {
-        const res = await fetch(page, { headers: { "User-Agent": UA, Accept: "text/html,*/*" }, signal: AbortSignal.timeout(25000) });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const equities = parseGse(parseGsePage(await res.text()));
-        if (equities.length < 5) throw new Error(`only ${equities.length} rows`);
-        ghana = { updated: new Date().toISOString(), source: "Ghana Stock Exchange, via a published price table", sourceUrl: "https://gse.com.gh/", equities };
-        log.push(`GSE: ${equities.length} listed companies from ${page}`);
-        break;
-      } catch (e) { log.push(`GSE ${page}: failed (${e.message})`); }
-    }
-  }
-
   // Always write. `world` and `ghana` both start from what the file already held, so a run that
   // fetched nothing simply rewrites the same prices — it can never empty the file. What it does
   // add is the log, and that is the point: when this job came back with nothing it wrote nothing,
   // so there was no way to see why from the site. Now the reason is in the file and on #status.
   save(FILE, "GDC_MARKETS", {
     updated: new Date().toISOString(),
-    note: "Market prices as last traded. World figures from Yahoo Finance; Ghana Stock Exchange prices from the GSE's open feed. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
-    source: "Yahoo Finance · Ghana Stock Exchange",
+    note: "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
+    source: "Yahoo Finance, with daily mid-market rates for the cedi",
     log,
     world,
-    ghana
+    exchange
   });
   console.log(log.join("\n"));
 }
