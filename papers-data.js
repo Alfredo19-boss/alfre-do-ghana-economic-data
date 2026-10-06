@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-06T19:48:42.530Z",
+  "updated": "2026-10-06T23:22:48.299Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,17 +25,116 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Team Volta wins NPA 2026 Staff Welfare Week Quiz",
-      "link": "https://www.myjoyonline.com/team-volta-wins-npa-2026-staff-welfare-week-quiz/",
+      "title": "Police arrest suspect over jewellery theft during fire outbreak",
+      "link": "https://www.myjoyonline.com/police-arrest-suspect-over-jewellery-theft-during-fire-outbreak/",
       "source": "MyJoyOnline",
-      "published": "2026-10-06T19:38:45.000Z",
-      "summary": "Team Volta has won the National Petroleum Authority's (NPA) 2026 Staff Welfare Week Quiz Competition after an impressive performance in a keenly contested event involving teams from across…",
+      "published": "2026-10-06T23:07:00.000Z",
+      "summary": "The Police in Koforidua have arrested Abubakar Abdul Latif, 32, for allegedly stealing female jewellery from a jewellery stand while firefighters battled a fire outbreak at Starlet 21…",
       "categories": [
-        "National",
-        "NPA",
-        "Staff Weldare Week"
+        "Crime",
+        "Fire Outbreak",
+        "jewellery theft",
+        "Koforidua"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-5.44.19-PM1-e1791315426336-1024x895.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-697-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EOCO returns Hanan’s £6,700, GH¢2,750 and devices after defence challenge",
+      "link": "https://www.myjoyonline.com/eoco-returns-hanans-6700-gh%c2%a22750-and-devices-after-defence-challenge/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T22:58:32.000Z",
+      "summary": "The Economic and Organised Crime Office (EOCO) has returned £6,700, GH¢2,750, two laptop computers and at least six mobile phones seized from former Ghana Buffer Stock Company CEO Hanan…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "EOCO",
+        "Hanan Abdul Wahab"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Hanna-Hanan-Abdul-Wahab-and-his-wife-FaizaSeiduWuni.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Opplift Youth Entrepreneurs Summit 2026 equips entrepreneurs with skills, mentorship and support",
+      "link": "https://www.myjoyonline.com/opplift-youth-entrepreneurs-summit-2026-equips-entrepreneurs-with-skills-mentorship-and-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T22:45:31.000Z",
+      "summary": "The maiden Opplift Youth Entrepreneurs Summit 2026, an initiative of Opplift, took place on Friday at the British Council Auditorium in Accra.",
+      "categories": [
+        "Economy",
+        "National",
+        "Opplift Youth Entrepreneurs Summit 2026"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-694.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rival clubs want range of punishments for Man City",
+      "link": "https://www.myjoyonline.com/rival-clubs-want-range-of-punishments-for-man-city/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T22:34:20.000Z",
+      "summary": "A number of Premier League clubs want Manchester City to face both \"retrospective punishments\" and future sanctions for their mass financial rule-breaking, sources have told BBC Sport.",
+      "categories": [
+        "Football",
+        "Manchester City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-693.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "link": "https://www.myjoyonline.com/tear-gas-in-paris-and-marseille-as-school-protests-grow-across-france/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T22:24:00.000Z",
+      "summary": "Hundreds of thousands of people have taken to the streets across France, as a wave of protests by high-school pupils spread to their parents, university students and unions.",
+      "categories": [
+        "International",
+        "France protests"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3804-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kane inspires England to win over Czech Republic in UEFA Nations League",
+      "link": "https://www.myjoyonline.com/kane-inspires-england-to-win-over-czech-republic-in-uefa-nations-league/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T22:15:00.000Z",
+      "summary": "Harry Kane celebrated his record-equalling 125th England cap with two goals in a comfortable UEFA Nations League victory against the Czech Republic at Wembley.",
+      "categories": [
+        "Football",
+        "England",
+        "Harry Kane"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-692.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Finland orders halt to work on two Google data centres",
+      "link": "https://www.myjoyonline.com/finland-orders-halt-to-work-on-two-google-data-centres/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T22:06:17.000Z",
+      "summary": "Finnish authorities have ordered a halt to building work at two planned Google data centres amid concerns over the clearance of more than 300 hectares of forest.",
+      "categories": [
+        "Technology",
+        "Finland",
+        "Google"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-688-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Substitute Merino scores twice as Spain win in Croatia",
+      "link": "https://www.myjoyonline.com/substitute-merino-scores-twice-as-spain-win-in-croatia/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-06T21:57:00.000Z",
+      "summary": "Arsenal midfielder Mikel Merino came off the bench to score twice as world champions Spain fought back from a goal down to beat Croatia in the Nations League and reach the quarter-finals.",
+      "categories": [
+        "Football",
+        "Croatia",
+        "Mikel Merino",
+        "Spain"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-691.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -49,126 +148,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/06/fisheries.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Team Eternity Ghana releases new album “The Promise – Phase 1”",
-      "link": "https://www.myjoyonline.com/team-eternity-ghana-releases-new-album-the-promise-phase-1/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T19:34:31.000Z",
-      "summary": "Ghanaian gospel music collective, Team Eternity Ghana (TEG), announces the release of the first phase of their highly anticipated new album, “The Promise.” The album is anchored on God’s…",
-      "categories": [
-        "Music",
-        "Team Eternity Ghana",
-        "The Promise"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/TeamEternityGhana_02-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Inside the human genome: Why scientists are still discovering who we are",
-      "link": "https://www.myjoyonline.com/inside-the-human-genome-why-scientists-are-still-discovering-who-we-are/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T19:31:31.000Z",
-      "summary": "More than two decades after scientists announced the completion of the first human genome sequence, the human genome continues to yield new insights.",
-      "categories": [
-        "Opinion",
-        "human genome",
-        "Scientists"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-16.59.51-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PAC grills Central Regional Coordinating Council over GH¢14.9m payments processed outside GIFMIS",
-      "link": "https://www.myjoyonline.com/pac-grills-central-regional-coordinating-council-over-gh%c2%a214-9m-payments-processed-outside-gifmis/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T19:23:56.000Z",
-      "summary": "The Public Accounts Committee (PAC) has questioned the Central Regional Coordinating Council over payment vouchers totalling GH¢14.88 million that were processed outside the Ghana…",
-      "categories": [
-        "National",
-        "News",
-        "Central Regional Coordinating Council",
-        "GIFMIS",
-        "Public Accounts Committee (PAC}"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/pac.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s industrial dream at risk? How the Yuan policy could deepen China dependence",
-      "link": "https://www.myjoyonline.com/ghanas-industrial-dream-at-risk-how-the-yuan-policy-could-deepen-china-dependence/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T19:23:07.000Z",
-      "summary": "Ghana's importers no longer have to hunt for US dollars to buy Chinese goods. Under a new Bank of Ghana policy, businesses can pay for goods from China directly in Chinese Yuan (RMB), and…",
-      "categories": [
-        "Analysis",
-        "Business",
-        "Data",
-        "Economy",
-        "HP Research 1",
-        "International",
-        "Investments",
-        "News",
-        "Research",
-        "China",
-        "dependence",
-        "Dream",
-        "Ghana's industrial potentials",
-        "Industry",
-        "Policy",
-        "yuan"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ghana-china-1024x572.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Teachers’ strike: Government has funds, but processes are causing delays – Education Committee Vice Chair",
-      "link": "https://www.myjoyonline.com/teachers-strike-government-has-funds-but-processes-are-causing-delays-education-committee-vice-chair/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T19:17:07.000Z",
-      "summary": "The Vice Chairman of Parliament’s Education Committee, Joseph Kumah, says government has funds to meet its financial obligations to teachers, but administrative processes are contributing…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "Funds",
-        "Government",
-        "Joseph Kumah",
-        "Strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/kumah-1024x708.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afenyo-Markin urges Christian Council to intervene over arrests linked to free speech",
-      "link": "https://www.myjoyonline.com/afenyo-markin-urges-christian-council-to-intervene-over-arrests-linked-to-free-speech/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T19:16:55.000Z",
-      "summary": "Minority Leader Alexander Afenyo-Markin has appealed to the Christian Council of Ghana to intervene in what he describes as the arrest and detention of citizens over issues relating to free…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Alexander Afenyo-Markin",
-        "Christian Council of Ghana",
-        "Free speech"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Afenyo-Markin-1-1024x591.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GCB Bank urges MSMEs to formalise businesses for easier access to finance",
-      "link": "https://www.myjoyonline.com/gcb-bank-urges-msmes-to-formalise-businesses-for-easier-access-to-finance/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T19:15:27.000Z",
-      "summary": "GCB Bank’s Head of Micro and Small Enterprises, Cedric McAddy, has urged micro, small and medium-sized enterprises (MSMEs) to formalise and register their businesses to improve their…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "GCB Bank",
-        "MSME"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-684.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ablakwa says Cabinet has approved Ghana's bid to join BRICS",
