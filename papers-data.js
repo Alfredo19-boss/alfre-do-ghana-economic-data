@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-06T23:22:48.299Z",
+  "updated": "2026-10-07T02:30:20.920Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,63 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "World Bank affirms Ghana’s growth rate at 4.8% in 2026",
+      "link": "https://www.myjoyonline.com/world-bank-affirms-ghanas-growth-rate-at-4-8-in-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T02:11:50.000Z",
+      "summary": "According to the Bretton Woods institution, the growth will be driven by the services sector, a recovery in oil and gas activities, and ongoing performance tied to structural and fiscal…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "Agriculture",
+        "GDP",
+        "Ghana",
+        "Industry",
+        "Services",
+        "World Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/World-Bank-new-1024x614.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cedi was worst African currency in quarter 2, 2026 – World Bank",
+      "link": "https://www.myjoyonline.com/cedi-was-worst-african-currency-in-quarter-2-2026-world-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T01:55:35.000Z",
+      "summary": "According to the World Bank, the escalation of the conflict in the Middle East initially exerted broad-based pressure on African currencies.",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "Africa Economic Update",
+        "Cedi",
+        "Dollar",
+        "World Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Dollar-and-cedi-730x424-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AI gains can lift three times as many people out of poverty in Ghana – World Bank",
+      "link": "https://www.myjoyonline.com/ai-gains-can-lift-three-times-as-many-people-out-of-poverty-in-ghana-world-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T01:27:16.000Z",
+      "summary": "Therefore, it said expanding access to affordable and reliable 5G, or the highest-quality mobile broadband technology feasible, requires a strategy that combines spatial concentration with…",
+      "categories": [
+        "Business",
+        "HP Business 3",
+        "Technology",
+        "5G",
+        "AI",
+        "Ghana",
+        "Github",
+        "World Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-4.54.22-AM-1024x617.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Police arrest suspect over jewellery theft during fire outbreak",
       "link": "https://www.myjoyonline.com/police-arrest-suspect-over-jewellery-theft-during-fire-outbreak/",
@@ -92,49 +149,6 @@ window.GDC_PAPERS = {
         "France protests"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3804-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kane inspires England to win over Czech Republic in UEFA Nations League",
-      "link": "https://www.myjoyonline.com/kane-inspires-england-to-win-over-czech-republic-in-uefa-nations-league/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T22:15:00.000Z",
-      "summary": "Harry Kane celebrated his record-equalling 125th England cap with two goals in a comfortable UEFA Nations League victory against the Czech Republic at Wembley.",
-      "categories": [
-        "Football",
-        "England",
-        "Harry Kane"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-692.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Finland orders halt to work on two Google data centres",
-      "link": "https://www.myjoyonline.com/finland-orders-halt-to-work-on-two-google-data-centres/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T22:06:17.000Z",
-      "summary": "Finnish authorities have ordered a halt to building work at two planned Google data centres amid concerns over the clearance of more than 300 hectares of forest.",
-      "categories": [
-        "Technology",
-        "Finland",
-        "Google"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-688-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Substitute Merino scores twice as Spain win in Croatia",
-      "link": "https://www.myjoyonline.com/substitute-merino-scores-twice-as-spain-win-in-croatia/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T21:57:00.000Z",
-      "summary": "Arsenal midfielder Mikel Merino came off the bench to score twice as world champions Spain fought back from a goal down to beat Croatia in the Nations League and reach the quarter-finals.",
-      "categories": [
-        "Football",
-        "Croatia",
-        "Mikel Merino",
-        "Spain"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-691.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
