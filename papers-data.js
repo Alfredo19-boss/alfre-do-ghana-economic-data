@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-07T09:09:17.631Z",
+  "updated": "2026-10-07T16:25:39.580Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,324 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "6th Inter Tourism Expo comes off in Cape Coast this October; register now",
+      "link": "https://www.myjoyonline.com/6th-inter-tourism-expo-comes-off-in-cape-coast-this-october-register-now/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T16:07:43.000Z",
+      "summary": "Businesses, investors and tourism stakeholders are being invited to register for the sixth Inter Tourism Expo, with its conference scheduled for October 21–23, 2026, at the Ridge Royal…",
+      "categories": [
+        "Business",
+        "HP Business 4",
+        "National",
+        "News",
+        "Cape Coast",
+        "Tourism",
+        "tourism expo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-3.51.15-PM-1024x936.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Afenyo-Markin accuses government of diverting attention from cocaine seizures linked to Ghana",
+      "link": "https://www.myjoyonline.com/afenyo-markin-accuses-government-of-diverting-attention-from-cocaine-seizures-linked-to-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T16:07:40.000Z",
+      "summary": "The Minority Leader in Parliament, Alexander Afenyo-Markin, has accused the government of using political distractions and high-profile arrests to divert public attention from Ghana’s…",
+      "categories": [
+        "National",
+        "Alexander Afenyo-Markin",
+        "Cocaine trafficking"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Afenyo-Markin-1-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GJA gives Armed Forces 14 days to account for alleged assaults on Sika Official, Bullet TV’s Philip Abutiate",
+      "link": "https://www.myjoyonline.com/gja-gives-armed-forces-14-days-to-account-for-alleged-assaults-on-sika-official-bullet-tvs-philip-abutiate/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T16:05:23.000Z",
+      "summary": "The Ghana Journalists Association (GJA) has given the Ghana Armed Forces a 14-day deadline to provide a comprehensive account of investigations into the alleged assault of two journalists…",
+      "categories": [
+        "National",
+        "Bullet TV journalist Philip Abutiate",
+        "Ghana Journalists Association (GJA)",
+        "Sika Official"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-15.12.25-e1791387672224-1024x584.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PAC gives CWSA 30 days to recover GH¢10m in unpaid water bills from police, army, hospitals, other public institutions",
+      "link": "https://www.myjoyonline.com/pac-gives-cwsa-30-days-to-recover-gh10m-in-unpaid-water-bills-from-police-army-hospitals-other-public-institutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T16:03:16.000Z",
+      "summary": "The Public Accounts Committee (PAC) has given the Community Water and Sanitation Agency (CWSA) 30 days to recover GH¢10 million in unpaid water bills owed by public institutions.",
+      "categories": [
+        "National",
+        "News",
+        "Community water agency",
+        "Water"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Water-and-ECG-762x424-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Major Accra roads to get facelift ahead of Ghana’s 70th Independence anniversary – Agbodza",
+      "link": "https://www.myjoyonline.com/major-accra-roads-to-get-facelift-ahead-of-ghanas-70th-independence-anniversary-agbodza/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T15:42:24.000Z",
+      "summary": "Roads Minister Kwame Governs Agbodza has announced plans for a major facelift of principal roads across Accra ahead of Ghana’s 70th Independence anniversary in March 2027.",
+      "categories": [
+        "National",
+        "Agbodza",
+        "Ghana",
+        "Independence celebrations",
+        "Roads"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/581930271_1159124833090370_2016120966736876188_n-e1774609976861-1140x570-1-1024x512.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Account for GH¢650bn allocated to existing programmes before new economy – Oppong Nkrumah to gov’t",
+      "link": "https://www.myjoyonline.com/account-for-gh%c2%a2650bn-allocated-to-existing-programmes-before-new-economy-oppong-nkrumah-to-govt/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T15:30:48.000Z",
+      "summary": "Ranking Member on Parliament’s Economy and Development Committee, Kojo Oppong Nkrumah, has urged the government to account for funds allocated to its existing economic programmes before…",
+      "categories": [
+        "National",
+        "News",
+        "Kojo Oppong Nkrumah",
+        "new economy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Oppong-Nkrumah-1024x514.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘You’re an action man’ – Abena Osei-Asare hails Rent Commissioner’s hostel fee crackdown",
+      "link": "https://www.myjoyonline.com/youre-an-action-man-abena-osei-asare-hails-rent-commissioners-hostel-fee-crackdown/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T15:30:08.000Z",
+      "summary": "The Chairperson of Parliament’s Public Accounts Committee (PAC), Abena Osei-Asare, has described the Acting Rent Control Commissioner Frederick Opoku as an “action man” following his recent…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "Abena Osei-Asare",
+        "Frederick Opoku"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/oh-you-are-an-action-man-pac-cha.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian, African boxers set to benefit from IBA’s multimillion-dollar revolution",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghanaian-african-boxers-set-to-benefit-from-ibas-multimillion-dollar-revolution.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-07T15:26:34.000Z",
+      "summary": "Ghanaian boxers and other African fighters stand to benefit from a major expansion in prize money and competition opportunities following the launch of the International Boxing…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/IBA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Mahama directs Finance Minister to allocate GH¢1bn for Housing Fund in 2027 Budget",
+      "link": "https://www.myjoyonline.com/mahama-directs-finance-minister-to-allocate-gh%c2%a21bn-for-housing-fund-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T15:23:35.000Z",
+      "summary": "President John Dramani Mahama has directed the Minister of Finance to allocate GH¢1 billion in the 2027 Budget as the government’s contribution to a GH¢3 billion National Housing Fund (NHF).",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "2027 Budget",
+        "Finance Minister",
+        "Housing fund",
+        "President John Dramani Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/pres_mahama1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "When the Stars stop shining: Rescuing Ghana football",
+      "link": "https://www.graphic.com.gh/sports/sports-news/when-the-stars-stop-shining-rescuing-ghana-football.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-07T15:23:08.000Z",
+      "summary": "Six days, two defeats, zero points. That is the harsh summary of the Black Stars' opening to the 2027 Africa Cup of Nations qualifiers, and it should end any lingering denial that Ghana…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Mar/04/starsee.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "President Mahama proposes financing scheme to complete unfinished houses",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-proposes-financing-scheme-to-complete-unfinished-houses.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T14:17:15.000Z",
+      "summary": "President John Dramani Mahama has proposed a financing scheme to help owners of unfinished houses raise the money needed to complete their properties and move into them.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/May/03/mahaama1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Arteta signs new Arsenal contract until 2030",
+      "link": "https://www.graphic.com.gh/sports/sports-news/arteta-signs-new-arsenal-contract-until-2030.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-07T13:51:47.000Z",
+      "summary": "Arsenal manager Mikel Arteta has signed a new contract with the Premier League champions that will keep him at the club until 2030, declaring that “this is only the beginning” of the club’s…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/ARTETA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "President Mahama directs Finance Minister to allocate GH¢1bn for Housing Fund in 2027 Budget",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-directs-finance-minister-to-allocate-ghc1bn-for-housing-fund-in-2027-budget.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T13:50:51.000Z",
+      "summary": "President John Dramani Mahama has directed the Minister of Finance to allocate GH¢1 billion in the 2027 Budget as the government’s contribution to a GH¢3 billion National Housing Fund (NHF).",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Mar/04/pres_mahama1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "CLOGSAG Acting President cautions against disputed appointments",
+      "link": "https://www.graphic.com.gh/news/general-news/clogsag-acting-president-cautions-against-disputed-appointments.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T13:50:22.000Z",
+      "summary": "The Office of the Acting President of the Civil and Local Government Staff Association of Ghana (CLOGSAG) has cautioned members against implementing purported new appointments being…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2022/jan/21/CLOGSAG_building.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "South Africa, six others eye historic bid to host 2036 Olympics",
+      "link": "https://www.graphic.com.gh/sports/sports-news/south-africa-eyes-historic-bid-to-host-2036-olympics.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-07T13:42:45.000Z",
+      "summary": "The International Olympic Committee (IOC) has confirmed that South Africa has expressed interest in becoming the first African country to host the Summer Olympic Games in 2036. South Africa…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/OLYMPICS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Gov't won’t fund National Cathedral; Contractor ordered to hand over site as A-G reviews forensic audit",
+      "link": "https://www.graphic.com.gh/news/general-news/govt-wont-fund-national-cathedral.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T13:41:44.000Z",
+      "summary": "The government will not spend “one single cedi” on the National Cathedral, the Minister of Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has said.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2022/jan/04/CATHEDRAL_2023_PRAYERS1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GOC meets GFA to chart Olympic qualification pathway for Black Queens, Meteors",
+      "link": "https://www.graphic.com.gh/sports/sports-news/goc-meets-gfa-to-chart-olympic-qualification-pathway-for-black-queens-meteors.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-07T13:04:19.000Z",
+      "summary": "The Ghana Olympic Committee (GOC) has held a high-level strategic meeting with the Ghana Football Association (GFA) to discuss strategies aimed at ending Ghana football’s prolonged absence…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/GOC.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Former NAFCO boss Hanan case adjourned over access to seized devices",
+      "link": "https://www.graphic.com.gh/news/general-news/hanan-case-adjourned-over-access-to-seized-devices.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T12:42:44.000Z",
+      "summary": "The trial of the former Chief Executive Officer of the National Food and Buffer Stock Company (NAFCo), Hanan Abdul-Wahab Aludiba, and his wife, Faiza Seidu Wuni, has been adjourned to…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/dame.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Minority calls for removal of Sports Minister and GTA CEO over World Cup visa claims",
+      "link": "https://www.graphic.com.gh/sports/sports-news/minority-calls-for-removal-of-sports-minister-and-gta-ceo-over-world-cup-visa-claims.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-07T12:29:46.000Z",
+      "summary": "The Minority in Parliament has called for the removal of the Minister for Sports and Recreation, Mr Kofi Adams, and the Chief Executive Officer of the Ghana Tourism Authority (GTA), Mrs…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Mar/04/adams1.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Christian Council calls for protection of mission schools’ religious identity",
+      "link": "https://www.graphic.com.gh/news/general-news/christian-council-calls-for-protection-of-mission-schools-religious-identity.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T11:55:55.000Z",
+      "summary": "The Christian Council of Ghana (CCG) has called for reforms to protect students’ religious freedoms while preserving the legitimate religious ethos of mission-founded schools. The Council…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/GNA.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ronaldo wants Portugal 'punishment' but not retiring",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ronaldo-wants-portugal-punishment-but-not-retiring.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-07T11:48:40.000Z",
+      "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus twice \"broke his word\". The…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Mar/04/Ronny26.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "President Mahama tells Indian investors: Ghana is open for business",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-tells-indian-investors-ghana-is-open-for-business.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T11:15:14.000Z",
+      "summary": "President John Dramani Mahama has declared that Ghana is open for business, inviting Indian companies to capitalise on expanding opportunities in the country's pharmaceutical and vaccine…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Mar/04/indiaGH.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana Water to publish names of illegal water connection offenders",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-water-to-publish-names-of-illegal-water-connection-offenders.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T11:05:58.000Z",
+      "summary": "The Ghana Water Limited (GWL) says it will publish the names of people who have done illegal water connection and have also failed to report to the company after they were caught for their…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/gwm.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hogbetsotso 2026 to promote tourism, local businesses",
+      "link": "https://ghanaiantimes.com.gh/hogbetsotso-2026-to-promote-tourism-local-businesses/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T09:11:14.000Z",
+      "summary": "THE 64th Hogbetsotso Festival of the chiefs and people of the Anlo State has been designed to attract tourists, empower local businesses, showcase the rich cultural heritage of Anlo and…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Harmonise biotech regulations to attract investment – Minister",
       "link": "https://ghanaiantimes.com.gh/harmonise-biotech-regulations-to-attract-investment-minister/",
@@ -62,40 +380,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Bawumia has the dignity to lead and the vision Ghana needs – Gabby",
-      "link": "https://www.myjoyonline.com/bawumia-has-the-dignity-to-lead-and-the-vision-ghana-needs-gabby/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:59:35.000Z",
-      "summary": "New Patriotic Party (NPP) stalwart Gabby Asare Otchere-Darko has praised the leadership qualities of former Vice-President and NPP presidential candidate Dr Mahamudu Bawumia, saying he has…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Politics",
-        "Dr Mahamadu Bawumia",
-        "Gabby Asare Otchere Darko",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Politics-Bawumia-Victory-e1730228334706.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GOC, GFA chart Olympic qualification roadmap for Black Queens, Black Meteors",
-      "link": "https://www.myjoyonline.com/goc-gfa-chart-olympic-qualification-roadmap-for-black-queens-black-meteors/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:58:15.000Z",
-      "summary": "The crucial engagement was convened specifically to map out a collaborative roadmap and discuss the rigorous qualification pathways for both national teams as they eye tickets to the 2028…",
-      "categories": [
-        "Football",
-        "National",
-        "Black Meteors",
-        "Black Queens",
-        "GFA",
-        "GOC"
-      ],
-      "image": "https://cdn.ghanafa.org/2026/10/image1-2026-10-06T183844.417-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Djokovic claims 102nd career title",
       "link": "https://ghanaiantimes.com.gh/djokovic-claims-102nd-career-title/",
       "source": "Ghanaian Times",
@@ -106,20 +390,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Absa InspireMe 2026 highlights opportunities for women-led business growth",
-      "link": "https://www.myjoyonline.com/absa-inspireme-2026-highlights-opportunities-for-women-led-business-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:57:11.000Z",
-      "summary": "Absa Bank Ghana Ltd’s InspireME 2026 conference brought together women entrepreneurs, business leaders and professionals to explore business growth, innovation, access to opportunities and…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Absa InspireMe 2026"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-707.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ronaldo out of Portugal squad under Jesus",
@@ -134,23 +404,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "The only thing that flows regularly is THE BILL",
-      "link": "https://www.myjoyonline.com/the-only-thing-that-flows-regularly-is-the-bill/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:51:56.000Z",
-      "summary": "Perhaps there is a perfectly reasonable explanation for every cedi on my bill. Excellent. Then show me the opening meter reading, the closing meter reading, the units consumed, the tariff…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Billing",
-        "ECG",
-        "Power",
-        "PURC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Jimmy-Aglah.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Olise nets brace in France comeback",
       "link": "https://ghanaiantimes.com.gh/olise-nets-brace-in-france-comeback/",
       "source": "Ghanaian Times",
@@ -161,36 +414,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "KGL U17 Colts 2026: Prempeh Elite Academy lead Group A as Western Region secures top spot in Group B",
-      "link": "https://www.myjoyonline.com/kgl-u17-colts-2026-prempeh-elite-academy-lead-group-a-as-western-region-secures-top-spot-in-group-b/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:49:07.000Z",
-      "summary": "The Academy side underlined their dominance with a commanding 5-0 victory over Volta Region on Tuesday, October 6, taking their tally to nine points from three matches.",
-      "categories": [
-        "Football",
-        "National",
-        "KGL U17 Colts"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Western-Region.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘You’ve never been touched by any scandal’ – Gabby celebrates Bawumia on his 63rd birthday",
-      "link": "https://www.myjoyonline.com/youve-never-been-touched-by-any-scandal-gabby-celebrates-bawumia-on-his-63rd-birthday/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:48:09.000Z",
-      "summary": "New Patriotic Party (NPP) stalwart Gabby Asare Otchere-Darko has praised former Vice-President Dr Mahamudu Bawumia’s character, saying he has never known him to be touched by scandal during…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Dr Bawumia",
-        "Gabby Asare Otchere Darko",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Bawumia.webp",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Police raid Djibouti FA",
@@ -205,144 +428,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Dubois eyes Fury fight after Wardley rematch",
-      "link": "https://ghanaiantimes.com.gh/dubois-eyes-fury-fight-after-wardley-rematch/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T08:46:23.000Z",
-      "summary": "DANIEL Dubois believes he can set himself on a collision course with Tyson Fury. Dubois, the WBO world champion, thinks if he and Fury win their next fights they can then meet in another…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "WPL 2026/27: GFA unveils dates for start of new season as Ampem Darkoa Ladies begin title defence",
-      "link": "https://www.myjoyonline.com/wpl-2026-27-gfa-unveils-dates-for-start-of-new-season-as-ampem-darkoa-ladies-begin-title-defence/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:39:45.000Z",
-      "summary": "The league will commence on the weekend of October 23–26, 2026, with matches scheduled across the two zones, and will run until the weekend of April 9–12, 2027.",
-      "categories": [
-        "Football",
-        "Ampem Darkoa Ladies",
-        "GFA",
-        "WPL"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ampem-DL-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Embassy in Washington pays tribute to late academic Dr Kofi Akamani",
-      "link": "https://www.myjoyonline.com/ghana-embassy-in-washington-pays-tribute-to-late-academic-dr-kofi-akamani/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T08:39:10.000Z",
-      "summary": "The Embassy of Ghana in Washington, D.C., has paid tribute to the late Dr Kofi Akamani, a Ghanaian-born academic and Assistant Professor of Forest Recreation and Conservation Social Science…",
-      "categories": [
-        "In Focus",
-        "National",
-        "Ghana Embassy",
-        "Kofi Akamani"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/5-4-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EOCO returns Hanan’s £6,700, GH¢2,750, laptops and phones after lawyers protest",
-      "link": "https://www.graphic.com.gh/news/general-news/eoco-returns-hanans-gbp6-700-ghc2-750-laptops-and-phones-after-lawyers-protest.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-07T04:47:38.000Z",
-      "summary": "The Economic and Organised Crimes Office (EOCO) has returned £6,700, GH¢2,750, two laptop computers and six mobile phones seized from Hanan Abdul, the former CEO of the Ghana Buffer Stock…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/nov/04/archerr_raymond.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Scammers target ECG customers with fake meter sales and MoMo payment calls",
-      "link": "https://www.graphic.com.gh/news/general-news/scammers-target-ecg-customers-with-fake-meter-sales-and-momo-payment-calls.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-07T04:33:31.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has issued an alert warning customers about an ongoing scam involving fraudulent phone calls, fake meter sales, and mobile money (MoMo) extortion…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/mar/06/as.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Suspend offshore gold exploration licence - Fisheries association to gov't",
-      "link": "https://www.graphic.com.gh/news/general-news/suspend-offshore-gold-exploration-licence-fisheries-association-to-govt.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T19:35:53.000Z",
-      "summary": "The National Fisheries Association of Ghana (NAFAG) has appealed to the government to suspend an offshore reconnaissance licence granted to Gold Coast GRC Ghana Ltd. for gold exploration…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/06/fisheries.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ablakwa says Cabinet has approved Ghana's bid to join BRICS",
-      "link": "https://www.graphic.com.gh/news/politics/ablakwa-says-cabinet-has-approved-ghanas-bid-to-join-brics.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T18:14:37.000Z",
-      "summary": "The Cabinet has approved Ghana's bid to join BRICS, the Minister of Foreign Affairs,Samuel Okudzeto Ablakwa, has announced. Brazil, Russia, India, and China orginally formed BRIC as an…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/06/ablakwa_India.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Court grants bail to banker accused of stealing GH¢1million",
-      "link": "https://www.graphic.com.gh/news/general-news/court-grants-bail-to-banker-accused-of-stealing-ghc1million.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T17:23:39.000Z",
-      "summary": "A 28-year-old banker has appeared before the Adenta Circuit Court for allegedly stealing GH¢1 million from a community bank.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/sept/06/hammer.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "CSA opens Cyber Security Awareness Month with call for stronger collaboration",
-      "link": "https://www.graphic.com.gh/news/general-news/csa-opens-cyber-security-awareness-month-with-call-for-stronger-collaboration.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T17:01:23.000Z",
-      "summary": "The Cyber Security Authority (CSA) has marked its fifth anniversary with a call for stronger collaboration across Ghana's digital finance ecosystem, urging institutions to move beyond broad…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Compensation coming for La Pleasure Beach demolition victims",
-      "link": "https://www.graphic.com.gh/news/general-news/compensation-coming-for-la-pleasure-beach-demolition-victims.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T15:50:19.000Z",
-      "summary": "A committee is to be constituted by early next week to determine appropriate compensation for persons whose businesses and properties were affected by the recent demolition of facilities at…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/naa1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament grills Central Regional Coordinating Council over GH¢14.9m payments processed outside GIFMIS",
-      "link": "https://www.graphic.com.gh/news/general-news/pac-grills-central-rcc-over-ghc14-9m-payments-processed-outside-gifmis.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T15:00:31.000Z",
-      "summary": "The Public Accounts Committee (PAC) has questioned the Central Regional Coordinating Council over payment vouchers totalling GH¢14.88 million that were processed outside the Ghana…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/06/pac.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Owner, businessman and player: Messi has big plans as a golden era ends",
       "link": "https://www.graphic.com.gh/sports/sports-news/owner-businessman-player-messi-has-big-plans-as-a-golden-era-ends.html",
       "source": "Graphic Sports",
@@ -352,90 +437,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/06/Lionel.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Golden Shuttlers storm World Juniors after continental success",
-      "link": "https://www.graphic.com.gh/sports/sports-news/golden-shuttlers-storm-world-juniors-after-continental-success.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-05T16:10:51.000Z",
-      "summary": "Ghana’s Golden Shuttlers head into the 2026 BWF World Junior Championships in Cairo with continental momentum after claiming four medals at the All-Africa U-19 Championships, including…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/BADMINTON2.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Northern Rumble: SP Sport takes boxing beyond Accra with Tamale showdown",
-      "link": "https://www.graphic.com.gh/sports/sports-news/northern-rumble-sp-sport-takes-boxing-beyond-accra-with-tamale-showdown.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-05T16:05:30.000Z",
-      "summary": "Tamale will become the latest frontier in Ghana boxing’s push beyond Accra when SP Sport Promotions stages its inaugural Northern Rumble at the Aliu Mahama Sports Stadium on December 5…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/BOXERS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Search for Black Stars’ saviour: No more quick fixes, warns Lamptey",
-      "link": "https://www.graphic.com.gh/sports/sports-news/search-for-black-stars-saviour-no-more-quick-fixes-warns-lamptey.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-05T15:54:49.000Z",
-      "summary": "Ghana are hunting for another Black Stars coach after yet another failed reset — the sixth different manager to handle the national team in seven years — and former international Nii…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/ODARTEY.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana Premier League: Medeama, FC Samartex battle for the top, Port City impress, Hearts fire blanks",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-premier-league-medeama-fc-samartex-battle-for-the-top-port-city-impress-hearts-fire-blanks.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-05T15:43:12.000Z",
-      "summary": "Defending champions Medeama SC and FC Samartex 1996 tightened their grip on the early Ghana Premier League title race with narrow victories on match day five, while newcomers Port City FC…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/GPL.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Salisu makes long-awaited injury return",
-      "link": "https://www.graphic.com.gh/sports/sports-news/salisu-makes-long-awaited-injury-return.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-05T15:27:17.000Z",
-      "summary": "Ghana defender Mohammed Salisu has taken another significant step in his recovery from a serious knee injury after featuring for 75 minutes in AS Monaco's 2-0 friendly victory over Italian…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/SALISU.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Fury wants President Trump for Joshua ringwalk",
-      "link": "https://www.graphic.com.gh/sports/sports-news/fury-wants-president-trump-for-joshua-ringwalk.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-05T15:21:29.000Z",
-      "summary": "Former heavyweight champion Tyson Fury plans to ask US President Donald Trump to lead his ringwalk before fighting Anthony Joshua. Fury and Joshua are set to meet in an long-awaiting…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/FURY.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Partey granted leave to travel following father’s death",
-      "link": "https://www.graphic.com.gh/sports/sports-news/partey-granted-leave-to-travel-following-fathers-death.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-05T15:06:48.000Z",
-      "summary": "Al Shabab have granted Ghanaian midfielder Thomas Partey special leave to travel to his home country following the death of his father. The Saudi Pro League club expressed its deepest…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/PARTEY_THOMAS.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
