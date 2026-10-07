@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-07T19:52:24.186Z",
+  "updated": "2026-10-07T21:26:49.380Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,124 +25,136 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Abuse case: Nana Akua’s husband Harold unable to appear in court after hospital admission – Police",
-      "link": "https://www.myjoyonline.com/abuse-case-nana-akuas-husband-harold-unable-to-appear-in-court-after-hospital-admission-police/",
+      "title": "327 entries submitted for 30th GJA Media Awards",
+      "link": "https://www.myjoyonline.com/327-entries-submitted-for-30th-gja-media-awards/",
       "source": "MyJoyOnline",
-      "published": "2026-10-07T19:35:27.000Z",
-      "summary": "Harold Norman, who is at the centre of domestic abuse allegations involving his wife Rosemond Akua Adobea, popularly known as Nana Akua, was unable to appear before court on Wednesday…",
+      "published": "2026-10-07T21:12:01.000Z",
+      "summary": "A total of 327 entries from 206 journalists have been submitted for the 30th Ghana Journalists Association Media Awards, one of the highest numbers recorded in recent years.",
       "categories": [
-        "HP News 1",
-        "National"
+        "National",
+        "30th GJA Media Awards"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/imagesss.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/Albert_Dwumfour_WPFD_2025.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahmud Kabore picks NDC Ashanti Regional Communication Officer nomination forms",
-      "link": "https://www.myjoyonline.com/mahmud-kabore-picks-ndc-ashanti-regional-communication-officer-nomination-forms/",
+      "title": "Mahama proposes rent-to-own scheme for unfinished houses",
+      "link": "https://www.myjoyonline.com/mahama-proposes-rent-to-own-scheme-for-unfinished-houses/",
       "source": "MyJoyOnline",
-      "published": "2026-10-07T19:29:16.000Z",
-      "summary": "Mahmud Kabore has picked up nomination forms to contest the position of Ashanti Regional Communication Officer of the governing National Democratic Congress (NDC). Kabore said he intends to…",
+      "published": "2026-10-07T21:10:06.000Z",
+      "summary": "President John Mahama has proposed a financing arrangement to help complete thousands of unfinished houses across the country and convert them into rent-to-own homes.",
       "categories": [
+        "National",
+        "President John Mahama",
+        "rent-to-own scheme",
+        "unfinished houses"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mahama_egypt.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama wants banks to introduce affordable housing loans within six months",
+      "link": "https://www.myjoyonline.com/mahama-wants-banks-to-introduce-affordable-housing-loans-within-six-months/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T21:09:07.000Z",
+      "summary": "President John Mahama has tasked financial institutions with committing to introducing or revising affordable housing loan products within the next six months.",
+      "categories": [
+        "National",
+        "affordable housing loans",
+        "Banks",
+        "President John Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos from National Conference on Housing Finance",
+      "link": "https://www.myjoyonline.com/photos-from-national-conference-on-housing-finance/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T21:05:22.000Z",
+      "summary": "The National Conference on Housing Finance brought together stakeholders from across Ghana’s housing and financial sectors to deliberate on ways to improve access to affordable housing…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "National Conference on Housing Finance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-20.16.32-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Italy, Ghana unite 40 artists for ‘Beyond Creation’ exhibition at Accra Art Centre",
+      "link": "https://www.myjoyonline.com/italy-ghana-unite-40-artists-for-beyond-creation-exhibition-at-accra-art-centre/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T20:46:33.000Z",
+      "summary": "The Accra Art Centre has opened its doors to the public for the premiere of 'Beyond Creation: Humanity, Nature and Spirituality - A Universal Message', an international contemporary art…",
+      "categories": [
+        "Art & Design",
+        "Beyond Creation",
+        "Ghana",
+        "Italy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-8.34.46-PM3-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Premature to call for Sports Minister’s removal while CID probe is ongoing – Ernest Norgbey",
+      "link": "https://www.myjoyonline.com/premature-to-call-for-sports-ministers-removal-while-cid-probe-is-ongoing-ernest-norgbey/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T20:26:33.000Z",
+      "summary": "Chairman of Parliament’s Youth and Sports Committee, Ernest Norgbey, says it would be premature to call for the removal of Sports Minister Kofi Adams while investigations into alleged…",
+      "categories": [
+        "National",
+        "News",
+        "CID",
+        "Ernest Norgbey",
+        "Sports Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Kofi-Adams-3-636x424-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Former NPP Chairman, Minority Leader Odoi-Sykes dies at 98",
+      "link": "https://www.graphic.com.gh/news/general-news/former-npp-chairman-minority-leader-odoi-sykes-dies-at-98.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T20:20:58.000Z",
+      "summary": "Former National Chairman of the New Patriotic Party (NPP), Samuel Arthur Odoi-Sykes, has died at the age of 98.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/sykes.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NPP mourns Samuel Arthur Odoi-Sykes",
+      "link": "https://www.myjoyonline.com/npp-mourns-samuel-arthur-odoi-sykes/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T20:09:24.000Z",
+      "summary": "The New Patriotic Party (NPP) has expressed deep sorrow over the death of Ambassador Samuel Arthur Odoi-Sykes, describing him as one of the founding pillars of the party and a distinguished…",
+      "categories": [
+        "HP News 3",
+        "National",
         "Politics",
-        "Regional",
-        "Ashanti Region",
-        "Mahmud Kabore",
-        "NDC"
+        "NPP",
+        "Samuel Arthur Odoi-Sykes"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/One-1.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-5.20.48-PM-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "KNUST Career Services pioneer Selina Doe Angmor named among 2026 40 Under 40 honourees",
-      "link": "https://www.myjoyonline.com/knust-career-services-pioneer-selina-doe-angmor-named-among-2026-40-under-40-honourees/",
+      "title": "Stay out of World Cup visa probe to avoid interfering with CID investigations – Ernest Norgbey to politicians",
+      "link": "https://www.myjoyonline.com/stay-out-of-world-cup-visa-probe-to-avoid-interfering-with-cid-investigations-ernest-norgbey-to-politicians/",
       "source": "MyJoyOnline",
-      "published": "2026-10-07T19:27:33.000Z",
-      "summary": "Mrs Selina Doe Angmor, pioneer and first Director of the KNUST Career Services Centre, has been recognised among the 2026 40 Under 40 honourees in the Human Resources category. She received…",
-      "categories": [
-        "Events",
-        "40 Under 40",
-        "Career services",
-        "KNUST",
-        "Selina Doe Angmor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-7-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nana Akua domestic abuse case: Police to arraign husband after hospital discharge",
-      "link": "https://www.myjoyonline.com/nana-akua-domestic-abuse-case-police-to-arraign-husband-after-hospital-discharge/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T19:25:01.000Z",
-      "summary": "The Ghana Police Service says it will arraign Harold Norman immediately after his discharge from hospital in connection with domestic abuse allegations involving his wife and fashion icon…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Harold Norman",
-        "Nana Akua Addo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NHIS coverage rises to 70% after government uncaps levy – Health Minister",
-      "link": "https://www.myjoyonline.com/nhis-coverage-rises-to-70-after-government-uncaps-levy-health-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T19:17:50.000Z",
-      "summary": "The Minister of Health, Kwabena Mintah Akandoh, says coverage under the National Health Insurance Scheme (NHIS) has risen from 57 per cent to about 70 per cent in less than two years.",
-      "categories": [
-        "Health",
-        "National",
-        "Kwabena Mintah Akandoh",
-        "National Health Insurance Scheme (NHIS)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Akandoh-e1788879014360-1024x863.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Cup visa scandal: I’ll go after anyone who dents Mahama’s gov’t – Ernest Norgbey",
-      "link": "https://www.myjoyonline.com/world-cup-visa-scandal-ill-go-after-anyone-who-dents-mahamas-govt-ernest-norgbey/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T19:09:41.000Z",
-      "summary": "Chairman of Parliament’s Youth and Sports Committee, Ernest Norgbey, says he will not shield any individual found to have engaged in wrongdoing in connection with the controversy…",
+      "published": "2026-10-07T19:58:57.000Z",
+      "summary": "Chairman of Parliament’s Youth and Sports Committee, Ernest Norgbey, has urged politicians to stay out of the ongoing investigation into alleged irregularities surrounding Ghana’s World Cup…",
       "categories": [
         "Football",
         "National",
         "News",
-        "Ernest Norgbey",
-        "World Cup visa scandal"
+        "CID",
+        "Politicians",
+        "World Cup visa probe"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/03/Ernest-Henry-Norgbey-1024x724.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GCNM calls for a permanent office complex, more funding for specialist nursing training",
-      "link": "https://www.myjoyonline.com/gcnm-calls-for-a-permanent-office-complex-more-funding-for-specialist-nursing-training/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T19:09:26.000Z",
-      "summary": "The Rector of the Ghana College of Nurses and Midwives (GCNM), Dr Mrs Gloria Achempim-Ansong, has called for increased investment in specialist nursing and midwifery training to address…",
-      "categories": [
-        "Health",
-        "National",
-        "GCNM",
-        "office complex",
-        "specialist nursing training"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-799.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Salomey Awiti Baffoe reunites with family after GH¢100k bail",
-      "link": "https://www.myjoyonline.com/salomey-awiti-baffoe-reunites-with-family-after-gh%c2%a2100k-bail/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T18:57:10.000Z",
-      "summary": "Senior Nursing Officer and mother of three, Salomey Awiti Baffoe, has reunited with her family after being granted GH¢100,000 bail in connection with the ongoing ‘Ghana Jollof’ case.",
-      "categories": [
-        "National",
-        "Top Story",
-        "Salomey Awiti Baffoe"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Salomey-and-family.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ernest-Norgbey.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -317,7 +329,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/May/03/mahaama1.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/mahama2.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -341,7 +353,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Mar/04/pres_mahama1.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Mar/04/mahama3.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -367,18 +379,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/07/OLYMPICS.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Gov't won’t fund National Cathedral; Contractor ordered to hand over site as A-G reviews forensic audit",
-      "link": "https://www.graphic.com.gh/news/general-news/govt-wont-fund-national-cathedral.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-07T13:41:44.000Z",
-      "summary": "The government will not spend “one single cedi” on the National Cathedral, the Minister of Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has said.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2022/jan/04/CATHEDRAL_2023_PRAYERS1.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GOC meets GFA to chart Olympic qualification pathway for Black Queens, Meteors",

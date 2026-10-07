@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-07T19:52:11.833Z",
-  "worldAt": "2026-10-07T19:52:11.830Z",
+  "updated": "2026-10-07T21:26:36.014Z",
+  "worldAt": "2026-10-07T21:26:36.011Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,20 +26,20 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 21 stories",
+    "World · BBC News: 22 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 30 stories",
-    "Africa · Africanews: 34 stories",
+    "Africa · Africanews: 35 stories",
     "Africa · BBC Africa: 33 stories",
     "Africa · Deutsche Welle: 8 stories",
     "Africa · Al Jazeera: 3 stories",
@@ -1099,12 +1099,161 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "White House promotes 'Trump TV' with an AI-altered photo",
-      "link": "https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo",
+      "title": "France suspends stun grenade use at student protests after pupil loses hand",
+      "link": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
       "source": "France 24",
-      "published": "2026-10-07T19:45:24.000Z",
-      "summary": "The White House has promoted “Trump TV” using an AI-altered photo of passengers apparently watching the president’s new streaming channel. But the image was originally posted online in…",
-      "image": "https://s.france24.com/media/display/3bd673f8-c285-11f1-9e85-f50f6d982dc3/w:1024/p:16x9/capture-18849501526ac69d4b32a593-88115309.jpg"
+      "published": "2026-10-07T21:19:20.000Z",
+      "summary": "France has suspended the use of stun grenades by police at student-led demonstrations, the interior minister said Wednesday, as allegations of police brutality mounted after days of…",
+      "image": "https://s.france24.com/media/display/05157fc6-c294-11f1-9e7b-c55799ef8309/w:1024/p:16x9/EN-20261007-230627-230756-CS.jpg"
+    },
+    {
+      "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T21:09:20.000Z",
+      "summary": "WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal."
+    },
+    {
+      "title": "French PM vows to address debt despite student protests",
+      "link": "https://www.france24.com/en/french-pm-vows-to-address-debt-despite-student-protests",
+      "source": "France 24",
+      "published": "2026-10-07T21:13:32.000Z",
+      "summary": "French Prime Minister Sebastien Lecornu has tried to calm both student protesters and jittery bond markets. In an address to the nation, Lecornu stressed that the education ministry had not…",
+      "image": "https://s.france24.com/media/display/efeefd2e-c28f-11f1-93d7-27c2853ad5a5/w:1024/p:16x9/capture-13399778726ac6af405641d9-98336344.jpg"
+    },
+    {
+      "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T21:08:59.000Z",
+      "summary": "Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title."
+    },
+    {
+      "title": "What is the pneumonic plague?",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
+      "source": "NPR World",
+      "published": "2026-10-07T21:06:31.000Z",
+      "summary": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2880x1920+0+0/resize/2880x1920!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F76%2Fb8746ff340d5984bafb43f99a66f%2Fsciencesourceimages-1066890.jpg"
+    },
+    {
+      "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T21:06:46.000Z",
+      "summary": "Gaza child’s autoimmune condition triggered amid Israel’s war"
+    },
+    {
+      "title": "Olympics: South Africa aims to host the Games in 2036",
+      "link": "http://www.africanews.com/2026/10/07/olympics-south-africa-aims-to-host-the-games-in-2036/",
+      "source": "Africanews",
+      "published": "2026-10-07T21:04:56.000Z",
+      "summary": "South Africa is aiming to host the first ever Olympics on the African continent. This after it was named as one of seven countries that will officially put forward their case to stage the…"
+    },
+    {
+      "title": "Inside SpaceX’s new look for AI data centres in orbit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T20:54:43.000Z",
+      "summary": "Inside SpaceX’s new look for AI data centres in orbit"
+    },
+    {
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-07T20:51:00.000Z",
+      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg"
+    },
+    {
+      "title": "Africa joins the data center backlash",
+      "link": "https://www.france24.com/en/africa-joins-the-data-center-backlash",
+      "source": "France 24",
+      "published": "2026-10-07T20:37:55.000Z",
+      "summary": "In tonight's edition, witnesses say Eritrean troops have moved into Ethiopia's Tigray region, but Asmara rejects the reports. Also, the African Union launches the Africa Credit Rating…",
+      "image": "https://s.france24.com/media/display/179bb660-c28f-11f1-98b3-4b195755b8ed/w:1024/p:16x9/capture-15022793656ac6add5610765-35279800.jpg"
+    },
+    {
+      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-07T20:29:31.000Z",
+      "summary": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1d/live/375c7f80-c27f-11f1-98ea-35e6bf307fc9.jpg"
+    },
+    {
+      "title": "US Republicans, independents express low trust in election integrity: Poll",
+      "link": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T20:27:47.000Z",
+      "summary": "A Gallup survey highlights a deep – and historic – partisan divide over confidence in the country's elections."
+    },
+    {
+      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-07T20:27:03.000Z",
+      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d466/live/028c9160-c28d-11f1-81d9-d568e8babc26.jpg"
+    },
+    {
+      "title": "France schools protests: more than 6,000 arrested since start of demonstrations",
+      "link": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
+      "source": "France 24",
+      "published": "2026-10-07T20:17:55.000Z",
+      "summary": "After more than two weeks of high school protests across France, police have arrested a total of 6,100 individuals, the majority of whom are minors who, until now, had no previous criminal…",
+      "image": "https://s.france24.com/media/display/95dc001c-c289-11f1-96c0-f50f6d982dc3/w:1024/p:16x9/EN-20261007-213526-213722-CS.jpg"
+    },
+    {
+      "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T20:17:27.000Z",
+      "summary": "Former British consul Vincent Fean says Israel is acting unlawfully by demanding the UK close its consulate."
+    },
+    {
+      "title": "Kenya: Health Minister insists no ebola outbreak in country",
+      "link": "http://www.africanews.com/2026/10/07/kenya-health-minister-insists-no-ebola-outbreak-in-country/",
+      "source": "Africanews",
+      "published": "2026-10-07T20:16:59.000Z",
+      "summary": "Kenya is not in the grips of an ebola outbreak, the country's health secretary insisted on Wednesday, in the wake of Kenya's first death from the disease."
+    },
+    {
+      "title": "Evicted pensioner who sparked Spain housing protests dies: tenant union",
+      "link": "https://www.france24.com/en/evicted-pensioner-who-sparked-spain-housing-protests-dies-tenant-union",
+      "source": "France 24",
+      "published": "2026-10-07T20:14:40.000Z",
+      "summary": "Maricarmen ​Abascal, the 87-year-old woman whose eviction sparked housing ​protests in Spain, has died, Madrid's tenants' union said on Wednesday. Abascal's eviction sparked a series of…",
+      "image": "https://s.france24.com/media/display/8815cb7e-c28a-11f1-90c5-c55799ef8309/w:1024/p:16x9/EN-20261007-213834-214117-CS.jpg"
+    },
+    {
+      "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
+      "link": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T20:14:35.000Z",
+      "summary": "FCC commissioner warns against AI robocalls, citing risks of misinformation before crucial midterm elections."
+    },
+    {
+      "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
+      "link": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-07T20:10:00.000Z",
+      "summary": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say…"
+    },
+    {
+      "title": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
+      "link": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T19:57:14.000Z",
+      "summary": "The Catholic Church in Australia has been marred by abuse allegations in recent years."
+    },
+    {
+      "title": "'It's still unclear whether Netanyahu will pay for what happened during his time in office'",
+      "link": "https://www.france24.com/en/it-s-still-unclear-whether-netanyahu-will-pay-for-what-happened-during-his-time-in-office",
+      "source": "France 24",
+      "published": "2026-10-07T19:52:06.000Z",
+      "summary": "As Israel marks the third anniversary of the October 7 attacks, questions linger about the warnings Prime Minister Benjamin Netanyahu received about them. Speaking with FRANCE 24's Mark…",
+      "image": "https://s.france24.com/media/display/be013ffa-bc7e-11f1-adb1-177f79e345bf/w:1024/p:16x9/AP25357403714237.jpg"
     },
     {
       "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
@@ -1112,6 +1261,14 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-07T19:40:07.000Z",
       "summary": "Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief."
+    },
+    {
+      "title": "White House promotes 'Trump TV' with an AI-altered photo",
+      "link": "https://www.france24.com/en/white-house-promotes-trump-tv-with-an-ai-altered-photo",
+      "source": "France 24",
+      "published": "2026-10-07T19:45:24.000Z",
+      "summary": "The White House has promoted “Trump TV” using an AI-altered photo of passengers apparently watching the president’s new streaming channel. But the image was originally posted online in…",
+      "image": "https://s.france24.com/media/display/3bd673f8-c285-11f1-9e85-f50f6d982dc3/w:1024/p:16x9/capture-18849501526ac69d4b32a593-88115309.jpg"
     },
     {
       "title": "Canada suspends plans to expand assisted dying to people with mental illness",
@@ -1238,167 +1395,36 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-07T18:26:07.000Z",
       "summary": "Human Rights Watch says defendants face proceedings where lawyers have struggled to access case files."
-    },
-    {
-      "title": "France summons Iranian ambassador over 'disinformation' on student protests",
-      "link": "https://www.france24.com/en/france/20261007-france-summons-iranian-ambassador-over-disinformation-on-student-protests",
-      "source": "France 24",
-      "published": "2026-10-07T17:23:52.000Z",
-      "summary": "The French foreign ministry on Wednesday summoned the Iranian ambassador to protest against a \"disinformation campaign conducted by the Iranian authorities\" over the student protests that…",
-      "image": "https://s.france24.com/media/display/47de2492-c268-11f1-b63d-f50f6d982dc3/w:1024/p:16x9/AP24110506303752.jpg"
-    },
-    {
-      "title": "How genocide in Gaza followed Bosnia’s painful pattern",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:16:20.000Z",
-      "summary": "Three years into Israel’s war on Gaza, we examine patterns that echo the Srebrenica genocide in Bosnia and Herzegovina."
-    },
-    {
-      "title": "France suspends the use of stun grenades after student protester loses hand",
-      "link": "https://www.france24.com/en/france/20261007-france-suspends-the-use-of-stun-grenades-after-student-protester-loses-hand",
-      "source": "France 24",
-      "published": "2026-10-07T17:05:08.000Z",
-      "summary": "The French ​government said Wednesday it would suspend the use of stun grenades in its attempts to manage the student protests now roiling the country after a 15-year-old boy had his hand…",
-      "image": "https://s.france24.com/media/display/03476172-c26d-11f1-9f15-ef6152f87623/w:1024/p:16x9/Protest-stun-grenades.jpg"
-    },
-    {
-      "title": "US Supreme Court hears challenge to air force UXO detonations in Guam",
-      "link": "https://www.aljazeera.com/news/2026/10/7/us-supreme-court-hears-challenge-to-air-force-uxo-detonations-in-guam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:16:07.000Z",
-      "summary": "Advocacy group claims military sidestepped impact review, says case highlights lack of representation in US territories."
-    },
-    {
-      "title": "Africa launches own credit agency in bid for cheaper borrowing",
-      "link": "http://www.africanews.com/2026/10/07/africa-launches-own-credit-agency-in-bid-for-cheaper-borrowing/",
-      "source": "Africanews",
-      "published": "2026-10-07T17:02:47.000Z",
-      "summary": "Africa will launch its own credit rating agency on Wednesday, aimed at countering what many see as unfair assessments by global institutions that make it more expensive for African nations…"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:03:14.000Z",
-      "summary": "Three years after the October 7 attacks, more than 74,000 people have been killed in Gaza."
-    },
-    {
-      "title": "What France's student protesters want – and what the government is offering",
-      "link": "https://www.france24.com/en/france/20261007-what-france-s-student-protesters-want-%E2%80%93-and-what-the-government-is-offering",
-      "source": "France 24",
-      "published": "2026-10-07T16:41:57.000Z",
-      "summary": "Staff shortages, rats in the corridors, and a university admissions system that feels like a lottery: As protests sweep France, high school students have drawn up a list of demands to deal…",
-      "image": "https://s.france24.com/media/display/494571ba-c258-11f1-92df-0f96b136895a/w:1024/p:16x9/2026-10-06T120512Z-1157146078-RC2NXNANKND7-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "title": "Spanish unions call general strike over housing before snap election",
-      "link": "https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:02:47.000Z",
-      "summary": "The general strike is the first to be jointly backed by Spain's two largest unions ‌in 14 years."
-    },
-    {
-      "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
-      "link": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-07T16:39:00.000Z",
-      "summary": "Former German Chancellor Gerhard Schröder visited a Moscow supermarket in his new role on the supervisory board. Schröder is no stranger to retirement stipends in Russia — or the scandal…"
-    },
-    {
-      "title": "Over 100 arrested in Belgium student protests over education costs",
-      "link": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T17:28:56.000Z",
-      "summary": "Protesting students have demanded education reforms in French-speaking areas of the country."
-    },
-    {
-      "title": "After Kenya, Uganda opens Dangote refinery IPO to domestic investors",
-      "link": "http://www.africanews.com/2026/10/07/after-kenya-uganda-opens-dangote-refinery-ipo-to-domestic-investors/",
-      "source": "Africanews",
-      "published": "2026-10-07T16:30:54.000Z",
-      "summary": "Uganda's Capital Markets Authority on Tuesday approved the participation of its domestic investors in the Dangote Petroleum Refinery's initial public offering."
-    },
-    {
-      "title": "US mortgage rates hit their highest level in three years",
-      "link": "https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T17:05:10.000Z",
-      "summary": "Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025."
-    },
-    {
-      "title": "Madagascar residents gear up for impact of El Niño",
-      "link": "http://www.africanews.com/2026/10/07/madagascar-residents-gear-up-for-impact-of-el-nino/",
-      "source": "Africanews",
-      "published": "2026-10-07T16:30:33.000Z",
-      "summary": "In southern Madagascar, residents are bracing themselves for the impact due in the coming months of the El Nino warming pattern, which experts expect to be the strongest on record."
-    },
-    {
-      "title": "UEFA football leaders meet to shape strategy to oust FIFA’s Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/10/7/uefa-football-leaders-meet-to-shape-strategy-to-oust-fifas-infantino?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T16:47:24.000Z",
-      "summary": "European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president."
-    },
-    {
-      "title": "France: Government suspends stun grenade use in school protests",
-      "link": "https://www.france24.com/en/video/20261007-france-government-suspends-stun-grenade-use-in-school-protests",
-      "source": "France 24",
-      "published": "2026-10-07T16:15:54.000Z",
-      "summary": "France has suspended police use of stun grenades at high school demonstrations, the interior minister announced, amid growing allegations of police brutality after two weeks of protests…",
-      "image": "https://s.france24.com/media/display/4a1c4b78-c26b-11f1-ac28-c55799ef8309/w:1024/p:16x9/EN-GRENADE-FRANCE-tiktok-00-00-02-17-Still004.jpg"
-    },
-    {
-      "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
-      "link": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T16:12:29.000Z",
-      "summary": "Far-right and far-left parties gain ground in local elections as Merz's approval rating sinks."
-    },
-    {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-07T16:00:18.000Z",
-      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80cb/live/9b494cf0-c25f-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
-      "link": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T16:02:17.000Z",
-      "summary": "With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger."
-    },
-    {
-      "title": "🔴 Live: France summons Iranian ambassador over 'disinformation' on student protests",
-      "link": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
-      "source": "France 24",
-      "published": "2026-10-07T15:52:25.000Z",
-      "summary": ""
-    },
-    {
-      "title": "The mass killing does not mean Israel’s winning",
-      "link": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T15:25:06.000Z",
-      "summary": "Israel’s military might has failed to achieve the political goals in Gaza it was supposed to."
-    },
-    {
-      "title": "EU enlargement: European Commission tables reforms to prepare bloc for new members",
-      "link": "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-07T15:05:00.000Z",
-      "summary": "The European Commission is proposing earlier access to EU markets for candidate countries, new voting rules to reduce vetoes and extra safeguards for a bigger bloc. But is the reform fair —…"
     }
   ],
   "africa": [
+    {
+      "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T21:09:20.000Z",
+      "summary": "WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal."
+    },
+    {
+      "title": "Olympics: South Africa aims to host the Games in 2036",
+      "link": "http://www.africanews.com/2026/10/07/olympics-south-africa-aims-to-host-the-games-in-2036/",
+      "source": "Africanews",
+      "published": "2026-10-07T21:04:56.000Z",
+      "summary": "South Africa is aiming to host the first ever Olympics on the African continent. This after it was named as one of seven countries that will officially put forward their case to stage the…"
+    },
     {
       "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
       "link": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-07T18:43:47.000Z",
       "summary": "Eritrea dismisses allegation as Ethiopia's pretext for more war."
+    },
+    {
+      "title": "Kenya: Health Minister insists no ebola outbreak in country",
+      "link": "http://www.africanews.com/2026/10/07/kenya-health-minister-insists-no-ebola-outbreak-in-country/",
+      "source": "Africanews",
+      "published": "2026-10-07T20:16:59.000Z",
+      "summary": "Kenya is not in the grips of an ebola outbreak, the country's health secretary insisted on Wednesday, in the wake of Kenya's first death from the disease."
     },
     {
       "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates",
@@ -1653,28 +1679,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-07T11:00:14.000Z",
       "summary": "[Vanguard] Kenya Airways has confirmed the death of a passenger who suffered a medical emergency aboard a flight from Nairobi, Kenya, to Lagos, Nigeria."
-    },
-    {
-      "title": "Nigeria: UN Cash Crisis Must Not Hurt Developing Countries - Nigeria",
-      "link": "https://allafrica.com/stories/202610070329.html",
-      "source": "AllAfrica",
-      "published": "2026-10-07T10:58:50.000Z",
-      "summary": "[Vanguard] Nigeria has warned that the United Nations liquidity crisis must not disproportionately undermine human rights assistance to developing and conflict-affected countries."
-    },
-    {
-      "title": "Uganda: When the Shilling Falls, Ugandans Pay the Price",
-      "link": "https://allafrica.com/stories/202610070330.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-07T10:59:08.000Z",
-      "summary": "[Independent (Kampala)] Comment -- The Uganda Shilling has experienced a sharp depreciation over the US Dollar recently, driven primarily by escalating international political tensions, a…"
-    },
-    {
-      "title": "Kenya must be 'clean' to be credible, says Wada chief",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/c9kgj0vj0gx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-07T10:42:54.000Z",
-      "summary": "Wada president Witold Banka says Kenya must strengthen testing, investigations and anti-doping enforcement before hosting the 2029 World Athletics Championships.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b231/live/149fd3b0-c235-11f1-be2f-0fbd447d6e43.png"
     }
   ]
 };
