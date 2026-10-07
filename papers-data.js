@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-07T02:30:20.920Z",
+  "updated": "2026-10-07T09:09:17.631Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,131 +25,250 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "World Bank affirms Ghana’s growth rate at 4.8% in 2026",
-      "link": "https://www.myjoyonline.com/world-bank-affirms-ghanas-growth-rate-at-4-8-in-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T02:11:50.000Z",
-      "summary": "According to the Bretton Woods institution, the growth will be driven by the services sector, a recovery in oil and gas activities, and ongoing performance tied to structural and fiscal…",
+      "title": "Harmonise biotech regulations to attract investment – Minister",
+      "link": "https://ghanaiantimes.com.gh/harmonise-biotech-regulations-to-attract-investment-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T09:09:06.000Z",
+      "summary": "THE Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has called for the harmonisation of regulatory frameworks governing biotechnology to attract the investment…",
       "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "Agriculture",
-        "GDP",
-        "Ghana",
-        "Industry",
-        "Services",
-        "World Bank"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/World-Bank-new-1024x614.webp",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Cedi was worst African currency in quarter 2, 2026 – World Bank",
-      "link": "https://www.myjoyonline.com/cedi-was-worst-african-currency-in-quarter-2-2026-world-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T01:55:35.000Z",
-      "summary": "According to the World Bank, the escalation of the conflict in the Middle East initially exerted broad-based pressure on African currencies.",
+      "title": "Fix Ghana football or step aside …SWAG tells GFA",
+      "link": "https://ghanaiantimes.com.gh/fix-ghana-football-or-step-aside-swag-tells-gfa/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T09:03:58.000Z",
+      "summary": "THE Sports Writers Association of Ghana (SWAG) has called on the leadership of the Ghana Football Association (GFA) to urgently reverse the declining fortunes of Ghana football or step…",
       "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "Africa Economic Update",
-        "Cedi",
-        "Dollar",
-        "World Bank"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Dollar-and-cedi-730x424-1.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "AI gains can lift three times as many people out of poverty in Ghana – World Bank",
-      "link": "https://www.myjoyonline.com/ai-gains-can-lift-three-times-as-many-people-out-of-poverty-in-ghana-world-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T01:27:16.000Z",
-      "summary": "Therefore, it said expanding access to affordable and reliable 5G, or the highest-quality mobile broadband technology feasible, requires a strategy that combines spatial concentration with…",
+      "title": "Bulls edge Tigers to secure RLFG Men’s 13s Championship final spot",
+      "link": "https://ghanaiantimes.com.gh/bulls-edge-tigers-to-secure-rlfg-mens-13s-championship-final-spot/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T09:00:19.000Z",
+      "summary": "The defending champions of the Rugby League Federation Ghana (RLFG) Men’s 13s Championship, Bulls RLFC, cemented their place in the finals of the ongoing league after defeating Nungua…",
       "categories": [
-        "Business",
-        "HP Business 3",
-        "Technology",
-        "5G",
-        "AI",
-        "Ghana",
-        "Github",
-        "World Bank"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-4.54.22-AM-1024x617.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Kelvin-Boadu-from-Bulls-Red-tackles-Charles-Dzisah-of-Nungua-Tigers-1024x788.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Police arrest suspect over jewellery theft during fire outbreak",
-      "link": "https://www.myjoyonline.com/police-arrest-suspect-over-jewellery-theft-during-fire-outbreak/",
+      "title": "Bawumia has the dignity to lead and the vision Ghana needs – Gabby",
+      "link": "https://www.myjoyonline.com/bawumia-has-the-dignity-to-lead-and-the-vision-ghana-needs-gabby/",
       "source": "MyJoyOnline",
-      "published": "2026-10-06T23:07:00.000Z",
-      "summary": "The Police in Koforidua have arrested Abubakar Abdul Latif, 32, for allegedly stealing female jewellery from a jewellery stand while firefighters battled a fire outbreak at Starlet 21…",
+      "published": "2026-10-07T08:59:35.000Z",
+      "summary": "New Patriotic Party (NPP) stalwart Gabby Asare Otchere-Darko has praised the leadership qualities of former Vice-President and NPP presidential candidate Dr Mahamudu Bawumia, saying he has…",
       "categories": [
-        "Crime",
-        "Fire Outbreak",
-        "jewellery theft",
-        "Koforidua"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-697-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EOCO returns Hanan’s £6,700, GH¢2,750 and devices after defence challenge",
-      "link": "https://www.myjoyonline.com/eoco-returns-hanans-6700-gh%c2%a22750-and-devices-after-defence-challenge/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T22:58:32.000Z",
-      "summary": "The Economic and Organised Crime Office (EOCO) has returned £6,700, GH¢2,750, two laptop computers and at least six mobile phones seized from former Ghana Buffer Stock Company CEO Hanan…",
-      "categories": [
-        "HP News 4",
+        "HP News 6",
         "National",
-        "EOCO",
-        "Hanan Abdul Wahab"
+        "Politics",
+        "Dr Mahamadu Bawumia",
+        "Gabby Asare Otchere Darko",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Hanna-Hanan-Abdul-Wahab-and-his-wife-FaizaSeiduWuni.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Politics-Bawumia-Victory-e1730228334706.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Opplift Youth Entrepreneurs Summit 2026 equips entrepreneurs with skills, mentorship and support",
-      "link": "https://www.myjoyonline.com/opplift-youth-entrepreneurs-summit-2026-equips-entrepreneurs-with-skills-mentorship-and-support/",
+      "title": "GOC, GFA chart Olympic qualification roadmap for Black Queens, Black Meteors",
+      "link": "https://www.myjoyonline.com/goc-gfa-chart-olympic-qualification-roadmap-for-black-queens-black-meteors/",
       "source": "MyJoyOnline",
-      "published": "2026-10-06T22:45:31.000Z",
-      "summary": "The maiden Opplift Youth Entrepreneurs Summit 2026, an initiative of Opplift, took place on Friday at the British Council Auditorium in Accra.",
-      "categories": [
-        "Economy",
-        "National",
-        "Opplift Youth Entrepreneurs Summit 2026"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-694.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rival clubs want range of punishments for Man City",
-      "link": "https://www.myjoyonline.com/rival-clubs-want-range-of-punishments-for-man-city/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T22:34:20.000Z",
-      "summary": "A number of Premier League clubs want Manchester City to face both \"retrospective punishments\" and future sanctions for their mass financial rule-breaking, sources have told BBC Sport.",
+      "published": "2026-10-07T08:58:15.000Z",
+      "summary": "The crucial engagement was convened specifically to map out a collaborative roadmap and discuss the rigorous qualification pathways for both national teams as they eye tickets to the 2028…",
       "categories": [
         "Football",
-        "Manchester City"
+        "National",
+        "Black Meteors",
+        "Black Queens",
+        "GFA",
+        "GOC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-693.png",
+      "image": "https://cdn.ghanafa.org/2026/10/image1-2026-10-06T183844.417-1024x682.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "link": "https://www.myjoyonline.com/tear-gas-in-paris-and-marseille-as-school-protests-grow-across-france/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-06T22:24:00.000Z",
-      "summary": "Hundreds of thousands of people have taken to the streets across France, as a wave of protests by high-school pupils spread to their parents, university students and unions.",
+      "title": "Djokovic claims 102nd career title",
+      "link": "https://ghanaiantimes.com.gh/djokovic-claims-102nd-career-title/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T08:57:44.000Z",
+      "summary": "NOVAK Djokovic claimed the 102nd title of his astonishing career as Alex de Minaur retired injured from the China Open final. The 39-year-old led De Minaur — a player 12 years his junior —…",
       "categories": [
-        "International",
-        "France protests"
+        "Foriegn"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3804-1024x576.png",
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Absa InspireMe 2026 highlights opportunities for women-led business growth",
+      "link": "https://www.myjoyonline.com/absa-inspireme-2026-highlights-opportunities-for-women-led-business-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T08:57:11.000Z",
+      "summary": "Absa Bank Ghana Ltd’s InspireME 2026 conference brought together women entrepreneurs, business leaders and professionals to explore business growth, innovation, access to opportunities and…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Absa InspireMe 2026"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-707.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ronaldo out of Portugal squad under Jesus",
+      "link": "https://ghanaiantimes.com.gh/ronaldo-out-of-portugal-squad-under-jesus/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T08:55:03.000Z",
+      "summary": "CRISTIANO RONALDO will reportedly refuse to return to the Portugal squad while Jorge Jesus remains in charge. The explosive claim comes after the 41-year-old superstar walked out of the…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "The only thing that flows regularly is THE BILL",
+      "link": "https://www.myjoyonline.com/the-only-thing-that-flows-regularly-is-the-bill/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T08:51:56.000Z",
+      "summary": "Perhaps there is a perfectly reasonable explanation for every cedi on my bill. Excellent. Then show me the opening meter reading, the closing meter reading, the units consumed, the tariff…",
+      "categories": [
+        "National",
+        "Opinion",
+        "Billing",
+        "ECG",
+        "Power",
+        "PURC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Jimmy-Aglah.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Olise nets brace in France comeback",
+      "link": "https://ghanaiantimes.com.gh/olise-nets-brace-in-france-comeback/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T08:50:55.000Z",
+      "summary": "FRANCE scored four goals in the final 13 minutes to come from behind to beat Belgium in the Nations League as Zinedine Zidane maintained his unbeaten start in charge. Dodi Lukebakio scored…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "KGL U17 Colts 2026: Prempeh Elite Academy lead Group A as Western Region secures top spot in Group B",
+      "link": "https://www.myjoyonline.com/kgl-u17-colts-2026-prempeh-elite-academy-lead-group-a-as-western-region-secures-top-spot-in-group-b/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T08:49:07.000Z",
+      "summary": "The Academy side underlined their dominance with a commanding 5-0 victory over Volta Region on Tuesday, October 6, taking their tally to nine points from three matches.",
+      "categories": [
+        "Football",
+        "National",
+        "KGL U17 Colts"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Western-Region.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘You’ve never been touched by any scandal’ – Gabby celebrates Bawumia on his 63rd birthday",
+      "link": "https://www.myjoyonline.com/youve-never-been-touched-by-any-scandal-gabby-celebrates-bawumia-on-his-63rd-birthday/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T08:48:09.000Z",
+      "summary": "New Patriotic Party (NPP) stalwart Gabby Asare Otchere-Darko has praised former Vice-President Dr Mahamudu Bawumia’s character, saying he has never known him to be touched by scandal during…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Dr Bawumia",
+        "Gabby Asare Otchere Darko",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Bawumia.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police raid Djibouti FA",
+      "link": "https://ghanaiantimes.com.gh/police-raid-djibouti-fa/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T08:48:04.000Z",
+      "summary": "ATTEMPTS to oust Souleiman Waberi as the president of the Djibouti Football Federation (FDF) reached a dramatic climax on Monday as police occupied the federation’s headquarters after a…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dubois eyes Fury fight after Wardley rematch",
+      "link": "https://ghanaiantimes.com.gh/dubois-eyes-fury-fight-after-wardley-rematch/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T08:46:23.000Z",
+      "summary": "DANIEL Dubois believes he can set himself on a collision course with Tyson Fury. Dubois, the WBO world champion, thinks if he and Fury win their next fights they can then meet in another…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "WPL 2026/27: GFA unveils dates for start of new season as Ampem Darkoa Ladies begin title defence",
+      "link": "https://www.myjoyonline.com/wpl-2026-27-gfa-unveils-dates-for-start-of-new-season-as-ampem-darkoa-ladies-begin-title-defence/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T08:39:45.000Z",
+      "summary": "The league will commence on the weekend of October 23–26, 2026, with matches scheduled across the two zones, and will run until the weekend of April 9–12, 2027.",
+      "categories": [
+        "Football",
+        "Ampem Darkoa Ladies",
+        "GFA",
+        "WPL"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ampem-DL-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Embassy in Washington pays tribute to late academic Dr Kofi Akamani",
+      "link": "https://www.myjoyonline.com/ghana-embassy-in-washington-pays-tribute-to-late-academic-dr-kofi-akamani/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T08:39:10.000Z",
+      "summary": "The Embassy of Ghana in Washington, D.C., has paid tribute to the late Dr Kofi Akamani, a Ghanaian-born academic and Assistant Professor of Forest Recreation and Conservation Social Science…",
+      "categories": [
+        "In Focus",
+        "National",
+        "Ghana Embassy",
+        "Kofi Akamani"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/5-4-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EOCO returns Hanan’s £6,700, GH¢2,750, laptops and phones after lawyers protest",
+      "link": "https://www.graphic.com.gh/news/general-news/eoco-returns-hanans-gbp6-700-ghc2-750-laptops-and-phones-after-lawyers-protest.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T04:47:38.000Z",
+      "summary": "The Economic and Organised Crimes Office (EOCO) has returned £6,700, GH¢2,750, two laptop computers and six mobile phones seized from Hanan Abdul, the former CEO of the Ghana Buffer Stock…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/nov/04/archerr_raymond.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Scammers target ECG customers with fake meter sales and MoMo payment calls",
+      "link": "https://www.graphic.com.gh/news/general-news/scammers-target-ecg-customers-with-fake-meter-sales-and-momo-payment-calls.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-07T04:33:31.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has issued an alert warning customers about an ongoing scam involving fraudulent phone calls, fake meter sales, and mobile money (MoMo) extortion…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2023/mar/06/as.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Suspend offshore gold exploration licence - Fisheries association to gov't",
@@ -188,45 +307,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Pete Edochie pays courtesy call on GoldBod CEO Sammy Gyamfi",
-      "link": "https://ghanaiantimes.com.gh/pete-edochie-pays-courtesy-call-on-goldbod-ceo-sammy-gyamfi/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T17:07:37.000Z",
-      "summary": "Veteran Nigerian actor and African screen legend, Pete Edochie, has paid a courtesy call on the Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, during his visit to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-06-at-16.31.11-1024x682.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana warns citizens over fake jobs and forced cybercrime in Zambia",
-      "link": "https://ghanaiantimes.com.gh/ghana-warns-citizens-over-fake-jobs-and-forced-cybercrime-in-zambia/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T17:04:23.000Z",
-      "summary": "The Ministry of Foreign Affairs has warned Ghanaians seeking employment in Zambia to be cautious of fraudulent job offers that could expose them to human trafficking and forced involvement…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Education Ministry salutes Ghanaian Teachers on World Teachers’ Day",
-      "link": "https://ghanaiantimes.com.gh/education-ministry-salutes-ghanaian-teachers-on-world-teachers-day/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T17:02:33.000Z",
-      "summary": "The Ministry of Education has congratulated teachers across Ghana as the country joins the rest of the world to celebrate World Teachers’ Day 2026. In a statement issued on October 5, the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "CSA opens Cyber Security Awareness Month with call for stronger collaboration",
       "link": "https://www.graphic.com.gh/news/general-news/csa-opens-cyber-security-awareness-month-with-call-for-stronger-collaboration.html",
       "source": "Daily Graphic",
@@ -237,71 +317,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GNFS to integrate fire safety education into basic school curriculum",
-      "link": "https://ghanaiantimes.com.gh/gnfs-to-integrate-fire-safety-education-into-basic-school-curriculum/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T17:01:07.000Z",
-      "summary": "The Ghana National Fire Service (GNFS) is collaborating with the Ghana Education Service (GES), the National Council for Curriculum and Assessment (NaCCA) and Ulster University to integrate…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Two dead, 14 injured In gunfire during Yam Festival at Nchiraa",
-      "link": "https://ghanaiantimes.com.gh/two-dead-14-injured-in-gunfire-during-yam-festival-at-nchiraa/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T16:59:38.000Z",
-      "summary": "Two people have died and 14 others, including a police officer, have sustained gunshot wounds following disturbances during the Yam Festival celebration at Nchiraa in the Wenchi…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Government to launch three key legal frameworks on social protection, gender equity",
-      "link": "https://ghanaiantimes.com.gh/government-to-launch-three-key-legal-frameworks-on-social-protection-gender-equity/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T16:57:43.000Z",
-      "summary": "Three major legal instruments on social protection and gender equity will be officially launched on Wednesday, October 7, 2026, in Accra. The instruments are the Social Protection Act, 2025…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police investigate death of three children at Koblimahagu, IGP deploys special team",
-      "link": "https://ghanaiantimes.com.gh/police-investigate-death-of-three-children-at-koblimahagu-igp-deploys-special-team/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T16:55:07.000Z",
-      "summary": "The Northern Regional Police Command has commenced investigation into the death of three children whose bodies were discovered in the boot of a vehicle at Koblimahagu in the Tamale…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ayariga meets World Bank to push sustainable cities agenda",
-      "link": "https://ghanaiantimes.com.gh/ayariga-meets-world-bank-to-push-sustainable-cities-agenda/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-06T16:17:14.000Z",
-      "summary": "Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, says the cities being built today will determine the opportunities and quality of life for future…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Compensation coming for La Pleasure Beach demolition victims",
@@ -325,30 +340,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/06/pac.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "IGP deploys special team to investigate deaths of 3 children in Tamale",
-      "link": "https://www.graphic.com.gh/news/general-news/igp-deploys-special-team-to-investigate-deaths-of-3-children-in-tamale.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T14:21:07.000Z",
-      "summary": "The Northern Regional Police Command has commenced investigations into the deaths of three children whose bodies were discovered in the boot of a vehicle at Kobilmahagu Zoo in the Tamale…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/04/parked1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Gov't to launch three legal instruments on social protection, gender equity",
-      "link": "https://www.graphic.com.gh/news/general-news/govt-to-launch-three-legal-instruments-on-social-protection-gender-equity.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-06T13:44:41.000Z",
-      "summary": "Three major legal instruments on social protection and gender equity will be launched on Wednesday, October 7, 2026, the Ministry of Gender, Children and Social Protection has said. In a…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/feb/03/AGNES_MOMO.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
