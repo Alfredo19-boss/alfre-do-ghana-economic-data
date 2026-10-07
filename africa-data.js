@@ -3,7 +3,7 @@
  * Do not edit by hand.
  */
 window.GDC_AFRICA = {
-  "updated": "2026-10-06T13:34:55.133Z",
+  "updated": "2026-10-07T13:53:29.791Z",
   "indicator": "Consumer price inflation, % on a year earlier",
   "note": "The prevailing rate: each country's most recently published month-on-year consumer price inflation. Countries publish at different times, so the month shown differs between them. Collected from Trading Economics' national statistics table.",
   "source": "Trading Economics, from national statistics offices",

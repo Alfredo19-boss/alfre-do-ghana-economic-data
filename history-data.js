@@ -3,7 +3,7 @@
  * Fetched by .github/workflows/history.yml. Do not edit by hand.
  */
 window.GDC_HISTORY = {
-  "updated": "2026-10-06T13:34:54.481Z",
+  "updated": "2026-10-07T13:53:26.517Z",
   "from": 1993,
   "source": "World Bank, World Development Indicators",
   "sourceUrl": "https://data.worldbank.org/country/ghana",
@@ -2846,7 +2846,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2026",
-          "value": 4192.6001
+          "value": 4113.2998
         }
       ]
     },
@@ -2963,7 +2963,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2026",
-          "value": 5771
+          "value": 5631
         }
       ]
     }
