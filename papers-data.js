@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-08T01:10:49.398Z",
+  "updated": "2026-10-08T07:21:52.979Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,125 +25,226 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana, 3 others face large financing needs, debt servicing costs – World Bank warns",
-      "link": "https://www.myjoyonline.com/ghana-3-others-face-large-financing-needs-debt-servicing-costs-world-bank-warns/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T01:08:07.000Z",
-      "summary": "According to the Bretton Woods institution October 2026 Africa Economic Update, weaker-than-expected revenue mobilisation may require additional fiscal adjustment.",
+      "title": "Secure southern borders against drug trafficking – NCCE",
+      "link": "https://ghanaiantimes.com.gh/secure-southern-borders-against-drug-trafficking-ncce/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T07:11:09.000Z",
+      "summary": "The National Commission for Civic Education (NCCE) has called for stronger security along Ghana’s southern borders to counter the growing threat of illicit drug trafficking, violent…",
       "categories": [
-        "Business",
-        "Economy",
-        "debt servicing",
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Secure-southern-borders-Participants-after-the-programme-Photo-Victor-A.-Buxton-1024x683-1.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority demands crackdown on galamsey financiers • Calls for action against politically connected interests",
+      "link": "https://ghanaiantimes.com.gh/minority-demands-crackdown-on-galamsey-financiers-calls-for-action-against-politically-connected-interests/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T07:08:08.000Z",
+      "summary": "The Minority in Parliament has called for decisive and even-handed action against the financiers, politically connected interests and organised networks behind illegal mining, popularly…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Minority-demands-crackdown-Members-of-the-Minority-MPs-with-the-leadership-of-the-Christian-Council-after-the-meeting-1024x740.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Invest in rental housing – Pres Mahama tasks MMDAs",
+      "link": "https://ghanaiantimes.com.gh/invest-in-rental-housing-pres-mahama-tasks-mmdas/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T07:00:50.000Z",
+      "summary": "Metropolitan, Municipal and District Assemblies (MMDAs) must lead efforts to address Ghana’s housing challenges by developing innovative solutions tailored to their respective…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Outcry in Trinidad & Tobago as police threaten press freedom",
+      "link": "https://ghanaiantimes.com.gh/outcry-in-trinidad-tobago-as-police-threaten-press-freedom/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T06:54:10.000Z",
+      "summary": "Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping new bill that increases police powers of search and seizure, which they argue threatens the country’s…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mali forces recapture Kidal",
+      "link": "https://ghanaiantimes.com.gh/mali-forces-recapture-kidal/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T06:52:32.000Z",
+      "summary": "Malian armed forces have recaptured the northern city of Kidal five months after it was seized by separatist rebels of the Azawad Liberation Front and Jama’at Nusrat al-Islam, an armed…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Catholic bishop sentenced for abusing young men",
+      "link": "https://ghanaiantimes.com.gh/catholic-bishop-sentenced-for-abusing-young-men/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T06:50:09.000Z",
+      "summary": "A former Australian Catholic bishop was sentenced yesterday to six years and six months in prison for sexually abusing two young Indigenous men. A District Court of Western Australia state…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "7 injured in Polish school knife attack",
+      "link": "https://ghanaiantimes.com.gh/7-injured-in-polish-school-knife-attack/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T06:47:48.000Z",
+      "summary": "SEVEN people were injured in a knife attack at a school in Ostroleka, north-eastern Poland, police said yesterday, adding that the attacker had been detained. “A 19-year-old student from…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Detained immigrants embark on hunger strike",
+      "link": "https://ghanaiantimes.com.gh/detained-immigrants-embark-on-hunger-strike/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T06:43:38.000Z",
+      "summary": "A group of people detained inside a privately-run Immigration and Customs Enforcement (ICE) jail in Georgia have launched a mass hunger strike this week to protest against their prolonged…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gov’t will not curb free speech under Mahama – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/govt-will-not-curb-free-speech-under-mahama-kwakye-ofosu/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T06:28:44.000Z",
+      "summary": "Minister for Government Communications, Felix Kwakye Ofosu, has dismissed claims that the government is restricting freedom of expression, insisting that legitimate criticism must be…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "Kwakye Ofosu",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Kwakye-Ofosu.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDPC, UNIDO discuss new partnership to drive Ghana’s industrial development",
+      "link": "https://www.myjoyonline.com/ndpc-unido-discuss-new-partnership-to-drive-ghanas-industrial-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T06:19:57.000Z",
+      "summary": "The National Development Planning Commission (NDPC) and the United Nations Industrial Development Organization (UNIDO) are exploring a new partnership to better align industrial development…",
+      "categories": [
+        "National",
         "Ghana",
-        "Public investment",
-        "Social spending",
-        "World Bank"
+        "NDPC",
+        "UNIDO"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-6.05.03-am.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/837738307_1392348699736186_8154072957791445159_n-1024x822.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Eurobond repayment: Ghana faces US$6.4bn repayment burden between 2027 and 2030 – World Bank",
-      "link": "https://www.myjoyonline.com/eurobond-repayment-ghana-faces-us6-4bn-repayment-burden-between-2027-and-2030-world-bank/",
+      "title": "Mahama Ayariga calls for innovative financing to make housing more affordable",
+      "link": "https://www.myjoyonline.com/mahama-ayariga-calls-for-innovative-financing-to-make-housing-more-affordable/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T00:45:10.000Z",
-      "summary": "South Africa faces the largest repayment burden of US$11.8 billion in Africa, with maturities in every year of the period.",
+      "published": "2026-10-08T06:12:49.000Z",
+      "summary": "Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, says Ghana’s housing challenge cannot be addressed through construction alone, with innovative and…",
       "categories": [
-        "Business",
-        "Economy",
-        "Eurobond",
+        "National",
+        "Ayariga",
+        "Housing",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/MA-e1791439941952-1024x925.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDPC reviews 22-year-old guidelines for regional, district planning units",
+      "link": "https://www.myjoyonline.com/ndpc-reviews-22-year-old-guidelines-for-regional-district-planning-units/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T06:03:13.000Z",
+      "summary": "The National Development Planning Commission (NDPC) has begun a nationwide review of the guidelines governing Regional Planning Coordinating Units (RPCUs) and District Planning Coordinating…",
+      "categories": [
+        "National",
+        "NDPC",
+        "units"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/838986110_1393234179647638_7141977301285871410_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana to champion ECOWAS adoption of Accra Convention on cargo documents – Trade Minister",
+      "link": "https://www.myjoyonline.com/ghana-to-champion-ecowas-adoption-of-accra-convention-on-cargo-documents-trade-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T05:54:00.000Z",
+      "summary": "Ghana is positioning itself to lead efforts within ECOWAS to adopt and implement a new international framework aimed at making trade finance and cross-border movement of goods easier…",
+      "categories": [
+        "National",
+        "ECOWAS",
+        "Elizabeth Ofosu-Adjare",
         "Ghana",
-        "maturities",
-        "Repayment",
-        "South Africa"
+        "Trade Minister"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/03/World-Bank.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/839972384_2031332950901896_929297531953259618_n-1024x733.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government to add 100 new ambulances to national fleet in 2027",
-      "link": "https://www.myjoyonline.com/government-to-add-100-new-ambulances-to-national-fleet-in-2027/",
+      "title": "NHIS coverage rises from 57% to about 70% in less than two years under Mahama — Health Minister",
+      "link": "https://www.myjoyonline.com/nhis-coverage-rises-from-57-to-about-70-in-less-than-two-years-under-mahama-health-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T00:31:00.000Z",
-      "summary": "The government will add 100 new ambulances to Ghana’s national fleet in 2027 as part of efforts to strengthen emergency medical services.",
+      "published": "2026-10-08T05:53:00.000Z",
+      "summary": "Coverage under Ghana’s National Health Insurance Scheme (NHIS) has increased from 57 per cent to about 70 per cent in less than two years, Health Minister Kwabena Mintah Akandoh has said.",
       "categories": [
-        "Health",
-        "News",
-        "Ambulances",
-        "Kwabena Mintah Akandoh"
+        "National",
+        "Akandoh",
+        "Health Minister",
+        "Mahama",
+        "NHIS"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ambulance.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/akandoh.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ex-Spurs player Vega set to run for FIFA president",
-      "link": "https://www.myjoyonline.com/ex-spurs-player-vega-set-to-run-for-fifa-president/",
+      "title": "BRICS membership could give Ghana more options in global diplomacy — analyst",
+      "link": "https://www.myjoyonline.com/brics-membership-could-give-ghana-more-options-in-global-diplomacy-analyst/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T00:10:00.000Z",
-      "summary": "Former Tottenham Hotspur defender Ramon Vega says he intends to stand as a candidate in next year's Fifa presidential election.",
+      "published": "2026-10-08T05:49:00.000Z",
+      "summary": "Ghana could gain greater room to manoeuvre in an increasingly fragmented global order if it joins the BRICS grouping, International Relations Analyst Dr Nana Yaw Mireku has said.",
       "categories": [
-        "Football",
-        "FIFA",
-        "Ramon Vega"
+        "National",
+        "Ablakwa",
+        "BRICS",
+        "Ghana",
+        "Government"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-807.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-094800-1024x562.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Arteta signs new contract with champions Arsenal",
-      "link": "https://www.myjoyonline.com/arteta-signs-new-contract-with-champions-arsenal/",
+      "title": "GoldBod sells $125m to commercial banks in maiden FX auction",
+      "link": "https://www.myjoyonline.com/goldbod-sells-125m-to-commercial-banks-in-maiden-fx-auction/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T00:00:00.000Z",
-      "summary": "Manager Mikel Arteta says this is \"only the beginning\" of Arsenal's success after signing a new contract with the Premier League champions until 2030.",
+      "published": "2026-10-08T05:44:56.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) has sold approximately US$125 million to commercial banks in its maiden foreign exchange auction under its new spot FX sales and intermediation framework.",
       "categories": [
-        "Football",
-        "Arsenal",
-        "Mikel Arteta"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-806.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Man City player Silva comes out of retirement",
-      "link": "https://www.myjoyonline.com/former-man-city-player-silva-comes-out-of-retirement/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T23:51:00.000Z",
-      "summary": "Former Manchester City midfielder David Silva has come out of retirement at the age of 40 to join Hong Kong Premier League club Sha Tin.",
-      "categories": [
-        "Football",
-        "David Silva",
-        "Man City"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-805.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I have a screen in my office’ – Akandoh on real-time emergency bed tracking",
-      "link": "https://www.myjoyonline.com/i-have-a-screen-in-my-office-akandoh-on-real-time-emergency-bed-tracking/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T23:46:00.000Z",
-      "summary": "Health Minister Kwabena Mintah Akandoh says the government has begun piloting a real-time electronic system to track emergency beds across selected hospitals.",
-      "categories": [
-        "Health",
-        "Emergency bed tracking",
-        "Kwabena Mintah Akandoh"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Akandoh-e1788879014360.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government begins pilot of national emergency bed management system",
-      "link": "https://www.myjoyonline.com/government-begins-pilot-of-national-emergency-bed-management-system/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T23:25:00.000Z",
-      "summary": "The government has begun piloting a national emergency bed management system as part of efforts to tackle Ghana’s persistent “no bed syndrome” in hospitals.",
-      "categories": [
-        "Health",
+        "Banking and Finance",
+        "HP Business 1",
         "HP News 3",
-        "Emergency bed management system",
-        "Kwabena Mintah Akandoh"
+        "National",
+        "Foreign exchange auction",
+        "Goldbod"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/1-16.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/08/image-521.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -169,110 +270,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/Andrei.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "How Nana Butler took down exploitative Management Committees",
-      "link": "https://ghanaiantimes.com.gh/how-nana-butler-took-down-exploitative-management-committees/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T17:02:09.000Z",
-      "summary": "The year was 1993, and the destination was Australia. Down Under, the Black Satellites—Ghana’s exceptionally gifted Under-20 national team—were busy treating the footballing world to a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "How Nana Butler took sown exploitative Management Committees",
-      "link": "https://ghanaiantimes.com.gh/how-nana-butler-took-sown-exploitative-management-committees/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T17:02:09.000Z",
-      "summary": "The year was 1993, and the destination was Australia. Down Under, the Black Satellites—Ghana’s exceptionally gifted Under-20 national team—were busy treating the footballing world to a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Agona West MP supports Swedru School of Business with mono desks",
-      "link": "https://ghanaiantimes.com.gh/agona-west-mp-supports-swedru-school-of-business-with-mono-desks/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T17:00:14.000Z",
-      "summary": "Member of Parliament for Agona West, Ernestina Ofori Dangbey, has donated mono desks to the Swedru School of Business (SWESBUS) as part of efforts to improve education infrastructure in the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-16.42.39-1.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bank of Ghana warns public against repairing torn Cedi notes with adhesive tape",
-      "link": "https://ghanaiantimes.com.gh/bank-of-ghana-warns-public-against-repairing-torn-cedi-notes-with-adhesive-tape/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T16:57:33.000Z",
-      "summary": "The Bank of Ghana has warned the public to desist from repairing and re-joining torn and soiled Ghana Cedi banknotes with adhesive tape for re-circulation. In a statement issued on…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Eastern Regional Fire Officer visits injured firefighter in Koforidua",
-      "link": "https://ghanaiantimes.com.gh/eastern-regional-fire-officer-visits-injured-firefighter-in-koforidua/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T16:55:12.000Z",
-      "summary": "The Eastern Regional Fire Officer, ACFO II Ofori Asomoah, has paid a visit to an injured fire officer who was hurt in the line of duty. Accompanied by the Regional Second-in-Command, the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Empress Gifty surprises physically challenged hawker",
-      "link": "https://ghanaiantimes.com.gh/empress-gifty-surprises-physically-challenged-hawker/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T16:53:49.000Z",
-      "summary": "Gospel heavyweight Empress Gifty has put smiles on the face of a physically challenged bottled water hawker at the Dzorwulu – Perez Chapel traffic light. The artiste surprised him with…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minority demands removal of Sports Minister, GTA Boss over alleged World Cup visa fraud",
-      "link": "https://ghanaiantimes.com.gh/minority-demands-removal-of-sports-minister-gta-boss-over-alleged-world-cup-visa-fraud/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T16:51:46.000Z",
-      "summary": "The Minority Spokesperson on Sports, Vincent Ekow Assafuah, has called on President John Dramani Mahama to dismiss the Minister for Sports and Recreation, Kofi Adams, and other officials…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama to cut sod for new Accra Convention Centre",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-to-cut-sod-for-new-accra-convention-centre/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T16:49:20.000Z",
-      "summary": "President John Dramani Mahama will in the coming weeks cut sod for the construction of the Accra Convention Centre, the latest major investment by the Social Security and National Insurance…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-16.33.52-1024x685.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Media worker, journalist remanded over alleged GH¢800,000 fraud",
