@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-07T21:26:49.380Z",
+  "updated": "2026-10-08T01:10:49.398Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,91 +25,125 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "327 entries submitted for 30th GJA Media Awards",
-      "link": "https://www.myjoyonline.com/327-entries-submitted-for-30th-gja-media-awards/",
+      "title": "Ghana, 3 others face large financing needs, debt servicing costs – World Bank warns",
+      "link": "https://www.myjoyonline.com/ghana-3-others-face-large-financing-needs-debt-servicing-costs-world-bank-warns/",
       "source": "MyJoyOnline",
-      "published": "2026-10-07T21:12:01.000Z",
-      "summary": "A total of 327 entries from 206 journalists have been submitted for the 30th Ghana Journalists Association Media Awards, one of the highest numbers recorded in recent years.",
+      "published": "2026-10-08T01:08:07.000Z",
+      "summary": "According to the Bretton Woods institution October 2026 Africa Economic Update, weaker-than-expected revenue mobilisation may require additional fiscal adjustment.",
       "categories": [
-        "National",
-        "30th GJA Media Awards"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/Albert_Dwumfour_WPFD_2025.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama proposes rent-to-own scheme for unfinished houses",
-      "link": "https://www.myjoyonline.com/mahama-proposes-rent-to-own-scheme-for-unfinished-houses/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T21:10:06.000Z",
-      "summary": "President John Mahama has proposed a financing arrangement to help complete thousands of unfinished houses across the country and convert them into rent-to-own homes.",
-      "categories": [
-        "National",
-        "President John Mahama",
-        "rent-to-own scheme",
-        "unfinished houses"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mahama_egypt.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama wants banks to introduce affordable housing loans within six months",
-      "link": "https://www.myjoyonline.com/mahama-wants-banks-to-introduce-affordable-housing-loans-within-six-months/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T21:09:07.000Z",
-      "summary": "President John Mahama has tasked financial institutions with committing to introducing or revising affordable housing loan products within the next six months.",
-      "categories": [
-        "National",
-        "affordable housing loans",
-        "Banks",
-        "President John Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos from National Conference on Housing Finance",
-      "link": "https://www.myjoyonline.com/photos-from-national-conference-on-housing-finance/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T21:05:22.000Z",
-      "summary": "The National Conference on Housing Finance brought together stakeholders from across Ghana’s housing and financial sectors to deliberate on ways to improve access to affordable housing…",
-      "categories": [
-        "National",
-        "Photo Story",
-        "National Conference on Housing Finance"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-20.16.32-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Italy, Ghana unite 40 artists for ‘Beyond Creation’ exhibition at Accra Art Centre",
-      "link": "https://www.myjoyonline.com/italy-ghana-unite-40-artists-for-beyond-creation-exhibition-at-accra-art-centre/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T20:46:33.000Z",
-      "summary": "The Accra Art Centre has opened its doors to the public for the premiere of 'Beyond Creation: Humanity, Nature and Spirituality - A Universal Message', an international contemporary art…",
-      "categories": [
-        "Art & Design",
-        "Beyond Creation",
+        "Business",
+        "Economy",
+        "debt servicing",
         "Ghana",
-        "Italy"
+        "Public investment",
+        "Social spending",
+        "World Bank"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-8.34.46-PM3-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-6.05.03-am.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Premature to call for Sports Minister’s removal while CID probe is ongoing – Ernest Norgbey",
-      "link": "https://www.myjoyonline.com/premature-to-call-for-sports-ministers-removal-while-cid-probe-is-ongoing-ernest-norgbey/",
+      "title": "Eurobond repayment: Ghana faces US$6.4bn repayment burden between 2027 and 2030 – World Bank",
+      "link": "https://www.myjoyonline.com/eurobond-repayment-ghana-faces-us6-4bn-repayment-burden-between-2027-and-2030-world-bank/",
       "source": "MyJoyOnline",
-      "published": "2026-10-07T20:26:33.000Z",
-      "summary": "Chairman of Parliament’s Youth and Sports Committee, Ernest Norgbey, says it would be premature to call for the removal of Sports Minister Kofi Adams while investigations into alleged…",
+      "published": "2026-10-08T00:45:10.000Z",
+      "summary": "South Africa faces the largest repayment burden of US$11.8 billion in Africa, with maturities in every year of the period.",
       "categories": [
-        "National",
-        "News",
-        "CID",
-        "Ernest Norgbey",
-        "Sports Minister"
+        "Business",
+        "Economy",
+        "Eurobond",
+        "Ghana",
+        "maturities",
+        "Repayment",
+        "South Africa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Kofi-Adams-3-636x424-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/03/World-Bank.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government to add 100 new ambulances to national fleet in 2027",
+      "link": "https://www.myjoyonline.com/government-to-add-100-new-ambulances-to-national-fleet-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T00:31:00.000Z",
+      "summary": "The government will add 100 new ambulances to Ghana’s national fleet in 2027 as part of efforts to strengthen emergency medical services.",
+      "categories": [
+        "Health",
+        "News",
+        "Ambulances",
+        "Kwabena Mintah Akandoh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/ambulance.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ex-Spurs player Vega set to run for FIFA president",
+      "link": "https://www.myjoyonline.com/ex-spurs-player-vega-set-to-run-for-fifa-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T00:10:00.000Z",
+      "summary": "Former Tottenham Hotspur defender Ramon Vega says he intends to stand as a candidate in next year's Fifa presidential election.",
+      "categories": [
+        "Football",
+        "FIFA",
+        "Ramon Vega"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-807.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arteta signs new contract with champions Arsenal",
+      "link": "https://www.myjoyonline.com/arteta-signs-new-contract-with-champions-arsenal/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T00:00:00.000Z",
+      "summary": "Manager Mikel Arteta says this is \"only the beginning\" of Arsenal's success after signing a new contract with the Premier League champions until 2030.",
+      "categories": [
+        "Football",
+        "Arsenal",
+        "Mikel Arteta"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-806.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Former Man City player Silva comes out of retirement",
+      "link": "https://www.myjoyonline.com/former-man-city-player-silva-comes-out-of-retirement/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T23:51:00.000Z",
+      "summary": "Former Manchester City midfielder David Silva has come out of retirement at the age of 40 to join Hong Kong Premier League club Sha Tin.",
+      "categories": [
+        "Football",
+        "David Silva",
+        "Man City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-805.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘I have a screen in my office’ – Akandoh on real-time emergency bed tracking",
+      "link": "https://www.myjoyonline.com/i-have-a-screen-in-my-office-akandoh-on-real-time-emergency-bed-tracking/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T23:46:00.000Z",
+      "summary": "Health Minister Kwabena Mintah Akandoh says the government has begun piloting a real-time electronic system to track emergency beds across selected hospitals.",
+      "categories": [
+        "Health",
+        "Emergency bed tracking",
+        "Kwabena Mintah Akandoh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Akandoh-e1788879014360.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government begins pilot of national emergency bed management system",
+      "link": "https://www.myjoyonline.com/government-begins-pilot-of-national-emergency-bed-management-system/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-07T23:25:00.000Z",
+      "summary": "The government has begun piloting a national emergency bed management system as part of efforts to tackle Ghana’s persistent “no bed syndrome” in hospitals.",
+      "categories": [
+        "Health",
+        "HP News 3",
+        "Emergency bed management system",
+        "Kwabena Mintah Akandoh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/1-16.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -125,39 +159,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "NPP mourns Samuel Arthur Odoi-Sykes",
-      "link": "https://www.myjoyonline.com/npp-mourns-samuel-arthur-odoi-sykes/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T20:09:24.000Z",
-      "summary": "The New Patriotic Party (NPP) has expressed deep sorrow over the death of Ambassador Samuel Arthur Odoi-Sykes, describing him as one of the founding pillars of the party and a distinguished…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Politics",
-        "NPP",
-        "Samuel Arthur Odoi-Sykes"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-5.20.48-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Stay out of World Cup visa probe to avoid interfering with CID investigations – Ernest Norgbey to politicians",
-      "link": "https://www.myjoyonline.com/stay-out-of-world-cup-visa-probe-to-avoid-interfering-with-cid-investigations-ernest-norgbey-to-politicians/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T19:58:57.000Z",
-      "summary": "Chairman of Parliament’s Youth and Sports Committee, Ernest Norgbey, has urged politicians to stay out of the ongoing investigation into alleged irregularities surrounding Ghana’s World Cup…",
-      "categories": [
-        "Football",
-        "National",
-        "News",
-        "CID",
-        "Politicians",
-        "World Cup visa probe"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ernest-Norgbey.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Russia-Ukraine war: Russia embassy denies claims of unlawful recruitment of Africans",
       "link": "https://www.graphic.com.gh/news/general-news/russia-ukraine-war-russia-embassy-denies-claims-of-unlawful-recruitment-of-africans.html",
       "source": "Daily Graphic",
@@ -168,6 +169,19 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Sept/19/Andrei.jpg",
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "How Nana Butler took down exploitative Management Committees",
+      "link": "https://ghanaiantimes.com.gh/how-nana-butler-took-down-exploitative-management-committees/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-07T17:02:09.000Z",
+      "summary": "The year was 1993, and the destination was Australia. Down Under, the Black Satellites—Ghana’s exceptionally gifted Under-20 national team—were busy treating the footballing world to a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "How Nana Butler took sown exploitative Management Committees",
@@ -415,18 +429,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Mar/04/Ronny26.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Hogbetsotso 2026 to promote tourism, local businesses",
-      "link": "https://ghanaiantimes.com.gh/hogbetsotso-2026-to-promote-tourism-local-businesses/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-07T09:11:14.000Z",
-      "summary": "THE 64th Hogbetsotso Festival of the chiefs and people of the Anlo State has been designed to attract tourists, empower local businesses, showcase the rich cultural heritage of Anlo and…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Owner, businessman and player: Messi has big plans as a golden era ends",

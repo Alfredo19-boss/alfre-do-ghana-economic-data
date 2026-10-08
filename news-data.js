@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-07T21:26:36.014Z",
-  "worldAt": "2026-10-07T21:26:36.011Z",
+  "updated": "2026-10-08T01:10:30.653Z",
+  "worldAt": "2026-10-08T01:10:30.651Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -46,6 +46,13 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Eurobond repayment: Ghana faces US$6.4bn repayment burden between 2027 and 2030 – World Bank",
+      "link": "https://www.myjoyonline.com/eurobond-repayment-ghana-faces-us6-4bn-repayment-burden-between-2027-and-2030-world-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T00:45:10.000Z",
+      "summary": "South Africa faces the largest repayment burden of US$11.8 billion in Africa, with maturities in every year of the period."
+    },
     {
       "title": "Ghana’s digital finance story still not complete, as more transactions end up as cash – BoG Governor",
       "link": "https://www.myjoyonline.com/ghanas-digital-finance-story-still-not-complete-as-more-transactions-end-up-as-cash-bog-governor/",
@@ -1088,16 +1095,114 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-04T15:00:30.000Z",
       "summary": "Recurring fibre cuts are imposing rising costs on Ghana’s telecom sector, disrupting businesses and weakening network reliability, prompting calls for stronger coordination to protect…"
-    },
-    {
-      "title": "StarOil Moves to Rejoin COMAC After 9 Months of Exit, But Not Without Critical Concerns",
-      "link": "https://thehighstreetjournal.com/staroil-moves-to-rejoin-comac-after-9-months-of-exit-but-not-without-critical-concerns/",
-      "source": "The High Street Journal",
-      "published": "2026-10-04T14:00:26.000Z",
-      "summary": "StarOil Ghana is rejoining COMAC after nine months away, citing industry appeals and the need for collective representation, but is demanding governance reforms, particularly over permanent…"
     }
   ],
   "world": [
+    {
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-08T00:53:46.000Z",
+      "summary": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adce/live/8f5568b0-c21f-11f1-b7d8-6f930589c871.jpg"
+    },
+    {
+      "title": "How kidnappings are hitting Nigeria’s Borno families hard",
+      "link": "https://www.aljazeera.com/news/2026/10/8/how-kidnappings-are-hitting-nigerias-borno-families-hard?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T00:47:32.000Z",
+      "summary": "Across Borno, abductions are leaving families with depleted savings, missing loved ones and disrupted education."
+    },
+    {
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-08T00:09:17.000Z",
+      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg"
+    },
+    {
+      "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+      "link": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T00:33:03.000Z",
+      "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves."
+    },
+    {
+      "title": "DNC sues Trump administration over taxpayer-funded TV ads promoting president",
+      "link": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads",
+      "source": "France 24",
+      "published": "2026-10-07T22:27:23.000Z",
+      "summary": "The Democratic National Committee sued President Donald Trump’s administration on Wednesday over taxpayer-funded television ads promoting his political message, alleging illegal government…",
+      "image": "https://s.france24.com/media/display/fae7a376-c21b-11f1-8c0b-0f96b136895a/w:1024/p:16x9/9939fec8f8dddd1013f1f9123540d7ad7a9e14b8.jpg"
+    },
+    {
+      "title": "Russia dismisses reports of second plague case as ‘false information’",
+      "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T00:16:41.000Z",
+      "summary": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases."
+    },
+    {
+      "title": "No longer the same Israel? October 7th and the future of the Jewish State",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261007-no-longer-the-same-israel-october-7th-and-the-future-of-the-jewish-state",
+      "source": "France 24",
+      "published": "2026-10-07T22:10:13.000Z",
+      "summary": "For now, it's still Benjamin Netanyahu’s Israel. In 2023, in the immediate aftermath of the country’s worst day of bloodshed in its history, pundits predicted the quick demise of the right…",
+      "image": "https://s.france24.com/media/display/f146ff42-c275-11f1-932d-4b195755b8ed/w:1024/p:16x9/2026-10-07T051408Z-2040734097-RC23YNA0KTNJ-RTRMADP-3-ISRAEL-PALESTINIANS-NOVA.jpg"
+    },
+    {
+      "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T00:16:25.000Z",
+      "summary": "Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people."
+    },
+    {
+      "title": "Thousands protest Flavio Bolsonaro, fearing far-right return in Brazil",
+      "link": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil",
+      "source": "France 24",
+      "published": "2026-10-07T22:01:02.000Z",
+      "summary": "Thousands of people joined a student march in downtown Rio de Janeiro on Wednesday to protest against Flavio Bolsonaro ahead of Brazil's October 25 presidential runoff. Bolsonaro led…",
+      "image": "https://s.france24.com/media/display/16ee0312-c28f-11f1-a141-ef6152f87623/w:1024/p:16x9/99c45d97550e9fe2e25c9fba173e4f6892b7e44f.jpg"
+    },
+    {
+      "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T00:00:00.000Z",
+      "summary": "Saudi-backed Yemeni forces claim advances in western Taiz's mountain belt overlooking the coast."
+    },
+    {
+      "title": "Israel marks three years since October 7 attack ahead of elections",
+      "link": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
+      "source": "France 24",
+      "published": "2026-10-07T21:50:07.000Z",
+      "summary": "Israel marked the third anniversary of Hamas’s October 7 attack on Wednesday with silent tributes and renewed strikes on Gaza as political debate intensified ahead of elections. Families…",
+      "image": "https://s.france24.com/media/display/9ff484f6-c271-11f1-b4b1-27c2853ad5a5/w:1024/p:16x9/000-D2H22CT.jpg"
+    },
+    {
+      "title": "EU-China trade talks begin in Beijing amid escalating pressure",
+      "link": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T23:45:03.000Z",
+      "summary": "Talks will focus on the €1bn daily deficit and rare earth export restrictions."
+    },
+    {
+      "title": "UN health agency wants more details from Russia on suspected pneumonic plague case",
+      "link": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
+      "source": "France 24",
+      "published": "2026-10-07T21:24:45.000Z",
+      "summary": "A top official with the World Health Organization said Wednesday it doesn’t know how a lab worker in Siberia died, and she urged Russia to provide more information about a case that…",
+      "image": "https://s.france24.com/media/display/59435228-c24c-11f1-ac27-ff8cff4603f0/w:1024/p:16x9/AP26278372667862.jpg"
+    },
+    {
+      "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+      "link": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T23:33:29.000Z",
+      "summary": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post."
+    },
     {
       "title": "France suspends stun grenade use at student protests after pupil loses hand",
       "link": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
@@ -1107,11 +1212,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/05157fc6-c294-11f1-9e7b-c55799ef8309/w:1024/p:16x9/EN-20261007-230627-230756-CS.jpg"
     },
     {
-      "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
-      "link": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
+      "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
+      "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T21:09:20.000Z",
-      "summary": "WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal."
+      "published": "2026-10-07T23:20:01.000Z",
+      "summary": "Death row inmate who survived execution by lethal injection is said to be 'angry and confused' about what happened."
     },
     {
       "title": "French PM vows to address debt despite student protests",
@@ -1122,11 +1227,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/efeefd2e-c28f-11f1-93d7-27c2853ad5a5/w:1024/p:16x9/capture-13399778726ac6af405641d9-98336344.jpg"
     },
     {
-      "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
-      "link": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket?traffic_source=rss",
+      "title": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
+      "link": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T21:08:59.000Z",
-      "summary": "Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title."
+      "published": "2026-10-07T22:14:58.000Z",
+      "summary": "Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil's presidential run-off."
     },
     {
       "title": "What is the pneumonic plague?",
@@ -1137,11 +1242,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2880x1920+0+0/resize/2880x1920!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F76%2Fb8746ff340d5984bafb43f99a66f%2Fsciencesourceimages-1066890.jpg"
     },
     {
-      "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
+      "title": "Judge orders officials to preserve Pike execution evidence",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/judge-orders-officials-to-preserve-pike-execution-evidence?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T21:06:46.000Z",
-      "summary": "Gaza child’s autoimmune condition triggered amid Israel’s war"
+      "published": "2026-10-07T22:05:49.000Z",
+      "summary": "A Nashville judge ordered Tennessee officials to preserve evidence from Christa Pike’s failed execution"
     },
     {
       "title": "Olympics: South Africa aims to host the Games in 2036",
@@ -1151,19 +1256,11 @@ window.GDC_NEWS = {
       "summary": "South Africa is aiming to host the first ever Olympics on the African continent. This after it was named as one of seven countries that will officially put forward their case to stage the…"
     },
     {
-      "title": "Inside SpaceX’s new look for AI data centres in orbit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss",
+      "title": "Pro-Palestine university groups march in London on October 7 anniversary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T20:54:43.000Z",
-      "summary": "Inside SpaceX’s new look for AI data centres in orbit"
-    },
-    {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-07T20:51:00.000Z",
-      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg"
+      "published": "2026-10-07T21:33:21.000Z",
+      "summary": "Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march."
     },
     {
       "title": "Africa joins the data center backlash",
@@ -1174,6 +1271,13 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/179bb660-c28f-11f1-98b3-4b195755b8ed/w:1024/p:16x9/capture-15022793656ac6add5610765-35279800.jpg"
     },
     {
+      "title": "Trump on why he thinks he deserves the Nobel Peace Prize",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T21:30:18.000Z",
+      "summary": "US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee."
+    },
+    {
       "title": "Chinese runner dropped by sponsor after riding bike during marathon",
       "link": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1182,11 +1286,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1d/live/375c7f80-c27f-11f1-98ea-35e6bf307fc9.jpg"
     },
     {
-      "title": "US Republicans, independents express low trust in election integrity: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
+      "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T20:27:47.000Z",
-      "summary": "A Gallup survey highlights a deep – and historic – partisan divide over confidence in the country's elections."
+      "published": "2026-10-07T21:09:20.000Z",
+      "summary": "WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal."
     },
     {
       "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
@@ -1197,6 +1301,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d466/live/028c9160-c28d-11f1-81d9-d568e8babc26.jpg"
     },
     {
+      "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T21:08:59.000Z",
+      "summary": "Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title."
+    },
+    {
       "title": "France schools protests: more than 6,000 arrested since start of demonstrations",
       "link": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
       "source": "France 24",
@@ -1205,11 +1316,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/95dc001c-c289-11f1-96c0-f50f6d982dc3/w:1024/p:16x9/EN-20261007-213526-213722-CS.jpg"
     },
     {
-      "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+      "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T20:17:27.000Z",
-      "summary": "Former British consul Vincent Fean says Israel is acting unlawfully by demanding the UK close its consulate."
+      "published": "2026-10-07T21:06:46.000Z",
+      "summary": "Gaza child’s autoimmune condition triggered amid Israel’s war"
     },
     {
       "title": "Kenya: Health Minister insists no ebola outbreak in country",
@@ -1217,6 +1328,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-07T20:16:59.000Z",
       "summary": "Kenya is not in the grips of an ebola outbreak, the country's health secretary insisted on Wednesday, in the wake of Kenya's first death from the disease."
+    },
+    {
+      "title": "Inside SpaceX’s new look for AI data centres in orbit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T20:54:43.000Z",
+      "summary": "Inside SpaceX’s new look for AI data centres in orbit"
     },
     {
       "title": "Evicted pensioner who sparked Spain housing protests dies: tenant union",
@@ -1227,11 +1345,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/8815cb7e-c28a-11f1-90c5-c55799ef8309/w:1024/p:16x9/EN-20261007-213834-214117-CS.jpg"
     },
     {
-      "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
-      "link": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss",
+      "title": "US Republicans, independents express low trust in election integrity: Poll",
+      "link": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T20:14:35.000Z",
-      "summary": "FCC commissioner warns against AI robocalls, citing risks of misinformation before crucial midterm elections."
+      "published": "2026-10-07T20:27:47.000Z",
+      "summary": "A Gallup survey highlights a deep – and historic – partisan divide over confidence in the country's elections."
     },
     {
       "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
@@ -1241,11 +1359,11 @@ window.GDC_NEWS = {
       "summary": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say…"
     },
     {
-      "title": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
-      "link": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss",
+      "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T19:57:14.000Z",
-      "summary": "The Catholic Church in Australia has been marred by abuse allegations in recent years."
+      "published": "2026-10-07T20:17:27.000Z",
+      "summary": "Former British consul Vincent Fean says Israel is acting unlawfully by demanding the UK close its consulate."
     },
     {
       "title": "'It's still unclear whether Netanyahu will pay for what happened during his time in office'",
@@ -1256,11 +1374,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/be013ffa-bc7e-11f1-adb1-177f79e345bf/w:1024/p:16x9/AP25357403714237.jpg"
     },
     {
-      "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
-      "link": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
+      "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
+      "link": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T19:40:07.000Z",
-      "summary": "Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief."
+      "published": "2026-10-07T20:14:35.000Z",
+      "summary": "FCC commissioner warns against AI robocalls, citing risks of misinformation before crucial midterm elections."
     },
     {
       "title": "White House promotes 'Trump TV' with an AI-altered photo",
@@ -1271,133 +1389,29 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3bd673f8-c285-11f1-9e85-f50f6d982dc3/w:1024/p:16x9/capture-18849501526ac69d4b32a593-88115309.jpg"
     },
     {
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-07T19:30:51.000Z",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f330/live/0e148220-c285-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
-      "link": "https://www.france24.com/en/europe/20261007-evicted-pensioner-maricarmen-abascal-heart-of-spain-housing-protests-has-died",
-      "source": "France 24",
-      "published": "2026-10-07T19:19:07.000Z",
-      "summary": "Maricarmen ​Abascal, the 87-year-old woman whose eviction sparked housing ​protests in Spain, has died, Madrid's tenants' union said on Wednesday. Massive protests following Abascal's…",
-      "image": "https://s.france24.com/media/display/ed5b16a4-c282-11f1-8b11-ef6152f87623/w:1024/p:16x9/000-D2JV49E.jpg"
-    },
-    {
-      "title": "Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row",
-      "link": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
+      "title": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
+      "link": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-07T18:57:18.000Z",
-      "summary": "Rabbi Dov Lando's comments expose tensions over Zionism, conscription and Netanyahu's ultra-Orthodox allies."
-    },
-    {
-      "title": "Trump says 'we don't think' Russian plague is bio-weapon",
-      "link": "https://www.france24.com/en/trump-says-we-don-t-think-russian-plague-is-bio-weapon",
-      "source": "France 24",
-      "published": "2026-10-07T19:04:48.000Z",
-      "summary": "US President Donald Trump said Wednesday that the death of a Russian plague laboratory worker did not appear to be linked to a biological weapon. \"We don't think so. We're going to find out…",
-      "image": "https://s.france24.com/media/display/3ce7b3fe-c1fb-11f1-99f0-13e372f41e70/w:1024/p:16x9/AFP-20261005-D29Y9T3-v1-HighRes-RussiaHealthPlague.jpg"
-    },
-    {
-      "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
-      "link": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:43:47.000Z",
-      "summary": "Eritrea dismisses allegation as Ethiopia's pretext for more war."
-    },
-    {
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-07T18:27:40.000Z",
-      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png"
-    },
-    {
-      "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:32:08.000Z",
-      "summary": "Ukraine says Russia launched a massive overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles"
-    },
-    {
-      "title": "BRICS: Ghana's parliament gives green light to formal application",
-      "link": "http://www.africanews.com/2026/10/07/brics-ghanas-parliament-gives-green-light-to-formal-application/",
-      "source": "Africanews",
-      "published": "2026-10-07T18:20:34.000Z",
-      "summary": "Ghana's cabinet has given the green light to a decision to formally apply to join the BRICS geopolitical and economic bloc, according to the country's foreign minister."
-    },
-    {
-      "title": "Kenya on high alert amid concern over screening after first Ebola death",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:31:57.000Z",
-      "summary": "Kenya’s government has intensified Ebola preparedness efforts amid growing concern over lapses in border screening."
-    },
-    {
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-07T18:12:58.000Z",
-      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/519e/live/6e49e580-c268-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "title": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
-      "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:29:34.000Z",
-      "summary": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh."
-    },
-    {
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-07T17:47:31.000Z",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "title": "LSD – from counterculture to clinical trials",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/lsd-from-counterculture-to-clinical-trials?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:27:12.000Z",
-      "summary": "From psychiatric research to counterculture and secret CIA mind-control experiments, LSD makes its way back to the lab."
-    },
-    {
-      "title": "'Resilience' of Israelis as they mourn the loss of loved ones and 'the sense that we can be safe'",
-      "link": "https://www.france24.com/en/video/20261007-resilience-of-israelis-as-they-the-mourn-loss-of-loved-ones-and-the-sense-that-we-can-be-safe",
-      "source": "France 24",
-      "published": "2026-10-07T17:46:29.000Z",
-      "summary": "Angela Diffley is pleased to welcome Dr. Danny Brom, Founding Director of METIV, the Israel Psychotrauma Center in Jerusalem. According to Dr. Brom, as Israelis and Jewish people around the…",
-      "image": "https://s.france24.com/media/display/4e9b41c6-c271-11f1-8565-4b195755b8ed/w:1024/p:16x9/EN-20261007-150336-152020-CS.jpg"
-    },
-    {
-      "title": "Most Americans oppose Trump’s taxpayer-funded ‘golden age’ ads: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/7/most-americans-oppose-trumps-taxpayer-funded-golden-age-ads-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:27:09.000Z",
-      "summary": "Trump says he will pay for future ads, but the White House says taxpayers will not be reimbursed for past ones."
-    },
-    {
-      "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-      "link": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-07T17:33:00.000Z",
-      "summary": "Pakistan and Turkey have agreed to provide \"practical measures\" to defend Saudi Arabia against Houthi attacks. Could a new alliance reshape the war against the Houthis in Yemen?"
-    },
-    {
-      "title": "In El Salvador’s mass trials, lawyers struggle to defend hundreds",
-      "link": "https://www.aljazeera.com/news/2026/10/7/in-el-salvadors-mass-trials-lawyers-struggle-to-defend-hundreds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:26:07.000Z",
-      "summary": "Human Rights Watch says defendants face proceedings where lawyers have struggled to access case files."
+      "published": "2026-10-07T19:57:14.000Z",
+      "summary": "The Catholic Church in Australia has been marred by abuse allegations in recent years."
     }
   ],
   "africa": [
+    {
+      "title": "Group of 20 graduates rescued after being abducted in Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26ee4gl21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-07T21:30:57.000Z",
+      "summary": "The group was kidnapped earlier this month while travelling for a community service programme",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd03/live/fa2250d0-c293-11f1-84bb-6b5ebffa66ad.jpg"
+    },
+    {
+      "title": "Africa: World Cotton Day - The Real Value of Africa's Cotton Comes After the Harvest",
+      "link": "https://allafrica.com/stories/202610070756.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-07T21:26:16.000Z",
+      "summary": "[allAfrica] World Cotton Day should measure more than output. It should ask how much manufacturing, employment and African-owned value the continent creates from every bale it grows."
+    },
     {
       "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
       "link": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
@@ -1617,12 +1631,11 @@ window.GDC_NEWS = {
       "summary": "[Capital FM] Nairobi -- The United States has backed a stronger African Union-United Nations partnership to address conflicts across the continent, saying a UN framework for financing…"
     },
     {
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-07T12:46:39.000Z",
-      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fff/live/a4989950-c237-11f1-be2f-0fbd447d6e43.jpg"
+      "title": "Africa: Elumelu Urges Africa to Shift From Aid Dependence to Trade and Investment",
+      "link": "https://allafrica.com/stories/202610070444.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-07T13:17:24.000Z",
+      "summary": "[Liberian Observer] Chairman of Heirs Holdings, Tony Elumelu, has called for a fundamental shift in Africa's development model, urging the continent to move away from dependence on foreign…"
     },
     {
       "title": "Somalia: Somalia Says Al-Shabab Amniyat Chief Killed in Nisa Operation",
@@ -1630,6 +1643,14 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-07T13:07:58.000Z",
       "summary": "[Shabelle] Mogadishu -- Somalia's intelligence agency said a former head of al-Shabab's Amniyat security wing was killed in a planned operation carried out with international partners in…"
+    },
+    {
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-07T12:46:39.000Z",
+      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fff/live/a4989950-c237-11f1-be2f-0fbd447d6e43.jpg"
     },
     {
       "title": "Africa: How Africa Can Capture More Value From Its Cotton",
@@ -1658,27 +1679,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-07T11:20:08.000Z",
       "summary": "It says the north-eastern region now accounts for nearly 40 per cent of all newly confirmed incidents nationwide."
-    },
-    {
-      "title": "Sudan: Call to Scrap Sudan Customs' Advance Import Declaration System",
-      "link": "https://allafrica.com/stories/202610070385.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-07T12:02:54.000Z",
-      "summary": "[Dabanga] Amsterdam / Port Sudan -- Sudanese importers and customs experts are calling for the cancellation of a new Advance Cargo Declaration (ACD) system, saying it will increase import…"
-    },
-    {
-      "title": "Congo-Kinshasa: Nduhungirehe, Kenyatta Discuss Peace Efforts for DR Congo",
-      "link": "https://allafrica.com/stories/202610070338.html",
-      "source": "AllAfrica",
-      "published": "2026-10-07T11:06:39.000Z",
-      "summary": "[New Times] Minister Foreign Affairs and International Cooperation Olivier Nduhungirehe on Tuesday, October 6, received former Kenyan President Uhuru Kenyatta, a member of the African Union…"
-    },
-    {
-      "title": "Kenya: Kenya Airways Confirms Passenger Died After Medical Emergency On Lagos-Bound Flight",
-      "link": "https://allafrica.com/stories/202610070332.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-07T11:00:14.000Z",
-      "summary": "[Vanguard] Kenya Airways has confirmed the death of a passenger who suffered a medical emergency aboard a flight from Nairobi, Kenya, to Lagos, Nigeria."
     }
   ]
 };
