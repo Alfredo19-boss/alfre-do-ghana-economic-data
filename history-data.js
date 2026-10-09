@@ -3,7 +3,7 @@
  * Fetched by .github/workflows/history.yml. Do not edit by hand.
  */
 window.GDC_HISTORY = {
-  "updated": "2026-10-08T14:03:37.431Z",
+  "updated": "2026-10-09T14:03:30.433Z",
   "from": 1993,
   "source": "World Bank, World Development Indicators",
   "sourceUrl": "https://data.worldbank.org/country/ghana",
@@ -553,15 +553,19 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2022",
-          "value": 5.205457212
+          "value": 5.003523381
         },
         {
           "date": "2023",
-          "value": 3.623904995
+          "value": 4.353757454
         },
         {
           "date": "2024",
-          "value": 4.472457559
+          "value": 7.117343743
+        },
+        {
+          "date": "2025",
+          "value": 12.1250394
         }
       ]
     },
@@ -1889,7 +1893,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2025",
-          "value": 9.389161234
+          "value": 9.392863467
         }
       ]
     },
@@ -2026,6 +2030,10 @@ window.GDC_HISTORY = {
         {
           "date": "2024",
           "value": 8.924353962
+        },
+        {
+          "date": "2025",
+          "value": 7.913911672
         }
       ]
     },
@@ -2445,15 +2453,15 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2016",
-          "value": 1.903823883
+          "value": 1.837823661
         },
         {
           "date": "2017",
-          "value": 1.945033307
+          "value": 1.934665542
         },
         {
           "date": "2018",
-          "value": 2.795898444
+          "value": 2.795898355
         },
         {
           "date": "2019",
@@ -2461,7 +2469,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2021",
-          "value": 2.902779516
+          "value": 2.839699707
         },
         {
           "date": "2022",
@@ -2469,7 +2477,15 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2023",
-          "value": 3.797899723
+          "value": 3.691505099
+        },
+        {
+          "date": "2024",
+          "value": 2.495132173
+        },
+        {
+          "date": "2025",
+          "value": 1.9768596
         }
       ]
     },
@@ -2557,15 +2573,15 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2016",
-          "value": 12.98232972
+          "value": 11.56719179
         },
         {
           "date": "2017",
-          "value": 25.34560872
+          "value": 25.74354489
         },
         {
           "date": "2018",
-          "value": 30.60561388
+          "value": 30.60561469
         },
         {
           "date": "2019",
@@ -2573,7 +2589,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2021",
-          "value": 26.6641837
+          "value": 26.15816036
         },
         {
           "date": "2022",
@@ -2581,7 +2597,15 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2023",
-          "value": 24.52981662
+          "value": 23.99198797
+        },
+        {
+          "date": "2024",
+          "value": 18.57367348
+        },
+        {
+          "date": "2025",
+          "value": 8.79717359
         }
       ]
     },
@@ -2669,15 +2693,15 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2016",
-          "value": 29.97675098
+          "value": 35.70826124
         },
         {
           "date": "2017",
-          "value": 23.85211437
+          "value": 23.72497535
         },
         {
           "date": "2018",
-          "value": 26.05736938
+          "value": 26.05736869
         },
         {
           "date": "2019",
@@ -2685,7 +2709,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2021",
-          "value": 25.3242443
+          "value": 25.2465084
         },
         {
           "date": "2022",
@@ -2693,7 +2717,15 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2023",
-          "value": 18.05904768
+          "value": 18.10637062
+        },
+        {
+          "date": "2024",
+          "value": 15.73546196
+        },
+        {
+          "date": "2025",
+          "value": 19.69463365
         }
       ]
     },
@@ -2846,7 +2878,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2026",
-          "value": 4155.8999
+          "value": 4219.8999
         }
       ]
     },
@@ -2963,7 +2995,7 @@ window.GDC_HISTORY = {
         },
         {
           "date": "2026",
-          "value": 5505
+          "value": 5677
         }
       ]
     }
