@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-09T00:21:06.659Z",
+  "updated": "2026-10-09T06:22:20.100Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,116 +25,177 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "link": "https://www.myjoyonline.com/asos-hackers-took-more-personal-details-than-first-revealed-bbc-finds/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T23:17:00.000Z",
-      "summary": "Asos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.",
+      "title": "Ghana must deliver on rice self-sufficiency by 2028",
+      "link": "https://ghanaiantimes.com.gh/ghana-must-deliver-on-rice-self-sufficiency-by-2028/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T06:18:49.000Z",
+      "summary": "Ghana’s ambition to achieve rice self-sufficiency by 2028 is one that deserves serious attention. For a country that spends about $500 million every year on rice imports, producing more of…",
       "categories": [
-        "International",
-        "Asos"
+        "Editorial"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-938-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Fort Hood shooter’s execution by firing squad will be livestreamed, Pentagon says",
-      "link": "https://www.myjoyonline.com/fort-hood-shooters-execution-by-firing-squad-will-be-livestreamed-pentagon-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T23:08:00.000Z",
-      "summary": "The public will be able to watch the execution of a former US Army major by firing squad, US Defence Secretary Pete Hegseth has said.",
-      "categories": [
-        "International",
-        "Fort Hood shooter",
-        "Pentagon"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-937-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Chrysler Building to get its crown restored after being sold",
-      "link": "https://www.myjoyonline.com/chrysler-building-to-get-its-crown-restored-after-being-sold/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T22:58:00.000Z",
-      "summary": "The Chrysler Building, one of the most distinctive high-rises in Manhattan's skyline, will undergo a major renovation as part of a multi-million-dollar sale deal.",
-      "categories": [
-        "International",
-        "Chrysler Building"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-936-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Infantino re-election boost as Concacaf chief will not stand",
-      "link": "https://www.myjoyonline.com/infantino-re-election-boost-as-concacaf-chief-will-not-stand/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T22:49:00.000Z",
-      "summary": "Gianni Infantino's chances of being re-elected as FIFA president appear to have received a major boost after potential rival Victor Montagliani confirmed he wants to remain head of Concacaf.",
-      "categories": [
-        "Football",
-        "Concacaf",
-        "Infantino"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-935.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Everton’s Sherif fined for breaching betting rules",
-      "link": "https://www.myjoyonline.com/evertons-sherif-fined-for-breaching-betting-rules/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T22:40:00.000Z",
-      "summary": "Everton forward Martin Sherif has been fined £5,000 by the Football Association for breaching its betting rules over a 15-month period.",
-      "categories": [
-        "Football",
-        "Betting rules",
-        "Everton",
-        "Martin Sherif"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-934.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Suspended fine for Xhaka over Covid-19 certificate",
-      "link": "https://www.myjoyonline.com/suspended-fine-for-xhaka-over-covid-19-certificate/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T22:34:00.000Z",
-      "summary": "Sunderland and Switzerland captain Granit Xhaka says he has received a suspended fine of 150,000 Swiss francs (£136,000) for obtaining a forged Covid-19 vaccination certificate.",
-      "categories": [
-        "Football",
-        "Covid-19 certificate",
-        "Granit Xhaka",
-        "Suspended fine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-933.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Businessman dragged to court over GH¢480,000 fraud",
-      "link": "https://www.myjoyonline.com/businessman-dragged-to-court-over-gh%c2%a2480000-fraud/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T22:25:00.000Z",
-      "summary": "A 44-year-old businessman has appeared before an Accra Circuit Court on charges of allegedly defrauding a businesswoman of GH¢480,000.",
+      "title": "Former Dome-Kwabenya MP backs Israel Kwadwo Safo as leader of Kristo Asafo, Kantanka family",
+      "link": "https://ghanaiantimes.com.gh/former-dome-kwabenya-mp-backs-israel-kwadwo-safo-as-leader-of-kristo-asafo-kantanka-family/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T06:08:07.000Z",
+      "summary": "Former Member of Parliament for Dome-Kwabenya, Sarah Adwoa Safo, has publicly recognised her brother, Israel Kwadwo Safo, as the leader of the Kantanka family and the Kristo Asafo Church…",
       "categories": [
         "Crime",
-        "Accra Circuit Court",
-        "Fraud"
+        "Hot!"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-2330-1024x683.png",
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nana Akua Addo’s husband faces arraignment over abuse allegations",
+      "link": "https://ghanaiantimes.com.gh/nana-akua-addos-husband-faces-arraignment-over-abuse-allegations/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T06:05:10.000Z",
+      "summary": "Harold Norman, husband of Ghanaian fashion icon Rosemond Akua Adobea, popularly known as Nana Akua Addo, is expected to appear before court following his discharge from hospital over…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "PAC summons Takoradi doctor over GH¢341,229 study leave salary",
+      "link": "https://www.myjoyonline.com/pac-summons-takoradi-doctor-over-gh%c2%a2341229-study-leave-salary/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:59:00.000Z",
+      "summary": "Parliament’s Public Accounts Committee (PAC) has directed the Ministry of Health to facilitate the appearance of a senior medical officer, Dr Mockshell Esinam Sunu, before the Committee…",
+      "categories": [
+        "National",
+        "PAC",
+        "Salary",
+        "Takoradi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/PAC-1-750x375-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Pregnant woman and husband found dead in a room at Anloga-Kportorgboe",
-      "link": "https://www.myjoyonline.com/pregnant-woman-and-husband-found-dead-in-a-room-at-anloga-kportorgboe/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T22:13:00.000Z",
-      "summary": "A 35-year-old man and his pregnant wife have been found dead in their room at Kportorgboe, a suburb of Anloga in the Volta Region.",
+      "title": "IGP urged to probe Prampram police officers",
+      "link": "https://ghanaiantimes.com.gh/igp-urged-to-probe-prampram-police-officers/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T05:58:33.000Z",
+      "summary": "Some community members of Ningo-Prampram have called on the Inspector General of Police (IGP), Mr Christian Tetteh Yohunu, to probe the Ningo-Prampram police over their handling of alleged…",
       "categories": [
         "Crime",
-        "News",
-        "Anloga-Kportorgboe",
-        "Murder"
+        "Hot!"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/10/Crime-scene-1.jpg",
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "37 Military Hospital traders given 7-days to clear pedestrian walkway",
+      "link": "https://www.myjoyonline.com/37-military-hospital-traders-given-7-days-to-clear-pedestrian-walkway/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:54:00.000Z",
+      "summary": "Traders occupying the pedestrian walkway around the 37 Military Hospital in Accra have seven days to remove their goods and structures or risk a forced eviction by the Ayawaso West…",
+      "categories": [
+        "National",
+        "37 Military Hospital",
+        "Pedestrian",
+        "Traders"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/37-2.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wontumi challenges EOCO’s handling of Exim Bank loan dispute",
+      "link": "https://www.myjoyonline.com/wontumi-challenges-eocos-handling-of-exim-bank-loan-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:48:11.000Z",
+      "summary": "More than 130 people have been arrested or detained in Ghana in connection with an international crackdown on scam centres accused of defrauding victims, including US citizens, the Federal…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "EOCO",
+        "Exim Bank",
+        "Loan",
+        "Wontumi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/wontumi-2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government keeps appealing to striking teachers to resume work – Apaak",
+      "link": "https://www.myjoyonline.com/government-keeps-appealing-to-striking-teachers-to-resume-work-apaak/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:45:00.000Z",
+      "summary": "The government says it will keep engaging striking pre-tertiary teachers to return to the classroom as it works to resolve their grievances, with thousands of pupils affected by the…",
+      "categories": [
+        "National",
+        "Apaak",
+        "Government",
+        "Strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Dr-Clement-Apaak7-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Chief Justice urges employers to tackle mental health stigma in workplaces",
+      "link": "https://www.myjoyonline.com/chief-justice-urges-employers-to-tackle-mental-health-stigma-in-workplaces/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:42:00.000Z",
+      "summary": "Chief Justice Paul Baffoe-Bonnie has called on employers and public institutions to establish supportive workplace environments where people experiencing mental health challenges can seek…",
+      "categories": [
+        "National",
+        "Chief Justice",
+        "Mental Health",
+        "stigma"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-295.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "52,000 teachers’ promotion payments targeted for October 15",
+      "link": "https://www.myjoyonline.com/52000-teachers-promotion-payments-targeted-for-october-15/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:40:00.000Z",
+      "summary": "Teachers whose promotions have been delayed could begin receiving their salary adjustments and arrears by October 15, as the Controller and Accountant-General’s Department works to clear…",
+      "categories": [
+        "National",
+        "Promotion",
+        "Strike",
+        "Teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/OIP-2026-10-08T175413.737.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nzema chiefs honour Lands Minister, demand sustainable revival of Adamus Resources",
+      "link": "https://www.myjoyonline.com/nzema-chiefs-honour-lands-minister-demand-sustainable-revival-of-adamus-resources/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:36:00.000Z",
+      "summary": "The Paramount Chief of the Eastern Nzema Traditional Area, Awulae Blay IX, has led a delegation of chiefs and Queen Mothers to honour the Minister for Lands and Natural Resources, Emmanuel…",
+      "categories": [
+        "National",
+        "Adamus Resources",
+        "Lands Minister",
+        "Nzema"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-4.03.51-PM-1-1024x575.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ExxonMobil return talks emerge as GIPA CEO holds back details",
+      "link": "https://www.myjoyonline.com/exxonmobil-return-talks-emerge-as-gipa-ceo-holds-back-details/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T05:35:56.000Z",
+      "summary": "Ghana Investment Promotion Authority (GIPA) CEO Simon Madjie says there have been talks about ExxonMobil returning to Ghana. But he declined to disclose details, leaving further comment to…",
+      "categories": [
+        "Energy",
+        "HP Business 3",
+        "National",
+        "ExxonMobil",
+        "GIPA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/model-markets-to-keep-foreigners-4.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -148,6 +209,19 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/07/fbisam.jpg",
       "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AratheJay storms Cape Coast on October 11 With Nimo Live Experience",
+      "link": "https://ghanaiantimes.com.gh/arathejay-storms-cape-coast-on-october-11-with-nimo-live-experience/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-08T21:03:00.000Z",
+      "summary": "Ghanaian spiritual Highlife and Afro-fusion sensation AratheJay is set to light up XCape Beach Resort in Cape Coast on Sunday, October 11. The singer, born Samuel Ofei Ankrah Badu, says the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "GRA invites Jamila Home management over alleged assault of officer",
@@ -248,19 +322,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Yaw Ampofo Ankrah defers parliament appearance over ongoing CID probe",
-      "link": "https://ghanaiantimes.com.gh/yaw-ampofo-ankrah-defers-parliament-appearance-over-ongoing-cid-probe/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T15:07:13.000Z",
-      "summary": "Lawyers for suspended National Sports Authority (NSA) Director-General, Yaw Ampofo Ankrah, say he will not appear before Parliament for now because matters concerning him are currently…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana football more important than becoming GFA president – George Afriyie",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghana-football-more-important-than-becoming-gfa-president-george-afriyie.html",
       "source": "Graphic Sports",
@@ -273,45 +334,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Roads Minister meets Ga Mantse over Accra road development",
-      "link": "https://ghanaiantimes.com.gh/roads-minister-meets-ga-mantse-over-accra-road-development/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T15:02:42.000Z",
-      "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has met the Ga Mantse, His Royal Majesty King Tackie Teiko Tsuru II, and members of the Ga Traditional Council to discuss plans to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GACL to hold full-scale emergency simulation exercise on October 15",
-      "link": "https://ghanaiantimes.com.gh/gacl-to-hold-full-scale-emergency-simulation-exercise-on-october-15/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T15:00:38.000Z",
-      "summary": "The Ghana Airports Company Limited (GACL) will conduct a full-scale emergency simulation exercise at the Accra International Airport on Thursday, October 15, 2026. The exercise, dubbed…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "SSNIT redevelopment plans for La Pleasure Beach suspended – La Traditional Council",
-      "link": "https://ghanaiantimes.com.gh/ssnit-redevelopment-plans-for-la-pleasure-beach-suspended-la-traditional-council/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T14:57:06.000Z",
-      "summary": "The La Traditional Council says all redevelopment plans by the Social Security and National Insurance Trust (SSNIT) for the demolished La Pleasure Beach Resort have been put on hold. The…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "NHIS active membership rises to 70% – Health Minister",
       "link": "https://www.graphic.com.gh/news/health/nhis-active-membership-rises-to-70-health-minister.html",
       "source": "Daily Graphic",
@@ -322,19 +344,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2025/oct/29/akandoh.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bawumia mourns former NPP Chairman Samuel Odoi-Sykes",
-      "link": "https://ghanaiantimes.com.gh/bawumia-mourns-former-npp-chairman-samuel-odoi-sykes/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T14:45:22.000Z",
-      "summary": "The flagbearer of the New Patriotic Party (NPP), Dr. Mahamudu Bawumia, has expressed deep sadness over the passing of former National Chairman of the party, H.E. Samuel Arthur Odoi-Sykes…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Ghana extends condolences to Nigeria over Ondo State plane crash",
