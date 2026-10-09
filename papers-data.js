@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-09T06:22:20.100Z",
+  "updated": "2026-10-09T13:31:08.448Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,227 +25,357 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana must deliver on rice self-sufficiency by 2028",
-      "link": "https://ghanaiantimes.com.gh/ghana-must-deliver-on-rice-self-sufficiency-by-2028/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-09T06:18:49.000Z",
-      "summary": "Ghana’s ambition to achieve rice self-sufficiency by 2028 is one that deserves serious attention. For a country that spends about $500 million every year on rice imports, producing more of…",
-      "categories": [
-        "Editorial"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Former Dome-Kwabenya MP backs Israel Kwadwo Safo as leader of Kristo Asafo, Kantanka family",
-      "link": "https://ghanaiantimes.com.gh/former-dome-kwabenya-mp-backs-israel-kwadwo-safo-as-leader-of-kristo-asafo-kantanka-family/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-09T06:08:07.000Z",
-      "summary": "Former Member of Parliament for Dome-Kwabenya, Sarah Adwoa Safo, has publicly recognised her brother, Israel Kwadwo Safo, as the leader of the Kantanka family and the Kristo Asafo Church…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nana Akua Addo’s husband faces arraignment over abuse allegations",
-      "link": "https://ghanaiantimes.com.gh/nana-akua-addos-husband-faces-arraignment-over-abuse-allegations/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-09T06:05:10.000Z",
-      "summary": "Harold Norman, husband of Ghanaian fashion icon Rosemond Akua Adobea, popularly known as Nana Akua Addo, is expected to appear before court following his discharge from hospital over…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "PAC summons Takoradi doctor over GH¢341,229 study leave salary",
-      "link": "https://www.myjoyonline.com/pac-summons-takoradi-doctor-over-gh%c2%a2341229-study-leave-salary/",
+      "title": "Health Ministry declares Yellow Fever outbreak in Upper West Region",
+      "link": "https://www.myjoyonline.com/health-ministry-declares-yellow-fever-outbreak-in-upper-west-region/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T05:59:00.000Z",
-      "summary": "Parliament’s Public Accounts Committee (PAC) has directed the Ministry of Health to facilitate the appearance of a senior medical officer, Dr Mockshell Esinam Sunu, before the Committee…",
+      "published": "2026-10-09T13:29:17.000Z",
+      "summary": "The Ministry of Health, working through the Ghana Health Service and in partnership with the World Health Organisation, has declared a Yellow Fever outbreak in some affected districts in…",
       "categories": [
+        "Health",
         "National",
-        "PAC",
-        "Salary",
-        "Takoradi"
+        "Health Ministry",
+        "Yellow Fever"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/PAC-1-750x375-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-996.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "IGP urged to probe Prampram police officers",
-      "link": "https://ghanaiantimes.com.gh/igp-urged-to-probe-prampram-police-officers/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-09T05:58:33.000Z",
-      "summary": "Some community members of Ningo-Prampram have called on the Inspector General of Police (IGP), Mr Christian Tetteh Yohunu, to probe the Ningo-Prampram police over their handling of alleged…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "37 Military Hospital traders given 7-days to clear pedestrian walkway",
-      "link": "https://www.myjoyonline.com/37-military-hospital-traders-given-7-days-to-clear-pedestrian-walkway/",
+      "title": "CRS, LDS hand over 6 renovated NAS facilities to strengthen emergency response",
+      "link": "https://www.myjoyonline.com/crs-lds-hand-over-6-renovated-nas-facilities-to-strengthen-emergency-response/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T05:54:00.000Z",
-      "summary": "Traders occupying the pedestrian walkway around the 37 Military Hospital in Accra have seven days to remove their goods and structures or risk a forced eviction by the Ayawaso West…",
+      "published": "2026-10-09T13:28:00.000Z",
+      "summary": "Catholic Relief Services (CRS), with funding from The Church of Jesus Christ of Latter-day Saints (LDS), has handed over six renovated and expanded National Ambulance Service (NAS)…",
       "categories": [
-        "National",
-        "37 Military Hospital",
-        "Pedestrian",
-        "Traders"
+        "Regional",
+        "Catholic Relief Services (CRS)",
+        "emergency response",
+        "LDS"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/37-2.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-997-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Wontumi challenges EOCO’s handling of Exim Bank loan dispute",
-      "link": "https://www.myjoyonline.com/wontumi-challenges-eocos-handling-of-exim-bank-loan-dispute/",
+      "title": "Road to LA 2028: GBF President outlines busy international schedule for Black Bombers",
+      "link": "https://www.graphic.com.gh/sports/sports-news/road-to-la-2028-gbf-president-outlines-busy-international-schedule-for-black-bombers.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-09T13:24:56.000Z",
+      "summary": "Ghana Boxing Federation (GBF) President Dauda Fuseni says the Black Bombers will face a series of international tests as the national team intensifies preparations for the Los Angeles 2028…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/09/FUSEINI.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Labour Minister banks on dialogue to end teachers’ strike, rules out alternative measures",
+      "link": "https://www.myjoyonline.com/labour-minister-banks-on-dialogue-to-end-teachers-strike-rules-out-alternative-measures/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T05:48:11.000Z",
-      "summary": "More than 130 people have been arrested or detained in Ghana in connection with an international crackdown on scam centres accused of defrauding victims, including US citizens, the Federal…",
+      "published": "2026-10-09T13:21:20.000Z",
+      "summary": "Labour Minister Emmanuel Kwadwo Agyekum has expressed confidence that dialogue will resolve the ongoing strike by three teacher unions, insisting that the government will not need to resort…",
+      "categories": [
+        "Education",
+        "National",
+        "Labour Minister",
+        "teachers’ strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-999-e1791547750793.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Transport operators slam gov’t; vow to defy suspension of preaching and hawking restrictions",
+      "link": "https://www.myjoyonline.com/transport-operators-slam-govt-vow-to-defy-suspension-of-preaching-and-hawking-restrictions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T13:21:18.000Z",
+      "summary": "The Commercial Transport Operators of Ghana have expressed disappointment in the government’s decision to suspend the implementation of Regulation 141 of Legislative Instrument (L.I.) 2519…",
       "categories": [
         "HP News 1",
         "National",
-        "EOCO",
-        "Exim Bank",
-        "Loan",
-        "Wontumi"
+        "Commercial Transport Operators",
+        "preaching and hawking ban"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/wontumi-2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1011.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government keeps appealing to striking teachers to resume work – Apaak",
-      "link": "https://www.myjoyonline.com/government-keeps-appealing-to-striking-teachers-to-resume-work-apaak/",
+      "title": "Domestic abuse is about power and control, not ordinary relationship conflict – ARK Foundation",
+      "link": "https://www.myjoyonline.com/domestic-abuse-is-about-power-and-control-not-ordinary-relationship-conflict-ark-foundation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T05:45:00.000Z",
-      "summary": "The government says it will keep engaging striking pre-tertiary teachers to return to the classroom as it works to resolve their grievances, with thousands of pupils affected by the…",
+      "published": "2026-10-09T13:18:57.000Z",
+      "summary": "The Executive Director of the ARK Foundation, Dr Angela Dwamena-Aboagye, has called for a better understanding of domestic abuse, warning that treating it as an ordinary disagreement…",
+      "categories": [
+        "In Focus",
+        "National",
+        "control",
+        "Domestic abuse",
+        "Power"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/03/Dr.-Angela-Dwamena-Aboagye.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Keep your windows open or risk lung cancer – GAEC warns over deadly radon gas",
+      "link": "https://www.myjoyonline.com/keep-your-windows-open-or-risk-lung-cancer-gaec-warns-over-deadly-radon-gas/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T13:12:53.000Z",
+      "summary": "The Ghana Atomic Energy Commission (GAEC) has warned Ghanaians about the risk of lung cancer from exposure to radon gas, urging households to improve ventilation by keeping windows open to…",
       "categories": [
         "National",
-        "Apaak",
-        "Government",
-        "Strike"
+        "News",
+        "GAEC",
+        "lung cancer",
+        "Radon gas"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Dr-Clement-Apaak7-1024x576.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1003-1024x557.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Chief Justice urges employers to tackle mental health stigma in workplaces",
-      "link": "https://www.myjoyonline.com/chief-justice-urges-employers-to-tackle-mental-health-stigma-in-workplaces/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T05:42:00.000Z",
-      "summary": "Chief Justice Paul Baffoe-Bonnie has called on employers and public institutions to establish supportive workplace environments where people experiencing mental health challenges can seek…",
+      "title": "Haaland’s message to Man City fans after 115-charge verdict",
+      "link": "https://www.graphic.com.gh/sports/sports-news/haalands-message-to-man-city-fans-after-115-charge-verdict.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-09T13:00:26.000Z",
+      "summary": "Erling Haaland has urged Manchester City supporters to ‘stick together’ in his first statement since the club’s guilty verdict. City were found guilty on all 115 charges relating to…",
       "categories": [
-        "National",
-        "Chief Justice",
-        "Mental Health",
-        "stigma"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-295.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/09/HAALAND.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "52,000 teachers’ promotion payments targeted for October 15",
-      "link": "https://www.myjoyonline.com/52000-teachers-promotion-payments-targeted-for-october-15/",
+      "title": "‘I was beaten, threatened with death, and was told to stay’ – Abuse survivor recounts ordeal in marriage",
+      "link": "https://www.myjoyonline.com/i-was-beaten-threatened-with-death-and-was-told-to-stay-abuse-survivor-recounts-ordeal-in-marriage/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T05:40:00.000Z",
-      "summary": "Teachers whose promotions have been delayed could begin receiving their salary adjustments and arrears by October 15, as the Controller and Accountant-General’s Department works to clear…",
+      "published": "2026-10-09T12:36:01.000Z",
+      "summary": "A survivor of domestic abuse, identified as Ama, has recounted how a marriage that began despite several warning signs descended into physical violence, threats to kill her, financial…",
       "categories": [
+        "HP News 2",
         "National",
-        "Promotion",
-        "Strike",
-        "Teachers"
+        "News",
+        "Relationships",
+        "Abusive relationships",
+        "Marriage"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/OIP-2026-10-08T175413.737.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/married-at-24-separated-at-25-di.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nzema chiefs honour Lands Minister, demand sustainable revival of Adamus Resources",
-      "link": "https://www.myjoyonline.com/nzema-chiefs-honour-lands-minister-demand-sustainable-revival-of-adamus-resources/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T05:36:00.000Z",
-      "summary": "The Paramount Chief of the Eastern Nzema Traditional Area, Awulae Blay IX, has led a delegation of chiefs and Queen Mothers to honour the Minister for Lands and Natural Resources, Emmanuel…",
-      "categories": [
-        "National",
-        "Adamus Resources",
-        "Lands Minister",
-        "Nzema"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-4.03.51-PM-1-1024x575.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ExxonMobil return talks emerge as GIPA CEO holds back details",
-      "link": "https://www.myjoyonline.com/exxonmobil-return-talks-emerge-as-gipa-ceo-holds-back-details/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T05:35:56.000Z",
-      "summary": "Ghana Investment Promotion Authority (GIPA) CEO Simon Madjie says there have been talks about ExxonMobil returning to Ghana. But he declined to disclose details, leaving further comment to…",
-      "categories": [
-        "Energy",
-        "HP Business 3",
-        "National",
-        "ExxonMobil",
-        "GIPA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/model-markets-to-keep-foreigners-4.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam George pushes back on FBI claim over Ghana cybercrime operation",
-      "link": "https://www.graphic.com.gh/news/general-news/sam-george-pushes-back-on-fbi-claim-over-ghana-cybercrime-operation.html",
+      "title": "Cyber Security Authority: Ghana led Operation Blackout, not FBI",
+      "link": "https://www.graphic.com.gh/news/general-news/cyber-security-authority-ghana-led-operation-blackout-not-fbi.html",
       "source": "Daily Graphic",
-      "published": "2026-10-08T21:11:06.000Z",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Mr Samuel Nartey George, has pushed back on claims by the Federal Bureau of Investigation that it solely executed a major…",
+      "published": "2026-10-09T12:33:39.000Z",
+      "summary": "The Cyber Security Authority (CSA) has rejected claims by the United States Federal Bureau of Investigation (FBI) that the cybercrime operation carried out in Ghana this week was conceived…",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/fbisam.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/HUGncalWkAAvqYR.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "AratheJay storms Cape Coast on October 11 With Nimo Live Experience",
-      "link": "https://ghanaiantimes.com.gh/arathejay-storms-cape-coast-on-october-11-with-nimo-live-experience/",
+      "title": "Ato Forson has performed wonders with common fund releases – Northern Regional Minister",
+      "link": "https://www.myjoyonline.com/ato-forson-has-performed-wonders-with-common-fund-releases-northern-regional-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T12:15:07.000Z",
+      "summary": "Speaking at a meeting with Regional Ministers, Metropolitan Municipal District Chief Executives (MMDCEs) and Coordinating Directors in Tamale, the Northern Regional Minister said assemblies…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Ali Adolf John",
+        "Dr. Ato Forson",
+        "Ministry of Finance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-06.14.56-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama takes 'Resetting Ghana' Tour to Ahafo Region",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-takes-resetting-ghana-tour-to-ahafo-region.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-09T11:52:44.000Z",
+      "summary": "President John Dramani Mahama will begin a two-day working visit to the Ahafo Region on Friday, October 9, 2026, as part of his \"Resetting Ghana Tour,\" during which he will inspect ongoing…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/mahama.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Antoine Semenyo ties the knot with influencer Jordeen Buckley",
+      "link": "https://www.graphic.com.gh/sports/sports-news/antoine-semenyo-ties-the-knot-with-influencer-jordeen-buckley.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-09T11:28:30.000Z",
+      "summary": "Black Stars and Manchester City forward Antoine Semenyo has tied the knot with his longtime partner, Jordeen Buckley, in Malibu, California. The couple exchanged vows in a private civil…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/09/SEMENYO.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "1,568 new lawyers called to the Ghana Bar",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-1-568-new-lawyers-called-to-the-ghana-bar.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-09T10:54:58.000Z",
+      "summary": "A total of 1,568 newly qualified lawyers have been called to the Ghana Bar.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/09/lawyers1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Nzema chiefs confer development chief title on Lands Minister Armah-Kofi Buah",
+      "link": "https://www.graphic.com.gh/news/general-news/nzema-chiefs-confer-development-chief-title-on-lands-minister-armah-kofi-buah.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-09T10:53:21.000Z",
+      "summary": "The chiefs and people of the Eastern Nzema Traditional Area have conferred a development chief title - Ellembelle Anyunluhɔlɛ Belemgbunli - on the Minister of Lands and Natural Resources…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Health Ministry declares Yellow Fever outbreak in Upper West Region",
+      "link": "https://www.graphic.com.gh/news/health/health-ministry-declares-yellow-fever-outbreak-in-upper-west-region.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-09T10:47:04.000Z",
+      "summary": "The Ministry of Health, working through the Ghana Health Service and in partnership with the World Health Organisation, has declared a Yellow Fever outbreak in some affected districts in…",
+      "categories": [
+        "Health"
+      ],
+      "image": "https://www.graphic.com.gh/images/2021/nov/Mosquito.png",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UGMC launches 2026 Customer Service Week celebrations",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ugmc-launches-2026-customer-service-week-celebrations.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-09T08:57:23.000Z",
+      "summary": "The University of Ghana Medical Centre (UGMC) has launched its 2026 Customer Service Week with a call on staff to make exceptional patient experience a daily responsibility rather than a…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/09/Yvonne.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Prisons Medicine and Equipment bank initiative launched",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prisons-medicine-and-equipment-bank-initiative-launched.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-09T08:44:48.000Z",
+      "summary": "An initiative aimed at improving the healthcare and welfare of inmates and officers in the Northern, North East and Savannah regions has been launched in Tamale.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/09/Joana.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "BoG caution banks against complacency over economic recovery",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bog-caution-banks-against-complacency-over-economic-recovery.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-09T08:38:56.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has cautioned banks against complacency following significant gains recorded in the country’s macroeconomic stability and…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/09/Johnson.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "$27.8bn lost as children remain out of school",
+      "link": "https://ghanaiantimes.com.gh/27-8bn-lost-as-children-remain-out-of-school/",
       "source": "Ghanaian Times",
-      "published": "2026-10-08T21:03:00.000Z",
-      "summary": "Ghanaian spiritual Highlife and Afro-fusion sensation AratheJay is set to light up XCape Beach Resort in Cape Coast on Sunday, October 11. The singer, born Samuel Ofei Ankrah Badu, says the…",
+      "published": "2026-10-09T08:24:44.000Z",
+      "summary": "West Africa loses an estimated $27.8 billion in economic value as a result of children being excluded from education, the Director of Research at the Centre for the Study of the Economies…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GMTF intensifies drive to support chronic disease patients",
+      "link": "https://ghanaiantimes.com.gh/gmtf-intensifies-drive-to-support-chronic-disease-patients/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T08:19:21.000Z",
+      "summary": "THE Ghana Medical Trust Fund (GMTF) has intensified efforts to improve access to specialised healthcare by engaging key stakeholders to raise public awareness and strengthen partnerships to…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "St Barnabas marks 100 years of service",
+      "link": "https://ghanaiantimes.com.gh/st-barnabas-marks-100-years-of-service/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T08:15:53.000Z",
+      "summary": "THE St Barnabas Anglican Church at Osu has marked its 100th anniversary with a call on the church to strengthen its ministry and deepen its impact on society in the years ahead. The…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Melcom Care Foundation donates meals to Teshie Children’s Home",
+      "link": "https://ghanaiantimes.com.gh/melcom-care-foundation-donates-meals-to-teshie-childrens-home/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T08:12:48.000Z",
+      "summary": "THE Melcom Care Foundation has donated hot packed meals to the Teshie Children’s Home as part of a week-long outreach programme to support the nutritional needs and wellbeing of children in…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "SEGUM makes historic debut at Adventist Annual Council",
+      "link": "https://ghanaiantimes.com.gh/segum-makes-historic-debut-at-adventist-annual-council/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T08:08:24.000Z",
+      "summary": "THE South East Ghana Union Mission (SEGUM) is set to make its first appearance at the global leadership council of the Seventh-day Adventist Church, with its President, Pastor Col. (Rtd.)…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cornelius Wuobar eyes NDC Deputy Regional Secretary position",
+      "link": "https://ghanaiantimes.com.gh/cornelius-wuobar-eyes-ndc-deputy-regional-secretary-position/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T08:06:35.000Z",
+      "summary": "MR CORNELIUS NAASOA WUOBAR has picked nomination forms to contest the position of Deputy Upper West Regional Secretary of the National Democratic Congress (NDC), bringing to the race more…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana Navy Band launches 60th anniversary celebration",
+      "link": "https://ghanaiantimes.com.gh/ghana-navy-band-launches-60th-anniversary-celebration/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T08:04:38.000Z",
+      "summary": "THE Ghana Navy Band has launched activities to mark its 60th anniversary, celebrating six decades of musical service and contribution to the Ghana Navy and the nation. The launch, held in…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "La Council demands say in Pleasure Beach redevelopment",
+      "link": "https://ghanaiantimes.com.gh/la-council-demands-say-in-pleasure-beach-redevelopment/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-09T08:02:03.000Z",
+      "summary": "THE La Traditional Council has demanded proper engagement and the involvement of traditional landowners in any activity or development on the land formerly occupied by the La Pleasure Beach…",
       "categories": [
         "Hot!",
         "News"
       ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GRA invites Jamila Home management over alleged assault of officer",
-      "link": "https://www.graphic.com.gh/news/general-news/gra-invites-jamila-home-management-over-alleged-assault-of-officer.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T20:49:32.000Z",
-      "summary": "The management of Jamila Home, an antique showroom in Accra, has been invited by the Ghana Revenue Authority (GRA) to assist investigations into an alleged assault on one of its officers…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/gra26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "BoG cautions public against repairing mutilated cedi notes",
-      "link": "https://ghanaiantimes.com.gh/bog-cautions-public-against-repairing-mutilated-cedi-notes/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T16:43:51.000Z",
-      "summary": "The Bank of Ghana (BoG) has cautioned the public against repairing, re-joining or altering mutilated Ghana Cedi banknotes for re-issuance or recirculation. The Bank said the Ghana Cedi was…",
-      "categories": [
-        "Business",
-        "Hot!"
-      ],
-      "image": null,
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
@@ -261,18 +391,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "NCTC Calls for Regular Exercise to Prevent Heart Disease",
-      "link": "https://ghanaiantimes.com.gh/nctc-calls-for-regular-exercise-to-prevent-heart-disease/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T16:12:01.000Z",
-      "summary": "The National Cardiothoracic Centre (NCTC) of the Korle Bu Teaching Hospital (KBTH) on Saturday organised a health walk to encourage Ghanaians to make physical activity part of their daily…",
-      "categories": [
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Nestlé, NBA partner to boost youth basketball development in Ghana and 20 other markets",
       "link": "https://www.graphic.com.gh/sports/sports-news/nestle-nba-partner-to-boost-youth-basketball-development-in-ghana-and-20-other-markets.html",
       "source": "Graphic Sports",
@@ -283,31 +401,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/08/Milo.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana moves to establish National Space Agency",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-moves-to-establish-national-space-agency.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T15:49:19.000Z",
-      "summary": "The government is advancing plans to transform the Ghana Space Science and Technology Institute (GSSTI) into a fully fledged Ghana Space Agency, in a move aimed at strengthening the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/09/zanetor.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP mourns Ambassador Samuel Arthur Odoi-Sykes",
-      "link": "https://ghanaiantimes.com.gh/npp-mourns-ambassador-samuel-arthur-odoi-sykes/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-08T15:09:08.000Z",
-      "summary": "The New Patriotic Party (NPP) has announced with profound sorrow the passing of Ambassador Samuel Arthur Odoi-Sykes, describing him as an eminent statesman, distinguished patriot, and one…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "No need for GFA coaching search committee – George Afriyie",
@@ -334,66 +427,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "NHIS active membership rises to 70% – Health Minister",
-      "link": "https://www.graphic.com.gh/news/health/nhis-active-membership-rises-to-70-health-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T14:51:35.000Z",
-      "summary": "The Minister of Health, Kwabena Mintah Akandoh, has announced that active membership under the National Health Insurance Scheme has increased from 56.3 per cent in 2024 to 70 per cent as of…",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/oct/29/akandoh.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana extends condolences to Nigeria over Ondo State plane crash",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-extends-condolences-to-nigeria-over-ondo-state-plane-crash.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T14:44:21.000Z",
-      "summary": "President John Dramani Mahama and the government have extended their deepest condolences to the government and people of Nigeria following a plane crash in Igbokoda, Ondo State, on October…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/05/crash1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AMA to build free single-room accommodation for Kofikrom residents after fire",
-      "link": "https://www.graphic.com.gh/news/general-news/ama-to-build-free-single-room-accommodation-for-kofikrom-residents-after-fire.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T14:34:27.000Z",
-      "summary": "The Municipal Chief Executive of the Accra Metropolitan Assembly, Michael Kpakpo Allotey, has announced plans to build a residential housing complex comprising single-room accommodation for…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/mayor.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "FBI: Nearly $10m in losses identified in latest Ghana fraud bust (PHOTOS)",
-      "link": "https://www.graphic.com.gh/news/general-news/fbi-nearly-10m-in-losses-identified-in-latest-ghana-fraud-bust-photos.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T13:53:12.000Z",
-      "summary": "The US Federal Bureau of Investigation (FBI) has announced the dismantling of a scam operation in Ghana as part of its global campaign against transnational fraud networks targeting…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Mar/04/fraud.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "You will not succeed in stopping preaching in vehicles – Rev. Bempah",
-      "link": "https://www.graphic.com.gh/news/general-news/you-will-not-succeed-in-stopping-preaching-in-vehicles-rev-bempah.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T13:27:51.000Z",
-      "summary": "The Head Pastor of the Holy Hill Chapel of the Assemblies of God, Reverend Kwadwo Boateng Bempah, has stated that the government will not succeed in its attempt to stop preaching in public…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Mar/04/prrcharre.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Ghana drop five places to 70th in latest FIFA rankings",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghana-drop-five-places-to-70th-in-latest-fifa-rankings.html",
       "source": "Graphic Sports",
@@ -403,42 +436,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/08/BLACKSTARS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Sports Ministry rejects World Cup visa corruption claims",
-      "link": "https://www.graphic.com.gh/sports/sports-news/sports-ministry-rejects-world-cup-visa-corruption-claims.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-08T12:49:53.000Z",
-      "summary": "Wonder Sitsofe Mandel, a spokesperson for the Minister of Sports and Recreation, Kofi Iddie Adams, has rejected corruption allegations surrounding Ghana’s 2026 FIFA World Cup visa…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/adams.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Minority demands wider World Cup visa probe, seeks greater scrutiny of Sports",
-      "link": "https://www.graphic.com.gh/sports/sports-news/minority-demands-wider-world-cup-visa-probe-seeks-greater-scrutiny-of-sports.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-08T12:49:14.000Z",
-      "summary": "The Minority in Parliament is demanding a broader investigation into Ghana’s controversial 2026 FIFA World Cup visa arrangements, arguing that a documentary trail now points beyond…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/MINORITY.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Metro Detroit Golden Gloves in Accra for Black Bombers showdown",
-      "link": "https://www.graphic.com.gh/sports/boxing/metro-detroit-golden-gloves-in-accra-for-black-bombers-showdown.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-08T09:59:02.000Z",
-      "summary": "The Metro Detroit Golden Gloves boxing team of the United States has arrived in Accra ahead of Saturday’s 10-bout international tournament against Ghana’s Black Bombers at the Bukom Boxing…",
-      "categories": [
-        "Boxing"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/June/06/metro1.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
