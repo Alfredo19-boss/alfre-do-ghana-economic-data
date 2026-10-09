@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-09T18:58:04.127Z",
+  "updated": "2026-10-09T23:03:19.162Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,104 +25,130 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Vice Chancellors Ghana appeal to striking university administrators to resume work",
-      "link": "https://www.myjoyonline.com/vice-chancellors-ghana-appeal-to-striking-university-administrators-to-resume-work/",
+      "title": "Newsfile to tackle World Cup visa scandal, beach demolitions, education strikes, BRICS bid",
+      "link": "https://www.myjoyonline.com/newsfile-to-tackle-world-cup-visa-scandal-beach-demolitions-education-strikes-brics-bid/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T18:51:41.000Z",
-      "summary": "Vice Chancellors Ghana (VCG) has appealed to the Ghana Association of University Administrators (GAUA) to suspend its ongoing industrial action and return to work while negotiations…",
+      "published": "2026-10-09T22:41:44.000Z",
+      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, October 10, examine four major national issues that have dominated public discussion over the past week. Hosted by…",
       "categories": [
-        "News",
-        "Ghana Association of University Administrators (GAUA)",
-        "Vice Chancellors Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/strike_1540x1050-696x475-1-621x424-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KNUST postpones 2026/2027 academic year reopening indefinitely amid GAUA strike",
-      "link": "https://www.myjoyonline.com/knust-postpones-2026-2027-academic-year-reopening-indefinitely-amid-gaua-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T18:47:09.000Z",
-      "summary": "The Kwame Nkrumah University of Science and Technology (KNUST) has postponed the reopening of the 2026/2027 academic year indefinitely due to the ongoing strike by the Ghana Association of…",
-      "categories": [
-        "Education",
         "HP News 1",
         "National",
-        "2026/2027 academic year",
-        "GAUA strike",
-        "Kwame Nkrumah University of Science and Technology (KNUST)"
+        "Radio & TV",
+        "beach demolitions",
+        "BRICS bid",
+        "Newsfile",
+        "World Cup visa scandal"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Knust.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-23.28.27-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fire destroys mattress showroom at Sokoban in Kumasi",
-      "link": "https://www.myjoyonline.com/fire-destroys-mattress-showroom-at-sokoban-in-kumasi/",
+      "title": "UK-Ghana Trade & Investment Summit: Trade Resource Centre to help businesses maximise UK-Ghana trade opportunities",
+      "link": "https://www.myjoyonline.com/uk-ghana-trade-investment-summit-trade-resource-centre-to-help-businesses-maximise-uk-ghana-trade-opportunities/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T18:27:41.000Z",
-      "summary": "A devastating fire has broken out at Sokoban-Ampayoo in the Ashanti Region, destroying several mattresses at a showroom near Kumasi Hospital.",
+      "published": "2026-10-09T22:27:00.000Z",
+      "summary": "The UK and Ghana enjoy strong trade relations, with total bilateral trade reaching approximately £1.6 billion in the year to Q1 2026. Yet, despite this progress, significant untapped…",
       "categories": [
-        "HP News 2",
-        "Regional",
-        "Fire",
-        "sokoban"
+        "Business",
+        "Economy",
+        "Adjoba Kyiamah",
+        "Ghana",
+        "jet",
+        "UK",
+        "UKGCC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1034.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-11.10.39-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "ECOM-SMS Ghana launches ‘Agriculture Our Future Clubs’ to address threat of ageing farmer population",
-      "link": "https://www.myjoyonline.com/ecom-sms-ghana-launches-agriculture-our-future-clubs-to-address-threat-of-ageing-farmer-population/",
+      "title": "Embassy of Denmark celebrates World Maritime Day",
+      "link": "https://www.myjoyonline.com/embassy-of-denmark-celebrates-world-maritime-day/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T18:24:23.000Z",
-      "summary": "As part of efforts to inspire the next generation to embrace agriculture and secure the future of the sector, the Sustainable Management Services (SMS) under the auspices of ECOM Ghana has…",
+      "published": "2026-10-09T22:19:27.000Z",
+      "summary": "The event, which brought together partners from across the maritime security, commercial, and regulatory sectors, was accompanied by a superb exhibition of maritime art.",
       "categories": [
-        "National",
-        "ECOM-SMS Ghana",
-        "farmer population"
+        "Business",
+        "Transport",
+        "Danish Embassy",
+        "Danish Maritime Security",
+        "Jakob Linulf",
+        "World Maritime Day"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1033-1024x771.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/untitled-252-1024x731.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nicholas Atsu Kumi",
-      "link": "https://www.myjoyonline.com/nicholas-atsu-kumi/",
+      "title": "Linking LEAP to productive inclusion could cut extreme poverty by 2030 – UNICEF",
+      "link": "https://www.myjoyonline.com/linking-leap-to-productive-inclusion-could-cut-extreme-poverty-by-2030-unicef/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T18:22:56.000Z",
-      "summary": "Kwabla Atitsogbui Gbeze Kumi, Francis Kwasi Aheto, Torbokor Vivor K.Tugba, Kwashi Tugbah Koklo, Christian Katahena, Mary Katahena, Edmund Ashiagbor, Theophilius Kwashie Agbemabiawo, and…",
-      "categories": [
-        "Obituary",
-        "Nicholas Atsu Kumi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-18.05.04-1024x643.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cherif Sarr: Economic participation needs more pathways, not one prescribed route",
-      "link": "https://www.myjoyonline.com/cherif-sarr-economic-participation-needs-more-pathways-not-one-prescribed-route/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T18:22:21.000Z",
-      "summary": "West Africa's economic future depends on how well we turn ambition into sustainable livelihoods. Yet for decades, we have tended to talk about economic opportunity in fairly narrow terms.",
-      "categories": [
-        "Opinion",
-        "Economic participation",
-        "Pathways"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-11.46.49-AM-840x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cyber Security Authority: Ghana led Operation Blackout, not FBI",
-      "link": "https://www.myjoyonline.com/cyber-security-authority-ghana-led-operation-blackout-not-fbi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T18:17:19.000Z",
-      "summary": "The Cyber Security Authority (CSA) has rejected claims by the United States Federal Bureau of Investigation (FBI) that the cybercrime operation carried out in Ghana this week was conceived…",
+      "published": "2026-10-09T21:10:40.000Z",
+      "summary": "The United Nations Children’s Fund (UNICEF) says linking Ghana’s Livelihood Empowerment Against Poverty (LEAP) programme with the Productive Inclusion Initiative (PII) could reduce extreme…",
       "categories": [
         "National",
-        "CSA",
-        "Ghana"
+        "extreme poverty",
+        "LEAP",
+        "UNICEF"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1024.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-18.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trade Ministry backs use of creative arts to rehabilitate prison inmates",
+      "link": "https://www.myjoyonline.com/trade-ministry-backs-use-of-creative-arts-to-rehabilitate-prison-inmates/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T21:09:50.000Z",
+      "summary": "The Ministry of Trade, Agribusiness and Industry has commended the Ghana Prisons Service for using creative arts to develop inmates’ skills, promote rehabilitation and prepare them for…",
+      "categories": [
+        "National",
+        "Creative Arts",
+        "Prison inmates",
+        "Trade Ministry"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/838330121_1116473654367199_8277755204798701859_n-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Negotiations with government to continue despite strike suspension – GNAT",
+      "link": "https://www.myjoyonline.com/negotiations-with-government-to-continue-despite-strike-suspension-gnat/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T21:05:27.000Z",
+      "summary": "The General Secretary of the Ghana National Association of Teachers (GNAT), Thomas Musah, says negotiations with the government over teachers’ outstanding demands will continue. This is…",
+      "categories": [
+        "Education",
+        "Top Story",
+        "GNAT",
+        "Strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Thomas-Musah-1024x580.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Ghana cannot afford to waste public resources; every cedi has a job’ – Ato Forson",
+      "link": "https://www.myjoyonline.com/ghana-cannot-afford-to-waste-public-resources-every-cedi-has-a-job-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T21:03:13.000Z",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has challenged regional and local government authorities to step up efforts to recover lost public funds, tighten financial controls and ensure every…",
+      "categories": [
+        "National",
+        "Cedi",
+        "Dr Cassiel Ato Forson"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/Screenshot-2025-04-08-at-11.08.13 am-1024x730.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana expects economic boost as World Assemblies of God Congress brings 10,000 delegates to Accra",
+      "link": "https://www.myjoyonline.com/ghana-expects-economic-boost-as-world-assemblies-of-god-congress-brings-10000-delegates-to-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T20:56:42.000Z",
+      "summary": "Ghana is expected to benefit economically from the arrival of more than 10,000 delegates from nearly 200 countries for the World Assemblies of God Congress in Accra from October 14 to 16…",
+      "categories": [
+        "National",
+        "Accra",
+        "Assemblies of GOD congress",
+        "delegates"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-16.41.46.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -136,21 +162,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/09/teachers.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GH¢800,000 goods destroyed as fire engulfs Kia Rhino truck on Apedwa-Kibi Road",
-      "link": "https://www.myjoyonline.com/gh%c2%a2800000-goods-destroyed-as-fire-engulfs-kia-rhino-truck-on-apedwa-kibi-road/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T17:46:22.000Z",
-      "summary": "A Kia Rhino truck loaded with refrigerators, generators, gas burners and chairs has been gutted by fire at Amanfrom on the Apedwa-Kibi road in the early hours of Thursday, October 8, with…",
-      "categories": [
-        "National",
-        "Apedwa-Kibi Road",
-        "Fire",
-        "KIA Rhino"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1020-576x1024.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "StarOil backs Rugby League’s Friday Night Footy",
