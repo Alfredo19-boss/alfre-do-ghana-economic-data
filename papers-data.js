@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-08T20:10:20.058Z",
+  "updated": "2026-10-09T00:21:06.659Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,130 +25,141 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Photos: Antoine Semenyo says ‘I do’ to longtime partner Jordeen Buckley",
-      "link": "https://www.myjoyonline.com/photos-antoine-semenyo-says-i-do-to-longtime-partner-jordeen-buckley/",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "link": "https://www.myjoyonline.com/asos-hackers-took-more-personal-details-than-first-revealed-bbc-finds/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T20:07:14.000Z",
-      "summary": "Ghanaian international and Manchester City forward Antoine Semenyo has officially tied the knot with his longtime partner, Jordeen Buckley.",
+      "published": "2026-10-08T23:17:00.000Z",
+      "summary": "Asos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.",
+      "categories": [
+        "International",
+        "Asos"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-938-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fort Hood shooter’s execution by firing squad will be livestreamed, Pentagon says",
+      "link": "https://www.myjoyonline.com/fort-hood-shooters-execution-by-firing-squad-will-be-livestreamed-pentagon-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T23:08:00.000Z",
+      "summary": "The public will be able to watch the execution of a former US Army major by firing squad, US Defence Secretary Pete Hegseth has said.",
+      "categories": [
+        "International",
+        "Fort Hood shooter",
+        "Pentagon"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-937-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Chrysler Building to get its crown restored after being sold",
+      "link": "https://www.myjoyonline.com/chrysler-building-to-get-its-crown-restored-after-being-sold/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T22:58:00.000Z",
+      "summary": "The Chrysler Building, one of the most distinctive high-rises in Manhattan's skyline, will undergo a major renovation as part of a multi-million-dollar sale deal.",
+      "categories": [
+        "International",
+        "Chrysler Building"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-936-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Infantino re-election boost as Concacaf chief will not stand",
+      "link": "https://www.myjoyonline.com/infantino-re-election-boost-as-concacaf-chief-will-not-stand/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-08T22:49:00.000Z",
+      "summary": "Gianni Infantino's chances of being re-elected as FIFA president appear to have received a major boost after potential rival Victor Montagliani confirmed he wants to remain head of Concacaf.",
       "categories": [
         "Football",
-        "National",
-        "Sports",
-        "Antoine Semenyo",
-        "Jordeen Buckley"
+        "Concacaf",
+        "Infantino"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image_2026-10-08_185109237-696x830-1-e1791488949939.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-935.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gender Minister visits Nana Akua Addo, assures family of support",
-      "link": "https://www.myjoyonline.com/gender-minister-visits-nana-akua-addo-assures-family-of-support/",
+      "title": "Everton’s Sherif fined for breaching betting rules",
+      "link": "https://www.myjoyonline.com/evertons-sherif-fined-for-breaching-betting-rules/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T20:06:44.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has visited Ghanaian fashion personality Nana Akua Addo and her family following reports of alleged…",
+      "published": "2026-10-08T22:40:00.000Z",
+      "summary": "Everton forward Martin Sherif has been fined £5,000 by the Football Association for breaching its betting rules over a 15-month period.",
       "categories": [
-        "National",
-        "Dr Agnes Naa Momo Lartey",
-        "Gender Minister"
+        "Football",
+        "Betting rules",
+        "Everton",
+        "Martin Sherif"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2574-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-934.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "You need to fake it sometimes to make it fun – Stephanie Benson tells couples",
-      "link": "https://www.myjoyonline.com/you-need-to-fake-it-sometimes-to-make-it-fun-stephanie-benson-tells-partners/",
+      "title": "Suspended fine for Xhaka over Covid-19 certificate",
+      "link": "https://www.myjoyonline.com/suspended-fine-for-xhaka-over-covid-19-certificate/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T19:47:39.000Z",
-      "summary": "Celebrated singer, breast cancer survivor, and advocate Stephanie Benson has advised partners and couples on how to spice up and strengthen their relationships without getting tired of each…",
+      "published": "2026-10-08T22:34:00.000Z",
+      "summary": "Sunderland and Switzerland captain Granit Xhaka says he has received a suspended fine of 150,000 Swiss francs (£136,000) for obtaining a forged Covid-19 vaccination certificate.",
       "categories": [
-        "HP Lifestyle 1",
-        "Lifestyle",
-        "Relationships",
-        "couples",
-        "Love",
-        "Relationship",
-        "Stephanie Benson"
+        "Football",
+        "Covid-19 certificate",
+        "Granit Xhaka",
+        "Suspended fine"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/stephanie-benson-opens-up-why-sh.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-933.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama Cares says political affiliation will not determine access to medical support",
-      "link": "https://www.myjoyonline.com/mahama-cares-says-political-affiliation-will-not-determine-access-to-medical-support/",
+      "title": "Businessman dragged to court over GH¢480,000 fraud",
+      "link": "https://www.myjoyonline.com/businessman-dragged-to-court-over-gh%c2%a2480000-fraud/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T19:45:29.000Z",
-      "summary": "The Ghana Medical Trust Fund, popularly known as Mahama Cares, has reaffirmed its commitment to ensuring that political affiliation does not determine access to life-saving medical support…",
+      "published": "2026-10-08T22:25:00.000Z",
+      "summary": "A 44-year-old businessman has appeared before an Accra Circuit Court on charges of allegedly defrauding a businesswoman of GH¢480,000.",
       "categories": [
-        "National",
-        "Mahama Cares",
-        "medical support",
-        "Political affiliation"
+        "Crime",
+        "Accra Circuit Court",
+        "Fraud"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-18.31.33-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-2330-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government inherited GH¢111bn debt burden but continues infrastructure projects – Lands Minister",
-      "link": "https://www.myjoyonline.com/government-inherited-gh%c2%a2111bn-debt-burden-but-continues-infrastructure-projects-lands-minister/",
+      "title": "Pregnant woman and husband found dead in a room at Anloga-Kportorgboe",
+      "link": "https://www.myjoyonline.com/pregnant-woman-and-husband-found-dead-in-a-room-at-anloga-kportorgboe/",
       "source": "MyJoyOnline",
-      "published": "2026-10-08T19:38:52.000Z",
-      "summary": "The Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, says the government inherited a debt burden of about GH¢111 billion, placing significant pressure on public finances…",
+      "published": "2026-10-08T22:13:00.000Z",
+      "summary": "A 35-year-old man and his pregnant wife have been found dead in their room at Kportorgboe, a suburb of Anloga in the Volta Region.",
       "categories": [
-        "National",
-        "debt burden",
-        "Infrastructure",
-        "Lands Minister",
-        "Projects"
+        "Crime",
+        "News",
+        "Anloga-Kportorgboe",
+        "Murder"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-20.03.38-1024x682.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/10/Crime-scene-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mallam Atta traders urge government to speed up 24-hour market redevelopment",
-      "link": "https://www.myjoyonline.com/mallam-atta-traders-urge-government-to-speed-up-24-hour-market-redevelopment/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T19:30:35.000Z",
-      "summary": "Traders at the Mallam Atta Market in Accra have appealed to the government to expedite ongoing redevelopment works, saying the displacement of businesses has affected their customer base…",
+      "title": "Sam George pushes back on FBI claim over Ghana cybercrime operation",
+      "link": "https://www.graphic.com.gh/news/general-news/sam-george-pushes-back-on-fbi-claim-over-ghana-cybercrime-operation.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-08T21:11:06.000Z",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Mr Samuel Nartey George, has pushed back on claims by the Federal Bureau of Investigation that it solely executed a major…",
       "categories": [
-        "Regional",
-        "Mallam Atta",
-        "Market redevlopment",
-        "Traders"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-20.18.03-1024x505.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/fbisam.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Catholic Church has a duty to speak on issues affecting human dignity – Bishop Gyamfi",
-      "link": "https://www.myjoyonline.com/catholic-church-has-a-duty-to-speak-on-issues-affecting-human-dignity-bishop-gyamfi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T19:20:26.000Z",
-      "summary": "Catholic Bishop Kwasi Gyamfi has defended the Catholic Church’s involvement in national issues, saying its interventions are driven by a responsibility to protect human dignity. According…",
+      "title": "GRA invites Jamila Home management over alleged assault of officer",
+      "link": "https://www.graphic.com.gh/news/general-news/gra-invites-jamila-home-management-over-alleged-assault-of-officer.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-08T20:49:32.000Z",
+      "summary": "The management of Jamila Home, an antique showroom in Accra, has been invited by the Ghana Revenue Authority (GRA) to assist investigations into an alleged assault on one of its officers…",
       "categories": [
-        "National",
-        "Bishop Gyamfi",
-        "Catholic church",
-        "Human dignity"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-17.29.38-1024x899.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KATH sickle cell, blood bank project stalled over $1.6m legal dispute – CEO",
-      "link": "https://www.myjoyonline.com/kath-sickle-cell-blood-bank-project-stalled-over-1-6m-legal-dispute-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-08T19:05:56.000Z",
-      "summary": "Chief Executive Officer of the Komfo Anokye Teaching Hospital (KATH), Dr (Med) Paa Kwesi Baidoo, has disclosed that the hospital’s Sickle Cell and Blood Bank project has stalled over a $1.6…",
-      "categories": [
-        "Health",
-        "National",
-        "Regional",
-        "Blood bank",
-        "Komfo Anokye",
-        "Sickle Cell"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-920.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/gra26.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "BoG cautions public against repairing mutilated cedi notes",
@@ -408,30 +419,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/08/MINORITY.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana: Offshore gold exploration suspended pending stakeholder talks",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-offshore-gold-exploration-suspended-pending-stakeholder-talks.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T12:46:07.000Z",
-      "summary": "The Minerals Commission has directed Goldcoast GRC Ghana Limited to suspend all activities under its offshore reconnaissance licences with immediate effect, pending extensive engagement…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Mar/04/minicpom.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Road accidents claim 2,151 lives in 10,157 crashes from January to September",
-      "link": "https://www.graphic.com.gh/news/general-news/road-accidents-claim-2-151-lives-in-10-157-crashes-from-january-to-september.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-08T12:33:29.000Z",
-      "summary": "The Motor Traffic and Transport Department (MTTD) has disclosed that road crashes recorded across Ghana between January and September 2026 resulted in the deaths of 2,151 people, with…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/ACP_ALEX.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Metro Detroit Golden Gloves in Accra for Black Bombers showdown",
