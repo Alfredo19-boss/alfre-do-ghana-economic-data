@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-09T23:03:19.162Z",
+  "updated": "2026-10-10T02:16:24.409Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,67 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana housing finance conference adopts communiqué to improve affordable housing access",
+      "link": "https://www.myjoyonline.com/ghana-housing-finance-conference-adopts-communique-to-improve-affordable-housing-access/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T23:48:10.000Z",
+      "summary": "The National Conference on Housing Finance 2026 has adopted a communiqué committing government, financial institutions, housing developers, labour organisations and other stakeholders to…",
+      "categories": [
+        "National",
+        "affordability",
+        "conference",
+        "housing finance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Special Initiatives Minister urges Wa Technical Institute to enrol more girls as EU-backed solar training lab opens",
+      "link": "https://www.myjoyonline.com/special-initiatives-minister-urges-wa-technical-institute-to-enrol-more-girls-as-eu-backed-solar-training-lab-opens/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T23:22:33.000Z",
+      "summary": "Minister of State in charge of Special Initiatives at the Office of the President, Abdul-Rashid Pelpuo, has urged Wa Technical Institute to increase the enrolment of girls in renewable…",
+      "categories": [
+        "Regional",
+        "EU Backed",
+        "Minister of State in charge of Special Initiatives",
+        "Solar training",
+        "WA Technical Institute"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-00.04.17-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "In the matter of my first year at the Bar",
+      "link": "https://www.myjoyonline.com/in-the-matter-of-my-first-year-at-the-bar/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T23:10:13.000Z",
+      "summary": "A year ago, I heard my name read out as a member of the Bar in Ghana. Twelve months in the Court of Appeal, the High Court and the Circuit Court have since taught me more than the long…",
+      "categories": [
+        "Opinion",
+        "bar",
+        "Esquire season",
+        "Lawyers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-00.00.50-1024x748.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ActionAid Ghana calls for an end to child marriage, greater investment in girls’ rights",
+      "link": "https://www.myjoyonline.com/actionaid-ghana-calls-for-end-to-child-marriage-greater-investment-in-girls-rights/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-09T23:05:02.000Z",
+      "summary": "ActionAid Ghana has called for stronger measures to end child marriage and school-related abuse, urging government and community leaders to invest more in girls’ rights, education and…",
+      "categories": [
+        "National",
+        "ActionAid Ghana",
+        "Child marriage",
+        "girls rights"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-00.02.46-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Newsfile to tackle World Cup visa scandal, beach demolitions, education strikes, BRICS bid",
       "link": "https://www.myjoyonline.com/newsfile-to-tackle-world-cup-visa-scandal-beach-demolitions-education-strikes-brics-bid/",
@@ -90,65 +151,6 @@ window.GDC_PAPERS = {
         "UNICEF"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-18.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trade Ministry backs use of creative arts to rehabilitate prison inmates",
-      "link": "https://www.myjoyonline.com/trade-ministry-backs-use-of-creative-arts-to-rehabilitate-prison-inmates/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T21:09:50.000Z",
-      "summary": "The Ministry of Trade, Agribusiness and Industry has commended the Ghana Prisons Service for using creative arts to develop inmates’ skills, promote rehabilitation and prepare them for…",
-      "categories": [
-        "National",
-        "Creative Arts",
-        "Prison inmates",
-        "Trade Ministry"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/838330121_1116473654367199_8277755204798701859_n-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Negotiations with government to continue despite strike suspension – GNAT",
-      "link": "https://www.myjoyonline.com/negotiations-with-government-to-continue-despite-strike-suspension-gnat/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T21:05:27.000Z",
-      "summary": "The General Secretary of the Ghana National Association of Teachers (GNAT), Thomas Musah, says negotiations with the government over teachers’ outstanding demands will continue. This is…",
-      "categories": [
-        "Education",
-        "Top Story",
-        "GNAT",
-        "Strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Thomas-Musah-1024x580.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Ghana cannot afford to waste public resources; every cedi has a job’ – Ato Forson",
-      "link": "https://www.myjoyonline.com/ghana-cannot-afford-to-waste-public-resources-every-cedi-has-a-job-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T21:03:13.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has challenged regional and local government authorities to step up efforts to recover lost public funds, tighten financial controls and ensure every…",
-      "categories": [
-        "National",
-        "Cedi",
-        "Dr Cassiel Ato Forson"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/Screenshot-2025-04-08-at-11.08.13 am-1024x730.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana expects economic boost as World Assemblies of God Congress brings 10,000 delegates to Accra",
-      "link": "https://www.myjoyonline.com/ghana-expects-economic-boost-as-world-assemblies-of-god-congress-brings-10000-delegates-to-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T20:56:42.000Z",
-      "summary": "Ghana is expected to benefit economically from the arrival of more than 10,000 delegates from nearly 200 countries for the World Assemblies of God Congress in Accra from October 14 to 16…",
-      "categories": [
-        "National",
-        "Accra",
-        "Assemblies of GOD congress",
-        "delegates"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-16.41.46.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {

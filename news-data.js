@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-09T23:03:05.513Z",
-  "worldAt": "2026-10-09T23:03:05.511Z",
+  "updated": "2026-10-10T02:16:10.164Z",
+  "worldAt": "2026-10-10T02:16:10.162Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -28,19 +28,19 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 32 stories",
+    "World · BBC News: 34 stories",
     "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: 33 stories",
+    "Africa · AllAfrica: 32 stories",
     "Africa · AllAfrica Business: 30 stories",
     "Africa · Africanews: 29 stories",
-    "Africa · BBC Africa: 30 stories",
+    "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 5 stories",
     "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
@@ -1099,11 +1099,86 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T22:50:15.000Z",
-      "summary": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine."
+      "published": "2026-10-10T01:40:51.000Z",
+      "summary": "Drone attacks on Moscow during last month's election undermined trilateral peace negotiations, the Kremlin says."
+    },
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-10T00:45:51.000Z",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg"
+    },
+    {
+      "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+      "link": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T01:23:12.000Z",
+      "summary": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month."
+    },
+    {
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-10T00:13:12.000Z",
+      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97c/live/39d6e150-c41f-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Dual quakes devastate southern Panama",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T00:53:15.000Z",
+      "summary": "Panama’s president has declared a major disaster after two earthquakes struck the country’s south."
+    },
+    {
+      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-10T00:00:08.000Z",
+      "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a979/live/804fb200-c3cb-11f1-8fc5-335d62f6730b.jpg"
+    },
+    {
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "link": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T00:22:52.000Z",
+      "summary": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say."
+    },
+    {
+      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-09T23:24:33.000Z",
+      "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/813c/live/dc25d930-c31a-11f1-bd97-fbe5a3482cde.jpg"
+    },
+    {
+      "title": "Intercommunal clashes kill 71 people in South Sudan",
+      "link": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T00:01:32.000Z",
+      "summary": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area."
+    },
+    {
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-09T23:02:07.000Z",
+      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d433/live/d30d8e00-c3d4-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T00:00:00.000Z",
+      "summary": "The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran."
     },
     {
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
@@ -1112,6 +1187,21 @@ window.GDC_NEWS = {
       "published": "2026-10-09T22:41:21.000Z",
       "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b258/live/476d9530-c414-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T22:50:15.000Z",
+      "summary": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine."
+    },
+    {
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-09T22:30:22.000Z",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg"
     },
     {
       "title": "Police clash with protesters in Brussels as thousands march against spending cuts",
@@ -1129,26 +1219,19 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png"
     },
     {
+      "title": "South African judge awarded Nobel Peace Prize",
+      "link": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
+      "source": "France 24",
+      "published": "2026-10-09T21:53:23.000Z",
+      "summary": "In tonight's programme, South African judge and human rights champion Navi Pillay has been awarded the Nobel Peace Prize. Also in Kenya health officials in Nairobi are still racing to track…",
+      "image": "https://s.france24.com/media/display/a324549c-c42b-11f1-aa1d-53993c5f1f18/w:1024/p:16x9/capture-5919164626ac961f82872c4-40513973.jpg"
+    },
+    {
       "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-09T21:53:01.000Z",
       "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed."
-    },
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-09T21:54:28.000Z",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg"
-    },
-    {
-      "title": "US judge rules Trump administration’s use of voter data unlawful",
-      "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T21:29:01.000Z",
-      "summary": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database."
     },
     {
       "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
@@ -1159,11 +1242,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg"
     },
     {
-      "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
-      "source": "NPR World",
-      "published": "2026-10-09T21:25:59.000Z",
-      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law."
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T21:29:01.000Z",
+      "summary": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database."
     },
     {
       "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
@@ -1174,6 +1257,20 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg"
     },
     {
+      "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+      "source": "NPR World",
+      "published": "2026-10-09T21:25:59.000Z",
+      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law."
+    },
+    {
+      "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+      "link": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T21:17:42.000Z",
+      "summary": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision."
+    },
+    {
       "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
       "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
       "source": "NPR World",
@@ -1182,11 +1279,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Ff7%2Fba5e41fe4a0eb0f617a90d2e222c%2Fap26274756029238.jpg"
     },
     {
-      "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+      "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T21:17:42.000Z",
-      "summary": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision."
+      "published": "2026-10-09T21:04:00.000Z",
+      "summary": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford."
     },
     {
       "title": "Italy's biggest-ever wine heist",
@@ -1197,11 +1294,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/773c6e38-c411-11f1-9d07-29a2e29ae696/w:1024/p:16x9/NW257983-O-01-20261009-01.jpg"
     },
     {
-      "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T21:04:00.000Z",
-      "summary": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford."
+      "published": "2026-10-09T20:56:01.000Z",
+      "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation."
     },
     {
       "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
@@ -1212,11 +1309,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/12b624b2-c417-11f1-bda1-e362370cce2e/w:1024/p:16x9/000-C4EQ663-1.jpg"
     },
     {
-      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-      "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "title": "How will Spain’s housing crisis affect elections?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T20:56:01.000Z",
-      "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation."
+      "published": "2026-10-09T20:39:11.000Z",
+      "summary": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents."
     },
     {
       "title": "Schools crisis in France: Investment fails to inspire confidence",
@@ -1226,11 +1323,11 @@ window.GDC_NEWS = {
       "summary": "For weeks, schoolchildren in France have been protesting the failing education system. Compared to many other countries, France invests heavily in education but critics say that the funds…"
     },
     {
-      "title": "How will Spain’s housing crisis affect elections?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+      "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T20:39:11.000Z",
-      "summary": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents."
+      "published": "2026-10-09T20:29:30.000Z",
+      "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace."
     },
     {
       "title": "Thai Queen makes first solo flight in fighter jet",
@@ -1241,11 +1338,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ae/live/204d48e0-c411-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T20:29:30.000Z",
-      "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace."
+      "published": "2026-10-09T20:17:15.000Z",
+      "summary": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026."
     },
     {
       "title": "Paris court jails Indian man for leading sadist neo-Nazi cult that tortured girls",
@@ -1256,11 +1353,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/61c72bd6-c41d-11f1-826d-53993c5f1f18/w:1024/p:16x9/000-D29U7CQ-1.jpg"
     },
     {
-      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
-      "link": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+      "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T20:17:15.000Z",
-      "summary": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026."
+      "published": "2026-10-09T20:13:24.000Z",
+      "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack."
     },
     {
       "title": "Navi Pillay wins Nobel Peace Prize as US sanctions threaten international justice",
@@ -1270,11 +1367,11 @@ window.GDC_NEWS = {
       "summary": "From defending Nelson Mandela to leading a panel that found genocide in Gaza, South African-born jurist Navi Pillay has won the Nobel Peace Prize for championing international law."
     },
     {
-      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-      "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T20:13:24.000Z",
-      "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack."
+      "published": "2026-10-09T19:47:33.000Z",
+      "summary": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war."
     },
     {
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
@@ -1285,11 +1382,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
-      "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+      "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-09T19:47:33.000Z",
-      "summary": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war."
+      "published": "2026-10-09T19:32:13.000Z",
+      "summary": "Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body."
     },
     {
       "title": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warnings",
@@ -1298,104 +1395,24 @@ window.GDC_NEWS = {
       "published": "2026-10-09T18:39:03.000Z",
       "summary": "A strong 7.6 magnitude earthquake struck near the southern ​coast ‌of Panama ⁠on Friday at a 10 km depth, ‌according to the US Geological ⁠Survey, shaking buildings as far away as the…",
       "image": "https://s.france24.com/media/display/1e685866-c417-11f1-a54f-77317c09f325/w:1024/p:16x9/2026-10-09T190605Z-119910366-RC2UZNAG2SLO-RTRMADP-3-PANAMA-QUAKE.jpg"
-    },
-    {
-      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-      "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T19:32:13.000Z",
-      "summary": "Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body."
-    },
-    {
-      "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261009-france-protests-israel-s-politically-charged-remembrance-ethopia-ukraine",
-      "source": "France 24",
-      "published": "2026-10-09T18:28:40.000Z",
-      "summary": "It’s been a week of vigils, protests and political upheaval – from Israel, where three years after the Hamas-led attacks, former hostages and mourners called for accountability over the…",
-      "image": "https://s.france24.com/media/display/84c2482c-c414-11f1-a7cb-29a2e29ae696/w:1024/p:16x9/DLS-PHOTO-MANIFS-FRANCE.png"
-    },
-    {
-      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
-      "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T19:22:56.000Z",
-      "summary": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake."
-    },
-    {
-      "title": "Rare waterspouts slam western Sicily, wrecking homes and a school",
-      "link": "http://www.africanews.com/2026/10/09/rare-waterspouts-slam-western-sicily-wrecking-homes-and-a-school/",
-      "source": "Africanews",
-      "published": "2026-10-09T17:50:07.000Z",
-      "summary": "A rare pair of waterspouts swept ashore in western Sicily on Friday, damaging homes, vehicles and a school. The two funnels formed off the coast near Marsala before moving inland towards…"
-    },
-    {
-      "title": "Injured Orangutan rescued from Indonesia wildfires",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T19:14:56.000Z",
-      "summary": "A young orangutan has been rescued from wildfires on Borneo Island in Indonesia."
-    },
-    {
-      "title": "Zuma’s hospitalisation raises questions over MK party election campaign",
-      "link": "http://www.africanews.com/2026/10/09/zumas-hospitalisation-raises-questions-over-mk-party-election-campaign/",
-      "source": "Africanews",
-      "published": "2026-10-09T17:47:56.000Z",
-      "summary": "Jacob Zuma’s hospitalisation has raised questions about his participation in upcoming uMkhonto weSizwe (MK) Party campaign events ahead of South Africa’s local government elections."
-    },
-    {
-      "title": "Katie Zacharia selected to be next White House press secretary",
-      "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T18:49:24.000Z",
-      "summary": "US President Donald Trump called the conservative commentator 'a devoted fan'."
-    },
-    {
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-09T17:37:10.000Z",
-      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg"
-    },
-    {
-      "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
-      "link": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T18:30:58.000Z",
-      "summary": "Republican and Democratic lawmakers condemn Pentagon plan to livestream Fort Hood shooter's execution by firing squad."
-    },
-    {
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-09T17:36:09.000Z",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97c/live/39d6e150-c41f-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-      "link": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T18:23:43.000Z",
-      "summary": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters."
-    },
-    {
-      "title": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
-      "link": "https://www.france24.com/en/navi-pillay-awarded-peace-prize-lifetime-spent-fighting-for-what-s-right-to-uphold-human-rights",
-      "source": "France 24",
-      "published": "2026-10-09T17:27:56.000Z",
-      "summary": "Haxie Meyers-Belkin is pleased to welcome Rosa Freedman, Professor of Law Conflict and Global Development at the University of Reading. Navi Pillay's career represents a remarkable…",
-      "image": "https://s.france24.com/media/display/7c369c54-c404-11f1-816f-53993c5f1f18/w:1024/p:16x9/EN-20261009-140113-141041-CS.jpg"
-    },
-    {
-      "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-      "link": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T18:15:06.000Z",
-      "summary": "Humanitarian and human rights groups call out Israel's continued killings and restrictions across the enclave."
     }
   ],
   "africa": [
+    {
+      "title": "Intercommunal clashes kill 71 people in South Sudan",
+      "link": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T00:01:32.000Z",
+      "summary": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area."
+    },
+    {
+      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-10T00:00:08.000Z",
+      "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a979/live/804fb200-c3cb-11f1-8fc5-335d62f6730b.jpg"
+    },
     {
       "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
       "link": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
@@ -1665,20 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-09T13:09:26.000Z",
       "summary": "[New Dawn] MONROVIA -- The Liberia National Police (LNP) has arrested between 60 and 70 foreign nationals, including a significant number of Chinese citizens, in connection with an ongoing…"
-    },
-    {
-      "title": "Uganda: Schools in Rwenzori Region Get New Tips On Menstrual Hygiene",
-      "link": "https://allafrica.com/stories/202610090491.html",
-      "source": "AllAfrica",
-      "published": "2026-10-09T13:11:37.000Z",
-      "summary": "[Independent (Kampala)] Kasese -- More than 20 schools from the Rwenzori Region have joined Reach A Hand Africa and Enable to challenge menstrual stigma and promote better menstrual hygiene…"
-    },
-    {
-      "title": "Liberia: AML Bridges Ease Travel in Nimba Communities",
-      "link": "https://allafrica.com/stories/202610090479.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-09T13:07:17.000Z",
-      "summary": "[New Dawn] MONROVIA -- Residents of Bonla and Lugbehyee communities in Nimba County are benefiting from improved road access following the construction of two concrete bridges by…"
     }
   ]
 };
