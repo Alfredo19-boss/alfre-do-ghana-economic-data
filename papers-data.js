@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-10T08:34:57.037Z",
+  "updated": "2026-10-10T14:41:45.940Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,145 +25,238 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GRA blames system failure for delay in issuing receipt over passenger’s customs duty",
-      "link": "https://www.myjoyonline.com/gra-blames-system-failure-for-delay-in-issuing-receipt-over-passengers-customs-duty/",
+      "title": "Pay teachers realistic income – Duncan Amoah to gov’t",
+      "link": "https://www.myjoyonline.com/pay-teachers-realistic-income-duncan-amoah-to-govt/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T08:21:35.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) says a GH¢807.68 customs duty assessed on a passenger’s luggage at the Accra International Airport was duly accounted for, following allegations of…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Airport",
-        "GRA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Accra-International-Airport.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Livestream: Newsfile discusses World Cup visa scandal, beach demolitions, education strikes, BRICS bid",
-      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-world-cup-visa-scandal-beach-demolitions-education-strikes-brics-bid/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T08:17:56.000Z",
-      "summary": "JoyNews’ flagship current affairs programme, Newsfile, is examining four major national issues that have dominated public discussion over the past week. The discussions will focus on…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Livestream",
-        "Newsfile"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-newsfile-10-10-26-visa-scan.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NC-PTAs welcomes end of teachers’ strike, urges parents to prepare children for Monday",
-      "link": "https://www.myjoyonline.com/nc-ptas-welcomes-end-of-teachers-strike-urges-parents-to-prepare-children-for-monday/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T08:08:09.000Z",
-      "summary": "The National Council of Parent-Teacher Associations (NC-PTAs) Ghana has welcomed the decision by teacher unions to call off their strike, urging parents and guardians to prepare their…",
+      "published": "2026-10-10T14:27:24.000Z",
+      "summary": "The Executive Director of the Chamber of Petroleum Consumers (COPEC), Duncan Amoah, has called on the government to pay teachers realistic salaries and provide adequate funding for teaching…",
       "categories": [
         "Education",
-        "HP News 4",
         "National",
-        "News",
-        "Gapson Kofi Raphael",
-        "NC-PTA",
-        "Parents"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/kofi-rapheal-1024x640.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government procures over 2,000 transformers as Ghana’s electricity access hits 89.13% – Energy Minister",
-      "link": "https://www.myjoyonline.com/government-procures-over-2000-transformers-as-ghanas-electricity-access-hits-89-13-energy-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T07:41:28.000Z",
-      "summary": "The Minister for Energy and Green Transition, Dr John Abdulai Jinapor, has announced that the government has procured more than 2,000 transformers to strengthen electricity distribution…",
-      "categories": [
-        "National",
-        "Electricity",
-        "Energy Minister",
-        "Ghana",
         "Government",
-        "John Jinapor"
+        "Teachers"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/2-22-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1063.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UTAG-UG threatens strike on October 19 over unpaid allowance",
-      "link": "https://www.myjoyonline.com/utag-ug-threatens-strike-on-october-19-over-unpaid-allowance/",
+      "title": "Bechem to become chicken capital of Ghana – Mahama projects",
+      "link": "https://www.myjoyonline.com/bechem-to-become-chicken-capital-of-ghana-mahama-projects/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T07:33:16.000Z",
-      "summary": "The University of Ghana branch of the University Teachers Association of Ghana (UTAG-UG) has threatened to withdraw teaching and related services from Monday, October 19, 2026, if the…",
-      "categories": [
-        "Education",
-        "HP News 1",
-        "National",
-        "Strike",
-        "UTAG"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/08/University-of-Ghana-Legon-646x424-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Let The Constitution direct Chieftaincy to deliver “All Development Is Local”",
-      "link": "https://www.myjoyonline.com/let-the-constitution-direct-chieftaincy-to-deliver-all-development-is-local/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T06:22:32.000Z",
-      "summary": "Chieftaincy’s natural power and capacity to lead local development have been grossly underrated and it is time to address that constitutionally. For accelerated local development, there is…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "Chiefs",
-        "Chieftaincy",
-        "Development",
-        "Kwasi Ansu-Kyeremeh"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Chiefs.jpg.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "John Jinapor outlines renewable energy, nuclear power priorities for 2027",
-      "link": "https://www.myjoyonline.com/john-jinapor-outlines-renewable-energy-nuclear-power-priorities-for-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T05:56:00.000Z",
-      "summary": "The Minister for Energy and Green Transition, Dr John Abdulai Jinapor, has outlined plans to accelerate Ghana’s transition towards cleaner and more sustainable energy, identifying renewable…",
+      "published": "2026-10-10T14:25:34.000Z",
+      "summary": "President John Dramani Mahama has projected that when the Poultry and Meat Processing Factory at Bechem in the Ahafo Region becomes operational, it will make the town the chicken capital of…",
       "categories": [
         "National",
-        "Energy Minister",
+        "Ahafo Region",
+        "Bechem",
         "Ghana",
-        "Government",
-        "John Jinapor"
+        "Mahama",
+        "Resetting Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/721151840_28354888827433998_2180514797178346050_n-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Politics-President-Poultry-2-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana explores centre of excellence for hearing, communication and cochlear implant care",
-      "link": "https://www.myjoyonline.com/ghana-explores-centre-of-excellence-for-hearing-communication-and-cochlear-implant-care/",
+      "title": "Gov’t targets recruitment of 16,500 health professionals in 2026",
+      "link": "https://www.myjoyonline.com/govt-targets-recruitment-of-16500-health-professionals-in-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T04:58:50.000Z",
-      "summary": "Ghana is exploring the establishment of a Centre of Excellence for Hearing, Communication and Cochlear Implant Care to expand access to specialist hearing services and strengthen local…",
+      "published": "2026-10-10T14:04:45.000Z",
+      "summary": "Government says it plans to recruit 16,500 health professionals in 2026, as it steps up efforts to address staffing gaps and improve healthcare delivery across the country.",
       "categories": [
         "Health",
-        "cochlear implant care",
-        "Hearing",
-        "Speech"
+        "National",
+        "Government",
+        "Health Professionals"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-18.42.43.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1061-1024x907.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Teacher unions suspend two-week strike after meeting with Council of State",
-      "link": "https://www.graphic.com.gh/news/education/teacher-unions-suspend-two-week-strike-after-meeting-with-council-of-state.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T17:47:16.000Z",
-      "summary": "The teacher unions have suspended their two-week old industrial action after a meeting with the Council of State on Friday.",
+      "title": "Two-week strike will not derail academic calendar – GNAT President",
+      "link": "https://www.myjoyonline.com/two-week-strike-will-not-derail-academic-calendar-gnat-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T13:50:00.000Z",
+      "summary": "The President of the Ghana National Association of Teachers (GNAT), Prosper Tachie, says the two-week strike by teacher unions will not throw the academic calendar into disarray, insisting…",
       "categories": [
-        "Education"
+        "Education",
+        "National",
+        "News",
+        "academic calendar",
+        "GNAT president",
+        "Prosper Tachie",
+        "Strike"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/09/teachers.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-06-at-12.03.49-PM-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.myjoyonline.com/headmaster-detained-after-bbc-investigation-into-alleged-sexual-abuse-of-students/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T13:40:20.000Z",
+      "summary": "A former headmaster of an Islamic boarding school in Indonesia has been named as a suspect in a sexual abuse investigation and detained by police, following a BBC Eye report.",
+      "categories": [
+        "International",
+        "Headmaster",
+        "Investigation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1062-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GNAT pushes for clear implementation procedures of teachers’ conditions of service",
+      "link": "https://www.myjoyonline.com/gnat-pushes-for-clear-implementation-procedures-of-teachers-conditions-of-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T13:21:12.000Z",
+      "summary": "The Ghana National Association of Teachers (GNAT) is pushing for clear procedures to guide the implementation of teachers’ conditions of service, warning that agreements risk remaining…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Top Story",
+        "GNAT",
+        "Prosper Tachie",
+        "teachers' conditions of service"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-06-at-12.03.49-PM-1-e1791642592402-890x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Recurrent strikes threaten quality of education and academic calendars – Prof Bokpin",
+      "link": "https://www.myjoyonline.com/recurrent-strikes-threaten-quality-of-education-and-academic-calendars-prof-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T13:17:19.000Z",
+      "summary": "Economist and University of Ghana Business School professor Gofred Bokpin has warned that recurrent labour strikes in Ghana’s education sector are undermining teaching time, academic…",
+      "categories": [
+        "Education",
+        "National",
+        "Professor Gofred Bokpin",
+        "Strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Bokpin.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Cockroach’ group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.myjoyonline.com/cockroach-group-leaders-among-hundreds-detained-in-delhi-protest/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T13:13:55.000Z",
+      "summary": "Hundreds of protesters have reportedly been detained in Delhi during the latest demonstration by the Gen-Z led Cockroach Janta Party (CJP) over electoral reforms.",
+      "categories": [
+        "International",
+        "cockroach",
+        "Delhi",
+        "Detain"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1058-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama: You can still preach in buses, just not when moving",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-you-can-still-preach-in-buses-just-not-when-moving.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T13:08:37.000Z",
+      "summary": "President John Dramani Mahama has clarified the provision under the Road Traffic Regulations, 2026 (L.I. 2519), which prohibits preaching and hawking in moving public and commercial…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/jayemm.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "KNUST postpones re-opening for 2026/2027 academic year indefinitely",
+      "link": "https://www.graphic.com.gh/news/general-news/knust-postpones-re-opening-for-2026-2027-academic-year-indefinitely.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T12:55:24.000Z",
+      "summary": "The Kwame Nkrumah University of Science and Technology (KNUST) has postponed the re-opening of the university for the 2026/2027 academic year indefinitely, citing the ongoing strike action…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2023/jun/05/aaa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana not seeking full BRICS membership, applying as Partner Country – Ablakwa",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-not-seeking-full-brics-membership-applying-as-partner-country-ablakwa.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T10:23:03.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has clarified that Ghana is not seeking full membership of BRICS, but intends to apply as a Partner Country.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/Abla.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GPRTU wants full TRAFFITECH-GH implementation to start in 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/gprtu-wants-full-traffitech-gh-implementation-to-start-in-2027.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T10:02:42.000Z",
+      "summary": "The Ghana Private Road Transport Union has asked the police to postpone the full implementation of TRAFFITECH-GH to to 2027, citing concerns over inadequate preparation and public education…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/cctv.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GRA on alleged extortion by customs officers at Accra International Airport",
+      "link": "https://www.graphic.com.gh/news/general-news/gra-on-alleged-extortion-by-customs-officers-at-accra-international-airport.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T09:41:12.000Z",
+      "summary": "The Ghana Revenue Authority has clarified an allegation of extortion by Customs officers at the arrival hall of the Accra International Airport. According to the GRA a preliminary…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/mar/29/gragra.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AFCON move to every four years under review by CAF",
+      "link": "https://www.graphic.com.gh/sports/sports-news/afcon-move-to-every-four-years-under-review-by-caf.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-10T09:31:40.000Z",
+      "summary": "The Confederation of African Football (CAF) is reviewing its plan to stage the Africa Cup of Nations (AFCON) every four years, with a return to the biennial format still being considered…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/Senegal.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Upper East gets 120 SOCO project jobs",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-upper-east-gets-120-soco-project-jobs.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T08:52:58.000Z",
+      "summary": "The Gulf of Guinea Northern Regions Social Cohesion (SOCO) Project has created 382 employment opportunities for community facilitators, with the Upper East Region receiving the largest…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/facilitators.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "St Luke Anglican Church supports Nsawam Prison",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-st-luke-anglican-church-supports-nsawam-prison.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T08:49:27.000Z",
+      "summary": "St Luke Anglican Church at Kwashieman in Accra commended prison officers for their work in caring for and rehabilitating inmates.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/Luke.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Glut! Farmers count losses as prices crash, customers happy",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-glut-farmers-count-losses-as-prices-crash-customers-happy.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T08:42:46.000Z",
+      "summary": "Farmers of vegetables in the Nabdam District of the Upper East Region are counting their losses as a sharp decline in the prices of tomatoes, pepper and okra threatens to undermine their…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/Mboleni.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -231,18 +324,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NYA seeks stronger parliamentary collaboration to accelerate youth development",
-      "link": "https://www.graphic.com.gh/news/general-news/nya-seeks-stronger-parliamentary-collaboration-to-accelerate-youth-development.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T15:34:35.000Z",
-      "summary": "The Chief Executive Officer of the National Youth Authority (NYA), Mr Osman Ayariga, has called for stronger collaboration with Parliament to accelerate youth development in Ghana, as the…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Road to LA 2028: GBF President outlines busy international schedule for Black Bombers",
       "link": "https://www.graphic.com.gh/sports/sports-news/road-to-la-2028-gbf-president-outlines-busy-international-schedule-for-black-bombers.html",
       "source": "Graphic Sports",
@@ -253,18 +334,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/09/FUSEINI.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Yellow fever situation under control – Health Minister",
-      "link": "https://www.graphic.com.gh/news/health/yellow-fever-situation-under-control-health-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T13:24:35.000Z",
-      "summary": "The Minister of Health, Kwabena Mintah Akandoh, has assured the public that the yellow fever situation in the country is under control, urging residents to remain calm and rely on official…",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2021/oct/30/fever_ghana_news.png",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Haaland’s message to Man City fans after 115-charge verdict",
@@ -279,30 +348,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Cyber Security Authority: Ghana led Operation Blackout, not FBI",
-      "link": "https://www.graphic.com.gh/news/general-news/cyber-security-authority-ghana-led-operation-blackout-not-fbi.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T12:33:39.000Z",
-      "summary": "The Cyber Security Authority (CSA) has rejected claims by the United States Federal Bureau of Investigation (FBI) that the cybercrime operation carried out in Ghana this week was conceived…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/HUGncalWkAAvqYR.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama takes 'Resetting Ghana' Tour to Ahafo Region",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-takes-resetting-ghana-tour-to-ahafo-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T11:52:44.000Z",
-      "summary": "President John Dramani Mahama will begin a two-day working visit to the Ahafo Region on Friday, October 9, 2026, as part of his \"Resetting Ghana Tour,\" during which he will inspect ongoing…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/mahama.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Antoine Semenyo ties the knot with influencer Jordeen Buckley",
       "link": "https://www.graphic.com.gh/sports/sports-news/antoine-semenyo-ties-the-knot-with-influencer-jordeen-buckley.html",
       "source": "Graphic Sports",
@@ -313,42 +358,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/09/SEMENYO.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "1,568 new lawyers called to the Ghana Bar",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-1-568-new-lawyers-called-to-the-ghana-bar.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T10:54:58.000Z",
-      "summary": "A total of 1,568 newly qualified lawyers have been called to the Ghana Bar.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/09/lawyers1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nzema chiefs confer development chief title on Lands Minister Armah-Kofi Buah",
-      "link": "https://www.graphic.com.gh/news/general-news/nzema-chiefs-confer-development-chief-title-on-lands-minister-armah-kofi-buah.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T10:53:21.000Z",
-      "summary": "The chiefs and people of the Eastern Nzema Traditional Area have conferred a development chief title - Ellembelle Anyunluhɔlɛ Belemgbunli - on the Minister of Lands and Natural Resources…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Health Ministry declares Yellow Fever outbreak in Upper West Region",
-      "link": "https://www.graphic.com.gh/news/health/health-ministry-declares-yellow-fever-outbreak-in-upper-west-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-09T10:47:04.000Z",
-      "summary": "The Ministry of Health, working through the Ghana Health Service and in partnership with the World Health Organisation, has declared a Yellow Fever outbreak in some affected districts in…",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2021/nov/Mosquito.png",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "$27.8bn lost as children remain out of school",
@@ -432,18 +441,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/08/AFRIYIE.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana drop five places to 70th in latest FIFA rankings",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-drop-five-places-to-70th-in-latest-fifa-rankings.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-08T13:08:40.000Z",
-      "summary": "The Black Stars have dropped five places to 70th in the latest FIFA Men’s World Ranking following a difficult start to their 2027 Africa Cup of Nations qualifying campaign. Ghana, who were…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/BLACKSTARS.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
