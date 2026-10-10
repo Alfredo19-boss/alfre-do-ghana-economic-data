@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-10T02:16:24.409Z",
+  "updated": "2026-10-10T08:34:57.037Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,132 +25,133 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana housing finance conference adopts communiqué to improve affordable housing access",
-      "link": "https://www.myjoyonline.com/ghana-housing-finance-conference-adopts-communique-to-improve-affordable-housing-access/",
+      "title": "GRA blames system failure for delay in issuing receipt over passenger’s customs duty",
+      "link": "https://www.myjoyonline.com/gra-blames-system-failure-for-delay-in-issuing-receipt-over-passengers-customs-duty/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T23:48:10.000Z",
-      "summary": "The National Conference on Housing Finance 2026 has adopted a communiqué committing government, financial institutions, housing developers, labour organisations and other stakeholders to…",
+      "published": "2026-10-10T08:21:35.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) says a GH¢807.68 customs duty assessed on a passenger’s luggage at the Accra International Airport was duly accounted for, following allegations of…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Airport",
+        "GRA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Accra-International-Airport.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Livestream: Newsfile discusses World Cup visa scandal, beach demolitions, education strikes, BRICS bid",
+      "link": "https://www.myjoyonline.com/livestream-newsfile-discusses-world-cup-visa-scandal-beach-demolitions-education-strikes-brics-bid/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T08:17:56.000Z",
+      "summary": "JoyNews’ flagship current affairs programme, Newsfile, is examining four major national issues that have dominated public discussion over the past week. The discussions will focus on…",
       "categories": [
         "National",
-        "affordability",
-        "conference",
-        "housing finance"
+        "Top Story",
+        "Livestream",
+        "Newsfile"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-1.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-newsfile-10-10-26-visa-scan.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Special Initiatives Minister urges Wa Technical Institute to enrol more girls as EU-backed solar training lab opens",
-      "link": "https://www.myjoyonline.com/special-initiatives-minister-urges-wa-technical-institute-to-enrol-more-girls-as-eu-backed-solar-training-lab-opens/",
+      "title": "NC-PTAs welcomes end of teachers’ strike, urges parents to prepare children for Monday",
+      "link": "https://www.myjoyonline.com/nc-ptas-welcomes-end-of-teachers-strike-urges-parents-to-prepare-children-for-monday/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T23:22:33.000Z",
-      "summary": "Minister of State in charge of Special Initiatives at the Office of the President, Abdul-Rashid Pelpuo, has urged Wa Technical Institute to increase the enrolment of girls in renewable…",
+      "published": "2026-10-10T08:08:09.000Z",
+      "summary": "The National Council of Parent-Teacher Associations (NC-PTAs) Ghana has welcomed the decision by teacher unions to call off their strike, urging parents and guardians to prepare their…",
       "categories": [
-        "Regional",
-        "EU Backed",
-        "Minister of State in charge of Special Initiatives",
-        "Solar training",
-        "WA Technical Institute"
+        "Education",
+        "HP News 4",
+        "National",
+        "News",
+        "Gapson Kofi Raphael",
+        "NC-PTA",
+        "Parents"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-00.04.17-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/kofi-rapheal-1024x640.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "In the matter of my first year at the Bar",
-      "link": "https://www.myjoyonline.com/in-the-matter-of-my-first-year-at-the-bar/",
+      "title": "Government procures over 2,000 transformers as Ghana’s electricity access hits 89.13% – Energy Minister",
+      "link": "https://www.myjoyonline.com/government-procures-over-2000-transformers-as-ghanas-electricity-access-hits-89-13-energy-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T23:10:13.000Z",
-      "summary": "A year ago, I heard my name read out as a member of the Bar in Ghana. Twelve months in the Court of Appeal, the High Court and the Circuit Court have since taught me more than the long…",
-      "categories": [
-        "Opinion",
-        "bar",
-        "Esquire season",
-        "Lawyers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-00.00.50-1024x748.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ActionAid Ghana calls for an end to child marriage, greater investment in girls’ rights",
-      "link": "https://www.myjoyonline.com/actionaid-ghana-calls-for-end-to-child-marriage-greater-investment-in-girls-rights/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T23:05:02.000Z",
-      "summary": "ActionAid Ghana has called for stronger measures to end child marriage and school-related abuse, urging government and community leaders to invest more in girls’ rights, education and…",
+      "published": "2026-10-10T07:41:28.000Z",
+      "summary": "The Minister for Energy and Green Transition, Dr John Abdulai Jinapor, has announced that the government has procured more than 2,000 transformers to strengthen electricity distribution…",
       "categories": [
         "National",
-        "ActionAid Ghana",
-        "Child marriage",
-        "girls rights"
+        "Electricity",
+        "Energy Minister",
+        "Ghana",
+        "Government",
+        "John Jinapor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-00.02.46-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/2-22-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Newsfile to tackle World Cup visa scandal, beach demolitions, education strikes, BRICS bid",
-      "link": "https://www.myjoyonline.com/newsfile-to-tackle-world-cup-visa-scandal-beach-demolitions-education-strikes-brics-bid/",
+      "title": "UTAG-UG threatens strike on October 19 over unpaid allowance",
+      "link": "https://www.myjoyonline.com/utag-ug-threatens-strike-on-october-19-over-unpaid-allowance/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T22:41:44.000Z",
-      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, October 10, examine four major national issues that have dominated public discussion over the past week. Hosted by…",
+      "published": "2026-10-10T07:33:16.000Z",
+      "summary": "The University of Ghana branch of the University Teachers Association of Ghana (UTAG-UG) has threatened to withdraw teaching and related services from Monday, October 19, 2026, if the…",
       "categories": [
+        "Education",
         "HP News 1",
         "National",
-        "Radio & TV",
-        "beach demolitions",
-        "BRICS bid",
-        "Newsfile",
-        "World Cup visa scandal"
+        "Strike",
+        "UTAG"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-23.28.27-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/08/University-of-Ghana-Legon-646x424-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UK-Ghana Trade & Investment Summit: Trade Resource Centre to help businesses maximise UK-Ghana trade opportunities",
-      "link": "https://www.myjoyonline.com/uk-ghana-trade-investment-summit-trade-resource-centre-to-help-businesses-maximise-uk-ghana-trade-opportunities/",
+      "title": "Let The Constitution direct Chieftaincy to deliver “All Development Is Local”",
+      "link": "https://www.myjoyonline.com/let-the-constitution-direct-chieftaincy-to-deliver-all-development-is-local/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T22:27:00.000Z",
-      "summary": "The UK and Ghana enjoy strong trade relations, with total bilateral trade reaching approximately £1.6 billion in the year to Q1 2026. Yet, despite this progress, significant untapped…",
+      "published": "2026-10-10T06:22:32.000Z",
+      "summary": "Chieftaincy’s natural power and capacity to lead local development have been grossly underrated and it is time to address that constitutionally. For accelerated local development, there is…",
       "categories": [
-        "Business",
-        "Economy",
-        "Adjoba Kyiamah",
-        "Ghana",
-        "jet",
-        "UK",
-        "UKGCC"
+        "Features",
+        "National",
+        "Opinion",
+        "Chiefs",
+        "Chieftaincy",
+        "Development",
+        "Kwasi Ansu-Kyeremeh"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-11.10.39-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Chiefs.jpg.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Embassy of Denmark celebrates World Maritime Day",
-      "link": "https://www.myjoyonline.com/embassy-of-denmark-celebrates-world-maritime-day/",
+      "title": "John Jinapor outlines renewable energy, nuclear power priorities for 2027",
+      "link": "https://www.myjoyonline.com/john-jinapor-outlines-renewable-energy-nuclear-power-priorities-for-2027/",
       "source": "MyJoyOnline",
-      "published": "2026-10-09T22:19:27.000Z",
-      "summary": "The event, which brought together partners from across the maritime security, commercial, and regulatory sectors, was accompanied by a superb exhibition of maritime art.",
-      "categories": [
-        "Business",
-        "Transport",
-        "Danish Embassy",
-        "Danish Maritime Security",
-        "Jakob Linulf",
-        "World Maritime Day"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/untitled-252-1024x731.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Linking LEAP to productive inclusion could cut extreme poverty by 2030 – UNICEF",
-      "link": "https://www.myjoyonline.com/linking-leap-to-productive-inclusion-could-cut-extreme-poverty-by-2030-unicef/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T21:10:40.000Z",
-      "summary": "The United Nations Children’s Fund (UNICEF) says linking Ghana’s Livelihood Empowerment Against Poverty (LEAP) programme with the Productive Inclusion Initiative (PII) could reduce extreme…",
+      "published": "2026-10-10T05:56:00.000Z",
+      "summary": "The Minister for Energy and Green Transition, Dr John Abdulai Jinapor, has outlined plans to accelerate Ghana’s transition towards cleaner and more sustainable energy, identifying renewable…",
       "categories": [
         "National",
-        "extreme poverty",
-        "LEAP",
-        "UNICEF"
+        "Energy Minister",
+        "Ghana",
+        "Government",
+        "John Jinapor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-18.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/721151840_28354888827433998_2180514797178346050_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana explores centre of excellence for hearing, communication and cochlear implant care",
+      "link": "https://www.myjoyonline.com/ghana-explores-centre-of-excellence-for-hearing-communication-and-cochlear-implant-care/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T04:58:50.000Z",
+      "summary": "Ghana is exploring the establishment of a Centre of Excellence for Hearing, Communication and Cochlear Implant Care to expand access to specialist hearing services and strengthen local…",
+      "categories": [
+        "Health",
+        "cochlear implant care",
+        "Hearing",
+        "Speech"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-18.42.43.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
