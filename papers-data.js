@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-10T14:41:45.940Z",
+  "updated": "2026-10-10T18:52:35.455Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,131 +25,165 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Pay teachers realistic income – Duncan Amoah to gov’t",
-      "link": "https://www.myjoyonline.com/pay-teachers-realistic-income-duncan-amoah-to-govt/",
+      "title": "ITF J100: America’s Wright wins J100 Accra Girls’ Singles Title",
+      "link": "https://www.myjoyonline.com/itf-j100-americas-wright-wins-j100-accra-girls-singles-title/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T14:27:24.000Z",
-      "summary": "The Executive Director of the Chamber of Petroleum Consumers (COPEC), Duncan Amoah, has called on the government to pay teachers realistic salaries and provide adequate funding for teaching…",
+      "published": "2026-10-10T18:46:49.000Z",
+      "summary": "Third-seeded American Sydney Wright proved unstoppable at the ITF J100 Accra, concluding a six-week tournament run by defending her girls’ singles title in a thrilling final against…",
       "categories": [
-        "Education",
-        "National",
-        "Government",
-        "Teachers"
+        "HP Sports 3",
+        "Tennis",
+        "ITF Tennis Foundation",
+        "ITF World Tennis Junior Tournament",
+        "Tennis championships"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1063.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261010-WA0030-837x1024.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bechem to become chicken capital of Ghana – Mahama projects",
-      "link": "https://www.myjoyonline.com/bechem-to-become-chicken-capital-of-ghana-mahama-projects/",
+      "title": "Expedition hopes to find aviator Amelia Earhart’s plane on remote island",
+      "link": "https://www.myjoyonline.com/expedition-hopes-to-find-aviator-amelia-earharts-plane-on-remote-island/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T14:25:34.000Z",
-      "summary": "President John Dramani Mahama has projected that when the Poultry and Meat Processing Factory at Bechem in the Ahafo Region becomes operational, it will make the town the chicken capital of…",
-      "categories": [
-        "National",
-        "Ahafo Region",
-        "Bechem",
-        "Ghana",
-        "Mahama",
-        "Resetting Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Politics-President-Poultry-2-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t targets recruitment of 16,500 health professionals in 2026",
-      "link": "https://www.myjoyonline.com/govt-targets-recruitment-of-16500-health-professionals-in-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T14:04:45.000Z",
-      "summary": "Government says it plans to recruit 16,500 health professionals in 2026, as it steps up efforts to address staffing gaps and improve healthcare delivery across the country.",
-      "categories": [
-        "Health",
-        "National",
-        "Government",
-        "Health Professionals"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1061-1024x907.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two-week strike will not derail academic calendar – GNAT President",
-      "link": "https://www.myjoyonline.com/two-week-strike-will-not-derail-academic-calendar-gnat-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T13:50:00.000Z",
-      "summary": "The President of the Ghana National Association of Teachers (GNAT), Prosper Tachie, says the two-week strike by teacher unions will not throw the academic calendar into disarray, insisting…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "academic calendar",
-        "GNAT president",
-        "Prosper Tachie",
-        "Strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-06-at-12.03.49-PM-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "link": "https://www.myjoyonline.com/headmaster-detained-after-bbc-investigation-into-alleged-sexual-abuse-of-students/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T13:40:20.000Z",
-      "summary": "A former headmaster of an Islamic boarding school in Indonesia has been named as a suspect in a sexual abuse investigation and detained by police, following a BBC Eye report.",
+      "published": "2026-10-10T18:46:07.000Z",
+      "summary": "A team of researchers are on their way to a remote island to inspect what they think could be the wreckage of famed aviator Amelia Earhart's plane.",
       "categories": [
         "International",
-        "Headmaster",
-        "Investigation"
+        "Amelia Earhart",
+        "Aviator",
+        "plane"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1062-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1084-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GNAT pushes for clear implementation procedures of teachers’ conditions of service",
-      "link": "https://www.myjoyonline.com/gnat-pushes-for-clear-implementation-procedures-of-teachers-conditions-of-service/",
+      "title": "US seeks changes to rejected $109m health compact with Ghana – Mahama",
+      "link": "https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T13:21:12.000Z",
-      "summary": "The Ghana National Association of Teachers (GNAT) is pushing for clear procedures to guide the implementation of teachers’ conditions of service, warning that agreements risk remaining…",
+      "published": "2026-10-10T18:15:49.000Z",
+      "summary": "The United States is seeking to revise its proposed $109 million health compact with Ghana, including amending or removing clauses that led to its rejection by Cabinet, President John…",
       "categories": [
-        "Education",
         "National",
         "News",
         "Top Story",
-        "GNAT",
-        "Prosper Tachie",
-        "teachers' conditions of service"
+        "Ghana",
+        "health compact",
+        "President John Mahama",
+        "US"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-06-at-12.03.49-PM-1-e1791642592402-890x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-18.09.10-1024x731.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Recurrent strikes threaten quality of education and academic calendars – Prof Bokpin",
-      "link": "https://www.myjoyonline.com/recurrent-strikes-threaten-quality-of-education-and-academic-calendars-prof-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T13:17:19.000Z",
-      "summary": "Economist and University of Ghana Business School professor Gofred Bokpin has warned that recurrent labour strikes in Ghana’s education sector are undermining teaching time, academic…",
+      "title": "Ghana's Golden Shuttlers make top three at World Juniors Team Cheers",
+      "link": "https://www.graphic.com.gh/sports/sports-news/golden-shuttlers-make-top-three-at-world-juniors-team-cheers.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-10T18:01:35.000Z",
+      "summary": "Ghana’s Golden Shuttlers have secured a place among the top three countries in the Team Cheers competition at the ongoing 2026 BWF World Junior Championships in Cairo, Egypt. Ghana ranked…",
       "categories": [
-        "Education",
-        "National",
-        "Professor Gofred Bokpin",
-        "Strike"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Bokpin.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/GHANA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "‘Cockroach’ group leaders among hundreds detained in Delhi protest",
-      "link": "https://www.myjoyonline.com/cockroach-group-leaders-among-hundreds-detained-in-delhi-protest/",
+      "title": "Nine dead in mass shooting at Pennsylvania home",
+      "link": "https://www.myjoyonline.com/nine-dead-in-mass-shooting-at-pennsylvania-home/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T13:13:55.000Z",
-      "summary": "Hundreds of protesters have reportedly been detained in Delhi during the latest demonstration by the Gen-Z led Cockroach Janta Party (CJP) over electoral reforms.",
+      "published": "2026-10-10T17:58:23.000Z",
+      "summary": "A man has shot and killed eight people, including two children, at a home in the US state of Pennsylvania before appearing to take his own life.",
       "categories": [
         "International",
-        "cockroach",
-        "Delhi",
-        "Detain"
+        "Mass Shooting",
+        "Pennsylvania"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1058-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1083-1024x576.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Time for Ukraine to get new president,’ says Trump after Zelensky condemns diesel deal",
+      "link": "https://www.myjoyonline.com/time-for-ukraine-to-get-new-president-says-trump-after-zelensky-condemns-diesel-deal/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T17:55:38.000Z",
+      "summary": "US President Donald Trump has said he thinks \"it's time for Ukraine to get a new president\" as he responded to Volodymyr Zelensky's criticism of the US diesel deal with Russia.",
+      "categories": [
+        "International",
+        "Diesel",
+        "Trump",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1082-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
+      "link": "https://www.myjoyonline.com/hincapie-injury-adds-to-arsenal-issues-after-guimaraes-rescue-act/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T17:46:57.000Z",
+      "summary": "For the second time in three Premier League matches, Bruno Guimaraes has come to Arsenal's rescue.",
+      "categories": [
+        "International",
+        "Sports",
+        "Arsenal",
+        "Bruno Guimaraes"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1081.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Henderson scores twice as Chelsea thumb Bournemouth",
+      "link": "https://www.myjoyonline.com/henderson-scores-twice-as-chelsea-thumb-bournemouth/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T17:37:29.000Z",
+      "summary": "Jordan Henderson scored his first Chelsea goals to help his new side to a dominant victory over Bournemouth.",
+      "categories": [
+        "International",
+        "Sports",
+        "Bournemouth",
+        "Chelsea",
+        "Jordan Henderson"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1080.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Photos: Mentapulse Africa convenes health and labour summit to address talent retention",
+      "link": "https://www.myjoyonline.com/photos-mentapulse-africa-convenes-health-and-labour-summit-to-address-talent-retention/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T17:25:20.000Z",
+      "summary": "Mentapulse Africa has convened policymakers, labour representatives, employers, researchers and professionals at the Ghana Health and Labour Summit 2026 at the University of Ghana, Legon…",
+      "categories": [
+        "Photo Story",
+        "Health and labour summit",
+        "Mentapulse",
+        "MentaPulse Africa",
+        "talent retention"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-16.53.41-3-1024x586.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hearts desperate to end slump against fearless Port City",
+      "link": "https://www.graphic.com.gh/sports/sports-news/hearts-desperate-to-end-slump-against-fearless-port-city.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-10T17:14:40.000Z",
+      "summary": "Hearts of Oak’s bright start to the Ghana Premier League season is fast losing its shine, and tomorrow’s showdown with fearless newcomers, Port City FC, at the University of Ghana Stadium…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/GPL.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Alfred Sakyi Inducted as Methodist Church Lay President",
+      "link": "https://www.graphic.com.gh/news/general-news/alfred-sakyi-inducted-as-methodist-church-lay-president.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T15:15:37.000Z",
+      "summary": "The newly inducted Lay President of the Methodist Church Ghana, Mr Alfred Sakyi, has pledged to promote youth entrepreneurship and economic empowerment through a church-backed programme…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "President Mahama: You can still preach in buses, just not when moving",
@@ -245,18 +279,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/10/Luke.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Glut! Farmers count losses as prices crash, customers happy",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-glut-farmers-count-losses-as-prices-crash-customers-happy.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T08:42:46.000Z",
-      "summary": "Farmers of vegetables in the Nabdam District of the Upper East Region are counting their losses as a sharp decline in the prices of tomatoes, pepper and okra threatens to undermine their…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/10/Mboleni.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -417,30 +439,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/08/Milo.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "No need for GFA coaching search committee – George Afriyie",
-      "link": "https://www.graphic.com.gh/sports/sports-news/no-need-for-gfa-coaching-search-committee-george-afriyie.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-08T15:07:24.000Z",
-      "summary": "Former Ghana Football Association (GFA) Vice President George Afriyie has questioned the decision to form a five-member committee to search for the next Black Stars head coach, arguing that…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/AFRIYIE2.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana football more important than becoming GFA president – George Afriyie",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-football-more-important-than-becoming-gfa-president-george-afriyie.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-08T15:05:50.000Z",
-      "summary": "Former Ghana Football Association (GFA) vice-president George Afriyie says his priority is to improve Ghana football rather than pursue the presidency of the association. Afriyie, who lost…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/AFRIYIE.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
