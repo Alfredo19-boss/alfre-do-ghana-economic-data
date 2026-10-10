@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-10T18:52:35.455Z",
+  "updated": "2026-10-10T22:03:52.959Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,52 +25,135 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "ITF J100: America’s Wright wins J100 Accra Girls’ Singles Title",
-      "link": "https://www.myjoyonline.com/itf-j100-americas-wright-wins-j100-accra-girls-singles-title/",
+      "title": "Conflicts among care providers linked to maternal, neonatal deaths – Expert",
+      "link": "https://www.myjoyonline.com/conflicts-among-care-providers-linked-to-maternal-neonatal-deaths-expert/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T18:46:49.000Z",
-      "summary": "Third-seeded American Sydney Wright proved unstoppable at the ITF J100 Accra, concluding a six-week tournament run by defending her girls’ singles title in a thrilling final against…",
+      "published": "2026-10-10T20:55:57.000Z",
+      "summary": "Maternal and child health expert and Chief Executive Officer of MamaCare by Racheal, Mrs Racheal Hesse Matey, has warned that unresolved conflicts among obstetric care providers are…",
       "categories": [
-        "HP Sports 3",
-        "Tennis",
-        "ITF Tennis Foundation",
-        "ITF World Tennis Junior Tournament",
-        "Tennis championships"
+        "Health",
+        "News",
+        "Conflicts",
+        "Maternal",
+        "Neonatal deaths"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261010-WA0030-837x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.19.25-1-683x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Expedition hopes to find aviator Amelia Earhart’s plane on remote island",
-      "link": "https://www.myjoyonline.com/expedition-hopes-to-find-aviator-amelia-earharts-plane-on-remote-island/",
+      "title": "GIS marks 10th TIME conference, champions improved teaching practices",
+      "link": "https://www.myjoyonline.com/gis-marks-10th-time-conference-champions-improved-teaching-practices/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T18:46:07.000Z",
-      "summary": "A team of researchers are on their way to a remote island to inspect what they think could be the wreckage of famed aviator Amelia Earhart's plane.",
+      "published": "2026-10-10T20:48:36.000Z",
+      "summary": "The Ghana International School (GIS) has marked the 10th anniversary of its TIME Educators’ Conference, an initiative aimed at strengthening teaching practices and improving learning…",
       "categories": [
-        "International",
-        "Amelia Earhart",
-        "Aviator",
-        "plane"
+        "National",
+        "GIS",
+        "Time Conference"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1084-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.18.22-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "US seeks changes to rejected $109m health compact with Ghana – Mahama",
-      "link": "https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/",
+      "title": "BRICS Or Balance? What Ghana’s bid really means",
+      "link": "https://www.myjoyonline.com/brics-or-balance-what-ghanas-bid-really-means/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T18:15:49.000Z",
-      "summary": "The United States is seeking to revise its proposed $109 million health compact with Ghana, including amending or removing clauses that led to its rejection by Cabinet, President John…",
+      "published": "2026-10-10T20:22:46.000Z",
+      "summary": "Ghana’s decision to apply to join BRICS is not a diplomatic footnote; it is a strategic signal.",
+      "categories": [
+        "Opinion",
+        "BRICS",
+        "Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1067.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPRTU wants full TRAFFITECH-GH implementation to start in 2027",
+      "link": "https://www.myjoyonline.com/gprtu-wants-full-traffitech-gh-implementation-to-start-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T20:03:50.000Z",
+      "summary": "The Ghana Private Road Transport Union has asked the police to postpone the full implementation of TRAFFITECH-GH to 2027, citing concerns over inadequate preparation and public education…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "GPRTU",
+        "Traffitech-GH"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1009.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama announces plans to import electric wheelchairs for PWDs",
+      "link": "https://www.myjoyonline.com/mahama-announces-plans-to-import-electric-wheelchairs-for-pwds/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T19:59:53.000Z",
+      "summary": "President John Dramani Mahama has announced plans by the government to import rechargeable electric wheelchairs for persons with disabilities (PWDs).",
       "categories": [
         "National",
         "News",
-        "Top Story",
-        "Ghana",
-        "health compact",
-        "President John Mahama",
-        "US"
+        "electric wheelchairs",
+        "Mahama",
+        "PWDs"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-18.09.10-1024x731.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Politics-President-PWDs1-1024x731.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority criticism of BRICS move disingenuous – Ablakwa",
+      "link": "https://www.graphic.com.gh/news/general-news/minority-criticism-of-brics-move-disingenuous-ablakwa.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T19:54:50.000Z",
+      "summary": "The Minister of Foreign Affairs, Mr Samuel Okudzeto Ablakwa, has described as disingenuous and dishonest the Minority's criticism of the government's decision to join BRICS, revealing that…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "KGL U17 Colts 2026: Western beat Prempeh Elite Academy to set up final final with Greater Accra Region",
+      "link": "https://www.myjoyonline.com/kgl-u17-colts-2026-western-beat-prempeh-elite-academy-to-set-up-final-final-with-greater-accra-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T19:41:19.000Z",
+      "summary": "The first semi-final ended in a pulsating 1-1 draw after 80 minutes of regulation time, forcing the contest to be decided from the penalty spot.",
+      "categories": [
+        "Football",
+        "KGL Foundation Inter-Regional U17 Colts Championship",
+        "Western Region"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Western-Region-1-1024x635.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Late Solanke strike salvages 10-man Spurs draw at Man United",
+      "link": "https://www.myjoyonline.com/late-solanke-strike-salvages-10-man-spurs-draw-at-man-united/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T19:31:20.000Z",
+      "summary": "It looked as if United were about to pile more misery on the visitors following their pitiful start to the Premier League season when Bryan Mbeumo broke the deadlock in the 73rd minute.",
+      "categories": [
+        "Football",
+        "Manchester United",
+        "Premier League",
+        "Tottenham"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Solanke.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gender Ministry to monitor welfare of Nana Akua Addo’s children amid domestic violence case",
+      "link": "https://www.myjoyonline.com/gender-ministry-to-monitor-welfare-of-nana-akua-addos-children-amid-domestic-violence-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T19:24:46.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection says it will deploy social welfare officers to monitor the welfare of the children of Ghanaian fashion personality Nana Akua Addo and…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Gender Ministry",
+        "Nana Akua Addo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/687768070_1323145096674346_122137487249074793_n-1024x739.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -84,82 +167,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/10/GHANA.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Nine dead in mass shooting at Pennsylvania home",
-      "link": "https://www.myjoyonline.com/nine-dead-in-mass-shooting-at-pennsylvania-home/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T17:58:23.000Z",
-      "summary": "A man has shot and killed eight people, including two children, at a home in the US state of Pennsylvania before appearing to take his own life.",
-      "categories": [
-        "International",
-        "Mass Shooting",
-        "Pennsylvania"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1083-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Time for Ukraine to get new president,’ says Trump after Zelensky condemns diesel deal",
-      "link": "https://www.myjoyonline.com/time-for-ukraine-to-get-new-president-says-trump-after-zelensky-condemns-diesel-deal/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T17:55:38.000Z",
-      "summary": "US President Donald Trump has said he thinks \"it's time for Ukraine to get a new president\" as he responded to Volodymyr Zelensky's criticism of the US diesel deal with Russia.",
-      "categories": [
-        "International",
-        "Diesel",
-        "Trump",
-        "Ukraine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1082-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-      "link": "https://www.myjoyonline.com/hincapie-injury-adds-to-arsenal-issues-after-guimaraes-rescue-act/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T17:46:57.000Z",
-      "summary": "For the second time in three Premier League matches, Bruno Guimaraes has come to Arsenal's rescue.",
-      "categories": [
-        "International",
-        "Sports",
-        "Arsenal",
-        "Bruno Guimaraes"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1081.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Henderson scores twice as Chelsea thumb Bournemouth",
-      "link": "https://www.myjoyonline.com/henderson-scores-twice-as-chelsea-thumb-bournemouth/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T17:37:29.000Z",
-      "summary": "Jordan Henderson scored his first Chelsea goals to help his new side to a dominant victory over Bournemouth.",
-      "categories": [
-        "International",
-        "Sports",
-        "Bournemouth",
-        "Chelsea",
-        "Jordan Henderson"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1080.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Photos: Mentapulse Africa convenes health and labour summit to address talent retention",
-      "link": "https://www.myjoyonline.com/photos-mentapulse-africa-convenes-health-and-labour-summit-to-address-talent-retention/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T17:25:20.000Z",
-      "summary": "Mentapulse Africa has convened policymakers, labour representatives, employers, researchers and professionals at the Ghana Health and Labour Summit 2026 at the University of Ghana, Legon…",
-      "categories": [
-        "Photo Story",
-        "Health and labour summit",
-        "Mentapulse",
-        "MentaPulse Africa",
-        "talent retention"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-16.53.41-3-1024x586.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Hearts desperate to end slump against fearless Port City",
@@ -267,18 +274,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/10/facilitators.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "St Luke Anglican Church supports Nsawam Prison",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-st-luke-anglican-church-supports-nsawam-prison.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T08:49:27.000Z",
-      "summary": "St Luke Anglican Church at Kwashieman in Accra commended prison officers for their work in caring for and rehabilitating inmates.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/10/Luke.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
