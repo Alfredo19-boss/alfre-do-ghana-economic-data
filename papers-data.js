@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-11T18:18:41.975Z",
+  "updated": "2026-10-11T22:07:59.766Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,121 +25,166 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana–Holy See agreement heads to Parliament after Cabinet approval",
-      "link": "https://www.myjoyonline.com/ghana-holy-see-agreement-heads-to-parliament-after-cabinet-approval/",
+      "title": "Be careful with cross-border lending, foreign currency exposures – BoG to financial institutions",
+      "link": "https://www.myjoyonline.com/be-careful-with-cross-border-lending-foreign-currency-exposures-bog-to-financial-institutions/",
       "source": "MyJoyOnline",
-      "published": "2026-10-11T18:12:02.000Z",
-      "summary": "Cabinet has approved a longstanding Host Country Agreement between Ghana and the Holy See, clearing the way for its submission to Parliament for ratification.",
+      "published": "2026-10-11T21:13:31.000Z",
+      "summary": "The BoG also urged RFIs not to introduce or implement such products, market entries, or delivery channels unless the required regulatory approvals have been obtained, where applicable.",
       "categories": [
-        "News"
+        "Banking and Finance",
+        "Business",
+        "HP Business 1",
+        "BoG",
+        "Collateral",
+        "Credit Appraisal",
+        "Credit Risk Management Directive",
+        "RFIs"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ghana-Holy-See-e1791733797801-750x375-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/download-42.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Luv FM Corporate Games 2026: Kumasi Central Prisons, Amanfiman Bank win big amid fun",
-      "link": "https://www.myjoyonline.com/luv-fm-corporate-games-2026-kumasi-central-prisons-amanfiman-bank-win-big-amid-fun/",
+      "title": "GPL 2026/27: Medeama go three clear as Hearts of Oak recover and Bechem stage stunning comeback",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-medeama-go-three-clear-as-hearts-of-oak-recover-and-bechem-stage-stunning-comeback/",
       "source": "MyJoyOnline",
-      "published": "2026-10-11T18:00:31.000Z",
-      "summary": "Corporate institutions in the Ashanti Region gathered for yet another thrilling and energetic day at the Luv FM Corporate Games 2026.",
-      "categories": [
-        "Events",
-        "In Focus",
-        "National",
-        "Regional",
-        "Amanfiman Bank",
-        "kumasi central prisons",
-        "Luv FM Corporate Games 2026"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1120-1024x580.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WAFU B U17: Ghana top Group A after win over Togo",
-      "link": "https://www.myjoyonline.com/wafu-b-u17-ghana-top-group-a-after-win-over-togo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T17:31:18.000Z",
-      "summary": "The Black Starlets have moved to the top of Group A at the 2026 WAFU Zone B U-17 Championship following their 1-0 victory over Togo on Saturday in Ouagadougou, Burkina Faso. David Kwarteng…",
+      "published": "2026-10-11T21:04:10.000Z",
+      "summary": "Medeama strengthened their position at the top of the Premier League with a commanding 3-1 victory over Heart of Lions, while Hearts of Oak returned to winning ways and Bechem United…",
       "categories": [
         "Football",
-        "HP Sports 2",
-        "National",
+        "HP Sports 1",
         "Sports",
-        "Burkina Faso",
-        "David Kwarteng",
-        "Ghana",
-        "WAFU B U17:"
+        "Hearts of Oak",
+        "Medeama SC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HUVOWabXUAAQjCa-1024x685.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Btraye-1024x819.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ho Central Mosque reopens amid unresolved leadership dispute that led to closure",
-      "link": "https://www.myjoyonline.com/ho-central-mosque-reopens-amid-unresolved-leadership-dispute-that-led-to-closure/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T16:17:18.000Z",
-      "summary": "The leadership dispute that led to violent clashes and a shooting at the Ho Central Mosque remains unresolved, despite the reopening of the facility after months of closure.",
+      "title": "Dr Abena Asomaning launches 3 books, auctions paintings to support incarcerated women",
+      "link": "https://www.graphic.com.gh/news/general-news/dr-abena-asomaning-launches-3-books-auctions-paintings-to-support-incarcerated-women.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-11T20:48:42.000Z",
+      "summary": "Author, advocate and artist Dr Abena Nyarkoa Asomaning has launched three books and auctioned a collection of her original paintings to support the work of the Angel-Zoe Foundation with…",
       "categories": [
-        "HP News 4",
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ntiamoah Foundation launches “BEYOND 20” anniversary campaign",
+      "link": "https://www.myjoyonline.com/ntiamoah-foundation-launches-beyond-20-anniversary-campaign/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T20:44:18.000Z",
+      "summary": "Ntiamoah Foundation has launched BEYOND 20: From Impact to Legacy, a year-long campaign marking two decades of improving lives through education, health, and community development, while…",
+      "categories": [
         "National",
-        "News",
+        "Dr. kojo Pumpuni Asante",
+        "Mercy Quansah-Ansah said",
+        "Ntiamoah Foundation",
+        "R.K.A Asante"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Picture1-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Credit Risk Management Directive: BoG to begin implementation for banks, others from July 1, 2027",
+      "link": "https://www.myjoyonline.com/credit-risk-management-directive-bog-to-begin-implementation-for-banks-others-from-july-1-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T20:27:07.000Z",
+      "summary": "The Bank of Ghana said the Board of RFIs shall bear the ultimate responsibility for the credit risk assumed by the RFI and for ensuring the existence and ongoing effectiveness of the credit…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 4",
+        "board",
+        "BoG",
+        "Credit Risk",
+        "RFIs",
+        "SDI Act 2016"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/asiama-fin.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Brands Awards 2026: Leading brands, business trailblazers to shine on November 20",
+      "link": "https://www.myjoyonline.com/ghana-brands-awards-2026-leading-brands-business-trailblazers-to-shine-on-november-20/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T20:11:03.000Z",
+      "summary": "Ghana’s leading brands, outstanding businesses, visionary entrepreneurs and industry trailblazers will take centre stage on November 20, 2026, as the Ghana Brands Awards (GBA) prepares to…",
+      "categories": [
+        "Business",
+        "CIPAC",
+        "GEBA",
+        "GIPC",
+        "Ministry of Trade"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-05-at-9.45.13-AM-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "T-bills auction: Demand improves as government exceeds target by about 76%; interest rates soften",
+      "link": "https://www.myjoyonline.com/t-bills-auction-demand-improves-as-government-exceeds-target-by-about-76-interest-rates-soften/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T20:05:09.000Z",
+      "summary": "The Treasury, however, accepted GH¢4.40 billion of the total bids as against a target of GH¢2.86 billion.",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "182-day",
+        "364-day",
+        "91-day",
+        "BoG",
+        "Interest rates",
+        "Ministry of Finance",
+        "T-Bills"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ziope undertakes initiative to build a technologically inclined community, commissions self-help ICT lab",
+      "link": "https://www.myjoyonline.com/ziope-undertakes-initiative-to-build-a-technologically-inclined-community-commissions-self-help-ict-lab/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T19:40:35.000Z",
+      "summary": "The Chiefs and people of Ziope in the Agotime Ziope District of the Volta Region have undertaken an initiative aimed at building a technologically inclined community. The initiative saw the…",
+      "categories": [
+        "National",
         "Regional",
-        "Ho",
-        "Ho Zongo",
-        "Muslims",
-        "Reseg"
+        "Agotime Ziope District",
+        "Ziope"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-05-31-at-06.55.45_164f67d2-1024x576.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ziope-undertakes-initiative-to-build-a-technologically-inclined-community-commissions-self-help-ICT-lab-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Minority caucus questions GH¢16.4m in Ablakwa’s SA evacuation spending, demands independent audit",
-      "link": "https://www.myjoyonline.com/minority-caucus-questions-gh%c2%a216-4m-in-ablakwas-sa-evacuation-spending-demands-independent-audit/",
+      "title": "ECG announces power outage in parts of Tema, Central Region due to network fault, maintenance",
+      "link": "https://www.myjoyonline.com/ecg-announces-power-outage-in-parts-of-tema-central-region-due-to-network-fault-maintenance/",
       "source": "MyJoyOnline",
-      "published": "2026-10-11T16:08:13.000Z",
-      "summary": "The Minority caucus has called for an independent audit of the government’s GH¢49.72 million evacuation exercise, alleging that records supplied by the Foreign Affairs Ministry leave more…",
+      "published": "2026-10-11T19:13:33.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) has announced a power outage affecting parts of the Tema Region due to a fault in its network, while several communities in the Central Region will…",
       "categories": [
-        "HP News 9",
-        "News",
-        "Politics",
-        "Minority Caucus",
-        "Nana Asafo-Adjei Ayeh",
-        "South Africa evacuation spending"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1110.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry meets Nana Akua Addo’s husband over domestic violence after hospital discharge",
-      "link": "https://www.myjoyonline.com/gender-ministry-meets-nana-akua-addos-husband-over-domestic-violence-after-hospital-discharge/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T15:13:19.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection has engaged Norman Harold, husband of Nana Akua Addo, following his discharge from hospital, as it steps up efforts to safeguard the…",
-      "categories": [
-        "HP News 8",
+        "HP News 2",
         "National",
-        "Gender Ministry",
-        "Nana Akua Addo's husband",
-        "Norman Harold"
+        "ECG",
+        "Maintenance",
+        "Power"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1102-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ECG.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UG Vice-Chancellor urges swift operationalisation of National Research Fund",
-      "link": "https://www.myjoyonline.com/ug-vice-chancellor-urges-swift-operationalisation-of-national-research-fund/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T14:55:23.000Z",
-      "summary": "University of Ghana Vice-Chancellor, Prof. Nana Aba Appiah Amfo, has called for accelerated efforts to operationalise Ghana’s National Research Fund, more than six years after the…",
+      "title": "Eight arrested for beating 21-year-old during sakawa initiation in Bono",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-eight-over-alleged-beating-of-21-year-old-during-internet-fraud-initiation-in-bono.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-11T18:53:23.000Z",
+      "summary": "The Bono Regional Police Command has arrested eight suspects over the alleged assault of a twenty-one-year-old man during what investigators describe as his initiation into internet fraud…",
       "categories": [
-        "HP News 3",
-        "National",
-        "Delay",
-        "National Research Fund",
-        "Prof. Nana Aba Appiah Amfo"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1105-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/11/naijacriminals.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "NPP to aspirants: Stop campaigning now or risk disqualification",
@@ -152,24 +197,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2023/aug/28/justin.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Pope Leo to have surgery after lump found in lung",
-      "link": "https://www.myjoyonline.com/pope-leo-to-have-surgery-after-lump-found-in-lung/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T14:48:41.000Z",
-      "summary": "Pope Leo XIV has announced he will be operated on \"in the coming days\" after a nodule was found on his lung during a medical check-up.",
-      "categories": [
-        "HP News 5",
-        "International",
-        "News",
-        "lump",
-        "lung",
-        "Pope Leo XIV",
-        "Surgery"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-972-1024x684.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Assemblies of God World Congress delegation calls on Foreign Affairs Minister",
@@ -232,18 +259,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "President Mahama inspects new CHPS Compounds in Ahafo Region",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-inspects-new-chps-compounds-in-ahafo-region.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-11T09:39:35.000Z",
-      "summary": "President John Dramani Mahama has inspected two newly built Community-Based Health Planning and Services compounds to kick off his #ResettingGhana tour of the Ahafo Region.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/PHOTO-2026-10-09-13-24-03.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Black Stars coach search extended to October 15",
       "link": "https://www.graphic.com.gh/sports/sports-news/black-stars-coach-search-extended-to-october-15.html",
       "source": "Graphic Sports",
@@ -254,18 +269,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/07/6tee.jpeg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "SSNIT to provide space, jobs for displaced La beach traders before Christmas",
-      "link": "https://www.graphic.com.gh/news/general-news/ssnit-to-provide-market-space-jobs-for-displaced-la-beach-traders-before-christmas.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T22:51:42.000Z",
-      "summary": "The Director-General of the Social Security and National Insurance Trust (SSNIT), Kwasi Afreh Biney has said his outfit was going to document traders displaced by the demolition of…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Feb/20/Biney.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana's Golden Shuttlers make top three at World Juniors Team Cheers",
