@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-11T00:52:36.634Z",
+  "updated": "2026-10-11T06:35:04.659Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,125 +25,129 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Power restoration fault suspected in Kumasi Central Market fire",
-      "link": "https://www.myjoyonline.com/power-restoration-fault-suspected-in-kumasi-central-market-fire/",
+      "title": "Tarkwa court jails labourer for three years over GH¢123,000 theft",
+      "link": "https://www.myjoyonline.com/tarkwa-court-jails-labourer-for-three-years-over-gh%c2%a2123000-theft/",
       "source": "MyJoyOnline",
-      "published": "2026-10-11T00:16:30.000Z",
-      "summary": "The Ghana National Fire Service is investigating a suspected power-restoration fault as a possible trigger for a fire that swept through part of the Kumasi Central Market near the Aboabo…",
+      "published": "2026-10-11T06:29:24.000Z",
+      "summary": "The Tarkwa Circuit Court has sentenced Nuredeen Issaka, a 26-year-old labourer, to three years imprisonment in hard labour for stealing money belonging to his employer at Essamang Kakraba…",
       "categories": [
-        "Regional",
-        "Kumasi central market fire",
-        "Power Restoration"
+        "Crime",
+        "National",
+        "Jailed",
+        "labourer",
+        "Stealing"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-07.43.49-750x375-2.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/a-wooden-judge-gavel-rests-on-a-matching-sound-block-isolated-on-a-white-background-suitable-for-legal-justice-court-or-law-related-content-and-educational-materials-photo.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The 7-foot giant of Ngleshie Amanfro: Seven-foot Ghanaian Ephraim Saawa dreams of joining the national basketball team",
-      "link": "https://www.myjoyonline.com/the-7-foot-giant-of-ngleshie-amanfro-seven-foot-ghanaian-ephraim-saawa-dreams-of-joining-the-national-basketball-team/",
+      "title": "GAEC must retain nuclear scientists for Ghana’s nuclear ambitions – Minister",
+      "link": "https://www.myjoyonline.com/gaec-must-retain-nuclear-scientists-for-ghanas-nuclear-ambitions-minister/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T23:38:13.000Z",
-      "summary": "In Ngleshie Amanfro, a bustling community in the Ga South Municipality, you don't need to know his name to know him. You just look up.",
+      "published": "2026-10-11T05:57:32.000Z",
+      "summary": "Dr Zanetor Agyeman-Rawlings, Minister of Environment, Science and Technology, has called for urgent measures to curb staff attrition at the Ghana Atomic Energy Commission (GAEC) and retain…",
       "categories": [
-        "Photo Story",
-        "Sports",
-        "Bask ball",
-        "Ngleshie Amafro",
-        "Victor Wembanyama"
+        "HP News 4",
+        "National",
+        "Scientists",
+        "Zanetor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9814_2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-26-at-10.12.39-1024x701.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government promises support for Kumasi Central Market fire victims",
-      "link": "https://www.myjoyonline.com/government-promises-support-for-kumasi-central-market-fire-victims/",
+      "title": "Man reportedly mistaken for game and shot by hunter dead in forest",
+      "link": "https://www.myjoyonline.com/man-reportedly-mistaken-for-game-and-shot-by-hunter-dead-in-forest/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T23:31:47.000Z",
-      "summary": "The government has assured traders affected by a fire at Kumasi Central Market of possible state support, with the National Disaster Management Organisation (NADMO) expected to assess the…",
+      "published": "2026-10-11T05:55:22.000Z",
+      "summary": "A man identified as Mr Zebio from Nyagbo Konda in the Afadzato South District has reportedly been shot dead in the Nyagbo Kume Forest.",
       "categories": [
-        "Regional",
-        "Firefighters",
-        "Kumasi central market fire",
-        "Mahama Ayariga"
+        "Crime",
+        "National",
+        "Hunter",
+        "man",
+        "Nyagbo Kume Forest",
+        "Police"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-20.56.34-1024x473.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-5.47.48-AM-1024x587.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Vibes The Movie: Big Ghun’s Ghanaian film earns five nominations at 2026 REFFA",
-      "link": "https://www.myjoyonline.com/vibes-the-movie-big-ghuns-ghanaian-film-earns-five-nominations-at-2026-reffa/",
+      "title": "19-year-old mason jailed 15 years for defiling seven-year-old pupil",
+      "link": "https://www.myjoyonline.com/19-year-old-mason-jailed-15-years-for-defiling-seven-year-old-pupil/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T23:01:15.000Z",
-      "summary": "Ghanaian filmmaker Nicholas “Big Ghun” Nartey’s Vibes The Movie has secured five nominations at the 2026 Regal Film Festival and Awards (REFFA), adding to the film’s growing list of…",
+      "published": "2026-10-11T05:50:48.000Z",
+      "summary": "Alfred Mensah, a 19-year-old mason, who defiled a seven-year-old kindergarten pupil has been sentenced to 15 years imprisonment in hard, by the Tarkwa Circuit Court.",
       "categories": [
-        "Arts and Culture",
-        "Movies",
-        "Big Ghun",
-        "REFFA",
-        "Vibes the Movie"
+        "Crime",
+        "HP News 8",
+        "National",
+        "Kindergarten",
+        "mason"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_8741-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/court.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MamaCare CEO warns unresolved conflicts among health workers could undermine maternal and neonatal care",
-      "link": "https://www.myjoyonline.com/mamacare-ceo-warns-unresolved-conflicts-among-health-workers-could-undermine-maternal-and-neonatal-care/",
+      "title": "Ghana’s banking sector assets rise 20.47% to GH¢500.2bn – BoG Governor",
+      "link": "https://www.myjoyonline.com/ghanas-banking-sector-assets-rise-20-47-to-gh%c2%a2500-2bn-bog-governor/",
       "source": "MyJoyOnline",
-      "published": "2026-10-10T22:37:03.000Z",
-      "summary": "Maternal and Child Health Expert and Chief Executive Officer of MamaCare by Racheal, Mrs Racheal Hesse Matey, has warned that unresolved conflicts among obstetric care providers can…",
-      "categories": [
-        "Health",
-        "conflict",
-        "Health workers",
-        "Mamacare CEO",
-        "maternal and neonatal care"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.28.43-683x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Health professionals urged to translate medical knowledge into practice to save mothers",
-      "link": "https://www.myjoyonline.com/health-professionals-urged-to-translate-medical-knowledge-into-practice-to-save-mothers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T22:30:39.000Z",
-      "summary": "Obstetrician-gynaecologist Dr Elikem Oklu has raised concerns about the continued loss of mothers and newborns to preventable causes, saying gaps between medical knowledge and clinical…",
-      "categories": [
-        "Health",
-        "Health conference",
-        "healthcare system",
-        "Obstetrician"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.28.07-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Conflicts among care providers linked to maternal, neonatal deaths – Expert",
-      "link": "https://www.myjoyonline.com/conflicts-among-care-providers-linked-to-maternal-neonatal-deaths-expert/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T20:55:57.000Z",
-      "summary": "Maternal and child health expert and Chief Executive Officer of MamaCare by Racheal, Mrs Racheal Hesse Matey, has warned that unresolved conflicts among obstetric care providers are…",
-      "categories": [
-        "Health",
-        "News",
-        "Conflicts",
-        "Maternal",
-        "Neonatal deaths"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.19.25-1-683x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIS marks 10th TIME conference, champions improved teaching practices",
-      "link": "https://www.myjoyonline.com/gis-marks-10th-time-conference-champions-improved-teaching-practices/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T20:48:36.000Z",
-      "summary": "The Ghana International School (GIS) has marked the 10th anniversary of its TIME Educators’ Conference, an initiative aimed at strengthening teaching practices and improving learning…",
+      "published": "2026-10-11T05:46:37.000Z",
+      "summary": "Total assets of Ghana’s banking sector increased by 20.47 per cent to GH¢500.20 billion at the end of August 2026.",
       "categories": [
         "National",
-        "GIS",
-        "Time Conference"
+        "Assets",
+        "Banking",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.18.22-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-5.34.09-AM-1024x611.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "22 injured as Sprinter bus overturns at Sege after tyre burst",
+      "link": "https://www.myjoyonline.com/22-injured-as-sprinter-bus-overturns-at-sege-after-tyre-burst/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T05:45:17.000Z",
+      "summary": "About 22 people were injured in a road accident at Sege after a Sprinter bus suffered a tyre burst and overturned on Friday, October 09, 2026.",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Accident",
+        "Sege"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/accident.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UN housing expert urges Ghana to strengthen Rent Control Department amid housing affordability concerns",
+      "link": "https://www.myjoyonline.com/un-housing-expert-urges-ghana-to-strengthen-rent-control-department-amid-housing-affordability-concerns/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T05:36:47.000Z",
+      "summary": "The United Nations (UN) Special Rapporteur on the right to adequate housing has advised Ghana to support its Rent Control Department with the requisite logistics to boost operations.",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Ghana",
+        "rent control department",
+        "UN"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-5.28.15-AM-1024x613.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Delta-BCI partnership reaches 166,000 people with breast cancer education",
+      "link": "https://www.myjoyonline.com/delta-bci-partnership-reaches-166000-people-with-breast-cancer-education/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T05:27:24.000Z",
+      "summary": "A decade-long partnership between Delta Air Lines and Breast Care International (BCI) has reached more than 166,000 people with breast cancer education in Ghana, with over 22,500 people…",
+      "categories": [
+        "Africa",
+        "News",
+        "Breast cancer",
+        "Breast Care International",
+        "Delta Air Lines"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/BCI.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {

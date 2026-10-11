@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-11T00:52:18.942Z",
-  "worldAt": "2026-10-11T00:52:18.940Z",
+  "updated": "2026-10-11T06:34:49.414Z",
+  "worldAt": "2026-10-11T06:34:49.412Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -28,24 +28,52 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
-    "World · UN News: 30 stories",
-    "World · BBC News: 32 stories",
+    "World · UN News: failed (The operation was aborted due to timeout)",
+    "World · BBC News: 33 stories",
     "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: 32 stories",
+    "Africa · AllAfrica: 30 stories",
     "Africa · AllAfrica Business: 30 stories",
     "Africa · Africanews: 27 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 7 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 40 African stories held"
+    "world lists: 40 world, 26 African stories held"
   ],
   "items": [
+    {
+      "title": "Sustainable Development Goals Fall Behind as 2030 Deadline Nears, OPEC Report Says",
+      "link": "https://thehighstreetjournal.com/sustainable-development-goals-fall-behind/",
+      "source": "The High Street Journal",
+      "published": "2026-10-11T05:05:00.000Z",
+      "summary": "Only 36% of assessed targets are on track or making moderate progress, while a $4 trillion annual financing gap and declining development aid threaten efforts to meet global commitments"
+    },
+    {
+      "title": "Ghana’s Banking Revolution at Risk: When Financial Fraud Threatens Public Trust",
+      "link": "https://thehighstreetjournal.com/ghanas-banking-revolution-at-risk-when-financial-fraud-threatens-public-trust/",
+      "source": "The High Street Journal",
+      "published": "2026-10-11T05:03:00.000Z",
+      "summary": "Ghana’s expanding digital finance sector faces rising fraud risks, making stronger cybersecurity, customer education and institutional accountability essential to protecting savings and…"
+    },
+    {
+      "title": "Ghana-India Partnerships Offer Route to Local Manufacturing and Job Creation",
+      "link": "https://thehighstreetjournal.com/ghana-india-partnerships-offer-route-to-local-manufacturing-and-job-creation/",
+      "source": "The High Street Journal",
+      "published": "2026-10-11T05:02:00.000Z",
+      "summary": "Ghana-India business partnerships could help local firms acquire manufacturing technology, develop skills and expand domestic production, reducing import dependence while creating jobs and…"
+    },
+    {
+      "title": "Your Employer Cannot Deduct Your Salary at Will: What Ghana’s Labor Law Says",
+      "link": "https://thehighstreetjournal.com/your-employer-cannot-deduct-your-salary-at-will-what-ghanas-labor-law-says/",
+      "source": "The High Street Journal",
+      "published": "2026-10-11T05:01:00.000Z",
+      "summary": "Ghana’s Labor Act restricts salary deductions, requiring employers to follow lawful procedures, justify recoveries and protect workers from unfair financial penalties and undue hardship."
+    },
     {
       "title": "From Dialogue to Delivery: Amref calls for African-led health financing and resilient systems",
       "link": "https://thehighstreetjournal.com/from-dialogue-to-delivery-amref-calls-for-african-led-health-financing-and-resilient-systems/",
@@ -1067,58 +1095,99 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-07T12:06:09.000Z",
       "summary": "Businesses advertising on Joy FM’s Super Morning Show will receive an additional live presenter mention at no extra cost on Friday, October 9, as part of Multimedia Group’s Customer Service…"
-    },
-    {
-      "title": "Why Complaints Over Higher Prices of Goods Despite “Lower” Inflation Is Economically Justified",
-      "link": "https://thehighstreetjournal.com/why-complaints-over-higher-prices-of-goods-despite-lower-inflation-is-economically-justified/",
-      "source": "The High Street Journal",
-      "published": "2026-10-07T12:00:00.000Z",
-      "summary": "Falling inflation does not mean falling prices. Ghanaian consumers still face elevated costs because prices accumulated during years of high inflation. True relief requires stable low…"
-    },
-    {
-      "title": "FAO calls for stronger REDD+ systems to unlock climate finance",
-      "link": "https://www.myjoyonline.com/fao-calls-for-stronger-redd-systems-to-unlock-climate-finance/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T11:50:21.000Z",
-      "summary": "The Food and Agriculture Organization (FAO) of the United Nations (UN) is calling for stronger policy, institutional and technical systems across Africa to help countries access climate…"
-    },
-    {
-      "title": "FAO urges innovation, technology to strengthen Ghana’s food security",
-      "link": "https://www.myjoyonline.com/fao-urges-innovation-technology-to-strengthen-ghanas-food-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T11:42:40.000Z",
-      "summary": "The Food and Agriculture Organization (FAO) of the United Nations (UN) is calling for greater use of innovation, research and technology to strengthen Ghana’s food security and reduce the…"
-    },
-    {
-      "title": "Inflation rises to 5.2% in September 2026 as prices in Services sector still high",
-      "link": "https://www.myjoyonline.com/inflation-rises-to-5-2-in-september-2026-as-prices-in-services-sector-still-high/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T11:16:49.000Z",
-      "summary": "Ghana’s inflation rate increased marginally to 5.2% in September 2026, from 5.0% in August, reversing the downward trend recorded in previous months. The latest figures from the Ghana…"
     }
   ],
   "world": [
     {
-      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-      "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T00:23:50.000Z",
-      "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola."
+      "title": "Riyadh airport strike kills 12, Saudi Arabia threatens 'decisive' response",
+      "link": "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response",
+      "source": "France 24",
+      "published": "2026-10-11T06:21:50.000Z",
+      "summary": "Saudi Arabia vowed to retaliate against Yemen’s Houthi rebels on Sunday after a strike on Riyadh’s international airport killed a dozen people and wounded more than 300, marking the…",
+      "image": "https://s.france24.com/media/display/f5c423ba-b42e-11f1-9171-6f779f079bc8/w:1024/p:16x9/2026-09-19T114800Z-1100229945-RC28MNAOL58F-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg"
     },
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T06:02:25.000Z",
+      "summary": "The leaders, including CJP founder Abhijeet Dipke, had been detained when they arrived in Delhi on Saturday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a96/live/07c16320-c53c-11f1-ae34-756aa0b18b99.jpg"
+    },
+    {
+      "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+      "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T05:57:00.000Z",
+      "summary": "Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games."
+    },
+    {
+      "title": "India court orders release of 'cockroach' movement leaders after detention",
+      "link": "https://www.france24.com/en/asia-pacific/20261011-india-court-orders-release-of-cockroach-movement-leaders-after-detention",
+      "source": "France 24",
+      "published": "2026-10-11T05:45:41.000Z",
+      "summary": "An Indian court ordered the release of three leaders of the viral \"cockroach\" movement on Sunday, a day after their detention ahead of protests over alleged irregularities in voter-roll…",
+      "image": "https://s.france24.com/media/display/d80c366e-c536-11f1-8938-29a2e29ae696/w:1024/p:16x9/000-D22W7VJ.jpg"
+    },
+    {
+      "title": "How genocidal war on Gaza is shaping Israel’s election",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T05:35:09.000Z",
+      "summary": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7."
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T05:05:43.000Z",
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dbb/live/9bb34c30-c53a-11f1-ae34-756aa0b18b99.jpg"
+    },
+    {
+      "title": "Middle East live: Riyadh airport attack 'not acceptable,' Trump says",
+      "link": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "source": "France 24",
+      "published": "2026-10-11T05:04:26.000Z",
+      "summary": "US President Donald Trump said Saturday that a deadly strike on Riyadh's international airport was \"not acceptable\". Meanwhile, Saudi Arabia vowed to retaliate against Yemen's Houthi rebels…",
+      "image": "https://s.france24.com/media/display/41bca902-c52f-11f1-837f-3774aeac812a/w:1024/p:16x9/000-99GP6G6.jpg"
+    },
+    {
+      "title": "US opens antitrust probe into TV networks for halting Trump coverage",
+      "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T04:30:10.000Z",
+      "summary": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws."
+    },
+    {
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-11T00:21:52.000Z",
-      "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "published": "2026-10-11T03:57:22.000Z",
+      "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-11T00:00:13.000Z",
-      "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran."
+      "published": "2026-10-11T04:28:51.000Z",
+      "summary": "Hurricane Isaias has killed four people and left more than 650,000 people without power."
+    },
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T01:41:29.000Z",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg"
+    },
+    {
+      "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T04:10:08.000Z",
+      "summary": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis."
     },
     {
       "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
@@ -1129,6 +1198,13 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x1523+0+0/resize/989x1523!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F67%2F6adafce549cc8bcbb7372304010a%2Fap26282625542805.jpg"
     },
     {
+      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "link": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T03:41:58.000Z",
+      "summary": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade."
+    },
+    {
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1137,11 +1213,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce5/live/85c0dd40-c308-11f1-8f04-85217d686658.jpg"
     },
     {
-      "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+      "link": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T22:43:08.000Z",
-      "summary": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times."
+      "published": "2026-10-11T03:13:53.000Z",
+      "summary": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says."
     },
     {
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
@@ -1152,11 +1228,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg"
     },
     {
-      "title": "WHO says no plague case registered after Russian lab worker’s death",
-      "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+      "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T22:34:29.000Z",
-      "summary": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission."
+      "published": "2026-10-11T02:12:07.000Z",
+      "summary": "Trump denounces 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis."
     },
     {
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
@@ -1167,11 +1243,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg"
     },
     {
-      "title": "Yemeni government’s military says its forces advancing against Houthis",
-      "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T22:12:25.000Z",
-      "summary": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours."
+      "published": "2026-10-11T01:59:02.000Z",
+      "summary": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis."
     },
     {
       "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
@@ -1181,11 +1257,11 @@ window.GDC_NEWS = {
       "summary": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK."
     },
     {
-      "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+      "title": "Man dies after entering tiger enclosure at England wildlife park",
+      "link": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T21:40:20.000Z",
-      "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory."
+      "published": "2026-10-11T01:16:18.000Z",
+      "summary": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park."
     },
     {
       "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
@@ -1196,11 +1272,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x1523+0+0/resize/989x1523!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fc5%2F97fb91ff49f1a3ed412d58b43f28%2Fap26282625542805.jpg"
     },
     {
-      "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-      "link": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+      "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T21:12:04.000Z",
-      "summary": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed."
+      "published": "2026-10-11T01:11:10.000Z",
+      "summary": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire'."
     },
     {
       "title": "Protests against voter roll revisions rock capital of world's largest democracy",
@@ -1210,11 +1286,11 @@ window.GDC_NEWS = {
       "summary": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown."
     },
     {
-      "title": "Malawi motorists queue for days as fuel shortage bites",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T21:10:38.000Z",
-      "summary": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt."
+      "published": "2026-10-11T01:02:07.000Z",
+      "summary": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh."
     },
     {
       "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
@@ -1225,26 +1301,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/569e8e50-c49c-11f1-869c-8f95c437952a.jpg"
     },
     {
-      "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
+      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T21:10:06.000Z",
-      "summary": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast."
-    },
-    {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-10T19:28:28.000Z",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-      "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T21:02:49.000Z",
-      "summary": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces."
+      "published": "2026-10-11T00:23:50.000Z",
+      "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola."
     },
     {
       "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
@@ -1255,11 +1316,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9f8/live/c42726c0-c4de-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "Damage seen inside Saudi airport after third attack this week",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+      "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T20:43:19.000Z",
-      "summary": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week."
+      "published": "2026-10-11T00:00:13.000Z",
+      "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran."
     },
     {
       "title": "Money, networks and bias: Why women struggle to win seats in US politics",
@@ -1269,11 +1330,11 @@ window.GDC_NEWS = {
       "summary": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3."
     },
     {
-      "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+      "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T20:37:17.000Z",
-      "summary": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash."
+      "published": "2026-10-10T22:43:08.000Z",
+      "summary": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times."
     },
     {
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
@@ -1284,11 +1345,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png"
     },
     {
-      "title": "Rubio pledges US cooperation in Marine-linked murder case",
-      "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
+      "title": "WHO says no plague case registered after Russian lab worker’s death",
+      "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T20:30:36.000Z",
-      "summary": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman."
+      "published": "2026-10-10T22:34:29.000Z",
+      "summary": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission."
     },
     {
       "title": "SPOTLIGHT",
@@ -1299,11 +1360,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/52ff5d46-c4d4-11f1-a7b0-e362370cce2e/w:1024/p:16x9/Houthi-000-D2RW9CQ.jpg"
     },
     {
-      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T20:14:01.000Z",
-      "summary": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City."
+      "published": "2026-10-10T22:12:25.000Z",
+      "summary": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours."
     },
     {
       "title": "At least twelve killed, multiple people wounded in attack on Riyadh airport",
@@ -1314,11 +1375,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a3556cb4-c4d3-11f1-90a7-53993c5f1f18/w:1024/p:16x9/AP314998123886.jpg"
     },
     {
-      "title": "Why is the Trump administration trying to dismantle the ICC?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+      "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T19:59:18.000Z",
-      "summary": "The US has imposed sweeping new sanctions on the International Criminal Court."
+      "published": "2026-10-10T21:40:20.000Z",
+      "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory."
     },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -1329,70 +1390,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
+      "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-10T19:59:08.000Z",
-      "summary": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States."
-    },
-    {
-      "title": "Convicted murderer Christa Pike leaves hospital, returns to prison after botched execution",
-      "link": "https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution",
-      "source": "France 24",
-      "published": "2026-10-10T17:41:10.000Z",
-      "summary": "Christa Pike's lawyers on Saturday said that the 50-year-old convicted murderer has been discharged from the hospital and returned to prison. Pike was transported to the hospital in…",
-      "image": "https://s.france24.com/media/display/8fc50584-c4cd-11f1-bae9-e362370cce2e/w:1024/p:16x9/2026-10-06T220818Z-71220444-RC2PTNAKF4UE-RTRMADP-3-TENNESSEE-EXECUTION.jpg"
-    },
-    {
-      "title": "Azerbaijan school pupils protest over reported hijab restrictions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T19:49:33.000Z",
-      "summary": "Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools."
-    },
-    {
-      "title": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
-      "link": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
-      "source": "France 24",
-      "published": "2026-10-10T17:39:46.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Manchester United held by ten-man Tottenham as woes for both continue",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T19:47:10.000Z",
-      "summary": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League."
-    },
-    {
-      "title": "India protests: New 'cockroach' movement leader named",
-      "link": "https://www.france24.com/en/video/20261010-india-protests-new-cockroach-movement-leader-named",
-      "source": "France 24",
-      "published": "2026-10-10T16:14:56.000Z",
-      "summary": "Indian police detained the head of the satirical \"cockroach\" online movement on Saturday, the group said, ahead of a major protest against the Election Commission that prompted strict…",
-      "image": "https://s.france24.com/media/display/575ecf62-c4c4-11f1-aa77-53993c5f1f18/w:1024/p:16x9/EN-20261010-170321-170702-CS.jpg"
-    },
-    {
-      "title": "Trump says Ukraine needs a new president who will agree to end the war",
-      "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T19:32:37.000Z",
-      "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia."
-    },
-    {
-      "title": "South Africa: Anti-migrant unrest flares in Durban",
-      "link": "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
-      "source": "France 24",
-      "published": "2026-10-10T16:12:21.000Z",
-      "summary": "Police in Durban were battling a fresh wave of anti-migrant unrest. Shops were looted, homes were torched and foreign nationals were targeted as crowds took to the streets for a second day…",
-      "image": "https://s.france24.com/media/display/fde5b428-c49b-11f1-b668-29a2e29ae696/w:1024/p:16x9/EN-20261009-224917-225049-CS.jpg"
-    },
-    {
-      "title": "Barcelona beat Getafe as Gordon scores his first goal",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T19:26:22.000Z",
-      "summary": "Barcelona make it six wins from six with a 3-0 win against Getafe as Anthony Gordon scores his first goal for club."
+      "published": "2026-10-10T21:12:04.000Z",
+      "summary": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed."
     }
   ],
   "africa": [
@@ -1580,106 +1582,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-09T20:29:30.000Z",
       "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace."
-    },
-    {
-      "title": "Zuma’s hospitalisation raises questions over MK party election campaign",
-      "link": "http://www.africanews.com/2026/10/09/zumas-hospitalisation-raises-questions-over-mk-party-election-campaign/",
-      "source": "Africanews",
-      "published": "2026-10-09T17:47:56.000Z",
-      "summary": "Jacob Zuma’s hospitalisation has raised questions about his participation in upcoming uMkhonto weSizwe (MK) Party campaign events ahead of South Africa’s local government elections."
-    },
-    {
-      "title": "South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law'",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-09T17:37:10.000Z",
-      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg"
-    },
-    {
-      "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-      "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T17:19:43.000Z",
-      "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children."
-    },
-    {
-      "title": "Foreign veterinary team examines ailing African elephant in Pakistan",
-      "link": "http://www.africanews.com/2026/10/09/foreign-veterinary-team-examines-ailing-african-elephant-in-pakistan/",
-      "source": "Africanews",
-      "published": "2026-10-09T16:33:07.000Z",
-      "summary": "They say Madhubalu, who lives in a Safari Park in Karachi, has improved somewhat but time will tell if all will be well."
-    },
-    {
-      "title": "Nigeria: Customs Uncovers ₦3.67bn Drug Haul in Imported Cars, Spare Parts",
-      "link": "https://allafrica.com/stories/202610090602.html",
-      "source": "AllAfrica",
-      "published": "2026-10-09T16:21:16.000Z",
-      "summary": "[Vanguard] The importation of illicit drugs concealed in used vehicles and automobile spare parts has come under scrutiny following the interception of two 40-foot containers containing…"
-    },
-    {
-      "title": "Ethiopia: Ethiopia to Observe Seventh National Cybersecurity Month",
-      "link": "https://allafrica.com/stories/202610090601.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-09T16:20:06.000Z",
-      "summary": "[ENA] Addis Ababa -- Ethiopia is set to observe its seventh National Cybersecurity Month from October 11 to November 9, 2026."
-    },
-    {
-      "title": "Liberia: Charged in U.S.$30,500 Land Deal, Eric Wowoh Denies Fraud and Challenges Police Allegations",
-      "link": "https://allafrica.com/stories/202610090600.html",
-      "source": "AllAfrica",
-      "published": "2026-10-09T16:19:35.000Z",
-      "summary": "[Liberian Investigator] MONROVIA -- Eric W. Wowoh, the Liberian businessman charged in connection with a disputed US$30,500 property transaction involving a Liberian-American couple, has…"
-    },
-    {
-      "title": "Nigeria: FG Targets Five Million Nigerians for Poverty Exit",
-      "link": "https://allafrica.com/stories/202610090597.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-09T16:16:55.000Z",
-      "summary": "[Vanguard] ...trains 700 Oyo youths in AI, vocational skills"
-    },
-    {
-      "title": "Nigeria: Police Chief Speaks On Alleged Ransom Payment for Freed 20 NYSC Members",
-      "link": "https://allafrica.com/stories/202610090599.html",
-      "source": "AllAfrica",
-      "published": "2026-10-09T16:18:44.000Z",
-      "summary": "[Premium Times] The police reaction followed widespread claims of ransom payments by some parents of the 20 prospective NYSC members who were released on Wednesday, exactly one week after…"
-    },
-    {
-      "title": "Uganda: IGG Investigates Kabale District Over Alleged Ghost Workers",
-      "link": "https://allafrica.com/stories/202610090593.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-09T16:10:31.000Z",
-      "summary": "[Nile Post] The Inspectorate of Government (IGG) is investigating the Human Resource Office of Kabale District over allegations of ghost workers on the government payroll."
-    },
-    {
-      "title": "Nigeria: American Lobbying Firms Disagree Over $57m U.S. Lawsuit Against Tinubu",
-      "link": "https://allafrica.com/stories/202610090598.html",
-      "source": "AllAfrica",
-      "published": "2026-10-09T16:18:22.000Z",
-      "summary": "[Premium Times] DCI Group has rejected allegations in a $57 million US lawsuit against President Bola Tinubu and others, while Femi Fani-Kayode's office says he has not been formally served."
-    },
-    {
-      "title": "Afcon move to every four years under review by Caf",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv0ldzz7yy3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-09T15:57:49.000Z",
-      "summary": "The Africa Cup of Nations may continue to be held every two years, with discussions under way to reverse its proposed switch to a four-year cycle.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7af/live/adcb29a0-c3f6-11f1-97a9-2d4b5e26e282.jpg"
-    },
-    {
-      "title": "Kenya: U.S. Report Flags Kenya's Failure to Act On Officials Linked to Human Trafficking",
-      "link": "https://allafrica.com/stories/202610090596.html",
-      "source": "AllAfrica",
-      "published": "2026-10-09T16:16:29.000Z",
-      "summary": "[Capital FM] Nairobi -- Kenya has failed to report meaningful enforcement action against public officials and recruitment agencies allegedly linked to human trafficking, with a new United…"
-    },
-    {
-      "title": "Zimbabwe’s mobile clinic helps teenagers access contraception amid aid cuts",
-      "link": "http://www.africanews.com/2026/10/09/zimbabwes-mobile-clinic-helps-teenagers-access-contraception-amid-aid-cuts/",
-      "source": "Africanews",
-      "published": "2026-10-09T15:37:06.000Z",
-      "summary": "In Zimbabwe, a discreet caravan at a Harare-area hospital is giving teenage girls private access to contraception, away from judgment and stigma. Experts say access is vital to preventing…"
     }
   ]
 };
