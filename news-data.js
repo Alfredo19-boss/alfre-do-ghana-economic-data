@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-11T13:27:37.437Z",
-  "worldAt": "2026-10-11T13:27:37.433Z",
+  "updated": "2026-10-11T18:18:28.147Z",
+  "worldAt": "2026-10-11T18:18:28.145Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -28,24 +28,59 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: failed (The operation was aborted due to timeout)",
-    "World · BBC News: 36 stories",
+    "World · BBC News: 25 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 30 stories",
     "Africa · AllAfrica Business: 30 stories",
-    "Africa · Africanews: 25 stories",
+    "Africa · Africanews: 24 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 27 African stories held"
+    "Africa · Al Jazeera: 1 stories",
+    "world lists: 40 world, 30 African stories held"
   ],
   "items": [
+    {
+      "title": "Sunshine, Minerals and Land: Africa’s Green Growth Opportunity",
+      "link": "https://thehighstreetjournal.com/sunshine-minerals-and-land-africas-green-growth-opportunity/",
+      "source": "The High Street Journal",
+      "published": "2026-10-11T18:15:00.000Z",
+      "summary": "The global transition to clean energy could open new avenues for investment, industrialisation and job creation across Africa."
+    },
+    {
+      "title": "Will Ghana’s Rising Global Image Attract Investors at World Bank/IMF Meetings?",
+      "link": "https://thehighstreetjournal.com/will-ghanas-rising-global-image-attract-investors-at-world-bank-imf-meetings/",
+      "source": "The High Street Journal",
+      "published": "2026-10-11T15:00:10.000Z",
+      "summary": "Ghana aims to leverage its rising global reputation and macroeconomic stability at the Bangkok IMF/World Bank meetings to attract foreign direct investment and trade credit."
+    },
+    {
+      "title": "OmniBSIC Bank’s 11th health walk promotes fitness and business growth",
+      "link": "https://www.myjoyonline.com/omnibsic-banks-11th-health-walk-promotes-fitness-and-business-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T14:11:39.000Z",
+      "summary": "OmniBSIC Bank has held its 11th annual Health Walk at the University of Ghana Sports Stadium, bringing together staff, customers, businesses and members of the public to promote physical…"
+    },
+    {
+      "title": "Ghana AgriTech Challenge Draws 72 Entries to Tackle Food Waste and Market Access",
+      "link": "https://thehighstreetjournal.com/agritech-challenge-tackles-food-waste/",
+      "source": "The High Street Journal",
+      "published": "2026-10-11T14:00:49.000Z",
+      "summary": "Eight teams developed digital marketplace prototypes, with three selected as finalists in an initiative backed by Germany’s development cooperation programme"
+    },
+    {
+      "title": "New Economy will tackle unemployment and restore hope – Ato Forson",
+      "link": "https://www.myjoyonline.com/new-economy-will-tackle-unemployment-and-restore-hope-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T13:44:07.000Z",
+      "summary": "According to him, the country could no longer accept a situation in which education fails to lead to employment, talent remains unsupported and productive effort yields little opportunity."
+    },
     {
       "title": "AI Job Disruption Threatens to Widen 800 Million Youth Employment Gap",
       "link": "https://thehighstreetjournal.com/ai-job-disruption-threatens-800mn/",
@@ -1060,359 +1095,344 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-10-07T14:46:20.000Z",
       "summary": "The Public Accounts Committee (PAC) has directed the Community Water and Sanitation Agency (CWSA) to recover GH¢2.5 million owed by public institutions for water supplied to them within 30…"
-    },
-    {
-      "title": "Safeguard all personal, financial information, including Mobile Money PINs, ATM PINs – BoG to general public",
-      "link": "https://www.myjoyonline.com/safeguard-all-personal-financial-information-including-mobile-money-pins-atm-pins-bog-to-general-public/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T14:40:05.000Z",
-      "summary": "In a release, the Central Bank said no legitimate bank, mobile money operator, payment service provider, or financial institution will request a customers’ PIN, password, or OTP via phone…"
-    },
-    {
-      "title": "World Bank revises Africa’s growth upwards to 4.3%",
-      "link": "https://www.ghanabusinessnews.com/2026/10/07/world-bank-revises-africas-growth-upwards-to-4-3/",
-      "source": "Ghana Business News",
-      "published": "2026-10-07T14:23:30.000Z",
-      "summary": "The World Bank has raised its 2026 growth forecast for Sub-Saharan Africa by 0.3 percentage points to 4.3 per cent, citing stronger domestic demand and improved economic resilience."
-    },
-    {
-      "title": "Cedi Records Africa’s Sharpest Q2 Fall As Global Tensions Hit Emerging Markets",
-      "link": "https://thehighstreetjournal.com/cedi-records-africas-sharpest-q2-fall-as-global-tensions-hit-emerging-markets/",
-      "source": "The High Street Journal",
-      "published": "2026-10-07T14:18:42.000Z",
-      "summary": "The Ghana cedi recorded Africa’s sharpest currency depreciation in the second quarter of 2026, falling nearly 10 percent against the dollar amid geopolitical tensions and external economic…"
-    },
-    {
-      "title": "BoG cautions public against 20 unlicensed mobile loan apps",
-      "link": "https://www.myjoyonline.com/bog-cautions-public-against-20-unlicensed-mobile-loan-apps/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-07T14:17:04.000Z",
-      "summary": "The Bank of Ghana (BoG) has warned the public against using 20 mobile loan applications operating without its approval."
-    },
-    {
-      "title": "President Mahama directs Finance Minister to allocate GH¢1bn for Housing Fund in 2027 Budget",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-directs-finance-minister-to-allocate-ghc1bn-for-housing-fund-in-2027-budget.html",
-      "source": "Graphic Online",
-      "published": "2026-10-07T13:50:51.000Z",
-      "summary": "President John Dramani Mahama has directed the Minister of Finance to allocate GH¢1 billion in the 2027 Budget as the government’s contribution to a GH¢3 billion National Housing Fund (NHF)."
     }
   ],
   "world": [
     {
-      "title": "The week in pictures: French student protests, October 7 anniversary and Adenot's return to Earth",
-      "link": "https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth",
+      "title": "Liverpool fans give Manchester City a fiery welcome at Anfield",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T17:52:27.000Z",
+      "summary": "'Cheats cheats cheats' This is how Liverpool fans greeted Manchester City as they arrived at Anfield"
+    },
+    {
+      "title": "A profile of Raphaël Glucksmann, the man who wants to be French President",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president",
       "source": "France 24",
-      "published": "2026-10-11T13:17:55.000Z",
-      "summary": "Blockades and protests by French secondary school and university students continued, occasionally becoming violent; French astronaut Sophie Adenot returned to Earth after eight months…",
-      "image": "https://s.france24.com/media/display/eed9187a-c3ed-11f1-9c6b-3774aeac812a/w:1024/p:16x9/000-D2EA23A.jpg"
+      "published": "2026-10-11T17:50:02.000Z",
+      "summary": "Raphaël Glucksmann has won the primary to represent the French centre-left in the upcoming presidential election, securing 66% of the vote.",
+      "image": "https://s.france24.com/media/display/b6534792-c59a-11f1-b235-53993c5f1f18/w:1024/p:16x9/Raphael-Glucksmann-000-D2X49DY.jpg"
     },
     {
-      "title": "Pope Leo XIV to undergo lung surgery this week",
-      "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
-      "source": "NPR World",
-      "published": "2026-10-11T12:54:25.000Z",
-      "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3313x2208+0+0/resize/3313x2208!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Fdd%2Fd344f84343b7a9cbfcdb4fb6243f%2Fap26284369740018.jpg"
+      "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
+      "link": "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T17:39:26.000Z",
+      "summary": "Erling Haaland, Jeremy Doku and Rayan Cherki score second half goals after Ryan Gravenberch sent off."
     },
     {
-      "title": "Brazil's Lula accuses social media giant Meta of election interference amid tight run-off campaign",
-      "link": "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign",
+      "title": "Raphaël Glucksmann wins French left-wing primary with 66% of vote",
+      "link": "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote",
       "source": "France 24",
-      "published": "2026-10-11T13:12:09.000Z",
-      "summary": "Social media platform Meta has 48 hours to respond to claims by Brazil's leftwing candidate and incumbent President Luiz Inacio Lula da Silva's campaign accusing the tech platform of…",
-      "image": "https://s.france24.com/media/display/3c380a90-c56f-11f1-a8f8-53993c5f1f18/w:1024/p:16x9/000-36TD3C3.jpg"
+      "published": "2026-10-11T17:41:49.000Z",
+      "summary": "Raphaël Glucksmann will be the centre-left candidate for France's 2027 presidential election following a crushing victory on Sunday, with 66.13% of the vote, positioning himself as the…",
+      "image": "https://s.france24.com/media/display/f679fae4-c597-11f1-9dc4-77317c09f325/w:1024/p:16x9/000-D2X49EB.jpg"
     },
     {
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T12:52:38.000Z",
-      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg"
-    },
-    {
-      "title": "Denmark tests humanoid robots in supermarkets to help to ease staff workload at night",
-      "link": "http://www.africanews.com/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night/",
+      "title": "Nepal orders evacuations after landslide triggers Budhi Gandaki flash flood",
+      "link": "http://www.africanews.com/2026/10/11/nepal-orders-evacuations-after-landslide-triggers-budhi-gandaki-flash-flood/",
       "source": "Africanews",
-      "published": "2026-10-11T12:40:38.000Z",
-      "summary": "Denmark’s Salling Group is trialling Hive Robots in stores to handle demanding restocking, freeing staff for customer service while robots work mainly at night."
+      "published": "2026-10-11T17:37:10.000Z",
+      "summary": "Nepal’s authorities ordered residents along the Budhi Gandaki River to evacuate on Sunday, 11 October, after a sudden flash flood swept away homes and other buildings in the country’s…"
     },
     {
-      "title": "Ukraine strikes Russian data centre again despite Trump warning",
+      "title": "Ukraine: Coerced into a Corner?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner",
+      "source": "France 24",
+      "published": "2026-10-11T17:36:49.000Z",
+      "summary": "It's reported that Ukraine is right now facing intense diplomatic pressure and coercion from the Trump administration to end the war quickly.",
+      "image": "https://s.france24.com/media/display/4768d690-c599-11f1-bdd5-77317c09f325/w:1024/p:16x9/vignette-YouTube-interview-simple-jaune-rouge-2.png"
+    },
+    {
+      "title": "Is the Yemen war entering a new phase?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T17:30:55.000Z",
+      "summary": "Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday's attack on King Khalid Inter"
+    },
+    {
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T17:27:24.000Z",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg"
+    },
+    {
+      "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T17:14:50.000Z",
+      "summary": "Israel pushes its ‘Yellow Line’ deeper into Gaza"
+    },
+    {
+      "title": "🔴 Live: Houthi rebels claim latest attacks on Riyadh airport, following Saturday's deadly strike",
+      "link": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "source": "France 24",
+      "published": "2026-10-11T16:44:37.000Z",
+      "summary": ""
+    },
+    {
+      "title": "‘Who will represent us?’ Palestinians react to election delay",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T17:09:19.000Z",
+      "summary": "Palestinians have reacted to President Mahmoud Abbas’ decision to postpone the Palestinian legislative elections."
+    },
+    {
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T16:41:37.000Z",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
+      "link": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T17:06:09.000Z",
+      "summary": "Police detain tour bus driver after highway collision in western Turkiye leaves 11 dead and 27 injured."
+    },
+    {
+      "title": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released",
+      "link": "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released",
+      "source": "France 24",
+      "published": "2026-10-11T16:08:39.000Z",
+      "summary": "Police detained hundreds of protesters in Delhi for a second day on Sunday as sporadic protests broke out demanding India's election chief quit, while a court ordered the release of…",
+      "image": "https://s.france24.com/media/display/cdea79be-c588-11f1-a1e7-3774aeac812a/w:1024/p:16x9/EN-20261011-170934-171108-CS.jpg"
+    },
+    {
+      "title": "Football fans speak about City’s charges as they face Liverpool",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T16:18:45.000Z",
+      "summary": "Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield."
+    },
+    {
+      "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
+      "link": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
+      "source": "France 24",
+      "published": "2026-10-11T16:07:13.000Z",
+      "summary": "The Saudi-led coalition in Yemen said an \"unidentified projectile\" had targeted Riyadh's international airport on Sunday, causing a fire. The incident came hours after the Iran-backed…",
+      "image": "https://s.france24.com/media/display/92aef5a0-c588-11f1-95dd-53993c5f1f18/w:1024/p:16x9/EN-20261011-170412-170845-CS.jpg"
+    },
+    {
+      "title": "At least five people missing as flash floods in Nepal sweep away houses",
+      "link": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T16:00:48.000Z",
+      "summary": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks."
+    },
+    {
+      "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
+      "link": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
+      "source": "France 24",
+      "published": "2026-10-11T16:04:20.000Z",
+      "summary": "Ukrainian President Volodymyr Zelensky told the Axios digital news outlet on Sunday that he was surprised by US counterpart Donald Trump's announcement of a Ukraine-Russia \"energy…",
+      "image": "https://s.france24.com/media/display/141f26b0-c588-11f1-9b63-e362370cce2e/w:1024/p:16x9/EN-20261011-170054-170410-CS-1.jpg"
+    },
+    {
+      "title": "Tour bus crash in Turkiye leaves at least 11 dead",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T15:52:29.000Z",
+      "summary": "At least eleven people have been killed and 27 injured after a tour bus collided with a truck near a motorway entrance"
+    },
+    {
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T15:32:32.000Z",
+      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c45/live/701466b0-c565-11f1-bd33-db1f7eaf2b30.jpg"
+    },
+    {
+      "title": "Power bank fire forces plane to emergency land in India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T15:26:29.000Z",
+      "summary": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board."
+    },
+    {
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T15:32:23.000Z",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0b/live/ba857dc0-c58c-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T15:24:50.000Z",
+      "summary": "Pope Leo XIV has announced that he will undergo surgery this week, to remove a nodule in his lung."
+    },
+    {
+      "title": "At least 139 people dead after migrant boat capsizes off Djibouti",
+      "link": "http://www.africanews.com/2026/10/11/at-least-139-people-dead-after-migrant-boat-capsizes-off-djibouti/",
+      "source": "Africanews",
+      "published": "2026-10-11T15:19:39.000Z",
+      "summary": "Fifteen children are among the dead, with 82 people, all Ethiopians, having survived while another 84 people are still missing."
+    },
+    {
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T15:18:52.000Z",
+      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5288/live/10c1e1e0-c585-11f1-80f2-5bd1e5df7ada.jpg"
+    },
+    {
+      "title": "Pope Leo says he will undergo surgery for small growth on lung",
+      "link": "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung",
+      "source": "France 24",
+      "published": "2026-10-11T15:17:39.000Z",
+      "summary": "Pope Leo said on Sunday that doctors had detected a small growth on his lung during a recent health check and he would be undergoing surgery this week to remove ​it, in the ‌first health…",
+      "image": "https://s.france24.com/media/display/54b10662-c583-11f1-85dc-29a2e29ae696/w:1024/p:16x9/EN-20261011-160915-161328-CS.jpg"
+    },
+    {
+      "title": "How the ICC can be saved",
+      "link": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T15:15:35.000Z",
+      "summary": "Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court."
+    },
+    {
+      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-11T14:47:00.000Z",
+      "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately."
+    },
+    {
+      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T15:10:27.000Z",
+      "summary": "Ukrainian President Volodymyr Zelenskyy says he was unaware of the deal, but that Ukraine would back it."
+    },
+    {
+      "title": "France: Can the left unite behind a single candidate?",
+      "link": "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate",
+      "source": "France 24",
+      "published": "2026-10-11T14:41:39.000Z",
+      "summary": "Five candidates are vying to lead France's social-democratic left in the 2027 presidential election, with a cyberattack disrupting the primary vote. Can the left unite behind one candidate?…",
+      "image": "https://s.france24.com/media/display/81d3fff6-c578-11f1-9043-29a2e29ae696/w:1024/p:16x9/EN-20261011-140327-141217-CS.jpg"
+    },
+    {
+      "title": "Pope Leo to undergo surgery to remove lung nodule",
+      "link": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T14:59:38.000Z",
+      "summary": "The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter's Square."
+    },
+    {
+      "title": "🔴 Trump says Russia and Ukraine agree to 'energy ceasefire'",
+      "link": "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+      "source": "France 24",
+      "published": "2026-10-11T14:41:09.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-11T12:50:46.000Z",
+      "published": "2026-10-11T14:38:10.000Z",
       "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
+      "title": "India's 'cockroach' leaders vow to keep up election protests",
+      "link": "https://www.france24.com/en/video/20261011-india-s-cockroach-leaders-vow-to-keep-up-election-protests",
+      "source": "France 24",
+      "published": "2026-10-11T14:40:27.000Z",
+      "summary": "Leaders of India's online \"cockroach\" movement pledged on Sunday to continue their campaign against the election commissioner, hours after they were released from detention as authorities…",
+      "image": "https://s.france24.com/media/display/f57e0a1c-c575-11f1-b681-53993c5f1f18/w:1024/p:16x9/EN-20261011-131551-131920-CS.jpg"
+    },
+    {
+      "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+      "link": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-11T12:40:35.000Z",
-      "summary": "People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps."
+      "published": "2026-10-11T14:34:15.000Z",
+      "summary": "Trump has long criticised US military support for Ukraine and has lambasted Zelenskyy since his first term."
     },
     {
-      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T12:08:20.000Z",
-      "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/140fac20-c56b-11f1-bd33-db1f7eaf2b30.jpg"
+      "title": "Strike on Riyadh: What options for the Saudi-led coalition?",
+      "link": "https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition",
+      "source": "France 24",
+      "published": "2026-10-11T14:39:27.000Z",
+      "summary": "Saturday's attack, the deadliest on Saudi soil in more than a decade, marked a sharp escalation in the Yemen war. Riyadh backs the internationally recognised government against the Houthis…",
+      "image": "https://s.france24.com/media/display/e10ae9f8-c573-11f1-b6f9-53993c5f1f18/w:1024/p:16x9/EN-20261011-130408-131443-CS.jpg"
     },
     {
-      "title": "Meet the man helping India’s detained protesters get home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
+      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+      "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-11T12:36:35.000Z",
-      "summary": "Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely."
+      "published": "2026-10-11T14:25:03.000Z",
+      "summary": "Repeated Houthi attacks on Saudi Arabia's King Khalid Airport reveal the limitations of even high-tech air defences."
     },
     {
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T12:03:52.000Z",
-      "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf2/live/9cbf47b0-c56b-11f1-9a39-31b474234113.jpg"
+      "title": "Trump says Russia, Ukraine agree to energy ceasefire – 'news for me', Zelensky says",
+      "link": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+      "source": "France 24",
+      "published": "2026-10-11T14:39:26.000Z",
+      "summary": "US President Trump said Sunday via social media platform Truth Social that Russia and Ukraine had agreed to an energy ceasefire. Neither Kyiv nor Moscow confirmed the agreement, with…",
+      "image": "https://s.france24.com/media/display/0873ab7c-c580-11f1-b3d3-29a2e29ae696/w:1024/p:16x9/AP26284044155459.jpg"
     },
     {
-      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T12:28:11.000Z",
-      "summary": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300."
-    },
-    {
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T11:32:50.000Z",
-      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c45/live/701466b0-c565-11f1-bd33-db1f7eaf2b30.jpg"
-    },
-    {
-      "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
-      "link": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T12:23:37.000Z",
-      "summary": "Russian research reveals that the protein brazzein could help reduce blood sugar spikes."
-    },
-    {
-      "title": "Zaporizhzhia airstrikes kill 17 as Russia intensifies attacks across Ukraine",
-      "link": "http://www.africanews.com/2026/10/11/zaporizhzhia-airstrikes-kill-17-as-russia-intensifies-attacks-across-ukraine/",
+      "title": "Spainish police clear last Ceuta migrant beach camp ahead of king's visit",
+      "link": "http://www.africanews.com/2026/10/11/spainish-police-clear-last-ceuta-migrant-beach-camp-ahead-of-kings-visit/",
       "source": "Africanews",
-      "published": "2026-10-11T11:29:49.000Z",
-      "summary": "Zaporizhzhia was hit by deadly Russian airstrikes on Saturday, 10 October, killing at least 17 people, including three children, Ukrainian officials said. Rescuers searched rubble for…"
+      "published": "2026-10-11T14:20:18.000Z",
+      "summary": "They put people buses to be taken to reception centres for processing before cleaning crews arrived on the beach."
     },
     {
-      "title": "Liverpool vs Man City live: Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T12:20:30.000Z",
-      "summary": "Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game."
-    },
-    {
-      "title": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
-      "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
-      "source": "NPR World",
-      "published": "2026-10-11T11:28:15.000Z",
-      "summary": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of…",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F97%2F9a5f653442b6832c364132286e60%2Fjyoti-and-father-2.jpg"
-    },
-    {
-      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
-      "link": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T12:09:54.000Z",
-      "summary": "Security officials hold emergency meeting after police receive information about potential attack."
-    },
-    {
-      "title": "Kenyan children learn to play chess on sets made using plastic waste",
-      "link": "http://www.africanews.com/2026/10/11/kenyan-children-learn-to-play-chess-on-sets-made-using-plastic-waste/",
-      "source": "Africanews",
-      "published": "2026-10-11T11:23:47.000Z",
-      "summary": "Community project, Kijiji Solutions, has recycled about 200 kilograms of plastic to produce nearly 2,000 tournament quality sets."
-    },
-    {
-      "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T12:04:54.000Z",
-      "summary": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his 'World Tour' campaign."
-    },
-    {
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T11:11:42.000Z",
-      "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e56a/live/17da0620-c561-11f1-9cae-455625013d45.jpg"
-    },
-    {
-      "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T11:42:50.000Z",
-      "summary": "US President Donald Trump told his supporters they would applaud anything he says."
-    },
-    {
-      "title": "Tunisia's Carthage Music Days puts its faith in the local scene",
-      "link": "http://www.africanews.com/2026/10/11/tunisias-carthage-music-days-puts-its-faith-in-the-local-scene/",
-      "source": "Africanews",
-      "published": "2026-10-11T11:03:33.000Z",
-      "summary": "The 11th edition of the festival took place over a week in the capital, Tunis, featuring artists from 15 countries."
-    },
-    {
-      "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
-      "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T11:34:40.000Z",
-      "summary": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere."
-    },
-    {
-      "title": "Pope Leo says will undergo surgery for early-stage lung nodule",
-      "link": "https://www.france24.com/en/europe/20261011-pope-leo-says-will-undergo-surgery-for-early-stage-lung-nodule",
+      "title": "Strike on Riyadh: Trump signals US could join action against Houthis",
+      "link": "https://www.france24.com/en/video/20261011-strike-on-riyadh-trump-signals-us-could-join-action-against-houthis",
       "source": "France 24",
-      "published": "2026-10-11T10:34:22.000Z",
-      "summary": "Pope Leo XIV said Sunday he would undergo surgery in the coming days for a lung nodule detected at an early stage.",
-      "image": "https://s.france24.com/media/display/acda1916-c55e-11f1-9f1f-53993c5f1f18/w:1024/p:16x9/AP26284369740018-1.jpg"
-    },
-    {
-      "title": "The scramble to rewrite Biden’s record on Gaza",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T11:29:48.000Z",
-      "summary": "Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism?"
-    },
-    {
-      "title": "Buildings swept away as flash floods hit central Nepal",
-      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T10:34:02.000Z",
-      "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f39a/live/5ededcd0-c552-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Mohamed Salah sets Turkish Super Lig record for Trabzonspor",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T10:48:34.000Z",
-      "summary": "Salah becomes first player with 10 goal contributions, seven goals and three assists after Trabzonspor beat Samsunspor."
-    },
-    {
-      "title": "Trump says Ukraine needs new president who will agree to end war",
-      "link": "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war",
-      "source": "France 24",
-      "published": "2026-10-11T10:28:56.000Z",
-      "summary": "US President Donald Trump on Saturday urged Ukraine to replace Volodymyr Zelensky with a new leader, criticising him over strikes on Russian oil refineries that have contributed to high…",
-      "image": "https://s.france24.com/media/display/6dd43968-c55e-11f1-828e-3774aeac812a/w:1024/p:16x9/capture-18084351466acb64ae3fdab8-31038353.jpg"
-    },
-    {
-      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-      "link": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T10:45:15.000Z",
-      "summary": "Saudi coalition blames Houthi group for the missile attack on the main international airport in Riyadh."
-    },
-    {
-      "title": "Spain: Sánchez and Feijóo launch campaigns",
-      "link": "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns",
-      "source": "France 24",
-      "published": "2026-10-11T10:23:38.000Z",
-      "summary": "Although Spain's general election is set to take place on November 29, the battle has already begun. Over the weekend, Prime Minister Pedro Sánchez and his main conservative challenger…",
-      "image": "https://s.france24.com/media/display/64c02080-c559-11f1-ae7a-77317c09f325/w:1024/p:16x9/EN-20261011-110923-111114-CS.jpg"
-    },
-    {
-      "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T10:42:35.000Z",
-      "summary": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis."
-    },
-    {
-      "title": "Ukraine ready to halt refinery strikes if Moscow stops energy attacks",
-      "link": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says",
-      "source": "France 24",
-      "published": "2026-10-11T10:21:07.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky on Sunday said Kyiv was ready to halt strikes Russian oil refineries if Moscow stopped attacks on Ukrainian energy infrastructure. The announcement…",
-      "image": "https://s.france24.com/media/display/f1f72c30-c55b-11f1-941b-53993c5f1f18/w:1024/p:16x9/2026-10-09T204400Z-1727445418-RC2WZNAE754C-RTRMADP-3-RUSSIA-USA-DIESEL-UKRAINE-ZELENSKIY.jpg"
-    },
-    {
-      "title": "Modi is in trouble",
-      "link": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T10:31:45.000Z",
-      "summary": "The CJP protests sweeping through the country have exposed India’s hollowed-out democracy."
-    },
-    {
-      "title": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
-      "link": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
-      "source": "France 24",
-      "published": "2026-10-11T10:10:20.000Z",
-      "summary": "US President Donald Trump and Ukrainian leader Volodymyr Zelensky traded barbs Saturday after Washington moved to ease sanctions on Russian diesel and Moscow's continued strikes on Ukraine…",
-      "image": "https://s.france24.com/media/display/14ffaa84-c559-11f1-b8e4-e362370cce2e/w:1024/p:16x9/EN-20261011-110713-110852-CS.jpg"
-    },
-    {
-      "title": "Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T10:28:08.000Z",
-      "summary": "Bezzecchi's win, the 300th victory for an Italian in MotoGP, also kept his faint championship ​hopes alive."
-    },
-    {
-      "title": "At least 109 migrants dead, more than 100 missing after boat capsizes off Djibouti",
-      "link": "https://www.france24.com/en/africa/20261011-at-least-hundred-migrants-dead-scores-missing-after-boat-capsizes-off-djibouti",
-      "source": "France 24",
-      "published": "2026-10-11T09:24:40.000Z",
-      "summary": "At least 109 migrants, including 15 children, died and 116 went missing after a boat carrying 350 people capsized off Djibouti en route to Yemen, the International Organisation for…",
-      "image": "https://s.france24.com/media/display/94e2f63e-c554-11f1-aa28-29a2e29ae696/w:1024/p:16x9/000-A97Y9E8.jpg"
-    },
-    {
-      "title": "Anti-ICE protests in New York after man shot in car with child",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T10:22:39.000Z",
-      "summary": "Protesters in New York City are demanding the abolition of ICE after officers shot Oscar Belgal in the Bronx."
-    },
-    {
-      "title": "'Going bankrupt': Iran shopkeepers struggle as war dims demand",
-      "link": "https://www.france24.com/en/video/20261011-going-bankrupt-iran-shopkeepers-struggle-as-war-dims-demand",
-      "source": "France 24",
-      "published": "2026-10-11T09:22:37.000Z",
-      "summary": "Iran's economy has been battered by years of sanctions, but the conflict that began in February with US-Israeli attacks and an American blockade of the country's ports has put extra strain…",
-      "image": "https://s.france24.com/media/display/4d7c0954-c54d-11f1-b6d8-29a2e29ae696/w:1024/p:16x9/EN-20261011-100629-100815-CS.jpg"
-    },
-    {
-      "title": "Photos: Thousands detained in police crackdown on India’s youth protest",
-      "link": "https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T09:58:19.000Z",
-      "summary": "Demonstrators intercepted and detained as authorities crack down on 'cockroach' movement rally in central New Delhi."
-    },
-    {
-      "title": "Trump urges Zelensky replacement as diesel row rages",
-      "link": "https://www.france24.com/en/video/20261011-trump-urges-zelensky-replacement-as-diesel-row-rages",
-      "source": "France 24",
-      "published": "2026-10-11T09:21:59.000Z",
-      "summary": "Donald Trump called on Saturday for Ukraine to \"get a new leader\" after Volodymyr Zelensky slammed Washington's easing of Russian diesel sanctions, as the US president faces fuel price…",
-      "image": "https://s.france24.com/media/display/b79a3270-c54d-11f1-bde5-29a2e29ae696/w:1024/p:16x9/EN-20261011-080749-081231-CS.jpg"
+      "published": "2026-10-11T14:34:54.000Z",
+      "summary": "The assault on Riyadh's airport drew condemnation from the United Nations and world leaders including US President Donald Trump, who said he was considering joining Saudi strikes against…",
+      "image": "https://s.france24.com/media/display/c2177c9c-c572-11f1-8c32-e362370cce2e/w:1024/p:16x9/EN-20261011-130204-130405-CS.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-11T15:32:23.000Z",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0b/live/ba857dc0-c58c-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "At least 139 people dead after migrant boat capsizes off Djibouti",
+      "link": "http://www.africanews.com/2026/10/11/at-least-139-people-dead-after-migrant-boat-capsizes-off-djibouti/",
+      "source": "Africanews",
+      "published": "2026-10-11T15:19:39.000Z",
+      "summary": "Fifteen children are among the dead, with 82 people, all Ethiopians, having survived while another 84 people are still missing."
+    },
+    {
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T14:09:12.000Z",
+      "summary": "Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region."
+    },
+    {
+      "title": "Eritrea uges United Nations to intervene in standoff with Ethiopia",
+      "link": "http://www.africanews.com/2026/10/11/eritrea-uges-united-nations-to-intervene-in-standoff-with-ethiopia/",
+      "source": "Africanews",
+      "published": "2026-10-11T13:20:43.000Z",
+      "summary": "The neighbours have accused each other of starting a war over Tigray, where Ethiopia says Eritrea is backing rebels."
+    },
     {
       "title": "Sudan: Diplomatic Setbacks Undermine U.S. Approach to Sudan",
       "link": "https://allafrica.com/stories/202610110093.html",
       "source": "AllAfrica",
       "published": "2026-10-11T12:50:09.000Z",
       "summary": "[allAfrica] Khartoum -- Over the past two weeks, Washington has suffered a series of humiliating diplomatic defeats in its effort to force Sudanese authorities into a ceasefire deal they…"
-    },
-    {
-      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-11T12:08:20.000Z",
-      "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/140fac20-c56b-11f1-bd33-db1f7eaf2b30.jpg"
     },
     {
       "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
@@ -1426,7 +1446,7 @@ window.GDC_NEWS = {
       "link": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-africa-8291-rdf",
       "source": "Deutsche Welle",
       "published": "2026-10-11T11:35:00.000Z",
-      "summary": "The UN migration agency has reported that at least 109 people were killed and 116 remain missing after a migrant boat sank overnight on its way to Yemen. At least 80 Ethiopians survived the…"
+      "summary": "The UN migration agency has reported that at least 139 people were killed and 84 remain missing after a migrant boat sank overnight on its way to Yemen. At least 80 Ethiopians survived the…"
     },
     {
       "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
@@ -1443,11 +1463,12 @@ window.GDC_NEWS = {
       "summary": "The 11th edition of the festival took place over a week in the capital, Tunis, featuring artists from 15 countries."
     },
     {
-      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-      "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T00:23:50.000Z",
-      "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola."
+      "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-11T08:19:52.000Z",
+      "summary": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9d/live/26fc84c0-c543-11f1-b4f1-2359026a88ee.jpg"
     },
     {
       "title": "Egypt and Malaysia discuss political settlement to Middle East conflict",
@@ -1455,6 +1476,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-11T06:35:16.000Z",
       "summary": "Egyptian President Abdel-Fattah al-Sisi was on a two-day state visit to Kuala Lumpur which also focused on bilateral ties."
+    },
+    {
+      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T00:23:50.000Z",
+      "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola."
     },
     {
       "title": "Sudan: SPLM-N - Gold Potentially Ignites Fighting in Kauda and Blue Nile",
@@ -1561,13 +1589,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-10T13:52:55.000Z",
       "summary": "This follows the death in Nairobi on Monday of a Kenyan man who had travelled home from DR Congo through Uganda."
-    },
-    {
-      "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
-      "link": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-10T06:10:00.000Z",
-      "summary": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states."
     },
     {
       "title": "Former DR Congo president says the country is 'in peril'",
