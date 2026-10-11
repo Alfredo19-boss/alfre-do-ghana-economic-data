@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-10T22:03:52.959Z",
+  "updated": "2026-10-11T00:52:36.634Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,98 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Power restoration fault suspected in Kumasi Central Market fire",
+      "link": "https://www.myjoyonline.com/power-restoration-fault-suspected-in-kumasi-central-market-fire/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T00:16:30.000Z",
+      "summary": "The Ghana National Fire Service is investigating a suspected power-restoration fault as a possible trigger for a fire that swept through part of the Kumasi Central Market near the Aboabo…",
+      "categories": [
+        "Regional",
+        "Kumasi central market fire",
+        "Power Restoration"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-07.43.49-750x375-2.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The 7-foot giant of Ngleshie Amanfro: Seven-foot Ghanaian Ephraim Saawa dreams of joining the national basketball team",
+      "link": "https://www.myjoyonline.com/the-7-foot-giant-of-ngleshie-amanfro-seven-foot-ghanaian-ephraim-saawa-dreams-of-joining-the-national-basketball-team/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T23:38:13.000Z",
+      "summary": "In Ngleshie Amanfro, a bustling community in the Ga South Municipality, you don't need to know his name to know him. You just look up.",
+      "categories": [
+        "Photo Story",
+        "Sports",
+        "Bask ball",
+        "Ngleshie Amafro",
+        "Victor Wembanyama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9814_2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government promises support for Kumasi Central Market fire victims",
+      "link": "https://www.myjoyonline.com/government-promises-support-for-kumasi-central-market-fire-victims/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T23:31:47.000Z",
+      "summary": "The government has assured traders affected by a fire at Kumasi Central Market of possible state support, with the National Disaster Management Organisation (NADMO) expected to assess the…",
+      "categories": [
+        "Regional",
+        "Firefighters",
+        "Kumasi central market fire",
+        "Mahama Ayariga"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-20.56.34-1024x473.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vibes The Movie: Big Ghun’s Ghanaian film earns five nominations at 2026 REFFA",
+      "link": "https://www.myjoyonline.com/vibes-the-movie-big-ghuns-ghanaian-film-earns-five-nominations-at-2026-reffa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T23:01:15.000Z",
+      "summary": "Ghanaian filmmaker Nicholas “Big Ghun” Nartey’s Vibes The Movie has secured five nominations at the 2026 Regal Film Festival and Awards (REFFA), adding to the film’s growing list of…",
+      "categories": [
+        "Arts and Culture",
+        "Movies",
+        "Big Ghun",
+        "REFFA",
+        "Vibes the Movie"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_8741-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MamaCare CEO warns unresolved conflicts among health workers could undermine maternal and neonatal care",
+      "link": "https://www.myjoyonline.com/mamacare-ceo-warns-unresolved-conflicts-among-health-workers-could-undermine-maternal-and-neonatal-care/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T22:37:03.000Z",
+      "summary": "Maternal and Child Health Expert and Chief Executive Officer of MamaCare by Racheal, Mrs Racheal Hesse Matey, has warned that unresolved conflicts among obstetric care providers can…",
+      "categories": [
+        "Health",
+        "conflict",
+        "Health workers",
+        "Mamacare CEO",
+        "maternal and neonatal care"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.28.43-683x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Health professionals urged to translate medical knowledge into practice to save mothers",
+      "link": "https://www.myjoyonline.com/health-professionals-urged-to-translate-medical-knowledge-into-practice-to-save-mothers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-10T22:30:39.000Z",
+      "summary": "Obstetrician-gynaecologist Dr Elikem Oklu has raised concerns about the continued loss of mothers and newborns to preventable causes, saying gaps between medical knowledge and clinical…",
+      "categories": [
+        "Health",
+        "Health conference",
+        "healthcare system",
+        "Obstetrician"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-17.28.07-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Conflicts among care providers linked to maternal, neonatal deaths – Expert",
       "link": "https://www.myjoyonline.com/conflicts-among-care-providers-linked-to-maternal-neonatal-deaths-expert/",
@@ -55,52 +147,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "BRICS Or Balance? What Ghana’s bid really means",
-      "link": "https://www.myjoyonline.com/brics-or-balance-what-ghanas-bid-really-means/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T20:22:46.000Z",
-      "summary": "Ghana’s decision to apply to join BRICS is not a diplomatic footnote; it is a strategic signal.",
-      "categories": [
-        "Opinion",
-        "BRICS",
-        "Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1067.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPRTU wants full TRAFFITECH-GH implementation to start in 2027",
-      "link": "https://www.myjoyonline.com/gprtu-wants-full-traffitech-gh-implementation-to-start-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T20:03:50.000Z",
-      "summary": "The Ghana Private Road Transport Union has asked the police to postpone the full implementation of TRAFFITECH-GH to 2027, citing concerns over inadequate preparation and public education…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "News",
-        "GPRTU",
-        "Traffitech-GH"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1009.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama announces plans to import electric wheelchairs for PWDs",
-      "link": "https://www.myjoyonline.com/mahama-announces-plans-to-import-electric-wheelchairs-for-pwds/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T19:59:53.000Z",
-      "summary": "President John Dramani Mahama has announced plans by the government to import rechargeable electric wheelchairs for persons with disabilities (PWDs).",
-      "categories": [
-        "National",
-        "News",
-        "electric wheelchairs",
-        "Mahama",
-        "PWDs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Politics-President-PWDs1-1024x731.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Minority criticism of BRICS move disingenuous – Ablakwa",
       "link": "https://www.graphic.com.gh/news/general-news/minority-criticism-of-brics-move-disingenuous-ablakwa.html",
       "source": "Daily Graphic",
@@ -111,50 +157,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "KGL U17 Colts 2026: Western beat Prempeh Elite Academy to set up final final with Greater Accra Region",
-      "link": "https://www.myjoyonline.com/kgl-u17-colts-2026-western-beat-prempeh-elite-academy-to-set-up-final-final-with-greater-accra-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T19:41:19.000Z",
-      "summary": "The first semi-final ended in a pulsating 1-1 draw after 80 minutes of regulation time, forcing the contest to be decided from the penalty spot.",
-      "categories": [
-        "Football",
-        "KGL Foundation Inter-Regional U17 Colts Championship",
-        "Western Region"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Western-Region-1-1024x635.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Late Solanke strike salvages 10-man Spurs draw at Man United",
-      "link": "https://www.myjoyonline.com/late-solanke-strike-salvages-10-man-spurs-draw-at-man-united/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T19:31:20.000Z",
-      "summary": "It looked as if United were about to pile more misery on the visitors following their pitiful start to the Premier League season when Bryan Mbeumo broke the deadlock in the 73rd minute.",
-      "categories": [
-        "Football",
-        "Manchester United",
-        "Premier League",
-        "Tottenham"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Solanke.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry to monitor welfare of Nana Akua Addo’s children amid domestic violence case",
-      "link": "https://www.myjoyonline.com/gender-ministry-to-monitor-welfare-of-nana-akua-addos-children-amid-domestic-violence-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-10T19:24:46.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection says it will deploy social welfare officers to monitor the welfare of the children of Ghanaian fashion personality Nana Akua Addo and…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "Gender Ministry",
-        "Nana Akua Addo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/687768070_1323145096674346_122137487249074793_n-1024x739.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana's Golden Shuttlers make top three at World Juniors Team Cheers",
