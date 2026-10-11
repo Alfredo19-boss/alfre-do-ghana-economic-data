@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-11T06:35:04.659Z",
+  "updated": "2026-10-11T13:27:50.083Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,141 +25,241 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Tarkwa court jails labourer for three years over GH¢123,000 theft",
-      "link": "https://www.myjoyonline.com/tarkwa-court-jails-labourer-for-three-years-over-gh%c2%a2123000-theft/",
+      "title": "University of Ghana postpones October 12 reopening as GAUA strike persists",
+      "link": "https://www.myjoyonline.com/university-of-ghana-postpones-october-12-reopening-as-gaua-strike-persists/",
       "source": "MyJoyOnline",
-      "published": "2026-10-11T06:29:24.000Z",
-      "summary": "The Tarkwa Circuit Court has sentenced Nuredeen Issaka, a 26-year-old labourer, to three years imprisonment in hard labour for stealing money belonging to his employer at Essamang Kakraba…",
+      "published": "2026-10-11T13:22:25.000Z",
+      "summary": "The University of Ghana has postponed its reopening for the 2026/2027 academic year, initially scheduled for Monday, October 12, 2026.",
       "categories": [
-        "Crime",
+        "Education",
         "National",
-        "Jailed",
-        "labourer",
-        "Stealing"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/a-wooden-judge-gavel-rests-on-a-matching-sound-block-isolated-on-a-white-background-suitable-for-legal-justice-court-or-law-related-content-and-educational-materials-photo.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GAEC must retain nuclear scientists for Ghana’s nuclear ambitions – Minister",
-      "link": "https://www.myjoyonline.com/gaec-must-retain-nuclear-scientists-for-ghanas-nuclear-ambitions-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T05:57:32.000Z",
-      "summary": "Dr Zanetor Agyeman-Rawlings, Minister of Environment, Science and Technology, has called for urgent measures to curb staff attrition at the Ghana Atomic Energy Commission (GAEC) and retain…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Scientists",
-        "Zanetor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-26-at-10.12.39-1024x701.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man reportedly mistaken for game and shot by hunter dead in forest",
-      "link": "https://www.myjoyonline.com/man-reportedly-mistaken-for-game-and-shot-by-hunter-dead-in-forest/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T05:55:22.000Z",
-      "summary": "A man identified as Mr Zebio from Nyagbo Konda in the Afadzato South District has reportedly been shot dead in the Nyagbo Kume Forest.",
-      "categories": [
-        "Crime",
-        "National",
-        "Hunter",
-        "man",
-        "Nyagbo Kume Forest",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-5.47.48-AM-1024x587.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "19-year-old mason jailed 15 years for defiling seven-year-old pupil",
-      "link": "https://www.myjoyonline.com/19-year-old-mason-jailed-15-years-for-defiling-seven-year-old-pupil/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T05:50:48.000Z",
-      "summary": "Alfred Mensah, a 19-year-old mason, who defiled a seven-year-old kindergarten pupil has been sentenced to 15 years imprisonment in hard, by the Tarkwa Circuit Court.",
-      "categories": [
-        "Crime",
-        "HP News 8",
-        "National",
-        "Kindergarten",
-        "mason"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/court.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s banking sector assets rise 20.47% to GH¢500.2bn – BoG Governor",
-      "link": "https://www.myjoyonline.com/ghanas-banking-sector-assets-rise-20-47-to-gh%c2%a2500-2bn-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T05:46:37.000Z",
-      "summary": "Total assets of Ghana’s banking sector increased by 20.47 per cent to GH¢500.20 billion at the end of August 2026.",
-      "categories": [
-        "National",
-        "Assets",
-        "Banking",
-        "Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-5.34.09-AM-1024x611.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "22 injured as Sprinter bus overturns at Sege after tyre burst",
-      "link": "https://www.myjoyonline.com/22-injured-as-sprinter-bus-overturns-at-sege-after-tyre-burst/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T05:45:17.000Z",
-      "summary": "About 22 people were injured in a road accident at Sege after a Sprinter bus suffered a tyre burst and overturned on Friday, October 09, 2026.",
-      "categories": [
-        "HP News 9",
-        "National",
-        "Accident",
-        "Sege"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/accident.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UN housing expert urges Ghana to strengthen Rent Control Department amid housing affordability concerns",
-      "link": "https://www.myjoyonline.com/un-housing-expert-urges-ghana-to-strengthen-rent-control-department-amid-housing-affordability-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T05:36:47.000Z",
-      "summary": "The United Nations (UN) Special Rapporteur on the right to adequate housing has advised Ghana to support its Rent Control Department with the requisite logistics to boost operations.",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Ghana",
-        "rent control department",
-        "UN"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-at-5.28.15-AM-1024x613.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Delta-BCI partnership reaches 166,000 people with breast cancer education",
-      "link": "https://www.myjoyonline.com/delta-bci-partnership-reaches-166000-people-with-breast-cancer-education/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T05:27:24.000Z",
-      "summary": "A decade-long partnership between Delta Air Lines and Breast Care International (BCI) has reached more than 166,000 people with breast cancer education in Ghana, with over 22,500 people…",
-      "categories": [
-        "Africa",
         "News",
-        "Breast cancer",
-        "Breast Care International",
-        "Delta Air Lines"
+        "Top Story",
+        "GAUA strike",
+        "school reopening",
+        "University of Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/BCI.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/University-of-Ghana-696x464-1.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Minority criticism of BRICS move disingenuous – Ablakwa",
-      "link": "https://www.graphic.com.gh/news/general-news/minority-criticism-of-brics-move-disingenuous-ablakwa.html",
+      "title": "Assemblies of God World Congress delegation calls on Foreign Affairs Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/assemblies-of-god-world-congress-delegation-calls-on-foreign-affairs-minister.html",
       "source": "Daily Graphic",
-      "published": "2026-10-10T19:54:50.000Z",
-      "summary": "The Minister of Foreign Affairs, Mr Samuel Okudzeto Ablakwa, has described as disingenuous and dishonest the Minority's criticism of the government's decision to join BRICS, revealing that…",
+      "published": "2026-10-11T13:10:44.000Z",
+      "summary": "A delegation from the Assemblies of God World Congress, led by the General Superintendent of Assemblies of God, Ghana, Reverend Stephen Wengam, has paid a courtesy call on the Minister for…",
       "categories": [
         "General News"
       ],
       "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bahass Foundation launches vocational skills training to support mental health recovery in Wa",
+      "link": "https://www.myjoyonline.com/bahass-foundation-launches-vocational-skills-training-to-support-mental-health-recovery-in-wa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T12:50:23.000Z",
+      "summary": "The Bahass Foundation has marked this year’s World Mental Health Day with the official launch of a vocational skills training initiative aimed at economically empowering recovering…",
+      "categories": [
+        "Regional",
+        "Bahass Foundation",
+        "skills training",
+        "World Mental Health Day"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1094-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP orders parliamentary aspirants and their supporters to suspend campaign activities",
+      "link": "https://www.myjoyonline.com/npp-orders-parliamentary-aspirants-and-their-supporters-to-suspend-campaign-activities/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T12:17:04.000Z",
+      "summary": "The New Patriotic Party (NPP) has directed all prospective parliamentary aspirants, their agents and supporters to immediately suspend campaign activities, warning that anyone who flouts…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Politics",
+        "Top Story",
+        "Campaign",
+        "New Patriotic Party (NPP)",
+        "parliamentary aspirants"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Justic-Frimpong-Koduah.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Techiman unites against child marriage: Joy Impact Makers Awardee leads charge on International Day of the Girl Child",
+      "link": "https://www.myjoyonline.com/techiman-unites-against-child-marriage-joy-impact-makers-awardee-leads-charge-on-international-day-of-the-girl-child/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T12:05:44.000Z",
+      "summary": "The Bamiri Community Center in Techiman came alive with energy and purpose as hundreds of schoolgirls, community leaders, and key stakeholders gathered to commemorate this year's…",
+      "categories": [
+        "Regional",
+        "Child marriage",
+        "International Day of the Girl Child",
+        "Joy Impact Makers Awardee",
+        "Techiman"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1089-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "University of Ghana postpones reopening date for 2026/2027 academic year sine die",
+      "link": "https://www.graphic.com.gh/news/education/university-of-ghana-postpones-reopening-date-sine-die.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-11T11:26:43.000Z",
+      "summary": "The University of Ghana has postponed the reopening date for the 2026/2027 academic year sine die. A new date will be communicated, according to a notice issued by the university and dated…",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/11/ug2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana Psychological Association calls for greater involvement of people with lived experience in mental health care",
+      "link": "https://www.myjoyonline.com/ghana-psychological-association-calls-for-greater-involvement-of-people-with-lived-experience-in-mental-health-care/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T10:58:46.000Z",
+      "summary": "The Ghana Psychological Association (GPA) has called for people with lived experience of mental health conditions to play a greater role in shaping mental health policies and services in…",
+      "categories": [
+        "Health",
+        "National",
+        "Ghana Psychological Association",
+        "Mental Health"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/2-17-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bechem to become chicken capital of Ghana – Mahama projects",
+      "link": "https://www.graphic.com.gh/news/general-news/bechem-to-become-chicken-capital-of-ghana-mahama-projects.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-11T10:55:41.000Z",
+      "summary": "President John Dramani Mahama has projected that when the Poultry and Meat Processing Factory at Bechem in the Ahafo Region becomes operational, it will make the town the chicken capital of…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/11/ahafo2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "US engaging Ghana to review rejected health compact agreement – Mahama",
+      "link": "https://www.graphic.com.gh/news/health/us-engaging-ghana-to-review-rejected-health-compact-agreement-mahama.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-11T10:49:59.000Z",
+      "summary": "The United States is engaging Ghana to review the health compact agreement that was previously rejected by the Ghana government, President John Dramani Mahama has disclosed.",
+      "categories": [
+        "Health"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/11/ahafo3.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ablakwa says Ghana could evacuate more citizens from South Africa if the situation worsens",
+      "link": "https://www.myjoyonline.com/ablakwa-says-ghana-could-evacuate-more-citizens-from-south-africa-if-the-situation-worsens/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T10:31:03.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has said that Ghana remains prepared to evacuate more of its citizens from South Africa should the security situation deteriorate,",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Top Story",
+        "Citizens",
+        "Ghana",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Samuel-Okudzeto-Ablakwa8.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Violence against girls must be tackled through individual responsibility – Gender advocate",
+      "link": "https://www.myjoyonline.com/violence-against-girls-must-be-tackled-through-individual-responsibility-gender-advocate/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T10:27:02.000Z",
+      "summary": "A gender advocate, Victoria Agyemang, is calling on individuals, families, communities and institutions to take personal responsibility in ending violence, discrimination and harmful…",
+      "categories": [
+        "National",
+        "Int’l Day of the Girl Child",
+        "Violence"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1088.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Northern Regional Minister Ali Adolf John says Ato Forson has 'performed wonders with Common Fund releases'",
+      "link": "https://www.graphic.com.gh/news/politics/northern-regional-minister-ali-adolf-john-says-ato-forson-has-performed-wonders-with-common-fund-releases.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-11T10:18:44.000Z",
+      "summary": "The Northern Regional Minister, Ali Adolf John, has praised the Minister of Finance, Dr. Cassiel Ato Forson for what he describes as a remarkable improvement in the release of the District…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/11/ali.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana’s BRICS bid must be guided by national interest – International Affairs Analyst",
+      "link": "https://www.myjoyonline.com/ghanas-brics-bid-must-be-guided-by-national-interest-international-affairs-analyst/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T10:14:10.000Z",
+      "summary": "International affairs analyst and legal researcher Prince Anuwar-Sadat Amadu has urged the government to ensure that Ghana’s bid to join BRICS is guided by national interests, economic…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "BRICS",
+        "Ghana",
+        "Prince Anuwar-Sadat Amadu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/One-2-939x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama inspects new CHPS Compounds in Ahafo Region",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-inspects-new-chps-compounds-in-ahafo-region.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-11T09:39:35.000Z",
+      "summary": "President John Dramani Mahama has inspected two newly built Community-Based Health Planning and Services compounds to kick off his #ResettingGhana tour of the Ahafo Region.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/PHOTO-2026-10-09-13-24-03.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Black Stars coach search extended to October 15",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-stars-coach-search-extended-to-october-15.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-11T09:00:20.000Z",
+      "summary": "The Ghana Football Association (GFA), in consultation with the Ministry of Sports and Recreation and the Black Stars Coach Search Committee, has extended the deadline for applications for…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/07/6tee.jpeg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "SSNIT to provide space, jobs for displaced La beach traders before Christmas",
+      "link": "https://www.graphic.com.gh/news/general-news/ssnit-to-provide-market-space-jobs-for-displaced-la-beach-traders-before-christmas.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T22:51:42.000Z",
+      "summary": "The Director-General of the Social Security and National Insurance Trust (SSNIT), Kwasi Afreh Biney has said his outfit was going to document traders displaced by the demolition of…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Feb/20/Biney.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana open for fresh evacuation of Ghanaians if South Africa situation worsens - Ablakwa",
+      "link": "https://www.graphic.com.gh/news/general-news/ablakwa-keeps-door-open-for-fresh-evacuation-of-ghanaians-if-south-africa-situation-worsens.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-10T22:30:17.000Z",
+      "summary": "Ghana has not ruled out evacuating more citizens from South Africa if the situation in the country deteriorates, the Minister of Foreign Affairs, Mr Samuel Okudzeto Ablakwa, has said. He…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/May/07/Okudzeto.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -187,78 +287,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Alfred Sakyi Inducted as Methodist Church Lay President",
-      "link": "https://www.graphic.com.gh/news/general-news/alfred-sakyi-inducted-as-methodist-church-lay-president.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T15:15:37.000Z",
-      "summary": "The newly inducted Lay President of the Methodist Church Ghana, Mr Alfred Sakyi, has pledged to promote youth entrepreneurship and economic empowerment through a church-backed programme…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama: You can still preach in buses, just not when moving",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-you-can-still-preach-in-buses-just-not-when-moving.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T13:08:37.000Z",
-      "summary": "President John Dramani Mahama has clarified the provision under the Road Traffic Regulations, 2026 (L.I. 2519), which prohibits preaching and hawking in moving public and commercial…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/jayemm.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "KNUST postpones re-opening for 2026/2027 academic year indefinitely",
-      "link": "https://www.graphic.com.gh/news/general-news/knust-postpones-re-opening-for-2026-2027-academic-year-indefinitely.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T12:55:24.000Z",
-      "summary": "The Kwame Nkrumah University of Science and Technology (KNUST) has postponed the re-opening of the university for the 2026/2027 academic year indefinitely, citing the ongoing strike action…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/jun/05/aaa.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana not seeking full BRICS membership, applying as Partner Country – Ablakwa",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-not-seeking-full-brics-membership-applying-as-partner-country-ablakwa.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T10:23:03.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has clarified that Ghana is not seeking full membership of BRICS, but intends to apply as a Partner Country.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/10/Abla.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GPRTU wants full TRAFFITECH-GH implementation to start in 2027",
-      "link": "https://www.graphic.com.gh/news/general-news/gprtu-wants-full-traffitech-gh-implementation-to-start-in-2027.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T10:02:42.000Z",
-      "summary": "The Ghana Private Road Transport Union has asked the police to postpone the full implementation of TRAFFITECH-GH to to 2027, citing concerns over inadequate preparation and public education…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/10/cctv.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GRA on alleged extortion by customs officers at Accra International Airport",
-      "link": "https://www.graphic.com.gh/news/general-news/gra-on-alleged-extortion-by-customs-officers-at-accra-international-airport.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T09:41:12.000Z",
-      "summary": "The Ghana Revenue Authority has clarified an allegation of extortion by Customs officers at the arrival hall of the Accra International Airport. According to the GRA a preliminary…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/mar/29/gragra.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "AFCON move to every four years under review by CAF",
       "link": "https://www.graphic.com.gh/sports/sports-news/afcon-move-to-every-four-years-under-review-by-caf.html",
       "source": "Graphic Sports",
@@ -269,18 +297,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/10/Senegal.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Upper East gets 120 SOCO project jobs",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-upper-east-gets-120-soco-project-jobs.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-10T08:52:58.000Z",
-      "summary": "The Gulf of Guinea Northern Regions Social Cohesion (SOCO) Project has created 382 employment opportunities for community facilitators, with the Upper East Region receiving the largest…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/10/facilitators.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "StarOil backs Rugby League’s Friday Night Footy",
@@ -428,18 +444,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/08/BADMINTON.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Nestlé, NBA partner to boost youth basketball development in Ghana and 20 other markets",
-      "link": "https://www.graphic.com.gh/sports/sports-news/nestle-nba-partner-to-boost-youth-basketball-development-in-ghana-and-20-other-markets.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-08T16:04:46.000Z",
-      "summary": "Nestlé and the National Basketball Association (NBA) have announced a new multi-year international marketing partnership that will make MILO, Nescau and Nesquik Official Partners of the…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/Milo.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
