@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-12T16:54:59.548Z",
+  "updated": "2026-10-12T23:23:31.790Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,153 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Trump says he is considering firing US ambassador to Greece",
+      "link": "https://www.myjoyonline.com/trump-says-he-is-considering-firing-us-ambassador-to-greece/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:40:00.000Z",
+      "summary": "US President ​Donald Trump ‌said on Monday ​he ​was considering firing ⁠US ​Ambassador ​to Greece Kimberly Guilfoyle.",
+      "categories": [
+        "International",
+        "Greece",
+        "Kimberly Guilfoyle",
+        "Trump administration"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1258-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man City bananas ‘brought fun back’, says Varadi",
+      "link": "https://www.myjoyonline.com/man-city-bananas-brought-fun-back-says-varadi/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:36:00.000Z",
+      "summary": "Former Manchester City striker Imre Varadi said it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield on Sunday and feels it \"brought a lot of fun back\".",
+      "categories": [
+        "Football",
+        "Bananas",
+        "Man City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1257.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
+      "link": "https://www.myjoyonline.com/meta-releases-muse-wonder-ai-models-to-challenge-anthropic-and-openai/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:27:00.000Z",
+      "summary": "Meta on Monday launched Muse Wonder and Muse Wonder Full, calling them its most capable AI models yet, as the social media firm looks to compete more aggressively with OpenAI and Anthropic.",
+      "categories": [
+        "Technology",
+        "Anthropic",
+        "Meta",
+        "Muse Wonder AI",
+        "OpenAI"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1011-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Daily Insight for CEOs: The CEO as Chief Decision Maker",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceo-as-chief-decision-maker/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:26:23.000Z",
+      "summary": "Decision-making is one of the CEO’s most important responsibilities. Every major decision about strategy, people, investment, operations, and risk influences the organization’s direction…",
+      "categories": [
+        "National",
+        "Opinion",
+        "CEOs",
+        "Daily Insight"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/CEOs_12-10_2026-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Burnham had formal meeting with Man City chair while mayor",
+      "link": "https://www.myjoyonline.com/burnham-had-formal-meeting-with-man-city-chair-while-mayor/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:19:50.000Z",
+      "summary": "Prime Minister Andy Burnham had one formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined…",
+      "categories": [
+        "Football",
+        "Andy Burnham",
+        "Man City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1135.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Is Ghana producing too many lawyers? What is the best lawyer-to-citizen ratio?",
+      "link": "https://www.myjoyonline.com/is-ghana-producing-too-many-lawyers-what-is-the-best-lawyer-to-citizen-ratio/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:17:16.000Z",
+      "summary": "On Friday, October 9, 2026, the General Legal Council of Ghana recorded the names of 1,568 individuals onto the roll of lawyers, marking the single largest number of individuals called to…",
+      "categories": [
+        "National",
+        "Opinion",
+        "General Legal Council",
+        "Ghana",
+        "Lawyer-to-Citizen Ratios",
+        "Lawyers",
+        "Richard Nii Amarh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Lawyers.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC sinking Ghana’s democracy with Emelia Agbenyo’s appointment – Miracles Aboagye",
+      "link": "https://www.myjoyonline.com/ndc-sinking-ghanas-democracy-with-emelia-agbenyos-appointment-miracles-aboagye/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:08:00.000Z",
+      "summary": "The Communications Director of the New Patriotic Party (NPP), Dennis Miracles Aboagye, has accused the National Democratic Congress (NDC) of undermining Ghana’s democracy over the…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Democracy",
+        "Emelia Agbenyo",
+        "Miracles Aboagye"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Screenshot-2025-07-12-115648-1024x636.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Seedorf back in football as Corinthians head coach",
+      "link": "https://www.myjoyonline.com/seedorf-back-in-football-as-corinthians-head-coach/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T21:55:00.000Z",
+      "summary": "Corinthians have appointed Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019.",
+      "categories": [
+        "Football",
+        "Clarence Seedorf",
+        "Corinthians"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1256.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Table Tennis: Ghana's number one seed James Marfo set to begin professional career in France",
+      "link": "https://www.graphic.com.gh/sports/sports-news/table-tennis-ghanas-number-one-seed-james-marfo-set-to-begin-professional-career-in-france.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-12T17:32:20.000Z",
+      "summary": "Ghana’s number one table tennis player and 2025 Sports Writers Association of Ghana (SWAG) Table Tennis Player of the Year, James Marfo, is set to begin his professional career in France…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/12/MARFO.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Interior Minister appeals to citizens to share information without excessive financial demands",
+      "link": "https://www.graphic.com.gh/news/general-news/interior-minister-appeals-to-citizens-to-share-information-without-excessive-financial-demands.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-12T17:16:46.000Z",
+      "summary": "The Minister for the Interior, Mr Mubarak Mohammed Muntaka, has appealed to Ghanaians to assist law enforcement agencies with credible intelligence without imposing excessive financial…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Asogli State hails GMTF as laudable healthcare initiative",
       "link": "https://www.graphic.com.gh/news/general-news/asogli-state-hails-gmtf-as-laudable-healthcare-initiative.html",
       "source": "Daily Graphic",
@@ -35,111 +182,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "link": "https://www.myjoyonline.com/six-ukrainian-energy-sites-hit-by-russia-since-trump-announced-ceasefire-zelensky-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:47:26.000Z",
-      "summary": "Russia struck six Ukrainian energy facilities hours after US President Donald Trump announced the two countries had agreed to an energy ceasefire, Volodymyr Zelensky has said.",
-      "categories": [
-        "International",
-        "Russia",
-        "Trump",
-        "Ukraine",
-        "Volodymyr Zelensky"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1219.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Haruna Iddrisu directs GTEC to prepare public universities for reopening by the weekend",
-      "link": "https://www.myjoyonline.com/haruna-iddrisu-directs-gtec-to-prepare-public-universities-for-reopening-by-the-weekend/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:47:19.000Z",
-      "summary": "Education Minister Haruna Iddrisu has directed the Ghana Tertiary Education Commission (GTEC) to ask public universities to announce their reopening dates towards the weekend, as the…",
-      "categories": [
-        "Education",
-        "National",
-        "Edcation minister",
-        "GAUA",
-        "Haruna Iddrisu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-174349.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Multimedia Group’s Raymond Nii Doodo Larbie called to Ghana Bar, seeks to combine HR practice with law",
-      "link": "https://www.myjoyonline.com/multimedia-groups-raymond-nii-doodo-larbie-called-to-ghana-bar-seeks-to-combine-hr-practice-with-law/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:43:43.000Z",
-      "summary": "Raymond Nii Doodo Larbie, the Human Resource (HR) Shared Services Manager at Multimedia Group Limited (MGL), has been called to the Ghana Bar after successfully completing his legal…",
-      "categories": [
-        "Features",
-        "National",
-        "Raymond Nii Doodo Larbie"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/2-20-683x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Credible elections are the cornerstone of democracy – New Deputy EC Chairperson",
-      "link": "https://www.myjoyonline.com/credible-elections-are-the-cornerstone-of-democracy-new-deputy-ec-chairperson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:41:01.000Z",
-      "summary": "Newly appointed Deputy Chairperson of the Electoral Commission (EC), Dr Joseph Kwaku Asamoah, has emphasised the importance of free, fair and credible elections to Ghana’s democratic…",
-      "categories": [
-        "National",
-        "Democracy",
-        "Elections",
-        "Joseph Asamoah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/credible-elections-conerstone-of-2.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama charges new EC deputies to put national interest above political loyalties",
-      "link": "https://www.myjoyonline.com/mahama-charges-new-ec-deputies-to-put-national-interest-above-political-loyalties/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:35:59.000Z",
-      "summary": "President John Dramani Mahama has charged newly sworn-in Deputy Chairpersons of the Electoral Commission (EC), Emelia Afi Agbenyo and Dr Joseph Kwaku Asamoah, to prioritise the national…",
-      "categories": [
-        "National",
-        "EC",
-        "Mahama",
-        "Political parties"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-853-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama urges EC to strengthen electoral technology, inclusion and professionalism",
-      "link": "https://www.myjoyonline.com/mahama-urges-ec-to-strengthen-electoral-technology-inclusion-and-professionalism/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:35:27.000Z",
-      "summary": "President John Dramani Mahama has urged the Electoral Commission (EC) to strengthen professionalism, improve the use of technology and make Ghana’s electoral processes more inclusive and…",
-      "categories": [
-        "National",
-        "EC",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/President-John-Dramani-Mahama-e1781514218827.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "link": "https://www.myjoyonline.com/fridges-in-french-supermarkets-hit-by-cyber-attack/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:35:11.000Z",
-      "summary": "Hundreds of French supermarkets have been hit by a cyber attack that caused their fridges and freezers to heat up, spoiling fresh and frozen food estimated to be worth millions of euros.",
-      "categories": [
-        "International",
-        "Cyber",
-        "French",
-        "Fridges"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1218.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Sports Editorial: World Cup visa scandal demands full, independent probe",
@@ -154,25 +196,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Evangelism or collection in God’s name? The plight of Ghana’s captive passengers",
-      "link": "https://www.myjoyonline.com/evangelism-or-collection-in-gods-name-the-plight-of-ghanas-captive-passengers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T16:31:22.000Z",
-      "summary": "1. Introduction: A longstanding culture of impunity For too long, passengers on Ghana’s commercial vehicles have been expected to tolerate unsolicited preaching, endure fundraising appeals…",
-      "categories": [
-        "HP Opinion 2",
-        "National",
-        "Opinion",
-        "Dr Jacob Naabong Dapilah",
-        "Evangelism",
-        "Ghana",
-        "Preaching"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/10/1-79-e1729183566450.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man fatally attacked by tiger at UK wildlife park told animal to 'stop being naughty'",
+      "title": "VIDEO: Man fatally attacked by tiger at UK wildlife park told animal to 'stop being naughty'",
       "link": "https://www.graphic.com.gh/news/general-news/man-dies-after-jumping-into-tiger-enclosure-at-yorkshire-zoo.html",
       "source": "Daily Graphic",
       "published": "2026-10-12T16:29:06.000Z",
@@ -284,15 +308,15 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "2 new deputy commissioners of Electoral Commission to be sworn into office today",
+      "title": "2 new deputy chairpersons of Electoral Commission sworn into office [VIDEO]",
       "link": "https://www.graphic.com.gh/news/politics/2-new-deputy-commissioners-of-electoral-commission-to-be-sworn-into-office-today.html",
       "source": "Daily Graphic",
       "published": "2026-10-12T14:56:05.000Z",
-      "summary": "Two new appointed deputy commissioners at the Electoral Commission, Emelia Afi Agbenyo and Joseph Kwaku Asamoah are to be sworn into office today by President John Dramani Mahama, reports…",
+      "summary": "Two new appointed deputy chairpersons of the Electoral Commission, Emelia Afi Agbenyo and Joseph Kwaku Asamoah have been sworn into office by President John Dramani Mahama, reports Graphic…",
       "categories": [
         "Politics"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/11/ec.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/ec3.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -396,18 +420,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Messi scores brace after international retirement",
-      "link": "https://www.graphic.com.gh/sports/sports-news/messi-scores-brace-after-international-retirement.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-12T14:07:44.000Z",
-      "summary": "Lionel Messi scored twice in his first match since retiring from international football in an emphatic win for Inter Miami against DC United. Just four days after scoring in his final match…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/12/MESSI.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
       "title": "DVLA 'DP number issuance' revenue rises to GH¢27 million after digital sticker rollout",
       "link": "https://www.graphic.com.gh/news/general-news/dvla-dp-revenue-rises-to-ghc27-million-after-digital-sticker-rollout.html",
       "source": "Daily Graphic",
@@ -429,18 +441,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "DVLA introduces simulator testing system for driver's licence applicants",
-      "link": "https://www.graphic.com.gh/news/general-news/dvla-introduces-simulator-testing-system-for-drivers-licence-applicants.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T12:58:36.000Z",
-      "summary": "The Driver and Vehicle Licensing Authority has introduced a simulator testing system to enhance the driver's licence testing regime, testing prospective applicants in a virtual environment…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/January/26/Kotey.jpg",
       "site": "https://www.graphic.com.gh/"
     }
   ]
