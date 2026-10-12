@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-11T22:07:46.817Z",
-  "worldAt": "2026-10-11T22:07:46.814Z",
+  "updated": "2026-10-12T01:17:50.492Z",
+  "worldAt": "2026-10-12T01:17:50.490Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -29,12 +29,12 @@ window.GDC_NEWS = {
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: failed (The operation was aborted due to timeout)",
-    "World · BBC News: 28 stories",
+    "World · BBC News: 26 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 30 stories",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 24 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 7 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 31 African stories held"
   ],
   "items": [
@@ -1099,12 +1099,49 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
+      "link": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
+      "source": "France 24",
+      "published": "2026-10-12T01:01:39.000Z",
+      "summary": "A fresh Houthi strike hit Riyadh’s King Khalid International Airport on Sunday, killing a Pakistani resident and wounding 11, Saudi authorities said. The attack followed a strike that…",
+      "image": "https://s.france24.com/media/display/c294b8ba-c5ae-11f1-9976-77317c09f325/w:1024/p:16x9/2026-10-11T133451Z-158209492-RC211OAHP5D3-RTRMADP-3-IRAN-CRISIS-SAUDI-AIRPORT.jpg"
+    },
+    {
+      "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+      "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T00:39:08.000Z",
+      "summary": "Tehran offers to facilitate talks between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom."
+    },
+    {
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T22:45:58.000Z",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
+      "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T00:21:46.000Z",
+      "summary": "Crews rally for massive cleanup effort in Florida and Alabama as Isaias leaves hundreds of thousands in the dark."
+    },
+    {
       "title": "Slovenia rejects bill in blow to PM Janez Jansa’s reform agenda",
       "link": "https://www.france24.com/en/europe/20261011-slovenia-bill-pm-janez-jansa-reform",
       "source": "France 24",
       "published": "2026-10-11T22:01:13.000Z",
       "summary": "Slovenians rejected a bill expanding parliamentary inquiry powers in a referendum Sunday, dealing a blow to nationalist Prime Minister Janez Jansa. With 99 percent of votes counted, 51…",
       "image": "https://s.france24.com/media/display/98813ac8-ac0c-11f1-a9b8-005056bfb2b6/w:1024/p:16x9/f7359e93a9fdc8275228248f1acc565e3d957d05.jpg"
+    },
+    {
+      "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+      "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T00:14:46.000Z",
+      "summary": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus."
     },
     {
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
@@ -1115,6 +1152,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg"
     },
     {
+      "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T00:00:00.000Z",
+      "summary": "Iran says US has accepted some of its peace terms but calls the reply 'inadequate', as Riyadh airport is hit again."
+    },
+    {
       "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
       "link": "https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz",
       "source": "NPR World",
@@ -1122,12 +1166,11 @@ window.GDC_NEWS = {
       "summary": "As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing."
     },
     {
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T21:30:11.000Z",
-      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg"
+      "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T23:20:46.000Z",
+      "summary": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport."
     },
     {
       "title": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
@@ -1135,6 +1178,27 @@ window.GDC_NEWS = {
       "source": "NPR World",
       "published": "2026-10-11T21:16:35.000Z",
       "summary": "Madi Bolanos and Anna Sussman's new podcast We Are Jane Doe, by KQED and Snap Studios, investigates rampant sex abuse at the Central California Women's Facility in Chowchilla, Ca."
+    },
+    {
+      "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+      "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T23:17:05.000Z",
+      "summary": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence."
+    },
+    {
+      "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
+      "source": "NPR World",
+      "published": "2026-10-11T21:16:10.000Z",
+      "summary": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine."
+    },
+    {
+      "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T22:49:23.000Z",
+      "summary": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine."
     },
     {
       "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
@@ -1145,11 +1209,19 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba0/live/1bc53450-c5b4-11f1-a838-01c3fd7e5e7d.jpg"
     },
     {
-      "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
-      "link": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
-      "source": "NPR World",
-      "published": "2026-10-11T21:16:10.000Z",
-      "summary": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine."
+      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T22:24:07.000Z",
+      "summary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday."
+    },
+    {
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-11T20:55:02.000Z",
+      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg"
     },
     {
       "title": "Waves crash into homes as excavators try to protect California properties",
@@ -1318,83 +1390,16 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-11T18:47:57.000Z",
       "summary": "The US-Israel war on Iran and its inflationary impact will dominate the agenda."
-    },
-    {
-      "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
-      "link": "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
-      "source": "France 24",
-      "published": "2026-10-11T16:07:13.000Z",
-      "summary": "The Saudi-led coalition in Yemen said an \"unidentified projectile\" had targeted Riyadh's international airport on Sunday, causing a fire. The incident came hours after the Iran-backed…",
-      "image": "https://s.france24.com/media/display/92aef5a0-c588-11f1-95dd-53993c5f1f18/w:1024/p:16x9/EN-20261011-170412-170845-CS.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T18:25:42.000Z",
-      "summary": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza"
-    },
-    {
-      "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
-      "link": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky",
-      "source": "France 24",
-      "published": "2026-10-11T16:04:20.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky told the Axios digital news outlet on Sunday that he was surprised by US counterpart Donald Trump's announcement of a Ukraine-Russia \"energy…",
-      "image": "https://s.france24.com/media/display/141f26b0-c588-11f1-9b63-e362370cce2e/w:1024/p:16x9/EN-20261011-170054-170410-CS-1.jpg"
-    },
-    {
-      "title": "Lebanon’s first electric train hopes to revive railway system",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T18:00:51.000Z",
-      "summary": "A new solar-powered model train has returned to a section of Lebanon’s historic railway."
-    },
-    {
-      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T15:32:32.000Z",
-      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c45/live/701466b0-c565-11f1-bd33-db1f7eaf2b30.jpg"
-    },
-    {
-      "title": "Liverpool fans give Manchester City a fiery welcome at Anfield",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T17:52:27.000Z",
-      "summary": "'Cheats cheats cheats' This is how Liverpool fans greeted Manchester City as they arrived at Anfield"
-    },
-    {
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-11T15:32:23.000Z",
-      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0b/live/ba857dc0-c58c-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T17:39:26.000Z",
-      "summary": "Erling Haaland, Jeremy Doku and Rayan Cherki score second half goals after Ryan Gravenberch sent off."
-    },
-    {
-      "title": "At least 139 people dead after migrant boat capsizes off Djibouti",
-      "link": "http://www.africanews.com/2026/10/11/at-least-139-people-dead-after-migrant-boat-capsizes-off-djibouti/",
-      "source": "Africanews",
-      "published": "2026-10-11T15:19:39.000Z",
-      "summary": "Fifteen children are among the dead, with 82 people, all Ethiopians, having survived while another 84 people are still missing."
-    },
-    {
-      "title": "Is the Yemen war entering a new phase?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T17:30:55.000Z",
-      "summary": "Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday's attack on King Khalid Inter"
     }
   ],
   "africa": [
+    {
+      "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+      "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T00:14:46.000Z",
+      "summary": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus."
+    },
     {
       "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
       "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
@@ -1608,13 +1613,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-10T13:52:55.000Z",
       "summary": "This follows the death in Nairobi on Monday of a Kenyan man who had travelled home from DR Congo through Uganda."
-    },
-    {
-      "title": "Former DR Congo president says the country is 'in peril'",
-      "link": "http://www.africanews.com/2026/10/10/former-dr-congo-president-says-the-country-is-in-peril/",
-      "source": "Africanews",
-      "published": "2026-10-10T12:46:46.000Z",
-      "summary": "Joseph Kabilla said the situation in the country has ‘steadily worsened’ and criticised the government's failure to engage in initiatives to restore peace."
     }
   ]
 };

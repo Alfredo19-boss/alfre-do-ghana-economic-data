@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-11T22:07:59.766Z",
+  "updated": "2026-10-12T01:18:05.776Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Glasner suffers loss on Selhurst return as Palace beat Forest",
+      "link": "https://www.myjoyonline.com/glasner-suffers-loss-on-selhurst-return-as-palace-beat-forest/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T23:47:13.000Z",
+      "summary": "Oliver Glasner endured a frustrating return to Crystal Palace as his Nottingham Forest side let slip an early lead to lose to the Eagles. After guiding Palace to FA Cup and Conference…",
+      "categories": [
+        "Football",
+        "Crystal Palace",
+        "Daichi Kamada",
+        "Oliver Glasner"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Kamada-1024x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "WAFU B U17: ‘We won but I expected more from my boys’ – Kassim Ocansey",
+      "link": "https://www.myjoyonline.com/wafu-b-u17-we-won-but-i-expected-more-from-my-boys-kassim-ocansey/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T23:42:38.000Z",
+      "summary": "Ghana secured all three points in the Group A encounter, with David Kwarteng scoring the decisive goal on the 7th minute in the game. However, despite the victory, Ocansey believes his…",
+      "categories": [
+        "Football",
+        "2026 WAFU Zone B U17 Championship",
+        "Kassim Ocansey"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Kassim-Ocansey-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man City cruise to statement win over 10-man Liverpool",
+      "link": "https://www.myjoyonline.com/man-city-cruise-to-statement-win-over-10-man-liverpool/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-11T23:33:18.000Z",
+      "summary": "Enzo Maresca's side restored their three-point lead at the top of the table in emphatic fashion - but there remains the sense that this is a season in limbo as City await their punishment…",
+      "categories": [
+        "Football",
+        "Liverpool",
+        "Manchester City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Cherki-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Be careful with cross-border lending, foreign currency exposures – BoG to financial institutions",
       "link": "https://www.myjoyonline.com/be-careful-with-cross-border-lending-foreign-currency-exposures-bog-to-financial-institutions/",
@@ -120,58 +163,6 @@ window.GDC_PAPERS = {
         "Ministry of Trade"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-05-at-9.45.13-AM-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "T-bills auction: Demand improves as government exceeds target by about 76%; interest rates soften",
-      "link": "https://www.myjoyonline.com/t-bills-auction-demand-improves-as-government-exceeds-target-by-about-76-interest-rates-soften/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T20:05:09.000Z",
-      "summary": "The Treasury, however, accepted GH¢4.40 billion of the total bids as against a target of GH¢2.86 billion.",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "182-day",
-        "364-day",
-        "91-day",
-        "BoG",
-        "Interest rates",
-        "Ministry of Finance",
-        "T-Bills"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ziope undertakes initiative to build a technologically inclined community, commissions self-help ICT lab",
-      "link": "https://www.myjoyonline.com/ziope-undertakes-initiative-to-build-a-technologically-inclined-community-commissions-self-help-ict-lab/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T19:40:35.000Z",
-      "summary": "The Chiefs and people of Ziope in the Agotime Ziope District of the Volta Region have undertaken an initiative aimed at building a technologically inclined community. The initiative saw the…",
-      "categories": [
-        "National",
-        "Regional",
-        "Agotime Ziope District",
-        "Ziope"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ziope-undertakes-initiative-to-build-a-technologically-inclined-community-commissions-self-help-ICT-lab-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ECG announces power outage in parts of Tema, Central Region due to network fault, maintenance",
-      "link": "https://www.myjoyonline.com/ecg-announces-power-outage-in-parts-of-tema-central-region-due-to-network-fault-maintenance/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-11T19:13:33.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) has announced a power outage affecting parts of the Tema Region due to a fault in its network, while several communities in the Central Region will…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "ECG",
-        "Maintenance",
-        "Power"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ECG.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
