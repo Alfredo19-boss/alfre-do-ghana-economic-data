@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-13T03:41:37.284Z",
+  "updated": "2026-10-13T11:07:37.550Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,128 +25,336 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "What Is Wrong With Us: We queue for the Colosseum while our own Castles crumble",
-      "link": "https://www.myjoyonline.com/what-is-wrong-with-us-we-queue-for-the-colosseum-while-our-own-castles-crumble/",
+      "title": "Excessive borrowing ‘cracked’ Ghana’s economy under Akufo-Addo – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/excessive-borrowing-cracked-ghanas-economy-under-akufo-addo-haruna-iddrisu/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T03:17:45.000Z",
-      "summary": "From Elmina to Robben Island, Africa holds some of humanity’s most precious history. The tourism money is real. The uncomfortable question is how much of it ever reaches the monuments that…",
+      "published": "2026-10-13T10:57:00.000Z",
+      "summary": "Education Minister Haruna Iddrisu has blamed excessive borrowing under former President Nana Akufo-Addo’s administration for Ghana’s economic difficulties.",
       "categories": [
-        "Features",
+        "In Focus",
         "National",
         "News",
-        "Opinion",
-        "Castles",
-        "Colosseum",
-        "Douglas Boateng",
-        "What is wrong with us"
+        "Haruna Iddrisu",
+        "IMF",
+        "Nana Akufo-Addo"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Douglas-Boateng.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-668-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Visa scandal: Pius Hadzide questions NSA secretariat and appointment outside authority’s structure",
-      "link": "https://www.myjoyonline.com/visa-scandal-pius-hadzide-questions-nsa-secretariat-and-appointment-outside-authoritys-structure/",
+      "title": "NPP’s silence on economic indicators suggests Mahama is doing better – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/npps-silence-on-economic-indicators-suggests-mahama-is-doing-better-haruna-iddrisu/",
       "source": "MyJoyOnline",
-      "published": "2026-10-12T23:18:00.000Z",
-      "summary": "Former Deputy Sports Minister Pius Enam Hadzide has questioned the establishment of a secretariat at the National Sports Authority (NSA).",
+      "published": "2026-10-13T10:43:24.000Z",
+      "summary": "Education Minister Haruna Iddrisu has questioned whether the New Patriotic Party’s limited discussion of key economic indicators at its recent conference amounted to an acknowledgement that…",
       "categories": [
-        "Football",
+        "HP News 2",
         "National",
-        "Pius Enam Hadzide",
-        "World Cup visa scandal"
+        "News",
+        "Politics",
+        "Economic indicators",
+        "Haruna Iddrisu",
+        "Mahama",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-anatomy-of-a-visa-scandal-we-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1297.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Pius Hadzide challenges scandal label on 2018 Australia visa affair",
-      "link": "https://www.myjoyonline.com/pius-hadzide-challenges-scandal-label-on-2018-australia-visa-affair/",
+      "title": "GoldBod must be more accountable to Ghanaians – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/goldbod-must-be-more-accountable-to-ghanaians-haruna-iddrisu/",
       "source": "MyJoyOnline",
-      "published": "2026-10-12T22:58:00.000Z",
-      "summary": "Former Deputy Sports Minister Pius Enam Hadzide has challenged the description of the 2018 Australia visa affair as a scandal. He says no one has publicly identified him as the recipient of…",
+      "published": "2026-10-13T10:28:44.000Z",
+      "summary": "Education Minister Haruna Iddrisu has called for stronger accountability at the Ghana Gold Board (GoldBod), citing the scale of funds involved in its operations and the need to address…",
       "categories": [
         "National",
-        "Other Sports",
+        "News",
+        "Goldbod",
+        "Haruna Iddrisu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-2370-1024x682.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Affi Agbenyo’s EC appointment is constitutionally appropriate, but politically, people have the right to remind us – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/affi-agbenyos-ec-appointment-is-constitutionally-appropriate-but-politically-people-have-the-right-to-remind-us-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T10:17:10.000Z",
+      "summary": "Tamale South Member of Parliament, Haruna Iddrisu, has stated that President John Mahama’s appointment of Emelia Affi Agbenyo as one of the two new Deputy Chairpersons of the Electoral…",
+      "categories": [
+        "HP News 1",
+        "News",
+        "Affi Agbenyo",
+        "Electoral Commission",
+        "Haruna Iddrisu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/haruna-iddrisu-weighs-in-on-the-.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rwanda to host F1's first race in Africa since 1993",
+      "link": "https://www.graphic.com.gh/sports/sports-news/rwanda-to-host-f1s-first-race-in-africa-since-1993.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-13T10:16:47.000Z",
+      "summary": "Rwanda has signed a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\". The event - to be called the African Grand Prix - will be held on a new…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/F1.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Accra Mall brings Soulful Weekend Vibes to October with Live R&B and Jazz",
+      "link": "https://www.myjoyonline.com/accra-mall-brings-soulful-weekend-vibes-to-october-with-live-rb-and-jazz/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T10:05:00.000Z",
+      "summary": "Saturday afternoons in Accra have a mood of their own. After a long week, many people want to get out of the house, meet friends, or enjoy a good meal without the rush of a crowded party or…",
+      "categories": [
+        "Events",
+        "Music",
+        "News",
+        "Soulful Weekend Vibes"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1305-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education is critical to Ghana’s future and development – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/education-is-critical-to-ghanas-future-and-development-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T09:58:28.000Z",
+      "summary": "Education Minister Haruna Iddrisu has underscored the importance of education to Ghana’s development, describing a child’s entry into school as a defining moment in securing their future.",
+      "categories": [
+        "Education",
+        "HP News 4",
+        "Haruna Iddirisu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Haruna-Iddrisu-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GIPA takes investment drive to north ahead of summit",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gipa-takes-investment-drive-to-north-ahead-of-summit.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:31:24.000Z",
+      "summary": "The Ghana Investment Promotion Authority (GIPA) has begun a week-long strategic roadshow across the northern part of the country to connect businesses with investment-ready projects…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/Simon.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Celebrating Legal Aid Week: Commission takes services to markets",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-celebrating-legal-aid-week-commission-takes-services-to-markets.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:27:30.000Z",
+      "summary": "The Legal Aid Commission is to pilot a programme at selected markets and lorry stations to bring legal services closer to traders, commercial drivers and other vulnerable persons who maybe…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/Edmund.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Who’s Emelia Affi Agbenyo, the 43-year-old newly sworn-in Deputy EC Chair?",
+      "link": "https://www.myjoyonline.com/whos-emelia-affi-agbenyo-the-43-year-old-newly-sworn-in-deputy-ec-chair/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T09:25:15.000Z",
+      "summary": "The swearing-in of 43-year-old Emelia Affi Agbenyo as one of the two new Deputy Chairpersons of the Electoral Commission has stoked controversy following her affiliation with the incumbent…",
+      "categories": [
+        "National",
+        "News",
         "Top Story",
-        "2018 Australia visa scandal",
-        "Pius Hadzide"
+        "Affi Agbenyo",
+        "Deputy EC Chair"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-anatomy-of-a-visa-scandal-we.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Affi-Agbenyo-e1791883543161.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Trump says he is considering firing US ambassador to Greece",
-      "link": "https://www.myjoyonline.com/trump-says-he-is-considering-firing-us-ambassador-to-greece/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T22:40:00.000Z",
-      "summary": "US President ​Donald Trump ‌said on Monday ​he ​was considering firing ⁠US ​Ambassador ​to Greece Kimberly Guilfoyle.",
+      "title": "The new DVLA number plates will now be rolled out nationwide in 2027 after pilot",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dvla-to-roll-out-new-number-plates-next-year.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:24:37.000Z",
+      "summary": "The Driver and Vehicle Licensing Authority (DVLA) has completed the concept and design of new Radio Frequency Identification (RFID)-enabled number plates, with a nationwide rollout…",
       "categories": [
-        "International",
-        "Greece",
-        "Kimberly Guilfoyle",
-        "Trump administration"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1258-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/dvla.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Man City bananas ‘brought fun back’, says Varadi",
-      "link": "https://www.myjoyonline.com/man-city-bananas-brought-fun-back-says-varadi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T22:36:00.000Z",
-      "summary": "Former Manchester City striker Imre Varadi said it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield on Sunday and feels it \"brought a lot of fun back\".",
+      "title": "Permanent engineering solution key to end devastating tidal waves - Ada East DCE tells Local Govt C’ttee",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-permanent-engineering-solution-key-to-end-devastating-tidal-waves-ada-east-dce-tells-local-govt-cttee.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:16:06.000Z",
+      "summary": "The Ada East District Assembly in the Greater Accra Region has admitted that the recurring devastation caused by tidal waves along the district’s coastline cannot be addressed through…",
       "categories": [
-        "Football",
-        "Bananas",
-        "Man City"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1257.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/compounds.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
-      "link": "https://www.myjoyonline.com/meta-releases-muse-wonder-ai-models-to-challenge-anthropic-and-openai/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T22:27:00.000Z",
-      "summary": "Meta on Monday launched Muse Wonder and Muse Wonder Full, calling them its most capable AI models yet, as the social media firm looks to compete more aggressively with OpenAI and Anthropic.",
+      "title": "Ziope builds ICT centre, mechanised borehole through self-help",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ziope-builds-ict-centre-mechanised-borehole-through-self-help.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:13:11.000Z",
+      "summary": "The people of Ziope in the Agotime-Ziope District in the Volta Region have built an ITC centre which has 40 desk-top computers and a 24-hour internet connection for the Ziope D.A. JHS at a…",
       "categories": [
-        "Technology",
-        "Anthropic",
-        "Meta",
-        "Muse Wonder AI",
-        "OpenAI"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1011-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/Mawutor.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Daily Insight for CEOs: The CEO as Chief Decision Maker",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceo-as-chief-decision-maker/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T22:26:23.000Z",
-      "summary": "Decision-making is one of the CEO’s most important responsibilities. Every major decision about strategy, people, investment, operations, and risk influences the organization’s direction…",
+      "title": "Govt'll honour agreement with teacher unions - Education Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govtll-honour-agreement-with-teacher-unions-education-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:10:48.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, yesterday (Monday) gave a firm assurance that the government will honour its part of the agreement with the pre-tertiary teacher unions in the…",
       "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/Iddrisu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "87-year-old jailed 20 years for defiling 9-year-old girl at Ofankor in Accra",
+      "link": "https://www.graphic.com.gh/news/general-news/an-87-year-old-man-yaw-gahornu-has-been-sentenced-to-20-years-imprisonment-for-defiling-a-nine-year-old-girl-at-ofankor-in-accra.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:08:28.000Z",
+      "summary": "An 87-year-old man, Yaw Gahornu, has been sentenced to 20 years’ imprisonment with hard labour for defiling a nine-year-old girl at Ofankor in Greater Accra.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/rapesuspect.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "50th anniversary celebration: St John the Baptist Parish Akan society supports seminarians",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-50th-anniversary-celebration-st-john-the-baptist-parish-akan-society-supports-seminarians.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T09:08:03.000Z",
+      "summary": "The Akan society of the St John the Baptist Parish at Odorkor-Tipper, Accra, has donated food and non-food items worth GH₵10,000 to the St Paul’s Seminary, Sowutuom, Accra, as part of its…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/13/Oppong.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Haruna Iddrisu calls for limits on annual university accommodation fee increases",
+      "link": "https://www.myjoyonline.com/haruna-iddrisu-calls-for-limits-on-annual-university-accommodation-fee-increases/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T08:49:05.000Z",
+      "summary": "Education Minister Haruna Iddrisu has proposed a framework to regulate annual increases in accommodation charges at public universities, suggesting that adjustments could be guided by…",
+      "categories": [
+        "HP News 8",
         "National",
-        "Opinion",
-        "CEOs",
-        "Daily Insight"
+        "Haruna Iddrisu",
+        "public workers",
+        "Rent Control"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/CEOs_12-10_2026-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/HNwa5mxWkAA8FkY.jpg-e1784805701248-1024x731.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Burnham had formal meeting with Man City chair while mayor",
-      "link": "https://www.myjoyonline.com/burnham-had-formal-meeting-with-man-city-chair-while-mayor/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T22:19:50.000Z",
-      "summary": "Prime Minister Andy Burnham had one formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined…",
+      "title": "Mental Health Alliance demands action on disability inclusion",
+      "link": "https://ghanaiantimes.com.gh/mental-health-alliance-demands-action-on-disability-inclusion/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:43:59.000Z",
+      "summary": "THE Ghana Alliance for Mental Health and Development, also known as the Mental Health Alliance, has called on the government, development partners, civil society organisations and the…",
       "categories": [
-        "Football",
-        "Andy Burnham",
-        "Man City"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1135.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Mental-Health-Alliance-demands-action-pixxxx-1024x557.png",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gov’t backs NDU with $25m seed funding",
+      "link": "https://ghanaiantimes.com.gh/govt-backs-ndu-with-25m-seed-funding/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:41:49.000Z",
+      "summary": "THE Minister for Defence, Mr Kenneth Gilbert Adjei, has charged the 19-member Governing Council of the National Defence University (NDU), Ghana, to uphold academic excellence, integrity and…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Retain skilled scientists to boost nuclear capacity",
+      "link": "https://ghanaiantimes.com.gh/retain-skilled-scientists-to-boost-nuclear-capacity/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:38:15.000Z",
+      "summary": "THE Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has called for measures to retain highly skilled scientists in Ghana to strengthen the country’s capacity…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Central Region stakeholders assess national security threats",
+      "link": "https://ghanaiantimes.com.gh/central-region-stakeholders-assess-national-security-threats/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:36:08.000Z",
+      "summary": "THE National Security Council Secretariat has held a one-day regional stakeholder engagement in Cape Coast in the Central Region as part of efforts to review the 2020 National Security…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Queens arrive in Takoradi for today’s Olympic qualifier",
+      "link": "https://ghanaiantimes.com.gh/black-queens-arrive-in-takoradi-for-todays-olympic-qualifier/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:33:44.000Z",
+      "summary": "The Black Queens have arrived in Sekondi-Takoradi to continue preparations for the second leg of their Women’s Olympic football tournament qualifiers against Mauritius. The team touched…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Hearts attack must improve – Kapor",
+      "link": "https://ghanaiantimes.com.gh/hearts-attack-must-improve-kapor/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:32:20.000Z",
+      "summary": "The Head Coach of Accra Hearts of Oak, Nebojša Kapor, says his side could have won Sunday’s Ghana Premier League (GPL) game against Port City FC by a wider margin if they had taken the…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "WAFU B U17: Kassim Mingle asks for more as Black Starlets face Benin today",
+      "link": "https://ghanaiantimes.com.gh/wafu-b-u17-kassim-mingle-asks-for-more-as-black-starlets-face-benin-today/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:29:58.000Z",
+      "summary": "Ghana’s U-17 team, the Black Starlets would face the Junior Squirrels of Benin in their second group game of the 2026 WAFU Zone B U17 Championship ongoing in Ouagadougou, Burkina Faso. The…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Seedorf joins Corinthians",
+      "link": "https://ghanaiantimes.com.gh/seedorf-joins-corinthians/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-13T08:26:13.000Z",
+      "summary": "Corinthians hired Clarence Seedorf on Sunday for the Netherlands playing great’s first coaching job since 2019, and a relegation fight in Brazil’s top tier. The Brazilian club said in…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Table Tennis: Ghana's number one seed James Marfo set to begin professional career in France",
@@ -161,30 +369,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Interior Minister appeals to citizens to share information without excessive financial demands",
-      "link": "https://www.graphic.com.gh/news/general-news/interior-minister-appeals-to-citizens-to-share-information-without-excessive-financial-demands.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T17:16:46.000Z",
-      "summary": "The Minister for the Interior, Mr Mubarak Mohammed Muntaka, has appealed to Ghanaians to assist law enforcement agencies with credible intelligence without imposing excessive financial…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Asogli State hails GMTF as laudable healthcare initiative",
-      "link": "https://www.graphic.com.gh/news/general-news/asogli-state-hails-gmtf-as-laudable-healthcare-initiative.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T16:49:28.000Z",
-      "summary": "The Asogli State has described the Ghana Medical Trust Fund (GMTF), popularly known as Mahama Cares, as a laudable initiative with the potential to bridge gaps in the National Health…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Sports Editorial: World Cup visa scandal demands full, independent probe",
       "link": "https://www.graphic.com.gh/sports/sports-news/sports-editorial-world-cup-visa-scandal-demands-full-independent-probe.html",
       "source": "Graphic Sports",
@@ -197,18 +381,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "VIDEO: Man fatally attacked by tiger at UK wildlife park told animal to 'stop being naughty'",
-      "link": "https://www.graphic.com.gh/news/general-news/man-dies-after-jumping-into-tiger-enclosure-at-yorkshire-zoo.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T16:29:06.000Z",
-      "summary": "A man in his 20s died after climbing into the Amur tiger enclosure at Yorkshire Wildlife Park near Doncaster in Northern England on Saturday afternoon, October 10, 2026.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/11/tiger1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Ghana’s lack of quality playing pitches a major concern – Hearts coach Kapor",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghanas-lack-of-quality-playing-pitches-a-major-concern-hearts-coach-kapor.html",
       "source": "Graphic Sports",
@@ -219,44 +391,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/12/KAPOR.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "US Trafficking Report: Ghana's Tier 1 ranking welcome, but more must be done – Challenging Heights",
-      "link": "https://www.graphic.com.gh/news/general-news/us-trafficking-report-ghanas-tier-1-ranking-welcome-but-more-must-be-done-challenging-heights.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T15:41:52.000Z",
-      "summary": "Challenging Heights has welcomed Ghana's elevation to Tier 1 in the United States Department of State's 2026 Trafficking in Persons Report, describing it as an important milestone while…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/ch26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP directs prospective parliamentary aspirants to stop campaign activities",
-      "link": "https://ghanaiantimes.com.gh/npp-directs-prospective-parliamentary-aspirants-to-stop-campaign-activities/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T15:08:19.000Z",
-      "summary": "The New Patriotic Party (NPP) has directed all prospective parliamentary aspirants to immediately stop their campaign activities until the party announces official guidelines for its…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Education ministry calls urgent meeting to resolve GAUA strike",
-      "link": "https://ghanaiantimes.com.gh/education-ministry-calls-urgent-meeting-to-resolve-gaua-strike/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T15:06:46.000Z",
-      "summary": "The Ministry of Education has invited the leadership of the Ghana Association of University Administrators (GAUA) and the Ghana Tertiary Education Commission (GTEC) to an urgent meeting to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Black Bombers outpunch Detroit Golden Gloves as African championship tests loom",
@@ -283,108 +417,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Ghana deserves commendation for evacuating 1,964 citizens from South Africa- Ablakwa",
-      "link": "https://ghanaiantimes.com.gh/ghana-deserves-commendation-for-evacuating-1964-citizens-from-south-africa-ablakwa/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T15:02:42.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, says Ghana deserves commendation for the swift evacuation of 1,964 citizens who sought to leave South Africa amid fears of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-12-at-14.06.52.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "One fuel tanker destroyed, another damaged in Kaase Tanker Yard fire",
-      "link": "https://ghanaiantimes.com.gh/one-fuel-tanker-destroyed-another-damaged-in-kaase-tanker-yard-fire/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T14:56:09.000Z",
-      "summary": "The Ghana National Fire Service (GNFS) has contained a fierce fire involving two fuel tankers at the Kaase Angola Tanker Yard in Kumasi. The incident happened on Saturday, October 10, 2026…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2 new deputy chairpersons of Electoral Commission sworn into office [VIDEO]",
-      "link": "https://www.graphic.com.gh/news/politics/2-new-deputy-commissioners-of-electoral-commission-to-be-sworn-into-office-today.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T14:56:05.000Z",
-      "summary": "Two new appointed deputy chairpersons of the Electoral Commission, Emelia Afi Agbenyo and Joseph Kwaku Asamoah have been sworn into office by President John Dramani Mahama, reports Graphic…",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/13/ec3.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Why we must deploy local forces against Somalia now",
-      "link": "https://ghanaiantimes.com.gh/why-we-must-deploy-local-forces-against-somalia-now/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T14:52:57.000Z",
-      "summary": "In a move that has sent shockwaves through the plush, air-conditioned corridors of the Ghana Football Association (GFA), a veteran Ghanaian football administrator and former Ghana League…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "A-G urges court to dismiss no-case submission in Adu-Boahene case",
-      "link": "https://www.graphic.com.gh/news/general-news/a-g-urges-court-to-dismiss-no-case-submission-in-adu-boahene-case.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T14:47:09.000Z",
-      "summary": "The Attorney-General has urged the Accra High Court to dismiss a submission of no case filed by Mr Kwabena Adu-Boahene, former Director-General of the National Signals Bureau, arguing that…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2022/nov/18/garvel.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "The Case for More Lawyers in Ghana",
-      "link": "https://ghanaiantimes.com.gh/the-case-for-more-lawyers-in-ghana/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T14:40:20.000Z",
-      "summary": "Every year, like clockwork, a deeply moving national ritual takes place in Ghana. No, I am not talking about the budgeting for a new national cathedral, nor am I referring to the periodic…",
-      "categories": [
-        "Features",
-        "Hot!"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana will resume evacuations from South Africa if lives are threatened – Ablakwa",
-      "link": "https://ghanaiantimes.com.gh/ghana-will-resume-evacuations-from-south-africa-if-lives-are-threatened-ablakwa/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T14:37:52.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has assured Ghanaians that the government remains ready to evacuate nationals from South Africa if their lives are threatened by further…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GNFS saves 44 shops as fire hits Aboabo Bola Market in Kumasi",
-      "link": "https://ghanaiantimes.com.gh/gnfs-saves-44-shops-as-fire-hits-aboabo-bola-market-in-kumasi/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-12T14:33:08.000Z",
-      "summary": "Fire has gutted part of the Aboabo Bola Market near Zuria FM in Kumasi, destroying eight shops. The Ghana National Fire Service (GNFS) says the fire, which broke out on Monday, October 12…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Scramble for Fury vs Joshua tickets in record time",
       "link": "https://www.graphic.com.gh/sports/sports-news/scramble-for-fury-vs-joshua-tickets-in-record-time.html",
       "source": "Graphic Sports",
@@ -407,42 +439,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/12/Kipchoge.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Heskey urges Liverpool to sign Semenyo",
-      "link": "https://www.graphic.com.gh/sports/sports-news/heskey-urges-liverpool-to-sign-semenyo.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-12T14:07:59.000Z",
-      "summary": "Liverpool have been advised to consider a move for Manchester City attacker Antoine Semenyo, with former Reds striker Emile Heskey believing the Ghana international could be an excellent…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/12/SEMENYO.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "DVLA 'DP number issuance' revenue rises to GH¢27 million after digital sticker rollout",
-      "link": "https://www.graphic.com.gh/news/general-news/dvla-dp-revenue-rises-to-ghc27-million-after-digital-sticker-rollout.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T13:25:07.000Z",
-      "summary": "The Chief Executive Officer of the Driver and Vehicle Licensing Authority (DVLA) Julius Neequaye Kotey has said the elimination of DP plates issued at the ports for imported vehicles and…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/12/neequaye.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "New German language and OSD examination centre opens in Accra",
-      "link": "https://www.graphic.com.gh/news/general-news/new-german-language-and-osd-examination-centre-opens-in-accra.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-12T13:05:55.000Z",
-      "summary": "Ghana's international education landscape has received a boost following the inauguration of Learn Deutsch Limited's new German language training and OSD examination centre at Bawuleshie…",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
