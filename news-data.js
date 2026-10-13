@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-13T18:13:30.527Z",
-  "worldAt": "2026-10-13T18:13:30.525Z",
+  "updated": "2026-10-13T22:46:17.096Z",
+  "worldAt": "2026-10-13T22:46:17.094Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,32 +20,67 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 6/25 stories",
+    "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 25 stories",
+    "World · BBC News: 23 stories",
     "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 32 stories",
     "Africa · AllAfrica Business: 30 stories",
-    "Africa · Africanews: 29 stories",
+    "Africa · Africanews: 30 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 3 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Star Oil donates GH¢1million towards construction of new CID facility",
+      "link": "https://www.myjoyonline.com/star-oil-donates-gh%c2%a21million-towards-construction-of-new-cid-facility/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T19:56:25.000Z",
+      "summary": "Oil marketing company Star Oil has donated GH¢1 million to support the construction of a new facility for the Criminal Investigations Department (CID) of the Ghana Police Service. The new…"
+    },
+    {
+      "title": "BoG deepens public trust with regional stakeholder forum in Techiman",
+      "link": "https://www.myjoyonline.com/bog-deepens-public-trust-with-regional-stakeholder-forum-in-techiman/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T19:18:58.000Z",
+      "summary": "As part of its strategic commitment to inclusive central banking and nationwide financial literacy, the Bank of Ghana (BoG) has held a high-level Regional Stakeholder Engagement Forum at…"
+    },
+    {
+      "title": "‘We have turned the tide’ – Ato Forson says Ghana is ready to take off",
+      "link": "https://www.myjoyonline.com/we-have-turned-the-tide-ato-forson-says-ghana-is-ready-to-take-off/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T19:14:09.000Z",
+      "summary": "Finance Minister Dr. Cassiel Ato Forson says Ghana has turned the tide from economic crisis and laid the foundation for sustained progress, but has cautioned that further gains will depend…"
+    },
+    {
+      "title": "BoG takes financial literacy drive to Techiman, vows to protect depositors",
+      "link": "https://www.myjoyonline.com/bog-takes-financial-literacy-drive-to-techiman-vows-to-protect-depositors/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T18:38:43.000Z",
+      "summary": "The Bank of Ghana (BoG) has reaffirmed its commitment to deepening engagement with stakeholders across the country, emphasizing collaboration and shared responsibility in sustaining Ghana's…"
+    },
+    {
+      "title": "World Bank, AfDB Bring Electricity to 64 Million Africans Under Mission 300",
+      "link": "https://thehighstreetjournal.com/world-bank-afdb-bring-electricity-to-64-million-africans-under-mission-300/",
+      "source": "The High Street Journal",
+      "published": "2026-10-13T18:21:24.000Z",
+      "summary": "The World Bank Group and African Development Bank have connected 64 million Africans to electricity under Mission 300, targeting 300 million connections by 2030 to support productivity and…"
+    },
     {
       "title": "Standard Chartered Ghana lifts half-year profit 10% to GH¢320m, Outlines Growth Plans",
       "link": "https://thehighstreetjournal.com/standard-chartered-ghana-lifts-half-year-profit-10-to-gh%c2%a2320m-outlines-growth-plans/",
@@ -751,7 +786,7 @@ window.GDC_NEWS = {
       "link": "https://www.myjoyonline.com/omnibsic-banks-11th-health-walk-promotes-fitness-and-business-growth/",
       "source": "MyJoyOnline",
       "published": "2026-10-11T14:11:39.000Z",
-      "summary": "OmniBSIC Bank has held its 11th annual Health Walk at the University of Ghana Sports Stadium, bringing together staff, customers, businesses and members of the public to promote physical…"
+      "summary": "OmniBSIC Bank has held its 11th quarterly health walk at the University of Ghana Sports Stadium, bringing together staff, customers, businesses and members of the public to promote physical…"
     },
     {
       "title": "Ghana AgriTech Challenge Draws 72 Entries to Tackle Food Waste and Market Access",
@@ -1060,343 +1095,334 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-09T16:30:00.000Z",
       "summary": "Growing adoption of artificial intelligence across the continent faces persistent gaps in connectivity, computing infrastructure, electricity, skills, and language support."
-    },
-    {
-      "title": "Prudential Bank secures GH¢1.13bn investment from Bloom Africa",
-      "link": "https://www.myjoyonline.com/prudential-bank-secures-gh%c2%a21-13bn-investment-from-bloom-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T16:28:24.000Z",
-      "summary": "Prudential Bank Limited has completed a GH¢1.13 billion strategic capital investment from Bloom Africa Holdings Ghana Limited (BAHGL), following regulatory approval from the Bank of Ghana…"
-    },
-    {
-      "title": "CXP urges businesses to localize AI to improve customer experience",
-      "link": "https://www.myjoyonline.com/cxp-urges-businesses-to-localize-ai-to-improve-customer-experience/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T16:09:19.000Z",
-      "summary": "As businesses embrace digital transformation, the Customer Experience Professionals (CXP) has urged organizations to localize artificial intelligence (AI) tools to improve service delivery…"
-    },
-    {
-      "title": "Nearly 2 Billion People Still Rely on Polluting Cooking Fuels, OPEC Report Says",
-      "link": "https://thehighstreetjournal.com/opec-reports-on-polluting-cooking-fuels/",
-      "source": "The High Street Journal",
-      "published": "2026-10-09T15:55:09.000Z",
-      "summary": "Sub-Saharan Africa requires about half of the investment needed to expand clean cooking by 2030, as fuel supply, distribution infrastructure and affordability remain major barriers"
-    },
-    {
-      "title": "Ghana exporting eggs to Burkina Faso amid local surplus – Agric Minister",
-      "link": "https://www.myjoyonline.com/ghana-exporting-eggs-to-burkina-faso-amid-local-surplus-agric-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-09T15:27:26.000Z",
-      "summary": "Minister for Food and Agriculture Eric Opoku says Ghana has started exporting eggs to Burkina Faso as the government explores ways to address a sustained surplus in domestic production."
-    },
-    {
-      "title": "KGL Group Pushes Research-Based Policies to Help Ghanaian Businesses Scale",
-      "link": "https://thehighstreetjournal.com/kgl-group-pushes-research-based-policies-to-help-ghanaian-businesses-scale/",
-      "source": "The High Street Journal",
-      "published": "2026-10-09T15:20:36.000Z",
-      "summary": "KGL Group Chairman Alex Apau Dadey has urged government to adopt research-driven policies and strengthen private sector collaboration to help Ghanaian businesses scale, create jobs and…"
     }
   ],
   "world": [
     {
-      "title": "France's fed-up youth: Can presidential candidates connect with student movement?",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261013-france-s-fed-up-youth-can-presidential-candidates-connect-with-student-movement",
-      "source": "France 24",
-      "published": "2026-10-13T18:10:29.000Z",
-      "summary": "Will it be autumn recess to the rescue for a beleaguered French government? Ministers no doubt counting the days until Friday evening when the holidays start in hopes that an unexpected…",
-      "image": "https://s.france24.com/media/display/aee6d39c-c730-11f1-8aa1-53993c5f1f18/w:1024/p:16x9/2026-10-13T122637Z-1119573120-RC2C2OADSSWR-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "title": "China sentences three people to death for running Myanmar scam centres",
-      "link": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T17:41:16.000Z",
-      "summary": "Dozens more were imprisoned for their involvement in telecommunications fraud, trafficking, prostitution and murder."
-    },
-    {
-      "title": "ISS amid global conflict: A rare bastion of 'scientific collaboration' between the East and West",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261013-iss-amid-global-conflict-a-rare-bastion-of-scientific-collaboration-between-the-east-and-west",
-      "source": "France 24",
-      "published": "2026-10-13T17:53:27.000Z",
-      "summary": "François Picard is pleased to welcome Alban Guyomarc'h, Researcher in Space Geopolitics at Paris's École Normale Supérieure School of Higher Learning. As a new era of space rivalry unfolds…",
-      "image": "https://s.france24.com/media/display/bee71978-c721-11f1-935c-3774aeac812a/w:1024/p:16x9/EN-20261008-180124-181334-CS.jpg"
-    },
-    {
-      "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-13T17:36:43.000Z",
-      "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36b/live/a481bb50-c72c-11f1-b881-4391ac746e04.jpg"
+      "published": "2026-10-13T22:29:55.000Z",
+      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Digital distrust and polarisation: 'We need to get back to engaging with one another as a society'",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261013-digital-distrust-and-polarisation-we-need-to-get-back-to-engaging-with-one-another-as-a-society",
-      "source": "France 24",
-      "published": "2026-10-13T17:39:41.000Z",
-      "summary": "François Picard is pleased to welcome Valdemar Osted, partner and head of technology at Danish digital consultancy Common Consultancy. Can the fear of disinformation become as dangerous to…",
-      "image": "https://s.france24.com/media/display/ddf9dc36-c728-11f1-8d16-3774aeac812a/w:1024/p:16x9/EN-20261013-181918-182600-CS.jpg"
-    },
-    {
-      "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
-      "link": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
+      "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T17:18:45.000Z",
-      "summary": "Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks."
+      "published": "2026-10-13T22:17:26.000Z",
+      "summary": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches."
     },
     {
-      "title": "Syria: Israeli army accused of arbitrary arrests and detention",
-      "link": "https://www.france24.com/en/tv-shows/the-observers/20261013-syria-israeli-army-accused-arbitrary-arrests-detention",
-      "source": "France 24",
-      "published": "2026-10-13T17:28:23.000Z",
-      "summary": "The Israeli army has arrested more than 200 people in southern Syria since the fall of Bashar al-Assad’s regime in December 2024, according to the Sijil Centre, which tracks Israeli…",
-      "image": "https://s.france24.com/media/display/23747eac-c62e-11f1-81e1-3774aeac812a/w:1024/p:16x9/syrie-israel-1-1.png"
-    },
-    {
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-13T17:10:50.000Z",
-      "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb02/live/12f052c0-c6c6-11f1-a64c-550be9e3c66b.jpg"
+      "published": "2026-10-13T22:07:40.000Z",
+      "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4202/live/342a9360-c707-11f1-9783-ed95709f9dec.jpg"
     },
     {
-      "title": "New White House press secretary Katie Zacharia holds first briefing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss",
+      "title": "US trial begins for Rwandan-American accused of role in genocide",
+      "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T17:09:38.000Z",
-      "summary": "Katie Zacharia has held her first briefing as White House press secretary after replacing Karoline Leavitt."
+      "published": "2026-10-13T22:15:44.000Z",
+      "summary": "Eric Nshimiye, a US citizen, says the evidence against him consists of unreliable eyewitness accounts."
     },
     {
-      "title": "Student protesters tell police to join them in Paris demonstrations",
-      "link": "https://www.france24.com/en/video/20261013-student-protesters-tell-police-to-join-them-in-paris-demonstrations",
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T22:02:09.000Z",
+      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b864/live/f45a9340-c74a-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
+      "link": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united",
       "source": "France 24",
-      "published": "2026-10-13T17:04:12.000Z",
-      "summary": "As student-led protests in Paris came to a close on Tuesday, demonstrators chanted \"join us, join us\" to police officers, who took off their helmets to cheers of the crowd. \"When police…",
-      "image": "https://s.france24.com/media/display/0765b82c-c726-11f1-ae6a-3774aeac812a/w:1024/p:16x9/EN-20261013-183249-183537-CS.jpg"
+      "published": "2026-10-13T21:59:44.000Z",
+      "summary": "Arsenal scored three goals in seven second-half minutes on Tuesday to beat Lille 3-0 and maintain their perfect Champions League start, while Atletico Madrid defeated Manchester United 2-0…",
+      "image": "https://s.france24.com/media/display/b20b7d10-c74a-11f1-9887-77317c09f325/w:1024/p:16x9/ee08db7faf140d19485901258355c8cd6e0a2034.jpg"
     },
     {
-      "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
+      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T22:01:43.000Z",
+      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7867/live/0f1da240-c6fa-11f1-b4dd-e786ec6f11b1.jpg"
+    },
+    {
+      "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T16:49:54.000Z",
-      "summary": "Heavy rainfall triggered flooding in Libya’s capital, Tripoli, submerging cars, trapping people inside buildings."
+      "published": "2026-10-13T21:59:39.000Z",
+      "summary": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal overcome Lille in UEFA Champions League."
     },
     {
-      "title": "Formula One to return to Africa in 'early 2030s' in Rwanda",
-      "link": "http://www.africanews.com/2026/10/13/formula-one-to-return-to-africa-in-early-2030s-in-rwanda/",
-      "source": "Africanews",
-      "published": "2026-10-13T16:47:46.000Z",
-      "summary": "Formula One on Tuesday announced its upcoming return to Africa with a Grand Prix in Rwanda expected in the early 2030s, a first since 1993."
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T22:00:20.000Z",
+      "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
+      "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+      "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T16:38:45.000Z",
-      "summary": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah"
+      "published": "2026-10-13T21:25:04.000Z",
+      "summary": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung."
     },
     {
-      "title": "Pope admitted to hospital for surgery to remove lump on his lung",
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T21:42:49.000Z",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/194/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png"
+    },
+    {
+      "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T21:24:19.000Z",
+      "summary": "Michael Carrick's Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League."
+    },
+    {
+      "title": "Pope Leo has cancerous growth removed in lung operation",
+      "link": "https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation",
+      "source": "France 24",
+      "published": "2026-10-13T21:23:45.000Z",
+      "summary": "Pope Leo XIV had a cancerous growth removed from his right lung in a 90-minute operation on Tuesday and \"woke up normally\" after the procedure, the Vatican said. A Vatican source said…",
+      "image": "https://s.france24.com/media/display/16231fa6-c74b-11f1-a4f0-e362370cce2e/w:1024/p:16x9/EN-20261013-230330-230812-CS.jpg"
+    },
+    {
+      "title": "Vatican confirms Pope Leo’s surgery was successful",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T21:05:07.000Z",
+      "summary": "The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected"
+    },
+    {
+      "title": "China is bringing car production to EU",
+      "link": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
+      "source": "France 24",
+      "published": "2026-10-13T21:23:38.000Z",
+      "summary": "China has moved from exporting cars to bringing entire auto industry ecosystems, building up production capacity in Europe and boosting partnerships with local companies. Arthur D. Little's…",
+      "image": "https://s.france24.com/media/display/ba4dd768-c748-11f1-b56e-3774aeac812a/w:1024/p:16x9/202610132620CC-FRANCE-MOTOR-SHOWCHINESE-BRANDS.png"
+    },
+    {
+      "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T21:04:44.000Z",
+      "summary": "Yemeni government forces are encircled by the Houthis in Taiz, where blockades on road routes have worsened shortages."
+    },
+    {
+      "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+      "source": "France 24",
+      "published": "2026-10-13T21:06:59.000Z",
+      "summary": "French investigators on Tuesday ​were hunting the hackers who seized control of cooling units at hundreds of supermarkets in a cyberattack that underlined the vulnerabilities of connected…",
+      "image": "https://s.france24.com/media/display/d25741a6-c747-11f1-a78f-29a2e29ae696/w:1024/p:16x9/EN-20261013-223112-224238-CS.jpg"
+    },
+    {
+      "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T21:03:40.000Z",
+      "summary": "New footage shows the moment 48-year-old Miguel Parra-Hernandez was hit by an ICE officer’s car in Houston, Texas."
+    },
+    {
+      "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
+      "link": "https://www.france24.com/en/supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+      "source": "France 24",
+      "published": "2026-10-13T21:05:38.000Z",
+      "summary": "French investigators on Tuesday ​were hunting the hackers who seized control of cooling units at hundreds of supermarkets in a cyberattack that underlined the vulnerabilities of connected…",
+      "image": "https://s.france24.com/media/display/d25741a6-c747-11f1-a78f-29a2e29ae696/w:1024/p:16x9/EN-20261013-223112-224238-CS.jpg"
+    },
+    {
+      "title": "Tupac Shakur killer sentenced to 40 years in prison",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T20:46:22.000Z",
+      "summary": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur."
+    },
+    {
+      "title": "Have Ukrainian strikes on Yandex data centres hit Russian online disinformation?",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261013-have-ukrainian-strikes-on-yandex-data-centres-hit-russian-online-disinformation",
+      "source": "France 24",
+      "published": "2026-10-13T20:59:32.000Z",
+      "summary": "After recent Ukrainian bombings of Russian data centres belonging to Yandex, internet users claim to have noticed a sharp reduction in pro-Russian and far-right populist social media…",
+      "image": "https://s.france24.com/media/display/38e2894a-c747-11f1-a2d7-77317c09f325/w:1024/p:16x9/EN-20261013-222020-222455-CS.jpg"
+    },
+    {
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-13T16:21:15.000Z",
-      "summary": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
+      "published": "2026-10-13T20:46:06.000Z",
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "title": "Drivers queue for hours in Bali amid fuel shortage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T16:32:11.000Z",
-      "summary": "Drivers in Bali face hours-long queues amid shortages of Indonesia’s subsidised Pertalite fuel."
-    },
-    {
-      "title": "🔴 Live: French students ‘not giving up the fight’ as 480,000 join new day of school protests",
-      "link": "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions",
+      "title": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says",
+      "link": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
       "source": "France 24",
-      "published": "2026-10-13T16:16:25.000Z",
+      "published": "2026-10-13T20:44:58.000Z",
       "summary": ""
     },
     {
-      "title": "Saudi Arabia's military struggle against Houthi attacks",
-      "link": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-13T16:11:00.000Z",
-      "summary": "Houthi attacks on airports and energy facilities are putting Saudi Arabia under pressure. Could a Saudi-led international military offensive succeed against the Iran-aligned Houthi militia…"
-    },
-    {
-      "title": "Majority in US say Trump prioritises personal wealth over all else: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll?traffic_source=rss",
+      "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T16:07:26.000Z",
-      "summary": "A majority of US adults say President Trump and his family have inappropriately profited from presidency."
+      "published": "2026-10-13T20:33:10.000Z",
+      "summary": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh"
     },
     {
-      "title": "How will emergency rule in Pakistan's northwest affect Afghan ties?",
-      "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-13T16:11:00.000Z",
-      "summary": "Pakistan's decision to suspend Khyber Pakhtunkhwa's provincial government could further strain already tense relations between Islamabad and Kabul."
-    },
-    {
-      "title": "UK spy chief says Iran is stepping up targeting of military bases",
-      "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T16:06:56.000Z",
-      "summary": "MI5 chief says 50 arrests were made in past year to disrupt Iran-led operations."
-    },
-    {
-      "title": "France: Student anger rages as tear gas and fires hit Paris",
-      "link": "https://www.france24.com/en/france-student-anger-rages-as-tear-gas-and-fires-hit-paris",
+      "title": "Former gang leader sentenced to minimum 40 years for Tupac killing",
+      "link": "https://www.france24.com/en/former-gang-leader-sentenced-to-minimum-40-years-for-tupac-killing",
       "source": "France 24",
-      "published": "2026-10-13T16:03:37.000Z",
-      "summary": "Around 480,000 people took part in nationwide student demonstrations across France on Tuesday, according to student and school unions, up from the previous week’s mobilisation. In Paris…",
-      "image": "https://s.france24.com/media/display/c583610a-c71d-11f1-953b-29a2e29ae696/w:1024/p:16x9/EN-20261013-173108-173500-CS.jpg"
+      "published": "2026-10-13T20:33:25.000Z",
+      "summary": "Duane Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was…",
+      "image": "https://s.france24.com/media/display/8a28445a-c744-11f1-95e3-29a2e29ae696/w:1024/p:16x9/EN-20261013-220837-221232-CS.jpg"
     },
     {
-      "title": "Environmentalists protest at African Energy Week in Cape Town",
-      "link": "http://www.africanews.com/2026/10/13/environmentalists-protest-at-african-energy-week-in-cape-town/",
-      "source": "Africanews",
-      "published": "2026-10-13T16:02:41.000Z",
-      "summary": "Climate activists on Tuesday picketed outside the African Energy Week conference, in the South African city of Cape Town, calling for an end to new oil and gas exploration across the…"
+      "title": "How will a diesel deal with Russia impact the U.S. market?",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
+      "source": "NPR World",
+      "published": "2026-10-13T20:03:37.000Z",
+      "summary": "The price of diesel hit an all-time high in the U.S. in September. Can President Trump's deal for Russia to release more diesel onto the market bring the price down?"
     },
     {
-      "title": "DR Congo: Kabila’s move towards M23 raises questions over peace",
-      "link": "https://www.dw.com/en/dr-congo-kabila-s-move-towards-m23-raises-questions-over-peace/a-79652262?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-13T15:46:00.000Z",
-      "summary": "Former DR Congo President Joseph Kabila has joined a new political-military front that brings together the Rwandan-backed AFC/M23 coalition. Analysts say it could reshape opposition to…"
-    },
-    {
-      "title": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/france-seizes-tanker-suspected-of-belonging-to-russias-shadow-fleet?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T15:44:44.000Z",
-      "summary": "France seizes tanker suspected of belonging to Russia’s shadow fleet"
-    },
-    {
-      "title": "From Paris to Marseille, high school protests continue across France",
-      "link": "https://www.france24.com/en/video/20261013-from-paris-to-marseille-high-school-protests-continue-across-france",
+      "title": "Trump asks Greece ambassador to resign amid ethics scandal",
+      "link": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
       "source": "France 24",
-      "published": "2026-10-13T15:40:53.000Z",
-      "summary": "Student protests continue across France, with marches taking place in cities including Lille and Marseille while pupils in Paris stage fresh school blockades using wheelie bins…",
-      "image": "https://s.france24.com/media/display/3a618d84-c71a-11f1-96ba-e362370cce2e/w:1024/p:16x9/minimanif.jpg"
+      "published": "2026-10-13T20:29:15.000Z",
+      "summary": "US President Donald Trump's administration has asked his ambassador to Greece Kimberly Guilfoyle to resign, the White House said Tuesday, amid allegations that she sought money from a Trump…",
+      "image": "https://s.france24.com/media/display/146c0990-c744-11f1-943e-3774aeac812a/w:1024/p:16x9/EN-20261013-220527-220837-CS.jpg"
     },
     {
-      "title": "US ambassador to Greece resigns amid misconduct allegations",
-      "link": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
+      "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+      "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T15:37:32.000Z",
-      "summary": "Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money."
+      "published": "2026-10-13T20:00:32.000Z",
+      "summary": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near."
     },
     {
-      "title": "Africa records world's fastest gains in disaster resilience - new study",
-      "link": "http://www.africanews.com/2026/10/13/africa-records-worlds-fastest-gains-in-disaster-resilience-study/",
-      "source": "Africanews",
-      "published": "2026-10-13T15:34:23.000Z",
-      "summary": "Africa has recorded the world's fastest improvements in disaster resilience, a new major global study has revealed."
-    },
-    {
-      "title": "Sweden’s centre-left leader fails in second bid to form government",
-      "link": "https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T15:37:18.000Z",
-      "summary": "Social Democratic leader Magdalena Andersson says 'conditions not in place' to form government, prolonging deadlock."
-    },
-    {
-      "title": "In Kenya, recycled plastic gets a second life as chess pieces",
-      "link": "https://www.france24.com/en/in-kenya-recycled-plastic-gets-a-second-life-as-chess-pieces",
+      "title": "Kabila launches new coalition with M23",
+      "link": "https://www.france24.com/en/kabila-launches-new-coalition-with-m23",
       "source": "France 24",
-      "published": "2026-10-13T15:28:46.000Z",
-      "summary": "In Nairobi, a project is helping children develop focus, patience and critical thinking through chess, using pieces made from recycled plastic waste.",
-      "image": "https://s.france24.com/media/display/4a99973e-c718-11f1-9dfa-e362370cce2e/w:1024/p:16x9/EN-20261012-225312-225439-CS.jpg"
+      "published": "2026-10-13T20:21:31.000Z",
+      "summary": "In tonight's edition, Joseph Kabila has been named leader of a new rebel coalition, vowing to topple the government. Also, Africa's largest ever IPO has been extended. And Formula ⁠1 ⁠will…",
+      "image": "https://s.france24.com/media/display/91dc84b4-c743-11f1-8e7d-29a2e29ae696/w:1024/p:16x9/capture-b2a23995.jpg"
     },
     {
-      "title": "India: Can 'cockroaches' threaten Modi's political grip?",
-      "link": "https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-13T15:20:00.000Z",
-      "summary": "Thousands detained, leaders arrested on arrival, and a capital under lockdown: The youth-led protests against the election chief have the attention of the Indian government. But experts say…"
-    },
-    {
-      "title": "Broken children: France confronts crisis of sexual violence against minors",
-      "link": "https://www.france24.com/en/tv-shows/france-in-focus/20261013-broken-children-france-confronts-crisis-of-sexual-violence-against-minors",
-      "source": "France 24",
-      "published": "2026-10-13T15:24:00.000Z",
-      "summary": "In France, a new \"comprehensive law\" aims to strengthen preventative measures, the judicial process and support for child victims of sexual violence. Yet advocacy groups, lawyers, and…",
-      "image": "https://s.france24.com/media/display/075a50da-c6d7-11f1-b929-3774aeac812a/w:1024/p:16x9/PIC-2-CEF-VIOLENCES-SEXUELLES-MINEURS-2.jpg"
-    },
-    {
-      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
-      "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T15:01:36.000Z",
-      "summary": "Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response."
-    },
-    {
-      "title": "French youth demand answers as education protests enter third week",
-      "link": "https://www.france24.com/en/french-youth-demand-answers-as-education-protests-enter-third-week",
-      "source": "France 24",
-      "published": "2026-10-13T15:18:00.000Z",
-      "summary": "French students have continued nationwide protests for a third week, demanding more funding for education, better teaching conditions and more staff. The government’s plan to recruit 3,000…",
-      "image": "https://s.france24.com/media/display/acc0217e-c715-11f1-9f1c-29a2e29ae696/w:1024/p:16x9/EN-20261013-163631-163805-CS.jpg"
-    },
-    {
-      "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T15:00:00.000Z",
-      "summary": "Follow updates from the league stage clash, including the build-up, analysis and live text commentary of the game."
-    },
-    {
-      "title": "Spanish royals visit Ceuta amid tensions with Morocco over migrant influx",
-      "link": "https://www.france24.com/en/europe/20261013-spanish-royals-visit-ceuta-amid-tensions-with-morocco-over-migrant-influx",
-      "source": "France 24",
-      "published": "2026-10-13T15:17:00.000Z",
-      "summary": "Spain’s King Felipe VI and Queen Letizia visited Ceuta for the first time in 14 years on Tuesday, as the North African enclave grapples with the aftermath of a mass migrant influx…",
-      "image": "https://s.france24.com/media/display/a609bdbc-c711-11f1-9672-53993c5f1f18/w:1024/p:16x9/AP26286426125316.jpg"
-    },
-    {
-      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-      "link": "https://www.aljazeera.com/news/2026/10/13/block-blunt-break-whats-in-natos-new-russia-war-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T14:52:22.000Z",
-      "summary": "NATO's top commander says he is revealing a plan to stop a Russian invasion of Europe."
-    },
-    {
-      "title": "South Africa suspends asylum applications amid renewed anti-immigrant protests",
-      "link": "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests",
-      "source": "France 24",
-      "published": "2026-10-13T15:15:49.000Z",
-      "summary": "Tensions have flared in South Africa after a court ruling prompted the government to open its application system to all foreign nationals, regardless of their legal status. Despite…",
-      "image": "https://s.france24.com/media/display/e81674a6-c717-11f1-bdd1-29a2e29ae696/w:1024/p:16x9/EN-20261012-224920-225113-CS.jpg"
-    },
-    {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-13T14:51:59.000Z",
-      "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3983/live/6a522470-c708-11f1-a64c-550be9e3c66b.jpg"
+      "published": "2026-10-13T19:51:14.000Z",
+      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Ethiopian forces enter key Tigray town, raising fears among residents",
-      "link": "https://www.france24.com/en/ethiopian-forces-enter-key-tigray-town-raising-fears-among-residents",
+      "title": "French MPs pass sweeping bill to combat sexual and gender-based violence",
+      "link": "https://www.france24.com/en/french-mps-pass-sweeping-bill-to-combat-sexual-and-gender-based-violence",
       "source": "France 24",
-      "published": "2026-10-13T15:13:54.000Z",
-      "summary": "Ethiopian federal forces and their allies have entered a key town in northern Tigray near the Eritrean border after rebel fighters withdrew. As the conflict intensifies, residents fear…",
-      "image": "https://s.france24.com/media/display/aeb1b5a4-c717-11f1-8351-e362370cce2e/w:1024/p:16x9/EN-20261012-224604-224800-CS.jpg"
+      "published": "2026-10-13T20:03:43.000Z",
+      "summary": "The National Assembly overwhelmingly passed the so-called “comprehensive” bill against sexist and sexual violence on Tuesday. The focus now shifts to the more conservative Senate, with the…",
+      "image": "https://s.france24.com/media/display/1ddbb8b8-c73f-11f1-a997-77317c09f325/w:1024/p:16x9/EN-20261013-213441-213632-CS.jpg"
     },
     {
-      "title": "Severe environmental incident declared in Niger after oil blowout",
-      "link": "http://www.africanews.com/2026/10/13/severe-environmental-incident-declared-in-niger-after-oil-blowout/",
-      "source": "Africanews",
-      "published": "2026-10-13T14:51:03.000Z",
-      "summary": "Niger authorities said Monday that a huge blowout of oil and gas in the country's eastern desert last month has caused an environmental incident of \"exceptional severity\"."
+      "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T19:40:51.000Z",
+      "summary": "The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average."
+    },
+    {
+      "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
+      "link": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
+      "source": "France 24",
+      "published": "2026-10-13T19:57:31.000Z",
+      "summary": "Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to…",
+      "image": "https://s.france24.com/media/display/12a4e11e-c73e-11f1-842e-29a2e29ae696/w:1024/p:16x9/2026-10-13T192410Z-1296492245-RC2I2OABAK5S-RTRMADP-3-PEOPLE-TUPAC-MURDER-COURT-SENTENCING.jpg"
+    },
+    {
+      "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
+      "link": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T19:39:01.000Z",
+      "summary": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities."
+    },
+    {
+      "title": "France's youth undergoing 'a crisis of hope'",
+      "link": "https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope",
+      "source": "France 24",
+      "published": "2026-10-13T19:33:56.000Z",
+      "summary": "Tens of thousands of people joined rallies across France on Tuesday to support protesting high school students, boosting a movement that poses a major challenge to President Emmanuel Macron…",
+      "image": "https://s.france24.com/media/display/3240da8e-c73c-11f1-83b5-77317c09f325/w:1024/p:16x9/EN-20261013-210341-211220-CS.jpg"
+    },
+    {
+      "title": "Trump says Houthis trying to increase oil prices before US elections",
+      "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T19:33:11.000Z",
+      "summary": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote."
+    },
+    {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T19:23:28.000Z",
+      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f6d/live/ecd9e6d0-c73a-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Will NATO’s ‘theory of victory’ work?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T19:32:16.000Z",
+      "summary": "The alliance presents a common vision to deter adversaries."
+    },
+    {
+      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
+      "link": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
+      "source": "France 24",
+      "published": "2026-10-13T19:06:32.000Z",
+      "summary": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. \"Ceuta and…",
+      "image": "https://s.france24.com/media/display/dd4d9a70-c737-11f1-948a-e362370cce2e/w:1024/p:16x9/EN-20261013-203549-204111-CS.jpg"
+    },
+    {
+      "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T19:24:50.000Z",
+      "summary": "Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat."
     }
   ],
   "africa": [
+    {
+      "title": "West Africa: Liberia Courts Mining, Energy Investors At First Expo",
+      "link": "https://allafrica.com/stories/202610130672.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-13T22:32:08.000Z",
+      "summary": "[Liberian Investigator] Investors seeking entry into Liberia's mining and energy sectors will get direct access to the government officials, regulators, and companies driving them at the…"
+    },
+    {
+      "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
+      "link": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T19:39:01.000Z",
+      "summary": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities."
+    },
+    {
+      "title": "Spain seeks ‘good neighbourly relations’ with Morocco as migration crisis shadows royal visit",
+      "link": "http://www.africanews.com/2026/10/13/spain-seeks-good-neighbourly-relations-with-morocco-as-migration-crisis-shadows-royal-visi/",
+      "source": "Africanews",
+      "published": "2026-10-13T18:54:59.000Z",
+      "summary": "Spain’s King Felipe VI has called for “good neighbourly relations” with Morocco during a landmark visit to Ceuta, as tensions over migration continue to test relations between the two…"
+    },
     {
       "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
@@ -1658,27 +1684,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-13T11:05:06.000Z",
       "summary": "[Premium Times] The association made the call during an event to commemorate the 2026 International Day of the Girl Child"
-    },
-    {
-      "title": "Morocco's PAM party forms governing coalition with three other parties",
-      "link": "http://www.africanews.com/2026/10/13/moroccos-pam-party-forms-governing-coalition-with-three-other-parties/",
-      "source": "Africanews",
-      "published": "2026-10-13T10:58:21.000Z",
-      "summary": "Moroccan Prime Minister Fatima Ezzahra El Mansouri, the leader of the Authenticity and Modernity Party, announced on Monday the formation of a coalition with the Istiqlal Party, the…"
-    },
-    {
-      "title": "Nigeria: Wike, Adeleke, Soludo Named Coordinators As APC Revises Campaign Council List for 2027 Election",
-      "link": "https://allafrica.com/stories/202610130331.html",
-      "source": "AllAfrica",
-      "published": "2026-10-13T11:00:34.000Z",
-      "summary": "[Premium Times] President Bola Tinubu is expected to inaugurate the council at the Presidential Villa in Abuja on Wednesday."
-    },
-    {
-      "title": "Kenya: Microsoft to Close Part of Nairobi Engineering Hub",
-      "link": "https://allafrica.com/stories/202610130322.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-13T10:53:46.000Z",
-      "summary": "[Capital FM] Nairobi -- Microsoft plans to close part of its Africa Development Centre (ADC) in Nairobi as it reorganises its engineering operations, with the company currently informing…"
     }
   ]
 };

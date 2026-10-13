@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-13T18:13:46.865Z",
+  "updated": "2026-10-13T22:46:37.364Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,46 +25,167 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "WAFU Zone B: Black Starlets seal semifinal place with 3-1 win over Benin",
-      "link": "https://www.myjoyonline.com/wafu-zone-b-black-starlets-seal-semifinal-place-with-3-1-win-over-benin/",
+      "title": "Imagination Africa, Mentors Chess Academy to host second African Genius Chess Championship at Ghud Park",
+      "link": "https://www.myjoyonline.com/imagination-africa-mentors-chess-academy-to-host-second-african-genius-chess-championship-at-ghud-park/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T18:11:19.000Z",
-      "summary": "Ghana’s Black Starlets have booked their place in the semifinals of the WAFU Zone B U17 Championship following a convincing 3-1 victory over Benin in their second Group A game. Issah Alidu…",
+      "published": "2026-10-13T22:07:31.000Z",
+      "summary": "Imagination Africa and Mentors Chess Academy will host the second African Genius Chess Championship on Saturday, 24 October 2026, at Ghud Park, Accra Mall. The competition uses chess to…",
       "categories": [
-        "Football",
+        "Other Sports",
         "Sports",
-        "Black Starlets",
-        "wafu zone b"
+        "African Genius Chess Championship"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HUhrOCcXUAAJzuR-1024x623.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Imagination-Africa-Mentors-Chess-Academy-to-host-second-African-Genius-Chess-Championship.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kaizen as a strategic pathway for micro business scale-up in Ghana",
-      "link": "https://www.myjoyonline.com/kaizen-as-a-strategic-pathway-for-micro-business-scale-up-in-ghana/",
+      "title": "Nana B passport claims a diversionary tactic — Abu Jinapor",
+      "link": "https://www.myjoyonline.com/nana-b-passport-claims-a-diversionary-tactic-abu-jinapor/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T17:58:14.000Z",
-      "summary": "Ghana's economic landscape is overwhelmingly dominated by micro, small, and medium-sized enterprises (MSMEs), which constitute over 90 per cent of all registered businesses and provide…",
+      "published": "2026-10-13T21:11:43.000Z",
+      "summary": "The Ranking Member on Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has dismissed allegations that the Member of Parliament for Bosome Freho, Nana Asafo-Adjei Ayeh, lobbied…",
       "categories": [
-        "Opinion",
-        "Kaizen"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Capture-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minister orders suspension of Obuasi SHS headmaster over alleged sexual misconduct following JoyNews investigation",
-      "link": "https://www.myjoyonline.com/minister-orders-suspension-of-obuasi-shs-headmaster-over-alleged-sexual-misconduct-following-joynews-investigation/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T17:54:12.000Z",
-      "summary": "The Minister of Education has directed the immediate suspension of the Headmaster of Obuasi Senior High Technical School, Zakaria Abdulai, over allegations of sexual misconduct involving a…",
-      "categories": [
-        "Education",
         "National",
-        "Top Story"
+        "Politics",
+        "Ablakwa",
+        "Asafo-Adjei Ayeh",
+        "Hajia Zuwera Mohammed Ibrahimah",
+        "Jinapor",
+        "Nana B",
+        "NPP",
+        "Service Passport"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/Haruna-Iddrisu-6.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-4.28.35-am-1024x609.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says",
+      "link": "https://www.myjoyonline.com/pope-leo-diagnosed-with-cancer-as-doctors-remove-lobe-of-lung-vatican-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T21:11:32.000Z",
+      "summary": "Pope Leo was diagnosed with a common form of lung cancer after doctors removed ​a lower lobe of his right lung in surgery on Tuesday, the Vatican said in a medical bulletin.",
+      "categories": [
+        "International",
+        "Lobe",
+        "Pope Leo",
+        "Vatican"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-226-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Legal Aid Commission takes free legal services to Techiman main lorry terminal",
+      "link": "https://www.myjoyonline.com/legal-aid-commission-takes-free-legal-services-to-techiman-main-lorry-terminal/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T21:06:56.000Z",
+      "summary": "The Ghana Legal Aid Commission has launched its 2026 Legal Aid Week with a bold new approach to closing the country's access-to-justice gap, bringing free legal services directly to the…",
+      "categories": [
+        "Regional",
+        "Ghana Legal Aid Commission",
+        "lorry terminal",
+        "Techiman"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-20.00.38-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nana B denies seeking passport favour, accuses Ablakwa of failing to account for GH¢16.4m",
+      "link": "https://www.myjoyonline.com/nana-b-denies-seeking-passport-favour-accuses-ablakwa-of-failing-to-account-for-gh%c2%a216-4m/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T21:02:02.000Z",
+      "summary": "National Vice Chairman of the New Patriotic Party (NPP) Henry Nana Boakye, popularly known as Nana B, has denied seeking a favour from Foreign Affairs Minister Samuel Okudzeto Ablakwa to…",
+      "categories": [
+        "HP News 8",
+        "Politics",
+        "Ablakwa",
+        "Nana B",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Nana-Boakye-2-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Young girls demand climate action, stronger protection against child marriage",
+      "link": "https://www.myjoyonline.com/young-girls-demand-climate-action-stronger-protection-against-child-marriage/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T20:50:23.000Z",
+      "summary": "Young girls have called for increased investment in education, healthcare and protection as climate change exposes more of them to risks, including child marriage, during Plan International…",
+      "categories": [
+        "National",
+        "Child marriage",
+        "Climate Action",
+        "young girls"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-17.47.37-1024x529.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur’s murder",
+      "link": "https://www.myjoyonline.com/ex-gang-boss-sentenced-to-40-years-for-orchestrating-tupac-shakurs-murder/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T20:49:52.000Z",
+      "summary": "Former gang boss Duane \"Keffe D\" Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur.",
+      "categories": [
+        "HP News 9",
+        "Music",
+        "National",
+        "Jail",
+        "Keffe D",
+        "Murder",
+        "Tupac"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Keefe-D.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From near-deferral to three awards: UMaT graduate’s academic journey",
+      "link": "https://www.myjoyonline.com/from-near-deferral-to-three-awards-umat-graduates-academic-journey/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T20:47:48.000Z",
+      "summary": "Solicity Amankwa-Taylor, a graduate of the University of Mines and Technology (UMaT), has earned three academic awards after financial difficulties nearly forced her to defer her studies, a…",
+      "categories": [
+        "Features",
+        "Solicity Amankwa-Taylor",
+        "UMAT"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-13.14.17-2-e1791927167665-975x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Minister directs suspension of Obuasi Senior High Technical School headmaster over alleged sexual misconduct",
+      "link": "https://www.graphic.com.gh/news/general-news/education-minister-directs-suspension-obuasi-senior-high-technical-school-headmaster-over-lleged-sexual-misconduct.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T19:41:45.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu has directed that the Ghana Education Service to suspend the headmaster of the Obuasi Senior High Technical School over allegations of sexual…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Aug/06/obuasisectech.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Cancer found after Pope had part of his lung removed during 'successful' surgery",
+      "link": "https://www.graphic.com.gh/news/general-news/pope-leo-xiv-undergoes-successful-lung-surgery.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T19:31:08.000Z",
+      "summary": "Pope Leo XIV’s surgery to remove a “small, localized nodule” from his lung was successful and he has returned to his room at the Gemelli Hospital, according to the Holy See Press Office.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/14/leo.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Duane Davis sentenced to 40 years to life in prison for the death of Tupac Shakur",
+      "link": "https://www.graphic.com.gh/news/general-news/duane-davis-sentenced-to-40-years-to-life-for-the-death-of-tupac-shakur.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-13T19:17:12.000Z",
+      "summary": "Duane “Keffe D” Davis was sentenced to 40 years to life for the murder of Tupac Shakur 30 years ago. He has 731 days of credit for time already served toward his sentence.",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/14/duane.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "19 Arrested, 303 devices seized - US Justice Dept shares latest details of Sasaabi cybercrime raid",
@@ -79,54 +200,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Over 38,000 commercial, 150,000 residential customers unbilled – Ghana Water MD",
-      "link": "https://www.myjoyonline.com/over-38000-commercial-150000-residential-customers-unbilled-ghana-water-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T17:24:58.000Z",
-      "summary": "The Managing Director of Ghana Water Limited (GWL), Adam Mutawakilu, has disclosed that more than 38,000 commercial customers and 150,000 residential customers are currently not being…",
-      "categories": [
-        "National",
-        "News",
-        "Customers",
-        "Ghana Water Limited",
-        "Ghana Water MD"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/muta-1024x508.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Several injured as Sprinter bus collides with ‘trotro’ at Odorkor",
-      "link": "https://www.myjoyonline.com/several-injured-as-sprinter-bus-collides-with-trotro-at-odorkor/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T17:24:41.000Z",
-      "summary": "Several passengers have been injured in a road crash along the Mallam Market stretch on the Odorkor Highway.",
-      "categories": [
-        "National",
-        "News",
-        "Odorkor",
-        "Sprinter bus",
-        "Trotro"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-310-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana records progress on reparatory justice agenda – Ablakwa",
-      "link": "https://www.myjoyonline.com/ghana-records-progress-on-reparatory-justice-agenda-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T17:07:36.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says Ghana has made significant progress in its campaign for reparatory justice following the adoption of a Ghana-led United Nations…",
-      "categories": [
-        "National",
-        "News",
-        "Ghana",
-        "Reparatory justice",
-        "Samuel Okudzeto Ablakwa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/okudzeto-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GoldBod does not trade in forex – Sammy Gyamfi tells PAC",
       "link": "https://www.graphic.com.gh/news/politics/goldbod-does-not-trade-in-forex-sammy-gyamfi-tells-pac.html",
       "source": "Daily Graphic",
@@ -137,36 +210,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Aug/19/sammy1.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mahama commissions Christian Tetteh Yohuno Ward Complex at Police Hospital",
-      "link": "https://www.myjoyonline.com/mahama-commissions-christian-tetteh-yohuno-ward-complex-at-police-hospital/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T16:52:23.000Z",
-      "summary": "President John Dramani Mahama has commissioned an 85-bed ward complex at the Police Hospital in Accra, named after the Inspector General of Police (IGP), Christian Tetteh Yohuno.",
-      "categories": [
-        "Health",
-        "National",
-        "Christian Tetteh Yohuno",
-        "Christian Tetteh Yohuno Ward Complex",
-        "President John Dramani Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Police-hospital-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vice President calls for wider access to Ghana’s political party histories",
-      "link": "https://www.myjoyonline.com/vice-president-calls-for-wider-access-to-ghanas-political-party-histories/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T16:52:11.000Z",
-      "summary": "Vice President Professor Naana Jane Opoku-Agyemang has called for wider access to publications documenting Ghana’s political party histories, stressing the importance of historical…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Professor Naana Jane Opoku-Agyemang"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1342.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "I have no regrets joining Assemblies of God – President Mahama",
@@ -305,42 +348,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Wontumi appears in court, pleads not guilty in amended Exim Bank fraud charges",
-      "link": "https://www.graphic.com.gh/news/general-news/wontumi-appears-in-court-pleads-not-guilty-in-amended-exim-bank-fraud-charges.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-13T14:02:04.000Z",
-      "summary": "The convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi Bernard Antwi-Boasiako, has pleaded not guilty…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/IMG_4541.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mahama directs Finance Minister to allocate GH¢200m in 2027 Budget to complete Police Hospital expansion",
-      "link": "https://www.graphic.com.gh/news/general-news/mahama-directs-finance-minister-to-allocate-ghc200m-in-2027-budget-to-complete-police-hospital-expansion.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-13T13:34:22.000Z",
-      "summary": "President John Dramani Mahama has directed the Minister of Finance to allocate more than GH¢200 million in the 2027 Budget to help complete the expansion project at the Police Hospital in…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/13/police_hospital1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education Minister asks GETFund to allocate GH¢100million to St. Paul's Technical School to produce beds for schools",
-      "link": "https://www.graphic.com.gh/news/education/education-minister-asks-getfund-to-allocate-ghc100million-to-st-pauls-technical-school-to-produce-beds-for-schools.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-13T11:50:10.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu has asked GETFund to allocate GH¢100million to the St. Paul’s Technical School (SPATS) at Kukurantumi in the Eastern Region for the school to…",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/13/harunaiddrisueducation.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GCB Customers Share Growth Priorities and Service Feedback at Town Hall",
