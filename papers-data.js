@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-12T23:23:31.790Z",
+  "updated": "2026-10-13T03:41:37.284Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,56 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "What Is Wrong With Us: We queue for the Colosseum while our own Castles crumble",
+      "link": "https://www.myjoyonline.com/what-is-wrong-with-us-we-queue-for-the-colosseum-while-our-own-castles-crumble/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T03:17:45.000Z",
+      "summary": "From Elmina to Robben Island, Africa holds some of humanity’s most precious history. The tourism money is real. The uncomfortable question is how much of it ever reaches the monuments that…",
+      "categories": [
+        "Features",
+        "National",
+        "News",
+        "Opinion",
+        "Castles",
+        "Colosseum",
+        "Douglas Boateng",
+        "What is wrong with us"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Douglas-Boateng.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Visa scandal: Pius Hadzide questions NSA secretariat and appointment outside authority’s structure",
+      "link": "https://www.myjoyonline.com/visa-scandal-pius-hadzide-questions-nsa-secretariat-and-appointment-outside-authoritys-structure/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T23:18:00.000Z",
+      "summary": "Former Deputy Sports Minister Pius Enam Hadzide has questioned the establishment of a secretariat at the National Sports Authority (NSA).",
+      "categories": [
+        "Football",
+        "National",
+        "Pius Enam Hadzide",
+        "World Cup visa scandal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-anatomy-of-a-visa-scandal-we-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pius Hadzide challenges scandal label on 2018 Australia visa affair",
+      "link": "https://www.myjoyonline.com/pius-hadzide-challenges-scandal-label-on-2018-australia-visa-affair/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-12T22:58:00.000Z",
+      "summary": "Former Deputy Sports Minister Pius Enam Hadzide has challenged the description of the 2018 Australia visa affair as a scandal. He says no one has publicly identified him as the recipient of…",
+      "categories": [
+        "National",
+        "Other Sports",
+        "Top Story",
+        "2018 Australia visa scandal",
+        "Pius Hadzide"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-anatomy-of-a-visa-scandal-we.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Trump says he is considering firing US ambassador to Greece",
       "link": "https://www.myjoyonline.com/trump-says-he-is-considering-firing-us-ambassador-to-greece/",
@@ -96,55 +146,6 @@ window.GDC_PAPERS = {
         "Man City"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1135.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Is Ghana producing too many lawyers? What is the best lawyer-to-citizen ratio?",
-      "link": "https://www.myjoyonline.com/is-ghana-producing-too-many-lawyers-what-is-the-best-lawyer-to-citizen-ratio/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T22:17:16.000Z",
-      "summary": "On Friday, October 9, 2026, the General Legal Council of Ghana recorded the names of 1,568 individuals onto the roll of lawyers, marking the single largest number of individuals called to…",
-      "categories": [
-        "National",
-        "Opinion",
-        "General Legal Council",
-        "Ghana",
-        "Lawyer-to-Citizen Ratios",
-        "Lawyers",
-        "Richard Nii Amarh"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Lawyers.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC sinking Ghana’s democracy with Emelia Agbenyo’s appointment – Miracles Aboagye",
-      "link": "https://www.myjoyonline.com/ndc-sinking-ghanas-democracy-with-emelia-agbenyos-appointment-miracles-aboagye/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T22:08:00.000Z",
-      "summary": "The Communications Director of the New Patriotic Party (NPP), Dennis Miracles Aboagye, has accused the National Democratic Congress (NDC) of undermining Ghana’s democracy over the…",
-      "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Democracy",
-        "Emelia Agbenyo",
-        "Miracles Aboagye"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Screenshot-2025-07-12-115648-1024x636.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Seedorf back in football as Corinthians head coach",
-      "link": "https://www.myjoyonline.com/seedorf-back-in-football-as-corinthians-head-coach/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T21:55:00.000Z",
-      "summary": "Corinthians have appointed Clarence Seedorf as their head coach, with the former Netherlands midfielder taking on his first coaching role since 2019.",
-      "categories": [
-        "Football",
-        "Clarence Seedorf",
-        "Corinthians"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1256.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

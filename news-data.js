@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-12T23:23:18.935Z",
-  "worldAt": "2026-10-12T23:23:18.933Z",
+  "updated": "2026-10-13T03:41:24.119Z",
+  "worldAt": "2026-10-13T03:41:24.116Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -37,7 +37,7 @@ window.GDC_NEWS = {
     "World · BBC News: 30 stories",
     "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: 32 stories",
+    "Africa · AllAfrica: 31 stories",
     "Africa · AllAfrica Business: 30 stories",
     "Africa · Africanews: 27 stories",
     "Africa · BBC Africa: 30 stories",
@@ -1099,26 +1099,71 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
-      "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-12T22:44:00.000Z",
-      "summary": "Warsaw says the 2 suspects held in Germany will face sabotage charges."
+      "published": "2026-10-13T03:11:19.000Z",
+      "summary": "Ukraine's president says Russian attacks on Ukraine’s energy infrastructure are continuing despite 'energy ceasefire'."
+    },
+    {
+      "title": "Russia says Europe bought $320 billion in hydrocarbons since 2022",
+      "link": "https://www.france24.com/en/europe/20261013-russia-says-europe-bought-320-billion-in-hydrocarbons-since-2022",
+      "source": "France 24",
+      "published": "2026-10-13T03:10:12.000Z",
+      "summary": "Russia said on Monday that European Union countries had bought $320.7 billion worth of its energy resources since 2022, despite sanctions over the war in Ukraine. The figure fuelled…",
+      "image": "https://s.france24.com/media/display/af462b9c-c6a6-11f1-aa6d-e362370cce2e/w:1024/p:16x9/1a5bd83c4347c7ff92f5c51031b917a553b7d6de.jpg"
+    },
+    {
+      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T03:01:53.000Z",
+      "summary": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France."
+    },
+    {
+      "title": "'Breaking Bad' actor and disability activist RJ Mitte dies aged 34",
+      "link": "https://www.france24.com/en/americas/20261013-breaking-bad-actor-and-disability-activist-rj-mitte-dies-aged-34",
+      "source": "France 24",
+      "published": "2026-10-13T01:43:04.000Z",
+      "summary": "\"Breaking Bad\" actor RJ Mitte, who played Walter White Jr. in the hit US television series, has died aged 34, his representatives said Monday. The actor, who lived with cerebral palsy, also…",
+      "image": "https://s.france24.com/media/display/3ae51ebe-c69e-11f1-8ce7-29a2e29ae696/w:1024/p:16x9/AP25157102255151.jpg"
+    },
+    {
+      "title": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
+      "link": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T02:37:10.000Z",
+      "summary": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in 'large-scale' cyberattack."
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T01:26:02.000Z",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg"
+    },
+    {
+      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T01:46:25.000Z",
+      "summary": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny."
     },
     {
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-12T22:24:11.000Z",
+      "published": "2026-10-13T00:12:25.000Z",
       "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d722/live/ce8c0310-c67d-11f1-841c-2105a54cdb08.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d701/live/f34aa090-c69f-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
-      "link": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
+      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-12T22:23:44.000Z",
-      "summary": "Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty."
+      "published": "2026-10-13T00:00:00.000Z",
+      "summary": "US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport."
     },
     {
       "title": "What we know about Pope Leo XIV's planned lung operation this week",
@@ -1129,12 +1174,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/2c428f50-bb58-11f1-a1b9-8f3418d01115/w:1024/p:16x9/2026-09-28T155925Z-496606537-RC2FSNABCLSJ-RTRMADP-3-POPE-FRANCE.jpg"
     },
     {
+      "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+      "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T23:54:05.000Z",
+      "summary": "Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport."
+    },
+    {
       "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-12T22:05:31.000Z",
       "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc45/live/01c4d970-c64f-11f1-b47f-e3f9cf703bc3.png"
+    },
+    {
+      "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+      "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T23:09:50.000Z",
+      "summary": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico."
     },
     {
       "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
@@ -1144,11 +1203,11 @@ window.GDC_NEWS = {
       "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump."
     },
     {
-      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
-      "link": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+      "title": "US archbishop says Catholics in army should not participate in firing squad",
+      "link": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-12T21:33:13.000Z",
-      "summary": "Prime Minister Mark Carney's Thanksgiving message comes a week ahead of Alberta's referendum to secede."
+      "published": "2026-10-12T23:05:16.000Z",
+      "summary": "Archbishop Timothy Broglio says US plan to livestream Fort Hood attacker's execution is contrary to church teachings."
     },
     {
       "title": "Many Iranians who go to Turkey to find jobs are exploited",
@@ -1156,6 +1215,13 @@ window.GDC_NEWS = {
       "source": "NPR World",
       "published": "2026-10-12T21:37:21.000Z",
       "summary": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with nothing but more debt."
+    },
+    {
+      "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+      "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T22:44:00.000Z",
+      "summary": "Warsaw says the 2 suspects held in Germany will face sabotage charges."
     },
     {
       "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
@@ -1166,11 +1232,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/91c2240a-c682-11f1-b3c0-3774aeac812a/w:1024/p:16x9/EN-20261012-231249-231450-CS.jpg"
     },
     {
-      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-      "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
+      "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
+      "link": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-12T21:27:42.000Z",
-      "summary": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues."
+      "published": "2026-10-12T22:23:44.000Z",
+      "summary": "Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty."
     },
     {
       "title": "DR Congo's former president Joseph Kabila to lead new movement with M23 rebels",
@@ -1181,6 +1247,13 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7910c4e6-7f90-11f0-99ca-005056a97e36/w:1024/p:16x9/000-48NY9FH.jpg"
     },
     {
+      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+      "link": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T21:33:13.000Z",
+      "summary": "Prime Minister Mark Carney's Thanksgiving message comes a week ahead of Alberta's referendum to secede."
+    },
+    {
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1189,11 +1262,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg"
     },
     {
-      "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
-      "link": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+      "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-12T21:16:58.000Z",
-      "summary": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?"
+      "published": "2026-10-12T21:27:42.000Z",
+      "summary": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues."
     },
     {
       "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
@@ -1204,11 +1277,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75f/live/3e394450-c680-11f1-841c-2105a54cdb08.jpg"
     },
     {
-      "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
+      "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+      "link": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-12T21:08:08.000Z",
-      "summary": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament."
+      "published": "2026-10-12T21:16:58.000Z",
+      "summary": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?"
     },
     {
       "title": "Paris Motor Show kicks off as China-EU rivalry heats up",
@@ -1219,12 +1292,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5e7f6e16-c67f-11f1-965c-e362370cce2e/w:1024/p:16x9/capture-14168453346acd4971049550-12762773.jpg"
     },
     {
-      "title": "Qantas flight grounded after bedbug outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-12T21:01:45.000Z",
-      "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0319/live/802fd450-c644-11f1-b47f-e3f9cf703bc3.jpg"
+      "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T21:08:08.000Z",
+      "summary": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament."
     },
     {
       "title": "'It's clear that Moscow is just playing with Washington', analyst says",
@@ -1235,12 +1307,12 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ed07b0c2-c67e-11f1-8806-e362370cce2e/w:1024/p:16x9/EN-20261012-223111-224306-CS.jpg"
     },
     {
-      "title": "Pupil arrested after two teachers shot at French school",
-      "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-12T21:01:28.000Z",
-      "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65c/live/757924d0-c621-11f1-b048-6946f232cb95.jpg"
+      "published": "2026-10-12T21:01:45.000Z",
+      "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0319/live/802fd450-c644-11f1-b47f-e3f9cf703bc3.jpg"
     },
     {
       "title": "No, these pictures do not show the Houthi attacks on Riyadh King Khalid Airport",
@@ -1251,12 +1323,12 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a68565f4-c67e-11f1-a7d8-3774aeac812a/w:1024/p:16x9/EN-20261012-222151-222647-CS.jpg"
     },
     {
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "title": "Pupil arrested after two teachers shot at French school",
+      "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-12T20:54:09.000Z",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg"
+      "published": "2026-10-12T21:01:28.000Z",
+      "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65c/live/757924d0-c621-11f1-b048-6946f232cb95.jpg"
     },
     {
       "title": "'It's clear that Moscow is just playing with Washington', analyst says",
@@ -1325,83 +1397,23 @@ window.GDC_NEWS = {
       "published": "2026-10-12T20:18:41.000Z",
       "summary": "French presidential candidate Raphael Glucksmann declared Monday that the \"battle begins\" as he launched a bid to unite a fragmented left ahead of next year's election. Speaking with FRANCE…",
       "image": "https://s.france24.com/media/display/58a4f25a-c679-11f1-bba7-53993c5f1f18/w:1024/p:16x9/EN-20261012-213117-214026-CS.jpg"
-    },
-    {
-      "title": "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T19:48:21.000Z",
-      "summary": "The barrage of spending comes as Republicans fight to overcome Trump's slipping popularity and cost of living concerns."
-    },
-    {
-      "title": "Houthi official warns of 'swift, painful response' if US enters Yemen war",
-      "link": "https://www.france24.com/en/houthi-official-warns-of-swift-painful-response-if-us-enters-yemen-war",
-      "source": "France 24",
-      "published": "2026-10-12T19:42:01.000Z",
-      "summary": "A Houthi official on Monday warned the US it would receive a \"painful response\" if it entered the war in Yemen, where Saudi Arabia has reportedly requested Washington's help in dealing with…",
-      "image": "https://s.france24.com/media/display/b0b3ed52-c66f-11f1-8380-e362370cce2e/w:1024/p:16x9/EN-20261012-203211-203405-CS.jpg"
-    },
-    {
-      "title": "Teenager shoots headmaster, teacher at French school",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T19:44:00.000Z",
-      "summary": "French officials say a 14-year-old boy opened fire with a hunting rifle at a middle school in the town of Aubagne."
-    },
-    {
-      "title": "'Increasingly evident' Russia won't accept 'energy ceasefire': Zelensky",
-      "link": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky",
-      "source": "France 24",
-      "published": "2026-10-12T19:40:05.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky said Monday it was clear that Russia would not agree to stop hitting energy targets, after US President Donald Trump unilaterally announced a deal…",
-      "image": "https://s.france24.com/media/display/de7a2f66-0d70-11f1-b26c-005056a97e36/w:1024/p:16x9/2026-01-28T160607Z-351041766-RC2U7JAOLLPY-RTRMADP-3-UKRAINE-CRISIS-ENERGY-1.jpg"
-    },
-    {
-      "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T19:37:11.000Z",
-      "summary": "Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’."
-    },
-    {
-      "title": "France’s far right leader visits Ceuta amid migration debate",
-      "link": "http://www.africanews.com/2026/10/12/frances-far-right-leader-visits-ceuta-amid-migration-debate/",
-      "source": "Africanews",
-      "published": "2026-10-12T19:24:52.000Z",
-      "summary": "France’s far-right leader Jordan Bardella begins a two-day visit to Spain with a stop in Ceuta, where a mass migrant influx reignited debate over immigration."
-    },
-    {
-      "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
-      "link": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T19:27:41.000Z",
-      "summary": "NATO commander issues warning as European officials have called for vigilance over potential Russian attacks."
-    },
-    {
-      "title": "Houthis 'are thriving and surviving by creating war', Yemen ambassador says",
-      "link": "https://www.france24.com/en/houthis-are-thriving-and-surviving-by-creating-war-yemen-ambassador-says",
-      "source": "France 24",
-      "published": "2026-10-12T19:08:05.000Z",
-      "summary": "Speaking with FRANCE 24's Mark Owen, Yemen's ambassador to France Riyad Yassin Abdallah says that the Iran-backed Houthi \"are thriving and surviving by creating war\". Saudi Arabia's energy…",
-      "image": "https://s.france24.com/media/display/50966bf2-c66f-11f1-924c-77317c09f325/w:1024/p:16x9/EN-20261012-203406-204032-CS.jpg"
-    },
-    {
-      "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
-      "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T19:06:44.000Z",
-      "summary": "Vatican expects a one-week hospital recovery for the 71-year-old Catholic leader ahead of scheduled Latin America tour."
-    },
-    {
-      "title": "'A lot of Ukrainians are feeling extremely betrayed' by Trump's Russian diesel deal",
-      "link": "https://www.france24.com/en/a-lot-of-ukrainians-are-feeling-extremely-betrayed-by-trump-s-russian-diesel-deal",
-      "source": "France 24",
-      "published": "2026-10-12T19:04:39.000Z",
-      "summary": "Reporting from central Ukraine, FRANCE 24's Gulliver Cragg says that \"a lot of Ukrainians are feeling extremely betrayed by a country that until recently they saw not only as an ally but as…",
-      "image": "https://s.france24.com/media/display/eed7c2c6-c66e-11f1-80dc-77317c09f325/w:1024/p:16x9/EN-20261012-200509-200949-CS.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T01:46:25.000Z",
+      "summary": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny."
+    },
+    {
+      "title": "South Africa: At Least 72 Sudanese Artisanal Miners Killed in Strike, Rights Monitor Says",
+      "link": "https://allafrica.com/stories/202610120820.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-12T23:44:48.000Z",
+      "summary": "[Daily Maverick] Oct 11 (Reuters) - At least 72 artisanal miners were killed in an airstrike in northern Sudan on Saturday, rights monitor Emergency Lawyers said on Sunday, in the second…"
+    },
     {
       "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
       "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
@@ -1496,11 +1508,11 @@ window.GDC_NEWS = {
       "summary": "[Namibian] Fishermen facing the termination of the Government Employment Redress Programme say they are uncertain about their futures."
     },
     {
-      "title": "Kenya: Ruto to Uhuru - You're a Conman, Retire",
-      "link": "https://allafrica.com/stories/202610120554.html",
+      "title": "Kenya: Muturi Calls for Duale's Resignation Over Alleged Ebola Screening Lapses",
+      "link": "https://allafrica.com/stories/202610120555.html",
       "source": "AllAfrica",
-      "published": "2026-10-12T15:31:30.000Z",
-      "summary": "[Capital FM] Nairobi -- President William Ruto has renewed his attack on retired President Uhuru Kenyatta, accusing him of betraying their political agreement and misleading other leaders…"
+      "published": "2026-10-12T15:31:46.000Z",
+      "summary": "[Capital FM] Nairobi -- Democratic Party of Kenya leader Justin Muturi has called on Health Cabinet Secretary Aden Duale to resign if he fails to account for the government's handling of an…"
     },
     {
       "title": "Namibia: Rural Communities Told Solar Electricity Is Not a Second-Class Solution",
@@ -1508,6 +1520,13 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-12T15:32:50.000Z",
       "summary": "[Namibian] Deputy minister of industries, mines and energy Gaudentia Kröhne urges rural communities not to view solar electricity as a second-class solution, as it can power their houses…"
+    },
+    {
+      "title": "Kenya: Ruto to Uhuru - You're a Conman, Retire",
+      "link": "https://allafrica.com/stories/202610120554.html",
+      "source": "AllAfrica",
+      "published": "2026-10-12T15:31:30.000Z",
+      "summary": "[Capital FM] Nairobi -- President William Ruto has renewed his attack on retired President Uhuru Kenyatta, accusing him of betraying their political agreement and misleading other leaders…"
     },
     {
       "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
@@ -1662,27 +1681,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-12T10:46:49.000Z",
       "summary": "Two-time Olympic champion Eliud Kipchoge set a race record Sunday in winning the Melbourne Marathon. And it could have been a few seconds faster."
-    },
-    {
-      "title": "Togo: Togo's Cotton Farmers Rebuild Soils And Cut Pest Treatments",
-      "link": "https://allafrica.com/stories/202610120356.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-12T10:56:26.000Z",
-      "summary": "[Bird Story Agency] Cotton farmers in Togo are rebuilding their soils, reporting higher yields and reducing pesticide applications as regenerative practices take root. Farmer field schools…"
-    },
-    {
-      "title": "South Africa: Chris Hani's Killer Could Become a Polish MP",
-      "link": "https://allafrica.com/stories/202610120325.html",
-      "source": "AllAfrica",
-      "published": "2026-10-12T10:45:41.000Z",
-      "summary": "[GroundUp] Janusz Waluś has become a mascot of the far right and has a political base in Poland"
-    },
-    {
-      "title": "Kenya: Ruto Eyes Nairobi Role in Africa's New Credit Rating Agency",
-      "link": "https://allafrica.com/stories/202610120330.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-12T10:45:45.000Z",
-      "summary": "[Capital FM] Nairobi -- President William Ruto has announced plans for Kenya to explore becoming a sovereign client of Africa's newly launched credit rating agency, while pushing for…"
     }
   ]
 };
