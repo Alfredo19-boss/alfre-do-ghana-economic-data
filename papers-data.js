@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-14T20:43:24.613Z",
+  "updated": "2026-10-14T23:28:21.255Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,126 +25,122 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GES asks applicants to check status of 2026 promotion applications on October 15",
-      "link": "https://www.myjoyonline.com/ges-asks-applicants-to-check-status-of-2026-promotion-applications-on-october-15/",
+      "title": "Man City suffer as PSG masterclass sets up Champions League win",
+      "link": "https://www.myjoyonline.com/man-city-suffer-as-psg-masterclass-sets-up-champions-league-win/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T20:19:26.000Z",
-      "summary": "The Ghana Education Service (GES) has directed all eligible applicants in its 2026 promotion exercise to check the status of their applications on Thursday, October 15, 2026.",
+      "published": "2026-10-14T22:19:00.000Z",
+      "summary": "Manchester City were brought down to earth by a masterclass from Champions League holders Paris St-German at Etihad Stadium.",
       "categories": [
-        "Education",
-        "HP News 3",
-        "GES"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/teachers.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1450-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kobe Boujee joins Olympics.com team for Dakar 2026 Youth Olympic Games",
-      "link": "https://www.myjoyonline.com/kobe-boujee-joins-olympics-com-team-for-dakar-2026-youth-olympic-games/",
+      "title": "Customer Service Africa CEO urges business leaders to observe staff and customer interactions",
+      "link": "https://www.myjoyonline.com/customer-service-africa-ceo-urges-business-leaders-to-observe-staff-and-customer-interactions/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T20:11:34.000Z",
-      "summary": "Ghanaian content creator Kobe Boujee has been selected as a Content Contributor and Producer, joining the Olympics.com team ahead of the Dakar 2026 Youth Olympic Games, set to take place…",
+      "published": "2026-10-14T22:09:15.000Z",
+      "summary": "Founder and CEO of Customer Service Africa, Priscilla Wellington, says direct observation can help leaders identify problems, reinforce organisational values and ensure employees…",
       "categories": [
-        "Art & Design",
-        "Dakar",
-        "Kobe Boujee",
-        "Olympics"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/P1040332.jpg-scaled-e1792008657370-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Slaty egret’s shifting nesting sites offer clues to changing ecosystems",
-      "link": "https://www.myjoyonline.com/slaty-egrets-shifting-nesting-sites-offer-clues-to-changing-ecosystems/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T20:04:58.000Z",
-      "summary": "Scientists studying a rare African waterbird in Botswana’s Okavango Delta have found that previously established nesting sites are no longer being used, while new breeding locations have…",
-      "categories": [
-        "International",
-        "Ecosystem",
-        "Okavango Delta",
-        "slaty egret",
-        "UNEP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Slaty-Egrets-Copyright-Jeffrey-Barbee-27.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "First phase of arrears for promoted teachers to be paid on Friday – Haruna Iddrisu announces",
-      "link": "https://www.myjoyonline.com/first-phase-of-arrears-for-promoted-teachers-to-be-paid-on-friday-haruna-iddrisu-announces/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T20:02:01.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, has announced that the government would honour its promise to pay promoted teachers their due salaries by the end of October 2026. He indicated…",
-      "categories": [
-        "National",
-        "Conference of Heads of Assisted Secondary Schools",
-        "Haruna Iddrisu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/First-phase-of-arrears-for-promoted-teachers-to-be-paid-on-Friday-Haruna-Iddrisu-announces-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Caveman Watches partners with Mfantsipim School for 150th anniversary",
-      "link": "https://www.myjoyonline.com/caveman-watches-partners-with-mfantsipim-school-for-150th-anniversary/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T19:40:27.000Z",
-      "summary": "Ghanaian watch brand Caveman Watches has partnered with Mfantsipim School to mark the institution’s 150th anniversary, celebrating its history of academic excellence, leadership and…",
-      "categories": [
-        "Events",
-        "150 years",
-        "Caveman Watches",
-        "Mfantsipim"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-19.27.05-1024x675.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We’ll pursue GH¢15m defamation suit against Sammy Gyamfi to its logical conclusion – Afenyo-Markin’s lawyers",
-      "link": "https://www.myjoyonline.com/well-pursue-gh%c2%a215m-defamation-suit-against-sammy-gyamfi-to-its-logical-conclusion-afenyo-markins-lawyers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T19:39:51.000Z",
-      "summary": "Lawyers for Minority Leader Alexander Afenyo-Markin say they will pursue his GH¢15 million defamation suit against Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi despite…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Afenyo-Markin",
-        "Lawyers",
-        "Suit"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Afenyo_Gyamfi-e1792006787530-1024x758.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Martin Kpebu urges Afenyo-Markin not to return to court over Sammy Gyamfi lawsuit",
-      "link": "https://www.myjoyonline.com/martin-kpebu-urges-afenyo-markin-not-to-return-to-court-over-sammy-gyamfi-lawsuit/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T19:30:56.000Z",
-      "summary": "Private legal practitioner Martin Kpebu has urged Minority Leader Alexander Afenyo-Markin not to return to court over his GH¢15 million defamation suit against Ghana Gold Board (GoldBod)…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Alexander Afenyo-Markin",
-        "Martin Kpebu",
-        "Sammy Gyamfi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sammy-and-Afenyo-1024x724.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA submits preliminary report on drug shipment case to Mahama – Commissioner-General",
-      "link": "https://www.myjoyonline.com/gra-submits-preliminary-report-on-drug-shipment-case-to-mahama-commissioner-general/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T19:03:29.000Z",
-      "summary": "The Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Kwasi Sarpong, has disclosed that a preliminary investigation report into the recent drug shipment case involving…",
-      "categories": [
-        "HP News 1",
-        "National",
+        "Business",
+        "Economy",
         "News",
-        "drug shipment case",
-        "GRA",
-        "Mahama"
+        "Customer Service",
+        "Customer Service Africa",
+        "Customer Service Month",
+        "Priscilla Wellington"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gra.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Priscilla-Wellington-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+      "link": "https://www.myjoyonline.com/on-night-of-mayhem-for-liverpool-barcola-arrives-in-style/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T22:08:05.000Z",
+      "summary": "On the eve of Liverpool's meeting with LASK, manager Andoni Iraola was repeatedly asked about the fortunes of Florian Wirtz and Bradley Barcola.",
+      "categories": [
+        "Football",
+        "Bradley Barcola",
+        "Liverpool"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1449-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Muzic Mensah finds healing and renewed love in new single ‘WayƐ Late’",
+      "link": "https://www.myjoyonline.com/muzic-mensah-finds-healing-and-renewed-love-in-new-single-way%c9%9b-late/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T21:56:05.000Z",
+      "summary": "The song tells the story of a relationship that has ended and the unexpected happiness that follows when someone new enters the picture, bringing renewed affection, peace, and stability.",
+      "categories": [
+        "Arts and Culture",
+        "Music",
+        "Muzic Mensah",
+        "New single",
+        "WayƐ Late"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gfd-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FIFA to offer extra £2.6bn for football development",
+      "link": "https://www.myjoyonline.com/fifa-to-offer-extra-2-6bn-for-football-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T21:54:01.000Z",
+      "summary": "FIFA is set to propose a $3.4bn (£2.6bn) increase in the amount of money it allocates to football development worldwide.",
+      "categories": [
+        "Football",
+        "FIFA",
+        "Gianni Infantino"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/image-1197.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government backing is no EPA permit – Authority warns GoldBod, ministries",
+      "link": "https://www.myjoyonline.com/government-backing-is-no-epa-permit-authority-warns-goldbod-ministries/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T21:46:00.000Z",
+      "summary": "The Environmental Protection Authority (EPA) has warned public institutions, including the Ministry of Lands and Natural Resources and Ghana Gold Board (GoldBod), that government backing…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "Environmental Protection Agency (EPA)",
+        "Goldbod",
+        "Reclamation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/EPA-647x424-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Real Madrid produce stunning late fightback to down Roma",
+      "link": "https://www.myjoyonline.com/real-madrid-produce-stunning-late-fightback-to-down-roma/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T21:34:00.000Z",
+      "summary": "Real Madrid produced a sensational recovery from 3-1 down, scoring three late goals to snatch a superb Champions League win over Roma on Jose Mourinho's return to the Stadio Olimpico.",
+      "categories": [
+        "Football",
+        "AS Roma",
+        "Real Madrid"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1448.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EPA orders immediate halt to unpermitted reclamation and dredging nationwide",
+      "link": "https://www.myjoyonline.com/epa-orders-immediate-halt-to-unpermitted-reclamation-and-dredging-nationwide/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T21:25:18.000Z",
+      "summary": "The Environmental Protection Authority (EPA) has ordered an immediate halt to land reclamation, dredging and environmental restoration projects operating without its environmental permits…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Environmental Protection Agency (EPA)",
+        "Reclamation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/GoldBod-Tano-Nimri-reclamation-2-1024x575.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
