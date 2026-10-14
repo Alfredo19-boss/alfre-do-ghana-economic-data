@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-13T21:32:13.558Z",
+  "updated": "2026-10-14T00:35:52.991Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,16 +22,16 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-13T21:32:13.558Z",
+  "officialAt": "2026-10-14T00:35:52.991Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.7151 (mid-market, 2026-10-13)",
     "gbp: 15.4894 (mid-market, 2026-10-13)",
     "eur: 13.0917 (mid-market, 2026-10-13)",
     "cny: 1.74963 (mid-market, 2026-10-13)",
-    "gold: 4184.2 at 2026-10-13T21:00:00.000Z",
+    "gold: 4183.3 at 2026-10-14T00:25:42.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-13, usd/gbp/eur",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-13: 2026-10-13, usd/gbp/eur",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-14: 2026-10-13, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
     "BoG in use: 2026-10-13 · usd 11.7059, gbp 15.5074, eur 13.1024"
   ],
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.75852
     },
     "gold": {
-      "value": 4184.2,
-      "at": "2026-10-13T21:00:00.000Z",
+      "value": 4183.3,
+      "at": "2026-10-14T00:25:42.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4183
+      "prev": 4184.2
     }
   }
 };
