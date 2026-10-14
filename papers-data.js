@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-14T17:14:44.699Z",
+  "updated": "2026-10-14T20:43:24.613Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,141 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GES asks applicants to check status of 2026 promotion applications on October 15",
+      "link": "https://www.myjoyonline.com/ges-asks-applicants-to-check-status-of-2026-promotion-applications-on-october-15/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T20:19:26.000Z",
+      "summary": "The Ghana Education Service (GES) has directed all eligible applicants in its 2026 promotion exercise to check the status of their applications on Thursday, October 15, 2026.",
+      "categories": [
+        "Education",
+        "HP News 3",
+        "GES"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/teachers.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kobe Boujee joins Olympics.com team for Dakar 2026 Youth Olympic Games",
+      "link": "https://www.myjoyonline.com/kobe-boujee-joins-olympics-com-team-for-dakar-2026-youth-olympic-games/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T20:11:34.000Z",
+      "summary": "Ghanaian content creator Kobe Boujee has been selected as a Content Contributor and Producer, joining the Olympics.com team ahead of the Dakar 2026 Youth Olympic Games, set to take place…",
+      "categories": [
+        "Art & Design",
+        "Dakar",
+        "Kobe Boujee",
+        "Olympics"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/P1040332.jpg-scaled-e1792008657370-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Slaty egret’s shifting nesting sites offer clues to changing ecosystems",
+      "link": "https://www.myjoyonline.com/slaty-egrets-shifting-nesting-sites-offer-clues-to-changing-ecosystems/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T20:04:58.000Z",
+      "summary": "Scientists studying a rare African waterbird in Botswana’s Okavango Delta have found that previously established nesting sites are no longer being used, while new breeding locations have…",
+      "categories": [
+        "International",
+        "Ecosystem",
+        "Okavango Delta",
+        "slaty egret",
+        "UNEP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Slaty-Egrets-Copyright-Jeffrey-Barbee-27.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "First phase of arrears for promoted teachers to be paid on Friday – Haruna Iddrisu announces",
+      "link": "https://www.myjoyonline.com/first-phase-of-arrears-for-promoted-teachers-to-be-paid-on-friday-haruna-iddrisu-announces/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T20:02:01.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, has announced that the government would honour its promise to pay promoted teachers their due salaries by the end of October 2026. He indicated…",
+      "categories": [
+        "National",
+        "Conference of Heads of Assisted Secondary Schools",
+        "Haruna Iddrisu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/First-phase-of-arrears-for-promoted-teachers-to-be-paid-on-Friday-Haruna-Iddrisu-announces-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Caveman Watches partners with Mfantsipim School for 150th anniversary",
+      "link": "https://www.myjoyonline.com/caveman-watches-partners-with-mfantsipim-school-for-150th-anniversary/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T19:40:27.000Z",
+      "summary": "Ghanaian watch brand Caveman Watches has partnered with Mfantsipim School to mark the institution’s 150th anniversary, celebrating its history of academic excellence, leadership and…",
+      "categories": [
+        "Events",
+        "150 years",
+        "Caveman Watches",
+        "Mfantsipim"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-19.27.05-1024x675.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We’ll pursue GH¢15m defamation suit against Sammy Gyamfi to its logical conclusion – Afenyo-Markin’s lawyers",
+      "link": "https://www.myjoyonline.com/well-pursue-gh%c2%a215m-defamation-suit-against-sammy-gyamfi-to-its-logical-conclusion-afenyo-markins-lawyers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T19:39:51.000Z",
+      "summary": "Lawyers for Minority Leader Alexander Afenyo-Markin say they will pursue his GH¢15 million defamation suit against Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi despite…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Afenyo-Markin",
+        "Lawyers",
+        "Suit"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Afenyo_Gyamfi-e1792006787530-1024x758.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Martin Kpebu urges Afenyo-Markin not to return to court over Sammy Gyamfi lawsuit",
+      "link": "https://www.myjoyonline.com/martin-kpebu-urges-afenyo-markin-not-to-return-to-court-over-sammy-gyamfi-lawsuit/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T19:30:56.000Z",
+      "summary": "Private legal practitioner Martin Kpebu has urged Minority Leader Alexander Afenyo-Markin not to return to court over his GH¢15 million defamation suit against Ghana Gold Board (GoldBod)…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Alexander Afenyo-Markin",
+        "Martin Kpebu",
+        "Sammy Gyamfi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sammy-and-Afenyo-1024x724.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA submits preliminary report on drug shipment case to Mahama – Commissioner-General",
+      "link": "https://www.myjoyonline.com/gra-submits-preliminary-report-on-drug-shipment-case-to-mahama-commissioner-general/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T19:03:29.000Z",
+      "summary": "The Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Kwasi Sarpong, has disclosed that a preliminary investigation report into the recent drug shipment case involving…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "drug shipment case",
+        "GRA",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gra.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia leads NPP Executives to mourn late Chairman Odoi-Sykes",
+      "link": "https://ghanaiantimes.com.gh/bawumia-leads-npp-executives-to-mourn-late-chairman-odoi-sykes/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T17:15:30.000Z",
+      "summary": "The flagbearer of the New Patriotic Party (NPP), Dr. Mahamudu Bawumia, today led the National Executives of the party to pay a condolence visit to the family of the late H.E. Samuel…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.46.34-2-1.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Suame MP John Darko denies involvement in SIC, equity savings and loans settlement",
       "link": "https://ghanaiantimes.com.gh/suame-mp-john-darko-denies-involvement-in-sic-equity-savings-and-loans-settlement/",
       "source": "Ghanaian Times",
@@ -38,80 +173,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Techiman North MP fulfills promise with new CHPS Compound in Kokoago",
-      "link": "https://www.myjoyonline.com/techiman-north-mp-fulfills-promise-with-new-chps-compound-in-kokoago/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T17:05:07.000Z",
-      "summary": "The people of Kokoago, a farming community in the Techiman North District of the Bono East Region, are breathing a collective sigh of relief following the commissioning and handing over of…",
-      "categories": [
-        "Regional",
-        "CHPS compound",
-        "Kokoago",
-        "Techiman North MP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1387-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Enterprise Trustees, Sinapi Aba launch ‘Asetenapa Plan’ to promote retirement savings among informal workers",
-      "link": "https://www.myjoyonline.com/enterprise-trustees-sinapi-aba-launch-asetenapa-plan-to-promote-retirement-savings-among-informal-workers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T17:03:16.000Z",
-      "summary": "For many Ghanaians who depend on daily sales and irregular incomes, saving towards retirement remains a challenge as immediate financial needs often take priority.",
-      "categories": [
-        "Regional",
-        "'Asetenapa Plan'",
-        "Enterprise Trustees",
-        "retirement savings",
-        "Sinapi Aba"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1396-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t working to ensure GAUA strike is called off by October 16 – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/govt-working-to-ensure-gaua-strike-is-called-off-by-october-16-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T16:58:39.000Z",
-      "summary": "Education Minister, Haruna Iddrissu, said the Fair Wages and Salaries Commission (FWSC) is liaising with the Finance Ministry to resolve the issue of market premium and one-time research…",
-      "categories": [
-        "Education",
-        "GAUA",
-        "Haruna Iddrisu",
-        "Strike"
-      ],
-      "image": null,
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KAIPTC Commandant calls for continent-wide strategy to tackle Africa’s maritime security threats",
-      "link": "https://www.myjoyonline.com/kaiptc-commandant-calls-for-continent-wide-strategy-to-tackle-africas-maritime-security-threats/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T16:46:52.000Z",
-      "summary": "The Commandant of the Kofi Annan International Peacekeeping Training Centre (KAIPTC), Air Vice Marshal David A. Akrong, has called for a continent-wide approach to maritime security…",
-      "categories": [
-        "National",
-        "Air Vice Marshal David A. Akrong",
-        "maritime security"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-09.27.23-1024x674.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRIDCo investigates Mallam substation fire as power restoration continues in Accra",
-      "link": "https://www.myjoyonline.com/gridco-investigates-mallam-substation-fire-as-power-restoration-continues-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T16:46:06.000Z",
-      "summary": "The Ghana Grid Company Limited (GRIDCo) is investigating a fire outbreak at its Mallam substation after a fault affected one of the facility’s transformers in the early hours of Wednesday…",
-      "categories": [
-        "National",
-        "GRIDCo",
-        "Mallam substation fire"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1402.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana Sports Fund engages federations on funding opportunities, development goals",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghana-sports-fund-engages-federations-on-funding-opportunities-development-goals.html",
       "source": "Graphic Sports",
@@ -122,51 +183,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/14/SPORTS_FUND.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "20% digital tax is not E-Levy – GRA boss",
-      "link": "https://www.myjoyonline.com/20-digital-tax-is-not-e-levy-gra-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T16:35:39.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has assured the public that the 20% digital tax collection is not a reintroduction of the Electronic Transfer Levy (E-Levy), insisting that it is not…",
-      "categories": [
-        "National",
-        "News",
-        "20% digital tax",
-        "E-Levy",
-        "GRA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gra-1024x481.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Defence Minister calls for intelligence-sharing and regional cooperation to tackle maritime insecurity",
-      "link": "https://www.myjoyonline.com/defence-minister-calls-for-intelligence-sharing-and-regional-cooperation-to-tackle-maritime-insecurity/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T16:31:49.000Z",
-      "summary": "Minister for Defence, Kenneth Gilbert Adjei, has called for stronger regional cooperation, intelligence-sharing and coordinated security operations to combat maritime crime and safeguard…",
-      "categories": [
-        "National",
-        "Kenneth Gilbert Adjei",
-        "maritime insecurity"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1413.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afenyo-Markin failed to comply with procedural rules in defamation suit – Sammy Gyamfi’s lawyers",
-      "link": "https://www.myjoyonline.com/afenyo-markin-failed-to-comply-with-procedural-rules-in-defamation-suit-sammy-gyamfis-lawyers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T16:21:12.000Z",
-      "summary": "Lawyers for Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi, Seth Anyaaba and Koko Abotsi, say the Minority Leader, Alexander Afenyo-Markin’s failure to comply with…",
-      "categories": [
-        "National",
-        "Afenyo-Markin",
-        "Goldbod",
-        "Sammy Gyamfi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/afenyo-markin-failed-to-comply-w.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Why Rwanda has been chosen to host Formula 1",
@@ -275,19 +291,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-10-14T14:22:18.000Z",
       "summary": "The Economic and Organised Crime Office (EOCO) has granted the Member of Parliament for Suame, John Darko, enquiry bail following investigations into an alleged criminal conspiracy that has…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GES interdicts Headmaster of Obuasi SHTS over alleged sexual misconduct",
-      "link": "https://ghanaiantimes.com.gh/ges-interdicts-headmaster-of-obuasi-shts-over-alleged-sexual-misconduct/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-14T14:20:15.000Z",
-      "summary": "The Management of the Ghana Education Service (GES) has interdicted Mr. Zakaria Abdulai, Headmaster of Obuasi Senior High Technical School in the Ashanti Region, pending a full-scale…",
       "categories": [
         "Hot!",
         "News"
