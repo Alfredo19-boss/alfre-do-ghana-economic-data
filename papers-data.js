@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-13T22:46:37.364Z",
+  "updated": "2026-10-14T01:26:51.423Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,50 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "NDC Deputy National Organizer Aspirant Hamza Umar targets grassroots mobilisation",
+      "link": "https://www.myjoyonline.com/ndc-deputy-national-organizer-aspirant-hamza-umar-targets-grassroots-mobilisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T01:21:49.000Z",
+      "summary": "Businessman and former student leader Hamza Umar has declared his intention to contest for Deputy National Organizer of the National Democratic Congress (NDC), pledging to strengthen…",
+      "categories": [
+        "Politics",
+        "Deputy National Organiser",
+        "Grassroots",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-01.03.48-808x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gordon scores as Barcelona beats Galatasaray",
+      "link": "https://www.myjoyonline.com/gordon-scores-as-barcelona-beats-galatasaray/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T22:22:00.000Z",
+      "summary": "Anthony Gordon scored his first Champions League goal for Barcelona as the Spanish side came from behind to beat Galatasaray in Istanbul.",
+      "categories": [
+        "Football",
+        "Anthony Gordon",
+        "Barcelona",
+        "Galatasaray"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1351.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bumble bought for $1.3bn in ‘bet on the future of humanity’",
+      "link": "https://www.myjoyonline.com/bumble-bought-for-1-3bn-in-bet-on-the-future-of-humanity/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T22:12:00.000Z",
+      "summary": "Dating app Bumble has been bought for $1.3bn (£980m) in what the new owners called \"a bet on the future of humanity\".",
+      "categories": [
+        "International",
+        "Bumble",
+        "Dating App"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1350-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Imagination Africa, Mentors Chess Academy to host second African Genius Chess Championship at Ghud Park",
       "link": "https://www.myjoyonline.com/imagination-africa-mentors-chess-academy-to-host-second-african-genius-chess-championship-at-ghud-park/",
       "source": "MyJoyOnline",
@@ -39,116 +83,60 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nana B passport claims a diversionary tactic — Abu Jinapor",
-      "link": "https://www.myjoyonline.com/nana-b-passport-claims-a-diversionary-tactic-abu-jinapor/",
+      "title": "Paradigm Initiative steps up calls over digital rights, internet freedom in Africa",
+      "link": "https://www.myjoyonline.com/paradigm-initiative-steps-up-calls-over-digital-rights-internet-freedom-in-africa/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T21:11:43.000Z",
-      "summary": "The Ranking Member on Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has dismissed allegations that the Member of Parliament for Bosome Freho, Nana Asafo-Adjei Ayeh, lobbied…",
+      "published": "2026-10-13T22:05:00.000Z",
+      "summary": "Paradigm Initiative (PIN), a pan-African digital rights organisation, is stepping up calls for stronger protection of human rights online as African policymakers and human rights…",
       "categories": [
-        "National",
-        "Politics",
-        "Ablakwa",
-        "Asafo-Adjei Ayeh",
-        "Hajia Zuwera Mohammed Ibrahimah",
-        "Jinapor",
-        "Nana B",
-        "NPP",
-        "Service Passport"
+        "Africa",
+        "Crime",
+        "News",
+        "Technology",
+        "DIGITAL RIGHT",
+        "PIN"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-4.28.35-am-1024x609.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/DIGITAL-ECONOMY-FORUM-12-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says",
-      "link": "https://www.myjoyonline.com/pope-leo-diagnosed-with-cancer-as-doctors-remove-lobe-of-lung-vatican-says/",
+      "title": "Saudi man charged with planting ‘sophisticated’ recording device in OpenAI office",
+      "link": "https://www.myjoyonline.com/saudi-man-charged-with-planting-sophisticated-recording-device-in-openai-office/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T21:11:32.000Z",
-      "summary": "Pope Leo was diagnosed with a common form of lung cancer after doctors removed ​a lower lobe of his right lung in surgery on Tuesday, the Vatican said in a medical bulletin.",
+      "published": "2026-10-13T21:55:00.000Z",
+      "summary": "A Saudi national has been charged with secretly planting a recording device in one of OpenAI's offices in California, federal prosecutors announced.",
       "categories": [
         "International",
-        "Lobe",
-        "Pope Leo",
-        "Vatican"
+        "Saudi man"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-226-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1349-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Legal Aid Commission takes free legal services to Techiman main lorry terminal",
-      "link": "https://www.myjoyonline.com/legal-aid-commission-takes-free-legal-services-to-techiman-main-lorry-terminal/",
+      "title": "Ghana wins UN Human Rights Council seat as calls grow for action against atrocities",
+      "link": "https://www.myjoyonline.com/ghana-wins-un-human-rights-council-seat-as-calls-grow-for-action-against-atrocities/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T21:06:56.000Z",
-      "summary": "The Ghana Legal Aid Commission has launched its 2026 Legal Aid Week with a bold new approach to closing the country's access-to-justice gap, bringing free legal services directly to the…",
-      "categories": [
-        "Regional",
-        "Ghana Legal Aid Commission",
-        "lorry terminal",
-        "Techiman"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-20.00.38-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nana B denies seeking passport favour, accuses Ablakwa of failing to account for GH¢16.4m",
-      "link": "https://www.myjoyonline.com/nana-b-denies-seeking-passport-favour-accuses-ablakwa-of-failing-to-account-for-gh%c2%a216-4m/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T21:02:02.000Z",
-      "summary": "National Vice Chairman of the New Patriotic Party (NPP) Henry Nana Boakye, popularly known as Nana B, has denied seeking a favour from Foreign Affairs Minister Samuel Okudzeto Ablakwa to…",
-      "categories": [
-        "HP News 8",
-        "Politics",
-        "Ablakwa",
-        "Nana B",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Nana-Boakye-2-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Young girls demand climate action, stronger protection against child marriage",
-      "link": "https://www.myjoyonline.com/young-girls-demand-climate-action-stronger-protection-against-child-marriage/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T20:50:23.000Z",
-      "summary": "Young girls have called for increased investment in education, healthcare and protection as climate change exposes more of them to risks, including child marriage, during Plan International…",
+      "published": "2026-10-13T21:45:00.000Z",
+      "summary": "Ghana has been elected to the United Nations Human Rights Council for the 2027–2029 term, placing the country at the centre of renewed demands for stronger international action to prevent…",
       "categories": [
         "National",
-        "Child marriage",
-        "Climate Action",
-        "young girls"
+        "Ghana",
+        "UN Human Rights Council"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-17.47.37-1024x529.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mahama_egypt.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur’s murder",
-      "link": "https://www.myjoyonline.com/ex-gang-boss-sentenced-to-40-years-for-orchestrating-tupac-shakurs-murder/",
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "link": "https://www.myjoyonline.com/royal-mail-losing-400-postal-workers-a-week-says-union/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T20:49:52.000Z",
-      "summary": "Former gang boss Duane \"Keffe D\" Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur.",
+      "published": "2026-10-13T21:30:00.000Z",
+      "summary": "About 400 postmen and women are leaving Royal Mail each week, according to the Communication Workers Union (CWU), which claims the number has risen since the company introduced a new…",
       "categories": [
-        "HP News 9",
-        "Music",
-        "National",
-        "Jail",
-        "Keffe D",
-        "Murder",
-        "Tupac"
+        "International",
+        "Royal Mail UK"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Keefe-D.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From near-deferral to three awards: UMaT graduate’s academic journey",
-      "link": "https://www.myjoyonline.com/from-near-deferral-to-three-awards-umat-graduates-academic-journey/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T20:47:48.000Z",
-      "summary": "Solicity Amankwa-Taylor, a graduate of the University of Mines and Technology (UMaT), has earned three academic awards after financial difficulties nearly forced her to defer her studies, a…",
-      "categories": [
-        "Features",
-        "Solicity Amankwa-Taylor",
-        "UMAT"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-13.14.17-2-e1791927167665-975x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1348-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

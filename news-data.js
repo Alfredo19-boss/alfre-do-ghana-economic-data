@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-13T22:46:17.096Z",
-  "worldAt": "2026-10-13T22:46:17.094Z",
+  "updated": "2026-10-14T01:26:38.787Z",
+  "worldAt": "2026-10-14T01:26:38.784Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,9 +27,9 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -37,15 +37,22 @@ window.GDC_NEWS = {
     "World · BBC News: 23 stories",
     "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: 32 stories",
+    "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 30 stories",
     "Africa · Africanews: 30 stories",
-    "Africa · BBC Africa: 30 stories",
+    "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Paradigm Initiative steps up calls over digital rights, internet freedom in Africa",
+      "link": "https://www.myjoyonline.com/paradigm-initiative-steps-up-calls-over-digital-rights-internet-freedom-in-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-13T22:05:00.000Z",
+      "summary": "Paradigm Initiative (PIN), a pan-African digital rights organisation, is stepping up calls for stronger protection of human rights online as African policymakers and human rights…"
+    },
     {
       "title": "Star Oil donates GH¢1million towards construction of new CID facility",
       "link": "https://www.myjoyonline.com/star-oil-donates-gh%c2%a21million-towards-construction-of-new-cid-facility/",
@@ -1088,16 +1095,99 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-09T16:58:40.000Z",
       "summary": "The Bank of Ghana (BoG) has announced plans to issue a Credit Risk Management Directive to strengthen lending practices, improve loan recovery and address rising non-performing loans (NPLs)…"
-    },
-    {
-      "title": "Africa’s AI Moment: Big Potential, Shaky Foundations",
-      "link": "https://thehighstreetjournal.com/africas-ai-moment-big-potential-shaky-foundations/",
-      "source": "The High Street Journal",
-      "published": "2026-10-09T16:30:00.000Z",
-      "summary": "Growing adoption of artificial intelligence across the continent faces persistent gaps in connectivity, computing infrastructure, electricity, skills, and language support."
     }
   ],
   "world": [
+    {
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-14T00:59:16.000Z",
+      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc2/live/919d9da0-c746-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T00:45:16.000Z",
+      "summary": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank."
+    },
+    {
+      "title": "Kyiv power plant hit by Russian missile without warning from allies",
+      "link": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies",
+      "source": "France 24",
+      "published": "2026-10-14T00:41:22.000Z",
+      "summary": "Ukraine's President Volodymyr Zelensky said Tuesday that a Russian ballistic missile struck a Kyiv power plant without advance warning from Western allies, killing at least two people and…",
+      "image": "https://s.france24.com/media/display/c6b4a660-c75e-11f1-98ab-77317c09f325/w:1024/p:16x9/AP26286839487353.jpg"
+    },
+    {
+      "title": "How podcasts became political powerhouses",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T00:27:52.000Z",
+      "summary": "Are podcasts remaking politics or just bypassing scrutiny?"
+    },
+    {
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-14T00:17:00.000Z",
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T00:00:00.000Z",
+      "summary": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen"
+    },
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T23:42:22.000Z",
+      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "OpenAI engineer charged after listening device found in meeting room",
+      "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T23:55:33.000Z",
+      "summary": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device."
+    },
+    {
+      "title": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
+      "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T23:42:15.000Z",
+      "summary": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f34b/live/ee29dc10-c75e-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+      "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T23:42:57.000Z",
+      "summary": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting."
+    },
+    {
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T23:31:10.000Z",
+      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e42/live/dc1ac240-c723-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Manchester United’s Martinez blasts board’s lack of investment",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T22:57:56.000Z",
+      "summary": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team."
+    },
     {
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
@@ -1107,11 +1197,26 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+      "title": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T22:17:26.000Z",
-      "summary": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches."
+      "published": "2026-10-13T22:56:24.000Z",
+      "summary": "Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds."
+    },
+    {
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-13T22:14:33.000Z",
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10cd/live/79669050-c74d-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Mauritius imposes curfew after night of unrest over police shooting",
+      "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T22:41:59.000Z",
+      "summary": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman."
     },
     {
       "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
@@ -1122,11 +1227,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4202/live/342a9360-c707-11f1-9783-ed95709f9dec.jpg"
     },
     {
-      "title": "US trial begins for Rwandan-American accused of role in genocide",
-      "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
+      "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+      "link": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T22:15:44.000Z",
-      "summary": "Eric Nshimiye, a US citizen, says the evidence against him consists of unreliable eyewitness accounts."
+      "published": "2026-10-13T22:33:50.000Z",
+      "summary": "At least 23 protesters have been arrested in demonstrations in the capital."
     },
     {
       "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
@@ -1137,12 +1242,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b864/live/f45a9340-c74a-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
-      "link": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united",
-      "source": "France 24",
-      "published": "2026-10-13T21:59:44.000Z",
-      "summary": "Arsenal scored three goals in seven second-half minutes on Tuesday to beat Lille 3-0 and maintain their perfect Champions League start, while Atletico Madrid defeated Manchester United 2-0…",
-      "image": "https://s.france24.com/media/display/b20b7d10-c74a-11f1-9887-77317c09f325/w:1024/p:16x9/ee08db7faf140d19485901258355c8cd6e0a2034.jpg"
+      "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T22:17:26.000Z",
+      "summary": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches."
     },
     {
       "title": "Who's to blame for the toxic smog choking South East Asia?",
@@ -1153,11 +1257,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7867/live/0f1da240-c6fa-11f1-b4dd-e786ec6f11b1.jpg"
     },
     {
-      "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
+      "title": "US trial begins for Rwandan-American accused of role in genocide",
+      "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T21:59:39.000Z",
-      "summary": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal overcome Lille in UEFA Champions League."
+      "published": "2026-10-13T22:15:44.000Z",
+      "summary": "Eric Nshimiye, a US citizen, says the evidence against him consists of unreliable eyewitness accounts."
     },
     {
       "title": "Why the lonely in China are hiring 'temporary children'",
@@ -1168,11 +1272,19 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
-      "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+      "title": "Arsenal thrash Lille as Atletico Madrid beat Manchester United",
+      "link": "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united",
+      "source": "France 24",
+      "published": "2026-10-13T21:59:44.000Z",
+      "summary": "Arsenal scored three goals in seven second-half minutes on Tuesday to beat Lille 3-0 and maintain their perfect Champions League start, while Atletico Madrid defeated Manchester United 2-0…",
+      "image": "https://s.france24.com/media/display/b20b7d10-c74a-11f1-9887-77317c09f325/w:1024/p:16x9/ee08db7faf140d19485901258355c8cd6e0a2034.jpg"
+    },
+    {
+      "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T21:25:04.000Z",
-      "summary": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung."
+      "published": "2026-10-13T21:59:39.000Z",
+      "summary": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal overcome Lille in UEFA Champions League."
     },
     {
       "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
@@ -1183,11 +1295,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/194/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+      "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+      "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T21:24:19.000Z",
-      "summary": "Michael Carrick's Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League."
+      "published": "2026-10-13T21:25:04.000Z",
+      "summary": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung."
     },
     {
       "title": "Pope Leo has cancerous growth removed in lung operation",
@@ -1198,11 +1310,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/16231fa6-c74b-11f1-a4f0-e362370cce2e/w:1024/p:16x9/EN-20261013-230330-230812-CS.jpg"
     },
     {
-      "title": "Vatican confirms Pope Leo’s surgery was successful",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
+      "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-13T21:05:07.000Z",
-      "summary": "The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected"
+      "published": "2026-10-13T21:24:19.000Z",
+      "summary": "Michael Carrick's Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League."
     },
     {
       "title": "China is bringing car production to EU",
@@ -1213,6 +1325,21 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ba4dd768-c748-11f1-b56e-3774aeac812a/w:1024/p:16x9/202610132620CC-FRANCE-MOTOR-SHOWCHINESE-BRANDS.png"
     },
     {
+      "title": "Vatican confirms Pope Leo’s surgery was successful",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T21:05:07.000Z",
+      "summary": "The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected"
+    },
+    {
+      "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+      "source": "France 24",
+      "published": "2026-10-13T21:06:59.000Z",
+      "summary": "French investigators on Tuesday ​were hunting the hackers who seized control of cooling units at hundreds of supermarkets in a cyberattack that underlined the vulnerabilities of connected…",
+      "image": "https://s.france24.com/media/display/d25741a6-c747-11f1-a78f-29a2e29ae696/w:1024/p:16x9/EN-20261013-223112-224238-CS.jpg"
+    },
+    {
       "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1221,9 +1348,9 @@ window.GDC_NEWS = {
     },
     {
       "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
+      "link": "https://www.france24.com/en/supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
       "source": "France 24",
-      "published": "2026-10-13T21:06:59.000Z",
+      "published": "2026-10-13T21:05:38.000Z",
       "summary": "French investigators on Tuesday ​were hunting the hackers who seized control of cooling units at hundreds of supermarkets in a cyberattack that underlined the vulnerabilities of connected…",
       "image": "https://s.france24.com/media/display/d25741a6-c747-11f1-a78f-29a2e29ae696/w:1024/p:16x9/EN-20261013-223112-224238-CS.jpg"
     },
@@ -1235,21 +1362,6 @@ window.GDC_NEWS = {
       "summary": "New footage shows the moment 48-year-old Miguel Parra-Hernandez was hit by an ICE officer’s car in Houston, Texas."
     },
     {
-      "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
-      "link": "https://www.france24.com/en/supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says",
-      "source": "France 24",
-      "published": "2026-10-13T21:05:38.000Z",
-      "summary": "French investigators on Tuesday ​were hunting the hackers who seized control of cooling units at hundreds of supermarkets in a cyberattack that underlined the vulnerabilities of connected…",
-      "image": "https://s.france24.com/media/display/d25741a6-c747-11f1-a78f-29a2e29ae696/w:1024/p:16x9/EN-20261013-223112-224238-CS.jpg"
-    },
-    {
-      "title": "Tupac Shakur killer sentenced to 40 years in prison",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T20:46:22.000Z",
-      "summary": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur."
-    },
-    {
       "title": "Have Ukrainian strikes on Yandex data centres hit Russian online disinformation?",
       "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261013-have-ukrainian-strikes-on-yandex-data-centres-hit-russian-online-disinformation",
       "source": "France 24",
@@ -1258,12 +1370,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/38e2894a-c747-11f1-a2d7-77317c09f325/w:1024/p:16x9/EN-20261013-222020-222455-CS.jpg"
     },
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-13T20:46:06.000Z",
-      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg"
+      "title": "Tupac Shakur killer sentenced to 40 years in prison",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T20:46:22.000Z",
+      "summary": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur."
     },
     {
       "title": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says",
@@ -1286,122 +1397,52 @@ window.GDC_NEWS = {
       "published": "2026-10-13T20:33:25.000Z",
       "summary": "Duane Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was…",
       "image": "https://s.france24.com/media/display/8a28445a-c744-11f1-95e3-29a2e29ae696/w:1024/p:16x9/EN-20261013-220837-221232-CS.jpg"
-    },
-    {
-      "title": "How will a diesel deal with Russia impact the U.S. market?",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
-      "source": "NPR World",
-      "published": "2026-10-13T20:03:37.000Z",
-      "summary": "The price of diesel hit an all-time high in the U.S. in September. Can President Trump's deal for Russia to release more diesel onto the market bring the price down?"
-    },
-    {
-      "title": "Trump asks Greece ambassador to resign amid ethics scandal",
-      "link": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
-      "source": "France 24",
-      "published": "2026-10-13T20:29:15.000Z",
-      "summary": "US President Donald Trump's administration has asked his ambassador to Greece Kimberly Guilfoyle to resign, the White House said Tuesday, amid allegations that she sought money from a Trump…",
-      "image": "https://s.france24.com/media/display/146c0990-c744-11f1-943e-3774aeac812a/w:1024/p:16x9/EN-20261013-220527-220837-CS.jpg"
-    },
-    {
-      "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-      "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T20:00:32.000Z",
-      "summary": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near."
-    },
-    {
-      "title": "Kabila launches new coalition with M23",
-      "link": "https://www.france24.com/en/kabila-launches-new-coalition-with-m23",
-      "source": "France 24",
-      "published": "2026-10-13T20:21:31.000Z",
-      "summary": "In tonight's edition, Joseph Kabila has been named leader of a new rebel coalition, vowing to topple the government. Also, Africa's largest ever IPO has been extended. And Formula ⁠1 ⁠will…",
-      "image": "https://s.france24.com/media/display/91dc84b4-c743-11f1-8e7d-29a2e29ae696/w:1024/p:16x9/capture-b2a23995.jpg"
-    },
-    {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-13T19:51:14.000Z",
-      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "French MPs pass sweeping bill to combat sexual and gender-based violence",
-      "link": "https://www.france24.com/en/french-mps-pass-sweeping-bill-to-combat-sexual-and-gender-based-violence",
-      "source": "France 24",
-      "published": "2026-10-13T20:03:43.000Z",
-      "summary": "The National Assembly overwhelmingly passed the so-called “comprehensive” bill against sexist and sexual violence on Tuesday. The focus now shifts to the more conservative Senate, with the…",
-      "image": "https://s.france24.com/media/display/1ddbb8b8-c73f-11f1-a997-77317c09f325/w:1024/p:16x9/EN-20261013-213441-213632-CS.jpg"
-    },
-    {
-      "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T19:40:51.000Z",
-      "summary": "The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average."
-    },
-    {
-      "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
-      "link": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
-      "source": "France 24",
-      "published": "2026-10-13T19:57:31.000Z",
-      "summary": "Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to…",
-      "image": "https://s.france24.com/media/display/12a4e11e-c73e-11f1-842e-29a2e29ae696/w:1024/p:16x9/2026-10-13T192410Z-1296492245-RC2I2OABAK5S-RTRMADP-3-PEOPLE-TUPAC-MURDER-COURT-SENTENCING.jpg"
-    },
-    {
-      "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-      "link": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T19:39:01.000Z",
-      "summary": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities."
-    },
-    {
-      "title": "France's youth undergoing 'a crisis of hope'",
-      "link": "https://www.france24.com/en/france-s-youth-undergoing-a-crisis-of-hope",
-      "source": "France 24",
-      "published": "2026-10-13T19:33:56.000Z",
-      "summary": "Tens of thousands of people joined rallies across France on Tuesday to support protesting high school students, boosting a movement that poses a major challenge to President Emmanuel Macron…",
-      "image": "https://s.france24.com/media/display/3240da8e-c73c-11f1-83b5-77317c09f325/w:1024/p:16x9/EN-20261013-210341-211220-CS.jpg"
-    },
-    {
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
-      "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T19:33:11.000Z",
-      "summary": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote."
-    },
-    {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-13T19:23:28.000Z",
-      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f6d/live/ecd9e6d0-c73a-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Will NATO’s ‘theory of victory’ work?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T19:32:16.000Z",
-      "summary": "The alliance presents a common vision to deter adversaries."
-    },
-    {
-      "title": "Ceuta an 'inalienable' part of Spain, king says on key visit",
-      "link": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit",
-      "source": "France 24",
-      "published": "2026-10-13T19:06:32.000Z",
-      "summary": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. \"Ceuta and…",
-      "image": "https://s.france24.com/media/display/dd4d9a70-c737-11f1-948a-e362370cce2e/w:1024/p:16x9/EN-20261013-203549-204111-CS.jpg"
-    },
-    {
-      "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T19:24:50.000Z",
-      "summary": "Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat."
     }
   ],
   "africa": [
+    {
+      "title": "Africa: African Development Bank Convenes African and Asian Experts to Discuss Mobilising Development Finance At Scale",
+      "link": "https://allafrica.com/stories/202610130708.html",
+      "source": "AllAfrica",
+      "published": "2026-10-13T23:59:02.000Z",
+      "summary": "[African Development Bank (AfDB)] The African Development Bank Group together with the Korea Institute for International Economic Policy (KIEP) has convened African and Asian economic…"
+    },
+    {
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-13T23:31:10.000Z",
+      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e42/live/dc1ac240-c723-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Africa: African Development Bank Convenes African Debt Management Practitioners in Kigali to Strengthen Debt Transparency and Accountability",
+      "link": "https://allafrica.com/stories/202610130705.html",
+      "source": "AllAfrica",
+      "published": "2026-10-13T23:59:00.000Z",
+      "summary": "[African Development Bank (AfDB)] About 150 policymakers, debt-management practitioners and public finance stakeholders from 22 African transition states have concluded a five-day learning…"
+    },
+    {
+      "title": "West Africa: Ghana Urges Liberia to Digitize Procurement to Curb Abuse of Public Resources",
+      "link": "https://allafrica.com/stories/202610130681.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-13T22:58:59.000Z",
+      "summary": "[Liberian Observer] Ghanaian Ambassador to Liberia, H.E. Godwin Baletum Amonzem, has urged Liberian authorities to embrace digital procurement systems as a means of reducing administrative…"
+    },
+    {
+      "title": "Africa: Rice Is a Strategic Commodity for Economic Transformation Says African Development Bank Group",
+      "link": "https://allafrica.com/stories/202610130703.html",
+      "source": "AllAfrica",
+      "published": "2026-10-13T23:58:59.000Z",
+      "summary": "[African Development Bank (AfDB)] The African Development Bank Group has brought its financing plans and investment initiatives to the centre of discussions at a West Africa Rice Investment…"
+    },
+    {
+      "title": "Mauritius imposes curfew after night of unrest over police shooting",
+      "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T22:41:59.000Z",
+      "summary": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman."
+    },
     {
       "title": "West Africa: Liberia Courts Mining, Energy Investors At First Expo",
       "link": "https://allafrica.com/stories/202610130672.html",
@@ -1642,48 +1683,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-13T12:34:59.000Z",
       "summary": "[Nile Post] Rwanda has secured a 10-year agreement with Formula One to host the African Grand Prix in the early 2030s, advancing its bid to bring the world's premier motor racing…"
-    },
-    {
-      "title": "South Africa: Another Taxi Fare Hike Could Hit Your Wallet Before You Reach Work",
-      "link": "https://allafrica.com/stories/202610130370.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-13T12:28:18.000Z",
-      "summary": "[Scrolla] Taking four taxi trips a day over 21 working days, every R1 added to a fare costs about R84 more a month. Santaco says a rise is a last resort. Local taxi associations decide…"
-    },
-    {
-      "title": "Nigeria: NUC Introduces Post-Accreditation Monitoring, Admission Checks to Varsities",
-      "link": "https://allafrica.com/stories/202610130368.html",
-      "source": "AllAfrica",
-      "published": "2026-10-13T12:28:17.000Z",
-      "summary": "[Vanguard] The National Universities Commission (NUC) is stepping up regulatory oversight of Nigerian universities, introducing fresh quality assurance measures targeting admission…"
-    },
-    {
-      "title": "Uganda: Museveni Directs UPDF to Help Crack Down On Mineral Smuggling",
-      "link": "https://allafrica.com/stories/202610130367.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-13T12:28:16.000Z",
-      "summary": "[Nile Post] President Yoweri Museveni has directed the Uganda People's Defence Forces (UPDF) to support efforts to curb mineral smuggling and ensure local processors have access to raw…"
-    },
-    {
-      "title": "Congo-Kinshasa: Ex-DR Congo President Kabila to Lead New 'Politico-Military' Alliance With M23 Rebels",
-      "link": "https://allafrica.com/stories/202610130360.html",
-      "source": "AllAfrica",
-      "published": "2026-10-13T12:11:28.000Z",
-      "summary": "[RFI] Former Democratic Republic of Congo president Joseph Kabila has joined forces with the Rwanda-backed M23 armed group to lead a new political and military alliance, marking his most…"
-    },
-    {
-      "title": "Formula 1: Rwanda to bring sport back to Africa",
-      "link": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-13T11:20:00.000Z",
-      "summary": "The last time Formula 1 hosted a race in Africa was way back in 1993. But a new track in Rwanda is set to host a Grand Prix in \"the early 2030s,\" continuing the country’s investment in…"
-    },
-    {
-      "title": "Nigeria: Plateau Pharmacists Campaign Against Child Marriage, Urge Girl-Child Education",
-      "link": "https://allafrica.com/stories/202610130337.html",
-      "source": "AllAfrica",
-      "published": "2026-10-13T11:05:06.000Z",
-      "summary": "[Premium Times] The association made the call during an event to commemorate the 2026 International Day of the Girl Child"
     }
   ]
 };
