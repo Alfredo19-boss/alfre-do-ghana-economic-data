@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-14T01:26:51.423Z",
+  "updated": "2026-10-14T06:27:42.898Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,118 +25,214 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "NDC Deputy National Organizer Aspirant Hamza Umar targets grassroots mobilisation",
-      "link": "https://www.myjoyonline.com/ndc-deputy-national-organizer-aspirant-hamza-umar-targets-grassroots-mobilisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T01:21:49.000Z",
-      "summary": "Businessman and former student leader Hamza Umar has declared his intention to contest for Deputy National Organizer of the National Democratic Congress (NDC), pledging to strengthen…",
+      "title": "Storms kill 5 in Mexico as US flood risk eases",
+      "link": "https://ghanaiantimes.com.gh/storms-kill-5-in-mexico-as-us-flood-risk-eases/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T06:26:48.000Z",
+      "summary": "Hurricane Simon pounded western Mexico with more wind and rain Monday after tropical weather systems caused five deaths and damage in Pacific coastal towns and resorts. The eye of the…",
       "categories": [
-        "Politics",
-        "Deputy National Organiser",
-        "Grassroots",
-        "NDC"
+        "World"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-01.03.48-808x1024.jpeg",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "G24 chair warns of growing debt risks for developing nations",
+      "link": "https://ghanaiantimes.com.gh/g24-chair-warns-of-growing-debt-risks-for-developing-nations/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T06:24:32.000Z",
+      "summary": "The debt vulnerabilities of many developing economies are a “major barrier” to inclusive growth, the chair of the Group of 24 nations said ‌yesterday, warning their governments were…",
+      "categories": [
+        "Africa"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ex-pres named leader of new DR Congo rebel coalition",
+      "link": "https://ghanaiantimes.com.gh/ex-pres-named-leader-of-new-dr-congo-rebel-coalition/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T06:22:35.000Z",
+      "summary": "Former Congolese President Joseph Kabila has been named the leader of a new rebel coalition seeking to oust the government. The Front for the Refoundation of the Nation (FRN) said it aimed…",
+      "categories": [
+        "Africa"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Speaker Bagbin calls on legal counsels for African Parliaments to uphold ethical standards, accountability",
+      "link": "https://ghanaiantimes.com.gh/speaker-bagbin-calls-on-legal-counsels-for-african-parliaments-to-uphold-ethical-standards-accountability/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T06:14:37.000Z",
+      "summary": "The Speaker of Parliament, Mr Alban Sumana Kingsford Bagbin, has urged legal counsels to parliaments across Africa to uphold ethical standards, accountability and integrity to strengthen…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Telecel Ghana wins 2 awards at the CCIFG Gala and Awards 2026",
+      "link": "https://www.myjoyonline.com/telecel-ghana-wins-2-awards-at-the-ccifg-gala-and-awards-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T06:14:13.000Z",
+      "summary": "Telecel Ghana has been recognised for its commitment to innovation and responsible business, securing two of six major honours at the Chamber of Commerce and Industry France-Ghana (CCIFG)…",
+      "categories": [
+        "Telecom",
+        "CCIFG Gala and Awards 2026",
+        "Telecel Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1369-1024x723.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gordon scores as Barcelona beats Galatasaray",
-      "link": "https://www.myjoyonline.com/gordon-scores-as-barcelona-beats-galatasaray/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T22:22:00.000Z",
-      "summary": "Anthony Gordon scored his first Champions League goal for Barcelona as the Spanish side came from behind to beat Galatasaray in Istanbul.",
+      "title": "Balance mineral exploration with marine conservation",
+      "link": "https://ghanaiantimes.com.gh/balance-mineral-exploration-with-marine-conservation/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T06:11:43.000Z",
+      "summary": "Ghana’s coastal waters are not merely a source of mineral wealth. They sustain fishing communities, provide livelihoods for thousands of families and supply an important source of protein…",
       "categories": [
-        "Football",
-        "Anthony Gordon",
-        "Barcelona",
-        "Galatasaray"
+        "Editorial"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1351.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Bumble bought for $1.3bn in ‘bet on the future of humanity’",
-      "link": "https://www.myjoyonline.com/bumble-bought-for-1-3bn-in-bet-on-the-future-of-humanity/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T22:12:00.000Z",
-      "summary": "Dating app Bumble has been bought for $1.3bn (£980m) in what the new owners called \"a bet on the future of humanity\".",
+      "title": "Sedom landowners appeal to Pres Mahama over limestone concession dispute",
+      "link": "https://ghanaiantimes.com.gh/sedom-landowners-appeal-to-pres-mahama-over-limestone-concession-dispute/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T06:03:42.000Z",
+      "summary": "Twenty families claiming ownership of a limestone concession at Sedom in the Asuogyaman District of the Eastern Region have appealed to President John Dramani Mahama to intervene in a…",
       "categories": [
-        "International",
-        "Bumble",
-        "Dating App"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1350-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Imagination Africa, Mentors Chess Academy to host second African Genius Chess Championship at Ghud Park",
-      "link": "https://www.myjoyonline.com/imagination-africa-mentors-chess-academy-to-host-second-african-genius-chess-championship-at-ghud-park/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T22:07:31.000Z",
-      "summary": "Imagination Africa and Mentors Chess Academy will host the second African Genius Chess Championship on Saturday, 24 October 2026, at Ghud Park, Accra Mall. The competition uses chess to…",
-      "categories": [
-        "Other Sports",
-        "Sports",
-        "African Genius Chess Championship"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Imagination-Africa-Mentors-Chess-Academy-to-host-second-African-Genius-Chess-Championship.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Paradigm Initiative steps up calls over digital rights, internet freedom in Africa",
-      "link": "https://www.myjoyonline.com/paradigm-initiative-steps-up-calls-over-digital-rights-internet-freedom-in-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T22:05:00.000Z",
-      "summary": "Paradigm Initiative (PIN), a pan-African digital rights organisation, is stepping up calls for stronger protection of human rights online as African policymakers and human rights…",
-      "categories": [
-        "Africa",
         "Crime",
-        "News",
-        "Technology",
-        "DIGITAL RIGHT",
-        "PIN"
+        "Hot!"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/DIGITAL-ECONOMY-FORUM-12-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Saudi man charged with planting ‘sophisticated’ recording device in OpenAI office",
-      "link": "https://www.myjoyonline.com/saudi-man-charged-with-planting-sophisticated-recording-device-in-openai-office/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T21:55:00.000Z",
-      "summary": "A Saudi national has been charged with secretly planting a recording device in one of OpenAI's offices in California, federal prosecutors announced.",
+      "title": "Wontumi denies GH¢30m EXIM Bank financial loss charge",
+      "link": "https://ghanaiantimes.com.gh/wontumi-denies-gh%c2%a230m-exim-bank-financial-loss-charge/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-14T06:01:19.000Z",
+      "summary": "Former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, alias Chairman Wontumi, has pleaded not guilty to fresh charges of allegedly causing financial…",
       "categories": [
-        "International",
-        "Saudi man"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1349-1024x575.png",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Petrol, diesel prices set to fall from Oct. 16 as LPG faces 18.5% hike",
+      "link": "https://www.myjoyonline.com/petrol-diesel-prices-set-to-fall-from-oct-16-as-lpg-faces-18-5-hike/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T05:55:00.000Z",
+      "summary": "Petrol and diesel prices are expected to fall marginally at the pumps from Friday, October 16, 2026, while liquefied petroleum gas (LPG) could see an 18.5% increase per kilogram.",
+      "categories": [
+        "Energy",
+        "HP Business 2",
+        "National",
+        "Top Story",
+        "Diesel",
+        "Fuel Prices",
+        "Petrol"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-337-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana wins UN Human Rights Council seat as calls grow for action against atrocities",
-      "link": "https://www.myjoyonline.com/ghana-wins-un-human-rights-council-seat-as-calls-grow-for-action-against-atrocities/",
+      "title": "Bank of Ghana engages stakeholders in Techiman",
+      "link": "https://www.myjoyonline.com/bank-of-ghana-engages-stakeholders-in-techiman/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T21:45:00.000Z",
-      "summary": "Ghana has been elected to the United Nations Human Rights Council for the 2027–2029 term, placing the country at the centre of renewed demands for stronger international action to prevent…",
+      "published": "2026-10-14T05:49:00.000Z",
+      "summary": "The Bank of Ghana (BoG) has held a day’s stakeholder engagement forum at Techiman in the Bono East Region, to strengthen stakeholder collaboration towards deepening public understanding of…",
       "categories": [
         "National",
-        "Ghana",
-        "UN Human Rights Council"
+        "Bank of Ghana",
+        "Stakeholders",
+        "Techiman"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mahama_egypt.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-5.07.46-AM-1024x611.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Royal Mail losing 400 postal workers a week, says union",
-      "link": "https://www.myjoyonline.com/royal-mail-losing-400-postal-workers-a-week-says-union/",
+      "title": "PIAC unable to verify GH¢21m petroleum-funded projects in Ayawaso West",
+      "link": "https://www.myjoyonline.com/piac-unable-to-verify-gh%c2%a221m-petroleum-funded-projects-in-ayawaso-west/",
       "source": "MyJoyOnline",
-      "published": "2026-10-13T21:30:00.000Z",
-      "summary": "About 400 postmen and women are leaving Royal Mail each week, according to the Communication Workers Union (CWU), which claims the number has risen since the company introduced a new…",
+      "published": "2026-10-14T05:42:00.000Z",
+      "summary": "The Public Interest and Accountability Committee (PIAC) has been unable to verify four petroleum revenue-funded projects valued at about GH¢21 million in the Ayawaso West Municipality…",
       "categories": [
-        "International",
-        "Royal Mail UK"
+        "National",
+        "Ayawaso West",
+        "PIAC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1348-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-5.10.20-AM-1024x600.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ketu North MP led delegation petitions government over deteriorating Weta Irrigation Scheme",
+      "link": "https://www.myjoyonline.com/ketu-north-mp-led-delegation-petitions-government-over-deteriorating-weta-irrigation-scheme/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T05:38:00.000Z",
+      "summary": "Eric Edem Agbana, Member of Parliament (MP) for Ketu North, has led a delegation of chiefs, rice farmers and concerned youth from Weta to petition the Ministry of Food and Agriculture for…",
+      "categories": [
+        "National",
+        "Edem Agbana",
+        "Government",
+        "Ketu North MP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-5.13.27-AM-1024x615.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Unpaid contractor delays KATH Mother and Baby Unit as materials deteriorate",
+      "link": "https://www.myjoyonline.com/unpaid-contractor-delays-kath-mother-and-baby-unit-as-materials-deteriorate/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T05:33:00.000Z",
+      "summary": "The stalled Mother and Baby Unit project at the Komfo Anokye Teaching Hospital (KATH) is facing further setbacks, with its consultant project manager warning that construction materials…",
+      "categories": [
+        "National",
+        "Baby Unit",
+        "Contractor",
+        "KATH"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ca-2-1140x570-1-1024x512.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kofi Adams says Ghanaians ignored warnings over World Cup visa payments",
+      "link": "https://www.myjoyonline.com/kofi-adams-says-ghanaians-ignored-warnings-over-world-cup-visa-payments/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T05:28:00.000Z",
+      "summary": "Minister for Sports and Recreation Kofi Adams says some Ghanaians disregarded repeated warnings against paying intermediaries who promised to secure United States and Canadian visas for the…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Kofi Adams",
+        "visa",
+        "World Cup"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Kofi-Adams-3-636x424-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Banks to apply 20% VAT on cross-border digital payments with Ghana-issued cards",
+      "link": "https://www.myjoyonline.com/banks-to-apply-20-vat-on-cross-border-digital-payments-with-ghana-issued-cards/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T05:23:00.000Z",
+      "summary": "Commercial banks are preparing to apply 20 per cent Value Added Tax (VAT) to payments for cross-border digital services and e-commerce transactions made with cards issued in Ghana…",
+      "categories": [
+        "Banking and Finance",
+        "HP Business 3",
+        "HP News 5",
+        "National",
+        "Banks",
+        "GRA",
+        "Tax"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-1311-e1776257511929.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -249,71 +345,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "New EC deputy chair Joseph Kwaku Asamoah pledges to restore public trust in commission",
-      "link": "https://ghanaiantimes.com.gh/new-ec-deputy-chair-joseph-kwaku-asamoah-pledges-to-restore-public-trust-in-commission/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-13T15:04:17.000Z",
-      "summary": "Newly appointed Electoral Commission (EC) Deputy Chairperson Joseph Kwaku Asamoah has pledged to work towards restoring public confidence in the Commission, describing it as an obligation…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Newly appointed EC Deputy Chairperson a “dyed-in-the-wool” member of the NDC – Dennis Miracles Aboagye",
-      "link": "https://ghanaiantimes.com.gh/newly-appointed-ec-deputy-chairperson-a-dyed-in-the-wool-member-of-the-ndc-dennis-miracles-aboagye/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-13T15:02:29.000Z",
-      "summary": "New Patriotic Party (NPP) Communications Director Dennis Miracles Aboagye has described newly appointed Electoral Commission (EC) Deputy Chairperson Emilia Afi Agbenyo as a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "“The Gulf of Guinea Speaks” Art Intervention marks World Maritime Day",
-      "link": "https://ghanaiantimes.com.gh/the-gulf-of-guinea-speaks-art-intervention-marks-world-maritime-day/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-13T14:53:08.000Z",
-      "summary": "As part of activities to mark the 2026 World Maritime Day and the tenth (10th) anniversary of the Danish Maritime Security Program for the Gulf of Guinea, the Royal Danish Embassy Accra…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-14.30.44-1024x768.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NFS introduces digital safety system to boost Fire Compliance",
-      "link": "https://ghanaiantimes.com.gh/nfs-introduces-digital-safety-system-to-boost-fire-compliance/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-13T14:49:56.000Z",
-      "summary": "The Ghana National Fire Service College has oriented officers on its new digital platform aimed at modernizing fire safety operations in the country. The orientation, held at Kyebi-Akwadum…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "87-year-old man sentenced to 20 years for defiling 9-year-old girl",
-      "link": "https://ghanaiantimes.com.gh/87-year-old-man-sentenced-to-20-years-for-defiling-9-year-old-girl/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-13T14:46:50.000Z",
-      "summary": "An 87-year-old man, identified as Yaw Gahornu, has been sentenced to 20 years’ imprisonment with hard labour for defiling a nine-year-old girl at Ofankor, a suburb of Accra. According to a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Black Queens name strong lineup for Mauritius clash",
       "link": "https://www.graphic.com.gh/sports/sports-news/black-queens-name-strong-lineup-for-mauritius-clash.html",
       "source": "Graphic Sports",
@@ -338,18 +369,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GCB Customers Share Growth Priorities and Service Feedback at Town Hall",
-      "link": "https://ghanaiantimes.com.gh/gcb-customers-share-growth-priorities-and-service-feedback-at-town-hall/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-13T11:49:01.000Z",
-      "summary": "Customers of GCB Bank PLC have called for more direct engagement with the Bank’s leadership while sharing feedback on their business needs, growth ambitions and banking experiences during a…",
-      "categories": [
-        "Business"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Rwanda to host F1's first race in Africa since 1993",
       "link": "https://www.graphic.com.gh/sports/sports-news/rwanda-to-host-f1s-first-race-in-africa-since-1993.html",
       "source": "Graphic Sports",
@@ -360,18 +379,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/13/F1.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Mental Health Alliance demands action on disability inclusion",
-      "link": "https://ghanaiantimes.com.gh/mental-health-alliance-demands-action-on-disability-inclusion/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-13T08:43:59.000Z",
-      "summary": "THE Ghana Alliance for Mental Health and Development, also known as the Mental Health Alliance, has called on the government, development partners, civil society organisations and the…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Mental-Health-Alliance-demands-action-pixxxx-1024x557.png",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Table Tennis: Ghana's number one seed James Marfo set to begin professional career in France",
