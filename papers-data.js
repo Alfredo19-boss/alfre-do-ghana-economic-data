@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-15T16:11:40.253Z",
+  "updated": "2026-10-15T19:53:42.202Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,51 +25,212 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Zonda Tec launches HOWO T3M truck to support agric and logistics",
-      "link": "https://www.myjoyonline.com/zonda-tec-launches-howo-t3m-truck-to-support-agric-and-logistics/",
+      "title": "From Campaign Propaganda to Gov’t Accountability: When the message-makers demand a seat at the table",
+      "link": "https://www.myjoyonline.com/from-campaign-propaganda-to-govt-accountability-when-the-message-makers-demand-a-seat-at-the-table/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T16:02:07.000Z",
-      "summary": "Zonda Tec Ghana Limited, the official partner of Sinotruk in Ghana, has launched the HOWO T3M light-duty truck, designed to combine the flexibility of light commercial vehicles with…",
+      "published": "2026-10-15T19:45:39.000Z",
+      "summary": "The campaign is over, the votes have been counted, and power has changed hands. But what happens when the very voices that helped sell a political message begin demanding answers from the…",
       "categories": [
-        "Business",
-        "Transport",
-        "HOWO T3M",
-        "Yang Yang",
-        "Zonda Tec"
+        "HP Opinion 4",
+        "Opinion",
+        "Politics",
+        "election campaign",
+        "government accountability"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-8.31.11-AM-1-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Gemini_Generated_Image_l440ypl440ypl440-1024x687.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obuasi SHTS scandal: Eduwatch calls for sex offenders’ register and mandatory background checks for teachers",
-      "link": "https://www.myjoyonline.com/obuasi-shts-scandal-eduwatch-calls-for-sex-offenders-register-and-mandatory-background-checks-for-teachers/",
+      "title": "Ashanti Region Security Coordinator warns sand winners to stay off Accra–Kumasi Expressway site",
+      "link": "https://www.myjoyonline.com/ashanti-region-security-coordinator-warns-sand-winners-to-stay-off-accra-kumasi-expressway-site/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T15:49:59.000Z",
-      "summary": "The Executive Director of Africa Education Watch (Eduwatch), Kofi Asare, has called on the Ghana Education Service (GES) to introduce standardised safeguarding procedures, a sex offenders’…",
+      "published": "2026-10-15T19:41:27.000Z",
+      "summary": "Ashanti Regional Security Coordinator, Captain John Kwame Jabari, has warned sand winners operating along the Accra–Kumasi Expressway project site to stop their activities or face severe…",
+      "categories": [
+        "National",
+        "Accra–Kumasi Expressway",
+        "Ashanti Region Security Coordinator",
+        "sand winners"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/sewua.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PZ Cussons Ghana promotes hand washing among schoolchildren through Camel campaign",
+      "link": "https://www.myjoyonline.com/pz-cussons-ghana-promotes-hand-washing-among-schoolchildren-through-camel-campaign/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T19:18:14.000Z",
+      "summary": "Z Cussons Ghana Limited is promoting hand-washing education among schoolchildren, saying habits developed early in life can help prevent infections and improve public health. The company…",
       "categories": [
         "Education",
-        "National",
-        "Eduwatch",
-        "Obuasi SHTS",
-        "sex offenders"
+        "Events",
+        "Camel campaign",
+        "Hand washing",
+        "PZ Cussons"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Kofi-Asare-Africa-Education-Watch-596x424-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-201135-1024x461.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GloMeF CEO urges intensified public education on new road traffic regulations",
-      "link": "https://www.myjoyonline.com/glomef-ceo-urges-intensified-public-education-on-new-road-traffic-regulations/",
+      "title": "30 NDC aspirants file nominations in Upper West as regional election approaches",
+      "link": "https://www.myjoyonline.com/30-ndc-aspirants-file-nominations-in-upper-west-as-regional-election-approaches/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T15:38:32.000Z",
-      "summary": "The Chief Executive Officer of the Global Media Foundation (GloMeF), Raphael Godlove, has called for intensified public education on the new Road Traffic Regulations 2026 (L.I. 2519).",
+      "published": "2026-10-15T19:04:01.000Z",
+      "summary": "Thirty aspirants have filed nomination forms at the Upper West Regional office of the National Democratic Congress (NDC) in Wa to contest various regional executive positions ahead of the…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Election",
+        "NDC",
+        "Upper West"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/4-16-576x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UPSA launches laptop assembly plant, requiring new students to assemble their own devices",
+      "link": "https://www.myjoyonline.com/upsa-launches-laptop-assembly-plant-requiring-new-students-to-assemble-their-own-devices/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T18:58:30.000Z",
+      "summary": "The University of Professional Studies, Accra (UPSA), has taken a major step towards technology-enabled learning with the official launch of its laptop assembly plant at the AFOA ATA…",
+      "categories": [
+        "Education",
+        "HP News 3",
+        "National",
+        "Assembly Plant",
+        "UPSA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1556-1024x572.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UCC sociologist calls for action on gender inequality to end child marriage",
+      "link": "https://www.myjoyonline.com/ucc-sociologist-calls-for-action-on-gender-inequality-to-end-child-marriage/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T18:57:17.000Z",
+      "summary": "The Head of the Department of Anthropology and Sociology at the University of Cape Coast (UCC), Prof. Georgina Yaa Oduro, has called for action to address gender inequality, warning that it…",
       "categories": [
         "National",
-        "Global Media Foundation (GLOMEF)",
-        "Raphael Godlove",
-        "Road Traffic Regulations"
+        "Child marriage",
+        "Gender inequality"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-NGO-Regulation-e1792077647927-1024x712.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/4-15-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "LSN questions Ghana’s proposed five-year presidential term and DCE election reforms",
+      "link": "https://www.myjoyonline.com/lsn-questions-ghanas-proposed-five-year-presidential-term-and-dce-election-reforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T18:56:10.000Z",
+      "summary": "The Law Students’ Network (LSN) has questioned the government’s decision to support extending Ghana’s presidential term from four to five years, while warning that its proposed model for…",
+      "categories": [
+        "National",
+        "DCE",
+        "LSN",
+        "Presidential term"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-17.41.37-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: Bjorkegren to lead Black Stars for Somalia doubleheader with Tanko and Attram as assistants",
+      "link": "https://www.myjoyonline.com/afcon-2027q-bjorkegren-to-lead-black-stars-for-somalia-doubleheader-with-tanko-and-attram-as-assistants/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T18:54:25.000Z",
+      "summary": "Kim Lars Bjorkegren will take charge of the Black Stars for the November international break as the search for a new head coach continues. The Black Queens gaffer will be in charge for the…",
+      "categories": [
+        "Football",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Kim Lars Björkegren"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Kim-Lars-Bjorkegren-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Presbyterian Church marks 141 years of health service, calls for stronger state support",
+      "link": "https://www.graphic.com.gh/news/general-news/presbyterian-church-marks-141-years-of-health-service-calls-for-stronger-state.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T18:48:22.000Z",
+      "summary": "The Presbyterian Church of Ghana has opened its 7th National Development and Social Services (DSS) Consultation at the Presbyterian Women's Centre at Abokobi, bringing together about 90…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/presby.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Infantino is the right man for football – FIFA Council member",
+      "link": "https://ghanaiantimes.com.gh/infantino-is-the-right-man-for-football-fifa-council-member/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T17:41:15.000Z",
+      "summary": "President of the Mauritanian Football Federation and member of the FIFA Council, Ahmed Yahya has thrown his support behind Gianni Infantino, insisting that the FIFA president remains the…",
+      "categories": [
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP demands Parliamentary inquiry into alleged World Cup visa fraud",
+      "link": "https://www.graphic.com.gh/news/politics/npp-demands-parliamentary-inquiry-into-alleged-world-cup-visa-fraud.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T17:31:47.000Z",
+      "summary": "The New Patriotic Party (NPP) has called on Parliament to summon the Minister for Sports and Recreation, Mr Kofi Iddie Adams, and the Chief Executive Officer of the Ghana Tourism Authority…",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/12/DMA26.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "SEND GHANA, OXFAM mobilise CSOs, youth to shape 2027 Budget",
+      "link": "https://ghanaiantimes.com.gh/send-ghana-oxfam-mobilise-csos-youth-to-shape-2027-budget/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T17:05:12.000Z",
+      "summary": "SEND GHANA and OXFAM have mobilised civil society organisations (CSOs) and young people to develop and submit proposals for consideration in the preparation of the 2027 National Budget. The…",
+      "categories": [
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "24hour Economy Secretariat extends LePIP EOI deadline to 31 october",
+      "link": "https://ghanaiantimes.com.gh/24hour-economy-secretariat-extends-lepip-eoi-deadline-to-31-october/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T17:03:03.000Z",
+      "summary": "The 24-Hour Economy and Accelerated Export Development Programme Secretariat has extended the deadline for prospective tenants to submit Expressions of Interest (EOI) for the Legon…",
+      "categories": [
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ashanti Region to get second Passport Application Centre by 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/ashanti-region-to-get-second-passport-application-centre-by-2027.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T16:44:47.000Z",
+      "summary": "The Ministry of Foreign Affairs is intensifying efforts to institutionalise the Mobile Passport Application Centre for effective and efficient service delivery, the Minister of Foreign…",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GHS begins Yellow Fever vaccination campaign in three Upper West districts",
+      "link": "https://www.graphic.com.gh/news/health/ghs-begins-yellow-fever-vaccination-campaign-in-three-upper-west-districts.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T16:39:52.000Z",
+      "summary": "The Ghana Health Service has started a Yellow Fever Reactive Vaccination Campaign in the Wa West, Sissala East, and Sissala West districts of the Upper West Region. The exercise which…",
+      "categories": [
+        "Health"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Court to rule on Wontumi’s bail application on November 4",
@@ -85,21 +246,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "‘Any tax on ChatGPT is an attack on education and innovation’- Akim Swedru, MP",
-      "link": "https://www.myjoyonline.com/any-tax-on-chatgpt-is-an-attack-on-education-and-innovation-akim-swedru-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T15:35:04.000Z",
-      "summary": "The Member of Parliament for Akim Swedru, Kennedy Osei Nyarko, has opposed calls to introduce a tax on ChatGPT, arguing that such a move could undermine education and innovation.",
-      "categories": [
-        "National",
-        "Akim Swedru MP",
-        "ChatGPT",
-        "Kennedy Osei Nyarko"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-2.00.11-PM-e1792077665799.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "PAC urges GRA to recover unpaid taxes from public institutions",
       "link": "https://ghanaiantimes.com.gh/pac-urges-gra-to-recover-unpaid-taxes-from-public-institutions/",
       "source": "Ghanaian Times",
@@ -113,20 +259,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Obuasi SHTS sexual abuse scandal exposes systemic failure in child protection – Moving Masculinity",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-scandal-exposes-systemic-failure-in-child-protection-moving-masculinity/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T15:34:26.000Z",
-      "summary": "Creator of Moving Masculinity, Esther Amarh, has described the alleged sexual abuse of female students at Obuasi Senior High Technical School as evidence of a systemic failure in Ghana’s…",
-      "categories": [
-        "News",
-        "Child Protection",
-        "Obuasi SHTS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/esther-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "15 arrested for illegal sand winning on Accra-Kumasi Expressway corridor",
       "link": "https://ghanaiantimes.com.gh/15-arrested-for-illegal-sand-winning-on-accra-kumasi-expressway-corridor/",
       "source": "Ghanaian Times",
@@ -138,25 +270,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hubtel CEO calls for national data-sharing framework to boost AI development",
-      "link": "https://www.myjoyonline.com/hubtel-ceo-calls-for-national-data-sharing-framework-to-boost-ai-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T15:31:51.000Z",
-      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has called for a national data-sharing framework that encourages companies to preserve and make data available under appropriate…",
-      "categories": [
-        "National",
-        "News",
-        "Technology",
-        "AI and The Ghana Economy",
-        "Alex Bram",
-        "Artificial Intelligence",
-        "Digital Economy Forum",
-        "Hubtel"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-6.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Military Engineers to construct road network for Gomoa Special Economic Zone and Eco Park",
@@ -191,63 +304,6 @@ window.GDC_PAPERS = {
       "summary": "An aspiring parliamentary candidate for Gomoa West Constituency, has commended President John Dramani Mahama for his swift intervention towards the completion of the Mumford Fishing…",
       "categories": [
         "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Twelve Golden Rules of real estate development in Ghana, Africa",
-      "link": "https://www.myjoyonline.com/twelve-golden-rules-of-real-estate-development-in-ghana-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T15:27:25.000Z",
-      "summary": "Real estate development is one of Africa's greatest opportunities for economic growth and wealth creation. With a young population, rapidly expanding cities, and rising demand for quality…",
-      "categories": [
-        "Features",
-        "National",
-        "Real Estate",
-        "Ghana",
-        "Golden rules",
-        "Prince-Joseph M. K. Ayiku"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/RealEstate03.jpg.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Five new telephony cell sites in Ashanti Region to be activated in October 2026 – Sam George",
-      "link": "https://www.myjoyonline.com/five-new-telephony-cell-sites-in-ashanti-region-to-be-activated-in-october-2026-sam-george/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T15:27:00.000Z",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Samuel Nartey George, has announced that five new telecommunications sites in the Ashanti Region are expected to be…",
-      "categories": [
-        "National",
-        "Ashanti Region",
-        "Samuel Nartey George",
-        "telephony cell sites"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ksi-Economics-Minister-Telephony-2-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Diaspora Affairs mourns Gamal Nkrumah",
-      "link": "https://ghanaiantimes.com.gh/diaspora-affairs-mourns-gamal-nkrumah/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T15:26:14.000Z",
-      "summary": "The Diaspora Affairs Office of the President (DAOOP) has expressed deep sorrow over the passing of Gamal Gorkeh Nkrumah, distinguished journalist, Pan-Africanist and son of Ghana’s first…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Maidens arrive in Rabat for U-17 Women’s World Cup",
-      "link": "https://ghanaiantimes.com.gh/black-maidens-arrive-in-rabat-for-u-17-womens-world-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T15:21:44.000Z",
-      "summary": "The national U-17 female team, the Black Maidens, have arrived in Rabat from their pre-camp base in Casablanca to begin their campaign at the 2026 FIFA U-17 Women’s World Cup. The team will…",
-      "categories": [
         "News"
       ],
       "image": null,
@@ -383,67 +439,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/15/drugs1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "MOBA launches 14-track anthology for 150th anniversary",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-moba-launches-14-track-anthology-for-150th-anniversary.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T09:11:41.000Z",
-      "summary": "The Mfantsipim Old Boys Association (MOBA) has launched a 14-track musical anthology to celebrate 150 years of Mfantsipim School, chronicling the school's history through hymns, anthems…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/Ace.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bagbin rallies Africa for fairer global financial system",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bagbin-rallies-africa-for-fairer-global-financial-system.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T09:08:02.000Z",
-      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has called on African countries to speak with one voice in demanding a fairer global financial system to address the continent’s…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/Alban.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "COCOBOD raises GH¢16.3bn on GSE - Proceeds to fund cocoa purchases, operations",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cocobod-raises-ghc16-3bn-on-gse-proceeds-to-fund-cocoa-purchases-operations.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T09:02:14.000Z",
-      "summary": "The Ghana Cocoa Board (COCOBOD) has issued and listed its highest-ever cedi-denominated instrument on the Ghana Stock Exchange (GSE) to raise GH¢16.30 billion to fund cocoa purchases.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Feb/19/cocoa.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Let us be mentors to the youth — Pres Mahama challenges Church leaders at global congress",
-      "link": "https://ghanaiantimes.com.gh/let-us-be-mentors-to-the-youth-pres-mahama-challenges-church-leaders-at-global-congress/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T09:00:00.000Z",
-      "summary": "President John Dramani Mahama has urged the Church to create space for young people to ask honest questions, receive thoughtful guidance and take on meaningful responsibilities. He said the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Let-us-be-mentors-President-Mahama-second-from-right-and-wife-arriving-at-the-AICC-for-the-Congress-1024x687-1.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "US Department of Justice, Ghana security agencies clamp down on cybercrime",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-us-department-of-justice-ghana-security-agencies-clamp-down-on-cybercrime.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T08:53:20.000Z",
-      "summary": "Joint security operation between Ghanaian security agencies and international partners has led to the rescue of 117 victims of human trafficking and the rescue of 19 persons in connection…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/fraudsters.jpg",
       "site": "https://www.graphic.com.gh/"
     }
   ]
