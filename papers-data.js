@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-15T11:56:32.968Z",
+  "updated": "2026-10-15T16:11:40.253Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,18 +25,317 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Popular Nigerian gospel singer Toluwanisings dies",
-      "link": "https://www.myjoyonline.com/popular-nigerian-gospel-singer-toluwanisings-dies/",
+      "title": "Zonda Tec launches HOWO T3M truck to support agric and logistics",
+      "link": "https://www.myjoyonline.com/zonda-tec-launches-howo-t3m-truck-to-support-agric-and-logistics/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T11:48:10.000Z",
-      "summary": "One of Nigeria's most popular gospel singers, Olayemi Bayonile Bolaji, known as Toluwanisings, his family has announced.",
+      "published": "2026-10-15T16:02:07.000Z",
+      "summary": "Zonda Tec Ghana Limited, the official partner of Sinotruk in Ghana, has launched the HOWO T3M light-duty truck, designed to combine the flexibility of light commercial vehicles with…",
       "categories": [
-        "Africa",
-        "Nigeria",
-        "Toluwanisings"
+        "Business",
+        "Transport",
+        "HOWO T3M",
+        "Yang Yang",
+        "Zonda Tec"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1501-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-8.31.11-AM-1-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS scandal: Eduwatch calls for sex offenders’ register and mandatory background checks for teachers",
+      "link": "https://www.myjoyonline.com/obuasi-shts-scandal-eduwatch-calls-for-sex-offenders-register-and-mandatory-background-checks-for-teachers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T15:49:59.000Z",
+      "summary": "The Executive Director of Africa Education Watch (Eduwatch), Kofi Asare, has called on the Ghana Education Service (GES) to introduce standardised safeguarding procedures, a sex offenders’…",
+      "categories": [
+        "Education",
+        "National",
+        "Eduwatch",
+        "Obuasi SHTS",
+        "sex offenders"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Kofi-Asare-Africa-Education-Watch-596x424-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GloMeF CEO urges intensified public education on new road traffic regulations",
+      "link": "https://www.myjoyonline.com/glomef-ceo-urges-intensified-public-education-on-new-road-traffic-regulations/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T15:38:32.000Z",
+      "summary": "The Chief Executive Officer of the Global Media Foundation (GloMeF), Raphael Godlove, has called for intensified public education on the new Road Traffic Regulations 2026 (L.I. 2519).",
+      "categories": [
+        "National",
+        "Global Media Foundation (GLOMEF)",
+        "Raphael Godlove",
+        "Road Traffic Regulations"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-NGO-Regulation-e1792077647927-1024x712.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Court to rule on Wontumi’s bail application on November 4",
+      "link": "https://ghanaiantimes.com.gh/court-to-rule-on-wontumis-bail-application-on-november-4/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T15:36:28.000Z",
+      "summary": "An Accra High Court has set November 4, 2026, to rule on the bail application filed by the former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi Boasiako…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Any tax on ChatGPT is an attack on education and innovation’- Akim Swedru, MP",
+      "link": "https://www.myjoyonline.com/any-tax-on-chatgpt-is-an-attack-on-education-and-innovation-akim-swedru-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T15:35:04.000Z",
+      "summary": "The Member of Parliament for Akim Swedru, Kennedy Osei Nyarko, has opposed calls to introduce a tax on ChatGPT, arguing that such a move could undermine education and innovation.",
+      "categories": [
+        "National",
+        "Akim Swedru MP",
+        "ChatGPT",
+        "Kennedy Osei Nyarko"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-2.00.11-PM-e1792077665799.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PAC urges GRA to recover unpaid taxes from public institutions",
+      "link": "https://ghanaiantimes.com.gh/pac-urges-gra-to-recover-unpaid-taxes-from-public-institutions/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T15:34:37.000Z",
+      "summary": "The Public Accounts Committee (PAC) has urged the Ghana Revenue Authority (GRA) to intensify efforts to recover unpaid taxes from public institutions and businesses cited in the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Obuasi SHTS sexual abuse scandal exposes systemic failure in child protection – Moving Masculinity",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-scandal-exposes-systemic-failure-in-child-protection-moving-masculinity/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T15:34:26.000Z",
+      "summary": "Creator of Moving Masculinity, Esther Amarh, has described the alleged sexual abuse of female students at Obuasi Senior High Technical School as evidence of a systemic failure in Ghana’s…",
+      "categories": [
+        "News",
+        "Child Protection",
+        "Obuasi SHTS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/esther-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "15 arrested for illegal sand winning on Accra-Kumasi Expressway corridor",
+      "link": "https://ghanaiantimes.com.gh/15-arrested-for-illegal-sand-winning-on-accra-kumasi-expressway-corridor/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T15:32:49.000Z",
+      "summary": "Fifteen persons have been arrested by National Security operatives for allegedly engaging in illegal sand winning on the newly cleared right-of-way for the proposed Accra-Kumasi Expressway…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Hubtel CEO calls for national data-sharing framework to boost AI development",
+      "link": "https://www.myjoyonline.com/hubtel-ceo-calls-for-national-data-sharing-framework-to-boost-ai-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T15:31:51.000Z",
+      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has called for a national data-sharing framework that encourages companies to preserve and make data available under appropriate…",
+      "categories": [
+        "National",
+        "News",
+        "Technology",
+        "AI and The Ghana Economy",
+        "Alex Bram",
+        "Artificial Intelligence",
+        "Digital Economy Forum",
+        "Hubtel"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-6.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Military Engineers to construct road network for Gomoa Special Economic Zone and Eco Park",
+      "link": "https://ghanaiantimes.com.gh/military-engineers-to-construct-road-network-for-gomoa-special-economic-zone-and-eco-park/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T15:30:37.000Z",
+      "summary": "The 48 Engineers Regiment of the Ghana Armed Forces is set to undertake the construction of the entire road network within the Gomoa Special Economic Zone and Gomoa Eco Park. The directive…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UKGCC, Ecobank turn golf into business networking platform at UK-Ghana Investment Summit 2026",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ukgcc-ecobank-turn-golf-into-business-networking-platform-at-uk-ghana-investment-summit-2026.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-15T15:30:11.000Z",
+      "summary": "The UK-Ghana Chamber of Commerce (UKGCC) and Ecobank Ghana PLC turned the golf course into a platform for business diplomacy, bringing investors, corporate leaders and policymakers together…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/Golf1.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Mumford Fishing Harbour: Captain Smart thanks President Mahama for swift intervention",
+      "link": "https://ghanaiantimes.com.gh/mumford-fishing-harbour-captain-smart-thanks-president-mahama-for-swift-intervention/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T15:28:36.000Z",
+      "summary": "An aspiring parliamentary candidate for Gomoa West Constituency, has commended President John Dramani Mahama for his swift intervention towards the completion of the Mumford Fishing…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Twelve Golden Rules of real estate development in Ghana, Africa",
+      "link": "https://www.myjoyonline.com/twelve-golden-rules-of-real-estate-development-in-ghana-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T15:27:25.000Z",
+      "summary": "Real estate development is one of Africa's greatest opportunities for economic growth and wealth creation. With a young population, rapidly expanding cities, and rising demand for quality…",
+      "categories": [
+        "Features",
+        "National",
+        "Real Estate",
+        "Ghana",
+        "Golden rules",
+        "Prince-Joseph M. K. Ayiku"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/RealEstate03.jpg.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Five new telephony cell sites in Ashanti Region to be activated in October 2026 – Sam George",
+      "link": "https://www.myjoyonline.com/five-new-telephony-cell-sites-in-ashanti-region-to-be-activated-in-october-2026-sam-george/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T15:27:00.000Z",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Samuel Nartey George, has announced that five new telecommunications sites in the Ashanti Region are expected to be…",
+      "categories": [
+        "National",
+        "Ashanti Region",
+        "Samuel Nartey George",
+        "telephony cell sites"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ksi-Economics-Minister-Telephony-2-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Diaspora Affairs mourns Gamal Nkrumah",
+      "link": "https://ghanaiantimes.com.gh/diaspora-affairs-mourns-gamal-nkrumah/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T15:26:14.000Z",
+      "summary": "The Diaspora Affairs Office of the President (DAOOP) has expressed deep sorrow over the passing of Gamal Gorkeh Nkrumah, distinguished journalist, Pan-Africanist and son of Ghana’s first…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Maidens arrive in Rabat for U-17 Women’s World Cup",
+      "link": "https://ghanaiantimes.com.gh/black-maidens-arrive-in-rabat-for-u-17-womens-world-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T15:21:44.000Z",
+      "summary": "The national U-17 female team, the Black Maidens, have arrived in Rabat from their pre-camp base in Casablanca to begin their campaign at the 2026 FIFA U-17 Women’s World Cup. The team will…",
+      "categories": [
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GBA elections set for October 31, Minister rules out extra funding",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gba-elections-set-for-october-31-minister-rules-out-extra-funding.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-15T14:39:14.000Z",
+      "summary": "Sports and Recreation Minister, Kofi Iddie Adams, has reaffirmed the October 31 deadline for elections to usher in a new Ghana Boxing Authority (GBA) leadership, insisting that the…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/CAPTAN.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Black Starlets coach eyes AFCON ticket, WAFU B title",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-starlets-coach-eyes-afcon-ticket-wafu-b-title.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-15T14:33:38.000Z",
+      "summary": "Black Starlets coach, Kassim Ocansey Mingle, has challenged his players to complete the next two stages of their WAFU Zone B U-17 Championship mission by securing qualification for the 2027…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/08/Black_Satellites.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana unveils Golden Arms squad for World Championships, appeal for support",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-unveils-golden-arms-squad-for-world-championships-appeal-for-support.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-15T14:09:18.000Z",
+      "summary": "Ghana’s Golden Arms have unveiled a squad of experienced armwrestlers for the 2026 World Armwrestling Championships in New Delhi, India, with the Ghana Armwrestling Federation (GAF)…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/ARMWRESTLING.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Black Stars coaching job deadline expires today, search committee races against time",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-stars-coaching-job-deadline-expires-today-search-committee-races-against-time.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-15T13:26:48.000Z",
+      "summary": "The deadline for applications for the vacant Black Stars head coach position expires today, Thursday, October 15, as the Fred Pappoe-led search committee intensifies efforts to identify a…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/COMMITTEE.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Korle Bu seeks more doctors, nurses to ease pressure on Emergency Centre",
+      "link": "https://www.graphic.com.gh/news/general-news/korle-bu-seeks-more-doctors-nurses-to-ease-pressure-on-emergency-centre.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T12:59:41.000Z",
+      "summary": "Management of the Korle Bu Teaching Hospital (KBTH) has appealed for more doctors and nurses to strengthen healthcare delivery, citing staff shortages and mounting pressure on its Accident…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/KORLEBU.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "MTN FA Cup final to be played over two legs",
+      "link": "https://www.graphic.com.gh/sports/sports-news/mtn-fa-cup-final-to-be-played-over-two-legs.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-15T12:06:46.000Z",
+      "summary": "The 2026/27 MTN FA Cup will break new ground, with the final scheduled to be played over two legs for the first time in the history of Ghanaian domestic football. The Ghana Football…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/mtn.jpeg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "GFA to receive $700,000 in annual CAF funding, an increase from $525,000",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gfa-to-receive-700-000-in-annual-caf-funding-an-increase-from-525-000.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-15T12:06:28.000Z",
+      "summary": "The Ghana Football Association (GFA) is set to benefit from an increase in annual financial support from the Confederation of African Football (CAF), with allocations to its 54 member…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/MOTSEPE.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Black Maidens arrive in Rabat ahead of 2026 FIFA U-17 Women’s World Cup",
@@ -51,133 +350,28 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Black Maidens coach Adarkwa names 21-player squad for FIFA U-17 Women’s World Cup",
-      "link": "https://www.graphic.com.gh/sports/sports-news/coach-adarkwa-names-21-player-squad-for-fifa-u-17-womens-world-cup.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-15T11:43:49.000Z",
-      "summary": "Black Maidens head coach Nana Joe Adarkwa has unveiled his final 21-player squad for the FIFA U-17 Women’s World Cup Morocco 2026, with the return of forward Jessica Appiah Asamoah from…",
+      "title": "GES committee recommends reposting of Obuasi SHTS headmaster in relation to August riot; fresh allegation of sexual misconduct under investigations",
+      "link": "https://www.graphic.com.gh/news/general-news/ges-recommends-reposting-of-obuasi-sec-tech-headmaster-in-relation-to-august-students-riot.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T11:29:35.000Z",
+      "summary": "Following the August 5, 2026 riot at the campus of the Obuasi Senior High Technical School which resulted in a physical attack on the headmaster, Abdulai Zakaria by some students, the…",
       "categories": [
-        "Sports News"
+        "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/BLACK_MAIDENS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/zak.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Spio-Garbrah proposes debt swaps to fund reparative justice in Africa and Caribbean",
-      "link": "https://www.myjoyonline.com/spio-garbrah-proposes-debt-swaps-to-fund-reparative-justice-in-africa-and-caribbean/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T11:40:57.000Z",
-      "summary": "Presidential Special Envoy for Reparations Ekwow Spio-Garbrah has proposed a debt-swap mechanism that would convert portions of eligible bilateral debt owed by African and Caribbean…",
+      "title": "Court to rule on Wontumi’s bail application pending appeal of 20-year jail sentence on November 4",
+      "link": "https://www.graphic.com.gh/news/general-news/court-to-rule-on-wontumis-bail-application-november-4.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T11:18:07.000Z",
+      "summary": "The High Court in Accra will on November 4, 2026, rule on an application by the convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, alias…",
       "categories": [
-        "National",
-        "debt swaps",
-        "Fund",
-        "reparative justice"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-28.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alban Bagbin calls for governance reforms and coordinated action to address Africa’s debt crisis",
-      "link": "https://www.myjoyonline.com/alban-bagbin-calls-for-governance-reforms-and-coordinated-action-to-address-africas-debt-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T11:38:12.000Z",
-      "summary": "Speaker of Parliament Alban Bagbin has called for reforms to Africa’s governance and economic systems, arguing that indiscipline and governance failures must be addressed if the continent…",
-      "categories": [
-        "National",
-        "Alban Bagbin",
-        "debt crisis",
-        "Governance"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-11.13.50.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AAK Academy Ghana trains 22 chocolate and confectionery companies in production techniques",
-      "link": "https://www.myjoyonline.com/aak-academy-ghana-trains-22-chocolate-and-confectionery-companies-in-production-techniques/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T11:36:41.000Z",
-      "summary": "FairAfric Ghana Limited in Amanase-Suhum has hosted the second AAK Academy™ Ghana, a two-day technical training programme aimed at strengthening skills, innovation and product development…",
-      "categories": [
-        "National",
-        "AAK West Africa",
-        "Chocolate",
-        "Ghana Academy"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1477.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adwumawura Programme trains second cohort of young entrepreneurs in Bono East",
-      "link": "https://www.myjoyonline.com/adwumawura-programme-trains-second-cohort-of-young-entrepreneurs-in-bono-east/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T11:35:15.000Z",
-      "summary": "A wave of optimism is sweeping through the Bono East Region as the second cohort of the Adwumawura Programme—the Government of Ghana's flagship youth entrepreneurship initiative under the…",
-      "categories": [
-        "Regional",
-        "Adwumawura Programme",
-        "Entrepreneurs",
-        "Techiman",
-        "Youth"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/981a3bda-1331-4b53-99c8-b710cc20c810-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Destroying Jimi River for gold could cost us our lives – Asantehene",
-      "link": "https://www.myjoyonline.com/destroying-jimi-river-for-gold-could-cost-us-our-lives-asantehene/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T11:28:33.000Z",
-      "summary": "Asantehene Otumfuo Osei Tutu II has warned that illegal mining driven by unemployment could cost communities their lives if rivers like the Jimi are destroyed.",
-      "categories": [
-        "National",
-        "Asantehene Otumfuo Osei Tutu II",
-        "Galamsey",
-        "Jimi River",
-        "Youth"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/d878d25b-fd1d-4bf9-9c47-30d11a2394d8-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sammy Gyamfi didn’t say BoG has ceded its forex role to us – GoldBod",
-      "link": "https://www.myjoyonline.com/sammy-gyamfi-didnt-say-bog-has-ceded-its-forex-role-to-us-goldbod/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T10:38:05.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) has rejected suggestions that the Bank of Ghana (BoG) has transferred its foreign exchange market responsibilities to the Board, insisting that its role is…",
-      "categories": [
-        "National",
-        "BoG",
-        "Goldbod",
-        "Sammy Gyamfi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sammy-Gyamfi-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "High Court sets November 4 for ruling on Wontumi’s bail application",
-      "link": "https://www.myjoyonline.com/high-court-sets-november-4-for-ruling-on-wontumis-bail-application/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T10:24:12.000Z",
-      "summary": "The Accra High Court has set November 4, 2026, to deliver its ruling on a bail application filed by former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi Boasiako…",
-      "categories": [
-        "HP News 2",
-        "News"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/wontumi.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Semenyo 'froze' after alleged racist abuse, court told",
-      "link": "https://www.graphic.com.gh/sports/sports-news/semenyo-froze-after-alleged-racist-abuse-court-told.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-15T10:10:28.000Z",
-      "summary": "Footballer Antoine Semenyo \"froze\" after he was allegedly racially abused by a Liverpool fan during a Premier League match at Anfield, a court has heard. The Manchester City winger, who was…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/semenyo.jpg",
-      "site": "https://www.graphic.com.gh/sports"
+      "image": "https://www.graphic.com.gh/images/2025/may/28/wontumi_cid.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Police arrest eight over illegal drug sales at Okaishie Drug Lane in Accra",
@@ -251,187 +445,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/15/fraudsters.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Talensi: Police nab 16, seize guns, ammunition at Gbane mining site",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-talensi-police-nab-16-seize-guns-ammunition-at-gbane-mining-site.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T08:50:08.000Z",
-      "summary": "The Upper East Regional Police Command has arrested 16 suspects and recovered ammunition, action guns and suspected narcotic substances and other items during a security operation at the…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/items.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ASA assures customers of improved service, digital convenience",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-asa-assures-customers-of-improved-service-digital-convenience.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T08:33:34.000Z",
-      "summary": "ASA Savings and Loans Ltd. has assured customers of improved service delivery and greater digital convenience as it prepares to transition into a microfinance bank in December.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/customers.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ntiamoah Foundation launches initiative to mark 20th anniversary",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ntiamoah-foundation-launches-initiative-to-mark-20th-anniversary.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T08:17:25.000Z",
-      "summary": "A ghanaian non-profit organisation committed to improving lives through education and health, the Ntiamoah Foundation, has launched a year-long campaign to commemorate its 20th anniversary…",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/Foundation.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Aboabo Market to be completed",
-      "link": "https://ghanaiantimes.com.gh/aboabo-market-to-be-completed/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T08:08:11.000Z",
-      "summary": "The Minister of Local Government, Chieftaincy and Religious Affairs, Mr Mahama Ayariga, has reaffirmed the government’s commitment to completing the long-abandoned Aboabo Super Market and…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cocoa farmers battle declining yields in Bono East",
-      "link": "https://ghanaiantimes.com.gh/cocoa-farmers-battle-declining-yields-in-bono-east/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T08:04:03.000Z",
-      "summary": "Cocoa farmers in parts of the Bono East Region are recording declining yields as prolonged sunshine and erratic rainfall continue to affect production. A 65-year-old farmer, Ms Rebecca…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "RLFG strengthens school Rugby League development in Ashanti Region",
-      "link": "https://ghanaiantimes.com.gh/rlfg-strengthens-school-rugby-league-development-in-ashanti-region/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T08:01:35.000Z",
-      "summary": "Rugby League Federation Ghana (RLFG) has held a three-day review and development programme for coaches, match officials and sports teachers in the Ashanti Region, aimed at strengthening the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ocansey satisfied with win over Benin • Targets trophy, AFCON qualification",
-      "link": "https://ghanaiantimes.com.gh/ocansey-satisfied-with-win-over-benin-targets-trophy-afcon-qualification/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T07:59:46.000Z",
-      "summary": "The Black Starlets Head Coach, Kassim Ocansey, has expressed satisfaction with his side’s 3-1 victory over Benin at the ongoing WAFU B U17 Championship, while acknowledging that there is…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Enrique hopes Man City are not stripped of titles",
-      "link": "https://ghanaiantimes.com.gh/enrique-hopes-man-city-are-not-stripped-of-titles/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T07:54:51.000Z",
-      "summary": "Paris Saint-Germain boss Luis Enrique said Manchester City were deserving winners of their trophies and should be allowed to keep them, despite the English club facing sanctions after being…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Struijk red card after VAR intervention overturned",
-      "link": "https://ghanaiantimes.com.gh/struijk-red-card-after-var-intervention-overturned/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T07:53:49.000Z",
-      "summary": "The red card controversially shown to Brighton defender Pascal Struijk at Sunderland after an intervention by the video assistant referee (VAR) has been overturned. Struijk was sent off…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Yamal magic fires Barca past Galatasaray in Champions League",
-      "link": "https://ghanaiantimes.com.gh/yamal-magic-fires-barca-past-galatasaray-in-champions-league/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-15T07:51:19.000Z",
-      "summary": "Barcelona and Lamine Yamal rediscovered their sparkle after a rocky first-half spell against Galatasaray to win 4-1 in their UEFA Champions League match in Türkiye. Yamal tore the hosts…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana Sports Fund engages federations on funding opportunities, development goals",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-sports-fund-engages-federations-on-funding-opportunities-development-goals.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-14T16:44:39.000Z",
-      "summary": "The Ghana Sports Fund has engaged more than 20 sports federations to discuss their operational challenges, grassroots development priorities and procedures for accessing financial support…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/14/SPORTS_FUND.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Why Rwanda has been chosen to host Formula 1",
-      "link": "https://www.graphic.com.gh/sports/sports-news/why-rwanda-has-been-chosen-to-host-formula-1.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-14T15:57:28.000Z",
-      "summary": "Formula 1 president Stefano Domenicali hailed the new deal to take the sport back to Africa - ending an absence of nearly 40 years - as a \"landmark\" achievement. Lewis Hamilton has been…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/14/FORMULA1.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Kofi Adams rejects calls for his removal over World Cup visa scandal",
-      "link": "https://www.graphic.com.gh/sports/sports-news/kofi-adams-rejects-calls-for-his-removal-over-world-cup-visa-scandal.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-14T13:07:35.000Z",
-      "summary": "The Minister of Sports and Recreation, Kofi Iddie Adams, has rejected calls for his removal over alleged irregularities in visa arrangements for supporters and officials ahead of the 2026…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/14/ADAMS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Kenya, Uganda and Tanzania push for common visa ahead of AFCON 2027",
-      "link": "https://www.graphic.com.gh/sports/sports-news/kenya-uganda-and-tanzania-push-for-common-visa-ahead-of-afcon-2027.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-14T12:36:13.000Z",
-      "summary": "Kenya, Uganda and Tanzania are considering a common visa framework for the 2027 Africa Cup of Nations (AFCON) to ease cross-border travel for football fans and boost regional tourism…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/14/PATRICE.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Two goals, one message: Mukarama Abdulai is back",
-      "link": "https://www.graphic.com.gh/sports/sports-news/two-goals-one-message-mukarama-abdulai-is-back.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-14T12:36:03.000Z",
-      "summary": "After another lengthy absence from the Black Queens, Mukarama Abdulai was handed a fresh opportunity when coach Kim Lars Björkegren recalled her for the October 2026 Olympic qualifiers…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/14/MUKARAMA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
