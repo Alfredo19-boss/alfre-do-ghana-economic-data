@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-14T23:28:21.255Z",
+  "updated": "2026-10-15T01:41:43.818Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,122 +25,128 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Man City suffer as PSG masterclass sets up Champions League win",
-      "link": "https://www.myjoyonline.com/man-city-suffer-as-psg-masterclass-sets-up-champions-league-win/",
+      "title": "Total expenditure as of July 2026 amounted to GH¢147.07bn, 16% below target – BoG",
+      "link": "https://www.myjoyonline.com/total-expenditure-amounted-to-gh%c2%a2147-07bn-in-july-2026-16-below-target-bog/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T22:19:00.000Z",
-      "summary": "Manchester City were brought down to earth by a masterclass from Champions League holders Paris St-German at Etihad Stadium.",
-      "categories": [
-        "News"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1450-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Customer Service Africa CEO urges business leaders to observe staff and customer interactions",
-      "link": "https://www.myjoyonline.com/customer-service-africa-ceo-urges-business-leaders-to-observe-staff-and-customer-interactions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T22:09:15.000Z",
-      "summary": "Founder and CEO of Customer Service Africa, Priscilla Wellington, says direct observation can help leaders identify problems, reinforce organisational values and ensure employees…",
+      "published": "2026-10-15T00:29:04.000Z",
+      "summary": "According to the July 2026 Monetary Policy Report, Compensation of Employees amounted to GH¢50.553 billion, lower than the target of GH¢52.943 billion.",
       "categories": [
         "Business",
         "Economy",
-        "News",
-        "Customer Service",
-        "Customer Service Africa",
-        "Customer Service Month",
-        "Priscilla Wellington"
+        "BoG",
+        "Compensation",
+        "Expenditure",
+        "interest payments",
+        "Ministry of Finance",
+        "MPC",
+        "Net lending"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Priscilla-Wellington-1024x768.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-5.35.17-am.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "On night of mayhem for Liverpool, Barcola arrives in style",
-      "link": "https://www.myjoyonline.com/on-night-of-mayhem-for-liverpool-barcola-arrives-in-style/",
+      "title": "Total revenue & grants stood at GH¢144.5bn in July 2026, slightly below target – BoG",
+      "link": "https://www.myjoyonline.com/total-revenue-grants-stood-at-gh%c2%a2144-5bn-in-july-2026-slightly-below-target-bog/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T22:08:05.000Z",
-      "summary": "On the eve of Liverpool's meeting with LASK, manager Andoni Iraola was repeatedly asked about the fortunes of Florian Wirtz and Bradley Barcola.",
+      "published": "2026-10-15T00:13:07.000Z",
+      "summary": "The Total Revenue and Grants in the first seven months of 2026 amounted to GH¢144.571 billion, about 9.1% of Gross Domestic Product (GDP). This was slightly lower than the target of…",
       "categories": [
-        "Football",
-        "Bradley Barcola",
-        "Liverpool"
+        "Business",
+        "Economy",
+        "BoG",
+        "GDP",
+        "Grants",
+        "Ministry of Finance",
+        "non-tax revenue",
+        "Revenue",
+        "Tax Revenue"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1449-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-191039.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Muzic Mensah finds healing and renewed love in new single ‘WayƐ Late’",
-      "link": "https://www.myjoyonline.com/muzic-mensah-finds-healing-and-renewed-love-in-new-single-way%c9%9b-late/",
+      "title": "Ghana Sports Fund urges sports federations to submit credible proposals and measurable targets",
+      "link": "https://www.myjoyonline.com/ghana-sports-fund-urges-sports-federations-to-submit-credible-proposals-and-measurable-targets/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T21:56:05.000Z",
-      "summary": "The song tells the story of a relationship that has ended and the unexpected happiness that follows when someone new enters the picture, bringing renewed affection, peace, and stability.",
+      "published": "2026-10-15T00:09:32.000Z",
+      "summary": "The Administrator of the Ghana Sports Fund, Dr David Kofi Wuaku, has challenged national sports federations to take greater responsibility for their development plans and demonstrate how…",
       "categories": [
-        "Arts and Culture",
-        "Music",
-        "Muzic Mensah",
-        "New single",
-        "WayƐ Late"
+        "Sports",
+        "David Kofi Wuaku",
+        "sports federations",
+        "Sports Fund"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gfd-1024x768.jpeg",
+      "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "FIFA to offer extra £2.6bn for football development",
-      "link": "https://www.myjoyonline.com/fifa-to-offer-extra-2-6bn-for-football-development/",
+      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+      "link": "https://www.myjoyonline.com/sally-rooney-books-withdrawn-in-uk-over-palestine-action-support/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T21:54:01.000Z",
-      "summary": "FIFA is set to propose a $3.4bn (£2.6bn) increase in the amount of money it allocates to football development worldwide.",
+      "published": "2026-10-15T00:02:00.000Z",
+      "summary": "Normal People author Sally Rooney has said her novels will no longer be supplied to booksellers in the UK as a result of her support for Palestine Action.",
       "categories": [
-        "Football",
-        "FIFA",
-        "Gianni Infantino"
+        "International",
+        "Sally Rooney"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/image-1197.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1454-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government backing is no EPA permit – Authority warns GoldBod, ministries",
-      "link": "https://www.myjoyonline.com/government-backing-is-no-epa-permit-authority-warns-goldbod-ministries/",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "link": "https://www.myjoyonline.com/musk-says-us-government-may-be-behind-slowdown-of-ukraine-drone-speeds/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T21:46:00.000Z",
-      "summary": "The Environmental Protection Authority (EPA) has warned public institutions, including the Ministry of Lands and Natural Resources and Ghana Gold Board (GoldBod), that government backing…",
+      "published": "2026-10-14T23:52:00.000Z",
+      "summary": "Elon Musk has suggested that the US government may be behind restrictions on the speed at which some of Ukraine's weapons can travel and stay connected to SpaceX's Starlink internet network.",
       "categories": [
-        "HP News 6",
+        "International",
+        "Elon Musk",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/11/musk.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Picking Chief Justices nearing retirement could give Mahama immense power – Bentil",
+      "link": "https://www.myjoyonline.com/picking-chief-justices-nearing-retirement-could-give-mahama-immense-power-bentil/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T23:42:00.000Z",
+      "summary": "Lawyer and Vice-President of IMANI Africa, Kofi Bentil, says appointing Chief Justices close to retirement could give President John Mahama immense power by allowing him to choose…",
+      "categories": [
+        "HP News 3",
         "National",
-        "Environmental Protection Agency (EPA)",
-        "Goldbod",
-        "Reclamation"
+        "Chief Justice appointment",
+        "Kofi Bentil"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/EPA-647x424-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ghanas-next-cj-at-the-supreme-co-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Real Madrid produce stunning late fightback to down Roma",
-      "link": "https://www.myjoyonline.com/real-madrid-produce-stunning-late-fightback-to-down-roma/",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "link": "https://www.myjoyonline.com/netflix-to-shed-1000-jobs-in-steepest-cuts-since-2022/",
       "source": "MyJoyOnline",
-      "published": "2026-10-14T21:34:00.000Z",
-      "summary": "Real Madrid produced a sensational recovery from 3-1 down, scoring three late goals to snatch a superb Champions League win over Roma on Jose Mourinho's return to the Stadio Olimpico.",
+      "published": "2026-10-14T23:21:00.000Z",
+      "summary": "Netflix has said it will cut 1,000 jobs globally as the streaming giant faces competition from rivals.",
+      "categories": [
+        "International",
+        "Job cuts",
+        "Netflix"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/06/image-329-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "link": "https://www.myjoyonline.com/burnham-had-two-hospitality-dinners-with-man-city-chairman-deleted-records-show/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-14T23:12:00.000Z",
+      "summary": "Andy Burnham had two hospitality dinners with Manchester City football club's chairman while mayor of Greater Manchester, it has emerged.",
       "categories": [
         "Football",
-        "AS Roma",
-        "Real Madrid"
+        "Andy Burnham",
+        "Manchester City"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1448.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EPA orders immediate halt to unpermitted reclamation and dredging nationwide",
-      "link": "https://www.myjoyonline.com/epa-orders-immediate-halt-to-unpermitted-reclamation-and-dredging-nationwide/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T21:25:18.000Z",
-      "summary": "The Environmental Protection Authority (EPA) has ordered an immediate halt to land reclamation, dredging and environmental restoration projects operating without its environmental permits…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Environmental Protection Agency (EPA)",
-        "Reclamation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/GoldBod-Tano-Nimri-reclamation-2-1024x575.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1453-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

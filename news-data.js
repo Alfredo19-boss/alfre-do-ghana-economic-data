@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-14T23:28:09.142Z",
-  "worldAt": "2026-10-14T23:28:09.139Z",
+  "updated": "2026-10-15T01:41:29.371Z",
+  "worldAt": "2026-10-15T01:41:29.367Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,9 +26,9 @@ window.GDC_NEWS = {
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
@@ -46,6 +46,20 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Total expenditure as of July 2026 amounted to GH¢147.07bn, 16% below target – BoG",
+      "link": "https://www.myjoyonline.com/total-expenditure-amounted-to-gh%c2%a2147-07bn-in-july-2026-16-below-target-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T00:29:04.000Z",
+      "summary": "According to the July 2026 Monetary Policy Report, Compensation of Employees amounted to GH¢50.553 billion, lower than the target of GH¢52.943 billion."
+    },
+    {
+      "title": "Total revenue & grants stood at GH¢144.5bn in July 2026, slightly below target – BoG",
+      "link": "https://www.myjoyonline.com/total-revenue-grants-stood-at-gh%c2%a2144-5bn-in-july-2026-slightly-below-target-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T00:13:07.000Z",
+      "summary": "The Total Revenue and Grants in the first seven months of 2026 amounted to GH¢144.571 billion, about 9.1% of Gross Domestic Product (GDP). This was slightly lower than the target of…"
+    },
     {
       "title": "Customer Service Africa CEO urges business leaders to observe staff and customer interactions",
       "link": "https://www.myjoyonline.com/customer-service-africa-ceo-urges-business-leaders-to-observe-staff-and-customer-interactions/",
@@ -1081,23 +1095,31 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-10-12T06:59:19.000Z",
       "summary": "Chief executive officers (CEOs), managing directors and board chairs of the various agencies and institutions under the energy sector whose performance falls short of the expected level of…"
-    },
-    {
-      "title": "Recover, protect, properly account for every Cedi of public money — Finance Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-recover-protect-properly-account-for-every-cedi-of-public-money-finance-minister.html",
-      "source": "Graphic Online",
-      "published": "2026-10-12T06:40:46.000Z",
-      "summary": "The Minister of Finance, Dr Cassiel Ato Forson, has called for a renewed national commitment to recover, protect and properly account for every cedi of public money."
-    },
-    {
-      "title": "BoG proposes new rules to ensure banks can always pay customers when they need their Money",
-      "link": "https://www.myjoyonline.com/bog-proposes-new-rules-to-ensure-banks-can-always-pay-customers-when-they-need-their-money/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-12T06:34:00.000Z",
-      "summary": "The Bank of Ghana (BoG) has proposed a new regulatory requirement that would compel banks to maintain sufficient high-quality liquid assets to cover their projected net cash outflows over a…"
     }
   ],
   "world": [
+    {
+      "title": "Trump suggests those who leak government information should ‘be shot’",
+      "link": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T01:34:41.000Z",
+      "summary": "The US president has long been unhappy with inside information about his administration being leaked to the media."
+    },
+    {
+      "title": "Lula’s party accuses Meta of election interference ahead of Brazil runoff",
+      "link": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
+      "source": "France 24",
+      "published": "2026-10-14T23:52:58.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva’s party plans to file a complaint against Meta with the Organisation of American States, alleging election interference, his campaign said…",
+      "image": "https://s.france24.com/media/display/58483438-c80f-11f1-a321-2d1c143cdef3/w:1024/p:16x9/878487ca57ce37b8c51b2864d2ab6e93a1e3d072.jpg"
+    },
+    {
+      "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T01:29:43.000Z",
+      "summary": "Torrential rain has triggered flash floods across Istanbul."
+    },
     {
       "title": "North Korea test-fires submarine-launched cruise missiles amid rising tensions",
       "link": "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles",
@@ -1107,11 +1129,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6cdbe0a4-c81c-11f1-9f21-2d1c143cdef3/w:1024/p:16x9/2026-10-14T220456Z-1512815080-RC293OA83D0C-RTRMADP-3-NORTHKOREA-MISSILES.jpg"
     },
     {
-      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-      "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "title": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
+      "link": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T23:03:10.000Z",
-      "summary": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty."
+      "published": "2026-10-15T01:20:26.000Z",
+      "summary": "Authorities are investigating whether drones may have been involved in the latest incident."
     },
     {
       "title": "Albania protests turn violent as protestors demand PM Rama's resignation",
@@ -1122,11 +1144,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fbf524c2-c820-11f1-9100-2d1c143cdef3/w:1024/p:16x9/2026-10-14T222222Z-1949817444-RC233OAJSBMG-RTRMADP-3-ALBANIA-PROTESTS.jpg"
     },
     {
-      "title": "ICE pushes back on report suggesting body cameras that automatically record",
-      "link": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
+      "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+      "link": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T22:57:13.000Z",
-      "summary": "The immigration agency rejects a report from a government watchdog recommending improvements to its body camera policy."
+      "published": "2026-10-15T00:24:03.000Z",
+      "summary": "President Laura Fernandez says mega-prison is part of 'tough-on-crime model' embraced by her government."
     },
     {
       "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
@@ -1137,11 +1159,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ece/live/b0d12ad0-c821-11f1-9464-85dab4665525.jpg"
     },
     {
-      "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+      "title": "Mexican court closes case against official over 2023 detention centre fire",
+      "link": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T21:50:01.000Z",
-      "summary": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic."
+      "published": "2026-10-15T00:08:58.000Z",
+      "summary": "Victims' groups, however, have denounced the ruling as 'selective' justice that exonerates the former migration chief."
     },
     {
       "title": "PSG beat Manchester City in Champions League after financial rules verdict",
@@ -1152,11 +1174,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3b5e936e-c817-11f1-ab9c-d1d2c32ebb87/w:1024/p:16x9/2026-10-14T192325Z-1970960909-UP1EMAE1HROMZ-RTRMADP-3-SOCCER-CHAMPIONS-MCI-PSG.jpg"
     },
     {
-      "title": "PSG beat Man City 4-2 in Champions League thriller",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss",
+      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T21:35:49.000Z",
-      "summary": "PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match."
+      "published": "2026-10-15T00:00:00.000Z",
+      "summary": "Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz."
     },
     {
       "title": "Indonesia: Bali fuel supply delays spark panic buying and hours-long queues",
@@ -1166,11 +1188,11 @@ window.GDC_NEWS = {
       "summary": "Indonesia's resort island of Bali faced long queues at petrol stations on Wednesday, 14 October, as disrupted fuel deliveries left motorists waiting for hours."
     },
     {
-      "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+      "title": "US destroys dhow suspected of Iranian command and control",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T21:35:27.000Z",
-      "summary": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties."
+      "published": "2026-10-14T23:58:13.000Z",
+      "summary": "The US says it destroyed an Iran-affiliated boat in the Gulf of Oman, accusing it of conducting surveillance."
     },
     {
       "title": "French anti-terror investigators probe True Crime Community link to school shooting",
@@ -1181,12 +1203,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fc2a50c6-c810-11f1-ba96-6313a763b466/w:1024/p:16x9/EN-20261014-223114-224215-CS.jpg"
     },
     {
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-14T20:55:24.000Z",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg"
+      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+      "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T23:03:10.000Z",
+      "summary": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty."
     },
     {
       "title": "French anti-terror investigators probe True Crime Community link to school shooting",
@@ -1197,11 +1218,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fc2a50c6-c810-11f1-ba96-6313a763b466/w:1024/p:16x9/EN-20261014-223114-224215-CS.jpg"
     },
     {
-      "title": "West Indies beat India to level T20 series as Hope continues record run",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
+      "title": "ICE rejects recommendation for body cameras that automatically record",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:52:25.000Z",
-      "summary": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls."
+      "published": "2026-10-14T22:57:13.000Z",
+      "summary": "The immigration agency rejects a report from a government watchdog recommending improvements to its body camera policy."
     },
     {
       "title": "French glassmaker Duralex pulled back from the brink - again",
@@ -1212,11 +1233,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f2bc076a-c80f-11f1-a7d0-d1d2c32ebb87/w:1024/p:16x9/capture-e017ba4e.jpg"
     },
     {
-      "title": "Israeli quadcopter drone drops bomb in Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
+      "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+      "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:47:46.000Z",
-      "summary": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon."
+      "published": "2026-10-14T21:50:01.000Z",
+      "summary": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic."
+    },
+    {
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-14T20:55:24.000Z",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg"
+    },
+    {
+      "title": "PSG beat Man City 4-2 in Champions League thriller",
+      "link": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T21:35:49.000Z",
+      "summary": "PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match."
     },
     {
       "title": "Why Zelensky's meeting with Burnham matters",
@@ -1227,11 +1263,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/069c/live/567fb8d0-c817-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
-      "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
+      "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:42:59.000Z",
-      "summary": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings."
+      "published": "2026-10-14T21:35:27.000Z",
+      "summary": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties."
     },
     {
       "title": "Kenya reports second Ebola case",
@@ -1242,26 +1278,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6690347a-c80d-11f1-a89d-6313a763b466/w:1024/p:16x9/DN197527-A-01-20261007-01.jpg"
     },
     {
-      "title": "Sky turns orange as wildfires rage across Indonesia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
+      "title": "West Indies beat India to level T20 series as Hope continues record run",
+      "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:39:59.000Z",
-      "summary": "An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province."
+      "published": "2026-10-14T20:52:25.000Z",
+      "summary": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls."
     },
     {
       "title": "Student protesters attack government buildings in Albania",
       "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-14T20:29:05.000Z",
-      "summary": "Buildings are set on fire as demonstrations from thousands of students who want better university conditions and job prospects spiral into violence.",
+      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "World’s oldest shipwreck found off coast of Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
+      "title": "Israeli quadcopter drone drops bomb in Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:33:20.000Z",
-      "summary": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley."
+      "published": "2026-10-14T20:47:46.000Z",
+      "summary": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon."
     },
     {
       "title": "What is Starshield, SpaceX's military version of Starlink?",
@@ -1272,11 +1308,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d6d59c4e-c807-11f1-a293-4dd8ac2cf3bf/w:1024/p:16x9/Starshield.jpg"
     },
     {
-      "title": "Woman rescued after being swept away by Istanbul flash flood",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
+      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
+      "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:29:50.000Z",
-      "summary": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district"
+      "published": "2026-10-14T20:42:59.000Z",
+      "summary": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings."
     },
     {
       "title": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
@@ -1287,11 +1323,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9680d490-c804-11f1-9a9a-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261014-211506-211649-CS.jpg"
     },
     {
-      "title": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
-      "link": "https://www.aljazeera.com/news/2026/10/14/mexico-to-force-meta-tiktok-and-x-to-better-protect-minors-on-platform?traffic_source=rss",
+      "title": "Sky turns orange as wildfires rage across Indonesia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:27:41.000Z",
-      "summary": "Mexico will require the digital platforms to protect minors from violent and sexual content."
+      "published": "2026-10-14T20:39:59.000Z",
+      "summary": "An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province."
     },
     {
       "title": "Well-wishers rally behind Pope Leo XIV as he recovers from cancer surgery",
@@ -1301,11 +1337,11 @@ window.GDC_NEWS = {
       "summary": "With music and prayer, well-wishers gather outside Rome’s Gemelli Hospital as Pope Leo XIV recovers from surgery to remove a cancerous lung tumour. Doctors say the pontiff is walking…"
     },
     {
-      "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss",
+      "title": "World’s oldest shipwreck found off coast of Turkiye",
+      "link": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:25:30.000Z",
-      "summary": "Gianni Infantino faces FIFA rebels after failed World Cup sale, while members to be offered $6.35bn development fund."
+      "published": "2026-10-14T20:33:20.000Z",
+      "summary": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley."
     },
     {
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
@@ -1316,11 +1352,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109c/live/7b3da5c0-c807-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "Houthi attacks disrupt travel plans for Mecca pilgrims",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss",
+      "title": "Woman rescued after being swept away by Istanbul flash flood",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:25:04.000Z",
-      "summary": "Muslim pilgrims headed to Mecca for Umrah are facing travel disruptions as Houthi attacks hit Saudi Arabia."
+      "published": "2026-10-14T20:29:50.000Z",
+      "summary": "A woman was rescued by passersby after being swept along by floodwaters in Istanbul’s Esenyurt district"
     },
     {
       "title": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
@@ -1331,11 +1367,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7652471c-c804-11f1-ac63-6313a763b466/w:1024/p:16x9/EN-20261014-210507-211251-CS.jpg"
     },
     {
-      "title": "Russia attack hits Kyiv after reported intelligence lapse",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
+      "title": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
+      "link": "https://www.aljazeera.com/news/2026/10/14/mexico-to-force-meta-tiktok-and-x-to-better-protect-minors-on-platform?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:14:57.000Z",
-      "summary": "Russia attack hits Kyiv after reported intelligence lapse"
+      "published": "2026-10-14T20:27:41.000Z",
+      "summary": "Mexico will require the digital platforms to protect minors from violent and sexual content."
     },
     {
       "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
@@ -1346,11 +1382,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x864+0+592/resize/1536x864!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F64%2F667fda7e425eba94a43332b55381%2Fimg-2932.JPEG"
     },
     {
-      "title": "Barcola scores hat-trick as Liverpool hit LASK for six, Feyenoord beat Como",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/barcola-scores-hat-trick-as-liverpool-hit-lask-for-six?traffic_source=rss",
+      "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
+      "link": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-14T20:12:20.000Z",
-      "summary": "Following a move from Paris Saint-Germain, Bradley Barcola gets first Liverpool goals with Champions League hat-trick."
+      "published": "2026-10-14T20:25:30.000Z",
+      "summary": "Gianni Infantino faces FIFA rebels after failed World Cup sale, while members to be offered $6.35bn development fund."
     },
     {
       "title": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack",
@@ -1359,45 +1395,16 @@ window.GDC_NEWS = {
       "published": "2026-10-14T19:39:08.000Z",
       "summary": "Donald Trump has sparked outrage after sharing the distressing footage of a 23-year-old man with mental illness being fatally mauled by a tiger at Yorkshire Wildlife Park, captioned \"Don't…",
       "image": "https://s.france24.com/media/display/0aaeefc0-c803-11f1-b711-4dd8ac2cf3bf/w:1024/p:16x9/capture-e2506ac2.jpg"
-    },
-    {
-      "title": "Spanish NGO halts Mediterranean rescue operations, citing fuel prices",
-      "link": "https://www.aljazeera.com/news/2026/10/14/spanish-ngo-halts-mediterranean-rescue-operations-citing-fuel-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T20:10:15.000Z",
-      "summary": "SMH says it can no longer afford search-and-rescue work in one of the world's most dangerous migration routes."
-    },
-    {
-      "title": "How far will cockroach movement go? India's youth-led protests defy Modi government",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261014-how-far-will-cockroach-movement-go-india-s-youth-led-protests-defy-modi-government",
-      "source": "France 24",
-      "published": "2026-10-14T18:40:21.000Z",
-      "summary": "It all started as a bit of online satire by a few young people fed up by corruption. Clearly though, the Cockroach movement's no longer a laughing matter for India’s government which has…",
-      "image": "https://s.france24.com/media/display/4239fb0a-c7fa-11f1-89b9-638c1c1f5fd6/w:1024/p:16x9/2026-10-14T115755Z-850024491-RC2W2OARH6QL-RTRMADP-3-INDIA-POLITICS.jpg"
-    },
-    {
-      "title": "How will a new alliance affect the conflict in eastern DRC?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T19:54:16.000Z",
-      "summary": "Former President Joseph Kabila has joined forces with M23 fighters."
-    },
-    {
-      "title": "Russia says diesel supply deal with US under negotiation after Trump-Putin call",
-      "link": "http://www.africanews.com/2026/10/14/russia-says-diesel-supply-deal-with-us-under-negotiation-after-trump-putin-call/",
-      "source": "Africanews",
-      "published": "2026-10-14T18:34:37.000Z",
-      "summary": "Hours after Trump announced a deal with Putin, Russia says negotiations are still underway. Trump claims Moscow will immediately supply over 300,000 tons of diesel, with more shipments…"
-    },
-    {
-      "title": "US lifts sanctions on Venezuela’s top legislator",
-      "link": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T19:53:03.000Z",
-      "summary": "Jorge Rodriguez has been removed from OFAC's sanctions list in latest US push for oil control and bilateral diplomacy."
     }
   ],
   "africa": [
+    {
+      "title": "Nigeria: Nigerian Ai Scientist to Roll Out Software That Cuts MRI Time By 90 Percent",
+      "link": "https://allafrica.com/stories/202610140668.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-14T23:49:25.000Z",
+      "summary": "[This Day] A United Kingdom-based Nigerian artificial intelligence (AI) research scientist and Founder of GenScan AI, Mary-Brenda Akoda, has disclosed plans to roll out her AI medical…"
+    },
     {
       "title": "Kenya reports second Ebola case, family member of first patient",
       "link": "http://www.africanews.com/2026/10/14/kenya-reports-second-ebola-case-family-member-of-first-patient/",
@@ -1673,13 +1680,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-14T11:17:34.000Z",
       "summary": "In addition to film screenings, the venue will host masterclasses, industry panels, and live performances by established and emerging talent."
-    },
-    {
-      "title": "Mozambique: Mondlane's Appeal Regarding Live Broadcast of His Trial Rejected",
-      "link": "https://allafrica.com/stories/202610140289.html",
-      "source": "AllAfrica",
-      "published": "2026-10-14T11:02:34.000Z",
-      "summary": "[AIM] Maputo -- Mozambique's Supreme Court has rejected an appeal filed by defendant Venâncio Mondlane, a former presidential candidate, seeking to have his trial broadcast live on…"
     }
   ]
 };
