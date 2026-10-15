@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-15T19:53:42.202Z",
+  "updated": "2026-10-15T22:43:40.407Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,128 +25,144 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "From Campaign Propaganda to Gov’t Accountability: When the message-makers demand a seat at the table",
-      "link": "https://www.myjoyonline.com/from-campaign-propaganda-to-govt-accountability-when-the-message-makers-demand-a-seat-at-the-table/",
+      "title": "How does a Ghanaian team make it to the BAL?",
+      "link": "https://www.myjoyonline.com/how-does-a-ghanaian-team-make-it-to-the-bal/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T19:45:39.000Z",
-      "summary": "The campaign is over, the votes have been counted, and power has changed hands. But what happens when the very voices that helped sell a political message begin demanding answers from the…",
+      "published": "2026-10-15T22:15:03.000Z",
+      "summary": "First, what is the BAL, and why does it matter? The Basketball Africa League (BAL) is Africa’s premier men’s club basketball competition. A partnership between NBA Africa and FIBA…",
       "categories": [
-        "HP Opinion 4",
         "Opinion",
-        "Politics",
-        "election campaign",
-        "government accountability"
+        "Sports",
+        "Basketball",
+        "Basketball Africa League",
+        "NBA Africa",
+        "Players"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Gemini_Generated_Image_l440ypl440ypl440-1024x687.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-20.20.00-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ashanti Region Security Coordinator warns sand winners to stay off Accra–Kumasi Expressway site",
-      "link": "https://www.myjoyonline.com/ashanti-region-security-coordinator-warns-sand-winners-to-stay-off-accra-kumasi-expressway-site/",
+      "title": "Ghana’s investment climate presents opportunities for industrial growth and job creation.",
+      "link": "https://www.myjoyonline.com/ghanas-investment-climate-presents-opportunities-for-industrial-growth-job-creation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T19:41:27.000Z",
-      "summary": "Ashanti Regional Security Coordinator, Captain John Kwame Jabari, has warned sand winners operating along the Accra–Kumasi Expressway project site to stop their activities or face severe…",
+      "published": "2026-10-15T22:14:17.000Z",
+      "summary": "The Country Manager of Senok West Africa Ltd, Roshan Buddhagamage, says the expansion of industrial activity presents opportunities for businesses to invest in machinery and develop the…",
       "categories": [
+        "Business",
         "National",
-        "Accra–Kumasi Expressway",
-        "Ashanti Region Security Coordinator",
-        "sand winners"
+        "Ghana",
+        "investment climate",
+        "JCB",
+        "Roshan Buddhagamage"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/sewua.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-14.07.17-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PZ Cussons Ghana promotes hand washing among schoolchildren through Camel campaign",
-      "link": "https://www.myjoyonline.com/pz-cussons-ghana-promotes-hand-washing-among-schoolchildren-through-camel-campaign/",
+      "title": "‘I paid thousands to a company for jobs that never came’",
+      "link": "https://www.myjoyonline.com/i-paid-thousands-to-a-company-for-jobs-that-never-came/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T19:18:14.000Z",
-      "summary": "Z Cussons Ghana Limited is promoting hand-washing education among schoolchildren, saying habits developed early in life can help prevent infections and improve public health. The company…",
+      "published": "2026-10-15T22:01:00.000Z",
+      "summary": "A company has been accused of promising jobs in the healthcare sector which never materialised, leaving people thousands of pounds out of pocket.",
       "categories": [
-        "Education",
-        "Events",
-        "Camel campaign",
-        "Hand washing",
-        "PZ Cussons"
+        "International",
+        "News",
+        "Company jobs"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-201135-1024x461.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1563-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "30 NDC aspirants file nominations in Upper West as regional election approaches",
-      "link": "https://www.myjoyonline.com/30-ndc-aspirants-file-nominations-in-upper-west-as-regional-election-approaches/",
+      "title": "SSNIT intensifies informal sector enrolment drive with Techiman float",
+      "link": "https://www.myjoyonline.com/ssnit-intensifies-informal-sector-enrolment-drive-with-techiman-float/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T19:04:01.000Z",
-      "summary": "Thirty aspirants have filed nomination forms at the Upper West Regional office of the National Democratic Congress (NDC) in Wa to contest various regional executive positions ahead of the…",
+      "published": "2026-10-15T21:37:00.000Z",
+      "summary": "The Social Security and National Insurance Trust (SSNIT) has intensified its drive to bring informal sector workers onto the pension scheme, with a vibrant sensitization float through the…",
       "categories": [
-        "Politics",
         "Regional",
-        "Election",
-        "NDC",
-        "Upper West"
+        "Informal sector",
+        "SSNIT",
+        "Techiman float"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/4-16-576x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-20.29.34-1024x574.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UPSA launches laptop assembly plant, requiring new students to assemble their own devices",
-      "link": "https://www.myjoyonline.com/upsa-launches-laptop-assembly-plant-requiring-new-students-to-assemble-their-own-devices/",
+      "title": "Ghana seeks long-term mining investments that benefit local communities – Armah-Kofi Buah",
+      "link": "https://www.myjoyonline.com/ghana-seeks-long-term-mining-investments-that-benefit-local-communities-armah-kofi-buah/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T18:58:30.000Z",
-      "summary": "The University of Professional Studies, Accra (UPSA), has taken a major step towards technology-enabled learning with the official launch of its laptop assembly plant at the AFOA ATA…",
+      "published": "2026-10-15T21:30:30.000Z",
+      "summary": "The Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, has reaffirmed Ghana’s readiness to partner with Guangdong Shengmai Tech Co. Ltd. to explore investment opportunities…",
       "categories": [
-        "Education",
-        "HP News 3",
+        "Mining",
         "National",
-        "Assembly Plant",
-        "UPSA"
+        "News",
+        "Armah-Kofi Buah",
+        "Ghana",
+        "mining investments"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1556-1024x572.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-62-1024x639.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UCC sociologist calls for action on gender inequality to end child marriage",
-      "link": "https://www.myjoyonline.com/ucc-sociologist-calls-for-action-on-gender-inequality-to-end-child-marriage/",
+      "title": "GHATOF demands compensation for 85 businesses affected by La Pleasure Beach demolition",
+      "link": "https://www.myjoyonline.com/ghatof-demands-compensation-for-85-businesses-affected-by-la-pleasure-beach-demolition/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T18:57:17.000Z",
-      "summary": "The Head of the Department of Anthropology and Sociology at the University of Cape Coast (UCC), Prof. Georgina Yaa Oduro, has called for action to address gender inequality, warning that it…",
+      "published": "2026-10-15T21:25:00.000Z",
+      "summary": "The Ghana Tourism Federation (GHATOF) has demanded compensation for 85 businesses affected by the demolition at La Pleasure Beach, warning that about 4,000 jobs, largely held by women, have…",
       "categories": [
+        "Arts and Culture",
         "National",
-        "Child marriage",
-        "Gender inequality"
+        "Travel and Tourism",
+        "85 businesses",
+        "Ghana Tourism Federation (GHATOF)",
+        "La Pleasure Beach"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/4-15-1024x682.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-20.59.00.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "LSN questions Ghana’s proposed five-year presidential term and DCE election reforms",
-      "link": "https://www.myjoyonline.com/lsn-questions-ghanas-proposed-five-year-presidential-term-and-dce-election-reforms/",
+      "title": "Bono Regional Minister calls for investor education to drive economic growth",
+      "link": "https://www.myjoyonline.com/bono-regional-minister-calls-for-investor-education-to-drive-economic-growth/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T18:56:10.000Z",
-      "summary": "The Law Students’ Network (LSN) has questioned the government’s decision to support extending Ghana’s presidential term from four to five years, while warning that its proposed model for…",
+      "published": "2026-10-15T21:21:00.000Z",
+      "summary": "The Bono Regional Minister, Joseph Addae Akwaboa, has called for intensified investor education and financial literacy to protect residents from fraudulent investment schemes and promote…",
       "categories": [
-        "National",
-        "DCE",
-        "LSN",
-        "Presidential term"
+        "Regional",
+        "Bono Region",
+        "investor education",
+        "Joseph Addae Akwaboa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-17.41.37-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-19.38.52-1024x628.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "AFCON 2027Q: Bjorkegren to lead Black Stars for Somalia doubleheader with Tanko and Attram as assistants",
-      "link": "https://www.myjoyonline.com/afcon-2027q-bjorkegren-to-lead-black-stars-for-somalia-doubleheader-with-tanko-and-attram-as-assistants/",
+      "title": "Ghana’s Ambassador to China, Kojo Bonsu, presents credentials to Nepalese President",
+      "link": "https://www.myjoyonline.com/ghanas-ambassador-to-china-kojo-bonsu-presents-credentials-to-nepalese-president/",
       "source": "MyJoyOnline",
-      "published": "2026-10-15T18:54:25.000Z",
-      "summary": "Kim Lars Bjorkegren will take charge of the Black Stars for the November international break as the search for a new head coach continues. The Black Queens gaffer will be in charge for the…",
+      "published": "2026-10-15T21:17:36.000Z",
+      "summary": "Ghana’s Ambassador Extraordinary and Plenipotentiary to the People’s Republic of China, Kojo Bonsu, has presented his credentials to Nepalese President Ram Chandra Paudel. The ceremony took…",
       "categories": [
-        "Football",
         "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Kim Lars Björkegren"
+        "China",
+        "Ghana",
+        "Kojo Bonsu",
+        "Nepal"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Kim-Lars-Bjorkegren-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/5-9-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama urges investors to employ trained local residents as 1,238-acre industrial park takes off",
+      "link": "https://www.graphic.com.gh/news/general-news/mahama-urges-training-for-afienya-residents-as-1-238-acre-industrial-park-takes-off.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-15T20:23:50.000Z",
+      "summary": "President John Dramani Mahama has urged investors at the Afienya Industrial Park to prioritise the employment of trained residents from the host communities as construction of the…",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/presidentmahama.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Presbyterian Church marks 141 years of health service, calls for stronger state support",
@@ -427,18 +443,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2025/may/28/wontumi_cid.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest eight over illegal drug sales at Okaishie Drug Lane in Accra",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-eight-over-suspected-drug-sales-at-okaishie-drug-lane.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-15T09:53:00.000Z",
-      "summary": "Eight people have been arrested by the police for the sale and distribution of narcotic substances and unregulated pharmaceutical products at the Okaishie Drug Lane in Accra.",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/drugs1.jpg",
       "site": "https://www.graphic.com.gh/"
     }
   ]
