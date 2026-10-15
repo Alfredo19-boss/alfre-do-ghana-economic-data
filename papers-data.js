@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-15T01:41:43.818Z",
+  "updated": "2026-10-15T06:28:51.688Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,154 +25,220 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Total expenditure as of July 2026 amounted to GH¢147.07bn, 16% below target – BoG",
-      "link": "https://www.myjoyonline.com/total-expenditure-amounted-to-gh%c2%a2147-07bn-in-july-2026-16-below-target-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T00:29:04.000Z",
-      "summary": "According to the July 2026 Monetary Policy Report, Compensation of Employees amounted to GH¢50.553 billion, lower than the target of GH¢52.943 billion.",
-      "categories": [
-        "Business",
-        "Economy",
-        "BoG",
-        "Compensation",
-        "Expenditure",
-        "interest payments",
-        "Ministry of Finance",
-        "MPC",
-        "Net lending"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-5.35.17-am.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Total revenue & grants stood at GH¢144.5bn in July 2026, slightly below target – BoG",
-      "link": "https://www.myjoyonline.com/total-revenue-grants-stood-at-gh%c2%a2144-5bn-in-july-2026-slightly-below-target-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T00:13:07.000Z",
-      "summary": "The Total Revenue and Grants in the first seven months of 2026 amounted to GH¢144.571 billion, about 9.1% of Gross Domestic Product (GDP). This was slightly lower than the target of…",
-      "categories": [
-        "Business",
-        "Economy",
-        "BoG",
-        "GDP",
-        "Grants",
-        "Ministry of Finance",
-        "non-tax revenue",
-        "Revenue",
-        "Tax Revenue"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-191039.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Sports Fund urges sports federations to submit credible proposals and measurable targets",
-      "link": "https://www.myjoyonline.com/ghana-sports-fund-urges-sports-federations-to-submit-credible-proposals-and-measurable-targets/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T00:09:32.000Z",
-      "summary": "The Administrator of the Ghana Sports Fund, Dr David Kofi Wuaku, has challenged national sports federations to take greater responsibility for their development plans and demonstrate how…",
-      "categories": [
-        "Sports",
-        "David Kofi Wuaku",
-        "sports federations",
-        "Sports Fund"
-      ],
-      "image": null,
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-      "link": "https://www.myjoyonline.com/sally-rooney-books-withdrawn-in-uk-over-palestine-action-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T00:02:00.000Z",
-      "summary": "Normal People author Sally Rooney has said her novels will no longer be supplied to booksellers in the UK as a result of her support for Palestine Action.",
-      "categories": [
-        "International",
-        "Sally Rooney"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1454-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "link": "https://www.myjoyonline.com/musk-says-us-government-may-be-behind-slowdown-of-ukraine-drone-speeds/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T23:52:00.000Z",
-      "summary": "Elon Musk has suggested that the US government may be behind restrictions on the speed at which some of Ukraine's weapons can travel and stay connected to SpaceX's Starlink internet network.",
-      "categories": [
-        "International",
-        "Elon Musk",
-        "Ukraine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/11/musk.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Picking Chief Justices nearing retirement could give Mahama immense power – Bentil",
-      "link": "https://www.myjoyonline.com/picking-chief-justices-nearing-retirement-could-give-mahama-immense-power-bentil/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T23:42:00.000Z",
-      "summary": "Lawyer and Vice-President of IMANI Africa, Kofi Bentil, says appointing Chief Justices close to retirement could give President John Mahama immense power by allowing him to choose…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Chief Justice appointment",
-        "Kofi Bentil"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ghanas-next-cj-at-the-supreme-co-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "link": "https://www.myjoyonline.com/netflix-to-shed-1000-jobs-in-steepest-cuts-since-2022/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T23:21:00.000Z",
-      "summary": "Netflix has said it will cut 1,000 jobs globally as the streaming giant faces competition from rivals.",
-      "categories": [
-        "International",
-        "Job cuts",
-        "Netflix"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/06/image-329-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-      "link": "https://www.myjoyonline.com/burnham-had-two-hospitality-dinners-with-man-city-chairman-deleted-records-show/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T23:12:00.000Z",
-      "summary": "Andy Burnham had two hospitality dinners with Manchester City football club's chairman while mayor of Greater Manchester, it has emerged.",
-      "categories": [
-        "Football",
-        "Andy Burnham",
-        "Manchester City"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1453-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia leads NPP Executives to mourn late Chairman Odoi-Sykes",
-      "link": "https://ghanaiantimes.com.gh/bawumia-leads-npp-executives-to-mourn-late-chairman-odoi-sykes/",
+      "title": "Beyond heart health: The surprising power of fresh produce against air pollution",
+      "link": "https://ghanaiantimes.com.gh/beyond-heart-health-the-surprising-power-of-fresh-produce-against-air-pollution/",
       "source": "Ghanaian Times",
-      "published": "2026-10-14T17:15:30.000Z",
-      "summary": "The flagbearer of the New Patriotic Party (NPP), Dr. Mahamudu Bawumia, today led the National Executives of the party to pay a condolence visit to the family of the late H.E. Samuel…",
+      "published": "2026-10-15T06:27:18.000Z",
+      "summary": "KANESHIE, Accra — Gyamfua arrives at the footbridge here by 5:00 a.m. every day. Long rows of passengers board buses spewing black exhaust fumes into the air as she prepares her fruit…",
       "categories": [
-        "News"
+        "Features"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-16.46.34-2-1.jpeg",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Suame MP John Darko denies involvement in SIC, equity savings and loans settlement",
-      "link": "https://ghanaiantimes.com.gh/suame-mp-john-darko-denies-involvement-in-sic-equity-savings-and-loans-settlement/",
+      "title": "Why ‘Mahama Cares’ must be cared for",
+      "link": "https://ghanaiantimes.com.gh/why-mahama-cares-must-be-cared-for/",
       "source": "Ghanaian Times",
-      "published": "2026-10-14T17:10:12.000Z",
-      "summary": "Suame Member of Parliament (MP) John Darko has denied any involvement in a post-court settlement between SIC Savings and Loans and Equity Savings and Loans, insisting that he had no part in…",
+      "published": "2026-10-15T06:21:53.000Z",
+      "summary": "THE Ghana Medical Trust Fund (GMTF), popularly known as Mahama Cares, is an important addition to Ghana’s health financing system. Established under Act 1144 in July 2025, it provides…",
+      "categories": [
+        "Features"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/image-27-1024x377.png",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2 killed in Tripoli floods",
+      "link": "https://ghanaiantimes.com.gh/2-killed-in-tripoli-floods/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T06:20:00.000Z",
+      "summary": "TORRENTIAL downpours flooded the Libyan capital of Tripoli on Tuesday, killing two people, according to a statement by authorities and a local TV channel. Jumhouria Bank said an employee…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Thousands of workers on strike across Republic of Ireland",
+      "link": "https://ghanaiantimes.com.gh/thousands-of-workers-on-strike-across-republic-of-ireland/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T06:13:46.000Z",
+      "summary": "MORE than 300,000 workers, including nurses, doctors, teachers and civil servants, are on strike across the Republic of Ireland. It comes amid an ongoing pay dispute between public sector…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Malawi motorists sleep at petrol stations amid fuel shortage",
+      "link": "https://ghanaiantimes.com.gh/malawi-motorists-sleep-at-petrol-stations-amid-fuel-shortage/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T06:11:42.000Z",
+      "summary": "MOTORISTS are sleeping overnight at petrol stations and taxi drivers have been left without work as crippling fuel shortages grip Malawi once again. “I slept right here, and I am still here…",
+      "categories": [
+        "Africa"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Majority defends GH¢49.7m South Africa evacuation cost",
+      "link": "https://ghanaiantimes.com.gh/majority-defends-gh%c2%a249-7m-south-africa-evacuation-cost/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T06:08:42.000Z",
+      "summary": "THE Majority Caucus on Parliament’s Foreign Affairs and Regional Integration Committee has disputed claims by the Minority Caucus regarding the amount spent on the evacuation of Ghanaians…",
       "categories": [
         "Hot!",
         "News"
       ],
-      "image": null,
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Government launches rCOMSDEP to promote responsible mining in Western Region",
+      "link": "https://www.myjoyonline.com/government-launches-rcomsdep-to-promote-responsible-mining-in-western-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T06:07:09.000Z",
+      "summary": "The government has launched the Responsible Cooperative Mining and Skills Development Programme (rCOMSDEP) in Ahanta West and Mpohor Fiase in the Western Region as part of efforts to…",
+      "categories": [
+        "National",
+        "Government",
+        "rCOMSDEP",
+        "Western Region"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/849694891_2272184200850993_3670718257922701832_n-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No Ghanaian should go blind needlessly",
+      "link": "https://ghanaiantimes.com.gh/no-ghanaian-should-go-blind-needlessly/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T06:04:54.000Z",
+      "summary": "THE loss of sight can change a person’s life in ways that are difficult to appreciate until it happens. It can take away independence, make earning a living more difficult and limit a…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Court dismisses Afenyo-Markin’s GH¢15m defamation suit",
+      "link": "https://ghanaiantimes.com.gh/court-dismisses-afenyo-markins-gh%c2%a215m-defamation-suit/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-15T06:02:25.000Z",
+      "summary": "THE High Court in Accra has dismissed a GH¢15 million defamation suit filed by the Minority Leader in Parliament, Alexander Afenyo-Markin, against the Chief Executive Officer (CEO) of the…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Foreign Affairs Ministry procures 20 pickups to improve passport services",
+      "link": "https://www.myjoyonline.com/foreign-affairs-ministry-procures-20-pickups-to-improve-passport-services/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T06:02:00.000Z",
+      "summary": "The Ministry of Foreign Affairs has procured 20 pickup vehicles for Passport Application Centres across Ghana to improve staff mobility and strengthen the delivery of passport services.",
+      "categories": [
+        "National",
+        "Foreign Affairs Ministry",
+        "Passport",
+        "pickups"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/848256904_1653615099452890_1287715004741938519_n-1024x640.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil prices retreat as investors weigh supply outlook, Middle East tensions",
+      "link": "https://www.myjoyonline.com/oil-prices-retreat-as-investors-weigh-supply-outlook-middle-east-tensions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T05:54:00.000Z",
+      "summary": "Oil prices fell more than 1% on Thursday ​as investors weighed risks to supply from attacks on shipping through the Strait of Hormuz against US ‌efforts to cut petroleum shipping costs by…",
+      "categories": [
+        "International",
+        "Oil prices",
+        "US-Iran war"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/oil_in_car-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama Ayariga highlights Jimi reclamation project as effort to tackle flooding",
+      "link": "https://www.myjoyonline.com/mahama-ayariga-highlights-jimi-reclamation-project-as-effort-to-tackle-flooding/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T05:48:00.000Z",
+      "summary": "Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has highlighted the Jimi Land Reclamation Project and Watercourse Rehabilitation Project as important…",
+      "categories": [
+        "National",
+        "Ayariga",
+        "Jimi reclamation",
+        "Mahama"
+      ],
+      "image": null,
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ayine pushes duty-lawyer scheme to protect suspects at police stations",
+      "link": "https://www.myjoyonline.com/ayine-pushes-duty-lawyer-scheme-to-protect-suspects-at-police-stations/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T05:41:00.000Z",
+      "summary": "Attorney General and Minister of Justice, Dr Dominic A. Ayine, has called for lawyers to be made available at police stations and courts to protect suspects’ rights and improve access to…",
+      "categories": [
+        "National",
+        "Ayine",
+        "Police",
+        "Suspects"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Ayine-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fire at GRIDCo’s Mallam Substation cuts power to parts of Accra",
+      "link": "https://www.myjoyonline.com/fire-at-gridcos-mallam-substation-cuts-power-to-parts-of-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T05:36:25.000Z",
+      "summary": "A fire at the Ghana Grid Company Limited’s (GRIDCo) Mallam Substation disrupted electricity supply to parts of Accra in the early hours of Wednesday, October 14, 2026.",
+      "categories": [
+        "Regional",
+        "GRIDCo",
+        "Mallam Substation",
+        "Power Cut"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/09/image-415.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Stephen Amoah criticises 20% digital services tax as excessive",
+      "link": "https://www.myjoyonline.com/stephen-amoah-criticises-20-digital-services-tax-as-excessive/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T05:35:00.000Z",
+      "summary": "Nhyiaeso MP and Ranking Member of Parliament’s Finance Committee, Dr Stephen Amoah, has challenged the government’s 20% tax on qualifying cross-border digital services, describing the rate…",
+      "categories": [
+        "National",
+        "GRA",
+        "Stephen Amoah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-671.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana secures $3.5bn investment commitments to revive oil and gas sector – Jinapor",
+      "link": "https://www.myjoyonline.com/ghana-secures-3-5bn-investment-commitments-to-revive-oil-and-gas-sector-jinapor/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T05:30:00.000Z",
+      "summary": "Ghana has secured $3.5 billion in investment commitments to expand petroleum operations and drill new wells as the government steps up efforts to revitalise the upstream oil and gas sector…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Jinapor",
+        "Oil"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/846281714_1463702938965120_2807826305303634410_n-819x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana Sports Fund engages federations on funding opportunities, development goals",
@@ -221,84 +287,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GRA dismisses claims of additional 20% VAT on digital services",
-      "link": "https://ghanaiantimes.com.gh/gra-dismisses-claims-of-additional-20-vat-on-digital-services/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-14T14:33:19.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has dismissed claims that the introduction of a new digital Value Added Tax (VAT) collection system will impose an additional 20% tax on subscriptions and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDC appoints Julius Kwame Anthony as Deputy Communications Director",
-      "link": "https://ghanaiantimes.com.gh/ndc-appoints-julius-kwame-anthony-as-deputy-communications-director/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-14T14:31:32.000Z",
-      "summary": "The National Democratic Congress (NDC) has appointed Julius Kwame Anthony as a Deputy Communications Director of the party, effective immediately. The appointment was approved by the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NPP rejects Emelia Agbenyo’s appointment as electoral commission Deputy Chairperson",
-      "link": "https://ghanaiantimes.com.gh/npp-rejects-emelia-agbenyos-appointment-as-electoral-commission-deputy-chairperson/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-14T14:29:06.000Z",
-      "summary": "The New Patriotic Party (NPP) has rejected the appointment of Emelia Agbenyo as a Deputy Chairperson of the Electoral Commission (EC) by President John Dramani Mahama, questioning her…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Supreme Court dismisses application in Skytrain case for trial to continue",
-      "link": "https://ghanaiantimes.com.gh/supreme-court-dismisses-application-in-skytrain-case-for-trial-to-continue/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-14T14:26:56.000Z",
-      "summary": "The Supreme Court has dismissed an application for certiorari and prohibition filed by the 1st accused person in the case of Republic v Solomon Asamoah & Another (Skytrain Case). The…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GNFS contains Somoco warehouse fire, bushfire in Takoradi",
-      "link": "https://ghanaiantimes.com.gh/gnfs-contains-somoco-warehouse-fire-bushfire-in-takoradi/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-14T14:24:58.000Z",
-      "summary": "The Ghana National Fire Service (GNFS) has contained two separate fire incidents in Takoradi on Tuesday, October 13, 2026, with no casualties recorded. The first incident was a warehouse…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "EOCO grants Suame MP John Darko enquiry bail in GH¢27m SIC Savings and Loans investigation",
-      "link": "https://ghanaiantimes.com.gh/eoco-grants-suame-mp-john-darko-enquiry-bail-in-gh%c2%a227m-sic-savings-and-loans-investigation/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-14T14:22:18.000Z",
-      "summary": "The Economic and Organised Crime Office (EOCO) has granted the Member of Parliament for Suame, John Darko, enquiry bail following investigations into an alleged criminal conspiracy that has…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "KNUST reopens Thursday Oct 15 for freshmen, lectures to start Monday Oct 19",
