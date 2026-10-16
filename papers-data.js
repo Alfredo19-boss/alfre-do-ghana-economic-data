@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-16T18:11:15.860Z",
+  "updated": "2026-10-16T21:05:49.161Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,126 +25,174 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "link": "https://www.myjoyonline.com/palestinians-and-us-journalist-injured-by-israeli-settlers-in-west-bank-harvest-attack/",
+      "title": "GAPTE intensifies efforts to increase bus availability for Aayalolo contra-flow system",
+      "link": "https://www.myjoyonline.com/gapte-intensifies-efforts-to-increase-bus-availability-for-aayalolo-contra-flow-system/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T18:04:09.000Z",
-      "summary": "Dozens of masked settlers have attacked Palestinians and set fire to cars and olive trees during the annual olive harvest in the occupied West Bank.",
-      "categories": [
-        "International",
-        "Journalist",
-        "Palestianians",
-        "US",
-        "West Bank"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1692-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "University of Ghana to reopen October 19 after GAUA suspends strike",
-      "link": "https://www.myjoyonline.com/university-of-ghana-to-reopen-october-19-after-gaua-suspends-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T17:58:44.000Z",
-      "summary": "The University of Ghana will reopen for the 2026/2027 academic year on October 19, following the suspension of the strike by the Ghana Association of University Administrators (GAUA).",
-      "categories": [
-        "Education",
-        "National",
-        "Top Story",
-        "Strike",
-        "University of Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/University-of-Ghana-696x464-1.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Rising mental health cases sign of improved help-seeking, not a new epidemic – Willingway CEO",
-      "link": "https://www.myjoyonline.com/rising-mental-health-cases-sign-of-improved-help-seeking-not-a-new-epidemic-willingway-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T17:55:52.000Z",
-      "summary": "The Chief Executive Officer of The Willingway Recovery and Rehabilitation Centre (WRRC) at Ejisu-Asawase in the Ashanti region, Lydia Abena Manu Adofo, has observed that the rising mental…",
-      "categories": [
-        "Health",
-        "Regional",
-        "Lydia Abena Manu Adofo",
-        "Mental Health",
-        "The Willingway Recovery and Rehabilitation Centre"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-17.31.21.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ECOWAS $250,000 donation for Ghana’s June flood victims arrives – Ablakwa",
-      "link": "https://www.myjoyonline.com/ecowas-250000-donation-for-ghanas-june-flood-victims-arrives-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T17:55:36.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, says the US$250,000 donation from the Economic Community of West African States (ECOWAS) to support victims of Ghana’s June floods…",
+      "published": "2026-10-16T20:37:17.000Z",
+      "summary": "The Greater Accra Passenger Transport Executive (GAPTE) has intensified efforts to increase the number of buses available for its Aayalolo contra-flow service.",
       "categories": [
         "National",
-        "ECOWAS",
-        "June flood victims",
-        "Samuel Okudzeto Ablakwa"
+        "Aayalolo contra-flow system",
+        "Dawuda Awudu",
+        "Greater Accra Passenger Transport Executive (GAPTE)"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ablakwa-1-1024x732.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-Contra-flow-Passengers-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Children taken to hospital after chemical fumes at Dublin pool",
-      "link": "https://www.myjoyonline.com/children-taken-to-hospital-after-chemical-fumes-at-dublin-pool/",
+      "title": "Aayalolo contra-flow moves over 8,000 passengers daily – GAPTE boss",
+      "link": "https://www.myjoyonline.com/aayalolo-contra-flow-moves-over-8000-passengers-daily-gapte-boss/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T17:27:37.000Z",
-      "summary": "A dozen children taking swimming lessons in a Dublin pool needed medical attention after the area was contaminated by toxic fumes.",
+      "published": "2026-10-16T20:29:43.000Z",
+      "summary": "More than 8,000 passengers are transported daily by the Aayalolo contra-flow system being implemented by the government to ease passenger congestion in Accra at peak hours.",
       "categories": [
-        "International",
-        "chemical",
-        "Children",
-        "Dublin"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1690-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "True Drivers Union questions readiness for implementation of new Road Traffic Regulations from November 1",
-      "link": "https://www.myjoyonline.com/true-drivers-union-questions-readiness-for-implementation-of-new-road-traffic-regulations-from-november-1/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T17:27:35.000Z",
-      "summary": "The Public Relations Officer of the True Drivers Union, Yaw Barimah, has cast doubt on the ability of the National Road Safety Authority (NRSA) to implement its new road traffic regulations…",
-      "categories": [
-        "HP News 4",
+        "HP News 7",
         "National",
-        "Road Traffic Regulations",
-        "True Drivers Union"
+        "Aayalolo",
+        "contra-flow system",
+        "Dawuda Awudu"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-14.57.25.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-Contra-flow-Passengers-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama Ayariga inaugurates committee for Accra Green and Clean City Initiative",
-      "link": "https://www.myjoyonline.com/mahama-ayariga-inaugurates-committee-for-accra-green-and-clean-city-initiative/",
+      "title": "Ghana to host UN convention signing on digital cargo documents on October 26",
+      "link": "https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T17:21:58.000Z",
-      "summary": "The Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has inaugurated a steering committee for the Accra Green and Clean City Initiative to strengthen…",
+      "published": "2026-10-16T19:59:01.000Z",
+      "summary": "Ghana is set to host the signing ceremony for the United Nations Convention on Negotiable Cargo Documents on October 26, 2026, in a move expected to support the digitalisation of trade…",
+      "categories": [
+        "Business",
+        "Transport",
+        "Ghana",
+        "GSA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-11.08.20-AM.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama Ayariga targets two-month completion of emergency waste evacuation at IRECOP site",
+      "link": "https://www.myjoyonline.com/mahama-ayariga-targets-two-month-completion-of-emergency-waste-evacuation-at-irecop-site/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T19:53:33.000Z",
+      "summary": "The Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has expressed optimism that the emergency waste evacuation exercise at the IRECOP site will be…",
       "categories": [
         "National",
-        "Accra Green and Clean City Initiative",
+        "emergency waste evacuation",
+        "IRECOP",
         "Mahama Ayariga"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853563299_1694193815602965_2571906881868163069_n-1024x682.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853048894_1656286695861256_3533979344374938913_n-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "US reaffirms cybersecurity cooperation with Ghana in fight against cybercrime",
-      "link": "https://www.myjoyonline.com/us-reaffirms-cybersecurity-cooperation-with-ghana-in-fight-against-cybercrime/",
+      "title": "President Mahama commends Ablakwa for Ghana's UNHRC re-election",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-commends-ablakwa-for-ghanas-unhrc-re-election.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-16T19:44:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana seeks wider trade and investment opportunities through BRICS",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-seeks-wider-trade-and-investment-opportunities-through-brics.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-16T19:35:14.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "AMA seeks relatives of 65-year-old woman found with severe leg wound at Kaneshie",
+      "link": "https://www.myjoyonline.com/ama-seeks-relatives-of-65-year-old-woman-found-with-severe-leg-wound-at-kaneshie/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T17:21:35.000Z",
-      "summary": "The United States has reaffirmed its commitment to strengthening bilateral cooperation with Ghana in the fight against cybercrime.",
+      "published": "2026-10-16T19:31:29.000Z",
+      "summary": "The Accra Metropolitan Assembly (AMA) is appealing to the public to help trace the relatives of a 65-year-old woman identified as Aba Esi, who was found at Kaneshie in Accra with a severe…",
       "categories": [
         "National",
-        "Cybercrime",
-        "Ghana",
-        "US"
+        "65-year-old woman",
+        "Accra Metropolitan Assembly (AMA)"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853433954_1826154931749893_6831445208260014606_n-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp_Image_2026-10-12_at_13.33.17-1024x617.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MMDAs must commit 20% of IGF to capital projects – Finance Minister",
+      "link": "https://www.myjoyonline.com/mmdas-must-commit-20-of-igf-to-capital-projects-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T19:20:34.000Z",
+      "summary": "Metropolitan, Municipal and District Assemblies (MMDAs) have been directed to commit at least 20 per cent of their Internally Generated Funds (IGF) to capital projects that directly benefit…",
+      "categories": [
+        "National",
+        "Finance Minister Dr Cassiel Ato Forson",
+        "Internally Generated Funds (IGF)",
+        "MMDAs"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Ato-Forson-1024x791.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "This Saturday on Newsfile: GH₵49.72m evacuation money, EC appointments, sex abuse in schools and Afenyo’s GH₵15m suit",
+      "link": "https://www.myjoyonline.com/this-saturday-on-newsfile-gh%e2%82%b549-72m-evacuation-money-ec-appointments-sex-abuse-in-schools-and-afenyos-gh%e2%82%b515m-suit/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T19:19:01.000Z",
+      "summary": "This Saturday on Newsfile, we follow the money, examine the independence of our electoral referee, demand answers over allegations of sexual abuse in our schools, and ask whether a GH¢15…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "EC appointments",
+        "Newsfile",
+        "Sexual abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1697-1024x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Marine Police arrest 31-year-old man over suspected cannabis plantation in Volta Region",
+      "link": "https://www.myjoyonline.com/marine-police-arrest-31-year-old-man-over-suspected-cannabis-plantation-in-volta-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T19:18:50.000Z",
+      "summary": "The Marine Police have arrested a 31-year-old man, Vincent Lotsu, for the alleged unlawful cultivation and possession of suspected cannabis in the Volta Region.",
+      "categories": [
+        "HP News 5",
+        "National",
+        "cannabis plantation",
+        "Marine Police",
+        "Volta Region"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1699.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police arrest man for cultivating cannabis along Volta Lake",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-man-for-cultivating-cannabis-along-volta-lake.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-16T19:08:13.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/exhibit.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "University of Ghana sets October 19 reopening date, lectures start October 26",
+      "link": "https://www.graphic.com.gh/news/general-news/ug-sets-26-october-for-lectures-a-week-after-knust-as-strike-delays-end.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-16T18:50:08.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/11/ug2.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Free breast cancer screening ends in Krowor",
@@ -323,30 +371,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GMTF targets Volta's healthcare gaps with equipment, specialist training",
-      "link": "https://www.graphic.com.gh/news/general-news/gmtf-targets-voltas-healthcare-gaps-with-equipment-specialist-training.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T14:39:21.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Health Committee applauds ADB Ghana Medical Systems Group on cardiac centres",
-      "link": "https://www.graphic.com.gh/news/health-committee-applauds-adb-ghana-medical-systems-group-on-cardiac-centres.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T13:29:41.000Z",
-      "summary": "",
-      "categories": [
-        "News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/16/Hosintro.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "U-17 Women’s World Cup: Black Maidens hold first training session in Rabat ahead of Norway clash",
       "link": "https://www.graphic.com.gh/sports/sports-news/black-maidens-hold-first-training-session-in-rabat-ahead-of-norway-clash.html",
       "source": "Graphic Sports",
@@ -357,30 +381,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/16/BLACK_GIRLS.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "CAGD pays promotion salary arrears to 56,003 teachers",
-      "link": "https://www.graphic.com.gh/news/general-news/cagd-pays-promotion-salary-arrears-to-56-003-teachers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T12:52:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/dec/12/cagd24.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "CODEO urges President Mahama to demonstrate consistency with previously stated position on electoral reforms",
-      "link": "https://www.graphic.com.gh/news/politics/codeo-urges-president-mahama-to-demonstrate-consistency-with-previously-stated-position-on-electoral-reforms.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T12:45:25.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/afi.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Sports Minister expresses concern over lack of home-based players in Black Queens",
