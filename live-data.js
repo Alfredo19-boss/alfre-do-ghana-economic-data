@@ -3,37 +3,37 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-16T16:12:04.598Z",
+  "updated": "2026-10-16T19:35:31.386Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "rates": {
       "usd": {
-        "value": 11.65
+        "value": 11.665
       },
       "gbp": {
-        "value": 15.4403
+        "value": 15.5454
       },
       "eur": {
-        "value": 13.053
+        "value": 13.0964
       }
     },
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-16T16:12:04.598Z",
+  "officialAt": "2026-10-16T19:35:31.386Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.6365 (mid-market, 2026-10-16)",
     "gbp: 15.4799 (mid-market, 2026-10-16)",
     "eur: 13.0766 (mid-market, 2026-10-16)",
     "cny: 1.73952 (mid-market, 2026-10-16)",
-    "gold: 4187.4 at 2026-10-16T16:01:54.000Z",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-15, usd/gbp/eur",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-16: 2026-10-15, usd/gbp/eur",
+    "gold: 4185.8 at 2026-10-16T19:25:18.000Z",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-16, usd/gbp/eur",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-16: 2026-10-16, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
-    "BoG in use: 2026-10-15 · usd 11.65, gbp 15.4403, eur 13.053"
+    "BoG in use: 2026-10-16 · usd 11.665, gbp 15.5454, eur 13.0964"
   ],
   "quotes": {
     "usd": {
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.74166
     },
     "gold": {
-      "value": 4187.4,
-      "at": "2026-10-16T16:01:54.000Z",
+      "value": 4185.8,
+      "at": "2026-10-16T19:25:18.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4198.6
+      "prev": 4187.4
     }
   }
 };
