@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-15T22:43:40.407Z",
+  "updated": "2026-10-16T00:47:54.312Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,68 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Sammi Awuku urges NPP Germany to unite ahead of 2028 elections",
+      "link": "https://www.myjoyonline.com/sammi-awuku-urges-npp-germany-to-unite-ahead-of-2028-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T00:13:10.000Z",
+      "summary": "New Patriotic Party (NPP) Member of Parliament for Akuapem North, Sammi Awuku, has urged the party’s Germany Branch to prioritise unity, humility and collective commitment as it prepares…",
+      "categories": [
+        "Politics",
+        "Germany",
+        "NPP",
+        "Sammi Awuku"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sammi-Awuku.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Inconvenient Truth: We cannot pray for the cure while protecting the disease",
+      "link": "https://www.myjoyonline.com/the-inconvenient-truth-we-cannot-pray-for-the-cure-while-protecting-the-disease/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T23:33:55.000Z",
+      "summary": "A doctor will tell you that the most difficult patient to treat is not the one who is unaware of his illness. It is the one who knows exactly what is wrong, understands the consequences…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "Disease",
+        "Incovenient Truth",
+        "pray"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Ing-Prof-Douglas-Boateng.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MTN Ghana trains civil society organisations on artificial intelligence",
+      "link": "https://www.myjoyonline.com/mtn-ghana-trains-civil-society-organisations-on-artificial-intelligence/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T22:56:56.000Z",
+      "summary": "Telecom giant MTN Ghana has organised a one-day Artificial Intelligence (AI) workshop for Civil Society Organisations (CSOs) at its Head Office in Accra, as part of efforts to deepen…",
+      "categories": [
+        "Photo Story",
+        "AI Training",
+        "MTN Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2263_2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GoldBod FX framework aims to make dollar supply predictable – Acheampong",
+      "link": "https://www.myjoyonline.com/goldbod-fx-framework-aims-to-make-dollar-supply-predictable-acheampong/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T22:22:00.000Z",
+      "summary": "Economist and political risk specialist Dr Theo Acheampong says GoldBod’s foreign exchange framework aims to make dollar supply more predictable, while the Bank of Ghana retains its role in…",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Bank of Ghana (BoG)",
+        "FX",
+        "Goldbod"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ghanas-economic-recovery-our-str.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "How does a Ghanaian team make it to the BAL?",
       "link": "https://www.myjoyonline.com/how-does-a-ghanaian-team-make-it-to-the-bal/",
@@ -85,71 +147,6 @@ window.GDC_PAPERS = {
         "Techiman float"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-20.29.34-1024x574.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana seeks long-term mining investments that benefit local communities – Armah-Kofi Buah",
-      "link": "https://www.myjoyonline.com/ghana-seeks-long-term-mining-investments-that-benefit-local-communities-armah-kofi-buah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T21:30:30.000Z",
-      "summary": "The Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, has reaffirmed Ghana’s readiness to partner with Guangdong Shengmai Tech Co. Ltd. to explore investment opportunities…",
-      "categories": [
-        "Mining",
-        "National",
-        "News",
-        "Armah-Kofi Buah",
-        "Ghana",
-        "mining investments"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-62-1024x639.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GHATOF demands compensation for 85 businesses affected by La Pleasure Beach demolition",
-      "link": "https://www.myjoyonline.com/ghatof-demands-compensation-for-85-businesses-affected-by-la-pleasure-beach-demolition/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T21:25:00.000Z",
-      "summary": "The Ghana Tourism Federation (GHATOF) has demanded compensation for 85 businesses affected by the demolition at La Pleasure Beach, warning that about 4,000 jobs, largely held by women, have…",
-      "categories": [
-        "Arts and Culture",
-        "National",
-        "Travel and Tourism",
-        "85 businesses",
-        "Ghana Tourism Federation (GHATOF)",
-        "La Pleasure Beach"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-20.59.00.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bono Regional Minister calls for investor education to drive economic growth",
-      "link": "https://www.myjoyonline.com/bono-regional-minister-calls-for-investor-education-to-drive-economic-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T21:21:00.000Z",
-      "summary": "The Bono Regional Minister, Joseph Addae Akwaboa, has called for intensified investor education and financial literacy to protect residents from fraudulent investment schemes and promote…",
-      "categories": [
-        "Regional",
-        "Bono Region",
-        "investor education",
-        "Joseph Addae Akwaboa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-19.38.52-1024x628.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s Ambassador to China, Kojo Bonsu, presents credentials to Nepalese President",
-      "link": "https://www.myjoyonline.com/ghanas-ambassador-to-china-kojo-bonsu-presents-credentials-to-nepalese-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T21:17:36.000Z",
-      "summary": "Ghana’s Ambassador Extraordinary and Plenipotentiary to the People’s Republic of China, Kojo Bonsu, has presented his credentials to Nepalese President Ram Chandra Paudel. The ceremony took…",
-      "categories": [
-        "National",
-        "China",
-        "Ghana",
-        "Kojo Bonsu",
-        "Nepal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/5-9-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {

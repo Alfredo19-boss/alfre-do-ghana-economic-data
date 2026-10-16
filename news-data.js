@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-15T22:43:27.289Z",
-  "worldAt": "2026-10-15T22:43:27.287Z",
+  "updated": "2026-10-16T00:47:40.625Z",
+  "worldAt": "2026-10-16T00:47:40.623Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -34,7 +34,7 @@ window.GDC_NEWS = {
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 31 stories",
+    "World · BBC News: 32 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -47,7 +47,14 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
-      "title": "Ghana’s investment climate presents opportunities for industrial growth, job creation.",
+      "title": "GoldBod FX framework aims to make dollar supply predictable – Acheampong",
+      "link": "https://www.myjoyonline.com/goldbod-fx-framework-aims-to-make-dollar-supply-predictable-acheampong/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T22:22:00.000Z",
+      "summary": "Economist and political risk specialist Dr Theo Acheampong says GoldBod’s foreign exchange framework aims to make dollar supply more predictable, while the Bank of Ghana retains its role in…"
+    },
+    {
+      "title": "Ghana’s investment climate presents opportunities for industrial growth and job creation.",
       "link": "https://www.myjoyonline.com/ghanas-investment-climate-presents-opportunities-for-industrial-growth-job-creation/",
       "source": "MyJoyOnline",
       "published": "2026-10-15T22:14:17.000Z",
@@ -101,6 +108,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-15T18:17:41.000Z",
       "summary": "The International Monetary Fund (IMF) says rising global commodity prices, particularly gold, were a major factor behind its decision to raise Ghana’s economic growth forecast for 2026."
+    },
+    {
+      "title": "Government cuts sod for 1,238-acre Afienya Industrial Park to boost jobs and exports",
+      "link": "https://www.myjoyonline.com/government-cuts-sod-for-1238-acre-afienya-industrial-park-to-boost-jobs-and-exports/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-15T18:02:00.000Z",
+      "summary": "President John Dramani Mahama has cut the sod for the construction of the 1,238-acre Afienya Industrial Park. The project is expected to accommodate more than 120 companies and expand…"
     },
     {
       "title": "Fraudsters increasingly target bank customers instead of banking systems – Fraud detection expert",
@@ -1081,38 +1095,93 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-10-13T14:02:04.000Z",
       "summary": "The convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi Bernard Antwi-Boasiako, has pleaded not guilty…"
-    },
-    {
-      "title": "Mahama directs Finance Minister to allocate GH¢200m in 2027 Budget to complete Police Hospital expansion",
-      "link": "https://www.graphic.com.gh/news/general-news/mahama-directs-finance-minister-to-allocate-ghc200m-in-2027-budget-to-complete-police-hospital-expansion.html",
-      "source": "Graphic Online",
-      "published": "2026-10-13T13:34:22.000Z",
-      "summary": "President John Dramani Mahama has directed the Minister of Finance to allocate more than GH¢200 million in the 2027 Budget to help complete the expansion project at the Police Hospital in…"
-    },
-    {
-      "title": "GCB customers call for more frequent engagement with bank leadership",
-      "link": "https://www.myjoyonline.com/gcb-customers-call-for-more-frequent-engagement-with-bank-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-13T13:30:01.000Z",
-      "summary": "Customers of GCB Bank PLC have called for more direct engagement with the Bank's leadership while sharing feedback on their business needs, growth ambitions and banking experiences during a…"
     }
   ],
   "world": [
+    {
+      "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T00:02:37.000Z",
+      "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports."
+    },
+    {
+      "title": "France and Germany agree to ease EU car emissions rules in new deal",
+      "link": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
+      "source": "France 24",
+      "published": "2026-10-15T23:48:57.000Z",
+      "summary": "France and Germany have backed looser EU emissions rules for carmakers and agreed to include Britain in a “made in Europe” scheme, in a provisional deal reached Thursday that could reshape…",
+      "image": "https://s.france24.com/media/display/af286218-c8e7-11f1-8247-2d1c143cdef3/w:1024/p:16x9/AP26270718148994.jpg"
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-15T23:38:46.000Z",
+      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+      "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T23:35:26.000Z",
+      "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire."
+    },
+    {
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-15T23:27:21.000Z",
+      "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg"
+    },
+    {
+      "title": "Zelensky rallies European allies as US support for Ukraine wanes",
+      "link": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
+      "source": "France 24",
+      "published": "2026-10-15T23:06:00.000Z",
+      "summary": "Ukrainian President Volodymyr Zelensky sought European backing Thursday after vowing to resume strikes on Russian oil refineries despite US President Donald Trump’s demands, as tensions…",
+      "image": "https://s.france24.com/media/display/28bbd5dc-c8d5-11f1-aec7-2d1c143cdef3/w:1024/p:16x9/80c62e6fc13f8d6a5641fe9e16da5b4e0ca12147.jpg"
+    },
+    {
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-15T23:25:06.000Z",
+      "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d9/live/2e460170-c8bd-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "At least 4, including 3 children, killed in US elementary school shooting",
+      "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T22:51:56.000Z",
+      "summary": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack."
+    },
+    {
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-15T22:46:49.000Z",
+      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9974/live/7783af20-c8c4-11f1-95b2-9f12d414946d.jpg"
+    },
+    {
+      "title": "At least five feared dead in Oregon elementary school shooting",
+      "link": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+      "source": "France 24",
+      "published": "2026-10-15T21:58:33.000Z",
+      "summary": "Authorities believe at least five people died in a shooting at Silver Rail Elementary School in Bend, Oregon, on Thursday, according to law enforcement officials. Police confirmed the…",
+      "image": "https://s.france24.com/media/display/0bdabf8a-c8eb-11f1-84b0-2d1c143cdef3/w:1024/p:16x9/AP26288796036302.jpg"
+    },
     {
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
       "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-15T22:37:21.000Z",
       "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c978/live/dfe9a6d0-c8df-11f1-9a39-31b474234113.png"
-    },
-    {
-      "title": "Two hospitalised after shooting at Oregon elementary school; gunman dead",
-      "link": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
-      "source": "France 24",
-      "published": "2026-10-15T21:58:33.000Z",
-      "summary": "Two people were hospitalised and the shooter was found dead Thursday after a shooting at Silver Rail Elementary School in Bend, Oregon, prompting a lockdown as police responded to reports…",
-      "image": "https://s.france24.com/media/display/5b534bd2-a72a-11f1-94be-005056bfb2b6/w:1024/p:16x9/AP26245835908666.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png"
     },
     {
       "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
@@ -1122,12 +1191,11 @@ window.GDC_NEWS = {
       "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies."
     },
     {
-      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-15T21:42:26.000Z",
-      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9974/live/7783af20-c8c4-11f1-95b2-9f12d414946d.jpg"
+      "title": "Albania: Violent protests rock Tirana for third straight day",
+      "link": "http://www.africanews.com/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day/",
+      "source": "Africanews",
+      "published": "2026-10-15T21:35:04.000Z",
+      "summary": "Fires burn in central Tirana as protesters throw stones and police respond with tear gas and water cannon. Student-led demonstrations demanding Prime Minister Edi Rama's resignation enter…"
     },
     {
       "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
@@ -1137,11 +1205,12 @@ window.GDC_NEWS = {
       "summary": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club."
     },
     {
-      "title": "Albania: Violent protests rock Tirana for third straight day",
-      "link": "http://www.africanews.com/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day/",
-      "source": "Africanews",
-      "published": "2026-10-15T21:35:04.000Z",
-      "summary": "Fires burn in central Tirana as protesters throw stones and police respond with tear gas and water cannon. Student-led demonstrations demanding Prime Minister Edi Rama's resignation enter…"
+      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+      "source": "France 24",
+      "published": "2026-10-15T21:15:11.000Z",
+      "summary": "Irish author Sally Rooney can no longer sell her books in the UK because of her support for the activist group Palestine Action, her publisher Faber said Wednesday. Rooney has previously…",
+      "image": "https://s.france24.com/media/display/284ebba0-c8da-11f1-bf25-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-223115-224454-CS.jpg"
     },
     {
       "title": "Trump administration sues California over noncitizens on voter rolls",
@@ -1152,9 +1221,9 @@ window.GDC_NEWS = {
     },
     {
       "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "link": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
+      "link": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
       "source": "France 24",
-      "published": "2026-10-15T21:15:11.000Z",
+      "published": "2026-10-15T21:07:06.000Z",
       "summary": "Irish author Sally Rooney can no longer sell her books in the UK because of her support for the activist group Palestine Action, her publisher Faber said Wednesday. Rooney has previously…",
       "image": "https://s.france24.com/media/display/284ebba0-c8da-11f1-bf25-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-223115-224454-CS.jpg"
     },
@@ -1166,21 +1235,6 @@ window.GDC_NEWS = {
       "summary": "Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul"
     },
     {
-      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "link": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "source": "France 24",
-      "published": "2026-10-15T21:07:06.000Z",
-      "summary": "Irish author Sally Rooney can no longer sell her books in the UK because of her support for the activist group Palestine Action, her publisher Faber said Wednesday. Rooney has previously…",
-      "image": "https://s.france24.com/media/display/284ebba0-c8da-11f1-bf25-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-223115-224454-CS.jpg"
-    },
-    {
-      "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T21:05:01.000Z",
-      "summary": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera."
-    },
-    {
       "title": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding",
       "source": "France 24",
@@ -1189,11 +1243,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5e748ac4-c8d6-11f1-b56b-6313a763b466/w:1024/p:16x9/EN-20261015-183333-184231-CS.jpg"
     },
     {
-      "title": "ICE tactics spark debate before pivotal US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
+      "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-15T21:02:31.000Z",
-      "summary": "Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race."
+      "published": "2026-10-15T21:05:01.000Z",
+      "summary": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera."
     },
     {
       "title": "EU member states set for budget clash",
@@ -1204,11 +1258,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7b4063f6-c8d3-11f1-8d0f-d1d2c32ebb87/w:1024/p:16x9/capture-637f86d2.jpg"
     },
     {
-      "title": "Robots dance the ‘Macarena’ at Japan tech expo",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss",
+      "title": "ICE tactics spark debate before pivotal US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-15T21:00:01.000Z",
-      "summary": "Humanoid robots were seen performing the “Macarena” at the annual CEATEC technology exhibition in Chiba, Japan."
+      "published": "2026-10-15T21:02:31.000Z",
+      "summary": "Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race."
     },
     {
       "title": "Saudi Arabia postpones major sporting events amid Houthi attacks",
@@ -1217,6 +1271,13 @@ window.GDC_NEWS = {
       "published": "2026-10-15T20:31:42.000Z",
       "summary": "Several major sporting events in Saudi Arabia have been cancelled or postponed as a result of repeated deadly attacks from Iran-backed Houthi rebels against the Kingdom's airports and…",
       "image": "https://s.france24.com/media/display/da51f614-c8d5-11f1-aa87-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-213110-214026-CS.jpg"
+    },
+    {
+      "title": "Robots dance the ‘Macarena’ at Japan tech expo",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T21:00:01.000Z",
+      "summary": "Humanoid robots were seen performing the “Macarena” at the annual CEATEC technology exhibition in Chiba, Japan."
     },
     {
       "title": "At the scene of a school roof collapse in Pakistan",
@@ -1301,11 +1362,12 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6dc8c71c-c8cf-11f1-b194-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261015-210633-211324-CS.jpg"
     },
     {
-      "title": "Will Israeli voters punish Benjamin Netanyahu?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T19:44:27.000Z",
-      "summary": "Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time."
+      "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-15T19:46:07.000Z",
+      "summary": "The BBC's Shaimaa Khalil travelled to the US state to hear from residents who live alongside these giant facilities.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fda/live/fac84e30-c80c-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "title": "Fake AI images of protester go viral after woman punched at Trump's Ohio rally",
@@ -1314,6 +1376,13 @@ window.GDC_NEWS = {
       "published": "2026-10-15T19:47:44.000Z",
       "summary": "A protester who heckled Donald Trump at his midterm rally in Youngstown, Ohio, was physically assaulted and removed from the event, but fake AI-generated photos recreating the incident are…",
       "image": "https://s.france24.com/media/display/b1970114-c8cc-11f1-8790-d1d2c32ebb87/w:1024/p:16x9/capture-404d997e.jpg"
+    },
+    {
+      "title": "Will Israeli voters punish Benjamin Netanyahu?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T19:44:27.000Z",
+      "summary": "Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time."
     },
     {
       "title": "Houthis struck Riyadh airport 20 times in October, Saudi-led coalition says",
@@ -1329,73 +1398,6 @@ window.GDC_NEWS = {
       "published": "2026-10-15T19:04:12.000Z",
       "summary": "Romania reported seven people missing on Thursday after two drone attacks on ships in the Black Sea, where several vessels have been hit recently in suspected fallout from the Ukraine war…",
       "image": "https://s.france24.com/media/display/8d4a8504-c8c9-11f1-bf1b-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261015-203417-203608-CS.jpg"
-    },
-    {
-      "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T18:57:08.000Z",
-      "summary": "Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office."
-    },
-    {
-      "title": "Albania's leader defies calls to resign as student protesters rampage in capital",
-      "link": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital",
-      "source": "France 24",
-      "published": "2026-10-15T19:02:14.000Z",
-      "summary": "​Albanian Prime Minister Edi Rama on Thursday rejected calls to resign as thousands of student-led protesters smashed windows and fought running battles with riot police firing water cannon…",
-      "image": "https://s.france24.com/media/display/281c8484-c8c9-11f1-8ffe-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-200906-201102-CS.jpg"
-    },
-    {
-      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-      "link": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T18:41:41.000Z",
-      "summary": "Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation."
-    },
-    {
-      "title": "Will Trump really pull the plug? Starlink restored but Ukraine's fate still uncertain",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261015-will-trump-really-pull-the-plug-starlink-restored-but-ukraine-s-fate-still-uncertain",
-      "source": "France 24",
-      "published": "2026-10-15T18:38:17.000Z",
-      "summary": "Can a flick of a switch really be enough for Donald Trump and Elon Musk to end Ukraine's hopes of holding out against Russia? With Kyiv already reeling from daily strikes by Russia's new…",
-      "image": "https://s.france24.com/media/display/0be3d78c-c8c3-11f1-936e-d1d2c32ebb87/w:1024/p:16x9/2026-10-15T074057Z-616239413-RC233OAF2BZE-RTRMADP-3-UKRAINE-CRISIS-DONETSK-REGION.jpg"
-    },
-    {
-      "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T18:17:57.000Z",
-      "summary": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night."
-    },
-    {
-      "title": "Venezuela's Nicolas Maduro and wife Cilia Flores deny US torture charges as 'false accusations'",
-      "link": "https://www.france24.com/en/americas/20261015-venezuela-s-nicolas-maduro-and-wife-cilia-flores-deny-us-torture-charges-as-false-accusations",
-      "source": "France 24",
-      "published": "2026-10-15T18:11:23.000Z",
-      "summary": "Ousted Venezuelan president Nicolas Maduro and his wife Cilia Flores pleaded not guilty on Thursday to new torture charges brought against them by US authorities, calling them “false…",
-      "image": "https://s.france24.com/media/display/15d030e4-c8d0-11f1-9f77-6313a763b466/w:1024/p:16x9/2026-10-15T173536Z-1131213406-RC2T3OAY8MGY-RTRMADP-3-USA-VENEZUELA-MADURO.jpg"
-    },
-    {
-      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
-      "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-15T18:09:58.000Z",
-      "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fd/live/123f85f0-c85e-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Phase-1 trial of Ebola vaccine gets underway in Uganda",
-      "link": "http://www.africanews.com/2026/10/15/phase-1-trial-of-ebola-vaccine-gets-underway-in-uganda/",
-      "source": "Africanews",
-      "published": "2026-10-15T18:01:52.000Z",
-      "summary": "Scientists in the southern Ugandan city of Masaka are conducting a phase I trial of a candidate vaccine against the deadly Ebola Bundibugyo virus disease (BDBV), a strain for which no…"
-    },
-    {
-      "title": "Trump ramps up third-country US deportations despite global rights outcry",
-      "link": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T17:54:26.000Z",
-      "summary": "Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to."
     }
   ],
   "africa": [
