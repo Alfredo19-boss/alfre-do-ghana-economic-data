@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-16T21:05:49.161Z",
+  "updated": "2026-10-16T23:31:43.720Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,64 +25,131 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GAPTE intensifies efforts to increase bus availability for Aayalolo contra-flow system",
-      "link": "https://www.myjoyonline.com/gapte-intensifies-efforts-to-increase-bus-availability-for-aayalolo-contra-flow-system/",
+      "title": "Dr. Ekua Amoakoh recounts childhood at Komfo Anokye and how parents pushed her into the medical profession",
+      "link": "https://www.myjoyonline.com/dr-ekua-amoakoh-recounts-childhood-at-komfo-anokye-and-how-parents-pushed-her-into-the-medical-profession/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T20:37:17.000Z",
-      "summary": "The Greater Accra Passenger Transport Executive (GAPTE) has intensified efforts to increase the number of buses available for its Aayalolo contra-flow service.",
+      "published": "2026-10-16T23:02:43.000Z",
+      "summary": "Spokesperson for NPP Flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, has recounted how her parents’ insistence led her to study…",
       "categories": [
         "National",
-        "Aayalolo contra-flow system",
-        "Dawuda Awudu",
-        "Greater Accra Passenger Transport Executive (GAPTE)"
+        "Childhood",
+        "Ekua Amoakoh",
+        "Komfo Anokye",
+        "Medicine",
+        "PM Express"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-Contra-flow-Passengers-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-235854-1024x549.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Aayalolo contra-flow moves over 8,000 passengers daily – GAPTE boss",
-      "link": "https://www.myjoyonline.com/aayalolo-contra-flow-moves-over-8000-passengers-daily-gapte-boss/",
+      "title": "NPP will be better prepared for 2028 election security – Ekua Amoakoh",
+      "link": "https://www.myjoyonline.com/npp-will-be-better-prepared-for-2028-election-security-ekua-amoakoh/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T20:29:43.000Z",
-      "summary": "More than 8,000 passengers are transported daily by the Aayalolo contra-flow system being implemented by the government to ease passenger congestion in Accra at peak hours.",
+      "published": "2026-10-16T22:33:34.000Z",
+      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says the party’s recent national executive elections show that…",
       "categories": [
-        "HP News 7",
         "National",
-        "Aayalolo",
-        "contra-flow system",
-        "Dawuda Awudu"
+        "Ekua Amoakoh",
+        "Election security",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-Contra-flow-Passengers-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-225410-1024x526.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana to host UN convention signing on digital cargo documents on October 26",
-      "link": "https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/",
+      "title": "Newsfile to discuss GH¢49.72m evacuation cost, EC appointments and Obuasi SHTS abuse case",
+      "link": "https://www.myjoyonline.com/newsfile-to-discuss-gh%c2%a249-72m-evacuation-cost-ec-appointments-and-obuasi-shts-abuse-case/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T19:59:01.000Z",
-      "summary": "Ghana is set to host the signing ceremony for the United Nations Convention on Negotiable Cargo Documents on October 26, 2026, in a move expected to support the digitalisation of trade…",
+      "published": "2026-10-16T21:44:20.000Z",
+      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, October 17, examine four major national issues that have dominated public debate over the past week. Hosted by…",
+      "categories": [
+        "National",
+        "Radio & TV",
+        "EC appointments",
+        "JoyNews",
+        "Newsfile",
+        "Obuasi SHTS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-22.01.42-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ablakwa to face Newsfile questions on BRICS bid and GH¢49.7m evacuation cost",
+      "link": "https://www.myjoyonline.com/ablakwa-to-face-newsfile-questions-on-brics-bid-and-gh%c2%a249-7m-evacuation-cost/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T21:37:51.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa will face questions on Ghana’s bid to join the BRICS economic bloc and the GH¢49.7 million spent evacuating Ghanaians from South Africa when…",
+      "categories": [
+        "National",
+        "Radio & TV",
+        "Ablakwa",
+        "BRICS bid",
+        "evacuation cost",
+        "Newsfile"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-22.01.42-1-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prof. John Amuasi calls for a shift towards preventing health crises at World Health Summit",
+      "link": "https://www.myjoyonline.com/prof-john-amuasi-calls-for-a-shift-towards-preventing-health-crises-at-world-health-summit/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T21:31:08.000Z",
+      "summary": "Professor John H. Amuasi of the Kwame Nkrumah University of Science and Technology, Kumasi (KNUST), has called for a shift in how countries approach public health, urging governments to…",
+      "categories": [
+        "Health",
+        "health crises",
+        "Prof John AMuasi",
+        "World health summit"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-00.06.56-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ECG’s billing adjustments: consumers feel robbed, PURC must intervene",
+      "link": "https://www.myjoyonline.com/ecgs-billing-adjustments-consumers-feel-robbed-purc-must-intervene/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T21:27:34.000Z",
+      "summary": "An electricity bill should explain what a customer owes. When thousands of cedis appear under the word “adjustment”, without a clear account of how the amount was calculated, that bill…",
+      "categories": [
+        "News",
+        "Opinion",
+        "Consumers",
+        "ECG",
+        "PURC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-6.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CompuGhana launches cashback festival with two BYD cars, cash prizes on offer",
+      "link": "https://www.myjoyonline.com/compughana-launches-cashback-festival-with-two-byd-cars-cash-prizes-on-offer/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T21:12:39.000Z",
+      "summary": "Technology retailer CompuGhana has launched a cashback sales festival, offering customers the opportunity to win two brand-new 2026 BYD vehicles, cash prizes, and other electronic…",
       "categories": [
         "Business",
-        "Transport",
-        "Ghana",
-        "GSA"
+        "National",
+        "cashback festival",
+        "CompuGhana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-11.08.20-AM.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-21.06.45-1-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama Ayariga targets two-month completion of emergency waste evacuation at IRECOP site",
-      "link": "https://www.myjoyonline.com/mahama-ayariga-targets-two-month-completion-of-emergency-waste-evacuation-at-irecop-site/",
+      "title": "Church of Pentecost warns teachers against sexual abuse and harassment of female students",
+      "link": "https://www.myjoyonline.com/church-of-pentecost-warns-teachers-against-sexual-abuse-and-harassment-of-female-students/",
       "source": "MyJoyOnline",
-      "published": "2026-10-16T19:53:33.000Z",
-      "summary": "The Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has expressed optimism that the emergency waste evacuation exercise at the IRECOP site will be…",
+      "published": "2026-10-16T21:07:16.000Z",
+      "summary": "The Church of Pentecost’s Schools Outreach Ministry has warned teachers against sexually abusing, harassing or bullying female students, urging educators to uphold professional ethics and…",
       "categories": [
         "National",
-        "emergency waste evacuation",
-        "IRECOP",
-        "Mahama Ayariga"
+        "Church of Pentecost",
+        "Female students",
+        "harrassment",
+        "Sexual abuse"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853048894_1656286695861256_3533979344374938913_n-1024x682.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-20.17.11-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -108,67 +175,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AMA seeks relatives of 65-year-old woman found with severe leg wound at Kaneshie",
-      "link": "https://www.myjoyonline.com/ama-seeks-relatives-of-65-year-old-woman-found-with-severe-leg-wound-at-kaneshie/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T19:31:29.000Z",
-      "summary": "The Accra Metropolitan Assembly (AMA) is appealing to the public to help trace the relatives of a 65-year-old woman identified as Aba Esi, who was found at Kaneshie in Accra with a severe…",
-      "categories": [
-        "National",
-        "65-year-old woman",
-        "Accra Metropolitan Assembly (AMA)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp_Image_2026-10-12_at_13.33.17-1024x617.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MMDAs must commit 20% of IGF to capital projects – Finance Minister",
-      "link": "https://www.myjoyonline.com/mmdas-must-commit-20-of-igf-to-capital-projects-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T19:20:34.000Z",
-      "summary": "Metropolitan, Municipal and District Assemblies (MMDAs) have been directed to commit at least 20 per cent of their Internally Generated Funds (IGF) to capital projects that directly benefit…",
-      "categories": [
-        "National",
-        "Finance Minister Dr Cassiel Ato Forson",
-        "Internally Generated Funds (IGF)",
-        "MMDAs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Ato-Forson-1024x791.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "This Saturday on Newsfile: GH₵49.72m evacuation money, EC appointments, sex abuse in schools and Afenyo’s GH₵15m suit",
-      "link": "https://www.myjoyonline.com/this-saturday-on-newsfile-gh%e2%82%b549-72m-evacuation-money-ec-appointments-sex-abuse-in-schools-and-afenyos-gh%e2%82%b515m-suit/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T19:19:01.000Z",
-      "summary": "This Saturday on Newsfile, we follow the money, examine the independence of our electoral referee, demand answers over allegations of sexual abuse in our schools, and ask whether a GH¢15…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "EC appointments",
-        "Newsfile",
-        "Sexual abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1697-1024x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Marine Police arrest 31-year-old man over suspected cannabis plantation in Volta Region",
-      "link": "https://www.myjoyonline.com/marine-police-arrest-31-year-old-man-over-suspected-cannabis-plantation-in-volta-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T19:18:50.000Z",
-      "summary": "The Marine Police have arrested a 31-year-old man, Vincent Lotsu, for the alleged unlawful cultivation and possession of suspected cannabis in the Volta Region.",
-      "categories": [
-        "HP News 5",
-        "National",
-        "cannabis plantation",
-        "Marine Police",
-        "Volta Region"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1699.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Police arrest man for cultivating cannabis along Volta Lake",

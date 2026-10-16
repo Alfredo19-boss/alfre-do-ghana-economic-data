@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-16T21:05:31.548Z",
-  "worldAt": "2026-10-16T21:05:31.545Z",
+  "updated": "2026-10-16T23:31:28.144Z",
+  "worldAt": "2026-10-16T23:31:28.141Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,7 +26,7 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
@@ -34,7 +34,7 @@ window.GDC_NEWS = {
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 36 stories",
+    "World · BBC News: 37 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -46,6 +46,20 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "CompuGhana launches cashback festival with two BYD cars, cash prizes on offer",
+      "link": "https://www.myjoyonline.com/compughana-launches-cashback-festival-with-two-byd-cars-cash-prizes-on-offer/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T21:12:39.000Z",
+      "summary": "Technology retailer CompuGhana has launched a cashback sales festival, offering customers the opportunity to win two brand-new 2026 BYD vehicles, cash prizes, and other electronic…"
+    },
+    {
+      "title": "Rafimex Ghana Limited supports Big Street Feast with free beverage distribution",
+      "link": "https://www.myjoyonline.com/rafimex-ghana-limited-supports-big-street-feast-with-free-beverage-distribution/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T21:03:25.000Z",
+      "summary": "Fast-moving consumer goods (FMCG) company Rafimex Ghana Limited has partnered with Chef Abby’s Big Street Feast, distributing free beverages to participants as part of activities to mark…"
+    },
     {
       "title": "Ghana to host UN convention signing on digital cargo documents on October 26",
       "link": "https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/",
@@ -1081,29 +1095,53 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-14T12:40:00.000Z",
       "summary": "Commercial oil stocks rose by 36.6 million barrels to 2.808 billion, but remained below five-year and pre-pandemic benchmarks as refined-product inventories continued to lag year-earlier…"
-    },
-    {
-      "title": "Passenger arrivals at airport improved by 23% in first 7 months of 2026",
-      "link": "https://www.myjoyonline.com/passenger-arrivals-at-airport-improved-by-23-in-first-7-months-of-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-14T12:39:34.000Z",
-      "summary": "Also, international trade at the country’s two main harbours (Tema and Takoradi), as measured by laden container traffic for inbound and outbound containers, improved during the period…"
-    },
-    {
-      "title": "Ghana targets 30,000 jobs with Pharmaceutical Park at Shai Osudoku/Ningo Prampram",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-targets-30-000-jobs-with-pharmaceutical-park-at-shai-osudoku-ningo-prampram.html",
-      "source": "Graphic Online",
-      "published": "2026-10-14T12:28:35.000Z",
-      "summary": "The 24-Hour Economy and Accelerated Export Development (24H+) Authority has extended the deadline for pharmaceutical manufacturers to register interest in establishing operations at the…"
     }
   ],
   "world": [
     {
-      "title": "Students in Europe are rising up to call for better education",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-16T23:20:37.000Z",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T20:38:00.000Z",
-      "summary": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems."
+      "published": "2026-10-16T22:53:26.000Z",
+      "summary": "Manchester United are mired in poor form - and Lisandro Martinez's meltdown - now they face on-the-up rivals Leeds."
+    },
+    {
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-16T23:07:38.000Z",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"
+    },
+    {
+      "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T22:48:54.000Z",
+      "summary": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists."
+    },
+    {
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-16T23:07:18.000Z",
+      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg"
+    },
+    {
+      "title": "Families demand justice after Pakistan school collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T22:38:04.000Z",
+      "summary": "Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children."
     },
     {
       "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
@@ -1114,11 +1152,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c6338998-c99a-11f1-9ea4-6313a763b466/w:1024/p:16x9/000-D3GY8H7.jpg"
     },
     {
-      "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "link": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T20:37:22.000Z",
-      "summary": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days."
+      "published": "2026-10-16T21:56:07.000Z",
+      "summary": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours."
     },
     {
       "title": "KENYA CONFIRMS THIRD EBOLA CASE",
@@ -1129,11 +1167,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a8234156-c99e-11f1-ac97-d1d2c32ebb87/w:1024/p:16x9/capture-d9ec4c85.jpg"
     },
     {
-      "title": "Oregon community mourns victims of school shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T20:08:52.000Z",
-      "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon."
+      "published": "2026-10-16T21:08:50.000Z",
+      "summary": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel."
     },
     {
       "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
@@ -1144,11 +1182,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7a84b63e-c8a0-11f1-ac1f-638c1c1f5fd6/w:1024/p:16x9/000-1GD2EZ.jpg"
     },
     {
-      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
-      "link": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+      "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T20:07:25.000Z",
-      "summary": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed."
+      "published": "2026-10-16T21:08:44.000Z",
+      "summary": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works."
     },
     {
       "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
@@ -1159,6 +1197,13 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/14fcd6c8-c99c-11f1-9d93-6313a763b466/w:1024/p:16x9/6444105dfca67f7f4b62d440579b190d86972ee5.jpg"
     },
     {
+      "title": "Students in Europe are rising up to call for better education",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T20:38:00.000Z",
+      "summary": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems."
+    },
+    {
       "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
       "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
@@ -1166,11 +1211,11 @@ window.GDC_NEWS = {
       "summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter…"
     },
     {
-      "title": "Trump told new press secretary to ‘reconsider’ role",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+      "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T19:41:15.000Z",
-      "summary": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role."
+      "published": "2026-10-16T20:37:22.000Z",
+      "summary": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days."
     },
     {
       "title": "Trump denies limiting Ukraine access to Starlink network",
@@ -1181,6 +1226,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg"
     },
     {
+      "title": "Oregon community mourns victims of school shooting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T20:08:52.000Z",
+      "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon."
+    },
+    {
       "title": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
       "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
       "source": "France 24",
@@ -1189,11 +1241,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/8b4918a4-c993-11f1-979e-638c1c1f5fd6/w:1024/p:16x9/Anglais-2026-10-16T17-17-51-019Z.jpg"
     },
     {
-      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "link": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T19:18:13.000Z",
-      "summary": "The United States calls for dialogue as regional East Africa tension escalates."
+      "published": "2026-10-16T20:07:25.000Z",
+      "summary": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed."
     },
     {
       "title": "What we learned from heated US midterm Senate debates",
@@ -1204,6 +1256,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7468/live/37bdc2e0-c991-11f1-adc3-01d8629f0470.jpg"
     },
     {
+      "title": "Trump told new press secretary to ‘reconsider’ role",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T19:41:15.000Z",
+      "summary": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role."
+    },
+    {
       "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
       "link": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/",
       "source": "Africanews",
@@ -1211,11 +1270,11 @@ window.GDC_NEWS = {
       "summary": "Kenya has confirmed its third Ebola case, raising concerns over the spread of the deadly virus across East Africa. The Health Ministry says the latest patient is a 65-year-old woman and a…"
     },
     {
-      "title": "White House press secretary Katie Zacharia fired after five days on the job",
-      "link": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T18:58:06.000Z",
-      "summary": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials."
+      "published": "2026-10-16T19:18:13.000Z",
+      "summary": "The United States calls for dialogue as regional East Africa tension escalates."
     },
     {
       "title": "'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'",
@@ -1226,11 +1285,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d5a78984-c980-11f1-a6ce-638c1c1f5fd6/w:1024/p:16x9/EN-20261016-180736-182041-CS.jpg"
     },
     {
-      "title": "Kenya records third Ebola case, linked to first patient who died",
-      "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+      "title": "White House press secretary Katie Zacharia fired after five days on the job",
+      "link": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T18:57:40.000Z",
-      "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission."
+      "published": "2026-10-16T18:58:06.000Z",
+      "summary": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials."
     },
     {
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
@@ -1241,11 +1300,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ca/live/8f226840-c966-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
-      "link": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
+      "title": "Kenya records third Ebola case, linked to first patient who died",
+      "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T18:26:08.000Z",
-      "summary": "Police reviewing social media post by writer Sarah Helm, wife of Burnham's National Security Adviser Jonathan Powell."
+      "published": "2026-10-16T18:57:40.000Z",
+      "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission."
     },
     {
       "title": "DR Congo bans activities of 13 political parties linked to Joseph Kabila as opposition cries repression",
@@ -1255,11 +1314,11 @@ window.GDC_NEWS = {
       "summary": "The Democratic Republic of Congo’s government has banned the activities of 13 political parties, including the PPRD of former president Joseph Kabila. Presented as a national security…"
     },
     {
-      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+      "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
+      "link": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T18:21:43.000Z",
-      "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy."
+      "published": "2026-10-16T18:26:08.000Z",
+      "summary": "Police reviewing social media post by writer Sarah Helm, wife of Burnham's National Security Adviser Jonathan Powell."
     },
     {
       "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
@@ -1269,11 +1328,11 @@ window.GDC_NEWS = {
       "summary": "Girls wearing headscarves have been turned away from schools in Azerbaijan, triggering unusual protests involving children. The government rules do not mention hijabs. Why are schools…"
     },
     {
-      "title": "Ukraine president targets Trump, Putin at EU summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T17:59:48.000Z",
-      "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO."
+      "published": "2026-10-16T18:21:43.000Z",
+      "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy."
     },
     {
       "title": "Rights group says eastern Libyan authorities are carrying out executions",
@@ -1283,11 +1342,11 @@ window.GDC_NEWS = {
       "summary": "Human Rights Watch says the military has killed an estimated 31 people since late August, with at least 50 other people at risk."
     },
     {
-      "title": "US records 4,410 measles cases as outbreak grows",
-      "link": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
+      "title": "Ukraine president targets Trump, Putin at EU summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T17:40:18.000Z",
-      "summary": "The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts."
+      "published": "2026-10-16T17:59:48.000Z",
+      "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO."
     },
     {
       "title": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
@@ -1298,11 +1357,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/2950d44c-c97b-11f1-b235-d1d2c32ebb87/w:1024/p:16x9/EN-20261016-161316-161436-CS.jpg"
     },
     {
-      "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
-      "link": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
+      "title": "US records 4,410 measles cases as outbreak grows",
+      "link": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T17:28:41.000Z",
-      "summary": "Ukraine’s 'Operation Vivaldi' reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia."
+      "published": "2026-10-16T17:40:18.000Z",
+      "summary": "The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts."
     },
     {
       "title": "Argentine demonstration over education cuts ends in clashes",
@@ -1313,11 +1372,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/43e43092-c97b-11f1-9d23-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261016-150759-150933-CS.jpg"
     },
     {
-      "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+      "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
+      "link": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T17:05:31.000Z",
-      "summary": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda."
+      "published": "2026-10-16T17:28:41.000Z",
+      "summary": "Ukraine’s 'Operation Vivaldi' reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia."
     },
     {
       "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
@@ -1328,80 +1387,34 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg"
     },
     {
-      "title": "Pope Leo to make public appearance Sunday, first since cancer surgery",
-      "link": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss",
+      "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T17:03:52.000Z",
-      "summary": "After undergoing surgery this week, pope can now 'carry out normal activities ​with full independence', say doctors."
-    },
-    {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-16T15:59:30.000Z",
-      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T16:54:49.000Z",
-      "summary": "We asked students what they think."
-    },
-    {
-      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-      "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-      "source": "NPR World",
-      "published": "2026-10-16T15:57:27.000Z",
-      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The…",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F6b%2F6f80e95a4323b7a2bf0a3456ca30%2Fgettyimages-2299901273.jpg"
-    },
-    {
-      "title": "Iran’s president condemns environmental impact of war in Middle East",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T16:45:03.000Z",
-      "summary": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East"
-    },
-    {
-      "title": "Embattled new White House Press Secretary Zacharia 'let go' from her role",
-      "link": "https://www.france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role",
-      "source": "France 24",
-      "published": "2026-10-16T15:57:24.000Z",
-      "summary": "A White House Press official said Friday that Secretary ​Katie Zacharia was \"let go\" from her role after US President Donald Trump signaled she was on her way out, a week after he picked…",
-      "image": "https://s.france24.com/media/display/1595f724-c98b-11f1-b0e5-d1d2c32ebb87/w:1024/p:16x9/2026-10-16T175004Z-783479373-RC2F2OAQ1A0D-RTRMADP-3-USA-TRUMP-WHITEHOUSE.jpg"
-    },
-    {
-      "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T16:35:32.000Z",
-      "summary": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans' behaviour during Egypt friendly."
-    },
-    {
-      "title": "Cost-of-living demonstrations to grip pre-election France",
-      "link": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
-      "source": "France 24",
-      "published": "2026-10-16T15:55:23.000Z",
-      "summary": "After weeks of student protests, France is set to be swept by broader, nationwide demonstrations Saturday over the cost of living, setting up a potentially fraught period ahead of…",
-      "image": "https://s.france24.com/media/display/3411d3c0-c978-11f1-a109-2d1c143cdef3/w:1024/p:16x9/EN-20261016-170725-170947-CS.jpg"
-    },
-    {
-      "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
-      "link": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T16:34:26.000Z",
-      "summary": "Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president."
+      "published": "2026-10-16T17:05:31.000Z",
+      "summary": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda."
     }
   ],
   "africa": [
+    {
+      "title": "Tanzania: Ulega Calls for Measures to Decongest Prisons",
+      "link": "https://allafrica.com/stories/202610160683.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-16T21:51:46.000Z",
+      "summary": "[Daily News] Dodoma -- Minister for Constitution and Legal Affairs Abdallah Ulega has directed prosecutors to expedite case reviews, reduce delays and ensure suspects who qualify are…"
+    },
     {
       "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-16T19:18:13.000Z",
       "summary": "The United States calls for dialogue as regional East Africa tension escalates."
+    },
+    {
+      "title": "Africa: Technology, Good Governance Key to Stronger Saccos in Africa",
+      "link": "https://allafrica.com/stories/202610160678.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-16T21:51:43.000Z",
+      "summary": "[Daily News] AS financial services increasingly move towards digital platforms, savings and credit cooperative societies (SACCOs) across Africa face growing pressure to modernise their…"
     },
     {
       "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
@@ -1411,6 +1424,13 @@ window.GDC_NEWS = {
       "summary": "Kenya has confirmed its third Ebola case, raising concerns over the spread of the deadly virus across East Africa. The Health Ministry says the latest patient is a 65-year-old woman and a…"
     },
     {
+      "title": "Tanzania: Twiga Model Endures As North Mara Licence Renewed for 15 Years",
+      "link": "https://allafrica.com/stories/202610160676.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-16T21:51:42.000Z",
+      "summary": "[Daily News] Mara -- For the people of Tarime, the renewal of Barrick's mining licences for another 15 years is more than an extension of a commercial arrangement. It offers a test of…"
+    },
+    {
       "title": "Kenya records third Ebola case, linked to first patient who died",
       "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1418,11 +1438,11 @@ window.GDC_NEWS = {
       "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission."
     },
     {
-      "title": "Liberia: Mary's Meals International Appoints New Executive Director",
-      "link": "https://allafrica.com/stories/202610160588.html",
+      "title": "Tanzania: Nyerere's Legacy Lives On As Tz Unleashes DIRA 2050",
+      "link": "https://allafrica.com/stories/202610160677.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T18:29:11.000Z",
-      "summary": "[Liberian Observer] Global school feeding charity Mary's Meals International has appointed Andy Griffiths in the newly created role of Executive Director, in a move designed to strengthen…"
+      "published": "2026-10-16T21:51:42.000Z",
+      "summary": "[Daily News] Tanzania -- Tanzania's ambition to build a one trillion US dollar- economy by 2050 rests on a fundamental requirement: the ability to generate reliable energy to power…"
     },
     {
       "title": "DR Congo bans activities of 13 political parties linked to Joseph Kabila as opposition cries repression",
@@ -1432,11 +1452,11 @@ window.GDC_NEWS = {
       "summary": "The Democratic Republic of Congo’s government has banned the activities of 13 political parties, including the PPRD of former president Joseph Kabila. Presented as a national security…"
     },
     {
-      "title": "West Africa: Liberia's Offshore Promise - What LPRA's Work Means for Everyday Citizens and Local Businesses",
-      "link": "https://allafrica.com/stories/202610160587.html",
+      "title": "Tanzania: C-CEOs Forum Key Takeaways Expose the Real Test of Implementing DIRA 2050",
+      "link": "https://allafrica.com/stories/202610160675.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T18:29:10.000Z",
-      "summary": "[Liberian Observer] Along the docks of Monrovia, in the market stalls of Paynesville, and all along the corridors of Duala, conversations about \"oil\" and \"gas\" often feel distant and…"
+      "published": "2026-10-16T21:51:41.000Z",
+      "summary": "[Daily News] Arusha -- Tanzania's ambition to build a one trillion dollar- economy by 2050 will depend partly on how effectively public institutions translate national priorities into…"
     },
     {
       "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
@@ -1446,11 +1466,11 @@ window.GDC_NEWS = {
       "summary": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans' behaviour during Egypt friendly."
     },
     {
-      "title": "East Africa: Elevating Artisanal and Small-Scale Mining in Uganda",
-      "link": "https://allafrica.com/stories/202610160581.html",
+      "title": "Tanzania: VP Orders Fast-Tracking of Youth Employment Integration",
+      "link": "https://allafrica.com/stories/202610160671.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T18:12:37.000Z",
-      "summary": "[Nile Post] In the discourse surrounding the extractives sector in Uganda, attention is frequently dominated by multinational exploration corporations and large-scale mining (LSM) entities…"
+      "published": "2026-10-16T21:51:39.000Z",
+      "summary": "[Daily News] Sumbawanga -- Vice-President Deogratius Ndejembi has directed ministries and public institutions to accelerate the integration of youth employment systems, to enable young…"
     },
     {
       "title": "Nigeria: Aircraft Loses Door Mid-Air, Makes Emergency Landing in Abuja",
@@ -1460,11 +1480,11 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] The aircraft, a CL60 with registration number T7-SEI and flight identification DWC052, was departing Abuja for the Murtala Muhammed International Airport, Lagos, when the…"
     },
     {
-      "title": "East Africa: Uganda, South Sudan Sign Trade MOU, Pledge Joint Committees to Tackle Barriers",
-      "link": "https://allafrica.com/stories/202610160573.html",
+      "title": "Liberia: Mary's Meals International Appoints New Executive Director",
+      "link": "https://allafrica.com/stories/202610160588.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T18:12:33.000Z",
-      "summary": "[Nile Post] Uganda and South Sudan have signed a memorandum of understanding (MoU) on trade, with officials pledging to establish joint technical committees to oversee its implementation…"
+      "published": "2026-10-16T18:29:11.000Z",
+      "summary": "[Liberian Observer] Global school feeding charity Mary's Meals International has appointed Andy Griffiths in the newly created role of Executive Director, in a move designed to strengthen…"
     },
     {
       "title": "Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners",
@@ -1474,11 +1494,11 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] President Tinubu urged the Senate to expedite the nominees' confirmation in view of the forthcoming general elections next January."
     },
     {
-      "title": "Uganda: Power Tariffs Could Rise As Demand Overwhelms Distribution Network",
-      "link": "https://allafrica.com/stories/202610160571.html",
+      "title": "West Africa: Liberia's Offshore Promise - What LPRA's Work Means for Everyday Citizens and Local Businesses",
+      "link": "https://allafrica.com/stories/202610160587.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T18:12:32.000Z",
-      "summary": "[Nile Post] Electricity tariffs could rise as Uganda struggles to meet rapidly growing demand amid overloaded substations, ageing distribution equipment and persistent power outages, State…"
+      "published": "2026-10-16T18:29:10.000Z",
+      "summary": "[Liberian Observer] Along the docks of Monrovia, in the market stalls of Paynesville, and all along the corridors of Duala, conversations about \"oil\" and \"gas\" often feel distant and…"
     },
     {
       "title": "The artisanal miners behind Nigeria’s lithium boom",
@@ -1488,11 +1508,11 @@ window.GDC_NEWS = {
       "summary": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race."
     },
     {
-      "title": "Nigeria: P/Harcourt-Aba Train Connects Markets, Supports Traders",
-      "link": "https://allafrica.com/stories/202610160557.html",
+      "title": "East Africa: Elevating Artisanal and Small-Scale Mining in Uganda",
+      "link": "https://allafrica.com/stories/202610160581.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T16:51:25.000Z",
-      "summary": "[Daily Trust] The Nigerian Railway Corporation's (NRC) Port Harcourt-Aba train service is providing an additional transport link for traders and business operators whose activities connect…"
+      "published": "2026-10-16T18:12:37.000Z",
+      "summary": "[Nile Post] In the discourse surrounding the extractives sector in Uganda, attention is frequently dominated by multinational exploration corporations and large-scale mining (LSM) entities…"
     },
     {
       "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
@@ -1502,11 +1522,11 @@ window.GDC_NEWS = {
       "summary": "Abiy Ahmed's office said there would be elections held in Tigray within 6 months. The move comes after an escalation in fighting between federal forces and a rebel alliance."
     },
     {
-      "title": "Nigeria: OPEC Oil Output Surges By 920,000 Bpd",
-      "link": "https://allafrica.com/stories/202610160555.html",
+      "title": "East Africa: Uganda, South Sudan Sign Trade MOU, Pledge Joint Committees to Tackle Barriers",
+      "link": "https://allafrica.com/stories/202610160573.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T16:51:24.000Z",
-      "summary": "[Daily Trust] The Organisation of the Petroleum Exporting Countries (OPEC) recorded a significant increase in crude oil production in September, with output rising by approximately 920,000…"
+      "published": "2026-10-16T18:12:33.000Z",
+      "summary": "[Nile Post] Uganda and South Sudan have signed a memorandum of understanding (MoU) on trade, with officials pledging to establish joint technical committees to oversee its implementation…"
     },
     {
       "title": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns",
@@ -1516,11 +1536,11 @@ window.GDC_NEWS = {
       "summary": "Ethiopia’s military advances in northern Tigray do not spell an end to the conflict but have the potential to increase the risk of war with neighboring Eritrea, an analyst with knowledge of…"
     },
     {
-      "title": "Nigeria: FG Partners Indrive to Promote Safety for Drivers",
-      "link": "https://allafrica.com/stories/202610160556.html",
+      "title": "Uganda: Power Tariffs Could Rise As Demand Overwhelms Distribution Network",
+      "link": "https://allafrica.com/stories/202610160571.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T16:51:24.000Z",
-      "summary": "[Daily Trust] inDrive, a global mobility and delivery services platform, and other stakeholders in Nigeria's mobility sector have called for stronger collaboration to promote safe driving…"
+      "published": "2026-10-16T18:12:32.000Z",
+      "summary": "[Nile Post] Electricity tariffs could rise as Uganda struggles to meet rapidly growing demand amid overloaded substations, ageing distribution equipment and persistent power outages, State…"
     },
     {
       "title": "Africa overtakes Europe in Catholic population as global mumbers reach 1.422 billion",
@@ -1530,11 +1550,11 @@ window.GDC_NEWS = {
       "summary": "Africa now has more Catholics than Europe. The Vatican’s latest statistics put Africa’s Catholic population at 288 million, slightly ahead of Europe’s 287 million."
     },
     {
-      "title": "West Africa: Nigeria's Environment - A Case for Funding",
-      "link": "https://allafrica.com/stories/202610160551.html",
+      "title": "Nigeria: P/Harcourt-Aba Train Connects Markets, Supports Traders",
+      "link": "https://allafrica.com/stories/202610160557.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T16:51:22.000Z",
-      "summary": "[Daily Trust] On June 05, World Environment Day 2026 was celebrated. A day set aside by the UN (United Nations) as a platform to reflect on the state of the global environment while…"
+      "published": "2026-10-16T16:51:25.000Z",
+      "summary": "[Daily Trust] The Nigerian Railway Corporation's (NRC) Port Harcourt-Aba train service is providing an additional transport link for traders and business operators whose activities connect…"
     },
     {
       "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
@@ -1545,11 +1565,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae2/live/aea9db50-c950-11f1-8879-9d9deeb686e1.jpg"
     },
     {
-      "title": "Nigeria: Promotion Remains Key Motivation for Teachers - NUT Chair",
-      "link": "https://allafrica.com/stories/202610160552.html",
+      "title": "Nigeria: OPEC Oil Output Surges By 920,000 Bpd",
+      "link": "https://allafrica.com/stories/202610160555.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T16:51:22.000Z",
-      "summary": "[Daily Trust] The chairman of the Nigeria Union of Teachers (NUT), Kuje Area Council branch, Comrade Audu Lucky, has said promotion remains a major motivating factor keeping teachers in the…"
+      "published": "2026-10-16T16:51:24.000Z",
+      "summary": "[Daily Trust] The Organisation of the Petroleum Exporting Countries (OPEC) recorded a significant increase in crude oil production in September, with output rising by approximately 920,000…"
     },
     {
       "title": "South African pastor, wife arrested after 200 found in suspected illegal rehab centre",
@@ -1559,11 +1579,11 @@ window.GDC_NEWS = {
       "summary": "Police in South Africa have arrested a pastor and his wife after a raid on a church-run rehabilitation centre in Mpumalanga province revealed shocking living conditions."
     },
     {
-      "title": "Nigeria: LCCI Proposes 6-Month Relief Plan to Cut Petrol Price By 20 Percent",
-      "link": "https://allafrica.com/stories/202610160550.html",
+      "title": "Nigeria: FG Partners Indrive to Promote Safety for Drivers",
+      "link": "https://allafrica.com/stories/202610160556.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-16T16:51:21.000Z",
-      "summary": "[Daily Trust] The Lagos Chamber of Commerce and Industry (LCCI) has proposed a six-month petrol price reduction programme aimed at lowering pump prices by between 15 and 20 per cent, as…"
+      "published": "2026-10-16T16:51:24.000Z",
+      "summary": "[Daily Trust] inDrive, a global mobility and delivery services platform, and other stakeholders in Nigeria's mobility sector have called for stronger collaboration to promote safe driving…"
     },
     {
       "title": "German colonialism on agenda in Bundestag debate on Namibia genocide",
@@ -1571,6 +1591,13 @@ window.GDC_NEWS = {
       "source": "Deutsche Welle",
       "published": "2026-10-16T14:42:00.000Z",
       "summary": "Opposition parties have forced a debate in the Bundestag on the early-20th-century genocide Germany carried out in Namibia. Will this finally spur progress in addressing colonial crimes?"
+    },
+    {
+      "title": "West Africa: Nigeria's Environment - A Case for Funding",
+      "link": "https://allafrica.com/stories/202610160551.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-16T16:51:22.000Z",
+      "summary": "[Daily Trust] On June 05, World Environment Day 2026 was celebrated. A day set aside by the UN (United Nations) as a platform to reflect on the state of the global environment while…"
     },
     {
       "title": "South African rugby player Andrews dies at team hotel",
@@ -1581,6 +1608,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/002b/live/fb4e94e0-c96f-11f1-80fc-ab418b149008.jpg"
     },
     {
+      "title": "Nigeria: Promotion Remains Key Motivation for Teachers - NUT Chair",
+      "link": "https://allafrica.com/stories/202610160552.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-16T16:51:22.000Z",
+      "summary": "[Daily Trust] The chairman of the Nigeria Union of Teachers (NUT), Kuje Area Council branch, Comrade Audu Lucky, has said promotion remains a major motivating factor keeping teachers in the…"
+    },
+    {
       "title": "South Africa: Rescuing and relocating wild honeybees in Cape Town",
       "link": "http://www.africanews.com/2026/10/16/south-africa-rescuing-and-relocating-wild-honeybees-in-cape-town/",
       "source": "Africanews",
@@ -1588,11 +1622,11 @@ window.GDC_NEWS = {
       "summary": "A father-and-son team at the Cape Honeybee Conservancy have moved over 250 wild bee colonies from urban locations since 2018."
     },
     {
-      "title": "Ethiopia announces instalment of interim government in Tigray",
-      "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T13:54:06.000Z",
-      "summary": "After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months."
+      "title": "Nigeria: LCCI Proposes 6-Month Relief Plan to Cut Petrol Price By 20 Percent",
+      "link": "https://allafrica.com/stories/202610160550.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-16T16:51:21.000Z",
+      "summary": "[Daily Trust] The Lagos Chamber of Commerce and Industry (LCCI) has proposed a six-month petrol price reduction programme aimed at lowering pump prices by between 15 and 20 per cent, as…"
     },
     {
       "title": "Ethiopia appoints interim Tigray government after TPLF ouster",
@@ -1600,6 +1634,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-16T14:02:09.000Z",
       "summary": "Ethiopian Prime Minister Abiy Ahmed announced Friday the establishment of an interim administration in the northern Tigray region, which has been controlled by rebels who have clashed with…"
+    },
+    {
+      "title": "Ethiopia announces instalment of interim government in Tigray",
+      "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T13:54:06.000Z",
+      "summary": "After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months."
     },
     {
       "title": "Africa: Ebola Spread Raises Fresh Urgency for Africa's Domestic Health Funding",
@@ -1635,48 +1676,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-16T13:52:16.000Z",
       "summary": "[RFI] Somalia's election commission has announced it will hold parliamentary and presidential polls in April and May next year, but critics say the decision will lead to more conflict in a…"
-    },
-    {
-      "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T13:13:12.000Z",
-      "summary": "Spain sanctioned by FIFA after incidents at Espanyol's stadium in Barcelona, which staged the friendly with Egypt."
-    },
-    {
-      "title": "Mauritius: Has Mauritius Lost Its Agency in the Chagos Deal?",
-      "link": "https://allafrica.com/stories/202610160470.html",
-      "source": "AllAfrica",
-      "published": "2026-10-16T13:52:16.000Z",
-      "summary": "[ISS] By offering Britain a 99-year lease to secure decolonisation, Mauritius bound its sovereignty to shifting great power priorities."
-    },
-    {
-      "title": "Chinese navy ship brings free care and medicines to Abidjan",
-      "link": "http://www.africanews.com/2026/10/16/chinese-navy-ship-brings-free-care-and-medicines-to-abidjan/",
-      "source": "Africanews",
-      "published": "2026-10-16T13:10:16.000Z",
-      "summary": "A Chinese Medical ship with a crew of 376 arrived at the port of Abidjan, Côte d’Ivoire, on Thursday and began offering free medical consultations and medicines to local residents"
-    },
-    {
-      "title": "South Africa: Lions Player Dies From Suspected Cardiac Arrest in French Hotel",
-      "link": "https://allafrica.com/stories/202610160468.html",
-      "source": "AllAfrica",
-      "published": "2026-10-16T13:45:44.000Z",
-      "summary": "[Daily Maverick] A Lions player has apparently died in a hotel room in France, where the South African team has been preparing for the Champions Cup debut against La Rochelle."
-    },
-    {
-      "title": "Zambia elected for three-year term on UN Human Rights Council",
-      "link": "http://www.africanews.com/2026/10/16/zambia-elected-for-three-year-term-on-un-human-rights-council/",
-      "source": "Africanews",
-      "published": "2026-10-16T12:31:00.000Z",
-      "summary": "President Hakainde Hichilema described it as an endorsement of the country's commitment to protecting human rights."
-    },
-    {
-      "title": "Kenya: Image of Kenyan Senator Edwin Sifuna Asleep At Public Event Is Doctored",
-      "link": "https://allafrica.com/stories/202610160466.html",
-      "source": "AllAfrica",
-      "published": "2026-10-16T13:41:58.000Z",
-      "summary": "[Africa Check] Image of Kenyan senator Edwin Sifuna asleep at public event is doctored"
     }
   ]
 };
