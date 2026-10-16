@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-15T23:17:10.426Z",
+  "updated": "2026-10-16T01:29:45.040Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,16 +22,16 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-15T23:17:10.426Z",
+  "officialAt": "2026-10-16T01:29:45.040Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.6561 (mid-market, 2026-10-15)",
     "gbp: 15.4423 (mid-market, 2026-10-15)",
     "eur: 13.0841 (mid-market, 2026-10-15)",
     "cny: 1.74166 (mid-market, 2026-10-15)",
-    "gold: 4186.2 at 2026-10-15T23:06:44.000Z",
+    "gold: 4178.7 at 2026-10-16T01:19:19.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-15, usd/gbp/eur",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-15: 2026-10-15, usd/gbp/eur",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-16: 2026-10-15, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
     "BoG in use: 2026-10-15 · usd 11.65, gbp 15.4403, eur 13.053"
   ],
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.74707
     },
     "gold": {
-      "value": 4186.2,
-      "at": "2026-10-15T23:06:44.000Z",
+      "value": 4178.7,
+      "at": "2026-10-16T01:19:19.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4194.3
+      "prev": 4186.2
     }
   }
 };
