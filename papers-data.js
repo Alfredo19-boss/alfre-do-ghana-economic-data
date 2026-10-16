@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-16T05:09:33.582Z",
+  "updated": "2026-10-16T09:44:40.547Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,230 +25,232 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Develop home-grown solutions to challenges — Sam Jonah",
-      "link": "https://ghanaiantimes.com.gh/develop-home-grown-solutions-to-challenges-sam-jonah/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T05:07:59.000Z",
-      "summary": "THE Chancellor of the University of Cape Coast and Executive Chairman of Sir Jonah Capital Limited, Sir Sam Jonah, has urged Africa to move beyond consuming imported technologies and…",
+      "title": "Nzema East launches Responsible Cooperative Mining Programme to tackle environmental destruction",
+      "link": "https://www.myjoyonline.com/nzema-east-launches-responsible-cooperative-mining-programme-to-tackle-environmental-destruction/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T09:31:30.000Z",
+      "summary": "The government has launched the Responsible Cooperative Mining and Skills Development Programme in the Nzema East Municipality of the Western Region to promote safer, more organised, and…",
       "categories": [
-        "Hot!",
+        "Regional",
+        "Nzema East",
+        "Responsible Cooperative Mining Programme"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1592-1024x564.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana included in WHO lead-testing programme as questions remain over local exposure risks",
+      "link": "https://www.myjoyonline.com/ghana-included-in-who-lead-testing-programme-as-questions-remain-over-local-exposure-risks/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T09:23:00.000Z",
+      "summary": "Ghana is among six sub-Saharan African countries selected for support to strengthen laboratory capacity for blood lead testing under a World Health Organisation (WHO) initiative, as…",
+      "categories": [
+        "Health",
+        "News",
+        "LEAD POISONING WEEK",
+        "VITAL INITIATIVES",
+        "WHO"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/7R1A0137-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026 Amputee World Cup: We will win the trophy – Samson Deen",
+      "link": "https://www.myjoyonline.com/2026-amputee-world-cup-we-will-win-the-trophy-samson-deen/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T09:14:30.000Z",
+      "summary": "Ghana National Paralympic Committee president Samson Deen is confident the Black Challenge can win the 2026 Amputee Football World Cup in Mexico. Ghana have been drawn in Group D alongside…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "2026 Amputee Football World Cup",
+        "Angola",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Mexico"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-08.48.15-1024x819.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Controller and Accountant-General pays promotion arrears to 56,003 GES teachers ahead of deadline",
+      "link": "https://www.myjoyonline.com/controller-and-accountant-general-pays-promotion-arrears-to-56003-ges-teachers-ahead-of-deadline/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T09:14:30.000Z",
+      "summary": "The Controller and Accountant-General’s Department (CAGD) has paid promotion-related salary adjustments and arrears to 56,003 Ghana Education Service (GES) teachers, completing the payments…",
+      "categories": [
+        "Education",
+        "HP News 2",
+        "National",
+        "News",
+        "CAGD",
+        "GES Teachers",
+        "Promotion arreas"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1594.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026 Amputee World Cup: We want to make the continent proud – Black Challenge coach",
+      "link": "https://www.myjoyonline.com/2026-amputee-world-cup-we-want-to-make-the-continent-proud-black-challenge-coach/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T09:09:57.000Z",
+      "summary": "All 15 players named in Ghana’s squad were present as the team worked to improve their fitness and sharpen their readiness ahead of the competition.",
+      "categories": [
+        "Football",
+        "HP Sports 7",
+        "Sports",
+        "2026 Amputee World Cup",
+        "Benaiah Elorm Dafeamekpor",
+        "Black Challenge",
+        "Mexico"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-21.36.35-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "International Day of the Girl: Central Region Education Directorate calls for action to tackle child marriage, teenage pregnancy",
+      "link": "https://www.myjoyonline.com/international-day-of-the-girl-central-region-education-directorate-calls-for-action-to-tackle-child-marriage-teenage-pregnancy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T09:03:56.000Z",
+      "summary": "The Central Regional Education Directorate has called on parents, traditional authorities and communities to intensify efforts to end child marriage and early cohabitation, which expose…",
+      "categories": [
+        "National",
+        "Regional",
+        "Child marriage",
+        "Education",
+        "Teenage Pregnancy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-29-e1792141420956-1024x907.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Eyes of Ghana: iShowSpeed joins Obamas as producers of Chris Hesse documentary",
+      "link": "https://www.myjoyonline.com/the-eyes-of-ghana-ishowspeed-joins-obamas-as-producers-of-chris-hesse-documentary/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T08:52:57.000Z",
+      "summary": "American streamer iShowSpeed has joined former US President Barack Obama and Michelle Obama as a producer of The Eyes of Ghana, the documentary about veteran Ghanaian cinematographer Rev…",
+      "categories": [
+        "HP Entertainment 2",
+        "Movies",
+        "Chris Hesse",
+        "iShowSpeed",
+        "The Eyes of Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9247.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FirstBank Ghana pledges action on customer feedback at service week forum",
+      "link": "https://www.myjoyonline.com/firstbank-ghana-pledges-action-on-customer-feedback-at-service-week-forum/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T08:22:08.000Z",
+      "summary": "FirstBank Ghana has pledged to act on customer feedback and improve service delivery following a forum held as part of its 2026 Customer Service Week activities.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "customer week",
+        "FirstBank Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-12.52.52-PM-1024x662.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Keta Assembly hands over new KG block to Anlo State Sch",
+      "link": "https://ghanaiantimes.com.gh/keta-assembly-hands-over-new-kg-block-to-anlo-state-sch/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-16T05:50:35.000Z",
+      "summary": "The Keta Municipal Assembly has handed over a newly constructed and fully furnished kindergarten (KG) block to Anlo State School at Abutiakope to protect pupils from floods and improve…",
+      "categories": [
         "News"
       ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Stop-being-Sir-Jonah-middle-with-other-dignitaries-at-the-programme-.jpg",
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Keta-Assembly-hands-over-new-KG-block-xxxx.jpg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Amin Adam raises sovereign-bank nexus concerns as banks hold GH¢190bn in government debt",
-      "link": "https://www.myjoyonline.com/amin-adam-raises-sovereign-bank-nexus-concerns-as-banks-hold-gh%c2%a2190bn-in-government-debt/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T05:03:00.000Z",
-      "summary": "Former Finance Minister Dr Mohammed Amin Adam has raised concerns about the growing exposure of Ghana’s banking system to government debt, warning that increased reliance on domestic banks…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Ato Forson",
-        "Banks",
-        "Debt",
-        "Government"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/10/Screenshot-2024-10-06-at-05.45.48.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Audit irregularities drop 62.9% to GH¢7.69bn — Dep Finance Minister",
-      "link": "https://ghanaiantimes.com.gh/audit-irregularities-drop-62-9-to-gh%c2%a27-69bn-dep-finance-minister/",
+      "title": "Put coastal communities at heart of protection efforts — German envoy",
+      "link": "https://ghanaiantimes.com.gh/put-coastal-communities-at-heart-of-protection-efforts-german-envoy/",
       "source": "Ghanaian Times",
-      "published": "2026-10-16T04:58:43.000Z",
-      "summary": "FINANCIAL irregularities across five categories of public institutions declined by 62.9 per cent, from GH¢20.7 billion in 2024 to GH¢7.69 billion in 2025, the Deputy Minister of Finance, Mr…",
+      "published": "2026-10-16T05:47:24.000Z",
+      "summary": "The German Ambassador to Ghana, Mr Frederik Landshoeft, has called for a people-centred approach to tackling coastal erosion in the Volta Region to protect lives, homes and livelihoods. He…",
       "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Audit-irregularities-Mr-Ampem-fourth-from-right-with-other-dignitaries-during-the-conference.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Government to increase Free SHS feeding allowance in 2027 Budget – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/government-to-increase-free-shs-feeding-allowance-in-2027-budget-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T04:58:00.000Z",
-      "summary": "Haruna Iddrisu, Minister for Education, has announced plans to increase the GHS15 per-student feeding allocation under the Free Senior High School (Free SHS) programme in the 2027 Budget.",
-      "categories": [
-        "National",
-        "Allowance",
-        "Feeding",
-        "Free SHS",
-        "Government",
-        "Haruna Iddrisu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-2.18.01-AM-1024x616.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nadowli-Kaleo NCCE engages women’s groups on rule of law, corruption fight",
-      "link": "https://www.myjoyonline.com/nadowli-kaleo-ncce-engages-womens-groups-on-rule-of-law-corruption-fight/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T04:57:00.000Z",
-      "summary": "The Nadowli-Kaleo District Directorate of the National Commission for Civic Education (NCCE) has engaged identifiable women’s groups in the district to strengthen their participation in the…",
-      "categories": [
-        "National",
-        "Corruption",
-        "Law",
-        "Nadowli-Kaleo",
-        "NCCE"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-2.28.42-AM-1024x611.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Science reporting key to Ghana’s development — GNRF",
-      "link": "https://ghanaiantimes.com.gh/science-reporting-key-to-ghanas-development-gnrf/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T04:55:40.000Z",
-      "summary": "JOURNALISTS have been urged to communicate scientific research, technology and innovation in simple language to help the public understand their benefits and contribute to Ghana’s…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Protect nature to safeguard livelihoods — Deputy Minister",
-      "link": "https://ghanaiantimes.com.gh/protect-nature-to-safeguard-livelihoods-deputy-minister/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T04:53:25.000Z",
-      "summary": "STAKEHOLDERS at a panel discussion on the Africa Climate Dialogue have called on African countries to protect and restore natural ecosystems to mitigate the effects of climate change and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mahama visits factories in Afienya/Tema",
-      "link": "https://www.myjoyonline.com/mahama-visits-factories-in-afienya-tema/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T04:52:00.000Z",
-      "summary": "President John Dramani Mahama on Thursday embarked on a day’s working visit to some factories in the Bright International Industrial Zone and Tema Free Zones Enclave.",
-      "categories": [
-        "National",
-        "Factories",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-2.27.00-AM-1024x609.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CSOs warn against offshore gold exploration",
-      "link": "https://ghanaiantimes.com.gh/csos-warn-against-offshore-gold-exploration-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T04:50:17.000Z",
-      "summary": "SOME civil society organisations (CSOs) have commended the government for suspending offshore gold reconnaissance activities but called for the complete revocation of all such licences in…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Beyond heart health: The surprising power of fresh produce against air pollution",
-      "link": "https://ghanaiantimes.com.gh/beyond-heart-health-the-surprising-power-of-fresh-produce-against-air-pollution-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T04:47:21.000Z",
-      "summary": "KANESHIE, Accra — Gyamfua arrives at the footbridge here by 5:00 a.m. every day. Long rows of passengers board buses spewing black exhaust fumes into the air as she prepares her fruit…",
-      "categories": [
-        "Features"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "TraffiTech-GH pilot reduces road crash injuries, fatalities",
-      "link": "https://www.myjoyonline.com/traffitech-gh-pilot-reduces-road-crash-injuries-fatalities/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T04:47:00.000Z",
-      "summary": "The pilot phase of TraffiTech-GH has recorded significant progress in improving road safety, with reductions in road crashes, injuries and fatalities across the country through the issuance…",
-      "categories": [
-        "National",
-        "Crash",
-        "Fatalities",
-        "Road",
-        "Traffitech-GH"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-2.34.00-AM-1024x612.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Why ‘Mahama Cares’ must be cared for",
-      "link": "https://ghanaiantimes.com.gh/why-mahama-cares-must-be-cared-for-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T04:44:56.000Z",
-      "summary": "THE Ghana Medical Trust Fund (GMTF), popularly known as Mahama Cares, is an important addition to Ghana’s health financing system. Established under Act 1144 in July 2025, it provides…",
-      "categories": [
-        "Features"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "IMF Chief identifies 2 major threats posed by AI to global economy",
-      "link": "https://www.myjoyonline.com/imf-chief-identifies-2-major-threats-posed-by-ai-to-global-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T04:42:00.000Z",
-      "summary": "Overestimating the capabilities of AI and the risk of it escaping human control could undermine the global economy, International Monetary Fund (IMF) Managing Director Kristalina Georgieva…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "AI",
-        "Economy",
-        "IMF"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-2.39.03-AM-1024x610.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Clerk to Parliament laments inadequate working spaces for legislative work",
-      "link": "https://ghanaiantimes.com.gh/clerk-to-parliament-laments-inadequate-working-spaces-for-legislative-work/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T04:41:39.000Z",
-      "summary": "THE Clerk to Parliament, Reverend Ebenezer Ahumah Djietror, has bemoaned the lack of adequate working space and facilities for Parliament, saying the situation affects the work of the…",
-      "categories": [
-        "Hot!",
         "News"
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Go back to the hand washing days – Ghanaians told",
-      "link": "https://www.myjoyonline.com/go-back-to-the-hand-washing-days-ghanaians-told/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T04:37:00.000Z",
-      "summary": "Dr Rita Naa Odoley Sowah, the Deputy Minister for Local Government Chieftaincy and Religious Affairs, has called on Ghanaians to go back to the hand washing days after the COVID-19…",
+      "title": "Armwrestling: Ghana unveils World Armwrestling Championship squad, appeals for travel support",
+      "link": "https://ghanaiantimes.com.gh/armwrestling-ghana-unveils-world-armwrestling-championship-squad-appeals-for-travel-support/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-16T05:42:12.000Z",
+      "summary": "The Ghana Armwrestling Federation has unveiled a formidable squad for the upcoming World Armwrestling Championship in New Delhi, India, while appealing to corporate Ghana, government…",
       "categories": [
-        "National",
-        "Ghanaians",
-        "Hand washing"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Rita-Naa-Odoley-Sowah-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GoldBod commits GH¢35m to reclaim galamsey-damaged Tano Nimri Forest Reserve",
-      "link": "https://www.myjoyonline.com/goldbod-commits-gh%c2%a235m-to-reclaim-galamsey-damaged-tano-nimri-forest-reserve/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T04:32:00.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) is investing approximately GH¢35 million in a reclamation and reforestation project to restore forest land destroyed by illegal mining at the Tano Nimri…",
+      "title": "Hearts to tame Vision in GPL clash",
+      "link": "https://ghanaiantimes.com.gh/hearts-to-tame-vision-in-gpl-clash/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-16T05:39:32.000Z",
+      "summary": "Fireworks are expected at the Nii Adjei Kraku Sports Complex in Tema New Town tomorrow when Accra Hearts of Oak face Vision FC in the Ghana Premier League Match day seven fixture. The…",
       "categories": [
-        "National",
-        "forest reserve",
-        "Galamsey",
-        "Goldbod"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_0469.JPG-1024x679.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Wardley dares Dubois in rematch",
+      "link": "https://ghanaiantimes.com.gh/wardley-dares-dubois-in-rematch/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-16T05:37:17.000Z",
+      "summary": "Just over five months on from their epic first fight, Daniel Dubois and Fabio Wardley go to war for the WBO heavyweight world title in London on Saturday night. Wardley went into the first…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "PSG outgun Man City in UCL thriller",
+      "link": "https://ghanaiantimes.com.gh/psg-outgun-man-city-in-ucl-thriller/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-16T05:35:49.000Z",
+      "summary": "Paris Saint-Germain further soured the mood at the Etihad Stadium as Manchester City’s first home game since the guilty verdict on widespread flouting of Premier League financial rules…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FIFA to offer extra £2.6bn for football development",
+      "link": "https://ghanaiantimes.com.gh/fifa-to-offer-extra-2-6bn-for-football-development/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-16T05:32:17.000Z",
+      "summary": "FIFA is set to propose a $3.4bn (£2.6bn) increase in the amount of money it hands out for football development across the world. World football’s governing body wants to release the money…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Infantino calls for unity at Council meeting …stresses commitment to serving FIFA Member Associations",
+      "link": "https://ghanaiantimes.com.gh/infantino-calls-for-unity-at-council-meeting-stresses-commitment-to-serving-fifa-member-associations/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-16T05:28:01.000Z",
+      "summary": "The FIFA Council convened at the Home of FIFA in Zurich, Switzerland, for its first meeting since the resounding success of the FIFA World Cup 2026™, with FIFA President Gianni Infantino…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "President Mahama urges investors to employ trained local residents as 1,238-acre industrial park takes off",
