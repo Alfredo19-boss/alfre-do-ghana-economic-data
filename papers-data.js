@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T01:29:07.584Z",
+  "updated": "2026-10-17T05:58:45.681Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,122 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Mahama swears in four envoys, tasks them with attracting investment",
+      "link": "https://www.myjoyonline.com/mahama-swears-in-four-envoys-tasks-them-with-attracting-investment/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T05:47:18.000Z",
+      "summary": "President John Dramani Mahama has sworn in four ambassadors, charging them to attract investment, expand trade and create opportunities for Ghanaians abroad as part of the government’s…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Envoys",
+        "Investment",
+        "Mahama",
+        "swears"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/envoy-1-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IShowSpeed partners Obamas to bring Ghana history documentary to cinemas on October 28",
+      "link": "https://www.myjoyonline.com/ishowspeed-partners-obamas-to-bring-ghana-history-documentary-to-cinemas-on-october-28/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T05:35:27.000Z",
+      "summary": "Streaming star IShowSpeed has partnered with Breakwater Studios and Higher Ground Productions to bring The Eyes of Ghana, a documentary about the preservation of Ghana’s cinematic history…",
+      "categories": [
+        "Africa",
+        "Arts and Culture",
+        "News",
+        "cinemas",
+        "iShowSpeed",
+        "Obamas"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-204905.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia will become President, Ghanaian youth stand to benefit – Ekua Amoakoh",
+      "link": "https://www.myjoyonline.com/bawumia-will-become-president-ghanaian-youth-stand-to-benefit-ekua-amoakoh/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T04:06:13.000Z",
+      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says she believes Dr Bawumia will eventually become President of…",
+      "categories": [
+        "National",
+        "Politics",
+        "Bawumia",
+        "President",
+        "Youth"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Dr-Bawumia-at-the-NPP-HQ-awaiting-his-official-deckration-as-thew-winner-1024x687.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ekua Amoakoh explains how Bawumia’s policy ideas drew her closer to NPP before 2024 elections",
+      "link": "https://www.myjoyonline.com/ekua-amoakoh-explains-how-bawumias-policy-ideas-drew-her-closer-to-npp-before-2024-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T03:46:09.000Z",
+      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says a briefing by Dr Bawumia helped convince her to become more…",
+      "categories": [
+        "Politics",
+        "2024 elections",
+        "Bawumia",
+        "Ekua Amoakoh",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-9-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I sacrificed my dream of becoming a maxillofacial surgeon for politics – Ekua Amoakoh",
+      "link": "https://www.myjoyonline.com/i-sacrificed-my-dream-of-becoming-a-maxillofacial-surgeon-for-politics-ekua-amoakoh/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T03:27:23.000Z",
+      "summary": "Spokesperson for NPP Flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says her involvement in politics cost her the opportunity to…",
+      "categories": [
+        "Politics",
+        "Ekua Amoakoh",
+        "maxillofacial surgeon",
+        "Medical doctor",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-03.15.21-1024x545.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘It was very difficult to be NPP in 2024’ – Ekua Amoakoh",
+      "link": "https://www.myjoyonline.com/it-was-very-difficult-to-be-npp-in-2024-ekua-amoakoh/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T02:57:50.000Z",
+      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee has recounted how her research into the party’s health sector record ahead of the…",
+      "categories": [
+        "Politics",
+        "2024",
+        "Bawumia",
+        "Ekua Amoakoh",
+        "Health sector",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-02.46.53-1024x533.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ablakwa challenges Minority to identify an evacuee denied GH¢5,500 allowance",
+      "link": "https://www.myjoyonline.com/ablakwa-challenges-minority-to-identify-an-evacuee-denied-gh%c2%a25500-allowance/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T00:29:12.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has challenged the Minority in Parliament to identify a Ghanaian evacuated from South Africa who did not receive the GH¢5,500 allowance…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Ablakwa",
+        "evacuee",
+        "Minority",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/67202644139-0f72ym3xxs-whatsapp-image-2026-06-07-at-101940-am.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ablakwa challenges Minority to name evacuee denied GH¢5,500 allowance",
       "link": "https://www.myjoyonline.com/ablakwa-challenges-minority-to-name-evacuee-denied-gh%c2%a25500-allowance/",
       "source": "MyJoyOnline",
@@ -38,124 +154,6 @@ window.GDC_PAPERS = {
         "South Africa"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/67202644139-0f72ym3xxs-whatsapp-image-2026-06-07-at-101940-am.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Debate, leadership and governance drew me to politics – Ekua Amoakoh",
-      "link": "https://www.myjoyonline.com/debate-leadership-and-governance-drew-me-to-politics-ekua-amoakoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T00:22:02.000Z",
-      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says her lifelong interest in debate, governance and leadership…",
-      "categories": [
-        "HP News 3",
-        "Politics",
-        "Bawumia",
-        "Debate",
-        "Ekua Amoakoh",
-        "JoyNews",
-        "Leadership",
-        "PM Express"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-225410-1-1024x526.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘My Grandmother is an NPP Founding member’ – Ekua Amoakoh reveals family’s NPP roots",
-      "link": "https://www.myjoyonline.com/my-grandmother-is-an-npp-founding-member-ekua-amoakoh-reveals-familys-npp-roots/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T23:38:52.000Z",
-      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, has revealed that her grandmother was a founding member of the…",
-      "categories": [
-        "Politics",
-        "Ekua Amoakoh",
-        "NPP founding member",
-        "NPP roots"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-1-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr. Ekua Amoakoh recounts childhood at Komfo Anokye and how parents pushed her into the medical profession",
-      "link": "https://www.myjoyonline.com/dr-ekua-amoakoh-recounts-childhood-at-komfo-anokye-and-how-parents-pushed-her-into-the-medical-profession/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T23:02:43.000Z",
-      "summary": "Spokesperson for NPP Flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, has recounted how her parents’ insistence led her to study…",
-      "categories": [
-        "National",
-        "Childhood",
-        "Ekua Amoakoh",
-        "Komfo Anokye",
-        "Medicine",
-        "PM Express"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-235854-1024x549.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP will be better prepared for 2028 election security – Ekua Amoakoh",
-      "link": "https://www.myjoyonline.com/npp-will-be-better-prepared-for-2028-election-security-ekua-amoakoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T22:33:34.000Z",
-      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says the party’s recent national executive elections show that…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Ekua Amoakoh",
-        "Election security",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-225410-1024x526.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newsfile to discuss GH¢49.72m evacuation cost, EC appointments and Obuasi SHTS abuse case",
-      "link": "https://www.myjoyonline.com/newsfile-to-discuss-gh%c2%a249-72m-evacuation-cost-ec-appointments-and-obuasi-shts-abuse-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T21:44:20.000Z",
-      "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, October 17, examine four major national issues that have dominated public debate over the past week. Hosted by…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Radio & TV",
-        "EC appointments",
-        "JoyNews",
-        "Newsfile",
-        "Obuasi SHTS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-22.01.42-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa to face Newsfile questions on BRICS bid and GH¢49.7m evacuation cost",
-      "link": "https://www.myjoyonline.com/ablakwa-to-face-newsfile-questions-on-brics-bid-and-gh%c2%a249-7m-evacuation-cost/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T21:37:51.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa will face questions on Ghana’s bid to join the BRICS economic bloc and the GH¢49.7 million spent evacuating Ghanaians from South Africa when…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Radio & TV",
-        "Ablakwa",
-        "BRICS bid",
-        "evacuation cost",
-        "Newsfile"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-22.01.42-1-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof. John Amuasi calls for a shift towards preventing health crises at World Health Summit",
-      "link": "https://www.myjoyonline.com/prof-john-amuasi-calls-for-a-shift-towards-preventing-health-crises-at-world-health-summit/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T21:31:08.000Z",
-      "summary": "Professor John H. Amuasi of the Kwame Nkrumah University of Science and Technology, Kumasi (KNUST), has called for a shift in how countries approach public health, urging governments to…",
-      "categories": [
-        "Health",
-        "health crises",
-        "Prof John AMuasi",
-        "World health summit"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-00.06.56-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
