@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T18:51:24.487Z",
+  "updated": "2026-10-17T21:04:22.436Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,101 +25,154 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "EC must command public confidence regardless of which party is in power – Victoria Bright",
-      "link": "https://www.myjoyonline.com/ec-must-command-public-confidence-regardless-of-which-party-is-in-power-victoria-bright/",
+      "title": "GPL 2026/27: Hearts of Oak seal back-to-back wins as Berekum Chelsea shock Lions in Kpando",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-of-oak-seal-back-to-back-wins-as-berekum-chelsea-shock-lions-in-kpando/",
       "source": "MyJoyOnline",
-      "published": "2026-10-17T18:05:00.000Z",
-      "summary": "Private legal practitioner Victoria Bright has called for consistency in the appointment of Electoral Commission (EC) officials, stressing that the Commission must command public confidence…",
+      "published": "2026-10-17T20:40:37.000Z",
+      "summary": "Hearts of Oak secured back-to-back Premier League victories after edging Vision FC 1-0 at the Nii Adjei Kraku Complex in Tema New Town on Saturday, while Berekum Chelsea stunned Heart of…",
       "categories": [
-        "HP News 5",
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Berekum Chelsea",
+        "Ghana Premier League",
+        "Hearts of Oak"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HaertsViso-1024x920.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "WAFU B U17: Black Starlets to face Ivory Coast in semi-final clash",
+      "link": "https://www.myjoyonline.com/wafu-b-u17-black-starlets-to-face-ivory-coast-in-semi-final-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T20:36:12.000Z",
+      "summary": "The West African rivals will lock horns in the first semi-final on Tuesday at 16:00 GMT, with a place in the final and qualification for the 2027 U17 Africa Cup of Nations in Morocco at…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Black Starlets",
+        "Ivory Coast",
+        "WAFU B U17:"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Black-Starlets-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMA donates 300 life jackets to boat operators, fishers in Dambai",
+      "link": "https://www.myjoyonline.com/gma-donates-300-life-jackets-to-boat-operators-fishers-in-dambai/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T20:30:43.000Z",
+      "summary": "The Ghana Maritime Authority (GMA) has handed over 300 life jackets to boat operators and fishers in Dambai to promote safety compliance and reduce fatalities on the Oti River.",
+      "categories": [
+        "Regional",
+        "300 life jackets",
+        "Boat Operators",
+        "Ghana Maritime Authority (GMA)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ho-Social-Fishers-Jacket-1jpeg-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hubtel deployed AI to help ECG identify suspected electricity theft – CEO",
+      "link": "https://www.myjoyonline.com/hubtel-deployed-ai-to-help-ecg-identify-suspected-electricity-theft-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T20:29:58.000Z",
+      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has disclosed that the company worked with the Electricity Company of Ghana (ECG) to use artificial intelligence (AI) to help identify…",
+      "categories": [
+        "Business",
         "National",
         "News",
-        "EC",
-        "public confidence",
-        "Victoria Bright"
+        "Technology",
+        "AI and The Ghana Economy",
+        "Alex Bram",
+        "Digital Economy Forum",
+        "ECG",
+        "Hubtel"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1706.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-13.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC must dissociate itself from Obuasi SHTS head over sexual abuse allegations – Vicky Bright",
-      "link": "https://www.myjoyonline.com/ndc-must-dissociate-itself-from-obuasi-shts-head-over-sexual-abuse-allegations-vicky-bright/",
+      "title": "Government appoints AI focal persons across ministries to drive national strategy",
+      "link": "https://www.myjoyonline.com/government-appoints-ai-focal-persons-across-ministries-to-drive-national-strategy/",
       "source": "MyJoyOnline",
-      "published": "2026-10-17T18:02:00.000Z",
-      "summary": "International corporate lawyer Victoria Bright has urged the National Democratic Congress (NDC) to dissociate itself from the head of Obuasi Senior High Technical School (SHTS), who is…",
+      "published": "2026-10-17T20:28:54.000Z",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has disclosed that the government has appointed artificial intelligence (AI) focal persons across all…",
       "categories": [
-        "HP News 4",
-        "National",
-        "NDC",
-        "Obuasi SHTS head",
-        "Sexual Assault"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Screenshot-2026-01-05-at-07.25.38-1024x578.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump deals with Putin, so why should Ghana fear BRICS? – Ablakwa asks",
-      "link": "https://www.myjoyonline.com/trump-deals-with-putin-so-why-should-ghana-fear-brics-ablakwa-asks/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T18:02:00.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has defended Ghana’s pursuit of BRICS membership, arguing that the United States’ own dealings with Russia demonstrate the importance of…",
-      "categories": [
-        "International",
-        "National",
-        "Politics",
-        "Top Story",
-        "BRICS",
-        "Diessel",
-        "Ghana",
-        "Russia",
-        "Ukrain"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Ablakwa-1-1024x523.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asking Agbenyo to resign will mean everyone else at EC must leave – Vicky Bright",
-      "link": "https://www.myjoyonline.com/asking-agbenyo-to-resign-will-mean-everyone-else-at-ec-must-leave-vicky-bright/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T18:01:00.000Z",
-      "summary": "Private legal practitioner Victoria Bright has described calls for newly appointed Electoral Commission (EC) Deputy Chairperson Emelia Affi Agbenyo to resign as excessive, arguing that…",
-      "categories": [
-        "HP News 1",
+        "Business",
         "National",
         "News",
-        "Abenyo",
+        "AI and The Ghana Economy",
+        "Digital Economy Forum",
+        "Sam George"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-12.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana needs AI engineers and data scientists, not just computing infrastructure – Hubtel CEO",
+      "link": "https://www.myjoyonline.com/ghana-needs-ai-engineers-and-data-scientists-not-just-computing-infrastructure-hubtel-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T20:27:13.000Z",
+      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has urged the government to match its planned investments in artificial intelligence (AI) infrastructure with funding for specialised…",
+      "categories": [
+        "Economy",
+        "National",
+        "News",
+        "Technology",
+        "AI",
+        "Artificial Intelligence (AI)",
+        "data scientists",
+        "Digital Economy Forum",
+        "Hubtel"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-9.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trunk sellers count losses as SHS students embrace suitcases",
+      "link": "https://www.myjoyonline.com/trunk-sellers-count-losses-as-shs-students-embrace-suitcases/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T20:26:45.000Z",
+      "summary": "Locally made metal trunk sellers in Accra say their businesses are going through a difficult period as more senior high school (SHS) students opt for suitcases, leaving traders with unsold…",
+      "categories": [
+        "National",
+        "SHS Students",
+        "suitcases",
+        "Trunk Sellers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1733.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "A proper reset would’ve been to clear the EC and set new standards – Suhuyini on EC appointments",
+      "link": "https://www.myjoyonline.com/a-proper-reset-wouldve-been-to-clear-the-ec-and-set-new-standards-suhuyini-on-ec-appointments/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T20:17:50.000Z",
+      "summary": "Deputy Minister for Roads and Highways Alhassan Suhuyini says a proper reset of Ghana’s Electoral Commission (EC) would have involved replacing the existing commissioners and establishing a…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Alhassan Suhuniyi",
+        "Appointment",
         "EC",
-        "Vicky Bright"
+        "Reset"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1710.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1715.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Akosua Manu calls for a proper protection framework for sexually abused children",
-      "link": "https://www.myjoyonline.com/akosua-manu-calls-for-a-proper-protection-framework-for-sexually-abused-children/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T18:00:00.000Z",
-      "summary": "Special Adviser on Gender and Social Protection to former Vice-President Dr Mahamudu Bawumia, Akosua Manu, has called for a proper national child protection framework to safeguard pupils…",
+      "title": "Ghana to post teachers, nurses to U.S. Virgin Islands under new bilateral accord",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-to-post-teachers-nurses-to-u-s-virgin-islands-under-new-bilateral-accord.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T20:02:25.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Children",
-        "Sexual abuse"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-1914-e1758627398358.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No more cover-ups – Zonta demands action against sexual abuse in schools",
-      "link": "https://www.myjoyonline.com/no-more-cover-ups-zonta-demands-action-against-sexual-abuse-in-schools/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T17:01:00.000Z",
-      "summary": "The Zonta Clubs of Ghana have called on the Ministry of Education to take urgent action against sexual abuse in schools, demanding swift investigations, accountability and protection for…",
-      "categories": [
-        "National",
-        "Zonta Clubs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/02/Gang-rape.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/18/delegation5.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GPL: Kotoko under pressure to deliver against Young Apostles, Medeama face FC Samartex test",
@@ -144,38 +197,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/ABOABIRE.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Police arrest 41 suspected criminals in intelligence-led operation at Lapaz and Chantan",
-      "link": "https://www.myjoyonline.com/police-arrest-41-suspected-criminals-in-intelligence-led-operation-at-lapaz-and-chantan/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:39:04.000Z",
-      "summary": "The Ghana Police Service has arrested 41 suspects during an intelligence-led operation targeting criminal and narcotics-related activities at Lapaz and Chantan in Accra.",
-      "categories": [
-        "National",
-        "41 suspects",
-        "Chantan",
-        "Lapaz",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1732-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "World Food Day 2026: Forikrom women champion local foods and call for stronger support for rural farmers",
-      "link": "https://www.myjoyonline.com/world-food-day-2026-forikrom-women-champion-local-foods-and-call-for-stronger-support-for-rural-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:30:42.000Z",
-      "summary": "As the world marks World Food Day under the theme “Innovate today. Nourish tomorrow”, women farmers in Forikrom, in the Bono East Region, have added their voices to the global call for…",
-      "categories": [
-        "Regional",
-        "Farmers",
-        "Forikrom",
-        "local foods",
-        "World Food Day 2026"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1711-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Lands Minister charges mining cooperatives: Take the gold, but restore the land",
@@ -259,18 +280,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/shea2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Vapes were meant to help people quit cigarettes. Now non-smokers are taking up vaping",
-      "link": "https://www.graphic.com.gh/news/health/vapes-were-meant-to-help-people-quit-cigarettes-now-non-smokers-are-taking-up-vaping.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T10:35:38.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Vape.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
