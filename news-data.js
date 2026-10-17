@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-16T23:31:28.144Z",
-  "worldAt": "2026-10-16T23:31:28.141Z",
+  "updated": "2026-10-17T01:28:57.690Z",
+  "worldAt": "2026-10-17T01:28:57.688Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,15 +26,15 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 37 stories",
+    "World · BBC News: 33 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 4 stories",
+    "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,66 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T01:19:04.000Z",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"
+    },
+    {
+      "title": "Oregon school shooter was former special needs student, police say",
+      "link": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T00:25:22.000Z",
+      "summary": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed."
+    },
+    {
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T01:18:08.000Z",
+      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7e9/live/0fd9b790-c971-11f1-80fc-ab418b149008.jpg"
+    },
+    {
+      "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T00:00:00.000Z",
+      "summary": "Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz."
+    },
+    {
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T00:41:58.000Z",
+      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae0a/live/7e914b00-c96f-11f1-80fc-ab418b149008.jpg"
+    },
+    {
+      "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T23:55:57.000Z",
+      "summary": "“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump."
+    },
+    {
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-16T23:54:35.000Z",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddb/live/6a9aa9b0-c97a-11f1-a64c-550be9e3c66b.png"
+    },
+    {
+      "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+      "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T23:27:01.000Z",
+      "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions"
+    },
+    {
       "title": "Pope pictured for first time since surgery and cancer diagnosis",
       "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1114,12 +1174,12 @@ window.GDC_NEWS = {
       "summary": "Manchester United are mired in poor form - and Lisandro Martinez's meltdown - now they face on-the-up rivals Leeds."
     },
     {
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-16T23:07:38.000Z",
-      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg"
+      "published": "2026-10-16T23:07:18.000Z",
+      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg"
     },
     {
       "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
@@ -1129,12 +1189,12 @@ window.GDC_NEWS = {
       "summary": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists."
     },
     {
-      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "title": "Katie Zacharia leaving her White House role less than five days on the job",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-16T23:07:18.000Z",
-      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg"
+      "published": "2026-10-16T21:05:05.000Z",
+      "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8455/live/c34abe60-c99d-11f1-8844-b58b162b44d4.jpg"
     },
     {
       "title": "Families demand justice after Pakistan school collapse",
@@ -1333,65 +1393,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-16T18:21:43.000Z",
       "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy."
-    },
-    {
-      "title": "Rights group says eastern Libyan authorities are carrying out executions",
-      "link": "http://www.africanews.com/2026/10/16/rights-group-says-eastern-libyan-authorities-are-carrying-out-executions/",
-      "source": "Africanews",
-      "published": "2026-10-16T16:52:19.000Z",
-      "summary": "Human Rights Watch says the military has killed an estimated 31 people since late August, with at least 50 other people at risk."
-    },
-    {
-      "title": "Ukraine president targets Trump, Putin at EU summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T17:59:48.000Z",
-      "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO."
-    },
-    {
-      "title": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
-      "link": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group",
-      "source": "France 24",
-      "published": "2026-10-16T16:26:46.000Z",
-      "summary": "Irish novelist Sally ⁠Rooney's books will ​no longer be sold in Britain over her plans to use her royalties ​to support Palestine Action, a pro-Palestinian group banned as a terrorist…",
-      "image": "https://s.france24.com/media/display/2950d44c-c97b-11f1-b235-d1d2c32ebb87/w:1024/p:16x9/EN-20261016-161316-161436-CS.jpg"
-    },
-    {
-      "title": "US records 4,410 measles cases as outbreak grows",
-      "link": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T17:40:18.000Z",
-      "summary": "The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts."
-    },
-    {
-      "title": "Argentine demonstration over education cuts ends in clashes",
-      "link": "https://www.france24.com/en/video/20261016-argentine-demonstration-over-education-cuts-ends-in-clashes",
-      "source": "France 24",
-      "published": "2026-10-16T16:25:39.000Z",
-      "summary": "Argentine demonstrators clashed with police on Thursday at a major protest in Buenos Aires over budget-slashing President Javier Milei's higher education spending. The main demonstration…",
-      "image": "https://s.france24.com/media/display/43e43092-c97b-11f1-9d23-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261016-150759-150933-CS.jpg"
-    },
-    {
-      "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
-      "link": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T17:28:41.000Z",
-      "summary": "Ukraine’s 'Operation Vivaldi' reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia."
-    },
-    {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-16T16:00:30.000Z",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg"
-    },
-    {
-      "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T17:05:31.000Z",
-      "summary": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda."
     }
   ],
   "africa": [

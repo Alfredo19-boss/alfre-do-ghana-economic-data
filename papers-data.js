@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-16T23:31:43.720Z",
+  "updated": "2026-10-17T01:29:07.584Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,56 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ablakwa challenges Minority to name evacuee denied GH¢5,500 allowance",
+      "link": "https://www.myjoyonline.com/ablakwa-challenges-minority-to-name-evacuee-denied-gh%c2%a25500-allowance/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T00:29:12.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has challenged the Minority in Parliament to identify a Ghanaian evacuated from South Africa who did not receive the GH¢5,500 allowance…",
+      "categories": [
+        "National",
+        "Ablakwa",
+        "evacuee",
+        "Minority",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/67202644139-0f72ym3xxs-whatsapp-image-2026-06-07-at-101940-am.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Debate, leadership and governance drew me to politics – Ekua Amoakoh",
+      "link": "https://www.myjoyonline.com/debate-leadership-and-governance-drew-me-to-politics-ekua-amoakoh/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T00:22:02.000Z",
+      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says her lifelong interest in debate, governance and leadership…",
+      "categories": [
+        "HP News 3",
+        "Politics",
+        "Bawumia",
+        "Debate",
+        "Ekua Amoakoh",
+        "JoyNews",
+        "Leadership",
+        "PM Express"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-225410-1-1024x526.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘My Grandmother is an NPP Founding member’ – Ekua Amoakoh reveals family’s NPP roots",
+      "link": "https://www.myjoyonline.com/my-grandmother-is-an-npp-founding-member-ekua-amoakoh-reveals-familys-npp-roots/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-16T23:38:52.000Z",
+      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, has revealed that her grandmother was a founding member of the…",
+      "categories": [
+        "Politics",
+        "Ekua Amoakoh",
+        "NPP founding member",
+        "NPP roots"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-1-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Dr. Ekua Amoakoh recounts childhood at Komfo Anokye and how parents pushed her into the medical profession",
       "link": "https://www.myjoyonline.com/dr-ekua-amoakoh-recounts-childhood-at-komfo-anokye-and-how-parents-pushed-her-into-the-medical-profession/",
@@ -48,6 +98,7 @@ window.GDC_PAPERS = {
       "published": "2026-10-16T22:33:34.000Z",
       "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says the party’s recent national executive elections show that…",
       "categories": [
+        "HP News 4",
         "National",
         "Ekua Amoakoh",
         "Election security",
@@ -63,6 +114,7 @@ window.GDC_PAPERS = {
       "published": "2026-10-16T21:44:20.000Z",
       "summary": "JoyNews’ flagship current affairs programme, Newsfile, will on Saturday, October 17, examine four major national issues that have dominated public debate over the past week. Hosted by…",
       "categories": [
+        "HP News 5",
         "National",
         "Radio & TV",
         "EC appointments",
@@ -80,6 +132,7 @@ window.GDC_PAPERS = {
       "published": "2026-10-16T21:37:51.000Z",
       "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa will face questions on Ghana’s bid to join the BRICS economic bloc and the GH¢49.7 million spent evacuating Ghanaians from South Africa when…",
       "categories": [
+        "HP News 2",
         "National",
         "Radio & TV",
         "Ablakwa",
@@ -103,53 +156,6 @@ window.GDC_PAPERS = {
         "World health summit"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-00.06.56-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ECG’s billing adjustments: consumers feel robbed, PURC must intervene",
-      "link": "https://www.myjoyonline.com/ecgs-billing-adjustments-consumers-feel-robbed-purc-must-intervene/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T21:27:34.000Z",
-      "summary": "An electricity bill should explain what a customer owes. When thousands of cedis appear under the word “adjustment”, without a clear account of how the amount was calculated, that bill…",
-      "categories": [
-        "News",
-        "Opinion",
-        "Consumers",
-        "ECG",
-        "PURC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-6.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CompuGhana launches cashback festival with two BYD cars, cash prizes on offer",
-      "link": "https://www.myjoyonline.com/compughana-launches-cashback-festival-with-two-byd-cars-cash-prizes-on-offer/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T21:12:39.000Z",
-      "summary": "Technology retailer CompuGhana has launched a cashback sales festival, offering customers the opportunity to win two brand-new 2026 BYD vehicles, cash prizes, and other electronic…",
-      "categories": [
-        "Business",
-        "National",
-        "cashback festival",
-        "CompuGhana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-21.06.45-1-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Church of Pentecost warns teachers against sexual abuse and harassment of female students",
-      "link": "https://www.myjoyonline.com/church-of-pentecost-warns-teachers-against-sexual-abuse-and-harassment-of-female-students/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-16T21:07:16.000Z",
-      "summary": "The Church of Pentecost’s Schools Outreach Ministry has warned teachers against sexually abusing, harassing or bullying female students, urging educators to uphold professional ethics and…",
-      "categories": [
-        "National",
-        "Church of Pentecost",
-        "Female students",
-        "harrassment",
-        "Sexual abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-20.17.11-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
