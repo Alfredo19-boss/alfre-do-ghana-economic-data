@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T05:58:45.681Z",
+  "updated": "2026-10-17T10:18:34.573Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,13 +25,218 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "SA Evacuation: Minority only rushed to damage my reputation and my ministry’s image – Ablakwa",
+      "link": "https://www.myjoyonline.com/sa-evacuation-minority-only-rushed-to-damage-my-reputation-and-my-ministrys-image-ablakwa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T10:13:43.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has criticised the Minority’s handling of concerns over the South Africa evacuation expenditure, saying its actions have damaged his…",
+      "categories": [
+        "National",
+        "evacuation exercise",
+        "Okudzeto Ablakwa",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1705.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SA evacuation is not the highest; COVID-29 evacuation cost us GH₵96m – Ablakwa",
+      "link": "https://www.myjoyonline.com/sa-evacuation-is-not-the-highest-covid-29-evacuation-cost-us-gh%e2%82%b596m-ablakwa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T10:06:06.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has said Ghana spent GH¢96.97 million on the evacuation of citizens during the COVID-19 pandemic by the previous NPP government, more than…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "COVID-29 evacuation",
+        "SA evacuation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-67.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accra Mall steps up customer experience drive with family fun day",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-accra-mall-steps-up-customer-experience-drive-with-family-fun-day.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T10:03:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/activities.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "56,003 Teachers receive teacher promotion salaries, arrears",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-56-003-teachers-receive-teacher-promotion-salaries-arrears.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T10:00:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Kwasi.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Protect mining communities from environmental degradation, rights abuses - ActionAid",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-protect-mining-communities-from-environmental-degradation-rights-abuses-actionaid.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T09:57:44.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Denkyira.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Baobab census project launched at HTU",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-baobab-census-project-launched-at-htu.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T09:49:33.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Honyenuga.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Children received the same GH¢5,500 support as adults in South Africa evacuation – Ablakwa",
+      "link": "https://www.myjoyonline.com/children-received-the-same-gh%c2%a25500-support-as-adults-in-south-africa-evacuation-ablakwa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T09:48:19.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has defended the payment of equal reintegration and transport allowances to children and adults evacuated from South Africa.",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Evacuation",
+        "John Mahama",
+        "Okudzeto Ablakwa",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/12182024124138-qvmxpcb553-samuel-okudzeto-ablakwa-chairs-anti-corruption-drive.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AIDS Commission launches Youth Desk to boost HIV response",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-aids-commission-launches-youth-desk-to-boost-hiv-response.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T09:38:33.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Infrastructure drive to boost socio-economic growth at Banda-Ahenkro",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-infrastructure-drive-to-boost-socio-economic-growth-at-banda-ahenkro.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T09:35:20.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Peter.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Beyond representation: Making Affirmative Action work inside Ghana’s political parties",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-beyond-representation-making-affirmative-action-work-inside-ghanas-political-parties.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T09:30:52.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/election.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Political goodwill is not lost overnight",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-political-goodwill-is-not-lost-overnight.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T09:25:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/polling.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Samson’s Take: Justice at the police station, relief at the bus stop",
+      "link": "https://www.myjoyonline.com/samsons-take-justice-at-the-police-station-relief-at-the-bus-stop/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T09:12:11.000Z",
+      "summary": "My take: Justice at the police station, relief at the bus stop. Two developments caught my attention this week. Both are fundamental. Both speak to problems ordinary Ghanaians confront…",
+      "categories": [
+        "In Focus",
+        "National",
+        "Bus stop",
+        "Justice",
+        "samson"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1703.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Not a cedi missing in South Africa evacuation exercise – Ablakwa",
+      "link": "https://www.myjoyonline.com/not-a-cedi-missing-in-south-africa-evacuation-exercise-ablakwa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T09:06:18.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has rejected allegations of corruption in the evacuation of Ghanaians from South Africa, insisting that not a cedi is missing from funds…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "evacuation exercise",
+        "Okudzeto Ablakwa",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-8.40.52-AM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama commends Ablakwa for Ghana’s UNHRC re-election",
+      "link": "https://www.myjoyonline.com/president-mahama-commends-ablakwa-for-ghanas-unhrc-re-election/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T08:24:08.000Z",
+      "summary": "President John Dramani Mahama has commended the Ministry of Foreign Affairs and the Minister of Foreign Affairs, Samuel Okudzeto Ablakwa, for successfully leading Ghana's campaign for…",
+      "categories": [
+        "National",
+        "Election",
+        "Ghana",
+        "President Mahama",
+        "United Nations Human Rights Council (UNHRC)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1701.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PAC calls for greater transparency in tax collection",
+      "link": "https://www.myjoyonline.com/pac-calls-for-greater-transparency-in-tax-collection/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T08:20:07.000Z",
+      "summary": "The Public Accounts Committee (PAC) has called on the Ghana Revenue Authority (GRA) to intensify efforts to recover outstanding taxes owed by public institutions and businesses cited in the…",
+      "categories": [
+        "National",
+        "PAC Chair",
+        "Tax"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1702.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Mahama swears in four envoys, tasks them with attracting investment",
       "link": "https://www.myjoyonline.com/mahama-swears-in-four-envoys-tasks-them-with-attracting-investment/",
       "source": "MyJoyOnline",
       "published": "2026-10-17T05:47:18.000Z",
       "summary": "President John Dramani Mahama has sworn in four ambassadors, charging them to attract investment, expand trade and create opportunities for Ghanaians abroad as part of the government’s…",
       "categories": [
-        "HP News 3",
         "National",
         "Envoys",
         "Investment",
@@ -40,181 +245,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/envoy-1-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IShowSpeed partners Obamas to bring Ghana history documentary to cinemas on October 28",
-      "link": "https://www.myjoyonline.com/ishowspeed-partners-obamas-to-bring-ghana-history-documentary-to-cinemas-on-october-28/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T05:35:27.000Z",
-      "summary": "Streaming star IShowSpeed has partnered with Breakwater Studios and Higher Ground Productions to bring The Eyes of Ghana, a documentary about the preservation of Ghana’s cinematic history…",
-      "categories": [
-        "Africa",
-        "Arts and Culture",
-        "News",
-        "cinemas",
-        "iShowSpeed",
-        "Obamas"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-204905.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia will become President, Ghanaian youth stand to benefit – Ekua Amoakoh",
-      "link": "https://www.myjoyonline.com/bawumia-will-become-president-ghanaian-youth-stand-to-benefit-ekua-amoakoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T04:06:13.000Z",
-      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says she believes Dr Bawumia will eventually become President of…",
-      "categories": [
-        "National",
-        "Politics",
-        "Bawumia",
-        "President",
-        "Youth"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Dr-Bawumia-at-the-NPP-HQ-awaiting-his-official-deckration-as-thew-winner-1024x687.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ekua Amoakoh explains how Bawumia’s policy ideas drew her closer to NPP before 2024 elections",
-      "link": "https://www.myjoyonline.com/ekua-amoakoh-explains-how-bawumias-policy-ideas-drew-her-closer-to-npp-before-2024-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T03:46:09.000Z",
-      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says a briefing by Dr Bawumia helped convince her to become more…",
-      "categories": [
-        "Politics",
-        "2024 elections",
-        "Bawumia",
-        "Ekua Amoakoh",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-9-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I sacrificed my dream of becoming a maxillofacial surgeon for politics – Ekua Amoakoh",
-      "link": "https://www.myjoyonline.com/i-sacrificed-my-dream-of-becoming-a-maxillofacial-surgeon-for-politics-ekua-amoakoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T03:27:23.000Z",
-      "summary": "Spokesperson for NPP Flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee, Dr Ekua Amoakoh, says her involvement in politics cost her the opportunity to…",
-      "categories": [
-        "Politics",
-        "Ekua Amoakoh",
-        "maxillofacial surgeon",
-        "Medical doctor",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-03.15.21-1024x545.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘It was very difficult to be NPP in 2024’ – Ekua Amoakoh",
-      "link": "https://www.myjoyonline.com/it-was-very-difficult-to-be-npp-in-2024-ekua-amoakoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T02:57:50.000Z",
-      "summary": "Spokesperson for NPP flagbearer Dr Mahamudu Bawumia and the New Patriotic Party’s (NPP) Health Committee has recounted how her research into the party’s health sector record ahead of the…",
-      "categories": [
-        "Politics",
-        "2024",
-        "Bawumia",
-        "Ekua Amoakoh",
-        "Health sector",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-02.46.53-1024x533.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa challenges Minority to identify an evacuee denied GH¢5,500 allowance",
-      "link": "https://www.myjoyonline.com/ablakwa-challenges-minority-to-identify-an-evacuee-denied-gh%c2%a25500-allowance/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T00:29:12.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has challenged the Minority in Parliament to identify a Ghanaian evacuated from South Africa who did not receive the GH¢5,500 allowance…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Ablakwa",
-        "evacuee",
-        "Minority",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/67202644139-0f72ym3xxs-whatsapp-image-2026-06-07-at-101940-am.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa challenges Minority to name evacuee denied GH¢5,500 allowance",
-      "link": "https://www.myjoyonline.com/ablakwa-challenges-minority-to-name-evacuee-denied-gh%c2%a25500-allowance/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T00:29:12.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has challenged the Minority in Parliament to identify a Ghanaian evacuated from South Africa who did not receive the GH¢5,500 allowance…",
-      "categories": [
-        "National",
-        "Ablakwa",
-        "evacuee",
-        "Minority",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/67202644139-0f72ym3xxs-whatsapp-image-2026-06-07-at-101940-am.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama commends Ablakwa for Ghana's UNHRC re-election",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-commends-ablakwa-for-ghanas-unhrc-re-election.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T19:44:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana seeks wider trade and investment opportunities through BRICS",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-seeks-wider-trade-and-investment-opportunities-through-brics.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T19:35:14.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest man for cultivating cannabis along Volta Lake",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-man-for-cultivating-cannabis-along-volta-lake.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T19:08:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/exhibit.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "University of Ghana sets October 19 reopening date, lectures start October 26",
-      "link": "https://www.graphic.com.gh/news/general-news/ug-sets-26-october-for-lectures-a-week-after-knust-as-strike-delays-end.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T18:50:08.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/11/ug2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Free breast cancer screening ends in Krowor",
-      "link": "https://www.graphic.com.gh/news/general-news/free-breast-cancer-screening-ends-in-krowor.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T16:49:08.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "IGP deploys additional specialised team and armoured vehicle to Nkwanta",
@@ -282,30 +312,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Police restore calm at Manso-Nseina after shooting incident",
-      "link": "https://www.graphic.com.gh/news/general-news/police-restore-calm-at-manso-nseina-after-shooting-incident.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T16:04:53.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2022/feb/03/policee.png",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "IGP deploys specialised police team, armoured vehicle to Nkwanta",
-      "link": "https://www.graphic.com.gh/news/general-news/igp-deploys-specialised-police-team-armoured-vehicle-to-nkwanta.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T16:03:11.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/16/police.png",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Akosua Manu queries Ministers over response to child abuse allegations",
       "link": "https://ghanaiantimes.com.gh/akosua-manu-queries-ministers-over-response-to-child-abuse-allegations/",
       "source": "Ghanaian Times",
@@ -317,18 +323,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Man arrested with AK-47, pump-action shotgun in Kpando",
-      "link": "https://www.graphic.com.gh/news/general-news/man-arrested-with-ak-47-pump-action-shotgun-in-kpando.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-16T16:00:39.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/16/drugs.png",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "NSA extends 2026/2027 National service registration deadline to October 23",
