@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-17T21:04:09.772Z",
-  "worldAt": "2026-10-17T21:04:09.769Z",
+  "updated": "2026-10-17T23:02:33.112Z",
+  "worldAt": "2026-10-17T23:02:33.109Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,21 +20,21 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 4/25 stories",
+    "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
-    "The High Street Journal: 10/10 stories",
+    "The High Street Journal: failed (HTTP 403)",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 23 stories",
+    "World · BBC News: 27 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -46,6 +46,13 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "British Museum must do more, including full return of all 'looted' Asante gold, Ethiopian Tabots and Benin Bronzes - Lord Boateng",
+      "link": "https://www.graphic.com.gh/news/general-news/british-museum-must-do-more-including-full-return-of-all-looted-asante-gold-ethiopian-tabots-and-benin-bronzes-lord-boateng.html",
+      "source": "Graphic Online",
+      "published": "2026-10-17T22:07:29.000Z",
+      "summary": ""
+    },
     {
       "title": "Hubtel deployed AI to help ECG identify suspected electricity theft – CEO",
       "link": "https://www.myjoyonline.com/hubtel-deployed-ai-to-help-ecg-identify-suspected-electricity-theft-ceo/",
@@ -1088,16 +1095,69 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-15T05:05:00.000Z",
       "summary": "A senior GRA official attributes confusion over the 20% digital services tax to bank miscommunication as the authority clarifies that the tax is not new."
-    },
-    {
-      "title": "Digital Payment Trails Open New Credit Channels for Small Businesses",
-      "link": "https://thehighstreetjournal.com/digital-payment-trails-small-businesses/",
-      "source": "The High Street Journal",
-      "published": "2026-10-15T05:04:59.000Z",
-      "summary": "India’s GST system, instant payments and consent-based data sharing are helping lenders assess firms that lack conventional collateral, while fintechs in Mexico and Thailand are using…"
     }
   ],
   "world": [
+    {
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T22:09:50.000Z",
+      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png"
+    },
+    {
+      "title": "Student protests widen into greater social unrest in France",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+      "source": "NPR World",
+      "published": "2026-10-17T21:18:52.000Z",
+      "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent."
+    },
+    {
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T21:33:17.000Z",
+      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
+      "source": "NPR World",
+      "published": "2026-10-17T21:18:50.000Z",
+      "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal."
+    },
+    {
+      "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+      "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T21:08:10.000Z",
+      "summary": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches."
+    },
+    {
+      "title": "Anti-government protesters battle with police in Albania",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T20:53:00.000Z",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"
+    },
+    {
+      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+      "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T21:02:26.000Z",
+      "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU."
+    },
+    {
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T20:52:17.000Z",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg"
+    },
     {
       "title": "Ten killed in fire at beach resort in Bangladesh",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
@@ -1136,11 +1196,12 @@ window.GDC_NEWS = {
       "summary": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France."
     },
     {
-      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-      "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-17T19:17:00.000Z",
-      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president…"
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T19:19:16.000Z",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg"
     },
     {
       "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
@@ -1148,6 +1209,35 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-17T20:02:22.000Z",
       "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz"
+    },
+    {
+      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+      "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-17T19:17:00.000Z",
+      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president…"
+    },
+    {
+      "title": "At least 17 killed in stampede at religious gathering in India",
+      "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T19:48:54.000Z",
+      "summary": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said."
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T18:38:57.000Z",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"
+    },
+    {
+      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+      "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T19:26:13.000Z",
+      "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation."
     },
     {
       "title": "India: Police crack down on New Delhi protests",
@@ -1158,11 +1248,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/847e0698-ca1e-11f1-a4f6-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261017-121203-121358-CS.jpg"
     },
     {
-      "title": "At least 17 killed in stampede at religious gathering in India",
-      "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
+      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T19:48:54.000Z",
-      "summary": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said."
+      "published": "2026-10-17T19:04:00.000Z",
+      "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down."
     },
     {
       "title": "Brazil: Amazon deforestation at 40-year low",
@@ -1173,11 +1263,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7770bf44-ca42-11f1-865c-6313a763b466/w:1024/p:16x9/EN-20261017-142458-142642-CS.jpg"
     },
     {
-      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-      "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
+      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T19:26:13.000Z",
-      "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation."
+      "published": "2026-10-17T19:03:49.000Z",
+      "summary": "US support at risk as Trump-Zelenskyy relations nosedive."
     },
     {
       "title": "Scuffles and fires break out as protesters rally across France, joining students",
@@ -1188,11 +1278,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2Feb%2F568abeb84af6bbb784b8ce305682%2Fap26290464234778.jpg"
     },
     {
-      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+      "title": "Is the US Embassy in Jerusalem for Israel or America?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T19:04:00.000Z",
-      "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down."
+      "published": "2026-10-17T18:41:30.000Z",
+      "summary": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?"
     },
     {
       "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
@@ -1203,11 +1293,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5f500ace-ca41-11f1-8347-6313a763b466/w:1024/p:16x9/EN-20261017-170858-171041-CS.jpg"
     },
     {
-      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T19:03:49.000Z",
-      "summary": "US support at risk as Trump-Zelenskyy relations nosedive."
+      "published": "2026-10-17T18:26:59.000Z",
+      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago."
     },
     {
       "title": "Protests in France: \"Two fires broke out in Place de la République\"",
@@ -1218,11 +1308,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/02bc98c2-ca41-11f1-95d8-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261017-170100-170648-CS.jpg"
     },
     {
-      "title": "Is the US Embassy in Jerusalem for Israel or America?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T18:41:30.000Z",
-      "summary": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?"
+      "published": "2026-10-17T17:42:01.000Z",
+      "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game."
     },
     {
       "title": "US: Four killed in Oregon school shooting",
@@ -1233,11 +1323,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ca2a73b0-ca38-11f1-a47e-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-131913-132114-CS.jpg"
     },
     {
-      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "title": "Pope Leo returns to Vatican after lung cancer surgery",
+      "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T18:26:59.000Z",
-      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago."
+      "published": "2026-10-17T17:37:52.000Z",
+      "summary": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday."
     },
     {
       "title": "Protests in France: \"Living conditions are too harsh\"",
@@ -1248,11 +1338,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/38ab95fc-ca3a-11f1-aa7b-d1d2c32ebb87/w:1024/p:16x9/EN-20261017-140101-141839-CS.jpg"
     },
     {
-      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-      "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T17:42:01.000Z",
-      "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game."
+      "published": "2026-10-17T17:24:07.000Z",
+      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine."
     },
     {
       "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
@@ -1263,11 +1353,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3792x2528+0+0/resize/3792x2528!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fae%2Faa9d542c4b2680f6aa607bf717dc%2Fap26290494298005.jpg"
     },
     {
-      "title": "Pope Leo returns to Vatican after lung cancer surgery",
-      "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T17:37:52.000Z",
-      "summary": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday."
+      "published": "2026-10-17T17:18:50.000Z",
+      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues."
     },
     {
       "title": "France: What's different about today's protests?",
@@ -1278,11 +1368,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/33426cd0-ca3a-11f1-b890-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-150100-150446-CS.jpg"
     },
     {
-      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+      "title": "Al Jazeera reports from Paris as protests turn violent",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T17:24:07.000Z",
-      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine."
+      "published": "2026-10-17T16:56:40.000Z",
+      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services."
     },
     {
       "title": "Israeli settlers attack European delegation convoy in West Bank, beat French mayor",
@@ -1293,35 +1383,6 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/99f3ef8a-ca3a-11f1-b233-2d1c143cdef3/w:1024/p:16x9/000-D3CR48X.jpg"
     },
     {
-      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T17:18:50.000Z",
-      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues."
-    },
-    {
-      "title": "China's influence in the gaming industry is growing",
-      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-17T14:49:00.000Z",
-      "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players…"
-    },
-    {
-      "title": "Al Jazeera reports from Paris as protests turn violent",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T16:56:40.000Z",
-      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services."
-    },
-    {
-      "title": "France: \"We've seen extremely high tensions between protesters and law enforcement\"",
-      "link": "https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement",
-      "source": "France 24",
-      "published": "2026-10-17T14:46:52.000Z",
-      "summary": "Protesters across France called for street demonstrations on Saturday against rising living costs. France 24's Antonia Kerrigan reports from Paris. \"The march from here to Place de Clichy…",
-      "image": "https://s.france24.com/media/display/81494806-ca38-11f1-95a3-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261017-130538-131009-CS.jpg"
-    },
-    {
       "title": "Why are Latin American countries building closer ties with Israel?",
       "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1329,71 +1390,11 @@ window.GDC_NEWS = {
       "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza."
     },
     {
-      "title": "France: Students, unions and Yellow Vests unite against austerity",
-      "link": "https://www.france24.com/en/video/20261017-france-students-unions-and-yellow-vests-unite-against-austerity",
-      "source": "France 24",
-      "published": "2026-10-17T14:45:55.000Z",
-      "summary": "190 000 people could demonstrate this Saturday in France. They called for street demonstrations Saturday against rising living costs, joining high school students' grievances over education…",
-      "image": "https://s.france24.com/media/display/b40d67d8-ca36-11f1-acb1-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-130200-130306-CS.jpg"
-    },
-    {
-      "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T16:49:07.000Z",
-      "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks."
-    },
-    {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-      "source": "NPR World",
-      "published": "2026-10-17T14:25:10.000Z",
-      "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further…",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F96%2Fd6b29b774dbcbbb820e6e569974b%2Fap26290438386008.jpg"
-    },
-    {
-      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
-      "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T16:48:46.000Z",
-      "summary": "⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases."
-    },
-    {
-      "title": "Egypt's President Sisi will step down when term expires in 2030",
-      "link": "http://www.africanews.com/2026/10/17/egypts-president-sisi-will-step-down-when-term-expires-in-2030/",
-      "source": "Africanews",
-      "published": "2026-10-17T14:18:28.000Z",
-      "summary": "Egypt’s President Abdel Fattah al-Sisi says he’ll leave office when his term expires in 2030. Making the announcement on Saturday, Sisi described the matter as “completely settled.”"
-    },
-    {
-      "title": "Buildings and cars set on fire as cost of living protests rock France",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T16:00:40.000Z",
-      "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate."
-    },
-    {
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-17T13:51:36.000Z",
-      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"
-    },
-    {
-      "title": "Pope Leo leaves hospital after lung cancer surgery",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T15:47:52.000Z",
-      "summary": "Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery"
-    },
-    {
-      "title": "Will Paramount’s creation of Skydance test France’s cultural exception?",
-      "link": "https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception",
-      "source": "France 24",
-      "published": "2026-10-17T13:43:00.000Z",
-      "summary": "Skydance’s $110 billion creation tests whether France’s cultural exception can still compel a leveraged global media giant to fund, protect and prioritise French creativity, or merely treat…",
-      "image": "https://s.france24.com/media/display/bf8a0328-c98c-11f1-89cd-638c1c1f5fd6/w:1024/p:16x9/AP26281749224640.jpg"
+      "title": "China's influence in the gaming industry is growing",
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-17T14:49:00.000Z",
+      "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players…"
     }
   ],
   "africa": [

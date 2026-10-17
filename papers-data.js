@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T21:04:22.436Z",
+  "updated": "2026-10-17T23:02:50.627Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,111 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana must protect national interest in pursuit of BRICS membership – Hassan Ayariga",
+      "link": "https://www.myjoyonline.com/ghana-must-protect-national-interest-in-pursuit-of-brics-membership-hassan-ayariga/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T22:56:00.000Z",
+      "summary": "The Founder and Leader of the All People’s Congress (APC), Hassan Ayariga, has cautioned Ghana against exchanging one form of economic dependency for another as the government pursues…",
+      "categories": [
+        "News",
+        "APC",
+        "BRICS",
+        "Hassan Ayariga",
+        "Parliament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-5-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "How Odwira@200 was celebrated at Aburi amidst a heavy downpour",
+      "link": "https://www.graphic.com.gh/news/general-news/how-odwira-200-was-celebrated-at-aburi-amidst-a-heavy-downpour.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T22:48:21.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/18/aburi1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Multimedia Group wins Media Organisation of the Year award at the 2025 CIMG Awards",
+      "link": "https://www.myjoyonline.com/multimedia-group-wins-media-organisation-of-the-year-award-at-the-2025-cimg-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T22:30:03.000Z",
+      "summary": "The Multimedia Group Limited has been named Marketing-Oriented Media Organisation of the Year for 2025 at the 37th Annual National Marketing Performance Awards organised by the Chartered…",
+      "categories": [
+        "Events",
+        "National",
+        "CIMG 2025",
+        "Labadi Beach Hotel",
+        "Multimedia Group"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_4173.jpg-1024x554.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Multimedia Group’s #NoToGalamsey campaign wins CIMG New Media Campaign Award",
+      "link": "https://www.myjoyonline.com/multimedia-groups-notogalamsey-campaign-wins-cimg-new-media-campaign-award/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T22:22:30.000Z",
+      "summary": "The Multimedia Group’s anti-galamsey campaign, Galamsey Fight (#NoToGalamsey), has won the New Media Campaign Award at the 37th Annual National Marketing Performance Awards. The award…",
+      "categories": [
+        "Events",
+        "National",
+        "CIMG",
+        "Multimedia Group",
+        "New media campaign"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/MGL.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "British Museum must do more, including full return of all 'looted' Asante gold, Ethiopian Tabots and Benin Bronzes - Lord Boateng",
+      "link": "https://www.graphic.com.gh/news/general-news/british-museum-must-do-more-including-full-return-of-all-looted-asante-gold-ethiopian-tabots-and-benin-bronzes-lord-boateng.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T22:07:29.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/18/lord_boateng.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hassan Ayariga challenges Mahama over BRICS move, demands parliamentary consultation",
+      "link": "https://www.myjoyonline.com/hassan-ayariga-challenges-mahama-over-brics-move-demands-parliamentary-consultation/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T21:50:00.000Z",
+      "summary": "The Founder and Leader of the All People’s Congress (APC), Dr Hassan Ayariga, has challenged President John Dramani Mahama over the government’s plan to pursue Ghana’s membership of BRICS…",
+      "categories": [
+        "National",
+        "Politics",
+        "BRICS move",
+        "Hassan Ayariga",
+        "Mahama",
+        "Parliament"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-4-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Belgium-based ICGC pastor enstooled Amanonehene of Abotakyi",
+      "link": "https://www.myjoyonline.com/belgium-based-icgc-pastor-enstooled-amanonehene-of-abotakyi/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T21:32:27.000Z",
+      "summary": "A 44-year-old Reverend Minister of the International Central Gospel Church (ICGC), Rev. Richard Tagoe, has been enstooled Amanonehene of Abotakyi in the Akuapem Traditional Area of the…",
+      "categories": [
+        "Regional",
+        "Abotakyi",
+        "amanonehene",
+        "ICGC",
+        "Pastor"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Tagoe.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GPL 2026/27: Hearts of Oak seal back-to-back wins as Berekum Chelsea shock Lions in Kpando",
       "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-of-oak-seal-back-to-back-wins-as-berekum-chelsea-shock-lions-in-kpando/",
@@ -74,95 +179,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Hubtel deployed AI to help ECG identify suspected electricity theft – CEO",
-      "link": "https://www.myjoyonline.com/hubtel-deployed-ai-to-help-ecg-identify-suspected-electricity-theft-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:29:58.000Z",
-      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has disclosed that the company worked with the Electricity Company of Ghana (ECG) to use artificial intelligence (AI) to help identify…",
-      "categories": [
-        "Business",
-        "National",
-        "News",
-        "Technology",
-        "AI and The Ghana Economy",
-        "Alex Bram",
-        "Digital Economy Forum",
-        "ECG",
-        "Hubtel"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-13.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government appoints AI focal persons across ministries to drive national strategy",
-      "link": "https://www.myjoyonline.com/government-appoints-ai-focal-persons-across-ministries-to-drive-national-strategy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:28:54.000Z",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has disclosed that the government has appointed artificial intelligence (AI) focal persons across all…",
-      "categories": [
-        "Business",
-        "National",
-        "News",
-        "AI and The Ghana Economy",
-        "Digital Economy Forum",
-        "Sam George"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-12.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana needs AI engineers and data scientists, not just computing infrastructure – Hubtel CEO",
-      "link": "https://www.myjoyonline.com/ghana-needs-ai-engineers-and-data-scientists-not-just-computing-infrastructure-hubtel-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:27:13.000Z",
-      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has urged the government to match its planned investments in artificial intelligence (AI) infrastructure with funding for specialised…",
-      "categories": [
-        "Economy",
-        "National",
-        "News",
-        "Technology",
-        "AI",
-        "Artificial Intelligence (AI)",
-        "data scientists",
-        "Digital Economy Forum",
-        "Hubtel"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-9.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trunk sellers count losses as SHS students embrace suitcases",
-      "link": "https://www.myjoyonline.com/trunk-sellers-count-losses-as-shs-students-embrace-suitcases/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:26:45.000Z",
-      "summary": "Locally made metal trunk sellers in Accra say their businesses are going through a difficult period as more senior high school (SHS) students opt for suitcases, leaving traders with unsold…",
-      "categories": [
-        "National",
-        "SHS Students",
-        "suitcases",
-        "Trunk Sellers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1733.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "A proper reset would’ve been to clear the EC and set new standards – Suhuyini on EC appointments",
-      "link": "https://www.myjoyonline.com/a-proper-reset-wouldve-been-to-clear-the-ec-and-set-new-standards-suhuyini-on-ec-appointments/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:17:50.000Z",
-      "summary": "Deputy Minister for Roads and Highways Alhassan Suhuyini says a proper reset of Ghana’s Electoral Commission (EC) would have involved replacing the existing commissioners and establishing a…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Alhassan Suhuniyi",
-        "Appointment",
-        "EC",
-        "Reset"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1715.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana to post teachers, nurses to U.S. Virgin Islands under new bilateral accord",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-to-post-teachers-nurses-to-u-s-virgin-islands-under-new-bilateral-accord.html",
       "source": "Daily Graphic",
@@ -172,6 +188,18 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/18/delegation5.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana must review process for appointing commissioners for Electoral Commission - UCC political science lecturer",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-must-review-process-for-appointing-commissioners-for-electoral-commission-ucc-political-science-lecturer.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T17:06:18.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/asanteprof.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -244,42 +272,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/June/07/flood10.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ashanti PURC secures GH¢338,000 refund for consumers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ashanti-purc-secures-ghc338-000-refund-for-consumers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T10:53:04.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Shafic.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Telecom Chamber educates communities on MoMo fraud",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-telecom-chamber-educates-communities-on-momo-fraud.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T10:50:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Owusu-Ankomah.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Shea industry players call for investment in shea testing facilities",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-shea-industry-players-call-for-investment-in-shea-testing-facilities.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T10:38:21.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/shea2.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
