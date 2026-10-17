@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T13:49:01.168Z",
+  "updated": "2026-10-17T16:41:27.963Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,39 +25,144 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Credit growth rose 34% to GH¢128.3 billion as of August 2026 – BoG",
-      "link": "https://www.myjoyonline.com/credit-growth-rose-34-to-gh%c2%a2128-3-billion-as-of-august-2026-bog/",
+      "title": "Police arrest 41 suspected criminals in intelligence-led operation at Lapaz and Chantan",
+      "link": "https://www.myjoyonline.com/police-arrest-41-suspected-criminals-in-intelligence-led-operation-at-lapaz-and-chantan/",
       "source": "MyJoyOnline",
-      "published": "2026-10-17T13:25:16.000Z",
-      "summary": "According to the September 2026 Monetary Policy Report, stronger lending to the private sector and a rebound in public sector credit drove the expansion.",
+      "published": "2026-10-17T15:39:04.000Z",
+      "summary": "The Ghana Police Service has arrested 41 suspects during an intelligence-led operation targeting criminal and narcotics-related activities at Lapaz and Chantan in Accra.",
       "categories": [
-        "Banking and Finance",
-        "Business",
-        "BoG",
-        "construction sector",
-        "credit",
-        "MPR",
-        "private sector",
-        "Public Sector",
-        "Services sector"
+        "National",
+        "41 suspects",
+        "Chantan",
+        "Lapaz",
+        "Police"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/02/yourstory_loans.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1732-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "From passion to enterprise: Exzanita Aidoo journey into fashion entrepreneurship",
-      "link": "https://www.myjoyonline.com/from-passion-to-enterprise-exzanita-aidoo-journey-into-fashion-entrepreneurship/",
+      "title": "World Food Day 2026: Forikrom women champion local foods and call for stronger support for rural farmers",
+      "link": "https://www.myjoyonline.com/world-food-day-2026-forikrom-women-champion-local-foods-and-call-for-stronger-support-for-rural-farmers/",
       "source": "MyJoyOnline",
-      "published": "2026-10-17T13:18:34.000Z",
-      "summary": "In an era where entrepreneurship is increasingly becoming an attractive pathway for young people seeking financial independence, personal fulfilment and economic empowerment, the story of…",
+      "published": "2026-10-17T15:30:42.000Z",
+      "summary": "As the world marks World Food Day under the theme “Innovate today. Nourish tomorrow”, women farmers in Forikrom, in the Bono East Region, have added their voices to the global call for…",
+      "categories": [
+        "Regional",
+        "Farmers",
+        "Forikrom",
+        "local foods",
+        "World Food Day 2026"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1711-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fanaka International University & GISI sign MoU to enhance professional capital market training",
+      "link": "https://www.myjoyonline.com/fanaka-international-university-gisi-sign-mou-to-enhance-professional-capital-market-training/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T15:29:13.000Z",
+      "summary": "Fanaka International University College and the Ghana Investment and Securities Institute (GISI) have signed a Memorandum of Understanding to integrate professional capital market training…",
       "categories": [
         "Business",
-        "Features",
-        "CK Collection",
-        "Exzanita Aidoo"
+        "National",
+        "capital market training",
+        "Fanaka International University",
+        "GISI"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Picture2.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1720-1024x570.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PHOTOS: Patronage surges as Republic Bank–JoyNews Habitat Fair enters day 2 in Ho",
+      "link": "https://www.myjoyonline.com/photos-patronage-surges-as-republic-bank-joynews-habitat-fair-enters-day-2-in-ho/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T15:23:59.000Z",
+      "summary": "More visitors are trooping to the Ho Sports Stadium as Day Two of the Republic Bank–JoyNews Habitat Fair gets underway in the Volta Regional capital.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "Photo Story",
+        "Ho",
+        "Republic Bank-JoyNews Habitat Fair"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017140028_IMG_9497.jpg-1024x773.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Diana Hamilton releases new single ‘Wate M’anim’",
+      "link": "https://www.myjoyonline.com/diana-hamilton-releases-new-single-wate-manim/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T15:16:55.000Z",
+      "summary": "Diana Hamilton has released her new single, “Wate Manim,” which arrived on Friday, 16 October 2026, across all streaming platforms, alongside its accompanying music video on YouTube.",
+      "categories": [
+        "Arts and Culture",
+        "Comp. Entertainment",
+        "Music",
+        "National",
+        "Diana Hamilton",
+        "“Wate Manim"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1731-754x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana proposes visa waiver agreement with Lebanon to boost bilateral ties",
+      "link": "https://www.myjoyonline.com/ghana-proposes-visa-waiver-agreement-with-lebanon-to-boost-bilateral-ties/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T15:16:07.000Z",
+      "summary": "Ghana has proposed a visa waiver agreement with Lebanon covering holders of diplomatic, service, and ordinary passports to strengthen bilateral relations and facilitate travel, trade, and…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Lebanon",
+        "Visa waiver"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1721-1024x682.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Disqualify Obuasi SHTS headmaster from Juaben NDC chairmanship race – Former NDC MP urges party",
+      "link": "https://www.myjoyonline.com/disqualify-obuasi-shts-headmaster-from-juaben-ndc-chairmanship-race-former-ndc-mp-urges-party/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T15:09:19.000Z",
+      "summary": "Former Member of Parliament for Amenfi Central, Peter Kwakye Ackah, has called on the National Democratic Congress (NDC) to disqualify the headmaster of Obuasi Senior High Technical School…",
+      "categories": [
+        "Education",
+        "National",
+        "MP",
+        "NDC",
+        "Obusai SHTS Headmaster"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-68-e1792250312462-1024x704.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP has resolved its internal wrangling – Bawumia",
+      "link": "https://www.myjoyonline.com/npp-has-resolved-its-internal-wrangling-bawumia/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T15:08:44.000Z",
+      "summary": "The former Vice President, Dr Mahamudu Bawumia, the New Patriotic Party’s (NPP) flagbearer for the 2028 elections, says the party has resolved its internal wrangling, urging members at the…",
+      "categories": [
+        "National",
+        "Politics",
+        "Bawumia",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/dr-mahamudu-bawumia-takes-a-stan-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Lands Minister charges mining cooperatives: Take the gold, but restore the land",
+      "link": "https://www.graphic.com.gh/news/general-news/lands-minister-charges-mining-cooperatives-take-the-gold-but-restore-the-land.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T14:37:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/16/1b1ecb00-2f20-4c05-8985-d1adf78c8896.jpeg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Education Ministry should protect girls and hold sexual abusers accountable - Zonta Clubs",
@@ -70,102 +175,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/haruna_is.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dep. Finance Minister calls for stronger internal controls to protect public funds",
-      "link": "https://www.myjoyonline.com/dep-finance-minister-calls-for-stronger-internal-controls-to-protect-public-funds/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T12:55:47.000Z",
-      "summary": "Speaking at the 25th anniversary of the Institute of Internal Auditors Ghana, Mr Ampem said internal auditors must move beyond identifying weaknesses after they had occurred to helping…",
-      "categories": [
-        "Business",
-        "Energy",
-        "IAA",
-        "Ministry of Finance",
-        "Thomas Nyarko Ampem"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-11.37.55-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Social engineering, not hacking, driving MoMo fraud in Ghana – MobileMoney Fintech",
-      "link": "https://www.myjoyonline.com/social-engineering-not-hacking-driving-momo-fraud-in-ghana-mobilemoney-fintech/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T12:43:52.000Z",
-      "summary": "Mobile money fraudsters in Ghana are increasingly exploiting human behaviour rather than relying on sophisticated hacking techniques to steal customers’ money, according to MobileMoney…",
-      "categories": [
-        "National",
-        "Technology",
-        "Hacking",
-        "MoMo Fraud",
-        "Social Engineering"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-11.20.55-1-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "South Africa Evacuation: We haven’t accused Ablakwa of wrongdoing; we want an audit – Minority",
-      "link": "https://www.myjoyonline.com/south-africa-evacuation-we-havent-accused-ablakwa-of-wrongdoing-we-want-an-audit-minority/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T12:26:24.000Z",
-      "summary": "The Ranking Member of Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, says the Minority has not accused Foreign Affairs Minister Samuel Okudzeto Ablakwa of wrongdoing in the…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "News",
-        "Foreign Affairs",
-        "Minority in Parliament",
-        "NPP",
-        "Samuel Jinapor",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-9.34.53-AM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Michael Tetteh Kwetey picks Number 1 on ballot for NDC Greater Accra Chairmanship race",
-      "link": "https://www.myjoyonline.com/michael-tetteh-kwetey-picks-number-1-on-ballot-for-ndc-greater-accra-chairmanship-race/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T12:23:04.000Z",
-      "summary": "Michael Tetteh Kwetey, a contender for the National Democratic Congress (NDC) Greater Accra Regional Chairmanship, has picked Number 1 on the ballot paper ahead of the party’s regional…",
-      "categories": [
-        "Politics",
-        "Michael Tetteh Kwetey",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f1e05eca-63d9-4986-a862-574e749f458b.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority’s evacuation claims are “pure mischief” or a lack of understanding – Ablakwa",
-      "link": "https://www.myjoyonline.com/minoritys-evacuation-claims-are-pure-mischief-or-a-lack-of-understanding-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T12:20:50.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has accused the Minority in Parliament of either misreading or misrepresenting the documents his ministry released on the…",
-      "categories": [
-        "News",
-        "Evacuation",
-        "Minority",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1705.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana, US Virgin Islands agree to sign an MoU in November to recruit nurses and teachers",
-      "link": "https://www.myjoyonline.com/ghana-us-virgin-islands-agree-to-sign-an-mou-in-november-to-recruit-nurses-and-teachers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T12:16:36.000Z",
-      "summary": "Ghana and the United States Virgin Islands have reached an agreement to formalise a partnership in November to facilitate the recruitment of Ghanaian nurses and teachers to address critical…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Ghana",
-        "nurses and teachers",
-        "US Virgin Island"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1716-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Who gave Cabinet the authority to decide for over 34 million Ghanaians to join BRICS without Parliamentary and public consultation? - Hassan Ayariga, leader of APC",
@@ -237,18 +246,6 @@ window.GDC_PAPERS = {
         "Health"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/Vape.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Don't let innovations die at prototype stage - President Mahama challenges CSIR",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dont-let-innovations-die-at-prototype-stage-president-mahama-challenges-csir.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T10:34:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Zanetor.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
