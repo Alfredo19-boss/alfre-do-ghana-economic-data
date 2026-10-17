@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T10:18:34.573Z",
+  "updated": "2026-10-17T13:49:01.168Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,226 +25,231 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "SA Evacuation: Minority only rushed to damage my reputation and my ministry’s image – Ablakwa",
-      "link": "https://www.myjoyonline.com/sa-evacuation-minority-only-rushed-to-damage-my-reputation-and-my-ministrys-image-ablakwa/",
+      "title": "Credit growth rose 34% to GH¢128.3 billion as of August 2026 – BoG",
+      "link": "https://www.myjoyonline.com/credit-growth-rose-34-to-gh%c2%a2128-3-billion-as-of-august-2026-bog/",
       "source": "MyJoyOnline",
-      "published": "2026-10-17T10:13:43.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has criticised the Minority’s handling of concerns over the South Africa evacuation expenditure, saying its actions have damaged his…",
+      "published": "2026-10-17T13:25:16.000Z",
+      "summary": "According to the September 2026 Monetary Policy Report, stronger lending to the private sector and a rebound in public sector credit drove the expansion.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "BoG",
+        "construction sector",
+        "credit",
+        "MPR",
+        "private sector",
+        "Public Sector",
+        "Services sector"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/02/yourstory_loans.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From passion to enterprise: Exzanita Aidoo journey into fashion entrepreneurship",
+      "link": "https://www.myjoyonline.com/from-passion-to-enterprise-exzanita-aidoo-journey-into-fashion-entrepreneurship/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T13:18:34.000Z",
+      "summary": "In an era where entrepreneurship is increasingly becoming an attractive pathway for young people seeking financial independence, personal fulfilment and economic empowerment, the story of…",
+      "categories": [
+        "Business",
+        "Features",
+        "CK Collection",
+        "Exzanita Aidoo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Picture2.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Ministry should protect girls and hold sexual abusers accountable - Zonta Clubs",
+      "link": "https://www.graphic.com.gh/news/general-news/education-ministry-should-protect-girls-and-hold-sexual-abusers-accountable-zonta-club.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T13:10:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/haruna_is.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dep. Finance Minister calls for stronger internal controls to protect public funds",
+      "link": "https://www.myjoyonline.com/dep-finance-minister-calls-for-stronger-internal-controls-to-protect-public-funds/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T12:55:47.000Z",
+      "summary": "Speaking at the 25th anniversary of the Institute of Internal Auditors Ghana, Mr Ampem said internal auditors must move beyond identifying weaknesses after they had occurred to helping…",
+      "categories": [
+        "Business",
+        "Energy",
+        "IAA",
+        "Ministry of Finance",
+        "Thomas Nyarko Ampem"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-11.37.55-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Social engineering, not hacking, driving MoMo fraud in Ghana – MobileMoney Fintech",
+      "link": "https://www.myjoyonline.com/social-engineering-not-hacking-driving-momo-fraud-in-ghana-mobilemoney-fintech/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T12:43:52.000Z",
+      "summary": "Mobile money fraudsters in Ghana are increasingly exploiting human behaviour rather than relying on sophisticated hacking techniques to steal customers’ money, according to MobileMoney…",
       "categories": [
         "National",
-        "evacuation exercise",
-        "Okudzeto Ablakwa",
+        "Technology",
+        "Hacking",
+        "MoMo Fraud",
+        "Social Engineering"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-11.20.55-1-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "South Africa Evacuation: We haven’t accused Ablakwa of wrongdoing; we want an audit – Minority",
+      "link": "https://www.myjoyonline.com/south-africa-evacuation-we-havent-accused-ablakwa-of-wrongdoing-we-want-an-audit-minority/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T12:26:24.000Z",
+      "summary": "The Ranking Member of Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, says the Minority has not accused Foreign Affairs Minister Samuel Okudzeto Ablakwa of wrongdoing in the…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "News",
+        "Foreign Affairs",
+        "Minority in Parliament",
+        "NPP",
+        "Samuel Jinapor",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-9.34.53-AM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Michael Tetteh Kwetey picks Number 1 on ballot for NDC Greater Accra Chairmanship race",
+      "link": "https://www.myjoyonline.com/michael-tetteh-kwetey-picks-number-1-on-ballot-for-ndc-greater-accra-chairmanship-race/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T12:23:04.000Z",
+      "summary": "Michael Tetteh Kwetey, a contender for the National Democratic Congress (NDC) Greater Accra Regional Chairmanship, has picked Number 1 on the ballot paper ahead of the party’s regional…",
+      "categories": [
+        "Politics",
+        "Michael Tetteh Kwetey",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f1e05eca-63d9-4986-a862-574e749f458b.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority’s evacuation claims are “pure mischief” or a lack of understanding – Ablakwa",
+      "link": "https://www.myjoyonline.com/minoritys-evacuation-claims-are-pure-mischief-or-a-lack-of-understanding-ablakwa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T12:20:50.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has accused the Minority in Parliament of either misreading or misrepresenting the documents his ministry released on the…",
+      "categories": [
+        "News",
+        "Evacuation",
+        "Minority",
         "South Africa"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1705.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "SA evacuation is not the highest; COVID-29 evacuation cost us GH₵96m – Ablakwa",
-      "link": "https://www.myjoyonline.com/sa-evacuation-is-not-the-highest-covid-29-evacuation-cost-us-gh%e2%82%b596m-ablakwa/",
+      "title": "Ghana, US Virgin Islands agree to sign an MoU in November to recruit nurses and teachers",
+      "link": "https://www.myjoyonline.com/ghana-us-virgin-islands-agree-to-sign-an-mou-in-november-to-recruit-nurses-and-teachers/",
       "source": "MyJoyOnline",
-      "published": "2026-10-17T10:06:06.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has said Ghana spent GH¢96.97 million on the evacuation of citizens during the COVID-19 pandemic by the previous NPP government, more than…",
+      "published": "2026-10-17T12:16:36.000Z",
+      "summary": "Ghana and the United States Virgin Islands have reached an agreement to formalise a partnership in November to facilitate the recruitment of Ghanaian nurses and teachers to address critical…",
       "categories": [
-        "HP News 4",
+        "HP News 10",
         "National",
-        "COVID-29 evacuation",
-        "SA evacuation"
+        "Ghana",
+        "nurses and teachers",
+        "US Virgin Island"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-67.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1716-1024x682.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Accra Mall steps up customer experience drive with family fun day",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-accra-mall-steps-up-customer-experience-drive-with-family-fun-day.html",
+      "title": "Who gave Cabinet the authority to decide for over 34 million Ghanaians to join BRICS without Parliamentary and public consultation? - Hassan Ayariga, leader of APC",
+      "link": "https://www.graphic.com.gh/news/politics/who-gave-cabinet-the-authority-to-decide-for-over-34-million-ghanaians-to-join-brics-without-parliamentary-and-public-consultation-hassan-ayariga-leader-of-apc.html",
       "source": "Daily Graphic",
-      "published": "2026-10-17T10:03:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/activities.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "56,003 Teachers receive teacher promotion salaries, arrears",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-56-003-teachers-receive-teacher-promotion-salaries-arrears.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T10:00:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Kwasi.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Protect mining communities from environmental degradation, rights abuses - ActionAid",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-protect-mining-communities-from-environmental-degradation-rights-abuses-actionaid.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T09:57:44.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Denkyira.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Baobab census project launched at HTU",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-baobab-census-project-launched-at-htu.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T09:49:33.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Honyenuga.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Children received the same GH¢5,500 support as adults in South Africa evacuation – Ablakwa",
-      "link": "https://www.myjoyonline.com/children-received-the-same-gh%c2%a25500-support-as-adults-in-south-africa-evacuation-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T09:48:19.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has defended the payment of equal reintegration and transport allowances to children and adults evacuated from South Africa.",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Evacuation",
-        "John Mahama",
-        "Okudzeto Ablakwa",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/12182024124138-qvmxpcb553-samuel-okudzeto-ablakwa-chairs-anti-corruption-drive.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AIDS Commission launches Youth Desk to boost HIV response",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-aids-commission-launches-youth-desk-to-boost-hiv-response.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T09:38:33.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Infrastructure drive to boost socio-economic growth at Banda-Ahenkro",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-infrastructure-drive-to-boost-socio-economic-growth-at-banda-ahenkro.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T09:35:20.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Peter.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Beyond representation: Making Affirmative Action work inside Ghana’s political parties",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-news-beyond-representation-making-affirmative-action-work-inside-ghanas-political-parties.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T09:30:52.000Z",
+      "published": "2026-10-17T11:33:09.000Z",
       "summary": "",
       "categories": [
         "Politics"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/election.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/ayariga_hassan.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Political goodwill is not lost overnight",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-political-goodwill-is-not-lost-overnight.html",
+      "title": "Ghana receives $250,000 ECOWAS relief for June flood victims through Adventist Development and Relief Agency - Ablakwa",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-receives-250-000-ecowas-relief-for-june-flood-victims.html",
       "source": "Daily Graphic",
-      "published": "2026-10-17T09:25:39.000Z",
+      "published": "2026-10-17T11:12:45.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/polling.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/June/07/flood10.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Samson’s Take: Justice at the police station, relief at the bus stop",
-      "link": "https://www.myjoyonline.com/samsons-take-justice-at-the-police-station-relief-at-the-bus-stop/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T09:12:11.000Z",
-      "summary": "My take: Justice at the police station, relief at the bus stop. Two developments caught my attention this week. Both are fundamental. Both speak to problems ordinary Ghanaians confront…",
+      "title": "Ashanti PURC secures GH¢338,000 refund for consumers",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ashanti-purc-secures-ghc338-000-refund-for-consumers.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T10:53:04.000Z",
+      "summary": "",
       "categories": [
-        "In Focus",
-        "National",
-        "Bus stop",
-        "Justice",
-        "samson"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1703.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Shafic.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Not a cedi missing in South Africa evacuation exercise – Ablakwa",
-      "link": "https://www.myjoyonline.com/not-a-cedi-missing-in-south-africa-evacuation-exercise-ablakwa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T09:06:18.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has rejected allegations of corruption in the evacuation of Ghanaians from South Africa, insisting that not a cedi is missing from funds…",
+      "title": "Telecom Chamber educates communities on MoMo fraud",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-telecom-chamber-educates-communities-on-momo-fraud.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T10:50:37.000Z",
+      "summary": "",
       "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "evacuation exercise",
-        "Okudzeto Ablakwa",
-        "South Africa"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-8.40.52-AM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Owusu-Ankomah.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "President Mahama commends Ablakwa for Ghana’s UNHRC re-election",
-      "link": "https://www.myjoyonline.com/president-mahama-commends-ablakwa-for-ghanas-unhrc-re-election/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T08:24:08.000Z",
-      "summary": "President John Dramani Mahama has commended the Ministry of Foreign Affairs and the Minister of Foreign Affairs, Samuel Okudzeto Ablakwa, for successfully leading Ghana's campaign for…",
+      "title": "Shea industry players call for investment in shea testing facilities",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-shea-industry-players-call-for-investment-in-shea-testing-facilities.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T10:38:21.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Election",
-        "Ghana",
-        "President Mahama",
-        "United Nations Human Rights Council (UNHRC)"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1701.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/shea2.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "PAC calls for greater transparency in tax collection",
-      "link": "https://www.myjoyonline.com/pac-calls-for-greater-transparency-in-tax-collection/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T08:20:07.000Z",
-      "summary": "The Public Accounts Committee (PAC) has called on the Ghana Revenue Authority (GRA) to intensify efforts to recover outstanding taxes owed by public institutions and businesses cited in the…",
+      "title": "Vapes were meant to help people quit cigarettes. Now non-smokers are taking up vaping",
+      "link": "https://www.graphic.com.gh/news/health/vapes-were-meant-to-help-people-quit-cigarettes-now-non-smokers-are-taking-up-vaping.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T10:35:38.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "PAC Chair",
-        "Tax"
+        "Health"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1702.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Vape.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Mahama swears in four envoys, tasks them with attracting investment",
-      "link": "https://www.myjoyonline.com/mahama-swears-in-four-envoys-tasks-them-with-attracting-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T05:47:18.000Z",
-      "summary": "President John Dramani Mahama has sworn in four ambassadors, charging them to attract investment, expand trade and create opportunities for Ghanaians abroad as part of the government’s…",
+      "title": "Don't let innovations die at prototype stage - President Mahama challenges CSIR",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dont-let-innovations-die-at-prototype-stage-president-mahama-challenges-csir.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T10:34:24.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Envoys",
-        "Investment",
-        "Mahama",
-        "swears"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/envoy-1-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Zanetor.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "IGP deploys additional specialised team and armoured vehicle to Nkwanta",
