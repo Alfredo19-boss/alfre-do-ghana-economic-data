@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T16:41:27.963Z",
+  "updated": "2026-10-17T18:51:24.487Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,127 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "EC must command public confidence regardless of which party is in power – Victoria Bright",
+      "link": "https://www.myjoyonline.com/ec-must-command-public-confidence-regardless-of-which-party-is-in-power-victoria-bright/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T18:05:00.000Z",
+      "summary": "Private legal practitioner Victoria Bright has called for consistency in the appointment of Electoral Commission (EC) officials, stressing that the Commission must command public confidence…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "News",
+        "EC",
+        "public confidence",
+        "Victoria Bright"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1706.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC must dissociate itself from Obuasi SHTS head over sexual abuse allegations – Vicky Bright",
+      "link": "https://www.myjoyonline.com/ndc-must-dissociate-itself-from-obuasi-shts-head-over-sexual-abuse-allegations-vicky-bright/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T18:02:00.000Z",
+      "summary": "International corporate lawyer Victoria Bright has urged the National Democratic Congress (NDC) to dissociate itself from the head of Obuasi Senior High Technical School (SHTS), who is…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "NDC",
+        "Obuasi SHTS head",
+        "Sexual Assault"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Screenshot-2026-01-05-at-07.25.38-1024x578.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump deals with Putin, so why should Ghana fear BRICS? – Ablakwa asks",
+      "link": "https://www.myjoyonline.com/trump-deals-with-putin-so-why-should-ghana-fear-brics-ablakwa-asks/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T18:02:00.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has defended Ghana’s pursuit of BRICS membership, arguing that the United States’ own dealings with Russia demonstrate the importance of…",
+      "categories": [
+        "International",
+        "National",
+        "Politics",
+        "Top Story",
+        "BRICS",
+        "Diessel",
+        "Ghana",
+        "Russia",
+        "Ukrain"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Ablakwa-1-1024x523.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asking Agbenyo to resign will mean everyone else at EC must leave – Vicky Bright",
+      "link": "https://www.myjoyonline.com/asking-agbenyo-to-resign-will-mean-everyone-else-at-ec-must-leave-vicky-bright/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T18:01:00.000Z",
+      "summary": "Private legal practitioner Victoria Bright has described calls for newly appointed Electoral Commission (EC) Deputy Chairperson Emelia Affi Agbenyo to resign as excessive, arguing that…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Abenyo",
+        "EC",
+        "Vicky Bright"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1710.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akosua Manu calls for a proper protection framework for sexually abused children",
+      "link": "https://www.myjoyonline.com/akosua-manu-calls-for-a-proper-protection-framework-for-sexually-abused-children/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T18:00:00.000Z",
+      "summary": "Special Adviser on Gender and Social Protection to former Vice-President Dr Mahamudu Bawumia, Akosua Manu, has called for a proper national child protection framework to safeguard pupils…",
+      "categories": [
+        "National",
+        "Children",
+        "Sexual abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-1914-e1758627398358.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No more cover-ups – Zonta demands action against sexual abuse in schools",
+      "link": "https://www.myjoyonline.com/no-more-cover-ups-zonta-demands-action-against-sexual-abuse-in-schools/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T17:01:00.000Z",
+      "summary": "The Zonta Clubs of Ghana have called on the Ministry of Education to take urgent action against sexual abuse in schools, demanding swift investigations, accountability and protection for…",
+      "categories": [
+        "National",
+        "Zonta Clubs"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/02/Gang-rape.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL: Kotoko under pressure to deliver against Young Apostles, Medeama face FC Samartex test",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gpl-kotoko-under-pressure-to-deliver-against-young-apostles-medeama-face-fc-samartex-test.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-17T16:57:20.000Z",
+      "summary": "The Kumasi giants head into the Matchday Seven encounter still smarting from last weekend's painful 1-0 defeat to Swedru All Blacks, decided by Eric Darkwah Wiafe's stoppage-time penalty…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/DACOSTA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "GARFA Division Two League kicks off with 76 clubs chasing Middle League places",
+      "link": "https://www.graphic.com.gh/sports/sports-news/garfa-division-two-league-kicks-off-with-76-clubs-chasing-middle-league-places.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-17T16:49:47.000Z",
+      "summary": "The 76 participating clubs have been distributed among five zones, with Zones One, Two, Three and Five comprising 15 teams each, while Zone Four has 16. Matches will be played on a…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/ABOABIRE.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
     {
       "title": "Police arrest 41 suspected criminals in intelligence-led operation at Lapaz and Chantan",
       "link": "https://www.myjoyonline.com/police-arrest-41-suspected-criminals-in-intelligence-led-operation-at-lapaz-and-chantan/",
@@ -54,102 +175,6 @@ window.GDC_PAPERS = {
         "World Food Day 2026"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1711-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fanaka International University & GISI sign MoU to enhance professional capital market training",
-      "link": "https://www.myjoyonline.com/fanaka-international-university-gisi-sign-mou-to-enhance-professional-capital-market-training/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:29:13.000Z",
-      "summary": "Fanaka International University College and the Ghana Investment and Securities Institute (GISI) have signed a Memorandum of Understanding to integrate professional capital market training…",
-      "categories": [
-        "Business",
-        "National",
-        "capital market training",
-        "Fanaka International University",
-        "GISI"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1720-1024x570.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PHOTOS: Patronage surges as Republic Bank–JoyNews Habitat Fair enters day 2 in Ho",
-      "link": "https://www.myjoyonline.com/photos-patronage-surges-as-republic-bank-joynews-habitat-fair-enters-day-2-in-ho/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:23:59.000Z",
-      "summary": "More visitors are trooping to the Ho Sports Stadium as Day Two of the Republic Bank–JoyNews Habitat Fair gets underway in the Volta Regional capital.",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "Photo Story",
-        "Ho",
-        "Republic Bank-JoyNews Habitat Fair"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017140028_IMG_9497.jpg-1024x773.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Diana Hamilton releases new single ‘Wate M’anim’",
-      "link": "https://www.myjoyonline.com/diana-hamilton-releases-new-single-wate-manim/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:16:55.000Z",
-      "summary": "Diana Hamilton has released her new single, “Wate Manim,” which arrived on Friday, 16 October 2026, across all streaming platforms, alongside its accompanying music video on YouTube.",
-      "categories": [
-        "Arts and Culture",
-        "Comp. Entertainment",
-        "Music",
-        "National",
-        "Diana Hamilton",
-        "“Wate Manim"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1731-754x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana proposes visa waiver agreement with Lebanon to boost bilateral ties",
-      "link": "https://www.myjoyonline.com/ghana-proposes-visa-waiver-agreement-with-lebanon-to-boost-bilateral-ties/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:16:07.000Z",
-      "summary": "Ghana has proposed a visa waiver agreement with Lebanon covering holders of diplomatic, service, and ordinary passports to strengthen bilateral relations and facilitate travel, trade, and…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Lebanon",
-        "Visa waiver"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1721-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Disqualify Obuasi SHTS headmaster from Juaben NDC chairmanship race – Former NDC MP urges party",
-      "link": "https://www.myjoyonline.com/disqualify-obuasi-shts-headmaster-from-juaben-ndc-chairmanship-race-former-ndc-mp-urges-party/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:09:19.000Z",
-      "summary": "Former Member of Parliament for Amenfi Central, Peter Kwakye Ackah, has called on the National Democratic Congress (NDC) to disqualify the headmaster of Obuasi Senior High Technical School…",
-      "categories": [
-        "Education",
-        "National",
-        "MP",
-        "NDC",
-        "Obusai SHTS Headmaster"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-68-e1792250312462-1024x704.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP has resolved its internal wrangling – Bawumia",
-      "link": "https://www.myjoyonline.com/npp-has-resolved-its-internal-wrangling-bawumia/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T15:08:44.000Z",
-      "summary": "The former Vice President, Dr Mahamudu Bawumia, the New Patriotic Party’s (NPP) flagbearer for the 2028 elections, says the party has resolved its internal wrangling, urging members at the…",
-      "categories": [
-        "National",
-        "Politics",
-        "Bawumia",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/dr-mahamudu-bawumia-takes-a-stan-1024x576.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -422,30 +447,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/15/CAPTAN.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Black Starlets coach eyes AFCON ticket, WAFU B title",
-      "link": "https://www.graphic.com.gh/sports/sports-news/black-starlets-coach-eyes-afcon-ticket-wafu-b-title.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-15T14:33:38.000Z",
-      "summary": "The Ghanaian coach expressed satisfaction with his side's progress, having achieved the first of three targets established before the tournament, but insisted that reaching the last four…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/Black_Satellites.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana unveils Golden Arms squad for World Championships, appeal for support",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-unveils-golden-arms-squad-for-world-championships-appeal-for-support.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-15T14:09:18.000Z",
-      "summary": "Leading the women’s contingent are Mabel Yeboah (60kg), Blessed Abeka Nunoo (65kg) and Grace Minta (89kg), alongside Florence Boakye (110+kg), Afia Kumah (110+kg) and Comfort Dunyo, who…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/ARMWRESTLING.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]

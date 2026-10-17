@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-17T16:41:15.867Z",
-  "worldAt": "2026-10-17T16:41:15.865Z",
+  "updated": "2026-10-17T18:51:11.122Z",
+  "worldAt": "2026-10-17T18:51:11.119Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -41,8 +41,8 @@ window.GDC_NEWS = {
     "Africa · AllAfrica Business: 30 stories",
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 32 stories",
-    "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,13 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T18:26:59.000Z",
+      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago."
+    },
+    {
       "title": "India: Police crack down on New Delhi protests",
       "link": "https://www.france24.com/en/video/20261017-india-police-crack-down-on-new-delhi-protests",
       "source": "France 24",
@@ -1107,11 +1114,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/847e0698-ca1e-11f1-a4f6-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261017-121203-121358-CS.jpg"
     },
     {
-      "title": "Buildings and cars set on fire as cost of living protests rock France",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
+      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T16:00:40.000Z",
-      "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate."
+      "published": "2026-10-17T17:42:01.000Z",
+      "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game."
     },
     {
       "title": "Brazil: Amazon deforestation at 40-year low",
@@ -1122,12 +1129,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7770bf44-ca42-11f1-865c-6313a763b466/w:1024/p:16x9/EN-20261017-142458-142642-CS.jpg"
     },
     {
+      "title": "Pope Leo returns to Vatican after lung cancer surgery",
+      "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T17:37:52.000Z",
+      "summary": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday."
+    },
+    {
       "title": "Scuffles and fires break out as protesters rally across France, joining students",
       "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
       "source": "NPR World",
       "published": "2026-10-17T15:57:40.000Z",
       "summary": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2Feb%2F568abeb84af6bbb784b8ce305682%2Fap26290464234778.jpg"
+    },
+    {
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T17:24:07.000Z",
+      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine."
     },
     {
       "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
@@ -1138,11 +1159,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5f500ace-ca41-11f1-8347-6313a763b466/w:1024/p:16x9/EN-20261017-170858-171041-CS.jpg"
     },
     {
-      "title": "Pope Leo leaves hospital after lung cancer surgery",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T15:47:52.000Z",
-      "summary": "Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery"
+      "published": "2026-10-17T17:18:50.000Z",
+      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues."
     },
     {
       "title": "Protests in France: \"Two fires broke out in Place de la République\"",
@@ -1153,11 +1174,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/02bc98c2-ca41-11f1-95d8-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261017-170100-170648-CS.jpg"
     },
     {
-      "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
-      "link": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
+      "title": "Al Jazeera reports from Paris as protests turn violent",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T15:25:27.000Z",
-      "summary": "Argentinian international taken to hospital for precautionary tests after head clash with Everton's Jarrad Branthwaite."
+      "published": "2026-10-17T16:56:40.000Z",
+      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services."
     },
     {
       "title": "US: Four killed in Oregon school shooting",
@@ -1168,11 +1189,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ca2a73b0-ca38-11f1-a47e-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-131913-132114-CS.jpg"
     },
     {
-      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
-      "link": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
+      "title": "Why are Latin American countries building closer ties with Israel?",
+      "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T15:20:27.000Z",
-      "summary": "Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress."
+      "published": "2026-10-17T16:54:44.000Z",
+      "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza."
     },
     {
       "title": "Protests in France: \"Living conditions are too harsh\"",
@@ -1183,12 +1204,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/38ab95fc-ca3a-11f1-aa7b-d1d2c32ebb87/w:1024/p:16x9/EN-20261017-140101-141839-CS.jpg"
     },
     {
+      "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T16:49:07.000Z",
+      "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks."
+    },
+    {
       "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
       "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
       "source": "NPR World",
       "published": "2026-10-17T15:10:14.000Z",
       "summary": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3792x2528+0+0/resize/3792x2528!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fae%2Faa9d542c4b2680f6aa607bf717dc%2Fap26290494298005.jpg"
+    },
+    {
+      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+      "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T16:48:46.000Z",
+      "summary": "⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases."
     },
     {
       "title": "France: What's different about today's protests?",
@@ -1199,11 +1234,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/33426cd0-ca3a-11f1-b890-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-150100-150446-CS.jpg"
     },
     {
-      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+      "title": "Buildings and cars set on fire as cost of living protests rock France",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T14:57:24.000Z",
-      "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms."
+      "published": "2026-10-17T16:00:40.000Z",
+      "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate."
     },
     {
       "title": "Israeli settlers attack European delegation convoy in West Bank, beat French mayor",
@@ -1214,11 +1249,25 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/99f3ef8a-ca3a-11f1-b233-2d1c143cdef3/w:1024/p:16x9/000-D3CR48X.jpg"
     },
     {
+      "title": "Pope Leo leaves hospital after lung cancer surgery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T15:47:52.000Z",
+      "summary": "Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery"
+    },
+    {
       "title": "China's influence in the gaming industry is growing",
       "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
       "published": "2026-10-17T14:49:00.000Z",
       "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players…"
+    },
+    {
+      "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T15:25:27.000Z",
+      "summary": "Argentinian international taken to hospital for precautionary tests after head clash with Everton's Jarrad Branthwaite."
     },
     {
       "title": "France: \"We've seen extremely high tensions between protesters and law enforcement\"",
@@ -1229,11 +1278,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/81494806-ca38-11f1-95a3-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261017-130538-131009-CS.jpg"
     },
     {
-      "title": "Why adults are going back to summer camp",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
+      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
+      "link": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T14:36:25.000Z",
-      "summary": "Loneliness and burnout are sending adults around the world back to bunk beds and bonfires."
+      "published": "2026-10-17T15:20:27.000Z",
+      "summary": "Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress."
     },
     {
       "title": "France: Students, unions and Yellow Vests unite against austerity",
@@ -1244,11 +1293,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b40d67d8-ca36-11f1-acb1-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-130200-130306-CS.jpg"
     },
     {
-      "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-      "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
+      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T14:28:07.000Z",
-      "summary": "Trudy is the latest in successive storms that have hit Mexico's Pacific coast this year."
+      "published": "2026-10-17T14:57:24.000Z",
+      "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms."
     },
     {
       "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
@@ -1259,6 +1308,13 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F96%2Fd6b29b774dbcbbb820e6e569974b%2Fap26290438386008.jpg"
     },
     {
+      "title": "Why adults are going back to summer camp",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T14:36:25.000Z",
+      "summary": "Loneliness and burnout are sending adults around the world back to bunk beds and bonfires."
+    },
+    {
       "title": "Egypt's President Sisi will step down when term expires in 2030",
       "link": "http://www.africanews.com/2026/10/17/egypts-president-sisi-will-step-down-when-term-expires-in-2030/",
       "source": "Africanews",
@@ -1266,11 +1322,11 @@ window.GDC_NEWS = {
       "summary": "Egypt’s President Abdel Fattah al-Sisi says he’ll leave office when his term expires in 2030. Making the announcement on Saturday, Sisi described the matter as “completely settled.”"
     },
     {
-      "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
-      "link": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+      "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+      "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T14:06:41.000Z",
-      "summary": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws."
+      "published": "2026-10-17T14:28:07.000Z",
+      "summary": "Trudy is the latest in successive storms that have hit Mexico's Pacific coast this year."
     },
     {
       "title": "Pope discharged from hospital days after lung cancer surgery",
@@ -1281,11 +1337,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg"
     },
     {
-      "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
-      "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+      "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T14:00:24.000Z",
-      "summary": "Egyptian president pledges 'any measure' to help defend Saudi Arabia 'if it is requested of us'."
+      "published": "2026-10-17T14:06:41.000Z",
+      "summary": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws."
     },
     {
       "title": "Will Paramount’s creation of Skydance test France’s cultural exception?",
@@ -1296,123 +1352,6 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/bf8a0328-c98c-11f1-89cd-638c1c1f5fd6/w:1024/p:16x9/AP26281749224640.jpg"
     },
     {
-      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-      "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T13:56:29.000Z",
-      "summary": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed."
-    },
-    {
-      "title": "Senegal's Macky Sall withdraws from race for UN top job",
-      "link": "http://www.africanews.com/2026/10/17/senegals-macky-sall-withdraws-from-race-for-un-top-job/",
-      "source": "Africanews",
-      "published": "2026-10-17T13:28:15.000Z",
-      "summary": "Senegal’s former President Macky Sall is pulling out of the race to lead the United Nations. Saturday's announcement comes one day after an informal straw poll by UN Security Council…"
-    },
-    {
-      "title": "Protesters clash with police during nationwide demonstrations in France",
-      "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T13:44:42.000Z",
-      "summary": "Thousands rally in Paris and other cities for demonstrations set to unite students, teachers, unions and 'yellow vests'."
-    },
-    {
-      "title": "Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak",
-      "link": "http://www.africanews.com/2026/10/17/frontline-workers-in-drc-receive-ervebo-vaccine-amid-growing-ebola-outbreak/",
-      "source": "Africanews",
-      "published": "2026-10-17T12:37:06.000Z",
-      "summary": "Frontline workers in DR Congo received the Ervebo vaccine on Friday as the country’s worst ever Ebola outbreak continues to spread. Ervebo is effective against the Zaire strain of Ebola…"
-    },
-    {
-      "title": "Why Trump’s latest White House press secretary lasted just five days",
-      "link": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T13:41:49.000Z",
-      "summary": "Katie Zacharia is the shortest-serving White House press secretary after a rocky tenure, but she's not the first to go."
-    },
-    {
-      "title": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
-      "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "source": "France 24",
-      "published": "2026-10-17T12:30:33.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Child, four women among Palestinians injured in West Bank pogroms",
-      "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T12:48:03.000Z",
-      "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives."
-    },
-    {
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-17T12:11:58.000Z",
-      "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bff/live/9df7c880-ca1d-11f1-a64c-550be9e3c66b.png"
-    },
-    {
-      "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-      "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T12:46:48.000Z",
-      "summary": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final."
-    },
-    {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-17T11:56:06.000Z",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"
-    },
-    {
-      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T12:27:49.000Z",
-      "summary": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians."
-    },
-    {
-      "title": "France faces day of cost-of-living protests",
-      "link": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
-      "source": "France 24",
-      "published": "2026-10-17T11:47:30.000Z",
-      "summary": "French authorities detained dozens on Saturday at the start of nationwide protests against the cost of living, in what is likely to be a key indicator of the social climate heading toward…",
-      "image": "https://s.france24.com/media/display/e0fc6906-ca1d-11f1-bfbe-2d1c143cdef3/w:1024/p:16x9/EN-20261017-120136-120533-CS.jpg"
-    },
-    {
-      "title": "France tackles new wave of nationwide protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T12:18:55.000Z",
-      "summary": "France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality."
-    },
-    {
-      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-      "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-17T11:34:00.000Z",
-      "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost…"
-    }
-  ],
-  "africa": [
-    {
-      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T14:57:24.000Z",
-      "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms."
-    },
-    {
-      "title": "Egypt's President Sisi will step down when term expires in 2030",
-      "link": "http://www.africanews.com/2026/10/17/egypts-president-sisi-will-step-down-when-term-expires-in-2030/",
-      "source": "Africanews",
-      "published": "2026-10-17T14:18:28.000Z",
-      "summary": "Egypt’s President Abdel Fattah al-Sisi says he’ll leave office when his term expires in 2030. Making the announcement on Saturday, Sisi described the matter as “completely settled.”"
-    },
-    {
       "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
       "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1427,11 +1366,11 @@ window.GDC_NEWS = {
       "summary": "Senegal’s former President Macky Sall is pulling out of the race to lead the United Nations. Saturday's announcement comes one day after an informal straw poll by UN Security Council…"
     },
     {
-      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-      "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T09:44:47.000Z",
-      "summary": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala's busy livestock market."
+      "published": "2026-10-17T13:56:29.000Z",
+      "summary": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed."
     },
     {
       "title": "Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak",
@@ -1441,11 +1380,77 @@ window.GDC_NEWS = {
       "summary": "Frontline workers in DR Congo received the Ervebo vaccine on Friday as the country’s worst ever Ebola outbreak continues to spread. Ervebo is effective against the Zaire strain of Ebola…"
     },
     {
-      "title": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
-      "link": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss",
+      "title": "Tens of thousands protest for reforms in France amid tear gas and unrest",
+      "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T07:43:19.000Z",
-      "summary": "Thwaites glacier has been losing ice for decades. Now there are concerns of rapidly accelerating loss."
+      "published": "2026-10-17T13:44:42.000Z",
+      "summary": "Large cross-sector demonstrations in Paris and other cities unite students, teachers, unions and 'yellow vests'."
+    },
+    {
+      "title": "Looting, blazes and clashes in France amid nationwide protests",
+      "link": "https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations",
+      "source": "France 24",
+      "published": "2026-10-17T12:31:24.000Z",
+      "summary": "Police and protesters clashed violently in Paris and other French cities Saturday on the sidelines of nationwide marches against soaring inflation, with one demonstrator's hand blown off…",
+      "image": "https://s.france24.com/media/display/cc30ed64-ca4d-11f1-a832-2d1c143cdef3/w:1024/p:16x9/ad8cc1eedbdc9fbb239bb669f5f2566c1bcba589.jpg"
+    }
+  ],
+  "africa": [
+    {
+      "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+      "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-17T17:49:00.000Z",
+      "summary": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks."
+    },
+    {
+      "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T16:49:07.000Z",
+      "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks."
+    },
+    {
+      "title": "Egypt's President Sisi will step down when term expires in 2030",
+      "link": "http://www.africanews.com/2026/10/17/egypts-president-sisi-will-step-down-when-term-expires-in-2030/",
+      "source": "Africanews",
+      "published": "2026-10-17T14:18:28.000Z",
+      "summary": "Egypt’s President Abdel Fattah al-Sisi says he’ll leave office when his term expires in 2030. Making the announcement on Saturday, Sisi described the matter as “completely settled.”"
+    },
+    {
+      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+      "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T16:48:46.000Z",
+      "summary": "⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases."
+    },
+    {
+      "title": "Senegal's Macky Sall withdraws from race for UN top job",
+      "link": "http://www.africanews.com/2026/10/17/senegals-macky-sall-withdraws-from-race-for-un-top-job/",
+      "source": "Africanews",
+      "published": "2026-10-17T13:28:15.000Z",
+      "summary": "Senegal’s former President Macky Sall is pulling out of the race to lead the United Nations. Saturday's announcement comes one day after an informal straw poll by UN Security Council…"
+    },
+    {
+      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
+      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T14:57:24.000Z",
+      "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms."
+    },
+    {
+      "title": "Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak",
+      "link": "http://www.africanews.com/2026/10/17/frontline-workers-in-drc-receive-ervebo-vaccine-amid-growing-ebola-outbreak/",
+      "source": "Africanews",
+      "published": "2026-10-17T12:37:06.000Z",
+      "summary": "Frontline workers in DR Congo received the Ervebo vaccine on Friday as the country’s worst ever Ebola outbreak continues to spread. Ervebo is effective against the Zaire strain of Ebola…"
+    },
+    {
+      "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T14:00:24.000Z",
+      "summary": "Egyptian president pledges 'any measure' to help defend Saudi Arabia 'if it is requested of us'."
     },
     {
       "title": "Ex-fighters in Ethiopia's Tigray region register for reintegration programme",
@@ -1455,11 +1460,11 @@ window.GDC_NEWS = {
       "summary": "Hundreds of former fighters in Ethiopia’s northern Tigray region have been signing up for a government programme to help them return to civilian life."
     },
     {
-      "title": "Cameroonians await government reshuffle after Biya’s return",
-      "link": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+      "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T03:14:28.000Z",
-      "summary": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president."
+      "published": "2026-10-17T09:44:47.000Z",
+      "summary": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala's busy livestock market."
     },
     {
       "title": "Morocco's King Mohammed VI formally appoints first woman-led government",
@@ -1469,6 +1474,13 @@ window.GDC_NEWS = {
       "summary": "Morocco's King Mohammed VI formally appoints the members of his country's new government, led for the first time in its history by a woman prime minister, Fatima Ezzahra El Mansouri."
     },
     {
+      "title": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T07:43:19.000Z",
+      "summary": "Thwaites glacier has been losing ice for decades. Now there are concerns of rapidly accelerating loss."
+    },
+    {
       "title": "Tanzania: Ulega Calls for Measures to Decongest Prisons",
       "link": "https://allafrica.com/stories/202610160683.html",
       "source": "AllAfrica Business",
@@ -1476,11 +1488,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] Dodoma -- Minister for Constitution and Legal Affairs Abdallah Ulega has directed prosecutors to expedite case reviews, reduce delays and ensure suspects who qualify are…"
     },
     {
-      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+      "title": "Cameroonians await government reshuffle after Biya’s return",
+      "link": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-16T19:18:13.000Z",
-      "summary": "The United States calls for dialogue as regional East Africa tension escalates."
+      "published": "2026-10-17T03:14:28.000Z",
+      "summary": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president."
     },
     {
       "title": "Africa: Technology, Good Governance Key to Stronger Saccos in Africa",
@@ -1490,11 +1502,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] AS financial services increasingly move towards digital platforms, savings and credit cooperative societies (SACCOs) across Africa face growing pressure to modernise their…"
     },
     {
-      "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
-      "link": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/",
-      "source": "Africanews",
-      "published": "2026-10-16T19:01:28.000Z",
-      "summary": "Kenya has confirmed its third Ebola case, raising concerns over the spread of the deadly virus across East Africa. The Health Ministry says the latest patient is a 65-year-old woman and a…"
+      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T19:18:13.000Z",
+      "summary": "The United States calls for dialogue as regional East Africa tension escalates."
     },
     {
       "title": "Tanzania: Twiga Model Endures As North Mara Licence Renewed for 15 Years",
@@ -1504,11 +1516,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] Mara -- For the people of Tarime, the renewal of Barrick's mining licences for another 15 years is more than an extension of a commercial arrangement. It offers a test of…"
     },
     {
-      "title": "Kenya records third Ebola case, linked to first patient who died",
-      "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T18:57:40.000Z",
-      "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission."
+      "title": "Kenya confirms third Ebola case as health officials race to contain outbreak",
+      "link": "http://www.africanews.com/2026/10/16/kenya-confirms-third-ebola-case-as-health-officials-race-to-contain-outbreak/",
+      "source": "Africanews",
+      "published": "2026-10-16T19:01:28.000Z",
+      "summary": "Kenya has confirmed its third Ebola case, raising concerns over the spread of the deadly virus across East Africa. The Health Ministry says the latest patient is a 65-year-old woman and a…"
     },
     {
       "title": "Tanzania: Nyerere's Legacy Lives On As Tz Unleashes DIRA 2050",
@@ -1518,11 +1530,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] Tanzania -- Tanzania's ambition to build a one trillion US dollar- economy by 2050 rests on a fundamental requirement: the ability to generate reliable energy to power…"
     },
     {
-      "title": "DR Congo bans activities of 13 political parties linked to Joseph Kabila as opposition cries repression",
-      "link": "http://www.africanews.com/2026/10/16/dr-congo-bans-activities-of-13-political-parties-linked-to-joseph-kabila-as-opposition-cri/",
-      "source": "Africanews",
-      "published": "2026-10-16T17:58:44.000Z",
-      "summary": "The Democratic Republic of Congo’s government has banned the activities of 13 political parties, including the PPRD of former president Joseph Kabila. Presented as a national security…"
+      "title": "Kenya records third Ebola case, linked to first patient who died",
+      "link": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T18:57:40.000Z",
+      "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission."
     },
     {
       "title": "Tanzania: C-CEOs Forum Key Takeaways Expose the Real Test of Implementing DIRA 2050",
@@ -1532,11 +1544,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] Arusha -- Tanzania's ambition to build a one trillion dollar- economy by 2050 will depend partly on how effectively public institutions translate national priorities into…"
     },
     {
-      "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T16:35:32.000Z",
-      "summary": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans' behaviour during Egypt friendly."
+      "title": "DR Congo bans activities of 13 political parties linked to Joseph Kabila as opposition cries repression",
+      "link": "http://www.africanews.com/2026/10/16/dr-congo-bans-activities-of-13-political-parties-linked-to-joseph-kabila-as-opposition-cri/",
+      "source": "Africanews",
+      "published": "2026-10-16T17:58:44.000Z",
+      "summary": "The Democratic Republic of Congo’s government has banned the activities of 13 political parties, including the PPRD of former president Joseph Kabila. Presented as a national security…"
     },
     {
       "title": "Tanzania: VP Orders Fast-Tracking of Youth Employment Integration",
@@ -1546,11 +1558,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] Sumbawanga -- Vice-President Deogratius Ndejembi has directed ministries and public institutions to accelerate the integration of youth employment systems, to enable young…"
     },
     {
-      "title": "Nigeria: Aircraft Loses Door Mid-Air, Makes Emergency Landing in Abuja",
-      "link": "https://allafrica.com/stories/202610160536.html",
-      "source": "AllAfrica",
-      "published": "2026-10-16T16:29:55.000Z",
-      "summary": "[Premium Times] The aircraft, a CL60 with registration number T7-SEI and flight identification DWC052, was departing Abuja for the Murtala Muhammed International Airport, Lagos, when the…"
+      "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T16:35:32.000Z",
+      "summary": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans' behaviour during Egypt friendly."
     },
     {
       "title": "Tanzania: Government Pushes 37.55bn/ - Water Project in Mwanza",
@@ -1560,11 +1572,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] Mwanza -- The government-funded 37.55bn/- piped water project linking Ukiliguru, Kolomije and Usagara to Sumve in Misungwi District has reached 46 per cent completion and is…"
     },
     {
-      "title": "Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners",
-      "link": "https://allafrica.com/stories/202610160535.html",
+      "title": "Nigeria: Aircraft Loses Door Mid-Air, Makes Emergency Landing in Abuja",
+      "link": "https://allafrica.com/stories/202610160536.html",
       "source": "AllAfrica",
-      "published": "2026-10-16T16:29:35.000Z",
-      "summary": "[Premium Times] President Tinubu urged the Senate to expedite the nominees' confirmation in view of the forthcoming general elections next January."
+      "published": "2026-10-16T16:29:55.000Z",
+      "summary": "[Premium Times] The aircraft, a CL60 with registration number T7-SEI and flight identification DWC052, was departing Abuja for the Murtala Muhammed International Airport, Lagos, when the…"
     },
     {
       "title": "Tanzania: Govt Orders Crackdown On Book Piracy",
@@ -1574,11 +1586,11 @@ window.GDC_NEWS = {
       "summary": "[Daily News] Dar es Salaam -- The government has given public institutions two weeks to agree on concrete measures to combat book piracy and protect the intellectual property rights of…"
     },
     {
-      "title": "The artisanal miners behind Nigeria’s lithium boom",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T16:23:09.000Z",
-      "summary": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race."
+      "title": "Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners",
+      "link": "https://allafrica.com/stories/202610160535.html",
+      "source": "AllAfrica",
+      "published": "2026-10-16T16:29:35.000Z",
+      "summary": "[Premium Times] President Tinubu urged the Senate to expedite the nominees' confirmation in view of the forthcoming general elections next January."
     },
     {
       "title": "Liberia: Mary's Meals International Appoints New Executive Director",
@@ -1588,11 +1600,11 @@ window.GDC_NEWS = {
       "summary": "[Liberian Observer] Global school feeding charity Mary's Meals International has appointed Andy Griffiths in the newly created role of Executive Director, in a move designed to strengthen…"
     },
     {
-      "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
-      "link": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-16T16:19:00.000Z",
-      "summary": "Abiy Ahmed's office said there would be elections held in Tigray within 6 months. The move comes after an escalation in fighting between federal forces and a rebel alliance."
+      "title": "The artisanal miners behind Nigeria’s lithium boom",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T16:23:09.000Z",
+      "summary": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race."
     },
     {
       "title": "West Africa: Liberia's Offshore Promise - What LPRA's Work Means for Everyday Citizens and Local Businesses",
@@ -1602,11 +1614,11 @@ window.GDC_NEWS = {
       "summary": "[Liberian Observer] Along the docks of Monrovia, in the market stalls of Paynesville, and all along the corridors of Duala, conversations about \"oil\" and \"gas\" often feel distant and…"
     },
     {
-      "title": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns",
-      "link": "http://www.africanews.com/2026/10/16/ethiopian-gains-in-tigray-risk-wider-war-with-eritrea-analyst-warns/",
-      "source": "Africanews",
-      "published": "2026-10-16T15:47:43.000Z",
-      "summary": "Ethiopia’s military advances in northern Tigray do not spell an end to the conflict but have the potential to increase the risk of war with neighboring Eritrea, an analyst with knowledge of…"
+      "title": "Ethiopia's Abiy Ahmed appoints interim Tigray government",
+      "link": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-16T16:19:00.000Z",
+      "summary": "Abiy Ahmed's office said there would be elections held in Tigray within 6 months. The move comes after an escalation in fighting between federal forces and a rebel alliance."
     },
     {
       "title": "East Africa: Elevating Artisanal and Small-Scale Mining in Uganda",
@@ -1616,11 +1628,11 @@ window.GDC_NEWS = {
       "summary": "[Nile Post] In the discourse surrounding the extractives sector in Uganda, attention is frequently dominated by multinational exploration corporations and large-scale mining (LSM) entities…"
     },
     {
-      "title": "Africa overtakes Europe in Catholic population as global mumbers reach 1.422 billion",
-      "link": "http://www.africanews.com/2026/10/16/africa-overtakes-europe-in-catholic-population-as-global-mumbers-reach-1422-billion/",
+      "title": "Ethiopian gains in Tigray risk wider war with Eritrea, analyst warns",
+      "link": "http://www.africanews.com/2026/10/16/ethiopian-gains-in-tigray-risk-wider-war-with-eritrea-analyst-warns/",
       "source": "Africanews",
-      "published": "2026-10-16T15:47:09.000Z",
-      "summary": "Africa now has more Catholics than Europe. The Vatican’s latest statistics put Africa’s Catholic population at 288 million, slightly ahead of Europe’s 287 million."
+      "published": "2026-10-16T15:47:43.000Z",
+      "summary": "Ethiopia’s military advances in northern Tigray do not spell an end to the conflict but have the potential to increase the risk of war with neighboring Eritrea, an analyst with knowledge of…"
     },
     {
       "title": "East Africa: Uganda, South Sudan Sign Trade MOU, Pledge Joint Committees to Tackle Barriers",
@@ -1628,6 +1640,20 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-16T18:12:33.000Z",
       "summary": "[Nile Post] Uganda and South Sudan have signed a memorandum of understanding (MoU) on trade, with officials pledging to establish joint technical committees to oversee its implementation…"
+    },
+    {
+      "title": "Africa overtakes Europe in Catholic population as global mumbers reach 1.422 billion",
+      "link": "http://www.africanews.com/2026/10/16/africa-overtakes-europe-in-catholic-population-as-global-mumbers-reach-1422-billion/",
+      "source": "Africanews",
+      "published": "2026-10-16T15:47:09.000Z",
+      "summary": "Africa now has more Catholics than Europe. The Vatican’s latest statistics put Africa’s Catholic population at 288 million, slightly ahead of Europe’s 287 million."
+    },
+    {
+      "title": "Uganda: Power Tariffs Could Rise As Demand Overwhelms Distribution Network",
+      "link": "https://allafrica.com/stories/202610160571.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-16T18:12:32.000Z",
+      "summary": "[Nile Post] Electricity tariffs could rise as Uganda struggles to meet rapidly growing demand amid overloaded substations, ageing distribution equipment and persistent power outages, State…"
     },
     {
       "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
@@ -1638,20 +1664,6 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae2/live/aea9db50-c950-11f1-8879-9d9deeb686e1.jpg"
     },
     {
-      "title": "Uganda: Power Tariffs Could Rise As Demand Overwhelms Distribution Network",
-      "link": "https://allafrica.com/stories/202610160571.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-16T18:12:32.000Z",
-      "summary": "[Nile Post] Electricity tariffs could rise as Uganda struggles to meet rapidly growing demand amid overloaded substations, ageing distribution equipment and persistent power outages, State…"
-    },
-    {
-      "title": "South African pastor, wife arrested after 200 found in suspected illegal rehab centre",
-      "link": "http://www.africanews.com/2026/10/16/south-african-pastor-wife-arrested-after-200-found-in-suspected-illegal-rehab-centre/",
-      "source": "Africanews",
-      "published": "2026-10-16T14:54:51.000Z",
-      "summary": "Police in South Africa have arrested a pastor and his wife after a raid on a church-run rehabilitation centre in Mpumalanga province revealed shocking living conditions."
-    },
-    {
       "title": "Nigeria: P/Harcourt-Aba Train Connects Markets, Supports Traders",
       "link": "https://allafrica.com/stories/202610160557.html",
       "source": "AllAfrica Business",
@@ -1659,26 +1671,11 @@ window.GDC_NEWS = {
       "summary": "[Daily Trust] The Nigerian Railway Corporation's (NRC) Port Harcourt-Aba train service is providing an additional transport link for traders and business operators whose activities connect…"
     },
     {
-      "title": "German colonialism on agenda in Bundestag debate on Namibia genocide",
-      "link": "https://www.dw.com/en/german-colonialism-on-agenda-in-bundestag-debate-on-namibia-genocide/a-79682388?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-16T14:42:00.000Z",
-      "summary": "Opposition parties have forced a debate in the Bundestag on the early-20th-century genocide Germany carried out in Namibia. Will this finally spur progress in addressing colonial crimes?"
-    },
-    {
-      "title": "Nigeria: OPEC Oil Output Surges By 920,000 Bpd",
-      "link": "https://allafrica.com/stories/202610160555.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-16T16:51:24.000Z",
-      "summary": "[Daily Trust] The Organisation of the Petroleum Exporting Countries (OPEC) recorded a significant increase in crude oil production in September, with output rising by approximately 920,000…"
-    },
-    {
-      "title": "South African rugby player Andrews dies at team hotel",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-16T14:33:04.000Z",
-      "summary": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/002b/live/fb4e94e0-c96f-11f1-80fc-ab418b149008.jpg"
+      "title": "South African pastor, wife arrested after 200 found in suspected illegal rehab centre",
+      "link": "http://www.africanews.com/2026/10/16/south-african-pastor-wife-arrested-after-200-found-in-suspected-illegal-rehab-centre/",
+      "source": "Africanews",
+      "published": "2026-10-16T14:54:51.000Z",
+      "summary": "Police in South Africa have arrested a pastor and his wife after a raid on a church-run rehabilitation centre in Mpumalanga province revealed shocking living conditions."
     }
   ]
 };
