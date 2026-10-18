@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-18T21:23:35.018Z",
-  "worldAt": "2026-10-18T21:23:35.016Z",
+  "updated": "2026-10-18T23:24:47.689Z",
+  "worldAt": "2026-10-18T23:24:47.688Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,21 +27,21 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 29 stories",
+    "World · BBC News: 28 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 30 stories",
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 32 stories",
-    "Africa · Deutsche Welle: 2 stories",
+    "Africa · Deutsche Welle: 3 stories",
     "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 23 African stories held"
   ],
@@ -1099,12 +1099,72 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-18T23:20:15.000Z",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg"
+    },
+    {
+      "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T23:06:16.000Z",
+      "summary": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir."
+    },
+    {
+      "title": "Canadian military base fire kills at least four, injures dozens",
+      "link": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised",
+      "source": "France 24",
+      "published": "2026-10-18T22:16:51.000Z",
+      "summary": "Four Canadian service members were killed and 39 people hospitalised after a fire broke out during military training at a base in Alberta on Saturday, officials said. Premier Danielle Smith…",
+      "image": "https://s.france24.com/media/display/f386ca2a-cb40-11f1-afbe-638c1c1f5fd6/w:1024/p:16x9/AP26291249437617.jpg"
+    },
+    {
+      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+      "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T22:41:49.000Z",
+      "summary": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return."
+    },
+    {
+      "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+      "link": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+      "source": "France 24",
+      "published": "2026-10-18T21:59:34.000Z",
+      "summary": "US President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to…",
+      "image": "https://s.france24.com/media/display/c4a57392-8d19-11f1-9ad5-005056bfb2b6/w:1024/p:16x9/000-C3EB39E-1.jpg"
+    },
+    {
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
+      "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T21:53:13.000Z",
+      "summary": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight."
+    },
+    {
       "title": "What we know so far about deadly fire at Canadian military base",
       "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-18T21:23:01.000Z",
+      "published": "2026-10-18T21:37:56.000Z",
       "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg"
+    },
+    {
+      "title": "Macron condemns violence after riots lead to looting and mass arrests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T21:10:47.000Z",
+      "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes."
+    },
+    {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-18T21:00:22.000Z",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/43727360-cb12-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "title": "Political rivals implicated under Pakistan's anti-terror law",
@@ -1114,12 +1174,12 @@ window.GDC_NEWS = {
       "summary": "Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law."
     },
     {
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-18T21:00:22.000Z",
-      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side…",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/43727360-cb12-11f1-a64c-550be9e3c66b.jpg"
+      "published": "2026-10-18T20:33:21.000Z",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg"
     },
     {
       "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
@@ -1127,14 +1187,6 @@ window.GDC_NEWS = {
       "source": "NPR World",
       "published": "2026-10-18T21:00:08.000Z",
       "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered…"
-    },
-    {
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-18T20:33:21.000Z",
-      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg"
     },
     {
       "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
@@ -1344,58 +1396,16 @@ window.GDC_NEWS = {
       "published": "2026-10-18T14:51:28.000Z",
       "summary": "Ukraine says speed limits on Starlink are still hampering military efforts to fight off Russian drones, days after a surprise network slowdown that Kyiv called deliberate and Washington…",
       "image": "https://s.france24.com/media/display/ceb2d54c-caf8-11f1-8e5d-6313a763b466/w:1024/p:16x9/image-33.png"
-    },
-    {
-      "title": "Trump endorses Netanyahu in Israeli legislative elections",
-      "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T16:36:26.000Z",
-      "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader."
-    },
-    {
-      "title": "Pope Leo XIV thanks faithful for prayers at first appearance since surgery",
-      "link": "http://www.africanews.com/2026/10/18/pope-leo-xiv-thanks-faithful-for-prayers-at-first-appearance-since-surgery/",
-      "source": "Africanews",
-      "published": "2026-10-18T14:45:55.000Z",
-      "summary": "Pope Leo XIV thanked the thousands of faithful in the Vatican’s Saint Peter’s Square on Sunday for their prayers while he was hospitalised earlier this week."
-    },
-    {
-      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-      "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T16:25:52.000Z",
-      "summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'."
-    },
-    {
-      "title": "Russia: Huge flames and smoke rise over St Petersburg after drone strikes",
-      "link": "http://www.africanews.com/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes/",
-      "source": "Africanews",
-      "published": "2026-10-18T14:45:38.000Z",
-      "summary": "Huge plumes of black smoke billowed over St Petersburg, Russia’s second-largest city, on Sunday, 18 October, as a large-scale Ukrainian drone attack sparked fires at industrial and…"
-    },
-    {
-      "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T16:25:43.000Z",
-      "summary": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank."
-    },
-    {
-      "title": "Smashed storefronts, burned buildings: France wakes up to aftermath of violent protests",
-      "link": "http://www.africanews.com/2026/10/18/smashed-storefronts-burned-buildings-france-wakes-up-to-aftermath-of-violent-protests/",
-      "source": "Africanews",
-      "published": "2026-10-18T14:04:50.000Z",
-      "summary": "France woke up Sunday to devastated streets after clashes between police and protesters, mass looting and fires erupted nationwide as marches against rising costs of living degenerated into…"
-    },
-    {
-      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
-      "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T15:30:44.000Z",
-      "summary": "Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign."
     }
   ],
   "africa": [
+    {
+      "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
+      "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-18T22:04:00.000Z",
+      "summary": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province."
+    },
     {
       "title": "Africa: Every Story Is Unique, Every Journey Matters for Women's Cancers",
       "link": "https://allafrica.com/stories/202610180081.html",
@@ -1549,13 +1559,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-17T14:00:24.000Z",
       "summary": "Egyptian president pledges 'any measure' to help defend Saudi Arabia 'if it is requested of us'."
-    },
-    {
-      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
-      "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T09:44:47.000Z",
-      "summary": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala's busy livestock market."
     }
   ]
 };

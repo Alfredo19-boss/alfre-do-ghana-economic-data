@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T21:23:50.032Z",
+  "updated": "2026-10-18T23:24:58.444Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,105 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Harry Styles debuts new track in memory of Liam Payne",
+      "link": "https://www.myjoyonline.com/harry-styles-debuts-new-track-in-memory-of-liam-payne/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T22:35:00.000Z",
+      "summary": "Harry Styles performed an unreleased song he wrote for his former One Direction bandmate Liam Payne.",
+      "categories": [
+        "Music",
+        "Harry Styles"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1802-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS abuse allegations: Reported cases rise to 19",
+      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-allegations-reported-cases-rise-to-19/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T22:28:00.000Z",
+      "summary": "The number of students who have come forward with allegations of sexual abuse involving the suspended headmaster of Obuasi Senior High Technical School has risen from 16 to 19, JoyNews…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "News",
+        "Obuasi SHTS abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1343-1024x517.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Withdraw from Juaben chairmanship race or face disqualification – NDC tells Obuasi SHTS headmaster",
+      "link": "https://www.myjoyonline.com/withdraw-from-juaben-chairmanship-race-or-face-disqualification-ndc-tells-obuasi-shts-headmaster/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T22:16:00.000Z",
+      "summary": "The National Democratic Congress (NDC) has directed the suspended headmaster of Obuasi Senior High Technical School, Zakaria Abdulai, to withdraw his bid for the party’s Juaben constituency…",
+      "categories": [
+        "Politics",
+        "Top Story",
+        "NDC",
+        "Obuasi SHTS",
+        "Zakaria Abdulai"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ndc-gives-obuasi-shts-headmaster.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Serb player banned to 2050 for tennis match-fixing",
+      "link": "https://www.myjoyonline.com/serb-player-banned-to-2050-for-tennis-match-fixing/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T22:05:00.000Z",
+      "summary": "A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for…",
+      "categories": [
+        "Tennis",
+        "Match-fixing"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1800.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Quiet Engine of Growth: Why the right legal structure is your Ghanaian MSMEs’ greatest scaling tool",
+      "link": "https://www.myjoyonline.com/the-quiet-engine-of-growth-why-the-right-legal-structure-is-your-ghanaian-msmes-greatest-scaling-tool/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T21:56:00.000Z",
+      "summary": "Yet the uncomfortable truth is that some of the most ambitious micro and small enterprises (MSMEs) in Ghana hit a ceiling not because their ideas failed, but because their legal identities…",
+      "categories": [
+        "Opinion",
+        "Kweku Hammond",
+        "MSMEs"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-18-at-10.34.25-pm-1024x753.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Real Madrid demand Tebas resign over Goebbels comparison",
+      "link": "https://www.myjoyonline.com/real-madrid-demand-tebas-resign-over-goebbels-comparison/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T21:45:00.000Z",
+      "summary": "Real Madrid have called for the \"immediate resignation\" of La Liga president Javier Tebas after he drew comparisons between the club's management and Nazi propaganda chief Joseph Goebbels.",
+      "categories": [
+        "Football",
+        "Javier Tebas",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3002.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fatigued Zverev ‘overachieved’ by reaching Shanghai semis",
+      "link": "https://www.myjoyonline.com/fatigued-zverev-overachieved-by-reaching-shanghai-semis/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T21:34:00.000Z",
+      "summary": "World number two Alexander Zverev said he \"overachieved\" at the Shanghai Masters by reaching the semi-finals, despite fatigue from his busy schedule.",
+      "categories": [
+        "Tennis",
+        "Alexander Zverev"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-350.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "NPP demands publication of invoices for GH¢27m South Africa evacuation flights",
       "link": "https://www.myjoyonline.com/npp-demands-publication-of-invoices-for-gh%c2%a227m-south-africa-evacuation-flights/",
       "source": "MyJoyOnline",
@@ -42,91 +141,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NPP gives Ablakwa 7-day ultimatum over South Africa evacuation spending, vows further action",
-      "link": "https://www.myjoyonline.com/npp-gives-ablakwa-7-day-ultimatum-over-south-africa-evacuation-spending-vows-further-action/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T21:10:08.000Z",
-      "summary": "The New Patriotic Party (NPP) has given Foreign Affairs Minister Samuel Okudzeto Ablakwa seven days to produce documents covering the expenditure on the evacuation of Ghanaians from South…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "News",
-        "Politics",
-        "Ablakwa",
-        "NPP",
-        "South Africa",
-        "South Africa evacuation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-4.49.27-AM-1024x613.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man in police custody for alleged murder of a 2-year-old in Hohoe",
-      "link": "https://www.myjoyonline.com/man-in-police-custody-for-alleged-murder-of-a-2-year-old-in-hohoe/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T21:10:02.000Z",
-      "summary": "Man in police custody for alleged murder of a 2-year-old in Hohoe 26-year-old Robert Akator has been apprehended by the Volta North Regional Police Command for the alleged murder of a…",
-      "categories": [
-        "Crime",
-        "Hohoe"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ed5fc695-94b9-4718-9afc-21080d09551d-778x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Over half of South Africa evacuation expenditure lacks invoices – NPP",
-      "link": "https://www.myjoyonline.com/over-half-of-south-africa-evacuation-expenditure-lacks-invoices-npp/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T21:09:45.000Z",
-      "summary": "The New Patriotic Party (NPP) says more than half of the money spent on evacuating Ghanaians from South Africa is not supported by invoices in documents released by the Ministry of Foreign…",
-      "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Dennis Miracles Aboagye",
-        "NPP",
-        "South Africa evacuation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/evacua-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026/27: Medeama suffer first defeat as Aduana, Kotoko return to winning ways",
-      "link": "https://www.myjoyonline.com/2026-27-medeama-suffer-first-defeat-as-aduana-kotoko-return-to-winning-ways/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T20:45:28.000Z",
-      "summary": "Medeama SC suffered their first defeat of the Premier League season, while Aduana FC and Asante Kotoko returned to winning ways in an eventful Matchday 7 weekend of the Ghana Premier…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Asante Kotoko",
-        "Dreams Fc",
-        "FC Samartex",
-        "Ghana Premier League",
-        "Medeama SC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/SaxMed1-1024x819.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Economy still in low-risk credit environment, credit-to-GDP gap remains negative – BoG",
-      "link": "https://www.myjoyonline.com/economy-still-in-low-risk-credit-environment-credit-to-gdp-gap-remains-negative-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T20:44:43.000Z",
-      "summary": "“The negative gap points to the absence of excessive credit build-up and limited systemic risks and signals room for measured credit expansion to further support the real sector of the…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Banking Sector Report",
-        "BoG",
-        "GDP-to-Credit",
-        "Macro-financial risk"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/download-42.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ablakwa has offered explanations but has withheld accountability; Miracles Aboagye questions discrepancies in South Africa evacuee payment records",
       "link": "https://www.graphic.com.gh/news/politics/miracles-aboagye-questions-discrepancies-in-south-africa-evacuee-payment-records.html",
       "source": "Daily Graphic",
@@ -139,25 +153,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Banks’ profitability moderates, but record GH¢9.2bn profit in 8 months of 2026",
-      "link": "https://www.myjoyonline.com/banks-profitability-moderates-but-record-gh%c2%a29-2bn-profit-in-8-months-of-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T20:12:13.000Z",
-      "summary": "According to the October 2026 Banking Sector Development Report, growth across the banking industry's major income lines moderated during the review period, except for fees and commissions…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Cost-to-Income",
-        "Fees & Commission",
-        "interest income",
-        "Interest spread",
-        "RoA",
-        "RoE"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/download-6.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "YEF congratulates Alfred Kojo Thompson on election as NPP National Treasurer",
       "link": "https://www.graphic.com.gh/news/politics/yef-congratulates-alfred-kojo-thompson-on-election-as-npp-national-treasurer.html",
       "source": "Daily Graphic",
@@ -168,28 +163,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "IMF/ World Bank signs agreement with UAE over holding 2029 Annual Meetings in Abu Dhabi",
-      "link": "https://www.myjoyonline.com/imf-world-bank-signs-agreement-with-uae-over-holding-2029-annual-meetings-in-abu-dhabi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T19:27:59.000Z",
-      "summary": "The President of the World Bank Group, Ajay Banga and the Managing Director of the IMF, Kristalina Georgieva, initialled the agreement on behalf of their respective Institutions, while…",
-      "categories": [
-        "Business",
-        "Economy",
-        "Abu Dhabi",
-        "Ajay Banga",
-        "IMF",
-        "Khaled Mohamed Balama",
-        "Kristalina Georgieva",
-        "Mohamed bin Hadi Al Hussaini",
-        "Thailand",
-        "UAE",
-        "World Bank"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-05.44.17-1024x593.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "CHASS raises concerns over indiscipline in schools, backs sanctions",
