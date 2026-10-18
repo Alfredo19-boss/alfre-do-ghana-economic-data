@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T16:49:35.865Z",
+  "updated": "2026-10-18T19:01:12.603Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,125 +25,143 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Prof Stephen Adei urges Ghanaian businesses to build brands on quality, trust and innovation",
-      "link": "https://www.myjoyonline.com/prof-stephen-adei-urges-ghanaian-businesses-to-build-brands-on-quality-trust-and-innovation/",
+      "title": "T-bills auction: Government records 16% undersubscription; interest rates record mixed performance across yield curve",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-interest-rates-record-mixed-performance-across-yield-curve/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T16:48:00.000Z",
-      "summary": "Former Ghana Institute of Management and Public Administration (GIMPA) Rector, Professor Stephen Adei, has urged Ghanaian businesses to build competitive brands on quality, reliability…",
+      "published": "2026-10-18T18:53:30.000Z",
+      "summary": "The Treasury received GH¢4.17 billion of the total bids but accepted GH¢3.48 billion.",
       "categories": [
+        "Banking and Finance",
         "Business",
-        "Economy",
-        "National",
-        "Ghanaian Businesses",
-        "Prof Stephen Adei"
+        "182-day",
+        "364-day",
+        "91-day",
+        "BoG",
+        "T-Bills"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Prof-Addai-1-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fidel Amakye Owusu warns Ghana against risky new energy deals",
-      "link": "https://www.myjoyonline.com/fidel-amakye-owusu-warns-ghana-against-risky-new-energy-deals/",
+      "title": "15-year-old Ada SHS student dies after collapsing during school sporting activity",
+      "link": "https://www.myjoyonline.com/15-year-old-ada-shs-student-dies-after-collapsing-during-school-sporting-activity/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T16:30:30.000Z",
-      "summary": "Security risk and geopolitics consultant Fidel Amakye Owusu has cautioned Ghana against entering into new energy agreements without carefully assessing the potential long-term risks…",
+      "published": "2026-10-18T18:43:27.000Z",
+      "summary": "A 15-year-old student of Ada Senior High Technical School (ASTECH), Monde Konedu Agyemang, has died after reportedly collapsing during a sporting activity organised as part of the school’s…",
       "categories": [
+        "Education",
+        "HP News 3",
         "National",
-        "Energy",
-        "Fidel Amakye Owusu",
-        "Ghana"
+        "Ada Senior High Technical School",
+        "Collapse",
+        "Death"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/should-africa-join-brics-as-one-.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1798-1024x649.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Small-scale mining must not leave ‘residue of death’ – Prof Stephen Adei",
-      "link": "https://www.myjoyonline.com/small-scale-mining-must-not-leave-residue-of-death-prof-stephen-adei/",
+      "title": "Final day: Republic Bank-JoyNews Habitat Fair clinic in Ho closes on a high note with fun, big sales",
+      "link": "https://www.myjoyonline.com/final-day-republic-bank-joynews-habitat-fair-clinic-in-ho-closes-on-a-high-note-with-fun-big-sales/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T16:27:49.000Z",
-      "summary": "Former Rector of the Ghana Institute of Management and Public Administration (GIMPA), Professor Stephen Adei, has urged the government to enforce responsible small-scale mining practices…",
+      "published": "2026-10-18T18:33:40.000Z",
+      "summary": "The Republic Bank–JoyNews Habitat Fair clinic in Ho has ended on a high note, with lively activities, exciting offers and strong sales marking the final day of the three-day event. Held at…",
       "categories": [
+        "HP News 1",
         "National",
-        "Professor Stephen Adei",
-        "Small-scale mining"
+        "Hbitat fair",
+        "Ho"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Prof-Addai-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261018160047_IMG_9765.jpg-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "“Take the gold, but restore the Land” – Lands Minister charges five mining cooperatives",
-      "link": "https://www.myjoyonline.com/take-the-gold-but-restore-the-land-lands-minister-charges-five-mining-cooperatives/",
+      "title": "Techiman residents get free health screening as KGL Foundation marks Breast Cancer Awareness Month",
+      "link": "https://www.myjoyonline.com/techiman-residents-get-free-health-screening-as-kgl-foundation-marks-breast-cancer-awareness-month/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T16:21:57.000Z",
-      "summary": "The message was clear at Nkroful in the Ellembelle District: Ghana can mine its gold without sacrificing its land, rivers and the livelihoods of future generations.",
+      "published": "2026-10-18T18:28:14.000Z",
+      "summary": "The health screening, organised during Breast Cancer Awareness Month, offered breast cancer screening alongside checks for blood pressure, human papillomavirus (HPV), hepatitis B and C, and…",
+      "categories": [
+        "Health",
+        "Breast Cancer Awareness",
+        "Health sceening"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-6.23.45-PM-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CHASS raises concerns over indiscipline in schools, backs sanctions",
+      "link": "https://www.myjoyonline.com/chass-raises-concerns-over-indiscipline-in-schools-backs-sanctions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T18:22:35.000Z",
+      "summary": "The Conference of Heads of Second Cycle Schools (CHASS) has expressed deep concern about the rising cases of indiscipline among students and staff in senior high schools.",
+      "categories": [
+        "HP News 9",
+        "National",
+        "CHASS",
+        "schools"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1797.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Adutwum’s spokesperson demands GES Director-General’s accountability over Obuasi SHTS rape cases",
+      "link": "https://www.myjoyonline.com/adutwums-spokesperson-demands-ges-director-generals-accountability-over-obuasi-shts-rape-cases/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T18:20:42.000Z",
+      "summary": "The spokesperson for former Education Minister Dr Yaw Osei Adutwum has called on the Director-General of the Ghana Education Service (GES) to account for the delay in interdicting the…",
+      "categories": [
+        "Education",
+        "National",
+        "GES Director-General",
+        "Obuasi SHTS rape case",
+        "Yaw Opoku Mensah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-16.08.07-682x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yagbonwura to attend 2026 Hogbetsotso Festival in Anloga",
+      "link": "https://www.myjoyonline.com/yagbonwura-to-attend-2026-hogbetsotso-festival-in-anloga/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T18:05:41.000Z",
+      "summary": "The Overlord of the Gonja Kingdom, Yagbonwura Bii-Kunuto Jewu Soale I, will make a historic visit to Anloga in the Volta Region on November 7, 2026, to attend this year's Hogbetsotso Za.",
       "categories": [
         "National",
         "Regional",
-        "Gold",
-        "rCOMSDEP"
+        "Anloga",
+        "Yagbonwura"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1781-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1796.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana must turn economic stability into transformation – Prof Stephen Adei",
-      "link": "https://www.myjoyonline.com/ghana-must-turn-economic-stability-into-transformation-prof-stephen-adei/",
+      "title": "ShattaFest 2026: Shatta Wale delivers memorable birthday celebration at Accra Sports Stadium",
+      "link": "https://www.myjoyonline.com/shattafest-2026-shatta-wale-delivers-memorable-birthday-celebration-at-accra-sports-stadium/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T16:20:52.000Z",
-      "summary": "Former Rector of the Ghana Institute of Management and Public Administration (GIMPA), Professor Stephen Adei, says Ghana must translate its recent economic stabilisation into lasting…",
+      "published": "2026-10-18T18:05:34.000Z",
+      "summary": "Ghanaian dancehall star Shatta Wale has turned his 45th birthday celebration into a vibrant showcase of music, fan loyalty and entertainment, as ShattaFest 2026 drew thousands of fans and…",
       "categories": [
-        "HP News 2",
+        "HP Entertainment 1",
+        "HP News 8",
+        "Music",
         "National",
-        "economic stability",
-        "Ghana",
-        "Prof Stephen Adei"
+        "Shatta Wale",
+        "ShattaFest"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Prof-Addai-1-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-5.49.39-PM1-1024x518.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The Kiss That Cancelled a Wedding Before the Pastor Could Say Amen!",
-      "link": "https://www.myjoyonline.com/the-kiss-that-cancelled-a-wedding-before-the-pastor-could-say-amen/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T15:46:54.000Z",
-      "summary": "My people, we have entered dangerous times. A wedding has reportedly collapsed because the bride blew a kiss to her former boyfriend. Not an actual kiss, mind you. A flying kiss! One that…",
+      "title": "CHASS raises concerns over indiscipline in schools, backs sanctions",
+      "link": "https://www.graphic.com.gh/news/education/chass-raises-concerns-over-indiscipline-in-schools-backs-sanctions.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T16:58:08.000Z",
+      "summary": "",
       "categories": [
-        "Features",
-        "Opinion",
-        "Jimmy Aglah",
-        "Republic of Uncommon Sense",
-        "Wedding Drama"
+        "Education"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1759-938x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana consulate to host DPE Canada 2027 launch",
-      "link": "https://www.myjoyonline.com/ghana-consulate-to-host-dpe-canada-2027-launch/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T15:41:45.000Z",
-      "summary": "Ghana's High Commissioner to Canada, Her Excellency Prof. Dora Francisca Edu-Buandoh and her staff at the Consulate-General in Toronto have been extra busy recently as they put everything…",
-      "categories": [
-        "National",
-        "Diaspora Property Expo (DPE)",
-        "DPE Canada 2027"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1757-683x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS abuse: Adults who knew but failed to act are also guilty – Mariam Darlington",
-      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-adults-who-knew-but-failed-to-act-are-also-guilty-mariam-darlington/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T15:39:00.000Z",
-      "summary": "Executive Secretary and Head of Public Relations of the African Women Lawyers Association (AWLA), Marian Darlington, has criticised adults who allegedly knew about sexual abuse at Obuasi…",
-      "categories": [
-        "National",
-        "News",
-        "Mariam Darlington",
-        "Obuasi SHTS abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mariam-1024x517.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/16/chaSSE.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Yagbonwura to attend 2026 Hogbetsotso Festival in Anloga",
@@ -239,18 +257,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/18/lord_boateng.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana to post teachers, nurses to U.S. Virgin Islands under new bilateral accord",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-to-post-teachers-nurses-to-u-s-virgin-islands-under-new-bilateral-accord.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T20:02:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/18/delegation5.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
