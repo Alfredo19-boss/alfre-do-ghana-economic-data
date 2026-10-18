@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T09:39:48.821Z",
+  "updated": "2026-10-18T13:33:30.251Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,123 +25,170 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Assisi Girls SHS launches 70th anniversary as Joyce Bawah Mogtari, stakeholders champion girl-child education",
-      "link": "https://www.myjoyonline.com/assisi-girls-shs-launches-70th-anniversary-as-joyce-bawah-mogtari-stakeholders-champion-girl-child-education/",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "link": "https://www.myjoyonline.com/several-dead-or-injured-in-major-fire-at-canada-military-base/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T09:31:06.000Z",
-      "summary": "Hundreds of alumnae, traditional authorities, educators, and students converged on the campus of St. Francis of Assisi Girls’ Senior High School in Jirapa on Saturday, October 17, to mark…",
+      "published": "2026-10-18T13:11:13.000Z",
+      "summary": "Several people have been killed or injured as a result of a large fire near a Canadian military base in Alberta, the nation's defence minister has said.",
       "categories": [
-        "News",
-        "Bawa Mogtari",
-        "St. Francis of Assisi Girls"
+        "International",
+        "Canada",
+        "Fire"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-19.29.43-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1749-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "ECOWAS, AES agree to build cooperation framework at Dakar meeting, after 2025 split",
-      "link": "https://www.myjoyonline.com/ecowas-aes-agree-to-build-cooperation-framework-at-dakar-meeting-after-split-in-2025/",
+      "title": "Priest dies after statue of Jesus falls on him during mass livestream",
+      "link": "https://www.myjoyonline.com/priest-dies-after-statue-of-jesus-falls-on-him-during-mass-livestream/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T09:24:10.000Z",
-      "summary": "The Economic Community of West African States (ECOWAS) and the Alliance of Sahel States (AES) have agreed on ground rules for life after the split.",
+      "published": "2026-10-18T13:11:03.000Z",
+      "summary": "A Catholic priest died after a cross fell on top of him while he was performing a mass in Ecuador, which was being livestreamed at the time.",
+      "categories": [
+        "International",
+        "cross",
+        "Dies",
+        "Priest"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-1.09.11-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t will not lower certification standards under One Million Coders Programme – Sam George",
+      "link": "https://www.myjoyonline.com/govt-will-not-lower-certification-standards-under-one-million-coders-programme-sam-george/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T13:03:02.000Z",
+      "summary": "The Minister for Communication, Digital Technology and Innovation, Samuel Nartey George, says that the government will maintain international certification standards under the One Million…",
       "categories": [
         "National",
-        "Top Story",
-        "Dakar",
-        "ECOWAS"
+        "Technology",
+        "One Million Coders Programme",
+        "Samuel Nartey George"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Mahama_ECOWAS-Heads-1024x559.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Economics-Standards-Coders2-1024x576.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Republic Bank–JoyNews Habitat Fair in Ho enters final day with unbeatable discounts",
-      "link": "https://www.myjoyonline.com/republic-bank-joynews-habitat-fair-in-ho-enters-final-day-with-unbeatable-discounts/",
+      "title": "Some ministers steal but aren’t arrested, while ‘fraud boys’ are – Shatta Wale criticises selective justice recounting EOCO saga",
+      "link": "https://www.myjoyonline.com/some-ministers-steal-but-arent-arrested-while-fraud-boys-are-shatta-wale-criticises-selective-justice-recounting-eoco-saga/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T09:19:07.000Z",
-      "summary": "The Republic Bank–JoyNews Habitat Fair clinic in Ho is set to enter its final day today, Sunday, October 18, with exhibitors offering discounts of up to 30% on selected products and…",
+      "published": "2026-10-18T12:59:24.000Z",
+      "summary": "Ghanaian dancehall artiste Shatta Wale has criticised what he perceives as selective justice in Ghana, accusing authorities of targeting young people over fraud while ministers who…",
       "categories": [
-        "HP News 2",
+        "Music",
         "National",
-        "discounts",
-        "Ho",
-        "Republic Bank–JoyNews Habitat Fair"
+        "Shatta Wale",
+        "Steal"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017160331_IMG_9568-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Shatta-Wale-17-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "link": "https://www.myjoyonline.com/three-men-jailed-for-158-years-each-for-murdering-australian-and-us-surfers-in-mexico/",
+      "title": "Gender Ministry convenes stakeholders to review national action plan to combat human trafficking",
+      "link": "https://www.myjoyonline.com/gender-ministry-convenes-stakeholders-to-review-national-action-plan-to-combat-human-trafficking/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T09:10:05.000Z",
-      "summary": "A Mexican judge has sentenced three men convicted of murdering Australian brothers Jake and Callum Robinson and their US friend Carter Rhoad to 158 years and nine months in jail each.",
+      "published": "2026-10-18T12:35:47.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection has convened a Technical Working Group (TWG) meeting to review and support the development of a new National Plan of Action (NPA) to…",
+      "categories": [
+        "National",
+        "Gender Ministry",
+        "Human trafficking"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/854627481_1492962702893855_5453309075422746782_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yagbonwura Cultural and Eco-Tourism Experience to showcase Savannah Region’s heritage and investment potential",
+      "link": "https://www.myjoyonline.com/yagbonwura-cultural-and-eco-tourism-experience-to-showcase-savannah-regions-heritage-and-investment-potential/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T12:35:40.000Z",
+      "summary": "As part of activities marking the 6th Inter Tourism Expo Accra (INTTA) 2026, the Yagbonwura Cultural and Eco-Tourism Experience will take participants on a journey through the Savannah…",
+      "categories": [
+        "In Focus",
+        "National",
+        "Yagbonwura Cultural and Eco-Tourism Experience"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-69-e1792326935747-1024x575.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "link": "https://www.myjoyonline.com/burnt-out-cars-and-shattered-glass-on-paris-streets-after-protests-turn-to-riots-and-looting/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T12:25:52.000Z",
+      "summary": "France awoke to scenes of widespread damage on Sunday after a day of riots and demonstrations, with shopfronts shattered, burnt out cars, charred bikes, and piles of glass and debris on the…",
       "categories": [
         "International",
-        "Jailed",
-        "Men",
-        "Mexico",
-        "US"
+        "Cars",
+        "Paris",
+        "Protest",
+        "riots"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1739.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1746-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "link": "https://www.myjoyonline.com/pope-discharged-from-hospital-days-after-lung-cancer-surgery/",
+      "title": "Ghana Armed Forces graduates 20 special operations personnel",
+      "link": "https://www.myjoyonline.com/ghana-armed-forces-graduates-20-special-operations-personnel/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T09:04:44.000Z",
-      "summary": "Pope Leo XIV has been discharged from Rome's Gemelli Hospital, just four days after an operation to remove a cancerous growth from his lung.",
+      "published": "2026-10-18T12:18:40.000Z",
+      "summary": "The Ghana Armed Forces (GAF) has graduated 20 personnel from the Special Operations Forces Basic Course 5-26, as it strengthens its capacity to respond to emerging security threats and…",
       "categories": [
-        "International",
-        "Hospital",
-        "lung cancer",
-        "Pope"
+        "HP News 1",
+        "National",
+        "Ghana Armed Forces",
+        "special operations personnel"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1738.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1792282549_image_3_uLnwc4yrIV-1024x673.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Take science and mathematics seriously to help drive national development – Students urged",
-      "link": "https://www.myjoyonline.com/take-science-and-mathematics-seriously-to-help-drive-national-development-students-urged/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T09:01:21.000Z",
-      "summary": "The Abuakwa North Municipal Director of Education in the Eastern Region, Grace Adza-Wude, has urged students to take Science and Mathematics seriously to help address Ghana’s challenges and…",
+      "title": "KGL Foundation screens over 200 residents in Techiman for breast cancer and general health",
+      "link": "https://www.graphic.com.gh/news/health/kgl-foundation-screens-over-200-residents-in-techiman-for-breast-cancer-and-general-health.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T11:48:16.000Z",
+      "summary": "",
       "categories": [
-        "Education",
-        "Development",
-        "Science",
-        "Students"
+        "Health"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1737.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Will you marry outside your tribe?",
-      "link": "https://www.myjoyonline.com/will-you-marry-outside-your-tribe/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T08:25:44.000Z",
-      "summary": "In Ghanaian culture and traditions, every adult is expected to marry and, among others, continue the lineage. In the past, it was the duty of parents to find partners for their children.",
+      "title": "Ghana Consulate in Toronto to launch DPE Canada 2027 on November 27",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-consulate-in-toronto-to-launch-dpe-canada-2027-on-november-27.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T11:25:09.000Z",
+      "summary": "",
       "categories": [
-        "Relationships",
-        "Marry",
-        "tribe"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1734.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-      "link": "https://www.myjoyonline.com/violent-clashes-looting-and-buildings-ablaze-in-france-as-more-than-1200-arrested-after-protests/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T08:19:07.000Z",
-      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against hardship in schools and the cost of living.",
+      "title": "GFA appoints Kim Lars Björkegren to lead interim Black Stars technical team",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gfa-appoints-kim-lars-bjoerkegren-to-lead-interim-black-stars-technical-team.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-18T11:18:41.000Z",
+      "summary": "Björkegren will be assisted by former Ghana internationals Ibrahim Tanko and Godwin Attram, while Fatawu Dauda will serve as goalkeeping coach. The appointment follows a recommendation by…",
       "categories": [
-        "International",
-        "Clash",
-        "France"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1735.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/16/1009087535.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "No pesewa missing in South Africa evacuation — Ablakwa to Minority",
+      "link": "https://www.graphic.com.gh/news/politics/no-pesewa-missing-in-south-africa-evacuation-ablakwas-reaction-to-minority.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T09:41:45.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/18/okudzeto.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "How Odwira@200 was celebrated at Aburi with a heavy downpour",
@@ -225,42 +272,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/Bawa.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police arrest 41 suspects in Lapaz, Chantan drug operation",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-41-suspects-in-lapaz-chantan-drug-operation.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T15:28:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Lapaz.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Lands Minister charges mining cooperatives: Take the gold, but restore the land",
-      "link": "https://www.graphic.com.gh/news/general-news/lands-minister-charges-mining-cooperatives-take-the-gold-but-restore-the-land.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T14:37:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/16/1b1ecb00-2f20-4c05-8985-d1adf78c8896.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education Ministry should protect girls and hold sexual abusers accountable - Zonta Clubs",
-      "link": "https://www.graphic.com.gh/news/general-news/education-ministry-should-protect-girls-and-hold-sexual-abusers-accountable-zonta-club.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T13:10:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/haruna_is.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -425,18 +436,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/15/Golf1.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "GBA elections set for October 31, Minister rules out extra funding",
-      "link": "https://www.graphic.com.gh/sports/sports-news/gba-elections-set-for-october-31-minister-rules-out-extra-funding.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-15T14:39:14.000Z",
-      "summary": "“The election is to be conducted at the end of October. That’s what I was told,” Mr Adams confirmed, reinforcing the deadline set by the National Sports Authority (NSA). In a directive…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/CAPTAN.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
