@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T00:52:45.411Z",
+  "updated": "2026-10-18T05:14:02.230Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,114 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Republic Bank–JoyNews Habitat Fair draws patrons with discounts of up to 30% as event enters final day in Ho",
+      "link": "https://www.myjoyonline.com/republic-bank-joynews-habitat-fair-draws-patrons-with-discounts-of-up-to-30-as-event-enters-final-day-in-ho/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T05:06:41.000Z",
+      "summary": "Exhibitors at the Republic Bank–JoyNews Habitat Fair in Ho are offering discounts of up to 30% on selected products and services as the event enters its final day. JoyNews reporter Maxwell…",
+      "categories": [
+        "Events",
+        "HP News 2",
+        "Regional",
+        "Habitat Fair",
+        "Ho",
+        "JoyNews",
+        "Republic Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017162246_IMG_9601-1024x613.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Samuel Jinapor questions expected economic benefits of Ghana’s proposed BRICS partnership",
+      "link": "https://www.myjoyonline.com/samuel-jinapor-questions-expected-economic-benefits-of-ghanas-proposed-brics-partnership/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T04:58:11.000Z",
+      "summary": "The Ranking Member of Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has questioned the benefits outlined by the government for Ghana’s proposed partnership with BRICS…",
+      "categories": [
+        "HP News 7",
+        "International",
+        "National",
+        "Politics",
+        "BRICS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-newsfile-17-10-26-ghc2a24.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Day two of Republic Bank- JoyNews Habitat Fair ends with massive turnout, Borborbor performances",
+      "link": "https://www.myjoyonline.com/day-two-of-republic-bank-joynews-habitat-fair-ends-with-massive-turnout-borborbor-performances/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T04:55:03.000Z",
+      "summary": "The second day of the Republic Bank–JoyNews Habitat Fair in Ho ended with a cultural performance by the Woelinam Borborbor Group, as massive crowds continued to troop to the venue.",
+      "categories": [
+        "Events",
+        "HP News 8",
+        "National",
+        "Photo Story",
+        "Regional",
+        "borborbor",
+        "Ho",
+        "Republic Bank–JoyNews Habitat Fair"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017161539_IMG_9595.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We voted for a reset, not equalization’ – Senyo Hosi on EC appointments",
+      "link": "https://www.myjoyonline.com/we-voted-for-a-reset-not-equalization-senyo-hosi-on-ec-appointments/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T01:28:02.000Z",
+      "summary": "Convenor of the One Ghana Movement and policy analyst Senyo Hosi has described President John Dramani Mahama’s appointment of Emelia Afi Agbenyo as a Deputy Chairperson of the Electoral…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "EC appointments",
+        "equalization",
+        "Reset",
+        "Senyo Hosi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-9.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sam George unveils plan to connect 48 government data registries for AI-driven planning",
+      "link": "https://www.myjoyonline.com/sam-george-unveils-plan-to-connect-48-government-data-registries-for-ai-driven-planning/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T01:08:12.000Z",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has disclosed that the government is developing a national data exchange hub to connect 48 data registries…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP News 9",
+        "National",
+        "News",
+        "Technology",
+        "Artificial Intelligence (AI)",
+        "Digital Economy Forum",
+        "Sam George"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-10.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament must not be a spectator in BRICS decision – Hassan Ayariga",
+      "link": "https://www.myjoyonline.com/parliament-must-not-be-a-spectator-in-brics-decision-hassan-ayariga/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T01:06:12.000Z",
+      "summary": "The Founder and Leader of the All People’s Congress (APC), Hassan Ayariga, has called on Parliament to scrutinise the government’s proposed move to join BRICS, warning against excluding…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "News",
+        "BRICS",
+        "Hassan Ayariga",
+        "Parliament",
+        "Spectator"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/onamoreseriousnote-dr-hassan-aya-1-754x424-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Japan Motors MD Salem Kalmoni named CIMG Marketing Man of the Year",
       "link": "https://www.myjoyonline.com/japan-motors-md-salem-kalmoni-named-cimg-marketing-man-of-the-year/",
@@ -60,39 +168,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MyJoyOnline wins CIMG Online News Portal of the Year award 2025",
-      "link": "https://www.myjoyonline.com/myjoyonline-wins-cimg-online-news-portal-of-the-year-award-2025/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T23:23:28.000Z",
-      "summary": "MyJoyOnline.com has been named Marketing-Oriented Online News Portal of the Year for 2025 at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute of…",
-      "categories": [
-        "Events",
-        "HP News 1",
-        "National",
-        "CIMG",
-        "Myjoyonline",
-        "online news portal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_4144.jpg-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana must protect national interest in pursuit of BRICS membership – Hassan Ayariga",
-      "link": "https://www.myjoyonline.com/ghana-must-protect-national-interest-in-pursuit-of-brics-membership-hassan-ayariga/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T22:56:00.000Z",
-      "summary": "The Founder and Leader of the All People’s Congress (APC), Hassan Ayariga, has cautioned Ghana against exchanging one form of economic dependency for another as the government pursues…",
-      "categories": [
-        "News",
-        "APC",
-        "BRICS",
-        "Hassan Ayariga",
-        "Parliament"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-5-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "How Odwira@200 was celebrated at Aburi with a heavy downpour",
       "link": "https://www.graphic.com.gh/news/general-news/how-odwira-200-was-celebrated-at-aburi-amidst-a-heavy-downpour.html",
       "source": "Daily Graphic",
@@ -103,74 +178,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/18/aburi1.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Multimedia Group wins Media Organisation of the Year award at the 2025 CIMG Awards",
-      "link": "https://www.myjoyonline.com/multimedia-group-wins-media-organisation-of-the-year-award-at-the-2025-cimg-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T22:30:03.000Z",
-      "summary": "The Multimedia Group Limited has been named Marketing-Oriented Media Organisation of the Year for 2025 at the 37th Annual National Marketing Performance Awards organised by the Chartered…",
-      "categories": [
-        "Events",
-        "National",
-        "Top Story",
-        "CIMG 2025",
-        "Labadi Beach Hotel",
-        "Multimedia Group"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_4173.jpg-1024x554.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JoyNews’ #NoToGalamsey campaign wins CIMG New Media Campaign of the Year",
-      "link": "https://www.myjoyonline.com/joynews-notogalamsey-campaign-wins-cimg-new-media-campaign-of-the-year/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T22:22:30.000Z",
-      "summary": "JoyNews’ #NoToGalamsey campaign has been named New Media Campaign of the Year for 2025 at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute of…",
-      "categories": [
-        "Events",
-        "HP News 3",
-        "National",
-        "CIMG",
-        "Multimedia Group",
-        "New media campaign"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/MGL.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Multimedia Group’s #NoToGalamsey campaign wins CIMG New Media Campaign Award",
-      "link": "https://www.myjoyonline.com/multimedia-groups-notogalamsey-campaign-wins-cimg-new-media-campaign-award/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T22:22:30.000Z",
-      "summary": "The Multimedia Group’s anti-galamsey campaign, Galamsey Fight (#NoToGalamsey), has won the New Media Campaign Award at the 37th Annual National Marketing Performance Awards. The award…",
-      "categories": [
-        "Events",
-        "National",
-        "CIMG",
-        "Multimedia Group",
-        "New media campaign"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/MGL.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MyJoyOnline inducted into CIMG Hall of Fame after five consecutive award wins",
-      "link": "https://www.myjoyonline.com/myjoyonline-inducted-into-cimg-hall-of-fame-after-five-consecutive-award-wins/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T22:10:33.000Z",
-      "summary": "MyJoyOnline.com has been inducted into the Hall of Fame category by the Chartered Institute of Marketing, Ghana (CIMG), in recognition of its performance and contribution to society. The…",
-      "categories": [
-        "Events",
-        "HP News 4",
-        "National",
-        "37th National Marketing Awards",
-        "CIMG",
-        "Hall of Fame",
-        "Myjoyonline"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "British Museum must do more, including full return of all 'looted' Asante gold, Ethiopian Tabots and Benin Bronzes - Lord Boateng",
