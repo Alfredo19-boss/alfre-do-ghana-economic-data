@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-17T23:02:33.112Z",
-  "worldAt": "2026-10-17T23:02:33.109Z",
+  "updated": "2026-10-18T00:52:32.245Z",
+  "worldAt": "2026-10-18T00:52:32.244Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,13 +22,13 @@ window.GDC_NEWS = {
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
@@ -46,6 +46,20 @@ window.GDC_NEWS = {
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Japan Motors MD Salem Kalmoni named CIMG Marketing Man of the Year",
+      "link": "https://www.myjoyonline.com/japan-motors-md-salem-kalmoni-named-cimg-marketing-man-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T00:45:55.000Z",
+      "summary": "The Managing Director of Japan Motors, Salem Kalmoni, has been named Marketing Man of the Year at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute…"
+    },
+    {
+      "title": "GSE Managing Director Abena Amoah named 2025 CIMG Marketing Woman of the Year",
+      "link": "https://www.myjoyonline.com/gse-managing-director-abena-amoah-named-2025-cimg-marketing-woman-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T00:33:25.000Z",
+      "summary": "The Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, has been named Marketing Woman of the Year at the 37th Annual National Marketing Performance Awards organised by the…"
+    },
     {
       "title": "British Museum must do more, including full return of all 'looted' Asante gold, Ethiopian Tabots and Benin Bronzes - Lord Boateng",
       "link": "https://www.graphic.com.gh/news/general-news/british-museum-must-do-more-including-full-return-of-all-looted-asante-gold-ethiopian-tabots-and-benin-bronzes-lord-boateng.html",
@@ -1081,23 +1095,31 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-15T06:14:00.000Z",
       "summary": "Ghana’s economy expanded by 6.0 per cent in the second quarter of 2026, but growth was uneven across sectors, with agriculture slowing sharply while services continued to lead the…"
-    },
-    {
-      "title": "Women-Led Businesses Grow Faster After First Loans, Konfío Study Finds",
-      "link": "https://thehighstreetjournal.com/women-led-businesses-grow-after-1st-loans/",
-      "source": "The High Street Journal",
-      "published": "2026-10-15T06:00:00.000Z",
-      "summary": "A study conducted with IDB Invest found average business growth of 19.4% among firms on the Mexican fintech’s platform, rising to 42% for women-led businesses over roughly 18 months to two…"
-    },
-    {
-      "title": "Bank Miscommunication Behind 20% Netflix Tax Controversy — Senior GRA Official",
-      "link": "https://thehighstreetjournal.com/bank-miscommunication-behind-20-netflix-tax-controversy-senior-gra-official/",
-      "source": "The High Street Journal",
-      "published": "2026-10-15T05:05:00.000Z",
-      "summary": "A senior GRA official attributes confusion over the 20% digital services tax to bank miscommunication as the authority clarifies that the tax is not new."
     }
   ],
   "world": [
+    {
+      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T00:00:11.000Z",
+      "summary": "Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank."
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-17T23:52:38.000Z",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"
+    },
+    {
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T23:40:59.000Z",
+      "summary": "Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a 'despicable act of terror'."
+    },
     {
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
       "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
@@ -1107,11 +1129,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png"
     },
     {
-      "title": "Student protests widen into greater social unrest in France",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
-      "source": "NPR World",
-      "published": "2026-10-17T21:18:52.000Z",
-      "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent."
+      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+      "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T23:21:57.000Z",
+      "summary": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region."
     },
     {
       "title": "How day of protests unfolded as disorder breaks out across France",
@@ -1122,11 +1144,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg"
     },
     {
-      "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
+      "title": "Student protests widen into greater social unrest in France",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
       "source": "NPR World",
-      "published": "2026-10-17T21:18:50.000Z",
-      "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal."
+      "published": "2026-10-17T21:18:52.000Z",
+      "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent."
     },
     {
       "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
@@ -1134,6 +1156,20 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-17T21:08:10.000Z",
       "summary": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches."
+    },
+    {
+      "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
+      "source": "NPR World",
+      "published": "2026-10-17T21:18:50.000Z",
+      "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal."
+    },
+    {
+      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+      "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T21:02:26.000Z",
+      "summary": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU."
     },
     {
       "title": "Anti-government protesters battle with police in Albania",
@@ -1144,11 +1180,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg"
     },
     {
-      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-      "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+      "title": "Ten killed in fire at beach resort in Bangladesh",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T21:02:26.000Z",
-      "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU."
+      "published": "2026-10-17T20:50:01.000Z",
+      "summary": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh."
     },
     {
       "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
@@ -1159,11 +1195,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg"
     },
     {
-      "title": "Ten killed in fire at beach resort in Bangladesh",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+      "title": "Protesters allege police brutality as violent clashes rage on in Albania",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T20:50:01.000Z",
-      "summary": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh."
+      "published": "2026-10-17T20:40:38.000Z",
+      "summary": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry."
     },
     {
       "title": "Looters seize on massive French protests to raid and vandalise shops",
@@ -1174,11 +1210,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg"
     },
     {
-      "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+      "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T20:40:38.000Z",
-      "summary": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry."
+      "published": "2026-10-17T20:20:25.000Z",
+      "summary": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France."
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -1189,11 +1225,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"
     },
     {
-      "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
+      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-17T20:20:25.000Z",
-      "summary": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France."
+      "published": "2026-10-17T20:02:22.000Z",
+      "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz"
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -1204,20 +1240,6 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg"
     },
     {
-      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T20:02:22.000Z",
-      "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz"
-    },
-    {
-      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-      "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-17T19:17:00.000Z",
-      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president…"
-    },
-    {
       "title": "At least 17 killed in stampede at religious gathering in India",
       "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1225,12 +1247,11 @@ window.GDC_NEWS = {
       "summary": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said."
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-17T18:38:57.000Z",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"
+      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
+      "link": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-17T19:17:00.000Z",
+      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president…"
     },
     {
       "title": "Albanian police fire rubber bullets as protests against Rama escalate",
@@ -1373,31 +1394,16 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-17T16:56:40.000Z",
       "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services."
-    },
-    {
-      "title": "Israeli settlers attack European delegation convoy in West Bank, beat French mayor",
-      "link": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-      "source": "France 24",
-      "published": "2026-10-17T14:58:07.000Z",
-      "summary": "Israeli settlers on Saturday attacked a convoy carrying a European delegation in the occupied West Bank, beating up a 78-year-old French mayor. While Israel's Prime Minister Benjamin…",
-      "image": "https://s.france24.com/media/display/99f3ef8a-ca3a-11f1-b233-2d1c143cdef3/w:1024/p:16x9/000-D3CR48X.jpg"
-    },
-    {
-      "title": "Why are Latin American countries building closer ties with Israel?",
-      "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T16:54:44.000Z",
-      "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza."
-    },
-    {
-      "title": "China's influence in the gaming industry is growing",
-      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-17T14:49:00.000Z",
-      "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players…"
     }
   ],
   "africa": [
+    {
+      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+      "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T23:21:57.000Z",
+      "summary": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region."
+    },
     {
       "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
       "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-africa-8291-rdf",
@@ -1671,13 +1677,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-16T16:51:25.000Z",
       "summary": "[Daily Trust] The Nigerian Railway Corporation's (NRC) Port Harcourt-Aba train service is providing an additional transport link for traders and business operators whose activities connect…"
-    },
-    {
-      "title": "South African pastor, wife arrested after 200 found in suspected illegal rehab centre",
-      "link": "http://www.africanews.com/2026/10/16/south-african-pastor-wife-arrested-after-200-found-in-suspected-illegal-rehab-centre/",
-      "source": "Africanews",
-      "published": "2026-10-16T14:54:51.000Z",
-      "summary": "Police in South Africa have arrested a pastor and his wife after a raid on a church-run rehabilitation centre in Mpumalanga province revealed shocking living conditions."
     }
   ]
 };

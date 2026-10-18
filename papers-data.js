@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-17T23:02:50.627Z",
+  "updated": "2026-10-18T00:52:45.411Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,58 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Japan Motors MD Salem Kalmoni named CIMG Marketing Man of the Year",
+      "link": "https://www.myjoyonline.com/japan-motors-md-salem-kalmoni-named-cimg-marketing-man-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T00:45:55.000Z",
+      "summary": "The Managing Director of Japan Motors, Salem Kalmoni, has been named Marketing Man of the Year at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute…",
+      "categories": [
+        "Business",
+        "Events",
+        "CIMG",
+        "Japan Motors",
+        "Salem Kalmoni"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-8.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GSE Managing Director Abena Amoah named 2025 CIMG Marketing Woman of the Year",
+      "link": "https://www.myjoyonline.com/gse-managing-director-abena-amoah-named-2025-cimg-marketing-woman-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T00:33:25.000Z",
+      "summary": "The Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, has been named Marketing Woman of the Year at the 37th Annual National Marketing Performance Awards organised by the…",
+      "categories": [
+        "Business",
+        "Events",
+        "HP News 5",
+        "National",
+        "Abena Amoah",
+        "CIMG",
+        "Ghana Stock Exchange",
+        "Marketing woman"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-7.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MyJoyOnline wins CIMG Online News Portal of the Year award 2025",
+      "link": "https://www.myjoyonline.com/myjoyonline-wins-cimg-online-news-portal-of-the-year-award-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T23:23:28.000Z",
+      "summary": "MyJoyOnline.com has been named Marketing-Oriented Online News Portal of the Year for 2025 at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute of…",
+      "categories": [
+        "Events",
+        "HP News 1",
+        "National",
+        "CIMG",
+        "Myjoyonline",
+        "online news portal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_4144.jpg-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana must protect national interest in pursuit of BRICS membership – Hassan Ayariga",
       "link": "https://www.myjoyonline.com/ghana-must-protect-national-interest-in-pursuit-of-brics-membership-hassan-ayariga/",
       "source": "MyJoyOnline",
@@ -41,7 +93,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "How Odwira@200 was celebrated at Aburi amidst a heavy downpour",
+      "title": "How Odwira@200 was celebrated at Aburi with a heavy downpour",
       "link": "https://www.graphic.com.gh/news/general-news/how-odwira-200-was-celebrated-at-aburi-amidst-a-heavy-downpour.html",
       "source": "Daily Graphic",
       "published": "2026-10-17T22:48:21.000Z",
@@ -61,11 +113,29 @@ window.GDC_PAPERS = {
       "categories": [
         "Events",
         "National",
+        "Top Story",
         "CIMG 2025",
         "Labadi Beach Hotel",
         "Multimedia Group"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_4173.jpg-1024x554.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "JoyNews’ #NoToGalamsey campaign wins CIMG New Media Campaign of the Year",
+      "link": "https://www.myjoyonline.com/joynews-notogalamsey-campaign-wins-cimg-new-media-campaign-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T22:22:30.000Z",
+      "summary": "JoyNews’ #NoToGalamsey campaign has been named New Media Campaign of the Year for 2025 at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute of…",
+      "categories": [
+        "Events",
+        "HP News 3",
+        "National",
+        "CIMG",
+        "Multimedia Group",
+        "New media campaign"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/MGL.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -85,6 +155,24 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "MyJoyOnline inducted into CIMG Hall of Fame after five consecutive award wins",
+      "link": "https://www.myjoyonline.com/myjoyonline-inducted-into-cimg-hall-of-fame-after-five-consecutive-award-wins/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-17T22:10:33.000Z",
+      "summary": "MyJoyOnline.com has been inducted into the Hall of Fame category by the Chartered Institute of Marketing, Ghana (CIMG), in recognition of its performance and contribution to society. The…",
+      "categories": [
+        "Events",
+        "HP News 4",
+        "National",
+        "37th National Marketing Awards",
+        "CIMG",
+        "Hall of Fame",
+        "Myjoyonline"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "British Museum must do more, including full return of all 'looted' Asante gold, Ethiopian Tabots and Benin Bronzes - Lord Boateng",
       "link": "https://www.graphic.com.gh/news/general-news/british-museum-must-do-more-including-full-return-of-all-looted-asante-gold-ethiopian-tabots-and-benin-bronzes-lord-boateng.html",
       "source": "Daily Graphic",
@@ -95,88 +183,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/18/lord_boateng.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hassan Ayariga challenges Mahama over BRICS move, demands parliamentary consultation",
-      "link": "https://www.myjoyonline.com/hassan-ayariga-challenges-mahama-over-brics-move-demands-parliamentary-consultation/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T21:50:00.000Z",
-      "summary": "The Founder and Leader of the All People’s Congress (APC), Dr Hassan Ayariga, has challenged President John Dramani Mahama over the government’s plan to pursue Ghana’s membership of BRICS…",
-      "categories": [
-        "National",
-        "Politics",
-        "BRICS move",
-        "Hassan Ayariga",
-        "Mahama",
-        "Parliament"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-4-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Belgium-based ICGC pastor enstooled Amanonehene of Abotakyi",
-      "link": "https://www.myjoyonline.com/belgium-based-icgc-pastor-enstooled-amanonehene-of-abotakyi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T21:32:27.000Z",
-      "summary": "A 44-year-old Reverend Minister of the International Central Gospel Church (ICGC), Rev. Richard Tagoe, has been enstooled Amanonehene of Abotakyi in the Akuapem Traditional Area of the…",
-      "categories": [
-        "Regional",
-        "Abotakyi",
-        "amanonehene",
-        "ICGC",
-        "Pastor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Tagoe.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Hearts of Oak seal back-to-back wins as Berekum Chelsea shock Lions in Kpando",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-hearts-of-oak-seal-back-to-back-wins-as-berekum-chelsea-shock-lions-in-kpando/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:40:37.000Z",
-      "summary": "Hearts of Oak secured back-to-back Premier League victories after edging Vision FC 1-0 at the Nii Adjei Kraku Complex in Tema New Town on Saturday, while Berekum Chelsea stunned Heart of…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Berekum Chelsea",
-        "Ghana Premier League",
-        "Hearts of Oak"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HaertsViso-1024x920.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WAFU B U17: Black Starlets to face Ivory Coast in semi-final clash",
-      "link": "https://www.myjoyonline.com/wafu-b-u17-black-starlets-to-face-ivory-coast-in-semi-final-clash/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:36:12.000Z",
-      "summary": "The West African rivals will lock horns in the first semi-final on Tuesday at 16:00 GMT, with a place in the final and qualification for the 2027 U17 Africa Cup of Nations in Morocco at…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Black Starlets",
-        "Ivory Coast",
-        "WAFU B U17:"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Black-Starlets-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GMA donates 300 life jackets to boat operators, fishers in Dambai",
-      "link": "https://www.myjoyonline.com/gma-donates-300-life-jackets-to-boat-operators-fishers-in-dambai/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-17T20:30:43.000Z",
-      "summary": "The Ghana Maritime Authority (GMA) has handed over 300 life jackets to boat operators and fishers in Dambai to promote safety compliance and reduce fatalities on the Oti River.",
-      "categories": [
-        "Regional",
-        "300 life jackets",
-        "Boat Operators",
-        "Ghana Maritime Authority (GMA)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ho-Social-Fishers-Jacket-1jpeg-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana to post teachers, nurses to U.S. Virgin Islands under new bilateral accord",
@@ -227,6 +233,30 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
+      "title": "Police arrest four, recover 142 parcels of suspected Indian hemp, reject GH¢50,000 bribe",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-four-recover-142-parcels-of-suspected-indian-hemp-reject-ghc50-000-bribe.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T15:47:58.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Bawa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Police arrest 41 suspects in Lapaz, Chantan drug operation",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-41-suspects-in-lapaz-chantan-drug-operation.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-17T15:28:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Lapaz.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Lands Minister charges mining cooperatives: Take the gold, but restore the land",
       "link": "https://www.graphic.com.gh/news/general-news/lands-minister-charges-mining-cooperatives-take-the-gold-but-restore-the-land.html",
       "source": "Daily Graphic",
@@ -248,30 +278,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/haruna_is.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Who gave Cabinet the authority to decide for over 34 million Ghanaians to join BRICS without Parliamentary and public consultation? - Hassan Ayariga, leader of APC",
-      "link": "https://www.graphic.com.gh/news/politics/who-gave-cabinet-the-authority-to-decide-for-over-34-million-ghanaians-to-join-brics-without-parliamentary-and-public-consultation-hassan-ayariga-leader-of-apc.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T11:33:09.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/ayariga_hassan.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana receives $250,000 ECOWAS relief for June flood victims through Adventist Development and Relief Agency - Ablakwa",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-receives-250-000-ecowas-relief-for-june-flood-victims.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T11:12:45.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/June/07/flood10.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
