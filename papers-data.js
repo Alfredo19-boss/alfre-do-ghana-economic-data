@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T19:01:12.603Z",
+  "updated": "2026-10-18T21:23:50.032Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,130 +25,170 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "T-bills auction: Government records 16% undersubscription; interest rates record mixed performance across yield curve",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-16-undersubscription-interest-rates-record-mixed-performance-across-yield-curve/",
+      "title": "NPP demands publication of invoices for GH¢27m South Africa evacuation flights",
+      "link": "https://www.myjoyonline.com/npp-demands-publication-of-invoices-for-gh%c2%a227m-south-africa-evacuation-flights/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T18:53:30.000Z",
-      "summary": "The Treasury received GH¢4.17 billion of the total bids but accepted GH¢3.48 billion.",
+      "published": "2026-10-18T21:11:17.000Z",
+      "summary": "The Communications Director of the New Patriotic Party (NPP), Dennis Miracles Aboagye, has challenged Foreign Affairs Minister Samuel Okudzeto Ablakwa to publish the original Ethiopian…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Dennis Miracles Aboagye",
+        "NPP",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/fligh-1024x580.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP gives Ablakwa 7-day ultimatum over South Africa evacuation spending, vows further action",
+      "link": "https://www.myjoyonline.com/npp-gives-ablakwa-7-day-ultimatum-over-south-africa-evacuation-spending-vows-further-action/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T21:10:08.000Z",
+      "summary": "The New Patriotic Party (NPP) has given Foreign Affairs Minister Samuel Okudzeto Ablakwa seven days to produce documents covering the expenditure on the evacuation of Ghanaians from South…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "News",
+        "Politics",
+        "Ablakwa",
+        "NPP",
+        "South Africa",
+        "South Africa evacuation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-4.49.27-AM-1024x613.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man in police custody for alleged murder of a 2-year-old in Hohoe",
+      "link": "https://www.myjoyonline.com/man-in-police-custody-for-alleged-murder-of-a-2-year-old-in-hohoe/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T21:10:02.000Z",
+      "summary": "Man in police custody for alleged murder of a 2-year-old in Hohoe 26-year-old Robert Akator has been apprehended by the Volta North Regional Police Command for the alleged murder of a…",
+      "categories": [
+        "Crime",
+        "Hohoe"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ed5fc695-94b9-4718-9afc-21080d09551d-778x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Over half of South Africa evacuation expenditure lacks invoices – NPP",
+      "link": "https://www.myjoyonline.com/over-half-of-south-africa-evacuation-expenditure-lacks-invoices-npp/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T21:09:45.000Z",
+      "summary": "The New Patriotic Party (NPP) says more than half of the money spent on evacuating Ghanaians from South Africa is not supported by invoices in documents released by the Ministry of Foreign…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Dennis Miracles Aboagye",
+        "NPP",
+        "South Africa evacuation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/evacua-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026/27: Medeama suffer first defeat as Aduana, Kotoko return to winning ways",
+      "link": "https://www.myjoyonline.com/2026-27-medeama-suffer-first-defeat-as-aduana-kotoko-return-to-winning-ways/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T20:45:28.000Z",
+      "summary": "Medeama SC suffered their first defeat of the Premier League season, while Aduana FC and Asante Kotoko returned to winning ways in an eventful Matchday 7 weekend of the Ghana Premier…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Asante Kotoko",
+        "Dreams Fc",
+        "FC Samartex",
+        "Ghana Premier League",
+        "Medeama SC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/SaxMed1-1024x819.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Economy still in low-risk credit environment, credit-to-GDP gap remains negative – BoG",
+      "link": "https://www.myjoyonline.com/economy-still-in-low-risk-credit-environment-credit-to-gdp-gap-remains-negative-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T20:44:43.000Z",
+      "summary": "“The negative gap points to the absence of excessive credit build-up and limited systemic risks and signals room for measured credit expansion to further support the real sector of the…",
       "categories": [
         "Banking and Finance",
         "Business",
-        "182-day",
-        "364-day",
-        "91-day",
+        "Banking Sector Report",
         "BoG",
-        "T-Bills"
+        "GDP-to-Credit",
+        "Macro-financial risk"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/download-42.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "15-year-old Ada SHS student dies after collapsing during school sporting activity",
-      "link": "https://www.myjoyonline.com/15-year-old-ada-shs-student-dies-after-collapsing-during-school-sporting-activity/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T18:43:27.000Z",
-      "summary": "A 15-year-old student of Ada Senior High Technical School (ASTECH), Monde Konedu Agyemang, has died after reportedly collapsing during a sporting activity organised as part of the school’s…",
+      "title": "Ablakwa has offered explanations but has withheld accountability; Miracles Aboagye questions discrepancies in South Africa evacuee payment records",
+      "link": "https://www.graphic.com.gh/news/politics/miracles-aboagye-questions-discrepancies-in-south-africa-evacuee-payment-records.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T20:17:29.000Z",
+      "summary": "",
       "categories": [
-        "Education",
-        "HP News 3",
-        "National",
-        "Ada Senior High Technical School",
-        "Collapse",
-        "Death"
+        "Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1798-1024x649.png",
+      "image": "https://www.graphic.com.gh/images/2026/May/14/682026123845-osjvm8x432-miracles-galamsey.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Banks’ profitability moderates, but record GH¢9.2bn profit in 8 months of 2026",
+      "link": "https://www.myjoyonline.com/banks-profitability-moderates-but-record-gh%c2%a29-2bn-profit-in-8-months-of-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T20:12:13.000Z",
+      "summary": "According to the October 2026 Banking Sector Development Report, growth across the banking industry's major income lines moderated during the review period, except for fees and commissions…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Cost-to-Income",
+        "Fees & Commission",
+        "interest income",
+        "Interest spread",
+        "RoA",
+        "RoE"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/download-6.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Final day: Republic Bank-JoyNews Habitat Fair clinic in Ho closes on a high note with fun, big sales",
-      "link": "https://www.myjoyonline.com/final-day-republic-bank-joynews-habitat-fair-clinic-in-ho-closes-on-a-high-note-with-fun-big-sales/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T18:33:40.000Z",
-      "summary": "The Republic Bank–JoyNews Habitat Fair clinic in Ho has ended on a high note, with lively activities, exciting offers and strong sales marking the final day of the three-day event. Held at…",
+      "title": "YEF congratulates Alfred Kojo Thompson on election as NPP National Treasurer",
+      "link": "https://www.graphic.com.gh/news/politics/yef-congratulates-alfred-kojo-thompson-on-election-as-npp-national-treasurer.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T19:50:47.000Z",
+      "summary": "",
       "categories": [
-        "HP News 1",
-        "National",
-        "Hbitat fair",
-        "Ho"
+        "Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261018160047_IMG_9765.jpg-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Techiman residents get free health screening as KGL Foundation marks Breast Cancer Awareness Month",
-      "link": "https://www.myjoyonline.com/techiman-residents-get-free-health-screening-as-kgl-foundation-marks-breast-cancer-awareness-month/",
+      "title": "IMF/ World Bank signs agreement with UAE over holding 2029 Annual Meetings in Abu Dhabi",
+      "link": "https://www.myjoyonline.com/imf-world-bank-signs-agreement-with-uae-over-holding-2029-annual-meetings-in-abu-dhabi/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T18:28:14.000Z",
-      "summary": "The health screening, organised during Breast Cancer Awareness Month, offered breast cancer screening alongside checks for blood pressure, human papillomavirus (HPV), hepatitis B and C, and…",
+      "published": "2026-10-18T19:27:59.000Z",
+      "summary": "The President of the World Bank Group, Ajay Banga and the Managing Director of the IMF, Kristalina Georgieva, initialled the agreement on behalf of their respective Institutions, while…",
       "categories": [
-        "Health",
-        "Breast Cancer Awareness",
-        "Health sceening"
+        "Business",
+        "Economy",
+        "Abu Dhabi",
+        "Ajay Banga",
+        "IMF",
+        "Khaled Mohamed Balama",
+        "Kristalina Georgieva",
+        "Mohamed bin Hadi Al Hussaini",
+        "Thailand",
+        "UAE",
+        "World Bank"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-6.23.45-PM-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CHASS raises concerns over indiscipline in schools, backs sanctions",
-      "link": "https://www.myjoyonline.com/chass-raises-concerns-over-indiscipline-in-schools-backs-sanctions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T18:22:35.000Z",
-      "summary": "The Conference of Heads of Second Cycle Schools (CHASS) has expressed deep concern about the rising cases of indiscipline among students and staff in senior high schools.",
-      "categories": [
-        "HP News 9",
-        "National",
-        "CHASS",
-        "schools"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1797.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adutwum’s spokesperson demands GES Director-General’s accountability over Obuasi SHTS rape cases",
-      "link": "https://www.myjoyonline.com/adutwums-spokesperson-demands-ges-director-generals-accountability-over-obuasi-shts-rape-cases/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T18:20:42.000Z",
-      "summary": "The spokesperson for former Education Minister Dr Yaw Osei Adutwum has called on the Director-General of the Ghana Education Service (GES) to account for the delay in interdicting the…",
-      "categories": [
-        "Education",
-        "National",
-        "GES Director-General",
-        "Obuasi SHTS rape case",
-        "Yaw Opoku Mensah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-16.08.07-682x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Yagbonwura to attend 2026 Hogbetsotso Festival in Anloga",
-      "link": "https://www.myjoyonline.com/yagbonwura-to-attend-2026-hogbetsotso-festival-in-anloga/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T18:05:41.000Z",
-      "summary": "The Overlord of the Gonja Kingdom, Yagbonwura Bii-Kunuto Jewu Soale I, will make a historic visit to Anloga in the Volta Region on November 7, 2026, to attend this year's Hogbetsotso Za.",
-      "categories": [
-        "National",
-        "Regional",
-        "Anloga",
-        "Yagbonwura"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1796.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ShattaFest 2026: Shatta Wale delivers memorable birthday celebration at Accra Sports Stadium",
-      "link": "https://www.myjoyonline.com/shattafest-2026-shatta-wale-delivers-memorable-birthday-celebration-at-accra-sports-stadium/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T18:05:34.000Z",
-      "summary": "Ghanaian dancehall star Shatta Wale has turned his 45th birthday celebration into a vibrant showcase of music, fan loyalty and entertainment, as ShattaFest 2026 drew thousands of fans and…",
-      "categories": [
-        "HP Entertainment 1",
-        "HP News 8",
-        "Music",
-        "National",
-        "Shatta Wale",
-        "ShattaFest"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-5.49.39-PM1-1024x518.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-05.44.17-1024x593.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -233,30 +273,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/18/okudzeto.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "How Odwira@200 was celebrated at Aburi with a heavy downpour",
-      "link": "https://www.graphic.com.gh/news/general-news/how-odwira-200-was-celebrated-at-aburi-amidst-a-heavy-downpour.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T22:48:21.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/18/aburi1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "British Museum must do more, including full return of all 'looted' Asante gold, Ethiopian Tabots and Benin Bronzes - Lord Boateng",
-      "link": "https://www.graphic.com.gh/news/general-news/british-museum-must-do-more-including-full-return-of-all-looted-asante-gold-ethiopian-tabots-and-benin-bronzes-lord-boateng.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T22:07:29.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/18/lord_boateng.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
