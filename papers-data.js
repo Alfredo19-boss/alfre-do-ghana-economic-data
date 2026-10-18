@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T05:14:02.230Z",
+  "updated": "2026-10-18T09:39:48.821Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,146 +25,122 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Republic Bank–JoyNews Habitat Fair draws patrons with discounts of up to 30% as event enters final day in Ho",
-      "link": "https://www.myjoyonline.com/republic-bank-joynews-habitat-fair-draws-patrons-with-discounts-of-up-to-30-as-event-enters-final-day-in-ho/",
+      "title": "Assisi Girls SHS launches 70th anniversary as Joyce Bawah Mogtari, stakeholders champion girl-child education",
+      "link": "https://www.myjoyonline.com/assisi-girls-shs-launches-70th-anniversary-as-joyce-bawah-mogtari-stakeholders-champion-girl-child-education/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T05:06:41.000Z",
-      "summary": "Exhibitors at the Republic Bank–JoyNews Habitat Fair in Ho are offering discounts of up to 30% on selected products and services as the event enters its final day. JoyNews reporter Maxwell…",
+      "published": "2026-10-18T09:31:06.000Z",
+      "summary": "Hundreds of alumnae, traditional authorities, educators, and students converged on the campus of St. Francis of Assisi Girls’ Senior High School in Jirapa on Saturday, October 17, to mark…",
       "categories": [
-        "Events",
+        "News",
+        "Bawa Mogtari",
+        "St. Francis of Assisi Girls"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-19.29.43-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ECOWAS, AES agree to build cooperation framework at Dakar meeting, after 2025 split",
+      "link": "https://www.myjoyonline.com/ecowas-aes-agree-to-build-cooperation-framework-at-dakar-meeting-after-split-in-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T09:24:10.000Z",
+      "summary": "The Economic Community of West African States (ECOWAS) and the Alliance of Sahel States (AES) have agreed on ground rules for life after the split.",
+      "categories": [
+        "National",
+        "Top Story",
+        "Dakar",
+        "ECOWAS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Mahama_ECOWAS-Heads-1024x559.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Republic Bank–JoyNews Habitat Fair in Ho enters final day with unbeatable discounts",
+      "link": "https://www.myjoyonline.com/republic-bank-joynews-habitat-fair-in-ho-enters-final-day-with-unbeatable-discounts/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T09:19:07.000Z",
+      "summary": "The Republic Bank–JoyNews Habitat Fair clinic in Ho is set to enter its final day today, Sunday, October 18, with exhibitors offering discounts of up to 30% on selected products and…",
+      "categories": [
         "HP News 2",
-        "Regional",
-        "Habitat Fair",
-        "Ho",
-        "JoyNews",
-        "Republic Bank"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017162246_IMG_9601-1024x613.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samuel Jinapor questions expected economic benefits of Ghana’s proposed BRICS partnership",
-      "link": "https://www.myjoyonline.com/samuel-jinapor-questions-expected-economic-benefits-of-ghanas-proposed-brics-partnership/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T04:58:11.000Z",
-      "summary": "The Ranking Member of Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has questioned the benefits outlined by the government for Ghana’s proposed partnership with BRICS…",
-      "categories": [
-        "HP News 7",
-        "International",
         "National",
-        "Politics",
-        "BRICS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/live-newsfile-17-10-26-ghc2a24.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Day two of Republic Bank- JoyNews Habitat Fair ends with massive turnout, Borborbor performances",
-      "link": "https://www.myjoyonline.com/day-two-of-republic-bank-joynews-habitat-fair-ends-with-massive-turnout-borborbor-performances/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T04:55:03.000Z",
-      "summary": "The second day of the Republic Bank–JoyNews Habitat Fair in Ho ended with a cultural performance by the Woelinam Borborbor Group, as massive crowds continued to troop to the venue.",
-      "categories": [
-        "Events",
-        "HP News 8",
-        "National",
-        "Photo Story",
-        "Regional",
-        "borborbor",
+        "discounts",
         "Ho",
         "Republic Bank–JoyNews Habitat Fair"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017161539_IMG_9595.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/20261017160331_IMG_9568-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘We voted for a reset, not equalization’ – Senyo Hosi on EC appointments",
-      "link": "https://www.myjoyonline.com/we-voted-for-a-reset-not-equalization-senyo-hosi-on-ec-appointments/",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "link": "https://www.myjoyonline.com/three-men-jailed-for-158-years-each-for-murdering-australian-and-us-surfers-in-mexico/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T01:28:02.000Z",
-      "summary": "Convenor of the One Ghana Movement and policy analyst Senyo Hosi has described President John Dramani Mahama’s appointment of Emelia Afi Agbenyo as a Deputy Chairperson of the Electoral…",
+      "published": "2026-10-18T09:10:05.000Z",
+      "summary": "A Mexican judge has sentenced three men convicted of murdering Australian brothers Jake and Callum Robinson and their US friend Carter Rhoad to 158 years and nine months in jail each.",
       "categories": [
-        "HP News 6",
-        "National",
-        "EC appointments",
-        "equalization",
-        "Reset",
-        "Senyo Hosi"
+        "International",
+        "Jailed",
+        "Men",
+        "Mexico",
+        "US"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-9.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1739.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sam George unveils plan to connect 48 government data registries for AI-driven planning",
-      "link": "https://www.myjoyonline.com/sam-george-unveils-plan-to-connect-48-government-data-registries-for-ai-driven-planning/",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "link": "https://www.myjoyonline.com/pope-discharged-from-hospital-days-after-lung-cancer-surgery/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T01:08:12.000Z",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has disclosed that the government is developing a national data exchange hub to connect 48 data registries…",
+      "published": "2026-10-18T09:04:44.000Z",
+      "summary": "Pope Leo XIV has been discharged from Rome's Gemelli Hospital, just four days after an operation to remove a cancerous growth from his lung.",
       "categories": [
-        "Business",
-        "Economy",
-        "HP News 9",
-        "National",
-        "News",
-        "Technology",
-        "Artificial Intelligence (AI)",
-        "Digital Economy Forum",
-        "Sam George"
+        "International",
+        "Hospital",
+        "lung cancer",
+        "Pope"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/is-artificial-intelligence-ai-a-1-10.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1738.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Parliament must not be a spectator in BRICS decision – Hassan Ayariga",
-      "link": "https://www.myjoyonline.com/parliament-must-not-be-a-spectator-in-brics-decision-hassan-ayariga/",
+      "title": "Take science and mathematics seriously to help drive national development – Students urged",
+      "link": "https://www.myjoyonline.com/take-science-and-mathematics-seriously-to-help-drive-national-development-students-urged/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T01:06:12.000Z",
-      "summary": "The Founder and Leader of the All People’s Congress (APC), Hassan Ayariga, has called on Parliament to scrutinise the government’s proposed move to join BRICS, warning against excluding…",
+      "published": "2026-10-18T09:01:21.000Z",
+      "summary": "The Abuakwa North Municipal Director of Education in the Eastern Region, Grace Adza-Wude, has urged students to take Science and Mathematics seriously to help address Ghana’s challenges and…",
       "categories": [
-        "HP News 10",
-        "National",
-        "News",
-        "BRICS",
-        "Hassan Ayariga",
-        "Parliament",
-        "Spectator"
+        "Education",
+        "Development",
+        "Science",
+        "Students"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/onamoreseriousnote-dr-hassan-aya-1-754x424-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1737.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Japan Motors MD Salem Kalmoni named CIMG Marketing Man of the Year",
-      "link": "https://www.myjoyonline.com/japan-motors-md-salem-kalmoni-named-cimg-marketing-man-of-the-year/",
+      "title": "Will you marry outside your tribe?",
+      "link": "https://www.myjoyonline.com/will-you-marry-outside-your-tribe/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T00:45:55.000Z",
-      "summary": "The Managing Director of Japan Motors, Salem Kalmoni, has been named Marketing Man of the Year at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute…",
+      "published": "2026-10-18T08:25:44.000Z",
+      "summary": "In Ghanaian culture and traditions, every adult is expected to marry and, among others, continue the lineage. In the past, it was the duty of parents to find partners for their children.",
       "categories": [
-        "Business",
-        "Events",
-        "CIMG",
-        "Japan Motors",
-        "Salem Kalmoni"
+        "Relationships",
+        "Marry",
+        "tribe"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-8.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1734.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GSE Managing Director Abena Amoah named 2025 CIMG Marketing Woman of the Year",
-      "link": "https://www.myjoyonline.com/gse-managing-director-abena-amoah-named-2025-cimg-marketing-woman-of-the-year/",
+      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+      "link": "https://www.myjoyonline.com/violent-clashes-looting-and-buildings-ablaze-in-france-as-more-than-1200-arrested-after-protests/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T00:33:25.000Z",
-      "summary": "The Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, has been named Marketing Woman of the Year at the 37th Annual National Marketing Performance Awards organised by the…",
+      "published": "2026-10-18T08:19:07.000Z",
+      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against hardship in schools and the cost of living.",
       "categories": [
-        "Business",
-        "Events",
-        "HP News 5",
-        "National",
-        "Abena Amoah",
-        "CIMG",
-        "Ghana Stock Exchange",
-        "Marketing woman"
+        "International",
+        "Clash",
+        "France"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-7.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1735.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
