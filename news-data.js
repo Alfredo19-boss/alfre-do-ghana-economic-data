@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-18T13:33:16.789Z",
-  "worldAt": "2026-10-18T13:33:16.787Z",
+  "updated": "2026-10-18T16:49:22.084Z",
+  "worldAt": "2026-10-18T16:49:22.082Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -29,23 +29,51 @@ window.GDC_NEWS = {
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
     "World · BBC News: 29 stories",
-    "World · Deutsche Welle: 12 stories",
+    "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 30 stories",
-    "Africa · Africanews: 31 stories",
+    "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 4 stories",
+    "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 24 African stories held"
   ],
   "items": [
+    {
+      "title": "Ghana Secures €300,000 to Develop Malaria and Mpox Treatments",
+      "link": "https://thehighstreetjournal.com/ghana-todevelop-malaria-mpox-treatments/",
+      "source": "The High Street Journal",
+      "published": "2026-10-18T16:00:13.000Z",
+      "summary": "The initiative combines research into two infectious diseases with efforts to build domestic capacity in biotechnology, pharmaceutical manufacturing and computing"
+    },
+    {
+      "title": "Accra’s Double Wahala: Pay More and Still ‘Suffer’",
+      "link": "https://thehighstreetjournal.com/accras-double-wahala-pay-more-and-still-suffer/",
+      "source": "The High Street Journal",
+      "published": "2026-10-18T15:00:05.000Z",
+      "summary": "Accra and Abidjan face a costly urban dilemma: residents pay more yet experience poorer quality of life. Alfred Appiah’s analysis contrasts this with affordable, liveable cities, while…"
+    },
+    {
+      "title": "Liberia’s Vice President Jeremiah Koung arrives in Ghana for Mining in Motion Summit 2026",
+      "link": "https://www.myjoyonline.com/liberias-vice-president-jeremiah-koung-arrives-in-ghana-for-mining-in-motion-summit-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T14:50:01.000Z",
+      "summary": "Liberia’s Vice President, Jeremiah Koung, has arrived in Ghana to participate in the Mining in Motion Summit 2026, as African leaders and industry stakeholders prepare to discuss the future…"
+    },
+    {
+      "title": "IMF Urges Fiscal Restraint as Rising Bond Yields Raise Government Borrowing Costs",
+      "link": "https://thehighstreetjournal.com/rising-bond-yields-raise-borrowing-costs/",
+      "source": "The High Street Journal",
+      "published": "2026-10-18T14:00:47.000Z",
+      "summary": "The increase in benchmark yields is pushing up financing costs across advanced and emerging markets"
+    },
     {
       "title": "AI Boom Offsets Energy Shock as IMF Holds Global Growth Forecast at 3.1%",
       "link": "https://thehighstreetjournal.com/ai-boom-offsets-energy-shock/",
@@ -1067,37 +1095,162 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-15T11:20:00.000Z",
       "summary": "John Denton says legal recognition of electronic trade records and more consistent rules would help smaller businesses trade internationally without repeated documentation and compliance…"
-    },
-    {
-      "title": "October 7 Attack Strengthens Israel’s Resolve To Protect Citizens, Says Ambassador",
-      "link": "https://thehighstreetjournal.com/october-7-attack-strengthens-israels-resolve-to-protect-citizens-says-ambassador/",
-      "source": "The High Street Journal",
-      "published": "2026-10-15T10:06:29.000Z",
-      "summary": "Three years on, Israel remains determined to strengthen security and protect its future, Ambassador Roey Gilad says."
-    },
-    {
-      "title": "Bagbin rallies Africa for fairer global financial system",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-bagbin-rallies-africa-for-fairer-global-financial-system.html",
-      "source": "Graphic Online",
-      "published": "2026-10-15T09:08:02.000Z",
-      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has called on African countries to speak with one voice in demanding a fairer global financial system to address the continent’s…"
-    },
-    {
-      "title": "COCOBOD raises GH¢16.3bn on GSE - Proceeds to fund cocoa purchases, operations",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-cocobod-raises-ghc16-3bn-on-gse-proceeds-to-fund-cocoa-purchases-operations.html",
-      "source": "Graphic Online",
-      "published": "2026-10-15T09:02:14.000Z",
-      "summary": "The Ghana Cocoa Board (COCOBOD) has issued and listed its highest-ever cedi-denominated instrument on the Ghana Stock Exchange (GSE) to raise GH¢16.30 billion to fund cocoa purchases."
-    },
-    {
-      "title": "Cedi depreciates by 7.11% against dollar in August 2026 – BoG report",
-      "link": "https://www.myjoyonline.com/cedi-depreciates-by-7-11-against-dollar-in-august-2026-bog-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-15T08:59:03.000Z",
-      "summary": "The Bank of Ghana (BoG) Monetary Policy Report for September 2026 has shown that the cedi depreciated by 7.11 percent against the dollar on a year-to-date basis in August 2026 — on the…"
     }
   ],
   "world": [
+    {
+      "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
+      "link": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+      "source": "France 24",
+      "published": "2026-10-18T16:25:00.000Z",
+      "summary": "US President Donald Trump on Sunday endorsed Prime Minister Benjamin Netanyahu ahead of Israel's October 27 elections. It was not clear what impact the endorsement would have on voters…",
+      "image": "https://s.france24.com/media/display/7c3ce8c8-cb0e-11f1-946e-6313a763b466/w:1024/p:16x9/2026-10-18T155301Z-1509213277-RC2KQIA83EQP-RTRMADP-3-ISRAEL-ELECTION-TRUMP.jpg"
+    },
+    {
+      "title": "France: Paris, Lyon and Marseille count the cost after violent protests",
+      "link": "http://www.africanews.com/2026/10/18/france-paris-lyon-and-marseille-count-the-cost-after-violent-protests/",
+      "source": "Africanews",
+      "published": "2026-10-18T15:56:57.000Z",
+      "summary": "Streets littered with broken glass, burnt bicycles and debris greeted residents in France on Sunday 18 October, following demonstrations that left extensive damage across Paris, Lyon and…"
+    },
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-18T15:46:10.000Z",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+      "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T15:30:44.000Z",
+      "summary": "Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign."
+    },
+    {
+      "title": "Who capped Starlink in Ukraine? Musk, Trump and Rubio give three different answers",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers",
+      "source": "France 24",
+      "published": "2026-10-18T14:51:28.000Z",
+      "summary": "Ukraine says speed limits on Starlink are still hampering military efforts to fight off Russian drones, days after a surprise network slowdown that Kyiv called deliberate and Washington…",
+      "image": "https://s.france24.com/media/display/ceb2d54c-caf8-11f1-8e5d-6313a763b466/w:1024/p:16x9/image-33.png"
+    },
+    {
+      "title": "Manchester United held at Leeds despite improved performance for Carrick",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T15:28:30.000Z",
+      "summary": "Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds."
+    },
+    {
+      "title": "Pope Leo XIV thanks faithful for prayers at first appearance since surgery",
+      "link": "http://www.africanews.com/2026/10/18/pope-leo-xiv-thanks-faithful-for-prayers-at-first-appearance-since-surgery/",
+      "source": "Africanews",
+      "published": "2026-10-18T14:45:55.000Z",
+      "summary": "Pope Leo XIV thanked the thousands of faithful in the Vatican’s Saint Peter’s Square on Sunday for their prayers while he was hospitalised earlier this week."
+    },
+    {
+      "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T15:10:05.000Z",
+      "summary": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers."
+    },
+    {
+      "title": "Russia: Huge flames and smoke rise over St Petersburg after drone strikes",
+      "link": "http://www.africanews.com/2026/10/18/russia-huge-flames-and-smoke-rise-over-st-petersburg-after-drone-strikes/",
+      "source": "Africanews",
+      "published": "2026-10-18T14:45:38.000Z",
+      "summary": "Huge plumes of black smoke billowed over St Petersburg, Russia’s second-largest city, on Sunday, 18 October, as a large-scale Ukrainian drone attack sparked fires at industrial and…"
+    },
+    {
+      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+      "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T15:08:18.000Z",
+      "summary": "Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas."
+    },
+    {
+      "title": "Smashed storefronts, burned buildings: France wakes up to aftermath of violent protests",
+      "link": "http://www.africanews.com/2026/10/18/smashed-storefronts-burned-buildings-france-wakes-up-to-aftermath-of-violent-protests/",
+      "source": "Africanews",
+      "published": "2026-10-18T14:04:50.000Z",
+      "summary": "France woke up Sunday to devastated streets after clashes between police and protesters, mass looting and fires erupted nationwide as marches against rising costs of living degenerated into…"
+    },
+    {
+      "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
+      "link": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T14:42:01.000Z",
+      "summary": "Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank."
+    },
+    {
+      "title": "'Like we had a war': France left reeling after nationwide violent protests",
+      "link": "https://www.france24.com/en/france/20261018-like-we-had-a-war-france-left-reeling-after-nationwide-violent-protests",
+      "source": "France 24",
+      "published": "2026-10-18T13:50:00.000Z",
+      "summary": "France on Sunday is dealing with the aftermath of nationwide protests that damaged around 1,500 businesses and caused losses estimated at hundreds of millions of euros. Police arrested an…",
+      "image": "https://s.france24.com/media/display/f4e9e986-caf7-11f1-9538-6313a763b466/w:1024/p:16x9/2026-10-18T114757Z-1738373567-RC2N5OA0XP4Z-RTRMADP-3-FRANCE-PROTEST.jpg"
+    },
+    {
+      "title": "France protests live: Macron to address nation after protests",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T14:26:11.000Z",
+      "summary": "Protests are sweeping France as anger over conditions in schools meets frustration with high living costs"
+    },
+    {
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-18T13:47:07.000Z",
+      "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f795/live/26bf0220-cacb-11f1-b5ff-6fb710f59c84.jpg"
+    },
+    {
+      "title": "Why is Trump now encouraging mail-in voting?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T14:09:16.000Z",
+      "summary": "Donald Trump has spent years claiming mail-in voting is corrupt. Al Jazeera's Noor Wazwaz explains."
+    },
+    {
+      "title": "The week in pictures: Escalating protests across Europe and the tragic capsize of a migrant boat",
+      "link": "https://www.france24.com/en/france/20261018-the-week-in-pictures-escalating-protests-across-europe-and-the-tragic-capsize-of-a-migrant-boat",
+      "source": "France 24",
+      "published": "2026-10-18T13:36:27.000Z",
+      "summary": "From student protests and heightened tensions across French demonstrations on October 17, to ongoing anti-government marches in Albania and the tragic sinking of a migrant boat off the…",
+      "image": "https://s.france24.com/media/display/1c4f8a14-ca0b-11f1-a0b5-6313a763b466/w:1024/p:16x9/000-D3K887M.jpg"
+    },
+    {
+      "title": "Why have France’s school protests become a wider political crisis?",
+      "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T13:48:04.000Z",
+      "summary": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards."
+    },
+    {
+      "title": "France: Young voters blase about Glucksmann's Socialists",
+      "link": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-18T13:31:00.000Z",
+      "summary": "Raphael Glucksmann wants to lead France's Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular with young voters. How can the…"
+    },
+    {
+      "title": "Sudan army accused of drone strike on livestock market",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T13:37:03.000Z",
+      "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit."
+    },
+    {
+      "title": "IMF annual meeting: Developing nations need greater digital connectivity",
+      "link": "http://www.africanews.com/2026/10/18/imf-annual-meeting-developing-nations-need-greater-digital-connectivity/",
+      "source": "Africanews",
+      "published": "2026-10-18T13:30:18.000Z",
+      "summary": "An AI boom is lifting technology-exporting economies. But rising energy costs and climate disasters are pushing many developing nations into debt distress. Greater digital connectivity…"
+    },
     {
       "title": "'Like we had a war': France counts cost of violent protests",
       "link": "https://www.france24.com/en/video/20261018-like-we-had-a-war-france-counts-cost-of-violent-protests",
@@ -1107,11 +1260,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/abf86588-caf5-11f1-ac51-6313a763b466/w:1024/p:16x9/EN-20261018-150146-150332-CS.jpg"
     },
     {
-      "title": "Gaza families fear food shortages as Israel halts commercial shipments",
-      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+      "title": "Was ancient India the world’s forgotten superpower?",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-18T13:16:13.000Z",
-      "summary": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies."
+      "published": "2026-10-18T13:17:31.000Z",
+      "summary": "In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked."
     },
     {
       "title": "France protests: \"There's a whole range of grievances at play\"",
@@ -1122,11 +1275,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/11c679fc-caf3-11f1-a630-2d1c143cdef3/w:1024/p:16x9/EN-20261018-140034-141137-CS.jpg"
     },
     {
-      "title": "Paris left reeling as student-led protests turn chaotic",
-      "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+      "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-18T13:08:06.000Z",
-      "summary": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands."
+      "published": "2026-10-18T13:16:13.000Z",
+      "summary": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies."
     },
     {
       "title": "Pope Leo says he will gradually resume duties after cancer surgery",
@@ -1135,6 +1288,13 @@ window.GDC_NEWS = {
       "published": "2026-10-18T12:55:01.000Z",
       "summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1919x1279+0+0/resize/1919x1279!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F4c%2F028622124a108d72e3827ab507f1%2Fap26291371602024.jpg"
+    },
+    {
+      "title": "Paris left reeling as student-led protests turn chaotic",
+      "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T13:08:06.000Z",
+      "summary": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands."
     },
     {
       "title": "Cameroon's opposition MRC elects its first female president, Tiriane Noah",
@@ -1185,8 +1345,8 @@ window.GDC_NEWS = {
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-18T12:07:31.000Z",
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg"
+      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/7d8c1210-cb06-11f1-93db-7509e20aa39a.jpg"
     },
     {
       "title": "Nottingham Forest vs Arsenal LIVE: Premier League",
@@ -1211,12 +1371,12 @@ window.GDC_NEWS = {
       "summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it."
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-18T11:57:49.000Z",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg"
+      "title": "Paris protests: A look at the aftermath",
+      "link": "https://www.france24.com/en/video/20261018-paris-protests-a-look-at-the-aftermath",
+      "source": "France 24",
+      "published": "2026-10-18T11:51:33.000Z",
+      "summary": "Following yesterday's demonstrations in Paris, where violent clashes erupted between police and protesters, our reporter Antonia Kerrigan returns to place de la République.",
+      "image": "https://s.france24.com/media/display/2184975a-cae6-11f1-8154-6313a763b466/w:1024/p:16x9/EN-20261018-130127-131615-CS.jpg"
     },
     {
       "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
@@ -1226,179 +1386,22 @@ window.GDC_NEWS = {
       "summary": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production."
     },
     {
-      "title": "Paris protests: A look at the aftermath",
-      "link": "https://www.france24.com/en/video/20261018-paris-protests-a-look-at-the-aftermath",
+      "title": "Dozens of critically endangered orangutans saved from rampant wildfires in Indonesia",
+      "link": "https://www.france24.com/en/environment/20261018-dozens-of-critically-endangered-orangutans-saved-from-rampant-wildfires-in-indonesia",
       "source": "France 24",
-      "published": "2026-10-18T11:51:33.000Z",
-      "summary": "Following yesterday's demonstrations in Paris, where violent clashes erupted between police and protesters, our reporter Antonia Kerrigan returns to place de la République.",
-      "image": "https://s.france24.com/media/display/2184975a-cae6-11f1-8154-6313a763b466/w:1024/p:16x9/EN-20261018-130127-131615-CS.jpg"
-    },
-    {
-      "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
-      "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T11:24:43.000Z",
-      "summary": "Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says."
-    },
-    {
-      "title": "Atlanta’s iconic tavern marks Georgia’s past with an eye on future as midterms approach",
-      "link": "https://www.france24.com/en/americas/20261018-atlanta-iconic-tavern-marks-georgia-past-eye-future-midterms-approach-ossoff-collins",
-      "source": "France 24",
-      "published": "2026-10-18T11:15:04.000Z",
-      "summary": "Since it was established in 1956, Manuel’s Tavern in Atlanta has hosted legendary Democratic leaders while its founder played a key role in the city’s move from a Republican to Democratic…",
-      "image": "https://s.france24.com/media/display/fa2b4854-c967-11f1-a45e-6313a763b466/w:1024/p:16x9/manuels-main.jpg"
-    },
-    {
-      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
-      "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T11:11:26.000Z",
-      "summary": "Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies."
-    },
-    {
-      "title": "Out-of-control truck kills 13 at Hindu festival in India",
-      "link": "https://www.france24.com/en/video/20261018-out-of-control-truck-kills-13-at-hindu-festival-in-india",
-      "source": "France 24",
-      "published": "2026-10-18T11:14:44.000Z",
-      "summary": "A speeding truck in India killed 13 people when it ploughed into a crowd at a Hindu festival, officials said on Sunday, with President Droupadi Murmu describing the deaths as…",
-      "image": "https://s.france24.com/media/display/eab05edc-cae3-11f1-bd72-d1d2c32ebb87/w:1024/p:16x9/EN-20261018-121827-121952-CS.jpg"
-    },
-    {
-      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-18T11:09:32.000Z",
-      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Riots in Tirana enter a fifth day as Albania's anti-government protests escalate",
-      "link": "https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate",
-      "source": "France 24",
-      "published": "2026-10-18T11:06:39.000Z",
-      "summary": "Clashes broke out near the Albanian prime minister’s office in the capital, Tirana, on Saturday as anti-government riots entered a fifth day.",
-      "image": "https://s.france24.com/media/display/62af44a8-cae3-11f1-9366-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261018-111149-111349-CS.jpg"
-    },
-    {
-      "title": "Parisians wake up to protest damage and looted shops",
-      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-18T10:58:39.000Z",
-      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8791/live/7abdd380-cadd-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
-      "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:48:18.000Z",
-      "summary": "A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion."
-    },
-    {
-      "title": "Smashed storefronts, burned buildings: France wakes up to aftermath of violent protests",
-      "link": "http://www.africanews.com/2026/10/18/smashed-storefronts-burned-buildings-france-wakes-up-to-aftermath-of-violent-protests/",
-      "source": "Africanews",
-      "published": "2026-10-18T09:59:22.000Z",
-      "summary": "France woke up Sunday to devastated streets after clashes between police and protesters, mass looting and fires erupted nationwide as marches against rising costs of living degenerated into…"
-    },
-    {
-      "title": "Palestinian karate champion Maryam Bsharat wins second world title",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:47:59.000Z",
-      "summary": "Palestinian athlete Maryam Bsharat won gold at the World Karate Championships in Poland."
-    },
-    {
-      "title": "France: Protests \"brought the entire population together for a common purpose\"",
-      "link": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
-      "source": "France 24",
-      "published": "2026-10-18T09:05:03.000Z",
-      "summary": "This weekend, in cities across France, some 800,000 protesters, including students, railway workers and members of the Yellow Vest movement, took to the streets in largely peaceful…",
-      "image": "https://s.france24.com/media/display/5b3222c4-cad2-11f1-9b89-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261018-101748-102037-CS.jpg"
-    },
-    {
-      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-      "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:34:09.000Z",
-      "summary": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire."
-    },
-    {
-      "title": "France: Who took part in Saturday's protests?",
-      "link": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
-      "source": "France 24",
-      "published": "2026-10-18T09:03:18.000Z",
-      "summary": "Weeks of student protests over poor conditions in schools and rising anger over the cost of living fuelled calls for a nationwide demonstration on October 17, bringing together youth…",
-      "image": "https://s.france24.com/media/display/b40d3708-cad2-11f1-906d-638c1c1f5fd6/w:1024/p:16x9/capture-823ce114.jpg"
-    },
-    {
-      "title": "Russia’s war in Ukraine puts Europe on edge",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:33:36.000Z",
-      "summary": "Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries."
-    },
-    {
-      "title": "France: Who was behind the violence at Saturday's protests?",
-      "link": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
-      "source": "France 24",
-      "published": "2026-10-18T09:01:22.000Z",
-      "summary": "Violent clashes, fires, vandalism and looting marred demonstrations across France on Saturday as hundreds of thousands of people marched against the rising cost of living and poor…",
-      "image": "https://s.france24.com/media/display/c1ff195a-cad0-11f1-b9ce-d1d2c32ebb87/w:1024/p:16x9/EN-20261018-101142-101423-CS.jpg"
-    },
-    {
-      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-      "link": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:30:00.000Z",
-      "summary": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family."
-    },
-    {
-      "title": "France protests: Did the government make the wrong decisions?",
-      "link": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
-      "source": "France 24",
-      "published": "2026-10-18T09:00:22.000Z",
-      "summary": "Police in Paris said Sunday they had arrested a \"record\" 855 people over protest-related violence in the capital the day before, with the prosecutor's office saying more than 500 were being…",
-      "image": "https://s.france24.com/media/display/6223078a-cad0-11f1-8c01-2d1c143cdef3/w:1024/p:16x9/EN-20261018-100442-101117-CS.jpg"
-    },
-    {
-      "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:23:38.000Z",
-      "summary": "Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources."
-    },
-    {
-      "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
-      "link": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-18T08:58:00.000Z",
-      "summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, and what would happen if it went down?"
-    },
-    {
-      "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:18:03.000Z",
-      "summary": "Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi's government of electoral manipulation."
-    },
-    {
-      "title": "PSG back on top of Ligue 1 after stunning Strasbourg comeback",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback",
-      "source": "France 24",
-      "published": "2026-10-18T08:48:15.000Z",
-      "summary": "After trailing Strasbourg for more than 60 minutes, the Parisians called upon their substitutes to turn the game around. Following their spectacular Champions League victory over Manchester…",
-      "image": "https://s.france24.com/media/display/5f6628de-ca98-11f1-8a9c-638c1c1f5fd6/w:1024/p:16x9/000-D3LB6RQ.jpg"
-    },
-    {
-      "title": "South African rugby player Hyron Andrews paid emotional tribute in France",
-      "link": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T10:02:59.000Z",
-      "summary": "Andrews died in France on Friday while on tour with the Johannesburg Lions during the Champions Cup rugby tournament."
+      "published": "2026-10-18T11:25:23.000Z",
+      "summary": "Conservation groups have saved at least 51 orangutans in Indonesia from August 6 to October 19 as rampant wildfires and a months-long pollution spell have threatened their natural habitat.",
+      "image": "https://s.france24.com/media/display/9b8cb002-caad-11f1-9cd0-638c1c1f5fd6/w:1024/p:16x9/feb87c5e7419aa0941bea3137fd735b2b5fc71f2.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Sudan army accused of drone strike on livestock market",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T13:37:03.000Z",
+      "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit."
+    },
     {
       "title": "Cameroon's opposition MRC elects its first female president, Tiriane Noah",
       "link": "http://www.africanews.com/2026/10/18/cameroons-opposition-mrc-elects-its-first-female-president-tiriane-noah/",
@@ -1559,13 +1562,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-17T07:43:19.000Z",
       "summary": "Thwaites glacier has been losing ice for decades. Now there are concerns of rapidly accelerating loss."
-    },
-    {
-      "title": "Cameroonians await government reshuffle after Biya’s return",
-      "link": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T03:14:28.000Z",
-      "summary": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president."
     }
   ]
 };

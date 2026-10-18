@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T13:33:30.251Z",
+  "updated": "2026-10-18T16:49:35.865Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,125 +25,152 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Several dead or injured in major fire at Canada military base",
-      "link": "https://www.myjoyonline.com/several-dead-or-injured-in-major-fire-at-canada-military-base/",
+      "title": "Prof Stephen Adei urges Ghanaian businesses to build brands on quality, trust and innovation",
+      "link": "https://www.myjoyonline.com/prof-stephen-adei-urges-ghanaian-businesses-to-build-brands-on-quality-trust-and-innovation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T13:11:13.000Z",
-      "summary": "Several people have been killed or injured as a result of a large fire near a Canadian military base in Alberta, the nation's defence minister has said.",
+      "published": "2026-10-18T16:48:00.000Z",
+      "summary": "Former Ghana Institute of Management and Public Administration (GIMPA) Rector, Professor Stephen Adei, has urged Ghanaian businesses to build competitive brands on quality, reliability…",
       "categories": [
-        "International",
-        "Canada",
-        "Fire"
+        "Business",
+        "Economy",
+        "National",
+        "Ghanaian Businesses",
+        "Prof Stephen Adei"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1749-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Prof-Addai-1-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Priest dies after statue of Jesus falls on him during mass livestream",
-      "link": "https://www.myjoyonline.com/priest-dies-after-statue-of-jesus-falls-on-him-during-mass-livestream/",
+      "title": "Fidel Amakye Owusu warns Ghana against risky new energy deals",
+      "link": "https://www.myjoyonline.com/fidel-amakye-owusu-warns-ghana-against-risky-new-energy-deals/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T13:11:03.000Z",
-      "summary": "A Catholic priest died after a cross fell on top of him while he was performing a mass in Ecuador, which was being livestreamed at the time.",
-      "categories": [
-        "International",
-        "cross",
-        "Dies",
-        "Priest"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-1.09.11-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t will not lower certification standards under One Million Coders Programme – Sam George",
-      "link": "https://www.myjoyonline.com/govt-will-not-lower-certification-standards-under-one-million-coders-programme-sam-george/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T13:03:02.000Z",
-      "summary": "The Minister for Communication, Digital Technology and Innovation, Samuel Nartey George, says that the government will maintain international certification standards under the One Million…",
+      "published": "2026-10-18T16:30:30.000Z",
+      "summary": "Security risk and geopolitics consultant Fidel Amakye Owusu has cautioned Ghana against entering into new energy agreements without carefully assessing the potential long-term risks…",
       "categories": [
         "National",
-        "Technology",
-        "One Million Coders Programme",
-        "Samuel Nartey George"
+        "Energy",
+        "Fidel Amakye Owusu",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Economics-Standards-Coders2-1024x576.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/should-africa-join-brics-as-one-.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Some ministers steal but aren’t arrested, while ‘fraud boys’ are – Shatta Wale criticises selective justice recounting EOCO saga",
-      "link": "https://www.myjoyonline.com/some-ministers-steal-but-arent-arrested-while-fraud-boys-are-shatta-wale-criticises-selective-justice-recounting-eoco-saga/",
+      "title": "Small-scale mining must not leave ‘residue of death’ – Prof Stephen Adei",
+      "link": "https://www.myjoyonline.com/small-scale-mining-must-not-leave-residue-of-death-prof-stephen-adei/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T12:59:24.000Z",
-      "summary": "Ghanaian dancehall artiste Shatta Wale has criticised what he perceives as selective justice in Ghana, accusing authorities of targeting young people over fraud while ministers who…",
-      "categories": [
-        "Music",
-        "National",
-        "Shatta Wale",
-        "Steal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Shatta-Wale-17-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry convenes stakeholders to review national action plan to combat human trafficking",
-      "link": "https://www.myjoyonline.com/gender-ministry-convenes-stakeholders-to-review-national-action-plan-to-combat-human-trafficking/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T12:35:47.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection has convened a Technical Working Group (TWG) meeting to review and support the development of a new National Plan of Action (NPA) to…",
+      "published": "2026-10-18T16:27:49.000Z",
+      "summary": "Former Rector of the Ghana Institute of Management and Public Administration (GIMPA), Professor Stephen Adei, has urged the government to enforce responsible small-scale mining practices…",
       "categories": [
         "National",
-        "Gender Ministry",
-        "Human trafficking"
+        "Professor Stephen Adei",
+        "Small-scale mining"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/854627481_1492962702893855_5453309075422746782_n-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Prof-Addai-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Yagbonwura Cultural and Eco-Tourism Experience to showcase Savannah Region’s heritage and investment potential",
-      "link": "https://www.myjoyonline.com/yagbonwura-cultural-and-eco-tourism-experience-to-showcase-savannah-regions-heritage-and-investment-potential/",
+      "title": "“Take the gold, but restore the Land” – Lands Minister charges five mining cooperatives",
+      "link": "https://www.myjoyonline.com/take-the-gold-but-restore-the-land-lands-minister-charges-five-mining-cooperatives/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T12:35:40.000Z",
-      "summary": "As part of activities marking the 6th Inter Tourism Expo Accra (INTTA) 2026, the Yagbonwura Cultural and Eco-Tourism Experience will take participants on a journey through the Savannah…",
+      "published": "2026-10-18T16:21:57.000Z",
+      "summary": "The message was clear at Nkroful in the Ellembelle District: Ghana can mine its gold without sacrificing its land, rivers and the livelihoods of future generations.",
       "categories": [
-        "In Focus",
         "National",
-        "Yagbonwura Cultural and Eco-Tourism Experience"
+        "Regional",
+        "Gold",
+        "rCOMSDEP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-69-e1792326935747-1024x575.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1781-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "link": "https://www.myjoyonline.com/burnt-out-cars-and-shattered-glass-on-paris-streets-after-protests-turn-to-riots-and-looting/",
+      "title": "Ghana must turn economic stability into transformation – Prof Stephen Adei",
+      "link": "https://www.myjoyonline.com/ghana-must-turn-economic-stability-into-transformation-prof-stephen-adei/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T12:25:52.000Z",
-      "summary": "France awoke to scenes of widespread damage on Sunday after a day of riots and demonstrations, with shopfronts shattered, burnt out cars, charred bikes, and piles of glass and debris on the…",
+      "published": "2026-10-18T16:20:52.000Z",
+      "summary": "Former Rector of the Ghana Institute of Management and Public Administration (GIMPA), Professor Stephen Adei, says Ghana must translate its recent economic stabilisation into lasting…",
       "categories": [
-        "International",
-        "Cars",
-        "Paris",
-        "Protest",
-        "riots"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1746-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Armed Forces graduates 20 special operations personnel",
-      "link": "https://www.myjoyonline.com/ghana-armed-forces-graduates-20-special-operations-personnel/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T12:18:40.000Z",
-      "summary": "The Ghana Armed Forces (GAF) has graduated 20 personnel from the Special Operations Forces Basic Course 5-26, as it strengthens its capacity to respond to emerging security threats and…",
-      "categories": [
-        "HP News 1",
+        "HP News 2",
         "National",
-        "Ghana Armed Forces",
-        "special operations personnel"
+        "economic stability",
+        "Ghana",
+        "Prof Stephen Adei"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1792282549_image_3_uLnwc4yrIV-1024x673.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Prof-Addai-1-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "KGL Foundation screens over 200 residents in Techiman for breast cancer and general health",
+      "title": "The Kiss That Cancelled a Wedding Before the Pastor Could Say Amen!",
+      "link": "https://www.myjoyonline.com/the-kiss-that-cancelled-a-wedding-before-the-pastor-could-say-amen/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T15:46:54.000Z",
+      "summary": "My people, we have entered dangerous times. A wedding has reportedly collapsed because the bride blew a kiss to her former boyfriend. Not an actual kiss, mind you. A flying kiss! One that…",
+      "categories": [
+        "Features",
+        "Opinion",
+        "Jimmy Aglah",
+        "Republic of Uncommon Sense",
+        "Wedding Drama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1759-938x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana consulate to host DPE Canada 2027 launch",
+      "link": "https://www.myjoyonline.com/ghana-consulate-to-host-dpe-canada-2027-launch/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T15:41:45.000Z",
+      "summary": "Ghana's High Commissioner to Canada, Her Excellency Prof. Dora Francisca Edu-Buandoh and her staff at the Consulate-General in Toronto have been extra busy recently as they put everything…",
+      "categories": [
+        "National",
+        "Diaspora Property Expo (DPE)",
+        "DPE Canada 2027"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1757-683x1024.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS abuse: Adults who knew but failed to act are also guilty – Mariam Darlington",
+      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-adults-who-knew-but-failed-to-act-are-also-guilty-mariam-darlington/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T15:39:00.000Z",
+      "summary": "Executive Secretary and Head of Public Relations of the African Women Lawyers Association (AWLA), Marian Darlington, has criticised adults who allegedly knew about sexual abuse at Obuasi…",
+      "categories": [
+        "National",
+        "News",
+        "Mariam Darlington",
+        "Obuasi SHTS abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/mariam-1024x517.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yagbonwura to attend 2026 Hogbetsotso Festival in Anloga",
+      "link": "https://www.graphic.com.gh/news/general-news/yagbonwura-to-attend-2026-hogbetsotso-festival-in-anloga.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T13:37:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Burkina Faso, Mali and Niger reopen talks with ECOWAS, agree to set up joint working groups",
+      "link": "https://www.graphic.com.gh/news/general-news/burkina-faso-mali-and-niger-reopen-talks-with-ecowas.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-18T13:18:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/18/sahelleaders.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Techiman residents get free health screening as KGL Foundation marks Breast Cancer Awareness Month",
       "link": "https://www.graphic.com.gh/news/health/kgl-foundation-screens-over-200-residents-in-techiman-for-breast-cancer-and-general-health.html",
       "source": "Daily Graphic",
       "published": "2026-10-18T11:48:16.000Z",
@@ -227,18 +254,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana must review process for appointing commissioners for Electoral Commission - UCC political science lecturer",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-must-review-process-for-appointing-commissioners-for-electoral-commission-ucc-political-science-lecturer.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T17:06:18.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/asanteprof.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "GPL: Kotoko under pressure to deliver against Young Apostles, Medeama face FC Samartex test",
       "link": "https://www.graphic.com.gh/sports/sports-news/gpl-kotoko-under-pressure-to-deliver-against-young-apostles-medeama-face-fc-samartex-test.html",
       "source": "Graphic Sports",
@@ -261,18 +276,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/ABOABIRE.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Police arrest four, recover 142 parcels of suspected Indian hemp, reject GH¢50,000 bribe",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-four-recover-142-parcels-of-suspected-indian-hemp-reject-ghc50-000-bribe.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-17T15:47:58.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Bawa.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "IGP deploys additional specialised team and armoured vehicle to Nkwanta",
@@ -424,18 +427,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/16/ADAMS2.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "UKGCC, Ecobank turn golf into business networking platform at UK-Ghana Investment Summit 2026",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ukgcc-ecobank-turn-golf-into-business-networking-platform-at-uk-ghana-investment-summit-2026.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-15T15:30:11.000Z",
-      "summary": "Played under the banner ‘Teeing Up for Growth’, the tournament brought investors, corporate executives, policymakers and development partners together in a relaxed setting where business…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/Golf1.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
