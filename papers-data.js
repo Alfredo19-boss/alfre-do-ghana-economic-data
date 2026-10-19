@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-19T13:54:10.117Z",
+  "updated": "2026-10-19T19:34:08.416Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,126 +25,339 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Missing signatures, mismatched records underpin South Africa GH¢16.4m evacuation gap – Bosome-Freho MP",
-      "link": "https://www.myjoyonline.com/missing-signatures-mismatched-records-underpin-south-africa-gh%c2%a216-4m-evacuation-gap-bosome-freho-mp/",
+      "title": "Where is the 24-hour economy? – Bawumia challenges Mahama government to show results",
+      "link": "https://www.myjoyonline.com/where-is-the-24-hour-economy-bawumia-challenges-mahama-government-to-show-results/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T13:50:19.000Z",
-      "summary": "Member of Parliament for Bosome-Freho and the Deputy Ranking Member on Parliament’s Foreign Affairs Committee, Nana Asafo-Adjei Ayeh, says missing signatures and discrepancies in payment…",
+      "published": "2026-10-19T19:23:21.000Z",
+      "summary": "The New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has been tearing into the government's flagship 24-hour economy, delivering a brutal verdict nearly two hours into the NDC…",
       "categories": [
         "National",
         "News",
-        "Nana Asafo-Adjei Ayeh",
-        "South Africa"
+        "24-hour economy",
+        "Bawumia",
+        "Mahama government"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Nana-Asafo-Adjei-Ayeh-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/08/Mahama-and-Bawumia-1024x867.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "BTS Africa and CDKN Ghana explore Microsoft partnership for climate literacy and youth engagement",
-      "link": "https://www.myjoyonline.com/bts-africa-and-cdkn-ghana-explore-microsoft-partnership-for-climate-literacy-and-youth-engagement/",
+      "title": "Japan Motors donates five motorcycles to support 42nd National Farmers’ Day",
+      "link": "https://www.myjoyonline.com/japan-motors-donates-five-motorcycles-to-support-42nd-national-farmers-day/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T13:47:36.000Z",
-      "summary": "Beyond the Science Africa (BTS Africa) and the Climate and Development Knowledge Network (CDKN Ghana) are exploring opportunities to strengthen climate literacy, youth engagement and…",
-      "categories": [
-        "News",
-        "BTS Africa",
-        "CDKN Ghana",
-        "Climate literacy",
-        "Microsoft partnership"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/CDKN-ANNEX6_12_23-12.jpg-1-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Leadership Changes: Richard Sammy exits Republic Financial Holdings as Karen Yip Chuck takes over",
-      "link": "https://www.myjoyonline.com/leadership-changes-richard-sammy-exits-republic-financial-holdings-as-karen-yip-chuck-takes-over/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T13:42:40.000Z",
-      "summary": "Republic Financial Holdings Limited (RFHL) and Republic Bank Limited (RBL) have announced leadership changes as Richard S. Sammy exits the Group. In a statement issued in Port of Spain…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Karen Yip Chuck",
-        "Republic Financial Holdings Limited",
-        "Richard Sammy"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-6.15.07-AM-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gyakie questions importance of artistes following fans on social media",
-      "link": "https://www.myjoyonline.com/gyakie-questions-importance-of-artistes-following-fans-on-social-media/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T13:38:22.000Z",
-      "summary": "Ghanaian singer Gyakie has questioned the importance of artistes following fans on social media, saying meaningful interactions matter more than the follow button.",
-      "categories": [
-        "HP Entertainment 1",
-        "Artistes",
-        "Gyakie",
-        "Social Media"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gyakie-2.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Global South urged to unite despite differences – Prof Opoku-Agyemang",
-      "link": "https://www.myjoyonline.com/global-south-urged-to-unite-despite-differences-prof-opoku-agyemang/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T13:36:22.000Z",
-      "summary": "Vice-President Professor Jane Naana Opoku-Agyemang has urged countries in the Global South to strengthen cooperation despite differences in their political systems, histories and…",
+      "published": "2026-10-19T19:19:27.000Z",
+      "summary": "The Ministry of Food and Agriculture has announced that Japan Motors Trading Company Limited has donated five branded motorcycles towards the 42nd National Farmers’ Day celebration. In a…",
       "categories": [
         "National",
-        "China",
-        "Global South",
-        "Vice President"
+        "Farmers",
+        "Japan Motors",
+        "Motorcycles"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-12.36.36-1-1024x1004.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-10.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "UTAG-UG gives gov’t October 20 ultimatum to avert strike over unpaid allowances",
-      "link": "https://www.myjoyonline.com/utag-ug-gives-govt-october-20-ultimatum-to-avert-strike-over-unpaid-allowances/",
+      "title": "Making Ghana’s 5G investment deliver for businesses and the economy",
+      "link": "https://www.myjoyonline.com/making-ghanas-5g-investment-deliver-for-businesses-and-the-economy/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T13:35:46.000Z",
-      "summary": "The University of Ghana branch of the University Teachers Association of Ghana (UTAG-UG) has given the government until Tuesday, October 20, 2026, to demonstrate its commitment to paying…",
+      "published": "2026-10-19T18:53:06.000Z",
+      "summary": "At a busy shop in Kumasi, a customer waits while an electronic payment stalls. In a diagnostic centre, medical images await transfer to a specialist. A guesthouse loses a booking when its…",
       "categories": [
-        "National",
-        "October 20",
-        "Strike",
-        "UTAG-UG"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Dr-Jerry-Joe-Harrison.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Humanise policy, says Bernard Otabil",
-      "link": "https://www.myjoyonline.com/humanise-policy-says-bernard-otabil/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T13:35:45.000Z",
-      "summary": "The Director of Communications of the Bank of Ghana, Mr Bernard Otabil, has urged members of the Bank of Ghana Press Corps to humanise monetary policy and translate technical policy…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Bank of Ghana",
-        "Mr Bernard Otabil"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-5.18.54-AM-1-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AU Commissioner cites GoldBod as model for mineral sector reforms in Africa",
-      "link": "https://www.myjoyonline.com/au-commissioner-cites-goldbod-as-model-for-mineral-sector-reforms-in-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T13:30:08.000Z",
-      "summary": "African Union Commissioner for Economic Development, Trade, Tourism, Industry and Minerals, Francisca Tatchououp Belobe, has pointed to Ghana’s Gold Board (GoldBod) as an example of how…",
-      "categories": [
-        "National",
         "Africa",
-        "AU Commissioner",
-        "Goldbod"
+        "News",
+        "Technology",
+        "5G investment",
+        "KNUST",
+        "telecommunication"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1896.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-3.51.05-PM-822x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nico Williams’ agent finally explains failed Barcelona move in 2025",
+      "link": "https://www.myjoyonline.com/nico-williams-agent-finally-explains-failed-barcelona-move-in-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T18:52:13.000Z",
+      "summary": "Barcelona’s inability to provide guarantees over Nico Williams’ registration derailed the proposed move in the summer of 2025, his agent, Félix Tainta, has finally revealed.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Athletic Bilbao",
+        "Barcalona",
+        "Nico Williams"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/large-1024x707.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vodza Iron Breakers present beach soccer trophy to Lawyer Lom Ahlijah, appoint him patron",
+      "link": "https://www.myjoyonline.com/vodza-iron-breakers-present-beach-soccer-trophy-to-lawyer-lom-ahlijah-appoint-him-patron/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T18:45:48.000Z",
+      "summary": "Vodza Iron Breakers have presented their beach soccer trophy to Lawyer Lom Ahlijah in appreciation of his support for the team, while inviting him to serve as the club’s patron. The…",
+      "categories": [
+        "Sports",
+        "beach soccer",
+        "Soccer trophy",
+        "Vodza Iron Breakers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-18.42.17-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Education Minister refers Obuasi SHS headmaster’s sexual misconduct allegations to CID",
+      "link": "https://www.myjoyonline.com/education-minister-refers-obuasi-shs-headmasters-sexual-misconduct-allegations-to-cid/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T18:41:32.000Z",
+      "summary": "The Minister for Education, Haruna Iddrisu, has referred allegations of sexual misconduct involving the headmaster of Obuasi Senior High Technical School, Zakaria Abdulai, and female…",
+      "categories": [
+        "Education",
+        "CID",
+        "Obuasi SHS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/inside-the-dreaded-headmasters-b-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UMB appoints Justina Stella Laing as COO to advance its brand transformation agenda",
+      "link": "https://www.myjoyonline.com/umb-appoints-justina-stella-laing-as-coo-to-advance-its-brand-transformation-agenda/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T18:39:20.000Z",
+      "summary": "Universal Merchant Bank (UMB) has appointed Justina Stella Laing as Chief Operating Officer (COO).",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Justina Stella Laing",
+        "UMB"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-6.38.22-pm.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I’m stuck with NPP – Jeneral Ntatia",
+      "link": "https://www.myjoyonline.com/im-stuck-with-npp-jeneral-ntatia/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T18:30:46.000Z",
+      "summary": "Comedian Prince Kwame Amoabeng has revealed that he feels stuck with the New Patriotic Party (NPP) after campaigning for the party during the 2020 general elections. During the elections…",
+      "categories": [
+        "Arts and Culture",
+        "Radio & TV",
+        "Free SHS",
+        "Jeneral Ntatia",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/What-else-can-we-say-We-just-thank-God-for-Talent.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Starlets face Côte d’Ivoire in WAFU Zone B semi-final",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-starlets-face-cote-divoire-in-wafu-zone-b-semi-final.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-19T16:45:27.000Z",
+      "summary": "Coach Kassim Ocansey’s side enjoyed an impressive run in the group stage, opening their campaign with a victory over Togo before overcoming Benin in their second game. They then drew with…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_SATELLITES.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana Maritime Authority pushes for integrated digital systems at ports",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-maritime-authority-pushes-for-integrated-digital-systems-at-ports.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-19T16:41:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Abuakwa North MP sponsors medical programmes for 3 Bright SHS students with 8As",
+      "link": "https://www.graphic.com.gh/news/general-news/abuakwa-north-mp-sponsors-medical-programmes-for-3-bright-shs-students-with-8as-and-nsmq-semi-final-feat.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-19T16:07:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Korle Bu management tells Public Accounts Committee that conditions at mortuary have improved",
+      "link": "https://www.graphic.com.gh/news/general-news/korle-bu-management-tells-parliaments-public-account-committee-that-conditions-at-main-mortuary-have-improved.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-19T15:32:25.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/feb/05/mortuary.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "TCDA advocates inclusive digital finance to transform Ghana’s oil palm sector",
+      "link": "https://www.graphic.com.gh/news/general-news/tcda-advocates-inclusive-digital-finance-to-transform-ghanas-oil-palm-sector.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-19T15:29:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/OKRAH2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Targeted interventions helping to reduce maternal deaths by 30 per cent at KATH - Deputy Health Minister",
+      "link": "https://www.graphic.com.gh/news/health/445-maternal-deaths-recorded-in-ghana-as-health-ministry-seeks-nhis-cover-for-emergency-care.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-19T15:13:00.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/july/26/grace1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Vice President Jane Naana Opoku-Agyemang taps China’s Poverty Success Model in Shanghai",
+      "link": "https://ghanaiantimes.com.gh/vice-president-jane-naana-opoku-agyemang-taps-chinas-poverty-success-model-in-shanghai/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T14:56:03.000Z",
+      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has held high-level discussions with organisers of the 2026 Global South Academic Forum in Shanghai, seeking to draw lessons from China’s…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-14.21.15-1-1024x683.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Party card not certificate of immunity- Akosua Manu",
+      "link": "https://ghanaiantimes.com.gh/party-card-not-certificate-of-immunity-akosua-manu/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T14:51:04.000Z",
+      "summary": "Former New Patriotic Party parliamentary candidate for Adenta Constituency, Akosua Manu has called for an independent investigation into allegations of sexual abuse involving students of…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GES directs regional directors to release first-term capitation grants by October 30",
+      "link": "https://ghanaiantimes.com.gh/ges-directs-regional-directors-to-release-first-term-capitation-grants-by-october-30/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T14:47:20.000Z",
+      "summary": "The Ghana Education Service (GES) has directed all Regional Directors of Education to ensure that capitation grants for the first term of the 2026/2027 academic year are transferred to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mahama commissions four ambassadors, tasks them to drive jobs and investment",
+      "link": "https://ghanaiantimes.com.gh/mahama-commissions-four-ambassadors-tasks-them-to-drive-jobs-and-investment/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T14:46:00.000Z",
+      "summary": "President John Dramani Mahama has commissioned four career diplomats as ambassador-designates to represent Ghana in four countries. The commissioning ceremony took place on Friday, October…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Youth must be part of decision-making today – Hopeson Adorye tells young diplomats",
+      "link": "https://ghanaiantimes.com.gh/youth-must-be-part-of-decision-making-today-hopeson-adorye-tells-young-diplomats/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T14:43:49.000Z",
+      "summary": "The Global Board Chairman of the International Youth Network, Hopeson Adorye, has charged young diplomats to become bridge-builders and ambassadors of peace in their communities. He made…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NDC directs Obuasi SHTS headmaster to withdraw from Juaben chairmanship race",
+      "link": "https://ghanaiantimes.com.gh/ndc-directs-obuasi-shts-headmaster-to-withdraw-from-juaben-chairmanship-race/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T14:41:29.000Z",
+      "summary": "The National Democratic Congress (NDC) has directed the headmaster of Obuasi Senior High Technical School, Zakaria Abdulai, to withdraw from the race for the Juaben constituency…",
+      "categories": [
+        "Hot!",
+        "Politics"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GNFS rescues man trapped in drainage cover at Agormanya Abanse",
+      "link": "https://ghanaiantimes.com.gh/gnfs-rescues-man-trapped-in-drainage-cover-at-agormanya-abanse/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T14:38:26.000Z",
+      "summary": "The Kpong Fire Station of the Ghana National Fire Service (GNFS) rescued a man who was trapped in a drainage cover near the Pentecost Church at Agormanya Abanse on Saturday, October 17…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPP says $750,000 per each charter flight for South Africa evacuation is way above industry rate",
+      "link": "https://www.graphic.com.gh/news/politics/npp-says-750-000-charter-flight-for-south-africa-evacuation-is-way-above-industry-rate.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-19T14:37:50.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/et.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GH¢400million to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 budget - President Mahama",
+      "link": "https://www.graphic.com.gh/news/general-news/ghc400million-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-in-2027-budget-president-mahama.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-19T14:35:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/mahama11222333.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sports Editorial: Ghana must stop starving its medal-winning sports",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-must-stop-starving-its-medal-winning-sports.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-19T14:23:48.000Z",
+      "summary": "Even more disturbing is that financial constraints have also scuttled Ghana’s participation in the World Boxing African Championships in Kenya. These are not isolated setbacks. They reflect…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/BOMBERS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "GTF takes taekwondo awareness campaign to schools in Central Region",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gtf-takes-taekwondo-awareness-campaign-to-schools-in-central-region.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-19T14:15:28.000Z",
+      "summary": "The school awareness campaign aims to introduce Taekwondo to children across Ghana, promote confidence and character development, identify young talent and create opportunities for…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/TAEKWONDOS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "GHS to undertake intensive HPV vaccination campaign in schools nationwide",
@@ -171,18 +384,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "PMF urges Ghanaians to support new Electoral Commission Deputy Chairperson",
-      "link": "https://www.graphic.com.gh/news/general-news/pmf-urges-ghanaians-to-support-new-electoral-commission-deputy-chairperson.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T13:15:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/EC_CHAIRPERSON.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Semenyo could miss eight weeks of Man City action through injury",
       "link": "https://www.graphic.com.gh/sports/sports-news/semenyo-could-miss-eight-weeks-of-man-city-action-through-injury.html",
       "source": "Graphic Sports",
@@ -193,42 +394,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/semenyo.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Student leader demands probe into alleged vote buying at NUGS Congress",
-      "link": "https://www.graphic.com.gh/news/education/student-leader-demands-probe-into-alleged-vote-buying-at-nugs-congress.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T11:59:12.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/16/kwilder26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Court orders suspension of Ex- Buffer Stock CEO Hanan's trial pending appeal",
-      "link": "https://www.graphic.com.gh/news/general-news/court-orders-suspension-of-ex-buffer-stock-ceo-hanans-trial-pending-appeal.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T11:19:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/May/06/Abdul-Wahab.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES releases first-term Capitation Grant for 2026/2027 academic year",
-      "link": "https://www.graphic.com.gh/news/education/ges-releases-first-term-capitation-grant-for-2026-2027-academic-year.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T11:04:34.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/jun/14/GES.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Mohammed’s Olympic dream hangs on sponsorship lifeline",
@@ -267,78 +432,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Black Maidens lose to Norway in 2026 U-17 Women's World Cup opener",
-      "link": "https://www.graphic.com.gh/sports/sports-news/black-maidens-lose-to-norway-in-2026-u-17-womens-world-cup-opener.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T10:16:36.000Z",
-      "summary": "Norway broke the deadlock in spectacular fashion when Isabella Lepore unleashed a thunderous effort from 30 yards. Her strike crashed against the underside of the crossbar before crossing…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_MAIDENS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Can politics, money shape next FIFA election?",
-      "link": "https://www.graphic.com.gh/sports/sports-news/can-politics-money-shape-next-fifa-election.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T09:55:34.000Z",
-      "summary": "The proposal would have seen a new entity, FIFA Forward Enterprise (FFE), take over FIFA’s broadcast, sponsorship, ticketing, and licensing operations. FIFA would keep control and sell…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/INFANTINO.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Boxing stakeholders drag IMC to court over expired mandate",
-      "link": "https://www.graphic.com.gh/sports/sports-news/boxing-stakeholders-drag-imc-to-court-over-expired-mandate.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T09:54:33.000Z",
-      "summary": "Represented by Michael Lartey of A & N Law Consult, the plaintiffs are suing in their individual capacities and on behalf of the Committee for Professional Boxing Stakeholders (CPBS) and…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/SAMIR.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Researcher calls for drought-resistant banana varieties to combat climate change",
-      "link": "https://www.graphic.com.gh/news/general-news/researcher-calls-for-drought-resistant-banana-varieties-to-combat-climate-change.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T09:37:58.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/Moureen.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Meteo forecasts localised rain, thunderstorms across middle, transition and northern sectors",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-meteo-forecasts-localised-rain-thunderstorms-across-middle-transition-and-northern-sectors.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T08:08:58.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/16/weather26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana must be intentional between lab and market — Prof. Elsie Kaufman",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-must-be-intentional-between-lab-and-market-prof-elsie-kaufman.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T07:54:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/Zanetor.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Black Starlets face Côte d’Ivoire in WAFU Zone B U-17 semi-final",
       "link": "https://ghanaiantimes.com.gh/black-starlets-face-cote-divoire-in-wafu-zone-b-u-17-semi-final/",
       "source": "Ghanaian Times",
@@ -346,90 +439,6 @@ window.GDC_PAPERS = {
       "summary": "Ghana’s national male U-17 side, the Black Starlets, have advanced to the semi-finals of the ongoing 2026 WAFU Zone B U-17 Championship, where they will face their Ivorian counterparts…",
       "categories": [
         "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Chelsea stun Lions in Kpando",
-      "link": "https://ghanaiantimes.com.gh/chelsea-stun-lions-in-kpando/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:46:37.000Z",
-      "summary": "Visiting Berekum Chelsea claimed their first away win of the ongoing Ghana Premier League season with a 2-0 victory over Heart of Lions at the Kpando Stadium last Saturday. Goals from…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2026/27 G/A Reg. Div. 2 League Kicks off Friday",
-      "link": "https://ghanaiantimes.com.gh/2026-27-g-a-reg-div-2-league-kicks-off-friday/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:41:14.000Z",
-      "summary": "The 2026/27 Greater Accra Regional Division Two League officially kicked off on Friday, ushering in a new season of competitive football as clubs across the region begin their quest for…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hasaacas Ladies pip Ampem Darkoa to win 2026/27 Champion of Champions",
-      "link": "https://ghanaiantimes.com.gh/hasaacas-ladies-pip-ampem-darkoa-to-win-2026-27-champion-of-champions/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:39:09.000Z",
-      "summary": "Hasaacas Ladies defeated Ampem Darkoa Ladies 1-0 to win the 2026/27 Champion of Champions. Milot Pokuaa’s second-half strike was enough to hand the ”Doo Ladies” victory in the…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Challenge head coach targets Amputee World Cup",
-      "link": "https://ghanaiantimes.com.gh/black-challenge-head-coach-targets-amputee-world-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:37:05.000Z",
-      "summary": "Ghana’s Black Challenge head coach, Stephen Richard Obeng, says his ambition is to lead the team to their first World Amputee Football Federation (WAFF) World Cup title in Mexico. Obeng…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Björkegren to lead Black Stars against Somalia",
-      "link": "https://ghanaiantimes.com.gh/bjorkegren-to-lead-black-stars-against-somalia/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:35:14.000Z",
-      "summary": "The Ghana Football Association (GFA) has appointed Swedish coach Kim Lars Björkegren as interim head coach of the Black Stars ahead of their 2027 Africa Cup of Nations (AFCON) qualifiers…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Godwin-Attram-1024x1024.webp",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana to host signing of UN cargo documents convention",
-      "link": "https://ghanaiantimes.com.gh/ghana-to-host-signing-of-un-cargo-documents-convention/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:29:27.000Z",
-      "summary": "Ghana will host an international signing ceremony for the United Nations Convention on Negotiable Cargo Documents on October 26, in a move aimed at advancing the digitalisation of global…",
-      "categories": [
-        "Business"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GSE market capitalisation hits GH¢271bn",
-      "link": "https://ghanaiantimes.com.gh/gse-market-capitalisation-hits-gh%c2%a2271bn/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:27:18.000Z",
-      "summary": "The Ghana Stock Exchange (GSE) recorded gains in its key market indices during last week, even as trading volume and value fell sharply compared with the previous week. The GSE Composite…",
-      "categories": [
-        "Business"
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
