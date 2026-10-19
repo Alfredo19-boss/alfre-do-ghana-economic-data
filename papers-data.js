@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-19T01:28:31.939Z",
+  "updated": "2026-10-19T06:36:06.789Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,116 +25,233 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "link": "https://www.myjoyonline.com/eu-tariffs-aimed-at-china-hitting-ukraine-steel-boss-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T23:05:00.000Z",
-      "summary": "The boss of one of Ukraine's biggest steel companies has called on the European Union to drop import restrictions on products made from the country, arguing it has been \"bundled together\"…",
+      "title": "Dr Bawumia calls for peace, unity to safeguard Ghana’s stability",
+      "link": "https://ghanaiantimes.com.gh/dr-bawumia-calls-for-peace-unity-to-safeguard-ghanas-stability/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:35:19.000Z",
+      "summary": "The flagbearer of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has called on Ghanaians to promote peace and unity across religious, ethnic and tribal lines to safeguard the country’s…",
       "categories": [
-        "International",
-        "EU",
-        "Ukraine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1804-1024x577.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Macron calls for ‘calm and order’ after riots across France",
-      "link": "https://www.myjoyonline.com/macron-calls-for-calm-and-order-after-riots-across-france/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T22:56:00.000Z",
-      "summary": "French President Emmanuel Macron has called for \"calm and order\" after a major day of protests turned into rioting and looting on Saturday, with some disorder continuing in Paris on Sunday.",
-      "categories": [
-        "International",
-        "Emmanuel Macron",
-        "France"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3804-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cindy Crawford ‘beyond heartbroken’ after death of son Presley at 27",
-      "link": "https://www.myjoyonline.com/cindy-crawford-beyond-heartbroken-after-death-of-son-presley-at-27/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T22:46:00.000Z",
-      "summary": "Supermodel Cindy Crawford has said she and her family are \"beyond heartbroken\" over the death of her son Presley Gerber.",
-      "categories": [
-        "Movies",
-        "Cindy Crawford"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1803-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Harry Styles debuts new track in memory of Liam Payne",
-      "link": "https://www.myjoyonline.com/harry-styles-debuts-new-track-in-memory-of-liam-payne/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T22:35:00.000Z",
-      "summary": "Harry Styles performed an unreleased song he wrote for his former One Direction bandmate Liam Payne.",
-      "categories": [
-        "Music",
-        "Harry Styles",
-        "Liam Payne"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1802-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS abuse allegations: Reported cases rise to 19",
-      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-allegations-reported-cases-rise-to-19/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T22:28:00.000Z",
-      "summary": "The number of students who have come forward with allegations of sexual abuse involving the suspended headmaster of Obuasi Senior High Technical School has risen from 16 to 19, JoyNews…",
-      "categories": [
-        "HP News 10",
-        "National",
         "News",
-        "Obuasi SHTS abuse"
+        "Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1343-1024x517.png",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Understanding the connection between electricity and water supply",
+      "link": "https://ghanaiantimes.com.gh/understanding-the-connection-between-electricity-and-water-supply/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:32:26.000Z",
+      "summary": "Why is electricity essential to water production, how do power interruptions affect water supply, and why does water sometimes take longer to return even after electricity has been…",
+      "categories": [
+        "Features"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "The missing half of risk management: Why Ghana’s commodity businesses must embrace hedging",
+      "link": "https://ghanaiantimes.com.gh/the-missing-half-of-risk-management-why-ghanas-commodity-businesses-must-embrace-hedging/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:29:50.000Z",
+      "summary": "Ghanaian businesses have become fluent in the language of currency risk, tracking the cedi daily as FX hedging becomes standard practice for large firms. Yet, when commodity price hedging…",
+      "categories": [
+        "Features"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GAUA calls off strike as govt addresses 80% of grievances",
+      "link": "https://ghanaiantimes.com.gh/gaua-calls-off-strike-as-govt-addresses-80-of-grievances/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:18:22.000Z",
+      "summary": "The Ghana Association of University Administrators (GAUA) and the Technical University Senior Administrators Association of Ghana (TUSAAG) have suspended their strike after about 80 per…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Rural telecom projects must deliver",
+      "link": "https://ghanaiantimes.com.gh/rural-telecom-projects-must-deliver/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:13:04.000Z",
+      "summary": "Reliable telecommunications services are no longer a luxury. They are essential to education, business, healthcare, public administration and national development. Yet, for many rural…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "1 dead, police officer injured in shooting at Manso Nseina",
+      "link": "https://ghanaiantimes.com.gh/1-dead-police-officer-injured-in-shooting-at-manso-nseina/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:11:48.000Z",
+      "summary": "One person has been killed and a police officer injured in a shooting incident at Manso Nseina in the Ashanti Region following a confrontation between a police team and some youth of the…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police arrest man over suspected cannabis plantation near Volta Lake",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-man-over-suspected-cannabis-plantation-near-volta-lake/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:06:11.000Z",
+      "summary": "The Marine Police in Kpando have arrested a 31-year-old man, Vincent Lotsu, for allegedly cultivating and possessing suspected Indian hemp at Mangoase in the Central Tongu District of the…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police arrest man over death threats, firearms and suspected Indian hemp",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-man-over-death-threats-firearms-and-suspected-indian-hemp/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-19T06:01:12.000Z",
+      "summary": "The Volta North Regional Police Command has arrested a 31-year-old man, Saviour Dzadze, for allegedly threatening a man with a firearm, possessing unlicensed weapons and cultivating…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Interest rates development continues to reflect more expansionary monetary policy environment – BoG",
+      "link": "https://www.myjoyonline.com/interest-rates-development-continues-to-reflect-more-expansionary-monetary-policy-environment-bog/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T05:53:06.000Z",
+      "summary": "Relative to August 2025, policy and market interest rates declined, consistent with the easing of inflationary pressures and improved macroeconomic conditions.",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "BoG",
+        "Inflation",
+        "Interest rates",
+        "IWAR",
+        "Monetary Policy",
+        "T-Bills"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/image-2381-1024x682.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Withdraw from Juaben chairmanship race or face disqualification – NDC tells Obuasi SHTS headmaster",
-      "link": "https://www.myjoyonline.com/withdraw-from-juaben-chairmanship-race-or-face-disqualification-ndc-tells-obuasi-shts-headmaster/",
+      "title": "A remarkable journey of Steve Kyerematen: Insurance, reinsurance, diplomacy and leadership",
+      "link": "https://www.myjoyonline.com/a-remarkable-journey-of-steve-kyerematen-insurance-reinsurance-diplomacy-and-leadership/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T22:16:00.000Z",
-      "summary": "The National Democratic Congress (NDC) has directed the suspended headmaster of Obuasi Senior High Technical School, Zakaria Abdulai, to withdraw his bid for the party’s Juaben constituency…",
+      "published": "2026-10-19T05:41:44.000Z",
+      "summary": "With 50 years of distinguished experience in Africa’s insurance and reinsurance sector, Steve Kyerematen’s career blends technical expertise, corporate leadership, and national service…",
       "categories": [
-        "Politics",
-        "Top Story",
+        "Business",
+        "Features",
+        "Munich Reinsurance Group",
+        "Steve Kyerematen"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-00.24.55-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "La Community vows to challenge La Pleasure Beach Redevelopment in court",
+      "link": "https://www.myjoyonline.com/la-community-vows-to-challenge-la-pleasure-beach-redevelopment-in-court/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T05:37:00.000Z",
+      "summary": "The La Community has declared its intention to challenge any plans to redevelop the La Pleasure Beach Resort without its approval, maintaining that the disputed property belongs to the…",
+      "categories": [
+        "National",
+        "court",
+        "La Community",
+        "La Pleasure Beach"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/la-2.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GSE’s Abena Amoah and Japan Motors’ Salem Kalmouni win CIMG Marketing Woman and Man for 2025",
+      "link": "https://www.myjoyonline.com/gses-abena-amoah-and-japan-motors-salem-kalmouni-win-cimg-marketing-woman-and-man-for-2025/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T05:35:07.000Z",
+      "summary": "The Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, and the Group CEO of Japan Motors, Salem Kalmouni, were named Marketing Woman and Marketing Man of the Year at the 37th…",
+      "categories": [
+        "Business",
+        "Comp. Business",
+        "Composition",
+        "Economy",
+        "HP Business 1",
+        "HP News 8",
+        "National",
+        "Abena Amoah",
+        "CIMG",
+        "Ghana Stock Exchange",
+        "Japan Motors"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Abena-and-Japan-Motors-1-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ridge Hospital opens medical oxygen plant to external buyers",
+      "link": "https://www.myjoyonline.com/ridge-hospital-opens-medical-oxygen-plant-to-external-buyers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T05:30:00.000Z",
+      "summary": "The Greater Accra Regional Hospital, popularly known as Ridge Hospital, has begun supplying medical oxygen to customers outside the facility as part of efforts to improve access to the…",
+      "categories": [
+        "National",
+        "Ridge Hospital"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ridge-12-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yusif Sulemana donates GH¢10,000 to Bole Nursing College TEIN, urges students to prioritise academics",
+      "link": "https://www.myjoyonline.com/yusif-sulemana-donates-gh%c2%a210000-to-bole-nursing-college-tein-urges-students-to-prioritise-academics/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T05:22:00.000Z",
+      "summary": "The Deputy Minister of Lands and Natural Resources and Member of Parliament for Bole-Bamboi, Yusif Sulemana, has urged members of the Tertiary Education Institutions Network (TEIN) of the…",
+      "categories": [
+        "National",
         "NDC",
-        "Obuasi SHTS",
-        "Zakaria Abdulai"
+        "TEIN",
+        "Yusif Sulemana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ndc-gives-obuasi-shts-headmaster.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/857110418_1493962589220789_8984680010099513597_n-1024x732.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Serb player banned to 2050 for tennis match-fixing",
-      "link": "https://www.myjoyonline.com/serb-player-banned-to-2050-for-tennis-match-fixing/",
+      "title": "Ablakwa congratulates four career diplomats on new Ambassadorial appointments",
+      "link": "https://www.myjoyonline.com/ablakwa-congratulates-four-career-diplomats-on-new-ambassadorial-appointments/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T22:05:00.000Z",
-      "summary": "A player from Serbia has been given a 24-year suspension from tennis - one of the most severe punishments imposed by anti-corruption investigators outside of a lifetime ban - for…",
+      "published": "2026-10-19T05:15:00.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has congratulated four career diplomats recently commissioned by President John Dramani Mahama to represent Ghana abroad.",
       "categories": [
-        "Tennis",
-        "Match-fixing"
+        "National",
+        "Ablakwa",
+        "Diplomats",
+        "Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1800.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/855655040_2440535586472206_382590566732079285_n-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The Quiet Engine of Growth: Why the right legal structure is your Ghanaian MSMEs’ greatest scaling tool",
-      "link": "https://www.myjoyonline.com/the-quiet-engine-of-growth-why-the-right-legal-structure-is-your-ghanaian-msmes-greatest-scaling-tool/",
+      "title": "Africa’s 30% critical minerals vital for AI, energy boom – IMF",
+      "link": "https://www.myjoyonline.com/africas-30-critical-minerals-vital-for-ai-energy-boom-imf/",
       "source": "MyJoyOnline",
-      "published": "2026-10-18T21:56:00.000Z",
-      "summary": "Yet the uncomfortable truth is that some of the most ambitious micro and small enterprises (MSMEs) in Ghana hit a ceiling not because their ideas failed, but because their legal identities…",
+      "published": "2026-10-19T05:06:00.000Z",
+      "summary": "Africa’s 30 per cent share of global critical mineral reserves positions the continent to benefit from surging demand for artificial intelligence (AI) infrastructure and clean energy…",
       "categories": [
-        "Opinion",
-        "Kweku Hammond",
-        "MSMEs"
+        "National",
+        "Africa",
+        "AI",
+        "IMF"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-18-at-10.34.25-pm-1024x753.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-4.35.32-AM-1024x613.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -268,110 +385,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/ABOABIRE.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "IGP deploys additional specialised team and armoured vehicle to Nkwanta",
-      "link": "https://ghanaiantimes.com.gh/igp-deploys-additional-specialised-team-and-armoured-vehicle-to-nkwanta/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T16:20:02.000Z",
-      "summary": "The Inspector-General of Police (IGP) has deployed an additional specialised police operations team, supported by a multi-purpose armoured vehicle, to the Nkwanta Municipality to strengthen…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Legal Aid Commission engages inmates of Sekondi Central Prison",
-      "link": "https://ghanaiantimes.com.gh/legal-aid-commission-engages-inmates-of-sekondi-central-prison/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T16:17:21.000Z",
-      "summary": "The Sekondi Central Prison has hosted a team from the Legal Aid Commission as part of activities marking the 2026 Legal Aid Week. The engagement was aimed at educating inmates on their…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nsawam Female Prison holds 3-Day revival to inspire spiritual renewal",
-      "link": "https://ghanaiantimes.com.gh/nsawam-female-prison-holds-3-day-revival-to-inspire-spiritual-renewal/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T16:13:44.000Z",
-      "summary": "The Chaplaincy Unit of the Nsawam Female Prison has organized a three-day revival aimed at fostering spiritual growth and renewal among officers and inmates. The revival, held from October…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "STC interdicts driver over overtaking incident at Pokuase",
-      "link": "https://ghanaiantimes.com.gh/stc-interdicts-driver-over-overtaking-incident-at-pokuase/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T16:11:23.000Z",
-      "summary": "Intercity STC Coaches Limited has interdicted a driver captured in a viral video allegedly hitting a Sprinter bus during an overtaking manoeuvre at Pokuase before driving away from the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Prez Mahama tours Afienya, Tema industrial enclaves to boost local manufacturing",
-      "link": "https://ghanaiantimes.com.gh/prez-mahama-tours-afienya-tema-industrial-enclaves-to-boost-local-manufacturing/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T16:05:53.000Z",
-      "summary": "President John Dramani Mahama has toured five companies at the Afienya Industrial Enclave and Dignity DTRT Limited in Tema as part of efforts to strengthen local manufacturing, promote…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Akosua Manu queries Ministers over response to child abuse allegations",
-      "link": "https://ghanaiantimes.com.gh/akosua-manu-queries-ministers-over-response-to-child-abuse-allegations/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T16:02:52.000Z",
-      "summary": "Former National Youth Authority (NYA) Deputy Chief Executive Officer and 2024 NPP parliamentary candidate for Adentan, Akosua Manu, has questioned the response of the Ministers for Gender…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NSA extends 2026/2027 National service registration deadline to October 23",
-      "link": "https://ghanaiantimes.com.gh/nsa-extends-2026-2027-national-service-registration-deadline-to-october-23/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T15:59:18.000Z",
-      "summary": "The National Service Authority (NSA) has extended the registration deadline for the 2026/2027 national service year from October 15, to Friday, October 23, 2026. In a statement dated…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana secures €323m financing package for Northern Ghana water and sanitation project",
-      "link": "https://ghanaiantimes.com.gh/ghana-secures-e323m-financing-package-for-northern-ghana-water-and-sanitation-project/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-16T15:57:11.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has announced a €323 million financing package for the Northern Ghana Water and Sanitation Project, aimed at addressing persistent water shortages and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-15.34.34-768x1024-1.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Promoters engage Tamale stakeholders ahead of Northern Rumble launch",
