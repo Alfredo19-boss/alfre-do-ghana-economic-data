@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-19T19:33:49.379Z",
-  "worldAt": "2026-10-19T19:33:49.377Z",
+  "updated": "2026-10-19T23:03:37.490Z",
+  "worldAt": "2026-10-19T23:03:37.487Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,8 +26,8 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
@@ -39,13 +39,20 @@ window.GDC_NEWS = {
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 30 stories",
-    "Africa · Africanews: 27 stories",
+    "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "AU Endorses Ghana’s GoldBod Model to Boost Africa’s Mineral Value Addition",
+      "link": "https://thehighstreetjournal.com/au-endorses-ghanas-goldbod-model-to-boost-africas-mineral-value-addition/",
+      "source": "The High Street Journal",
+      "published": "2026-10-19T20:00:00.000Z",
+      "summary": "The African Union has recommended Ghana’s GoldBod model to African countries, highlighting its potential to strengthen foreign exchange reserves, improve mineral revenue capture and…"
+    },
     {
       "title": "Making Ghana’s 5G investment deliver for businesses and the economy",
       "link": "https://www.myjoyonline.com/making-ghanas-5g-investment-deliver-for-businesses-and-the-economy/",
@@ -1088,16 +1095,241 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-16T10:02:31.000Z",
       "summary": "Some oil marketing companies (OMCs) have begun reducing fuel prices at the pumps as the second pricing window for October takes effect."
-    },
-    {
-      "title": "Telecel Ghana picks 2 awards at CCIFG Gala 2026",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-telecel-ghana-picks-2-awards-at-ccifg-gala-2026.html",
-      "source": "Graphic Online",
-      "published": "2026-10-16T09:58:16.000Z",
-      "summary": ""
     }
   ],
   "world": [
+    {
+      "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T22:37:19.000Z",
+      "summary": "US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’."
+    },
+    {
+      "title": "Alberta voters decide whether to take a step toward separating from Canada",
+      "link": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
+      "source": "NPR World",
+      "published": "2026-10-19T22:29:57.000Z",
+      "summary": "In Canada, the oil-rich province of Alberta votes in a referendum that could set it on a path toward separation, as Prime Minister Mark Carney warns of threats to Canadian unity."
+    },
+    {
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T21:46:00.000Z",
+      "summary": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment."
+    },
+    {
+      "title": "Spain floods kill four as torrential rain inundates eastern regions",
+      "link": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions",
+      "source": "France 24",
+      "published": "2026-10-19T21:39:49.000Z",
+      "summary": "Torrential rain battered eastern Spain on Monday, killing at least four people in recent days as floodwaters swept away cars, submerged roads and stranded residents. Emergency crews carried…",
+      "image": "https://s.france24.com/media/display/e9c067e8-b287-11f1-a41a-991cccd3bb73/w:1024/p:16x9/2026-09-17T090156Z-1967335667-RC2UKNAXSDKS-RTRMADP-3-EUROPE-WEATHER-SPAIN-FLOODS.jpg"
+    },
+    {
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
+      "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T21:38:46.000Z",
+      "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure."
+    },
+    {
+      "title": "France tells online marketplaces to crack down on resale of looted items",
+      "link": "https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items",
+      "source": "France 24",
+      "published": "2026-10-19T21:24:55.000Z",
+      "summary": "As thousands of shop owners are reeling from the weekend violence and looting, listings of apparently stolen items have been popping up online. The government asked major second-hand…",
+      "image": "https://s.france24.com/media/display/f2ac1af2-cc02-11f1-a7cb-6313a763b466/w:1024/p:16x9/capture-88daf37e.jpg"
+    },
+    {
+      "title": "Could your halal pension be funding Israel’s military?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T21:28:02.000Z",
+      "summary": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military."
+    },
+    {
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-19T21:14:53.000Z",
+      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg"
+    },
+    {
+      "title": "Israeli police say they arrested 10 in connection with settler attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T21:00:03.000Z",
+      "summary": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence."
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-19T21:12:30.000Z",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png"
+    },
+    {
+      "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T20:59:05.000Z",
+      "summary": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans."
+    },
+    {
+      "title": "US Church on frontline of battle against drug known as 'tranq'",
+      "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-19T21:05:54.000Z",
+      "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Le Pen 'trying to use these events to push her popularity', expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261019-le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
+      "source": "France 24",
+      "published": "2026-10-19T20:54:57.000Z",
+      "summary": "In the wake of the weekend's violence, the political camps have been trading blame for the “chaos”. The riots have played into the hands of the far-right National Rally - which has been…",
+      "image": "https://s.france24.com/media/display/2d2b7ad4-cbfd-11f1-9eb7-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-213106-213952-CS.jpg"
+    },
+    {
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-19T21:02:33.000Z",
+      "summary": "The two top tennis pros married in 2021 and have one child together.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Le Pen 'trying to use these events to push her popularity', expert says",
+      "link": "https://www.france24.com/en/le-pen-trying-to-use-these-events-to-push-her-popularity-expert-says",
+      "source": "France 24",
+      "published": "2026-10-19T20:53:11.000Z",
+      "summary": "In the wake of the weekend's violence, the political camps have been trading blame for the “chaos”. The riots have played into the hands of the far-right National Rally - which has been…",
+      "image": "https://s.france24.com/media/display/2d2b7ad4-cbfd-11f1-9eb7-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-213106-213952-CS.jpg"
+    },
+    {
+      "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T20:49:39.000Z",
+      "summary": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line."
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-19T20:49:00.000Z",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png"
+    },
+    {
+      "title": "Kenya convicts cult leader over the murder of 190 children",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T20:31:21.000Z",
+      "summary": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty"
+    },
+    {
+      "title": "Mali: Human Rights Watch Denounces Crimes Against Civilians [Africanews Today]",
+      "link": "http://www.africanews.com/2026/10/19/mali-human-rights-watch-denounces-crimes-against-civilians-africanews-today/",
+      "source": "Africanews",
+      "published": "2026-10-19T20:27:02.000Z",
+      "summary": "Human Rights Watch accuses the Malian army, its Russian allies from Africa Corps, as well as armed and jihadist groups, of committing serious violations of international law against…"
+    },
+    {
+      "title": "Trump signs order launching women’s health division at NIH, White House",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T20:29:46.000Z",
+      "summary": "First Lady Melania Trump has championed the executive action as a 'transformative moment' for US women's health."
+    },
+    {
+      "title": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261019-art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will-be-victims-of-theft",
+      "source": "France 24",
+      "published": "2026-10-19T20:16:10.000Z",
+      "summary": "François Picard is pleased to welcome art crime detective Arthur Brand. \"In the old days they stole a painting, but a painting is unique; you cannot cut it in two,\" explains Brand, \"In the…",
+      "image": "https://s.france24.com/media/display/0783efda-cbf0-11f1-9d85-638c1c1f5fd6/w:1024/p:16x9/EN-20261019-184407-185127-CS.jpg"
+    },
+    {
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-19T20:00:43.000Z",
+      "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "France riots: AI photos falsely depict elderly couple ‘stripped and robbed’",
+      "link": "https://www.france24.com/en/france-riots-ai-photos-falsely-depict-elderly-couple-stripped-and-robbed-1",
+      "source": "France 24",
+      "published": "2026-10-19T20:06:36.000Z",
+      "summary": "AI-generated photos falsely claiming to show an elderly couple being “stripped and robbed” during unrest in France have racked up millions of views. Amplified by far-right accounts, the…",
+      "image": "https://s.france24.com/media/display/ab9d31f6-cbf2-11f1-ae41-4dd8ac2cf3bf/w:1024/p:16x9/capture-de2ac282.jpg"
+    },
+    {
+      "title": "Finland seeking one million land mines as it eyes Russian threat",
+      "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T19:57:10.000Z",
+      "summary": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border."
+    },
+    {
+      "title": "France faces reckoning with public order policing after violent protest weekend",
+      "link": "https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend",
+      "source": "France 24",
+      "published": "2026-10-19T19:56:15.000Z",
+      "summary": "France reeled Monday after a weekend of nationwide unrest sparked by mass protests against the rising cost of living and in support of high school students’ demands over education funding…",
+      "image": "https://s.france24.com/media/display/7113bff8-cbb3-11f1-a667-d1d2c32ebb87/w:1024/p:16x9/AP26290511776206.jpg"
+    },
+    {
+      "title": "One killed in US shooting near mosque in Columbus, Ohio",
+      "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T19:50:20.000Z",
+      "summary": "Local authorities say mosque was not target of attack."
+    },
+    {
+      "title": "French far right seeks to capitalise on protests with calls for law and order",
+      "link": "https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order",
+      "source": "France 24",
+      "published": "2026-10-19T19:41:46.000Z",
+      "summary": "In the wake of the weekend's violence, the political camps have been trading blame for the “chaos”. The riots have played into the hands of the far-right National Rally, which has been…",
+      "image": "https://s.france24.com/media/display/5ac186ae-cbf4-11f1-af9c-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-210932-211121-CS.jpg"
+    },
+    {
+      "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+      "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T19:48:53.000Z",
+      "summary": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government."
+    },
+    {
+      "title": "Former president Thabo Mbeki denies ordering cover-up of apartheid-era crimes",
+      "link": "http://www.africanews.com/2026/10/19/former-president-thabo-mbeki-denies-ordering-cover-up-of-apartheid-era-crimes/",
+      "source": "Africanews",
+      "published": "2026-10-19T19:30:24.000Z",
+      "summary": "Former South African President Thabo Mbeki said Monday that he had neither ordered prosecutors to stop cases involving apartheid-era crimes nor struck secret deals to shield former security…"
+    },
+    {
+      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T19:38:40.000Z",
+      "summary": "Spain’s military is hoisting residents from the rooftops of their flooded homes."
+    },
+    {
+      "title": "Russia-China-US summit would prolong the war, Kyiv says",
+      "link": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says",
+      "source": "France 24",
+      "published": "2026-10-19T19:21:00.000Z",
+      "summary": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall Street…",
+      "image": "https://s.france24.com/media/display/49054872-cbf1-11f1-ac7d-6313a763b466/w:1024/p:16x9/EN-20261019-204634-204832-CS.jpg"
+    },
     {
       "title": "Indian court extends detention of ‘Cockroach’ leaders",
       "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
@@ -1136,12 +1368,12 @@ window.GDC_NEWS = {
       "summary": "French students are now blockading the world’s busiest museum."
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-19T18:23:50.000Z",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68c7/live/28c5fe60-cbcb-11f1-aba9-2bb2608f11d9.jpg"
+      "published": "2026-10-19T18:22:48.000Z",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
@@ -1151,35 +1383,6 @@ window.GDC_NEWS = {
       "summary": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family."
     },
     {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-19T18:22:48.000Z",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ede/live/03f0b480-cbbd-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
-      "link": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T18:21:06.000Z",
-      "summary": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections"
-    },
-    {
-      "title": "Mali: Human Rights Watch Denounces Crimes Against Civilians [Africanews Today]",
-      "link": "http://www.africanews.com/2026/10/19/mali-human-rights-watch-denounces-crimes-against-civilians-africanews-today/",
-      "source": "Africanews",
-      "published": "2026-10-19T17:37:04.000Z",
-      "summary": "Human Rights Watch accuses the Malian army, its Russian allies from Africa Corps, as well as armed and jihadist groups, of committing serious violations of international law against…"
-    },
-    {
-      "title": "Benny Gantz drops out of Israel’s election race",
-      "link": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T18:11:01.000Z",
-      "summary": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset."
-    },
-    {
       "title": "Guilty as charged: Kenyan court finds cult leader responsible of 191 starvation deaths",
       "link": "http://www.africanews.com/2026/10/19/guilty-as-charged-kenyan-court-finds-cult-leader-responsible-of-191-starvation-deaths/",
       "source": "Africanews",
@@ -1187,227 +1390,48 @@ window.GDC_NEWS = {
       "summary": "A self-proclaimed Kenyan preacher and his associates were on Monday found guilty of murdering 191 people, mostly children, in an infamous starvation cult."
     },
     {
-      "title": "Mauritius lifts curfew imposed amid wave of violent protests",
-      "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss",
+      "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+      "link": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-19T18:04:14.000Z",
-      "summary": "Unrest on the archipelago came after police shot a woman during a rally over rising costs and water shortages."
-    },
-    {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-19T17:18:04.000Z",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
-      "link": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:52:10.000Z",
-      "summary": "Cristiano Ronaldo handed month-long ban by the disciplinary council of Portugal's Football Association."
-    },
-    {
-      "title": "🔴 France issues curfew for parts of central Paris",
-      "link": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
-      "source": "France 24",
-      "published": "2026-10-19T17:09:26.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Chuck Schumer urges FCC to block AI robocalls before elections",
-      "link": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:40:56.000Z",
-      "summary": "Chuck Schumer urges FCC to reject petition allowing AI robocalls ahead of key November midterm elections."
-    },
-    {
-      "title": "CAS verdict on Senegal AFCON title appeal 'expected end November'",
-      "link": "http://www.africanews.com/2026/10/19/cas-verdict-on-senegal-afcon-title-appeal-expected-end-november/",
-      "source": "Africanews",
-      "published": "2026-10-19T16:58:59.000Z",
-      "summary": "The Court of Arbitration for Sport (CAS) announced Monday that a verdict on Senegal's appeal of the decision to strip them of the Africa Cup of Nations title in favour of Morocco will be…"
-    },
-    {
-      "title": "Qatar to announce a new regional defence partnership",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:27:18.000Z",
-      "summary": "Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure."
-    },
-    {
-      "title": "France: ‘localised’ curfews announced after weekend of violence",
-      "link": "https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence",
-      "source": "France 24",
-      "published": "2026-10-19T16:44:38.000Z",
-      "summary": "Following a weekend of #violence and #looting, the French government has announced localised #curfews, financial support for affected businesses and a tougher judicial response, while…",
-      "image": "https://s.france24.com/media/display/fa82cfd2-cbda-11f1-9a50-638c1c1f5fd6/w:1024/p:16x9/couvrefeu-00-02-31-08-Still002.jpg"
-    },
-    {
-      "title": "Can religion help Democrats win in red states? These faith leaders hope so",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:25:53.000Z",
-      "summary": "Roughly nine pastors, seminary students and Sunday school teachers are running as Democrats in the US midterm election."
-    },
-    {
-      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-19T16:32:47.000Z",
-      "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5abf/live/997b5110-cbde-11f1-b139-f77a8b036d06.jpg"
-    },
-    {
-      "title": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
-      "link": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:24:28.000Z",
-      "summary": "A judge also doubled the daily fine for noncompliance with a previous court order governing political content."
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-19T16:22:12.000Z",
-      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png"
-    },
-    {
-      "title": "12 migrants, including an infant, drown in two incidents off Greece",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:23:56.000Z",
-      "summary": "Two separate boat incidents off the Greek islands of Lesbos and Samos left 12 migrants dead."
-    },
-    {
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-19T16:20:51.000Z",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg"
-    },
-    {
-      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-      "link": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:16:22.000Z",
-      "summary": "Trump’s endorsement comes after he previously shied away from fully backing Netanyahu’s election campaign."
-    },
-    {
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-19T16:16:51.000Z",
-      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e0f10480-cb2b-11f1-97d2-23d8daaba2e1.jpg"
-    },
-    {
-      "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
-      "link": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T17:14:41.000Z",
-      "summary": "HSBC bought $130m in shares in firms tied to Israel’s military, in breach of Islamic law compliance requirements."
-    },
-    {
-      "title": "DZ Mafia murder trial set to begin near Marseille",
-      "link": "https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille",
-      "source": "France 24",
-      "published": "2026-10-19T15:58:06.000Z",
-      "summary": "Five men with alleged connections to the major criminal group DZ Mafia are accused of murdering, in 2020, the elder brother of anti-drug activist Amine Kessaci – now deputy mayor of…",
-      "image": "https://s.france24.com/media/display/7fb6916e-cbd3-11f1-8c7f-4dd8ac2cf3bf/w:1024/p:16x9/capture-6eb9c7a4.jpg"
-    },
-    {
-      "title": "Search under way for four soldiers missing after gang attack in Haiti",
-      "link": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T16:40:01.000Z",
-      "summary": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions."
-    },
-    {
-      "title": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
-      "link": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
-      "source": "France 24",
-      "published": "2026-10-19T15:44:42.000Z",
-      "summary": "Ukraine has evacuated a wounded soldier from the front line using an aerial drone in what a Ukrainian army brigade has described as a world-first operation. The successful mission…",
-      "image": "https://s.france24.com/media/display/535361e8-cbd2-11f1-b00b-2d1c143cdef3/w:1024/p:16x9/AP26288408031156.jpg"
-    },
-    {
-      "title": "War on Iran backlash threatens Republican control of Congress",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T16:24:30.000Z",
-      "summary": "Public opposition to the war on Iran could threaten Republican control of Congress."
-    },
-    {
-      "title": "France wants curfews in some areas after weekend of riots",
-      "link": "https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots",
-      "source": "France 24",
-      "published": "2026-10-19T15:37:30.000Z",
-      "summary": "France's central government asked some local authorities to impose curfews and faced pressure over security failings on Monday after a weekend of riots and looting borne out of nationwide…",
-      "image": "https://s.france24.com/media/display/f8024336-cbcc-11f1-8514-638c1c1f5fd6/w:1024/p:16x9/EN-20261019-160152-160349-CS.jpg"
-    },
-    {
-      "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T16:06:57.000Z",
-      "summary": "The World Food Programme has announced that funding shortages will force it to suspend food assistance in Gaza"
-    },
-    {
-      "title": "France protests: Who are the people arrested during the unrest?",
-      "link": "https://www.france24.com/en/video/20261019-france-protests-who-are-the-people-arrested-during-the-unrest",
-      "source": "France 24",
-      "published": "2026-10-19T15:36:05.000Z",
-      "summary": "At least 2,400 people were arrested in France during protests over the weekend, some simply for being in the wrong place at the wrong time, others on suspicion of theft and looting. In an…",
-      "image": "https://s.france24.com/media/display/a0613e2a-ca69-11f1-b46e-d1d2c32ebb87/w:1024/p:16x9/000-D3LN9G4.jpg"
-    },
-    {
-      "title": "Trump endorses Netanyhu ahead of elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T15:54:25.000Z",
-      "summary": "Trump endorses Netanyahu ahead of Israel’s election, Ben-Gvir faces student protesters."
-    },
-    {
-      "title": "Kenyan cult leader Paul Mackenzie faces verdict over 191 starvation deaths",
-      "link": "http://www.africanews.com/2026/10/19/kenyan-cult-leader-paul-mackenzie-faces-verdict-over-191-starvation-deaths/",
-      "source": "Africanews",
-      "published": "2026-10-19T15:25:24.000Z",
-      "summary": "A Mombasa court will deliver a long-awaited verdict on Monday in the trial of a self-proclaimed Kenyan preacher and his associates, accused of murdering 191 people, mostly children, in an…"
-    },
-    {
-      "title": "Kenyan court convicts starvation cult leader of murdering 191 people",
-      "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T15:34:22.000Z",
-      "summary": "Doomsday sect leader Paul ⁠⁠Mackenzie had denied ordering the victims to starve so they could 'meet Jesus'."
-    },
-    {
-      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-19T15:21:03.000Z",
-      "summary": "France is used to protests but the violence and damage seen across the country is shocking many people.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff6/live/21dbaa40-cbd6-11f1-9a39-31b474234113.png"
+      "published": "2026-10-19T18:21:06.000Z",
+      "summary": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections"
     }
   ],
   "africa": [
     {
-      "title": "Mauritius lifts curfew imposed amid wave of violent protests",
-      "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss",
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
+      "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-19T18:04:14.000Z",
-      "summary": "Unrest on the archipelago came after police shot a woman during a rally over rising costs and water shortages."
+      "published": "2026-10-19T21:38:46.000Z",
+      "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure."
     },
     {
       "title": "Mali: Human Rights Watch Denounces Crimes Against Civilians [Africanews Today]",
       "link": "http://www.africanews.com/2026/10/19/mali-human-rights-watch-denounces-crimes-against-civilians-africanews-today/",
       "source": "Africanews",
-      "published": "2026-10-19T17:37:04.000Z",
+      "published": "2026-10-19T20:27:02.000Z",
       "summary": "Human Rights Watch accuses the Malian army, its Russian allies from Africa Corps, as well as armed and jihadist groups, of committing serious violations of international law against…"
+    },
+    {
+      "title": "Kenya convicts cult leader over the murder of 190 children",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T20:31:21.000Z",
+      "summary": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty"
+    },
+    {
+      "title": "Former president Thabo Mbeki denies ordering cover-up of apartheid-era crimes",
+      "link": "http://www.africanews.com/2026/10/19/former-president-thabo-mbeki-denies-ordering-cover-up-of-apartheid-era-crimes/",
+      "source": "Africanews",
+      "published": "2026-10-19T19:30:24.000Z",
+      "summary": "Former South African President Thabo Mbeki said Monday that he had neither ordered prosecutors to stop cases involving apartheid-era crimes nor struck secret deals to shield former security…"
+    },
+    {
+      "title": "Mauritius lifts curfew imposed amid wave of violent protests",
+      "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T18:04:14.000Z",
+      "summary": "Unrest on the archipelago came after police shot a woman during a rally over rising costs and water shortages."
     },
     {
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
@@ -1656,27 +1680,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-19T11:29:45.000Z",
       "summary": "[Ghanaian Times] President John Dramani Mahama has said Ghana's decision to seek partnership with the BRICS countries is part of efforts to broaden its development partnerships and deepen…"
-    },
-    {
-      "title": "Tanzania: Ncu Invests 3.2bn/ - in Cotton Ginnery Rehabilitation",
-      "link": "https://allafrica.com/stories/202610190339.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-19T11:48:42.000Z",
-      "summary": "[Daily News] Mwanza -- NYANZA Cooperative Union (NCU-1984 Ltd) has invested more than 3.2bn/- from its internally generated revenue to rehabilitate a cotton ginnery, in a move aimed at…"
-    },
-    {
-      "title": "Kenya: No, Kenya's Star Newspaper Didn't Publish Column Alleging Brookside Dairy Is Profiting From Milk Shortage",
-      "link": "https://allafrica.com/stories/202610190275.html",
-      "source": "AllAfrica",
-      "published": "2026-10-19T11:28:09.000Z",
-      "summary": "[Africa Check] No, Kenya's Star newspaper didn't publish column alleging Brookside Dairy is profiting from milk shortage"
-    },
-    {
-      "title": "Liberia: Who's Responsible for LEC's Power Theft 'Crisis'?",
-      "link": "https://allafrica.com/stories/202610190328.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-19T11:44:39.000Z",
-      "summary": "[New Republic] Power theft in Liberia has become a norm, a dangerous norm that is making it difficult for the Liberia Electricity Corporation (LEC) to deliver reliable electricity and…"
     }
   ]
 };

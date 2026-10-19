@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-19T19:34:08.416Z",
+  "updated": "2026-10-19T23:03:58.732Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,127 +25,140 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Where is the 24-hour economy? – Bawumia challenges Mahama government to show results",
-      "link": "https://www.myjoyonline.com/where-is-the-24-hour-economy-bawumia-challenges-mahama-government-to-show-results/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T19:23:21.000Z",
-      "summary": "The New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has been tearing into the government's flagship 24-hour economy, delivering a brutal verdict nearly two hours into the NDC…",
+      "title": "Big blow as injury rules Semenyo out of Ghana’s next AFCON qualifiers",
+      "link": "https://www.graphic.com.gh/sports/sports-news/big-blow-as-injury-rules-semenyo-out-of-ghanas-next-afcon-qualifiers.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-19T22:59:17.000Z",
+      "summary": "City manager Enzo Maresca confirmed the timeline on Monday after scans on the Ghana international, who suffered a knock during last Saturday’s 3-2 Premier League victory over Ipswich Town…",
       "categories": [
-        "National",
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Sinapi Aba golfers excel at 8th AGA Otumfour Invitational",
+      "link": "https://www.myjoyonline.com/sinapi-aba-golfers-excel-at-8th-aga-otumfour-invitational/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T22:54:57.000Z",
+      "summary": "Sinapi Aba Savings and Loans recorded two notable results at the 8th AGA Otumfour Invitational, with Lydia Opoku Ware winning the ladies’ competition and Tony Appiah finishing runner-up in…",
+      "categories": [
+        "Events",
+        "Golf Tournament",
+        "Otumfuor invitational",
+        "Sinapi Aba"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-16.41.11-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hawa Koomson demands independent probe into alleged abuse of 19 Obuasi SHS girls",
+      "link": "https://www.myjoyonline.com/hawa-koomson-demands-independent-probe-into-alleged-abuse-of-19-obuasi-shs-girls/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T22:41:00.000Z",
+      "summary": "The National Women’s Organiser of the New Patriotic Party (NPP), Mavis Hawa Koomson, has called for a swift, independent and transparent investigation into allegations of sexual abuse…",
+      "categories": [
         "News",
-        "24-hour economy",
-        "Bawumia",
-        "Mahama government"
+        "CID",
+        "Obuasi SHS",
+        "Police",
+        "Probe",
+        "Sexual abuse"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/08/Mahama-and-Bawumia-1024x867.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/obuasisectech-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Japan Motors donates five motorcycles to support 42nd National Farmers’ Day",
-      "link": "https://www.myjoyonline.com/japan-motors-donates-five-motorcycles-to-support-42nd-national-farmers-day/",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "https://www.myjoyonline.com/tennis-star-svitolina-says-emotional-toll-of-ukraine-war-led-to-monfils-separation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T19:19:27.000Z",
-      "summary": "The Ministry of Food and Agriculture has announced that Japan Motors Trading Company Limited has donated five branded motorcycles towards the 42nd National Farmers’ Day celebration. In a…",
+      "published": "2026-10-19T22:15:00.000Z",
+      "summary": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
       "categories": [
-        "National",
-        "Farmers",
-        "Japan Motors",
-        "Motorcycles"
+        "International",
+        "Tennis",
+        "Elina Svitolina",
+        "Gael Monfils",
+        "Ukraine"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-10.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1960-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Making Ghana’s 5G investment deliver for businesses and the economy",
-      "link": "https://www.myjoyonline.com/making-ghanas-5g-investment-deliver-for-businesses-and-the-economy/",
+      "title": "Uefa gives Infantino two-week deadline to release key documents",
+      "link": "https://www.myjoyonline.com/ronaldo-given-30-day-suspension-and-215-fine-by-portuguese-fa/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T18:53:06.000Z",
-      "summary": "At a busy shop in Kumasi, a customer waits while an electronic payment stalls. In a diagnostic centre, medical images await transfer to a specialist. A guesthouse loses a booking when its…",
-      "categories": [
-        "Africa",
-        "News",
-        "Technology",
-        "5G investment",
-        "KNUST",
-        "telecommunication"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-15-at-3.51.05-PM-822x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nico Williams’ agent finally explains failed Barcelona move in 2025",
-      "link": "https://www.myjoyonline.com/nico-williams-agent-finally-explains-failed-barcelona-move-in-2025/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T18:52:13.000Z",
-      "summary": "Barcelona’s inability to provide guarantees over Nico Williams’ registration derailed the proposed move in the summer of 2025, his agent, Félix Tainta, has finally revealed.",
+      "published": "2026-10-19T22:09:16.000Z",
+      "summary": "European governing body Uefa has told Fifa it must release key documents and answer all questions relating to its governance and decision-making by a deadline of 2 November.",
       "categories": [
         "Football",
+        "International",
         "Sports",
-        "Athletic Bilbao",
-        "Barcalona",
-        "Nico Williams"
+        "FIFA",
+        "Infantino",
+        "UEFA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/large-1024x707.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-3734-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Vodza Iron Breakers present beach soccer trophy to Lawyer Lom Ahlijah, appoint him patron",
-      "link": "https://www.myjoyonline.com/vodza-iron-breakers-present-beach-soccer-trophy-to-lawyer-lom-ahlijah-appoint-him-patron/",
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "link": "https://www.myjoyonline.com/exiled-critic-of-rwandan-president-found-beheaded/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T18:45:48.000Z",
-      "summary": "Vodza Iron Breakers have presented their beach soccer trophy to Lawyer Lom Ahlijah in appreciation of his support for the team, while inviting him to serve as the club’s patron. The…",
+      "published": "2026-10-19T22:04:00.000Z",
+      "summary": "A former Rwandan army sergeant major, who became an outspoken critic of President Paul Kagame, has been found beheaded in neighbouring Uganda.",
       "categories": [
-        "Sports",
-        "beach soccer",
-        "Soccer trophy",
-        "Vodza Iron Breakers"
+        "Africa",
+        "President Paul Kagame",
+        "Rwanda"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-18.42.17-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1959-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Education Minister refers Obuasi SHS headmaster’s sexual misconduct allegations to CID",
-      "link": "https://www.myjoyonline.com/education-minister-refers-obuasi-shs-headmasters-sexual-misconduct-allegations-to-cid/",
+      "title": "GH¢400m to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 Budget – Mahama",
+      "link": "https://www.myjoyonline.com/gh%c2%a2400m-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-epa-and-blue-water-guards-in-2027-budget-mahama/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T18:41:32.000Z",
-      "summary": "The Minister for Education, Haruna Iddrisu, has referred allegations of sexual misconduct involving the headmaster of Obuasi Senior High Technical School, Zakaria Abdulai, and female…",
+      "published": "2026-10-19T22:00:36.000Z",
+      "summary": "President John Dramani Mahama has announced a plan to allocate GH¢400 million in the 2027 Budget, for land reclamation and environmental protection activities.",
       "categories": [
-        "Education",
-        "CID",
-        "Obuasi SHS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/inside-the-dreaded-headmasters-b-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UMB appoints Justina Stella Laing as COO to advance its brand transformation agenda",
-      "link": "https://www.myjoyonline.com/umb-appoints-justina-stella-laing-as-coo-to-advance-its-brand-transformation-agenda/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T18:39:20.000Z",
-      "summary": "Universal Merchant Bank (UMB) has appointed Justina Stella Laing as Chief Operating Officer (COO).",
-      "categories": [
-        "Banking and Finance",
         "National",
-        "Justina Stella Laing",
-        "UMB"
+        "News",
+        "2027 Budget",
+        "Blue Water Guards",
+        "EPA",
+        "Galamsey"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-6.38.22-pm.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-2-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I’m stuck with NPP – Jeneral Ntatia",
-      "link": "https://www.myjoyonline.com/im-stuck-with-npp-jeneral-ntatia/",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "link": "https://www.myjoyonline.com/kenya-cult-leader-who-told-parents-to-starve-children-guilty-of-191-murders/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T18:30:46.000Z",
-      "summary": "Comedian Prince Kwame Amoabeng has revealed that he feels stuck with the New Patriotic Party (NPP) after campaigning for the party during the 2020 general elections. During the elections…",
+      "published": "2026-10-19T21:54:00.000Z",
+      "summary": "The leader of a Kenyan doomsday cult, Paul Mackenzie, has been found guilty of murdering 191 people, all but one of them children.",
       "categories": [
-        "Arts and Culture",
-        "Radio & TV",
-        "Free SHS",
-        "Jeneral Ntatia",
-        "NPP"
+        "Africa",
+        "Kenya",
+        "Pastor Paul Mackenzie"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/What-else-can-we-say-We-just-thank-God-for-Talent.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1958-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "link": "https://www.myjoyonline.com/curfew-imposed-in-parts-of-central-paris-and-other-cities-after-rioting-across-france/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T21:45:00.000Z",
+      "summary": "French authorities have imposed overnight curfews in parts of central Paris and other cities after a weekend of riots and looting across the country.",
+      "categories": [
+        "International",
+        "Curfew",
+        "France",
+        "Paris"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1782-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -417,18 +430,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/BEACH_SOCCER.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "He was an institution: Boxing ref Roger Barnor mourns mentor Ataa Eddie Pappoe",
-      "link": "https://www.graphic.com.gh/sports/sports-news/he-was-an-institution-boxing-ref-roger-barnor-mourns-mentor-ataa-eddie-pappoe.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T10:17:08.000Z",
-      "summary": "“He’s gone but still here in our hearts. He was an institution, he’s revered around the world,” Barnor said following Pappoe’s death in Accra on Wednesday, October 14. “He encouraged me…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/PAPPOE.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
