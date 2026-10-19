@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-18T23:24:47.689Z",
-  "worldAt": "2026-10-18T23:24:47.688Z",
+  "updated": "2026-10-19T01:28:19.862Z",
+  "worldAt": "2026-10-19T01:28:19.858Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,14 +27,14 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 28 stories",
+    "World · BBC News: 30 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 23 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,43 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+      "link": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T01:07:52.000Z",
+      "summary": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case."
+    },
+    {
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-19T00:06:25.000Z",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "Kinship and surveillance: The return of Somali piracy",
+      "link": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T00:56:17.000Z",
+      "summary": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive."
+    },
+    {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-18T23:28:45.000Z",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg"
+    },
+    {
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T23:59:34.000Z",
+      "summary": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections."
+    },
+    {
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1107,11 +1144,41 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg"
     },
     {
+      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+      "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T23:58:05.000Z",
+      "summary": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say."
+    },
+    {
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-18T23:06:09.000Z",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg"
+    },
+    {
       "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-18T23:06:16.000Z",
       "summary": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir."
+    },
+    {
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-18T22:22:51.000Z",
+      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/26c3d1c0-cb47-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+      "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T22:41:49.000Z",
+      "summary": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return."
     },
     {
       "title": "Canadian military base fire kills at least four, injures dozens",
@@ -1122,11 +1189,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f386ca2a-cb40-11f1-afbe-638c1c1f5fd6/w:1024/p:16x9/AP26291249437617.jpg"
     },
     {
-      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
-      "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
+      "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-18T22:41:49.000Z",
-      "summary": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return."
+      "published": "2026-10-18T21:53:13.000Z",
+      "summary": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight."
     },
     {
       "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
@@ -1135,13 +1202,6 @@ window.GDC_NEWS = {
       "published": "2026-10-18T21:59:34.000Z",
       "summary": "US President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to…",
       "image": "https://s.france24.com/media/display/c4a57392-8d19-11f1-9ad5-005056bfb2b6/w:1024/p:16x9/000-C3EB39E-1.jpg"
-    },
-    {
-      "title": "Alberta independence referendum: Will separatists survive a loss?",
-      "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T21:53:13.000Z",
-      "summary": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight."
     },
     {
       "title": "What we know so far about deadly fire at Canadian military base",
@@ -1337,74 +1397,29 @@ window.GDC_NEWS = {
       "published": "2026-10-18T16:25:00.000Z",
       "summary": "US President Donald Trump on Sunday endorsed Prime Minister Benjamin Netanyahu ahead of Israel's October 27 elections. It was not clear what impact the endorsement would have on voters…",
       "image": "https://s.france24.com/media/display/7c3ce8c8-cb0e-11f1-946e-6313a763b466/w:1024/p:16x9/2026-10-18T155301Z-1509213277-RC2KQIA83EQP-RTRMADP-3-ISRAEL-ELECTION-TRUMP.jpg"
-    },
-    {
-      "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T17:58:49.000Z",
-      "summary": "Bollywood actor Tiger Shroff escaped unharmed after gunmen opened fire at his vehicle in Mumbai, India"
-    },
-    {
-      "title": "Paris police clash with demonstrators and looters as protests continue",
-      "link": "https://www.france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters",
-      "source": "France 24",
-      "published": "2026-10-18T16:11:22.000Z",
-      "summary": "Paris police clashed with protesters and looters on Sunday as France reeled from nationwide demonstrations over the cost of living a day earlier that saw nearly 2,400 people arrested. Local…",
-      "image": "https://s.france24.com/media/display/b87b081c-cb2a-11f1-b092-2d1c143cdef3/w:1024/p:16x9/2026-10-18T180011Z-1398708429-RC2T5OAIURFE-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T17:52:37.000Z",
-      "summary": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh."
-    },
-    {
-      "title": "France: Paris, Lyon and Marseille count the cost after violent protests",
-      "link": "http://www.africanews.com/2026/10/18/france-paris-lyon-and-marseille-count-the-cost-after-violent-protests/",
-      "source": "Africanews",
-      "published": "2026-10-18T15:56:57.000Z",
-      "summary": "Streets littered with broken glass, burnt bicycles and debris greeted residents in France on Sunday 18 October, following demonstrations that left extensive damage across Paris, Lyon and…"
-    },
-    {
-      "title": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
-      "link": "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T17:48:17.000Z",
-      "summary": "Arsenal did not register a shot on target until Noni Madueke bagged their winner 10 minutes from full-time."
-    },
-    {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-18T15:46:10.000Z",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T17:20:20.000Z",
-      "summary": "In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces"
-    },
-    {
-      "title": "Who capped Starlink in Ukraine? Musk, Trump and Rubio give three different answers",
-      "link": "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers",
-      "source": "France 24",
-      "published": "2026-10-18T14:51:28.000Z",
-      "summary": "Ukraine says speed limits on Starlink are still hampering military efforts to fight off Russian drones, days after a surprise network slowdown that Kyiv called deliberate and Washington…",
-      "image": "https://s.france24.com/media/display/ceb2d54c-caf8-11f1-8e5d-6313a763b466/w:1024/p:16x9/image-33.png"
     }
   ],
   "africa": [
+    {
+      "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+      "link": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T01:07:52.000Z",
+      "summary": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case."
+    },
     {
       "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
       "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-africa-8291-rdf",
       "source": "Deutsche Welle",
       "published": "2026-10-18T22:04:00.000Z",
       "summary": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province."
+    },
+    {
+      "title": "Kinship and surveillance: The return of Somali piracy",
+      "link": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T00:56:17.000Z",
+      "summary": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive."
     },
     {
       "title": "Africa: Every Story Is Unique, Every Journey Matters for Women's Cancers",
@@ -1505,25 +1520,11 @@ window.GDC_NEWS = {
       "summary": "Joblessness, failing services and rising costs deepen hardship across the country."
     },
     {
-      "title": "Senegal's Macky Sall withdraws from race for UN top job",
-      "link": "http://www.africanews.com/2026/10/17/senegals-macky-sall-withdraws-from-race-for-un-top-job/",
-      "source": "Africanews",
-      "published": "2026-10-17T13:28:15.000Z",
-      "summary": "Senegal’s former President Macky Sall is pulling out of the race to lead the United Nations. Saturday's announcement comes one day after an informal straw poll by UN Security Council…"
-    },
-    {
       "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
       "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-18T02:21:48.000Z",
       "summary": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace."
-    },
-    {
-      "title": "Frontline workers in DRC receive Ervebo vaccine amid growing Ebola outbreak",
-      "link": "http://www.africanews.com/2026/10/17/frontline-workers-in-drc-receive-ervebo-vaccine-amid-growing-ebola-outbreak/",
-      "source": "Africanews",
-      "published": "2026-10-17T12:37:06.000Z",
-      "summary": "Frontline workers in DR Congo received the Ervebo vaccine on Friday as the country’s worst ever Ebola outbreak continues to spread. Ervebo is effective against the Zaire strain of Ebola…"
     },
     {
       "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",

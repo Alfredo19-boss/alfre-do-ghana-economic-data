@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-18T23:24:58.444Z",
+  "updated": "2026-10-19T01:28:31.939Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,47 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "link": "https://www.myjoyonline.com/eu-tariffs-aimed-at-china-hitting-ukraine-steel-boss-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T23:05:00.000Z",
+      "summary": "The boss of one of Ukraine's biggest steel companies has called on the European Union to drop import restrictions on products made from the country, arguing it has been \"bundled together\"…",
+      "categories": [
+        "International",
+        "EU",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1804-1024x577.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Macron calls for ‘calm and order’ after riots across France",
+      "link": "https://www.myjoyonline.com/macron-calls-for-calm-and-order-after-riots-across-france/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T22:56:00.000Z",
+      "summary": "French President Emmanuel Macron has called for \"calm and order\" after a major day of protests turned into rioting and looting on Saturday, with some disorder continuing in Paris on Sunday.",
+      "categories": [
+        "International",
+        "Emmanuel Macron",
+        "France"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3804-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cindy Crawford ‘beyond heartbroken’ after death of son Presley at 27",
+      "link": "https://www.myjoyonline.com/cindy-crawford-beyond-heartbroken-after-death-of-son-presley-at-27/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-18T22:46:00.000Z",
+      "summary": "Supermodel Cindy Crawford has said she and her family are \"beyond heartbroken\" over the death of her son Presley Gerber.",
+      "categories": [
+        "Movies",
+        "Cindy Crawford"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1803-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Harry Styles debuts new track in memory of Liam Payne",
       "link": "https://www.myjoyonline.com/harry-styles-debuts-new-track-in-memory-of-liam-payne/",
       "source": "MyJoyOnline",
@@ -32,7 +73,8 @@ window.GDC_PAPERS = {
       "summary": "Harry Styles performed an unreleased song he wrote for his former One Direction bandmate Liam Payne.",
       "categories": [
         "Music",
-        "Harry Styles"
+        "Harry Styles",
+        "Liam Payne"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1802-1024x576.png",
       "site": "https://www.myjoyonline.com/"
@@ -93,51 +135,6 @@ window.GDC_PAPERS = {
         "MSMEs"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-18-at-10.34.25-pm-1024x753.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Real Madrid demand Tebas resign over Goebbels comparison",
-      "link": "https://www.myjoyonline.com/real-madrid-demand-tebas-resign-over-goebbels-comparison/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T21:45:00.000Z",
-      "summary": "Real Madrid have called for the \"immediate resignation\" of La Liga president Javier Tebas after he drew comparisons between the club's management and Nazi propaganda chief Joseph Goebbels.",
-      "categories": [
-        "Football",
-        "Javier Tebas",
-        "La Liga",
-        "Real Madrid"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3002.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fatigued Zverev ‘overachieved’ by reaching Shanghai semis",
-      "link": "https://www.myjoyonline.com/fatigued-zverev-overachieved-by-reaching-shanghai-semis/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T21:34:00.000Z",
-      "summary": "World number two Alexander Zverev said he \"overachieved\" at the Shanghai Masters by reaching the semi-finals, despite fatigue from his busy schedule.",
-      "categories": [
-        "Tennis",
-        "Alexander Zverev"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-350.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP demands publication of invoices for GH¢27m South Africa evacuation flights",
-      "link": "https://www.myjoyonline.com/npp-demands-publication-of-invoices-for-gh%c2%a227m-south-africa-evacuation-flights/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T21:11:17.000Z",
-      "summary": "The Communications Director of the New Patriotic Party (NPP), Dennis Miracles Aboagye, has challenged Foreign Affairs Minister Samuel Okudzeto Ablakwa to publish the original Ethiopian…",
-      "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Dennis Miracles Aboagye",
-        "NPP",
-        "South Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/fligh-1024x580.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
