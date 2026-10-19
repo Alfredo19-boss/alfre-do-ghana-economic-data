@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-18T22:28:35.769Z",
+  "updated": "2026-10-19T00:28:05.306Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,16 +22,16 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-18T22:28:35.769Z",
+  "officialAt": "2026-10-19T00:28:05.306Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.6537 (mid-market, 2026-10-18)",
     "gbp: 15.5329 (mid-market, 2026-10-18)",
     "eur: 13.0975 (mid-market, 2026-10-18)",
     "cny: 1.74276 (mid-market, 2026-10-18)",
-    "gold: 4194.7 at 2026-10-18T22:18:22.000Z",
+    "gold: 4199.9 at 2026-10-19T00:17:53.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-16, usd/gbp/eur",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-18: 2026-10-16, usd/gbp/eur",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-19: 2026-10-16, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
     "BoG in use: 2026-10-16 · usd 11.665, gbp 15.5454, eur 13.0964"
   ],
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.74753
     },
     "gold": {
-      "value": 4194.7,
-      "at": "2026-10-18T22:18:22.000Z",
+      "value": 4199.9,
+      "at": "2026-10-19T00:17:53.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4181.1
+      "prev": 4194.7
     }
   }
 };
