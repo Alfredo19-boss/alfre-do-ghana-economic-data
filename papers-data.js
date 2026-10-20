@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-20T20:20:45.013Z",
+  "updated": "2026-10-20T23:14:56.507Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,128 +25,134 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "DTI calls for stronger investment in human capital to accelerate Ghana’s industrialisation",
-      "link": "https://www.myjoyonline.com/dti-calls-for-stronger-investment-in-human-capital-to-accelerate-ghanas-industrialisation/",
+      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+      "link": "https://www.myjoyonline.com/bbc-three-bbc-scotland-and-radio-4-extra-broadcast-channels-to-close/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:37:23.000Z",
-      "summary": "The Design and Technology Institute (DTI) is calling for increased investment in human capital development and stronger government support for local industries to improve Ghana’s…",
+      "published": "2026-10-20T22:43:00.000Z",
+      "summary": "The BBC will close its BBC Three and BBC Scotland television channels in the spring, as the corporation continues to save £500m over two years.",
       "categories": [
-        "Business",
-        "HP Business 6",
-        "Investments",
-        "Constance Swaniker",
-        "DTI",
-        "Human Capital at Work",
-        "”"
+        "International",
+        "BBC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-12.10.43-PM-1-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1958-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Police explain why only one Obuasi SHTS abuse complaint has been investigated",
-      "link": "https://www.myjoyonline.com/police-explain-why-only-one-obuasi-shts-abuse-complaint-has-been-investigated/",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "link": "https://www.myjoyonline.com/elon-musk-says-tesla-spacex-merger-being-considered/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:37:21.000Z",
-      "summary": "The police have defended their handling of sexual abuse allegations involving the headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, amid questions over why…",
+      "published": "2026-10-20T22:36:00.000Z",
+      "summary": "Elon Musk said he likes the idea of merging Tesla and SpaceX, two of his most notable companies, and that it is under active consideration.",
       "categories": [
-        "National",
-        "Complaint",
-        "Obuasi SHTS",
-        "Police"
+        "International",
+        "Elon Musk",
+        "Tesla-SpaceX merger"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-15-4.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2343-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Photos: Absa, UPSA Law School hold 15th Banking Roundtable in Accra",
-      "link": "https://www.myjoyonline.com/photos-absa-upsa-law-school-hold-15th-banking-roundtable-in-accra/",
+      "title": "Turkish FA bans 147 officials for breaching betting rules",
+      "link": "https://www.myjoyonline.com/turkish-fa-bans-147-officials-for-breaching-betting-rules/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:29:20.000Z",
-      "summary": "The Absa-UPSA Law School Quarterly Banking Roundtable XV was held at the Absa Bank Ghana Head Office in Accra.",
+      "published": "2026-10-20T22:19:00.000Z",
+      "summary": "Trabzonspor president Ertugrul Dogan has been named among 147 football club officials to receive 45-day bans from the Turkish Football Federation (TFF) for breaching betting rules.",
       "categories": [
-        "Photo Story",
-        "Absa Bank Ghaa",
-        "UPSA-Law school"
+        "Football",
+        "Betting rules",
+        "Turkish FA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2354-Copy_2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2045.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "We must ensure judiciary doesn’t succumb to partisan capture – Yaw Nsarkoh",
-      "link": "https://www.myjoyonline.com/we-must-ensure-judiciary-doesnt-succumb-to-partisan-capture-yaw-nsarkoh/",
+      "title": "FGMSA sues Medical and Dental Council to halt Common Registration Examination",
+      "link": "https://www.myjoyonline.com/fgmsa-sues-medical-and-dental-council-to-halt-common-registration-examination/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:28:44.000Z",
-      "summary": "Former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has called on Ghanaians to protect the Judiciary from partisan capture, warning that declining public confidence…",
+      "published": "2026-10-20T22:17:16.000Z",
+      "summary": "The Federation of Ghana Medical Students’ Associations (FGMSA) and affected graduating medical and dental students have sued the Medical and Dental Council (MDC), seeking to restrain the…",
       "categories": [
-        "National",
-        "Judiciary",
-        "Yaw Nsarkoh"
+        "Education",
+        "common registration",
+        "FGMSA",
+        "Medical and Dental Council"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Yaw-Nsarkoh.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-10-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obuasi SHTS abuse probe: I can vouch with my life CID boss will not compromise anything – Muntaka",
-      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-probe-i-can-vouch-with-my-life-cid-boss-will-not-compromise-anything-muntaka/",
+      "title": "Audit regulator looking into Manchester City accounting",
+      "link": "https://www.myjoyonline.com/audit-regulator-looking-into-manchester-city-accounting/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:28:18.000Z",
-      "summary": "The Minister for the Interior, Mubarak Mohammed Muntaka, has vouched for the Director-General of the Criminal Investigations Department (CID), COP Lydia Yaako Donkor, assuring the public…",
+      "published": "2026-10-20T22:11:00.000Z",
+      "summary": "The UK audit regulator has confirmed it is leading inquiries into accounting irregularities at Manchester City.",
       "categories": [
-        "National",
-        "CID boss",
-        "Mubarak Mohammed Muntaka",
-        "Obuasi SHTS"
+        "Football",
+        "English Premier League",
+        "Manchester City"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Muntaka-636x424-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2044-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana’s judiciary has become vulnerable to partisan influence – Yaw Nsarkoh",
-      "link": "https://www.myjoyonline.com/ghanas-judiciary-has-become-vulnerable-to-partisan-influence-yaw-nsarkoh/",
+      "title": "Doue impresses as PSG beat Barcelona in thriller",
+      "link": "https://www.myjoyonline.com/doue-impresses-as-psg-beat-barcelona-in-thriller/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:27:15.000Z",
-      "summary": "The former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has warned that Ghana’s judiciary has become structurally vulnerable to partisan influence.",
+      "published": "2026-10-20T22:04:00.000Z",
+      "summary": "Desire Doue, Lamine Yamal and Vitinha scored superb individual goals as Champions League holders Paris St-Germain overcame Barcelona in a breathless encounter at Parc des Princes.",
       "categories": [
-        "National",
-        "News",
-        "Ghana",
-        "Judiciary",
-        "Partisan Politics"
+        "HP Sports 1",
+        "International",
+        "Sports",
+        "Barcelona",
+        "Desire Doue",
+        "Lamine Yamal",
+        "PSG"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/yaw-1024x535.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/46f4df40-ccc6-11f1-951b-8fbc7a9ea030.jpg.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Problems of society are not resolved by appointing more judges – Yaw Nsarkoh",
-      "link": "https://www.myjoyonline.com/problems-of-society-are-not-resolved-by-appointing-more-judges-yaw-nsarkoh/",
+      "title": "Four-goal Roma thrash Yaya Toure’s Slovan Bratislava",
+      "link": "https://www.myjoyonline.com/four-goal-roma-thrash-yaya-toures-slovan-bratislava/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:24:25.000Z",
-      "summary": "Former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has argued that appointing more judges and establishing additional courts will not resolve Ghana’s judicial…",
+      "published": "2026-10-20T22:01:00.000Z",
+      "summary": "Ruthless Roma stuck four past Yaya Toure's Slovan Bratislava to secure their first Champions League victory of the season.",
       "categories": [
-        "National",
-        "Judges",
-        "Yaw Nsarkoh"
+        "Football",
+        "AS Roma",
+        "Slovan Bratislava"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Yaw-Nsarkoh.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2043.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "ISSER calls for manufacturing-led growth to create jobs",
-      "link": "https://www.myjoyonline.com/isser-calls-for-manufacturing-led-growth-to-create-jobs/",
+      "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
+      "link": "https://www.myjoyonline.com/nigeria-confirms-first-ebola-case-amid-concerns-about-continental-spread/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T19:10:55.000Z",
-      "summary": "The Institute of Statistical, Social and Economic Research (ISSER) is urging government to prioritise manufacturing, agricultural productivity and private-sector financing to translate…",
+      "published": "2026-10-20T22:01:00.000Z",
+      "summary": "Nigeria has confirmed its first Ebola case in its capital, Abuja, after a woman who travelled from Uganda tested positive for the virus.",
       "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "Ghana",
-        "ISSER",
-        "Professor Fred Dzanku",
-        "Professor Robert Darko Osei"
+        "Africa",
+        "International",
+        "Ebola",
+        "Nigeria",
+        "virus"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-11.55.57-AM-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ap_6ace7cf13598e-1791917297.webp",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "link": "https://www.graphic.com.gh/news/health/nigeria-confirms-ebola-case-linked-to-east-africa.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T20:27:56.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/ebola.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GES directs Ashanti, Obuasi East Education Directors to step aside over Obuasi SHTS probe",
@@ -334,18 +340,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/20/immigration.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Zakaria Abdulai: Obuasi SHTS Headmaster resigns as Juaben Constituency Secretary, withdraws from Chairmanship race",
-      "link": "https://www.graphic.com.gh/news/general-news/zakaria-abdulai-obuasi-shts-headmaster-resigns-as-juaben-constituency-secretary-withdraws-from-chairmanship-race.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T12:38:14.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/zakaria.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {

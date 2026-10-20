@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-20T20:20:26.463Z",
-  "worldAt": "2026-10-20T20:20:26.460Z",
+  "updated": "2026-10-20T23:14:44.628Z",
+  "worldAt": "2026-10-20T23:14:44.626Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -29,7 +29,7 @@ window.GDC_NEWS = {
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,10 +42,24 @@ window.GDC_NEWS = {
     "Africa · Africanews: 34 stories",
     "Africa · BBC Africa: 33 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Microsoft’s UK AI Data Centre Exit Highlights Power Risks for Big Tech Investments",
+      "link": "https://thehighstreetjournal.com/microsofts-uk-ai-data-centre-exit-highlights-power-risks-for-big-tech-investments/",
+      "source": "The High Street Journal",
+      "published": "2026-10-20T21:26:02.000Z",
+      "summary": "Microsoft’s withdrawal from a £2 billion UK AI data centre project highlights how electricity constraints can delay technology investments, offering Ghana lessons on power reliability and…"
+    },
+    {
+      "title": "Trade Minister engages cement and battery firms to boost local manufacturing and jobs",
+      "link": "https://www.myjoyonline.com/trade-minister-engages-cement-and-battery-firms-to-boost-local-manufacturing-and-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T21:08:13.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has engaged three companies in the cement, battery and renewable energy sectors on measures to strengthen local…"
+    },
     {
       "title": "DTI calls for stronger investment in human capital to accelerate Ghana’s industrialisation",
       "link": "https://www.myjoyonline.com/dti-calls-for-stronger-investment-in-human-capital-to-accelerate-ghanas-industrialisation/",
@@ -1081,23 +1095,181 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-17T12:00:58.000Z",
       "summary": "Ghana's stabilizing economy builds investor trust, but winning back relocated factories requires 18–24 months of sustained macroeconomic consistency and competitive industrial incentives."
-    },
-    {
-      "title": "Africa’s Resource Management Gap Puts Research Skills And Technology In Focus",
-      "link": "https://thehighstreetjournal.com/africas-resource-management-gap-puts-research-skills-and-technology-in-focus/",
-      "source": "The High Street Journal",
-      "published": "2026-10-17T11:00:33.000Z",
-      "summary": "Ghana’s natural resource productivity depends on stronger research capacity and commercially viable technology, with African scientists trained in digital tools and exposed to solar-powered…"
-    },
-    {
-      "title": "Telecom Chamber educates communities on MoMo fraud",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-telecom-chamber-educates-communities-on-momo-fraud.html",
-      "source": "Graphic Online",
-      "published": "2026-10-17T10:50:37.000Z",
-      "summary": ""
     }
   ],
   "world": [
+    {
+      "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+      "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T22:51:35.000Z",
+      "summary": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh."
+    },
+    {
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-20T21:27:39.000Z",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+      "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T22:20:13.000Z",
+      "summary": "The US president's remarks come amid a deepening feud with Ukraine's President Volodymyr Zelenskyy."
+    },
+    {
+      "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
+      "source": "France 24",
+      "published": "2026-10-20T21:18:48.000Z",
+      "summary": "Egypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an…",
+      "image": "https://s.france24.com/media/display/79e2bede-ccc8-11f1-93ab-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261020-223120-224311-CS.jpg"
+    },
+    {
+      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T21:27:38.000Z",
+      "summary": "The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls."
+    },
+    {
+      "title": "PSG end Barcelona's winning run as Liverpool fight back against Villarreal",
+      "link": "https://www.france24.com/en/sport/20261020-psg-end-barcelona-winning-run-as-liverpool-fight-back-against-villarreal",
+      "source": "France 24",
+      "published": "2026-10-20T21:17:50.000Z",
+      "summary": "Paris Saint-Germain came from behind to beat Barcelona 4-2 in a Champions League thriller on Tuesday, handing the Catalans their first defeat of the season. Liverpool staged a dramatic…",
+      "image": "https://s.france24.com/media/display/a729d7c0-ccc7-11f1-bd29-d1d2c32ebb87/w:1024/p:16x9/2026-10-20T203956Z-1465285986-UP1EMAK1LEJIG-RTRMADP-3-SOCCER-CHAMPIONS-PSG-BAR.jpg"
+    },
+    {
+      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T21:24:06.000Z",
+      "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running."
+    },
+    {
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-20T21:05:50.000Z",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T21:19:12.000Z",
+      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports."
+    },
+    {
+      "title": "Lula's campaign seeks to disqualify Bolsonoro from Brazil presidential vote over Meta 'interference'",
+      "link": "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference",
+      "source": "France 24",
+      "published": "2026-10-20T20:59:51.000Z",
+      "summary": "President Luiz Inácio Lula da Silva’s campaign is preparing to request the annulment of right-wing rival Flavio Bolsonaro's candidacy over alleged social media interference from US tech…",
+      "image": "https://s.france24.com/media/display/3edd3e22-ccc3-11f1-9db3-d1d2c32ebb87/w:1024/p:16x9/AP26292009753736.jpg"
+    },
+    {
+      "title": "Why do the US midterms matter for Trump and Congress?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T21:00:42.000Z",
+      "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office."
+    },
+    {
+      "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
+      "link": "https://www.france24.com/en/egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
+      "source": "France 24",
+      "published": "2026-10-20T20:57:29.000Z",
+      "summary": "Egypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an…",
+      "image": "https://s.france24.com/media/display/79e2bede-ccc8-11f1-93ab-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261020-223120-224311-CS.jpg"
+    },
+    {
+      "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T20:49:00.000Z",
+      "summary": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform."
+    },
+    {
+      "title": "US regulators certify Boeing 737 Max 10 after years of delay",
+      "link": "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay",
+      "source": "France 24",
+      "published": "2026-10-20T20:46:03.000Z",
+      "summary": "The US Federal Aviation Administration has given final approval for the 737-10, the largest model in Boeing's best-selling Max family. The certification comes more than five years after the…",
+      "image": "https://s.france24.com/media/display/1283b000-ccc7-11f1-a1c1-d1d2c32ebb87/w:1024/p:16x9/VIDI42JJ2WD-EN-STOCKSHOTS-Boeing-planes.png"
+    },
+    {
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T20:32:29.000Z",
+      "summary": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home."
+    },
+    {
+      "title": "‘I’m alive’: Paris street medic isn’t dead, despite viral claims he was killed by police",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police",
+      "source": "France 24",
+      "published": "2026-10-20T20:43:22.000Z",
+      "summary": "A video showing French riot police violently beating a 26-year-old street medic in Paris has gone viral, with social media users falsely claiming he died from his injuries. But the street…",
+      "image": "https://s.france24.com/media/display/7a29c07a-ccc5-11f1-9d16-4dd8ac2cf3bf/w:1024/p:16x9/icon.png"
+    },
+    {
+      "title": "Current U.S. support for Ukraine looks very different than it did",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+      "source": "NPR World",
+      "published": "2026-10-20T20:27:23.000Z",
+      "summary": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations."
+    },
+    {
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T20:23:52.000Z",
+      "summary": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change."
+    },
+    {
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "source": "NPR World",
+      "published": "2026-10-20T20:19:16.000Z",
+      "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F08%2F95973b6c4216b275907f27dea332%2Fap26289768195932.jpg"
+    },
+    {
+      "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T20:17:53.000Z",
+      "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year's war."
+    },
+    {
+      "title": "Trump campaigning in Republican strongholds amid slide in polls",
+      "link": "https://www.france24.com/en/trump-campaigning-in-republican-strongholds-amid-slide-in-polls",
+      "source": "France 24",
+      "published": "2026-10-20T20:13:03.000Z",
+      "summary": "With the midterm elections fast approaching, US President Donald Trump is stumping for candidates in states that he won by double digits in 2024. Despite what he says, it’s a sign of what…",
+      "image": "https://s.france24.com/media/display/f637b458-c269-11f1-a77a-f50f6d982dc3/w:1024/p:16x9/AP26277064284536.jpg"
+    },
+    {
+      "title": "France riots leave thousands of businesses damaged",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T20:16:01.000Z",
+      "summary": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses"
+    },
+    {
+      "title": "Italy sends troops, toughens security laws after Milan clashes",
+      "link": "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes",
+      "source": "France 24",
+      "published": "2026-10-20T20:09:52.000Z",
+      "summary": "Italy on Tuesday approved the deployment of 500 troops to Milan after violent clashes as fuel price protests hit pasta production and food deliveries in southern Italy. A cabinet meeting on…",
+      "image": "https://s.france24.com/media/display/2dc62256-cc88-11f1-ad46-4dd8ac2cf3bf/w:1024/p:16x9/000-D3L672D.jpg"
+    },
     {
       "title": "EU revises Arctic strategy as pressure from Russia, US grows",
       "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
@@ -1106,19 +1278,12 @@ window.GDC_NEWS = {
       "summary": "The new strategy shifts the bloc's focus from long-term climate concerns to urgent security measures."
     },
     {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-20T20:01:04.000Z",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg"
-    },
-    {
-      "title": "Is money ruining US elections?",
-      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T19:59:46.000Z",
-      "summary": "Who pays for US elections and what do they get? Josh Rushing asks Lawrence Lessig and Bradley Smith."
+      "title": "French PM vows 'massive' police deployment for new demonstrations",
+      "link": "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations",
+      "source": "France 24",
+      "published": "2026-10-20T20:05:44.000Z",
+      "summary": "French Prime Minister Sebastien Lecornu on Tuesday vowed a \"massive\" police presence at fresh protests called for the coming weekend, as he faced criticism over the handling of recent…",
+      "image": "https://s.france24.com/media/display/91bb254e-cc7a-11f1-a766-2d1c143cdef3/w:1024/p:16x9/2026-10-20T060008Z-980083559-RC2R5OADDPJ2-RTRMADP-3-EUROPE-POLITICS.jpg"
     },
     {
       "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
@@ -1129,11 +1294,19 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
-      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
+      "title": "'Netanyahu is fighting for his political career', expert says a week ahead of crucial vote",
+      "link": "https://www.france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote",
+      "source": "France 24",
+      "published": "2026-10-20T20:03:50.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu basked in Donald Trump's endorsement on Monday ahead of close-fought elections, airing a phone call in which the US president predicted he would…",
+      "image": "https://s.france24.com/media/display/858d62aa-c18a-11f1-8b18-0f96b136895a/w:1024/p:16x9/000-C4VA8T6.jpg"
+    },
+    {
+      "title": "Is money ruining US elections?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-20T19:55:37.000Z",
-      "summary": "Champions League football game takes place amid backdrop of unrest over education issues and the cost of living."
+      "published": "2026-10-20T19:59:46.000Z",
+      "summary": "Who pays for US elections and what do they get? Josh Rushing asks Lawrence Lessig and Bradley Smith."
     },
     {
       "title": "Trump sued over Canadian tariffs in latest legal challenge",
@@ -1144,11 +1317,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
+      "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
+      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-20T19:51:09.000Z",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu says he discussed the need to topple Iran’s regime with US President Trump."
+      "published": "2026-10-20T19:55:37.000Z",
+      "summary": "Champions League football game takes place amid backdrop of unrest over education issues and the cost of living."
     },
     {
       "title": "Nigeria records its first Ebola case, in capital Abuja",
@@ -1158,11 +1331,11 @@ window.GDC_NEWS = {
       "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently…"
     },
     {
-      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
-      "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-20T19:29:39.000Z",
-      "summary": "Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition."
+      "published": "2026-10-20T19:51:09.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says he discussed the need to topple Iran’s regime with US President Trump."
     },
     {
       "title": "Zelensky meets Witkoff as US-Ukraine relations sink to new lows",
@@ -1171,6 +1344,13 @@ window.GDC_NEWS = {
       "published": "2026-10-20T19:06:57.000Z",
       "summary": "Ukrainian President Volodymyr Zelensky was meeting US special envoy Steve Witkoff on Tuesday in a ​bid to rescue relations that have sunk to new lows as President Donald Trump has courted…",
       "image": "https://s.france24.com/media/display/c33fd7da-ccb7-11f1-ae24-6313a763b466/w:1024/p:16x9/EN-20261020-204050-204809-CS.jpg"
+    },
+    {
+      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
+      "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T19:29:39.000Z",
+      "summary": "Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition."
     },
     {
       "title": "Nigeria records first Ebola case of Africa's latest outbreak",
@@ -1215,186 +1395,16 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-20T18:53:51.000Z",
       "summary": "Only 1.4 percent of all new wealth created between 2019 and 2025 went to the poorest 50 percent, report finds."
-    },
-    {
-      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
-      "link": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-20T18:19:00.000Z",
-      "summary": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not…"
-    },
-    {
-      "title": "Can a humanitarian crisis in Gaza be averted?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T18:45:23.000Z",
-      "summary": "The World Food Programme says it is forced to cut aid for thousands in the enclave."
-    },
-    {
-      "title": "Sudan drone strike kills around 150 in Abyei market",
-      "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-20T18:09:00.000Z",
-      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials…"
-    },
-    {
-      "title": "Lula challenges Bolsonaro to release personal records before election",
-      "link": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T18:43:41.000Z",
-      "summary": "Brazil's left-wing president says he will release bank, tax, and phone records if right-wing rival will do the same."
-    },
-    {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-20T17:30:15.000Z",
-      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "title": "CDC reports third measles death in the United States this year",
-      "link": "https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T17:58:09.000Z",
-      "summary": "The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide."
-    },
-    {
-      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
-      "link": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-20T17:10:00.000Z",
-      "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems…"
-    },
-    {
-      "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
-      "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T17:31:26.000Z",
-      "summary": "Nigeria's Health Ministry says a woman who arrived on a flight from Uganda tested positive."
-    },
-    {
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-20T16:59:06.000Z",
-      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg"
-    },
-    {
-      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
-      "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T17:22:05.000Z",
-      "summary": "President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns."
-    },
-    {
-      "title": "How French police are harnessing social media to identify looters",
-      "link": "https://www.france24.com/en/france/20261020-how-french-police-are-harnessing-social-media-to-identify-looters",
-      "source": "France 24",
-      "published": "2026-10-20T16:50:49.000Z",
-      "summary": "French police are turning to social media to identify and arrest suspects linked to last weekend’s looting and unrest. Investigators are scrutinising videos posted online alongside footage…",
-      "image": "https://s.france24.com/media/display/33d21e38-cca2-11f1-b8ea-4dd8ac2cf3bf/w:1024/p:16x9/AP26290607552722.jpg"
-    },
-    {
-      "title": "How does language affect how we think?",
-      "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T17:09:48.000Z",
-      "summary": "Does language shape the way we think?"
-    },
-    {
-      "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
-      "link": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
-      "source": "France 24",
-      "published": "2026-10-20T16:24:47.000Z",
-      "summary": "At least 153 people have been killed in a drone strike on a market in the disputed Abyei region, where a fire at a nearby fuel depot continued to burn on Tuesday. Local officials blamed…",
-      "image": "https://s.france24.com/media/display/06f56856-cc9e-11f1-acba-638c1c1f5fd6/w:1024/p:16x9/AP071212050372.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: half a million Palestinians lose food aid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T16:59:55.000Z",
-      "summary": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people"
-    },
-    {
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-20T16:11:56.000Z",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f072/live/051b0900-cc94-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T16:51:02.000Z",
-      "summary": "Israeli National Security Minister Itamar Ben-Gvir has posted an AI-generated video mocking the devastation in Gaza."
-    },
-    {
-      "title": "France: Local curfews imposed after protests",
-      "link": "https://www.france24.com/en/video/20261020-france-local-curfews-imposed-after-protests",
-      "source": "France 24",
-      "published": "2026-10-20T16:09:44.000Z",
-      "summary": "French cities that imposed a curfew Monday saw a generally calm night, after October 17 protests devolved into violent riots this past weekend. Despite criticism from citizens, France's…",
-      "image": "https://s.france24.com/media/display/39de51f0-cc9f-11f1-bc4d-4dd8ac2cf3bf/w:1024/p:16x9/title-3-1.jpeg"
-    },
-    {
-      "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-      "link": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T16:34:20.000Z",
-      "summary": "Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence."
-    },
-    {
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-20T16:06:39.000Z",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-      "link": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T16:33:43.000Z",
-      "summary": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption."
-    },
-    {
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-20T15:58:57.000Z",
-      "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/040a/live/55e91860-cc9c-11f1-94e6-edd4c60b2e1d.jpg"
-    },
-    {
-      "title": "Is Cyprus becoming Israel’s backyard?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T16:23:12.000Z",
-      "summary": "Israeli capital, water technology, and real estate are making Cyprus a strategic and economic extension of Israel."
-    },
-    {
-      "title": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
-      "link": "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1",
-      "source": "France 24",
-      "published": "2026-10-20T15:52:47.000Z",
-      "summary": "Genie Godula is pleased to welcome François Gouyette, former French ambassador to the UAE and Saudi Arabia. Against a backdrop of violent unrest at home and escalating conflict in the…",
-      "image": "https://s.france24.com/media/display/4d3474bc-cc97-11f1-b7a6-638c1c1f5fd6/w:1024/p:16x9/EN-20261020-140836-141726-CS.jpg"
-    },
-    {
-      "title": "Qatar says only negotiations can resolve regional tensions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T16:21:01.000Z",
-      "summary": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz."
     }
   ],
   "africa": [
+    {
+      "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+      "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T22:51:35.000Z",
+      "summary": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh."
+    },
     {
       "title": "Nigeria: Nigeria Confirms Ebola Case in Abuja, Begins Contact Tracing",
       "link": "https://allafrica.com/stories/202610200709.html",
@@ -1403,11 +1413,26 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] Contact tracing has commenced, with 44 close contacts identified so far."
     },
     {
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T20:32:29.000Z",
+      "summary": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home."
+    },
+    {
       "title": "Africa: Every Country Has a Balance Sheet - Development Cooperation Should Start There",
       "link": "https://allafrica.com/stories/202610200696.html",
       "source": "AllAfrica Business",
       "published": "2026-10-20T19:27:44.000Z",
       "summary": "[RootsToFoods Capital Series] In a RootsToFoods Capital Series interview, Alexia Latortue, Head of Secretariat of the Future of Development Cooperation Coalition and former U.S. Treasury…"
+    },
+    {
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-20T19:11:15.000Z",
+      "summary": "A female patient is in isolation and receiving medical care after being admitted to a hospital in Abuja.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824e/live/469c47b0-ccb5-11f1-9510-b3feea5bd9b1.jpg"
     },
     {
       "title": "Nigeria records its first Ebola case, in capital Abuja",
@@ -1656,27 +1681,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-20T13:16:14.000Z",
       "summary": "Egypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an…"
-    },
-    {
-      "title": "Ethiopia: PM Abiy Says Eritrean People Have Lost Former Assets Since Secession",
-      "link": "https://allafrica.com/stories/202610200507.html",
-      "source": "AllAfrica",
-      "published": "2026-10-20T12:26:00.000Z",
-      "summary": "[ENA] Addis Ababa -- Prime Minister Abiy Ahmed said Eritrean people have lost much of its industrial capacity and urban vitality since secession, urging good neighborliness and development…"
-    },
-    {
-      "title": "African Americans return to Ghana to honour ancestors lost to slavery",
-      "link": "http://www.africanews.com/2026/10/20/african-americans-return-to-ghana-to-honour-ancestors-lost-to-slavery/",
-      "source": "Africanews",
-      "published": "2026-10-20T13:03:58.000Z",
-      "summary": "At the Nkyinkyim Museum in Nuhalenya, near Ada, African Americans and other members of the diaspora have gathered for a three-day ancestral veneration ceremony honouring those whose names…"
-    },
-    {
-      "title": "Eritrea: Eritrea's Migration Economy - Can the Nation Survive Without Forced Remittance?",
-      "link": "https://allafrica.com/stories/202610200508.html",
-      "source": "AllAfrica",
-      "published": "2026-10-20T12:26:00.000Z",
-      "summary": "[ENA] October 20, 2026 (ENA)"
     }
   ]
 };
