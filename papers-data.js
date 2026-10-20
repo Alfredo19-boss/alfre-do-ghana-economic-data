@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-20T06:39:16.772Z",
+  "updated": "2026-10-20T12:10:15.898Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,108 +25,246 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "ghana news Mining company seeks govt’s intervention over destruction of assets - Due to pending court order",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-mining-company-seeks-govts-intervention-over-destruction-of-assets-due-to-pending-court-order.html",
+      "title": "Ghana Publishing Company warns fake gazette publishers of arrest, prosecution",
+      "link": "https://www.myjoyonline.com/ghana-publishing-company-warns-fake-gazette-publishers-of-arrest-prosecution/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T12:00:29.000Z",
+      "summary": "The Ghana Publishing Company Limited (GPC) has warned individuals producing fake versions of Ghana’s laws and manipulating gazetted documents that they risk arrest and prosecution. The…",
+      "categories": [
+        "National",
+        "Arrest",
+        "Gazette",
+        "Ghana Publishing Company",
+        "prosecution"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-13.03.53.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vision FC: Coach Jaredic resigns after one win in eight",
+      "link": "https://www.myjoyonline.com/vision-fc-coach-jaredic-resigns-after-one-win-in-eight/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T11:54:13.000Z",
+      "summary": "Montenegrin coach Predrag Jaredic has resigned from his position as head coach of Vision F.C, the club has announced. A club statement on Tuesday morning said “Vision Football Club confirms…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Ghana",
+        "Ghana Premier League",
+        "Predrag Jaredic",
+        "Vision FC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HUGehEeX0AAJ5Cc-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GoldBod reforms create 4,866 direct jobs in less than two years – Sammy Gyamfi",
+      "link": "https://www.myjoyonline.com/goldbod-reforms-create-4866-direct-jobs-in-less-than-two-years-sammy-gyamfi/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T11:52:16.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) says its institutional, licensing and value addition reforms have created 4,866 direct jobs in less than two years, as Ghana seeks to expand local…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Goldbod",
+        "Mining in Motion",
+        "Sammy Gyamfi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/SAMMY-GYAMFI-3-1024x810.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CCC to honour teachers as part of its October Commission, offers free medical screening to hundreds",
+      "link": "https://www.myjoyonline.com/ccc-to-honour-teachers-as-part-of-its-october-commission-offers-free-medical-screening-to-hundreds/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T11:51:27.000Z",
+      "summary": "The Calvary Charismatic Centre (CCC) has announced plans to honour teachers in the Ashanti region for their immense and selfless contribution to education and national development.",
+      "categories": [
+        "National",
+        "CCC",
+        "Medical screening",
+        "Teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2003-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nii the Menace completes 240km run from Accra to Kumasi to promote breast cancer awareness",
+      "link": "https://www.myjoyonline.com/nii-the-menace-completes-240km-run-from-accra-to-kumasi-to-promote-breast-cancer-awareness/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T11:50:39.000Z",
+      "summary": "For seven days, Caleb Nii Okai pushed through pain, exhaustion and challenging weather to complete a 240-kilometre run from Accra to Kumasi, carrying a message about breast cancer awareness…",
+      "categories": [
+        "Events",
+        "Health",
+        "National",
+        "Accra",
+        "Breast cancer",
+        "Kumasi",
+        "Nii the menace"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-12.10.54.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Christian Council urges gov’t to deploy more military, police to fight galamsey",
+      "link": "https://www.myjoyonline.com/christian-council-urges-govt-to-deploy-more-military-police-to-fight-galamsey/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T11:50:25.000Z",
+      "summary": "The Christian Council of Ghana (CCG) has called on the government to strengthen enforcement of laws against illegal mining, known as galamsey, and deploy more security personnel and…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "Christian Council",
+        "Galamsey",
+        "Military",
+        "Police"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/galamsey-636x424-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GoldBod targets zero raw gold exports by 2030 as local refining expands",
+      "link": "https://www.myjoyonline.com/goldbod-targets-zero-raw-mineral-exports-by-2030-as-local-gold-refining-expands/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T11:48:56.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) is working towards ending Ghana’s export of raw minerals by 2030, as part of efforts to retain more value from the country’s gold resources through local…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "News",
+        "Goldbod",
+        "Raw minerals",
+        "Sammy Gyamfi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/1281c732-0995-4350-9d6d-c68be4b23a63-683x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GoldBod exports 85.4 tonnes of small-scale gold worth $11.6bn in 2026 – Sammy Gyamfi",
+      "link": "https://www.myjoyonline.com/goldbod-exports-85-4-tonnes-of-small-scale-gold-worth-11-6bn-in-2026-sammy-gyamfi/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T11:48:19.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) has aggregated and exported 85.4 tonnes of artisanal and small-scale mining (ASM) gold valued at US$11.6 billion between January 1 and October 20, 2026, Chief…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "Goldbod",
+        "Sammy Gyamfi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-2329.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Gaël Monfils separation",
+      "link": "https://www.graphic.com.gh/sports/sports-news/tennis-star-svitolina-says-emotional-toll-of-ukraine-war-led-to-gael-monfils-separation.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-20T11:44:08.000Z",
+      "summary": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and \"what the war has done to me inside\". \"This is the most…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/monfils.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Normeshie picks forms to contest NDC NEC position",
+      "link": "https://www.graphic.com.gh/news/politics/normeshie-picks-forms-to-contest-ndc-nec-position.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T06:36:31.000Z",
+      "published": "2026-10-20T11:33:06.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Human Resource experts call for inclusive leadership and youth empowerment",
+      "link": "https://www.graphic.com.gh/news/general-news/human-resource-experts-call-for-inclusive-leadership-and-youth-empowerment.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T11:31:37.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/Doris.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/hr3.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "World Cup visa scandal: $26,000 paid to police on behalf of Ampofo Ankrah",
-      "link": "https://www.myjoyonline.com/world-cup-visa-scandal-26000-paid-to-police-on-behalf-of-ampofo-ankrah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T06:33:15.000Z",
-      "summary": "A total of $26,000 has reportedly been paid to the police on behalf of suspended National Sports Authority (NSA) Director-General Yaw Ampofo Ankrah, part of the $56,000 he is alleged to…",
+      "title": "Sekondi fishing canoe with seven crew members missing for 11 days; Marine Police leading search",
+      "link": "https://www.graphic.com.gh/news/general-news/police-coordinate-search-for-missing-fishing-canoe-seven-crew-members.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T10:31:33.000Z",
+      "summary": "",
       "categories": [
-        "News"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Yaw-Ampofo-Ankrah-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2018/may/27/canoe_siphoning.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Daily Insight for CEOs: Starting the 2027 Strategic Planning Process",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-starting-the-2027-strategic-planning-process/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T06:16:34.000Z",
-      "summary": "Strategic planning for 2027 should begin before the current year closes. CEOs who wait until December risk making important decisions under time pressure, relying on incomplete analysis, or…",
+      "title": "Ghana weather: Sunny intervals and thunderstorms expected today",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-weather-sunny-intervals-and-thunderstorms-expected-today.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T09:19:29.000Z",
+      "summary": "",
       "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "Daily Insight",
-        "Ernest De-Graft Egyir",
-        "Strategic planning"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Planning_Quarter.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/weather26.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "IEAG demands probe into reported MSC office assault, warns of rising tensions at Tema Port",
-      "link": "https://www.myjoyonline.com/ieag-demands-probe-into-reported-msc-office-assault-warns-of-rising-tensions-at-tema-port/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T06:05:14.000Z",
-      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called for an impartial investigation into a reported assault incident at the Mediterranean Shipping Company (MSC) office at the…",
+      "title": "Ghana High Commission takes responsibility for clerical errors in South Africa evacuation data",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-high-commission-takes-responsibility-for-clerical-errors-in-south-africa-evacuation-data.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T08:45:55.000Z",
+      "summary": "",
       "categories": [
-        "HP News 5",
-        "National",
-        "IEAG",
-        "MSC",
-        "Tema Port"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Tema-Port1.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2023/oct/23/saladdy.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "IEAG urges Finance Minister to convene emergency meeting over Tema Port crisis",
-      "link": "https://www.myjoyonline.com/ieag-urges-finance-minister-to-convene-emergency-meeting-over-tema-port-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T06:04:55.000Z",
-      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called on the Minister for Finance to convene an emergency stakeholder meeting to address persistent shipping-line delays…",
+      "title": "Experts call for safeguards against prolonged exposure to heat, light",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-experts-call-for-safeguards-against-prolonged-exposure-to-heat-light.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T07:49:16.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Ato Forson",
-        "Finance Minister",
-        "IEAG",
-        "Tema Port"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/images-3-2.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/Speakers.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Kwakye Ofosu takes on Bawumia; accuses him of a U-turn on exchange rate stability",
-      "link": "https://www.myjoyonline.com/kwakye-ofosu-takes-on-bawumia-accuses-him-of-a-u-turn-on-exchange-rate-stability/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T06:03:00.000Z",
-      "summary": "The Minister for Government Communications, Felix Kwakye Ofosu, has accused former Vice President Dr Mahamudu Bawumia of changing his position on the importance of exchange rate stability…",
+      "title": "Minister calls for more collaboration between journalists, researchers",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minister-calls-for-more-collaboration-between-journalists-researchers.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T07:46:31.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Bawumia",
-        "Exchange rate",
-        "Kwakye Ofosu",
-        "Stability"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Felix-Kwakye-Ofosu-1024x855.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/Zanetor.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Is Afenyo-Markin’s GH¢15 million suit a face-saving writ?",
-      "link": "https://www.myjoyonline.com/is-afenyo-markins-gh%c2%a215-million-suit-a-face-saving-writ/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T06:02:04.000Z",
-      "summary": "If Afenyo-Markin does not go back to court, properly, and make the process public, Ghanaians will believe Sammy Gyamfi. That is not law. That is how public trust works. You cannot file a…",
+      "title": "Dagbon will receive fair share of devt — President",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dagbon-will-receive-fair-share-of-devt-president.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T07:43:39.000Z",
+      "summary": "",
       "categories": [
-        "News",
-        "Afenyo-Markin",
-        "GH¢15 million",
-        "Sammy Gyamfi"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Afenyo_Gyamfi-1024x798.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/President.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "High Court puts trial of former Buffer Stock CEO on hold",
@@ -154,21 +292,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Mahama urges African countries to strengthen mineral deals to retain more resource wealth",
-      "link": "https://www.myjoyonline.com/mahama-urges-african-countries-to-strengthen-mineral-deals-to-retain-more-resource-wealth/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T05:57:00.000Z",
-      "summary": "President John Dramani Mahama has urged African countries to strengthen their negotiating capacity in the mining sector to ensure the continent derives greater economic benefits from its…",
-      "categories": [
-        "National",
-        "Africa",
-        "Gold",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-1-1024x580.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "$2m Skytrain trial: former CEO to call first witness",
       "link": "https://ghanaiantimes.com.gh/2m-skytrain-trial-former-ceo-to-call-first-witness/",
       "source": "Ghanaian Times",
@@ -182,22 +305,7 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Mahama Ayariga calls for stronger local governance to ensure mining benefits communities",
-      "link": "https://www.myjoyonline.com/mahama-ayariga-calls-for-stronger-local-governance-to-ensure-mining-benefits-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T05:52:00.000Z",
-      "summary": "The Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has called for stronger local governance, community participation and accountability in the mining…",
-      "categories": [
-        "National",
-        "Ayariga",
-        "Mahama",
-        "Mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/857675417_1697405131948500_5251666426531919872_n-e1792473305149-1024x728.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian trio impress in Tottenham’s comeback win over Coventry",
+      "title": "Ghanaian trio impress in Tottenham’s win over Coventry",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghanaian-trio-impress-in-tottenhams-comeback-win-over-coventry.html",
       "source": "Graphic Sports",
       "published": "2026-10-19T23:37:17.000Z",
@@ -243,66 +351,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_SATELLITES.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana Maritime Authority pushes for integrated digital systems at ports",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-maritime-authority-pushes-for-integrated-digital-systems-at-ports.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T16:41:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Abuakwa North MP sponsors medical programmes for 3 Bright SHS students with 8As",
-      "link": "https://www.graphic.com.gh/news/general-news/abuakwa-north-mp-sponsors-medical-programmes-for-3-bright-shs-students-with-8as-and-nsmq-semi-final-feat.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T16:07:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Korle Bu management tells Public Accounts Committee that conditions at mortuary have improved",
-      "link": "https://www.graphic.com.gh/news/general-news/korle-bu-management-tells-parliaments-public-account-committee-that-conditions-at-main-mortuary-have-improved.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T15:32:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/feb/05/mortuary.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "TCDA advocates inclusive digital finance to transform Ghana’s oil palm sector",
-      "link": "https://www.graphic.com.gh/news/general-news/tcda-advocates-inclusive-digital-finance-to-transform-ghanas-oil-palm-sector.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T15:29:38.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/OKRAH2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Targeted interventions helping to reduce maternal deaths by 30 per cent at KATH - Deputy Health Minister",
-      "link": "https://www.graphic.com.gh/news/health/445-maternal-deaths-recorded-in-ghana-as-health-ministry-seeks-nhis-cover-for-emergency-care.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T15:13:00.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/july/26/grace1.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Vice President Jane Naana Opoku-Agyemang taps China’s Poverty Success Model in Shanghai",
@@ -370,30 +418,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NPP says $750,000 per each charter flight for South Africa evacuation is way above industry rate",
-      "link": "https://www.graphic.com.gh/news/politics/npp-says-750-000-charter-flight-for-south-africa-evacuation-is-way-above-industry-rate.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T14:37:50.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/et.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GH¢400million to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 budget - President Mahama",
-      "link": "https://www.graphic.com.gh/news/general-news/ghc400million-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-in-2027-budget-president-mahama.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T14:35:38.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/mahama11222333.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Sports Editorial: Ghana must stop starving its medal-winning sports",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghana-must-stop-starving-its-medal-winning-sports.html",
       "source": "Graphic Sports",
@@ -427,18 +451,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_CHALLENGE.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Semenyo could miss eight weeks of Man City action through injury",
-      "link": "https://www.graphic.com.gh/sports/sports-news/semenyo-could-miss-eight-weeks-of-man-city-action-through-injury.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T12:48:16.000Z",
-      "summary": "Semenyo sustained the problem in Saturday's Premier League victory over Ipswich. Maresca said the club had feared the injury could have been even worse. The City boss said: \"After the scan…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/semenyo.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
