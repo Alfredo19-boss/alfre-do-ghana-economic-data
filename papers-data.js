@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-19T23:03:58.732Z",
+  "updated": "2026-10-20T01:43:18.621Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,152 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Billionaires fund Nigerian artists – Sarkodie",
+      "link": "https://www.myjoyonline.com/billionaires-fund-nigerian-artists-sarkodie/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T00:15:00.000Z",
+      "summary": "Rapper Sarkodie has stated that Nigerian artists receive substantial financial support from billionaires and business executives in the country, unlike their Ghanaian counterparts.",
+      "categories": [
+        "Music",
+        "Sarkodie"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/01/Sarkodie-1024x512.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS sexual abuse: Big insult to victims and Ghanaians if headmaster claims GES exonerated him",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-big-insult-to-victims-and-ghanaians-if-headmaster-claims-ges-exonerated-him/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T00:02:00.000Z",
+      "summary": "Investigative journalist Manasseh Azure Awuni has challenged reports that the Ashanti Regional office of the Ghana Education Service (GES) has exonerated the headmaster of Obuasi Senior…",
+      "categories": [
+        "National",
+        "News",
+        "Abuse",
+        "Sexual abuse",
+        "SHTS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-752-e1785587166679.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SA High Commission admits errors in evacuation records, says future birth dates were passport expiry dates",
+      "link": "https://www.myjoyonline.com/sa-high-commission-admits-errors-in-evacuation-records-says-future-birth-dates-were-passport-expiry-dates/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T23:58:00.000Z",
+      "summary": "Ghana’s High Commission in South Africa has accepted responsibility for errors in the records of 15 evacuees.",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Repatration",
+        "SA High Commission",
+        "Xenophobic attacks"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Screenshot-2026-05-25-at-6.08.18-am.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obama blasts federal probe of Congresswoman Ilhan Omar as ‘so appalling’",
+      "link": "https://www.myjoyonline.com/obama-blasts-federal-probe-of-congresswoman-ilhan-omar-as-so-appalling/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T23:43:00.000Z",
+      "summary": "Barack Obama has said Congresswoman Ilhan Omar is under federal criminal investigation simply because she's an outspoken critic of President Donald Trump.",
+      "categories": [
+        "International",
+        "Congresswoman",
+        "Ilhan Omar"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1962-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We have stabilised the present; we must now secure the future’ — Ato Forson",
+      "link": "https://www.myjoyonline.com/we-have-stabilised-the-present-we-must-now-secure-the-future-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T23:38:16.000Z",
+      "summary": "Speaking during his New Economy engagement with faculty and students at the University of Ghana, Dr Forson said Ghana had reached a moment when public policy must confront the underlying…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Dr. Ato Forson",
+        "Ministry of Finance",
+        "new economy",
+        "University of Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-7.11.21-am.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian trio impress in Tottenham’s comeback win over Coventry",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghanaian-trio-impress-in-tottenhams-comeback-win-over-coventry.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-19T23:37:17.000Z",
+      "summary": "Mohammed Kudus featured on the wings for Tottenham, while Brandon Thomas-Asante and Caleb Yirenkyi represented Coventry City in an encounter that offered Ghanaian football fans an…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/kudus.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Apu returns to The Simpsons with new voice after race row",
+      "link": "https://www.myjoyonline.com/apu-returns-to-the-simpsons-with-new-voice-after-race-row/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T23:32:32.000Z",
+      "summary": "The Simpsons character Apu has returned to the show, voiced by a new actor, after almost a decade away amid accusations of racial stereotypes.",
+      "categories": [
+        "International",
+        "Movies",
+        "Apu",
+        "The Simpsons"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1961-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS: NDC says it will remove embattled aspirant if found guilty even after election victory",
+      "link": "https://www.myjoyonline.com/obuasi-shts-ndc-says-it-will-remove-embattled-aspirant-if-found-guilty-even-after-election-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T23:23:56.000Z",
+      "summary": "The National Democratic Congress (NDC) says it will remove its embattled constituency chairmanship aspirant if he is found guilty of sexual abuse, even if he wins the election.",
+      "categories": [
+        "Politics",
+        "NDC",
+        "Obuasi SHTS abuse",
+        "Zakaria Abdulai"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/sexual-abuse-in-schools-obuasi-s.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama visits Kufuor to discuss national, global affairs",
+      "link": "https://www.myjoyonline.com/mahama-visits-kufuor-to-discuss-national-global-affairs/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-19T23:20:41.000Z",
+      "summary": "President John Dramani Mahama has visited former President John Agyekum Kufuor at his residence to enquire about his well-being and exchange views on issues affecting Ghana and the…",
+      "categories": [
+        "National",
+        "News",
+        "Kufuor",
+        "Mahama",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/857766636_1011519581956244_7511513006380654906_n-2048x1462-1-1024x731.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ronaldo-given-30-day-suspension-and-gbp215-fine-by-portuguese-fa.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-19T23:10:55.000Z",
+      "summary": "The 41-year-old captain walked out of Portugal's Nations League squad in September after being an unused substitute against Norway and then finding out he would not start against Denmark on…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/19/ronaldo.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
       "title": "Big blow as injury rules Semenyo out of Ghana’s next AFCON qualifiers",
       "link": "https://www.graphic.com.gh/sports/sports-news/big-blow-as-injury-rules-semenyo-out-of-ghanas-next-afcon-qualifiers.html",
       "source": "Graphic Sports",
@@ -35,131 +181,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Sinapi Aba golfers excel at 8th AGA Otumfour Invitational",
-      "link": "https://www.myjoyonline.com/sinapi-aba-golfers-excel-at-8th-aga-otumfour-invitational/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T22:54:57.000Z",
-      "summary": "Sinapi Aba Savings and Loans recorded two notable results at the 8th AGA Otumfour Invitational, with Lydia Opoku Ware winning the ladies’ competition and Tony Appiah finishing runner-up in…",
-      "categories": [
-        "Events",
-        "Golf Tournament",
-        "Otumfuor invitational",
-        "Sinapi Aba"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-16.41.11-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hawa Koomson demands independent probe into alleged abuse of 19 Obuasi SHS girls",
-      "link": "https://www.myjoyonline.com/hawa-koomson-demands-independent-probe-into-alleged-abuse-of-19-obuasi-shs-girls/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T22:41:00.000Z",
-      "summary": "The National Women’s Organiser of the New Patriotic Party (NPP), Mavis Hawa Koomson, has called for a swift, independent and transparent investigation into allegations of sexual abuse…",
-      "categories": [
-        "News",
-        "CID",
-        "Obuasi SHS",
-        "Police",
-        "Probe",
-        "Sexual abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/obuasisectech-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "link": "https://www.myjoyonline.com/tennis-star-svitolina-says-emotional-toll-of-ukraine-war-led-to-monfils-separation/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T22:15:00.000Z",
-      "summary": "Ukrainian tennis star Elina Svitolina has announced the end of her marriage with French former tennis player Gaël Monfils, citing the emotional impact of the war in her country.",
-      "categories": [
-        "International",
-        "Tennis",
-        "Elina Svitolina",
-        "Gael Monfils",
-        "Ukraine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1960-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Uefa gives Infantino two-week deadline to release key documents",
-      "link": "https://www.myjoyonline.com/ronaldo-given-30-day-suspension-and-215-fine-by-portuguese-fa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T22:09:16.000Z",
-      "summary": "European governing body Uefa has told Fifa it must release key documents and answer all questions relating to its governance and decision-making by a deadline of 2 November.",
-      "categories": [
-        "Football",
-        "International",
-        "Sports",
-        "FIFA",
-        "Infantino",
-        "UEFA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-3734-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "link": "https://www.myjoyonline.com/exiled-critic-of-rwandan-president-found-beheaded/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T22:04:00.000Z",
-      "summary": "A former Rwandan army sergeant major, who became an outspoken critic of President Paul Kagame, has been found beheaded in neighbouring Uganda.",
-      "categories": [
-        "Africa",
-        "President Paul Kagame",
-        "Rwanda"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1959-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢400m to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 Budget – Mahama",
-      "link": "https://www.myjoyonline.com/gh%c2%a2400m-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-epa-and-blue-water-guards-in-2027-budget-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T22:00:36.000Z",
-      "summary": "President John Dramani Mahama has announced a plan to allocate GH¢400 million in the 2027 Budget, for land reclamation and environmental protection activities.",
-      "categories": [
-        "National",
-        "News",
-        "2027 Budget",
-        "Blue Water Guards",
-        "EPA",
-        "Galamsey"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-2-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "link": "https://www.myjoyonline.com/kenya-cult-leader-who-told-parents-to-starve-children-guilty-of-191-murders/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T21:54:00.000Z",
-      "summary": "The leader of a Kenyan doomsday cult, Paul Mackenzie, has been found guilty of murdering 191 people, all but one of them children.",
-      "categories": [
-        "Africa",
-        "Kenya",
-        "Pastor Paul Mackenzie"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1958-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "link": "https://www.myjoyonline.com/curfew-imposed-in-parts-of-central-paris-and-other-cities-after-rioting-across-france/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T21:45:00.000Z",
-      "summary": "French authorities have imposed overnight curfews in parts of central Paris and other cities after a weekend of riots and looting across the country.",
-      "categories": [
-        "International",
-        "Curfew",
-        "France",
-        "Paris"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1782-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Black Starlets face Côte d’Ivoire in WAFU Zone B semi-final",
@@ -406,30 +427,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/semenyo.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Mohammed’s Olympic dream hangs on sponsorship lifeline",
-      "link": "https://www.graphic.com.gh/sports/sports-news/mohammeds-olympic-dream-hangs-on-sponsorship-lifeline.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T10:27:05.000Z",
-      "summary": "But the opportunity remains beyond his reach unless he can raise money for travel, living expenses and part of his tuition fees. In an exclusive interview with the Graphic Sports last…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/SHABAN.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana secure qualification for 2026 Beach Soccer AFCON after thrilling win over Nigeria",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-secure-qualification-for-2026-beach-soccer-afcon-after-thrilling-win-over-nigeria.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T10:23:42.000Z",
-      "summary": "The tie against Nigeria was always billed as more than just a qualifier. Ghana vs Nigeria in Beach Soccer has developed into a fierce West African rivalry, with both nations renowned for…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/BEACH_SOCCER.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
