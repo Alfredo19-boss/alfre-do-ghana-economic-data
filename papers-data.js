@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-20T01:43:18.621Z",
+  "updated": "2026-10-20T06:39:16.772Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,79 +25,175 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Billionaires fund Nigerian artists – Sarkodie",
-      "link": "https://www.myjoyonline.com/billionaires-fund-nigerian-artists-sarkodie/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T00:15:00.000Z",
-      "summary": "Rapper Sarkodie has stated that Nigerian artists receive substantial financial support from billionaires and business executives in the country, unlike their Ghanaian counterparts.",
+      "title": "ghana news Mining company seeks govt’s intervention over destruction of assets - Due to pending court order",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-mining-company-seeks-govts-intervention-over-destruction-of-assets-due-to-pending-court-order.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T06:36:31.000Z",
+      "summary": "",
       "categories": [
-        "Music",
-        "Sarkodie"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/01/Sarkodie-1024x512.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/Doris.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "World Cup visa scandal: $26,000 paid to police on behalf of Ampofo Ankrah",
+      "link": "https://www.myjoyonline.com/world-cup-visa-scandal-26000-paid-to-police-on-behalf-of-ampofo-ankrah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T06:33:15.000Z",
+      "summary": "A total of $26,000 has reportedly been paid to the police on behalf of suspended National Sports Authority (NSA) Director-General Yaw Ampofo Ankrah, part of the $56,000 he is alleged to…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Yaw-Ampofo-Ankrah-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obuasi SHTS sexual abuse: Big insult to victims and Ghanaians if headmaster claims GES exonerated him",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-big-insult-to-victims-and-ghanaians-if-headmaster-claims-ges-exonerated-him/",
+      "title": "Daily Insight for CEOs: Starting the 2027 Strategic Planning Process",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-starting-the-2027-strategic-planning-process/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T00:02:00.000Z",
-      "summary": "Investigative journalist Manasseh Azure Awuni has challenged reports that the Ashanti Regional office of the Ghana Education Service (GES) has exonerated the headmaster of Obuasi Senior…",
+      "published": "2026-10-20T06:16:34.000Z",
+      "summary": "Strategic planning for 2027 should begin before the current year closes. CEOs who wait until December risk making important decisions under time pressure, relying on incomplete analysis, or…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "Daily Insight",
+        "Ernest De-Graft Egyir",
+        "Strategic planning"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Planning_Quarter.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IEAG demands probe into reported MSC office assault, warns of rising tensions at Tema Port",
+      "link": "https://www.myjoyonline.com/ieag-demands-probe-into-reported-msc-office-assault-warns-of-rising-tensions-at-tema-port/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T06:05:14.000Z",
+      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called for an impartial investigation into a reported assault incident at the Mediterranean Shipping Company (MSC) office at the…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "IEAG",
+        "MSC",
+        "Tema Port"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/Tema-Port1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IEAG urges Finance Minister to convene emergency meeting over Tema Port crisis",
+      "link": "https://www.myjoyonline.com/ieag-urges-finance-minister-to-convene-emergency-meeting-over-tema-port-crisis/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T06:04:55.000Z",
+      "summary": "The Importers and Exporters Association of Ghana (IEAG) has called on the Minister for Finance to convene an emergency stakeholder meeting to address persistent shipping-line delays…",
       "categories": [
         "National",
+        "Ato Forson",
+        "Finance Minister",
+        "IEAG",
+        "Tema Port"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/images-3-2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwakye Ofosu takes on Bawumia; accuses him of a U-turn on exchange rate stability",
+      "link": "https://www.myjoyonline.com/kwakye-ofosu-takes-on-bawumia-accuses-him-of-a-u-turn-on-exchange-rate-stability/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T06:03:00.000Z",
+      "summary": "The Minister for Government Communications, Felix Kwakye Ofosu, has accused former Vice President Dr Mahamudu Bawumia of changing his position on the importance of exchange rate stability…",
+      "categories": [
+        "National",
+        "Bawumia",
+        "Exchange rate",
+        "Kwakye Ofosu",
+        "Stability"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Felix-Kwakye-Ofosu-1024x855.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Is Afenyo-Markin’s GH¢15 million suit a face-saving writ?",
+      "link": "https://www.myjoyonline.com/is-afenyo-markins-gh%c2%a215-million-suit-a-face-saving-writ/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T06:02:04.000Z",
+      "summary": "If Afenyo-Markin does not go back to court, properly, and make the process public, Ghanaians will believe Sammy Gyamfi. That is not law. That is how public trust works. You cannot file a…",
+      "categories": [
         "News",
-        "Abuse",
-        "Sexual abuse",
-        "SHTS"
+        "Afenyo-Markin",
+        "GH¢15 million",
+        "Sammy Gyamfi"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-752-e1785587166679.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Afenyo_Gyamfi-1024x798.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "SA High Commission admits errors in evacuation records, says future birth dates were passport expiry dates",
-      "link": "https://www.myjoyonline.com/sa-high-commission-admits-errors-in-evacuation-records-says-future-birth-dates-were-passport-expiry-dates/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T23:58:00.000Z",
-      "summary": "Ghana’s High Commission in South Africa has accepted responsibility for errors in the records of 15 evacuees.",
+      "title": "High Court puts trial of former Buffer Stock CEO on hold",
+      "link": "https://ghanaiantimes.com.gh/high-court-puts-trial-of-former-buffer-stock-ceo-on-hold/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T06:01:37.000Z",
+      "summary": "The trial of Mr Hanan Abdul-Wahab Aludiba, the immediate past Chief Executive Officer of the National Food and Buffer Stock Company, has been put on hold for the Court of Appeal to rule on…",
       "categories": [
-        "HP News 3",
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police arrest four, seize 142 parcels of suspected Indian hemp",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-four-seize-142-parcels-of-suspected-indian-hemp/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T06:00:02.000Z",
+      "summary": "The Northern Regional Police Command has arrested four suspects and seized 142 parcels of suspected Indian hemp in an operation during which officers rejected a GH¢50,000 bribe allegedly…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Mahama urges African countries to strengthen mineral deals to retain more resource wealth",
+      "link": "https://www.myjoyonline.com/mahama-urges-african-countries-to-strengthen-mineral-deals-to-retain-more-resource-wealth/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T05:57:00.000Z",
+      "summary": "President John Dramani Mahama has urged African countries to strengthen their negotiating capacity in the mining sector to ensure the continent derives greater economic benefits from its…",
+      "categories": [
         "National",
-        "Repatration",
-        "SA High Commission",
-        "Xenophobic attacks"
+        "Africa",
+        "Gold",
+        "Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Screenshot-2026-05-25-at-6.08.18-am.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-1-1024x580.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obama blasts federal probe of Congresswoman Ilhan Omar as ‘so appalling’",
-      "link": "https://www.myjoyonline.com/obama-blasts-federal-probe-of-congresswoman-ilhan-omar-as-so-appalling/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T23:43:00.000Z",
-      "summary": "Barack Obama has said Congresswoman Ilhan Omar is under federal criminal investigation simply because she's an outspoken critic of President Donald Trump.",
+      "title": "$2m Skytrain trial: former CEO to call first witness",
+      "link": "https://ghanaiantimes.com.gh/2m-skytrain-trial-former-ceo-to-call-first-witness/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T05:53:31.000Z",
+      "summary": "The former Chief Executive Officer of the Ghana Infrastructure and Investment Fund (GIIF), Mr Solomon Asamoah, who is accused of causing $2 million financial loss to the state in the…",
       "categories": [
-        "International",
-        "Congresswoman",
-        "Ilhan Omar"
+        "Crime",
+        "Hot!"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1962-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "We have stabilised the present; we must now secure the future’ — Ato Forson",
-      "link": "https://www.myjoyonline.com/we-have-stabilised-the-present-we-must-now-secure-the-future-ato-forson/",
+      "title": "Mahama Ayariga calls for stronger local governance to ensure mining benefits communities",
+      "link": "https://www.myjoyonline.com/mahama-ayariga-calls-for-stronger-local-governance-to-ensure-mining-benefits-communities/",
       "source": "MyJoyOnline",
-      "published": "2026-10-19T23:38:16.000Z",
-      "summary": "Speaking during his New Economy engagement with faculty and students at the University of Ghana, Dr Forson said Ghana had reached a moment when public policy must confront the underlying…",
+      "published": "2026-10-20T05:52:00.000Z",
+      "summary": "The Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has called for stronger local governance, community participation and accountability in the mining…",
       "categories": [
-        "Business",
-        "Economy",
-        "Dr. Ato Forson",
-        "Ministry of Finance",
-        "new economy",
-        "University of Ghana"
+        "National",
+        "Ayariga",
+        "Mahama",
+        "Mining"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-7.11.21-am.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/857675417_1697405131948500_5251666426531919872_n-e1792473305149-1024x728.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -111,52 +207,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/kudus.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Apu returns to The Simpsons with new voice after race row",
-      "link": "https://www.myjoyonline.com/apu-returns-to-the-simpsons-with-new-voice-after-race-row/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T23:32:32.000Z",
-      "summary": "The Simpsons character Apu has returned to the show, voiced by a new actor, after almost a decade away amid accusations of racial stereotypes.",
-      "categories": [
-        "International",
-        "Movies",
-        "Apu",
-        "The Simpsons"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1961-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS: NDC says it will remove embattled aspirant if found guilty even after election victory",
-      "link": "https://www.myjoyonline.com/obuasi-shts-ndc-says-it-will-remove-embattled-aspirant-if-found-guilty-even-after-election-victory/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T23:23:56.000Z",
-      "summary": "The National Democratic Congress (NDC) says it will remove its embattled constituency chairmanship aspirant if he is found guilty of sexual abuse, even if he wins the election.",
-      "categories": [
-        "Politics",
-        "NDC",
-        "Obuasi SHTS abuse",
-        "Zakaria Abdulai"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/sexual-abuse-in-schools-obuasi-s.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama visits Kufuor to discuss national, global affairs",
-      "link": "https://www.myjoyonline.com/mahama-visits-kufuor-to-discuss-national-global-affairs/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T23:20:41.000Z",
-      "summary": "President John Dramani Mahama has visited former President John Agyekum Kufuor at his residence to enquire about his well-being and exchange views on issues affecting Ghana and the…",
-      "categories": [
-        "National",
-        "News",
-        "Kufuor",
-        "Mahama",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/857766636_1011519581956244_7511513006380654906_n-2048x1462-1-1024x731.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
@@ -320,32 +370,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NDC directs Obuasi SHTS headmaster to withdraw from Juaben chairmanship race",
-      "link": "https://ghanaiantimes.com.gh/ndc-directs-obuasi-shts-headmaster-to-withdraw-from-juaben-chairmanship-race/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T14:41:29.000Z",
-      "summary": "The National Democratic Congress (NDC) has directed the headmaster of Obuasi Senior High Technical School, Zakaria Abdulai, to withdraw from the race for the Juaben constituency…",
-      "categories": [
-        "Hot!",
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GNFS rescues man trapped in drainage cover at Agormanya Abanse",
-      "link": "https://ghanaiantimes.com.gh/gnfs-rescues-man-trapped-in-drainage-cover-at-agormanya-abanse/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T14:38:26.000Z",
-      "summary": "The Kpong Fire Station of the Ghana National Fire Service (GNFS) rescued a man who was trapped in a drainage cover near the Pentecost Church at Agormanya Abanse on Saturday, October 17…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "NPP says $750,000 per each charter flight for South Africa evacuation is way above industry rate",
       "link": "https://www.graphic.com.gh/news/politics/npp-says-750-000-charter-flight-for-south-africa-evacuation-is-way-above-industry-rate.html",
       "source": "Daily Graphic",
@@ -394,18 +418,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GHS to undertake intensive HPV vaccination campaign in schools nationwide",
-      "link": "https://www.graphic.com.gh/news/general-news/ghs-to-undertake-intensive-hpv-vaccination-campaign-in-schools-nationwide.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-19T13:18:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/oct/09/HPV.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Black Challenge target World Cup glory in Mexico: Every match a final, says Coach Obeng",
       "link": "https://www.graphic.com.gh/sports/sports-news/black-challenge-target-world-cup-glory-in-mexico-every-match-a-final-says-coach-obeng.html",
       "source": "Graphic Sports",
@@ -428,18 +440,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/semenyo.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Black Starlets face Côte d’Ivoire in WAFU Zone B U-17 semi-final",
-      "link": "https://ghanaiantimes.com.gh/black-starlets-face-cote-divoire-in-wafu-zone-b-u-17-semi-final/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T07:48:30.000Z",
-      "summary": "Ghana’s national male U-17 side, the Black Starlets, have advanced to the semi-finals of the ongoing 2026 WAFU Zone B U-17 Championship, where they will face their Ivorian counterparts…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
