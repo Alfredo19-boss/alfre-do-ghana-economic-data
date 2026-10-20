@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-20T12:10:15.898Z",
+  "updated": "2026-10-20T16:59:25.928Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,138 +25,328 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana Publishing Company warns fake gazette publishers of arrest, prosecution",
-      "link": "https://www.myjoyonline.com/ghana-publishing-company-warns-fake-gazette-publishers-of-arrest-prosecution/",
+      "title": "Bole-Bamboi MP fulfils GH¢100,000, 3-borehole pledge to Mandari",
+      "link": "https://www.myjoyonline.com/bole-bamboi-mp-fulfils-gh%c2%a2100000-3-borehole-pledge-to-mandari/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T12:00:29.000Z",
-      "summary": "The Ghana Publishing Company Limited (GPC) has warned individuals producing fake versions of Ghana’s laws and manipulating gazetted documents that they risk arrest and prosecution. The…",
+      "published": "2026-10-20T16:47:46.000Z",
+      "summary": "The Member of Parliament for Bole-Bamboi, Yusif Sulemana, has fulfilled his pledge of GH¢100,000 and three mechanised boreholes to the people of Mandari in the Savannah Region.",
       "categories": [
         "National",
-        "Arrest",
-        "Gazette",
-        "Ghana Publishing Company",
-        "prosecution"
+        "Bole-Bamboi MP",
+        "Yusif Sulemana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-13.03.53.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2855.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Vision FC: Coach Jaredic resigns after one win in eight",
-      "link": "https://www.myjoyonline.com/vision-fc-coach-jaredic-resigns-after-one-win-in-eight/",
+      "title": "Farmers find abandoned newborn boy in bush at Wa-Sombo",
+      "link": "https://www.myjoyonline.com/farmers-find-abandoned-newborn-boy-in-bush-at-wa-sombo/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T11:54:13.000Z",
-      "summary": "Montenegrin coach Predrag Jaredic has resigned from his position as head coach of Vision F.C, the club has announced. A club statement on Tuesday morning said “Vision Football Club confirms…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Ghana",
-        "Ghana Premier League",
-        "Predrag Jaredic",
-        "Vision FC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HUGehEeX0AAJ5Cc-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GoldBod reforms create 4,866 direct jobs in less than two years – Sammy Gyamfi",
-      "link": "https://www.myjoyonline.com/goldbod-reforms-create-4866-direct-jobs-in-less-than-two-years-sammy-gyamfi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T11:52:16.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) says its institutional, licensing and value addition reforms have created 4,866 direct jobs in less than two years, as Ghana seeks to expand local…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Goldbod",
-        "Mining in Motion",
-        "Sammy Gyamfi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/SAMMY-GYAMFI-3-1024x810.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CCC to honour teachers as part of its October Commission, offers free medical screening to hundreds",
-      "link": "https://www.myjoyonline.com/ccc-to-honour-teachers-as-part-of-its-october-commission-offers-free-medical-screening-to-hundreds/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T11:51:27.000Z",
-      "summary": "The Calvary Charismatic Centre (CCC) has announced plans to honour teachers in the Ashanti region for their immense and selfless contribution to education and national development.",
-      "categories": [
-        "National",
-        "CCC",
-        "Medical screening",
-        "Teachers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2003-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nii the Menace completes 240km run from Accra to Kumasi to promote breast cancer awareness",
-      "link": "https://www.myjoyonline.com/nii-the-menace-completes-240km-run-from-accra-to-kumasi-to-promote-breast-cancer-awareness/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T11:50:39.000Z",
-      "summary": "For seven days, Caleb Nii Okai pushed through pain, exhaustion and challenging weather to complete a 240-kilometre run from Accra to Kumasi, carrying a message about breast cancer awareness…",
-      "categories": [
-        "Events",
-        "Health",
-        "National",
-        "Accra",
-        "Breast cancer",
-        "Kumasi",
-        "Nii the menace"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-12.10.54.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Christian Council urges gov’t to deploy more military, police to fight galamsey",
-      "link": "https://www.myjoyonline.com/christian-council-urges-govt-to-deploy-more-military-police-to-fight-galamsey/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T11:50:25.000Z",
-      "summary": "The Christian Council of Ghana (CCG) has called on the government to strengthen enforcement of laws against illegal mining, known as galamsey, and deploy more security personnel and…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Christian Council",
-        "Galamsey",
-        "Military",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/galamsey-636x424-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GoldBod targets zero raw gold exports by 2030 as local refining expands",
-      "link": "https://www.myjoyonline.com/goldbod-targets-zero-raw-mineral-exports-by-2030-as-local-gold-refining-expands/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T11:48:56.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) is working towards ending Ghana’s export of raw minerals by 2030, as part of efforts to retain more value from the country’s gold resources through local…",
+      "published": "2026-10-20T16:46:01.000Z",
+      "summary": "A newborn baby boy has been rescued after farmers returning from their farms found him abandoned in a bush at Sombo in the Wa Municipality. The farmers reportedly heard the baby crying and…",
       "categories": [
         "HP News 6",
         "National",
         "News",
-        "Goldbod",
-        "Raw minerals",
-        "Sammy Gyamfi"
+        "Regional",
+        "Abandoned baby",
+        "Farmers",
+        "Wa-Sombo"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/1281c732-0995-4350-9d6d-c68be4b23a63-683x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-31-1024x576.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GoldBod exports 85.4 tonnes of small-scale gold worth $11.6bn in 2026 – Sammy Gyamfi",
-      "link": "https://www.myjoyonline.com/goldbod-exports-85-4-tonnes-of-small-scale-gold-worth-11-6bn-in-2026-sammy-gyamfi/",
+      "title": "Cedar Impact Network partners KNUST Basic School to combat textbook shortage in underserved communities",
+      "link": "https://www.myjoyonline.com/cedar-impact-network-partners-knust-basic-school-to-combat-textbook-shortage-in-underserved-communities/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T11:48:19.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) has aggregated and exported 85.4 tonnes of artisanal and small-scale mining (ASM) gold valued at US$11.6 billion between January 1 and October 20, 2026, Chief…",
+      "published": "2026-10-20T16:40:17.000Z",
+      "summary": "The Cedar Impact Network, in collaboration with KNUST Basic School, is championing the reuse of learning materials to support deprived schools through its \"Don't Throw It Away, Donate It\"…",
       "categories": [
-        "HP News 7",
         "National",
-        "Goldbod",
-        "Sammy Gyamfi"
+        "Cedar Impact Network",
+        "KNUST Basic School",
+        "Textbook"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-2329.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2034-1024x576.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama Ayariga warns MMDCEs against using government vehicles for personal errands",
+      "link": "https://www.myjoyonline.com/mahama-ayariga-warns-mmdces-against-using-government-vehicles-for-personal-errands/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T16:39:45.000Z",
+      "summary": "Local Government Minister Mahama Ayariga has cautioned Metropolitan, Municipal and District Chief Executives (MMDCEs) against using government vehicles for romantic escapades, personal…",
+      "categories": [
+        "News",
+        "Government",
+        "Mahama Ayariga",
+        "MMDCEs"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2037.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GenCED demands accountability, safeguarding reforms over Obuasi SHTS abuse allegations",
+      "link": "https://www.myjoyonline.com/genced-demands-accountability-safeguarding-reforms-over-obuasi-shts-abuse-allegations/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T16:38:53.000Z",
+      "summary": "The Gender Centre for Empowering Development (GenCED) has called for a thorough investigation, institutional accountability and stronger safeguards for students amid sexual abuse…",
+      "categories": [
+        "National",
+        "GenCED",
+        "Obuasi SHTS",
+        "Safeguarding reforms"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/logo.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS abuse cases: Asante Youth Association demands sanctions against GES directors",
+      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-cases-asante-youth-association-demands-sanctions-against-ges-directors/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T16:38:16.000Z",
+      "summary": "The Asante Youth Association (AYA) is calling on the government to sanction the Obuasi Municipal GES Director and the Ashanti Regional GES Director over their handling of cases of alleged…",
+      "categories": [
+        "Education",
+        "National",
+        "Asante Youth Association",
+        "Obuasi SHTS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/obuasisectech-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "19-year-old amputee begins SHS journey at Wa Technical Institute, appeals for standard wheelchair, laptop",
+      "link": "https://www.myjoyonline.com/19-year-old-amputee-begins-shs-journey-at-wa-technical-institute-appeals-for-standard-wheelchair-laptop/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T16:22:54.000Z",
+      "summary": "Kofi David has no legs. He has no father. But on Monday, he had something many take for granted — a chance to attend senior high school.",
+      "categories": [
+        "Education",
+        "In Focus",
+        "News",
+        "Regional",
+        "Amputee",
+        "Kofi David",
+        "WA Technical Institute"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/440f7596-62af-46a0-be8d-7eb569ed8633-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "PRESEC Legon makes history at the 2026 National Bible Quiz",
+      "link": "https://www.myjoyonline.com/presec-legon-makes-history-at-the-2026-national-bible-quiz/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T16:08:35.000Z",
+      "summary": "The Presbyterian Boys’ Secondary School (PRESEC Legon) has once again reinforced its reputation as one of Ghana’s most outstanding second-cycle institutions. Renowned for its consistent…",
+      "categories": [
+        "National",
+        "2026 National Bible Quiz",
+        "Presec Legon"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/QUARTER-FINALS-24.jpg-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I am not an ICGC Rev Minister ⁃ Amanonehene apologises for misrepresentation",
+      "link": "https://www.graphic.com.gh/news/general-news/i-am-not-an-icgc-rev-minister-amanonehene-apologises-for-misrepresentation.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T15:49:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Tagoe.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Over 27% of university students gamble daily or weekly – Study",
+      "link": "https://www.graphic.com.gh/news/general-news/over-27-of-university-students-gamble-daily-or-weekly-study.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T15:33:57.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/tsatsamann.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Security services recruitment portal will not be opened in 2027; Instead applicants who passed process in 2026 and awaiting training will be considered - Muntaka",
+      "link": "https://www.graphic.com.gh/news/general-news/security-services-recruitment-portal-will-not-be-opened-in-2027-instead-applicants-who-passed-process-in-2026-and-awaiting-training-will-be-considered-muntaka.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T14:39:55.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/nov/17/muntakaminister.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "UG Vice-Chancellor calls for oral exams, project-based assessment in AI era",
+      "link": "https://www.graphic.com.gh/news/general-news/ug-vice-chancellor-calls-for-oral-exams-project-based-assessment-in-ai-era.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T14:35:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/namfo26.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GES directs Ashanti Regional, Obuasi Municipal Education Directors to step aside over Obuasi SHTS scandal",
+      "link": "https://ghanaiantimes.com.gh/ges-directs-ashanti-regional-obuasi-municipal-education-directors-to-step-aside-over-obuasi-shts-scandal/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:23:27.000Z",
+      "summary": "The Management of the Ghana Education Service (GES) has directed the Ashanti Regional Director of Education, Dr. William Amankrah Appiah, and the Obuasi Municipal Director of Education, Mr…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Foreign Affairs Minister joins Ghanaian community in UK to honour Prof. Jason Arday",
+      "link": "https://ghanaiantimes.com.gh/foreign-affairs-minister-joins-ghanaian-community-in-uk-to-honour-prof-jason-arday/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:21:31.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has joined the family of the late Professor Jason Atta Kwei Arday, the Ghanaian community in the UK, and other dignitaries for a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana High Commission admits clerical errors in records of 15 South Africa evacuees",
+      "link": "https://ghanaiantimes.com.gh/ghana-high-commission-admits-clerical-errors-in-records-of-15-south-africa-evacuees/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:19:21.000Z",
+      "summary": "The Ghana High Commission in Pretoria, South Africa, has admitted clerical errors in the records of 15 out of the 1,964 Ghanaians evacuated from the country, following a JoyNews data…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Hawa Koomson calls for CID probe into alleged sexual abuse of 19 Obuasi SHS students",
+      "link": "https://ghanaiantimes.com.gh/hawa-koomson-calls-for-cid-probe-into-alleged-sexual-abuse-of-19-obuasi-shs-students/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:17:38.000Z",
+      "summary": "National Women’s Organiser for the New Patriotic Party (NPP), Mavis Hawa Koomson, has called on the Criminal Investigations Department (CID) of the Ghana Police Service to investigate…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FDA orders recall of Franko Herbal Mixture over drug contamination",
+      "link": "https://ghanaiantimes.com.gh/fda-orders-recall-of-franko-herbal-mixture-over-drug-contamination/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:14:40.000Z",
+      "summary": "The Food and Drugs Authority (FDA) has ordered the recall of Franko Herbal Mixture from the market within 14 days after laboratory tests found that it contained diazepam and paracetamol…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "The EverGreen Church to host ‘The Speed Conference 2026’ on October 28",
+      "link": "https://ghanaiantimes.com.gh/the-evergreen-church-to-host-the-speed-conference-2026-on-october-28/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:12:43.000Z",
+      "summary": "The EverGreen Church will host its annual flagship programme, The Speed Conference 2026, from October 28 to November 1, 2026, at its premises opposite Texpo Market on Spintex Road…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GNFS extinguishes electrical fire from MTN mast at Begoro",
+      "link": "https://ghanaiantimes.com.gh/gnfs-extinguishes-electrical-fire-from-mtn-mast-at-begoro/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:10:59.000Z",
+      "summary": "The Begoro Fire Station responded to an electrical fire from an MTN mast near Presby School at Begoro-Kristom on Saturday, October 17, 2026. The crew arrived six minutes after dispatch, and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tema Food Bazaar gets endorsement from Ghana Tourism Authority, Diaspora Affairs",
+      "link": "https://ghanaiantimes.com.gh/tema-food-bazaar-gets-endorsement-from-ghana-tourism-authority-diaspora-affairs/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-20T14:08:48.000Z",
+      "summary": "The maiden edition of the Tema Food Bazaar (TFB) has received a major boost following its official endorsement by the Ghana Tourism Authority and the Office of Diaspora Affairs at the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "ECG to conduct nationwide meter audit to curb electricity theft",
+      "link": "https://www.graphic.com.gh/news/general-news/ecg-announces-nationwide-meter-audit-to-curb-electricity-theft.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T13:47:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2020/dec/ECG-meters.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Prisons Service spent inmates’ GH¢277,625 wages on funeral donations, tuna and bus repairs - Auditor-General's report",
+      "link": "https://www.graphic.com.gh/news/general-news/prisons-service-spent-inmates-ghc277-625-wages-on-funerals-tuna-and-bus-repairs.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T13:23:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/immigration.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Zakaria Abdulai: Obuasi SHTS Headmaster resigns as Juaben Constituency Secretary, withdraws from Chairmanship race",
+      "link": "https://www.graphic.com.gh/news/general-news/zakaria-abdulai-obuasi-shts-headmaster-resigns-as-juaben-constituency-secretary-withdraws-from-chairmanship-race.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T12:38:14.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/17/zakaria.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NDC asks Obuasi SHTS Headmaster to step aside from Juaben Chairmanship race",
+      "link": "https://www.graphic.com.gh/news/politics/ndc-asks-obuasi-shts-headmaster-to-step-aside-from-juaben-chairmanship-race.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T12:29:50.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/15/zak.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Gaël Monfils separation",
@@ -169,140 +359,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/monfils.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Normeshie picks forms to contest NDC NEC position",
-      "link": "https://www.graphic.com.gh/news/politics/normeshie-picks-forms-to-contest-ndc-nec-position.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T11:33:06.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Human Resource experts call for inclusive leadership and youth empowerment",
-      "link": "https://www.graphic.com.gh/news/general-news/human-resource-experts-call-for-inclusive-leadership-and-youth-empowerment.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T11:31:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/hr3.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sekondi fishing canoe with seven crew members missing for 11 days; Marine Police leading search",
-      "link": "https://www.graphic.com.gh/news/general-news/police-coordinate-search-for-missing-fishing-canoe-seven-crew-members.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T10:31:33.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2018/may/27/canoe_siphoning.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana weather: Sunny intervals and thunderstorms expected today",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-weather-sunny-intervals-and-thunderstorms-expected-today.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T09:19:29.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/weather26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana High Commission takes responsibility for clerical errors in South Africa evacuation data",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-high-commission-takes-responsibility-for-clerical-errors-in-south-africa-evacuation-data.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T08:45:55.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/oct/23/saladdy.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Experts call for safeguards against prolonged exposure to heat, light",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-experts-call-for-safeguards-against-prolonged-exposure-to-heat-light.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T07:49:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/Speakers.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Minister calls for more collaboration between journalists, researchers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minister-calls-for-more-collaboration-between-journalists-researchers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T07:46:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/Zanetor.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dagbon will receive fair share of devt — President",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dagbon-will-receive-fair-share-of-devt-president.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T07:43:39.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/President.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "High Court puts trial of former Buffer Stock CEO on hold",
-      "link": "https://ghanaiantimes.com.gh/high-court-puts-trial-of-former-buffer-stock-ceo-on-hold/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T06:01:37.000Z",
-      "summary": "The trial of Mr Hanan Abdul-Wahab Aludiba, the immediate past Chief Executive Officer of the National Food and Buffer Stock Company, has been put on hold for the Court of Appeal to rule on…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police arrest four, seize 142 parcels of suspected Indian hemp",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-four-seize-142-parcels-of-suspected-indian-hemp/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T06:00:02.000Z",
-      "summary": "The Northern Regional Police Command has arrested four suspects and seized 142 parcels of suspected Indian hemp in an operation during which officers rejected a GH¢50,000 bribe allegedly…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "$2m Skytrain trial: former CEO to call first witness",
-      "link": "https://ghanaiantimes.com.gh/2m-skytrain-trial-former-ceo-to-call-first-witness/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T05:53:31.000Z",
-      "summary": "The former Chief Executive Officer of the Ghana Infrastructure and Investment Fund (GIIF), Mr Solomon Asamoah, who is accused of causing $2 million financial loss to the state in the…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Ghanaian trio impress in Tottenham’s win over Coventry",
@@ -351,71 +407,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_SATELLITES.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Vice President Jane Naana Opoku-Agyemang taps China’s Poverty Success Model in Shanghai",
-      "link": "https://ghanaiantimes.com.gh/vice-president-jane-naana-opoku-agyemang-taps-chinas-poverty-success-model-in-shanghai/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T14:56:03.000Z",
-      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has held high-level discussions with organisers of the 2026 Global South Academic Forum in Shanghai, seeking to draw lessons from China’s…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-14.21.15-1-1024x683.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Party card not certificate of immunity- Akosua Manu",
-      "link": "https://ghanaiantimes.com.gh/party-card-not-certificate-of-immunity-akosua-manu/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T14:51:04.000Z",
-      "summary": "Former New Patriotic Party parliamentary candidate for Adenta Constituency, Akosua Manu has called for an independent investigation into allegations of sexual abuse involving students of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GES directs regional directors to release first-term capitation grants by October 30",
-      "link": "https://ghanaiantimes.com.gh/ges-directs-regional-directors-to-release-first-term-capitation-grants-by-october-30/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T14:47:20.000Z",
-      "summary": "The Ghana Education Service (GES) has directed all Regional Directors of Education to ensure that capitation grants for the first term of the 2026/2027 academic year are transferred to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Mahama commissions four ambassadors, tasks them to drive jobs and investment",
-      "link": "https://ghanaiantimes.com.gh/mahama-commissions-four-ambassadors-tasks-them-to-drive-jobs-and-investment/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T14:46:00.000Z",
-      "summary": "President John Dramani Mahama has commissioned four career diplomats as ambassador-designates to represent Ghana in four countries. The commissioning ceremony took place on Friday, October…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Youth must be part of decision-making today – Hopeson Adorye tells young diplomats",
-      "link": "https://ghanaiantimes.com.gh/youth-must-be-part-of-decision-making-today-hopeson-adorye-tells-young-diplomats/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-19T14:43:49.000Z",
-      "summary": "The Global Board Chairman of the International Youth Network, Hopeson Adorye, has charged young diplomats to become bridge-builders and ambassadors of peace in their communities. He made…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Sports Editorial: Ghana must stop starving its medal-winning sports",
