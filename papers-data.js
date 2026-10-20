@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-20T16:59:25.928Z",
+  "updated": "2026-10-20T20:20:45.013Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,128 +25,140 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Bole-Bamboi MP fulfils GH¢100,000, 3-borehole pledge to Mandari",
-      "link": "https://www.myjoyonline.com/bole-bamboi-mp-fulfils-gh%c2%a2100000-3-borehole-pledge-to-mandari/",
+      "title": "DTI calls for stronger investment in human capital to accelerate Ghana’s industrialisation",
+      "link": "https://www.myjoyonline.com/dti-calls-for-stronger-investment-in-human-capital-to-accelerate-ghanas-industrialisation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T16:47:46.000Z",
-      "summary": "The Member of Parliament for Bole-Bamboi, Yusif Sulemana, has fulfilled his pledge of GH¢100,000 and three mechanised boreholes to the people of Mandari in the Savannah Region.",
+      "published": "2026-10-20T19:37:23.000Z",
+      "summary": "The Design and Technology Institute (DTI) is calling for increased investment in human capital development and stronger government support for local industries to improve Ghana’s…",
       "categories": [
-        "National",
-        "Bole-Bamboi MP",
-        "Yusif Sulemana"
+        "Business",
+        "HP Business 6",
+        "Investments",
+        "Constance Swaniker",
+        "DTI",
+        "Human Capital at Work",
+        "”"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2855.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-12.10.43-PM-1-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Farmers find abandoned newborn boy in bush at Wa-Sombo",
-      "link": "https://www.myjoyonline.com/farmers-find-abandoned-newborn-boy-in-bush-at-wa-sombo/",
+      "title": "Police explain why only one Obuasi SHTS abuse complaint has been investigated",
+      "link": "https://www.myjoyonline.com/police-explain-why-only-one-obuasi-shts-abuse-complaint-has-been-investigated/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T16:46:01.000Z",
-      "summary": "A newborn baby boy has been rescued after farmers returning from their farms found him abandoned in a bush at Sombo in the Wa Municipality. The farmers reportedly heard the baby crying and…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "News",
-        "Regional",
-        "Abandoned baby",
-        "Farmers",
-        "Wa-Sombo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-31-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cedar Impact Network partners KNUST Basic School to combat textbook shortage in underserved communities",
-      "link": "https://www.myjoyonline.com/cedar-impact-network-partners-knust-basic-school-to-combat-textbook-shortage-in-underserved-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T16:40:17.000Z",
-      "summary": "The Cedar Impact Network, in collaboration with KNUST Basic School, is championing the reuse of learning materials to support deprived schools through its \"Don't Throw It Away, Donate It\"…",
+      "published": "2026-10-20T19:37:21.000Z",
+      "summary": "The police have defended their handling of sexual abuse allegations involving the headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, amid questions over why…",
       "categories": [
         "National",
-        "Cedar Impact Network",
-        "KNUST Basic School",
-        "Textbook"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2034-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama Ayariga warns MMDCEs against using government vehicles for personal errands",
-      "link": "https://www.myjoyonline.com/mahama-ayariga-warns-mmdces-against-using-government-vehicles-for-personal-errands/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T16:39:45.000Z",
-      "summary": "Local Government Minister Mahama Ayariga has cautioned Metropolitan, Municipal and District Chief Executives (MMDCEs) against using government vehicles for romantic escapades, personal…",
-      "categories": [
-        "News",
-        "Government",
-        "Mahama Ayariga",
-        "MMDCEs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2037.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GenCED demands accountability, safeguarding reforms over Obuasi SHTS abuse allegations",
-      "link": "https://www.myjoyonline.com/genced-demands-accountability-safeguarding-reforms-over-obuasi-shts-abuse-allegations/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T16:38:53.000Z",
-      "summary": "The Gender Centre for Empowering Development (GenCED) has called for a thorough investigation, institutional accountability and stronger safeguards for students amid sexual abuse…",
-      "categories": [
-        "National",
-        "GenCED",
+        "Complaint",
         "Obuasi SHTS",
-        "Safeguarding reforms"
+        "Police"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/logo.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-15-4.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obuasi SHTS abuse cases: Asante Youth Association demands sanctions against GES directors",
-      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-cases-asante-youth-association-demands-sanctions-against-ges-directors/",
+      "title": "Photos: Absa, UPSA Law School hold 15th Banking Roundtable in Accra",
+      "link": "https://www.myjoyonline.com/photos-absa-upsa-law-school-hold-15th-banking-roundtable-in-accra/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T16:38:16.000Z",
-      "summary": "The Asante Youth Association (AYA) is calling on the government to sanction the Obuasi Municipal GES Director and the Ashanti Regional GES Director over their handling of cases of alleged…",
+      "published": "2026-10-20T19:29:20.000Z",
+      "summary": "The Absa-UPSA Law School Quarterly Banking Roundtable XV was held at the Absa Bank Ghana Head Office in Accra.",
       "categories": [
-        "Education",
+        "Photo Story",
+        "Absa Bank Ghaa",
+        "UPSA-Law school"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2354-Copy_2.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We must ensure judiciary doesn’t succumb to partisan capture – Yaw Nsarkoh",
+      "link": "https://www.myjoyonline.com/we-must-ensure-judiciary-doesnt-succumb-to-partisan-capture-yaw-nsarkoh/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T19:28:44.000Z",
+      "summary": "Former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has called on Ghanaians to protect the Judiciary from partisan capture, warning that declining public confidence…",
+      "categories": [
         "National",
-        "Asante Youth Association",
+        "Judiciary",
+        "Yaw Nsarkoh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Yaw-Nsarkoh.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS abuse probe: I can vouch with my life CID boss will not compromise anything – Muntaka",
+      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-probe-i-can-vouch-with-my-life-cid-boss-will-not-compromise-anything-muntaka/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T19:28:18.000Z",
+      "summary": "The Minister for the Interior, Mubarak Mohammed Muntaka, has vouched for the Director-General of the Criminal Investigations Department (CID), COP Lydia Yaako Donkor, assuring the public…",
+      "categories": [
+        "National",
+        "CID boss",
+        "Mubarak Mohammed Muntaka",
         "Obuasi SHTS"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/obuasisectech-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Muntaka-636x424-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "19-year-old amputee begins SHS journey at Wa Technical Institute, appeals for standard wheelchair, laptop",
-      "link": "https://www.myjoyonline.com/19-year-old-amputee-begins-shs-journey-at-wa-technical-institute-appeals-for-standard-wheelchair-laptop/",
+      "title": "Ghana’s judiciary has become vulnerable to partisan influence – Yaw Nsarkoh",
+      "link": "https://www.myjoyonline.com/ghanas-judiciary-has-become-vulnerable-to-partisan-influence-yaw-nsarkoh/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T16:22:54.000Z",
-      "summary": "Kofi David has no legs. He has no father. But on Monday, he had something many take for granted — a chance to attend senior high school.",
-      "categories": [
-        "Education",
-        "In Focus",
-        "News",
-        "Regional",
-        "Amputee",
-        "Kofi David",
-        "WA Technical Institute"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/440f7596-62af-46a0-be8d-7eb569ed8633-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PRESEC Legon makes history at the 2026 National Bible Quiz",
-      "link": "https://www.myjoyonline.com/presec-legon-makes-history-at-the-2026-national-bible-quiz/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T16:08:35.000Z",
-      "summary": "The Presbyterian Boys’ Secondary School (PRESEC Legon) has once again reinforced its reputation as one of Ghana’s most outstanding second-cycle institutions. Renowned for its consistent…",
+      "published": "2026-10-20T19:27:15.000Z",
+      "summary": "The former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has warned that Ghana’s judiciary has become structurally vulnerable to partisan influence.",
       "categories": [
         "National",
-        "2026 National Bible Quiz",
-        "Presec Legon"
+        "News",
+        "Ghana",
+        "Judiciary",
+        "Partisan Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/QUARTER-FINALS-24.jpg-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/yaw-1024x535.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Problems of society are not resolved by appointing more judges – Yaw Nsarkoh",
+      "link": "https://www.myjoyonline.com/problems-of-society-are-not-resolved-by-appointing-more-judges-yaw-nsarkoh/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T19:24:25.000Z",
+      "summary": "Former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has argued that appointing more judges and establishing additional courts will not resolve Ghana’s judicial…",
+      "categories": [
+        "National",
+        "Judges",
+        "Yaw Nsarkoh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Yaw-Nsarkoh.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ISSER calls for manufacturing-led growth to create jobs",
+      "link": "https://www.myjoyonline.com/isser-calls-for-manufacturing-led-growth-to-create-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-20T19:10:55.000Z",
+      "summary": "The Institute of Statistical, Social and Economic Research (ISSER) is urging government to prioritise manufacturing, agricultural productivity and private-sector financing to translate…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "Ghana",
+        "ISSER",
+        "Professor Fred Dzanku",
+        "Professor Robert Darko Osei"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-11.55.57-AM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GES directs Ashanti, Obuasi East Education Directors to step aside over Obuasi SHTS probe",
+      "link": "https://www.graphic.com.gh/news/general-news/ges-directs-ashanti-obuasi-east-education-directors-to-step-aside-over-obuasi-shts-probe.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-20T17:36:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Aug/06/obuasisectech.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "I am not an ICGC Rev Minister ⁃ Amanonehene apologises for misrepresentation",
@@ -181,7 +193,7 @@ window.GDC_PAPERS = {
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2025/nov/17/muntakaminister.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/recruits3.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -334,18 +346,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/zakaria.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NDC asks Obuasi SHTS Headmaster to step aside from Juaben Chairmanship race",
-      "link": "https://www.graphic.com.gh/news/politics/ndc-asks-obuasi-shts-headmaster-to-step-aside-from-juaben-chairmanship-race.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T12:29:50.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/zak.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
