@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-21T17:38:00.810Z",
+  "updated": "2026-10-21T20:53:49.868Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,14 +22,14 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-21T17:38:00.810Z",
+  "officialAt": "2026-10-21T20:53:49.868Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
-    "usd: 11.6177 (mid-market, 2026-10-20)",
-    "gbp: 15.5454 (mid-market, 2026-10-20)",
-    "eur: 13.0537 (mid-market, 2026-10-20)",
-    "cny: 1.73948 (mid-market, 2026-10-20)",
-    "gold: 4149.4 at 2026-10-21T17:27:45.000Z",
+    "usd: 11.6188 (mid-market, 2026-10-21)",
+    "gbp: 15.5411 (mid-market, 2026-10-21)",
+    "eur: 13.0456 (mid-market, 2026-10-21)",
+    "cny: 1.73968 (mid-market, 2026-10-21)",
+    "gold: 4154.5 at 2026-10-21T20:43:34.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-21, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-21: 2026-10-21, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.73948
     },
     "gold": {
-      "value": 4149.4,
-      "at": "2026-10-21T17:27:45.000Z",
+      "value": 4154.5,
+      "at": "2026-10-21T20:43:34.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4158.9
+      "prev": 4149.4
     }
   }
 };
