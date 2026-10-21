@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-21T17:22:17.682Z",
+  "updated": "2026-10-21T20:44:06.470Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,20 +25,133 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Contract mining: Here are government’s 3 new measures to protect mineworkers",
-      "link": "https://www.myjoyonline.com/contract-mining-here-are-governments-3-new-measures-to-protect-mineworkers/",
+      "title": "MobileMoney Fintech LTD scales up digital finance for 18,000 MSMEs",
+      "link": "https://www.myjoyonline.com/mobilemoney-fintech-ltd-scales-up-digital-finance-for-18000-msmes/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T17:20:00.000Z",
-      "summary": "The Ministry of Lands and Natural Resources has announced three additional safeguards to protect workers’ wages, benefits and conditions of service as mining companies transition from owner…",
+      "published": "2026-10-21T20:33:31.000Z",
+      "summary": "MobileMoney Fintech LTD has signed a strategic partnership with the United Nations Capital Development Fund and the United Nations Conference on Trade and Development to expand digital…",
       "categories": [
-        "Business",
-        "Mining",
-        "National",
-        "Contract mining",
-        "Mineworkers"
+        "Photo Story",
+        "Technology",
+        "MobileMoney Fintech Limited",
+        "UNDP Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-80.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2813_2.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We taught women to fear rape, but did we teach men not to rape?",
+      "link": "https://www.myjoyonline.com/we-taught-women-to-fear-rape-but-did-we-teach-men-not-to-rape/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T20:28:06.000Z",
+      "summary": "I am here as a woman in her 40s, asking myself a question that has been on my mind since I came across the comments attributed to Daniel Nortey: “ Why are we behaving as if it is not normal…",
+      "categories": [
+        "Opinion",
+        "Rape"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-20.07.50-682x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Togo Navy alerted as Ghana works to secure return of seven missing fishermen",
+      "link": "https://www.myjoyonline.com/togo-navy-alerted-as-ghana-works-to-secure-return-of-seven-missing-fishermen/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T20:17:35.000Z",
+      "summary": "Authorities are working to secure the safe return of seven crew members of a missing fishing canoe, Second Chance, after their location was established within Togolese territorial waters…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Fishermen",
+        "Ghana",
+        "Togo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/01/Ghanaian-fishermen-say-they-cannot-compete-with-the-Chinese-trawlers.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SIMI summit reaches 1,000 people with health screenings, NHIS registrations in Bono",
+      "link": "https://www.myjoyonline.com/simi-summit-reaches-1000-people-with-health-screenings-nhis-registrations-in-bono/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T19:43:04.000Z",
+      "summary": "Sustainable Impact Makers International (SIMI) says its 2026 Health Equity Summit reached more than 1,000 people in the Bono Region, combining community advocacy, health education and…",
+      "categories": [
+        "Regional",
+        "Bono",
+        "NHIS registrations",
+        "SIMI Summit"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-19.38.33-1024x819.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asutifi North sound system operators demand justice for allegedly assaulted colleague",
+      "link": "https://www.myjoyonline.com/asutifi-north-sound-system-operators-demand-justice-for-allegedly-assaulted-colleague/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T19:34:40.000Z",
+      "summary": "Sound system operators in the Asutifi North District of the Ahafo Region are demanding the arrest and investigation of two prison officers and three inmates allegedly involved in an attack…",
+      "categories": [
+        "Regional",
+        "Asutifi North",
+        "System operators"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-20.16.59-1-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "link": "https://www.myjoyonline.com/us-citizen-stephen-hubbard-freed-by-russia-as-trump-envoy-meets-putin/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T19:22:10.000Z",
+      "summary": "Russia released a 74-year-old American citizen who was jailed for allegedly fighting on behalf of Ukraine, as President Vladimir Putin met US envoy Steve Witkoff in St Petersburg for talks.",
+      "categories": [
+        "International",
+        "Russia",
+        "Trump",
+        "US"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2158-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mustapha Gbande, Joseph Yammin file nominations to retain NDC positions",
+      "link": "https://www.myjoyonline.com/mustapha-gbande-joseph-yammin-file-nominations-to-retain-ndc-positions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T19:19:42.000Z",
+      "summary": "Deputy General Secretary of the National Democratic Congress (NDC), Mustapha Gbande, and National Organiser Joseph Yammin have filed their nominations to contest for re-election in the…",
+      "categories": [
+        "Politics",
+        "Mustapha Gbande",
+        "NDC",
+        "Yammin"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-7.18.34-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arrupe Jesuit Institute to strengthen advocacy and youth empowerment",
+      "link": "https://www.myjoyonline.com/arrupe-jesuit-institute-to-strengthen-advocacy-and-youth-empowerment/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T18:58:51.000Z",
+      "summary": "The Arrupe Jesuit Institute (AJI) has outlined plans to expand its advocacy and youth empowerment programmes under a new strategic plan aimed at increasing its impact on Ghanaian society.",
+      "categories": [
+        "Regional",
+        "Arrupe Jesuit",
+        "Youth development"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261021-WA0200-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Public Accounts Committee visits NPA",
+      "link": "https://www.graphic.com.gh/news/general-news/pac-chair-commends-npa-ceo-for-strong-performance-at-committee-hearing.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T17:20:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/COMMITTEE.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Rev. Enoch Thompson inducted for second term as Ghana Baptist Convention President",
@@ -53,39 +166,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "How Europe’s most wanted cocaine trafficker turned Sierra Leone into the world’s first true narco state",
-      "link": "https://www.myjoyonline.com/how-europes-most-wanted-cocaine-trafficker-turned-sierra-leone-into-the-worlds-first-true-narco-state/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T17:08:43.000Z",
-      "summary": "As abductions go, few have been more brazen. Alan Jalloh was with two friends outside Goodies supermarket, frantic as usual with late afternoon shoppers. Rush hour in downtown Freetown…",
-      "categories": [
-        "International",
-        "News",
-        "Cocaine",
-        "Europe",
-        "Sierra Leone"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2126-819x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No mineworker should suffer under contract mining policy – Government",
-      "link": "https://www.myjoyonline.com/no-mineworker-should-suffer-under-contract-mining-policy-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T17:06:25.000Z",
-      "summary": "The government has assured mineworkers that no employee should suffer a reduction in wages, benefits or conditions of service as mining companies transition from owner mining to contract…",
-      "categories": [
-        "Business",
-        "Mining",
-        "National",
-        "News",
-        "contract mining policy",
-        "mineworker"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-79.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "KNUST College of Engineering to build US$3.5million innovation hub",
       "link": "https://www.graphic.com.gh/news/education/knust-college-of-engineering-to-build-us-3-5million-innovation-hub.html",
       "source": "Daily Graphic",
@@ -96,87 +176,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/03/legacee26.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Godfred Seidu Jasaw proposes mandatory procurement of prison-made goods by government institutions",
-      "link": "https://www.myjoyonline.com/godfred-seidu-jasaw-proposes-mandatory-procurement-of-prison-made-goods-by-government-institutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T16:59:08.000Z",
-      "summary": "The Chairman of Parliament’s Food, Agriculture and Cocoa Affairs Committee and member of the Public Accounts Committee (PAC), Dr Godfred Seidu Jasaw, has called for a government directive…",
-      "categories": [
-        "National",
-        "Jasaw",
-        "prison made goods",
-        "Prisons Service",
-        "Public Accounts Committee"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-175354-1024x612.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government sets November 30 deadline for safeguards under contract mining policy",
-      "link": "https://www.myjoyonline.com/government-sets-november-30-deadline-for-safeguards-under-contract-mining-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T16:58:20.000Z",
-      "summary": "The government has set November 30, 2026, as the deadline for the Minerals Commission to complete processes required to implement additional safeguards under Ghana’s contract mining policy.",
-      "categories": [
-        "Business",
-        "HP News 10",
-        "Mining",
-        "National",
-        "News",
-        "Contract mining",
-        "Minerals Commission",
-        "Mineworkers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-78.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t directs Minerals Commission to protect mineworkers’ wages under contract mining policy",
-      "link": "https://www.myjoyonline.com/govt-directs-minerals-commission-to-protect-mineworkers-wages-under-contract-mining-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T16:52:41.000Z",
-      "summary": "The government has directed the Minerals Commission to ensure that workers in Ghana’s mining industry do not suffer reductions in wages, benefits or conditions of service as mining…",
-      "categories": [
-        "HP Business 4",
-        "HP News 4",
-        "National",
-        "contract mining policy",
-        "Minerals Commission"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/image-523-e1779379834507-1024x500.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Delayed HIV test results, misconceptions fuel concerns over stigma in Ghana",
-      "link": "https://www.myjoyonline.com/delayed-hiv-test-results-misconceptions-fuel-concerns-over-stigma-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T16:50:24.000Z",
-      "summary": "Delays in receiving HIV test results and persistent misconceptions about how the virus spreads are raising concerns about Ghana’s efforts to improve HIV services and tackle stigma against…",
-      "categories": [
-        "Health",
-        "HIV",
-        "Misconceptions",
-        "Test results"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-17.00.46-1024x555.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FDA shuts down Arcan Bitters factory again over illegal production",
-      "link": "https://www.myjoyonline.com/fda-shuts-down-arcan-bitters-factory-again-over-illegal-production/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T16:43:42.000Z",
-      "summary": "The Food and Drugs Authority (FDA) in the Ashanti region, has shut down a second factory belonging to Unni Associates Company Limited, manufacturers of Arcan Bitters, after the company…",
-      "categories": [
-        "Food",
-        "Regional",
-        "Arcan Bitters factory",
-        "Food and Drugs Authority (FDA)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-Factory-Closure-1-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President to grace First National Bank Head of State Golf Tournament",
@@ -411,18 +410,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/03/odoyewu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "YEA targets 17,200 recruits for Teaching Assistant and Skills Programmes",
-      "link": "https://www.graphic.com.gh/news/general-news/yea-targets-17-200-recruits-for-teaching-assistant-and-skills-programmes.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T12:38:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/malik.png",
       "site": "https://www.graphic.com.gh/"
     },
     {
