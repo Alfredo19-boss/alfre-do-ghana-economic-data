@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-21T01:38:47.216Z",
+  "updated": "2026-10-21T06:34:35.402Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,121 +25,230 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-      "link": "https://www.myjoyonline.com/bbc-three-bbc-scotland-and-radio-4-extra-broadcast-channels-to-close/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T22:43:00.000Z",
-      "summary": "The BBC will close its BBC Three and BBC Scotland television channels in the spring, as the corporation continues to save £500m over two years.",
+      "title": "GoldBod reforms create 4,866 jobs • Small-scale mining support programme planned for 2027 – CEO",
+      "link": "https://ghanaiantimes.com.gh/goldbod-reforms-create-4866-jobs-small-scale-mining-support-programme-planned-for-2027-ceo/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T06:28:04.000Z",
+      "summary": "THE institutional, licensing and value-addition reforms introduced by the Ghana Gold Board have created 4,866 direct jobs in less than two years, Chief Executive Officer, Mr Sammy Gyamfi…",
       "categories": [
-        "International",
-        "BBC"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1958-1024x575.png",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "IGNITE targets African entrepreneurs with digital commerce model",
+      "link": "https://ghanaiantimes.com.gh/ignite-targets-african-entrepreneurs-with-digital-commerce-model/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T06:20:47.000Z",
+      "summary": "IGNITE Social Enterprise has announced the expansion of its lifestyle and wellness product ecosystem alongside the official unveiling of its Global Advisory Board, featuring Ghanaian media…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "David S. Anthony declares bid for NDC Deputy Organiser position",
+      "link": "https://ghanaiantimes.com.gh/david-s-anthony-declares-bid-for-ndc-deputy-organiser-position/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T06:17:50.000Z",
+      "summary": "A STAUNCH member of the National Democratic Congress (NDC), David Selassie Anthony, popularly known as Dee Mayor, has declared his intention to contest for the position of Deputy National…",
+      "categories": [
+        "Hot!",
+        "Politics"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Nkwanta South: Fetish priest arrested over alleged killing of contractor",
+      "link": "https://www.myjoyonline.com/nkwanta-south-fetish-priest-arrested-over-alleged-killing-of-contractor/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T06:14:01.000Z",
+      "summary": "The Nkwanta South Police Command in the Oti Region has arrested a 37-year-old fetish priest, Osman Imoro, in connection with the alleged killing of 35-year-old contractor, Daniel Bijadom.",
+      "categories": [
+        "Crime",
+        "News",
+        "Arrest",
+        "Fetish Priest",
+        "Police"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-033546.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "link": "https://www.myjoyonline.com/elon-musk-says-tesla-spacex-merger-being-considered/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T22:36:00.000Z",
-      "summary": "Elon Musk said he likes the idea of merging Tesla and SpaceX, two of his most notable companies, and that it is under active consideration.",
+      "title": "Pluralistic ignorance and the need to unlearn, learn, and relearn in supply chain management",
+      "link": "https://ghanaiantimes.com.gh/pluralistic-ignorance-and-the-need-to-unlearn-learn-and-relearn-in-supply-chain-management/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T06:13:53.000Z",
+      "summary": "Introduction PLURALISTIC ignorance occurs when people privately question or reject a group norm but mistakenly believe that most others support it (Mendes, Lopez-Valeiras & Lunkes, 2017)…",
       "categories": [
-        "International",
-        "Elon Musk",
-        "Tesla-SpaceX merger"
+        "Features"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2343-1024x576.png",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "An investment, not a donation: Why Corporate Ghana should support the 42nd National Farmers’ Day celebration",
+      "link": "https://ghanaiantimes.com.gh/an-investment-not-a-donation-why-corporate-ghana-should-support-the-42nd-national-farmers-day-celebration/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T06:09:24.000Z",
+      "summary": "AS Sunyani prepares to host the 42nd National Farmers’ Day Celebration, Corporate Ghana has a great opportunity to demonstrate its commitment to Ghana’s agricultural transformation. More…",
+      "categories": [
+        "Features"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Four pupils killed as van crashes into children in Aboabo",
+      "link": "https://www.myjoyonline.com/four-pupils-killed-as-van-crashes-into-children-in-aboabo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T06:06:17.000Z",
+      "summary": "Four eight-year-old schoolchildren have died, and three others sustained injuries after a van struck them at Aboabo in the Asokore Mampong Municipality of the Ashanti Region.",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "Accident",
+        "Crash",
+        "Pupil"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/L-2-1140x570-1-1024x512.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Turkish FA bans 147 officials for breaching betting rules",
-      "link": "https://www.myjoyonline.com/turkish-fa-bans-147-officials-for-breaching-betting-rules/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T22:19:00.000Z",
-      "summary": "Trabzonspor president Ertugrul Dogan has been named among 147 football club officials to receive 45-day bans from the Turkish Football Federation (TFF) for breaching betting rules.",
+      "title": "GRA clears Say Cheers of tax non-compliance allegation",
+      "link": "https://ghanaiantimes.com.gh/gra-clears-say-cheers-of-tax-non-compliance-allegation/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T06:03:47.000Z",
+      "summary": "THE Ghana Revenue Authority (GRA) has cleared Say Cheers of allegations of tax non-compliance following checks on the company’s transactions, attributing the earlier concerns to…",
       "categories": [
-        "Football",
-        "Betting rules",
-        "Turkish FA"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2045.png",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GoldBod must turn job gains into lasting prosperity",
+      "link": "https://ghanaiantimes.com.gh/goldbod-must-turn-job-gains-into-lasting-prosperity/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T05:52:53.000Z",
+      "summary": "THE disclosure that reforms introduced by the Ghana Gold Board (GoldBod) have created 4,866 direct jobs in less than two years is welcome news. At a time when unemployment, particularly…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police arrest 41 in Lapaz, Chantan anti-crime operation",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-41-in-lapaz-chantan-anti-crime-operation/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T05:50:42.000Z",
+      "summary": "FORTY one people have been arrested in an intelligence-led operation targeting suspected criminal and narcotics related activities at Lapaz and Chantan in Accra. The Ghana Police Service’s…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘We must move beyond potential’: Upper West Region courts global investors with massive tax holidays",
+      "link": "https://www.myjoyonline.com/we-must-move-beyond-potential-upper-west-region-courts-global-investors-with-massive-tax-holidays/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T05:41:04.000Z",
+      "summary": "In a major move to correct the historical skew of Foreign Direct Investment (FDI) towards southern Ghana, the Ghana Investment Promotion Authority (GIPA) has unveiled a comprehensive…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-22.56.19t-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "FGMSA sues Medical and Dental Council to halt Common Registration Examination",
-      "link": "https://www.myjoyonline.com/fgmsa-sues-medical-and-dental-council-to-halt-common-registration-examination/",
+      "title": "700 sewing machines distributed to apprentices in Nkoranza South under MP’s SOMPA Training Program",
+      "link": "https://www.myjoyonline.com/700-sewing-machines-distributed-to-apprentices-in-nkoranza-south-under-mps-sompa-training-program/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T22:17:16.000Z",
-      "summary": "The Federation of Ghana Medical Students’ Associations (FGMSA) and affected graduating medical and dental students have sued the Medical and Dental Council (MDC), seeking to restrain the…",
+      "published": "2026-10-21T04:42:28.000Z",
+      "summary": "In a significant boost to youth empowerment and vocational development, a total of 700 sewing machines have been distributed to hundreds of apprentices in the Nkoranza South Constituency of…",
+      "categories": [
+        "National",
+        "News",
+        "Sewing",
+        "Sewing machine",
+        "SOMPA Training Program",
+        "Training"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-21.30.02-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS sex scandal: Lack of safeguarding training for teachers raises concern — Father",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sex-scandal-lack-of-safeguarding-training-for-teachers-raises-concern-father/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T04:11:00.000Z",
+      "summary": "A father of five girls has expressed concern about the apparent lack of formal safeguarding training for teachers, saying it raises serious questions about how students are protected in…",
       "categories": [
         "Education",
-        "common registration",
-        "FGMSA",
-        "Medical and Dental Council"
+        "HP News 10",
+        "News",
+        "Obuasi",
+        "Sex abuse",
+        "Sex Scandal"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-10-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-lack-of-formal-safeguarding-.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Audit regulator looking into Manchester City accounting",
-      "link": "https://www.myjoyonline.com/audit-regulator-looking-into-manchester-city-accounting/",
+      "title": "‘It is never your fault’ — advocate tells sexual abuse survivors",
+      "link": "https://www.myjoyonline.com/it-is-never-your-fault-advocate-tells-sexual-abuse-survivors/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T22:11:00.000Z",
-      "summary": "The UK audit regulator has confirmed it is leading inquiries into accounting irregularities at Manchester City.",
+      "published": "2026-10-21T03:32:40.000Z",
+      "summary": "A co-founder of On This Side, Amtu Akumfi-Ameyaw, has urged survivors of sexual abuse to reject self-blame, stressing that responsibility for abuse rests with the perpetrators and not the…",
       "categories": [
-        "Football",
-        "English Premier League",
-        "Manchester City"
+        "In Focus",
+        "National",
+        "News",
+        "Education",
+        "Ghana",
+        "Obiasi SHTS",
+        "Sexual abuse"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2044-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/we-must-remind-survivors-that-it.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Doue impresses as PSG beat Barcelona in thriller",
-      "link": "https://www.myjoyonline.com/doue-impresses-as-psg-beat-barcelona-in-thriller/",
+      "title": "USTED professor calls for Ghana-backed research into locally suited drainage solutions",
+      "link": "https://www.myjoyonline.com/usted-professor-calls-for-ghana-backed-research-into-locally-suited-drainage-solutions/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T22:04:00.000Z",
-      "summary": "Desire Doue, Lamine Yamal and Vitinha scored superb individual goals as Champions League holders Paris St-Germain overcame Barcelona in a breathless encounter at Parc des Princes.",
+      "published": "2026-10-21T03:03:00.000Z",
+      "summary": "A coastal engineering and climate adaptation specialist at the University of Skills Training and Entrepreneurial Development (USTED), Professor Isaac Boateng, has urged Ghanaian research…",
       "categories": [
-        "HP Sports 1",
-        "International",
-        "Sports",
-        "Barcelona",
-        "Desire Doue",
-        "Lamine Yamal",
-        "PSG"
+        "National",
+        "News",
+        "drainage infrastructure",
+        "storm management"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/46f4df40-ccc6-11f1-951b-8fbc7a9ea030.jpg.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/PXL_20261020_0957050872.jpg-1024x771.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Four-goal Roma thrash Yaya Toure’s Slovan Bratislava",
-      "link": "https://www.myjoyonline.com/four-goal-roma-thrash-yaya-toures-slovan-bratislava/",
+      "title": "‘Some schoolgirls position themselves to sexually exploit teachers for money’ – Teacher alleges",
+      "link": "https://www.myjoyonline.com/some-schoolgirls-position-themselves-to-sexually-exploit-teachers-for-money-teacher-alleges/",
       "source": "MyJoyOnline",
-      "published": "2026-10-20T22:01:00.000Z",
-      "summary": "Ruthless Roma stuck four past Yaya Toure's Slovan Bratislava to secure their first Champions League victory of the season.",
+      "published": "2026-10-21T02:55:00.000Z",
+      "summary": "A teacher at Ekumpoano Catholic Basic School, Stephen Desu, has raised concerns about alleged transactional sexual relationships between teachers and female students, saying some girls seek…",
       "categories": [
-        "Football",
-        "AS Roma",
-        "Slovan Bratislava"
+        "News",
+        "Obuasi SHTS",
+        "Sex abuse"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2043.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
-      "link": "https://www.myjoyonline.com/nigeria-confirms-first-ebola-case-amid-concerns-about-continental-spread/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T22:01:00.000Z",
-      "summary": "Nigeria has confirmed its first Ebola case in its capital, Abuja, after a woman who travelled from Uganda tested positive for the virus.",
-      "categories": [
-        "Africa",
-        "International",
-        "Ebola",
-        "Nigeria",
-        "virus"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ap_6ace7cf13598e-1791917297.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-ghana-education-service-has-1-3.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -213,110 +322,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/17/namfo26.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES directs Ashanti Regional, Obuasi Municipal Education Directors to step aside over Obuasi SHTS scandal",
-      "link": "https://ghanaiantimes.com.gh/ges-directs-ashanti-regional-obuasi-municipal-education-directors-to-step-aside-over-obuasi-shts-scandal/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:23:27.000Z",
-      "summary": "The Management of the Ghana Education Service (GES) has directed the Ashanti Regional Director of Education, Dr. William Amankrah Appiah, and the Obuasi Municipal Director of Education, Mr…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Foreign Affairs Minister joins Ghanaian community in UK to honour Prof. Jason Arday",
-      "link": "https://ghanaiantimes.com.gh/foreign-affairs-minister-joins-ghanaian-community-in-uk-to-honour-prof-jason-arday/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:21:31.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has joined the family of the late Professor Jason Atta Kwei Arday, the Ghanaian community in the UK, and other dignitaries for a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana High Commission admits clerical errors in records of 15 South Africa evacuees",
-      "link": "https://ghanaiantimes.com.gh/ghana-high-commission-admits-clerical-errors-in-records-of-15-south-africa-evacuees/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:19:21.000Z",
-      "summary": "The Ghana High Commission in Pretoria, South Africa, has admitted clerical errors in the records of 15 out of the 1,964 Ghanaians evacuated from the country, following a JoyNews data…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hawa Koomson calls for CID probe into alleged sexual abuse of 19 Obuasi SHS students",
-      "link": "https://ghanaiantimes.com.gh/hawa-koomson-calls-for-cid-probe-into-alleged-sexual-abuse-of-19-obuasi-shs-students/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:17:38.000Z",
-      "summary": "National Women’s Organiser for the New Patriotic Party (NPP), Mavis Hawa Koomson, has called on the Criminal Investigations Department (CID) of the Ghana Police Service to investigate…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FDA orders recall of Franko Herbal Mixture over drug contamination",
-      "link": "https://ghanaiantimes.com.gh/fda-orders-recall-of-franko-herbal-mixture-over-drug-contamination/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:14:40.000Z",
-      "summary": "The Food and Drugs Authority (FDA) has ordered the recall of Franko Herbal Mixture from the market within 14 days after laboratory tests found that it contained diazepam and paracetamol…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "The EverGreen Church to host ‘The Speed Conference 2026’ on October 28",
-      "link": "https://ghanaiantimes.com.gh/the-evergreen-church-to-host-the-speed-conference-2026-on-october-28/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:12:43.000Z",
-      "summary": "The EverGreen Church will host its annual flagship programme, The Speed Conference 2026, from October 28 to November 1, 2026, at its premises opposite Texpo Market on Spintex Road…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GNFS extinguishes electrical fire from MTN mast at Begoro",
-      "link": "https://ghanaiantimes.com.gh/gnfs-extinguishes-electrical-fire-from-mtn-mast-at-begoro/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:10:59.000Z",
-      "summary": "The Begoro Fire Station responded to an electrical fire from an MTN mast near Presby School at Begoro-Kristom on Saturday, October 17, 2026. The crew arrived six minutes after dispatch, and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Tema Food Bazaar gets endorsement from Ghana Tourism Authority, Diaspora Affairs",
-      "link": "https://ghanaiantimes.com.gh/tema-food-bazaar-gets-endorsement-from-ghana-tourism-authority-diaspora-affairs/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-20T14:08:48.000Z",
-      "summary": "The maiden edition of the Tema Food Bazaar (TFB) has received a major boost following its official endorsement by the Ghana Tourism Authority and the Office of Diaspora Affairs at the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "ECG to conduct nationwide meter audit to curb electricity theft",
