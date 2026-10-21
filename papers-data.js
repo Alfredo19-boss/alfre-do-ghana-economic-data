@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-21T06:34:35.402Z",
+  "updated": "2026-10-21T12:18:46.055Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,326 +25,352 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GoldBod reforms create 4,866 jobs • Small-scale mining support programme planned for 2027 – CEO",
-      "link": "https://ghanaiantimes.com.gh/goldbod-reforms-create-4866-jobs-small-scale-mining-support-programme-planned-for-2027-ceo/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T06:28:04.000Z",
-      "summary": "THE institutional, licensing and value-addition reforms introduced by the Ghana Gold Board have created 4,866 direct jobs in less than two years, Chief Executive Officer, Mr Sammy Gyamfi…",
+      "title": "President Mahama open to Russian security assistance in Sahel, says anyone fighting terrorism is welcome",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-open-to-russian-security-assistance-in-sahel-says-anyone-fighting-terrorism-is-welcome.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T12:13:14.000Z",
+      "summary": "",
       "categories": [
-        "Hot!",
-        "News"
+        "General News"
       ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/JAYM26.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "IGNITE targets African entrepreneurs with digital commerce model",
-      "link": "https://ghanaiantimes.com.gh/ignite-targets-african-entrepreneurs-with-digital-commerce-model/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T06:20:47.000Z",
-      "summary": "IGNITE Social Enterprise has announced the expansion of its lifestyle and wellness product ecosystem alongside the official unveiling of its Global Advisory Board, featuring Ghanaian media…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "David S. Anthony declares bid for NDC Deputy Organiser position",
-      "link": "https://ghanaiantimes.com.gh/david-s-anthony-declares-bid-for-ndc-deputy-organiser-position/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T06:17:50.000Z",
-      "summary": "A STAUNCH member of the National Democratic Congress (NDC), David Selassie Anthony, popularly known as Dee Mayor, has declared his intention to contest for the position of Deputy National…",
-      "categories": [
-        "Hot!",
-        "Politics"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nkwanta South: Fetish priest arrested over alleged killing of contractor",
-      "link": "https://www.myjoyonline.com/nkwanta-south-fetish-priest-arrested-over-alleged-killing-of-contractor/",
+      "title": "Obuasi SHTS closure leaves final-year students facing uncertainty ahead of WASSCE",
+      "link": "https://www.myjoyonline.com/obuasi-shts-closure-leaves-final-year-students-facing-uncertainty-ahead-of-wassce/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T06:14:01.000Z",
-      "summary": "The Nkwanta South Police Command in the Oti Region has arrested a 37-year-old fetish priest, Osman Imoro, in connection with the alleged killing of 35-year-old contractor, Daniel Bijadom.",
-      "categories": [
-        "Crime",
-        "News",
-        "Arrest",
-        "Fetish Priest",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-033546.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pluralistic ignorance and the need to unlearn, learn, and relearn in supply chain management",
-      "link": "https://ghanaiantimes.com.gh/pluralistic-ignorance-and-the-need-to-unlearn-learn-and-relearn-in-supply-chain-management/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T06:13:53.000Z",
-      "summary": "Introduction PLURALISTIC ignorance occurs when people privately question or reject a group norm but mistakenly believe that most others support it (Mendes, Lopez-Valeiras & Lunkes, 2017)…",
-      "categories": [
-        "Features"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "An investment, not a donation: Why Corporate Ghana should support the 42nd National Farmers’ Day celebration",
-      "link": "https://ghanaiantimes.com.gh/an-investment-not-a-donation-why-corporate-ghana-should-support-the-42nd-national-farmers-day-celebration/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T06:09:24.000Z",
-      "summary": "AS Sunyani prepares to host the 42nd National Farmers’ Day Celebration, Corporate Ghana has a great opportunity to demonstrate its commitment to Ghana’s agricultural transformation. More…",
-      "categories": [
-        "Features"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Four pupils killed as van crashes into children in Aboabo",
-      "link": "https://www.myjoyonline.com/four-pupils-killed-as-van-crashes-into-children-in-aboabo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T06:06:17.000Z",
-      "summary": "Four eight-year-old schoolchildren have died, and three others sustained injuries after a van struck them at Aboabo in the Asokore Mampong Municipality of the Ashanti Region.",
-      "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Accident",
-        "Crash",
-        "Pupil"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/L-2-1140x570-1-1024x512.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA clears Say Cheers of tax non-compliance allegation",
-      "link": "https://ghanaiantimes.com.gh/gra-clears-say-cheers-of-tax-non-compliance-allegation/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T06:03:47.000Z",
-      "summary": "THE Ghana Revenue Authority (GRA) has cleared Say Cheers of allegations of tax non-compliance following checks on the company’s transactions, attributing the earlier concerns to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GoldBod must turn job gains into lasting prosperity",
-      "link": "https://ghanaiantimes.com.gh/goldbod-must-turn-job-gains-into-lasting-prosperity/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T05:52:53.000Z",
-      "summary": "THE disclosure that reforms introduced by the Ghana Gold Board (GoldBod) have created 4,866 direct jobs in less than two years is welcome news. At a time when unemployment, particularly…",
-      "categories": [
-        "Editorial"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police arrest 41 in Lapaz, Chantan anti-crime operation",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-41-in-lapaz-chantan-anti-crime-operation/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T05:50:42.000Z",
-      "summary": "FORTY one people have been arrested in an intelligence-led operation targeting suspected criminal and narcotics related activities at Lapaz and Chantan in Accra. The Ghana Police Service’s…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘We must move beyond potential’: Upper West Region courts global investors with massive tax holidays",
-      "link": "https://www.myjoyonline.com/we-must-move-beyond-potential-upper-west-region-courts-global-investors-with-massive-tax-holidays/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T05:41:04.000Z",
-      "summary": "In a major move to correct the historical skew of Foreign Direct Investment (FDI) towards southern Ghana, the Ghana Investment Promotion Authority (GIPA) has unveiled a comprehensive…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-22.56.19t-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "700 sewing machines distributed to apprentices in Nkoranza South under MP’s SOMPA Training Program",
-      "link": "https://www.myjoyonline.com/700-sewing-machines-distributed-to-apprentices-in-nkoranza-south-under-mps-sompa-training-program/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T04:42:28.000Z",
-      "summary": "In a significant boost to youth empowerment and vocational development, a total of 700 sewing machines have been distributed to hundreds of apprentices in the Nkoranza South Constituency of…",
-      "categories": [
-        "National",
-        "News",
-        "Sewing",
-        "Sewing machine",
-        "SOMPA Training Program",
-        "Training"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-21.30.02-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS sex scandal: Lack of safeguarding training for teachers raises concern — Father",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sex-scandal-lack-of-safeguarding-training-for-teachers-raises-concern-father/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T04:11:00.000Z",
-      "summary": "A father of five girls has expressed concern about the apparent lack of formal safeguarding training for teachers, saying it raises serious questions about how students are protected in…",
+      "published": "2026-10-21T12:07:50.000Z",
+      "summary": "The academic future of final-year and second-year students of Obuasi Senior High and Technical School (SHTS) remains uncertain, as the school has stayed closed to continuing students for…",
       "categories": [
         "Education",
-        "HP News 10",
-        "News",
-        "Obuasi",
-        "Sex abuse",
-        "Sex Scandal"
+        "HP News 8",
+        "Final year students",
+        "Obuasi SHTS",
+        "WASSCE"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-lack-of-formal-safeguarding-.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-15-5.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘It is never your fault’ — advocate tells sexual abuse survivors",
-      "link": "https://www.myjoyonline.com/it-is-never-your-fault-advocate-tells-sexual-abuse-survivors/",
+      "title": "YEA calls for review of Communication Service Tax funding cap",
+      "link": "https://www.myjoyonline.com/yea-calls-for-review-of-communication-service-tax-funding-cap/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T03:32:40.000Z",
-      "summary": "A co-founder of On This Side, Amtu Akumfi-Ameyaw, has urged survivors of sexual abuse to reject self-blame, stressing that responsibility for abuse rests with the perpetrators and not the…",
+      "published": "2026-10-21T12:05:17.000Z",
+      "summary": "The Youth Employment Agency (YEA) is calling for a review of the funding cap affecting revenue from the Communication Service Tax (CST), arguing that the arrangement has implications for…",
+      "categories": [
+        "National",
+        "Communication Service Tax",
+        "YEA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.20.32-AM-1024x744.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS abuse allegations: Education Ministry knew nothing until exposé – Dr. Apaak",
+      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-allegations-education-ministry-knew-nothing-until-expose-dr-apaak/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T12:04:42.000Z",
+      "summary": "The Ministry of Education has said it knew nothing about the alleged sexual abuse involving the headmaster of Obuasi Senior High Technical School (SHTS) until an investigative documentary…",
+      "categories": [
+        "Education",
+        "National",
+        "Education Ministry",
+        "Obuasi SHTS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2107-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "All 1,000 Northshore Garment Project beneficiaries have secured jobs – YEA",
+      "link": "https://www.myjoyonline.com/all-1000-northshore-garment-project-beneficiaries-have-secured-jobs-yea/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T12:04:41.000Z",
+      "summary": "The Youth Employment Agency (YEA) says all 1,000 young people recruited under its Northshore Garment Project have secured employment, with plans to enrol another 1,000 beneficiaries under…",
+      "categories": [
+        "National",
+        "Basintale",
+        "Northshore",
+        "YEA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.20.06-AM-1024x754.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "YEA targets 11,200 beneficiaries under US$3.6m AfDB-backed programme",
+      "link": "https://www.myjoyonline.com/yea-targets-11200-beneficiaries-under-us3-6m-afdb-backed-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T12:04:08.000Z",
+      "summary": "The Youth Employment Agency (YEA) is preparing to train and create employment opportunities for 11,200 beneficiaries under the Ghana Women and Youth Employment and Social Cohesion Programme…",
+      "categories": [
+        "Business",
+        "HP News 6",
+        "National",
+        "Basintale",
+        "YEA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/805120085_1501165442045549_2106919880636062898_n-e1792580719425-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "YEA secures overseas jobs for more than 1,000 beneficiaries under Labour Exchange Programme",
+      "link": "https://www.myjoyonline.com/yea-secures-overseas-jobs-for-more-than-1000-beneficiaries-under-labour-exchange-programme/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T12:03:35.000Z",
+      "summary": "More than 1,000 beneficiaries of the Youth Employment Agency (YEA) have so far accessed employment opportunities in different countries under its Labour Exchange Programme, Chief Executive…",
+      "categories": [
+        "National",
+        "Basintale",
+        "YEA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.28.40-AM-1024x774.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "YEA increases monthly beneficiary allowances to GH¢800 – Basintale",
+      "link": "https://www.myjoyonline.com/yea-increases-monthly-beneficiary-allowances-to-gh%c2%a2800-basintale/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T12:01:49.000Z",
+      "summary": "The Youth Employment Agency (YEA) has increased monthly allowances for its beneficiaries from GH¢500 to GH¢800, representing a 60% increment, Chief Executive Officer Malik Basintale has…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "allowances",
+        "YEA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/839048032_1526770682818358_4979656707748641213_n-1024x684.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "YEA secures 60% retention agreements with security agencies – Basintale",
+      "link": "https://www.myjoyonline.com/yea-secures-60-retention-agreements-with-security-agencies-basintale/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T12:01:13.000Z",
+      "summary": "The Youth Employment Agency (YEA) says it has secured retention agreements with security agencies to facilitate the absorption of at least 60% of beneficiaries after completing their…",
       "categories": [
         "In Focus",
         "National",
-        "News",
-        "Education",
-        "Ghana",
-        "Obiasi SHTS",
-        "Sexual abuse"
+        "Basintale",
+        "YEA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/we-must-remind-survivors-that-it.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/803635611_1501165328712227_7188126288173524844_n.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "USTED professor calls for Ghana-backed research into locally suited drainage solutions",
-      "link": "https://www.myjoyonline.com/usted-professor-calls-for-ghana-backed-research-into-locally-suited-drainage-solutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T03:03:00.000Z",
-      "summary": "A coastal engineering and climate adaptation specialist at the University of Skills Training and Entrepreneurial Development (USTED), Professor Isaac Boateng, has urged Ghanaian research…",
-      "categories": [
-        "National",
-        "News",
-        "drainage infrastructure",
-        "storm management"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/PXL_20261020_0957050872.jpg-1024x771.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Some schoolgirls position themselves to sexually exploit teachers for money’ – Teacher alleges",
-      "link": "https://www.myjoyonline.com/some-schoolgirls-position-themselves-to-sexually-exploit-teachers-for-money-teacher-alleges/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T02:55:00.000Z",
-      "summary": "A teacher at Ekumpoano Catholic Basic School, Stephen Desu, has raised concerns about alleged transactional sexual relationships between teachers and female students, saying some girls seek…",
-      "categories": [
-        "News",
-        "Obuasi SHTS",
-        "Sex abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/the-ghana-education-service-has-1-3.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria confirms Ebola case linked to East Africa",
-      "link": "https://www.graphic.com.gh/news/health/nigeria-confirms-ebola-case-linked-to-east-africa.html",
+      "title": "Ghanaian sentenced in US for fraudulently using citizen's identity to work",
+      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-sentenced-in-us-for-fraudulently-using-citizens-identity-to-work.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T20:27:56.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/15/ebola.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES directs Ashanti, Obuasi East Education Directors to step aside over Obuasi SHTS probe",
-      "link": "https://www.graphic.com.gh/news/general-news/ges-directs-ashanti-obuasi-east-education-directors-to-step-aside-over-obuasi-shts-probe.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-20T17:36:59.000Z",
+      "published": "2026-10-21T11:59:14.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Aug/06/obuasisectech.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/socialsecur.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "I am not an ICGC Rev Minister ⁃ Amanonehene apologises for misrepresentation",
-      "link": "https://www.graphic.com.gh/news/general-news/i-am-not-an-icgc-rev-minister-amanonehene-apologises-for-misrepresentation.html",
+      "title": "Train local coaches instead of relying on foreign experts – Acting NSA Boss",
+      "link": "https://www.graphic.com.gh/sports/sports-news/train-local-coaches-instead-of-relying-on-foreign-experts-acting-nsa-boss.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T11:09:25.000Z",
+      "summary": "The Black Stars have come under particular scrutiny following a 4-2 defeat to The Gambia in a 2027 Africa Cup of Nations qualifier and a 5-1 friendly loss to Austria. The results have…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/PROF.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Badminton: Golden Shuttlers receive rousing welcome after five-medal Cairo haul",
+      "link": "https://www.graphic.com.gh/sports/sports-news/badminton-golden-shuttlers-receive-rousing-welcome-after-five-medal-cairo-haul.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T10:31:40.000Z",
+      "summary": "Mr Akpokavie congratulated the players and urged them to set their sights on senior-level success, while promising to explore opportunities for specialised training in badminton powerhouses…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/BADMINTON.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Armwrestling: Golden Arms pledge medals as they depart for World Championships Saturday",
+      "link": "https://www.graphic.com.gh/sports/sports-news/armwrestling-golden-arms-pledge-medals-as-they-depart-for-world-championships-saturday.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T10:27:17.000Z",
+      "summary": "The men’s squad comprises Edward Asamoah Yamoah, Haruna Tahiru, Godwin Sackey, Daniel Acquah, Charles Osei Asibey Jr., Henry Otoo and Asinu Dodzie. Youth competitor Mabel Yeboah is…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/WRESTLING.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Fidelity Bank completes 15th school under Orange Impact Initiative",
+      "link": "https://ghanaiantimes.com.gh/fidelity-bank-completes-15th-school-under-orange-impact-initiative/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:44:07.000Z",
+      "summary": "FIDELITY Bank Ghana has completed its commitment to build or renovate 15 basic schools in underserved communities across Ghana with the inauguration of newly constructed and renovated…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "COCOBOD distributes 2.8m cocoa seedlings to 2,705 farmers",
+      "link": "https://ghanaiantimes.com.gh/cocobod-distributes-2-8m-cocoa-seedlings-to-2705-farmers/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:38:55.000Z",
+      "summary": "THE Ghana COCOBOD has distributed more than 2.8 million free hybrid cocoa seedlings, including 67,794 economic shade trees, to 2,705 farmers in the Techiman South District of the Bono East…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Edo Queens, Ampem Darkoa to honour extra time of WAFU B qualifying final Saturday",
+      "link": "https://ghanaiantimes.com.gh/edo-queens-ampem-darkoa-to-honour-extra-time-of-wafu-b-qualifying-final-saturday/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:34:26.000Z",
+      "summary": "Edo Queens and Ghana’s Ampem Darkoa Ladies will resume their WAFU B Women’s Champions League final on Saturday, in Burkina Faso, with a place at the continental finals at stake after CAF…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "First National Bank Ghana joins ‘Run for a Cure’ race",
+      "link": "https://ghanaiantimes.com.gh/first-national-bank-ghana-joins-run-for-a-cure-race/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:33:21.000Z",
+      "summary": "Employees and customers of First National Bank Ghana will participate in Run for a Cure, a breast cancer awareness run in Accra on Saturday. The 5km run, organised by Run for a Cure Africa…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Korea Embassy donates protective equipment to GTF",
+      "link": "https://ghanaiantimes.com.gh/korea-embassy-donates-protective-equipment-to-gtf/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:31:45.000Z",
+      "summary": "The Korea Embassy in Accra yesterday presented five boxes of uniforms and protective equipment to the Ghana Taekwondo Federation (GTF) in Accra. The gesture, according to the Korea…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Mr-Kyongsig-right-hands-over-the-equipment-to-Mr-Lartey-Otu1.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Toda’s fixtures",
+      "link": "https://ghanaiantimes.com.gh/todas-fixtures/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:28:47.000Z",
+      "summary": "Como vs Man United Lille vs Galatasaray Betis vs Feyenoord Inter Milan vs Shakhtar Real Madrid vs RB Leipzig Aston Villa vs Viking FK Sporting Lisbon vs LASK",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bayern Munich host Arsenal in Champions League showdown",
+      "link": "https://ghanaiantimes.com.gh/bayern-munich-host-arsenal-in-champions-league-showdown/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:27:16.000Z",
+      "summary": "Formerly Manchester City colleagues, currently league-winning managers, Vincent Kompany and Mikel Arteta reunite on the Allianz Arena touchline once more when Bayern Munich and Arsenal…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Maritime Authority pushes for digital port integration across West, Central Africa",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-maritime-authority-pushes-for-digital-port-integration-across-west-central-africa.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T15:49:22.000Z",
+      "published": "2026-10-21T07:21:26.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/Tagoe.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Participants.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Over 27% of university students gamble daily or weekly – Study",
-      "link": "https://www.graphic.com.gh/news/general-news/over-27-of-university-students-gamble-daily-or-weekly-study.html",
+      "title": "No player is untouchable at Real Madrid-Mourinho",
+      "link": "https://ghanaiantimes.com.gh/no-player-is-untouchable-at-real-madrid-mourinho/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T07:16:03.000Z",
+      "summary": "José Mourinho insisted that no player is “untouchable” at Real Madrid, as Vinícius Júnior prepares to return to the starting Xl for Wednesday’s Champions League game with RB Leipzig…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Healthy diet out of reach for most Ghanaians",
+      "link": "https://www.graphic.com.gh/news/general-news/healthy-diet-out-of-reach-for-most-ghanaians.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T15:33:57.000Z",
+      "published": "2026-10-21T07:15:47.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/tsatsamann.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Reginald.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Security services recruitment portal will not be opened in 2027; Instead applicants who passed process in 2026 and awaiting training will be considered - Muntaka",
-      "link": "https://www.graphic.com.gh/news/general-news/security-services-recruitment-portal-will-not-be-opened-in-2027-instead-applicants-who-passed-process-in-2026-and-awaiting-training-will-be-considered-muntaka.html",
+      "title": "Government to invest $10 billion to create jobs, curb galamsey",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-government-to-invest-10-billion-to-create-jobs-curb-galamsey.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T14:39:55.000Z",
+      "published": "2026-10-21T07:06:36.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/recruits3.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Mahama.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "UG Vice-Chancellor calls for oral exams, project-based assessment in AI era",
-      "link": "https://www.graphic.com.gh/news/general-news/ug-vice-chancellor-calls-for-oral-exams-project-based-assessment-in-ai-era.html",
+      "title": "Let’s have counselling authority: To protect students from sexual abuse - Child Right Int'I urges",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-lets-have-counselling-authority-to-protect-students-from-sexual-abuse-child-right-inti-urges.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T14:35:06.000Z",
+      "published": "2026-10-21T07:00:18.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/namfo26.jpg",
+      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "ECG to conduct nationwide meter audit to curb electricity theft",
-      "link": "https://www.graphic.com.gh/news/general-news/ecg-announces-nationwide-meter-audit-to-curb-electricity-theft.html",
+      "title": "Ghana's human capital strategy not working well enough — Opare Addo",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanas-human-capital-strategy-not-working-well-enough-opare-addo.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T13:47:31.000Z",
+      "published": "2026-10-21T06:51:40.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2020/dec/ECG-meters.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Addo.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Prisons Service spent inmates’ GH¢277,625 wages on funeral donations, tuna and bus repairs - Auditor-General's report",
-      "link": "https://www.graphic.com.gh/news/general-news/prisons-service-spent-inmates-ghc277-625-wages-on-funerals-tuna-and-bus-repairs.html",
+      "title": "Ghana, US plan TVET skills development programme",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-us-plan-tvet-skills-development-programme.html",
       "source": "Daily Graphic",
-      "published": "2026-10-20T13:23:39.000Z",
+      "published": "2026-10-21T06:47:54.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/immigration.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Agbeko.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -405,42 +431,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_SATELLITES.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Sports Editorial: Ghana must stop starving its medal-winning sports",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-must-stop-starving-its-medal-winning-sports.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T14:23:48.000Z",
-      "summary": "Even more disturbing is that financial constraints have also scuttled Ghana’s participation in the World Boxing African Championships in Kenya. These are not isolated setbacks. They reflect…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/BOMBERS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "GTF takes taekwondo awareness campaign to schools in Central Region",
-      "link": "https://www.graphic.com.gh/sports/sports-news/gtf-takes-taekwondo-awareness-campaign-to-schools-in-central-region.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T14:15:28.000Z",
-      "summary": "The school awareness campaign aims to introduce Taekwondo to children across Ghana, promote confidence and character development, identify young talent and create opportunities for…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/TAEKWONDOS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Black Challenge target World Cup glory in Mexico: Every match a final, says Coach Obeng",
-      "link": "https://www.graphic.com.gh/sports/sports-news/black-challenge-target-world-cup-glory-in-mexico-every-match-a-final-says-coach-obeng.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T13:17:49.000Z",
-      "summary": "The Black Challenge have dominated continental competition, but Coach Obeng knows that African supremacy guarantees nothing against the world’s elite. Speaking at last Thursday’s public…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_CHALLENGE.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
