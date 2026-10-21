@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-21T12:18:46.055Z",
+  "updated": "2026-10-21T17:22:17.682Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,147 +25,404 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "President Mahama open to Russian security assistance in Sahel, says anyone fighting terrorism is welcome",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-open-to-russian-security-assistance-in-sahel-says-anyone-fighting-terrorism-is-welcome.html",
+      "title": "Contract mining: Here are government’s 3 new measures to protect mineworkers",
+      "link": "https://www.myjoyonline.com/contract-mining-here-are-governments-3-new-measures-to-protect-mineworkers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T17:20:00.000Z",
+      "summary": "The Ministry of Lands and Natural Resources has announced three additional safeguards to protect workers’ wages, benefits and conditions of service as mining companies transition from owner…",
+      "categories": [
+        "Business",
+        "Mining",
+        "National",
+        "Contract mining",
+        "Mineworkers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-80.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rev. Enoch Thompson inducted for second term as Ghana Baptist Convention President",
+      "link": "https://www.graphic.com.gh/news/general-news/rev-enoch-thompson-inducted-for-second-term-as-ghana-baptist-convention-president.html",
       "source": "Daily Graphic",
-      "published": "2026-10-21T12:13:14.000Z",
+      "published": "2026-10-21T17:17:04.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/JAYM26.jpg",
+      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Obuasi SHTS closure leaves final-year students facing uncertainty ahead of WASSCE",
-      "link": "https://www.myjoyonline.com/obuasi-shts-closure-leaves-final-year-students-facing-uncertainty-ahead-of-wassce/",
+      "title": "How Europe’s most wanted cocaine trafficker turned Sierra Leone into the world’s first true narco state",
+      "link": "https://www.myjoyonline.com/how-europes-most-wanted-cocaine-trafficker-turned-sierra-leone-into-the-worlds-first-true-narco-state/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T12:07:50.000Z",
-      "summary": "The academic future of final-year and second-year students of Obuasi Senior High and Technical School (SHTS) remains uncertain, as the school has stayed closed to continuing students for…",
+      "published": "2026-10-21T17:08:43.000Z",
+      "summary": "As abductions go, few have been more brazen. Alan Jalloh was with two friends outside Goodies supermarket, frantic as usual with late afternoon shoppers. Rush hour in downtown Freetown…",
       "categories": [
-        "Education",
-        "HP News 8",
-        "Final year students",
-        "Obuasi SHTS",
-        "WASSCE"
+        "International",
+        "News",
+        "Cocaine",
+        "Europe",
+        "Sierra Leone"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-15-5.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2126-819x1024.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "YEA calls for review of Communication Service Tax funding cap",
-      "link": "https://www.myjoyonline.com/yea-calls-for-review-of-communication-service-tax-funding-cap/",
+      "title": "No mineworker should suffer under contract mining policy – Government",
+      "link": "https://www.myjoyonline.com/no-mineworker-should-suffer-under-contract-mining-policy-government/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T12:05:17.000Z",
-      "summary": "The Youth Employment Agency (YEA) is calling for a review of the funding cap affecting revenue from the Communication Service Tax (CST), arguing that the arrangement has implications for…",
-      "categories": [
-        "National",
-        "Communication Service Tax",
-        "YEA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.20.32-AM-1024x744.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS abuse allegations: Education Ministry knew nothing until exposé – Dr. Apaak",
-      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-allegations-education-ministry-knew-nothing-until-expose-dr-apaak/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T12:04:42.000Z",
-      "summary": "The Ministry of Education has said it knew nothing about the alleged sexual abuse involving the headmaster of Obuasi Senior High Technical School (SHTS) until an investigative documentary…",
-      "categories": [
-        "Education",
-        "National",
-        "Education Ministry",
-        "Obuasi SHTS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2107-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "All 1,000 Northshore Garment Project beneficiaries have secured jobs – YEA",
-      "link": "https://www.myjoyonline.com/all-1000-northshore-garment-project-beneficiaries-have-secured-jobs-yea/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T12:04:41.000Z",
-      "summary": "The Youth Employment Agency (YEA) says all 1,000 young people recruited under its Northshore Garment Project have secured employment, with plans to enrol another 1,000 beneficiaries under…",
-      "categories": [
-        "National",
-        "Basintale",
-        "Northshore",
-        "YEA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.20.06-AM-1024x754.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "YEA targets 11,200 beneficiaries under US$3.6m AfDB-backed programme",
-      "link": "https://www.myjoyonline.com/yea-targets-11200-beneficiaries-under-us3-6m-afdb-backed-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T12:04:08.000Z",
-      "summary": "The Youth Employment Agency (YEA) is preparing to train and create employment opportunities for 11,200 beneficiaries under the Ghana Women and Youth Employment and Social Cohesion Programme…",
+      "published": "2026-10-21T17:06:25.000Z",
+      "summary": "The government has assured mineworkers that no employee should suffer a reduction in wages, benefits or conditions of service as mining companies transition from owner mining to contract…",
       "categories": [
         "Business",
-        "HP News 6",
+        "Mining",
         "National",
-        "Basintale",
-        "YEA"
+        "News",
+        "contract mining policy",
+        "mineworker"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/805120085_1501165442045549_2106919880636062898_n-e1792580719425-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-79.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "YEA secures overseas jobs for more than 1,000 beneficiaries under Labour Exchange Programme",
-      "link": "https://www.myjoyonline.com/yea-secures-overseas-jobs-for-more-than-1000-beneficiaries-under-labour-exchange-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T12:03:35.000Z",
-      "summary": "More than 1,000 beneficiaries of the Youth Employment Agency (YEA) have so far accessed employment opportunities in different countries under its Labour Exchange Programme, Chief Executive…",
-      "categories": [
-        "National",
-        "Basintale",
-        "YEA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.28.40-AM-1024x774.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "YEA increases monthly beneficiary allowances to GH¢800 – Basintale",
-      "link": "https://www.myjoyonline.com/yea-increases-monthly-beneficiary-allowances-to-gh%c2%a2800-basintale/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T12:01:49.000Z",
-      "summary": "The Youth Employment Agency (YEA) has increased monthly allowances for its beneficiaries from GH¢500 to GH¢800, representing a 60% increment, Chief Executive Officer Malik Basintale has…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "allowances",
-        "YEA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/839048032_1526770682818358_4979656707748641213_n-1024x684.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "YEA secures 60% retention agreements with security agencies – Basintale",
-      "link": "https://www.myjoyonline.com/yea-secures-60-retention-agreements-with-security-agencies-basintale/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T12:01:13.000Z",
-      "summary": "The Youth Employment Agency (YEA) says it has secured retention agreements with security agencies to facilitate the absorption of at least 60% of beneficiaries after completing their…",
-      "categories": [
-        "In Focus",
-        "National",
-        "Basintale",
-        "YEA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/803635611_1501165328712227_7188126288173524844_n.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian sentenced in US for fraudulently using citizen's identity to work",
-      "link": "https://www.graphic.com.gh/news/general-news/ghanaian-sentenced-in-us-for-fraudulently-using-citizens-identity-to-work.html",
+      "title": "KNUST College of Engineering to build US$3.5million innovation hub",
+      "link": "https://www.graphic.com.gh/news/education/knust-college-of-engineering-to-build-us-3-5million-innovation-hub.html",
       "source": "Daily Graphic",
-      "published": "2026-10-21T11:59:14.000Z",
+      "published": "2026-10-21T17:04:25.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/legacee26.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Godfred Seidu Jasaw proposes mandatory procurement of prison-made goods by government institutions",
+      "link": "https://www.myjoyonline.com/godfred-seidu-jasaw-proposes-mandatory-procurement-of-prison-made-goods-by-government-institutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T16:59:08.000Z",
+      "summary": "The Chairman of Parliament’s Food, Agriculture and Cocoa Affairs Committee and member of the Public Accounts Committee (PAC), Dr Godfred Seidu Jasaw, has called for a government directive…",
+      "categories": [
+        "National",
+        "Jasaw",
+        "prison made goods",
+        "Prisons Service",
+        "Public Accounts Committee"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-175354-1024x612.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government sets November 30 deadline for safeguards under contract mining policy",
+      "link": "https://www.myjoyonline.com/government-sets-november-30-deadline-for-safeguards-under-contract-mining-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T16:58:20.000Z",
+      "summary": "The government has set November 30, 2026, as the deadline for the Minerals Commission to complete processes required to implement additional safeguards under Ghana’s contract mining policy.",
+      "categories": [
+        "Business",
+        "HP News 10",
+        "Mining",
+        "National",
+        "News",
+        "Contract mining",
+        "Minerals Commission",
+        "Mineworkers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-78.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t directs Minerals Commission to protect mineworkers’ wages under contract mining policy",
+      "link": "https://www.myjoyonline.com/govt-directs-minerals-commission-to-protect-mineworkers-wages-under-contract-mining-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T16:52:41.000Z",
+      "summary": "The government has directed the Minerals Commission to ensure that workers in Ghana’s mining industry do not suffer reductions in wages, benefits or conditions of service as mining…",
+      "categories": [
+        "HP Business 4",
+        "HP News 4",
+        "National",
+        "contract mining policy",
+        "Minerals Commission"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/image-523-e1779379834507-1024x500.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Delayed HIV test results, misconceptions fuel concerns over stigma in Ghana",
+      "link": "https://www.myjoyonline.com/delayed-hiv-test-results-misconceptions-fuel-concerns-over-stigma-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T16:50:24.000Z",
+      "summary": "Delays in receiving HIV test results and persistent misconceptions about how the virus spreads are raising concerns about Ghana’s efforts to improve HIV services and tackle stigma against…",
+      "categories": [
+        "Health",
+        "HIV",
+        "Misconceptions",
+        "Test results"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-17.00.46-1024x555.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FDA shuts down Arcan Bitters factory again over illegal production",
+      "link": "https://www.myjoyonline.com/fda-shuts-down-arcan-bitters-factory-again-over-illegal-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T16:43:42.000Z",
+      "summary": "The Food and Drugs Authority (FDA) in the Ashanti region, has shut down a second factory belonging to Unni Associates Company Limited, manufacturers of Arcan Bitters, after the company…",
+      "categories": [
+        "Food",
+        "Regional",
+        "Arcan Bitters factory",
+        "Food and Drugs Authority (FDA)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Social-Factory-Closure-1-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President to grace First National Bank Head of State Golf Tournament",
+      "link": "https://www.graphic.com.gh/sports/sports-news/president-to-grace-first-national-bank-head-of-state-golf-tournament.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T16:38:35.000Z",
+      "summary": "The bank’s Chief Executive Officer, Sylvia Inkoom, said the tournament reflected the institution’s belief in the importance of relationships and partnerships in driving sustainable economic…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/AMAHAMA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Hyundai, Sports Ministry plan grassroots sports partnership",
+      "link": "https://www.graphic.com.gh/sports/sports-news/hyundai-sports-ministry-plan-grassroots-sports-partnership.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T16:33:21.000Z",
+      "summary": "The meeting, facilitated by Ghana’s Ambassador to South Korea, Kojo Choi, explored several areas of cooperation, including the construction of mini pitches in partnership with FIFA, the…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/SPORTS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Lagos: Man dies while rescuing toddler from a well",
+      "link": "https://www.graphic.com.gh/news/general-news/lagos-man-dies-while-rescuing-toddler-from-a-well.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T16:10:57.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/socialsecur.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/LAGOS.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Nationwide Meter Audit: How to verify the identity of ECG field personnel",
+      "link": "https://www.graphic.com.gh/news/general-news/nationwide-meter-audit-how-to-verify-the-identity-of-ecg-field-personnel.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T16:09:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2024/feb/19/ECG.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Joanita Borteye eyes strong showing at 2026 African Table Tennis Champs in Morocco",
+      "link": "https://www.graphic.com.gh/sports/sports-news/joanita-borteye-eyes-strong-showing-at-2026-african-table-tennis-champs-in-morocco.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T15:51:15.000Z",
+      "summary": "The experience will provide a valuable reference point as she returns to the continental stage with greater exposure to the demands of senior competition. Borteye has also enjoyed…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/JOANITA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Let the law take its course in Obuasi SHTS abuse case – Vice-President Opoku-Agyemang",
+      "link": "https://www.graphic.com.gh/news/politics/let-the-law-take-its-course-in-obuasi-shts-abuse-case-vice-president-opoku-agyemang.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T15:43:21.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Eric Addo gets ITTF selection as official for 2026 African Table Tennis Championships",
+      "link": "https://www.graphic.com.gh/sports/sports-news/eric-addo-gets-ittf-selection-as-official-for-2026-african-table-tennis-championships.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T15:40:55.000Z",
+      "summary": "“It means a lot to me because this is one of the highest competitions in Africa, and not all umpires will have the opportunity to be called.”Eric Addo. The championship will also provide…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/ADDO.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "South African rugby star died of natural causes after hotel fall – autopsy",
+      "link": "https://www.graphic.com.gh/sports/sports-news/south-african-rugby-star-died-of-natural-causes-after-hotel-fall-autopsy.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T15:27:07.000Z",
+      "summary": "Andrews was found unconscious in a shower cubicle at the team's hotel. Investigators had initially considered several possible causes of death, including a fall, a heart attack and an…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/ANDREWS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Black Maidens must beat Brazil to keep World Cup hopes alive – Coach Adarkwa",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-maidens-must-beat-brazil-to-keep-world-cup-hopes-alive-coach-adarkwa.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T14:49:27.000Z",
+      "summary": "He expressed confidence that the players would apply the lessons learned when they take on Brazil, describing the atmosphere in camp as positive and the team’s psychological state as…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/ADARKWA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Dr. Sammy Ayeh picks nomination forms for NDC Deputy National Communications Officer position",
+      "link": "https://ghanaiantimes.com.gh/dr-sammy-ayeh-picks-nomination-forms-for-ndc-deputy-national-communications-officer-position/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T14:16:43.000Z",
+      "summary": "A member of the National Democratic Congress (NDC), Dr. Sammy Ayeh has picked up nomination forms to contest for the position of Deputy National Communications Officer position. Announcing…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Data Protection Commission calls for protection of Ghanaian evacuees’ privacy",
+      "link": "https://ghanaiantimes.com.gh/data-protection-commission-calls-for-protection-of-ghanaian-evacuees-privacy/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T14:14:01.000Z",
+      "summary": "The Data Protection Commission has called on the Minority Caucus in Parliament, the Ministry of Foreign Affairs, JoyNews and other media houses to protect the personal information of 1,964…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "CAF confirms extra-time replay between Ampem Darkoa, Edo Queens in Egypt",
+      "link": "https://www.graphic.com.gh/sports/sports-news/caf-confirms-extra-time-replay-between-ampem-darkoa-edo-queens-in-egypt.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-21T14:03:21.000Z",
+      "summary": "The governing body confirmed that the match would resume at the start of extra time, with the score tied at 2-2. The teams will play two 15-minute periods, with a penalty shoot-out to…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/CAF.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "GNFS contains vehicular fire at entrance of Suhum Fire Station",
+      "link": "https://ghanaiantimes.com.gh/gnfs-contains-vehicular-fire-at-entrance-of-suhum-fire-station/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T14:01:21.000Z",
+      "summary": "The Suhum Municipal Fire Station swiftly responded to a vehicular fire right at its entrance on Monday, October 19, 2026. The incident involved a Peugeot 206+ with registration number GR…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "DVLA cautions public against fake SMS payment links and online fine scams",
+      "link": "https://ghanaiantimes.com.gh/dvla-cautions-public-against-fake-sms-payment-links-and-online-fine-scams/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T13:56:03.000Z",
+      "summary": "The Driver and Vehicle Licensing Authority (DVLA) has cautioned the public against fraudulent text messages asking people to pay supposed traffic fines through unofficial online links. In a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "CID, FDA strengthen collaboration to combat illicit drugs and counterfeit products",
+      "link": "https://ghanaiantimes.com.gh/cid-fda-strengthen-collaboration-to-combat-illicit-drugs-and-counterfeit-products/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T13:53:03.000Z",
+      "summary": "The Criminal Investigations Department (CID) of the Ghana Police Service has engaged the Food and Drugs Authority (FDA) to strengthen cooperation in the fight against illicit drugs…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Afenyo-Markin refiles defamation suit against Eric Adjei, Sammy Gyamfi",
+      "link": "https://ghanaiantimes.com.gh/afenyo-markin-refiles-defamation-suit-against-eric-adjei-sammy-gyamfi/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T13:45:54.000Z",
+      "summary": "Former Minority Leader Alexander Afenyo-Markin has refiled a defamation suit against the Chief Executive of the National Entrepreneurship and Innovation Programme (NEIP), Eric Adjei, at the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Obuasi SHS sexual misconduct allegations: Muntaka assures of impartial Police probe",
+      "link": "https://ghanaiantimes.com.gh/obuasi-shs-sexual-misconduct-allegations-muntaka-assures-of-impartial-police-probe/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T13:43:11.000Z",
+      "summary": "The Minister for the Interior, Muntaka Mubarak Mohammed, has assured Ghanaians that the Ghana Police Service will conduct a thorough and impartial investigation into allegations of sexual…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NPA, UMaT explore partnership to advance downstream petroleum development",
+      "link": "https://www.graphic.com.gh/news/general-news/npa-umat-explore-partnership-to-advance-downstream-petroleum-development.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T13:17:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/UMAT_NPA.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Woman, 19, remanded over stabbing death of boyfriend, 33",
+      "link": "https://www.graphic.com.gh/news/general-news/woman-19-remanded-over-stabbing-death-of-businessman-at-okaikwei.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T13:10:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/03/odoyewu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "YEA targets 17,200 recruits for Teaching Assistant and Skills Programmes",
+      "link": "https://www.graphic.com.gh/news/general-news/yea-targets-17-200-recruits-for-teaching-assistant-and-skills-programmes.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T12:38:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/21/malik.png",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -181,30 +438,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Badminton: Golden Shuttlers receive rousing welcome after five-medal Cairo haul",
-      "link": "https://www.graphic.com.gh/sports/sports-news/badminton-golden-shuttlers-receive-rousing-welcome-after-five-medal-cairo-haul.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-21T10:31:40.000Z",
-      "summary": "Mr Akpokavie congratulated the players and urged them to set their sights on senior-level success, while promising to explore opportunities for specialised training in badminton powerhouses…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/BADMINTON.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Armwrestling: Golden Arms pledge medals as they depart for World Championships Saturday",
-      "link": "https://www.graphic.com.gh/sports/sports-news/armwrestling-golden-arms-pledge-medals-as-they-depart-for-world-championships-saturday.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-21T10:27:17.000Z",
-      "summary": "The men’s squad comprises Edward Asamoah Yamoah, Haruna Tahiru, Godwin Sackey, Daniel Acquah, Charles Osei Asibey Jr., Henry Otoo and Asinu Dodzie. Youth competitor Mabel Yeboah is…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/WRESTLING.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
       "title": "Fidelity Bank completes 15th school under Orange Impact Initiative",
       "link": "https://ghanaiantimes.com.gh/fidelity-bank-completes-15th-school-under-orange-impact-initiative/",
       "source": "Ghanaian Times",
@@ -215,223 +448,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "COCOBOD distributes 2.8m cocoa seedlings to 2,705 farmers",
-      "link": "https://ghanaiantimes.com.gh/cocobod-distributes-2-8m-cocoa-seedlings-to-2705-farmers/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:38:55.000Z",
-      "summary": "THE Ghana COCOBOD has distributed more than 2.8 million free hybrid cocoa seedlings, including 67,794 economic shade trees, to 2,705 farmers in the Techiman South District of the Bono East…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Edo Queens, Ampem Darkoa to honour extra time of WAFU B qualifying final Saturday",
-      "link": "https://ghanaiantimes.com.gh/edo-queens-ampem-darkoa-to-honour-extra-time-of-wafu-b-qualifying-final-saturday/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:34:26.000Z",
-      "summary": "Edo Queens and Ghana’s Ampem Darkoa Ladies will resume their WAFU B Women’s Champions League final on Saturday, in Burkina Faso, with a place at the continental finals at stake after CAF…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "First National Bank Ghana joins ‘Run for a Cure’ race",
-      "link": "https://ghanaiantimes.com.gh/first-national-bank-ghana-joins-run-for-a-cure-race/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:33:21.000Z",
-      "summary": "Employees and customers of First National Bank Ghana will participate in Run for a Cure, a breast cancer awareness run in Accra on Saturday. The 5km run, organised by Run for a Cure Africa…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Korea Embassy donates protective equipment to GTF",
-      "link": "https://ghanaiantimes.com.gh/korea-embassy-donates-protective-equipment-to-gtf/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:31:45.000Z",
-      "summary": "The Korea Embassy in Accra yesterday presented five boxes of uniforms and protective equipment to the Ghana Taekwondo Federation (GTF) in Accra. The gesture, according to the Korea…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/Mr-Kyongsig-right-hands-over-the-equipment-to-Mr-Lartey-Otu1.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Toda’s fixtures",
-      "link": "https://ghanaiantimes.com.gh/todas-fixtures/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:28:47.000Z",
-      "summary": "Como vs Man United Lille vs Galatasaray Betis vs Feyenoord Inter Milan vs Shakhtar Real Madrid vs RB Leipzig Aston Villa vs Viking FK Sporting Lisbon vs LASK",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bayern Munich host Arsenal in Champions League showdown",
-      "link": "https://ghanaiantimes.com.gh/bayern-munich-host-arsenal-in-champions-league-showdown/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:27:16.000Z",
-      "summary": "Formerly Manchester City colleagues, currently league-winning managers, Vincent Kompany and Mikel Arteta reunite on the Allianz Arena touchline once more when Bayern Munich and Arsenal…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Maritime Authority pushes for digital port integration across West, Central Africa",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-maritime-authority-pushes-for-digital-port-integration-across-west-central-africa.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T07:21:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Participants.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "No player is untouchable at Real Madrid-Mourinho",
-      "link": "https://ghanaiantimes.com.gh/no-player-is-untouchable-at-real-madrid-mourinho/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:16:03.000Z",
-      "summary": "José Mourinho insisted that no player is “untouchable” at Real Madrid, as Vinícius Júnior prepares to return to the starting Xl for Wednesday’s Champions League game with RB Leipzig…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Healthy diet out of reach for most Ghanaians",
-      "link": "https://www.graphic.com.gh/news/general-news/healthy-diet-out-of-reach-for-most-ghanaians.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T07:15:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Reginald.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government to invest $10 billion to create jobs, curb galamsey",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-government-to-invest-10-billion-to-create-jobs-curb-galamsey.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T07:06:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Mahama.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Let’s have counselling authority: To protect students from sexual abuse - Child Right Int'I urges",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-lets-have-counselling-authority-to-protect-students-from-sexual-abuse-child-right-inti-urges.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T07:00:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana's human capital strategy not working well enough — Opare Addo",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanas-human-capital-strategy-not-working-well-enough-opare-addo.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T06:51:40.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Addo.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, US plan TVET skills development programme",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-us-plan-tvet-skills-development-programme.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T06:47:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/Agbeko.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Gaël Monfils separation",
-      "link": "https://www.graphic.com.gh/sports/sports-news/tennis-star-svitolina-says-emotional-toll-of-ukraine-war-led-to-gael-monfils-separation.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-20T11:44:08.000Z",
-      "summary": "The 32-year-old, who is ranked number six in the world, wrote in a heartfelt post on Instagram about the effect the conflict and \"what the war has done to me inside\". \"This is the most…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/17/monfils.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghanaian trio impress in Tottenham’s win over Coventry",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghanaian-trio-impress-in-tottenhams-comeback-win-over-coventry.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T23:37:17.000Z",
-      "summary": "Mohammed Kudus featured on the wings for Tottenham, while Brandon Thomas-Asante and Caleb Yirenkyi represented Coventry City in an encounter that offered Ghanaian football fans an…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/kudus.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ronaldo-given-30-day-suspension-and-gbp215-fine-by-portuguese-fa.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T23:10:55.000Z",
-      "summary": "The 41-year-old captain walked out of Portugal's Nations League squad in September after being an unused substitute against Norway and then finding out he would not start against Denmark on…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/ronaldo.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Big blow as injury rules Semenyo out of Ghana’s next AFCON qualifiers",
-      "link": "https://www.graphic.com.gh/sports/sports-news/big-blow-as-injury-rules-semenyo-out-of-ghanas-next-afcon-qualifiers.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T22:59:17.000Z",
-      "summary": "City manager Enzo Maresca confirmed the timeline on Monday after scans on the Ghana international, who suffered a knock during last Saturday’s 3-2 Premier League victory over Ipswich Town…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Black Starlets face Côte d’Ivoire in WAFU Zone B semi-final",
-      "link": "https://www.graphic.com.gh/sports/sports-news/black-starlets-face-cote-divoire-in-wafu-zone-b-semi-final.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-19T16:45:27.000Z",
-      "summary": "Coach Kassim Ocansey’s side enjoyed an impressive run in the group stage, opening their campaign with a victory over Togo before overcoming Benin in their second game. They then drew with…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/19/BLACK_SATELLITES.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
