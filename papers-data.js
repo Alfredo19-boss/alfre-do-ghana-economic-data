@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-21T20:44:06.470Z",
+  "updated": "2026-10-21T23:40:52.085Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,121 +25,170 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "MobileMoney Fintech LTD scales up digital finance for 18,000 MSMEs",
-      "link": "https://www.myjoyonline.com/mobilemoney-fintech-ltd-scales-up-digital-finance-for-18000-msmes/",
+      "title": "Think about how we sign these agreements – Sam George warns over health data",
+      "link": "https://www.myjoyonline.com/think-about-how-we-sign-these-agreements-sam-george-warns-over-health-data/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T20:33:31.000Z",
-      "summary": "MobileMoney Fintech LTD has signed a strategic partnership with the United Nations Capital Development Fund and the United Nations Conference on Trade and Development to expand digital…",
+      "published": "2026-10-21T23:15:00.000Z",
+      "summary": "Communication, Digital Technology and Innovations Minister Sam Nartey George has urged closer scrutiny of agreements involving Ghana’s health records.",
       "categories": [
-        "Photo Story",
+        "Health",
         "Technology",
-        "MobileMoney Fintech Limited",
-        "UNDP Ghana"
+        "health data",
+        "Sam Nartey George"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2813_2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Sam-George-Nartey.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "We taught women to fear rape, but did we teach men not to rape?",
-      "link": "https://www.myjoyonline.com/we-taught-women-to-fear-rape-but-did-we-teach-men-not-to-rape/",
+      "title": "‘Real-world skill sets’ – Sam George makes case for One Million Coders programme",
+      "link": "https://www.myjoyonline.com/real-world-skill-sets-sam-george-makes-case-for-one-million-coders-programme/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T20:28:06.000Z",
-      "summary": "I am here as a woman in her 40s, asking myself a question that has been on my mind since I came across the comments attributed to Daniel Nortey: “ Why are we behaving as if it is not normal…",
+      "published": "2026-10-21T22:44:00.000Z",
+      "summary": "Communication, Digital Technology and Innovations Minister Sam Nartey George says the One Million Coders programme is designed to equip people with practical skills they can use in everyday…",
       "categories": [
-        "Opinion",
-        "Rape"
+        "Technology",
+        "One Million Coders",
+        "Sam George"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-20.07.50-682x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sam-George.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Togo Navy alerted as Ghana works to secure return of seven missing fishermen",
-      "link": "https://www.myjoyonline.com/togo-navy-alerted-as-ghana-works-to-secure-return-of-seven-missing-fishermen/",
+      "title": "A case for a systematic rollout of Ghana’s new traffic law (L.I. 2519",
+      "link": "https://www.myjoyonline.com/a-case-for-a-systematic-rollout-of-ghanas-new-traffic-law-l-i-2519/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T20:17:35.000Z",
-      "summary": "Authorities are working to secure the safe return of seven crew members of a missing fishing canoe, Second Chance, after their location was established within Togolese territorial waters…",
+      "published": "2026-10-21T22:38:40.000Z",
+      "summary": "The Ministry of Transport launched a nationwide education exercise in September 2026, with Transport Minister Joseph Bukari Nikpe acknowledging that nationwide education was “necessary to…",
+      "categories": [
+        "Features",
+        "CUTS International",
+        "GPRTU",
+        "LI 2519",
+        "Police",
+        "Transport Ministry",
+        "‘Road Traffic Regulations"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-01.27.53-1-819x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sam George outlines $270m Ghana AI investment, cites risks of feeding government data into foreign models",
+      "link": "https://www.myjoyonline.com/sam-george-outlines-270m-ghana-ai-investment-cites-risks-of-feeding-government-data-into-foreign-models/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T22:36:12.000Z",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Samuel Nartey George, has outlined a $270 million investment in Ghana’s artificial intelligence (AI) development, with…",
       "categories": [
         "HP News 1",
         "National",
-        "Fishermen",
-        "Ghana",
-        "Togo"
+        "AI",
+        "Samuel Nartey George"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/01/Ghanaian-fishermen-say-they-cannot-compete-with-the-Chinese-trawlers.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/Sam-George1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "SIMI summit reaches 1,000 people with health screenings, NHIS registrations in Bono",
-      "link": "https://www.myjoyonline.com/simi-summit-reaches-1000-people-with-health-screenings-nhis-registrations-in-bono/",
+      "title": "‘Those who evolve and adapt will survive’ – Sam George on AI and jobs",
+      "link": "https://www.myjoyonline.com/those-who-evolve-and-adapt-will-survive-sam-george-on-ai-and-jobs/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T19:43:04.000Z",
-      "summary": "Sustainable Impact Makers International (SIMI) says its 2026 Health Equity Summit reached more than 1,000 people in the Bono Region, combining community advocacy, health education and…",
+      "published": "2026-10-21T22:26:58.000Z",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Samuel Nartey George, says that workers who fail to adapt to changing technology risk losing their jobs as artificial…",
       "categories": [
-        "Regional",
-        "Bono",
-        "NHIS registrations",
-        "SIMI Summit"
+        "In Focus",
+        "National",
+        "Technology",
+        "Artificial Intelligence",
+        "Jobs",
+        "Samuel Nartey George"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-19.38.33-1024x819.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Sam-George-Nartey.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Asutifi North sound system operators demand justice for allegedly assaulted colleague",
-      "link": "https://www.myjoyonline.com/asutifi-north-sound-system-operators-demand-justice-for-allegedly-assaulted-colleague/",
+      "title": "African mineral value addition in focus at ‘Mining in Motion Conference’",
+      "link": "https://www.myjoyonline.com/african-mineral-value-addition-in-focus-at-mining-in-motion-conference/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T19:34:40.000Z",
-      "summary": "Sound system operators in the Asutifi North District of the Ahafo Region are demanding the arrest and investigation of two prison officers and three inmates allegedly involved in an attack…",
+      "published": "2026-10-21T22:24:41.000Z",
+      "summary": "The Chief Executive Officer of the Minerals Income Investment Fund (MIIF), Justina Nelson, has highlighted the importance of investment, data sharing and regional cooperation in helping…",
       "categories": [
-        "Regional",
-        "Asutifi North",
-        "System operators"
+        "Business",
+        "Mining",
+        "Justina Nelson",
+        "MIIF",
+        "Minerals Commission",
+        "Mining in Motion",
+        "Ministry of Lands and Natural resources"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-20.16.59-1-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-16.03.23-1-1024x731.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "link": "https://www.myjoyonline.com/us-citizen-stephen-hubbard-freed-by-russia-as-trump-envoy-meets-putin/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T19:22:10.000Z",
-      "summary": "Russia released a 74-year-old American citizen who was jailed for allegedly fighting on behalf of Ukraine, as President Vladimir Putin met US envoy Steve Witkoff in St Petersburg for talks.",
+      "title": "How the Best Online Casinos Are Raising the Bar for Customer Experience",
+      "link": "https://ghanaiantimes.com.gh/how-the-best-online-casinos-are-raising-the-bar-for-customer-experience/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-21T22:21:28.000Z",
+      "summary": "Customer experience has shifted from a marketing talking point to the most visible point of difference in online gaming. Brands that once competed on bonus size now compete on how quickly a…",
       "categories": [
-        "International",
-        "Russia",
-        "Trump",
-        "US"
+        "Technology"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2158-1024x576.png",
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘That is a mirage’ – Sam George on foreign cloud data-sovereignty assurances",
+      "link": "https://www.myjoyonline.com/that-is-a-mirage-sam-george-on-foreign-cloud-data-sovereignty-assurances/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T22:21:00.000Z",
+      "summary": "Communication, Digital Technology and Innovations Minister Sam Nartey George has challenged assurances that agreements with foreign cloud providers guarantee control over data.",
+      "categories": [
+        "Technology",
+        "cloud data-sovereignty",
+        "Sam George"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1163.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mustapha Gbande, Joseph Yammin file nominations to retain NDC positions",
-      "link": "https://www.myjoyonline.com/mustapha-gbande-joseph-yammin-file-nominations-to-retain-ndc-positions/",
+      "title": "Black Maidens fight back to hold Brazil in six-goal thriller",
+      "link": "https://www.myjoyonline.com/black-maidens-fight-back-to-hold-brazil-in-six-goal-thriller/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T19:19:42.000Z",
-      "summary": "Deputy General Secretary of the National Democratic Congress (NDC), Mustapha Gbande, and National Organiser Joseph Yammin have filed their nominations to contest for re-election in the…",
+      "published": "2026-10-21T22:10:00.000Z",
+      "summary": "Ghana’s Black Maidens mounted a determined fightback to hold Brazil to a pulsating 3-3 draw on Wednesday night, with Priscilla Mensah striking five minutes from time to deny the South…",
       "categories": [
-        "Politics",
-        "Mustapha Gbande",
-        "NDC",
-        "Yammin"
+        "Football",
+        "HP News 8",
+        "HP Sports 1",
+        "News",
+        "Sports",
+        "Black Maidens",
+        "Brazil",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-7.18.34-PM-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ghana-v-Brazil-FIFA-U17-Women-s-World-Cup-1024x607.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Arrupe Jesuit Institute to strengthen advocacy and youth empowerment",
-      "link": "https://www.myjoyonline.com/arrupe-jesuit-institute-to-strengthen-advocacy-and-youth-empowerment/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T18:58:51.000Z",
-      "summary": "The Arrupe Jesuit Institute (AJI) has outlined plans to expand its advocacy and youth empowerment programmes under a new strategic plan aimed at increasing its impact on Ghanaian society.",
+      "title": "7 Missing Sekondi fishing canoe crew rescued after 12 days; boat drifted into Togolese waters",
+      "link": "https://www.graphic.com.gh/news/general-news/7-member-sekondi-fishing-canoe-members-rescued-in-togolese-waters-after-12-days-of-being-stranded-at-sea-due-to-engine-failure.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T21:08:15.000Z",
+      "summary": "",
       "categories": [
-        "Regional",
-        "Arrupe Jesuit",
-        "Youth development"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261021-WA0200-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2018/may/27/canoe_siphoning.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Court of Appeal dismisses Abronye's bid to halt defamation suit against him, awards GH¢10,000 cost",
+      "link": "https://www.graphic.com.gh/news/general-news/court-of-appeal-dismisses-abronyes-bid-to-halt-defamation-suit-against-him-award-ghc10-000.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-21T20:43:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2017/nov/15/abroye.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Public Accounts Committee visits NPA",
@@ -389,30 +438,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NPA, UMaT explore partnership to advance downstream petroleum development",
-      "link": "https://www.graphic.com.gh/news/general-news/npa-umat-explore-partnership-to-advance-downstream-petroleum-development.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T13:17:02.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/21/UMAT_NPA.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Woman, 19, remanded over stabbing death of boyfriend, 33",
-      "link": "https://www.graphic.com.gh/news/general-news/woman-19-remanded-over-stabbing-death-of-businessman-at-okaikwei.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-21T13:10:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/03/odoyewu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Train local coaches instead of relying on foreign experts – Acting NSA Boss",
       "link": "https://www.graphic.com.gh/sports/sports-news/train-local-coaches-instead-of-relying-on-foreign-experts-acting-nsa-boss.html",
       "source": "Graphic Sports",
@@ -423,18 +448,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/21/PROF.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Fidelity Bank completes 15th school under Orange Impact Initiative",
-      "link": "https://ghanaiantimes.com.gh/fidelity-bank-completes-15th-school-under-orange-impact-initiative/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T07:44:07.000Z",
-      "summary": "FIDELITY Bank Ghana has completed its commitment to build or renovate 15 basic schools in underserved communities across Ghana with the inauguration of newly constructed and renovated…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
