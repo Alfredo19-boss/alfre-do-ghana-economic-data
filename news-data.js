@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-22T17:29:12.407Z",
-  "worldAt": "2026-10-22T17:29:12.403Z",
+  "updated": "2026-10-22T20:44:04.054Z",
+  "worldAt": "2026-10-22T20:44:04.052Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: 0 stories",
+    "Reuters wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,16 +42,37 @@ window.GDC_NEWS = {
     "Africa · Africanews: 31 stories",
     "Africa · BBC Africa: 34 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 3 stories",
+    "Africa · Al Jazeera: 6 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "FAO Targets Youth Financing, Skills for Africa’s Agrifood Industrialisation",
+      "link": "https://thehighstreetjournal.com/fao-targets-youth-financing-skills-for-africas-agrifood-industrialisation/",
+      "source": "The High Street Journal",
+      "published": "2026-10-22T20:40:29.000Z",
+      "summary": "The FAO is urging African governments to expand youth access to finance, land, technology and skills to drive agrifood innovation, entrepreneurship, job creation and sustainable…"
+    },
+    {
+      "title": "Ghana’s hospitals are adopting AI, but the machines were never trained on Ghanaian patients",
+      "link": "https://www.myjoyonline.com/ghanas-hospitals-are-adopting-ai-but-the-machines-were-never-trained-on-ghanaian-patients/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T17:41:37.000Z",
+      "summary": "An algorithm that reads chest X-rays learns by looking at tens of thousands of them. It learns what a normal lung looks like, what tuberculosis looks like, what a tumour looks like, by…"
+    },
     {
       "title": "Ghana needs a dedicated hospitality school to improve standards – Ridge Royal Hotel MD",
       "link": "https://www.myjoyonline.com/ghana-needs-a-dedicated-hospitality-school-to-improve-standards-ridge-royal-hotel-md/",
       "source": "MyJoyOnline",
       "published": "2026-10-22T17:24:31.000Z",
       "summary": "The Managing Director of Ridge Royal Hotel in Cape Coast, Sheila Adjetey-Anum, has called for the establishment of a dedicated hotel school in the country to equip hospitality workers with…"
+    },
+    {
+      "title": "Damang Gold Mine extracts over 12m tonnes in six months as fresh material supplies 60% of plant feed",
+      "link": "https://www.myjoyonline.com/damang-gold-mine-extracts-over-12m-tonnes-in-six-months-as-fresh-material-supplies-60-of-plant-feed/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T17:10:03.000Z",
+      "summary": "Damang Gold Mine Ltd’s Manager in charge of Mining, Frank Dankyi Agyei, says the mine extracted 3.45 million tonnes of material in August, marking a significant increase in production since…"
     },
     {
       "title": "Damang Gold Mine can operate for 15 more years with the right investment – Engineer",
@@ -1074,30 +1095,204 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-19T17:09:57.000Z",
       "summary": "African leaders warn that competition between resource-rich countries is weakening their negotiating position as global demand for critical minerals rises."
-    },
-    {
-      "title": "We must strengthen our financial institutions to fund infrastructure development – Seth Terkper",
-      "link": "https://www.myjoyonline.com/we-must-strengthen-our-financial-institutions-to-fund-infrastructure-development-seth-terkper/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-19T16:54:17.000Z",
-      "summary": "Former Finance Minister and Economic Adviser to the President, John Mahama, Seth Terkper, has called for stronger development finance institutions to support the country’s infrastructure…"
-    },
-    {
-      "title": "Ghana Maritime Authority pushes for integrated digital systems at ports",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-maritime-authority-pushes-for-integrated-digital-systems-at-ports.html",
-      "source": "Graphic Online",
-      "published": "2026-10-19T16:41:16.000Z",
-      "summary": ""
-    },
-    {
-      "title": "KAAF VC Urges Graduates To Turn Ghana’s Job Shortage Into Business Opportunities",
-      "link": "https://thehighstreetjournal.com/kaaf-vc-urges-graduates-to-turn-ghanas-job-shortage-into-business-opportunities/",
-      "source": "The High Street Journal",
-      "published": "2026-10-19T16:33:00.000Z",
-      "summary": "KAAF University Vice Chancellor Alhassan Musah has urged students to embrace entrepreneurship and emerging technologies to create businesses, generate employment and address Ghana’s limited…"
     }
   ],
   "world": [
+    {
+      "title": "New York City ends a classic attraction: Horse-drawn carriages banned over safety and abuse concerns",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-22T20:40:25.000Z",
+      "summary": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/bc84e170-cdf6-11f1-97f7-a7674fb562de.jpg"
+    },
+    {
+      "title": "Thousands gather at final student-led rally ahead of Serbia election",
+      "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T20:21:12.000Z",
+      "summary": "The student movement aims to end Vucic's 14 years of rule at Sunday's vote, as he holds a rival rally across town."
+    },
+    {
+      "title": "Emmy-winning US actor Tom Skerritt, known for ‘Top Gun’ and ‘Picket Fences’, dies at 93",
+      "link": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93",
+      "source": "France 24",
+      "published": "2026-10-22T20:11:54.000Z",
+      "summary": "US actor Tom Skerritt, known for his roles as the doomed caption in 1979's \"Alien\", a tough flight instructor in the 1986 megahit “Top Gun” and who won an Emmy award winner for his work in…",
+      "image": "https://s.france24.com/media/display/491a12d0-ce52-11f1-8d29-8d87bc3aeb3a/w:1024/p:16x9/AP100517146914.jpg"
+    },
+    {
+      "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T20:13:21.000Z",
+      "summary": "Some countries in the region say it infringes on their rights."
+    },
+    {
+      "title": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261022-the-best-on-earth-can-weak-economic-growth-undermine-europe-s-very-sophisticated-social-system",
+      "source": "France 24",
+      "published": "2026-10-22T19:59:12.000Z",
+      "summary": "Can Europe continue to sustain one of the world's most ambitious social models while falling increasingly behind its major economic competitors? For Pascal Lamy, former European…",
+      "image": "https://s.france24.com/media/display/835ccab0-ce51-11f1-a439-23d55109f116/w:1024/p:16x9/capture-a8c86a3d.jpg"
+    },
+    {
+      "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
+      "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T20:05:22.000Z",
+      "summary": "Some of the core issues that drove Trump's US supporters and the MAGA movement are no longer Republican talking points."
+    },
+    {
+      "title": "Curfew imposed in certain areas of Paris every night until Monday morning",
+      "link": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning",
+      "source": "France 24",
+      "published": "2026-10-22T19:48:45.000Z",
+      "summary": "The curfew has been extended in certain areas of Paris, every night from 11:00 p.m. to 6:00 a.m. until Monday morning. The measure has been in force since the violence and looting of the…",
+      "image": "https://s.france24.com/media/display/bc610e72-ce4f-11f1-8150-23d55109f116/w:1024/p:16x9/EN-20261022-210133-211454-CS.jpg"
+    },
+    {
+      "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T19:35:18.000Z",
+      "summary": "How the Turkiye-Libya deal is reshaping the Mediterranean"
+    },
+    {
+      "title": "Israel’s Ben-Gvir shares AI videos mocking Gazans as ‘donkeys’ and sending them to Paris",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261022-israel-s-ben-gvir-shares-ai-videos-mocking-gazans-as-donkeys-and-sending-them-to-paris",
+      "source": "France 24",
+      "published": "2026-10-22T19:38:27.000Z",
+      "summary": "Israel’s far-right minister Itamar Ben-Gvir is using AI-generated videos to mock Palestinians and push political messages ahead of the country’s election, including videos magically…",
+      "image": "https://s.france24.com/media/display/e919d896-ce4e-11f1-bdb8-7967b15eed96/w:1024/p:16x9/thumbnail-icon.png"
+    },
+    {
+      "title": "White evangelical support for Trump slips but still strong as midterms near",
+      "link": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T19:31:47.000Z",
+      "summary": "Poll finds white evangelicals still outpace other demographic groups in supporting Trump, as he rallies right-wing base."
+    },
+    {
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-22T19:27:57.000Z",
+      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/d77c3ae0-ce29-11f1-9f18-490cec60aa0f.jpg"
+    },
+    {
+      "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+      "link": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T19:31:27.000Z",
+      "summary": "Health officials are investigating where Nigeria's first patient, confirmed this week, was infected."
+    },
+    {
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-22T19:25:26.000Z",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d603/live/9c9fdf10-ce4e-11f1-8507-d7f0bcb84e7e.jpg"
+    },
+    {
+      "title": "Vance tells Republicans to 'stop whining' after Ramaswamy attack ad in Ohio governor's race",
+      "link": "https://www.france24.com/en/vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governor-s-race",
+      "source": "France 24",
+      "published": "2026-10-22T19:05:18.000Z",
+      "summary": "US Vice President JD Vance on Wednesday defended an explosive attack ad by Republican Vivek Ramaswamy’s campaign against his Democratic rival in the Ohio governor’s race, telling fellow…",
+      "image": "https://s.france24.com/media/display/4f3c7260-6e36-11f1-8b7f-005056bfb2b6/w:1024/p:16x9/2026-06-22T120629Z-1956265930-RC2ZYLAQ4B63-RTRMADP-3-IRAN-CRISIS-SWISS-MEETING.jpg"
+    },
+    {
+      "title": "Time just changed forever",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T19:00:07.000Z",
+      "summary": "For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world's clocks."
+    },
+    {
+      "title": "Targeted by Trump, International Criminal Court wins top EU rights prize",
+      "link": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
+      "source": "France 24",
+      "published": "2026-10-22T18:55:57.000Z",
+      "summary": "Facing US sanctions, the International Criminal Court was on Thursday awarded the European Union's top rights prize, in a show of support that risks upsetting President Donald Trump. \"The…",
+      "image": "https://s.france24.com/media/display/6a367f22-9b3e-11f1-99ff-005056a97e36/w:1024/p:16x9/000-C4XZ6CV.jpg"
+    },
+    {
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-22T18:26:56.000Z",
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"
+    },
+    {
+      "title": "Young Uganda-based refugees chase their Olympic dream in Senegal",
+      "link": "http://www.africanews.com/2026/10/22/young-uganda-based-refugees-chase-their-olympic-dream-in-senegal/",
+      "source": "Africanews",
+      "published": "2026-10-22T18:21:26.000Z",
+      "summary": "They are among six refugee athletes taking part in Youth Olympic Games which get underway in Dakar on 31 October."
+    },
+    {
+      "title": "Back to the Bolsonaros? Brazil presidential run-off goes down to the wire",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261022-back-to-the-bolsonaros-brazil-presidential-run-off-goes-down-to-the-wire",
+      "source": "France 24",
+      "published": "2026-10-22T18:18:23.000Z",
+      "summary": "Brazil's future within the margin of error ahead of Sunday's presidential runoff: most of the latest polls put the far-right's Flavio Bolsonaro ahead of left-wing incumbent Luiz Inacio Lula…",
+      "image": "https://s.france24.com/media/display/3cce45da-ce40-11f1-89c3-97baf3e9dd31/w:1024/p:16x9/2026-10-18T171708Z-1099997324-RC2S5OACZ9AF-RTRMADP-3-BRAZIL-ELECTION-BOLSONARO.jpg"
+    },
+    {
+      "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+      "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T18:17:29.000Z",
+      "summary": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue."
+    },
+    {
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-22T17:49:13.000Z",
+      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af60/live/691b9580-ce35-11f1-a86f-f78305ec9987.jpg"
+    },
+    {
+      "title": "Trump says NBA star LeBron James disrespected US national anthem",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T18:05:52.000Z",
+      "summary": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem."
+    },
+    {
+      "title": "UN agencies appeal for help to protect weakest nations from super El Niño",
+      "link": "http://www.africanews.com/2026/10/22/un-agencies-appeal-for-help-to-protect-weakest-nations-from-super-el-nino/",
+      "source": "Africanews",
+      "published": "2026-10-22T17:37:12.000Z",
+      "summary": "It said the weather system was a 'wrecking ball' that would bring havoc to Latin America, eastern and southern Africa, Asia, and the Pacific."
+    },
+    {
+      "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+      "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T17:58:04.000Z",
+      "summary": "The US has pushed back on the IRGC's claims, dismissing them as an attempt to increase oil prices ahead of US elections."
+    },
+    {
+      "title": "Scientists turned art detectives date van Gogh's 'Starry Night' to actual night sky in 1889",
+      "link": "https://www.france24.com/en/culture/20261022-scientists-turn-art-detectives-trace-van-gogh-starry-night-actual-night-sky-1889",
+      "source": "France 24",
+      "published": "2026-10-22T17:27:02.000Z",
+      "summary": "A team of South Korean researchers has put forward a new date for the night sky depicted in Dutch painter Vincent van Gogh's famed masterpiece \"The Starry Night\". Art historians have long…",
+      "image": "https://s.france24.com/media/display/e7ef87d4-ce32-11f1-80bd-7967b15eed96/w:1024/p:16x9/AP19084439711449.jpg"
+    },
+    {
+      "title": "US-sanctioned ICC wins top EU human rights award",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T17:46:03.000Z",
+      "summary": "The EU has awarded the International Criminal Court its top human rights award."
+    },
     {
       "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
       "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
@@ -1107,12 +1302,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1f/live/0ab25ae0-ce37-11f1-a86f-f78305ec9987.jpg"
     },
     {
-      "title": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
-      "link": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
-      "source": "France 24",
-      "published": "2026-10-22T16:43:59.000Z",
-      "summary": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came…",
-      "image": "https://s.france24.com/media/display/2ea45b56-c7f7-11f1-a634-d1d2c32ebb87/w:1024/p:16x9/000-D3AQ7YY.jpg"
+      "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+      "link": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T17:40:24.000Z",
+      "summary": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment."
     },
     {
       "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
@@ -1123,11 +1317,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ce2/live/10986490-ce0f-11f1-9f55-cdc56e9c248c.jpg"
     },
     {
-      "title": "Egypt urges political solution to conflict between Saudi Arabia and Houthis",
-      "link": "http://www.africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis/",
-      "source": "Africanews",
-      "published": "2026-10-22T16:36:31.000Z",
-      "summary": "Egypt's Foreign Minister Badr Abdelatty on Thursday said all options must be explored to find a political solution between Saudi Arabia and the Houthis."
+      "title": "Foreign national beaten to death by a mob in South Africa",
+      "link": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T17:35:44.000Z",
+      "summary": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches."
     },
     {
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
@@ -1138,12 +1332,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg"
     },
     {
-      "title": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
-      "link": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
-      "source": "France 24",
-      "published": "2026-10-22T16:36:26.000Z",
-      "summary": "Jean-Emile Jammine is pleased to welcome Federico Donelli, Associate Professor of International Relations in the Department of Political and Social Sciences at the University of Trieste in…",
-      "image": "https://s.france24.com/media/display/5c66a7ce-ce2d-11f1-9d8f-23d55109f116/w:1024/p:16x9/EN-20261022-152144-153307-CS.jpg"
+      "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T17:28:55.000Z",
+      "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare."
     },
     {
       "title": "Race to update services' computer systems after cyber-security flaw found",
@@ -1151,14 +1344,14 @@ window.GDC_NEWS = {
       "source": "BBC News",
       "published": "2026-10-22T17:12:51.000Z",
       "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a1/live/7169fdc0-ce3b-11f1-9a39-31b474234113.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg"
     },
     {
-      "title": "Albanian lawmakers scuffle in parliament as street protests continue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
+      "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-22T16:35:12.000Z",
-      "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks."
+      "published": "2026-10-22T17:25:29.000Z",
+      "summary": "A video of an Israeli soldier throwing a cat over a fence has gone viral online."
     },
     {
       "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
@@ -1169,11 +1362,12 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae81/live/811fe3f0-ce37-11f1-a68f-db480c983a58.jpg"
     },
     {
-      "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T16:34:38.000Z",
-      "summary": "FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028."
+      "title": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+      "link": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
+      "source": "France 24",
+      "published": "2026-10-22T16:43:59.000Z",
+      "summary": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came…",
+      "image": "https://s.france24.com/media/display/2ea45b56-c7f7-11f1-a634-d1d2c32ebb87/w:1024/p:16x9/000-D3AQ7YY.jpg"
     },
     {
       "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
@@ -1184,223 +1378,92 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9299/live/dd5a6440-ce20-11f1-906e-e3128518d85d.jpg"
     },
     {
-      "title": "Swiss and Austrian women in Libya after release from Niger kidnap ordeal",
-      "link": "http://www.africanews.com/2026/10/22/swiss-and-austrian-women-in-libya-after-release-from-niger-kidnap-ordeal/",
+      "title": "Egypt urges political solution to conflict between Saudi Arabia and Houthis",
+      "link": "http://www.africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis/",
       "source": "Africanews",
-      "published": "2026-10-22T16:32:26.000Z",
-      "summary": "The two were kidnapped in separate incidents in Niger, where they were involved in education and development initiatives, more than a year and a half ago."
+      "published": "2026-10-22T16:36:31.000Z",
+      "summary": "Egypt's Foreign Minister Badr Abdelatty on Thursday said all options must be explored to find a political solution between Saudi Arabia and the Houthis."
     },
     {
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-22T16:40:07.000Z",
-      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfb/live/d77c3ae0-ce29-11f1-9f18-490cec60aa0f.jpg"
-    },
-    {
-      "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-      "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T16:24:43.000Z",
-      "summary": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus."
-    },
-    {
-      "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-22T16:16:49.000Z",
-      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"
-    },
-    {
-      "title": "Crowds watch twice-a-year sunrise ceremony at Abu Simbel temple",
-      "link": "http://www.africanews.com/2026/10/22/crowds-watch-twice-a-year-sunrise-ceremony-at-abu-simbel-temple/",
-      "source": "Africanews",
-      "published": "2026-10-22T16:12:55.000Z",
-      "summary": "Tourists flocked to the Abu Simbel temple in Egypt on Thursday to witness a rare astronomical ceremony that has been taking place for thousands of years."
-    },
-    {
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-22T16:15:25.000Z",
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe24/live/7227bf90-ce27-11f1-9f18-490cec60aa0f.png"
-    },
-    {
-      "title": "South Africa crush Australia by an innings to level cricket Test series",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T16:09:44.000Z",
-      "summary": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play."
-    },
-    {
-      "title": "Are the French police the most violent in the EU?",
-      "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-22T16:01:00.000Z",
-      "summary": "As protests continue in France, the French police are under scrutiny after new allegations of police brutality. The force has a bigger arsenal than most in Europe."
-    },
-    {
-      "title": "Israeli attacks in Gaza kill four, including a young girl",
-      "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T16:06:55.000Z",
-      "summary": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes."
-    },
-    {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-22T15:56:36.000Z",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f6f/live/0c562b60-ce2d-11f1-9f18-490cec60aa0f.jpg"
-    },
-    {
-      "title": "Italy and Spain lift border controls after months of tension over Ceuta",
-      "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T16:04:21.000Z",
-      "summary": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc."
-    },
-    {
-      "title": "French shopkeepers fear new looting in upcoming protests",
-      "link": "https://www.france24.com/en/french-shopkeepers-fear-new-looting-in-upcoming-protests",
+      "title": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
+      "link": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
       "source": "France 24",
-      "published": "2026-10-22T15:51:39.000Z",
-      "summary": "In Paris, shopkeepers fear further losses ahead of a demonstration planned for next Saturday. After last weekend’s protests saw scenes of vandalism, some are considering closing their…",
-      "image": "https://s.france24.com/media/display/d62805ac-ce2e-11f1-9a82-23d55109f116/w:1024/p:16x9/EN-Thumbnail-4.jpg"
+      "published": "2026-10-22T16:36:26.000Z",
+      "summary": "Jean-Emile Jammine is pleased to welcome Federico Donelli, Associate Professor of International Relations in the Department of Political and Social Sciences at the University of Trieste in…",
+      "image": "https://s.france24.com/media/display/5c66a7ce-ce2d-11f1-9d8f-23d55109f116/w:1024/p:16x9/EN-20261022-152144-153307-CS.jpg"
     },
     {
-      "title": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
+      "title": "Albanian lawmakers scuffle in parliament as street protests continue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-22T15:35:07.000Z",
-      "summary": "La Liga ⁠chief ⁠Javier Tebas compared Real Madrid's communication to Nazi propaganda and now faces a tribunal in Spain."
-    },
-    {
-      "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-      "link": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin",
-      "source": "France 24",
-      "published": "2026-10-22T15:50:09.000Z",
-      "summary": "Ukraine and Russia exchanged drone and missile strikes on Thursday, killing seven people in Ukraine, according to authorities. Moscow said it had intercepted 630 Ukrainian drones targeting…",
-      "image": "https://s.france24.com/media/display/227bc5ce-ce2f-11f1-afee-7967b15eed96/w:1024/p:16x9/EN-Thumbnail-1-2.jpg"
-    },
-    {
-      "title": "16-year-old Malaysian student attacks his teacher with axe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/16-year-old-malaysian-student-attacks-his-teacher-with-axe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T15:31:58.000Z",
-      "summary": "A 16-year-old Malaysian student attacked his teacher and fellow school pupils with an axe."
-    },
-    {
-      "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
-      "link": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling",
-      "source": "France 24",
-      "published": "2026-10-22T15:43:57.000Z",
-      "summary": "President Donald Trump's push to redistrict congressional maps and a Georgia state election law disproportionately affecting African Americans are aimed at diluting the power of the Black…",
-      "image": "https://s.france24.com/media/display/53dec772-cdfa-11f1-aa3e-97baf3e9dd31/w:1024/p:16x9/protest-BlackVote.jpg"
-    },
-    {
-      "title": "French weekend protests to be limited to union demos only, says Macron",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-22T15:22:48.000Z",
-      "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab2/live/fa874350-cdfb-11f1-97f7-a7674fb562de.jpg"
-    },
-    {
-      "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
-      "source": "France 24",
-      "published": "2026-10-22T15:40:42.000Z",
-      "summary": "Concerns are mounting as Ethiopia and Eritrea inch closer to war. With Ethiopia now having taken control of the border town of Zalambessa, the fear is that Prime Minister Abiy Ahmed will…",
-      "image": "https://s.france24.com/media/display/0a98b6ee-ce19-11f1-8fb6-97baf3e9dd31/w:1024/p:16x9/capture-6186ba6e.jpg"
-    },
-    {
-      "title": "EU awards top rights prize to International Criminal Court",
-      "link": "http://www.africanews.com/2026/10/22/eu-awards-top-rights-prize-to-international-criminal-court/",
-      "source": "Africanews",
-      "published": "2026-10-22T15:22:42.000Z",
-      "summary": "Facing US sanctions, the International Criminal Court was on Thursday awarded the European Union's top rights prize, the Sakharov prize, in a show of support that risks upsetting President…"
-    },
-    {
-      "title": "French students demonstrate again, despite school holidays",
-      "link": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
-      "source": "France 24",
-      "published": "2026-10-22T15:37:39.000Z",
-      "summary": "The French \"interfac\" student movement organised new protests on Thursday, even though it is currently the school holidays in France. Student representatives are set to meet soon with…",
-      "image": "https://s.france24.com/media/display/24fb9b58-ce2a-11f1-98a6-23d55109f116/w:1024/p:16x9/EN-20261022-150642-150910-CS.jpg"
-    },
-    {
-      "title": "France: Artists and collectors gather at Art Basel Paris despite unrest",
-      "link": "http://www.africanews.com/2026/10/22/france-artists-and-collectors-gather-at-art-basel-paris-despite-unrest/",
-      "source": "Africanews",
-      "published": "2026-10-22T15:15:33.000Z",
-      "summary": "Art Basel Paris brings international galleries and contemporary artists to the Grand Palais. But following violent protests in the capital, organisers have stepped up security around the…"
-    },
-    {
-      "title": "Reports show US and Israel are planning new strikes on Iran",
-      "link": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
-      "source": "France 24",
-      "published": "2026-10-22T15:34:34.000Z",
-      "summary": "Reports claim that the US and Israel have ramped up military drills and planned new strikes in Iran, potentially targeting energy sites, drone facilities and missile arsenals. Details by…",
-      "image": "https://s.france24.com/media/display/fe660f46-ce29-11f1-adff-3f59e19fd7f8/w:1024/p:16x9/capture-d432d452.jpg"
-    },
-    {
-      "title": "From the streets to the ballot box: Serbia’s students hope for election win",
-      "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T15:13:34.000Z",
-      "summary": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power."
-    },
-    {
-      "title": "Italian truckers block roads to protest against soaring diesel prices",
-      "link": "https://www.france24.com/en/video/20261022-italian-truckers-block-roads-to-protest-against-soaring-diesel-prices",
-      "source": "France 24",
-      "published": "2026-10-22T15:31:04.000Z",
-      "summary": "Italian truck drivers have been blocking refineries and key roads to protest against soaring diesel prices. Italy’s government has warned truckers blocking roads could face criminal…",
-      "image": "https://s.france24.com/media/display/d973d77e-ce2c-11f1-88bb-23d55109f116/w:1024/p:16x9/capture-df3e48d0.jpg"
-    },
-    {
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-22T15:11:49.000Z",
-      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/e6483970-ce29-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "title": "Fatal Custody",
-      "link": "https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T15:08:32.000Z",
-      "summary": "Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored."
-    },
-    {
-      "title": "Guinea's ex-Constitutional Court president sentenced to seven years in jail",
-      "link": "http://www.africanews.com/2026/10/22/guineas-ex-constitutional-court-president-sentenced-to-seven-years-in-jail/",
-      "source": "Africanews",
-      "published": "2026-10-22T15:06:21.000Z",
-      "summary": "Mohamed Lamine Bangoura was found guilty of illicit enrichment, corruption, embezzlement of public funds, and money laundering."
-    },
-    {
-      "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
-      "link": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T15:07:38.000Z",
-      "summary": "Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive."
-    },
-    {
-      "title": "Germany: Humanoid robots and AI supercomputers take centre stage in Berlin",
-      "link": "http://www.africanews.com/2026/10/22/germany-humanoid-robots-and-ai-supercomputers-take-centre-stage-in-berlin/",
-      "source": "Africanews",
-      "published": "2026-10-22T15:01:43.000Z",
-      "summary": "Humanoid robots, intelligent machines and powerful supercomputers take centre stage at Nvidia's Berlin event. CEO Jensen Huang predicted a thriving AI economy in Europe."
+      "published": "2026-10-22T16:35:12.000Z",
+      "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks."
     }
   ],
   "africa": [
+    {
+      "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T20:13:21.000Z",
+      "summary": "Some countries in the region say it infringes on their rights."
+    },
+    {
+      "title": "Young Uganda-based refugees chase their Olympic dream in Senegal",
+      "link": "http://www.africanews.com/2026/10/22/young-uganda-based-refugees-chase-their-olympic-dream-in-senegal/",
+      "source": "Africanews",
+      "published": "2026-10-22T18:21:26.000Z",
+      "summary": "They are among six refugee athletes taking part in Youth Olympic Games which get underway in Dakar on 31 October."
+    },
+    {
+      "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T19:35:18.000Z",
+      "summary": "How the Turkiye-Libya deal is reshaping the Mediterranean"
+    },
+    {
+      "title": "Liberia: Koung Calls for Common African Minerals Policy to Boost Local Processing",
+      "link": "https://allafrica.com/stories/202610220574.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-22T17:47:07.000Z",
+      "summary": "[Liberian Observer] Vice President Jeremiah K. Koung has called on African countries to adopt a common minerals policy that promotes local processing, strengthens regional cooperation and…"
+    },
+    {
+      "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+      "link": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T19:31:27.000Z",
+      "summary": "Health officials are investigating where Nigeria's first patient, confirmed this week, was infected."
+    },
+    {
+      "title": "Liberia: MCSS Supt. Cites Volunteer Teachers' Payroll Integration, Salary Dispute in School Shutdown",
+      "link": "https://allafrica.com/stories/202610220575.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-22T17:47:07.000Z",
+      "summary": "[Liberian Observer] The Superintendent of the Monrovia Consolidated School System (MCSS), Dr. Augurie E. Stevens, has identified the integration of volunteer teachers into the payroll…"
+    },
+    {
+      "title": "UN agencies appeal for help to protect weakest nations from super El Niño",
+      "link": "http://www.africanews.com/2026/10/22/un-agencies-appeal-for-help-to-protect-weakest-nations-from-super-el-nino/",
+      "source": "Africanews",
+      "published": "2026-10-22T17:37:12.000Z",
+      "summary": "It said the weather system was a 'wrecking ball' that would bring havoc to Latin America, eastern and southern Africa, Asia, and the Pacific."
+    },
+    {
+      "title": "Liberia: Boakai to Commission LPRC Petroleum Lab",
+      "link": "https://allafrica.com/stories/202610220573.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-22T17:47:06.000Z",
+      "summary": "[Liberian Observer] President Joseph Nyuma Boakai Sr. is expected to commission a newly completed petroleum testing laboratory at the Liberia Petroleum Refining Company (LPRC) on Monday…"
+    },
+    {
+      "title": "Foreign national beaten to death by a mob in South Africa",
+      "link": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T17:35:44.000Z",
+      "summary": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches."
+    },
     {
       "title": "Egypt urges political solution to conflict between Saudi Arabia and Houthis",
       "link": "http://www.africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis/",
@@ -1619,69 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-22T12:22:05.000Z",
       "summary": "[Premium Times] The announcement has triggered scepticism among some Nigerians online, with some questioning whether the case could be connected to political activities ahead of the 2027…"
-    },
-    {
-      "title": "Tunisia: President Saïed - 'Agriculture Pillar of National Security and Soveignty' [update1]",
-      "link": "https://allafrica.com/stories/202610220360.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-22T11:32:54.000Z",
-      "summary": "[Tunis Afrique Presse] Tunis -- President of the Republic Kaïs Saïed received Wednesday in Carthage Minister of Agriculture, Water Resources and Fisheries Ezzedine Ben Cheikh, the…"
-    },
-    {
-      "title": "Kenya: Mudavadi Calls for Accountability, Fairer Global Institutions to Rebuild Public Confidence",
-      "link": "https://allafrica.com/stories/202610220384.html",
-      "source": "AllAfrica",
-      "published": "2026-10-22T11:44:51.000Z",
-      "summary": "[Capital FM] Nairobi -- Kenya's Prime Cabinet Secretary Musalia Mudavadi has called for stronger accountability, inclusive governance and more representative international institutions…"
-    },
-    {
-      "title": "Ghana: GCB Bank Hosts Investor Seminar to Strengthen Ghana-Asia Trade, Investment Links",
-      "link": "https://allafrica.com/stories/202610220350.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-22T11:17:47.000Z",
-      "summary": "[Ghanaian Times] GCB Bank, Ghana's number one bank, has brought together business leaders, prospective investors and key investment institutions at the GCB Afro-Asia Investor Seminar…"
-    },
-    {
-      "title": "Nigeria: When Is the 2027 Election?",
-      "link": "https://allafrica.com/stories/202610220358.html",
-      "source": "AllAfrica",
-      "published": "2026-10-22T11:26:55.000Z",
-      "summary": "[Vanguard] Nigeria's 2027 presidential and National Assembly elections will hold on Saturday, January 16, while governorship and State Houses of Assembly elections are scheduled for…"
-    },
-    {
-      "title": "Ghana: Subri Forest Reserve Under Siege · 20 Suspected Illegal Miners Arrested in FC Crackdown",
-      "link": "https://allafrica.com/stories/202610220348.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-22T11:13:50.000Z",
-      "summary": "[Ghanaian Times] Takoradi -- THE Forestry Commission (FC) has arrested 20 suspected illegal miners during a surprise operation at the Subri Forest Reserve at Essaman in the Wassa East…"
-    },
-    {
-      "title": "Tanzania: Accurate Data Key to Tsetse Fly Control",
-      "link": "https://allafrica.com/stories/202610220344.html",
-      "source": "AllAfrica",
-      "published": "2026-10-22T11:11:09.000Z",
-      "summary": "[Daily News] Arusha -- ACCURATE data collection is essential to strengthening efforts to control tsetse flies in Africa, helping experts establish the extent of infestation, develop…"
-    },
-    {
-      "title": "Tanzania: Africa Urged to Finance Own Mineral Development",
-      "link": "https://allafrica.com/stories/202610220342.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-22T11:10:18.000Z",
-      "summary": "[Daily News] Accra -- TANZANIA has urged African countries to reduce reliance on foreign aid and mobilise domestic resources to finance strategic mining projects, including mineral…"
-    },
-    {
-      "title": "Liberia: Govt Validates National Priorities to Secure MCC Compact Eligibility",
-      "link": "https://allafrica.com/stories/202610220328.html",
-      "source": "AllAfrica",
-      "published": "2026-10-22T11:00:49.000Z",
-      "summary": "[Liberian Observer] The Government of Liberia has intensified efforts to sustain the country's eligibility under the Millennium Challenge Corporation (MCC) framework, as the Ministry of…"
-    },
-    {
-      "title": "Tanzania: TZ Woos Agribusiness Investors",
-      "link": "https://allafrica.com/stories/202610220338.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-22T11:09:01.000Z",
-      "summary": "[Daily News] PRIME Minister Dr Mwigulu Nchemba has urged investors to tap Tanzania's agricultural potential, highlighting opportunities across the value chain and access to a regional…"
     }
   ]
 };

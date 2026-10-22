@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-22T17:29:31.687Z",
+  "updated": "2026-10-22T20:44:14.908Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,40 +25,201 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana needs a dedicated hospitality school to improve standards – Ridge Royal Hotel MD",
-      "link": "https://www.myjoyonline.com/ghana-needs-a-dedicated-hospitality-school-to-improve-standards-ridge-royal-hotel-md/",
+      "title": "Mineworkers’ Union denies Land Ministry’s claim of consultation on contract mining",
+      "link": "https://www.myjoyonline.com/mineworkers-union-denies-land-ministrys-claim-of-consultation-on-contract-mining/",
       "source": "MyJoyOnline",
-      "published": "2026-10-22T17:24:31.000Z",
-      "summary": "The Managing Director of Ridge Royal Hotel in Cape Coast, Sheila Adjetey-Anum, has called for the establishment of a dedicated hotel school in the country to equip hospitality workers with…",
+      "published": "2026-10-22T20:38:05.000Z",
+      "summary": "The Ghana Mineworkers’ Union (GMWU) has rejected claims by the Ministry of Lands and Natural Resources that it has held extensive consultations with the Union over the government’s…",
       "categories": [
-        "Business",
-        "Travel and Tourism",
-        "Cape Coast",
-        "Hospitality",
-        "Hotel",
-        "iNTTA Expo",
-        "Royal Ridge Hotel",
-        "Sheila Adjetey-Annum",
-        "Tourism"
+        "News",
+        "Contract",
+        "Land Ministry",
+        "Mineworkers union"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-3.31.14-PM-1024x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-15.37.54-1024x557.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obuasi SHTS headmaster says rape accuser is 20 to 21, has a child",
-      "link": "https://www.myjoyonline.com/obuasi-shts-headmaster-says-rape-accuser-is-20-to-21-has-a-child/",
+      "title": "Ghana Embassy in Abidjan visits detained citizens, promises consular and legal support",
+      "link": "https://www.myjoyonline.com/ghana-embassy-in-abidjan-visits-detained-citizens-promises-consular-and-legal-support/",
       "source": "MyJoyOnline",
-      "published": "2026-10-22T17:13:17.000Z",
-      "summary": "Suspended Obuasi Senior High Technical School (SHTS) Headmaster, Zakaria Abdulai, has revealed that the girl who accused him of rape is between 20 and 21 years old and has a child.",
+      "published": "2026-10-22T20:33:27.000Z",
+      "summary": "The Ghana Embassy in Abidjan has visited Ghanaian citizens detained at the Abidjan Penitentiary Pole Prison in Côte d’Ivoire to assess their welfare and provide consular support. The…",
+      "categories": [
+        "Africa",
+        "National",
+        "Abidjan",
+        "consular",
+        "detained citizens",
+        "Ghana Embassy",
+        "legal support"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/PHOTO-2026-10-22-15-35-31.jpg-732x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VRA to defend UG Corporate Tennis Championship title",
+      "link": "https://www.graphic.com.gh/sports/sports-news/vra-to-defend-ug-corporate-tennis-championship-title.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-22T20:32:30.000Z",
+      "summary": "GOIL Ghana, Stanbic Bank Ghana and the Ghana Civil Aviation Authority are set to challenge for the trophy. The championship starts at 8 a.m. at the University of Ghana Tennis Court, with…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/corpy26.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana Prisons Service trains recruits in Cell Extraction Techniques",
+      "link": "https://www.myjoyonline.com/ghana-prisons-service-trains-recruits-in-cell-extraction-techniques/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T20:05:31.000Z",
+      "summary": "The Security and Operations Unit of the Ghana Prisons Service has organised a Cell Extraction Technique (CET) training exercise for recruits undergoing training at the Prisons Officers…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "Cell Extraction Techniques",
+        "Ghana Prisons Service",
+        "Recruits"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/857937927_1708056753627650_3281467591277644679_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Seven Ghanaian fishermen rescued after drifting into Togo and Benin waters",
+      "link": "https://www.myjoyonline.com/seven-ghanaian-fishermen-rescued-after-drifting-into-togo-and-benin-waters/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T20:00:34.000Z",
+      "summary": "The seven fishermen who went missing at sea for two weeks have finally returned home after living through a terrifying ordeal.",
+      "categories": [
+        "National",
+        "Fishermen"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/fishermenback5-696x392-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS headmaster assault linked to alleged fetus burial, not sexual abuse – Apaak",
+      "link": "https://www.myjoyonline.com/obuasi-shts-headmaster-assault-linked-to-alleged-fetus-burial-not-sexual-abuse-apaak/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T19:57:14.000Z",
+      "summary": "Deputy Education Minister Dr Clement Apaak has clarified that an earlier incident involving the headmaster of Obuasi Senior High Technical School (SHTS) concerned allegations of a fetus…",
       "categories": [
         "Education",
         "National",
-        "Obuasi SHTS Headmaster",
-        "Rape accusation",
-        "Zakaria Abdulai"
+        "fetus burial",
+        "Obuasi SHTS",
+        "Sexual abuse"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1015202640045-m5htk8v331-mg-1-660x424-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-23-1.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘ECOWAS For All’ campaign heads to Makola Market to educate traders on cross-border trade",
+      "link": "https://www.myjoyonline.com/ecowas-for-all-campaign-heads-to-makola-market-to-educate-traders-on-cross-border-trade/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T19:51:20.000Z",
+      "summary": "The Ministry of Foreign Affairs will take its “ECOWAS For All” public sensitisation campaign to the Makola Market in Accra on Friday, October 23, to educate traders and other business…",
+      "categories": [
+        "National",
+        "ECOWAS for All",
+        "Makola Market",
+        "Traders"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Makola-Market-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VRA to defend UG Corporate Tennis Championship Title",
+      "link": "https://www.myjoyonline.com/vra-to-defend-ug-corporate-tennis-championship-title/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T19:46:12.000Z",
+      "summary": "The championship starts at 8:00 am on the University of Ghana Tennis Court, with the corporate teams competing for supremacy.",
+      "categories": [
+        "Football",
+        "Sports",
+        "UG Corporate Tennis Championship",
+        "Volta River Authority",
+        "VRA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-18.51.46-819x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ministry of Education creates direct reporting channels for sexual abuse complaints after Obuasi SHTS case",
+      "link": "https://www.myjoyonline.com/ministry-of-education-creates-direct-reporting-channels-for-sexual-abuse-complaints-after-obuasi-shts-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T19:45:32.000Z",
+      "summary": "The Ministry of Education is creating direct reporting channels, including a hotline, to allow students, parents, teachers and community members to report sexual abuse in schools without…",
+      "categories": [
+        "Education",
+        "National",
+        "GES",
+        "Obuasi SHTS",
+        "Sexual abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-22-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Black Stars Start AFCON Qualifying Bottom of Group C",
+      "link": "https://ghanaiantimes.com.gh/the-black-stars-start-afcon-qualifying-bottom-of-group-c/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T18:52:06.000Z",
+      "summary": "One might think that the path to the next AFCON for the Black Stars had started very elegantly with a couple of losses in five days. Right now, the Black Stars find themselves at the bottom…",
+      "categories": [
+        "Technology"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/image-44-1024x576.png",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "How Smart Contracts Are Making Casino Transactions Faster and More Transparent",
+      "link": "https://ghanaiantimes.com.gh/how-smart-contracts-are-making-casino-transactions-faster-and-more-transparent/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T18:43:07.000Z",
+      "summary": "A payment is being checked on a phone while its owner waits for a train, but the confirmation screen shows no sign of progress. In online gaming, smart contracts can automate transaction…",
+      "categories": [
+        "Technology"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Let’s see how Asiedu Nketiah climbs up the 'political ladder' now with 'his ardent enemies' - Koku Anyidoho writes",
+      "link": "https://www.graphic.com.gh/news/politics/lets-see-how-asiedu-nketiah-climbs-up-the-political-ladder-with-some.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-22T17:45:03.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2018/nov/15/asiedu_koku.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Minority Women’s Caucus demands independent inquiry into Obuasi SHTS sexual abuse allegations",
+      "link": "https://www.graphic.com.gh/news/general-news/minority-womens-caucus-demands-independent-inquiry-into-obuasi-shts-abuse-allegations.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-22T17:38:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Asiedu Nketiah not seeking re-election – Otokunor",
+      "link": "https://www.graphic.com.gh/news/politics/asiedu-nketiah-not-seeking-re-election-dr-otokunor.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-22T17:25:49.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Seven missing Ghanaian fishers arrive at Tema Naval Command after two-week ordeal",
@@ -73,22 +234,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Gender Ministry rolls out free breast and medical screening for Civil Service Staff",
-      "link": "https://www.myjoyonline.com/gender-ministry-rolls-out-free-breast-and-medical-screening-for-civil-service-staff/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T17:09:54.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection (MoGCSP) has commenced a free breast and medical screening exercise for Civil Service staff as part of activities marking Breast…",
-      "categories": [
-        "Health",
-        "National",
-        "breast and medical screening",
-        "Civil Service Staff",
-        "Gender Ministry"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/859766434_2151119658833849_6722219089466719809_n-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana's Cynthia Kwabi set for African Table Tennis Championships in Morocco",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghanas-cynthia-kwabi-set-for-african-table-tennis-championships-in-morocco.html",
       "source": "Graphic Sports",
@@ -99,22 +244,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/22/CYNTHIA.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Damang Gold Mine can operate for 15 more years with the right investment – Engineer",
-      "link": "https://www.myjoyonline.com/damang-gold-mine-can-operate-for-15-more-years-with-the-right-investment-engineer/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T17:03:59.000Z",
-      "summary": "Mechanical engineer and certified inspecting engineer Obed Asamoah has expressed confidence in the future of Damang Gold Mine, saying the mine could remain operational for at least 15 more…",
-      "categories": [
-        "Mining",
-        "National",
-        "Regional",
-        "Damang gold mine",
-        "Obed Asamoah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2215.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Achimota Golf Club Ladies raise GH¢96,960 for breast cancer equipment at Korle Bu",
@@ -139,70 +268,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/22/DAVID.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Cape Coast has more to offer tourists beyond its castles – Ridge Royal MD",
-      "link": "https://www.myjoyonline.com/cape-coast-has-more-to-offer-tourists-beyond-its-castles-ridge-royal-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T16:51:20.000Z",
-      "summary": "The Managing Director of Ridge Royal Hotel in Cape Coast, Sheila Adjetey-Anum, says the Central Region has more tourism opportunities to offer visitors beyond its historic castles and forts.",
-      "categories": [
-        "National",
-        "News",
-        "Cape Coast",
-        "Sheila Adjetey-Annum",
-        "Tourism"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/SbKImzCy1B3V7WIoo1aKEP15uW6R6YMgVYLK0wxsgd1o_CYlybcse5KZ8-3VhGchVu7lt0XY8eTfDdn-NVQhxa7S0MjV5sUWqQxSe3HRdd1Ekm7UJgDmBZeX9h_P_T2P7CQihZOQezlpSG_h1D9QW9QMXDQY7yxBW9xueH_lEdttv_WRGoIMbqRg-V5w8UOQ.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Atwima Mponua records 139 new HIV infections, second highest in Ashanti Region",
-      "link": "https://www.myjoyonline.com/atwima-mponua-records-139-new-hiv-infections-second-highest-in-ashanti-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T16:50:27.000Z",
-      "summary": "The Atwima Mponua District has recorded 139 new HIV infections, making it the second highest in the Ashanti Region after the Kumasi Metropolitan Assembly.",
-      "categories": [
-        "Health",
-        "Regional",
-        "Ashanti Region",
-        "Atwima Mponua",
-        "HIV infections"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2196-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sex therapist calls for national sexuality education policy in Ghana",
-      "link": "https://www.myjoyonline.com/sex-therapist-calls-for-national-sexuality-education-policy-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T16:40:50.000Z",
-      "summary": "A US-trained sex therapist, Joshua Kwame Yeboah, has called on the government and stakeholders to develop a national sexuality education policy to address gaps in public understanding and…",
-      "categories": [
-        "Education",
-        "national sexuality",
-        "Policy",
-        "sex therapy"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_7788.JPG-1-1024x383.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Protect vulnerable girls, not GES reputation – Dr Kwabena Tandoh",
-      "link": "https://www.myjoyonline.com/protect-vulnerable-girls-not-ges-reputation-dr-kwabena-tandoh/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T16:35:09.000Z",
-      "summary": "Former Deputy Director-General of the Ghana Education Service (GES), Dr Kwabena B. Tandoh, has urged educational leaders to prioritise protecting vulnerable girls in schools rather than…",
-      "categories": [
-        "Education",
-        "HP News 9",
-        "National",
-        "GES",
-        "Girls",
-        "Kwabena Tandoh"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-16.43.37-1024x910.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "US confirmed as host of inaugural Women’s Club World Cup in 2028",
@@ -277,16 +342,17 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Gbande, Yammin seek re-election in NDC National Executive Elections",
-      "link": "https://www.graphic.com.gh/news/politics/gbande-yammin-seek-re-election-in-ndc-national-executive-elections.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-22T15:20:52.000Z",
-      "summary": "",
+      "title": "Mining companies urged to comply with country’s laws",
+      "link": "https://ghanaiantimes.com.gh/mining-companies-urged-to-comply-with-countrys-laws/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T14:57:29.000Z",
+      "summary": "THE Minister of Environment, Science and Technology (MEST), Dr Zanetor Agyeman-Rawlings, has urged mining companies to comply with laws and regulations governing the extractive industry to…",
       "categories": [
-        "Politics"
+        "Hot!",
+        "News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/"
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "'Debibi United pitch is for cassava plantation, not football' – Gold Stars coach after defeat",
@@ -313,71 +379,11 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "NDC Volta Regional aspirants pledge financial strength and grassroots mobilisation",
-      "link": "https://www.graphic.com.gh/news/politics/ndc-volta-regional-aspirants-pledge-financial-strength-and-grassroots-mobilisation.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-22T14:09:20.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "New Hepatitis B drug approved by US FDA offers patients a chance to ditch lifelong medication",
-      "link": "https://www.graphic.com.gh/news/general-news/new-hepatitis-b-drug-approved-by-us-fda-offers-patients-a-chance-to-ditch-lifelong-medication.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-22T13:39:39.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/hepbee.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Forget 2027 AFCON, 2030 World Cup to rebuild Black Stars – Nii Lante Vanderpuy",
-      "link": "https://www.graphic.com.gh/sports/sports-news/forget-2027-afcon-2030-world-cup-to-rebuild-black-stars-nii-lante-vanderpuy.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T13:03:11.000Z",
-      "summary": "Vanderpuye also criticised the composition of the current Black Stars squad, describing it as a mixture of players assembled without sufficient continuity. “The current Black Stars team is…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/22/NII_LANTE.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "CHASS backs sanctions for staff misconduct in schools",
-      "link": "https://ghanaiantimes.com.gh/chass-backs-sanctions-for-staff-misconduct-in-schools/",
+      "title": "Veteran actor and broadcaster, Seth Kwame Dzokoto dead",
+      "link": "https://ghanaiantimes.com.gh/veteran-actor-and-broadcaster-seth-kwame-dzokoto-dead/",
       "source": "Ghanaian Times",
-      "published": "2026-10-22T10:26:27.000Z",
-      "summary": "THE Conference of Heads of Assisted Secondary Schools (CHASS) has reaffirmed its commitment to ensuring the safety and protection of students, pledging to support sanctions against any…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GIPA targets investment growth in northern regions",
-      "link": "https://ghanaiantimes.com.gh/gipa-targets-investment-growth-in-northern-regions/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T10:24:05.000Z",
-      "summary": "NORTHERN Ghana is emerging as a promising investment destination, with 128 project profiles from the five northern regions among more than 600 received nationwide, the Chief Executive…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Local languages key to fighting disinformation – Report",
-      "link": "https://ghanaiantimes.com.gh/local-languages-key-to-fighting-disinformation-report/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T10:20:09.000Z",
-      "summary": "A NEW report on disinformation in Ghana has urged the government, media organisations and researchers to prioritise local languages in developing artificial intelligence (AI) tools and…",
+      "published": "2026-10-22T14:18:43.000Z",
+      "summary": "Management and staff of Owass FM have announced the passing of media personality, comedian and politician Seth Kwame Dzokoto following a medical emergency during a live morning show…",
       "categories": [
         "News"
       ],
@@ -385,63 +391,55 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "India Fest to showcase culture, strengthen Ghana-India ties",
-      "link": "https://ghanaiantimes.com.gh/india-fest-to-showcase-culture-strengthen-ghana-india-ties/",
+      "title": "AG appeals against suspension of Republic v Hanan Aludiba & Faiza Seidu trial",
+      "link": "https://ghanaiantimes.com.gh/ag-appeals-against-suspension-of-republic-v-hanan-aludiba-faiza-seidu-trial/",
       "source": "Ghanaian Times",
-      "published": "2026-10-22T10:17:06.000Z",
-      "summary": "DANCE, music and food from across India will take centre stage at the Accra Sports Stadium on Saturday, October 24, as the Indian High Commission hosts the fourth edition of India Fest…",
+      "published": "2026-10-22T12:46:02.000Z",
+      "summary": "The State through the Attorney General (AG) has filed an appeal at the Supreme Court challenging the suspension of the trial in the case of The Republic v Hanan Aludiba and Faiza Seidu. On…",
       "categories": [
+        "Hot!",
         "News"
       ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GTA warns against excessive pricing ahead of December in GH",
-      "link": "https://ghanaiantimes.com.gh/gta-warns-against-excessive-pricing-ahead-of-december-in-gh/",
+      "title": "Ghana strengthens Ebola surveillance following reported cases in DRC, Kenya and Nigeria",
+      "link": "https://ghanaiantimes.com.gh/ghana-strengthens-ebola-surveillance-following-reported-cases-in-drc-kenya-and-nigeria/",
       "source": "Ghanaian Times",
-      "published": "2026-10-22T10:12:20.000Z",
-      "summary": "THE Ghana Tourism Authority (GTA) has urged tourism operators, event organisers and sponsors to prioritise local talent, improve service delivery and adopt responsible pricing as Ghana…",
+      "published": "2026-10-22T12:44:19.000Z",
+      "summary": "The Ministry of Health has announced enhanced surveillance and preparedness measures following reports of Ebola cases in the Democratic Republic of the Congo (DRC), Kenya and Nigeria. In a…",
       "categories": [
+        "Hot!",
         "News"
       ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "GETFund donates textbooks, exercise books to 4 Central Region SHSs",
-      "link": "https://ghanaiantimes.com.gh/getfund-donates-textbooks-exercise-books-to-4-central-region-shss/",
+      "title": "NDC closes nominations for 2026 National Executive Elections as 137 aspirants pick forms",
+      "link": "https://ghanaiantimes.com.gh/ndc-closes-nominations-for-2026-national-executive-elections-as-137-aspirants-pick-forms/",
       "source": "Ghanaian Times",
-      "published": "2026-10-22T10:08:45.000Z",
-      "summary": "THE Ghana Education Trust Fund (GETFund), through its Education Financing and Partnership Initiative (EFPI), has donated textbooks and exercise books to four senior high schools in the…",
+      "published": "2026-10-22T12:42:18.000Z",
+      "summary": "The National Democratic Congress (NDC) has closed nominations for its 2026 National Executive Elections, with 137 prospective aspirants picking nomination forms to contest 14 positions. In…",
       "categories": [
+        "Hot!",
         "News"
       ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Dragons fend off Panthers to secure RLFG Men’s 13s Championship final spot",
-      "link": "https://ghanaiantimes.com.gh/dragons-fend-off-panthers-to-secure-rlfg-mens-13s-championship-final-spot-2/",
+      "title": "GNFS educates PCE freshers on fire safety",
+      "link": "https://ghanaiantimes.com.gh/gnfs-educates-pce-freshers-on-fire-safety/",
       "source": "Ghanaian Times",
-      "published": "2026-10-22T09:52:42.000Z",
-      "summary": "DRAGONS RLFC confirmed their place in the final of the 2026 Rugby League Federation Ghana (RLFG) Men’s 13s Championship with a spirited 30–22 victory over Accra Panthers in the playoff game…",
+      "published": "2026-10-22T12:40:51.000Z",
+      "summary": "The Akropong Fire Station has engaged first-year students of the Presbyterian College of Education, Akropong-Akuapem, in fire safety education. The education formed part of the College’s…",
       "categories": [
+        "Hot!",
         "News"
       ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "WAFU B U17: 10-man Black Starlets fall to Cote d’Ivoire in semi-final",
-      "link": "https://ghanaiantimes.com.gh/wafu-b-u17-10-man-black-starlets-fall-to-cote-divoire-in-semi-final/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T09:51:32.000Z",
-      "summary": "THE Black Starlets suffered a narrow 1-0 defeat to Cote d’Ivoire in the semi-finals of the 2026 WAFU Zone B U17 Championship on Tuesday, ending their hopes of qualifying for the 2027 U17…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     }
   ]
