@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-22T01:52:45.418Z",
+  "updated": "2026-10-22T06:41:49.212Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,126 +25,192 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘Ghana must not miss the AI train’ – Zipline Ghana Director",
-      "link": "https://www.myjoyonline.com/ghana-must-not-miss-the-ai-train-zipline-ghana-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T00:17:17.000Z",
-      "summary": "Ghana cannot afford to miss the opportunities presented by artificial intelligence (AI), the Country Director of Zipline Ghana, Daniel Kwaku Merk, has warned, saying the consequences of…",
+      "title": "B’ Faso parliament votes to restore death penalty",
+      "link": "https://ghanaiantimes.com.gh/b-faso-parliament-votes-to-restore-death-penalty/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T06:40:43.000Z",
+      "summary": "THE parliament in the West African junta-run nation of Burkina Faso has adopted a new penal code reinstating the death penalty for crimes including terrorism, espionage and treason…",
       "categories": [
-        "News",
-        "Technology",
-        "Ghana",
-        "Health",
-        "Zipline"
+        "Africa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Country-Director-of-Zipline-Ghana-Mr-Daniel-Kwaku-Merki.png",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Africa holds Ebola crisis summit as Nigeria records first case",
+      "link": "https://ghanaiantimes.com.gh/africa-holds-ebola-crisis-summit-as-nigeria-records-first-case/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T06:36:00.000Z",
+      "summary": "AFRICAN health ministers were invited yesterday to an “extraordinary virtual meeting” to discuss the spread of Ebola after Nigeria reported its first case of the disease that has claimed…",
+      "categories": [
+        "Africa",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Housing deficit: Time to turn plans into homes",
+      "link": "https://ghanaiantimes.com.gh/housing-deficit-time-to-turn-plans-into-homes/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T06:32:11.000Z",
+      "summary": "GHANA’S housing deficit, estimated at 1.83 million units, is a stark reminder of one of the country’s most pressing social and economic challenges. For thousands of families, finding a…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Missing fishermen rescued off Volta Region coast",
+      "link": "https://ghanaiantimes.com.gh/missing-fishermen-rescued-off-volta-region-coast/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T06:28:25.000Z",
+      "summary": "“Second Chance”, the canoe which went missing with a crew of seven on October 9, has been found around the Adina waters in the Volta Region, close to the Togo maritime space. They have been…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prosecute persons who threaten land defenders — A Rocha Ghana",
+      "link": "https://ghanaiantimes.com.gh/prosecute-persons-who-threaten-land-defenders-a-rocha-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T06:24:32.000Z",
+      "summary": "THE Deputy National Director of A Rocha Ghana, Mr Daryl Bosu, has called for the immediate prosecution of persons who threaten, harass or intimidate residents and land defenders in…",
+      "categories": [
+        "Crime"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority Leader files fresh defamation suit against Goldbod CEO",
+      "link": "https://ghanaiantimes.com.gh/minority-leader-files-fresh-defamation-suit-against-goldbod-ceo/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-22T06:23:12.000Z",
+      "summary": "MINORITY Leader in Parliament, Mr Alexander Kwamena Afenyo-Markin, has filed a fresh defamation suit at the High Court in Accra, seeking damages against Messrs Sammy Gyamfi, the Chief…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Real Madrid 4-1 RB Leipzig: Spanish side maintain hundred percent start",
+      "link": "https://www.myjoyonline.com/real-madrid-4-1-rb-leipzig-spanish-side-maintain-hundred-percent-start/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T05:54:35.000Z",
+      "summary": "Bernardo Silva scored his first goal for Real Madrid as Jose Mourinho’s side beat RB Leipzig to maintain their 100% start in the Champions League. The midfielder, who joined from Manchester…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Sports"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Real-Madrid-4-1-RB-Leipzig.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Government is an impediment rather than an enabler’ – Bright Simons on digital platforms",
-      "link": "https://www.myjoyonline.com/government-is-an-impediment-rather-than-an-enabler-bright-simons-on-digital-platforms/",
+      "title": "Revenue, inflation and 2027 Budget in focus as IMF opens Ghana PCI review",
+      "link": "https://www.myjoyonline.com/revenue-inflation-and-2027-budget-in-focus-as-imf-opens-ghana-pci-review/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T23:56:09.000Z",
-      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons, warned that government can obstruct the digital opportunities ordinary Ghanaians rely on for…",
+      "published": "2026-10-22T05:54:10.000Z",
+      "summary": "Ghana’s fiscal performance, revenue mobilisation and preparations for the 2027 Budget are expected to dominate discussions as an International Monetary Fund (IMF) mission begins formal…",
       "categories": [
-        "Technology",
-        "Bright Simons",
-        "digital platforms"
+        "Economy",
+        "HP Business 1",
+        "National",
+        "IMF",
+        "PCI review"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/building-an-ai-compute-centre-re-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ghana-IMF-750x375-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bright Simons questions Sam George on feasibility of Ghana’s AI compute centre, cites power and water costs",
-      "link": "https://www.myjoyonline.com/bright-simons-questions-sam-george-on-feasibility-of-ghanas-ai-compute-centre-cites-power-and-water-costs/",
+      "title": "Carrick’s job in jeopardy after Man United’s 4-1 Champions League humiliation at Como",
+      "link": "https://www.myjoyonline.com/carricks-job-in-jeopardy-after-man-uniteds-4-1-champions-league-humiliation-at-como/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T23:55:32.000Z",
-      "summary": "Vice President of IMANI Africa, Bright Simons, has raised concerns about the feasibility of Ghana’s planned artificial intelligence (AI) computing infrastructure, citing electricity costs…",
+      "published": "2026-10-22T05:52:22.000Z",
+      "summary": "Manchester United suffered one of the worst European nights (4-1 defeat) in their history against Como to pile the pressure on beleaguered boss Michael Carrick. Eight days after conceding…",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Sports"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Carricks-job-in-jeopardy-after-Man-Uniteds-4-1-Champions-League-humiliation-at-Como.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana targets first phase of AI facility within 24 months",
+      "link": "https://www.myjoyonline.com/ghana-targets-first-phase-of-ai-facility-within-24-months/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T05:50:42.000Z",
+      "summary": "data centre",
+      "categories": [
+        "HP News 3",
+        "Technology",
+        "AI",
+        "Data centre",
+        "Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1163.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Champions League: Declan Rice earns Arsenal draw at Bayern Munich",
+      "link": "https://www.myjoyonline.com/champions-league-declan-rice-earns-arsenal-draw-at-bayern-munich/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T05:48:04.000Z",
+      "summary": "Declan Rice scored a late equaliser as Arsenal and Bayern Munich played out an entertaining draw in the league phase of the Champions League in a game where Bukayo Saka limped off with…",
+      "categories": [
+        "Football",
+        "Sports"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Declan-Rice-earns-Arsenal-draw-at-Bayern-Munich-1024x538.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Aston Villa maintain perfect Champions League start by beating Viking",
+      "link": "https://www.myjoyonline.com/aston-villa-maintain-perfect-champions-league-start-by-beating-viking/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T05:44:21.000Z",
+      "summary": "Aston Villa continued the impressive start to their Champions League campaign with a comfortable victory over Viking at Villa Park. Villa made it three wins from three, following their 6-0…",
+      "categories": [
+        "Football",
+        "Sports"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Aston-Villa-maintain-perfect-Champions-League-start-by-beating-Viking-1024x538.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana reaffirms commitment to women’s economic empowerment at Addis Ababa dialogue",
+      "link": "https://www.myjoyonline.com/ghana-reaffirms-commitment-to-womens-economic-empowerment-at-addis-ababa-dialogue/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T05:41:00.000Z",
+      "summary": "Ghana has reaffirmed its commitment to advancing women’s economic empowerment through inclusive policies, institutional reforms and practical interventions to improve women’s access to…",
       "categories": [
         "National",
-        "Technology",
-        "AI compute centre",
-        "Bright Simons",
-        "Samuel Nartey George"
+        "Addis Ababa",
+        "Ghana",
+        "Women"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bright-and-Sam.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/855353229_1046397211756765_6628478499429812688_n-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Meta fined $25bn for ‘lies’ over user data privacy",
-      "link": "https://www.myjoyonline.com/meta-fined-25bn-for-lies-over-user-data-privacy/",
+      "title": "Julius Debrah calls for integrated digital markets to boost African trade",
+      "link": "https://www.myjoyonline.com/julius-debrah-calls-for-integrated-digital-markets-to-boost-african-trade/",
       "source": "MyJoyOnline",
-      "published": "2026-10-21T23:36:00.000Z",
-      "summary": "Meta, the company behind Facebook, Instagram and WhatsApp has been hit with the largest ever fine against it for its business practices.",
+      "published": "2026-10-22T05:36:05.000Z",
+      "summary": "Chief of Staff Julius Debrah has called for greater integration of Africa’s digital markets to facilitate cross-border trade, strengthen economic cooperation and create new opportunities…",
       "categories": [
-        "International",
-        "Technology",
-        "Facebook",
-        "Instagram",
-        "Meta",
-        "WhatsApp"
+        "National",
+        "Julius Debrah"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana must build its own email services to address US data concerns – Bright Simons",
-      "link": "https://www.myjoyonline.com/ghana-must-build-its-own-email-services-to-address-us-data-concerns-bright-simons/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T23:34:00.000Z",
-      "summary": "IMANI Centre for Policy and Education Vice-President and Head of Research Bright Simons says concerns about US access to Ghanaian data would require the country to build its own email…",
-      "categories": [
-        "HP News 9",
-        "Technology",
-        "Bright Simons"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/building-an-ai-compute-centre-re.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Elsinore to The Hunger Games: 12 of the best films to watch in November",
-      "link": "https://www.myjoyonline.com/elsinore-to-the-hunger-games-12-of-the-best-films-to-watch-in-november/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T23:17:00.000Z",
-      "summary": "From an awards-tipped role for Andrew Scott to another Hunger Games prequel, here are the films to watch at the cinema and stream at home this month.",
-      "categories": [
-        "Movies",
-        "Elsinore",
-        "film",
-        "Hunger Game",
-        "Movie"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/p0phnvsj.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Think about how we sign these agreements – Sam George warns over health data",
-      "link": "https://www.myjoyonline.com/think-about-how-we-sign-these-agreements-sam-george-warns-over-health-data/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T23:15:00.000Z",
-      "summary": "Communication, Digital Technology and Innovations Minister Sam Nartey George has urged closer scrutiny of agreements involving Ghana’s health records.",
-      "categories": [
-        "Health",
-        "HP News 4",
-        "Technology",
-        "health data",
-        "Sam Nartey George"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Sam-George-Nartey.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Real-world skill sets’ – Sam George makes case for One Million Coders programme",
-      "link": "https://www.myjoyonline.com/real-world-skill-sets-sam-george-makes-case-for-one-million-coders-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T22:44:00.000Z",
-      "summary": "Communication, Digital Technology and Innovations Minister Sam Nartey George says the One Million Coders programme is designed to equip people with practical skills they can use in everyday…",
-      "categories": [
-        "Technology",
-        "One Million Coders",
-        "Sam George"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sam-George.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Julius-Debrah-1140x570-1-1024x512.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -341,19 +407,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Data Protection Commission calls for protection of Ghanaian evacuees’ privacy",
-      "link": "https://ghanaiantimes.com.gh/data-protection-commission-calls-for-protection-of-ghanaian-evacuees-privacy/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T14:14:01.000Z",
-      "summary": "The Data Protection Commission has called on the Minority Caucus in Parliament, the Ministry of Foreign Affairs, JoyNews and other media houses to protect the personal information of 1,964…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "CAF confirms extra-time replay between Ampem Darkoa, Edo Queens in Egypt",
       "link": "https://www.graphic.com.gh/sports/sports-news/caf-confirms-extra-time-replay-between-ampem-darkoa-edo-queens-in-egypt.html",
       "source": "Graphic Sports",
@@ -364,71 +417,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/21/CAF.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "GNFS contains vehicular fire at entrance of Suhum Fire Station",
-      "link": "https://ghanaiantimes.com.gh/gnfs-contains-vehicular-fire-at-entrance-of-suhum-fire-station/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T14:01:21.000Z",
-      "summary": "The Suhum Municipal Fire Station swiftly responded to a vehicular fire right at its entrance on Monday, October 19, 2026. The incident involved a Peugeot 206+ with registration number GR…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "DVLA cautions public against fake SMS payment links and online fine scams",
-      "link": "https://ghanaiantimes.com.gh/dvla-cautions-public-against-fake-sms-payment-links-and-online-fine-scams/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T13:56:03.000Z",
-      "summary": "The Driver and Vehicle Licensing Authority (DVLA) has cautioned the public against fraudulent text messages asking people to pay supposed traffic fines through unofficial online links. In a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "CID, FDA strengthen collaboration to combat illicit drugs and counterfeit products",
-      "link": "https://ghanaiantimes.com.gh/cid-fda-strengthen-collaboration-to-combat-illicit-drugs-and-counterfeit-products/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T13:53:03.000Z",
-      "summary": "The Criminal Investigations Department (CID) of the Ghana Police Service has engaged the Food and Drugs Authority (FDA) to strengthen cooperation in the fight against illicit drugs…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Afenyo-Markin refiles defamation suit against Eric Adjei, Sammy Gyamfi",
-      "link": "https://ghanaiantimes.com.gh/afenyo-markin-refiles-defamation-suit-against-eric-adjei-sammy-gyamfi/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T13:45:54.000Z",
-      "summary": "Former Minority Leader Alexander Afenyo-Markin has refiled a defamation suit against the Chief Executive of the National Entrepreneurship and Innovation Programme (NEIP), Eric Adjei, at the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Obuasi SHS sexual misconduct allegations: Muntaka assures of impartial Police probe",
-      "link": "https://ghanaiantimes.com.gh/obuasi-shs-sexual-misconduct-allegations-muntaka-assures-of-impartial-police-probe/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-21T13:43:11.000Z",
-      "summary": "The Minister for the Interior, Muntaka Mubarak Mohammed, has assured Ghanaians that the Ghana Police Service will conduct a thorough and impartial investigation into allegations of sexual…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Train local coaches instead of relying on foreign experts – Acting NSA Boss",
