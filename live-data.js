@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-22T08:54:42.155Z",
+  "updated": "2026-10-22T14:23:03.187Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,17 +22,17 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-22T08:54:42.155Z",
+  "officialAt": "2026-10-22T14:23:03.187Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.6188 (mid-market, 2026-10-21)",
     "gbp: 15.5411 (mid-market, 2026-10-21)",
     "eur: 13.0456 (mid-market, 2026-10-21)",
     "cny: 1.73968 (mid-market, 2026-10-21)",
-    "gold: 4108.8 at 2026-10-22T08:44:23.000Z",
+    "gold: 4066 at 2026-10-22T14:12:51.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-21, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-22: 2026-10-21, usd/gbp/eur",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: failed (HTTP 502)",
     "BoG in use: 2026-10-21 · usd 11.655, gbp 15.6031, eur 13.0751"
   ],
   "quotes": {
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.73948
     },
     "gold": {
-      "value": 4108.8,
-      "at": "2026-10-22T08:44:23.000Z",
+      "value": 4066,
+      "at": "2026-10-22T14:12:51.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4113
+      "prev": 4108.8
     }
   }
 };
