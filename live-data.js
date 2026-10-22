@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-21T23:54:45.370Z",
+  "updated": "2026-10-22T03:35:21.063Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,16 +22,16 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-21T23:54:45.370Z",
+  "officialAt": "2026-10-22T03:35:21.063Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.6188 (mid-market, 2026-10-21)",
     "gbp: 15.5411 (mid-market, 2026-10-21)",
     "eur: 13.0456 (mid-market, 2026-10-21)",
     "cny: 1.73968 (mid-market, 2026-10-21)",
-    "gold: 4141.5 at 2026-10-21T23:44:35.000Z",
+    "gold: 4113 at 2026-10-22T03:25:14.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: failed (fetch failed)",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-21: failed (fetch failed)",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-22: failed (fetch failed)",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: failed (fetch failed)",
     "BoG in use: 2026-10-21 · usd 11.655, gbp 15.6031, eur 13.0751"
   ],
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.73948
     },
     "gold": {
-      "value": 4141.5,
-      "at": "2026-10-21T23:44:35.000Z",
+      "value": 4113,
+      "at": "2026-10-22T03:25:14.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4154.5
+      "prev": 4141.5
     }
   }
 };
