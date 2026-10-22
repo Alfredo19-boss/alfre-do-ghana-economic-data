@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-22T20:44:14.908Z",
+  "updated": "2026-10-22T23:38:15.048Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,36 +25,118 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Mineworkers’ Union denies Land Ministry’s claim of consultation on contract mining",
-      "link": "https://www.myjoyonline.com/mineworkers-union-denies-land-ministrys-claim-of-consultation-on-contract-mining/",
+      "title": "Speaker Bagbin urges RUWA-Ghana to promote the politics of options among women",
+      "link": "https://www.myjoyonline.com/speaker-bagbin-urges-ruwa-ghana-to-promote-politics-of-options-among-women/",
       "source": "MyJoyOnline",
-      "published": "2026-10-22T20:38:05.000Z",
-      "summary": "The Ghana Mineworkers’ Union (GMWU) has rejected claims by the Ministry of Lands and Natural Resources that it has held extensive consultations with the Union over the government’s…",
+      "published": "2026-10-22T23:18:06.000Z",
+      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, has urged RUWA-Ghana LBG to encourage grassroots women to engage in “politics of options” rather than allow political…",
       "categories": [
         "News",
-        "Contract",
-        "Land Ministry",
-        "Mineworkers union"
+        "RUWA Ghana",
+        "Speaker",
+        "Women"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-15.37.54-1024x557.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/photo_2026-10-19_15-42-37-1024x637.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana Embassy in Abidjan visits detained citizens, promises consular and legal support",
-      "link": "https://www.myjoyonline.com/ghana-embassy-in-abidjan-visits-detained-citizens-promises-consular-and-legal-support/",
+      "title": "Student accused of stealing Bishop Obinim’s GH¢1.5m granted bail",
+      "link": "https://www.myjoyonline.com/student-accused-of-stealing-bishop-obinims-gh%c2%a21-5m-granted-bail/",
       "source": "MyJoyOnline",
-      "published": "2026-10-22T20:33:27.000Z",
-      "summary": "The Ghana Embassy in Abidjan has visited Ghanaian citizens detained at the Abidjan Penitentiary Pole Prison in Côte d’Ivoire to assess their welfare and provide consular support. The…",
+      "published": "2026-10-22T23:14:00.000Z",
+      "summary": "An Adenta Circuit Court has granted bail to a 23-year-old student accused of stealing GH¢1.5 million belonging to Bishop Daniel Obinim, founder of the International Godsway Church.",
       "categories": [
-        "Africa",
-        "National",
-        "Abidjan",
-        "consular",
-        "detained citizens",
-        "Ghana Embassy",
-        "legal support"
+        "Crime",
+        "Bishop Daniel Obinim",
+        "Stealing"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/PHOTO-2026-10-22-15-35-31.jpg-732x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/05/obinim-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Court grants bail to two in multiple land grant case",
+      "link": "https://www.myjoyonline.com/court-grants-bail-to-two-in-multiple-land-grant-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T23:05:00.000Z",
+      "summary": "An Accra Circuit Court has granted two persons accused of making conflicting grants of the same parcel of land bail of GH¢2 million each.",
+      "categories": [
+        "Crime",
+        "Accra Circuit Court",
+        "Land case"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/image-25.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accused seeks removal from 3.9-tonne cocaine trial",
+      "link": "https://www.myjoyonline.com/accused-seeks-removal-from-3-9-tonne-cocaine-trial/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T22:55:00.000Z",
+      "summary": "The Kwabenya Circuit Court has adjourned to November 5 an application seeking to strike out one of six accused persons standing trial in the alleged 3.9-tonne cocaine case.",
+      "categories": [
+        "Crime",
+        "cocaine trial",
+        "Kwabenya Circuit Court"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Gavel-1-5-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "link": "https://www.myjoyonline.com/trump-ordered-to-answer-questions-under-oath-in-bbc-lawsuit/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T22:46:56.000Z",
+      "summary": "A US judge has ordered President Donald Trump to answer questions under oath in his defamation lawsuit against the BBC by 11 December.",
+      "categories": [
+        "International",
+        "BBC",
+        "Donald Trump"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1229-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump says Musk has restored Ukraine’s access after Starlink row",
+      "link": "https://www.myjoyonline.com/trump-says-musk-has-restored-ukraines-access-after-starlink-row/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T22:38:00.000Z",
+      "summary": "Elon Musk has restored Ukraine's internet access, Donald Trump has said.",
+      "categories": [
+        "International",
+        "Starlink",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2231-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asia just put $6 billion on its ocean. Where is ours?",
+      "link": "https://www.myjoyonline.com/asia-just-put-6-billion-on-its-ocean-where-is-ours/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T22:33:00.000Z",
+      "summary": "Every fishmonger at the Tema fishing harbour can tell you the same story. The canoes go further, stay out longer and come back with less.",
+      "categories": [
+        "Opinion",
+        "Africa",
+        "Asia",
+        "Ocean"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ab-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana moves beyond peace and stability in battle for investors – GIPA CEO",
+      "link": "https://www.myjoyonline.com/ghana-moves-beyond-peace-and-stability-in-battle-for-investors-gipa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T22:29:00.000Z",
+      "summary": "Ghana is pitching reforms, credible leadership and investment returns as it seeks to stand out in an increasingly competitive regional market, Ghana Investment Promotion Authority (GIPA)…",
+      "categories": [
+        "Investments",
+        "National",
+        "Ghana Investment Promotion Authority (GIPA)",
+        "Investment"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/02/WhatsApp-Image-2023-01-27-at-10.25.05-AM-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -68,98 +150,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/20/corpy26.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana Prisons Service trains recruits in Cell Extraction Techniques",
-      "link": "https://www.myjoyonline.com/ghana-prisons-service-trains-recruits-in-cell-extraction-techniques/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T20:05:31.000Z",
-      "summary": "The Security and Operations Unit of the Ghana Prisons Service has organised a Cell Extraction Technique (CET) training exercise for recruits undergoing training at the Prisons Officers…",
-      "categories": [
-        "National",
-        "Photo Story",
-        "Cell Extraction Techniques",
-        "Ghana Prisons Service",
-        "Recruits"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/857937927_1708056753627650_3281467591277644679_n-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Seven Ghanaian fishermen rescued after drifting into Togo and Benin waters",
-      "link": "https://www.myjoyonline.com/seven-ghanaian-fishermen-rescued-after-drifting-into-togo-and-benin-waters/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T20:00:34.000Z",
-      "summary": "The seven fishermen who went missing at sea for two weeks have finally returned home after living through a terrifying ordeal.",
-      "categories": [
-        "National",
-        "Fishermen"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/fishermenback5-696x392-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS headmaster assault linked to alleged fetus burial, not sexual abuse – Apaak",
-      "link": "https://www.myjoyonline.com/obuasi-shts-headmaster-assault-linked-to-alleged-fetus-burial-not-sexual-abuse-apaak/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T19:57:14.000Z",
-      "summary": "Deputy Education Minister Dr Clement Apaak has clarified that an earlier incident involving the headmaster of Obuasi Senior High Technical School (SHTS) concerned allegations of a fetus…",
-      "categories": [
-        "Education",
-        "National",
-        "fetus burial",
-        "Obuasi SHTS",
-        "Sexual abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-23-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘ECOWAS For All’ campaign heads to Makola Market to educate traders on cross-border trade",
-      "link": "https://www.myjoyonline.com/ecowas-for-all-campaign-heads-to-makola-market-to-educate-traders-on-cross-border-trade/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T19:51:20.000Z",
-      "summary": "The Ministry of Foreign Affairs will take its “ECOWAS For All” public sensitisation campaign to the Makola Market in Accra on Friday, October 23, to educate traders and other business…",
-      "categories": [
-        "National",
-        "ECOWAS for All",
-        "Makola Market",
-        "Traders"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Makola-Market-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "VRA to defend UG Corporate Tennis Championship Title",
-      "link": "https://www.myjoyonline.com/vra-to-defend-ug-corporate-tennis-championship-title/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T19:46:12.000Z",
-      "summary": "The championship starts at 8:00 am on the University of Ghana Tennis Court, with the corporate teams competing for supremacy.",
-      "categories": [
-        "Football",
-        "Sports",
-        "UG Corporate Tennis Championship",
-        "Volta River Authority",
-        "VRA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-18.51.46-819x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ministry of Education creates direct reporting channels for sexual abuse complaints after Obuasi SHTS case",
-      "link": "https://www.myjoyonline.com/ministry-of-education-creates-direct-reporting-channels-for-sexual-abuse-complaints-after-obuasi-shts-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T19:45:32.000Z",
-      "summary": "The Ministry of Education is creating direct reporting channels, including a hotline, to allow students, parents, teachers and community members to report sexual abuse in schools without…",
-      "categories": [
-        "Education",
-        "National",
-        "GES",
-        "Obuasi SHTS",
-        "Sexual abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-22-1.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "The Black Stars Start AFCON Qualifying Bottom of Group C",
