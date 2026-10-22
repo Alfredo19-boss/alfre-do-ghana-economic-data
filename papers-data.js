@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-21T23:40:52.085Z",
+  "updated": "2026-10-22T01:52:45.418Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,99 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "‘Ghana must not miss the AI train’ – Zipline Ghana Director",
+      "link": "https://www.myjoyonline.com/ghana-must-not-miss-the-ai-train-zipline-ghana-director/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T00:17:17.000Z",
+      "summary": "Ghana cannot afford to miss the opportunities presented by artificial intelligence (AI), the Country Director of Zipline Ghana, Daniel Kwaku Merk, has warned, saying the consequences of…",
+      "categories": [
+        "News",
+        "Technology",
+        "Ghana",
+        "Health",
+        "Zipline"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Country-Director-of-Zipline-Ghana-Mr-Daniel-Kwaku-Merki.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Government is an impediment rather than an enabler’ – Bright Simons on digital platforms",
+      "link": "https://www.myjoyonline.com/government-is-an-impediment-rather-than-an-enabler-bright-simons-on-digital-platforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T23:56:09.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons, warned that government can obstruct the digital opportunities ordinary Ghanaians rely on for…",
+      "categories": [
+        "Technology",
+        "Bright Simons",
+        "digital platforms"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/building-an-ai-compute-centre-re-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bright Simons questions Sam George on feasibility of Ghana’s AI compute centre, cites power and water costs",
+      "link": "https://www.myjoyonline.com/bright-simons-questions-sam-george-on-feasibility-of-ghanas-ai-compute-centre-cites-power-and-water-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T23:55:32.000Z",
+      "summary": "Vice President of IMANI Africa, Bright Simons, has raised concerns about the feasibility of Ghana’s planned artificial intelligence (AI) computing infrastructure, citing electricity costs…",
+      "categories": [
+        "National",
+        "Technology",
+        "AI compute centre",
+        "Bright Simons",
+        "Samuel Nartey George"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bright-and-Sam.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Meta fined $25bn for ‘lies’ over user data privacy",
+      "link": "https://www.myjoyonline.com/meta-fined-25bn-for-lies-over-user-data-privacy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T23:36:00.000Z",
+      "summary": "Meta, the company behind Facebook, Instagram and WhatsApp has been hit with the largest ever fine against it for its business practices.",
+      "categories": [
+        "International",
+        "Technology",
+        "Facebook",
+        "Instagram",
+        "Meta",
+        "WhatsApp"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana must build its own email services to address US data concerns – Bright Simons",
+      "link": "https://www.myjoyonline.com/ghana-must-build-its-own-email-services-to-address-us-data-concerns-bright-simons/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T23:34:00.000Z",
+      "summary": "IMANI Centre for Policy and Education Vice-President and Head of Research Bright Simons says concerns about US access to Ghanaian data would require the country to build its own email…",
+      "categories": [
+        "HP News 9",
+        "Technology",
+        "Bright Simons"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/building-an-ai-compute-centre-re.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Elsinore to The Hunger Games: 12 of the best films to watch in November",
+      "link": "https://www.myjoyonline.com/elsinore-to-the-hunger-games-12-of-the-best-films-to-watch-in-november/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T23:17:00.000Z",
+      "summary": "From an awards-tipped role for Andrew Scott to another Hunger Games prequel, here are the films to watch at the cinema and stream at home this month.",
+      "categories": [
+        "Movies",
+        "Elsinore",
+        "film",
+        "Hunger Game",
+        "Movie"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/p0phnvsj.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Think about how we sign these agreements – Sam George warns over health data",
       "link": "https://www.myjoyonline.com/think-about-how-we-sign-these-agreements-sam-george-warns-over-health-data/",
       "source": "MyJoyOnline",
@@ -32,6 +125,7 @@ window.GDC_PAPERS = {
       "summary": "Communication, Digital Technology and Innovations Minister Sam Nartey George has urged closer scrutiny of agreements involving Ghana’s health records.",
       "categories": [
         "Health",
+        "HP News 4",
         "Technology",
         "health data",
         "Sam Nartey George"
@@ -54,74 +148,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "A case for a systematic rollout of Ghana’s new traffic law (L.I. 2519",
-      "link": "https://www.myjoyonline.com/a-case-for-a-systematic-rollout-of-ghanas-new-traffic-law-l-i-2519/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T22:38:40.000Z",
-      "summary": "The Ministry of Transport launched a nationwide education exercise in September 2026, with Transport Minister Joseph Bukari Nikpe acknowledging that nationwide education was “necessary to…",
-      "categories": [
-        "Features",
-        "CUTS International",
-        "GPRTU",
-        "LI 2519",
-        "Police",
-        "Transport Ministry",
-        "‘Road Traffic Regulations"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-01.27.53-1-819x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam George outlines $270m Ghana AI investment, cites risks of feeding government data into foreign models",
-      "link": "https://www.myjoyonline.com/sam-george-outlines-270m-ghana-ai-investment-cites-risks-of-feeding-government-data-into-foreign-models/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T22:36:12.000Z",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Samuel Nartey George, has outlined a $270 million investment in Ghana’s artificial intelligence (AI) development, with…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "AI",
-        "Samuel Nartey George"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/Sam-George1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Those who evolve and adapt will survive’ – Sam George on AI and jobs",
-      "link": "https://www.myjoyonline.com/those-who-evolve-and-adapt-will-survive-sam-george-on-ai-and-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T22:26:58.000Z",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Samuel Nartey George, says that workers who fail to adapt to changing technology risk losing their jobs as artificial…",
-      "categories": [
-        "In Focus",
-        "National",
-        "Technology",
-        "Artificial Intelligence",
-        "Jobs",
-        "Samuel Nartey George"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Sam-George-Nartey.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African mineral value addition in focus at ‘Mining in Motion Conference’",
-      "link": "https://www.myjoyonline.com/african-mineral-value-addition-in-focus-at-mining-in-motion-conference/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T22:24:41.000Z",
-      "summary": "The Chief Executive Officer of the Minerals Income Investment Fund (MIIF), Justina Nelson, has highlighted the importance of investment, data sharing and regional cooperation in helping…",
-      "categories": [
-        "Business",
-        "Mining",
-        "Justina Nelson",
-        "MIIF",
-        "Minerals Commission",
-        "Mining in Motion",
-        "Ministry of Lands and Natural resources"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-21-at-16.03.23-1-1024x731.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "How the Best Online Casinos Are Raising the Bar for Customer Experience",
       "link": "https://ghanaiantimes.com.gh/how-the-best-online-casinos-are-raising-the-bar-for-customer-experience/",
       "source": "Ghanaian Times",
@@ -132,39 +158,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "‘That is a mirage’ – Sam George on foreign cloud data-sovereignty assurances",
-      "link": "https://www.myjoyonline.com/that-is-a-mirage-sam-george-on-foreign-cloud-data-sovereignty-assurances/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T22:21:00.000Z",
-      "summary": "Communication, Digital Technology and Innovations Minister Sam Nartey George has challenged assurances that agreements with foreign cloud providers guarantee control over data.",
-      "categories": [
-        "Technology",
-        "cloud data-sovereignty",
-        "Sam George"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1163.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Maidens fight back to hold Brazil in six-goal thriller",
-      "link": "https://www.myjoyonline.com/black-maidens-fight-back-to-hold-brazil-in-six-goal-thriller/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T22:10:00.000Z",
-      "summary": "Ghana’s Black Maidens mounted a determined fightback to hold Brazil to a pulsating 3-3 draw on Wednesday night, with Priscilla Mensah striking five minutes from time to deny the South…",
-      "categories": [
-        "Football",
-        "HP News 8",
-        "HP Sports 1",
-        "News",
-        "Sports",
-        "Black Maidens",
-        "Brazil",
-        "Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Ghana-v-Brazil-FIFA-U17-Women-s-World-Cup-1024x607.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "7 Missing Sekondi fishing canoe crew rescued after 12 days; boat drifted into Togolese waters",

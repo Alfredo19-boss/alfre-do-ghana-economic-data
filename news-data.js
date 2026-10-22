@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-21T23:40:36.379Z",
-  "worldAt": "2026-10-21T23:40:36.377Z",
+  "updated": "2026-10-22T01:52:29.422Z",
+  "worldAt": "2026-10-22T01:52:29.420Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,8 +27,8 @@ window.GDC_NEWS = {
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
@@ -42,10 +42,17 @@ window.GDC_NEWS = {
     "Africa · Africanews: 34 stories",
     "Africa · BBC Africa: 34 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "‘Government is an impediment rather than an enabler’ – Bright Simons on digital platforms",
+      "link": "https://www.myjoyonline.com/government-is-an-impediment-rather-than-an-enabler-bright-simons-on-digital-platforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-21T23:56:09.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons, warned that government can obstruct the digital opportunities ordinary Ghanaians rely on for…"
+    },
     {
       "title": "African mineral value addition in focus at ‘Mining in Motion Conference’",
       "link": "https://www.myjoyonline.com/african-mineral-value-addition-in-focus-at-mining-in-motion-conference/",
@@ -1088,22 +1095,90 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-18T23:24:00.000Z",
       "summary": "Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the \"public good\"."
-    },
-    {
-      "title": "Economy still in low-risk credit environment, credit-to-GDP gap remains negative – BoG",
-      "link": "https://www.myjoyonline.com/economy-still-in-low-risk-credit-environment-credit-to-gdp-gap-remains-negative-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-18T20:44:43.000Z",
-      "summary": "“The negative gap points to the absence of excessive credit build-up and limited systemic risks and signals room for measured credit expansion to further support the real sector of the…"
     }
   ],
   "world": [
     {
-      "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-      "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+      "title": "Colombian president purges National Museum of works promoting ‘communism’",
+      "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-21T23:20:58.000Z",
-      "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery."
+      "published": "2026-10-22T01:09:40.000Z",
+      "summary": "Far-right President Abelardo de la Espriella says he will wage a 'counterrevolution' against cultural institutions."
+    },
+    {
+      "title": "Ireland votes to end UN approval requirement for overseas peacekeeping missions",
+      "link": "https://www.france24.com/en/europe/20261022-ireland-votes-un-veto-overseas-peacekeeping-missions",
+      "source": "France 24",
+      "published": "2026-10-22T00:35:35.000Z",
+      "summary": "Irish lawmakers voted Wednesday to scrap a requirement for UN approval before deploying military peacekeepers overseas, approving the controversial legislation by 79 votes to 71. Opposition…",
+      "image": "https://s.france24.com/media/display/bf8c2c76-cdaf-11f1-a5a0-4da0d2c6855d/w:1024/p:16x9/AP26289293740117.jpg"
+    },
+    {
+      "title": "Brother of George W Bush endorses Democratic Senate candidate in Texas",
+      "link": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T01:01:52.000Z",
+      "summary": "Neil Bush says that he voted for Democrat James Talarico due to reservations about Republican candidate Ken Paxton."
+    },
+    {
+      "title": "AIPAC halts endorsements and direct contributions to candidates",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+      "source": "NPR World",
+      "published": "2026-10-22T00:22:48.000Z",
+      "summary": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will…",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fe6%2F985cf07241b6ae9eb89ad92cd0a6%2Fgettyimages-1731538579.jpg"
+    },
+    {
+      "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+      "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T00:25:41.000Z",
+      "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming."
+    },
+    {
+      "title": "Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win",
+      "link": "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win",
+      "source": "France 24",
+      "published": "2026-10-22T00:11:37.000Z",
+      "summary": "Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose…",
+      "image": "https://s.france24.com/media/display/5d6d175e-cd9a-11f1-b2ae-4da0d2c6855d/w:1024/p:16x9/AFP-20261021-D3ZX7Z4-v1-HighRes-FblEurC1RealMadridLeipzig.jpg"
+    },
+    {
+      "title": "World leaders warn of security flaws found in PHP programming language",
+      "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T00:10:27.000Z",
+      "summary": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites."
+    },
+    {
+      "title": "The real reasons US politicians are getting older",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-21T23:52:12.000Z",
+      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea2/live/36f80900-cc9e-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T00:00:00.000Z",
+      "summary": "Iran's IRGC threatens to invade any country that attacks it under a new 'offensive and asymmetrical' doctrine."
+    },
+    {
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-21T23:06:37.000Z",
+      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg"
+    },
+    {
+      "title": "US accuses Canada of election interference ahead of midterms",
+      "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-21T23:52:21.000Z",
+      "summary": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference."
     },
     {
       "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
@@ -1114,11 +1189,26 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-      "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+      "title": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+      "link": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-21T23:20:12.000Z",
-      "summary": "The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time."
+      "published": "2026-10-21T23:52:00.000Z",
+      "summary": "The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine."
+    },
+    {
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-21T22:59:18.000Z",
+      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg"
+    },
+    {
+      "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-21T23:20:58.000Z",
+      "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery."
     },
     {
       "title": "Sudan’s war escalates as UN warns of wider regional crisis",
@@ -1129,11 +1219,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/25d330b6-cda0-11f1-942a-8bea73bbe173/w:1024/p:16x9/capture-3969bf04.jpg"
     },
     {
-      "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
-      "link": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+      "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-21T23:13:35.000Z",
-      "summary": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia."
+      "published": "2026-10-21T23:20:12.000Z",
+      "summary": "The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time."
     },
     {
       "title": "Putin releases American Stephen Hubbard from Russian prison",
@@ -1143,11 +1233,11 @@ window.GDC_NEWS = {
       "summary": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump."
     },
     {
-      "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
-      "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "link": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-21T22:16:50.000Z",
-      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel."
+      "published": "2026-10-21T23:13:35.000Z",
+      "summary": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia."
     },
     {
       "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
@@ -1158,11 +1248,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/8a7272dc-cd98-11f1-85be-eb48fa034ddc/w:1024/p:16x9/EN-20261021-183123-184644-CS.jpg"
     },
     {
-      "title": "Video shows Israeli settler assaulting Palestinian child",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+      "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-21T22:03:54.000Z",
-      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta."
+      "published": "2026-10-21T22:16:50.000Z",
+      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel."
     },
     {
       "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
@@ -1171,6 +1261,13 @@ window.GDC_NEWS = {
       "published": "2026-10-21T22:02:18.000Z",
       "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ef/live/eeb5a6a0-cd17-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-21T22:03:54.000Z",
+      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta."
     },
     {
       "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
@@ -1298,104 +1395,6 @@ window.GDC_NEWS = {
       "published": "2026-10-21T20:43:53.000Z",
       "summary": "French bond yields have topped 5%, their highest level since 2002, after widespread protests and violence over the weekend. It's a sign that investors are losing confidence in France's…",
       "image": "https://s.france24.com/media/display/8e693830-cd8e-11f1-82a7-ab78a7fed2ce/w:1024/p:16x9/capture-e0c7d62e.jpg"
-    },
-    {
-      "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
-      "link": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T20:54:27.000Z",
-      "summary": "Moscow dispatches its inaugural diesel shipment to the US, aiming to ease fuel shortages as midterm elections loom."
-    },
-    {
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-21T20:31:47.000Z",
-      "summary": "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b7/live/2a48ce80-cd23-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T20:51:23.000Z",
-      "summary": "Colombian authorities have seized 7.6 tonnes of cocaine at the Caribbean port of Cartagena"
-    },
-    {
-      "title": "EU prosecutors search European Parliament offices of far-right group",
-      "link": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
-      "source": "France 24",
-      "published": "2026-10-21T20:21:16.000Z",
-      "summary": "The far-right European Parliament group of French presidential frontrunner Marine Le Pen's party said Wednesday EU prosecutors were searching its offices as part of a graft probe into its…",
-      "image": "https://s.france24.com/media/display/350276dc-cd8c-11f1-b816-eb48fa034ddc/w:1024/p:16x9/EN-20261021-220512-220953-CS.jpg"
-    },
-    {
-      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-21T20:19:51.000Z",
-      "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0463/live/f6cb33e0-cd86-11f1-b1e7-39558e114359.jpg"
-    },
-    {
-      "title": "Jason Alexander recalls Palestinian protection in Ramallah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T20:18:02.000Z",
-      "summary": "Seinfeld actor Jason Alexander recalls a visit to Ramallah that challenged his fears about visiting Palestinian cities."
-    },
-    {
-      "title": "Pope does not need further treatment after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-21T20:09:10.000Z",
-      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/89f335e0-cd88-11f1-b1e7-39558e114359.jpg"
-    },
-    {
-      "title": "Meet the people moving north to escape increasingly hot summers",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
-      "source": "NPR World",
-      "published": "2026-10-21T20:00:00.000Z",
-      "summary": "As climate change fuels hotter summers, some Britons are moving north in search of cooler weather. Could a similar shift be on the horizon in the United States?",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7976x5978+0+0/resize/7976x5978!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2Fe5%2Fe37893a9427995fa602ca1d21457%2Fgettyimages-2289997590.jpg"
-    },
-    {
-      "title": "Tshuma court proceedings delayed pending mental health evaluation",
-      "link": "http://www.africanews.com/2026/10/21/tshuma-court-proceedings-delayed-pending-mental-health-evaluation/",
-      "source": "Africanews",
-      "published": "2026-10-21T19:59:12.000Z",
-      "summary": "A mental health evaluation has delayed two court appearances for Ndodana Mkhanyisi Tshuma, wanted by British police over the killings of his wife and two daughters."
-    },
-    {
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-21T19:58:06.000Z",
-      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/adcfbb20-cd86-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-      "link": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T19:51:29.000Z",
-      "summary": "Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo."
-    },
-    {
-      "title": "Putin agrees to resume three-way talks with Kyiv and Washington",
-      "link": "https://www.france24.com/en/putin-agrees-to-resume-three-way-talks-with-kyiv-and-washington",
-      "source": "France 24",
-      "published": "2026-10-21T19:32:52.000Z",
-      "summary": "President ⁠Volodymyr Zelenskiy ​said on Wednesday ​that Ukraine supported a US proposal for ​three-way talks ‌with Russia ⁠and the United ‌States at the level ⁠of negotiators to be held as…",
-      "image": "https://s.france24.com/media/display/a08fd0b8-cd85-11f1-b980-4da0d2c6855d/w:1024/p:16x9/EN-20261021-210107-211150-CS.jpg"
-    },
-    {
-      "title": "What happened to Australian politician Helen Haines?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T19:38:02.000Z",
-      "summary": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her."
     }
   ],
   "africa": [
@@ -1563,11 +1562,11 @@ window.GDC_NEWS = {
       "summary": "[ENA] Addis Ababa -- Ethiopia has reformed its statistical legislation and established an independent statistical service to strengthen the production and coordination of official data…"
     },
     {
-      "title": "Kenya: Aliko Dangote Acquires 24.76pc Stake in Kpc for About Sh42.5bn",
-      "link": "https://allafrica.com/stories/202610210506.html",
+      "title": "South Africa: SEZs Set to Contribute Significantly to SA's Economy",
+      "link": "https://allafrica.com/stories/202610210515.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-21T12:10:51.000Z",
-      "summary": "[Capital FM] Nairobi -- Nigerian billionaire Aliko Dangote has acquired a 24.76 percent stake in Kenya Pipeline Company (KPC) valued at about Sh42.5 billion from government institutions."
+      "published": "2026-10-21T12:11:53.000Z",
+      "summary": "[SAnews.gov.za] A total of 141 companies have committed to invest in various Special Economic Zones in South Africa, with a combined investment value of over R548 billion and will create…"
     },
     {
       "title": "Nigeria: Jonathan Urges Nigeria to Shift From Imports to Production",
@@ -1577,11 +1576,11 @@ window.GDC_NEWS = {
       "summary": "[Vanguard] ABUJA -- Former President Goodluck Jonathan has called on Nigeria to develop the resources and technology needed to produce goods and services locally rather than continue to…"
     },
     {
-      "title": "Zimbabwe: Zimbabwe Faces Prolonged Fuel Cost Pressure As Oil Price Relief Unlikely Before 2028",
-      "link": "https://allafrica.com/stories/202610210505.html",
+      "title": "Kenya: Aliko Dangote Acquires 24.76pc Stake in Kpc for About Sh42.5bn",
+      "link": "https://allafrica.com/stories/202610210506.html",
       "source": "AllAfrica Business",
-      "published": "2026-10-21T12:10:50.000Z",
-      "summary": "[263Chat] Zimbabwe's fuel-import-dependent economy could remain exposed to international oil market volatility into 2027 after the International Energy Agency (IEA) warned that global…"
+      "published": "2026-10-21T12:10:51.000Z",
+      "summary": "[Capital FM] Nairobi -- Nigerian billionaire Aliko Dangote has acquired a 24.76 percent stake in Kenya Pipeline Company (KPC) valued at about Sh42.5 billion from government institutions."
     },
     {
       "title": "Southern Africa: SADC Strengthens Regional Preparedness for El Niño Impacts",
@@ -1591,11 +1590,11 @@ window.GDC_NEWS = {
       "summary": "[SAnews.gov.za] The Southern African Development Community (SADC) is strengthening regional disaster preparedness and early intervention measures ahead of the anticipated impacts of El Niño…"
     },
     {
-      "title": "Nigeria's first ebola case sparks shock and urgent concern nationwide",
-      "link": "http://www.africanews.com/2026/10/21/nigerias-first-ebola-case-sparks-shock-and-urgent-concern-nationwide/",
-      "source": "Africanews",
-      "published": "2026-10-21T12:03:58.000Z",
-      "summary": "Nigerian authorities are racing to trace contacts after a diplomat was declared the country’s first Ebola case. The patient reportedly arrived in Abuja from Uganda on October third…"
+      "title": "Zimbabwe: Zimbabwe Faces Prolonged Fuel Cost Pressure As Oil Price Relief Unlikely Before 2028",
+      "link": "https://allafrica.com/stories/202610210505.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-21T12:10:50.000Z",
+      "summary": "[263Chat] Zimbabwe's fuel-import-dependent economy could remain exposed to international oil market volatility into 2027 after the International Energy Agency (IEA) warned that global…"
     },
     {
       "title": "South Africa: Call for Greater Community Participation in Addressing River Pollution",
@@ -1603,6 +1602,13 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-21T12:10:44.000Z",
       "summary": "[SAnews.gov.za] Water and Sanitation Deputy Minister Jack Bloom has reiterated his call for greater community participation in tackling river pollution."
+    },
+    {
+      "title": "Nigeria's first ebola case sparks shock and urgent concern nationwide",
+      "link": "http://www.africanews.com/2026/10/21/nigerias-first-ebola-case-sparks-shock-and-urgent-concern-nationwide/",
+      "source": "Africanews",
+      "published": "2026-10-21T12:03:58.000Z",
+      "summary": "Nigerian authorities are racing to trace contacts after a diplomat was declared the country’s first Ebola case. The patient reportedly arrived in Abuja from Uganda on October third…"
     },
     {
       "title": "Ethiopia: PM Abiy Reviews Ethiopia's Progress Toward Nuclear Energy Development",
@@ -1673,13 +1679,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-21T11:09:03.000Z",
       "summary": "[Daily Trust] Uganda has clarified that as of Tuesday, October 21, 2026, when Nigerian health authorities confirmed an active case of Ebola in its capital city, Abuja, it had no active case…"
-    },
-    {
-      "title": "Kenya: Six Oil Tankers Among 51 Ships Expected At Mombasa, Lamu Ports",
-      "link": "https://allafrica.com/stories/202610210411.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-21T11:15:37.000Z",
-      "summary": "[Capital FM] Mombasa -- Kenya's two seaports are expected to handle 51 vessels over the next 14 days, including six oil tankers scheduled to dock at the Port of Mombasa."
     }
   ]
 };
