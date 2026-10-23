@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-23T17:08:13.964Z",
-  "worldAt": "2026-10-23T17:08:13.962Z",
+  "updated": "2026-10-23T20:24:37.921Z",
+  "worldAt": "2026-10-23T20:24:37.919Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -34,18 +34,39 @@ window.GDC_NEWS = {
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 29 stories",
+    "World · BBC News: 30 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 29 stories",
+    "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 33 stories",
     "Africa · Deutsche Welle: 6 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Advans Ghana Reaffirms Responsible Lending as It Serves 160,000 Clients",
+      "link": "https://thehighstreetjournal.com/advans-ghana-reaffirms-responsible-lending-as-it-serves-160000-clients/",
+      "source": "The High Street Journal",
+      "published": "2026-10-23T18:51:42.000Z",
+      "summary": "Advans Ghana says responsible lending and sound risk management will guide efforts to expand financing for underserved businesses and individuals across Ghana."
+    },
+    {
+      "title": "LemFi Expands Beyond Remittances Into Savings, Credit and Travel Services",
+      "link": "https://thehighstreetjournal.com/lemfi-expands-beyond-remittances-into-savings-credit-and-travel-services/",
+      "source": "The High Street Journal",
+      "published": "2026-10-23T17:43:43.000Z",
+      "summary": "LemFi is diversifying beyond remittances into UK savings, credit and travel eSIMs, seeking to deepen customer relationships, expand revenue opportunities and compete across the wider…"
+    },
+    {
+      "title": "MIIF Royalties Hit GH¢7.82bn, Near GH¢9bn Year-End Target",
+      "link": "https://thehighstreetjournal.com/miif-royalties-hit-gh%c2%a27-82bn-near-gh%c2%a29bn-year-end-target/",
+      "source": "The High Street Journal",
+      "published": "2026-10-23T17:28:36.000Z",
+      "summary": "MIIF recorded GH¢7.82 billion in mineral royalties in the first nine months of 2026, up 106%, driven by higher gold prices, production and improved mining revenue monitoring nationwide."
+    },
     {
       "title": "CBG calls for increased climate finance to scale nature-based solutions in Ghana",
       "link": "https://www.myjoyonline.com/cbg-calls-for-increased-climate-finance-to-scale-nature-based-solutions-in-ghana/",
@@ -1074,59 +1095,200 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-20T18:51:08.000Z",
       "summary": "Afenyo-Markin has filed fresh defamation suits against GoldBod CEO Sammy Gyamfi and NEIP CEO Eric Adjei following earlier procedural setbacks."
-    },
-    {
-      "title": "Ghana’s Refining Ambitions Rest on Delivery of US$28bn Petroleum Hub",
-      "link": "https://thehighstreetjournal.com/ghanas-refining-ambitions-rest-on-delivery-of-us28bn-petroleum-hub/",
-      "source": "The High Street Journal",
-      "published": "2026-10-20T18:13:52.000Z",
-      "summary": "Ghana’s US$28 billion Petroleum Hub Phase Two project will deliver a 300,000-barrel-per-day refinery, petrochemical plants and storage facilities over five years, as the country seeks to…"
-    },
-    {
-      "title": "Ghana makes significant progress in incorporating ESG in financial sector – Absa Bank Financial Markets Index",
-      "link": "https://www.myjoyonline.com/ghana-makes-significant-progress-in-incorporating-esg-in-financial-sector-absa-bank-financial-markets-index/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T17:57:06.000Z",
-      "summary": "The ABFMI said the Ghanaian banking regulation has also expanded beyond sustainability reporting to prudential ESG-risk management."
-    },
-    {
-      "title": "The future of the youth is too important for waste — Ato Forson",
-      "link": "https://www.myjoyonline.com/the-future-of-the-youth-is-too-important-for-waste-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-20T17:33:46.000Z",
-      "summary": "Finance Minister Dr. Cassiel Ato Forson has placed value for money at the heart of the New Economy agenda, saying Ghana cannot afford to waste resources needed to create opportunities for…"
     }
   ],
   "world": [
     {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-23T16:59:51.000Z",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg"
+      "published": "2026-10-23T20:18:13.000Z",
+      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg"
     },
     {
-      "title": "Brazil’s right has already changed the balance of power",
-      "link": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
+      "title": "Tigray official urges rebels to disarm",
+      "link": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-23T16:41:09.000Z",
-      "summary": "Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency."
+      "published": "2026-10-23T19:55:44.000Z",
+      "summary": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital."
+    },
+    {
+      "title": "Portugal’s last circus elephant begins a new life at wildlife sanctuary",
+      "link": "http://www.africanews.com/2026/10/23/portugals-last-circus-elephant-begins-a-new-life-at-wildlife-sanctuary/",
+      "source": "Africanews",
+      "published": "2026-10-23T19:47:16.000Z",
+      "summary": "A new beginning for Julie, Portugal’s last circus elephant, as she settles into life at a wildlife sanctuary in Alentejo, southern Portugal."
     },
     {
       "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
       "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-23T16:33:11.000Z",
+      "published": "2026-10-23T19:46:30.000Z",
       "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-      "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+      "title": "Ecuador judge orders pre-trial detention of leftist presidential candidate",
+      "link": "https://www.aljazeera.com/news/2026/10/23/ecuador-judge-orders-pre-trial-detention-of-leftist-presidential-candidate?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-23T16:37:59.000Z",
-      "summary": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village."
+      "published": "2026-10-23T19:45:26.000Z",
+      "summary": "Luisa Gonzalez, who lost to right-wing president Daniel Noboa in 2023, has called the arrest political persecution."
+    },
+    {
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-23T19:42:08.000Z",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+      "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-23T19:08:00.000Z",
+      "summary": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like."
+    },
+    {
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-23T19:30:19.000Z",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg"
+    },
+    {
+      "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T18:55:18.000Z",
+      "summary": "Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table."
+    },
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-23T18:52:17.000Z",
+      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "title": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261023-after-french-riots-curfews-calm-is-a-new-storm-brewing-plus-ukraine-israel",
+      "source": "France 24",
+      "published": "2026-10-23T18:48:11.000Z",
+      "summary": "It's been a week that’s seen mass protests hijacked by violent rioters across France. The looting of shops, trashing of public buildings, the burning of Lyon’s Tourist Information and the…",
+      "image": "https://s.france24.com/media/display/d79f6d6a-cf11-11f1-ade7-4b25c96ec90e/w:1024/p:16x9/%C3%89meute-urbaine-et-rencontre-diplomatique.png"
+    },
+    {
+      "title": "Israel locks down occupied West Bank after Hebron shooting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T18:38:26.000Z",
+      "summary": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers."
+    },
+    {
+      "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
+      "source": "France 24",
+      "published": "2026-10-23T18:26:35.000Z",
+      "summary": "As Israel approaches a consequential parliamentary election amid renewed violence in the occupied West Bank, Yedioth Ahronoth Senior Journalist Ben-Dror Yemini offers a critical assessment…",
+      "image": "https://s.france24.com/media/display/5a830376-cf04-11f1-89ad-4d317af013fd/w:1024/p:16x9/EN-20261023-184343-185025-CS.jpg"
+    },
+    {
+      "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+      "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T18:22:51.000Z",
+      "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote."
+    },
+    {
+      "title": "Benin earns four nominations at 2026 Africa Tourism Awards",
+      "link": "http://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/",
+      "source": "Africanews",
+      "published": "2026-10-23T18:21:36.000Z",
+      "summary": "Benin has been nominated in four categories at the 2026 Africa Tourism Awards, putting the West African nation in the spotlight for its cultural heritage and tourism appeal."
+    },
+    {
+      "title": "Trump administration sues to block possible Democratic win in Alaska",
+      "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:57:54.000Z",
+      "summary": "President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races."
+    },
+    {
+      "title": "Deforestation threatens fish stocks and livelihoods in Central African Republic",
+      "link": "http://www.africanews.com/2026/10/23/deforestation-threatens-fish-stocks-and-livelihoods-in-central-african-republic/",
+      "source": "Africanews",
+      "published": "2026-10-23T17:56:41.000Z",
+      "summary": "Experts say deforestation is causing lower water levels on the river, making it muddier and reducing its oxygen content, which makes it more difficult for fish to breed."
+    },
+    {
+      "title": "Many feared trapped after multistorey building collapses in Kenya",
+      "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:49:04.000Z",
+      "summary": "Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use."
+    },
+    {
+      "title": "How Israeli settlers wearing keffiyehs are attacking West Bank olive groves",
+      "link": "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves",
+      "source": "France 24",
+      "published": "2026-10-23T17:21:00.000Z",
+      "summary": "The olive harvest officially began in the West Bank on October 15, 2026, and it has coincided with an uptick in violence towards Palestinians carried out by both Israeli settlers and…",
+      "image": "https://s.france24.com/media/display/20c2ffac-c986-11f1-8f58-2d1c143cdef3/w:1024/p:16x9/olive-cover.png"
+    },
+    {
+      "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:47:20.000Z",
+      "summary": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques."
+    },
+    {
+      "title": "Israel: Could Arab parties play kingmaker in the next Knesset ?",
+      "link": "https://www.france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset",
+      "source": "France 24",
+      "published": "2026-10-23T17:11:58.000Z",
+      "summary": "As Israelis head to the polls for the first legislative election since Hamas's October 7 attacks, neither Prime Minister Benjamin #Netanyahu's Likud party nor former army chief of staff…",
+      "image": "https://s.france24.com/media/display/998981c6-cf04-11f1-afc7-5b4a75578ebb/w:1024/p:16x9/Miniature-Tanishk.jpg"
+    },
+    {
+      "title": "Bayern coach Kompany taken to hospital after collapsing during training",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:44:05.000Z",
+      "summary": "The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team's training sessions."
+    },
+    {
+      "title": "Gaza : digging up the bodies from under the rubble",
+      "link": "https://www.france24.com/en/tv-shows/the-observers/20261023-gaza-digging-up-the-bodies-from-under-the-rubble",
+      "source": "France 24",
+      "published": "2026-10-23T17:10:15.000Z",
+      "summary": "One year after the ceasefire in Gaza, efforts to recover the bodies buried beneath the rubble are continuing. Civil Defense officials say 1,000 bodies have been recovered so far, but the…",
+      "image": "https://s.france24.com/media/display/498e16f0-cf04-11f1-96fb-bba4eee3dc72/w:1024/p:16x9/EN-gaza-bodies-obs.png"
+    },
+    {
+      "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:30:51.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting."
+    },
+    {
+      "title": "France: shops barricaded in Lyon and Orléans for possible unrest",
+      "link": "http://www.africanews.com/2026/10/23/france-shops-barricaded-in-lyon-and-orleans-for-possible-unrest-as-protests-loom/",
+      "source": "Africanews",
+      "published": "2026-10-23T17:04:23.000Z",
+      "summary": "Wooden boards are going up across France as shopkeepers brace for possible unrest. With a National Rally congress in Orléans and protests approaching in Lyon, businesses fear damage and…"
+    },
+    {
+      "title": "US consumer sentiment hits a near-record low before midterm elections",
+      "link": "https://www.aljazeera.com/economy/2026/10/23/us-consumer-sentiment-hits-a-near-record-low-before-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:26:21.000Z",
+      "summary": "Independent voters’ economic anxieties highlight political implications of plummeting US consumer sentiment."
     },
     {
       "title": "🔴 Live: French student groups call for protests to continue after meeting with Macron",
@@ -1136,41 +1298,11 @@ window.GDC_NEWS = {
       "summary": ""
     },
     {
-      "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+      "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+      "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-23T16:29:51.000Z",
-      "summary": "A further escalation would 'create nothing but losers', the French foreign minister warns after joint Istanbul meeting ."
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-23T16:19:36.000Z",
-      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "title": "Deforestation threatens fish stocks and livelihoods in Central African Republic",
-      "link": "http://www.africanews.com/2026/10/23/deforestation-threatens-fish-stocks-and-livelihoods-in-central-african-republic/",
-      "source": "Africanews",
-      "published": "2026-10-23T16:17:18.000Z",
-      "summary": "Experts say deforestation is causing lower water levels on the river, making it muddier and reducing its oxygen content, which makes it more difficult for fish to breed."
-    },
-    {
-      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-23T16:17:02.000Z",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-      "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T16:08:04.000Z",
-      "summary": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl."
+      "published": "2026-10-23T17:26:13.000Z",
+      "summary": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters."
     },
     {
       "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
@@ -1181,6 +1313,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0594/live/4fa5d550-cefa-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "title": "Why Chinese families are rushing to buy gold",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:20:22.000Z",
+      "summary": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery."
+    },
+    {
       "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
       "link": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
       "source": "France 24",
@@ -1189,11 +1328,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/be36cda4-cef9-11f1-b713-5b4a75578ebb/w:1024/p:16x9/West-Bank-1.jpg"
     },
     {
-      "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-      "link": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+      "title": "Many feared trapped after Kenya building collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-23T15:51:29.000Z",
-      "summary": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump."
+      "published": "2026-10-23T17:01:05.000Z",
+      "summary": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi."
     },
     {
       "title": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
@@ -1204,6 +1343,13 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ce2ffdb4-cef6-11f1-93cf-bdb9616e85cf/w:1024/p:16x9/ban-olivier2-EN.jpg"
     },
     {
+      "title": "Indonesia seizes more than a tonne of ketamine from tanker",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:00:22.000Z",
+      "summary": "Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca."
+    },
+    {
       "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
       "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1212,11 +1358,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg"
     },
     {
-      "title": "South Africa's bilateral trade with China surges after zero-tariff deal",
-      "link": "http://www.africanews.com/2026/10/23/south-africas-bilateral-trade-with-china-surges-after-zero-tariff-deal/",
-      "source": "Africanews",
-      "published": "2026-10-23T15:13:46.000Z",
-      "summary": "Commerce between the two countries reached almost $15 billion from May through to August, representing a nearly 24 per cent year-on-year increase."
+      "title": "Brazil’s right has already changed the balance of power",
+      "link": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T16:41:09.000Z",
+      "summary": "Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency."
     },
     {
       "title": "Oil spill washes up on UAE beaches after tanker strike",
@@ -1227,256 +1373,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6926/live/c5f26d10-cef3-11f1-93e1-3b657b665bcf.png"
     },
     {
-      "title": "AKAA art and design fair brings African artists to Paris",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20261023-akaa-art-and-design-fair-brings-african-artists-to-paris",
-      "source": "France 24",
-      "published": "2026-10-23T15:13:37.000Z",
-      "summary": "Every year the art and design fair AKAA, or \"Also Known as Africa\", brings dozens of African and Afro-descendant artists to the French capital. As the 11th edition gets underway, we welcome…",
-      "image": "https://s.france24.com/media/display/716031c6-cee7-11f1-8f1a-bdb9616e85cf/w:1024/p:16x9/capture-94ad43c0.jpg"
-    },
-    {
-      "title": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss",
+      "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+      "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-23T15:04:44.000Z",
-      "summary": "Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game."
-    },
-    {
-      "title": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-      "link": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/",
-      "source": "Africanews",
-      "published": "2026-10-23T14:59:03.000Z",
-      "summary": "Several people are feared trapped after a multi-storey building under construction collapsed in Kenya's capital, Nairobi, on Friday, October 23."
-    },
-    {
-      "title": "US justice department investigating Corey Lewandowski over DHS role",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-23T14:58:19.000Z",
-      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c866/live/bcbfcae0-cee3-11f1-bdca-23c64447299f.jpg"
-    },
-    {
-      "title": "South Africa: Dwindling support for ANC amid service delivery chaos",
-      "link": "http://www.africanews.com/2026/10/23/south-africa-dwindling-support-for-anc-amid-service-delivery-chaos/",
-      "source": "Africanews",
-      "published": "2026-10-23T14:58:21.000Z",
-      "summary": "Outside the wealthy neighbourhoods, anger at lack of services like water or electricity has led many to say they won’t be voting."
-    },
-    {
-      "title": "What to know as Brazil prepares for tense presidential run-off",
-      "link": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T14:56:05.000Z",
-      "summary": "Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting."
-    },
-    {
-      "title": "Europe faces threat of organised sabotage, terrorist attacks: Estonian FM Tsahkna",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261023-europe-faces-threat-of-organised-sabotage-terrorist-attacks-estonian-fm-tsahkna",
-      "source": "France 24",
-      "published": "2026-10-23T14:55:15.000Z",
-      "summary": "Estonia's counterintelligence service has recently warned that sabotage operations orchestrated by Russian special services have reached a new and dangerous phase in Europe, with targets no…",
-      "image": "https://s.france24.com/media/display/ea372b5c-ce35-11f1-b2a4-97baf3e9dd31/w:1024/p:16x9/TALKING-EUROPE-MARGUS-TSAHKNA.png"
-    },
-    {
-      "title": "Afghan women could lose one of their last paths to a higher education",
-      "link": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-23T14:54:00.000Z",
-      "summary": "The US has defunded one of the last universities giving Afghan women the chance to receive an education after the Taliban takeover in 2021. DW spoke with a student who says she's lost hope…"
-    },
-    {
-      "title": "EU member states wrangle over all-important budget: Is a deal this year feasible?",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible",
-      "source": "France 24",
-      "published": "2026-10-23T14:45:47.000Z",
-      "summary": "A marathon EU summit on October 15-16 failed to produce a breakthrough on the European Union's next long-term budget. Although EU leaders put on a brave face at the end of the talks by…",
-      "image": "https://s.france24.com/media/display/1c61fbc0-ce36-11f1-95b2-7967b15eed96/w:1024/p:16x9/TALKING-EUROPE-DEBAT-BUDGET.png"
-    },
-    {
-      "title": "Egypt urges political solution to conflict between Saudi Arabia and Houthis",
-      "link": "http://www.africanews.com/2026/10/22/egypt-urges-political-solution-to-conflict-between-saudi-arabia-and-houthis/",
-      "source": "Africanews",
-      "published": "2026-10-23T14:35:13.000Z",
-      "summary": "Egypt's Foreign Minister Badr Abdelatty on Thursday said all options must be explored to find a political solution between Saudi Arabia and the Houthis."
-    },
-    {
-      "title": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
-      "link": "https://www.france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections",
-      "source": "France 24",
-      "published": "2026-10-23T14:32:07.000Z",
-      "summary": "After more than three years of war, the number of Israeli soldiers suffering from post-traumatic stress disorder following bloody campaigns in Gaza and Lebanon has risen drastically. In the…",
-      "image": "https://s.france24.com/media/display/3fb6481a-ce31-11f1-a74f-3f59e19fd7f8/w:1024/p:16x9/IMG-1262.jpg"
-    },
-    {
-      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-      "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-23T14:23:00.000Z",
-      "summary": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russia's airpace."
-    },
-    {
-      "title": "French protests: President Emmanuel Macron meets student unions representatives",
-      "link": "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
-      "source": "France 24",
-      "published": "2026-10-23T14:26:41.000Z",
-      "summary": "For the first time since the beginning of the mobilisation, French President Emmanuel Macron is set to meet student representatives as the government prepares for tomorrow's mobilisation…",
-      "image": "https://s.france24.com/media/display/6b6d8444-ceec-11f1-9feb-4d317af013fd/w:1024/p:16x9/EN-20261023-143406-143746-CS.jpg"
-    },
-    {
-      "title": "PSG v Lyon moved as Paris prepares for more protests",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-23T14:18:41.000Z",
-      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e74/live/35aca470-cee7-11f1-bdca-23c64447299f.jpg"
-    },
-    {
-      "title": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
-      "link": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb",
-      "source": "France 24",
-      "published": "2026-10-23T14:24:56.000Z",
-      "summary": "A gunman firing from a vehicle in a Paris suburb Friday killed one person and wounded several others, including a 12-year-old girl, in what French authorities suspect may have been a…",
-      "image": "https://s.france24.com/media/display/bba2647a-ceec-11f1-9b05-bdb9616e85cf/w:1024/p:16x9/EN-20261023-160059-160614-CS.jpg"
-    },
-    {
-      "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T14:16:14.000Z",
-      "summary": "Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club 'unfounded'."
-    },
-    {
-      "title": "France: Gunman kills one and wounds four in town outside Paris",
-      "link": "https://www.france24.com/en/france-gunman-kills-one-and-wounds-four-in-town-outside-paris",
-      "source": "France 24",
-      "published": "2026-10-23T14:21:35.000Z",
-      "summary": "Eliza Herbert has more.",
-      "image": "https://s.france24.com/media/display/8e435e94-ceec-11f1-8137-4d317af013fd/w:1024/p:16x9/EN-20261023-141220-141359-CS.jpg"
-    },
-    {
-      "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T14:15:52.000Z",
-      "summary": "Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley."
-    },
-    {
-      "title": "Several killed, dozens wounded in Jordan church shooting",
-      "link": "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting",
-      "source": "France 24",
-      "published": "2026-10-23T14:16:29.000Z",
-      "summary": "At least seven people have been killed and 34 others wounded in a church shooting in Jordan, authorities said Friday. The unidentified assailants allegedly attacked the Greek Orthodox…",
-      "image": "https://s.france24.com/media/display/6d35fb5e-cefa-11f1-b1ef-bba4eee3dc72/w:1024/p:16x9/000-D48U8BB.jpg"
-    },
-    {
-      "title": "Kenya: huge piles of rubble after high-rise building collapses",
-      "link": "http://www.africanews.com/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses/",
-      "source": "Africanews",
-      "published": "2026-10-23T14:15:32.000Z",
-      "summary": "A multi-storey building under construction has collapsed in Nairobi, leaving a vast pile of rubble. Red Cross workers have arrived at the scene, where excavators are being used among the…"
-    },
-    {
-      "title": "Why do women in public life become targets?",
-      "link": "https://www.france24.com/en/tv-shows/the-51/20261023-why-do-women-in-public-life-become-targets",
-      "source": "France 24",
-      "published": "2026-10-23T13:58:52.000Z",
-      "summary": "A brutal targeted attack on an Australian female MP, who lost both her legs as a result, has reignited concerns over the rising levels of violence against women in public life. Also Cornell…",
-      "image": "https://s.france24.com/media/display/5908bff4-ceeb-11f1-8d64-4b25c96ec90e/w:1024/p:16x9/EN-NW-PKG-HELEN-HAINES-ATTACK-BEN-BRAHIM-Jennifer.png"
-    },
-    {
-      "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
-      "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T13:50:26.000Z",
-      "summary": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility."
-    },
-    {
-      "title": "French authorities tighten restrictions and ban specific protests",
-      "link": "https://www.france24.com/en/french-authorities-tighten-restrictions-and-ban-specific-protests",
-      "source": "France 24",
-      "published": "2026-10-23T13:55:40.000Z",
-      "summary": "France is bracing for another weekend of protests, after violence erupted on the sidelines of last week's mobilisations. Paris is extending a partial curfew in parts of the city until…",
-      "image": "https://s.france24.com/media/display/d9bcbde0-cd5a-11f1-89c8-ab78a7fed2ce/w:1024/p:16x9/2026-10-21T123954Z-770228045-RC2K7OA8CUCO-RTRMADP-3-GREECE-PROTEST-STUDENTS.jpg"
-    }
-  ],
-  "africa": [
-    {
-      "title": "Nigeria: Ebola - FG Orders Strict Screening At Nigeria's Entry Points",
-      "link": "https://allafrica.com/stories/202610230516.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T17:05:59.000Z",
-      "summary": "[Premium Times] The Ministry of Health says the directive follows concerns raised by the Office of the National Security Adviser over reported breaches of approved Ebola entry protocols."
-    },
-    {
-      "title": "Ethiopia: Ethiopia's Abiy Inaugurates Major Megech Irrigation Dam",
-      "link": "https://allafrica.com/stories/202610230515.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-23T17:05:38.000Z",
-      "summary": "[Horn Diplomat] Gondar -- Ethiopian Prime Minister Abiy Ahmed on Friday inaugurated the Megech Irrigation Dam Project in Gondar, a major infrastructure development aimed at expanding…"
-    },
-    {
-      "title": "Kenya: Nairobi Braces for Heavy Rains and Flash Floods",
-      "link": "https://allafrica.com/stories/202610230512.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T16:59:47.000Z",
-      "summary": "[Capital FM] Nairobi -- The Kenya Meteorological Department has warned of heavy rainfall, flash floods and strong winds in dozens of counties, with the heaviest downpours expected between…"
-    },
-    {
-      "title": "Kenya: Eastleigh Collapse - Kalonzo Urges Probe Into Building Safety Failures",
-      "link": "https://allafrica.com/stories/202610230514.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-23T17:04:53.000Z",
-      "summary": "[Capital FM] Nairobi -- Wiper Patriotic Front leader Stephen Kalonzo Musyoka has called for accountability over the collapse of an incomplete multi-storey building in Eastleigh, Nairobi…"
-    },
-    {
-      "title": "Nigeria: Nigeria Now! Opens Its Project Boardrooms to Global Investors in Abuja",
-      "link": "https://allafrica.com/stories/202610230511.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T16:59:25.000Z",
-      "summary": "[Premium Times] With Nigeria's annual mining revenue up more than tenfold to above N70bn, Nigeria NOW! brings global investors to Abuja on 19 and 20 November, where the Minister of Solid…"
-    },
-    {
-      "title": "Kenya: Calls for Penalties Follow 12-Story Building Collapse",
-      "link": "https://allafrica.com/stories/202610230513.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-23T17:04:20.000Z",
-      "summary": "[Capital FM] Nairobi -- Nairobi Governor Johnson Sakaja has called for tougher penalties against rogue developers and the restoration of prosecutorial powers to county governments following…"
-    },
-    {
-      "title": "Rwanda: Kagame Defends Strict Dress Codes Amid Rwanda's Dressing Controversy",
-      "link": "https://allafrica.com/stories/202610230509.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T16:58:35.000Z",
-      "summary": "[Nile Post] Rwandan President Paul Kagame has defended cultural expectations on dressing, arguing that societies have their own standards of acceptable behaviour which should not be…"
-    },
-    {
-      "title": "Nigeria: First Holdco's Nine-Month Profit Leaps 63 Percent to N744.5 Billion",
-      "link": "https://allafrica.com/stories/202610230510.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-23T16:58:53.000Z",
-      "summary": "[Premium Times] The commercial banking division of the group accounted for 94 per cent of turnover and 87.4 per cent of post-tax profit."
-    },
-    {
-      "title": "Ethiopia: PM Abiy Stresses for Stronger Indigenous Capacity to Drive National Development",
-      "link": "https://allafrica.com/stories/202610230508.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T16:57:09.000Z",
-      "summary": "[ENA] Addis Ababa -- Prime Minister Abiy Ahmed has emphasized for stronger domestic institutional and human capacity, improved coordination among government institutions, and the removal of…"
-    },
-    {
-      "title": "Deforestation threatens fish stocks and livelihoods in Central African Republic",
-      "link": "http://www.africanews.com/2026/10/23/deforestation-threatens-fish-stocks-and-livelihoods-in-central-african-republic/",
-      "source": "Africanews",
-      "published": "2026-10-23T16:17:18.000Z",
-      "summary": "Experts say deforestation is causing lower water levels on the river, making it muddier and reducing its oxygen content, which makes it more difficult for fish to breed."
-    },
-    {
-      "title": "Liberia: Court Convicts NSA Agent Peter Bon Jallah of Statutory Rape, Kidnapping of 16-Year-Old Boy",
-      "link": "https://allafrica.com/stories/202610230506.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T16:56:16.000Z",
-      "summary": "[Liberian Investigator] National Security Agency agent Peter Bon Jallah was convicted Friday of the statutory rape and kidnapping of a 16-year-old boy and ordered held at the Monrovia…"
+      "published": "2026-10-23T16:37:59.000Z",
+      "summary": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village."
     },
     {
       "title": "South Africa's bilateral trade with China surges after zero-tariff deal",
@@ -1486,11 +1387,139 @@ window.GDC_NEWS = {
       "summary": "Commerce between the two countries reached almost $15 billion from May through to August, representing a nearly 24 per cent year-on-year increase."
     },
     {
-      "title": "Many feared trapped under collapsed building in Nairobi",
-      "link": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-23T14:09:00.000Z",
-      "summary": "People are feared to be trapped after a large, unfinished building in Nairobi collapsed during construction. Rescue operations have proven complicated as police fired tear gas to disperse…"
+      "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T16:29:51.000Z",
+      "summary": "An escalation would 'create nothing but losers', French foreign minister says as US official warns of possible strike."
+    }
+  ],
+  "africa": [
+    {
+      "title": "Tigray official urges rebels to disarm",
+      "link": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T19:55:44.000Z",
+      "summary": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital."
+    },
+    {
+      "title": "Benin earns four nominations at 2026 Africa Tourism Awards",
+      "link": "http://www.africanews.com/2026/10/23/benin-earns-four-nominations-at-2026-africa-tourism-awards/",
+      "source": "Africanews",
+      "published": "2026-10-23T18:21:36.000Z",
+      "summary": "Benin has been nominated in four categories at the 2026 Africa Tourism Awards, putting the West African nation in the spotlight for its cultural heritage and tourism appeal."
+    },
+    {
+      "title": "Many feared trapped after multistorey building collapses in Kenya",
+      "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:49:04.000Z",
+      "summary": "Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use."
+    },
+    {
+      "title": "Deforestation threatens fish stocks and livelihoods in Central African Republic",
+      "link": "http://www.africanews.com/2026/10/23/deforestation-threatens-fish-stocks-and-livelihoods-in-central-african-republic/",
+      "source": "Africanews",
+      "published": "2026-10-23T17:56:41.000Z",
+      "summary": "Experts say deforestation is causing lower water levels on the river, making it muddier and reducing its oxygen content, which makes it more difficult for fish to breed."
+    },
+    {
+      "title": "Zimbabwe: Stanbic Bank Urges Zimbabwe to Put Sustainability At Heart of Economic Growth",
+      "link": "https://allafrica.com/stories/202610230541.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-23T17:16:46.000Z",
+      "summary": "[263Chat] Stanbic Bank Zimbabwe has called for sustainability to be integrated into the country's economic development strategy saying long-term growth must balance investment, social…"
+    },
+    {
+      "title": "Zimbabwe: Zimbabwe Urged to Rethink Social Protection Funding Amid Rising Needs",
+      "link": "https://allafrica.com/stories/202610230540.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T17:16:17.000Z",
+      "summary": "[263Chat] Zimbabwe needs sustainable and inclusive financing models to protect vulnerable households from poverty, unemployment and climate-related shocks, Deputy Minister of Labour and…"
+    },
+    {
+      "title": "Ethiopia: Ethiopia's Abiy Inaugurates Major Megech Irrigation Dam",
+      "link": "https://allafrica.com/stories/202610230515.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-23T17:05:38.000Z",
+      "summary": "[Horn Diplomat] Gondar -- Ethiopian Prime Minister Abiy Ahmed on Friday inaugurated the Megech Irrigation Dam Project in Gondar, a major infrastructure development aimed at expanding…"
+    },
+    {
+      "title": "Kenya: High Court Suspends Joho's Directive Allowing Fishing in Lake Nakuru",
+      "link": "https://allafrica.com/stories/202610230539.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T17:15:09.000Z",
+      "summary": "[Capital FM] Nakuru -- The High Court in Nakuru has temporarily suspended a directive by Mining, Blue Economy and Maritime Affairs Cabinet Secretary Hassan Joho allowing fishermen to resume…"
+    },
+    {
+      "title": "Kenya: Eastleigh Collapse - Kalonzo Urges Probe Into Building Safety Failures",
+      "link": "https://allafrica.com/stories/202610230514.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-23T17:04:53.000Z",
+      "summary": "[Capital FM] Nairobi -- Wiper Patriotic Front leader Stephen Kalonzo Musyoka has called for accountability over the collapse of an incomplete multi-storey building in Eastleigh, Nairobi…"
+    },
+    {
+      "title": "West Africa: Qnet Reports Rescue of 300 Scam Victims, Strengthens Fight Against Fraud in West Africa",
+      "link": "https://allafrica.com/stories/202610230538.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T17:14:06.000Z",
+      "summary": "[Liberian Investigator] International direct-selling company QNET says its collaboration with law enforcement agencies across West Africa has helped rescue more than 300 suspected scam…"
+    },
+    {
+      "title": "Kenya: Calls for Penalties Follow 12-Story Building Collapse",
+      "link": "https://allafrica.com/stories/202610230513.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-23T17:04:20.000Z",
+      "summary": "[Capital FM] Nairobi -- Nairobi Governor Johnson Sakaja has called for tougher penalties against rogue developers and the restoration of prosecutorial powers to county governments following…"
+    },
+    {
+      "title": "Nigeria: Court Rejects Key Evidence in Dasuki's N33.2bn Trial",
+      "link": "https://allafrica.com/stories/202610230535.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T17:12:41.000Z",
+      "summary": "[Premium Times] The judge ruled that the statements \"failed to comply with sections 15(4) and 17(2) of the Administration of Criminal Justice Act.\""
+    },
+    {
+      "title": "Many feared trapped after Kenya building collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:01:05.000Z",
+      "summary": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi."
+    },
+    {
+      "title": "Nigeria: Ebola - FG Orders Strict Screening At Nigeria's Entry Points",
+      "link": "https://allafrica.com/stories/202610230516.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T17:05:59.000Z",
+      "summary": "[Premium Times] The Ministry of Health says the directive follows concerns raised by the Office of the National Security Adviser over reported breaches of approved Ebola entry protocols."
+    },
+    {
+      "title": "Nigeria: First Holdco's Nine-Month Profit Leaps 63 Percent to N744.5 Billion",
+      "link": "https://allafrica.com/stories/202610230510.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-23T16:58:53.000Z",
+      "summary": "[Premium Times] The commercial banking division of the group accounted for 94 per cent of turnover and 87.4 per cent of post-tax profit."
+    },
+    {
+      "title": "Kenya: Nairobi Braces for Heavy Rains and Flash Floods",
+      "link": "https://allafrica.com/stories/202610230512.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T16:59:47.000Z",
+      "summary": "[Capital FM] Nairobi -- The Kenya Meteorological Department has warned of heavy rainfall, flash floods and strong winds in dozens of counties, with the heaviest downpours expected between…"
+    },
+    {
+      "title": "South Africa's bilateral trade with China surges after zero-tariff deal",
+      "link": "http://www.africanews.com/2026/10/23/south-africas-bilateral-trade-with-china-surges-after-zero-tariff-deal/",
+      "source": "Africanews",
+      "published": "2026-10-23T15:13:46.000Z",
+      "summary": "Commerce between the two countries reached almost $15 billion from May through to August, representing a nearly 24 per cent year-on-year increase."
+    },
+    {
+      "title": "Nigeria: Nigeria Now! Opens Its Project Boardrooms to Global Investors in Abuja",
+      "link": "https://allafrica.com/stories/202610230511.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T16:59:25.000Z",
+      "summary": "[Premium Times] With Nigeria's annual mining revenue up more than tenfold to above N70bn, Nigeria NOW! brings global investors to Abuja on 19 and 20 November, where the Minister of Solid…"
     },
     {
       "title": "Nairobi building collapse raises safety concerns as rescuers search rubble",
@@ -1500,11 +1529,11 @@ window.GDC_NEWS = {
       "summary": "Several people are feared trapped after a multi-storey building under construction collapsed in Kenya's capital, Nairobi, on Friday, October 23."
     },
     {
-      "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T13:45:21.000Z",
-      "summary": "Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August."
+      "title": "Rwanda: Kagame Defends Strict Dress Codes Amid Rwanda's Dressing Controversy",
+      "link": "https://allafrica.com/stories/202610230509.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T16:58:35.000Z",
+      "summary": "[Nile Post] Rwandan President Paul Kagame has defended cultural expectations on dressing, arguing that societies have their own standards of acceptable behaviour which should not be…"
     },
     {
       "title": "South Africa: Dwindling support for ANC amid service delivery chaos",
@@ -1514,11 +1543,11 @@ window.GDC_NEWS = {
       "summary": "Outside the wealthy neighbourhoods, anger at lack of services like water or electricity has led many to say they won’t be voting."
     },
     {
-      "title": "As President Paul Biya returns to Cameroon, can he still rule?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T12:52:28.000Z",
-      "summary": "Cameroonians are wondering who Biya will appoint as vice president and possible successor."
+      "title": "Ethiopia: PM Abiy Stresses for Stronger Indigenous Capacity to Drive National Development",
+      "link": "https://allafrica.com/stories/202610230508.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T16:57:09.000Z",
+      "summary": "[ENA] Addis Ababa -- Prime Minister Abiy Ahmed has emphasized for stronger domestic institutional and human capacity, improved coordination among government institutions, and the removal of…"
     },
     {
       "title": "Egypt urges political solution to conflict between Saudi Arabia and Houthis",
@@ -1528,11 +1557,11 @@ window.GDC_NEWS = {
       "summary": "Egypt's Foreign Minister Badr Abdelatty on Thursday said all options must be explored to find a political solution between Saudi Arabia and the Houthis."
     },
     {
-      "title": "Congo-Kinshasa: As Ebola Spreads to 8th DR Congo Province, Families Battle to Feed Themselves",
-      "link": "https://allafrica.com/stories/202610230400.html",
+      "title": "Liberia: Court Convicts NSA Agent Peter Bon Jallah of Statutory Rape, Kidnapping of 16-Year-Old Boy",
+      "link": "https://allafrica.com/stories/202610230506.html",
       "source": "AllAfrica",
-      "published": "2026-10-23T12:45:53.000Z",
-      "summary": "[allAfrica] Geneva -- Hunger in the Democratic Republic of Congo (DR Congo) is undermining efforts to combat Ebola as the deadly disease has expanded across borders and also to an eighth…"
+      "published": "2026-10-23T16:56:16.000Z",
+      "summary": "[Liberian Investigator] National Security Agency agent Peter Bon Jallah was convicted Friday of the statutory rape and kidnapping of a 16-year-old boy and ordered held at the Monrovia…"
     },
     {
       "title": "Kenya: huge piles of rubble after high-rise building collapses",
@@ -1542,11 +1571,18 @@ window.GDC_NEWS = {
       "summary": "A multi-storey building under construction has collapsed in Nairobi, leaving a vast pile of rubble. Red Cross workers have arrived at the scene, where excavators are being used among the…"
     },
     {
-      "title": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday",
-      "link": "https://allafrica.com/stories/202610230385.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T12:12:19.000Z",
-      "summary": "[Nile Post] Former Busiro South Member of Parliament Charles Matovu will be buried on Sunday, October 25, 2026, at his ancestral home in Kungu-Lutale along Nakawuka Road, according to a…"
+      "title": "Many feared trapped under collapsed building in Nairobi",
+      "link": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-23T14:09:00.000Z",
+      "summary": "People are feared to be trapped after a large, unfinished building in Nairobi collapsed during construction. Rescue operations have proven complicated as police fired tear gas to disperse…"
+    },
+    {
+      "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T13:45:21.000Z",
+      "summary": "Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August."
     },
     {
       "title": "Tigray is still at war, rebel leader warns, claiming tactical victories",
@@ -1556,11 +1592,18 @@ window.GDC_NEWS = {
       "summary": "The leader of Ethiopia’s rebel Tigray People’s Liberation Front says the northern state is still at war. In a message aired on Tigrayan television on Wednesday, Debretsion Gebremichael said…"
     },
     {
-      "title": "South Africa: Nigerian National Arrested in Ermelo for Commercial Sexual Exploitation",
-      "link": "https://allafrica.com/stories/202610230384.html",
+      "title": "As President Paul Biya returns to Cameroon, can he still rule?",
+      "link": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T12:52:28.000Z",
+      "summary": "Cameroonians are wondering who Biya will appoint as vice president and possible successor."
+    },
+    {
+      "title": "Congo-Kinshasa: As Ebola Spreads to 8th DR Congo Province, Families Battle to Feed Themselves",
+      "link": "https://allafrica.com/stories/202610230400.html",
       "source": "AllAfrica",
-      "published": "2026-10-23T12:12:18.000Z",
-      "summary": "[SAnews.gov.za] The Directorate for Priority Crime Investigation (DPCI) has arrested a 46-year-old Nigerian national, following an operation targeting premises allegedly linked to…"
+      "published": "2026-10-23T12:45:53.000Z",
+      "summary": "[allAfrica] Geneva -- Hunger in the Democratic Republic of Congo (DR Congo) is undermining efforts to combat Ebola as the deadly disease has expanded across borders and also to an eighth…"
     },
     {
       "title": "Zimbabwe: Attempted Gold Mine Takeover Leaves Trail of Injuries and Plunder in Filabusi",
@@ -1570,11 +1613,11 @@ window.GDC_NEWS = {
       "summary": "[263Chat] FILABUSI, ZIMBABWE -- Andre Coetzee, a 73-year-old gold miner, is living in fear following a brutal attack on December 13, 2024, that nearly took his life."
     },
     {
-      "title": "Africa: WHO and Enhypen Join Efforts to Inspire Young Blood Donors Globally",
-      "link": "https://allafrica.com/stories/202610230382.html",
+      "title": "Uganda: Former Busiro South MP Charles Matovu to Be Buried On Sunday",
+      "link": "https://allafrica.com/stories/202610230385.html",
       "source": "AllAfrica",
-      "published": "2026-10-23T12:12:08.000Z",
-      "summary": "[WHO] World Health Organization (WHO) Director-General Dr Tedros Adhanom Ghebreyesus met with global K-pop powerhouse ENHYPEN in Seoul on 22 October to celebrate the success of their…"
+      "published": "2026-10-23T12:12:19.000Z",
+      "summary": "[Nile Post] Former Busiro South Member of Parliament Charles Matovu will be buried on Sunday, October 25, 2026, at his ancestral home in Kungu-Lutale along Nakawuka Road, according to a…"
     },
     {
       "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
@@ -1584,11 +1627,11 @@ window.GDC_NEWS = {
       "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection."
     },
     {
-      "title": "Kenya: Wetangula - Sifuna Too Green for Presidency",
-      "link": "https://allafrica.com/stories/202610230379.html",
+      "title": "South Africa: Nigerian National Arrested in Ermelo for Commercial Sexual Exploitation",
+      "link": "https://allafrica.com/stories/202610230384.html",
       "source": "AllAfrica",
-      "published": "2026-10-23T12:09:41.000Z",
-      "summary": "[Capital FM] Nairobi -- National Assembly Speaker Moses Wetangula has renewed his criticism of Nairobi Senator Edwin Sifuna's presidential ambitions, arguing that Kenya needs a leader with…"
+      "published": "2026-10-23T12:12:18.000Z",
+      "summary": "[SAnews.gov.za] The Directorate for Priority Crime Investigation (DPCI) has arrested a 46-year-old Nigerian national, following an operation targeting premises allegedly linked to…"
     },
     {
       "title": "World champion Jepchirchir fails drugs test",
@@ -1599,11 +1642,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c292/live/4a3d4a90-ced6-11f1-b2b0-07f43a3ad2d3.jpg"
     },
     {
-      "title": "Somalia: Ilhan Omar to Leave Washington Home After Federal Search and Death Threats",
-      "link": "https://allafrica.com/stories/202610230364.html",
+      "title": "Africa: WHO and Enhypen Join Efforts to Inspire Young Blood Donors Globally",
+      "link": "https://allafrica.com/stories/202610230382.html",
       "source": "AllAfrica",
-      "published": "2026-10-23T11:56:47.000Z",
-      "summary": "[Shabelle] Washington -- US Congresswoman Ilhan Omar says she plans to move out of her Washington home after federal agents searched the property, citing death threats and concerns for her…"
+      "published": "2026-10-23T12:12:08.000Z",
+      "summary": "[WHO] World Health Organization (WHO) Director-General Dr Tedros Adhanom Ghebreyesus met with global K-pop powerhouse ENHYPEN in Seoul on 22 October to celebrate the success of their…"
     },
     {
       "title": "Nigeria: Health Is Economic Infrastructure - Why Nigeria Must Invest in Health",
@@ -1613,11 +1656,11 @@ window.GDC_NEWS = {
       "summary": "[Nigeria Health Watch] Listen to this article 8 min The recently concluded World Health Summit in Berlin, themed \"From Crisis to Resilience: Innovating for Health\", reinforced a key…"
     },
     {
-      "title": "South Africa: How Nurses Are Learning to Administer the New HIV Prevention Injection",
-      "link": "https://allafrica.com/stories/202610230332.html",
+      "title": "Kenya: Wetangula - Sifuna Too Green for Presidency",
+      "link": "https://allafrica.com/stories/202610230379.html",
       "source": "AllAfrica",
-      "published": "2026-10-23T11:38:38.000Z",
-      "summary": "[spotlight] South Africa's rollout of lenacapavir, a six-monthly HIV prevention injection, requires nurses to learn, adapt and find ways to make it work for patients."
+      "published": "2026-10-23T12:09:41.000Z",
+      "summary": "[Capital FM] Nairobi -- National Assembly Speaker Moses Wetangula has renewed his criticism of Nairobi Senator Edwin Sifuna's presidential ambitions, arguing that Kenya needs a leader with…"
     },
     {
       "title": "South Africa: Mandela Bay Welcomes Progress On Proposed Nuclear Power Plant",
@@ -1627,61 +1670,11 @@ window.GDC_NEWS = {
       "summary": "[SAnews.gov.za] Nelson Mandela Bay Mayor Babalwa Lobishe has welcomed the acceptance of the final scoping report for Eskom's proposed 5 200-megawatt nuclear power plant at Thyspunt in the…"
     },
     {
-      "title": "Malawi: Schools Urged to Adapt As Heatwave Warning Issued Across Malawi",
-      "link": "https://allafrica.com/stories/202610230326.html",
+      "title": "Somalia: Ilhan Omar to Leave Washington Home After Federal Search and Death Threats",
+      "link": "https://allafrica.com/stories/202610230364.html",
       "source": "AllAfrica",
-      "published": "2026-10-23T11:36:42.000Z",
-      "summary": "[Nyasa Times] Schools and other learning institutions have been urged to implement immediate measures to protect learners and staff following a heatwave alert issued by the Department of…"
-    },
-    {
-      "title": "Namibia: Govt Reviews Sugar Vat Zero-Rating",
-      "link": "https://allafrica.com/stories/202610230337.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-23T11:41:08.000Z",
-      "summary": "[Namibian] Finance minister Ericah Shafudah says the government is reviewing the zero-rating of value-added tax (VAT) on sugar consumption, raising the possibility of changes to the tax…"
-    },
-    {
-      "title": "Kenya: 'No Ebola Billionaires' Says Duale",
-      "link": "https://allafrica.com/stories/202610230323.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T11:35:22.000Z",
-      "summary": "[Capital FM] Nairobi -- Health Cabinet Secretary Aden Duale has vowed to prevent corruption and profiteering in Kenya's response to the Ebola outbreak, warning that there will be no \"Ebola…"
-    },
-    {
-      "title": "Mozambique: Tenders to Contract Private Operators for Railway Network Underway",
-      "link": "https://allafrica.com/stories/202610230321.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-23T11:34:46.000Z",
-      "summary": "[AIM] Maputo -- The publicly-owned company Ports and Railways of Mozambique (CFM) has announced that public tenders public tenders are underway to contract private operators for the…"
-    },
-    {
-      "title": "Mozambique: Anamola Reports Murder of Another Senior Member in Inhambane",
-      "link": "https://allafrica.com/stories/202610230317.html",
-      "source": "AllAfrica",
-      "published": "2026-10-23T11:29:49.000Z",
-      "summary": "[AIM] Maputo -- The National Alliance for a Free and Autonomous Mozambique (Anamola), the political party led by former presidential candidate Venancio Mondlane, has reported the murder of…"
-    },
-    {
-      "title": "South African author defends use of AI to write her books",
-      "link": "http://www.africanews.com/2026/10/23/south-african-author-defends-use-of-ai-to-write-her-books/",
-      "source": "Africanews",
-      "published": "2026-10-23T11:03:39.000Z",
-      "summary": "Coral Hart - a pseudonym she uses to protect her real name - has published more than 370 books in just 20 months using AI."
-    },
-    {
-      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-23T10:36:01.000Z",
-      "summary": "This is President Peter Mutharika's fifth visit to South Africa this year.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5023/live/f9dfa580-cea7-11f1-bbfb-357cf921a5e9.jpg"
-    },
-    {
-      "title": "F1's Lewis Hamilton says he'll keep driving to achieve dream of racing in Africa",
-      "link": "http://www.africanews.com/2026/10/23/f1s-lewis-hamilton-says-hell-keep-driving-to-achieve-dream-of-racing-in-africa/",
-      "source": "Africanews",
-      "published": "2026-10-23T10:25:15.000Z",
-      "summary": "Ferrari driver Lewis Hamilton welcomed Formula 1’s plan to return to Africa, saying he’ll extend his career until he can race on the continent."
+      "published": "2026-10-23T11:56:47.000Z",
+      "summary": "[Shabelle] Washington -- US Congresswoman Ilhan Omar says she plans to move out of her Washington home after federal agents searched the property, citing death threats and concerns for her…"
     }
   ]
 };

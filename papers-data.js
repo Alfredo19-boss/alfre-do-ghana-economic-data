@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-23T17:08:28.103Z",
+  "updated": "2026-10-23T20:24:51.091Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,94 +25,177 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Motor rider allegedly stabbed to death at Akame",
-      "link": "https://www.myjoyonline.com/motor-rider-allegedly-stabbed-to-death-at-akame/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T17:00:21.000Z",
-      "summary": "A motor rider, identified as Lorlorne Kudah, believed to be in his late 20s, has allegedly been stabbed to death at Akame in the Ketu South Municipality of the Volta Region.",
+      "title": "ITTF-Africa Veep Mawuko Afadzinu joins continental deliberations at ITTF-Africa AGM in Morocco",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ittf-africa-veep-mawuko-afadzinu-joins-continental-deliberations-at-ittf-africa-agm-in-morocco.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-23T20:02:47.000Z",
+      "summary": "It was organised by the Royal Moroccan Table Tennis Federation under the auspices of ITTF-Africa. The AGM brought together stakeholders in African table tennis to deliberate on the…",
       "categories": [
-        "Crime",
-        "Regional",
-        "Akame",
-        "Motor rider"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/CourtCrime-Akame-Murder.jpeg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/MAWUKO.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Agalga urges NDC members to maintain peace ahead of constituency elections",
+      "link": "https://www.myjoyonline.com/agalga-urges-ndc-members-to-maintain-peace-ahead-of-constituency-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T19:45:59.000Z",
+      "summary": "The Majority Leader in Parliament and Member of Parliament for Builsa North, James Agalga, has appealed to members of the National Democratic Congress (NDC) to maintain peace and unity as…",
+      "categories": [
+        "National",
+        "James Agalga",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2922-1024x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Garden City University College, Prempeh College partner to address decline in business studies",
-      "link": "https://www.myjoyonline.com/garden-city-university-college-prempeh-college-partner-to-address-decline-in-business-studies/",
+      "title": "FIFA appoints normalisation committee to oversee Nigerian football until 2027",
+      "link": "https://www.graphic.com.gh/sports/sports-news/fifa-appoints-normalisation-committee-to-oversee-nigerian-football-until-2027.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-23T19:32:35.000Z",
+      "summary": "“The normalisation committee shall consist of a suitable number of members, who will be appointed jointly by FIFA and CAF as soon as possible,” the letter stated. FIFA said the committee…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/FIFA3.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "President Mahama arrives in Ethiopia, joins PM Abiy to commission Megech Irrigation Project",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-arrives-in-ethiopia-joins-pm-abiy-to-commission-megech-irrigation-project.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T19:31:04.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GPL 26/27: Hearts pip Holy Stars to go top of the table after 3rd consecutive win",
+      "link": "https://www.myjoyonline.com/gpl-26-27-hearts-pip-holy-stars-to-go-top-of-the-table-after-3rd-consecutive-win/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T17:00:17.000Z",
-      "summary": "Garden City University College (GCUC) has established a strategic partnership with Prempeh College to address the challenges facing Senior High School (SHS) business students as they…",
+      "published": "2026-10-23T19:28:56.000Z",
+      "summary": "Accra Hearts of Oak secured a 1-0 victory over Holy Stars at the University of Ghana Stadium on Friday. Martin Karikari scored the decisive goal to ensure a third consecutive league win for…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Accra Hearts of Oak",
+        "Ghana",
+        "Ghana Premier League",
+        "Hearts of Oak",
+        "Holy Stars",
+        "Victor Atsu Tamakloe"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HVVdE3oWIAAOw-U-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vincent Kompany hospitalised after collapsing at training",
+      "link": "https://www.graphic.com.gh/sports/sports-news/vincent-kompany-hospitalised-after-collapsing-at-training.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-23T19:03:52.000Z",
+      "summary": "Reports in Germany indicate that Kompany is in a stable condition in hospital. “Vincent Kompany required medical attention after collapsing during an FC Bayern reserve team training session…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/KOMPANY.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana unveils world Armwrestling championship squad, appeals for travel support",
+      "link": "https://www.myjoyonline.com/ghana-unveils-world-armwrestling-championship-squad-appeals-for-travel-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T18:56:36.000Z",
+      "summary": "The Ghana Armwrestling Federation has unveiled a formidable squad for the upcoming World Armwrestling Championship in New Delhi, India, while appealing to corporate Ghana, government…",
+      "categories": [
+        "Other Sports",
+        "Armwrestling",
+        "Ghana",
+        "Ghana Armwrestling Federation (GAF)",
+        "Sports",
+        "World Armwrestling Championship"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-13.49.28-1024x690.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Newsfile to discuss Obuasi SHTS abuse case, GH₵49m SA evacuation, World Cup visa scandal",
+      "link": "https://www.myjoyonline.com/newsfile-to-discuss-obuasi-shts-abuse-case-gh49m-sa-evacuation-world-cup-visa-scandal/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T18:49:39.000Z",
+      "summary": "This Saturday on Newsfile: three scandals, new revelations, unanswered questions.",
+      "categories": [
+        "National",
+        "Newsfile"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2302.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "link": "https://www.myjoyonline.com/seven-shot-dead-by-gunmen-at-church-funeral-in-jordan-officials-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T18:49:08.000Z",
+      "summary": "Seven people have been killed in an attack on a funeral in central Jordan, officials have said.",
+      "categories": [
+        "HP News 9",
+        "International",
+        "Church",
+        "Gunmen",
+        "Jordan"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2294-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ATU seeks support to address infrastructure gaps",
+      "link": "https://www.myjoyonline.com/atu-seeks-support-to-address-infrastructure-gaps/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T18:48:44.000Z",
+      "summary": "Accra Technical University (ATU) is seeking financial support to address infrastructure gaps and improve the delivery of technical education.",
       "categories": [
         "Education",
-        "National",
-        "Garden City University College",
-        "Prempeh College"
+        "HP News 7",
+        "ATU"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2289-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2297.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bunkpurugu chieftaincy dispute: Chief Justice orders transfer of case to Tamale over security fears",
-      "link": "https://www.myjoyonline.com/bunkpurugu-chieftaincy-dispute-chief-justice-orders-transfer-of-case-to-tamale-over-security-fears/",
+      "title": "GTEC summons technical university leaders, TUTAG for talks over strike",
+      "link": "https://www.myjoyonline.com/gtec-summons-technical-university-leaders-tutag-for-talks-over-strike/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T17:00:03.000Z",
-      "summary": "The Chief Justice has granted a request by defendants in the Bunkpurugu chieftaincy dispute to transfer their case from the High Court in Nalerigu to Tamale over security concerns.",
+      "published": "2026-10-23T18:44:43.000Z",
+      "summary": "The Ghana Tertiary Education Commission (GTEC) has invited management of all technical universities and national leaders of the Technical University Teachers’ Association of Ghana (TUTAG)…",
       "categories": [
-        "Regional",
-        "Bunkpurugu chieftaincy dispute",
-        "Chief Justice"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2291-768x1024-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Maybe it is designated for a cassava plantation’ – GoldStars boss criticises Debibi Presby pitch",
-      "link": "https://www.myjoyonline.com/maybe-it-is-designated-for-a-cassava-plantation-goldstars-boss-criticises-debibi-presby-pitch/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T16:55:43.000Z",
-      "summary": "His remarks came after Gold Stars suffered a 1-0 defeat to Debibi United over the weekend in their 2026/27 Ghana Premier League Matchday 7 fixture.",
-      "categories": [
-        "Football",
+        "Education",
+        "HP News 1",
         "National",
-        "Bibiani Goldstars",
-        "Debibi United",
-        "Ghana Premier League"
+        "Ghana Tertiary Education Commission (GTEC)",
+        "Strike",
+        "TUTAG"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-141411.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/prof-jinapor-gtec.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Second batch of GAF recruits report for basic military training",
-      "link": "https://www.myjoyonline.com/second-batch-of-gaf-recruits-report-for-basic-military-training/",
+      "title": "Don’t sacrifice NDC’s 2028 ambition for internal elections – Majority Leader",
+      "link": "https://www.myjoyonline.com/dont-sacrifice-ndcs-2028-ambition-for-internal-elections-majority-leader/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T16:46:23.000Z",
-      "summary": "The second batch of recruits of the Ghana Armed Forces (GAF) have officially reported to various training centres to commence Basic Military Training on Friday, October 23, 2026.The second…",
+      "published": "2026-10-23T18:40:31.000Z",
+      "summary": "Majority Leader and Builsa North MP James Agalga has cautioned members of the National Democratic Congress (NDC) against allowing internal rivalry ahead of the party’s constituency…",
       "categories": [
         "National",
-        "basic military training",
-        "Ghana Armed Forces (GAF)",
-        "Second batch recruits"
+        "James Agalga",
+        "NDC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/864234840_916223998094801_4063334937586925293_n-1024x673.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ga Mantse King Tackie Teiko Tsuru II to chair GJA 30th anniversary Awards",
-      "link": "https://www.myjoyonline.com/ga-mantse-king-tackie-teiko-tsuru-ii-to-chair-gja-30th-anniversary-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T16:31:39.000Z",
-      "summary": "The Ga Mantse, His Royal Majesty King Tackie Teiko Tsuru II, has accepted an invitation to chair the Ghana Journalists Association’s (GJA) 30th anniversary celebration and Awards. The…",
-      "categories": [
-        "News",
-        "30th anniversary",
-        "Ga Mantse",
-        "GJA",
-        "King Tackie Teiko Tsuru II"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-25-2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2923-819x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -128,35 +211,95 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GIZ seeks private-sector partners for AI training programme targeting 120 graduates",
-      "link": "https://www.myjoyonline.com/giz-seeks-private-sector-partners-for-ai-training-programme-targeting-120-graduates/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T16:23:11.000Z",
-      "summary": "The German International Cooperation (GIZ) is seeking private-sector partnerships for a new artificial intelligence (AI) training programme aimed at equipping 120 tertiary graduates with…",
+      "title": "hana High Commission seeks relatives of deceased Ghanaian in Nigeria",
+      "link": "https://ghanaiantimes.com.gh/hana-high-commission-seeks-relatives-of-deceased-ghanaian-in-nigeria/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T16:19:03.000Z",
+      "summary": "The Ghana High Commission in Abuja, Nigeria, is appealing to the public to help trace the relatives or next of kin of Apia Solomon, a Ghanaian national believed to be from Osu, Accra…",
       "categories": [
-        "Education",
-        "AI",
-        "GIZ",
-        "graduates",
-        "private sector"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-17.02.38-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Paga becomes Africa’s first pilot for Jamaican community tourism initiative",
-      "link": "https://www.myjoyonline.com/paga-becomes-africas-first-pilot-for-jamaican-community-tourism-initiative/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T16:20:23.000Z",
-      "summary": "Paga, in the Kassena-Nankana West District of the Upper East Region, has become the first African pilot site for a Jamaican community tourism initiative aimed at turning communities with…",
+      "title": "Richard Kumadoe blames flawed recruitment for problems at BNI",
+      "link": "https://ghanaiantimes.com.gh/richard-kumadoe-blames-flawed-recruitment-for-problems-at-bni/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T16:17:48.000Z",
+      "summary": "Security consultant Richard Kumadoe has blamed what he describes as flawed recruitment and incomplete background checks for some of the problems facing the Bureau of National Intelligence…",
       "categories": [
-        "Travel and Tourism",
-        "Jamaica",
-        "Paga",
-        "Tourism"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/d760dff3-fccd-4324-8ff9-a0ec6db57e0b-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "OWASS FM appeals for privacy following death of Seth Kwame Dzokoto",
+      "link": "https://ghanaiantimes.com.gh/owass-fm-appeals-for-privacy-following-death-of-seth-kwame-dzokoto/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T16:14:29.000Z",
+      "summary": "Owass 107.3 MHz has appealed to the public and social media users to respect the privacy of the family of the late Seth Kwame Dzokoto following his death during an interview with the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Sarah Adwoa Safo announces return to Dome-Kwabenya NPP parliamentary race",
+      "link": "https://ghanaiantimes.com.gh/sarah-adwoa-safo-announces-return-to-dome-kwabenya-npp-parliamentary-race/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T16:12:17.000Z",
+      "summary": "Former Dome-Kwabenya MP Sarah Adwoa Safo has announced her intention to contest the New Patriotic Party (NPP) parliamentary primaries in the constituency, reversing her earlier decision to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "SDA church donates to Ho Female Prison",
+      "link": "https://ghanaiantimes.com.gh/sda-church-donates-to-ho-female-prison/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T16:04:20.000Z",
+      "summary": "The Seventh-day Adventist (SDA) Church has made a donation to inmates of the Ho Female Prison in the Volta Region. The donation was made on Thursday, October 22, 2026, by a delegation from…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tanker crashes into shop at Asamankese after brake failure",
+      "link": "https://ghanaiantimes.com.gh/tanker-crashes-into-shop-at-asamankese-after-brake-failure/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T16:01:35.000Z",
+      "summary": "Two people have sustained injuries after a fuel tanker crashed into a shop at Asamankese in the Eastern Region. The accident occurred in the early hours of Thursday, October 22, 2026…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-15.31.57-1-1024x768.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Central East Police arrest two over murder of 11-year-old girl at Gomoa Buduburam",
+      "link": "https://ghanaiantimes.com.gh/central-east-police-arrest-two-over-murder-of-11-year-old-girl-at-gomoa-buduburam/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T15:54:44.000Z",
+      "summary": "The Central East Regional Police Command has arrested two suspects in connection with the murder of an 11-year-old girl at Gomoa Buduburam in the Central Region. The suspects are Kingsley…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Small-Scale Miners Association defend GoldBod CEO, say viral video misrepresents remarks on mining",
@@ -255,18 +398,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "MTN Ghana awards scholarship to 500 students, teachers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-mtn-ghana-awards-scholarship-to-500-students-teachers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T11:18:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Blewett.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Infantino re-election hopes boosted by Asia support",
       "link": "https://www.graphic.com.gh/sports/sports-news/infantino-re-election-hopes-boosted-by-asia-support.html",
       "source": "Graphic Sports",
@@ -291,90 +422,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "‘Free healthcare draws Biakoye residents from shrines’",
-      "link": "https://ghanaiantimes.com.gh/free-healthcare-draws-biakoye-residents-from-shrines/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T06:07:38.000Z",
-      "summary": "RESIDENTS of the Biakoye District in the Oti Region who previously relied on shrines and herbalists for treatment because they could not afford medical care are increasingly seeking…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ampem Darkoa to face Edo Queens in Egypt",
-      "link": "https://ghanaiantimes.com.gh/ampem-darkoa-to-face-edo-queens-in-egypt/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T06:04:15.000Z",
-      "summary": "THE Confederation of African Football (CAF) has confirmed that the continuation of the WAFU Zone B qualifying final between Edo Queens FC and Ampem Darkoa Ladies FC will take place in Egypt…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Hearts target Holy Stars fall",
-      "link": "https://ghanaiantimes.com.gh/hearts-target-holy-stars-fall/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T06:01:45.000Z",
-      "summary": "HEARTS of Oak will seek to end their winless home record against Basake Holy Stars and move to the summit of the Ghana Premier League table when the two sides meet at the University of…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "FIFA U-17 WWC: We must be clinical against Canada — Coach Nana Adarkwa",
-      "link": "https://ghanaiantimes.com.gh/fifa-u-17-wwc-we-must-be-clinical-against-canada-coach-nana-adarkwa/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T05:59:12.000Z",
-      "summary": "BLACK Maidens head coach, Joe Nana Adarkwa, has urged his side to be clinical in front of goal when they face Canada tomorrow in their must-win third Group C game at the ongoing FIFA U-17…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fernandes questions United’s tactics after Como hammering",
-      "link": "https://ghanaiantimes.com.gh/fernandes-questions-uniteds-tactics-after-como-hammering/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T05:55:13.000Z",
-      "summary": "MANCHESTER United captain, Bruno Fernandes, said his side failed to apply enough pressure and adopted a “mood of defeat” after conceding early in Wednesday’s 4-1 Champions League loss at…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Foden can be EPL best again — Maresca",
-      "link": "https://ghanaiantimes.com.gh/foden-can-be-epl-best-again-maresca/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T05:52:26.000Z",
-      "summary": "ENZO Maresca said it is his job as Manchester City boss to help Phil Foden rediscover his best form after the England international ended his long goal drought. Foden had not scored for 10…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Rice rescues Arsenal at Bayern",
-      "link": "https://ghanaiantimes.com.gh/rice-rescues-arsenal-at-bayern/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T05:49:42.000Z",
-      "summary": "DECLAN Rice rescued Arsenal with a late equaliser in an electric 2-2 Champions League draw at Bayern Munich on Wednesday. Arsenal’s evening in Germany began ominously when Bukayo Saka…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "VRA to defend UG Corporate Tennis Championship title",
       "link": "https://www.graphic.com.gh/sports/sports-news/vra-to-defend-ug-corporate-tennis-championship-title.html",
       "source": "Graphic Sports",
@@ -396,42 +443,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/22/CYNTHIA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Achimota Golf Club Ladies raise GH¢96,960 for breast cancer equipment at Korle Bu",
-      "link": "https://www.graphic.com.gh/sports/sports-news/achimota-golf-club-ladies-raise-ghc96-960-for-breast-cancer-equipment-at-korle-bu.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T17:03:21.000Z",
-      "summary": "The tournament, held on Saturday, October 17, 2026, at the Achimota Golf Club in Accra, brought together golfers, corporate sponsors and health advocates to promote breast cancer awareness…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/pink-cup-1-e1792433389429-495x424.jpeg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Senyo Ahiaba gets nod to officiate at 2026 African Table Tennis Champs in Morocco",
-      "link": "https://www.graphic.com.gh/sports/sports-news/senyo-ahiaba-gets-nod-to-officiate-at-2026-african-table-tennis-champs-in-morocco.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T16:54:43.000Z",
-      "summary": "In preparation for the continental championship, Senyo explained that he regularly revises his notes and reflects on feedback from experts regarding his previous performances. He believes…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/22/DAVID.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "US confirmed as host of inaugural Women’s Club World Cup in 2028",
-      "link": "https://www.graphic.com.gh/sports/sports-news/us-confirmed-as-host-of-inaugural-womens-club-world-cup-in-2028.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T16:28:41.000Z",
-      "summary": "The host nation was confirmed by the FIFA Council, which cited the maturity of the country’s infrastructure and services, as well as strong stakeholder interest in women’s football, as key…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/22/WOMENS_CLUB.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
