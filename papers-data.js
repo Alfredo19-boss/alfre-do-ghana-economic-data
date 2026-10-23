@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-22T23:38:15.048Z",
+  "updated": "2026-10-23T01:56:12.191Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES directs schools to enforce the Code of Conduct’s ban on students doing chores at teachers’ bungalows",
+      "link": "https://www.myjoyonline.com/ges-directs-schools-to-enforce-the-code-of-conducts-ban-on-students-doing-chores-at-teachers-bungalows/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-22T23:40:14.000Z",
+      "summary": "The Ghana Education Service (GES) has directed all senior high schools to immediately comply with an existing provision in its Code of Conduct that prohibits students from performing…",
+      "categories": [
+        "Education",
+        "National",
+        "ban",
+        "chores",
+        "Code of conduct",
+        "GES",
+        "teachers bungalows"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-11-2.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Speaker Bagbin urges RUWA-Ghana to promote the politics of options among women",
       "link": "https://www.myjoyonline.com/speaker-bagbin-urges-ruwa-ghana-to-promote-politics-of-options-among-women/",
@@ -122,21 +140,6 @@ window.GDC_PAPERS = {
         "Ocean"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ab-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana moves beyond peace and stability in battle for investors – GIPA CEO",
-      "link": "https://www.myjoyonline.com/ghana-moves-beyond-peace-and-stability-in-battle-for-investors-gipa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T22:29:00.000Z",
-      "summary": "Ghana is pitching reforms, credible leadership and investment returns as it seeks to stand out in an increasingly competitive regional market, Ghana Investment Promotion Authority (GIPA)…",
-      "categories": [
-        "Investments",
-        "National",
-        "Ghana Investment Promotion Authority (GIPA)",
-        "Investment"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/02/WhatsApp-Image-2023-01-27-at-10.25.05-AM-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
