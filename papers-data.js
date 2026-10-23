@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-23T20:24:51.091Z",
+  "updated": "2026-10-23T23:17:34.479Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,110 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ashie-Moore disputes report on alleged theft of businessman’s belongings",
+      "link": "https://www.myjoyonline.com/ashie-moore-disputes-report-on-alleged-theft-of-businessmans-belongings/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T22:15:00.000Z",
+      "summary": "The Greater Accra Regional Chairman of the National Democratic Congress (NDC), Emmanuel Nii Ashie-Moore, has rejected reports that the Attorney-General’s Department has recommended his…",
+      "categories": [
+        "News",
+        "Ashie-Moore",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-33-2401347629-1140x570-1-1024x512.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Climate x Culture Summit brings creatives, sustainability experts together to advance sustainability in Africa",
+      "link": "https://www.myjoyonline.com/climate-x-culture-summit-brings-creatives-sustainability-experts-together-to-advance-sustainability-in-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T21:20:17.000Z",
+      "summary": "The inaugural Climate x Culture Summit 2026 has brought together climate practitioners, creative industry leaders, researchers, media professionals, financial sector representatives and…",
+      "categories": [
+        "Arts and Culture",
+        "National",
+        "Accra",
+        "Africa",
+        "Climate x Culture Summit",
+        "Creativity",
+        "Sustainability"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/climate-x-culture-summit-assembl.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL Week 8: Hearts of Oak climb to summit after victory over Basake Holy Stars",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gpl-week-8-hearts-of-oak-climb-to-summit-after-victory-over-basake-holy-stars.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-23T21:13:06.000Z",
+      "summary": "Hearts of Oak now sit three points clear at the top of the Premier League table, strengthening their early-season title credentials ahead of the remaining Matchday 8 fixtures on Sunday…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/HEARTS_OF_OAK.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Obuasi SHTS: Third-year students to return October 25, second-years November 16",
+      "link": "https://www.myjoyonline.com/obuasi-shts-third-year-students-to-return-october-25-second-years-november-16/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T21:01:14.000Z",
+      "summary": "The Ghana Education Service (GES) has announced separate reporting dates for continuing students of Obuasi Senior High Technical School (SHTS), following the school’s temporary closure in…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Obuasi SHTS",
+        "Reopen"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "My dream collaboration is with Sade – Gyakie",
+      "link": "https://www.myjoyonline.com/my-dream-collaboration-is-with-sade-gyakie/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T20:47:30.000Z",
+      "summary": "Ghanaian music artiste Jackline Acheampong, known professionally as Gyakie, has revealed the artiste she dreams of collaborating with. Speaking in an interview on Joy Prime’s Changes show…",
+      "categories": [
+        "Arts and Culture",
+        "HP Entertainment 2",
+        "Music",
+        "Collaboration",
+        "Gyakie",
+        "Sade"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gyakie-reveals-how-her-dad-has-b.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "13 first-offender inmates discharged from Wa Central Prison under Presidential Amnesty",
+      "link": "https://www.myjoyonline.com/13-first-offender-inmates-discharged-from-wa-central-prison-under-2026-presidential-amnesty/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T20:28:42.000Z",
+      "summary": "Thirteen first-offender inmates have been officially discharged from the Wa Central Prison after benefiting from the 2026 presidential amnesty granted by President John Dramani Mahama. The…",
+      "categories": [
+        "Regional",
+        "amnesty",
+        "Wa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-8.21.02-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Globe Health Clinic promotes early detection during Breast Cancer Awareness Month",
+      "link": "https://www.myjoyonline.com/globe-health-clinic-promotes-early-detection-during-breast-cancer-awareness-month/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T20:23:43.000Z",
+      "summary": "The Globe Health Assessment Clinic has organised a free medical screening exercise to improve access to healthcare and encourage the early detection of diseases among residents.",
+      "categories": [
+        "Health",
+        "Breast cancer",
+        "Medical screening"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2299-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "ITTF-Africa Veep Mawuko Afadzinu joins continental deliberations at ITTF-Africa AGM in Morocco",
       "link": "https://www.graphic.com.gh/sports/sports-news/ittf-africa-veep-mawuko-afadzinu-joins-continental-deliberations-at-ittf-africa-agm-in-morocco.html",
@@ -108,97 +212,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Ghana unveils world Armwrestling championship squad, appeals for travel support",
-      "link": "https://www.myjoyonline.com/ghana-unveils-world-armwrestling-championship-squad-appeals-for-travel-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T18:56:36.000Z",
-      "summary": "The Ghana Armwrestling Federation has unveiled a formidable squad for the upcoming World Armwrestling Championship in New Delhi, India, while appealing to corporate Ghana, government…",
-      "categories": [
-        "Other Sports",
-        "Armwrestling",
-        "Ghana",
-        "Ghana Armwrestling Federation (GAF)",
-        "Sports",
-        "World Armwrestling Championship"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-13.49.28-1024x690.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newsfile to discuss Obuasi SHTS abuse case, GH₵49m SA evacuation, World Cup visa scandal",
-      "link": "https://www.myjoyonline.com/newsfile-to-discuss-obuasi-shts-abuse-case-gh49m-sa-evacuation-world-cup-visa-scandal/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T18:49:39.000Z",
-      "summary": "This Saturday on Newsfile: three scandals, new revelations, unanswered questions.",
-      "categories": [
-        "National",
-        "Newsfile"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2302.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "link": "https://www.myjoyonline.com/seven-shot-dead-by-gunmen-at-church-funeral-in-jordan-officials-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T18:49:08.000Z",
-      "summary": "Seven people have been killed in an attack on a funeral in central Jordan, officials have said.",
-      "categories": [
-        "HP News 9",
-        "International",
-        "Church",
-        "Gunmen",
-        "Jordan"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2294-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ATU seeks support to address infrastructure gaps",
-      "link": "https://www.myjoyonline.com/atu-seeks-support-to-address-infrastructure-gaps/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T18:48:44.000Z",
-      "summary": "Accra Technical University (ATU) is seeking financial support to address infrastructure gaps and improve the delivery of technical education.",
-      "categories": [
-        "Education",
-        "HP News 7",
-        "ATU"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2297.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GTEC summons technical university leaders, TUTAG for talks over strike",
-      "link": "https://www.myjoyonline.com/gtec-summons-technical-university-leaders-tutag-for-talks-over-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T18:44:43.000Z",
-      "summary": "The Ghana Tertiary Education Commission (GTEC) has invited management of all technical universities and national leaders of the Technical University Teachers’ Association of Ghana (TUTAG)…",
-      "categories": [
-        "Education",
-        "HP News 1",
-        "National",
-        "Ghana Tertiary Education Commission (GTEC)",
-        "Strike",
-        "TUTAG"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/prof-jinapor-gtec.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Don’t sacrifice NDC’s 2028 ambition for internal elections – Majority Leader",
-      "link": "https://www.myjoyonline.com/dont-sacrifice-ndcs-2028-ambition-for-internal-elections-majority-leader/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T18:40:31.000Z",
-      "summary": "Majority Leader and Builsa North MP James Agalga has cautioned members of the National Democratic Congress (NDC) against allowing internal rivalry ahead of the party’s constituency…",
-      "categories": [
-        "National",
-        "James Agalga",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2923-819x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Arsenal sweating over Saka’s fitness after Wednesday’s Champions League injury",
       "link": "https://www.graphic.com.gh/sports/sports-news/arsenal-sweating-over-sakas-fitness-after-wednesdays-champions-league-injury.html",
       "source": "Graphic Sports",
@@ -209,6 +222,19 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/SAKA.jpg",
       "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana High Commission seeks relatives of deceased Ghanaian in Nigeria",
+      "link": "https://ghanaiantimes.com.gh/ghana-high-commission-seeks-relatives-of-deceased-ghanaian-in-nigeria/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T16:19:03.000Z",
+      "summary": "The Ghana High Commission in Abuja, Nigeria, is appealing to the public to help trace the relatives or next of kin of Apia Solomon, a Ghanaian national believed to be from Osu, Accra…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "hana High Commission seeks relatives of deceased Ghanaian in Nigeria",
@@ -410,18 +436,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Absa Place earns IFC’s EDGE Advanced green building certification",
-      "link": "https://ghanaiantimes.com.gh/absa-place-earns-ifcs-edge-advanced-green-building-certification/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-23T06:11:30.000Z",
-      "summary": "ABSA Bank Ghana Ltd’s new headquarters, Absa Place, has achieved EDGE Advanced certification from the International Finance Corporation (IFC) in recognition of its high standards of energy…",
-      "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "VRA to defend UG Corporate Tennis Championship title",
       "link": "https://www.graphic.com.gh/sports/sports-news/vra-to-defend-ug-corporate-tennis-championship-title.html",
       "source": "Graphic Sports",
@@ -431,18 +445,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/20/corpy26.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana's Cynthia Kwabi set for African Table Tennis Championships in Morocco",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghanas-cynthia-kwabi-set-for-african-table-tennis-championships-in-morocco.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T17:04:18.000Z",
-      "summary": "Kwabi heads into the championship following an impressive run on the domestic circuit. She won consecutive editions of the GTTA SHEROES Open Championship in February 2026 and will be…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/22/CYNTHIA.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
