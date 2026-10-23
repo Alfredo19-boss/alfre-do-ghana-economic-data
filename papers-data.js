@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-23T12:13:34.854Z",
+  "updated": "2026-10-23T17:08:28.103Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,105 +25,234 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "CPA marks 20 years without consumer protection law in Ghana, urges passage of bill by December",
-      "link": "https://www.myjoyonline.com/cpa-marks-20-years-without-consumer-protection-law-in-ghana-urges-passage-of-bill-by-december/",
+      "title": "Motor rider allegedly stabbed to death at Akame",
+      "link": "https://www.myjoyonline.com/motor-rider-allegedly-stabbed-to-death-at-akame/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T12:02:58.000Z",
-      "summary": "The Consumer Protection Agency (CPA) has renewed calls on the President and Parliament to pass Ghana’s long-awaited Consumer Protection Bill before the end of 2026, warning that the absence…",
+      "published": "2026-10-23T17:00:21.000Z",
+      "summary": "A motor rider, identified as Lorlorne Kudah, believed to be in his late 20s, has allegedly been stabbed to death at Akame in the Ketu South Municipality of the Volta Region.",
       "categories": [
-        "Features",
+        "Crime",
+        "Regional",
+        "Akame",
+        "Motor rider"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/CourtCrime-Akame-Murder.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Garden City University College, Prempeh College partner to address decline in business studies",
+      "link": "https://www.myjoyonline.com/garden-city-university-college-prempeh-college-partner-to-address-decline-in-business-studies/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T17:00:17.000Z",
+      "summary": "Garden City University College (GCUC) has established a strategic partnership with Prempeh College to address the challenges facing Senior High School (SHS) business students as they…",
+      "categories": [
+        "Education",
         "National",
-        "Consumer Protection Agency",
-        "CPA"
+        "Garden City University College",
+        "Prempeh College"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-85-e1792756974657-1024x730.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2289-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana, 2 others offer vehicle assembly growth in Sub-Saharan Africa – Fitch Solutions",
-      "link": "https://www.myjoyonline.com/ghana-2-others-offer-vehicle-assembly-growth-in-sub-saharan-africa-fitch-solutions/",
+      "title": "Bunkpurugu chieftaincy dispute: Chief Justice orders transfer of case to Tamale over security fears",
+      "link": "https://www.myjoyonline.com/bunkpurugu-chieftaincy-dispute-chief-justice-orders-transfer-of-case-to-tamale-over-security-fears/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T12:02:27.000Z",
-      "summary": "According to Fitch Solutions, Ghana are best positioned to attract new assembly investment over the medium term in Sub-Saharan Africa.",
+      "published": "2026-10-23T17:00:03.000Z",
+      "summary": "The Chief Justice has granted a request by defendants in the Bunkpurugu chieftaincy dispute to transfer their case from the High Court in Nalerigu to Tamale over security concerns.",
       "categories": [
-        "Business",
-        "Transport",
-        "AfCFTA",
-        "EVs",
-        "Fitch Solutions",
-        "Ghana",
-        "Kenya",
-        "Zonda Tech"
+        "Regional",
+        "Bunkpurugu chieftaincy dispute",
+        "Chief Justice"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/02/Fitch-Solutions-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2291-768x1024-1.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "“I forgive you” – Koku Anyidoho tells Asiedu Nketiah",
-      "link": "https://www.myjoyonline.com/i-forgive-you-koku-anyidoho-tells-asiedu-nketiah/",
+      "title": "‘Maybe it is designated for a cassava plantation’ – GoldStars boss criticises Debibi Presby pitch",
+      "link": "https://www.myjoyonline.com/maybe-it-is-designated-for-a-cassava-plantation-goldstars-boss-criticises-debibi-presby-pitch/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T11:48:55.000Z",
-      "summary": "Former Deputy General Secretary of the National Democratic Congress (NDC), Samuel Koku Anyidoho, says he has forgiven National Chairman Johnson Asiedu Nketiah, reflecting on their troubled…",
+      "published": "2026-10-23T16:55:43.000Z",
+      "summary": "His remarks came after Gold Stars suffered a 1-0 defeat to Debibi United over the weekend in their 2026/27 Ghana Premier League Matchday 7 fixture.",
       "categories": [
-        "Politics",
-        "Asiedu Nketiah",
-        "Koku Anyidoho"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2267.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fake business listings: How Ghanaians can check who they are paying",
-      "link": "https://www.myjoyonline.com/fake-business-listings-how-ghanaians-can-check-who-they-are-paying/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T11:33:38.000Z",
-      "summary": "A customer searches for a business online, finds a phone number, discusses a booking and sends a deposit. Later, the business says it never received the money. The person who answered the…",
-      "categories": [
-        "HP Opinion 1",
+        "Football",
         "National",
-        "Opinion",
-        "Cyber fraud",
-        "Cyber security",
-        "Ghanaians"
+        "Bibiani Goldstars",
+        "Debibi United",
+        "Ghana Premier League"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-84-e1792755214737-1024x658.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-141411.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government pays over GH¢4.40bn to SSNIT and for second-tier pension obligations",
-      "link": "https://www.myjoyonline.com/government-pays-over-gh%c2%a24-40bn-to-ssnit-and-for-second-tier-pension-obligations/",
+      "title": "Second batch of GAF recruits report for basic military training",
+      "link": "https://www.myjoyonline.com/second-batch-of-gaf-recruits-report-for-basic-military-training/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T11:32:28.000Z",
-      "summary": "According to him, the payments would help protect workers’ pensions and demonstrated the government’s commitment to managing public money responsibly and meeting its obligations.",
+      "published": "2026-10-23T16:46:23.000Z",
+      "summary": "The second batch of recruits of the Ghana Armed Forces (GAF) have officially reported to various training centres to commence Basic Military Training on Friday, October 23, 2026.The second…",
       "categories": [
-        "Business",
-        "Economy",
         "National",
+        "basic military training",
+        "Ghana Armed Forces (GAF)",
+        "Second batch recruits"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/864234840_916223998094801_4063334937586925293_n-1024x673.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ga Mantse King Tackie Teiko Tsuru II to chair GJA 30th anniversary Awards",
+      "link": "https://www.myjoyonline.com/ga-mantse-king-tackie-teiko-tsuru-ii-to-chair-gja-30th-anniversary-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T16:31:39.000Z",
+      "summary": "The Ga Mantse, His Royal Majesty King Tackie Teiko Tsuru II, has accepted an invitation to chair the Ghana Journalists Association’s (GJA) 30th anniversary celebration and Awards. The…",
+      "categories": [
         "News",
-        "Top Story",
-        "Dr. Ato Forson",
-        "Ministry of Finance",
-        "SSNIT",
-        "Tier-2"
+        "30th anniversary",
+        "Ga Mantse",
+        "GJA",
+        "King Tackie Teiko Tsuru II"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-4.32.31-AM-1024x610.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-25-2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Forms Capital wins CIMG Marketing-Oriented Finance House of the Year, 2025",
-      "link": "https://www.myjoyonline.com/forms-capital-wins-cimg-marketing-oriented-finance-house-of-the-year-2025/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T11:24:31.000Z",
-      "summary": "The award was presented at the ceremony on Saturday, 17 October 2026, at the Labadi Beach Hotel in Accra. The recognition highlights Forms Capital's strategic approach to marketing…",
+      "title": "Arsenal sweating over Saka’s fitness after Wednesday’s Champions League injury",
+      "link": "https://www.graphic.com.gh/sports/sports-news/arsenal-sweating-over-sakas-fitness-after-wednesdays-champions-league-injury.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-23T16:26:58.000Z",
+      "summary": "If those early concerns are realised, he will miss a clutch of key games for the Gunners, as well as England's forthcoming Uefa Nations League matches against Croatia and Spain. \"We need a…",
       "categories": [
-        "Banking and Finance",
-        "Business",
-        "CIMG",
-        "Forms Capital",
-        "Ishmael Abbey"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-06.08.38-1024x683.jpeg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/SAKA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "GIZ seeks private-sector partners for AI training programme targeting 120 graduates",
+      "link": "https://www.myjoyonline.com/giz-seeks-private-sector-partners-for-ai-training-programme-targeting-120-graduates/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T16:23:11.000Z",
+      "summary": "The German International Cooperation (GIZ) is seeking private-sector partnerships for a new artificial intelligence (AI) training programme aimed at equipping 120 tertiary graduates with…",
+      "categories": [
+        "Education",
+        "AI",
+        "GIZ",
+        "graduates",
+        "private sector"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-17.02.38-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Paga becomes Africa’s first pilot for Jamaican community tourism initiative",
+      "link": "https://www.myjoyonline.com/paga-becomes-africas-first-pilot-for-jamaican-community-tourism-initiative/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T16:20:23.000Z",
+      "summary": "Paga, in the Kassena-Nankana West District of the Upper East Region, has become the first African pilot site for a Jamaican community tourism initiative aimed at turning communities with…",
+      "categories": [
+        "Travel and Tourism",
+        "Jamaica",
+        "Paga",
+        "Tourism"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/d760dff3-fccd-4324-8ff9-a0ec6db57e0b-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Small-Scale Miners Association defend GoldBod CEO, say viral video misrepresents remarks on mining",
+      "link": "https://www.graphic.com.gh/news/general-news/small-scale-miners-association-defend-goldbod-ceo-says-viral-video-misrepresents-remarks-on-mining.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T14:46:41.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Two arrested over murder of 11-year-old girl at Gomoa Buduburam",
+      "link": "https://www.graphic.com.gh/news/general-news/two-arrested-over-murder-of-11-year-old-girl-at-gomoa-buduburam.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T14:44:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Kingsley.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GMTF extends healthcare sensitisation campaign to Northern and Upper East regions",
+      "link": "https://www.graphic.com.gh/news/general-news/gmtf-extends-healthcare-sensitisation-campaign-to-northern-and-upper-east-regions.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T14:32:45.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GCB Bank to hold maiden Aerobics Fiesta on October 31",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gcb-bank-to-hold-maiden-aerobics-fiesta-on-october-31.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-23T14:16:40.000Z",
+      "summary": "The free event, open to the bank's customers and the general public, will kick off at 6am and offer a mix of fitness, wellness, entertainment and networking in a family-friendly atmosphere…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/08/IMG_5597.JPG.jpeg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Church of Jesus Christ of Latter-day Saints to open global education centre in Accra",
+      "link": "https://www.graphic.com.gh/news/general-news/church-of-jesus-christ-of-latter-day-saints-to-open-global-education-centre-in-accra.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T14:09:15.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "MTN Ghana, KNUST sign MoU to drive AI innovation and local research",
+      "link": "https://www.graphic.com.gh/news/general-news/mtn-ghana-knust-sign-mou-to-drive-ai-innovation-and-local-research.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T13:39:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Court declines custodial sentence after convicting former Northern Development Authority boss and 3 others over procurement breaches",
+      "link": "https://www.graphic.com.gh/news/general-news/former-northern-development-authority-and-3-others-convicted-by-high-court-in-tamale.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T13:30:13.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2023/jan/31/sumaila_NDC.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GoldBod CEO clarifies formalisation of unlicensed miners, says video was misrepresented",
+      "link": "https://www.graphic.com.gh/news/general-news/goldbod-ceo-clarifies-formalisation-of-unlicensed-miners-says-video-was-misrepresented.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-23T12:24:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/08/857964860_1115239971287484_3057079604994685034_n.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "MTN Ghana awards scholarship to 500 students, teachers",
@@ -135,127 +264,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/Blewett.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Policy to regulate treatment of animals in tourism facilities in the offing",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-policy-to-regulate-treatment-of-animals-in-tourism-facilities-in-the-offing.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T11:14:38.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Nketia.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Finance Ministry rejects claim it withheld ABFA data from PIAC",
-      "link": "https://www.myjoyonline.com/finance-ministry-rejects-claim-it-withheld-abfa-data-from-piac/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T11:13:46.000Z",
-      "summary": "According to the Ministry, officials participated in PIAC’s virtual validation workshop and held in-person meetings with the Committee to explain petroleum revenue receipts, distribution…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "2026 Mid-Year Budget",
-        "ABFA",
-        "DACF",
-        "Finance Ministry",
-        "PIAC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-5.35.17-am.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Promote policies to make breast cancer screening accessible, affordable - Speaker urges Parliament",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-promote-policies-to-make-breast-cancer-screening-accessible-affordable-speaker-urges-parliament.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T11:11:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Ahumah.png",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fight against galamsey: NAIMOS declares war on Atewa Forest wreckers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-naimos-declares-war-on-atewa-forest-wreckers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T11:00:53.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/naimos2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "link": "https://www.myjoyonline.com/woman-with-ebola-in-nigeria-confirmed-as-wife-of-swiss-diplomat/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T10:54:10.000Z",
-      "summary": "Switzerland's foreign ministry has confirmed that the woman who has tested positive for Ebola in Nigeria is the wife of a Swiss diplomat.",
-      "categories": [
-        "Africa",
-        "HP News 9",
-        "International",
-        "News",
-        "Ebola",
-        "Nigeria",
-        "Swiss"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2262-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Serene Insurance renovates Korle Bu surgical ward - First Sky Group to fund kidney transplants at hospital",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-serene-insurance-renovates-korle-bu-surgical-ward-first-sky-group-to-fund-kidney-transplants-at-hospital.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T10:52:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Kutortse.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Trinity United Church Women’s Fellowship supports Legon Hospital paediatric ward",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-trinity-united-church-womens-fellowship-supports-legon-hospital-paediatric-ward.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T10:48:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Fellowship.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Baptist Convention inducts Rev. Thompson for second term",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-baptist-convention-inducts-rev-thompson-for-second-term.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T10:45:12.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Reverend.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ATU wins inter-university debate competition",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-atu-wins-inter-university-debate-competition.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T10:41:42.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/award.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -424,30 +432,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/22/WOMENS_CLUB.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana wins 2028 Olympic boxing qualifier hosting rights",
-      "link": "https://www.graphic.com.gh/sports/boxing/ghana-wins-2028-olympic-boxing-qualifier-hosting-rights.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T15:26:48.000Z",
-      "summary": "In an October 21 email to Ghana Boxing Federation, World Boxing Director of Events Paulo Ferreira confirmed that Ghana’s bid for the 2027–2029 period had been selected following a review by…",
-      "categories": [
-        "Boxing"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/22/boxing.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "'Debibi United pitch is for cassava plantation, not football' – Gold Stars coach after defeat",
-      "link": "https://www.graphic.com.gh/sports/sports-news/debibi-united-pitch-is-for-cassava-plantation-not-football-gold-stars-coach-after-defeat.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T14:44:03.000Z",
-      "summary": "Speaking after the match, Koukouras expressed frustration with the playing surface, arguing that its condition made it difficult for his team to play football effectively. “We cannot…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/22/DEBIBI_COACH2.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
