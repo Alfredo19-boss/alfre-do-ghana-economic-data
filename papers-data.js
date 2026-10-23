@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-23T01:56:12.191Z",
+  "updated": "2026-10-23T06:51:02.183Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,121 +25,221 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GES directs schools to enforce the Code of Conduct’s ban on students doing chores at teachers’ bungalows",
-      "link": "https://www.myjoyonline.com/ges-directs-schools-to-enforce-the-code-of-conducts-ban-on-students-doing-chores-at-teachers-bungalows/",
+      "title": "AMA Ghana promotes literary tourism at 10th Pa Gya! Festival",
+      "link": "https://www.myjoyonline.com/ama-ghana-promotes-literary-tourism-at-10th-pa-gya-festival/",
       "source": "MyJoyOnline",
-      "published": "2026-10-22T23:40:14.000Z",
-      "summary": "The Ghana Education Service (GES) has directed all senior high schools to immediately comply with an existing provision in its Code of Conduct that prohibits students from performing…",
+      "published": "2026-10-23T06:41:10.000Z",
+      "summary": "AMA Ghana has promoted literary tourism at the 10th anniversary of the Pa Gya! Literary Festival, bringing students and literature enthusiasts together to explore the link between books and…",
+      "categories": [
+        "Events",
+        "10th anniversary",
+        "Literary tourism",
+        "Pa Gya! Festival"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/dbd74efa-3108-4e40-bb94-25399e31e981-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "South African police investigate killing of foreign national by crowd",
+      "link": "https://www.myjoyonline.com/south-african-police-investigate-killing-of-foreign-national-by-crowd/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T06:18:42.000Z",
+      "summary": "South African police said on Thursday they were investigating the killing of ​a foreign national by a crowd ‌of about 50 people in the city of Durban.",
+      "categories": [
+        "International",
+        "National",
+        "Police",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/qdd.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Absa Place earns IFC’s EDGE Advanced green building certification",
+      "link": "https://ghanaiantimes.com.gh/absa-place-earns-ifcs-edge-advanced-green-building-certification/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T06:11:30.000Z",
+      "summary": "ABSA Bank Ghana Ltd’s new headquarters, Absa Place, has achieved EDGE Advanced certification from the International Finance Corporation (IFC) in recognition of its high standards of energy…",
+      "categories": [
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "‘Free healthcare draws Biakoye residents from shrines’",
+      "link": "https://ghanaiantimes.com.gh/free-healthcare-draws-biakoye-residents-from-shrines/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T06:07:38.000Z",
+      "summary": "RESIDENTS of the Biakoye District in the Oti Region who previously relied on shrines and herbalists for treatment because they could not afford medical care are increasingly seeking…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ampem Darkoa to face Edo Queens in Egypt",
+      "link": "https://ghanaiantimes.com.gh/ampem-darkoa-to-face-edo-queens-in-egypt/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T06:04:15.000Z",
+      "summary": "THE Confederation of African Football (CAF) has confirmed that the continuation of the WAFU Zone B qualifying final between Edo Queens FC and Ampem Darkoa Ladies FC will take place in Egypt…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Hearts target Holy Stars fall",
+      "link": "https://ghanaiantimes.com.gh/hearts-target-holy-stars-fall/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T06:01:45.000Z",
+      "summary": "HEARTS of Oak will seek to end their winless home record against Basake Holy Stars and move to the summit of the Ghana Premier League table when the two sides meet at the University of…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FIFA U-17 WWC: We must be clinical against Canada — Coach Nana Adarkwa",
+      "link": "https://ghanaiantimes.com.gh/fifa-u-17-wwc-we-must-be-clinical-against-canada-coach-nana-adarkwa/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T05:59:12.000Z",
+      "summary": "BLACK Maidens head coach, Joe Nana Adarkwa, has urged his side to be clinical in front of goal when they face Canada tomorrow in their must-win third Group C game at the ongoing FIFA U-17…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+      "link": "https://www.myjoyonline.com/gasps-as-prince-william-makes-surprise-appearance-on-graham-norton-show/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T05:56:50.000Z",
+      "summary": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition marking the Earthshot Prize.",
+      "categories": [
+        "International",
+        "Graham Norton Show"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2248-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fernandes questions United’s tactics after Como hammering",
+      "link": "https://ghanaiantimes.com.gh/fernandes-questions-uniteds-tactics-after-como-hammering/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T05:55:13.000Z",
+      "summary": "MANCHESTER United captain, Bruno Fernandes, said his side failed to apply enough pressure and adopted a “mood of defeat” after conceding early in Wednesday’s 4-1 Champions League loss at…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kpandai: One reportedly killed in Kumdi farmland dispute",
+      "link": "https://www.myjoyonline.com/kpandai-one-reportedly-killed-in-kumdi-farmland-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T05:53:38.000Z",
+      "summary": "One person has reportedly been killed following a clash between two communities over a farmland dispute at Kumdi in the Kpandai District of the Northern Region.",
+      "categories": [
+        "Crime",
+        "HP News 7",
+        "National",
+        "News",
+        "Kpandai",
+        "Kumdi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/shooting-1024x576.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Foden can be EPL best again — Maresca",
+      "link": "https://ghanaiantimes.com.gh/foden-can-be-epl-best-again-maresca/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T05:52:26.000Z",
+      "summary": "ENZO Maresca said it is his job as Manchester City boss to help Phil Foden rediscover his best form after the England international ended his long goal drought. Foden had not scored for 10…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Water shortage: GWCL targets 3-4 days’ supply as residents demand answers",
+      "link": "https://www.myjoyonline.com/water-shortage-gwcl-targets-3-4-days-supply-as-residents-demand-answers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T05:52:09.000Z",
+      "summary": "Ghana Water Company Limited (GWCL) is targeting three to four days of water supply per week in affected communities in parts of Greater Accra, after weeks of unreliable flow forced some…",
+      "categories": [
+        "Regional",
+        "Ashaiman",
+        "Community 22 Junction",
+        "Ghana Water Company (GWC)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2240-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Investment, regional cooperation key to African mineral value addition — MIIF CEO",
+      "link": "https://www.myjoyonline.com/investment-regional-cooperation-key-to-african-mineral-value-addition-miif-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T05:51:00.000Z",
+      "summary": "Justina Nelson, Chief Executive Officer of the Minerals Income Investment Fund (MIIF), has called for stronger regional cooperation to boost mineral value addition and economic benefits…",
+      "categories": [
+        "National",
+        "Investment",
+        "MIIF"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Nelson.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rice rescues Arsenal at Bayern",
+      "link": "https://ghanaiantimes.com.gh/rice-rescues-arsenal-at-bayern/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-23T05:49:42.000Z",
+      "summary": "DECLAN Rice rescued Arsenal with a late equaliser in an electric 2-2 Champions League draw at Bayern Munich on Wednesday. Arsenal’s evening in Germany began ominously when Bukayo Saka…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "University of Ghana orders students with CGPA below 1.00 to withdraw",
+      "link": "https://www.myjoyonline.com/university-of-ghana-orders-students-with-cgpa-below-1-00-to-withdraw/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T05:48:00.000Z",
+      "summary": "The University of Ghana (UG) has directed undergraduate students who obtained a Cumulative Grade Point Average (CGPA) below 1.00 at the end of the 2025/2026 academic year to withdraw from…",
       "categories": [
         "Education",
         "National",
-        "ban",
-        "chores",
-        "Code of conduct",
-        "GES",
-        "teachers bungalows"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-11-2.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Speaker Bagbin urges RUWA-Ghana to promote the politics of options among women",
-      "link": "https://www.myjoyonline.com/speaker-bagbin-urges-ruwa-ghana-to-promote-politics-of-options-among-women/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T23:18:06.000Z",
-      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, has urged RUWA-Ghana LBG to encourage grassroots women to engage in “politics of options” rather than allow political…",
-      "categories": [
         "News",
-        "RUWA Ghana",
-        "Speaker",
-        "Women"
+        "Top Story",
+        "Students",
+        "UG",
+        "University of Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/photo_2026-10-19_15-42-37-1024x637.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/University-of-Ghana-696x387-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Student accused of stealing Bishop Obinim’s GH¢1.5m granted bail",
-      "link": "https://www.myjoyonline.com/student-accused-of-stealing-bishop-obinims-gh%c2%a21-5m-granted-bail/",
+      "title": "NDC bans tally voting for eight positions in constituency elections",
+      "link": "https://www.myjoyonline.com/ndc-bans-tally-voting-for-eight-positions-in-constituency-elections/",
       "source": "MyJoyOnline",
-      "published": "2026-10-22T23:14:00.000Z",
-      "summary": "An Adenta Circuit Court has granted bail to a 23-year-old student accused of stealing GH¢1.5 million belonging to Bishop Daniel Obinim, founder of the International Godsway Church.",
+      "published": "2026-10-23T05:47:33.000Z",
+      "summary": "The National Democratic Congress (NDC) has banned tally voting for eight positions in its constituency-level elections scheduled for Saturday, October 24, and directed delegates to present…",
       "categories": [
-        "Crime",
-        "Bishop Daniel Obinim",
-        "Stealing"
+        "National",
+        "constituency",
+        "Fifi Fiavi Kwetey",
+        "NDC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/05/obinim-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Court grants bail to two in multiple land grant case",
-      "link": "https://www.myjoyonline.com/court-grants-bail-to-two-in-multiple-land-grant-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T23:05:00.000Z",
-      "summary": "An Accra Circuit Court has granted two persons accused of making conflicting grants of the same parcel of land bail of GH¢2 million each.",
-      "categories": [
-        "Crime",
-        "Accra Circuit Court",
-        "Land case"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/image-25.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accused seeks removal from 3.9-tonne cocaine trial",
-      "link": "https://www.myjoyonline.com/accused-seeks-removal-from-3-9-tonne-cocaine-trial/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T22:55:00.000Z",
-      "summary": "The Kwabenya Circuit Court has adjourned to November 5 an application seeking to strike out one of six accused persons standing trial in the alleged 3.9-tonne cocaine case.",
-      "categories": [
-        "Crime",
-        "cocaine trial",
-        "Kwabenya Circuit Court"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Gavel-1-5-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "link": "https://www.myjoyonline.com/trump-ordered-to-answer-questions-under-oath-in-bbc-lawsuit/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T22:46:56.000Z",
-      "summary": "A US judge has ordered President Donald Trump to answer questions under oath in his defamation lawsuit against the BBC by 11 December.",
-      "categories": [
-        "International",
-        "BBC",
-        "Donald Trump"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1229-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump says Musk has restored Ukraine’s access after Starlink row",
-      "link": "https://www.myjoyonline.com/trump-says-musk-has-restored-ukraines-access-after-starlink-row/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T22:38:00.000Z",
-      "summary": "Elon Musk has restored Ukraine's internet access, Donald Trump has said.",
-      "categories": [
-        "International",
-        "Starlink",
-        "Ukraine"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2231-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asia just put $6 billion on its ocean. Where is ours?",
-      "link": "https://www.myjoyonline.com/asia-just-put-6-billion-on-its-ocean-where-is-ours/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-22T22:33:00.000Z",
-      "summary": "Every fishmonger at the Tema fishing harbour can tell you the same story. The canoes go further, stay out longer and come back with less.",
-      "categories": [
-        "Opinion",
-        "Africa",
-        "Asia",
-        "Ocean"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ab-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Fifi-750x375-1.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -153,30 +253,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/20/corpy26.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "The Black Stars Start AFCON Qualifying Bottom of Group C",
-      "link": "https://ghanaiantimes.com.gh/the-black-stars-start-afcon-qualifying-bottom-of-group-c/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T18:52:06.000Z",
-      "summary": "One might think that the path to the next AFCON for the Black Stars had started very elegantly with a couple of losses in five days. Right now, the Black Stars find themselves at the bottom…",
-      "categories": [
-        "Technology"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/image-44-1024x576.png",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "How Smart Contracts Are Making Casino Transactions Faster and More Transparent",
-      "link": "https://ghanaiantimes.com.gh/how-smart-contracts-are-making-casino-transactions-faster-and-more-transparent/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T18:43:07.000Z",
-      "summary": "A payment is being checked on a phone while its owner waits for a train, but the confirmation screen shows no sign of progress. In online gaming, smart contracts can automate transaction…",
-      "categories": [
-        "Technology"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Let’s see how Asiedu Nketiah climbs up the 'political ladder' now with 'his ardent enemies' - Koku Anyidoho writes",
@@ -335,19 +411,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Mining companies urged to comply with country’s laws",
-      "link": "https://ghanaiantimes.com.gh/mining-companies-urged-to-comply-with-countrys-laws/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T14:57:29.000Z",
-      "summary": "THE Minister of Environment, Science and Technology (MEST), Dr Zanetor Agyeman-Rawlings, has urged mining companies to comply with laws and regulations governing the extractive industry to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "'Debibi United pitch is for cassava plantation, not football' – Gold Stars coach after defeat",
       "link": "https://www.graphic.com.gh/sports/sports-news/debibi-united-pitch-is-for-cassava-plantation-not-football-gold-stars-coach-after-defeat.html",
       "source": "Graphic Sports",
@@ -370,70 +433,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/22/AMPOFO.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Veteran actor and broadcaster, Seth Kwame Dzokoto dead",
-      "link": "https://ghanaiantimes.com.gh/veteran-actor-and-broadcaster-seth-kwame-dzokoto-dead/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T14:18:43.000Z",
-      "summary": "Management and staff of Owass FM have announced the passing of media personality, comedian and politician Seth Kwame Dzokoto following a medical emergency during a live morning show…",
-      "categories": [
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "AG appeals against suspension of Republic v Hanan Aludiba & Faiza Seidu trial",
-      "link": "https://ghanaiantimes.com.gh/ag-appeals-against-suspension-of-republic-v-hanan-aludiba-faiza-seidu-trial/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T12:46:02.000Z",
-      "summary": "The State through the Attorney General (AG) has filed an appeal at the Supreme Court challenging the suspension of the trial in the case of The Republic v Hanan Aludiba and Faiza Seidu. On…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana strengthens Ebola surveillance following reported cases in DRC, Kenya and Nigeria",
-      "link": "https://ghanaiantimes.com.gh/ghana-strengthens-ebola-surveillance-following-reported-cases-in-drc-kenya-and-nigeria/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T12:44:19.000Z",
-      "summary": "The Ministry of Health has announced enhanced surveillance and preparedness measures following reports of Ebola cases in the Democratic Republic of the Congo (DRC), Kenya and Nigeria. In a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDC closes nominations for 2026 National Executive Elections as 137 aspirants pick forms",
-      "link": "https://ghanaiantimes.com.gh/ndc-closes-nominations-for-2026-national-executive-elections-as-137-aspirants-pick-forms/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T12:42:18.000Z",
-      "summary": "The National Democratic Congress (NDC) has closed nominations for its 2026 National Executive Elections, with 137 prospective aspirants picking nomination forms to contest 14 positions. In…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GNFS educates PCE freshers on fire safety",
-      "link": "https://ghanaiantimes.com.gh/gnfs-educates-pce-freshers-on-fire-safety/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-22T12:40:51.000Z",
-      "summary": "The Akropong Fire Station has engaged first-year students of the Presbyterian College of Education, Akropong-Akuapem, in fire safety education. The education formed part of the College’s…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
