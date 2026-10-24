@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-24T17:38:05.866Z",
+  "updated": "2026-10-24T19:46:42.234Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,113 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GH¢10,000 injection: Assafuah boosts Black Challenge’s World Cup campaign",
+      "link": "https://www.myjoyonline.com/gh%c2%a210000-injection-assafuah-boosts-black-challenges-world-cup-campaign/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T19:27:43.000Z",
+      "summary": "Mr Assafuah made the donation during a visit to the team at their hotel in Achimota, Accra, where he also presented cartons of water and soft drinks to support the players.",
+      "categories": [
+        "Football",
+        "Sports",
+        "2026 WAFF Amputee Football World Cup",
+        "Vincent Ekow Assafuah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-17.01.15-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VIDEO: Sekondi fisherman narrates how they survived days missing at sea with no food",
+      "link": "https://www.graphic.com.gh/news/general-news/video-sekondi-fisherman-narrates-how-they-survived-seven-days-missing-at-sea-with-no-food.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T18:37:21.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/fisher.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Nayi Alhassan retains NDC Tema North chairmanship as Salman Faris wins secretary",
+      "link": "https://www.myjoyonline.com/nayi-alhassan-retains-ndc-tema-north-chairmanship-as-salman-faris-wins-secretary/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T18:28:52.000Z",
+      "summary": "Nayi Alhassan, popularly known as Ngbagu, has retained his position as National Democratic Congress (NDC) chairman for the Tamale North Constituency after securing 518 votes in the party’s…",
+      "categories": [
+        "HP News 4",
+        "Politics",
+        "NDC",
+        "Ngagu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2327.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ellen White Foundation brings free breast cancer screening to Bono East police women",
+      "link": "https://www.myjoyonline.com/ellen-white-foundation-brings-free-breast-cancer-screening-to-bono-east-police-women/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T18:19:01.000Z",
+      "summary": "In a heartwarming display of commitment to women's health, the Ellen White Sustainable Foundation, in partnership with the Awat Foundation and the Police Ladies Association, has provided…",
+      "categories": [
+        "Health",
+        "Breast cancer",
+        "Screening"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-8.44.14-AM1-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s U-15 Boys thrash Uzbekistan 4-1 as Abdul Aziz Issah and Jerry Owusu hit brace each",
+      "link": "https://www.myjoyonline.com/ghanas-u-15-boys-thrash-uzbekistan-4-1-as-abdul-aziz-issah-and-jerry-owusu-hit-brace-each/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T18:13:54.000Z",
+      "summary": "The National U-15 Boys team made a flying start to the FIFA U-15 World Cup and Festival with an emphatic 4-1 victory over Uzbekistan in their opening Group W match on Saturday. Abdul Aziz…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Football Uzbekistan",
+        "GFA",
+        "Ghana",
+        "U-15"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-9.46.30-AM-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GH¢49.72m S.A. evacuation: Asafo-Adjei says government’s figures do not add up",
+      "link": "https://www.myjoyonline.com/gh%c2%a249-72m-s-a-evacuation-asafo-adjei-says-governments-figures-do-not-add-up/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T18:13:54.000Z",
+      "summary": "The Deputy Ranking Member on Parliament’s Foreign Affairs Committee, Nana Asafo-Adjei Ayeh, has raised concerns over the GH¢49.72 million reportedly spent on evacuating 1,964 Ghanaians from…",
+      "categories": [
+        "National",
+        "GH¢49.72m S.A. evacuation",
+        "Nana Asafo-Adjei Ayeh"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-67.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026 U17 WWC: Black Maidens book knockout spot with win over Canada",
+      "link": "https://www.myjoyonline.com/2026-u17-wwc-black-maidens-book-knockout-spot-with-win-over-canada/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T17:34:32.000Z",
+      "summary": "The Black Maidens defeated Canada 2-0 in their final group game of the tournament to finish second in Group C after a troubling start to the tournament.",
+      "categories": [
+        "Football",
+        "HP News 6",
+        "HP Sports 1",
+        "National",
+        "2026 U-17 Women's World Cup",
+        "Black Maidens",
+        "Canada"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-5.08.25-PM-819x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "NDC constituency election records impressive turnout at Bortianor-Ngleshie Amanfro.",
       "link": "https://www.myjoyonline.com/ndc-constituency-election-records-impressive-turnout-at-bortianor-ngleshie-amanfro/",
       "source": "MyJoyOnline",
@@ -40,78 +147,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GH¢49.72m S.A. evacuation cost: Charter price comparisons alone cannot prove overpricing – IMANI Associate",
+      "title": "GH¢49.72m S.A. evacuation cost: Flight charter price comparisons alone can’t prove overpricing – IMANI Associate",
       "link": "https://www.myjoyonline.com/gh%c2%a249-72m-s-a-evacuation-cost-charter-price-comparisons-alone-cannot-prove-overpricing-imani-associate/",
       "source": "MyJoyOnline",
       "published": "2026-10-24T17:17:14.000Z",
       "summary": "An Associate of IMANI Centre for Policy and Education (CPE), Kay Cudjoe, has cautioned against drawing conclusions of overpricing based solely on comparisons between the reported cost of…",
       "categories": [
-        "Africa",
         "HP News 5",
         "National",
         "evacuation cost",
         "Kay Cudjoe"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2326-e1792862606519.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢49.72m S.A. evacuation: Nobody slept in a bus; it cannot be true – Benjamin Quashie",
-      "link": "https://www.myjoyonline.com/gh%c2%a249-72m-s-a-evacuation-nobody-slept-in-a-bus-it-cannot-be-true-benjamin-quashie/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T17:11:25.000Z",
-      "summary": "Ghana’s High Commissioner to South Africa, Benjamin Kofi Quashie, has rejected claims that some Ghanaians evacuated from the country slept in buses before boarding their chartered flights…",
-      "categories": [
-        "Africa",
-        "HP News 1",
-        "National",
-        "Benjamin Quashie",
-        "South Africa evacuation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Benjamin-Kofi-Quashie-Ghanas-High-Commissioner-to-South-Africa.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa must take control of its resources and security future – Mahama",
-      "link": "https://www.myjoyonline.com/africa-must-take-control-of-its-resources-and-security-future-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T16:58:12.000Z",
-      "summary": "President John Dramani Mahama has warned that foreign powers are seeking strategic influence and access to Africa’s natural resources, urging African leaders to unite to protect the…",
-      "categories": [
-        "National",
-        "Africa",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2318.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana successfully ends type 2 poliovirus outbreak, maintains over 95% immunisation coverage – GHS",
-      "link": "https://www.myjoyonline.com/ghana-successfully-ends-type-2-poliovirus-outbreak-maintains-over-95-immunisation-coverage-ghs/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T16:39:02.000Z",
-      "summary": "The Ghana Health Service (GHS) has announced the successful closure of Ghana's type 2 poliovirus outbreak in August 2026, marking a significant milestone in the country's efforts to…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Polio"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/09/image-728-38.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GoldBod rejects claims Sammy Gyamfi endorsed illegal mining, announces new support programme for miners",
-      "link": "https://www.myjoyonline.com/goldbod-dismisses-claims-sammy-gyamfi-endorsed-illegal-mining-clarifies-formalisation-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T16:38:45.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) has dismissed claims that its Chief Executive Officer, Sammy Gyamfi, endorsed illegal mining, describing a viral video circulating on social media as…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Goldbod",
-        "Sammy Gyamfi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-883-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/SA-Evacuation-1.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -127,22 +174,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Mahama urges Africa to finance its own peace operations, curb illicit financial flows",
-      "link": "https://www.myjoyonline.com/mahama-urges-africa-to-finance-its-own-peace-operations-curb-illicit-financial-flows/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T16:24:35.000Z",
-      "summary": "President John Mahama has called on African countries to take greater responsibility for financing their own peace operations, curbing illicit financial flows and building technological…",
-      "categories": [
-        "Africa",
-        "In Focus",
-        "National",
-        "African countries",
-        "President John Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-15.48.21-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Bawumia consults Pharmacy Society of Ghana",
       "link": "https://www.graphic.com.gh/news/politics/bawumia-consults-pharmacy-society-of-ghana.html",
       "source": "Daily Graphic",
@@ -153,23 +184,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/24/pharmacy1.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Qatar supports Senegal’s preparations for Dakar 2026 Youth Olympic Games",
-      "link": "https://www.myjoyonline.com/qatar-supports-senegals-preparations-for-dakar-2026-youth-olympic-games/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T16:12:16.000Z",
-      "summary": "Qatar has provided a total of 15 buses and a consignment of security equipment to the Republic of Senegal to support preparations for the Dakar 2026 Youth Olympic Games, which run from 31…",
-      "categories": [
-        "Athletics",
-        "Boxing",
-        "Other Sports",
-        "2026 Youth Olympics",
-        "Qatar",
-        "Senegal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_7852-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana Armed Forces to hold live fire power demonstration at Bundase on Oct 30",
@@ -229,18 +243,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/24/Cassiel.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Newborn baby abandoned at Sombo",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-newborn-baby-abandoned-at-sombo.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T11:11:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Rafida.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {

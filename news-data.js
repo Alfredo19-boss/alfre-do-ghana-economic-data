@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-24T17:37:51.970Z",
-  "worldAt": "2026-10-24T17:37:51.968Z",
+  "updated": "2026-10-24T19:46:29.781Z",
+  "worldAt": "2026-10-24T19:46:29.779Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,16 +20,16 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 5/25 stories",
+    "Graphic Online: 4/25 stories",
     "Graphic Business: 0/0 stories",
-    "The High Street Journal: 10/10 stories",
+    "The High Street Journal: failed (HTTP 403)",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -1099,12 +1099,104 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-24T19:12:51.000Z",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"
+    },
+    {
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T19:11:48.000Z",
+      "summary": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry."
+    },
+    {
+      "title": "France: Watching the Post-Riot Protests",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
+      "source": "France 24",
+      "published": "2026-10-24T18:42:27.000Z",
+      "summary": "After the French protests turned into riots last weekend, the curfews, and then the alleged racist mass shooting yesterday on the outskirts of Paris, there has been much anxiety, planning…",
+      "image": "https://s.france24.com/media/display/6cf47c4c-cfd6-11f1-8f44-bba4eee3dc72/w:1024/p:16x9/MANIF-000-D4BK2PW.jpg"
+    },
+    {
+      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T19:01:52.000Z",
+      "summary": "Thousands of protesters are on the streets of Paris for a second weekend."
+    },
+    {
+      "title": "“Witkoff should step down” says Ukraine Committee Chief",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
+      "source": "France 24",
+      "published": "2026-10-24T18:37:05.000Z",
+      "summary": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted front-line operations for more than a week, Ukrainian…",
+      "image": "https://s.france24.com/media/display/4dfa67ae-cfd9-11f1-8261-5b4a75578ebb/w:1024/p:16x9/WITKOFF-000-D3XU3NQ.jpg"
+    },
+    {
+      "title": "Thousands gather at new Albanian antigovernment rally",
+      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T18:30:56.000Z",
+      "summary": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days."
+    },
+    {
+      "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+      "link": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+      "source": "France 24",
+      "published": "2026-10-24T18:21:55.000Z",
+      "summary": "Thousands marched against Prime Minister Benjamin Netanyahu's government in Tel Aviv on Saturday – just three days before Israel's general election – demanding accountability for the…",
+      "image": "https://s.france24.com/media/display/234bdf36-cfd6-11f1-80cc-bdb9616e85cf/w:1024/p:16x9/000-D4BH8JA.jpg"
+    },
+    {
+      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T18:00:20.000Z",
+      "summary": "Kim Jong Un crosses new bridge linking North Korea and China"
+    },
+    {
+      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "source": "NPR World",
+      "published": "2026-10-24T17:54:25.000Z",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7961x5307+0+0/resize/7961x5307!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F79%2F14a4a3fb4f37b1a0b1432ccf6fa9%2Fap26295629655124.jpg"
+    },
+    {
+      "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+      "link": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+      "source": "France 24",
+      "published": "2026-10-24T17:50:25.000Z",
+      "summary": "Yemen’s Iran-allied Houthi rebels said they launched attacks at Saudi oil facilities and airports on Saturday while Yemen’s Saudi-backed government ​said the ‌group also fired three…",
+      "image": "https://s.france24.com/media/display/1192dd1a-cfd3-11f1-97a7-bdb9616e85cf/w:1024/p:16x9/King-Khalid-International-Airport.jpg"
+    },
+    {
       "title": "Two rescued after Nairobi building collapse with five still missing",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-24T17:25:46.000Z",
       "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+    },
+    {
+      "title": "France: Clashes erupt as protests sweep across cities",
+      "link": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
+      "source": "France 24",
+      "published": "2026-10-24T17:50:19.000Z",
+      "summary": "🇫🇷 The Ministry of the Interior estimates at least 410,000 people rallied across France for Saturday’s protests against the high cost of living, including 110,000 in Paris. Meanwhile…",
+      "image": "https://s.france24.com/media/display/ad139170-cfd4-11f1-892a-bdb9616e85cf/w:1024/p:16x9/Clashes-1.jpg"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-24T17:21:42.000Z",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
     },
     {
       "title": "Israel begins demolitions in West Bank",
@@ -1198,12 +1290,11 @@ window.GDC_NEWS = {
       "summary": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank."
     },
     {
-      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-24T14:45:30.000Z",
-      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"
+      "title": "🔴 French protests live: Police fire teargas at demonstrators in cities including Toulouse, Lyon",
+      "link": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+      "source": "France 24",
+      "published": "2026-10-24T14:41:05.000Z",
+      "summary": ""
     },
     {
       "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
@@ -1213,14 +1304,15 @@ window.GDC_NEWS = {
       "summary": "The race between Brazil's president and the right-wing senator has tightened in recent days."
     },
     {
-      "title": "🔴 French protests live: Police fire teargas at demonstrators in cities including Toulouse, Lyon",
-      "link": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+      "title": "NFL's Paris Premier: Saints RB Alvin Kamara on global reach, sport as catalyst for youth opportunity",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity",
       "source": "France 24",
-      "published": "2026-10-24T14:41:05.000Z",
-      "summary": ""
+      "published": "2026-10-24T14:20:03.000Z",
+      "summary": "François Picard and Selina Sykes are pleased to welcome New Orleans Saints running back Alvin Kamara. As the National Football League expands its international ambitions to Paris, FRANCE…",
+      "image": "https://s.france24.com/media/display/077be5d6-cfb2-11f1-9ded-bdb9616e85cf/w:1024/p:16x9/EN-20261020-183652-184335-CS.jpg"
     },
     {
-      "title": "Security forces deploy as Milan braces for another day of protests",
+      "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
       "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-24T15:05:58.000Z",
@@ -1228,9 +1320,9 @@ window.GDC_NEWS = {
     },
     {
       "title": "NFL's Paris Premier: Saints RB Alvin Kamara on global reach, sport as catalyst for youth opportunity",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity",
+      "link": "https://www.france24.com/en/video/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity-1",
       "source": "France 24",
-      "published": "2026-10-24T14:20:03.000Z",
+      "published": "2026-10-24T14:15:05.000Z",
       "summary": "François Picard and Selina Sykes are pleased to welcome New Orleans Saints running back Alvin Kamara. As the National Football League expands its international ambitions to Paris, FRANCE…",
       "image": "https://s.france24.com/media/display/077be5d6-cfb2-11f1-9ded-bdb9616e85cf/w:1024/p:16x9/EN-20261020-183652-184335-CS.jpg"
     },
@@ -1242,12 +1334,11 @@ window.GDC_NEWS = {
       "summary": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods."
     },
     {
-      "title": "NFL's Paris Premier: Saints RB Alvin Kamara on global reach, sport as catalyst for youth opportunity",
-      "link": "https://www.france24.com/en/video/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity-1",
-      "source": "France 24",
-      "published": "2026-10-24T14:15:05.000Z",
-      "summary": "François Picard and Selina Sykes are pleased to welcome New Orleans Saints running back Alvin Kamara. As the National Football League expands its international ambitions to Paris, FRANCE…",
-      "image": "https://s.france24.com/media/display/077be5d6-cfb2-11f1-9ded-bdb9616e85cf/w:1024/p:16x9/EN-20261020-183652-184335-CS.jpg"
+      "title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
+      "link": "http://www.africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election/",
+      "source": "Africanews",
+      "published": "2026-10-24T14:09:35.000Z",
+      "summary": "Haiti’s former president Michel Martelly is running for office again. He presented his candidacy on Friday for the December 13 elections - the country’s first in 10 years. Earlier this…"
     },
     {
       "title": "Full lockdown of occupied West Bank begins",
@@ -1257,20 +1348,6 @@ window.GDC_NEWS = {
       "summary": "The Israeli army begins its lockdown and military operations across the West Bank."
     },
     {
-      "title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
-      "link": "http://www.africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election/",
-      "source": "Africanews",
-      "published": "2026-10-24T14:09:35.000Z",
-      "summary": "Haiti’s former president Michel Martelly is running for office again. He presented his candidacy on Friday for the December 13 elections - the country’s first in 10 years. Earlier this…"
-    },
-    {
-      "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T14:23:40.000Z",
-      "summary": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month."
-    },
-    {
       "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
       "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
@@ -1278,11 +1355,11 @@ window.GDC_NEWS = {
       "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European…"
     },
     {
-      "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+      "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T14:21:34.000Z",
-      "summary": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or."
+      "published": "2026-10-24T14:23:40.000Z",
+      "summary": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month."
     },
     {
       "title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
@@ -1293,11 +1370,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/84746cf6-cfae-11f1-89ae-bba4eee3dc72/w:1024/p:16x9/000-D4AX3EF.jpg"
     },
     {
-      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
+      "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T14:04:27.000Z",
-      "summary": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park."
+      "published": "2026-10-24T14:21:34.000Z",
+      "summary": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or."
     },
     {
       "title": "HIV prevention jab offers hope in Uganda but doses are hard to find",
@@ -1307,11 +1384,11 @@ window.GDC_NEWS = {
       "summary": "An injectable HIV drug could save huge numbers of people from getting infected in Uganda. But shortages of lenacapavir mean that those who need it the most often can't get treated with a…"
     },
     {
-      "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
+      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T13:58:14.000Z",
-      "summary": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?"
+      "published": "2026-10-24T14:04:27.000Z",
+      "summary": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park."
     },
     {
       "title": "Fresh protests across France",
@@ -1320,81 +1397,6 @@ window.GDC_NEWS = {
       "published": "2026-10-24T13:22:01.000Z",
       "summary": "A coalition of the “Yellow Vests” movement, trade unions and students will march across France on Saturday with demands over studying conditions and purchasing power. Some 70,000 police are…",
       "image": "https://s.france24.com/media/display/768058f4-cfad-11f1-a89f-bba4eee3dc72/w:1024/p:16x9/EN-20261024-142251-142443-CS.jpg"
-    },
-    {
-      "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T13:52:08.000Z",
-      "summary": "The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova."
-    },
-    {
-      "title": "Macron condemns racist terrorist attack in Paris suburb",
-      "link": "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb",
-      "source": "France 24",
-      "published": "2026-10-24T13:21:02.000Z",
-      "summary": "Adding to the tensions, France is reeling from a shooting that authorities are investigating as a potentially racist and Islamophobic terrorist attack. One person was killed and five others…",
-      "image": "https://s.france24.com/media/display/a6a5d38e-cfac-11f1-8a59-4d317af013fd/w:1024/p:16x9/EN-20261024-141809-141934-CS.jpg"
-    },
-    {
-      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
-      "link": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T13:51:08.000Z",
-      "summary": "Sudan is suffering from a cost-of-living crisis affecting millions across the country."
-    },
-    {
-      "title": "France: Anti-far-right protest in Orleans",
-      "link": "https://www.france24.com/en/france-anti-far-right-protest-in-orleans",
-      "source": "France 24",
-      "published": "2026-10-24T13:19:54.000Z",
-      "summary": "Far-right candidate Marine Le Pen is officially launching her presidential campaign this weekend at the National Rally’s two-day party congress in Orléans, where thousands of supporters are…",
-      "image": "https://s.france24.com/media/display/271eb9a0-cfac-11f1-8fe9-4b25c96ec90e/w:1024/p:16x9/EN-20261024-141552-141744-CS.jpg"
-    },
-    {
-      "title": "Who was behind the deadly church shooting in Jordan?",
-      "link": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T13:39:26.000Z",
-      "summary": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large."
-    },
-    {
-      "title": "Paris: Protest starts at Porte d'Italie, after last-minute change to the route",
-      "link": "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route",
-      "source": "France 24",
-      "published": "2026-10-24T13:18:52.000Z",
-      "summary": "France is bracing for another day of cost-of-living protests, with extra police deployed nationwide to prevent a repeat of the violence that followed last Saturday’s demonstrations. In…",
-      "image": "https://s.france24.com/media/display/da89ede4-cfab-11f1-aff3-4b25c96ec90e/w:1024/p:16x9/EN-20261024-140239-140431-CS.jpg"
-    },
-    {
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T13:27:11.000Z",
-      "summary": "Netanyahu floats Crypto to bypass sanctions"
-    },
-    {
-      "title": "Andrew Smith warns that policing, political blame are no substitute for social reform & public trust",
-      "link": "https://www.france24.com/en/andrew-smith-warns-that-policing-political-blame-are-no-substitute-for-social-reform-public-trust",
-      "source": "France 24",
-      "published": "2026-10-24T13:09:03.000Z",
-      "summary": "“You can't police yourself into social cohesion. You can't police yourself into a political future,” explains Andrew Smith, historian of modern France at Queen Mary University of London. He…",
-      "image": "https://s.france24.com/media/display/65c2383e-cf9e-11f1-aa13-bdb9616e85cf/w:1024/p:16x9/EN-20261021-132946-133956-CS.jpg"
-    },
-    {
-      "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T13:16:23.000Z",
-      "summary": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village."
-    },
-    {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-24T12:12:40.000Z",
-      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg"
     }
   ],
   "africa": [
