@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-24T14:44:34.025Z",
+  "updated": "2026-10-24T17:38:05.866Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,127 +25,163 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Minority demands Sammy Gyamfi’s resignation as GoldBod CEO over comments on small-scale mining licences",
-      "link": "https://www.myjoyonline.com/minority-demands-sammy-gyamfis-resignation-as-goldbod-ceo-over-comments-on-small-scale-mining-licences/",
+      "title": "NDC constituency election records impressive turnout at Bortianor-Ngleshie Amanfro.",
+      "link": "https://www.myjoyonline.com/ndc-constituency-election-records-impressive-turnout-at-bortianor-ngleshie-amanfro/",
       "source": "MyJoyOnline",
-      "published": "2026-10-24T14:40:46.000Z",
-      "summary": "The Minority Caucus in Parliament has called for the resignation or dismissal of Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi over comments it says suggest that…",
+      "published": "2026-10-24T17:22:29.000Z",
+      "summary": "The National Democratic Congress (NDC) constituency executive elections have recorded an impressive turnout at the Bortianor-Ngleshie Amanfro constituency in the Greater Accra Region.",
       "categories": [
-        "National",
-        "Top Story",
-        "Minority",
-        "Sammy Gyamfi"
+        "Photo Story",
+        "Bortianor-Ngleshie Amanfro",
+        "Electoral Commiission",
+        "National Democratic Congress"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Sammy-Gyamfi-1.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3273_2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC elections underway across the country as over 15,000 delegates vote for new executives",
-      "link": "https://www.myjoyonline.com/ndc-elections-underway-across-the-country-as-thousands-of-delegates-vote-for-new-executives/",
+      "title": "GH¢49.72m S.A. evacuation cost: Charter price comparisons alone cannot prove overpricing – IMANI Associate",
+      "link": "https://www.myjoyonline.com/gh%c2%a249-72m-s-a-evacuation-cost-charter-price-comparisons-alone-cannot-prove-overpricing-imani-associate/",
       "source": "MyJoyOnline",
-      "published": "2026-10-24T14:38:23.000Z",
-      "summary": "The National Democratic Congress (NDC) is holding its internal elections across the country today, Saturday, October 24, with over 15,000 delegates casting their ballots to elect new…",
-      "categories": [
-        "National",
-        "delegates",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2312-1024x552.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GTA CEO responds to Abeiku Santana’s concerns over access to her office",
-      "link": "https://www.myjoyonline.com/gta-ceo-responds-to-abeiku-santanas-concerns-over-access-to-her-office/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T13:37:26.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Tourism Authority (GTA), Maame Efua Houadjeto, has responded to concerns raised by her one of deputies, Gilbert Abeiku Aggrey Santana, over…",
-      "categories": [
-        "HP Entertainment 2",
-        "National",
-        "Top Story",
-        "Travel and Tourism",
-        "Abeiku Aggrey Santana",
-        "Maame Efua Houadjeto"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9376.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa launches West Africa research programme to speed up outbreak response",
-      "link": "https://www.myjoyonline.com/africa-launches-west-africa-research-programme-to-speed-up-outbreak-response/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T13:37:18.000Z",
-      "summary": "A new regional initiative is seeking to strengthen West Africa’s preparedness for public health emergencies by connecting research institutions and enabling faster, more coordinated…",
+      "published": "2026-10-24T17:17:14.000Z",
+      "summary": "An Associate of IMANI Centre for Policy and Education (CPE), Kay Cudjoe, has cautioned against drawing conclusions of overpricing based solely on comparisons between the reported cost of…",
       "categories": [
         "Africa",
-        "Health",
-        "Outbreak",
-        "West Africa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-17.36.09-1024x477.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Protect children from sexual abuse, Raissa Child Protection Initiative urges",
-      "link": "https://www.myjoyonline.com/protect-children-from-sexual-abuse-raissa-child-protection-initiative-urges/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T13:19:59.000Z",
-      "summary": "The Raissa Child Protection Initiative over the weekend held a community durbar at Agbeve, Sowutuom, in Accra to educate residents on child sexual abuse prevention and the need to protect…",
-      "categories": [
-        "Features",
+        "HP News 5",
         "National",
-        "Children",
-        "Raissa Child Protection Initiative",
-        "Sexual abuse"
+        "evacuation cost",
+        "Kay Cudjoe"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Raissa-Child-Protection-Initiative-768x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2326-e1792862606519.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Aggrieved NDC delegates invoke curses on party executives over alleged bloated register at Atwima Kwanwoma Constituency",
-      "link": "https://www.myjoyonline.com/aggrieved-ndc-delegates-invoke-curses-on-party-executives-over-alleged-bloated-register-at-atwima-kwanwoma-constituency/",
+      "title": "GH¢49.72m S.A. evacuation: Nobody slept in a bus; it cannot be true – Benjamin Quashie",
+      "link": "https://www.myjoyonline.com/gh%c2%a249-72m-s-a-evacuation-nobody-slept-in-a-bus-it-cannot-be-true-benjamin-quashie/",
       "source": "MyJoyOnline",
-      "published": "2026-10-24T13:17:40.000Z",
-      "summary": "Some aggrieved delegates of the National Democratic Congress (NDC) in the Atwima Kwanwoma Constituency of the Ashanti Region, who allege that their names have been removed from the party’s…",
+      "published": "2026-10-24T17:11:25.000Z",
+      "summary": "Ghana’s High Commissioner to South Africa, Benjamin Kofi Quashie, has rejected claims that some Ghanaians evacuated from the country slept in buses before boarding their chartered flights…",
       "categories": [
-        "Politics",
-        "Regional",
-        "alleged bloated register",
-        "Atwima Kwanwoma Constituency",
-        "NDC delegates"
+        "Africa",
+        "HP News 1",
+        "National",
+        "Benjamin Quashie",
+        "South Africa evacuation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.45.42-819x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Benjamin-Kofi-Quashie-Ghanas-High-Commissioner-to-South-Africa.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Unemployment and poverty pushed us into dangerous underground mining – Atwima Kwanwoma miners",
-      "link": "https://www.myjoyonline.com/unemployment-and-poverty-pushed-us-into-dangerous-underground-mining-atwima-kwanwoma-miners/",
+      "title": "Africa must take control of its resources and security future – Mahama",
+      "link": "https://www.myjoyonline.com/africa-must-take-control-of-its-resources-and-security-future-mahama/",
       "source": "MyJoyOnline",
-      "published": "2026-10-24T13:14:18.000Z",
-      "summary": "Some youth engaged in underground mining in the Atwima Kwanwoma District of the Ashanti Region say unemployment and poverty have forced them into the dangerous activity despite the risk to…",
-      "categories": [
-        "Regional",
-        "Atwima Kwanwoma miners",
-        "underground mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.46.07-1024x572.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS sexual abuse: Headmaster has no right to use accuser’s motherhood to justify alleged rape – NETRIGHT",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-headmaster-has-no-right-to-use-accusers-motherhood-to-justify-alleged-rape-netright/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T13:00:31.000Z",
-      "summary": "Convener of the Network for Women’s Rights (NETRIGHT), Professor Akosua A. Adarkwa, says the suspended Obuasi Senior High Technical School (SHTS) headmaster Zakaria Abdulai has worsened his…",
+      "published": "2026-10-24T16:58:12.000Z",
+      "summary": "President John Dramani Mahama has warned that foreign powers are seeking strategic influence and access to Africa’s natural resources, urging African leaders to unite to protect the…",
       "categories": [
         "National",
-        "NETRIGHT",
-        "Obuasi SHTS sexual abuse",
-        "Professor Akosua A. Adarkwa",
-        "Zakaria Abdulai"
+        "Africa",
+        "Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Convener-for-Network-for-Womens-Rights-NETRIGHT-Prof-Akosua-A-Adarkwa-.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2318.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana successfully ends type 2 poliovirus outbreak, maintains over 95% immunisation coverage – GHS",
+      "link": "https://www.myjoyonline.com/ghana-successfully-ends-type-2-poliovirus-outbreak-maintains-over-95-immunisation-coverage-ghs/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T16:39:02.000Z",
+      "summary": "The Ghana Health Service (GHS) has announced the successful closure of Ghana's type 2 poliovirus outbreak in August 2026, marking a significant milestone in the country's efforts to…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Polio"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/09/image-728-38.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GoldBod rejects claims Sammy Gyamfi endorsed illegal mining, announces new support programme for miners",
+      "link": "https://www.myjoyonline.com/goldbod-dismisses-claims-sammy-gyamfi-endorsed-illegal-mining-clarifies-formalisation-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T16:38:45.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) has dismissed claims that its Chief Executive Officer, Sammy Gyamfi, endorsed illegal mining, describing a viral video circulating on social media as…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Goldbod",
+        "Sammy Gyamfi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-883-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "'Surprised and disappointed' GTA CEO Maame Efua Houadjeto responds to Abeiku Santana's petition",
+      "link": "https://www.graphic.com.gh/news/general-news/gta-ceo-denies-blocking-deputy-proposes-new-consultation-rules.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T16:37:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/08/afua26.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Mahama urges Africa to finance its own peace operations, curb illicit financial flows",
+      "link": "https://www.myjoyonline.com/mahama-urges-africa-to-finance-its-own-peace-operations-curb-illicit-financial-flows/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T16:24:35.000Z",
+      "summary": "President John Mahama has called on African countries to take greater responsibility for financing their own peace operations, curbing illicit financial flows and building technological…",
+      "categories": [
+        "Africa",
+        "In Focus",
+        "National",
+        "African countries",
+        "President John Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-15.48.21-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia consults Pharmacy Society of Ghana",
+      "link": "https://www.graphic.com.gh/news/politics/bawumia-consults-pharmacy-society-of-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T16:19:57.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/pharmacy1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Qatar supports Senegal’s preparations for Dakar 2026 Youth Olympic Games",
+      "link": "https://www.myjoyonline.com/qatar-supports-senegals-preparations-for-dakar-2026-youth-olympic-games/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T16:12:16.000Z",
+      "summary": "Qatar has provided a total of 15 buses and a consignment of security equipment to the Republic of Senegal to support preparations for the Dakar 2026 Youth Olympic Games, which run from 31…",
+      "categories": [
+        "Athletics",
+        "Boxing",
+        "Other Sports",
+        "2026 Youth Olympics",
+        "Qatar",
+        "Senegal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_7852-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Armed Forces to hold live fire power demonstration at Bundase on Oct 30",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-armed-forces-to-hold-live-fire-power-demonstration-at-bundase.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T12:54:48.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GTA Deputy CEO Abeiku Santana petitions Minister over communication gap and access to his boss Maame Efua Houadjeto on critical issues",
@@ -205,42 +241,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/24/Rafida.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kpandai DCE orders removal of structures on watercourses, appeals for bigger bridge",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-kpandai-dce-orders-removal-of-structures-on-watercourses-appeals-for-bigger-bridge.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T11:05:57.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Haruna.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dusty, bumpy, risky: Residents call for work to resume on Bolga-Bawku road",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dusty-bumpy-risky-residents-call-for-work-to-resume-on-bolga-bawku-road.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T10:59:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Plying.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Road infrastructure encroachment fuels pedestrian knockdowns",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-road-infrastructure-encroachment-fuels-pedestrian-knockdowns.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T10:47:10.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/drivers.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
