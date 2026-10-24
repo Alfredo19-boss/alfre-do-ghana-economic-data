@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-24T11:27:08.538Z",
+  "updated": "2026-10-24T14:44:34.025Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,165 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority demands Sammy Gyamfi’s resignation as GoldBod CEO over comments on small-scale mining licences",
+      "link": "https://www.myjoyonline.com/minority-demands-sammy-gyamfis-resignation-as-goldbod-ceo-over-comments-on-small-scale-mining-licences/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T14:40:46.000Z",
+      "summary": "The Minority Caucus in Parliament has called for the resignation or dismissal of Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi over comments it says suggest that…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Minority",
+        "Sammy Gyamfi"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Sammy-Gyamfi-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC elections underway across the country as over 15,000 delegates vote for new executives",
+      "link": "https://www.myjoyonline.com/ndc-elections-underway-across-the-country-as-thousands-of-delegates-vote-for-new-executives/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T14:38:23.000Z",
+      "summary": "The National Democratic Congress (NDC) is holding its internal elections across the country today, Saturday, October 24, with over 15,000 delegates casting their ballots to elect new…",
+      "categories": [
+        "National",
+        "delegates",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2312-1024x552.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTA CEO responds to Abeiku Santana’s concerns over access to her office",
+      "link": "https://www.myjoyonline.com/gta-ceo-responds-to-abeiku-santanas-concerns-over-access-to-her-office/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T13:37:26.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Tourism Authority (GTA), Maame Efua Houadjeto, has responded to concerns raised by her one of deputies, Gilbert Abeiku Aggrey Santana, over…",
+      "categories": [
+        "HP Entertainment 2",
+        "National",
+        "Top Story",
+        "Travel and Tourism",
+        "Abeiku Aggrey Santana",
+        "Maame Efua Houadjeto"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9376.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa launches West Africa research programme to speed up outbreak response",
+      "link": "https://www.myjoyonline.com/africa-launches-west-africa-research-programme-to-speed-up-outbreak-response/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T13:37:18.000Z",
+      "summary": "A new regional initiative is seeking to strengthen West Africa’s preparedness for public health emergencies by connecting research institutions and enabling faster, more coordinated…",
+      "categories": [
+        "Africa",
+        "Health",
+        "Outbreak",
+        "West Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-17.36.09-1024x477.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Protect children from sexual abuse, Raissa Child Protection Initiative urges",
+      "link": "https://www.myjoyonline.com/protect-children-from-sexual-abuse-raissa-child-protection-initiative-urges/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T13:19:59.000Z",
+      "summary": "The Raissa Child Protection Initiative over the weekend held a community durbar at Agbeve, Sowutuom, in Accra to educate residents on child sexual abuse prevention and the need to protect…",
+      "categories": [
+        "Features",
+        "National",
+        "Children",
+        "Raissa Child Protection Initiative",
+        "Sexual abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Raissa-Child-Protection-Initiative-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Aggrieved NDC delegates invoke curses on party executives over alleged bloated register at Atwima Kwanwoma Constituency",
+      "link": "https://www.myjoyonline.com/aggrieved-ndc-delegates-invoke-curses-on-party-executives-over-alleged-bloated-register-at-atwima-kwanwoma-constituency/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T13:17:40.000Z",
+      "summary": "Some aggrieved delegates of the National Democratic Congress (NDC) in the Atwima Kwanwoma Constituency of the Ashanti Region, who allege that their names have been removed from the party’s…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "alleged bloated register",
+        "Atwima Kwanwoma Constituency",
+        "NDC delegates"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.45.42-819x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Unemployment and poverty pushed us into dangerous underground mining – Atwima Kwanwoma miners",
+      "link": "https://www.myjoyonline.com/unemployment-and-poverty-pushed-us-into-dangerous-underground-mining-atwima-kwanwoma-miners/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T13:14:18.000Z",
+      "summary": "Some youth engaged in underground mining in the Atwima Kwanwoma District of the Ashanti Region say unemployment and poverty have forced them into the dangerous activity despite the risk to…",
+      "categories": [
+        "Regional",
+        "Atwima Kwanwoma miners",
+        "underground mining"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.46.07-1024x572.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS sexual abuse: Headmaster has no right to use accuser’s motherhood to justify alleged rape – NETRIGHT",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-headmaster-has-no-right-to-use-accusers-motherhood-to-justify-alleged-rape-netright/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T13:00:31.000Z",
+      "summary": "Convener of the Network for Women’s Rights (NETRIGHT), Professor Akosua A. Adarkwa, says the suspended Obuasi Senior High Technical School (SHTS) headmaster Zakaria Abdulai has worsened his…",
+      "categories": [
+        "National",
+        "NETRIGHT",
+        "Obuasi SHTS sexual abuse",
+        "Professor Akosua A. Adarkwa",
+        "Zakaria Abdulai"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Convener-for-Network-for-Womens-Rights-NETRIGHT-Prof-Akosua-A-Adarkwa-.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTA Deputy CEO Abeiku Santana petitions Minister over communication gap and access to his boss Maame Efua Houadjeto on critical issues",
+      "link": "https://www.graphic.com.gh/news/general-news/gta-deputy-ceo-petitions-minister-over-communication-gap-with-boss.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T12:27:00.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Commemoration of International Day of Girl Child: Invest in girls’ health, safety — Speakers",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-commemoration-of-international-day-of-girl-child-invest-in-girls-health-safety-speakers.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T11:24:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Ministry.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Nana Konadu Agyeman-Rawlings’s 1 year anniversary commemorated",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nana-konadu-agyeman-rawlingss-1-year-anniversary-commemorated.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T11:20:20.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Vice-President.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Finance Ministry denies withholding budget utilisation data from PIAC",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-finance-ministry-denies-withholding-budget-utilisation-data-from-piac.html",
@@ -49,37 +208,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Obuasi school scandal: NETRIGHT demands offenders’ register, annual GES reports on abuse cases",
-      "link": "https://www.myjoyonline.com/obuasi-school-scandal-netright-demands-offenders-register-annual-ges-reports-on-abuse-cases/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T11:07:36.000Z",
-      "summary": "The Convener of the Network for Women's Rights in Ghana (NETRIGHT), Professor Akosua Darkwah, has called on the Ghana Education Service (GES) to establish an offenders’ register and publish…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "GES",
-        "NETRIGHT",
-        "Obuasi school scandal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-46-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS sexual abuse: Zakaria Abdulai is a free man now, as I know – Manasseh",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-zakaria-abdulai-is-a-free-man-now-as-i-know-manasseh/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T11:07:26.000Z",
-      "summary": "JoyNews investigative journalist Manasseh Azure Awuni says the suspended headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, is moving freely despite allegations of…",
-      "categories": [
-        "National",
-        "Manasseh Azure Awuni",
-        "Obuasi SHTS sexual abuse",
-        "Zakaria Abdulai"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-Headmaster.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Kpandai DCE orders removal of structures on watercourses, appeals for bigger bridge",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-kpandai-dce-orders-removal-of-structures-on-watercourses-appeals-for-bigger-bridge.html",
       "source": "Daily Graphic",
@@ -90,37 +218,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/24/Haruna.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Sexual abuse should trigger police investigations, not community intervention – Felicity Nelson",
-      "link": "https://www.myjoyonline.com/sexual-abuse-should-trigger-police-investigations-not-community-intervention-felicity-nelson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T11:00:44.000Z",
-      "summary": "The Deputy Chief Executive Officer of the Ghana Tourism Development Company, Felicity Nelson, has called for an end to the practice of traditional and religious leaders intervening to seek…",
-      "categories": [
-        "National",
-        "Interventions",
-        "Police",
-        "Sexual abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-28-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Abeiku Santana raises concerns over access to GTA CEO Maame Efua Houadjeto",
-      "link": "https://www.myjoyonline.com/abeiku-santana-raises-concerns-over-access-to-gta-ceo-maame-efua-houadjeto/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T11:00:22.000Z",
-      "summary": "Deputy Chief Executive Officer of the Ghana Tourism Authority (GTA) in charge of Marketing and Special Duties, Gilbert Abeiku Aggrey aka Santana, has asked the Tourism Minister to intervene…",
-      "categories": [
-        "HP Entertainment 1",
-        "Travel and Tourism",
-        "Abeiku Aggrey Santana",
-        "Ghana Tourism Authority",
-        "Maame Efua Houadjeto"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9375-1024x552.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Dusty, bumpy, risky: Residents call for work to resume on Bolga-Bawku road",
@@ -135,6 +232,18 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "Road infrastructure encroachment fuels pedestrian knockdowns",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-road-infrastructure-encroachment-fuels-pedestrian-knockdowns.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T10:47:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/drivers.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Ankrah gives Ghana winning start at African Boxing Championships",
       "link": "https://www.graphic.com.gh/sports/boxing/ankrah-gives-ghana-winning-start-at-african-boxing-championships.html",
       "source": "Graphic Sports",
@@ -145,23 +254,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/24/ankrah2.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Obuasi SHTS sexual abuse: FIDA Ghana calls offence first-degree felony, says it’s not bailable",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-fida-ghana-calls-offence-first-degree-felony-says-its-not-bailable/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T10:26:44.000Z",
-      "summary": "The President of the International Federation of Women Lawyers (FIDA) Ghana, Gloria Ofori-Boadu, has described the alleged sexual abuse involving the headmaster of Obuasi Senior High…",
-      "categories": [
-        "Education",
-        "HP News 8",
-        "National",
-        "FIDA Ghana",
-        "Gloria Ofori-Boadu",
-        "Obuasi SHTS abuse case"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "World champion Jepchirchir fails drugs test",
@@ -186,100 +278,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/challenge.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Obuasi SHTS scandal: Prioritise victims’ welfare, not just investigations – Felicity Nelson",
-      "link": "https://www.myjoyonline.com/obuasi-shts-scandal-prioritise-victims-welfare-not-just-investigations-felicity-nelson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T10:16:37.000Z",
-      "summary": "The Deputy Chief Executive Officer of the Ghana Tourism Development Company, Felicity Nelson, has called for the psychological, emotional and physical well-being of alleged victims to be…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Felicity Nelson",
-        "Obuasi SHTS scandal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-26-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC goofed with initial Obuasi school sexual abuse statement; I’m glad we corrected it – Felicity Nelson",
-      "link": "https://www.myjoyonline.com/ndc-goofed-with-initial-obuasi-school-sexual-abuse-statement-im-glad-we-corrected-it-felicity-nelson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T10:16:18.000Z",
-      "summary": "The Deputy Chief Executive Officer of the Ghana Tourism Development Company, Felicity Nelson, has admitted that the National Democratic Congress (NDC) erred in its initial statement on the…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Felicity Nelson",
-        "NDC",
-        "Obuasi SHTS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-41-e1792836469590-1024x515.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.graphic.com.gh/news/health/uk-to-invest-gbp100m-in-world-first-ai-biosecurity-lab.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T10:06:32.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/lab.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NCCE uses football to promote gender equality, adolescent health",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ncce-uses-football-to-promote-gender-equality-adolescent-health.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T10:06:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Rita.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Zonta calls for action against sexual abuse in schools",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-zonta-calls-for-action-against-sexual-abuse-in-schools.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T10:03:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Gambia’s Chief Justice calls on Asantehene",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gambias-chief-justice-calls-on-asantehene.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T09:57:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Tutu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "About 15,000 aspirants set for executive NDC positions across all constituencies",
-      "link": "https://www.myjoyonline.com/15000-aspirants-set-for-executive-ndc-positions-across-all-constituencies/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T09:38:26.000Z",
-      "summary": "The National Democratic Congress (NDC) is proceeding with its constituency executive elections nationwide despite a court injunction restraining the party from conducting the polls in…",
-      "categories": [
-        "HP News 6",
-        "Politics",
-        "Elections",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/NDC-flag-613x424-1.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GPL Week 8: Hearts of Oak climb to summit after victory over Basake Holy Stars",
