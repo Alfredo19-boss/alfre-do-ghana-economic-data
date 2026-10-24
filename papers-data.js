@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-24T01:40:45.843Z",
+  "updated": "2026-10-24T06:28:36.946Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,69 +25,120 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Obuasi SHTS sex scandal: Second complainant alleges pressure to withdraw",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sex-scandal-second-complainant-alleges-pressure-to-withdraw/",
+      "title": "MOMO FinTech Lab backs young innovators in northern Ghana",
+      "link": "https://www.myjoyonline.com/momo-fintech-lab-backs-young-innovators-in-northern-ghana/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T22:33:25.000Z",
-      "summary": "Pressure is mounting on a second complainant in the alleged sexual abuse case involving the headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, to withdraw her…",
+      "published": "2026-10-24T06:08:10.000Z",
+      "summary": "Young innovators in northern Ghana are getting an opportunity to turn ideas into technology-driven solutions to local challenges, as MOMO FinTech steps up efforts to nurture talent beyond…",
       "categories": [
+        "Business",
+        "MoMo Fintech Lab",
+        "MTN"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-00.24.36-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Second Global Rosary Congress convenes in Wa to foster peace and religious tolerance",
+      "link": "https://www.myjoyonline.com/second-global-rosary-congress-convenes-in-wa-to-foster-peace-and-religious-tolerance/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T05:29:19.000Z",
+      "summary": "Thousands of Catholics, alongside diverse religious groups and traditional leaders, have convened at the Wa Malik Jaabre Sports Stadium for the second edition of the Global Rosary Congress.",
+      "categories": [
+        "News",
+        "Catholic",
+        "rosary"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-20.13.22-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "13 first-offender inmates discharged from Wa Central Prison under 2026 presidential amnesty",
+      "link": "https://www.myjoyonline.com/13-first-offender-inmates-discharged-from-wa-central-prison-under-2026-presidential-amnesty-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T04:55:15.000Z",
+      "summary": "Thirteen first-offender inmates have been officially discharged from the Wa Central Prison after benefiting from the 2026 presidential amnesty granted by President John Dramani Mahama. The…",
+      "categories": [
+        "HP News 4",
+        "News",
+        "amnesty",
+        "Inmates",
+        "Prison"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-20.21.00r-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigerian woman jailed seven years for human trafficking in Tamale",
+      "link": "https://www.myjoyonline.com/nigerian-woman-jailed-seven-years-for-human-trafficking-in-tamale/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T04:31:01.000Z",
+      "summary": "A 24-year-old Nigerian woman has been sentenced to seven years’ imprisonment with hard labour for human trafficking after a trial at the Gender-Based Violence Court in Tamale.",
+      "categories": [
+        "Crime",
         "HP News 1",
         "News",
-        "Ghana",
-        "Sexual abuse",
-        "SHS"
+        "Jail"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-145944-592x375-1.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ashie-Moore disputes report on alleged theft of businessman’s belongings",
-      "link": "https://www.myjoyonline.com/ashie-moore-disputes-report-on-alleged-theft-of-businessmans-belongings/",
+      "title": "Mr Drew’s X Space outburst would not happen under my watch – NanaYaw Wiredu",
+      "link": "https://www.myjoyonline.com/mr-drews-x-space-outburst-would-not-happen-under-my-watch-nanayaw-wiredu/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T22:15:00.000Z",
-      "summary": "The Greater Accra Regional Chairman of the National Democratic Congress (NDC), Emmanuel Nii Ashie-Moore, has rejected reports that the Attorney-General’s Department has recommended his…",
+      "published": "2026-10-24T04:27:37.000Z",
+      "summary": "Media entrepreneur and talent manager NanaYaw Wiredu says the recent social media incident involving Ghanaian musician Mr Drew would not have happened under his watch. Speaking on Woezor…",
+      "categories": [
+        "HP Entertainment 1",
+        "Music",
+        "Mr Drew",
+        "NanaYaw Wiredu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/07cc3279-acd1-4263-aa1d-179e481aa881.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Six-year-old’s death at Fofie Yam Festival: Family demands justice",
+      "link": "https://www.myjoyonline.com/six-year-olds-death-at-fofie-yam-festival-family-demands-justice/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T04:16:44.000Z",
+      "summary": "The Akwamu Royal Family of Nchiraa in the Bono Region has appealed to the President, John Dramani Mahama, and the Inspector-General of Police (IGP) to intervene in a fatal shooting incident…",
       "categories": [
         "HP News 2",
+        "National",
         "News",
-        "Ashie-Moore",
-        "NDC"
+        "Death",
+        "Family"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-33-2401347629-1140x570-1-1024x512.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-17.57.08-1024x473.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Graduates must be willing to start small to build careers – Ridge Royal MD",
-      "link": "https://www.myjoyonline.com/graduates-must-be-willing-to-start-small-to-build-careers-ridge-royal-md/",
+      "title": "Bolt Food’s Kumasi business has more than doubled as growth continues into its second year",
+      "link": "https://www.myjoyonline.com/bolt-foods-kumasi-business-has-more-than-doubled-as-growth-continues-into-its-second-year/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T21:58:00.000Z",
-      "summary": "The Managing Director of Ridge Royal Hotel in Cape Coast, Sheila Adjetey-Anum, has urged graduates to be willing to start from entry-level positions and build their careers through hard…",
+      "published": "2026-10-24T03:41:20.000Z",
+      "summary": "Nearly two years after expanding to Kumasi, Bolt Food saw strong growth in the city, with activity increasing by more than 100% year-on-year in its second year of operations.",
       "categories": [
-        "National",
-        "News",
-        "Education",
-        "Employment",
-        "Jobs",
-        "Youth"
+        "Food",
+        "Bolt Food"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-3.31.14-PM-1024x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-03.54.51-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Climate x Culture Summit brings creatives, sustainability experts together to advance sustainability in Africa",
-      "link": "https://www.myjoyonline.com/climate-x-culture-summit-brings-creatives-sustainability-experts-together-to-advance-sustainability-in-africa/",
+      "title": "Bunkpurugu chieftaincy dispute: Chief Justice orders transfer of case to Tamale over security fears",
+      "link": "https://www.myjoyonline.com/bunkpurugu-chieftaincy-dispute-chief-justice-orders-transfer-of-case-to-tamale-over-security-fears-2/",
       "source": "MyJoyOnline",
-      "published": "2026-10-23T21:20:17.000Z",
-      "summary": "The inaugural Climate x Culture Summit 2026 has brought together climate practitioners, creative industry leaders, researchers, media professionals, financial sector representatives and…",
+      "published": "2026-10-24T03:05:00.000Z",
+      "summary": "The Chief Justice has granted a request by defendants in the Bunkpurugu chieftaincy dispute to transfer their case from the High Court in Nalerigu to Tamale over security concerns. One of…",
       "categories": [
-        "Arts and Culture",
-        "National",
-        "Accra",
-        "Africa",
-        "Climate x Culture Summit",
-        "Creativity",
-        "Sustainability"
+        "HP News 5",
+        "News",
+        "court"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/climate-x-culture-summit-assembl.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/a-wooden-judge-gavel-rests-on-a-matching-sound-block-isolated-on-a-white-background-suitable-for-legal-justice-court-or-law-related-content-and-educational-materials-photo.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -101,66 +152,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/HEARTS_OF_OAK.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Obuasi SHTS: Third-year students to return October 25, second-years November 16",
-      "link": "https://www.myjoyonline.com/obuasi-shts-third-year-students-to-return-october-25-second-years-november-16/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T21:01:14.000Z",
-      "summary": "The Ghana Education Service (GES) has announced separate reporting dates for continuing students of Obuasi Senior High Technical School (SHTS), following the school’s temporary closure in…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Obuasi SHTS",
-        "Reopen"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "My dream collaboration is with Sade – Gyakie",
-      "link": "https://www.myjoyonline.com/my-dream-collaboration-is-with-sade-gyakie/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T20:47:30.000Z",
-      "summary": "Ghanaian music artiste Jackline Acheampong, known professionally as Gyakie, has revealed the artiste she dreams of collaborating with. Speaking in an interview on Joy Prime’s Changes show…",
-      "categories": [
-        "Arts and Culture",
-        "HP Entertainment 2",
-        "Music",
-        "Collaboration",
-        "Gyakie",
-        "Sade"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gyakie-reveals-how-her-dad-has-b.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "13 first-offender inmates discharged from Wa Central Prison under Presidential Amnesty",
-      "link": "https://www.myjoyonline.com/13-first-offender-inmates-discharged-from-wa-central-prison-under-2026-presidential-amnesty/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T20:28:42.000Z",
-      "summary": "Thirteen first-offender inmates have been officially discharged from the Wa Central Prison after benefiting from the 2026 presidential amnesty granted by President John Dramani Mahama. The…",
-      "categories": [
-        "Regional",
-        "amnesty",
-        "Wa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-8.21.02-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Globe Health Clinic promotes early detection during Breast Cancer Awareness Month",
-      "link": "https://www.myjoyonline.com/globe-health-clinic-promotes-early-detection-during-breast-cancer-awareness-month/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T20:23:43.000Z",
-      "summary": "The Globe Health Assessment Clinic has organised a free medical screening exercise to improve access to healthcare and encourage the early detection of diseases among residents.",
-      "categories": [
-        "Health",
-        "Breast cancer",
-        "Medical screening"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2299-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "ITTF-Africa Veep Mawuko Afadzinu joins continental deliberations at ITTF-Africa AGM in Morocco",
