@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-24T06:28:36.946Z",
+  "updated": "2026-10-24T11:27:08.538Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,120 +25,260 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "MOMO FinTech Lab backs young innovators in northern Ghana",
-      "link": "https://www.myjoyonline.com/momo-fintech-lab-backs-young-innovators-in-northern-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T06:08:10.000Z",
-      "summary": "Young innovators in northern Ghana are getting an opportunity to turn ideas into technology-driven solutions to local challenges, as MOMO FinTech steps up efforts to nurture talent beyond…",
+      "title": "Finance Ministry denies withholding budget utilisation data from PIAC",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-finance-ministry-denies-withholding-budget-utilisation-data-from-piac.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T11:16:27.000Z",
+      "summary": "",
       "categories": [
-        "Business",
-        "MoMo Fintech Lab",
-        "MTN"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-00.24.36-1024x576.jpeg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Cassiel.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Newborn baby abandoned at Sombo",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-newborn-baby-abandoned-at-sombo.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T11:11:54.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Rafida.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Obuasi school scandal: NETRIGHT demands offenders’ register, annual GES reports on abuse cases",
+      "link": "https://www.myjoyonline.com/obuasi-school-scandal-netright-demands-offenders-register-annual-ges-reports-on-abuse-cases/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T11:07:36.000Z",
+      "summary": "The Convener of the Network for Women's Rights in Ghana (NETRIGHT), Professor Akosua Darkwah, has called on the Ghana Education Service (GES) to establish an offenders’ register and publish…",
+      "categories": [
+        "HP News 7",
+        "National",
+        "GES",
+        "NETRIGHT",
+        "Obuasi school scandal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-46-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Second Global Rosary Congress convenes in Wa to foster peace and religious tolerance",
-      "link": "https://www.myjoyonline.com/second-global-rosary-congress-convenes-in-wa-to-foster-peace-and-religious-tolerance/",
+      "title": "Obuasi SHTS sexual abuse: Zakaria Abdulai is a free man now, as I know – Manasseh",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-zakaria-abdulai-is-a-free-man-now-as-i-know-manasseh/",
       "source": "MyJoyOnline",
-      "published": "2026-10-24T05:29:19.000Z",
-      "summary": "Thousands of Catholics, alongside diverse religious groups and traditional leaders, have convened at the Wa Malik Jaabre Sports Stadium for the second edition of the Global Rosary Congress.",
+      "published": "2026-10-24T11:07:26.000Z",
+      "summary": "JoyNews investigative journalist Manasseh Azure Awuni says the suspended headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, is moving freely despite allegations of…",
       "categories": [
-        "News",
-        "Catholic",
-        "rosary"
+        "National",
+        "Manasseh Azure Awuni",
+        "Obuasi SHTS sexual abuse",
+        "Zakaria Abdulai"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-20.13.22-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-Headmaster.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "13 first-offender inmates discharged from Wa Central Prison under 2026 presidential amnesty",
-      "link": "https://www.myjoyonline.com/13-first-offender-inmates-discharged-from-wa-central-prison-under-2026-presidential-amnesty-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T04:55:15.000Z",
-      "summary": "Thirteen first-offender inmates have been officially discharged from the Wa Central Prison after benefiting from the 2026 presidential amnesty granted by President John Dramani Mahama. The…",
+      "title": "Kpandai DCE orders removal of structures on watercourses, appeals for bigger bridge",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-kpandai-dce-orders-removal-of-structures-on-watercourses-appeals-for-bigger-bridge.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T11:05:57.000Z",
+      "summary": "",
       "categories": [
-        "HP News 4",
-        "News",
-        "amnesty",
-        "Inmates",
-        "Prison"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-20.21.00r-1024x576.jpeg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Haruna.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Sexual abuse should trigger police investigations, not community intervention – Felicity Nelson",
+      "link": "https://www.myjoyonline.com/sexual-abuse-should-trigger-police-investigations-not-community-intervention-felicity-nelson/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T11:00:44.000Z",
+      "summary": "The Deputy Chief Executive Officer of the Ghana Tourism Development Company, Felicity Nelson, has called for an end to the practice of traditional and religious leaders intervening to seek…",
+      "categories": [
+        "National",
+        "Interventions",
+        "Police",
+        "Sexual abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-28-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nigerian woman jailed seven years for human trafficking in Tamale",
-      "link": "https://www.myjoyonline.com/nigerian-woman-jailed-seven-years-for-human-trafficking-in-tamale/",
+      "title": "Abeiku Santana raises concerns over access to GTA CEO Maame Efua Houadjeto",
+      "link": "https://www.myjoyonline.com/abeiku-santana-raises-concerns-over-access-to-gta-ceo-maame-efua-houadjeto/",
       "source": "MyJoyOnline",
-      "published": "2026-10-24T04:31:01.000Z",
-      "summary": "A 24-year-old Nigerian woman has been sentenced to seven years’ imprisonment with hard labour for human trafficking after a trial at the Gender-Based Violence Court in Tamale.",
-      "categories": [
-        "Crime",
-        "HP News 1",
-        "News",
-        "Jail"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-145944-592x375-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mr Drew’s X Space outburst would not happen under my watch – NanaYaw Wiredu",
-      "link": "https://www.myjoyonline.com/mr-drews-x-space-outburst-would-not-happen-under-my-watch-nanayaw-wiredu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T04:27:37.000Z",
-      "summary": "Media entrepreneur and talent manager NanaYaw Wiredu says the recent social media incident involving Ghanaian musician Mr Drew would not have happened under his watch. Speaking on Woezor…",
+      "published": "2026-10-24T11:00:22.000Z",
+      "summary": "Deputy Chief Executive Officer of the Ghana Tourism Authority (GTA) in charge of Marketing and Special Duties, Gilbert Abeiku Aggrey aka Santana, has asked the Tourism Minister to intervene…",
       "categories": [
         "HP Entertainment 1",
-        "Music",
-        "Mr Drew",
-        "NanaYaw Wiredu"
+        "Travel and Tourism",
+        "Abeiku Aggrey Santana",
+        "Ghana Tourism Authority",
+        "Maame Efua Houadjeto"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/07cc3279-acd1-4263-aa1d-179e481aa881.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9375-1024x552.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Six-year-old’s death at Fofie Yam Festival: Family demands justice",
-      "link": "https://www.myjoyonline.com/six-year-olds-death-at-fofie-yam-festival-family-demands-justice/",
+      "title": "Dusty, bumpy, risky: Residents call for work to resume on Bolga-Bawku road",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-dusty-bumpy-risky-residents-call-for-work-to-resume-on-bolga-bawku-road.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T10:59:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Plying.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ankrah gives Ghana winning start at African Boxing Championships",
+      "link": "https://www.graphic.com.gh/sports/boxing/ankrah-gives-ghana-winning-start-at-african-boxing-championships.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-24T10:44:59.000Z",
+      "summary": "Ankrah defeated Eswatini’s Chawe Innocent Gamedze by a unanimous 5-0 verdict in the men’s lightweight (60kg) round of 16, despite being forced to rely solely on his left hand after injuring…",
+      "categories": [
+        "Boxing"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/ankrah2.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Obuasi SHTS sexual abuse: FIDA Ghana calls offence first-degree felony, says it’s not bailable",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-fida-ghana-calls-offence-first-degree-felony-says-its-not-bailable/",
       "source": "MyJoyOnline",
-      "published": "2026-10-24T04:16:44.000Z",
-      "summary": "The Akwamu Royal Family of Nchiraa in the Bono Region has appealed to the President, John Dramani Mahama, and the Inspector-General of Police (IGP) to intervene in a fatal shooting incident…",
+      "published": "2026-10-24T10:26:44.000Z",
+      "summary": "The President of the International Federation of Women Lawyers (FIDA) Ghana, Gloria Ofori-Boadu, has described the alleged sexual abuse involving the headmaster of Obuasi Senior High…",
+      "categories": [
+        "Education",
+        "HP News 8",
+        "National",
+        "FIDA Ghana",
+        "Gloria Ofori-Boadu",
+        "Obuasi SHTS abuse case"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "World champion Jepchirchir fails drugs test",
+      "link": "https://www.graphic.com.gh/sports/sports-news/world-champion-jepchirchir-fails-drugs-test.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-24T10:25:00.000Z",
+      "summary": "Kenyan Jepchirchir provided the sample prior to winning the Sydney Marathon on 30 August 2026. The 33-year-old clocked a time of two hours, 18 minutes and 31 seconds to win in Sydney. EPO…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Peres.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Stonebwoy donates GH¢100,000 to Black Challenge ahead of World Cup",
+      "link": "https://www.graphic.com.gh/sports/sports-news/stonebwoy-donates-ghc100-000-to-black-challenge-ahead-of-world-cup.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-24T10:24:14.000Z",
+      "summary": "Stonebwoy handed over cash to the team on Friday, October 23, during a visit to the team’s training session at the Mensah Sarbah Park on the University of Ghana campus in Accra. He…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/challenge.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Obuasi SHTS scandal: Prioritise victims’ welfare, not just investigations – Felicity Nelson",
+      "link": "https://www.myjoyonline.com/obuasi-shts-scandal-prioritise-victims-welfare-not-just-investigations-felicity-nelson/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T10:16:37.000Z",
+      "summary": "The Deputy Chief Executive Officer of the Ghana Tourism Development Company, Felicity Nelson, has called for the psychological, emotional and physical well-being of alleged victims to be…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "Felicity Nelson",
+        "Obuasi SHTS scandal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-26-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC goofed with initial Obuasi school sexual abuse statement; I’m glad we corrected it – Felicity Nelson",
+      "link": "https://www.myjoyonline.com/ndc-goofed-with-initial-obuasi-school-sexual-abuse-statement-im-glad-we-corrected-it-felicity-nelson/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T10:16:18.000Z",
+      "summary": "The Deputy Chief Executive Officer of the Ghana Tourism Development Company, Felicity Nelson, has admitted that the National Democratic Congress (NDC) erred in its initial statement on the…",
       "categories": [
         "HP News 2",
         "National",
-        "News",
-        "Death",
-        "Family"
+        "Felicity Nelson",
+        "NDC",
+        "Obuasi SHTS"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-17.57.08-1024x473.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-41-e1792836469590-1024x515.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bolt Food’s Kumasi business has more than doubled as growth continues into its second year",
-      "link": "https://www.myjoyonline.com/bolt-foods-kumasi-business-has-more-than-doubled-as-growth-continues-into-its-second-year/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T03:41:20.000Z",
-      "summary": "Nearly two years after expanding to Kumasi, Bolt Food saw strong growth in the city, with activity increasing by more than 100% year-on-year in its second year of operations.",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.graphic.com.gh/news/health/uk-to-invest-gbp100m-in-world-first-ai-biosecurity-lab.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T10:06:32.000Z",
+      "summary": "",
       "categories": [
-        "Food",
-        "Bolt Food"
+        "Health"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-03.54.51-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/lab.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Bunkpurugu chieftaincy dispute: Chief Justice orders transfer of case to Tamale over security fears",
-      "link": "https://www.myjoyonline.com/bunkpurugu-chieftaincy-dispute-chief-justice-orders-transfer-of-case-to-tamale-over-security-fears-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T03:05:00.000Z",
-      "summary": "The Chief Justice has granted a request by defendants in the Bunkpurugu chieftaincy dispute to transfer their case from the High Court in Nalerigu to Tamale over security concerns. One of…",
+      "title": "NCCE uses football to promote gender equality, adolescent health",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ncce-uses-football-to-promote-gender-equality-adolescent-health.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T10:06:01.000Z",
+      "summary": "",
       "categories": [
-        "HP News 5",
-        "News",
-        "court"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/a-wooden-judge-gavel-rests-on-a-matching-sound-block-isolated-on-a-white-background-suitable-for-legal-justice-court-or-law-related-content-and-educational-materials-photo.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Rita.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Zonta calls for action against sexual abuse in schools",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-zonta-calls-for-action-against-sexual-abuse-in-schools.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T10:03:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Gambia’s Chief Justice calls on Asantehene",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gambias-chief-justice-calls-on-asantehene.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-24T09:57:00.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Tutu.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "About 15,000 aspirants set for executive NDC positions across all constituencies",
+      "link": "https://www.myjoyonline.com/15000-aspirants-set-for-executive-ndc-positions-across-all-constituencies/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T09:38:26.000Z",
+      "summary": "The National Democratic Congress (NDC) is proceeding with its constituency executive elections nationwide despite a court injunction restraining the party from conducting the polls in…",
+      "categories": [
+        "HP News 6",
+        "Politics",
+        "Elections",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/NDC-flag-613x424-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -176,18 +316,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/FIFA3.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "President Mahama arrives in Ethiopia, joins PM Abiy to commission Megech Irrigation Project",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-arrives-in-ethiopia-joins-pm-abiy-to-commission-megech-irrigation-project.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T19:31:04.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Vincent Kompany hospitalised after collapsing at training",
@@ -316,126 +444,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Small-Scale Miners Association defend GoldBod CEO, say viral video misrepresents remarks on mining",
-      "link": "https://www.graphic.com.gh/news/general-news/small-scale-miners-association-defend-goldbod-ceo-says-viral-video-misrepresents-remarks-on-mining.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T14:46:41.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Two arrested over murder of 11-year-old girl at Gomoa Buduburam",
-      "link": "https://www.graphic.com.gh/news/general-news/two-arrested-over-murder-of-11-year-old-girl-at-gomoa-buduburam.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T14:44:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Kingsley.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GMTF extends healthcare sensitisation campaign to Northern and Upper East regions",
-      "link": "https://www.graphic.com.gh/news/general-news/gmtf-extends-healthcare-sensitisation-campaign-to-northern-and-upper-east-regions.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T14:32:45.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GCB Bank to hold maiden Aerobics Fiesta on October 31",
-      "link": "https://www.graphic.com.gh/sports/sports-news/gcb-bank-to-hold-maiden-aerobics-fiesta-on-october-31.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-23T14:16:40.000Z",
-      "summary": "The free event, open to the bank's customers and the general public, will kick off at 6am and offer a mix of fitness, wellness, entertainment and networking in a family-friendly atmosphere…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/IMG_5597.JPG.jpeg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Church of Jesus Christ of Latter-day Saints to open global education centre in Accra",
-      "link": "https://www.graphic.com.gh/news/general-news/church-of-jesus-christ-of-latter-day-saints-to-open-global-education-centre-in-accra.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T14:09:15.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "MTN Ghana, KNUST sign MoU to drive AI innovation and local research",
-      "link": "https://www.graphic.com.gh/news/general-news/mtn-ghana-knust-sign-mou-to-drive-ai-innovation-and-local-research.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T13:39:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Court declines custodial sentence after convicting former Northern Development Authority boss and 3 others over procurement breaches",
-      "link": "https://www.graphic.com.gh/news/general-news/former-northern-development-authority-and-3-others-convicted-by-high-court-in-tamale.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T13:30:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2023/jan/31/sumaila_NDC.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GoldBod CEO clarifies formalisation of unlicensed miners, says video was misrepresented",
-      "link": "https://www.graphic.com.gh/news/general-news/goldbod-ceo-clarifies-formalisation-of-unlicensed-miners-says-video-was-misrepresented.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-23T12:24:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/857964860_1115239971287484_3057079604994685034_n.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Infantino re-election hopes boosted by Asia support",
-      "link": "https://www.graphic.com.gh/sports/sports-news/infantino-re-election-hopes-boosted-by-asia-support.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-23T09:56:59.000Z",
-      "summary": "President Sheikh Salman bin Ibrahim Al Khalifa Salman told the confederation's Congress in Tokyo - which was attended by Infantino - that \"we reaffirm our full commitment, of course, to…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/Gianni.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "VRA to defend UG Corporate Tennis Championship title",
-      "link": "https://www.graphic.com.gh/sports/sports-news/vra-to-defend-ug-corporate-tennis-championship-title.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-22T20:32:30.000Z",
-      "summary": "GOIL Ghana, Stanbic Bank Ghana and the Ghana Civil Aviation Authority are set to challenge for the trophy. The championship starts at 8 a.m. at the University of Ghana Tennis Court, with…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/corpy26.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
