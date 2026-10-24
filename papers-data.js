@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-23T23:17:34.479Z",
+  "updated": "2026-10-24T01:40:45.843Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,17 +25,51 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Obuasi SHTS sex scandal: Second complainant alleges pressure to withdraw",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sex-scandal-second-complainant-alleges-pressure-to-withdraw/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T22:33:25.000Z",
+      "summary": "Pressure is mounting on a second complainant in the alleged sexual abuse case involving the headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, to withdraw her…",
+      "categories": [
+        "HP News 1",
+        "News",
+        "Ghana",
+        "Sexual abuse",
+        "SHS"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ashie-Moore disputes report on alleged theft of businessman’s belongings",
       "link": "https://www.myjoyonline.com/ashie-moore-disputes-report-on-alleged-theft-of-businessmans-belongings/",
       "source": "MyJoyOnline",
       "published": "2026-10-23T22:15:00.000Z",
       "summary": "The Greater Accra Regional Chairman of the National Democratic Congress (NDC), Emmanuel Nii Ashie-Moore, has rejected reports that the Attorney-General’s Department has recommended his…",
       "categories": [
+        "HP News 2",
         "News",
         "Ashie-Moore",
         "NDC"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-33-2401347629-1140x570-1-1024x512.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Graduates must be willing to start small to build careers – Ridge Royal MD",
+      "link": "https://www.myjoyonline.com/graduates-must-be-willing-to-start-small-to-build-careers-ridge-royal-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-23T21:58:00.000Z",
+      "summary": "The Managing Director of Ridge Royal Hotel in Cape Coast, Sheila Adjetey-Anum, has urged graduates to be willing to start from entry-level positions and build their careers through hard…",
+      "categories": [
+        "National",
+        "News",
+        "Education",
+        "Employment",
+        "Jobs",
+        "Youth"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-3.31.14-PM-1024x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -141,20 +175,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Agalga urges NDC members to maintain peace ahead of constituency elections",
-      "link": "https://www.myjoyonline.com/agalga-urges-ndc-members-to-maintain-peace-ahead-of-constituency-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T19:45:59.000Z",
-      "summary": "The Majority Leader in Parliament and Member of Parliament for Builsa North, James Agalga, has appealed to members of the National Democratic Congress (NDC) to maintain peace and unity as…",
-      "categories": [
-        "National",
-        "James Agalga",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2922-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "FIFA appoints normalisation committee to oversee Nigerian football until 2027",
       "link": "https://www.graphic.com.gh/sports/sports-news/fifa-appoints-normalisation-committee-to-oversee-nigerian-football-until-2027.html",
       "source": "Graphic Sports",
@@ -177,27 +197,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GPL 26/27: Hearts pip Holy Stars to go top of the table after 3rd consecutive win",
-      "link": "https://www.myjoyonline.com/gpl-26-27-hearts-pip-holy-stars-to-go-top-of-the-table-after-3rd-consecutive-win/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-23T19:28:56.000Z",
-      "summary": "Accra Hearts of Oak secured a 1-0 victory over Holy Stars at the University of Ghana Stadium on Friday. Martin Karikari scored the decisive goal to ensure a third consecutive league win for…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Accra Hearts of Oak",
-        "Ghana",
-        "Ghana Premier League",
-        "Hearts of Oak",
-        "Holy Stars",
-        "Victor Atsu Tamakloe"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HVVdE3oWIAAOw-U-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Vincent Kompany hospitalised after collapsing at training",
