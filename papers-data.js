@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-24T19:46:42.234Z",
+  "updated": "2026-10-24T21:58:36.046Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,68 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Trade Minister urges laboratories, factories to work as partners",
+      "link": "https://www.myjoyonline.com/trade-minister-urges-laboratories-factories-to-work-as-partners/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T21:39:03.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger collaboration between research laboratories and factories to enable Ghana to produce more…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Elizabeth Ofosu-Adjare",
+        "Factories",
+        "Laboratories",
+        "Trade Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_6363.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gender Minister calls for stronger Canada–Africa ties to boost women’s economic opportunities",
+      "link": "https://www.myjoyonline.com/gender-minister-calls-for-stronger-canada-africa-ties-to-boost-womens-economic-opportunities/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T21:11:56.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger cooperation between Canada and African countries to improve women’s access to…",
+      "categories": [
+        "Africa",
+        "National",
+        "Canada-Africa ties",
+        "Dr Agnes Naa Momo Lartey",
+        "Gender Ministry"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_6353-683x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama links Africa’s conflicts to struggle over natural resources",
+      "link": "https://www.myjoyonline.com/mahama-links-africas-conflicts-to-struggle-over-natural-resources/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T20:01:27.000Z",
+      "summary": "President John Mahama says the struggle for control of Africa’s natural resources and the profits from their extraction are central to the continent’s security crises, warning that powerful…",
+      "categories": [
+        "Africa",
+        "National",
+        "President John Maham"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-2-1024x682.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CAGG demands retraction, apology from GoldBod CEO over alleged illegal mining remarks",
+      "link": "https://www.myjoyonline.com/cagg-demands-retraction-apology-from-goldbod-ceo-over-alleged-illegal-mining-remarks/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T19:54:49.000Z",
+      "summary": "The Ghana Coalition Against Galamsey (CAGG) has called on the Office of the Attorney-General to investigate the Chief Executive Officer of the Ghana Gold Board (GoldBod) over statements it…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Galamsey",
+        "Mining"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-883-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GH¢10,000 injection: Assafuah boosts Black Challenge’s World Cup campaign",
       "link": "https://www.myjoyonline.com/gh%c2%a210000-injection-assafuah-boosts-black-challenges-world-cup-campaign/",
@@ -97,68 +159,6 @@ window.GDC_PAPERS = {
         "U-15"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-9.46.30-AM-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢49.72m S.A. evacuation: Asafo-Adjei says government’s figures do not add up",
-      "link": "https://www.myjoyonline.com/gh%c2%a249-72m-s-a-evacuation-asafo-adjei-says-governments-figures-do-not-add-up/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T18:13:54.000Z",
-      "summary": "The Deputy Ranking Member on Parliament’s Foreign Affairs Committee, Nana Asafo-Adjei Ayeh, has raised concerns over the GH¢49.72 million reportedly spent on evacuating 1,964 Ghanaians from…",
-      "categories": [
-        "National",
-        "GH¢49.72m S.A. evacuation",
-        "Nana Asafo-Adjei Ayeh"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-67.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026 U17 WWC: Black Maidens book knockout spot with win over Canada",
-      "link": "https://www.myjoyonline.com/2026-u17-wwc-black-maidens-book-knockout-spot-with-win-over-canada/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T17:34:32.000Z",
-      "summary": "The Black Maidens defeated Canada 2-0 in their final group game of the tournament to finish second in Group C after a troubling start to the tournament.",
-      "categories": [
-        "Football",
-        "HP News 6",
-        "HP Sports 1",
-        "National",
-        "2026 U-17 Women's World Cup",
-        "Black Maidens",
-        "Canada"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-5.08.25-PM-819x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC constituency election records impressive turnout at Bortianor-Ngleshie Amanfro.",
-      "link": "https://www.myjoyonline.com/ndc-constituency-election-records-impressive-turnout-at-bortianor-ngleshie-amanfro/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T17:22:29.000Z",
-      "summary": "The National Democratic Congress (NDC) constituency executive elections have recorded an impressive turnout at the Bortianor-Ngleshie Amanfro constituency in the Greater Accra Region.",
-      "categories": [
-        "Photo Story",
-        "Bortianor-Ngleshie Amanfro",
-        "Electoral Commiission",
-        "National Democratic Congress"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3273_2.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢49.72m S.A. evacuation cost: Flight charter price comparisons alone can’t prove overpricing – IMANI Associate",
-      "link": "https://www.myjoyonline.com/gh%c2%a249-72m-s-a-evacuation-cost-charter-price-comparisons-alone-cannot-prove-overpricing-imani-associate/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T17:17:14.000Z",
-      "summary": "An Associate of IMANI Centre for Policy and Education (CPE), Kay Cudjoe, has cautioned against drawing conclusions of overpricing based solely on comparisons between the reported cost of…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "evacuation cost",
-        "Kay Cudjoe"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/SA-Evacuation-1.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
