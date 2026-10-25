@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-25T13:46:38.086Z",
-  "worldAt": "2026-10-25T13:46:38.084Z",
+  "updated": "2026-10-25T17:15:30.433Z",
+  "worldAt": "2026-10-25T17:15:30.431Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,26 +26,54 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 32 stories",
-    "World · Deutsche Welle: 12 stories",
+    "World · BBC News: 31 stories",
+    "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
-    "Africa · Africanews: 29 stories",
+    "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 32 stories",
-    "Africa · Deutsche Welle: 7 stories",
+    "Africa · Deutsche Welle: 6 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 20 African stories held"
+    "world lists: 40 world, 23 African stories held"
   ],
   "items": [
+    {
+      "title": "IMF delegation assesses TOR’s rehabilitation and financial recovery efforts",
+      "link": "https://www.myjoyonline.com/imf-delegation-assesses-tors-rehabilitation-and-financial-recovery-efforts/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T17:03:30.000Z",
+      "summary": "A delegation from the International Monetary Fund (IMF) has visited the Tema Oil Refinery (TOR) to familiarise itself with the refinery’s operations, assess ongoing rehabilitation works and…"
+    },
+    {
+      "title": "TOR eyes stock market listing as it tackles $517m debt",
+      "link": "https://www.myjoyonline.com/tor-eyes-stock-market-listing-as-it-tackles-517m-debt/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T16:38:42.000Z",
+      "summary": "The Tema Oil Refinery (TOR) is considering a listing on the Ghana Stock Exchange as management seeks fresh investment while pursuing the restructuring of an inherited debt burden of…"
+    },
+    {
+      "title": "Can Ghana Use the Russia-Africa Summit to Market Its Products to Eastern Europe?",
+      "link": "https://thehighstreetjournal.com/can-ghana-use-the-russia-africa-summit-to-market-its-products-to-eastern-europe/",
+      "source": "The High Street Journal",
+      "published": "2026-10-25T15:55:09.000Z",
+      "summary": "Ghana can use the Russia-Africa Summit to market its packaged, value-added products to Eastern Europe under its Export Acceleration Agenda."
+    },
+    {
+      "title": "Microfinance Reforms Put Governance and Customer Protection in Focus",
+      "link": "https://thehighstreetjournal.com/microfinance-reforms-put-governance-and-customer-protection-in-focus/",
+      "source": "The High Street Journal",
+      "published": "2026-10-25T14:00:02.000Z",
+      "summary": "Ghana’s microfinance sector needs stronger governance, risk management and customer protection, while delegated supervision could expand regulatory coverage if institutions maintain clear…"
+    },
     {
       "title": "Ghana’s Port Costs, Cargo Delays Key to West African Trade Ambitions",
       "link": "https://thehighstreetjournal.com/ghanas-port-costs-cargo-delays-key-to-west-african-trade-ambitions/",
@@ -1067,37 +1095,292 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-21T15:35:00.000Z",
       "summary": "Accra Mall is giving shoppers more reasons to visit this month with its Level Up campaign, running from now to October 31."
-    },
-    {
-      "title": "Rent Control Reforms Target Rental Market Compliance, Landlord-Tenant Disputes",
-      "link": "https://thehighstreetjournal.com/rent-control-reforms-target-rental-market-compliance-landlord-tenant-disputes/",
-      "source": "The High Street Journal",
-      "published": "2026-10-21T14:30:00.000Z",
-      "summary": "Ghana’s Rent Control Commission plans digital services, mobile offices and enforcement task forces in 2027 to strengthen rental-market compliance, improve dispute resolution and expand…"
-    },
-    {
-      "title": "Government Urged to Track Mining, Manufacturing Costs as Producer Inflation Hits 4.8%",
-      "link": "https://thehighstreetjournal.com/government-urged-to-track-mining-manufacturing-costs-as-producer-inflation-hits-4-8/",
-      "source": "The High Street Journal",
-      "published": "2026-10-21T14:15:00.000Z",
-      "summary": "Government Statistician Alhassan Iddrisu has urged policymakers to track mining, manufacturing and energy prices as producer inflation rises to 4.8%, with implications for industrial costs…"
-    },
-    {
-      "title": "GH¢24.8bn paid to statutory funds on time and in full — Ato Forson",
-      "link": "https://www.myjoyonline.com/gh%c2%a224-8bn-paid-to-statutory-funds-on-time-and-in-full-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T13:56:44.000Z",
-      "summary": "According to him, the payments reflect a departure from the delays, capping and arrears that previously affected the release of statutory funds."
-    },
-    {
-      "title": "Macroprudential assessment shows systemic vulnerabilities within banking industry remain subdued – BoG",
-      "link": "https://www.myjoyonline.com/macroprudential-assessment-shows-systemic-vulnerabilities-within-banking-industry-remain-subdued-bog/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T13:46:32.000Z",
-      "summary": "According to the Bank of Ghana, the macro-financial risks remained contained on account of favourable macroeconomic conditions, declining sovereign risk perceptions, and strengthening…"
     }
   ],
   "world": [
+    {
+      "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
+      "link": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+      "source": "France 24",
+      "published": "2026-10-25T17:12:50.000Z",
+      "summary": "Marine Le Pen, leader of France’s far-right National Rally, addressed some 10,000 supporters on Sunday in the city of Orleans as she kicked off her presidential campaign, a day after…",
+      "image": "https://s.france24.com/media/display/47c1def6-d094-11f1-bf55-4d317af013fd/w:1024/p:16x9/EN-20261025-171255-172709-CS.jpg"
+    },
+    {
+      "title": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
+      "link": "http://www.africanews.com/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival/",
+      "source": "Africanews",
+      "published": "2026-10-25T16:52:30.000Z",
+      "summary": "Over 1,400 sheep and goats took over Madrid's streets on Sunday, delighting spectators at the 33rd annual Transhumance Festival, which followed a different route this year to avoid a…"
+    },
+    {
+      "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+      "link": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+      "source": "France 24",
+      "published": "2026-10-25T17:10:11.000Z",
+      "summary": "Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025…",
+      "image": "https://s.france24.com/media/display/a71cd552-d096-11f1-a147-4d317af013fd/w:1024/p:16x9/000-D4DM8NQ-1.jpg"
+    },
+    {
+      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazil beef imports",
+      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T16:42:33.000Z",
+      "summary": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty."
+    },
+    {
+      "title": "French far-right leader Le Pen kicks off presidential campaign",
+      "link": "https://www.france24.com/en/french-far-right-leader-le-pen-kicks-off-presidential-campaign",
+      "source": "France 24",
+      "published": "2026-10-25T16:38:56.000Z",
+      "summary": "We’ve just been listening to Marine Le Pen, leader of the far-right National Rally and its presidential candidate, delivering her first official campaign speech in Orléans. She spoke of…",
+      "image": "https://s.france24.com/media/display/c855b27a-d091-11f1-be1a-4d317af013fd/w:1024/p:16x9/EN-20261025-170928-171254-CS.jpg"
+    },
+    {
+      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T16:30:51.000Z",
+      "summary": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right."
+    },
+    {
+      "title": "France: 1.314 arrested during protests across the country",
+      "link": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
+      "source": "France 24",
+      "published": "2026-10-25T16:32:57.000Z",
+      "summary": "France saw another day of nationwide protests on Saturday, with more than 400,000 people taking to the streets over the rising cost of living and school funding. Most marches remained…",
+      "image": "https://s.france24.com/media/display/7638bc76-d091-11f1-b532-bdb9616e85cf/w:1024/p:16x9/EN-20261025-160438-160623-CS.jpg"
+    },
+    {
+      "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T16:30:00.000Z",
+      "summary": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game."
+    },
+    {
+      "title": "Midterms: Obama campaigns for Democrats, slams Trump",
+      "link": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
+      "source": "France 24",
+      "published": "2026-10-25T16:25:12.000Z",
+      "summary": "At a rally in Ohio this Saturday, former US president Barack Obama said that Americans were facing higher costs because of decisions made by the administration, including what he described…",
+      "image": "https://s.france24.com/media/display/f03eb826-d088-11f1-ae10-4b25c96ec90e/w:1024/p:16x9/OBAMA-EN.jpg"
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T16:21:40.000Z",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "source": "NPR World",
+      "published": "2026-10-25T16:18:41.000Z",
+      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8127x5418+0+0/resize/8127x5418!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fe3%2F62c605ef41b1a3e06cbf2c0635ef%2Fap26295737413336.jpg"
+    },
+    {
+      "title": "Jordanians mourn victims of deadly church attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T16:16:48.000Z",
+      "summary": "Jordanians mourn victims of deadly church attack"
+    },
+    {
+      "title": "Protein shakes for teenagers: Good or bad idea?",
+      "link": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-25T16:12:00.000Z",
+      "summary": "Protein products are marketed as a way of building muscle and losing weight — and they're very popular with young people. They also claim to promote healthy growth in children. Is this…"
+    },
+    {
+      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T16:11:37.000Z",
+      "summary": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader."
+    },
+    {
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T16:05:15.000Z",
+      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"
+    },
+    {
+      "title": "Israelis have changed. Will they change their leadership?",
+      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "source": "NPR World",
+      "published": "2026-10-25T16:00:00.000Z",
+      "summary": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x3338+0+0/resize/5007x3338!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg"
+    },
+    {
+      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T15:40:25.000Z",
+      "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City."
+    },
+    {
+      "title": "Gabon restores social media access after an eight-month ban",
+      "link": "http://www.africanews.com/2026/10/25/gabon-restores-social-media-access-after-an-eight-month-ban/",
+      "source": "Africanews",
+      "published": "2026-10-25T15:37:00.000Z",
+      "summary": "The media regulator pulled the plug on social networks in February blaming content posted online for stoking conflict and division in society."
+    },
+    {
+      "title": "UN official warns AI could ‘deepen’ global inequality",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T15:38:52.000Z",
+      "summary": "UN official warns AI could ‘deepen’ global inequality"
+    },
+    {
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T15:32:51.000Z",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"
+    },
+    {
+      "title": "Thousands mourn victims of deadly Jordan church attack",
+      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T15:21:26.000Z",
+      "summary": "Jordan's prime minister represents king at funeral for eight of the church attack victims as hunt for gunmen continues."
+    },
+    {
+      "title": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
+      "link": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+      "source": "France 24",
+      "published": "2026-10-25T15:01:51.000Z",
+      "summary": "Marine Le Pen, leader of France’s far-right National Rally, addressed some 10,000 supporters on Sunday in the city of Orleans as she kicked off her presidential campaign, a day after…",
+      "image": "https://s.france24.com/media/display/4821683a-d094-11f1-ab22-4d317af013fd/w:1024/p:16x9/AP26298602550298.jpg"
+    },
+    {
+      "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
+      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T14:54:53.000Z",
+      "summary": "A young woman is abducted, shot twice, and blown up in the jungle. Who wanted Altantuya dead – and who covered it up?"
+    },
+    {
+      "title": "France: 110.000 protesters in Paris",
+      "link": "https://www.france24.com/en/france-110-000-protesters-in-paris",
+      "source": "France 24",
+      "published": "2026-10-25T15:00:01.000Z",
+      "summary": "Hundreds of demonstrations took place across France on Saturday over the rising cost of living, with security forces deployed in large numbers to prevent a repeat of the violence seen last…",
+      "image": "https://s.france24.com/media/display/b799d560-d07d-11f1-abd8-bdb9616e85cf/w:1024/p:16x9/EN-20261024-180607-181821-CS.jpg"
+    },
+    {
+      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T14:47:55.000Z",
+      "summary": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran."
+    },
+    {
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T14:39:47.000Z",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+      "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T14:46:38.000Z",
+      "summary": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers."
+    },
+    {
+      "title": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
+      "link": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/",
+      "source": "Africanews",
+      "published": "2026-10-25T14:35:41.000Z",
+      "summary": "The announcement comes after a two-week suspension of operations following strikes from Yemen's Houthis on the Saudi capital."
+    },
+    {
+      "title": "Calais, 10 years after the Jungle: Migrants still risk the Channel crossing",
+      "link": "https://www.france24.com/en/video/20261025-calais-10-years-after-the-jungle-migrants-still-risk-the-channel-crossing",
+      "source": "France 24",
+      "published": "2026-10-25T14:17:32.000Z",
+      "summary": "Ten years ago, in 2016, thousands of #migrants lived in what was known as the “Great #Jungle”, a vast camp on the outskirts of #Calais. It took the authorities seven days to dismantle it…",
+      "image": "https://s.france24.com/media/display/9ae9a830-d084-11f1-9697-4b25c96ec90e/w:1024/p:16x9/Screenshot-2026-10-25-alle-15-58-03.png"
+    },
+    {
+      "title": "Gaza content creator tells Al Jazeera how much her award win means",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T14:16:06.000Z",
+      "summary": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means"
+    },
+    {
+      "title": "Iranian president blames United States for failure of interim peace deal",
+      "link": "http://www.africanews.com/2026/10/25/iranian-president-blames-united-states-for-failure-of-interim-peace-deal/",
+      "source": "Africanews",
+      "published": "2026-10-25T13:55:33.000Z",
+      "summary": "Masoud Pezeshkian emphasised, however, that a new attempt should be made to reach an agreement to end the war with the US and Israel."
+    },
+    {
+      "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T14:11:29.000Z",
+      "summary": "Bangladesh expected to surpass India's per capita GDP this year, but that's not the complete economic picture."
+    },
+    {
+      "title": "Presidential runoff under way in Brazil",
+      "link": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
+      "source": "France 24",
+      "published": "2026-10-25T13:52:44.000Z",
+      "summary": "Brazil is also heading to the polls today for a run-off vote that will decide who leads the country. The race is on a knife edge between incumbent left-wing President Luiz Inácio Lula da…",
+      "image": "https://s.france24.com/media/display/8da640e8-d07a-11f1-9394-5b4a75578ebb/w:1024/p:16x9/EN-20261025-140536-140901-CS.jpg"
+    },
+    {
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+      "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T14:03:17.000Z",
+      "summary": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining."
+    },
+    {
+      "title": "Le Pen leads polls with up to 38% six months before election",
+      "link": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
+      "source": "France 24",
+      "published": "2026-10-25T13:51:14.000Z",
+      "summary": "The day after the first day of the National Rally congress in Orléans, in central France, passed without any major incidents, Marine Le Pen is due to deliver her first major campaign speech…",
+      "image": "https://s.france24.com/media/display/d60c29ce-d07a-11f1-9881-4d317af013fd/w:1024/p:16x9/AP26297524255923.jpg"
+    },
+    {
+      "title": "Saudi air defences intercept Houthi barrage near Mecca",
+      "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T13:49:33.000Z",
+      "summary": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz."
+    },
+    {
+      "title": "France: Le Pen launches presidential campaign in Orleans",
+      "link": "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans",
+      "source": "France 24",
+      "published": "2026-10-25T13:46:08.000Z",
+      "summary": "Far-right leader Marine Le Pen is launching her presidential campaign today. The National Rally candidate is due to deliver her first campaign speech in Orléans, addressing around 10,000…",
+      "image": "https://s.france24.com/media/display/53eb1ff0-d079-11f1-9876-4b25c96ec90e/w:1024/p:16x9/EN-20261025-130201-130355-CS.jpg"
+    },
+    {
+      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+      "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T13:46:51.000Z",
+      "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education."
+    },
     {
       "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
       "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf",
@@ -1106,297 +1389,36 @@ window.GDC_NEWS = {
       "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection."
     },
     {
-      "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
-      "link": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
-      "source": "France 24",
-      "published": "2026-10-25T12:48:31.000Z",
-      "summary": "From student protests across France over the weekend and presidential elections in Brazil pitting leftist incumbent Luiz Inacio Lula da Silva against right-wing challenger Flavio Bolsonaro…",
-      "image": "https://s.france24.com/media/display/cd897c30-d056-11f1-8d7f-5b4a75578ebb/w:1024/p:16x9/2026-10-24T194218Z-1784067987-RC2R9OAGSDD5-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss",
+      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T12:40:20.000Z",
-      "summary": "The victory helped the Kazakh take a big step towards securing the year-end number one ranking."
-    },
-    {
-      "title": "Voting under way across Brazil in tight presidential run-off between Lula and Bolsonaro",
-      "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-      "source": "France 24",
-      "published": "2026-10-25T12:46:02.000Z",
-      "summary": "Brazil’s 158 million voters decide between leftist President Luiz Inácio Lula da Silva and right-wing challenger Senator Flavio Bolsonaro – the son of former president and Trump ally Jair…",
-      "image": "https://s.france24.com/media/display/4c3d5810-d06d-11f1-987e-bba4eee3dc72/w:1024/p:16x9/Brazil-vote.jpg"
-    },
-    {
-      "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-      "link": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T12:38:54.000Z",
-      "summary": "Burnham says Britain should have an 'honest discussion' about how immigration to the UK has changed since Brexit."
-    },
-    {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-25T11:54:16.000Z",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg"
-    },
-    {
-      "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T12:37:49.000Z",
-      "summary": "Joel Embiid posts triple-double as 76ers handle Bucks. Devin Booker posts 43 to help Suns down Warriors."
-    },
-    {
-      "title": "Polls open in Brazil presidential runoff",
-      "link": "https://www.france24.com/en/polls-open-in-brazil-presidential-runoff",
-      "source": "France 24",
-      "published": "2026-10-25T11:40:38.000Z",
-      "summary": "Brazilian President Luiz Inácio Lula da Silva and sight-wing senator Flavio Bolsonaro faced off Friday in their second and final debate ahead of Sunday's presidential runoff election. The…",
-      "image": "https://s.france24.com/media/display/f689cca0-d067-11f1-911d-4b25c96ec90e/w:1024/p:16x9/EN-20261025-120157-120549-CS.jpg"
-    },
-    {
-      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
-      "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T12:19:41.000Z",
-      "summary": "Vote to send forces comes after a recent defence pact between the two neighbouring countries."
-    },
-    {
-      "title": "Far-right leader Le Pen says visible policing keeps protests smooth",
-      "link": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
-      "source": "France 24",
-      "published": "2026-10-25T11:39:18.000Z",
-      "summary": "Meanwhile, France’s far-right National Rally is holding the second day of its party congress in Orléans, south of Paris. Marine Le Pen is expected to officially launch her presidential…",
-      "image": "https://s.france24.com/media/display/5160b9a4-d068-11f1-b673-5b4a75578ebb/w:1024/p:16x9/EN-20261025-121058-121405-CS.jpg"
-    },
-    {
-      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T12:17:39.000Z",
-      "summary": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy."
-    },
-    {
-      "title": "Israel: Demonstrators rally against government ahead of election",
-      "link": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-      "source": "France 24",
-      "published": "2026-10-25T11:38:01.000Z",
-      "summary": "In Israel, the anti-Netanyahu movement is mobilising. Thousands gathered in Tel Aviv on Friday to protest against the Israeli government, just three days ahead of a general election widely…",
-      "image": "https://s.france24.com/media/display/4abc8a7a-d067-11f1-a9cf-4b25c96ec90e/w:1024/p:16x9/EN-20261025-110931-111122-CS.jpg"
-    },
-    {
-      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T12:05:16.000Z",
-      "summary": "An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain."
-    },
-    {
-      "title": "Obama hits campaign trail for democrats",
-      "link": "https://www.france24.com/en/obama-hits-campaign-trail-for-democrats",
-      "source": "France 24",
-      "published": "2026-10-25T11:36:56.000Z",
-      "summary": "With less than two weeks to go before the US midterm elections, former President Barack Obama has hit the campaign trail, rallying support for Democratic candidates in the key states of…",
-      "image": "https://s.france24.com/media/display/a6c5f842-d067-11f1-838f-4d317af013fd/w:1024/p:16x9/EN-20261025-111149-111339-CS.jpg"
-    },
-    {
-      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "link": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T11:39:41.000Z",
-      "summary": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve."
-    },
-    {
-      "title": "West Bank: Families forcibly displaced in Hebron",
-      "link": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
-      "source": "France 24",
-      "published": "2026-10-25T11:35:30.000Z",
-      "summary": "More Palestinian families have been displaced in the occupied West Bank as Israeli forces continue operations in Hebron, following a deadly shooting that killed two Israeli soldiers on…",
-      "image": "https://s.france24.com/media/display/11d151aa-d067-11f1-9d2a-4b25c96ec90e/w:1024/p:16x9/EN-20261025-110725-110909-CS.jpg"
-    },
-    {
-      "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-      "source": "NPR World",
-      "published": "2026-10-25T11:24:58.000Z",
-      "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5374x3583+0+0/resize/5374x3583!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2Fe2%2F9fe8cd294f2f8e01cfd1568a33db%2Fmagic-school-2-2.jpg"
-    },
-    {
-      "title": "At least 1,300 people arrested in mass weekend protests across France",
-      "link": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-      "source": "France 24",
-      "published": "2026-10-25T11:02:41.000Z",
-      "summary": "At least 1,300 people were arrested on the sidelines of Saturday's protests across France and at least 50 officers and three protesters were hurt, the interior ministry said Sunday. The…",
-      "image": "https://s.france24.com/media/display/b7dd62bc-d05a-11f1-88d3-5b4a75578ebb/w:1024/p:16x9/AP26297559777844.jpg"
-    },
-    {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-25T10:55:33.000Z",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f31/live/75490920-d05e-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-      "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T10:50:38.000Z",
-      "summary": "The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign."
-    },
-    {
-      "title": "Niger imposes curfew on petrol sales amid national fuel shortage",
-      "link": "http://www.africanews.com/2026/10/25/niger-imposes-curfew-on-petrol-sales-amid-national-fuel-shortage/",
-      "source": "Africanews",
-      "published": "2026-10-25T10:47:38.000Z",
-      "summary": "Petrol stations are not allowed to sell fuel between nine at night and six in the morning to enable suppliers to restock them."
-    },
-    {
-      "title": "Police in Albania filmed beating protester unconscious",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T10:45:51.000Z",
-      "summary": "Police in Albania’s capital, Tirana, were filmed beating a protester lying on the ground."
-    },
-    {
-      "title": "Nigeria's Tinubu defends policies as he launches re-election bid",
-      "link": "http://www.africanews.com/2026/10/25/nigerias-tinubu-defends-policies-as-he-launches-re-election-bid/",
-      "source": "Africanews",
-      "published": "2026-10-25T10:47:10.000Z",
-      "summary": "Amid a cost-of-living crisis, President Bola Tinubu held his first campaign rally on Saturday as he hopes to win a second term in office in the January polls."
-    },
-    {
-      "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-      "link": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T10:42:51.000Z",
-      "summary": "Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region."
-    },
-    {
-      "title": "Red Cross trains staff as Kenya records its second death from Ebola",
-      "link": "http://www.africanews.com/2026/10/25/red-cross-trains-staff-as-kenya-records-its-second-death-from-ebola/",
-      "source": "Africanews",
-      "published": "2026-10-25T10:45:43.000Z",
-      "summary": "It says the fight to contain the virus does not end when a patient dies, saying the handling and burial of the body is just as important."
-    },
-    {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-25T10:38:15.000Z",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
-    },
-    {
-      "title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-      "link": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
-      "source": "France 24",
-      "published": "2026-10-25T10:36:42.000Z",
-      "summary": "A shooter suspected of killing one person and wounding five others on Friday in the town of Trappes, near Paris, has had his police custody suspended for a 48-hour psychiatric observation…",
-      "image": "https://s.france24.com/media/display/a69c99f4-d05b-11f1-b633-4b25c96ec90e/w:1024/p:16x9/000-D47R7WB.jpg"
-    },
-    {
-      "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T10:27:36.000Z",
-      "summary": "Ali Usman has also been recalled to the Test team after being sent home from the England tour."
-    },
-    {
-      "title": "France: Some clashes erupted at end of protests",
-      "link": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
-      "source": "France 24",
-      "published": "2026-10-25T09:35:20.000Z",
-      "summary": "There were some clashes on Saturday, mainly in major cities and as demonstrations came to an end. French authorities say police made nearly 1,000 arrests nationwide. Here’s a report from…",
-      "image": "https://s.france24.com/media/display/913459ee-d056-11f1-8548-5b4a75578ebb/w:1024/p:16x9/EN-20261025-090423-090631-CS.jpg"
-    },
-    {
-      "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T10:14:43.000Z",
-      "summary": "US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran."
-    },
-    {
-      "title": "More than 400.000 protest across France",
-      "link": "https://www.france24.com/en/more-than-400-000-protest-across-france",
-      "source": "France 24",
-      "published": "2026-10-25T09:32:21.000Z",
-      "summary": "Saturday’s demonstrations across France were largely peaceful, easing fears of a repeat of the violence seen last weekend. Hundreds of thousands took to the streets to demand action on the…",
-      "image": "https://s.france24.com/media/display/4fb7d9d2-d056-11f1-905d-bba4eee3dc72/w:1024/p:16x9/EN-20261025-090147-090407-CS.jpg"
-    },
-    {
-      "title": "Qatar official calls for peace and security to boost trade, investment",
-      "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T09:57:40.000Z",
-      "summary": "The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment."
-    },
-    {
-      "title": "France’s far right gathers as Le Pen prepares her presidential campaign",
-      "link": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
-      "source": "France 24",
-      "published": "2026-10-25T09:31:02.000Z",
-      "summary": "Meanwhile, France’s far-right National Rally is holding the second day of its party congress in Orléans, south of Paris. Marine Le Pen is expected to officially launch her presidential…",
-      "image": "https://s.france24.com/media/display/4f38fff0-d055-11f1-a349-bba4eee3dc72/w:1024/p:16x9/EN-20261025-100832-101312-CS.jpg"
-    },
-    {
-      "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
-      "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T09:27:03.000Z",
-      "summary": "Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions."
-    },
-    {
-      "title": "Hundreds of thousands march in France to protest against government",
-      "link": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
-      "source": "France 24",
-      "published": "2026-10-25T09:29:39.000Z",
-      "summary": "Hundreds of thousands marched across France on Saturday protesting the rising cost of living and a lack of government resources for essential services like schools. While demonstrations in…",
-      "image": "https://s.france24.com/media/display/1c1540d4-d055-11f1-ad06-4b25c96ec90e/w:1024/p:16x9/EN-20261025-100212-100803-CS.jpg"
-    },
-    {
-      "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-      "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-25T09:27:00.000Z",
-      "summary": "As Israel prepares to vote, Gadi Eisenkot is leveraging his Moroccan heritage in Likud strongholds such as Sderot. From historical divides to October 7, identity and trauma are redefining…"
-    },
-    {
-      "title": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T09:26:57.000Z",
-      "summary": "Race delayed by two hours before being cancelled due to low visibility despite a sellout crowd at Phillip Island."
-    },
-    {
-      "title": "Prague honours Roma resistance fighters against Hitler",
-      "link": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-25T09:17:00.000Z",
-      "summary": "More than 1,400 Roma fought against the German Nazi occupation in Czechoslovakia. A new exhibition in Prague showcases the stories of partisans and soldiers whose fates barely received any…"
-    },
-    {
-      "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T09:14:07.000Z",
-      "summary": "Thousands of Protestant Orange Order members have marched through Portadown, Northern Ireland."
-    },
-    {
-      "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-      "link": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-25T09:13:00.000Z",
-      "summary": "The US is helping Saudi Arabia fight the Houthi group in Yemen with AI-assisted targeting. But AI is not a magic bullet, experts say, and there are technological, political and human rights…"
+      "published": "2026-10-25T13:40:10.000Z",
+      "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign."
     }
   ],
   "africa": [
+    {
+      "title": "Gabon restores social media access after an eight-month ban",
+      "link": "http://www.africanews.com/2026/10/25/gabon-restores-social-media-access-after-an-eight-month-ban/",
+      "source": "Africanews",
+      "published": "2026-10-25T15:37:00.000Z",
+      "summary": "The media regulator pulled the plug on social networks in February blaming content posted online for stoking conflict and division in society."
+    },
+    {
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-25T14:39:47.000Z",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+      "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T14:03:17.000Z",
+      "summary": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining."
+    },
     {
       "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
       "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-africa-8291-rdf",

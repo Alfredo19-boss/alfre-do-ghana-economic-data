@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-25T13:46:52.307Z",
+  "updated": "2026-10-25T17:15:43.664Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,152 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2026 U17 WWC: Seidatu Wahab wins Player of the Match against Canada",
+      "link": "https://www.myjoyonline.com/2026-u17-wwc-seidatu-wahab-wins-player-of-the-match-against-canada/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T17:08:52.000Z",
+      "summary": "Wahab was the engine room of the Black Maidens side, breaking up play, winning duels, and keeping Ghana ticking with her composure on the ball.",
+      "categories": [
+        "Football",
+        "2026 U-17 Women's World Cup",
+        "Black Maidens",
+        "Canada",
+        "Seidatu Wahab"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Seidatu-683x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IMF delegation assesses TOR’s rehabilitation and financial recovery efforts",
+      "link": "https://www.myjoyonline.com/imf-delegation-assesses-tors-rehabilitation-and-financial-recovery-efforts/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T17:03:30.000Z",
+      "summary": "A delegation from the International Monetary Fund (IMF) has visited the Tema Oil Refinery (TOR) to familiarise itself with the refinery’s operations, assess ongoing rehabilitation works and…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP News 6",
+        "National",
+        "News",
+        "IMF delegation",
+        "recovery efforts",
+        "Tema Oil Refinery (TOR)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2342.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TOR eyes stock market listing as it tackles $517m debt",
+      "link": "https://www.myjoyonline.com/tor-eyes-stock-market-listing-as-it-tackles-517m-debt/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T16:38:42.000Z",
+      "summary": "The Tema Oil Refinery (TOR) is considering a listing on the Ghana Stock Exchange as management seeks fresh investment while pursuing the restructuring of an inherited debt burden of…",
+      "categories": [
+        "Energy",
+        "HP News 7",
+        "National",
+        "IMF",
+        "Stock market listing",
+        "Tema Oil Refinery (TOR)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2356-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Isak scores again as Liverpool beat Brighton",
+      "link": "https://www.myjoyonline.com/isak-scores-again-as-liverpool-beat-brighton/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T16:20:24.000Z",
+      "summary": "Liverpool recorded their first home Premier League win of the season thanks to an impressive performance against in-form Brighton. Two goals in a four-minute first half spell – an own goal…",
+      "categories": [
+        "Football",
+        "Liverpool",
+        "Premier League"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Isak.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bournemouth beat Man Utd to increase pressure on Carrick",
+      "link": "https://www.myjoyonline.com/bournemouth-beat-man-utd-to-increase-pressure-on-carrick/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T16:16:52.000Z",
+      "summary": "The pressure on Manchester United manager Michael Carrick was upped a further notch by another insipid performance as they slumped to a 3-0 home defeat by Bournemouth. The Cherries were…",
+      "categories": [
+        "Football",
+        "HP News 8",
+        "News",
+        "Bournemouth",
+        "Manchester United",
+        "Premier League"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Rayan.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nii Ashie Moore urges NDC unity for 2028 after constituency elections",
+      "link": "https://www.myjoyonline.com/nii-ashie-moore-urges-ndc-unity-for-2028-after-constituency-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T15:37:59.000Z",
+      "summary": "The Greater Accra Regional Chairman of the National Democratic Congress (NDC), Emmanuel Nii Ashie Moore, has urged party members to put their differences aside and unite behind the party…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Politics",
+        "NDC",
+        "Nii Ashie Moore"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-87-700x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Several NDC incumbents fall in Techiman South constituency election, including chairman",
+      "link": "https://www.myjoyonline.com/several-ndc-incumbents-fall-in-techiman-south-constituency-election-including-chairman/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T15:25:00.000Z",
+      "summary": "Several incumbent executives of the National Democratic Congress (NDC) in Techiman South have lost their positions in the party’s constituency elections, led by chairman Saliu Alhaji Nuhu…",
+      "categories": [
+        "HP News 3",
+        "Politics",
+        "Regional",
+        "NDC executives",
+        "New Chairman",
+        "Techiman SOUTH"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/99bfabec-9659-4037-b2ec-50f9671b3c7c-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Include private universities in national funding plans — Catholic University VC tells gov’t",
+      "link": "https://www.myjoyonline.com/include-private-universities-in-national-funding-plans-catholic-university-vc-tells-govt/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T15:04:16.000Z",
+      "summary": "The Vice-Chancellor of the Catholic University of Ghana (CUG), Prof. Matthew Glover Addo, has urged the government to establish a dedicated fund to support private universities, warning…",
+      "categories": [
+        "Education",
+        "HP News 2",
+        "National",
+        "News",
+        "Top Story",
+        "National funding",
+        "private universities"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f0e01c1b-b185-4fc8-b169-b7d187e946f6-1024x596.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Protect official information without compromise – Volta Regional Minister to public sector employees",
+      "link": "https://www.graphic.com.gh/news/general-news/protect-official-information-without-compromise-volta-regional-minister-to-public-sector-employees.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-25T14:07:09.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/25/csa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Nana Sifa Twum to launch book on electoral communications in Ghana",
       "link": "https://www.graphic.com.gh/news/politics/nana-sifa-twum-to-launch-book-on-electoral-communications-in-ghana.html",
@@ -61,69 +207,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Stranded Ghanaian fishermen survived on fresh fish, burnt canoe wood at sea",
-      "link": "https://www.myjoyonline.com/stranded-ghanaian-fishermen-survived-on-fresh-fish-burnt-canoe-wood-at-sea/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T12:50:42.000Z",
-      "summary": "A 29-year-old Ghanaian fisherman has recounted how he and six colleagues survived nearly two weeks at sea after their canoe’s outboard motor broke down, leaving them without adequate food…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Fishermen",
-        "Ocean",
-        "SEA",
-        "Western Region"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/fishermenback3-728x375-1.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Art can give ecological restoration a local voice – World Resources Institute",
-      "link": "https://www.myjoyonline.com/art-can-give-ecological-restoration-a-local-voice-world-resources-institute/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T12:48:47.000Z",
-      "summary": "The World Resources Institute (WRI) says art and culture can help make ecological restoration more meaningful to local communities. This is according to the institute’s Landscape…",
-      "categories": [
-        "Agribusiness",
-        "Art & Design",
-        "National",
-        "Art",
-        "Climate x Culture Summit",
-        "Ecological restoration in Ghana",
-        "World Resources Institute"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9289-1024x586.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "EPA takes Styrofoam ban campaign to five northern regions ahead of January 1, 2027 deadline",
-      "link": "https://www.myjoyonline.com/epa-takes-styrofoam-ban-campaign-to-five-northern-regions-ahead-of-january-1-2027-deadline/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T12:43:02.000Z",
-      "summary": "The Environmental Protection Authority (EPA) is intensifying its nationwide public education campaign on Ghana’s impending ban on polystyrene foam products, taking the campaign to five…",
-      "categories": [
-        "In Focus",
-        "National",
-        "EPA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2269.JPG-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The betrayal of the ones we trusted",
-      "link": "https://www.myjoyonline.com/the-betrayal-of-the-ones-we-trusted/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T12:41:47.000Z",
-      "summary": "There is a loneliness that has nothing to do with being alone. It is the loneliness of knocking on the door of the institution that was built for you, and hearing only the echo.",
-      "categories": [
-        "Opinion",
-        "Obuasi SHTS",
-        "Ohemaa Achiaa Agyekum"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-11.33.33-AM-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Black Maidens face Argentina in FIFA U-17 Women's World Cup Round of 16",
       "link": "https://www.graphic.com.gh/sports/sports-news/black-maidens-face-argentina-in-fifa-u-17-womens-world-cup-round-of-16.html",
       "source": "Graphic Sports",
@@ -148,49 +231,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Bookworm urges schools to embrace extracurricular activities to develop pupils’ talents",
-      "link": "https://www.myjoyonline.com/bookworm-urges-schools-to-embrace-extracurricular-activities-to-develop-pupils-talents/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T11:16:27.000Z",
-      "summary": "The Chief Executive Officer (CEO) of Bookworm, Nelson Kofi Poku, has urged parents and teachers to encourage children to participate in extracurricular activities to help them develop their…",
-      "categories": [
-        "Education",
-        "bookworm",
-        "Nelson Kofi Poku"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-11.11.49-AM.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bookworm crowns winners of 2026 schools competition in Accra",
-      "link": "https://www.myjoyonline.com/bookworm-crowns-winners-of-2026-schools-competition-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T11:03:40.000Z",
-      "summary": "Bookworm has crowned winners in three categories of its 2026 schools competition following a grand finale held in Accra on Saturday, October 24.",
-      "categories": [
-        "Education",
-        "National",
-        "bookworm"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2333-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Tennis Federation congratulates Wheelchair champions after Ga Mantse Tournament",
-      "link": "https://www.myjoyonline.com/ghana-tennis-federation-congratulates-wheelchair-champions-after-ga-mantse-tournament/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T10:50:38.000Z",
-      "summary": "The tournament featured competitive men’s and women’s wheelchair tennis divisions, providing athletes with an opportunity to showcase their skills, resilience and sportsmanship.",
-      "categories": [
-        "Sports",
-        "Tennis",
-        "Ga Mantse Tournament",
-        "Ghana Tennis Federation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-09.17.40-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "U-17 Women's World Cup: Black Maidens beat Canada to reach Round of 16",
       "link": "https://www.graphic.com.gh/sports/sports-news/u-17-womens-wrld-cup-black-maidens-beat-canada-to-reach-round-of-16.html",
       "source": "Graphic Sports",
@@ -213,24 +253,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/25/Joanita2.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "MUSIGA warns musicians against glorifying online fraud",
-      "link": "https://www.myjoyonline.com/musiga-warns-musicians-against-glorifying-online-fraud/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:33:28.000Z",
-      "summary": "The Musicians Union of Ghana (MUSIGA) has cautioned musicians against making public statements that could be interpreted as encouraging or glorifying online fraud and other cyber-related…",
-      "categories": [
-        "HP Entertainment 2",
-        "HP News 8",
-        "Music",
-        "National",
-        "MUSIGA",
-        "online fraud",
-        "Shatta Wale"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9386.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Stop settling rape, sexual abuse cases out of court - GTDC Deputy CEO",
@@ -290,18 +312,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/24/pharmacy1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Armed Forces to hold live fire power demonstration at Bundase on Oct 30",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-armed-forces-to-hold-live-fire-power-demonstration-at-bundase.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T12:54:48.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
