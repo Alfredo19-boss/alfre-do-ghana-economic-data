@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-25T04:29:20.365Z",
+  "updated": "2026-10-25T09:19:02.394Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,139 +25,150 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.myjoyonline.com/almost-1000-arrested-as-clashes-follow-another-day-of-mass-protests-across-france/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T03:41:41.000Z",
-      "summary": "Nearly 1,000 arrests were made as hundreds of thousands of people took part in another day of protests across France which were followed by some clashes late on Saturday, officials have…",
+      "title": "U-17 Women's World Cup: Black Maidens beat Canada to reach Round of 16",
+      "link": "https://www.graphic.com.gh/sports/sports-news/u-17-womens-wrld-cup-black-maidens-beat-canada-to-reach-round-of-16.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-25T07:50:22.000Z",
+      "summary": "Joe Nana Adarkwa's side created the best chance of the first half, with an inspired Jessica Appiah carrying the ball through the Canadian half, only to see her powerful effort brilliantly…",
       "categories": [
-        "International",
-        "Arrests",
-        "Clashes",
-        "France",
-        "Mass protests",
-        "rioting"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/051d7e50-cfe7-11f1-808d-1d32ac5cbb5b.jpg-1024x576.webp",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/25/BLACK_MAIDENSS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Joanita Borteye opens 2026 African Championships campaign with a commanding victory in Tangier",
+      "link": "https://www.graphic.com.gh/sports/sports-news/joanita-borteye-opens-2026-african-championships-campaign-with-a-commanding-victory-in-tangier.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-25T07:34:03.000Z",
+      "summary": "The victory marks a promising start for the young Ghanaian, who is competing among the continent’s leading players at the senior championships after gaining experience at the 2025 edition…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/25/Joanita2.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "MUSIGA warns musicians against glorifying online fraud",
+      "link": "https://www.myjoyonline.com/musiga-warns-musicians-against-glorifying-online-fraud/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T06:33:28.000Z",
+      "summary": "The Musicians Union of Ghana (MUSIGA) has cautioned musicians against making public statements that could be interpreted as encouraging or glorifying online fraud and other cyber-related…",
+      "categories": [
+        "HP Entertainment 2",
+        "Music",
+        "MUSIGA",
+        "online fraud",
+        "Shatta Wale"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9386.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Tinubu blames opposition for hunger, poverty in Nigeria; Atiku kicks, says president delusional",
-      "link": "https://www.myjoyonline.com/tinubu-blames-opposition-for-hunger-poverty-in-nigeria-atiku-kicks-says-president-delusional/",
+      "title": "Mahama describes AfCFTA as Africa’s ‘greatest architecture for conflict prevention’",
+      "link": "https://www.myjoyonline.com/mahama-describes-afcfta-as-africas-greatest-architecture-for-conflict-prevention/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T03:30:35.000Z",
-      "summary": "President Bola Tinubu has accused opposition politicians of causing the hunger and poverty Nigerians are experiencing, insisting that his administration is working to address the problems…",
+      "published": "2026-10-25T06:18:03.000Z",
+      "summary": "President John Dramani Mahama has called for deeper economic integration among African countries, describing the African Continental Free Trade Area (AfCFTA) as a major instrument for…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "AfCFTA",
+        "Africa",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853566758_1794412805037865_4311765064490957821_n-1024x731.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa needs stronger digital payment links to unlock regional trade – Femi Osinbajo",
+      "link": "https://www.myjoyonline.com/africa-needs-stronger-digital-payment-links-to-unlock-regional-trade-femi-osinbajo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T06:16:22.000Z",
+      "summary": "Professor Yemi Osinbajo, a former Vice-President of Nigeria, has called for stronger cooperation among African countries to improve cross-border payments, strengthen digital integration and…",
+      "categories": [
+        "National",
+        "Africa",
+        "Professor Yemi Osinbajo",
+        "Vice President"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.10.48-AM-1024x619.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa must prove climate adaptation is saving lives, not just spending money",
+      "link": "https://www.myjoyonline.com/africa-must-prove-climate-adaptation-is-saving-lives-not-just-spending-money/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T06:13:18.000Z",
+      "summary": "When floods leave roads impassable, water supplies become contaminated and children fall ill, the consequences of climate change are measured in more than damaged infrastructure or…",
       "categories": [
         "Africa",
-        "HP News 5",
-        "APC",
-        "Nigeria elections",
-        "Tinubu"
+        "News",
+        "Climate adaptation",
+        "UNFCCC",
+        "UNU-INRA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-9.37.42-PM-1024x682.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_5672.JPG-1024x557.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "link": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/",
+      "title": "PIAC seeks details of petroleum funds allocated to Big Push projects",
+      "link": "https://www.myjoyonline.com/piac-seeks-details-of-petroleum-funds-allocated-to-big-push-projects/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T03:19:10.000Z",
-      "summary": "Former President Barack Obama has attacked the Trump administration over the Iran war and high consumer prices as he hit the campaign trail for Democrats ahead of the US midterm elections…",
+      "published": "2026-10-25T06:11:13.000Z",
+      "summary": "The Public Interest and Accountability Committee (PIAC) released its 2026 semi-annual report on Ghana’s petroleum revenue management, noting that additional information on how the…",
       "categories": [
-        "HP News 10",
-        "International",
-        "Campaign",
-        "Democrats",
-        "Elections",
-        "Obama",
-        "Trump"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-03.17.56-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Luv FM journalists sweep top honours at GJA Ashanti Regional Media Excellence Awards",
-      "link": "https://www.myjoyonline.com/luv-fm-journalists-sweep-top-honours-at-gja-ashanti-regional-media-excellence-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T02:59:00.000Z",
-      "summary": "Journalists from Luv FM, a subsidiary of the Multimedia Group Limited, have won multiple awards at the 2025 Ghana Journalists Association (GJA) Ashanti Regional Media Excellence Awards…",
-      "categories": [
-        "Events",
-        "Regional",
-        "Top Story",
-        "GJA",
-        "Luv FM",
-        "media excellence awards"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-01.53.47.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Multimedia’s Emmanuel Bright Quaicoe wins 2025 GJA Ashanti Regional Journalist of the Year award",
-      "link": "https://www.myjoyonline.com/multimedias-emmanuel-bright-quaicoe-wins-2025-gja-ashanti-regional-journalist-of-the-year-award/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T02:53:41.000Z",
-      "summary": "Luv FM journalist, Emmanuel Bright Quaicoe, has been crowned the 2025 Ghana Journalists Association (GJA) Ashanti Regional Journalist of the Year, the highest individual honour at the…",
-      "categories": [
-        "Events",
-        "HP News 1",
-        "Radio & TV",
-        "Regional",
-        "Emmanuel Bright Quaicoe",
-        "GJA",
-        "Journalist of the Year",
-        "Multimedia"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-00.04.18-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gizela Tetteh-Agbotui confident NDC will retain Awutu Senya West parliamentary seat",
-      "link": "https://www.myjoyonline.com/gizela-tetteh-agbotui-confident-ndc-will-retain-awutu-senya-west-parliamentary-seat/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T00:04:23.000Z",
-      "summary": "The Member of Parliament for Awutu Senya West, Gizela Tetteh-Agbotui, says she is confident the National Democratic Congress (NDC) will retain the constituency in the next general election…",
-      "categories": [
-        "HP News 3",
-        "Politics",
-        "Regional",
-        "Awutu Senya",
-        "NDC",
-        "Parliamentary seat"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Agbotui-750x375-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "All 24 NDC constituency executive positions in Juaboso go unopposed",
-      "link": "https://www.myjoyonline.com/all-24-ndc-constituency-executive-positions-in-juaboso-go-unopposed/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T23:45:09.000Z",
-      "summary": "All 24 constituency executive positions of the National Democratic Congress (NDC) in Juaboso have gone unopposed, with no contest required for any of the positions. The Member of Parliament…",
-      "categories": [
-        "Politics",
-        "Juaboso",
-        "Mintak Akandoh",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-24-191320-504x375-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trade Minister urges laboratories, factories to work as partners",
-      "link": "https://www.myjoyonline.com/trade-minister-urges-laboratories-factories-to-work-as-partners/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T21:39:03.000Z",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger collaboration between research laboratories and factories to enable Ghana to produce more…",
-      "categories": [
-        "Agribusiness",
         "National",
-        "Elizabeth Ofosu-Adjare",
-        "Factories",
-        "Laboratories",
-        "Trade Minister"
+        "Petroleum",
+        "PIAC",
+        "Revenue"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_6363.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.12.58-AM-1024x591.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NRSA praises Sunyani inner ring road project, raises concern over tricycle speeding",
+      "link": "https://www.myjoyonline.com/nrsa-praises-sunyani-inner-ring-road-project-raises-concern-over-tricycle-speeding/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T06:09:14.000Z",
+      "summary": "The National Road Safety Authority (NRSA) in the Bono Region has lauded the quality of work on the Sunyani-Inner Ring Road Project, being funded by the government's “Big Push” Road…",
+      "categories": [
+        "National",
+        "Big Push",
+        "NRSA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.08.09-AM-1024x611.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama warns foreign powers against treating Africa as a ‘chessboard’",
+      "link": "https://www.myjoyonline.com/mahama-warns-foreign-powers-against-treating-africa-as-a-chessboard/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T06:07:52.000Z",
+      "summary": "President John Dramani Mahama has urged African leaders to unite against foreign interference and protect the continent’s sovereignty, warning that external powers are seeking strategic…",
+      "categories": [
+        "National",
+        "Africa",
+        "chessboard",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853566758_1794412805037865_4311765064490957821_n-1-1024x731.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GoldBod will not compromise LBMA certification for galamsey – Minkah",
+      "link": "https://www.myjoyonline.com/goldbod-will-not-compromise-lbma-certification-for-galamsey-minkah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T06:05:07.000Z",
+      "summary": "The Ghana Gold Board (GoldBod) has rejected suggestions that it would support illegal mining, insisting that doing so would undermine its efforts to secure certification from the London…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Galamsey",
+        "Goldbod",
+        "Illegal mining"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/Prince-Kwame-Minkah.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -326,30 +337,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/FIFA3.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Vincent Kompany hospitalised after collapsing at training",
-      "link": "https://www.graphic.com.gh/sports/sports-news/vincent-kompany-hospitalised-after-collapsing-at-training.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-23T19:03:52.000Z",
-      "summary": "Reports in Germany indicate that Kompany is in a stable condition in hospital. “Vincent Kompany required medical attention after collapsing during an FC Bayern reserve team training session…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/KOMPANY.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Arsenal sweating over Saka’s fitness after Wednesday’s Champions League injury",
-      "link": "https://www.graphic.com.gh/sports/sports-news/arsenal-sweating-over-sakas-fitness-after-wednesdays-champions-league-injury.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-23T16:26:58.000Z",
-      "summary": "If those early concerns are realised, he will miss a clutch of key games for the Gunners, as well as England's forthcoming Uefa Nations League matches against Croatia and Spain. \"We need a…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/SAKA.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
