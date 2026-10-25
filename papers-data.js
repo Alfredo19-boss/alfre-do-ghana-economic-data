@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-24T21:58:36.046Z",
+  "updated": "2026-10-25T00:02:51.739Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "All 24 NDC constituency executive positions in Juaboso go unopposed",
+      "link": "https://www.myjoyonline.com/all-24-ndc-constituency-executive-positions-in-juaboso-go-unopposed/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-24T23:45:09.000Z",
+      "summary": "All 24 constituency executive positions of the National Democratic Congress (NDC) in Juaboso have gone unopposed, with no contest required for any of the positions. The Member of Parliament…",
+      "categories": [
+        "Politics",
+        "Juaboso",
+        "Mintak Akandoh",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-24-191320-504x375-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Trade Minister urges laboratories, factories to work as partners",
       "link": "https://www.myjoyonline.com/trade-minister-urges-laboratories-factories-to-work-as-partners/",
@@ -140,25 +155,6 @@ window.GDC_PAPERS = {
         "Screening"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-8.44.14-AM1-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s U-15 Boys thrash Uzbekistan 4-1 as Abdul Aziz Issah and Jerry Owusu hit brace each",
-      "link": "https://www.myjoyonline.com/ghanas-u-15-boys-thrash-uzbekistan-4-1-as-abdul-aziz-issah-and-jerry-owusu-hit-brace-each/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T18:13:54.000Z",
-      "summary": "The National U-15 Boys team made a flying start to the FIFA U-15 World Cup and Festival with an emphatic 4-1 victory over Uzbekistan in their opening Group W match on Saturday. Abdul Aziz…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 2",
-        "Sports",
-        "Football Uzbekistan",
-        "GFA",
-        "Ghana",
-        "U-15"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-9.46.30-AM-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
