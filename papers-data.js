@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-25T09:19:02.394Z",
+  "updated": "2026-10-25T13:46:52.307Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,172 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Nana Sifa Twum to launch book on electoral communications in Ghana",
+      "link": "https://www.graphic.com.gh/news/politics/nana-sifa-twum-to-launch-book-on-electoral-communications-in-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-25T13:38:04.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/25/sifa2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Joanita Borteye storms into Round of 16 at 2026 ITTF African Championships",
+      "link": "https://www.graphic.com.gh/sports/sports-news/joanita-borteye-storms-into-round-of-16-at-2026-ittf-african-championships.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-25T13:25:41.000Z",
+      "summary": "The Ghanaian continued her fine form on Saturday, October 24, when she faced Morocco’s Edena Prevot in the Round of 32. Borteye produced a spirited display to claim a 4–1 victory…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/25/BORTEYE.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "LIST: See the NDC new constituency executives elected across the country",
+      "link": "https://www.graphic.com.gh/news/politics/list-ndc-elects-new-constituency-executives-across-the-country.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-25T13:06:54.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/08/ndceee.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Stranded Ghanaian fishermen survived on fresh fish, burnt canoe wood at sea",
+      "link": "https://www.myjoyonline.com/stranded-ghanaian-fishermen-survived-on-fresh-fish-burnt-canoe-wood-at-sea/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T12:50:42.000Z",
+      "summary": "A 29-year-old Ghanaian fisherman has recounted how he and six colleagues survived nearly two weeks at sea after their canoe’s outboard motor broke down, leaving them without adequate food…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Fishermen",
+        "Ocean",
+        "SEA",
+        "Western Region"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/fishermenback3-728x375-1.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Art can give ecological restoration a local voice – World Resources Institute",
+      "link": "https://www.myjoyonline.com/art-can-give-ecological-restoration-a-local-voice-world-resources-institute/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T12:48:47.000Z",
+      "summary": "The World Resources Institute (WRI) says art and culture can help make ecological restoration more meaningful to local communities. This is according to the institute’s Landscape…",
+      "categories": [
+        "Agribusiness",
+        "Art & Design",
+        "National",
+        "Art",
+        "Climate x Culture Summit",
+        "Ecological restoration in Ghana",
+        "World Resources Institute"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_9289-1024x586.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "EPA takes Styrofoam ban campaign to five northern regions ahead of January 1, 2027 deadline",
+      "link": "https://www.myjoyonline.com/epa-takes-styrofoam-ban-campaign-to-five-northern-regions-ahead-of-january-1-2027-deadline/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T12:43:02.000Z",
+      "summary": "The Environmental Protection Authority (EPA) is intensifying its nationwide public education campaign on Ghana’s impending ban on polystyrene foam products, taking the campaign to five…",
+      "categories": [
+        "In Focus",
+        "National",
+        "EPA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_2269.JPG-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The betrayal of the ones we trusted",
+      "link": "https://www.myjoyonline.com/the-betrayal-of-the-ones-we-trusted/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T12:41:47.000Z",
+      "summary": "There is a loneliness that has nothing to do with being alone. It is the loneliness of knocking on the door of the institution that was built for you, and hearing only the echo.",
+      "categories": [
+        "Opinion",
+        "Obuasi SHTS",
+        "Ohemaa Achiaa Agyekum"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-11.33.33-AM-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Maidens face Argentina in FIFA U-17 Women's World Cup Round of 16",
+      "link": "https://www.graphic.com.gh/sports/sports-news/black-maidens-face-argentina-in-fifa-u-17-womens-world-cup-round-of-16.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-25T12:12:50.000Z",
+      "summary": "Joe Nana Adarkwa's side booked their place in the knockout stage after finishing the group stage with four points. They lost 3-0 to Norway, drew 3-3 with Brazil and secured a vital 2-0…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/08/WhatsApp-Image-2026-10-21-at-9.52.16-PM-5.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Vice-President Opoku-Agyemang hails Black Maidens' World Cup progress",
+      "link": "https://www.graphic.com.gh/sports/sports-news/vice-president-opoku-agyemang-hails-black-maidens-world-cup-progress.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-25T12:07:54.000Z",
+      "summary": "In a post on Facebook, the Vice-President said she had been following the team's progress and was impressed by their confidence and determination. \"I have been following the progress of our…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/08/862038817_1109192808379384_1448676220609482494_n.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Bookworm urges schools to embrace extracurricular activities to develop pupils’ talents",
+      "link": "https://www.myjoyonline.com/bookworm-urges-schools-to-embrace-extracurricular-activities-to-develop-pupils-talents/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T11:16:27.000Z",
+      "summary": "The Chief Executive Officer (CEO) of Bookworm, Nelson Kofi Poku, has urged parents and teachers to encourage children to participate in extracurricular activities to help them develop their…",
+      "categories": [
+        "Education",
+        "bookworm",
+        "Nelson Kofi Poku"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-11.11.49-AM.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bookworm crowns winners of 2026 schools competition in Accra",
+      "link": "https://www.myjoyonline.com/bookworm-crowns-winners-of-2026-schools-competition-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T11:03:40.000Z",
+      "summary": "Bookworm has crowned winners in three categories of its 2026 schools competition following a grand finale held in Accra on Saturday, October 24.",
+      "categories": [
+        "Education",
+        "National",
+        "bookworm"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2333-1024x768.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Tennis Federation congratulates Wheelchair champions after Ga Mantse Tournament",
+      "link": "https://www.myjoyonline.com/ghana-tennis-federation-congratulates-wheelchair-champions-after-ga-mantse-tournament/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T10:50:38.000Z",
+      "summary": "The tournament featured competitive men’s and women’s wheelchair tennis divisions, providing athletes with an opportunity to showcase their skills, resilience and sportsmanship.",
+      "categories": [
+        "Sports",
+        "Tennis",
+        "Ga Mantse Tournament",
+        "Ghana Tennis Federation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-09.17.40-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "U-17 Women's World Cup: Black Maidens beat Canada to reach Round of 16",
       "link": "https://www.graphic.com.gh/sports/sports-news/u-17-womens-wrld-cup-black-maidens-beat-canada-to-reach-round-of-16.html",
@@ -56,7 +222,9 @@ window.GDC_PAPERS = {
       "summary": "The Musicians Union of Ghana (MUSIGA) has cautioned musicians against making public statements that could be interpreted as encouraging or glorifying online fraud and other cyber-related…",
       "categories": [
         "HP Entertainment 2",
+        "HP News 8",
         "Music",
+        "National",
         "MUSIGA",
         "online fraud",
         "Shatta Wale"
@@ -65,111 +233,28 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama describes AfCFTA as Africa’s ‘greatest architecture for conflict prevention’",
-      "link": "https://www.myjoyonline.com/mahama-describes-afcfta-as-africas-greatest-architecture-for-conflict-prevention/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:18:03.000Z",
-      "summary": "President John Dramani Mahama has called for deeper economic integration among African countries, describing the African Continental Free Trade Area (AfCFTA) as a major instrument for…",
+      "title": "Stop settling rape, sexual abuse cases out of court - GTDC Deputy CEO",
+      "link": "https://www.graphic.com.gh/news/general-news/stop-settling-rape-sexual-abuse-cases-out-of-court-gtdc-deputy-ceo.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-25T01:45:37.000Z",
+      "summary": "",
       "categories": [
-        "HP News 2",
-        "National",
-        "AfCFTA",
-        "Africa",
-        "Mahama"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853566758_1794412805037865_4311765064490957821_n-1024x731.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Africa needs stronger digital payment links to unlock regional trade – Femi Osinbajo",
-      "link": "https://www.myjoyonline.com/africa-needs-stronger-digital-payment-links-to-unlock-regional-trade-femi-osinbajo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:16:22.000Z",
-      "summary": "Professor Yemi Osinbajo, a former Vice-President of Nigeria, has called for stronger cooperation among African countries to improve cross-border payments, strengthen digital integration and…",
+      "title": "President Mahama proposes new security accord for West Africa",
+      "link": "https://www.graphic.com.gh/news/politics/president-mahama-proposes-new-security-accord-for-west-africa.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-25T01:10:12.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Africa",
-        "Professor Yemi Osinbajo",
-        "Vice President"
+        "Politics"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.10.48-AM-1024x619.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa must prove climate adaptation is saving lives, not just spending money",
-      "link": "https://www.myjoyonline.com/africa-must-prove-climate-adaptation-is-saving-lives-not-just-spending-money/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:13:18.000Z",
-      "summary": "When floods leave roads impassable, water supplies become contaminated and children fall ill, the consequences of climate change are measured in more than damaged infrastructure or…",
-      "categories": [
-        "Africa",
-        "News",
-        "Climate adaptation",
-        "UNFCCC",
-        "UNU-INRA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_5672.JPG-1024x557.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "PIAC seeks details of petroleum funds allocated to Big Push projects",
-      "link": "https://www.myjoyonline.com/piac-seeks-details-of-petroleum-funds-allocated-to-big-push-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:11:13.000Z",
-      "summary": "The Public Interest and Accountability Committee (PIAC) released its 2026 semi-annual report on Ghana’s petroleum revenue management, noting that additional information on how the…",
-      "categories": [
-        "National",
-        "Petroleum",
-        "PIAC",
-        "Revenue"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.12.58-AM-1024x591.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NRSA praises Sunyani inner ring road project, raises concern over tricycle speeding",
-      "link": "https://www.myjoyonline.com/nrsa-praises-sunyani-inner-ring-road-project-raises-concern-over-tricycle-speeding/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:09:14.000Z",
-      "summary": "The National Road Safety Authority (NRSA) in the Bono Region has lauded the quality of work on the Sunyani-Inner Ring Road Project, being funded by the government's “Big Push” Road…",
-      "categories": [
-        "National",
-        "Big Push",
-        "NRSA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.08.09-AM-1024x611.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama warns foreign powers against treating Africa as a ‘chessboard’",
-      "link": "https://www.myjoyonline.com/mahama-warns-foreign-powers-against-treating-africa-as-a-chessboard/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:07:52.000Z",
-      "summary": "President John Dramani Mahama has urged African leaders to unite against foreign interference and protect the continent’s sovereignty, warning that external powers are seeking strategic…",
-      "categories": [
-        "National",
-        "Africa",
-        "chessboard",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853566758_1794412805037865_4311765064490957821_n-1-1024x731.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GoldBod will not compromise LBMA certification for galamsey – Minkah",
-      "link": "https://www.myjoyonline.com/goldbod-will-not-compromise-lbma-certification-for-galamsey-minkah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T06:05:07.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) has rejected suggestions that it would support illegal mining, insisting that doing so would undermine its efforts to secure certification from the London…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Galamsey",
-        "Goldbod",
-        "Illegal mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/Prince-Kwame-Minkah.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/25/mahaaaama3.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "VIDEO: Sekondi fisherman narrates how they survived days missing at sea with no food",
@@ -220,54 +305,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GTA Deputy CEO Abeiku Santana petitions Minister over communication gap and access to his boss Maame Efua Houadjeto on critical issues",
-      "link": "https://www.graphic.com.gh/news/general-news/gta-deputy-ceo-petitions-minister-over-communication-gap-with-boss.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T12:27:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Commemoration of International Day of Girl Child: Invest in girls’ health, safety — Speakers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-commemoration-of-international-day-of-girl-child-invest-in-girls-health-safety-speakers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T11:24:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Ministry.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nana Konadu Agyeman-Rawlings’s 1 year anniversary commemorated",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nana-konadu-agyeman-rawlingss-1-year-anniversary-commemorated.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T11:20:20.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Vice-President.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Finance Ministry denies withholding budget utilisation data from PIAC",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-finance-ministry-denies-withholding-budget-utilisation-data-from-piac.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T11:16:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/Cassiel.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Ankrah gives Ghana winning start at African Boxing Championships",
       "link": "https://www.graphic.com.gh/sports/boxing/ankrah-gives-ghana-winning-start-at-african-boxing-championships.html",
       "source": "Graphic Sports",
@@ -301,42 +338,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/challenge.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "GPL Week 8: Hearts of Oak climb to summit after victory over Basake Holy Stars",
-      "link": "https://www.graphic.com.gh/sports/sports-news/gpl-week-8-hearts-of-oak-climb-to-summit-after-victory-over-basake-holy-stars.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-23T21:13:06.000Z",
-      "summary": "Hearts of Oak now sit three points clear at the top of the Premier League table, strengthening their early-season title credentials ahead of the remaining Matchday 8 fixtures on Sunday…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/HEARTS_OF_OAK.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "ITTF-Africa Veep Mawuko Afadzinu joins continental deliberations at ITTF-Africa AGM in Morocco",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ittf-africa-veep-mawuko-afadzinu-joins-continental-deliberations-at-ittf-africa-agm-in-morocco.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-23T20:02:47.000Z",
-      "summary": "It was organised by the Royal Moroccan Table Tennis Federation under the auspices of ITTF-Africa. The AGM brought together stakeholders in African table tennis to deliberate on the…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/MAWUKO.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "FIFA appoints normalisation committee to oversee Nigerian football until 2027",
-      "link": "https://www.graphic.com.gh/sports/sports-news/fifa-appoints-normalisation-committee-to-oversee-nigerian-football-until-2027.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-23T19:32:35.000Z",
-      "summary": "“The normalisation committee shall consist of a suitable number of members, who will be appointed jointly by FIFA and CAF as soon as possible,” the letter stated. FIFA said the committee…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/FIFA3.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
