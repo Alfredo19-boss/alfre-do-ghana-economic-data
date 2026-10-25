@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-25T17:15:43.664Z",
+  "updated": "2026-10-25T19:41:27.079Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,137 +25,142 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "2026 U17 WWC: Seidatu Wahab wins Player of the Match against Canada",
-      "link": "https://www.myjoyonline.com/2026-u17-wwc-seidatu-wahab-wins-player-of-the-match-against-canada/",
+      "title": "Go Church Belgium documentary: What viewers were not told about two former Lighthouse bishops",
+      "link": "https://www.myjoyonline.com/go-church-belgium-documentary-what-viewers-were-not-told-about-two-former-lighthouse-bishops/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T17:08:52.000Z",
-      "summary": "Wahab was the engine room of the Black Maidens side, breaking up play, winning duels, and keeping Ghana ticking with her composure on the ball.",
+      "published": "2026-10-25T18:52:22.000Z",
+      "summary": "The Belgian documentary investigating Go Church has raised serious allegations concerning Bishop Dag Heward-Mills and Lighthouse Chapel International. Those claims deserve examination. So…",
       "categories": [
-        "Football",
-        "2026 U-17 Women's World Cup",
-        "Black Maidens",
-        "Canada",
-        "Seidatu Wahab"
+        "Opinion",
+        "Belgium documentary",
+        "Go church",
+        "Lighthouse bishops"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Seidatu-683x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-15-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "IMF delegation assesses TOR’s rehabilitation and financial recovery efforts",
-      "link": "https://www.myjoyonline.com/imf-delegation-assesses-tors-rehabilitation-and-financial-recovery-efforts/",
+      "title": "NACOC Director-General urges journalists to investigate drug trafficking networks in Ghana",
+      "link": "https://www.myjoyonline.com/nacoc-director-general-urges-journalists-to-investigate-drug-trafficking-networks-in-ghana/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T17:03:30.000Z",
-      "summary": "A delegation from the International Monetary Fund (IMF) has visited the Tema Oil Refinery (TOR) to familiarise itself with the refinery’s operations, assess ongoing rehabilitation works and…",
+      "published": "2026-10-25T18:29:09.000Z",
+      "summary": "The Director-General of the Narcotics Control Commission (NACOC), Major General Maxwell Obuba Mantey, has challenged journalists to investigate the networks and vulnerabilities that enable…",
       "categories": [
-        "Business",
-        "Economy",
-        "HP News 6",
         "National",
-        "News",
-        "IMF delegation",
-        "recovery efforts",
-        "Tema Oil Refinery (TOR)"
+        "Drug trafficking networks",
+        "Journalists",
+        "NACOC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2342.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-18.25.57.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "TOR eyes stock market listing as it tackles $517m debt",
-      "link": "https://www.myjoyonline.com/tor-eyes-stock-market-listing-as-it-tackles-517m-debt/",
+      "title": "JoyNews’ Nana Boakye Yiadom wins Community Impact Journalism Award; two others at Ashanti GJA Awards",
+      "link": "https://www.myjoyonline.com/joynews-nana-boakye-yiadom-wins-community-impact-journalism-award-two-others-at-ashanti-gja-awards/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T16:38:42.000Z",
-      "summary": "The Tema Oil Refinery (TOR) is considering a listing on the Ghana Stock Exchange as management seeks fresh investment while pursuing the restructuring of an inherited debt burden of…",
+      "published": "2026-10-25T18:25:00.000Z",
+      "summary": "JoyNews journalist Nana Boakye Dankwah Yiadom has won the Best in Community Impact Journalism award at the 2025 Ashanti Regional Ghana Journalists Association (GJA) Awards, alongside two…",
       "categories": [
-        "Energy",
-        "HP News 7",
-        "National",
-        "IMF",
-        "Stock market listing",
-        "Tema Oil Refinery (TOR)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2356-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Isak scores again as Liverpool beat Brighton",
-      "link": "https://www.myjoyonline.com/isak-scores-again-as-liverpool-beat-brighton/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T16:20:24.000Z",
-      "summary": "Liverpool recorded their first home Premier League win of the season thanks to an impressive performance against in-form Brighton. Two goals in a four-minute first half spell – an own goal…",
-      "categories": [
-        "Football",
-        "Liverpool",
-        "Premier League"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Isak.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bournemouth beat Man Utd to increase pressure on Carrick",
-      "link": "https://www.myjoyonline.com/bournemouth-beat-man-utd-to-increase-pressure-on-carrick/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T16:16:52.000Z",
-      "summary": "The pressure on Manchester United manager Michael Carrick was upped a further notch by another insipid performance as they slumped to a 3-0 home defeat by Bournemouth. The Cherries were…",
-      "categories": [
-        "Football",
-        "HP News 8",
-        "News",
-        "Bournemouth",
-        "Manchester United",
-        "Premier League"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Rayan.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nii Ashie Moore urges NDC unity for 2028 after constituency elections",
-      "link": "https://www.myjoyonline.com/nii-ashie-moore-urges-ndc-unity-for-2028-after-constituency-elections/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T15:37:59.000Z",
-      "summary": "The Greater Accra Regional Chairman of the National Democratic Congress (NDC), Emmanuel Nii Ashie Moore, has urged party members to put their differences aside and unite behind the party…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Politics",
-        "NDC",
-        "Nii Ashie Moore"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-87-700x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Several NDC incumbents fall in Techiman South constituency election, including chairman",
-      "link": "https://www.myjoyonline.com/several-ndc-incumbents-fall-in-techiman-south-constituency-election-including-chairman/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T15:25:00.000Z",
-      "summary": "Several incumbent executives of the National Democratic Congress (NDC) in Techiman South have lost their positions in the party’s constituency elections, led by chairman Saliu Alhaji Nuhu…",
-      "categories": [
-        "HP News 3",
-        "Politics",
+        "Events",
         "Regional",
-        "NDC executives",
-        "New Chairman",
-        "Techiman SOUTH"
+        "Ashanti GJA Awards",
+        "Community impact",
+        "JoyNews"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/99bfabec-9659-4037-b2ec-50f9671b3c7c-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-09.26.14-1-696x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Include private universities in national funding plans — Catholic University VC tells gov’t",
-      "link": "https://www.myjoyonline.com/include-private-universities-in-national-funding-plans-catholic-university-vc-tells-govt/",
+      "title": "MMDAs directed to maintain Nissan Patrol vehicles for Traditional Councils",
+      "link": "https://www.myjoyonline.com/mmdas-directed-to-maintain-nissan-patrol-vehicles-for-traditional-councils/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T15:04:16.000Z",
-      "summary": "The Vice-Chancellor of the Catholic University of Ghana (CUG), Prof. Matthew Glover Addo, has urged the government to establish a dedicated fund to support private universities, warning…",
+      "published": "2026-10-25T18:21:33.000Z",
+      "summary": "The Ministry of Local Government, Chieftaincy and Religious Affairs has directed Metropolitan, Municipal and District Assemblies (MMDAs) in possession of Nissan Patrol four-wheel-drive…",
       "categories": [
-        "Education",
-        "HP News 2",
         "National",
-        "News",
-        "Top Story",
-        "National funding",
-        "private universities"
+        "MMDAs",
+        "Nissan Patrol"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f0e01c1b-b185-4fc8-b169-b7d187e946f6-1024x596.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-Ayariga.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bright Simons proposes $13m civil service AI assistant as alternative to Ghana’s $270m GhanaChat plan",
+      "link": "https://www.myjoyonline.com/bright-simons-proposes-13m-civil-service-ai-assistant-as-alternative-to-ghanas-270m-ghanachat-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T18:18:55.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons has proposed a cheaper alternative to Ghana’s planned US$270 million GhanaChat project…",
+      "categories": [
+        "National",
+        "Technology",
+        "AI assistant",
+        "Bright Simons",
+        "Ghanachat"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3-2.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GhanaChat data centre could require $61m annual subsidy – Bright Simons",
+      "link": "https://www.myjoyonline.com/ghanachat-data-centre-could-require-61m-annual-subsidy-bright-simons/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T18:14:42.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons has questioned the financial viability of Ghana’s proposed US$270 million artificial…",
+      "categories": [
+        "National",
+        "Technology",
+        "AI",
+        "annual subsidu",
+        "Bright Simons",
+        "Ghanachat"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bright-Simons-696x375-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bright Simons flags computing capacity error in Ghana’s AI strategy and questions GhanaChat costs",
+      "link": "https://www.myjoyonline.com/bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-questions-ghanachat-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T18:07:13.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons, has raised concerns about Ghana’s national artificial intelligence (AI) strategy, pointing…",
+      "categories": [
+        "National",
+        "Technology",
+        "AI strategy",
+        "Bright Simons",
+        "computing capacity",
+        "Ghanachat"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ho Assembly Presiding Member elected NDC Constituency Chairman",
+      "link": "https://www.graphic.com.gh/news/politics/ho-assembly-presiding-member-elected-ndc-constituency-chairman.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-25T18:05:08.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/ndeece266.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GPL 2026/27: Asante Kotoko fight back to hold AshantiGold in derby",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-asante-kotoko-fight-back-to-hold-ashantigold-in-derby/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T17:36:19.000Z",
+      "summary": "Asante Kotoko came from behind to earn a 1-1 draw against FC AshantiGold 04 at the Len Clay Stadium in Obuasi in the Ghana Premier League. Kotoko travelled to Obuasi seeking consecutive…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Asante Kotoko",
+        "AshantiGold",
+        "Haruna Mubarak"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HVfQ6gcWUAEJM7E-899x1024.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -300,18 +305,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/08/afua26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bawumia consults Pharmacy Society of Ghana",
-      "link": "https://www.graphic.com.gh/news/politics/bawumia-consults-pharmacy-society-of-ghana.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-24T16:19:57.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/24/pharmacy1.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {

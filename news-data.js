@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-25T17:15:30.433Z",
-  "worldAt": "2026-10-25T17:15:30.431Z",
+  "updated": "2026-10-25T19:41:14.117Z",
+  "worldAt": "2026-10-25T19:41:14.115Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,9 +26,9 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
@@ -43,9 +43,30 @@ window.GDC_NEWS = {
     "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 6 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 23 African stories held"
+    "world lists: 40 world, 22 African stories held"
   ],
   "items": [
+    {
+      "title": "Bright Simons proposes $13m civil service AI assistant as alternative to Ghana’s $270m GhanaChat plan",
+      "link": "https://www.myjoyonline.com/bright-simons-proposes-13m-civil-service-ai-assistant-as-alternative-to-ghanas-270m-ghanachat-plan/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T18:18:55.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons has proposed a cheaper alternative to Ghana’s planned US$270 million GhanaChat project…"
+    },
+    {
+      "title": "GhanaChat data centre could require $61m annual subsidy – Bright Simons",
+      "link": "https://www.myjoyonline.com/ghanachat-data-centre-could-require-61m-annual-subsidy-bright-simons/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T18:14:42.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons has questioned the financial viability of Ghana’s proposed US$270 million artificial…"
+    },
+    {
+      "title": "Bright Simons flags computing capacity error in Ghana’s AI strategy and questions GhanaChat costs",
+      "link": "https://www.myjoyonline.com/bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-questions-ghanachat-costs/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T18:07:13.000Z",
+      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons, has raised concerns about Ghana’s national artificial intelligence (AI) strategy, pointing…"
+    },
     {
       "title": "IMF delegation assesses TOR’s rehabilitation and financial recovery efforts",
       "link": "https://www.myjoyonline.com/imf-delegation-assesses-tors-rehabilitation-and-financial-recovery-efforts/",
@@ -1074,30 +1095,91 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-21T17:06:25.000Z",
       "summary": "The government has assured mineworkers that no employee should suffer a reduction in wages, benefits or conditions of service as mining companies transition from owner mining to contract…"
-    },
-    {
-      "title": "Government sets November 30 deadline for safeguards under contract mining policy",
-      "link": "https://www.myjoyonline.com/government-sets-november-30-deadline-for-safeguards-under-contract-mining-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T16:58:20.000Z",
-      "summary": "The government has set November 30, 2026, as the deadline for the Minerals Commission to complete processes required to implement additional safeguards under Ghana’s contract mining policy."
-    },
-    {
-      "title": "NPA seeks complete overhaul of Petroleum Authority Act 691 to address sector challenges",
-      "link": "https://www.myjoyonline.com/npa-seeks-complete-overhaul-of-petroleum-authority-act-691-to-address-sector-challenges/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T16:01:08.000Z",
-      "summary": "The National Petroleum Authority (NPA) is calling for a complete overhaul of its governing law, saying the 20-year-old legislation no longer adequately addresses the evolving challenges in…"
-    },
-    {
-      "title": "Accra Mall takes shopping to next level with exciting rewards campaign this October",
-      "link": "https://www.myjoyonline.com/accra-mall-takes-shopping-to-next-level-with-exciting-rewards-campaign-this-october/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T15:35:00.000Z",
-      "summary": "Accra Mall is giving shoppers more reasons to visit this month with its Level Up campaign, running from now to October 31."
     }
   ],
   "world": [
+    {
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T19:14:27.000Z",
+      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
+    },
+    {
+      "title": "Le Pen’s ‘Renaissance’: 4th time lucky?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
+      "source": "France 24",
+      "published": "2026-10-25T19:05:19.000Z",
+      "summary": "Just before half past four, Marine Le Pen took to the stage under the stadium strobe lights at the Zénith Arena in Orléans. The radical-right leader, whom analysts say is on the doorstep of…",
+      "image": "https://s.france24.com/media/display/fb7fc8d0-d0a4-11f1-b748-5b4a75578ebb/w:1024/p:16x9/WhatsApp-Image-2026-10-25-at-19-49-16.jpeg"
+    },
+    {
+      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+      "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:55:39.000Z",
+      "summary": "The Nobel laureate's homecoming follows national protests demanding free elections."
+    },
+    {
+      "title": "Lula's Legacy, Flavio's Future?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261025-lula-s-legacy-flavio-s-future",
+      "source": "France 24",
+      "published": "2026-10-25T19:00:19.000Z",
+      "summary": "A coin-flip election in Brazil, with little separating the country's left-wing President, Lula, and his right-wing rival, Flávio Bolsonaro. The results of the run-off vote will become clear…",
+      "image": "https://s.france24.com/media/display/edc50934-d0a5-11f1-89fc-5b4a75578ebb/w:1024/p:16x9/WhatsApp-Image-2026-10-25-at-19-49-17-1.jpeg"
+    },
+    {
+      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:34:19.000Z",
+      "summary": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London."
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T18:29:00.000Z",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:27:53.000Z",
+      "summary": "Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games."
+    },
+    {
+      "title": "France: Football fans take over Paris as NFL comes to country for the first time",
+      "link": "https://www.france24.com/en/video/20261025-france-football-fans-take-over-paris-as-nfl-comes-to-country-for-the-first-time",
+      "source": "France 24",
+      "published": "2026-10-25T18:01:41.000Z",
+      "summary": "Paris's iconic Stade de France made history on Sunday, October 25, by hosting the first #NFL regular season game to ever be held in France. For this unprecedented match between the Saints…",
+      "image": "https://s.france24.com/media/display/ec57181a-d09d-11f1-af62-5b4a75578ebb/w:1024/p:16x9/Thumbnail-EN-1.jpg"
+    },
+    {
+      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:20:26.000Z",
+      "summary": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda."
+    },
+    {
+      "title": "Brazil: long queues and river journeys mark decisive presidential vote",
+      "link": "http://www.africanews.com/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote/",
+      "source": "Africanews",
+      "published": "2026-10-25T17:49:14.000Z",
+      "summary": "Brazilians headed to the polls on Sunday to choose between Lula and Flávio Bolsonaro. From canoe journeys in the Amazon to long queues in Rio and a Lula doll in Brasília, voters turned out…"
+    },
+    {
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:12:13.000Z",
+      "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City."
+    },
     {
       "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
       "link": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
@@ -1107,11 +1189,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/47c1def6-d094-11f1-bf55-4d317af013fd/w:1024/p:16x9/EN-20261025-171255-172709-CS.jpg"
     },
     {
-      "title": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
-      "link": "http://www.africanews.com/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival/",
-      "source": "Africanews",
-      "published": "2026-10-25T16:52:30.000Z",
-      "summary": "Over 1,400 sheep and goats took over Madrid's streets on Sunday, delighting spectators at the 33rd annual Transhumance Festival, which followed a different route this year to avoid a…"
+      "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:05:14.000Z",
+      "summary": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress."
     },
     {
       "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
@@ -1122,11 +1204,25 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a71cd552-d096-11f1-a147-4d317af013fd/w:1024/p:16x9/000-D4DM8NQ-1.jpg"
     },
     {
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazil beef imports",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
+      "title": "US and Israel elections: New leaders, same policies?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T16:42:33.000Z",
-      "summary": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty."
+      "published": "2026-10-25T17:53:23.000Z",
+      "summary": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues."
+    },
+    {
+      "title": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
+      "link": "http://www.africanews.com/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival/",
+      "source": "Africanews",
+      "published": "2026-10-25T16:52:30.000Z",
+      "summary": "Over 1,400 sheep and goats took over Madrid's streets on Sunday, delighting spectators at the 33rd annual Transhumance Festival, which followed a different route this year to avoid a…"
+    },
+    {
+      "title": "Can protests in Europe bring about change?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T17:39:42.000Z",
+      "summary": "People have been taking to the streets to demand action."
     },
     {
       "title": "French far-right leader Le Pen kicks off presidential campaign",
@@ -1137,11 +1233,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c855b27a-d091-11f1-be1a-4d317af013fd/w:1024/p:16x9/EN-20261025-170928-171254-CS.jpg"
     },
     {
-      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+      "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T16:30:51.000Z",
-      "summary": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right."
+      "published": "2026-10-25T17:26:22.000Z",
+      "summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind."
     },
     {
       "title": "France: 1.314 arrested during protests across the country",
@@ -1152,11 +1248,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7638bc76-d091-11f1-b532-bdb9616e85cf/w:1024/p:16x9/EN-20261025-160438-160623-CS.jpg"
     },
     {
-      "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
+      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T16:30:00.000Z",
-      "summary": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game."
+      "published": "2026-10-25T17:12:59.000Z",
+      "summary": "Jerusalem Daily: Israel expels thousands from Hebron"
     },
     {
       "title": "Midterms: Obama campaigns for Democrats, slams Trump",
@@ -1167,12 +1263,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f03eb826-d088-11f1-ae10-4b25c96ec90e/w:1024/p:16x9/OBAMA-EN.jpg"
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-25T16:21:40.000Z",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
+      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
+      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T16:42:33.000Z",
+      "summary": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty."
     },
     {
       "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
@@ -1183,11 +1278,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8127x5418+0+0/resize/8127x5418!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fe3%2F62c605ef41b1a3e06cbf2c0635ef%2Fap26295737413336.jpg"
     },
     {
-      "title": "Jordanians mourn victims of deadly church attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T16:16:48.000Z",
-      "summary": "Jordanians mourn victims of deadly church attack"
+      "published": "2026-10-25T16:30:51.000Z",
+      "summary": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right."
     },
     {
       "title": "Protein shakes for teenagers: Good or bad idea?",
@@ -1197,11 +1292,11 @@ window.GDC_NEWS = {
       "summary": "Protein products are marketed as a way of building muscle and losing weight — and they're very popular with young people. They also claim to promote healthy growth in children. Is this…"
     },
     {
-      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+      "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T16:11:37.000Z",
-      "summary": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader."
+      "published": "2026-10-25T16:30:00.000Z",
+      "summary": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game."
     },
     {
       "title": "Early reports suggest record high turnout in Serbia elections",
@@ -1212,6 +1307,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"
     },
     {
+      "title": "Jordanians mourn victims of deadly church attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T16:16:48.000Z",
+      "summary": "Jordanians mourn victims of deadly church attack"
+    },
+    {
       "title": "Israelis have changed. Will they change their leadership?",
       "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
       "source": "NPR World",
@@ -1220,11 +1322,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x3338+0+0/resize/5007x3338!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg"
     },
     {
-      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T15:40:25.000Z",
-      "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City."
+      "published": "2026-10-25T16:11:37.000Z",
+      "summary": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader."
     },
     {
       "title": "Gabon restores social media access after an eight-month ban",
@@ -1234,11 +1336,11 @@ window.GDC_NEWS = {
       "summary": "The media regulator pulled the plug on social networks in February blaming content posted online for stoking conflict and division in society."
     },
     {
-      "title": "UN official warns AI could ‘deepen’ global inequality",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+      "title": "Eight killed in Gaza as Israel targets university campus and other sites",
+      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T15:38:52.000Z",
-      "summary": "UN official warns AI could ‘deepen’ global inequality"
+      "published": "2026-10-25T15:40:25.000Z",
+      "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City."
     },
     {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
@@ -1249,11 +1351,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg"
     },
     {
-      "title": "Thousands mourn victims of deadly Jordan church attack",
-      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
+      "title": "UN official warns AI could ‘deepen’ global inequality",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T15:21:26.000Z",
-      "summary": "Jordan's prime minister represents king at funeral for eight of the church attack victims as hunt for gunmen continues."
+      "published": "2026-10-25T15:38:52.000Z",
+      "summary": "UN official warns AI could ‘deepen’ global inequality"
     },
     {
       "title": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
@@ -1264,11 +1366,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/4821683a-d094-11f1-ab22-4d317af013fd/w:1024/p:16x9/AP26298602550298.jpg"
     },
     {
-      "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
-      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
+      "title": "Thousands mourn victims of deadly Jordan church attack",
+      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T14:54:53.000Z",
-      "summary": "A young woman is abducted, shot twice, and blown up in the jungle. Who wanted Altantuya dead – and who covered it up?"
+      "published": "2026-10-25T15:21:26.000Z",
+      "summary": "Jordan's prime minister represents king at funeral for eight of the church attack victims as hunt for gunmen continues."
     },
     {
       "title": "France: 110.000 protesters in Paris",
@@ -1279,11 +1381,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b799d560-d07d-11f1-abd8-bdb9616e85cf/w:1024/p:16x9/EN-20261024-180607-181821-CS.jpg"
     },
     {
-      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+      "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
+      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T14:47:55.000Z",
-      "summary": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran."
+      "published": "2026-10-25T14:54:53.000Z",
+      "summary": "A young woman is abducted, shot twice, and blown up in the jungle. Who wanted Altantuya dead – and who covered it up?"
     },
     {
       "title": "Gabon says access to social media restored after eight-month ban",
@@ -1292,111 +1394,24 @@ window.GDC_NEWS = {
       "published": "2026-10-25T14:39:47.000Z",
       "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-      "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T14:46:38.000Z",
-      "summary": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers."
-    },
-    {
-      "title": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
-      "link": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/",
-      "source": "Africanews",
-      "published": "2026-10-25T14:35:41.000Z",
-      "summary": "The announcement comes after a two-week suspension of operations following strikes from Yemen's Houthis on the Saudi capital."
-    },
-    {
-      "title": "Calais, 10 years after the Jungle: Migrants still risk the Channel crossing",
-      "link": "https://www.france24.com/en/video/20261025-calais-10-years-after-the-jungle-migrants-still-risk-the-channel-crossing",
-      "source": "France 24",
-      "published": "2026-10-25T14:17:32.000Z",
-      "summary": "Ten years ago, in 2016, thousands of #migrants lived in what was known as the “Great #Jungle”, a vast camp on the outskirts of #Calais. It took the authorities seven days to dismantle it…",
-      "image": "https://s.france24.com/media/display/9ae9a830-d084-11f1-9697-4b25c96ec90e/w:1024/p:16x9/Screenshot-2026-10-25-alle-15-58-03.png"
-    },
-    {
-      "title": "Gaza content creator tells Al Jazeera how much her award win means",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T14:16:06.000Z",
-      "summary": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means"
-    },
-    {
-      "title": "Iranian president blames United States for failure of interim peace deal",
-      "link": "http://www.africanews.com/2026/10/25/iranian-president-blames-united-states-for-failure-of-interim-peace-deal/",
-      "source": "Africanews",
-      "published": "2026-10-25T13:55:33.000Z",
-      "summary": "Masoud Pezeshkian emphasised, however, that a new attempt should be made to reach an agreement to end the war with the US and Israel."
-    },
-    {
-      "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
-      "link": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T14:11:29.000Z",
-      "summary": "Bangladesh expected to surpass India's per capita GDP this year, but that's not the complete economic picture."
-    },
-    {
-      "title": "Presidential runoff under way in Brazil",
-      "link": "https://www.france24.com/en/presidential-runoff-under-way-in-brazil",
-      "source": "France 24",
-      "published": "2026-10-25T13:52:44.000Z",
-      "summary": "Brazil is also heading to the polls today for a run-off vote that will decide who leads the country. The race is on a knife edge between incumbent left-wing President Luiz Inácio Lula da…",
-      "image": "https://s.france24.com/media/display/8da640e8-d07a-11f1-9394-5b4a75578ebb/w:1024/p:16x9/EN-20261025-140536-140901-CS.jpg"
-    },
-    {
-      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-      "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T14:03:17.000Z",
-      "summary": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining."
-    },
-    {
-      "title": "Le Pen leads polls with up to 38% six months before election",
-      "link": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
-      "source": "France 24",
-      "published": "2026-10-25T13:51:14.000Z",
-      "summary": "The day after the first day of the National Rally congress in Orléans, in central France, passed without any major incidents, Marine Le Pen is due to deliver her first major campaign speech…",
-      "image": "https://s.france24.com/media/display/d60c29ce-d07a-11f1-9881-4d317af013fd/w:1024/p:16x9/AP26297524255923.jpg"
-    },
-    {
-      "title": "Saudi air defences intercept Houthi barrage near Mecca",
-      "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T13:49:33.000Z",
-      "summary": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz."
-    },
-    {
-      "title": "France: Le Pen launches presidential campaign in Orleans",
-      "link": "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans",
-      "source": "France 24",
-      "published": "2026-10-25T13:46:08.000Z",
-      "summary": "Far-right leader Marine Le Pen is launching her presidential campaign today. The National Rally candidate is due to deliver her first campaign speech in Orléans, addressing around 10,000…",
-      "image": "https://s.france24.com/media/display/53eb1ff0-d079-11f1-9876-4b25c96ec90e/w:1024/p:16x9/EN-20261025-130201-130355-CS.jpg"
-    },
-    {
-      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-      "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T13:46:51.000Z",
-      "summary": "Children in Gaza with auditory and visual challenges often have no access to specialist education."
-    },
-    {
-      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-25T13:41:00.000Z",
-      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection."
-    },
-    {
-      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T13:40:10.000Z",
-      "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign."
     }
   ],
   "africa": [
+    {
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-25T19:14:27.000Z",
+      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
+    },
+    {
+      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:20:26.000Z",
+      "summary": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda."
+    },
     {
       "title": "Gabon restores social media access after an eight-month ban",
       "link": "http://www.africanews.com/2026/10/25/gabon-restores-social-media-access-after-an-eight-month-ban/",
@@ -1477,14 +1492,6 @@ window.GDC_NEWS = {
       "summary": "People across northeastern Nigeria continue searching for loved ones who went missing during years of violence."
     },
     {
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-25T03:20:16.000Z",
-      "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
-    },
-    {
       "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
       "link": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-africa-8291-rdf",
       "source": "Deutsche Welle",
@@ -1548,20 +1555,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-24T08:38:44.000Z",
       "summary": "A clinical trial for a new Ebola vaccine is getting underway in DR Congo’s Ituri province. The TUMAini trial will evaluate candidate vaccines against the Bundibugyo strain of the virus."
-    },
-    {
-      "title": "Police dispel crowds with tear gas after 16-storey building collapses in Nairobi",
-      "link": "http://www.africanews.com/2026/10/24/16-storey-building-collapses-in-nairobi-many-fear-trapped-in-rubble/",
-      "source": "Africanews",
-      "published": "2026-10-24T07:29:49.000Z",
-      "summary": "Police used tear gas to dispel looters and crowds of onlookers after a high-rise building in Kenya’s capital Nairobi collapsed while under construction."
-    },
-    {
-      "title": "CAR: Former hostages greeted by President Touadéra on return to Bangui",
-      "link": "http://www.africanews.com/2026/10/24/car-former-hostages-greeted-by-president-touadera-on-return-to-bangui/",
-      "source": "Africanews",
-      "published": "2026-10-24T07:25:38.000Z",
-      "summary": "In Central African Republic, three hostages released this week after 10 months in captivity arrived in Bangui aboard a special UN flight. A local government official and two members of the…"
     }
   ]
 };
