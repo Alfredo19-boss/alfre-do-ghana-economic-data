@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-25T00:02:51.739Z",
+  "updated": "2026-10-25T04:29:20.365Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,110 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.myjoyonline.com/almost-1000-arrested-as-clashes-follow-another-day-of-mass-protests-across-france/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T03:41:41.000Z",
+      "summary": "Nearly 1,000 arrests were made as hundreds of thousands of people took part in another day of protests across France which were followed by some clashes late on Saturday, officials have…",
+      "categories": [
+        "International",
+        "Arrests",
+        "Clashes",
+        "France",
+        "Mass protests",
+        "rioting"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/051d7e50-cfe7-11f1-808d-1d32ac5cbb5b.jpg-1024x576.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tinubu blames opposition for hunger, poverty in Nigeria; Atiku kicks, says president delusional",
+      "link": "https://www.myjoyonline.com/tinubu-blames-opposition-for-hunger-poverty-in-nigeria-atiku-kicks-says-president-delusional/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T03:30:35.000Z",
+      "summary": "President Bola Tinubu has accused opposition politicians of causing the hunger and poverty Nigerians are experiencing, insisting that his administration is working to address the problems…",
+      "categories": [
+        "Africa",
+        "HP News 5",
+        "APC",
+        "Nigeria elections",
+        "Tinubu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-9.37.42-PM-1024x682.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "link": "https://www.myjoyonline.com/obama-attacks-trump-as-he-campaigns-for-democrats-ahead-of-midterm-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T03:19:10.000Z",
+      "summary": "Former President Barack Obama has attacked the Trump administration over the Iran war and high consumer prices as he hit the campaign trail for Democrats ahead of the US midterm elections…",
+      "categories": [
+        "HP News 10",
+        "International",
+        "Campaign",
+        "Democrats",
+        "Elections",
+        "Obama",
+        "Trump"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-03.17.56-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Luv FM journalists sweep top honours at GJA Ashanti Regional Media Excellence Awards",
+      "link": "https://www.myjoyonline.com/luv-fm-journalists-sweep-top-honours-at-gja-ashanti-regional-media-excellence-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T02:59:00.000Z",
+      "summary": "Journalists from Luv FM, a subsidiary of the Multimedia Group Limited, have won multiple awards at the 2025 Ghana Journalists Association (GJA) Ashanti Regional Media Excellence Awards…",
+      "categories": [
+        "Events",
+        "Regional",
+        "Top Story",
+        "GJA",
+        "Luv FM",
+        "media excellence awards"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-01.53.47.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Multimedia’s Emmanuel Bright Quaicoe wins 2025 GJA Ashanti Regional Journalist of the Year award",
+      "link": "https://www.myjoyonline.com/multimedias-emmanuel-bright-quaicoe-wins-2025-gja-ashanti-regional-journalist-of-the-year-award/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T02:53:41.000Z",
+      "summary": "Luv FM journalist, Emmanuel Bright Quaicoe, has been crowned the 2025 Ghana Journalists Association (GJA) Ashanti Regional Journalist of the Year, the highest individual honour at the…",
+      "categories": [
+        "Events",
+        "HP News 1",
+        "Radio & TV",
+        "Regional",
+        "Emmanuel Bright Quaicoe",
+        "GJA",
+        "Journalist of the Year",
+        "Multimedia"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-00.04.18-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gizela Tetteh-Agbotui confident NDC will retain Awutu Senya West parliamentary seat",
+      "link": "https://www.myjoyonline.com/gizela-tetteh-agbotui-confident-ndc-will-retain-awutu-senya-west-parliamentary-seat/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T00:04:23.000Z",
+      "summary": "The Member of Parliament for Awutu Senya West, Gizela Tetteh-Agbotui, says she is confident the National Democratic Congress (NDC) will retain the constituency in the next general election…",
+      "categories": [
+        "HP News 3",
+        "Politics",
+        "Regional",
+        "Awutu Senya",
+        "NDC",
+        "Parliamentary seat"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Agbotui-750x375-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "All 24 NDC constituency executive positions in Juaboso go unopposed",
       "link": "https://www.myjoyonline.com/all-24-ndc-constituency-executive-positions-in-juaboso-go-unopposed/",
@@ -57,66 +161,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gender Minister calls for stronger Canada–Africa ties to boost women’s economic opportunities",
-      "link": "https://www.myjoyonline.com/gender-minister-calls-for-stronger-canada-africa-ties-to-boost-womens-economic-opportunities/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T21:11:56.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has called for stronger cooperation between Canada and African countries to improve women’s access to…",
-      "categories": [
-        "Africa",
-        "National",
-        "Canada-Africa ties",
-        "Dr Agnes Naa Momo Lartey",
-        "Gender Ministry"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_6353-683x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama links Africa’s conflicts to struggle over natural resources",
-      "link": "https://www.myjoyonline.com/mahama-links-africas-conflicts-to-struggle-over-natural-resources/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T20:01:27.000Z",
-      "summary": "President John Mahama says the struggle for control of Africa’s natural resources and the profits from their extraction are central to the continent’s security crises, warning that powerful…",
-      "categories": [
-        "Africa",
-        "National",
-        "President John Maham"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-2-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CAGG demands retraction, apology from GoldBod CEO over alleged illegal mining remarks",
-      "link": "https://www.myjoyonline.com/cagg-demands-retraction-apology-from-goldbod-ceo-over-alleged-illegal-mining-remarks/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T19:54:49.000Z",
-      "summary": "The Ghana Coalition Against Galamsey (CAGG) has called on the Office of the Attorney-General to investigate the Chief Executive Officer of the Ghana Gold Board (GoldBod) over statements it…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Galamsey",
-        "Mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-883-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢10,000 injection: Assafuah boosts Black Challenge’s World Cup campaign",
-      "link": "https://www.myjoyonline.com/gh%c2%a210000-injection-assafuah-boosts-black-challenges-world-cup-campaign/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T19:27:43.000Z",
-      "summary": "Mr Assafuah made the donation during a visit to the team at their hotel in Achimota, Accra, where he also presented cartons of water and soft drinks to support the players.",
-      "categories": [
-        "Football",
-        "Sports",
-        "2026 WAFF Amputee Football World Cup",
-        "Vincent Ekow Assafuah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-17.01.15-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: Sekondi fisherman narrates how they survived days missing at sea with no food",
       "link": "https://www.graphic.com.gh/news/general-news/video-sekondi-fisherman-narrates-how-they-survived-seven-days-missing-at-sea-with-no-food.html",
       "source": "Daily Graphic",
@@ -127,35 +171,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/24/fisher.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nayi Alhassan retains NDC Tema North chairmanship as Salman Faris wins secretary",
-      "link": "https://www.myjoyonline.com/nayi-alhassan-retains-ndc-tema-north-chairmanship-as-salman-faris-wins-secretary/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T18:28:52.000Z",
-      "summary": "Nayi Alhassan, popularly known as Ngbagu, has retained his position as National Democratic Congress (NDC) chairman for the Tamale North Constituency after securing 518 votes in the party’s…",
-      "categories": [
-        "HP News 4",
-        "Politics",
-        "NDC",
-        "Ngagu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2327.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ellen White Foundation brings free breast cancer screening to Bono East police women",
-      "link": "https://www.myjoyonline.com/ellen-white-foundation-brings-free-breast-cancer-screening-to-bono-east-police-women/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T18:19:01.000Z",
-      "summary": "In a heartwarming display of commitment to women's health, the Ellen White Sustainable Foundation, in partnership with the Awat Foundation and the Police Ladies Association, has provided…",
-      "categories": [
-        "Health",
-        "Breast cancer",
-        "Screening"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-8.44.14-AM1-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "'Surprised and disappointed' GTA CEO Maame Efua Houadjeto responds to Abeiku Santana's petition",

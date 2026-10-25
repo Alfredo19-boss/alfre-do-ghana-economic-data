@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-25T00:02:38.207Z",
-  "worldAt": "2026-10-25T00:02:38.204Z",
+  "updated": "2026-10-25T04:29:05.803Z",
+  "worldAt": "2026-10-25T04:29:05.800Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -38,10 +38,10 @@ window.GDC_NEWS = {
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
-    "Africa · AllAfrica Business: 33 stories",
+    "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 29 stories",
     "Africa · BBC Africa: 33 stories",
-    "Africa · Deutsche Welle: 6 stories",
+    "Africa · Deutsche Welle: 7 stories",
     "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
@@ -1099,11 +1099,19 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T04:16:52.000Z",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
+    },
+    {
+      "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T23:08:16.000Z",
-      "summary": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky."
+      "published": "2026-10-25T04:06:28.000Z",
+      "summary": "Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms."
     },
     {
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
@@ -1114,11 +1122,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg"
     },
     {
-      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+      "link": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T22:35:45.000Z",
-      "summary": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State."
+      "published": "2026-10-25T03:57:13.000Z",
+      "summary": "The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024."
     },
     {
       "title": "Who are the candidates in Brazil's presidential election?",
@@ -1129,11 +1137,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "How have Democrats’ policies shifted since the last major US election?",
-      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T22:28:37.000Z",
-      "summary": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues."
+      "published": "2026-10-25T03:47:56.000Z",
+      "summary": "Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media."
     },
     {
       "title": "Protests roil France once again as police seek to quell violence",
@@ -1143,11 +1151,11 @@ window.GDC_NEWS = {
       "summary": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's…"
     },
     {
-      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T21:39:29.000Z",
-      "summary": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right."
+      "published": "2026-10-25T03:40:52.000Z",
+      "summary": "Barcelona vs Real Madrid will mark the return of Spanish football's fiercest rivalry between two star-studded teams."
     },
     {
       "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
@@ -1157,26 +1165,11 @@ window.GDC_NEWS = {
       "summary": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is…"
     },
     {
-      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T21:36:23.000Z",
-      "summary": "Brazil’s candidates hold final rallies before knife-edge run off"
-    },
-    {
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-24T21:09:27.000Z",
-      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
-    },
-    {
-      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T21:30:11.000Z",
-      "summary": "Tehran warns that even limited strikes would trigger a response 'several times greater'."
+      "published": "2026-10-25T02:45:43.000Z",
+      "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly."
     },
     {
       "title": "'The marches went well' – French government on demonstrations a week after looting and violence",
@@ -1187,26 +1180,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9b2132ac-cfe7-11f1-b4e6-4b25c96ec90e/w:1024/p:16x9/AP26297483587746.jpg"
     },
     {
-      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-      "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T21:08:51.000Z",
-      "summary": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base."
+      "published": "2026-10-25T02:07:29.000Z",
+      "summary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday."
     },
     {
       "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
       "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-24T19:37:35.000Z",
-      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Train slams into crane that collapsed onto railway line in Brazil",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+      "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T21:02:55.000Z",
-      "summary": "Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil."
+      "published": "2026-10-25T00:34:43.000Z",
+      "summary": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran."
     },
     {
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
@@ -1217,11 +1210,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg"
     },
     {
-      "title": "Severe hunger stalks people in Gaza as bakeries close down",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+      "title": "Violence breaks out across Europe after another day of protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T20:52:55.000Z",
-      "summary": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food."
+      "published": "2026-10-25T00:23:48.000Z",
+      "summary": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services."
     },
     {
       "title": "France: Watching the Post-Riot Protests",
@@ -1232,11 +1225,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6cf47c4c-cfd6-11f1-8f44-bba4eee3dc72/w:1024/p:16x9/MANIF-000-D4BK2PW.jpg"
     },
     {
-      "title": "Violent clashes as Albanian government cracks down on protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T20:39:08.000Z",
-      "summary": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests."
+      "published": "2026-10-25T00:00:00.000Z",
+      "summary": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran."
     },
     {
       "title": "“Witkoff should step down” says Ukraine Committee Chief",
@@ -1247,11 +1240,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/4dfa67ae-cfd9-11f1-8261-5b4a75578ebb/w:1024/p:16x9/WITKOFF-000-D3XU3NQ.jpg"
     },
     {
-      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T20:37:02.000Z",
-      "summary": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight."
+      "published": "2026-10-24T23:08:16.000Z",
+      "summary": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky."
     },
     {
       "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
@@ -1262,11 +1255,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/234bdf36-cfd6-11f1-80cc-bdb9616e85cf/w:1024/p:16x9/000-D4BH8JA.jpg"
     },
     {
-      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T20:03:29.000Z",
-      "summary": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years."
+      "published": "2026-10-24T22:35:45.000Z",
+      "summary": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State."
     },
     {
       "title": "Ukraine says Starlink is back to normal after disruptions",
@@ -1277,11 +1270,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7961x5307+0+0/resize/7961x5307!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F79%2F14a4a3fb4f37b1a0b1432ccf6fa9%2Fap26295629655124.jpg"
     },
     {
-      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T19:11:48.000Z",
-      "summary": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry."
+      "published": "2026-10-24T22:28:37.000Z",
+      "summary": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues."
     },
     {
       "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
@@ -1292,11 +1285,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/1192dd1a-cfd3-11f1-97a7-bdb9616e85cf/w:1024/p:16x9/King-Khalid-International-Airport.jpg"
     },
     {
-      "title": "Thousands join Paris protests as authorities clamp down on disorder",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T19:01:52.000Z",
-      "summary": "Thousands of protesters are on the streets of Paris for a second weekend."
+      "published": "2026-10-24T21:39:29.000Z",
+      "summary": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right."
     },
     {
       "title": "France: Clashes erupt as protests sweep across cities",
@@ -1307,11 +1300,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ad139170-cfd4-11f1-892a-bdb9616e85cf/w:1024/p:16x9/Clashes-1.jpg"
     },
     {
-      "title": "Thousands gather at new Albanian antigovernment rally",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T18:30:56.000Z",
-      "summary": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days."
+      "published": "2026-10-24T21:36:23.000Z",
+      "summary": "Brazil’s candidates hold final rallies before knife-edge run off"
     },
     {
       "title": "Two rescued after Nairobi building collapse with five still missing",
@@ -1322,11 +1315,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
     },
     {
-      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T18:00:20.000Z",
-      "summary": "Kim Jong Un crosses new bridge linking North Korea and China"
+      "published": "2026-10-24T21:30:11.000Z",
+      "summary": "Tehran warns that even limited strikes would trigger a response 'several times greater'."
     },
     {
       "title": "Israel begins demolitions in West Bank",
@@ -1337,12 +1330,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c6d1d9fc-cfbe-11f1-b89b-5b4a75578ebb/w:1024/p:16x9/EN-20261024-161247-161339-CS.jpg"
     },
     {
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-24T17:11:56.000Z",
-      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T21:08:51.000Z",
+      "summary": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base."
     },
     {
       "title": "Italy hit by new cost of living protests",
@@ -1353,11 +1345,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5cb75c7c-cfcd-11f1-9bf9-bdb9616e85cf/w:1024/p:16x9/EN-20261024-171053-171328-CS.jpg"
     },
     {
-      "title": "Trump says he may move White House press corps to new location",
-      "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+      "title": "Train slams into crane that collapsed onto railway line in Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T17:01:34.000Z",
-      "summary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him."
+      "published": "2026-10-24T21:02:55.000Z",
+      "summary": "Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil."
+    },
+    {
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-24T17:11:56.000Z",
+      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Severe hunger stalks people in Gaza as bakeries close down",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T20:52:55.000Z",
+      "summary": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food."
     },
     {
       "title": "Paris: 70.000 police officers deployed nationwide",
@@ -1368,11 +1375,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f782198c-cfbd-11f1-8ac9-4b25c96ec90e/w:1024/p:16x9/EN-20261024-160222-160523-CS.jpg"
     },
     {
-      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-      "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+      "title": "Violent clashes as Albanian government cracks down on protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T16:48:36.000Z",
-      "summary": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated."
+      "published": "2026-10-24T20:39:08.000Z",
+      "summary": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests."
     },
     {
       "title": "France: Protests continue while police fire tear gas at demonstrators",
@@ -1383,22 +1390,21 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/39636270-cfcd-11f1-9727-4b25c96ec90e/w:1024/p:16x9/EN-20261024-170450-170903-CS.jpg"
     },
     {
-      "title": "Serbian elections: A country where students may actually take power",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-24T16:36:44.000Z",
-      "summary": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival."
-    },
-    {
-      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-24T15:56:48.000Z",
-      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg"
+      "published": "2026-10-24T20:37:02.000Z",
+      "summary": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight."
     }
   ],
   "africa": [
+    {
+      "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
+      "link": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-24T23:49:00.000Z",
+      "summary": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous…"
+    },
     {
       "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
       "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
@@ -1654,13 +1660,6 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] The judge ruled that the statements \"failed to comply with sections 15(4) and 17(2) of the Administration of Criminal Justice Act.\""
     },
     {
-      "title": "South Africa's bilateral trade with China surges after zero-tariff deal",
-      "link": "http://www.africanews.com/2026/10/23/south-africas-bilateral-trade-with-china-surges-after-zero-tariff-deal/",
-      "source": "Africanews",
-      "published": "2026-10-23T15:13:46.000Z",
-      "summary": "Commerce between the two countries reached almost $15 billion from May through to August, representing a nearly 24 per cent year-on-year increase."
-    },
-    {
       "title": "Nigeria: Nigeria Vs North Korea - Five Players Who Could Decide World Cup Showdown",
       "link": "https://allafrica.com/stories/202610230530.html",
       "source": "AllAfrica",
@@ -1668,18 +1667,18 @@ window.GDC_NEWS = {
       "summary": "[Premium Times] With North Korea's attacking firepower posing a serious threat, Nigeria will have to be disciplined at the back while making their own opportunities count."
     },
     {
-      "title": "Nairobi building collapse raises safety concerns as rescuers search rubble",
-      "link": "http://www.africanews.com/2026/10/23/several-feared-trapped-as-multi-storey-building-collapses-in-nairobi/",
-      "source": "Africanews",
-      "published": "2026-10-23T14:59:03.000Z",
-      "summary": "Several people are feared trapped after a multi-storey building under construction collapsed in Kenya's capital, Nairobi, on Friday, October 23."
-    },
-    {
       "title": "Nigeria: Ebola - FG Orders Strict Screening At Nigeria's Entry Points",
       "link": "https://allafrica.com/stories/202610230516.html",
       "source": "AllAfrica",
       "published": "2026-10-23T17:05:59.000Z",
       "summary": "[Premium Times] The Ministry of Health says the directive follows concerns raised by the Office of the National Security Adviser over reported breaches of approved Ebola entry protocols."
+    },
+    {
+      "title": "Kenya: Nairobi Braces for Heavy Rains and Flash Floods",
+      "link": "https://allafrica.com/stories/202610230512.html",
+      "source": "AllAfrica",
+      "published": "2026-10-23T16:59:47.000Z",
+      "summary": "[Capital FM] Nairobi -- The Kenya Meteorological Department has warned of heavy rainfall, flash floods and strong winds in dozens of counties, with the heaviest downpours expected between…"
     }
   ]
 };
