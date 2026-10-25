@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-25T19:41:27.079Z",
+  "updated": "2026-10-25T22:03:51.989Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,113 +25,129 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Go Church Belgium documentary: What viewers were not told about two former Lighthouse bishops",
-      "link": "https://www.myjoyonline.com/go-church-belgium-documentary-what-viewers-were-not-told-about-two-former-lighthouse-bishops/",
+      "title": "Courage Babanawo Kwabla elected Ketu South constituency Deputy Youth Organiser",
+      "link": "https://www.myjoyonline.com/courage-babanawo-kwabla-elected-ketu-south-constituency-deputy-youth-organiser/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T18:52:22.000Z",
-      "summary": "The Belgian documentary investigating Go Church has raised serious allegations concerning Bishop Dag Heward-Mills and Lighthouse Chapel International. Those claims deserve examination. So…",
+      "published": "2026-10-25T21:54:19.000Z",
+      "summary": "A nurse, Courage Babanawo, has been elected as the Ketu South Constituency Deputy Youth Organiser for the National Democratic Congress. He recorded a convincing victory as his contender…",
       "categories": [
-        "Opinion",
-        "Belgium documentary",
-        "Go church",
-        "Lighthouse bishops"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-15-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC Director-General urges journalists to investigate drug trafficking networks in Ghana",
-      "link": "https://www.myjoyonline.com/nacoc-director-general-urges-journalists-to-investigate-drug-trafficking-networks-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T18:29:09.000Z",
-      "summary": "The Director-General of the Narcotics Control Commission (NACOC), Major General Maxwell Obuba Mantey, has challenged journalists to investigate the networks and vulnerabilities that enable…",
-      "categories": [
-        "National",
-        "Drug trafficking networks",
-        "Journalists",
-        "NACOC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-18.25.57.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JoyNews’ Nana Boakye Yiadom wins Community Impact Journalism Award; two others at Ashanti GJA Awards",
-      "link": "https://www.myjoyonline.com/joynews-nana-boakye-yiadom-wins-community-impact-journalism-award-two-others-at-ashanti-gja-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T18:25:00.000Z",
-      "summary": "JoyNews journalist Nana Boakye Dankwah Yiadom has won the Best in Community Impact Journalism award at the 2025 Ashanti Regional Ghana Journalists Association (GJA) Awards, alongside two…",
-      "categories": [
-        "Events",
+        "News",
+        "Politics",
         "Regional",
-        "Ashanti GJA Awards",
-        "Community impact",
-        "JoyNews"
+        "Courage Babanawo Kwabla",
+        "Ketu South Constituency",
+        "National Democratic Congress"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-25-at-09.26.14-1-696x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Courage-Babanawo-Kwabla-elected-Ketu-North-Deputy-Youth-Organiser-854x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MMDAs directed to maintain Nissan Patrol vehicles for Traditional Councils",
-      "link": "https://www.myjoyonline.com/mmdas-directed-to-maintain-nissan-patrol-vehicles-for-traditional-councils/",
+      "title": "MTN Yellow Ladies Network screens 500 market women for breast cancer",
+      "link": "https://www.myjoyonline.com/mtn-yellow-ladies-network-screens-500-market-women-for-breast-cancer/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T18:21:33.000Z",
-      "summary": "The Ministry of Local Government, Chieftaincy and Religious Affairs has directed Metropolitan, Municipal and District Assemblies (MMDAs) in possession of Nissan Patrol four-wheel-drive…",
+      "published": "2026-10-25T21:41:59.000Z",
+      "summary": "The Yellow Ladies Network, a non-profit organisation made up of female staff of MTN, has organised a free breast cancer screening for 500 women in Accra as part of activities to mark this…",
       "categories": [
-        "National",
-        "MMDAs",
-        "Nissan Patrol"
+        "Photo Story",
+        "Breast Cancer Awareness",
+        "Breast Care International",
+        "MTN Yellow ladies Network"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Mahama-Ayariga.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3034_2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bright Simons proposes $13m civil service AI assistant as alternative to Ghana’s $270m GhanaChat plan",
-      "link": "https://www.myjoyonline.com/bright-simons-proposes-13m-civil-service-ai-assistant-as-alternative-to-ghanas-270m-ghanachat-plan/",
+      "title": "Businessman in court over alleged World Cup visa fraud",
+      "link": "https://www.myjoyonline.com/businessman-in-court-over-alleged-world-cup-visa-fraud/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T18:18:55.000Z",
-      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons has proposed a cheaper alternative to Ghana’s planned US$270 million GhanaChat project…",
+      "published": "2026-10-25T21:33:00.000Z",
+      "summary": "A businessman has appeared before an Adenta Circuit Court for allegedly defrauding a colleague of US$3,000 and GH¢20,600.",
       "categories": [
-        "National",
-        "Technology",
-        "AI assistant",
-        "Bright Simons",
-        "Ghanachat"
+        "Crime",
+        "Adenta Circuit Court",
+        "visa fraud",
+        "Worl Cup"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3-2.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-848.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "GhanaChat data centre could require $61m annual subsidy – Bright Simons",
-      "link": "https://www.myjoyonline.com/ghanachat-data-centre-could-require-61m-annual-subsidy-bright-simons/",
+      "title": "Northern Ashanti Mines seeks injunction to block government takeover of $110m mine investment",
+      "link": "https://www.myjoyonline.com/northern-ashanti-mines-seeks-injunction-to-block-government-takeover-of-110m-mine-investment/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T18:14:42.000Z",
-      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons has questioned the financial viability of Ghana’s proposed US$270 million artificial…",
+      "published": "2026-10-25T21:21:00.000Z",
+      "summary": "Northern Ashanti Mines Limited Company has filed an injunction application seeking to stop a government takeover of its Konongo concession, warning that about $110 million in committed…",
       "categories": [
+        "HP News 1",
+        "Mining",
         "National",
-        "Technology",
-        "AI",
-        "annual subsidu",
-        "Bright Simons",
-        "Ghanachat"
+        "Minerals Commission",
+        "Northern Ashanti Mines"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bright-Simons-696x375-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-2391.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bright Simons flags computing capacity error in Ghana’s AI strategy and questions GhanaChat costs",
-      "link": "https://www.myjoyonline.com/bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-questions-ghanachat-costs/",
+      "title": "Are California voters about to impose ‘world’s first’ tax on billionaires?",
+      "link": "https://www.myjoyonline.com/are-california-voters-about-to-impose-worlds-first-tax-on-billionaires/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T18:07:13.000Z",
-      "summary": "Vice-President and head of Research at the IMANI Centre for Policy and Education, Bright Simons, has raised concerns about Ghana’s national artificial intelligence (AI) strategy, pointing…",
+      "published": "2026-10-25T21:01:47.000Z",
+      "summary": "Few places on the planet have as many ultra-wealthy residents as California, a US state known for glamour, coastal mega-mansions, and being home to the rich and famous.",
       "categories": [
-        "National",
-        "Technology",
-        "AI strategy",
-        "Bright Simons",
-        "computing capacity",
-        "Ghanachat"
+        "International",
+        "California",
+        "Tax"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-3-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2357-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Farmers urged to grow more with less as horticulture project promotes climate-smart methods",
+      "link": "https://www.myjoyonline.com/farmers-urged-to-grow-more-with-less-as-horticulture-project-promotes-climate-smart-methods/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T20:57:52.000Z",
+      "summary": "A young farmer from Asante Mampong says his confidence in agriculture has been renewed after seeing how simple technologies can improve vegetable production, highlighting the potential of…",
+      "categories": [
+        "Africa",
+        "Agribusiness",
+        "Business",
+        "News",
+        "Climate-smart",
+        "Farmers",
+        "Holland Greentech"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/EJURA.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Musk says SpaceX restricted Ukraine’s Starlink connection as service restored",
+      "link": "https://www.myjoyonline.com/musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T20:51:21.000Z",
+      "summary": "Elon Musk said SpaceX restricted Ukraine's Starlink internet service after Ukrainian officials said connectivity issues appeared to be resolved.",
+      "categories": [
+        "News",
+        "Elon Musk",
+        "SpaceX",
+        "Starlink",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/image-559-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African Genius Chess Championship 2026 crowns winners across seven age categories",
+      "link": "https://www.myjoyonline.com/african-genius-chess-championship-2026-crowns-winners-across-seven-age-categories/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-25T20:49:41.000Z",
+      "summary": "The second African Genius Chess Championship has crowned winners across seven age categories, with about 200 participants gathering at Ghud Park, Accra Mall, on Saturday, October 24, 2026…",
+      "categories": [
+        "Other Sports",
+        "Sports",
+        "Adamu Benin Abdul Karim",
+        "African Genius Chess Championship 2026"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/African-Genius-Chess-Championship-2-1024x682.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -145,23 +161,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/20/ndeece266.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GPL 2026/27: Asante Kotoko fight back to hold AshantiGold in derby",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-asante-kotoko-fight-back-to-hold-ashantigold-in-derby/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T17:36:19.000Z",
-      "summary": "Asante Kotoko came from behind to earn a 1-1 draw against FC AshantiGold 04 at the Len Clay Stadium in Obuasi in the Ghana Premier League. Kotoko travelled to Obuasi seeking consecutive…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Asante Kotoko",
-        "AshantiGold",
-        "Haruna Mubarak"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HVfQ6gcWUAEJM7E-899x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Protect official information without compromise – Volta Regional Minister to public sector employees",
