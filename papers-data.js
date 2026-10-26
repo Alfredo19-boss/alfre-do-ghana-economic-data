@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-26T00:09:54.887Z",
+  "updated": "2026-10-26T04:41:06.170Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,129 +25,119 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Courage Babanawo Kwabla elected Ketu South constituency Deputy Youth Organiser",
-      "link": "https://www.myjoyonline.com/courage-babanawo-kwabla-elected-ketu-south-constituency-deputy-youth-organiser/",
+      "title": "We do not support our own, but we watch horrible Hollywood movies – Yvonne Okoro",
+      "link": "https://www.myjoyonline.com/we-do-not-support-our-own-but-we-watch-horrible-hollywood-movies-yvonne-okoro/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T21:54:19.000Z",
-      "summary": "A nurse, Courage Babanawo, has been elected as the Ketu South Constituency Deputy Youth Organiser for the National Democratic Congress. He recorded a convincing victory as his contender…",
+      "published": "2026-10-26T04:27:30.000Z",
+      "summary": "Ghanaian actor and film producer Yvonne Okoro has bemoaned the lack of support for local films",
       "categories": [
-        "News",
+        "HP Entertainment 1",
+        "Movies",
+        "Ghanaian movies",
+        "Hollywood movies",
+        "Support",
+        "Yvonne Okoro"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/eda52eb3-221c-477b-87a0-864aaa0deadb.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Accept results, close ranks – Asiedu Nketiah urges NDC aspirants",
+      "link": "https://www.myjoyonline.com/accept-results-close-ranks-asiedu-nketiah-urges-ndc-aspirants/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T04:15:00.000Z",
+      "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketiah, has urged aspirants in the party’s constituency executive elections to accept the results and unite…",
+      "categories": [
+        "HP News 2",
         "Politics",
-        "Regional",
-        "Courage Babanawo Kwabla",
-        "Ketu South Constituency",
-        "National Democratic Congress"
+        "Asiedu Nketiah",
+        "NDC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Courage-Babanawo-Kwabla-elected-Ketu-North-Deputy-Youth-Organiser-854x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/General-mosquito-1024x721.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MTN Yellow Ladies Network screens 500 market women for breast cancer",
-      "link": "https://www.myjoyonline.com/mtn-yellow-ladies-network-screens-500-market-women-for-breast-cancer/",
+      "title": "South Africa to allow fund managers 100% foreign assets under new framework",
+      "link": "https://www.myjoyonline.com/south-africa-to-allow-fund-managers-100-foreign-assets-under-new-framework/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T21:41:59.000Z",
-      "summary": "The Yellow Ladies Network, a non-profit organisation made up of female staff of MTN, has organised a free breast cancer screening for 500 women in Accra as part of activities to mark this…",
-      "categories": [
-        "Photo Story",
-        "Breast Cancer Awareness",
-        "Breast Care International",
-        "MTN Yellow ladies Network"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3034_2.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Businessman in court over alleged World Cup visa fraud",
-      "link": "https://www.myjoyonline.com/businessman-in-court-over-alleged-world-cup-visa-fraud/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T21:33:00.000Z",
-      "summary": "A businessman has appeared before an Adenta Circuit Court for allegedly defrauding a colleague of US$3,000 and GH¢20,600.",
-      "categories": [
-        "Crime",
-        "Adenta Circuit Court",
-        "visa fraud",
-        "Worl Cup"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/image-848.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Northern Ashanti Mines seeks injunction to block government takeover of $110m mine investment",
-      "link": "https://www.myjoyonline.com/northern-ashanti-mines-seeks-injunction-to-block-government-takeover-of-110m-mine-investment/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T21:21:00.000Z",
-      "summary": "Northern Ashanti Mines Limited Company has filed an injunction application seeking to stop a government takeover of its Konongo concession, warning that about $110 million in committed…",
-      "categories": [
-        "HP News 1",
-        "Mining",
-        "National",
-        "Minerals Commission",
-        "Northern Ashanti Mines"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-2391.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Are California voters about to impose ‘world’s first’ tax on billionaires?",
-      "link": "https://www.myjoyonline.com/are-california-voters-about-to-impose-worlds-first-tax-on-billionaires/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T21:01:47.000Z",
-      "summary": "Few places on the planet have as many ultra-wealthy residents as California, a US state known for glamour, coastal mega-mansions, and being home to the rich and famous.",
-      "categories": [
-        "International",
-        "California",
-        "Tax"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2357-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Farmers urged to grow more with less as horticulture project promotes climate-smart methods",
-      "link": "https://www.myjoyonline.com/farmers-urged-to-grow-more-with-less-as-horticulture-project-promotes-climate-smart-methods/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-25T20:57:52.000Z",
-      "summary": "A young farmer from Asante Mampong says his confidence in agriculture has been renewed after seeing how simple technologies can improve vegetable production, highlighting the potential of…",
+      "published": "2026-10-26T04:06:00.000Z",
+      "summary": "South African fund managers will be able to hold 100% of portfolios in foreign assets under ring-fenced mandates, regulators said on ​Friday, in a new framework that exempts qualifying…",
       "categories": [
         "Africa",
-        "Agribusiness",
-        "Business",
-        "News",
-        "Climate-smart",
-        "Farmers",
-        "Holland Greentech"
+        "foreign assets",
+        "South Africa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/EJURA.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-1176-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine’s Starlink connection as service restored",
-      "link": "https://www.myjoyonline.com/musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored/",
+      "title": "‘I visit Ozzy’s grave every day’ – Sharon Osbourne",
+      "link": "https://www.myjoyonline.com/i-visit-ozzys-grave-every-day-sharon-osbourne/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T20:51:21.000Z",
-      "summary": "Elon Musk said SpaceX restricted Ukraine's Starlink internet service after Ukrainian officials said connectivity issues appeared to be resolved.",
+      "published": "2026-10-26T03:58:00.000Z",
+      "summary": "It's been 15 months since Ozzy Osbourne died at the age of 76, at his home in Buckinghamshire.",
       "categories": [
-        "News",
-        "Elon Musk",
-        "SpaceX",
-        "Starlink",
-        "Ukraine"
+        "International",
+        "Music",
+        "Sharon Osbourne"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/image-559-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2368-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "African Genius Chess Championship 2026 crowns winners across seven age categories",
-      "link": "https://www.myjoyonline.com/african-genius-chess-championship-2026-crowns-winners-across-seven-age-categories/",
+      "title": "Kojo Kwarteng: From journalism and corporate communications to law",
+      "link": "https://www.myjoyonline.com/kojo-kwarteng-from-journalism-and-corporate-communications-to-law/",
       "source": "MyJoyOnline",
-      "published": "2026-10-25T20:49:41.000Z",
-      "summary": "The second African Genius Chess Championship has crowned winners across seven age categories, with about 200 participants gathering at Ghud Park, Accra Mall, on Saturday, October 24, 2026…",
+      "published": "2026-10-26T03:50:00.000Z",
+      "summary": "On Friday, October 9, 2026, Emmanuel Kojo Kwarteng became a lawyer, adding the legal profession to a diverse career spanning journalism, marketing, corporate communications, public…",
       "categories": [
-        "Other Sports",
-        "Sports",
-        "Adamu Benin Abdul Karim",
-        "African Genius Chess Championship 2026"
+        "Features",
+        "Kojo Kwarteng"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/African-Genius-Chess-Championship-2-1024x682.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-3.44.54-am-1024x628.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.myjoyonline.com/venezuelan-opposition-leader-maria-machado-returns-after-months-in-exile/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T03:38:00.000Z",
+      "summary": "Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after more than 10 months in exile.",
+      "categories": [
+        "International",
+        "María Corina Machado",
+        "Venezuala"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2367-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t bills face bipartisan scrutiny, not Parliament’s Finance Committee chairman’s orders – Adongo",
+      "link": "https://www.myjoyonline.com/govt-bills-face-bipartisan-scrutiny-not-parliaments-finance-committee-chairmans-orders-adongo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T03:30:00.000Z",
+      "summary": "Parliament’s Finance Committee Chairman, Isaac Adongo, says government bills undergo bipartisan scrutiny, with committee members shaping decisions rather than his personal instructions.",
+      "categories": [
+        "Banking and Finance",
+        "National",
+        "Isaac Adongo",
+        "Parliament's Finance Committee"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-3.29.57-am.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Northern Region NDC urges unity after internal polls, eyes 2028 victory",
+      "link": "https://www.myjoyonline.com/northern-region-ndc-urges-unity-after-internal-polls-eyes-2028-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T03:11:00.000Z",
+      "summary": "The Northern Regional Secretariat of the National Democratic Congress (NDC) has urged newly elected officers and unsuccessful candidates to close ranks after the party’s branch and…",
+      "categories": [
+        "Politics",
+        "King Salam",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-3.11.23-am.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

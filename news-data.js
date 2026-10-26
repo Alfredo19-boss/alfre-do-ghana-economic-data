@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-26T00:09:40.326Z",
-  "worldAt": "2026-10-26T00:09:40.323Z",
+  "updated": "2026-10-26T04:40:51.997Z",
+  "worldAt": "2026-10-26T04:40:51.994Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
     "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,10 +42,59 @@ window.GDC_NEWS = {
     "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 32 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 19 African stories held"
+    "Africa · Al Jazeera: 1 stories",
+    "world lists: 40 world, 18 African stories held"
   ],
   "items": [
+    {
+      "title": "Gov’t bills face bipartisan scrutiny, not Parliament’s Finance Committee chairman’s orders – Adongo",
+      "link": "https://www.myjoyonline.com/govt-bills-face-bipartisan-scrutiny-not-parliaments-finance-committee-chairmans-orders-adongo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T03:30:00.000Z",
+      "summary": "Parliament’s Finance Committee Chairman, Isaac Adongo, says government bills undergo bipartisan scrutiny, with committee members shaping decisions rather than his personal instructions."
+    },
+    {
+      "title": "Adongo defends GoldBod law’s passage despite opposition concerns, leaves door open to review",
+      "link": "https://www.myjoyonline.com/adongo-defends-goldbod-laws-passage-despite-opposition-concerns-leaves-door-open-to-review/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T02:50:00.000Z",
+      "summary": "Parliament’s Finance Committee Chairman, Isaac Adongo, has defended the passage of the law establishing GoldBod despite opposition concerns about some provisions. He says the law can be…"
+    },
+    {
+      "title": "Foreign participation in capital market strengthens considerably in half-year 2026",
+      "link": "https://www.myjoyonline.com/foreign-participation-in-capital-market-strengthens-considerably-in-half-year-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T02:29:37.000Z",
+      "summary": "The improvement was on the back of the issuance of the new bonds amidst improved macroeconomic conditions and financial market prospects."
+    },
+    {
+      "title": "Parliament’s Finance Committee has had no reason to worry over government bills – Adongo",
+      "link": "https://www.myjoyonline.com/parliaments-finance-committee-has-had-no-reason-to-worry-over-government-bills-adongo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T02:24:00.000Z",
+      "summary": "Parliament’s Finance Committee Chairman, Isaac Adongo, says the committee has had no reason to worry about government bills brought before it, citing bipartisan scrutiny and broad agreement…"
+    },
+    {
+      "title": "Fitch revises Access, Zenith, UBA, GT, 5 others outlook to positive",
+      "link": "https://www.myjoyonline.com/fitch-revises-access-zenith-uba-gt-5-others-outlook-to-positive/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T01:11:46.000Z",
+      "summary": "According to the UK-based firm, the Outlook revisions to Positive follow a similar action on Nigeria's 'B' Long-Term IDRs on 9 October 2026 that reflects ongoing reform of the policy…"
+    },
+    {
+      "title": "T-bills auction: Government exceeds target by 12%; 91-day and 182-day yields decline",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-by-12-91-day-and-182-day-yields-decline/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T01:01:15.000Z",
+      "summary": "The government received total bids of GH¢4.26 billion from the investors, but accepted GH¢3.9 billion."
+    },
+    {
+      "title": "Gold Board concerns did not justify holding up law – Adongo",
+      "link": "https://www.myjoyonline.com/gold-board-concerns-did-not-justify-holding-up-law-adongo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T01:01:00.000Z",
+      "summary": "Parliament’s Finance Committee Chairman, Isaac Adongo, has defended the passage of the law establishing the Gold Board, saying concerns about some provisions did not warrant delaying it."
+    },
     {
       "title": "Northern Ashanti Mines seeks injunction to block government takeover of $110m mine investment",
       "link": "https://www.myjoyonline.com/northern-ashanti-mines-seeks-injunction-to-block-government-takeover-of-110m-mine-investment/",
@@ -1046,72 +1095,90 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-21T22:24:41.000Z",
       "summary": "The Chief Executive Officer of the Minerals Income Investment Fund (MIIF), Justina Nelson, has highlighted the importance of investment, data sharing and regional cooperation in helping…"
-    },
-    {
-      "title": "Cashew processors receive training to boost local processing and exports",
-      "link": "https://www.myjoyonline.com/cashew-processors-receive-training-to-boost-local-processing-and-exports/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T21:27:31.000Z",
-      "summary": "The Ghana Private Sector Competitiveness Programme Phase Two is calling for sustained investment in skills development and technology to strengthen Ghana’s cashew processing industry and…"
-    },
-    {
-      "title": "Rebrand Masterclass urges business leaders to build beyond the founder",
-      "link": "https://www.myjoyonline.com/rebrand-masterclass-urges-business-leaders-to-build-beyond-the-founder/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T21:24:05.000Z",
-      "summary": "A central question challenged participants to consider whether their businesses could continue serving customers, making decisions, and meeting obligations if they became unavailable for 30…"
-    },
-    {
-      "title": "Adansi Travels inducted into CIMG Hall of Fame after fourth consecutive award win",
-      "link": "https://gna.org.gh/2026/10/adansi-travels-inducted-into-cimg-hall-of-fame-after-fourth-consecutive-award-win/",
-      "source": "Ghana News Agency",
-      "published": "2026-10-21T20:46:52.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
-    },
-    {
-      "title": "YEA Plans to Formalise Domestic Services in 2027",
-      "link": "https://thehighstreetjournal.com/yea-plans-to-formalise-domestic-services/",
-      "source": "The High Street Journal",
-      "published": "2026-10-21T18:44:22.000Z",
-      "summary": "The initiative will train young workers for household jobs as the agency seeks to improve employment conditions in a largely informal sector"
-    },
-    {
-      "title": "Commercial Farming Partnerships to Target New Jobs for Young Workers",
-      "link": "https://thehighstreetjournal.com/commercial-farming-for-young-workers/",
-      "source": "The High Street Journal",
-      "published": "2026-10-21T18:24:35.000Z",
-      "summary": "YEA is seeking to place young workers in commercial farming and support services, but has yet to disclose the scale or financing of the initiative"
-    },
-    {
-      "title": "MOBEX Africa 2026: One Million Coders Programme must create jobs – Julius Debrah",
-      "link": "https://www.myjoyonline.com/mobex-africa-2026-one-million-coders-programme-must-create-jobs-julius-debrah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T18:05:46.000Z",
-      "summary": "Chief of Staff at the Office, Dr Julius Debrah, has stressed the need for Ghana’s One Million Coders Programme to translate digital skills training into jobs, entrepreneurship and…"
-    },
-    {
-      "title": "MOBEX Africa 2026: Former Nigerian Veep Osinbajo calls for stronger African digital collaboration",
-      "link": "https://www.myjoyonline.com/mobex-africa-2026-former-nigerian-veep-osinbajo-calls-for-stronger-african-digital-collaboration/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-21T18:01:10.000Z",
-      "summary": "Former Nigerian Vice President, H.E. Oluyemi Oluleke Osinbajo, has called for stronger collaboration among African countries to improve digital infrastructure, strengthen digital identity…"
     }
   ],
   "world": [
     {
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T04:05:44.000Z",
+      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support."
+    },
+    {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-25T23:33:14.000Z",
+      "published": "2026-10-26T03:05:22.000Z",
       "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Thousands protest in Prague against public media funding reforms",
-      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+      "link": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T23:29:13.000Z",
-      "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom."
+      "published": "2026-10-26T04:03:28.000Z",
+      "summary": "Al Jazeera looks at the key takeaways from the US president's campaign event in Michigan ahead of the midterm vote."
+    },
+    {
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-26T01:07:05.000Z",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "World reacts to Lula’s victory in Brazil’s presidential election",
+      "link": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T03:50:12.000Z",
+      "summary": "International leaders and politicians congratulate the Brazilian president on his re-election."
+    },
+    {
+      "title": "What challenges await Brazil's Lula in his fourth term as president?",
+      "link": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
+      "source": "France 24",
+      "published": "2026-10-26T00:52:54.000Z",
+      "summary": "President Luiz Inacio Lula da Silva will have to wrestle with a divided Brazil, an unfriendly Congress, feeble public finances and a Donald Trump-shaped menace during his unprecedented…",
+      "image": "https://s.france24.com/media/display/92b1f50c-d0d7-11f1-9469-bdb9616e85cf/w:1024/p:16x9/0498b5dbd26c81f0b76b2b0960050a2224c1a10b.jpg"
+    },
+    {
+      "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+      "link": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T03:34:59.000Z",
+      "summary": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, the first time it has been held in Britain."
+    },
+    {
+      "title": "Brazil's left-wing President Lula elected for fourth term",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+      "source": "NPR World",
+      "published": "2026-10-26T00:35:00.000Z",
+      "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7690x5127+0+0/resize/7690x5127!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F46%2F3b8586734e2997734a0ed801605d%2Fap26299000355395.jpg"
+    },
+    {
+      "title": "Lula thanks Brazil’s youth for historic election win",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T03:14:26.000Z",
+      "summary": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term."
+    },
+    {
+      "title": "Brazil's Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
+      "link": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
+      "source": "France 24",
+      "published": "2026-10-26T00:23:59.000Z",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist leader won 51.7% of the vote…",
+      "image": "https://s.france24.com/media/display/d08bd462-d0d0-11f1-ab21-bdb9616e85cf/w:1024/p:16x9/2026-10-25T220534Z-34599975-RC2KAOAZJ6YN-RTRMADP-3-BRAZIL-ELECTION.jpg"
+    },
+    {
+      "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+      "link": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T02:59:50.000Z",
+      "summary": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference."
     },
     {
       "title": "Report: IDF chief pushes back on Netanyahu's order",
@@ -1122,26 +1189,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a4aad600-cf12-11f1-864d-bdb9616e85cf/w:1024/p:16x9/capture-56236f89.jpg"
     },
     {
-      "title": "Venezuela’s opposition leader Machado returns after months in exile",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+      "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "link": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T23:23:25.000Z",
-      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months."
-    },
-    {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-25T22:54:57.000Z",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Bulgaria election heads to a run-off amid low voter turnout",
-      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T22:57:17.000Z",
-      "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week."
+      "published": "2026-10-26T02:55:15.000Z",
+      "summary": "South Korea blames Pyongyang for September landmine blast, but North Korea says incident a 'sinister obstructive move'."
     },
     {
       "title": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
@@ -1151,11 +1203,11 @@ window.GDC_NEWS = {
       "summary": "Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election, following nearly two years of student-led…"
     },
     {
-      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+      "link": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T22:22:53.000Z",
-      "summary": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign."
+      "published": "2026-10-26T02:04:31.000Z",
+      "summary": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany."
     },
     {
       "title": "Deeply divided Israel braces for pivotal election",
@@ -1166,11 +1218,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"
     },
     {
-      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-      "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T21:50:36.000Z",
-      "summary": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent."
+      "published": "2026-10-26T01:02:57.000Z",
+      "summary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday."
     },
     {
       "title": "Why Israel's election is one of the most important in its history",
@@ -1181,11 +1233,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg"
     },
     {
-      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-      "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "title": "Serbia celebrates historic election win for student-backed movement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T21:41:10.000Z",
-      "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race."
+      "published": "2026-10-26T00:58:21.000Z",
+      "summary": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory"
     },
     {
       "title": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
@@ -1196,11 +1248,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d8ecce54-d0b7-11f1-b879-bdb9616e85cf/w:1024/p:16x9/AP26298757145534.jpg"
     },
     {
-      "title": "Marine Le Pen launches French presidential campaign",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T21:39:13.000Z",
-      "summary": "Marine Le Pen launches French presidential campaign"
+      "published": "2026-10-26T00:16:29.000Z",
+      "summary": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro."
     },
     {
       "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
@@ -1210,11 +1262,11 @@ window.GDC_NEWS = {
       "summary": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former…"
     },
     {
-      "title": "Trump VS California",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T21:29:23.000Z",
-      "summary": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California."
+      "published": "2026-10-26T00:02:55.000Z",
+      "summary": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed."
     },
     {
       "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
@@ -1224,6 +1276,13 @@ window.GDC_NEWS = {
       "summary": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week."
     },
     {
+      "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T00:00:00.000Z",
+      "summary": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport."
+    },
+    {
       "title": "Brazil: long queues and river journeys mark decisive presidential vote",
       "link": "http://www.africanews.com/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote/",
       "source": "Africanews",
@@ -1231,11 +1290,11 @@ window.GDC_NEWS = {
       "summary": "Brazilians headed to the polls on Sunday to choose between Lula and Flávio Bolsonaro. From canoe journeys in the Amazon to long queues in Rio and a Lula doll in Brasília, voters turned out…"
     },
     {
-      "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-      "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T21:00:02.000Z",
-      "summary": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people."
+      "published": "2026-10-25T23:38:57.000Z",
+      "summary": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d'Or at the age of 21."
     },
     {
       "title": "Marine Le Pen launches presidential campaign in Orléans",
@@ -1246,11 +1305,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/81d0818e-d0ac-11f1-8908-bdb9616e85cf/w:1024/p:16x9/EN-vignette-MLP.jpg"
     },
     {
-      "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T20:01:00.000Z",
-      "summary": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?"
+      "published": "2026-10-25T23:29:13.000Z",
+      "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom."
     },
     {
       "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
@@ -1261,11 +1320,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
     },
     {
-      "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+      "title": "Venezuela’s opposition leader Machado returns after months in exile",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T20:00:04.000Z",
-      "summary": "Legal challenges are likely, as the voting extension adds tension to Brazil's polarised political landscape."
+      "published": "2026-10-25T23:23:25.000Z",
+      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months."
     },
     {
       "title": "Le Pen’s ‘Renaissance’: 4th time lucky?",
@@ -1276,11 +1335,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/fb7fc8d0-d0a4-11f1-b748-5b4a75578ebb/w:1024/p:16x9/WhatsApp-Image-2026-10-25-at-19-49-16.jpeg"
     },
     {
-      "title": "The narrative battle over France’s unrest",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T19:36:14.000Z",
-      "summary": "Student protests, police violence and French media obsessed with 'barbarians'."
+      "published": "2026-10-25T22:57:17.000Z",
+      "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week."
     },
     {
       "title": "Lula's Legacy, Flavio's Future?",
@@ -1291,11 +1350,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/edc50934-d0a5-11f1-89fc-5b4a75578ebb/w:1024/p:16x9/WhatsApp-Image-2026-10-25-at-19-49-17-1.jpeg"
     },
     {
-      "title": "Iraqis mark seven years since Tishreen protests with reform demands",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T19:36:05.000Z",
-      "summary": "Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests."
+      "published": "2026-10-25T22:22:53.000Z",
+      "summary": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign."
     },
     {
       "title": "France: Football fans take over Paris as NFL comes to country for the first time",
@@ -1306,11 +1365,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ec57181a-d09d-11f1-af62-5b4a75578ebb/w:1024/p:16x9/Thumbnail-EN-1.jpg"
     },
     {
-      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
-      "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+      "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T19:19:54.000Z",
-      "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests."
+      "published": "2026-10-25T21:50:36.000Z",
+      "summary": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent."
     },
     {
       "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
@@ -1321,11 +1380,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/47c1def6-d094-11f1-bf55-4d317af013fd/w:1024/p:16x9/EN-20261025-171255-172709-CS.jpg"
     },
     {
-      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-      "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T18:55:39.000Z",
-      "summary": "The Nobel laureate's homecoming follows national protests demanding free elections."
+      "published": "2026-10-25T21:41:10.000Z",
+      "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race."
     },
     {
       "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
@@ -1334,68 +1393,16 @@ window.GDC_NEWS = {
       "published": "2026-10-25T17:10:11.000Z",
       "summary": "Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025…",
       "image": "https://s.france24.com/media/display/a71cd552-d096-11f1-a147-4d317af013fd/w:1024/p:16x9/000-D4DM8NQ-1.jpg"
-    },
-    {
-      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T18:34:19.000Z",
-      "summary": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London."
-    },
-    {
-      "title": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
-      "link": "http://www.africanews.com/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival/",
-      "source": "Africanews",
-      "published": "2026-10-25T16:52:30.000Z",
-      "summary": "Over 1,400 sheep and goats took over Madrid's streets on Sunday, delighting spectators at the 33rd annual Transhumance Festival, which followed a different route this year to avoid a…"
-    },
-    {
-      "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T18:27:53.000Z",
-      "summary": "Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games."
-    },
-    {
-      "title": "French far-right leader Le Pen kicks off presidential campaign",
-      "link": "https://www.france24.com/en/french-far-right-leader-le-pen-kicks-off-presidential-campaign",
-      "source": "France 24",
-      "published": "2026-10-25T16:38:56.000Z",
-      "summary": "We’ve just been listening to Marine Le Pen, leader of the far-right National Rally and its presidential candidate, delivering her first official campaign speech in Orléans. She spoke of…",
-      "image": "https://s.france24.com/media/display/c855b27a-d091-11f1-be1a-4d317af013fd/w:1024/p:16x9/EN-20261025-170928-171254-CS.jpg"
-    },
-    {
-      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
-      "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T18:20:26.000Z",
-      "summary": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda."
-    },
-    {
-      "title": "France: 1.314 arrested during protests across the country",
-      "link": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
-      "source": "France 24",
-      "published": "2026-10-25T16:32:57.000Z",
-      "summary": "France saw another day of nationwide protests on Saturday, with more than 400,000 people taking to the streets over the rising cost of living and school funding. Most marches remained…",
-      "image": "https://s.france24.com/media/display/7638bc76-d091-11f1-b532-bdb9616e85cf/w:1024/p:16x9/EN-20261025-160438-160623-CS.jpg"
-    },
-    {
-      "title": "Israeli air strike on Gaza City university kills three people",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T18:12:13.000Z",
-      "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City."
-    },
-    {
-      "title": "Midterms: Obama campaigns for Democrats, slams Trump",
-      "link": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
-      "source": "France 24",
-      "published": "2026-10-25T16:25:12.000Z",
-      "summary": "At a rally in Ohio this Saturday, former US president Barack Obama said that Americans were facing higher costs because of decisions made by the administration, including what he described…",
-      "image": "https://s.france24.com/media/display/f03eb826-d088-11f1-ae10-4b25c96ec90e/w:1024/p:16x9/OBAMA-EN.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Africa: Africa CDC Supports the AUC Chairperson's Call for the Immediate and Unconditional Lifting of Unilateral Sanctions Against Zimbabwe",
+      "link": "https://allafrica.com/stories/202610260005.html",
+      "source": "AllAfrica",
+      "published": "2026-10-26T04:40:32.000Z",
+      "summary": "[Africa CDC] Addis Ababa, Ethiopia | 25 October 2026"
+    },
     {
       "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
       "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
@@ -1518,20 +1525,6 @@ window.GDC_NEWS = {
       "published": "2026-10-24T17:25:46.000Z",
       "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
-    },
-    {
-      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
-      "link": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T13:51:08.000Z",
-      "summary": "Sudan is suffering from a cost-of-living crisis affecting millions across the country."
-    },
-    {
-      "title": "HIV prevention jab offers hope in Uganda but doses are hard to find",
-      "link": "http://www.africanews.com/2026/10/24/hiv-prevention-jab-offers-hope-in-uganda-but-doses-are-hard-to-find/",
-      "source": "Africanews",
-      "published": "2026-10-24T13:34:56.000Z",
-      "summary": "An injectable HIV drug could save huge numbers of people from getting infected in Uganda. But shortages of lenacapavir mean that those who need it the most often can't get treated with a…"
     }
   ]
 };
