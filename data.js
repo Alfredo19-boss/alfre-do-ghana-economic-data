@@ -6,7 +6,7 @@
  * Field guide: see README.md ("data.js field guide").
  */
 window.GDC_DATA = {
-  "checked": "26 September 2026",
+  "checked": "26 October 2026",
   "siteUrl": "",
   "alfredo": {
     "_": "Alfredo answers from this site's own figures and needs nothing here. Fill these in only if you have your own endpoint.",
@@ -14,10 +14,10 @@ window.GDC_DATA = {
     "ttsUrl": ""
   },
   "fx": {
-    "usd": 11.55,
-    "gbp": 15.4464,
-    "eur": 13.2445,
-    "date": "2026-09-18"
+    "usd": 11.65,
+    "gbp": 15.572,
+    "eur": 13.0408,
+    "date": "2026-10-23"
   },
   "debt": {
     "paceMonths": 6,
@@ -68,6 +68,13 @@ window.GDC_DATA = {
         "domestic": 396.7,
         "external": 337.2,
         "ratio": 45.9
+      },
+      {
+        "date": "2026-08-31",
+        "total": 730.327,
+        "domestic": 409.151,
+        "external": 321.176,
+        "ratio": 45.72
       }
     ],
     "ratioPeak": {
@@ -104,14 +111,14 @@ window.GDC_DATA = {
         "key": "rev",
         "label": "Revenue & grants",
         "value": 268100000000,
-        "note": "Jan–Jul actual GH¢144.6bn — 9.05% of GDP against a 9.07% target"
+        "note": "Jan–Jul actual GH¢144.6bn, 54% of the year's target"
       },
       {
         "key": "tax",
         "label": "Tax revenue",
         "sub": true,
         "value": 223930000000,
-        "note": "Direct taxes GH¢115.4bn · goods & services GH¢86.4bn · Jan–Jul actual GH¢120.0bn"
+        "note": "Jan–Jul actual GH¢120.0bn, 54% of the year's target"
       },
       {
         "key": "oth",
@@ -126,26 +133,26 @@ window.GDC_DATA = {
         "key": "exp",
         "label": "Total spending",
         "value": 302500000000,
-        "note": "Jan–Jul actual GH¢147.1bn, 48.6% of the year’s plan"
+        "note": "Jan–Jul actual GH¢147.1bn, 49% of the year's target"
       },
       {
         "key": "wage",
         "label": "Public sector wages",
         "value": 90800000000,
-        "note": "Jan–Jul actual GH¢50.6bn, of which GH¢45.4bn wages and salaries"
+        "note": "Jan–Jul actual GH¢50.5bn, 56% of the year's target"
       },
       {
         "key": "int",
         "label": "Interest on debt",
         "value": 57700000000,
-        "note": "Jan–Jul actual GH¢25.2bn, of which GH¢22.0bn domestic",
+        "note": "Jan–Jul actual GH¢25.2bn, 44% of the year's target",
         "cost": true
       },
       {
         "key": "cap",
         "label": "Capital projects",
         "value": 57500000000,
-        "note": "Jan–Jul actual GH¢24.2bn · includes GH¢30.0bn for the Big Push · revised to GH¢52.5bn in-year"
+        "note": "Jan–Jul actual GH¢24.2bn, 46% of the year's target"
       }
     ]
   },
@@ -224,11 +231,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "Inflation",
-          "value": 5,
+          "value": 5.2,
           "dec": 1,
           "unit": "%",
-          "date": "Aug 2026",
-          "note": "▲ from 4.6% · target 8 ± 2%",
+          "date": "Sep 2026",
+          "note": "▲ from 5.0% · target 8 ± 2%",
           "tone": "bad",
           "status": [
             "good",
@@ -266,26 +273,30 @@ window.GDC_DATA = {
             {
               "date": "Aug 2026",
               "value": 5
+            },
+            {
+              "date": "Sep 2026",
+              "value": 5.2
             }
           ],
           "seriesSource": "Ghana Statistical Service monthly CPI releases"
         },
         {
           "label": "Food inflation",
-          "value": 3,
+          "value": 4,
           "dec": 1,
           "unit": "%",
-          "date": "Aug 2026",
-          "note": "▼ from 3.1% in July",
+          "date": "Sep 2026",
+          "note": "▲ from 3.0% in August",
           "tone": "good"
         },
         {
           "label": "Non-food inflation",
-          "value": 6.8,
+          "value": 6.2,
           "dec": 1,
           "unit": "%",
-          "date": "Aug 2026",
-          "note": "▲ from 6.7% · rent, transport",
+          "date": "Sep 2026",
+          "note": "▼ from 6.8% in August",
           "tone": "bad"
         },
         {
@@ -331,11 +342,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "91-day T-bill",
-          "value": 4.6405,
+          "value": 4.6135,
           "dec": 4,
           "unit": "%",
-          "date": "7 Sep 2026",
-          "note": "Bank of Ghana monthly average 5.38% in Aug 2026 · 182-day at 7.28%",
+          "date": "26 Oct 2026",
+          "note": "182-day at 6.29%",
           "series": [
             {
               "date": "Dec 2025",
@@ -372,17 +383,21 @@ window.GDC_DATA = {
             {
               "date": "Aug 2026",
               "value": 5.38
+            },
+            {
+              "date": "Oct 2026",
+              "value": 4.6135
             }
           ],
           "seriesSource": "Bank of Ghana: Summary of Economic and Financial Data, table 3a"
         },
         {
           "label": "364-day T-bill",
-          "value": 10.11,
+          "value": 9.6739,
           "dec": 2,
           "unit": "%",
-          "date": "7 Sep 2026",
-          "note": "▼ 66 basis points · weekly government auction",
+          "date": "26 Oct 2026",
+          "note": "▼ from 12.16% in August",
           "series": [
             {
               "date": "Dec 2025",
@@ -419,6 +434,10 @@ window.GDC_DATA = {
             {
               "date": "Aug 2026",
               "value": 12.16
+            },
+            {
+              "date": "Oct 2026",
+              "value": 9.6739
             }
           ],
           "seriesSource": "Bank of Ghana: Summary of Economic and Financial Data, table 3a"
@@ -517,11 +536,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "US dollar",
-          "value": 11.55,
+          "value": 11.65,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "18 Sep 2026",
+          "date": "23 Oct 2026",
           "note": "▲ cedi down 9.5% this year to 17 Jul",
           "tone": "bad",
           "auto": "fx.usd"
@@ -529,22 +548,22 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "British pound",
-          "value": 15.4464,
+          "value": 15.572,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "18 Sep 2026",
+          "date": "23 Oct 2026",
           "note": "BoG interbank mid-rate",
           "auto": "fx.gbp"
         },
         {
           "board": true,
           "label": "Euro",
-          "value": 13.2445,
+          "value": 13.0408,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "18 Sep 2026",
+          "date": "23 Oct 2026",
           "note": "BoG interbank mid-rate",
           "auto": "fx.eur"
         },
@@ -708,11 +727,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "GSE Composite Index",
-          "value": 15076,
+          "value": 14149,
           "dec": 0,
           "unit": "pts",
-          "date": "Aug 2026",
-          "note": "▲ 71.9% so far this year · market capitalisation GH¢285.6bn",
+          "date": "21 Oct 2026",
+          "note": "▲ 61.3% so far this year · market capitalisation GH¢267.6bn",
           "tone": "good"
         },
         {
@@ -789,31 +808,31 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "Petrol",
-          "value": 16.39,
+          "value": 16.09,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "1 Sep 2026",
-          "note": "Per litre · projected average pump price"
+          "date": "16–31 Oct 2026",
+          "note": "NPA price floor for the window · pumps usually charge a little more"
         },
         {
           "board": true,
           "label": "Diesel",
-          "value": 17.6,
+          "value": 17.09,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "1 Sep 2026",
-          "note": "Per litre · projected average pump price"
+          "date": "16–31 Oct 2026",
+          "note": "NPA price floor for the window · pumps usually charge a little more"
         },
         {
           "label": "Cooking gas (LPG)",
-          "value": 13.73,
+          "value": 13.87,
           "dec": 2,
           "unit": "GH¢",
           "pre": true,
-          "date": "1 Sep 2026",
-          "note": "Per kg · ▼ 0.9% on the last window",
+          "date": "16–31 Oct 2026",
+          "note": "NPA price floor, per kilogram",
           "tone": "good"
         },
         {
@@ -1117,6 +1136,26 @@ window.GDC_DATA = {
     [
       "Bank of Ghana: Summary of Economic and Financial Data, 23 September 2026",
       "https://www.bog.gov.gh/economic-data/summary-of-economic-and-financial-data/"
+    ],
+    [
+      "Ministry of Finance: Monthly Public Debt Newsletter, August 2026",
+      "https://mofep.gov.gh/publications/debt-reports"
+    ],
+    [
+      "Ministry of Finance: 2026 fiscal data, January–July provisional",
+      "https://mofep.gov.gh/data/fiscal-data"
+    ],
+    [
+      "Ghana Statistical Service: Consumer Price Index, September 2026",
+      "https://statsghana.gov.gh/highlights/inflation-rate"
+    ],
+    [
+      "Bank of Ghana: Treasury bill auction results",
+      "https://www.bog.gov.gh/treasury-and-the-markets/treasury-bill-rates/"
+    ],
+    [
+      "National Petroleum Authority: indicative maximum prices",
+      "https://www.npa.gov.gh/"
     ]
   ],
   "fxTicker": {
