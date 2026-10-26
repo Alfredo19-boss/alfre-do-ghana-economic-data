@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-25T22:03:39.542Z",
-  "worldAt": "2026-10-25T22:03:39.540Z",
+  "updated": "2026-10-26T00:09:40.326Z",
+  "worldAt": "2026-10-26T00:09:40.323Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,28 +22,28 @@ window.GDC_NEWS = {
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "Graphic Online: 3/25 stories",
     "Graphic Business: 0/0 stories",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (fetch failed)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 31 stories",
+    "World · BBC News: 32 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 32 stories",
-    "Africa · Deutsche Welle: 6 stories",
+    "Africa · Deutsche Welle: 5 stories",
     "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 20 African stories held"
+    "world lists: 40 world, 19 African stories held"
   ],
   "items": [
     {
@@ -1099,6 +1099,73 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T23:33:14.000Z",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T23:29:13.000Z",
+      "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom."
+    },
+    {
+      "title": "Report: IDF chief pushes back on Netanyahu's order",
+      "link": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
+      "source": "France 24",
+      "published": "2026-10-25T23:24:14.000Z",
+      "summary": "An extraordinary confrontation at the top of Israel's leadership, just two days before the election. Israeli media report Prime Minister Benjamin Netanyahu and military chief Eyal Zamir are…",
+      "image": "https://s.france24.com/media/display/a4aad600-cf12-11f1-864d-bdb9616e85cf/w:1024/p:16x9/capture-56236f89.jpg"
+    },
+    {
+      "title": "Venezuela’s opposition leader Machado returns after months in exile",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T23:23:25.000Z",
+      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months."
+    },
+    {
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T22:54:57.000Z",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T22:57:17.000Z",
+      "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week."
+    },
+    {
+      "title": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
+      "link": "http://www.africanews.com/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat/",
+      "source": "Africanews",
+      "published": "2026-10-25T22:12:47.000Z",
+      "summary": "Crowds celebrated in Belgrade after President Aleksandar Vučić conceded defeat for his ruling party in Serbia's snap parliamentary election, following nearly two years of student-led…"
+    },
+    {
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T22:22:53.000Z",
+      "summary": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign."
+    },
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-25T22:11:13.000Z",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg"
+    },
+    {
       "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
       "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1106,12 +1173,12 @@ window.GDC_NEWS = {
       "summary": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent."
     },
     {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "title": "Why Israel's election is one of the most important in its history",
+      "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-25T21:25:04.000Z",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79e5/live/ec88c6f0-d0b9-11f1-93e1-3b657b665bcf.jpg"
+      "published": "2026-10-25T22:05:30.000Z",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf80/live/c5aaa2d0-d0ad-11f1-84bc-f3a33719a550.jpg"
     },
     {
       "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
@@ -1194,11 +1261,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
     },
     {
-      "title": "Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours",
+      "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-25T20:00:04.000Z",
-      "summary": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election."
+      "summary": "Legal challenges are likely, as the voting extension adds tension to Brazil's polarised political landscape."
     },
     {
       "title": "Le Pen’s ‘Renaissance’: 4th time lucky?",
@@ -1231,21 +1298,6 @@ window.GDC_NEWS = {
       "summary": "Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests."
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-25T18:29:00.000Z",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
-      "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T19:19:54.000Z",
-      "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities."
-    },
-    {
       "title": "France: Football fans take over Paris as NFL comes to country for the first time",
       "link": "https://www.france24.com/en/video/20261025-france-football-fans-take-over-paris-as-nfl-comes-to-country-for-the-first-time",
       "source": "France 24",
@@ -1254,11 +1306,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ec57181a-d09d-11f1-af62-5b4a75578ebb/w:1024/p:16x9/Thumbnail-EN-1.jpg"
     },
     {
-      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-      "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T18:55:39.000Z",
-      "summary": "The Nobel laureate's homecoming follows national protests demanding free elections."
+      "published": "2026-10-25T19:19:54.000Z",
+      "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests."
     },
     {
       "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
@@ -1269,11 +1321,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/47c1def6-d094-11f1-bf55-4d317af013fd/w:1024/p:16x9/EN-20261025-171255-172709-CS.jpg"
     },
     {
-      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+      "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T18:34:19.000Z",
-      "summary": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London."
+      "published": "2026-10-25T18:55:39.000Z",
+      "summary": "The Nobel laureate's homecoming follows national protests demanding free elections."
     },
     {
       "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
@@ -1284,11 +1336,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a71cd552-d096-11f1-a147-4d317af013fd/w:1024/p:16x9/000-D4DM8NQ-1.jpg"
     },
     {
-      "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
+      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T18:27:53.000Z",
-      "summary": "Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games."
+      "published": "2026-10-25T18:34:19.000Z",
+      "summary": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London."
     },
     {
       "title": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
@@ -1298,11 +1350,11 @@ window.GDC_NEWS = {
       "summary": "Over 1,400 sheep and goats took over Madrid's streets on Sunday, delighting spectators at the 33rd annual Transhumance Festival, which followed a different route this year to avoid a…"
     },
     {
-      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
-      "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+      "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T18:20:26.000Z",
-      "summary": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda."
+      "published": "2026-10-25T18:27:53.000Z",
+      "summary": "Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games."
     },
     {
       "title": "French far-right leader Le Pen kicks off presidential campaign",
@@ -1313,11 +1365,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c855b27a-d091-11f1-be1a-4d317af013fd/w:1024/p:16x9/EN-20261025-170928-171254-CS.jpg"
     },
     {
-      "title": "Israeli air strike on Gaza City university kills three people",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T18:12:13.000Z",
-      "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City."
+      "published": "2026-10-25T18:20:26.000Z",
+      "summary": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda."
     },
     {
       "title": "France: 1.314 arrested during protests across the country",
@@ -1328,11 +1380,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/7638bc76-d091-11f1-b532-bdb9616e85cf/w:1024/p:16x9/EN-20261025-160438-160623-CS.jpg"
     },
     {
-      "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-25T18:05:14.000Z",
-      "summary": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress."
+      "published": "2026-10-25T18:12:13.000Z",
+      "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City."
     },
     {
       "title": "Midterms: Obama campaigns for Democrats, slams Trump",
@@ -1341,57 +1393,6 @@ window.GDC_NEWS = {
       "published": "2026-10-25T16:25:12.000Z",
       "summary": "At a rally in Ohio this Saturday, former US president Barack Obama said that Americans were facing higher costs because of decisions made by the administration, including what he described…",
       "image": "https://s.france24.com/media/display/f03eb826-d088-11f1-ae10-4b25c96ec90e/w:1024/p:16x9/OBAMA-EN.jpg"
-    },
-    {
-      "title": "US and Israel elections: New leaders, same policies?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T17:53:23.000Z",
-      "summary": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues."
-    },
-    {
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-      "source": "NPR World",
-      "published": "2026-10-25T16:18:41.000Z",
-      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8127x5418+0+0/resize/8127x5418!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fe3%2F62c605ef41b1a3e06cbf2c0635ef%2Fap26295737413336.jpg"
-    },
-    {
-      "title": "Can protests in Europe bring about change?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T17:39:42.000Z",
-      "summary": "People have been taking to the streets to demand action."
-    },
-    {
-      "title": "Protein shakes for teenagers: Good or bad idea?",
-      "link": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-25T16:12:00.000Z",
-      "summary": "Protein products are marketed as a way of building muscle and losing weight — and they're very popular with young people. They also claim to promote healthy growth in children. Is this…"
-    },
-    {
-      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-      "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T17:26:22.000Z",
-      "summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind."
-    },
-    {
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-25T16:05:15.000Z",
-      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T17:12:59.000Z",
-      "summary": "Jerusalem Daily: Israel expels thousands from Hebron"
     }
   ],
   "africa": [
@@ -1531,13 +1532,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-24T13:34:56.000Z",
       "summary": "An injectable HIV drug could save huge numbers of people from getting infected in Uganda. But shortages of lenacapavir mean that those who need it the most often can't get treated with a…"
-    },
-    {
-      "title": "Will Guinea-Bissau remain trapped in political chaos?",
-      "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-24T11:36:00.000Z",
-      "summary": "Elections scheduled for December 6 in Guinea-Bissau have been postponed indefinitely. No new date has been set, leaving the country's return to civilian rule uncertain."
     }
   ]
 };
