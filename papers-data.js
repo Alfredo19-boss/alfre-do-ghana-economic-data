@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-26T16:57:57.397Z",
+  "updated": "2026-10-26T21:18:45.216Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,142 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kane prematurely announced as Ballon d’Or winner – but he wasn’t only one",
+      "link": "https://www.myjoyonline.com/kane-prematurely-announced-as-ballon-dor-winner-but-he-wasnt-only-one/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T21:11:00.000Z",
+      "summary": "For a moment, it seemed as though Harry Kane's dreams of winning the Ballon d'Or had come true.",
+      "categories": [
+        "Football",
+        "Ballon d'Or"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2493.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Seven families to press charges against Obuasi SHTS headmaster amid threats and blackmail",
+      "link": "https://www.myjoyonline.com/seven-families-to-press-charges-against-obuasi-shts-headmaster-amid-threats-and-blackmail/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T21:00:41.000Z",
+      "summary": "Seven families of girls allegedly sexually abused by the headmaster of Obuasi Senior High and Technical School (SHTS) are preparing to press charges against him, amid reported threats…",
+      "categories": [
+        "Education",
+        "National",
+        "Obuasi SHTS",
+        "sexual abue"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS scandal: Plan International Ghana demands independent probe, nationwide safeguarding reforms",
+      "link": "https://www.myjoyonline.com/obuasi-shts-scandal-plan-international-ghana-demands-independent-probe-nationwide-safeguarding-reforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T20:37:34.000Z",
+      "summary": "Plan International Ghana has called for independent investigations and comprehensive child protection reforms following allegations of sexual abuse involving female students of Obuasi…",
+      "categories": [
+        "National",
+        "Obuasi SHTS",
+        "Plan International Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bomfa installs new chief after 8-year chieftaincy dispute",
+      "link": "https://www.myjoyonline.com/bomfa-installs-new-chief-after-8-year-chieftaincy-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T20:37:24.000Z",
+      "summary": "The kingmakers of Bomfa in the Juaben Traditional Area of the Ashanti Region have enstooled 62-year-old Nana Kwame Agyemang Opambuor as the community’s new chief, ending an eight-year…",
+      "categories": [
+        "Regional",
+        "Bomfa",
+        "Chieftaincy dispute",
+        "new chief"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-19.41.13-1-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Canal+ and MultiChoice reduce DStv packages in all Sub-Saharan Africa countries to 4, Premium rebranded as Ultimate.",
+      "link": "https://www.graphic.com.gh/news/general-news/canal-and-multichoice-reduce-dstv-packages-in-all-sub-saharan-africa-countries-to-4-premium-rebranded-as-ultimate.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-26T20:18:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/africa.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Dzifa Tegah declares bid for NDC Deputy National Secretary position",
+      "link": "https://www.myjoyonline.com/dzifa-tegah-declares-bid-for-ndc-deputy-national-secretary-position/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T20:15:03.000Z",
+      "summary": "As the race for key leadership positions in the National Democratic Congress (NDC) gathers momentum, Dzifa Tegah has declared her intention to contest the position of Deputy National…",
+      "categories": [
+        "Politics",
+        "Dzifa Tegah",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-3.29.58-PM-1024x570.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sammy Gyamfi’s mining formalisation remarks do not warrant resignation – Centre for Mining Research and Policy",
+      "link": "https://www.myjoyonline.com/sammy-gyamfis-mining-formalisation-remarks-do-not-warrant-resignation-centre-for-mining-research-and-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T20:10:50.000Z",
+      "summary": "The Centre for Mining Research and Policy has rejected the Minority’s call for the resignation of Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi over his comments on the…",
+      "categories": [
+        "National",
+        "Centre for Mining Research and Policy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sammy-Gyamfi-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gender Data Ghana calls for GES policy on child abuse investigations to be scrapped",
+      "link": "https://www.myjoyonline.com/gender-data-ghana-calls-for-ges-policy-on-child-abuse-investigations-to-be-scrapped/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T20:05:58.000Z",
+      "summary": "Gender Data Ghana (GDG), a think tank focused on gender equality through research and advocacy, has called for the abolition of the Ghana Education Service (GES) policy that allows it to…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261026-WA0013-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UPSA urges graduates to embrace entrepreneurship amid graduate unemployment",
+      "link": "https://www.myjoyonline.com/upsa-urges-graduates-to-embrace-entrepreneurship-amid-graduate-unemployment/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T20:03:54.000Z",
+      "summary": "The University of Professional Studies, Accra (UPSA), is urging graduates to embrace entrepreneurship and job creation as Ghana’s young people continue to face competition for limited…",
+      "categories": [
+        "Education",
+        "Employment",
+        "Entrepreneurship",
+        "graudates",
+        "UPSA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-19.31.31-1024x556.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cheaper DStv: 4 new packages take effect November 5",
+      "link": "https://www.graphic.com.gh/news/general-news/cheaper-dstv-new-packages-take-effect-november-5-as-government-targets-ghost-boxes.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-26T17:53:32.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/dstvee.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "President Mahama arrives in Moscow for 3rd Russia-Africa Summit",
       "link": "https://ghanaiantimes.com.gh/president-mahama-arrives-in-moscow-for-3rd-russia-africa-summit/",
@@ -115,21 +251,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Labourer fined GH¢120,000 for possessing and selling cannabis, tramadol",
-      "link": "https://www.myjoyonline.com/labourer-fined-gh%c2%a2120000-for-possessing-and-selling-cannabis-tramadol/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T16:35:17.000Z",
-      "summary": "A 20-year-old labourer, Kojo Sah Nkrumah, has been fined GH¢120,000 by the Tarkwa Circuit Court for possessing and selling cannabis and tramadol without lawful authority.",
-      "categories": [
-        "Crime",
-        "Regional",
-        "Cannabis",
-        "Tramadol"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-4.47.41-AM-1024x606.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GTA CEO and deputy’s clash sends the wrong signal; both parties should resolve their differences – Fiifi Boafo",
       "link": "https://ghanaiantimes.com.gh/gta-ceo-and-deputys-clash-sends-the-wrong-signal-both-parties-should-resolve-their-differences-fiifi-boafo/",
       "source": "Ghanaian Times",
@@ -141,111 +262,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GTA develops animal welfare policy to promote responsible tourism",
-      "link": "https://www.myjoyonline.com/gta-develops-animal-welfare-policy-to-promote-responsible-tourism/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T16:34:20.000Z",
-      "summary": "The Ghana Tourism Authority is engaging stakeholders in the tourism and hospitality industry on a proposed National Animal Welfare Policy aimed at promoting responsible tourism and…",
-      "categories": [
-        "National",
-        "Animal welfare",
-        "Ghana Tourism Authority",
-        "Tourism"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2464-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GMTF calls on specialists to help improve patient care",
-      "link": "https://www.myjoyonline.com/gmtf-calls-on-specialists-to-help-improve-patient-care/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T16:34:08.000Z",
-      "summary": "The Ghana Medical Trust Fund (GMTF), popularly known as MahamaCares, has called on specialists and health professionals in the Upper East Region to provide feedback to improve its…",
-      "categories": [
-        "Health",
-        "National",
-        "Ghana Medical Trust Fund (GMTF)",
-        "patient care"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Health-Exploitation-Measures-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s poetry industry lacks structure and recognition — Nana Asaase",
-      "link": "https://www.myjoyonline.com/ghanas-poetry-industry-lacks-structure-and-recognition-nana-asaase/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T16:33:52.000Z",
-      "summary": "Ghanaian poet and writer Nana Asaase says the poetry industry in Ghana lacks structure, recognition and opportunities needed to help poets grow and reach wider audiences.",
-      "categories": [
-        "National",
-        "Ghana",
-        "Nana Asaase"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2461.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana risks industrial stagnation if research fails to reach industry – Zanetor",
-      "link": "https://www.myjoyonline.com/ghana-risks-industrial-stagnation-if-research-fails-to-reach-industry-zanetor/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T16:30:11.000Z",
-      "summary": "Environment, Science and Technology Minister Zanetor Agyeman-Rawlings has warned that Ghana risks industrial stagnation if universities and research institutions fail to translate…",
-      "categories": [
-        "National",
-        "environment",
-        "industrial stagnation",
-        "Research"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-16.25.22-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Medical Trust Fund assures beneficiaries of free, covered treatment and safeguards",
-      "link": "https://www.myjoyonline.com/ghana-medical-trust-fund-assures-beneficiaries-of-free-covered-treatment-and-safeguards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T16:14:58.000Z",
-      "summary": "The Administrator of the Ghana Medical Trust Fund (GMTF), has assured beneficiaries that safeguards are in place to minimise the risk of exploitation, as patients enrolled on the Fund are…",
-      "categories": [
-        "Health",
-        "National",
-        "Ghana Medical Trsut Fund",
-        "Patient exploitation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Health-Exploitation-Measures-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Physician assistants offer free health screening in Techiman",
-      "link": "https://www.myjoyonline.com/physician-assistants-offer-free-health-screening-in-techiman/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T16:09:46.000Z",
-      "summary": "The Ghana Physician Assistants Association (GPAA) has begun a free community health screening exercise at four locations in Techiman as part of its 23rd Annual General Conference. The…",
-      "categories": [
-        "Health",
-        "Regional",
-        "Free Health Screening",
-        "Physician Assistants"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-33-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We’ll get trauma support for all Obuasi SHTS sexual assault victims and protect whistleblowers —Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/well-get-trauma-support-for-all-obuasi-shts-sexual-assault-victims-and-protect-whistleblowers-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T15:58:04.000Z",
-      "summary": "Education Minister Haruna Iddrisu has promised trauma-informed support for 19 students affected by the alleged sexual abuse case at Obuasi Senior High Technical School (SHTS), while…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "trauma support",
-        "Victims",
-        "Whistleblowers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2460.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama in Moscow for Russia–Africa Summit",
@@ -270,6 +286,18 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/26/MAHAMA.jpg",
       "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "TOR working to increase crude processing capacity to 45,000 barrels per stream day; engineers to complete work end of October 2026",
+      "link": "https://www.graphic.com.gh/news/general-news/tor-working-to-increase-crude-processing-capacity-to-55-000-barrels-per-daily-stream.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-26T14:19:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Aug/tor2.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Rybakina crushes Fernandez to win fourth title of season",
@@ -392,30 +420,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Canada-Ghana ties deepen as Anand welcomes Ablakwa for high-level talks",
-      "link": "https://www.graphic.com.gh/news/general-news/canada-ghana-ties-deepen-as-anand-welcomes-ablakwa-for-high-level-talks.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-26T08:37:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Northern Ashanti Mines files injunction against seizure of US$110m mine investment",
-      "link": "https://www.graphic.com.gh/news/general-news/northern-ashanti-mines-files-injunction-against-seizure-of-us-110m-mine-investment.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-26T08:31:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/nav.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "U-15 Boys annihilate Myanmar 7-1",
       "link": "https://ghanaiantimes.com.gh/u-15-boys-annihilate-myanmar-7-1/",
       "source": "Ghanaian Times",
@@ -426,18 +430,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Data sharing helping Africa derive greater mineral resource value - MIIF CEO",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-data-sharing-helping-africa-derive-greater-mineral-resource-value-miif-ceo-articulates-at-mining-in-motion-conference.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-26T07:15:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/Justina.jpg",
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
