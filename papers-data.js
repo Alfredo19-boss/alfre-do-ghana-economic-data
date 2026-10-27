@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-27T00:35:00.319Z",
+  "updated": "2026-10-27T05:32:05.573Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,20 +25,117 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ballon d’or 2026: Harry Kane wins ahead of Kylian Mbappé, Lamine Yamal; first Englishman in 25 years",
-      "link": "https://www.myjoyonline.com/ballon-dor-2026-harry-kane-wins-ahead-of-kylian-mbappe-lamine-yamal-first-englishman-in-25-years/",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "link": "https://www.myjoyonline.com/meghan-to-co-host-junior-masterchef-australia/",
       "source": "MyJoyOnline",
-      "published": "2026-10-26T23:12:08.000Z",
-      "summary": "Harry Kane has become the first Englishman to win the Ballon d'Or in 25 years after beating Kylian Mbappé and Lamine Yamal to the award in London on Monday.",
+      "published": "2026-10-27T05:23:53.000Z",
+      "summary": "The Duchess of Sussex has been confirmed as a co-hostof the new season of Junior MasterChef Australia.",
       "categories": [
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Top Story",
-        "Ballon d’Or 2026",
-        "Harry Kane"
+        "International",
+        "Junior MasterChef Australia",
+        "Meghan"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3602-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2508-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Awula Serwah urges Mahama to reaffirm mining licence requirements",
+      "link": "https://www.myjoyonline.com/awula-serwah-urges-mahama-to-reaffirm-mining-licence-requirements/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T05:09:00.000Z",
+      "summary": "The Executive Director of Eco-Conscious Citizens, Awula Serwah, has urged President John Dramani Mahama to publicly reaffirm the legal requirements governing mining, warning that recent…",
+      "categories": [
+        "National",
+        "Awula Serwah",
+        "Galamsey",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Awula-Serwah.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cheaper DStv: 4 new packages take effect November 5",
+      "link": "https://www.myjoyonline.com/cheaper-dstv-4-new-packages-take-effect-november-5/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T05:02:00.000Z",
+      "summary": "Canal+ and MultiChoice Ghana have introduced cheaper DStv subscription packages as part of efforts to make pay television more affordable and discourage the use of pirated services and…",
+      "categories": [
+        "National",
+        "DStv",
+        "Sam George"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/dstvee.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UCC-UTAG demands clearer boundaries for GTEC’s regulatory role",
+      "link": "https://www.myjoyonline.com/ucc-utag-demands-clearer-boundaries-for-gtecs-regulatory-role/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T04:54:00.000Z",
+      "summary": "The University of Cape Coast (UCC) Chapter of the University Teachers Association of Ghana (UTAG) has admonished the Ghana Tertiary Education Commission (GTEC) to refrain from interfering…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "GTEC",
+        "UCC",
+        "UTAG"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-4.37.32-AM-1024x619.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TOR unveils a sweeping four-year transformation agenda",
+      "link": "https://www.myjoyonline.com/tor-unveils-a-sweeping-four-year-transformation-agenda/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T04:49:00.000Z",
+      "summary": "The Tema Oil Refinery (TOR) has announced a sweeping four-year transformation agenda to quadruple its refining footprint, diversify its asset base, and embed social infrastructure in its…",
+      "categories": [
+        "National",
+        "TOR"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Politics-IMF-TOR-e1793036830869-1024x620.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "SAWA Program: Agri-Impact, PwC Ghana partner to strengthen consortium firms",
+      "link": "https://www.myjoyonline.com/sawa-program-agri-impact-pwc-ghana-partner-to-strengthen-consortium-firms/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T04:43:00.000Z",
+      "summary": "Agri-Impact Ltd has signed a four-year agreement with PwC Ghana to strengthen the institutional capacity of consortium partners implementing the Sustainable Aquaculture for Women…",
+      "categories": [
+        "National",
+        "Agri-Impact",
+        "PwC Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-4.31.20-AM-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tarkwa Nsuaem NDC Elections: Incumbent Chairman, Secretary lose seats",
+      "link": "https://www.myjoyonline.com/tarkwa-nsuaem-ndc-elections-incumbent-chairman-secretary-lose-seats/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T04:39:00.000Z",
+      "summary": "John Justice Abban, the 2020 Parliament Candidate for the National Democratic Congress (NDC) in the Tarkwa Nsuaem Constituency, has defeated Mr Danladi Salifu, the party’s incumbent…",
+      "categories": [
+        "National",
+        "NDC",
+        "Tarkwa Nsuaem"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/NDC-flag-613x424-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "North- East Region turns to solar-powered water system to tackle climate change",
+      "link": "https://www.myjoyonline.com/north-east-region-turns-to-solar-powered-water-system-to-tackle-climate-change/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T04:33:00.000Z",
+      "summary": "The North-East Regional Coordinating Council is promoting solar-powered water systems and dry-season farming to help communities adapt to climate change, as rivers dry up and traditional…",
+      "categories": [
+        "National",
+        "North- East",
+        "Solar"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-4.26.12-AM-1024x608.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -52,105 +149,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/26/fenuku.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ballon d’Or 2026: Harry Kane wins 2026 Men’s Striker of the Year award",
-      "link": "https://www.myjoyonline.com/ballon-dor-2026-harry-kane-wins-2026-mens-striker-of-the-year-award/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T23:04:52.000Z",
-      "summary": "Bayern Munich and England striker Harry Kane has won the 2026 Men’s Striker of the Year award at the Ballon d’Or ceremony in London after an outstanding goalscoring campaign for club and…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Ballon d’Or 2026",
-        "Harry Kane"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3601.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "link": "https://www.myjoyonline.com/lula-wins-fourth-term-in-dramatic-brazil-election-comeback/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T22:44:00.000Z",
-      "summary": "Brazil's President Luiz Inácio Lula da Silva has won a fourth term in office in a dramatic comeback over his right-wing challenger Flávio Bolsonaro.",
-      "categories": [
-        "International",
-        "Brazil",
-        "Lula"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Anthropic warns of ‘catastrophic risk’ to humankind ahead of blockbuster share listing",
-      "link": "https://www.myjoyonline.com/anthropic-warns-of-catastrophic-risk-to-humankind-ahead-of-blockbuster-share-listing/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T22:42:36.000Z",
-      "summary": "Anthropic has warned artificial intelligence (AI) could pose \"catastrophic or existential risks to humanity\" as it unveiled details of its planned blockbuster stock market listing in the US.",
-      "categories": [
-        "News",
-        "Anthropic",
-        "Claude"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1167-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Labourer fined GH¢120,000 for possessing and selling cannabis and tramadol",
-      "link": "https://www.myjoyonline.com/labourer-fined-gh%c2%a2120000-for-possessing-and-selling-cannabis-and-tramadol/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T22:35:09.000Z",
-      "summary": "A 20-year-old labourer, Kojo Sah Nkrumah, has been fined GH¢120,000 by the Tarkwa Circuit Court for possessing and selling cannabis and tramadol without lawful authority.",
-      "categories": [
-        "Crime",
-        "Cannabis"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/03/court-gavel1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "link": "https://www.myjoyonline.com/chris-brown-given-suspended-eight-month-prison-sentence-over-nightclub-attack/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T22:30:15.000Z",
-      "summary": "US singer Chris Brown has avoided jail after striking a man twice in the head with a glass tequila bottle in a London nightclub.",
-      "categories": [
-        "International",
-        "Music",
-        "Chris Brown"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/5a345720-3618-11f0-8f93-0590071db98a.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ballon d’or 2026: De la Fuente wins coach of the Year Award after Spain’s World Cup triumph",
-      "link": "https://www.myjoyonline.com/ballon-dor-2026-de-la-fuente-wins-2026-ballon-dor-coach-of-the-year-award-after-spains-world-cup-triumph/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T22:26:51.000Z",
-      "summary": "Spain head coach Luis de la Fuente has been named the 2026 Men’s Coach of the Year at the Ballon d’Or ceremony in London, capping a remarkable year in which he led the national team to FIFA…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Ballon d’Or 2026",
-        "Luis Dela Fuente"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3599.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Pennant has more than 50 stitches after dog attack",
-      "link": "https://www.myjoyonline.com/pennant-has-more-than-50-stitches-after-dog-attack/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T22:18:05.000Z",
-      "summary": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog.",
-      "categories": [
-        "Football",
-        "Jermaine Pennant",
-        "Liverpool"
-      ],
-      "image": null,
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ignore ‘economic propaganda’; TOR refines Ghanaian medium sweet crude same as what is in Nigeria and Ivory Coast in the Equatorial basin – TOR MD Kombat",
