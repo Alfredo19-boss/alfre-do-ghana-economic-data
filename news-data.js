@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-26T21:18:27.427Z",
-  "worldAt": "2026-10-26T21:18:27.424Z",
+  "updated": "2026-10-27T00:34:45.859Z",
+  "worldAt": "2026-10-27T00:34:45.857Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,16 +20,16 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 4/25 stories",
+    "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -39,13 +39,27 @@ window.GDC_NEWS = {
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 32 stories",
-    "Africa · Africanews: 26 stories",
+    "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 4 stories",
     "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Ignore ‘economic propaganda’; TOR refines Ghanaian medium sweet crude same as what is in Nigeria and Ivory Coast in the Equatorial basin – TOR MD Kombat",
+      "link": "https://www.graphic.com.gh/news/general-news/ignore-economic-propaganda-tor-refines-ghanaian-medium-sweet-crude-same-as-what-is-in-nigeria-and-ivory-coast-in-the-equatorial-basin-tor-md-kombat.html",
+      "source": "Graphic Online",
+      "published": "2026-10-26T22:03:59.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Mahama Arrives in Moscow for Russia-Africa Summit, Seeks Business Ties",
+      "link": "https://thehighstreetjournal.com/mahama-in-moscow-for-russia-africa-summit/",
+      "source": "The High Street Journal",
+      "published": "2026-10-26T21:18:22.000Z",
+      "summary": "The president is scheduled to meet Vladimir Putin and hold talks with Russian businesses and state institutions during the visit"
+    },
     {
       "title": "GCB Bank partners with UnionPay to launch Ghana’s first RMB debit and prepaid cards",
       "link": "https://www.myjoyonline.com/gcb-bank-partners-unionpay-to-launch-ghanas-first-rmb-debit-and-prepaid-cards/",
@@ -1081,29 +1095,158 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-23T05:25:03.000Z",
       "summary": "Back from the 2026 IMF and World Bank Annual Meetings in Bangkok with the Ghana delegation led by Hon. Dr Cassiel Ato Forson. Below, I share some reflections from the various panels I…"
-    },
-    {
-      "title": "Funding SMEs: Do Ghana’s SME Financial Products Really Speak the Language of SMEs? A Specialist’s Insight",
-      "link": "https://thehighstreetjournal.com/funding-smes-do-ghanas-sme-financial-products-really-speak-the-language-of-smes-a-specialists-insight/",
-      "source": "The High Street Journal",
-      "published": "2026-10-23T05:05:00.000Z",
-      "summary": "Maame Yaa Owusu-Amoah says Ghana’s banks must design SME products around real business timelines, using human-centred design, flexible collateral like cash flow and stock, while…"
-    },
-    {
-      "title": "Ghana’s Cannabis Industry Faces Barriers as $45,000 Licensing Fees Stall Investment",
-      "link": "https://thehighstreetjournal.com/ghanas-cannabis-industry-faces-barriers/",
-      "source": "The High Street Journal",
-      "published": "2026-10-23T05:03:00.000Z",
-      "summary": "The industry chamber says high fees and limited market access have stalled licensed operations, while safety concerns forced Ghanaian representatives to skip a South African industry event"
     }
   ],
   "world": [
     {
+      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T00:00:00.000Z",
+      "summary": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq."
+    },
+    {
+      "title": "Flavio Bolsonaro vows to lead opposition after Brazil court imposes travel ban",
+      "link": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+      "source": "France 24",
+      "published": "2026-10-26T23:56:24.000Z",
+      "summary": "Brazilian presidential candidate Flavio Bolsonaro said on Monday a Supreme Court justice had barred him from leaving the country after he narrowly lost to incumbent Luiz Inacio Lula da…",
+      "image": "https://s.france24.com/media/display/d4a27d8e-d194-11f1-a254-5b4a75578ebb/w:1024/p:16x9/AP26298431483131.jpg"
+    },
+    {
+      "title": "Bolsonaro says police demand passports after Brazil election defeat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T23:53:45.000Z",
+      "summary": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports"
+    },
+    {
+      "title": "Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown",
+      "link": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
+      "source": "France 24",
+      "published": "2026-10-26T23:45:07.000Z",
+      "summary": "Harry Kane became the first Englishman in 25 years to win the Ballon d’Or on Monday after scoring 73 goals for club and country last season. Spain’s Alexia Putellas claimed her third…",
+      "image": "https://s.france24.com/media/display/23d66ae0-d196-11f1-a0cd-4b25c96ec90e/w:1024/p:16x9/a87952700e7615cda57f1779147c524a2f3b16a8.jpg"
+    },
+    {
+      "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T23:50:11.000Z",
+      "summary": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people."
+    },
+    {
+      "title": "Europe's top NATO powers pledge greater defence role, reaffirm US alliance",
+      "link": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance",
+      "source": "France 24",
+      "published": "2026-10-26T23:33:06.000Z",
+      "summary": "Europe's five main NATO members said on Monday they were ready to take greater responsibility for the continent's security while reaffirming the United States as an \"indispensable ally\"…",
+      "image": "https://s.france24.com/media/display/3c71f10a-bc06-11f1-a5c0-91cf9f3cd539/w:1024/p:16x9/37f2a1d4c57bc8d26fcb7d36410c94d95841f0b4.jpg"
+    },
+    {
+      "title": "Jordan attacks Syria in response to Karak church attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T23:48:51.000Z",
+      "summary": "Jordan’s air force has carried out several strikes in southern Syria in response to Friday’s church attack."
+    },
+    {
+      "title": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
+      "link": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
+      "source": "France 24",
+      "published": "2026-10-26T23:24:17.000Z",
+      "summary": "Senior officials from Saudi Arabia, Turkey and Pakistan held talks in Iran on Monday aimed at preventing renewed fighting in the Middle East, with Tehran describing discussions as “very…",
+      "image": "https://s.france24.com/media/display/484996fa-cd8f-11f1-8da3-4da0d2c6855d/w:1024/p:16x9/2f310afab0f2ee355e67e96c836f9f342820c590.jpg"
+    },
+    {
+      "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+      "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T23:25:29.000Z",
+      "summary": "Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001."
+    },
+    {
+      "title": "France: crowds fill Marseille's Old Port in anti-racism protest",
+      "link": "http://www.africanews.com/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest/",
+      "source": "Africanews",
+      "published": "2026-10-26T22:20:20.000Z",
+      "summary": "Hundreds of people gathered at Marseille's Vieux-Port on Monday evening to protest against racism following a deadly shooting near Paris. Police estimated the crowd at 800, while organisers…"
+    },
+    {
+      "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T23:18:31.000Z",
+      "summary": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce."
+    },
+    {
+      "title": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+      "source": "France 24",
+      "published": "2026-10-26T22:18:34.000Z",
+      "summary": "As young people protest poor school conditions and the rising cost of living across Europe, misleading videos are spreading online. Footage from Poland in 2017, military preparations in…",
+      "image": "https://s.france24.com/media/display/0a8135c2-d18a-11f1-a2e4-4b25c96ec90e/w:1024/p:16x9/icon-1.png"
+    },
+    {
+      "title": "Former FBI director James Comey hit with third set of charges under Trump",
+      "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T22:03:26.000Z",
+      "summary": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information."
+    },
+    {
+      "title": "Anthropic's IPO filing shows soaring sales and steep losses",
+      "link": "https://www.france24.com/en/tv-shows/business/20261026-anthropic-s-ipo-filing-shows-soaring-sales-and-steep-losses",
+      "source": "France 24",
+      "published": "2026-10-26T22:01:25.000Z",
+      "summary": "AI giant Anthropic has publicly filed for an initial public offering (IPO) with US market regulators. The document offered a glimpse into the company's finances but also contained nearly…",
+      "image": "https://s.france24.com/media/display/b8b37604-d186-11f1-9cf6-4d317af013fd/w:1024/p:16x9/202606241200WD-ANTHROPIC-ARCHIVE-O.png"
+    },
+    {
+      "title": "Africa food security under threat due to Iran war, trade officials warn",
+      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T21:42:18.000Z",
+      "summary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say."
+    },
+    {
+      "title": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
+      "link": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
+      "source": "France 24",
+      "published": "2026-10-26T21:49:17.000Z",
+      "summary": "On October 25, Serbia's student-led protest movement won a historic victory in parliamentary ⁠elections, defeating outgoing President Aleksandar Vucic's party. Supporters of the student…",
+      "image": "https://s.france24.com/media/display/ebe69ffe-d174-11f1-98c4-4d317af013fd/w:1024/p:16x9/Serbie-cover.jpg"
+    },
+    {
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-26T21:31:53.000Z",
+      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg"
+    },
+    {
+      "title": "The fall of El-Fasher, one year on",
+      "link": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
+      "source": "France 24",
+      "published": "2026-10-26T21:26:52.000Z",
+      "summary": "In tonight's edition, 15 military officials are sanctioned by the UK over the brutality and abuse of civilians during the fall of El Fasher. Also, ⁠Algeria's set to send in army units ​to…",
+      "image": "https://s.france24.com/media/display/2c8190e2-d183-11f1-ad8e-bba4eee3dc72/w:1024/p:16x9/DL00006282-VOD-00023652-01.jpg"
+    },
+    {
       "title": "Human rights activists condemn alleged abduction of Tanzanian govt critic",
       "link": "http://www.africanews.com/2026/10/26/human-rights-activists-condemn-alleged-abduction-of-tanzanian-govt-critic/",
       "source": "Africanews",
-      "published": "2026-10-26T21:06:47.000Z",
+      "published": "2026-10-26T21:13:32.000Z",
       "summary": "Human rights activists condemn the alleged abduction of Tanzanian dissident and former opposition official, Twaha Mwaipaya, in Kenya. Tanzania's government, which has cracked down heavily…"
+    },
+    {
+      "title": "Trump offers $1 million for tipoffs leading to vote fraud conviction as midterms approach",
+      "link": "https://www.france24.com/en/americas/20261026-trump-offers-1-million-for-tipoffs-leading-to-vote-fraud-conviction-as-midterms-approach",
+      "source": "France 24",
+      "published": "2026-10-26T21:17:23.000Z",
+      "summary": "US President Donald Trump on Monday pledged a $1 million reward for information on voter fraud leading to conviction ahead of the upcoming 2026 US midterms on November 3. The president gave…",
+      "image": "https://s.france24.com/media/display/682a0446-d17c-11f1-9a6e-5b4a75578ebb/w:1024/p:16x9/2026-10-26T195316Z-112147299-RC27BOAN60PB-RTRMADP-3-USA-TRUMP.jpg"
     },
     {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -1114,11 +1257,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Huge explosion at a weapons depot in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+      "title": "What will Lula’s fourth term mean for Brazil?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T20:41:33.000Z",
-      "summary": "Huge explosion at a weapons depot in Syria"
+      "published": "2026-10-26T20:55:47.000Z",
+      "summary": "Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?"
     },
     {
       "title": "A bad omen? Syria bans women from university courses",
@@ -1128,11 +1271,11 @@ window.GDC_NEWS = {
       "summary": "The recent announcement that Syrian tertiary institutes will not allow women into some courses has triggered debate. Critics worry it may be a sign that the new Syrian government is…"
     },
     {
-      "title": "What Vucic’s defeat means for Serbia’s foreign policy",
-      "link": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
+      "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+      "link": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T20:38:40.000Z",
-      "summary": "Those expecting Belgrade to tilt towards the West may need patience while the new government deals with domestic issues."
+      "published": "2026-10-26T20:55:37.000Z",
+      "summary": "Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump's ire."
     },
     {
       "title": "Serbian student movement eyes power after election triumph",
@@ -1143,11 +1286,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/a38820fc-d174-11f1-91ec-bdb9616e85cf/w:1024/p:16x9/EN-20261026-200845-201801-CS.jpg"
     },
     {
-      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+      "title": "Palestinian children crawl under Israeli military gates to get to school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T20:20:09.000Z",
-      "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign."
+      "published": "2026-10-26T20:46:01.000Z",
+      "summary": "Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school."
     },
     {
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
@@ -1158,11 +1301,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg"
     },
     {
-      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+      "title": "Huge explosion at a weapons depot in Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T20:17:09.000Z",
-      "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump."
+      "published": "2026-10-26T20:41:33.000Z",
+      "summary": "Huge explosion at a weapons depot in Syria"
     },
     {
       "title": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
@@ -1173,26 +1316,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/83c7ae8c-d16e-11f1-a411-bdb9616e85cf/w:1024/p:16x9/2026-10-26T050657Z-1271320918-RC2OAOA8T6EG-RTRMADP-3-BRAZIL-ELECTION.jpg"
     },
     {
-      "title": "80 injured after bus plunges down embankment near Barcelona",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
+      "title": "What Vucic’s defeat means for Serbia’s foreign policy",
+      "link": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T19:49:31.000Z",
-      "summary": "80 injured after bus plunges down embankment near Barcelona"
-    },
-    {
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-26T19:16:28.000Z",
-      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg"
-    },
-    {
-      "title": "Jordan arrests three suspects over deadly church attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T19:25:53.000Z",
-      "summary": "Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people."
+      "published": "2026-10-26T20:38:40.000Z",
+      "summary": "Those expecting Belgrade to tilt towards the West may need patience while the new government deals with domestic issues."
     },
     {
       "title": "Moscow hosts African leaders for Russia-Africa Summit and Energy Forum",
@@ -1202,11 +1330,11 @@ window.GDC_NEWS = {
       "summary": "African leaders are gathering in Moscow for a series of high-level meetings focused on strengthening ties with Russia and shaping the future of global energy cooperation."
     },
     {
-      "title": "Trump faces private citizens lawsuit over limiting White House media access",
-      "link": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T18:29:26.000Z",
-      "summary": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide."
+      "published": "2026-10-26T20:20:09.000Z",
+      "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign."
     },
     {
       "title": "Sudan: Soaring Prices Exacerbate the Food Crisis [ Africanews Today ]",
@@ -1216,11 +1344,11 @@ window.GDC_NEWS = {
       "summary": "Torn apart by war, Sudan is grappling with the consequences of the armed conflict on its economy and its people. In Omdurman, bread supplies are dwindling, and residents can no longer…"
     },
     {
-      "title": "Brazil’s real sinks after Lula’s re-election victory",
-      "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T18:27:23.000Z",
-      "summary": "Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges."
+      "published": "2026-10-26T20:17:09.000Z",
+      "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump."
     },
     {
       "title": "Sydney's new $5bn airport has one big problem: Getting there is tough",
@@ -1231,11 +1359,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe66/live/b5f63180-d0d8-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Could the midterms change US military support for Israel?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "title": "80 injured after bus plunges down embankment near Barcelona",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T18:05:12.000Z",
-      "summary": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel."
+      "published": "2026-10-26T19:49:31.000Z",
+      "summary": "80 injured after bus plunges down embankment near Barcelona"
     },
     {
       "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
@@ -1246,11 +1374,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/2f768b06-d163-11f1-8123-4d317af013fd/w:1024/p:16x9/AP26297362966211.jpg"
     },
     {
-      "title": "US midterm elections 2026 in maps and charts",
-      "link": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
+      "title": "Jordan arrests three suspects over deadly church attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T18:00:07.000Z",
-      "summary": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency."
+      "published": "2026-10-26T19:25:53.000Z",
+      "summary": "Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people."
     },
     {
       "title": "French student union leaders call for 'continued mobilisation' after meeting PM",
@@ -1261,145 +1389,40 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/47a33668-d161-11f1-a33c-4b25c96ec90e/w:1024/p:16x9/capture-3bae4ed3.jpg"
     },
     {
-      "title": "Zelenskyy says peace talks with Russia, US to restart",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+      "title": "Trump faces private citizens lawsuit over limiting White House media access",
+      "link": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-26T17:58:14.000Z",
-      "summary": "Zelenskyy says peace talks with Russia, US to restart"
-    },
-    {
-      "title": "Dakar prepares to host the 2026, Youth Olympics Africa’s first Olympic event",
-      "link": "http://www.africanews.com/2026/10/26/dakar-prepares-to-host-the-2026-youth-olympics-africas-first-olympic-event/",
-      "source": "Africanews",
-      "published": "2026-10-26T17:24:51.000Z",
-      "summary": "The countdown is on in Dakar. With just days to go, construction crews are racing against the clock to prepare Senegal’s capital for a historic global sporting event."
-    },
-    {
-      "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T17:55:59.000Z",
-      "summary": "Experts say recovery for earthquake survivors will likely be a lifelong endeavour, given the physical and mental toll."
-    },
-    {
-      "title": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
-      "link": "http://www.africanews.com/2026/10/26/russia-flames-engulf-buildings-after-ukrainian-drone-attack-in-voronezh-region/",
-      "source": "Africanews",
-      "published": "2026-10-26T17:19:51.000Z",
-      "summary": "At least two people were killed and 17 injured in a Ukrainian drone attack on Russia's Voronezh region. Flames engulfed buildings, while falling debris struck a commuter train."
-    },
-    {
-      "title": "Algeria’s president orders troop deployment to neighbouring Niger",
-      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T17:55:47.000Z",
-      "summary": "Niger requested troops to secure shared energy interests in what would be Algeria’s first deployment abroad since 1973."
-    },
-    {
-      "title": "Brazil: What does Lula's re-election mean for the Amazon?",
-      "link": "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
-      "source": "France 24",
-      "published": "2026-10-26T17:18:55.000Z",
-      "summary": "Climate activists in Brazil are celebrating President Luiz Inacio Lula da Silva's election victory as good news for the Amazon rainforest. His last four years in power saw a record decrease…",
-      "image": "https://s.france24.com/media/display/04f1da5a-d160-11f1-81a2-4b25c96ec90e/w:1024/p:16x9/EN-20261026-173419-173609-CS.jpg"
-    },
-    {
-      "title": "Britain sanctions Sudanese commanders over weaponised rape",
-      "link": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T17:32:46.000Z",
-      "summary": "Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes."
-    },
-    {
-      "title": "Displaced families in Yemen live in dire humanitarian situation",
-      "link": "http://www.africanews.com/2026/10/26/displaced-families-in-yemen-live-in-dire-humanitarian-situation/",
-      "source": "Africanews",
-      "published": "2026-10-26T17:14:30.000Z",
-      "summary": "Hundreds of displaced families from Yemen's Taiz and Lahj governorates are living in camps in Aden amid difficult living conditions and a continuing need for humanitarian assistance…"
-    },
-    {
-      "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
-      "link": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T17:27:34.000Z",
-      "summary": "UN commission notes Russian weaponisation of cold in nearly five years of attacks on heating plants and power lines."
-    },
-    {
-      "title": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
-      "link": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
-      "source": "France 24",
-      "published": "2026-10-26T17:11:03.000Z",
-      "summary": "Israel's defence minister denied on Monday (October 26) reports of a rift between PM Netanyahu and the army over Iran, before the vote. Netanyahu has campaigned heavily on his security…",
-      "image": "https://s.france24.com/media/display/8e69e600-d15c-11f1-948d-bba4eee3dc72/w:1024/p:16x9/EN-20261026-170817-171420-CS.jpg"
-    },
-    {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-26T17:00:09.000Z",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e457/live/393c15f0-d11a-11f1-9a61-7b8d75492b97.jpg"
-    },
-    {
-      "title": "Leaders across Americas react to Brazil President Lula's re-election",
-      "link": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election",
-      "source": "France 24",
-      "published": "2026-10-26T17:05:04.000Z",
-      "summary": "​President Luiz Inacio Lula da Silva won Brazil's presidential election on Sunday (October 25), defeating right-wing ​Senator Flavio Bolsonaro in a runoff to secure a fourth non-consecutive…",
-      "image": "https://s.france24.com/media/display/efbe6938-d145-11f1-9537-5b4a75578ebb/w:1024/p:16x9/AP26299151844900.jpg"
-    },
-    {
-      "title": "Ballon d’Or 2026 award ceremony LIVE: Winners, reactions and latest news",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T17:00:00.000Z",
-      "summary": "Follow updates from the 2026 Ballon d'Or ceremony as the world's best male and female footballers are crowned."
-    },
-    {
-      "title": "Israeli candidate Eisenkot pledges to unite country as Netanyahu deems him 'soft' on Iran",
-      "link": "https://www.france24.com/en/middle-east/20261026-israeli-candidate-eisenkot-pledges-to-unite-israelis-as-netanyahu-deems-him-soft-on-iran",
-      "source": "France 24",
-      "published": "2026-10-26T16:58:38.000Z",
-      "summary": "Israeli presidential candidate Gadi Eisenkot's pledge made Sunday to \"heal\" Israeli society after Prime Minister Benjamin Netanyahu's divisive tenure resonated with some voters attending…",
-      "image": "https://s.france24.com/media/display/d413bfb8-d158-11f1-ac33-4b25c96ec90e/w:1024/p:16x9/000-D3UD2UE.jpg"
-    },
-    {
-      "title": "Delegations arrive in Tehran for security talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T16:55:19.000Z",
-      "summary": "Delegations arrive in Tehran for security talks"
-    },
-    {
-      "title": "'Lula accustomed to negotiating tough bargains': Campaign promises collide with right-wing Congress",
-      "link": "https://www.france24.com/en/lula-accustomed-to-negotiating-tough-bargains-campaign-promises-collide-with-right-wing-congress",
-      "source": "France 24",
-      "published": "2026-10-26T16:54:22.000Z",
-      "summary": "Erin Ogunkeye is pleased to welcome Christopher Sabatini, Director of Chatham House's Latin America Programme. Sabatini examines how Lula's campaign reinvention, youth mobilisation, and the…",
-      "image": "https://s.france24.com/media/display/9c2f2da2-d159-11f1-8aa9-bba4eee3dc72/w:1024/p:16x9/EN-20261026-150453-151518-CS.jpg"
-    },
-    {
-      "title": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-      "link": "https://www.aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T16:53:51.000Z",
-      "summary": "The filing sets up the company for a Wall Street debut next month, potentially eclipsing SpaceX's IPO."
-    },
-    {
-      "title": "Israel election: unable to vote from abroad, expats have to fly home",
-      "link": "https://www.france24.com/en/israel-election-unable-to-vote-from-abroad-expats-have-to-fly-home",
-      "source": "France 24",
-      "published": "2026-10-26T16:47:57.000Z",
-      "summary": "Israelis can’t vote from abroad, so tens of thousands of expats are expected to fly home for the election. At Tel Aviv airport, supporters of opposition figure Gadi Eisenkot are already…",
-      "image": "https://s.france24.com/media/display/174cfc2a-d15b-11f1-8429-4b25c96ec90e/w:1024/p:16x9/Vignette-EN-1.png"
+      "published": "2026-10-26T18:29:26.000Z",
+      "summary": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide."
     }
   ],
   "africa": [
     {
+      "title": "East Africa: Tanzania Sees Massive Drop in Poverty Level As Population Hits 70m",
+      "link": "https://allafrica.com/stories/202610260850.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-26T23:39:46.000Z",
+      "summary": "[Daily News] Dodoma -- THE government has proudly announced massive decline in poverty level for its citizens countrywide."
+    },
+    {
+      "title": "Africa food security under threat due to Iran war, trade officials warn",
+      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T21:42:18.000Z",
+      "summary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say."
+    },
+    {
+      "title": "Africa: Ex-African Leaders Stress Need to Accelerate Integration, Tech Sovereignty for Africa's Future",
+      "link": "https://allafrica.com/stories/202610260847.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-26T22:41:08.000Z",
+      "summary": "[ENA] Addis Ababa -- Former African leaders and senior officials called for accelerated continental integration, greater investment in technological capabilities, and stronger African…"
+    },
+    {
       "title": "Human rights activists condemn alleged abduction of Tanzanian govt critic",
       "link": "http://www.africanews.com/2026/10/26/human-rights-activists-condemn-alleged-abduction-of-tanzanian-govt-critic/",
       "source": "Africanews",
-      "published": "2026-10-26T21:06:47.000Z",
+      "published": "2026-10-26T21:13:32.000Z",
       "summary": "Human rights activists condemn the alleged abduction of Tanzanian dissident and former opposition official, Twaha Mwaipaya, in Kenya. Tanzania's government, which has cracked down heavily…"
     },
     {
@@ -1656,27 +1679,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-26T12:00:52.000Z",
       "summary": "[UN News] The UN's Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic…"
-    },
-    {
-      "title": "Ghana: Ghana's Push to Join Brics - an Analysis Through the Energy Lens",
-      "link": "https://allafrica.com/stories/202610260359.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-26T11:31:07.000Z",
-      "summary": "[Ghanaian Times] There is an old saying that you should not put all your eggs in one basket, especially if you are not the one carrying the basket. For Ghana, this is increasingly relevant…"
-    },
-    {
-      "title": "Nigeria: Ebola - Nigeria's Index Patient Evacuated to Switzerland, Health Minister Confirms",
-      "link": "https://allafrica.com/stories/202610260311.html",
-      "source": "AllAfrica",
-      "published": "2026-10-26T10:52:46.000Z",
-      "summary": "[Premium Times] In a post on his official X account on Monday, Mr Pate said the patient's condition had improved significantly but warned that she could still be infectious, despite the…"
-    },
-    {
-      "title": "Namibia: Namibia Seeks Jobs, Investment From Russia Ties",
-      "link": "https://allafrica.com/stories/202610260351.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-26T11:28:12.000Z",
-      "summary": "[New Era] Moscow -- President Netumbo Nandi-Ndaitwah will seek investment, job creation and technology transfer when she attends the Russia-Africa Summit in Moscow this week, as Namibia…"
     }
   ]
 };

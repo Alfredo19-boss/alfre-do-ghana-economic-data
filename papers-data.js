@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-26T21:18:45.216Z",
+  "updated": "2026-10-27T00:35:00.319Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,61 +25,144 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Kane prematurely announced as Ballon d’Or winner – but he wasn’t only one",
-      "link": "https://www.myjoyonline.com/kane-prematurely-announced-as-ballon-dor-winner-but-he-wasnt-only-one/",
+      "title": "Ballon d’or 2026: Harry Kane wins ahead of Kylian Mbappé, Lamine Yamal; first Englishman in 25 years",
+      "link": "https://www.myjoyonline.com/ballon-dor-2026-harry-kane-wins-ahead-of-kylian-mbappe-lamine-yamal-first-englishman-in-25-years/",
       "source": "MyJoyOnline",
-      "published": "2026-10-26T21:11:00.000Z",
-      "summary": "For a moment, it seemed as though Harry Kane's dreams of winning the Ballon d'Or had come true.",
+      "published": "2026-10-26T23:12:08.000Z",
+      "summary": "Harry Kane has become the first Englishman to win the Ballon d'Or in 25 years after beating Kylian Mbappé and Lamine Yamal to the award in London on Monday.",
       "categories": [
         "Football",
-        "Ballon d'Or"
+        "HP Sports 1",
+        "Sports",
+        "Top Story",
+        "Ballon d’Or 2026",
+        "Harry Kane"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2493.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3602-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Seven families to press charges against Obuasi SHTS headmaster amid threats and blackmail",
-      "link": "https://www.myjoyonline.com/seven-families-to-press-charges-against-obuasi-shts-headmaster-amid-threats-and-blackmail/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T21:00:41.000Z",
-      "summary": "Seven families of girls allegedly sexually abused by the headmaster of Obuasi Senior High and Technical School (SHTS) are preparing to press charges against him, amid reported threats…",
+      "title": "Ghana’s Mixed Martial Arts makes global inroads as Jeff Taylor wins African vice-presidency",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghanas-mixed-martial-arts-makes-global-inroads-as-jeff-taylor-wins-african-vice-presidency.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-26T23:06:30.000Z",
+      "summary": "Ghana won gold through Gabriel “Gabby” Fenuku and bronze through Janet Acquah at the October 12–15 competition, where the five-member team competed despite receiving no financial support…",
       "categories": [
-        "Education",
-        "National",
-        "Obuasi SHTS",
-        "sexual abue"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/fenuku.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ballon d’Or 2026: Harry Kane wins 2026 Men’s Striker of the Year award",
+      "link": "https://www.myjoyonline.com/ballon-dor-2026-harry-kane-wins-2026-mens-striker-of-the-year-award/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T23:04:52.000Z",
+      "summary": "Bayern Munich and England striker Harry Kane has won the 2026 Men’s Striker of the Year award at the Ballon d’Or ceremony in London after an outstanding goalscoring campaign for club and…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Ballon d’Or 2026",
+        "Harry Kane"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3601.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Obuasi SHTS scandal: Plan International Ghana demands independent probe, nationwide safeguarding reforms",
-      "link": "https://www.myjoyonline.com/obuasi-shts-scandal-plan-international-ghana-demands-independent-probe-nationwide-safeguarding-reforms/",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "link": "https://www.myjoyonline.com/lula-wins-fourth-term-in-dramatic-brazil-election-comeback/",
       "source": "MyJoyOnline",
-      "published": "2026-10-26T20:37:34.000Z",
-      "summary": "Plan International Ghana has called for independent investigations and comprehensive child protection reforms following allegations of sexual abuse involving female students of Obuasi…",
+      "published": "2026-10-26T22:44:00.000Z",
+      "summary": "Brazil's President Luiz Inácio Lula da Silva has won a fourth term in office in a dramatic comeback over his right-wing challenger Flávio Bolsonaro.",
       "categories": [
-        "National",
-        "Obuasi SHTS",
-        "Plan International Ghana"
+        "International",
+        "Brazil",
+        "Lula"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Obuasi-SHTS.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Bomfa installs new chief after 8-year chieftaincy dispute",
-      "link": "https://www.myjoyonline.com/bomfa-installs-new-chief-after-8-year-chieftaincy-dispute/",
+      "title": "Anthropic warns of ‘catastrophic risk’ to humankind ahead of blockbuster share listing",
+      "link": "https://www.myjoyonline.com/anthropic-warns-of-catastrophic-risk-to-humankind-ahead-of-blockbuster-share-listing/",
       "source": "MyJoyOnline",
-      "published": "2026-10-26T20:37:24.000Z",
-      "summary": "The kingmakers of Bomfa in the Juaben Traditional Area of the Ashanti Region have enstooled 62-year-old Nana Kwame Agyemang Opambuor as the community’s new chief, ending an eight-year…",
+      "published": "2026-10-26T22:42:36.000Z",
+      "summary": "Anthropic has warned artificial intelligence (AI) could pose \"catastrophic or existential risks to humanity\" as it unveiled details of its planned blockbuster stock market listing in the US.",
       "categories": [
-        "Regional",
-        "Bomfa",
-        "Chieftaincy dispute",
-        "new chief"
+        "News",
+        "Anthropic",
+        "Claude"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-19.41.13-1-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-1167-1024x576.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Labourer fined GH¢120,000 for possessing and selling cannabis and tramadol",
+      "link": "https://www.myjoyonline.com/labourer-fined-gh%c2%a2120000-for-possessing-and-selling-cannabis-and-tramadol/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T22:35:09.000Z",
+      "summary": "A 20-year-old labourer, Kojo Sah Nkrumah, has been fined GH¢120,000 by the Tarkwa Circuit Court for possessing and selling cannabis and tramadol without lawful authority.",
+      "categories": [
+        "Crime",
+        "Cannabis"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/03/court-gavel1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "link": "https://www.myjoyonline.com/chris-brown-given-suspended-eight-month-prison-sentence-over-nightclub-attack/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T22:30:15.000Z",
+      "summary": "US singer Chris Brown has avoided jail after striking a man twice in the head with a glass tequila bottle in a London nightclub.",
+      "categories": [
+        "International",
+        "Music",
+        "Chris Brown"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/5a345720-3618-11f0-8f93-0590071db98a.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ballon d’or 2026: De la Fuente wins coach of the Year Award after Spain’s World Cup triumph",
+      "link": "https://www.myjoyonline.com/ballon-dor-2026-de-la-fuente-wins-2026-ballon-dor-coach-of-the-year-award-after-spains-world-cup-triumph/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T22:26:51.000Z",
+      "summary": "Spain head coach Luis de la Fuente has been named the 2026 Men’s Coach of the Year at the Ballon d’Or ceremony in London, capping a remarkable year in which he led the national team to FIFA…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Ballon d’Or 2026",
+        "Luis Dela Fuente"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3599.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pennant has more than 50 stitches after dog attack",
+      "link": "https://www.myjoyonline.com/pennant-has-more-than-50-stitches-after-dog-attack/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-26T22:18:05.000Z",
+      "summary": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog.",
+      "categories": [
+        "Football",
+        "Jermaine Pennant",
+        "Liverpool"
+      ],
+      "image": null,
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ignore ‘economic propaganda’; TOR refines Ghanaian medium sweet crude same as what is in Nigeria and Ivory Coast in the Equatorial basin – TOR MD Kombat",
+      "link": "https://www.graphic.com.gh/news/general-news/ignore-economic-propaganda-tor-refines-ghanaian-medium-sweet-crude-same-as-what-is-in-nigeria-and-ivory-coast-in-the-equatorial-basin-tor-md-kombat.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-26T22:03:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/kombat.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Canal+ and MultiChoice reduce DStv packages in all Sub-Saharan Africa countries to 4, Premium rebranded as Ultimate.",
@@ -92,61 +175,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/26/africa.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Dzifa Tegah declares bid for NDC Deputy National Secretary position",
-      "link": "https://www.myjoyonline.com/dzifa-tegah-declares-bid-for-ndc-deputy-national-secretary-position/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T20:15:03.000Z",
-      "summary": "As the race for key leadership positions in the National Democratic Congress (NDC) gathers momentum, Dzifa Tegah has declared her intention to contest the position of Deputy National…",
-      "categories": [
-        "Politics",
-        "Dzifa Tegah",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-3.29.58-PM-1024x570.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sammy Gyamfi’s mining formalisation remarks do not warrant resignation – Centre for Mining Research and Policy",
-      "link": "https://www.myjoyonline.com/sammy-gyamfis-mining-formalisation-remarks-do-not-warrant-resignation-centre-for-mining-research-and-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T20:10:50.000Z",
-      "summary": "The Centre for Mining Research and Policy has rejected the Minority’s call for the resignation of Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi over his comments on the…",
-      "categories": [
-        "National",
-        "Centre for Mining Research and Policy"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Sammy-Gyamfi-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Data Ghana calls for GES policy on child abuse investigations to be scrapped",
-      "link": "https://www.myjoyonline.com/gender-data-ghana-calls-for-ges-policy-on-child-abuse-investigations-to-be-scrapped/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T20:05:58.000Z",
-      "summary": "Gender Data Ghana (GDG), a think tank focused on gender equality through research and advocacy, has called for the abolition of the Ghana Education Service (GES) policy that allows it to…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261026-WA0013-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UPSA urges graduates to embrace entrepreneurship amid graduate unemployment",
-      "link": "https://www.myjoyonline.com/upsa-urges-graduates-to-embrace-entrepreneurship-amid-graduate-unemployment/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T20:03:54.000Z",
-      "summary": "The University of Professional Studies, Accra (UPSA), is urging graduates to embrace entrepreneurship and job creation as Ghana’s young people continue to face competition for limited…",
-      "categories": [
-        "Education",
-        "Employment",
-        "Entrepreneurship",
-        "graudates",
-        "UPSA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-19.31.31-1024x556.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Cheaper DStv: 4 new packages take effect November 5",
@@ -360,18 +388,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Can anyone end Spain’s domination of the Women’s Ballon d’Or?",
-      "link": "https://www.graphic.com.gh/sports/sports-news/can-anyone-end-spains-domination-of-the-womens-ballon-dor.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-26T13:17:53.000Z",
-      "summary": "Bonmatí’s absence from this year’s race is largely due to a serious leg injury she suffered while on international duty in November 2025. So, can Putellas triumph again, further underlining…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/BALLON.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
       "title": "GWL Accra North region rewards loyal customers",
       "link": "https://www.graphic.com.gh/news/general-news/gwl-accra-north-region-rewards-loyal-customers.html",
       "source": "Daily Graphic",
@@ -403,18 +419,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NDC Chairman Asiedu Nketiah urges unsuccessful candidates to remain engaged",
-      "link": "https://www.graphic.com.gh/news/politics/ndc-chairman-asiedu-nketiah-urges-unsuccessful-candidates-to-remain-engaged.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-26T10:58:18.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
