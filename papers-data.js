@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-27T16:05:23.998Z",
+  "updated": "2026-10-27T20:38:53.546Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,112 +25,296 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "African climate lead demands action for local communities at Liberia summit",
-      "link": "https://www.myjoyonline.com/african-climate-lead-demands-action-for-local-communities-at-liberia-summit/",
+      "title": "Prison reforms: Wontumi proposes dedicated prison hospital, conjugal visits for inmates",
+      "link": "https://www.myjoyonline.com/prison-reforms-wontumi-proposes-dedicated-prison-hospital-conjugal-visits-for-inmates/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T15:59:05.000Z",
-      "summary": "At a strategic gathering of climate negotiators and national focal points, the African Group of Negotiators (AGN) issued a direct call to prioritize local implementation over international…",
+      "published": "2026-10-27T20:35:30.000Z",
+      "summary": "Former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi Boasiako, popularly known as Chairman Wontumi, has called for sweeping reforms in Ghana’s prisons, including the…",
       "categories": [
         "National",
-        "African Group of Negotiators",
-        "Climate change"
+        "Chairman Wontumi",
+        "Prinson reforms"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.33.44-819x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/bernard-antwi-boasiako-chairman-wontumi-e1784556580862.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Adu-Boahene trial must be decided on evidence, not public pressure – CSOs",
-      "link": "https://www.myjoyonline.com/adu-boahene-trial-must-be-decided-on-evidence-not-public-pressure-csos/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T15:58:44.000Z",
-      "summary": "A coalition of civil society organisations has called for the protection of the judge presiding over the criminal trial of former National Signals Bureau director Kwabena Adu-Boahene and…",
+      "title": "Cabic Pound-4-Pound Glory: Three continental crowns at stake in Accra November 6",
+      "link": "https://www.graphic.com.gh/sports/boxing/cabic-pound-4-pound-glory-three-continental-crowns-at-stake-in-accra-november-6.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-27T20:21:35.000Z",
+      "summary": "The card is headlined by deaf boxer Emmanuel Mankatah Sackey against compatriot Ezekiel Annan for the vacant WBO Africa lightweight championship, while stable mate, Kofi Dana faces…",
       "categories": [
-        "National",
-        "Adu Boahene",
-        "Evidence",
-        "Public pressure"
+        "Boxing"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-15.52.42.jpeg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/27/pound.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Telecel Ghana rewards subscriber with Hyundai Creta in 15th Dream Car promotion",
+      "link": "https://www.myjoyonline.com/telecel-ghana-rewards-subscriber-with-hyundai-creta-in-15th-dream-car-promotion/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T20:12:52.000Z",
+      "summary": "Telecel Ghana has rewarded a lucky subscriber, Eric Ayamgash, with a Hyundai Creta at the end of the 15th cycle of its Dream Car promotion. The initiative forms part of the…",
+      "categories": [
+        "Business",
+        "Telecom",
+        "Eric Ayamgash",
+        "Telecel Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-12.28.10-PM-5-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Adutwum calls for mandatory annual child protection training for school staff",
-      "link": "https://www.myjoyonline.com/adutwum-calls-for-mandatory-annual-child-protection-training-for-school-staff/",
+      "title": "Ghanaian music can go global without copying foreign sounds – King Promise",
+      "link": "https://www.myjoyonline.com/ghanaian-music-can-go-global-without-copying-foreign-sounds-king-promise/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T15:55:30.000Z",
-      "summary": "Former Education Minister Dr Yaw Osei Adutwum has called for mandatory child protection training for teachers and other education workers at the beginning of every academic year as part of…",
+      "published": "2026-10-27T20:12:49.000Z",
+      "summary": "Ghanaian Afrobeats and Highlife singer-songwriter King Promise says his ambition is to take Ghanaian music to the global stage without losing the sound and identity that distinguish local…",
       "categories": [
+        "Arts and Culture",
+        "Music",
+        "Radio & TV",
+        "Ghanaian music",
+        "King Promise"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/King-Promise.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I compete with myself, not other artistes – King Promise",
+      "link": "https://www.myjoyonline.com/i-compete-with-myself-not-other-artistes-king-promise/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T20:12:44.000Z",
+      "summary": "Ghanaian Afrobeats and Highlife singer-songwriter Gregory Bortey Newman, known popularly as King Promise, says he is more focused on improving his own achievements than competing with…",
+      "categories": [
+        "Arts and Culture",
+        "Music",
+        "Radio & TV",
+        "King Promise"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/king-promise.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UBA Foundation opens 2026 essay competition to promote literacy among SHS students",
+      "link": "https://www.myjoyonline.com/uba-foundation-opens-2026-essay-competition-to-promote-literacy-among-shs-students/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T20:01:06.000Z",
+      "summary": "The UBA Foundation has opened applications for its 2026 National Essay Competition, seeking to strengthen the writing skills, creativity and critical thinking of senior high school students…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
         "Education",
-        "Adutwum",
-        "Child Protection",
-        "school staff"
+        "Essay competition",
+        "literacy",
+        "SHS",
+        "UBA Foundation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-142452-1-1024x539.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-15.12.38-1024x605.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Pope Yao Yevoo appointed NPP Deputy National Organiser",
-      "link": "https://www.myjoyonline.com/pope-yao-yevoo-appointed-npp-deputy-national-organiser/",
+      "title": "GRASAG president calls for sustainable funding for agricultural research in Africa",
+      "link": "https://www.myjoyonline.com/grasag-president-calls-for-sustainable-funding-for-agricultural-research-in-africa/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T15:53:34.000Z",
-      "summary": "The immediate past Volta Regional Secretary of the New Patriotic Party, Pope Yao Yevoo, has been appointed Deputy National Organiser.",
-      "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Deputy National Organiser",
-        "New Patriotic Party",
-        "Pope Yao Yevoo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Pope-Yao-Yevoo-appointed-Deputy-National-Organiser-for-the-New-Patriotic-Party-932x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African climate negotiators rally youth for action ahead of COP31 and COP32",
-      "link": "https://www.myjoyonline.com/african-climate-negotiators-rally-youth-for-action-ahead-of-cop31-and-cop32/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T15:50:27.000Z",
-      "summary": "Chair of the African Group of Negotiators on Climate Change (AGN), Dr. Nana Antwi-Boasiako Amoah, has urged international partners and young advocates to unite around an integrated climate…",
-      "categories": [
-        "National",
-        "African Group of Negotiators on Climate Change",
-        "Dr. Nana Antwi-Boasiako Amoah",
-        "Regional Conference of Youth (RCOY) Africa 2026"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-21.06.50-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Roads Ministry debunks claims linking viral road video to Ghana",
-      "link": "https://www.myjoyonline.com/roads-ministry-debunks-claims-linking-viral-road-video-to-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T15:46:06.000Z",
-      "summary": "The Ministry of Roads and Highways has clarified that a viral video showing a road surface being pulled apart by hand was filmed in Liberia, not Ghana.",
-      "categories": [
-        "National",
-        "Ghana",
-        "Roads Ministry",
-        "Video"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-135621-315x375-1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "FarmYield and GIZ launch agricultural project to empower over 200 women and youth in Northern Ghana",
-      "link": "https://www.myjoyonline.com/farmyield-and-giz-launch-agricultural-project-to-empower-over-200-women-and-youth-in-northern-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T15:45:40.000Z",
-      "summary": "For 38-year-old Leticia Bopaah, learning to operate a tractor was more than the fulfilment of a childhood dream. It offered the prospect of reducing her farming costs and earning additional…",
+      "published": "2026-10-27T19:58:42.000Z",
+      "summary": "The President of the Graduate Students Association of Ghana (GRASAG), Richard Class-Peters, has called for sustainable financing for agricultural research to improve food security, boost…",
       "categories": [
         "Agribusiness",
         "National",
-        "agricultural project",
-        "FarmYield Ghana",
-        "GIZ",
-        "Northern Ghana"
+        "agricultural research",
+        "GRASAG",
+        "Sustainable funding"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-10.50.44-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-19.52.46-768x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Andre Ayew donates to Black Challenge ahead of World Cup",
+      "link": "https://www.myjoyonline.com/andre-ayew-donates-to-black-challenge-ahead-of-world-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T19:55:57.000Z",
+      "summary": "Former Black Stars captain Andre Ayew has donated an undisclosed amount to Ghana’s national amputee football team, the Black Challenge, ahead of the 2026 Amputee Football World Cup in…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Amputee World Cup",
+        "Andre Ayew",
+        "Black Challenge",
+        "Dede Ayew"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/SASA-635x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana to review laws to implement Accra Convention – Ofosu-Adjare",
+      "link": "https://www.myjoyonline.com/ghana-to-review-laws-to-implement-accra-convention-ofosu-adjare/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T19:52:11.000Z",
+      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, says Ghana will review its laws to facilitate the implementation of the Accra Convention on Negotiable Cargo…",
+      "categories": [
+        "Business",
+        "National",
+        "Accra Convention",
+        "Agribusiness",
+        "Ofosu Adjare",
+        "Trade"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-16.38.39-770x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akonta Mining Case: Prosecution closes case after calling three witnesses",
+      "link": "https://ghanaiantimes.com.gh/akonta-mining-case-prosecution-closes-case-after-calling-three-witnesses/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:25:17.000Z",
+      "summary": "The state has closed its case in the Republic v Akonta Mining and two others. The case was heard earlier today at the Accra Criminal Court, where state prosecutors and CID investigators…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dr Palgrave calls for prison hospital, conjugal visits and reforms",
+      "link": "https://ghanaiantimes.com.gh/dr-palgrave-calls-for-prison-hospital-conjugal-visits-and-reforms/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:23:28.000Z",
+      "summary": "Dr Palgrave Boakye-Danquah, spokesperson to NPP Ashanti Regional Chairman Bernard Antwi Boasiako, popularly known as Chairman Wontumi, has called on the government and Parliament to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ashantigold O4 sacks Karim Zito, two others",
+      "link": "https://ghanaiantimes.com.gh/ashantigold-o4-sacks-karim-zito-two-others/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:21:57.000Z",
+      "summary": "Ashantigold SC has terminated the contracts of three members of its technical team with immediate effect. The affected officials are head coach and technical director Abdul Karim Zito…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kwesi Kwarteng declines Deputy Communications Director role in NPP",
+      "link": "https://ghanaiantimes.com.gh/kwesi-kwarteng-declines-deputy-communications-director-role-in-npp/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:20:03.000Z",
+      "summary": "Kwesi Kwarteng, spokesperson for Kennedy Agyapong, has disclosed that he declined an offer to serve as Deputy National Communications Director of the New Patriotic Party (NPP). In a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority demands Ablakwa’s resignation over South Africa evacuation",
+      "link": "https://ghanaiantimes.com.gh/minority-demands-ablakwas-resignation-over-south-africa-evacuation/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:18:02.000Z",
+      "summary": "The Minority in Parliament has accused Foreign Affairs Minister Samuel Okudzeto Ablakwa of concealing alleged corruption in the evacuation of Ghanaians from South Africa and called on him…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "“Ronaldo was one of my idols growing up” – Harry Kane",
+      "link": "https://ghanaiantimes.com.gh/ronaldo-was-one-of-my-idols-growing-up-harry-kane/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:16:45.000Z",
+      "summary": "England captain Harry Kane says it was extra special to be presented with the Ballon d’Or by one of his childhood idols. Kane made the comment after receiving the prestigious award from…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AI is another creative tool – Kafui Danku defends use of AI in filmmaking",
+      "link": "https://ghanaiantimes.com.gh/ai-is-another-creative-tool-kafui-danku-defends-use-of-ai-in-filmmaking/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:14:49.000Z",
+      "summary": "The Executive Secretary of the National Film Authority, Kafui Danku, has defended the use of Artificial Intelligence (AI) in filmmaking, describing it as another creative tool. In a…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Abu Jinapor describes South Africa evacuation as alleged scheme to siphon public funds",
+      "link": "https://ghanaiantimes.com.gh/abu-jinapor-describes-south-africa-evacuation-as-alleged-scheme-to-siphon-public-funds/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T18:12:38.000Z",
+      "summary": "The Ranking Member on Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has accused Foreign Affairs Minister Samuel Okudzeto Ablakwa of failing to ensure accountability over the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Amoah, Ayanful, Hamidu and Sam-Woode clinch Zutari golf honours",
+      "link": "https://www.graphic.com.gh/sports/sports-news/amoah-ayanful-hamidu-and-sam-woode-clinch-zutari-golf-honours.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-27T17:19:10.000Z",
+      "summary": "The team clinched the overall title in the full net competition with an impressive score of 129, finishing one stroke ahead of the second-placed team of Tlhabeli Ralebitso, Felix Sackitey…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "President Mahama in Moscow: Ghana weighs nuclear energy, deeper Russia ties",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-in-moscow-ghana-weighs-nuclear-energy-deeper-russia-ties.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T16:53:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/866045091_1839969747016547_2743526154032390670_n.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Agricu Ministry to support Black Challenge players with poultry farms",
+      "link": "https://www.graphic.com.gh/sports/sports-news/agriculture-ministry-to-support-black-challenge-players-with-poultry-farms.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-27T16:20:50.000Z",
+      "summary": "He said the eight locally based players in the team would be enrolled in the government’s “Nkukor Nkitinkiti” poultry programme upon their return from the tournament, with birds, cages and…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "President Mahama becomes first sitting Head of State to receive honorary doctorate from Russian University of Transport",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-becomes-first-sitting-head-of-state-to-receive-honorary-doctorate-from-russian-university-of-transport.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T16:20:11.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/861786710_1424639319258371_9084051559875418455_n.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Minority seeks independent audit of South Africa evacuation payments, calls for Ablakwa's resignation",
@@ -143,22 +327,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Adutwum wants sex offenders register to screen teachers and school workers",
-      "link": "https://www.myjoyonline.com/adutwum-wants-sex-offenders-register-to-screen-teachers-and-school-workers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T15:28:47.000Z",
-      "summary": "Former Education Minister Dr Yaw Osei Adutwum has called for mandatory fingerprint background checks as a condition for teacher licensing, arguing that stronger vetting is needed to prevent…",
-      "categories": [
-        "Education",
-        "Adutwum",
-        "school workers",
-        "sex offenders register",
-        "Teachers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-142452-1024x539.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Carrick to stay in charge of Man Utd for Chelsea game",
@@ -269,127 +437,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Asantehene challenges KNUST alumni to support university’s devt",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-asantehene-challenges-knust-alumni-to-support-universitys-devt.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T09:10:48.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/Asantehene.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Initiative to combat disease outbreaks in Africa launched",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-initiative-to-combat-disease-outbreaks-in-africa-launched.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T09:07:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/programme.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Young Ghanaian Women Urged to Adopt Healthy Lifestyles to Prevent Breast Cancer",
-      "link": "https://ghanaiantimes.com.gh/young-ghanaian-women-urged-to-adopt-healthy-lifestyles-to-prevent-breast-cancer/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:59:48.000Z",
-      "summary": "Young Ghanaian women have been urged to adopt healthy diets and lifestyles and prioritise regular breast screening to reduce their risk of breast cancer, which is increasingly being…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana Must Own Digital Infrastructure to Ensure Data Security — Apaak",
-      "link": "https://ghanaiantimes.com.gh/ghana-must-own-digital-infrastructure-to-ensure-data-security-apaak/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:57:28.000Z",
-      "summary": "Ghana must urgently develop and own its digital infrastructure, systems and expertise to protect its data and achieve genuine digital independence, the Deputy Minister of Education, Dr…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Maidens to face Argentina tomorrow • In FIFA U-17 WWC Round of 16 game",
-      "link": "https://ghanaiantimes.com.gh/black-maidens-to-face-argentina-tomorrow-in-fifa-u-17-wwc-round-of-16-game/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:44:29.000Z",
-      "summary": "The Black Maidens of Ghana have secured a place in the Round of 16 of the FIFA U-17 Women’s World Cup (WWC) in Morocco after a deserved 2-0 victory over Canada in their final Group B match…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Okwawu United, Nania FC, WAFA advance in 2026/27 MTN FA Cup",
-      "link": "https://ghanaiantimes.com.gh/okwawu-united-nania-fc-wafa-advance-in-2026-27-mtn-fa-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:43:02.000Z",
-      "summary": "The Preliminary Round of the 2026/27 MTN FA Cup produced a lot of thrills, upsets and penalty shootout drama across the country from Friday, October 23 to Sunday, October 25, 2026. This…",
-      "categories": [
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Digital Entertainment in 2026: How Online Gaming Platforms Are Improving Player Experience",
-      "link": "https://ghanaiantimes.com.gh/digital-entertainment-in-2026-how-online-gaming-platforms-are-improving-player-experience/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:41:25.000Z",
-      "summary": "Digital entertainment now competes for attention on a single screen. A phone can hold a streaming service, a football match, a music app, and an online casino, all a few taps apart. Because…",
-      "categories": [
-        "Technology"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GTF lauds wheelchair tennis athletes, intensifies call for LA2028 support",
-      "link": "https://ghanaiantimes.com.gh/gtf-lauds-wheelchair-tennis-athletes-intensifies-call-for-la2028-support/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:41:18.000Z",
-      "summary": "The Ghana Tennis Federation (GTF) has commended wheelchair tennis players and officials for their dedication and participation in the Ga Mantse Tennis Tournament, describing the competition…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Alcaraz heads strong Spanish Davis Cup team",
-      "link": "https://ghanaiantimes.com.gh/alcaraz-heads-strong-spanish-davis-cup-team/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:38:27.000Z",
-      "summary": "Carlos Alcaraz will lead a strong Spanish Davis Cup team named by captain David Ferrer on Monday. Seven-time Grand Slam winner Alcaraz, Rafael Jodar, Alejandro Davidovich Fokina, Marcel…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Canelo Ready for M’billi Fight in Riyadh",
-      "link": "https://ghanaiantimes.com.gh/canelo-ready-for-mbilli-fight-in-riyadh/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T08:35:37.000Z",
-      "summary": "Mexican boxer, Saul “Canelo” Alvarez, arrived in Riyadh early yesterday and said he was rested and ready for his upcoming fight against WBC super-middleweight champion, Christian M’billi…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "How Harry Kane ended England's 25-year Ballon d'Or wait",
       "link": "https://www.graphic.com.gh/sports/sports-news/how-harry-kane-ended-englands-25-year-ballon-dor-wait.html",
       "source": "Graphic Sports",
@@ -399,42 +446,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/kaneyy.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana’s Mixed Martial Arts makes global inroads as Jeff Taylor wins African vice-presidency",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghanas-mixed-martial-arts-makes-global-inroads-as-jeff-taylor-wins-african-vice-presidency.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-26T23:06:30.000Z",
-      "summary": "Ghana won gold through Gabriel “Gabby” Fenuku and bronze through Janet Acquah at the October 12–15 competition, where the five-member team competed despite receiving no financial support…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/fenuku.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Young chess prodigies shine as Ghana hosts second African Genius Championship",
-      "link": "https://www.graphic.com.gh/sports/sports-news/young-chess-prodigies-shine-as-ghana-hosts-second-african-genius-championship.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-26T16:48:03.000Z",
-      "summary": "The competition, organised by Imagination Africa and Mentors Chess Academy, brought together about 200 young chess players alongside parents, guardians and coaches, with the aim of…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/08/chesser.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "President Mahama endorses Ethiopia’s bid for 2028 AFCON after inspecting Bahir Dar Stadium",
-      "link": "https://www.graphic.com.gh/sports/sports-news/mahama-endorses-ethiopias-bid-for-2028-afcon-after-inspecting-bahir-dar-stadium.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-26T14:37:19.000Z",
-      "summary": "“This is a very impressive stadium, a 52,000-capacity stadium, and it’s already CAF-certified,” Mahama said during the inspection, which was attended by Ethiopian Prime Minister Abiy Ahmed…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/MAHAMA.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
