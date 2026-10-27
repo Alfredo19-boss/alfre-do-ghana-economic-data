@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-27T10:52:33.852Z",
+  "updated": "2026-10-27T16:05:23.998Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,26 +25,224 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Hindsight: Ghana’s LA 28 Olympic Boxing Qualifier Hosting Rights Explained",
-      "link": "https://www.myjoyonline.com/hindsight-ghanas-la-28-olympic-boxing-qualifier-hosting-rights-explained/",
+      "title": "African climate lead demands action for local communities at Liberia summit",
+      "link": "https://www.myjoyonline.com/african-climate-lead-demands-action-for-local-communities-at-liberia-summit/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T10:31:54.000Z",
-      "summary": "On Wednesday, October 21, 2026, World Boxing formally informed the Ghana Boxing Federation that Ghana’s bid to host the Olympic Boxing Qualifiers for the Los Angeles 2028 Games had been…",
+      "published": "2026-10-27T15:59:05.000Z",
+      "summary": "At a strategic gathering of climate negotiators and national focal points, the African Group of Negotiators (AGN) issued a direct call to prioritize local implementation over international…",
       "categories": [
-        "Boxing",
-        "Comp. Opinion",
-        "Comp. Sports",
-        "HP Opinion 1",
-        "HP Sports 2",
-        "Sports",
-        "GBF",
-        "Ghana",
-        "IOC",
-        "LA 28 Olympics",
-        "Olympic Boxing Qualifiers"
+        "National",
+        "African Group of Negotiators",
+        "Climate change"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-30.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.33.44-819x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Adu-Boahene trial must be decided on evidence, not public pressure – CSOs",
+      "link": "https://www.myjoyonline.com/adu-boahene-trial-must-be-decided-on-evidence-not-public-pressure-csos/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T15:58:44.000Z",
+      "summary": "A coalition of civil society organisations has called for the protection of the judge presiding over the criminal trial of former National Signals Bureau director Kwabena Adu-Boahene and…",
+      "categories": [
+        "National",
+        "Adu Boahene",
+        "Evidence",
+        "Public pressure"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-15.52.42.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Adutwum calls for mandatory annual child protection training for school staff",
+      "link": "https://www.myjoyonline.com/adutwum-calls-for-mandatory-annual-child-protection-training-for-school-staff/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T15:55:30.000Z",
+      "summary": "Former Education Minister Dr Yaw Osei Adutwum has called for mandatory child protection training for teachers and other education workers at the beginning of every academic year as part of…",
+      "categories": [
+        "Education",
+        "Adutwum",
+        "Child Protection",
+        "school staff"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-142452-1-1024x539.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Pope Yao Yevoo appointed NPP Deputy National Organiser",
+      "link": "https://www.myjoyonline.com/pope-yao-yevoo-appointed-npp-deputy-national-organiser/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T15:53:34.000Z",
+      "summary": "The immediate past Volta Regional Secretary of the New Patriotic Party, Pope Yao Yevoo, has been appointed Deputy National Organiser.",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Deputy National Organiser",
+        "New Patriotic Party",
+        "Pope Yao Yevoo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Pope-Yao-Yevoo-appointed-Deputy-National-Organiser-for-the-New-Patriotic-Party-932x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African climate negotiators rally youth for action ahead of COP31 and COP32",
+      "link": "https://www.myjoyonline.com/african-climate-negotiators-rally-youth-for-action-ahead-of-cop31-and-cop32/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T15:50:27.000Z",
+      "summary": "Chair of the African Group of Negotiators on Climate Change (AGN), Dr. Nana Antwi-Boasiako Amoah, has urged international partners and young advocates to unite around an integrated climate…",
+      "categories": [
+        "National",
+        "African Group of Negotiators on Climate Change",
+        "Dr. Nana Antwi-Boasiako Amoah",
+        "Regional Conference of Youth (RCOY) Africa 2026"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-21.06.50-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Roads Ministry debunks claims linking viral road video to Ghana",
+      "link": "https://www.myjoyonline.com/roads-ministry-debunks-claims-linking-viral-road-video-to-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T15:46:06.000Z",
+      "summary": "The Ministry of Roads and Highways has clarified that a viral video showing a road surface being pulled apart by hand was filmed in Liberia, not Ghana.",
+      "categories": [
+        "National",
+        "Ghana",
+        "Roads Ministry",
+        "Video"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-135621-315x375-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "FarmYield and GIZ launch agricultural project to empower over 200 women and youth in Northern Ghana",
+      "link": "https://www.myjoyonline.com/farmyield-and-giz-launch-agricultural-project-to-empower-over-200-women-and-youth-in-northern-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T15:45:40.000Z",
+      "summary": "For 38-year-old Leticia Bopaah, learning to operate a tractor was more than the fulfilment of a childhood dream. It offered the prospect of reducing her farming costs and earning additional…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "agricultural project",
+        "FarmYield Ghana",
+        "GIZ",
+        "Northern Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-10.50.44-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority seeks independent audit of South Africa evacuation payments, calls for Ablakwa's resignation",
+      "link": "https://www.graphic.com.gh/news/general-news/minority-seeks-independent-audit-of-south-africa-evacuation-payments-calls-for-ablakwas-resignation.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T15:45:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Adutwum wants sex offenders register to screen teachers and school workers",
+      "link": "https://www.myjoyonline.com/adutwum-wants-sex-offenders-register-to-screen-teachers-and-school-workers/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T15:28:47.000Z",
+      "summary": "Former Education Minister Dr Yaw Osei Adutwum has called for mandatory fingerprint background checks as a condition for teacher licensing, arguing that stronger vetting is needed to prevent…",
+      "categories": [
+        "Education",
+        "Adutwum",
+        "school workers",
+        "sex offenders register",
+        "Teachers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-142452-1024x539.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Carrick to stay in charge of Man Utd for Chelsea game",
+      "link": "https://www.graphic.com.gh/sports/sports-news/carrick-to-stay-in-charge-of-man-utd-for-chelsea-game.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-27T13:37:16.000Z",
+      "summary": "Sources have told BBC Sport that the 45-year-old will be given the opportunity to turn things around at Old Trafford following a dismal start to the campaign. Carrick oversaw training on…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana Health Service urges vigilance as Ebola prevention campaign intensifies",
+      "link": "https://www.graphic.com.gh/news/health/ghs-urges-vigilance-as-ebola-prevention-campaign-intensifies.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T13:28:42.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/May/15/Ebola.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Spain gives NACOC €300,000 for first forensic laboratory",
+      "link": "https://www.graphic.com.gh/news/general-news/spain-gives-nacoc-eur300-000-for-first-forensic-laboratory.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T13:16:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/27/narc.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Basketball: Spintex Knights return home unbeaten, set sights on BAL qualification",
+      "link": "https://www.graphic.com.gh/sports/sports-news/basketball-spintex-knights-return-home-unbeaten-set-sights-on-bal-qualification.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-27T12:33:32.000Z",
+      "summary": "The Knights' latest accomplishment marks another significant step in their quest to secure a place in the BAL, Africa's premier men's club basketball competition. Speaking after the team's…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/27/KNIGHTS.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Wontumi Exim Bank case adjourned over disclosures",
+      "link": "https://www.graphic.com.gh/news/general-news/wontumi-exim-bank-case-adjourned-over-disclosures.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T12:07:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/wontumi_lawyer.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hope Seed Foundation launched in Accra to support people with special needs, caregivers",
+      "link": "https://www.graphic.com.gh/news/general-news/hope-seed-foundation-launched-in-accra-to-support-people-with-special-needs-caregivers.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T12:07:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/ngo26.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama receives honorary doctorate from Friendship University of Russia (RUDN) in Moscow",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-receives-honorary-doctorate-from-rudn-university.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T11:24:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/26/russghana.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "All you need to know about the Dakar 2026 Youth Olympics",
@@ -59,38 +257,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Ghana’s Black Meteors can ‘100%’ end long-standing Olympic absence – Ofei",
-      "link": "https://www.myjoyonline.com/ghanas-black-meteors-can-100-end-long-standing-olympic-absence-ofei/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T10:07:08.000Z",
-      "summary": "The Meteors have not featured at the Olympic Games since the 2004 edition in Athens.",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "Sports",
-        "Africa U-23 Cup of Nations",
-        "Black Meteors",
-        "Desmond Ofei"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/03/Ofei-Desmond-1024x616.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Mahama congratulates Brazil’s Lula on re-election",
-      "link": "https://www.myjoyonline.com/president-mahama-congratulates-brazils-lula-on-re-election/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T09:38:19.000Z",
-      "summary": "President John Dramani Mahama has congratulated Brazilian President Luiz Inácio Lula da Silva on his re-election, expressing confidence that the outcome will provide an opportunity to…",
-      "categories": [
-        "National",
-        "Lula",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/853566758_1794412805037865_4311765064490957821_n-1-1024x731.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Agric Minister donates GH¢50,000 to national amputee team and pledges to offer ‘Nkoko Nketenkete’ business opportunity to team",
       "link": "https://www.graphic.com.gh/sports/sports-news/agric-minister-donates-ghc50-000-to-national-amputee-team-and-pledges-to-offer-nkoko-nketenkete-business-opportunity-to-team.html",
       "source": "Graphic Sports",
@@ -101,22 +267,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/27/amputee_team.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Savannah Regional Minister backs EPA’s Styrofoam ban campaign ahead of January 2027 deadline",
-      "link": "https://www.myjoyonline.com/savannah-regional-minister-backs-epas-styrofoam-ban-campaign-ahead-of-january-2027-deadline/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T09:11:31.000Z",
-      "summary": "Savannah Regional Minister Salisu Be-Awuribe Issifu has thrown his weight behind the Environmental Protection Authority’s (EPA) campaign to enforce Ghana’s nationwide ban on Styrofoam…",
-      "categories": [
-        "National",
-        "Regional",
-        "EPA",
-        "Savannah region",
-        "Styrofoam ban"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2509-1024x473.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Asantehene challenges KNUST alumni to support university’s devt",
@@ -141,41 +291,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/27/programme.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Education Minister to meet teacher unions today over payment of promotion arrears for 28,000 teachers",
-      "link": "https://www.myjoyonline.com/education-minister-to-meet-teacher-unions-today-over-payment-of-promotion-arrears-for-28000-teachers/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T09:02:47.000Z",
-      "summary": "The Education Minister, Haruna Iddrisu, says his office will meet the leadership of teacher unions today, Tuesday, October 27, to resolve outstanding validation issues affecting 28,000…",
-      "categories": [
-        "Education",
-        "HP News 2",
-        "National",
-        "News",
-        "GES",
-        "promotion arrears",
-        "teachers' salary arrears"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Haruna-Iddrisu1-e1761047194398.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026 U17 WWC: Black Maidens to face Argentina in last 16 on October 28",
-      "link": "https://www.myjoyonline.com/2026-u17-wwc-black-maidens-to-face-argentina-in-last-16-on-october-28/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T09:00:41.000Z",
-      "summary": "The Black Maidens will face Argentina in the round of 16 following their progression into the next phase of the tournament being played in Morocco.",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "National",
-        "2026 U-17 Women's World Cup",
-        "Argentina",
-        "Black Maidens"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Maidens-training-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Young Ghanaian Women Urged to Adopt Healthy Lifestyles to Prevent Breast Cancer",
@@ -203,62 +318,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Kofi Worlanyo",
-      "link": "https://www.myjoyonline.com/kofi-worlanyo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T08:52:26.000Z",
-      "summary": "FUNERAL ANNOUNCEMENT CALLED TO GLORY We wish to announce with deep sorrow the home call of our beloved, Mr. Kofi Worlanyo, who entered eternal rest on 12th October, 2026, aged 68 years…",
-      "categories": [
-        "National",
-        "Obituary",
-        "Kofi Worlanyo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1-90-724x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Reclaimed mined lands can boost Ghana's food security — Mining engineer",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-reclaimed-mined-lands-can-boost-ghanas-food-security-mining-engineer.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T08:51:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/Empeh.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Authority begins Okada operator registration in November",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-authority-begins-okada-operator-registration-in-november.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T08:48:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/Abraham.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "28,000 teachers’ promotion arrears may require supplementary funding – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/28000-teachers-promotion-arrears-may-require-supplementary-funding-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T08:44:31.000Z",
-      "summary": "The government may consider a supplementary allocation to pay the outstanding promotion salary arrears of 28,000 teachers who have yet to complete the validation process successfully.",
-      "categories": [
-        "Education",
-        "National",
-        "GES",
-        "Haruna Iddrisu",
-        "Salary",
-        "stirke action",
-        "Teachers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-4.28.21-AM.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Black Maidens to face Argentina tomorrow • In FIFA U-17 WWC Round of 16 game",
       "link": "https://ghanaiantimes.com.gh/black-maidens-to-face-argentina-tomorrow-in-fifa-u-17-wwc-round-of-16-game/",
       "source": "Ghanaian Times",
@@ -269,18 +328,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "TLPCI at 65: Presby Moderator urges believers to stay faithful",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-tlpci-at-65-presby-moderator-urges-believers-to-stay-faithful.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T08:43:53.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/Kwakye.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Okwawu United, Nania FC, WAFA advance in 2026/27 MTN FA Cup",
@@ -319,18 +366,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Protect official information without compromise - Gunu to public sector employees",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-protect-official-information-without-compromise-gunu-to-public-sector-employees.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T08:40:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/Gunu.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Alcaraz heads strong Spanish Davis Cup team",
       "link": "https://ghanaiantimes.com.gh/alcaraz-heads-strong-spanish-davis-cup-team/",
       "source": "Ghanaian Times",
@@ -353,30 +388,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fanaka partners investment institute to enhance professional training",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fanaka-partners-investment-institute-to-enhance-professional-training.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T08:34:12.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/Alexander.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Akuse VISL sweeps 6 Bookworm Reading awards",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-akuse-visl-sweeps-6-bookworm-reading-awards.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T08:31:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/contestants.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "How Harry Kane ended England's 25-year Ballon d'Or wait",
@@ -424,30 +435,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/26/MAHAMA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Rybakina crushes Fernandez to win fourth title of season",
-      "link": "https://www.graphic.com.gh/sports/sports-news/rybakina-crushes-fernandez-to-win-fourth-title-of-season.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-26T14:12:24.000Z",
-      "summary": "Rybakina broke and then held her own serve with a delicious two-handed crosscourt backhand for a 4-2 lead in the opening set. The Moscow-born Kazakh immediately put Fernandez under pressure…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/ELENA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Mayweather set to return to the ring",
-      "link": "https://www.graphic.com.gh/sports/sports-news/mayweather-set-to-return-to-the-ring.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-26T14:07:50.000Z",
-      "summary": "And both showdowns could be professional contests rather than exhibitions, putting his unbeaten record at risk. Mayweather has not fought professionally since stopping UFC superstar Conor…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/FLOYED.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
