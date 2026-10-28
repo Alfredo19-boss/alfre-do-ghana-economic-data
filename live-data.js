@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-10-27T23:10:54.207Z",
+  "updated": "2026-10-28T02:22:50.694Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,16 +22,16 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-10-27T23:10:54.207Z",
+  "officialAt": "2026-10-28T02:22:50.694Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.622 (mid-market, 2026-10-27)",
     "gbp: 15.5056 (mid-market, 2026-10-27)",
     "eur: 12.984 (mid-market, 2026-10-27)",
     "cny: 1.74289 (mid-market, 2026-10-27)",
-    "gold: 4076.2 at 2026-10-27T23:00:39.000Z",
+    "gold: 4059.6 at 2026-10-28T02:12:33.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-27, usd/gbp/eur",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-27: 2026-10-27, usd/gbp/eur",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-28: 2026-10-27, usd/gbp/eur",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
     "BoG in use: 2026-10-27 · usd 11.66, gbp 15.5283, eur 12.9938"
   ],
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.74339
     },
     "gold": {
-      "value": 4076.2,
-      "at": "2026-10-27T23:00:39.000Z",
+      "value": 4059.6,
+      "at": "2026-10-28T02:12:33.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4074.1
+      "prev": 4076.2
     }
   }
 };
