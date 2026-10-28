@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-28T00:00:11.096Z",
-  "worldAt": "2026-10-28T00:00:11.093Z",
+  "updated": "2026-10-28T05:05:09.977Z",
+  "worldAt": "2026-10-28T05:05:09.975Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
+    "Reuters wire: 0 stories",
     "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,10 +42,52 @@ window.GDC_NEWS = {
     "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 34 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 0 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Middlemen Inflate Local Chicken Prices, Undercutting Ghanaian Poultry Producers",
+      "link": "https://thehighstreetjournal.com/middlemen-inflate-local-chicken-prices-undercutting-poultry-producers/",
+      "source": "The High Street Journal",
+      "published": "2026-10-28T05:03:00.000Z",
+      "summary": "High intermediary margins are making local chicken more expensive than imports, prompting Ghana and the Netherlands to pursue technical cooperation and investment to strengthen domestic…"
+    },
+    {
+      "title": "Debrah Puts Passenger Experience at Heart of Ghana’s Aviation Hub Ambition",
+      "link": "https://thehighstreetjournal.com/ghanas-aviation-hub-ambition-begins-with-passenger-experience/",
+      "source": "The High Street Journal",
+      "published": "2026-10-28T05:02:00.000Z",
+      "summary": "Ghana’s ambition to become West Africa’s aviation hub depends on better passenger services, efficient airport operations, stronger connectivity, infrastructure investment and reliable…"
+    },
+    {
+      "title": "Gold Fields Ghana Suppliers Conference Focuses on Local Economic Value",
+      "link": "https://thehighstreetjournal.com/gold-fields-ghana-suppliers-conference/",
+      "source": "The High Street Journal",
+      "published": "2026-10-28T05:01:00.000Z",
+      "summary": "The two-day event, running from today at the Akoon Clubhouse at Tarkwa Mine and ending on Thursday, October 29, is expected to bring together more than 300 local and international suppliers"
+    },
+    {
+      "title": "Afreximbank Net Income Rises 24% to $813.5 Million on Lending Growth",
+      "link": "https://thehighstreetjournal.com/afreximbank-net-income-rises-24/",
+      "source": "The High Street Journal",
+      "published": "2026-10-28T05:00:00.000Z",
+      "summary": "Total assets and contingencies increased 12% to $54.1 billion at Sept. 30, from $48.5 billion at the end of 2025"
+    },
+    {
+      "title": "Charles Bissue: The Man Who Wants a Trial but Challenges the Trial",
+      "link": "https://thehighstreetjournal.com/charles-bissue-the-man-who-wants-a-trial/",
+      "source": "The High Street Journal",
+      "published": "2026-10-28T05:00:00.000Z",
+      "summary": "By Sammy Darko Charles Bissue is an interesting accused person. He says he wants a speedy trial and accuses the Office of the Special Prosecutor (OSP) of delaying his day in court. Yet, his…"
+    },
+    {
+      "title": "GoldBod’s intervention in forex market gives cedi modest reprieve; one dollar going for GH¢12.15 at forex bureaus",
+      "link": "https://www.myjoyonline.com/goldbods-intervention-in-forex-market-gives-cedi-modest-reprieve-one-dollar-going-for-gh%c2%a212-15-at-forex-bureaus/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T03:22:56.000Z",
+      "summary": "By the close of the fortnight, the local currency modestly clawed back some losses in the interbank market."
+    },
     {
       "title": "Ecobank Group profit before tax hits US$737 million for first nine months of 2026",
       "link": "https://www.myjoyonline.com/ecobank-group-profit-before-tax-hits-us737-million-for-first-nine-months-of-2026/",
@@ -1053,80 +1095,89 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-10-24T09:00:14.000Z",
       "summary": ""
-    },
-    {
-      "title": "Finance Ministry Denies Withholding Petroleum Fund Utilisation Data from PIAC",
-      "link": "https://thehighstreetjournal.com/finance-ministry-denies-withholding-petroleum-fund-utilisation-data-from-piac/",
-      "source": "The High Street Journal",
-      "published": "2026-10-24T08:59:46.000Z",
-      "summary": "Finance Ministry denies withholding petroleum fund data from PIAC, saying it shared revenue records and explained plans to ring-fence funds for the Accra–Kumasi Expressway."
-    },
-    {
-      "title": "MCE engages Okada riders on new digital traffic enforcement system at Kpando",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-mce-engages-okada-riders-on-new-digital-traffic-enforcement-system-at-kpando.html",
-      "source": "Graphic Online",
-      "published": "2026-10-24T08:42:06.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Yaw Nsarkoh Calls for Independent Body to Appoint Ghana’s Superior Court Judges",
-      "link": "https://thehighstreetjournal.com/yaw-nsarkoh-calls-for-independent-body-to-appoint-ghanas-superior-court-judges/",
-      "source": "The High Street Journal",
-      "published": "2026-10-24T08:30:47.000Z",
-      "summary": "Yaw Nsarkoh calls for an independent authority to appoint Ghana’s superior court judges, warning that political influence threatens judicial independence and public confidence in justice."
-    },
-    {
-      "title": "Yaw Nsarkoh Speech: Even Judges Must Eat: An Outside-In Provocation",
-      "link": "https://thehighstreetjournal.com/yaw-nsarkoh-speech-even-judges-must-eat-an-outside-in-provocation/",
-      "source": "The High Street Journal",
-      "published": "2026-10-24T08:14:48.000Z",
-      "summary": "Speech by Yaw Nsarkoh delivered at the event organised by JoyNews and a group of professionals, under the theme “Even Judges Must Eat: An Outside-In Provocation.”"
-    },
-    {
-      "title": "MOMO FinTech Lab backs young innovators in northern Ghana",
-      "link": "https://www.myjoyonline.com/momo-fintech-lab-backs-young-innovators-in-northern-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-24T06:08:10.000Z",
-      "summary": "Young innovators in northern Ghana are getting an opportunity to turn ideas into technology-driven solutions to local challenges, as MOMO FinTech steps up efforts to nurture talent beyond…"
-    },
-    {
-      "title": "Micro-Credit Association Ghana mobilises GH¢3.534m in 2025",
-      "link": "https://www.ghanabusinessnews.com/2026/10/24/micro-credit-association-ghana-mobilises-gh%c2%a23-534m-in-2025/",
-      "source": "Ghana Business News",
-      "published": "2026-10-24T05:41:44.000Z",
-      "summary": "Micro-Credit Association Ghana (MCAG) has recorded a total income of GH¢3.534 million in 2025, up from GH¢2.433 million in 2024, which constitute an increase of approximately 45 per cent."
     }
   ],
   "world": [
     {
+      "title": "Mbappe faces backlash in China for meme fiasco",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T04:28:22.000Z",
+      "summary": "Three major Chinese brands have ended partnerships with French football star Kylian Mbappe"
+    },
+    {
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-28T04:22:59.000Z",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34b/live/eebe6880-d262-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+      "link": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T04:13:28.000Z",
+      "summary": "Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents"
+    },
+    {
+      "title": "Rights groups oppose UAE’s Lana Nusseibeh for UN chief over Sudan claims",
+      "link": "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups",
+      "source": "France 24",
+      "published": "2026-10-28T02:56:59.000Z",
+      "summary": "Human rights groups on Tuesday urged countries to reject UAE diplomat Lana Nusseibeh’s bid to become UN secretary general citing allegations that Abu Dhabi funds Sudan’s paramilitary Rapid…",
+      "image": "https://s.france24.com/media/display/ddd14ba6-d284-11f1-86b8-efcc5769f1db/w:1024/p:16x9/2026-10-27T223751Z-1217152200-RC2YBOA6HWDN-RTRMADP-3-UN-SECRETARYGENERAL-EMIRATES.jpg"
+    },
+    {
+      "title": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T03:49:40.000Z",
+      "summary": "Flavio Bolsonaro’s former campaign manager says the senator did not inform him that he planned to flee Brazil."
+    },
+    {
       "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
       "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-27T23:41:23.000Z",
+      "published": "2026-10-28T02:20:25.000Z",
       "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"
     },
     {
-      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-      "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "title": "Global stock markets rise as investors continue to bet on AI",
+      "link": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T23:35:51.000Z",
-      "summary": "Gaza film festival highlights women's resilience through stories of war, loss and survival."
+      "published": "2026-10-28T03:14:31.000Z",
+      "summary": "Asian stock markets rise, following gains on Wall Street."
     },
     {
-      "title": "Watch: 'No clear winner' in Israel election - what happens now?",
-      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T23:27:13.000Z",
-      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f4/live/15b45500-d25c-11f1-93e1-3b657b665bcf.jpg"
+      "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+      "source": "NPR World",
+      "published": "2026-10-28T01:58:08.000Z",
+      "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5200x3467+0+0/resize/5200x3467!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2Fc4%2F5c6df56f45859d8965e53baba456%2Fgettyimages-2301579295.jpg"
     },
     {
-      "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+      "link": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T23:23:42.000Z",
-      "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US."
+      "published": "2026-10-28T03:10:17.000Z",
+      "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria."
+    },
+    {
+      "title": "Israel: opposition supporters celebrate narrow lead in exit polls",
+      "link": "http://www.africanews.com/2026/10/28/israel-opposition-supporters-celebrate-narrow-lead-in-exit-polls/",
+      "source": "Africanews",
+      "published": "2026-10-27T23:53:03.000Z",
+      "summary": "Supporters of Gadi Eisenkot celebrated in Tel Aviv as exit polls gave Israel's opposition bloc a narrow lead over Benjamin Netanyahu's camp, but no outright parliamentary majority."
+    },
+    {
+      "title": "Five key takeaways from Israel’s parliamentary elections",
+      "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T02:53:35.000Z",
+      "summary": "Netanyahu's Likud emerges as single largest Israeli party, bloc edges past opposition."
     },
     {
       "title": "King Charles confronts calls for slavery apology during Caribbean tour",
@@ -1137,11 +1188,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/e2ce5e36-d1cc-11f1-a1b1-5b4a75578ebb/w:1024/p:16x9/a76378f2ae9959050b5482d797377dd5c2291e0f.jpg"
     },
     {
-      "title": "A bad day for Ben-Gvir as he addresses his supporters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+      "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T23:16:38.000Z",
-      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election."
+      "published": "2026-10-28T02:26:27.000Z",
+      "summary": "Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’."
     },
     {
       "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
@@ -1151,26 +1202,26 @@ window.GDC_NEWS = {
       "summary": "Demonstrators gathered outside Portugal's parliament to protest against the housing crisis and police violence during recent camp clearances. The president has called for dialogue while…"
     },
     {
-      "title": "No clear mandate projected in Israel election: What’s next?",
-      "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+      "title": "Arab parties on track to win record seats in Israel election, polls show",
+      "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T23:06:47.000Z",
-      "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in."
+      "published": "2026-10-28T00:43:56.000Z",
+      "summary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show."
     },
     {
-      "title": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked",
+      "title": "Israel election: Netanyahu and Eisenkot battle to form government after deadlock",
       "link": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
       "source": "France 24",
       "published": "2026-10-27T22:58:53.000Z",
-      "summary": "Israel's election remained deadlocked on Tuesday, exit polls showed, with opposition leader Gadi Eisenkot's bloc narrowly ahead of Prime Minister Benjamin Netanyahu's camp by 52 seats to…",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot both pledged on Wednesday to form a government after an election left neither bloc with a parliamentary majority. Record…",
       "image": "https://s.france24.com/media/display/e0844dc0-d24e-11f1-bac3-bf69a9ce9852/w:1024/p:16x9/2026-10-27T201655Z-2088081210-RC2WBOANCXWD-RTRMADP-3-ISRAEL-ELECTION.jpg"
     },
     {
-      "title": "Smotrich dances in Israel despite far-right decline",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
+      "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T23:03:44.000Z",
-      "summary": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined."
+      "published": "2026-10-28T00:43:02.000Z",
+      "summary": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government."
     },
     {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -1181,11 +1232,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg"
     },
     {
-      "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+      "title": "Israel’s Eisenkot says country voted for change",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T22:56:32.000Z",
-      "summary": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats"
+      "published": "2026-10-28T00:30:22.000Z",
+      "summary": "Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’."
     },
     {
       "title": "Israel: First exit polls show no clear winner, Arab parties make gains",
@@ -1196,11 +1247,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/42df8b48-d24e-11f1-a8a6-75c7729144f1/w:1024/p:16x9/Thumb-Israel-elex-results-01.jpg"
     },
     {
-      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+      "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T22:31:31.000Z",
-      "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc."
+      "published": "2026-10-28T00:25:08.000Z",
+      "summary": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters"
     },
     {
       "title": "Bibi's moment of truth: Israel votes in first general election since October 7",
@@ -1211,11 +1262,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/ec4db540-d237-11f1-89c8-bf69a9ce9852/w:1024/p:16x9/Portraits-politiques-en-diptyque-%C3%A9ditorial.png"
     },
     {
-      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+      "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T22:29:31.000Z",
-      "summary": "Iranian president's words came at summit for gas exporting countries in Russia."
+      "published": "2026-10-27T23:35:51.000Z",
+      "summary": "Gaza film festival highlights women's resilience through stories of war, loss and survival."
     },
     {
       "title": "Mbappe apologises for Mao Zedong comment after Chinese sponsors drop him",
@@ -1225,11 +1276,11 @@ window.GDC_NEWS = {
       "summary": "Football superstar Kylian Mbappé has apologised after a video appearing to show him joking about Chinese leader Mao Zedong sparked outrage in China."
     },
     {
-      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
-      "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+      "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T21:47:34.000Z",
-      "summary": "News comes one day after Brazil's Supreme Court ordered Bolsonaro to hand over his passports in money-laundering probe."
+      "published": "2026-10-27T23:23:42.000Z",
+      "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US."
     },
     {
       "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
@@ -1240,26 +1291,26 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg"
     },
     {
-      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-      "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "title": "A bad day for Ben-Gvir as he addresses his supporters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T21:28:33.000Z",
-      "summary": "US president seeks to highlight Venezuela operation as Iran war makes affordability a key midterm issue."
+      "published": "2026-10-27T23:16:38.000Z",
+      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election."
     },
     {
-      "title": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu",
+      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
       "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
       "source": "NPR World",
       "published": "2026-10-27T20:45:39.000Z",
-      "summary": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change…",
+      "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5690x3794+0+0/resize/5690x3794!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F36%2F656c559549cf9619280cbd15338c%2Fap26300712696528.jpg"
     },
     {
-      "title": "Forever Wars: Why can’t America stop?",
-      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "title": "Israel election results: No clear winner projected, what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T21:21:08.000Z",
-      "summary": "Iran, Iraq, Afghanistan. Why does the US keep going to war, and can voters stop it?"
+      "published": "2026-10-27T23:06:47.000Z",
+      "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in."
     },
     {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
@@ -1270,11 +1321,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
     },
     {
-      "title": "Will players in the Gulf establish a new security framework?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
+      "title": "Smotrich dances in Israel despite far-right decline",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T21:14:12.000Z",
-      "summary": "Officials from Riyadh, Islamabad, Ankara and Tehran met in Iran."
+      "published": "2026-10-27T23:03:44.000Z",
+      "summary": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined."
     },
     {
       "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
@@ -1285,11 +1336,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+      "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T21:12:27.000Z",
-      "summary": "Israel's military operation in West Bank's Hebron has disrupted Palestinian life, including a postponed wedding."
+      "published": "2026-10-27T22:56:32.000Z",
+      "summary": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats"
     },
     {
       "title": "Oxford Street bans traffic",
@@ -1299,11 +1350,11 @@ window.GDC_NEWS = {
       "summary": "London is pedestrianizing its version of Fifth Avenue. Cars, taxis, buses and even bicycles are now banned from Oxford Street."
     },
     {
-      "title": "US says it killed five people in strike on alleged drug boat",
-      "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
+      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T20:54:38.000Z",
-      "summary": "Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025."
+      "published": "2026-10-27T22:31:31.000Z",
+      "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc."
     },
     {
       "title": "South Africa claims 7.6 kilometer-long freight train is the longest ever",
@@ -1313,11 +1364,11 @@ window.GDC_NEWS = {
       "summary": "A government-run company in South Africa claims that it has sent the longest freight train ever on a test run."
     },
     {
-      "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T20:38:17.000Z",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close."
+      "published": "2026-10-27T22:29:31.000Z",
+      "summary": "Iranian president's words came at summit for gas exporting countries in Russia."
     },
     {
       "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
@@ -1328,11 +1379,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7086x4724+0+0/resize/7086x4724!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F93%2F4ffae611409290d5b15eef9a5f72%2Febola-slideshow-10k-cases-2300979920.jpg"
     },
     {
-      "title": "Egypt orders closure of leading independent news site Mada Masr",
-      "link": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
+      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+      "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T20:35:18.000Z",
-      "summary": "Editor Lina Attalah was freed once a $53,400 fine was paid, only to learn of a one-year sentence passed in her absence."
+      "published": "2026-10-27T21:47:34.000Z",
+      "summary": "News comes one day after Brazil's Supreme Court ordered Bolsonaro to hand over his passports in money-laundering probe."
     },
     {
       "title": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
@@ -1341,60 +1392,65 @@ window.GDC_NEWS = {
       "published": "2026-10-27T19:44:07.000Z",
       "summary": "Annette Young is pleased to welcome Alain Greilsammer, Professor of Political Science at Bar-Ilan University in Tel Aviv. In the wake of the October 7 attacks, regional tensions with Iran…",
       "image": "https://s.france24.com/media/display/44b94f32-d215-11f1-870d-5b4a75578ebb/w:1024/p:16x9/EN-20261027-130828-131530-CS.jpg"
-    },
-    {
-      "title": "Lebanese and Syrians expect no change in Israeli policy after election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T20:34:44.000Z",
-      "summary": "Residents in Lebanon and Syria expect little change in Israeli policy after the election."
-    },
-    {
-      "title": "Botanists comb Gabon's rich rainforests with nature on the line",
-      "link": "http://www.africanews.com/2026/10/27/botanists-comb-gabons-rich-rainforests-with-nature-on-the-line/",
-      "source": "Africanews",
-      "published": "2026-10-27T19:31:52.000Z",
-      "summary": "Each year, Gabon's lush rainforests yield the discovery of previously unknown plant species to botanists like Archange Boupoya, who believes that this exceptional yet largely mysterious…"
-    },
-    {
-      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
-      "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T20:18:18.000Z",
-      "summary": "Israel's first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority."
-    },
-    {
-      "title": "Dutch zookeeper dies after being mauled by leopard",
-      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T19:30:37.000Z",
-      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg"
-    },
-    {
-      "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
-      "link": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T20:00:46.000Z",
-      "summary": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers."
-    },
-    {
-      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-      "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T19:01:16.000Z",
-      "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16e/live/5844f360-d226-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T19:36:01.000Z",
-      "summary": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow."
     }
   ],
   "africa": [
+    {
+      "title": "Tanzania: Tanzanian Sinks $56.2m in Equipment for Upgrading 188km Tanga-Ruvu MGR Line",
+      "link": "https://allafrica.com/stories/202610280059.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-28T04:46:07.000Z",
+      "summary": "[Daily News] Dodoma -- THE Tanzanian government has purchased equipment 56.2m US dollars to rehabilitate the 188-kilometre metre-gauge railway (MGR) line from Tanga to Ruvu Junction, as…"
+    },
+    {
+      "title": "Africa: Kane Ends England's 25-Year Wait, Wins Ballon d'Or",
+      "link": "https://allafrica.com/stories/202610280056.html",
+      "source": "AllAfrica",
+      "published": "2026-10-28T04:41:52.000Z",
+      "summary": "[This Day] *Saka wins Sócrates Award, Yamal awarded the Young Talent for the Third year"
+    },
+    {
+      "title": "Nigeria: Local Petrol Output Exceeds 12bn Litres, Imports Hit 7.67bn Litres in 13 Months",
+      "link": "https://allafrica.com/stories/202610280052.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-28T04:41:47.000Z",
+      "summary": "[This Day] Abuja -- Nigeria's domestic refineries supplied 12.01 billion litres of petrol, accounting for 61.2 per cent of the total 19.68 billion litres of petrol pumped into the market…"
+    },
+    {
+      "title": "Ethiopia: UN Reports 36,000 Ethiopian Arrivals Fleeing Moyale Conflict, Kenya Rights Commission Urges Aid",
+      "link": "https://allafrica.com/stories/202610280039.html",
+      "source": "AllAfrica",
+      "published": "2026-10-28T04:40:47.000Z",
+      "summary": "[Addis Standard] Addis Abeba -- Approximately 36,000 people have crossed from Ethiopia into Kenya to flee conflict in and around Moyale, with food, clean water, shelter, sanitation, and…"
+    },
+    {
+      "title": "Nigeria: Oborevwori, Dafinone, Guwor Mourn Okonjo-Iweala's Mother, Prof Kamene, 96",
+      "link": "https://allafrica.com/stories/202610280043.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-28T04:41:41.000Z",
+      "summary": "[This Day] Warri -- Delta State Governor, Sheriff Oborevwori, Senator Ede Dafinone, and Speaker of Delta State House of Assembly, Hon. Emomotimi Guwor, have mourned the death of Professor…"
+    },
+    {
+      "title": "Africa: Africa CDC Commends Kenya's Decisive Leadership and Strengthens Joint Efforts to Contain Ebola",
+      "link": "https://allafrica.com/stories/202610280037.html",
+      "source": "AllAfrica",
+      "published": "2026-10-28T04:38:53.000Z",
+      "summary": "[Africa CDC] H.E. Dr Jean Kaseya, Director-General of the Africa Centres for Disease Control and Prevention (Africa CDC), met with Hon. Aden Duale, Cabinet Secretary for Health of the…"
+    },
+    {
+      "title": "Africa: Africa Cannot Build a Stronger Agrifood Economy While the Livestock Sector Loses $4 Billion a Year",
+      "link": "https://allafrica.com/stories/202610280031.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-28T04:36:57.000Z",
+      "summary": "[African Arguments] Across Africa, the livestock sector supports more than 350 million people. Livestock is much more than an agricultural commodity. For millions of families, cattle…"
+    },
+    {
+      "title": "Somalia: Somalia Reports Deadly Fighting With Al-Shabaab As Both Sides Claim Heavy Losses",
+      "link": "https://allafrica.com/stories/202610280030.html",
+      "source": "AllAfrica",
+      "published": "2026-10-28T04:36:30.000Z",
+      "summary": "[RFI] Somalia's government and Al-Shabaab militants have issued sharply conflicting accounts of deadly fighting near the southern city of Leego, with both sides claiming to have inflicted…"
+    },
     {
       "title": "Egypt orders closure of independent news site Mada Masr",
       "link": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-africa-8291-rdf",
@@ -1403,12 +1459,26 @@ window.GDC_NEWS = {
       "summary": "Editor-in-chief Lina Attalah was briefly detained and fined over licensing violations. Rights groups condemned the ruling as a major blow to press freedom in Egypt, where independent media…"
     },
     {
+      "title": "Sudan: Drone Strikes 'Kill 100+' in South Darfur Market As Sudan Power Stations Targeted",
+      "link": "https://allafrica.com/stories/202610280026.html",
+      "source": "AllAfrica",
+      "published": "2026-10-28T04:34:59.000Z",
+      "summary": "[Dabanga] More than 100 civilians were reportedly killed in a drone strike on Tangong Market in Nyala, South Darfur, on Tuesday, as attacks also hit electricity infrastructure in Omdurman…"
+    },
+    {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published": "2026-10-27T20:44:40.000Z",
       "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
+    },
+    {
+      "title": "Sudan: Eight Million Children Out of School in Sudan - Teachers Warn of Looming Education Catastrophe",
+      "link": "https://allafrica.com/stories/202610280027.html",
+      "source": "AllAfrica",
+      "published": "2026-10-28T04:34:59.000Z",
+      "summary": "[Dabanga] Sudan -- Eight million children are falling outside Sudan's education system, the Sudanese Teachers' Committee says, warning that the public education system is at risk of…"
     },
     {
       "title": "Egypt orders closure of leading independent news site Mada Masr",
@@ -1612,77 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-27T13:54:36.000Z",
       "summary": "[InfoWire] Evidentia AI, a gaming revenue intelligence and compliance monitoring company, has completed a pilot in South Sudan and presented its findings to the Department of Betting…"
-    },
-    {
-      "title": "NASA astronaut Christina Koch on life in space, humanity and her African connection",
-      "link": "http://www.africanews.com/2026/10/27/nasa-astronaut-christina-koch-on-life-in-space-humanity-and-her-african-connection/",
-      "source": "Africanews",
-      "published": "2026-10-27T13:47:35.000Z",
-      "summary": "In an exclusive interview with Africanews on the sidelines of the ceremony, Koch reflected on how seeing Earth from space changed her perspective on humanity, global cooperation and the…"
-    },
-    {
-      "title": "Kenya: No Evidence Kenyan President Said He'll Never Trust Luo Community for 'Supporting' His Political Opponent - Viral Quote Fabricated",
-      "link": "https://allafrica.com/stories/202610270578.html",
-      "source": "AllAfrica",
-      "published": "2026-10-27T13:42:19.000Z",
-      "summary": "[Africa Check] No evidence Kenyan president said he'll never trust Luo community for 'supporting' his political opponent - viral quote fabricated"
-    },
-    {
-      "title": "Kenya: Kenyan Digital Lender Tala Denies Claims That It Was Hacked",
-      "link": "https://allafrica.com/stories/202610270576.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-27T13:41:55.000Z",
-      "summary": "[Africa Check] Kenyan digital lender Tala denies claims that it was hacked"
-    },
-    {
-      "title": "South Africa: President Ramaphosa Receives Panel Report Probing Naval Exercise",
-      "link": "https://allafrica.com/stories/202610270572.html",
-      "source": "AllAfrica",
-      "published": "2026-10-27T13:30:39.000Z",
-      "summary": "[SAnews.gov.za] President Cyril Ramaphosa has received a report from a panel tasked with investigating the circumstances surrounding the participation of the Islamic Republic of Iran in the…"
-    },
-    {
-      "title": "South Africa: Scam - South African Retail Giant TFG Is Not Offering Holiday Jobs On Whatsapp and Facebook - Stick to Official Portals Instead",
-      "link": "https://allafrica.com/stories/202610270574.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-27T13:41:09.000Z",
-      "summary": "[Africa Check] IN SHORT: Job adverts circulating on WhatsApp and Facebook and claiming to offer TFG Group holiday job opportunities in South Africa are scams. TFG has urged job seekers to…"
-    },
-    {
-      "title": "South Africa: Luxury Lodge Fined R15-Million for Flouting Environmental Laws",
-      "link": "https://allafrica.com/stories/202610270513.html",
-      "source": "AllAfrica",
-      "published": "2026-10-27T12:55:19.000Z",
-      "summary": "[GroundUp] Goats Window luxury safari lodge built 23 units near Bonnievale without environmental authorisation, and cleared 4,000m2 of endangered renosterveld"
-    },
-    {
-      "title": "Tanzania: Tanzania Readies to Announce New Discovery of Natural Gas in Mtwara Region",
-      "link": "https://allafrica.com/stories/202610270573.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-27T13:39:01.000Z",
-      "summary": "[Daily News] Mtwara -- ENERGY Minister Juma Homera has begun an official working tour of Mtwara Region aimed to primarily announce a major natural gas discovery in the region, a development…"
-    },
-    {
-      "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
-      "link": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T12:31:19.000Z",
-      "summary": "Nearly half of the people confirmed to have the virus have died in DRC's fastest-growing Ebola outbreak on record."
-    },
-    {
-      "title": "South Africa: Labour Court Slams CCMA Commissioner for Relying On AI Hallucination",
-      "link": "https://allafrica.com/stories/202610270514.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-27T12:55:51.000Z",
-      "summary": "[GroundUp] Commissioner Menzi Fakude relied on a judgment that did not exist"
-    },
-    {
-      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-27T12:25:14.000Z",
-      "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e00/live/599f3cc0-d1e5-11f1-8e07-c79267b33d55.jpg"
     }
   ]
 };

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-28T00:00:24.843Z",
+  "updated": "2026-10-28T05:05:24.374Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,120 +25,117 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Make TESCON NPP’s intellectual powerhouse — Asenso-Boakye",
-      "link": "https://www.myjoyonline.com/make-tescon-npps-intellectual-powerhouse-asenso-boakye/",
+      "title": "Cenpower clears 600 tonnes of waste from Sega Beach",
+      "link": "https://www.myjoyonline.com/cenpower-clears-600-tonnes-of-waste-from-sega-beach/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T23:32:13.000Z",
-      "summary": "The New Patriotic Party’s (NPP) student wing must evolve into a centre for policy thinking and leadership training if it is to make a lasting contribution to the party and Ghana’s…",
+      "published": "2026-10-28T04:51:00.000Z",
+      "summary": "Cenpower Generation Ltd says it removed 600 tonnes of waste from Sega Beach during the fourth edition of its annual KIPP Clean Project, highlighting the scale of shoreline pollution.",
       "categories": [
-        "Politics",
-        "NPP",
-        "TESCON"
+        "Regional",
+        "Cenpower",
+        "Sega Beach"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-21.37.04-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-4.44.57-am.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC constitution lacks mechanism to punish electoral inducement – Inusah Fuseini",
-      "link": "https://www.myjoyonline.com/ndc-constitution-lacks-mechanism-to-punish-electoral-inducement-inusah-fuseini/",
+      "title": "Vote-buying: NDC weighs rules to distinguish transport payments from electoral inducement",
+      "link": "https://www.myjoyonline.com/vote-buying-ndc-weighs-rules-to-distinguish-transport-payments-from-electoral-inducement/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T23:15:00.000Z",
-      "summary": "Former Tamale Central MP, Inusah Fuseini, says the National Democratic Congress (NDC) lacks a clear constitutional mechanism to punish electoral inducement, leaving disciplinary action open…",
+      "published": "2026-10-28T04:42:00.000Z",
+      "summary": "The National Democratic Congress (NDC) is weighing rules to determine when money given to delegates for transport becomes an electoral inducement.",
       "categories": [
         "Politics",
         "Inusah Fuseini",
         "NDC",
-        "Vote buying"
+        "Vote-buying"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-3.05.35-am.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/04/image-1025-e1760762410362.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Gender Ministry steps in to support students in alleged Obuasi SHTS sex abuse case",
-      "link": "https://www.myjoyonline.com/gender-ministry-steps-in-to-support-students-in-alleged-obuasi-shts-sex-abuse-case/",
+      "title": "Senanu questions NDC’s commitment to tackling vote-buying",
+      "link": "https://www.myjoyonline.com/senanu-questions-ndcs-commitment-to-tackling-vote-buying/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T22:59:07.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has met some students affected by the alleged sexual abuse at Obuasi Senior High Technical School (SHTS)…",
+      "published": "2026-10-28T04:37:00.000Z",
+      "summary": "Anti-corruption campaigner Edem Senanu has criticised the National Democratic Congress (NDC) leadership for what he considers an inadequate response to allegations of vote-buying during the…",
       "categories": [
-        "HP News 3",
         "National",
         "News",
-        "Obuasi SHTS",
-        "Sex abuse"
+        "NDC",
+        "Politics",
+        "Voting"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/870827076_1810434733513324_7438935277960477914_n-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/05/Edem-Senanu.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Man City players can block out ‘noise’ of away fans – Maresca",
-      "link": "https://www.myjoyonline.com/man-city-players-can-block-out-noise-of-away-fans-maresca/",
+      "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns",
+      "link": "https://www.myjoyonline.com/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T22:55:00.000Z",
-      "summary": "Manchester City suffered their first Premier League defeat of the season at a boisterous Aston Villa on Saturday, amid persistent reminders of their financial charges.",
+      "published": "2026-10-28T04:23:00.000Z",
+      "summary": "Oil prices rose on Wednesday after an attack on a refinery in Saudi Arabia, the ​world's biggest crude exporter, renewed concerns around the ‌risks to supply in the Middle East stemming…",
       "categories": [
-        "Football",
-        "Enzo Maresca",
-        "Man City"
+        "International",
+        "Oil prices",
+        "US-Iran war"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2519.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2537-1024x768.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Arsenal loses to 4th-tier Fleetwood on penalties in English League Cup stunner",
-      "link": "https://www.myjoyonline.com/arsenal-loses-to-4th-tier-fleetwood-on-penalties-in-english-league-cup-stunner/",
+      "title": "Dangote refinery IPO draws three times target demand, sources say",
+      "link": "https://www.myjoyonline.com/dangote-refinery-ipo-draws-three-times-target-demand-sources-say/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T22:47:00.000Z",
-      "summary": "Fleetwood Town pulled off one of the biggest upsets in Carabao Cup history, beating Premier League champions Arsenal in an astounding penalty shootout to reach the quarter-finals.",
+      "published": "2026-10-28T04:14:00.000Z",
+      "summary": "Nigeria's $1.6 billion Dangote refinery initial ‌public offering has drawn about three times the total targeted orders, two people with knowledge of the situation said, underscoring strong…",
       "categories": [
-        "Football",
-        "Arsenal",
-        "English League Cup",
-        "Fleetwood"
+        "Africa",
+        "Dangote Refinery"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2518-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1267-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Captain Xhaka allowed to play for Switzerland again",
-      "link": "https://www.myjoyonline.com/captain-xhaka-allowed-to-play-for-switzerland-again/",
+      "title": "Nigeria’s president seeks parliament approval for about $21.7bn borrowing",
+      "link": "https://www.myjoyonline.com/nigerias-president-seeks-parliament-approval-for-about-21-7bn-borrowing/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T22:38:00.000Z",
-      "summary": "Granit Xhaka and Breel Embolo will both be allowed to play for Switzerland again next month following an investigation into forged Covid-19 vaccination certificates obtained by the pair.",
+      "published": "2026-10-28T04:06:00.000Z",
+      "summary": "Nigerian President Bola Tinubu has asked the National Assembly to approve a supplementary external borrowing plan worth $20.52 billion and €1.05 billion ($1.17 billion) for 2026-2027 to…",
       "categories": [
-        "Football",
-        "Granit Xhaka",
-        "Switzerland"
+        "Africa",
+        "Bola Tinubu",
+        "Nigeria"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2517.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2812-1024x672.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-      "link": "https://www.myjoyonline.com/fleetwood-arsenal-halted-for-eight-minutes-because-of-drone/",
+      "title": "Tanzania announces first gas discovery in more than 10 years",
+      "link": "https://www.myjoyonline.com/tanzania-announces-first-gas-discovery-in-more-than-10-years/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T22:30:00.000Z",
-      "summary": "Arsenal's match against Fleetwood Town in the last 16 of the Carabao Cup was delayed for more than eight minutes after a drone flew over the stadium during play.",
+      "published": "2026-10-28T03:58:00.000Z",
+      "summary": "Tanzania has discovered an estimated 223 billion cubic feet of natural gas in the Mnazi Bay area in the country's south, its energy minister announced on Tuesday.",
       "categories": [
-        "Football",
-        "Drone",
-        "Fleetwood-Arsenal"
+        "Africa",
+        "Gas Discovery",
+        "Tanzania"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2516.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-654-1024x730.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Barcelona fined £503 over approach for Alvarez",
-      "link": "https://www.myjoyonline.com/barcelona-fined-503-over-approach-for-alvarez/",
+      "title": "Vote-buying: High cost of politics is pricing out people with integrity – Inusah Fuseini",
+      "link": "https://www.myjoyonline.com/vote-buying-high-cost-of-politics-is-pricing-out-people-with-integrity-inusah-fuseini/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T22:22:00.000Z",
-      "summary": "Barcelona have been fined €602 (£503) after Atletico Madrid complained about contact the club made with striker Julian Alvarez.",
+      "published": "2026-10-28T03:51:00.000Z",
+      "summary": "Former Tamale Central MP Inusah Fuseini says the growing cost of politics is pushing people with integrity out of public life and fuelling corruption.",
       "categories": [
-        "Football",
-        "Athletico Madrid",
-        "Barcelona",
-        "Julian Alvarez"
+        "Politics",
+        "Inusah Fuseini",
+        "Vote-buying"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2515.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-3.06.53-am.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -329,6 +326,18 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "28,000 GES staff may wait until November for promotion arrears - Haruna Iddrisu",
+      "link": "https://www.graphic.com.gh/news/general-news/28-000-ges-staff-may-wait-until-november-for-promotion-arrears-haruna-iddrisu.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T14:29:58.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/nov/21/Haruna.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Carrick to stay in charge of Man Utd for Chelsea game",
       "link": "https://www.graphic.com.gh/sports/sports-news/carrick-to-stay-in-charge-of-man-utd-for-chelsea-game.html",
       "source": "Graphic Sports",
@@ -386,18 +395,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/26/wontumi_lawyer.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hope Seed Foundation launched in Accra to support people with special needs, caregivers",
-      "link": "https://www.graphic.com.gh/news/general-news/hope-seed-foundation-launched-in-accra-to-support-people-with-special-needs-caregivers.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T12:07:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/ngo26.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
