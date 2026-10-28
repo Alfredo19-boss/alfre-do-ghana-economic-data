@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-28T17:12:31.494Z",
+  "updated": "2026-10-28T21:39:24.297Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,18 +25,189 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Telecel Ghana showcases practical climate action at National ESG Summit",
-      "link": "https://www.myjoyonline.com/telecel-ghana-showcases-practical-climate-action-at-national-esg-summit/",
+      "title": "Today’s youth are better educated than our generation – Kufuor",
+      "link": "https://www.myjoyonline.com/todays-youth-are-better-educated-than-our-generation-kufuor/",
       "source": "MyJoyOnline",
-      "published": "2026-10-28T17:02:12.000Z",
-      "summary": "Telecel Ghana marked World Sustainability Day with a renewed commitment to practical climate action, showcasing how it integrates sustainability into its network operations, products…",
+      "published": "2026-10-28T21:33:38.000Z",
+      "summary": "Former President John Agyekum Kufuor says today’s young people are better educated than his generation.",
       "categories": [
         "National",
-        "National ESG Summit",
-        "Telecel Ghana"
+        "John Agyekum Kufuor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2602-1024x682.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-9.24.53-pm-1024x627.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama seeks to revive historic Ghana-Russia ties",
+      "link": "https://www.myjoyonline.com/president-mahama-seeks-to-revive-historic-ghana-russia-ties/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T21:05:09.000Z",
+      "summary": "President John Mahama says Ghana is seeking to revive its historic ties with Russia, with energy cooperation, investment and economic relations expected to feature prominently in his…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Ghana",
+        "Mahama",
+        "Russia"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-8.41.49-PM-1024x784.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kofi Bentil accuses Minerals Commission of undermining Ghanaian-owned mines",
+      "link": "https://www.myjoyonline.com/kofi-bentil-accuses-minerals-commission-of-undermining-ghanaian-owned-mines/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T21:01:15.000Z",
+      "summary": "Vice President of IMANI Africa, Kofi Bentil, has accused the Minerals Commission of undermining Ghanaian-owned mining companies through what he describes as a questionable revocation of…",
+      "categories": [
+        "National",
+        "Ghanaian-owned mines",
+        "Kofi Bentil",
+        "Minerals Commission"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-11.38.08-pm.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Rent Control to deploy task force to enforce 6-month rent advance limit in 2027 – Rent Commissioner",
+      "link": "https://www.myjoyonline.com/rent-control-to-deploy-task-force-to-enforce-6-month-rent-advance-limit-in-2027-rent-commissioner/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T20:45:11.000Z",
+      "summary": "The Rent Control Commission is preparing to deploy 2,000 personnel under a task force dubbed Yellow Yellow in the first quarter of 2027 to enforce Ghana’s rent laws, including restrictions…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Rent Advance",
+        "Rent Commissioner",
+        "Taskforce"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2630.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana to host Africa Virtual Asset Summit 2026",
+      "link": "https://www.graphic.com.gh/news/ghana-to-host-africa-virtual-asset-summit-2026.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-28T20:07:34.000Z",
+      "summary": "",
+      "categories": [
+        "News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/28/Tokenisation.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "The West pushing Africa back into debt abyss – Putin",
+      "link": "https://www.myjoyonline.com/the-west-pushing-africa-back-into-debt-abyss-putin/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T20:04:56.000Z",
+      "summary": "Russian President Vladimir Putin has accused Western countries of using debt, economic sanctions and trade restrictions to maintain influence over Africa, warning that harsh financing…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "Africa",
+        "Putin"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-282.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Supreme Court won’t settle a debate through constitutional interpretation – Kwaku Azar on NPP presidential term limit suit",
+      "link": "https://www.myjoyonline.com/supreme-court-wont-settle-a-debate-through-constitutional-interpretation-kwaku-azar-on-npp-presidential-term-limit-suit/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T20:00:47.000Z",
+      "summary": "Legal scholar Kwaku Azar Asare has questioned whether the New Patriotic Party’s (NPP) suit at the Supreme Court seeking an interpretation of the presidential term limit presents a…",
+      "categories": [
+        "HP News 4",
+        "National",
+        "Azar",
+        "NPP",
+        "presidential term limit",
+        "Supreme Court"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-36.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Ruto confirms Bayern Munich vs Ajax clash to open Kenya’s new stadium",
+      "link": "https://www.myjoyonline.com/president-ruto-confirms-bayern-munich-vs-ajax-clash-to-open-kenyas-new-stadium/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T19:59:55.000Z",
+      "summary": "Kenya President William Ruto has confirmed that Bayern Munich and Ajax will play the opening match at the country’s new national stadium on January 5, 2027, as Nairobi prepares to welcome…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Ajax Amsterdam",
+        "Bayern Munchen",
+        "Kenya",
+        "Nairobi",
+        "Ruto"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_6782.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Underage girl, two others arrested over death of mobile money vendor at Kasoa guest house",
+      "link": "https://www.myjoyonline.com/underage-girl-two-others-arrested-over-death-of-mobile-money-vendor-at-kasoa-guest-house/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T19:47:49.000Z",
+      "summary": "Police have arrested three suspects in connection with the murder of 34-year-old mobile money vendor Christian Amponsah, whose body was discovered at a guest house around Kasoa Second in…",
+      "categories": [
+        "Crime",
+        "National",
+        "Kasoa",
+        "Mobile Money"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2628.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The architecture of decline: Why Manchester United’s crisis exposes a deeper structural failure - Catholic priest writes",
+      "link": "https://www.graphic.com.gh/sports/sports-news/the-architecture-of-decline-why-manchester-uniteds-modern-crisis-exposes-a-deeper-structural-failure.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-28T19:21:22.000Z",
+      "summary": "Yet, over the 13 years that followed, Manchester United transformed from football’s gold standard into a cautionary tale. Despite spending well over a billion pounds in the transfer market…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/28/Manintro.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana edge Argentina in thrilling penalty shootout to reach U-17 Women's World Cup quarter-finals",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-edge-argentina-in-thrilling-penalty-shootout-to-reach-u-17-womens-world-cup-quarter-finals.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-28T18:02:39.000Z",
+      "summary": "Appiah had earlier given Ghana an early lead when the lively Cynthia Obinsrewuo squared the ball for the livewire forward to smash home, setting the tone for a fiercely contested encounter…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Obuasi SHTS: Methodist Church demands independent probe",
+      "link": "https://www.graphic.com.gh/news/general-news/obuasi-shts-methodist-church-demands-independent-probe.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-28T17:41:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Pharmaceutical manufacturing policy to help increase local drug production launched",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-launches-pharmaceutical-manufacturing-policy-targets-increased-local-drug-production.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-28T17:05:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/28/POLICY.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Japan FA vice-president quits over FIFA World Cup decisions",
@@ -51,54 +222,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Ghana to play Mexico in Round of 16 at FIFA U-15 World Cup & Festival",
-      "link": "https://www.myjoyonline.com/ghana-to-play-mexico-in-round-of-16-at-fifa-u-15-world-cup-festival/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:47:59.000Z",
-      "summary": "The National U-15 Boys team will face Mexico in the Round of 16 of the FIFA U-15 World Cup and Festival in Azerbaijan. The crucial knockout tie is scheduled for 16:30 GMT, after Ghana…",
-      "categories": [
-        "Football",
-        "Sports",
-        "FIFA U-15 World Cup",
-        "Ghana U-15",
-        "Korea",
-        "Mexico"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/GHANA.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prisons Service disputes claim five inmates relocated over alleged plot to poison Wontumi",
-      "link": "https://www.myjoyonline.com/prisons-service-disputes-claim-five-inmates-relocated-over-alleged-plot-to-poison-wontumi/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:44:37.000Z",
-      "summary": "The Ghana Prisons Service has disputed claims that five inmates at Nsawam Prison have been relocated to different cells following an alleged plot to poison convicted former New Patriotic…",
-      "categories": [
-        "National",
-        "Poisoning",
-        "Prisons Service",
-        "Wontumi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-07-at-11.36.44-1024x690.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana beat Korea Republic 2-1 to advance to Round of 16 of FIFA U-15 World Cup and Festival",
-      "link": "https://www.myjoyonline.com/ghana-beat-korea-republic-2-1-to-advance-to-round-of-16-of-fifa-u-15-world-cup-and-festival/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:44:12.000Z",
-      "summary": "Abdul Aziz Issah was once again on target for Ghana, continuing his fine scoring form at the tournament, while an own goal from the Korean defence sealed the victory for the young lads.",
-      "categories": [
-        "Football",
-        "HP Research 6",
-        "National",
-        "Ghana U-15",
-        "U-15 World Cup"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/U-15-Boys-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Poor economic conditions affecting Ghana's press freedom ranking - GJA President tells Speaker of Parliament",
       "link": "https://www.graphic.com.gh/news/general-news/poor-economic-conditions-affecting-ghanas-press-freedom-ranking-gja-president-tells-speaker-of-parliament.html",
       "source": "Daily Graphic",
@@ -109,65 +232,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ato Forson commends workers as government agrees to 9% pay rise for 2027",
-      "link": "https://www.myjoyonline.com/ato-forson-commends-workers-as-government-agrees-to-9-pay-rise-for-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:41:31.000Z",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has praised public sector workers for their role in Ghana’s economic recovery following an agreement between the government and Organised Labour on…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "Workers pay"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-6.05.03-am.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No light, no network, no bridge: Jirapa’s deprived communities get new schools under SOCO",
-      "link": "https://www.myjoyonline.com/no-light-no-network-no-bridge-jirapas-deprived-communities-get-new-schools-under-soco/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:37:04.000Z",
-      "summary": "A journey through streams and valleys, roads cut off by the absence of bridges, communities without electricity or mobile network coverage, and residents who have to climb trees to make…",
-      "categories": [
-        "Regional",
-        "Jirapa",
-        "new schools",
-        "SOCO"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2581-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey: Dr Zanetor calls for accountability over destruction of natural resources",
-      "link": "https://www.myjoyonline.com/galamsey-dr-zanetor-calls-for-accountability-over-destruction-of-natural-resources/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:35:38.000Z",
-      "summary": "The Minister for Science, Technology and Innovation, Dr Zanetor Agyeman-Rawlings, has called for collective responsibility and accountability in protecting Ghana’s natural resources against…",
-      "categories": [
-        "National",
-        "Dr Zanetor Rawlings",
-        "Galamsey",
-        "Illegal mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/864870302_1464110412569881_3879235493802779459_n.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We cannot eat or drink gold – Dr Zanetor Agyeman-Rawlings warns against environmental destruction.",
-      "link": "https://www.myjoyonline.com/we-cannot-eat-or-drink-gold-dr-zanetor-agyeman-rawlings-warns-against-environmental-destruction/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:31:16.000Z",
-      "summary": "The Minister for Science, Technology and Innovation, Dr Zanetor Agyeman-Rawlings, has warned against the destruction of Ghana’s natural resources through illegal mining, saying the pursuit…",
-      "categories": [
-        "National",
-        "Dr Zanetor Agyeman-Rawlings",
-        "Galamsey",
-        "Illegal mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/864870302_1464110412569881_3879235493802779459_n.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Mahama eyes Russia partnership to expand Ghana’s energy sources",
@@ -357,42 +421,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "See all the 9 times John Dramani Mahama has been awarded an honorary doctorate, 4 in 2026 alone, 3 from Nigeria, 2 from Russia",
-      "link": "https://www.graphic.com.gh/news/general-news/9-times-john-dramani-mahama-has-been-awarded-an-honorary-doctorate.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-28T12:14:30.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/861786710_1424639319258371_9084051559875418455_n.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Speaking on phone via bluetooth while driving is not an offence, but holding it while driving is... - Police clarify",
-      "link": "https://www.graphic.com.gh/news/general-news/speaking-on-phone-via-bluetooth-while-driving-is-not-an-offence-but-holding-it-while-driving-police-clarify.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-28T11:40:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/27/camera.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, Canada plan skills training for youth seeking global jobs",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-canada-to-train-youth-for-jobs-abroad.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-28T09:59:16.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/28/CANADAGHANA.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Cabic Pound-4-Pound Glory: Three continental crowns at stake in Accra November 6",
       "link": "https://www.graphic.com.gh/sports/boxing/cabic-pound-4-pound-glory-three-continental-crowns-at-stake-in-accra-november-6.html",
       "source": "Graphic Sports",
@@ -410,30 +438,6 @@ window.GDC_PAPERS = {
       "source": "Graphic Sports",
       "published": "2026-10-27T17:19:10.000Z",
       "summary": "The team clinched the overall title in the full net competition with an impressive score of 129, finishing one stroke ahead of the second-placed team of Tlhabeli Ralebitso, Felix Sackitey…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Agricu Ministry to support Black Challenge players with poultry farms",
-      "link": "https://www.graphic.com.gh/sports/sports-news/agriculture-ministry-to-support-black-challenge-players-with-poultry-farms.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-27T16:20:50.000Z",
-      "summary": "He said the eight locally based players in the team would be enrolled in the government’s “Nkukor Nkitinkiti” poultry programme upon their return from the tournament, with birds, cages and…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Carrick to stay in charge of Man Utd for Chelsea game",
-      "link": "https://www.graphic.com.gh/sports/sports-news/carrick-to-stay-in-charge-of-man-utd-for-chelsea-game.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-27T13:37:16.000Z",
-      "summary": "Sources have told BBC Sport that the 45-year-old will be given the opportunity to turn things around at Old Trafford following a dismal start to the campaign. Carrick oversaw training on…",
       "categories": [
         "Sports News"
       ],
