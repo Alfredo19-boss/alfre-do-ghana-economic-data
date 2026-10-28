@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-27T20:38:36.102Z",
-  "worldAt": "2026-10-27T20:38:36.098Z",
+  "updated": "2026-10-28T00:00:11.096Z",
+  "worldAt": "2026-10-28T00:00:11.093Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -28,7 +28,7 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
@@ -39,13 +39,27 @@ window.GDC_NEWS = {
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 32 stories",
-    "Africa · Africanews: 29 stories",
+    "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 34 stories",
-    "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 3 stories",
+    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Ecobank Group profit before tax hits US$737 million for first nine months of 2026",
+      "link": "https://www.myjoyonline.com/ecobank-group-profit-before-tax-hits-us737-million-for-first-nine-months-of-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T22:01:55.000Z",
+      "summary": "Ecobank Group has reported continued growth in its financial results for the first nine months of 2026, despite an operating environment characterised by inflationary pressures, foreign…"
+    },
+    {
+      "title": "How Hubtel is rethinking AI in Ghana: Own your data, rent the intelligence",
+      "link": "https://www.myjoyonline.com/how-hubtel-is-rethinking-ai-in-ghana-own-your-data-rent-the-intelligence-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T20:47:17.000Z",
+      "summary": "From the trader at Makola checking prices on her phone to the graduate in Kumasi searching for work, one question is getting louder across Ghana. Will artificial intelligence make life…"
+    },
     {
       "title": "Telecel Ghana rewards subscriber with Hyundai Creta in 15th Dream Car promotion",
       "link": "https://www.myjoyonline.com/telecel-ghana-rewards-subscriber-with-hyundai-creta-in-15th-dream-car-promotion/",
@@ -178,13 +192,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-27T13:40:51.000Z",
       "summary": "Gold Fields’ procurement record will be among the issues providing context for the company’s Suppliers Conference 2026, scheduled for October 28 and 29 under the theme, “Partnership for…"
-    },
-    {
-      "title": "How Hubtel is rethinking AI in Ghana: Own your data, rent the intelligence",
-      "link": "https://www.myjoyonline.com/how-hubtel-is-rethinking-ai-in-ghana-own-your-data-rent-the-intelligence/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T13:37:12.000Z",
-      "summary": "From the trader at Makola checking prices on her phone to the graduate in Kumasi searching for work, one question is getting louder across Ghana. Will artificial intelligence make life…"
     },
     {
       "title": "Building inflation increases to 5.1% in September 2026, but cement inflation stood at -6.1%",
@@ -1088,16 +1095,202 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-10-24T05:41:44.000Z",
       "summary": "Micro-Credit Association Ghana (MCAG) has recorded a total income of GH¢3.534 million in 2025, up from GH¢2.433 million in 2024, which constitute an increase of approximately 45 per cent."
-    },
-    {
-      "title": "AGI calls for SME growth to drive economic transformation",
-      "link": "https://www.ghanabusinessnews.com/2026/10/24/agi-calls-for-sme-growth-to-drive-economic-transformation/",
-      "source": "Ghana Business News",
-      "published": "2026-10-24T05:26:25.000Z",
-      "summary": "The Association of Ghana Industries (AGI) has called for targeted interventions to support Small and Medium-sized Enterprises (SMEs) to expand their operations, create jobs and drive…"
     }
   ],
   "world": [
+    {
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-27T23:41:23.000Z",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg"
+    },
+    {
+      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+      "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T23:35:51.000Z",
+      "summary": "Gaza film festival highlights women's resilience through stories of war, loss and survival."
+    },
+    {
+      "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-27T23:27:13.000Z",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f4/live/15b45500-d25c-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T23:23:42.000Z",
+      "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US."
+    },
+    {
+      "title": "King Charles confronts calls for slavery apology during Caribbean tour",
+      "link": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
+      "source": "France 24",
+      "published": "2026-10-27T23:14:34.000Z",
+      "summary": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch…",
+      "image": "https://s.france24.com/media/display/e2ce5e36-d1cc-11f1-a1b1-5b4a75578ebb/w:1024/p:16x9/a76378f2ae9959050b5482d797377dd5c2291e0f.jpg"
+    },
+    {
+      "title": "A bad day for Ben-Gvir as he addresses his supporters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T23:16:38.000Z",
+      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election."
+    },
+    {
+      "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
+      "link": "http://www.africanews.com/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament/",
+      "source": "Africanews",
+      "published": "2026-10-27T23:12:53.000Z",
+      "summary": "Demonstrators gathered outside Portugal's parliament to protest against the housing crisis and police violence during recent camp clearances. The president has called for dialogue while…"
+    },
+    {
+      "title": "No clear mandate projected in Israel election: What’s next?",
+      "link": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T23:06:47.000Z",
+      "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in."
+    },
+    {
+      "title": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked",
+      "link": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
+      "source": "France 24",
+      "published": "2026-10-27T22:58:53.000Z",
+      "summary": "Israel's election remained deadlocked on Tuesday, exit polls showed, with opposition leader Gadi Eisenkot's bloc narrowly ahead of Prime Minister Benjamin Netanyahu's camp by 52 seats to…",
+      "image": "https://s.france24.com/media/display/e0844dc0-d24e-11f1-bac3-bf69a9ce9852/w:1024/p:16x9/2026-10-27T201655Z-2088081210-RC2WBOANCXWD-RTRMADP-3-ISRAEL-ELECTION.jpg"
+    },
+    {
+      "title": "Smotrich dances in Israel despite far-right decline",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T23:03:44.000Z",
+      "summary": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined."
+    },
+    {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-27T22:11:08.000Z",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg"
+    },
+    {
+      "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T22:56:32.000Z",
+      "summary": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats"
+    },
+    {
+      "title": "Israel: First exit polls show no clear winner, Arab parties make gains",
+      "link": "https://www.france24.com/en/video/20261027-israel-first-exit-polls-show-no-clear-winner-arab-parties-make-gains",
+      "source": "France 24",
+      "published": "2026-10-27T21:41:42.000Z",
+      "summary": "Exit polls on Tuesday showed that the opposition bloc led by Israeli opposition candidate Gadi Eisenkot gained a narrow edge over Prime Minister Benjamin Netanyahu's Likud bloc in the…",
+      "image": "https://s.france24.com/media/display/42df8b48-d24e-11f1-a8a6-75c7729144f1/w:1024/p:16x9/Thumb-Israel-elex-results-01.jpg"
+    },
+    {
+      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T22:31:31.000Z",
+      "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc."
+    },
+    {
+      "title": "Bibi's moment of truth: Israel votes in first general election since October 7",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
+      "source": "France 24",
+      "published": "2026-10-27T21:26:10.000Z",
+      "summary": "The turnout tells the tale. Israelis casting ballots in their largest numbers in decades in the first general election since the October Seventh attacks of 2023. A referendum on the…",
+      "image": "https://s.france24.com/media/display/ec4db540-d237-11f1-89c8-bf69a9ce9852/w:1024/p:16x9/Portraits-politiques-en-diptyque-%C3%A9ditorial.png"
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T22:29:31.000Z",
+      "summary": "Iranian president's words came at summit for gas exporting countries in Russia."
+    },
+    {
+      "title": "Mbappe apologises for Mao Zedong comment after Chinese sponsors drop him",
+      "link": "http://www.africanews.com/2026/10/27/mbappe-apologises-for-mao-zedong-comment-after-chinese-sponsors-drop-him/",
+      "source": "Africanews",
+      "published": "2026-10-27T21:21:19.000Z",
+      "summary": "Football superstar Kylian Mbappé has apologised after a video appearing to show him joking about Chinese leader Mao Zedong sparked outrage in China."
+    },
+    {
+      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+      "link": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T21:47:34.000Z",
+      "summary": "News comes one day after Brazil's Supreme Court ordered Bolsonaro to hand over his passports in money-laundering probe."
+    },
+    {
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-27T21:09:12.000Z",
+      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg"
+    },
+    {
+      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+      "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T21:28:33.000Z",
+      "summary": "US president seeks to highlight Venezuela operation as Iran war makes affordability a key midterm issue."
+    },
+    {
+      "title": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+      "source": "NPR World",
+      "published": "2026-10-27T20:45:39.000Z",
+      "summary": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change…",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5690x3794+0+0/resize/5690x3794!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F36%2F656c559549cf9619280cbd15338c%2Fap26300712696528.jpg"
+    },
+    {
+      "title": "Forever Wars: Why can’t America stop?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T21:21:08.000Z",
+      "summary": "Iran, Iraq, Afghanistan. Why does the US keep going to war, and can voters stop it?"
+    },
+    {
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-27T20:44:40.000Z",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
+    },
+    {
+      "title": "Will players in the Gulf establish a new security framework?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T21:14:12.000Z",
+      "summary": "Officials from Riyadh, Islamabad, Ankara and Tehran met in Iran."
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-27T20:42:38.000Z",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T21:12:27.000Z",
+      "summary": "Israel's military operation in West Bank's Hebron has disrupted Palestinian life, including a postponed wedding."
+    },
     {
       "title": "Oxford Street bans traffic",
       "link": "https://www.npr.org/2026/10/27/nx-s1-6009383/oxford-street-bans-traffic",
@@ -1106,19 +1299,11 @@ window.GDC_NEWS = {
       "summary": "London is pedestrianizing its version of Fifth Avenue. Cars, taxis, buses and even bicycles are now banned from Oxford Street."
     },
     {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T20:19:53.000Z",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg"
-    },
-    {
-      "title": "Exit polls following Israeli elections indicate no clear winner",
-      "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+      "title": "US says it killed five people in strike on alleged drug boat",
+      "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T20:18:18.000Z",
-      "summary": "The official results are due to be published on November 4, more than a week after the vote."
+      "published": "2026-10-27T20:54:38.000Z",
+      "summary": "Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025."
     },
     {
       "title": "South Africa claims 7.6 kilometer-long freight train is the longest ever",
@@ -1128,11 +1313,11 @@ window.GDC_NEWS = {
       "summary": "A government-run company in South Africa claims that it has sent the longest freight train ever on a test run."
     },
     {
-      "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
-      "link": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+      "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T20:00:46.000Z",
-      "summary": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers."
+      "published": "2026-10-27T20:38:17.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close."
     },
     {
       "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
@@ -1143,6 +1328,13 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7086x4724+0+0/resize/7086x4724!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F93%2F4ffae611409290d5b15eef9a5f72%2Febola-slideshow-10k-cases-2300979920.jpg"
     },
     {
+      "title": "Egypt orders closure of leading independent news site Mada Masr",
+      "link": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T20:35:18.000Z",
+      "summary": "Editor Lina Attalah was freed once a $53,400 fine was paid, only to learn of a one-year sentence passed in her absence."
+    },
+    {
       "title": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
       "link": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
       "source": "France 24",
@@ -1151,11 +1343,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/44b94f32-d215-11f1-870d-5b4a75578ebb/w:1024/p:16x9/EN-20261027-130828-131530-CS.jpg"
     },
     {
-      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+      "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T19:36:01.000Z",
-      "summary": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow."
+      "published": "2026-10-27T20:34:44.000Z",
+      "summary": "Residents in Lebanon and Syria expect little change in Israeli policy after the election."
     },
     {
       "title": "Botanists comb Gabon's rich rainforests with nature on the line",
@@ -1165,7 +1357,14 @@ window.GDC_NEWS = {
       "summary": "Each year, Gabon's lush rainforests yield the discovery of previously unknown plant species to botanists like Archange Boupoya, who believes that this exceptional yet largely mysterious…"
     },
     {
-      "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
+      "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T20:18:18.000Z",
+      "summary": "Israel's first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority."
+    },
+    {
+      "title": "Dutch zookeeper dies after being mauled by leopard",
       "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-27T19:30:37.000Z",
@@ -1173,11 +1372,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg"
     },
     {
-      "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+      "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
+      "link": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T19:28:12.000Z",
-      "summary": "High turnout in vote widely described as the most consequential in Israel's history."
+      "published": "2026-10-27T20:00:46.000Z",
+      "summary": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers."
     },
     {
       "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
@@ -1188,216 +1387,36 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16e/live/5844f360-d226-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
-      "link": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss",
+      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-27T19:12:35.000Z",
-      "summary": "US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature."
-    },
-    {
-      "title": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
-      "link": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
-      "source": "France 24",
-      "published": "2026-10-27T18:59:43.000Z",
-      "summary": "Erin Ogunkeye is pleased to welcome Ibrahim Abu Ahmad, Author, Palestinian Israeli political and peace activist and Head of Social Media for Israel's left-wing Democrats. “Currently, the…",
-      "image": "https://s.france24.com/media/display/b957c3a8-d235-11f1-be1e-47de50b3c1e4/w:1024/p:16x9/EN-20261027-160657-162025-CS-01.jpg"
-    },
-    {
-      "title": "Trump says he’ll respect US midterm results if elections are ‘honest’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T19:11:27.000Z",
-      "summary": "US President Donald Trump says he will respect the results of the November 3 midterm elections if they are ‘honest’."
-    },
-    {
-      "title": "How student assemblies brought down the Serbian government",
-      "link": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
-      "source": "France 24",
-      "published": "2026-10-27T18:58:25.000Z",
-      "summary": "A list of academics, engineers, artists and activists chosen by Serbia’s student assemblies defeated long-ruling president Aleksandar Vucic's right-wing Serbian Progressive Party Sunday…",
-      "image": "https://s.france24.com/media/display/4370c334-d225-11f1-9cd7-75c7729144f1/w:1024/p:16x9/2026-10-26T200342Z-473553852-RC26BOAEJNFQ-RTRMADP-3-SERBIA-ELECTION.jpg"
-    },
-    {
-      "title": "Deadly tornado strikes construction site in Turkiye",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:52:07.000Z",
-      "summary": "Deadly tornado strikes construction site in Turkiye"
-    },
-    {
-      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T18:43:41.000Z",
-      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbe/live/217282b0-d22d-11f1-b441-2b33b063138f.png"
-    },
-    {
-      "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:42:48.000Z",
-      "summary": "Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction."
-    },
-    {
-      "title": "Controversial Islamic cleric shot dead in northern Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T18:35:02.000Z",
-      "summary": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719f/live/5b2284f0-d233-11f1-b441-2b33b063138f.png"
-    },
-    {
-      "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:41:28.000Z",
-      "summary": "Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn"
-    },
-    {
-      "title": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
-      "link": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
-      "source": "France 24",
-      "published": "2026-10-27T18:34:19.000Z",
-      "summary": "Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main…",
-      "image": "https://s.france24.com/media/display/029a5de6-d227-11f1-88b5-47de50b3c1e4/w:1024/p:16x9/EN-20261027-151044-152521-CS.jpg"
-    },
-    {
-      "title": "Harry Kane: How the ‘runt of the litter’ conquered a historic Ballon d’Or",
-      "link": "https://www.aljazeera.com/sports/2026/10/27/ballon-dor-harry-kane-england-bayern-munich?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:38:13.000Z",
-      "summary": "Once mocked for being the most famous player never to win a trophy, Kane now has the most prestigious individual honour."
-    },
-    {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T18:28:23.000Z",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg"
-    },
-    {
-      "title": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-      "link": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:35:05.000Z",
-      "summary": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?"
-    },
-    {
-      "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
-      "link": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
-      "source": "France 24",
-      "published": "2026-10-27T18:27:15.000Z",
-      "summary": "Critics have said that a proposed French law that would make rioters liable to pay thousands of euros for any damage they cause is anti-democratic, as it could undermine the legitimate…",
-      "image": "https://s.france24.com/media/display/49db0b42-d231-11f1-9ade-75c7729144f1/w:1024/p:16x9/AP26294363892004.jpg"
-    },
-    {
-      "title": "‘If they’re honest’: Trump casts latest suspicion on US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:24:13.000Z",
-      "summary": "Trump's comments come as his administration files legal challenges to Democrat-led US states over election integrity."
-    },
-    {
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T17:11:27.000Z",
-      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/4e8e4460-d227-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli elections underway",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:12:17.000Z",
-      "summary": "Voting has begun in Israel, with over seven million eligible voters expected at the polls."
-    },
-    {
-      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-27T17:10:15.000Z",
-      "summary": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a42/live/20bef180-d22a-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
-      "link": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T18:11:57.000Z",
-      "summary": "In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'."
-    },
-    {
-      "title": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
-      "link": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1",
-      "source": "France 24",
-      "published": "2026-10-27T17:08:44.000Z",
-      "summary": "French lawmakers held a minute of silence for Pengo Bossio Wangi. The victim of a racist attack died in a shooting last week, while at least five other people were wounded, including a…",
-      "image": "https://s.france24.com/media/display/d26e3818-d226-11f1-a4c7-a7bbbeea0b20/w:1024/p:16x9/capture-3b57773c.jpg"
-    },
-    {
-      "title": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
-      "link": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T17:37:51.000Z",
-      "summary": "President Vucic called the incident an attack on free speech and the freedom of journalism."
-    },
-    {
-      "title": "Israelis vote in a tense election: What's at stake?",
-      "link": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
-      "source": "France 24",
-      "published": "2026-10-27T16:59:06.000Z",
-      "summary": "Israelis were voting Tuesday (October 27) in a tense national election widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Hamas-led Oct. 7, 2023, attack…",
-      "image": "https://s.france24.com/media/display/6e9752f2-d226-11f1-b354-bf69a9ce9852/w:1024/p:16x9/EN-20261027-163137-163342-CS.jpg"
-    },
-    {
-      "title": "Spain deports migrants from Ceuta in move criticised by rights group",
-      "link": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T17:10:58.000Z",
-      "summary": "The deportation was the first of its kind since a mass border crossing into the territory from Morocco in July."
-    },
-    {
-      "title": "Nigeria jail conditions blamed for deaths of 33 miners",
-      "link": "http://www.africanews.com/2026/10/27/nigeria-jail-conditions-blamed-for-deaths-of-33-miners/",
-      "source": "Africanews",
-      "published": "2026-10-27T16:56:40.000Z",
-      "summary": "Poor jail conditions led to the deaths of 33 young miners arrested on suspicion of illegal gold mining in central Nigeria, investigators said Tuesday, describing their treatment as “cruel…"
-    },
-    {
-      "title": "Fire engulfs Seoul’s last shanty-town, forcing hundreds to evacuate",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T17:10:03.000Z",
-      "summary": "A fire has torn through Guryong Village, Seoul’s last shanty-town, forcing more than 100 people to evacuate."
-    },
-    {
-      "title": "Israel elections: voter turnout reaches 55% by 4pm local time",
-      "link": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
-      "source": "France 24",
-      "published": "2026-10-27T16:52:33.000Z",
-      "summary": "Israelis flocked to the polls Tuesday (October 27) in turnout unseen in decades, with a deeply divided electorate delivering a verdict on veteran right-wing Prime Minister Benjamin…",
-      "image": "https://s.france24.com/media/display/f6478d3e-d226-11f1-8753-efcc5769f1db/w:1024/p:16x9/capture-7dc5f0be.jpg"
-    },
-    {
-      "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T17:03:45.000Z",
-      "summary": "Mourners have buried four members of a family, including three children, killed in Jordanian airstrikes in Syria."
-    },
-    {
-      "title": "Brazil's defeated candidate Flavio Bolsonaro heads to US despite cancelled passports",
-      "link": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
-      "source": "France 24",
-      "published": "2026-10-27T16:33:13.000Z",
-      "summary": "Brazil's former right-wing presidential candidate Flavio Bolsonaro fled to the US, sources said Tuesday, despite his passports being cancelled after he failed to comply with a Supreme Court…",
-      "image": "https://s.france24.com/media/display/6a7c52da-d221-11f1-9049-75c7729144f1/w:1024/p:16x9/AP26299067954788.jpg"
+      "published": "2026-10-27T19:36:01.000Z",
+      "summary": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow."
     }
   ],
   "africa": [
+    {
+      "title": "Egypt orders closure of independent news site Mada Masr",
+      "link": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-27T23:16:00.000Z",
+      "summary": "Editor-in-chief Lina Attalah was briefly detained and fined over licensing violations. Rights groups condemned the ruling as a major blow to press freedom in Egypt, where independent media…"
+    },
+    {
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-10-27T20:44:40.000Z",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
+    },
+    {
+      "title": "Egypt orders closure of leading independent news site Mada Masr",
+      "link": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T20:35:18.000Z",
+      "summary": "Editor Lina Attalah was freed once a $53,400 fine was paid, only to learn of a one-year sentence passed in her absence."
+    },
     {
       "title": "South Africa claims 7.6 kilometer-long freight train is the longest ever",
       "link": "http://www.africanews.com/2026/10/27/south-africa-claims-76-kilometer-long-freight-train-is-the-longest-ever/",
@@ -1494,12 +1513,12 @@ window.GDC_NEWS = {
       "summary": "[Daily Trust] Nigerians consumed the lowest amount of petrol in August amidst skyrocketing prices of the product, Daily Trust can report."
     },
     {
-      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "title": "Namibia take lead in ODI series against Ireland",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published": "2026-10-27T16:11:35.000Z",
-      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b1e/live/f0d3b6c0-d21c-11f1-b8e4-17c9744a7f8e.jpg"
+      "published": "2026-10-27T15:58:01.000Z",
+      "summary": "Ireland fall 2-1 behind in their five-match ODI series against Namibia as they lose by 63 runs in the third meeting between the sides.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db9/live/3387da80-d21a-11f1-8f84-ebd3099fed63.jpg"
     },
     {
       "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
@@ -1507,14 +1526,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-27T15:53:35.000Z",
       "summary": "Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles."
-    },
-    {
-      "title": "Namibia take lead in ODI series against Ireland",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-10-27T15:58:01.000Z",
-      "summary": "Ireland fall 2-1 behind in their five-match ODI series against Namibia as they lose by 63 runs in the third meeting between the sides.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db9/live/3387da80-d21a-11f1-8f84-ebd3099fed63.jpg"
     },
     {
       "title": "Tanzania's jailed opposition leader Tundu Lissu begins hunger strike",
@@ -1672,20 +1683,6 @@ window.GDC_NEWS = {
       "published": "2026-10-27T12:25:14.000Z",
       "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e00/live/599f3cc0-d1e5-11f1-8e07-c79267b33d55.jpg"
-    },
-    {
-      "title": "Rwanda: Cabinet Appoints Claudette Mukashyaka As New Auditor General",
-      "link": "https://allafrica.com/stories/202610270465.html",
-      "source": "AllAfrica",
-      "published": "2026-10-27T12:24:46.000Z",
-      "summary": "[New Times] Claudette Mukashyaka has been appointed the Auditor General of State Finances, replacing Alexis Kamuhire, following a Cabinet meeting held on Monday, October 26."
-    },
-    {
-      "title": "Gambia: Gambia Adopts Ghana's Digital Identity Technology",
-      "link": "https://allafrica.com/stories/202610270460.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-27T12:20:33.000Z",
-      "summary": "[Ghanaian Times] The Gambia has adopted Ghana's digital identity technology after being impressed by the country's ability to link identity systems and consolidate data, the Special Adviser…"
     }
   ]
 };

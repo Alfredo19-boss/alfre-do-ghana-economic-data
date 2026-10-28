@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-27T20:38:53.546Z",
+  "updated": "2026-10-28T00:00:24.843Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,18 +25,145 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Prison reforms: Wontumi proposes dedicated prison hospital, conjugal visits for inmates",
-      "link": "https://www.myjoyonline.com/prison-reforms-wontumi-proposes-dedicated-prison-hospital-conjugal-visits-for-inmates/",
+      "title": "Make TESCON NPP’s intellectual powerhouse — Asenso-Boakye",
+      "link": "https://www.myjoyonline.com/make-tescon-npps-intellectual-powerhouse-asenso-boakye/",
       "source": "MyJoyOnline",
-      "published": "2026-10-27T20:35:30.000Z",
-      "summary": "Former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi Boasiako, popularly known as Chairman Wontumi, has called for sweeping reforms in Ghana’s prisons, including the…",
+      "published": "2026-10-27T23:32:13.000Z",
+      "summary": "The New Patriotic Party’s (NPP) student wing must evolve into a centre for policy thinking and leadership training if it is to make a lasting contribution to the party and Ghana’s…",
       "categories": [
-        "National",
-        "Chairman Wontumi",
-        "Prinson reforms"
+        "Politics",
+        "NPP",
+        "TESCON"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/bernard-antwi-boasiako-chairman-wontumi-e1784556580862.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-21.37.04-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NDC constitution lacks mechanism to punish electoral inducement – Inusah Fuseini",
+      "link": "https://www.myjoyonline.com/ndc-constitution-lacks-mechanism-to-punish-electoral-inducement-inusah-fuseini/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T23:15:00.000Z",
+      "summary": "Former Tamale Central MP, Inusah Fuseini, says the National Democratic Congress (NDC) lacks a clear constitutional mechanism to punish electoral inducement, leaving disciplinary action open…",
+      "categories": [
+        "Politics",
+        "Inusah Fuseini",
+        "NDC",
+        "Vote buying"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-3.05.35-am.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gender Ministry steps in to support students in alleged Obuasi SHTS sex abuse case",
+      "link": "https://www.myjoyonline.com/gender-ministry-steps-in-to-support-students-in-alleged-obuasi-shts-sex-abuse-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T22:59:07.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has met some students affected by the alleged sexual abuse at Obuasi Senior High Technical School (SHTS)…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "Obuasi SHTS",
+        "Sex abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/870827076_1810434733513324_7438935277960477914_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man City players can block out ‘noise’ of away fans – Maresca",
+      "link": "https://www.myjoyonline.com/man-city-players-can-block-out-noise-of-away-fans-maresca/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T22:55:00.000Z",
+      "summary": "Manchester City suffered their first Premier League defeat of the season at a boisterous Aston Villa on Saturday, amid persistent reminders of their financial charges.",
+      "categories": [
+        "Football",
+        "Enzo Maresca",
+        "Man City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2519.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Arsenal loses to 4th-tier Fleetwood on penalties in English League Cup stunner",
+      "link": "https://www.myjoyonline.com/arsenal-loses-to-4th-tier-fleetwood-on-penalties-in-english-league-cup-stunner/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T22:47:00.000Z",
+      "summary": "Fleetwood Town pulled off one of the biggest upsets in Carabao Cup history, beating Premier League champions Arsenal in an astounding penalty shootout to reach the quarter-finals.",
+      "categories": [
+        "Football",
+        "Arsenal",
+        "English League Cup",
+        "Fleetwood"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2518-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Captain Xhaka allowed to play for Switzerland again",
+      "link": "https://www.myjoyonline.com/captain-xhaka-allowed-to-play-for-switzerland-again/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T22:38:00.000Z",
+      "summary": "Granit Xhaka and Breel Embolo will both be allowed to play for Switzerland again next month following an investigation into forged Covid-19 vaccination certificates obtained by the pair.",
+      "categories": [
+        "Football",
+        "Granit Xhaka",
+        "Switzerland"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2517.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+      "link": "https://www.myjoyonline.com/fleetwood-arsenal-halted-for-eight-minutes-because-of-drone/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T22:30:00.000Z",
+      "summary": "Arsenal's match against Fleetwood Town in the last 16 of the Carabao Cup was delayed for more than eight minutes after a drone flew over the stadium during play.",
+      "categories": [
+        "Football",
+        "Drone",
+        "Fleetwood-Arsenal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2516.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Barcelona fined £503 over approach for Alvarez",
+      "link": "https://www.myjoyonline.com/barcelona-fined-503-over-approach-for-alvarez/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-27T22:22:00.000Z",
+      "summary": "Barcelona have been fined €602 (£503) after Atletico Madrid complained about contact the club made with striker Julian Alvarez.",
+      "categories": [
+        "Football",
+        "Athletico Madrid",
+        "Barcelona",
+        "Julian Alvarez"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2515.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Buying used pickups and SUVs in Ghana: how SMEs can assess the real savings from fleet purchases",
+      "link": "https://ghanaiantimes.com.gh/buying-used-pickups-and-suvs-in-ghana-how-smes-can-assess-the-real-savings-from-fleet-purchases/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-27T20:45:32.000Z",
+      "summary": "For Ghanaian small and medium-sized businesses transporting farm supplies, running delivery routes or sending staff out to customers, buying fleet vehicles ties up cash and affects everyday…",
+      "categories": [
+        "Technology"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/image-51.png",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "La Pleasure Beach demolition: Management committee sues two hotels and SSNIT",
+      "link": "https://www.graphic.com.gh/news/general-news/la-pleasure-beach-demolition-management-committee-sues-two-hotels-and-ssnit.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-27T20:31:27.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/27/la_pleasure.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Cabic Pound-4-Pound Glory: Three continental crowns at stake in Accra November 6",
@@ -49,120 +176,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/27/pound.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Telecel Ghana rewards subscriber with Hyundai Creta in 15th Dream Car promotion",
-      "link": "https://www.myjoyonline.com/telecel-ghana-rewards-subscriber-with-hyundai-creta-in-15th-dream-car-promotion/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T20:12:52.000Z",
-      "summary": "Telecel Ghana has rewarded a lucky subscriber, Eric Ayamgash, with a Hyundai Creta at the end of the 15th cycle of its Dream Car promotion. The initiative forms part of the…",
-      "categories": [
-        "Business",
-        "Telecom",
-        "Eric Ayamgash",
-        "Telecel Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-12.28.10-PM-5-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian music can go global without copying foreign sounds – King Promise",
-      "link": "https://www.myjoyonline.com/ghanaian-music-can-go-global-without-copying-foreign-sounds-king-promise/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T20:12:49.000Z",
-      "summary": "Ghanaian Afrobeats and Highlife singer-songwriter King Promise says his ambition is to take Ghanaian music to the global stage without losing the sound and identity that distinguish local…",
-      "categories": [
-        "Arts and Culture",
-        "Music",
-        "Radio & TV",
-        "Ghanaian music",
-        "King Promise"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/King-Promise.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I compete with myself, not other artistes – King Promise",
-      "link": "https://www.myjoyonline.com/i-compete-with-myself-not-other-artistes-king-promise/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T20:12:44.000Z",
-      "summary": "Ghanaian Afrobeats and Highlife singer-songwriter Gregory Bortey Newman, known popularly as King Promise, says he is more focused on improving his own achievements than competing with…",
-      "categories": [
-        "Arts and Culture",
-        "Music",
-        "Radio & TV",
-        "King Promise"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/05/king-promise.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UBA Foundation opens 2026 essay competition to promote literacy among SHS students",
-      "link": "https://www.myjoyonline.com/uba-foundation-opens-2026-essay-competition-to-promote-literacy-among-shs-students/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T20:01:06.000Z",
-      "summary": "The UBA Foundation has opened applications for its 2026 National Essay Competition, seeking to strengthen the writing skills, creativity and critical thinking of senior high school students…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Education",
-        "Essay competition",
-        "literacy",
-        "SHS",
-        "UBA Foundation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-15.12.38-1024x605.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRASAG president calls for sustainable funding for agricultural research in Africa",
-      "link": "https://www.myjoyonline.com/grasag-president-calls-for-sustainable-funding-for-agricultural-research-in-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T19:58:42.000Z",
-      "summary": "The President of the Graduate Students Association of Ghana (GRASAG), Richard Class-Peters, has called for sustainable financing for agricultural research to improve food security, boost…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "agricultural research",
-        "GRASAG",
-        "Sustainable funding"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-19.52.46-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Andre Ayew donates to Black Challenge ahead of World Cup",
-      "link": "https://www.myjoyonline.com/andre-ayew-donates-to-black-challenge-ahead-of-world-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T19:55:57.000Z",
-      "summary": "Former Black Stars captain Andre Ayew has donated an undisclosed amount to Ghana’s national amputee football team, the Black Challenge, ahead of the 2026 Amputee Football World Cup in…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Amputee World Cup",
-        "Andre Ayew",
-        "Black Challenge",
-        "Dede Ayew"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/SASA-635x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana to review laws to implement Accra Convention – Ofosu-Adjare",
-      "link": "https://www.myjoyonline.com/ghana-to-review-laws-to-implement-accra-convention-ofosu-adjare/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T19:52:11.000Z",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, says Ghana will review its laws to facilitate the implementation of the Accra Convention on Negotiable Cargo…",
-      "categories": [
-        "Business",
-        "National",
-        "Accra Convention",
-        "Agribusiness",
-        "Ofosu Adjare",
-        "Trade"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-16.38.39-770x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Akonta Mining Case: Prosecution closes case after calling three witnesses",
@@ -248,19 +261,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-10-27T18:14:49.000Z",
       "summary": "The Executive Secretary of the National Film Authority, Kafui Danku, has defended the use of Artificial Intelligence (AI) in filmmaking, describing it as another creative tool. In a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Abu Jinapor describes South Africa evacuation as alleged scheme to siphon public funds",
-      "link": "https://ghanaiantimes.com.gh/abu-jinapor-describes-south-africa-evacuation-as-alleged-scheme-to-siphon-public-funds/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-27T18:12:38.000Z",
-      "summary": "The Ranking Member on Parliament’s Foreign Affairs Committee, Samuel Abu Jinapor, has accused Foreign Affairs Minister Samuel Okudzeto Ablakwa of failing to ensure accountability over the…",
       "categories": [
         "Hot!",
         "News"
@@ -398,18 +398,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/26/ngo26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama receives honorary doctorate from Friendship University of Russia (RUDN) in Moscow",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-receives-honorary-doctorate-from-rudn-university.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-27T11:24:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/russghana.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
