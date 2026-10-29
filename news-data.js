@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-29T19:39:00.035Z",
-  "worldAt": "2026-10-29T19:39:00.033Z",
+  "updated": "2026-10-29T23:35:01.875Z",
+  "worldAt": "2026-10-29T23:35:01.873Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -29,23 +29,72 @@ window.GDC_NEWS = {
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 27 stories",
+    "World · BBC News: 28 stories",
     "World · Deutsche Welle: 10 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 21 stories",
+    "Africa · Africanews: 22 stories",
     "Africa · BBC Africa: 36 stories",
-    "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Ghana targets $1.2bn investment and 150,000 jobs under new textile policy",
+      "link": "https://www.myjoyonline.com/ghana-targets-1-2bn-investment-and-150000-jobs-under-new-textile-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T22:25:04.000Z",
+      "summary": "Ghana is targeting about $1.2 billion in investment and 150,000 direct and indirect jobs over the next decade under a new textile and garment policy approved by Cabinet. The policy, which…"
+    },
+    {
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "link": "https://www.myjoyonline.com/google-value-plunges-by-500bn-as-ai-fears-rattle-wall-street/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T22:24:00.000Z",
+      "summary": "Google parent Alphabet lost just over $500bn (£374bn) in value on Thursday after it rattled Wall Street with its last update of the year on its business operations."
+    },
+    {
+      "title": "Trade Ministry launches pharmaceutical policy to double local medicine production",
+      "link": "https://www.myjoyonline.com/trade-ministry-launches-pharmaceutical-policy-to-double-local-medicine-production/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T21:10:54.000Z",
+      "summary": "The government has launched the Cabinet-approved Ghana Pharmaceutical Manufacturing Policy, seeking to double domestic medicine production, create skilled jobs and position the country as a…"
+    },
+    {
+      "title": "African CEOs remain confident in growth, but economic uncertainty, AI readiness will shape next phase of investment – KPMG",
+      "link": "https://www.myjoyonline.com/african-ceos-remain-confident-in-growth-but-economic-uncertainty-ai-readiness-will-shape-next-phase-of-investment-kpmg/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T20:32:18.000Z",
+      "summary": "The findings point to a business environment in which ambition remains strong, but execution is becoming increasingly important. While 66% of African CEOs are confident in the global…"
+    },
+    {
+      "title": "UBA Ghana Opens 2026 National Essay Competition, Offers Scholarships of Up to US$10,000",
+      "link": "https://thehighstreetjournal.com/uba-ghana-opens-2026-national-essay-competition-offers-scholarships-of-up-to-us10000/",
+      "source": "The High Street Journal",
+      "published": "2026-10-29T20:22:36.000Z",
+      "summary": "UBA Foundation has opened its 2026 National Essay Competition, offering Ghanaian senior high school students scholarships of up to US$10,000."
+    },
+    {
+      "title": "MTN’s profit before tax for Q3 hits GH¢ 11.3 billion",
+      "link": "https://www.myjoyonline.com/mtns-profit-before-tax-for-q3-hits-gh%c2%a2-11-3-billion/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T20:17:07.000Z",
+      "summary": "The figure represents a 51.8% jump over the GH¢ 7.7 billion it recorded during the same period in 2025."
+    },
+    {
+      "title": "5th Edition of Ghana Corporate Brands Conference and Honours launched",
+      "link": "https://www.myjoyonline.com/5th-edition-of-ghana-corporate-brands-conference-and-honours-launched/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T19:51:48.000Z",
+      "summary": "Under the theme, \"Shaping the Future of Corporate Branding in Ghana: Building Brands with Strategic Intent, Inspiring Excellence, and Earning Lasting Trust\", the event is expected to…"
+    },
     {
       "title": "Ghana reviews employment policy to identify green job opportunities",
       "link": "https://www.myjoyonline.com/ghana-reviews-employment-policy-to-identify-green-job-opportunities/",
@@ -1046,58 +1095,202 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-27T05:02:00.000Z",
       "summary": "Indigenous Ghanaian firms secured 23% of upstream petroleum service contracts by value in first-half 2026, raising questions about local content opportunities and participation."
-    },
-    {
-      "title": "DStv Bets on Volume as Price Cuts Target Lost Customers",
-      "link": "https://thehighstreetjournal.com/dstv-bets-on-volume-as-price-cuts-target-lost-customers/",
-      "source": "The High Street Journal",
-      "published": "2026-10-27T05:01:00.000Z",
-      "summary": "DStv’s latest price cuts signal a strategic shift from premium pricing to affordability, as it seeks to rebuild its subscriber base and restore growth in Ghana’s pay-TV market."
-    },
-    {
-      "title": "LePIP Tenancy Deadline Extended as Ghana Targets Pharmaceutical Import Substitution",
-      "link": "https://thehighstreetjournal.com/lepip-tenancy-deadline-extended-as-ghana-targets-pharmaceutical-import-substitution/",
-      "source": "The High Street Journal",
-      "published": "2026-10-27T05:00:00.000Z",
-      "summary": "Ghana has extended the LePIP tenancy application deadline to October 31, as the government seeks pharmaceutical investment, domestic medicine production, export growth and thousands of jobs."
-    },
-    {
-      "title": "Multimedia’s Clinton Yeboah sweeps GJA Ashanti Awards, wins top honors in Health and Business Journalism",
-      "link": "https://www.myjoyonline.com/multimedias-clinton-yeboah-sweeps-gja-ashanti-awards-wins-top-honors-in-health-and-business-journalism/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-27T02:18:00.000Z",
-      "summary": "Journalist Clinton Yeboah has emerged Best in Health Journalism and Best in Business and Economy Journalism at the Ghana Journalists Association (GJA) Ashanti Regional Media Excellence…"
-    },
-    {
-      "title": "Ignore ‘economic propaganda’; TOR refines Ghanaian medium sweet crude same as what is in Nigeria and Ivory Coast in the Equatorial basin – TOR MD Kombat",
-      "link": "https://www.graphic.com.gh/news/general-news/ignore-economic-propaganda-tor-refines-ghanaian-medium-sweet-crude-same-as-what-is-in-nigeria-and-ivory-coast-in-the-equatorial-basin-tor-md-kombat.html",
-      "source": "Graphic Online",
-      "published": "2026-10-26T22:03:59.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Mahama Arrives in Moscow for Russia-Africa Summit, Seeks Business Ties",
-      "link": "https://thehighstreetjournal.com/mahama-in-moscow-for-russia-africa-summit/",
-      "source": "The High Street Journal",
-      "published": "2026-10-26T21:18:22.000Z",
-      "summary": "The president is scheduled to meet Vladimir Putin and hold talks with Russian businesses and state institutions during the visit"
-    },
-    {
-      "title": "GCB Bank partners with UnionPay to launch Ghana’s first RMB debit and prepaid cards",
-      "link": "https://www.myjoyonline.com/gcb-bank-partners-unionpay-to-launch-ghanas-first-rmb-debit-and-prepaid-cards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-26T19:54:09.000Z",
-      "summary": "GCB Bank PLC has partnered with UnionPay International to introduce Ghana’s first Renminbi (RMB) debit and prepaid cards, allowing customers to make payments directly in the Chinese…"
-    },
-    {
-      "title": "Ghana’s Event Economy Faces a Media Shift as Bloggers Challenge Traditional Newsrooms",
-      "link": "https://thehighstreetjournal.com/ghanas-event-economy-faces-a-media-shift-as-bloggers-challenge-traditional-newsrooms/",
-      "source": "The High Street Journal",
-      "published": "2026-10-26T16:03:00.000Z",
-      "summary": "From corporate launches and investment conferences to award ceremonies and entertainment events, bloggers are becoming increasingly visible alongside traditional media organisations…"
     }
   ],
   "world": [
+    {
+      "title": "Pressure grows for Venezuela's authoritarian regime as opposition leader Machado returns",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6019294/pressure-grows-for-venezuelas-authoritarian-regime-as-opposition-leader-machado-returns",
+      "source": "NPR World",
+      "published": "2026-10-29T22:50:27.000Z",
+      "summary": "Maria Corina Machado's return to Venezuela presents a fresh challenge for Trump-backed President Delcy Rodríguez and reignites questions over the prospect of new elections."
+    },
+    {
+      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+      "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T22:36:06.000Z",
+      "summary": "Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia."
+    },
+    {
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-29T21:33:35.000Z",
+      "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg"
+    },
+    {
+      "title": "Trump administration attempts to take down leak of ICE personnel data",
+      "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T22:16:51.000Z",
+      "summary": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest."
+    },
+    {
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-29T21:31:12.000Z",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T21:16:26.000Z",
+      "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site."
+    },
+    {
+      "title": "ECB President Lagarde steps down in order to speak out",
+      "link": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out",
+      "source": "France 24",
+      "published": "2026-10-29T21:01:37.000Z",
+      "summary": "European Central Bank President Christine Lagarde will step down from her post several months early, in order to have more \"freedom to engage on matters that are not monetary policy.\" The…",
+      "image": "https://s.france24.com/media/display/8563ebde-d3da-11f1-8881-d18c5759e759/w:1024/p:16x9/capture-d2428e16.jpg"
+    },
+    {
+      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T21:10:13.000Z",
+      "summary": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained."
+    },
+    {
+      "title": "Watch: What leaked audio reveals about Spain train crash",
+      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-29T20:50:25.000Z",
+      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"
+    },
+    {
+      "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:42:03.000Z",
+      "summary": "Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision."
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-29T20:21:54.000Z",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
+    },
+    {
+      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:40:03.000Z",
+      "summary": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel's military offensive continues."
+    },
+    {
+      "title": "Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86",
+      "link": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
+      "source": "France 24",
+      "published": "2026-10-29T20:21:52.000Z",
+      "summary": "The British actor Patrick Stewart has died at 86, a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in…",
+      "image": "https://s.france24.com/media/display/3f9776de-d3d5-11f1-8290-695cb59fade5/w:1024/p:16x9/AP26302717036908.jpg"
+    },
+    {
+      "title": "Does Russia offer African countries an equal partnership?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:34:28.000Z",
+      "summary": "President Vladimir Putin hosts African leaders at a summit in Moscow."
+    },
+    {
+      "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+      "source": "France 24",
+      "published": "2026-10-29T20:06:36.000Z",
+      "summary": "François Picard is pleased to welcome Dr Joseph Downing, Senior Lecturer in International Relations and Politics at Aston University. In modern France, the politics of insecurity…",
+      "image": "https://s.france24.com/media/display/0d12be2a-d3d1-11f1-a517-695cb59fade5/w:1024/p:16x9/EN-20261029-181811-182756-CS.jpg"
+    },
+    {
+      "title": "Israel election result shows no overall majority as vote count complete",
+      "link": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:22:04.000Z",
+      "summary": "Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority."
+    },
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-29T20:05:57.000Z",
+      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb9/live/fe693560-d3c2-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "What killed 500-plus penguins? How scientists solved the mystery",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+      "source": "NPR World",
+      "published": "2026-10-29T20:03:26.000Z",
+      "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F04%2Fc5dc45604e3b8d741917e4b6b3ec%2Fadelie-penguins-c-ralph-vanstreels-uc-davis-12.jpg"
+    },
+    {
+      "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+      "link": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+      "source": "France 24",
+      "published": "2026-10-29T20:02:03.000Z",
+      "summary": "François Picard is pleased to welcome Dr Joseph Downing, Senior Lecturer in International Relations and Politics at Aston University. In modern France, the politics of insecurity…",
+      "image": "https://s.france24.com/media/display/0d12be2a-d3d1-11f1-a517-695cb59fade5/w:1024/p:16x9/EN-20261029-181811-182756-CS.jpg"
+    },
+    {
+      "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
+      "link": "https://www.aljazeera.com/news/2026/10/29/man-targeted-muslims-africans-and-north-africans-french-prosecutors-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:00:26.000Z",
+      "summary": "Prosecutor Olivier Christen said suspect admitted that he chose the location because it was 'a hotbed for Islamists'."
+    },
+    {
+      "title": "Michigan's El-Sayed targeted by Republicans in Midterms race: Will the religion card work?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261029-michigan-s-el-sayed-targeted-by-republicans-in-midterms-race-will-the-religion-card-work",
+      "source": "France 24",
+      "published": "2026-10-29T19:31:10.000Z",
+      "summary": "What in the name of political free speech is off-limits? Can you say whatever you want on the campaign trail, no matter how false or racist?",
+      "image": "https://s.france24.com/media/display/5700bacc-d3cd-11f1-94a8-d18c5759e759/w:1024/p:16x9/EN-20261029-191045-195420-CS.jpg"
+    },
+    {
+      "title": "Cameroon families demand return of relatives from Ukraine",
+      "link": "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/",
+      "source": "Africanews",
+      "published": "2026-10-29T19:26:34.000Z",
+      "summary": "In Cameroon, the “Bring Back Our Sons and Brothers” collective organised a peaceful march on Wednesday, 28 October, to the Russian embassy. They are calling on Russia and the Cameroonian…"
+    },
+    {
+      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+      "link": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T19:23:33.000Z",
+      "summary": "Faculty vote will continue until next Friday and could send message that school's president has lost their confidence."
+    },
+    {
+      "title": "Libya’s central bank targeted in overnight raid raising fresh concerns",
+      "link": "http://www.africanews.com/2026/10/29/libyas-central-bank-targeted-in-overnight-raid-raising-fresh-concerns/",
+      "source": "Africanews",
+      "published": "2026-10-29T19:01:46.000Z",
+      "summary": "Libya's central bank on Thursday said unidentified individuals raided its headquarters in Tripoli, hours after parliament said it had accepted a request from its governor to resign."
+    },
+    {
+      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
+      "link": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T19:21:19.000Z",
+      "summary": "Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen."
+    },
+    {
+      "title": "No clear majority emerges as Israel counts final election votes",
+      "link": "http://www.africanews.com/2026/10/29/no-clear-majority-emerges-as-israel-counts-final-election-votes/",
+      "source": "Africanews",
+      "published": "2026-10-29T18:48:53.000Z",
+      "summary": "The Israeli Elections Committee continued counting votes on Thursday from envelopes cast by voters authorized to vote outside their assigned polling stations."
+    },
     {
       "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
@@ -1106,11 +1299,12 @@ window.GDC_NEWS = {
       "summary": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu."
     },
     {
-      "title": "No clear majority emerges as Israel counts final election votes",
-      "link": "http://www.africanews.com/2026/10/29/no-clear-majority-emerges-as-israel-counts-final-election-votes/",
-      "source": "Africanews",
-      "published": "2026-10-29T18:48:53.000Z",
-      "summary": "The Israeli Elections Committee continued counting votes on Thursday from envelopes cast by voters authorized to vote outside their assigned polling stations."
+      "title": "French shooting suspect deliberately targeted Muslims, Africans",
+      "link": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
+      "source": "France 24",
+      "published": "2026-10-29T18:45:57.000Z",
+      "summary": "A man suspected of a gun attack in the Paris suburbs last week, killing one person and wounding seven including a child, has admitted to \"targeting individuals who appeared to be Muslim…",
+      "image": "https://s.france24.com/media/display/50cae506-d3af-11f1-b622-695cb59fade5/w:1024/p:16x9/capture-09376662.jpg"
     },
     {
       "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
@@ -1201,206 +1395,50 @@ window.GDC_NEWS = {
       "published": "2026-10-29T17:02:59.000Z",
       "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b497/live/e5c53340-d3ba-11f1-8c27-87a7c72809db.jpg"
-    },
-    {
-      "title": "Albanian opposition storms parliament, sets off flares and smoke bombs",
-      "link": "https://www.aljazeera.com/news/2026/10/29/albanian-opposition-storms-parliament-sets-off-flares-and-smoke-bombs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T18:11:46.000Z",
-      "summary": "Opposition lawmakers disrupt parliament session, accusing prime minister of downplaying ongoing antigovernment protests."
-    },
-    {
-      "title": "DRC: US sanctions on Rwanda draw mixed reactions in Goma",
-      "link": "http://www.africanews.com/2026/10/29/drc-us-sanctions-on-rwanda-draw-mixed-reactions-in-goma/",
-      "source": "Africanews",
-      "published": "2026-10-29T16:44:15.000Z",
-      "summary": "In Goma, some residents want to believe that this additional pressure could help break the deadlock. Michel Kamango hopes the sanctions will affect the parties concerned and help bring…"
-    },
-    {
-      "title": "At least 14 people killed in attack on Ukraine train station",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T18:03:21.000Z",
-      "summary": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine."
-    },
-    {
-      "title": "Cubans call for lifting of embargo, express hope for better lives",
-      "link": "http://www.africanews.com/2026/10/29/cubans-call-for-lifting-of-embargo-express-hope-for-better-lives/",
-      "source": "Africanews",
-      "published": "2026-10-29T16:37:08.000Z",
-      "summary": "Cuban citizens expressed hope that the US will respond to the calls of the international community as soon as possible and voiced their wishes for better lives, after the United Nations…"
-    },
-    {
-      "title": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-      "link": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T17:28:18.000Z",
-      "summary": "Couple say they are 'prisoners of conscience' being made an example of by Pakistan's military-backed authorities."
-    },
-    {
-      "title": "India increases growth forecast for fiscal year",
-      "link": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-29T16:30:00.000Z",
-      "summary": "India's Ministry of Finance has increased its growth forecasts for the current fiscal year. But it also warned about inflation, particularly for fuel and energy, amid continued instability…"
-    },
-    {
-      "title": "UAE sentences eight people to life over arms supplies to Sudan’s army",
-      "link": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T17:25:17.000Z",
-      "summary": "Defendants handed ⁠life sentences amid tensions between Khartoum and Abu Dhabi over Sudan's war and the RSF."
-    },
-    {
-      "title": "Ian McEwan speculates on 'What We Can Know' in the 22nd century",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20261029-ian-mcewan-speculates-on-what-we-can-know-in-the-22nd-century",
-      "source": "France 24",
-      "published": "2026-10-29T16:29:20.000Z",
-      "summary": "Booker Prize-winning author Ian McEwan sits down with Olivia Salazar-Winspear to discuss the 22nd century society he created in \"What We Can Know\", as his latest novel is translated into…",
-      "image": "https://s.france24.com/media/display/7ce8eed6-d39f-11f1-b370-399efcf9f4d0/w:1024/p:16x9/capture-d29755f5.jpg"
-    },
-    {
-      "title": "France football chief backs Real Madrid’s Mbappe after China apology",
-      "link": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T16:43:37.000Z",
-      "summary": "Real Madrid's Kylian Mbappe should be allowed to move on after apology to China, says French football federation chief."
-    },
-    {
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-29T16:26:02.000Z",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "European Central Bank President Lagarde to step down early",
-      "link": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T16:34:55.000Z",
-      "summary": "Christine Lagarde will leave the post in February, nine months before the end of her eight-year term."
-    },
-    {
-      "title": "Flavio Bolsonaro’s great escape: Is this the beginning of the end for ‘Bolsonarism’?",
-      "link": "https://www.france24.com/en/americas/20261029-flavio-bolsonaro-s-great-escape-is-this-the-beginning-of-the-end-for-bolsonarism",
-      "source": "France 24",
-      "published": "2026-10-29T16:19:17.000Z",
-      "summary": "The Brazilian election results had barely been announced before the defeated presidential candidate, Flavio Bolsonaro, packed his bags and fled with his family to the United States. The…",
-      "image": "https://s.france24.com/media/display/1bce0bc2-d313-11f1-a9f3-75c7729144f1/w:1024/p:16x9/2026-10-28T162830Z-1795241932-RC2ECOA4ORF6-RTRMADP-3-BRAZIL-USA.jpg"
-    },
-    {
-      "title": "Why US Sports Owners Spend Millions on Politics",
-      "link": "https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T16:33:44.000Z",
-      "summary": "US sports team owners include some of the wealthiest people in the world and some spend millions of dollars on politics"
-    },
-    {
-      "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
-      "link": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
-      "source": "France 24",
-      "published": "2026-10-29T16:19:14.000Z",
-      "summary": "A humanitarian aid mission is set to enter the Ukrainian town of Oleshky, a Ukrainian official said on Thuirsday, as a localised truce between Kyiv and Moscow, brokered by US first lady…",
-      "image": "https://s.france24.com/media/display/7b09de12-d3af-11f1-b2c2-d18c5759e759/w:1024/p:16x9/000-D4RQ9NR.jpg"
-    },
-    {
-      "title": "Manchester United’s Carrick backs Fernandes and is expected to face Chelsea",
-      "link": "https://www.aljazeera.com/sports/2026/10/29/manchester-uniteds-carrick-expected-to-face-chelsea-and-backs-fernandes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T16:23:53.000Z",
-      "summary": "Michael Carrick will manage Man Utd at Chelsea on Saturday despite sacking rumours and says Bruno Fernandes will return."
-    },
-    {
-      "title": "China leaders demand more loyalty and more initiative",
-      "link": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-29T16:16:00.000Z",
-      "summary": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up…"
-    },
-    {
-      "title": "Deadly rock collapse at famous Turkiye tourist site",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T16:20:15.000Z",
-      "summary": "Deadly rock collapse at famous Turkiye tourist site"
-    },
-    {
-      "title": "A tale of two economies: How America's cost-of-living crisis is shaping US midterm elections",
-      "link": "https://www.france24.com/en/tv-shows/people-profit/20261029-a-tale-of-two-economies-how-america-s-cost-of-living-crisis-is-shaping-us-midterm-elections",
-      "source": "France 24",
-      "published": "2026-10-29T16:13:14.000Z",
-      "summary": "The economy is the number one issue for most American voters, as they worry about high food and energy costs. But can the results of November's midterm elections really impact the…",
-      "image": "https://s.france24.com/media/display/69b9495e-d38c-11f1-a445-efcc5769f1db/w:1024/p:16x9/P-P-US-ECONOMY-oct-29.png"
-    },
-    {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "source": "NPR World",
-      "published": "2026-10-29T15:58:27.000Z",
-      "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F54%2F8ac4fc1f4626be23c3b532cfb1ea%2Fap26301341519312.jpg"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-29T15:47:20.000Z",
-      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg"
-    },
-    {
-      "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-      "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-      "source": "NPR World",
-      "published": "2026-10-29T15:53:46.000Z",
-      "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3422x2282+0+0/resize/3422x2282!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fcc%2F5481abda4bb2a1f0f3d355fbfd5f%2Fap26302467609122.jpg"
-    },
-    {
-      "title": "French music producer awaits trial six years after police beating",
-      "link": "http://www.africanews.com/2026/10/29/french-music-producer-awaits-trial-six-years-after-police-beating/",
-      "source": "Africanews",
-      "published": "2026-10-29T15:45:59.000Z",
-      "summary": "Six years after being violently beaten by three police officers, Michel Zecler is awaiting the opening of their trial on 9 November in Paris. The music producer says he remains deeply…"
-    },
-    {
-      "title": "Spain's King Felipe VI and Queen Letizia visit injured in train crash at Toledo hospital",
-      "link": "https://www.france24.com/en/video/20261029-spain-s-king-felipe-vi-and-queen-letizia-visit-injured-in-train-crash-at-toledo-hospital",
-      "source": "France 24",
-      "published": "2026-10-29T15:38:49.000Z",
-      "summary": "King Felipe VI and Queen Letizia arrived at Toledo University Hospital on Thursday to visit those injured in the train accident in Urda – in which at least 69 people died – who are being…",
-      "image": "https://s.france24.com/media/display/33c61cd8-d3ae-11f1-8361-399efcf9f4d0/w:1024/p:16x9/EN-20261029-160146-160540-CS.jpg"
-    },
-    {
-      "title": "Putin hails 'natural allies' at Russia-Africa summit in Moscow",
-      "link": "http://www.africanews.com/2026/10/29/putin-hails-natural-allies-at-russia-africa-summit-in-moscow/",
-      "source": "Africanews",
-      "published": "2026-10-29T15:42:27.000Z",
-      "summary": "President Putin welcomed nearly two dozen African leaders to the Kremlin on Wednesday for a two-day Russia-Africa summit."
-    },
-    {
-      "title": "Israel’s anti-Qatar campaign bleeds into elections",
-      "link": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T15:35:53.000Z",
-      "summary": "Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference."
-    },
-    {
-      "title": "Vatican: Century of Mercedes-Benz popemobiles goes on display",
-      "link": "http://www.africanews.com/2026/10/29/vatican-century-of-mercedes-benz-popemobiles-goes-on-display/",
-      "source": "Africanews",
-      "published": "2026-10-29T15:40:13.000Z",
-      "summary": "From silk-lined limousines to vehicles fitted with bulletproof glass, eight historic popemobiles go on display at the Vatican Museums. The exhibition traces how papal transport has evolved…"
     }
   ],
   "africa": [
     {
+      "title": "Ghana: Breast Cancer Claims Nearly 2,000 Lives Yearly - Gender Minister",
+      "link": "https://allafrica.com/stories/202610290657.html",
+      "source": "AllAfrica",
+      "published": "2026-10-29T23:16:34.000Z",
+      "summary": "[Ghanaian Times] The Minister of Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has expressed concern over the number of deaths from breast cancer, saying Ghana records…"
+    },
+    {
+      "title": "Does Russia offer African countries an equal partnership?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:34:28.000Z",
+      "summary": "President Vladimir Putin hosts African leaders at a summit in Moscow."
+    },
+    {
+      "title": "Ghana: Pres Mahama Honoured With Doctorate in Russia",
+      "link": "https://allafrica.com/stories/202610290646.html",
+      "source": "AllAfrica",
+      "published": "2026-10-29T23:16:28.000Z",
+      "summary": "[Ghanaian Times] President John Dramani Mahama has challenged present-day African leaders to give practical expression to the aspirations of the continent's founding fathers."
+    },
+    {
+      "title": "Cameroon families demand return of relatives from Ukraine",
+      "link": "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/",
+      "source": "Africanews",
+      "published": "2026-10-29T19:26:34.000Z",
+      "summary": "In Cameroon, the “Bring Back Our Sons and Brothers” collective organised a peaceful march on Wednesday, 28 October, to the Russian embassy. They are calling on Russia and the Cameroonian…"
+    },
+    {
       "title": "UAE sentences eight people to life over arms supplies to Sudan’s army",
       "link": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-29T17:25:17.000Z",
       "summary": "Defendants handed ⁠life sentences amid tensions between Khartoum and Abu Dhabi over Sudan's war and the RSF."
+    },
+    {
+      "title": "Libya’s central bank targeted in overnight raid raising fresh concerns",
+      "link": "http://www.africanews.com/2026/10/29/libyas-central-bank-targeted-in-overnight-raid-raising-fresh-concerns/",
+      "source": "Africanews",
+      "published": "2026-10-29T19:01:46.000Z",
+      "summary": "Libya's central bank on Thursday said unidentified individuals raided its headquarters in Tripoli, hours after parliament said it had accepted a request from its governor to resign."
     },
     {
       "title": "Careless dismissals give Australia route to series win",
@@ -1644,41 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-29T11:08:31.000Z",
       "summary": "[Liberian Observer] The Government of Liberia has officially launched its \"Road to the United Nations Security Council Presidency,\" beginning a series of national and diplomatic engagements…"
-    },
-    {
-      "title": "Ghana: Absa Celebrates Customers Through Wellbeing, Business Support, Recognition",
-      "link": "https://allafrica.com/stories/202610290393.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-29T11:25:44.000Z",
-      "summary": "[Ghanaian Times] Absa Bank Ghana LTD has marked this year's Wow October, its annual month-long Customer Service Week programme, with activities focused on customer wellbeing, business…"
-    },
-    {
-      "title": "Liberia: 'The State Will Either Prosecute or Release'",
-      "link": "https://allafrica.com/stories/202610290365.html",
-      "source": "AllAfrica",
-      "published": "2026-10-29T11:07:20.000Z",
-      "summary": "[Liberian Observer] Cllr. Betty M. Lamin-Blamo, nominee for Minister of Justice and Attorney General of Liberia, has pledged to review pretrial detention cases nationwide, strengthen…"
-    },
-    {
-      "title": "Africa: Shared Infrastructure Drives Africa's Push into Cotton Processing",
-      "link": "https://allafrica.com/stories/202610290386.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-29T11:22:04.000Z",
-      "summary": "[Bird Story Agency] Shared water and power are easing factory setup costs as Africa's textile hubs expand into cotton processing."
-    },
-    {
-      "title": "Nigeria: Smart Schools Won't Displace Church Role in Basic Education, Says Mbah",
-      "link": "https://allafrica.com/stories/202610290356.html",
-      "source": "AllAfrica",
-      "published": "2026-10-29T10:59:20.000Z",
-      "summary": "[Premium Times] The governor gave the assurance in his keynote address at the 38th Convention of the Canon Law Society of Nigeria (CLSN), held at the Ghost Cathedral, Enugu, on Wednesday."
-    },
-    {
-      "title": "Uganda: Equity Bank Climbs to 8.7 Percent Share in Uganda Bancassurance Market",
-      "link": "https://allafrica.com/stories/202610290374.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-29T11:18:10.000Z",
-      "summary": "[Independent (Kampala)] Kampala -- Equity Bank Uganda recorded total bancassurance premiums of Shs16.13 billion in the second quarter of 2026, giving it an 8.77 percent share of the market…"
     }
   ]
 };

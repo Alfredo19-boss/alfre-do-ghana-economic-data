@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-29T19:39:19.978Z",
+  "updated": "2026-10-29T23:35:16.625Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,111 +25,124 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana reviews employment policy to identify green job opportunities",
-      "link": "https://www.myjoyonline.com/ghana-reviews-employment-policy-to-identify-green-job-opportunities/",
+      "title": "Leonant Yert retains position as Most Outstanding PR Agency",
+      "link": "https://www.myjoyonline.com/leonant-yert-retains-position-as-most-outstanding-pr-agency/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T19:27:36.000Z",
-      "summary": "Ghana is reviewing its National Employment Policy to address emerging labour market challenges and identify opportunities for creating decent jobs through the green economy.",
+      "published": "2026-10-29T23:32:01.000Z",
+      "summary": "Leonant Yert Ltd has been named the “Most Outstanding Public Relations Agency (PR Consultancy of the Year)” for the 2025 review period at the 2026 Institute of Public Relations (IPR), PR…",
       "categories": [
-        "Economy",
+        "Events",
         "National",
+        "News",
+        "Leonant Yert",
+        "Nii Okai Nunoo",
+        "PR Consultancy of the Year"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Team-Trophy-Portrait-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Communications Minister Sam George confirmed as chair of AU STC on Communication and ICT",
+      "link": "https://www.myjoyonline.com/communications-minister-sam-george-confirmed-as-chair-of-au-stc-on-communication-and-ict/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T22:57:31.000Z",
+      "summary": "Minister for Communication, Digital Technology and Innovations, Samuel Nartey George (MP), has been confirmed as Chair of the African Union Specialised Technical Committee on Communication…",
+      "categories": [
+        "News",
         "Ghana",
-        "Job Creation",
-        "National Employment Policy"
+        "ICT",
+        "Sam George"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/871645939_1786466752466045_9119868607137549517_n-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-r-e1793314645809-1024x507.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Farmer Globale earns international recognition for climate-smart rice farming",
-      "link": "https://www.myjoyonline.com/farmer-globale-earns-international-recognition-for-climate-smart-rice-farming/",
+      "title": "Patrick Stewart, best known for “Star Trek” and “X-Men,” dies at 86",
+      "link": "https://www.myjoyonline.com/patrick-stewart-best-known-for-star-trek-and-x-men-dies-at-86/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T18:59:37.000Z",
-      "summary": "A Ghanaian agribusiness company, Farmer Globale, has earned international recognition at the Africa Sustainable Futures Awards, hosted by the Financial Times in partnership with the World…",
+      "published": "2026-10-29T22:43:50.000Z",
+      "summary": "Legendary actor Sir Patrick Stewart, best known for his work in the \"Star Trek\" and \"X-Men\" franchises and his prolific award-winning stage career, has died at 86 years old, his…",
       "categories": [
-        "Business",
-        "Farmer Globale"
+        "Movies",
+        "Patrick Stewart",
+        "Star Trek",
+        "X-Men"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-6.25.03-PM.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gettyimages-1199369522-1024x682.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana and Poland explore investment opportunities and security cooperation",
-      "link": "https://www.myjoyonline.com/ghana-and-poland-explore-investment-opportunities-and-security-cooperation/",
+      "title": "Court remands four over Worawora disturbances",
+      "link": "https://www.myjoyonline.com/court-remands-four-over-worawora-disturbances/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T18:55:31.000Z",
-      "summary": "Ghana and Poland have reaffirmed their commitment to strengthening bilateral relations, with discussions focusing on trade, investment, industrial development, technology, education and…",
+      "published": "2026-10-29T22:41:00.000Z",
+      "summary": "The Dambai Circuit Court has remanded four people to police custody over their alleged involvement in disturbances at Dwabrem-Worawora in the Oti Region.",
       "categories": [
-        "National",
-        "Ghana",
-        "Poland",
-        "Security cooperation"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/866565552_1627162982789280_1405522076429282501_n-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Remanded-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Stakeholders call for stronger community-security collaboration to prevent extremism",
-      "link": "https://www.myjoyonline.com/stakeholders-call-for-stronger-community-security-collaboration-to-prevent-extremism/",
+      "title": "Dr. Bawumia confers with KAS Secretary-General; discusses Ghana’s future and NPP reorganisation",
+      "link": "https://www.myjoyonline.com/dr-bawumia-confers-with-kas-secretary-general-discusses-ghanas-future-and-npp-reorganisation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T18:50:06.000Z",
-      "summary": "Stakeholders have called for stronger collaboration between communities and security agencies to prevent violent extremism and safeguard Ghana’s peace.",
+      "published": "2026-10-29T22:35:33.000Z",
+      "summary": "Former Vice President and NPP Presidential Candidate, Dr. Mahamudu Bawumia, has held high-level talks with the Secretary-General of the Konrad-Adenauer-Stiftung (KAS), Dr. Mark Speich, in…",
       "categories": [
-        "National",
-        "civil-security",
-        "Violent extremism"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2710-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GJA pushes for bill to establish minimum wage for journalists",
-      "link": "https://www.myjoyonline.com/gja-pushes-for-bill-to-establish-minimum-wage-for-journalists/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T18:48:36.000Z",
-      "summary": "The Ghana Journalists Association (GJA) is seeking to lay a private-member bill before parliament that would consider improving the economic and working conditions of journalists.",
-      "categories": [
-        "HP News 3",
-        "National",
-        "GJA",
-        "Journalists",
-        "Minimum wage"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2728-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC’s Tanko Computer dismisses NPP denial of alleged plot to remove Afenyo-Markin",
-      "link": "https://www.myjoyonline.com/ndcs-tanko-computer-dismisses-npp-denial-of-alleged-plot-to-remove-afenyo-markin/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T18:41:01.000Z",
-      "summary": "The National Democratic Congress (NDC) has dismissed the New Patriotic Party’s (NPP) denial of reports that it is planning to change its Minority leadership in Parliament, describing the…",
-      "categories": [
-        "HP News 1",
         "National",
         "Politics",
-        "Afenyo Markin",
-        "NDC",
-        "NPP",
-        "Tanko Computer"
+        "Bawumia",
+        "KAS",
+        "Konrad-Adenauer-Stiftung",
+        "New Patriotic Party",
+        "NPP"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HEIF-Image-23-1024x782.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bawumia_KAS.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "La residents petition Mahama over Laboma, Kajano and Labadi Beach demolitions",
-      "link": "https://www.myjoyonline.com/la-residents-petition-mahama-over-laboma-kajano-and-labadi-beach-demolitions/",
+      "title": "Ghana targets $1.2bn investment and 150,000 jobs under new textile policy",
+      "link": "https://www.myjoyonline.com/ghana-targets-1-2bn-investment-and-150000-jobs-under-new-textile-policy/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T18:20:37.000Z",
-      "summary": "Hundreds of protesters from La communities have petitioned President John Dramani Mahama over the demolition of businesses at Laboma, Kajano and Labadi Beach, demanding compensation and…",
+      "published": "2026-10-29T22:25:04.000Z",
+      "summary": "Ghana is targeting about $1.2 billion in investment and 150,000 direct and indirect jobs over the next decade under a new textile and garment policy approved by Cabinet. The policy, which…",
       "categories": [
-        "Regional",
-        "La residents",
-        "Labadi Beach",
-        "Laboma",
-        "Mahama"
+        "Business",
+        "Economy",
+        "garment policy",
+        "Jobs",
+        "TEXTILE"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-18.11.33.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-22.11.00-1-1024x684.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "link": "https://www.myjoyonline.com/google-value-plunges-by-500bn-as-ai-fears-rattle-wall-street/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T22:24:00.000Z",
+      "summary": "Google parent Alphabet lost just over $500bn (£374bn) in value on Thursday after it rattled Wall Street with its last update of the year on its business operations.",
+      "categories": [
+        "Business",
+        "International",
+        "AI",
+        "Google"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1580-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UPSA Graduates 1,314 Students at 18th Congregation",
+      "link": "https://www.myjoyonline.com/upsa-graduates-1314-students-at-18th-congregation/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T22:17:25.000Z",
+      "summary": "The University of Professional Studies, Accra (UPSA), on Wednesday held the third session of its 18th Congregation at the Kofi Ohene Konadu Auditorium, where 1,314 students from the Faculty…",
+      "categories": [
+        "Photo Story",
+        "UPSA Congragation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3778_2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -156,22 +169,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-17.31.46-1024x845.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Petrol price to drop by 3.51%, while diesel will go up by 1.50% from Nov. 1 – COMAC",
-      "link": "https://www.myjoyonline.com/petrol-price-to-drop-by-3-51-while-diesel-will-go-up-by-1-50-from-nov-1-comac/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T18:16:09.000Z",
-      "summary": "Petrol prices are expected to fall by up to 3.35% per litre from November 1, 2026, while diesel prices could rise by 1.50%, according to the Chamber of Oil Marketing Companies (COMAC).",
-      "categories": [
-        "Energy",
-        "HP Business 1",
-        "National",
-        "COMAC",
-        "Fuel Prices"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/342025103045-l5gsk8v331-fuel-station-1-1024x506-1.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Russia supports Ghana’s bid to join BRICS as partner country",
