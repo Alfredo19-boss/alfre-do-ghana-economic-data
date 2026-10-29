@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-29T01:14:02.539Z",
+  "updated": "2026-10-29T07:08:14.865Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,113 +25,228 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Liverpool overcome Chelsea in tense penalty shootout",
-      "link": "https://www.myjoyonline.com/liverpool-overcome-chelsea-in-tense-penalty-shootout/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T22:51:00.000Z",
-      "summary": "Liverpool knocked out Chelsea on penalties to book their place in the Carabao Cup quarter-finals as Xabi Alonso and Jordan Henderson fell to a comeback on their return to Anfield.",
+      "title": "BoG cautions informal sector against unlicensed financial institutions",
+      "link": "https://ghanaiantimes.com.gh/bog-cautions-informal-sector-against-unlicensed-financial-institutions/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T07:06:14.000Z",
+      "summary": "The Bank of Ghana (BoG) has urged operators in the informal sector to transact business only with licensed financial institutions to protect themselves against fraud and dubious financial…",
       "categories": [
-        "Football",
-        "Chelsea",
-        "Liverpool"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2632.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "‘Two half-wounded people make a better whole’ : a couple’s journey of faith and advocacy for mental health",
-      "link": "https://www.myjoyonline.com/two-half-wounded-people-make-a-better-whole-a-couples-journey-of-faith-and-advocacy-for-mental-health/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T22:43:18.000Z",
-      "summary": "It’s hard to say who’s the more fascinating half of the Mardon marriage.",
+      "title": "BIRDD calls for legal framework to guarantee breast cancer care",
+      "link": "https://ghanaiantimes.com.gh/birdd-calls-for-legal-framework-to-guarantee-breast-cancer-care/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T07:02:58.000Z",
+      "summary": "The government has been urged to establish a legally binding framework to guarantee affordable breast cancer diagnosis and treatment for all women, irrespective of their location or…",
       "categories": [
-        "International",
-        "Catholic",
-        "Health"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-222928-1-1024x528.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Holders Man City urge past Brighton on penalties",
-      "link": "https://www.myjoyonline.com/holders-man-city-urge-past-brighton-on-penalties/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T22:40:00.000Z",
-      "summary": "Stand-in goalkeeper Geronimo Rulli was the hero, saving two penalties as holders Manchester City edged past Brighton in a shootout after a 2-2 draw to reach the Carabao Cup quarter-finals.",
+      "title": "Screen early for prostate cancer — doctor urges men",
+      "link": "https://ghanaiantimes.com.gh/screen-early-for-prostate-cancer-doctor-urges-men/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T06:59:18.000Z",
+      "summary": "For years, prostate cancer can be developing in men yet show no signs until the disease has advanced and become more difficult to treat. Although common in older men (60 years and above)…",
       "categories": [
-        "Football",
-        "brightton",
-        "Man City"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2633.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Catholic couple brings the love of family to young people with mental illness",
-      "link": "https://www.myjoyonline.com/catholic-couple-brings-the-love-of-family-to-young-people-with-mental-illness/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T22:37:34.000Z",
-      "summary": "For Catholic couple Austin and Catherine Mardon, mental illness is personal.",
+      "title": "Beyond survival: The unseen battles breast cancer survivors continue to fight",
+      "link": "https://ghanaiantimes.com.gh/beyond-survival-the-unseen-battles-breast-cancer-survivors-continue-to-fight/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T06:55:01.000Z",
+      "summary": "Surviving breast cancer is a blessing, but for many, the journey towards recovery continues long after treatment ends. Every October, breast cancer awareness campaigns remind us of the…",
       "categories": [
-        "International",
-        "Catholic",
-        "Couple",
-        "Health"
+        "Features"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-222928-1024x528.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Fast-changing world leaves youth little time for the apprenticeship I had – Kufuor",
-      "link": "https://www.myjoyonline.com/fast-changing-world-leaves-youth-little-time-for-the-apprenticeship-i-had-kufuor/",
+      "title": "Ghana’s 2020/2022 debt crisis: Can Akufo-Addo administration be held solely responsible?",
+      "link": "https://www.myjoyonline.com/ghanas-2020-2022-debt-crisis-can-akufo-addo-administration-be-held-solely-responsible/",
       "source": "MyJoyOnline",
-      "published": "2026-10-28T22:31:00.000Z",
-      "summary": "Former President John Agyekum Kufuor says today’s youth may not have time for the long apprenticeship that prepared him for leadership.",
-      "categories": [
-        "National",
-        "John Agyekum Kufuor"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-9.27.37-pm-1024x708.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Meteorites: Nature’s free sample return",
-      "link": "https://www.myjoyonline.com/meteorites-natures-free-sample-return/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T22:23:00.000Z",
-      "summary": "Long before spacecraft visited the Moon, landed on asteroids, or returned samples from distant worlds, scientists were already studying material from beyond Earth.",
+      "published": "2026-10-29T06:50:19.000Z",
+      "summary": "I have consistently explained the economic circumstances that culminated in Ghana’s debt crisis, which became particularly acute in 2020. Following substantial debt relief under the Highly…",
       "categories": [
         "Features",
         "Opinion",
-        "Meteorites"
+        "Politics",
+        "Akufo-Addo",
+        "Covid-19",
+        "debt crisis",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/lunar-meteorite.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/Dr-George-Domfe.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "link": "https://www.myjoyonline.com/death-of-us-actress-hayden-panettiere-ruled-accidental-ending-local-police-probe/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T22:13:00.000Z",
-      "summary": "The death of US actress Hayden Panettiere has been ruled accidental, ending a local probe into her death, police in South Carolina have said.",
+      "title": "Russia-Africa Summit: Ghana must count the cost of a deeper partnership",
+      "link": "https://ghanaiantimes.com.gh/russia-africa-summit-ghana-must-count-the-cost-of-a-deeper-partnership/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T06:50:02.000Z",
+      "summary": "As Moscow courts African governments with promises of trade, investment and security cooperation, Accra must guard against opaque deals, resource dependence and commercial relationships…",
       "categories": [
-        "Movies",
-        "Hayden Panettiere"
+        "Features"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3007-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "My generation owes young people mentorship – Kufuor",
-      "link": "https://www.myjoyonline.com/my-generation-owes-young-people-mentorship-kufuor/",
+      "title": "Accra-Tema Motorway: Keep the project on track",
+      "link": "https://ghanaiantimes.com.gh/accra-tema-motorway-keep-the-project-on-track/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T06:43:01.000Z",
+      "summary": "The reconstruction of the Accra-Tema Motorway is an important investment in Ghana’s transport infrastructure, with the potential to ease congestion, improve road safety and support economic…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Russia to lobby BRICS members to back Ghana’s partner-country bid",
+      "link": "https://www.myjoyonline.com/russia-to-lobby-brics-members-to-back-ghanas-partner-country-bid/",
       "source": "MyJoyOnline",
-      "published": "2026-10-28T22:03:00.000Z",
-      "summary": "Former President John Agyekum Kufuor says his generation owes young people mentorship and should share lessons from its long journey through public life.",
+      "published": "2026-10-29T06:42:58.000Z",
+      "summary": "Russia has pledged to rally support among BRICS founding members for Ghana’s application to join the economic bloc as a partner country, Foreign Minister Sergey Lavrov has assured his…",
       "categories": [
         "National",
+        "Ablakwa",
+        "BRICS",
+        "Ghana",
+        "Russia"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/873603137_1666769008137499_2410632531824669712_n-1140x570-1-1024x512.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Peace key to unlocking Northern Ghana’s economic potential – NDPC chief",
+      "link": "https://www.myjoyonline.com/peace-key-to-unlocking-northern-ghanas-economic-potential-ndpc-chief/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T06:38:54.000Z",
+      "summary": "The Director-General of the National Development Planning Commission (NDPC), Dr Audrey Smock Amoah, has called for sustained peace in Northern Ghana, saying it is necessary to turn the…",
+      "categories": [
+        "National",
+        "Dr Audrey Smock Amoah",
+        "Ghana",
+        "NDPC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/865505472_1412394497731606_5555080832530164430_n-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP drags A-G to Supreme Court over presidential term limits",
+      "link": "https://ghanaiantimes.com.gh/npp-drags-a-g-to-supreme-court-over-presidential-term-limits/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T06:35:10.000Z",
+      "summary": "The New Patriotic Party (NPP) has dragged the Attorney-General (A-G) to the Supreme Court, seeking an interpretation of presidential term limits. Former Attorney-General, Mr Godfred Yeboah…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "4 persons remanded over Worawora riot",
+      "link": "https://ghanaiantimes.com.gh/4-persons-remanded-over-worawora-riot/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T06:32:26.000Z",
+      "summary": "Four persons have been remanded into police custody by the Dambai Circuit Court in connection with disturbances at Dwabrem, Worawora, in the Oti Region, which resulted in the burning of…",
+      "categories": [
+        "Crime"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "The Inconvenient Truth: One Africa in our speeches, 54 agendas in our decisions",
+      "link": "https://www.myjoyonline.com/the-inconvenient-truth-one-africa-in-our-speeches-54-agendas-in-our-decisions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T06:18:38.000Z",
+      "summary": "In May 1963, the leaders of thirty-two newly independent nations gathered in Addis Ababa and gave the world a promise that still stirs the African soul. Kwame Nkrumah told them plainly that…",
+      "categories": [
+        "Features",
+        "National",
+        "Opinion",
+        "Agendas",
+        "Ing. Prof. Douglas Boateng",
+        "Kwame Nkrumah",
+        "One Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Ing-Prof-Douglas-Boateng.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTEC, TUTAG reach truce to save academic calendar in technical universities",
+      "link": "https://www.myjoyonline.com/gtec-tutag-reach-truce-to-save-academic-calendar-in-technical-universities/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T05:29:52.000Z",
+      "summary": "Teaching and learning across the nation's technical universities are set to resume shortly following a breakthrough agreement reached between the Technical University Teachers’ Association…",
+      "categories": [
+        "Education",
+        "HP News 8",
+        "News",
+        "TUTAG",
+        "Universities"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/tutag-655x375-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘We tend to be open-minded and liberal, but that’s not how we’ve lived so far’ – Kufuor",
+      "link": "https://www.myjoyonline.com/we-tend-to-be-open-minded-and-liberal-but-thats-not-how-weve-lived-so-far-kufuor/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T05:29:24.000Z",
+      "summary": "Former President John Agyekum Kufuor has called for a Ghana that gives individual enterprise room to thrive while ensuring its wealth delivers quality education, healthcare and protection…",
+      "categories": [
+        "National",
+        "Top Story",
         "John Agyekum Kufuor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-9.25.12-pm-1024x534.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Kuf5.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Three arrested over murder of 34-year-old mobile money vendor at Kasoa",
+      "link": "https://www.myjoyonline.com/three-arrested-over-murder-of-34-year-old-mobile-money-vendor-at-kasoa/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T05:22:20.000Z",
+      "summary": "The Central East Regional Police Command has arrested three suspects in connection with the alleged murder of a 34-year-old mobile money vendor, Christian Amponsah, at a guest house around…",
+      "categories": [
+        "Crime",
+        "HP News 1",
+        "News",
+        "Arrest"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/arrest.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Reconsider 20% excise tax removal on locally produced fruit juices – VAST Ghana to Finance Ministry",
+      "link": "https://www.myjoyonline.com/reconsider-20-excise-tax-removal-on-locally-produced-fruit-juices-vast-ghana-to-finance-ministry/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T05:17:00.000Z",
+      "summary": "Vision for Accelerated Sustainable Development, Ghana (VAST Ghana) has urged the Finance Ministry to reconsider removing the 20 per cent excise tax on locally produced fruit juices under…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "Finance Ministry",
+        "VAST Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-5.35.17-am.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -229,109 +344,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mahama eyes Russia partnership to expand Ghana’s energy sources",
-      "link": "https://ghanaiantimes.com.gh/mahama-eyes-russia-partnership-to-expand-ghanas-energy-sources/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:24:11.000Z",
-      "summary": "President John Dramani Mahama says Ghana is looking to strengthen its energy partnership with Russia, particularly in solar and nuclear power, as part of efforts to diversify the country’s…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NDC’s Wonder Kutor dismisses calls for Ablakwa’s resignation",
-      "link": "https://ghanaiantimes.com.gh/ndcs-wonder-kutor-dismisses-calls-for-ablakwas-resignation/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:22:39.000Z",
-      "summary": "National Democratic Congress (NDC) , National Executive Committee member and Volta River Authority (VRA) Board Member, Wonder Victor Kutor, has described calls for the resignation of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana to host Africa Festival Of Arts, Culture And Creatives in December",
-      "link": "https://ghanaiantimes.com.gh/ghana-to-host-africa-festival-of-arts-culture-and-creatives-in-december/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:19:18.000Z",
-      "summary": "Ghana will host the Africa Festival of Arts, Culture and Creatives (AFESTAC) 2026 alongside Industrial Skills Week Africa (ISWA) 2026 in Accra from December 9 to 12, 2026. On the back of…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "IMANI visits Ministry Of Tourism, Culture and Creative Arts",
-      "link": "https://ghanaiantimes.com.gh/imani-visits-ministry-of-tourism-culture-and-creative-arts/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:16:46.000Z",
-      "summary": "The Minister of Tourism, Culture and Creative Arts has received the IMANI Center for Policy and Education team at the Ministry. In a post shared after the meeting, the Minister, Abla Dzifa…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Nana Akomea raises concerns over new vehicle insurance process",
-      "link": "https://ghanaiantimes.com.gh/nana-akomea-raises-concerns-over-new-vehicle-insurance-process/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:13:22.000Z",
-      "summary": "Nana Akomea has raised concerns over a new process introduced by the National Insurance Commission (NIC) for completing vehicle insurance, describing it as an obstacle to digitalisation. In…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Real Madrid isssue apology to China over Kylian Mbappé’s Mao Zedong remarks",
-      "link": "https://ghanaiantimes.com.gh/real-madrid-isssue-apology-to-china-over-kylian-mbappes-mao-zedong-remarks/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:11:44.000Z",
-      "summary": "Real Madrid has officially apologized to China following controversial comments made by forward Kylian Mbappé referencing Mao Zedong. In a statement released on Tuesday, October 28, 2026…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Firefighters respond to vehicular incident involving hydrogen peroxide at Goriyiri",
-      "link": "https://ghanaiantimes.com.gh/firefighters-respond-to-vehicular-incident-involving-hydrogen-peroxide-at-goriyiri/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:09:43.000Z",
-      "summary": "Firefighters from the Upper West Regional Command have responded to a vehicular incident involving a long vehicle carrying 35 Intermediate Bulk Containers (IBC totes) reportedly containing…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Man, 52, arrested with 37 parcels of suspected indian hemp at Airport Junction",
-      "link": "https://ghanaiantimes.com.gh/man-52-arrested-with-37-parcels-of-suspected-indian-hemp-at-airport-junction/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-28T16:06:02.000Z",
-      "summary": "The Tema Regional Police Command has arrested a 52-year-old man, Ibrahim Saani, for allegedly possessing substances suspected to be Indian hemp at New York, near Airport Junction. On…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Fatawu Issahaku honoured at Best of Africa Awards in London",
