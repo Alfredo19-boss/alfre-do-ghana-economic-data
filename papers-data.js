@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-29T14:13:08.101Z",
+  "updated": "2026-10-29T19:39:19.978Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,189 +25,160 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Abu Jinapor and the rare political virtue of loyalty",
-      "link": "https://www.myjoyonline.com/abu-jinapor-and-the-rare-political-virtue-of-loyalty/",
+      "title": "Ghana reviews employment policy to identify green job opportunities",
+      "link": "https://www.myjoyonline.com/ghana-reviews-employment-policy-to-identify-green-job-opportunities/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T14:09:53.000Z",
-      "summary": "The Bible gives us Ittai the Gittite, who declared to David, “...in what place my lord the king shall be, whether in death or life, even there also will thy servant be” (2 Samuel 15:21)…",
+      "published": "2026-10-29T19:27:36.000Z",
+      "summary": "Ghana is reviewing its National Employment Policy to address emerging labour market challenges and identify opportunities for creating decent jobs through the green economy.",
       "categories": [
+        "Economy",
         "National",
-        "Opinion",
-        "Abu Jinapor",
-        "Loyalty",
-        "New Patriotic Party",
-        "NPP"
+        "Ghana",
+        "Job Creation",
+        "National Employment Policy"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Abu_Jinapor02.21-1-732x1024.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/871645939_1786466752466045_9119868607137549517_n-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana CEO Vision Expo seeks solutions to bridge gaps in government’s reset agenda",
-      "link": "https://www.myjoyonline.com/ghana-ceo-vision-expo-seeks-solutions-to-bridge-gaps-in-governments-reset-agenda/",
+      "title": "Farmer Globale earns international recognition for climate-smart rice farming",
+      "link": "https://www.myjoyonline.com/farmer-globale-earns-international-recognition-for-climate-smart-rice-farming/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T14:07:11.000Z",
-      "summary": "Ghanaian business leaders are calling for stronger private sector participation in the government’s reset agenda, with emphasis on local production, innovation and digital finance to drive…",
+      "published": "2026-10-29T18:59:37.000Z",
+      "summary": "A Ghanaian agribusiness company, Farmer Globale, has earned international recognition at the Africa Sustainable Futures Awards, hosted by the Financial Times in partnership with the World…",
       "categories": [
         "Business",
-        "HP Business 5",
-        "Investments",
-        "Ghana CEO Vision Expo",
-        "Latif Abubakar",
-        "Vision and Awards"
+        "Farmer Globale"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-6.59.25-AM-1024x576.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-6.25.03-PM.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Court dismisses Adu-Boahene’s bid to strike out portions of prosecution’s reply to his no-case submission",
-      "link": "https://www.myjoyonline.com/court-dismisses-adu-boahenes-bid-to-strike-out-portions-of-prosecutions-reply-to-his-no-case-submission/",
+      "title": "Ghana and Poland explore investment opportunities and security cooperation",
+      "link": "https://www.myjoyonline.com/ghana-and-poland-explore-investment-opportunities-and-security-cooperation/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T14:06:02.000Z",
-      "summary": "The Accra High Court has refused a request by former National Signals Bureau Director-General Kwabena Adu-Boahene and his co-accused to expunge parts of the prosecution’s written arguments…",
+      "published": "2026-10-29T18:55:31.000Z",
+      "summary": "Ghana and Poland have reaffirmed their commitment to strengthening bilateral relations, with discussions focusing on trade, investment, industrial development, technology, education and…",
       "categories": [
         "National",
-        "Adu-Boahene",
-        "AG",
-        "prosecution"
+        "Ghana",
+        "Poland",
+        "Security cooperation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-162-1024x923.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/866565552_1627162982789280_1405522076429282501_n-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Breast Cancer: Breast Society leads awareness walk to promote early detection",
-      "link": "https://www.myjoyonline.com/breast-cancer-breast-society-leads-awareness-walk-to-promote-early-detection/",
+      "title": "Stakeholders call for stronger community-security collaboration to prevent extremism",
+      "link": "https://www.myjoyonline.com/stakeholders-call-for-stronger-community-security-collaboration-to-prevent-extremism/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T13:58:08.000Z",
-      "summary": "Held under the theme “Early Action, Better Outcomes,” the walk aimed to encourage early breast cancer screening and educate the public on the importance of taking proactive steps to protect…",
+      "published": "2026-10-29T18:50:06.000Z",
+      "summary": "Stakeholders have called for stronger collaboration between communities and security agencies to prevent violent extremism and safeguard Ghana’s peace.",
       "categories": [
-        "Health",
         "National",
-        "Breast cancer",
-        "Breast Society of Ghana",
-        "Ghana Health Service",
-        "Ministry of Health",
-        "Professor Clegg-Lamptey"
+        "civil-security",
+        "Violent extremism"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-04.39.37-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2710-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Seidu Agongo tells youth to match talent with hard work as 10,000 sewing machine drive begins",
-      "link": "https://www.myjoyonline.com/seidu-agongo-tells-youth-to-match-talent-with-hard-work-as-10000-sewing-machine-drive-begins/",
+      "title": "GJA pushes for bill to establish minimum wage for journalists",
+      "link": "https://www.myjoyonline.com/gja-pushes-for-bill-to-establish-minimum-wage-for-journalists/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T13:51:32.000Z",
-      "summary": "Businessman and philanthropist Alhaji Seidu Agongo has urged young Ghanaians to believe in their talents and pursue them with determination, saying emerging from humble backgrounds to…",
+      "published": "2026-10-29T18:48:36.000Z",
+      "summary": "The Ghana Journalists Association (GJA) is seeking to lay a private-member bill before parliament that would consider improving the economic and working conditions of journalists.",
       "categories": [
-        "Lifestyle",
-        "Education",
-        "Seidu Agongo",
-        "Sewing machines"
+        "HP News 3",
+        "National",
+        "GJA",
+        "Journalists",
+        "Minimum wage"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-11.37.55-1-2.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2728-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Former GRASAG-National PRO Solomon Ametor elected NDC Deputy Secretary for Ketu North",
-      "link": "https://www.myjoyonline.com/former-grasag-national-pro-solomon-ametor-elected-ndc-deputy-secretary-for-ketu-north/",
+      "title": "NDC’s Tanko Computer dismisses NPP denial of alleged plot to remove Afenyo-Markin",
+      "link": "https://www.myjoyonline.com/ndcs-tanko-computer-dismisses-npp-denial-of-alleged-plot-to-remove-afenyo-markin/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T13:49:18.000Z",
-      "summary": "Former Public Relations Officer of the Graduate Students’ Association of Ghana (GRASAG-National), Solomon Ametor, has been elected Deputy Secretary of the National Democratic Congress (NDC)…",
+      "published": "2026-10-29T18:41:01.000Z",
+      "summary": "The National Democratic Congress (NDC) has dismissed the New Patriotic Party’s (NPP) denial of reports that it is planning to change its Minority leadership in Parliament, describing the…",
       "categories": [
+        "HP News 1",
+        "National",
         "Politics",
+        "Afenyo Markin",
+        "NDC",
+        "NPP",
+        "Tanko Computer"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/HEIF-Image-23-1024x782.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "La residents petition Mahama over Laboma, Kajano and Labadi Beach demolitions",
+      "link": "https://www.myjoyonline.com/la-residents-petition-mahama-over-laboma-kajano-and-labadi-beach-demolitions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T18:20:37.000Z",
+      "summary": "Hundreds of protesters from La communities have petitioned President John Dramani Mahama over the demolition of businesses at Laboma, Kajano and Labadi Beach, demanding compensation and…",
+      "categories": [
         "Regional",
-        "Ketu North",
-        "NDC Deputy Secretary"
+        "La residents",
+        "Labadi Beach",
+        "Laboma",
+        "Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2721.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-18.11.33.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "IEA launches one-year project to support Ghana’s Nuclear Power Programme",
-      "link": "https://www.myjoyonline.com/iea-launches-one-year-project-to-support-ghanas-nuclear-power-programme/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T13:48:11.000Z",
-      "summary": "The initiative, titled the Ghana Nuclear Phase II Completion and Investment Readiness Support Programme, is designed to strengthen institutional coordination, human resource capacity…",
+      "title": "NPP opens applications for 2028 parliamentary candidates",
+      "link": "https://ghanaiantimes.com.gh/npp-opens-applications-for-2028-parliamentary-candidates/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T18:18:28.000Z",
+      "summary": "The New Patriotic Party (NPP) has opened applications for members interested in contesting as its parliamentary candidates in the 2028 general elections. In a statement issued on Thursday…",
       "categories": [
-        "Business",
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "eputy Foreign Minister accompanies Veep to Shanghai to champion Global South reform, industrial drive",
+      "link": "https://ghanaiantimes.com.gh/eputy-foreign-minister-accompanies-veep-to-shanghai-to-champion-global-south-reform-industrial-drive/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T18:16:19.000Z",
+      "summary": "Deputy Minister for Foreign Affairs, James Gyakye Quayson, accompanied Vice-President Prof. Jane Naana Opoku-Agyemang on a successful working visit to Shanghai, China, from 15th to 19th…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-17.31.46-1024x845.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Petrol price to drop by 3.51%, while diesel will go up by 1.50% from Nov. 1 – COMAC",
+      "link": "https://www.myjoyonline.com/petrol-price-to-drop-by-3-51-while-diesel-will-go-up-by-1-50-from-nov-1-comac/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T18:16:09.000Z",
+      "summary": "Petrol prices are expected to fall by up to 3.35% per litre from November 1, 2026, while diesel prices could rise by 1.50%, according to the Chamber of Oil Marketing Companies (COMAC).",
+      "categories": [
         "Energy",
-        "Ghana Nuclear Phase II",
-        "IAEA",
-        "IEA",
-        "Ministry of Energy",
-        "Nuclear Power Programme"
+        "HP Business 1",
+        "National",
+        "COMAC",
+        "Fuel Prices"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/11/IEA.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/342025103045-l5gsk8v331-fuel-station-1-1024x506-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Africa CDC urges coordinated action as Ebola outbreak exceeds 10,000 cases",
-      "link": "https://www.myjoyonline.com/africa-cdc-urges-coordinated-action-as-ebola-outbreak-exceeds-10000-cases/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T13:44:33.000Z",
-      "summary": "The Africa Centres for Disease Control and Prevention (Africa CDC) has urged African countries to strengthen cross-border cooperation and coordinate their responses as an Ebola outbreak…",
-      "categories": [
-        "Africa",
-        "Africa CDC",
-        "DRC",
-        "Ebola outbreak"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-13.16.09-818x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana opens talks with Russia’s Rosatom for nuclear power plant - President Mahama reveals at Moscow summit",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-opens-talks-with-russias-rosatom-for-nuclear-power-plant-president-mahama-reveals-at-moscow-summit.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T13:35:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Foreign Ministry seeks relatives of Ghanaian who died in Nigeria",
-      "link": "https://www.graphic.com.gh/news/general-news/foreign-ministry-seeks-relatives-of-ghanaian-who-died-in-nigeria.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T13:33:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2018/oct/MoFAaRI.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama commends Putin’s readiness to resume Ukraine talks",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-commends-putins-readiness-to-resume-ukraine-talks.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T13:18:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/26/866990488_1838645964247086_6303260166867610202_n.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GSS launches ‘Ghana in Numbers 2025’ to guide national planning",
-      "link": "https://www.graphic.com.gh/news/general-news/gss-launches-ghana-in-numbers-2025-to-guide-national-planning.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T12:58:07.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/PHOTO-2026-10-29-12-22-29.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "KMA seeks funding for new landfill site • As Kumasi generates 2,500 tonnes of waste daily",
-      "link": "https://ghanaiantimes.com.gh/kma-seeks-funding-for-new-landfill-site-as-kumasi-generates-2500-tonnes-of-waste-daily/",
+      "title": "Russia supports Ghana’s bid to join BRICS as partner country",
+      "link": "https://ghanaiantimes.com.gh/russia-supports-ghanas-bid-to-join-brics-as-partner-country/",
       "source": "Ghanaian Times",
-      "published": "2026-10-29T12:32:20.000Z",
-      "summary": "The Kumasi Metropolitan Assembly (KMA) is seeking €6 million in financial support to construct a new engineered landfill site to address the growing sanitation challenge in the Metropolis…",
+      "published": "2026-10-29T18:14:43.000Z",
+      "summary": "Russian Foreign Minister Sergey Lavrov has announced that Russia strongly supports Ghana’s application to join BRICS as a partner country. Mr. Lavrov made the announcement at a breakfast…",
       "categories": [
         "Hot!",
         "News"
@@ -216,17 +187,176 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Motorway reconstruction 53 per cent complete",
-      "link": "https://ghanaiantimes.com.gh/motorway-reconstruction-53-per-cent-complete/",
+      "title": "Police arrest three suspects in murder of 34-year-old man at Kasoa",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-three-suspects-in-murder-of-34-year-old-man-at-kasoa/",
       "source": "Ghanaian Times",
-      "published": "2026-10-29T12:29:48.000Z",
-      "summary": "Reconstruction works on the first section of the of 19.5-kilometre Accra-Tema Motorway is progressing steadily with scope of work currently standing at 53 per cent. The project forms part…",
+      "published": "2026-10-29T18:13:16.000Z",
+      "summary": "The Central East Regional Police Command has arrested three suspects in connection with the murder of a 34-year-old mobile money vendor at Kasoa in the Central Region. The suspects have…",
       "categories": [
         "Hot!",
         "News"
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Foreign Minister’s talks with Canadian Secretary yield concrete deliverables",
+      "link": "https://ghanaiantimes.com.gh/foreign-ministers-talks-with-canadian-secretary-yield-concrete-deliverables/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T18:11:41.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has concluded his working visit to Canada following what has been described as very positive and meaningful discussions with the…",
+      "categories": [
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Central Regional Health Director urges heightened Ebola surveillance as supportive visits continue",
+      "link": "https://ghanaiantimes.com.gh/central-regional-health-director-urges-heightened-ebola-surveillance-as-supportive-visits-continue/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T18:09:42.000Z",
+      "summary": "The Central Regional Director of Health Services, Dr. Mrs. Alberta Biritwum-Nyarko, has urged health workers across the region to heighten surveillance, strengthen preparedness and remain…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NIA arrests six, terminates appointment of seven others over alleged extortion at Galaka registration centre",
+      "link": "https://ghanaiantimes.com.gh/nia-arrests-six-terminates-appointment-of-seven-others-over-alleged-extortion-at-galaka-registration-centre/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T18:07:40.000Z",
+      "summary": "The National Identification Authority (NIA) has taken disciplinary action following reports of alleged extortion during the recently concluded free Ghana Card registration exercise for…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "“We can beat the deadline” – Akandoh urges faster work on La General Hospital",
+      "link": "https://ghanaiantimes.com.gh/we-can-beat-the-deadline-akandoh-urges-faster-work-on-la-general-hospital/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-29T18:02:44.000Z",
+      "summary": "Health Minister Kwabena Mintah Akandoh has urged contractors working on the La General Hospital project to speed up work in order to beat its January 2028 completion deadline. Speaking…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-17.21.39-3-1024x682.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Court dismisses Adu-Boahene’s application to expunge prosecution’s submissions",
+      "link": "https://www.graphic.com.gh/news/general-news/court-dismisses-adu-boahenes-application-to-expunge-prosecutions-submissions.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T16:57:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/May/05/Aduboahene.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Develop home-grown initiatives to address cyber threats",
+      "link": "https://www.graphic.com.gh/news/general-news/develop-home-grown-initiatives-to-address-cyber-threats.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T16:50:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "ECG to publish outage timetable as GRIDCo completes major Kumasi transmission line upgrade",
+      "link": "https://www.graphic.com.gh/news/general-news/ecg-to-publish-outage-timetable-as-gridco-completes-major-kumasi-transmission-line-upgrade.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T16:32:07.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hajj 2027: Mandatory medical screening is Saudi requirement, PAOG insists",
+      "link": "https://www.graphic.com.gh/news/general-news/hajj-2027-mandatory-medical-screening-is-saudi-requirement-paog-insists.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T16:04:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/29/HAJJ2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NPP charges GH¢5,000 for 2028 Parliamentary aspirants' declaration of intent",
+      "link": "https://www.graphic.com.gh/news/politics/npp-charges-ghc2-000-for-2028-parliamentary-aspirants-declaration-of-intent.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T15:54:18.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "La General Hospital project to be completed by end of 2027 – Akandoh",
+      "link": "https://www.graphic.com.gh/news/general-news/la-general-hospital-project-to-be-completed-by-end-of-2027-akandoh.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T15:40:23.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/29/LA_GENERAL.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Police arrest 3 over alleged murder of 34-year-old mobile money vendor at a guest house in Kasoa",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-three-over-alleged-murder-of-34-year-old-mobile-money-vendor-at-kasoa-guest-house.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T15:24:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2018/mar/31/murder.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ampem Darkoa Ladies beat Edo Queens to book CAF Women’s Champions League spot",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ampem-darkoa-ladies-beat-edo-queens-to-book-caf-womens-champions-league-spot.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-29T15:08:06.000Z",
+      "summary": "CAF’s Organising Committee for Women’s Football ruled on September 26 that the match should resume from the start of extra time. The decision was upheld by the CAF Appeal Board on October…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/29/AMPEM_DARKOA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Government sets November 12 for 2027 Budget presentation",
+      "link": "https://www.graphic.com.gh/news/general-news/government-sets-november-12-for-2027-budget-presentation.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-29T14:54:24.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/29/AMPEM.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "FIFA U-17 Women's World Cup: Adarkwah targets semi-final spot after Black Maidens beat Argentina",
@@ -251,126 +381,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/29/BOYS_15.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ebola threat: Government tightens all entry controls",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ebola-threat-government-tightens-all-entry-controls.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T09:56:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/Akandoh.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Africa must turn research into jobs — Environment Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-africa-must-turn-research-into-jobs-environment-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T09:17:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/Zanetor.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Vice-President backs GNAT’s cancer care expansion drive - As association seeks government funding for SGMC",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-vice-president-backs-gnats-cancer-care-expansion-drive-as-association-seeks-government-funding-for-sgmc.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T09:13:34.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/Opoku-Agyemang.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Bauxite, Ecobank sign $250m deal",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-bauxite-ecobank-sign-250m-deal.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T09:03:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/Osei-Poku.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Improve policy delivery to meet public expectations – Veep",
-      "link": "https://ghanaiantimes.com.gh/improve-policy-delivery-to-meet-public-expectations-veep/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T08:39:52.000Z",
-      "summary": "The Vice President Professor Naana Jane Opoku-Agyemang has called for stronger coordination among government institutions to improve the implementation of policies and ensure that their…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana needs clear strategy to benefit from BRICS — Prof Bokpin",
-      "link": "https://ghanaiantimes.com.gh/ghana-needs-clear-strategy-to-benefit-from-brics-prof-bokpin/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T08:37:27.000Z",
-      "summary": "An economist and finance lecturer at the University of Ghana Business School, Professor Godfred A. Bokpin, has said a potential partnership between Ghana and the BRICS bloc could create…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Zito was sacked for poor performance, disunity – FC AshantiGold CEO",
-      "link": "https://ghanaiantimes.com.gh/zito-was-sacked-for-poor-performance-disunity-fc-ashantigold-ceo/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T08:27:13.000Z",
-      "summary": "AshantiGold ‘04 CEO says poor performances and reported disagreements within the technical team led to the dismissal of head coach and technical director Abdul Karim Kabutey Zito and his…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/01/GTimeslogo-683x1024.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GFA distributes 3,000 footballs to Colts clubs across 10 regions",
-      "link": "https://ghanaiantimes.com.gh/gfa-distributes-3000-footballs-to-colts-clubs-across-10-regions/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T08:22:08.000Z",
-      "summary": "The Ghana Football Association has distributed the first batch of footballs to Colts clubs across the country, with a total of 3,000 footballs shared to all ten Regional Football…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Registration opens for 24th Accra Seniors Tennis Championship",
-      "link": "https://ghanaiantimes.com.gh/registration-opens-for-24th-accra-seniors-tennis-championship/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T08:19:19.000Z",
-      "summary": "Registration has opened for the 24th Accra Senior Open Tennis Tournament, offering professional and amateur players an opportunity to participate in the competition. The tournament…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Blazers beat Lakers in clash of unbeatens",
-      "link": "https://ghanaiantimes.com.gh/blazers-beat-lakers-in-clash-of-unbeatens/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T08:16:58.000Z",
-      "summary": "Deni Avdija registered 23 points and nine assists and Ja Morant also scored 23 points to help the balanced Portland Trail Blazers post a 136-129 victory over the host Los Angeles Lakers…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "The architecture of decline: Why Manchester United’s crisis exposes a deeper structural failure - Anglican priest writes",
@@ -430,18 +440,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/FATAWU.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Mbappé apologises for Mao 'dictator' comment after backlash in China",
-      "link": "https://www.graphic.com.gh/sports/sports-news/mbappe-apologises-for-mao-dictator-comment-after-backlash-in-china.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-28T15:07:24.000Z",
-      "summary": "\"I apologise to everyone my words have upset.\" Spain's La Liga also apologised, saying it \"deeply regrets the offence that Kylian Mbappé's recent comments have caused among Chinese fans\"…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/28/MBAPPE.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
