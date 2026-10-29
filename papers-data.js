@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-28T21:39:24.297Z",
+  "updated": "2026-10-29T01:14:02.539Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,63 +25,113 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Today’s youth are better educated than our generation – Kufuor",
-      "link": "https://www.myjoyonline.com/todays-youth-are-better-educated-than-our-generation-kufuor/",
+      "title": "Liverpool overcome Chelsea in tense penalty shootout",
+      "link": "https://www.myjoyonline.com/liverpool-overcome-chelsea-in-tense-penalty-shootout/",
       "source": "MyJoyOnline",
-      "published": "2026-10-28T21:33:38.000Z",
-      "summary": "Former President John Agyekum Kufuor says today’s young people are better educated than his generation.",
+      "published": "2026-10-28T22:51:00.000Z",
+      "summary": "Liverpool knocked out Chelsea on penalties to book their place in the Carabao Cup quarter-finals as Xabi Alonso and Jordan Henderson fell to a comeback on their return to Anfield.",
+      "categories": [
+        "Football",
+        "Chelsea",
+        "Liverpool"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2632.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Two half-wounded people make a better whole’ : a couple’s journey of faith and advocacy for mental health",
+      "link": "https://www.myjoyonline.com/two-half-wounded-people-make-a-better-whole-a-couples-journey-of-faith-and-advocacy-for-mental-health/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T22:43:18.000Z",
+      "summary": "It’s hard to say who’s the more fascinating half of the Mardon marriage.",
+      "categories": [
+        "International",
+        "Catholic",
+        "Health"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-222928-1-1024x528.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Holders Man City urge past Brighton on penalties",
+      "link": "https://www.myjoyonline.com/holders-man-city-urge-past-brighton-on-penalties/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T22:40:00.000Z",
+      "summary": "Stand-in goalkeeper Geronimo Rulli was the hero, saving two penalties as holders Manchester City edged past Brighton in a shootout after a 2-2 draw to reach the Carabao Cup quarter-finals.",
+      "categories": [
+        "Football",
+        "brightton",
+        "Man City"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2633.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Catholic couple brings the love of family to young people with mental illness",
+      "link": "https://www.myjoyonline.com/catholic-couple-brings-the-love-of-family-to-young-people-with-mental-illness/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T22:37:34.000Z",
+      "summary": "For Catholic couple Austin and Catherine Mardon, mental illness is personal.",
+      "categories": [
+        "International",
+        "Catholic",
+        "Couple",
+        "Health"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-222928-1024x528.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fast-changing world leaves youth little time for the apprenticeship I had – Kufuor",
+      "link": "https://www.myjoyonline.com/fast-changing-world-leaves-youth-little-time-for-the-apprenticeship-i-had-kufuor/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-28T22:31:00.000Z",
+      "summary": "Former President John Agyekum Kufuor says today’s youth may not have time for the long apprenticeship that prepared him for leadership.",
       "categories": [
         "National",
         "John Agyekum Kufuor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-9.24.53-pm-1024x627.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-9.27.37-pm-1024x708.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "President Mahama seeks to revive historic Ghana-Russia ties",
-      "link": "https://www.myjoyonline.com/president-mahama-seeks-to-revive-historic-ghana-russia-ties/",
+      "title": "Meteorites: Nature’s free sample return",
+      "link": "https://www.myjoyonline.com/meteorites-natures-free-sample-return/",
       "source": "MyJoyOnline",
-      "published": "2026-10-28T21:05:09.000Z",
-      "summary": "President John Mahama says Ghana is seeking to revive its historic ties with Russia, with energy cooperation, investment and economic relations expected to feature prominently in his…",
+      "published": "2026-10-28T22:23:00.000Z",
+      "summary": "Long before spacecraft visited the Moon, landed on asteroids, or returned samples from distant worlds, scientists were already studying material from beyond Earth.",
       "categories": [
-        "HP News 2",
-        "National",
-        "Ghana",
-        "Mahama",
-        "Russia"
+        "Features",
+        "Opinion",
+        "Meteorites"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-8.41.49-PM-1024x784.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/lunar-meteorite.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kofi Bentil accuses Minerals Commission of undermining Ghanaian-owned mines",
-      "link": "https://www.myjoyonline.com/kofi-bentil-accuses-minerals-commission-of-undermining-ghanaian-owned-mines/",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "link": "https://www.myjoyonline.com/death-of-us-actress-hayden-panettiere-ruled-accidental-ending-local-police-probe/",
       "source": "MyJoyOnline",
-      "published": "2026-10-28T21:01:15.000Z",
-      "summary": "Vice President of IMANI Africa, Kofi Bentil, has accused the Minerals Commission of undermining Ghanaian-owned mining companies through what he describes as a questionable revocation of…",
+      "published": "2026-10-28T22:13:00.000Z",
+      "summary": "The death of US actress Hayden Panettiere has been ruled accidental, ending a local probe into her death, police in South Carolina have said.",
       "categories": [
-        "National",
-        "Ghanaian-owned mines",
-        "Kofi Bentil",
-        "Minerals Commission"
+        "Movies",
+        "Hayden Panettiere"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-11.38.08-pm.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3007-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Rent Control to deploy task force to enforce 6-month rent advance limit in 2027 – Rent Commissioner",
-      "link": "https://www.myjoyonline.com/rent-control-to-deploy-task-force-to-enforce-6-month-rent-advance-limit-in-2027-rent-commissioner/",
+      "title": "My generation owes young people mentorship – Kufuor",
+      "link": "https://www.myjoyonline.com/my-generation-owes-young-people-mentorship-kufuor/",
       "source": "MyJoyOnline",
-      "published": "2026-10-28T20:45:11.000Z",
-      "summary": "The Rent Control Commission is preparing to deploy 2,000 personnel under a task force dubbed Yellow Yellow in the first quarter of 2027 to enforce Ghana’s rent laws, including restrictions…",
+      "published": "2026-10-28T22:03:00.000Z",
+      "summary": "Former President John Agyekum Kufuor says his generation owes young people mentorship and should share lessons from its long journey through public life.",
       "categories": [
         "National",
-        "Top Story",
-        "Rent Advance",
-        "Rent Commissioner",
-        "Taskforce"
+        "John Agyekum Kufuor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2630.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-9.25.12-pm-1024x534.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -97,69 +147,16 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "The West pushing Africa back into debt abyss – Putin",
-      "link": "https://www.myjoyonline.com/the-west-pushing-africa-back-into-debt-abyss-putin/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T20:04:56.000Z",
-      "summary": "Russian President Vladimir Putin has accused Western countries of using debt, economic sanctions and trade restrictions to maintain influence over Africa, warning that harsh financing…",
+      "title": "The architecture of decline: Why Manchester United’s crisis exposes a deeper structural failure - Anglican priest writes",
+      "link": "https://www.graphic.com.gh/sports/sports-news/the-architecture-of-decline-why-manchester-uniteds-crisis-exposes-a-deeper-structural-failure-anglican-priest-writes.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-28T19:21:22.000Z",
+      "summary": "Yet, over the 13 years that followed, Manchester United transformed from football’s gold standard into a cautionary tale. Despite spending well over a billion pounds in the transfer market…",
       "categories": [
-        "HP News 6",
-        "National",
-        "Africa",
-        "Putin"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/image-282.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Supreme Court won’t settle a debate through constitutional interpretation – Kwaku Azar on NPP presidential term limit suit",
-      "link": "https://www.myjoyonline.com/supreme-court-wont-settle-a-debate-through-constitutional-interpretation-kwaku-azar-on-npp-presidential-term-limit-suit/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T20:00:47.000Z",
-      "summary": "Legal scholar Kwaku Azar Asare has questioned whether the New Patriotic Party’s (NPP) suit at the Supreme Court seeking an interpretation of the presidential term limit presents a…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Azar",
-        "NPP",
-        "presidential term limit",
-        "Supreme Court"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-36.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "President Ruto confirms Bayern Munich vs Ajax clash to open Kenya’s new stadium",
-      "link": "https://www.myjoyonline.com/president-ruto-confirms-bayern-munich-vs-ajax-clash-to-open-kenyas-new-stadium/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T19:59:55.000Z",
-      "summary": "Kenya President William Ruto has confirmed that Bayern Munich and Ajax will play the opening match at the country’s new national stadium on January 5, 2027, as Nairobi prepares to welcome…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Ajax Amsterdam",
-        "Bayern Munchen",
-        "Kenya",
-        "Nairobi",
-        "Ruto"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_6782.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Underage girl, two others arrested over death of mobile money vendor at Kasoa guest house",
-      "link": "https://www.myjoyonline.com/underage-girl-two-others-arrested-over-death-of-mobile-money-vendor-at-kasoa-guest-house/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T19:47:49.000Z",
-      "summary": "Police have arrested three suspects in connection with the murder of 34-year-old mobile money vendor Christian Amponsah, whose body was discovered at a guest house around Kasoa Second in…",
-      "categories": [
-        "Crime",
-        "National",
-        "Kasoa",
-        "Mobile Money"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2628.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/28/Manintro.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "The architecture of decline: Why Manchester United’s crisis exposes a deeper structural failure - Catholic priest writes",
@@ -430,18 +427,6 @@ window.GDC_PAPERS = {
         "Boxing"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/27/pound.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Amoah, Ayanful, Hamidu and Sam-Woode clinch Zutari golf honours",
-      "link": "https://www.graphic.com.gh/sports/sports-news/amoah-ayanful-hamidu-and-sam-woode-clinch-zutari-golf-honours.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-27T17:19:10.000Z",
-      "summary": "The team clinched the overall title in the full net competition with an impressive score of 129, finishing one stroke ahead of the second-placed team of Tlhabeli Ralebitso, Felix Sackitey…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
       "site": "https://www.graphic.com.gh/sports"
     }
   ]

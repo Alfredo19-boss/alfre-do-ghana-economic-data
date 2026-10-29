@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-28T21:39:11.029Z",
-  "worldAt": "2026-10-28T21:39:11.027Z",
+  "updated": "2026-10-29T01:13:50.252Z",
+  "worldAt": "2026-10-29T01:13:50.248Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -29,20 +29,20 @@ window.GDC_NEWS = {
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 26 stories",
+    "World · BBC News: 27 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 25 stories",
+    "Africa · Africanews: 24 stories",
     "Africa · BBC Africa: 34 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 5 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,148 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Canada and EU drop associate membership plan in bid to deepen ties",
+      "link": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties",
+      "source": "France 24",
+      "published": "2026-10-29T00:56:33.000Z",
+      "summary": "Canada and the European Union will pursue closer ties but have dropped a proposal for associate EU membership, according to a joint declaration ahead of Thursday’s summit in Montreal. Prime…",
+      "image": "https://s.france24.com/media/display/de478f98-d32c-11f1-b496-47de50b3c1e4/w:1024/p:16x9/AP26264053021764.jpg"
+    },
+    {
+      "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T00:36:33.000Z",
+      "summary": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police"
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-28T23:21:48.000Z",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Israelis rally for Jewish-Arab government after election gains",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T00:34:24.000Z",
+      "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election."
+    },
+    {
+      "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+      "link": "http://www.africanews.com/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night/",
+      "source": "Africanews",
+      "published": "2026-10-28T23:10:45.000Z",
+      "summary": "Spain reels from the deadly Toledo high-speed train collision that killed 68 and injured more than 100, sparking grief, protests and calls for resignations."
+    },
+    {
+      "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T00:01:07.000Z",
+      "summary": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government."
+    },
+    {
+      "title": "Spain rail crash came after train ordered to go in error: minister",
+      "link": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+      "source": "France 24",
+      "published": "2026-10-28T22:30:17.000Z",
+      "summary": "A rail collision in Spain that claimed at least 68 lives on Wednesday came after a train was ordered to go in \"error\" despite a technical failure that halted all services, the transport…",
+      "image": "https://s.france24.com/media/display/cba1ef0c-d2d5-11f1-a78f-47de50b3c1e4/w:1024/p:16x9/AP26301416185342.jpg"
+    },
+    {
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T00:00:00.000Z",
+      "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait."
+    },
+    {
+      "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+      "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-28T22:26:00.000Z",
+      "summary": "Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have fled to the US."
+    },
+    {
+      "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T23:43:06.000Z",
+      "summary": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling."
+    },
+    {
+      "title": "Flavio Bolsonaro claims he is Brazil's true leader after fleeing to US",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
+      "source": "France 24",
+      "published": "2026-10-28T22:15:03.000Z",
+      "summary": "Brazil's defeated right-wing presidential candidate Flavio Bolsonaro insisted Wednesday he is his country's rightful leader after arriving in the United States to start a self-imposed…",
+      "image": "https://s.france24.com/media/display/2a0a87d6-d31a-11f1-a45a-811458fcf026/w:1024/p:16x9/EN-20261028-223115-224345-CS.jpg"
+    },
+    {
+      "title": "UN experts sound alarm at excessive use of force in French student protests",
+      "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T22:34:51.000Z",
+      "summary": "UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights."
+    },
+    {
+      "title": "Flavio Bolsonaro claims he is Brazil's true leader after fleeing to US",
+      "link": "https://www.france24.com/en/flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us",
+      "source": "France 24",
+      "published": "2026-10-28T22:13:27.000Z",
+      "summary": "Brazil's defeated right-wing presidential candidate Flavio Bolsonaro insisted Wednesday he is his country's rightful leader after arriving in the United States to start a self-imposed…",
+      "image": "https://s.france24.com/media/display/2a0a87d6-d31a-11f1-a45a-811458fcf026/w:1024/p:16x9/EN-20261028-223115-224345-CS.jpg"
+    },
+    {
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-28T22:08:52.000Z",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad45/live/27f788a0-d30f-11f1-ad4f-5d2bbacf0caf.jpg"
+    },
+    {
+      "title": "Rail safety questioned after Spain suffers second fatal high-speed train crash in a year",
+      "link": "https://www.france24.com/en/europe/20261028-rail-safety-questioned-after-spain-suffers-second-fatal-high-speed-train-crash-in-a-year",
+      "source": "France 24",
+      "published": "2026-10-28T22:11:42.000Z",
+      "summary": "Questions are being raised about Spain's rail safety as authorities launch an official investigation into the cause of Wednesday's high-speed train collision, which killed at least 68…",
+      "image": "https://s.france24.com/media/display/db37721a-d308-11f1-97c2-47de50b3c1e4/w:1024/p:16x9/000-D4PE9WE.jpg"
+    },
+    {
+      "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "source": "NPR World",
+      "published": "2026-10-28T21:46:27.000Z",
+      "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple…"
+    },
+    {
+      "title": "EU natural gas prices top €100 for first time since 2022",
+      "link": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
+      "source": "France 24",
+      "published": "2026-10-28T22:02:12.000Z",
+      "summary": "As winter approaches, the price of European natural gas topped €100 / megawatt hour, its highest level since 2022. The EU says it's not worried about supplies, although its storage…",
+      "image": "https://s.france24.com/media/display/f2c1ff66-d319-11f1-8cc1-47de50b3c1e4/w:1024/p:16x9/capture-428f8665.jpg"
+    },
+    {
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-28T21:38:54.000Z",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg"
+    },
+    {
+      "title": "Costa Rica’s mega-prison receives first inmates",
+      "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T21:36:16.000Z",
+      "summary": "President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose."
+    },
+    {
       "title": "Russia woos African leaders at Moscow summit",
       "link": "https://www.france24.com/en/russia-woos-african-leaders-at-moscow-summit",
       "source": "France 24",
@@ -1112,7 +1254,7 @@ window.GDC_NEWS = {
       "source": "BBC News",
       "published": "2026-10-28T21:24:41.000Z",
       "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c63d/live/bb688fa0-d312-11f1-a701-fddedf244c16.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2148/live/b9f2de90-d31d-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Indonesian students demand action on wildfires and rising costs",
@@ -1137,12 +1279,12 @@ window.GDC_NEWS = {
       "summary": "Palestinian citizens of Israel expressed optimism on Wednesday following the strong showing of Arab parties in the elections."
     },
     {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-28T21:07:06.000Z",
-      "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-10-28T20:53:02.000Z",
+      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
@@ -1152,12 +1294,12 @@ window.GDC_NEWS = {
       "summary": "The far-right ally of US President Donald Trump has fled to Miami with his wife and children."
     },
     {
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-10-28T20:53:02.000Z",
-      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-10-28T20:44:10.000Z",
+      "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f2/live/2647c7b0-d30d-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Historic gains for Arab-majority parties in Israeli election",
@@ -1256,149 +1398,16 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-28T19:05:44.000Z",
       "summary": "Rates will remain 3.75-4 percent even as inflation continues to rise."
-    },
-    {
-      "title": "Which way will Israel break? Netanyahu still in it after election night surprises",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises",
-      "source": "France 24",
-      "published": "2026-10-28T19:34:30.000Z",
-      "summary": "In Israel, the surprises only start with election night: they're still counting ballots in a vote that featured the highest turnout in decades, historic inroads by Arab parties, Benjamin…",
-      "image": "https://s.france24.com/media/display/391f5776-d2ff-11f1-8a4b-a7bbbeea0b20/w:1024/p:16x9/2026-10-28T123350Z-597274871-RC2BCOAXNME7-RTRMADP-3-ISRAEL-ELECTION.jpg"
-    },
-    {
-      "title": "What are the implications of Israel’s elections?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T19:03:03.000Z",
-      "summary": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza."
-    },
-    {
-      "title": "Spain high-speed train crash kills 68, injures over 100",
-      "link": "https://www.france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
-      "source": "France 24",
-      "published": "2026-10-28T19:32:38.000Z",
-      "summary": "A high-speed train collision south of Madrid killed 68 people and injured scores more on Wednesday, with the toll likely to rise, authorities said, in one of Europe's deadliest such…",
-      "image": "https://s.france24.com/media/display/9520b7d6-d304-11f1-bd08-811458fcf026/w:1024/p:16x9/EN-20261028-200141-200812-CS.jpg"
-    },
-    {
-      "title": "US jury convicts Rwandan American of lying about role in genocide",
-      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T19:02:38.000Z",
-      "summary": "Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994."
-    },
-    {
-      "title": "'Israeli electorate has moved rightward: Many underestimated extent of fracture in Israeli society'",
-      "link": "https://www.france24.com/en/israeli-electorate-has-moved-rightward-many-underestimated-extent-of-fracture-in-israeli-society",
-      "source": "France 24",
-      "published": "2026-10-28T19:12:30.000Z",
-      "summary": "Erin Ogunkeye is pleased to welcome Dr. Shira Efron, RAND's Distinguished Israel Policy Chair. “Many of us, myself included, underestimated the extent of the fracture in Israeli society.”…",
-      "image": "https://s.france24.com/media/display/9975e314-d300-11f1-970a-811458fcf026/w:1024/p:16x9/EN-20261028-151107-152314-CS.jpg"
-    },
-    {
-      "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
-      "link": "https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-28T19:02:00.000Z",
-      "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president."
-    },
-    {
-      "title": "Recreatrales festival transforms Ouagadougou neighbourhood",
-      "link": "http://www.africanews.com/2026/10/28/recreatrales-festival-transforms-ouagadougou-neighbourhood/",
-      "source": "Africanews",
-      "published": "2026-10-28T19:01:52.000Z",
-      "summary": "In Ouagadougou, an entire neighbourhood brings the Récréâtrales theatre festival to life. For its 14th edition, running from October 24 to 31, residents of Bougsemtenga are hosting…"
-    },
-    {
-      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T19:01:46.000Z",
-      "summary": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers."
-    },
-    {
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-28T18:51:05.000Z",
-      "summary": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Students on hunger strike in India demand restoration of student union",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T18:52:58.000Z",
-      "summary": "Students at New Delhi’s Jamia Millia Islamia university are on hunger strike demanding a student union."
-    },
-    {
-      "title": "Putin woos African leaders as Moscow seeks to expand footprint in Africa",
-      "link": "https://www.france24.com/en/africa/20261028-putin-woos-african-leaders-moscow-seeks-expand-footprint-africa",
-      "source": "France 24",
-      "published": "2026-10-28T18:13:49.000Z",
-      "summary": "Russian President Vladimir Putin sought to woo African leaders and government delegates on Wednesday as they gathered in Moscow for the third Russia-Africa Summit to discuss trade…",
-      "image": "https://s.france24.com/media/display/6edccb5c-d2f8-11f1-8803-75c7729144f1/w:1024/p:16x9/000-D4NG2RM.jpg"
-    },
-    {
-      "title": "Five key takeaways from the UK Autumn Budget",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T18:46:45.000Z",
-      "summary": "The United Kingdom's government says its policies are for the 'working people of Britain'."
-    },
-    {
-      "title": "'Si, se puede': US civil rights icon Dolores Huerta dies at 96",
-      "link": "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96",
-      "source": "France 24",
-      "published": "2026-10-28T17:49:46.000Z",
-      "summary": "Influential US labour union co-founder, feminist, and civil rights icon Dolores Huerta died on Wednesday in Bakersfield, California, her family said. Credited with coining the enduring \"Si…",
-      "image": "https://s.france24.com/media/display/aafa5844-d2f7-11f1-a891-75c7729144f1/w:1024/p:16x9/AP26077703606889.jpg"
-    },
-    {
-      "title": "Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia",
-      "link": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T18:34:10.000Z",
-      "summary": "Hundreds of passengers are stranded after the ship’s three-and-a-half-year voyage is cut short due to fuel costs."
-    },
-    {
-      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-28T17:34:41.000Z",
-      "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de84/live/96c3b450-d2f3-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T18:31:33.000Z",
-      "summary": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election"
-    },
-    {
-      "title": "Africa Ebola outbreak passes 10,000 cases, mostly in DR Congo",
-      "link": "http://www.africanews.com/2026/10/28/africa-ebola-outbreak-passes-10000-cases-mostly-in-dr-congo/",
-      "source": "Africanews",
-      "published": "2026-10-28T17:24:34.000Z",
-      "summary": "Africa's latest outbreak of Ebola has passed 10,000 confirmed cases, the vast majority of them in the Democratic Republic of Congo, the Congolese health authorities said on Tuesday, with…"
-    },
-    {
-      "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
-      "link": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T17:54:51.000Z",
-      "summary": "Elections have yielded no clear winner but opposition bloc refuses to ally with Arab parties."
-    },
-    {
-      "title": "Spain: Rescuers search mangled train wreckage near Toledo",
-      "link": "http://www.africanews.com/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo/",
-      "source": "Africanews",
-      "published": "2026-10-28T17:22:31.000Z",
-      "summary": "At least 68 people have been killed and dozens more injured after two high-speed trains collided near Urda, in central Spain’s Toledo province, on Wednesday, 28 October. Authorities warned…"
     }
   ],
   "africa": [
+    {
+      "title": "Namibia: China's Zero-Tariff Policy Creates New Export Opportunity for Namibia",
+      "link": "https://allafrica.com/stories/202610280738.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-28T23:14:26.000Z",
+      "summary": "[New Era] Namibia's next growth opportunity may not lie in discovering new products to export, but in gaining easier access to some of the world's largest consumer markets."
+    },
     {
       "title": "Rwanda’s milk bars",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss",
@@ -1672,13 +1681,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-28T11:32:44.000Z",
       "summary": "[Leadership] A prosecution witness in the trial of former Minister of Aviation, Senator Hadi Abubakar Sirika, and three others has told the High Court of the Federal Capital Territory (FCT)…"
-    },
-    {
-      "title": "Liberia: Dillon Bill Could Jail Employers Who Force Workers to Retire Before 70",
-      "link": "https://allafrica.com/stories/202610280342.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-28T11:09:20.000Z",
-      "summary": "[Liberian Investigator] Blamo N. Toe -- Employers could no longer force Liberian workers to retire before age 70, and those who do could face up to two years in prison, under a bill…"
     }
   ]
 };
