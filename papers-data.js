@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-30T15:56:23.078Z",
+  "updated": "2026-10-30T20:20:27.611Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,124 +25,150 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "US inmate Christa Pike says she woke up ‘confused and in pain’ after failed execution",
-      "link": "https://www.myjoyonline.com/us-inmate-christa-pike-says-she-woke-up-confused-and-in-pain-after-failed-execution/",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "link": "https://www.myjoyonline.com/hundreds-evacuated-from-russian-occupied-oleshky-during-rare-ukraine-ceasefire/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T15:38:02.000Z",
-      "summary": "US death row inmate Christa Pike has released her first public statement since her botched execution in September.",
+      "published": "2026-10-30T18:57:28.000Z",
+      "summary": "Hundreds of residents of the devastated Russian-occupied city of Oleshky have been evacuated, Russian and Ukrainian authorities have said, following a humanitarian ceasefire brokered by US…",
       "categories": [
         "International",
-        "Christa Pike",
+        "ceasfire",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2832-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Konongo, Juansa chiefs back revocation of Northern Ashanti Mines license",
+      "link": "https://www.myjoyonline.com/konongo-juansa-chiefs-back-revocation-of-northern-ashanti-mines-license/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T18:51:35.000Z",
+      "summary": "Traditional authorities in Konongo and Juansa have backed the revocation of the mining license of Northern Ashanti Mines Limited in its catchment.",
+      "categories": [
+        "Regional",
+        "Juansa",
+        "Konongo",
+        "Mining"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-6.46.15-PM.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jema-Asemkrom residents allege threats over efforts to expose illegal mining",
+      "link": "https://www.myjoyonline.com/jema-asemkrom-residents-allege-threats-over-efforts-to-expose-illegal-mining/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T18:38:35.000Z",
+      "summary": "Frustration is mounting among residents of Jema-Asemkrom over the risks associated with helping authorities fight illegal mining on the Tano River.",
+      "categories": [
+        "National",
+        "Illegal mining",
+        "Jema"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2829-1024x564.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian creatives losing funding opportunities over poor documentation – Sustainable finance expert",
+      "link": "https://www.myjoyonline.com/ghanaian-creatives-losing-funding-opportunities-over-poor-documentation-sustainable-finance-expert/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T18:00:25.000Z",
+      "summary": "The Head of Sustainable Financing at Consolidated Bank Ghana (CBG), Eva Ackuaku, has expressed concern over the inability of many Ghanaian creatives to access available funding…",
+      "categories": [
+        "Art & Design",
+        "Banking and Finance",
+        "HP Entertainment 2",
+        "HP News 10",
+        "National",
+        "creatives",
+        "Eva Ackuaku"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2827-scaled-e1793382538165-1024x968.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NPP petitions US to suspend privileges for Ghanaian diplomatic, service passport holders",
+      "link": "https://www.myjoyonline.com/npp-petitions-us-to-suspend-privileges-for-ghanaian-diplomatic-service-passport-holders/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T17:43:47.000Z",
+      "summary": "The New Patriotic Party (NPP) has called on the United States to review its treatment of Ghanaian diplomatic and service passport holders following allegations that some travel documents…",
+      "categories": [
+        "National",
+        "Top Story",
+        "NPP",
+        "Passport",
         "US"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2812-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/IMG_6324-636x424-1-e1759149401242.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Spain transport minister says he won’t resign over high-speed rail disaster",
-      "link": "https://www.myjoyonline.com/spain-transport-minister-says-he-wont-resign-over-high-speed-rail-disaster/",
+      "title": "Ghana vows to pursue justice for 15-year-old boy shot dead in New York",
+      "link": "https://www.myjoyonline.com/ghana-vows-to-pursue-justice-for-15-year-old-boy-shot-dead-in-new-york/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T15:37:25.000Z",
-      "summary": "Spain's transport minister says he won't resign over the high-speed rail collision that has left at least 69 people dead.",
+      "published": "2026-10-30T17:42:55.000Z",
+      "summary": "The Government of Ghana has pledged to pursue justice for 15-year-old Ghanaian teenager Javits Frimpong, who was fatally shot in the Bronx, New York, on Thursday, October 29.",
       "categories": [
-        "International",
-        "rail disaster",
-        "Spain"
+        "National",
+        "Ghana",
+        "Javits Frimpong",
+        "New York"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2814-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2826.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Yazz sanitary pad samples meet GSA microbiological standards – Lexta Ghana",
-      "link": "https://www.myjoyonline.com/yazz-sanitary-pad-samples-meet-gsa-microbiological-standards-lexta-ghana/",
+      "title": "Chinese hospital ship concludes seven-day medical mission in Ghana, treating 5,909 people",
+      "link": "https://www.myjoyonline.com/chinese-hospital-ship-concludes-seven-day-medical-mission-in-ghana-treating-5909-people/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T15:33:46.000Z",
-      "summary": "Lexta Ghana Limited, manufacturers of Yazz sanitary pads, says product samples submitted to the Ghana Standards Authority (GSA) for independent microbiological assessment have met the…",
+      "published": "2026-10-30T17:41:58.000Z",
+      "summary": "The Chinese People’s Liberation Army Navy hospital ship, Auspicious Ark (Hull 868), has concluded its seven-day humanitarian medical mission in Ghana after providing healthcare services to…",
       "categories": [
         "Health",
         "National",
-        "GSA",
-        "Yazz sanitary pad"
+        "Chinese hospital ship",
+        "medical mission"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/GSA-1024x512.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1793369379_image_2_xkTJtb3lx8-1024x673.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I’ll accept political appointment from Bawumia if it benefits Ghana – Nigel Gaisie",
-      "link": "https://www.myjoyonline.com/ill-accept-political-appointment-from-bawumia-if-it-benefits-ghana-nigel-gaisie/",
+      "title": "PMI and TIME Studios highlight the projects successfully delivering climate solutions at scale",
+      "link": "https://www.myjoyonline.com/pmi-and-time-studios-highlight-the-projects-successfully-delivering-climate-solutions-at-scale/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T15:16:51.000Z",
-      "summary": "The leader of the Prophetic Hill Church, Prophet Nigel Gaisie, has expressed his willingness to accept a political appointment from former Vice-President Dr Mahamudu Bawumia if it would…",
+      "published": "2026-10-30T17:38:00.000Z",
+      "summary": "TIME Studios and Project Management Institute (PMI), the world’s leading authority for project professionals, have announced Season 2 of The Solutionaries, a documentary series about the…",
       "categories": [
-        "National",
-        "Bawumia",
-        "Prophet Nigel Gaisie"
+        "News",
+        "Climate Solutions",
+        "PMI",
+        "Time"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/06/Nigel-Gaisie.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Menaka-Gopinath_White-Background-1-683x1024.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "I was expecting appointment as a Council of State member or Religious Affairs Minister under Mahama — Nigel Gaisie",
-      "link": "https://www.myjoyonline.com/i-was-expecting-appointment-as-a-council-of-state-member-or-religious-affairs-minister-under-mahama-nigel-gaisie/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T15:13:15.000Z",
-      "summary": "The leader of the Prophetic Hill Church, Prophet Nigel Gaisie, has revealed that he had anticipated a political appointment, particularly as a member of the Council of State or Minister…",
+      "title": "Student pleads not guilty to stealing GH¢1.5million from Bishop Obinim",
+      "link": "https://www.graphic.com.gh/news/general-news/student-pleads-not-guilty-to-stealing-ghc1-5million-from-bishop-obinim.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T16:39:01.000Z",
+      "summary": "",
       "categories": [
-        "HP News 9",
-        "National",
-        "Council of State",
-        "Nigel Gaisie",
-        "Religious Affairs Minister"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2808.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2023/nov/07/gavel.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "CSIR communiqué calls for urgent shift from scientific research to scalable commercial technologies",
-      "link": "https://www.myjoyonline.com/csir-communique-calls-for-urgent-shift-from-scientific-research-to-scalable-commercial-technologies/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T15:02:22.000Z",
-      "summary": "In a major policy declaration issued at the conclusion of its maiden National Scientific Conference, the Council for Scientific and Industrial Research (CSIR) has called for an immediate…",
+      "title": "How the Duel of the Century Ended: The 2021 Formula 1 Finale",
+      "link": "https://ghanaiantimes.com.gh/how-the-duel-of-the-century-ended-the-2021-formula-1-finale/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T16:15:21.000Z",
+      "summary": "The 2021 Abu Dhabi Grand Prix was quite unusual: the top contenders went into the race tied on points. The duel took place at the Abu Dhabi Circuit. Many followed the action on 1xBet Kenya…",
       "categories": [
-        "National",
-        "Technology",
-        "CSIR",
-        "Research"
+        "Technology"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-2.49.14-PM-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No hostel, no auditorium: Dr Hilla Limann Technical University freshers use walkway for orientation",
-      "link": "https://www.myjoyonline.com/no-hostel-no-auditorium-dr-hilla-limann-technical-university-freshers-use-walkway-for-orientation/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T14:58:26.000Z",
-      "summary": "Hundreds of freshers at Dr Hilla Limann Technical University in Wa have been forced to hold their orientation under an open walkway due to the university’s lack of an auditorium.",
-      "categories": [
-        "Education",
-        "Regional",
-        "Dr Hilla Limann Technical University",
-        "Freshers",
-        "Orientation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-13.07.48-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Minister engages Obuasi SHTS students affected by allegations, assures them of support",
-      "link": "https://www.myjoyonline.com/gender-minister-engages-obuasi-shts-students-affected-by-allegations-assures-them-of-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T14:47:06.000Z",
-      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has engaged students affected by the alleged sexual abuse at Obuasi Senior High Technical School (SHTS)…",
-      "categories": [
-        "Education",
-        "National",
-        "Dr Agnes Naa Momo Lartey",
-        "Gender Minister",
-        "Obuasi SHTS sexual abuse"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/864787636_1021142894332035_3909368632236841746_n-2-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/image-6.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "GMTF woos US partners in Nashville to boost cancer care and specialist healthcare in Ghana",
@@ -277,18 +303,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana’s first nuclear power plant in sight - President Mahama reveals talks begin with Russia",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanas-first-nuclear-power-plant-in-sight-president-mahama-reveals-talks-begin-with-russia.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T09:48:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/Mahama.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "GRA named PR Organisation of the Year",
       "link": "https://ghanaiantimes.com.gh/gra-named-pr-organisation-of-the-year/",
       "source": "Ghanaian Times",
@@ -368,18 +382,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-10-30T08:09:07.000Z",
       "summary": "Sierra Leonean President, Julius Maada Bio, has stated that political independence must translate into improved living conditions through education, food security, industrial development…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana Water honours loyal commercial customers",
-      "link": "https://ghanaiantimes.com.gh/ghana-water-honours-loyal-commercial-customers/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-30T08:06:27.000Z",
-      "summary": "GHANA Water Limited (GWL), Accra West Region, has recognised two major commercial customers, GIHOC Distilleries and KANE-EM Limited, for their prompt payment of bills. The recognition, held…",
       "categories": [
         "News"
       ],
