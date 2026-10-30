@@ -3,23 +3,23 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-10-29T14:23:38.150Z",
+  "updated": "2026-10-30T14:13:15.059Z",
   "values": {
     "fx.usd": {
-      "value": 11.6258,
-      "date": "2026-10-28",
+      "value": 11.6515,
+      "date": "2026-10-29",
       "source": "Bank of Ghana interbank mid-rate",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
     },
     "fx.gbp": {
-      "value": 15.4647,
-      "date": "2026-10-28",
+      "value": 15.574,
+      "date": "2026-10-29",
       "source": "Bank of Ghana interbank mid-rate",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
     },
     "fx.eur": {
-      "value": 12.9455,
-      "date": "2026-10-28",
+      "value": 13.0017,
+      "date": "2026-10-29",
       "source": "Bank of Ghana interbank mid-rate",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
     },
@@ -31,8 +31,8 @@ window.GDC_AUTO = {
       "note": "Per ounce"
     },
     "cocoa.usdPerTonne": {
-      "value": 5410,
-      "date": "2026-10-29",
+      "value": 5457,
+      "date": "2026-10-30",
       "source": "ICE New York cocoa futures",
       "url": "https://finance.yahoo.com/quote/CC=F",
       "note": "Per tonne"
@@ -194,6 +194,10 @@ window.GDC_AUTO = {
     {
       "date": "2026-10-28",
       "rate": 11.6258
+    },
+    {
+      "date": "2026-10-29",
+      "rate": 11.6515
     }
   ],
   "history": {
@@ -353,6 +357,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-10-28",
         "value": 11.6258
+      },
+      {
+        "date": "2026-10-29",
+        "value": 11.6515
       }
     ],
     "fx.gbp": [
@@ -511,6 +519,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-10-28",
         "value": 15.4647
+      },
+      {
+        "date": "2026-10-29",
+        "value": 15.574
       }
     ],
     "fx.eur": [
@@ -669,6 +681,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-10-28",
         "value": 12.9455
+      },
+      {
+        "date": "2026-10-29",
+        "value": 13.0017
       }
     ],
     "gold.usdPerOz": [
@@ -989,6 +1005,10 @@ window.GDC_AUTO = {
       {
         "date": "2026-10-29",
         "value": 5410
+      },
+      {
+        "date": "2026-10-30",
+        "value": 5457
       }
     ]
   },
@@ -996,75 +1016,75 @@ window.GDC_AUTO = {
     "date": "2026-10-29",
     "rates": {
       "USD": {
-        "ghs": 11.6258,
+        "ghs": 11.6515,
         "src": "BoG"
       },
       "GBP": {
-        "ghs": 15.4647,
+        "ghs": 15.574,
         "src": "BoG"
       },
       "CHF": {
-        "ghs": 14.0022,
+        "ghs": 14.0935,
         "src": "BoG"
       },
       "AUD": {
-        "ghs": 8.1831,
+        "ghs": 8.1974,
         "src": "BoG"
       },
       "CAD": {
-        "ghs": 8.2849,
+        "ghs": 8.3319,
         "src": "BoG"
       },
       "DKK": {
-        "ghs": 1.7321,
+        "ghs": 1.7396,
         "src": "BoG"
       },
       "JPY": {
-        "ghs": 0.0735,
+        "ghs": 0.0742,
         "src": "BoG"
       },
       "NZD": {
-        "ghs": 6.5331,
+        "ghs": 6.5574,
         "src": "BoG"
       },
       "NOK": {
-        "ghs": 1.2527,
+        "ghs": 1.256,
         "src": "BoG"
       },
       "SEK": {
-        "ghs": 1.1709,
+        "ghs": 1.1819,
         "src": "BoG"
       },
       "ZAR": {
-        "ghs": 0.6971,
+        "ghs": 0.7011,
         "src": "BoG"
       },
       "EUR": {
-        "ghs": 12.9455,
+        "ghs": 13.0017,
         "src": "BoG"
       },
       "CNY": {
-        "ghs": 1.7439,
+        "ghs": 1.7494,
         "src": "BoG"
       },
       "XOF": {
-        "ghs": 0.0197352,
+        "ghs": 0.0198209,
         "src": "BoG"
       },
       "GMD": {
-        "ghs": 0.157644,
+        "ghs": 0.158083,
         "src": "BoG"
       },
       "MRO": {
-        "ghs": 0.0325197,
+        "ghs": 0.0325915,
         "src": "BoG"
       },
       "NGN": {
-        "ghs": 0.00862768,
+        "ghs": 0.00865266,
         "src": "BoG"
       },
       "SLL": {
-        "ghs": 0.502134,
+        "ghs": 0.506586,
         "src": "BoG"
       },
       "AED": {
@@ -1242,6 +1262,17 @@ window.GDC_AUTO = {
   },
   "log": [
     {
+      "at": "2026-10-30T14:13:15.059Z",
+      "messages": [
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-29 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-30: 2026-10-29, not newer than 2026-10-29",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rows found",
+        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc: no rows found",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok"
+      ]
+    },
+    {
       "at": "2026-10-29T14:23:38.150Z",
       "messages": [
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-28 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
@@ -1378,17 +1409,6 @@ window.GDC_AUTO = {
       "messages": [
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-16 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-17: 2026-10-16, not newer than 2026-10-16",
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rows found",
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc: no rows found",
-        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
-        "cocoa: ok"
-      ]
-    },
-    {
-      "at": "2026-10-16T12:28:00.013Z",
-      "messages": [
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-10-15 · fx.usd, fx.gbp, fx.eur; table 18 currencies",
-        "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-10-16: 2026-10-15, not newer than 2026-10-15",
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rows found",
         "BoG FX https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc: no rows found",
         "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
