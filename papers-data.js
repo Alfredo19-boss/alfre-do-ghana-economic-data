@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-30T02:53:52.911Z",
+  "updated": "2026-10-30T09:11:47.147Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,225 +25,251 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Stable economy, cheaper credit key to youth jobs — BoG Governor",
-      "link": "https://www.myjoyonline.com/stable-economy-cheaper-credit-key-to-youth-jobs-bog-governor/",
+      "title": "Beyond Degrees: New platform turns every Ghanaian skill into opportunity",
+      "link": "https://www.myjoyonline.com/beyond-degrees-new-platform-turns-every-ghanaian-skill-into-opportunity/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T00:13:35.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, says falling lending rates and stronger private sector credit growth are among the gains from recent macroeconomic…",
+      "published": "2026-10-30T09:00:00.000Z",
+      "summary": "For millions of young Ghanaians, the search for work has meant the same story: send the CV, wait, hear nothing, and wait again. Today, a new Ghanaian platform says the waiting can end…",
       "categories": [
-        "News",
-        "Asiama",
-        "Bank of Ghana"
+        "National",
+        "Sankofa Job"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-16.03.04-1024x683.jpeg",
+      "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "BoG turns to AI to strengthen financial-sector oversight",
-      "link": "https://www.myjoyonline.com/bog-turns-to-ai-to-strengthen-financial-sector-oversight/",
+      "title": "Motsepe defends two-year AFCON cycle, explains decision to shift to 2031 and 2033 editions",
+      "link": "https://www.myjoyonline.com/motsepe-defends-two-year-afcon-cycle-explains-decision-to-shift-to-2031-and-2033-editions/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T00:07:53.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has called for a dedicated digital platform to make the country’s official statistics more accessible, saying wider access…",
+      "published": "2026-10-30T08:57:32.000Z",
+      "summary": "Confederation of African Football (CAF) president Dr Patrice Motsepe has defended the decision to maintain the Africa Cup of Nations (AFCON) on a two-year cycle, while explaining the…",
       "categories": [
-        "News",
-        "AI",
-        "Bank of Ghana"
+        "Football",
+        "HP Sports 2",
+        "Afcon 2028",
+        "Afcon 2031",
+        "Afcon 2033",
+        "CAF President",
+        "Patrice Motsepe"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-16.03.03-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Patrice-Motsepe-768x432-1.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The Breast that feeds the future: Nurture it, Protect it, Check it",
-      "link": "https://www.myjoyonline.com/the-breast-that-feeds-the-future-nurture-it-protect-it-check-it/",
+      "title": "Gambia Vice President hails Zoomlion partnership; says it will transform waste management",
+      "link": "https://www.myjoyonline.com/gambia-vice-president-hails-zoomlion-partnership-says-it-will-transform-waste-management/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T23:51:48.000Z",
-      "summary": "Why breastfeeding and breast cancer are one story, and why women and men must both read it In the first hour of life, a mother’s breast delivers colostrum, the baby’s first vaccine. Over…",
+      "published": "2026-10-30T08:41:59.000Z",
+      "summary": "The Vice President of The Gambia, Mohammed B.S. Jallow, described a new integrated waste management partnership between his country and Zoomlion Gambia Integrated Waste Solutions Limited, a…",
       "categories": [
-        "Features",
-        "Lifestyle",
-        "News",
-        "Breast",
-        "Dorcas Zenabu Seidu"
+        "National",
+        "Ga",
+        "Gambia",
+        "waste management",
+        "Zoomlion"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/is-breast-really-best-1646919104.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/6-8-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Anas announces exposé on Angela List’s Nguvu/Konongo Mines",
-      "link": "https://www.myjoyonline.com/anas-announces-expose-on-angela-lists-nguvu-konongo-mines/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T23:50:32.000Z",
-      "summary": "Investigative journalist Anas Aremeyaw Anas is preparing to publish an investigation into the operations of Nguvu/Konongo Mines, owned by Angela List, with a focus on the dispute…",
+      "title": "GRA named PR Organisation of the Year",
+      "link": "https://ghanaiantimes.com.gh/gra-named-pr-organisation-of-the-year/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:35:45.000Z",
+      "summary": "THE Ghana Revenue Authority (GRA) has been named Public Relations (PR) Organisation of the Year 2025 in the Public Sector Category at the Institute of Public Relations, Ghana (IPR Ghana)…",
       "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/GRA-named-PR-Organisation-of-the-Year-Mrs-Florence-Asante-819x1024.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NSCS consults stakeholders on new security strategy",
+      "link": "https://ghanaiantimes.com.gh/nscs-consults-stakeholders-on-new-security-strategy/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:31:55.000Z",
+      "summary": "THE National Security Council Secretariat (NSCS) is engaging key stakeholders in the Bono, Bono East and Ahafo regions to gather their views on the development of Ghana’s National Security…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "MTN invests $1.1bn to expand network over 3 years",
+      "link": "https://ghanaiantimes.com.gh/mtn-invests-1-1bn-to-expand-network-over-3-years/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:28:22.000Z",
+      "summary": "MTN Ghana is investing US$1.1 billion over the next three years to expand its network infrastructure, improve service quality and extend connectivity to underserved communities across the…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "National Theatre to host Funworld 2026",
+      "link": "https://ghanaiantimes.com.gh/national-theatre-to-host-funworld-2026/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:26:10.000Z",
+      "summary": "The National Theatre of Ghana is set to host the fifth edition of Funworld 2026, an initiative aimed at nurturing young talent while promoting mental health awareness and breast cancer…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana’s AFCON U20 bid faces major stadium crisis as CAF flags venues",
+      "link": "https://www.myjoyonline.com/ghanas-afcon-u20-bid-faces-major-stadium-crisis-as-caf-flags-venues/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T08:24:55.000Z",
+      "summary": "A CAF technical inspection report has identified significant infrastructure deficiencies at four of the five stadiums proposed by Ghana to host the 2027 Africa U20 Cup of Nations, with Baba…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "Black Satellites",
+        "CAF",
+        "U20 AFCON"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/legon-sports-stadium-1024x575.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Artist turns street hawkers’ hustle into art",
+      "link": "https://ghanaiantimes.com.gh/artist-turns-street-hawkers-hustle-into-art/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:14:17.000Z",
+      "summary": "THE daily hustle of street hawkers in Accra has been given artistic expression in a new exhibition seeking to draw attention to their resilience, creativity and contribution to the city’s…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "MahamaCares must reach vulnerable patients — Minister",
+      "link": "https://ghanaiantimes.com.gh/mahamacares-must-reach-vulnerable-patients-minister/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:11:09.000Z",
+      "summary": "THE Northern Regional Minister, Mr Ali Adolf John Mburidiba, has called for intensified public education and stronger stakeholder collaboration to ensure that eligible patients in the…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/MahamaCares-xx-1024x768.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Political independence must translate into improved living conditions — Sierra Leonean President",
+      "link": "https://ghanaiantimes.com.gh/political-independence-must-translate-into-improved-living-conditions-sierra-leonean-president/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:09:07.000Z",
+      "summary": "Sierra Leonean President, Julius Maada Bio, has stated that political independence must translate into improved living conditions through education, food security, industrial development…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana Water honours loyal commercial customers",
+      "link": "https://ghanaiantimes.com.gh/ghana-water-honours-loyal-commercial-customers/",
+      "source": "Ghanaian Times",
+      "published": "2026-10-30T08:06:27.000Z",
+      "summary": "GHANA Water Limited (GWL), Accra West Region, has recognised two major commercial customers, GIHOC Distilleries and KANE-EM Limited, for their prompt payment of bills. The recognition, held…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police confirm crash while driving and facing oncoming traffic in opposite lane, but denies abandoning victim on the road",
+      "link": "https://www.graphic.com.gh/news/general-news/police-confirm-crash-while-driving-and-facing-oncoming-traffic-in-opposite-lane-but-denies-abandoning-victim-on-the-road.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T06:50:24.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/police1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Galamsey fight will fail without mindset change — Young Dee Group CEO",
+      "link": "https://www.myjoyonline.com/galamsey-fight-will-fail-without-mindset-change-young-dee-group-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T06:37:54.000Z",
+      "summary": "Young Dee Group Chief Executive Officer Desmond Darko has urged Ghana’s leaders to address what he describes as the mindset driving illegal mining (galamsey), arguing that enforcement alone…",
+      "categories": [
+        "National",
         "News",
-        "Anas",
-        "Angela List",
+        "Galamsey",
         "Gold",
         "Mining"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Angela-List-pledges-to-maximise-Angela-List-500x470-1.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Desmond-Darko9.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Leonant Yert retains position as Most Outstanding PR Agency",
-      "link": "https://www.myjoyonline.com/leonant-yert-retains-position-as-most-outstanding-pr-agency/",
+      "title": "AFCON back to every two years as CAF reverses decision",
+      "link": "https://www.myjoyonline.com/afcon-back-to-every-two-years-as-caf-reverses-decision/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T23:32:01.000Z",
-      "summary": "Leonant Yert Ltd has been named the “Most Outstanding Public Relations Agency (PR Consultancy of the Year)” for the 2025 review period at the 2026 Institute of Public Relations (IPR), PR…",
+      "published": "2026-10-30T06:16:24.000Z",
+      "summary": "The Confederation of African Football (CAF) has reversed its decision to hold the Africa Cup of Nations every four years, restoring the tournament’s two-year cycle.",
       "categories": [
-        "Events",
+        "Africa",
+        "Football",
+        "HP News 9",
+        "AFCON",
+        "CAF"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/CAF-TROPHY.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minerals Commission tells Northern Ashanti Mines to fight lease termination in court, not media",
+      "link": "https://www.myjoyonline.com/minerals-commission-tells-northern-ashanti-mines-to-fight-lease-termination-in-court-not-media/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T05:53:00.000Z",
+      "summary": "The Minerals Commission has urged Northern Ashanti Mines Limited to pursue its legal challenge against the termination of its mining leases and prospecting licences in court rather than…",
+      "categories": [
         "National",
-        "News",
-        "Leonant Yert",
-        "Nii Okai Nunoo",
-        "PR Consultancy of the Year"
+        "Media",
+        "Minerals Commission",
+        "Northern Ashanti Mines"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Team-Trophy-Portrait-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ISAAC.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Communications Minister Sam George confirmed as chair of AU STC on Communication and ICT",
-      "link": "https://www.myjoyonline.com/communications-minister-sam-george-confirmed-as-chair-of-au-stc-on-communication-and-ict/",
+      "title": "2027 Budget to prioritise jobs, productivity and higher incomes – Nyarko Ampem",
+      "link": "https://www.myjoyonline.com/2027-budget-to-prioritise-jobs-productivity-and-higher-incomes-nyarko-ampem/",
       "source": "MyJoyOnline",
-      "published": "2026-10-29T22:57:31.000Z",
-      "summary": "Minister for Communication, Digital Technology and Innovations, Samuel Nartey George (MP), has been confirmed as Chair of the African Union Specialised Technical Committee on Communication…",
+      "published": "2026-10-30T05:46:04.000Z",
+      "summary": "The government is expected to place job creation, increased productivity and economic growth at the centre of its 2027 Budget as it seeks to turn recent improvements in economic stability…",
       "categories": [
-        "News",
-        "Ghana",
-        "ICT",
-        "Sam George"
+        "National",
+        "2027 Budget",
+        "Jobs",
+        "Nyarko Ampem"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-r-e1793314645809-1024x507.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-09-at-20.28.55-819x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Patrick Stewart, best known for “Star Trek” and “X-Men,” dies at 86",
-      "link": "https://www.myjoyonline.com/patrick-stewart-best-known-for-star-trek-and-x-men-dies-at-86/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T22:43:50.000Z",
-      "summary": "Legendary actor Sir Patrick Stewart, best known for his work in the \"Star Trek\" and \"X-Men\" franchises and his prolific award-winning stage career, has died at 86 years old, his…",
+      "title": "[VIDEO] 15-year-old Ghanaian fatally shot on his way to school in New York; Dad believes bullying led to son being killed",
+      "link": "https://www.graphic.com.gh/news/general-news/dad-believes-bullying-led-to-son-being-shot-and-killed-on-way-to-school-in-the-bronx.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T05:08:26.000Z",
+      "summary": "",
       "categories": [
-        "Movies",
-        "Patrick Stewart",
-        "Star Trek",
-        "X-Men"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/gettyimages-1199369522-1024x682.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Court remands four over Worawora disturbances",
-      "link": "https://www.myjoyonline.com/court-remands-four-over-worawora-disturbances/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T22:41:00.000Z",
-      "summary": "The Dambai Circuit Court has remanded four people to police custody over their alleged involvement in disturbances at Dwabrem-Worawora in the Oti Region.",
-      "categories": [
-        "News"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Remanded-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP opens applications for 2028 parliamentary candidates",
-      "link": "https://ghanaiantimes.com.gh/npp-opens-applications-for-2028-parliamentary-candidates/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:18:28.000Z",
-      "summary": "The New Patriotic Party (NPP) has opened applications for members interested in contesting as its parliamentary candidates in the 2028 general elections. In a statement issued on Thursday…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "eputy Foreign Minister accompanies Veep to Shanghai to champion Global South reform, industrial drive",
-      "link": "https://ghanaiantimes.com.gh/eputy-foreign-minister-accompanies-veep-to-shanghai-to-champion-global-south-reform-industrial-drive/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:16:19.000Z",
-      "summary": "Deputy Minister for Foreign Affairs, James Gyakye Quayson, accompanied Vice-President Prof. Jane Naana Opoku-Agyemang on a successful working visit to Shanghai, China, from 15th to 19th…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-17.31.46-1024x845.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Russia supports Ghana’s bid to join BRICS as partner country",
-      "link": "https://ghanaiantimes.com.gh/russia-supports-ghanas-bid-to-join-brics-as-partner-country/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:14:43.000Z",
-      "summary": "Russian Foreign Minister Sergey Lavrov has announced that Russia strongly supports Ghana’s application to join BRICS as a partner country. Mr. Lavrov made the announcement at a breakfast…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police arrest three suspects in murder of 34-year-old man at Kasoa",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-three-suspects-in-murder-of-34-year-old-man-at-kasoa/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:13:16.000Z",
-      "summary": "The Central East Regional Police Command has arrested three suspects in connection with the murder of a 34-year-old mobile money vendor at Kasoa in the Central Region. The suspects have…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Foreign Minister’s talks with Canadian Secretary yield concrete deliverables",
-      "link": "https://ghanaiantimes.com.gh/foreign-ministers-talks-with-canadian-secretary-yield-concrete-deliverables/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:11:41.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has concluded his working visit to Canada following what has been described as very positive and meaningful discussions with the…",
-      "categories": [
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Central Regional Health Director urges heightened Ebola surveillance as supportive visits continue",
-      "link": "https://ghanaiantimes.com.gh/central-regional-health-director-urges-heightened-ebola-surveillance-as-supportive-visits-continue/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:09:42.000Z",
-      "summary": "The Central Regional Director of Health Services, Dr. Mrs. Alberta Biritwum-Nyarko, has urged health workers across the region to heighten surveillance, strengthen preparedness and remain…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NIA arrests six, terminates appointment of seven others over alleged extortion at Galaka registration centre",
-      "link": "https://ghanaiantimes.com.gh/nia-arrests-six-terminates-appointment-of-seven-others-over-alleged-extortion-at-galaka-registration-centre/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:07:40.000Z",
-      "summary": "The National Identification Authority (NIA) has taken disciplinary action following reports of alleged extortion during the recently concluded free Ghana Card registration exercise for…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "“We can beat the deadline” – Akandoh urges faster work on La General Hospital",
-      "link": "https://ghanaiantimes.com.gh/we-can-beat-the-deadline-akandoh-urges-faster-work-on-la-general-hospital/",
-      "source": "Ghanaian Times",
-      "published": "2026-10-29T18:02:44.000Z",
-      "summary": "Health Minister Kwabena Mintah Akandoh has urged contractors working on the La General Hospital project to speed up work in order to beat its January 2028 completion deadline. Speaking…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-17.21.39-3-1024x682.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/javits.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Court dismisses Adu-Boahene’s application to expunge prosecution’s submissions",
@@ -318,18 +344,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Police arrest 3 over alleged murder of 34-year-old mobile money vendor at a guest house in Kasoa",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-three-over-alleged-murder-of-34-year-old-mobile-money-vendor-at-kasoa-guest-house.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T15:24:38.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2018/mar/31/murder.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Ampem Darkoa Ladies beat Edo Queens to book CAF Women’s Champions League spot",
       "link": "https://www.graphic.com.gh/sports/sports-news/ampem-darkoa-ladies-beat-edo-queens-to-book-caf-womens-champions-league-spot.html",
       "source": "Graphic Sports",
@@ -340,18 +354,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/29/AMPEM_DARKOA.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Government sets November 12 for 2027 Budget presentation",
-      "link": "https://www.graphic.com.gh/news/general-news/government-sets-november-12-for-2027-budget-presentation.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T14:54:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/AMPEM.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "FIFA U-17 Women's World Cup: Adarkwah targets semi-final spot after Black Maidens beat Argentina",
