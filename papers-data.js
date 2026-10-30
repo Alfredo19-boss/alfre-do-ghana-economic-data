@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-29T23:35:16.625Z",
+  "updated": "2026-10-30T02:53:52.911Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,66 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Stable economy, cheaper credit key to youth jobs — BoG Governor",
+      "link": "https://www.myjoyonline.com/stable-economy-cheaper-credit-key-to-youth-jobs-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T00:13:35.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, says falling lending rates and stronger private sector credit growth are among the gains from recent macroeconomic…",
+      "categories": [
+        "News",
+        "Asiama",
+        "Bank of Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-16.03.04-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "BoG turns to AI to strengthen financial-sector oversight",
+      "link": "https://www.myjoyonline.com/bog-turns-to-ai-to-strengthen-financial-sector-oversight/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T00:07:53.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr Johnson Pandit Asiama, has called for a dedicated digital platform to make the country’s official statistics more accessible, saying wider access…",
+      "categories": [
+        "News",
+        "AI",
+        "Bank of Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-16.03.03-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Breast that feeds the future: Nurture it, Protect it, Check it",
+      "link": "https://www.myjoyonline.com/the-breast-that-feeds-the-future-nurture-it-protect-it-check-it/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T23:51:48.000Z",
+      "summary": "Why breastfeeding and breast cancer are one story, and why women and men must both read it In the first hour of life, a mother’s breast delivers colostrum, the baby’s first vaccine. Over…",
+      "categories": [
+        "Features",
+        "Lifestyle",
+        "News",
+        "Breast",
+        "Dorcas Zenabu Seidu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/is-breast-really-best-1646919104.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Anas announces exposé on Angela List’s Nguvu/Konongo Mines",
+      "link": "https://www.myjoyonline.com/anas-announces-expose-on-angela-lists-nguvu-konongo-mines/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-29T23:50:32.000Z",
+      "summary": "Investigative journalist Anas Aremeyaw Anas is preparing to publish an investigation into the operations of Nguvu/Konongo Mines, owned by Angela List, with a focus on the dispute…",
+      "categories": [
+        "News",
+        "Anas",
+        "Angela List",
+        "Gold",
+        "Mining"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Angela-List-pledges-to-maximise-Angela-List-500x470-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Leonant Yert retains position as Most Outstanding PR Agency",
       "link": "https://www.myjoyonline.com/leonant-yert-retains-position-as-most-outstanding-pr-agency/",
@@ -81,68 +141,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Remanded-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr. Bawumia confers with KAS Secretary-General; discusses Ghana’s future and NPP reorganisation",
-      "link": "https://www.myjoyonline.com/dr-bawumia-confers-with-kas-secretary-general-discusses-ghanas-future-and-npp-reorganisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T22:35:33.000Z",
-      "summary": "Former Vice President and NPP Presidential Candidate, Dr. Mahamudu Bawumia, has held high-level talks with the Secretary-General of the Konrad-Adenauer-Stiftung (KAS), Dr. Mark Speich, in…",
-      "categories": [
-        "National",
-        "Politics",
-        "Bawumia",
-        "KAS",
-        "Konrad-Adenauer-Stiftung",
-        "New Patriotic Party",
-        "NPP"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Bawumia_KAS.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana targets $1.2bn investment and 150,000 jobs under new textile policy",
-      "link": "https://www.myjoyonline.com/ghana-targets-1-2bn-investment-and-150000-jobs-under-new-textile-policy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T22:25:04.000Z",
-      "summary": "Ghana is targeting about $1.2 billion in investment and 150,000 direct and indirect jobs over the next decade under a new textile and garment policy approved by Cabinet. The policy, which…",
-      "categories": [
-        "Business",
-        "Economy",
-        "garment policy",
-        "Jobs",
-        "TEXTILE"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-22.11.00-1-1024x684.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "link": "https://www.myjoyonline.com/google-value-plunges-by-500bn-as-ai-fears-rattle-wall-street/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T22:24:00.000Z",
-      "summary": "Google parent Alphabet lost just over $500bn (£374bn) in value on Thursday after it rattled Wall Street with its last update of the year on its business operations.",
-      "categories": [
-        "Business",
-        "International",
-        "AI",
-        "Google"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1580-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UPSA Graduates 1,314 Students at 18th Congregation",
-      "link": "https://www.myjoyonline.com/upsa-graduates-1314-students-at-18th-congregation/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T22:17:25.000Z",
-      "summary": "The University of Professional Studies, Accra (UPSA), on Wednesday held the third session of its 18th Congregation at the Kofi Ohene Konadu Auditorium, where 1,314 students from the Faculty…",
-      "categories": [
-        "Photo Story",
-        "UPSA Congragation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_3778_2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {

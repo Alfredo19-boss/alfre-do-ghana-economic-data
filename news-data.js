@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-29T23:35:01.875Z",
-  "worldAt": "2026-10-29T23:35:01.873Z",
+  "updated": "2026-10-30T02:53:41.741Z",
+  "worldAt": "2026-10-30T02:53:41.738Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -24,11 +24,11 @@ window.GDC_NEWS = {
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
-    "Ghana News Agency: 1/1 stories",
+    "Ghana News Agency: failed (HTTP 415)",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
@@ -41,7 +41,7 @@ window.GDC_NEWS = {
     "Africa · AllAfrica Business: 33 stories",
     "Africa · Africanews: 22 stories",
     "Africa · BBC Africa: 36 stories",
-    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Deutsche Welle: 3 stories",
     "Africa · Al Jazeera: 2 stories",
     "world lists: 40 world, 40 African stories held"
   ],
@@ -1099,6 +1099,57 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Husband of one of Modi’s closest advisors questions election integrity",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T02:41:18.000Z",
+      "summary": "The husband of India’s finance minister in the Modi government has joined mass protests against voter-list revision."
+    },
+    {
+      "title": "Netanyahu bloc in lead without majority in Israel election, say official results",
+      "link": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results",
+      "source": "France 24",
+      "published": "2026-10-30T02:29:17.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu's coalition won the most seats in the general election but fell eight short of a parliamentary majority, final results showed Friday. Arab party…",
+      "image": "https://s.france24.com/media/display/0b800e90-d404-11f1-acfb-bf1914cabd52/w:1024/p:16x9/AP26300421850547-1.jpg"
+    },
+    {
+      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T02:40:26.000Z",
+      "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud."
+    },
+    {
+      "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
+      "link": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
+      "source": "France 24",
+      "published": "2026-10-30T00:22:55.000Z",
+      "summary": "North Korea has tested attack drones, cruise missiles and rocket launchers at a weapons demonstration, state media reported Friday, as Kim Jong Un called for faster development of military…",
+      "image": "https://s.france24.com/media/display/8f840fcc-d3f3-11f1-bc65-1beafce15fea/w:1024/p:16x9/2026-10-29T230502Z-1125020976-RC29DOAMMSDH-RTRMADP-3-NORTHKOREA-ARMS.jpg"
+    },
+    {
+      "title": "Fujimori tours El Salvador mega-prison with hopes to build one in Peru",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fujimori-tours-el-salvador-mega-prison-with-hopes-to-build-one-in-peru?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T02:38:35.000Z",
+      "summary": "Peru’s President Keiko Fujimori has inspected El Salvador’s mega-prison as she mulls a proposal to build one in Peru."
+    },
+    {
+      "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+      "link": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
+      "source": "Africanews",
+      "published": "2026-10-29T23:15:11.000Z",
+      "summary": "A Russian strike on Chernihiv killed two 15-year-old girls and injured 25 people, local officials say. Meanwhile, a US-brokered ceasefire in southern Ukraine is allowing demining work aimed…"
+    },
+    {
+      "title": "Salvadoran ex-president Saca released after 10-year sentence for corruption",
+      "link": "https://www.aljazeera.com/news/2026/10/30/salvadoran-ex-president-saca-released-after-serving-a-10-year-sentence-for-corruption?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T02:38:34.000Z",
+      "summary": "Elias Antonio Saca confessed to diverting more than $300m in public funds during his presidency and accepted a plea barg"
+    },
+    {
       "title": "Pressure grows for Venezuela's authoritarian regime as opposition leader Machado returns",
       "link": "https://www.npr.org/2026/10/29/nx-s1-6019294/pressure-grows-for-venezuelas-authoritarian-regime-as-opposition-leader-machado-returns",
       "source": "NPR World",
@@ -1106,11 +1157,55 @@ window.GDC_NEWS = {
       "summary": "Maria Corina Machado's return to Venezuela presents a fresh challenge for Trump-backed President Delcy Rodríguez and reignites questions over the prospect of new elections."
     },
     {
-      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-      "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
+      "title": "Trump administration renews bid to block Alaska election results",
+      "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T22:36:06.000Z",
-      "summary": "Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia."
+      "published": "2026-10-30T01:30:30.000Z",
+      "summary": "The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters."
+    },
+    {
+      "title": "Spain: minute of silence for train crash victims as king visits hospital",
+      "link": "http://www.africanews.com/2026/10/29/spain-minute-of-silence-for-train-crash-victims-as-king-visits-hospital/",
+      "source": "Africanews",
+      "published": "2026-10-29T22:48:06.000Z",
+      "summary": "Spain is mourning 69 people killed in a high-speed train collision near Toledo. As King Felipe VI visits a hospital treating the injured, rescuers continue searching the wreckage and a…"
+    },
+    {
+      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T01:05:26.000Z",
+      "summary": "Fighting over disputed land and water in Ethiopia’s Moyale border region has driven thousands of people into Kenya."
+    },
+    {
+      "title": "Tunisians drawn into Russia's war in Ukraine",
+      "link": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
+      "source": "France 24",
+      "published": "2026-10-29T21:48:35.000Z",
+      "summary": "In tonight's edition, concern is growing in Tunisia as the families of several men who travelled to Russia for work or study are still searching for an answer about the fate of their loved…",
+      "image": "https://s.france24.com/media/display/2cadb6f8-d3e1-11f1-a5ad-1beafce15fea/w:1024/p:16x9/DN00001661-VOD-00013390-01.jpg"
+    },
+    {
+      "title": "EU force helicopter crash kills four in Bosnia",
+      "link": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T00:56:49.000Z",
+      "summary": "EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead."
+    },
+    {
+      "title": "Across Africa: Real estate scams growing in Ivory Coast",
+      "link": "https://www.france24.com/en/across-africa-real-estate-scams-growing-in-ivory-coast",
+      "source": "France 24",
+      "published": "2026-10-29T21:43:05.000Z",
+      "summary": "This week in Across Africa: in Ivory Coast, severe housing shortage has fueled demand for land, creating opportunities for fraudsters selling fake properties and non-existent plots. Also…",
+      "image": "https://s.france24.com/media/display/c953c386-d3ae-11f1-8a47-bf1914cabd52/w:1024/p:16x9/MG00000337-VOD-00010408.jpg"
+    },
+    {
+      "title": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
+      "link": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T00:44:50.000Z",
+      "summary": "The Republican National Committee has announced broadcasts in nearly 20 states after Trump nixes final rallies."
     },
     {
       "title": "Young athlete and former minister among victims of Spain train crash",
@@ -1121,11 +1216,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg"
     },
     {
-      "title": "Trump administration attempts to take down leak of ICE personnel data",
-      "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
+      "title": "Armenian parliament turns into a boxing ring, third time in a month",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T22:16:51.000Z",
-      "summary": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest."
+      "published": "2026-10-30T00:36:03.000Z",
+      "summary": "Armenia’s parliament descended into fisticuffs after a ruling-party MP mocked the opposition leader’s family."
     },
     {
       "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
@@ -1136,11 +1231,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+      "title": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
+      "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T21:16:26.000Z",
-      "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site."
+      "published": "2026-10-30T00:29:24.000Z",
+      "summary": "Binance founder says world's largest crypto exchange appears to have been hacked."
     },
     {
       "title": "ECB President Lagarde steps down in order to speak out",
@@ -1151,11 +1246,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/8563ebde-d3da-11f1-8881-d18c5759e759/w:1024/p:16x9/capture-d2428e16.jpg"
     },
     {
-      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+      "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T21:10:13.000Z",
-      "summary": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained."
+      "published": "2026-10-30T00:11:20.000Z",
+      "summary": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week."
     },
     {
       "title": "Watch: What leaked audio reveals about Spain train crash",
@@ -1166,11 +1261,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46f/live/7d9cd370-d3e4-11f1-9caf-3b69fd8bbd8b.jpg"
     },
     {
-      "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
+      "title": "What does bourbon have to do with the US midterms?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T20:42:03.000Z",
-      "summary": "Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision."
+      "published": "2026-10-30T00:08:50.000Z",
+      "summary": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually."
     },
     {
       "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
@@ -1181,11 +1276,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/ecf64a00-d3d3-11f1-9c32-1532a6164171.jpg"
     },
     {
-      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T20:40:03.000Z",
-      "summary": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel's military offensive continues."
+      "published": "2026-10-30T00:00:00.000Z",
+      "summary": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes."
     },
     {
       "title": "Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86",
@@ -1196,11 +1291,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3f9776de-d3d5-11f1-8290-695cb59fade5/w:1024/p:16x9/AP26302717036908.jpg"
     },
     {
-      "title": "Does Russia offer African countries an equal partnership?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership?traffic_source=rss",
+      "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
+      "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T20:34:28.000Z",
-      "summary": "President Vladimir Putin hosts African leaders at a summit in Moscow."
+      "published": "2026-10-29T23:52:30.000Z",
+      "summary": "Authorities vow firm action against violence as yellow vest and student movements announce widespread demonstrations."
     },
     {
       "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
@@ -1211,11 +1306,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0d12be2a-d3d1-11f1-a517-695cb59fade5/w:1024/p:16x9/EN-20261029-181811-182756-CS.jpg"
     },
     {
-      "title": "Israel election result shows no overall majority as vote count complete",
-      "link": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+      "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+      "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T20:22:04.000Z",
-      "summary": "Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority."
+      "published": "2026-10-29T22:36:06.000Z",
+      "summary": "Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia."
     },
     {
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
@@ -1226,12 +1321,26 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb9/live/fe693560-d3c2-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "title": "Trump administration attempts to take down leak of ICE personnel data",
+      "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T22:16:51.000Z",
+      "summary": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest."
+    },
+    {
       "title": "What killed 500-plus penguins? How scientists solved the mystery",
       "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
       "source": "NPR World",
       "published": "2026-10-29T20:03:26.000Z",
       "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F04%2Fc5dc45604e3b8d741917e4b6b3ec%2Fadelie-penguins-c-ralph-vanstreels-uc-davis-12.jpg"
+    },
+    {
+      "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T21:16:26.000Z",
+      "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site."
     },
     {
       "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
@@ -1242,11 +1351,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0d12be2a-d3d1-11f1-a517-695cb59fade5/w:1024/p:16x9/EN-20261029-181811-182756-CS.jpg"
     },
     {
-      "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
-      "link": "https://www.aljazeera.com/news/2026/10/29/man-targeted-muslims-africans-and-north-africans-french-prosecutors-say?traffic_source=rss",
+      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T20:00:26.000Z",
-      "summary": "Prosecutor Olivier Christen said suspect admitted that he chose the location because it was 'a hotbed for Islamists'."
+      "published": "2026-10-29T21:10:13.000Z",
+      "summary": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained."
     },
     {
       "title": "Michigan's El-Sayed targeted by Republicans in Midterms race: Will the religion card work?",
@@ -1257,6 +1366,13 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5700bacc-d3cd-11f1-94a8-d18c5759e759/w:1024/p:16x9/EN-20261029-191045-195420-CS.jpg"
     },
     {
+      "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:42:03.000Z",
+      "summary": "Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision."
+    },
+    {
       "title": "Cameroon families demand return of relatives from Ukraine",
       "link": "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/",
       "source": "Africanews",
@@ -1264,11 +1380,11 @@ window.GDC_NEWS = {
       "summary": "In Cameroon, the “Bring Back Our Sons and Brothers” collective organised a peaceful march on Wednesday, 28 October, to the Russian embassy. They are calling on Russia and the Cameroonian…"
     },
     {
-      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
-      "link": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
+      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-29T19:23:33.000Z",
-      "summary": "Faculty vote will continue until next Friday and could send message that school's president has lost their confidence."
+      "published": "2026-10-29T20:40:03.000Z",
+      "summary": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel's military offensive continues."
     },
     {
       "title": "Libya’s central bank targeted in overnight raid raising fresh concerns",
@@ -1276,128 +1392,23 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-29T19:01:46.000Z",
       "summary": "Libya's central bank on Thursday said unidentified individuals raided its headquarters in Tripoli, hours after parliament said it had accepted a request from its governor to resign."
-    },
-    {
-      "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-      "link": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T19:21:19.000Z",
-      "summary": "Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen."
-    },
-    {
-      "title": "No clear majority emerges as Israel counts final election votes",
-      "link": "http://www.africanews.com/2026/10/29/no-clear-majority-emerges-as-israel-counts-final-election-votes/",
-      "source": "Africanews",
-      "published": "2026-10-29T18:48:53.000Z",
-      "summary": "The Israeli Elections Committee continued counting votes on Thursday from envelopes cast by voters authorized to vote outside their assigned polling stations."
-    },
-    {
-      "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T19:06:00.000Z",
-      "summary": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu."
-    },
-    {
-      "title": "French shooting suspect deliberately targeted Muslims, Africans",
-      "link": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
-      "source": "France 24",
-      "published": "2026-10-29T18:45:57.000Z",
-      "summary": "A man suspected of a gun attack in the Paris suburbs last week, killing one person and wounding seven including a child, has admitted to \"targeting individuals who appeared to be Muslim…",
-      "image": "https://s.france24.com/media/display/50cae506-d3af-11f1-b622-695cb59fade5/w:1024/p:16x9/capture-09376662.jpg"
-    },
-    {
-      "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
-      "link": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T19:02:33.000Z",
-      "summary": "Palestinian voters could decide Israel’s future, but its political class refuses to accept their mandate"
-    },
-    {
-      "title": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
-      "link": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
-      "source": "France 24",
-      "published": "2026-10-29T18:15:38.000Z",
-      "summary": "As France continues to pick up the pieces after riots and looting broke out on the fringes of nationwide peaceful demonstrations on October 17, the government is pushing forward a bill that…",
-      "image": "https://s.france24.com/media/display/a9aecc2c-cadc-11f1-93d3-d1d2c32ebb87/w:1024/p:16x9/2026-10-18T095418Z-932457184-RC2J5OAZZ1QE-RTRMADP-3-FRANCE-PROTEST.jpg"
-    },
-    {
-      "title": "Pentagon fires general it says leaked classified information to media",
-      "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T19:02:19.000Z",
-      "summary": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine."
-    },
-    {
-      "title": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
-      "link": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back",
-      "source": "France 24",
-      "published": "2026-10-29T18:09:28.000Z",
-      "summary": "Erin Ogunkeye welcomes Lt. General (ret.) Ben Hodges, former commander of US Army Europe and NATO Allied Land Command. The dismissal of senior military officers without public explanation…",
-      "image": "https://s.france24.com/media/display/ee055ada-d3bf-11f1-980e-bf1914cabd52/w:1024/p:16x9/EN-20261029-161020-161914-CS.jpg"
-    },
-    {
-      "title": "Texas Republican group seeks to block certification of state’s election",
-      "link": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T18:40:01.000Z",
-      "summary": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted."
-    },
-    {
-      "title": "'An absurdity' to blame human error: Spain's deadly train crash 'should never' have happened",
-      "link": "https://www.france24.com/en/an-absurdity-to-blame-human-error-spain-s-deadly-train-crash-should-never-have-happened",
-      "source": "France 24",
-      "published": "2026-10-29T17:15:50.000Z",
-      "summary": "Following Spain's deadly high-speed train crash, Delano D'Souza is joined by Francisco Badea, Director of FEM Expert Engineering, Railway Structural & PRM Certification Expert. Batea…",
-      "image": "https://s.france24.com/media/display/7c4f7ce0-d3b5-11f1-a302-695cb59fade5/w:1024/p:16x9/EN-20261029-130810-131417-CS.jpg"
-    },
-    {
-      "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-      "link": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T18:30:04.000Z",
-      "summary": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate."
-    },
-    {
-      "title": "DR Congo: A centre celebrates the discharge of last Ebola patients",
-      "link": "https://www.france24.com/en/video/20261029-dr-congo-a-centre-celebrates-the-discharge-of-last-ebola-patients",
-      "source": "France 24",
-      "published": "2026-10-29T17:13:52.000Z",
-      "summary": "Medical staff and residents at a treatment centre in Ituri danced and sang to celebrate a first since May: the centre is no longer treating any confirmed Ebola cases.",
-      "image": "https://s.france24.com/media/display/aed2a692-d3ba-11f1-b307-695cb59fade5/w:1024/p:16x9/EN-RDC-Ebola-10.png"
-    },
-    {
-      "title": "Finland launches criminal probe of suspected environmental damage by Google",
-      "link": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T18:24:13.000Z",
-      "summary": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland."
-    },
-    {
-      "title": "Ireland becomes refuge for anti-Trump Americans",
-      "link": "https://www.france24.com/en/tv-shows/reporters/20261029-ireland-becomes-refuge-for-anti-trump-americans",
-      "source": "France 24",
-      "published": "2026-10-29T17:08:46.000Z",
-      "summary": "They have left everything behind to get away from US President Donald Trump's America. Entrepreneurs, academics, scientists and students: tens of thousands of US citizens have moved to…",
-      "image": "https://s.france24.com/media/display/90f160cc-d2cb-11f1-b457-75c7729144f1/w:1024/p:16x9/FR-EN.jpg"
-    },
-    {
-      "title": "Al Jazeera marks 30th anniversary with network overhaul",
-      "link": "https://www.aljazeera.com/news/2026/10/29/al-jazeera-marks-30th-anniversary-with-network-overhaul?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T18:20:07.000Z",
-      "summary": "Marking three decades, Al Jazeera unveils a new structure: three channels, 33 programmes, and tech-driven innovation."
-    },
-    {
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-29T17:02:59.000Z",
-      "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b497/live/e5c53340-d3ba-11f1-8c27-87a7c72809db.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T01:05:26.000Z",
+      "summary": "Fighting over disputed land and water in Ethiopia’s Moyale border region has driven thousands of people into Kenya."
+    },
+    {
+      "title": "Egypt: African Water Facility Launches 2026-2030 Strategy At Cairo Water Week",
+      "link": "https://allafrica.com/stories/202610300003.html",
+      "source": "AllAfrica Business",
+      "published": "2026-10-30T00:05:39.000Z",
+      "summary": "[African Development Bank (AfDB)] The African Development Bank Group launched its 2026-2030 African Water Facility Strategy at Cairo Water Week. The launch renews the call for African…"
+    },
     {
       "title": "Ghana: Breast Cancer Claims Nearly 2,000 Lives Yearly - Gender Minister",
       "link": "https://allafrica.com/stories/202610290657.html",
@@ -1668,20 +1679,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-10-29T11:16:35.000Z",
       "summary": "[Premium Times] The approval follows the earlier request by the Ekiti State Governor Biodun Oyebanji to reappoint three ex-commissioners and 10 special advisers."
-    },
-    {
-      "title": "Africa: Russia-Africa Summit - Ghana Must Count the Cost of a Deeper Partnership",
-      "link": "https://allafrica.com/stories/202610290396.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-29T11:31:14.000Z",
-      "summary": "[Ghanaian Times] As Moscow courts African governments with promises of trade, investment and security cooperation, Accra must guard against opaque deals, resource dependence and commercial…"
-    },
-    {
-      "title": "Liberia: Liberia Begins Countdown to UN Security Council Presidency",
-      "link": "https://allafrica.com/stories/202610290367.html",
-      "source": "AllAfrica",
-      "published": "2026-10-29T11:08:31.000Z",
-      "summary": "[Liberian Observer] The Government of Liberia has officially launched its \"Road to the United Nations Security Council Presidency,\" beginning a series of national and diplomatic engagements…"
     }
   ]
 };
