@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-30T09:11:47.147Z",
+  "updated": "2026-10-30T15:56:23.078Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,51 +25,268 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Beyond Degrees: New platform turns every Ghanaian skill into opportunity",
-      "link": "https://www.myjoyonline.com/beyond-degrees-new-platform-turns-every-ghanaian-skill-into-opportunity/",
+      "title": "US inmate Christa Pike says she woke up ‘confused and in pain’ after failed execution",
+      "link": "https://www.myjoyonline.com/us-inmate-christa-pike-says-she-woke-up-confused-and-in-pain-after-failed-execution/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T09:00:00.000Z",
-      "summary": "For millions of young Ghanaians, the search for work has meant the same story: send the CV, wait, hear nothing, and wait again. Today, a new Ghanaian platform says the waiting can end…",
+      "published": "2026-10-30T15:38:02.000Z",
+      "summary": "US death row inmate Christa Pike has released her first public statement since her botched execution in September.",
+      "categories": [
+        "International",
+        "Christa Pike",
+        "US"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2812-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Spain transport minister says he won’t resign over high-speed rail disaster",
+      "link": "https://www.myjoyonline.com/spain-transport-minister-says-he-wont-resign-over-high-speed-rail-disaster/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T15:37:25.000Z",
+      "summary": "Spain's transport minister says he won't resign over the high-speed rail collision that has left at least 69 people dead.",
+      "categories": [
+        "International",
+        "rail disaster",
+        "Spain"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2814-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yazz sanitary pad samples meet GSA microbiological standards – Lexta Ghana",
+      "link": "https://www.myjoyonline.com/yazz-sanitary-pad-samples-meet-gsa-microbiological-standards-lexta-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T15:33:46.000Z",
+      "summary": "Lexta Ghana Limited, manufacturers of Yazz sanitary pads, says product samples submitted to the Ghana Standards Authority (GSA) for independent microbiological assessment have met the…",
+      "categories": [
+        "Health",
+        "National",
+        "GSA",
+        "Yazz sanitary pad"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/GSA-1024x512.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I’ll accept political appointment from Bawumia if it benefits Ghana – Nigel Gaisie",
+      "link": "https://www.myjoyonline.com/ill-accept-political-appointment-from-bawumia-if-it-benefits-ghana-nigel-gaisie/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T15:16:51.000Z",
+      "summary": "The leader of the Prophetic Hill Church, Prophet Nigel Gaisie, has expressed his willingness to accept a political appointment from former Vice-President Dr Mahamudu Bawumia if it would…",
       "categories": [
         "National",
-        "Sankofa Job"
+        "Bawumia",
+        "Prophet Nigel Gaisie"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/06/Nigel-Gaisie.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I was expecting appointment as a Council of State member or Religious Affairs Minister under Mahama — Nigel Gaisie",
+      "link": "https://www.myjoyonline.com/i-was-expecting-appointment-as-a-council-of-state-member-or-religious-affairs-minister-under-mahama-nigel-gaisie/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T15:13:15.000Z",
+      "summary": "The leader of the Prophetic Hill Church, Prophet Nigel Gaisie, has revealed that he had anticipated a political appointment, particularly as a member of the Council of State or Minister…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Council of State",
+        "Nigel Gaisie",
+        "Religious Affairs Minister"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2808.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CSIR communiqué calls for urgent shift from scientific research to scalable commercial technologies",
+      "link": "https://www.myjoyonline.com/csir-communique-calls-for-urgent-shift-from-scientific-research-to-scalable-commercial-technologies/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T15:02:22.000Z",
+      "summary": "In a major policy declaration issued at the conclusion of its maiden National Scientific Conference, the Council for Scientific and Industrial Research (CSIR) has called for an immediate…",
+      "categories": [
+        "National",
+        "Technology",
+        "CSIR",
+        "Research"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-2.49.14-PM-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No hostel, no auditorium: Dr Hilla Limann Technical University freshers use walkway for orientation",
+      "link": "https://www.myjoyonline.com/no-hostel-no-auditorium-dr-hilla-limann-technical-university-freshers-use-walkway-for-orientation/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T14:58:26.000Z",
+      "summary": "Hundreds of freshers at Dr Hilla Limann Technical University in Wa have been forced to hold their orientation under an open walkway due to the university’s lack of an auditorium.",
+      "categories": [
+        "Education",
+        "Regional",
+        "Dr Hilla Limann Technical University",
+        "Freshers",
+        "Orientation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-13.07.48-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gender Minister engages Obuasi SHTS students affected by allegations, assures them of support",
+      "link": "https://www.myjoyonline.com/gender-minister-engages-obuasi-shts-students-affected-by-allegations-assures-them-of-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T14:47:06.000Z",
+      "summary": "The Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has engaged students affected by the alleged sexual abuse at Obuasi Senior High Technical School (SHTS)…",
+      "categories": [
+        "Education",
+        "National",
+        "Dr Agnes Naa Momo Lartey",
+        "Gender Minister",
+        "Obuasi SHTS sexual abuse"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/864787636_1021142894332035_3909368632236841746_n-2-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMTF woos US partners in Nashville to boost cancer care and specialist healthcare in Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/gmtf-woos-us-partners-in-nashville-to-boost-cancer-care-and-specialist-healthcare-in-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T13:39:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
       ],
       "image": null,
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Motsepe defends two-year AFCON cycle, explains decision to shift to 2031 and 2033 editions",
-      "link": "https://www.myjoyonline.com/motsepe-defends-two-year-afcon-cycle-explains-decision-to-shift-to-2031-and-2033-editions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T08:57:32.000Z",
-      "summary": "Confederation of African Football (CAF) president Dr Patrice Motsepe has defended the decision to maintain the Africa Cup of Nations (AFCON) on a two-year cycle, while explaining the…",
+      "title": "9% salary increase is an insult to Ghanaian workers – Minority Caucus",
+      "link": "https://www.graphic.com.gh/news/general-news/9-salary-increase-is-an-insult-to-ghanaian-workers-minority-caucus.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T13:10:49.000Z",
+      "summary": "",
       "categories": [
-        "Football",
-        "HP Sports 2",
-        "Afcon 2028",
-        "Afcon 2031",
-        "Afcon 2033",
-        "CAF President",
-        "Patrice Motsepe"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Patrice-Motsepe-768x432-1.webp",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2025/feb/17/aaaaaaaasalary.png",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Gambia Vice President hails Zoomlion partnership; says it will transform waste management",
-      "link": "https://www.myjoyonline.com/gambia-vice-president-hails-zoomlion-partnership-says-it-will-transform-waste-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T08:41:59.000Z",
-      "summary": "The Vice President of The Gambia, Mohammed B.S. Jallow, described a new integrated waste management partnership between his country and Zoomlion Gambia Integrated Waste Solutions Limited, a…",
+      "title": "'Don't think I don't see them': President Mahama says he monitors TikTok criticism",
+      "link": "https://www.graphic.com.gh/news/general-news/dont-think-i-dont-see-them-president-mahama-says-he-monitors-tiktok-criticism.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T12:40:13.000Z",
+      "summary": "",
       "categories": [
-        "National",
-        "Ga",
-        "Gambia",
-        "waste management",
-        "Zoomlion"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/6-8-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Afcon to return to two-year cycle after Caf U-turn",
+      "link": "https://www.graphic.com.gh/sports/sports-news/afcon-to-return-to-two-year-cycle-after-caf-u-turn.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-30T12:21:49.000Z",
+      "summary": "In December, Caf announced that the tournament would be held every four years instead, but that decision has been reversed after a review. Under the new plans, the governing body was…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/Afcon.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "NIA arrests 6, sacks 7 others over extortion at Galaka Ghana Card Registration Centre",
+      "link": "https://www.graphic.com.gh/news/general-news/nia-arrests-6-sacks-7-others-over-extortion-at-galaka-ghana-card-registration-centre.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T11:58:29.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2022/feb/13/Ghana-Card.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "CAF restores AFCON to two-year cycle, reverses four-year decision",
+      "link": "https://www.graphic.com.gh/sports/sports-news/caf-restores-afcon-to-two-year-cycle-reverses-four-year-decision.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-30T11:31:39.000Z",
+      "summary": "However, it acknowledged that the new competition would take several years to generate sufficient revenue to become financially self-sustaining. CAF President Patrice Motsepe said the…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/CAF2.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Golden Arms grab four silver medals on opening day at World Armwrestling Championships",
+      "link": "https://www.graphic.com.gh/sports/sports-news/golden-arms-grab-four-silver-medals-on-opening-day-at-world-armwrestling-championships.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-30T11:05:51.000Z",
+      "summary": "The four-medal return offers an encouraging start for the team, which travelled to India determined to improve Ghana’s standing among the world’s leading armwrestling nations. Attention now…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/ARMWREST.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Spain Ambassador rallies Black Challenge ahead of World Cup, eyes possible Ghana-Spain final",
+      "link": "https://www.graphic.com.gh/sports/sports-news/spain-ambassador-rallies-black-challenge-ahead-of-world-cup-eyes-possible-ghana-spain-final.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-30T10:52:33.000Z",
+      "summary": "Spain have been drawn in Group B alongside Türkiye, Nigeria and Egypt, while Ghana are in Group D with Colombia, Angola and Iraq, setting up the possibility of a meeting between the two…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/AMPUTEE.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "We’re committed to sustaining gender-responsive governance gains - Parliament assures",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-were-committed-to-sustaining-gender-responsive-governance-gains-parliament-assures.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T10:06:00.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/Rasheed.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana, Côte d’Ivoire to embark on maritime security exercise",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-cote-divoire-to-embark-on-maritime-security-exercise.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T10:01:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/Participants.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Putin’s decision to resume Ukraine talks laudable — Mahama",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-putins-decision-to-resume-ukraine-talks-laudable-mahama.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T09:56:07.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/President.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana’s first nuclear power plant in sight - President Mahama reveals talks begin with Russia",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanas-first-nuclear-power-plant-in-sight-president-mahama-reveals-talks-begin-with-russia.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-30T09:48:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/Mahama.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GRA named PR Organisation of the Year",
@@ -121,22 +338,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Ghana’s AFCON U20 bid faces major stadium crisis as CAF flags venues",
-      "link": "https://www.myjoyonline.com/ghanas-afcon-u20-bid-faces-major-stadium-crisis-as-caf-flags-venues/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T08:24:55.000Z",
-      "summary": "A CAF technical inspection report has identified significant infrastructure deficiencies at four of the five stadiums proposed by Ghana to host the 2027 Africa U20 Cup of Nations, with Baba…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "Black Satellites",
-        "CAF",
-        "U20 AFCON"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/legon-sports-stadium-1024x575.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Artist turns street hawkers’ hustle into art",
       "link": "https://ghanaiantimes.com.gh/artist-turns-street-hawkers-hustle-into-art/",
       "source": "Ghanaian Times",
@@ -186,164 +387,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Police confirm crash while driving and facing oncoming traffic in opposite lane, but denies abandoning victim on the road",
-      "link": "https://www.graphic.com.gh/news/general-news/police-confirm-crash-while-driving-and-facing-oncoming-traffic-in-opposite-lane-but-denies-abandoning-victim-on-the-road.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T06:50:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/police1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Galamsey fight will fail without mindset change — Young Dee Group CEO",
-      "link": "https://www.myjoyonline.com/galamsey-fight-will-fail-without-mindset-change-young-dee-group-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T06:37:54.000Z",
-      "summary": "Young Dee Group Chief Executive Officer Desmond Darko has urged Ghana’s leaders to address what he describes as the mindset driving illegal mining (galamsey), arguing that enforcement alone…",
-      "categories": [
-        "National",
-        "News",
-        "Galamsey",
-        "Gold",
-        "Mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Desmond-Darko9.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFCON back to every two years as CAF reverses decision",
-      "link": "https://www.myjoyonline.com/afcon-back-to-every-two-years-as-caf-reverses-decision/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T06:16:24.000Z",
-      "summary": "The Confederation of African Football (CAF) has reversed its decision to hold the Africa Cup of Nations every four years, restoring the tournament’s two-year cycle.",
-      "categories": [
-        "Africa",
-        "Football",
-        "HP News 9",
-        "AFCON",
-        "CAF"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/CAF-TROPHY.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minerals Commission tells Northern Ashanti Mines to fight lease termination in court, not media",
-      "link": "https://www.myjoyonline.com/minerals-commission-tells-northern-ashanti-mines-to-fight-lease-termination-in-court-not-media/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T05:53:00.000Z",
-      "summary": "The Minerals Commission has urged Northern Ashanti Mines Limited to pursue its legal challenge against the termination of its mining leases and prospecting licences in court rather than…",
-      "categories": [
-        "National",
-        "Media",
-        "Minerals Commission",
-        "Northern Ashanti Mines"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ISAAC.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget to prioritise jobs, productivity and higher incomes – Nyarko Ampem",
-      "link": "https://www.myjoyonline.com/2027-budget-to-prioritise-jobs-productivity-and-higher-incomes-nyarko-ampem/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T05:46:04.000Z",
-      "summary": "The government is expected to place job creation, increased productivity and economic growth at the centre of its 2027 Budget as it seeks to turn recent improvements in economic stability…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "Jobs",
-        "Nyarko Ampem"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-09-at-20.28.55-819x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "[VIDEO] 15-year-old Ghanaian fatally shot on his way to school in New York; Dad believes bullying led to son being killed",
-      "link": "https://www.graphic.com.gh/news/general-news/dad-believes-bullying-led-to-son-being-shot-and-killed-on-way-to-school-in-the-bronx.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T05:08:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/javits.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Court dismisses Adu-Boahene’s application to expunge prosecution’s submissions",
-      "link": "https://www.graphic.com.gh/news/general-news/court-dismisses-adu-boahenes-application-to-expunge-prosecutions-submissions.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T16:57:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/May/05/Aduboahene.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Develop home-grown initiatives to address cyber threats",
-      "link": "https://www.graphic.com.gh/news/general-news/develop-home-grown-initiatives-to-address-cyber-threats.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T16:50:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ECG to publish outage timetable as GRIDCo completes major Kumasi transmission line upgrade",
-      "link": "https://www.graphic.com.gh/news/general-news/ecg-to-publish-outage-timetable-as-gridco-completes-major-kumasi-transmission-line-upgrade.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T16:32:07.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hajj 2027: Mandatory medical screening is Saudi requirement, PAOG insists",
-      "link": "https://www.graphic.com.gh/news/general-news/hajj-2027-mandatory-medical-screening-is-saudi-requirement-paog-insists.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T16:04:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/HAJJ2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP charges GH¢5,000 for 2028 Parliamentary aspirants' declaration of intent",
-      "link": "https://www.graphic.com.gh/news/politics/npp-charges-ghc2-000-for-2028-parliamentary-aspirants-declaration-of-intent.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T15:54:18.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "La General Hospital project to be completed by end of 2027 – Akandoh",
-      "link": "https://www.graphic.com.gh/news/general-news/la-general-hospital-project-to-be-completed-by-end-of-2027-akandoh.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-29T15:40:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/LA_GENERAL.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Ampem Darkoa Ladies beat Edo Queens to book CAF Women’s Champions League spot",
       "link": "https://www.graphic.com.gh/sports/sports-news/ampem-darkoa-ladies-beat-edo-queens-to-book-caf-womens-champions-league-spot.html",
       "source": "Graphic Sports",
@@ -389,54 +432,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/28/Manintro.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "The architecture of decline: Why Manchester United’s crisis exposes a deeper structural failure - Catholic priest writes",
-      "link": "https://www.graphic.com.gh/sports/sports-news/the-architecture-of-decline-why-manchester-uniteds-modern-crisis-exposes-a-deeper-structural-failure.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-28T19:21:22.000Z",
-      "summary": "Yet, over the 13 years that followed, Manchester United transformed from football’s gold standard into a cautionary tale. Despite spending well over a billion pounds in the transfer market…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/28/Manintro.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana edge Argentina in thrilling penalty shootout to reach U-17 Women's World Cup quarter-finals",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-edge-argentina-in-thrilling-penalty-shootout-to-reach-u-17-womens-world-cup-quarter-finals.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-28T18:02:39.000Z",
-      "summary": "Appiah had earlier given Ghana an early lead when the lively Cynthia Obinsrewuo squared the ball for the livewire forward to smash home, setting the tone for a fiercely contested encounter…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Japan FA vice-president quits over FIFA World Cup decisions",
-      "link": "https://www.graphic.com.gh/sports/sports-news/japan-fa-vice-president-quits-over-fifa-world-cup-decisions.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-28T16:47:59.000Z",
-      "summary": "In a statement published on the JFA website, Okada said his decision was guided by his belief in the integrity and social significance of sport. “Guided by my belief that sports should…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/28/OKADA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Fatawu Issahaku honoured at Best of Africa Awards in London",
-      "link": "https://www.graphic.com.gh/sports/sports-news/fatawu-issahaku-honoured-at-best-of-africa-awards-in-london.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-28T15:38:54.000Z",
-      "summary": "The award highlights the growing recognition of African athletes whose influence extends beyond their performances on the pitch, with particular emphasis on philanthropy, community…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/FATAWU.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
