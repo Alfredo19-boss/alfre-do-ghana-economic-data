@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-31T09:49:13.779Z",
+  "updated": "2026-10-31T15:32:22.067Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,187 +25,230 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Prof Bokpin calls for a national review of Mahama’s fight against galamsey",
-      "link": "https://www.myjoyonline.com/prof-bokpin-calls-for-a-national-review-of-mahamas-fight-against-galamsey/",
+      "title": "Inusah Fuseini urges Mahama to reject 3rd term bid even if Supreme Court allows it",
+      "link": "https://www.myjoyonline.com/inusah-fuseini-urges-mahama-to-reject-3rd-term-bid-even-if-supreme-court-allows-it/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T09:43:26.000Z",
-      "summary": "Professor of Finance and Economist at the University of Ghana, Prof Godfred Bokpin, has called for a national review of the Mahama administration’s fight against illegal mining, popularly…",
+      "published": "2026-10-31T15:24:57.000Z",
+      "summary": "Former Tamale Central MP, Inusah Fuseini, has called on President John Dramani Mahama to rule out any attempt to seek a third presidential term, even if the Supreme Court interprets the…",
       "categories": [
-        "HP News 8",
+        "HP News 10",
         "National",
-        "Galamsey Fight",
-        "national review",
-        "President John Mahama"
+        "Inusah Fuseini",
+        "John Mahama",
+        "NDC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/The-Changfangs-used-for-Galamsey-1536x864-1-1024x576.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2874.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NACOC destroys cannabis farms in Nadowli District",
-      "link": "https://www.myjoyonline.com/nacoc-destroys-cannabis-farms-in-nadowli-district/",
+      "title": "Chelsea beat 10-man Manchester United to pile more pressure on Carrick",
+      "link": "https://www.myjoyonline.com/chelsea-beat-10-man-manchester-united-to-pile-more-pressure-on-carrick/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T09:31:28.000Z",
-      "summary": "The Upper West Regional Command of the Narcotics Control Commission (NACOC), in a joint operation with officers of the Ghana Immigration Service (GIS), has destroyed several cannabis farms…",
+      "published": "2026-10-31T14:46:22.000Z",
+      "summary": "United are now without a win in nine games in all competitions, their longest such run since October-November 1988.",
       "categories": [
-        "National",
-        "Cannabis farms",
-        "NACOC",
-        "Nadowli District"
+        "Football",
+        "Chelsea",
+        "Manchester United",
+        "Premier League"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2836-1024x768.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_7963.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NAIMOS not adequately equipped to fight galamsey – Awula Serwah",
-      "link": "https://www.myjoyonline.com/naimos-not-adequately-equipped-to-fight-galamsey-awula-serwah/",
+      "title": "Otto Addo drags GFA to FIFA over contract termination, demands more than $750,000",
+      "link": "https://www.myjoyonline.com/otto-addo-drags-gfa-to-fifa-over-contract-termination-demands-more-than-750000/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T09:21:23.000Z",
-      "summary": "The Executive Director of EcoConscious Citizens, Awula Serwah, has raised concerns about the operational capacity of the National Anti-Illegal Mining Operations Secretariat (NAIMOS)…",
+      "published": "2026-10-31T14:35:10.000Z",
+      "summary": "Former Ghana coach Otto Addo has lodged a complaint with FIFA against the Ghana Football Association (GFA) following the termination of his contract in March, JoySports can exclusively…",
       "categories": [
+        "Football",
+        "HP News 4",
+        "HP Sports 1",
         "National",
-        "NAIMOS"
+        "Black Stars",
+        "FIFA",
+        "GFA",
+        "otto addo"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/NAIMOS-task-force-RAID-6-1024x768.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261031-WA0018.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Galamsey fight remains ineffective despite NAIMOS arrests and seizures – Awula Serwah",
-      "link": "https://www.myjoyonline.com/galamsey-fight-remains-ineffective-despite-naimos-arrests-and-seizures-awula-serwah/",
+      "title": "COCOBOD CEO woos investors with Ghana’s new cocoa financing model at New York forum",
+      "link": "https://www.myjoyonline.com/cocobod-ceo-woos-investors-with-ghanas-new-cocoa-financing-model-at-new-york-forum/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T09:11:42.000Z",
-      "summary": "The Executive Director of Eco-Conscious Citizens, Awula Serwah, says Ghana has yet to make meaningful progress in the fight against illegal mining, warning that the country remains at risk…",
+      "published": "2026-10-31T14:27:08.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Cocoa Board (COCOBOD), Dr Ransford Anertey Abbey, has presented Ghana’s new cocoa financing model and outlined reforms aimed at strengthening the…",
       "categories": [
+        "Agribusiness",
+        "Business",
+        "HP Business 3",
         "National",
-        "Arrests",
-        "Awula Serwah",
-        "Galamsey"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Awula-Serwah.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Galamsey: Ghana still faces national emergency, says Awula Serwah",
-      "link": "https://www.myjoyonline.com/galamsey-ghana-still-faces-national-emergency-says-awula-serwah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T09:09:14.000Z",
-      "summary": "The Executive Director of Eco-Conscious Citizens, Awula Serwah, has warned that Ghana remains in a national emergency over illegal mining, insisting that current interventions have not…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "Awula Serwah",
-        "Galamsey"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/Awula-Serwah-1024x667.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ECG engages customers Tema Community One market",
-      "link": "https://www.graphic.com.gh/news/general-news/ecg-engages-customers-tema-community-one-market.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T09:08:41.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/ecg.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "40-year-old man arrested at VIP bus terminal attempting to travel with 91 parcels of ‘wee’ hidden in 3 suitcases",
-      "link": "https://www.graphic.com.gh/news/general-news/40-year-old-arrested-at-vip-bus-terminal-attempting-to-travel-with-91-parcels-of-wee-hidden-in-3-suitcases.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T08:29:53.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/wee3.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Gov’t wants to use Traffitech-GH to extort money from drivers while traders take over spaces – GPRTU",
-      "link": "https://www.myjoyonline.com/govt-wants-to-use-traffitech-gh-to-extort-money-from-drivers-while-traders-take-over-spaces-gprtu/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T06:34:50.000Z",
-      "summary": "Commercial transport operators have accused the government of seeking to use the planned rollout of the Traffitech-GH system to extort money from drivers through traffic fines while…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "News",
+        "Cocoa",
+        "COCOBOD",
         "Ghana",
-        "GPRTU",
-        "Transport"
+        "New York"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/01/Transport-1024x576.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/874544533_1638253861668765_5078608622476353488_n-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Transport operators threaten nationwide strike as Traffitech-GH begins on Nov 1",
-      "link": "https://www.myjoyonline.com/transport-operators-threaten-nationwide-strike-as-traffitech-gh-begins-on-nov-1/",
+      "title": "Zenith Bank Ghana steps up staff wellness, SME support and digital lending — MD",
+      "link": "https://www.myjoyonline.com/zenith-bank-ghana-steps-up-staff-wellness-sme-support-and-digital-lending-md/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T06:22:27.000Z",
-      "summary": "Commercial transport operators have threatened to suspend services nationwide on November 1, when the Traffitech-GH system is scheduled to become operational, accusing the government and…",
+      "published": "2026-10-31T14:26:09.000Z",
+      "summary": "The Managing Director and Chief Executive Officer of Zenith Bank (Ghana) Limited, Henry C. Onwuzurigbo, says the bank is strengthening its focus on employee wellness, SME financing and…",
       "categories": [
-        "HP News 1",
+        "Banking and Finance",
         "National",
-        "News",
-        "Cars",
-        "GPRTU",
-        "Road",
-        "Transport operators"
+        "21st Anniversary Health Walk",
+        "SME Support",
+        "Zenith Bank Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/transport.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2846-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Akim Swedru MP supports 145 traders, apprentices and artisans",
-      "link": "https://www.myjoyonline.com/akim-swedru-mp-supports-145-traders-apprentices-and-artisans/",
+      "title": "Mahama pledges to advance Nkrumah’s Pan-Africanist vision",
+      "link": "https://www.myjoyonline.com/mahama-pledges-to-advance-nkrumahs-pan-africanist-vision/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T06:17:35.000Z",
-      "summary": "The Member of Parliament for Akim Swedru, Kennedy Osei Nyarko, has provided financial and skills development support to 145 constituents as part of efforts to promote entrepreneurship and…",
+      "published": "2026-10-31T14:25:40.000Z",
+      "summary": "President John Dramani Mahama has reaffirmed his commitment to protecting Ghana’s national interest, promoting resource-driven economic development and advancing the ideals of…",
       "categories": [
         "National",
-        "Akim Swedru MP",
-        "apprentices",
-        "artisans"
+        "Mahama",
+        "Nkrumah",
+        "Pan -Africanist"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/KK-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2863-1024x732.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Police brief on 192 drug, firearms related arrests across Greater Accra, Eastern regions in October 2026",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-192-in-october-operations-seize-guns-and-suspected-drugs.html",
+      "title": "‘It’s a storm in a teacup until there’s strong evidence of wrongdoing’ – Sulemana Braimah on SA evacuation",
+      "link": "https://www.myjoyonline.com/its-a-storm-in-a-teacup-until-theres-strong-evidence-of-wrongdoing-sulemana-braimah-on-sa-evacuation/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T14:04:33.000Z",
+      "summary": "Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, has described the controversy surrounding the government’s evacuation of Ghanaians from South Africa as…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Evidence",
+        "SA evacuation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2865.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama must apologise to Akufo-Addo over honorary doctorates – Nana Akomea",
+      "link": "https://www.myjoyonline.com/mahama-must-apologise-to-akufo-addo-over-honorary-doctorates-nana-akomea/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T13:58:54.000Z",
+      "summary": "The Third National Vice Chairman of the New Patriotic Party (NPP), Nana Akomea, has challenged President John Dramani Mahama to apologise to former President Nana Akufo-Addo for his past…",
+      "categories": [
+        "In Focus",
+        "National",
+        "Akufo-Addo",
+        "Mahama",
+        "Nana Akomea"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-10.58.45-pm-1024x648.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NACOC, Immigration destroy cannabis gardens in Nadowli District",
+      "link": "https://www.graphic.com.gh/news/general-news/nacoc-immigration-destroy-cannabis-gardens-in-nadowli-district.html",
       "source": "Daily Graphic",
-      "published": "2026-10-31T01:20:46.000Z",
+      "published": "2026-10-31T11:11:17.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/suspects2.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/2.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Uncle, niece shot dead over alleged GH¢500,000 debt; woman arrested, GH¢100,000 reward offered for suspect",
-      "link": "https://www.graphic.com.gh/news/general-news/uncle-niece-shot-dead-over-alleged-ghc500-000-debt-woman-arrested-ghc100-000-reward-offered-for-suspect.html",
+      "title": "Gov't demands justice for teenager fatally shot in the Bronx",
+      "link": "https://www.graphic.com.gh/news/general-news/govt-demands-justice-for-teenager-fatally-shot-in-the-bronx.html",
       "source": "Daily Graphic",
-      "published": "2026-10-31T00:55:02.000Z",
+      "published": "2026-10-31T11:06:06.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/crime_scene.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/javits.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Student pleads not guilty to stealing GH¢1.5million from Bishop Obinim",
-      "link": "https://www.graphic.com.gh/news/general-news/student-pleads-not-guilty-to-stealing-ghc1-5million-from-bishop-obinim.html",
+      "title": "End fear, stigma, silence surrounding breast cancer - ICU-Ghana, Ibis Styles Hotel join forces to create awareness",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-end-fear-stigma-silence-surrounding-breast-cancer-icu-ghana-ibis-styles-hotel-join-forces-to-create-awareness.html",
       "source": "Daily Graphic",
-      "published": "2026-10-30T16:39:01.000Z",
+      "published": "2026-10-31T10:25:53.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2023/nov/07/gavel.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/Morgan.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "JUSAG declares indefinite nationwide strike from November 2 over unpaid salaries",
+      "link": "https://www.graphic.com.gh/news/general-news/jusag-declares-indefinite-nationwide-strike-from-november-2-over-unpaid-salaries.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T10:24:05.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "22 Laws introduced to lock in reforms, protect economic gains — Dr Ato Forson",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-22-laws-introduced-to-lock-in-reforms-protect-economic-gains-dr-ato-forson.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T10:23:00.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/Cassiel.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama challenges Ghanaians to make courageous domestic investment",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-challenges-ghanaians-to-make-courageous-domestic-investment.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T10:19:30.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/event.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama declares end to ‘dumsor’, says every Ghanaian now has access to power",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-declares-end-to-dumsor-says-every-ghanaian-now-has-access-to-power.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T10:15:40.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/qsqddCIA8Y3NQnDA35zVLXD9etUA7m0c.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Nyuori residents call for bridge over stream",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nyuori-residents-call-for-bridge-over-stream.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T10:13:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/bridge.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -219,42 +262,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/10/image-6.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GMTF woos US partners in Nashville to boost cancer care and specialist healthcare in Ghana",
-      "link": "https://www.graphic.com.gh/news/general-news/gmtf-woos-us-partners-in-nashville-to-boost-cancer-care-and-specialist-healthcare-in-ghana.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T13:39:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "9% salary increase is an insult to Ghanaian workers – Minority Caucus",
-      "link": "https://www.graphic.com.gh/news/general-news/9-salary-increase-is-an-insult-to-ghanaian-workers-minority-caucus.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T13:10:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/feb/17/aaaaaaaasalary.png",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'Don't think I don't see them': President Mahama says he monitors TikTok criticism",
-      "link": "https://www.graphic.com.gh/news/general-news/dont-think-i-dont-see-them-president-mahama-says-he-monitors-tiktok-criticism.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T12:40:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Afcon to return to two-year cycle after Caf U-turn",
