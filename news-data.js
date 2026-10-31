@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-30T23:54:25.551Z",
-  "worldAt": "2026-10-30T23:54:25.549Z",
+  "updated": "2026-10-31T03:19:35.591Z",
+  "worldAt": "2026-10-31T03:19:35.588Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,21 +20,21 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 4/25 stories",
+    "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 38 stories",
+    "World · BBC News: 33 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -42,10 +42,31 @@ window.GDC_NEWS = {
     "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "We believe 5G investment underscores our commitment to sustaining network quality, supporting Ghana’s growing digital connectivity – MTN",
+      "link": "https://www.myjoyonline.com/we-believe-5g-investment-underscores-our-commitment-to-sustaining-network-quality-supporting-ghanas-growing-digital-connectivity-mtn/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T03:01:49.000Z",
+      "summary": "“We believe this investment underscores our commitment to sustaining network quality and building the capacity required to support Ghana’s growing digital connectivity needs”, it disclosed…"
+    },
+    {
+      "title": "Youth unemployment exceeds 32%; about 12m Ghanaians are between 15 and 35 years – GSS",
+      "link": "https://www.myjoyonline.com/youth-unemployment-exceeds-32-about-12m-ghanaians-are-between-15-and-35-years-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T01:54:20.000Z",
+      "summary": "About 12 million Ghanaians were aged 15 to 35 in 2025, roughly one in every three people and the largest youth population in the country’s history. The figures are presented in Ghana in…"
+    },
+    {
+      "title": "Uncle, niece shot dead over alleged GH¢500,000 debt; woman arrested, GH¢100,000 reward offered for suspect",
+      "link": "https://www.graphic.com.gh/news/general-news/uncle-niece-shot-dead-over-alleged-ghc500-000-debt-woman-arrested-ghc100-000-reward-offered-for-suspect.html",
+      "source": "Graphic Online",
+      "published": "2026-10-31T00:55:02.000Z",
+      "summary": ""
+    },
     {
       "title": "MTN Ghana reports 44.4% growth in mobile money transactions as digital services expand",
       "link": "https://www.myjoyonline.com/mtn-ghana-reports-44-4-growth-in-mobile-money-transactions-as-digital-services-expand/",
@@ -61,11 +82,25 @@ window.GDC_NEWS = {
       "summary": "Ghana has reaffirmed its commitment to strengthening trade and investment relations with Burkina Faso through a proposed bilateral trade agreement aimed at promoting industrial cooperation…"
     },
     {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.myjoyonline.com/crypto-giant-binance-attempting-to-recover-6-3bn-stolen-in-hack-linked-to-north-korea/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T21:47:00.000Z",
+      "summary": "Binance's co-CEO Richard Teng said: \"This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however…"
+    },
+    {
       "title": "Amansie Community Bank posts GH₵73m profit before tax, unprecedented GH₵1bn deposit in Ashanti Region",
       "link": "https://www.myjoyonline.com/amansie-community-bank-posts-gh%e2%82%b573m-profit-before-tax-unprecedented-gh%e2%82%b51bn-deposit-in-ashanti-region/",
       "source": "MyJoyOnline",
       "published": "2026-10-30T21:46:04.000Z",
       "summary": "Amansie Community Bank PLC is streamlining its operations to sustain gains after posting a strong financial performance in the year ended December 2025."
+    },
+    {
+      "title": "Darko Farms recounts how government policy impacted the company’s $10million loan loss in 1972",
+      "link": "https://www.myjoyonline.com/darko-farms-recounts-how-government-policy-impacted-the-companys-10million-loan-loss-in-1972/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T21:00:00.000Z",
+      "summary": "Founder of Darko Farms, Rev. Dr. Kwabena Darko, is imploring the government to consider local business owners in local and international economic policy formulation."
     },
     {
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
@@ -1060,58 +1095,166 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-28T05:05:00.000Z",
       "summary": "Neglected billboards across Accra raise safety concerns, prompting calls for authorities and advertising companies to inspect, repair or remove deteriorating structures before preventable…"
-    },
-    {
-      "title": "Middlemen Inflate Local Chicken Prices, Undercutting Ghanaian Poultry Producers",
-      "link": "https://thehighstreetjournal.com/middlemen-inflate-local-chicken-prices-undercutting-poultry-producers/",
-      "source": "The High Street Journal",
-      "published": "2026-10-28T05:03:00.000Z",
-      "summary": "High intermediary margins are making local chicken more expensive than imports, prompting Ghana and the Netherlands to pursue technical cooperation and investment to strengthen domestic…"
-    },
-    {
-      "title": "Debrah Puts Passenger Experience at Heart of Ghana’s Aviation Hub Ambition",
-      "link": "https://thehighstreetjournal.com/ghanas-aviation-hub-ambition-begins-with-passenger-experience/",
-      "source": "The High Street Journal",
-      "published": "2026-10-28T05:02:00.000Z",
-      "summary": "Ghana’s ambition to become West Africa’s aviation hub depends on better passenger services, efficient airport operations, stronger connectivity, infrastructure investment and reliable…"
-    },
-    {
-      "title": "Gold Fields Ghana Suppliers Conference Focuses on Local Economic Value",
-      "link": "https://thehighstreetjournal.com/gold-fields-ghana-suppliers-conference/",
-      "source": "The High Street Journal",
-      "published": "2026-10-28T05:01:00.000Z",
-      "summary": "The two-day event, running from today at the Akoon Clubhouse at Tarkwa Mine and ending on Thursday, October 29, is expected to bring together more than 300 local and international suppliers"
-    },
-    {
-      "title": "Afreximbank Net Income Rises 24% to $813.5 Million on Lending Growth",
-      "link": "https://thehighstreetjournal.com/afreximbank-net-income-rises-24/",
-      "source": "The High Street Journal",
-      "published": "2026-10-28T05:00:00.000Z",
-      "summary": "Total assets and contingencies increased 12% to $54.1 billion at Sept. 30, from $48.5 billion at the end of 2025"
-    },
-    {
-      "title": "Charles Bissue: The Man Who Wants a Trial but Challenges the Trial",
-      "link": "https://thehighstreetjournal.com/charles-bissue-the-man-who-wants-a-trial/",
-      "source": "The High Street Journal",
-      "published": "2026-10-28T05:00:00.000Z",
-      "summary": "By Sammy Darko Charles Bissue is an interesting accused person. He says he wants a speedy trial and accuses the Office of the Special Prosecutor (OSP) of delaying his day in court. Yet, his…"
     }
   ],
   "world": [
+    {
+      "title": "Ebola death toll in DR Congo passes 5,000",
+      "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T02:51:52.000Z",
+      "summary": "Authorities ​are struggling to find a way to control the ⁠outbreak, with no approved treatments or vaccines."
+    },
+    {
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T02:39:25.000Z",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T02:44:38.000Z",
+      "summary": "Hundreds have been evacuated from Russia-occupied Oleshky under a localised ceasefire brokered by Melania Trump."
+    },
+    {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T02:12:19.000Z",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Poland’s president joins protest amid constitutional crisis at top court",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T02:24:00.000Z",
+      "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police."
+    },
+    {
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T02:02:16.000Z",
+      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/8bcbfe20-acc6-11f1-997d-cbb0a29e3293.png"
+    },
+    {
+      "title": "Pope Leo becomes first pontiff to vote in US general election",
+      "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T01:31:44.000Z",
+      "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections"
+    },
+    {
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T01:32:33.000Z",
+      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce2/live/961bb030-d482-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T01:26:34.000Z",
+      "summary": "Fabricated surveys are adding to tensions in the country's increasingly polarised political environment."
+    },
+    {
+      "title": "Global nature talks reach deal but money remains an issue",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T01:27:05.000Z",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg"
+    },
+    {
+      "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T01:23:59.000Z",
+      "summary": "Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US."
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T01:11:43.000Z",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
+      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
+      "source": "France 24",
+      "published": "2026-10-31T00:30:13.000Z",
+      "summary": "France braces for another weekend of unrest as the Yellow Vests return to the streets under the rallying cry of ‘Act III – Halloween’, with 70,000 police and security forces deployed after…",
+      "image": "https://s.france24.com/media/display/4cfbcde0-d42d-11f1-9217-a575454bc579/w:1024/p:16x9/2026-10-17T155254Z-1065605411-RC225OAYR9N8-RTRMADP-3-FRANCE-PROTEST.jpg"
+    },
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T00:40:43.000Z",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Germany and France brace for protests on Halloween weekend",
+      "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T00:17:35.000Z",
+      "summary": "A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects."
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T00:29:58.000Z",
+      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+      "link": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T00:02:06.000Z",
+      "summary": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei."
+    },
+    {
+      "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T00:16:03.000Z",
+      "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23a/live/e2d76eb0-d3a5-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T00:00:00.000Z",
+      "summary": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'."
+    },
     {
       "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
       "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-10-30T23:26:16.000Z",
       "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a5d/live/c408ef80-d478-11f1-8edb-d9fce66588c6.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Polish police deployed to top court after head judge suspended",
-      "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+      "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-30T23:19:42.000Z",
-      "summary": "Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government."
+      "published": "2026-10-30T23:39:19.000Z",
+      "summary": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour."
     },
     {
       "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
@@ -1122,26 +1265,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6f/live/ee8a8a40-d4b2-11f1-88a4-835788f4f80e.jpg"
     },
     {
-      "title": "Why AI could threaten much of the world’s digital infrastructure",
-      "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+      "title": "Polish police deployed to top court after head judge suspended",
+      "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-30T23:13:51.000Z",
-      "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities."
-    },
-    {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-30T22:20:52.000Z",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
-      "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T22:58:38.000Z",
-      "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links."
+      "published": "2026-10-30T23:19:42.000Z",
+      "summary": "Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government."
     },
     {
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -1152,6 +1280,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg"
     },
     {
+      "title": "Why AI could threaten much of the world’s digital infrastructure",
+      "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T23:13:51.000Z",
+      "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities."
+    },
+    {
       "title": "First Youth Olympic Games in Africa",
       "link": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
       "source": "France 24",
@@ -1160,12 +1295,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/9239705c-d4a9-11f1-aacb-1beafce15fea/w:1024/p:16x9/capture-4f9e60a5.jpg"
     },
     {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-30T21:13:14.000Z",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"
+      "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+      "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T22:58:38.000Z",
+      "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links."
     },
     {
       "title": "Residents leave Russian-occupied Oleshky in evacuation operation",
@@ -1176,19 +1310,19 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/bebeee6e-d4a8-11f1-b250-1beafce15fea/w:1024/p:16x9/000-D4WV4NU.jpg"
     },
     {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-30T21:13:14.000Z",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
       "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-10-30T21:00:51.000Z",
       "summary": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity."
-    },
-    {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-30T20:55:18.000Z",
-      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the…",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
@@ -1213,21 +1347,6 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f0b7382a-d4a0-11f1-a95a-a575454bc579/w:1024/p:16x9/000-D4J497F.jpg"
     },
     {
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-30T20:52:01.000Z",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "US appeals court again rejects Trump bid to set aside California ballots",
-      "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T20:39:50.000Z",
-      "summary": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional."
-    },
-    {
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1236,11 +1355,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85a/live/484c0a90-d4b8-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
-      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+      "title": "US appeals court again rejects Trump bid to set aside California ballots",
+      "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-30T20:37:20.000Z",
-      "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members."
+      "published": "2026-10-30T20:39:50.000Z",
+      "summary": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional."
     },
     {
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -1251,11 +1370,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg"
     },
     {
-      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-30T20:13:36.000Z",
-      "summary": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order."
+      "published": "2026-10-30T20:37:20.000Z",
+      "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members."
     },
     {
       "title": "'Five churches set on fire by Muslims?' Fake news by Islamophobic social media accounts",
@@ -1266,11 +1385,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5123f292-d47f-11f1-a6b4-bf1914cabd52/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-23-2.png"
     },
     {
-      "title": "Port Sudan families can barely afford water as shortages persist",
-      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-30T20:10:22.000Z",
-      "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply"
+      "published": "2026-10-30T20:13:36.000Z",
+      "summary": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order."
     },
     {
       "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
@@ -1278,133 +1397,15 @@ window.GDC_NEWS = {
       "source": "Deutsche Welle",
       "published": "2026-10-30T18:06:00.000Z",
       "summary": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and…"
-    },
-    {
-      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
-      "link": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T20:00:10.000Z",
-      "summary": "Both sides signed a digital trade deal, as Trump's trade threats push Washington's allies to seek closer ties elsewhere."
-    },
-    {
-      "title": "MAGA: Why Trump's movement is fracturing?",
-      "link": "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing",
-      "source": "France 24",
-      "published": "2026-10-30T18:01:38.000Z",
-      "summary": "As the 2026 midterm elections approach, divisions within the MAGA camp are becoming increasingly visible. From the war in Iran and rising fuel prices to the Epstein files, several of…",
-      "image": "https://s.france24.com/media/display/baf97aaa-d481-11f1-9162-bf1914cabd52/w:1024/p:16x9/minia-maga-definiti.png"
-    },
-    {
-      "title": "How 20-year-old Kimi Antonelli is making F1 history",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T19:39:03.000Z",
-      "summary": "Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion."
-    },
-    {
-      "title": "President Ruto seeks compensation for Kenyans recruited into Russian military",
-      "link": "http://www.africanews.com/2026/10/30/president-ruto-seeks-compensation-for-kenyans-recruited-into-russian-military/",
-      "source": "Africanews",
-      "published": "2026-10-30T17:22:27.000Z",
-      "summary": "An investigation by Journalists for Justice, published earlier this month, identified at least 76 Kenyans killed while fighting for Russia, alongside 841 Kenyan nationals recruited between…"
-    },
-    {
-      "title": "What to know about California’s midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T19:38:49.000Z",
-      "summary": "Redistricting in California, the most populous US state, could flip control of US House from Republican to Democrat."
-    },
-    {
-      "title": "Oleshky: No access to basic needs, ceasefire offers limited opportunity for humanitarian assistance",
-      "link": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance",
-      "source": "France 24",
-      "published": "2026-10-30T17:11:53.000Z",
-      "summary": "Catherine Viette is pleased to welcome Jens Schumacher, Field Coordinator in Mykolaiv and Kherson with Solidarity International. Just a few kilometers separate the Ukrainian-controlled city…",
-      "image": "https://s.france24.com/media/display/6defaa90-d481-11f1-91a1-d18c5759e759/w:1024/p:16x9/EN-20261030-143131-143934-CS.jpg"
-    },
-    {
-      "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T19:34:36.000Z",
-      "summary": "Prime Minister claims the parties accepted foreign funding."
-    },
-    {
-      "title": "Tanzania still haunted by deadly election violence one year on",
-      "link": "http://www.africanews.com/2026/10/30/tanzania-still-haunted-by-deadly-election-violence-one-year-on/",
-      "source": "Africanews",
-      "published": "2026-10-30T17:07:53.000Z",
-      "summary": "One year after Tanzania’s disputed election, the scars of deadly violence remain. Critics still live in fear of abductions and arrests, while opposition supporters continue to face…"
-    },
-    {
-      "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
-      "link": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T19:16:30.000Z",
-      "summary": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid."
-    },
-    {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-30T17:07:19.000Z",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T18:55:36.000Z",
-      "summary": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them."
-    },
-    {
-      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-30T17:00:32.000Z",
-      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d6/live/96a5c4c0-d4a3-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T18:35:44.000Z",
-      "summary": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods"
-    },
-    {
-      "title": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown",
-      "link": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
-      "source": "France 24",
-      "published": "2026-10-30T16:58:51.000Z",
-      "summary": "Russia’s most renowned independent newspaper, Novaya Gazeta, announced on Friday that it was ceasing publication after more than three decades. Known for its courageous investigative…",
-      "image": "https://s.france24.com/media/display/a7e3633e-d47e-11f1-9dc5-a575454bc579/w:1024/p:16x9/capture-3a806f47.jpg"
-    },
-    {
-      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T18:33:29.000Z",
-      "summary": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz."
-    },
-    {
-      "title": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts",
-      "source": "France 24",
-      "published": "2026-10-30T16:51:42.000Z",
-      "summary": "We speak to the influential and long-serving president of the Court of Justice of the European Union (CJEU), Koen Lenaerts. The court is the EU's supreme judicial authority, responsible for…",
-      "image": "https://s.france24.com/media/display/95110bfc-d3a8-11f1-bee2-79db0eb73735/w:1024/p:16x9/PHOTO-KOEN-LENAERTS.png"
     }
   ],
   "africa": [
     {
-      "title": "Port Sudan families can barely afford water as shortages persist",
-      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "title": "Ebola death toll in DR Congo passes 5,000",
+      "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-30T20:10:22.000Z",
-      "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply"
+      "published": "2026-10-31T02:51:52.000Z",
+      "summary": "Authorities ​are struggling to find a way to control the ⁠outbreak, with no approved treatments or vaccines."
     },
     {
       "title": "Nigeria: Alake Defends Nigeria-US Minerals Deal, Rejects $700bn Sale Claims",
@@ -1414,11 +1415,11 @@ window.GDC_NEWS = {
       "summary": "[Daily Trust] The Minister of Solid Minerals Development, Dr Dele Alake, has dismissed claims that Nigeria sold $700bn worth of solid minerals to the United States, insisting that the…"
     },
     {
-      "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
-      "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-10-30T18:06:00.000Z",
-      "summary": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and…"
+      "title": "Poland’s president joins protest amid constitutional crisis at top court",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T02:24:00.000Z",
+      "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police."
     },
     {
       "title": "Africa: Who Dares Wins - LPG, the Next Frontier for Africa's Downstream",
@@ -1426,6 +1427,20 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-30T18:39:53.000Z",
       "summary": "[allAfrica] LPG investment is Africa's defining downstream opportunity over the next two decades. The window to act is open now."
+    },
+    {
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T20:10:22.000Z",
+      "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply"
+    },
+    {
+      "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
+      "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-10-30T18:06:00.000Z",
+      "summary": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and…"
     },
     {
       "title": "Why has Caf abandoned plans to hold Afcon every four years?",
@@ -1667,20 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-10-30T11:04:25.000Z",
       "summary": "[Daily News] Moscow -- ON Wednesday and yesterday, Moscow hosted the Third Russia-Africa Summit and the Russia-Africa Economic and Humanitarian Forum, focusing on trade, investment, energy…"
-    },
-    {
-      "title": "Ghana: Three Arrested Over Murder of Mobile Money Vendor At Kasoa",
-      "link": "https://allafrica.com/stories/202610300333.html",
-      "source": "AllAfrica",
-      "published": "2026-10-30T11:06:20.000Z",
-      "summary": "[Ghanaian Times] The Central East Regional Police Command has arrested three suspects in connection with the murder of a 34-year-old mobile money vendor, Christian Amponsah, at a guest…"
-    },
-    {
-      "title": "Tanzania: Geay Calls for Investment in Athletics Training Facilities",
-      "link": "https://allafrica.com/stories/202610300319.html",
-      "source": "AllAfrica Business",
-      "published": "2026-10-30T10:37:42.000Z",
-      "summary": "[Daily News] Tanzania -- LONG-DISTANCE runner Gabriel Geay has called for greater investment in athletics training facilities and suitable training environments to help Tanzanian athletes…"
     }
   ]
 };

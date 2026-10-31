@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-30T23:54:36.612Z",
+  "updated": "2026-10-31T03:19:48.689Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,101 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "We believe 5G investment underscores our commitment to sustaining network quality, supporting Ghana’s growing digital connectivity – MTN",
+      "link": "https://www.myjoyonline.com/we-believe-5g-investment-underscores-our-commitment-to-sustaining-network-quality-supporting-ghanas-growing-digital-connectivity-mtn/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T03:01:49.000Z",
+      "summary": "“We believe this investment underscores our commitment to sustaining network quality and building the capacity required to support Ghana’s growing digital connectivity needs”, it disclosed…",
+      "categories": [
+        "Business",
+        "Telecom",
+        "5G",
+        "cash flow",
+        "Divident outlook",
+        "Financial Report",
+        "GSE",
+        "MTN",
+        "NCA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-616-1024x690.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Youth unemployment exceeds 32%; about 12m Ghanaians are between 15 and 35 years – GSS",
+      "link": "https://www.myjoyonline.com/youth-unemployment-exceeds-32-about-12m-ghanaians-are-between-15-and-35-years-gss/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T01:54:20.000Z",
+      "summary": "About 12 million Ghanaians were aged 15 to 35 in 2025, roughly one in every three people and the largest youth population in the country’s history. The figures are presented in Ghana in…",
+      "categories": [
+        "Business",
+        "Economy",
+        "Dr. Alhassan Iddrisu",
+        "Formal job",
+        "GSS",
+        "Informal job",
+        "NEET",
+        "Youth Unemployment"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Government-Statistician_Dr.-Alhassan-Iddrisu_700x500-700x470-1-700x375-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The cost of staying alive: diabetes, hypertension and the price of a working life in Ghana",
+      "link": "https://www.myjoyonline.com/the-cost-of-staying-alive-diabetes-hypertension-and-the-price-of-a-working-life-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T01:39:17.000Z",
+      "summary": "The World Health Organisation (WHO) reported that the number of people living with diabetes worldwide rose from 200 million in 1990 to 830 million in 2022. In 2022, approximately 14 per…",
+      "categories": [
+        "Features",
+        "Health",
+        "Diabetes",
+        "Hypetension",
+        "Ministry of Health",
+        "WHO"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-11.43.29-818x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police arrest 192 in drug, firearms operations across Greater Accra, Eastern Region",
+      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-192-in-october-operations-seize-guns-and-suspected-drugs.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T01:20:46.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/suspects2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Uncle, niece shot dead over alleged GH¢500,000 debt; woman arrested, GH¢100,000 reward offered for suspect",
+      "link": "https://www.graphic.com.gh/news/general-news/uncle-niece-shot-dead-over-alleged-ghc500-000-debt-woman-arrested-ghc100-000-reward-offered-for-suspect.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T00:55:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/crime_scene.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Shoe-making is not for school dropouts — Horseman founder Tonyi Senayah",
+      "link": "https://www.myjoyonline.com/shoe-making-is-not-for-school-dropouts-horseman-founder-tonyi-senayah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T23:56:34.000Z",
+      "summary": "Founder of Horseman, Tonyi Senayah, says his shoemaking business is driven by a broader mission to create fulfilling employment opportunities for artisans and challenge the perception that…",
+      "categories": [
+        "News",
+        "Horseman",
+        "Leather",
+        "Shoes"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Tony.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "MTN Ghana reports 44.4% growth in mobile money transactions as digital services expand",
       "link": "https://www.myjoyonline.com/mtn-ghana-reports-44-4-growth-in-mobile-money-transactions-as-digital-services-expand/",
@@ -56,6 +151,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.myjoyonline.com/us-approves-sale-of-500-patriot-missiles-to-ukraine/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T22:47:00.000Z",
+      "summary": "The US has approved the sale of 500 Patriot missiles to Ukraine, a critically-needed munition for defence against escalating Russian aerial attacks, after Kyiv said deliveries had been…",
+      "categories": [
+        "International",
+        "Ukraine",
+        "US"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana and Burkina Faso seek stronger trade and industrial cooperation at SIAO 2026",
       "link": "https://www.myjoyonline.com/ghana-and-burkina-faso-seek-stronger-trade-and-industrial-cooperation-at-siao-2026/",
       "source": "MyJoyOnline",
@@ -72,86 +181,6 @@ window.GDC_PAPERS = {
         "Trade"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/867085493_1756017242616608_6137262591702244716_n-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Savannah College of Education teachers decry 19 months without payroll migration",
-      "link": "https://www.myjoyonline.com/savannah-college-of-education-teachers-decry-19-months-without-payroll-migration/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T22:18:19.000Z",
-      "summary": "About one hundred and seventy striking workers of two local associations at the Savannah College of Education, namely, the Colleges of Education Teachers Association of Ghana [CETAG] and…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Savannah College of Education",
-        "Strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.41.09-e1793398283530.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Changfans on River Tano have reduced thanks to NAIMOS – NAIMOS Spokesperson",
-      "link": "https://www.myjoyonline.com/changfans-on-river-tano-have-reduced-thanks-to-naimos-naimos-spokesperson/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T22:12:00.000Z",
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says the number of changfan machines operating on the River Tano has reduced significantly following sustained enforcement…",
-      "categories": [
-        "News",
-        "Changfan",
-        "Illegal",
-        "NAIMOS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-21.25.23-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Yagbonwura appeals to Mahama to intervene in Savannah College of Education staff strike",
-      "link": "https://www.myjoyonline.com/yagbonwura-appeals-to-mahama-to-intervene-in-savannah-college-of-education-workers-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T22:07:41.000Z",
-      "summary": "The Overlord of Gonjaland and Life Patron of the Savannah College of Education, Yagbonwura Bii-Kunuto Jewu Soale I, has appealed to President John Dramani Mahama to intervene in the ongoing…",
-      "categories": [
-        "Education",
-        "HP News 6",
-        "Regional",
-        "Savannah College of Education",
-        "Strike",
-        "Yagbonwura Bii-Kunuto Jewu Soale I"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.41.13-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Debibi United President fires back at GoldStars coach over cassava pitch comment",
-      "link": "https://www.myjoyonline.com/debibi-united-president-fires-back-at-goldstars-coach-over-cassava-pitch-comment/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T22:01:06.000Z",
-      "summary": "Debibi United Chief Executive Officer, Alexander Ababio, has hit back at the coach of Bibiani Gold Stars Petros Koukouras over his comments about the club's playing pitch, describing the…",
-      "categories": [
-        "Football",
-        "Sports",
-        "Bibiani Goldstars",
-        "Debibi United",
-        "Petros Koukouras"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/481331818_663570832685880_7685769168632389918_n.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Niece and uncle shot dead at Sakumono over alleged GH¢500,000 debt",
-      "link": "https://www.myjoyonline.com/niece-and-uncle-shot-dead-at-sakumono-over-alleged-gh%c2%a2500000-debt/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T22:00:00.000Z",
-      "summary": "The police have launched investigations into the killing of a 57-year-old man and his 47-year-old niece at the NTHC Estate, Sakumono, in the Greater Accra Region, following a reported…",
-      "categories": [
-        "Crime",
-        "News",
-        "Top Story",
-        "Murder",
-        "Police",
-        "shot"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/crime-scene-investigation-1024x530.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -284,30 +313,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/30/Rasheed.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, Côte d’Ivoire to embark on maritime security exercise",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-cote-divoire-to-embark-on-maritime-security-exercise.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T10:01:59.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/Participants.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Putin’s decision to resume Ukraine talks laudable — Mahama",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-putins-decision-to-resume-ukraine-talks-laudable-mahama.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T09:56:07.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/President.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
