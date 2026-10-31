@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-30T20:20:27.611Z",
+  "updated": "2026-10-30T23:54:36.612Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,125 +25,133 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "link": "https://www.myjoyonline.com/hundreds-evacuated-from-russian-occupied-oleshky-during-rare-ukraine-ceasefire/",
+      "title": "MTN Ghana reports 44.4% growth in mobile money transactions as digital services expand",
+      "link": "https://www.myjoyonline.com/mtn-ghana-reports-44-4-growth-in-mobile-money-transactions-as-digital-services-expand/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T18:57:28.000Z",
-      "summary": "Hundreds of residents of the devastated Russian-occupied city of Oleshky have been evacuated, Russian and Ukrainian authorities have said, following a humanitarian ceasefire brokered by US…",
+      "published": "2026-10-30T23:34:56.000Z",
+      "summary": "MTN Ghana has reported a 44.4 per cent year-on-year increase in the value of Mobile Money transactions for the first half of 2026, alongside plans to invest US$1.1 billion over three years…",
       "categories": [
-        "International",
-        "ceasfire",
-        "Ukraine"
+        "Business",
+        "Telecom",
+        "MoMo",
+        "MTN",
+        "MTN Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2832-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-23.16.50.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Konongo, Juansa chiefs back revocation of Northern Ashanti Mines license",
-      "link": "https://www.myjoyonline.com/konongo-juansa-chiefs-back-revocation-of-northern-ashanti-mines-license/",
+      "title": "Police arrest woman, offer GH¢100,000 reward for Sakumono murder suspect",
+      "link": "https://www.myjoyonline.com/police-arrest-woman-offer-gh%c2%a2100000-reward-for-sakumono-murder-suspect/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T18:51:35.000Z",
-      "summary": "Traditional authorities in Konongo and Juansa have backed the revocation of the mining license of Northern Ashanti Mines Limited in its catchment.",
+      "published": "2026-10-30T23:24:16.000Z",
+      "summary": "The Ghana Police Service has arrested a 47-year-old woman in connection with the killing of two relatives at the NTHC Estate, Sakumono, in the Greater Accra Region, and declared the…",
       "categories": [
-        "Regional",
-        "Juansa",
-        "Konongo",
-        "Mining"
+        "Crime",
+        "HP News 1",
+        "Arrest",
+        "Police"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-6.46.15-PM.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Arrest1.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Jema-Asemkrom residents allege threats over efforts to expose illegal mining",
-      "link": "https://www.myjoyonline.com/jema-asemkrom-residents-allege-threats-over-efforts-to-expose-illegal-mining/",
+      "title": "Ghana and Burkina Faso seek stronger trade and industrial cooperation at SIAO 2026",
+      "link": "https://www.myjoyonline.com/ghana-and-burkina-faso-seek-stronger-trade-and-industrial-cooperation-at-siao-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T18:38:35.000Z",
-      "summary": "Frustration is mounting among residents of Jema-Asemkrom over the risks associated with helping authorities fight illegal mining on the Tano River.",
+      "published": "2026-10-30T22:24:57.000Z",
+      "summary": "Ghana has reaffirmed its commitment to strengthening trade and investment relations with Burkina Faso through a proposed bilateral trade agreement aimed at promoting industrial cooperation…",
       "categories": [
+        "Agribusiness",
+        "Business",
         "National",
-        "Illegal mining",
-        "Jema"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2829-1024x564.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian creatives losing funding opportunities over poor documentation – Sustainable finance expert",
-      "link": "https://www.myjoyonline.com/ghanaian-creatives-losing-funding-opportunities-over-poor-documentation-sustainable-finance-expert/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T18:00:25.000Z",
-      "summary": "The Head of Sustainable Financing at Consolidated Bank Ghana (CBG), Eva Ackuaku, has expressed concern over the inability of many Ghanaian creatives to access available funding…",
-      "categories": [
-        "Art & Design",
-        "Banking and Finance",
-        "HP Entertainment 2",
-        "HP News 10",
-        "National",
-        "creatives",
-        "Eva Ackuaku"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2827-scaled-e1793382538165-1024x968.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP petitions US to suspend privileges for Ghanaian diplomatic, service passport holders",
-      "link": "https://www.myjoyonline.com/npp-petitions-us-to-suspend-privileges-for-ghanaian-diplomatic-service-passport-holders/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T17:43:47.000Z",
-      "summary": "The New Patriotic Party (NPP) has called on the United States to review its treatment of Ghanaian diplomatic and service passport holders following allegations that some travel documents…",
-      "categories": [
-        "National",
-        "Top Story",
-        "NPP",
-        "Passport",
-        "US"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/09/IMG_6324-636x424-1-e1759149401242.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana vows to pursue justice for 15-year-old boy shot dead in New York",
-      "link": "https://www.myjoyonline.com/ghana-vows-to-pursue-justice-for-15-year-old-boy-shot-dead-in-new-york/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T17:42:55.000Z",
-      "summary": "The Government of Ghana has pledged to pursue justice for 15-year-old Ghanaian teenager Javits Frimpong, who was fatally shot in the Bronx, New York, on Thursday, October 29.",
-      "categories": [
-        "National",
+        "News",
+        "Burkina Faso",
+        "Elizabeth Ofosu-Adjare",
         "Ghana",
-        "Javits Frimpong",
-        "New York"
+        "Trade"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2826.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/867085493_1756017242616608_6137262591702244716_n-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Chinese hospital ship concludes seven-day medical mission in Ghana, treating 5,909 people",
-      "link": "https://www.myjoyonline.com/chinese-hospital-ship-concludes-seven-day-medical-mission-in-ghana-treating-5909-people/",
+      "title": "Savannah College of Education teachers decry 19 months without payroll migration",
+      "link": "https://www.myjoyonline.com/savannah-college-of-education-teachers-decry-19-months-without-payroll-migration/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T17:41:58.000Z",
-      "summary": "The Chinese People’s Liberation Army Navy hospital ship, Auspicious Ark (Hull 868), has concluded its seven-day humanitarian medical mission in Ghana after providing healthcare services to…",
+      "published": "2026-10-30T22:18:19.000Z",
+      "summary": "About one hundred and seventy striking workers of two local associations at the Savannah College of Education, namely, the Colleges of Education Teachers Association of Ghana [CETAG] and…",
       "categories": [
-        "Health",
-        "National",
-        "Chinese hospital ship",
-        "medical mission"
+        "Education",
+        "Regional",
+        "Savannah College of Education",
+        "Strike"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/1793369379_image_2_xkTJtb3lx8-1024x673.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.41.09-e1793398283530.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "PMI and TIME Studios highlight the projects successfully delivering climate solutions at scale",
-      "link": "https://www.myjoyonline.com/pmi-and-time-studios-highlight-the-projects-successfully-delivering-climate-solutions-at-scale/",
+      "title": "Changfans on River Tano have reduced thanks to NAIMOS – NAIMOS Spokesperson",
+      "link": "https://www.myjoyonline.com/changfans-on-river-tano-have-reduced-thanks-to-naimos-naimos-spokesperson/",
       "source": "MyJoyOnline",
-      "published": "2026-10-30T17:38:00.000Z",
-      "summary": "TIME Studios and Project Management Institute (PMI), the world’s leading authority for project professionals, have announced Season 2 of The Solutionaries, a documentary series about the…",
+      "published": "2026-10-30T22:12:00.000Z",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says the number of changfan machines operating on the River Tano has reduced significantly following sustained enforcement…",
       "categories": [
         "News",
-        "Climate Solutions",
-        "PMI",
-        "Time"
+        "Changfan",
+        "Illegal",
+        "NAIMOS"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Menaka-Gopinath_White-Background-1-683x1024.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-21.25.23-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Yagbonwura appeals to Mahama to intervene in Savannah College of Education staff strike",
+      "link": "https://www.myjoyonline.com/yagbonwura-appeals-to-mahama-to-intervene-in-savannah-college-of-education-workers-strike/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T22:07:41.000Z",
+      "summary": "The Overlord of Gonjaland and Life Patron of the Savannah College of Education, Yagbonwura Bii-Kunuto Jewu Soale I, has appealed to President John Dramani Mahama to intervene in the ongoing…",
+      "categories": [
+        "Education",
+        "HP News 6",
+        "Regional",
+        "Savannah College of Education",
+        "Strike",
+        "Yagbonwura Bii-Kunuto Jewu Soale I"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-16.41.13-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Debibi United President fires back at GoldStars coach over cassava pitch comment",
+      "link": "https://www.myjoyonline.com/debibi-united-president-fires-back-at-goldstars-coach-over-cassava-pitch-comment/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T22:01:06.000Z",
+      "summary": "Debibi United Chief Executive Officer, Alexander Ababio, has hit back at the coach of Bibiani Gold Stars Petros Koukouras over his comments about the club's playing pitch, describing the…",
+      "categories": [
+        "Football",
+        "Sports",
+        "Bibiani Goldstars",
+        "Debibi United",
+        "Petros Koukouras"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/481331818_663570832685880_7685769168632389918_n.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Niece and uncle shot dead at Sakumono over alleged GH¢500,000 debt",
+      "link": "https://www.myjoyonline.com/niece-and-uncle-shot-dead-at-sakumono-over-alleged-gh%c2%a2500000-debt/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-30T22:00:00.000Z",
+      "summary": "The police have launched investigations into the killing of a 57-year-old man and his 47-year-old niece at the NTHC Estate, Sakumono, in the Greater Accra Region, following a reported…",
+      "categories": [
+        "Crime",
+        "News",
+        "Top Story",
+        "Murder",
+        "Police",
+        "shot"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/crime-scene-investigation-1024x530.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
