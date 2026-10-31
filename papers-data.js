@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-31T15:32:22.067Z",
+  "updated": "2026-10-31T19:30:35.192Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,134 +25,182 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Inusah Fuseini urges Mahama to reject 3rd term bid even if Supreme Court allows it",
-      "link": "https://www.myjoyonline.com/inusah-fuseini-urges-mahama-to-reject-3rd-term-bid-even-if-supreme-court-allows-it/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T15:24:57.000Z",
-      "summary": "Former Tamale Central MP, Inusah Fuseini, has called on President John Dramani Mahama to rule out any attempt to seek a third presidential term, even if the Supreme Court interprets the…",
+      "title": "Ghana Premier League: Kotoko plot Medeama ambush, Hearts threaten title shake-up",
+      "link": "https://www.graphic.com.gh/sports/sports-news/kotoko-plot-medeama-ambush-hearts-threaten-title-shake-up.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-31T19:00:47.000Z",
+      "summary": "The Porcupine Warriors are still smarting from last season’s 4-0 humiliation by the Tarkwa club. Now, with Kotoko, ninth after three defeats in eight matches, another setback would deepen…",
       "categories": [
-        "HP News 10",
-        "National",
-        "Inusah Fuseini",
-        "John Mahama",
-        "NDC"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2874.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/KOBNA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Chelsea beat 10-man Manchester United to pile more pressure on Carrick",
-      "link": "https://www.myjoyonline.com/chelsea-beat-10-man-manchester-united-to-pile-more-pressure-on-carrick/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T14:46:22.000Z",
-      "summary": "United are now without a win in nine games in all competitions, their longest such run since October-November 1988.",
+      "title": "Asanko Gold organises health screening for residents in host communities",
+      "link": "https://www.graphic.com.gh/news/general-news/asanko-gold-organises-health-screening-for-residents-in-host-communities.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T18:46:40.000Z",
+      "summary": "",
       "categories": [
-        "Football",
-        "Chelsea",
-        "Manchester United",
-        "Premier League"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG_7963.webp",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Otto Addo drags GFA to FIFA over contract termination, demands more than $750,000",
-      "link": "https://www.myjoyonline.com/otto-addo-drags-gfa-to-fifa-over-contract-termination-demands-more-than-750000/",
+      "title": "GPHA honours industry partners, former management at 40th anniversary awards",
+      "link": "https://www.myjoyonline.com/gpha-honours-industry-partners-former-management-at-40th-anniversary-awards/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T14:35:10.000Z",
-      "summary": "Former Ghana coach Otto Addo has lodged a complaint with FIFA against the Ghana Football Association (GFA) following the termination of his contract in March, JoySports can exclusively…",
-      "categories": [
-        "Football",
-        "HP News 4",
-        "HP Sports 1",
-        "National",
-        "Black Stars",
-        "FIFA",
-        "GFA",
-        "otto addo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/IMG-20261031-WA0018.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COCOBOD CEO woos investors with Ghana’s new cocoa financing model at New York forum",
-      "link": "https://www.myjoyonline.com/cocobod-ceo-woos-investors-with-ghanas-new-cocoa-financing-model-at-new-york-forum/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T14:27:08.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Cocoa Board (COCOBOD), Dr Ransford Anertey Abbey, has presented Ghana’s new cocoa financing model and outlined reforms aimed at strengthening the…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "HP Business 3",
-        "National",
-        "Cocoa",
-        "COCOBOD",
-        "Ghana",
-        "New York"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/874544533_1638253861668765_5078608622476353488_n-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Zenith Bank Ghana steps up staff wellness, SME support and digital lending — MD",
-      "link": "https://www.myjoyonline.com/zenith-bank-ghana-steps-up-staff-wellness-sme-support-and-digital-lending-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T14:26:09.000Z",
-      "summary": "The Managing Director and Chief Executive Officer of Zenith Bank (Ghana) Limited, Henry C. Onwuzurigbo, says the bank is strengthening its focus on employee wellness, SME financing and…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "21st Anniversary Health Walk",
-        "SME Support",
-        "Zenith Bank Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2846-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama pledges to advance Nkrumah’s Pan-Africanist vision",
-      "link": "https://www.myjoyonline.com/mahama-pledges-to-advance-nkrumahs-pan-africanist-vision/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T14:25:40.000Z",
-      "summary": "President John Dramani Mahama has reaffirmed his commitment to protecting Ghana’s national interest, promoting resource-driven economic development and advancing the ideals of…",
+      "published": "2026-10-31T18:37:31.000Z",
+      "summary": "The Ghana Ports and Harbours Authority (GPHA) has honoured shipping lines, shipping agents, cargo customers, staff and former leaders as part of activities marking its 40th anniversary.",
       "categories": [
         "National",
-        "Mahama",
-        "Nkrumah",
-        "Pan -Africanist"
+        "anniversary",
+        "GPHA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2863-1024x732.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.16.47-AM-1024x608.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘It’s a storm in a teacup until there’s strong evidence of wrongdoing’ – Sulemana Braimah on SA evacuation",
-      "link": "https://www.myjoyonline.com/its-a-storm-in-a-teacup-until-theres-strong-evidence-of-wrongdoing-sulemana-braimah-on-sa-evacuation/",
+      "title": "Ablakwa has earned my respect – Akwatia MP vows to lead demonstration if he resigns",
+      "link": "https://www.myjoyonline.com/ablakwa-has-earned-my-respect-akwatia-mp-vows-to-lead-demonstration-if-he-resigns/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T14:04:33.000Z",
-      "summary": "Executive Director of the Media Foundation for West Africa (MFWA), Sulemana Braimah, has described the controversy surrounding the government’s evacuation of Ghanaians from South Africa as…",
+      "published": "2026-10-31T18:30:00.000Z",
+      "summary": "Member of Parliament for Akwatia, Bernard Bediako Baidoo, has thrown his support behind Foreign Affairs Minister Samuel Okudzeto Ablakwa, declaring that he would personally lead a…",
       "categories": [
+        "HP News 1",
         "National",
-        "Top Story",
-        "Evidence",
-        "SA evacuation"
+        "News",
+        "Akwatia MP",
+        "Demonstration",
+        "Okudzeto Ablakwa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2865.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2875.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama must apologise to Akufo-Addo over honorary doctorates – Nana Akomea",
-      "link": "https://www.myjoyonline.com/mahama-must-apologise-to-akufo-addo-over-honorary-doctorates-nana-akomea/",
+      "title": "Samson’s Take on Adu-Boahene: GHS49.1m stolen, or a story the evidence cannot sustain",
+      "link": "https://www.myjoyonline.com/samsons-take-on-adu-boahene-ghs49-1m-stolen-or-a-story-the-evidence-cannot-sustain/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T13:58:54.000Z",
-      "summary": "The Third National Vice Chairman of the New Patriotic Party (NPP), Nana Akomea, has challenged President John Dramani Mahama to apologise to former President Nana Akufo-Addo for his past…",
+      "published": "2026-10-31T18:30:00.000Z",
+      "summary": "The High Court on Thursday dismissed an application by lawyers for former National Signals Bureau Director General Kwabena Adu Boahene and is co-accused to strike out portions of the…",
       "categories": [
+        "HP Opinion 2",
         "In Focus",
         "National",
-        "Akufo-Addo",
-        "Mahama",
-        "Nana Akomea"
+        "Adu- Boahene",
+        "Samsons Take"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-10.58.45-pm-1024x648.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2834.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Poison in Prison; Mahama’s 3rd term; Okudzeto’s evacuees – Enimil Ashon writes",
+      "link": "https://www.myjoyonline.com/poison-in-prison-mahamas-3rd-term-okudzetos-evacuees-enimil-ashon-writes/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T18:23:00.000Z",
+      "summary": "This “attempted poisoning” business at the Nsawam Prison! I am alarmed because I am concerned about the health of Chairman Wontumi.",
+      "categories": [
+        "HP Opinion 3",
+        "National",
+        "Opinion",
+        "Enimil Ashon",
+        "Mahama",
+        "Okudzeto",
+        "poison",
+        "Prison"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2886.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Make vote-buying costly in party elections — Bernard Mornah",
+      "link": "https://www.myjoyonline.com/make-vote-buying-costly-in-party-elections-bernard-mornah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T18:05:28.000Z",
+      "summary": "The leader of the People's National Convention (PNC), Bernard Anbataayela Mornah, has called on political parties to make vote-buying costly, campaign financing transparent, and competence…",
+      "categories": [
+        "National",
+        "Bernard Mornah",
+        "Elections",
+        "Vote-buying"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2864.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTEC cautions universities against compromising quality in doctoral admissions",
+      "link": "https://www.myjoyonline.com/gtec-cautions-universities-against-compromising-quality-in-doctoral-admissions/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T17:48:37.000Z",
+      "summary": "The Ghana Tertiary Education Commission (GTEC) has cautioned universities against admitting more doctoral candidates than their institutional capacity can adequately support, warning that…",
+      "categories": [
+        "Education",
+        "National",
+        "News",
+        "Doctoral admission",
+        "GTEC",
+        "University"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Education-PhD-Quality-1-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Joanita Borteye to represent Ghana at 2026 Youth Olympic Games, appointed as Deputy Team Captain",
+      "link": "https://www.graphic.com.gh/sports/sports-news/joanita-borteye-to-represent-ghana-at-2026-youth-olympic-games-appoinnted-as-deputy-team-captain.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-31T17:34:45.000Z",
+      "summary": "The appointment comes on the back of growing international exposure, including her participation in the 2026 ITTF World Team Table Tennis Championships in London, where she represented…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/JOANITA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana urged to adopt rapid cancer diagnostic technology to cut delays in treatments",
+      "link": "https://www.myjoyonline.com/ghana-urged-to-adopt-rapid-cancer-diagnostic-technology-to-cut-delays-in-treatments/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T17:13:56.000Z",
+      "summary": "Founder and President of Breast Care International (BCI) Dr. Beatrice Wiafe Addai, has urged the Government to explore adopting rapid cancer diagnostic technology capable of producing…",
+      "categories": [
+        "Health",
+        "National",
+        "Cancer",
+        "Ghana",
+        "Technology"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2871.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amadu eyes gold, vows to silence Mwale again in IBA Africa final",
+      "link": "https://www.graphic.com.gh/sports/sports-news/amadu-eyes-gold-vows-to-silence-mwale-again-in-iba-africa-final.html",
+      "source": "Graphic Sports",
+      "published": "2026-10-31T17:06:55.000Z",
+      "summary": "The build-up has been spiced by verbal exchanges, with Mwale questioning the outcome of their previous encounter and insisting that home advantage helped Amadu in Accra. “He did not beat…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/AMADU.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Joseph Kofi Assempah named CEO of the Year – Print at Ghana CEO Awards",
+      "link": "https://www.myjoyonline.com/joseph-kofi-assempah-named-ceo-of-the-year-print-at-ghana-ceo-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T17:04:31.000Z",
+      "summary": "The award recognises Mr. Assempah's leadership in Ghana's printing and visual communication industry, as well as his contribution to the growth of Assempahfie Graphics, a printing and…",
+      "categories": [
+        "Business",
+        "National",
+        "Assempahfie Graphics",
+        "CEO of the year",
+        "Ghana CEO Awards",
+        "Joseph Kofi Assempah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/J.-K.-Assempah_20261031_123804_0000-1024x768.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -237,18 +285,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/qsqddCIA8Y3NQnDA35zVLXD9etUA7m0c.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Nyuori residents call for bridge over stream",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nyuori-residents-call-for-bridge-over-stream.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T10:13:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/bridge.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -407,42 +443,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/29/AMPEM_DARKOA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "FIFA U-17 Women's World Cup: Adarkwah targets semi-final spot after Black Maidens beat Argentina",
-      "link": "https://www.graphic.com.gh/sports/sports-news/fifa-u-17-womens-world-cup-adarkwah-targets-semi-final-spot-after-black-maidens-beat-argentina.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-29T11:24:11.000Z",
-      "summary": "“Matches like this, it's not easy. So, after winning it, you have to celebrate,” he said. “I'm very happy and I'm proud for the girls. We have done well.” He added that Ghana had controlled…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/ADARKKWAH.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana U-15 Boys lose to Paraguay on penalties in FIFA World Cup, remain among top eight teams",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-u-15-boys-lose-to-paraguay-on-penalties-in-fifa-world-cup-remain-among-top-eight-teams.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-29T11:03:22.000Z",
-      "summary": "The young Ghanaians had won seven consecutive matches, including impressive knockout-stage victories over the Republic of Korea (2-1) and Mexico (5-2), before their run was halted by…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/BOYS_15.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "The architecture of decline: Why Manchester United’s crisis exposes a deeper structural failure - Anglican priest writes",
-      "link": "https://www.graphic.com.gh/sports/sports-news/the-architecture-of-decline-why-manchester-uniteds-crisis-exposes-a-deeper-structural-failure-anglican-priest-writes.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-28T19:21:22.000Z",
-      "summary": "Yet, over the 13 years that followed, Manchester United transformed from football’s gold standard into a cautionary tale. Despite spending well over a billion pounds in the transfer market…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/28/Manintro.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]

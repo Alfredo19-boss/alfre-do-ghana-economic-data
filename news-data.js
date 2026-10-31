@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-31T15:32:07.539Z",
-  "worldAt": "2026-10-31T15:32:07.537Z",
+  "updated": "2026-10-31T19:30:21.936Z",
+  "worldAt": "2026-10-31T19:30:21.934Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,16 +20,16 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 7/25 stories",
+    "Graphic Online: 8/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
-    "Citi Newsroom wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -39,13 +39,41 @@ window.GDC_NEWS = {
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 27 stories",
+    "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 3 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Asanko Gold organises health screening for residents in host communities",
+      "link": "https://www.graphic.com.gh/news/general-news/asanko-gold-organises-health-screening-for-residents-in-host-communities.html",
+      "source": "Graphic Online",
+      "published": "2026-10-31T18:46:40.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Ghana, Burkina Faso Pursue Trade Pact to Expand Industrial Cooperation and Cross-Border Commerce",
+      "link": "https://thehighstreetjournal.com/ghana-burkina-faso-pursue-trade-pact-to-expand-industrial-cooperation-and-cross-border-commerce/",
+      "source": "The High Street Journal",
+      "published": "2026-10-31T18:00:00.000Z",
+      "summary": "Ghana and Burkina Faso are pursuing a bilateral trade agreement to expand cross-border commerce, strengthen industrial value chains and create export opportunities following more than US$1…"
+    },
+    {
+      "title": "Joseph Kofi Assempah named CEO of the Year – Print at Ghana CEO Awards",
+      "link": "https://www.myjoyonline.com/joseph-kofi-assempah-named-ceo-of-the-year-print-at-ghana-ceo-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T17:04:31.000Z",
+      "summary": "The award recognises Mr. Assempah's leadership in Ghana's printing and visual communication industry, as well as his contribution to the growth of Assempahfie Graphics, a printing and…"
+    },
+    {
+      "title": "MTN Ghana’s GH¢15bn Revenue Growth Signals Expanding Digital Economy and Investment Push",
+      "link": "https://thehighstreetjournal.com/mtn-ghanas-gh%c2%a215bn-revenue-growth-signals-expanding-digital-economy-and-investment-push/",
+      "source": "The High Street Journal",
+      "published": "2026-10-31T16:00:42.000Z",
+      "summary": "MTN Ghana's rising mobile money transactions, GH¢15 billion service revenue and US$1.1 billion investment programme highlight expanding digital demand, infrastructure opportunities and…"
+    },
     {
       "title": "Ghana’s 22 New Laws: Will They Reduce Business Risks and Investment Uncertainty?",
       "link": "https://thehighstreetjournal.com/ghanas-22-new-laws-will-they-reduce-business-risks-and-investment-uncertainty/",
@@ -1067,37 +1095,104 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-28T16:20:33.000Z",
       "summary": "AngloGold Ashanti’s Obuasi Mine and Endeavour Mining will jointly host the 2026 West Africa Mine Rescue and Emergency Response Competition (WAMRERC) from November 2 to 6 in Obuasi, Ghana…"
-    },
-    {
-      "title": "Trade Minister pushes for stronger Ghana-Guinea trade and industrial ties",
-      "link": "https://www.myjoyonline.com/trade-minister-pushes-for-stronger-ghana-guinea-trade-and-industrial-ties/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T16:16:06.000Z",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger economic cooperation between Ghana and Guinea to expand bilateral trade, promote…"
-    },
-    {
-      "title": "Ghana Bauxite Company secures US$250m Ecobank Financing to improve operations ahead of refinery",
-      "link": "https://www.myjoyonline.com/ghana-bauxite-company-secures-us250m-ecobank-financing-to-improve-operations-ahead-of-refinery/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-28T15:47:45.000Z",
-      "summary": "Ghana Bauxite Company secures US$250m Ecobank Financing to improve operations ahead of refinery."
-    },
-    {
-      "title": "Poor Transport Infrastructure Threatens AfCFTA’s Promise of Bigger African Markets",
-      "link": "https://thehighstreetjournal.com/poor-transport-infrastructure-threatens-afcftas-promise-of-bigger-african-markets/",
-      "source": "The High Street Journal",
-      "published": "2026-10-28T15:06:00.000Z",
-      "summary": "President Mahama says inadequate roads, railways and port facilities are limiting AfCFTA benefits, urging stronger international partnerships to improve connectivity, reduce trade costs and…"
-    },
-    {
-      "title": "Two Terms or Two Consecutive Terms? NPP’s Supreme Court Suit Puts Presidential Term Limits Under Scrutiny",
-      "link": "https://thehighstreetjournal.com/two-terms-or-two-consecutive-terms-npps-supreme-court-suit-puts-presidential-term-limits-under-scrutiny/",
-      "source": "The High Street Journal",
-      "published": "2026-10-28T14:54:34.000Z",
-      "summary": "The suit is one of five cases identified by Deputy Attorney-General Dr. Justice Srem-Sai as pending before the Supreme Court concerning presidential term limits."
     }
   ],
   "world": [
+    {
+      "title": "How vulnerable are cryptocurrency platforms?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T19:19:29.000Z",
+      "summary": "Hackers have targeted Binance, the world’s largest exchange."
+    },
+    {
+      "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+      "source": "NPR World",
+      "published": "2026-10-31T18:42:33.000Z",
+      "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Faa%2F00209429492ba03523634db38c54%2Fap26303093614138.jpg"
+    },
+    {
+      "title": "Palestinians ‘Stealing their own olives’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T19:18:32.000Z",
+      "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians."
+    },
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T17:53:35.000Z",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T18:50:25.000Z",
+      "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan."
+    },
+    {
+      "title": "Iran's Khamenei warns US and Israel against new attacks",
+      "link": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+      "source": "France 24",
+      "published": "2026-10-31T17:00:36.000Z",
+      "summary": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President…",
+      "image": "https://s.france24.com/media/display/77114946-d54c-11f1-8f61-a575454bc579/w:1024/p:16x9/AP26285515397254.jpg"
+    },
+    {
+      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+      "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T18:48:29.000Z",
+      "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription."
+    },
+    {
+      "title": "Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+      "link": "http://www.africanews.com/2026/10/31/ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts/",
+      "source": "Africanews",
+      "published": "2026-10-31T16:36:47.000Z",
+      "summary": "Deaths in Congo’s Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government…"
+    },
+    {
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T18:32:20.000Z",
+      "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory."
+    },
+    {
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T16:32:08.000Z",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+    },
+    {
+      "title": "Tension and clashes as hundreds of thousands protest again in France",
+      "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T18:28:14.000Z",
+      "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools."
+    },
+    {
+      "title": "2,000 Salvadoran troops take quarters in Haiti to help fight gangs",
+      "link": "http://www.africanews.com/2026/10/31/2000-salvadoran-troops-take-quarters-in-haiti-to-help-fight-gangs/",
+      "source": "Africanews",
+      "published": "2026-10-31T15:42:44.000Z",
+      "summary": "The deployment followed a gang attack on four Salvadoran members of the Gang Suppression Force who went missing"
+    },
+    {
+      "title": "Coventry win leaves Man United on brink of Premier League relegation zone",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T17:51:15.000Z",
+      "summary": "Manchester United one place outside the EPL's bottom three as Coventry City climb with 3-1 win over Sunderland."
+    },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
@@ -1107,26 +1202,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
     },
     {
-      "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
+      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+      "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T15:09:59.000Z",
-      "summary": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League."
-    },
-    {
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-31T14:53:34.000Z",
-      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T14:31:37.000Z",
-      "summary": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’."
+      "published": "2026-10-31T17:49:23.000Z",
+      "summary": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp."
     },
     {
       "title": "Ethiopian PM puts ministers through military training",
@@ -1137,12 +1217,26 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg"
     },
     {
+      "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T17:38:18.000Z",
+      "summary": "Michigan Muslims helped elect Trump. Now their faith is under fire"
+    },
+    {
       "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
       "link": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
       "source": "France 24",
       "published": "2026-10-31T14:28:10.000Z",
       "summary": "Turkey has nominated its former foreign minister and UN ambassador Feridun Hadi Sinirlioglu for the position of UN secretary-general, state-media reported on Saturday. The submission was…",
       "image": "https://s.france24.com/media/display/0c8c6ba0-d533-11f1-8f20-d18c5759e759/w:1024/p:16x9/AP26304313866709.jpg"
+    },
+    {
+      "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T17:32:42.000Z",
+      "summary": "Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL."
     },
     {
       "title": "Senegal set for opening ceremony of Youth Olympic Games",
@@ -1152,11 +1246,11 @@ window.GDC_NEWS = {
       "summary": "About 2,700 young athletes aged 14 to 17 will compete through Nov. 13 in the capital, Dakar, the nearby city of Diamniadio and the beach resort of Saly"
     },
     {
-      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
-      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+      "title": "Jerusalem Daily: Who will form Israel’s next government?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T14:20:23.000Z",
-      "summary": "Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan."
+      "published": "2026-10-31T17:29:00.000Z",
+      "summary": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset."
     },
     {
       "title": "Watch: Blood donors get a Halloween fright in Thailand",
@@ -1167,11 +1261,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6e/live/d3851b40-d528-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-      "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+      "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T13:35:51.000Z",
-      "summary": "Despite genocide, regional war and isolation, Israel's election revealed little appetite for political alternatives."
+      "published": "2026-10-31T17:21:05.000Z",
+      "summary": "Fakhar Zaman's century outdoes Kamindu Mendis and propels Pakistan to three-wicket win against Sri Lanka in cricket final."
     },
     {
       "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
@@ -1182,26 +1276,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/bff7a79c-d53b-11f1-8be7-a575454bc579/w:1024/p:16x9/AP26304492932574.jpg"
     },
     {
-      "title": "Burnham opens door to formal apology for Britain’s slave trade",
-      "link": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+      "title": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T13:19:23.000Z",
-      "summary": "UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands."
+      "published": "2026-10-31T17:19:44.000Z",
+      "summary": "Democratic doctors aim to convert the backlash against the Trump administration’s health policies into midterm votes."
     },
     {
       "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
       "link": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
       "source": "France 24",
       "published": "2026-10-31T12:31:49.000Z",
-      "summary": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologizing for the first time for its role in the transatlantic slave trade, but has rejected calls for the…",
+      "summary": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial…",
       "image": "https://s.france24.com/media/display/0a003486-d527-11f1-b75d-bf1914cabd52/w:1024/p:16x9/74706f6624812bdb75973570d6ce3acdf7330c24.jpg"
     },
     {
-      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+      "title": "Dakar Youth Olympics: Who gets to hold the flame?",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T12:58:28.000Z",
-      "summary": "As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions."
+      "published": "2026-10-31T17:17:21.000Z",
+      "summary": "Senegal makes history by becoming the first African country to host an Olympic event."
     },
     {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
@@ -1212,11 +1306,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss",
+      "title": "Flavio Bolsonaro says he may run again for Brazilian presidency",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-says-he-may-run-again-for-brazilian-presidency?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T12:55:00.000Z",
-      "summary": "West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh."
+      "published": "2026-10-31T17:12:11.000Z",
+      "summary": "Flavio Bolsonaro says he may run again for Brazilian presidency"
     },
     {
       "title": "Tshisekedi seeks Putin's help against Rwanda-backed rebels",
@@ -1226,11 +1320,11 @@ window.GDC_NEWS = {
       "summary": "President Felix Tshisekedi said he \"absolutely\" wanted the help of Russia, a permanent UN Security Council member \"in the search for peace\" with Rwanda, during talks with Putin at the end…"
     },
     {
-      "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
-      "link": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
+      "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+      "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T12:49:04.000Z",
-      "summary": "Artists in Sudan are working to save culture and traditions amid the country's war."
+      "published": "2026-10-31T16:28:04.000Z",
+      "summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending."
     },
     {
       "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
@@ -1241,11 +1335,11 @@ window.GDC_NEWS = {
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/26-10-2026_james_heenan.jpg/image560x340cropped.jpg"
     },
     {
-      "title": "Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?",
-      "link": "https://www.aljazeera.com/news/2026/10/31/alaskas-two-dan-sullivans-how-common-is-ballot-stacking-does-it-work?traffic_source=rss",
+      "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T12:47:16.000Z",
-      "summary": "Same names on Alaska ballot triggered political firestorm in US, prompting a Justice Department investigation."
+      "published": "2026-10-31T15:43:46.000Z",
+      "summary": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1."
     },
     {
       "title": "Somalia looks to the future as the UN's political mission closes",
@@ -1256,11 +1350,11 @@ window.GDC_NEWS = {
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/30-10-2026-UNTMIS-Somalia-03.jpg/image560x340cropped.jpg"
     },
     {
-      "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
-      "link": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
+      "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T12:45:49.000Z",
-      "summary": "A new outbreak in fighting in Yemen has forced tens of thousands of people from their homes."
+      "published": "2026-10-31T15:09:59.000Z",
+      "summary": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League."
     },
     {
       "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
@@ -1271,11 +1365,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x5328+0+0/resize/8000x5328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2Fdd%2F7ca94032447789d52228608bf99e%2Fnc-shipbreaking-on-the-mudflats-bay-of-bengal-george-steinmetz.jpg"
     },
     {
-      "title": "Former rebel leader elected chief minister of Philippine Muslim region",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss",
+      "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T12:23:06.000Z",
-      "summary": "Former Muslim rebel leader Abdulraof Macacua has been elected chief minister of the Philippines' Bangsamoro region."
+      "published": "2026-10-31T14:31:37.000Z",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’."
     },
     {
       "title": "Binance hit by 6.3 billion dollar crypto theft",
@@ -1286,11 +1380,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/00c0623e-d51c-11f1-b31c-a575454bc579/w:1024/p:16x9/EN-20261030-210458-211233-CS.jpg"
     },
     {
-      "title": "Paris steps up security as police patrol streets",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "link": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T12:22:49.000Z",
-      "summary": "Paris steps up security as police patrol streets"
+      "published": "2026-10-31T14:20:23.000Z",
+      "summary": "Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan."
     },
     {
       "title": "France's Nunez warns of high risk during protests",
@@ -1299,105 +1393,30 @@ window.GDC_NEWS = {
       "published": "2026-10-31T11:15:19.000Z",
       "summary": "France is bracing for a third consecutive weekend of protests, with around 70,000 security personnel deployed to prevent a repeat of the violence seen on October 17. Shops have boarded up…",
       "image": "https://s.france24.com/media/display/28a91dfa-d51b-11f1-a0c0-695cb59fade5/w:1024/p:16x9/EN-20261031-110135-110319-CS.jpg"
-    },
-    {
-      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T12:22:45.000Z",
-      "summary": "Withdrawal from the nuclear treaty doses not mean that Iran would build a nuclear weapon, observers say."
-    },
-    {
-      "title": "Third weekend of protests in France",
-      "link": "https://www.france24.com/en/third-weekend-of-protests-in-france",
-      "source": "France 24",
-      "published": "2026-10-31T11:13:44.000Z",
-      "summary": "France is preparing for a third weekend of protests, with 70,000 security personnel deployed to prevent a repeat of the violence seen on October 17. Shops have boarded up their premises as…",
-      "image": "https://s.france24.com/media/display/8d26b616-d51b-11f1-b158-d18c5759e759/w:1024/p:16x9/EN-20261031-110610-110903-CS.jpg"
-    },
-    {
-      "title": "Aston Villa to sue ex-Liverpool star Carragher over ‘unacceptable insults’",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/aston-villa-jamie-carragher-legal-action-sue-premier-league-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T12:14:15.000Z",
-      "summary": "Aston Villa chairman accuses ex-Liverpool defender Jamie Carragher of insulting the club, with legal action threatened."
-    },
-    {
-      "title": "Trump vs MAGA: Why his movement is splitting",
-      "link": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
-      "source": "France 24",
-      "published": "2026-10-31T10:11:47.000Z",
-      "summary": "As the 2026 midterm elections approach, divisions within the MAGA camp are becoming increasingly visible. From the war in Iran and rising fuel prices to the Epstein files, several of…",
-      "image": "https://s.france24.com/media/display/1b3c170e-d515-11f1-8178-695cb59fade5/w:1024/p:16x9/MAGA-Why-Trump-s-movement-is-fracturing.jpg"
-    },
-    {
-      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-      "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T12:13:42.000Z",
-      "summary": "Iran’s supreme leader says Tehran’s potential response will not be restricted by geography."
-    },
-    {
-      "title": "South African court sets limits on anti-migrant marches",
-      "link": "http://www.africanews.com/2026/10/31/south-african-court-sets-limits-on-anti-migrant-marches/",
-      "source": "Africanews",
-      "published": "2026-10-31T10:08:24.000Z",
-      "summary": "Under the revised terms, the group may march between 9am and 3pm, with participants barred from carrying weapons or covering their faces. The group was also prohibited from destroying…"
-    },
-    {
-      "title": "UN closes Somalia mission, ending three decades of political engagement",
-      "link": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T11:37:21.000Z",
-      "summary": "Somalia hails the UN mission's closure as a milestone amid political tensions and cuts to international support."
-    },
-    {
-      "title": "PSG secure 9th consecutive win thanks to Achraf Hakimi hat-trick",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261031-psg-secure-9th-consecutive-win-thanks-to-achraf-hakimi-hat-trick",
-      "source": "France 24",
-      "published": "2026-10-31T09:51:06.000Z",
-      "summary": "A night to remember for PSG in Le Havre. In the opening fixture of Ligue 1's ninth round, the French champions thrashed Le Havre at the Stade Océane, inspired by an outstanding performance…",
-      "image": "https://s.france24.com/media/display/8ef6341c-d4d0-11f1-93dd-695cb59fade5/w:1024/p:16x9/000-D4YG3ZQ.jpg"
-    },
-    {
-      "title": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
-      "link": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T11:30:00.000Z",
-      "summary": "As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse."
-    },
-    {
-      "title": "'Atmosphere of fear': Trump moves to curtail voting rights ahead of the midterms",
-      "link": "https://www.france24.com/en/americas/20261031-united-states-atmosphere-of-fear-trump-moves-to-curtail-voting-rights-ahead-of-the-midterms",
-      "source": "France 24",
-      "published": "2026-10-31T09:40:54.000Z",
-      "summary": "Americans vote on November 3 in midterm elections that could see Republicans lose control of Congress, endangering US President Donald Trump's legislative agenda. Under the US Constitution…",
-      "image": "https://s.france24.com/media/display/e60e1826-cefb-11f1-8e8e-bba4eee3dc72/w:1024/p:16x9/AP26296071599538.jpg"
-    },
-    {
-      "title": "Protests outside Poland’s constitutional court: What’s the crisis about?",
-      "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T11:27:07.000Z",
-      "summary": "Poland’s centrist government says it is restoring judicial independence after years of far-right political interference."
-    },
-    {
-      "title": "Senegal hosts Africa’s first ever Youth Olympic Games",
-      "link": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
-      "source": "France 24",
-      "published": "2026-10-31T09:37:07.000Z",
-      "summary": "The 2026 Youth Olympic Games opens with a spectacular ceremony Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent…",
-      "image": "https://s.france24.com/media/display/0ac93fb2-d508-11f1-9a1a-a575454bc579/w:1024/p:16x9/000-D4YN3TJ.jpg"
-    },
-    {
-      "title": "Thousands protest across Italy over living costs and military spending",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T11:07:39.000Z",
-      "summary": "Thousands have protested across Italy against rising living costs and increased military spending."
     }
   ],
   "africa": [
+    {
+      "title": "Dakar Youth Olympics: Who gets to hold the flame?",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T17:17:21.000Z",
+      "summary": "Senegal makes history by becoming the first African country to host an Olympic event."
+    },
+    {
+      "title": "Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+      "link": "http://www.africanews.com/2026/10/31/ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts/",
+      "source": "Africanews",
+      "published": "2026-10-31T16:36:47.000Z",
+      "summary": "Deaths in Congo’s Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government…"
+    },
+    {
+      "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T15:43:46.000Z",
+      "summary": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1."
+    },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
@@ -1661,27 +1680,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-10-30T14:58:31.000Z",
       "summary": "A first body was recovered Friday from the rubble of an 18-storey building that collapsed a week ago in Nairobi, as 16 people remain missing."
-    },
-    {
-      "title": "Tunisia: Tunisia's 1st Agricultural Census Launched",
-      "link": "https://allafrica.com/stories/202610300525.html",
-      "source": "AllAfrica",
-      "published": "2026-10-30T16:02:04.000Z",
-      "summary": "[Tunis Afrique Presse] Tunis -- Minister of Agriculture, Water Resources and Fisheries Ezzeddine Ben Cheikh, announced Friday the launch of Tunisia's first general digital agricultural…"
-    },
-    {
-      "title": "Ghanaian teenager, 15, shot dead near New York school",
-      "link": "http://www.africanews.com/2026/10/30/ghanaian-teenager-15-shot-dead-near-new-york-school/",
-      "source": "Africanews",
-      "published": "2026-10-30T14:01:51.000Z",
-      "summary": "A 15-year-old boy originally from Ghana has died after being shot near his school in New York City, as police search for three teenagers in connection with the killing."
-    },
-    {
-      "title": "Kenya: Ruto - Why Bayern V Ajax in Nairobi Is Perfect Tribute to Former PM Raila Odinga",
-      "link": "https://allafrica.com/stories/202610300524.html",
-      "source": "AllAfrica",
-      "published": "2026-10-30T16:01:36.000Z",
-      "summary": "[Capital FM] NAIROBI -- President William Ruto believes there could be no better way to honour former Prime Minister Raila Odinga than a blockbuster tie between Bayern Munich and Ajax at a…"
     }
   ]
 };
