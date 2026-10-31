@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-31T19:30:35.192Z",
+  "updated": "2026-10-31T22:44:42.167Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,194 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Stable on paper. What about your pocket?",
+      "link": "https://www.myjoyonline.com/stable-on-paper-what-about-your-pocket/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T22:35:11.000Z",
+      "summary": "Dr Mahamudu Bawumia and Hon.Kojo Oppong Nkrumah have raised critical questions about Ghana’s economy. However, the Government is confident in its recovery from the cost-of-living crisis…",
+      "categories": [
+        "Economy",
+        "Opinion",
+        "pocket",
+        "stable on paper"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-19.05.32-683x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From stability to transformation: 5 tests for Ghana’s 2027 Budget",
+      "link": "https://www.myjoyonline.com/from-stability-to-transformation-5-tests-for-ghanas-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T22:34:04.000Z",
+      "summary": "The government proposes lowering the primary surplus on a commitment basis from 1.5% to 0.5% of GDP from 2027. A primary surplus is the excess of revenue over spending before interest…",
+      "categories": [
+        "Comp. Opinion",
+        "HP Opinion 1",
+        "2027 Budget",
+        "Fiscal Deficit",
+        "GDP",
+        "IMF",
+        "Inflation",
+        "new economy",
+        "Stability"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-13.39.56-1024x831.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana courts Qatari investors into key sectors of economy",
+      "link": "https://www.myjoyonline.com/ghana-courts-qatari-investors-into-key-sectors-of-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T22:21:07.000Z",
+      "summary": "In an interview with Doha News in Qatar, Mr Madjie said improved air connectivity between the two countries would facilitate business engagements, promote trade and boost investment flows.",
+      "categories": [
+        "Business",
+        "Investments",
+        "Ghana",
+        "GIPC",
+        "Qatar",
+        "Simon Madjie",
+        "UNCTAD",
+        "World Investment Forum 2026"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Simon-Madjie-819x1024.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MIIF leads 50-hectare forest restoration project in Sekyere Krobo",
+      "link": "https://www.myjoyonline.com/miif-leads-50-hectare-forest-restoration-project-in-sekyere-krobo/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T22:06:32.000Z",
+      "summary": "The Minerals Income Investment Fund (MIIF), in partnership with the Forestry Commission and supported by Zijin Golden Ridge Ghana and other partners has commissioned a five-year project to…",
+      "categories": [
+        "Business",
+        "Mining",
+        "Dr Sarfo Adu",
+        "ESG",
+        "Forestry Comission",
+        "Justina Nelson",
+        "MIIF",
+        "Nana Kwao Badu II",
+        "Sekyere Krobo",
+        "Zijin Golden Ridge"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-13.43.59-1024x731.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GAYO partners with MMDAs and schools to promote waste segregation in Greater Accra",
+      "link": "https://www.myjoyonline.com/gayo-partners-with-mmdas-and-schools-to-promote-waste-segregation-in-greater-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T22:03:13.000Z",
+      "summary": "The Green Africa Youth Organization (GAYO) has partnered with metropolitan, municipal and district assemblies and schools across Greater Accra to promote waste segregation among students…",
+      "categories": [
+        "Regional",
+        "GAYO",
+        "Greater Accra",
+        "Waste segregation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ORGANIC-PLASTIC-WASTE-70-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GAYO, some Accra schools turn to composting and recycling to beat the waste problem with fresh bins",
+      "link": "https://www.myjoyonline.com/gayo-some-accra-schools-turn-to-composting-and-recycling-to-beat-the-waste-problem-with-fresh-bins/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T21:56:03.000Z",
+      "summary": "Schools in Accra that separate their waste say their efforts are being wasted because collection trucks mix the sorted rubbish back together when they pick it up. Education officials in the…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Accra schools",
+        "GAYO",
+        "Recycling",
+        "waste problems"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ORGANIC-PLASTIC-WASTE-121-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Eight dead in bus crash at Azuletti on Elubo-Takoradi N1 highway",
+      "link": "https://www.graphic.com.gh/news/general-news/eight-dead-in-bus-crash-at-azuletti-on-elubo-takorai-n1-highway.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T21:52:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/01/crash1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Why Financing Government is more rewarding in Africa than financing enterprise and the threat to economic integration",
+      "link": "https://www.myjoyonline.com/why-financing-government-is-more-rewarding-in-africa-than-financing-enterprise-and-the-threat-to-economic-integration/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T21:43:38.000Z",
+      "summary": "The gradual implementation of the African Continental Free Trade Area has brought greater focus on the advantages of significantly increasing intra-African trade from the current 16%–17%…",
+      "categories": [
+        "Opinion",
+        "Africa",
+        "economic integration",
+        "Enterprise",
+        "financing government"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-11.19.56-1024x666.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Video captures teachers stepping on a student’s head in violent Techiman SHS incident",
+      "link": "https://www.myjoyonline.com/video-captures-teachers-stepping-on-a-students-head-in-violent-techiman-shs-incident/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T21:37:39.000Z",
+      "summary": "A disturbing video circulating on social media has revealed a violent incident at Techiman Senior High School (SHS) in the Bono East Region, showing two teachers assaulting a final-year…",
+      "categories": [
+        "Education",
+        "In Focus",
+        "National",
+        "Student's head",
+        "Techiman SHS",
+        "Video"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-21.37.04.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama back home after Russia-Africa Summit",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-back-home-after-pivotal-russia-africa-summit.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T21:02:08.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/01/mahama_russia.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Trump agrees to immediately grant emergency travel visa to Javits Frimpong's mother to mourn her son in person",
+      "link": "https://www.graphic.com.gh/news/general-news/trump-agrees-to-immediately-grant-emergency-travel-visa-javits-frimpongs-mother-to-mourn-her-son-in-person.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T20:51:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/30/javits.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Youth leadership critical to West Africa’s progress – Goodluck Jonathan",
+      "link": "https://www.graphic.com.gh/news/politics/youth-leadership-critical-to-west-africas-progress-goodluck-jonathan.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T19:20:56.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/GOODLUCK.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Ghana Premier League: Kotoko plot Medeama ambush, Hearts threaten title shake-up",
       "link": "https://www.graphic.com.gh/sports/sports-news/kotoko-plot-medeama-ambush-hearts-threaten-title-shake-up.html",
       "source": "Graphic Sports",
@@ -35,6 +223,18 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/31/KOBNA.jpg",
       "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana and Russia agree on new defence pact",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-and-russia-agree-on-new-defence-pact.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T18:59:52.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/01/rus1.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Asanko Gold organises health screening for residents in host communities",
@@ -49,104 +249,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GPHA honours industry partners, former management at 40th anniversary awards",
-      "link": "https://www.myjoyonline.com/gpha-honours-industry-partners-former-management-at-40th-anniversary-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T18:37:31.000Z",
-      "summary": "The Ghana Ports and Harbours Authority (GPHA) has honoured shipping lines, shipping agents, cargo customers, staff and former leaders as part of activities marking its 40th anniversary.",
-      "categories": [
-        "National",
-        "anniversary",
-        "GPHA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-5.16.47-AM-1024x608.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ablakwa has earned my respect – Akwatia MP vows to lead demonstration if he resigns",
-      "link": "https://www.myjoyonline.com/ablakwa-has-earned-my-respect-akwatia-mp-vows-to-lead-demonstration-if-he-resigns/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T18:30:00.000Z",
-      "summary": "Member of Parliament for Akwatia, Bernard Bediako Baidoo, has thrown his support behind Foreign Affairs Minister Samuel Okudzeto Ablakwa, declaring that he would personally lead a…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "News",
-        "Akwatia MP",
-        "Demonstration",
-        "Okudzeto Ablakwa"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2875.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samson’s Take on Adu-Boahene: GHS49.1m stolen, or a story the evidence cannot sustain",
-      "link": "https://www.myjoyonline.com/samsons-take-on-adu-boahene-ghs49-1m-stolen-or-a-story-the-evidence-cannot-sustain/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T18:30:00.000Z",
-      "summary": "The High Court on Thursday dismissed an application by lawyers for former National Signals Bureau Director General Kwabena Adu Boahene and is co-accused to strike out portions of the…",
-      "categories": [
-        "HP Opinion 2",
-        "In Focus",
-        "National",
-        "Adu- Boahene",
-        "Samsons Take"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2834.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Poison in Prison; Mahama’s 3rd term; Okudzeto’s evacuees – Enimil Ashon writes",
-      "link": "https://www.myjoyonline.com/poison-in-prison-mahamas-3rd-term-okudzetos-evacuees-enimil-ashon-writes/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T18:23:00.000Z",
-      "summary": "This “attempted poisoning” business at the Nsawam Prison! I am alarmed because I am concerned about the health of Chairman Wontumi.",
-      "categories": [
-        "HP Opinion 3",
-        "National",
-        "Opinion",
-        "Enimil Ashon",
-        "Mahama",
-        "Okudzeto",
-        "poison",
-        "Prison"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2886.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Make vote-buying costly in party elections — Bernard Mornah",
-      "link": "https://www.myjoyonline.com/make-vote-buying-costly-in-party-elections-bernard-mornah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T18:05:28.000Z",
-      "summary": "The leader of the People's National Convention (PNC), Bernard Anbataayela Mornah, has called on political parties to make vote-buying costly, campaign financing transparent, and competence…",
-      "categories": [
-        "National",
-        "Bernard Mornah",
-        "Elections",
-        "Vote-buying"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2864.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GTEC cautions universities against compromising quality in doctoral admissions",
-      "link": "https://www.myjoyonline.com/gtec-cautions-universities-against-compromising-quality-in-doctoral-admissions/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T17:48:37.000Z",
-      "summary": "The Ghana Tertiary Education Commission (GTEC) has cautioned universities against admitting more doctoral candidates than their institutional capacity can adequately support, warning that…",
-      "categories": [
-        "Education",
-        "National",
-        "News",
-        "Doctoral admission",
-        "GTEC",
-        "University"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Education-PhD-Quality-1-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Joanita Borteye to represent Ghana at 2026 Youth Olympic Games, appointed as Deputy Team Captain",
       "link": "https://www.graphic.com.gh/sports/sports-news/joanita-borteye-to-represent-ghana-at-2026-youth-olympic-games-appoinnted-as-deputy-team-captain.html",
       "source": "Graphic Sports",
@@ -157,22 +259,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/31/JOANITA.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana urged to adopt rapid cancer diagnostic technology to cut delays in treatments",
-      "link": "https://www.myjoyonline.com/ghana-urged-to-adopt-rapid-cancer-diagnostic-technology-to-cut-delays-in-treatments/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T17:13:56.000Z",
-      "summary": "Founder and President of Breast Care International (BCI) Dr. Beatrice Wiafe Addai, has urged the Government to explore adopting rapid cancer diagnostic technology capable of producing…",
-      "categories": [
-        "Health",
-        "National",
-        "Cancer",
-        "Ghana",
-        "Technology"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2871.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Amadu eyes gold, vows to silence Mwale again in IBA Africa final",
@@ -187,104 +273,27 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Joseph Kofi Assempah named CEO of the Year – Print at Ghana CEO Awards",
-      "link": "https://www.myjoyonline.com/joseph-kofi-assempah-named-ceo-of-the-year-print-at-ghana-ceo-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T17:04:31.000Z",
-      "summary": "The award recognises Mr. Assempah's leadership in Ghana's printing and visual communication industry, as well as his contribution to the growth of Assempahfie Graphics, a printing and…",
-      "categories": [
-        "Business",
-        "National",
-        "Assempahfie Graphics",
-        "CEO of the year",
-        "Ghana CEO Awards",
-        "Joseph Kofi Assempah"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/J.-K.-Assempah_20261031_123804_0000-1024x768.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NACOC, Immigration destroy cannabis gardens in Nadowli District",
-      "link": "https://www.graphic.com.gh/news/general-news/nacoc-immigration-destroy-cannabis-gardens-in-nadowli-district.html",
+      "title": "Two arrested over murder of female tricycle rider at Afrancho",
+      "link": "https://www.graphic.com.gh/news/general-news/two-arrested-over-murder-of-tricycle-rider-at-afrancho.html",
       "source": "Daily Graphic",
-      "published": "2026-10-31T11:11:17.000Z",
+      "published": "2026-10-31T16:17:20.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/2.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/police.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Gov't demands justice for teenager fatally shot in the Bronx",
-      "link": "https://www.graphic.com.gh/news/general-news/govt-demands-justice-for-teenager-fatally-shot-in-the-bronx.html",
+      "title": "NPP on Ghanaian diplomatic, service passports issued to persons who do not hold official positions on behalf of the state",
+      "link": "https://www.graphic.com.gh/news/politics/npp-on-ghanaian-diplomatic-service-passports-issued-to-persons-who-do-not-hold-official-positions-on-behalf-of-the-state.html",
       "source": "Daily Graphic",
-      "published": "2026-10-31T11:06:06.000Z",
+      "published": "2026-10-31T11:48:52.000Z",
       "summary": "",
       "categories": [
-        "General News"
+        "Politics"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/javits.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "End fear, stigma, silence surrounding breast cancer - ICU-Ghana, Ibis Styles Hotel join forces to create awareness",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-end-fear-stigma-silence-surrounding-breast-cancer-icu-ghana-ibis-styles-hotel-join-forces-to-create-awareness.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T10:25:53.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/Morgan.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "JUSAG declares indefinite nationwide strike from November 2 over unpaid salaries",
-      "link": "https://www.graphic.com.gh/news/general-news/jusag-declares-indefinite-nationwide-strike-from-november-2-over-unpaid-salaries.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T10:24:05.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "22 Laws introduced to lock in reforms, protect economic gains — Dr Ato Forson",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-22-laws-introduced-to-lock-in-reforms-protect-economic-gains-dr-ato-forson.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T10:23:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/Cassiel.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama challenges Ghanaians to make courageous domestic investment",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-challenges-ghanaians-to-make-courageous-domestic-investment.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T10:19:30.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/event.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama declares end to ‘dumsor’, says every Ghanaian now has access to power",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-declares-end-to-dumsor-says-every-ghanaian-now-has-access-to-power.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T10:15:40.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/23/qsqddCIA8Y3NQnDA35zVLXD9etUA7m0c.jpg",
+      "image": "https://www.graphic.com.gh/images/2022/aug/17/justin_kodua.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
