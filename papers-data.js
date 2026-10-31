@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-31T03:19:48.689Z",
+  "updated": "2026-10-31T09:49:13.779Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,63 +25,155 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "We believe 5G investment underscores our commitment to sustaining network quality, supporting Ghana’s growing digital connectivity – MTN",
-      "link": "https://www.myjoyonline.com/we-believe-5g-investment-underscores-our-commitment-to-sustaining-network-quality-supporting-ghanas-growing-digital-connectivity-mtn/",
+      "title": "Prof Bokpin calls for a national review of Mahama’s fight against galamsey",
+      "link": "https://www.myjoyonline.com/prof-bokpin-calls-for-a-national-review-of-mahamas-fight-against-galamsey/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T03:01:49.000Z",
-      "summary": "“We believe this investment underscores our commitment to sustaining network quality and building the capacity required to support Ghana’s growing digital connectivity needs”, it disclosed…",
+      "published": "2026-10-31T09:43:26.000Z",
+      "summary": "Professor of Finance and Economist at the University of Ghana, Prof Godfred Bokpin, has called for a national review of the Mahama administration’s fight against illegal mining, popularly…",
       "categories": [
-        "Business",
-        "Telecom",
-        "5G",
-        "cash flow",
-        "Divident outlook",
-        "Financial Report",
-        "GSE",
-        "MTN",
-        "NCA"
+        "HP News 8",
+        "National",
+        "Galamsey Fight",
+        "national review",
+        "President John Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-616-1024x690.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/The-Changfangs-used-for-Galamsey-1536x864-1-1024x576.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Youth unemployment exceeds 32%; about 12m Ghanaians are between 15 and 35 years – GSS",
-      "link": "https://www.myjoyonline.com/youth-unemployment-exceeds-32-about-12m-ghanaians-are-between-15-and-35-years-gss/",
+      "title": "NACOC destroys cannabis farms in Nadowli District",
+      "link": "https://www.myjoyonline.com/nacoc-destroys-cannabis-farms-in-nadowli-district/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T01:54:20.000Z",
-      "summary": "About 12 million Ghanaians were aged 15 to 35 in 2025, roughly one in every three people and the largest youth population in the country’s history. The figures are presented in Ghana in…",
+      "published": "2026-10-31T09:31:28.000Z",
+      "summary": "The Upper West Regional Command of the Narcotics Control Commission (NACOC), in a joint operation with officers of the Ghana Immigration Service (GIS), has destroyed several cannabis farms…",
       "categories": [
-        "Business",
-        "Economy",
-        "Dr. Alhassan Iddrisu",
-        "Formal job",
-        "GSS",
-        "Informal job",
-        "NEET",
-        "Youth Unemployment"
+        "National",
+        "Cannabis farms",
+        "NACOC",
+        "Nadowli District"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Government-Statistician_Dr.-Alhassan-Iddrisu_700x500-700x470-1-700x375-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2836-1024x768.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The cost of staying alive: diabetes, hypertension and the price of a working life in Ghana",
-      "link": "https://www.myjoyonline.com/the-cost-of-staying-alive-diabetes-hypertension-and-the-price-of-a-working-life-in-ghana/",
+      "title": "NAIMOS not adequately equipped to fight galamsey – Awula Serwah",
+      "link": "https://www.myjoyonline.com/naimos-not-adequately-equipped-to-fight-galamsey-awula-serwah/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T01:39:17.000Z",
-      "summary": "The World Health Organisation (WHO) reported that the number of people living with diabetes worldwide rose from 200 million in 1990 to 830 million in 2022. In 2022, approximately 14 per…",
+      "published": "2026-10-31T09:21:23.000Z",
+      "summary": "The Executive Director of EcoConscious Citizens, Awula Serwah, has raised concerns about the operational capacity of the National Anti-Illegal Mining Operations Secretariat (NAIMOS)…",
       "categories": [
-        "Features",
-        "Health",
-        "Diabetes",
-        "Hypetension",
-        "Ministry of Health",
-        "WHO"
+        "National",
+        "NAIMOS"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-11.43.29-818x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/NAIMOS-task-force-RAID-6-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Police arrest 192 in drug, firearms operations across Greater Accra, Eastern Region",
+      "title": "Galamsey fight remains ineffective despite NAIMOS arrests and seizures – Awula Serwah",
+      "link": "https://www.myjoyonline.com/galamsey-fight-remains-ineffective-despite-naimos-arrests-and-seizures-awula-serwah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T09:11:42.000Z",
+      "summary": "The Executive Director of Eco-Conscious Citizens, Awula Serwah, says Ghana has yet to make meaningful progress in the fight against illegal mining, warning that the country remains at risk…",
+      "categories": [
+        "National",
+        "Arrests",
+        "Awula Serwah",
+        "Galamsey"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Awula-Serwah.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Galamsey: Ghana still faces national emergency, says Awula Serwah",
+      "link": "https://www.myjoyonline.com/galamsey-ghana-still-faces-national-emergency-says-awula-serwah/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T09:09:14.000Z",
+      "summary": "The Executive Director of Eco-Conscious Citizens, Awula Serwah, has warned that Ghana remains in a national emergency over illegal mining, insisting that current interventions have not…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Awula Serwah",
+        "Galamsey"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/Awula-Serwah-1024x667.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ECG engages customers Tema Community One market",
+      "link": "https://www.graphic.com.gh/news/general-news/ecg-engages-customers-tema-community-one-market.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T09:08:41.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/ecg.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "40-year-old man arrested at VIP bus terminal attempting to travel with 91 parcels of ‘wee’ hidden in 3 suitcases",
+      "link": "https://www.graphic.com.gh/news/general-news/40-year-old-arrested-at-vip-bus-terminal-attempting-to-travel-with-91-parcels-of-wee-hidden-in-3-suitcases.html",
+      "source": "Daily Graphic",
+      "published": "2026-10-31T08:29:53.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/wee3.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Gov’t wants to use Traffitech-GH to extort money from drivers while traders take over spaces – GPRTU",
+      "link": "https://www.myjoyonline.com/govt-wants-to-use-traffitech-gh-to-extort-money-from-drivers-while-traders-take-over-spaces-gprtu/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T06:34:50.000Z",
+      "summary": "Commercial transport operators have accused the government of seeking to use the planned rollout of the Traffitech-GH system to extort money from drivers through traffic fines while…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "News",
+        "Ghana",
+        "GPRTU",
+        "Transport"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/01/Transport-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Transport operators threaten nationwide strike as Traffitech-GH begins on Nov 1",
+      "link": "https://www.myjoyonline.com/transport-operators-threaten-nationwide-strike-as-traffitech-gh-begins-on-nov-1/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T06:22:27.000Z",
+      "summary": "Commercial transport operators have threatened to suspend services nationwide on November 1, when the Traffitech-GH system is scheduled to become operational, accusing the government and…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Cars",
+        "GPRTU",
+        "Road",
+        "Transport operators"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/08/transport.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akim Swedru MP supports 145 traders, apprentices and artisans",
+      "link": "https://www.myjoyonline.com/akim-swedru-mp-supports-145-traders-apprentices-and-artisans/",
+      "source": "MyJoyOnline",
+      "published": "2026-10-31T06:17:35.000Z",
+      "summary": "The Member of Parliament for Akim Swedru, Kennedy Osei Nyarko, has provided financial and skills development support to 145 constituents as part of efforts to promote entrepreneurship and…",
+      "categories": [
+        "National",
+        "Akim Swedru MP",
+        "apprentices",
+        "artisans"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/KK-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police brief on 192 drug, firearms related arrests across Greater Accra, Eastern regions in October 2026",
       "link": "https://www.graphic.com.gh/news/general-news/police-arrest-192-in-october-operations-seize-guns-and-suspected-drugs.html",
       "source": "Daily Graphic",
       "published": "2026-10-31T01:20:46.000Z",
@@ -103,85 +195,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/31/crime_scene.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Shoe-making is not for school dropouts — Horseman founder Tonyi Senayah",
-      "link": "https://www.myjoyonline.com/shoe-making-is-not-for-school-dropouts-horseman-founder-tonyi-senayah/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T23:56:34.000Z",
-      "summary": "Founder of Horseman, Tonyi Senayah, says his shoemaking business is driven by a broader mission to create fulfilling employment opportunities for artisans and challenge the perception that…",
-      "categories": [
-        "News",
-        "Horseman",
-        "Leather",
-        "Shoes"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Tony.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MTN Ghana reports 44.4% growth in mobile money transactions as digital services expand",
-      "link": "https://www.myjoyonline.com/mtn-ghana-reports-44-4-growth-in-mobile-money-transactions-as-digital-services-expand/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T23:34:56.000Z",
-      "summary": "MTN Ghana has reported a 44.4 per cent year-on-year increase in the value of Mobile Money transactions for the first half of 2026, alongside plans to invest US$1.1 billion over three years…",
-      "categories": [
-        "Business",
-        "Telecom",
-        "MoMo",
-        "MTN",
-        "MTN Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-23.16.50.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police arrest woman, offer GH¢100,000 reward for Sakumono murder suspect",
-      "link": "https://www.myjoyonline.com/police-arrest-woman-offer-gh%c2%a2100000-reward-for-sakumono-murder-suspect/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T23:24:16.000Z",
-      "summary": "The Ghana Police Service has arrested a 47-year-old woman in connection with the killing of two relatives at the NTHC Estate, Sakumono, in the Greater Accra Region, and declared the…",
-      "categories": [
-        "Crime",
-        "HP News 1",
-        "Arrest",
-        "Police"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Arrest1.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.myjoyonline.com/us-approves-sale-of-500-patriot-missiles-to-ukraine/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T22:47:00.000Z",
-      "summary": "The US has approved the sale of 500 Patriot missiles to Ukraine, a critically-needed munition for defence against escalating Russian aerial attacks, after Kyiv said deliveries had been…",
-      "categories": [
-        "International",
-        "Ukraine",
-        "US"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana and Burkina Faso seek stronger trade and industrial cooperation at SIAO 2026",
-      "link": "https://www.myjoyonline.com/ghana-and-burkina-faso-seek-stronger-trade-and-industrial-cooperation-at-siao-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-30T22:24:57.000Z",
-      "summary": "Ghana has reaffirmed its commitment to strengthening trade and investment relations with Burkina Faso through a proposed bilateral trade agreement aimed at promoting industrial cooperation…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "National",
-        "News",
-        "Burkina Faso",
-        "Elizabeth Ofosu-Adjare",
-        "Ghana",
-        "Trade"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/867085493_1756017242616608_6137262591702244716_n-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Student pleads not guilty to stealing GH¢1.5million from Bishop Obinim",
@@ -256,18 +269,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "NIA arrests 6, sacks 7 others over extortion at Galaka Ghana Card Registration Centre",
-      "link": "https://www.graphic.com.gh/news/general-news/nia-arrests-6-sacks-7-others-over-extortion-at-galaka-ghana-card-registration-centre.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T11:58:29.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2022/feb/13/Ghana-Card.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "CAF restores AFCON to two-year cycle, reverses four-year decision",
       "link": "https://www.graphic.com.gh/sports/sports-news/caf-restores-afcon-to-two-year-cycle-reverses-four-year-decision.html",
       "source": "Graphic Sports",
@@ -302,18 +303,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/30/AMPUTEE.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "We’re committed to sustaining gender-responsive governance gains - Parliament assures",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-were-committed-to-sustaining-gender-responsive-governance-gains-parliament-assures.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-30T10:06:00.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/Rasheed.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GRA named PR Organisation of the Year",
