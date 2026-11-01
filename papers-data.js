@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-01T01:30:41.086Z",
+  "updated": "2026-11-01T07:59:52.519Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,128 +25,127 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "2026 Luv FM-Republic Bank Habitat mini-clinic records huge success in Kumasi",
-      "link": "https://www.myjoyonline.com/2026-luv-fm-republic-bank-habitat-mini-clinic-records-huge-success-in-kumasi/",
+      "title": "Judge dismisses Trump’s lawsuit against Wall Street Journal over Epstein birthday book",
+      "link": "https://www.myjoyonline.com/judge-dismisses-trumps-lawsuit-against-wall-street-journal-over-epstein-birthday-book/",
       "source": "MyJoyOnline",
-      "published": "2026-11-01T00:35:19.000Z",
-      "summary": "The 2026 Luv FM-Republic Bank Habitat Fair has begun with a mini-clinic in Kumasi, bringing together players in Ghana’s housing and construction industry to promote affordable and…",
+      "published": "2026-11-01T07:16:57.000Z",
+      "summary": "A US judge has thrown out President Donald Trump's $10bn dollar lawsuit against The Wall Street Journal, ruling the suit was \"grasping at straws\".",
+      "categories": [
+        "International",
+        "Epstein",
+        "Judge",
+        "Wall Street Journal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-7-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Shops looted as German cost of living protests turn violent",
+      "link": "https://www.myjoyonline.com/shops-looted-as-german-cost-of-living-protests-turn-violent/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T07:16:34.000Z",
+      "summary": "Rioters looted shops in central Frankfurt late on Saturday and clashes erupted with police there and in other German cities after largely peaceful mass protests over the cost of living.",
+      "categories": [
+        "International",
+        "German",
+        "Shops",
+        "Violent"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-6-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "link": "https://www.myjoyonline.com/judge-orders-trump-administration-to-stop-threatening-us-election-officials/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T07:16:06.000Z",
+      "summary": "A federal judge has ordered the federal government to stop threatening local and state election officials with criminal charges over their role in processing election ballots.",
+      "categories": [
+        "News",
+        "Election",
+        "Trump",
+        "US"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-9-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "link": "https://www.myjoyonline.com/ukrainian-evacuees-reunite-with-family-after-years-trapped-in-russia-occupied-city/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T07:15:40.000Z",
+      "summary": "There were raw emotional scenes as people evacuated from the devastated Russian-occupied city of Oleshky crossed from Belarus into the Ukrainian region of Chernihiv.",
+      "categories": [
+        "International",
+        "Russia",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-10-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "More than 5,000 die from Ebola in DR Congo’s deadliest outbreak",
+      "link": "https://www.myjoyonline.com/more-than-5000-die-from-ebola-in-dr-congos-deadliest-outbreak/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T07:15:20.000Z",
+      "summary": "More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows.",
+      "categories": [
+        "Africa",
+        "DR Congo",
+        "Ebola"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-13-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KiDi, King Promise, Medikal thrill patrons as Hitz-Joy Beach Rave ends on a high note",
+      "link": "https://www.myjoyonline.com/kidi-king-promise-medikal-thrill-patrons-as-hitz-joy-beach-rave-ends-on-a-high-note/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T05:51:36.000Z",
+      "summary": "The 2026 Hitz-Joy Beach Rave ended on a high note on Saturday, October 31, as music lovers enjoyed an afternoon and evening of live performances, DJ sets and beachside entertainment at…",
       "categories": [
         "Events",
         "HP News 1",
         "Regional",
-        "Habitat Mini Clinic",
-        "Kumasi",
-        "Luv FM",
-        "Republic Bank"
+        "Hitz-Joy beach rave",
+        "KiDi",
+        "King Promise",
+        "Patrons"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-31-at-20.39.52-1-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-38-1024x768.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Stable on paper. What about your pocket?",
-      "link": "https://www.myjoyonline.com/stable-on-paper-what-about-your-pocket/",
+      "title": "TraffiTech-GH goes live as MTTD rolls out camera-based speeding checks",
+      "link": "https://www.myjoyonline.com/traffitech-gh-goes-live-as-mttd-rolls-out-camera-based-speeding-checks/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T22:35:11.000Z",
-      "summary": "Dr Mahamudu Bawumia and Hon.Kojo Oppong Nkrumah have raised critical questions about Ghana’s economy. However, the Government is confident in its recovery from the cost-of-living crisis…",
+      "published": "2026-11-01T05:40:59.000Z",
+      "summary": "The Motor Traffic and Transport Department (MTTD) says it is ready to roll out its TraffiTech-GH digital traffic enforcement system on Sunday, November 1, 2026, with cameras expected to…",
       "categories": [
-        "Economy",
-        "Opinion",
-        "pocket",
-        "stable on paper"
+        "National",
+        "Top Story",
+        "Camera based",
+        "MTTD",
+        "speeding checks",
+        "Traffitech-GH"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-19.05.32-683x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-7-2.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "From stability to transformation: 5 tests for Ghana’s 2027 Budget",
-      "link": "https://www.myjoyonline.com/from-stability-to-transformation-5-tests-for-ghanas-2027-budget/",
+      "title": "Government raises daily feeding allowance for prison inmates from GH¢1.80 to GH¢5",
+      "link": "https://www.myjoyonline.com/government-raises-daily-feeding-allowance-for-prison-inmates-from-gh%c2%a21-80-to-gh%c2%a25/",
       "source": "MyJoyOnline",
-      "published": "2026-10-31T22:34:04.000Z",
-      "summary": "The government proposes lowering the primary surplus on a commitment basis from 1.5% to 0.5% of GDP from 2027. A primary surplus is the excess of revenue over spending before interest…",
+      "published": "2026-11-01T05:00:00.000Z",
+      "summary": "The government has increased the daily feeding allowance for Ghana Prisons Service inmates from GH¢1.80 to GH¢5, Vice President Professor Jane Naana Opoku-Agyemang announced. She said the…",
       "categories": [
-        "Comp. Opinion",
-        "HP Opinion 1",
-        "2027 Budget",
-        "Fiscal Deficit",
-        "GDP",
-        "IMF",
-        "Inflation",
-        "new economy",
-        "Stability"
+        "National",
+        "daily feeding",
+        "feeding allowance",
+        "Inmates",
+        "Prison"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-13.39.56-1024x831.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana courts Qatari investors into key sectors of economy",
-      "link": "https://www.myjoyonline.com/ghana-courts-qatari-investors-into-key-sectors-of-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T22:21:07.000Z",
-      "summary": "In an interview with Doha News in Qatar, Mr Madjie said improved air connectivity between the two countries would facilitate business engagements, promote trade and boost investment flows.",
-      "categories": [
-        "Business",
-        "Investments",
-        "Ghana",
-        "GIPC",
-        "Qatar",
-        "Simon Madjie",
-        "UNCTAD",
-        "World Investment Forum 2026"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/Simon-Madjie-819x1024.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MIIF leads 50-hectare forest restoration project in Sekyere Krobo",
-      "link": "https://www.myjoyonline.com/miif-leads-50-hectare-forest-restoration-project-in-sekyere-krobo/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T22:06:32.000Z",
-      "summary": "The Minerals Income Investment Fund (MIIF), in partnership with the Forestry Commission and supported by Zijin Golden Ridge Ghana and other partners has commissioned a five-year project to…",
-      "categories": [
-        "Business",
-        "Mining",
-        "Dr Sarfo Adu",
-        "ESG",
-        "Forestry Comission",
-        "Justina Nelson",
-        "MIIF",
-        "Nana Kwao Badu II",
-        "Sekyere Krobo",
-        "Zijin Golden Ridge"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-13.43.59-1024x731.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GAYO partners with MMDAs and schools to promote waste segregation in Greater Accra",
-      "link": "https://www.myjoyonline.com/gayo-partners-with-mmdas-and-schools-to-promote-waste-segregation-in-greater-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T22:03:13.000Z",
-      "summary": "The Green Africa Youth Organization (GAYO) has partnered with metropolitan, municipal and district assemblies and schools across Greater Accra to promote waste segregation among students…",
-      "categories": [
-        "Regional",
-        "GAYO",
-        "Greater Accra",
-        "Waste segregation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ORGANIC-PLASTIC-WASTE-70-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GAYO, some Accra schools turn to composting and recycling to beat the waste problem with fresh bins",
-      "link": "https://www.myjoyonline.com/gayo-some-accra-schools-turn-to-composting-and-recycling-to-beat-the-waste-problem-with-fresh-bins/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T21:56:03.000Z",
-      "summary": "Schools in Accra that separate their waste say their efforts are being wasted because collection trucks mix the sorted rubbish back together when they pick it up. Education officials in the…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Accra schools",
-        "GAYO",
-        "Recycling",
-        "waste problems"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/ORGANIC-PLASTIC-WASTE-121-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-31-at-07.57.45.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -160,22 +159,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/01/crash1.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Why Financing Government is more rewarding in Africa than financing enterprise and the threat to economic integration",
-      "link": "https://www.myjoyonline.com/why-financing-government-is-more-rewarding-in-africa-than-financing-enterprise-and-the-threat-to-economic-integration/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T21:43:38.000Z",
-      "summary": "The gradual implementation of the African Continental Free Trade Area has brought greater focus on the advantages of significantly increasing intra-African trade from the current 16%–17%…",
-      "categories": [
-        "Opinion",
-        "Africa",
-        "economic integration",
-        "Enterprise",
-        "financing government"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-11.19.56-1024x666.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama back home after Russia-Africa Summit",
