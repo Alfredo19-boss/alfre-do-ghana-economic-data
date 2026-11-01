@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-01T14:53:06.153Z",
+  "updated": "2026-11-01T19:16:00.025Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,167 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Syrian 46.7kg cocaine trafficker through Accra used sophisticated packaging and insulation techniques designed to evade detection by scanning equipment - Lebanese authorities",
+      "link": "https://www.graphic.com.gh/news/general-news/syrian-46-7kg-cocaine-trafficker-through-accra-used-sophisticated-packaging-and-insulation-techniques-designed-to-evade-detection-by-scanning-equipment-lebanese-authorities.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T18:43:13.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/02/lebanon.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GPL 2026/27: 10-man Karela United hold Young Apostles in Wenchi",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-10-man-karela-united-hold-young-apostles-in-wenchi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T18:02:48.000Z",
+      "summary": "The Holy ones were held to a goalless draw at home by Karela United despite the latter suffering a red card during the game.",
+      "categories": [
+        "Football",
+        "National",
+        "GPL 2026/27",
+        "Karela United",
+        "Young Apostles"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/761E34B0-892A-4CEE-82D5-B221B61F50BD.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NAIMOS arrests 13 suspected illegal miners in raid on Offin River",
+      "link": "https://www.myjoyonline.com/naimos-arrests-13-suspected-illegal-miners-in-raid-on-offin-river/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T18:02:12.000Z",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has raided a large illegal mining site at Subin Akwaaboso in the Upper Denkyira West District of the Central Region…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "NAIMOS",
+        "Offin River"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-43.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Samartex edge Gold Stars to strengthen title credentials in Western derby",
+      "link": "https://www.myjoyonline.com/samartex-edge-gold-stars-to-strengthen-title-credentials-in-western-derby/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T18:02:00.000Z",
+      "summary": "FC Samartex 1996 strengthened their Ghana Premier League title credentials with a hard-fought 1-0 victory over Bibiani Gold Stars in the Western derby.",
+      "categories": [
+        "Football",
+        "HP Sports 4",
+        "Ghana Premier League",
+        "GoldStars",
+        "Samartex 1996"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_1232-1024x684.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AshantiGold stun Swedru All Blacks to end 10-match unbeaten home run",
+      "link": "https://www.myjoyonline.com/ashantigold-stun-swedru-all-blacks-to-end-10-match-unbeaten-home-run/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T17:59:00.000Z",
+      "summary": "FC AshantiGold 04 produced a remarkable comeback to beat Swedru All Blacks 2-1 at the Swedru Sports Stadium, ending the hosts' three-match winning streak and 10-game unbeaten home run.",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Ashgold",
+        "Ghana Premier League",
+        "Swedru All Black"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_1231-1024x677.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Debibi United end Hearts of Oak’s winning run with narrow victory",
+      "link": "https://www.myjoyonline.com/debibi-united-end-hearts-of-oaks-winning-run-with-narrow-victory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T17:54:00.000Z",
+      "summary": "Hearts of Oak's three-match winning streak came to an end following a disappointing 1-0 defeat to Debibi United at the Debibi Presby Park.",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Debibi United",
+        "Ghana Premier League",
+        "Hearts of Oak"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_1230-1024x562.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CRIC must ensure consensus is reached before amendment bills are drafted – Dr Asante",
+      "link": "https://www.myjoyonline.com/cric-must-ensure-consensus-is-reached-before-amendment-bills-are-drafted-dr-asante/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T17:50:42.000Z",
+      "summary": "Director of Policy Engagement and Partnerships at the Ghana Center for Democratic Development (CDD-Ghana), Dr Kojo Pumpuni Asante, has urged the Constitution Review Implementation Committee…",
+      "categories": [
+        "National",
+        "Constitution Review Implementation Committee (CRIC)",
+        "Constitutional reforms",
+        "Dr Kojo Pumpuni Asante"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Dr.-Pumpuni-Asante.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cambridge scientist dies in Spanish train crash",
+      "link": "https://www.myjoyonline.com/cambridge-scientist-dies-in-spanish-train-crash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T17:41:34.000Z",
+      "summary": "An award-winning University of Cambridge researcher died in the Spanish train disaster while on her way to collect a prize for scientific excellence.",
+      "categories": [
+        "International",
+        "Spanish",
+        "Train crash"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-40-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2026 U17 WWC: Japan knock out Black Maidens in quarters",
+      "link": "https://www.myjoyonline.com/2026-u17-wwc-japan-knockout-black-maidens-in-quarters/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T17:35:35.000Z",
+      "summary": "The Black Maidens lost 1-0 to the Asian side in the quarterfinals of the competition on Sunday afternoon.",
+      "categories": [
+        "Football",
+        "HP News 7",
+        "National",
+        "2026 U-17 Women's World Cup",
+        "Black Maidens",
+        "Japan"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/4FACB96B-235E-4EDE-914A-6827154B6363-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NACOC hunts Ghana accomplices over 40kg cocaine shipment seized in Lebanon that were shipped through Accra Airport - Lebanese Customs",
+      "link": "https://www.graphic.com.gh/news/general-news/nacoc-hunts-ghana-accomplices-after-40kg-suspected-cocaine-shipment-seized-in-beirut.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T16:33:49.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/aug/04/nacocer.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama demands formal apology, dialogue on slave trade after UK PM’s remarks",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-demands-formal-apology-dialogue-on-slave-trade-after-uk-pms-remarks.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T15:23:23.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Mar/16/PHOTO-2026-03-24-20-17-15-2-scaled.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "NIA Taskforce launches nationwide crackdown on Ghana card photocopying from November 2",
       "link": "https://www.graphic.com.gh/news/general-news/nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying-from-november-2.html",
       "source": "Daily Graphic",
@@ -37,36 +198,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Climate diplomacy meets frontline reality: AGN opens COP31 strategy session amid urgent El Niño warnings",
-      "link": "https://www.myjoyonline.com/climate-diplomacy-meets-frontline-reality-agn-opens-cop31-strategy-session-amid-urgent-el-nino-warnings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T13:40:08.000Z",
-      "summary": "The African Group of Negotiators on Climate Change (AGN) has opened a crucial two-day strategy meeting in Antalya, Türkiye, to prepare for the 31st United Nations Climate Change Conference…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "African Group of Negotiators on Climate Change (AGN)",
-        "COP31"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-13.00.34-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UBIDS charts path to growth with academic wins despite transition challenges",
-      "link": "https://www.myjoyonline.com/ubids-halts-new-programmes-as-parliament-probes-accreditation-and-staffing-crisis/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T13:39:03.000Z",
-      "summary": "The University of Business and Integrated Development Studies (UBIDS) is recording significant academic gains as it navigates the challenges of its early years of autonomy.",
-      "categories": [
-        "Education",
-        "National",
-        "accreditation",
-        "University of Business and Integrated Development Studies (UBIDS)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-10.10.22-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Parliamentary delegation from Denmark in Tema to discuss water, climate cooperation",
       "link": "https://www.graphic.com.gh/news/general-news/parliamentary-delegation-from-denmark-in-tema-to-discuss-water-climate-cooperation.html",
       "source": "Daily Graphic",
@@ -77,31 +208,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/01/tema.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Evans Oppong wins big at Ashanti Business Merit Awards",
-      "link": "https://www.myjoyonline.com/evans-oppong-wins-big-at-ashanti-business-merit-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T13:25:16.000Z",
-      "summary": "Evans Oppong wins big at Ashanti Business Merit Awards",
-      "categories": [
-        "Events"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/09c40a33-23e7-48a7-bc00-282008ffb414.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No more washing up: How Airbnb’s new house rules have divided hosts and guests",
-      "link": "https://www.myjoyonline.com/no-more-washing-up-how-airbnbs-new-house-rules-have-divided-hosts-and-guests/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T13:21:16.000Z",
-      "summary": "When Lisa Clewes returned to her Welsh holiday let after a group of guests checked out, she was horrified by the mess. Just days earlier, she had met the group in person and helped with…",
-      "categories": [
-        "International",
-        "Airbab"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-33.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NGO urges adoption of climate change manual, review of inorganic fertiliser use",
@@ -140,68 +246,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Prince Adu-Owusu: Your person will find you",
-      "link": "https://www.myjoyonline.com/prince-adu-owusu-your-person-will-find-you/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T12:24:03.000Z",
-      "summary": "There is something I want you to remember, especially if you have been through a heartbreak that has made you question whether you will ever experience love the way you once imagined it…",
-      "categories": [
-        "HP Lifestyle 1",
-        "HP Opinion 4",
-        "Lifestyle",
-        "National",
-        "Relationships",
-        "Love",
-        "Your person"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/AC08A2EF-0D0E-44FE-A246-E99CF9769CFD-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Judicial Secretary appeals to JUSAG to call off strike",
-      "link": "https://www.myjoyonline.com/judicial-secretary-appeals-to-jusag-to-call-off-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T11:44:42.000Z",
-      "summary": "The Judicial Secretary has appealed to the leadership and members of the Judicial Service Staff Association of Ghana (JUSAG) to call off their strike and return to work while negotiations…",
-      "categories": [
-        "National",
-        "Top Story",
-        "JUSAG",
-        "Strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/11/Judicial-service-1024x346.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JEAN-ESIS: Ghanaian designer turns Kantamanto waste into environmental art",
-      "link": "https://www.myjoyonline.com/jean-esis-ghanaian-designer-turns-kantamanto-waste-into-environmental-art/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T11:40:22.000Z",
-      "summary": "Ghanaian fashion curator Beatrice “Bee” Arthur is using discarded clothing and other waste materials to highlight the environmental impact of the global fashion industry through an art…",
-      "categories": [
-        "Art & Design",
-        "JEAN-ESIS",
-        "Kantamanto"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-08-at-4.17.53-PM1-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GMet warns of hotter, drier and dustier conditions as strong El Niño develops",
-      "link": "https://www.myjoyonline.com/gmet-warns-of-hotter-drier-and-dustier-conditions-as-strong-el-nino-develops/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T11:26:15.000Z",
-      "summary": "The Ghana Meteorological Agency (GMet) has warned that a very strong El Niño event developing in the Pacific Ocean is likely to influence Ghana’s weather conditions into the first half of…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "El Niño",
-        "GMet"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/11/hot-weather-malaysia_4uxc.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Eight dead in bus crash at Azuletti on Elubo-Takoradi N1 highway",
       "link": "https://www.graphic.com.gh/news/general-news/eight-dead-in-bus-crash-at-azuletti-on-elubo-takorai-n1-highway.html",
       "source": "Daily Graphic",
@@ -211,42 +255,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/01/crash1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama back home after Russia-Africa Summit",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-back-home-after-pivotal-russia-africa-summit.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T21:02:08.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/01/mahama_russia.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Trump agrees to immediately grant emergency travel visa to Javits Frimpong's mother to mourn her son in person",
-      "link": "https://www.graphic.com.gh/news/general-news/trump-agrees-to-immediately-grant-emergency-travel-visa-javits-frimpongs-mother-to-mourn-her-son-in-person.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T20:51:51.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/30/javits.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Youth leadership critical to West Africa’s progress – Goodluck Jonathan",
-      "link": "https://www.graphic.com.gh/news/politics/youth-leadership-critical-to-west-africas-progress-goodluck-jonathan.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T19:20:56.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/GOODLUCK.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
