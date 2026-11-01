@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-10-31T22:44:30.153Z",
-  "worldAt": "2026-10-31T22:44:30.151Z",
+  "updated": "2026-11-01T01:30:27.270Z",
+  "worldAt": "2026-11-01T01:30:27.268Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,15 +26,15 @@ window.GDC_NEWS = {
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 28 stories",
+    "World · BBC News: 27 stories",
     "World · Deutsche Welle: 9 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -42,7 +42,7 @@ window.GDC_NEWS = {
     "Africa · Africanews: 28 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 3 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,66 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-01T00:55:06.000Z",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg"
+    },
+    {
+      "title": "Polish president holds crisis talks in court standoff",
+      "link": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T00:30:59.000Z",
+      "summary": "A dispute over the politicisation of Poland's constitutional court is deepening, with no side appearing to back down."
+    },
+    {
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-01T00:12:07.000Z",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg"
+    },
+    {
+      "title": "Gen Z-led protests in Germany turn violent",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T00:27:20.000Z",
+      "summary": "Protesters clashed with police as thousands took to the streets across 34 cities in Germany."
+    },
+    {
+      "title": "Testimonies from Oleshky",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261031-testimonies-from-oleshky",
+      "source": "France 24",
+      "published": "2026-10-31T23:54:21.000Z",
+      "summary": "American Filmmaker Zarina Zabrisky has lived and reported across the Dnipro River in Ukrainian controlled Kherson for the past three years. She’s been speaking to France 24’s Gavin Lee…",
+      "image": "https://s.france24.com/media/display/bff7a79c-d53b-11f1-8be7-a575454bc579/w:1024/p:16x9/AP26304492932574.jpg"
+    },
+    {
+      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T00:00:51.000Z",
+      "summary": "Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran's conditions."
+    },
+    {
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-10-31T23:06:13.000Z",
+      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cf/live/411e4740-d433-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "ICE agent’s violent shove propels woman through the air",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T23:45:36.000Z",
+      "summary": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago."
+    },
+    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1107,11 +1167,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
     },
     {
-      "title": "Palestine Action supporters arrested outside US embassy in London",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+      "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T22:10:53.000Z",
-      "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action."
+      "published": "2026-10-31T22:38:03.000Z",
+      "summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from."
     },
     {
       "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
@@ -1122,11 +1182,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6cab939e-d53d-11f1-afa5-d18c5759e759/w:1024/p:16x9/dd3945a172f536507377aa257ecac6087cc17aa8.jpg"
     },
     {
-      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
-      "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+      "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+      "link": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T21:38:54.000Z",
-      "summary": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged."
+      "published": "2026-10-31T22:36:41.000Z",
+      "summary": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting."
     },
     {
       "title": "Thousands demonstrate in Paris as protests spread across Europe",
@@ -1137,6 +1197,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T22:10:53.000Z",
+      "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action."
+    },
+    {
       "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
       "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
       "source": "NPR World",
@@ -1144,11 +1211,11 @@ window.GDC_NEWS = {
       "summary": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges."
     },
     {
-      "title": "Fiery confrontations between protestors and police in Albania",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T21:12:46.000Z",
-      "summary": "Fiery confrontations between protestors and police in Albania"
+      "published": "2026-10-31T21:38:54.000Z",
+      "summary": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged."
     },
     {
       "title": "A new political era in the Southern Philippines",
@@ -1158,11 +1225,11 @@ window.GDC_NEWS = {
       "summary": "A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process for a conflict that has lasted some 80 years."
     },
     {
-      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
-      "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+      "title": "Fiery confrontations between protestors and police in Albania",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T21:01:19.000Z",
-      "summary": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing."
+      "published": "2026-10-31T21:12:46.000Z",
+      "summary": "Fiery confrontations between protestors and police in Albania"
     },
     {
       "title": "'Gen Z' demonstrations across Germany demand more education funding",
@@ -1173,11 +1240,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c07ebee6-d566-11f1-b26d-1beafce15fea/w:1024/p:16x9/dea6f030daee8dfc4ab2156919ce46db6d33bba1.jpg"
     },
     {
-      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-      "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T20:30:35.000Z",
-      "summary": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views."
+      "published": "2026-10-31T21:01:19.000Z",
+      "summary": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing."
     },
     {
       "title": "Serbia after Vucic: The winners are losing patience",
@@ -1187,11 +1254,11 @@ window.GDC_NEWS = {
       "summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the losers still hold sway in the judiciary and…"
     },
     {
-      "title": "Israel’s allegations of Qatari election interference rejected",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T20:24:58.000Z",
-      "summary": "Israel’s allegations of Qatari election interference rejected"
+      "published": "2026-10-31T20:30:35.000Z",
+      "summary": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views."
     },
     {
       "title": "France seethes again as youth-led protests sweep Europe",
@@ -1202,11 +1269,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7542x5028+0+0/resize/7542x5028!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2F42%2F30374004412bbfde4b4826b0b2dc%2Ffrance.jpg"
     },
     {
-      "title": "What is ranked-choice voting and how does it work in US elections?",
-      "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+      "title": "Israel’s allegations of Qatari election interference rejected",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T20:11:37.000Z",
-      "summary": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan."
+      "published": "2026-10-31T20:24:58.000Z",
+      "summary": "Israel’s allegations of Qatari election interference rejected"
     },
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -1217,11 +1284,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg"
     },
     {
-      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+      "title": "What is ranked-choice voting and how does it work in US elections?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T20:09:18.000Z",
-      "summary": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor."
+      "published": "2026-10-31T20:11:37.000Z",
+      "summary": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan."
     },
     {
       "title": "Key takeaways from this week's political meeting in Beijing",
@@ -1232,11 +1299,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Faa%2F00209429492ba03523634db38c54%2Fap26303093614138.jpg"
     },
     {
-      "title": "How vulnerable are cryptocurrency platforms?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
+      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T19:19:29.000Z",
-      "summary": "Hackers have targeted Binance, the world’s largest exchange."
+      "published": "2026-10-31T20:09:18.000Z",
+      "summary": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor."
     },
     {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -1247,11 +1314,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Palestinians ‘Stealing their own olives’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+      "title": "How vulnerable are cryptocurrency platforms?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T19:18:32.000Z",
-      "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians."
+      "published": "2026-10-31T19:19:29.000Z",
+      "summary": "Hackers have targeted Binance, the world’s largest exchange."
     },
     {
       "title": "Iran's Khamenei warns US and Israel against new attacks",
@@ -1262,11 +1329,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/77114946-d54c-11f1-8f61-a575454bc579/w:1024/p:16x9/AP26285515397254.jpg"
     },
     {
-      "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
+      "title": "Palestinians ‘Stealing their own olives’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T18:50:25.000Z",
-      "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan."
+      "published": "2026-10-31T19:18:32.000Z",
+      "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians."
     },
     {
       "title": "Emotional reunions with loved ones for Oleshky evacuees",
@@ -1277,11 +1344,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg"
     },
     {
-      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-      "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+      "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T18:48:29.000Z",
-      "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription."
+      "published": "2026-10-31T18:50:25.000Z",
+      "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan."
     },
     {
       "title": "Ebola deaths top 5,000 as fear of continent-wide spread mounts",
@@ -1291,11 +1358,11 @@ window.GDC_NEWS = {
       "summary": "Deaths in Congo’s Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government…"
     },
     {
-      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+      "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T18:32:20.000Z",
-      "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory."
+      "published": "2026-10-31T18:48:29.000Z",
+      "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription."
     },
     {
       "title": "2,000 Salvadoran troops take quarters in Haiti to help fight gangs",
@@ -1305,11 +1372,11 @@ window.GDC_NEWS = {
       "summary": "The deployment followed a gang attack on four Salvadoran members of the Gang Suppression Force who went missing"
     },
     {
-      "title": "Tension and clashes as hundreds of thousands protest again in France",
-      "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T18:28:14.000Z",
-      "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools."
+      "published": "2026-10-31T18:32:20.000Z",
+      "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory."
     },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -1320,78 +1387,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
     },
     {
-      "title": "Coventry win leaves Man United on brink of Premier League relegation zone",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss",
+      "title": "Tension and clashes as hundreds of thousands protest again in France",
+      "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-10-31T17:51:15.000Z",
-      "summary": "Manchester United one place outside the EPL's bottom three as Coventry City climb with 3-1 win over Sunderland."
-    },
-    {
-      "title": "Ethiopian PM puts ministers through military training",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-31T14:28:15.000Z",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg"
-    },
-    {
-      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-      "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T17:49:23.000Z",
-      "summary": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp."
-    },
-    {
-      "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
-      "link": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
-      "source": "France 24",
-      "published": "2026-10-31T14:28:10.000Z",
-      "summary": "Turkey has nominated its former foreign minister and UN ambassador Feridun Hadi Sinirlioglu for the position of UN secretary-general, state-media reported on Saturday. The submission was…",
-      "image": "https://s.france24.com/media/display/0c8c6ba0-d533-11f1-8f20-d18c5759e759/w:1024/p:16x9/AP26304313866709.jpg"
-    },
-    {
-      "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T17:38:18.000Z",
-      "summary": "Michigan Muslims helped elect Trump. Now their faith is under fire"
-    },
-    {
-      "title": "Senegal set for opening ceremony of Youth Olympic Games",
-      "link": "http://www.africanews.com/2026/10/31/senegal-set-for-opening-ceremony-of-youth-olympic-games/",
-      "source": "Africanews",
-      "published": "2026-10-31T14:21:04.000Z",
-      "summary": "About 2,700 young athletes aged 14 to 17 will compete through Nov. 13 in the capital, Dakar, the nearby city of Diamniadio and the beach resort of Saly"
-    },
-    {
-      "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T17:32:42.000Z",
-      "summary": "Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL."
-    },
-    {
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "link": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-10-31T12:50:45.000Z",
-      "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6e/live/d3851b40-d528-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Who will form Israel’s next government?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T17:29:00.000Z",
-      "summary": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset."
-    },
-    {
-      "title": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
-      "link": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
-      "source": "France 24",
-      "published": "2026-10-31T12:45:49.000Z",
-      "summary": "Evacuees from Oleshky crossed into Ukrainian-held territory Saturday in a major rescue operation after travelling through Belarus during a rare truce brokered by US First Lady Melania…",
-      "image": "https://s.france24.com/media/display/bff7a79c-d53b-11f1-8be7-a575454bc579/w:1024/p:16x9/AP26304492932574.jpg"
+      "published": "2026-10-31T18:28:14.000Z",
+      "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools."
     }
   ],
   "africa": [

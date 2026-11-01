@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-10-31T22:44:42.167Z",
+  "updated": "2026-11-01T01:30:41.086Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2026 Luv FM-Republic Bank Habitat mini-clinic records huge success in Kumasi",
+      "link": "https://www.myjoyonline.com/2026-luv-fm-republic-bank-habitat-mini-clinic-records-huge-success-in-kumasi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T00:35:19.000Z",
+      "summary": "The 2026 Luv FM-Republic Bank Habitat Fair has begun with a mini-clinic in Kumasi, bringing together players in Ghana’s housing and construction industry to promote affordable and…",
+      "categories": [
+        "Events",
+        "HP News 1",
+        "Regional",
+        "Habitat Mini Clinic",
+        "Kumasi",
+        "Luv FM",
+        "Republic Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-31-at-20.39.52-1-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Stable on paper. What about your pocket?",
       "link": "https://www.myjoyonline.com/stable-on-paper-what-about-your-pocket/",
@@ -157,23 +175,6 @@ window.GDC_PAPERS = {
         "financing government"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-11.19.56-1024x666.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Video captures teachers stepping on a student’s head in violent Techiman SHS incident",
-      "link": "https://www.myjoyonline.com/video-captures-teachers-stepping-on-a-students-head-in-violent-techiman-shs-incident/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-31T21:37:39.000Z",
-      "summary": "A disturbing video circulating on social media has revealed a violent incident at Techiman Senior High School (SHS) in the Bono East Region, showing two teachers assaulting a final-year…",
-      "categories": [
-        "Education",
-        "In Focus",
-        "National",
-        "Student's head",
-        "Techiman SHS",
-        "Video"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-21.37.04.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
