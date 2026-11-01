@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-01T19:16:00.025Z",
+  "updated": "2026-11-01T22:53:03.633Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,7 +25,142 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Syrian 46.7kg cocaine trafficker through Accra used sophisticated packaging and insulation techniques designed to evade detection by scanning equipment - Lebanese authorities",
+      "title": "Ablakwa and the Evacuation of the Unborn",
+      "link": "https://www.myjoyonline.com/ablakwa-and-the-evacuation-of-the-unborn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:37:12.000Z",
+      "summary": "Once upon a time in the Republic of Uncommon Sense, our commitment to future generations became so impressive that we began evacuating citizens before they were born. Other countries were…",
+      "categories": [
+        "Features",
+        "National",
+        "News",
+        "Opinion",
+        "Ablakwa",
+        "Evacuaees",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ablakwa.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "World No. 1-bound Zverev loses to De Minaur",
+      "link": "https://www.myjoyonline.com/world-no-1-bound-zverev-loses-to-de-minaur/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:30:00.000Z",
+      "summary": "Alexander Zverev lost his first match since securing the men's world number one ranking, falling to Alex de Minaur in a semi-final upset at the Vienna Open.",
+      "categories": [
+        "Tennis",
+        "Alex de Minaur",
+        "Alexander Zverev"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-68.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Shock Basel loss dents Djokovic’s ATP Finals hopes",
+      "link": "https://www.myjoyonline.com/shock-basel-loss-dents-djokovics-atp-finals-hopes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:22:00.000Z",
+      "summary": "Novak Djokovic's hopes of making a record 19th appearance at the ATP Finals have been dented by a surprise defeat against Jan-Lennard Struff at the Swiss Indoors in Basel.",
+      "categories": [
+        "Tennis",
+        "Novak Djokovic"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-66.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bellingham scores 50th goal as Alexander-Arnold gets rare start",
+      "link": "https://www.myjoyonline.com/bellingham-scores-50th-goal-as-alexander-arnold-gets-rare-start/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:14:00.000Z",
+      "summary": "Jude Bellingham scored his 50th goal for Real Madrid as his side backed up last week's El Clásico win with a statement victory at Racing Santander.",
+      "categories": [
+        "Football",
+        "Alexander-Arnold",
+        "Jude Bellingham",
+        "Real Madrid"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3821.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "MTN Ghana pays GH¢9bn to state, earns GH¢7.8bn profit in first 9 months of 2026",
+      "link": "https://www.myjoyonline.com/mtn-ghana-pays-gh%c2%a29bn-to-state-earns-gh%c2%a27-8bn-profit-in-first-9-months-of-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:09:00.000Z",
+      "summary": "MTN Ghana paid GH¢9.0 billion in direct and indirect taxes to the state in the first nine months of 2026, a figure that surpasses the telecommunications giant’s profit after tax of GH¢7.8…",
+      "categories": [
+        "Business",
+        "National",
+        "Telecom",
+        "MTN Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-57.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I’ll tell my players to dive in future – Iraola",
+      "link": "https://www.myjoyonline.com/ill-tell-my-players-to-dive-in-future-iraola/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:06:00.000Z",
+      "summary": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
+      "categories": [
+        "Football",
+        "Andoni Iraola",
+        "Arsenal",
+        "Liverpool"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-146.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fitch Solutions maintains nearly 6% growth rate for Ghana in 2026, but expects economy to lose momentum in 2027",
+      "link": "https://www.myjoyonline.com/fitch-solutions-maintains-nearly-6-growth-rate-for-ghana-in-2026-but-expects-economy-to-lose-momentum-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:05:00.000Z",
+      "summary": "According to the UK-based firm, the Ghanaian economy has remained largely insulated from global developments over the past year, supported by elevated gold prices, low domestic inflation…",
+      "categories": [
+        "Business",
+        "Economy",
+        "BoG",
+        "current surplus",
+        "El-Nino",
+        "Fitch Solutions",
+        "GDP",
+        "Inflation"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/07/Fitch-Solutions.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "King Charles to address slavery in Antigua as PM says he is open to possible UK apology",
+      "link": "https://www.myjoyonline.com/king-charles-to-address-slavery-in-antigua-as-pm-says-he-is-open-to-possible-uk-apology/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T21:49:00.000Z",
+      "summary": "King Charles III is to speak with \"unflinching honesty\" and \"sincere sorrow\" on the lasting pain of the transatlantic slave trade, during the final leg of his Caribbean tour in Antigua…",
+      "categories": [
+        "International",
+        "Antigua",
+        "UK"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-63-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Key suspect in the Sakumono murder case Samuel Christopher Osei Anto in police grip, he was picked from a hideout",
+      "link": "https://www.graphic.com.gh/news/general-news/busted.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T21:16:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/31/Anto.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "46.7kg cocaine trafficker through Accra used insulation techniques designed to evade detection by scanning equipment - Lebanese authorities",
       "link": "https://www.graphic.com.gh/news/general-news/syrian-46-7kg-cocaine-trafficker-through-accra-used-sophisticated-packaging-and-insulation-techniques-designed-to-evade-detection-by-scanning-equipment-lebanese-authorities.html",
       "source": "Daily Graphic",
       "published": "2026-11-01T18:43:13.000Z",
@@ -35,131 +170,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/02/lebanon.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GPL 2026/27: 10-man Karela United hold Young Apostles in Wenchi",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-10-man-karela-united-hold-young-apostles-in-wenchi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T18:02:48.000Z",
-      "summary": "The Holy ones were held to a goalless draw at home by Karela United despite the latter suffering a red card during the game.",
-      "categories": [
-        "Football",
-        "National",
-        "GPL 2026/27",
-        "Karela United",
-        "Young Apostles"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/761E34B0-892A-4CEE-82D5-B221B61F50BD.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NAIMOS arrests 13 suspected illegal miners in raid on Offin River",
-      "link": "https://www.myjoyonline.com/naimos-arrests-13-suspected-illegal-miners-in-raid-on-offin-river/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T18:02:12.000Z",
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has raided a large illegal mining site at Subin Akwaaboso in the Upper Denkyira West District of the Central Region…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "NAIMOS",
-        "Offin River"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-43.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Samartex edge Gold Stars to strengthen title credentials in Western derby",
-      "link": "https://www.myjoyonline.com/samartex-edge-gold-stars-to-strengthen-title-credentials-in-western-derby/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T18:02:00.000Z",
-      "summary": "FC Samartex 1996 strengthened their Ghana Premier League title credentials with a hard-fought 1-0 victory over Bibiani Gold Stars in the Western derby.",
-      "categories": [
-        "Football",
-        "HP Sports 4",
-        "Ghana Premier League",
-        "GoldStars",
-        "Samartex 1996"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_1232-1024x684.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AshantiGold stun Swedru All Blacks to end 10-match unbeaten home run",
-      "link": "https://www.myjoyonline.com/ashantigold-stun-swedru-all-blacks-to-end-10-match-unbeaten-home-run/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T17:59:00.000Z",
-      "summary": "FC AshantiGold 04 produced a remarkable comeback to beat Swedru All Blacks 2-1 at the Swedru Sports Stadium, ending the hosts' three-match winning streak and 10-game unbeaten home run.",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Ashgold",
-        "Ghana Premier League",
-        "Swedru All Black"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_1231-1024x677.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Debibi United end Hearts of Oak’s winning run with narrow victory",
-      "link": "https://www.myjoyonline.com/debibi-united-end-hearts-of-oaks-winning-run-with-narrow-victory/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T17:54:00.000Z",
-      "summary": "Hearts of Oak's three-match winning streak came to an end following a disappointing 1-0 defeat to Debibi United at the Debibi Presby Park.",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Debibi United",
-        "Ghana Premier League",
-        "Hearts of Oak"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_1230-1024x562.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CRIC must ensure consensus is reached before amendment bills are drafted – Dr Asante",
-      "link": "https://www.myjoyonline.com/cric-must-ensure-consensus-is-reached-before-amendment-bills-are-drafted-dr-asante/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T17:50:42.000Z",
-      "summary": "Director of Policy Engagement and Partnerships at the Ghana Center for Democratic Development (CDD-Ghana), Dr Kojo Pumpuni Asante, has urged the Constitution Review Implementation Committee…",
-      "categories": [
-        "National",
-        "Constitution Review Implementation Committee (CRIC)",
-        "Constitutional reforms",
-        "Dr Kojo Pumpuni Asante"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Dr.-Pumpuni-Asante.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cambridge scientist dies in Spanish train crash",
-      "link": "https://www.myjoyonline.com/cambridge-scientist-dies-in-spanish-train-crash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T17:41:34.000Z",
-      "summary": "An award-winning University of Cambridge researcher died in the Spanish train disaster while on her way to collect a prize for scientific excellence.",
-      "categories": [
-        "International",
-        "Spanish",
-        "Train crash"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-40-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026 U17 WWC: Japan knock out Black Maidens in quarters",
-      "link": "https://www.myjoyonline.com/2026-u17-wwc-japan-knockout-black-maidens-in-quarters/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T17:35:35.000Z",
-      "summary": "The Black Maidens lost 1-0 to the Asian side in the quarterfinals of the competition on Sunday afternoon.",
-      "categories": [
-        "Football",
-        "HP News 7",
-        "National",
-        "2026 U-17 Women's World Cup",
-        "Black Maidens",
-        "Japan"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/4FACB96B-235E-4EDE-914A-6827154B6363-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NACOC hunts Ghana accomplices over 40kg cocaine shipment seized in Lebanon that were shipped through Accra Airport - Lebanese Customs",
@@ -244,18 +254,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/23/WhatsApp-Image-2026-10-30-at-3.59.08-PM.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Eight dead in bus crash at Azuletti on Elubo-Takoradi N1 highway",
-      "link": "https://www.graphic.com.gh/news/general-news/eight-dead-in-bus-crash-at-azuletti-on-elubo-takorai-n1-highway.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T21:52:39.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/01/crash1.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana Premier League: Kotoko plot Medeama ambush, Hearts threaten title shake-up",

@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-01T19:15:45.564Z",
-  "worldAt": "2026-11-01T19:15:45.560Z",
+  "updated": "2026-11-01T22:52:50.638Z",
+  "worldAt": "2026-11-01T22:52:50.634Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,15 +26,15 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (fetch failed)",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 29 stories",
+    "World · BBC News: 30 stories",
     "World · Deutsche Welle: 10 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
@@ -42,10 +42,38 @@ window.GDC_NEWS = {
     "Africa · Africanews: 30 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 22 African stories held"
+    "Africa · Al Jazeera: 1 stories",
+    "world lists: 40 world, 18 African stories held"
   ],
   "items": [
+    {
+      "title": "MTN Ghana pays GH¢9bn to state, earns GH¢7.8bn profit in first 9 months of 2026",
+      "link": "https://www.myjoyonline.com/mtn-ghana-pays-gh%c2%a29bn-to-state-earns-gh%c2%a27-8bn-profit-in-first-9-months-of-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:09:00.000Z",
+      "summary": "MTN Ghana paid GH¢9.0 billion in direct and indirect taxes to the state in the first nine months of 2026, a figure that surpasses the telecommunications giant’s profit after tax of GH¢7.8…"
+    },
+    {
+      "title": "Fitch Solutions maintains nearly 6% growth rate for Ghana in 2026, but expects economy to lose momentum in 2027",
+      "link": "https://www.myjoyonline.com/fitch-solutions-maintains-nearly-6-growth-rate-for-ghana-in-2026-but-expects-economy-to-lose-momentum-in-2027/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:05:00.000Z",
+      "summary": "According to the UK-based firm, the Ghanaian economy has remained largely insulated from global developments over the past year, supported by elevated gold prices, low domestic inflation…"
+    },
+    {
+      "title": "T-bills auction: Government exceeds target by 4.12%, interest rates take a nosedive",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-by-4-12-interest-rates-take-a-nosedive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T21:39:16.000Z",
+      "summary": "A little over GH¢1.5 billion of the bids were tendered for the 91-day bill, representing 59% of the total bids. The uptake was, however, about GH¢1.2 billion."
+    },
+    {
+      "title": "NDPC Moves to Improve Coordination of District Development Plans and Budgets",
+      "link": "https://thehighstreetjournal.com/ndpc-to-improve-district-devt-plans/",
+      "source": "The High Street Journal",
+      "published": "2026-11-01T20:00:00.000Z",
+      "summary": "The National Development Planning Commission (NDPC) is revising regional and district guidelines with support from European partners to improve how local authorities align development…"
+    },
     {
       "title": "MIIF Launches Five-Year Forest Restoration Project in Western Region",
       "link": "https://thehighstreetjournal.com/miif-launches-5-year-forest-restoration/",
@@ -1067,51 +1095,118 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-10-29T10:00:00.000Z",
       "summary": "Ghana must convert cedi gains and rising gold receipts into lasting prosperity through fiscal discipline, transparent foreign exchange operations, productive investment and stronger…"
-    },
-    {
-      "title": "Rural women in Volta, Oti seek support to compete with imported rice",
-      "link": "https://www.myjoyonline.com/rural-women-in-volta-oti-seek-support-to-compete-with-imported-rice/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T09:24:04.000Z",
-      "summary": "The Vice Chairperson of the Gamesu Women Rice Farmers Association and a member of Volta and Oti Women in Agriculture (VOWAN), Saraphine Obrotey, has called for improved access to land…"
-    },
-    {
-      "title": "Africa must turn research into jobs — Environment Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-africa-must-turn-research-into-jobs-environment-minister.html",
-      "source": "Graphic Online",
-      "published": "2026-10-29T09:17:34.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Interior & Gender Ministries Emerge Top-Performing Ministries Towards Economic Prosperity – New Report",
-      "link": "https://thehighstreetjournal.com/interior-gender-ministries-emerge-top-performing-ministries-towards-economic-prosperity-new-report/",
-      "source": "The High Street Journal",
-      "published": "2026-10-29T09:00:00.000Z",
-      "summary": "Ghana's Interior Ministry topped a 23-ministry IGIPTEP assessment with 80.26 percent, ahead of Gender, Children and Social Protection at 72.8. Local Government, Education, Lands and Health…"
-    },
-    {
-      "title": "Fund invests $3 million in Ghana’s resilience drive - Develops new approach to tackle mining-related insecurity",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-fund-invests-3-million-in-ghanas-resilience-drive-develops-new-approach-to-tackle-mining-related-insecurity.html",
-      "source": "Graphic Online",
-      "published": "2026-10-29T08:34:23.000Z",
-      "summary": ""
     }
   ],
   "world": [
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T22:32:54.000Z",
+      "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke."
+    },
+    {
+      "title": "This legendary board game could take decades to complete",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+      "source": "NPR World",
+      "published": "2026-11-01T22:30:00.000Z",
+      "summary": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish."
+    },
+    {
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T22:15:14.000Z",
+      "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire."
+    },
+    {
+      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "source": "NPR World",
+      "published": "2026-11-01T22:19:13.000Z",
+      "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the…"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-01T21:55:01.000Z",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
+    },
+    {
+      "title": "French presidential candidate Édouard Philippe rejects centre-right primary",
+      "link": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary",
+      "source": "France 24",
+      "published": "2026-11-01T21:51:36.000Z",
+      "summary": "French presidential candidate and former Prime Minister Édouard Philippe ruled out competing in a primary Sunday, following a proposal made last week by his rival Gabriel Attal to organize…",
+      "image": "https://s.france24.com/media/display/b8cd539c-d62e-11f1-9e78-bf1914cabd52/w:1024/p:16x9/000-D63Z72Y.jpg"
+    },
+    {
+      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T21:29:43.000Z",
+      "summary": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers."
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
       "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-01T19:06:57.000Z",
-      "summary": "Haley Stevens, a former congresswomen who lost out on the Democratic nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "published": "2026-11-01T21:16:45.000Z",
+      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "How will the Iran war shape the outcome of the US midterm vote?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T19:00:32.000Z",
-      "summary": "The conflict has become a central issue ahead of Tuesday's polls."
+      "published": "2026-11-01T21:28:47.000Z",
+      "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank."
+    },
+    {
+      "title": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
+      "link": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
+      "source": "France 24",
+      "published": "2026-11-01T20:37:45.000Z",
+      "summary": "The 35-year-old UN peacekeeping mission ⁠in the disputed Western ​Sahara region came to an end Sunday after the Security Council failed to ​renew its mandate. Morocco, which claims the…",
+      "image": "https://s.france24.com/media/display/0bfbe8ea-a712-11ec-a859-005056a97e36/w:1024/p:16x9/8013915005001.jpg.png"
+    },
+    {
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T21:01:33.000Z",
+      "summary": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections."
+    },
+    {
+      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+      "link": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-01T20:34:00.000Z",
+      "summary": "Russia is nearing completion of what experts think is a giant radar complex in Kaliningrad, capable of monitoring much of Europe. Experts warn the project could intensify the military…"
+    },
+    {
+      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+      "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T21:00:52.000Z",
+      "summary": "Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed."
+    },
+    {
+      "title": "Michigan ‘Betrayal’ & Mid Term Manouvres",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
+      "source": "France 24",
+      "published": "2026-11-01T19:37:52.000Z",
+      "summary": "France 24’s Spotlight Presenter Gavin Lee assesses the last minute campaign dramas and takes an US election overview on the ‘must watch states’ alongside Professor Donald Green, Professor…",
+      "image": "https://s.france24.com/media/display/c0fdb1aa-d62a-11f1-b8cd-1beafce15fea/w:1024/p:16x9/DLS-PHOTO-US-POLITIQUE-0-00-01-00.png"
+    },
+    {
+      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T20:48:00.000Z",
+      "summary": "Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir."
     },
     {
       "title": "Peaceful protests in Germany spiral into violence and looting",
@@ -1122,11 +1217,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg"
     },
     {
-      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-      "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+      "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T18:58:23.000Z",
-      "summary": "No arrests made after several security officers were reportedly injured during incidents at Saturday's protests."
+      "published": "2026-11-01T20:43:33.000Z",
+      "summary": "Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday."
     },
     {
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
@@ -1137,11 +1232,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-      "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+      "title": "Police clash with housing crisis protesters in Portugal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T18:51:07.000Z",
-      "summary": "US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race."
+      "published": "2026-11-01T20:31:17.000Z",
+      "summary": "Police clash with housing crisis protesters in Portugal"
     },
     {
       "title": "France: Route du Rhum yacht race sets off",
@@ -1152,11 +1247,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/f6c87276-d61a-11f1-a1b5-bf1914cabd52/w:1024/p:16x9/EN-20261101-161049-161403-CS.jpg"
     },
     {
-      "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-      "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+      "title": "Al Jazeera celebrates 30th anniversary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T18:37:37.000Z",
-      "summary": "Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification."
+      "published": "2026-11-01T20:21:05.000Z",
+      "summary": "Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide."
     },
     {
       "title": "Thousands join Indian opposition protest",
@@ -1167,11 +1262,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/3cbb2c10-d61b-11f1-a32b-bf1914cabd52/w:1024/p:16x9/EN-20261101-170121-170312-CS.jpg"
     },
     {
-      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-      "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+      "title": "Video captures house collapsing due to Ecuador floods",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T18:23:57.000Z",
-      "summary": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen."
+      "published": "2026-11-01T19:56:47.000Z",
+      "summary": "Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N"
     },
     {
       "title": "Oleshky: Evacuations during first humanitarian truce of war end",
@@ -1182,11 +1277,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/41a1e774-d606-11f1-9ff5-a575454bc579/w:1024/p:16x9/EN-20261101-150645-150857-CS.jpg"
     },
     {
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "link": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
+      "title": "Arsenal go top after narrow win at Liverpool",
+      "link": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T17:30:45.000Z",
-      "summary": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses."
+      "published": "2026-11-01T19:09:18.000Z",
+      "summary": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City"
     },
     {
       "title": "Lindsay Clancy is back in court - where will her case go next?",
@@ -1197,11 +1292,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f436/live/1948f1a0-d255-11f1-bb20-4320a74e5db1.jpg"
     },
     {
-      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
-      "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
+      "title": "How will the Iran war shape the outcome of the US midterm vote?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T16:59:41.000Z",
-      "summary": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services."
+      "published": "2026-11-01T19:00:32.000Z",
+      "summary": "The conflict has become a central issue ahead of Tuesday's polls."
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -1212,11 +1307,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Bangladesh workers clash with police in protests over low pay",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
+      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+      "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T16:52:42.000Z",
-      "summary": "Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka."
+      "published": "2026-11-01T18:58:23.000Z",
+      "summary": "No arrests made after several security officers were reportedly injured during incidents at Saturday's protests."
     },
     {
       "title": "University of Cambridge scientist among those who died in Spanish train crash",
@@ -1227,11 +1322,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"
     },
     {
-      "title": "India protesters march with 1km banner of deleted voters’ names",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+      "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T16:42:18.000Z",
-      "summary": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls."
+      "published": "2026-11-01T18:51:07.000Z",
+      "summary": "US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race."
     },
     {
       "title": "In Lome, a soviet-era sport celebrates Togo-Russia ties",
@@ -1241,11 +1336,11 @@ window.GDC_NEWS = {
       "summary": "Sambo began in the USSR and takes its name from a Russian expression meaning \"unarmed self-defense\""
     },
     {
-      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-      "link": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+      "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+      "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T16:24:16.000Z",
-      "summary": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park."
+      "published": "2026-11-01T18:37:37.000Z",
+      "summary": "Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification."
     },
     {
       "title": "France reports largely peaceful protests",
@@ -1256,11 +1351,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c12466ee-d605-11f1-83e3-695cb59fade5/w:1024/p:16x9/EN-20261101-150107-150436-CS.jpg"
     },
     {
-      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
-      "link": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
+      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+      "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T16:19:57.000Z",
-      "summary": "US President Trump returns to the campaign trail after taking a break at his ⁠⁠Mar-a-Lago club in Florida on Saturday."
+      "published": "2026-11-01T18:23:57.000Z",
+      "summary": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen."
     },
     {
       "title": "Data centres on the ballot: could the AI infrastructure shape US midterms?",
@@ -1271,11 +1366,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/c3162cc2-d604-11f1-8753-bf1914cabd52/w:1024/p:16x9/01-11-2026-13-59-ING33-PGM-B-FF.jpg"
     },
     {
-      "title": "Al Jazeera Balkans relaunches in new digital-first format",
-      "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
+      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+      "link": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T16:17:37.000Z",
-      "summary": "AJB's return is a 'reaffirmation' of the network’s mission to go where the story matters, says its digital director."
+      "published": "2026-11-01T17:30:45.000Z",
+      "summary": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses."
     },
     {
       "title": "Hundreds march in Johannesburg to celebrate LGBTQ+ pride in South Africa",
@@ -1285,11 +1380,11 @@ window.GDC_NEWS = {
       "summary": "Hundreds of people took to the streets of Sandton on Saturday to celebrate South Africa’s Pride parade, one of Africa’s largest annual celebrations of inclusivity"
     },
     {
-      "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
-      "link": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
+      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-01T15:50:19.000Z",
-      "summary": "Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker."
+      "published": "2026-11-01T16:59:41.000Z",
+      "summary": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services."
     },
     {
       "title": "Oleshky residents return to Ukraine",
@@ -1298,101 +1393,6 @@ window.GDC_NEWS = {
       "published": "2026-11-01T14:56:05.000Z",
       "summary": "Residents evacuated from Russian-occupied Oleshky have reached Ukrainian-held territory following a rare local truce. They described years of isolation, food shortages and regular shelling…",
       "image": "https://s.france24.com/media/display/e35562ea-d5fb-11f1-b3a1-bf1914cabd52/w:1024/p:16x9/EN-20261101-140341-140954-CS.jpg"
-    },
-    {
-      "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T15:40:58.000Z",
-      "summary": "Dramatic helicopter rescue saves climbers stranded on Italian cliff"
-    },
-    {
-      "title": "French high school blockades to restart on Monday, student unions say",
-      "link": "https://www.france24.com/en/france/20261101-french-high-school-blockades-to-restart-on-monday-student-unions-say",
-      "source": "France 24",
-      "published": "2026-11-01T14:31:49.000Z",
-      "summary": "The head of a student union said Sunday that high school blockades throughout France would restart on Monday. French President Emmanuel Macron has called for classes to resume after the…",
-      "image": "https://s.france24.com/media/display/4a6963f2-d5ff-11f1-a635-d18c5759e759/w:1024/p:16x9/000-D3KE3G7.jpg"
-    },
-    {
-      "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T15:38:12.000Z",
-      "summary": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue."
-    },
-    {
-      "title": "Africa suffering in 'strongmen' era: governance watchdog Mo Ibrahim",
-      "link": "http://www.africanews.com/2026/11/01/africa-suffering-in-strongmen-era-governance-watchdog-mo-ibrahim/",
-      "source": "Africanews",
-      "published": "2026-11-01T14:02:27.000Z",
-      "summary": "The Mo Ibrahim Foundation's latest report, finds broad progress on economic opportunity and human development over the past decade, but also steep declines in security, human rights and…"
-    },
-    {
-      "title": "Serbia arrests police chief over abuse of office allegations",
-      "link": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T15:36:13.000Z",
-      "summary": "Belgrade's chief prosecutor says arrest of Marko Kricak 'has no link' to elections that saw Aleksandar Vucic step down."
-    },
-    {
-      "title": "US Midterms: Democrats face leftward surge",
-      "link": "https://www.france24.com/en/us-midterms-democrats-face-leftward-surge",
-      "source": "France 24",
-      "published": "2026-11-01T13:56:18.000Z",
-      "summary": "As Democrats seek to regain control of Congress, divisions within the party are emerging over its future direction. A new wave of progressive candidates is pushing to shift priorities…",
-      "image": "https://s.france24.com/media/display/0883ea4c-d5fb-11f1-958f-bf1914cabd52/w:1024/p:16x9/EN-20261101-131203-131443-CS.jpg"
-    },
-    {
-      "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
-      "link": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T15:24:08.000Z",
-      "summary": "The UK PM's statement comes as Commonwealth nations meet in Antigua and Barbuda."
-    },
-    {
-      "title": "Poland rocked by Constitutional showdown",
-      "link": "https://www.france24.com/en/poland-rocked-by-constitutional-showdown",
-      "source": "France 24",
-      "published": "2026-11-01T13:41:40.000Z",
-      "summary": "Poland’s constitutional crisis deepened on Saturday as the European Commission urged President Karol Nawrocki to recognise new judges appointed by Prime Minister Donald Tusk. The standoff…",
-      "image": "https://s.france24.com/media/display/a499c734-d5de-11f1-94fb-a575454bc579/w:1024/p:16x9/EN-20261101-110736-110939-CS.jpg"
-    },
-    {
-      "title": "Photos: Thousands join India’s opposition rally against election chief",
-      "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T14:46:03.000Z",
-      "summary": "Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party."
-    },
-    {
-      "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
-      "source": "NPR World",
-      "published": "2026-11-01T13:15:28.000Z",
-      "summary": "A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about…"
-    },
-    {
-      "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-      "link": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T14:26:43.000Z",
-      "summary": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory."
-    },
-    {
-      "title": "France: Route du Rhum fleet ready to depart",
-      "link": "https://www.france24.com/en/france-route-du-rhum-fleet-ready-to-depart",
-      "source": "France 24",
-      "published": "2026-11-01T13:12:44.000Z",
-      "summary": "The Route du Rhum, billed as the world’s biggest solo transatlantic race, is set to depart from Saint-Malo in Brittany. Skippers will sail alone to Guadeloupe, with professionals and…",
-      "image": "https://s.france24.com/media/display/870d1222-d5e1-11f1-8c01-695cb59fade5/w:1024/p:16x9/EN-20261101-111255-111454-CS.jpg"
-    },
-    {
-      "title": "Israel election: When will government be formed, who will lead it?",
-      "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T14:16:14.000Z",
-      "summary": "President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow."
     }
   ],
   "africa": [
@@ -1523,34 +1523,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-10-31T11:37:21.000Z",
       "summary": "Somalia hails the UN mission's closure as a milestone amid political tensions and cuts to international support."
-    },
-    {
-      "title": "South African court sets limits on anti-migrant marches",
-      "link": "http://www.africanews.com/2026/10/31/south-african-court-sets-limits-on-anti-migrant-marches/",
-      "source": "Africanews",
-      "published": "2026-10-31T10:08:24.000Z",
-      "summary": "Under the revised terms, the group may march between 9am and 3pm, with participants barred from carrying weapons or covering their faces. The group was also prohibited from destroying…"
-    },
-    {
-      "title": "RSF senior commander defects, accusing Sudan group’s leadership of nepotism",
-      "link": "https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T08:09:36.000Z",
-      "summary": "In exclusive footage obtained by Al Jazeera, Siddiq Ander describes RSF as a 'purely family-based project'."
-    },
-    {
-      "title": "Drone strikes in Ethiopia kill at least 25: witnesses",
-      "link": "http://www.africanews.com/2026/10/31/drone-strikes-in-ethiopia-kill-at-least-25-witnesses/",
-      "source": "Africanews",
-      "published": "2026-10-31T09:11:48.000Z",
-      "summary": "Multiple drone strikes have hit northern regions of Ethiopia since Thursday, killing at least 25 civilians, including children, witnesses and a medical source said on Friday"
-    },
-    {
-      "title": "Ghana in talks with Russia for first nuclear power plant",
-      "link": "http://www.africanews.com/2026/10/31/ghana-in-talks-with-russia-for-first-nuclear-power-plant/",
-      "source": "Africanews",
-      "published": "2026-10-31T07:34:02.000Z",
-      "summary": "Russian President Vladimir Putin met his Ghanaian counterpart John Dramani Mahama for bilateral talks the next day after Russia-Africa summit in Moscow"
     }
   ]
 };
