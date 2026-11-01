@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-01T07:59:52.519Z",
+  "updated": "2026-11-01T14:53:06.153Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,127 +25,180 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Judge dismisses Trump’s lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.myjoyonline.com/judge-dismisses-trumps-lawsuit-against-wall-street-journal-over-epstein-birthday-book/",
+      "title": "NIA Taskforce launches nationwide crackdown on Ghana card photocopying from November 2",
+      "link": "https://www.graphic.com.gh/news/general-news/nia-taskforce-launches-nationwide-crackdown-on-ghana-card-photocopying-from-november-2.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T14:15:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/jun/28/NIA.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Climate diplomacy meets frontline reality: AGN opens COP31 strategy session amid urgent El Niño warnings",
+      "link": "https://www.myjoyonline.com/climate-diplomacy-meets-frontline-reality-agn-opens-cop31-strategy-session-amid-urgent-el-nino-warnings/",
       "source": "MyJoyOnline",
-      "published": "2026-11-01T07:16:57.000Z",
-      "summary": "A US judge has thrown out President Donald Trump's $10bn dollar lawsuit against The Wall Street Journal, ruling the suit was \"grasping at straws\".",
+      "published": "2026-11-01T13:40:08.000Z",
+      "summary": "The African Group of Negotiators on Climate Change (AGN) has opened a crucial two-day strategy meeting in Antalya, Türkiye, to prepare for the 31st United Nations Climate Change Conference…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "African Group of Negotiators on Climate Change (AGN)",
+        "COP31"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-13.00.34-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UBIDS charts path to growth with academic wins despite transition challenges",
+      "link": "https://www.myjoyonline.com/ubids-halts-new-programmes-as-parliament-probes-accreditation-and-staffing-crisis/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T13:39:03.000Z",
+      "summary": "The University of Business and Integrated Development Studies (UBIDS) is recording significant academic gains as it navigates the challenges of its early years of autonomy.",
+      "categories": [
+        "Education",
+        "National",
+        "accreditation",
+        "University of Business and Integrated Development Studies (UBIDS)"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-10.10.22-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliamentary delegation from Denmark in Tema to discuss water, climate cooperation",
+      "link": "https://www.graphic.com.gh/news/general-news/parliamentary-delegation-from-denmark-in-tema-to-discuss-water-climate-cooperation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T13:27:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/01/tema.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Evans Oppong wins big at Ashanti Business Merit Awards",
+      "link": "https://www.myjoyonline.com/evans-oppong-wins-big-at-ashanti-business-merit-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T13:25:16.000Z",
+      "summary": "Evans Oppong wins big at Ashanti Business Merit Awards",
+      "categories": [
+        "Events"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/09c40a33-23e7-48a7-bc00-282008ffb414.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No more washing up: How Airbnb’s new house rules have divided hosts and guests",
+      "link": "https://www.myjoyonline.com/no-more-washing-up-how-airbnbs-new-house-rules-have-divided-hosts-and-guests/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T13:21:16.000Z",
+      "summary": "When Lisa Clewes returned to her Welsh holiday let after a group of guests checked out, she was horrified by the mess. Just days earlier, she had met the group in person and helped with…",
       "categories": [
         "International",
-        "Epstein",
-        "Judge",
-        "Wall Street Journal"
+        "Airbab"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-7-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-33.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "link": "https://www.myjoyonline.com/shops-looted-as-german-cost-of-living-protests-turn-violent/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T07:16:34.000Z",
-      "summary": "Rioters looted shops in central Frankfurt late on Saturday and clashes erupted with police there and in other German cities after largely peaceful mass protests over the cost of living.",
+      "title": "NGO urges adoption of climate change manual, review of inorganic fertiliser use",
+      "link": "https://www.graphic.com.gh/news/general-news/ngo-urges-adoption-of-climate-change-manual-review-of-inorganic-fertiliser-use.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T13:14:00.000Z",
+      "summary": "",
       "categories": [
-        "International",
-        "German",
-        "Shops",
-        "Violent"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-6-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Nov/01/rains.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "link": "https://www.myjoyonline.com/judge-orders-trump-administration-to-stop-threatening-us-election-officials/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T07:16:06.000Z",
-      "summary": "A federal judge has ordered the federal government to stop threatening local and state election officials with criminal charges over their role in processing election ballots.",
+      "title": "Ghana on alert: El Niño threatens crops, water and power through 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-on-alert-el-nino-threatens-crops-water-and-power-through-2027.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-01T12:37:36.000Z",
+      "summary": "",
       "categories": [
-        "News",
-        "Election",
-        "Trump",
-        "US"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-9-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.myjoyonline.com/ukrainian-evacuees-reunite-with-family-after-years-trapped-in-russia-occupied-city/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T07:15:40.000Z",
-      "summary": "There were raw emotional scenes as people evacuated from the devastated Russian-occupied city of Oleshky crossed from Belarus into the Ukrainian region of Chernihiv.",
+      "title": "Ghana take on Japan in FIFA U-17 Women's World Cup Quarter-Final - Preview",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghana-take-on-japan-in-fifa-u-17-womens-world-cup-quarter-final-preview.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-01T12:26:13.000Z",
+      "summary": "Ghana advanced in dramatic fashion, beating Argentina 5-4 on penalties after a 1-1 draw in the Round of 16. Jessica Appiah gave Ghana an early lead from Cynthia Obinsrewuo's assist, before…",
       "categories": [
-        "International",
-        "Russia",
-        "Ukraine"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-10-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Oct/23/WhatsApp-Image-2026-10-30-at-3.59.08-PM.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "More than 5,000 die from Ebola in DR Congo’s deadliest outbreak",
-      "link": "https://www.myjoyonline.com/more-than-5000-die-from-ebola-in-dr-congos-deadliest-outbreak/",
+      "title": "Prince Adu-Owusu: Your person will find you",
+      "link": "https://www.myjoyonline.com/prince-adu-owusu-your-person-will-find-you/",
       "source": "MyJoyOnline",
-      "published": "2026-11-01T07:15:20.000Z",
-      "summary": "More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows.",
+      "published": "2026-11-01T12:24:03.000Z",
+      "summary": "There is something I want you to remember, especially if you have been through a heartbreak that has made you question whether you will ever experience love the way you once imagined it…",
       "categories": [
-        "Africa",
-        "DR Congo",
-        "Ebola"
+        "HP Lifestyle 1",
+        "HP Opinion 4",
+        "Lifestyle",
+        "National",
+        "Relationships",
+        "Love",
+        "Your person"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-13-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/AC08A2EF-0D0E-44FE-A246-E99CF9769CFD-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "KiDi, King Promise, Medikal thrill patrons as Hitz-Joy Beach Rave ends on a high note",
-      "link": "https://www.myjoyonline.com/kidi-king-promise-medikal-thrill-patrons-as-hitz-joy-beach-rave-ends-on-a-high-note/",
+      "title": "Judicial Secretary appeals to JUSAG to call off strike",
+      "link": "https://www.myjoyonline.com/judicial-secretary-appeals-to-jusag-to-call-off-strike/",
       "source": "MyJoyOnline",
-      "published": "2026-11-01T05:51:36.000Z",
-      "summary": "The 2026 Hitz-Joy Beach Rave ended on a high note on Saturday, October 31, as music lovers enjoyed an afternoon and evening of live performances, DJ sets and beachside entertainment at…",
-      "categories": [
-        "Events",
-        "HP News 1",
-        "Regional",
-        "Hitz-Joy beach rave",
-        "KiDi",
-        "King Promise",
-        "Patrons"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/3-38-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TraffiTech-GH goes live as MTTD rolls out camera-based speeding checks",
-      "link": "https://www.myjoyonline.com/traffitech-gh-goes-live-as-mttd-rolls-out-camera-based-speeding-checks/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T05:40:59.000Z",
-      "summary": "The Motor Traffic and Transport Department (MTTD) says it is ready to roll out its TraffiTech-GH digital traffic enforcement system on Sunday, November 1, 2026, with cameras expected to…",
+      "published": "2026-11-01T11:44:42.000Z",
+      "summary": "The Judicial Secretary has appealed to the leadership and members of the Judicial Service Staff Association of Ghana (JUSAG) to call off their strike and return to work while negotiations…",
       "categories": [
         "National",
         "Top Story",
-        "Camera based",
-        "MTTD",
-        "speeding checks",
-        "Traffitech-GH"
+        "JUSAG",
+        "Strike"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/images-7-2.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/11/Judicial-service-1024x346.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government raises daily feeding allowance for prison inmates from GH¢1.80 to GH¢5",
-      "link": "https://www.myjoyonline.com/government-raises-daily-feeding-allowance-for-prison-inmates-from-gh%c2%a21-80-to-gh%c2%a25/",
+      "title": "JEAN-ESIS: Ghanaian designer turns Kantamanto waste into environmental art",
+      "link": "https://www.myjoyonline.com/jean-esis-ghanaian-designer-turns-kantamanto-waste-into-environmental-art/",
       "source": "MyJoyOnline",
-      "published": "2026-11-01T05:00:00.000Z",
-      "summary": "The government has increased the daily feeding allowance for Ghana Prisons Service inmates from GH¢1.80 to GH¢5, Vice President Professor Jane Naana Opoku-Agyemang announced. She said the…",
+      "published": "2026-11-01T11:40:22.000Z",
+      "summary": "Ghanaian fashion curator Beatrice “Bee” Arthur is using discarded clothing and other waste materials to highlight the environmental impact of the global fashion industry through an art…",
       "categories": [
-        "National",
-        "daily feeding",
-        "feeding allowance",
-        "Inmates",
-        "Prison"
+        "Art & Design",
+        "JEAN-ESIS",
+        "Kantamanto"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-31-at-07.57.45.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-08-at-4.17.53-PM1-768x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMet warns of hotter, drier and dustier conditions as strong El Niño develops",
+      "link": "https://www.myjoyonline.com/gmet-warns-of-hotter-drier-and-dustier-conditions-as-strong-el-nino-develops/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T11:26:15.000Z",
+      "summary": "The Ghana Meteorological Agency (GMet) has warned that a very strong El Niño event developing in the Pacific Ocean is likely to influence Ghana’s weather conditions into the first half of…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "El Niño",
+        "GMet"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/11/hot-weather-malaysia_4uxc.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -209,30 +262,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Ghana and Russia agree on new defence pact",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-and-russia-agree-on-new-defence-pact.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T18:59:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/01/rus1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Asanko Gold organises health screening for residents in host communities",
-      "link": "https://www.graphic.com.gh/news/general-news/asanko-gold-organises-health-screening-for-residents-in-host-communities.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T18:46:40.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Joanita Borteye to represent Ghana at 2026 Youth Olympic Games, appointed as Deputy Team Captain",
       "link": "https://www.graphic.com.gh/sports/sports-news/joanita-borteye-to-represent-ghana-at-2026-youth-olympic-games-appoinnted-as-deputy-team-captain.html",
       "source": "Graphic Sports",
@@ -255,30 +284,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Oct/31/AMADU.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Two arrested over murder of female tricycle rider at Afrancho",
-      "link": "https://www.graphic.com.gh/news/general-news/two-arrested-over-murder-of-tricycle-rider-at-afrancho.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T16:17:20.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/31/police.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP on Ghanaian diplomatic, service passports issued to persons who do not hold official positions on behalf of the state",
-      "link": "https://www.graphic.com.gh/news/politics/npp-on-ghanaian-diplomatic-service-passports-issued-to-persons-who-do-not-hold-official-positions-on-behalf-of-the-state.html",
-      "source": "Daily Graphic",
-      "published": "2026-10-31T11:48:52.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2022/aug/17/justin_kodua.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "How the Duel of the Century Ended: The 2021 Formula 1 Finale",
@@ -425,18 +430,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ampem Darkoa Ladies beat Edo Queens to book CAF Women’s Champions League spot",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ampem-darkoa-ladies-beat-edo-queens-to-book-caf-womens-champions-league-spot.html",
-      "source": "Graphic Sports",
-      "published": "2026-10-29T15:08:06.000Z",
-      "summary": "CAF’s Organising Committee for Women’s Football ruled on September 26 that the match should resume from the start of extra time. The decision was upheld by the CAF Appeal Board on October…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/29/AMPEM_DARKOA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
