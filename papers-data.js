@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-01T22:53:03.633Z",
+  "updated": "2026-11-02T01:56:05.437Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,46 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Police forward Ashie Moore case docket to AG for prosecution over alleged theft",
+      "link": "https://www.myjoyonline.com/police-forward-ashie-moore-case-docket-to-ag-for-prosecution-over-alleged-theft/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T00:54:39.000Z",
+      "summary": "The Ghana Police Service has forwarded the case docket involving Greater Accra Regional Chairman of the ruling National Democratic Congress (NDC), Emmanuel Nii Ashie Moore, to the…",
+      "categories": [
+        "Crime",
+        "National",
+        "News",
+        "Ashie Moore",
+        "Attorney General",
+        "NDC",
+        "Singaporean",
+        "Toh You Kang"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/Untitled-87.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Debibi United stun Hearts to end Phobians winning streak",
+      "link": "https://www.myjoyonline.com/debibi-united-stun-hearts-to-end-phobians-winning-streak/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:55:29.000Z",
+      "summary": "Hearts of Oak’s three-match winning streak came to an end after a 1-0 defeat to Debibi United at Debibi Presby Park .Sarkodie Demetrous’s effort in the 51st minute handed the debutants a…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 2",
+        "Sports",
+        "Accra Hearts of Oak",
+        "Debibi United",
+        "Ghana",
+        "Ghana Premier League",
+        "Hearts of Oak",
+        "Phobians"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/HWEdr-vWMAAjrCu-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ablakwa and the Evacuation of the Unborn",
       "link": "https://www.myjoyonline.com/ablakwa-and-the-evacuation-of-the-unborn/",
       "source": "MyJoyOnline",
@@ -39,7 +79,21 @@ window.GDC_PAPERS = {
         "Evacuaees",
         "South Africa"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/Ablakwa.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Hon.-Ablakwa.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Antonelli becomes youngest F1 champion at 20 years old",
+      "link": "https://www.myjoyonline.com/antonelli-becomes-youngest-f1-champion-at-20-years-old/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-01T22:37:00.000Z",
+      "summary": "Mercedes' Kimi Antonelli became Formula One's youngest world champion at ‌20 on Sunday, in a red-flagged, ​restarted Mexico City Grand Prix won by Red Bull's Max Verstappen.",
+      "categories": [
+        "Other Sports",
+        "F1",
+        "Kimi Antonelli"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-72.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -97,54 +151,6 @@ window.GDC_PAPERS = {
         "MTN Ghana"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-57.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I’ll tell my players to dive in future – Iraola",
-      "link": "https://www.myjoyonline.com/ill-tell-my-players-to-dive-in-future-iraola/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T22:06:00.000Z",
-      "summary": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
-      "categories": [
-        "Football",
-        "Andoni Iraola",
-        "Arsenal",
-        "Liverpool"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-146.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fitch Solutions maintains nearly 6% growth rate for Ghana in 2026, but expects economy to lose momentum in 2027",
-      "link": "https://www.myjoyonline.com/fitch-solutions-maintains-nearly-6-growth-rate-for-ghana-in-2026-but-expects-economy-to-lose-momentum-in-2027/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T22:05:00.000Z",
-      "summary": "According to the UK-based firm, the Ghanaian economy has remained largely insulated from global developments over the past year, supported by elevated gold prices, low domestic inflation…",
-      "categories": [
-        "Business",
-        "Economy",
-        "BoG",
-        "current surplus",
-        "El-Nino",
-        "Fitch Solutions",
-        "GDP",
-        "Inflation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/07/Fitch-Solutions.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "King Charles to address slavery in Antigua as PM says he is open to possible UK apology",
-      "link": "https://www.myjoyonline.com/king-charles-to-address-slavery-in-antigua-as-pm-says-he-is-open-to-possible-uk-apology/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T21:49:00.000Z",
-      "summary": "King Charles III is to speak with \"unflinching honesty\" and \"sincere sorrow\" on the lasting pain of the transatlantic slave trade, during the final leg of his Caribbean tour in Antigua…",
-      "categories": [
-        "International",
-        "Antigua",
-        "UK"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-63-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
