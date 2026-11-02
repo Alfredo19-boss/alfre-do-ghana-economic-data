@@ -3,8 +3,16 @@
  * Do not edit by hand.
  */
 window.GDC_ARTICLES = {
-  "updated": "2026-10-26T13:27:45.112Z",
+  "updated": "2026-11-02T16:28:25.996Z",
   "articles": [
+    {
+      "date": "2026-11-02",
+      "title": "Ghana's economy, week to 2 November 2026",
+      "standfirst": "Public debt is running at about GH¢749.5bn, inflation stands at 5.2% for Sep 2026, and the policy rate is 14.0%. This briefing is assembled from the published figures on the dashboard, each with the date it belongs to.",
+      "body": "## The debt\n\nGhana's public debt is estimated at **GH¢749.5bn** this morning. That is not a measurement: the Bank of Ghana's most recent published total is **GH¢730.3bn** at 31 August 2026, and the counter carries it forward at the pace debt grew between 28 February 2026 and 31 August 2026 — **GH¢3,537 a second**, or about GH¢305.6 million a day.\n\nAt that level, each of Ghana's roughly 34.4 million people carries about **GH¢21,787** of public debt. Debt-to-GDP was reported at 45.7% at the latest reading, against a peak of 61.8% at end-2024.\n\n## Prices and interest rates\n\nInflation was **5.2%** in Sep 2026 — up from 5.0% in Aug 2026. The Bank of Ghana's policy rate is **14.0%** (24 Sep 2026), which leaves a real policy rate of about **8.8 percentage points** once inflation is taken out.\n\nThe 91-day Treasury bill last cleared at **4.61%** (26 Oct 2026) — unchanged from Oct 2026. Petrol is **GH¢16.09** a litre (16–31 Oct 2026).\n\n## The cedi, reserves and commodities\n\nThe cedi traded at **GH¢11.6200** to the dollar on 30 October 2026, weaker than the 10.4500 recorded at End-2025 — a move of 11.2%.\n\nGross reserves stood at **US$12.1bn** (22 Sep 2026). Gold is trading at **US$4,408** an ounce and cocoa at **US$5,989** a tonne, as at 1 November 2026.\n\n## Trade\n\nExports reached **US$22.4bn** in Jan–Aug 2026, of which gold alone was **US$14.9bn** — 66% of everything the country sold abroad. Against imports of about **US$13.6bn**, that leaves a trade surplus of **US$8.9bn**.\n\nThat concentration cuts both ways: the same gold price that has carried the surplus and steadied the cedi is a single market Ghana does not control.\n\n## The budget, so far\n\nThe 2026 budget approved **GH¢268.1bn** of revenue and grants against **GH¢302.5bn** of spending. Spread evenly, 84% of the year has passed, which puts revenue at about **GH¢224.5bn** and spending at **GH¢253.3bn** — an even-pace estimate, not collection to date.\n\nInterest on debt is budgeted at **GH¢57.7bn** for the year, which is **25.8%** of tax revenue: roughly 22 pesewas of every cedi the state collects.\n\n## What to watch\n\n- **Budget statement** — 13 November 2026\n- **Bank of Ghana rate decision** — 18 November 2026\n- **Christmas Day** — 25 December 2026 (public holiday)\n- **Boxing Day** — 26 December 2026 (public holiday)\n\n---\n\n*Every figure above carries the date of the release it came from. The debt figure is an estimate between monthly publications, worked out from the two most recent Bank of Ghana readings. Sources: Bank of Ghana, Ministry of Finance, Ghana Statistical Service and the other releases listed on the dashboard.*\n",
+      "slug": "2026-11-02-weekly-brief",
+      "file": "articles/2026-11-02-weekly-brief.md"
+    },
     {
       "date": "2026-10-26",
       "title": "Ghana's economy, week to 26 October 2026",
