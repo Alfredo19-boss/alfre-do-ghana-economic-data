@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-03T16:05:51.237Z",
+  "updated": "2026-11-03T21:43:22.492Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,19 +25,343 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "LifeTrac Tech, GRATIS Foundation unveil locally assembled tractor to boost farm mechanisation",
-      "link": "https://www.myjoyonline.com/lifetrac-tech-gratis-foundation-unveil-locally-assembled-tractor-to-boost-farm-mechanisation/",
+      "title": "Photos: Mahama joins Commonwealth leaders at CHOGM opening in Antigua and Barbuda",
+      "link": "https://www.myjoyonline.com/photos-mahama-joins-commonwealth-leaders-at-chogm-opening-in-antigua-and-barbuda/",
       "source": "MyJoyOnline",
-      "published": "2026-11-03T15:54:46.000Z",
-      "summary": "LifeTrac Tech Limited and GRATIS Foundation have unveiled the LifeTrac 6G tractor prototype, a locally fabricated machine aimed at improving agricultural mechanisation and strengthening…",
+      "published": "2026-11-03T21:27:52.000Z",
+      "summary": "President John Mahama joined other Commonwealth leaders at the opening ceremony of the 28th Commonwealth Heads of Government Meeting (CHOGM) in Antigua and Barbuda.",
       "categories": [
-        "Agribusiness",
-        "Business",
-        "GRATIS Foundation",
-        "LifeTrac Tech"
+        "National",
+        "Photo Story",
+        "28th Commonwealth Heads of Government Meeting",
+        "Commonwealth leaders",
+        "President John Mahama"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-6.52.53-AM-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-17.55.05-1-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hamile border explosion, death toll increases to four, 10 injured in clashes",
+      "link": "https://www.graphic.com.gh/news/general-news/explosion-on-the-border-in-hamile-leaves-4-dead-10-injured-in-clashes.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-03T21:18:19.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Amputee Football World Cup: GFA unveils $500,000 Gold Fields deal for Black Challenge",
+      "link": "https://www.graphic.com.gh/sports/sports-news/amputee-football-world-cup-gfa-unveils-500-000-gold-fields-deal-for-black-challenge.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-03T21:17:04.000Z",
+      "summary": "Mr Deen welcomed the commitment, describing it as the kind of corporate and institutional backing the sport had long sought. He expressed appreciation to both the GFA and Gold Fields Ghana…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/AMPUTEE_FOOTBALL.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Millicent Ankude to officiate in Dakar 2026 mixed doubles gold medal final",
+      "link": "https://www.graphic.com.gh/sports/sports-news/millicent-ankude-to-officiate-in-dakar-2026-mixed-doubles-gold-medal-final.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-03T20:25:46.000Z",
+      "summary": "Ankude’s appointment adds to an impressive journey in the sport. She was among five young African umpires selected through the International Table Tennis Federation’s (ITTF) Young Umpires…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/MILLI.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "GACL’s GH¢30m dividend Is manufactured and misleading – Africa Policy Lens",
+      "link": "https://www.myjoyonline.com/gacls-gh%c2%a230m-dividend-is-manufactured-and-misleading-africa-policy-lens/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T20:22:36.000Z",
+      "summary": "The Africa Policy Lens (APL) says the much-publicised GH¢30 million dividend by the Ghana Airports Company Limited (GACL) to Government is manufactured and does not reflect operational…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Africa Policy Lens",
+        "APL",
+        "GACL"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/APL_2.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Achimota 1986 Year Group refurbishes historic Aggrey Chapel to preserve school heritage",
+      "link": "https://www.myjoyonline.com/achimota-1986-year-group-refurbishes-historic-aggrey-chapel-to-preserve-school-heritage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T20:15:25.000Z",
+      "summary": "The 1986 year group of Achimota School has refurbished the institution’s historic Aggrey Chapel as part of activities marking 40 years since its members left the school, in a project aimed…",
+      "categories": [
+        "Education",
+        "National",
+        "Achimota 1986 Year Group",
+        "Aggrey Chapel",
+        "Heritage"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-301-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Armah-Kofi Buah challenges KNUST engineering students to lead the fight against galamsey",
+      "link": "https://www.myjoyonline.com/armah-kofi-buah-challenges-knust-engineering-students-to-lead-the-fight-against-galamsey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T20:12:02.000Z",
+      "summary": "The Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, has challenged geological engineering students at the Kwame Nkrumah University of Science and Technology (KNUST) to…",
+      "categories": [
+        "Education",
+        "National",
+        "Armah Kofi Buah",
+        "Galamsey",
+        "KNUST"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-19.55.15-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘GhanaBoi’ vows to become Ghana’s next boxing hero",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghanaboi-vows-to-become-ghanas-next-boxing-hero.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-03T20:09:19.000Z",
+      "summary": "“Everybody was talking about Azumah Nelson. We are in a whole new generation. It’s got to be somebody else. No disrespect to Azumah Nelson, but this generation also has to have somebody to…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/BOX.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "KNUST, Lands Ministry explore plans for satellite campus in Nzema to honour Nkrumah",
+      "link": "https://www.myjoyonline.com/knust-lands-ministry-explore-plans-for-satellite-campus-in-nzema-to-honour-nkrumah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T20:01:38.000Z",
+      "summary": "The Kwame Nkrumah University of Science and Technology (KNUST) is exploring plans to establish a satellite campus in Ellembelle in the Western Region in honour of Ghana's first President…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Ellembelle",
+        "KNUST",
+        "Nkrumah",
+        "Satellite campus"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-19.54.06-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GTF takes Taekwondo in Schools Campaign to Upper West Region",
+      "link": "https://www.graphic.com.gh/sports/sports-news/gtf-takes-taekwondo-in-schools-campaign-to-upper-west.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-03T20:00:32.000Z",
+      "summary": "Speaking on behalf of GTF President Frederick Lartey Otu, Secretary-General Kankpenuba Peter Nuntaa Wisdom said Taekwondo offered young people values that extended beyond sport. \"Taekwondo…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/TAEK2.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "‘What’s Ablakwa’s wrongdoing?’ – Fiifi Kwetey slams NPP’s ‘Yɛgye Yɛ Sika’ demo as ‘a total joke’",
+      "link": "https://www.myjoyonline.com/whats-ablakwas-wrongdoing-fiifi-kwetey-slams-npps-y%c9%9bgye-y%c9%9b-sika-demo-as-a-total-joke/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T19:11:25.000Z",
+      "summary": "The General Secretary of the National Democratic Congress (NDC), Fifi Fiavi Kwetey, has challenged the New Patriotic Party (NPP) to provide evidence that Foreign Affairs Minister Samuel…",
+      "categories": [
+        "National",
+        "Fifi Fiavi Kwetey",
+        "NPP",
+        "Samuel Okudzeto Ablakwa",
+        "Yɛgye Yɛ Sika demo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-17-at-5.18.43-am-1024x670.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Achimota Headmaster commends 1986 Year Group for restoring Aggrey Chapel",
+      "link": "https://www.myjoyonline.com/achimota-headmaster-commends-1986-year-group-for-restoring-aggrey-chapel/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T18:42:11.000Z",
+      "summary": "The Headmaster of Achimota School, Ebenezer Graham Acquaah, has commended the school's 1986 year group for renovating the Aggrey Chapel, describing the intervention as a significant act of…",
+      "categories": [
+        "Education",
+        "National",
+        "1986-year group",
+        "Achimota School"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-10.26.41-e1793730538833-1024x885.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Tema hosts GCB Bank’s MSME Caravan Clinic as bank deepens support for entrepreneurs",
+      "link": "https://www.myjoyonline.com/tema-hosts-gcb-banks-msme-caravan-clinic-as-bank-deepens-support-for-entrepreneurs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T18:41:35.000Z",
+      "summary": "GCB Bank has taken its nationwide Micro, Small and Medium-sized Enterprises (MSME) Caravan Clinic to Tema, bringing entrepreneurs closer to financing opportunities, business advisory…",
+      "categories": [
+        "Banking and Finance",
+        "Entrepreneurs",
+        "GCB Bank MDME Caravan Clinic",
+        "Tema"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-290-1024x580.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament will resist attempts to fast-track Bills without scrutiny - Speaker Bagbin assures",
+      "link": "https://www.graphic.com.gh/news/politics/parliament-will-resist-attempts-to-fast-track-bills-without-scrutiny-speaker-bagbin-assures.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-03T18:35:13.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/04/IMG_5766.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Man, 29, jailed 14 years for defiling 3-year-old girl in Wa",
+      "link": "https://ghanaiantimes.com.gh/man-29-jailed-14-years-for-defiling-3-year-old-girl-in-wa/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T18:18:59.000Z",
+      "summary": "A 29-year-old tricycle rider, Naah Mashood, has been sentenced to 14 years imprisonment with hard labour for defiling a three-year-old girl at Tiegber in the Wa Municipality. The Domestic…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police arrest three suspected robbers targeting bank customers in Kumasi",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-three-suspected-robbers-targeting-bank-customers-in-kumasi/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T18:15:10.000Z",
+      "summary": "The Ashanti Regional Police Command has announced the arrest of three suspected members of a criminal syndicate believed to be behind a series of robberies targeting bank customers in…",
+      "categories": [
+        "Crime"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minister calls for fair pay for creatives, return of African artefacts",
+      "link": "https://ghanaiantimes.com.gh/minister-calls-for-fair-pay-for-creatives-return-of-african-artefacts/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T18:08:32.000Z",
+      "summary": "The Minister for Tourism, Culture and Creative Arts, Abla Dzifa Gomashie, has called for stronger regional cooperation to ensure fair remuneration for creatives and the return of African…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Azerbaijan exposure good for our development – U-15 Captain Abdul Aziz Issa",
+      "link": "https://ghanaiantimes.com.gh/azerbaijan-exposure-good-for-our-development-u-15-captain-abdul-aziz-issa/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T18:06:31.000Z",
+      "summary": "Captain of Ghana’s National U-15 Boys team, Abdul Aziz Issa, says the exposure gained at the FIFA U-15 World Cup and Festival 2026 in Azerbaijan will be vital for the development of the…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Spanish Police open investigation into death of CD Tenerife striker after collision",
+      "link": "https://ghanaiantimes.com.gh/spanish-police-open-investigation-into-death-of-cd-tenerife-striker-after-collision/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T18:03:36.000Z",
+      "summary": "Spanish Police have opened an investigation into the death of CD Tenerife striker Jesús de Miguel following his on-field collision with FC Andorra goalkeeper Jesús Owono. The 30-year-old…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GNFS intensifies road safety campaign on Tema-Akosombo Highway",
+      "link": "https://ghanaiantimes.com.gh/gnfs-intensifies-road-safety-campaign-on-tema-akosombo-highway/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T18:01:19.000Z",
+      "summary": "The Kpong Fire Station of the Ghana National Fire Service (GNFS) has intensified its road safety awareness campaign along the Tema–Akosombo Highway to promote responsible driving and reduce…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kurt Okraku, Gold Fields visit Black Challenge ahead of World Cup",
+      "link": "https://ghanaiantimes.com.gh/kurt-okraku-gold-fields-visit-black-challenge-ahead-of-world-cup/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T17:58:08.000Z",
+      "summary": "President of the Ghana Football Association, Kurt Edwin Simeon-Okraku, and senior officials of Gold Fields Ghana Limited on Tuesday, November 3, 2026, paid a working visit to Ghana’s…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bawumia explores innovative solution to galamsey menace in Japan",
+      "link": "https://ghanaiantimes.com.gh/bawumia-explores-innovative-solution-to-galamsey-menace-in-japan/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T17:54:10.000Z",
+      "summary": "Flagbearer of the New Patriotic Party, Dr. Mahamudu Bawumia, says he has discovered a game-changing technology that could help Ghana tackle the devastating effects of illegal mining. As…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-17.32.41-1-1024x682.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority MPs walk out in solidarity with Abu Jinapor after Speaker ordered Marshall to walk him out over allegation not backed by evidence on the floor",
+      "link": "https://www.graphic.com.gh/news/politics/minority-mps-walk-out-of-parliament-in-solidarity-with-abu-jinapor.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-03T17:51:28.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hamile explosion: Immigration officer dead, another hospitalised",
+      "link": "https://www.graphic.com.gh/news/general-news/hamile-explosion-immigration-officer-dead-another-hospitalised.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-03T16:44:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Omenaa Mensah unveils modern sport & art campus for Tema youth",
+      "link": "https://www.graphic.com.gh/sports/sports-news/omenaa-mensah-unveils-modern-sport-art-campus-for-tema-youth.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-03T16:05:46.000Z",
+      "summary": "The Campus, which opened on October 31, is located next to Kids Haven School, a facility where children who have experienced violence, severe neglect, and forced labour receive care and an…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Spanish Police probe involuntary manslaughter after footballer dies in horror collision",
@@ -52,116 +376,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Javits’ killing: ‘Condolences are not a policy. Justice is’ – Minority demands sustained US cooperation",
-      "link": "https://www.myjoyonline.com/javits-killing-condolences-are-not-a-policy-justice-is-minority-demands-sustained-us-cooperation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T15:52:00.000Z",
-      "summary": "The Minority Leader in Parliament, Alexander Afenyo-Markin, has called on the government to sustain its engagement with United States authorities to ensure justice for Javits, the Ghanaian…",
-      "categories": [
-        "National",
-        "Javits",
-        "Justice",
-        "Minority"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/afenyo-5.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry swears in Data Review Committee to strengthen household registry",
-      "link": "https://www.myjoyonline.com/gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T15:44:35.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection has constituted a Data Review Committee to strengthen the quality, accuracy and credibility of data generated by the Ghana National…",
-      "categories": [
-        "National",
-        "Data Review Committee",
-        "Gender Ministry",
-        "Ghana National Household Registry (GNHR)"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/880343907_2973075399735049_1179740164585839199_n-1024x462.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NAPO urges journalists to work without fear of violence, intimidation",
-      "link": "https://www.myjoyonline.com/napo-urges-journalists-to-work-without-fear-of-violence-intimidation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T15:42:32.000Z",
-      "summary": "Former running mate of the New Patriotic Party (NPP) ,Dr Matthew Opoku Prempeh, has called for stronger action against impunity for crimes targeting journalists, warning that Ghana is…",
-      "categories": [
-        "National",
-        "Intimidation",
-        "Journalist",
-        "NAPO",
-        "Violence"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-267.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG flags 20 unlicensed mobile loan apps, warns public against using their services",
-      "link": "https://www.myjoyonline.com/bog-flags-20-unlicensed-mobile-loan-apps-warns-public-against-using-their-services/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T15:39:42.000Z",
-      "summary": "The Bank of Ghana (BoG) has flagged 20 mobile loan applications for operating without the necessary regulatory approval, urging the public to refrain from using their services.",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "National",
-        "News",
-        "Bank of Ghana",
-        "illegal financial firms",
-        "mobile money apps"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-15-at-7.50.50-PM.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GCB Bank crowns customer service month with Maiden Aerobics Fiesta in Accra",
-      "link": "https://www.myjoyonline.com/gcb-bank-crowns-customer-service-month-with-maiden-aerobics-fiesta-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T15:37:23.000Z",
-      "summary": "In an effort to deepen customer relationships through experiences beyond financial services, GCB Bank hosted its maiden Aerobics Fiesta in Accra, combining fitness, health awareness and…",
-      "categories": [
-        "Banking and Finance",
-        "Accra",
-        "GC Bank",
-        "maiden Aerobics Fiesta"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/1A1A0132.jpg-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GCB Bank’s Customer Experience Chief outlines wellness-driven strategy to deepen customer engagement",
-      "link": "https://www.myjoyonline.com/gcb-banks-customer-experience-chief-outlines-wellness-driven-strategy-to-deepen-customer-engagement/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T15:36:25.000Z",
-      "summary": "The Chief Marketing, Communication and Customer Experience Officer of GCB Bank PLC, Cynthia Ofori-Dwumfuo, has reaffirmed the Bank’s commitment to enhancing customer experience through…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Customer",
-        "GCB Bank",
-        "Wellness"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-271.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Opare Addo calls for greater youth participation in policy decisions at Commonwealth forum",
-      "link": "https://www.myjoyonline.com/opare-addo-calls-for-greater-youth-participation-in-policy-decisions-at-commonwealth-forum/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T15:34:50.000Z",
-      "summary": "Youth and Empowerment Minister George Opare Addo has stressed the need for young people to have a stronger voice in shaping policies and opportunities that affect their lives.",
-      "categories": [
-        "National",
-        "Opare Addo",
-        "Youth"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_3084-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr Kpikpi demands independent probe into South Africa evacuation funds",
+      "title": "Dr Kpikpi calls for independent probe into South Africa evacuation funds",
       "link": "https://www.graphic.com.gh/news/politics/dr-kpikpi-demands-independent-probe-into-south-africa-evacuation-funds.html",
       "source": "Daily Graphic",
       "published": "2026-11-03T15:07:43.000Z",
@@ -170,6 +385,18 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Minority files motion asking Speaker Bagbin to review ruling on proposal for probe on Ghana-linked cocaine seizures",
+      "link": "https://www.graphic.com.gh/news/politics/minority-files-motion-to-asking-speaker-bagbin-to-review-ruling-on-proposal-for-probe-on-ghana-linked-cocaine-seizures.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-03T14:54:56.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Aug/Afenyo-Markin.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -197,66 +424,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Upper West: Hamile placed under 6pm to 5am curfew, arms possession banned",
-      "link": "https://www.graphic.com.gh/news/general-news/hamile-placed-under-6pm-to-5am-curfew-possession-of-guns-banned.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T14:06:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/aug/16/Curfew-Imposed-2_.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "See the 4 lawful landmarks for speed limits on Ghanaian roads where there are no physically installed speed limit signs by road engineers",
-      "link": "https://www.graphic.com.gh/news/general-news/see-the-4-lawful-landmarks-for-speed-limits-on-ghanaian-roads-where-there-are-no-physically-installed-speed-limit-signs-by-road-engineers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T12:25:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/speed_limits2.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Amansie youth benefit from Asanko Gold apprenticeship programme",
-      "link": "https://www.graphic.com.gh/news/general-news/amansie-youth-benefit-from-asanko-gold-apprenticeship-programme.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T11:58:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NAIMOS arrests illegal miners after armed obstruction at Subin Akwaaboso",
-      "link": "https://www.graphic.com.gh/news/general-news/naimos-arrests-illegal-miners-after-armed-obstruction-at-subin-akwaaboso.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T11:13:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2018/aug/14/galamsey-ghana-illegal-mining.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "TraffiTech: MTTD explains how during an emergency, motorists rushing patients to hospital can contest speeding fines",
-      "link": "https://www.graphic.com.gh/news/general-news/traffitech-mttd-explains-how-motorists-rushing-patients-to-hospital-can-contest-speeding-fines.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T10:56:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Sept/15/police.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "VIDEO: Spanish striker De Miguel dies after on-field collision with goalkeeper",
       "link": "https://www.graphic.com.gh/sports/sports-news/spanish-footballer-dies-after-collision-with-goalkeeper-during-match.html",
       "source": "Graphic Sports",
@@ -269,102 +436,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GRIDCo, ECG promise end to Kumasi power woes",
-      "link": "https://ghanaiantimes.com.gh/gridco-ecg-promise-end-to-kumasi-power-woes/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T09:14:17.000Z",
-      "summary": "The Ghana Grid Company Limited (GRIDCo) and the Electricity Company of Ghana (ECG), with funding support from the Agence Française de Développement (AFD), have assured residents of Kumasi…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana’s urban population hits 19.8m – GSS",
-      "link": "https://ghanaiantimes.com.gh/ghanas-urban-population-hits-19-8m-gss/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T09:11:54.000Z",
-      "summary": "The Government Statistician, Dr Alhassan Iddrisu, has called for urgent measures to address Ghana’s growing housing and accommodation challenges, particularly among vulnerable and…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GCB Bank PLC holds maiden GCB Aerobics Fiesta in Accra",
-      "link": "https://ghanaiantimes.com.gh/gcb-bank-plc-holds-maiden-gcb-aerobics-fiesta-in-accra/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T09:07:43.000Z",
-      "summary": "GCB Bank PLC has reaffirmed its commitment to improving customer experience and promoting healthy lifestyles among customers and stakeholders through a wellness initiative aimed at…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "315 students engaged as GTF takes Regional Taekwondo Awareness Campaign to UWR",
-      "link": "https://ghanaiantimes.com.gh/315-students-engaged-as-gtf-takes-regional-taekwondo-awareness-campaign-to-uwr/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T09:05:02.000Z",
-      "summary": "The Ghana Taekwondo Federation (GTF) on Friday engaged 315 students from five schools in the Upper West Region (UWR) as it continues with its nationwide Regional Taekwondo Awareness…",
-      "categories": [
-        "Sports"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/A-cross-section-of-school-children-watching-a-Taekwondo-demonstration-inset-Mr-Kankpenuba-Peter-delivers-the-keynote-address-on-behalf-of-Mr-Otu.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Carrick dismisses 2-game ultimatum",
-      "link": "https://ghanaiantimes.com.gh/carrick-dismisses-2-game-ultimatum/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T09:02:31.000Z",
-      "summary": "Michael Carrick does not feel he has just two games left to save his Manchester United job, despite the growing scrutiny on his position ahead of today’s Champions League game against Roma…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "4 Ethiopian athletes handed bans",
-      "link": "https://ghanaiantimes.com.gh/4-ethiopian-athletes-handed-bans/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T08:57:37.000Z",
-      "summary": "Mosisa Siyoum received the harshest punishment, an eight-year ban for evidence tampering, while the International Testing Agency (ITA) announced disciplinary measures against four boxers…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Olympic flame lights up Senegal as 2026 Youth Games officially opens",
-      "link": "https://ghanaiantimes.com.gh/olympic-flame-lights-up-senegal-as-2026-youth-games-officially-opens/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T08:55:50.000Z",
-      "summary": "Amid drums, dance and symbols linking generations, the Dakar 2026 Youth Games officially opened on Saturday at the Abdoulaye Wade Stadium in Diamniadio, with a ceremony celebrating the…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fixtures",
-      "link": "https://ghanaiantimes.com.gh/fixtures/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T08:54:46.000Z",
-      "summary": "Shakhtar vs. Sporting Lisbon Galatasaray vs. Stuttgart LASK vs. Slovan Bratislava Bodo/Glimt vs. Lille Feyenoord vs. Inter Milan Villarreal vs. PSG Atletico vs. Bayern Barcelona vs. Aston…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Japan Ambassador’s Championship drives grassroots interest in martial arts",
       "link": "https://www.graphic.com.gh/sports/sports-news/japan-ambassadors-championship-drives-grassroots-interest-in-martial-arts.html",
       "source": "Graphic Sports",
@@ -374,66 +445,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/02/JAPAN_AMBASSADOR.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "I'm not interested in GFA top job — Odotei",
-      "link": "https://www.graphic.com.gh/sports/sports-news/im-not-interested-in-gfa-top-job-odotei.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-02T15:07:43.000Z",
-      "summary": "Speaking on JoySports Link last Saturday, the former Deputy Minister of Communications and Member of Parliament for La Dadekotopon expressed concern about the state and future of Ghana…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/ODOTEI.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Jordan, Díaz earn manager's praise",
-      "link": "https://www.graphic.com.gh/sports/sports-news/jordan-diaz-earn-managers-praise.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-02T15:03:25.000Z",
-      "summary": "Ayew was making just his second start since joining the Blades on a free transfer in September, and his performance will have strengthened his case for another start when United travel to…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/AYEW.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Oleksandr wants ‘last chance’ before retiring from boxing",
-      "link": "https://www.graphic.com.gh/sports/sports-news/oleksandr-wants-last-chance-before-retiring-from-boxing.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-02T15:03:10.000Z",
-      "summary": "He says Usyk wants to fight for a vacant cruiserweight world title before setting up a unification bout against undefeated American Benavidez. \"Oleksandr aims to return to cruiserweight in…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/OLEKSAN.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Outstanding Kudus named Man of the Match",
-      "link": "https://www.graphic.com.gh/sports/sports-news/outstanding-kudus-named-man-of-the-match.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-02T14:41:10.000Z",
-      "summary": "Palace's task became more difficult in the 13th minute when Jean-Philippe Mateta received a red card for a serious challenge on Mickey van de Ven. Tottenham took advantage of their…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/KUDUS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "World Armwrestling Championships: Golden Arms flex muscles with medal haul",
-      "link": "https://www.graphic.com.gh/sports/sports-news/world-armwrestling-championships-golden-arms-flex-muscles-with-medal-haul.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-02T14:35:48.000Z",
-      "summary": "Yeboah conquered the Youth Women's 60kg division, while Nunoo matched her achievement in the Junior Women's 60kg category, underlining the growing strength of Ghana's next generation of…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/GOLDEN_ARMS.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
