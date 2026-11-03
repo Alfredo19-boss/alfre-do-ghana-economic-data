@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-02T18:51:35.015Z",
-  "worldAt": "2026-11-02T18:51:35.013Z",
+  "updated": "2026-11-03T01:21:56.752Z",
+  "worldAt": "2026-11-03T01:21:56.749Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,32 +20,39 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 7/25 stories",
+    "Graphic Online: 5/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 33 stories",
-    "World · Deutsche Welle: 11 stories",
+    "World · BBC News: 35 stories",
+    "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 33 stories",
-    "Africa · Africanews: 30 stories",
-    "Africa · BBC Africa: 31 stories",
-    "Africa · Deutsche Welle: 3 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Africanews: 32 stories",
+    "Africa · BBC Africa: 32 stories",
+    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Ghana to get its first MSMEs Development Index as DBG and GSS collaborate",
+      "link": "https://www.myjoyonline.com/ghana-to-get-its-first-msmes-development-index-as-dbg-and-gss-collaborate/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T20:40:44.000Z",
+      "summary": "Development Bank Ghana (DBG) and the Ghana Statistical Service (GSS) have launched Ghana’s first Micro, Small, and Medium Enterprises index known as the MSMEs Development Index (DBG-GSS…"
+    },
     {
       "title": "Sam George says over 3.1 million Ghanaians using virtual assets to come under regulation",
       "link": "https://www.myjoyonline.com/sam-george-says-over-3-1-million-ghanaians-using-virtual-assets-to-come-under-regulation/",
@@ -1088,318 +1095,390 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-29T21:10:54.000Z",
       "summary": "The government has launched the Cabinet-approved Ghana Pharmaceutical Manufacturing Policy, seeking to double domestic medicine production, create skilled jobs and position the country as a…"
-    },
-    {
-      "title": "African CEOs remain confident in growth, but economic uncertainty, AI readiness will shape next phase of investment – KPMG",
-      "link": "https://www.myjoyonline.com/african-ceos-remain-confident-in-growth-but-economic-uncertainty-ai-readiness-will-shape-next-phase-of-investment-kpmg/",
-      "source": "MyJoyOnline",
-      "published": "2026-10-29T20:32:18.000Z",
-      "summary": "The findings point to a business environment in which ambition remains strong, but execution is becoming increasingly important. While 66% of African CEOs are confident in the global…"
     }
   ],
   "world": [
     {
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "title": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
+      "link": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+      "source": "France 24",
+      "published": "2026-11-03T01:18:44.000Z",
+      "summary": "Russia killed at least 26 people in strikes on a village in southern Ukraine on Monday, including civilians collecting humanitarian aid, emergency workers and police officers. The attack…",
+      "image": "https://s.france24.com/media/display/77d61602-d701-11f1-8594-d18c5759e759/w:1024/p:16x9/c83c0482d49f8575fc0b65f32d551aa79b4d413b.jpg"
+    },
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T01:01:16.000Z",
+      "summary": "US President Donald Trump urged supporters to turn out ahead of Election Day"
+    },
+    {
+      "title": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-03T00:09:13.000Z",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73de/live/7abdffc0-d700-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T00:50:38.000Z",
+      "summary": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results."
+    },
+    {
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-03T00:08:14.000Z",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"
+    },
+    {
+      "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T00:00:00.000Z",
+      "summary": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached."
+    },
+    {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-03T00:07:05.000Z",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+      "link": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist",
+      "source": "France 24",
+      "published": "2026-11-02T23:49:10.000Z",
+      "summary": "North Korea on Tuesday dismissed US allegations that it was behind a $6 billion cryptocurrency theft from Binance as \"absurd rhetoric\", accusing Washington of seeking to portray the country…",
+      "image": "https://s.france24.com/media/display/8f8ad8a0-cdb0-11f1-9dd8-4da0d2c6855d/w:1024/p:16x9/2026-10-08T042855Z-1116982708-RC2SYNASEWEO-RTRMADP-3-NORTHKOREA-SOUTHKOREA-1.jpg"
+    },
+    {
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T23:41:18.000Z",
+      "summary": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies."
+    },
+    {
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-02T23:37:31.000Z",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"
+    },
+    {
+      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+      "link": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-02T23:18:00.000Z",
+      "summary": "The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens."
+    },
+    {
+      "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+      "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T23:05:30.000Z",
+      "summary": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll."
+    },
+    {
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-02T23:02:01.000Z",
+      "summary": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302a/live/febcfd60-d293-11f1-9453-5fe901b3e69e.jpg"
+    },
+    {
+      "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T22:59:41.000Z",
+      "summary": "Surveillance footage captured the moment a tornado ripped through a beach resort restaurant in Castellaneta Marina"
+    },
+    {
+      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
+      "source": "France 24",
+      "published": "2026-11-02T22:30:09.000Z",
+      "summary": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users in both countries. The systems have…",
+      "image": "https://s.france24.com/media/display/ea04afee-d707-11f1-b1d9-1beafce15fea/w:1024/p:16x9/EN-20261102-223118-224510-CS.jpg"
+    },
+    {
+      "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+      "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T22:40:06.000Z",
+      "summary": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree."
+    },
+    {
+      "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+      "link": "https://www.france24.com/en/emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
+      "source": "France 24",
+      "published": "2026-11-02T22:28:36.000Z",
+      "summary": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users in both countries. The systems have…",
+      "image": "https://s.france24.com/media/display/ea04afee-d707-11f1-b1d9-1beafce15fea/w:1024/p:16x9/EN-20261102-223118-224510-CS.jpg"
+    },
+    {
+      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-02T21:40:00.000Z",
+      "summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa."
+    },
+    {
+      "title": "Trump promised 'no more wars'. His foreign policy tells another story",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
+      "source": "France 24",
+      "published": "2026-11-02T21:34:10.000Z",
+      "summary": "Donald Trump promised an “America First” foreign policy and pledged to keep the US out of foreign wars. But since returning to the White House, his administration has been deeply involved…",
+      "image": "https://s.france24.com/media/display/67eb27a2-d6fa-11f1-8418-a575454bc579/w:1024/p:16x9/capture-1a252fd9.jpg"
+    },
+    {
+      "title": "At least 4 dead and 16 injured following explosion at Cameroon steel plant",
+      "link": "http://www.africanews.com/2026/11/02/at-least-4-dead-and-16-injured-following-explosion-at-cameroon-steel-plant/",
+      "source": "Africanews",
+      "published": "2026-11-02T21:30:37.000Z",
+      "summary": "An explosion followed by a fire at a metallurgical plant in Cameroon has left at least 4 people dead and 16 others seriously injured. The incident took place in Douala on Monday morning on…"
+    },
+    {
+      "title": "Student protests resume in France as pupils return to school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T21:28:55.000Z",
+      "summary": "Student protests resume in France as pupils return to school"
+    },
+    {
+      "title": "Uganda withdrawing troops from peacekeeping mission in Somalia",
+      "link": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
+      "source": "France 24",
+      "published": "2026-11-02T21:24:21.000Z",
+      "summary": "In tonight's edition, Uganda starts drawing down troops just days after the UN ends its political mission in Somalia. Also, upcoming municipal elections in South Africa risk solidifying…",
+      "image": "https://s.france24.com/media/display/071e4c16-d703-11f1-b357-d18c5759e759/w:1024/p:16x9/DL00006258-VOD-00023657.jpg"
+    },
+    {
+      "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T21:23:31.000Z",
+      "summary": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida."
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-02T18:48:00.000Z",
-      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "published": "2026-11-02T21:10:04.000Z",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
     },
     {
-      "title": "Russian bombing of Ukrainian aid centre kills 24 people: Zelenskyy",
-      "link": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T18:23:02.000Z",
-      "summary": "President called the attack further proof that Russia does not want any ‌kind of de-escalation or real justice."
-    },
-    {
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-02T18:34:24.000Z",
-      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg"
-    },
-    {
-      "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
-      "link": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T18:10:26.000Z",
-      "summary": "A federal judge tossed charges accusing two former FBI officials of lying to Congress about Hunter Biden investigation."
-    },
-    {
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-02T18:25:01.000Z",
-      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg"
-    },
-    {
-      "title": "Iran engages US in 'intensive' negotiations to avert fresh war outbreak",
-      "link": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak",
+      "title": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261102-the-long-hull-karl-bushby-reflects-on-perseverance-best-of-humanity-on-his-28-year-journey-home",
       "source": "France 24",
-      "published": "2026-11-02T17:42:22.000Z",
-      "summary": "Tehran on Monday said that the country was holding \"intensive\" indirect talks with Washington to avoid a fresh round of US attacks on Iran ahead of the US midterm elections this week…",
-      "image": "https://s.france24.com/media/display/18a41438-d6dc-11f1-b1cd-1beafce15fea/w:1024/p:16x9/2026-10-17T081002Z-2072440926-RC2W4OA50VW1-RTRMADP-3-IRAQ-CONFERENCE-OIC.jpg"
+      "published": "2026-11-02T20:54:38.000Z",
+      "summary": "“They say it takes a village. In this case, it took a world.” After 28 years and some 50,000 kilometres, British explorer and adventurer Karl Bushby has returned to his hometown of Hull…",
+      "image": "https://s.france24.com/media/display/ec1df072-d6fa-11f1-aa08-695cb59fade5/w:1024/p:16x9/EN-20261102-183552-184505-CS.jpg"
     },
     {
-      "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
-      "link": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T17:42:05.000Z",
-      "summary": "The 57-year-old crossed jungles and frozen seas before an emotional homecoming in Hull, northern England."
-    },
-    {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-02T17:38:11.000Z",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"
+      "published": "2026-11-02T20:54:44.000Z",
+      "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7007/live/c8ea35c0-d6f5-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Drone attacks extend campaign targeting Sudan’s power system",
-      "link": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+      "title": "Mamdani’s progressive allies vie for seats in Congress",
+      "link": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-02T17:26:32.000Z",
-      "summary": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF."
+      "published": "2026-11-02T20:48:56.000Z",
+      "summary": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election."
     },
     {
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-02T17:34:58.000Z",
-      "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce17/live/7f263780-d6e2-11f1-a741-236ee91c2e25.jpg"
-    },
-    {
-      "title": "Real Madrid matches still banned in China despite Mbappe apology",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T17:08:25.000Z",
-      "summary": "Real Madrid matches still banned in China despite Mbappe apology"
-    },
-    {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-02T17:33:19.000Z",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Trump, Vance and candidates campaign on last day before US midterms",
-      "link": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T17:07:14.000Z",
-      "summary": "Republicans and Democrats hold last rallies around the United States as polls point to a tight congressional race."
-    },
-    {
-      "title": "Dutch police offer record €2m reward in hunt for drug lord",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-02T17:29:49.000Z",
-      "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055d/live/20e151f0-d6dd-11f1-b2be-0146bf989691.jpg"
-    },
-    {
-      "title": "Iran offers deal on Hormuz Strait, Netanyahu wants to 'finish the job'",
-      "link": "https://www.france24.com/en/video/20261102-iran-offers-deal-on-hormuz-strait-netanyahu-wants-to-finish-the-job",
+      "title": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
+      "link": "https://www.france24.com/en/video/20261102-the-long-hull-karl-bushby-reflects-on-perseverance-best-of-humanity-on-his-28-year-journey-home-1",
       "source": "France 24",
-      "published": "2026-11-02T17:04:54.000Z",
-      "summary": "Iran said Monday it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, shortening a process originally expected to take seven days. Israel's…",
-      "image": "https://s.france24.com/media/display/3c0624b8-d6da-11f1-87b4-695cb59fade5/w:1024/p:16x9/capture-b0a449cf.jpg"
+      "published": "2026-11-02T20:40:05.000Z",
+      "summary": "“They say it takes a village. In this case, it took a world.” After 28 years and some 50,000 kilometres, British explorer and adventurer Karl Bushby has returned to his hometown of Hull…",
+      "image": "https://s.france24.com/media/display/ec1df072-d6fa-11f1-aa08-695cb59fade5/w:1024/p:16x9/EN-20261102-183552-184505-CS.jpg"
     },
     {
-      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
+      "title": "What’s the future of the Western Sahara conflict?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-02T16:56:41.000Z",
-      "summary": "Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school."
+      "published": "2026-11-02T20:43:44.000Z",
+      "summary": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension."
     },
     {
-      "title": "Petition to ban French right-wing TV channel clears 500,000 signatures after racist killing",
-      "link": "https://www.france24.com/en/france/20261102-petition-to-ban-french-right-wing-tv-channel-clears-500-000-signatures-after-racist-killing",
+      "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+      "link": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
       "source": "France 24",
-      "published": "2026-11-02T16:53:34.000Z",
-      "summary": "A petition calling for right-wing television channel CNews to be taken off-air cleared half a million signatures on Monday after a Frenchman shot and killed a French national of Congolese…",
-      "image": "https://s.france24.com/media/display/f2098d52-d6b9-11f1-99d5-a575454bc579/w:1024/p:16x9/000-B3JA8MX.jpg"
+      "published": "2026-11-02T20:30:07.000Z",
+      "summary": "Grocery stores from Sweden to Portugal were hit Monday by a suspected cyberattack on their freezer systems, in what the EU denounced as a deliberate attempt to disrupt the bloc's food…",
+      "image": "https://s.france24.com/media/display/bcd91bec-d6fb-11f1-8781-a575454bc579/w:1024/p:16x9/EN-20261102-211244-211858-CS.jpg"
     },
     {
-      "title": "Family of man killed in racist attack in France seeks justice",
-      "link": "http://www.africanews.com/2026/11/02/family-of-man-killed-in-racist-attack-in-france-seeks-justice/",
+      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T20:38:04.000Z",
+      "summary": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products."
+    },
+    {
+      "title": "South Africa and Rwanda to be excluded from US-Africa trade deal",
+      "link": "http://www.africanews.com/2026/11/02/south-africa-and-rwanda-to-be-excluded-from-us-africa-trade-deal/",
       "source": "Africanews",
-      "published": "2026-11-02T16:36:04.000Z",
-      "summary": "The family of Pengo Bossio Wangi, the young Black man killed in the racist attack that took place on October 23 near Paris, hopes for an \"awakening\" against racism in the country."
+      "published": "2026-11-02T20:17:03.000Z",
+      "summary": "South Africa and Rwanda will be excluded from a major US-Africa duty free trade deal, Washington said on Monday. It blamed “practices inconsistent with the deal’s eligibility criteria,\"…"
     },
     {
-      "title": "British adventurer arrives back at mother's home after 28-year journey",
-      "link": "https://www.france24.com/en/video/20261102-british-adventurer-arrives-back-at-mother-s-home-after-28-year-journey",
-      "source": "France 24",
-      "published": "2026-11-02T16:45:04.000Z",
-      "summary": "British adventurer Karl Bushby enjoyed an emotional reunion with his mother and family on Monday, as he arrived back home after a 28-year, 50,000-kilometre trek from South America, crossing…",
-      "image": "https://s.france24.com/media/display/f06a2dc2-d6db-11f1-bc19-a575454bc579/w:1024/p:16x9/mini3-2.jpg"
-    },
-    {
-      "title": "Grand Egyptian Museum marks first anniversary with dazzling light show",
-      "link": "http://www.africanews.com/2026/11/02/grand-egyptian-museum-marks-first-anniversary-with-dazzling-light-show/",
-      "source": "Africanews",
-      "published": "2026-11-02T16:32:48.000Z",
-      "summary": "The walls of Cairo’s Grand Egyptian Museum came alive on Sunday on the opening night of a dazzling light show. Under the title ‘Eternal Sun,’ the show marks the museum’s first anniversary…"
-    },
-    {
-      "title": "What changes if Democrats win a majority in Congress?",
-      "link": "https://www.france24.com/en/americas/20261102-what-changes-if-democrats-win-a-majority-in-congress",
-      "source": "France 24",
-      "published": "2026-11-02T16:29:53.000Z",
-      "summary": "Americans head to the polls on Tuesday for the US midterm elections, which could flip the majority in one or both houses of Congress from the Republicans to the Democrats. What would a…",
-      "image": "https://s.france24.com/media/display/d61f8930-c86c-11f1-ab9a-4dd8ac2cf3bf/w:1024/p:16x9/main-pouvoir-congres-democrate.jpg"
-    },
-    {
-      "title": "At least seven migrants die on boat bound for Canary Islands amid storm",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm?traffic_source=rss",
+      "title": "UK bookshop helps meet demand for Sally Rooney novels",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-02T16:13:21.000Z",
-      "summary": "At least seven migrants have died aboard a boat carrying 139 people bound for the Canary Islands after a storm hit."
+      "published": "2026-11-02T20:31:16.000Z",
+      "summary": "Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom"
     },
     {
-      "title": "A musical overview of trans-European punk",
-      "link": "https://www.france24.com/en/tv-shows/arts24/20261102-a-musical-overview-of-trans-european-punk",
-      "source": "France 24",
-      "published": "2026-11-02T16:05:15.000Z",
-      "summary": "This week on arts24, we're bringing you a double dose of European punk. Elias Bender Rønnenfelt is a singer with Copenhagen's finest post-punk export, Iceage. The group is currently touring…",
-      "image": "https://s.france24.com/media/display/2a461c70-d6d4-11f1-a42a-1beafce15fea/w:1024/p:16x9/capture-66b709a8.jpg"
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-02T20:08:51.000Z",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6f/live/1399f160-d6fa-11f1-b983-c357054e4d1e.jpg"
     },
     {
-      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-      "link": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
+      "title": "Mamdani-endorsed progressives fight to join Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/mamdani-endorsed-progressives-fight-to-join-congress?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-02T16:03:52.000Z",
-      "summary": "Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978."
+      "published": "2026-11-02T20:28:52.000Z",
+      "summary": "Zohran Mamdani is championing a slate of Congressional candidates who want to take progressive policies national."
     },
     {
-      "title": "Israel's president begins process of coalition government negotiations",
-      "link": "https://www.france24.com/en/video/20261102-israel-s-president-begins-process-of-coalition-government-negotiations",
-      "source": "France 24",
-      "published": "2026-11-02T15:57:00.000Z",
-      "summary": "Israel's President Isaac Herzog begins the process of coalition government negotiations this week. One possibility is for the centrist opposition bloc to form a government with the Arab…",
-      "image": "https://s.france24.com/media/display/7037ab46-d6d3-11f1-8ca1-d18c5759e759/w:1024/p:16x9/capture-d7c5bf92.jpg"
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-02T19:49:22.000Z",
+      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
-      "link": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
+      "title": "HRW calls on Zambia to halt post-election crackdown",
+      "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-02T16:03:40.000Z",
-      "summary": "Renewed fighting between rebels from northern Tigray and ​the government in Addis Ababa has shattered 2022 peace deal."
+      "published": "2026-11-02T19:40:10.000Z",
+      "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory."
     },
     {
-      "title": "Scientists begin tests on human composting, an eco-friendly alternative to burials and cremation",
-      "link": "https://www.france24.com/en/tv-shows/down-to-earth/20261102-scientists-begin-tests-on-human-composting-an-eco-friendly-alternative-to-burials-and-cremation",
+      "title": "Free and fair? The Midterms and the state of US democracy",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261102-free-and-fair-the-midterms-and-the-state-of-us-democracy",
       "source": "France 24",
-      "published": "2026-11-02T15:41:01.000Z",
-      "summary": "Humans have caused irreversible changes to our planet in their time on Earth, pollution that continues even in death. Cremation relies heavily on fossil fuels, while traditional burials…",
-      "image": "https://s.france24.com/media/display/843c4600-d6cf-11f1-97d1-695cb59fade5/w:1024/p:16x9/8bf0ba12-5b39-4423-8a17-a01efb09b988.jpg"
+      "published": "2026-11-02T19:37:21.000Z",
+      "summary": "How far will the president of the United States press this time if Tuesday’s Midterm elections don’t go his party’s way? From “only if the Republicans win” campaign promises to a US Justice…",
+      "image": "https://s.france24.com/media/display/c085514e-d6f0-11f1-8735-1beafce15fea/w:1024/p:16x9/2026-11-02T150455Z-57526818-RC29FOA6T5LS-RTRMADP-3-USA-TRUMP-ELECTION.jpg"
     },
     {
-      "title": "Lobster industry caught in Maine’s political headwinds before US midterms",
-      "link": "https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms?traffic_source=rss",
+      "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-02T15:54:53.000Z",
-      "summary": "Senator Susan Collins and Democratic challenger Troy Jackson clash over tariffs and their impact on Maine's economy."
+      "published": "2026-11-02T19:39:24.000Z",
+      "summary": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law."
     },
     {
-      "title": "What might Trump have planned for Iran following the midterm election?",
-      "link": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-02T15:41:00.000Z",
-      "summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the…"
-    },
-    {
-      "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-      "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T15:43:00.000Z",
-      "summary": "Displaced Hebron families return to damaged homes, left to pick up scattered pieces of their lives after Israeli siege."
-    },
-    {
-      "title": "Egypt raises over $650 million in IPO of state-owned bank",
-      "link": "http://www.africanews.com/2026/11/02/egypt-raises-over-650-million-in-ipo-of-state-owned-bank/",
-      "source": "Africanews",
-      "published": "2026-11-02T15:36:13.000Z",
-      "summary": "Egypt on Monday raised more than 650 million dollars in its initial public offering of the state-owned Banque du Caire. The offering comes as the country advances reforms under an…"
-    },
-    {
-      "title": "Nine dead in small plane crash near Trump's Florida home",
-      "link": "https://www.france24.com/en/video/20261102-nine-dead-in-small-plane-crash-near-trump-s-florida-home",
-      "source": "France 24",
-      "published": "2026-11-02T15:33:38.000Z",
-      "summary": "Nine people were killed Sunday when the Learjet they were travelling in plummeted into a neighbourhood in southern Florida, just miles from US President Donald Trump's resort home of…",
-      "image": "https://s.france24.com/media/display/1373b412-d6cf-11f1-99ce-a575454bc579/w:1024/p:16x9/mini2-5.jpg"
-    },
-    {
-      "title": "Carrick not distracted by speculation over United future",
-      "link": "https://www.aljazeera.com/sports/2026/11/2/carrick-not-distracted-by-speculation-over-united-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T15:31:07.000Z",
-      "summary": "Manchester United coach says his players remain committed to the cause despite nine-match winless run"
-    },
-    {
-      "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
-      "link": "https://www.france24.com/en/video/20261102-inflation-war-and-corruption-will-anger-at-trump-see-republicans-punished-at-midterms",
-      "source": "France 24",
-      "published": "2026-11-02T15:30:59.000Z",
-      "summary": "Donald Trump and his Republican Party will make last-gasp pitches to US midterm voters Monday to hold back a predicted Democrat wave that could take over Congress and impose tight political…",
-      "image": "https://s.france24.com/media/display/c8075c88-d6d1-11f1-8626-a575454bc579/w:1024/p:16x9/EN-20261102-160514-160923-CS.jpg"
-    },
-    {
-      "title": "Russia agrees to ban recruitment of Ghanaian nationals for Ukraine war",
-      "link": "http://www.africanews.com/2026/11/02/russia-agrees-to-ban-recruitment-of-ghanaian-nationals-for-ukraine-war/",
-      "source": "Africanews",
-      "published": "2026-11-02T15:27:51.000Z",
-      "summary": "Russia has agreed to stop the recruitment of Ghanaian nationals to fight the war in Ukraine, Accra said in a statement."
-    },
-    {
-      "title": "Heading into the midterms, 'no US president in recent times has been as unpopular as Donald Trump'",
-      "link": "https://www.france24.com/en/heading-into-the-midterms-no-us-president-in-recent-times-has-been-as-unpopular-as-donald-trump",
-      "source": "France 24",
-      "published": "2026-11-02T15:25:20.000Z",
-      "summary": "Erin Ogunkeye is pleased to welcome Richard Johnson, Senior Lecturer in US Politics at Queen Mary University of London. He says that \"Donald Trump is damaged goods at this point in his…",
-      "image": "https://s.france24.com/media/display/bdbaa30e-d6cf-11f1-ab72-1beafce15fea/w:1024/p:16x9/EN-20261102-150111-151452-CS.jpg"
-    },
-    {
-      "title": "Jake Paul to fight MMA star Cedric Doumbe",
-      "link": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T15:13:13.000Z",
-      "summary": "YouTuber-turned-boxer Jake Paul to face mixed martial arts star Cedric Doumbe in boxing bout in Dubai."
-    },
-    {
-      "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
-      "link": "https://www.france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps",
-      "source": "France 24",
-      "published": "2026-11-02T15:06:41.000Z",
-      "summary": "Authorities in Ukraine and Russia said their emergency alert mobile apps had been targeted by cyberattacks, with users in Ukraine receiving false warnings of an imminent nuclear threat…",
-      "image": "https://s.france24.com/media/display/30e69a66-d6cd-11f1-800e-1beafce15fea/w:1024/p:16x9/capture-471ee61c.jpg"
-    },
-    {
-      "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
-      "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T15:09:49.000Z",
-      "summary": "Network calls move 'assault' on press freedom, warns of 'dangerous pattern' that undermines ability to report facts."
-    },
-    {
-      "title": "US Midterms: Will Gen Z enthusiasm help turn Michigan Senate blue?",
-      "link": "https://www.france24.com/en/video/20261102-us-midterms-will-gen-z-enthusiasm-help-turn-michigan-senate-blue",
-      "source": "France 24",
-      "published": "2026-11-02T15:03:53.000Z",
-      "summary": "Michigan’s Senate seat is a must-win for the Democratic Party as it seeks to take control of the upper house of Congress. There’s a surge of energy behind progressive candidate Abdul…",
-      "image": "https://s.france24.com/media/display/4434a4ec-d6cc-11f1-94f1-a575454bc579/w:1024/p:16x9/capture-815f4d3f.jpg"
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-02T19:33:10.000Z",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T00:50:38.000Z",
+      "summary": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results."
+    },
+    {
+      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-02T21:40:00.000Z",
+      "summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa."
+    },
+    {
+      "title": "At least 4 dead and 16 injured following explosion at Cameroon steel plant",
+      "link": "http://www.africanews.com/2026/11/02/at-least-4-dead-and-16-injured-following-explosion-at-cameroon-steel-plant/",
+      "source": "Africanews",
+      "published": "2026-11-02T21:30:37.000Z",
+      "summary": "An explosion followed by a fire at a metallurgical plant in Cameroon has left at least 4 people dead and 16 others seriously injured. The incident took place in Douala on Monday morning on…"
+    },
+    {
+      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+      "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T20:38:04.000Z",
+      "summary": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products."
+    },
+    {
+      "title": "South Africa and Rwanda to be excluded from US-Africa trade deal",
+      "link": "http://www.africanews.com/2026/11/02/south-africa-and-rwanda-to-be-excluded-from-us-africa-trade-deal/",
+      "source": "Africanews",
+      "published": "2026-11-02T20:17:03.000Z",
+      "summary": "South Africa and Rwanda will be excluded from a major US-Africa duty free trade deal, Washington said on Monday. It blamed “practices inconsistent with the deal’s eligibility criteria,\"…"
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-02T20:08:51.000Z",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6f/live/1399f160-d6fa-11f1-b983-c357054e4d1e.jpg"
+    },
+    {
+      "title": "HRW calls on Zambia to halt post-election crackdown",
+      "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T19:40:10.000Z",
+      "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory."
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-02T19:33:10.000Z",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg"
+    },
+    {
+      "title": "Niger: Algerian military personnel have arrived in Agadez [Africanews Today]",
+      "link": "http://www.africanews.com/2026/11/02/niger-algerian-military-personnel-have-arrived-in-agadez-africanews-today/",
+      "source": "Africanews",
+      "published": "2026-11-02T19:20:18.000Z",
+      "summary": "Algerian military personnel escorted trucks carrying fuel to Niger over the weekend."
+    },
+    {
+      "title": "Africa: UK Open to Formal Apology for Britain's Slave Trade Role, Rejects Reparations",
+      "link": "https://allafrica.com/stories/202611020732.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-02T19:19:08.000Z",
+      "summary": "[This Day] British Prime Minister, Andy Burnham has said he is open to calls for a formal apology on behalf of the country for its role in the transatlantic slave trade."
+    },
+    {
+      "title": "Senegal hosts Africa’s first Olympics",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T18:56:17.000Z",
+      "summary": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games."
+    },
     {
       "title": "Liberia: A Bucket for the Senate, While Health Facilities Struggle",
       "link": "https://allafrica.com/stories/202611020701.html",
@@ -1603,84 +1682,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-11-02T12:14:22.000Z",
       "summary": "[Nile Post] Nansana Municipality Member of Parliament Zambaali Bulasio Mukasa has paid tribute to comedian Yokaaba Mbuuse, popularly known as Kapere, describing him as a national figure…"
-    },
-    {
-      "title": "Ebola fatality rate in DR Congo tops 50% as death toll reaches 5,372",
-      "link": "http://www.africanews.com/2026/11/02/ebola-fatality-rate-in-dr-congo-tops-50-as-death-toll-reaches-5372/",
-      "source": "Africanews",
-      "published": "2026-11-02T11:53:10.000Z",
-      "summary": "The death toll from the ongoing Ebola outbreak in the Democratic Republic of the Congo (DRC) had reached 5,372 as of Friday, with a case fatality rate of 51.6%, according to new data."
-    },
-    {
-      "title": "Nigeria: Nigeria, Türkiye Move to Deepen Ties After Tinubu's Ankara Visit",
-      "link": "https://allafrica.com/stories/202611020379.html",
-      "source": "AllAfrica",
-      "published": "2026-11-02T12:14:21.000Z",
-      "summary": "[This Day] Abuja -- Nigeria and Türkiye have pledged to deepen bilateral relations across trade, investment, defence, education and other strategic sectors following the signing of nine…"
-    },
-    {
-      "title": "Will renewed conflict derail Ethiopia's economic growth?",
-      "link": "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-02T11:19:00.000Z",
-      "summary": "Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living."
-    },
-    {
-      "title": "Nigeria: Dino Melaye Throws a Quranic Citation Challenge At Tinubu",
-      "link": "https://allafrica.com/stories/202611020376.html",
-      "source": "AllAfrica",
-      "published": "2026-11-02T12:14:20.000Z",
-      "summary": "[Vanguard] Former Kogi West Senator, Dino Melaye, has challenged President Bola Tinubu to a Quranic citation contest following the President's recent pilgrimage to Saudi Arabia."
-    },
-    {
-      "title": "Mozambique: Exxonmobil Doubles Its Stake to 50 Percent After Swapping Assets With Eni",
-      "link": "https://allafrica.com/stories/202611020292.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-02T10:58:17.000Z",
-      "summary": "[AIM] Maputo -- The US oil and gas company ExxonMobil has ExxonMobil has raised its working interest in the Rovuma LNG project, in the northern Mozambican province of Cabo Delgado, from 25…"
-    },
-    {
-      "title": "Kenya: Sakaja Says He Is Not Joining ODM to Displace Anyone As He Declares Second-Term Bid",
-      "link": "https://allafrica.com/stories/202611020377.html",
-      "source": "AllAfrica",
-      "published": "2026-11-02T12:14:20.000Z",
-      "summary": "[Capital FM] Nairobi -- Nairobi Governor Johnson Sakaja has sought to reassure Orange Democratic Movement (ODM) members that his decision to join the party is not aimed at displacing…"
-    },
-    {
-      "title": "Ghana: Bourse Ends October On a High, but Financial Stock Index Slips",
-      "link": "https://allafrica.com/stories/202611020291.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-02T10:57:48.000Z",
-      "summary": "[Ghanaian Times] THE Ghana Stock Exchange (GSE) closed October on a positive note, with the benchmark GSE Composite Index (GSE-CI) gaining 1.38 per cent in the week ended October 30, 2026…"
-    },
-    {
-      "title": "Zimbabwe: The Unseen Financial Opportunities Behind El Nino",
-      "link": "https://allafrica.com/stories/202611020373.html",
-      "source": "AllAfrica",
-      "published": "2026-11-02T12:14:18.000Z",
-      "summary": "[263Chat] When the sky holds back its rains, a nation is forced to look deeper at where its true economic resilience lies."
-    },
-    {
-      "title": "Ghana: Zenith Bank Holds Health Walk to Commemorate 21 Years of Banking in Ghana",
-      "link": "https://allafrica.com/stories/202611020289.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-02T10:56:47.000Z",
-      "summary": "[Ghanaian Times] ZENITH Bank Ghana Limited, on Saturday, organised a health walk to encourage healthy living, strengthen relationships and demonstrate the institution's commitment to the…"
-    },
-    {
-      "title": "Africa: Six in Seven Journalist Murders Go Unpunished, Unesco Reports",
-      "link": "https://allafrica.com/stories/202611020360.html",
-      "source": "AllAfrica",
-      "published": "2026-11-02T11:31:02.000Z",
-      "summary": "[UN News] Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones…"
-    },
-    {
-      "title": "Five arrested after South African farmer shot and tortured",
-      "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-11-02T10:48:47.000Z",
-      "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d521/live/c93db920-d696-11f1-8052-913cc7942a17.jpg"
     }
   ]
 };

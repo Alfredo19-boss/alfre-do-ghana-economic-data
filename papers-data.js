@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-02T18:51:47.699Z",
+  "updated": "2026-11-03T01:22:13.486Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,132 +25,152 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GIS trains 146 officers in weapon safety and armoury management",
-      "link": "https://www.myjoyonline.com/gis-trains-146-officers-in-weapon-safety-and-armoury-management/",
+      "title": "Kotoka Airport remains legal name until Parliament passes renaming Bill – A-G",
+      "link": "https://www.myjoyonline.com/kotoka-airport-remains-legal-name-until-parliament-passes-renaming-bill-ag/",
       "source": "MyJoyOnline",
-      "published": "2026-11-02T18:46:59.000Z",
-      "summary": "The Ghana Immigration Service (GIS) has trained 146 officers in weapon safety and armoury management as part of efforts to strengthen operational discipline, accountability and national…",
-      "categories": [
-        "National",
-        "Ghana Immigration Service (GIS)",
-        "weapon safety and armoury management"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/880129240_1600520828781955_61900609663462158_n-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Traditional leaders, MMDCEs culpable in galamsey – President of National House of Chiefs",
-      "link": "https://www.myjoyonline.com/traditional-leaders-mmdces-culpable-in-galamsey-president-of-national-house-of-chiefs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T18:46:41.000Z",
-      "summary": "The President of the National House of Chiefs, Ogyeahoho Yaw Gyebi II, says some traditional leaders and MMDCEs are thwarting efforts to fight illegal mining through their active…",
-      "categories": [
-        "National",
-        "Galamsey",
-        "MMDCEs",
-        "Traditional leaders"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-213-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NFA launches Cinema Train to boost Ghanaian film industry",
-      "link": "https://www.myjoyonline.com/nfa-launches-cinema-train-to-boost-ghanaian-film-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T18:46:28.000Z",
-      "summary": "The National Film Authority (NFA) has launched the Cinema Train Initiative, a new platform aimed at expanding access to cinema, improving film exhibition and creating sustainable revenue…",
-      "categories": [
-        "Movies",
-        "National",
-        "Cinema Train",
-        "Film industry",
-        "NFA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-207.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "More jobs, better pay: The budget Ghanaian workers deserve",
-      "link": "https://www.myjoyonline.com/more-jobs-better-pay-the-budget-ghanaian-workers-deserve/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T18:45:53.000Z",
-      "summary": "As Ghanaians await the presentation of this year's national budget, expectations are understandably high. Reports suggest that job creation will be a major focus, offering hope in a country…",
-      "categories": [
-        "Opinion",
-        "better pay",
-        "Budget",
-        "Ghanaian workers",
-        "Jobs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/53207976.295.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Finance Ministry approves 10 months’ arrears for Judicial Service staff amid JUSAG strike",
-      "link": "https://www.myjoyonline.com/finance-ministry-approves-10-months-arrears-for-judicial-service-staff-amid-jusag-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T18:32:16.000Z",
-      "summary": "The Supreme Court is scheduled to convene for its normal court business on Tuesday, November 3, 2026, despite an ongoing strike by the Judicial Service Staff Association of Ghana (JUSAG)…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Strike",
-        "Supreme Court"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Supreme-Court-Ghana_top.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sam George says over 3.1 million Ghanaians using virtual assets to come under regulation",
-      "link": "https://www.myjoyonline.com/sam-george-says-over-3-1-million-ghanaians-using-virtual-assets-to-come-under-regulation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T18:24:42.000Z",
-      "summary": "Minister for Communications and Digital Technology, Samuel Nartey George, has disclosed that more than 3.1 million Ghanaians are using virtual assets, including cryptocurrencies. To this…",
-      "categories": [
-        "Business",
-        "HP Business 2",
-        "Technology",
-        "African Virtual Assets Summit",
-        "regulation",
-        "Samuel Nartey George",
-        "Virtual Assets"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-18.17.35-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Our industry structure doesn’t benefit upcoming gospel artiste – Kuami Eugene",
-      "link": "https://www.myjoyonline.com/our-industry-structure-doesnt-benefit-upcoming-gospel-artiste-kuami-eugene/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T18:07:36.000Z",
-      "summary": "Musician Kuami Eugene, also known as the Rockstar, has shared why he switched from gospel to secular music. He explained that upcoming gospel artistes struggle to break through and gain…",
-      "categories": [
-        "Arts and Culture",
-        "HP Entertainment 3",
-        "Music",
-        "Ajei",
-        "Gospel Music",
-        "Kuami Eugene",
-        "Secular Music"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EUGENE.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Chief Justice directs Supreme Court to proceed with Tuesday sitting amid JUSAG strike",
-      "link": "https://www.myjoyonline.com/chief-justice-directs-supreme-court-to-proceed-with-tuesday-sitting-amid-jusag-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T18:06:44.000Z",
-      "summary": "The Supreme Court will hold its normal sitting on Tuesday, November 3, despite the indefinite strike declared by the Judicial Service Staff Association of Ghana (JUSAG). A notice issued on…",
+      "published": "2026-11-03T00:30:32.000Z",
+      "summary": "The Attorney-General has told the Supreme Court that Kotoka International Airport remains the facility's legal name, as the legislative process to rename it Accra International Airport has…",
       "categories": [
         "National",
         "Top Story",
-        "Chief Justice",
-        "JUSAG Strike",
-        "Supreme Court"
+        "Attorney General",
+        "Kotoka Airport",
+        "Parliament"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-42.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-8.jpeg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Workers still struggle to make ends meet despite low inflation — NAGRAT President",
+      "link": "https://www.myjoyonline.com/workers-still-struggle-to-make-ends-meet-despite-low-inflation-nagrat-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T23:29:46.000Z",
+      "summary": "Workers continue to struggle to make ends meet despite easing economic indicators, the President of the National Association of Graduate Teachers (NAGRAT), Jacob Anaba, has said, warning…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Ghana",
+        "NAGRAT",
+        "Salary",
+        "Workers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Anaba.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Daily Insight for CEOs: The CEO’s Role in Driving Year-End Performance",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-driving-year-end-performance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T23:26:30.000Z",
+      "summary": "November marks a critical stage in the organisation’s performance journey. With only two months remaining in 2026, CEOs must intensify their focus on delivering strategic commitments…",
+      "categories": [
+        "Features",
+        "Opinion",
+        "CEOs",
+        "Daily Insight",
+        "Ernest De-Graft Egyir",
+        "Performance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/CEOs-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.myjoyonline.com/russian-bombing-kills-26-people-at-ukraine-aid-centre-kyiv-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T22:50:32.000Z",
+      "summary": "At least 26 people were killed after Russian bombs hit an aid distribution centre, in an attack that Ukraine's leader has called \"utterly horrific\".",
+      "categories": [
+        "International",
+        "Russia",
+        "Ukraine"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/8480acc0-d6eb-11f1-a741-236ee91c2e25.png.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "link": "https://www.myjoyonline.com/copilot-in-deadly-florida-jet-crash-identified-in-reports-as-20-year-old/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T22:37:40.000Z",
+      "summary": "A 20-year-old copilot was among nine people killed when a small jet crashed and exploded in Florida on Sunday, according to US media.",
+      "categories": [
+        "International",
+        "Crash",
+        "Pilot"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/9c344fe0-d6fd-11f1-a701-fddedf244c16.jpg-895x1024.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "link": "https://www.myjoyonline.com/man-guilty-of-stealing-cash-from-farm-owned-by-south-african-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T22:08:45.000Z",
+      "summary": "A court in South Africa has found a man guilty of stealing more than $500,000 (£372,822) in cash from a farm owned by South African president Cyril Ramaphosa, in a case that mired the head…",
+      "categories": [
+        "Africa",
+        "International",
+        "Cash",
+        "South Africa",
+        "Steal"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/a6248f50-5922-11f1-8b8c-6d33e1d5abb6.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No new Ghana Cards required under biometric verification law – NIA",
+      "link": "https://www.myjoyonline.com/no-new-ghana-cards-required-under-biometric-verification-law-nia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T21:51:00.000Z",
+      "summary": "The National Identification Authority (NIA) has assured Ghanaians that implementing the National Identity Register Amendment Regulation, 2026 (L.I. 2523), does not require new Ghana Cards…",
+      "categories": [
+        "National",
+        "Ghana Cards",
+        "NIA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-1284-1024x465.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sheffield researcher helps shape global policy on school meals and child health",
+      "link": "https://www.myjoyonline.com/sheffield-researcher-helps-shape-global-policy-on-school-meals-and-child-health/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-02T21:41:00.000Z",
+      "summary": "Dr Robert Akparibo, Senior Lecturer in Global Health and Nutrition at the University of Sheffield, is working with international organisations and researchers to ensure these issues receive…",
+      "categories": [
+        "Education",
+        "Health",
+        "school meals",
+        "University of Sheffield"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-224-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bernard Owiredu Donkor joins Akwatia NPP parliamentary race",
+      "link": "https://www.graphic.com.gh/news/politics/bernard-owiredu-donkor-joins-akwatia-npp-parliamentary-race.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-02T21:05:35.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "New rules for migrants settling in UK unveiled; Care workers from Ghana, Nigeria and others who earn at least £25K a year and entered before May 2025 now qualify for permanent settlement after 5 years",
+      "link": "https://www.graphic.com.gh/news/general-news/new-rules-for-migrants-settling-in-uk-unveiled-care-workers-from-ghana-nigeria-and-others-who-earn-at-least-gbp25-000-a-year-and-arrived-before-may-2025-can-qualify-for-permanent-settlement.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-02T18:43:19.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/02/home.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Track audit recommendations to stop repeated financial infractions - Abena Osei-Asare urges African Parliaments",
@@ -409,30 +429,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fined by Traffitech-GH? Here's how to pay or challenge it",
-      "link": "https://www.graphic.com.gh/news/general-news/fined-by-traffitech-gh-heres-how-to-pay-or-challenge-it.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-02T12:12:52.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "No mid-term break: GES orders basic schools to open on November 5 and 6",
-      "link": "https://www.graphic.com.gh/news/education/no-mid-term-break-ges-orders-basic-schools-to-open-on-november-5-and-6.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-02T11:40:44.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Subri Forest restoration: MIIF targets 30,000 trees in 5 years",
