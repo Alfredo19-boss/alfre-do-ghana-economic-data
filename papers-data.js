@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-03T01:22:13.486Z",
+  "updated": "2026-11-03T08:01:40.548Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,127 +25,228 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Kotoka Airport remains legal name until Parliament passes renaming Bill – A-G",
-      "link": "https://www.myjoyonline.com/kotoka-airport-remains-legal-name-until-parliament-passes-renaming-bill-ag/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T00:30:32.000Z",
-      "summary": "The Attorney-General has told the Supreme Court that Kotoka International Airport remains the facility's legal name, as the legislative process to rename it Accra International Airport has…",
+      "title": "Mfantsipim @150 honours Alex Apau, others",
+      "link": "https://ghanaiantimes.com.gh/mfantsipim-150-honours-alex-apau-others/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:57:42.000Z",
+      "summary": "MFANTSIPIM School has honoured distinguished alumni, staff members and corporate partners at an Awards and Fundraising Dinner held as part of activities marking its 150th anniversary. The…",
       "categories": [
-        "National",
-        "Top Story",
-        "Attorney General",
-        "Kotoka Airport",
-        "Parliament"
+        "Hot!",
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-8.jpeg",
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s front pages: Tuesday, November 3, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-tuesday-november-3-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T07:53:21.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-238.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Workers still struggle to make ends meet despite low inflation — NAGRAT President",
-      "link": "https://www.myjoyonline.com/workers-still-struggle-to-make-ends-meet-despite-low-inflation-nagrat-president/",
+      "title": "Ghana’s cultural heritage takes centre stage in Moscow as Mahama visits Kente exhibition",
+      "link": "https://www.myjoyonline.com/ghanas-cultural-heritage-takes-centre-stage-in-moscow-as-mahama-visits-kente-exhibition/",
       "source": "MyJoyOnline",
-      "published": "2026-11-02T23:29:46.000Z",
-      "summary": "Workers continue to struggle to make ends meet despite easing economic indicators, the President of the National Association of Graduate Teachers (NAGRAT), Jacob Anaba, has said, warning…",
+      "published": "2026-11-03T07:47:55.000Z",
+      "summary": "President John Mahama visited Woven Meanings, an exhibition dedicated to Ghana’s traditional kente textile, at the All-Russian Museum of Decorative Arts in Moscow on the sidelines of his…",
       "categories": [
-        "HP News 1",
         "National",
-        "News",
-        "Ghana",
-        "NAGRAT",
-        "Salary",
-        "Workers"
+        "Kente exhibition",
+        "Moscow"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Anaba.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-241-1024x731.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Daily Insight for CEOs: The CEO’s Role in Driving Year-End Performance",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-role-in-driving-year-end-performance/",
+      "title": "JUSAG strike paralyses courts nationwide • Litigants, lawyers stranded as hearings grind to a halt",
+      "link": "https://ghanaiantimes.com.gh/jusag-strike-paralyses-courts-nationwide-litigants-lawyers-stranded-as-hearings-grind-to-a-halt/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:46:09.000Z",
+      "summary": "COURT activities across the country came to a standstill yesterday as workers of the Judicial Service Association of Ghana (JUSAG) began an indefinite strike action nationwide over what it…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/JUSAG-strike-Court-in-Upper-East-deserted-following-to-JUSAG-strike.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Galaxy International School unveils technology hub",
+      "link": "https://ghanaiantimes.com.gh/galaxy-international-school-unveils-technology-hub/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:35:02.000Z",
+      "summary": "ABOUT 16 technology projects developed by students of Galaxy International School were showcased on Saturday as the school inaugurated a new technology and innovation hub to promote…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Chinese hospital ship treats 5,909 Ghanaians",
+      "link": "https://ghanaiantimes.com.gh/chinese-hospital-ship-treats-5909-ghanaians/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:29:52.000Z",
+      "summary": "THE Chinese naval hospital ship, 868 PLA Auspicious Ark, has departed Ghana after providing free medical services to thousands of Ghanaians as part of efforts to strengthen medical…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/Chinese-hospital-xxx-1024x578.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "DVLA inaugurates new Weija office",
+      "link": "https://ghanaiantimes.com.gh/dvla-inaugurates-new-weija-office/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:24:27.000Z",
+      "summary": "THE Driver and Vehicle Licensing Authority (DVLA) has inaugurated a new office at Weija in the Ga South Municipality of the Greater Accra Region to improve service delivery and bring…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Presbyterian Church launches 20,000 agribusiness initiative",
+      "link": "https://ghanaiantimes.com.gh/presbyterian-church-launches-20000-agribusiness-initiative/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:22:05.000Z",
+      "summary": "THE Presbyterian Relief Services and Development (PRESED) of the Presbyterian Church of Ghana has launched Agenda 20,000, a nationwide initiative to transform idle church lands into…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Telecel Foundation donates medical equipment to Prisons Service",
+      "link": "https://ghanaiantimes.com.gh/telecel-foundation-donates-medical-equipment-to-prisons-service/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:17:55.000Z",
+      "summary": "TELECEL Ghana Foundation has donated medical equipment and healthcare supplies to the Ghana Prisons Service Medical Equipment Bank to improve access to healthcare for inmates across the…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cardinal Turkson calls for new global ethical framework",
+      "link": "https://ghanaiantimes.com.gh/cardinal-turkson-calls-for-new-global-ethical-framework/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-03T07:13:27.000Z",
+      "summary": "THE Chancellor of the Catholic University of Ghana (CUG), His Eminence Cardinal Peter Appiah Turkson, has called on the global community to adopt a new ethical framework rooted in humanity…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Emelia Arthur: Ghana’s ocean diplomat; How one Minister turned Ghana from a country under scrutiny into a country the world now cites on fisheries",
+      "link": "https://www.myjoyonline.com/emelia-arthur-ghanas-ocean-diplomat-how-one-minister-turned-ghana-from-a-country-under-scrutiny-into-a-country-the-world-now-cites-on-fisheries/",
       "source": "MyJoyOnline",
-      "published": "2026-11-02T23:26:30.000Z",
-      "summary": "November marks a critical stage in the organisation’s performance journey. With only two months remaining in 2026, CEOs must intensify their focus on delivering strategic commitments…",
+      "published": "2026-11-03T06:54:12.000Z",
+      "summary": "There are ministers who manage a ministry, and there are ministers who change how the world sees a country. In less than two years, Hon. Emelia Arthur, MP, Minister for Fisheries and…",
       "categories": [
         "Features",
-        "Opinion",
-        "CEOs",
-        "Daily Insight",
-        "Ernest De-Graft Egyir",
-        "Performance"
+        "National",
+        "Emelia Arthur",
+        "Fisheries"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/CEOs-1024x683.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/2-41-e1769609122266-1024x893.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "link": "https://www.myjoyonline.com/russian-bombing-kills-26-people-at-ukraine-aid-centre-kyiv-says/",
+      "title": "One dead, four arrested as illegal miners clash with NAIMOS operatives in Atiwa Forest Reserve",
+      "link": "https://www.myjoyonline.com/one-dead-four-arrested-as-illegal-miners-clash-with-naimos-operatives-in-atiwa-forest-reserve/",
       "source": "MyJoyOnline",
-      "published": "2026-11-02T22:50:32.000Z",
-      "summary": "At least 26 people were killed after Russian bombs hit an aid distribution centre, in an attack that Ukraine's leader has called \"utterly horrific\".",
+      "published": "2026-11-03T06:28:21.000Z",
+      "summary": "One suspected illegal miner has been killed and another injured after a group of suspected illegal miners opened fire on operatives of Operation GREEN SHIELD during an enforcement operation…",
       "categories": [
-        "International",
-        "Russia",
-        "Ukraine"
+        "Crime",
+        "HP News 1",
+        "News",
+        "Illigal mining",
+        "Killed",
+        "Suspect"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/8480acc0-d6eb-11f1-a741-236ee91c2e25.png.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-06.17.18.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "link": "https://www.myjoyonline.com/copilot-in-deadly-florida-jet-crash-identified-in-reports-as-20-year-old/",
+      "title": "‘Some members are suffering; GH¢700 a month is unjustifiable’ — NAGRAT president",
+      "link": "https://www.myjoyonline.com/some-members-are-suffering-gh700-a-month-is-unjustifiable-nagrat-president/",
       "source": "MyJoyOnline",
-      "published": "2026-11-02T22:37:40.000Z",
-      "summary": "A 20-year-old copilot was among nine people killed when a small jet crashed and exploded in Florida on Sunday, according to US media.",
-      "categories": [
-        "International",
-        "Crash",
-        "Pilot"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/9c344fe0-d6fd-11f1-a701-fddedf244c16.jpg-895x1024.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "link": "https://www.myjoyonline.com/man-guilty-of-stealing-cash-from-farm-owned-by-south-african-president/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T22:08:45.000Z",
-      "summary": "A court in South Africa has found a man guilty of stealing more than $500,000 (£372,822) in cash from a farm owned by South African president Cyril Ramaphosa, in a case that mired the head…",
-      "categories": [
-        "Africa",
-        "International",
-        "Cash",
-        "South Africa",
-        "Steal"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/a6248f50-5922-11f1-8b8c-6d33e1d5abb6.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "No new Ghana Cards required under biometric verification law – NIA",
-      "link": "https://www.myjoyonline.com/no-new-ghana-cards-required-under-biometric-verification-law-nia/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T21:51:00.000Z",
-      "summary": "The National Identification Authority (NIA) has assured Ghanaians that implementing the National Identity Register Amendment Regulation, 2026 (L.I. 2523), does not require new Ghana Cards…",
+      "published": "2026-11-03T05:43:59.000Z",
+      "summary": "The President of the National Association of Graduate Teachers (NAGRAT), Jacob Anaba, has described the monthly earnings of some public sector workers as unjustifiable, saying members of…",
       "categories": [
         "National",
-        "Ghana Cards",
-        "NIA"
+        "News",
+        "NAGRAT",
+        "pay",
+        "Salary"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-1284-1024x465.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Jacob-Anabah.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sheffield researcher helps shape global policy on school meals and child health",
-      "link": "https://www.myjoyonline.com/sheffield-researcher-helps-shape-global-policy-on-school-meals-and-child-health/",
+      "title": "Bawumia explores Japan’s AI and satellite technology applications during study tour",
+      "link": "https://www.myjoyonline.com/bawumia-explores-japans-ai-and-satellite-technology-applications-during-study-tour/",
       "source": "MyJoyOnline",
-      "published": "2026-11-02T21:41:00.000Z",
-      "summary": "Dr Robert Akparibo, Senior Lecturer in Global Health and Nutrition at the University of Sheffield, is working with international organisations and researchers to ensure these issues receive…",
+      "published": "2026-11-03T05:41:00.000Z",
+      "summary": "New Patriotic Party (NPP) 2028 flagbearer Dr Mahamudu Bawumia has visited leading Japanese research institutions and technology firms as part of a study tour focused on how advanced…",
       "categories": [
-        "Education",
-        "Health",
-        "school meals",
-        "University of Sheffield"
+        "National",
+        "AI",
+        "Bawumia",
+        "Japan"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-224-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/875197630_1127980576881268_419031470775567934_n-1024x785.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bronx residents plan vigil for slain Ghanaian teenager amid calls to tackle youth violence",
+      "link": "https://www.myjoyonline.com/bronx-residents-plan-vigil-for-slain-ghanaian-teenager-amid-calls-to-tackle-youth-violence/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T05:35:00.000Z",
+      "summary": "Residents of the Bronx neighbourhood in New York where 15-year-old Ghanaian teenager Javits Badu Nkansah Frimpong was shot dead are planning a vigil to honour him and demand action against…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "Bronx",
+        "Ghanaian",
+        "Javits",
+        "Javits Badu Nkansah",
+        "Youth"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2761.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "8% pay rise: ‘We are not being paid realistic salaries’— PSWU",
+      "link": "https://www.myjoyonline.com/8-pay-rise-we-are-not-being-paid-realistic-salaries-pswu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T05:31:00.000Z",
+      "summary": "The eight per cent increase in base pay for public sector workers in 2027 will not address what the Public Services Workers’ Union (PSWU) describes as the fundamental problem of unrealistic…",
+      "categories": [
+        "HP News 3",
+        "News",
+        "pay",
+        "Salary"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/PSWU-general-secretary-644x424-2.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -317,19 +418,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "NIA begins enforcement of Ghana Card biometric verification rules, warns institutions of fines",
-      "link": "https://ghanaiantimes.com.gh/nia-begins-enforcement-of-ghana-card-biometric-verification-rules-warns-institutions-of-fines/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T13:48:01.000Z",
-      "summary": "The National Identification Authority (NIA) has announced the commencement of enforcement of the National Identity Register (Amendment) Regulations, 2026 (L.I. 2523), warning institutions…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "NIA develops mobile app for individuals and small businesses to verify Ghana Card identities",
       "link": "https://www.graphic.com.gh/news/general-news/nia-develops-mobile-app-for-individuals-and-small-businesses-to-verify-ghana-card-identities.html",
       "source": "Daily Graphic",
@@ -342,44 +430,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "24-Hour Economy: How Ghana Publishing Company turned overstaffing into productivity",
-      "link": "https://ghanaiantimes.com.gh/24-hour-economy-how-ghana-publishing-company-turned-overstaffing-into-productivity/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T13:05:53.000Z",
-      "summary": "The Managing Director of the Ghana Publishing Company Limited, Nana Kwesi Boatey, has revealed how he transformed a major overstaffing challenge into a success story through the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Syrian national arrested in Lebanon with 40kg of suspected Cocaine from Ghana",
-      "link": "https://ghanaiantimes.com.gh/syrian-national-arrested-in-lebanon-with-40kg-of-suspected-cocaine-from-ghana/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T13:04:37.000Z",
-      "summary": "A Syrian national has been arrested at Rafic Hariri International Airport in Beirut, Lebanon, after arriving from Accra with approximately 40 kilogrammes of suspected cocaine concealed in…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Two Techiman SHS Teachers arrested over viral video showing assault on Student",
-      "link": "https://ghanaiantimes.com.gh/two-techiman-shs-teachers-arrested-over-viral-video-showing-assault-on-student/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T12:58:52.000Z",
-      "summary": "The Bono East Regional Police Command has arrested two teachers of Techiman Senior High School (SHS) for allegedly assaulting a 17-year-old male student. The teachers, identified as…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ghana Publishing seeks instalment plan for GH¢22m VAT debt",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-publishing-seeks-instalment-plan-for-ghc22m-vat-debt.html",
       "source": "Daily Graphic",
@@ -390,57 +440,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2025/feb/28/geepeecee.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NSA begins screening for basic military training on November 2",
-      "link": "https://ghanaiantimes.com.gh/nsa-begins-screening-for-basic-military-training-on-november-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T12:47:14.000Z",
-      "summary": "The National Service Authority (NSA) will begin screening and medical examinations for preselected National Service Personnel (NSPs) interested in its Basic Military Training Programme on…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police arrest 72-Year-old suspect over murder of two at Sakumono",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-72-year-old-suspect-over-murder-of-two-at-sakumono/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T12:44:07.000Z",
-      "summary": "The Ashanti Regional Police Command has arrested a 72-year-old man in connection with the murder of two persons at NTHC Estate, Sakumono, in the Greater Accra Region. The suspect…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-12.03.27-662x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GoldBod generates US$1.011 billion in forex from Gold trade in October",
-      "link": "https://ghanaiantimes.com.gh/goldbod-generates-us1-011-billion-in-forex-from-gold-trade-in-october/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T12:41:14.000Z",
-      "summary": "The Ghana Gold Board (GoldBod) says it generated US$1.011 billion in foreign exchange from its artisanal and small-scale mining (ASM) gold trade operations in October 2026. According to the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Subri Forest restoration: MIIF targets 30,000 trees in 5 years",
-      "link": "https://ghanaiantimes.com.gh/subri-forest-restoration-miif-targets-30000-trees-in-5-years/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-02T08:09:12.000Z",
-      "summary": "THE Minerals Income Investment Fund (MIIF), in partnership with the Forestry Commission (FC), has launched a reforestation programme at the Subri River National Forest Reserve at Sekyere…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
