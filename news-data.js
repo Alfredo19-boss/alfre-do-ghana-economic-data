@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-03T21:43:09.385Z",
-  "worldAt": "2026-11-03T21:43:09.383Z",
+  "updated": "2026-11-04T01:40:48.345Z",
+  "worldAt": "2026-11-04T01:40:48.343Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 2/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: failed (fetch failed)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -42,10 +42,24 @@ window.GDC_NEWS = {
     "Africa · Africanews: 31 stories",
     "Africa · BBC Africa: 33 stories",
     "Africa · Deutsche Welle: 4 stories",
-    "Africa · Al Jazeera: 2 stories",
+    "Africa · Al Jazeera: 0 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+      "link": "https://www.myjoyonline.com/apple-unsure-when-it-will-get-more-foldable-iphones-ahead-of-christmas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T23:18:00.000Z",
+      "summary": "Apple has said it doesn't know when it will restock its new foldable iPhones as it heads into the key Christmas trading period."
+    },
+    {
+      "title": "MoFA, DMT sign MoU for 21,000-tonne grain storage facility in Wa",
+      "link": "https://www.myjoyonline.com/mofa-dmt-sign-mou-for-21000-tonne-grain-storage-facility-in-wa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T21:49:26.000Z",
+      "summary": "The Ministry of Food and Agriculture (MoFA) has signed a Memorandum of Understanding (MoU) with DMT Collateral Management Limited for the construction of a 21,000-tonne grain storage…"
+    },
     {
       "title": "Tema hosts GCB Bank’s MSME Caravan Clinic as bank deepens support for entrepreneurs",
       "link": "https://www.myjoyonline.com/tema-hosts-gcb-banks-msme-caravan-clinic-as-bank-deepens-support-for-entrepreneurs/",
@@ -72,7 +86,7 @@ window.GDC_NEWS = {
       "link": "https://thehighstreetjournal.com/want-to-break-into-music-juls-gyakie-and-m-anifest-are-ready-to-show-you-how/",
       "source": "The High Street Journal",
       "published": "2026-11-03T18:04:55.000Z",
-      "summary": "Some of Ghana’s best-known musical names are opening their playbooks to the next generation. Juls, Gyakie and M.anifest will mentor emerging creatives at the Accra edition of Martell Swift…"
+      "summary": "Martell and Africa House launch a mentorship academy connecting emerging African music creatives with industry leaders, practical training and career development opportunities."
     },
     {
       "title": "Ghana’s US$10 billion New Economy programme will turn recovery into jobs – Dr. Ato Forson",
@@ -1081,37 +1095,148 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-10-31T11:12:49.000Z",
       "summary": "The Chamber of Petroleum Consumers (COPEC) is predicting petrol prices to go down while diesel price go up at the pumps in the first pricing window starting, November 1, 2026. In statement…"
-    },
-    {
-      "title": "Africa’s Urban Growth Is Outpacing Its Economic Transformation, World Bank Finds",
-      "link": "https://thehighstreetjournal.com/africas-urban-growth-is-outpacing-its-economic-transformation-world-bank-finds/",
-      "source": "The High Street Journal",
-      "published": "2026-10-31T11:00:00.000Z",
-      "summary": "The World Bank says Africa’s rapid urbanisation is not creating enough productive jobs, urging better planning, infrastructure and targeted investment to unlock economic growth."
-    },
-    {
-      "title": "22 Laws introduced to lock in reforms, protect economic gains — Dr Ato Forson",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-22-laws-introduced-to-lock-in-reforms-protect-economic-gains-dr-ato-forson.html",
-      "source": "Graphic Online",
-      "published": "2026-10-31T10:23:00.000Z",
-      "summary": ""
     }
   ],
   "world": [
     {
+      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T01:13:49.000Z",
+      "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year."
+    },
+    {
+      "title": "ANC under pressure to reverse South Africa decline",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-04T00:03:19.000Z",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "UN elects five judges to International Court of Justice amid record cases",
+      "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T01:03:12.000Z",
+      "summary": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat."
+    },
+    {
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-03T23:58:36.000Z",
+      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Democrat Jon Ossoff wins Georgia US Senate race",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:59:58.000Z",
+      "summary": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate."
+    },
+    {
+      "title": "US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds",
+      "link": "https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds",
+      "source": "France 24",
+      "published": "2026-11-03T23:46:02.000Z",
+      "summary": "Roughly 6 in 10 voters deeply disapprove of US President Donald Trump's presidency, according to an AP survey released Tuesday. About 4 in 10 say the economy is the most important issue…",
+      "image": "https://s.france24.com/media/display/8f173e06-d7d6-11f1-a16f-a575454bc579/w:1024/p:16x9/Vote.jpg"
+    },
+    {
+      "title": "FBI arrests man for sending over 700 threatening letters to US officials",
+      "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:44:04.000Z",
+      "summary": "The suspect, an Oklahoma City man, is accused of mailing hoax letters with white powder and treason warnings."
+    },
+    {
       "title": "Spanish transport minister resigns days after deadly train crash",
       "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-03T21:40:42.000Z",
+      "published": "2026-11-03T22:45:59.000Z",
       "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Netanyahu’s eight-seat problem",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+      "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T21:19:13.000Z",
-      "summary": "Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle"
+      "published": "2026-11-04T00:35:44.000Z",
+      "summary": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives."
+    },
+    {
+      "title": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
+      "source": "France 24",
+      "published": "2026-11-03T22:28:56.000Z",
+      "summary": "As Americans head to the polls for the midterm elections, François Picard welcomes historian Timothy Snyder, professor at the University of Toronto's Munk School of Global Affairs, for a…",
+      "image": "https://s.france24.com/media/display/75819288-d7cd-11f1-b8fc-a575454bc579/w:1024/p:16x9/EN-20261103-183022-184342-CS.jpg"
+    },
+    {
+      "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+      "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:33:57.000Z",
+      "summary": "The Trump administration is doubling down on allegations Democrats stood up a 'spoiler' candidate against Republicans."
+    },
+    {
+      "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+      "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+      "source": "NPR World",
+      "published": "2026-11-03T22:25:15.000Z",
+      "summary": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not…"
+    },
+    {
+      "title": "Stevie Wonder endorses Abdul El-Sayed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:13:41.000Z",
+      "summary": "American singer Stevie Wonder has delivered a last minute endorsement of Democrat Abdul El-Sayed for the US Senate."
+    },
+    {
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-03T21:53:38.000Z",
+      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/b5b1d720-d7cb-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Ballot scanner glitch disrupts voting in New York",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:08:02.000Z",
+      "summary": "There have been voting machine scanner failures at polling sites 50 km north of New York City"
+    },
+    {
+      "title": "Trump tariffs hitting small businesses",
+      "link": "https://www.france24.com/en/tv-shows/business/20261103-trump-tariffs-hitting-small-businesses",
+      "source": "France 24",
+      "published": "2026-11-03T21:45:39.000Z",
+      "summary": "As US voters cast their ballots in the midterm elections, the economy remained their top concern. Despite robust headline macroeconomic data, middle-class Americans are growing increasingly…",
+      "image": "https://s.france24.com/media/display/20d89f90-d7cf-11f1-8f35-a575454bc579/w:1024/p:16x9/capture-f0deb94c.jpg"
+    },
+    {
+      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:00:00.000Z",
+      "summary": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response."
+    },
+    {
+      "title": "UN peacekeeping head meets leaders of rebel coalition in eastern DRC",
+      "link": "http://www.africanews.com/2026/11/03/un-peacekeeping-head-meets-leaders-of-rebel-coalition-in-eastern-drc/",
+      "source": "Africanews",
+      "published": "2026-11-03T21:33:39.000Z",
+      "summary": "The head of the UN’s MONUSCO peacekeeping mission to Congo met with the DRC’s former president Joseph Kabila on Tuesday and other leaders of his new coalition."
+    },
+    {
+      "title": "Where have there been technical issues so far during US midterm elections?",
+      "link": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T23:42:36.000Z",
+      "summary": "Some polling stations have experienced vote-delaying issues that officials describe as being minor."
     },
     {
       "title": "South Africa braces for some job losses as AGOA ends",
@@ -1122,11 +1247,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/360b5014-d7cb-11f1-a00a-d18c5759e759/w:1024/p:16x9/DL00006210-VOD-00023658-01.jpg"
     },
     {
-      "title": "Palestinian families return home after Israeli siege of Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+      "title": "First polls close in pivotal US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T21:15:17.000Z",
-      "summary": "Palestinian families return home after Israeli siege of Hebron"
+      "published": "2026-11-03T23:03:42.000Z",
+      "summary": "With control of the US Congress on the line, results from Tuesday's races will have marked implications for the country."
     },
     {
       "title": "Trump promised a 'Golden Age'. What has he delivered at home?",
@@ -1137,11 +1262,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/062b0288-d7c9-11f1-8d33-1beafce15fea/w:1024/p:16x9/domestic-policy.png"
     },
     {
-      "title": "US astronauts vote from space in 2026 midterm elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
+      "title": "US midterm election results live: Democrats up as results roll in",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T21:03:24.000Z",
-      "summary": "NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space."
+      "published": "2026-11-03T22:30:00.000Z",
+      "summary": "Results are coming in from across the US as polls close in the midterm elections, with control of Congress at stake."
     },
     {
       "title": "Seven flights across Europe targeted by suspected bomb threats",
@@ -1152,11 +1277,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"
     },
     {
-      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+      "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
+      "link": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T20:54:44.000Z",
-      "summary": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv."
+      "published": "2026-11-03T22:19:13.000Z",
+      "summary": "Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace."
     },
     {
       "title": "King Charles addresses 'monstrous injustice' of slavery as UK PM mulls apology",
@@ -1166,11 +1291,11 @@ window.GDC_NEWS = {
       "summary": "The transatlantic slave trade was a ‘monstrous injustice,’ Britain’s King Charles III said on Tuesday in a speech to Commonwealth leaders. But he stopped short of an apology."
     },
     {
-      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T20:00:30.000Z",
-      "summary": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington."
+      "published": "2026-11-03T21:43:19.000Z",
+      "summary": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country"
     },
     {
       "title": "Disruptions to basic services loom over South Africa's local polls",
@@ -1178,6 +1303,13 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-11-03T20:08:13.000Z",
       "summary": "As voters in Johannesburg ready for Wednesday’s local elections, basic services are top of their concerns. South Africa’s economic capital and largest city, Johannesburg has seen nearly two…"
+    },
+    {
+      "title": "Texans vote in most expensive Senate race in US history",
+      "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T21:41:53.000Z",
+      "summary": "Pivotal Texas race for US Senate breaks spending records, with $573.2m poured into Paxton and Talarico campaigns."
     },
     {
       "title": "Trickle or tsunami? Democrats eye gains in US midterm elections",
@@ -1188,11 +1320,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/41f61bb0-d7b8-11f1-95c1-bf1914cabd52/w:1024/p:16x9/2026-11-03T181429Z-313567485-RC2HGOA1QIDG-RTRMADP-3-USA-ELECTION-FLORIDA.jpg"
     },
     {
-      "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-      "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+      "title": "Netanyahu’s eight-seat problem",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T19:13:49.000Z",
-      "summary": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours."
+      "published": "2026-11-03T21:19:13.000Z",
+      "summary": "Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle"
     },
     {
       "title": "🔴 Midterms live: Voting under way to determine control of Congress and the future of Trump's agenda",
@@ -1202,11 +1334,11 @@ window.GDC_NEWS = {
       "summary": ""
     },
     {
-      "title": "Severe weather disrupts election day across several US states",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
+      "title": "Palestinian families return home after Israeli siege of Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T19:13:19.000Z",
-      "summary": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states."
+      "published": "2026-11-03T21:15:17.000Z",
+      "summary": "Palestinian families return home after Israeli siege of Hebron"
     },
     {
       "title": "Senegalese lawmakers reject key budget in major setback for IMF talks",
@@ -1216,11 +1348,11 @@ window.GDC_NEWS = {
       "summary": "Dakar is hoping to secure a $2.2 billion three-year IMF bailout programme aimed at stabilising its public finances."
     },
     {
-      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-      "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+      "title": "US astronauts vote from space in 2026 midterm elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T19:09:09.000Z",
-      "summary": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations."
+      "published": "2026-11-03T21:03:24.000Z",
+      "summary": "NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space."
     },
     {
       "title": "France's dermatology crisis: Patients desperate for appointments",
@@ -1231,11 +1363,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0777416c-d79a-11f1-ba73-1beafce15fea/w:1024/p:16x9/CEF-6.jpg"
     },
     {
-      "title": "Palestinian Americans turn to US flags to protect West Bank homes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
+      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T18:38:50.000Z",
-      "summary": "Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers."
+      "published": "2026-11-03T20:54:44.000Z",
+      "summary": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv."
     },
     {
       "title": "Family wealth, Epstein, ‘vanity projects’: How Democrats plan to investigate Trump after midterms",
@@ -1246,11 +1378,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/cc781a30-d7a0-11f1-bb6c-1beafce15fea/w:1024/p:16x9/AP26057665262358.jpg"
     },
     {
-      "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
-      "link": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
+      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-03T18:32:46.000Z",
-      "summary": "Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery."
+      "published": "2026-11-03T20:00:30.000Z",
+      "summary": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington."
     },
     {
       "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
@@ -1259,150 +1391,23 @@ window.GDC_NEWS = {
       "published": "2026-11-03T17:07:28.000Z",
       "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0120/live/ab031c10-d796-11f1-801d-cf196dc7232c.jpg"
-    },
-    {
-      "title": "Greenland parliament approves security deal with US, Denmark",
-      "link": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T18:05:48.000Z",
-      "summary": "Lawmakers vote 16-0 for trilateral agreement signed in September, while seven abstained."
-    },
-    {
-      "title": "Russian households face increasing financial strain as war in Ukraine drags on",
-      "link": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
-      "source": "France 24",
-      "published": "2026-11-03T17:05:54.000Z",
-      "summary": "As Moscow continues to launch strikes across Ukraine, Russian citizens are facing increasing financial strain. Since the start of the war in 2022, utility bills in Russia have risen by more…",
-      "image": "https://s.france24.com/media/display/aee025ec-d7a7-11f1-8d0d-1beafce15fea/w:1024/p:16x9/capture-69532ec1.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T17:26:02.000Z",
-      "summary": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron."
-    },
-    {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-03T16:57:41.000Z",
-      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg"
-    },
-    {
-      "title": "Russian strikes on Dnipro kill two, injure 20 others",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T17:24:08.000Z",
-      "summary": "Russian strikes on Dnipro damaged residential areas and several medical facilities."
-    },
-    {
-      "title": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
-      "link": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
-      "source": "France 24",
-      "published": "2026-11-03T16:52:13.000Z",
-      "summary": "Ukrainian President Volodymyr Zelensky last week heralded the success of Operation Veles, during which Kyiv sent troops deep into a disused gas pipeline in the Kupiansk region to confront…",
-      "image": "https://s.france24.com/media/display/4d3ed6c0-d6db-11f1-8e9a-a575454bc579/w:1024/p:16x9/pipeline-ukr.jpg"
-    },
-    {
-      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-      "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T17:22:45.000Z",
-      "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data."
-    },
-    {
-      "title": "US Midterms: Texas Democrat Talarico holds last rally ahead of vote",
-      "link": "https://www.france24.com/en/video/20261103-us-midterms-texas-democrat-talarico-holds-last-rally-ahead-of-vote",
-      "source": "France 24",
-      "published": "2026-11-03T16:50:55.000Z",
-      "summary": "Texas Democratic nominee James Talarico held a final rally Monday ahead of US midterm elections on November 3. His race against Republican Ken Paxton could determine which party holds a…",
-      "image": "https://s.france24.com/media/display/d4db8858-d7a3-11f1-96d0-bf1914cabd52/w:1024/p:16x9/titre-1.jpg"
-    },
-    {
-      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T17:03:24.000Z",
-      "summary": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee."
-    },
-    {
-      "title": "US midterm elections: Over 58 million Americans cast early ballots",
-      "link": "https://www.france24.com/en/video/20261103-us-midterm-elections-over-58-million-americans-cast-early-ballots",
-      "source": "France 24",
-      "published": "2026-11-03T16:46:29.000Z",
-      "summary": "How powerful is US President Donald Trump? That’s the question pollsters have been asking in the lead-up to the midterm elections. Polls have opened in dozens of US states in what is widely…",
-      "image": "https://s.france24.com/media/display/ae1260dc-d7a0-11f1-9e64-1beafce15fea/w:1024/p:16x9/capture-0b76c009.jpg"
-    },
-    {
-      "title": "Barcelona vs Aston Villa LIVE: Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T17:00:00.000Z",
-      "summary": "Follow updates from the league stage clash, including the build-up, analysis, and live text commentary of the game."
-    },
-    {
-      "title": "US midterms: Talarico seeks to break Democrats' 30-year losing streak in Texas",
-      "link": "https://www.france24.com/en/video/20261103-us-midterms-talarico-seeks-to-break-democrats-30-year-losing-streak-in-texas",
-      "source": "France 24",
-      "published": "2026-11-03T16:45:33.000Z",
-      "summary": "In Texas, Democratic candidate James Talarico is leading the polls ahead of a high-stakes US Senate race against Republican Ken Paxton. The contest is one of the most closely watched…",
-      "image": "https://s.france24.com/media/display/083946e6-d7a3-11f1-a8e3-d18c5759e759/w:1024/p:16x9/capture-b7d619cc.jpg"
-    },
-    {
-      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-      "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T16:49:10.000Z",
-      "summary": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government.."
-    },
-    {
-      "title": "Election officials brace for possible Trump interference in the midterms",
-      "link": "https://www.france24.com/en/americas/20261103-how-state-officials-prepared-for-possible-trump-interference-in-the-midterms",
-      "source": "France 24",
-      "published": "2026-11-03T16:41:47.000Z",
-      "summary": "State officials who run US elections braced for possible intervention by President Donald Trump's administration in Tuesday's midterms, fearing federal authorities loyal to the president…",
-      "image": "https://s.france24.com/media/display/75b70602-d7a5-11f1-97ab-a575454bc579/w:1024/p:16x9/bc104701a09f9c505036ada5a600528ca70ddfea.jpg"
-    },
-    {
-      "title": "Opposition party organiser killed before South Africa elections",
-      "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T16:39:00.000Z",
-      "summary": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections."
-    },
-    {
-      "title": "Brazil keeps a close eye on US midterm elections",
-      "link": "https://www.france24.com/en/video/20261103-brazil-keeps-a-close-eye-on-us-midterm-elections",
-      "source": "France 24",
-      "published": "2026-11-03T16:36:07.000Z",
-      "summary": "Brazil is keeping a close eye on the US midterm elections. Since Donald Trump's return to the White House, relations between Brasilia and Washington have grown increasingly tense. On the…",
-      "image": "https://s.france24.com/media/display/dcee6d6c-d7a3-11f1-8c64-d18c5759e759/w:1024/p:16x9/capture-dd5dbc4b.jpg"
-    },
-    {
-      "title": "Tenerife footballer Jesús De Miguel dies aged 30 after match collision",
-      "link": "http://www.africanews.com/2026/11/03/tenerife-footballer-jesus-de-miguel-dies-aged-30-after-match-collision/",
-      "source": "Africanews",
-      "published": "2026-11-03T16:34:53.000Z",
-      "summary": "The Spanish player had a cardiac arrest after he was struck in the chest when challenging the ball."
-    },
-    {
-      "title": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
-      "link": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre",
-      "source": "France 24",
-      "published": "2026-11-03T16:30:08.000Z",
-      "summary": "A Russian “double tap” strike on a Ukrainian school being used as an aid distribution has killed at least 31 people, according to local authorities, with Ukrainian President Volodymyr…",
-      "image": "https://s.france24.com/media/display/3a851e1a-d7a1-11f1-9fa5-bf1914cabd52/w:1024/p:16x9/Ukraine-aid-strike-vignette.jpg"
     }
   ],
   "africa": [
     {
-      "title": "Disruptions to basic services loom over South Africa's local polls",
-      "link": "http://www.africanews.com/2026/11/03/disruptions-to-basic-services-loom-over-south-africas-local-polls/",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-04T00:03:19.000Z",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "UN peacekeeping head meets leaders of rebel coalition in eastern DRC",
+      "link": "http://www.africanews.com/2026/11/03/un-peacekeeping-head-meets-leaders-of-rebel-coalition-in-eastern-drc/",
       "source": "Africanews",
-      "published": "2026-11-03T20:08:13.000Z",
-      "summary": "As voters in Johannesburg ready for Wednesday’s local elections, basic services are top of their concerns. South Africa’s economic capital and largest city, Johannesburg has seen nearly two…"
+      "published": "2026-11-03T21:33:39.000Z",
+      "summary": "The head of the UN’s MONUSCO peacekeeping mission to Congo met with the DRC’s former president Joseph Kabila on Tuesday and other leaders of his new coalition."
     },
     {
       "title": "Kenya: Second Female Body Recovered From Eastleigh Building Collapse Rubble",
@@ -1412,11 +1417,11 @@ window.GDC_NEWS = {
       "summary": "[Capital FM] Nairobi -- Rescue teams have recovered a second female body from the rubble of the collapsed multi-storey building in Eastleigh, Nairobi, as the search for people trapped…"
     },
     {
-      "title": "Senegalese lawmakers reject key budget in major setback for IMF talks",
-      "link": "http://www.africanews.com/2026/11/03/senegalese-lawmakers-reject-key-budget-in-major-setback-for-imf-talks/",
+      "title": "Disruptions to basic services loom over South Africa's local polls",
+      "link": "http://www.africanews.com/2026/11/03/disruptions-to-basic-services-loom-over-south-africas-local-polls/",
       "source": "Africanews",
-      "published": "2026-11-03T18:15:59.000Z",
-      "summary": "Dakar is hoping to secure a $2.2 billion three-year IMF bailout programme aimed at stabilising its public finances."
+      "published": "2026-11-03T20:08:13.000Z",
+      "summary": "As voters in Johannesburg ready for Wednesday’s local elections, basic services are top of their concerns. South Africa’s economic capital and largest city, Johannesburg has seen nearly two…"
     },
     {
       "title": "East Africa: PM Nsengiyumva Calls for Fresh Push to Unlock EAC Trade",
@@ -1424,6 +1429,13 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-03T17:36:28.000Z",
       "summary": "[New Times] Prime Minister Justin Nsengiyumva has challenged East African Community (EAC) partner states to do more to help small businesses tap into the opportunities offered by regional…"
+    },
+    {
+      "title": "Senegalese lawmakers reject key budget in major setback for IMF talks",
+      "link": "http://www.africanews.com/2026/11/03/senegalese-lawmakers-reject-key-budget-in-major-setback-for-imf-talks/",
+      "source": "Africanews",
+      "published": "2026-11-03T18:15:59.000Z",
+      "summary": "Dakar is hoping to secure a $2.2 billion three-year IMF bailout programme aimed at stabilising its public finances."
     },
     {
       "title": "Somalia: Somaliland Police Marks 33rd Anniversary As President Pledges Support",
@@ -1664,20 +1676,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-03T12:35:23.000Z",
       "summary": "[Nile Post] At least 26 passengers were injured after a Kampala-bound Nile Star bus overturned at Enzeva Village along the Arua-Nebbi highway on Monday night."
-    },
-    {
-      "title": "Liberia: 'Rethink the Disproportionate Appointments of Lofians in Govt'",
-      "link": "https://allafrica.com/stories/202611030555.html",
-      "source": "AllAfrica",
-      "published": "2026-11-03T13:40:33.000Z",
-      "summary": "[Liberian Observer] The former National President of the Association of Liberian Journalists in the Americas (ALJA), Moses D. Sandy, says President Joseph Nyumah Boakai's uneven…"
-    },
-    {
-      "title": "South Africa: South Africa Responds to U.S. Decision On AGOA Benefits Withdrawal",
-      "link": "https://allafrica.com/stories/202611030459.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-03T12:33:59.000Z",
-      "summary": "[SAnews.gov.za] Government says it has acknowledged the announcement by the United States government regarding its intention to withdraw South Africa's benefits under the African Growth and…"
     }
   ]
 };

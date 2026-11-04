@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-03T21:43:22.492Z",
+  "updated": "2026-11-04T01:41:01.437Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,19 +25,127 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Photos: Mahama joins Commonwealth leaders at CHOGM opening in Antigua and Barbuda",
-      "link": "https://www.myjoyonline.com/photos-mahama-joins-commonwealth-leaders-at-chogm-opening-in-antigua-and-barbuda/",
+      "title": "Cybersecurity gaps could expose Traffitech users to fraud — Technology Consultant",
+      "link": "https://www.myjoyonline.com/cybersecurity-gaps-could-expose-traffitech-users-to-fraud-technology-consultant/",
       "source": "MyJoyOnline",
-      "published": "2026-11-03T21:27:52.000Z",
-      "summary": "President John Mahama joined other Commonwealth leaders at the opening ceremony of the 28th Commonwealth Heads of Government Meeting (CHOGM) in Antigua and Barbuda.",
+      "published": "2026-11-04T01:05:53.000Z",
+      "summary": "Technology consultant Maximus Amertogoh has called on the Ghana Police Service to strengthen cybersecurity safeguards around its newly introduced Traffitech-GH system, warning that…",
       "categories": [
-        "National",
-        "Photo Story",
-        "28th Commonwealth Heads of Government Meeting",
-        "Commonwealth leaders",
-        "President John Mahama"
+        "News",
+        "Technology",
+        "Cybersecurity",
+        "Police",
+        "Tech",
+        "Traffitec",
+        "Traffitech-GH"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-17.55.05-1-1024x683.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Maximus-Ametorgoh-e1793754356903.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Diplomatic passport row rocks Parliament as Minority stages walkout",
+      "link": "https://www.myjoyonline.com/diplomatic-passport-row-rocks-parliament-as-minority-stages-walkout/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T00:21:33.000Z",
+      "summary": "Parliament was thrown into a tense confrontation on Tuesday, November 3, after Speaker Alban Bagbin ordered the Member of Parliament for Damongo, Samuel Abu Jinapor, out of the chamber…",
+      "categories": [
+        "HP News 6",
+        "National",
+        "News",
+        "monority",
+        "Passport"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-5.44.03-PM-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hamile explosion: Air Force team deployed to airlift injured immigration officer to Accra – Muntaka",
+      "link": "https://www.myjoyonline.com/hamile-explosion-air-force-team-deployed-to-airlift-injured-immigration-officer-to-accra-muntaka/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T23:55:00.000Z",
+      "summary": "The government has mobilised the Ghana Air Force to evacuate an injured immigration officer from the Nandom Hospital to Accra for specialist treatment following an explosion at Hamile in…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "News",
+        "Hamile explosion",
+        "Immigration"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-3754-e1793750993500.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "We don’t need to save anyone’s job, says Man Utd captain Fernandes",
+      "link": "https://www.myjoyonline.com/we-dont-need-to-save-anyones-job-says-man-utd-captain-fernandes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T23:43:00.000Z",
+      "summary": "Bruno Fernandes says Manchester United's players \"don't need to save anyone's job\" after their improbable comeback win against Roma in the Champions League.",
+      "categories": [
+        "Football",
+        "AS Roma",
+        "Bruno Fernandes",
+        "Man United"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-308.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Djokovic keeps alive bid to squeeze into ATP Finals",
+      "link": "https://www.myjoyonline.com/djokovic-keeps-alive-bid-to-squeeze-into-atp-finals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T23:34:00.000Z",
+      "summary": "Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters.",
+      "categories": [
+        "Tennis",
+        "ATP Finals",
+        "Novak Djokovic"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1095.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Manchester United produce incredible second-half comeback to beat Roma",
+      "link": "https://www.myjoyonline.com/manchester-united-produce-incredible-second-half-comeback-to-beat-roma/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T23:27:00.000Z",
+      "summary": "Manchester United dragged themselves off the canvas to come back from two goals down and record a sensational Champions League win over Roma at Old Trafford.",
+      "categories": [
+        "Football",
+        "AS Roma",
+        "Man United"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-307.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Another Ghanaian found dead in New York, two weeks after going missing",
+      "link": "https://www.myjoyonline.com/another-ghanaian-found-dead-in-new-york-two-weeks-after-going-missing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T23:23:53.000Z",
+      "summary": "The Ghanaian community in New York has been plunged into fresh mourning following the reported discovery of the body of a 24-year-old compatriot, Joseph Owusu, at a dumpsite in the Bronx…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "News",
+        "Dead",
+        "dumpsite",
+        "New York"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/Dead.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+      "link": "https://www.myjoyonline.com/apple-unsure-when-it-will-get-more-foldable-iphones-ahead-of-christmas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-03T23:18:00.000Z",
+      "summary": "Apple has said it doesn't know when it will restock its new foldable iPhones as it heads into the key Christmas trading period.",
+      "categories": [
+        "Technology",
+        "Apple",
+        "Iphone Duo"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-306-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -77,55 +185,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "GACL’s GH¢30m dividend Is manufactured and misleading – Africa Policy Lens",
-      "link": "https://www.myjoyonline.com/gacls-gh%c2%a230m-dividend-is-manufactured-and-misleading-africa-policy-lens/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T20:22:36.000Z",
-      "summary": "The Africa Policy Lens (APL) says the much-publicised GH¢30 million dividend by the Ghana Airports Company Limited (GACL) to Government is manufactured and does not reflect operational…",
-      "categories": [
-        "National",
-        "News",
-        "Politics",
-        "Africa Policy Lens",
-        "APL",
-        "GACL"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/APL_2.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Achimota 1986 Year Group refurbishes historic Aggrey Chapel to preserve school heritage",
-      "link": "https://www.myjoyonline.com/achimota-1986-year-group-refurbishes-historic-aggrey-chapel-to-preserve-school-heritage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T20:15:25.000Z",
-      "summary": "The 1986 year group of Achimota School has refurbished the institution’s historic Aggrey Chapel as part of activities marking 40 years since its members left the school, in a project aimed…",
-      "categories": [
-        "Education",
-        "National",
-        "Achimota 1986 Year Group",
-        "Aggrey Chapel",
-        "Heritage"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-301-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Armah-Kofi Buah challenges KNUST engineering students to lead the fight against galamsey",
-      "link": "https://www.myjoyonline.com/armah-kofi-buah-challenges-knust-engineering-students-to-lead-the-fight-against-galamsey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T20:12:02.000Z",
-      "summary": "The Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, has challenged geological engineering students at the Kwame Nkrumah University of Science and Technology (KNUST) to…",
-      "categories": [
-        "Education",
-        "National",
-        "Armah Kofi Buah",
-        "Galamsey",
-        "KNUST"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-19.55.15-1024x682.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "‘GhanaBoi’ vows to become Ghana’s next boxing hero",
       "link": "https://www.graphic.com.gh/sports/sports-news/ghanaboi-vows-to-become-ghanas-next-boxing-hero.html",
       "source": "Graphic Sports",
@@ -138,23 +197,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "KNUST, Lands Ministry explore plans for satellite campus in Nzema to honour Nkrumah",
-      "link": "https://www.myjoyonline.com/knust-lands-ministry-explore-plans-for-satellite-campus-in-nzema-to-honour-nkrumah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T20:01:38.000Z",
-      "summary": "The Kwame Nkrumah University of Science and Technology (KNUST) is exploring plans to establish a satellite campus in Ellembelle in the Western Region in honour of Ghana's first President…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Ellembelle",
-        "KNUST",
-        "Nkrumah",
-        "Satellite campus"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-19.54.06-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "GTF takes Taekwondo in Schools Campaign to Upper West Region",
       "link": "https://www.graphic.com.gh/sports/sports-news/gtf-takes-taekwondo-in-schools-campaign-to-upper-west.html",
       "source": "Graphic Sports",
@@ -165,52 +207,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/03/TAEK2.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "‘What’s Ablakwa’s wrongdoing?’ – Fiifi Kwetey slams NPP’s ‘Yɛgye Yɛ Sika’ demo as ‘a total joke’",
-      "link": "https://www.myjoyonline.com/whats-ablakwas-wrongdoing-fiifi-kwetey-slams-npps-y%c9%9bgye-y%c9%9b-sika-demo-as-a-total-joke/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T19:11:25.000Z",
-      "summary": "The General Secretary of the National Democratic Congress (NDC), Fifi Fiavi Kwetey, has challenged the New Patriotic Party (NPP) to provide evidence that Foreign Affairs Minister Samuel…",
-      "categories": [
-        "National",
-        "Fifi Fiavi Kwetey",
-        "NPP",
-        "Samuel Okudzeto Ablakwa",
-        "Yɛgye Yɛ Sika demo"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Screenshot-2026-02-17-at-5.18.43-am-1024x670.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Achimota Headmaster commends 1986 Year Group for restoring Aggrey Chapel",
-      "link": "https://www.myjoyonline.com/achimota-headmaster-commends-1986-year-group-for-restoring-aggrey-chapel/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T18:42:11.000Z",
-      "summary": "The Headmaster of Achimota School, Ebenezer Graham Acquaah, has commended the school's 1986 year group for renovating the Aggrey Chapel, describing the intervention as a significant act of…",
-      "categories": [
-        "Education",
-        "National",
-        "1986-year group",
-        "Achimota School"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-10.26.41-e1793730538833-1024x885.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Tema hosts GCB Bank’s MSME Caravan Clinic as bank deepens support for entrepreneurs",
-      "link": "https://www.myjoyonline.com/tema-hosts-gcb-banks-msme-caravan-clinic-as-bank-deepens-support-for-entrepreneurs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T18:41:35.000Z",
-      "summary": "GCB Bank has taken its nationwide Micro, Small and Medium-sized Enterprises (MSME) Caravan Clinic to Tema, bringing entrepreneurs closer to financing opportunities, business advisory…",
-      "categories": [
-        "Banking and Finance",
-        "Entrepreneurs",
-        "GCB Bank MDME Caravan Clinic",
-        "Tema"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-290-1024x580.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Parliament will resist attempts to fast-track Bills without scrutiny - Speaker Bagbin assures",
@@ -336,7 +332,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Politics"
       ],
-      "image": null,
+      "image": "https://www.graphic.com.gh/images/2026/Nov/04/IMG_5764.jpeg",
       "site": "https://www.graphic.com.gh/"
     },
     {
