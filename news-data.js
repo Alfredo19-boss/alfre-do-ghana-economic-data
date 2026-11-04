@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-04T16:10:03.571Z",
-  "worldAt": "2026-11-04T16:10:03.568Z",
+  "updated": "2026-11-04T21:52:12.590Z",
+  "worldAt": "2026-11-04T21:52:12.588Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,32 +20,95 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 7/25 stories",
+    "Graphic Online: 6/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
     "World · BBC News: 23 stories",
-    "World · Deutsche Welle: 12 stories",
+    "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
-    "Africa · Africanews: 27 stories",
+    "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 0 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Nearly half of Ghana’s MMDAs fall below minimum public financial management standards – World Bank",
+      "link": "https://www.myjoyonline.com/nearly-half-of-ghanas-mmdas-fall-below-minimum-public-financial-management-standards-world-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T19:33:21.000Z",
+      "summary": "The bank says that despite some improvements in financial management at the local level, challenges with financial reporting, internal audits, and the implementation of audit…"
+    },
+    {
+      "title": "EOCO Demands Nine Years of Financial Records from Baffour Awuah’s Law Firm",
+      "link": "https://thehighstreetjournal.com/eoco-demands-nine-years-of-financial-records-from-baffour-awuahs-law-firm/",
+      "source": "The High Street Journal",
+      "published": "2026-11-04T19:11:56.000Z",
+      "summary": "EOCO seeks nine years of financial and operational records from law firm linked to MP Baffour Awuah amid ongoing SIC Life investigations."
+    },
+    {
+      "title": "COMAC Pushes ECOWAS Digital Fuel Passport to Improve Petroleum Trade",
+      "link": "https://thehighstreetjournal.com/comac-pushes-ecowas-digital-fuel-passport-to-improve-petroleum-trade/",
+      "source": "The High Street Journal",
+      "published": "2026-11-04T18:00:00.000Z",
+      "summary": "The proposed ECOWAS-wide digital certification system is expected to strengthen fuel quality assurance, curb unrecorded product movements, and improve cross-border petroleum trade."
+    },
+    {
+      "title": "Finance Minister Ato Forson to show how 'Ghana moves forward' in 2027 Budget",
+      "link": "https://www.graphic.com.gh/news/general-news/what-you-need-to-know-about-new-economy-agenda-ahead-of-november-12-budget-presentation.html",
+      "source": "Graphic Online",
+      "published": "2026-11-04T17:41:26.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Police warn motorists to verify TraffiTech-GH tickets before payment",
+      "link": "https://www.graphic.com.gh/news/general-news/police-warn-motorists-against-paying-unverified-traffitech-gh-fines.html",
+      "source": "Graphic Online",
+      "published": "2026-11-04T17:32:43.000Z",
+      "summary": ""
+    },
+    {
+      "title": "BoG hosts Queen of Netherlands to discuss Ghana’s financial health",
+      "link": "https://www.myjoyonline.com/bog-hosts-queen-of-netherlands-to-discuss-ghanas-financial-health/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T17:26:34.000Z",
+      "summary": "Speaking to welcome the Queen, who also doubles as the United Nations Secretary-General’s Special Advocate for Financial Health, the Governor highlighted the country’s financial…"
+    },
+    {
+      "title": "AI Investment Concentrated in Mega-Projects as Broader Greenfield Activity Slows",
+      "link": "https://thehighstreetjournal.com/ai-investment-concentratein-mega-projects/",
+      "source": "The High Street Journal",
+      "published": "2026-11-04T16:45:00.000Z",
+      "summary": "A handful of semiconductor and data-centre investments are sustaining high capital commitments, even as the number of new projects declines across major industries"
+    },
+    {
+      "title": "GSE annual return hits 63%, listed firms’ Q3 performance impressive",
+      "link": "https://www.myjoyonline.com/gse-annual-return-hits-63-listed-firms-q3-performance-impressive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T16:23:38.000Z",
+      "summary": "Aggregate market turnover rose by 2.3% week-on-week(w/w) to US$4.8 million, with Scancom Plc (MTN GH) driving activity and contributing 81.6% of the total value traded."
+    },
+    {
+      "title": "Beyond oil and gold: Ghana and Saudi Arabia build a new era of economic cooperation",
+      "link": "https://www.myjoyonline.com/beyond-oil-and-gold-ghana-and-saudi-arabia-build-a-new-era-of-economic-cooperation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T16:05:17.000Z",
+      "summary": "The future of investment is no longer shaped by capital alone. It is increasingly shaped by strategic partnerships, policy credibility, and countries’ ability to connect opportunity with…"
+    },
     {
       "title": "Ghana’s next investment chapter: Turning recovery into resilience",
       "link": "https://www.myjoyonline.com/ghanas-next-investment-chapter-turning-recovery-into-resilience/",
@@ -1032,373 +1095,393 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-11-02T06:56:42.000Z",
       "summary": ""
-    },
-    {
-      "title": "EU-Ghana Agribusiness Exhibition Forum in Accra: Companies showcase products, investment opportunities",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-eu-ghana-agribusiness-exhibition-forum-in-accra-companies-showcase-products-investment-opportunities.html",
-      "source": "Graphic Online",
-      "published": "2026-11-02T06:16:25.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Making Money Is One Thing, Keeping It Another: A $6.3 Billion Wake-Up Call for Ghanaian Investors",
-      "link": "https://thehighstreetjournal.com/making-money-is-one-thing-keeping-it-another-a-6-3-billion-wake-up-call-for-ghanaian-investors/",
-      "source": "The High Street Journal",
-      "published": "2026-11-02T05:05:00.000Z",
-      "summary": "The massive Binance cryptocurrency heist is a reminder that while digital currencies offer opportunities, protecting your investment is just as important as making money."
-    },
-    {
-      "title": "Airport Security Theatre: Have Ghana’s High-Level Meetings and Passenger Checks Delivered Results?",
-      "link": "https://thehighstreetjournal.com/airport-security-theatre-have-ghanas-high-level-meetings-and-passenger-checks-delivered-results/",
-      "source": "The High Street Journal",
-      "published": "2026-11-02T05:03:00.000Z",
-      "summary": "Weeks after high-level security meetings, arrests and stricter passenger screening at Kotoka, the seizure of 46.7kg of cocaine in Beirut from a passenger arriving from Accra raises…"
-    },
-    {
-      "title": "Closing Dividend, Rising Pressure: Ghana’s 11-Million Youth Mismatch Threatens Economic Growth",
-      "link": "https://thehighstreetjournal.com/ghanas-11-million-youth-mismatch/",
-      "source": "The High Street Journal",
-      "published": "2026-11-02T05:02:00.000Z",
-      "summary": "The Ghana in Numbers 2025 report further reveals that this labor crisis is not driven by an absolute shortage of educated young people, but by a structural mismatch between academic…"
-    },
-    {
-      "title": "Afreximbank, APPO Launch $5 Billion Africa Energy Bank to Finance Oil and Gas Projects",
-      "link": "https://thehighstreetjournal.com/afreximbank-appo-5bn-africa-energy-bank/",
-      "source": "The High Street Journal",
-      "published": "2026-11-02T05:01:00.000Z",
-      "summary": "The new pan-African lender aims to close a funding gap as traditional financiers pull back from fossil fuels, with investments planned across the continent’s energy value chain"
-    },
-    {
-      "title": "Beyond Political & Social Credentials: Ghana Must Strive for Economic Freedom & Prosperity – ACEYE CEO Says",
-      "link": "https://thehighstreetjournal.com/ghana-must-strive-for-economic-freedom/",
-      "source": "The High Street Journal",
-      "published": "2026-11-02T05:00:00.000Z",
-      "summary": "Ghana continues to face significant challenges in building an economic system that gives individuals and businesses the freedom and opportunities to prosper"
-    },
-    {
-      "title": "IMF mission wraps up Ghana PCI review this week as economic targets take centre stage",
-      "link": "https://www.myjoyonline.com/imf-mission-wraps-up-ghana-pci-review-this-week-as-economic-targets-take-centre-stage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T04:06:00.000Z",
-      "summary": "The International Monetary Fund (IMF) mission to Ghana is expected to conclude its first Policy Coordination Instrument (PCI) review engagement this week, with economic targets and the…"
-    },
-    {
-      "title": "Petrol drops to GH¢16.38, diesel rises to GH¢18.45 as OMCs adjust pump prices",
-      "link": "https://www.myjoyonline.com/petrol-drops-to-gh%c2%a216-38-diesel-rises-to-gh%c2%a218-45-as-omcs-adjust-pump-prices/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-02T03:55:00.000Z",
-      "summary": "Oil Marketing Companies (OMCs) have begun adjusting pump prices for the first pricing window in November, with petrol prices falling and diesel prices rising."
-    },
-    {
-      "title": "MTN Ghana pays GH¢9bn to state, earns GH¢7.8bn profit in first 9 months of 2026",
-      "link": "https://www.myjoyonline.com/mtn-ghana-pays-gh%c2%a29bn-to-state-earns-gh%c2%a27-8bn-profit-in-first-9-months-of-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-01T22:09:00.000Z",
-      "summary": "MTN Ghana paid GH¢9.0 billion in direct and indirect taxes to the state in the first nine months of 2026, a figure that surpasses the telecommunications giant’s profit after tax of GH¢7.8…"
     }
   ],
   "world": [
     {
-      "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T15:51:32.000Z",
-      "summary": "Democratic voters danced as they celebrated Abdul El-Sayed’s victory in Michigan."
-    },
-    {
-      "title": "Israel's president to begin consultations with parties after election deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-04T15:45:45.000Z",
-      "summary": "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "US midterm elections: 'Maybe the best colour for Texas is purple'",
-      "link": "https://www.france24.com/en/us-midterm-elections-maybe-the-best-colour-for-texas-is-purple",
+      "title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
+      "link": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
       "source": "France 24",
-      "published": "2026-11-04T15:45:00.000Z",
-      "summary": "Texas flipped blue following the US midterm elections, marking a historic shift for a state that hasn't been led by Democrats in decades. The legacy of prolonged Republican leadership has…",
-      "image": "https://s.france24.com/media/display/cefbe528-d865-11f1-9baa-695cb59fade5/w:1024/p:16x9/EN-20261104-161328-161923-CS.jpg"
+      "published": "2026-11-04T21:26:53.000Z",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu on Wednesday cited \"serious suspicions\" around foreign interference in Israel's recent parliamentary elections. He claims foreign countries spent…",
+      "image": "https://s.france24.com/media/display/6ef36480-d892-11f1-9ef8-1beafce15fea/w:1024/p:16x9/000-D4MF8WE.jpg"
     },
     {
-      "title": "US markets rise as Democrats sweep midterm elections",
-      "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
+      "title": "Social media reacts to Democrats’ takeover of US Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T15:39:38.000Z",
-      "summary": "Nasdaq, Dow, and S&P 500 open higher after Democrats take control and Trump accepts results."
+      "published": "2026-11-04T21:21:58.000Z",
+      "summary": "Social media is awash with reactions to Democrats’ sweeping midterm gains."
     },
     {
-      "title": "Pix of the Day, 4th November, 2026 - Across the world",
-      "link": "http://www.africanews.com/2026/11/04/pix-of-the-day-4th-november-2026-across-the-world/",
-      "source": "Africanews",
-      "published": "2026-11-04T15:34:29.000Z",
-      "summary": "Pix of the Day, 4th November, 2026 - Across the world"
+      "title": "South Africans vote in key municipal elections",
+      "link": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
+      "source": "France 24",
+      "published": "2026-11-04T21:26:13.000Z",
+      "summary": "In tonight's edition, a crucial test for South Africa's ruling ANC as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's…",
+      "image": "https://s.france24.com/media/display/535fad62-d894-11f1-b192-bf1914cabd52/w:1024/p:16x9/DL00006221-VOD-00023659-01.jpg"
     },
     {
-      "title": "‘We are still red,’ Florida’s first Black governor upon win",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-are-still-red-floridas-first-black-governor-upon-win?traffic_source=rss",
+      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+      "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T15:32:20.000Z",
-      "summary": "US Republican Byron Donald reiterated his support for President Donald Trump."
+      "published": "2026-11-04T21:13:56.000Z",
+      "summary": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad."
     },
     {
-      "title": "Secret police files released in Hungary, 47 years after fall of communism",
-      "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-04T15:28:18.000Z",
-      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b3/live/39dbf5e0-d861-11f1-85ab-b3cc3b5498c6.png"
+      "title": "Musk-backed candidates lose midterms despite financial backing",
+      "link": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
+      "source": "France 24",
+      "published": "2026-11-04T21:06:09.000Z",
+      "summary": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Republican…",
+      "image": "https://s.france24.com/media/display/5ac9150e-d892-11f1-86ac-d18c5759e759/w:1024/p:16x9/capture-bb0d8832.jpg"
     },
     {
-      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
-      "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T15:28:00.000Z",
-      "summary": "Trump acknowledges Iran war played role in defeats but says he would launch it again."
+      "published": "2026-11-04T21:00:00.000Z",
+      "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call."
     },
     {
-      "title": "Ivory Coast: Costly funeral traditions make death a big business",
-      "link": "http://www.africanews.com/2026/11/04/ivory-coast-costly-funeral-traditions-make-death-a-big-business/",
-      "source": "Africanews",
-      "published": "2026-11-04T15:19:50.000Z",
-      "summary": "where families are expected to say goodbye to their loved ones with massive music-fuelled feasts, despite the costs."
+      "title": "Trump’s second-term playbook: Fake news, AI and attacks on his critics",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics",
+      "source": "France 24",
+      "published": "2026-11-04T20:44:52.000Z",
+      "summary": "Donald Trump could be credited with popularising the term \"fake news\", but his own presidency has been riddled with numerous false claims, conspiracy theories and misleading content. In…",
+      "image": "https://s.france24.com/media/display/6e05508a-d890-11f1-affc-d18c5759e759/w:1024/p:16x9/fake-news-trump-lookback.png"
     },
     {
-      "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-04T15:18:03.000Z",
-      "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg"
+      "title": "Democrat leaders hail midterm election success",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T20:50:31.000Z",
+      "summary": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms."
     },
     {
-      "title": "Africa's shifting role in the global drug trade",
-      "link": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-world-4025-rdf",
+      "title": "How Chinese AI is censoring the controversy around Mbappé’s Chairman Mao comments",
+      "link": "https://www.france24.com/en/asia-pacific/20261104-how-chinese-ai-is-censoring-the-controversy-around-mbappes-chairman-mao-comments",
+      "source": "France 24",
+      "published": "2026-11-04T20:28:09.000Z",
+      "summary": "Footballer Kylian Mbappé sparked a wave of condemnation across China when he implied that Chinese leader Mao Zedong was a dictator. In China, information about this controversy is being…",
+      "image": "https://s.france24.com/media/display/47481808-d479-11f1-a1f0-d18c5759e759/w:1024/p:16x9/image3-137.jpg"
+    },
+    {
+      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T20:31:56.000Z",
+      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones."
+    },
+    {
+      "title": "Winners, losers, the EU: Five takeaways from the US midterms",
+      "link": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
-      "published": "2026-11-04T15:18:00.000Z",
-      "summary": "Recent discoveries of meth labs suggest parts of Africa are moving beyond drug transit and becoming sites of synthetic drug production."
+      "published": "2026-11-04T20:27:00.000Z",
+      "summary": "Donald Trump's Republicans suffered a crushing defeat in Tuesday's midterm elections, with the Democrats wresting control of Congress. What does this mean for US politics and the world?"
     },
     {
-      "title": "'Is Republican Party able to pivot away from MAGA movement, or will it sputter forward leaderless?'",
-      "link": "https://www.france24.com/en/is-republican-party-able-to-pivot-away-from-maga-movement-or-will-it-sputter-forward-leaderless",
-      "source": "France 24",
-      "published": "2026-11-04T15:16:13.000Z",
-      "summary": "Does an electoral repudiation of Donald Trump also mark the beginning of MAGA’s decline? Delano D'Souza is pleased to welcome Ian Reifowitz, SUNY Distinguished Professor of Historical…",
-      "image": "https://s.france24.com/media/display/3fb46d54-d860-11f1-801d-695cb59fade5/w:1024/p:16x9/EN-20261104-141744-142425-CS-01.jpg"
-    },
-    {
-      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
-      "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+      "title": "Will the US resume its attacks on Iran?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T15:13:00.000Z",
-      "summary": "Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy."
+      "published": "2026-11-04T20:25:50.000Z",
+      "summary": "Tehran says it's ready with a maximum deterrence plan."
     },
     {
-      "title": "French blood banks foil new cyberattack targeting refrigerators",
-      "link": "https://www.france24.com/en/france/20261104-french-blood-banks-foil-new-cyberattack-targeting-refrigerators",
-      "source": "France 24",
-      "published": "2026-11-04T15:10:17.000Z",
-      "summary": "A cyberattack in France targeted three cold stores containing donated blood samples and plasma, authorities said on Wednesday. The incident – which was unsuccessful due to the facilities'…",
-      "image": "https://s.france24.com/media/display/539747e8-d85f-11f1-ad37-d18c5759e759/w:1024/p:16x9/000-D3247KH-1.jpg"
-    },
-    {
-      "title": "What the Democrats' midterms win means for the US economy and Trump",
-      "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-04T15:09:00.000Z",
-      "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats…"
-    },
-    {
-      "title": "US midterm elections: Gen Z gives Democrats their strongest support",
-      "link": "https://www.france24.com/en/video/20261104-us-midterm-elections-gen-z-gives-democrats-their-strongest-support",
-      "source": "France 24",
-      "published": "2026-11-04T15:10:13.000Z",
-      "summary": "In the US midterm elections, 50 million members of Gen Z were eligible to vote. Young voters gave Democrats the strongest support, with 75% of them voting for the party. This generation…",
-      "image": "https://s.france24.com/media/display/2d60a47e-d860-11f1-a7d7-bf1914cabd52/w:1024/p:16x9/capture-e3c48e7e.jpg"
-    },
-    {
-      "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
-      "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T15:04:34.000Z",
-      "summary": "The CAS ruled last week to overturn governing body's exclusion of ‌Russia over its 2022 invasion of Ukraine."
-    },
-    {
-      "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
-      "link": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
-      "source": "France 24",
-      "published": "2026-11-04T15:02:07.000Z",
-      "summary": "Speaking to Fox News following the midterm elections, US President Donald Trump admitted that inflation was likely one reason Republicans did poorly. Many Americans have been frustrated…",
-      "image": "https://s.france24.com/media/display/bb2a6840-d85f-11f1-a498-a575454bc579/w:1024/p:16x9/EN-20261104-153314-153525-CS.jpg"
-    },
-    {
-      "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
-      "link": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T15:04:08.000Z",
-      "summary": "Despite losing legislative control, the US president still has strong executive powers to push his agenda forward."
-    },
-    {
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-04T15:01:10.000Z",
-      "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg"
+      "published": "2026-11-04T20:22:40.000Z",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png"
     },
     {
-      "title": "Trump loses control of Congress",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T14:42:23.000Z",
-      "summary": "Democrats have made historic gains in the US midterms, dealing a major setback to President Donald Trump."
-    },
-    {
-      "title": "Senegal's National Assembly rejects key budget bill after heated disputes",
-      "link": "http://www.africanews.com/2026/11/04/senegals-national-assembly-rejects-key-budget-bill-after-heated-disputes/",
+      "title": "WHO approves clinical trials on two new Ebola vaccines",
+      "link": "http://www.africanews.com/2026/11/04/who-approves-clinical-trials-on-two-new-ebola-vaccines/",
       "source": "Africanews",
-      "published": "2026-11-04T14:41:44.000Z",
-      "summary": "Senegal's National Assembly, which is dominated by the opposition, rejected a key budget bill Tuesday, a text that was seen as crucial to restoring public finances as the country finalises…"
+      "published": "2026-11-04T20:09:43.000Z",
+      "summary": "The World Health Organization on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people"
     },
     {
-      "title": "Why is the western US still counting votes after election day?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T14:35:54.000Z",
-      "summary": "Why is the western US still counting votes after election day?"
+      "published": "2026-11-04T19:59:14.000Z",
+      "summary": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran."
     },
     {
-      "title": "Midterms: How Abdul El-Sayed used 'humour and hope' to rebuff racism",
-      "link": "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism",
+      "title": "Blue wave across America: do US midterms signal beginning of the end for Trump?",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261104-blue-wave-across-america-do-us-midterms-signal-beginning-of-the-end-for-trump",
       "source": "France 24",
-      "published": "2026-11-04T14:25:15.000Z",
-      "summary": "Abdul El-Sayed is set to become the first Muslim senator in US history following his midterms victory in Michigan. His victory came despite what he has denounced as racist attacks against…",
-      "image": "https://s.france24.com/media/display/1647417a-d857-11f1-a8e5-bf1914cabd52/w:1024/p:16x9/capture-69b69940.jpg"
+      "published": "2026-11-04T19:49:21.000Z",
+      "summary": "He asked voters to pretend he was on the ballot and they did. Voters across the United States chasing Donald Trump's Republican majorities from both houses of Congress. How big a landslide…",
+      "image": "https://s.france24.com/media/display/08a9041e-d883-11f1-9acd-d18c5759e759/w:1024/p:16x9/2026-11-04T075918Z-1179904926-RC2RGOANJSSF-RTRMADP-3-USA-ELECTION-MICHIGAN.jpg"
     },
     {
-      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "title": "Democratic progressive wing notches win in California Central Valley",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T19:50:37.000Z",
+      "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas."
+    },
+    {
+      "title": "36 years later: Hungary opens Communist-era secret service files",
+      "link": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-04T19:30:00.000Z",
+      "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility."
+    },
+    {
+      "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
+      "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T19:30:41.000Z",
+      "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability."
+    },
+    {
+      "title": "🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout",
+      "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "source": "France 24",
+      "published": "2026-11-04T18:32:56.000Z",
+      "summary": ""
+    },
+    {
+      "title": "WHO approves trials for two new Ebola vaccines",
+      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T19:22:09.000Z",
+      "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo."
+    },
+    {
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-04T14:17:58.000Z",
-      "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-04T18:01:31.000Z",
+      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Trump seeks to shift blame but has 'nowhere to hide' after midterms defeat",
-      "link": "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat",
-      "source": "France 24",
-      "published": "2026-11-04T14:13:47.000Z",
-      "summary": "Donald Trump has sought to shift the blame for the Republicans' defeat at the midterms by claiming that if he had been on the ballot the party would have won. But the \"blue wave\" that saw…",
-      "image": "https://s.france24.com/media/display/300c3fe4-d85b-11f1-9632-695cb59fade5/w:1024/p:16x9/AP26306709290516.jpg"
-    },
-    {
-      "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-      "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+      "title": "US midterms 2026: What key races remain undecided?",
+      "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T14:08:18.000Z",
-      "summary": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz."
+      "published": "2026-11-04T19:18:47.000Z",
+      "summary": "Key races in Alaska, Mississippi, Kansas and California remain uncounted."
     },
     {
-      "title": "US Midterms: 'It is now going to be pretty chaotic for Donald Trump'",
-      "link": "https://www.france24.com/en/video/20261104-us-midterms-it-is-now-going-to-be-pretty-chaotic-for-donald-trump",
+      "title": "Democrats warn Trump camp to ‘lawyer up’ as anger over corruption drives midterms wipeout",
+      "link": "https://www.france24.com/en/americas/20261104-democrats-warn-trump-camp-lawyer-up-anger-over-corruption-drives-midterms-wipeout-gop",
       "source": "France 24",
-      "published": "2026-11-04T14:12:15.000Z",
-      "summary": "The Democrats' victory in the midterm elections have left Donald Trump in a difficult position for the rest of his mandate. The now \"blue\" House of Representatives will decide the budget…",
-      "image": "https://s.france24.com/media/display/205acadc-d853-11f1-a245-1beafce15fea/w:1024/p:16x9/EN-20261104-133901-134419-CS.jpg"
+      "published": "2026-11-04T18:01:05.000Z",
+      "summary": "Corruption in government was high on the minds of US voters as they dealt US President Donald Trump’s party a chastening defeat in midterm elections, toppling Republican strongholds like…",
+      "image": "https://s.france24.com/media/display/4e0e449a-d844-11f1-b10d-1beafce15fea/w:1024/p:16x9/2026-11-02T203404Z-53214534-RC2VFOA5BYP8-RTRMADP-3-USA-TRUMP-LINCOLNMEMORIAL.jpg"
     },
     {
-      "title": "Everything you need to know from the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "title": "How US midterm results could reshape Trump’s foreign policy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T19:15:50.000Z",
+      "summary": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy."
+    },
+    {
+      "title": "'Once-in-a-generation event: Historic election a shocking repudiation of Trump & the MAGA movement'",
+      "link": "https://www.france24.com/en/once-in-a-generation-event-historic-election-a-shocking-repudiation-of-trump-the-maga-movement",
+      "source": "France 24",
+      "published": "2026-11-04T17:49:34.000Z",
+      "summary": "Erin Ogunkeye is pleased to welcome Adam Jentleson, President of the Searchlight Institute and author of Supermajority: How Democrats Can Build Lasting Power, For Jentleson, the Democrats'…",
+      "image": "https://s.france24.com/media/display/5514019c-d873-11f1-8b6b-a575454bc579/w:1024/p:16x9/EN-20261104-163331-164341-CS.jpg"
+    },
+    {
+      "title": "The biggest winners and losers of the 2026 US midterms",
+      "link": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T18:52:25.000Z",
+      "summary": "Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress."
+    },
+    {
+      "title": "Libya's eastern administration appoints a new central bank governor",
+      "link": "http://www.africanews.com/2026/11/04/libyas-eastern-administration-appoints-a-new-central-bank-governor/",
+      "source": "Africanews",
+      "published": "2026-11-04T17:45:54.000Z",
+      "summary": "The former governor, Naji Issa, submitted his resignation to the two legislative chambers in August without publicly explaining his reasons."
+    },
+    {
+      "title": "Key moments as Democrats sweep to victories in US midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T18:13:01.000Z",
+      "summary": "Democrats have been celebrating across the US after a series of victories saw them take control of both chambers."
+    },
+    {
+      "title": "Brazil: Santa Claus School celebrates graduation at Christ the Redeemer",
+      "link": "http://www.africanews.com/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer/",
+      "source": "Africanews",
+      "published": "2026-11-04T17:30:20.000Z",
+      "summary": "Dozens of Santas gathered at Rio de Janeiro's iconic Christ the Redeemer statue to celebrate their graduation. The 55 new recruits are preparing to spread Christmas cheer across Brazil."
+    },
+    {
+      "title": "Danish students join European protest wave against education funding cuts",
+      "link": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T17:54:48.000Z",
+      "summary": "Danish government proposes scrapping allowance scheme for students from wealthier families."
+    },
+    {
+      "title": "European leaders welcome Democrats' US midterms election win",
+      "link": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
+      "source": "France 24",
+      "published": "2026-11-04T17:00:09.000Z",
+      "summary": "European leaders voiced hopes for a reset with the United States on Wednesday, November 4, after voters delivered a huge midterm election defeat to President Donald Trump and his Republican…",
+      "image": "https://s.france24.com/media/display/ae4696b0-d870-11f1-8249-bf1914cabd52/w:1024/p:16x9/capture-88cd0a37.jpg"
+    },
+    {
+      "title": "Netanyahu bet on Trump – but both lost",
+      "link": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T17:41:48.000Z",
+      "summary": "Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it."
+    },
+    {
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-04T14:05:42.000Z",
-      "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bcf/live/c31f31d0-d854-11f1-93e1-3b657b665bcf.jpg"
+      "published": "2026-11-04T16:59:15.000Z",
+      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "How big is the Republican midterms loss, and is there a silver lining?",
-      "link": "https://www.aljazeera.com/news/2026/11/4/how-big-is-the-republican-midterms-loss-and-is-there-a-silver-lining?traffic_source=rss",
+      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+      "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T13:59:15.000Z",
-      "summary": "The Republicans haven't been this weakened in Congress since 1990, but they did have some wins."
+      "published": "2026-11-04T17:18:50.000Z",
+      "summary": "US VP Vance cites trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats."
     },
     {
-      "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-      "source": "NPR World",
-      "published": "2026-11-04T13:38:09.000Z",
-      "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1999+0+0/resize/3000x1999!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F4b%2Ffc7b4ff9460d9cd09e9513f98b6f%2Fgettyimages-2303432872.jpg"
+      "title": "Iran's leaders say midterm results show voters have rejected Trump's war",
+      "link": "http://www.africanews.com/2026/11/04/irans-leaders-say-midterm-results-show-voters-have-rejected-trumps-war/",
+      "source": "Africanews",
+      "published": "2026-11-04T16:56:24.000Z",
+      "summary": "Iranians on Wednesday struck a defiant tone, celebrating U.S. voters’ rebuke of President Donald Trump in the midterm elections while many in the Middle East waited to see how the results…"
     },
     {
-      "title": "Spanish Transport Minister resigns over train crash disasters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
+      "title": "Palestinian citizens of Israel face intimidation after election success",
+      "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T13:52:11.000Z",
-      "summary": "Spanish Transport Minister resigns over train crash disasters"
+      "published": "2026-11-04T17:14:21.000Z",
+      "summary": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them."
     },
     {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-04T13:33:30.000Z",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg"
-    },
-    {
-      "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
-      "link": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T13:40:52.000Z",
-      "summary": "Israeli settlers have expanded in Hebron's Old City, with Palestinian residents' presence under threat."
-    },
-    {
-      "title": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
-      "link": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms",
+      "title": "US midterms bring a wave of historic firsts as minorities win key races",
+      "link": "https://www.france24.com/en/us-midterms-bring-a-wave-of-historic-firsts-as-minorities-win-key-races",
       "source": "France 24",
-      "published": "2026-11-04T13:26:11.000Z",
-      "summary": "Ukrainians do not expect the Democrats' victory in the US midterm elections is change much in regards to US policy on the war with Russia, or at least not quickly, says France 24's…",
-      "image": "https://s.france24.com/media/display/6f8dbdd8-d846-11f1-9528-d18c5759e759/w:1024/p:16x9/capture-cf6b8ece.jpg"
+      "published": "2026-11-04T16:51:39.000Z",
+      "summary": "US midterms bring a wave of historic firsts as minorities win key races: The first Native American female senator in Minnesota, the first openly gay male senator in New Hampshire, the first…",
+      "image": "https://s.france24.com/media/display/9b1eb92e-d86f-11f1-bf0c-d18c5759e759/w:1024/p:16x9/capture-b3063e07.jpg"
     },
     {
-      "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+      "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
+      "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T13:33:05.000Z",
-      "summary": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District."
+      "published": "2026-11-04T17:05:12.000Z",
+      "summary": "Tenerife striker De Miguel died on Tuesday as a result of injuries from a collision with FC Andorra goalkeeper Owono."
     },
     {
-      "title": "Nadal set to join Real Madrid board of directors",
-      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-04T13:21:01.000Z",
-      "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T13:29:40.000Z",
-      "summary": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank."
-    },
-    {
-      "title": "A look back at how Trump's political decisions saw his approval rating plummet",
-      "link": "https://www.france24.com/en/video/20261104-a-look-back-at-how-trump-s-political-decisions-saw-his-approval-rating-plummet",
+      "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+      "link": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
       "source": "France 24",
-      "published": "2026-11-04T13:17:49.000Z",
-      "summary": "Donald Trump's unpopularity has been cited as a major factor in the Democrats' sweeping victory in the midterms. The latest polls show Trump's approval rating has plummeted to 37.3%, down…",
-      "image": "https://s.france24.com/media/display/41c5f7fe-d845-11f1-bc8d-1beafce15fea/w:1024/p:16x9/capture-0fdb1ad6.jpg"
-    },
-    {
-      "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
-      "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T13:26:44.000Z",
-      "summary": "Iranian officials see Republican midterm losses in a positive light, but supreme leader says US policy will not shift."
+      "published": "2026-11-04T16:50:06.000Z",
+      "summary": "First Deputy Speaker of the Parliament of Iran Ali Nikzad on Wednesday attributed Republican losses in the US midterm elections to Washington's war with Iran, telling lawmakers that…",
+      "image": "https://s.france24.com/media/display/9760657e-d86c-11f1-98f7-695cb59fade5/w:1024/p:16x9/mini3-3.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "WHO approves clinical trials on two new Ebola vaccines",
+      "link": "http://www.africanews.com/2026/11/04/who-approves-clinical-trials-on-two-new-ebola-vaccines/",
+      "source": "Africanews",
+      "published": "2026-11-04T20:09:43.000Z",
+      "summary": "The World Health Organization on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people"
+    },
+    {
+      "title": "WHO approves trials for two new Ebola vaccines",
+      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T19:22:09.000Z",
+      "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo."
+    },
+    {
+      "title": "British man infected with Ebola in DR Congo to be flown back to UK",
+      "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-04T18:34:19.000Z",
+      "summary": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"
+    },
+    {
+      "title": "Libya's eastern administration appoints a new central bank governor",
+      "link": "http://www.africanews.com/2026/11/04/libyas-eastern-administration-appoints-a-new-central-bank-governor/",
+      "source": "Africanews",
+      "published": "2026-11-04T17:45:54.000Z",
+      "summary": "The former governor, Naji Issa, submitted his resignation to the two legislative chambers in August without publicly explaining his reasons."
+    },
+    {
+      "title": "Mugabe's son arrested over 'assault' during luxury car smuggling probe",
+      "link": "https://www.bbc.co.uk/news/articles/cqd098d471ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-04T17:50:00.000Z",
+      "summary": "The son of Zimbabwe's late former President Robert Mugabe will appear in court on 5 November with four other men.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320e/live/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg"
+    },
+    {
+      "title": "Ghana: Forty Years On, the Fight Against HIV Is Not Over",
+      "link": "https://allafrica.com/stories/202611040676.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T17:27:19.000Z",
+      "summary": "[Ghanaian Times] Ghana has made considerable progress in the fight against HIV over the past four decades. The decline in prevalence from 4.2 per cent to 1.4 per cent, the nearly 90 per…"
+    },
+    {
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-04T16:40:38.000Z",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
+    },
+    {
+      "title": "Uganda: Former Uganda Military Capo Arrested",
+      "link": "https://allafrica.com/stories/202611040675.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T17:27:18.000Z",
+      "summary": "[Ghanaian Times] UGANDA has arrested former deputy military chief and presidential adviser Peter Elwelu over allegations of involvement in activities aimed at destabilising the country."
+    },
+    {
+      "title": "The young politicians with African roots making history in the US midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-04T16:34:32.000Z",
+      "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0fe/live/3a869c80-d85b-11f1-94f3-cf7d1e52bb8c.jpg"
+    },
+    {
+      "title": "Somalia: Somaliland's Envoy Pays Courtesy Visit to Ethiopian Ambassador Teshome Shunde",
+      "link": "https://allafrica.com/stories/202611040663.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T17:17:45.000Z",
+      "summary": "[Horn Diplomat] Hargeisa -- Somaliland's representative-designate to Ethiopia, Sharmarke Gelle, paid a courtesy visit to Ethiopian Ambassador Teshome Shunde at the Ethiopian mission in…"
+    },
+    {
+      "title": "South Africans vote in local elections with ANC missteps in sharp focus",
+      "link": "http://www.africanews.com/2026/11/04/south-africans-vote-in-local-elections-with-anc-missteps-in-sharp-focus/",
+      "source": "Africanews",
+      "published": "2026-11-04T16:01:52.000Z",
+      "summary": "South Africans are voting Wednesday in local elections that are expected to be a tough test for the African National Congress party, which led the country out of white minority rule but has…"
+    },
+    {
+      "title": "Nigeria: Atiku Arrives Sokoto Amid Campaign Dispute As Adc Urges Nigerians to Reject APC",
+      "link": "https://allafrica.com/stories/202611040662.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T17:16:52.000Z",
+      "summary": "[Premium Times] Atiku Abubakar arrived in Sokoto for the ADC's presidential campaign launch, with his entourage delayed by traffic as supporters gathered along the airport route."
+    },
     {
       "title": "Mozambique: Two Court Battles Challenge Frelimo Attempts to Channel Foreign Trade Through Party Oligarchs",
       "link": "https://allafrica.com/stories/202611040564.html",
@@ -1407,6 +1490,13 @@ window.GDC_NEWS = {
       "summary": "[Mozambique News Reports And Clippings] Two large companies with a long history in Mozambique are in court battles with the government, challenging Frelimo attempts to ensure foreign trade…"
     },
     {
+      "title": "Africa: CAF Awards - Osimhen, Lookman Missing As Nigeria Gets Zero Nominations in Men's Categories",
+      "link": "https://allafrica.com/stories/202611040661.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T17:16:22.000Z",
+      "summary": "[Premium Times] No Nigerian player, goalkeeper, coach, club or national team features in any of the seven men's categories announced by CAF."
+    },
+    {
       "title": "Ivory Coast: Costly funeral traditions make death a big business",
       "link": "http://www.africanews.com/2026/11/04/ivory-coast-costly-funeral-traditions-make-death-a-big-business/",
       "source": "Africanews",
@@ -1414,11 +1504,11 @@ window.GDC_NEWS = {
       "summary": "where families are expected to say goodbye to their loved ones with massive music-fuelled feasts, despite the costs."
     },
     {
-      "title": "Africa: Africa Heads to COP31 Fighting for Climate Finance and Control of its Resources",
-      "link": "https://allafrica.com/stories/202611040557.html",
+      "title": "Nigeria: Cheap Version of Breakthrough HIV Prevention Shot Approved",
+      "link": "https://allafrica.com/stories/202611040645.html",
       "source": "AllAfrica",
-      "published": "2026-11-04T15:18:40.000Z",
-      "summary": "[Bird Story Agency] Negotiators from the continent say the real contest at the UN climate talks is over money, minerals and who gets to profit from the energy transition. But before African…"
+      "published": "2026-11-04T16:56:51.000Z",
+      "summary": "[Daily Trust] The US Food and Drug Administration on Monday approved a low-cost version of a twice-yearly HIV prevention shot, bringing the breakthrough drug closer to market in low-income…"
     },
     {
       "title": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
@@ -1427,6 +1517,13 @@ window.GDC_NEWS = {
       "published": "2026-11-04T15:18:03.000Z",
       "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg"
+    },
+    {
+      "title": "Africa: Africa Heads to COP31 Fighting for Climate Finance and Control of its Resources",
+      "link": "https://allafrica.com/stories/202611040557.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T15:18:40.000Z",
+      "summary": "[Bird Story Agency] Negotiators from the continent say the real contest at the UN climate talks is over money, minerals and who gets to profit from the energy transition. But before African…"
     },
     {
       "title": "Africa's shifting role in the global drug trade",
@@ -1450,11 +1547,11 @@ window.GDC_NEWS = {
       "summary": "[Tunis Afrique Presse] Tunis/Tunisia -- The Economic Commission for Africa (ECA) is supporting Tunisia in leveraging expat remittances for productive investment and the development of new…"
     },
     {
-      "title": "Ethiopia: Renewed Fighting in Ethiopia Forces Families to Flee Again in Tigray, Displaces Thousands in Amhara",
-      "link": "https://allafrica.com/stories/202611040531.html",
+      "title": "Algeria: President Tebboune Receives Greetings From Foreign Leaders, International Bodies",
+      "link": "https://allafrica.com/stories/202611040534.html",
       "source": "AllAfrica",
-      "published": "2026-11-04T15:08:29.000Z",
-      "summary": "[Addis Standard] Addis Abeba -- Renewed hostilities in northern Ethiopia have forced families who had recently returned to their homes in Tigray to flee again, while thousands of people are…"
+      "published": "2026-11-04T15:09:54.000Z",
+      "summary": "[Algerie Presse Service] Algiers -- The President of the Republic, Abdelmadjid Tebboune, has received messages of greetings from monarchs, presidents of brotherly and friendly countries and…"
     },
     {
       "title": "Senegal's National Assembly rejects key budget bill after heated disputes",
@@ -1464,11 +1561,11 @@ window.GDC_NEWS = {
       "summary": "Senegal's National Assembly, which is dominated by the opposition, rejected a key budget bill Tuesday, a text that was seen as crucial to restoring public finances as the country finalises…"
     },
     {
-      "title": "Kenya/Senegal: Dakar 2026 - Kenyan David Kapaiko Goes from Herding Cattle to Chasing Gold in Dakar",
-      "link": "https://allafrica.com/stories/202611040442.html",
+      "title": "Kenya: High Court Orders Police to Produce Missing Lawyer Abshir Abdi 'Dead or Alive'",
+      "link": "https://allafrica.com/stories/202611040533.html",
       "source": "AllAfrica",
-      "published": "2026-11-04T13:05:17.000Z",
-      "summary": "[Bird Story Agency] Kenyan runner David Kapaiko once trained barefoot at school while balancing lessons with herding his father's cattle. Now the 16-year-old is preparing to race in the 800…"
+      "published": "2026-11-04T15:09:10.000Z",
+      "summary": "[Capital FM] Nairobi -- The High Court has ordered police and other State agencies to produce missing Nairobi lawyer Abshir Ahmedsadak Abdi before it, dead or alive, and explain why he…"
     },
     {
       "title": "South Africa: Voters Demand Water, Electricity and Dignity As Ramaphosa Heads to Polls",
@@ -1478,11 +1575,11 @@ window.GDC_NEWS = {
       "summary": "[Scrolla] Voters at Hyde Park High School in Johannesburg want the local government elections to bring better services, safer communities and leaders who listen. Gloria Chabalala brought…"
     },
     {
-      "title": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future",
-      "link": "https://allafrica.com/stories/202611040426.html",
+      "title": "Ethiopia: Renewed Fighting in Ethiopia Forces Families to Flee Again in Tigray, Displaces Thousands in Amhara",
+      "link": "https://allafrica.com/stories/202611040531.html",
       "source": "AllAfrica",
-      "published": "2026-11-04T12:56:15.000Z",
-      "summary": "[allAfrica] Dakar -- African women's rugby made its mark at the Dakar 2026 Youth Olympic Games. At the Iba Mar Diop complex, Kenya secured gold after a spectacular final against Australia…"
+      "published": "2026-11-04T15:08:29.000Z",
+      "summary": "[Addis Standard] Addis Abeba -- Renewed hostilities in northern Ethiopia have forced families who had recently returned to their homes in Tigray to flee again, while thousands of people are…"
     },
     {
       "title": "South Africa: Exclusion from AGOA does not mean end of trade with US",
@@ -1492,11 +1589,11 @@ window.GDC_NEWS = {
       "summary": "Experts say only about 10 per cent of South Africa’s exports to the US are currently subject to AGOA, representing about 1 per cent of it total global exports."
     },
     {
-      "title": "Ethiopia/Senegal: Dakar 2026 - Ethiopian Elsabet Amare Takes Her Racing Dreams from Injibara to Dakar",
-      "link": "https://allafrica.com/stories/202611040398.html",
+      "title": "Ethiopia: Ethiopia Expels Sudanese Diplomats As Regional Tensions Deepen",
+      "link": "https://allafrica.com/stories/202611040529.html",
       "source": "AllAfrica",
-      "published": "2026-11-04T12:25:50.000Z",
-      "summary": "[Bird Story Agency] Inspired by her father and Ethiopian distance-running great Meseret Defar, 17-year-old Elsabet Amare is preparing to represent her country at the Dakar 2026 Youth…"
+      "published": "2026-11-04T15:07:20.000Z",
+      "summary": "[Addis Standard] Addis Abeba -- Ethiopia has ordered six Sudanese diplomatic staff members to leave the country within 48 hours, a senior Ethiopian official told Reuters on Wednesday…"
     },
     {
       "title": "Kenya’s Phoebe Okowa elected to International Court of Justice",
@@ -1506,11 +1603,25 @@ window.GDC_NEWS = {
       "summary": "Okowa won 183 votes in the General Assembly and 13 in the Security Council. She is a professor of public international law at Queen Mary University of London and has served on the UN’s…"
     },
     {
+      "title": "Kenya: DPP Opposes Bail for Dusit D2 Convict, Citing Failure to Demonstrate Exceptional Circumstances",
+      "link": "https://allafrica.com/stories/202611040528.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T15:06:57.000Z",
+      "summary": "[Capital FM] Nairobi -- The Director of Public Prosecutions (DPP) has opposed the release on bail of one of the men convicted in the 2019 Dusit D2 terror attack, arguing that he has failed…"
+    },
+    {
       "title": "Zimbabwe: Government Warns Trade Unions Over Compliance",
       "link": "https://allafrica.com/stories/202611040363.html",
       "source": "AllAfrica Business",
       "published": "2026-11-04T11:47:57.000Z",
       "summary": "[263Chat] The government has warned that it will suspend trade unions that fail to comply with labour laws after a verification exercise found that seven of the 38 affiliates of the…"
+    },
+    {
+      "title": "Kenya/Senegal: Dakar 2026 - Kenyan David Kapaiko Goes from Herding Cattle to Chasing Gold in Dakar",
+      "link": "https://allafrica.com/stories/202611040442.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T13:05:17.000Z",
+      "summary": "[Bird Story Agency] Kenyan runner David Kapaiko once trained barefoot at school while balancing lessons with herding his father's cattle. Now the 16-year-old is preparing to race in the 800…"
     },
     {
       "title": "ANC under pressure to reverse South Africa decline",
@@ -1521,11 +1632,25 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "title": "Africa: Dakar 2026 Youth Olympic Games - Kenya on Top, Madagascar on Podium, Senegal Looks to Future",
+      "link": "https://allafrica.com/stories/202611040426.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T12:56:15.000Z",
+      "summary": "[allAfrica] Dakar -- African women's rugby made its mark at the Dakar 2026 Youth Olympic Games. At the Iba Mar Diop complex, Kenya secured gold after a spectacular final against Australia…"
+    },
+    {
       "title": "Zimbabwe: One Dead, Three Injured in Shurugwi Mine Violence",
       "link": "https://allafrica.com/stories/202611040362.html",
       "source": "AllAfrica Business",
       "published": "2026-11-04T11:47:39.000Z",
       "summary": "[263Chat] One person has died, three others have been injured and five excavators have been set on fire following an outbreak of violence at Chenxi Mine Site Four in the Wanderer mining…"
+    },
+    {
+      "title": "Ethiopia/Senegal: Dakar 2026 - Ethiopian Elsabet Amare Takes Her Racing Dreams from Injibara to Dakar",
+      "link": "https://allafrica.com/stories/202611040398.html",
+      "source": "AllAfrica",
+      "published": "2026-11-04T12:25:50.000Z",
+      "summary": "[Bird Story Agency] Inspired by her father and Ethiopian distance-running great Meseret Defar, 17-year-old Elsabet Amare is preparing to represent her country at the Dakar 2026 Youth…"
     },
     {
       "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
@@ -1555,133 +1680,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-11-04T11:17:19.000Z",
       "summary": "[Ghanaian Times] THE Narcotics Control Commission (NACOC) has intensified efforts to dismantle an international drug trafficking network following the arrest of a Syrian national in Lebanon…"
-    },
-    {
-      "title": "Ghana: Keta Gets Two New Chps Compounds to Improve Healthcare",
-      "link": "https://allafrica.com/stories/202611040344.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T11:21:42.000Z",
-      "summary": "[Ghanaian Times] The Volta Regional Minister, Mr James Gunu, has inaugurated two newly constructed Community-based Health Planning and Services (CHPS) compounds at Seva and…"
-    },
-    {
-      "title": "Niger signs cooperation deal with military leader in eastern Libya",
-      "link": "http://www.africanews.com/2026/11/04/niger-signs-cooperation-deal-with-military-leader-in-eastern-libya/",
-      "source": "Africanews",
-      "published": "2026-11-04T11:13:40.000Z",
-      "summary": "The agreement to expand cooperation in “various fields” was approved by Nigerien Prime Minister Ali Maha-man Lamine Zeine during a visit to Benghazi."
-    },
-    {
-      "title": "Uganda: Bus Operators Hike Fares, Warn of More Increases in December",
-      "link": "https://allafrica.com/stories/202611040333.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T11:09:16.000Z",
-      "summary": "[Nile Post] Bus operators in Kampala have increased transport fares following a sharp rise in fuel prices, adding to the cost of travel for passengers heading to different parts of the…"
-    },
-    {
-      "title": "Wawira Njirum, Kenya's school feeder and German Africa Prize recipient",
-      "link": "https://www.dw.com/en/wawira-njirum-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-04T10:53:00.000Z",
-      "summary": "From a small fundraiser to a major enterprise, Wawira Njiru's Kenyan school feeding scheme has been more successful than she ever thought possible. She's now being awarded the German Africa…"
-    },
-    {
-      "title": "Somalia: Somalia Condemns Israel's Appointment of Ambassador to Hargeisa, Embassy Construction Move",
-      "link": "https://allafrica.com/stories/202611040327.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T11:03:47.000Z",
-      "summary": "[Shabelle] Mogadishu -- Somalia's Ministry of Foreign Affairs and International Cooperation has strongly condemned Israel's reported appointment of an ambassador to Hargeisa and the laying…"
-    },
-    {
-      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-11-04T10:35:03.000Z",
-      "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/65242520-d810-11f1-bc0e-b5a9e0785e4b.jpg"
-    },
-    {
-      "title": "Kenya: Jubilee Takes Investment Advisory Services to Mt. Kenya Region",
-      "link": "https://allafrica.com/stories/202611040319.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T10:58:34.000Z",
-      "summary": "[Capital FM] Nairobi -- Jubilee Asset Management Limited has opened a financial advisory centre in Meru, expanding its services to the Mt. Kenya and Upper Eastern regions."
-    },
-    {
-      "title": "South Africans vote in local elections in test for ANC",
-      "link": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-04T10:13:00.000Z",
-      "summary": "Failing public services, corruption and high crime rates have led to growing frustration among South African voters. That could lead to further losses for the ANC."
-    },
-    {
-      "title": "Kenya: Bamburi Pushes for Low-Carbon Cement in Public Infrastructure Projects",
-      "link": "https://allafrica.com/stories/202611040318.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T10:58:14.000Z",
-      "summary": "[Capital FM] Nairobi -- Bamburi Cement is pushing for the adoption of low-carbon cement in public infrastructure projects, seeking to expand demand for environmentally friendly building…"
-    },
-    {
-      "title": "Sudan: 'This Is Not About Politics. This Is About People' - UN Warns of Impact of Deadly Drone Strikes in Sudan",
-      "link": "https://allafrica.com/stories/202611040185.html",
-      "source": "AllAfrica",
-      "published": "2026-11-04T09:14:33.000Z",
-      "summary": "[UN News] Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of…"
-    },
-    {
-      "title": "Malawi: Malawian Alexander Matambo Named UK Future Leader At 2026 Ethnicity Awards",
-      "link": "https://allafrica.com/stories/202611040317.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T10:57:11.000Z",
-      "summary": "[Nyasa Times] Malawian professional Alexander Matambo has been named Future Leader at the 2026 Ethnicity Awards, a national ceremony in Britain that honours contributions to inclusion…"
-    },
-    {
-      "title": "South Africa: South Africans Head to Polls to Elect Local Government Leaders",
-      "link": "https://allafrica.com/stories/202611040161.html",
-      "source": "AllAfrica",
-      "published": "2026-11-04T07:37:06.000Z",
-      "summary": "[SAnews.gov.za] Eligible South Africans will today head to voting stations across the country to cast their votes in the 2026 Local Government Elections."
-    },
-    {
-      "title": "Malawi: Malawi Unveils Electric Mobility and Net-Metering Regulations",
-      "link": "https://allafrica.com/stories/202611040315.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T10:56:10.000Z",
-      "summary": "[Nyasa Times] Malawi has introduced its first regulatory framework for electric mobility and new rules governing net metering, in a move aimed at accelerating the adoption of clean energy…"
-    },
-    {
-      "title": "US requires air passengers to attest they haven’t visited Ebola-hit DRC",
-      "link": "http://www.africanews.com/2026/11/04/us-requires-air-passengers-to-attest-they-havent-visited-ebola-hit-drc/",
-      "source": "Africanews",
-      "published": "2026-11-04T06:57:09.000Z",
-      "summary": "US-bound air passengers must sign a statement that they have not travelled to the Democratic Republic of Congo, the epicentre of a deadly Ebola outbreak, under new rules coming into force…"
-    },
-    {
-      "title": "Mozambique: Mozambique and Qatar Interested in Strengthening Cooperation in Labour",
-      "link": "https://allafrica.com/stories/202611040286.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T10:20:12.000Z",
-      "summary": "[AIM] Maputo -- The governments of Mozambique and Qatar have expressed interest in strengthening economic and labour cooperation, including the recruitment of Mozambican workers to the Gulf…"
-    },
-    {
-      "title": "Nigeria: APC Group Questions Imo Council Poll Suspension, Warns Against Anti-Party Activities",
-      "link": "https://allafrica.com/stories/202611040160.html",
-      "source": "AllAfrica",
-      "published": "2026-11-04T06:44:41.000Z",
-      "summary": "[Vanguard] The APC South East Integrity Movement has called on Governor Hope Uzodimma to explain the indefinite postponement of local government elections in Imo State, particularly after…"
-    },
-    {
-      "title": "Tanzania: Mining Sector Accelerates Growth Through Reforms, Investment",
-      "link": "https://allafrica.com/stories/202611040238.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T09:51:12.000Z",
-      "summary": "[Daily News] Arusha -- THE Ministry of Minerals has collected 411bn/- in the first quarter of the 2026/27 financial year, exceeding its revenue target by 17 per cent and reflecting progress…"
-    },
-    {
-      "title": "Nigeria: Nimasa Threatens Sanctions Over Missing Marine Incident Reports",
-      "link": "https://allafrica.com/stories/202611040157.html",
-      "source": "AllAfrica",
-      "published": "2026-11-04T06:44:39.000Z",
-      "summary": "[Vanguard] The Nigerian Maritime Administration and Safety Agency (NIMASA) has threatened sanctions against Port Facility Security Officers (PFSOs) who fail to properly report marine…"
     }
   ]
 };
