@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-04T08:01:24.424Z",
+  "updated": "2026-11-04T16:10:17.299Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,298 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Beyond oil and gold: Ghana and Saudi Arabia build a new era of economic cooperation",
+      "link": "https://www.myjoyonline.com/beyond-oil-and-gold-ghana-and-saudi-arabia-build-a-new-era-of-economic-cooperation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T16:05:17.000Z",
+      "summary": "The future of investment is no longer shaped by capital alone. It is increasingly shaped by strategic partnerships, policy credibility, and countries’ ability to connect opportunity with…",
+      "categories": [
+        "Business",
+        "Features",
+        "Crude Oil",
+        "Ghana",
+        "GIPA",
+        "Gold",
+        "Saudi Arabia",
+        "Simon Madjie"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/model-markets-to-keep-foreigners-1-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dafeamekpor calls for insurance cover for all government vehicles",
+      "link": "https://www.myjoyonline.com/dafeamekpor-calls-for-insurance-cover-for-all-government-vehicles/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T16:01:58.000Z",
+      "summary": "Majority Chief Whip Rockson-Nelson Dafeamekpor has called for all government vehicles, particularly those operated by ministries, Parliament and other public institutions, to be covered by…",
+      "categories": [
+        "National",
+        "Government vehicles",
+        "Insurance",
+        "Parliament",
+        "Road crashes"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-04-at-15.43.29-1024x566.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sack NACOC, GACL bosses over drug trafficking failures – Nana B",
+      "link": "https://www.myjoyonline.com/sack-nacoc-gacl-bosses-over-drug-trafficking-failures-nana-b/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T16:01:30.000Z",
+      "summary": "The newly elected National Second Vice Chairman of the New Patriotic Party (NPP), Henry Nana Boakye, has called for the dismissal of the leadership of the Narcotics Control Commission…",
+      "categories": [
+        "HP News 1",
+        "Politics",
+        "Cocaine",
+        "Ghana",
+        "Nana B",
+        "NPP"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/12/Henry-Nana-Boakye.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s next investment chapter: Turning recovery into resilience",
+      "link": "https://www.myjoyonline.com/ghanas-next-investment-chapter-turning-recovery-into-resilience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T15:57:49.000Z",
+      "summary": "RMB’s assessment covers 31 African economies and evaluates 20 indicators across economic performance and potential, market accessibility and innovation, economic stability and investment…",
+      "categories": [
+        "Business",
+        "Comp. Opinion",
+        "HP Opinion 1",
+        "FNB",
+        "GDP",
+        "RMB"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-09.56.17.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "There’s a coordinated autocratic abuse of power intended to silence our voices – Minority cries out",
+      "link": "https://www.myjoyonline.com/theres-a-coordinated-autocratic-abuse-of-power-intended-to-silence-our-voices-minority-cries-out/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T15:53:58.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has accused the government of using state power to intimidate and silence opposition members, describing the alleged conduct as a coordinated abuse…",
+      "categories": [
+        "National",
+        "News",
+        "Politics",
+        "Top Story",
+        "Alexander Afenyo-Markin",
+        "Minority"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Minority.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "NRSA directs road agencies to fix faulty traffic lights, missing signs as TraffiTech enforcement begins",
+      "link": "https://www.myjoyonline.com/nrsa-directs-road-agencies-to-fix-faulty-traffic-lights-missing-signs-as-traffitech-enforcement-begins/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T15:43:25.000Z",
+      "summary": "The National Road Safety Authority (NRSA) has directed the Ghana Highway Authority and the Department of Urban Roads to urgently repair faulty traffic lights, replace missing road signs and…",
+      "categories": [
+        "National",
+        "NRSA",
+        "road agencies",
+        "TraffiTech"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/09/damages-traffic-light.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sew or buy? The Christmas outfit dilemma facing Ghanaians",
+      "link": "https://www.myjoyonline.com/sew-or-buy-the-christmas-outfit-dilemma-facing-ghanaians/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T15:42:58.000Z",
+      "summary": "With Christmas approaching, the familiar question of what to wear for the festivities is once again taking shape for many Ghanaians: should they buy ready-made clothes or have a seamstress…",
+      "categories": [
+        "Fashion",
+        "Features",
+        "National",
+        "Christmas outfit",
+        "outfit dilemma",
+        "Sew or buy"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-15.18.51-683x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Crude oil to average $79 per barrel in 2027 – World Bank",
+      "link": "https://www.myjoyonline.com/crude-oil-to-average-79-per-barrel-in-2027-world-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T15:28:19.000Z",
+      "summary": "According to the report, global oil consumption is anticipated to contract by 2.5% in 2026, the third-largest decline on record, after the pandemic year of 2020 and the oil market turmoil…",
+      "categories": [
+        "Business",
+        "Energy",
+        "2026 Commodity Prices Outlook",
+        "China",
+        "Crude Oil",
+        "EVs",
+        "World Bank"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/World-Bank-new-1024x614.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Strong winds uproot historic tree Okomfo Anokye planted many years ago at Agona",
+      "link": "https://www.graphic.com.gh/news/general-news/strong-winds-uproot-historic-tree-okomfo-anokye-planted-many-years-ago.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T15:17:10.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/anokye_tree.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "48-hour ultimatum: AMA orders traders to vacate Accra bus stops",
+      "link": "https://www.graphic.com.gh/news/general-news/48-hour-ultimatum-ama-orders-traders-to-vacate-accra-bus-stops.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T15:06:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/02/IMG_0460_2.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Antoine Semenyo nominated for 2026 CAF Player of the Year",
+      "link": "https://www.graphic.com.gh/sports/sports-news/antoine-semenyo-nominated-for-2026-caf-player-of-the-year.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-04T13:50:22.000Z",
+      "summary": "The 26-year-old, who joined Premier League champions Manchester City in January from Bournemouth, recorded 15 goals and eight assists in 42 appearances across club and international…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Report suspicious activities to fight cybercrime – CSA boss urges Ghanaians",
+      "link": "https://www.graphic.com.gh/news/general-news/report-suspicious-activities-to-fight-cybercrime-csa-boss-urges-ghanaians.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T13:28:05.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "140 golfers set for 5th Head of State Invitational Golf Tournament at Achimota",
+      "link": "https://www.graphic.com.gh/sports/sports-news/140-golfers-set-for-5th-head-of-state-invitational-golf-tournament-at-achimota.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-04T13:02:48.000Z",
+      "summary": "The tournament, which was officially launched at the Achimota Golf Clubhouse, is held in honour of President John Dramani Mahama under the theme \"Driving National Growth Through Leadership…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Ghana's inflation rises for third straight month as services costs soar",
+      "link": "https://www.graphic.com.gh/news/general-news/ghanas-inflation-rises-for-third-straight-month-as-services-costs-soar.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T12:34:13.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2024/nov/02/inflation24.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "'I want justice': Mother of slain teen Javits Frimpong off to New York to bury son",
+      "link": "https://www.graphic.com.gh/news/general-news/i-want-justice-mother-of-slain-teen-javits-frimpong-arrives-in-new-york-to-bury-son.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T12:16:15.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "2 foreign nationals arrested in Ghana in connection with Beirut 46.7 kg cocaine bust",
+      "link": "https://www.graphic.com.gh/news/general-news/3-foreign-nationals-arrested-in-ghana-in-connection-with-beirut-cocaine-bust.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T12:03:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/02/lebanon.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana’s Caleb Yirenkyi battles 9 others for CAF Young Player honour",
+      "link": "https://www.graphic.com.gh/sports/sports-news/ghanas-caleb-yirenkyi-battles-9-others-for-caf-young-player-honour.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-04T11:32:51.000Z",
+      "summary": "The 20-year-old earned the nomination after impressive performances for Danish side FC Nordsjælland, which secured him a move to English Premier League club Coventry City. He also made a…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Rickshaw rider who was hired to pick 3-year-old girl from school but defiled her on the way home jailed 14 years",
+      "link": "https://www.graphic.com.gh/news/general-news/wa-high-court-jails-tricycle-rider-14-years-for-defiling-3-year-old-girl-he-was-hired-to-take-to-school.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T10:17:19.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/04/IMG_3726.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Albert Kungmaa Ziem appointed Director Finance of Graphic",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ziem-appointed-director-finance-of-graphic.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-04T09:18:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/04/Ziem.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "115 Ga-Adangme students receive full tertiary scholarships",
+      "link": "https://ghanaiantimes.com.gh/115-ga-adangme-students-receive-full-tertiary-scholarships/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T08:03:43.000Z",
+      "summary": "A total of 115 needy but brilliant tertiary students from the Ga-Adangme State have been awarded full scholarships under a joint initiative by the RNAQ Foundation and the Mantse Foundation…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Keta gets 2 new CHPS compounds to improve healthcare",
+      "link": "https://ghanaiantimes.com.gh/keta-gets-2-new-chps-compounds-to-improve-healthcare/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T08:02:04.000Z",
+      "summary": "The Volta Regional Minister, Mr James Gunu, has inaugurated two newly constructed Community-based Health Planning and Services (CHPS) compounds at Seva and Tengeykope-Anyrawase in the Keta…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/Keta-gets-2-new-CHPS-compounds-xxxxx-1024x460.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "GPHA Fire and Safety, LCB Worldwide win 2026 Corporate Games",
       "link": "https://ghanaiantimes.com.gh/gpha-fire-and-safety-lcb-worldwide-win-2026-corporate-games/",
@@ -97,174 +389,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Tenerife striker De Miguel dies after collision in match",
-      "link": "https://ghanaiantimes.com.gh/tenerife-striker-de-miguel-dies-after-collision-in-match/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T07:51:23.000Z",
-      "summary": "Tenerife striker, Jesus de Miguel, died yesterday at the age of 30, a day after suffering a cardiac arrest following a collision during a match, the ‌Spanish second-tier club said. The…",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fixtures",
-      "link": "https://ghanaiantimes.com.gh/fixtures-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T07:49:56.000Z",
-      "summary": "AEK Athens vs. Real Madrid Slavia Prague vs. Arsenal RB Leipzig vs. Man City Porto vs. Napoli Lens vs. Como PSV vs. Brugge Dortmund vs. Betis Viking FK vs. Sabah",
-      "categories": [
-        "Foriegn"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Football world mourns Tenerife striker De Miguel",
-      "link": "https://www.myjoyonline.com/football-world-mourns-tenerife-striker-de-miguel/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T06:07:51.000Z",
-      "summary": "The world of football has come together to mourn the death of Tenerife striker Jesus de Miguel. The forward suffered head and chest injuries in a heavy collision with goalkeeper Jesus Owono…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 4",
-        "Sports",
-        "Jesus de Miguel",
-        "Spain",
-        "Sport",
-        "Tenerife"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/c4dd6bc0-d7d4-11f1-a701-fddedf244c16.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Champions League: Inter win comfortably in Feyenoord",
-      "link": "https://www.myjoyonline.com/champions-league-inter-win-comfortably-in-feyenoord/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T06:02:26.000Z",
-      "summary": "Inter Milan bounced back from their derby defeat with a comfortable Champions League victory over Feyenoord. Inter’s unbeaten start to the Serie A season came to an end at the San Siro on…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 3",
-        "Sports",
-        "Feyenoord",
-        "Inter",
-        "Inter Milan",
-        "UCL",
-        "UEFA Champions League"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/b9e09410-d7c8-11f1-a719-bf3dc3a3d5b5.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Democrats take control of US Congress as voters reject Trump’s Republicans",
-      "link": "https://www.myjoyonline.com/democrats-take-control-of-us-congress-as-voters-reject-trumps-republicans/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T05:51:24.000Z",
-      "summary": "President Donald Trump told voters to pretend he was on the ballot in this year’s midterm elections.",
-      "categories": [
-        "HP News 7",
-        "International",
-        "Democrats",
-        "Republicans",
-        "Trump",
-        "US"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/8cde2f80-d80a-11f1-915d-779ac405bbbc.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cocoa farmers hope for March recovery after season starts poorly",
-      "link": "https://www.myjoyonline.com/cocoa-farmers-hope-for-march-recovery-after-season-starts-poorly/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T05:42:00.000Z",
-      "summary": "Cocoa farmers hope for a recovery in March harvests after a poor start to the season, driven by heavy rains in some areas and drought in others.",
-      "categories": [
-        "National",
-        "Cocoa",
-        "El Nino"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-3001-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Afua Asantewaa demands justice for Ghanaian teenager shot dead in New York",
-      "link": "https://www.myjoyonline.com/afua-asantewaa-demands-justice-for-ghanaian-teenager-shot-dead-in-new-york/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T05:33:00.000Z",
-      "summary": "Afua Asantewaa O. Aduonum has called for justice for Javits Badu Nkansah Frimpong, a 15-year-old Ghanaian student who was fatally shot in the Bronx, New York.",
-      "categories": [
-        "Music",
-        "National",
-        "Afua Asantewaa",
-        "Javits Frimpong"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2761.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Why not? I wouldn’t have minded’ – Fifi Kwetey on accepting a government role",
-      "link": "https://www.myjoyonline.com/why-not-i-wouldnt-have-minded-fifi-kwetey-on-accepting-a-government-role/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T05:23:00.000Z",
-      "summary": "NDC General Secretary Fifi Fiavi Kwetey says he would have accepted a government appointment, provided it was not a full-time role that would limit his work for the party.",
-      "categories": [
-        "Politics",
-        "Fifi Kwetey",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/i-do-what-i-believe-is-right-for-6.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fidelity Bank becomes Ghana’s only bank to achieve 2X Certified Advanced status for gender-smart finance",
-      "link": "https://www.myjoyonline.com/fidelity-bank-becomes-ghanas-only-bank-to-achieve-2x-certified-advanced-status-for-gender-smart-finance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T05:05:00.000Z",
-      "summary": "Fidelity Bank Ghana has achieved 2X Certified Advanced status, becoming the only bank in Ghana to attain this distinction and reinforcing its commitment to advancing gender-smart finance…",
-      "categories": [
-        "Banking and Finance",
-        "2X Certified Advanced status",
-        "Atta Yeboah Gyan",
-        "Fidelity Bank Ghana",
-        "gender-smart finance"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/08/Atta-Yeboah-Gyan-Deputy-MD-Fidelity-Bank-scaled-1024x856.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asiedu Nketia has earned the right to contest for president — Fifi Kwetey",
-      "link": "https://www.myjoyonline.com/asiedu-nketia-has-earned-the-right-to-contest-for-president-fifi-kwetey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T05:02:00.000Z",
-      "summary": "The General Secretary of the National Democratic Congress (NDC), Fifi Kwetey, has thrown his weight behind the right of the party’s National Chairman, Johnson Asiedu Nketia, to contest the…",
-      "categories": [
-        "HP News 4",
-        "News",
-        "Politics",
-        "Asiedu Nketia",
-        "NDC",
-        "President"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/NDC5.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hamile border explosion, death toll increases to four, 10 injured in clashes",
-      "link": "https://www.graphic.com.gh/news/general-news/explosion-on-the-border-in-hamile-leaves-4-dead-10-injured-in-clashes.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T21:18:19.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Amputee Football World Cup: GFA unveils $500,000 Gold Fields deal for Black Challenge",
       "link": "https://www.graphic.com.gh/sports/sports-news/amputee-football-world-cup-gfa-unveils-500-000-gold-fields-deal-for-black-challenge.html",
       "source": "Graphic Sports",
@@ -313,42 +437,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Parliament will resist attempts to fast-track Bills without scrutiny - Speaker Bagbin assures",
-      "link": "https://www.graphic.com.gh/news/politics/parliament-will-resist-attempts-to-fast-track-bills-without-scrutiny-speaker-bagbin-assures.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T18:35:13.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/IMG_5766.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Minority MPs walk out in solidarity with Abu Jinapor after Speaker ordered Marshall to walk him out over allegation not backed by evidence on the floor",
-      "link": "https://www.graphic.com.gh/news/politics/minority-mps-walk-out-of-parliament-in-solidarity-with-abu-jinapor.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T17:51:28.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/IMG_5764.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hamile explosion: Immigration officer dead, another hospitalised",
-      "link": "https://www.graphic.com.gh/news/general-news/hamile-explosion-immigration-officer-dead-another-hospitalised.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T16:44:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
       "title": "Omenaa Mensah unveils modern sport & art campus for Tema youth",
       "link": "https://www.graphic.com.gh/sports/sports-news/omenaa-mensah-unveils-modern-sport-art-campus-for-tema-youth.html",
       "source": "Graphic Sports",
@@ -358,90 +446,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Spanish Police probe involuntary manslaughter after footballer dies in horror collision",
-      "link": "https://www.graphic.com.gh/sports/sports-news/spanish-police-probe-involuntary-manslaughter-after-footballer-dies-in-horror-collision.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-03T15:54:11.000Z",
-      "summary": "Tenerife forward Jesús de Miguel, 30, died after suffering a cardiac arrest from the collision during a match against Andorra on Monday. De Miguel was challenging for the ball near midfield…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Dr Kpikpi calls for independent probe into South Africa evacuation funds",
-      "link": "https://www.graphic.com.gh/news/politics/dr-kpikpi-demands-independent-probe-into-south-africa-evacuation-funds.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T15:07:43.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Minority files motion asking Speaker Bagbin to review ruling on proposal for probe on Ghana-linked cocaine seizures",
-      "link": "https://www.graphic.com.gh/news/politics/minority-files-motion-to-asking-speaker-bagbin-to-review-ruling-on-proposal-for-probe-on-ghana-linked-cocaine-seizures.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T14:54:56.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Aug/Afenyo-Markin.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama joins Commonwealth leaders for CHOGM 2026 in Antigua and Barbuda",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-joins-commonwealth-leaders-for-chogm-2026-in-antigua-and-barbuda.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T14:43:55.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/07/MYHAMAR.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Public sector pay: Dr Kpikpi calls for review of Article 71 benefits",
-      "link": "https://www.graphic.com.gh/news/politics/public-sector-pay-dr-kpikpi-calls-for-review-of-article-71-benefits.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-03T14:15:17.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "VIDEO: Spanish striker De Miguel dies after on-field collision with goalkeeper",
-      "link": "https://www.graphic.com.gh/sports/sports-news/spanish-footballer-dies-after-collision-with-goalkeeper-during-match.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-03T09:55:35.000Z",
-      "summary": "The forward suffered head and chest injuries during a match against FC Andorra on Monday, in a heavy collision with goalkeeper Jesus Owono, who was sent off for his challenge. De Miguel's…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/Miguel.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Japan Ambassador’s Championship drives grassroots interest in martial arts",
-      "link": "https://www.graphic.com.gh/sports/sports-news/japan-ambassadors-championship-drives-grassroots-interest-in-martial-arts.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-02T15:39:47.000Z",
-      "summary": "Competition They made the remarks at the 2026 Japanese Ambassador’s Championship in Accra. It featured competitions in judo, karate, jiu-jitsu and kendo, with participants battling for…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/JAPAN_AMBASSADOR.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
