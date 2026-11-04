@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-04T01:41:01.437Z",
+  "updated": "2026-11-04T08:01:24.424Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,127 +25,231 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Cybersecurity gaps could expose Traffitech users to fraud — Technology Consultant",
-      "link": "https://www.myjoyonline.com/cybersecurity-gaps-could-expose-traffitech-users-to-fraud-technology-consultant/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T01:05:53.000Z",
-      "summary": "Technology consultant Maximus Amertogoh has called on the Ghana Police Service to strengthen cybersecurity safeguards around its newly introduced Traffitech-GH system, warning that…",
+      "title": "GPHA Fire and Safety, LCB Worldwide win 2026 Corporate Games",
+      "link": "https://ghanaiantimes.com.gh/gpha-fire-and-safety-lcb-worldwide-win-2026-corporate-games/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:59:48.000Z",
+      "summary": "The Ghana Ports and Harbours Authority (GPHA) Fire and Safety Team and LCB Worldwide Ghana have emerged champions of the Tema and Accra Zones, respectively, of the 2026 LCB Corporate Games…",
       "categories": [
-        "News",
-        "Technology",
-        "Cybersecurity",
-        "Police",
-        "Tech",
-        "Traffitec",
-        "Traffitech-GH"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Maximus-Ametorgoh-e1793754356903.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Diplomatic passport row rocks Parliament as Minority stages walkout",
-      "link": "https://www.myjoyonline.com/diplomatic-passport-row-rocks-parliament-as-minority-stages-walkout/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T00:21:33.000Z",
-      "summary": "Parliament was thrown into a tense confrontation on Tuesday, November 3, after Speaker Alban Bagbin ordered the Member of Parliament for Damongo, Samuel Abu Jinapor, out of the chamber…",
+      "title": "GFA delegation visits Koforidua City FC accident victims",
+      "link": "https://ghanaiantimes.com.gh/gfa-delegation-visits-koforidua-city-fc-accident-victims/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:58:24.000Z",
+      "summary": "The Director of the Ghana Football Association (GFA) Foundation, Malcolm Frazier Appeadu, and Chairman of the Eastern Regional Football Association (RFA), Mr Linford Asamoah Boadu, have…",
       "categories": [
-        "HP News 6",
-        "National",
-        "News",
-        "monority",
-        "Passport"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-5.44.03-PM-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Hamile explosion: Air Force team deployed to airlift injured immigration officer to Accra – Muntaka",
-      "link": "https://www.myjoyonline.com/hamile-explosion-air-force-team-deployed-to-airlift-injured-immigration-officer-to-accra-muntaka/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T23:55:00.000Z",
-      "summary": "The government has mobilised the Ghana Air Force to evacuate an injured immigration officer from the Nandom Hospital to Accra for specialist treatment following an explosion at Hamile in…",
+      "title": "Black Maidens return home after FIFA U-17 World Cup exploits",
+      "link": "https://ghanaiantimes.com.gh/black-maidens-return-home-after-fifa-u-17-world-cup-exploits/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:57:18.000Z",
+      "summary": "The Black Maidens have returned home after an impressive performance at the FIFA U-17 Women’s World Cup Morocco 2026. The team arrived in Ghana on Monday following their quarter-final exit…",
       "categories": [
-        "HP News 3",
-        "National",
-        "News",
-        "Hamile explosion",
-        "Immigration"
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-3754-e1793750993500.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/President-Okraku-with-players-and-coaches-of-the-Black-Maidens.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "We don’t need to save anyone’s job, says Man Utd captain Fernandes",
-      "link": "https://www.myjoyonline.com/we-dont-need-to-save-anyones-job-says-man-utd-captain-fernandes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T23:43:00.000Z",
-      "summary": "Bruno Fernandes says Manchester United's players \"don't need to save anyone's job\" after their improbable comeback win against Roma in the Champions League.",
+      "title": "que leads tributes to Jesus de Miguel after tragic death",
+      "link": "https://ghanaiantimes.com.gh/que-leads-tributes-to-jesus-de-miguel-after-tragic-death/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:55:06.000Z",
+      "summary": "GERARD PIQUE has led the tributes to Jesus de Miguel Alameda, who has tragically died aged 30. The CD Tenerife star passed away yesterday following a horror clash with FC Andorra goalkeeper…",
       "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "McTominay returns to Scotland squad after heart surgery",
+      "link": "https://ghanaiantimes.com.gh/mctominay-returns-to-scotland-squad-after-heart-surgery/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:54:21.000Z",
+      "summary": "Scotland have recalled midfielder Scott McTominay, defender Kieran Tierney and striker Che Adams for this ‌month’s UEFA Nations League fixtures against North Macedonia and Switzerland, the…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Saliba returns to Arsenal training",
+      "link": "https://ghanaiantimes.com.gh/saliba-returns-to-arsenal-training/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:52:38.000Z",
+      "summary": "William Saliba has handed Arsenal a major boost by returning to first-team training ahead of their Champions League tie against Slavia Prague. The 25-year-old defender has been sidelined…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tenerife striker De Miguel dies after collision in match",
+      "link": "https://ghanaiantimes.com.gh/tenerife-striker-de-miguel-dies-after-collision-in-match/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:51:23.000Z",
+      "summary": "Tenerife striker, Jesus de Miguel, died yesterday at the age of 30, a day after suffering a cardiac arrest following a collision during a match, the ‌Spanish second-tier club said. The…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Fixtures",
+      "link": "https://ghanaiantimes.com.gh/fixtures-2/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-04T07:49:56.000Z",
+      "summary": "AEK Athens vs. Real Madrid Slavia Prague vs. Arsenal RB Leipzig vs. Man City Porto vs. Napoli Lens vs. Como PSV vs. Brugge Dortmund vs. Betis Viking FK vs. Sabah",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Football world mourns Tenerife striker De Miguel",
+      "link": "https://www.myjoyonline.com/football-world-mourns-tenerife-striker-de-miguel/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T06:07:51.000Z",
+      "summary": "The world of football has come together to mourn the death of Tenerife striker Jesus de Miguel. The forward suffered head and chest injuries in a heavy collision with goalkeeper Jesus Owono…",
+      "categories": [
+        "Comp. Sports",
         "Football",
-        "AS Roma",
-        "Bruno Fernandes",
-        "Man United"
+        "HP Sports 4",
+        "Sports",
+        "Jesus de Miguel",
+        "Spain",
+        "Sport",
+        "Tenerife"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-308.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/c4dd6bc0-d7d4-11f1-a701-fddedf244c16.jpg.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Djokovic keeps alive bid to squeeze into ATP Finals",
-      "link": "https://www.myjoyonline.com/djokovic-keeps-alive-bid-to-squeeze-into-atp-finals/",
+      "title": "Champions League: Inter win comfortably in Feyenoord",
+      "link": "https://www.myjoyonline.com/champions-league-inter-win-comfortably-in-feyenoord/",
       "source": "MyJoyOnline",
-      "published": "2026-11-03T23:34:00.000Z",
-      "summary": "Novak Djokovic kept alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory over Valentin Vacerot at the Paris Masters.",
+      "published": "2026-11-04T06:02:26.000Z",
+      "summary": "Inter Milan bounced back from their derby defeat with a comfortable Champions League victory over Feyenoord. Inter’s unbeaten start to the Serie A season came to an end at the San Siro on…",
       "categories": [
-        "Tennis",
-        "ATP Finals",
-        "Novak Djokovic"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1095.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Manchester United produce incredible second-half comeback to beat Roma",
-      "link": "https://www.myjoyonline.com/manchester-united-produce-incredible-second-half-comeback-to-beat-roma/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T23:27:00.000Z",
-      "summary": "Manchester United dragged themselves off the canvas to come back from two goals down and record a sensational Champions League win over Roma at Old Trafford.",
-      "categories": [
+        "Comp. Sports",
         "Football",
-        "AS Roma",
-        "Man United"
+        "HP Sports 3",
+        "Sports",
+        "Feyenoord",
+        "Inter",
+        "Inter Milan",
+        "UCL",
+        "UEFA Champions League"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-307.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/b9e09410-d7c8-11f1-a719-bf3dc3a3d5b5.jpg.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Another Ghanaian found dead in New York, two weeks after going missing",
-      "link": "https://www.myjoyonline.com/another-ghanaian-found-dead-in-new-york-two-weeks-after-going-missing/",
+      "title": "Democrats take control of US Congress as voters reject Trump’s Republicans",
+      "link": "https://www.myjoyonline.com/democrats-take-control-of-us-congress-as-voters-reject-trumps-republicans/",
       "source": "MyJoyOnline",
-      "published": "2026-11-03T23:23:53.000Z",
-      "summary": "The Ghanaian community in New York has been plunged into fresh mourning following the reported discovery of the body of a 24-year-old compatriot, Joseph Owusu, at a dumpsite in the Bronx…",
+      "published": "2026-11-04T05:51:24.000Z",
+      "summary": "President Donald Trump told voters to pretend he was on the ballot in this year’s midterm elections.",
       "categories": [
-        "HP News 1",
+        "HP News 7",
+        "International",
+        "Democrats",
+        "Republicans",
+        "Trump",
+        "US"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/8cde2f80-d80a-11f1-915d-779ac405bbbc.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Cocoa farmers hope for March recovery after season starts poorly",
+      "link": "https://www.myjoyonline.com/cocoa-farmers-hope-for-march-recovery-after-season-starts-poorly/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T05:42:00.000Z",
+      "summary": "Cocoa farmers hope for a recovery in March harvests after a poor start to the season, driven by heavy rains in some areas and drought in others.",
+      "categories": [
         "National",
-        "News",
-        "Dead",
-        "dumpsite",
-        "New York"
+        "Cocoa",
+        "El Nino"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/Dead.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-3001-1024x683.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "link": "https://www.myjoyonline.com/apple-unsure-when-it-will-get-more-foldable-iphones-ahead-of-christmas/",
+      "title": "Afua Asantewaa demands justice for Ghanaian teenager shot dead in New York",
+      "link": "https://www.myjoyonline.com/afua-asantewaa-demands-justice-for-ghanaian-teenager-shot-dead-in-new-york/",
       "source": "MyJoyOnline",
-      "published": "2026-11-03T23:18:00.000Z",
-      "summary": "Apple has said it doesn't know when it will restock its new foldable iPhones as it heads into the key Christmas trading period.",
+      "published": "2026-11-04T05:33:00.000Z",
+      "summary": "Afua Asantewaa O. Aduonum has called for justice for Javits Badu Nkansah Frimpong, a 15-year-old Ghanaian student who was fatally shot in the Bronx, New York.",
       "categories": [
-        "Technology",
-        "Apple",
-        "Iphone Duo"
+        "Music",
+        "National",
+        "Afua Asantewaa",
+        "Javits Frimpong"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-306-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-2761.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Why not? I wouldn’t have minded’ – Fifi Kwetey on accepting a government role",
+      "link": "https://www.myjoyonline.com/why-not-i-wouldnt-have-minded-fifi-kwetey-on-accepting-a-government-role/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T05:23:00.000Z",
+      "summary": "NDC General Secretary Fifi Fiavi Kwetey says he would have accepted a government appointment, provided it was not a full-time role that would limit his work for the party.",
+      "categories": [
+        "Politics",
+        "Fifi Kwetey",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/i-do-what-i-believe-is-right-for-6.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fidelity Bank becomes Ghana’s only bank to achieve 2X Certified Advanced status for gender-smart finance",
+      "link": "https://www.myjoyonline.com/fidelity-bank-becomes-ghanas-only-bank-to-achieve-2x-certified-advanced-status-for-gender-smart-finance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T05:05:00.000Z",
+      "summary": "Fidelity Bank Ghana has achieved 2X Certified Advanced status, becoming the only bank in Ghana to attain this distinction and reinforcing its commitment to advancing gender-smart finance…",
+      "categories": [
+        "Banking and Finance",
+        "2X Certified Advanced status",
+        "Atta Yeboah Gyan",
+        "Fidelity Bank Ghana",
+        "gender-smart finance"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/08/Atta-Yeboah-Gyan-Deputy-MD-Fidelity-Bank-scaled-1024x856.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asiedu Nketia has earned the right to contest for president — Fifi Kwetey",
+      "link": "https://www.myjoyonline.com/asiedu-nketia-has-earned-the-right-to-contest-for-president-fifi-kwetey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T05:02:00.000Z",
+      "summary": "The General Secretary of the National Democratic Congress (NDC), Fifi Kwetey, has thrown his weight behind the right of the party’s National Chairman, Johnson Asiedu Nketia, to contest the…",
+      "categories": [
+        "HP News 4",
+        "News",
+        "Politics",
+        "Asiedu Nketia",
+        "NDC",
+        "President"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/NDC5.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -219,109 +323,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/04/IMG_5766.jpeg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Man, 29, jailed 14 years for defiling 3-year-old girl in Wa",
-      "link": "https://ghanaiantimes.com.gh/man-29-jailed-14-years-for-defiling-3-year-old-girl-in-wa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T18:18:59.000Z",
-      "summary": "A 29-year-old tricycle rider, Naah Mashood, has been sentenced to 14 years imprisonment with hard labour for defiling a three-year-old girl at Tiegber in the Wa Municipality. The Domestic…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Police arrest three suspected robbers targeting bank customers in Kumasi",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-three-suspected-robbers-targeting-bank-customers-in-kumasi/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T18:15:10.000Z",
-      "summary": "The Ashanti Regional Police Command has announced the arrest of three suspected members of a criminal syndicate believed to be behind a series of robberies targeting bank customers in…",
-      "categories": [
-        "Crime"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minister calls for fair pay for creatives, return of African artefacts",
-      "link": "https://ghanaiantimes.com.gh/minister-calls-for-fair-pay-for-creatives-return-of-african-artefacts/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T18:08:32.000Z",
-      "summary": "The Minister for Tourism, Culture and Creative Arts, Abla Dzifa Gomashie, has called for stronger regional cooperation to ensure fair remuneration for creatives and the return of African…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Azerbaijan exposure good for our development – U-15 Captain Abdul Aziz Issa",
-      "link": "https://ghanaiantimes.com.gh/azerbaijan-exposure-good-for-our-development-u-15-captain-abdul-aziz-issa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T18:06:31.000Z",
-      "summary": "Captain of Ghana’s National U-15 Boys team, Abdul Aziz Issa, says the exposure gained at the FIFA U-15 World Cup and Festival 2026 in Azerbaijan will be vital for the development of the…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Spanish Police open investigation into death of CD Tenerife striker after collision",
-      "link": "https://ghanaiantimes.com.gh/spanish-police-open-investigation-into-death-of-cd-tenerife-striker-after-collision/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T18:03:36.000Z",
-      "summary": "Spanish Police have opened an investigation into the death of CD Tenerife striker Jesús de Miguel following his on-field collision with FC Andorra goalkeeper Jesús Owono. The 30-year-old…",
-      "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GNFS intensifies road safety campaign on Tema-Akosombo Highway",
-      "link": "https://ghanaiantimes.com.gh/gnfs-intensifies-road-safety-campaign-on-tema-akosombo-highway/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T18:01:19.000Z",
-      "summary": "The Kpong Fire Station of the Ghana National Fire Service (GNFS) has intensified its road safety awareness campaign along the Tema–Akosombo Highway to promote responsible driving and reduce…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Kurt Okraku, Gold Fields visit Black Challenge ahead of World Cup",
-      "link": "https://ghanaiantimes.com.gh/kurt-okraku-gold-fields-visit-black-challenge-ahead-of-world-cup/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T17:58:08.000Z",
-      "summary": "President of the Ghana Football Association, Kurt Edwin Simeon-Okraku, and senior officials of Gold Fields Ghana Limited on Tuesday, November 3, 2026, paid a working visit to Ghana’s…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bawumia explores innovative solution to galamsey menace in Japan",
-      "link": "https://ghanaiantimes.com.gh/bawumia-explores-innovative-solution-to-galamsey-menace-in-japan/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-03T17:54:10.000Z",
-      "summary": "Flagbearer of the New Patriotic Party, Dr. Mahamudu Bawumia, says he has discovered a game-changing technology that could help Ghana tackle the devastating effects of illegal mining. As…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-17.32.41-1-1024x682.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Minority MPs walk out in solidarity with Abu Jinapor after Speaker ordered Marshall to walk him out over allegation not backed by evidence on the floor",
