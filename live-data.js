@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_LIVE = {
-  "updated": "2026-11-04T23:45:38.056Z",
+  "updated": "2026-11-05T05:28:26.239Z",
   "note": "The Bank of Ghana's interbank mid-rate is the site's official figure and leads the dashboard; the market quotes beneath it are taken through the day and carry the minute they were read.",
   "source": "Bank of Ghana, with daily mid-market rates for the cedi pairs and Yahoo Finance for gold",
   "official": {
@@ -22,16 +22,16 @@ window.GDC_LIVE = {
     "source": "Bank of Ghana interbank mid-rate",
     "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   },
-  "officialAt": "2026-11-04T23:45:38.056Z",
+  "officialAt": "2026-11-05T05:28:26.239Z",
   "log": [
     "cedi mid-rates: 4 pairs from https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
     "usd: 11.63 (mid-market, 2026-11-04)",
     "gbp: 15.6474 (mid-market, 2026-11-04)",
     "eur: 13.0621 (mid-market, 2026-11-04)",
     "cny: 1.73997 (mid-market, 2026-11-04)",
-    "gold: 4072.3 at 2026-11-04T23:35:24.000Z",
+    "gold: 4141.9 at 2026-11-05T05:18:05.000Z",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/: 2026-11-04, usd/gbp/eur",
-    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-11-04: 2026-11-04, usd/gbp/eur",
+    "BoG https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/?date=2026-11-05: failed (HTTP 502)",
     "BoG https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/: no rate row found",
     "BoG in use: 2026-11-04 · usd 11.66, gbp 15.7049, eur 13.0999"
   ],
@@ -65,10 +65,10 @@ window.GDC_LIVE = {
       "prev": 1.74557
     },
     "gold": {
-      "value": 4072.3,
-      "at": "2026-11-04T23:35:24.000Z",
+      "value": 4141.9,
+      "at": "2026-11-05T05:18:05.000Z",
       "name": "Gold, US$ an ounce",
-      "prev": 4075.8
+      "prev": 4072.3
     }
   }
 };
