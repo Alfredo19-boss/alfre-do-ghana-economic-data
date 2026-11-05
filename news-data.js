@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-04T21:52:12.590Z",
-  "worldAt": "2026-11-04T21:52:12.588Z",
+  "updated": "2026-11-05T01:52:13.671Z",
+  "worldAt": "2026-11-05T01:52:13.668Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,10 +26,10 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
@@ -41,8 +41,8 @@ window.GDC_NEWS = {
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 31 stories",
-    "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 1 stories",
+    "Africa · Deutsche Welle: 4 stories",
+    "Africa · Al Jazeera: 4 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
@@ -1099,6 +1099,71 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T00:39:18.000Z",
+      "summary": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply."
+    },
+    {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-04T22:48:43.000Z",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T00:36:25.000Z",
+      "summary": "Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio."
+    },
+    {
+      "title": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
+      "link": "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce",
+      "source": "France 24",
+      "published": "2026-11-04T22:17:58.000Z",
+      "summary": "Real Madrid maintained their perfect Champions League record as Federico Valverde’s stoppage-time strike secured a 3-2 comeback win at AEK Athens on Wednesday. Madrid twice trailed before…",
+      "image": "https://s.france24.com/media/display/7394906c-d889-11f1-a2e1-d18c5759e759/w:1024/p:16x9/59cca8cf697732ef2e207385238d87640ec92383.jpg"
+    },
+    {
+      "title": "Democrats won Congress. But can they deliver on their promises?",
+      "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T00:25:43.000Z",
+      "summary": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more."
+    },
+    {
+      "title": "Spain: Madrid hosts 30th Ibero-American Summit with 22-nation bloc",
+      "link": "http://www.africanews.com/2026/11/04/spain-madrid-hosts-30th-ibero-american-summit-with-22-nation-bloc/",
+      "source": "Africanews",
+      "published": "2026-11-04T22:08:17.000Z",
+      "summary": "Spain is hosting the 30th Ibero-American Summit in Madrid, bringing together leaders from Spanish- and Portuguese-speaking nations. The gathering aims to strengthen cooperation across…"
+    },
+    {
+      "title": "Historic firsts redraw US political map in 2026 midterm elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T00:24:20.000Z",
+      "summary": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians."
+    },
+    {
+      "title": "Chadian president meets Algerian foreign minister in Ndjamena",
+      "link": "http://www.africanews.com/2026/11/04/chadian-president-meets-algerian-foreign-minister-in-ndjamena/",
+      "source": "Africanews",
+      "published": "2026-11-04T21:35:21.000Z",
+      "summary": "Observers say Algeria, which this week deployed troops to Niger seeks to regain influence in the Sahel. Chad and Niger share a border"
+    },
+    {
+      "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T00:00:00.000Z",
+      "summary": "President Trump admits Iran war 'largely' caused Republicans' US election wipeout, but says he 'had to do it'."
+    },
+    {
       "title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
       "link": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
       "source": "France 24",
@@ -1107,11 +1172,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6ef36480-d892-11f1-9ef8-1beafce15fea/w:1024/p:16x9/000-D4MF8WE.jpg"
     },
     {
-      "title": "Social media reacts to Democrats’ takeover of US Congress",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+      "title": "Who gets to vote in the US?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T21:21:58.000Z",
-      "summary": "Social media is awash with reactions to Democrats’ sweeping midterm gains."
+      "published": "2026-11-04T23:50:34.000Z",
+      "summary": "Tati Abu King lost his voting rights after felony convictions."
     },
     {
       "title": "South Africans vote in key municipal elections",
@@ -1122,11 +1187,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/535fad62-d894-11f1-b192-bf1914cabd52/w:1024/p:16x9/DL00006221-VOD-00023659-01.jpg"
     },
     {
-      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-      "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T21:13:56.000Z",
-      "summary": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad."
+      "published": "2026-11-04T23:43:26.000Z",
+      "summary": "Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group."
     },
     {
       "title": "Musk-backed candidates lose midterms despite financial backing",
@@ -1137,11 +1202,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5ac9150e-d892-11f1-86ac-d18c5759e759/w:1024/p:16x9/capture-bb0d8832.jpg"
     },
     {
-      "title": "US midterm election results live: Trump blames Iran war after losses",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T21:00:00.000Z",
-      "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call."
+      "published": "2026-11-04T23:34:47.000Z",
+      "summary": "A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran"
     },
     {
       "title": "Trump’s second-term playbook: Fake news, AI and attacks on his critics",
@@ -1152,11 +1217,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/6e05508a-d890-11f1-affc-d18c5759e759/w:1024/p:16x9/fake-news-trump-lookback.png"
     },
     {
-      "title": "Democrat leaders hail midterm election success",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
+      "title": "Trump blames Iran war for midterms losses",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T20:50:31.000Z",
-      "summary": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms."
+      "published": "2026-11-04T23:30:01.000Z",
+      "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections"
     },
     {
       "title": "How Chinese AI is censoring the controversy around Mbappé’s Chairman Mao comments",
@@ -1167,11 +1232,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/47481808-d479-11f1-a1f0-d18c5759e759/w:1024/p:16x9/image3-137.jpg"
     },
     {
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+      "title": "Democratic Socialists of America see record wins in US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T20:31:56.000Z",
-      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones."
+      "published": "2026-11-04T22:45:24.000Z",
+      "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare."
     },
     {
       "title": "Winners, losers, the EU: Five takeaways from the US midterms",
@@ -1181,19 +1246,11 @@ window.GDC_NEWS = {
       "summary": "Donald Trump's Republicans suffered a crushing defeat in Tuesday's midterm elections, with the Democrats wresting control of Congress. What does this mean for US politics and the world?"
     },
     {
-      "title": "Will the US resume its attacks on Iran?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+      "title": "Sudan factories struggle to restart after devastating wartime losses",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T20:25:50.000Z",
-      "summary": "Tehran says it's ready with a maximum deterrence plan."
-    },
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-04T20:22:40.000Z",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png"
+      "published": "2026-11-04T22:31:09.000Z",
+      "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen."
     },
     {
       "title": "WHO approves clinical trials on two new Ebola vaccines",
@@ -1203,11 +1260,11 @@ window.GDC_NEWS = {
       "summary": "The World Health Organization on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people"
     },
     {
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+      "title": "Palestinians, Israelis react after Democrats sweep US midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T19:59:14.000Z",
-      "summary": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran."
+      "published": "2026-11-04T22:06:24.000Z",
+      "summary": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections."
     },
     {
       "title": "Blue wave across America: do US midterms signal beginning of the end for Trump?",
@@ -1218,11 +1275,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/08a9041e-d883-11f1-9acd-d18c5759e759/w:1024/p:16x9/2026-11-04T075918Z-1179904926-RC2RGOANJSSF-RTRMADP-3-USA-ELECTION-MICHIGAN.jpg"
     },
     {
-      "title": "Democratic progressive wing notches win in California Central Valley",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+      "title": "Social media reacts to Democrats’ takeover of US Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T19:50:37.000Z",
-      "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas."
+      "published": "2026-11-04T21:21:58.000Z",
+      "summary": "Social media is awash with reactions to Democrats’ sweeping midterm gains."
     },
     {
       "title": "36 years later: Hungary opens Communist-era secret service files",
@@ -1232,11 +1289,11 @@ window.GDC_NEWS = {
       "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility."
     },
     {
-      "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-      "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
+      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+      "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T19:30:41.000Z",
-      "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability."
+      "published": "2026-11-04T21:13:56.000Z",
+      "summary": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad."
     },
     {
       "title": "🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout",
@@ -1246,11 +1303,11 @@ window.GDC_NEWS = {
       "summary": ""
     },
     {
-      "title": "WHO approves trials for two new Ebola vaccines",
-      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T19:22:09.000Z",
-      "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo."
+      "published": "2026-11-04T21:00:00.000Z",
+      "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call."
     },
     {
       "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
@@ -1261,11 +1318,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "US midterms 2026: What key races remain undecided?",
-      "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
+      "title": "Democrat leaders hail midterm election success",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T19:18:47.000Z",
-      "summary": "Key races in Alaska, Mississippi, Kansas and California remain uncounted."
+      "published": "2026-11-04T20:50:31.000Z",
+      "summary": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms."
     },
     {
       "title": "Democrats warn Trump camp to ‘lawyer up’ as anger over corruption drives midterms wipeout",
@@ -1276,11 +1333,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/4e0e449a-d844-11f1-b10d-1beafce15fea/w:1024/p:16x9/2026-11-02T203404Z-53214534-RC2VFOA5BYP8-RTRMADP-3-USA-TRUMP-LINCOLNMEMORIAL.jpg"
     },
     {
-      "title": "How US midterm results could reshape Trump’s foreign policy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T19:15:50.000Z",
-      "summary": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy."
+      "published": "2026-11-04T20:31:56.000Z",
+      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones."
     },
     {
       "title": "'Once-in-a-generation event: Historic election a shocking repudiation of Trump & the MAGA movement'",
@@ -1291,11 +1348,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/5514019c-d873-11f1-8b6b-a575454bc579/w:1024/p:16x9/EN-20261104-163331-164341-CS.jpg"
     },
     {
-      "title": "The biggest winners and losers of the 2026 US midterms",
-      "link": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss",
+      "title": "Will the US resume its attacks on Iran?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T18:52:25.000Z",
-      "summary": "Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress."
+      "published": "2026-11-04T20:25:50.000Z",
+      "summary": "Tehran says it's ready with a maximum deterrence plan."
     },
     {
       "title": "Libya's eastern administration appoints a new central bank governor",
@@ -1305,11 +1362,11 @@ window.GDC_NEWS = {
       "summary": "The former governor, Naji Issa, submitted his resignation to the two legislative chambers in August without publicly explaining his reasons."
     },
     {
-      "title": "Key moments as Democrats sweep to victories in US midterms",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss",
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T18:13:01.000Z",
-      "summary": "Democrats have been celebrating across the US after a series of victories saw them take control of both chambers."
+      "published": "2026-11-04T19:59:14.000Z",
+      "summary": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran."
     },
     {
       "title": "Brazil: Santa Claus School celebrates graduation at Christ the Redeemer",
@@ -1319,11 +1376,11 @@ window.GDC_NEWS = {
       "summary": "Dozens of Santas gathered at Rio de Janeiro's iconic Christ the Redeemer statue to celebrate their graduation. The 55 new recruits are preparing to spread Christmas cheer across Brazil."
     },
     {
-      "title": "Danish students join European protest wave against education funding cuts",
-      "link": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
+      "title": "Democratic progressive wing notches win in California Central Valley",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T17:54:48.000Z",
-      "summary": "Danish government proposes scrapping allowance scheme for students from wealthier families."
+      "published": "2026-11-04T19:50:37.000Z",
+      "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas."
     },
     {
       "title": "European leaders welcome Democrats' US midterms election win",
@@ -1332,68 +1389,30 @@ window.GDC_NEWS = {
       "published": "2026-11-04T17:00:09.000Z",
       "summary": "European leaders voiced hopes for a reset with the United States on Wednesday, November 4, after voters delivered a huge midterm election defeat to President Donald Trump and his Republican…",
       "image": "https://s.france24.com/media/display/ae4696b0-d870-11f1-8249-bf1914cabd52/w:1024/p:16x9/capture-88cd0a37.jpg"
-    },
-    {
-      "title": "Netanyahu bet on Trump – but both lost",
-      "link": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T17:41:48.000Z",
-      "summary": "Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it."
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-04T16:59:15.000Z",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
-      "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T17:18:50.000Z",
-      "summary": "US VP Vance cites trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats."
-    },
-    {
-      "title": "Iran's leaders say midterm results show voters have rejected Trump's war",
-      "link": "http://www.africanews.com/2026/11/04/irans-leaders-say-midterm-results-show-voters-have-rejected-trumps-war/",
-      "source": "Africanews",
-      "published": "2026-11-04T16:56:24.000Z",
-      "summary": "Iranians on Wednesday struck a defiant tone, celebrating U.S. voters’ rebuke of President Donald Trump in the midterm elections while many in the Middle East waited to see how the results…"
-    },
-    {
-      "title": "Palestinian citizens of Israel face intimidation after election success",
-      "link": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T17:14:21.000Z",
-      "summary": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them."
-    },
-    {
-      "title": "US midterms bring a wave of historic firsts as minorities win key races",
-      "link": "https://www.france24.com/en/us-midterms-bring-a-wave-of-historic-firsts-as-minorities-win-key-races",
-      "source": "France 24",
-      "published": "2026-11-04T16:51:39.000Z",
-      "summary": "US midterms bring a wave of historic firsts as minorities win key races: The first Native American female senator in Minnesota, the first openly gay male senator in New Hampshire, the first…",
-      "image": "https://s.france24.com/media/display/9b1eb92e-d86f-11f1-bf0c-d18c5759e759/w:1024/p:16x9/capture-b3063e07.jpg"
-    },
-    {
-      "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
-      "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T17:05:12.000Z",
-      "summary": "Tenerife striker De Miguel died on Tuesday as a result of injuries from a collision with FC Andorra goalkeeper Owono."
-    },
-    {
-      "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
-      "link": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
-      "source": "France 24",
-      "published": "2026-11-04T16:50:06.000Z",
-      "summary": "First Deputy Speaker of the Parliament of Iran Ali Nikzad on Wednesday attributed Republican losses in the US midterm elections to Washington's war with Iran, telling lawmakers that…",
-      "image": "https://s.france24.com/media/display/9760657e-d86c-11f1-98f7-695cb59fade5/w:1024/p:16x9/mini3-3.jpg"
     }
   ],
   "africa": [
+    {
+      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T00:39:18.000Z",
+      "summary": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply."
+    },
+    {
+      "title": "Chadian president meets Algerian foreign minister in Ndjamena",
+      "link": "http://www.africanews.com/2026/11/04/chadian-president-meets-algerian-foreign-minister-in-ndjamena/",
+      "source": "Africanews",
+      "published": "2026-11-04T21:35:21.000Z",
+      "summary": "Observers say Algeria, which this week deployed troops to Niger seeks to regain influence in the Sahel. Chad and Niger share a border"
+    },
+    {
+      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T23:43:26.000Z",
+      "summary": "Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group."
+    },
     {
       "title": "WHO approves clinical trials on two new Ebola vaccines",
       "link": "http://www.africanews.com/2026/11/04/who-approves-clinical-trials-on-two-new-ebola-vaccines/",
@@ -1402,11 +1421,11 @@ window.GDC_NEWS = {
       "summary": "The World Health Organization on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people"
     },
     {
-      "title": "WHO approves trials for two new Ebola vaccines",
-      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "title": "Sudan factories struggle to restart after devastating wartime losses",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-04T19:22:09.000Z",
-      "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo."
+      "published": "2026-11-04T22:31:09.000Z",
+      "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen."
     },
     {
       "title": "British man infected with Ebola in DR Congo to be flown back to UK",
@@ -1417,11 +1436,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b714/live/371f2960-d86d-11f1-85ab-b3cc3b5498c6.jpg"
     },
     {
-      "title": "Libya's eastern administration appoints a new central bank governor",
-      "link": "http://www.africanews.com/2026/11/04/libyas-eastern-administration-appoints-a-new-central-bank-governor/",
-      "source": "Africanews",
-      "published": "2026-11-04T17:45:54.000Z",
-      "summary": "The former governor, Naji Issa, submitted his resignation to the two legislative chambers in August without publicly explaining his reasons."
+      "title": "WHO approves trials for two new Ebola vaccines",
+      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T19:22:09.000Z",
+      "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo."
     },
     {
       "title": "Mugabe's son arrested over 'assault' during luxury car smuggling probe",
@@ -1430,6 +1449,13 @@ window.GDC_NEWS = {
       "published": "2026-11-04T17:50:00.000Z",
       "summary": "The son of Zimbabwe's late former President Robert Mugabe will appear in court on 5 November with four other men.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320e/live/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg"
+    },
+    {
+      "title": "Libya's eastern administration appoints a new central bank governor",
+      "link": "http://www.africanews.com/2026/11/04/libyas-eastern-administration-appoints-a-new-central-bank-governor/",
+      "source": "Africanews",
+      "published": "2026-11-04T17:45:54.000Z",
+      "summary": "The former governor, Naji Issa, submitted his resignation to the two legislative chambers in August without publicly explaining his reasons."
     },
     {
       "title": "Ghana: Forty Years On, the Fight Against HIV Is Not Over",
@@ -1651,35 +1677,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-11-04T12:25:50.000Z",
       "summary": "[Bird Story Agency] Inspired by her father and Ethiopian distance-running great Meseret Defar, 17-year-old Elsabet Amare is preparing to represent her country at the Dakar 2026 Youth…"
-    },
-    {
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-11-04T11:46:09.000Z",
-      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg"
-    },
-    {
-      "title": "Nigeria: I Drove Taxi to Fund My Education in U.S. - Tinubu",
-      "link": "https://allafrica.com/stories/202611040349.html",
-      "source": "AllAfrica",
-      "published": "2026-11-04T11:30:26.000Z",
-      "summary": "[Vanguard] President Bola Tinubu has recalled how he worked as a taxi driver and took up other jobs to finance his education in the United States, saying his personal experience has shaped…"
-    },
-    {
-      "title": "Africa: How Many More COPs Before Climate Promises Become Action?",
-      "link": "https://allafrica.com/stories/202611040346.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-04T11:27:53.000Z",
-      "summary": "[allAfrica] Every year before COP, the same question surfaces: what is the one thing Africa needs from this summit?"
-    },
-    {
-      "title": "Ghana: Nacoc Hunts Ghanaian Accomplices After 40kg Cocaine Seizure in Lebanon",
-      "link": "https://allafrica.com/stories/202611040339.html",
-      "source": "AllAfrica",
-      "published": "2026-11-04T11:17:19.000Z",
-      "summary": "[Ghanaian Times] THE Narcotics Control Commission (NACOC) has intensified efforts to dismantle an international drug trafficking network following the arrest of a Syrian national in Lebanon…"
     }
   ]
 };

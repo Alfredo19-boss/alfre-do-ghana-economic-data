@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-04T21:52:28.549Z",
+  "updated": "2026-11-05T01:52:27.178Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,144 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Over 80 deaf students in Savelugu receive practical robotics training by Untamed Voices",
+      "link": "https://www.myjoyonline.com/over-80-deaf-students-in-savelugu-receive-practical-robotics-training-by-untamed-voices/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T23:01:11.000Z",
+      "summary": "More than 80 students of the Savelugu School for the Deaf in the Northern Region have received practical training in robotics and basic electronics as part of an initiative to expand access…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Deaf students",
+        "Students",
+        "Untamed Voices"
+      ],
+      "image": null,
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kellogg’s admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "link": "https://www.myjoyonline.com/kelloggs-admits-snap-crackle-and-pop-is-quieter-after-uproar-over-rice-krispies-recipe-change/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T23:00:00.000Z",
+      "summary": "Kellogg's has told the BBC that the \"snap, crackle and pop\" sound in its Rice Krispies may be noticeably quieter after an uproar over the cereal giant's recipe change.",
+      "categories": [
+        "National",
+        "News",
+        "Rice Krispies"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-415-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Eva Ampah: Leading Team Ghana, inspiring next generation of female coaches",
+      "link": "https://www.graphic.com.gh/sports/sports-news/eva-ampah-leading-team-ghana-inspiring-next-generation-of-female-coaches.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-04T22:40:06.000Z",
+      "summary": "She added that she viewed her role as an opportunity to inspire young Ghanaian women who aspire to become coaches, while expressing satisfaction at seeing her players compete confidently…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/04/EVA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Agalga rejects cocaine probe by Parliament, says criminal investigations lie outside its powers",
+      "link": "https://www.myjoyonline.com/agalga-rejects-cocaine-probe-by-parliament-says-criminal-investigations-lie-outside-its-powers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T22:35:00.000Z",
+      "summary": "Majority Leader James Agalga has rejected the Minority’s push for a parliamentary probe into cocaine seizures, saying the House has no power to conduct criminal investigations.",
+      "categories": [
+        "Politics",
+        "James Agalga",
+        "Majority leader"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/the-speaker-has-a-birds-eye-view.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AngloGold Ashanti, Endeavour Mining host maiden West Africa mine rescue competition",
+      "link": "https://www.myjoyonline.com/anglogold-ashanti-endeavour-mining-host-maiden-west-africa-mine-rescue-competition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T22:27:48.000Z",
+      "summary": "AngloGold Ashanti's Obuasi Mine and Endeavour Mining have jointly hosted the maiden edition of the West Africa Mine Rescue and Emergency Response Competition (WAMRERC 2026), bringing…",
+      "categories": [
+        "National",
+        "africa mine rescue",
+        "Anglogold Ashanti",
+        "endeavour mining"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-12.29.32-1024x683.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "US voters name economy and state of democracy as top issues, poll says",
+      "link": "https://www.myjoyonline.com/us-voters-name-economy-and-state-of-democracy-as-top-issues-poll-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T22:18:00.000Z",
+      "summary": "An election-day poll says the economy and the state of democracy are the top issues for US voters.",
+      "categories": [
+        "International"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/image-494-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mugabe’s son arrested over ‘assault’ during luxury car smuggling probe",
+      "link": "https://www.myjoyonline.com/mugabes-son-arrested-over-assault-during-luxury-car-smuggling-probe/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T22:10:30.000Z",
+      "summary": "Bellarmine Chatunga Mugabe, the son of Zimbabwe's late former president Robert Mugabe, has been arrested in connection with an assault case, police say.",
+      "categories": [
+        "Africa",
+        "International",
+        "Mugabe",
+        "Mugabe's son"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "7 Key takeaways from GFA President Kurt Okraku’s meeting with Parliament’s Select Committee on Sports",
+      "link": "https://www.graphic.com.gh/sports/sports-news/7-key-takeaways-from-gfa-president-kurt-okrakus-meeting-with-parliaments-select-committee-on-sports.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-04T22:02:27.000Z",
+      "summary": "1. Removal of restrictions on alcohol sponsorship One of the major issues raised by Mr Simeon-Okraku was the restriction on alcoholic beverage companies sponsoring sporting activities…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/04/KURT.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Elon Musk’s millions failed to deliver Republican wins in fierce midterms",
+      "link": "https://www.myjoyonline.com/elon-musks-millions-failed-to-deliver-republican-wins-in-fierce-midterms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T22:00:00.000Z",
+      "summary": "Elon Musk spent almost $450m (£334m), more than anyone has ever spent in an election cycle, to back Republican political candidates in the US midterm races. It was not enough to keep…",
+      "categories": [
+        "International",
+        "Elon Musk",
+        "US Midterm Elections"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2343-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Father, son arrested over alleged murder at Assin Akrofuom",
+      "link": "https://www.myjoyonline.com/father-son-arrested-over-alleged-murder-at-assin-akrofuom/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T21:49:00.000Z",
+      "summary": "The Assin South District Police Command has arrested a father and his son for their alleged involvement in the death of a 31-year-old man at Assin Akrofuom.",
+      "categories": [
+        "Crime",
+        "Assin Akrofuom",
+        "Murder"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1953.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "'Let’s overcome this shameful chapter and heal the past' - King Charles to Commonwealth",
       "link": "https://www.graphic.com.gh/news/general-news/lets-overcome-this-shameful-chapter-and-heal-the-past-king-charles-to-commonwealt.html",
       "source": "Daily Graphic",
@@ -35,22 +173,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/04/com.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Talensi youth petition Mahama over Nalaamtaaba-Earl International mining dispute",
-      "link": "https://www.myjoyonline.com/talensi-youth-petition-mahama-over-nalaamtaaba-earl-international-mining-dispute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T20:35:40.000Z",
-      "summary": "Aggrieved youth in the Talensi District of the Upper East Region have petitioned President John Dramani Mahama to intervene in a protracted mining dispute between locally owned Nalaamtaaba…",
-      "categories": [
-        "Regional",
-        "Earl International Gold Ghana Limited",
-        "Mining",
-        "Nalaamtaaba Enterprise",
-        "Talensi youth"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-04-203228dgd-1024x580.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Three arrested over midnight motorcycle robberies in Kumasi",
@@ -75,117 +197,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/05/trafi.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Singer Tofamba confronts fear, embraces self-discovery in new single ‘AsumDwe’",
-      "link": "https://www.myjoyonline.com/singer-tofamba-confronts-fear-embraces-self-discovery-in-new-single-asumdwe/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T20:18:16.000Z",
-      "summary": "Ghanaian singer Tofamba is set to release a new single, AsumDwe, on November 6, drawing on personal experiences to explore themes of inner peace, self-discovery, freedom and personal growth.",
-      "categories": [
-        "Music",
-        "Single",
-        "Tofamba"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot_20261104_195837_WhatsApp-1024x923.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I had a great experience at Pope John Senior High School – MC Kabutey reveals",
-      "link": "https://www.myjoyonline.com/i-had-a-great-experience-at-pope-john-senior-high-school-mc-kabutey-reveals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T20:17:35.000Z",
-      "summary": "Ghanaian MC Alfred Kabutey Ocansey, popularly known as ‘MC Kabutey’, has shared fond memories of his time at Pope John Senior High School, describing his boarding school experience as one…",
-      "categories": [
-        "National",
-        "MC Kabutey",
-        "Pope John Senior High School"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-394.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cargill Kokoo Sourcing Limited rewards 563 cocoa farmers with pruning machines as it marks 10 years",
-      "link": "https://www.myjoyonline.com/cargill-kokoo-sourcing-limited-rewards-563-cocoa-farmers-with-pruning-machines-as-it-marks-10-years/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T20:17:03.000Z",
-      "summary": "Cargill Kokoo Sourcing Limited has rewarded 563 cocoa farmers with standard pruning machines as part of activities marking 10 years of cocoa sourcing operations in Ghana.",
-      "categories": [
-        "National",
-        "News",
-        "Cargill Kokoo Sourcing Limited",
-        "Cocoa farmers",
-        "Pruning machines"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG-20261104-WA0014-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "VAST Ghana, SEND Ghana, and GAND join forces to reshape Ghana’s food environment",
-      "link": "https://www.myjoyonline.com/vast-ghana-send-ghana-and-gand-join-forces-to-reshape-ghanas-food-environment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T20:16:56.000Z",
-      "summary": "VAST Ghana, SEND Ghana and the Ghana Academy of Nutrition and Dietetics (GAND) have joined forces to advocate stronger policies to promote healthy eating and tackle the growing burden of…",
-      "categories": [
-        "Health",
-        "National",
-        "Food",
-        "GAND",
-        "Ghana",
-        "SEND Ghana",
-        "VAST Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-413-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cocaine bust: NDC dismisses NPP calls for dismissal of Interior Minister, NACOC officials",
-      "link": "https://www.myjoyonline.com/cocaine-bust-ndc-dismisses-npp-calls-for-dismissal-of-interior-minister-nacoc-officials/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T19:51:25.000Z",
-      "summary": "NDC dismisses NPP calls for dismissal of Interior Minister, NACOC officials over cocaine allegations",
-      "categories": [
-        "National",
-        "Cocaine bust",
-        "NACOC",
-        "NDC",
-        "NPP",
-        "Tanko Rashid-Computer"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/06/Tanko-Computer-e1749276455835.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Adjetey Anang reveals name of lady who first broke his heart",
-      "link": "https://www.myjoyonline.com/adjetey-anang-reveals-name-of-lady-who-first-broke-his-heart/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T19:45:47.000Z",
-      "summary": "Ghanaian actor Adjetey Anang has finally revealed the name of the “pretty” lady who first broke his heart. The actor, popularly known for his remarkable roles in Ghanaian films and…",
-      "categories": [
-        "Arts and Culture",
-        "HP Entertainment 1",
-        "Radio & TV",
-        "Adjetey Anang",
-        "Heartbreak",
-        "Love",
-        "Theodora Lartey"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/i-will-always-choose-villain-rol.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JUSAG strike: AG to engage Finance Minister as talks intensify",
-      "link": "https://www.myjoyonline.com/jusag-strike-ag-to-engage-finance-minister-as-talks-intensify/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T19:45:02.000Z",
-      "summary": "The Attorney-General and Minister for Justice, Dr Dominic Ayine, has pledged to engage Finance Minister Dr Cassiel Ato Forson over the outstanding concerns of the Judicial Service Staff…",
-      "categories": [
-        "National",
-        "Finance Minister",
-        "JUSAG"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/AG-and-Finance-Minister-1024x512.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NPP on why President Mahama must let 'heads roll' on recent trafficking of drugs through Ghana",
@@ -358,7 +369,7 @@ window.GDC_PAPERS = {
       "categories": [
         "Sports News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/jesus.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/jesus_owono.jpg",
       "site": "https://www.graphic.com.gh/sports"
     },
     {
@@ -420,30 +431,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/Keta-gets-2-new-CHPS-compounds-xxxxx-1024x460.jpg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Amputee Football World Cup: GFA unveils $500,000 Gold Fields deal for Black Challenge",
-      "link": "https://www.graphic.com.gh/sports/sports-news/amputee-football-world-cup-gfa-unveils-500-000-gold-fields-deal-for-black-challenge.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-03T21:17:04.000Z",
-      "summary": "Mr Deen welcomed the commitment, describing it as the kind of corporate and institutional backing the sport had long sought. He expressed appreciation to both the GFA and Gold Fields Ghana…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/AMPUTEE_FOOTBALL.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Millicent Ankude to officiate in Dakar 2026 mixed doubles gold medal final",
-      "link": "https://www.graphic.com.gh/sports/sports-news/millicent-ankude-to-officiate-in-dakar-2026-mixed-doubles-gold-medal-final.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-03T20:25:46.000Z",
-      "summary": "Ankude’s appointment adds to an impressive journey in the sport. She was among five young African umpires selected through the International Table Tennis Federation’s (ITTF) Young Umpires…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/MILLI.jpg",
-      "site": "https://www.graphic.com.gh/sports"
     }
   ]
 };
