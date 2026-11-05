@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-05T16:48:32.708Z",
+  "updated": "2026-11-05T22:24:46.171Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,202 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghana and Australia strengthen ties to push for Africa’s permanent UN Security Council seat",
+      "link": "https://www.myjoyonline.com/ghana-and-australia-strengthen-ties-to-push-for-africas-permanent-un-security-council-seat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T21:26:49.000Z",
+      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says Ghana is forging closer ties with international allies to advance Africa’s call for reforms at the United Nations, particularly its…",
+      "categories": [
+        "Africa",
+        "National",
+        "Australia",
+        "Ghana",
+        "UN Security Council"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/891291159_1675772257226330_6727154775227584962_n-e1793913792591-1024x730.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Samia and Sekou Nkrumah reveal how the 1966 Coup affected their late brother",
+      "link": "https://www.myjoyonline.com/samia-and-sekou-nkrumah-reveal-how-the-1966-coup-affected-their-late-brother/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T21:22:01.000Z",
+      "summary": "Samia and Sekou Nkrumah have recounted how the 1966 coup that toppled their father, Ghana’s first President, Dr Kwame Nkrumah, deeply affected their late brother, Gamel Nkrumah. The two…",
+      "categories": [
+        "National",
+        "Politics",
+        "Gamel Nkrumah",
+        "Samia Nkrumah",
+        "Sekou Nkrumah"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-44-1.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CPP Elders visit Nkrumah family to console them over death of Gamel Nkrumah",
+      "link": "https://www.myjoyonline.com/cpp-elders-visit-nkrumah-family-to-console-them-over-death-of-gamel-nkrumah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T21:15:58.000Z",
+      "summary": "A delegation from the Convention People's Party (CPP), led by Comrade Chris Ziga, has visited the family of Ghana's first President, Dr Kwame Nkrumah, to express condolences following the…",
+      "categories": [
+        "National",
+        "CPP elders",
+        "Gamel Nkrumah",
+        "Nkrumah family"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-212757-1024x601.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwadaso Agric College students turn ideas into market-ready agribusiness under CB-VET Ghana project",
+      "link": "https://www.myjoyonline.com/kwadaso-agric-college-students-turn-ideas-into-market-ready-agribusiness-under-cb-vet-ghana-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T21:06:20.000Z",
+      "summary": "Innovation, entrepreneurship and practical skills are increasingly becoming the foundation of modern Agricultural Technical and Vocational Education and Training (ATVET) in Ghana, a shift…",
+      "categories": [
+        "Education",
+        "Regional",
+        "CB-VET Ghana project",
+        "Kwadaso Agric College"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-19.31.53.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana, Trinidad and Tobago explore new investments, expanded oil and gas partnerships",
+      "link": "https://www.myjoyonline.com/ghana-trinidad-and-tobago-explore-new-investments-expanded-oil-and-gas-partnerships/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T20:54:14.000Z",
+      "summary": "Ghana and Trinidad and Tobago are seeking to deepen their economic relations, with fresh discussions focusing on attracting new investments and expanding cooperation in the oil and gas…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Trinidad and Tobago"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/890492249_1634797158692529_48865835291939629_n-1024x768.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I’m surprised I haven’t won TGMA Rapper of the Year – Teephlow",
+      "link": "https://www.myjoyonline.com/im-surprised-i-havent-won-tgma-rapper-of-the-year-teephlow/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T20:50:33.000Z",
+      "summary": "For a rapper who has earned multiple nominations at Ghana’s biggest music awards, never taking home the Rapper of the Year trophy is a record Teephlow finds difficult to understand",
+      "categories": [
+        "HP Entertainment 2",
+        "Music",
+        "best rapper",
+        "TeePhlow",
+        "TGMA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_9598.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Build competence before seeking transformation – Dzigbordi Kwaku-Dosoo at TrueLife Experience",
+      "link": "https://www.myjoyonline.com/build-competence-before-seeking-transformation-dzigbordi-kwaku-dosoo-at-truelife-experience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T20:10:38.000Z",
+      "summary": "Keynote speaker Dzigbordi Kwaku-Dosoo has urged participants at the 2026 TrueLife Experience to move beyond drawing inspiration from others and develop the competence needed to inspire and…",
+      "categories": [
+        "Events",
+        "National",
+        "competence",
+        "transformation",
+        "Truelife experience"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EXP21476-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "I built a $70m business while battling depression – Nekeya Parks at TrueLife Experience",
+      "link": "https://www.myjoyonline.com/i-built-a-70m-business-while-battling-depression-nekeya-parks-at-truelife-experience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T20:05:34.000Z",
+      "summary": "Mindset mentor Nekeya Parks has revealed that she built a $70 million business while battling depression, urging people to identify and pursue what she described as their God-given purpose…",
+      "categories": [
+        "Events",
+        "National",
+        "Mindset mentor",
+        "Nekeya Parks",
+        "Truelife experience"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EXP21428-1024x683.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Drive Ghana’s Economic Reset Through Production, Integrity … Ishmael Yamson Urges CEOs",
+      "link": "https://ghanaiantimes.com.gh/drive-ghanas-economic-reset-through-production-integrity-ishmael-yamson-urges-ceos/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T19:19:54.000Z",
+      "summary": "Chief Executive Officers (CEOs) have been challenged to take greater responsibility for Ghana’s economic transformation by prioritising local production, ethical leadership and the…",
+      "categories": [
+        "Business"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Yahaya’s late strike sinks Liberia as Black Challenge eye World Cup glory",
+      "link": "https://www.graphic.com.gh/sports/sports-news/yahayas-late-strike-sinks-liberia-as-black-challenge-eye-world-cup-glory.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-05T18:14:57.000Z",
+      "summary": "The friendly served as an important preparatory exercise for both countries ahead of the 2026 Amputee Football World Cup, scheduled to take place in San Juan de los Lagos, Mexico, from…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Fire guts two container shops near Meridian Hotel in Tema",
+      "link": "https://www.graphic.com.gh/news/general-news/fire-guts-two-container-shops-near-meridian-hotel-in-tema.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T17:23:31.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bethel SDA Osu hosts third edition of ‘The King Is Coming’ concert",
+      "link": "https://www.graphic.com.gh/news/general-news/bethel-sda-osu-hosts-third-edition-of-the-king-is-coming-concert.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T17:10:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Lambussie MP appeals for complete removal of Hamile curfew",
+      "link": "https://www.graphic.com.gh/news/politics/lambussie-mp-appeals-for-complete-removal-of-hamile-curfew.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T17:02:54.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/02/beyuo1.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "All unauthorised billboards in Accra to be removed on November 14",
+      "link": "https://www.graphic.com.gh/news/general-news/all-unauthorised-billboards-in-accra-to-be-removed-on-november-14.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T16:57:25.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2018/jan/29/advertisers-ama-5.JPG",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Korea supports preservation of Ghana’s forts and castles",
       "link": "https://ghanaiantimes.com.gh/korea-supports-preservation-of-ghanas-forts-and-castles/",
       "source": "Ghanaian Times",
@@ -36,66 +232,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "JUSAG cites pay disparities, working conditions in defence of strike",
-      "link": "https://www.myjoyonline.com/jusag-cites-pay-disparities-working-conditions-in-defence-of-strike/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:40:05.000Z",
-      "summary": "The General Secretary of the Judicial Service Staff Association of Ghana (JUSAG), Abdulai Yakubu, has cited disparities between judicial workers’ legal entitlements and their actual…",
-      "categories": [
-        "National",
-        "Abdulai Yakubu",
-        "JUSAG"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/General-Secretary-of-the-Judicial-Service-Association-of-Ghana-JUSAG-Abdulai-Yakubu-2.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government absorbs over GH¢2bn to cushion fuel consumers – NPA CEO",
-      "link": "https://www.myjoyonline.com/government-absorbs-over-gh%c2%a22bn-to-cushion-fuel-consumers-npa-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:39:12.000Z",
-      "summary": "The Chief Executive Officer of the National Petroleum Authority (NPA), Godwin Kudzo Tameklo, says the government has so far absorbed more than GH¢2 billion to ease the financial burden on…",
-      "categories": [
-        "National",
-        "Fuel",
-        "NPA",
-        "Oil Production",
-        "OMC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-3114-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s BRICS partnership proposal came from Akufo-Addo-era committee – Mahama",
-      "link": "https://www.myjoyonline.com/ghanas-brics-partnership-proposal-came-from-akufo-addo-era-committee-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:38:33.000Z",
-      "summary": "President John Dramani Mahama says Ghana’s decision to pursue a partnership with the BRICS bloc was first recommended by a ministerial committee set up under the previous administration led…",
-      "categories": [
-        "National",
-        "Akufo-Addo",
-        "BRICS",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/PRESIDENT-Port-charges-President-Mahama-addressing-the-freight-forwarders.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bawumia urges government to prioritise gold reserves over trading",
-      "link": "https://www.myjoyonline.com/bawumia-urges-government-to-prioritise-gold-reserves-over-trading/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:37:23.000Z",
-      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has called on the government to focus on building Ghana’s gold reserves rather than trading in the commodity, arguing that the Bank…",
-      "categories": [
-        "National",
-        "Bawumia",
-        "Gold Reserve",
-        "Government"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Dr-Mahamudu-Bawumia.webp",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Private hospital plans to construct oxygen producing plant at Kumdi in Kpandai District",
@@ -110,33 +246,16 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GFA, Kivo launch U-17 Regional Champions Cup",
-      "link": "https://www.myjoyonline.com/gfa-kivo-launch-u-17-regional-champions-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:20:41.000Z",
-      "summary": "The competition was launched at the GFA Secratariat on Thursday, November 5, providing another platform for emerging talents across the country.",
+      "title": "NACOC destroys over $10 million worth of seized drugs",
+      "link": "https://www.graphic.com.gh/news/general-news/nacoc-destroys-over-10-million-worth-of-seized-drugs-at-bundase.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T16:31:23.000Z",
+      "summary": "",
       "categories": [
-        "Football",
-        "GFA",
-        "kivo",
-        "Kivo U-17 Regional Champions Cup"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/KIVO-U-17.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa demands debt relief and direct finance at COP31 Climate Summit",
-      "link": "https://www.myjoyonline.com/africa-demands-debt-relief-and-direct-finance-at-cop31-climate-summit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:19:35.000Z",
-      "summary": "The African Group of Negotiators on Climate Change (AGN) has noted that the world’s transition away from fossil fuels cannot be called \"just\" if low- and middle-income nations must mortgage…",
-      "categories": [
-        "Africa",
-        "National",
-        "COP31 Climate Summit"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-14.23.50-1-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/drug2.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "ASOHOM hosts “Woven Currents” charity art gala for sustainable Water Futures",
@@ -150,36 +269,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.47.20-1024x576.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana seeks deeper Chinese investment in mining and mineral processing",
-      "link": "https://www.myjoyonline.com/ghana-seeks-deeper-chinese-investment-in-mining-and-mineral-processing/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:16:40.000Z",
-      "summary": "Ghana is seeking to expand its mining partnership with China, with a renewed push for investment in mineral processing, technology transfer and exploration as part of efforts to retain more…",
-      "categories": [
-        "National",
-        "Chinese",
-        "Ghana",
-        "Investment"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.42.27-PM.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Finding Love in Accra Episode 5: Dinner and other miscalculations",
-      "link": "https://www.myjoyonline.com/finding-love-in-accra-episode-5-dinner-and-other-miscalculations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T16:16:13.000Z",
-      "summary": "Read Also: Finding Love In Accra Episode 4: Let me hear your voice By Saturday evening, I had shaved things that had no appointment. Let me confess early so we can all be disappointed in me…",
-      "categories": [
-        "National",
-        "Relationships",
-        "Dinner",
-        "Finding Love in Accra"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Dating-In-Accra-1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Black Star Fashion Week Kicks Off In Accra With Summit",
@@ -259,7 +348,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Hamile curfew hours revised from 6pm–5am to 10pm–4am",
+      "title": "Hamile daily curfew hours reduced from 11 to six",
       "link": "https://www.graphic.com.gh/news/general-news/government-reviews-hamile-curfew-hours-to-10pm-4am.html",
       "source": "Daily Graphic",
       "published": "2026-11-05T15:44:48.000Z",
@@ -268,54 +357,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/02/images%2029.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Traditional leaders rally behind GMTF as Eastern Regional tour begins",
-      "link": "https://www.graphic.com.gh/news/health/traditional-leaders-rally-behind-gmtf-as-eastern-regional-tour-begins.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T14:02:55.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'It is not allowed': GBA President warns new lawyers against filming court entrances",
-      "link": "https://www.graphic.com.gh/news/general-news/it-is-not-allowed-gba-president-warns-new-lawyers-against-filming-court-entrances.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T13:32:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bunjai community affected by floods receive support from Salaga North MP and NADMO",
-      "link": "https://www.graphic.com.gh/news/general-news/bunjai-community-affected-by-floods-receive-support-from-salaga-north-mp-and-nadmo.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T13:31:22.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/bunjai4.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana pushes Africa-Caribbean reunion",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-pushes-africa-caribbean-reunion.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T13:14:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -329,18 +370,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/05/Ronaldo.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "NHIA disburses GH¢210million to healthcare providers, warns against illegal charges",
-      "link": "https://www.graphic.com.gh/news/general-news/nhia-disburses-ghc210million-to-healthcare-providers-warns-against-illegal-charges.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T11:47:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/aug/12/NHIS.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "World record 53 red cards shown in Brazilian youth game",
@@ -391,18 +420,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Remove barriers to diaspora return — Govt urged",
-      "link": "https://ghanaiantimes.com.gh/remove-barriers-to-diaspora-return-govt-urged/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T09:05:32.000Z",
-      "summary": "GHANA has been urged to remove barriers to the permanent return of Africans in the diaspora and establish practical support systems to enable them to settle, invest and contribute to…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "FIFA U-17 WWC: Nigeria’s Flamingos overcome Brazil to set up final against Japan",
       "link": "https://www.graphic.com.gh/sports/sports-news/fifa-u-17-wwc-nigerias-flamingos-overcome-brazil-to-set-up-final-against-japan.html",
       "source": "Graphic Sports",
@@ -424,18 +441,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/04/EVA.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "6 Key takeaways from GFA President Kurt Okraku’s meeting with Parliament’s Select Committee on Sports",
-      "link": "https://www.graphic.com.gh/sports/sports-news/7-key-takeaways-from-gfa-president-kurt-okrakus-meeting-with-parliaments-select-committee-on-sports.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-04T22:02:27.000Z",
-      "summary": "1. Removal of restrictions on alcohol sponsorship One of the major issues raised by Mr Simeon-Okraku was the restriction on alcoholic beverage companies sponsoring sporting activities…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/KURT.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
