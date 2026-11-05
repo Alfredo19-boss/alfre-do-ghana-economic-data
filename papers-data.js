@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-05T01:52:27.178Z",
+  "updated": "2026-11-05T08:37:34.213Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,33 +25,224 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Over 80 deaf students in Savelugu receive practical robotics training by Untamed Voices",
-      "link": "https://www.myjoyonline.com/over-80-deaf-students-in-savelugu-receive-practical-robotics-training-by-untamed-voices/",
+      "title": "92% of Ghanaian households have access to improved drinking water – Government Statistician",
+      "link": "https://www.myjoyonline.com/92-of-ghanaian-households-have-access-to-improved-drinking-water-government-statistician/",
       "source": "MyJoyOnline",
-      "published": "2026-11-04T23:01:11.000Z",
-      "summary": "More than 80 students of the Savelugu School for the Deaf in the Northern Region have received practical training in robotics and basic electronics as part of an initiative to expand access…",
+      "published": "2026-11-05T08:32:09.000Z",
+      "summary": "About 92 per cent of households in Ghana have access to improved drinking water, representing a significant increase from 60.7 per cent recorded in 2000, Government Statistician Dr Alhassan…",
       "categories": [
-        "Education",
-        "Regional",
-        "Deaf students",
-        "Students",
-        "Untamed Voices"
+        "National",
+        "Drinking Water",
+        "potable Water"
       ],
-      "image": null,
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/Water--1024x576.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Kellogg’s admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "link": "https://www.myjoyonline.com/kelloggs-admits-snap-crackle-and-pop-is-quieter-after-uproar-over-rice-krispies-recipe-change/",
+      "title": "UNFPA urges Ghana to make population data central to national development planning",
+      "link": "https://www.myjoyonline.com/unfpa-urges-ghana-to-make-population-data-central-to-national-development-planning/",
       "source": "MyJoyOnline",
-      "published": "2026-11-04T23:00:00.000Z",
-      "summary": "Kellogg's has told the BBC that the \"snap, crackle and pop\" sound in its Rice Krispies may be noticeably quieter after an uproar over the cereal giant's recipe change.",
+      "published": "2026-11-05T08:29:05.000Z",
+      "summary": "The United Nations Population Fund (UNFPA) has called on Ghana to place population data and demographic trends at the centre of its national development planning to support evidence-based…",
       "categories": [
         "National",
-        "News",
-        "Rice Krispies"
+        "Dr Wilfred Ochan",
+        "Population",
+        "UNFPA"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-415-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Untitled-design_2.jpg.avif",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "UNFPA urges stronger partnerships to end maternal deaths, child marriage and gender-based violence in Ghana",
+      "link": "https://www.myjoyonline.com/unfpa-urges-stronger-partnerships-to-end-maternal-deaths-child-marriage-and-gender-based-violence-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T08:26:27.000Z",
+      "summary": "The United Nations Population Fund (UNFPA) has called for stronger partnerships among government institutions, traditional authorities, civil society organisations and development partners…",
+      "categories": [
+        "National",
+        "Child marriage",
+        "Dr Wilfred Ochan",
+        "Gender-Based Violence",
+        "Maternal deaths",
+        "UNFPA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/04/child-marriage.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s population growth rate drops to 2.1%, population to double in 33 years – Gov’t Statistician",
+      "link": "https://www.myjoyonline.com/ghanas-population-growth-rate-drops-to-2-1-population-to-double-in-33-years-govt-statistician/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T08:16:50.000Z",
+      "summary": "Ghana’s annual population growth rate has declined to 2.1 per cent, extending the period within which the country’s population is expected to double to approximately 33 years, Government…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Ghana",
+        "Population"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-14.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
+      "link": "https://ghanaiantimes.com.gh/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T08:11:54.000Z",
+      "summary": "WHILE the Democratic Republic of the Congo (DRC) continues to grapple with the deadliest Ebola outbreak in its history, another disease is taking a heavy toll on wildlife in Virunga…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "King Charles urges Commonwealth to address slavery legacy",
+      "link": "https://ghanaiantimes.com.gh/king-charles-urges-commonwealth-to-address-slavery-legacy/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T08:07:18.000Z",
+      "summary": "KING Charles told Commonwealth leaders on Tuesday that his greater understanding of the horrors of slavery had made him more determined to address past wrongs, but they needed to look to…",
+      "categories": [
+        "World"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Today’s Front pages: Thursday, November 5, 2026",
+      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-5-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T08:00:07.000Z",
+      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "Newspaper Front pages"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-425.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament to introduce biometric attendance, electronic voting systems",
+      "link": "https://ghanaiantimes.com.gh/parliament-to-introduce-biometric-attendance-electronic-voting-systems/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T07:59:44.000Z",
+      "summary": "PARLIAMENT is to introduce a fully biometric attendance system for Members of Parliament (MPs), replacing the traditional paper-based register, as part of efforts to strengthen…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Make responsible mining bankable",
+      "link": "https://ghanaiantimes.com.gh/make-responsible-mining-bankable/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T07:58:15.000Z",
+      "summary": "GHANA’S small-scale mining sector plays an important role in the national economy. It provides livelihoods for thousands of people, supports businesses in mining communities and contributes…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Tricycle rider jailed 14 years for defiling three-year-old girl",
+      "link": "https://ghanaiantimes.com.gh/tricycle-rider-jailed-14-years-for-defiling-three-year-old-girl/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T07:56:54.000Z",
+      "summary": "A 29-year-old tricycle rider has been sentenced to 14 years’ imprisonment with hard labour for defiling a three-year-old girl at Tiegber in the Wa Municipality. The convict, Naah Mashood…",
+      "categories": [
+        "Crime"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Adisadel College 2002 year group begins GH¢4.6m Clean Water Hub project",
+      "link": "https://www.myjoyonline.com/adisadel-college-2002-year-group-begins-gh%c2%a24-6m-clean-water-hub-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T07:53:50.000Z",
+      "summary": "The Adisadel College 2002 year group has begun work on its Clean Water Hub legacy project with a sod-cutting ceremony to address the school’s longstanding water supply challenges and…",
+      "categories": [
+        "Education",
+        "Adisadel College",
+        "Clean Water Hub",
+        "Clint Yoosi Boa-Amponsem",
+        "Santa 2G2"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/adis-2.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Police arrest 3 over robberies targeting bank customers in Kumasi",
+      "link": "https://ghanaiantimes.com.gh/police-arrest-3-over-robberies-targeting-bank-customers-in-kumasi/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T07:51:19.000Z",
+      "summary": "THE police have arrested three Nigerian nationals suspected of belonging to a criminal syndicate that allegedly robbed bank customers of large sums of money in Kumasi and its environs. The…",
+      "categories": [
+        "Crime"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NACOC destroys cannabis gardens in Nadowli District",
+      "link": "https://ghanaiantimes.com.gh/nacoc-destroys-cannabis-gardens-in-nadowli-district/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T07:45:30.000Z",
+      "summary": "THE Upper West Regional Command of the Narcotics Control Commission (NACOC), in a joint operation with the Ghana Immigration Service (GIS), has carried out successful operations at some…",
+      "categories": [
+        "Crime"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "MultiChoice Ghana introduces four new DStv packages, cuts subscription prices",
+      "link": "https://www.myjoyonline.com/multichoice-ghana-introduces-four-new-dstv-packages-cuts-subscription-prices/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T07:40:49.000Z",
+      "summary": "MultiChoice Ghana has introduced four simplified DStv packages, with subscription prices significantly reduced as part of efforts to make its content more accessible and affordable to…",
+      "categories": [
+        "Business",
+        "Technology",
+        "Alex Okyere",
+        "DStv",
+        "English Premier League",
+        "La Liga and Serie A",
+        "Multichoice",
+        "UEFA Champions League"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/05/DSTV_logo-1024x625.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GCCE urges stronger collaboration to tackle electric 2-wheeler industry financing",
+      "link": "https://ghanaiantimes.com.gh/gcce-urges-stronger-collaboration-to-tackle-electric-2-wheeler-industry-financing/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T07:39:27.000Z",
+      "summary": "THE Programmes and Outreach Manager of the Ghana Chamber of Clean Energy (GCCE), Ms Emmanuella Biney, has called for stronger collaboration among government, financial institutions and…",
+      "categories": [
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana, Trinidad and Tobago explore joint mechanism for reparatory justice",
+      "link": "https://www.myjoyonline.com/ghana-trinidad-and-tobago-explore-joint-mechanism-for-reparatory-justice/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T06:24:02.000Z",
+      "summary": "Ghana and Trinidad and Tobago are exploring the establishment of a dedicated mechanism, potentially co-chaired by the African Union (AU) and the Caribbean Community (CARICOM), to advance…",
+      "categories": [
+        "National",
+        "Ghana",
+        "Trinidad and Tobago"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-4.56.26-AM-1024x612.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -67,62 +258,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Agalga rejects cocaine probe by Parliament, says criminal investigations lie outside its powers",
-      "link": "https://www.myjoyonline.com/agalga-rejects-cocaine-probe-by-parliament-says-criminal-investigations-lie-outside-its-powers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T22:35:00.000Z",
-      "summary": "Majority Leader James Agalga has rejected the Minority’s push for a parliamentary probe into cocaine seizures, saying the House has no power to conduct criminal investigations.",
-      "categories": [
-        "Politics",
-        "James Agalga",
-        "Majority leader"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/the-speaker-has-a-birds-eye-view.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AngloGold Ashanti, Endeavour Mining host maiden West Africa mine rescue competition",
-      "link": "https://www.myjoyonline.com/anglogold-ashanti-endeavour-mining-host-maiden-west-africa-mine-rescue-competition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T22:27:48.000Z",
-      "summary": "AngloGold Ashanti's Obuasi Mine and Endeavour Mining have jointly hosted the maiden edition of the West Africa Mine Rescue and Emergency Response Competition (WAMRERC 2026), bringing…",
-      "categories": [
-        "National",
-        "africa mine rescue",
-        "Anglogold Ashanti",
-        "endeavour mining"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-12.29.32-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US voters name economy and state of democracy as top issues, poll says",
-      "link": "https://www.myjoyonline.com/us-voters-name-economy-and-state-of-democracy-as-top-issues-poll-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T22:18:00.000Z",
-      "summary": "An election-day poll says the economy and the state of democracy are the top issues for US voters.",
-      "categories": [
-        "International"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/image-494-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mugabe’s son arrested over ‘assault’ during luxury car smuggling probe",
-      "link": "https://www.myjoyonline.com/mugabes-son-arrested-over-assault-during-luxury-car-smuggling-probe/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T22:10:30.000Z",
-      "summary": "Bellarmine Chatunga Mugabe, the son of Zimbabwe's late former president Robert Mugabe, has been arrested in connection with an assault case, police say.",
-      "categories": [
-        "Africa",
-        "International",
-        "Mugabe",
-        "Mugabe's son"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "7 Key takeaways from GFA President Kurt Okraku’s meeting with Parliament’s Select Committee on Sports",
       "link": "https://www.graphic.com.gh/sports/sports-news/7-key-takeaways-from-gfa-president-kurt-okrakus-meeting-with-parliaments-select-committee-on-sports.html",
       "source": "Graphic Sports",
@@ -133,34 +268,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/04/KURT.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Elon Musk’s millions failed to deliver Republican wins in fierce midterms",
-      "link": "https://www.myjoyonline.com/elon-musks-millions-failed-to-deliver-republican-wins-in-fierce-midterms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T22:00:00.000Z",
-      "summary": "Elon Musk spent almost $450m (£334m), more than anyone has ever spent in an election cycle, to back Republican political candidates in the US midterm races. It was not enough to keep…",
-      "categories": [
-        "International",
-        "Elon Musk",
-        "US Midterm Elections"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-2343-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Father, son arrested over alleged murder at Assin Akrofuom",
-      "link": "https://www.myjoyonline.com/father-son-arrested-over-alleged-murder-at-assin-akrofuom/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T21:49:00.000Z",
-      "summary": "The Assin South District Police Command has arrested a father and his son for their alleged involvement in the death of a 31-year-old man at Assin Akrofuom.",
-      "categories": [
-        "Crime",
-        "Assin Akrofuom",
-        "Murder"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/image-1953.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "'Let’s overcome this shameful chapter and heal the past' - King Charles to Commonwealth",
@@ -235,58 +342,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Traffitech-GH: Motorists must check notification comes from official sender- Police",
-      "link": "https://ghanaiantimes.com.gh/traffitech-gh-motorists-must-check-notification-comes-from-official-sender-police/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T17:48:36.000Z",
-      "summary": "The Ghana Police Service has begun automated enforcement of road traffic laws under a new system dubbed Traffitech-GH. In a statement signed by the Director-General of Public Affairs…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "“Paper economy, pocket dry” — Miracles Aboagye slams government",
-      "link": "https://ghanaiantimes.com.gh/paper-economy-pocket-dry-miracles-aboagye-slams-government/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T17:47:18.000Z",
-      "summary": "The Director of Communications of the New Patriotic Party (NPP), Miracles Aboagye, has taken a swipe at the government over the worsening cost of living in the country. In a strongly worded…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "“I want justice for my son” — Mother of slain 15-Year-old Javits Frimpong leaves Ghana for USA",
-      "link": "https://ghanaiantimes.com.gh/i-want-justice-for-my-son-mother-of-slain-15-year-old-javits-frimpong-leaves-ghana-for-usa/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T17:44:48.000Z",
-      "summary": "Emotions ran high at the Kotoka International Airport this morning as Madam Doris Adu Gyamfi, mother of 15-year-old Javits Frimpong, departed Ghana for the United States to join her family…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Asante Kotoko mourns former brands and Marketing Manager, Kweku Hammond",
-      "link": "https://ghanaiantimes.com.gh/asante-kotoko-mourns-former-brands-and-marketing-manager-kweku-hammond/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T17:43:04.000Z",
-      "summary": "Asante Kotoko SC has announced with deep sadness the passing of its former Brands and Marketing Manager, Kweku Hammond. In a statement released by the club, Kotoko described Hammond’s death…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Finance Minister Ato Forson to show how 'Ghana moves forward' in 2027 Budget",
       "link": "https://www.graphic.com.gh/news/general-news/what-you-need-to-know-about-new-economy-agenda-ahead-of-november-12-budget-presentation.html",
       "source": "Daily Graphic",
@@ -297,32 +352,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/04/CASSIEL.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fiifi Boafo declares intention to Contest Tarkwa-Nsuaem NPP Primaries As Mireku Duker eyes comeback",
-      "link": "https://ghanaiantimes.com.gh/fiifi-boafo-declares-intention-to-contest-tarkwa-nsuaem-npp-primaries-as-mireku-duker-eyes-comeback/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T17:41:07.000Z",
-      "summary": "Former COCOBOD Director of Public Affairs, Fiifi Boafo, has declared his intention to contest the New Patriotic Party (NPP) parliamentary primaries in the Tarkwa-Nsuaem Constituency. Boafo…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Sam George meets Defence Minister, Military High Command over Ningo-Prampram operation",
-      "link": "https://ghanaiantimes.com.gh/sam-george-meets-defence-minister-military-high-command-over-ningo-prampram-operation/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T17:38:53.000Z",
-      "summary": "Member of Parliament for Ningo-Prampram and Minister for Communications and Digital Innovation, Samuel Nartey George, has met with the Minister for Defence to discuss matters arising from a…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Police warn motorists to verify TraffiTech-GH tickets before payment",
@@ -407,30 +436,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "115 Ga-Adangme students receive full tertiary scholarships",
-      "link": "https://ghanaiantimes.com.gh/115-ga-adangme-students-receive-full-tertiary-scholarships/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T08:03:43.000Z",
-      "summary": "A total of 115 needy but brilliant tertiary students from the Ga-Adangme State have been awarded full scholarships under a joint initiative by the RNAQ Foundation and the Mantse Foundation…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Keta gets 2 new CHPS compounds to improve healthcare",
-      "link": "https://ghanaiantimes.com.gh/keta-gets-2-new-chps-compounds-to-improve-healthcare/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-04T08:02:04.000Z",
-      "summary": "The Volta Regional Minister, Mr James Gunu, has inaugurated two newly constructed Community-based Health Planning and Services (CHPS) compounds at Seva and Tengeykope-Anyrawase in the Keta…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/Keta-gets-2-new-CHPS-compounds-xxxxx-1024x460.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
