@@ -3,7 +3,7 @@
  * Do not edit by hand.
  */
 window.GDC_AFRICA = {
-  "updated": "2026-10-26T01:22:12.843Z",
+  "updated": "2026-11-05T14:58:41.567Z",
   "indicator": "Consumer price inflation, % on a year earlier",
   "note": "The prevailing rate: each country's most recently published month-on-year consumer price inflation. Countries publish at different times, so the month shown differs between them. Ghana's own figure is the Ghana Statistical Service reading carried across from the dashboard; every other country comes from the World Bank's monthly series.",
   "source": "World Bank Global Economic Monitor",
