@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-05T08:37:34.213Z",
+  "updated": "2026-11-05T16:48:32.708Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,225 +25,394 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "92% of Ghanaian households have access to improved drinking water – Government Statistician",
-      "link": "https://www.myjoyonline.com/92-of-ghanaian-households-have-access-to-improved-drinking-water-government-statistician/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T08:32:09.000Z",
-      "summary": "About 92 per cent of households in Ghana have access to improved drinking water, representing a significant increase from 60.7 per cent recorded in 2000, Government Statistician Dr Alhassan…",
-      "categories": [
-        "National",
-        "Drinking Water",
-        "potable Water"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/Water--1024x576.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UNFPA urges Ghana to make population data central to national development planning",
-      "link": "https://www.myjoyonline.com/unfpa-urges-ghana-to-make-population-data-central-to-national-development-planning/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T08:29:05.000Z",
-      "summary": "The United Nations Population Fund (UNFPA) has called on Ghana to place population data and demographic trends at the centre of its national development planning to support evidence-based…",
-      "categories": [
-        "National",
-        "Dr Wilfred Ochan",
-        "Population",
-        "UNFPA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Untitled-design_2.jpg.avif",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UNFPA urges stronger partnerships to end maternal deaths, child marriage and gender-based violence in Ghana",
-      "link": "https://www.myjoyonline.com/unfpa-urges-stronger-partnerships-to-end-maternal-deaths-child-marriage-and-gender-based-violence-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T08:26:27.000Z",
-      "summary": "The United Nations Population Fund (UNFPA) has called for stronger partnerships among government institutions, traditional authorities, civil society organisations and development partners…",
-      "categories": [
-        "National",
-        "Child marriage",
-        "Dr Wilfred Ochan",
-        "Gender-Based Violence",
-        "Maternal deaths",
-        "UNFPA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2021/04/child-marriage.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s population growth rate drops to 2.1%, population to double in 33 years – Gov’t Statistician",
-      "link": "https://www.myjoyonline.com/ghanas-population-growth-rate-drops-to-2-1-population-to-double-in-33-years-govt-statistician/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T08:16:50.000Z",
-      "summary": "Ghana’s annual population growth rate has declined to 2.1 per cent, extending the period within which the country’s population is expected to double to approximately 33 years, Government…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Ghana",
-        "Population"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-14.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
-      "link": "https://ghanaiantimes.com.gh/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park/",
+      "title": "Korea supports preservation of Ghana’s forts and castles",
+      "link": "https://ghanaiantimes.com.gh/korea-supports-preservation-of-ghanas-forts-and-castles/",
       "source": "Ghanaian Times",
-      "published": "2026-11-05T08:11:54.000Z",
-      "summary": "WHILE the Democratic Republic of the Congo (DRC) continues to grapple with the deadliest Ebola outbreak in its history, another disease is taking a heavy toll on wildlife in Virunga…",
-      "categories": [
-        "World"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "King Charles urges Commonwealth to address slavery legacy",
-      "link": "https://ghanaiantimes.com.gh/king-charles-urges-commonwealth-to-address-slavery-legacy/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T08:07:18.000Z",
-      "summary": "KING Charles told Commonwealth leaders on Tuesday that his greater understanding of the horrors of slavery had made him more determined to address past wrongs, but they needed to look to…",
-      "categories": [
-        "World"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Today’s Front pages: Thursday, November 5, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-thursday-november-5-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T08:00:07.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "Newspaper Front pages"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-425.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Parliament to introduce biometric attendance, electronic voting systems",
-      "link": "https://ghanaiantimes.com.gh/parliament-to-introduce-biometric-attendance-electronic-voting-systems/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T07:59:44.000Z",
-      "summary": "PARLIAMENT is to introduce a fully biometric attendance system for Members of Parliament (MPs), replacing the traditional paper-based register, as part of efforts to strengthen…",
+      "published": "2026-11-05T16:40:31.000Z",
+      "summary": "The Government of the Republic of Korea has presented a second consignment of equipment to support the study, maintenance and preservation of Ghana’s historic forts and castles under the…",
       "categories": [
         "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Make responsible mining bankable",
-      "link": "https://ghanaiantimes.com.gh/make-responsible-mining-bankable/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T07:58:15.000Z",
-      "summary": "GHANA’S small-scale mining sector plays an important role in the national economy. It provides livelihoods for thousands of people, supports businesses in mining communities and contributes…",
-      "categories": [
-        "Editorial"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Tricycle rider jailed 14 years for defiling three-year-old girl",
-      "link": "https://ghanaiantimes.com.gh/tricycle-rider-jailed-14-years-for-defiling-three-year-old-girl/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T07:56:54.000Z",
-      "summary": "A 29-year-old tricycle rider has been sentenced to 14 years’ imprisonment with hard labour for defiling a three-year-old girl at Tiegber in the Wa Municipality. The convict, Naah Mashood…",
-      "categories": [
-        "Crime"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Adisadel College 2002 year group begins GH¢4.6m Clean Water Hub project",
-      "link": "https://www.myjoyonline.com/adisadel-college-2002-year-group-begins-gh%c2%a24-6m-clean-water-hub-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T07:53:50.000Z",
-      "summary": "The Adisadel College 2002 year group has begun work on its Clean Water Hub legacy project with a sod-cutting ceremony to address the school’s longstanding water supply challenges and…",
-      "categories": [
-        "Education",
-        "Adisadel College",
-        "Clean Water Hub",
-        "Clint Yoosi Boa-Amponsem",
-        "Santa 2G2"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/adis-2.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Police arrest 3 over robberies targeting bank customers in Kumasi",
-      "link": "https://ghanaiantimes.com.gh/police-arrest-3-over-robberies-targeting-bank-customers-in-kumasi/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T07:51:19.000Z",
-      "summary": "THE police have arrested three Nigerian nationals suspected of belonging to a criminal syndicate that allegedly robbed bank customers of large sums of money in Kumasi and its environs. The…",
-      "categories": [
-        "Crime"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NACOC destroys cannabis gardens in Nadowli District",
-      "link": "https://ghanaiantimes.com.gh/nacoc-destroys-cannabis-gardens-in-nadowli-district/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T07:45:30.000Z",
-      "summary": "THE Upper West Regional Command of the Narcotics Control Commission (NACOC), in a joint operation with the Ghana Immigration Service (GIS), has carried out successful operations at some…",
-      "categories": [
-        "Crime"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "MultiChoice Ghana introduces four new DStv packages, cuts subscription prices",
-      "link": "https://www.myjoyonline.com/multichoice-ghana-introduces-four-new-dstv-packages-cuts-subscription-prices/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T07:40:49.000Z",
-      "summary": "MultiChoice Ghana has introduced four simplified DStv packages, with subscription prices significantly reduced as part of efforts to make its content more accessible and affordable to…",
-      "categories": [
-        "Business",
-        "Technology",
-        "Alex Okyere",
-        "DStv",
-        "English Premier League",
-        "La Liga and Serie A",
-        "Multichoice",
-        "UEFA Champions League"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2024/05/DSTV_logo-1024x625.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GCCE urges stronger collaboration to tackle electric 2-wheeler industry financing",
-      "link": "https://ghanaiantimes.com.gh/gcce-urges-stronger-collaboration-to-tackle-electric-2-wheeler-industry-financing/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T07:39:27.000Z",
-      "summary": "THE Programmes and Outreach Manager of the Ghana Chamber of Clean Energy (GCCE), Ms Emmanuella Biney, has called for stronger collaboration among government, financial institutions and…",
-      "categories": [
         "News"
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Ghana, Trinidad and Tobago explore joint mechanism for reparatory justice",
-      "link": "https://www.myjoyonline.com/ghana-trinidad-and-tobago-explore-joint-mechanism-for-reparatory-justice/",
+      "title": "JUSAG cites pay disparities, working conditions in defence of strike",
+      "link": "https://www.myjoyonline.com/jusag-cites-pay-disparities-working-conditions-in-defence-of-strike/",
       "source": "MyJoyOnline",
-      "published": "2026-11-05T06:24:02.000Z",
-      "summary": "Ghana and Trinidad and Tobago are exploring the establishment of a dedicated mechanism, potentially co-chaired by the African Union (AU) and the Caribbean Community (CARICOM), to advance…",
+      "published": "2026-11-05T16:40:05.000Z",
+      "summary": "The General Secretary of the Judicial Service Staff Association of Ghana (JUSAG), Abdulai Yakubu, has cited disparities between judicial workers’ legal entitlements and their actual…",
       "categories": [
         "National",
-        "Ghana",
-        "Trinidad and Tobago"
+        "Abdulai Yakubu",
+        "JUSAG"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-4.56.26-AM-1024x612.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/General-Secretary-of-the-Judicial-Service-Association-of-Ghana-JUSAG-Abdulai-Yakubu-2.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Government absorbs over GH¢2bn to cushion fuel consumers – NPA CEO",
+      "link": "https://www.myjoyonline.com/government-absorbs-over-gh%c2%a22bn-to-cushion-fuel-consumers-npa-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T16:39:12.000Z",
+      "summary": "The Chief Executive Officer of the National Petroleum Authority (NPA), Godwin Kudzo Tameklo, says the government has so far absorbed more than GH¢2 billion to ease the financial burden on…",
+      "categories": [
+        "National",
+        "Fuel",
+        "NPA",
+        "Oil Production",
+        "OMC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/image-3114-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s BRICS partnership proposal came from Akufo-Addo-era committee – Mahama",
+      "link": "https://www.myjoyonline.com/ghanas-brics-partnership-proposal-came-from-akufo-addo-era-committee-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T16:38:33.000Z",
+      "summary": "President John Dramani Mahama says Ghana’s decision to pursue a partnership with the BRICS bloc was first recommended by a ministerial committee set up under the previous administration led…",
+      "categories": [
+        "National",
+        "Akufo-Addo",
+        "BRICS",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/PRESIDENT-Port-charges-President-Mahama-addressing-the-freight-forwarders.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Bawumia urges government to prioritise gold reserves over trading",
+      "link": "https://www.myjoyonline.com/bawumia-urges-government-to-prioritise-gold-reserves-over-trading/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T16:37:23.000Z",
+      "summary": "New Patriotic Party (NPP) flagbearer Dr Mahamudu Bawumia has called on the government to focus on building Ghana’s gold reserves rather than trading in the commodity, arguing that the Bank…",
+      "categories": [
+        "National",
+        "Bawumia",
+        "Gold Reserve",
+        "Government"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Dr-Mahamudu-Bawumia.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Private hospital plans to construct oxygen producing plant at Kumdi in Kpandai District",
+      "link": "https://www.graphic.com.gh/news/health/private-hospital-plans-to-construct-oxygen-producing-plant-at-kumdi-in-kpandai-district.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T16:36:19.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/titus.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GFA, Kivo launch U-17 Regional Champions Cup",
+      "link": "https://www.myjoyonline.com/gfa-kivo-launch-u-17-regional-champions-cup/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T16:20:41.000Z",
+      "summary": "The competition was launched at the GFA Secratariat on Thursday, November 5, providing another platform for emerging talents across the country.",
+      "categories": [
+        "Football",
+        "GFA",
+        "kivo",
+        "Kivo U-17 Regional Champions Cup"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/KIVO-U-17.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Africa demands debt relief and direct finance at COP31 Climate Summit",
+      "link": "https://www.myjoyonline.com/africa-demands-debt-relief-and-direct-finance-at-cop31-climate-summit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T16:19:35.000Z",
+      "summary": "The African Group of Negotiators on Climate Change (AGN) has noted that the world’s transition away from fossil fuels cannot be called \"just\" if low- and middle-income nations must mortgage…",
+      "categories": [
+        "Africa",
+        "National",
+        "COP31 Climate Summit"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-14.23.50-1-1024x768.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ASOHOM hosts “Woven Currents” charity art gala for sustainable Water Futures",
+      "link": "https://ghanaiantimes.com.gh/asohom-hosts-woven-currents-charity-art-gala-for-sustainable-water-futures/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T16:17:20.000Z",
+      "summary": "The Association of Spouses of Heads of Diplomatic Missions and International Organizations (ASOHOM) brought art, diplomacy and philanthropy together for its glamorous black-tie charity…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.47.20-1024x576.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana seeks deeper Chinese investment in mining and mineral processing",
+      "link": "https://www.myjoyonline.com/ghana-seeks-deeper-chinese-investment-in-mining-and-mineral-processing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T16:16:40.000Z",
+      "summary": "Ghana is seeking to expand its mining partnership with China, with a renewed push for investment in mineral processing, technology transfer and exploration as part of efforts to retain more…",
+      "categories": [
+        "National",
+        "Chinese",
+        "Ghana",
+        "Investment"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.42.27-PM.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Finding Love in Accra Episode 5: Dinner and other miscalculations",
+      "link": "https://www.myjoyonline.com/finding-love-in-accra-episode-5-dinner-and-other-miscalculations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T16:16:13.000Z",
+      "summary": "Read Also: Finding Love In Accra Episode 4: Let me hear your voice By Saturday evening, I had shaved things that had no appointment. Let me confess early so we can all be disappointed in me…",
+      "categories": [
+        "National",
+        "Relationships",
+        "Dinner",
+        "Finding Love in Accra"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/Dating-In-Accra-1024x576.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Black Star Fashion Week Kicks Off In Accra With Summit",
+      "link": "https://ghanaiantimes.com.gh/black-star-fashion-week-kicks-off-in-accra-with-summit/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T16:13:40.000Z",
+      "summary": "The inaugural Black Star Fashion Week (BSFW) kicked off on Wednesday with a summit at the Movenpick Ambassador Hotel in Accra. Put together by the Rex Omar-led Black Star Experience and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.42.00-2-1024x682.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "IMANI Ghana’s Franklin Cudjoe undergoes surgery in Chicago",
+      "link": "https://ghanaiantimes.com.gh/imani-ghanas-franklin-cudjoe-undergoes-surgery-in-chicago/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T16:07:37.000Z",
+      "summary": "Franklin Cudjoe, Founding President and CEO of IMANI Centre for Policy and Education, has undergone surgery at RUSH University Medical Center in Chicago. In a message ahead of the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana’s Abena Osei-Asare retains AFROPAC Deputy Chair position",
+      "link": "https://ghanaiantimes.com.gh/ghanas-abena-osei-asare-retains-afropac-deputy-chair-position/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T16:06:09.000Z",
+      "summary": "Member of Parliament for Atiwa East and Chairperson of the Public Accounts Committee of Ghana’s Parliament, Abena Osei-Asare,has been retained as Deputy Chairperson of the African…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bids received for Volivo Bridge Project as Government targets 2027 groundbreaking",
+      "link": "https://ghanaiantimes.com.gh/bids-received-for-volivo-bridge-project-as-government-targets-2027-groundbreaking/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T16:03:40.000Z",
+      "summary": "The government has received bids for the construction of the Volivo Bridge over the Volta River, with final evaluations currently underway ahead of the planned groundbreaking in 2027. The…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.28.51-1.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ashanti Regional Minister deepens cooperation with Guangxi in China",
+      "link": "https://ghanaiantimes.com.gh/ashanti-regional-minister-deepens-cooperation-with-guangxi-in-china/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T16:01:35.000Z",
+      "summary": "Ashanti Regional Minister, Dr. Frank Amoakohene, has held high-level talks in Nanning, China, with Wei Tao, Chairman of the People’s Government of the Guangxi Zhuang Autonomous Region. The…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.28.19-1024x819.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Upper East Region declares readiness for Korean partnership with GH₵8.6billion PEARL plan",
+      "link": "https://www.graphic.com.gh/news/general-news/upper-east-region-declares-readiness-for-korean-partnership-with-gh-8-6billion-pearl-plan.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T15:50:02.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hamile curfew hours revised from 6pm–5am to 10pm–4am",
+      "link": "https://www.graphic.com.gh/news/general-news/government-reviews-hamile-curfew-hours-to-10pm-4am.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T15:44:48.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/02/images%2029.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Traditional leaders rally behind GMTF as Eastern Regional tour begins",
+      "link": "https://www.graphic.com.gh/news/health/traditional-leaders-rally-behind-gmtf-as-eastern-regional-tour-begins.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T14:02:55.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "'It is not allowed': GBA President warns new lawyers against filming court entrances",
+      "link": "https://www.graphic.com.gh/news/general-news/it-is-not-allowed-gba-president-warns-new-lawyers-against-filming-court-entrances.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T13:32:23.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bunjai community affected by floods receive support from Salaga North MP and NADMO",
+      "link": "https://www.graphic.com.gh/news/general-news/bunjai-community-affected-by-floods-receive-support-from-salaga-north-mp-and-nadmo.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T13:31:22.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/bunjai4.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana pushes Africa-Caribbean reunion",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-pushes-africa-caribbean-reunion.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T13:14:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Cristiano Ronaldo retires from Portugal international football",
+      "link": "https://www.graphic.com.gh/sports/sports-news/cristiano-ronaldo-retires-from-portugal-international-football.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-05T12:10:02.000Z",
+      "summary": "He walked out of the Portugal camp in September after being told he would not start the Nations League match against Denmark. \"To the Portuguese people, the day has come for me to hand back…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/Ronaldo.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "NHIA disburses GH¢210million to healthcare providers, warns against illegal charges",
+      "link": "https://www.graphic.com.gh/news/general-news/nhia-disburses-ghc210million-to-healthcare-providers-warns-against-illegal-charges.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-05T11:47:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/aug/12/NHIS.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "World record 53 red cards shown in Brazilian youth game",
+      "link": "https://www.graphic.com.gh/sports/sports-news/world-record-53-red-cards-shown-in-brazilian-youth-game.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-05T10:36:31.000Z",
+      "summary": "There was also two Uberlandia board members dismissed, taking the tally up to 53. The previous record was 36, in a 2011 fifth-division game between Club Atletico Claypole and Victoriano…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/game.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "England captain Kane signs new Bayern contract",
+      "link": "https://www.graphic.com.gh/sports/sports-news/england-captain-kane-signs-new-bayern-contract.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-05T10:14:48.000Z",
+      "summary": "He scored a club record 61 goals in 51 games last season as Bayern completed a league and cup double. \"I feel right at home at FC Bayern. I love the club, the fans and the city of Munich,\"…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/Kane.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "CAF Women’s Champions League: Ampem Darkoa face stern Kawempe Ladies test today",
+      "link": "https://www.graphic.com.gh/sports/sports-news/caf-womens-champions-league-ampem-darkoa-face-stern-kawempe-ladies-test-today.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-05T10:13:11.000Z",
+      "summary": "The encounter will be the first meeting between the two clubs at the competition’s final tournament and the first between Ghanaian and East African representatives. Ampem Darkoa will be…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/ALDIES.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "French Police open investigation into 2026 Ballon d’Or betting allegations",
+      "link": "https://www.graphic.com.gh/sports/sports-news/french-police-open-investigation-into-2026-ballon-dor-betting-allegations.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-05T09:33:26.000Z",
+      "summary": "As first reported by French outlet Upside and subsequently verified by The Athletic, about €250,000 ($281,000) was wagered across the accounts, generating profits of nearly €200,000…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/BALLON.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Remove barriers to diaspora return — Govt urged",
+      "link": "https://ghanaiantimes.com.gh/remove-barriers-to-diaspora-return-govt-urged/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-05T09:05:32.000Z",
+      "summary": "GHANA has been urged to remove barriers to the permanent return of Africans in the diaspora and establish practical support systems to enable them to settle, invest and contribute to…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "FIFA U-17 WWC: Nigeria’s Flamingos overcome Brazil to set up final against Japan",
+      "link": "https://www.graphic.com.gh/sports/sports-news/fifa-u-17-wwc-nigerias-flamingos-overcome-brazil-to-set-up-final-against-japan.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-05T08:42:12.000Z",
+      "summary": "Nigeria dominated the first half, registering nine shots on target, while Brazil failed to record an attempt on goal. The Flamingos maintained their attacking intensity after the break and…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/05/FLAMINGOS2.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Eva Ampah: Leading Team Ghana, inspiring next generation of female coaches",
@@ -258,7 +427,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "7 Key takeaways from GFA President Kurt Okraku’s meeting with Parliament’s Select Committee on Sports",
+      "title": "6 Key takeaways from GFA President Kurt Okraku’s meeting with Parliament’s Select Committee on Sports",
       "link": "https://www.graphic.com.gh/sports/sports-news/7-key-takeaways-from-gfa-president-kurt-okrakus-meeting-with-parliaments-select-committee-on-sports.html",
       "source": "Graphic Sports",
       "published": "2026-11-04T22:02:27.000Z",
@@ -267,174 +436,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/04/KURT.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "'Let’s overcome this shameful chapter and heal the past' - King Charles to Commonwealth",
-      "link": "https://www.graphic.com.gh/news/general-news/lets-overcome-this-shameful-chapter-and-heal-the-past-king-charles-to-commonwealt.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T20:45:09.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/com.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Three arrested over midnight motorcycle robberies in Kumasi",
-      "link": "https://www.graphic.com.gh/news/general-news/police-arrest-three-over-midnight-motorcycle-robberies-in-kumasi.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T20:31:12.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/suspects.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Put signposts showing where Traffitech cameras are, warning motorists that there is a speed camera ahead is important for transparency - Mahama",
-      "link": "https://www.graphic.com.gh/news/general-news/we-cannot-wait-for-perfect-roads-before-rolling-out-traffitech-to-check-speed-limits-president-mahama.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T20:30:12.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/trafi.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NPP on why President Mahama must let 'heads roll' on recent trafficking of drugs through Ghana",
-      "link": "https://www.graphic.com.gh/news/general-news/npp-on-why-president-must-act-to-stop-illicit-drug-trafficking-through-ghana-and-publish-taskforce-roadmap.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T19:40:04.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/na3.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NSA targets renovation of five major stadiums by end of 2027",
-      "link": "https://www.graphic.com.gh/sports/sports-news/nsa-targets-renovation-of-five-major-stadiums-by-end-of-2027.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-04T19:15:06.000Z",
-      "summary": "Prof. Osei Sarpong expressed optimism that the programme would address the country's persistent challenges with securing suitable venues for international football matches. \"We are…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/ACCRA_STADIUM.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Black Queens nominated for Women’s National Team of the Year at 2026 CAF Awards",
-      "link": "https://www.graphic.com.gh/sports/sports-news/black-queens-nominated-for-womens-national-team-of-the-year-at-2026-caf-awards.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-04T18:30:42.000Z",
-      "summary": "The nomination follows an eventful year for the Black Queens, who featured at the 2026 Women’s Africa Cup of Nations (WAFCON) in Morocco, reaching the quarter-finals before suffering a 2-1…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/BQUEENS.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Finance Minister Ato Forson to show how 'Ghana moves forward' in 2027 Budget",
-      "link": "https://www.graphic.com.gh/news/general-news/what-you-need-to-know-about-new-economy-agenda-ahead-of-november-12-budget-presentation.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T17:41:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/04/CASSIEL.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Police warn motorists to verify TraffiTech-GH tickets before payment",
-      "link": "https://www.graphic.com.gh/news/general-news/police-warn-motorists-against-paying-unverified-traffitech-gh-fines.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T17:32:43.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/IMG_5748.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "AngloGold Ashanti awards scholarships to 30 tertiary students",
-      "link": "https://www.graphic.com.gh/news/education/anglogold-ashanti-awards-scholarships-to-30-tertiary-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T17:23:00.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Techiman SHS assault: Teachers on bail as police probe preceding events",
-      "link": "https://www.graphic.com.gh/news/general-news/techiman-shs-assault-teachers-on-bail-as-police-probe-preceding-events.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-04T17:12:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/Education-Tess-anniversary-2-scaled.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Goalkeeper involved in collision with Spanish footballer who died releases statement",
-      "link": "https://www.graphic.com.gh/sports/sports-news/goalkeeper-involved-in-collision-with-spanish-footballer-who-died-releases-statement.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-04T16:53:21.000Z",
-      "summary": "The Andorra keeper, Jesus Owono, released a statement on Wednesday after the death of Tenerife forward Jesus De Miguel. Owono and De Miguel were involved in a collision during a ​match…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/jesus_owono.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Antoine Semenyo nominated for 2026 CAF Player of the Year",
-      "link": "https://www.graphic.com.gh/sports/sports-news/antoine-semenyo-nominated-for-2026-caf-player-of-the-year.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-04T13:50:22.000Z",
-      "summary": "The 26-year-old, who joined Premier League champions Manchester City in January from Bournemouth, recorded 15 goals and eight assists in 42 appearances across club and international…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "140 golfers set for 5th Head of State Invitational Golf Tournament at Achimota",
-      "link": "https://www.graphic.com.gh/sports/sports-news/140-golfers-set-for-5th-head-of-state-invitational-golf-tournament-at-achimota.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-04T13:02:48.000Z",
-      "summary": "The tournament, which was officially launched at the Achimota Golf Clubhouse, is held in honour of President John Dramani Mahama under the theme \"Driving National Growth Through Leadership…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Ghana’s Caleb Yirenkyi battles 9 others for CAF Young Player honour",
-      "link": "https://www.graphic.com.gh/sports/sports-news/ghanas-caleb-yirenkyi-battles-9-others-for-caf-young-player-honour.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-04T11:32:51.000Z",
-      "summary": "The 20-year-old earned the nomination after impressive performances for Danish side FC Nordsjælland, which secured him a move to English Premier League club Coventry City. He also made a…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
