@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-06T09:52:37.783Z",
+  "updated": "2026-11-06T16:59:00.633Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,35 +25,307 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Palestinian Ambassador meets Ghana's Defence Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/palestinian-ambassador-meets-ghanas-defence-minister.html",
+      "title": "Institute of Packaging Ghana to strengthen collaboration with farmers, agribusinesses to boost packaging industry",
+      "link": "https://www.myjoyonline.com/institute-of-packaging-ghana-to-strengthen-collaboration-with-farmers-agribusinesses-to-boost-packaging-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:54:14.000Z",
+      "summary": "The Institute of Packaging, Ghana (IOPG) says it will deepen collaboration with farmers, agro-processors and other stakeholders in the agricultural value chain to improve packaging…",
+      "categories": [
+        "Agribusiness",
+        "News",
+        "Farmers",
+        "Institute of packaging Ghana"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/rice-farmers.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump signs order to preserve Oval Office as national monument",
+      "link": "https://www.myjoyonline.com/trump-signs-order-to-preserve-oval-office-as-national-monument/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:54:06.000Z",
+      "summary": "US President Donald Trump has signed an executive order that he says will prevent future presidents from making certain changes to the White House Oval Office.",
+      "categories": [
+        "International",
+        "Donald Trump",
+        "Oval Office"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-632-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Over 400 Northern Ashanti Mines workers petition Mahama over mine closure",
+      "link": "https://www.myjoyonline.com/over-400-northern-ashanti-mines-workers-petition-mahama-over-mine-closure/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:53:59.000Z",
+      "summary": "More than 400 workers of Northern Ashanti Mines Limited Company (NAMLC) have petitioned President John Mahama to intervene in the closure of the mine and facilitate its reopening following…",
+      "categories": [
+        "National",
+        "Northern Ashanti Mines",
+        "President John Mahama",
+        "Workers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-639.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "link": "https://www.myjoyonline.com/spate-of-bomb-threats-poses-serious-challenge-to-airline-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:50:24.000Z",
+      "summary": "With no fewer than 32 bomb threats affecting a dozen airlines in the space of four days, the aviation industry is facing another potential crisis.",
+      "categories": [
+        "International",
+        "Airline",
+        "bomb threats",
+        "Spate"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-631-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Prioritise youth employment – TEIN, TESCON to NDC, NPP",
+      "link": "https://www.myjoyonline.com/prioritise-youth-employment-tein-tescon-to-ndc-npp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:48:00.000Z",
+      "summary": "The Tertiary Education Institutions Network (TEIN) of the governing National Democratic Congress (NDC) and the Tertiary Students' Confederacy Network (TESCON) of the opposition New…",
+      "categories": [
+        "National",
+        "Employment",
+        "NDC",
+        "NPP",
+        "TEIN",
+        "TESCON"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-614.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Historic private estate goes on sale for £65m",
+      "link": "https://www.myjoyonline.com/historic-private-estate-goes-on-sale-for-65m/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:47:52.000Z",
+      "summary": "A mansion once home to lieutenant-governors, a marmalade magnate and family of Oscar-winning actresses has been put on the market for £65m.",
+      "categories": [
+        "International",
+        "Havilland Hall",
+        "private",
+        "Sale"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-626-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AMA warns of sanctions for non-compliance with November 7 sanitation exercise",
+      "link": "https://www.myjoyonline.com/ama-warns-of-sanctions-for-non-compliance-with-november-7-sanitation-exercise/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:44:16.000Z",
+      "summary": "The Accra Metropolitan Assembly (AMA) has warned residents, traders and businesses in the metropolis that individuals found operating during the November edition of the National Sanitation…",
+      "categories": [
+        "National",
+        "AMA",
+        "November"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-625-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "No Bed Syndrome: Mahama announces expansion of accident and emergency centres at four major hospitals",
+      "link": "https://www.myjoyonline.com/no-bed-syndrome-mahama-announces-expansion-of-accident-and-emergency-centres-at-four-major-hospitals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:43:01.000Z",
+      "summary": "President John Mahama has announced plans to expand the accident and emergency centers at four major hospitals in the country, with work expected to begin next year.",
+      "categories": [
+        "National",
+        "Top Story",
+        "Mahama",
+        "no bed syndrome"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-4.19.23-AM-1024x610.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Egypt, Right to Dream Academy sign deal to advance national football talent discovery programme",
+      "link": "https://www.graphic.com.gh/sports/sports-news/egypt-right-to-dream-academy-sign-deal-to-advance-national-football-talent-discovery-programme.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-06T16:24:20.000Z",
+      "summary": "The initiative comes in implementation of directives issued by President Abdel Fattah El-Sisi at the Egypt Forum 2026 to establish a national system for identifying and developing promising…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/EGYPT_FA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Prof. Peter Quartey elected Chairman of PIAC",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prof-peter-quartey-elected-chairman-of-piac.html",
       "source": "Daily Graphic",
-      "published": "2026-11-06T09:43:29.000Z",
+      "published": "2026-11-06T15:55:23.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Oct/16/1I7A1131-2048x1463.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Quartey.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "El Niño could drive up food prices and inflation – Government Statistician",
-      "link": "https://www.myjoyonline.com/el-nino-could-drive-up-food-prices-and-inflation-government-statistician/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T09:40:11.000Z",
-      "summary": "Government Statistician Dr Alhassan Iddrisu has warned that Ghana could face fresh inflationary pressures from an anticipated severe El Niño weather event, which threatens to disrupt…",
+      "title": "8 In every 10 adults own a financial account — Finance Ministry",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-8-in-every-10-adults-own-a-financial-account-finance-ministry.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-06T15:49:18.000Z",
+      "summary": "",
       "categories": [
-        "Agribusiness",
-        "Business",
-        "HP News 5",
-        "National",
-        "News",
-        "El Nino",
-        "Food Prices",
-        "Inflation"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-569.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Thomas.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama commiserates with families of murdered Ghanaians in US",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-commiserates-with-families-of-murdered-ghanaians-in-us.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-06T15:46:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/President.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana loses $6.5bn in potential mining revenue - IFS",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-loses-6-5bn-in-potential-mining-revenue-ifs.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-06T15:40:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Said.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Security alert: Foreigners sponsoring galamsey in Savanna",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-security-alert-foreigners-sponsoring-galamsey-in-savanna.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-06T15:29:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Kwame.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Govt opens fresh bidding for Volivo Bridge",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-opens-fresh-bidding-for-volivo-bridge.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-06T15:26:29.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Agbodza.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Apply acquired knowledge to solve problems - VC challenges graduates",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-apply-acquired-knowledge-to-solve-problems-vc-challenges-graduates.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-06T15:22:54.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Mensah.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana must develop digital infrastructure — Dr Apaak",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-ghana-must-develop-digital-infrastructure-dr-apaak.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-06T15:15:59.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Apaak.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana losing billions in potential revenue due to weak collection – Dr Said Boakye, IFS.",
+      "link": "https://ghanaiantimes.com.gh/ghana-losing-billions-in-potential-revenue-due-to-weak-collection-dr-said-boakye-ifs/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T14:57:19.000Z",
+      "summary": "The Executive Director of the Institute for Fiscal Studies (IFS), Dr Said Boakye, has warned that Ghana is losing billions of dollars in potential government revenue due to weak revenue…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Minority in parliament demands answers over shutdown of Ghana health service digital platforms",
+      "link": "https://ghanaiantimes.com.gh/minority-in-parliament-demands-answers-over-shutdown-of-ghana-health-service-digital-platforms/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T14:54:14.000Z",
+      "summary": "The Minority Caucus in Parliament has called on the government and the Minister of Health, Kwabena Mintah Akandoh, to explain the shutdown of critical Ghana Health Service (GHS) digital…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Health Ministry rejects claims it is abandoning newly trained doctors",
+      "link": "https://ghanaiantimes.com.gh/health-ministry-rejects-claims-it-is-abandoning-newly-trained-doctors/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T14:47:44.000Z",
+      "summary": "The Ministry of Health has rejected claims that Ghana is training medical doctors and abandoning them after graduation due to delays in recruitment and employment. In a press release, the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "President Mahama Meets Boeing officials over new National Airline",
+      "link": "https://ghanaiantimes.com.gh/president-mahama-meets-boeing-officials-over-new-national-airline/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T14:29:29.000Z",
+      "summary": "President John Dramani Mahama has met with officials of the Boeing group, which is supporting Ghana in its bid to re-establish a national airline. Preliminary studies have affirmed the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "CAF Women's Champions League: Ampem Darkoa beat Kawempe Ladies to close in on semi-final spot",
+      "link": "https://www.graphic.com.gh/sports/sports-news/caf-womens-champions-league-ampem-darkoa-beat-kawempe-ladies-to-close-in-on-semi-final-spot.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-06T13:43:49.000Z",
+      "summary": "With neither team able to find a breakthrough for much of the second half, Beline Nyarkoh emerged as the match-winner, scoring in the 84th minute to secure all three points for the Ghanaian…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/AMPEM_DARKOA_LADIES.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "link": "https://www.graphic.com.gh/sports/sports-news/a-bitter-end-for-ronaldo-the-icon-who-transformed-portugal.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-06T11:09:03.000Z",
+      "summary": "It was the punishment imposed on the Portuguese striker for leaving the team's training camp without permission. Jesus kept him on the bench for one match and said he did not plan to start…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Ronaldo.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Old Trafford Showdown: Manchester United v Aston Villa headlines SuperSport's Premier League Match of the Week",
@@ -78,128 +350,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Sir Sam Jonah says true legacy lies in how others remember you",
-      "link": "https://www.myjoyonline.com/sir-sam-jonah-says-true-legacy-lies-in-how-others-remember-you/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T09:07:41.000Z",
-      "summary": "Business leader Sir Sam Jonah has urged people to reflect on how their actions affect others, saying a person's legacy is ultimately determined by the memories and experiences of those…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Audacity to dare",
-        "Legacy",
-        "Sir Sam Jonah",
-        "Truelife experience"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EXP21403-2-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Losing my son made me value time with loved ones more – Sir Sam Jonah",
-      "link": "https://www.myjoyonline.com/losing-my-son-made-me-value-time-with-loved-ones-more-sir-sam-jonah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T09:00:17.000Z",
-      "summary": "Business leader Sir Sam Jonah has spoken about the loss of his son, Richard, saying the experience changed his perspective on life and made him more conscious of the importance of spending…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Audacity to dare",
-        "Sir Sam Jonah",
-        "Truelife experience"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EXP21393-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nobody succeeds alone – Sir Sam Jonah reflects on journey to business leadership",
-      "link": "https://www.myjoyonline.com/nobody-succeeds-alone-sir-sam-jonah-reflects-on-journey-to-business-leadership/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T08:54:36.000Z",
-      "summary": "Business leader and Chancellor of the University of Cape Coast, Sir Sam Jonah, has challenged the notion of the self-made individual, saying his rise to the top of the mining industry was…",
-      "categories": [
-        "HP News 7",
-        "National",
-        "Audacity to dare",
-        "Sir Sam Jonah",
-        "Truelife experience",
-        "UCC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EXP21403-1-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "4.8 tonnes of marijuana with over US$1million street value heading towards Nigeria seized by Ghana Navy at Ada",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-navy-seizes-4-8-tonnes-of-suspected-marijuana-at-ada.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T08:30:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/wee3.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Today’s front pages: Friday, November 6, 2026",
-      "link": "https://www.myjoyonline.com/todays-front-pages-friday-november-6-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T08:28:47.000Z",
-      "summary": "Myjoyonline.com brings you the front pages of the various newspapers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "Newspaper Front pages"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-568-750x1024.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPCL MD defends record, challenges predecessor over GH¢22m VAT debt",
-      "link": "https://www.myjoyonline.com/gpcl-md-defends-record-challenges-predecessor-over-gh%c2%a222m-vat-debt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T07:47:49.000Z",
-      "summary": "The Managing Director of the Ghana Publishing Company Limited (GPCL) has defended his administration’s record, challenging his predecessor, David Asante Boateng, to account for about GH¢22…",
-      "categories": [
-        "National",
-        "Accountability series",
-        "GPCL",
-        "VAT debt"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-3-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "IFS calls for reforms in 2027 budget to boost domestic revenue mobilisation",
-      "link": "https://www.myjoyonline.com/ifs-calls-for-reforms-in-2027-budget-to-boost-domestic-revenue-mobilisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T07:18:56.000Z",
-      "summary": "The Institute for Fiscal Studies (IFS) is warning that Ghana’s weak domestic revenue mobilisation is undermining the country’s capacity to finance critical infrastructure, improve public…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 5",
-        "Dr Said Boakye",
-        "IFS"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-8.23.26-AM-1024x617.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Africa’s next great traveller is already at the departure gate",
-      "link": "https://www.myjoyonline.com/africas-next-great-traveller-is-already-at-the-departure-gate/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T06:38:45.000Z",
-      "summary": "For decades, Africa’s tourism industry has been preoccupied with bringing the world to its shores. A landmark Skift study commissioned by Millat Group suggests that the continent’s next…",
-      "categories": [
-        "Travel and Tourism",
-        "Africa",
-        "Tourism",
-        "Traveller"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_9603-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana Needs Financial Health Council — UN Special Advocate for Financial Health",
@@ -240,56 +390,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Inadequate funding stalls women, peace and security plan — FOSDA",
-      "link": "https://ghanaiantimes.com.gh/inadequate-funding-stalls-women-peace-and-security-plan-fosda/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T05:42:50.000Z",
-      "summary": "THE Director of the Foundation for Security and Development in Africa (FOSDA), Mrs Dorothy Barnes, has called for adequate and dedicated funding for the implementation of Ghana’s National…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Traffi-Tech GH to Curb Road Crashes • Pres Mahama Urges Motorists to Observe Speed Limits",
-      "link": "https://ghanaiantimes.com.gh/traffi-tech-gh-to-curb-road-crashes-pres-mahama-urges-motorists-to-observe-speed-limits/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T05:42:17.000Z",
-      "summary": "President John Dramani Mahama has urged motorists to cooperate with the newly deployed traffic law enforcement and road safety system, Traffi-Tech GH, expressing confidence that it will…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Finance Ministry Approves Modern Odawna Market Project",
-      "link": "https://ghanaiantimes.com.gh/finance-ministry-approves-modern-odawna-market-project/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T05:38:39.000Z",
-      "summary": "The Ministry of Finance has approved the construction of a modern market at Odawna in Accra under a Public-Private Partnership (PPP) arrangement, the Korle Klottey Municipal Assembly…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/Finance-Ministry-approves-modern-Odawna-Market-project-xxxxx-1024x683.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "From journalism and corporate communications to the law: A journey of learning, leadership, service and purpose",
-      "link": "https://ghanaiantimes.com.gh/from-journalism-and-corporate-communications-to-the-law-a-journey-of-learning-leadership-service-and-purpose/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T05:36:00.000Z",
-      "summary": "ON Friday, October 9, 2026, Emmanuel Kojo Kwarteng became a lawyer, adding the legal profession to a diverse career spanning journalism, marketing, corporate communications, public…",
-      "categories": [
-        "Features"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Yahaya’s late strike sinks Liberia as Black Challenge eye World Cup glory",
       "link": "https://www.graphic.com.gh/sports/sports-news/yahayas-late-strike-sinks-liberia-as-black-challenge-eye-world-cup-glory.html",
       "source": "Graphic Sports",
@@ -300,78 +400,6 @@ window.GDC_PAPERS = {
       ],
       "image": null,
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Fire guts two container shops near Meridian Hotel in Tema",
-      "link": "https://www.graphic.com.gh/news/general-news/fire-guts-two-container-shops-near-meridian-hotel-in-tema.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T17:23:31.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bethel SDA Osu hosts third edition of ‘The King Is Coming’ concert",
-      "link": "https://www.graphic.com.gh/news/general-news/bethel-sda-osu-hosts-third-edition-of-the-king-is-coming-concert.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T17:10:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Lambussie MP appeals for complete removal of Hamile curfew",
-      "link": "https://www.graphic.com.gh/news/politics/lambussie-mp-appeals-for-complete-removal-of-hamile-curfew.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T17:02:54.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/02/beyuo1.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "All unauthorised billboards in Accra to be removed on November 14",
-      "link": "https://www.graphic.com.gh/news/general-news/all-unauthorised-billboards-in-accra-to-be-removed-on-november-14.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T16:57:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2018/jan/29/advertisers-ama-5.JPG",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Private hospital plans to construct oxygen producing plant at Kumdi in Kpandai District",
-      "link": "https://www.graphic.com.gh/news/health/private-hospital-plans-to-construct-oxygen-producing-plant-at-kumdi-in-kpandai-district.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T16:36:19.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/titus.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NACOC destroys over $10 million worth of seized drugs",
-      "link": "https://www.graphic.com.gh/news/general-news/nacoc-destroys-over-10-million-worth-of-seized-drugs-at-bundase.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-05T16:31:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/drug2.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Cristiano Ronaldo retires from Portugal international football",
@@ -407,42 +435,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/03/Kane.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "CAF Women’s Champions League: Ampem Darkoa face stern Kawempe Ladies test today",
-      "link": "https://www.graphic.com.gh/sports/sports-news/caf-womens-champions-league-ampem-darkoa-face-stern-kawempe-ladies-test-today.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-05T10:13:11.000Z",
-      "summary": "The encounter will be the first meeting between the two clubs at the competition’s final tournament and the first between Ghanaian and East African representatives. Ampem Darkoa will be…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/ALDIES.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "French Police open investigation into 2026 Ballon d’Or betting allegations",
-      "link": "https://www.graphic.com.gh/sports/sports-news/french-police-open-investigation-into-2026-ballon-dor-betting-allegations.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-05T09:33:26.000Z",
-      "summary": "As first reported by French outlet Upside and subsequently verified by The Athletic, about €250,000 ($281,000) was wagered across the accounts, generating profits of nearly €200,000…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/BALLON.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "FIFA U-17 WWC: Nigeria’s Flamingos overcome Brazil to set up final against Japan",
-      "link": "https://www.graphic.com.gh/sports/sports-news/fifa-u-17-wwc-nigerias-flamingos-overcome-brazil-to-set-up-final-against-japan.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-05T08:42:12.000Z",
-      "summary": "Nigeria dominated the first half, registering nine shots on target, while Brazil failed to record an attempt on goal. The Flamingos maintained their attacking intensity after the break and…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/FLAMINGOS2.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
