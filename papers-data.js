@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-06T16:59:00.633Z",
+  "updated": "2026-11-06T21:58:49.301Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,124 +25,135 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Institute of Packaging Ghana to strengthen collaboration with farmers, agribusinesses to boost packaging industry",
-      "link": "https://www.myjoyonline.com/institute-of-packaging-ghana-to-strengthen-collaboration-with-farmers-agribusinesses-to-boost-packaging-industry/",
+      "title": "NDC reschedules submission of national executive nomination forms to 12 noon on November 7",
+      "link": "https://www.myjoyonline.com/ndc-reschedules-submission-of-national-executive-nomination-forms-to-12-noon/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T16:54:14.000Z",
-      "summary": "The Institute of Packaging, Ghana (IOPG) says it will deepen collaboration with farmers, agro-processors and other stakeholders in the agricultural value chain to improve packaging…",
-      "categories": [
-        "Agribusiness",
-        "News",
-        "Farmers",
-        "Institute of packaging Ghana"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/rice-farmers.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "link": "https://www.myjoyonline.com/trump-signs-order-to-preserve-oval-office-as-national-monument/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T16:54:06.000Z",
-      "summary": "US President Donald Trump has signed an executive order that he says will prevent future presidents from making certain changes to the White House Oval Office.",
-      "categories": [
-        "International",
-        "Donald Trump",
-        "Oval Office"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-632-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Over 400 Northern Ashanti Mines workers petition Mahama over mine closure",
-      "link": "https://www.myjoyonline.com/over-400-northern-ashanti-mines-workers-petition-mahama-over-mine-closure/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T16:53:59.000Z",
-      "summary": "More than 400 workers of Northern Ashanti Mines Limited Company (NAMLC) have petitioned President John Mahama to intervene in the closure of the mine and facilitate its reopening following…",
+      "published": "2026-11-06T20:59:13.000Z",
+      "summary": "The National Democratic Congress (NDC) has rescheduled the submission of nomination forms for its 2026 National Executive Elections from 8:00 a.m. to 12:00 noon on Saturday, November 7.",
       "categories": [
         "National",
-        "Northern Ashanti Mines",
-        "President John Mahama",
-        "Workers"
+        "National Executive elections",
+        "NDC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-639.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/ndc.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "link": "https://www.myjoyonline.com/spate-of-bomb-threats-poses-serious-challenge-to-airline-industry/",
+      "title": "Sheikh Ibrahim Barsha accepts appointment as interim National Imam of ASWAJ, calls for unity",
+      "link": "https://www.myjoyonline.com/sheikh-ibrahim-barsha-accepts-appointment-as-interim-national-imam-of-aswaj-calls-for-unity/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T16:50:24.000Z",
-      "summary": "With no fewer than 32 bomb threats affecting a dozen airlines in the space of four days, the aviation industry is facing another potential crisis.",
-      "categories": [
-        "International",
-        "Airline",
-        "bomb threats",
-        "Spate"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-631-1024x576.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prioritise youth employment – TEIN, TESCON to NDC, NPP",
-      "link": "https://www.myjoyonline.com/prioritise-youth-employment-tein-tescon-to-ndc-npp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T16:48:00.000Z",
-      "summary": "The Tertiary Education Institutions Network (TEIN) of the governing National Democratic Congress (NDC) and the Tertiary Students' Confederacy Network (TESCON) of the opposition New…",
+      "published": "2026-11-06T20:45:13.000Z",
+      "summary": "A founding member of Ahlussunna Wal Jama'a (ASWAJ) and one of Ghana's most respected Islamic scholars, Sheikh Ibrahim Barsha, has accepted appointment as the organization's Interim National…",
       "categories": [
         "National",
-        "Employment",
-        "NDC",
-        "NPP",
-        "TEIN",
-        "TESCON"
+        "National Imam of ASWAJ",
+        "Sheikh Ibrahim Barsha"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-614.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-19.47.38-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Historic private estate goes on sale for £65m",
-      "link": "https://www.myjoyonline.com/historic-private-estate-goes-on-sale-for-65m/",
+      "title": "Obuasi Beverages CEO donates GH¢120,000 towards 33-year-old man’s brain surgery",
+      "link": "https://www.myjoyonline.com/obuasi-beverages-ceo-donates-gh%c2%a2120000-towards-33-year-old-mans-brain-surgery/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T16:47:52.000Z",
-      "summary": "A mansion once home to lieutenant-governors, a marmalade magnate and family of Oscar-winning actresses has been put on the market for £65m.",
+      "published": "2026-11-06T20:21:54.000Z",
+      "summary": "The Chief Executive Officer of Obuasi Beverages Company Limited, Dr Amo Collins, has donated GH¢120,000 towards the emergency brain surgery of 33-year-old Edmond Benefo, who has been…",
       "categories": [
-        "International",
-        "Havilland Hall",
-        "private",
-        "Sale"
+        "Events",
+        "Brain Surgery",
+        "edmund Benefo",
+        "Obuasi Beverages CEO"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-626-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-10.42.21-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "AMA warns of sanctions for non-compliance with November 7 sanitation exercise",
-      "link": "https://www.myjoyonline.com/ama-warns-of-sanctions-for-non-compliance-with-november-7-sanitation-exercise/",
+      "title": "Newsfile to discuss Traffitech-GH fines, drug busts and Parliament’s continued absence of Asante Akyem North MP",
+      "link": "https://www.myjoyonline.com/newsfile-to-discuss-traffitech-gh-fines-drug-busts-and-parliaments-continued-absence-of-asante-akyem-north-mp/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T16:44:16.000Z",
-      "summary": "The Accra Metropolitan Assembly (AMA) has warned residents, traders and businesses in the metropolis that individuals found operating during the November edition of the National Sanitation…",
+      "published": "2026-11-06T20:13:54.000Z",
+      "summary": "This Saturday’s edition of Newsfile on JoyNews will examine three major issues dominating Ghana’s public discourse, as host Samson Lardy Anyenini leads discussions on road safety…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "Asante Akyem North MP",
+        "drug busts",
+        "Newsfile",
+        "Traffitech-GH"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-19.07.41-1024x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Before buying AI, businesses need to ask better questions",
+      "link": "https://www.myjoyonline.com/before-buying-ai-businesses-need-to-ask-better-questions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T20:04:11.000Z",
+      "summary": "A recent analysis encouraged Ghanaian entrepreneurs to connect artificial intelligence with practical needs, including customer communication and record-keeping. That is a useful starting…",
+      "categories": [
+        "Opinion",
+        "AI",
+        "Businesse",
+        "Entreprenuers"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Designer-1024x683.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nollywood actor Diewait Ikpechukwu dies at 71",
+      "link": "https://www.myjoyonline.com/nollywood-actor-diewait-ikpechukwu-dies-at-71/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T19:17:08.000Z",
+      "summary": "Veteran Nollywood actor Diewait Ikpechukwu has died at the age of 71, bringing to an end a career that spanned more than two decades in the Nigerian film industry. The actor reportedly died…",
+      "categories": [
+        "Arts and Culture",
+        "HP News 10",
+        "Movies",
+        "Diewait Ikpechukwu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/diewait-ikpechukwu.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mining Reforms Must Protect Jobs, Investment and Community Interests — Ghana Chamber of Mines",
+      "link": "https://www.myjoyonline.com/mining-reforms-must-protect-jobs-investment-and-community-interests-ghana-chamber-of-mines/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T19:14:01.000Z",
+      "summary": "The Ghana Chamber of Mines has called for sustained dialogue and careful consideration of the economic implications of ongoing mining sector reforms, stressing that efforts to deepen…",
+      "categories": [
+        "Mining",
+        "Chamber of Mines",
+        "Jobs",
+        "Reforms"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-7.08.09-PM-792x1024.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COCOBOD relaunches free fertilizer programme with new monitoring platform to boost farmer incomes",
+      "link": "https://www.myjoyonline.com/cocobod-relaunches-free-fertilizer-programme-with-new-monitoring-platform-to-boost-farmer-incomes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T18:51:42.000Z",
+      "summary": "The government has relaunched the Free Fertilizer and Agro-Input Programme for cocoa farmers under a major intervention to restore productivity, improve farmer incomes, and reset the cocoa…",
       "categories": [
         "National",
-        "AMA",
-        "November"
+        "COCOBOD",
+        "free fertilizer programme"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-625-1024x683.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-18.15.30-1024x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "No Bed Syndrome: Mahama announces expansion of accident and emergency centres at four major hospitals",
-      "link": "https://www.myjoyonline.com/no-bed-syndrome-mahama-announces-expansion-of-accident-and-emergency-centres-at-four-major-hospitals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T16:43:01.000Z",
-      "summary": "President John Mahama has announced plans to expand the accident and emergency centers at four major hospitals in the country, with work expected to begin next year.",
+      "title": "Bellingham brothers set for England reunion as Jobe earns first call-up",
+      "link": "https://www.graphic.com.gh/sports/sports-news/bellingham-brothers-set-for-england-reunion-as-jobe-earns-first-call-up.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-06T17:17:05.000Z",
+      "summary": "Jobe made his senior debut for Birmingham City at the age of 16 years and 107 days, just 69 days older than Jude was when he made his first appearance for the club's senior side. He…",
       "categories": [
-        "National",
-        "Top Story",
-        "Mahama",
-        "no bed syndrome"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-4.19.23-AM-1024x610.png",
-      "site": "https://www.myjoyonline.com/"
+      "image": "https://www.graphic.com.gh/images/2026/Nov/06/BELLINGHAM.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "Egypt, Right to Dream Academy sign deal to advance national football talent discovery programme",
@@ -423,18 +434,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/05/game.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "England captain Kane signs new Bayern contract",
-      "link": "https://www.graphic.com.gh/sports/sports-news/england-captain-kane-signs-new-bayern-contract.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-05T10:14:48.000Z",
-      "summary": "He scored a club record 61 goals in 51 games last season as Bayern completed a league and cup double. \"I feel right at home at FC Bayern. I love the club, the fans and the city of Munich,\"…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/Kane.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
