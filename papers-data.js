@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-05T22:24:46.171Z",
+  "updated": "2026-11-06T02:39:17.550Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,140 +25,219 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ghana and Australia strengthen ties to push for Africa’s permanent UN Security Council seat",
-      "link": "https://www.myjoyonline.com/ghana-and-australia-strengthen-ties-to-push-for-africas-permanent-un-security-council-seat/",
+      "title": "Over 53, 000 teenagers pregnant in 7 months – Advocates raise alarm",
+      "link": "https://www.myjoyonline.com/over-53-000-teenagers-pregnant-in-7-months-advocates-raise-alarm/",
       "source": "MyJoyOnline",
-      "published": "2026-11-05T21:26:49.000Z",
-      "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says Ghana is forging closer ties with international allies to advance Africa’s call for reforms at the United Nations, particularly its…",
+      "published": "2026-11-06T01:28:42.000Z",
+      "summary": "A total of 53,415 adolescent girls in the country became pregnant in the first half of 2026, according to data released by the Ghana Health Service (GHS).",
       "categories": [
-        "Africa",
-        "National",
-        "Australia",
+        "News",
         "Ghana",
-        "UN Security Council"
+        "Pregnancy",
+        "Teenage"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/891291159_1675772257226330_6727154775227584962_n-e1793913792591-1024x730.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Teenage-Pregnancy.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Samia and Sekou Nkrumah reveal how the 1966 Coup affected their late brother",
-      "link": "https://www.myjoyonline.com/samia-and-sekou-nkrumah-reveal-how-the-1966-coup-affected-their-late-brother/",
+      "title": "Salem Kalmoni outlines 8 key factors for his family’s business success in Ghana",
+      "link": "https://www.myjoyonline.com/japan-motors-ceo-outlines-8-key-factors-for-kalmoni-familys-business-success-in-ghana/",
       "source": "MyJoyOnline",
-      "published": "2026-11-05T21:22:01.000Z",
-      "summary": "Samia and Sekou Nkrumah have recounted how the 1966 coup that toppled their father, Ghana’s first President, Dr Kwame Nkrumah, deeply affected their late brother, Gamel Nkrumah. The two…",
+      "published": "2026-11-06T01:01:01.000Z",
+      "summary": "Family cohesion, perseverance and a commitment to honest work have been central to the longevity of the Kalmoni business enterprise, according to the Chief Executive Officer of Japan Motors…",
       "categories": [
-        "National",
-        "Politics",
-        "Gamel Nkrumah",
-        "Samia Nkrumah",
-        "Sekou Nkrumah"
+        "HP News 10",
+        "News",
+        "Business",
+        "Cars",
+        "Japan Motors",
+        "Kalmoni"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-44-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Salem-Kalmoni4.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "CPP Elders visit Nkrumah family to console them over death of Gamel Nkrumah",
-      "link": "https://www.myjoyonline.com/cpp-elders-visit-nkrumah-family-to-console-them-over-death-of-gamel-nkrumah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T21:15:58.000Z",
-      "summary": "A delegation from the Convention People's Party (CPP), led by Comrade Chris Ziga, has visited the family of Ghana's first President, Dr Kwame Nkrumah, to express condolences following the…",
-      "categories": [
-        "National",
-        "CPP elders",
-        "Gamel Nkrumah",
-        "Nkrumah family"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-212757-1024x601.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kwadaso Agric College students turn ideas into market-ready agribusiness under CB-VET Ghana project",
-      "link": "https://www.myjoyonline.com/kwadaso-agric-college-students-turn-ideas-into-market-ready-agribusiness-under-cb-vet-ghana-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T21:06:20.000Z",
-      "summary": "Innovation, entrepreneurship and practical skills are increasingly becoming the foundation of modern Agricultural Technical and Vocational Education and Training (ATVET) in Ghana, a shift…",
-      "categories": [
-        "Education",
-        "Regional",
-        "CB-VET Ghana project",
-        "Kwadaso Agric College"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-19.31.53.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana, Trinidad and Tobago explore new investments, expanded oil and gas partnerships",
-      "link": "https://www.myjoyonline.com/ghana-trinidad-and-tobago-explore-new-investments-expanded-oil-and-gas-partnerships/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T20:54:14.000Z",
-      "summary": "Ghana and Trinidad and Tobago are seeking to deepen their economic relations, with fresh discussions focusing on attracting new investments and expanding cooperation in the oil and gas…",
-      "categories": [
-        "National",
-        "Ghana",
-        "Trinidad and Tobago"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/890492249_1634797158692529_48865835291939629_n-1024x768.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I’m surprised I haven’t won TGMA Rapper of the Year – Teephlow",
-      "link": "https://www.myjoyonline.com/im-surprised-i-havent-won-tgma-rapper-of-the-year-teephlow/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T20:50:33.000Z",
-      "summary": "For a rapper who has earned multiple nominations at Ghana’s biggest music awards, never taking home the Rapper of the Year trophy is a record Teephlow finds difficult to understand",
-      "categories": [
-        "HP Entertainment 2",
-        "Music",
-        "best rapper",
-        "TeePhlow",
-        "TGMA"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_9598.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Build competence before seeking transformation – Dzigbordi Kwaku-Dosoo at TrueLife Experience",
-      "link": "https://www.myjoyonline.com/build-competence-before-seeking-transformation-dzigbordi-kwaku-dosoo-at-truelife-experience/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T20:10:38.000Z",
-      "summary": "Keynote speaker Dzigbordi Kwaku-Dosoo has urged participants at the 2026 TrueLife Experience to move beyond drawing inspiration from others and develop the competence needed to inspire and…",
-      "categories": [
-        "Events",
-        "National",
-        "competence",
-        "transformation",
-        "Truelife experience"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EXP21476-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "I built a $70m business while battling depression – Nekeya Parks at TrueLife Experience",
-      "link": "https://www.myjoyonline.com/i-built-a-70m-business-while-battling-depression-nekeya-parks-at-truelife-experience/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T20:05:34.000Z",
-      "summary": "Mindset mentor Nekeya Parks has revealed that she built a $70 million business while battling depression, urging people to identify and pursue what she described as their God-given purpose…",
-      "categories": [
-        "Events",
-        "National",
-        "Mindset mentor",
-        "Nekeya Parks",
-        "Truelife experience"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/EXP21428-1024x683.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Drive Ghana’s Economic Reset Through Production, Integrity … Ishmael Yamson Urges CEOs",
-      "link": "https://ghanaiantimes.com.gh/drive-ghanas-economic-reset-through-production-integrity-ishmael-yamson-urges-ceos/",
+      "title": "Empire Cement closure vindicates EPA concerns — former EPA boss",
+      "link": "https://ghanaiantimes.com.gh/empire-cement-closure-vindicates-epa-concerns-former-epa-boss/",
       "source": "Ghanaian Times",
-      "published": "2026-11-05T19:19:54.000Z",
-      "summary": "Chief Executive Officers (CEOs) have been challenged to take greater responsibility for Ghana’s economic transformation by prioritising local production, ethical leadership and the…",
+      "published": "2026-11-06T00:34:00.000Z",
+      "summary": "THE former Chief Executive Officer of the Environmental Protection Authority (EPA), Dr Henry Kwabena Kokofu, has welcomed the closure of Empire Cement Ghana Limited at Weija in Accra…",
       "categories": [
-        "Business"
+        "Hot!",
+        "News"
       ],
       "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Pres Mahama to Grace 5th Head of State Invitational Golf Tournament",
+      "link": "https://ghanaiantimes.com.gh/pres-mahama-to-grace-5th-head-of-state-invitational-golf-tournament/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T00:33:00.000Z",
+      "summary": "The fifth edition of the Head of State Invitational Golf Tournament has been scheduled for November 21 at the Achimota Golf Club in Accra, with President John Dramani Mahama expected to…",
+      "categories": [
+        "Sports"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/image-16.png",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Kane Signs New Bayern Contract",
+      "link": "https://ghanaiantimes.com.gh/kane-signs-new-bayern-contract/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T00:32:00.000Z",
+      "summary": "England captain and Ballon d’Or winner Harry Kane has signed a new contract with Bayern Munich that runs until 2029. The 33-year-old striker was in the final 12 months of the four-year deal…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Results",
+      "link": "https://ghanaiantimes.com.gh/results-8/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T00:31:00.000Z",
+      "summary": "MatchResultAEK Athens vs Real Madrid2-3Fenerbahçe vs Liverpool3-2RB Leipzig vs Manchester City2-3Borussia Dortmund vs Real Betis2-1Slavia Praha vs Arsenal1-2PSV vs Club Brugge1-2Porto vs…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Bus stops are not trading centres",
+      "link": "https://ghanaiantimes.com.gh/bus-stops-are-not-trading-centres/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T00:31:00.000Z",
+      "summary": "ACCRA cannot continue to function properly if every available public space is turned into a marketplace. The decision by the Accra Metropolitan Assembly (AMA) to give traders occupying…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Como Equal Champions League Record with Stunning Win at Lens",
+      "link": "https://ghanaiantimes.com.gh/como-equal-champions-league-record-with-stunning-win-at-lens/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T00:29:00.000Z",
+      "summary": "Como stormed into the Champions League record books with a stunning 9-1 demolition of Lens on Wednesday, equalling the biggest winning margin in the competition’s history. The Italian side…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ronaldo Retires from Portugal Duty",
+      "link": "https://ghanaiantimes.com.gh/ronaldo-retires-from-portugal-duty/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T00:27:00.000Z",
+      "summary": "Cristiano Ronaldo has announced his retirement from the Portugal national team, bringing the curtain down on one of the most illustrious international careers in the history of football…",
+      "categories": [
+        "Foriegn"
+      ],
+      "image": null,
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Police caution motorists against traffic fine payment fraud under Traffitech-GH",
+      "link": "https://ghanaiantimes.com.gh/police-caution-motorists-against-traffic-fine-payment-fraud-under-traffitech-gh/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-06T00:27:00.000Z",
+      "summary": "MOTORISTS have been cautioned against falling victim to fraudsters as the Ghana Police Service begins the full implementation of its automated traffic law enforcement system, Traffitech-GH…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "link": "https://www.myjoyonline.com/pope-begins-lengthy-trip-to-latin-america-weeks-after-lung-cancer-surgery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T00:21:00.000Z",
+      "summary": "Pope Leo XIV is beginning a lengthy trip to Latin America just three weeks after surgery for lung cancer - a tour that includes a much-anticipated \"homecoming\" to Peru where he was a priest…",
+      "categories": [
+        "International",
+        "Pope"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From Ottoman army escape to Ghana success: The untold story behind the Kalmoni business dynasty",
+      "link": "https://www.myjoyonline.com/from-ottoman-army-escape-to-ghana-success-the-untold-story-behind-the-kalmoni-business-dynasty/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T23:43:50.000Z",
+      "summary": "A family’s fear of losing its sons to military conscription in the Ottoman Empire set in motion a journey that would eventually produce one of Ghana’s longstanding automotive businesses…",
+      "categories": [
+        "Business",
+        "HP News 6",
+        "News",
+        "Japan Motors",
+        "Kalmoni Family",
+        "Salem Kalmoni"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Salem-Kalmoni6.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "California governor commutes sentences for state’s 548 death row inmates",
+      "link": "https://www.myjoyonline.com/california-governor-commutes-sentences-for-states-548-death-row-inmates/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T23:15:00.000Z",
+      "summary": "California Governor Gavin Newsom has commuted the death sentences of all 548 people on death row in the state, changing them instead to life in prison.",
+      "categories": [
+        "International",
+        "California",
+        "Death Row"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Will Atiku Abubakar be on Nigeria’s presidential ballot after court ruling?",
+      "link": "https://www.myjoyonline.com/will-atiku-abubakar-be-on-nigerias-presidential-ballot-after-court-ruling/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T22:02:00.000Z",
+      "summary": "Nigeria's Federal High Court has sacked the leadership of the opposition African Democratic Congress (ADC) party - and also ruled that the nomination of its presidential candidate, former…",
+      "categories": [
+        "Africa",
+        "atiku",
+        "Nigeria"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‎‎Police urge motorists to verify TraffiTech-GH notices before paying fines",
+      "link": "https://www.myjoyonline.com/police-urge-motorists-to-verify-traffitech-gh-notices-before-paying-fines/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T21:44:00.000Z",
+      "summary": "The Ghana Police Service has urged motorists and vehicle owners to verify traffic violation notices under the TraffiTech-GH automated enforcement system before making payments to avoid…",
+      "categories": [
+        "National",
+        "Traffitech-GH"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-234.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Australia’s oldest department store, David Jones, folds after 188 years",
+      "link": "https://www.myjoyonline.com/australias-oldest-department-store-david-jones-folds-after-188-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-05T21:35:00.000Z",
+      "summary": "David Jones, Australia's oldest department store chain, has gone into voluntary administration, putting thousands of jobs at risk.",
+      "categories": [
+        "International",
+        "Australia",
+        "David Jones"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-536-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Yahaya’s late strike sinks Liberia as Black Challenge eye World Cup glory",
@@ -221,19 +300,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Korea supports preservation of Ghana’s forts and castles",
-      "link": "https://ghanaiantimes.com.gh/korea-supports-preservation-of-ghanas-forts-and-castles/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T16:40:31.000Z",
-      "summary": "The Government of the Republic of Korea has presented a second consignment of equipment to support the study, maintenance and preservation of Ghana’s historic forts and castles under the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Private hospital plans to construct oxygen producing plant at Kumdi in Kpandai District",
       "link": "https://www.graphic.com.gh/news/health/private-hospital-plans-to-construct-oxygen-producing-plant-at-kumdi-in-kpandai-district.html",
       "source": "Daily Graphic",
@@ -256,84 +322,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/05/drug2.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "ASOHOM hosts “Woven Currents” charity art gala for sustainable Water Futures",
-      "link": "https://ghanaiantimes.com.gh/asohom-hosts-woven-currents-charity-art-gala-for-sustainable-water-futures/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T16:17:20.000Z",
-      "summary": "The Association of Spouses of Heads of Diplomatic Missions and International Organizations (ASOHOM) brought art, diplomacy and philanthropy together for its glamorous black-tie charity…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.47.20-1024x576.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Star Fashion Week Kicks Off In Accra With Summit",
-      "link": "https://ghanaiantimes.com.gh/black-star-fashion-week-kicks-off-in-accra-with-summit/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T16:13:40.000Z",
-      "summary": "The inaugural Black Star Fashion Week (BSFW) kicked off on Wednesday with a summit at the Movenpick Ambassador Hotel in Accra. Put together by the Rex Omar-led Black Star Experience and…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.42.00-2-1024x682.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "IMANI Ghana’s Franklin Cudjoe undergoes surgery in Chicago",
-      "link": "https://ghanaiantimes.com.gh/imani-ghanas-franklin-cudjoe-undergoes-surgery-in-chicago/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T16:07:37.000Z",
-      "summary": "Franklin Cudjoe, Founding President and CEO of IMANI Centre for Policy and Education, has undergone surgery at RUSH University Medical Center in Chicago. In a message ahead of the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana’s Abena Osei-Asare retains AFROPAC Deputy Chair position",
-      "link": "https://ghanaiantimes.com.gh/ghanas-abena-osei-asare-retains-afropac-deputy-chair-position/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T16:06:09.000Z",
-      "summary": "Member of Parliament for Atiwa East and Chairperson of the Public Accounts Committee of Ghana’s Parliament, Abena Osei-Asare,has been retained as Deputy Chairperson of the African…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bids received for Volivo Bridge Project as Government targets 2027 groundbreaking",
-      "link": "https://ghanaiantimes.com.gh/bids-received-for-volivo-bridge-project-as-government-targets-2027-groundbreaking/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T16:03:40.000Z",
-      "summary": "The government has received bids for the construction of the Volivo Bridge over the Volta River, with final evaluations currently underway ahead of the planned groundbreaking in 2027. The…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.28.51-1.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ashanti Regional Minister deepens cooperation with Guangxi in China",
-      "link": "https://ghanaiantimes.com.gh/ashanti-regional-minister-deepens-cooperation-with-guangxi-in-china/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-05T16:01:35.000Z",
-      "summary": "Ashanti Regional Minister, Dr. Frank Amoakohene, has held high-level talks in Nanning, China, with Wei Tao, Chairman of the People’s Government of the Guangxi Zhuang Autonomous Region. The…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-15.28.19-1024x819.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Upper East Region declares readiness for Korean partnership with GH₵8.6billion PEARL plan",
