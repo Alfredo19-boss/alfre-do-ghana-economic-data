@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-07T01:42:12.492Z",
+  "updated": "2026-11-07T07:48:33.607Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,117 +25,138 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "NMC to summon nurse over alleged TikTok livestream of distressed pregnant patient",
-      "link": "https://www.myjoyonline.com/nmc-to-summon-nurse-over-alleged-tiktok-livestream-of-distressed-pregnant-patient/",
+      "title": "COP31: African negotiators target tripled adaptation finance and Green Climate Fund replenishment",
+      "link": "https://www.myjoyonline.com/cop31-african-negotiators-target-tripled-adaptation-finance-and-green-climate-fund-replenishment/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T23:44:00.000Z",
-      "summary": "The Nursing and Midwifery Council (NMC) is expected to summon a nurse for further engagement next week following a controversial TikTok livestream allegedly showing a pregnant patient in…",
-      "categories": [
-        "Health",
-        "News",
-        "Top Story",
-        "Nurse",
-        "TikTok"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Nurse5.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Meghan’s father Thomas Markle appears in court over child sex abuse material",
-      "link": "https://www.myjoyonline.com/meghans-father-thomas-markle-appears-in-court-over-child-sex-abuse-material/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T22:56:00.000Z",
-      "summary": "Thomas Markle, the father of Meghan, Duchess of Sussex, has appeared in court after being charged over possession of child sex abuse material.",
-      "categories": [
-        "International",
-        "Child abuse",
-        "Markle",
-        "Meghan"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/9c7c73d0-da1b-11f1-bba7-b50f1faa7672.jpg.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ministry condemns growing trend of sexual blackmail and non-consensual recordings",
-      "link": "https://www.myjoyonline.com/ministry-condemns-growing-trend-of-sexual-blackmail-and-non-consensual-recordings/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T22:21:00.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection has condemned the growing circulation of intimate images and videos without consent, warning that perpetrators and those who…",
+      "published": "2026-11-07T06:54:29.000Z",
+      "summary": "The African Group of Negotiators on Climate Change (AGN) is placing climate adaptation finance at the forefront of its agenda as the United Nations Climate Change Conference (COP31) opens…",
       "categories": [
         "News",
-        "Gender",
-        "Sexual blackmail"
+        "Climate"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/cyberstalking.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-21.14.42-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Trump names Stephen Miller as new White House chief of staff",
-      "link": "https://www.myjoyonline.com/trump-names-stephen-miller-as-new-white-house-chief-of-staff/",
+      "title": "Sunyani Teaching Hospital needs staff accommodation to support expansion – CEO",
+      "link": "https://www.myjoyonline.com/sunyani-teaching-hospital-needs-staff-accommodation-to-support-expansion-ceo/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T22:01:00.000Z",
-      "summary": "President Donald Trump has named Stephen Miller, the architect of his hardline immigration policy, as his new chief of staff following historic losses in the US midterm elections.",
+      "published": "2026-11-07T06:46:27.000Z",
+      "summary": "The Chief Executive Officer of the Sunyani Teaching Hospital, Dr Cardinal Newton, has called on the government, private investors, and philanthropists to support the construction of staff…",
       "categories": [
-        "International",
-        "Trump",
-        "White House"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/463b6050-da19-11f1-bba7-b50f1faa7672.jpg.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-21.01.04ss-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘It was a total miracle’: How rejection led Sylvester Stallone to create film’s ultimate underdog Rocky",
-      "link": "https://www.myjoyonline.com/it-was-a-total-miracle-how-rejection-led-sylvester-stallone-to-create-films-ultimate-underdog-rocky/",
+      "title": "Fire destroys Agbogba restaurant near Yellow Container",
+      "link": "https://www.myjoyonline.com/fire-destroys-agbogba-restaurant-near-yellow-container/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T21:35:00.000Z",
-      "summary": "In 1976, hit boxing drama Rocky turned its \"absolutely broke\" and unknown lead actor and screenwriter, Sylvester Stallone, into an A-list sensation. It's a story told in crowd-pleasing new…",
+      "published": "2026-11-07T05:39:29.000Z",
+      "summary": "Firefighters on Friday, November 6, 2026, battled a fiercely spreading inferno that completely destroyed a restaurant near the popular Yellow Container landmark at Agbogba in Accra.",
       "categories": [
-        "Movies",
-        "Rocky"
+        "News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/p0plmjc9.jpg.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/fire-in-44-e1776606898192.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Self-styled ‘king of Germany’ goes on trial accused of heading criminal group",
-      "link": "https://www.myjoyonline.com/self-styled-king-of-germany-goes-on-trial-accused-of-heading-criminal-group/",
+      "title": "Zenith SME Business Empowerment Lab: SMEs urged to identify business risks and adopt mitigation strategies to ensure sustainability",
+      "link": "https://www.myjoyonline.com/zenith-sme-business-empowerment-lab-smes-urged-to-identify-business-risks-and-adopt-mitigation-strategies-to-ensure-sustainability/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T21:27:00.000Z",
-      "summary": "A self-declared \"king\" of Germany has gone on trial in Düsseldorf accused of leading a criminal organisation along with three other men described as his senior \"subjects\".",
+      "published": "2026-11-07T05:15:45.000Z",
+      "summary": "According to the experts, business resilience goes beyond responding to crises. It requires a deliberate and strategic approach to identifying potential vulnerabilities, safeguarding…",
       "categories": [
-        "International",
-        "Germany",
-        "King"
+        "Banking and Finance",
+        "Business",
+        "HP Business 3",
+        "Frederick Adu-Amoako",
+        "GIRSAL",
+        "GNCCI",
+        "Hollard",
+        "Samuel Yeboah",
+        "Yvonne Dowuona",
+        "Zenith Bank"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/b0bd9c30-d9cf-11f1-9e5a-c30c5e3d8c85.jpg.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Zenith-Bank.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "link": "https://www.myjoyonline.com/why-the-us-midterms-sparked-an-ai-stock-selloff/",
+      "title": "Policy rate of 14% between May and September 2026 was meant to preserve economic stability – BoG Governor",
+      "link": "https://www.myjoyonline.com/policy-rate-of-14-between-may-and-september-2026-was-meant-to-preserve-economic-stability-bog-governor/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T21:19:00.000Z",
-      "summary": "Is the artificial intelligence (AI) gold rush coming to an end, or is this simply a reality check?",
+      "published": "2026-11-07T05:07:15.000Z",
+      "summary": "The Bank of Ghana Governor, Dr. Johnson Asiama, has strongly defended the decision by the Monetary Policy Committee to hold the policy rate at 14% between May and September 2026. According…",
       "categories": [
-        "International",
-        "Technology",
-        "AI"
+        "Banking and Finance",
+        "Business",
+        "HP Business 2",
+        "BoG",
+        "Car",
+        "Dr. Johnson Asiama",
+        "Inflation",
+        "NPL",
+        "Parliament",
+        "Policy rate",
+        "Reserves"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-15.11.51-1024x672.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "NDC reschedules submission of national executive nomination forms to 12 noon on November 7",
-      "link": "https://www.myjoyonline.com/ndc-reschedules-submission-of-national-executive-nomination-forms-to-12-noon/",
+      "title": "‘Days of diverting cocoa inputs are over’ – COCOBOD CEO",
+      "link": "https://www.myjoyonline.com/days-of-diverting-cocoa-inputs-are-over-cocobod-ceo/",
       "source": "MyJoyOnline",
-      "published": "2026-11-06T20:59:13.000Z",
-      "summary": "The National Democratic Congress (NDC) has rescheduled the submission of nomination forms for its 2026 National Executive Elections from 8:00 a.m. to 12:00 noon on Saturday, November 7.",
+      "published": "2026-11-07T04:57:47.000Z",
+      "summary": "The Ghana Cocoa Board (COCOBOD) has issued a stern warning to individuals and officials involved in the diversion, hoarding or illegal sale of free fertiliser and other farm inputs, saying…",
       "categories": [
-        "National",
-        "National Executive elections",
-        "NDC"
+        "Agribusiness",
+        "Business",
+        "HP Business 1",
+        "HP News 7",
+        "News",
+        "Beans",
+        "Cocoa",
+        "COCOBOD",
+        "Fertiliser",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/ndc.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/Randy-Abbey-1024x903.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Sons of the sound: How Mfanstsipim incubated and nurtured Ghana’s contemporary gospel",
+      "link": "https://www.myjoyonline.com/sons-of-the-sound-how-mfanstsipim-incubated-and-nurtured-ghanas-contemporary-gospel/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T04:27:55.000Z",
+      "summary": "Contemporary gospel music emerged in Ghana in the early 1970s, marking a major development in the country’s Christian music. Churches had long used hymns, anthems, cantatas, indigenous…",
+      "categories": [
+        "HP Opinion 2",
+        "Opinion",
+        "Ghana",
+        "Gospel",
+        "Music"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-14.38.23.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghanaian singer Efya marries Nigerian star Tomi Thomas",
+      "link": "https://www.myjoyonline.com/ghanaian-singer-efya-marries-nigerian-star-tomi-thomas/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T03:39:14.000Z",
+      "summary": "Ghanaian singer Efya Nokturnal and Nigerian musician Tomi Thomas have formalised their union in a colourful traditional marriage ceremony in Accra, bringing together music, fashion and…",
+      "categories": [
+        "Arts and Culture",
+        "HP Entertainment 1",
+        "HP News 10",
+        "Music",
+        "News",
+        "Efya",
+        "Tomi Thomas"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image_2026-11-06_150631344-e1794025098303.png",
       "site": "https://www.myjoyonline.com/"
     },
     {

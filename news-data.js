@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-07T01:41:59.444Z",
-  "worldAt": "2026-11-07T01:41:59.443Z",
+  "updated": "2026-11-07T07:48:21.670Z",
+  "worldAt": "2026-11-07T07:48:21.668Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,26 +26,103 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (fetch failed)",
     "Reuters wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 26 stories",
+    "World · BBC News: 28 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
     "Africa · Africanews: 24 stories",
-    "Africa · BBC Africa: 30 stories",
+    "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 5 stories",
-    "Africa · Al Jazeera: 0 stories",
+    "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Emirates Group Sustains Profitability Despite Gulf Conflict, Soaring Fuel Costs",
+      "link": "https://thehighstreetjournal.com/emirates-group-sustains-profitability-despite-gulf-conflict-soaring-fuel-costs/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T06:00:33.000Z",
+      "summary": "Emirates Group maintained a AED4.1 billion half-year profit despite Gulf airspace disruptions and higher fuel costs, supported by cargo revenue growth."
+    },
+    {
+      "title": "First Atlantic Bank CEO Credits Customer Confidence for Business Resilience",
+      "link": "https://thehighstreetjournal.com/first-atlantic-bank-ceo-credits-customer-confidence-for-business-resilience/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T06:00:00.000Z",
+      "summary": "First Atlantic Bank CEO Odun Odunfa attributes the Bank's resilience to customer confidence, deposit growth, cost discipline and expanding regional operations."
+    },
+    {
+      "title": "Zenith SME Business Empowerment Lab: SMEs urged to identify business risks and adopt mitigation strategies to ensure sustainability",
+      "link": "https://www.myjoyonline.com/zenith-sme-business-empowerment-lab-smes-urged-to-identify-business-risks-and-adopt-mitigation-strategies-to-ensure-sustainability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T05:15:45.000Z",
+      "summary": "According to the experts, business resilience goes beyond responding to crises. It requires a deliberate and strategic approach to identifying potential vulnerabilities, safeguarding…"
+    },
+    {
+      "title": "Policy rate of 14% between May and September 2026 was meant to preserve economic stability – BoG Governor",
+      "link": "https://www.myjoyonline.com/policy-rate-of-14-between-may-and-september-2026-was-meant-to-preserve-economic-stability-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T05:07:15.000Z",
+      "summary": "The Bank of Ghana Governor, Dr. Johnson Asiama, has strongly defended the decision by the Monetary Policy Committee to hold the policy rate at 14% between May and September 2026. According…"
+    },
+    {
+      "title": "Ghana Secures $30 Million Chinese Grant to Modernise National Theatre",
+      "link": "https://thehighstreetjournal.com/30-million-grant-for-national-theatre/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T05:05:00.000Z",
+      "summary": "The proposed National Theatre upgrade is expected to improve infrastructure for the performing arts"
+    },
+    {
+      "title": "Ghana’s ICT Boom Fails to Translate Into Wider Economic Growth, Report Finds",
+      "link": "https://thehighstreetjournal.com/ghanas-ict-boom-economic-growth/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T05:03:00.000Z",
+      "summary": "ICT sector growth had a correlation of just 0.03 with overall gross domestic product growth between 2014 and 2022"
+    },
+    {
+      "title": "Kwame Nkrumah Memorial Park Wants Independence Photo on Ghana’s Banknotes",
+      "link": "https://thehighstreetjournal.com/kwame-nkrumah-memorial-park-wants-independence-photo-on-ghanas-banknotes/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T05:02:00.000Z",
+      "summary": "The Kwame Nkrumah Memorial Park wants the iconic 1957 independence declaration photograph featured on selected banknotes as Ghana approaches its 70th independence anniversary."
+    },
+    {
+      "title": "Ghana, US Explore Data Centre Investment and Cloud Computing Partnerships",
+      "link": "https://thehighstreetjournal.com/ghana-us-explore-data-centre-investment/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T05:01:00.000Z",
+      "summary": "Ghana and the United States are exploring opportunities for cooperation in data centre development, cloud computing and cybersecurity as the government seeks to attract strategic technology…"
+    },
+    {
+      "title": "Ghana Courts Chinese Investment to Boost Local Mineral Processing",
+      "link": "https://thehighstreetjournal.com/ghana-courts-chinese-investment-to-boost-local-mineral-processing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T05:00:00.000Z",
+      "summary": "Deputy Lands Minister urges Chinese investors to support Ghana's push for local mineral processing, technology transfer and industrial development."
+    },
+    {
+      "title": "‘Days of diverting cocoa inputs are over’ – COCOBOD CEO",
+      "link": "https://www.myjoyonline.com/days-of-diverting-cocoa-inputs-are-over-cocobod-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T04:57:47.000Z",
+      "summary": "The Ghana Cocoa Board (COCOBOD) has issued a stern warning to individuals and officials involved in the diversion, hoarding or illegal sale of free fertiliser and other farm inputs, saying…"
+    },
+    {
+      "title": "Ghana loses $6.5bn in potential mining revenue – IFS",
+      "link": "https://www.myjoyonline.com/ghana-loses-6-5bn-in-potential-mining-revenue-ifs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T03:09:07.000Z",
+      "summary": "The country loses an estimated $6.56 billion in potential revenue from the mining sector every year due to the government’s limited participation in mineral extraction, the Institute for…"
+    },
     {
       "title": "The SSNIT Real Estate Gamble Series: Adinkra Heights — “Enclave” on paper, Twin Towers in reality",
       "link": "https://www.ghanabusinessnews.com/2026/11/06/the-ssnit-real-estate-gamble-series-adinkra-heights-enclave-on-paper-twin-towers-in-reality/",
@@ -1018,92 +1095,134 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-04T05:01:00.000Z",
       "summary": "The agreement with PK Amoabeng Leadership Foundation and Reformation Community will support multi-year programmes focused on mentorship, civic responsibility and community development among…"
-    },
-    {
-      "title": "Deforestation Rules Put Pressure on Cocoa Exporters to Strengthen Farm Traceability",
-      "link": "https://thehighstreetjournal.com/deforestation-rules-and-cocoa-exporters/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T05:00:00.000Z",
-      "summary": "The Forestry Commission is working with African partners on a national roadmap to help cocoa and cashew supply chains meet European Union requirements, while creating business opportunities…"
-    },
-    {
-      "title": "Queen Máxima to Meet Bank of Ghana Governor on Financial Health and Digital Finance",
-      "link": "https://thehighstreetjournal.com/financial-health-and-digital-finance/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T05:00:00.000Z",
-      "summary": "The Netherlands monarch will join regulators and financial sector executives in Accra to discuss savings, responsible lending, insurance and ways to improve household and small-business…"
-    },
-    {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "link": "https://www.myjoyonline.com/apple-unsure-when-it-will-get-more-foldable-iphones-ahead-of-christmas/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T23:18:00.000Z",
-      "summary": "Apple has said it doesn't know when it will restock its new foldable iPhones as it heads into the key Christmas trading period."
-    },
-    {
-      "title": "MoFA, DMT sign MoU for 21,000-tonne grain storage facility in Wa",
-      "link": "https://www.myjoyonline.com/mofa-dmt-sign-mou-for-21000-tonne-grain-storage-facility-in-wa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T21:49:26.000Z",
-      "summary": "The Ministry of Food and Agriculture (MoFA) has signed a Memorandum of Understanding (MoU) with DMT Collateral Management Limited for the construction of a 21,000-tonne grain storage…"
-    },
-    {
-      "title": "Revocation of Northern Ashanti’s lease was harsh – Asanda Farmers to gov’t",
-      "link": "https://www.myjoyonline.com/revocation-of-northern-ashantis-lease-was-harsh-asanda-farmers-to-govt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T19:42:00.000Z",
-      "summary": "The Asanda Farmers Association has waded into the raging controversy surrounding the revocation of the mining lease of Northern Ashanti Mines, describing the move by the Minerals Commission…"
-    },
-    {
-      "title": "Tema hosts GCB Bank’s MSME Caravan Clinic as bank deepens support for entrepreneurs",
-      "link": "https://www.myjoyonline.com/tema-hosts-gcb-banks-msme-caravan-clinic-as-bank-deepens-support-for-entrepreneurs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T18:41:35.000Z",
-      "summary": "GCB Bank has taken its nationwide Micro, Small and Medium-sized Enterprises (MSME) Caravan Clinic to Tema, bringing entrepreneurs closer to financing opportunities, business advisory…"
-    },
-    {
-      "title": "Ghana leads Africa in quantitative risk training as CQRM tops ChatGPT ranking",
-      "link": "https://www.myjoyonline.com/ghana-leads-africa-in-quantitative-risk-training-as-cqrm-tops-chatgpt-ranking/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T18:28:17.000Z",
-      "summary": "n a comparative assessment of risk management qualifications built around quantitative methods and decision analytics, ChatGPT, the AI assistant developed by OpenAI, ranked the Certified in…"
-    },
-    {
-      "title": "BoG warns public of 20 unlicensed digital credit services providers",
-      "link": "https://www.myjoyonline.com/bog-warns-public-of-20-unlicensed-digital-credit-services-providers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T18:23:55.000Z",
-      "summary": "The Bank of Ghana (BoG) in collaboration with the CyberSecurity Authority, has stepped up efforts to sanitise the digital credit space and protect the public from entities providing digital…"
-    },
-    {
-      "title": "Want to Break Into Music? Juls, Gyakie and M.anifest Are Ready to Show You How",
-      "link": "https://thehighstreetjournal.com/want-to-break-into-music-juls-gyakie-and-m-anifest-are-ready-to-show-you-how/",
-      "source": "The High Street Journal",
-      "published": "2026-11-03T18:04:55.000Z",
-      "summary": "Martell and Africa House launch a mentorship academy connecting emerging African music creatives with industry leaders, practical training and career development opportunities."
-    },
-    {
-      "title": "Ghana’s US$10 billion New Economy programme will turn recovery into jobs – Dr. Ato Forson",
-      "link": "https://www.myjoyonline.com/ghanas-us10-billion-new-economy-programme-will-turn-recovery-into-jobs-dr-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-03T17:36:27.000Z",
-      "summary": "Finance Minister Dr. Cassiel Ato Forson says the 2027 Budget will set out how the government plans to turn Ghana’s economic recovery into decent jobs for young people, better incomes for…"
-    },
-    {
-      "title": "SAWA Programme Targets 60,000 Jobs for Young Women, $90 Million in Aquaculture Revenue",
-      "link": "https://thehighstreetjournal.com/60000-jobs90mn-in-aquaculture-revenue/",
-      "source": "The High Street Journal",
-      "published": "2026-11-03T16:53:57.000Z",
-      "summary": "The four-year initiative aims to increase annual domestic fish production by 50,000 metric tonnes as private sector partners begin implementation across the aquaculture value chain"
     }
   ],
   "world": [
     {
-      "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
+      "link": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-07T07:33:00.000Z",
+      "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years."
+    },
+    {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T07:20:00.000Z",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+    },
+    {
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T00:55:51.000Z",
-      "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month."
+      "published": "2026-11-07T07:10:37.000Z",
+      "summary": "Qatari PM says US willing to seek solution to war with Iran"
+    },
+    {
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T06:59:48.000Z",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
+    },
+    {
+      "title": "WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T07:09:12.000Z",
+      "summary": "Pegula's conversation with her coach on a practice court at Indian Wells was broadcast on a WTA YouTube livestream."
+    },
+    {
+      "title": "Ousted Paraguay president under house arrest after bank collapse",
+      "link": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+      "source": "France 24",
+      "published": "2026-11-07T06:18:38.000Z",
+      "summary": "Paraguayan authorities placed ousted president Santiago Peña under house arrest on Friday, shortly after the Senate unanimously removed him from office over a massive banking crisis that…",
+      "image": "https://s.france24.com/media/display/80d2986c-da70-11f1-91a8-695cb59fade5/w:1024/p:16x9/AP26309755276700.jpg"
+    },
+    {
+      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T07:05:01.000Z",
+      "summary": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island."
+    },
+    {
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-07T04:44:00.000Z",
+      "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic…"
+    },
+    {
+      "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
+      "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T06:47:45.000Z",
+      "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery."
+    },
+    {
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T01:27:47.000Z",
+      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dd/live/b21e0c00-d9ce-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Do not investigate Trump’s corporate allies until he leaves office",
+      "link": "https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T06:38:27.000Z",
+      "summary": "The US presidential pardon power has created a constitutional absurdity that can protect those accused of corruption."
+    },
+    {
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T01:19:49.000Z",
+      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg"
+    },
+    {
+      "title": "How the Iran war helped Democrats win the midterms",
+      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T06:26:58.000Z",
+      "summary": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump's party."
+    },
+    {
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-06T23:46:08.000Z",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg"
+    },
+    {
+      "title": "Carlos Alcaraz saves match points to reach Paris Masters semifinals",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T06:21:04.000Z",
+      "summary": "Seven-time Grand Slam champion Alcaraz is through to the Paris Masters semifinals for the first time in his career."
+    },
+    {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-06T23:24:15.000Z",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
+    },
+    {
+      "title": "Governing party ahead in early results of New Zealand’s knife-edge vote",
+      "link": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T06:20:27.000Z",
+      "summary": "Early count suggests New Zealand's National and Labour parties are neck and neck, with neither likely to govern alone."
     },
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -1114,11 +1233,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-      "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+      "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T00:31:41.000Z",
-      "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender."
+      "published": "2026-11-07T05:57:25.000Z",
+      "summary": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research."
     },
     {
       "title": "Morocco marks anniversary of Western Sahara occupation as UN mission ends",
@@ -1128,11 +1247,11 @@ window.GDC_NEWS = {
       "summary": "The anniversary comes as the decades-old territorial conflict enters a new diplomatic phase, with a U.N. peacekeeping mission winding down after 35 years. Western Sahara is Africa’s…"
     },
     {
-      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T00:21:49.000Z",
-      "summary": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign."
+      "published": "2026-11-07T05:51:23.000Z",
+      "summary": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion."
     },
     {
       "title": "Kenyan cult leader sentenced to 200 years in prison",
@@ -1143,11 +1262,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/70a84f88-da28-11f1-a6e4-695cb59fade5/w:1024/p:16x9/capture-1380a6db.jpg"
     },
     {
-      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "title": "Khawaja claims entire Australia team knew about 2018 ball-tampering scandal",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T00:00:00.000Z",
-      "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war."
+      "published": "2026-11-07T05:46:54.000Z",
+      "summary": "The 'Sandpapergate' scandal saw ⁠Australia scuffing the ball with sandpaper in the March 2018 test ​in Cape Town."
     },
     {
       "title": "Europe bomb hoaxes widen",
@@ -1158,11 +1277,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d4fadc82-da26-11f1-bdcc-d18c5759e759/w:1024/p:16x9/capture-2027abfe.jpg"
     },
     {
-      "title": "New Zealanders head to polls on final day of voting",
-      "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+      "title": "President Herzog faces key choice as Israel struggles to form government",
+      "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T23:48:01.000Z",
-      "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race."
+      "published": "2026-11-07T05:16:18.000Z",
+      "summary": "Eisenkot's bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power."
     },
     {
       "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
@@ -1173,11 +1292,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0aab0508-da1a-11f1-81c8-d18c5759e759/w:1024/p:16x9/2026-11-06T193927Z-1437835472-RC2JIOACA4EZ-RTRMADP-3-POPE-LATAM-URUGUAY.jpg"
     },
     {
-      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
-      "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
+      "title": "Russia launches missile attack on Kyiv, injuring residents",
+      "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T23:33:28.000Z",
-      "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says."
+      "published": "2026-11-07T05:11:03.000Z",
+      "summary": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks."
     },
     {
       "title": "AI stocks climb after trillions wiped from market values",
@@ -1188,11 +1307,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+      "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T23:07:22.000Z",
-      "summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms."
+      "published": "2026-11-07T05:02:49.000Z",
+      "summary": "Haiti's National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire."
     },
     {
       "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
@@ -1203,11 +1322,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg"
     },
     {
-      "title": "US urges China to honour Busan trade deal commitments",
-      "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T23:00:37.000Z",
-      "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments."
+      "published": "2026-11-07T04:50:46.000Z",
+      "summary": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss."
     },
     {
       "title": "Israel's Arab-led parties in spotlight after inconclusive election",
@@ -1218,11 +1337,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8069x5380+0+0/resize/8069x5380!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F6c%2F50cd0c0a4ea1b5b817c6d594d7b6%2Fap26300479457875.jpg"
     },
     {
-      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "title": "Los Angeles reacts to historic mayoral election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T21:37:30.000Z",
-      "summary": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza."
+      "published": "2026-11-07T04:14:12.000Z",
+      "summary": "Los Angeles reacts to historic mayoral election"
     },
     {
       "title": "Ueno Bank scandal plunges Paraguay into political crisis",
@@ -1232,11 +1351,11 @@ window.GDC_NEWS = {
       "summary": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is…"
     },
     {
-      "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-      "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+      "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T21:22:57.000Z",
-      "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies."
+      "published": "2026-11-07T04:08:02.000Z",
+      "summary": "Activists in Amsterdam have stormed the site of a proposed Microsoft data centre. Al Jazeera’s Step Vaessen reports."
     },
     {
       "title": "Kenya: Sentencing of cult leader Mackenzie draws mixed reactions",
@@ -1246,11 +1365,11 @@ window.GDC_NEWS = {
       "summary": "Some called the prison term of 200 years for Paul Mackenzie fair, while others said it did not go far enough"
     },
     {
-      "title": "Protesters break into Microsoft data centre site in Amsterdam",
-      "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+      "title": "Trump confirms new US strikes on Iran’s Qeshm island",
+      "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T21:04:40.000Z",
-      "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use."
+      "published": "2026-11-07T03:53:01.000Z",
+      "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran."
     },
     {
       "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
@@ -1261,11 +1380,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/e82e01f4-da1b-11f1-b402-bf1914cabd52/w:1024/p:16x9/81f9ea5b-a81b-4236-b01d-3d25e74ea1f6.png"
     },
     {
-      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+      "title": "How the US midterm elections reflected resistance to data centres",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T20:48:25.000Z",
-      "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles."
+      "published": "2026-11-07T03:22:41.000Z",
+      "summary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms."
     },
     {
       "title": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
@@ -1274,127 +1393,24 @@ window.GDC_NEWS = {
       "published": "2026-11-06T19:49:25.000Z",
       "summary": "Is Senator Jon Ossoff the future of the Democratic Party? Following a resounding midterm victory in Georgia, a former Republican stronghold, the 39-year-old senator has emerged as a…",
       "image": "https://s.france24.com/media/display/b07c7ea8-da0b-11f1-ba8e-d18c5759e759/w:1024/p:16x9/EN-20261106-181104-182336-CS.jpg"
-    },
-    {
-      "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-      "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T20:28:07.000Z",
-      "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls."
-    },
-    {
-      "title": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
-      "link": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-06T19:16:00.000Z",
-      "summary": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president's Middle East deals is an area…"
-    },
-    {
-      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T20:27:09.000Z",
-      "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain."
-    },
-    {
-      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-      "source": "NPR World",
-      "published": "2026-11-06T19:13:06.000Z",
-      "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6816x4544+0+0/resize/6816x4544!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F70%2F4c7f5387455fac4992cf3fc5c68e%2Fap26310822769131.jpg"
-    },
-    {
-      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
-      "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T20:22:22.000Z",
-      "summary": "The pontiff praises Uruguay's clean energy transition and calls for universal healthcare."
-    },
-    {
-      "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-      "source": "NPR World",
-      "published": "2026-11-06T19:00:21.000Z",
-      "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2Fb8%2Fb629bb2042d1afc6a8774ba0e682%2Fgettyimages-2286697424-1.jpg"
-    },
-    {
-      "title": "How ‘Street Medics’ protect French protesters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T20:17:32.000Z",
-      "summary": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests."
-    },
-    {
-      "title": "What Trump’s midterms debacle could mean for US support for Ukraine",
-      "link": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine",
-      "source": "France 24",
-      "published": "2026-11-06T18:49:19.000Z",
-      "summary": "The Republican Party's crushing defeat in midterm elections has left Ukrainian President Volodymyr Zelensky optimistic about future support for Kyiv and stronger transatlantic relations…",
-      "image": "https://s.france24.com/media/display/d4dcb4de-d9de-11f1-b426-1beafce15fea/w:1024/p:16x9/2026-10-24T100014Z-973605904-RC2HONATRV49-RTRMADP-3-USA-TRUMP-ZELENSKIY-RELATIONSHIP.jpg"
-    },
-    {
-      "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T19:42:46.000Z",
-      "summary": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated."
-    },
-    {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-06T17:44:02.000Z",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg"
-    },
-    {
-      "title": "Why is Britain refusing to pay slavery reparations?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T19:34:33.000Z",
-      "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?"
-    },
-    {
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-06T17:35:55.000Z",
-      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dde/live/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Could Trump’s veto stop the Democratic majority?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T19:18:33.000Z",
-      "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump."
-    },
-    {
-      "title": "Netherlands: Protesters storm Amsterdam data centre construction site",
-      "link": "http://www.africanews.com/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site/",
-      "source": "Africanews",
-      "published": "2026-11-06T17:35:04.000Z",
-      "summary": "Protesters broke into a data centre construction site intended for Microsoft in Amsterdam, on 6 November, climbing cranes and unfurling banners denouncing artificial intelligence and the…"
-    },
-    {
-      "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-      "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T19:16:07.000Z",
-      "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque."
-    },
-    {
-      "title": "US midterms mark 'the beginning of the end' for Trump, John Bolton says",
-      "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
-      "source": "France 24",
-      "published": "2026-11-06T17:26:53.000Z",
-      "summary": "In an interview with FRANCE 24, John Bolton, who served as national security adviser to Donald Trump during his first term, called the US midterm results \"the beginning of the end\" for…",
-      "image": "https://s.france24.com/media/display/329cac82-da02-11f1-8c02-1beafce15fea/w:1024/p:16x9/photo-john-bolton.png"
     }
   ],
   "africa": [
+    {
+      "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
+      "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T06:47:45.000Z",
+      "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery."
+    },
+    {
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-07T01:19:49.000Z",
+      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg"
+    },
     {
       "title": "Morocco marks anniversary of Western Sahara occupation as UN mission ends",
       "link": "http://www.africanews.com/2026/11/06/morocco-marks-anniversary-of-western-sahara-occupation-as-un-mission-ends/",
@@ -1663,20 +1679,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-06T16:07:25.000Z",
       "summary": "[Leadership] The Kano Free Trade Zone has recorded significant growth in export activities, with 87 operational enterprises contributing to manufacturing, job creation, technology transfer…"
-    },
-    {
-      "title": "Kenya: Kenya Cult Leader Paul Mackenzie Sentenced to 200 Years",
-      "link": "https://allafrica.com/stories/202611060339.html",
-      "source": "AllAfrica",
-      "published": "2026-11-06T12:46:54.000Z",
-      "summary": "[DW] A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic…"
-    },
-    {
-      "title": "Nigeria: 'We Are Dying in Silence' - Sokoto Residents Tell Why They Trooped Out for Atiku",
-      "link": "https://allafrica.com/stories/202611060554.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T16:07:24.000Z",
-      "summary": "[Leadership] It was not just a campaign rally. For many residents who lined the road from Sultan Abubakar III International Airport to the ADC State Secretariat on Wednesday, November 4…"
     }
   ]
 };
