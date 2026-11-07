@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-06T21:58:49.301Z",
+  "updated": "2026-11-07T01:42:12.492Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,6 +25,106 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "NMC to summon nurse over alleged TikTok livestream of distressed pregnant patient",
+      "link": "https://www.myjoyonline.com/nmc-to-summon-nurse-over-alleged-tiktok-livestream-of-distressed-pregnant-patient/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T23:44:00.000Z",
+      "summary": "The Nursing and Midwifery Council (NMC) is expected to summon a nurse for further engagement next week following a controversial TikTok livestream allegedly showing a pregnant patient in…",
+      "categories": [
+        "Health",
+        "News",
+        "Top Story",
+        "Nurse",
+        "TikTok"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Nurse5.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Meghan’s father Thomas Markle appears in court over child sex abuse material",
+      "link": "https://www.myjoyonline.com/meghans-father-thomas-markle-appears-in-court-over-child-sex-abuse-material/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T22:56:00.000Z",
+      "summary": "Thomas Markle, the father of Meghan, Duchess of Sussex, has appeared in court after being charged over possession of child sex abuse material.",
+      "categories": [
+        "International",
+        "Child abuse",
+        "Markle",
+        "Meghan"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/9c7c73d0-da1b-11f1-bba7-b50f1faa7672.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ministry condemns growing trend of sexual blackmail and non-consensual recordings",
+      "link": "https://www.myjoyonline.com/ministry-condemns-growing-trend-of-sexual-blackmail-and-non-consensual-recordings/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T22:21:00.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection has condemned the growing circulation of intimate images and videos without consent, warning that perpetrators and those who…",
+      "categories": [
+        "News",
+        "Gender",
+        "Sexual blackmail"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/cyberstalking.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Trump names Stephen Miller as new White House chief of staff",
+      "link": "https://www.myjoyonline.com/trump-names-stephen-miller-as-new-white-house-chief-of-staff/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T22:01:00.000Z",
+      "summary": "President Donald Trump has named Stephen Miller, the architect of his hardline immigration policy, as his new chief of staff following historic losses in the US midterm elections.",
+      "categories": [
+        "International",
+        "Trump",
+        "White House"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/463b6050-da19-11f1-bba7-b50f1faa7672.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘It was a total miracle’: How rejection led Sylvester Stallone to create film’s ultimate underdog Rocky",
+      "link": "https://www.myjoyonline.com/it-was-a-total-miracle-how-rejection-led-sylvester-stallone-to-create-films-ultimate-underdog-rocky/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T21:35:00.000Z",
+      "summary": "In 1976, hit boxing drama Rocky turned its \"absolutely broke\" and unknown lead actor and screenwriter, Sylvester Stallone, into an A-list sensation. It's a story told in crowd-pleasing new…",
+      "categories": [
+        "Movies",
+        "Rocky"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/p0plmjc9.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Self-styled ‘king of Germany’ goes on trial accused of heading criminal group",
+      "link": "https://www.myjoyonline.com/self-styled-king-of-germany-goes-on-trial-accused-of-heading-criminal-group/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T21:27:00.000Z",
+      "summary": "A self-declared \"king\" of Germany has gone on trial in Düsseldorf accused of leading a criminal organisation along with three other men described as his senior \"subjects\".",
+      "categories": [
+        "International",
+        "Germany",
+        "King"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/b0bd9c30-d9cf-11f1-9e5a-c30c5e3d8c85.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "link": "https://www.myjoyonline.com/why-the-us-midterms-sparked-an-ai-stock-selloff/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T21:19:00.000Z",
+      "summary": "Is the artificial intelligence (AI) gold rush coming to an end, or is this simply a reality check?",
+      "categories": [
+        "International",
+        "Technology",
+        "AI"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "NDC reschedules submission of national executive nomination forms to 12 noon on November 7",
       "link": "https://www.myjoyonline.com/ndc-reschedules-submission-of-national-executive-nomination-forms-to-12-noon/",
       "source": "MyJoyOnline",
@@ -36,111 +136,6 @@ window.GDC_PAPERS = {
         "NDC"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/ndc.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Sheikh Ibrahim Barsha accepts appointment as interim National Imam of ASWAJ, calls for unity",
-      "link": "https://www.myjoyonline.com/sheikh-ibrahim-barsha-accepts-appointment-as-interim-national-imam-of-aswaj-calls-for-unity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T20:45:13.000Z",
-      "summary": "A founding member of Ahlussunna Wal Jama'a (ASWAJ) and one of Ghana's most respected Islamic scholars, Sheikh Ibrahim Barsha, has accepted appointment as the organization's Interim National…",
-      "categories": [
-        "National",
-        "National Imam of ASWAJ",
-        "Sheikh Ibrahim Barsha"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-19.47.38-1024x683.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi Beverages CEO donates GH¢120,000 towards 33-year-old man’s brain surgery",
-      "link": "https://www.myjoyonline.com/obuasi-beverages-ceo-donates-gh%c2%a2120000-towards-33-year-old-mans-brain-surgery/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T20:21:54.000Z",
-      "summary": "The Chief Executive Officer of Obuasi Beverages Company Limited, Dr Amo Collins, has donated GH¢120,000 towards the emergency brain surgery of 33-year-old Edmond Benefo, who has been…",
-      "categories": [
-        "Events",
-        "Brain Surgery",
-        "edmund Benefo",
-        "Obuasi Beverages CEO"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-10.42.21-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Newsfile to discuss Traffitech-GH fines, drug busts and Parliament’s continued absence of Asante Akyem North MP",
-      "link": "https://www.myjoyonline.com/newsfile-to-discuss-traffitech-gh-fines-drug-busts-and-parliaments-continued-absence-of-asante-akyem-north-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T20:13:54.000Z",
-      "summary": "This Saturday’s edition of Newsfile on JoyNews will examine three major issues dominating Ghana’s public discourse, as host Samson Lardy Anyenini leads discussions on road safety…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Asante Akyem North MP",
-        "drug busts",
-        "Newsfile",
-        "Traffitech-GH"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-19.07.41-1024x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Before buying AI, businesses need to ask better questions",
-      "link": "https://www.myjoyonline.com/before-buying-ai-businesses-need-to-ask-better-questions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T20:04:11.000Z",
-      "summary": "A recent analysis encouraged Ghanaian entrepreneurs to connect artificial intelligence with practical needs, including customer communication and record-keeping. That is a useful starting…",
-      "categories": [
-        "Opinion",
-        "AI",
-        "Businesse",
-        "Entreprenuers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Designer-1024x683.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nollywood actor Diewait Ikpechukwu dies at 71",
-      "link": "https://www.myjoyonline.com/nollywood-actor-diewait-ikpechukwu-dies-at-71/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T19:17:08.000Z",
-      "summary": "Veteran Nollywood actor Diewait Ikpechukwu has died at the age of 71, bringing to an end a career that spanned more than two decades in the Nigerian film industry. The actor reportedly died…",
-      "categories": [
-        "Arts and Culture",
-        "HP News 10",
-        "Movies",
-        "Diewait Ikpechukwu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/diewait-ikpechukwu.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mining Reforms Must Protect Jobs, Investment and Community Interests — Ghana Chamber of Mines",
-      "link": "https://www.myjoyonline.com/mining-reforms-must-protect-jobs-investment-and-community-interests-ghana-chamber-of-mines/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T19:14:01.000Z",
-      "summary": "The Ghana Chamber of Mines has called for sustained dialogue and careful consideration of the economic implications of ongoing mining sector reforms, stressing that efforts to deepen…",
-      "categories": [
-        "Mining",
-        "Chamber of Mines",
-        "Jobs",
-        "Reforms"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-7.08.09-PM-792x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COCOBOD relaunches free fertilizer programme with new monitoring platform to boost farmer incomes",
-      "link": "https://www.myjoyonline.com/cocobod-relaunches-free-fertilizer-programme-with-new-monitoring-platform-to-boost-farmer-incomes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T18:51:42.000Z",
-      "summary": "The government has relaunched the Free Fertilizer and Agro-Input Programme for cocoa farmers under a major intervention to restore productivity, improve farmer incomes, and reset the cocoa…",
-      "categories": [
-        "National",
-        "COCOBOD",
-        "free fertilizer programme"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-18.15.30-1024x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {

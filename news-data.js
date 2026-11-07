@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-06T21:58:35.603Z",
-  "worldAt": "2026-11-06T21:58:35.600Z",
+  "updated": "2026-11-07T01:41:59.444Z",
+  "worldAt": "2026-11-07T01:41:59.443Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,20 +26,20 @@ window.GDC_NEWS = {
     "Ghana Business News: 4/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 25 stories",
+    "World · BBC News: 26 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
-    "Africa · Africanews: 23 stories",
+    "Africa · Africanews: 24 stories",
     "Africa · BBC Africa: 30 stories",
     "Africa · Deutsche Welle: 5 stories",
     "Africa · Al Jazeera: 0 stories",
@@ -1099,6 +1099,13 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
+      "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T00:55:51.000Z",
+      "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month."
+    },
+    {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1107,11 +1114,25 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T21:37:30.000Z",
-      "summary": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza."
+      "published": "2026-11-07T00:31:41.000Z",
+      "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender."
+    },
+    {
+      "title": "Morocco marks anniversary of Western Sahara occupation as UN mission ends",
+      "link": "http://www.africanews.com/2026/11/06/morocco-marks-anniversary-of-western-sahara-occupation-as-un-mission-ends/",
+      "source": "Africanews",
+      "published": "2026-11-06T21:45:03.000Z",
+      "summary": "The anniversary comes as the decades-old territorial conflict enters a new diplomatic phase, with a U.N. peacekeeping mission winding down after 35 years. Western Sahara is Africa’s…"
+    },
+    {
+      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T00:21:49.000Z",
+      "summary": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign."
     },
     {
       "title": "Kenyan cult leader sentenced to 200 years in prison",
@@ -1122,11 +1143,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/70a84f88-da28-11f1-a6e4-695cb59fade5/w:1024/p:16x9/capture-1380a6db.jpg"
     },
     {
-      "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-      "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T21:22:57.000Z",
-      "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies."
+      "published": "2026-11-07T00:00:00.000Z",
+      "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war."
     },
     {
       "title": "Europe bomb hoaxes widen",
@@ -1137,12 +1158,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d4fadc82-da26-11f1-bdcc-d18c5759e759/w:1024/p:16x9/capture-2027abfe.jpg"
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-06T21:06:25.000Z",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
+      "title": "New Zealanders head to polls on final day of voting",
+      "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T23:48:01.000Z",
+      "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race."
     },
     {
       "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
@@ -1153,11 +1173,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/0aab0508-da1a-11f1-81c8-d18c5759e759/w:1024/p:16x9/2026-11-06T193927Z-1437835472-RC2JIOACA4EZ-RTRMADP-3-POPE-LATAM-URUGUAY.jpg"
     },
     {
-      "title": "Protesters break into Microsoft data centre site in Amsterdam",
-      "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+      "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+      "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T21:04:40.000Z",
-      "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use."
+      "published": "2026-11-06T23:33:28.000Z",
+      "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says."
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-06T21:06:25.000Z",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T23:07:22.000Z",
+      "summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms."
     },
     {
       "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
@@ -1168,26 +1203,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg"
     },
     {
-      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+      "title": "US urges China to honour Busan trade deal commitments",
+      "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T20:48:25.000Z",
-      "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles."
+      "published": "2026-11-06T23:00:37.000Z",
+      "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments."
     },
     {
       "title": "Israel's Arab-led parties in spotlight after inconclusive election",
       "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
       "source": "NPR World",
       "published": "2026-11-06T20:42:51.000Z",
-      "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key",
+      "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8069x5380+0+0/resize/8069x5380!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F6c%2F50cd0c0a4ea1b5b817c6d594d7b6%2Fap26300479457875.jpg"
     },
     {
-      "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-      "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T20:28:07.000Z",
-      "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls."
+      "published": "2026-11-06T21:37:30.000Z",
+      "summary": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza."
     },
     {
       "title": "Ueno Bank scandal plunges Paraguay into political crisis",
@@ -1197,11 +1232,11 @@ window.GDC_NEWS = {
       "summary": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is…"
     },
     {
-      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+      "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+      "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T20:27:09.000Z",
-      "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain."
+      "published": "2026-11-06T21:22:57.000Z",
+      "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies."
     },
     {
       "title": "Kenya: Sentencing of cult leader Mackenzie draws mixed reactions",
@@ -1211,11 +1246,11 @@ window.GDC_NEWS = {
       "summary": "Some called the prison term of 200 years for Paul Mackenzie fair, while others said it did not go far enough"
     },
     {
-      "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
-      "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
+      "title": "Protesters break into Microsoft data centre site in Amsterdam",
+      "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T20:22:22.000Z",
-      "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month."
+      "published": "2026-11-06T21:04:40.000Z",
+      "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use."
     },
     {
       "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
@@ -1226,11 +1261,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/e82e01f4-da1b-11f1-b402-bf1914cabd52/w:1024/p:16x9/81f9ea5b-a81b-4236-b01d-3d25e74ea1f6.png"
     },
     {
-      "title": "How ‘Street Medics’ protect French protesters",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+      "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T20:17:32.000Z",
-      "summary": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests."
+      "published": "2026-11-06T20:48:25.000Z",
+      "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles."
     },
     {
       "title": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
@@ -1241,11 +1276,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/b07c7ea8-da0b-11f1-ba8e-d18c5759e759/w:1024/p:16x9/EN-20261106-181104-182336-CS.jpg"
     },
     {
-      "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+      "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+      "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T19:42:46.000Z",
-      "summary": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated."
+      "published": "2026-11-06T20:28:07.000Z",
+      "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls."
     },
     {
       "title": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
@@ -1255,11 +1290,11 @@ window.GDC_NEWS = {
       "summary": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president's Middle East deals is an area…"
     },
     {
-      "title": "Why is Britain refusing to pay slavery reparations?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
+      "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T19:34:33.000Z",
-      "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?"
+      "published": "2026-11-06T20:27:09.000Z",
+      "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain."
     },
     {
       "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
@@ -1267,14 +1302,14 @@ window.GDC_NEWS = {
       "source": "NPR World",
       "published": "2026-11-06T19:13:06.000Z",
       "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7102x4734+0+0/resize/7102x4734!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F2d%2F036602604d04bdf7cf1bb565478f%2Fap26309594274044.jpg"
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6816x4544+0+0/resize/6816x4544!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F70%2F4c7f5387455fac4992cf3fc5c68e%2Fap26310822769131.jpg"
     },
     {
-      "title": "Could Trump’s veto stop the Democratic majority?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
+      "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
+      "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T19:18:33.000Z",
-      "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump."
+      "published": "2026-11-06T20:22:22.000Z",
+      "summary": "The pontiff praises Uruguay's clean energy transition and calls for universal healthcare."
     },
     {
       "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
@@ -1285,11 +1320,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2Fb8%2Fb629bb2042d1afc6a8774ba0e682%2Fgettyimages-2286697424-1.jpg"
     },
     {
-      "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-      "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+      "title": "How ‘Street Medics’ protect French protesters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T19:16:07.000Z",
-      "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque."
+      "published": "2026-11-06T20:17:32.000Z",
+      "summary": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests."
     },
     {
       "title": "What Trump’s midterms debacle could mean for US support for Ukraine",
@@ -1300,11 +1335,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d4dcb4de-d9de-11f1-b426-1beafce15fea/w:1024/p:16x9/2026-10-24T100014Z-973605904-RC2HONATRV49-RTRMADP-3-USA-TRUMP-ZELENSKIY-RELATIONSHIP.jpg"
     },
     {
-      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
-      "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+      "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T19:08:31.000Z",
-      "summary": "Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling."
+      "published": "2026-11-06T19:42:46.000Z",
+      "summary": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated."
+    },
+    {
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-06T17:44:02.000Z",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ed/live/81d3a0d0-d9ee-11f1-bbe5-797ee05bee69.jpg"
+    },
+    {
+      "title": "Why is Britain refusing to pay slavery reparations?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T19:34:33.000Z",
+      "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?"
     },
     {
       "title": "Nigerian court rules opposition candidate cannot stand in elections",
@@ -1315,11 +1365,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dde/live/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-      "link": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
+      "title": "Could Trump’s veto stop the Democratic majority?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T19:07:06.000Z",
-      "summary": "Locals blame ADF armed group, which pledged allegiance to ISIL in 2019, for the deadly raids on North Kivu villages."
+      "published": "2026-11-06T19:18:33.000Z",
+      "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump."
     },
     {
       "title": "Netherlands: Protesters storm Amsterdam data centre construction site",
@@ -1329,11 +1379,11 @@ window.GDC_NEWS = {
       "summary": "Protesters broke into a data centre construction site intended for Microsoft in Amsterdam, on 6 November, climbing cranes and unfurling banners denouncing artificial intelligence and the…"
     },
     {
-      "title": "Why is Paraguay facing a banking and political crisis?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
+      "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+      "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-06T18:54:08.000Z",
-      "summary": "Ueno collapse raises questions about state influence and accountability."
+      "published": "2026-11-06T19:16:07.000Z",
+      "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque."
     },
     {
       "title": "US midterms mark 'the beginning of the end' for Trump, John Bolton says",
@@ -1342,58 +1392,16 @@ window.GDC_NEWS = {
       "published": "2026-11-06T17:26:53.000Z",
       "summary": "In an interview with FRANCE 24, John Bolton, who served as national security adviser to Donald Trump during his first term, called the US midterm results \"the beginning of the end\" for…",
       "image": "https://s.france24.com/media/display/329cac82-da02-11f1-8c02-1beafce15fea/w:1024/p:16x9/photo-john-bolton.png"
-    },
-    {
-      "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T18:45:00.000Z",
-      "summary": "Two goats deployed to clear overgrown grass near a Tokyo railway station have become social media stars."
-    },
-    {
-      "title": "Switzerland: Giant banner targets Big Tech outside data centre site",
-      "link": "http://www.africanews.com/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site/",
-      "source": "Africanews",
-      "published": "2026-11-06T17:25:15.000Z",
-      "summary": "Greenpeace activists unfurled a giant 26-by-26-metre banner outside a data centre construction site in Beringen, northeastern Switzerland, on Friday 6 November, protesting against the…"
-    },
-    {
-      "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T18:38:44.000Z",
-      "summary": "Newsrooms in Ireland and Bulgaria received bomb threats from someone identifying themself as ‘Mikhail Andropov’."
-    },
-    {
-      "title": "Dakar 2026: China tops medal count as South Africa, Egypt win gold",
-      "link": "http://www.africanews.com/2026/11/06/dakar-2026-china-tops-medal-count-as-south-africa-egypt-win-gold/",
-      "source": "Africanews",
-      "published": "2026-11-06T17:04:00.000Z",
-      "summary": "Egypt ranked fourth with four gold and five medals in total. South Africa has so far scored one gold, three silver and one bronze"
-    },
-    {
-      "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-      "link": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T18:23:11.000Z",
-      "summary": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin."
-    },
-    {
-      "title": "UN says struggling to help millions fleeing Sudan war find shelter",
-      "link": "http://www.africanews.com/2026/11/06/un-says-struggling-to-help-millions-fleeing-sudan-war-find-shelter/",
-      "source": "Africanews",
-      "published": "2026-11-06T17:00:34.000Z",
-      "summary": "The United Nations on Friday said about 15.4 million people who have fled conflict in Sudan need emergency shelter and essential household items, but humanitarian organisations are facing…"
-    },
-    {
-      "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T18:17:39.000Z",
-      "summary": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties."
     }
   ],
   "africa": [
+    {
+      "title": "Morocco marks anniversary of Western Sahara occupation as UN mission ends",
+      "link": "http://www.africanews.com/2026/11/06/morocco-marks-anniversary-of-western-sahara-occupation-as-un-mission-ends/",
+      "source": "Africanews",
+      "published": "2026-11-06T21:45:03.000Z",
+      "summary": "The anniversary comes as the decades-old territorial conflict enters a new diplomatic phase, with a U.N. peacekeeping mission winding down after 35 years. Western Sahara is Africa’s…"
+    },
     {
       "title": "South Africa: Resident Evil - A Horror Video Game Adaptation With a Wicked Sense of Humour",
       "link": "https://allafrica.com/stories/202611060654.html",
@@ -1669,13 +1677,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-06T16:07:24.000Z",
       "summary": "[Leadership] It was not just a campaign rally. For many residents who lined the road from Sultan Abubakar III International Airport to the ADC State Secretariat on Wednesday, November 4…"
-    },
-    {
-      "title": "Tanzania: Opposition Leader Tundu Lissu Jailed for Four Years",
-      "link": "https://allafrica.com/stories/202611060330.html",
-      "source": "AllAfrica",
-      "published": "2026-11-06T12:39:33.000Z",
-      "summary": "[DW] Tanzanian opposition leader Tundu Lissu has been sentenced to four years in prison after being cleared of treason. Lissu condemned his conviction for incitement, which had not been…"
     }
   ]
 };
