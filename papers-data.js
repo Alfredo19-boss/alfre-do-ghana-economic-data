@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-07T14:24:42.693Z",
+  "updated": "2026-11-07T18:57:35.755Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,19 +25,149 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Ken Ofori-Atta recalls pandemic and DDEP partnership in tribute to late CLOGSAG boss",
-      "link": "https://www.myjoyonline.com/ken-ofori-atta-recalls-pandemic-and-ddep-partnership-in-tribute-to-late-clogsag-boss/",
+      "title": "AWA debunks reports of aircraft technical fault and passenger evacuation at Kumasi Airport",
+      "link": "https://www.myjoyonline.com/awa-debunks-reports-of-aircraft-technical-fault-and-passenger-evacuation-at-kumasi-airport/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T14:16:00.000Z",
-      "summary": "Former Minister for Finance, Ken Ofori-Atta, has paid a glowing tribute to the late Dr Isaac Akuetteh Bampoe Addo, describing the former Executive Secretary of the Civil and Local…",
+      "published": "2026-11-07T18:52:41.000Z",
+      "summary": "Africa World Airlines (AWA) has dismissed social media reports claiming that one of its aircraft developed a technical problem at Kumasi Airport, resulting in the evacuation of passengers…",
       "categories": [
-        "HP News 5",
         "National",
-        "CLOGSAG",
-        "Ken Ofori-Atta"
+        "AWA",
+        "Kumasi Airport",
+        "passenger evacuation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/aeaade84-59b6-4870-858f-951a4666df65.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-665.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama announces $9bn investment plan to create jobs under new economy policy",
+      "link": "https://www.myjoyonline.com/mahama-announces-9bn-investment-plan-to-create-jobs-under-new-economy-policy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T18:51:26.000Z",
+      "summary": "President John Dramani Mahama has unveiled plans to invest more than $9 billion in sectors with high job creation potential between 2027 and 2030 as part of a new policy initiative dubbed…",
+      "categories": [
+        "National",
+        "Regional",
+        "Keta Port",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/John-Mahama-1-e1794072885385-1024x693.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The Pathology in Ghana Politics: Examining institutional governance and the non-aligned citizen",
+      "link": "https://www.myjoyonline.com/the-pathology-in-ghana-politics-examining-institutional-governance-and-the-non-aligned-citizen/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T18:24:20.000Z",
+      "summary": "To the international community, Ghana’s Fourth Republic is a democratic success story—a peaceful vanguard of stability in West Africa defined by smooth transitions of power. But for those…",
+      "categories": [
+        "HP Opinion 1",
+        "National",
+        "Opinion",
+        "Ghana",
+        "Governance",
+        "Kwabena Kyere",
+        "Politics"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Kwabena-Kyere.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Michael Baidoo returns from injury to score in Plymouth win over Alvechurch",
+      "link": "https://www.myjoyonline.com/michael-baidoo-returns-from-injury-to-score-in-plymouth-win-over-alvechurch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T18:15:22.000Z",
+      "summary": "Baidoo returned with a bang as he scored in his side's 4-0 hammering of the lower-tier side in the cup competition.",
+      "categories": [
+        "Football",
+        "Michael Baidoo",
+        "Plymouth Argyle"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-181427.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Politician and businessman Kofi Wayo passes on at 71",
+      "link": "https://www.myjoyonline.com/politician-and-businessman-kofi-wayo-passes-on-at-71/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T18:04:01.000Z",
+      "summary": "Ghanaian politician and businessman Charles Eric Kofi Wayo, popularly known as Kofi Wayo or ‘Chuck’, has died at the age of 71.",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Kofi Wayo",
+        "politician"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Kofi-Wayo.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "57-year-old engaged in shoplifting incidents shown in several social media videos arrested by police",
+      "link": "https://www.graphic.com.gh/news/general-news/57-year-old-engaged-in-shoplifting-incidents-shown-in-several-social-media-videos-arrested-by-police.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T17:47:21.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/07/suspect.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Alfred Woyome files nomination to contest NDC National Vice Chairmanship",
+      "link": "https://www.myjoyonline.com/alfred-woyome-files-nomination-to-contest-ndc-national-vice-chairmanship/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T17:29:06.000Z",
+      "summary": "Businessman and National Democratic Congress (NDC) member, Alfred Agbesi Woyome, has filed his nomination to contest the position of National Vice Chairperson of the party.",
+      "categories": [
+        "Politics",
+        "Top Story",
+        "Alfred Woyome",
+        "NDC"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/10/Woyome.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Seven companies shortlisted for Keta Port development – Mahama",
+      "link": "https://www.myjoyonline.com/seven-companies-shortlisted-for-keta-port-development-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T17:19:58.000Z",
+      "summary": "President John Mahama has announced that seven companies have been shortlisted for the development of the Keta Port in the Volta Region.",
+      "categories": [
+        "HP News 3",
+        "National",
+        "Keta Port",
+        "President John Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-17.01.33-1024x774.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Naa Seidu Tungbani Salinbille II outdoored as Dorimon chief after four-year dispute",
+      "link": "https://www.myjoyonline.com/naa-seidu-tungbani-salinbille-ii-outdoored-as-dorimon-chief-after-four-year-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T17:19:56.000Z",
+      "summary": "Naa Seidu Tungbani Salinbille II has been outdoored as the new chief of Dorimon in the Wa West District of the Upper West Region.",
+      "categories": [
+        "Regional",
+        "Dorimon chief",
+        "Naa Seidu Tungbani Salinbille II"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-15.34.39-2-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kotoko, Chelsea face defining test as title rivals turn up heat",
+      "link": "https://www.graphic.com.gh/sports/sports-news/kotoko-chelsea-face-defining-test-as-title-rivals-turn-up-heat.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-07T16:32:54.000Z",
+      "summary": "The Porcupine Warriors, record 25-time league champions, must also overcome a formidable historical hurdle, with Berekum proving an unforgiving hunting ground over the years. Kotoko have…",
+      "categories": [
+        "Sports News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/07/GPL22.jpg",
+      "site": "https://www.graphic.com.gh/sports"
     },
     {
       "title": "ECG cracks down on debtors: Nationwide revenue mobilisation starts November 9",
@@ -50,120 +180,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2024/feb/19/ECG.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "MTTD explains what motorists should know about TraffiTech-GH on Newsfile",
-      "link": "https://www.myjoyonline.com/mttd-explains-what-motorists-should-know-about-traffitech-gh-on-newsfile/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T13:10:36.000Z",
-      "summary": "The Director of Education at the Motor Traffic and Transport Department (MTTD), ACP Alexander Obeng, has outlined what motorists need to know about the implementation of TraffiTech-GH. This…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "MTTD",
-        "Traffitech-GH"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-661.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "MSK Zilina Africa, Soccer Engineers head to Spain for ARG Nerja Cup",
-      "link": "https://www.myjoyonline.com/msk-zilina-africa-soccer-engineers-head-to-spain-for-arg-nerja-cup/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T13:09:14.000Z",
-      "summary": "Ghanaian lower-division sides MSK Zilina Africa and Soccer Engineers have departed the country to participate in the ARG Nerja Cup 2026 in Nerja, Málaga, Spain.",
-      "categories": [
-        "Football",
-        "Sports",
-        "ARG Cup 2026",
-        "Joseph Ayinga-Walter",
-        "MSK Zilina Africa",
-        "Soccer Engineers"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_4906.JPG-1-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Drug bust: Beirut officials’ accounts raise questions about NACOC’s cocaine ‘controlled delivery’ claim – Bright Simons",
-      "link": "https://www.myjoyonline.com/drug-bust-beirut-officials-accounts-raise-questions-about-nacocs-cocaine-controlled-delivery-claim-bright-simons/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T12:45:17.000Z",
-      "summary": "The Honorary Vice President of IMANI Africa, Bright Simons, has questioned the claim by the Narcotics Control Commission (NACOC) that the movement of a 46.7kg consignment of suspected…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Beirut officials",
-        "Bright Simons",
-        "NACOC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/more-drug-busts-security-lapses-1-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Accra Airport concourse project linking Terminals 2 and 3 reaches 20% completion – Felix Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/accra-airport-concourse-project-linking-terminals-2-and-3-reaches-20-completion-felix-kwakye-ofosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T12:44:17.000Z",
-      "summary": "Government Spokesperson Felix Kwakye Ofosu says construction of the concourse linking Terminals 2 and 3 at the Kotoka International Airport has reached 20 per cent completion.",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Accra Airport",
-        "Felix Kwakye Ofosu",
-        "terminals"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-656-1024x682.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "When the Law of the Streets confronted the Men in Uniform!",
-      "link": "https://www.myjoyonline.com/when-the-law-of-the-streets-confronted-the-men-in-uniform/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T12:37:25.000Z",
-      "summary": "By Jimmy Aglah Once upon a time in the Republic of Uncommon Sense, the rule of law went on a brief holiday, leaving behind two gentlemen to look after the Republic. One was a minister of…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "Jimmy Aglah",
-        "Law",
-        "Uniform"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/1-1-1024x682.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Traffitech rollout: What Ghana can learn from countries that warn motorists about speed cameras",
-      "link": "https://www.myjoyonline.com/traffitech-rollout-what-ghana-can-learn-from-countries-that-warn-motorists-about-speed-cameras/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T12:31:01.000Z",
-      "summary": "The rollout of Ghana’s automated traffic enforcement system, Traffitech, has brought into sharp focus an important aspect of road safety management: the responsibility of authorities to…",
-      "categories": [
-        "Features",
-        "National",
-        "Opinion",
-        "Ghana",
-        "speed cameras",
-        "speeding",
-        "TraffiTech"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/traffictech.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Controlled delivery allows drug suspects to remain unaware of investigations – NACOC",
-      "link": "https://www.myjoyonline.com/controlled-delivery-allows-drug-suspects-to-remain-unaware-of-investigations-nacoc/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T12:19:13.000Z",
-      "summary": "The Deputy Director of the Narcotics Control Commission (NACOC), Alexander Barimah Twum, has explained that suspected drug couriers are deliberately kept unaware during controlled-delivery…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Alexander Barimah Twum",
-        "Drugs"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/more-drug-busts-security-lapses-.jpg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ken Ofori-Atta recalls pandemic and DDEP partnership in tribute to late CLOGSAG boss",
@@ -190,6 +206,30 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
+      "title": "GES warns teachers against paying for promotion",
+      "link": "https://www.graphic.com.gh/news/education/ges-warns-teachers-against-paying-for-promotion.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T11:15:51.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "image": "https://www.graphic.com.gh/images/2016/AUGUST/AUG4/teach.png",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Travelling to Ghana? New mandatory health declaration rule takes effect next week",
+      "link": "https://www.graphic.com.gh/news/general-news/travelling-to-ghana-new-mandatory-health-declaration-rule-takes-effect-next-week.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T11:12:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/screen.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "'Consent to a relationship is not consent to be recorded' – Gender Ministry warns",
       "link": "https://www.graphic.com.gh/news/general-news/consent-to-a-relationship-is-not-consent-to-be-recorded---gender-ministry-warns.html",
       "source": "Daily Graphic",
@@ -211,42 +251,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/07/Centre.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Tamale never sleeps: night traders cash in, businesses boom",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-tamale-never-sleeps-night-traders-cash-in-businesses-boom.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T10:05:54.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/07/traders.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, Guinea brotherhood strengthened by Zoomlion partnership",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-guinea-brotherhood-strengthened-by-zoomlion-partnership.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T10:01:45.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Otumfuo Osei Tutu II confers with Queen Máxima",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-otumfuo-osei-tutu-ii-confers-with-queen-maxima.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T09:58:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/07/Otumfuo.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -432,18 +436,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/05/Ronaldo.jpg",
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "World record 53 red cards shown in Brazilian youth game",
-      "link": "https://www.graphic.com.gh/sports/sports-news/world-record-53-red-cards-shown-in-brazilian-youth-game.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-05T10:36:31.000Z",
-      "summary": "There was also two Uberlandia board members dismissed, taking the tally up to 53. The previous record was 36, in a 2011 fifth-division game between Club Atletico Claypole and Victoriano…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/game.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]
