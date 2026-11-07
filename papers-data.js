@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-07T07:48:33.607Z",
+  "updated": "2026-11-07T14:24:42.693Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,139 +25,229 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "COP31: African negotiators target tripled adaptation finance and Green Climate Fund replenishment",
-      "link": "https://www.myjoyonline.com/cop31-african-negotiators-target-tripled-adaptation-finance-and-green-climate-fund-replenishment/",
+      "title": "Ken Ofori-Atta recalls pandemic and DDEP partnership in tribute to late CLOGSAG boss",
+      "link": "https://www.myjoyonline.com/ken-ofori-atta-recalls-pandemic-and-ddep-partnership-in-tribute-to-late-clogsag-boss/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T06:54:29.000Z",
-      "summary": "The African Group of Negotiators on Climate Change (AGN) is placing climate adaptation finance at the forefront of its agenda as the United Nations Climate Change Conference (COP31) opens…",
+      "published": "2026-11-07T14:16:00.000Z",
+      "summary": "Former Minister for Finance, Ken Ofori-Atta, has paid a glowing tribute to the late Dr Isaac Akuetteh Bampoe Addo, describing the former Executive Secretary of the Civil and Local…",
       "categories": [
-        "News",
-        "Climate"
+        "HP News 5",
+        "National",
+        "CLOGSAG",
+        "Ken Ofori-Atta"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-21.14.42-1024x768.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/11/aeaade84-59b6-4870-858f-951a4666df65.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sunyani Teaching Hospital needs staff accommodation to support expansion – CEO",
-      "link": "https://www.myjoyonline.com/sunyani-teaching-hospital-needs-staff-accommodation-to-support-expansion-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T06:46:27.000Z",
-      "summary": "The Chief Executive Officer of the Sunyani Teaching Hospital, Dr Cardinal Newton, has called on the government, private investors, and philanthropists to support the construction of staff…",
+      "title": "ECG cracks down on debtors: Nationwide revenue mobilisation starts November 9",
+      "link": "https://www.graphic.com.gh/news/general-news/ecg-cracks-down-on-debtors-nationwide-revenue-mobilisation-starts-november-9.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T13:39:23.000Z",
+      "summary": "",
       "categories": [
-        "News"
+        "General News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-21.01.04ss-1024x576.jpeg",
+      "image": "https://www.graphic.com.gh/images/2024/feb/19/ECG.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "MTTD explains what motorists should know about TraffiTech-GH on Newsfile",
+      "link": "https://www.myjoyonline.com/mttd-explains-what-motorists-should-know-about-traffitech-gh-on-newsfile/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T13:10:36.000Z",
+      "summary": "The Director of Education at the Motor Traffic and Transport Department (MTTD), ACP Alexander Obeng, has outlined what motorists need to know about the implementation of TraffiTech-GH. This…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "MTTD",
+        "Traffitech-GH"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-661.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Fire destroys Agbogba restaurant near Yellow Container",
-      "link": "https://www.myjoyonline.com/fire-destroys-agbogba-restaurant-near-yellow-container/",
+      "title": "MSK Zilina Africa, Soccer Engineers head to Spain for ARG Nerja Cup",
+      "link": "https://www.myjoyonline.com/msk-zilina-africa-soccer-engineers-head-to-spain-for-arg-nerja-cup/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T05:39:29.000Z",
-      "summary": "Firefighters on Friday, November 6, 2026, battled a fiercely spreading inferno that completely destroyed a restaurant near the popular Yellow Container landmark at Agbogba in Accra.",
+      "published": "2026-11-07T13:09:14.000Z",
+      "summary": "Ghanaian lower-division sides MSK Zilina Africa and Soccer Engineers have departed the country to participate in the ARG Nerja Cup 2026 in Nerja, Málaga, Spain.",
       "categories": [
-        "News"
+        "Football",
+        "Sports",
+        "ARG Cup 2026",
+        "Joseph Ayinga-Walter",
+        "MSK Zilina Africa",
+        "Soccer Engineers"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/fire-in-44-e1776606898192.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_4906.JPG-1-1024x576.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Zenith SME Business Empowerment Lab: SMEs urged to identify business risks and adopt mitigation strategies to ensure sustainability",
-      "link": "https://www.myjoyonline.com/zenith-sme-business-empowerment-lab-smes-urged-to-identify-business-risks-and-adopt-mitigation-strategies-to-ensure-sustainability/",
+      "title": "Drug bust: Beirut officials’ accounts raise questions about NACOC’s cocaine ‘controlled delivery’ claim – Bright Simons",
+      "link": "https://www.myjoyonline.com/drug-bust-beirut-officials-accounts-raise-questions-about-nacocs-cocaine-controlled-delivery-claim-bright-simons/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T05:15:45.000Z",
-      "summary": "According to the experts, business resilience goes beyond responding to crises. It requires a deliberate and strategic approach to identifying potential vulnerabilities, safeguarding…",
+      "published": "2026-11-07T12:45:17.000Z",
+      "summary": "The Honorary Vice President of IMANI Africa, Bright Simons, has questioned the claim by the Narcotics Control Commission (NACOC) that the movement of a 46.7kg consignment of suspected…",
       "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 3",
-        "Frederick Adu-Amoako",
-        "GIRSAL",
-        "GNCCI",
-        "Hollard",
-        "Samuel Yeboah",
-        "Yvonne Dowuona",
-        "Zenith Bank"
+        "HP News 4",
+        "National",
+        "Beirut officials",
+        "Bright Simons",
+        "NACOC"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/07/Zenith-Bank.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/more-drug-busts-security-lapses-1-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Policy rate of 14% between May and September 2026 was meant to preserve economic stability – BoG Governor",
-      "link": "https://www.myjoyonline.com/policy-rate-of-14-between-may-and-september-2026-was-meant-to-preserve-economic-stability-bog-governor/",
+      "title": "Accra Airport concourse project linking Terminals 2 and 3 reaches 20% completion – Felix Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/accra-airport-concourse-project-linking-terminals-2-and-3-reaches-20-completion-felix-kwakye-ofosu/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T05:07:15.000Z",
-      "summary": "The Bank of Ghana Governor, Dr. Johnson Asiama, has strongly defended the decision by the Monetary Policy Committee to hold the policy rate at 14% between May and September 2026. According…",
+      "published": "2026-11-07T12:44:17.000Z",
+      "summary": "Government Spokesperson Felix Kwakye Ofosu says construction of the concourse linking Terminals 2 and 3 at the Kotoka International Airport has reached 20 per cent completion.",
       "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 2",
-        "BoG",
-        "Car",
-        "Dr. Johnson Asiama",
-        "Inflation",
-        "NPL",
-        "Parliament",
-        "Policy rate",
-        "Reserves"
+        "HP News 6",
+        "National",
+        "Accra Airport",
+        "Felix Kwakye Ofosu",
+        "terminals"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-15.11.51-1024x672.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-656-1024x682.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘Days of diverting cocoa inputs are over’ – COCOBOD CEO",
-      "link": "https://www.myjoyonline.com/days-of-diverting-cocoa-inputs-are-over-cocobod-ceo/",
+      "title": "When the Law of the Streets confronted the Men in Uniform!",
+      "link": "https://www.myjoyonline.com/when-the-law-of-the-streets-confronted-the-men-in-uniform/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T04:57:47.000Z",
-      "summary": "The Ghana Cocoa Board (COCOBOD) has issued a stern warning to individuals and officials involved in the diversion, hoarding or illegal sale of free fertiliser and other farm inputs, saying…",
+      "published": "2026-11-07T12:37:25.000Z",
+      "summary": "By Jimmy Aglah Once upon a time in the Republic of Uncommon Sense, the rule of law went on a brief holiday, leaving behind two gentlemen to look after the Republic. One was a minister of…",
       "categories": [
-        "Agribusiness",
-        "Business",
-        "HP Business 1",
-        "HP News 7",
-        "News",
-        "Beans",
-        "Cocoa",
-        "COCOBOD",
-        "Fertiliser",
-        "Ghana"
+        "Features",
+        "National",
+        "Opinion",
+        "Jimmy Aglah",
+        "Law",
+        "Uniform"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/03/Randy-Abbey-1024x903.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/1-1-1024x682.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Sons of the sound: How Mfanstsipim incubated and nurtured Ghana’s contemporary gospel",
-      "link": "https://www.myjoyonline.com/sons-of-the-sound-how-mfanstsipim-incubated-and-nurtured-ghanas-contemporary-gospel/",
+      "title": "Traffitech rollout: What Ghana can learn from countries that warn motorists about speed cameras",
+      "link": "https://www.myjoyonline.com/traffitech-rollout-what-ghana-can-learn-from-countries-that-warn-motorists-about-speed-cameras/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T04:27:55.000Z",
-      "summary": "Contemporary gospel music emerged in Ghana in the early 1970s, marking a major development in the country’s Christian music. Churches had long used hymns, anthems, cantatas, indigenous…",
+      "published": "2026-11-07T12:31:01.000Z",
+      "summary": "The rollout of Ghana’s automated traffic enforcement system, Traffitech, has brought into sharp focus an important aspect of road safety management: the responsibility of authorities to…",
       "categories": [
-        "HP Opinion 2",
+        "Features",
+        "National",
         "Opinion",
         "Ghana",
-        "Gospel",
-        "Music"
+        "speed cameras",
+        "speeding",
+        "TraffiTech"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-14.38.23.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/traffictech.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghanaian singer Efya marries Nigerian star Tomi Thomas",
-      "link": "https://www.myjoyonline.com/ghanaian-singer-efya-marries-nigerian-star-tomi-thomas/",
+      "title": "Controlled delivery allows drug suspects to remain unaware of investigations – NACOC",
+      "link": "https://www.myjoyonline.com/controlled-delivery-allows-drug-suspects-to-remain-unaware-of-investigations-nacoc/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T03:39:14.000Z",
-      "summary": "Ghanaian singer Efya Nokturnal and Nigerian musician Tomi Thomas have formalised their union in a colourful traditional marriage ceremony in Accra, bringing together music, fashion and…",
+      "published": "2026-11-07T12:19:13.000Z",
+      "summary": "The Deputy Director of the Narcotics Control Commission (NACOC), Alexander Barimah Twum, has explained that suspected drug couriers are deliberately kept unaware during controlled-delivery…",
       "categories": [
-        "Arts and Culture",
-        "HP Entertainment 1",
-        "HP News 10",
-        "Music",
-        "News",
-        "Efya",
-        "Tomi Thomas"
+        "HP News 2",
+        "National",
+        "Alexander Barimah Twum",
+        "Drugs"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image_2026-11-06_150631344-e1794025098303.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/more-drug-busts-security-lapses-.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ken Ofori-Atta recalls pandemic and DDEP partnership in tribute to late CLOGSAG boss",
+      "link": "https://www.graphic.com.gh/news/general-news/ken-ofori-atta-recalls-pandemic-and-ddep-partnership-in-tribute-to-late-clogsag-boss.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T12:17:23.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/IMG_5960.JPG.jpeg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "'A blow to the nation': President Mahama pays tribute to late CLOGSAG boss and twin brother",
+      "link": "https://www.graphic.com.gh/news/general-news/a-blow-to-the-nation-president-mahama-pays-tribute-to-late-clogsag-boss-and-twin-brother.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T11:31:42.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/draman26.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "'Consent to a relationship is not consent to be recorded' – Gender Ministry warns",
+      "link": "https://www.graphic.com.gh/news/general-news/consent-to-a-relationship-is-not-consent-to-be-recorded---gender-ministry-warns.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T10:54:25.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2025/nov/15/Sextortion.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Rural Healthcare: Titus Medical Centre offers lifeline to rural snakebite victims",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-rural-healthcare-titus-medical-centre-offers-lifeline-to-rural-snakebite-victims.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T10:11:39.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/07/Centre.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Tamale never sleeps: night traders cash in, businesses boom",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-tamale-never-sleeps-night-traders-cash-in-businesses-boom.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T10:05:54.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/07/traders.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana, Guinea brotherhood strengthened by Zoomlion partnership",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-guinea-brotherhood-strengthened-by-zoomlion-partnership.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T10:01:45.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Otumfuo Osei Tutu II confers with Queen Máxima",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-otumfuo-osei-tutu-ii-confers-with-queen-maxima.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-07T09:58:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/07/Otumfuo.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Bellingham brothers set for England reunion as Jobe earns first call-up",
@@ -182,102 +272,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/06/EGYPT_FA.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Prof. Peter Quartey elected Chairman of PIAC",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-prof-peter-quartey-elected-chairman-of-piac.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:55:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Quartey.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "8 In every 10 adults own a financial account — Finance Ministry",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-8-in-every-10-adults-own-a-financial-account-finance-ministry.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:49:18.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Thomas.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama commiserates with families of murdered Ghanaians in US",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-commiserates-with-families-of-murdered-ghanaians-in-us.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:46:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/President.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana loses $6.5bn in potential mining revenue - IFS",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-loses-6-5bn-in-potential-mining-revenue-ifs.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:40:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Said.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Security alert: Foreigners sponsoring galamsey in Savanna",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-security-alert-foreigners-sponsoring-galamsey-in-savanna.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:29:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Kwame.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Govt opens fresh bidding for Volivo Bridge",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-opens-fresh-bidding-for-volivo-bridge.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:26:29.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Agbodza.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Apply acquired knowledge to solve problems - VC challenges graduates",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-apply-acquired-knowledge-to-solve-problems-vc-challenges-graduates.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:22:54.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Mensah.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana must develop digital infrastructure — Dr Apaak",
-      "link": "https://www.graphic.com.gh/news/education/ghana-news-ghana-must-develop-digital-infrastructure-dr-apaak.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-06T15:15:59.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/06/Apaak.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana losing billions in potential revenue due to weak collection – Dr Said Boakye, IFS.",

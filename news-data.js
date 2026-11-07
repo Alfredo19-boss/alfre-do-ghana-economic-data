@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-07T07:48:21.670Z",
-  "worldAt": "2026-11-07T07:48:21.668Z",
+  "updated": "2026-11-07T14:24:27.186Z",
+  "worldAt": "2026-11-07T14:24:27.184Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -23,29 +23,113 @@ window.GDC_NEWS = {
     "Graphic Online: 6/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: 0 stories",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: 0 stories",
-    "Citi Newsroom wire: failed (HTTP 429)",
+    "Citi Newsroom wire: 0 stories",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 28 stories",
+    "World · BBC News: 23 stories",
     "World · Deutsche Welle: 12 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
-    "Africa · Africanews: 24 stories",
+    "Africa · Africanews: 25 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 5 stories",
     "Africa · Al Jazeera: 1 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "Ghana’s Data Centre Industry Faces Regulatory Overlap, Underused Capacity",
+      "link": "https://thehighstreetjournal.com/ghanas-data-centre-industry-regulation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T13:52:00.000Z",
+      "summary": "Ghana’s efforts to expand its digital infrastructure are being constrained by overlapping regulatory responsibilities and the underutilisation of national data centres, according to the…"
+    },
+    {
+      "title": "ECG cracks down on debtors: Nationwide revenue mobilisation starts November 9",
+      "link": "https://www.graphic.com.gh/news/general-news/ecg-cracks-down-on-debtors-nationwide-revenue-mobilisation-starts-november-9.html",
+      "source": "Graphic Online",
+      "published": "2026-11-07T13:39:23.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Give Me Back My iPhone! What Happens to Gifts When Relationships End?",
+      "link": "https://thehighstreetjournal.com/give-me-back-my-iphone-what-happens-to-gifts-when-relationships-end/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T12:37:00.000Z",
+      "summary": "A gift made in contemplation of marriage may, depending on the circumstances, be recoverable from the recipient, but not by the party whose wrongful breach occasioned the failure of the…"
+    },
+    {
+      "title": "Africa Risks Creating Another Mine Closure Crisis Through Its Critical Minerals Boom",
+      "link": "https://thehighstreetjournal.com/africa-risks-creating-another-mine-closure-crisis-through-its-critical-minerals-boom/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T11:43:00.000Z",
+      "summary": "Dr. Kgomotso Tshaka warns that Africa’s critical minerals boom could create another mine closure crisis without stronger governance, rehabilitation and community transition planning."
+    },
+    {
+      "title": "Central University launches digital career, counselling platform",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-central-university-launches-digital-career-counselling-platform.html",
+      "source": "Graphic Online",
+      "published": "2026-11-07T09:30:39.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Commonwealth must push for global financial system reform — Ablakwa",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-commonwealth-must-push-for-global-financial-system-reform-ablakwa.html",
+      "source": "Graphic Online",
+      "published": "2026-11-07T09:24:48.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Odawna Market redevelopment starts next year — Assembly",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-odawna-market-redevelopment-starts-next-year-assembly.html",
+      "source": "Graphic Online",
+      "published": "2026-11-07T09:20:26.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Mining Companies Must Turn Closure Liabilities Into Productive Community Assets – Dr. Tshaka",
+      "link": "https://thehighstreetjournal.com/mining-companies-must-turn-closure-liabilities-into-productive-community-assets-dr-tshaka/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T09:15:00.000Z",
+      "summary": "Dr. Kgomotso Tshaka urges mining companies to repurpose former mining assets into productive ventures that support economic diversification and create lasting value for host communities."
+    },
+    {
+      "title": "Galamsey's real bill paid at tap, market, clinic - Let’s count it",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-galamseys-real-bill-paid-at-tap-market-clinic-lets-count-it.html",
+      "source": "Graphic Online",
+      "published": "2026-11-07T09:14:32.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Mine Closure Must Become a Beginning of Community Regeneration, Not the End of Mining – Dr. Kgomotso",
+      "link": "https://thehighstreetjournal.com/mine-closure-must-become-a-beginning-of-community-regeneration-not-the-end-of-mining-dr-kgomotso/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T08:48:08.000Z",
+      "summary": "Dr. Kgomotso Tshaka urges mining companies and governments to make community regeneration a central part of mine closure, ensuring host communities remain economically resilient beyond…"
+    },
+    {
+      "title": "GH¢17.5bn gold accounting shortfall due to cedi appreciation — BoG",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghc17-5bn-gold-accounting-shortfall-due-to-cedi-appreciation-bog.html",
+      "source": "Graphic Online",
+      "published": "2026-11-07T08:28:09.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Tokenising government securities could attract more foreign investors to Ghana – WeWire CEO",
+      "link": "https://www.myjoyonline.com/tokenising-government-securities-could-attract-more-foreign-investors-to-ghana-wewire-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T08:12:22.000Z",
+      "summary": "The Chief Executive Officer of WeWire, Ebenezer Ghanney, says tokenising Ghana's government securities could make it easier for international investors to access the domestic market and…"
+    },
     {
       "title": "Emirates Group Sustains Profitability Despite Gulf Conflict, Soaring Fuel Costs",
       "link": "https://thehighstreetjournal.com/emirates-group-sustains-profitability-despite-gulf-conflict-soaring-fuel-costs/",
@@ -796,6 +880,13 @@ window.GDC_NEWS = {
       "summary": "Farming involves a succession of decisions. Is the soil dry enough to need watering?"
     },
     {
+      "title": "Traffitech-GH fines: Private firm expected to get 40% of every fine, government to get 60%",
+      "link": "https://www.myjoyonline.com/traffitech-gh-fines-private-firm-expected-to-get-40-of-every-fine-government-to-get-60/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-04T20:28:00.000Z",
+      "summary": "A private company is expected to keep 40% of every fine collected by Ghana’s new traffic cameras, with government taking the other 60%. On a first-offence fine of GH¢120, that is GH¢48 to…"
+    },
+    {
       "title": "Nearly half of Ghana’s MMDAs fall below minimum public financial management standards – World Bank",
       "link": "https://www.myjoyonline.com/nearly-half-of-ghanas-mmdas-fall-below-minimum-public-financial-management-standards-world-bank/",
       "source": "MyJoyOnline",
@@ -1004,404 +1095,340 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-04T10:09:41.000Z",
       "summary": "The Prime Minister of Guinea, Amadou Oury Bah, has described a new waste management partnership between the Ghanaian Jospong Group of Companies (JGC), through its environmental services…"
-    },
-    {
-      "title": "UNSGSA Queen Máxima visits Ghanaian agribusinesses, showing how local markets can strengthen food security",
-      "link": "https://www.myjoyonline.com/unsgsa-queen-maxima-visits-ghanaian-agribusinesses-showing-how-local-markets-can-strengthen-food-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T09:30:01.000Z",
-      "summary": "Her Majesty Queen Máxima of the Netherlands, in her capacity as the United Nations Secretary-General’s Special Advocate for Financial Health (UNSGSA), today visited Ghanaian agribusinesses…"
-    },
-    {
-      "title": "Albert Kungmaa Ziem appointed Director Finance of Graphic",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ziem-appointed-director-finance-of-graphic.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T09:18:22.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Ablakwa calls for united coalition on Fossil Fuel Treaty",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ablakwa-calls-for-united-coalition-on-fossil-fuel-treaty.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T09:13:45.000Z",
-      "summary": ""
-    },
-    {
-      "title": "GIDA receives digital dashboard to improve irrigation management",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-gida-receives-digital-dashboard-to-improve-irrigation-management.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T08:48:48.000Z",
-      "summary": ""
-    },
-    {
-      "title": "CEOs urged to drive Ghana’s economic transformation",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ceos-urged-to-drive-ghanas-economic-transformation.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T08:17:31.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Tourism must drive investment, jobs - Stakeholders",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-tourism-must-drive-investment-jobs-stakeholders.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T08:13:23.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Countrystyle Tourism Network to establish identity centres in Paga to boost tourism",
-      "link": "https://www.graphic.com.gh/news/general-news/ghan-anews-countrystyle-tourism-network-to-establish-identity-centres-in-paga-to-boost-tourism.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T07:05:29.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Ministry to pay JUSAG salary arrears in two instalments",
-      "link": "https://www.ghanabusinessnews.com/2026/11/04/ministry-to-pay-jusag-salary-arrears-in-two-instalments/",
-      "source": "Ghana Business News",
-      "published": "2026-11-04T06:55:45.000Z",
-      "summary": "The Ministry of Finance has approved the payment of reviewed salary arrears to members of the Judicial Service Staff Association of Ghana (JUSAG) and the lower court bench in two…"
-    },
-    {
-      "title": "Fidelity Bank becomes Ghana’s only bank to achieve 2X Certified Advanced status for gender-smart finance",
-      "link": "https://www.myjoyonline.com/fidelity-bank-becomes-ghanas-only-bank-to-achieve-2x-certified-advanced-status-for-gender-smart-finance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T05:05:00.000Z",
-      "summary": "Fidelity Bank Ghana has achieved 2X Certified Advanced status, becoming the only bank in Ghana to attain this distinction and reinforcing its commitment to advancing gender-smart finance…"
-    },
-    {
-      "title": "Will the 9% & 10% Pay Rise for Public Workers Automatically Enhance Purchasing Power? Finance Expert’s View",
-      "link": "https://thehighstreetjournal.com/will-the-9-10-pay-rise-for-public-workers-automatically-enhance-purchasing-power-finance-experts-view/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T05:05:00.000Z",
-      "summary": "Public sector workers’ 9% and 10% pay rises in 2027 and 2028 may improve purchasing power, but inflation will determine their actual gains."
-    },
-    {
-      "title": "Ghana’s 2027 Budget: Can Economic Recovery Put Families at Ease?",
-      "link": "https://thehighstreetjournal.com/ghanas-2027-budget-can-economic-recovery-put-families-at-ease/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T05:03:00.000Z",
-      "summary": "Ghana’s 2027 Budget must translate economic stability into affordable living, decent jobs, better public services and investment confidence while protecting households from volatile fuel…"
-    },
-    {
-      "title": "Ghana’s Silent Economic Drain: While 2 Million Youth are Idle, Others are Leaving Agriculture in Droves",
-      "link": "https://thehighstreetjournal.com/ghanas-silent-economic-drain-while-2-million-youth-are-idle-others-are-leaving-agriculture-in-droves/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T05:02:00.000Z",
-      "summary": "Ghana faces a youth employment crisis, with two million young people outside work or education and declining participation in agriculture threatening future productivity."
-    },
-    {
-      "title": "UNESCO Partners PK Amoabeng Leadership Foundation, Reformation Community on Youth Leadership Training",
-      "link": "https://thehighstreetjournal.com/unesco-partners-pk-leadership-foundation/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T05:01:00.000Z",
-      "summary": "The agreement with PK Amoabeng Leadership Foundation and Reformation Community will support multi-year programmes focused on mentorship, civic responsibility and community development among…"
     }
   ],
   "world": [
     {
-      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
-      "link": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-07T07:33:00.000Z",
-      "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years."
-    },
-    {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T07:20:00.000Z",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
-    },
-    {
-      "title": "Qatari PM says US willing to seek solution to war with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "title": "New Zealand’s prime minister says election is ‘too close to call’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T07:10:37.000Z",
-      "summary": "Qatari PM says US willing to seek solution to war with Iran"
+      "published": "2026-11-07T14:03:06.000Z",
+      "summary": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government."
     },
     {
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T06:59:48.000Z",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
-    },
-    {
-      "title": "WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva",
-      "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T07:09:12.000Z",
-      "summary": "Pegula's conversation with her coach on a practice court at Indian Wells was broadcast on a WTA YouTube livestream."
-    },
-    {
-      "title": "Ousted Paraguay president under house arrest after bank collapse",
-      "link": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
-      "source": "France 24",
-      "published": "2026-11-07T06:18:38.000Z",
-      "summary": "Paraguayan authorities placed ousted president Santiago Peña under house arrest on Friday, shortly after the Senate unanimously removed him from office over a massive banking crisis that…",
-      "image": "https://s.france24.com/media/display/80d2986c-da70-11f1-91a8-695cb59fade5/w:1024/p:16x9/AP26309755276700.jpg"
-    },
-    {
-      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T07:05:01.000Z",
-      "summary": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island."
-    },
-    {
-      "title": "US asks China to uphold Busan trade deal commitments",
-      "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-07T04:44:00.000Z",
-      "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic…"
-    },
-    {
-      "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
-      "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T06:47:45.000Z",
-      "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery."
-    },
-    {
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T01:27:47.000Z",
-      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dd/live/b21e0c00-d9ce-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Do not investigate Trump’s corporate allies until he leaves office",
-      "link": "https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T06:38:27.000Z",
-      "summary": "The US presidential pardon power has created a constitutional absurdity that can protect those accused of corruption."
-    },
-    {
-      "title": "The young Somali woman changing how the world sees Mogadishu",
-      "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T01:19:49.000Z",
-      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0273/live/640a38d0-da01-11f1-84c1-dbcae60402d7.jpg"
-    },
-    {
-      "title": "How the Iran war helped Democrats win the midterms",
-      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T06:26:58.000Z",
-      "summary": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump's party."
-    },
-    {
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-06T23:46:08.000Z",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd6/live/ad29b050-da2d-11f1-ab60-69d917fc430c.jpg"
-    },
-    {
-      "title": "Carlos Alcaraz saves match points to reach Paris Masters semifinals",
-      "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T06:21:04.000Z",
-      "summary": "Seven-time Grand Slam champion Alcaraz is through to the Paris Masters semifinals for the first time in his career."
-    },
-    {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-06T23:24:15.000Z",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
-    },
-    {
-      "title": "Governing party ahead in early results of New Zealand’s knife-edge vote",
-      "link": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T06:20:27.000Z",
-      "summary": "Early count suggests New Zealand's National and Labour parties are neck and neck, with neither likely to govern alone."
-    },
-    {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-06T21:49:50.000Z",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
-      "link": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T05:57:25.000Z",
-      "summary": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research."
-    },
-    {
-      "title": "Morocco marks anniversary of Western Sahara occupation as UN mission ends",
-      "link": "http://www.africanews.com/2026/11/06/morocco-marks-anniversary-of-western-sahara-occupation-as-un-mission-ends/",
+      "title": "Pope Leo begins South America tour in 'fairly good shape' after cancer treatment",
+      "link": "http://www.africanews.com/2026/11/07/pope-leo-begins-south-america-tour-in-fairly-good-shape-after-cancer-treatment/",
       "source": "Africanews",
-      "published": "2026-11-06T21:45:03.000Z",
-      "summary": "The anniversary comes as the decades-old territorial conflict enters a new diplomatic phase, with a U.N. peacekeeping mission winding down after 35 years. Western Sahara is Africa’s…"
+      "published": "2026-11-07T13:43:14.000Z",
+      "summary": "Pope Leo XIV declared he was in \"fairly good shape\" after his cancer treatment, as he kicked off a three-nation South America tour on Friday."
     },
     {
-      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T05:51:23.000Z",
-      "summary": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion."
+      "published": "2026-11-07T13:50:15.000Z",
+      "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel."
+    },
+    {
+      "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
+      "link": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
+      "source": "France 24",
+      "published": "2026-11-07T13:29:28.000Z",
+      "summary": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a…",
+      "image": "https://s.france24.com/media/display/c9733fde-daae-11f1-87e0-bf1914cabd52/w:1024/p:16x9/EN-20261107-130322-131958-CS.jpg"
+    },
+    {
+      "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
+      "link": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:35:46.000Z",
+      "summary": "The hard-left leader has transformed into a real contender in next year presidential elections."
+    },
+    {
+      "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
+      "link": "https://www.france24.com/en/nations-league-zinedine-zidane-balances-surprise-and-continuity-in-his-second-roster",
+      "source": "France 24",
+      "published": "2026-11-07T13:27:01.000Z",
+      "summary": "Zinedine Zidane has unveiled his France squad for the upcoming Nations League clashes against Italy and Turkey. Pablo Pagis earns a surprise first call-up, while Kylian Mbappé and several…",
+      "image": "https://s.france24.com/media/display/97041338-da8c-11f1-949c-1beafce15fea/w:1024/p:16x9/AP26275688279113.jpg"
+    },
+    {
+      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+      "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:24:41.000Z",
+      "summary": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack."
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T12:49:36.000Z",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg"
+    },
+    {
+      "title": "Gaza displacement camps collapse under rainwater",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:14:53.000Z",
+      "summary": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports."
+    },
+    {
+      "title": "Four things we learned this week about 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T12:23:28.000Z",
+      "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:07:23.000Z",
+      "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk."
+    },
+    {
+      "title": "Banking scandal topples Paraguay leader",
+      "link": "https://www.france24.com/en/banking-scandal-topples-paraguay-leader",
+      "source": "France 24",
+      "published": "2026-11-07T12:16:45.000Z",
+      "summary": "Paraguay’s ousted president Santiago Peña has been placed under house arrest after senators unanimously voted to remove him over a banking scandal. The collapse of Ueno Bank left nearly…",
+      "image": "https://s.france24.com/media/display/6d0782be-daa4-11f1-b656-d18c5759e759/w:1024/p:16x9/EN-20261107-121224-121408-CS.jpg"
+    },
+    {
+      "title": "Al Jazeera tries out martial art wushu at Youth Olympics",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:06:50.000Z",
+      "summary": "Al Jazeera tries out martial art wushu at Youth Olympics"
+    },
+    {
+      "title": "Russia launches massive strike on Kyiv",
+      "link": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
+      "source": "France 24",
+      "published": "2026-11-07T12:15:21.000Z",
+      "summary": "As Ukraine prepares for another round of talks with Russia and the United States next week, Moscow has launched a massive overnight strike. At least five people were injured in Kyiv, where…",
+      "image": "https://s.france24.com/media/display/50e433a2-daa4-11f1-b5c1-1beafce15fea/w:1024/p:16x9/EN-20261107-120558-120735-CS.jpg"
+    },
+    {
+      "title": "Heavy rains flood displacement camps across Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:04:51.000Z",
+      "summary": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza."
+    },
+    {
+      "title": "Stephen Miller named White House Chief of Staff",
+      "link": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
+      "source": "France 24",
+      "published": "2026-11-07T12:14:16.000Z",
+      "summary": "Following historic Republican losses in the midterm elections, Donald Trump has replaced his chief of staff, Susie Wiles, with her deputy Stephen Miller, the architect of his…",
+      "image": "https://s.france24.com/media/display/4bca0edc-daa4-11f1-9347-bf1914cabd52/w:1024/p:16x9/EN-20261107-120813-120953-CS.jpg"
+    },
+    {
+      "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
+      "link": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T12:29:48.000Z",
+      "summary": "The prime minister blames pro-Russian hackers for the leak, as her top diplomat says the cyberthreat was ongoing."
+    },
+    {
+      "title": "Israel coalition talks gain momentum",
+      "link": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+      "source": "France 24",
+      "published": "2026-11-07T12:12:06.000Z",
+      "summary": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to…",
+      "image": "https://s.france24.com/media/display/1c5335f2-daa4-11f1-8704-1beafce15fea/w:1024/p:16x9/EN-20261107-120418-120535-CS.jpg"
+    },
+    {
+      "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T12:27:58.000Z",
+      "summary": "Barcelona and Atletico clash on Sunday in a blockbuster encounter which could upend the La Liga title race this season."
     },
     {
       "title": "Kenyan cult leader sentenced to 200 years in prison",
-      "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+      "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1",
       "source": "France 24",
-      "published": "2026-11-06T21:23:53.000Z",
-      "summary": "In tonight's edition, cult leader Paul Mackenzie is sentenced to 200 years in prison for the murder of 190 children starved ‌to death on his orders. Also, in South Africa, activists warn…",
-      "image": "https://s.france24.com/media/display/70a84f88-da28-11f1-a6e4-695cb59fade5/w:1024/p:16x9/capture-1380a6db.jpg"
+      "published": "2026-11-07T12:10:34.000Z",
+      "summary": "Kenyan cult leader Paul Mackenzie has been sentenced to 200 years in prison for the deaths of 190 children who were starved to death on his orders in Shakahola Forest. Prosecutors said he…",
+      "image": "https://s.france24.com/media/display/39739e62-da8e-11f1-b99f-a575454bc579/w:1024/p:16x9/EN-20261107-091237-091421-CS.jpg"
     },
     {
-      "title": "Khawaja claims entire Australia team knew about 2018 ball-tampering scandal",
-      "link": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
+      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T05:46:54.000Z",
-      "summary": "The 'Sandpapergate' scandal saw ⁠Australia scuffing the ball with sandpaper in the March 2018 test ​in Cape Town."
+      "published": "2026-11-07T12:24:11.000Z",
+      "summary": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action."
     },
     {
-      "title": "Europe bomb hoaxes widen",
-      "link": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
+      "title": "Retired tennis star Gaël Monfils named captain of France's Davis Cup team",
+      "link": "https://www.france24.com/en/france/20261107-retired-tennis-star-ga%C3%ABl-monfils-named-captain-of-france-s-davis-cup-team",
       "source": "France 24",
-      "published": "2026-11-06T21:22:24.000Z",
-      "summary": "The series of hoax bomb scares sent to several Irish media outlets and European airlines are likely part of a coordinated campaign of disruption, according to the Irish government. Dozens…",
-      "image": "https://s.france24.com/media/display/d4fadc82-da26-11f1-bdcc-d18c5759e759/w:1024/p:16x9/capture-2027abfe.jpg"
+      "published": "2026-11-07T12:07:56.000Z",
+      "summary": "Recently retired tennis player Gaël Monfils was named captain of the French Davis Cup team, the country's tennis federation announced Saturday. France will next take part in the Davis Cup…",
+      "image": "https://s.france24.com/media/display/dd5a200e-daa3-11f1-ba70-d18c5759e759/w:1024/p:16x9/a340b7e06c9513ef0a8ee0fcfc504497242c5a51.jpg"
     },
     {
-      "title": "President Herzog faces key choice as Israel struggles to form government",
-      "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T05:16:18.000Z",
-      "summary": "Eisenkot's bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power."
+      "published": "2026-11-07T12:22:18.000Z",
+      "summary": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked."
     },
     {
-      "title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
-      "link": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
-      "source": "France 24",
-      "published": "2026-11-06T21:14:49.000Z",
-      "summary": "Pope Leo touched down in Uruguay on Friday to begin a 12-day tour of South America that will also see him visit Argentina and Peru. The tour is seen as something of a homecoming for the…",
-      "image": "https://s.france24.com/media/display/0aab0508-da1a-11f1-81c8-d18c5759e759/w:1024/p:16x9/2026-11-06T193927Z-1437835472-RC2JIOACA4EZ-RTRMADP-3-POPE-LATAM-URUGUAY.jpg"
-    },
-    {
-      "title": "Russia launches missile attack on Kyiv, injuring residents",
-      "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T05:11:03.000Z",
-      "summary": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks."
-    },
-    {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-06T21:06:25.000Z",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-      "link": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T05:02:49.000Z",
-      "summary": "Haiti's National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire."
-    },
-    {
-      "title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
-      "link": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
-      "source": "France 24",
-      "published": "2026-11-06T20:51:37.000Z",
-      "summary": "US President Donald Trump on Friday said advisor Stephen Miller would become his new chief of staff. Miller has been instrumental in driving the Trump administration's mass deportation…",
-      "image": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg"
-    },
-    {
-      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T04:50:46.000Z",
-      "summary": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss."
-    },
-    {
-      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-      "source": "NPR World",
-      "published": "2026-11-06T20:42:51.000Z",
-      "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8069x5380+0+0/resize/8069x5380!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F6c%2F50cd0c0a4ea1b5b817c6d594d7b6%2Fap26300479457875.jpg"
-    },
-    {
-      "title": "Los Angeles reacts to historic mayoral election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T04:14:12.000Z",
-      "summary": "Los Angeles reacts to historic mayoral election"
-    },
-    {
-      "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-      "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-06T20:23:00.000Z",
-      "summary": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is…"
-    },
-    {
-      "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T04:08:02.000Z",
-      "summary": "Activists in Amsterdam have stormed the site of a proposed Microsoft data centre. Al Jazeera’s Step Vaessen reports."
-    },
-    {
-      "title": "Kenya: Sentencing of cult leader Mackenzie draws mixed reactions",
-      "link": "http://www.africanews.com/2026/11/06/kenya-sentencing-of-cult-leader-mackenzie-draws-mixed-reactions/",
+      "title": "Coalition battles ahead in key South African cities as vote counting wraps up",
+      "link": "http://www.africanews.com/2026/11/07/coalition-battles-ahead-in-key-south-african-cities-as-vote-counting-wraps-up/",
       "source": "Africanews",
-      "published": "2026-11-06T20:14:59.000Z",
-      "summary": "Some called the prison term of 200 years for Paul Mackenzie fair, while others said it did not go far enough"
+      "published": "2026-11-07T11:45:30.000Z",
+      "summary": "Partial results for South Africa's local elections point to coalition battles in several major metros, including Johannesburg, Tshwane and eThekwini."
     },
     {
-      "title": "Trump confirms new US strikes on Iran’s Qeshm island",
-      "link": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T03:53:01.000Z",
-      "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran."
+      "published": "2026-11-07T11:59:26.000Z",
+      "summary": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas."
     },
     {
-      "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
+      "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
+      "link": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
       "source": "France 24",
-      "published": "2026-11-06T20:08:32.000Z",
-      "summary": "A World This Week ‘Mid Terms Special’ Gavin Lee is joined by panel of four distinguished international correspondents to assess the aftermath of the worst Republican election result since…",
-      "image": "https://s.france24.com/media/display/e82e01f4-da1b-11f1-b402-bf1914cabd52/w:1024/p:16x9/81f9ea5b-a81b-4236-b01d-3d25e74ea1f6.png"
+      "published": "2026-11-07T10:44:34.000Z",
+      "summary": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless…",
+      "image": "https://s.france24.com/media/display/056e4b3c-d9d3-11f1-9077-695cb59fade5/w:1024/p:16x9/2026-10-24T131136Z-1842472203-RC2O9OAUQRZE-RTRMADP-3-FRANCE-PROTEST.jpg"
     },
     {
-      "title": "How the US midterm elections reflected resistance to data centres",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
+      "title": "Nepal’s fight to rebuild after flood disaster",
+      "link": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T03:22:41.000Z",
-      "summary": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms."
+      "published": "2026-11-07T11:30:00.000Z",
+      "summary": "101 East reveals Nepal's efforts to save lives and rebuild communities after a devastating natural disaster."
     },
     {
-      "title": "A homegrown Georgia moderate and pragmatist: Is Senator Ossoff the future of the Democratic Party?",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261106-a-homegrown-georgia-moderate-and-pragmatist-is-senator-ossoff-the-future-of-the-democratic-party",
+      "title": "Paraguay VP Alliana sworn is as president after predecessor impeached",
+      "link": "http://www.africanews.com/2026/11/07/paraguay-vp-alliana-sworn-is-as-president-after-predecessor-impeached/",
+      "source": "Africanews",
+      "published": "2026-11-07T10:29:18.000Z",
+      "summary": "Former Paraguayan Vice President Pedro Alliana was sworn in as president Friday to serve out the term of his predecessor, Santiago Peña, who was impeached earlier the same day for…"
+    },
+    {
+      "title": "Rains flood 70,000 displaced families’ tents in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T11:10:02.000Z",
+      "summary": "Initial losses are estimated at about $3m, according to Gaza's Government Media Office."
+    },
+    {
+      "title": "Pope urges healthcare for all in Uruguay",
+      "link": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay",
       "source": "France 24",
-      "published": "2026-11-06T19:49:25.000Z",
-      "summary": "Is Senator Jon Ossoff the future of the Democratic Party? Following a resounding midterm victory in Georgia, a former Republican stronghold, the 39-year-old senator has emerged as a…",
-      "image": "https://s.france24.com/media/display/b07c7ea8-da0b-11f1-ba8e-d18c5759e759/w:1024/p:16x9/EN-20261106-181104-182336-CS.jpg"
+      "published": "2026-11-07T09:41:23.000Z",
+      "summary": "Three weeks after undergoing surgery for lung cancer, Pope Francis has begun a three-nation tour of Latin America, saying he felt better than he looked. His first stop is Uruguay, the…",
+      "image": "https://s.france24.com/media/display/b2ce00a4-da8e-11f1-a2d2-695cb59fade5/w:1024/p:16x9/EN-20261107-101157-101324-CS.jpg"
+    },
+    {
+      "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T10:50:54.000Z",
+      "summary": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India's pace attack dismantled their batting lineup."
+    },
+    {
+      "title": "AI Data centres face growing backlash",
+      "link": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
+      "source": "France 24",
+      "published": "2026-11-07T09:39:55.000Z",
+      "summary": "Democrats are also calling for tighter regulation of AI data centres, a concern shared across Europe. In Amsterdam, several hundred activists occupied the site of a planned Microsoft data…",
+      "image": "https://s.france24.com/media/display/7b12b7e0-da8e-11f1-96c8-d18c5759e759/w:1024/p:16x9/EN-20261107-100946-101139-CS.jpg"
+    },
+    {
+      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T10:36:32.000Z",
+      "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition."
+    },
+    {
+      "title": "Yemen: 30 dead in strikes on Taiz market",
+      "link": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+      "source": "France 24",
+      "published": "2026-11-07T09:37:16.000Z",
+      "summary": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have…",
+      "image": "https://s.france24.com/media/display/9da14e8a-da8d-11f1-9c90-bf1914cabd52/w:1024/p:16x9/EN-20261107-090700-090851-CS.jpg"
+    },
+    {
+      "title": "Pakistani astronaut to join China’s next space station mission",
+      "link": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T10:17:53.000Z",
+      "summary": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission."
+    },
+    {
+      "title": "USA: Democrats vow to investigate Donald Trump",
+      "link": "https://www.france24.com/en/usa-democrats-vow-to-investigate-donald-trump",
+      "source": "France 24",
+      "published": "2026-11-07T09:36:25.000Z",
+      "summary": "In this new era of divided government, Democratic lawmakers say their priorities will be tackling the rising cost of living, investigating alleged corruption and tightening oversight of ICE…",
+      "image": "https://s.france24.com/media/display/0fe04a50-da8e-11f1-9600-695cb59fade5/w:1024/p:16x9/EN-20261107-091022-091213-CS.jpg"
+    },
+    {
+      "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
+      "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T09:48:11.000Z",
+      "summary": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure."
+    },
+    {
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-07T09:21:00.000Z",
+      "summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu…"
+    },
+    {
+      "title": "China’s e-bikes boom as fuel prices rise",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T09:30:07.000Z",
+      "summary": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high."
+    },
+    {
+      "title": "Tanzanian opposition celebrates 'victorious' day after leader avoids death penalty",
+      "link": "http://www.africanews.com/2026/11/07/tanzanian-opposition-celebrates-victorious-day-after-leader-avoids-death-penalty/",
+      "source": "Africanews",
+      "published": "2026-11-07T09:10:18.000Z",
+      "summary": "Tanzania's main opposition Chadema party celebrated a \"victorious day\" on Friday, after a court found their leader Tundu Lissu not guilty of treason."
     }
   ],
   "africa": [
     {
+      "title": "Coalition battles ahead in key South African cities as vote counting wraps up",
+      "link": "http://www.africanews.com/2026/11/07/coalition-battles-ahead-in-key-south-african-cities-as-vote-counting-wraps-up/",
+      "source": "Africanews",
+      "published": "2026-11-07T11:45:30.000Z",
+      "summary": "Partial results for South Africa's local elections point to coalition battles in several major metros, including Johannesburg, Tshwane and eThekwini."
+    },
+    {
+      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T10:36:32.000Z",
+      "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition."
+    },
+    {
+      "title": "Tanzanian opposition celebrates 'victorious' day after leader avoids death penalty",
+      "link": "http://www.africanews.com/2026/11/07/tanzanian-opposition-celebrates-victorious-day-after-leader-avoids-death-penalty/",
+      "source": "Africanews",
+      "published": "2026-11-07T09:10:18.000Z",
+      "summary": "Tanzania's main opposition Chadema party celebrated a \"victorious day\" on Friday, after a court found their leader Tundu Lissu not guilty of treason."
+    },
+    {
       "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
       "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-07T06:47:45.000Z",
       "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery."
+    },
+    {
+      "title": "Political chaos in Somalia after court ruling against president's term extension",
+      "link": "http://www.africanews.com/2026/11/07/political-chaos-in-somalia-after-court-ruling-against-presidents-term-extension/",
+      "source": "Africanews",
+      "published": "2026-11-07T07:47:35.000Z",
+      "summary": "Somalia's political crisis is deepening, with the opposition accusing the president of sending troops to arrest the Supreme Court's chief justice after the tribunal declared an extension of…"
     },
     {
       "title": "The young Somali woman changing how the world sees Mogadishu",
@@ -1426,11 +1453,11 @@ window.GDC_NEWS = {
       "summary": "[Daily Maverick] While it's probably too far removed from its source material narratively to please hardcore fans who want to see their favourite Resident Evil characters and storylines on…"
     },
     {
-      "title": "Kenya: Sentencing of cult leader Mackenzie draws mixed reactions",
-      "link": "http://www.africanews.com/2026/11/06/kenya-sentencing-of-cult-leader-mackenzie-draws-mixed-reactions/",
-      "source": "Africanews",
-      "published": "2026-11-06T20:14:59.000Z",
-      "summary": "Some called the prison term of 200 years for Paul Mackenzie fair, while others said it did not go far enough"
+      "title": "South Africa: The Honeybadger's Revenge - Former Minister Dion George's Nuclear War Over SA's Captive Lions",
+      "link": "https://allafrica.com/stories/202611060653.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T20:51:52.000Z",
+      "summary": "[Daily Maverick] The former South African environment minister is prepared to back international economic pressure against his own country to shut down the 'disgusting' captive lion…"
     },
     {
       "title": "Ghana: Stanbic Bank Supports Weep Not Child Foundation",
@@ -1440,11 +1467,11 @@ window.GDC_NEWS = {
       "summary": "[Ghanaian Times] The Internal Control Unit of Stanbic Bank Ghana has supported the Weep Not Child Foundation at Ahwerease-Darmang, near Nsawam, with equipment and financial assistance to…"
     },
     {
-      "title": "Somalia: Court Says President Term Extension Unlawful",
-      "link": "https://allafrica.com/stories/202611060647.html",
+      "title": "Ghana/Liberia: Black Challenge Edge Liberia 1-0 in Final World Cup Friendly",
+      "link": "https://allafrica.com/stories/202611060652.html",
       "source": "AllAfrica",
-      "published": "2026-11-06T18:49:20.000Z",
-      "summary": "[Daily Trust] Somalia's Supreme Court ruled on Thursday that the extension of the president's term by one year, which sparked violent clashes with the opposition, was \"unlawful\"."
+      "published": "2026-11-06T20:45:20.000Z",
+      "summary": "[Ghanaian Times] Substitute Yahaya Yussif scored the only goal of the game as the national amputee football team, the Black Challenge, defeated their Liberian counterparts 1-0 in an…"
     },
     {
       "title": "Ghana: AMA Gives Traders 48 Hours to Vacate Bus Stops",
@@ -1452,6 +1479,125 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-06T20:45:09.000Z",
       "summary": "[Ghanaian Times] The Accra Metropolitan Assembly (AMA) has given traders occupying unauthorised bus stops in the city 48 hours to vacate the areas or face enforcement action as part of…"
+    },
+    {
+      "title": "Ghana: W Sports Int'l Donates Sports Equipment to Legon Presec",
+      "link": "https://allafrica.com/stories/202611060651.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T20:45:19.000Z",
+      "summary": "[Ghanaian Times] W Sports International last Thursday donated sports kits to the Presbyterian Boys' Senior High School (PRESEC), Legon, under its sports sponsorship programme."
+    },
+    {
+      "title": "Kenya: Sentencing of cult leader Mackenzie draws mixed reactions",
+      "link": "http://www.africanews.com/2026/11/06/kenya-sentencing-of-cult-leader-mackenzie-draws-mixed-reactions/",
+      "source": "Africanews",
+      "published": "2026-11-06T20:14:59.000Z",
+      "summary": "Some called the prison term of 200 years for Paul Mackenzie fair, while others said it did not go far enough"
+    },
+    {
+      "title": "Ghana: Black Rock Belongs to Nungua - Mankralo",
+      "link": "https://allafrica.com/stories/202611060650.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T20:45:15.000Z",
+      "summary": "[Ghanaian Times] The Office of the Nungua Mankralo has rebuffed claims by the Tema and Sanshie clans that the location of Angmu T3 (The Meridian Rock) falls under their authority."
+    },
+    {
+      "title": "Nigeria: First Bank Lagos Amateur Open Golf Tourney Tees Off Nov 16",
+      "link": "https://allafrica.com/stories/202611060644.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-06T18:49:18.000Z",
+      "summary": "[Daily Trust] The 65th edition of First Bank Lagos amateur open golf championship is set to tee off November 16 at the Ikoyi Golf Club in Lagos."
+    },
+    {
+      "title": "Somalia: Court Says President Term Extension Unlawful",
+      "link": "https://allafrica.com/stories/202611060647.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:20.000Z",
+      "summary": "[Daily Trust] Somalia's Supreme Court ruled on Thursday that the extension of the president's term by one year, which sparked violent clashes with the opposition, was \"unlawful\"."
+    },
+    {
+      "title": "Nigeria: Apapa Customs Rakes in N303bn in One Month",
+      "link": "https://allafrica.com/stories/202611060641.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-06T18:49:16.000Z",
+      "summary": "[Daily Trust] The Nigeria Customs Service (NCS), Apapa Area Command, generated N302.95bn in October 2026, representing a 7.13 per cent increase over the N282.79bn collected in September."
+    },
+    {
+      "title": "South Africa: AACT 2026 - South Africa Leads",
+      "link": "https://allafrica.com/stories/202611060646.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:19.000Z",
+      "summary": "[Daily Trust] South Africa made an impressive start to the 2026 All Africa Challenge Trophy (AACT), taking the lead after the opening round of the continental women's golf championship at…"
+    },
+    {
+      "title": "Nigeria: FG Explains Low Supply As Blackout, Heatwaves Linger",
+      "link": "https://allafrica.com/stories/202611060639.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-06T18:49:15.000Z",
+      "summary": "[Daily Trust] The Nigerian Independent System Operator (NISO) has stated that the current decline in electricity generation on the national grid is primarily attributed to constraints in…"
+    },
+    {
+      "title": "Nigeria: NILDS, LGAN Partner to Boost Women's Participation in Golf",
+      "link": "https://allafrica.com/stories/202611060645.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:18.000Z",
+      "summary": "[Daily Trust] The National Institute for Legislative and Democratic Studies (NILDS) has partnered with the Ladies Golf Association of Nigeria (LGAN) to promote women's participation in golf…"
+    },
+    {
+      "title": "Nigeria: Heavyweight Stocks Plunge Ngx By N3.281trn",
+      "link": "https://allafrica.com/stories/202611060640.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-06T18:49:15.000Z",
+      "summary": "[Daily Trust] The Nigerian Exchange Limited (NGX) yesterday recorded a sharp downturn as market capitalisation fell by N3.281 trillion from N165.415 trillion at the opening to N162.134…"
+    },
+    {
+      "title": "Nigeria: 2027 - 'Ekiti to Deliver 90 Percent Votes for Tinubu'",
+      "link": "https://allafrica.com/stories/202611060643.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:17.000Z",
+      "summary": "[Daily Trust] Vice President Sen. Kashim Shettima has called on Ekiti residents to vote for President Bola Ahmed Tinubu in the 2027 presidential election, urging the people to deliver 90…"
+    },
+    {
+      "title": "Nigeria: NUPENG Directs Tanker Drivers to End Depot Operations By 6pm",
+      "link": "https://allafrica.com/stories/202611060637.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-06T18:49:14.000Z",
+      "summary": "[Daily Trust] The Petroleum Tanker Drivers (PTD) branch of the Nigeria Union of Petroleum and Natural Gas Workers (NUPENG) has directed its members to stop depot operations by 6:00 p.m…"
+    },
+    {
+      "title": "Africa: Imo Varsity Establishes Africa's First Robotic Surgery Academy",
+      "link": "https://allafrica.com/stories/202611060642.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:16.000Z",
+      "summary": "[Daily Trust] Imo State University has established a robotic surgery academy in partnership with the Imo Robotic Centre, in what its promoters describe as Africa's first dedicated academy…"
+    },
+    {
+      "title": "Nigeria: When Farm Loans Go Astray",
+      "link": "https://allafrica.com/stories/202611060638.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-06T18:49:14.000Z",
+      "summary": "[Daily Trust] It is a clear fact that while the number and volume of interventions by the federal and state governments in the agricultural sector have been quite significant, the results…"
+    },
+    {
+      "title": "Nigeria: Nasarawa Gov Probes Disruption At APC Presidential Rally",
+      "link": "https://allafrica.com/stories/202611060636.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:13.000Z",
+      "summary": "[Daily Trust] Governor Abdullahi Sule of Nasarawa State has ordered security agencies to immediately investigate the firing of tear gas at the venue of the All Progressives Congress (APC)…"
+    },
+    {
+      "title": "Nigeria: Power Outage, Low Credit Slow Businesses - - NESG",
+      "link": "https://allafrica.com/stories/202611060631.html",
+      "source": "AllAfrica Business",
+      "published": "2026-11-06T18:49:08.000Z",
+      "summary": "[Daily Trust] Nigeria's business activity slowed in October 2026, with the composite Current Business Performance Index falling to 115.4 points from 117.8 points in October, as firms…"
+    },
+    {
+      "title": "Nigeria: 2027 - INEC Chair Raises Alarm Over Voter Apathy, Says Poll Will Hold As Scheduled",
+      "link": "https://allafrica.com/stories/202611060635.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:11.000Z",
+      "summary": "[Daily Trust] The National Chairman of the Independent National Electoral Commission (INEC), Professor Joash Amupitan, has raised concerns over voter apathy and thuggery ahead of the 2027…"
     },
     {
       "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
@@ -1462,104 +1608,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dde/live/68066ef0-d94c-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Nigeria: First Bank Lagos Amateur Open Golf Tourney Tees Off Nov 16",
-      "link": "https://allafrica.com/stories/202611060644.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T18:49:18.000Z",
-      "summary": "[Daily Trust] The 65th edition of First Bank Lagos amateur open golf championship is set to tee off November 16 at the Ikoyi Golf Club in Lagos."
-    },
-    {
-      "title": "Dakar 2026: China tops medal count as South Africa, Egypt win gold",
-      "link": "http://www.africanews.com/2026/11/06/dakar-2026-china-tops-medal-count-as-south-africa-egypt-win-gold/",
-      "source": "Africanews",
-      "published": "2026-11-06T17:04:00.000Z",
-      "summary": "Egypt ranked fourth with four gold and five medals in total. South Africa has so far scored one gold, three silver and one bronze"
-    },
-    {
-      "title": "Nigeria: Apapa Customs Rakes in N303bn in One Month",
-      "link": "https://allafrica.com/stories/202611060641.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T18:49:16.000Z",
-      "summary": "[Daily Trust] The Nigeria Customs Service (NCS), Apapa Area Command, generated N302.95bn in October 2026, representing a 7.13 per cent increase over the N282.79bn collected in September."
-    },
-    {
-      "title": "UN says struggling to help millions fleeing Sudan war find shelter",
-      "link": "http://www.africanews.com/2026/11/06/un-says-struggling-to-help-millions-fleeing-sudan-war-find-shelter/",
-      "source": "Africanews",
-      "published": "2026-11-06T17:00:34.000Z",
-      "summary": "The United Nations on Friday said about 15.4 million people who have fled conflict in Sudan need emergency shelter and essential household items, but humanitarian organisations are facing…"
-    },
-    {
-      "title": "Nigeria: FG Explains Low Supply As Blackout, Heatwaves Linger",
-      "link": "https://allafrica.com/stories/202611060639.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T18:49:15.000Z",
-      "summary": "[Daily Trust] The Nigerian Independent System Operator (NISO) has stated that the current decline in electricity generation on the national grid is primarily attributed to constraints in…"
-    },
-    {
-      "title": "China and Gabon boost ties during Oligui Nguema's state visit to Beijing",
-      "link": "http://www.africanews.com/2026/11/06/china-and-gabon-boost-ties-during-oligui-nguemas-state-visit-to-beijing/",
-      "source": "Africanews",
-      "published": "2026-11-06T16:38:31.000Z",
-      "summary": "A boost for China-Gabon relations on Friday as President Xi Jinping welcomed his Gabonese counterpart to Beijing at the start of a state visit."
-    },
-    {
-      "title": "Nigeria: Heavyweight Stocks Plunge Ngx By N3.281trn",
-      "link": "https://allafrica.com/stories/202611060640.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T18:49:15.000Z",
-      "summary": "[Daily Trust] The Nigerian Exchange Limited (NGX) yesterday recorded a sharp downturn as market capitalisation fell by N3.281 trillion from N165.415 trillion at the opening to N162.134…"
-    },
-    {
-      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-      "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T16:10:51.000Z",
-      "summary": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance."
-    },
-    {
-      "title": "Nigeria: NUPENG Directs Tanker Drivers to End Depot Operations By 6pm",
-      "link": "https://allafrica.com/stories/202611060637.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T18:49:14.000Z",
-      "summary": "[Daily Trust] The Petroleum Tanker Drivers (PTD) branch of the Nigeria Union of Petroleum and Natural Gas Workers (NUPENG) has directed its members to stop depot operations by 6:00 p.m…"
-    },
-    {
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-11-06T14:57:08.000Z",
-      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd7/live/43acf9a0-d9df-11f1-bbe5-797ee05bee69.jpg"
-    },
-    {
-      "title": "Nigeria: When Farm Loans Go Astray",
-      "link": "https://allafrica.com/stories/202611060638.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T18:49:14.000Z",
-      "summary": "[Daily Trust] It is a clear fact that while the number and volume of interventions by the federal and state governments in the agricultural sector have been quite significant, the results…"
-    },
-    {
-      "title": "First results show South Africa's ANC headed to all-time election low with 32%",
-      "link": "http://www.africanews.com/2026/11/06/first-results-show-south-africas-anc-headed-to-all-time-election-low-with-32/",
-      "source": "Africanews",
-      "published": "2026-11-06T14:51:46.000Z",
-      "summary": "Partial results for South Africa's local elections were released on Friday, and showed the ruling African National Congress was headed for its worst-ever election performance with 32% of…"
-    },
-    {
-      "title": "Nigeria: Power Outage, Low Credit Slow Businesses - - NESG",
-      "link": "https://allafrica.com/stories/202611060631.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T18:49:08.000Z",
-      "summary": "[Daily Trust] Nigeria's business activity slowed in October 2026, with the composite Current Business Performance Index falling to 115.4 points from 117.8 points in October, as firms…"
-    },
-    {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published": "2026-11-06T14:46:03.000Z",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg"
+      "title": "Nigeria: Bandits Kill 2, Abduct 18 in Kaduna Community",
+      "link": "https://allafrica.com/stories/202611060633.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:10.000Z",
+      "summary": "[Daily Trust] Bandits have attacked Akwando village in Kuturmi, Kachia Local Government Area of Kaduna State, killing two persons and abducting 18 villagers."
     },
     {
       "title": "Uganda: Parliament Faults Ageing Network for Persistent Power Outages",
@@ -1569,11 +1622,11 @@ window.GDC_NEWS = {
       "summary": "[Nile Post] Persistent electricity outages have been linked to an ageing and increasingly overloaded distribution network, with a parliamentary inquiry finding that nearly half of the…"
     },
     {
-      "title": "Who is Kenya’s starvation cult leader?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T13:43:41.000Z",
-      "summary": "Who is Kenya’s starvation cult leader?"
+      "title": "Nigeria: Despite Court's Ruling, Crowd Flood Birnin Kebbi Rally for Atiku",
+      "link": "https://allafrica.com/stories/202611060634.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:10.000Z",
+      "summary": "[Daily Trust] Defying a fresh judicial setback, thousands of enthusiastic African Democratic Congress (ADC) supporters flooded Birnin Kebbi on Thursday to demonstrate unwavering backing for…"
     },
     {
       "title": "Uganda: Mayiga Inaugurates New Boards for Bucadef, Mmwanyi Terimba",
@@ -1583,11 +1636,11 @@ window.GDC_NEWS = {
       "summary": "[Nile Post] The Katikkiro of Buganda, Charles Peter Mayiga, has inaugurated new boards for the Buganda Cultural and Development Foundation (BUCADEF) and Mmwanyi Terimba, tasking them with…"
     },
     {
-      "title": "Zambia's civil service overhaul raises questions",
-      "link": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-africa-8291-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-06T13:28:00.000Z",
-      "summary": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as…"
+      "title": "Nigeria: Nigeria Daily - ADC in Crisis: What Next for Atiku and the 2027 Ambition?",
+      "link": "https://allafrica.com/stories/202611060632.html",
+      "source": "AllAfrica",
+      "published": "2026-11-06T18:49:09.000Z",
+      "summary": "[Daily Trust] The African Democratic Congress, ADC, is facing a major setback after a Federal High Court sacked its David Mark-led leadership and voided Atiku Abubakar's presidential…"
     },
     {
       "title": "Uganda: Alupo Warns Climate Change Threatens Uganda's Economic Growth",
@@ -1597,11 +1650,11 @@ window.GDC_NEWS = {
       "summary": "[Nile Post] Vice President Jessica Alupo has warned that worsening climate change could undermine Uganda's economic growth and development ambitions, as prolonged droughts, devastating…"
     },
     {
-      "title": "Tanzania opposition leader jailed for four years after treason acquittal",
-      "link": "http://www.africanews.com/2026/11/06/tanzania-opposition-leader-jailed-for-four-years-after-treason-acquittal/",
+      "title": "Dakar 2026: China tops medal count as South Africa, Egypt win gold",
+      "link": "http://www.africanews.com/2026/11/06/dakar-2026-china-tops-medal-count-as-south-africa-egypt-win-gold/",
       "source": "Africanews",
-      "published": "2026-11-06T13:19:13.000Z",
-      "summary": "Tanzanian opposition leader Tundu Lissu was sentenced to four years in prison on Friday for inciting unrest, avoiding the heavier charge of treason that carries the death penalty"
+      "published": "2026-11-06T17:04:00.000Z",
+      "summary": "Egypt ranked fourth with four gold and five medals in total. South Africa has so far scored one gold, three silver and one bronze"
     },
     {
       "title": "Uganda: Electricity Sector Merger Raises Questions Over Efficiency and Accountability",
@@ -1611,11 +1664,11 @@ window.GDC_NEWS = {
       "summary": "[Nile Post] Plans by government to merge Uganda's electricity generation, transmission and distribution companies have sparked debate over whether the restructuring will improve service…"
     },
     {
-      "title": "Zimbabwe: Manhunt for Chitungwiza Man Accused of Killing Mother",
-      "link": "https://allafrica.com/stories/202611060407.html",
-      "source": "AllAfrica",
-      "published": "2026-11-06T13:13:36.000Z",
-      "summary": "[263Chat] Police have launched a manhunt for a 44-year-old man accused of killing his 72-year-old mother with a hammer following a domestic dispute in Chitungwiza."
+      "title": "UN says struggling to help millions fleeing Sudan war find shelter",
+      "link": "http://www.africanews.com/2026/11/06/un-says-struggling-to-help-millions-fleeing-sudan-war-find-shelter/",
+      "source": "Africanews",
+      "published": "2026-11-06T17:00:34.000Z",
+      "summary": "The United Nations on Friday said about 15.4 million people who have fled conflict in Sudan need emergency shelter and essential household items, but humanitarian organisations are facing…"
     },
     {
       "title": "Uganda: UEDCL Owes Local Electricity Suppliers Shs7.5bn, Parliament Finds",
@@ -1623,62 +1676,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-06T17:07:55.000Z",
       "summary": "[Nile Post] Uganda Electricity Distribution Company Limited (UEDCL) owes two local electricity equipment manufacturers approximately Shs7.52 billion in unpaid invoices, raising questions…"
-    },
-    {
-      "title": "Nigeria: Troops Rescue 16 Kidnapping Victims, Recover Two Rifles, Three Bombs, 33 Bikes",
-      "link": "https://allafrica.com/stories/202611060363.html",
-      "source": "AllAfrica",
-      "published": "2026-11-06T12:55:53.000Z",
-      "summary": "[Premium Times] The Army said troops ambushed suspected terrorists along a route in Kontagora LGA, recovering weapons, explosives and cash."
-    },
-    {
-      "title": "Nigeria: Reps Affirm NMDPRA's Authority to Issue Gas Distribution Licences",
-      "link": "https://allafrica.com/stories/202611060559.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T16:07:27.000Z",
-      "summary": "[Leadership] The House of Representatives has reaffirmed the statutory authority of the Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) to grant and regulate gas…"
-    },
-    {
-      "title": "Nigeria: Tinubu to Commission Multi-Billion Naira Projects in Akwa Ibom",
-      "link": "https://allafrica.com/stories/202611060362.html",
-      "source": "AllAfrica",
-      "published": "2026-11-06T12:55:52.000Z",
-      "summary": "[Premium Times] Despite repeated budgetary allocations running into billions of naira for eight projects scheduled for inauguration, the Akwa Ibom government has not publicly disclosed…"
-    },
-    {
-      "title": "Nigeria: Hackers Divert €100m From French Bank, Customers' Funds Safe",
-      "link": "https://allafrica.com/stories/202611060557.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T16:07:26.000Z",
-      "summary": "[Leadership] A French banking group, Crédit Mutuel Arkéa, has disclosed that about €100 million ($112.61 million) was stolen from its accounts in a cyberattack, raising fresh concerns over…"
-    },
-    {
-      "title": "Kenya: Paul Mackenzie Sentenced to 200 Years in Prison Over Shakahola Deaths",
-      "link": "https://allafrica.com/stories/202611060352.html",
-      "source": "AllAfrica",
-      "published": "2026-11-06T12:49:08.000Z",
-      "summary": "[Capital FM] Mombasa -- Controversial preacher Paul Mackenzie has been sentenced to a total of 200 years in prison after Justice Diana Kavedza handed down a 100-year term for the murder of…"
-    },
-    {
-      "title": "Nigeria: Customs Generates N1.42trn, Records $752.8m Exports",
-      "link": "https://allafrica.com/stories/202611060558.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T16:07:26.000Z",
-      "summary": "[Leadership] The Nigeria Customs Service (NCS) says it generated more than N1.42 trillion in revenue in September and October, while recording 752.8 million dollars in exports in the third…"
-    },
-    {
-      "title": "Garbage piles up in Guinea's capital after dump closure",
-      "link": "http://www.africanews.com/2026/11/06/garbage-piles-up-in-guineas-capital-after-dump-closure/",
-      "source": "Africanews",
-      "published": "2026-11-06T12:47:06.000Z",
-      "summary": "Garbage is piling up everywhere in Conakry since the closure of the Guinean capital's largest landfill, following a deadly trash landslide in August. The illegal dumping poses a threat to…"
-    },
-    {
-      "title": "Nigeria: Kano Free Trade Zone - 87 Firms Drive Exports, Generate N40bn Customs Revenue",
-      "link": "https://allafrica.com/stories/202611060556.html",
-      "source": "AllAfrica Business",
-      "published": "2026-11-06T16:07:25.000Z",
-      "summary": "[Leadership] The Kano Free Trade Zone has recorded significant growth in export activities, with 87 operational enterprises contributing to manufacturing, job creation, technology transfer…"
     }
   ]
 };
