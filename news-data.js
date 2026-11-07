@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-07T18:57:24.205Z",
-  "worldAt": "2026-11-07T18:57:24.203Z",
+  "updated": "2026-11-07T22:29:53.292Z",
+  "worldAt": "2026-11-07T22:29:53.290Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,8 +26,8 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: failed (HTTP 429)",
-    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: 0 stories",
+    "Reuters wire: 0 stories",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
@@ -39,13 +39,20 @@ window.GDC_NEWS = {
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
-    "Africa · Africanews: 25 stories",
+    "Africa · Africanews: 24 stories",
     "Africa · BBC Africa: 31 stories",
-    "Africa · Deutsche Welle: 6 stories",
+    "Africa · Deutsche Welle: 7 stories",
     "Africa · Al Jazeera: 0 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "As IMF Backs BoG Reforms, Critics Count the Cost of Cedi Stability",
+      "link": "https://thehighstreetjournal.com/as-imf-backs-bog-reforms-critics-count-the-cost-of-cedi-stability/",
+      "source": "The High Street Journal",
+      "published": "2026-11-07T19:00:00.000Z",
+      "summary": "BoG liquidity reforms are progressing, but concerns over the cost of absorbing excess cedi liquidity raise questions about the financial sustainability of Ghana’s monetary stability gains."
+    },
     {
       "title": "Hogbetsotso: Mahama Unveils $9 Billion Investment Plan, Pledges Funds for Volta Projects",
       "link": "https://thehighstreetjournal.com/mahama-unveils-9-billion-investment-plan/",
@@ -1088,16 +1095,134 @@ window.GDC_NEWS = {
       "source": "Graphic Online",
       "published": "2026-11-04T12:34:13.000Z",
       "summary": ""
-    },
-    {
-      "title": "Tracking the Money: Where Will Your TRAFFITECH-GH Fine Go? Find Out Here",
-      "link": "https://thehighstreetjournal.com/tracking-the-money-where-will-your-traffitech-gh-fine-go-find-out-here/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T12:33:00.000Z",
-      "summary": "Ghana’s 11-year Traffitech-GH PPP deal with NTMEL splits traffic fine revenues 60% to the government and 40% to the private partner, but legislative delays left the project with zero…"
     }
   ],
   "world": [
+    {
+      "title": "What we know so far after Krakow gun attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T22:27:30.000Z",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+      "source": "NPR World",
+      "published": "2026-11-07T22:12:09.000Z",
+      "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power."
+    },
+    {
+      "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+      "link": "http://www.africanews.com/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure/",
+      "source": "Africanews",
+      "published": "2026-11-07T21:45:36.000Z",
+      "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks…"
+    },
+    {
+      "title": "A correspondent finds Cuba's people struggling",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+      "source": "NPR World",
+      "published": "2026-11-07T22:12:06.000Z",
+      "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages."
+    },
+    {
+      "title": "Police clash with protesters as anti-government rallies sweep France",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T21:24:10.000Z",
+      "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests."
+    },
+    {
+      "title": "Ebola: Why is there still no vaccine?",
+      "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-07T21:03:00.000Z",
+      "summary": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection…"
+    },
+    {
+      "title": "Mélenchon promises action against Israeli annexation if elected President",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T20:53:47.000Z",
+      "summary": "Mélenchon promises action against Israeli annexation if elected President"
+    },
+    {
+      "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+      "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+      "source": "France 24",
+      "published": "2026-11-07T20:45:45.000Z",
+      "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his MAGA brand…",
+      "image": "https://s.france24.com/media/display/1699b72c-dadf-11f1-8689-d18c5759e759/w:1024/p:16x9/000-C4336TP.jpg"
+    },
+    {
+      "title": "Who is behind Europe’s suspected hybrid attacks?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T20:48:58.000Z",
+      "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears."
+    },
+    {
+      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+      "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+      "source": "NPR World",
+      "published": "2026-11-07T20:18:18.000Z",
+      "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new…",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F77%2F67a1bd07484b844a6a8d15b90a17%2Fap26301008182475.jpg"
+    },
+    {
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T20:44:34.000Z",
+      "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada."
+    },
+    {
+      "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
+      "source": "France 24",
+      "published": "2026-11-07T19:58:43.000Z",
+      "summary": "“We are facing a crisis of human civilisation. And we are going to win.” A defiant Jean-Luc Mélenchon was in fighting mood today as he presented his presidential manifesto at Le Bourget…",
+      "image": "https://s.france24.com/media/display/8c2f3754-dad1-11f1-9297-1beafce15fea/w:1024/p:16x9/000-D6RH26W.jpg"
+    },
+    {
+      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T20:26:58.000Z",
+      "summary": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister."
+    },
+    {
+      "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+      "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+      "source": "France 24",
+      "published": "2026-11-07T19:37:14.000Z",
+      "summary": "Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither…",
+      "image": "https://s.france24.com/media/display/b98cb8f6-dae1-11f1-8c71-1beafce15fea/w:1024/p:16x9/2026-10-27T234936Z-337143780-RC2ZBOAVPW2L-RTRMADP-3-ISRAEL-ELECTION.jpg"
+    },
+    {
+      "title": "More than 140,000 rally as new protests against rising costs sweep France",
+      "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T20:12:22.000Z",
+      "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters."
+    },
+    {
+      "title": "Paraguay's former president charged after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T19:17:22.000Z",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
+    },
+    {
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T20:10:38.000Z",
+      "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger."
+    },
     {
       "title": "Armenia's selective prosecution: A threat to EU relations?",
       "link": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
@@ -1106,26 +1231,11 @@ window.GDC_NEWS = {
       "summary": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past…"
     },
     {
-      "title": "Paraguay’s ousted president charged over banking scandal",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+      "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T18:35:15.000Z",
-      "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts."
-    },
-    {
-      "title": "What we know about Krakow mass shooting so far",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T18:22:11.000Z",
-      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
-      "title": "South Africa's ANC facing worst-ever performance in local elections",
-      "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-07T18:07:00.000Z",
-      "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and…"
+      "published": "2026-11-07T20:08:47.000Z",
+      "summary": "Former Paraguayan President Santiago Pena has appeared before prosecutors."
     },
     {
       "title": "US offers $20m reward for information about Iran's nuclear programme",
@@ -1136,11 +1246,25 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-      "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
+      "title": "Masked protesters set off firecrackers and block roads in Albania",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T18:00:21.000Z",
-      "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu."
+      "published": "2026-11-07T19:49:19.000Z",
+      "summary": "Police used water cannons to disperse masked protesters in Albania’s capital, Tirana."
+    },
+    {
+      "title": "South Africa's ANC facing worst-ever performance in local elections",
+      "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-07T18:07:00.000Z",
+      "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and…"
+    },
+    {
+      "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+      "link": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T19:42:46.000Z",
+      "summary": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress."
     },
     {
       "title": "Gaza wedding festival sees 250 couples married at the same time",
@@ -1151,11 +1275,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Houthis report 25 killed in Yemen strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+      "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
+      "link": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T17:39:23.000Z",
-      "summary": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes."
+      "published": "2026-11-07T19:29:06.000Z",
+      "summary": "Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost."
     },
     {
       "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
@@ -1166,11 +1290,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/d0ee97ac-dace-11f1-b377-695cb59fade5/w:1024/p:16x9/EN-20261107-165034-175553-CS.jpg"
     },
     {
-      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+      "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+      "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T17:16:50.000Z",
-      "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers."
+      "published": "2026-11-07T19:24:21.000Z",
+      "summary": "Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday."
     },
     {
       "title": "Ousted Paraguayan president appears before prosecutors",
@@ -1181,11 +1305,11 @@ window.GDC_NEWS = {
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg"
     },
     {
-      "title": "Jerusalem Daily: Heavy rains flood Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T17:11:29.000Z",
-      "summary": "Jerusalem Daily: Heavy rains flood Gaza"
+      "published": "2026-11-07T19:10:34.000Z",
+      "summary": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine."
     },
     {
       "title": "Houthis say at least 25 killed in Saudi air strike",
@@ -1196,11 +1320,11 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
     },
     {
-      "title": "Valencia vs Real Madrid LIVE: La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
+      "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+      "link": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T17:00:12.000Z",
-      "summary": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match."
+      "published": "2026-11-07T19:06:31.000Z",
+      "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province."
     },
     {
       "title": "Italian foreign minister says hackers leaked his personal data",
@@ -1211,6 +1335,13 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "title": "Demonstration in Berlin calls for an end to arming Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T19:04:04.000Z",
+      "summary": "Demonstration in Berlin calls for an end to arming Israel"
+    },
+    {
       "title": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
       "link": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
       "source": "France 24",
@@ -1219,11 +1350,11 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/04c53f78-dac9-11f1-b612-a575454bc579/w:1024/p:16x9/0e4210476305ece4f8a6aabff01978500875331c.jpg"
     },
     {
-      "title": "Israel builds 90km network of military roads across southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+      "title": "Houston mayor orders police to limit cooperation with ICE",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T16:30:33.000Z",
-      "summary": "Israel is building roads and military outposts across southern Lebanon."
+      "published": "2026-11-07T18:55:40.000Z",
+      "summary": "Houston Mayor John Whitmire has instructed police to limit contact with ICE, reversing the city’s previous approach."
     },
     {
       "title": "No clear winner after tight New Zealand general election",
@@ -1234,26 +1365,26 @@ window.GDC_NEWS = {
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-      "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+      "title": "Paraguay’s ousted president charged over banking scandal",
+      "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T16:15:18.000Z",
-      "summary": "It happened in a region of the country known to have drug trafficking activity."
+      "published": "2026-11-07T18:35:15.000Z",
+      "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts."
     },
     {
-      "title": "At least six people killed in shooting in Polish city of Krakow, police say",
+      "title": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
       "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
       "source": "France 24",
       "published": "2026-11-07T15:23:48.000Z",
-      "summary": "A shooting in the main market square of Krakow in Poland killed at least six people and wounded more than a dozen on Saturday, local police said, adding that the gunman was a Polish citizen…",
+      "summary": "A gunman reportedly \"fascinated by far-right ideologies\" shot and killed at least six people and wounded more than a dozen more in Krakow’s main market square on Saturday, Polish…",
       "image": "https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg"
     },
     {
-      "title": "Hundreds march in Pau, France against high living costs",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
+      "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-07T16:09:11.000Z",
-      "summary": "Hundreds march in Pau, France against high living costs"
+      "published": "2026-11-07T18:00:21.000Z",
+      "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu."
     },
     {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -1262,145 +1393,15 @@ window.GDC_NEWS = {
       "published": "2026-11-07T15:19:35.000Z",
       "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Five killed and at least 10 injured in Krakow shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T16:06:58.000Z",
-      "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland."
-    },
-    {
-      "title": "Journalism and AI: Who owns the news?",
-      "link": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-07T15:14:00.000Z",
-      "summary": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the…"
-    },
-    {
-      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T15:34:58.000Z",
-      "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment."
-    },
-    {
-      "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
-      "link": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
-      "source": "France 24",
-      "published": "2026-11-07T14:59:30.000Z",
-      "summary": "Pope Leo XIV urged Catholics in Uruguay to build bridges of faith and fraternity on the second day of his 12-day tour of Uruguay, Argentina and Peru. The pope's three-country tour comes…",
-      "image": "https://s.france24.com/media/display/edae6460-dab7-11f1-9ce0-bf1914cabd52/w:1024/p:16x9/2026-11-07T142220Z-1810286401-RC22JOA4XV14-RTRMADP-3-POPE-LATAM-URUGUAY.jpg"
-    },
-    {
-      "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T15:29:11.000Z",
-      "summary": "Stephen Miller, US President Donald Trump’s incoming chief of staff praises him."
-    },
-    {
-      "title": "Heavy rains leave tens of thousands without shelter in Gaza",
-      "link": "http://www.africanews.com/2026/11/07/heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza/",
-      "source": "Africanews",
-      "published": "2026-11-07T14:53:34.000Z",
-      "summary": "Tens of thousands of displaced families in the Gaza Strip spent a sleepless night on Saturday, as heavy rain flooded their fragile tents, and soaked their mattresses and belongings."
-    },
-    {
-      "title": "At least six people killed in shooting in Poland’s Krakow",
-      "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T15:22:55.000Z",
-      "summary": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city."
-    },
-    {
-      "title": "'We must change everything,' French far-left presidential candidate Mélenchon says",
-      "link": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-      "source": "France 24",
-      "published": "2026-11-07T14:44:24.000Z",
-      "summary": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech…",
-      "image": "https://s.france24.com/media/display/9d39473c-dac3-11f1-81fe-695cb59fade5/w:1024/p:16x9/000-D6R93X3.jpg"
-    },
-    {
-      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-      "link": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-07T14:38:00.000Z",
-      "summary": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself…"
-    },
-    {
-      "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-      "link": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T14:30:00.000Z",
-      "summary": "When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to revive its beauty."
-    },
-    {
-      "title": "After victory in the midterms, what next for US Democrats?",
-      "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf",
-      "source": "Deutsche Welle",
-      "published": "2026-11-07T14:15:00.000Z",
-      "summary": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to…"
-    },
-    {
-      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-      "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T14:24:48.000Z",
-      "summary": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory."
-    },
-    {
-      "title": "Pope Leo begins South America tour in 'fairly good shape' after cancer treatment",
-      "link": "http://www.africanews.com/2026/11/07/pope-leo-begins-south-america-tour-in-fairly-good-shape-after-cancer-treatment/",
-      "source": "Africanews",
-      "published": "2026-11-07T13:43:14.000Z",
-      "summary": "Pope Leo XIV declared he was in \"fairly good shape\" after his cancer treatment, as he kicked off a three-nation South America tour on Friday."
-    },
-    {
-      "title": "New Zealand’s prime minister says election is ‘too close to call’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T14:03:06.000Z",
-      "summary": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government."
-    },
-    {
-      "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-      "link": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-      "source": "France 24",
-      "published": "2026-11-07T13:29:28.000Z",
-      "summary": "French unions and student groups are set to take to the streets for another day of protests on Saturday, while the Yellow Vests movement plans a separate rally in central Paris despite a…",
-      "image": "https://s.france24.com/media/display/c9733fde-daae-11f1-87e0-bf1914cabd52/w:1024/p:16x9/EN-20261107-130322-131958-CS.jpg"
-    },
-    {
-      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-      "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T13:50:15.000Z",
-      "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel."
-    },
-    {
-      "title": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
-      "link": "https://www.france24.com/en/nations-league-zinedine-zidane-balances-surprise-and-continuity-in-his-second-roster",
-      "source": "France 24",
-      "published": "2026-11-07T13:27:01.000Z",
-      "summary": "Zinedine Zidane has unveiled his France squad for the upcoming Nations League clashes against Italy and Turkey. Pablo Pagis earns a surprise first call-up, while Kylian Mbappé and several…",
-      "image": "https://s.france24.com/media/display/97041338-da8c-11f1-949c-1beafce15fea/w:1024/p:16x9/AP26275688279113.jpg"
-    },
-    {
-      "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-      "link": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T13:35:46.000Z",
-      "summary": "The hard-left leader has transformed into a real contender in next year presidential elections."
     }
   ],
   "africa": [
     {
-      "title": "South Africa's ANC facing worst-ever performance in local elections",
-      "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-africa-8291-rdf",
+      "title": "Ebola: Why is there still no vaccine?",
+      "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-africa-8291-rdf",
       "source": "Deutsche Welle",
-      "published": "2026-11-07T18:07:00.000Z",
-      "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and…"
+      "published": "2026-11-07T21:03:00.000Z",
+      "summary": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection…"
     },
     {
       "title": "Africa: CANEX Opens Doors for Gambian Fashion Entrepreneurs Seeking Global Recognition",
@@ -1408,6 +1409,13 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-07T17:50:46.000Z",
       "summary": "[allAfrica] For Gambian fashion entrepreneur Ndey Bassin Faye, building an internationally recognised brand begins with empowering women, celebrating local culture, and embracing…"
+    },
+    {
+      "title": "South Africa's ANC facing worst-ever performance in local elections",
+      "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-07T18:07:00.000Z",
+      "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and…"
     },
     {
       "title": "Africa: A Just Energy Transition Cannot Leave Water Behind",
@@ -1669,13 +1677,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica Business",
       "published": "2026-11-06T17:08:00.000Z",
       "summary": "[Nile Post] Vice President Jessica Alupo has warned that worsening climate change could undermine Uganda's economic growth and development ambitions, as prolonged droughts, devastating…"
-    },
-    {
-      "title": "Dakar 2026: China tops medal count as South Africa, Egypt win gold",
-      "link": "http://www.africanews.com/2026/11/06/dakar-2026-china-tops-medal-count-as-south-africa-egypt-win-gold/",
-      "source": "Africanews",
-      "published": "2026-11-06T17:04:00.000Z",
-      "summary": "Egypt ranked fourth with four gold and five medals in total. South Africa has so far scored one gold, three silver and one bronze"
     }
   ]
 };

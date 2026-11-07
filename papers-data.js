@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-07T18:57:35.755Z",
+  "updated": "2026-11-07T22:30:06.281Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,80 +25,123 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "AWA debunks reports of aircraft technical fault and passenger evacuation at Kumasi Airport",
-      "link": "https://www.myjoyonline.com/awa-debunks-reports-of-aircraft-technical-fault-and-passenger-evacuation-at-kumasi-airport/",
+      "title": "GJA President warns against complacency despite Ghana’s improved press freedom ranking",
+      "link": "https://www.myjoyonline.com/gja-president-warns-against-complacency-despite-ghanas-improved-press-freedom-ranking/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T18:52:41.000Z",
-      "summary": "Africa World Airlines (AWA) has dismissed social media reports claiming that one of its aircraft developed a technical problem at Kumasi Airport, resulting in the evacuation of passengers…",
+      "published": "2026-11-07T22:24:40.000Z",
+      "summary": "President of the Ghana Journalists Association (GJA), Albert Dwumfour, has cautioned against complacency following Ghana’s rise to 39th out of 180 countries in the 2026 World Press Freedom…",
       "categories": [
         "National",
-        "AWA",
-        "Kumasi Airport",
-        "passenger evacuation"
+        "Ghana journalists",
+        "GJA President",
+        "Press Freedom ranking"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-665.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-22.11.24-1024x725.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama announces $9bn investment plan to create jobs under new economy policy",
-      "link": "https://www.myjoyonline.com/mahama-announces-9bn-investment-plan-to-create-jobs-under-new-economy-policy/",
+      "title": "Leveraging pension power: How Ghanaian trade unions can turn capital into Worker rights",
+      "link": "https://www.myjoyonline.com/leveraging-pension-power-how-ghanaian-trade-unions-can-turn-capital-into-worker-rights/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T18:51:26.000Z",
-      "summary": "President John Dramani Mahama has unveiled plans to invest more than $9 billion in sectors with high job creation potential between 2027 and 2030 as part of a new policy initiative dubbed…",
+      "published": "2026-11-07T21:50:10.000Z",
+      "summary": "Globally, organised labour is navigating an unprecedented structural crisis. Membership densities continue to dwindle, undermined by expanding informal economies, shifts in employment…",
       "categories": [
-        "National",
-        "Regional",
-        "Keta Port",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/John-Mahama-1-e1794072885385-1024x693.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Pathology in Ghana Politics: Examining institutional governance and the non-aligned citizen",
-      "link": "https://www.myjoyonline.com/the-pathology-in-ghana-politics-examining-institutional-governance-and-the-non-aligned-citizen/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T18:24:20.000Z",
-      "summary": "To the international community, Ghana’s Fourth Republic is a democratic success story—a peaceful vanguard of stability in West Africa defined by smooth transitions of power. But for those…",
-      "categories": [
-        "HP Opinion 1",
-        "National",
         "Opinion",
-        "Ghana",
-        "Governance",
-        "Kwabena Kyere",
-        "Politics"
+        "Pension power",
+        "Trade Unions",
+        "worker rights"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Kwabena-Kyere.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-6-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Michael Baidoo returns from injury to score in Plymouth win over Alvechurch",
-      "link": "https://www.myjoyonline.com/michael-baidoo-returns-from-injury-to-score-in-plymouth-win-over-alvechurch/",
+      "title": "2027 Budget review: The ten-billion-dollar question for next Thursday",
+      "link": "https://www.myjoyonline.com/2027-budget-review-the-ten-billion-dollar-question-for-next-thursday/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T18:15:22.000Z",
-      "summary": "Baidoo returned with a bang as he scored in his side's 4-0 hammering of the lower-tier side in the cup competition.",
+      "published": "2026-11-07T21:39:53.000Z",
+      "summary": "On Thursday, 12 November, the red dispatch box will return to the floor of Parliament for the reading of the 2027 Budget. Ahead of that presentation, consider this a diagnostic preview of…",
       "categories": [
-        "Football",
-        "Michael Baidoo",
-        "Plymouth Argyle"
+        "Opinion",
+        "Budget",
+        "Budget review",
+        "ten billion dollar"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-181427.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-5-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Politician and businessman Kofi Wayo passes on at 71",
-      "link": "https://www.myjoyonline.com/politician-and-businessman-kofi-wayo-passes-on-at-71/",
+      "title": "The barcode and the brown notebook",
+      "link": "https://www.myjoyonline.com/the-barcode-and-the-brown-notebook/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T18:04:01.000Z",
-      "summary": "Ghanaian politician and businessman Charles Eric Kofi Wayo, popularly known as Kofi Wayo or ‘Chuck’, has died at the age of 71.",
+      "published": "2026-11-07T21:33:53.000Z",
+      "summary": "Walk into any of the sprawling red-and-yellow department stores along the Spintex Road or the Tema motorway on a Saturday afternoon. The first thing that strikes you is the quiet. Nobody is…",
       "categories": [
-        "HP News 1",
-        "National",
-        "Kofi Wayo",
-        "politician"
+        "Opinion",
+        "Chinese stores",
+        "GUTA",
+        "IMANI Africa",
+        "Makola"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Kofi-Wayo.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/574577623_10239901036087019_7151658084014193220_n.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "IOTA Leadership Dealership 2026 challenges young people to become solution-driven leaders",
+      "link": "https://www.myjoyonline.com/iota-leadership-dealership-2026-challenges-young-people-to-become-solution-driven-leaders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T21:20:01.000Z",
+      "summary": "Africa’s growing youth population presents a major opportunity for the continent, but persistent unemployment, weak institutional accountability and rapid technological change are raising…",
+      "categories": [
+        "Events",
+        "IOTA",
+        "Leadership dealership 2026"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-21.14.56-1024x682.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Medical Superintendents call for stronger emergency care to tackle no-bed syndrome",
+      "link": "https://www.myjoyonline.com/medical-superintendents-call-for-stronger-emergency-care-to-tackle-no-bed-syndrome/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T21:15:58.000Z",
+      "summary": "The Medical Superintendents Group is calling for an expansion of emergency and critical care facilities, alongside improvements in hospital referral systems, to address Ghana's persistent…",
+      "categories": [
+        "Health",
+        "Emergency Care",
+        "Medical superintendents",
+        "no bed syndrome"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-4-1.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Journalism educators from 10 countries to meet in Accra for disinformation conference",
+      "link": "https://www.myjoyonline.com/journalism-educators-from-10-countries-to-meet-in-accra-for-disinformation-conference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T21:12:01.000Z",
+      "summary": "Journalism educators and media professionals from 10 countries across the Sahel and West Africa will meet in Accra from November 11 to 13 for a conference focused on tackling disinformation…",
+      "categories": [
+        "Education",
+        "Events",
+        "Accra",
+        "Disinformation conference",
+        "Journalism educators"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-18.41.54-1024x808.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Eisenkot to be tasked with forming next Israeli government",
+      "link": "https://www.myjoyonline.com/eisenkot-to-be-tasked-with-forming-next-israeli-government/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T20:44:15.000Z",
+      "summary": "In a setback to Prime Minister Benjamin Netanyahu, his main rival will be tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving…",
+      "categories": [
+        "International",
+        "Gadi Eisenkot",
+        "Israeli government"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-2.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -112,50 +155,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/07/suspect.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Alfred Woyome files nomination to contest NDC National Vice Chairmanship",
-      "link": "https://www.myjoyonline.com/alfred-woyome-files-nomination-to-contest-ndc-national-vice-chairmanship/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T17:29:06.000Z",
-      "summary": "Businessman and National Democratic Congress (NDC) member, Alfred Agbesi Woyome, has filed his nomination to contest the position of National Vice Chairperson of the party.",
-      "categories": [
-        "Politics",
-        "Top Story",
-        "Alfred Woyome",
-        "NDC"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/10/Woyome.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Seven companies shortlisted for Keta Port development – Mahama",
-      "link": "https://www.myjoyonline.com/seven-companies-shortlisted-for-keta-port-development-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T17:19:58.000Z",
-      "summary": "President John Mahama has announced that seven companies have been shortlisted for the development of the Keta Port in the Volta Region.",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Keta Port",
-        "President John Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-17.01.33-1024x774.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Naa Seidu Tungbani Salinbille II outdoored as Dorimon chief after four-year dispute",
-      "link": "https://www.myjoyonline.com/naa-seidu-tungbani-salinbille-ii-outdoored-as-dorimon-chief-after-four-year-dispute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T17:19:56.000Z",
-      "summary": "Naa Seidu Tungbani Salinbille II has been outdoored as the new chief of Dorimon in the Wa West District of the Upper West Region.",
-      "categories": [
-        "Regional",
-        "Dorimon chief",
-        "Naa Seidu Tungbani Salinbille II"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-15.34.39-2-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Kotoko, Chelsea face defining test as title rivals turn up heat",
