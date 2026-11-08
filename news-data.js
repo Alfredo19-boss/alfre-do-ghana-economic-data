@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-08T14:56:50.808Z",
-  "worldAt": "2026-11-08T14:56:50.806Z",
+  "updated": "2026-11-08T19:18:59.403Z",
+  "worldAt": "2026-11-08T19:18:59.402Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -20,7 +20,7 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "Graphic Online: 5/25 stories",
+    "Graphic Online: 3/25 stories",
     "Graphic Business: 0/0 stories",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
@@ -28,24 +28,80 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)",
     "Reuters wire: failed (HTTP 429)",
     "Reuters wire: failed (HTTP 429)",
-    "Citi Newsroom wire: 0 stories",
+    "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 25 stories",
-    "World · Deutsche Welle: 13 stories",
+    "World · BBC News: 27 stories",
+    "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 30 stories",
-    "Africa · Africanews: 24 stories",
-    "Africa · BBC Africa: 31 stories",
-    "Africa · Deutsche Welle: 6 stories",
+    "Africa · Africanews: 25 stories",
+    "Africa · BBC Africa: 27 stories",
+    "Africa · Deutsche Welle: 7 stories",
     "Africa · Al Jazeera: 5 stories",
-    "world lists: 40 world, 21 African stories held"
+    "world lists: 40 world, 29 African stories held"
   ],
   "items": [
+    {
+      "title": "Ghana’s AI Development Requires Investment Beyond Data Centre Infrastructure",
+      "link": "https://thehighstreetjournal.com/ghanas-ai-development-requires-investment-beyond-data-centre-infrastructure/",
+      "source": "The High Street Journal",
+      "published": "2026-11-08T18:27:54.000Z",
+      "summary": "New North Ventures partner Jeremy Hitchcock calls for greater investment in technical skills, technology businesses and private capital to strengthen Ghana’s position in the global AI…"
+    },
+    {
+      "title": "Nigeria’s Foreign Debt Reaches $145 Billion as Costly Market Borrowing Grows",
+      "link": "https://thehighstreetjournal.com/nigerias-foreign-debt-reaches-145-billion-as-costly-market-borrowing-grows/",
+      "source": "The High Street Journal",
+      "published": "2026-11-08T17:28:00.000Z",
+      "summary": "Nigeria’s improving debt ratios mask rising borrowing costs and a growing reliance on expensive market financing"
+    },
+    {
+      "title": "Aliko Dangote to join President Mahama at Invest Ghana Summit 2026",
+      "link": "https://www.myjoyonline.com/aliko-dangote-to-join-president-mahama-at-invest-ghana-summit-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T16:11:43.000Z",
+      "summary": "Convened by the Ghana Investment Promotion Authority (GIPA), with support from the Ministry of Trade, Agribusiness and Industry; Ghana Export Promotion Authority (GEPA); Bank of Ghana…"
+    },
+    {
+      "title": "Ghana’s 70% Textile Import Dependence Creates Market Opportunity for Local Manufacturers",
+      "link": "https://thehighstreetjournal.com/ghanas-70-textile-import-dependence-creates-market-opportunity-for-local-manufacturers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-08T16:08:00.000Z",
+      "summary": "Ghana’s 70% textile import dependence presents an opportunity for local manufacturers, but production capacity, industry partnerships, product innovation and investment will determine their…"
+    },
+    {
+      "title": "Ghana ranks 18th in Sub-Saharan Africa in terms of total revenue-to-GDP ratio",
+      "link": "https://www.myjoyonline.com/ghana-ranks-18th-in-sub-saharan-africa-in-terms-of-total-revenue-to-gdp-ratio/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T15:55:19.000Z",
+      "summary": "Namibia recorded the highest revenue-to-GDP ratio of 31.3% in Sub-Saharan Africa, followed by Seychelles (30.0%) in 3rd position and Botswana (29.5%) in 4th position."
+    },
+    {
+      "title": "When the floods struck, Activa delivered: Over GH₵4.7m paid in flood claims as of October 2026",
+      "link": "https://www.myjoyonline.com/when-the-floods-struck-activa-delivered-over-gh%e2%82%b54-7m-paid-in-flood-claims-as-of-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T15:49:58.000Z",
+      "summary": "Following the heavy rains and widespread flooding experienced in Accra and several other parts of Ghana during the 2026 rainy season, Activa International Insurance Ghana demonstrated its…"
+    },
+    {
+      "title": "Groundnut Industry Seeks Higher Productivity to Unlock Processing and Market Opportunities",
+      "link": "https://thehighstreetjournal.com/groundnut-industry-seeks-higher-productivity-to-unlock-processing-and-market-opportunities/",
+      "source": "The High Street Journal",
+      "published": "2026-11-08T15:24:00.000Z",
+      "summary": "Ghana's groundnut industry is seeking stronger research, seed supply and private sector collaboration to improve yields, meet processing standards, reduce post-harvest losses and unlock…"
+    },
+    {
+      "title": "T-bills auction: Government records 41% oversubscription; but yield on 91-day bill increases",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-41-oversubscription-but-yield-on-91-day-bill-increases/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:55:34.000Z",
+      "summary": "A little over GH¢3.0 billion of the bids came from the 91-day bill, representing 59% of the total bids. The uptake was about GH¢2.9 billion"
+    },
     {
       "title": "Ghana Must Renew Gold Fields Tarkwa Lease But Under Terms Beneficial to the State – Ing. Ashigbey",
       "link": "https://thehighstreetjournal.com/ghana-must-renew-gold-fields-tarkwa-lease-but-under-terms-beneficial-to-the-state-ing-ashigbey/",
@@ -1039,65 +1095,237 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-05T05:01:00.000Z",
       "summary": "Ghana's 8.9% consumer goods volume growth signals stronger household demand, creating opportunities for manufacturers, although distribution reach, local production and affordability will…"
-    },
-    {
-      "title": "AfCFTA SME Programme Targets Eastern African Businesses for Continental Trade",
-      "link": "https://thehighstreetjournal.com/afcfta-sme-programme-targets-east-africa/",
-      "source": "The High Street Journal",
-      "published": "2026-11-05T05:00:00.000Z",
-      "summary": "The Kigali initiative will train small businesses and business support organisations to navigate trade requirements and identify opportunities across African markets"
-    },
-    {
-      "title": "How Absa is connecting affluent banking with lifestyle experiences",
-      "link": "https://www.myjoyonline.com/how-absa-is-connecting-affluent-banking-with-lifestyle-experiences/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T04:07:00.000Z",
-      "summary": "While access to credit, investment solutions, and everyday banking services remain important, many affluent customers also seek convenience, access, and experiences that complement their…"
-    },
-    {
-      "title": "Smart farming, weak connections: Rethinking rural connectivity in Ghana",
-      "link": "https://www.myjoyonline.com/smart-farming-weak-connections-rethinking-rural-connectivity-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-05T03:15:00.000Z",
-      "summary": "Farming involves a succession of decisions. Is the soil dry enough to need watering?"
-    },
-    {
-      "title": "Traffitech-GH fines: Private firm expected to get 40% of every fine, government to get 60%",
-      "link": "https://www.myjoyonline.com/traffitech-gh-fines-private-firm-expected-to-get-40-of-every-fine-government-to-get-60/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T20:28:00.000Z",
-      "summary": "A private company is expected to keep 40% of every fine collected by Ghana’s new traffic cameras, with government taking the other 60%. On a first-offence fine of GH¢120, that is GH¢48 to…"
-    },
-    {
-      "title": "Nearly half of Ghana’s MMDAs fall below minimum public financial management standards – World Bank",
-      "link": "https://www.myjoyonline.com/nearly-half-of-ghanas-mmdas-fall-below-minimum-public-financial-management-standards-world-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-04T19:33:21.000Z",
-      "summary": "The bank says that despite some improvements in financial management at the local level, challenges with financial reporting, internal audits, and the implementation of audit…"
-    },
-    {
-      "title": "EOCO Demands Nine Years of Financial Records from Baffour Awuah’s Law Firm",
-      "link": "https://thehighstreetjournal.com/eoco-demands-nine-years-of-financial-records-from-baffour-awuahs-law-firm/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T19:11:56.000Z",
-      "summary": "EOCO seeks nine years of financial and operational records from law firm linked to MP Baffour Awuah amid ongoing SIC Life investigations."
-    },
-    {
-      "title": "COMAC Pushes ECOWAS Digital Fuel Passport to Improve Petroleum Trade",
-      "link": "https://thehighstreetjournal.com/comac-pushes-ecowas-digital-fuel-passport-to-improve-petroleum-trade/",
-      "source": "The High Street Journal",
-      "published": "2026-11-04T18:00:00.000Z",
-      "summary": "The proposed ECOWAS-wide digital certification system is expected to strengthen fuel quality assurance, curb unrecorded product movements, and improve cross-border petroleum trade."
-    },
-    {
-      "title": "Finance Minister Ato Forson to show how 'Ghana moves forward' in 2027 Budget",
-      "link": "https://www.graphic.com.gh/news/general-news/what-you-need-to-know-about-new-economy-agenda-ahead-of-november-12-budget-presentation.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T17:41:26.000Z",
-      "summary": ""
     }
   ],
   "world": [
+    {
+      "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T19:15:36.000Z",
+      "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans."
+    },
+    {
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T18:22:53.000Z",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
+    },
+    {
+      "title": "After the midterms, where does the Republican Party stand?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T19:09:18.000Z",
+      "summary": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms."
+    },
+    {
+      "title": "Coalition building begins as ANC suffers major blow in South Africa local elections",
+      "link": "http://www.africanews.com/2026/11/08/coalition-building-begins-as-anc-suffers-major-blow-in-south-africa-local-elections/",
+      "source": "Africanews",
+      "published": "2026-11-08T18:21:47.000Z",
+      "summary": "The African National Congress came in first place in South Africa's local elections but suffered its worst-ever electoral setback, according to final results on Sunday."
+    },
+    {
+      "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T18:22:58.000Z",
+      "summary": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals."
+    },
+    {
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T17:35:13.000Z",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+      "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T18:12:27.000Z",
+      "summary": "Israel's president officially tasks the opposition leader with forming a new government."
+    },
+    {
+      "title": "South Africa elections: ANC marks its worst-ever performance",
+      "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-08T17:35:00.000Z",
+      "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water…"
+    },
+    {
+      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T18:01:05.000Z",
+      "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino."
+    },
+    {
+      "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+      "link": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+      "source": "France 24",
+      "published": "2026-11-08T16:59:42.000Z",
+      "summary": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as…",
+      "image": "https://s.france24.com/media/display/3a894976-db94-11f1-846b-bf1914cabd52/w:1024/p:16x9/EN-20261108-171056-171236-CS.jpg"
+    },
+    {
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T17:44:51.000Z",
+      "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales."
+    },
+    {
+      "title": "Gadi Eisenkot receives mandate to form government",
+      "link": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+      "source": "France 24",
+      "published": "2026-11-08T16:58:11.000Z",
+      "summary": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to…",
+      "image": "https://s.france24.com/media/display/608ffe0e-db93-11f1-85ef-d18c5759e759/w:1024/p:16x9/EN-20261108-160801-161121-CS.jpg"
+    },
+    {
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T17:11:52.000Z",
+      "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu."
+    },
+    {
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+      "source": "NPR World",
+      "published": "2026-11-08T16:46:15.000Z",
+      "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next…",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3555+0+0/resize/5333x3555!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F5f%2F9142e9fb4171b7967dc02de2a559%2Fap26311421156364.jpg"
+    },
+    {
+      "title": "Photos: Diwali celebrations light up India and its global diaspora",
+      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T17:03:14.000Z",
+      "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts."
+    },
+    {
+      "title": "Spain's Alcaraz beats error-prone Shelton to win Paris Masters for first time",
+      "link": "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time",
+      "source": "France 24",
+      "published": "2026-11-08T16:31:53.000Z",
+      "summary": "Spanish tennis star Carlos Alcaraz avenged his loss to American player Ben Shelton in the US Open in September as he inched ahead of his rival Sunday to win the Paris Masters for the first…",
+      "image": "https://s.france24.com/media/display/e7a1efda-db91-11f1-95fc-a575454bc579/w:1024/p:16x9/f75fa6fa8ded7fbfacd31db319351a05d3ba1ad3.jpg"
+    },
+    {
+      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T17:00:00.000Z",
+      "summary": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga."
+    },
+    {
+      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+      "source": "NPR World",
+      "published": "2026-11-08T16:30:16.000Z",
+      "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fdc%2Fbfa72c634de2ac6fd5d3cbc6c94a%2Fap26312478472333.jpg"
+    },
+    {
+      "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:59:31.000Z",
+      "summary": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections."
+    },
+    {
+      "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+      "link": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+      "source": "France 24",
+      "published": "2026-11-08T16:21:34.000Z",
+      "summary": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks back at…",
+      "image": "https://s.france24.com/media/display/32d96078-db74-11f1-b6c9-bf1914cabd52/w:1024/p:16x9/AP26310471490191.jpg"
+    },
+    {
+      "title": "Fan hospitalised after falling through stand at Norwegian football match",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:53:03.000Z",
+      "summary": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through."
+    },
+    {
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T16:05:57.000Z",
+      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6f/live/0d4d1a90-db8b-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:51:41.000Z",
+      "summary": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government."
+    },
+    {
+      "title": "Egypt: 4 dead and dozens injured after two trains collide south of Cairo",
+      "link": "http://www.africanews.com/2026/11/08/egypt-4-dead-and-dozens-injured-after-two-trains-collide-south-of-cairo/",
+      "source": "Africanews",
+      "published": "2026-11-08T15:45:12.000Z",
+      "summary": "Four people are dead and dozens injured after two trains collided south of Cairo on Sunday. Egypt’s railway authority said a train traveling to Giza from Fayoum crashed into the rear of…"
+    },
+    {
+      "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+      "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:37:20.000Z",
+      "summary": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages."
+    },
+    {
+      "title": "Spanish police launch new ID procedure for migrants at temporary camps",
+      "link": "http://www.africanews.com/2026/11/08/spanish-police-launch-new-id-procedure-for-migrants-at-temporary-camps/",
+      "source": "Africanews",
+      "published": "2026-11-08T15:27:10.000Z",
+      "summary": "Police in the northern Spanish enclave of Ceuta are introducing a new identification process for migrants as authorities move to dismantle a temporary camp."
+    },
+    {
+      "title": "Seven killed, 112 injured in train collision in Egypt",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:31:54.000Z",
+      "summary": "Seven killed, 112 injured in train collision in Egypt"
+    },
+    {
+      "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+      "source": "NPR World",
+      "published": "2026-11-08T15:07:15.000Z",
+      "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg"
+    },
+    {
+      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+      "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:18:09.000Z",
+      "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'."
+    },
+    {
+      "title": "Homes and temples glow across India to mark Diwali",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T14:42:09.000Z",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T15:47:11.000Z",
+      "summary": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure."
+    },
     {
       "title": "US voters reject AI data centres: could the backlash spread to France?",
       "link": "https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france",
@@ -1107,12 +1335,26 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/4636e71a-db80-11f1-a6d8-d18c5759e759/w:1024/p:16x9/EN-WB-TECH24-MIDTERMS-DATA-CENTRE-FALLOUT.png"
     },
     {
+      "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T15:37:16.000Z",
+      "summary": "Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service."
+    },
+    {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-08T14:32:52.000Z",
       "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T14:53:29.000Z",
+      "summary": "Palestinian journalist Abed Abou Shhadeh released after 5 days detention"
     },
     {
       "title": "Yemen's humanitarian crisis worsens",
@@ -1151,260 +1393,72 @@ window.GDC_NEWS = {
       "published": "2026-11-08T14:20:04.000Z",
       "summary": "French sailor Tom Laperche has won the Route du Rhum, setting a new record in the transatlantic yacht race. The 29-year-old crossed the finish line in Guadeloupe on his first attempt…",
       "image": "https://s.france24.com/media/display/83ffbb5a-db7e-11f1-adef-d18c5759e759/w:1024/p:16x9/EN-20261108-150723-150909-CS.jpg"
-    },
-    {
-      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T14:06:19.000Z",
-      "summary": "As fears of an escalation grow, Washington announces 'Task Force Iron Gate'."
-    },
-    {
-      "title": "Mourning in Poland after mass shooting",
-      "link": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
-      "source": "France 24",
-      "published": "2026-11-08T14:18:48.000Z",
-      "summary": "Poland has launched a terrorism investigation after a deadly shooting left six people dead and 16 injured. The 24-year-old Polish suspect was reportedly fascinated by far-right ideologies…",
-      "image": "https://s.france24.com/media/display/ac245178-db7d-11f1-9478-695cb59fade5/w:1024/p:16x9/EN-20261108-140118-140318-CS.jpg"
-    },
-    {
-      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T14:02:35.000Z",
-      "summary": "Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships"
-    },
-    {
-      "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
-      "link": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-      "source": "France 24",
-      "published": "2026-11-08T14:16:31.000Z",
-      "summary": "France will participate in the upcoming Abu Dhabi peace talks on ending the Ukraine war, Foreign Minister Jean-Noël Barrot said Sunday, adding that Europeans will be represented at the…",
-      "image": "https://s.france24.com/media/display/57d3784e-db7b-11f1-a752-a575454bc579/w:1024/p:16x9/2026-10-31T022255Z-1628715710-RC2ZDOAFTXRB-RTRMADP-3-G20-MINISTERS-1.jpg"
-    },
-    {
-      "title": "At least 21 dead as small boat sinks off Senegal",
-      "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T13:32:17.000Z",
-      "summary": "Senegalese Interior Ministry says one person rescued as search operation continues after migrant vessel capsized."
-    },
-    {
-      "title": "Pope Leo urges husbands to respect wives amid femicide crisis across Latin America",
-      "link": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
-      "source": "France 24",
-      "published": "2026-11-08T14:15:54.000Z",
-      "summary": "Pope Leo XIV urged men to respect their wives as he wrapped up the first leg of his 12-day tour of Latin America. The region recorded nearly 20,000 of women being killed due to their gender…",
-      "image": "https://s.france24.com/media/display/e848f45a-db7e-11f1-a13c-1beafce15fea/w:1024/p:16x9/6fab64bab726aafee6cdce3d68af60d2c79255ea.jpg"
-    },
-    {
-      "title": "Lagos Street Art Festival brings art out of the gallery to engage with wider public",
-      "link": "http://www.africanews.com/2026/11/08/lagos-street-art-festival-brings-art-out-of-the-gallery-to-engage-with-wider-public/",
-      "source": "Africanews",
-      "published": "2026-11-08T13:28:31.000Z",
-      "summary": "Artists in Lagos used brushes and spray cans to bring their works to life on Saturday at the second edition of the city’s Street Art Festival. The event is aimed at making art more…"
-    },
-    {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T13:27:57.000Z",
-      "summary": "Former rivals in Libya are pushing for a unity government to end years of conflict."
-    },
-    {
-      "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
-      "link": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
-      "source": "France 24",
-      "published": "2026-11-08T11:53:14.000Z",
-      "summary": "French police have made extensive use of tear gas during protests that have roiled France in recent weeks, sometimes causing grievous injuries. Thousands of accounts of women experiencing…",
-      "image": "https://s.france24.com/media/display/a664e012-da11-11f1-ab05-695cb59fade5/w:1024/p:16x9/000-D3LF967.jpg"
-    },
-    {
-      "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T13:11:41.000Z",
-      "summary": "A 5.7-magnitude earthquake struck central Japan, injuring more than 20 people."
-    },
-    {
-      "title": "Divided Israelis agree: Forming next government won't be easy",
-      "link": "http://www.africanews.com/2026/11/08/divided-israelis-agree-forming-next-government-wont-be-easy/",
-      "source": "Africanews",
-      "published": "2026-11-08T11:28:18.000Z",
-      "summary": "Across Israel people are divided over President Herzog’s decision to pick Gadi Eisenkot to lead country’s next government. But one thing everyone can agree on is that it forming a new…"
-    },
-    {
-      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-      "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T13:06:28.000Z",
-      "summary": "A political impasse between the KRG and PUK threatens to break up the semiautonomous northern region."
-    },
-    {
-      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-      "source": "NPR World",
-      "published": "2026-11-08T11:00:00.000Z",
-      "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2998+0+0/resize/4000x2998!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F27%2F4d4fe4984450a672595971ed542a%2Fdesert-bloom-t-merino-87.jpg"
-    },
-    {
-      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T12:40:12.000Z",
-      "summary": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology."
-    },
-    {
-      "title": "2026 Dakar Youth Olympic Games: Golden Double for Senegal",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261108-2026-dakar-youth-olympic-games-golden-double-for-senegal",
-      "source": "France 24",
-      "published": "2026-11-08T10:56:56.000Z",
-      "summary": "Senegal won two gold medals in beach wrestling at the Youth Olympic Games in Dakar. Elisabeth Diatta won gold in the -55 kg category, the host country’s first gold medal at the Youth…",
-      "image": "https://s.france24.com/media/display/ed16cfe6-db62-11f1-971d-a575454bc579/w:1024/p:16x9/JOJ-DAKAR-2026.jpg"
-    },
-    {
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T12:20:17.000Z",
-      "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv."
-    },
-    {
-      "title": "Diwali: Over one billion people mark victory of light over darkness",
-      "link": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
-      "source": "France 24",
-      "published": "2026-11-08T10:46:37.000Z",
-      "summary": "Diwali celebrations began on Sunday, with people across India and the global diaspora gathering to mark one of the most important festivals in the Hindu tradition. In Ayodhya, believed to…",
-      "image": "https://s.france24.com/media/display/cac0a34c-db60-11f1-b422-a575454bc579/w:1024/p:16x9/EN-20261108-111252-111423-CS.jpg"
-    },
-    {
-      "title": "South Africa’s ANC suffers setback in local elections",
-      "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T12:19:14.000Z",
-      "summary": "With 99 percent of votes counted, President Cyril Ramaphosa's party wins 31 percent nationally."
-    },
-    {
-      "title": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
-      "link": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
-      "source": "France 24",
-      "published": "2026-11-08T10:42:59.000Z",
-      "summary": "Paraguay's ousted president, Santiago Peña, has been charged over the collapse of Ueno Bank. Initially placed under house arrest, he has since been transferred to a military facility for…",
-      "image": "https://s.france24.com/media/display/97992746-db60-11f1-b875-695cb59fade5/w:1024/p:16x9/EN-20261108-111033-111218-CS.jpg"
-    },
-    {
-      "title": "Could UFC boss Dana White be next White House press secretary?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T11:57:05.000Z",
-      "summary": "UFC chief Dana White says he’ll meet Trump after the US president urged him to become White House press secretary."
-    },
-    {
-      "title": "Dialogue between past and present: Giza pyramids host 6th edition of 'Forever is Now' exhibition",
-      "link": "http://www.africanews.com/2026/11/08/dialogue-between-past-and-present-giza-pyramids-host-6th-edition-of-forever-is-now-exhibit/",
-      "source": "Africanews",
-      "published": "2026-11-08T10:23:14.000Z",
-      "summary": "The sixth edition of the ‘Forever Is Now’ art exhibition is set against the Pyramids of Giza. The Egyptian landscape and its ancient monuments are more than just a backdrop, they also…"
-    },
-    {
-      "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-      "link": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T11:34:58.000Z",
-      "summary": "Former army chief has 28 days to cobble together a ruling coalition after President chose him over incumbent Netanyahu."
-    },
-    {
-      "title": "Middle East live: Yemen’s Houthis claim attack on Riyadh financial district",
-      "link": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-      "source": "France 24",
-      "published": "2026-11-08T09:47:36.000Z",
-      "summary": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s…",
-      "image": "https://s.france24.com/media/display/0e783f10-db4c-11f1-abfd-a575454bc579/w:1024/p:16x9/7f554331a6cdd64418e7973b0fb73c45bab02694.jpg"
-    },
-    {
-      "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T10:50:12.000Z",
-      "summary": "The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs."
-    },
-    {
-      "title": "Donald Trump wants UFC fighters as assistants",
-      "link": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
-      "source": "France 24",
-      "published": "2026-11-08T09:44:28.000Z",
-      "summary": "After a series of combative press briefings between the Trump administration and journalists, the US president surprised many by reportedly offering Dana White, the head of the Ultimate…",
-      "image": "https://s.france24.com/media/display/ad7ce2ee-db58-11f1-b2b1-d18c5759e759/w:1024/p:16x9/EN-20261108-101159-101400-CS.jpg"
-    },
-    {
-      "title": "After rebel offensive, efforts to push them back appear to have stalled",
-      "link": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T10:28:08.000Z",
-      "summary": "Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle"
-    },
-    {
-      "title": "Israel's Arab-led parties gain influence",
-      "link": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
-      "source": "France 24",
-      "published": "2026-11-08T09:43:26.000Z",
-      "summary": "Arab-led parties have endorsed Gadi Eisenkot despite his ruling out a coalition with them. Their support is driven by a shared goal: removing Benjamin Netanyahu from power. But could these…",
-      "image": "https://s.france24.com/media/display/dec0c3da-db57-11f1-b79b-bf1914cabd52/w:1024/p:16x9/EN-20261108-100714-100924-CS.jpg"
-    },
-    {
-      "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T10:03:21.000Z",
-      "summary": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed."
-    },
-    {
-      "title": "Gaza: Heavy rain inundates thousands of tents",
-      "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
-      "source": "France 24",
-      "published": "2026-11-08T09:42:03.000Z",
-      "summary": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with the…",
-      "image": "https://s.france24.com/media/display/25796fa2-db58-11f1-946f-695cb59fade5/w:1024/p:16x9/EN-20261108-100942-101123-CS.jpg"
-    },
-    {
-      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-      "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T09:30:17.000Z",
-      "summary": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid."
-    },
-    {
-      "title": "How the deadly shooting in Krakow unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T09:29:24.000Z",
-      "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00d/live/84d82e90-dafc-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Floods in Gaza leave tens of thousands without shelter",
-      "link": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T09:28:52.000Z",
-      "summary": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains."
-    },
-    {
-      "title": "Poland launches terrorism probe into mass shooting in Krakow",
-      "link": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting",
-      "source": "France 24",
-      "published": "2026-11-08T08:59:56.000Z",
-      "summary": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the…",
-      "image": "https://s.france24.com/media/display/f1250eae-db5d-11f1-9d08-a575454bc579/w:1024/p:16x9/df1b226879aa9026b8f83a806b14523cef6d3728.jpg"
     }
   ],
   "africa": [
     {
-      "title": "ANC leads South Africa's local polls but records all-time election low: final results",
-      "link": "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/",
+      "title": "Dozens killed after migrant boat sinks off Senegal",
+      "link": "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-08T19:12:00.000Z",
+      "summary": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat…"
+    },
+    {
+      "title": "Coalition building begins as ANC suffers major blow in South Africa local elections",
+      "link": "http://www.africanews.com/2026/11/08/coalition-building-begins-as-anc-suffers-major-blow-in-south-africa-local-elections/",
       "source": "Africanews",
-      "published": "2026-11-08T14:07:48.000Z",
-      "summary": "The African National Congress came in first place in South Africa's local elections but suffered its worst-ever electoral setback, according to final results on Saturday."
+      "published": "2026-11-08T18:21:47.000Z",
+      "summary": "The African National Congress came in first place in South Africa's local elections but suffered its worst-ever electoral setback, according to final results on Sunday."
+    },
+    {
+      "title": "South Africa elections: ANC marks its worst-ever performance",
+      "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-08T17:35:00.000Z",
+      "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water…"
+    },
+    {
+      "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+      "link": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:37:20.000Z",
+      "summary": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages."
+    },
+    {
+      "title": "Egypt train crash leaves several dead, over 100 injured",
+      "link": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-africa-8291-rdf",
+      "source": "Deutsche Welle",
+      "published": "2026-11-08T16:49:00.000Z",
+      "summary": "A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying more than 100 passengers were injured. Over 50 ambulances were…"
+    },
+    {
+      "title": "Seven killed, 112 injured in train collision in Egypt",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:31:54.000Z",
+      "summary": "Seven killed, 112 injured in train collision in Egypt"
+    },
+    {
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published": "2026-11-08T16:05:57.000Z",
+      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6f/live/0d4d1a90-db8b-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T15:47:11.000Z",
+      "summary": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure."
+    },
+    {
+      "title": "Egypt: 4 dead and dozens injured after two trains collide south of Cairo",
+      "link": "http://www.africanews.com/2026/11/08/egypt-4-dead-and-dozens-injured-after-two-trains-collide-south-of-cairo/",
+      "source": "Africanews",
+      "published": "2026-11-08T15:45:12.000Z",
+      "summary": "Four people are dead and dozens injured after two trains collided south of Cairo on Sunday. Egypt’s railway authority said a train traveling to Giza from Fayoum crashed into the rear of…"
     },
     {
       "title": "At least 21 killed after migrant boat sinks off Senegal",
@@ -1414,7 +1468,14 @@ window.GDC_NEWS = {
       "summary": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat…"
     },
     {
-      "title": "At least 21 dead as small boat sinks off Senegal",
+      "title": "ANC leads South Africa's local polls but records all-time election low: final results",
+      "link": "http://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/",
+      "source": "Africanews",
+      "published": "2026-11-08T14:07:48.000Z",
+      "summary": "The African National Congress came in first place in South Africa's local elections but suffered its worst-ever electoral setback, according to final results on Saturday."
+    },
+    {
+      "title": "At least 34 dead as small boat sinks off Senegal",
       "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-08T13:32:17.000Z",
@@ -1531,13 +1592,6 @@ window.GDC_NEWS = {
       "source": "Africanews",
       "published": "2026-11-07T09:10:18.000Z",
       "summary": "Tanzania's main opposition Chadema party celebrated a \"victorious day\" on Friday, after a court found their leader Tundu Lissu not guilty of treason."
-    },
-    {
-      "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
-      "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T06:47:45.000Z",
-      "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery."
     },
     {
       "title": "Political chaos in Somalia after court ruling against president's term extension",
