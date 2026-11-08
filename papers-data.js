@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-07T22:30:06.281Z",
+  "updated": "2026-11-08T01:44:44.461Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,123 +25,147 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GJA President warns against complacency despite Ghana’s improved press freedom ranking",
-      "link": "https://www.myjoyonline.com/gja-president-warns-against-complacency-despite-ghanas-improved-press-freedom-ranking/",
+      "title": "BoG Governor Johnson Asiama says professional journalism is vital in fighting digital misinformation",
+      "link": "https://www.myjoyonline.com/bog-governor-johnson-asiama-says-professional-journalism-is-vital-in-fighting-digital-misinformation/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T22:24:40.000Z",
-      "summary": "President of the Ghana Journalists Association (GJA), Albert Dwumfour, has cautioned against complacency following Ghana’s rise to 39th out of 180 countries in the 2026 World Press Freedom…",
+      "published": "2026-11-08T00:21:05.000Z",
+      "summary": "Bank of Ghana Governor, Dr Johnson Pandit Asiama, has described professional journalism as “society’s compass”, saying it remains essential in helping citizens navigate the growing…",
       "categories": [
         "National",
-        "Ghana journalists",
-        "GJA President",
-        "Press Freedom ranking"
+        "BoG",
+        "Journalism",
+        "Misinformation"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-22.11.24-1024x725.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-00.00.13-768x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Leveraging pension power: How Ghanaian trade unions can turn capital into Worker rights",
-      "link": "https://www.myjoyonline.com/leveraging-pension-power-how-ghanaian-trade-unions-can-turn-capital-into-worker-rights/",
+      "title": "Egypt sacks coach Hossam Hassan over ‘negative impact’ on team image",
+      "link": "https://www.myjoyonline.com/egypt-sacks-coach-hossam-hassan-over-negative-impact-on-team-image/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T21:50:10.000Z",
-      "summary": "Globally, organised labour is navigating an unprecedented structural crisis. Membership densities continue to dwindle, undermined by expanding informal economies, shifts in employment…",
+      "published": "2026-11-08T00:15:56.000Z",
+      "summary": "Egypt coach Hossam Hassan was sacked on Saturday for what the soccer federation cited as “a negative impact on the positive image of the team.” The Egyptian Football Association did not…",
       "categories": [
-        "Opinion",
-        "Pension power",
-        "Trade Unions",
-        "worker rights"
+        "Comp. Sports",
+        "Football",
+        "HP Sports 3",
+        "Sports",
+        "Egypt",
+        "Hossam Hassan",
+        "Sport"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-6-1.jpeg",
+      "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget review: The ten-billion-dollar question for next Thursday",
-      "link": "https://www.myjoyonline.com/2027-budget-review-the-ten-billion-dollar-question-for-next-thursday/",
+      "title": "BoG introduces economic and financial journalism award with international training opportunities at 30th GJA Media Awards",
+      "link": "https://www.myjoyonline.com/bog-introduces-economic-and-financial-journalism-award-with-international-training-opportunities-at-30th-gja-media-awards/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T21:39:53.000Z",
-      "summary": "On Thursday, 12 November, the red dispatch box will return to the floor of Parliament for the reading of the 2027 Budget. Ahead of that presentation, consider this a diagnostic preview of…",
+      "published": "2026-11-08T00:15:34.000Z",
+      "summary": "The Bank of Ghana (BoG) has announced a new award scheme to recognise excellence in economic and financial journalism, offering winners opportunities for international exposure…",
       "categories": [
-        "Opinion",
-        "Budget",
-        "Budget review",
-        "ten billion dollar"
+        "Business",
+        "National",
+        "Bank of Ghana",
+        "Financial story of the year",
+        "GJA Media Awards",
+        "Governor"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-5-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-00.00.13-768x1024.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "The barcode and the brown notebook",
-      "link": "https://www.myjoyonline.com/the-barcode-and-the-brown-notebook/",
+      "title": "Real Madrid beat Valencia to move level on points with leaders Barcelona",
+      "link": "https://www.myjoyonline.com/real-madrid-beat-valencia-to-move-level-on-points-with-leaders-barcelona/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T21:33:53.000Z",
-      "summary": "Walk into any of the sprawling red-and-yellow department stores along the Spintex Road or the Tema motorway on a Saturday afternoon. The first thing that strikes you is the quiet. Nobody is…",
+      "published": "2026-11-08T00:11:47.000Z",
+      "summary": "Real Madrid moved level on points with La Liga leaders Barcelona after a comfortable victory at struggling Valencia. Captain Federico Valverde opened the scoring in the 28th minute with a…",
       "categories": [
-        "Opinion",
-        "Chinese stores",
-        "GUTA",
-        "IMANI Africa",
-        "Makola"
+        "Comp. Sports",
+        "Football",
+        "HP Sports 1",
+        "Sports"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/574577623_10239901036087019_7151658084014193220_n.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/75a2e4b0-daed-11f1-a701-fddedf244c16.jpg.webp",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "IOTA Leadership Dealership 2026 challenges young people to become solution-driven leaders",
-      "link": "https://www.myjoyonline.com/iota-leadership-dealership-2026-challenges-young-people-to-become-solution-driven-leaders/",
+      "title": "Government renews commitment to unravel Ahmed Suale’s murder – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/government-renews-commitment-to-unravel-ahmed-suales-murder-kwakye-ofosu/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T21:20:01.000Z",
-      "summary": "Africa’s growing youth population presents a major opportunity for the continent, but persistent unemployment, weak institutional accountability and rapid technological change are raising…",
+      "published": "2026-11-08T00:05:53.000Z",
+      "summary": "The government has reaffirmed its commitment to unraveling the murder of investigative journalist Ahmed Suale, whose killing in January 2019 remains unsolved. Speaking on behalf of…",
       "categories": [
-        "Events",
-        "IOTA",
-        "Leadership dealership 2026"
+        "National",
+        "Ahmed Suale",
+        "Kwakye Ofosu",
+        "Murder",
+        "Press Freedom"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-21.14.56-1024x682.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-11-1.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Medical Superintendents call for stronger emergency care to tackle no-bed syndrome",
-      "link": "https://www.myjoyonline.com/medical-superintendents-call-for-stronger-emergency-care-to-tackle-no-bed-syndrome/",
+      "title": "Ghana Tennis Federation boss, Aboagye Duah, elected as West Africa Prez & Veep at Tennis Africa",
+      "link": "https://www.myjoyonline.com/ghana-tennis-federation-boss-aboagye-duah-elected-as-west-africa-prez-veep-at-tennis-africa/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T21:15:58.000Z",
-      "summary": "The Medical Superintendents Group is calling for an expansion of emergency and critical care facilities, alongside improvements in hospital referral systems, to address Ghana's persistent…",
+      "published": "2026-11-08T00:05:18.000Z",
+      "summary": "LUANDA, ANGOLA, 7 November 2026 — Ghana has secured a significant leadership position in African tennis following the election of Mr Isaac Aboagye Duah, President of the Ghana Tennis…",
       "categories": [
-        "Health",
-        "Emergency Care",
-        "Medical superintendents",
-        "no bed syndrome"
+        "Athletics",
+        "Comp. Sports",
+        "HP Sports 2",
+        "Sports",
+        "Tennis",
+        "Aboagye Duah",
+        "Ghana Tennis Federation",
+        "GTF"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-4-1.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_5410.JPG-1024x768.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Journalism educators from 10 countries to meet in Accra for disinformation conference",
-      "link": "https://www.myjoyonline.com/journalism-educators-from-10-countries-to-meet-in-accra-for-disinformation-conference/",
+      "title": "Government does not expect favourable headlines from media – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/government-does-not-expect-favourable-headlines-from-media-kwakye-ofosu/",
       "source": "MyJoyOnline",
-      "published": "2026-11-07T21:12:01.000Z",
-      "summary": "Journalism educators and media professionals from 10 countries across the Sahel and West Africa will meet in Accra from November 11 to 13 for a conference focused on tackling disinformation…",
+      "published": "2026-11-07T23:50:43.000Z",
+      "summary": "The government has reaffirmed its commitment to media freedom, saying it does not expect favourable headlines from journalists as a condition for engagement with the media. Speaking on…",
       "categories": [
-        "Education",
-        "Events",
-        "Accra",
-        "Disinformation conference",
-        "Journalism educators"
+        "National",
+        "Favourable headlines",
+        "GJA Media Awards",
+        "Media"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-18.41.54-1024x808.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-23.13.30-1024x619.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Eisenkot to be tasked with forming next Israeli government",
-      "link": "https://www.myjoyonline.com/eisenkot-to-be-tasked-with-forming-next-israeli-government/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T20:44:15.000Z",
-      "summary": "In a setback to Prime Minister Benjamin Netanyahu, his main rival will be tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving…",
+      "title": "Nigeria crowned FIFA U-17 Women’s World Champions after victory over Japan",
+      "link": "https://www.graphic.com.gh/sports/sports-news/nigeria-crowned-fifa-u-17-womens-world-champions-after-victory-over-japan.html",
+      "source": "Graphic Sports",
+      "published": "2026-11-07T23:44:11.000Z",
+      "summary": "Japan fought back and reduced the deficit in the 80th minute through Fuki Ito, setting up a tense finish. However, Nigeria’s defence held firm under late pressure to secure the historic…",
       "categories": [
-        "International",
-        "Gadi Eisenkot",
-        "Israeli government"
+        "Sports News"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-2.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Nov/07/CHAMPS_NIGERIA.jpg",
+      "site": "https://www.graphic.com.gh/sports"
+    },
+    {
+      "title": "Threatening to kill the President and his children is criminality, not free speech – Kwakye Ofosu",
+      "link": "https://www.myjoyonline.com/threatening-to-kill-the-president-and-his-children-is-criminality-not-free-speech-kwakye-ofosu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T23:44:11.000Z",
+      "summary": "Minister of State in charge of Government Communications, Felix Kwakye Ofosu, has described threats to kill President John Dramani Mahama and his children as “brazen criminality”, insisting…",
+      "categories": [
+        "National",
+        "Top Story",
+        "criminality",
+        "Free speech",
+        "Kwakye Ofosu",
+        "Mahama"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-23.13.30-1024x619.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
@@ -423,18 +447,6 @@ window.GDC_PAPERS = {
         "Sports News"
       ],
       "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Cristiano Ronaldo retires from Portugal international football",
-      "link": "https://www.graphic.com.gh/sports/sports-news/cristiano-ronaldo-retires-from-portugal-international-football.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-05T12:10:02.000Z",
-      "summary": "He walked out of the Portugal camp in September after being told he would not start the Nations League match against Denmark. \"To the Portuguese people, the day has come for me to hand back…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/05/Ronaldo.jpg",
       "site": "https://www.graphic.com.gh/sports"
     }
   ]

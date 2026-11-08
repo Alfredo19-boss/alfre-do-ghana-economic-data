@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-07T22:29:53.292Z",
-  "worldAt": "2026-11-07T22:29:53.290Z",
+  "updated": "2026-11-08T01:44:31.051Z",
+  "worldAt": "2026-11-08T01:44:31.049Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,26 +26,33 @@ window.GDC_NEWS = {
     "Ghana Business News: 3/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (fetch failed)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 24 stories",
+    "World · BBC News: 25 stories",
     "World · Deutsche Welle: 13 stories",
     "World · France 24: 24 stories",
     "Africa · AllAfrica: 33 stories",
     "Africa · AllAfrica Business: 31 stories",
-    "Africa · Africanews: 24 stories",
+    "Africa · Africanews: 23 stories",
     "Africa · BBC Africa: 31 stories",
     "Africa · Deutsche Welle: 7 stories",
     "Africa · Al Jazeera: 0 stories",
     "world lists: 40 world, 40 African stories held"
   ],
   "items": [
+    {
+      "title": "BoG introduces economic and financial journalism award with international training opportunities at 30th GJA Media Awards",
+      "link": "https://www.myjoyonline.com/bog-introduces-economic-and-financial-journalism-award-with-international-training-opportunities-at-30th-gja-media-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T00:15:34.000Z",
+      "summary": "The Bank of Ghana (BoG) has announced a new award scheme to recognise excellence in economic and financial journalism, offering winners opportunities for international exposure…"
+    },
     {
       "title": "As IMF Backs BoG Reforms, Critics Count the Cost of Cedi Stability",
       "link": "https://thehighstreetjournal.com/as-imf-backs-bog-reforms-critics-count-the-cost-of-cedi-stability/",
@@ -1088,23 +1095,60 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-04T12:58:09.000Z",
       "summary": "Mr Mahama Ayariga, Minister for Local Government, Chieftaincy and Religious Affairs, has warned local government officials against engaging in or condoning illegal mining activities."
-    },
-    {
-      "title": "Ghana's inflation rises for third straight month as services costs soar",
-      "link": "https://www.graphic.com.gh/news/general-news/ghanas-inflation-rises-for-third-straight-month-as-services-costs-soar.html",
-      "source": "Graphic Online",
-      "published": "2026-11-04T12:34:13.000Z",
-      "summary": ""
     }
   ],
   "world": [
     {
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T00:50:28.000Z",
+      "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’."
+    },
+    {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
-      "published": "2026-11-07T22:27:30.000Z",
+      "published": "2026-11-07T22:58:49.000Z",
       "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T00:00:56.000Z",
+      "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas."
+    },
+    {
+      "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+      "link": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+      "source": "France 24",
+      "published": "2026-11-07T22:47:06.000Z",
+      "summary": "A chilling new discovery in Poland, where three bodies have reportedly been found inside the Krakow gunman's home. That's in addition to six people killed and sixteen wounded when the…",
+      "image": "https://s.france24.com/media/display/3454c354-daeb-11f1-8b85-bf1914cabd52/w:1024/p:16x9/AP26311723511956.jpg"
+    },
+    {
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T23:45:45.000Z",
+      "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu."
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-07T22:19:59.000Z",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+      "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T22:21:58.000Z",
+      "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half."
     },
     {
       "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
@@ -1114,11 +1158,11 @@ window.GDC_NEWS = {
       "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power."
     },
     {
-      "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
-      "link": "http://www.africanews.com/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure/",
+      "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+      "link": "http://www.africanews.com/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow/",
       "source": "Africanews",
-      "published": "2026-11-07T21:45:36.000Z",
-      "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks…"
+      "published": "2026-11-07T22:10:54.000Z",
+      "summary": "Footage shows people fleeing as cars speed away during a deadly shooting at Krakow's Main Market Square, which left six people dead and about 15 injured."
     },
     {
       "title": "A correspondent finds Cuba's people struggling",
@@ -1126,6 +1170,13 @@ window.GDC_NEWS = {
       "source": "NPR World",
       "published": "2026-11-07T22:12:06.000Z",
       "summary": "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages."
+    },
+    {
+      "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+      "link": "http://www.africanews.com/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure/",
+      "source": "Africanews",
+      "published": "2026-11-07T21:45:36.000Z",
+      "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks…"
     },
     {
       "title": "Police clash with protesters as anti-government rallies sweep France",
@@ -1242,7 +1293,7 @@ window.GDC_NEWS = {
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-07T18:14:38.000Z",
-      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg"
     },
     {
@@ -1340,59 +1391,6 @@ window.GDC_NEWS = {
       "source": "Al Jazeera",
       "published": "2026-11-07T19:04:04.000Z",
       "summary": "Demonstration in Berlin calls for an end to arming Israel"
-    },
-    {
-      "title": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
-      "link": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
-      "source": "France 24",
-      "published": "2026-11-07T16:33:53.000Z",
-      "summary": "French prosecutors are investigating a series of fake bomb threats that targeted commercial flights in Europe this week, including trying to establish whether foreign powers may be…",
-      "image": "https://s.france24.com/media/display/04c53f78-dac9-11f1-b612-a575454bc579/w:1024/p:16x9/0e4210476305ece4f8a6aabff01978500875331c.jpg"
-    },
-    {
-      "title": "Houston mayor orders police to limit cooperation with ICE",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houston-mayor-orders-police-to-limit-cooperation-with-ice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T18:55:40.000Z",
-      "summary": "Houston Mayor John Whitmire has instructed police to limit contact with ICE, reversing the city’s previous approach."
-    },
-    {
-      "title": "No clear winner after tight New Zealand general election",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T15:56:28.000Z",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Paraguay’s ousted president charged over banking scandal",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T18:35:15.000Z",
-      "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts."
-    },
-    {
-      "title": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
-      "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-      "source": "France 24",
-      "published": "2026-11-07T15:23:48.000Z",
-      "summary": "A gunman reportedly \"fascinated by far-right ideologies\" shot and killed at least six people and wounded more than a dozen more in Krakow’s main market square on Saturday, Polish…",
-      "image": "https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg"
-    },
-    {
-      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-      "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T18:00:21.000Z",
-      "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu."
-    },
-    {
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-07T15:19:35.000Z",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
   "africa": [
