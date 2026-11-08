@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-08T19:19:13.771Z",
+  "updated": "2026-11-08T22:58:02.236Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,66 +25,131 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "KNUST student dies after diving from 17.6-foot platform into swimming pool",
-      "link": "https://www.myjoyonline.com/knust-student-dies-after-diving-from-17-6-foot-platform-into-swimming-pool/",
+      "title": "King Charles leads solemn Remembrance Sunday service at Cenotaph",
+      "link": "https://www.myjoyonline.com/king-charles-leads-solemn-remembrance-sunday-service-at-cenotaph/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T19:10:40.000Z",
-      "summary": "A student of the Kwame Nkrumah University of Science and Technology (KNUST) in Kumasi has died after diving from a 17.6-foot-high platform into a swimming pool on campus. The deceased…",
+      "published": "2026-11-08T22:54:46.000Z",
+      "summary": "King Charles III led the nation in a solemn two-minute silence on Remembrance Sunday in London to honour veterans who had died in conflict.",
       "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "KNUST student",
-        "swimming pool"
+        "International",
+        "King Charles III",
+        "Remembrance Sunday"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/KNUST-student-e1794165001389.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-711-1024x576.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "MMFL selects five teams for Fintech Lab finals",
-      "link": "https://www.myjoyonline.com/mmfl-selects-five-teams-for-fintech-lab-finals/",
+      "title": "White House vows to keep up immigration crackdown after midterms defeat",
+      "link": "https://www.myjoyonline.com/white-house-vows-to-keep-up-immigration-crackdown-after-midterms-defeat/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T18:48:54.000Z",
-      "summary": "MobileMoney Fintech LTD (MMFL) has selected five teams from the Accra Zonal Hackathon Pitch Competition of the 2026 MoMo Fintech Lab to advance to the National Mentorship Programme.",
+      "published": "2026-11-08T22:45:59.000Z",
+      "summary": "US President Donald Trump's administration has vowed not to change course on its mass deportation plans after last week's midterm elections defeat.",
       "categories": [
-        "News",
-        "Photo Story",
-        "Hackathon",
-        "MobileMoney Fintech LTD"
+        "International",
+        "Immigration",
+        "White House"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/B29A0671_2.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Deportation-754x424-1.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "We are united and ready to fight for Africa’s interests at COP31 – AGN Chair",
-      "link": "https://www.myjoyonline.com/we-are-united-and-ready-to-fight-for-africas-interests-at-cop31-agn-chair/",
+      "title": "Nvidia launches investigation into CEO’s affair with suspected Chinese spy",
+      "link": "https://www.myjoyonline.com/nvidia-launches-investigation-into-ceos-affair-with-suspected-chinese-spy/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T18:45:01.000Z",
-      "summary": "Nearly 200 countries are converging on Antalya, Türkiye, from November 9 to 20 to advance the implementation of the Paris Agreement on climate change, amid mounting pressure on world…",
+      "published": "2026-11-08T22:40:46.000Z",
+      "summary": "US tech giant Nvidia has opened an independent investigation following reports that its CEO, Jensen Huang, had a relationship with a suspected Chinese spy.",
       "categories": [
-        "National",
-        "Africa",
-        "Climate change",
-        "COP31"
+        "International",
+        "Technology",
+        "Nvidia"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-700-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-710-1024x575.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Judicial Service staff extend indefinite strike as gov’t fails to respond to final demands",
-      "link": "https://www.myjoyonline.com/judicial-service-staff-extend-indefinite-strike-as-govt-fails-to-respond-to-final-demands/",
+      "title": "England await Guehi scan results after injury concern",
+      "link": "https://www.myjoyonline.com/england-await-guehi-scan-results-after-injury-concern/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T18:37:44.000Z",
-      "summary": "The Judicial Service Staff Association of Ghana (JUSAG) and the Judicial Service Staff Association of Ghana's Union (SSAJUG) have announced that their indefinite strike will continue on…",
+      "published": "2026-11-08T22:37:08.000Z",
+      "summary": "Manchester City defender Marc Guehi will undergo a scan for a hip complaint on Sunday to determine whether he can report for England duty this week.",
       "categories": [
-        "HP News 1",
-        "National",
-        "JUSAG",
-        "SSAJUG",
-        "Strike"
+        "Football",
+        "England",
+        "Marc Guehi"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2023/09/ahh.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-709.png",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Leeds condemn racist abuse of Bogle after Tel incident",
+      "link": "https://www.myjoyonline.com/leeds-condemn-racist-abuse-of-bogle-after-tel-incident/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T22:33:45.000Z",
+      "summary": "Leeds United have condemned the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
+      "categories": [
+        "Football",
+        "Bogle",
+        "Leeds",
+        "Racism"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-708.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fan injured after falling through hole in stand",
+      "link": "https://www.myjoyonline.com/fan-injured-after-falling-through-hole-in-stand/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T22:29:17.000Z",
+      "summary": "A fan was taken to hospital after several Bodo/Glimt supporters fell through a hole in the away stand at Tromso.",
+      "categories": [
+        "Football",
+        "Fan injured"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-707.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GPL 2026/27: Kotoko remain winless on the road after defeat to Chelsea",
+      "link": "https://www.myjoyonline.com/gpl-2026-27-kotoko-remain-winless-on-the-road-after-defeat-to-chelsea/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T22:21:16.000Z",
+      "summary": "The Porcupine Warriors suffered a 2-1 defeat in Berekum despite scoring first in the game as the two teams met on matchday 10 of the Ghanaian top flight.",
+      "categories": [
+        "Football",
+        "National",
+        "Asante Kotoko",
+        "Berekum Chelsea",
+        "Ghana Premier League"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Chelsea.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fermin double seals Barcelona’s comeback win at Atleti",
+      "link": "https://www.myjoyonline.com/fermin-double-seals-barcelonas-comeback-win-at-atleti/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T22:19:00.000Z",
+      "summary": "Fermin Lopez scored twice as Barcelona came from behind to claim a gritty win over Atletico Madrid, which maintained their advantage at the top of La Liga.",
+      "categories": [
+        "Football",
+        "Atletico Madrid",
+        "Barcelona 2023",
+        "Fermin Lopez"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-706.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KNUST management confirms drowning of Level 300 student in campus swimming pool",
+      "link": "https://www.graphic.com.gh/news/general-news/knust-management-confirms-drowning-of-level-300-student-in-campus-swimming-pool.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T20:18:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/07/agyapong.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Minority files motion for Parliamentary Inquiry into alleged sale of Diplomatic, Service Passports",
@@ -99,22 +164,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Minority alleges 300 Ghanaians travelled abroad on passports obtained through an illegal scheme",
-      "link": "https://www.myjoyonline.com/minority-alleges-300-ghanaians-travelled-abroad-on-passports-obtained-through-an-illegal-scheme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T18:27:15.000Z",
-      "summary": "The Minority in Parliament has alleged that approximately 300 Ghanaians have travelled to Europe and other destinations using diplomatic and service passports purportedly obtained through…",
-      "categories": [
-        "HP News 10",
-        "National",
-        "Ablakwa",
-        "Minority",
-        "Passports"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/One-3-1024x511.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "VIDEO: Minority on why Foreign Affairs ministry cannot probe itself in alleged diplomatic, service passports sale to private individuals",
       "link": "https://www.graphic.com.gh/news/politics/minority-on-why-foreign-affairs-ministry-cannot-probe-itself-in-alleged-diplomatic-and-service-passport-sale-to-private-individuals.html",
       "source": "Daily Graphic",
@@ -125,54 +174,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/07/minority_passports.jpg",
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Minority presents bank, mobile money records in alleged diplomatic passport-selling scheme",
-      "link": "https://www.myjoyonline.com/minority-presents-bank-mobile-money-records-in-alleged-diplomatic-passport-selling-scheme/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T18:18:59.000Z",
-      "summary": "The Minority in Parliament says it has obtained bank deposit receipts and mobile money transaction records allegedly showing payments made to an agent linked to an operation involving the…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Ablakwa",
-        "Jinapor",
-        "Minority"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/02/Samuel-Abu-Jinapor-636x424-1.jpg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2026/27 Ghana League: Dreams FC surrender late lead as Debibi United snatch stoppage-time draw",
-      "link": "https://www.myjoyonline.com/2026-27-ghana-league-dreams-fc-surrender-late-lead-as-debibi-united-snatch-stoppage-time-draw/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T18:17:59.000Z",
-      "summary": "Dreams FC were denied a much-needed victory after Kwadwo Obeng Junior scored in stoppage time to earn Debibi United a 1-1 draw in their Ghana Premier League match-week 10 encounter at the…",
-      "categories": [
-        "Football",
-        "Sports",
-        "2026/27 Ghana Premier League",
-        "Debibi United",
-        "Dreams Fc"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/AD836394-8DEB-4336-BAC7-370E9FBA2C70.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority to file motion for parliamentary probe into alleged sale of diplomatic, service passports",
-      "link": "https://www.myjoyonline.com/minority-to-file-motion-for-parliamentary-probe-into-alleged-sale-of-diplomatic-service-passports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T18:14:03.000Z",
-      "summary": "The Minority in Parliament will on Monday, November 9, file a motion seeking the establishment of an Ad Hoc Committee to investigate allegations of irregular issuance and sale of Ghanaian…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Ablakwa",
-        "Jinapor",
-        "Minority"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-4.27.11-am-1024x638.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Foreign Affairs Ministry interdicts 2 officers over alleged passport fraud",
@@ -227,18 +228,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-public-office-holders-explain-stalled-projects-account-for-taxpayers-money.html",
       "source": "Daily Graphic",
       "published": "2026-11-08T02:33:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/08/GJA-Mahama-President-Mahama-inset-addressing-participants-at-the-awards-ceremony--780x470.webp",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Government to allocate GH¢10million in 2027 Budget for Media Development Fund - President Mahama",
-      "link": "https://www.graphic.com.gh/news/general-news/government-to-allocate-ghc10million-for-media-development-fund-president-mahama.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-08T01:56:16.000Z",
       "summary": "",
       "categories": [
         "General News"
