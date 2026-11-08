@@ -3,7 +3,7 @@
  * .github/workflows/live-rates.yml every 20 minutes. Do not edit by hand.
  */
 window.GDC_MARKETS = {
-  "updated": "2026-11-07T22:30:18.053Z",
+  "updated": "2026-11-08T01:47:36.823Z",
   "note": "Market prices as last traded, from Yahoo Finance, with the cedi pairs on a daily mid-market rate. Exchanges close overnight and at weekends, so a price carries the moment it was quoted.",
   "source": "Yahoo Finance, with daily mid-market rates for the cedi",
   "log": [
@@ -2433,7 +2433,7 @@ window.GDC_MARKETS = {
         "prev": 2.856,
         "change": 0.142,
         "pct": 4.97,
-        "at": "2026-11-06T21:59:58.000Z",
+        "at": "2026-10-15T20:59:57.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -2613,6 +2613,10 @@ window.GDC_MARKETS = {
           },
           {
             "date": "2026-11-06",
+            "value": 2.998
+          },
+          {
+            "date": "2026-10-15",
             "value": 2.998
           }
         ]
@@ -3296,11 +3300,11 @@ window.GDC_MARKETS = {
         "name": "Bitcoin",
         "unit": "US$",
         "dec": 0,
-        "value": 75618.04,
-        "prev": 77345.05,
-        "change": -1727.01,
-        "pct": -2.23,
-        "at": "2026-11-07T22:30:11.000Z",
+        "value": 75667.42,
+        "prev": 80405.29,
+        "change": -4737.87,
+        "pct": -5.89,
+        "at": "2026-11-08T01:47:25.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3513,6 +3517,10 @@ window.GDC_MARKETS = {
           {
             "date": "2026-11-07",
             "value": 75618.04
+          },
+          {
+            "date": "2026-11-08",
+            "value": 75667.42
           }
         ]
       },
@@ -3521,11 +3529,11 @@ window.GDC_MARKETS = {
         "name": "Ethereum",
         "unit": "US$",
         "dec": 0,
-        "value": 2230,
-        "prev": 2272.7258,
-        "change": -42.7258,
-        "pct": -1.88,
-        "at": "2026-11-07T22:30:07.000Z",
+        "value": 2232.57,
+        "prev": 2422.3118,
+        "change": -189.742,
+        "pct": -7.83,
+        "at": "2026-11-08T01:47:23.000Z",
         "history": [
           {
             "date": "2026-09-16",
@@ -3738,6 +3746,10 @@ window.GDC_MARKETS = {
           {
             "date": "2026-11-07",
             "value": 2230
+          },
+          {
+            "date": "2026-11-08",
+            "value": 2232.57
           }
         ]
       }
