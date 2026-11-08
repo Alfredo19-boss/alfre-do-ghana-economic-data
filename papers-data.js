@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-08T01:44:44.461Z",
+  "updated": "2026-11-08T08:00:26.311Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,70 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "JUSAG vows to continue strike if government fails to meet revised demands",
+      "link": "https://www.myjoyonline.com/jusag-vows-to-continue-strike-if-government-fails-to-meet-revised-demands/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T04:58:21.000Z",
+      "summary": "The Judicial Service Staff Association of Ghana (JUSAG) says its ongoing strike will continue if the government fails to meet its revised demands over members’ conditions of service. The…",
+      "categories": [
+        "HP News 3",
+        "National",
+        "demands",
+        "JUSAG",
+        "Strike"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "KETASCO champions of KGL Mental-Slam in Volta Region",
+      "link": "https://www.myjoyonline.com/ketasco-champions-of-kgl-mental-slam-in-volta-region/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T04:51:56.000Z",
+      "summary": "Keta Senior High Technical School (KETASCO) were crowned champions in the girls' and boys’ categories of the Volta Region version of the KGL Mental-Slam basketball competition. The KETASCO…",
+      "categories": [
+        "News",
+        "Other Sports",
+        "Sports",
+        "Keta Senior High Technical School",
+        "KGL Mental-Slam"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/KETASCO-champions-of-KGL-Mental-Slam-in-Volta-Region-1024x576.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asempa FM’s Ekosiisen wins Best Radio Programme of the Year (Ghanaian Language)",
+      "link": "https://www.myjoyonline.com/asempa-fms-ekosiisen-wins-best-radio-programme-of-the-year-ghanaian-language/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T02:20:11.000Z",
+      "summary": "Asempa FM’s flagship current affairs programme, Ekosiisen, has won the Best Radio Programme of the Year (Ghanaian Language) award at the 30th Ghana Journalists Association (GJA) Media…",
+      "categories": [
+        "Radio & TV",
+        "Asempa FM",
+        "Ekosiisen",
+        "GJA Media Awards"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_9079-1024x703.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Asempa FM’s Philip Osei Bonsu ‘O.B.’ named 2026 GJA Journalist of the Year",
+      "link": "https://www.myjoyonline.com/asempa-fms-philip-osei-bonsu-o-b-named-2026-gja-journalist-of-the-year/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T01:57:07.000Z",
+      "summary": "Asempa FM’s Philip Osei Bonsu, popularly known as O.B., has been named the 2026 Ghana Journalists Association (GJA) Journalist of the Year at the 30th GJA Media Awards in Accra. The award…",
+      "categories": [
+        "National",
+        "Top Story",
+        "30th Media awards",
+        "GJA",
+        "Journalist of the Year",
+        "Philip Osei Bonsu"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-01.51.54-2.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "BoG Governor Johnson Asiama says professional journalism is vital in fighting digital misinformation",
       "link": "https://www.myjoyonline.com/bog-governor-johnson-asiama-says-professional-journalism-is-vital-in-fighting-digital-misinformation/",
@@ -90,56 +154,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Government renews commitment to unravel Ahmed Suale’s murder – Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/government-renews-commitment-to-unravel-ahmed-suales-murder-kwakye-ofosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T00:05:53.000Z",
-      "summary": "The government has reaffirmed its commitment to unraveling the murder of investigative journalist Ahmed Suale, whose killing in January 2019 remains unsolved. Speaking on behalf of…",
-      "categories": [
-        "National",
-        "Ahmed Suale",
-        "Kwakye Ofosu",
-        "Murder",
-        "Press Freedom"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images-11-1.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Tennis Federation boss, Aboagye Duah, elected as West Africa Prez & Veep at Tennis Africa",
-      "link": "https://www.myjoyonline.com/ghana-tennis-federation-boss-aboagye-duah-elected-as-west-africa-prez-veep-at-tennis-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T00:05:18.000Z",
-      "summary": "LUANDA, ANGOLA, 7 November 2026 — Ghana has secured a significant leadership position in African tennis following the election of Mr Isaac Aboagye Duah, President of the Ghana Tennis…",
-      "categories": [
-        "Athletics",
-        "Comp. Sports",
-        "HP Sports 2",
-        "Sports",
-        "Tennis",
-        "Aboagye Duah",
-        "Ghana Tennis Federation",
-        "GTF"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_5410.JPG-1024x768.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government does not expect favourable headlines from media – Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/government-does-not-expect-favourable-headlines-from-media-kwakye-ofosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T23:50:43.000Z",
-      "summary": "The government has reaffirmed its commitment to media freedom, saying it does not expect favourable headlines from journalists as a condition for engagement with the media. Speaking on…",
-      "categories": [
-        "National",
-        "Favourable headlines",
-        "GJA Media Awards",
-        "Media"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-23.13.30-1024x619.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Nigeria crowned FIFA U-17 Women’s World Champions after victory over Japan",
       "link": "https://www.graphic.com.gh/sports/sports-news/nigeria-crowned-fifa-u-17-womens-world-champions-after-victory-over-japan.html",
       "source": "Graphic Sports",
@@ -150,23 +164,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/07/CHAMPS_NIGERIA.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Threatening to kill the President and his children is criminality, not free speech – Kwakye Ofosu",
-      "link": "https://www.myjoyonline.com/threatening-to-kill-the-president-and-his-children-is-criminality-not-free-speech-kwakye-ofosu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T23:44:11.000Z",
-      "summary": "Minister of State in charge of Government Communications, Felix Kwakye Ofosu, has described threats to kill President John Dramani Mahama and his children as “brazen criminality”, insisting…",
-      "categories": [
-        "National",
-        "Top Story",
-        "criminality",
-        "Free speech",
-        "Kwakye Ofosu",
-        "Mahama"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-23.13.30-1024x619.png",
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "57-year-old engaged in shoplifting incidents shown in several social media videos arrested by police",
