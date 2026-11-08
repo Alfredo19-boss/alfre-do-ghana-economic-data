@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-08T08:00:26.311Z",
+  "updated": "2026-11-08T14:57:03.869Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,133 +25,217 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "JUSAG vows to continue strike if government fails to meet revised demands",
-      "link": "https://www.myjoyonline.com/jusag-vows-to-continue-strike-if-government-fails-to-meet-revised-demands/",
+      "title": "T-bills auction: Government records 41% oversubscription; but yield on 91-day bill increases",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-41-oversubscription-but-yield-on-91-day-bill-increases/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T04:58:21.000Z",
-      "summary": "The Judicial Service Staff Association of Ghana (JUSAG) says its ongoing strike will continue if the government fails to meet its revised demands over members’ conditions of service. The…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "demands",
-        "JUSAG",
-        "Strike"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/images.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KETASCO champions of KGL Mental-Slam in Volta Region",
-      "link": "https://www.myjoyonline.com/ketasco-champions-of-kgl-mental-slam-in-volta-region/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T04:51:56.000Z",
-      "summary": "Keta Senior High Technical School (KETASCO) were crowned champions in the girls' and boys’ categories of the Volta Region version of the KGL Mental-Slam basketball competition. The KETASCO…",
-      "categories": [
-        "News",
-        "Other Sports",
-        "Sports",
-        "Keta Senior High Technical School",
-        "KGL Mental-Slam"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/KETASCO-champions-of-KGL-Mental-Slam-in-Volta-Region-1024x576.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asempa FM’s Ekosiisen wins Best Radio Programme of the Year (Ghanaian Language)",
-      "link": "https://www.myjoyonline.com/asempa-fms-ekosiisen-wins-best-radio-programme-of-the-year-ghanaian-language/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T02:20:11.000Z",
-      "summary": "Asempa FM’s flagship current affairs programme, Ekosiisen, has won the Best Radio Programme of the Year (Ghanaian Language) award at the 30th Ghana Journalists Association (GJA) Media…",
-      "categories": [
-        "Radio & TV",
-        "Asempa FM",
-        "Ekosiisen",
-        "GJA Media Awards"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/IMG_9079-1024x703.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Asempa FM’s Philip Osei Bonsu ‘O.B.’ named 2026 GJA Journalist of the Year",
-      "link": "https://www.myjoyonline.com/asempa-fms-philip-osei-bonsu-o-b-named-2026-gja-journalist-of-the-year/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T01:57:07.000Z",
-      "summary": "Asempa FM’s Philip Osei Bonsu, popularly known as O.B., has been named the 2026 Ghana Journalists Association (GJA) Journalist of the Year at the 30th GJA Media Awards in Accra. The award…",
-      "categories": [
-        "National",
-        "Top Story",
-        "30th Media awards",
-        "GJA",
-        "Journalist of the Year",
-        "Philip Osei Bonsu"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-01.51.54-2.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG Governor Johnson Asiama says professional journalism is vital in fighting digital misinformation",
-      "link": "https://www.myjoyonline.com/bog-governor-johnson-asiama-says-professional-journalism-is-vital-in-fighting-digital-misinformation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T00:21:05.000Z",
-      "summary": "Bank of Ghana Governor, Dr Johnson Pandit Asiama, has described professional journalism as “society’s compass”, saying it remains essential in helping citizens navigate the growing…",
-      "categories": [
-        "National",
-        "BoG",
-        "Journalism",
-        "Misinformation"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-00.00.13-768x1024.jpeg",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Egypt sacks coach Hossam Hassan over ‘negative impact’ on team image",
-      "link": "https://www.myjoyonline.com/egypt-sacks-coach-hossam-hassan-over-negative-impact-on-team-image/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T00:15:56.000Z",
-      "summary": "Egypt coach Hossam Hassan was sacked on Saturday for what the soccer federation cited as “a negative impact on the positive image of the team.” The Egyptian Football Association did not…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 3",
-        "Sports",
-        "Egypt",
-        "Hossam Hassan",
-        "Sport"
-      ],
-      "image": null,
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "BoG introduces economic and financial journalism award with international training opportunities at 30th GJA Media Awards",
-      "link": "https://www.myjoyonline.com/bog-introduces-economic-and-financial-journalism-award-with-international-training-opportunities-at-30th-gja-media-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T00:15:34.000Z",
-      "summary": "The Bank of Ghana (BoG) has announced a new award scheme to recognise excellence in economic and financial journalism, offering winners opportunities for international exposure…",
+      "published": "2026-11-08T14:55:34.000Z",
+      "summary": "A little over GH¢3.0 billion of the bids came from the 91-day bill, representing 59% of the total bids. The uptake was about GH¢2.9 billion",
       "categories": [
         "Business",
-        "National",
-        "Bank of Ghana",
-        "Financial story of the year",
-        "GJA Media Awards",
-        "Governor"
+        "Economy",
+        "182-day",
+        "364-day",
+        "91-day",
+        "BoG",
+        "Interest rates",
+        "T-Bills"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-08-at-00.00.13-768x1024.jpeg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/09/treasury-bills.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Real Madrid beat Valencia to move level on points with leaders Barcelona",
-      "link": "https://www.myjoyonline.com/real-madrid-beat-valencia-to-move-level-on-points-with-leaders-barcelona/",
+      "title": "GMA urges gov’t to intensify Ebola preparedness after detection of Bundibugyo strain in Nigeria",
+      "link": "https://www.myjoyonline.com/gma-urges-govt-to-intensify-ebola-preparedness-after-detection-of-bundibugyo-strain-in-nigeria/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T00:11:47.000Z",
-      "summary": "Real Madrid moved level on points with La Liga leaders Barcelona after a comfortable victory at struggling Valencia. Captain Federico Valverde opened the scoring in the 28th minute with a…",
+      "published": "2026-11-08T14:30:10.000Z",
+      "summary": "The Ghana Medical Association (GMA) has urged the government to intensify preparations against a possible Ebola outbreak following the reported detection of the Bundibugyo strain of the…",
       "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 1",
-        "Sports"
+        "Health",
+        "HP News 1",
+        "National",
+        "Ebola",
+        "Ghana Medical Association (GMA)"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/75a2e4b0-daed-11f1-a701-fddedf244c16.jpg.webp",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2020/05/Ebola-coverage.jpg",
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMA proposes dedicated emergency care fund; urges gov’t to explore NHIS, vehicle insurance contributions",
+      "link": "https://www.myjoyonline.com/gma-proposes-dedicated-emergency-care-fund-urges-govt-to-explore-nhis-vehicle-insurance-contributions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:27:22.000Z",
+      "summary": "The Ghana Medical Association (GMA) is demanding a dedicated and sustainable funding mechanism for emergency healthcare to ensure patients receive life-saving treatment without financial…",
+      "categories": [
+        "Health",
+        "HP News 3",
+        "National",
+        "GMA",
+        "NHIS",
+        "no bed syndrome"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-693.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "New DVLA office in Ada to ease vehicle registration, improve road safety",
+      "link": "https://www.myjoyonline.com/new-dvla-office-in-ada-to-ease-vehicle-registration-improve-road-safety/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:26:22.000Z",
+      "summary": "The Driver and Vehicle Licensing Authority (DVLA) has commissioned a new office at Kasseh in the Ada East District of the Greater Accra Region to bring vehicle registration and licensing…",
+      "categories": [
+        "National",
+        "Ada",
+        "DVLA"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/TM022-Social-Ada-DVLA-Pic-2.jpeg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama targets $9bn investment to drive economic transformation by 2030",
+      "link": "https://www.myjoyonline.com/mahama-targets-9bn-investment-to-drive-economic-transformation-by-2030/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:24:59.000Z",
+      "summary": "President John Mahama says his government plans to invest $9 billion in Ghana’s economy between 2027 and 2030 as part of efforts to transform the country’s economic fortunes.",
+      "categories": [
+        "HP News 5",
+        "National",
+        "2027 Budget"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/John-Mahama-1024x646.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GMA calls for nationwide expansion of electronic bed management system to end ‘No Bed Syndrome’",
+      "link": "https://www.myjoyonline.com/gma-calls-for-nationwide-expansion-of-electronic-bed-management-system-to-end-no-bed-syndrome/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:23:13.000Z",
+      "summary": "The Ghana Medical Association (GMA) has called for reforms to Ghana’s emergency healthcare system, including the nationwide expansion of the electronic hospital bed management system, to…",
+      "categories": [
+        "Health",
+        "HP News 2",
+        "National",
+        "News",
+        "electronic bed management",
+        "Ghana Medical Association (GMA)",
+        "‘No Bed Syndrome’"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-690.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "You should probably be eating more whole grains. Here’s what to do",
+      "link": "https://www.myjoyonline.com/you-should-probably-be-eating-more-whole-grains-heres-what-to-do/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:22:09.000Z",
+      "summary": "The secret is out: Eating whole grains is good for you.",
+      "categories": [
+        "Food",
+        "Health",
+        "National",
+        "whole grains"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-689-1024x682.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GJA Awards: Afenyo-Markin calls for repeal of two laws restricting free expression",
+      "link": "https://www.myjoyonline.com/gja-awards-afenyo-markin-calls-for-repeal-of-two-laws-restricting-free-expression/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:20:44.000Z",
+      "summary": "Minority Leader Alexander Afenyo-Markin has called for the repeal of Section 208 of the Criminal Offences Act, 1960 (Act 29), and Section 76 of the Electronic Communications Act, 2008 (Act…",
+      "categories": [
+        "HP News 10",
+        "National",
+        "Afenyo-Markin",
+        "Criminal Offences Act",
+        "Electronic Communications Act"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/Alexander-Afenyo-Markin-624x375-1.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwakye Ofosu: Death threats against a President is not free speech",
+      "link": "https://www.graphic.com.gh/news/general-news/kwakye-ofosu-death-threats-against-president-mahama-are-not-free-speech.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T09:52:28.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/TheMahamas.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GJA Awards: Daily Graphic's Ngnenbe most decorated; O.B. takes top prize (FULL LIST)",
+      "link": "https://www.graphic.com.gh/news/general-news/gja-awards-daily-graphics-ngnenbe-most-decorated-o-b-takes-top-prize-full-list.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T09:14:50.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama to public office holders: Explain stalled projects, account for taxpayers’ money",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-public-office-holders-explain-stalled-projects-account-for-taxpayers-money.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T02:33:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/08/GJA-Mahama-President-Mahama-inset-addressing-participants-at-the-awards-ceremony--780x470.webp",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Government to allocate GH¢10million in 2027 Budget for Media Development Fund - President Mahama",
+      "link": "https://www.graphic.com.gh/news/general-news/government-to-allocate-ghc10million-for-media-development-fund-president-mahama.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T01:56:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/08/GJA-Mahama-President-Mahama-inset-addressing-participants-at-the-awards-ceremony--780x470.webp",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "TraffiTech-GH: Road signs showing where speed cameras are located to be erected this week beginning November 9 - MTTD boss",
+      "link": "https://www.graphic.com.gh/news/general-news/traffitech-gh-road-signs-showing-where-speed-cameras-are-located-to-be-erected-this-week-beginning-november-9-mttd-boss.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T01:51:34.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Oct/10/cctv.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama announces GH¢935million allocation for coastal protection and Blekusu Sea Defence Project",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-announces-ghc935million-allocation-for-coastal-protection-and-blekusu-sea-defence-project.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T01:32:23.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/08/mahama-hogbetsotso.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Speaker Bagbin promises journalists online access to Parliament's records by end of 2026",
+      "link": "https://www.graphic.com.gh/news/general-news/speaker-bagbin-promises-journalists-online-access-to-parliaments-records-by-year-end.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-08T00:58:51.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Sept/24/Bagbin.jpg",
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Nigeria crowned FIFA U-17 Women’s World Champions after victory over Japan",
@@ -188,90 +272,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/07/GPL22.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "ECG cracks down on debtors: Nationwide revenue mobilisation starts November 9",
-      "link": "https://www.graphic.com.gh/news/general-news/ecg-cracks-down-on-debtors-nationwide-revenue-mobilisation-starts-november-9.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T13:39:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2024/feb/19/ECG.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ken Ofori-Atta recalls pandemic and DDEP partnership in tribute to late CLOGSAG boss",
-      "link": "https://www.graphic.com.gh/news/general-news/ken-ofori-atta-recalls-pandemic-and-ddep-partnership-in-tribute-to-late-clogsag-boss.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T12:17:23.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/IMG_5960.JPG.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'A blow to the nation': President Mahama pays tribute to late CLOGSAG boss and twin brother",
-      "link": "https://www.graphic.com.gh/news/general-news/a-blow-to-the-nation-president-mahama-pays-tribute-to-late-clogsag-boss-and-twin-brother.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T11:31:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/draman26.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GES warns teachers against paying for promotion",
-      "link": "https://www.graphic.com.gh/news/education/ges-warns-teachers-against-paying-for-promotion.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T11:15:51.000Z",
-      "summary": "",
-      "categories": [
-        "Education"
-      ],
-      "image": "https://www.graphic.com.gh/images/2016/AUGUST/AUG4/teach.png",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Travelling to Ghana? New mandatory health declaration rule takes effect next week",
-      "link": "https://www.graphic.com.gh/news/general-news/travelling-to-ghana-new-mandatory-health-declaration-rule-takes-effect-next-week.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T11:12:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/screen.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "'Consent to a relationship is not consent to be recorded' – Gender Ministry warns",
-      "link": "https://www.graphic.com.gh/news/general-news/consent-to-a-relationship-is-not-consent-to-be-recorded---gender-ministry-warns.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T10:54:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2025/nov/15/Sextortion.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Rural Healthcare: Titus Medical Centre offers lifeline to rural snakebite victims",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-rural-healthcare-titus-medical-centre-offers-lifeline-to-rural-snakebite-victims.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-07T10:11:39.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/07/Centre.jpg",
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Bellingham brothers set for England reunion as Jobe earns first call-up",
