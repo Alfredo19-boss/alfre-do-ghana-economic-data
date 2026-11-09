@@ -8,17 +8,6 @@ import { load, save } from "./lib/datafile.mjs";
 
 const FILE = new URL("../auto-data.js", import.meta.url).pathname;
 const BOG_FX_URL = "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/";
-// The daily page builds its table through a date picker, so the HTML that arrives from a plain
-// request can carry a stale default row. These are tried in order and the NEWEST row found
-// across all of them wins, so a page that does serve today's figures is used whichever it is.
-// If BoG publishes nothing usable the job says so and falls back, clearly labelled, to a
-// market mid-rate — it never presents someone else's number as the Bank of Ghana's.
-export const BOG_SOURCES = [
-  BOG_FX_URL,
-  `${BOG_FX_URL}?date=${new Date().toISOString().slice(0, 10)}`,
-  "https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/",
-  "https://www.bog.gov.gh/treasury-and-the-markets/historical-interbank-fx-rates/?orderby=date&order=desc"
-];
 const CURRENCY_API_URLS = [
   "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
   "https://latest.currency-api.pages.dev/v1/currencies/usd.json"
@@ -40,43 +29,17 @@ async function get(url, as = "text") {
   return as === "json" ? res.json() : res.text();
 }
 
-// The headline pairs. The character class has to allow everything BoG puts in the currency
-// name column — apostrophes, brackets, hyphens — or a row like "Pound Sterling (UK)" is
-// skipped here while the full-table parser below reads it happily, and the two then disagree
-// about what day it is. Every matching row is considered and the newest wins.
 export function parseBogFx(html) {
   const text = html.replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ");
   const out = {};
   for (const [code, key] of [["USDGHS", "fx.usd"], ["GBPGHS", "fx.gbp"], ["EURGHS", "fx.eur"]]) {
-    const re = new RegExp(`(\\d{1,2})\\s+([A-Za-z]{3})[a-z]*\\s+(\\d{4})\\s+[A-Za-z .()'’-]*?${code}\\s+([\\d.]+)\\s+([\\d.]+)\\s+([\\d.]+)`, "g");
-    let m = null, best = null;
-    while ((m = re.exec(text))) {
-      const mo = MONTHS[m[2].toLowerCase()];
-      if (mo === undefined) continue;
-      const iso = new Date(Date.UTC(+m[3], mo, +m[1])).toISOString().slice(0, 10);
-      if (!best || iso > best.iso) best = { iso, m };
-    }
-    if (!best) continue;
-    m = best.m;
+    const re = new RegExp(`(\\d{1,2})\\s+([A-Za-z]{3})[a-z]*\\s+(\\d{4})\\s+[A-Za-z .]*?${code}\\s+([\\d.]+)\\s+([\\d.]+)\\s+([\\d.]+)`);
+    const m = re.exec(text);
+    if (!m) continue;
     const month = MONTHS[m[2].toLowerCase()];
     if (month === undefined) continue;
     const date = new Date(Date.UTC(+m[3], month, +m[1])).toISOString().slice(0, 10);
     out[key] = { value: +(+m[6]).toFixed(4), date, source: "Bank of Ghana interbank mid-rate", url: BOG_FX_URL };
-  }
-  return out;
-}
-
-// One source, one date. The full-table parser is the more tolerant of the two, so whatever it
-// reads is also used for the three headline cards. Without this the table could carry today's
-// rates while the dollar, pound and euro cards quietly fell back to a market feed dated
-// yesterday — which is exactly what happened on 16 September 2026.
-export function headlineFromTable(table) {
-  const out = {};
-  if (!table || !table.rates) return out;
-  for (const [code, key] of [["USD", "fx.usd"], ["GBP", "fx.gbp"], ["EUR", "fx.eur"]]) {
-    const r = table.rates[code];
-    if (!r || !(r.ghs > 0) || r.src !== "BoG") continue;
-    out[key] = { value: +r.ghs.toFixed(4), date: table.date, source: "Bank of Ghana interbank mid-rate", url: BOG_FX_URL };
   }
   return out;
 }
@@ -189,24 +152,13 @@ async function main() {
     tickerCodes = [...(D.fxTicker?.world || []), ...(D.fxTicker?.africa || [])].map(c => c.code);
   } catch (e) { log.push(`could not read ticker currencies from data.js: ${e.message}`); }
 
-  // 1. Exchange rates: Bank of Ghana first, across every page shape it publishes
-  let bogDate = null;
-  for (const url of BOG_SOURCES) {
-    try {
-      const html = await get(url);
-      const table = parseBogTable(html);
-      // the table first, the headline regex only for anything it did not cover
-      const rows = { ...parseBogFx(html), ...headlineFromTable(table) };
-      const seen = table ? table.date : (Object.values(rows)[0] || {}).date;
-      if (!seen) { log.push(`BoG FX ${url}: no rows found`); continue; }
-      if (bogDate && seen <= bogDate) { log.push(`BoG FX ${url}: ${seen}, not newer than ${bogDate}`); continue; }
-      bogDate = seen;
-      Object.assign(fresh, rows);
-      if (table) bogTable = table;
-      log.push(`BoG FX ${url}: ${seen} · ${Object.keys(rows).join(", ") || "headline pairs missing"}; table ${table ? Object.keys(table.rates).length + " currencies" : "not found"}`);
-    } catch (e) { log.push(`BoG FX ${url} failed: ${e.message}`); }
-  }
-  if (!bogDate) log.push("BoG published nothing usable today; the market mid-rate below is used instead and is labelled as such.");
+  // 1. Exchange rates: Bank of Ghana first
+  try {
+    const html = await get(BOG_FX_URL);
+    Object.assign(fresh, parseBogFx(html));
+    bogTable = parseBogTable(html);
+    log.push(`BoG FX: ${Object.keys(fresh).join(", ") || "no rows found"}; table ${bogTable ? Object.keys(bogTable.rates).length + " currencies" : "not found"}`);
+  } catch (e) { log.push(`BoG FX failed: ${e.message}`); }
 
   // 2. Gold, other currencies, plus fallback exchange rates if BoG failed
   for (const url of CURRENCY_API_URLS) {
