@@ -3,17 +3,17 @@
  * Do not edit by hand.
  */
 window.GDC_AFRICA = {
-  "updated": "2026-11-09T16:52:55.735Z",
+  "updated": "2026-09-13T18:33:25.186Z",
   "indicator": "Consumer price inflation, % on a year earlier",
-  "note": "The prevailing rate: each country's most recently published month-on-year consumer price inflation. Countries publish at different times, so the month shown differs between them. Ghana's own figure is the Ghana Statistical Service reading carried across from the dashboard; every other country comes from the World Bank's monthly series.",
-  "source": "World Bank Global Economic Monitor",
-  "sourceUrl": "https://datacatalog.worldbank.org/infrastructure-data/search/dataset/0037798/Global-Economic-Monitor",
+  "note": "The prevailing rate: each country's most recently published month-on-year consumer price inflation. Countries publish at different times, so the month shown differs between them. Collected from Trading Economics' national statistics table.",
+  "source": "Trading Economics, from national statistics offices",
+  "sourceUrl": "https://tradingeconomics.com/country-list/inflation-rate?continent=africa",
   "ghana": {
-    "value": 5.5,
-    "period": "Oct 2026",
-    "key": "2026-10"
+    "value": 5,
+    "period": "Aug 2026",
+    "key": "2026-08"
   },
-  "ghanaRank": 32,
+  "ghanaRank": 29,
   "countries": {
     "EGY": {
       "name": "Egypt",
@@ -29,12 +29,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 14.5
         }
-      ],
-      "gdp": {
-        "value": 429.64,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "LBY": {
       "name": "Libya",
@@ -50,12 +45,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 13
         }
-      ],
-      "gdp": {
-        "value": 52.45,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "DZA": {
       "name": "Algeria",
@@ -71,12 +61,7 @@ window.GDC_AFRICA = {
           "date": "2026-06",
           "value": 7.62
         }
-      ],
-      "gdp": {
-        "value": 317.17,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "TUN": {
       "name": "Tunisia",
@@ -92,12 +77,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 5.4
         }
-      ],
-      "gdp": {
-        "value": 60.74,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "MAR": {
       "name": "Morocco",
@@ -113,12 +93,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": -0.6
         }
-      ],
-      "gdp": {
-        "value": 194.33,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "NGA": {
       "name": "Nigeria",
@@ -134,12 +109,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 15.43
         }
-      ],
-      "gdp": {
-        "value": 377.37,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "SLE": {
       "name": "Sierra Leone",
@@ -155,12 +125,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 14.89
         }
-      ],
-      "gdp": {
-        "value": 8.27,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "GMB": {
       "name": "The Gambia",
@@ -176,12 +141,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 7.05
         }
-      ],
-      "gdp": {
-        "value": 2.79,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "GIN": {
       "name": "Guinea",
@@ -197,12 +157,7 @@ window.GDC_AFRICA = {
           "date": "2026-06",
           "value": 6.1
         }
-      ],
-      "gdp": {
-        "value": 29.93,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "MRT": {
       "name": "Mauritania",
@@ -218,12 +173,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 5
         }
-      ],
-      "gdp": {
-        "value": 14.35,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "LBR": {
       "name": "Liberia",
@@ -239,41 +189,23 @@ window.GDC_AFRICA = {
           "date": "2026-06",
           "value": 5
         }
-      ],
-      "gdp": {
-        "value": 5.64,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "GHA": {
       "name": "Ghana",
       "region": "West",
       "latest": {
-        "value": 5.5,
-        "period": "Oct 2026",
-        "key": "2026-10"
+        "value": 5,
+        "period": "Aug 2026",
+        "key": "2026-08"
       },
-      "prev": 5.2,
+      "prev": 4.6,
       "series": [
         {
           "date": "2026-08",
           "value": 5
-        },
-        {
-          "date": "2026-09",
-          "value": 5.2
-        },
-        {
-          "date": "2026-10",
-          "value": 5.5
         }
-      ],
-      "gdp": {
-        "value": 118.29,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "MLI": {
       "name": "Mali",
@@ -289,12 +221,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 3.3
         }
-      ],
-      "gdp": {
-        "value": 33.85,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "CIV": {
       "name": "Côte d'Ivoire",
@@ -310,12 +237,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 1.9
         }
-      ],
-      "gdp": {
-        "value": 112.11,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "SEN": {
       "name": "Senegal",
@@ -331,12 +253,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 1.2
         }
-      ],
-      "gdp": {
-        "value": 40.47,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "TGO": {
       "name": "Togo",
@@ -352,12 +269,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 0.7
         }
-      ],
-      "gdp": {
-        "value": 13.44,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "CPV": {
       "name": "Cape Verde",
@@ -373,12 +285,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 0.4
         }
-      ],
-      "gdp": {
-        "value": 3.45,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "BFA": {
       "name": "Burkina Faso",
@@ -394,12 +301,7 @@ window.GDC_AFRICA = {
           "date": "2026-05",
           "value": 0.1
         }
-      ],
-      "gdp": {
-        "value": 32.51,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "BEN": {
       "name": "Benin",
@@ -415,12 +317,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 0
         }
-      ],
-      "gdp": {
-        "value": 27.79,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "GNB": {
       "name": "Guinea-Bissau",
@@ -436,12 +333,7 @@ window.GDC_AFRICA = {
           "date": "2026-06",
           "value": -1
         }
-      ],
-      "gdp": {
-        "value": 2.98,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "NER": {
       "name": "Niger",
@@ -457,12 +349,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": -2
         }
-      ],
-      "gdp": {
-        "value": 24.81,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "SSD": {
       "name": "South Sudan",
@@ -478,12 +365,7 @@ window.GDC_AFRICA = {
           "date": "2024-10",
           "value": 113
         }
-      ],
-      "gdp": {
-        "value": 6.07,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "RWA": {
       "name": "Rwanda",
@@ -499,12 +381,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 15.9
         }
-      ],
-      "gdp": {
-        "value": 17.34,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "ETH": {
       "name": "Ethiopia",
@@ -520,12 +397,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 15.1
         }
-      ],
-      "gdp": {
-        "value": 121.53,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "BDI": {
       "name": "Burundi",
@@ -541,12 +413,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 8.7
         }
-      ],
-      "gdp": {
-        "value": 8.14,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "MDG": {
       "name": "Madagascar",
@@ -562,12 +429,7 @@ window.GDC_AFRICA = {
           "date": "2026-05",
           "value": 8.6
         }
-      ],
-      "gdp": {
-        "value": 21.18,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "SOM": {
       "name": "Somalia",
@@ -583,12 +445,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 6.7
         }
-      ],
-      "gdp": {
-        "value": 14.17,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "KEN": {
       "name": "Kenya",
@@ -604,12 +461,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 6.6
         }
-      ],
-      "gdp": {
-        "value": 147.26,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "ERI": {
       "name": "Eritrea",
@@ -625,12 +477,7 @@ window.GDC_AFRICA = {
           "date": "2025-12",
           "value": 5.3
         }
-      ],
-      "gdp": {
-        "value": 1.98,
-        "year": "2019",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "MUS": {
       "name": "Mauritius",
@@ -646,12 +493,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 4.9
         }
-      ],
-      "gdp": {
-        "value": 17.12,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "TZA": {
       "name": "Tanzania",
@@ -667,12 +509,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 4.3
         }
-      ],
-      "gdp": {
-        "value": 94.89,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "UGA": {
       "name": "Uganda",
@@ -688,12 +525,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 4.1
         }
-      ],
-      "gdp": {
-        "value": 73.37,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "DJI": {
       "name": "Djibouti",
@@ -709,12 +541,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 3.8
         }
-      ],
-      "gdp": {
-        "value": 4.72,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "COM": {
       "name": "Comoros",
@@ -730,12 +557,7 @@ window.GDC_AFRICA = {
           "date": "2025-12",
           "value": 2.1
         }
-      ],
-      "gdp": {
-        "value": 1.81,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "SYC": {
       "name": "Seychelles",
@@ -751,12 +573,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 0.93
         }
-      ],
-      "gdp": {
-        "value": 2.25,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "MWI": {
       "name": "Malawi",
@@ -772,12 +589,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 20.8
         }
-      ],
-      "gdp": {
-        "value": 18.15,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "BWA": {
       "name": "Botswana",
@@ -793,12 +605,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 9.4
         }
-      ],
-      "gdp": {
-        "value": 21.94,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "AGO": {
       "name": "Angola",
@@ -814,12 +621,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 8.78
         }
-      ],
-      "gdp": {
-        "value": 152.35,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "MOZ": {
       "name": "Mozambique",
@@ -835,12 +637,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 6.45
         }
-      ],
-      "gdp": {
-        "value": 23.27,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "ZMB": {
       "name": "Zambia",
@@ -856,12 +653,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 6.2
         }
-      ],
-      "gdp": {
-        "value": 41.24,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "NAM": {
       "name": "Namibia",
@@ -877,12 +669,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 5
         }
-      ],
-      "gdp": {
-        "value": 17.31,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "ZAF": {
       "name": "South Africa",
@@ -898,12 +685,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 4.3
         }
-      ],
-      "gdp": {
-        "value": 479.96,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "ZWE": {
       "name": "Zimbabwe",
@@ -919,12 +701,7 @@ window.GDC_AFRICA = {
           "date": "2026-08",
           "value": 2.9
         }
-      ],
-      "gdp": {
-        "value": 56.71,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "LSO": {
       "name": "Lesotho",
@@ -940,12 +717,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 2.9
         }
-      ],
-      "gdp": {
-        "value": 2.97,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "SWZ": {
       "name": "Eswatini",
@@ -961,12 +733,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 2.5
         }
-      ],
-      "gdp": {
-        "value": 5.79,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "STP": {
       "name": "São Tomé and Príncipe",
@@ -982,12 +749,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 9.5
         }
-      ],
-      "gdp": {
-        "value": 1.16,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "COG": {
       "name": "Congo-Brazzaville",
@@ -1003,12 +765,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 6.1
         }
-      ],
-      "gdp": {
-        "value": 17.03,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "CMR": {
       "name": "Cameroon",
@@ -1024,12 +781,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 3.4
         }
-      ],
-      "gdp": {
-        "value": 65.14,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "COD": {
       "name": "DR Congo",
@@ -1045,12 +797,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 3.18
         }
-      ],
-      "gdp": {
-        "value": 123.41,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "GNQ": {
       "name": "Equatorial Guinea",
@@ -1066,12 +813,7 @@ window.GDC_AFRICA = {
           "date": "2025-12",
           "value": 3.1
         }
-      ],
-      "gdp": {
-        "value": 13.72,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "CAF": {
       "name": "Central African Republic",
@@ -1087,12 +829,7 @@ window.GDC_AFRICA = {
           "date": "2025-07",
           "value": 0.4
         }
-      ],
-      "gdp": {
-        "value": 3.49,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "GAB": {
       "name": "Gabon",
@@ -1108,12 +845,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": 0.2
         }
-      ],
-      "gdp": {
-        "value": 23.36,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     },
     "TCD": {
       "name": "Chad",
@@ -1129,13 +861,7 @@ window.GDC_AFRICA = {
           "date": "2026-07",
           "value": -2
         }
-      ],
-      "gdp": {
-        "value": 25.63,
-        "year": "2026",
-        "source": "IMF estimate"
-      }
+      ]
     }
-  },
-  "gdpNote": "Economy size is nominal GDP in US dollars — IMF estimates for 2026, replaced by the World Bank figure once the monthly job runs."
+  }
 };

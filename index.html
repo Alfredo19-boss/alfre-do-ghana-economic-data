@@ -18,7 +18,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Doto:wght@900&family=Azeret+Mono:wght@500;600&family=Barlow+Semi+Condensed:wght@500;600&family=Barlow:wght@400;500;600&display=swap">
   <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="alfredo-pro.css">
 </head>
 <body>
   <div class="kente" aria-hidden="true"></div>
@@ -49,22 +48,16 @@
       <nav class="view-tabs" aria-label="Site sections">
         <a href="#dashboard" data-view-link="dashboard" aria-current="page">Dashboard</a>
         <a href="#news" data-view-link="news">Business news <span class="badge" id="news-badge" hidden></span></a>
-        <a href="#afrnews" data-view-link="afrnews">African news</a>
         <a href="#africa" data-view-link="africa">Africa inflation</a>
-        <a href="#exchange" data-view-link="exchange">Exchange</a>
-        <a href="#markets" data-view-link="markets">Global markets</a>
-        <a href="#world" data-view-link="world">Global news</a>
         <a href="#papers" data-view-link="papers">Today's papers</a>
-        <a href="#charts" data-view-link="charts">Charts</a>
         <a href="#articles" data-view-link="articles">Articles</a>
-        <a href="https://alfredo19-boss.github.io/Alfredo-Ghana-Economic-Model/model/" id="to-model" target="_top">Economic model</a>
       </nav>
       <span class="nav-date" data-date></span>
     </div>
   </div>
 
-  <div class="ticker" id="ticker" role="region" aria-label="Market exchange rates against the cedi">
-    <div class="ticker-label"><span class="ticker-dot"></span><span>GH¢ market rates</span><b data-fx-date></b></div>
+  <div class="ticker" id="ticker" role="region" aria-label="Exchange rates against the cedi and Ghana's GDP">
+    <div class="ticker-label"><span class="ticker-dot"></span><span>GH¢ rates</span><b data-fx-date></b></div>
     <div class="ticker-viewport" tabindex="0" aria-label="Scrolling rates. Hover or focus to pause."><div class="ticker-track" id="ticker-track"></div></div>
     <button type="button" class="ticker-pause" id="ticker-pause" aria-pressed="false" aria-label="Pause the ticker">
       <svg viewBox="0 0 16 16" aria-hidden="true"><rect x="3" y="2.5" width="3.2" height="11" rx="1"/><rect x="9.8" y="2.5" width="3.2" height="11" rx="1"/></svg>
@@ -405,49 +398,12 @@
     </section>
 
 
-    <!-- African news -->
-    <section class="portal" id="afrnews-view" aria-labelledby="h-afrnews" hidden>
-      <div class="portal-head">
-        <div>
-          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-afrnews">African news</h1>
-          <p class="news-intro">What newsrooms across the continent are reporting — AllAfrica, Africanews, the BBC's Africa service, Deutsche Welle and Al Jazeera, read from their own feeds. Headlines and links only; every story opens on the publisher's own page.</p>
-        </div>
-        <span class="live"><i></i><span id="afrnews-status">Waiting for the first run</span></span>
-      </div>
-
-      <div class="afr-wire" id="afr-wire" hidden aria-live="off">
-        <span class="afr-wire-tag">Africa now</span>
-        <div class="afr-wire-stage" id="afr-wire-stage"></div>
-        <div class="afr-wire-dots" id="afr-wire-dots" aria-hidden="true"></div>
-      </div>
-
-      <div class="world-lead" id="afrnews-lead"></div>
-
-      <div class="block">
-        <div class="block-head">
-          <h2>Across the continent</h2>
-          <p>Newest first, from the last day and a half.</p>
-        </div>
-        <div class="news-search">
-          <label for="afrnews-find" class="sr-only">Search headlines</label>
-          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
-          <input id="afrnews-find" type="search" placeholder="Search: cocoa, election, debt…" autocomplete="off">
-        </div>
-        <div class="src-chips" id="afrnews-sources" hidden></div>
-        <div class="news-grid" id="afrnews-list"></div>
-      </div>
-
-      <p class="news-empty" id="afrnews-empty" hidden>No headlines yet. Run <b>Update business news</b> in the Actions tab to fetch the first set.</p>
-      <p class="note" id="afrnews-note"></p>
-    </section>
-
     <!-- Africa inflation -->
     <section class="portal" id="africa-view" aria-labelledby="h-africa" hidden>
       <div class="portal-head">
         <div>
           <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-africa">Africa inflation</h1>
+          <h1 id="h-africa">Ghana's inflation, against Africa</h1>
           <p class="news-intro" id="africa-intro"></p>
         </div>
         <span class="live"><i></i><span id="africa-status">Loading…</span></span>
@@ -468,105 +424,6 @@
         <div class="panel table-wrap"><table class="rank-table" id="africa-table"></table></div>
         <p class="note" id="africa-note"></p>
       </div>
-    </section>
-
-    <!-- Global markets -->
-    <section class="portal" id="markets-view" aria-labelledby="h-markets-w" hidden>
-      <div class="portal-head">
-        <div>
-          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-markets-w">Global markets</h1>
-          <p class="news-intro" id="markets-intro">What the world is paying for the things Ghana sells and buys — gold, cocoa, oil — alongside the share indices and currencies that move with them. Each price carries the moment it was quoted.</p>
-        </div>
-        <span class="live"><i></i><span id="markets-status">Waiting for the first run</span></span>
-      </div>
-      <div id="markets-body"></div>
-      <p class="news-empty" id="markets-empty" hidden>No prices yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
-
-      <p class="note" id="markets-note"></p>
-    </section>
-
-    <!-- Exchange: the cedi against the world -->
-    <section class="portal" id="exchange-view" aria-labelledby="h-exchange" hidden>
-      <div class="portal-head">
-        <div>
-          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-exchange">Exchange</h1>
-          <p class="news-intro">What the cedi is worth against the world, refreshed through the day. The Bank of Ghana's interbank rate is the official figure; the rest are mid-market rates — the midpoint between buying and selling, before any bank's margin.</p>
-        </div>
-        <span class="live"><i></i><span id="exchange-status">Waiting for the first run</span></span>
-      </div>
-
-      <div class="fx-official" id="fx-official"></div>
-
-      <div class="block">
-        <div class="block-head">
-          <h2>Convert</h2>
-          <p>Type an amount in either box.</p>
-        </div>
-        <div class="fx-convert" id="fx-convert">
-          <div class="fx-side">
-            <label for="fx-amount-ghs">Ghana cedis</label>
-            <div class="fx-field"><span class="fx-code">GH¢</span><input id="fx-amount-ghs" type="text" inputmode="decimal" value="100" autocomplete="off"></div>
-          </div>
-          <button type="button" class="fx-swap" id="fx-swap" aria-label="Swap the two currencies">⇄</button>
-          <div class="fx-side">
-            <label for="fx-amount-other">Other currency</label>
-            <div class="fx-field">
-              <select id="fx-currency" aria-label="Currency to convert to"></select>
-              <input id="fx-amount-other" type="text" inputmode="decimal" autocomplete="off">
-            </div>
-          </div>
-        </div>
-        <p class="fx-line" id="fx-line"></p>
-      </div>
-
-      <div class="block">
-        <div class="block-head">
-          <h2>Every rate</h2>
-          <p>What one unit costs in cedis, and what one cedi buys.</p>
-        </div>
-        <div class="news-search">
-          <label for="fx-find" class="sr-only">Search currencies</label>
-          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
-          <input id="fx-find" type="search" placeholder="Search: naira, euro, CFA…" autocomplete="off">
-        </div>
-        <div class="panel table-wrap"><table class="rank-table fx-table" id="fx-table"></table></div>
-      </div>
-
-      <p class="news-empty" id="exchange-empty" hidden>No rates yet. Run <b>Update live rates</b> in the Actions tab to fetch the first set.</p>
-      <p class="note" id="exchange-note"></p>
-    </section>
-
-    <!-- World news -->
-    <section class="portal" id="world-view" aria-labelledby="h-world" hidden>
-      <div class="portal-head">
-        <div>
-          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-world">Global news</h1>
-          <p class="news-intro" id="world-intro">What the world's newsrooms are reporting right now — Al Jazeera, the BBC, NPR, UN News, Deutsche Welle, France 24 and Africanews, read from their own feeds. Headlines and links only; every story opens on the publisher's own page.</p>
-        </div>
-        <span class="live"><i></i><span id="world-status">Waiting for the first run</span></span>
-      </div>
-
-      <div class="world-lead" id="world-lead"></div>
-
-      <div class="block">
-        <div class="block-head">
-          <h2>Across the world</h2>
-          <p>Newest first, from the last day and a half.</p>
-        </div>
-        <div class="news-search">
-          <label for="world-find" class="sr-only">Search headlines</label>
-          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4.5 4.5"/></svg>
-          <input id="world-find" type="search" placeholder="Search: oil, election, rates…" autocomplete="off">
-        </div>
-        <div class="src-chips" id="world-sources" hidden></div>
-        <div class="news-grid" id="world-list"></div>
-      </div>
-
-      <p class="news-empty" id="world-empty" hidden>No headlines yet. Run <b>Update business news</b> in the Actions tab to fetch the first set.</p>
-      <p class="note" id="world-note"></p>
     </section>
 
     <!-- Today's papers -->
@@ -601,33 +458,6 @@
       <p class="news-empty" id="articles-empty" hidden>No briefings yet. Run <b>Write weekly briefing</b> in the Actions tab to publish the first one.</p>
     </section>
 
-    <!-- Charts -->
-    <section class="portal" id="charts-view" aria-labelledby="h-charts" hidden>
-      <div class="portal-head">
-        <div>
-          <p class="news-eyebrow">Alfredo Ghana Economic Data</p>
-          <h1 id="h-charts">Ghana in pictures</h1>
-          <p class="news-intro">The same figures as the dashboard, drawn instead of listed. They slide one at a time — use the arrows, the dots, arrow keys or a swipe. Point at any chart, or touch it, to read the value under your finger; every chart can be read as a table and taken away as a picture or a spreadsheet.</p>
-        </div>
-        <span class="live"><i></i><span id="charts-status">Drawing…</span></span>
-      </div>
-      <div class="chart-bar">
-        <div class="chart-bar-left">
-          <button type="button" class="c-nav" id="chart-prev" aria-label="Previous chart">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
-          </button>
-          <button type="button" class="c-nav" id="chart-next" aria-label="Next chart">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>
-          </button>
-          <span class="chart-at" id="chart-at"></span>
-        </div>
-        <div class="chart-dots" id="chart-dots" role="tablist" aria-label="Choose a chart"></div>
-        <button type="button" class="c-btn" id="chart-all" aria-pressed="false">Show all</button>
-      </div>
-      <div class="chart-wall" id="chart-wall"></div>
-      <p class="note" id="charts-note"></p>
-    </section>
-
     <!-- System status -->
     <section class="portal" id="status-view" aria-labelledby="h-status" hidden>
       <div class="portal-head">
@@ -655,16 +485,6 @@
         <div class="panel table-wrap"><table class="rank-table status-table" id="status-figures"></table></div>
       </div>
 
-      <p class="status-standin" id="status-standin" hidden></p>
-
-      <div class="block" id="status-alf-block" hidden>
-        <div class="block-head">
-          <h2>Questions Alfredo could not answer</h2>
-          <p>What people using <em>this browser</em> asked him that he had no figure for. It is kept on this device only and sent nowhere — it is here so you can see which words to teach him next, in <code>ALF_WORDS</code> in <code>app.js</code> or in the <code>ask</code> list of a language pack.</p>
-        </div>
-        <div class="panel table-wrap"><table class="rank-table status-table" id="status-misses"></table></div>
-      </div>
-
       <p class="note" id="status-note"></p>
     </section>
 
@@ -681,10 +501,6 @@
       </div>
       <p class="fine"><span>Alfredo Ghana Economic Data is an independent public-education project. Not affiliated with the Government of Ghana or the Bank of Ghana.</span><span><span data-checked></span> · <span data-auto-status></span> · <a href="#status">System status</a></span></p>
     </footer>
-
-    <!-- Sits outside .foot on purpose: that block is hidden on every view but the dashboard,
-         and a copyright line belongs at the bottom of every page of the site. -->
-    <p class="copyright">© <span data-year>2026</span> Alfredo · Alfredo Ghana Economic Data</p>
   </div>
 
   <button type="button" class="alf-open" id="alf-open" aria-expanded="false" aria-controls="alfredo">
@@ -699,9 +515,6 @@
         <h2 id="alf-title">Alfredo</h2>
       </div>
       <div class="alf-tools">
-        <button type="button" class="alf-icon" id="alf-new" aria-label="Start a new conversation" title="New conversation">
-          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 4v12M4 10h12"/></svg>
-        </button>
         <button type="button" class="alf-icon" id="alf-speak" aria-pressed="false" aria-label="Read answers aloud" title="Read answers aloud">
           <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 8v4h3l4 3V5L7 8H4z"/><path d="M14 7a4 4 0 010 6M16.5 5a7 7 0 010 10" class="waves"/></svg>
         </button>
@@ -711,10 +524,6 @@
       </div>
     </header>
     <div class="alf-langs" id="alf-langs" role="group" aria-label="Language"></div>
-    <div class="alf-voicebar" id="alf-voicebar" hidden>
-      <label for="alf-voice">Voice</label>
-      <select id="alf-voice"></select>
-    </div>
     <div class="alf-log" id="alf-log" role="log" aria-live="polite"></div>
     <div class="alf-chips" id="alf-chips"></div>
     <form class="alf-form" id="alf-form">
@@ -821,15 +630,13 @@
 
       <footer class="b-foot">
         <span>Estimates count forward from official Bank of Ghana and Ministry of Finance figures · <span data-checked></span></span>
-        <span class="b-foot-r">© <span data-year>2026</span> Alfredo <span data-site></span></span>
+        <span class="b-foot-r" data-site></span>
       </footer>
     </div>
   </div>
 
   <script src="lang-data.js"></script>
   <script src="live-data.js"></script>
-  <script src="markets-data.js"></script>
-  <script src="world-data.js"></script>
   <script src="data.js"></script>
   <script src="auto-data.js"></script>
   <script src="history-data.js"></script>
@@ -838,6 +645,5 @@
   <script src="articles-data.js"></script>
   <script src="news-data.js"></script>
   <script src="app.js"></script>
-<script>if(window!==window.top){var m=document.getElementById('to-model');if(m)m.hidden=true;try{parent.postMessage('alfredo-site-ready','*')}catch(e){}}</script><script src="h93-data.js" defer></script><script src="alfredo-pro.js" defer></script>
 </body>
 </html>
