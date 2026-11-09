@@ -3,17 +3,17 @@
  * Do not edit by hand.
  */
 window.GDC_AFRICA = {
-  "updated": "2026-11-07T13:30:15.949Z",
+  "updated": "2026-11-09T16:52:55.735Z",
   "indicator": "Consumer price inflation, % on a year earlier",
   "note": "The prevailing rate: each country's most recently published month-on-year consumer price inflation. Countries publish at different times, so the month shown differs between them. Ghana's own figure is the Ghana Statistical Service reading carried across from the dashboard; every other country comes from the World Bank's monthly series.",
   "source": "World Bank Global Economic Monitor",
   "sourceUrl": "https://datacatalog.worldbank.org/infrastructure-data/search/dataset/0037798/Global-Economic-Monitor",
   "ghana": {
-    "value": 5.2,
-    "period": "Sep 2026",
-    "key": "2026-09"
+    "value": 5.5,
+    "period": "Oct 2026",
+    "key": "2026-10"
   },
-  "ghanaRank": 30,
+  "ghanaRank": 32,
   "countries": {
     "EGY": {
       "name": "Egypt",
@@ -250,11 +250,11 @@ window.GDC_AFRICA = {
       "name": "Ghana",
       "region": "West",
       "latest": {
-        "value": 5.2,
-        "period": "Sep 2026",
-        "key": "2026-09"
+        "value": 5.5,
+        "period": "Oct 2026",
+        "key": "2026-10"
       },
-      "prev": 5,
+      "prev": 5.2,
       "series": [
         {
           "date": "2026-08",
@@ -263,6 +263,10 @@ window.GDC_AFRICA = {
         {
           "date": "2026-09",
           "value": 5.2
+        },
+        {
+          "date": "2026-10",
+          "value": 5.5
         }
       ],
       "gdp": {
