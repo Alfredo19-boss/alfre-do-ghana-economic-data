@@ -1,6 +1,6 @@
 name: Update live rates
 
-# Every 20 minutes: a market quote for the cedi (and gold) written to live-data.js, plus world
+# Every 5 minutes: a market quote for the cedi (and gold) written to live-data.js, plus world
 # indices, commodities, crypto, currencies and every Ghana Stock Exchange listing written to
 # markets-data.js. The Bank of Ghana's official interbank rate is a separate, once-a-morning
 # job (market-data.yml); this one does not touch it.
@@ -9,7 +9,7 @@ name: Update live rates
 # GitHub Pages is not rebuilt for no reason.
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
