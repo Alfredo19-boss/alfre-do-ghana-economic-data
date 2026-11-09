@@ -231,11 +231,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "Inflation",
-          "value": 5.2,
+          "value": 5.5,
           "dec": 1,
           "unit": "%",
-          "date": "Sep 2026",
-          "note": "▲ from 5.0% · target 8 ± 2%",
+          "date": "Oct 2026",
+          "note": "▲ from 5.2% · target 8 ± 2%",
           "tone": "bad",
           "status": [
             "good",
@@ -277,26 +277,30 @@ window.GDC_DATA = {
             {
               "date": "Sep 2026",
               "value": 5.2
+            },
+            {
+              "date": "Oct 2026",
+              "value": 5.5
             }
           ],
           "seriesSource": "Ghana Statistical Service monthly CPI releases"
         },
         {
           "label": "Food inflation",
-          "value": 4,
+          "value": 2.8,
           "dec": 1,
           "unit": "%",
-          "date": "Sep 2026",
-          "note": "▲ from 3.0% in August",
+          "date": "Oct 2026",
+          "note": "▼ from 4.0% in September",
           "tone": "good"
         },
         {
           "label": "Non-food inflation",
-          "value": 6.2,
+          "value": 7.9,
           "dec": 1,
           "unit": "%",
-          "date": "Sep 2026",
-          "note": "▼ from 6.8% in August",
+          "date": "Oct 2026",
+          "note": "▲ from 6.2% in September",
           "tone": "bad"
         },
         {
@@ -342,11 +346,11 @@ window.GDC_DATA = {
         {
           "board": true,
           "label": "91-day T-bill",
-          "value": 4.6135,
+          "value": 4.6013,
           "dec": 4,
           "unit": "%",
-          "date": "26 Oct 2026",
-          "note": "182-day at 6.29%",
+          "date": "2 Nov 2026",
+          "note": "182-day at 6.26%",
           "series": [
             {
               "date": "Dec 2025",
@@ -393,10 +397,10 @@ window.GDC_DATA = {
         },
         {
           "label": "364-day T-bill",
-          "value": 9.6739,
+          "value": 9.6039,
           "dec": 2,
           "unit": "%",
-          "date": "26 Oct 2026",
+          "date": "2 Nov 2026",
           "note": "▼ from 12.16% in August",
           "series": [
             {
@@ -541,7 +545,7 @@ window.GDC_DATA = {
           "unit": "GH¢",
           "pre": true,
           "date": "23 Oct 2026",
-          "note": "▲ cedi down 9.5% this year to 17 Jul",
+          "note": "BoG interbank mid-rate",
           "tone": "bad",
           "auto": "fx.usd"
         },
@@ -675,11 +679,11 @@ window.GDC_DATA = {
         },
         {
           "label": "Jubilee oil output",
-          "value": 95000,
+          "value": 84500,
           "dec": 0,
           "unit": "bpd",
-          "date": "Jul 2026",
-          "note": "Barrels a day · first rise after six years of decline"
+          "date": "Q3 2026",
+          "note": "Quarter average, Kosmos Energy · the 95,000 reported in July was a peak rate"
         },
         {
           "board": true,
@@ -1452,17 +1456,6 @@ window.GDC_DATA = {
         "blurb": "The Finance Minister presents the budget to Parliament, usually in mid-November. Parliament sets the exact day.",
         "sourceTitle": "Parliament of Ghana",
         "sourceUrl": "https://www.parliament.gh/press"
-      },
-      {
-        "name": "Inflation release",
-        "kind": "economic",
-        "rule": "monthly-weekday",
-        "weekday": 3,
-        "nth": 2,
-        "approx": true,
-        "blurb": "The Ghana Statistical Service publishes the Consumer Price Index for the previous month, usually mid-month.",
-        "sourceTitle": "Ghana Statistical Service: CPI",
-        "sourceUrl": "https://www.statsghana.gov.gh/releases/upcoming/cpi-release"
       }
     ]
   },

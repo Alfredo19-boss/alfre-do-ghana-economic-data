@@ -1259,8 +1259,10 @@
   /* ================= board view ================= */
   const board = $("board"), stage = $("stage");
   function scaleStage() {
-    const s = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
-    stage.style.transform = `translate(-50%, -50%) scale(${s})`;
+    /* Original 1920 x 1080 layout, stretched to fill a landscape window. Upright screens keep even scaling. */
+    const sx = window.innerWidth / 1920, sy = window.innerHeight / 1080;
+    const landscape = window.innerWidth >= window.innerHeight;
+    stage.style.transform = landscape ? `translate(-50%, -50%) scale(${sx}, ${sy})` : `translate(-50%, -50%) scale(${Math.min(sx, sy)})`;
   }
   function openBoard(fromClick = true) {
     document.body.classList.add("board-on");
@@ -1289,6 +1291,7 @@
   $("board-close").addEventListener("click", closeBoard);
   document.addEventListener("keydown", e => { if (e.key === "Escape" && !board.hidden && sheetEl.hidden) closeBoard(); });
   document.addEventListener("fullscreenchange", () => { if (!board.hidden) scaleStage(); });
+  window.addEventListener("resize", () => { if (!board.hidden) scaleStage(); });
 
   /* ================= green ticker: GH¢ rates and GDP ================= */
   const FXT = A.fxTable || { rates: {}, prev: {} };

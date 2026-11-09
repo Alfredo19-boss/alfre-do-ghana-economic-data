@@ -1533,3 +1533,10 @@ html { scroll-behavior: smooth; }
   background: rgba(201,133,0,.08); border: 1px solid rgba(201,133,0,.35); border-radius: 8px;
 }
 .status-standin b { color: var(--gold); }
+
+/* Keep every section tab visible on desktop instead of hiding the last ones past the edge */
+@media (min-width: 861px) {
+  .navbar .view-tabs { flex-wrap: wrap; overflow: visible; gap: 0 24px; }
+  .navbar .nav-inner.page { padding-block: 4px !important; }
+  .nav-date:empty { display: none; }
+}
