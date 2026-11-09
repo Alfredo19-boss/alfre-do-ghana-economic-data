@@ -3,8 +3,8 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-08T22:57:49.243Z",
-  "worldAt": "2026-11-08T22:57:49.241Z",
+  "updated": "2026-11-09T02:24:39.185Z",
+  "worldAt": "2026-11-09T02:24:39.182Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -26,24 +26,24 @@ window.GDC_NEWS = {
     "Ghana Business News: 7/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)",
-    "Reuters wire: 0 stories",
-    "Reuters wire: 0 stories",
+    "Reuters wire: failed (HTTP 429)",
+    "Reuters wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "Citi Newsroom wire: failed (HTTP 429)",
     "World · Al Jazeera: 25 stories",
     "World · Africanews: 50 stories",
     "World · NPR World: 10 stories",
     "World · UN News: 30 stories",
-    "World · BBC News: 28 stories",
+    "World · BBC News: 27 stories",
     "World · Deutsche Welle: 11 stories",
     "World · France 24: 24 stories",
-    "Africa · AllAfrica: 33 stories",
+    "Africa · AllAfrica: 31 stories",
     "Africa · AllAfrica Business: 30 stories",
-    "Africa · Africanews: 24 stories",
+    "Africa · Africanews: 23 stories",
     "Africa · BBC Africa: 29 stories",
     "Africa · Deutsche Welle: 7 stories",
-    "Africa · Al Jazeera: 2 stories",
-    "world lists: 40 world, 29 African stories held"
+    "Africa · Al Jazeera: 0 stories",
+    "world lists: 40 world, 28 African stories held"
   ],
   "items": [
     {
@@ -1099,7 +1099,67 @@ window.GDC_NEWS = {
   ],
   "world": [
     {
-      "title": "Pope Leo arrives in Argentina amid divisions over Milei’s austerity",
+      "title": "Europe to press US on Ukraine peace and Iran at Paris G7 ministers talks",
+      "link": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+      "source": "France 24",
+      "published": "2026-11-09T02:05:00.000Z",
+      "summary": "G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open since…",
+      "image": "https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg"
+    },
+    {
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T01:19:09.000Z",
+      "summary": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power."
+    },
+    {
+      "title": "Trump vows comeback as parties clash over Democrat prosecution threats",
+      "link": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
+      "source": "France 24",
+      "published": "2026-11-09T01:13:10.000Z",
+      "summary": "President Donald Trump vowed a political comeback on Sunday after Republicans lost control of Congress in last Tuesday’s midterms, as incoming Democratic leaders pledged to hold his…",
+      "image": "https://s.france24.com/media/display/796e5ff4-dafa-11f1-83cc-1beafce15fea/w:1024/p:16x9/aa618a3631bceeecb3b6ee36d3cb0b937c9f5f89.jpg"
+    },
+    {
+      "title": "India’s night lights up for Diwali",
+      "link": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T00:24:04.000Z",
+      "summary": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals."
+    },
+    {
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T23:34:18.000Z",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
+    },
+    {
+      "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "link": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T00:07:02.000Z",
+      "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump."
+    },
+    {
+      "title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
+      "link": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
+      "source": "France 24",
+      "published": "2026-11-08T23:02:54.000Z",
+      "summary": "Nvidia’s board said Sunday it would investigate reports that CEO Jensen Huang was targeted by a foreign intelligence operation. The New York Times reported Huang had an affair with an…",
+      "image": "https://s.france24.com/media/display/de28787e-ce09-11f1-932f-8d87bc3aeb3a/w:1024/p:16x9/4be63ee4f4f77ef4291d72acfad4aed31a19b368.jpg"
+    },
+    {
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T00:00:34.000Z",
+      "summary": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility."
+    },
+    {
+      "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
       "link": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
       "source": "France 24",
       "published": "2026-11-08T22:23:19.000Z",
@@ -1107,11 +1167,25 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/39bb378c-dbaf-11f1-8a96-1beafce15fea/w:1024/p:16x9/2026-11-08T200018Z-1909450093-RC2WJOAQHQ73-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg"
     },
     {
-      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
-      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-08T22:16:50.000Z",
-      "summary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government."
+      "published": "2026-11-08T23:58:53.000Z",
+      "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China."
+    },
+    {
+      "title": "Netherlands: Sea of red fills Amsterdam streets in Gaza protest",
+      "link": "http://www.africanews.com/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest/",
+      "source": "Africanews",
+      "published": "2026-11-08T22:19:04.000Z",
+      "summary": "Tens of thousands of people, many dressed in red, marched through Amsterdam in the Netherlands on Sunday 8 November, demanding that the Dutch government take stronger action against Israel…"
+    },
+    {
+      "title": "Mexican mayor found alive after hours-long abduction",
+      "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T23:55:37.000Z",
+      "summary": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence."
     },
     {
       "title": "Poland: Kraków mourns six victims as shooting site reopens",
@@ -1121,19 +1195,26 @@ window.GDC_NEWS = {
       "summary": "Kraków's historic main square in southern Poland reopened to the public on Sunday 8 November, just over 24 hours after a deadly shooting left six people dead and 15 others injured…"
     },
     {
-      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-      "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+      "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-08T22:16:10.000Z",
-      "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China."
+      "published": "2026-11-08T23:39:47.000Z",
+      "summary": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party."
     },
     {
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "published": "2026-11-08T22:05:12.000Z",
       "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+      "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T22:42:12.000Z",
+      "summary": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga."
     },
     {
       "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
@@ -1143,11 +1224,11 @@ window.GDC_NEWS = {
       "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions."
     },
     {
-      "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
-      "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-08T22:03:54.000Z",
-      "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters."
+      "published": "2026-11-08T22:16:50.000Z",
+      "summary": "Pope Leo's visit marks the first papal trip to Argentina in nearly four decades amid tensions with the Milei government."
     },
     {
       "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
@@ -1155,6 +1236,28 @@ window.GDC_NEWS = {
       "source": "NPR World",
       "published": "2026-11-08T22:04:09.000Z",
       "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true…"
+    },
+    {
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T22:16:10.000Z",
+      "summary": "Huang has confirmed he had been having an affair with a woman accused of spying for China."
+    },
+    {
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-11-08T21:37:36.000Z",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "title": "Why Trump joked about having Dana White as his White House press secretary",
+      "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T22:03:54.000Z",
+      "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters."
     },
     {
       "title": "Pope Leo in Latin America: Papal Politics and Peru",
@@ -1195,7 +1298,7 @@ window.GDC_NEWS = {
       "image": "https://s.france24.com/media/display/51ec3fd0-dbab-11f1-b6cb-d18c5759e759/w:1024/p:16x9/ColleenTN811.png"
     },
     {
-      "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+      "title": "Iran waiting to resume talks after US midterms ‘shock’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-08T20:51:22.000Z",
@@ -1275,21 +1378,6 @@ window.GDC_NEWS = {
       "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans."
     },
     {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "published": "2026-11-08T18:22:53.000Z",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
-    },
-    {
-      "title": "After the midterms, where does the Republican Party stand?",
-      "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T19:09:18.000Z",
-      "summary": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms."
-    },
-    {
       "title": "South Africa elections: ANC marks its worst-ever performance",
       "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf",
       "source": "Deutsche Welle",
@@ -1297,101 +1385,11 @@ window.GDC_NEWS = {
       "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water…"
     },
     {
-      "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+      "title": "After the midterms, where does the Republican Party stand?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-08T18:22:58.000Z",
-      "summary": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals."
-    },
-    {
-      "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
-      "link": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
-      "source": "France 24",
-      "published": "2026-11-08T16:59:42.000Z",
-      "summary": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as…",
-      "image": "https://s.france24.com/media/display/3a894976-db94-11f1-846b-bf1914cabd52/w:1024/p:16x9/EN-20261108-171056-171236-CS.jpg"
-    },
-    {
-      "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-      "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T18:12:27.000Z",
-      "summary": "Israel's president officially tasks the opposition leader with forming a new government."
-    },
-    {
-      "title": "Gadi Eisenkot receives mandate to form government",
-      "link": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
-      "source": "France 24",
-      "published": "2026-11-08T16:58:11.000Z",
-      "summary": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to…",
-      "image": "https://s.france24.com/media/display/608ffe0e-db93-11f1-85ef-d18c5759e759/w:1024/p:16x9/EN-20261108-160801-161121-CS.jpg"
-    },
-    {
-      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T18:01:05.000Z",
-      "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino."
-    },
-    {
-      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-      "source": "NPR World",
-      "published": "2026-11-08T16:46:15.000Z",
-      "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next…",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3555+0+0/resize/5333x3555!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F5f%2F9142e9fb4171b7967dc02de2a559%2Fap26311421156364.jpg"
-    },
-    {
-      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T17:44:51.000Z",
-      "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales."
-    },
-    {
-      "title": "Spain's Alcaraz beats error-prone Shelton to win Paris Masters for first time",
-      "link": "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time",
-      "source": "France 24",
-      "published": "2026-11-08T16:31:53.000Z",
-      "summary": "Spanish tennis star Carlos Alcaraz avenged his loss to American player Ben Shelton in the US Open in September as he inched ahead of his rival Sunday to win the Paris Masters for the first…",
-      "image": "https://s.france24.com/media/display/e7a1efda-db91-11f1-95fc-a575454bc579/w:1024/p:16x9/f75fa6fa8ded7fbfacd31db319351a05d3ba1ad3.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T17:11:52.000Z",
-      "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu."
-    },
-    {
-      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-      "source": "NPR World",
-      "published": "2026-11-08T16:30:16.000Z",
-      "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fdc%2Fbfa72c634de2ac6fd5d3cbc6c94a%2Fap26312478472333.jpg"
-    },
-    {
-      "title": "Photos: Diwali celebrations light up India and its global diaspora",
-      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T17:03:14.000Z",
-      "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts."
-    },
-    {
-      "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
-      "link": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
-      "source": "France 24",
-      "published": "2026-11-08T16:21:34.000Z",
-      "summary": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks back at…",
-      "image": "https://s.france24.com/media/display/32d96078-db74-11f1-b6c9-bf1914cabd52/w:1024/p:16x9/AP26310471490191.jpg"
-    },
-    {
-      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T17:00:00.000Z",
-      "summary": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga."
+      "published": "2026-11-08T19:09:18.000Z",
+      "summary": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms."
     }
   ],
   "africa": [
@@ -1593,13 +1591,6 @@ window.GDC_NEWS = {
       "source": "AllAfrica",
       "published": "2026-11-07T16:51:25.000Z",
       "summary": "[Bird Story Agency] As Africa weighs how to power its industries and expand electricity access, water must be part of the equation. Ahead of COP31, Dr Jonty Cogger and Paul Wani Lado draw…"
-    },
-    {
-      "title": "Coalition battles ahead in key South African cities as vote counting wraps up",
-      "link": "http://www.africanews.com/2026/11/07/coalition-battles-ahead-in-key-south-african-cities-as-vote-counting-wraps-up/",
-      "source": "Africanews",
-      "published": "2026-11-07T11:45:30.000Z",
-      "summary": "Partial results for South Africa's local elections point to coalition battles in several major metros, including Johannesburg, Tshwane and eThekwini."
     }
   ]
 };

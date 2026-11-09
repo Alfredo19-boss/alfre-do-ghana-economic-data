@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-08T22:58:02.236Z",
+  "updated": "2026-11-09T02:24:51.055Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,6 +24,81 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GPL 2025/2026 : Port City beat Basake Holy Stars to return to winning ways",
+      "link": "https://www.myjoyonline.com/gpl-2025-2026-port-city-beat-basake-holy-stars-to-return-to-winning-ways/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T00:12:41.000Z",
+      "summary": "Port City returned to winning ways with a 1-0 victory over Basake Holy Stars at the Daasebre Boamah Darko II Park on Sunday.",
+      "categories": [
+        "Football",
+        "Sports",
+        "Basake Holy Stars",
+        "Francis Gyetuah",
+        "Port city"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Port-City.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "link": "https://www.myjoyonline.com/seven-dead-and-more-than-100-injured-after-trains-collide-in-egypt/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T23:14:47.000Z",
+      "summary": "At least seven people have died in a train crash near the Egyptian city At least seven people have died in a train crash near the Egyptian city of Giza, with more than 100 injured.",
+      "categories": [
+        "Africa",
+        "At least seven people have died in a train crash near the Egyptian city At least seven people have died in a train crash near the Egyptian city of Giza",
+        "Egypt"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-713.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Video: Daniel-Kofi Kyereh spotted in Ghana ahead of Black Stars AFCON qualifier doubleheader against Somalia",
+      "link": "https://www.myjoyonline.com/video-daniel-kofi-kyereh-spotted-in-ghana-ahead-of-black-stars-afcon-qualifier-doubleheader-against-somalia/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T23:10:17.000Z",
+      "summary": "Ghana international Daniel-Kofi Kyereh has been spotted in Accra ahead of the Black Stars squad announcement for the 2027 Africa Cup of Nations (AFCON) qualifiers against Somalia. The VfL…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Daniel-Kofi Kyereh",
+        "Somalia"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/03/Daniel-Kofi-Kyereh.jpg",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "South Africa’s ANC records worst-ever results in local elections",
+      "link": "https://www.myjoyonline.com/south-africas-anc-records-worst-ever-results-in-local-elections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T23:07:05.000Z",
+      "summary": "South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party…",
+      "categories": [
+        "Africa",
+        "ANC",
+        "South Africa"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-712-1024x575.png",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Top House Democrat ‘a hard yes’ on impeaching Hegseth",
+      "link": "https://www.myjoyonline.com/top-house-democrat-a-hard-yes-on-impeaching-hegseth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T23:02:35.000Z",
+      "summary": "The frontrunner to lead the US House of Representatives after Democrats take control of Congress in January has said he is \"a hard yes\" for impeaching Defence Secretary Pete Hegseth.",
+      "categories": [
+        "International",
+        "Pete Hegseth"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-1741-1024x576.png",
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "King Charles leads solemn Remembrance Sunday service at Cenotaph",
       "link": "https://www.myjoyonline.com/king-charles-leads-solemn-remembrance-sunday-service-at-cenotaph/",
@@ -64,79 +139,6 @@ window.GDC_PAPERS = {
         "Nvidia"
       ],
       "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-710-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "England await Guehi scan results after injury concern",
-      "link": "https://www.myjoyonline.com/england-await-guehi-scan-results-after-injury-concern/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T22:37:08.000Z",
-      "summary": "Manchester City defender Marc Guehi will undergo a scan for a hip complaint on Sunday to determine whether he can report for England duty this week.",
-      "categories": [
-        "Football",
-        "England",
-        "Marc Guehi"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-709.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Leeds condemn racist abuse of Bogle after Tel incident",
-      "link": "https://www.myjoyonline.com/leeds-condemn-racist-abuse-of-bogle-after-tel-incident/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T22:33:45.000Z",
-      "summary": "Leeds United have condemned the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
-      "categories": [
-        "Football",
-        "Bogle",
-        "Leeds",
-        "Racism"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-708.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fan injured after falling through hole in stand",
-      "link": "https://www.myjoyonline.com/fan-injured-after-falling-through-hole-in-stand/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T22:29:17.000Z",
-      "summary": "A fan was taken to hospital after several Bodo/Glimt supporters fell through a hole in the away stand at Tromso.",
-      "categories": [
-        "Football",
-        "Fan injured"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-707.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GPL 2026/27: Kotoko remain winless on the road after defeat to Chelsea",
-      "link": "https://www.myjoyonline.com/gpl-2026-27-kotoko-remain-winless-on-the-road-after-defeat-to-chelsea/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T22:21:16.000Z",
-      "summary": "The Porcupine Warriors suffered a 2-1 defeat in Berekum despite scoring first in the game as the two teams met on matchday 10 of the Ghanaian top flight.",
-      "categories": [
-        "Football",
-        "National",
-        "Asante Kotoko",
-        "Berekum Chelsea",
-        "Ghana Premier League"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Chelsea.webp",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fermin double seals Barcelona’s comeback win at Atleti",
-      "link": "https://www.myjoyonline.com/fermin-double-seals-barcelonas-comeback-win-at-atleti/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T22:19:00.000Z",
-      "summary": "Fermin Lopez scored twice as Barcelona came from behind to claim a gritty win over Atletico Madrid, which maintained their advantage at the top of La Liga.",
-      "categories": [
-        "Football",
-        "Atletico Madrid",
-        "Barcelona 2023",
-        "Fermin Lopez"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-706.png",
       "site": "https://www.myjoyonline.com/"
     },
     {
