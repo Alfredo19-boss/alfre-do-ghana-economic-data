@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-09T02:24:51.055Z",
+  "updated": "2026-11-09T10:00:12.906Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -25,199 +25,154 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "GPL 2025/2026 : Port City beat Basake Holy Stars to return to winning ways",
-      "link": "https://www.myjoyonline.com/gpl-2025-2026-port-city-beat-basake-holy-stars-to-return-to-winning-ways/",
+      "title": "EDA Logistics CEO Eric Akukumah wins 2026 Logistics CEO of the Year at Ghana CEO Awards",
+      "link": "https://www.myjoyonline.com/eda-logistics-ceo-eric-akukumah-wins-2026-logistics-ceo-of-the-year-at-ghana-ceo-awards/",
       "source": "MyJoyOnline",
-      "published": "2026-11-09T00:12:41.000Z",
-      "summary": "Port City returned to winning ways with a 1-0 victory over Basake Holy Stars at the Daasebre Boamah Darko II Park on Sunday.",
+      "published": "2026-11-09T09:56:57.000Z",
+      "summary": "The Chief Executive Officer of EDA Logistics Limited, Eric Dziedzom Akukumah, has been named CEO of the Year – Logistics at the 2026 Ghana CEO Awards. The award recognises his leadership of…",
       "categories": [
-        "Football",
-        "Sports",
-        "Basake Holy Stars",
-        "Francis Gyetuah",
-        "Port city"
+        "National",
+        "EDA Logistics",
+        "Eric Akukumah",
+        "Ghana CEO Awards"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Port-City.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Eric-Akukumah-1024x684.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "link": "https://www.myjoyonline.com/seven-dead-and-more-than-100-injured-after-trains-collide-in-egypt/",
+      "title": "AFCON 2027Q: ‘There is always hope’ – Afena-Gyan confident Black Stars can qualify",
+      "link": "https://www.myjoyonline.com/afcon-2027q-there-is-always-hope-afena-gyan-confident-black-stars-can-qualify/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T23:14:47.000Z",
-      "summary": "At least seven people have died in a train crash near the Egyptian city At least seven people have died in a train crash near the Egyptian city of Giza, with more than 100 injured.",
+      "published": "2026-11-09T09:54:28.000Z",
+      "summary": "The Black Stars lost their opening two games of the qualifiers against Cote d'Ivoire and Gambia in the extended September international break.",
       "categories": [
-        "Africa",
-        "At least seven people have died in a train crash near the Egyptian city At least seven people have died in a train crash near the Egyptian city of Giza",
-        "Egypt"
+        "Football",
+        "National",
+        "2027 AFCON Qualifiers",
+        "2027 Africa Cup of Nations qualifiers",
+        "Black Stars",
+        "Felix Afena-Gyan",
+        "Somalia"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-713.png",
+      "image": null,
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Video: Daniel-Kofi Kyereh spotted in Ghana ahead of Black Stars AFCON qualifier doubleheader against Somalia",
-      "link": "https://www.myjoyonline.com/video-daniel-kofi-kyereh-spotted-in-ghana-ahead-of-black-stars-afcon-qualifier-doubleheader-against-somalia/",
+      "title": "Artificial Intelligence and its intended consequences for national security",
+      "link": "https://www.myjoyonline.com/artificial-intelligence-and-its-intended-consequences-for-national-security-2/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T23:10:17.000Z",
-      "summary": "Ghana international Daniel-Kofi Kyereh has been spotted in Accra ahead of the Black Stars squad announcement for the 2027 Africa Cup of Nations (AFCON) qualifiers against Somalia. The VfL…",
+      "published": "2026-11-09T09:49:35.000Z",
+      "summary": "The age and era of Artificial Intelligence (AI) has gradually crept with us. This means there is nothing we can do about it than embrace it. AI, has its positive and negative effects for…",
+      "categories": [
+        "Opinion",
+        "AI",
+        "Security"
+      ],
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/03/Artificial-Intelligence-.webp",
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AFCON 2027Q: Afena-Gyan, Thomas-Asante and Anang spotted in Accra as fans await Black Stars squad for Somalia games",
+      "link": "https://www.myjoyonline.com/afcon-2027q-afena-gyan-thomas-asante-and-anang-spotted-in-accra-as-fans-await-black-stars-squad-for-somalia-games/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T09:42:31.000Z",
+      "summary": "Brandon Thomas-Asante, Felix Afena-Gyan and goalkeeper Joseph Anang were among some players potted at the Accra International Airport on Sunday evening.",
       "categories": [
         "Football",
-        "HP Sports 1",
+        "HP News 2",
         "National",
         "2027 AFCON Qualifiers",
         "Black Stars",
-        "Daniel-Kofi Kyereh",
+        "Felix Afena-Gyan",
+        "Joseph Anang",
         "Somalia"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2022/03/Daniel-Kofi-Kyereh.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/Screenshot_9-11-2026_95642_x.com_.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "South Africa’s ANC records worst-ever results in local elections",
-      "link": "https://www.myjoyonline.com/south-africas-anc-records-worst-ever-results-in-local-elections/",
+      "title": "Beyond Cocoa: What would it take for Ghana to build another serious agricultural value chain?",
+      "link": "https://www.myjoyonline.com/beyond-cocoa-what-would-it-take-for-ghana-to-build-another-serious-agricultural-value-chain/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T23:07:05.000Z",
-      "summary": "South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party…",
+      "published": "2026-11-09T09:39:55.000Z",
+      "summary": "For many Ghanaians, the relationship between agriculture and the national economy begins with cocoa. That is understandable. Cocoa has shaped communities, created livelihoods, earned…",
       "categories": [
-        "Africa",
-        "ANC",
-        "South Africa"
+        "News",
+        "Opinion",
+        "Agric",
+        "Cocoa",
+        "Ghana"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-712-1024x575.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-9.18.13-AM-1024x683.jpeg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Top House Democrat ‘a hard yes’ on impeaching Hegseth",
-      "link": "https://www.myjoyonline.com/top-house-democrat-a-hard-yes-on-impeaching-hegseth/",
+      "title": "Ghana Chamber of Mines donates US$400,000 to GAF to support redevelopment of Burma Camp",
+      "link": "https://www.myjoyonline.com/ghana-chamber-of-mines-donates-us400000-to-gaf-to-support-redevelopment-of-burma-camp/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T23:02:35.000Z",
-      "summary": "The frontrunner to lead the US House of Representatives after Democrats take control of Congress in January has said he is \"a hard yes\" for impeaching Defence Secretary Pete Hegseth.",
+      "published": "2026-11-09T09:25:08.000Z",
+      "summary": "The Ghana Chamber of Mines has donated US$400,000 towards the ongoing redevelopment of Burma Camp to support the provision of decent accommodation for personnel of the Ghana Armed Forces…",
       "categories": [
-        "International",
-        "Pete Hegseth"
+        "Business",
+        "HP Business 6",
+        "Mining",
+        "Dr Ing Kenneth Ashigbey",
+        "GAF",
+        "Ghana Chamber of Mines",
+        "Lieutenant General (Lt Gen) William Agyapong"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/07/image-1741-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/ken.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "King Charles leads solemn Remembrance Sunday service at Cenotaph",
-      "link": "https://www.myjoyonline.com/king-charles-leads-solemn-remembrance-sunday-service-at-cenotaph/",
+      "title": "5-year-old girl dies after alleged assault during parents’ quarrel in Mim",
+      "link": "https://www.myjoyonline.com/5-year-old-girl-dies-after-alleged-assault-during-parents-quarrel-in-mim/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T22:54:46.000Z",
-      "summary": "King Charles III led the nation in a solemn two-minute silence on Remembrance Sunday in London to honour veterans who had died in conflict.",
+      "published": "2026-11-09T09:04:37.000Z",
+      "summary": "A five-year-old girl has died following a violent altercation between her parents at Mim in the Asunafo North Municipality of the Ahafo Region. The deceased, identified as Elizabeth, was a…",
       "categories": [
-        "International",
-        "King Charles III",
-        "Remembrance Sunday"
+        "HP News 1",
+        "National",
+        "News",
+        "Assault",
+        "Mim"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-711-1024x576.png",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/ghana-police.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "White House vows to keep up immigration crackdown after midterms defeat",
-      "link": "https://www.myjoyonline.com/white-house-vows-to-keep-up-immigration-crackdown-after-midterms-defeat/",
+      "title": "WPL 2026/27: Hasaacas, Police Ladies remain unbeaten as FC Savannah stay top in Northern Zone",
+      "link": "https://www.myjoyonline.com/wpl-2026-27-hasaacas-police-ladies-remain-unbeaten-as-fc-savannah-stay-top-in-northern-zone/",
       "source": "MyJoyOnline",
-      "published": "2026-11-08T22:45:59.000Z",
-      "summary": "US President Donald Trump's administration has vowed not to change course on its mass deportation plans after last week's midterm elections defeat.",
+      "published": "2026-11-09T09:00:34.000Z",
+      "summary": "The 2026/27 GoldFields Women’s Premier League continues to take shape after three weeks of action across the Southern and Northern Zones. Police Ladies and Hasaacas Ladies continued their…",
       "categories": [
-        "International",
-        "Immigration",
-        "White House"
+        "Football",
+        "National",
+        "Hasaacas Ladies",
+        "Police Ladies",
+        "Women's Premier League"
       ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Deportation-754x424-1.jpg",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/DSC09735-1024x683.jpg",
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nvidia launches investigation into CEO’s affair with suspected Chinese spy",
-      "link": "https://www.myjoyonline.com/nvidia-launches-investigation-into-ceos-affair-with-suspected-chinese-spy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T22:40:46.000Z",
-      "summary": "US tech giant Nvidia has opened an independent investigation following reports that its CEO, Jensen Huang, had a relationship with a suspected Chinese spy.",
-      "categories": [
-        "International",
-        "Technology",
-        "Nvidia"
-      ],
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-710-1024x575.png",
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KNUST management confirms drowning of Level 300 student in campus swimming pool",
-      "link": "https://www.graphic.com.gh/news/general-news/knust-management-confirms-drowning-of-level-300-student-in-campus-swimming-pool.html",
+      "title": "SOEs must be efficient, commercially viable, not liabilities — Prof. Alabi",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-soes-must-be-efficient-commercially-viable-not-liabilities-prof-alabi.html",
       "source": "Daily Graphic",
-      "published": "2026-11-08T20:18:16.000Z",
+      "published": "2026-11-09T08:16:25.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/07/agyapong.jpg",
+      "image": "https://www.graphic.com.gh/images/2026/Nov/09/Joshua.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Minority files motion for Parliamentary Inquiry into alleged sale of Diplomatic, Service Passports",
-      "link": "https://www.graphic.com.gh/news/politics/minority-files-motion-for-parliamentary-inquiry-into-alleged-sale-of-diplomatic-service-passports.html",
+      "title": "JUSAG strike continues as unions await government response",
+      "link": "https://www.graphic.com.gh/news/general-news/jusag-strike-continues-as-unions-await-government-response.html",
       "source": "Daily Graphic",
-      "published": "2026-11-08T18:29:50.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/jinapeezy.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "VIDEO: Minority on why Foreign Affairs ministry cannot probe itself in alleged diplomatic, service passports sale to private individuals",
-      "link": "https://www.graphic.com.gh/news/politics/minority-on-why-foreign-affairs-ministry-cannot-probe-itself-in-alleged-diplomatic-and-service-passport-sale-to-private-individuals.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-08T18:23:19.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/07/minority_passports.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Foreign Affairs Ministry interdicts 2 officers over alleged passport fraud",
-      "link": "https://www.graphic.com.gh/news/general-news/passport-scandal-foreign-affairs-ministry-interdicts-acting-director-junior-officer.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-08T16:02:13.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/WhatsApp-Image-2026-08-30-at-09.42.01.jpeg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bawumia calls for national masterplans to bind successive governments and ensure development continuity",
-      "link": "https://www.graphic.com.gh/news/politics/bawumia-calls-for-national-masterplans-to-bind-successive-governments-and-ensure-development-continuity.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-08T15:59:32.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/08/bawumia_japan4.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Kwakye Ofosu: Death threats against a President is not free speech",
-      "link": "https://www.graphic.com.gh/news/general-news/kwakye-ofosu-death-threats-against-president-mahama-are-not-free-speech.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-08T09:52:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/03/TheMahamas.jpg",
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GJA Awards: Daily Graphic's Ngnenbe most decorated; O.B. takes top prize (FULL LIST)",
-      "link": "https://www.graphic.com.gh/news/general-news/gja-awards-daily-graphics-ngnenbe-most-decorated-o-b-takes-top-prize-full-list.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-08T09:14:50.000Z",
+      "published": "2026-11-09T08:13:52.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -226,15 +181,172 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "President Mahama to public office holders: Explain stalled projects, account for taxpayers’ money",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-to-public-office-holders-explain-stalled-projects-account-for-taxpayers-money.html",
+      "title": "Immigration boss appeals for calm in Hamile",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-immigration-boss-appeals-for-calm-in-hamile.html",
       "source": "Daily Graphic",
-      "published": "2026-11-08T02:33:03.000Z",
+      "published": "2026-11-09T08:11:37.000Z",
       "summary": "",
       "categories": [
         "General News"
       ],
-      "image": "https://www.graphic.com.gh/images/2026/Nov/08/GJA-Mahama-President-Mahama-inset-addressing-participants-at-the-awards-ceremony--780x470.webp",
+      "image": "https://www.graphic.com.gh/images/2026/Nov/09/Basintale.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President, Awoamefia, Gonja overlord celebrate Anlo heritage - GH¢935m allocated for coastal protection",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-president-awoamefia-gonja-overlord-celebrate-anlo-heritage-ghc935m-allocated-for-coastal-protection.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-09T08:02:58.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/09/President.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "At 30th GJA Awards: Govt commits GH¢10m to media fund • Philip Osei Bonsu named Journalist of the Year",
+      "link": "https://ghanaiantimes.com.gh/at-30th-gja-awards-govt-commits-gh%c2%a210m-to-media-fund-philip-osei-bonsu-named-journalist-of-the-year/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T08:00:00.000Z",
+      "summary": "President John Dramani Mahama has announced a GH¢10 million allocation in the 2027 national budget as seed capital for the reactivated Media Development Fund to support journalists’…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Government procuring 100 new ambulances – President Mahama",
+      "link": "https://www.graphic.com.gh/news/general-news/government-procuring-100-new-ambulances-president-mahama.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-09T07:57:59.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/03/jmer.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "36 Border posts lack systems to track migrant movements — Interior Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-36-border-posts-lack-systems-to-track-migrant-movements-interior-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-09T07:54:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": null,
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Increase investment in diagnostics for free health care - Medical laboratory scientists appeal to govt",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-increase-investment-in-diagnostics-for-free-health-care-medical-laboratory-scientists-appeal-to-govt.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-09T07:51:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/09/Kwashie.jpg",
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Minister woos Chinese investors to Ghana",
+      "link": "https://ghanaiantimes.com.gh/minister-woos-chinese-investors-to-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T07:42:32.000Z",
+      "summary": "The Minister of Tourism, Culture and Creative Arts, Ms Abla Dzifa Gomashie, has urged Chinese investors to establish factories and invest in Ghana’s tourism and creative arts industries to…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "UCC warns students against unauthorised processions",
+      "link": "https://ghanaiantimes.com.gh/ucc-warns-students-against-unauthorised-processions/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T07:40:00.000Z",
+      "summary": "The Vice-Chancellor of the University of Cape Coast (UCC), Professor Denis Worlanyo Aheto, has cautioned students against participating in any form of unauthorised procession on campus. He…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/UCC-warns-students-against-unauthorised-processions-xxxxx-1024x682.jpg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Johnnecia Agyemang champions stronger digital security in the United States and Ghana",
+      "link": "https://ghanaiantimes.com.gh/johnnecia-agyemang-champions-stronger-digital-security-in-the-united-states-and-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T07:36:51.000Z",
+      "summary": "By advancing cybersecurity governance, policy compliance, and organisational accountability, Ghanaian researcher, Johnnecia Serwaa Agyemang, seeks to contribute to a safer digital future…",
+      "categories": [
+        "Features"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "The AI divide: Will Ghana create prosperity or deepen inequality?",
+      "link": "https://ghanaiantimes.com.gh/the-ai-divide-will-ghana-create-prosperity-or-deepen-inequality/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T07:33:34.000Z",
+      "summary": "The urgent choices facing workers, businesses, investors and government A young Ghanaian graduate spends months searching for an entry level job while a company uses software to draft…",
+      "categories": [
+        "Features"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Committees of Parliament must remain independent, impartial – Bagbin",
+      "link": "https://ghanaiantimes.com.gh/committees-of-parliament-must-remain-independent-impartial-bagbin/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T07:28:28.000Z",
+      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has urged leaders and members of the various committees in Parliament to remain independent and impartial to strengthen the…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Press freedom must go beyond promises",
+      "link": "https://ghanaiantimes.com.gh/press-freedom-must-go-beyond-promises/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T07:26:50.000Z",
+      "summary": "Thirty years of the Ghana Journalists Association (GJA) Media Awards is a remarkable milestone worth celebrating. Over the years, the awards have recognised journalists whose work has…",
+      "categories": [
+        "Editorial"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AIB urges participants to apply aircraft accident investigation skills to improve aviation safety",
+      "link": "https://ghanaiantimes.com.gh/aib-urges-participants-to-apply-aircraft-accident-investigation-skills-to-improve-aviation-safety/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-09T07:23:14.000Z",
+      "summary": "A week-long Aircraft Accident Investigation Concepts and Practices Course organised by the Aircraft Accident Investigation Bureau (AIB) Ghana ended in Accra on Friday with a call on…",
+      "categories": [
+        "News"
+      ],
+      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Build consensus on 1992 Constitution changes - Bagbin to Majority, Minority",
+      "link": "https://www.graphic.com.gh/news/politics/ghana-news-build-consensus-on-1992-constitution-changes-bagbin-to-majority-minority.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-09T07:23:02.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "image": "https://www.graphic.com.gh/images/2026/Nov/09/Bagbin.jpg",
       "site": "https://www.graphic.com.gh/"
     },
     {
@@ -286,57 +398,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/sports"
     },
     {
-      "title": "Ghana losing billions in potential revenue due to weak collection – Dr Said Boakye, IFS.",
-      "link": "https://ghanaiantimes.com.gh/ghana-losing-billions-in-potential-revenue-due-to-weak-collection-dr-said-boakye-ifs/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T14:57:19.000Z",
-      "summary": "The Executive Director of the Institute for Fiscal Studies (IFS), Dr Said Boakye, has warned that Ghana is losing billions of dollars in potential government revenue due to weak revenue…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Minority in parliament demands answers over shutdown of Ghana health service digital platforms",
-      "link": "https://ghanaiantimes.com.gh/minority-in-parliament-demands-answers-over-shutdown-of-ghana-health-service-digital-platforms/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T14:54:14.000Z",
-      "summary": "The Minority Caucus in Parliament has called on the government and the Minister of Health, Kwabena Mintah Akandoh, to explain the shutdown of critical Ghana Health Service (GHS) digital…",
-      "categories": [
-        "Uncategorized"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Health Ministry rejects claims it is abandoning newly trained doctors",
-      "link": "https://ghanaiantimes.com.gh/health-ministry-rejects-claims-it-is-abandoning-newly-trained-doctors/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T14:47:44.000Z",
-      "summary": "The Ministry of Health has rejected claims that Ghana is training medical doctors and abandoning them after graduation due to delays in recruitment and employment. In a press release, the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "President Mahama Meets Boeing officials over new National Airline",
-      "link": "https://ghanaiantimes.com.gh/president-mahama-meets-boeing-officials-over-new-national-airline/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T14:29:29.000Z",
-      "summary": "President John Dramani Mahama has met with officials of the Boeing group, which is supporting Ghana in its bid to re-establish a national airline. Preliminary studies have affirmed the…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "CAF Women's Champions League: Ampem Darkoa beat Kawempe Ladies to close in on semi-final spot",
       "link": "https://www.graphic.com.gh/sports/sports-news/caf-womens-champions-league-ampem-darkoa-beat-kawempe-ladies-to-close-in-on-semi-final-spot.html",
       "source": "Graphic Sports",
@@ -359,68 +420,6 @@ window.GDC_PAPERS = {
       ],
       "image": "https://www.graphic.com.gh/images/2026/Nov/06/Ronaldo.jpg",
       "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "Old Trafford Showdown: Manchester United v Aston Villa headlines SuperSport's Premier League Match of the Week",
-      "link": "https://www.graphic.com.gh/sports/sports-news/old-trafford-showdown-manchester-united-v-aston-villa-headlines-supersports-premier-league-match-of-the-week.html",
-      "source": "Graphic Sports",
-      "published": "2026-11-06T09:38:00.000Z",
-      "summary": "For DStv Sports subscribers, Manchester United v Aston Villa is this week's Premier League Match of the Week, with the latest kick-off of the weekend bringing two ambitious sides together…",
-      "categories": [
-        "Sports News"
-      ],
-      "image": null,
-      "site": "https://www.graphic.com.gh/sports"
-    },
-    {
-      "title": "ORC to cancel unrenewed business names from January 17",
-      "link": "https://ghanaiantimes.com.gh/orc-to-cancel-unrenewed-business-names-from-january-17/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T09:21:23.000Z",
-      "summary": "The Office of the Registrar of Companies (ORC) has announced plans to remove all business names that have not been renewed by January 17, 2027, from its register. The move is aimed at…",
-      "categories": [
-        "Features"
-      ],
-      "image": null,
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana Needs Financial Health Council — UN Special Advocate for Financial Health",
-      "link": "https://ghanaiantimes.com.gh/ghana-needs-financial-health-council-un-special-advocate-for-financial-health/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T05:45:14.000Z",
-      "summary": "The United Nations Secretary-General’s Special Advocate for Financial Health, Queen Máxima of the Netherlands, has called for the establishment of a Financial Health Council to coordinate…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Corruption, tax exemptions undermine revenue mobilisation — IFS",
-      "link": "https://ghanaiantimes.com.gh/corruption-tax-exemptions-undermine-revenue-mobilisation-ifs/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T05:44:28.000Z",
-      "summary": "THE Institute of Fiscal Studies (IFS) has identified low revenue generation from the extractive sector, revenue leakages and excessive tax exemptions to attract investors as major factors…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "image": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/Corruption-tax-exemptions-undermine-revenue-mobilisation-xxxxx-1024x683.jpg",
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "ECG engages major power consumers in Accra West Region",
-      "link": "https://ghanaiantimes.com.gh/ecg-engages-major-power-consumers-in-accra-west-region/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-06T05:43:34.000Z",
-      "summary": "THE Management of the Electricity Company of Ghana (ECG), Accra West Region, has engaged representatives of businesses, industries and other major power consumers in the region…",
-      "categories": [
-        "News"
-      ],
-      "image": "https://spectator.com.gh/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-08.07.56-518x1024.jpeg",
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
