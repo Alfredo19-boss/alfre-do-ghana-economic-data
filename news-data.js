@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T16:33:04.922Z",
+  "updated": "2026-11-10T16:43:09.256Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "D. A. Twum Jnr. Fellowship graduates pioneer cohort, celebrating next generation of Ghana’s creative leaders",
+      "link": "https://www.myjoyonline.com/d-a-twum-jnr-fellowship-graduates-pioneer-cohort-celebrating-next-generation-of-ghanas-creative-leaders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:40:32.000Z",
+      "summary": "The D. A. Twum Jnr. Fellowship, powered by The Ninani Group, has successfully graduated its pioneer cohort following a three-month immersive learning and industry development programme…"
+    },
     {
       "title": "Ghana Records Fresh and First Ghana-led Oil and Gas Discovery",
       "link": "https://thehighstreetjournal.com/ghana-records-fresh-and-first-ghana-led-oil-and-gas-discovery/",

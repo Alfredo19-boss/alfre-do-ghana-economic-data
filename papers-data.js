@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:33:35.611Z",
+  "updated": "2026-11-10T16:43:35.993Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "D. A. Twum Jnr. Fellowship graduates pioneer cohort, celebrating next generation of Ghana’s creative leaders",
+      "link": "https://www.myjoyonline.com/d-a-twum-jnr-fellowship-graduates-pioneer-cohort-celebrating-next-generation-of-ghanas-creative-leaders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:40:32.000Z",
+      "summary": "The D. A. Twum Jnr. Fellowship, powered by The Ninani Group, has successfully graduated its pioneer cohort following a three-month immersive learning and industry development programme…",
+      "categories": [
+        "Business",
+        "D.A. Twum Jnr Fellowship",
+        "Innova DDB Ghana",
+        "The Ninani Group"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gilbert Edward Richter",
+      "link": "https://www.myjoyonline.com/gilbert-edward-richter/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:39:51.000Z",
+      "summary": "Dr. Johann Richter – Head of the Richter Family of Osu, Christian Coleman – Head of the Coleman Family of Osu and Akropong, Rev. Dr. Chris Hesse – Head of the Hesse Family, Head of Nii…",
+      "categories": [
+        "Obituary",
+        "Gilbert Edward Richter"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘New economy is old failed promises with new branding’ – Oppong Nkrumah",
+      "link": "https://www.myjoyonline.com/new-economy-is-old-failed-promises-with-new-branding-oppong-nkrumah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:36:50.000Z",
+      "summary": "MP for Ofoase-Ayirebi, Chairman of the NPP Policy Committee and Ranking Member of Parliament’s Economy and Development Committee, Kojo Oppong Nkrumah has described the government’s proposed…",
+      "categories": [
+        "National",
+        "Branding",
+        "Failed Promises",
+        "new economy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Dakar 2026: Ghanaian boxer Robert Tagoe Amartey suffers quarter-final defeat to UAE’s Moaz Mohamed",
       "link": "https://www.myjoyonline.com/dakar-2026-ghanaian-boxer-robert-tagoe-amartey-suffers-quarter-final-defeat-to-uaes-moaz-mohamed-2/",
@@ -100,50 +140,6 @@ window.GDC_PAPERS = {
         "National",
         "Fisk University",
         "Victor Emmanuel Smith"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘When we invest in one young woman, we touch many more lives’ – YSA Global opens Impact Circle Cohort 3",
-      "link": "https://www.myjoyonline.com/when-we-invest-in-one-young-woman-we-touch-many-more-lives-ysa-global-opens-impact-circle-cohort-3/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:04:55.000Z",
-      "summary": "Fifty young women have been selected for a year-long leadership and career development programme organised by youth development NGO YSA Global (Young Smart Africa), bringing the total…",
-      "categories": [
-        "National",
-        "News",
-        "Impact Circle initiative"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TCL partners Guinness Ghana DJ Awards 2026; announces fan gifts and regional watch parties",
-      "link": "https://www.myjoyonline.com/tcl-partners-guinness-ghana-dj-awards-2026-announces-fan-gifts-and-regional-watch-parties/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:59:38.000Z",
-      "summary": "Global technology brand TCL is bringing technology, music and fan excitement together through a major partnership with the Guinness Ghana DJ Awards 2026, promising an engaging experience…",
-      "categories": [
-        "Arts and Culture",
-        "Comp. Entertainment",
-        "Events",
-        "Music",
-        "National",
-        "Guinness Ghana DJ Awards 2026",
-        "TCL"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Amin Adam questions how the Mahama gov’t will raise US$10bn for the ‘New Economy’",
-      "link": "https://www.myjoyonline.com/amin-adam-questions-how-the-mahama-govt-will-raise-us10bn-for-the-new-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:59:11.000Z",
-      "summary": "The Minority in Parliament has expressed doubts about the government's ability to finance its proposed US$10 billion New Economy programme, demanding a detailed funding plan ahead of the…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Government",
-        "Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },
