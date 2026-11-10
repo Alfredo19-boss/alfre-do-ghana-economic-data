@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T13:53:19.510Z",
+  "updated": "2026-11-10T14:03:36.026Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Bond market: Turnover declines by 45% to GH¢2.72bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-45-to-gh%c2%a22-72bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:52:28.000Z",
+      "summary": "Trading remained concentrated in the 2027-2030 maturities, which accounted for 58.27% of turnover at a weighted-average yield of 13.01%.",
+      "categories": [
+        "Business",
+        "Stocks",
+        "2027 Budget",
+        "Bond market",
+        "turnover",
+        "YTM"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Prepare to meet us in court – Rent Commissioner tells UGEL management",
       "link": "https://www.myjoyonline.com/prepare-to-meet-us-in-court-rent-commissioner-tells-ugel-management/",
@@ -123,20 +139,6 @@ window.GDC_PAPERS = {
         "Economy",
         "HP Business 6",
         "Simon Madjie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kwadwo Sheldon hints at plans to contest Madina NPP parliamentary seat",
-      "link": "https://www.myjoyonline.com/kwadwo-sheldon-hints-at-plans-to-contest-madina-npp-parliamentary-seat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:29:26.000Z",
-      "summary": "Content creator Bernard Kwadwo Amoafo, famed Kwadwo Sheldon, has hinted at plans to contest the Madina Constituency parliamentary seat on the ticket of the New Patriotic Party (NPP). In a…",
-      "categories": [
-        "Politics",
-        "Kwadwo Sheldon",
-        "Madina NPP",
-        "Parliamentary seat"
       ],
       "site": "https://www.myjoyonline.com/"
     },

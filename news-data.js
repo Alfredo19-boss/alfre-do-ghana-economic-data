@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T13:53:12.572Z",
+  "updated": "2026-11-10T14:03:05.935Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,20 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (HTTP 520)",
+    "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Bond market: Turnover declines by 45% to GH¢2.72bn",
+      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-45-to-gh%c2%a22-72bn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:52:28.000Z",
+      "summary": "Trading remained concentrated in the 2027-2030 maturities, which accounted for 58.27% of turnover at a weighted-average yield of 13.01%."
+    },
     {
       "title": "President Mahama to launch Ghana Heritage Series Banknotes on 12 November",
       "link": "https://www.myjoyonline.com/president-mahama-to-launch-ghana-heritage-series-banknotes-on-12-november/",
