@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T17:13:35.916Z",
+  "updated": "2026-11-10T17:23:36.112Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NPP failed to monitor excavators, but things have changed under Armah-Kofi Buah – Lands Ministry spokesperson",
+      "link": "https://www.myjoyonline.com/npp-failed-to-monitor-excavators-but-things-have-changed-under-armah-kofi-buah-lands-ministry-spokesperson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:16:26.000Z",
+      "summary": "The Ministry of Lands and Natural Resources says it has strengthened its monitoring of excavators imported into the country, introducing stricter controls to prevent their diversion into…",
+      "categories": [
+        "National",
+        "Armah-Kofi-Buah",
+        "Escavators",
+        "NPP",
+        "Schandorf"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Defence Minister assures Military High Command of improved equipment and welfare support",
+      "link": "https://www.myjoyonline.com/defence-minister-assures-military-high-command-of-improved-equipment-and-welfare-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:15:34.000Z",
+      "summary": "Defence Minister Kenneth Gilbert Adjei has assured the Military High Command of the government's commitment to strengthening the Ghana Armed Forces through improved equipment…",
+      "categories": [
+        "National",
+        "Armed forces",
+        "Defence Minister",
+        "Military High Command"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian startup launches SMS-based AI platform to reach young people without internet access",
       "link": "https://www.myjoyonline.com/ghanaian-startup-launches-sms-based-ai-platform-to-reach-young-people-without-internet-access/",
@@ -112,32 +141,6 @@ window.GDC_PAPERS = {
         "D.A. Twum Jnr Fellowship",
         "Innova DDB Ghana",
         "The Ninani Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gilbert Edward Richter",
-      "link": "https://www.myjoyonline.com/gilbert-edward-richter/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:39:51.000Z",
-      "summary": "Dr. Johann Richter – Head of the Richter Family of Osu, Christian Coleman – Head of the Coleman Family of Osu and Akropong, Rev. Dr. Chris Hesse – Head of the Hesse Family, Head of Nii…",
-      "categories": [
-        "Obituary",
-        "Gilbert Edward Richter"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘New economy is old failed promises with new branding’ – Oppong Nkrumah",
-      "link": "https://www.myjoyonline.com/new-economy-is-old-failed-promises-with-new-branding-oppong-nkrumah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:36:50.000Z",
-      "summary": "MP for Ofoase-Ayirebi, Chairman of the NPP Policy Committee and Ranking Member of Parliament’s Economy and Development Committee, Kojo Oppong Nkrumah has described the government’s proposed…",
-      "categories": [
-        "National",
-        "Branding",
-        "Failed Promises",
-        "new economy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
