@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T23:23:44.070Z",
+  "updated": "2026-11-10T23:33:43.706Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -37,6 +37,32 @@ window.GDC_PAPERS = {
         "offshore fields",
         "oil bet",
         "Voltaian basin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "link": "https://www.myjoyonline.com/nvidia-hires-major-new-york-law-firm-to-investigate-jensen-huang-affair/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:30:00.000Z",
+      "summary": "Nvidia has hired New York law firm Wachtell, Lipton, Rosen & Katz to investigate the affair between its chief executive and an alleged Chinese spy.",
+      "categories": [
+        "International",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Malaysia’s disgraced former PM leaves jail for house arrest after embezzling millions",
+      "link": "https://www.myjoyonline.com/malaysias-disgraced-former-pm-leaves-jail-for-house-arrest-after-embezzling-millions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:21:00.000Z",
+      "summary": "Malaysia's disgraced former Prime Minister Najib Razak has arrived home to begin serving the rest of a jail sentence for corruption under house arrest.",
+      "categories": [
+        "International",
+        "Malaysia",
+        "Najib Razak"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -106,33 +132,6 @@ window.GDC_PAPERS = {
         "Ecuador",
         "Morocco",
         "Western Sahara"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NDC regional chairman aspirant unveils 10-pillar transformation agenda for Upper West",
-      "link": "https://www.myjoyonline.com/ndc-regional-chairman-aspirant-unveils-10-pillar-transformation-agenda-for-upper-west/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:40:51.000Z",
-      "summary": "An aspirant for the National Democratic Congress (NDC) Upper West Regional Chairmanship, Alhaji Alhassan Adams Randy, has unveiled a 10-pillar transformation agenda aimed at rebuilding the…",
-      "categories": [
-        "National",
-        "Alhassan Adams Randy",
-        "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AGN Chair backs stronger inclusion of children in global climate negotiations",
-      "link": "https://www.myjoyonline.com/agn-chair-backs-stronger-inclusion-of-children-in-global-climate-negotiations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:37:22.000Z",
-      "summary": "The Chair of the African Group of Negotiators on Climate Change (AGN), Nana Dr. Antwi-Boasiako Amoah, has pledged the Group's support for efforts to strengthen the participation of children…",
-      "categories": [
-        "National",
-        "African Group of Negotiators on Climate Change (AGN)",
-        "Climate change",
-        "Nana Dr. Antwi-Boasiako Amoah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
