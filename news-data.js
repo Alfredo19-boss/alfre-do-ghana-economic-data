@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T13:39:06.713Z",
+  "updated": "2026-11-10T13:53:12.572Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -14,13 +14,27 @@ window.GDC_NEWS = {
   ],
   "log": [
     "MyJoyOnline: 50/50 stories",
-    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "Citi Newsroom: failed (HTTP 520)",
     "The High Street Journal: 10/10 stories",
     "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "President Mahama to launch Ghana Heritage Series Banknotes on 12 November",
+      "link": "https://www.myjoyonline.com/president-mahama-to-launch-ghana-heritage-series-banknotes-on-12-november/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:42:57.000Z",
+      "summary": "Speaking ahead of the launch, Dr Johnson Pandit Asiama, Governor of the Bank of Ghana, said the upgraded banknotes form part of the Bank's efforts to modernise Ghana's currency and respond…"
+    },
+    {
+      "title": "Ghana’s banking sector urged to embrace AI, technology to remain competitive",
+      "link": "https://www.myjoyonline.com/ghanas-banking-sector-urged-to-embrace-ai-technology-to-remain-competitive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:39:55.000Z",
+      "summary": "Ghana’s banking industry has been urged to leverage emerging technologies, particularly artificial intelligence (AI), to strengthen operations, improve customer confidence and remain…"
+    },
     {
       "title": "Mahama to Cut Sod for US$98.41m Takoradi Port Berth Expansion",
       "link": "https://thehighstreetjournal.com/mahama-to-cut-sod-for-us98-41m-takoradi-port-berth-expansion/",

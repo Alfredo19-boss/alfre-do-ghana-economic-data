@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T13:39:36.651Z",
+  "updated": "2026-11-10T13:53:19.510Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,67 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prepare to meet us in court – Rent Commissioner tells UGEL management",
+      "link": "https://www.myjoyonline.com/prepare-to-meet-us-in-court-rent-commissioner-tells-ugel-management/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:47:03.000Z",
+      "summary": "Rent Commissioner Frederick Opoku has warned the management of the University of Ghana Enterprises Limited (UGEL) to prepare for possible legal action over its handling of accommodation fee…",
+      "categories": [
+        "National",
+        "court",
+        "Rent Commissioner",
+        "UGEL management"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "e-Crime Bureau signs cybersecurity partnership with Smart Africa to strengthen continental digital security",
+      "link": "https://www.myjoyonline.com/e-crime-bureau-signs-cybersecurity-partnership-with-smart-africa-to-strengthen-continental-digital-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:45:06.000Z",
+      "summary": "Cybersecurity consulting firm e-Crime Bureau has signed a Memorandum of Understanding (MoU) with the Smart Africa Secretariat to support the development of cybersecurity and strengthen…",
+      "categories": [
+        "National",
+        "Cyber security",
+        "e-Crime Bureau",
+        "Smart Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama to launch Ghana Heritage Series Banknotes on 12 November",
+      "link": "https://www.myjoyonline.com/president-mahama-to-launch-ghana-heritage-series-banknotes-on-12-november/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:42:57.000Z",
+      "summary": "Speaking ahead of the launch, Dr Johnson Pandit Asiama, Governor of the Bank of Ghana, said the upgraded banknotes form part of the Bank's efforts to modernise Ghana's currency and respond…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "BoG",
+        "Dr. Asiama",
+        "Heritage Series banknotes",
+        "President Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s banking sector urged to embrace AI, technology to remain competitive",
+      "link": "https://www.myjoyonline.com/ghanas-banking-sector-urged-to-embrace-ai-technology-to-remain-competitive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:39:55.000Z",
+      "summary": "Ghana’s banking industry has been urged to leverage emerging technologies, particularly artificial intelligence (AI), to strengthen operations, improve customer confidence and remain…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 7",
+        "2026 Ghana Banking Conference",
+        "CIB",
+        "Haruna Iddrisu",
+        "Minister of Education"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "DDC26 announces speakers to headline Ghana’s largest design conference",
       "link": "https://www.myjoyonline.com/ddc26-announces-speakers-to-headline-ghanas-largest-design-conference/",
@@ -76,68 +137,6 @@ window.GDC_PAPERS = {
         "Kwadwo Sheldon",
         "Madina NPP",
         "Parliamentary seat"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GWL says it lacks capacity to provide 24-hour water supply to all consumers",
-      "link": "https://www.myjoyonline.com/gwl-says-it-lacks-capacity-to-provide-24-hour-water-supply-to-all-consumers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:21:16.000Z",
-      "summary": "The Ghana Water Limited (GWL) says its current operational capacity does not allow it to provide uninterrupted water supply to all consumers across the country.",
-      "categories": [
-        "In Focus",
-        "National",
-        "GWCL",
-        "Water"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama announces new offshore oil discovery in Deepwater Cape Three Points block",
-      "link": "https://www.myjoyonline.com/mahama-announces-new-offshore-oil-discovery-in-deepwater-cape-three-points-block/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:18:50.000Z",
-      "summary": "President John Dramani Mahama has announced a new hydrocarbon discovery in the Deepwater Cape Three Points block in the Tano Basin, offshore Ghana. The discovery was made by Planet 1 Oil…",
-      "categories": [
-        "Energy",
-        "National",
-        "Top Story",
-        "Cape Three Points",
-        "Mahama",
-        "offshore",
-        "Oil discovery"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA exceeds 10-month revenue target with GH¢185.5bn collection as at October 2026",
-      "link": "https://www.myjoyonline.com/gra-exceeds-10-month-revenue-target-with-gh%c2%a2185-5bn-collection-as-at-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:18:05.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) has exceeded its revenue target for the first ten months of 2026, collecting GH¢185.5 billion against a target of GH¢184.4 billion. The collection…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 5",
-        "GRA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GRA targets GH¢310bn revenue by 2028, rules out overburdening compliant taxpayers",
-      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2310bn-revenue-by-2028-rules-out-overburdening-compliant-taxpayers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:10:46.000Z",
-      "summary": "The Ghana Revenue Authority (GRA) is targeting revenue mobilisation of GH¢310 billion by December 2028, with plans to broaden the tax base and improve compliance without placing additional…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 3",
-        "National",
-        "Anthony Kwasi Sarpong",
-        "B&FT",
-        "GRA"
       ],
       "site": "https://www.myjoyonline.com/"
     },
