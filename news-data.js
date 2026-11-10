@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T17:43:05.589Z",
+  "updated": "2026-11-10T17:53:04.798Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Youth Seek Tax Relief and Cheaper Credit to Boost Businesses and Jobs",
+      "link": "https://thehighstreetjournal.com/youth-seek-tax-relief-and-cheaper-credit-to-boost-businesses-and-jobs/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T17:45:24.000Z",
+      "summary": "Volta youth want the 2027 Budget to reduce business taxes, import duties and electricity costs while expanding affordable credit, arguing that lower operating costs could support enterprise…"
+    },
     {
       "title": "OPEC Chief Says Electrification Will Sustain Demand for Oil-Based Products",
       "link": "https://thehighstreetjournal.com/opec-chief-urges-electrification/",

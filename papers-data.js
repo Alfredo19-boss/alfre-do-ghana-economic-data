@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T17:43:35.791Z",
+  "updated": "2026-11-10T17:53:35.427Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana sets daily minimum wage at GH¢25.04 for 2027, GH¢28.79 for 2028",
+      "link": "https://www.myjoyonline.com/ghana-sets-daily-minimum-wage-at-gh%c2%a225-04-for-2027-gh%c2%a228-79-for-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:51:03.000Z",
+      "summary": "The National Tripartite Committee (NTC) has set Ghana’s National Daily Minimum Wage (NDMW) at GH¢25.04 for 2027 and GH¢28.79 for 2028 following negotiations among the government, employers…",
+      "categories": [
+        "Business",
+        "Economy",
+        "National",
+        "2027",
+        "25 cedis",
+        "Minimum wage",
+        "Tripartite Committee"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s minimum wage rises to GH¢25.04 in 2027, GH¢28.79 in 2028",
+      "link": "https://www.myjoyonline.com/ghanas-minimum-wage-rises-to-gh25-04-in-2027-gh28-79-in-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:46:21.000Z",
+      "summary": "The National Tripartite Committee (NTC) has agreed to increase Ghana’s National Daily Minimum Wage (NDMW) to GH¢25.04 for 2027 and GH¢28.79 for 2028 following negotiations among the…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Increase",
+        "Minimum wage"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jefferson Sackey declares intention for NPP Ablekuma Central primaries bid",
+      "link": "https://www.myjoyonline.com/jefferson-sackey-declares-intention-for-npp-ablekuma-central-primaries-bid/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:38:22.000Z",
+      "summary": "Former Deputy Director of Communications at the Presidency, Jefferson Kwamina Sackey has declared his intention to contest the New Patriotic Party’s (NPP) parliamentary primaries in…",
+      "categories": [
+        "Politics",
+        "Jefferson Sackey",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Jefferson Sackey declares intention to contest NPP primaries in Ablekuma Central",
       "link": "https://www.myjoyonline.com/jefferson-sackey-declares-intention-to-contest-npp-primaries-in-ablekuma-central/",
@@ -85,47 +129,6 @@ window.GDC_PAPERS = {
         "Energy",
         "National",
         "GNPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Abdul Wahab withdraws from NDC Communications Officer race",
-      "link": "https://www.myjoyonline.com/abdul-wahab-withdraws-from-ndc-communications-officer-race/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:26:15.000Z",
-      "summary": "Former Agona West Constituency Communications Officer of the National Democratic Congress (NDC), Abdul Wahab, popularly known as Africa Zion, has pulled out of the race for the party's…",
-      "categories": [
-        "Politics",
-        "Abdul Wahab",
-        "NDC Communication officer race"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GNPC outlines plans to strengthen indigenous operatorship and local content development",
-      "link": "https://www.myjoyonline.com/gnpc-outlines-plans-to-strengthen-indigenous-operatorship-and-local-content-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:21:51.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) has outlined plans to expand its role as an indigenous petroleum operator while strengthening opportunities for Ghanaian businesses and…",
-      "categories": [
-        "Energy",
-        "National",
-        "GNPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NPP failed to monitor excavators, but things have changed under Armah-Kofi Buah – Lands Ministry spokesperson",
-      "link": "https://www.myjoyonline.com/npp-failed-to-monitor-excavators-but-things-have-changed-under-armah-kofi-buah-lands-ministry-spokesperson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:16:26.000Z",
-      "summary": "The Ministry of Lands and Natural Resources says it has strengthened its monitoring of excavators imported into the country, introducing stricter controls to prevent their diversion into…",
-      "categories": [
-        "National",
-        "Armah-Kofi-Buah",
-        "Escavators",
-        "NPP",
-        "Schandorf"
       ],
       "site": "https://www.myjoyonline.com/"
     },
