@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T18:38:36.876Z",
+  "updated": "2026-11-10T18:48:37.031Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,63 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ablakwa expresses Ghana’s interest in nuclear energy cooperation with US",
+      "link": "https://www.myjoyonline.com/ablakwa-expresses-ghanas-interest-in-nuclear-energy-cooperation-with-us/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:38:59.000Z",
+      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has expressed Ghana's interest in exploring opportunities for cooperation with the United States in nuclear energy as the two…",
+      "categories": [
+        "National",
+        "Nuclear Energy",
+        "Samuel Okudzeto Ablakwa",
+        "United States"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "A policy born out of sight, not sympathy: Ghana’s new dawn for persons with disabilities",
+      "link": "https://www.myjoyonline.com/a-policy-born-out-of-sight-not-sympathy-ghanas-new-dawn-for-persons-with-disabilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:38:32.000Z",
+      "summary": "The launch of the Free Tertiary Education for Persons with Disabilities Initiative by His Excellency John Dramani Mahama has ignited renewed hope and pride among Ghana’s disability…",
+      "categories": [
+        "HP Opinion 3",
+        "Opinion",
+        "Free Tertiary Education",
+        "John Dramani Mahama",
+        "Persons with Disabilities"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t reaffirms commitment to women’s economic empowerment",
+      "link": "https://www.myjoyonline.com/govt-reaffirms-commitment-to-womens-economic-empowerment/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:38:25.000Z",
+      "summary": "The government has reaffirmed its commitment to strengthening women's economic empowerment through improved access to affordable financing, business development support, export training and…",
+      "categories": [
+        "National",
+        "5th Ghana Women Entrepreneurship Summit",
+        "Vice President Professor Naana Jane Opoku-Agyemang",
+        "women’s economic empowerment"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hassan Ayariga acknowledges government’s economic gains but questions impact on living standards",
+      "link": "https://www.myjoyonline.com/hassan-ayariga-acknowledges-governments-economic-gains-but-questions-impact-on-living-standards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:37:05.000Z",
+      "summary": "Founder and Leader of the All People’s Congress (APC), Dr Hassan Ayariga, has acknowledged improvements in Ghana’s macroeconomic performance under the National Democratic Congress (NDC)…",
+      "categories": [
+        "HP News 6",
+        "Politics",
+        "Gains",
+        "Hassan Ayariga"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minerals Commission CEO calls for prosecution of Chinese nationals involved in illegal mining",
       "link": "https://www.myjoyonline.com/minerals-commission-ceo-calls-for-prosecution-of-chinese-nationals-involved-in-illegal-mining/",
@@ -75,70 +132,6 @@ window.GDC_PAPERS = {
         "Business",
         "Blue Christmas",
         "Ecobank Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s lithium future: Will local communities get a fair share?",
-      "link": "https://www.myjoyonline.com/ghana-sets-daily-minimum-wage-at-gh%c2%a225-04-for-2027-gh%c2%a228-79-for-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:51:03.000Z",
-      "summary": "Ghana's ambition to become a lithium producer is entering a new phase as Chinese mining giant Zhejiang Huayou Cobalt moves closer to gaining control of Atlantic Lithium, the company behind…",
-      "categories": [
-        "Africa",
-        "Analysis",
-        "Business",
-        "Data",
-        "Economy",
-        "HP Research 3",
-        "Investments",
-        "Mining",
-        "National",
-        "Research",
-        "Atlantic Lithium",
-        "Communities",
-        "Huayou",
-        "lithium"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s minimum wage rises to GH¢25.04 in 2027, GH¢28.79 in 2028",
-      "link": "https://www.myjoyonline.com/ghanas-minimum-wage-rises-to-gh25-04-in-2027-gh28-79-in-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:46:21.000Z",
-      "summary": "The National Tripartite Committee (NTC) has agreed to increase Ghana’s National Daily Minimum Wage (NDMW) to GH¢25.04 for 2027 and GH¢28.79 for 2028 following negotiations among the…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Increase",
-        "Minimum wage"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jefferson Sackey declares intention for NPP Ablekuma Central primaries bid",
-      "link": "https://www.myjoyonline.com/jefferson-sackey-declares-intention-for-npp-ablekuma-central-primaries-bid/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:38:22.000Z",
-      "summary": "Former Deputy Director of Communications at the Presidency, Jefferson Kwamina Sackey has declared his intention to contest the New Patriotic Party’s (NPP) parliamentary primaries in…",
-      "categories": [
-        "Politics",
-        "Jefferson Sackey",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jefferson Sackey declares intention to contest NPP primaries in Ablekuma Central",
-      "link": "https://www.myjoyonline.com/jefferson-sackey-declares-intention-to-contest-npp-primaries-in-ablekuma-central/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:38:22.000Z",
-      "summary": "Former Deputy Director of Communications at the Presidency, Jefferson Kwamina Sackey has declared his intention to contest the New Patriotic Party’s (NPP) parliamentary primaries in…",
-      "categories": [
-        "Politics",
-        "Jefferson Sackey",
-        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },
