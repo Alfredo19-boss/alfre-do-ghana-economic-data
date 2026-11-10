@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T15:53:38.494Z",
+  "updated": "2026-11-10T16:03:38.382Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,77 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "TCL partners Guinness Ghana DJ Awards 2026; announces fan gifts and regional watch parties",
+      "link": "https://www.myjoyonline.com/tcl-partners-guinness-ghana-dj-awards-2026-announces-fan-gifts-and-regional-watch-parties/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:59:38.000Z",
+      "summary": "Global technology brand TCL is bringing technology, music and fan excitement together through a major partnership with the Guinness Ghana DJ Awards 2026, promising an engaging experience…",
+      "categories": [
+        "Arts and Culture",
+        "Comp. Entertainment",
+        "Events",
+        "Music",
+        "National",
+        "Guinness Ghana DJ Awards 2026",
+        "TCL"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Amin Adam questions how the Mahama gov’t will raise US$10bn for the ‘New Economy’",
+      "link": "https://www.myjoyonline.com/amin-adam-questions-how-the-mahama-govt-will-raise-us10bn-for-the-new-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:59:11.000Z",
+      "summary": "The Minority in Parliament has expressed doubts about the government's ability to finance its proposed US$10 billion New Economy programme, demanding a detailed funding plan ahead of the…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Government",
+        "Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Obuasi SHTS sexual abuse: Domestic Violence Coalition demands independent probe, accountability",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-domestic-violence-coalition-demands-independent-probe-accountability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:56:02.000Z",
+      "summary": "The Domestic Violence Coalition has called for an independent, comprehensive and survivor-centred investigation into the sexual abuse allegations involving female students of Obuasi Senior…",
+      "categories": [
+        "National",
+        "Domestic Violence Coalition",
+        "Obuasi SHTS sexual abuse"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority challenges government to publish jobs created under 24-Hour Economy",
+      "link": "https://www.myjoyonline.com/minority-challenges-government-to-publish-jobs-created-under-24-hour-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:53:47.000Z",
+      "summary": "The Minority in Parliament has demanded a verifiable account of employment generated under the government's 24-Hour Economy programme, questioning the administration's inability to provide…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Ato Forson",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Minority questions impact of falling inflation on cost of living",
+      "link": "https://www.myjoyonline.com/minority-questions-impact-of-falling-inflation-on-cost-of-living/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:53:14.000Z",
+      "summary": "The Minority in Parliament has questioned the extent to which Ghana’s declining inflation rate has improved the financial circumstances of ordinary households, arguing that the headline…",
+      "categories": [
+        "National",
+        "Amin Adam",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Minority demands names of firms benefiting from 24-Hour Economy tax incentives",
       "link": "https://www.myjoyonline.com/minority-demands-names-of-firms-benefiting-from-24-hour-economy-tax-incentives/",
@@ -72,89 +143,6 @@ window.GDC_PAPERS = {
         "Investments",
         "Abena Amoah",
         "GSE"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s economic stability is real but not yet self-sustaining – IMF",
-      "link": "https://www.myjoyonline.com/ghanas-economic-stability-is-real-but-not-yet-self-sustaining-imf/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:15:59.000Z",
-      "summary": "The International Monetary Fund (IMF) Resident Representative for Ghana, Dr. Adrian Alter, says Ghana’s recent economic stability is real but not yet self-sustaining, warning that…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "Ghana",
-        "IMF"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 budget to be presented at 6 pm on Thursday – Bagbin",
-      "link": "https://www.myjoyonline.com/2027-budget-to-be-presented-at-6-pm-on-thursday-bagbin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:10:08.000Z",
-      "summary": "The 2027 Budget Statement and Economic Policy will be presented to Parliament at 6pm on Thursday, November 12, Speaker Alban Bagbin has announced. The Speaker disclosed this in Parliament…",
-      "categories": [
-        "Economy",
-        "HP Business 2",
-        "National",
-        "News",
-        "Top Story",
-        "2027 Budget",
-        "Bagbin",
-        "Budget",
-        "Cassiel Ato Forson",
-        "thursdays"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
-      "link": "https://www.myjoyonline.com/2027-budget-must-prioritise-roads-water-and-electricity-for-commercial-farmers-prof-egyir/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:02:07.000Z",
-      "summary": "Agricultural economist Professor Irene Egyir has called on the government to increase investment in commercial agriculture and rural infrastructure in the 2027 Budget, saying farmers need…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "2027 Budget",
-        "commerical farmers",
-        "Electricity",
-        "Road",
-        "Water"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian jailed for two years for using a fraudulent Canadian passport 16 times",
-      "link": "https://www.myjoyonline.com/ghanaian-jailed-for-two-years-for-using-a-fraudulent-canadian-passport-16-times/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:53:05.000Z",
-      "summary": "A 22-year-old Ghanaian, Jefferson Zormelo, has been sentenced to two years in prison in Canada for using a fraudulent Canadian passport to enter and leave the country 16 times. Zormelo…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "News",
-        "Canada",
-        "Fraud",
-        "Ghanaian",
-        "Passport"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Republic Financial Holdings Limited announces Karen Yip Chuck as Group President Nigel Baptiste retires",
-      "link": "https://www.myjoyonline.com/republic-financial-holdings-limited-announces-karen-yip-chuck-as-group-president-nigel-baptiste-retires/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:47:42.000Z",
-      "summary": "Republic Financial Holdings Limited (RFHL) has announced a historic leadership transition following the retirement of Nigel Baptiste as Group President and Chief Executive Officer of RFHL…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "President Nigel Baptiste",
-        "Republic Financial Holdings"
       ],
       "site": "https://www.myjoyonline.com/"
     },

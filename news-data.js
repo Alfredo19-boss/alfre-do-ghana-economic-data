@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T15:53:06.078Z",
+  "updated": "2026-11-10T16:03:12.599Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "OPEC Fund, SEforALL Push to Scale Up Electricity Access Across Africa",
+      "link": "https://thehighstreetjournal.com/opec-fund-seforall-push-electricity-reach/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T16:03:00.000Z",
+      "summary": "Expanding access to reliable and affordable energy was critical to improving living standards, strengthening healthcare delivery and creating economic opportunities"
+    },
     {
       "title": "Drought Takes a Toll on Farmers as Water Shortages Disrupt Production",
       "link": "https://thehighstreetjournal.com/drought-takes-a-toll-on-farmers-as-water-shortages-disrupt-production/",
