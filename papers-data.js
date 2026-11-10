@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T19:03:35.344Z",
+  "updated": "2026-11-10T19:08:36.017Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Obuasi SHTS sexual abuse probe 85% complete; evidence points to prosecution – Education Minister",
+      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-probe-85-complete-evidence-points-to-prosecution-education-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T19:01:44.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, says investigations into the sexual abuse allegations involving female students of Obuasi Senior High Technical School (SHTS) are 85 per cent…",
+      "categories": [
+        "Education",
+        "HP News 3",
+        "National",
+        "Education Minister",
+        "Haruna Iddrisu",
+        "Obuasi SHTS sexual abuse"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ablakwa expresses Ghana’s interest in nuclear energy cooperation with US",
       "link": "https://www.myjoyonline.com/ablakwa-expresses-ghanas-interest-in-nuclear-energy-cooperation-with-us/",
@@ -70,7 +86,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-10T18:37:05.000Z",
       "summary": "Founder and Leader of the All People’s Congress (APC), Dr Hassan Ayariga, has acknowledged improvements in Ghana’s macroeconomic performance under the National Democratic Congress (NDC)…",
       "categories": [
-        "HP News 6",
+        "HP News 9",
         "Politics",
         "Gains",
         "Hassan Ayariga"
@@ -118,20 +134,6 @@ window.GDC_PAPERS = {
         "Transport",
         "GSA",
         "Silvia Asana Dauda Owu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecobank Ghana launches GH¢1m Blue Christmas promo for customers",
-      "link": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%c2%a21m-blue-christmas-promo-for-customers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:57:17.000Z",
-      "summary": "Ecobank Ghana PLC has launched its annual Blue Christmas promotion, committing more than GH¢1 million in cash prizes and vouchers to reward new and existing customers for their loyalty and…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "Blue Christmas",
-        "Ecobank Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
