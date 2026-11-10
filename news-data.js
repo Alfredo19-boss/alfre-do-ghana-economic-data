@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T18:18:06.799Z",
+  "updated": "2026-11-10T18:33:04.811Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Finance Ministry Tightens Project Approval Rules to Curb Unplanned Public Spending",
+      "link": "https://thehighstreetjournal.com/finance-ministry-tightens-project-approval-rules-to-curb-unplanned-public-spending/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T18:20:14.000Z",
+      "summary": "The Finance Ministry has tightened capital expenditure approval requirements, compelling public institutions to complete project appraisals and secure investment plan inclusion before…"
+    },
     {
       "title": "Rising Debt Costs Put Development Spending Under Pressure as Developing Countries Borrow More",
       "link": "https://thehighstreetjournal.com/rising-debt-costs-put-development-spending-under-pressure-as-developing-countries-borrow-more/",
