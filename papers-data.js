@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T21:03:45.152Z",
+  "updated": "2026-11-10T21:13:44.279Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Dr Zanetor Rawlings calls for national sex offenders register to protect children",
+      "link": "https://www.myjoyonline.com/dr-zanetor-rawlings-calls-for-national-sex-offenders-register-to-protect-children/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:09:14.000Z",
+      "summary": "The Minister of Environment, Science, Technology and Innovation, Dr Zanetor Agyeman-Rawlings, has called for the establishment of a national sex offenders register as part of efforts to…",
+      "categories": [
+        "HP News 9",
+        "National",
+        "Dr Zanetor Agyeman-Rawlings",
+        "national sex offenders register"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gender Ministry condemns death of five-year-old allegedly assaulted during parents’ dispute",
       "link": "https://www.myjoyonline.com/gender-ministry-condemns-death-of-five-year-old-allegedly-assaulted-during-parents-dispute/",
@@ -117,20 +131,6 @@ window.GDC_PAPERS = {
         "News",
         "African Union",
         "Silencing the Guns Initiative"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Anti-LGBTQ+ Bill: Parliament rescinds earlier passage; bill to return for further consideration",
-      "link": "https://www.myjoyonline.com/anti-lgbtq-bill-parliament-rescinds-earlier-passage-bill-to-return-for-further-consideration/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:02:11.000Z",
-      "summary": "Parliament has rescinded its earlier decision to pass the Human Sexual Rights and Family Values Bill 2025, following the discovery of inconsistencies between decisions taken by the House…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Anti-LGBTQ+ bill",
-        "Parliament"
       ],
       "site": "https://www.myjoyonline.com/"
     },
