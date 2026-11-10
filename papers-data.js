@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T14:33:36.051Z",
+  "updated": "2026-11-10T14:43:35.312Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,21 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GUTA calls for cheaper credit, lower business costs in 2027 Budget",
+      "link": "https://www.myjoyonline.com/guta-calls-for-cheaper-credit-lower-business-costs-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:40:30.000Z",
+      "summary": "The Ghana Union of Traders Associations (GUTA) has urged the government to introduce measures in the 2027 Budget to create a more enabling business environment, improve access to affordable…",
+      "categories": [
+        "Economy",
+        "National",
+        "2027 Budget",
+        "GUTA",
+        "Joseph Paddy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "NIA suspends date of birth changes on Ghana card until further notice",
       "link": "https://ghanaiantimes.com.gh/nia-suspends-date-of-birth-changes-on-ghana-card-until-further-notice/",
       "source": "Ghanaian Times",
@@ -33,6 +48,20 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "Finance Ministry considers $80m settlement to revive Teshie desalination plant",
+      "link": "https://www.myjoyonline.com/finance-ministry-considers-80m-settlement-to-revive-teshie-desalination-plant/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:32:14.000Z",
+      "summary": "The Finance Ministry has indicated that the government will assume the full financial cost of settling the contractual dispute over the Teshie desalination plant, Executive Secretary of the…",
+      "categories": [
+        "National",
+        "desalination plant",
+        "Finance Ministry",
+        "Teshie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Judicial service announces suspension of JUSAG strike, courts to resume today",
       "link": "https://ghanaiantimes.com.gh/judicial-service-announces-suspension-of-jusag-strike-courts-to-resume-today/",
       "source": "Ghanaian Times",
@@ -43,6 +72,20 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Wa Naa pledges support for nationwide awareness of the Ghana Medical Trust Fund",
+      "link": "https://www.myjoyonline.com/wa-naa-pledges-support-for-nationwide-awareness-of-the-ghana-medical-trust-fund/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:31:02.000Z",
+      "summary": "The Wa Naa, His Majesty Fuseini Seidu Pelpuo IV, has called for greater public awareness of the Ghana Medical Trust Fund (GMTF), describing the initiative as a major step towards helping…",
+      "categories": [
+        "National",
+        "Adjoa Obuobia Darko-Opoku",
+        "Ghana Medical Trust Fund",
+        "Wa Naa"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Former Black Stars defender Jonathan Mensah announces retirement",
@@ -198,50 +241,6 @@ window.GDC_PAPERS = {
         "IBRD",
         "IDA",
         "World Bank"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Bond market: Turnover declines by 45% to GH¢2.72bn",
-      "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-45-to-gh%c2%a22-72bn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:52:28.000Z",
-      "summary": "Trading remained concentrated in the 2027-2030 maturities, which accounted for 58.27% of turnover at a weighted-average yield of 13.01%.",
-      "categories": [
-        "Business",
-        "Stocks",
-        "2027 Budget",
-        "Bond market",
-        "turnover",
-        "YTM"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prepare to meet us in court – Rent Commissioner tells UGEL management",
-      "link": "https://www.myjoyonline.com/prepare-to-meet-us-in-court-rent-commissioner-tells-ugel-management/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:47:03.000Z",
-      "summary": "Rent Commissioner Frederick Opoku has warned the management of the University of Ghana Enterprises Limited (UGEL) to prepare for possible legal action over its handling of accommodation fee…",
-      "categories": [
-        "National",
-        "court",
-        "Rent Commissioner",
-        "UGEL management"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "e-Crime Bureau signs cybersecurity partnership with Smart Africa to strengthen continental digital security",
-      "link": "https://www.myjoyonline.com/e-crime-bureau-signs-cybersecurity-partnership-with-smart-africa-to-strengthen-continental-digital-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:45:06.000Z",
-      "summary": "Cybersecurity consulting firm e-Crime Bureau has signed a Memorandum of Understanding (MoU) with the Smart Africa Secretariat to support the development of cybersecurity and strengthen…",
-      "categories": [
-        "National",
-        "Cyber security",
-        "e-Crime Bureau",
-        "Smart Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
