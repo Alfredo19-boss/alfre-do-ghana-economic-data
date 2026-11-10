@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T14:53:05.105Z",
+  "updated": "2026-11-10T15:03:06.416Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -153,6 +153,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T12:06:00.000Z",
       "summary": "Rising heat threatens to wipe out cocoa flowers and young pods across Ghana’s cocoa belt, raising fears of deeper production losses and tighter supplies in the 2026/27 season."
+    },
+    {
+      "title": "OmniBSIC Bank named Marketing-Oriented Bank of the Year at CIMG Awards",
+      "link": "https://www.myjoyonline.com/omnibsic-bank-named-marketing-oriented-bank-of-the-year-at-cimg-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T12:05:00.000Z",
+      "summary": "OmniBSIC Bank has been named Marketing-Oriented Bank of the Year at the 37th Chartered Institute of Marketing, Ghana (CIMG) National Marketing Performance Awards. In addition, the Bank…"
     },
     {
       "title": "GACL Set to Deepen Revenue Diversification as Passenger Traffic Rises",

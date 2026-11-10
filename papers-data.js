@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T14:53:35.047Z",
+  "updated": "2026-11-10T15:03:36.713Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaian jailed for two years for using a fraudulent Canadian passport 16 times",
+      "link": "https://www.myjoyonline.com/ghanaian-jailed-for-two-years-for-using-a-fraudulent-canadian-passport-16-times/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:53:05.000Z",
+      "summary": "A 22-year-old Ghanaian, Jefferson Zormelo, has been sentenced to two years in prison in Canada for using a fraudulent Canadian passport to enter and leave the country 16 times. Zormelo…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "News",
+        "Canada",
+        "Fraud",
+        "Ghanaian",
+        "Passport"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Republic Financial Holdings Limited announces Karen Yip Chuck as Group President Nigel Baptiste retires",
       "link": "https://www.myjoyonline.com/republic-financial-holdings-limited-announces-karen-yip-chuck-as-group-president-nigel-baptiste-retires/",
@@ -68,7 +85,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-10T14:32:14.000Z",
       "summary": "The Finance Ministry has indicated that the government will assume the full financial cost of settling the contractual dispute over the Teshie desalination plant, Executive Secretary of the…",
       "categories": [
-        "HP News 2",
+        "HP News 5",
         "National",
         "desalination plant",
         "Finance Ministry",
@@ -221,26 +238,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nacee’s KAVOD 26 delivers an evening of drama, laughter and gospel music at National Theatre",
-      "link": "https://www.myjoyonline.com/nacees-kavod-26-delivers-an-evening-of-drama-laughter-and-gospel-music-at-national-theatre/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:02:10.000Z",
-      "summary": "Unlike a conventional gospel concert, KAVOD 26 adopted various entertainment formats, with a dramatic opening setting the tone for an evening that combined humour, social commentary…",
+      "title": "Peki SHS: Student dies after dormitory altercation over schoolbag",
+      "link": "https://www.graphic.com.gh/news/general-news/peki-shs-student-dies-after-dormitory-altercation-over-schoolbag.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T13:28:45.000Z",
+      "summary": "",
       "categories": [
-        "Arts and Culture",
-        "Comp. Entertainment",
-        "Events",
-        "HP Entertainment 1",
-        "Music",
-        "Theatre",
-        "Comedy",
-        "Drama",
-        "Gospel Music",
-        "KAVOD",
-        "Live performance",
-        "Nacee"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana, Slovakia to pursue visa waiver and defence cooperation",
@@ -313,17 +319,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/2nd-ghanafest-europe-fixed-for-december-8.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T09:22:32.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana tops West, Central Africa in maritime safety oversight",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-tops-west-central-africa-in-maritime-safety-oversight.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T08:51:27.000Z",
       "summary": "",
       "categories": [
         "General News"
