@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T15:33:36.389Z",
+  "updated": "2026-11-10T15:43:34.736Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Chief Justice finds no prima facie case in petition against Justice Gabriel Pwamang",
+      "link": "https://www.graphic.com.gh/news/general-news/chief-justice-finds-no-prima-facie-case-in-petition-against-justice-gabriel-pwamang.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T15:39:42.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Chief Justice finds no prima facie case against Justice Pwamang",
+      "link": "https://www.myjoyonline.com/chief-justice-finds-no-prima-facie-case-against-justice-pwamang/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:39:30.000Z",
+      "summary": "The Chief Justice has found no prima facie case to warrant further investigation into a petition submitted against Supreme Court Justice Gabriel Scott Pwamang. The petition was filed by Mr…",
+      "categories": [
+        "National",
+        "Chief Justice",
+        "Gabriel Pwamang",
+        "Prima facie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
       "link": "https://www.myjoyonline.com/ghanas-capital-market-has-money-but-lacks-investment-ready-projects-gse-md/",
@@ -143,21 +168,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Finance Ministry considers $80m settlement to revive Teshie desalination plant",
-      "link": "https://www.myjoyonline.com/finance-ministry-considers-80m-settlement-to-revive-teshie-desalination-plant/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:32:14.000Z",
-      "summary": "The Finance Ministry has indicated that the government will assume the full financial cost of settling the contractual dispute over the Teshie desalination plant, Executive Secretary of the…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "desalination plant",
-        "Finance Ministry",
-        "Teshie"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Judicial service announces suspension of JUSAG strike, courts to resume today",
@@ -315,17 +325,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/government-lifts-hamile-curfew-six-days-after-deadly-explosion.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T09:48:49.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "2nd GhanaFest Europe fixed for December 8",
-      "link": "https://www.graphic.com.gh/news/general-news/2nd-ghanafest-europe-fixed-for-december-8.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T09:22:32.000Z",
       "summary": "",
       "categories": [
         "General News"

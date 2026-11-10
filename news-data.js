@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T15:33:05.681Z",
+  "updated": "2026-11-10T15:43:04.087Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Drought Takes a Toll on Farmers as Water Shortages Disrupt Production",
+      "link": "https://thehighstreetjournal.com/drought-takes-a-toll-on-farmers-as-water-shortages-disrupt-production/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T15:40:00.000Z",
+      "summary": "A UCC crop scientist warns that prolonged water shortages are already destroying farm investments, with food supplies and prices at risk as Ghana struggles to prepare for drier conditions."
+    },
     {
       "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
       "link": "https://www.myjoyonline.com/ghanas-capital-market-has-money-but-lacks-investment-ready-projects-gse-md/",
