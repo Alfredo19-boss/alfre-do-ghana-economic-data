@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T17:23:06.049Z",
+  "updated": "2026-11-10T17:33:06.092Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GNPC welcomes Nya Gyidie-1X Hydrocarbon Discovery, sees new potential for Ghana’s Upstream Sector",
+      "link": "https://www.myjoyonline.com/gnpc-welcomes-nya-gyidie-1x-hydrocarbon-discovery-sees-new-potential-for-ghanas-upstream-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:26:41.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…"
+    },
+    {
+      "title": "GNPC outlines plans to strengthen indigenous operatorship and local content development",
+      "link": "https://www.myjoyonline.com/gnpc-outlines-plans-to-strengthen-indigenous-operatorship-and-local-content-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:21:51.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has outlined plans to expand its role as an indigenous petroleum operator while strengthening opportunities for Ghanaian businesses and…"
+    },
     {
       "title": "Finance Minister reaffirms government’s rice quota policy to increase local consumption",
       "link": "https://www.myjoyonline.com/finance-minister-reaffirms-governments-rice-quota-policy-to-increase-local-consumption/",

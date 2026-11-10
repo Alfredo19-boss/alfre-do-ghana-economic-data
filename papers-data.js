@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T17:23:36.112Z",
+  "updated": "2026-11-10T17:33:36.866Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,72 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s black gold and the quest for value",
+      "link": "https://www.myjoyonline.com/ghanas-black-gold-and-the-quest-for-value/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:30:22.000Z",
+      "summary": "The modern era of Ghana's petroleum industry began with the establishment of the Ghana National Petroleum Corporation (GNPC) in 1983 under the Ghana National Petroleum Corporation Act…",
+      "categories": [
+        "Energy",
+        "black gold",
+        "GNPC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Second gas processing plant expected to save Ghana $1bn annually – Mahama",
+      "link": "https://www.myjoyonline.com/second-gas-processing-plant-expected-to-save-ghana-1bn-annually-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:26:58.000Z",
+      "summary": "President John Mahama says Ghana is expected to save up to one billion dollars annually through the construction of its second gas processing facility, popularly known as GPP II.",
+      "categories": [
+        "HP News 2",
+        "National",
+        "gas processing plant",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GNPC welcomes Nya Gyidie-1X Hydrocarbon Discovery, sees new potential for Ghana’s Upstream Sector",
+      "link": "https://www.myjoyonline.com/gnpc-welcomes-nya-gyidie-1x-hydrocarbon-discovery-sees-new-potential-for-ghanas-upstream-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:26:41.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…",
+      "categories": [
+        "Energy",
+        "National",
+        "GNPC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Abdul Wahab withdraws from NDC Communications Officer race",
+      "link": "https://www.myjoyonline.com/abdul-wahab-withdraws-from-ndc-communications-officer-race/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:26:15.000Z",
+      "summary": "Former Agona West Constituency Communications Officer of the National Democratic Congress (NDC), Abdul Wahab, popularly known as Africa Zion, has pulled out of the race for the party's…",
+      "categories": [
+        "Politics",
+        "Abdul Wahab",
+        "NDC Communication officer race"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GNPC outlines plans to strengthen indigenous operatorship and local content development",
+      "link": "https://www.myjoyonline.com/gnpc-outlines-plans-to-strengthen-indigenous-operatorship-and-local-content-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:21:51.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has outlined plans to expand its role as an indigenous petroleum operator while strengthening opportunities for Ghanaian businesses and…",
+      "categories": [
+        "Energy",
+        "National",
+        "GNPC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NPP failed to monitor excavators, but things have changed under Armah-Kofi Buah – Lands Ministry spokesperson",
       "link": "https://www.myjoyonline.com/npp-failed-to-monitor-excavators-but-things-have-changed-under-armah-kofi-buah-lands-ministry-spokesperson/",
@@ -64,33 +130,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Patience Enyonam Akyianu",
-      "link": "https://www.myjoyonline.com/patience-enyonam-akyianu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:58:31.000Z",
-      "summary": "Mr Peter Korsinah, Head of Korsinah Family, Mawutor Kudoziah, the Korsinah and Allied Families, Nene Kpabitey Martey III – Nankese Amanfrom Odikro, Elizabeth Tawia – Queen Mother – Nankese…",
-      "categories": [
-        "Obituary",
-        "Patience Enyonam Akyianu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS abuse probe 85% complete, evidence points to prosecution – Haruna Iddrisu",
-      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-probe-85-complete-evidence-points-to-prosecution-haruna-iddrisu/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:55:09.000Z",
-      "summary": "Education Minister Haruna Iddrisu has told Parliament that the Ghana Education Service (GES) committee investigating sexual abuse allegations at Obuasi Senior High Technical School (SHTS)…",
-      "categories": [
-        "Education",
-        "National",
-        "Haruna Iddrisu",
-        "Obuasi SHTS",
-        "Prima facie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Omega Psi Phi Fraternity, PNHF to screen 100 men for prostate cancer",
       "link": "https://www.graphic.com.gh/news/health/omega-psi-phi-fraternity-pnhf-to-screen-100-men-for-prostate-cancer.html",
       "source": "Daily Graphic",
@@ -100,49 +139,6 @@ window.GDC_PAPERS = {
         "Health"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Agbodza dares Ofori-Atta to return to Ghana and witness Ato Forson’s performance",
-      "link": "https://www.myjoyonline.com/agbodza-dares-ofori-atta-to-return-to-ghana-and-witness-ato-forsons-performance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:53:28.000Z",
-      "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has challenged former Finance Minister Ken Ofori-Atta to return to Ghana and witness what he describes as a turnaround in the…",
-      "categories": [
-        "National",
-        "Ato Forison",
-        "Ghana",
-        "Ofori-Atta"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Finance Minister reaffirms government’s rice quota policy to increase local consumption",
-      "link": "https://www.myjoyonline.com/finance-minister-reaffirms-governments-rice-quota-policy-to-increase-local-consumption/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:43:26.000Z",
-      "summary": "Finance Minister, Dr. Cassiel Ato Forson has reaffirmed that rice importers may be required to purchase 50 percent of locally produced rice before permitted to import the remaining 50…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "HP Business 2",
-        "Finance Minister",
-        "Rice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "D. A. Twum Jnr. Fellowship graduates pioneer cohort, celebrating next generation of Ghana’s creative leaders",
-      "link": "https://www.myjoyonline.com/d-a-twum-jnr-fellowship-graduates-pioneer-cohort-celebrating-next-generation-of-ghanas-creative-leaders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:40:32.000Z",
-      "summary": "The D. A. Twum Jnr. Fellowship, powered by The Ninani Group, has successfully graduated its pioneer cohort following a three-month immersive learning and industry development programme…",
-      "categories": [
-        "Business",
-        "D.A. Twum Jnr Fellowship",
-        "Innova DDB Ghana",
-        "The Ninani Group"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "GIS boss unveils rotational transfer system, urges officers to stay resilient after Hamile blast",
