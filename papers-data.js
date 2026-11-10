@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T22:03:44.247Z",
+  "updated": "2026-11-10T22:13:44.199Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -29,7 +29,22 @@ window.GDC_PAPERS = {
       "categories": [
         "Education",
         "Regional",
+        "Daffiama-Bussie-Issa District",
+        "male students",
         "Richard Jakpa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CDABI Council congratulates Caleb Kwaku Afaglo on award of Doctor of Business Administration",
+      "link": "https://www.myjoyonline.com/cdabi-council-congratulates-caleb-kwaku-afaglo-on-award-of-doctor-of-business-administration/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:55:00.000Z",
+      "summary": "The Council of the Chamber of Digital Assets and Blockchain Innovations, Ghana Chapter (CDABI-GH), has congratulated its President, Caleb Kwaku Afaglo, on being awarded a Doctor of Business…",
+      "categories": [
+        "National",
+        "Caleb Kwaku Afaglo",
+        "CDABI"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -112,22 +127,6 @@ window.GDC_PAPERS = {
         "National",
         "Anloga tomato factory",
         "Vegetable farmers"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GACL targets year-end start for Wa, Bolgatanga and Sunyani airport projects",
-      "link": "https://www.myjoyonline.com/gacl-targets-year-end-start-for-wa-bolgatanga-and-sunyani-airport-projects/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:16:00.000Z",
-      "summary": "The Ghana Airports Company Limited (GACL) hopes to begin construction on airport projects in Wa, Bolgatanga and Sunyani before the end of 2026 to improve domestic connectivity and expand…",
-      "categories": [
-        "National",
-        "News",
-        "Transport",
-        "Ghana Airports Company Limited (GACL)",
-        "Sunyani",
-        "Wa Bolga"
       ],
       "site": "https://www.myjoyonline.com/"
     },
