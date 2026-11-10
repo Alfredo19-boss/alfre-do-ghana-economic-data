@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T20:53:43.773Z",
+  "updated": "2026-11-10T21:03:45.152Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gender Ministry condemns death of five-year-old allegedly assaulted during parents’ dispute",
+      "link": "https://www.myjoyonline.com/gender-ministry-condemns-death-of-five-year-old-allegedly-assaulted-during-parents-dispute/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T20:55:51.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection has condemned the death of a five-year-old pupil of Mim M/A Basic School in the Asunafo North Municipality of the Ahafo Region…",
+      "categories": [
+        "National",
+        "five year old",
+        "Gender Ministry",
+        "parents dispute"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Only ‘cheap men’ will shield Obuasi SHTS headmaster – Bagbin warns politicians against interfering in assault case",
+      "link": "https://www.myjoyonline.com/only-cheap-men-will-shield-obuasi-shts-headmaster-bagbin-warns-politicians-against-interfering-in-case/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T20:55:19.000Z",
+      "summary": "Speaker of Parliament Alban Bagbin has cautioned political leaders against shielding or interfering in the case involving the interdicted headmaster of Obuasi Senior High Technical School…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Obuasi SHS",
+        "Sexual Assault",
+        "Shield"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t plans acquisition of naval ships and aircraft to strengthen the military – Defence Minister",
+      "link": "https://www.myjoyonline.com/govt-plans-acquisition-of-naval-ships-and-aircraft-to-strengthen-the-military-defence-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T20:53:58.000Z",
+      "summary": "The government is advancing plans to acquire new naval ships and aircraft for the Ghana Armed Forces (GAF) as part of efforts to strengthen its operational readiness and military…",
+      "categories": [
+        "National",
+        "Aircraft",
+        "Defence Minister",
+        "naval ships"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Military High Command briefs Defence Minister on the state of the Ghana Armed Forces",
       "link": "https://www.myjoyonline.com/military-high-command-briefs-the-defence-minister-on-the-state-of-the-ghana-armed-forces/",
@@ -88,52 +131,6 @@ window.GDC_PAPERS = {
         "Top Story",
         "Anti-LGBTQ+ bill",
         "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana engages US civil rights lawyer Ben Crump over killings of nationals",
-      "link": "https://www.myjoyonline.com/ghana-engages-us-civil-rights-lawyer-ben-crump-over-killings-of-nationals/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T19:57:03.000Z",
-      "summary": "The Ministry of Foreign Affairs has approved the engagement of prominent US civil rights lawyer Ben Crump to assist Ghana in seeking justice for nationals killed in the United States in…",
-      "categories": [
-        "National",
-        "Ben Crump",
-        "Foreign Affairs Ministry",
-        "Ghanaian killings",
-        "US civil rights lawyer",
-        "US killings"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t considers legal backing for GES Code of Conduct – Education Minister",
-      "link": "https://www.myjoyonline.com/govt-considers-legal-backing-for-ges-code-of-conduct-education-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T19:44:43.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, says the government is considering elevating the Ghana Education Service (GES) Code of Conduct into legislation to ensure teachers who engage in…",
-      "categories": [
-        "Education",
-        "National",
-        "GES Code of Conduct",
-        "Haruna Iddrisu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "KNUST Researcher investigates how AI can improve brain scan analysis",
-      "link": "https://www.myjoyonline.com/knust-researcher-investigates-how-ai-can-improve-brain-scan-analysis/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T19:42:52.000Z",
-      "summary": "How well can artificial intelligence developed using medical data from Europe and North America analyse brain scans from Ghanaian patients? This question took Ghanaian biomedical engineer…",
-      "categories": [
-        "Health",
-        "Research",
-        "Technology",
-        "AI",
-        "brain scan",
-        "KNUST researcher"
       ],
       "site": "https://www.myjoyonline.com/"
     },
