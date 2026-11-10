@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T15:43:34.736Z",
+  "updated": "2026-11-10T15:53:38.494Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minority demands names of firms benefiting from 24-Hour Economy tax incentives",
+      "link": "https://www.myjoyonline.com/minority-demands-names-of-firms-benefiting-from-24-hour-economy-tax-incentives/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:47:47.000Z",
+      "summary": "The Minority in Parliament has challenged the government to account for the tax incentives announced under the 24-Hour Economy programme, demanding details of companies that have benefited…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "Amin Adam",
+        "Ato Forson",
+        "Minority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Chief Justice finds no prima facie case in petition against Justice Gabriel Pwamang",
       "link": "https://www.graphic.com.gh/news/general-news/chief-justice-finds-no-prima-facie-case-in-petition-against-justice-gabriel-pwamang.html",
@@ -38,6 +53,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-10T15:39:30.000Z",
       "summary": "The Chief Justice has found no prima facie case to warrant further investigation into a petition submitted against Supreme Court Justice Gabriel Scott Pwamang. The petition was filed by Mr…",
       "categories": [
+        "HP News 1",
         "National",
         "Chief Justice",
         "Gabriel Pwamang",
@@ -139,21 +155,6 @@ window.GDC_PAPERS = {
         "Business",
         "President Nigel Baptiste",
         "Republic Financial Holdings"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GUTA calls for cheaper credit, lower business costs in 2027 Budget",
-      "link": "https://www.myjoyonline.com/guta-calls-for-cheaper-credit-lower-business-costs-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:40:30.000Z",
-      "summary": "The Ghana Union of Traders Associations (GUTA) has urged the government to introduce measures in the 2027 Budget to create a more enabling business environment, improve access to affordable…",
-      "categories": [
-        "Economy",
-        "National",
-        "2027 Budget",
-        "GUTA",
-        "Joseph Paddy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
