@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:43:35.993Z",
+  "updated": "2026-11-10T16:48:35.215Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Finance Minister reaffirms government’s rice quota policy to increase local consumption",
+      "link": "https://www.myjoyonline.com/finance-minister-reaffirms-governments-rice-quota-policy-to-increase-local-consumption/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:43:26.000Z",
+      "summary": "Finance Minister, Dr. Cassiel Ato Forson has reaffirmed that rice importers may be required to purchase 50 percent of locally produced rice before permitted to import the remaining 50…",
+      "categories": [
+        "Agribusiness",
+        "Business",
+        "HP Business 2",
+        "Finance Minister",
+        "Rice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "D. A. Twum Jnr. Fellowship graduates pioneer cohort, celebrating next generation of Ghana’s creative leaders",
       "link": "https://www.myjoyonline.com/d-a-twum-jnr-fellowship-graduates-pioneer-cohort-celebrating-next-generation-of-ghanas-creative-leaders/",
@@ -127,19 +142,6 @@ window.GDC_PAPERS = {
         "Ghanaian",
         "Homicide",
         "Toronto"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s Ambassador to US, Victor Smith, visits Fisk University to strengthen historic ties",
-      "link": "https://www.myjoyonline.com/ghanas-ambassador-to-us-victor-smith-visits-fisk-university-to-strengthen-historic-ties/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:06:26.000Z",
-      "summary": "Ghana’s Ambassador to the United States, Victor Emmanuel Smith, has visited Fisk University in Nashville, Tennessee, to strengthen the longstanding academic and cultural relationship…",
-      "categories": [
-        "National",
-        "Fisk University",
-        "Victor Emmanuel Smith"
       ],
       "site": "https://www.myjoyonline.com/"
     },

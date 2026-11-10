@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T16:43:09.256Z",
+  "updated": "2026-11-10T16:48:04.074Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Finance Minister reaffirms government’s rice quota policy to increase local consumption",
+      "link": "https://www.myjoyonline.com/finance-minister-reaffirms-governments-rice-quota-policy-to-increase-local-consumption/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:43:26.000Z",
+      "summary": "Finance Minister, Dr. Cassiel Ato Forson has reaffirmed that rice importers may be required to purchase 50 percent of locally produced rice before permitted to import the remaining 50…"
+    },
     {
       "title": "D. A. Twum Jnr. Fellowship graduates pioneer cohort, celebrating next generation of Ghana’s creative leaders",
       "link": "https://www.myjoyonline.com/d-a-twum-jnr-fellowship-graduates-pioneer-cohort-celebrating-next-generation-of-ghanas-creative-leaders/",
