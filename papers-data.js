@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T14:23:37.441Z",
+  "updated": "2026-11-10T14:33:36.051Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,83 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NIA suspends date of birth changes on Ghana card until further notice",
+      "link": "https://ghanaiantimes.com.gh/nia-suspends-date-of-birth-changes-on-ghana-card-until-further-notice/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:32:18.000Z",
+      "summary": "The National Identification Authority (NIA) has temporarily suspended all date of birth changes on the Ghana Card across the country. The suspension takes effect from Monday, November 9…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Judicial service announces suspension of JUSAG strike, courts to resume today",
+      "link": "https://ghanaiantimes.com.gh/judicial-service-announces-suspension-of-jusag-strike-courts-to-resume-today/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:31:04.000Z",
+      "summary": "The Judicial Service of Ghana has announced the suspension of the industrial action by the Judicial Service Staff Association of Ghana (JUSAG) and the Senior Staff Association of the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Former Black Stars defender Jonathan Mensah announces retirement",
+      "link": "https://ghanaiantimes.com.gh/former-black-stars-defender-jonathan-mensah-announces-retirement/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:29:16.000Z",
+      "summary": "Former Ghanaian international defender Jonathan Mensah has announced his retirement from professional football after a career spanning several countries and more than a decade with the…",
+      "categories": [
+        "Hot!",
+        "Sports"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Edward Agyekum Kufuor declares intention to contest Atwima Nwabiagya North NPP Parliamentary Candidacy",
+      "link": "https://ghanaiantimes.com.gh/edward-agyekum-kufuor-declares-intention-to-contest-atwima-nwabiagya-north-npp-parliamentary-candidacy/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:27:32.000Z",
+      "summary": "Edward Agyekum Kufuor has formally declared his intention to contest for the New Patriotic Party (NPP) Parliamentary Candidacy for the Atwima Nwabiagya North Constituency. In a public…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ablakwa bids farewell to acting US Ambassador Rolf Olson, touts major diplomatic gains",
+      "link": "https://ghanaiantimes.com.gh/ablakwa-bids-farewell-to-acting-us-ambassador-rolf-olson-touts-major-diplomatic-gains/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:26:05.000Z",
+      "summary": "Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has hosted the acting United States Ambassador to Ghana, Mr. Rolf Olson, to a farewell meeting at the Foreign Ministry in Accra. Mr…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Dangote storms Ghana as President Mahama, GIPA’s Madjie lead Investment Summit on November 16-17, 2026",
+      "link": "https://www.myjoyonline.com/dangote-storms-ghana-as-president-mahama-gipas-madjie-lead-investment-summit-on-november-16-17-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:24:37.000Z",
+      "summary": "The two-day summit, scheduled for November 16–17 at the Kempinski Hotel Gold Coast City in Accra, will bring together local and international stakeholders to explore investment…",
+      "categories": [
+        "Business",
+        "Features",
+        "GIPA",
+        "Investment Summit",
+        "new economy",
+        "President Mahama",
+        "Simon Madjie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Speaker Bagbin to Media: Be watchdogs, not lapdogs, and guard Ghana against hate speech",
       "link": "https://ghanaiantimes.com.gh/speaker-bagbin-to-media-be-watchdogs-not-lapdogs-and-guard-ghana-against-hate-speech/",
@@ -51,18 +128,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-10T14:16:39.000Z",
       "summary": "Ghana and Sweden have pledged to deepen bilateral cooperation in the digital economy, artificial intelligence (AI), trade and investment. The commitment was made on Monday, November 9…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Black Stars to hold final training in Accra before Sekondi trip for Somalia double-header",
-      "link": "https://ghanaiantimes.com.gh/black-stars-to-hold-final-training-in-accra-before-sekondi-trip-for-somalia-double-header/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:14:24.000Z",
-      "summary": "The Black Stars will hold their final training session in Accra on Tuesday afternoon before travelling to Sekondi for their 2027 Africa Cup of Nations qualifying double-header against…",
       "categories": [
         "Hot!",
         "News"
@@ -181,22 +246,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "President Mahama to launch Ghana Heritage Series Banknotes on 12 November",
-      "link": "https://www.myjoyonline.com/president-mahama-to-launch-ghana-heritage-series-banknotes-on-12-november/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:42:57.000Z",
-      "summary": "Speaking ahead of the launch, Dr Johnson Pandit Asiama, Governor of the Bank of Ghana, said the upgraded banknotes form part of the Bank's efforts to modernise Ghana's currency and respond…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "BoG",
-        "Dr. Asiama",
-        "Heritage Series banknotes",
-        "President Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana, Slovakia to pursue visa waiver and defence cooperation",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-slovakia-to-pursue-visa-waiver-and-defence-cooperation.html",
       "source": "Daily Graphic",
@@ -283,50 +332,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "VAG marks Remembrance Day on Nov 11",
-      "link": "https://ghanaiantimes.com.gh/vag-marks-remembrance-day-on-nov-11/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:47:10.000Z",
-      "summary": "The Veterans Administration, Ghana (VAG), will on November 11, 2026, hold a Remembrance Day religious service at the Osu War Cemetery in Accra to honour men and women who died in the…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "UNFPA urges journalists to scrutinise development programmes",
-      "link": "https://ghanaiantimes.com.gh/unfpa-urges-journalists-to-scrutinise-development-programmes/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:45:38.000Z",
-      "summary": "The United Nations Population Fund (UNFPA) has urged journalists to go beyond headlines and intensify scrutiny of development programmes to ensure interventions translate into tangible…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GAYO targets 200 tonnes of organic waste monthly",
-      "link": "https://ghanaiantimes.com.gh/gayo-targets-200-tonnes-of-organic-waste-monthly/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:43:15.000Z",
-      "summary": "The Green Africa Youth Organisation (GAYO) is targeting a fourfold increase in the volume of organic waste it collects and diverts from landfills monthly, from 50 tonnes to 200 tonnes by…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "NFA moves to expand market for local films",
-      "link": "https://ghanaiantimes.com.gh/nfa-moves-to-expand-market-for-local-films/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:40:51.000Z",
-      "summary": "\\ The National Film Authority (NFA) has launched the Cinema Train Initiative to expand access to cinema across the country and give filmmakers better opportunities to exhibit and…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };

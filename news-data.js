@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T14:23:06.798Z",
+  "updated": "2026-11-10T14:33:05.408Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Dangote storms Ghana as President Mahama, GIPA’s Madjie lead Investment Summit on November 16-17, 2026",
+      "link": "https://www.myjoyonline.com/dangote-storms-ghana-as-president-mahama-gipas-madjie-lead-investment-summit-on-november-16-17-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:24:37.000Z",
+      "summary": "The two-day summit, scheduled for November 16–17 at the Kempinski Hotel Gold Coast City in Accra, will bring together local and international stakeholders to explore investment…"
+    },
     {
       "title": "Developing countries’ external debt surges to a record $9.4trn – World Bank",
       "link": "https://www.myjoyonline.com/developing-countries-external-debt-surges-to-a-record-9-4trn-world-bank/",
