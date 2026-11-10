@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:48:35.215Z",
+  "updated": "2026-11-10T16:58:35.967Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Obuasi SHTS abuse probe 85% complete, evidence points to prosecution – Haruna Iddrisu",
+      "link": "https://www.myjoyonline.com/obuasi-shts-abuse-probe-85-complete-evidence-points-to-prosecution-haruna-iddrisu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:55:09.000Z",
+      "summary": "Education Minister Haruna Iddrisu has told Parliament that the Ghana Education Service (GES) committee investigating sexual abuse allegations at Obuasi Senior High Technical School (SHTS)…",
+      "categories": [
+        "Education",
+        "National",
+        "Haruna Iddrisu",
+        "Obuasi SHTS",
+        "Prima facie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agbodza dares Ofori-Atta to return to Ghana and witness Ato Forson’s performance",
+      "link": "https://www.myjoyonline.com/agbodza-dares-ofori-atta-to-return-to-ghana-and-witness-ato-forsons-performance/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:53:28.000Z",
+      "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has challenged former Finance Minister Ken Ofori-Atta to return to Ghana and witness what he describes as a turnaround in the…",
+      "categories": [
+        "National",
+        "Ato Forison",
+        "Ghana",
+        "Ofori-Atta"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Finance Minister reaffirms government’s rice quota policy to increase local consumption",
       "link": "https://www.myjoyonline.com/finance-minister-reaffirms-governments-rice-quota-policy-to-increase-local-consumption/",
@@ -111,37 +140,6 @@ window.GDC_PAPERS = {
         "Ghana",
         "United States",
         "Victor Emmanuel Smith"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dakar 2026: Ghanaian boxer Robert Tagoe Amartey suffers quarter-final defeat to UAE’s Moaz Mohamed",
-      "link": "https://www.myjoyonline.com/dakar-2026-ghanaian-boxer-robert-tagoe-amartey-suffers-quarter-final-defeat-to-uaes-moaz-mohamed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:17:58.000Z",
-      "summary": "The 17-year-old had received a bye in the Round of 16, and his quarter-final contest against the United Arab Emirates' Moaz Mohamed presented him with an opportunity to secure a medal, as…",
-      "categories": [
-        "Football",
-        "National",
-        "Dakar 2026 Youth Olympics",
-        "Moaz Mohamed",
-        "Robert Tagoe Amartey"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "18-year-old Ghanaian shot in Canada identified as victim of Toronto’s 33rd homicide in 2026",
-      "link": "https://www.myjoyonline.com/18-year-old-ghanaian-shot-in-canada-identified-as-victim-of-torontos-33rd-homicide-in-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:07:30.000Z",
-      "summary": "An 18-year-old Ghanaian has been identified as the victim of a fatal shooting in Toronto, Canada, which has been recorded as the city’s 33rd homicide of 2026. The victim, identified by…",
-      "categories": [
-        "National",
-        "News",
-        "Canada",
-        "Ghanaian",
-        "Homicide",
-        "Toronto"
       ],
       "site": "https://www.myjoyonline.com/"
     },
