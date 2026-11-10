@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T10:34:58.681Z",
+  "updated": "2026-11-10T13:39:06.713Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,123 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 5/10 stories",
+    "Ghana Business News: 6/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Mahama to Cut Sod for US$98.41m Takoradi Port Berth Expansion",
+      "link": "https://thehighstreetjournal.com/mahama-to-cut-sod-for-us98-41m-takoradi-port-berth-expansion/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T13:36:33.000Z",
+      "summary": "The 300-metre facility will be funded entirely by GPHA as the authority looks to expand port capacity and strengthen its contribution to Ghana's trade sector."
+    },
+    {
+      "title": "Partnerships key to unlocking Ghana’s mineral wealth – MIIF CEO",
+      "link": "https://www.myjoyonline.com/partnerships-key-to-unlocking-ghanas-mineral-wealth-miif-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:31:42.000Z",
+      "summary": "Speaking on the sidelines of the 2026 China (Guangxi)–ASEAN Mining Cooperation Conference in China on Friday, November 6, Mrs. Nelson presented Ghana’s mineral resource potential and…"
+    },
+    {
+      "title": "Businesses must strengthen corporate governance to attract investment – GIPA",
+      "link": "https://www.myjoyonline.com/businesses-must-strengthen-corporate-governance-to-attract-investment-gipa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:31:00.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, has urged local businesses to strengthen corporate governance, improve financial transparency…"
+    },
+    {
+      "title": "Mahama announces new offshore oil discovery in Deepwater Cape Three Points block",
+      "link": "https://www.myjoyonline.com/mahama-announces-new-offshore-oil-discovery-in-deepwater-cape-three-points-block/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:18:50.000Z",
+      "summary": "President John Dramani Mahama has announced a new hydrocarbon discovery in the Deepwater Cape Three Points block in the Tano Basin, offshore Ghana. The discovery was made by Planet 1 Oil…"
+    },
+    {
+      "title": "GRA exceeds 10-month revenue target with GH¢185.5bn collection as at October 2026",
+      "link": "https://www.myjoyonline.com/gra-exceeds-10-month-revenue-target-with-gh%c2%a2185-5bn-collection-as-at-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:18:05.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has exceeded its revenue target for the first ten months of 2026, collecting GH¢185.5 billion against a target of GH¢184.4 billion. The collection…"
+    },
+    {
+      "title": "Different in Manifesto, Different in Policy Paper, Different on Ground–The 3 Faces of the 24-Hour Economy",
+      "link": "https://thehighstreetjournal.com/different-in-manifesto-different-in-policy-paper-different-on-ground-the-3-faces-of-the-24-hour-economy/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T13:18:00.000Z",
+      "summary": "Economist Dr. Adu Owusu Sarkodie questions the direction of Ghana’s 24-Hour Economy, arguing that its manifesto promise, policy document and actual implementation differ significantly, with…"
+    },
+    {
+      "title": "GRA targets GH¢310bn revenue by 2028, rules out overburdening compliant taxpayers",
+      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2310bn-revenue-by-2028-rules-out-overburdening-compliant-taxpayers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:10:46.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) is targeting revenue mobilisation of GH¢310 billion by December 2028, with plans to broaden the tax base and improve compliance without placing additional…"
+    },
+    {
+      "title": "Stop procurement waste, protect 70% of national spending – Minister",
+      "link": "https://www.ghanabusinessnews.com/2026/11/10/stop-procurement-waste-protect-70-of-national-spending-minister/",
+      "source": "Ghana Business News",
+      "published": "2026-11-10T12:57:31.000Z",
+      "summary": "Dr Cassiel Ato Baah Forson, Finance Minister, has charged procurement officers to protect the public purse from waste in national spending by strictly enforcing compliance mechanisms."
+    },
+    {
+      "title": "Government proposes three-tier royalty system for petroleum operations based on water depth",
+      "link": "https://www.myjoyonline.com/government-proposes-three-tier-royalty-system-for-petroleum-operations-based-on-water-depth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T12:56:58.000Z",
+      "summary": "The government is proposing a new royalty framework for petroleum operations, with payments to be determined under a three-tier sliding scale linked to the water depth of oil and gas…"
+    },
+    {
+      "title": "GNPC targets first Voltaian Basin exploration well by end of 2026",
+      "link": "https://www.myjoyonline.com/gnpc-targets-first-voltaian-basin-exploration-well-by-end-of-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T12:16:06.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) is preparing to drill its first exploration well in the Voltaian Basin by the end of 2026, as it advances efforts to assess the area’s…"
+    },
+    {
+      "title": "Crop Scientist Warns of “Serious Flower Abortion” as Heat Hits Ghana’s Cocoa Belt",
+      "link": "https://thehighstreetjournal.com/crop-scientist-warns-of-serious-flower-abortion-as-heat-hits-ghanas-cocoa-belt/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T12:06:00.000Z",
+      "summary": "Rising heat threatens to wipe out cocoa flowers and young pods across Ghana’s cocoa belt, raising fears of deeper production losses and tighter supplies in the 2026/27 season."
+    },
+    {
+      "title": "GACL Set to Deepen Revenue Diversification as Passenger Traffic Rises",
+      "link": "https://thehighstreetjournal.com/gacl-set-to-deepen-revenue-diversification-as-passenger-traffic-rises/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T12:02:34.000Z",
+      "summary": "GACL is targeting stronger commercial revenue as passenger traffic rises, with the Vice President calling for diversification to reduce reliance on aviation income and fund airport…"
+    },
+    {
+      "title": "Republic Bank Names First Female Group CEO as Nigel Baptiste Retires",
+      "link": "https://gna.org.gh/2026/11/republic-bank-names-first-female-group-ceo-as-nigel-baptiste-retires/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-10T11:50:45.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
+    {
+      "title": "Women’s Development Bank applies to BoG for banking licence – Vice President",
+      "link": "https://www.myjoyonline.com/womens-development-bank-applies-to-bog-for-banking-licence-vice-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T11:40:20.000Z",
+      "summary": "The proposed Women’s Development Bank has submitted an application to the Bank of Ghana (BoG) for a banking licence, marking a major step towards its establishment. Vice President Professor…"
+    },
+    {
+      "title": "Farmers Seek 15% Budget Allocation as Rising Production Costs Threaten Ghana’s Food Security",
+      "link": "https://thehighstreetjournal.com/farmers-seek-15-budget-allocation-as-rising-production-costs-threaten-ghanas-food-security/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T11:34:00.000Z",
+      "summary": "Kadjebi farmers want at least 15% of the 2027 national budget allocated to agriculture, citing financing gaps, rising production costs and inadequate irrigation infrastructure as threats to…"
+    },
+    {
+      "title": "After a Troubling Spell of Fuel Price Hikes, Prices Are Generally Falling – But Will It Last?",
+      "link": "https://thehighstreetjournal.com/after-a-troubling-spell-of-fuel-price-hikes-prices-are-generally-falling-but-will-it-last/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T10:46:00.000Z",
+      "summary": "After months of painful fuel price hikes, Star Oil and JP have reduced petrol and diesel prices, offering relief to Ghanaians. But global oil prices and cedi volatility threaten the…"
+    },
     {
       "title": "DFC’s $400m Private Capital Push to Expand Africa’s Digital Infrastructure",
       "link": "https://thehighstreetjournal.com/dfcs-400m-private-capital-push-to-expand-africas-digital-infrastructure/",

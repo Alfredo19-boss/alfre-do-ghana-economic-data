@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T10:35:29.753Z",
+  "updated": "2026-11-10T13:39:36.651Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,35 +21,183 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Jonathan Mensah calls time on professional football",
-      "link": "https://www.myjoyonline.com/jonathan-mensah-calls-time-on-professional-football/",
+      "title": "DDC26 announces speakers to headline Ghana’s largest design conference",
+      "link": "https://www.myjoyonline.com/ddc26-announces-speakers-to-headline-ghanas-largest-design-conference/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T10:28:45.000Z",
-      "summary": "The 2009 FIFA U-20 World Cup winner announced his retirement from the sport on Monday, November 9, calling time on an impressive career.",
+      "published": "2026-11-10T13:32:35.000Z",
+      "summary": "dEX Ghana Foundation has announced the speakers for DDC26, the seventh dEX Design Conference. The conference runs from 12 to 14 November 2026 at the National Theatre of Ghana under the…",
       "categories": [
-        "Football",
         "National",
-        "Black Stars",
-        "Jonathan Mensah"
+        "dEX Ghana Foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Black Sharks begin camping in Keta in readiness for Beach Soccer AFCON Senegal 2026",
-      "link": "https://www.myjoyonline.com/black-sharks-begin-camping-in-keta-in-readiness-for-beach-soccer-afcon-senegal-2026/",
+      "title": "Partnerships key to unlocking Ghana’s mineral wealth – MIIF CEO",
+      "link": "https://www.myjoyonline.com/partnerships-key-to-unlocking-ghanas-mineral-wealth-miif-ceo/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T09:55:32.000Z",
-      "summary": "The Keta camp marks the start of the final phase of Ghana's preparations for the continental showpiece, which will be played from November 28 to December 6, 2026, in Senegal.",
+      "published": "2026-11-10T13:31:42.000Z",
+      "summary": "Speaking on the sidelines of the 2026 China (Guangxi)–ASEAN Mining Cooperation Conference in China on Friday, November 6, Mrs. Nelson presented Ghana’s mineral resource potential and…",
       "categories": [
-        "Football",
-        "National",
-        "2026 Beach Soccer AFCON",
-        "Black Sharks"
+        "Business",
+        "Mining",
+        "Alhaji Yusif Sulemana",
+        "Bauxite",
+        "China",
+        "Iron ore",
+        "Justina Nelson",
+        "MIIF",
+        "Ministry of Lands"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Interior Ministry lifts Hamile curfew, maintains weapons ban",
+      "title": "Businesses must strengthen corporate governance to attract investment – GIPA",
+      "link": "https://www.myjoyonline.com/businesses-must-strengthen-corporate-governance-to-attract-investment-gipa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:31:00.000Z",
+      "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, has urged local businesses to strengthen corporate governance, improve financial transparency…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 6",
+        "Simon Madjie"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwadwo Sheldon hints at plans to contest Madina NPP parliamentary seat",
+      "link": "https://www.myjoyonline.com/kwadwo-sheldon-hints-at-plans-to-contest-madina-npp-parliamentary-seat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:29:26.000Z",
+      "summary": "Content creator Bernard Kwadwo Amoafo, famed Kwadwo Sheldon, has hinted at plans to contest the Madina Constituency parliamentary seat on the ticket of the New Patriotic Party (NPP). In a…",
+      "categories": [
+        "Politics",
+        "Kwadwo Sheldon",
+        "Madina NPP",
+        "Parliamentary seat"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GWL says it lacks capacity to provide 24-hour water supply to all consumers",
+      "link": "https://www.myjoyonline.com/gwl-says-it-lacks-capacity-to-provide-24-hour-water-supply-to-all-consumers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:21:16.000Z",
+      "summary": "The Ghana Water Limited (GWL) says its current operational capacity does not allow it to provide uninterrupted water supply to all consumers across the country.",
+      "categories": [
+        "In Focus",
+        "National",
+        "GWCL",
+        "Water"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama announces new offshore oil discovery in Deepwater Cape Three Points block",
+      "link": "https://www.myjoyonline.com/mahama-announces-new-offshore-oil-discovery-in-deepwater-cape-three-points-block/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:18:50.000Z",
+      "summary": "President John Dramani Mahama has announced a new hydrocarbon discovery in the Deepwater Cape Three Points block in the Tano Basin, offshore Ghana. The discovery was made by Planet 1 Oil…",
+      "categories": [
+        "Energy",
+        "National",
+        "Top Story",
+        "Cape Three Points",
+        "Mahama",
+        "offshore",
+        "Oil discovery"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA exceeds 10-month revenue target with GH¢185.5bn collection as at October 2026",
+      "link": "https://www.myjoyonline.com/gra-exceeds-10-month-revenue-target-with-gh%c2%a2185-5bn-collection-as-at-october-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:18:05.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) has exceeded its revenue target for the first ten months of 2026, collecting GH¢185.5 billion against a target of GH¢184.4 billion. The collection…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 5",
+        "GRA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GRA targets GH¢310bn revenue by 2028, rules out overburdening compliant taxpayers",
+      "link": "https://www.myjoyonline.com/gra-targets-gh%c2%a2310bn-revenue-by-2028-rules-out-overburdening-compliant-taxpayers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T13:10:46.000Z",
+      "summary": "The Ghana Revenue Authority (GRA) is targeting revenue mobilisation of GH¢310 billion by December 2028, with plans to broaden the tax base and improve compliance without placing additional…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 3",
+        "National",
+        "Anthony Kwasi Sarpong",
+        "B&FT",
+        "GRA"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana, Slovakia to pursue visa waiver and defence cooperation",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-slovakia-to-pursue-visa-waiver-and-defence-cooperation.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T13:03:16.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "President Mahama announces major gas, condensate discovery offshore Ghana",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-announces-major-gas-condensate-discovery-offshore-ghana.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T12:42:24.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ayariga sets new target for Aayalolo buses to double Accra passenger journeys from 8000 to 16,000 by Christmas 2026",
+      "link": "https://www.graphic.com.gh/news/general-news/aayalolo-targets-16-000-daily-passengers-by-christmas.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T11:05:36.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "National Identification Authority suspends date of birth amendments on Ghana Card",
+      "link": "https://www.graphic.com.gh/news/general-news/national-identification-authority-suspends-date-of-birth-amendments-on-ghana-card.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T09:53:24.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Service passport ‘goro boy’ deals: See the 4 passports earlier cancelled among 701 in May 2025 and resurfaced in 2026 allegation",
+      "link": "https://www.graphic.com.gh/news/general-news/service-passport-goro-boy-deals-see-the-4-passports-earlier-cancelled-among-701-in-may-2025-and-resurfaced-in-2026-passport-sale-brouhaha.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T09:51:17.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Hamile curfew lifted, ban on carrying firearms maintained",
       "link": "https://www.graphic.com.gh/news/general-news/government-lifts-hamile-curfew-six-days-after-deadly-explosion.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T09:48:49.000Z",
@@ -58,49 +206,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Daily Insight for CEOs: The CEO’s Responsibility for Financial Performance",
-      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-responsibility-for-financial-performance/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T09:45:24.000Z",
-      "summary": "Financial performance is not exclusively the responsibility of the Chief Financial Officer. It is a core leadership responsibility of the CEO because every major strategic decision has…",
-      "categories": [
-        "Features",
-        "Lifestyle",
-        "Opinion",
-        "Daily Insight",
-        "Ernest De-Graft Egyir",
-        "financial performance"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Beyond bank accounts: Queen Máxima hears Ghanaian entrepreneurs’ financial struggles",
-      "link": "https://www.myjoyonline.com/beyond-bank-accounts-queen-maxima-hears-ghanaian-entrepreneurs-financial-struggles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T09:35:14.000Z",
-      "summary": "Queen Máxima of the Netherlands has met Ghanaian microentrepreneurs in Accra to discuss the challenges of growing businesses, supporting families and building financial security.",
-      "categories": [
-        "Banking and Finance",
-        "Opportunity International Savings and Loans Ltd. (OISL)",
-        "Queen Máxima"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Climate change is becoming a matter of life and death for health systems – UN Climate Chief",
-      "link": "https://www.myjoyonline.com/climate-change-is-becoming-a-matter-of-life-and-death-for-health-systems-un-climate-chief/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T09:28:24.000Z",
-      "summary": "UN Climate Change Executive Secretary Simon Stiell has warned that climate change is increasingly threatening healthcare delivery, with extreme heat, flooding, power outages and disrupted…",
-      "categories": [
-        "Health",
-        "News",
-        "COP31",
-        "UN Climate Chief"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "2nd GhanaFest Europe fixed for December 8",
@@ -123,103 +228,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Labadi Beach Hotel celebrates 35 years of hospitality",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-labadi-beach-hotel-celebrates-35-years-of-hospitality.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T08:47:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament to create online platform for journalists — Speaker",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-to-create-online-platform-for-journalists-speaker.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T08:43:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "COP31 leaders call for shift from climate promises to practical action as implementation takes centre stage",
-      "link": "https://www.myjoyonline.com/cop31-leaders-call-for-shift-from-climate-promises-to-practical-action-as-implementation-takes-centre-stage/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T08:38:30.000Z",
-      "summary": "World leaders at the opening of COP31 in Antalya, Türkiye, have called for a stronger focus on implementing existing climate commitments, arguing that global targets and promises must…",
-      "categories": [
-        "News",
-        "Antalya",
-        "COP31"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Odarteifio files nomination for NDC National Youth Organiser",
-      "link": "https://www.graphic.com.gh/news/politics/odarteifio-files-nomination-for-ndc-national-youth-organiser.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T08:37:56.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana, four countries pursue new deals in trade, transport and security",
-      "link": "https://www.myjoyonline.com/ghana-four-countries-pursue-new-deals-in-trade-transport-and-security/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T08:35:29.000Z",
-      "summary": "Ghana has opened discussions on a range of bilateral cooperation initiatives with Sweden, Slovakia, Finland and Thailand following engagements with the four countries' newly appointed…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "Ghana",
-        "Security",
-        "Trade"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Relaunch of free fertiliser programme: 3.5m Bags of fertiliser for cocoa farmers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-relaunch-of-free-fertiliser-programme-3-5m-bags-of-fertiliser-for-cocoa-farmers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T08:32:28.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Rebecca Foundation equips young women with skills",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-rebecca-foundation-equips-young-women-with-skills.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T08:29:27.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana Card: NIA freezes date of birth corrections nationwide",
-      "link": "https://www.myjoyonline.com/ghana-card-nia-freezes-date-of-birth-corrections-nationwide/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T08:17:38.000Z",
-      "summary": "The National Identification Authority (NIA) has placed an immediate nationwide freeze on changes to dates of birth recorded on the Ghana Card as it moves to tighten the procedures for…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Ghana Card",
-        "NIA"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "VAG marks Remembrance Day on Nov 11",
