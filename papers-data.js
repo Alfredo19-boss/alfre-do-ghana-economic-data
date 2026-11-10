@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T21:43:44.123Z",
+  "updated": "2026-11-10T21:53:43.780Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -44,6 +44,19 @@ window.GDC_PAPERS = {
         "African Group of Negotiators on Climate Change (AGN)",
         "Climate change",
         "Nana Dr. Antwi-Boasiako Amoah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GH¢60,000 kidney treatment ordeal drives Pulima chief’s support for GMTF",
+      "link": "https://www.myjoyonline.com/gh%c2%a260000-kidney-treatment-ordeal-drives-pulima-chiefs-support-for-gmtf/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:34:00.000Z",
+      "summary": "The Paramount Chief of the Pulima and Gandawii Traditional Area, Kuoro Osman Deiwia Nankpa III, says a kidney condition that cost him more than GH¢60,000 to treat in 2008 has strengthened…",
+      "categories": [
+        "Health",
+        "GMTF",
+        "Pulima chief"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -116,21 +129,6 @@ window.GDC_PAPERS = {
         "five year old",
         "Gender Ministry",
         "parents dispute"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Only ‘cheap men’ will shield Obuasi SHTS headmaster – Bagbin warns politicians against interfering in assault case",
-      "link": "https://www.myjoyonline.com/only-cheap-men-will-shield-obuasi-shts-headmaster-bagbin-warns-politicians-against-interfering-in-case/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:55:19.000Z",
-      "summary": "Speaker of Parliament Alban Bagbin has cautioned political leaders against shielding or interfering in the case involving the interdicted headmaster of Obuasi Senior High Technical School…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Obuasi SHS",
-        "Sexual Assault",
-        "Shield"
       ],
       "site": "https://www.myjoyonline.com/"
     },
