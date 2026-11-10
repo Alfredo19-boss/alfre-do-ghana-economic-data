@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T17:53:35.427Z",
+  "updated": "2026-11-10T18:03:37.947Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ecobank Ghana launches GH¢1m Blue Christmas promo for customers",
+      "link": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%c2%a21m-blue-christmas-promo-for-customers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:57:17.000Z",
+      "summary": "Ecobank Ghana PLC has launched its annual Blue Christmas promotion, committing more than GH¢1 million in cash prizes and vouchers to reward new and existing customers for their loyalty and…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "Blue Christmas",
+        "Ecobank Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana sets daily minimum wage at GH¢25.04 for 2027, GH¢28.79 for 2028",
       "link": "https://www.myjoyonline.com/ghana-sets-daily-minimum-wage-at-gh%c2%a225-04-for-2027-gh%c2%a228-79-for-2028/",
@@ -112,23 +126,9 @@ window.GDC_PAPERS = {
       "published": "2026-11-10T17:26:58.000Z",
       "summary": "President John Mahama says Ghana is expected to save up to one billion dollars annually through the construction of its second gas processing facility, popularly known as GPP II.",
       "categories": [
-        "HP News 2",
         "National",
         "gas processing plant",
         "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GNPC welcomes Nya Gyidie-1X Hydrocarbon Discovery, sees new potential for Ghana’s Upstream Sector",
-      "link": "https://www.myjoyonline.com/gnpc-welcomes-nya-gyidie-1x-hydrocarbon-discovery-sees-new-potential-for-ghanas-upstream-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:26:41.000Z",
-      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore…",
-      "categories": [
-        "Energy",
-        "National",
-        "GNPC"
       ],
       "site": "https://www.myjoyonline.com/"
     },

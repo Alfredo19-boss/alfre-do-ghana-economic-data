@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T17:53:04.798Z",
+  "updated": "2026-11-10T18:03:06.741Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "FDI Success in Oil & Gas Must Be Measured by Progress of Local Firms, Workers – Prez Mahama",
+      "link": "https://thehighstreetjournal.com/fdi-success-in-oil-gas-must-be-measured-by-progress-of-local-firms-workers-prez-mahama/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T18:00:00.000Z",
+      "summary": "President Mahama wants foreign investment to deliver more technical expertise, procurement opportunities and skills development for Ghanaian businesses and workers."
+    },
+    {
+      "title": "Ecobank Ghana launches GH¢1m Blue Christmas promo for customers",
+      "link": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%c2%a21m-blue-christmas-promo-for-customers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:57:17.000Z",
+      "summary": "Ecobank Ghana PLC has launched its annual Blue Christmas promotion, committing more than GH¢1 million in cash prizes and vouchers to reward new and existing customers for their loyalty and…"
+    },
     {
       "title": "Youth Seek Tax Relief and Cheaper Credit to Boost Businesses and Jobs",
       "link": "https://thehighstreetjournal.com/youth-seek-tax-relief-and-cheaper-credit-to-boost-businesses-and-jobs/",
