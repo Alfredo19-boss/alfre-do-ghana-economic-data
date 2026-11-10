@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T18:08:36.405Z",
+  "updated": "2026-11-10T18:18:37.998Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -49,19 +49,26 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ghana sets daily minimum wage at GH¢25.04 for 2027, GH¢28.79 for 2028",
+      "title": "Ghana’s lithium future: Will local communities get a fair share?",
       "link": "https://www.myjoyonline.com/ghana-sets-daily-minimum-wage-at-gh%c2%a225-04-for-2027-gh%c2%a228-79-for-2028/",
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:51:03.000Z",
-      "summary": "The National Tripartite Committee (NTC) has set Ghana’s National Daily Minimum Wage (NDMW) at GH¢25.04 for 2027 and GH¢28.79 for 2028 following negotiations among the government, employers…",
+      "summary": "Ghana's ambition to become a lithium producer is entering a new phase as Chinese mining giant Zhejiang Huayou Cobalt moves closer to gaining control of Atlantic Lithium, the company behind…",
       "categories": [
+        "Africa",
+        "Analysis",
         "Business",
+        "Data",
         "Economy",
+        "HP Research 3",
+        "Investments",
+        "Mining",
         "National",
-        "2027",
-        "25 cedis",
-        "Minimum wage",
-        "Tripartite Committee"
+        "Research",
+        "Atlantic Lithium",
+        "Communities",
+        "Huayou",
+        "lithium"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T18:08:05.195Z",
+  "updated": "2026-11-10T18:18:06.799Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Rising Debt Costs Put Development Spending Under Pressure as Developing Countries Borrow More",
+      "link": "https://thehighstreetjournal.com/rising-debt-costs-put-development-spending-under-pressure-as-developing-countries-borrow-more/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T18:10:48.000Z",
+      "summary": "Developing countries increased external borrowing to US$9.4 trillion in 2025, but record interest costs and rising repayments threaten to reduce resources for infrastructure, public…"
+    },
     {
       "title": "Policy implementation gap undermining West African trade integration- GSA",
       "link": "https://www.myjoyonline.com/policy-implementation-gap-undermining-west-african-trade-integration-gsa/",
@@ -41,6 +48,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T17:57:17.000Z",
       "summary": "Ecobank Ghana PLC has launched its annual Blue Christmas promotion, committing more than GH¢1 million in cash prizes and vouchers to reward new and existing customers for their loyalty and…"
+    },
+    {
+      "title": "Ghana’s lithium future: Will local communities get a fair share?",
+      "link": "https://www.myjoyonline.com/ghana-sets-daily-minimum-wage-at-gh%c2%a225-04-for-2027-gh%c2%a228-79-for-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:51:03.000Z",
+      "summary": "Ghana's ambition to become a lithium producer is entering a new phase as Chinese mining giant Zhejiang Huayou Cobalt moves closer to gaining control of Atlantic Lithium, the company behind…"
     },
     {
       "title": "Youth Seek Tax Relief and Cheaper Credit to Boost Businesses and Jobs",
