@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T21:13:44.279Z",
+  "updated": "2026-11-10T21:33:44.774Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Non-interest banking is for everyone, not a religious tool – BoG Governor",
+      "link": "https://www.myjoyonline.com/non-interest-banking-is-for-everyone-not-a-religious-tool-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:31:26.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Asiama, has dispelled misconceptions surrounding non-interest banking, clarifying that the financial model is a commercial, inclusive…",
+      "categories": [
+        "National",
+        "Bank of Ghana",
+        "Banking"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Dr Zanetor Rawlings calls for national sex offenders register to protect children",
       "link": "https://www.myjoyonline.com/dr-zanetor-rawlings-calls-for-national-sex-offenders-register-to-protect-children/",
@@ -117,20 +130,6 @@ window.GDC_PAPERS = {
         "Regional",
         "Ho Central Constituency",
         "Richmond Kpotosu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Traditional institutions have a central role in building peace in Africa",
-      "link": "https://www.myjoyonline.com/traditional-institutions-have-a-central-role-in-building-peace-in-africa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:20:17.000Z",
-      "summary": "The Acting Coordinator of the Silencing the Guns Unit, Sheku Tejan Sesay, said that traditional authorities have a “central role” in building peace across the African continent. He said…",
-      "categories": [
-        "Africa",
-        "News",
-        "African Union",
-        "Silencing the Guns Initiative"
       ],
       "site": "https://www.myjoyonline.com/"
     },
