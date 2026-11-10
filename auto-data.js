@@ -3,7 +3,7 @@
  * Do not edit by hand; the next scheduled run overwrites this file.
  */
 window.GDC_AUTO = {
-  "updated": "2026-11-10T15:00:25.359Z",
+  "updated": "2026-11-10T15:37:19.529Z",
   "values": {
     "fx.usd": {
       "value": 11.69,
@@ -31,7 +31,7 @@ window.GDC_AUTO = {
       "note": "Per ounce"
     },
     "cocoa.usdPerTonne": {
-      "value": 4800,
+      "value": 4818,
       "date": "2026-11-10",
       "source": "ICE New York cocoa futures",
       "url": "https://finance.yahoo.com/quote/CC=F",
@@ -96,7 +96,7 @@ window.GDC_AUTO = {
       },
       {
         "date": "2026-11-10",
-        "value": 4800
+        "value": 4818
       }
     ]
   },
@@ -349,6 +349,14 @@ window.GDC_AUTO = {
     }
   },
   "log": [
+    {
+      "at": "2026-11-10T15:37:19.529Z",
+      "messages": [
+        "BoG FX: fx.usd, fx.gbp, fx.eur; table 18 currencies",
+        "currency-api: fx.usd, fx.gbp, fx.eur, gold.usdPerOz; table 25 currencies",
+        "cocoa: ok"
+      ]
+    },
     {
       "at": "2026-11-10T15:00:25.359Z",
       "messages": [
