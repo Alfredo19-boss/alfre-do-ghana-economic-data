@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T18:33:35.396Z",
+  "updated": "2026-11-10T18:38:36.876Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Minerals Commission CEO calls for prosecution of Chinese nationals involved in illegal mining",
+      "link": "https://www.myjoyonline.com/minerals-commission-ceo-calls-for-prosecution-of-chinese-nationals-involved-in-illegal-mining/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:34:03.000Z",
+      "summary": "The Chief Executive Officer of the Minerals Commission, Isaac Andrews Tandoh, has called for the strict enforcement of Ghana’s mining laws against Chinese nationals and companies involved…",
+      "categories": [
+        "National",
+        "Chinese nationals",
+        "Illegal mining",
+        "Minerals Commission CEO"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Patoranking reunites with Olamide for new Lagos-inspired single, ‘Welcome to Lagos’",
+      "link": "https://www.myjoyonline.com/patoranking-reunites-with-olamide-for-new-lagos-inspired-single-welcome-to-lagos/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:33:56.000Z",
+      "summary": "Produced by longtime Patoranking collaborator Ctea, the song combines rolling basslines, syncopated drums and a chant-driven hook, with Patoranking's signature blend of Afrobeats, reggae…",
+      "categories": [
+        "Arts and Culture",
+        "Music",
+        "New music",
+        "Olamide",
+        "Patoranking",
+        "Welcome to Lagos"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Policy implementation gap undermining West African trade integration- GSA",
       "link": "https://www.myjoyonline.com/policy-implementation-gap-undermining-west-african-trade-integration-gsa/",
@@ -109,34 +139,6 @@ window.GDC_PAPERS = {
         "Politics",
         "Jefferson Sackey",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Jospong Group showcases Ghanaian waste management solutions at COP31 in Türkiye",
-      "link": "https://www.myjoyonline.com/jospong-group-showcases-ghanaian-waste-management-solutions-at-cop31-in-turkiye/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:38:04.000Z",
-      "summary": "Ghanaian conglomerate Jospong Group of Companies is showcasing its waste management and recycling solutions at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye…",
-      "categories": [
-        "Technology",
-        "COP31",
-        "Jospong Group",
-        "waste management"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s black gold and the quest for value",
-      "link": "https://www.myjoyonline.com/ghanas-black-gold-and-the-quest-for-value/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:30:22.000Z",
-      "summary": "The modern era of Ghana's petroleum industry began with the establishment of the Ghana National Petroleum Corporation (GNPC) in 1983 under the Ghana National Petroleum Corporation Act…",
-      "categories": [
-        "Energy",
-        "Opinion",
-        "black gold",
-        "GNPC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
