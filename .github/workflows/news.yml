@@ -3,9 +3,9 @@ name: Update business news
 # Every five minutes: collects Ghana business headlines from publishers' RSS feeds into
 # news-data.js, the day's front pages into papers-data.js, and world and African headlines
 # into world-data.js. Commits only when there are new stories, so a quiet run changes nothing.
+# The five-minute refresh now runs inside "Update live rates" (live-rates.yml), which keeps
+# itself going reliably. This file stays for the "Run workflow" button.
 on:
-  schedule:
-    - cron: "*/5 * * * *"   # every five minutes
   workflow_dispatch:
 
 permissions:
