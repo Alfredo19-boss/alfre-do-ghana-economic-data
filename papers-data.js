@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T23:33:43.706Z",
+  "updated": "2026-11-10T23:43:44.281Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -37,6 +37,33 @@ window.GDC_PAPERS = {
         "offshore fields",
         "oil bet",
         "Voltaian basin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘Inflation of 5.2% means nothing’ to someone spending 12 hours travelling to Kumasi – Bokpin",
+      "link": "https://www.myjoyonline.com/inflation-of-5-2-means-nothing-to-someone-spending-12-hours-travelling-to-kumasi-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:59:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin says inflation of 5.2% means little to someone spending up to 12 hours travelling to Kumasi, arguing that improving economic indicators must…",
+      "categories": [
+        "Economy",
+        "National",
+        "Inflation",
+        "Prof. Godfred Bokpin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite ‘catastrophic’ AI warning",
+      "link": "https://www.myjoyonline.com/claude-chatbot-maker-set-for-1-3tn-stock-market-debut-despite-catastrophic-ai-warning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:41:00.000Z",
+      "summary": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq…",
+      "categories": [
+        "Technology",
+        "Anthropic",
+        "Claude"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -105,33 +132,6 @@ window.GDC_PAPERS = {
         "Daffiama-Bussie-Issa District",
         "male students",
         "Richard Jakpa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CDABI Council congratulates Caleb Kwaku Afaglo on award of Doctor of Business Administration",
-      "link": "https://www.myjoyonline.com/cdabi-council-congratulates-caleb-kwaku-afaglo-on-award-of-doctor-of-business-administration/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:55:00.000Z",
-      "summary": "The Council of the Chamber of Digital Assets and Blockchain Innovations, Ghana Chapter (CDABI-GH), has congratulated its President, Caleb Kwaku Afaglo, on being awarded a Doctor of Business…",
-      "categories": [
-        "National",
-        "Caleb Kwaku Afaglo",
-        "CDABI"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ecuador backs Morocco’s sovereignty over Sahara, plans ambassador’s visit",
-      "link": "https://www.myjoyonline.com/ecuador-backs-moroccos-sovereignty-over-sahara-plans-ambassadors-visit/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:44:00.000Z",
-      "summary": "Ecuador has expressed support for Morocco’s sovereignty over the Sahara region and announced plans for its ambassador to visit the territory.",
-      "categories": [
-        "Africa",
-        "Ecuador",
-        "Morocco",
-        "Western Sahara"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T23:33:13.221Z",
+  "updated": "2026-11-10T23:43:13.637Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,6 +27,20 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T23:20:24.000Z",
       "summary": "The Ghana National Petroleum Corporation (GNPC) says a rig could be on site by the end of the year. The big question is what happens to Ghana’s oil industry if the three main fields…"
+    },
+    {
+      "title": "‘Inflation of 5.2% means nothing’ to someone spending 12 hours travelling to Kumasi – Bokpin",
+      "link": "https://www.myjoyonline.com/inflation-of-5-2-means-nothing-to-someone-spending-12-hours-travelling-to-kumasi-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:59:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin says inflation of 5.2% means little to someone spending up to 12 hours travelling to Kumasi, arguing that improving economic indicators must…"
+    },
+    {
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite ‘catastrophic’ AI warning",
+      "link": "https://www.myjoyonline.com/claude-chatbot-maker-set-for-1-3tn-stock-market-debut-despite-catastrophic-ai-warning/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:41:00.000Z",
+      "summary": "Anthropic, the artificial intelligence (AI) company behind the Claude chatbot, could be valued at around $1.3 trillion (£1 trillion) when it lists its shares for sale on New York's Nasdaq…"
     },
     {
       "title": "Non-interest banking is for everyone, not a religious tool – BoG Governor",
