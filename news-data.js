@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T15:13:04.885Z",
+  "updated": "2026-11-10T15:23:11.067Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
+      "link": "https://www.myjoyonline.com/ghanas-capital-market-has-money-but-lacks-investment-ready-projects-gse-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:19:49.000Z",
+      "summary": "Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, says Ghana’s capital market has sufficient funds to support businesses and major infrastructure projects but lacks a strong…"
+    },
+    {
+      "title": "Ghana’s economic stability is real but not yet self-sustaining – IMF",
+      "link": "https://www.myjoyonline.com/ghanas-economic-stability-is-real-but-not-yet-self-sustaining-imf/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:15:59.000Z",
+      "summary": "The International Monetary Fund (IMF) Resident Representative for Ghana, Dr. Adrian Alter, says Ghana’s recent economic stability is real but not yet self-sustaining, warning that…"
+    },
     {
       "title": "2027 Budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
       "link": "https://www.myjoyonline.com/2027-budget-must-prioritise-roads-water-and-electricity-for-commercial-farmers-prof-egyir/",

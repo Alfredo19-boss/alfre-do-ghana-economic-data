@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T15:13:35.368Z",
+  "updated": "2026-11-10T15:23:36.631Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
+      "link": "https://www.myjoyonline.com/ghanas-capital-market-has-money-but-lacks-investment-ready-projects-gse-md/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:19:49.000Z",
+      "summary": "Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, says Ghana’s capital market has sufficient funds to support businesses and major infrastructure projects but lacks a strong…",
+      "categories": [
+        "Business",
+        "Investments",
+        "Abena Amoah",
+        "GSE"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s economic stability is real but not yet self-sustaining – IMF",
+      "link": "https://www.myjoyonline.com/ghanas-economic-stability-is-real-but-not-yet-self-sustaining-imf/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:15:59.000Z",
+      "summary": "The International Monetary Fund (IMF) Resident Representative for Ghana, Dr. Adrian Alter, says Ghana’s recent economic stability is real but not yet self-sustaining, warning that…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "Ghana",
+        "IMF"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "2027 Budget to be presented at 6 pm on Thursday – Bagbin",
       "link": "https://www.myjoyonline.com/2027-budget-to-be-presented-at-6-pm-on-thursday-bagbin/",
@@ -139,20 +168,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Wa Naa pledges support for nationwide awareness of the Ghana Medical Trust Fund",
-      "link": "https://www.myjoyonline.com/wa-naa-pledges-support-for-nationwide-awareness-of-the-ghana-medical-trust-fund/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:31:02.000Z",
-      "summary": "The Wa Naa, His Majesty Fuseini Seidu Pelpuo IV, has called for greater public awareness of the Ghana Medical Trust Fund (GMTF), describing the initiative as a major step towards helping…",
-      "categories": [
-        "National",
-        "Adjoa Obuobia Darko-Opoku",
-        "Ghana Medical Trust Fund",
-        "Wa Naa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Former Black Stars defender Jonathan Mensah announces retirement",
       "link": "https://ghanaiantimes.com.gh/former-black-stars-defender-jonathan-mensah-announces-retirement/",
       "source": "Ghanaian Times",
@@ -187,23 +202,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Dangote storms Ghana as President Mahama, GIPA’s Madjie lead Investment Summit on November 16-17, 2026",
-      "link": "https://www.myjoyonline.com/dangote-storms-ghana-as-president-mahama-gipas-madjie-lead-investment-summit-on-november-16-17-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:24:37.000Z",
-      "summary": "The two-day summit, scheduled for November 16–17 at the Kempinski Hotel Gold Coast City in Accra, will bring together local and international stakeholders to explore investment…",
-      "categories": [
-        "Business",
-        "Features",
-        "GIPA",
-        "Investment Summit",
-        "new economy",
-        "President Mahama",
-        "Simon Madjie"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Speaker Bagbin to Media: Be watchdogs, not lapdogs, and guard Ghana against hate speech",
