@@ -3,162 +3,478 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": null,
-  "sample": "Headlines from publishers' RSS feeds on 11 Sep 2026",
+  "updated": "2026-11-10T01:47:29.007Z",
+  "sources": [
+    "MyJoyOnline",
+    "Citi Newsroom",
+    "The High Street Journal",
+    "Ghana Business News",
+    "Ghana News Agency",
+    "News Ghana"
+  ],
+  "log": [
+    "MyJoyOnline: 50/50 stories",
+    "Citi Newsroom: failed (not an RSS/Atom feed)",
+    "The High Street Journal: 10/10 stories",
+    "Ghana Business News: 4/10 stories",
+    "Ghana News Agency: 1/1 stories",
+    "News Ghana: failed (HTTP 403)"
+  ],
   "items": [
     {
-      "title": "Ghana's WASH Future Hinges on Sustainable Systems, Not Just More Money",
-      "link": "https://thehighstreetjournal.com/ghanas-wash-future-hinges-on-sustainable-systems-not-just-more-money/",
+      "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
+      "link": "https://www.myjoyonline.com/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T00:35:00.000Z",
+      "summary": "Nvidia and Chief Executive Jensen Huang were sued on Monday in a proposed class action accusing them of defrauding shareholders by concealing Huang's ties to a suspected Chinese spy."
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss’s affair with alleged Chinese spy",
+      "link": "https://www.myjoyonline.com/trump-says-fbi-investigating-nvidia-bosss-affair-with-alleged-chinese-spy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T23:43:00.000Z",
+      "summary": "Donald Trump has said the FBI is investigating the affair between the boss of Nvidia and an alleged Chinese spy."
+    },
+    {
+      "title": "Nvidia shares tumble over investigation into Huang’s affair with alleged Chinese spy",
+      "link": "https://www.myjoyonline.com/nvidia-shares-tumble-over-investigation-into-huangs-affair-with-alleged-chinese-spy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T21:36:00.000Z",
+      "summary": "Hundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair…"
+    },
+    {
+      "title": "Ghana Plans Unified Digital Services Platform, Data Exchange for 48 Government Registries",
+      "link": "https://thehighstreetjournal.com/ghana-plans-unified-digital-services-site/",
       "source": "The High Street Journal",
-      "published": "2026-09-11T17:22:37Z",
-      "summary": ""
+      "published": "2026-11-09T19:19:38.000Z",
+      "summary": "The proposed upgrade of Ghana.gov is intended to create a single, integrated gateway through which citizens and businesses can access public services"
     },
     {
-      "title": "MTN Links SME Growth To Ghana's Economic Expansion",
-      "link": "https://thehighstreetjournal.com/mtn-links-sme-growth-to-ghanas-economic-expansion/",
+      "title": "2027 Budget must answer 3 key questions on the ‘New Economy’ – US-based economist",
+      "link": "https://www.myjoyonline.com/2027-budget-must-answer-3-key-questions-on-the-new-economy-us-based-economist/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T18:48:20.000Z",
+      "summary": "These important questions are “How much of the announced investment is genuinely new? How will the government finance the larger fiscal deficit? And how will the investment programme be…"
+    },
+    {
+      "title": "Ghana’s 2027 Budget: Three important policy questions about the New Economy",
+      "link": "https://www.myjoyonline.com/ghanas-2027-budget-three-important-policy-questions-about-the-new-economy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T18:16:07.000Z",
+      "summary": "The shift from macroeconomic stabilisation toward investment-led growth is a welcome policy direction. Having made significant progress in restoring macroeconomic stability, Ghana now has…"
+    },
+    {
+      "title": "Ghana Urges Global Investment in Digital Infrastructure to Close Technology Gap",
+      "link": "https://thehighstreetjournal.com/investment-in-digital-infrastructure/",
       "source": "The High Street Journal",
-      "published": "2026-09-11T17:05:00Z",
-      "summary": ""
+      "published": "2026-11-09T18:13:50.000Z",
+      "summary": "The next phase of the digital revolution could leave developing countries further behind if they lack the resources to build and deploy emerging technologies"
     },
     {
-      "title": "The Rise of Agentic Commerce: When machines become buyers",
-      "link": "https://www.myjoyonline.com/the-rise-of-agentic-commerce-when-machines-become-buyers/",
+      "title": "Ghana in final talks with Boeing over revival of national airline – Victor Smith",
+      "link": "https://www.myjoyonline.com/ghana-in-final-talks-with-boeing-over-revival-of-national-airline-victor-smith/",
       "source": "MyJoyOnline",
-      "published": "2026-09-11T15:43:24Z",
-      "summary": ""
+      "published": "2026-11-09T17:24:20.000Z",
+      "summary": "Ghana’s Ambassador to the United States, Victor Smith, says negotiations with Boeing over the establishment of a national airline are nearing completion. Speaking in an interview on…"
     },
     {
-      "title": "CBG launches PWD loan initiative to deepen financial inclusion",
-      "link": "https://www.myjoyonline.com/cbg-launches-pwd-loan-initiative-to-deepen-financial-inclusion/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T14:31:33Z",
-      "summary": ""
-    },
-    {
-      "title": "Every Ghanaian Must Have Access To Employment – Labour Minister",
-      "link": "https://thehighstreetjournal.com/every-ghanaian-must-have-access-to-employment-labour-minister/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T14:30:00Z",
-      "summary": ""
-    },
-    {
-      "title": "1 Million Tonnes of Waste, How Many Cedis in Revenue?",
-      "link": "https://thehighstreetjournal.com/1-million-tonnes-of-waste/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T14:12:00Z",
-      "summary": ""
-    },
-    {
-      "title": "CBG to take PWD finance nationwide – Deputy Managing Director",
-      "link": "https://www.myjoyonline.com/cbg-to-take-pwd-finance-nationwide-deputy-managing-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T14:02:42Z",
-      "summary": ""
-    },
-    {
-      "title": "CBG to expand responsible credit access for PWD-owned businesses – Managing Director",
-      "link": "https://www.myjoyonline.com/cbg-to-expand-responsible-credit-access-for-pwd-owned-businesses-managing-director/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T13:37:24Z",
-      "summary": ""
-    },
-    {
-      "title": "New Road Traffic Rules To Bring Greater Discipline To Roads – Transport Minister",
-      "link": "https://thehighstreetjournal.com/new-road-traffic-rules-to-bring-greater-discipline-to-roads-transport-minister/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T13:25:00Z",
-      "summary": ""
-    },
-    {
-      "title": "GHEITI Calls for Legal Reset of Ghana's Gas Aggregator Arrangement",
-      "link": "https://thehighstreetjournal.com/gheiti-calls-for-legal-reset-of-ghanas-gas-aggregator-arrangement/",
-      "source": "The High Street Journal",
-      "published": "2026-09-11T12:35:00Z",
-      "summary": ""
-    },
-    {
-      "title": "Ghana to launch tomato self-sufficiency initiative in Anloga",
-      "link": "https://www.myjoyonline.com/ghana-to-launch-tomato-self-sufficiency-initiative-in-anloga/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T11:43:18Z",
-      "summary": ""
-    },
-    {
-      "title": "DBG advocates tailored financing for Ghana's ICT sector",
-      "link": "https://www.myjoyonline.com/dbg-advocates-tailored-financing-for-ghanas-ict-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T09:54:22Z",
-      "summary": ""
-    },
-    {
-      "title": "We look forward to new regime from Oct. 1 – FABAG on fruit juice tax",
-      "link": "https://www.myjoyonline.com/we-look-forward-to-new-regime-from-oct-1-fabag-on-fruit-juice-tax/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T09:19:51Z",
-      "summary": ""
-    },
-    {
-      "title": "Okada, towing and digital fines: What Ghana's new road rules mean for motorists",
-      "link": "https://www.myjoyonline.com/okada-towing-and-digital-fines-what-ghanas-new-road-rules-mean-for-motorists/",
-      "source": "MyJoyOnline",
-      "published": "2026-09-11T09:13:38Z",
-      "summary": ""
-    },
-    {
-      "title": "Mahama warns boards against assuming management functions in SOEs",
-      "link": "https://www.ghanabusinessnews.com/2026/09/11/mahama-warns-boards-against-assuming-management-functions-in-soes/",
+      "title": "AGI advocates trade policy restrictions for foreign shopping malls",
+      "link": "https://www.ghanabusinessnews.com/2026/11/09/agi-advocates-trade-policy-restrictions-for-foreign-shopping-malls/",
       "source": "Ghana Business News",
-      "published": "2026-09-11T07:47:04Z",
-      "summary": ""
+      "published": "2026-11-09T17:17:28.000Z",
+      "summary": "The Association of Ghana Industries (AGI) has called for a trade policy that requires foreign-owned shopping malls operating in Ghana to allocate a specified percentage of their shelf space…"
     },
     {
-      "title": "Remittance services lead payment product approvals in 2025",
-      "link": "https://www.ghanabusinessnews.com/2026/09/11/remittance-services-lead-payment-product-approvals-in-2025/",
+      "title": "Two Ghanaian mothers win all-expenses-paid vacation as Nestlé NIDO concludes 3rd Obaatanpa Mo Promo",
+      "link": "https://www.myjoyonline.com/two-ghanaian-mothers-win-all-expenses-paid-vacation-as-nestle-nido-concludes-3rd-obaatanpa-mo-promo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T16:27:36.000Z",
+      "summary": "Apprey and Kasoa-based baker Gifty Antwi emerged as the grand prize winners, securing an all-expenses-paid family vacation to the tropical island of São Tomé, plus a £300 spending stipend…"
+    },
+    {
+      "title": "Climate Adaptation Could Lift Labour Income by Equivalent of 150 Million Jobs by 2050, World Bank Says",
+      "link": "https://thehighstreetjournal.com/climate-adaptationcouldlift-labour-income/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T16:06:00.000Z",
+      "summary": "The Bank estimates that adaptation measures could increase labour income by the equivalent of 35 million jobs"
+    },
+    {
+      "title": "World Bank Warns Weak Climate Governance Threatens Economic Growth Across 103 Economies",
+      "link": "https://thehighstreetjournal.com/world-bank-warns-weak-climate-governance/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T15:40:00.000Z",
+      "summary": "Projected economic losses from climate impacts range from 1% to 20% of gross domestic product by 2050 under current policies in the economies assessed"
+    },
+    {
+      "title": "WhiteBIT on Ghana’s Digital Asset Future: Moving from adoption to real-world utility",
+      "link": "https://www.myjoyonline.com/whitebit-on-ghanas-digital-asset-future-moving-from-adoption-to-real-world-utility/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T15:26:14.000Z",
+      "summary": "As Ghana advances its regulatory framework for digital assets, the global cryptocurrency exchange outlined potential applications of blockchain technology at AVAS 2026. WhiteBIT, a global…"
+    },
+    {
+      "title": "ISSER calls for increased capital spending to support businesses",
+      "link": "https://www.myjoyonline.com/isser-calls-for-increased-capital-spending-to-support-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T15:11:44.000Z",
+      "summary": "The Director of the Institute of Statistical, Social and Economic Research (ISSER), Professor Robert Darko Osei, is urging government to increase capital expenditure to support businesses…"
+    },
+    {
+      "title": "Ghana Energy Awards announces 2026 shortlisted nominees after record-breaking 600+ submissions",
+      "link": "https://www.myjoyonline.com/ghana-energy-awards-announces-2026-shortlisted-nominees-after-record-breaking-600-submissions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T14:27:27.000Z",
+      "summary": "The Secretariat of the prestigious Ghana Energy Awards (GEA) has officially announced the shortlisted nominees for the 2026 edition of the Awards, marking a significant milestone in the…"
+    },
+    {
+      "title": "Heavy Debt Makes Healthy Food Harder to Afford During Global Shocks",
+      "link": "https://thehighstreetjournal.com/heavy-debt-makes-healthy-food-harder-to-afford-during-global-shocks/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T14:16:00.000Z",
+      "summary": "The World Bank finds that heavily indebted countries face greater difficulty protecting households from rising food costs during global crises."
+    },
+    {
+      "title": "Some OMCs drop fuel prices ahead of November 16 review as competition intensifies",
+      "link": "https://www.myjoyonline.com/some-omcs-drop-fuel-prices-ahead-of-november-16-review-as-competition-intensifies/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T14:14:15.000Z",
+      "summary": "Under the current regulations governing the pricing of petroleum products, prices are supposed to be reviewed on the 1st and 16th of each month."
+    },
+    {
+      "title": "IEA backs government’s decision to join BRICS",
+      "link": "https://www.myjoyonline.com/iea-backs-governments-decision-to-join-brics/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T13:50:52.000Z",
+      "summary": "In a statement, it said Ghana’s proposed engagement with BRICS is neither a rejection of its traditional international partners nor a departure from its longstanding commitment to…"
+    },
+    {
+      "title": "Stiell Calls for Action on Climate Finance, Renewable Energy as COP31 Opens",
+      "link": "https://thehighstreetjournal.com/stiell-calls-for-action-on-climate-finance-renewable-energy-as-cop31-opens/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T13:48:43.000Z",
+      "summary": "COP31 opens with calls for faster climate action, greater adaptation finance and renewable energy investment as governments face mounting pressure to turn commitments into measurable…"
+    },
+    {
+      "title": "New Economy will transform Ghana’s economic structure — Ato Forson tells chiefs",
+      "link": "https://www.myjoyonline.com/new-economy-will-transform-ghanas-economic-structure-ato-forson-tells-chiefs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T13:26:30.000Z",
+      "summary": "Finance Minister Dr. Cassiel Ato Forson says the government’s New Economy programme is a four-year plan to transform Ghana’s economic structure. Speaking during a meeting with the National…"
+    },
+    {
+      "title": "Diplomatic and Service Passports: Who Qualifies, and What Makes Them Special?",
+      "link": "https://thehighstreetjournal.com/diplomatic-and-service-passports-who-qualifies-and-what-makes-them-special/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T13:21:00.000Z",
+      "summary": "Recently, there has been a controversy surrounding the alleged sale of Diplomatic and Service Passports. The issue has brought an otherwise ordinary travel document into the centre of…"
+    },
+    {
+      "title": "Banks Don’t Starve Agric of Loans Because of Default; It Defaults Because It Is Starved of Critical Infrastructure",
+      "link": "https://thehighstreetjournal.com/banks-dont-starve-agric-of-loans-because-of-default-it-defaults-because-it-is-starved-of-critical-infrastructure/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T12:19:00.000Z",
+      "summary": "Sitsofe Mensah argues that inadequate irrigation, poor feeder roads, weak land documentation and delayed payments make agriculture risky for banks, urging government to fix infrastructure…"
+    },
+    {
+      "title": "Adamus Australia Appeals High Court Injunction Decision, Insists Ghana Share Ownership Dispute Remains Unresolved",
+      "link": "https://thehighstreetjournal.com/adamus-australia-appeals-high-court-injunction-decision-insists-ghana-share-ownership-dispute-remains-unresolved/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T12:03:00.000Z",
+      "summary": "Adamus Resources Pty Limited, the Australian company at the centre of the dispute over the 90 per cent shareholding in Adamus Resources Limited (Adamus Ghana), says it has appealed the High…"
+    },
+    {
+      "title": "Aliko Dangote to Headline Ghana Investment Summit on Nov. 16",
+      "link": "https://thehighstreetjournal.com/dangote-toheadlineghana-investment-summit/",
+      "source": "The High Street Journal",
+      "published": "2026-11-09T10:54:32.000Z",
+      "summary": "The summit will bring together international investors, multinational companies, policymakers and business executives to explore opportunities in manufacturing, agribusiness…"
+    },
+    {
+      "title": "Ghana Chamber of Mines donates US$400,000 to GAF to support redevelopment of Burma Camp",
+      "link": "https://www.myjoyonline.com/ghana-chamber-of-mines-donates-us400000-to-gaf-to-support-redevelopment-of-burma-camp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T09:25:08.000Z",
+      "summary": "The Ghana Chamber of Mines has donated US$400,000 towards the ongoing redevelopment of Burma Camp to support the provision of decent accommodation for personnel of the Ghana Armed Forces…"
+    },
+    {
+      "title": "Patricia Sappor launches a new book, ‘Creating a Unique Client Experience’",
+      "link": "https://www.myjoyonline.com/patricia-sappor-launches-a-new-book-creating-a-unique-client-experience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T06:05:00.000Z",
+      "summary": "…unveils THE SAPPOR FRAMEWORK Mrs. Patricia Sappor, one of Ghana’s most respected banking executives and the first woman to lead the Chartered Institute of Bankers, Ghana (CIB Ghana), has…"
+    },
+    {
+      "title": "Advans Ghana empowers over 150 women through breast cancer screening and financial literacy outreach",
+      "link": "https://www.myjoyonline.com/advans-ghana-empowers-over-150-women-through-breast-cancer-screening-and-financial-literacy-outreach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T06:04:00.000Z",
+      "summary": "Advans Ghana Savings & Loans Limited has reaffirmed its commitment to women’s health and economic empowerment by organizing a breast cancer awareness and screening exercise alongside a…"
+    },
+    {
+      "title": "Huayou, seeking control of Ghana’s Ewoyaa lithium mine, faces scrutiny over compensation delays in Congo",
+      "link": "https://www.myjoyonline.com/huayou-seeking-control-of-ghanas-ewoyaa-lithium-mine-faces-scrutiny-over-compensation-delays-in-congo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T05:56:30.000Z",
+      "summary": "Zhejiang Huayou Cobalt, the Chinese company seeking to acquire Atlantic Lithium, the developer of Ghana’s Ewoyaa lithium mine, is facing scrutiny in the Democratic Republic of Congo over…"
+    },
+    {
+      "title": "Analysis: Presidency says new national airline is viable. Government should publish the reports",
+      "link": "https://www.myjoyonline.com/analysis-presidency-says-new-national-airline-is-viable-government-should-publish-the-reports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T05:47:19.000Z",
+      "summary": "The Presidency says preliminary studies have confirmed that Ghana’s proposed national airline is viable."
+    },
+    {
+      "title": "ADB launches Green-Grow scheme to empower smallholder vegetable farmers",
+      "link": "https://www.myjoyonline.com/adb-launches-green-grow-scheme-to-empower-smallholder-vegetable-farmers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T05:28:00.000Z",
+      "summary": "Agricultural Development Bank (ADB) PLC has launched its Green-Grow Vegetable Farmers Lending Scheme to expand access to structured agricultural financing and boost local vegetable…"
+    },
+    {
+      "title": "Ghana nears finish line in external debt restructuring – GSDR",
+      "link": "https://www.myjoyonline.com/ghana-nears-finish-line-in-external-debt-restructuring-gsdr/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-09T03:41:00.000Z",
+      "summary": "Ghana’s external debt restructuring is nearing completion, with 16 of 25 bilateral agreements with official creditors finalised, according to the Global Sovereign Debt Roundtable (GSDR)."
+    },
+    {
+      "title": "UCC crop scientist calls for investment in neglected crops to boost food security",
+      "link": "https://www.ghanabusinessnews.com/2026/11/09/ucc-crop-scientist-calls-for-investment-in-neglected-crops-to-boost-food-security/",
       "source": "Ghana Business News",
-      "published": "2026-09-11T07:42:12Z",
-      "summary": ""
+      "published": "2026-11-09T03:40:12.000Z",
+      "summary": "Professor Michael Osei Adu, a Professor of Crop Ecophysiology and Improvement at the University of Cape Coast (UCC), has called for more research and increased investment in neglected and…"
     },
     {
-      "title": "GPHA seeks regional cooperation to boost port competitiveness, AfCFTA trade",
-      "link": "https://www.ghanabusinessnews.com/2026/09/11/gpha-seeks-regional-cooperation-to-boost-port-competitiveness-afcfta-trade/",
+      "title": "Without media, economic policy means nothing to citizens – Governor",
+      "link": "https://www.ghanabusinessnews.com/2026/11/09/without-media-economic-policy-means-nothing-to-citizens-governor/",
       "source": "Ghana Business News",
-      "published": "2026-09-11T07:38:59Z",
-      "summary": ""
+      "published": "2026-11-09T03:33:48.000Z",
+      "summary": "Economic policy means nothing to citizens if they do not understand it, Dr Johnson Pandit Asiam, Governor of the Bank of Ghana (BoG), has said, describing the media is an essential partner…"
     },
     {
-      "title": "Telecel Shop unveiled to connect shoppers and businesses on one digital platform",
-      "link": "https://www.myjoyonline.com/telecel-shop-unveiled-to-connect-shoppers-and-businesses-on-one-digital-platform/",
+      "title": "Dangote to join President Mahama at GIPA Invest Ghana Summit",
+      "link": "https://www.ghanabusinessnews.com/2026/11/09/dangote-to-join-president-mahama-at-gipa-invest-ghana-summit/",
+      "source": "Ghana Business News",
+      "published": "2026-11-09T03:30:11.000Z",
+      "summary": "Mr Aliko Dangote, Africa’s foremost industrialist, and Chief Executive of the Dangote Group, West Africa’s largest conglomerate, will join President John Dramani Mahama to open the Invest…"
+    },
+    {
+      "title": "Fidelity Bank picks Atta Yeboah Gyan as MD, pending BoG approval",
+      "link": "https://www.myjoyonline.com/fidelity-bank-picks-atta-yeboah-gyan-as-md-pending-bog-approval/",
       "source": "MyJoyOnline",
-      "published": "2026-09-11T03:54:00Z",
-      "summary": ""
+      "published": "2026-11-09T03:23:00.000Z",
+      "summary": "Fidelity Bank's Board has selected Deputy Managing Director Atta Yeboah Gyan as the bank’s next Managing Director, effective November 21, 2026."
     },
     {
-      "title": "GOIL's biggest strength lies in its people, structures and strong internal systems – Bawa",
-      "link": "https://www.myjoyonline.com/goils-biggest-strength-lies-in-its-people-structures-and-strong-internal-systems-bawa/",
+      "title": "Aliko Dangote to join President Mahama at Invest Ghana Summit 2026",
+      "link": "https://www.myjoyonline.com/aliko-dangote-to-join-president-mahama-at-invest-ghana-summit-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-09-11T03:24:00Z",
-      "summary": ""
+      "published": "2026-11-08T16:11:43.000Z",
+      "summary": "Convened by the Ghana Investment Promotion Authority (GIPA), with support from the Ministry of Trade, Agribusiness and Industry; Ghana Export Promotion Authority (GEPA); Bank of Ghana…"
     },
     {
-      "title": "Edward Bawa says GOIL leadership transition has been smoother than expected",
-      "link": "https://www.myjoyonline.com/edward-bawa-says-goil-leadership-transition-has-been-smoother-than-expected/",
+      "title": "Ghana ranks 18th in Sub-Saharan Africa in terms of total revenue-to-GDP ratio",
+      "link": "https://www.myjoyonline.com/ghana-ranks-18th-in-sub-saharan-africa-in-terms-of-total-revenue-to-gdp-ratio/",
       "source": "MyJoyOnline",
-      "published": "2026-09-11T03:05:00Z",
-      "summary": ""
+      "published": "2026-11-08T15:55:19.000Z",
+      "summary": "Namibia recorded the highest revenue-to-GDP ratio of 31.3% in Sub-Saharan Africa, followed by Seychelles (30.0%) in 3rd position and Botswana (29.5%) in 4th position."
     },
     {
-      "title": "AfCFTA reinforces Ghana as gateway to Africa – Ghana's UK High Commissioner at Asante Business Summit",
-      "link": "https://www.myjoyonline.com/afcfta-reinforces-ghana-as-gateway-to-africa-ghanas-uk-high-commissioner-at-asante-business-summit/",
+      "title": "When the floods struck, Activa delivered: Over GH₵4.7m paid in flood claims as of October 2026",
+      "link": "https://www.myjoyonline.com/when-the-floods-struck-activa-delivered-over-gh%e2%82%b54-7m-paid-in-flood-claims-as-of-october-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-09-11T02:42:20Z",
-      "summary": ""
+      "published": "2026-11-08T15:49:58.000Z",
+      "summary": "Following the heavy rains and widespread flooding experienced in Accra and several other parts of Ghana during the 2026 rainy season, Activa International Insurance Ghana demonstrated its…"
     },
     {
-      "title": "Fidelity Bank champions value-chain approach Agriculture funding",
-      "link": "https://gna.org.gh/2026/09/fidelity-bank-champions-value-chain-approach-agriculture-funding/",
+      "title": "T-bills auction: Government records 41% oversubscription; but yield on 91-day bill increases",
+      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-41-oversubscription-but-yield-on-91-day-bill-increases/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T14:55:34.000Z",
+      "summary": "A little over GH¢3.0 billion of the bids came from the 91-day bill, representing 59% of the total bids. The uptake was about GH¢2.9 billion"
+    },
+    {
+      "title": "BoG introduces economic and financial journalism award with international training opportunities at 30th GJA Media Awards",
+      "link": "https://www.myjoyonline.com/bog-introduces-economic-and-financial-journalism-award-with-international-training-opportunities-at-30th-gja-media-awards/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-08T00:15:34.000Z",
+      "summary": "The Bank of Ghana (BoG) has announced a new award scheme to recognise excellence in economic and financial journalism, offering winners opportunities for international exposure…"
+    },
+    {
+      "title": "New Economy to push Ghana towards investment grade – Dr. Ato Forson",
+      "link": "https://www.myjoyonline.com/new-economy-to-push-ghana-towards-investment-grade-dr-ato-forson/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T14:38:57.000Z",
+      "summary": "This is to lower the country’s borrowing costs and help Ghanaian businesses raise long-term financing, Finance Minister Dr. Cassiel Ato Forson has said."
+    },
+    {
+      "title": "ECG to begin nationwide revenue mobilisation exercise, warns customers with arrears of disconnection",
+      "link": "https://www.myjoyonline.com/ecg-to-begin-nationwide-revenue-mobilisation-exercise-warns-customers-with-arrears-of-disconnection-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T14:33:08.000Z",
+      "summary": "The Electricity Company of Ghana (ECG) will begin a nationwide Mass Revenue Mobilisation Exercise on Monday, November 9, to recover outstanding electricity bills from customers. The…"
+    },
+    {
+      "title": "Tokenising government securities could attract more foreign investors to Ghana – WeWire CEO",
+      "link": "https://www.myjoyonline.com/tokenising-government-securities-could-attract-more-foreign-investors-to-ghana-wewire-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T08:12:22.000Z",
+      "summary": "The Chief Executive Officer of WeWire, Ebenezer Ghanney, says tokenising Ghana's government securities could make it easier for international investors to access the domestic market and…"
+    },
+    {
+      "title": "Comrade Steven Nhyira Odarteifio donates 1,000 bags of organic fertiliser to support young farmers",
+      "link": "https://www.myjoyonline.com/comrade-steven-nhyira-odarteifio-donates-1000-bags-of-organic-fertiliser-to-support-young-farmers/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T06:01:00.000Z",
+      "summary": "Comrade Steven Nhyira Odarteifio, an aspirant for the position of National Youth Organiser of the National Democratic Congress (NDC), has donated 1,000 bags of 10-kilogramme organic…"
+    },
+    {
+      "title": "Zenith SME Business Empowerment Lab: SMEs urged to identify business risks and adopt mitigation strategies to ensure sustainability",
+      "link": "https://www.myjoyonline.com/zenith-sme-business-empowerment-lab-smes-urged-to-identify-business-risks-and-adopt-mitigation-strategies-to-ensure-sustainability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T05:15:45.000Z",
+      "summary": "According to the experts, business resilience goes beyond responding to crises. It requires a deliberate and strategic approach to identifying potential vulnerabilities, safeguarding…"
+    },
+    {
+      "title": "Policy rate of 14% between May and September 2026 was meant to preserve economic stability – BoG Governor",
+      "link": "https://www.myjoyonline.com/policy-rate-of-14-between-may-and-september-2026-was-meant-to-preserve-economic-stability-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T05:07:15.000Z",
+      "summary": "The Bank of Ghana Governor, Dr. Johnson Asiama, has strongly defended the decision by the Monetary Policy Committee to hold the policy rate at 14% between May and September 2026. According…"
+    },
+    {
+      "title": "‘Days of diverting cocoa inputs are over’ – COCOBOD CEO",
+      "link": "https://www.myjoyonline.com/days-of-diverting-cocoa-inputs-are-over-cocobod-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T04:57:47.000Z",
+      "summary": "The Ghana Cocoa Board (COCOBOD) has issued a stern warning to individuals and officials involved in the diversion, hoarding or illegal sale of free fertiliser and other farm inputs, saying…"
+    },
+    {
+      "title": "Ghana loses $6.5bn in potential mining revenue – IFS",
+      "link": "https://www.myjoyonline.com/ghana-loses-6-5bn-in-potential-mining-revenue-ifs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-07T03:09:07.000Z",
+      "summary": "The country loses an estimated $6.56 billion in potential revenue from the mining sector every year due to the government’s limited participation in mineral extraction, the Institute for…"
+    },
+    {
+      "title": "Mining Reforms Must Protect Jobs, Investment and Community Interests — Ghana Chamber of Mines",
+      "link": "https://www.myjoyonline.com/mining-reforms-must-protect-jobs-investment-and-community-interests-ghana-chamber-of-mines/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T19:14:01.000Z",
+      "summary": "The Ghana Chamber of Mines has called for sustained dialogue and careful consideration of the economic implications of ongoing mining sector reforms, stressing that efforts to deepen…"
+    },
+    {
+      "title": "Institute of Packaging Ghana to strengthen collaboration with farmers, agribusinesses to boost packaging industry",
+      "link": "https://www.myjoyonline.com/institute-of-packaging-ghana-to-strengthen-collaboration-with-farmers-agribusinesses-to-boost-packaging-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T16:54:14.000Z",
+      "summary": "The Institute of Packaging, Ghana (IOPG) says it will deepen collaboration with farmers, agro-processors and other stakeholders in the agricultural value chain to improve packaging…"
+    },
+    {
+      "title": "IMF acknowledges Ghana’s strong revenue performance and progress in tax administration reforms",
+      "link": "https://www.myjoyonline.com/imf-acknowledges-ghanas-strong-revenue-performance-and-progress-in-tax-administration-reforms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T14:34:55.000Z",
+      "summary": "The IMF highlighted the early completion of the review of customs and excise legislation, ongoing digitalization through the Integrated Tax Administration System (ITAS) and electronic…"
+    },
+    {
+      "title": "Cashew crisis: Usibras imports Ivorian kernels to save Ghanaian jobs",
+      "link": "https://www.myjoyonline.com/cashew-crisis-usibras-imports-ivorian-kernels-to-save-ghanaian-jobs/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T13:55:00.000Z",
+      "summary": "In a dramatic shift highlighting systemic pressures on domestic agro-processors, leading Ghanaian cashew processor Usibras has turned to importing semi-processed cashew kernels from…"
+    },
+    {
+      "title": "10 young fintech innovators to pitch for national-stage places at MoMo Fintech Lab Accra Hackathon",
+      "link": "https://www.myjoyonline.com/10-young-fintech-innovators-to-pitch-for-national-stage-places-at-momo-fintech-lab-accra-hackathon/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T12:14:48.000Z",
+      "summary": "Ten innovators from the Southern Zone of the 2026 MoMo Fintech Lab will pitch their solutions to a panel of industry experts on Friday, November 6, 2026, competing for five places in the…"
+    },
+    {
+      "title": "Preliminary studies affirm viability of proposed national airline; roadmap for establishment agreed – Gov’t",
+      "link": "https://www.myjoyonline.com/preliminary-studies-affirm-viability-of-proposed-national-airline-roadmap-for-establishment-agreed-govt/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T10:24:10.000Z",
+      "summary": "Government says preliminary studies have affirmed the viability of establishing a new national airline."
+    },
+    {
+      "title": "El Niño could drive up food prices and inflation – Government Statistician",
+      "link": "https://www.myjoyonline.com/el-nino-could-drive-up-food-prices-and-inflation-government-statistician/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T09:40:11.000Z",
+      "summary": "Government Statistician Dr Alhassan Iddrisu has warned that Ghana could face fresh inflationary pressures from an anticipated severe El Niño weather event, which threatens to disrupt…"
+    },
+    {
+      "title": "IFS calls for reforms in 2027 budget to boost domestic revenue mobilisation",
+      "link": "https://www.myjoyonline.com/ifs-calls-for-reforms-in-2027-budget-to-boost-domestic-revenue-mobilisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T07:18:56.000Z",
+      "summary": "The Institute for Fiscal Studies (IFS) is warning that Ghana’s weak domestic revenue mobilisation is undermining the country’s capacity to finance critical infrastructure, improve public…"
+    },
+    {
+      "title": "Chinese malls taking 60% of Ghana’s retail market – GUTA laments",
+      "link": "https://www.myjoyonline.com/chinese-malls-taking-60-of-ghanas-retail-market-guta-laments/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T04:52:06.000Z",
+      "summary": "The Ghana Union of Traders’ Associations (GUTA) has raised concerns over the rapid expansion of Chinese-owned shopping malls in the country, claiming that they are taking an estimated 60…"
+    },
+    {
+      "title": "Cenpower celebrates its journey and contribution to Ghana’s energy sector",
+      "link": "https://www.myjoyonline.com/cenpower-celebrates-its-journey-and-contribution-to-ghanas-energy-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T04:17:00.000Z",
+      "summary": "Cenpower Generation Ltd (Cenpower), owner of the 350 MW Kpone Independent Power Plant (KIPP), has marked a significant milestone in its development journey by celebrating the decade since…"
+    },
+    {
+      "title": "GUTA urges authorities to act over Chinese malls’ impact on local businesses",
+      "link": "https://www.myjoyonline.com/guta-urges-authorities-to-act-over-chinese-malls-impact-on-local-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T04:08:00.000Z",
+      "summary": "The President of the Ghana Union of Traders’ Associations (GUTA), Clement Boateng, has urged authorities to examine the expansion of Chinese shopping malls, warning that local businesses…"
+    },
+    {
+      "title": "Goods delayed, banks demanding repayment – GUTA President details traders’ pressures",
+      "link": "https://www.myjoyonline.com/goods-delayed-banks-demanding-repayment-guta-president-details-traders-pressures/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T03:50:00.000Z",
+      "summary": "Rising cargo volumes are causing port congestion and delaying goods clearance, the President of the Ghana Union of Traders’ Associations (GUTA), Clement Boateng, said."
+    },
+    {
+      "title": "GUTA President calls for loan repayment moratorium as shipment delays hit traders",
+      "link": "https://www.myjoyonline.com/guta-president-calls-for-loan-repayment-moratorium-as-shipment-delays-hit-traders/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T03:38:00.000Z",
+      "summary": "GUTA President Clement Boateng has called for a moratorium on loan repayments to give traders breathing space as shipment delays leave them facing bank demands before their goods arrive."
+    },
+    {
+      "title": "UAE shipments now take up to four months to arrive – GUTA President",
+      "link": "https://www.myjoyonline.com/uae-shipments-now-take-up-to-four-months-to-arrive-guta-president/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T03:04:00.000Z",
+      "summary": "Goods shipped from the United Arab Emirates now take up to four months to reach Ghana, leaving traders facing delayed deliveries and pressure to repay banks, GUTA President Clement Boateng…"
+    },
+    {
+      "title": "Some regions face higher inflation than national average – GNCCI CEO",
+      "link": "https://www.myjoyonline.com/some-regions-face-higher-inflation-than-national-average-gncci-ceo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T02:44:00.000Z",
+      "summary": "Some regions are recording inflation above the national average, despite easing price pressures overall, the Chief Executive Officer of the Ghana National Chamber of Commerce and Industry…"
+    },
+    {
+      "title": "‘Things are a bit better’ – GNCCI CEO on business conditions",
+      "link": "https://www.myjoyonline.com/things-are-a-bit-better-gncci-ceo-on-business-conditions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-06T02:27:00.000Z",
+      "summary": "The CEO of the Ghana National Chamber of Commerce and Industry (GNCCI), Mark Badu-Aboagye, says production costs still need improvement."
+    },
+    {
+      "title": "GCB Bank Plc launches Opemsuo Royal Golf Invitational scheduled for November 28",
+      "link": "https://gna.org.gh/2026/11/gcb-bank-plc-launches-opemsuo-royal-golf-invitational-scheduled-for-november-28/",
       "source": "Ghana News Agency",
-      "published": "2026-09-09T11:53:02Z",
-      "summary": ""
+      "published": "2026-11-05T16:13:18.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     }
   ]
 };
