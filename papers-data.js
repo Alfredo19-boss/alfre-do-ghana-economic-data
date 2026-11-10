@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T21:53:43.780Z",
+  "updated": "2026-11-10T22:03:44.247Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Stay and learn; don’t go and do galamsey’ – Richard Jakpa urges male students in Daffiama-Bussie-Issa",
+      "link": "https://www.myjoyonline.com/stay-and-learn-dont-go-and-do-galamsey-richard-jakpa-urges-male-students-in-daffiama-bussie-issa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:00:32.000Z",
+      "summary": "The Director of Operations at the National Security Secretariat, Richard Jakpa, has raised concern over the growing number of male students abandoning school in the Daffiama-Bussie-Issa…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Richard Jakpa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ecuador backs Morocco’s sovereignty over Sahara, plans ambassador’s visit",
+      "link": "https://www.myjoyonline.com/ecuador-backs-moroccos-sovereignty-over-sahara-plans-ambassadors-visit/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:44:00.000Z",
+      "summary": "Ecuador has expressed support for Morocco’s sovereignty over the Sahara region and announced plans for its ambassador to visit the territory.",
+      "categories": [
+        "Africa",
+        "Ecuador",
+        "Morocco",
+        "Western Sahara"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NDC regional chairman aspirant unveils 10-pillar transformation agenda for Upper West",
       "link": "https://www.myjoyonline.com/ndc-regional-chairman-aspirant-unveils-10-pillar-transformation-agenda-for-upper-west/",
@@ -101,34 +128,6 @@ window.GDC_PAPERS = {
         "Ghana Airports Company Limited (GACL)",
         "Sunyani",
         "Wa Bolga"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr Zanetor Rawlings calls for national sex offenders register to protect children",
-      "link": "https://www.myjoyonline.com/dr-zanetor-rawlings-calls-for-national-sex-offenders-register-to-protect-children/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:09:14.000Z",
-      "summary": "The Minister of Environment, Science, Technology and Innovation, Dr Zanetor Agyeman-Rawlings, has called for the establishment of a national sex offenders register as part of efforts to…",
-      "categories": [
-        "HP News 9",
-        "National",
-        "Dr Zanetor Agyeman-Rawlings",
-        "national sex offenders register"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gender Ministry condemns death of five-year-old allegedly assaulted during parents’ dispute",
-      "link": "https://www.myjoyonline.com/gender-ministry-condemns-death-of-five-year-old-allegedly-assaulted-during-parents-dispute/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:55:51.000Z",
-      "summary": "The Ministry of Gender, Children and Social Protection has condemned the death of a five-year-old pupil of Mim M/A Basic School in the Asunafo North Municipality of the Ahafo Region…",
-      "categories": [
-        "National",
-        "five year old",
-        "Gender Ministry",
-        "parents dispute"
       ],
       "site": "https://www.myjoyonline.com/"
     },
