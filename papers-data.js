@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T15:03:36.713Z",
+  "updated": "2026-11-10T15:13:35.368Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget to be presented at 6 pm on Thursday – Bagbin",
+      "link": "https://www.myjoyonline.com/2027-budget-to-be-presented-at-6-pm-on-thursday-bagbin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:10:08.000Z",
+      "summary": "The 2027 Budget Statement and Economic Policy will be presented to Parliament at 6pm on Thursday, November 12, Speaker Alban Bagbin has announced. The Speaker disclosed this in Parliament…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Bagbin",
+        "Budget",
+        "Cassiel Ato Forson",
+        "thursdays"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
+      "link": "https://www.myjoyonline.com/2027-budget-must-prioritise-roads-water-and-electricity-for-commercial-farmers-prof-egyir/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:02:07.000Z",
+      "summary": "Agricultural economist Professor Irene Egyir has called on the government to increase investment in commercial agriculture and rural infrastructure in the 2027 Budget, saying farmers need…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "2027 Budget",
+        "commerical farmers",
+        "Electricity",
+        "Road",
+        "Water"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian jailed for two years for using a fraudulent Canadian passport 16 times",
       "link": "https://www.myjoyonline.com/ghanaian-jailed-for-two-years-for-using-a-fraudulent-canadian-passport-16-times/",
@@ -208,34 +241,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Spend more in 2027 to boost growth – PwC to govt",
-      "link": "https://www.myjoyonline.com/spend-more-in-2027-to-boost-growth-pwc-to-govt/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:09:33.000Z",
-      "summary": "The government must use the 2027 Budget to increase efficient spending and prioritise resources towards productive sectors to stimulate economic growth without undermining the gains made in…",
-      "categories": [
-        "National",
-        "Government",
-        "Growth",
-        "PwC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“The fire around December in GH feels a bit doused” – George Quaye",
-      "link": "https://www.myjoyonline.com/the-fire-around-december-in-gh-feels-a-bit-doused-george-quaye/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:09:05.000Z",
-      "summary": "Team Lead for ImageBureau, George Quaye, has expressed concern about the apparent lull in activities surrounding the government’s December in GH initiative, saying the brand has lost some…",
-      "categories": [
-        "Events",
-        "HP Entertainment 2",
-        "December in GH",
-        "George Quaye"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Peki SHS: Student dies after dormitory altercation over schoolbag",

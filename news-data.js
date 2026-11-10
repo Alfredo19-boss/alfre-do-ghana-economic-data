@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T15:03:06.416Z",
+  "updated": "2026-11-10T15:13:04.885Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
+      "link": "https://www.myjoyonline.com/2027-budget-must-prioritise-roads-water-and-electricity-for-commercial-farmers-prof-egyir/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:02:07.000Z",
+      "summary": "Agricultural economist Professor Irene Egyir has called on the government to increase investment in commercial agriculture and rural infrastructure in the 2027 Budget, saying farmers need…"
+    },
     {
       "title": "Republic Financial Holdings Limited announces Karen Yip Chuck as Group President Nigel Baptiste retires",
       "link": "https://www.myjoyonline.com/republic-financial-holdings-limited-announces-karen-yip-chuck-as-group-president-nigel-baptiste-retires/",
