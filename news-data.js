@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T17:33:06.092Z",
+  "updated": "2026-11-10T17:43:05.589Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "OPEC Chief Says Electrification Will Sustain Demand for Oil-Based Products",
+      "link": "https://thehighstreetjournal.com/opec-chief-urges-electrification/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T17:40:00.000Z",
+      "summary": "The expansion of electrification would require more plastics, polymers, cables, chargers and other materials made from petroleum"
+    },
+    {
+      "title": "Jospong Group showcases Ghanaian waste management solutions at COP31 in Türkiye",
+      "link": "https://www.myjoyonline.com/jospong-group-showcases-ghanaian-waste-management-solutions-at-cop31-in-turkiye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:38:04.000Z",
+      "summary": "Ghanaian conglomerate Jospong Group of Companies is showcasing its waste management and recycling solutions at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye…"
+    },
+    {
+      "title": "Ghana’s black gold and the quest for value",
+      "link": "https://www.myjoyonline.com/ghanas-black-gold-and-the-quest-for-value/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:30:22.000Z",
+      "summary": "The modern era of Ghana's petroleum industry began with the establishment of the Ghana National Petroleum Corporation (GNPC) in 1983 under the Ghana National Petroleum Corporation Act…"
+    },
     {
       "title": "GNPC welcomes Nya Gyidie-1X Hydrocarbon Discovery, sees new potential for Ghana’s Upstream Sector",
       "link": "https://www.myjoyonline.com/gnpc-welcomes-nya-gyidie-1x-hydrocarbon-discovery-sees-new-potential-for-ghanas-upstream-sector/",

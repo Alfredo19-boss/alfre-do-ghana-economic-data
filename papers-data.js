@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T17:33:36.866Z",
+  "updated": "2026-11-10T17:43:35.791Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,33 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Jefferson Sackey declares intention to contest NPP primaries in Ablekuma Central",
+      "link": "https://www.myjoyonline.com/jefferson-sackey-declares-intention-to-contest-npp-primaries-in-ablekuma-central/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:38:22.000Z",
+      "summary": "Former Deputy Director of Communications at the Presidency, Jefferson Kwamina Sackey has declared his intention to contest the New Patriotic Party’s (NPP) parliamentary primaries in…",
+      "categories": [
+        "Politics",
+        "Jefferson Sackey",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Jospong Group showcases Ghanaian waste management solutions at COP31 in Türkiye",
+      "link": "https://www.myjoyonline.com/jospong-group-showcases-ghanaian-waste-management-solutions-at-cop31-in-turkiye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:38:04.000Z",
+      "summary": "Ghanaian conglomerate Jospong Group of Companies is showcasing its waste management and recycling solutions at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye…",
+      "categories": [
+        "Technology",
+        "COP31",
+        "Jospong Group",
+        "waste management"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ghana’s black gold and the quest for value",
       "link": "https://www.myjoyonline.com/ghanas-black-gold-and-the-quest-for-value/",
       "source": "MyJoyOnline",
@@ -28,6 +55,7 @@ window.GDC_PAPERS = {
       "summary": "The modern era of Ghana's petroleum industry began with the establishment of the Ghana National Petroleum Corporation (GNPC) in 1983 under the Ghana National Petroleum Corporation Act…",
       "categories": [
         "Energy",
+        "Opinion",
         "black gold",
         "GNPC"
       ],
@@ -98,34 +126,6 @@ window.GDC_PAPERS = {
         "Escavators",
         "NPP",
         "Schandorf"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Defence Minister assures Military High Command of improved equipment and welfare support",
-      "link": "https://www.myjoyonline.com/defence-minister-assures-military-high-command-of-improved-equipment-and-welfare-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:15:34.000Z",
-      "summary": "Defence Minister Kenneth Gilbert Adjei has assured the Military High Command of the government's commitment to strengthening the Ghana Armed Forces through improved equipment…",
-      "categories": [
-        "National",
-        "Armed forces",
-        "Defence Minister",
-        "Military High Command"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghanaian startup launches SMS-based AI platform to reach young people without internet access",
-      "link": "https://www.myjoyonline.com/ghanaian-startup-launches-sms-based-ai-platform-to-reach-young-people-without-internet-access/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:08:58.000Z",
-      "summary": "A Ghanaian technology startup, Scopeg AI, is partnering with the Ministry of Youth Development and Empowerment to expand access to artificial intelligence through an SMS-based platform…",
-      "categories": [
-        "Technology",
-        "AI platform",
-        "Internet access",
-        "SMS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
