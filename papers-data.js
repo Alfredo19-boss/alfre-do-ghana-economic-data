@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T18:03:37.947Z",
+  "updated": "2026-11-10T18:08:36.405Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Policy implementation gap undermining West African trade integration- GSA",
+      "link": "https://www.myjoyonline.com/policy-implementation-gap-undermining-west-african-trade-integration-gsa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:03:33.000Z",
+      "summary": "The Ghana Shippers Authority (GSA) has warned that the gap between regional trade policy commitments and their actual implementation continues to undermine economic integration and…",
+      "categories": [
+        "Business",
+        "Transport",
+        "GSA",
+        "Silvia Asana Dauda Owu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ecobank Ghana launches GH¢1m Blue Christmas promo for customers",
       "link": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%c2%a21m-blue-christmas-promo-for-customers/",
@@ -116,19 +130,6 @@ window.GDC_PAPERS = {
         "Opinion",
         "black gold",
         "GNPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Second gas processing plant expected to save Ghana $1bn annually – Mahama",
-      "link": "https://www.myjoyonline.com/second-gas-processing-plant-expected-to-save-ghana-1bn-annually-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T17:26:58.000Z",
-      "summary": "President John Mahama says Ghana is expected to save up to one billion dollars annually through the construction of its second gas processing facility, popularly known as GPP II.",
-      "categories": [
-        "National",
-        "gas processing plant",
-        "President John Mahama"
       ],
       "site": "https://www.myjoyonline.com/"
     },

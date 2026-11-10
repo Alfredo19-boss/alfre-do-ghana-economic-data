@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T18:03:06.741Z",
+  "updated": "2026-11-10T18:08:05.195Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Policy implementation gap undermining West African trade integration- GSA",
+      "link": "https://www.myjoyonline.com/policy-implementation-gap-undermining-west-african-trade-integration-gsa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T18:03:33.000Z",
+      "summary": "The Ghana Shippers Authority (GSA) has warned that the gap between regional trade policy commitments and their actual implementation continues to undermine economic integration and…"
+    },
     {
       "title": "FDI Success in Oil & Gas Must Be Measured by Progress of Local Firms, Workers – Prez Mahama",
       "link": "https://thehighstreetjournal.com/fdi-success-in-oil-gas-must-be-measured-by-progress-of-local-firms-workers-prez-mahama/",
