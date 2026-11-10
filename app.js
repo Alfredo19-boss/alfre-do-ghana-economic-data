@@ -3934,9 +3934,86 @@
   const settle = (bubble, html) => { bubble.innerHTML = html; alfLog.scrollTop = alfLog.scrollHeight; };
   const beat = ms => new Promise(r => setTimeout(r, ms));
 
+  // Good manners first: greetings, thanks, goodbyes and "how are you" get a warm, proper reply.
+  let alfName = ""; try { alfName = recall("alf.name") || ""; } catch (e) {}
+  const alfNm = () => alfName ? ", " + alfName : "";
+  const alfPick = a => a[Math.floor(Math.random() * a.length)];
+  function alfManners(q) {
+    if (alfLang && !/^en/.test(alfLang)) return null;
+    const l = String(q).toLowerCase().replace(/[’']/g, "'").replace(/[^a-z0-9' ]+/g, " ").replace(/\s+/g, " ").trim();
+    if (!l) return null;
+    const short = l.split(" ").length <= 6;
+    const help = "I can tell you any figure on the dashboard, such as inflation, the cedi, the policy rate, debt or fuel prices; show how it has changed since 1993; compare figures; or explain where a number comes from.";
+    let m = l.match(/^(?:my name is|call me|i am called)\s+([a-z][a-z'-]{1,20})/);
+    if (m) { alfName = m[1][0].toUpperCase() + m[1].slice(1); try { remember("alf.name", alfName); } catch (e) {} return `It's a pleasure to meet you, ${esc(alfName)}. I'll remember your name on this device. What would you like to look at first?`; }
+    const g = l.match(/^good (morning|afternoon|evening)/), h = new Date().getHours();
+    const tod = g ? "Good " + g[1] : h < 12 ? "Good morning" : h < 17 ? "Good afternoon" : "Good evening";
+    if (/\b(how are you|how're you|how do you do|how is it going|how's it going)\b/.test(l) && short) return `I'm very well, thank you for asking${alfNm()}. How can I help you today?`;
+    if (/^(hi|hello|hey|hiya|good (morning|afternoon|evening|day)|akwaaba|maakye|ete sen)\b/.test(l) && short) return `${tod}${alfNm()}, and welcome. I'm Alfredo. ${help} What would you like to know?`;
+    if (/^(thanks|thank you|thank u|thx|cheers|medaase)\b/.test(l) || (/\b(thank you|many thanks)\b/.test(l) && short)) return alfPick([`You're very welcome${alfNm()}. Is there anything else you'd like to look at?`, `My pleasure${alfNm()}. Just ask if anything else comes to mind.`, `Glad I could help${alfNm()}.`]);
+    if (/^(bye|goodbye|see you|good night|goodnight|nante yie)\b/.test(l)) return `Goodbye${alfNm()}, and thank you for stopping by. Come back any time; I keep the figures up to date.`;
+    if (/^(who are you|what are you|what is your name|what's your name)/.test(l)) return `I'm Alfredo, the guide to Alfredo Ghana Economic Data. ${help} I always tell you the source.`;
+    if (/^(sorry|apologies|pardon)\b/.test(l) && short) return "No need to apologise at all. What would you like to know?";
+    if (/\b(stupid|useless|idiot|rubbish|nonsense|shut up)\b/.test(l)) return "I'm sorry I've frustrated you. Tell me what you were looking for, in your own words, and I'll do my best to find it.";
+    if (/^(great|good job|well done|nice|awesome|excellent|perfect|brilliant)\b/.test(l) && l.split(" ").length <= 4) return "Thank you, that's kind of you. What shall we look at next?";
+    return null;
+  }
+  // Thinking mode: the steps he takes, shown while he works, folded away once he answers.
+  function alfThinkBox(question) {
+    const box = alfSay("alf think", `<details open><summary><span class="alf-dots" aria-hidden="true"><i></i><i></i><i></i></span><b>Thinking</b></summary><ol></ol></details>`);
+    const t0 = performance.now(), low = String(question).toLowerCase();
+    const steps = ["Reading your question", "Looking through every figure on the dashboard"];
+    if (/\b(19[9]\d|20[0-2]\d)\b|since|history|trend|over the years/.test(low)) steps.push("Going through the record since 1993");
+    if (/compare|versus|\bvs\b|against/.test(low)) steps.push("Comparing the figures");
+    if (/forecast|next year|will |outlook|predict|by 20/.test(low)) steps.push("Working out the projection");
+    if (/news|headline/.test(low)) steps.push("Reading the latest headlines");
+    steps.push("Checking the date and the source", "Putting it in plain words");
+    const add = s => { const li = document.createElement("li"); li.textContent = s; box.querySelector("ol").appendChild(li); alfLog.scrollTop = alfLog.scrollHeight; };
+    return {
+      el: box,
+      async run() { for (const s of steps) { add(s); await beat(300 + Math.round(Math.random() * 160)); } },
+      done() { const secs = (performance.now() - t0) / 1000; box.classList.add("fin"); box.querySelector("details").open = false; box.querySelector("summary b").textContent = secs < 1 ? "Thought for a moment" : `Thought for ${secs.toFixed(1)} seconds`; }
+    };
+  }
+  // Answers read more courteously: "please" gets "Of course", and every answer ends properly.
+  function alfPolite(question, html) {
+    if (typeof html !== "string" || (alfLang && !/^en/.test(alfLang))) return html;
+    let t = html.trim();
+    if (/\b(please|kindly)\b/i.test(question) && !/^(Of course|Certainly)/.test(t)) t = `Of course${alfNm()}. ` + t;
+    return t;
+  }
+
+  // "What was inflation in 1998?" answered from the long record (h93-data.js), with today's figure when asked
+  const ALF_H93Q = [[/inflation|cost of living/, "cpi"], [/policy rate|prime rate|bog rate/, "mpr"], [/t-?bill|treasury bill/, "tb91"], [/cedi|dollar|exchange rate/, "usd"], [/debt to gdp|debt ratio/, "debt"], [/\bdebt\b/, "debtbn"], [/growth/, "gdp"], [/income per (person|head)|per capita/, "gdppc"], [/\bgdp\b/, "ngdp"], [/gold/, "gold"], [/cocoa/, "cocoa"], [/oil|brent|crude/, "brent"], [/reserves/, "gir"], [/youth unemployment/, "yunemp"], [/unemployment|jobless/, "unemp"], [/population/, "pop"], [/remittance/, "rem"], [/exports/, "exp_"], [/imports/, "imp"], [/revenue/, "rev"], [/spending|expenditure/, "exp"], [/money supply/, "m2"], [/poverty/, "pov"]];
+  function alfYearAnswer(q) {
+    const H = window.GDC_H93; if (!H || (alfLang && !/^en/.test(alfLang))) return null;
+    const low = String(q).toLowerCase(), ym = low.match(/\b(199[3-9]|20[0-2]\d)\b/);
+    if (!ym || +ym[1] >= 2026) return null;
+    const hit = ALF_H93Q.find(x => x[0].test(low)); if (!hit || !H[hit[1]]) return null;
+    const o = H[hit[1]], Y = o.yv.map((v, i) => [+o.y0 + i, v]).filter(p => p[1] != null), yr = +ym[1];
+    const f = v => { const a = Math.abs(v), d = o.u === "%" ? 1 : a >= 1000 ? 0 : a >= 10 ? 1 : a >= 1 ? 2 : a >= .01 ? 3 : 5, n = v.toLocaleString("en-GB", { minimumFractionDigits: d, maximumFractionDigits: d }); return o.u === "%" ? n + "%" : /^(GH¢|US\$)$/.test(o.u) ? o.u + n : /bn$/.test(o.u) ? o.u.replace("bn", "") + n + "bn" : n + " " + o.u; };
+    const r = Y.find(p => p[0] === yr), name = o.l.charAt(0).toLowerCase() + o.l.slice(1), src = /World Bank \(yearly\)/.test(o.src) ? "World Bank" : o.src.replace(/,.*$/, "");
+    if (!r) return `I'm sorry, I don't have ${esc(name)} for ${yr}. My record runs from ${Y[0][0]} to ${Y[Y.length - 1][0]}.`;
+    const prev = Y.find(p => p[0] === yr - 1), vs = Y.map(p => p[1]), hi = Math.max(...vs), lo = Math.min(...vs);
+    let t = `In ${yr}, ${esc(name)} was <b>${f(r[1])}</b>${o.yh ? " (" + o.yh + ")" : ""}${prev ? `, ${r[1] > prev[1] ? "up" : "down"} from ${f(prev[1])} the year before` : ""}. Since ${Y[0][0]} the highest was ${f(hi)} in ${Y[vs.indexOf(hi)][0]} and the lowest ${f(lo)} in ${Y[vs.indexOf(lo)][0]}.`;
+    if (/\b(now|today|current|compared?)\b/.test(low)) { const it = allItems.find(i => /inflation/.test(hit[1] === "cpi" ? "inflation" : "") && i.label === "Inflation") || null; if (it) t += ` Today it is ${it.value}${it.unit || ""} (${esc(it.date || "")}).`; }
+    return t + ` Source: ${esc(src)}.`;
+  }
   async function alfAsk(question) {
     alfSay("you", esc(question));
-    const local = alfAnswer(question);
+    const manners = alfManners(question);
+    if (manners) { const b = alfThinking(); await beat(380); settle(b, manners); speak(manners); return; }
+    let local = alfYearAnswer(question) || alfAnswer(question);
+    if (typeof local === "string") local = alfPolite(question, local);
+    if (local && typeof local !== "object") {
+      const th = alfThinkBox(question);
+      await th.run();
+      th.done();
+      const bubble = alfSay("alf", "");
+      settle(bubble, local);
+      speak(local);
+      return;
+    }
 
     // an answer that has to go and fetch something: dots until it lands
     if (local && typeof local === "object" && typeof local.work === "function") {
@@ -4718,18 +4795,33 @@
       for (let i = 0; i < text.length; i++) h = ((h << 5) + h + text.charCodeAt(i)) | 0;
       return `${text.length}:${h}`;
     };
+    // Read both the website copy and the repository copy, and keep the newer. GitHub rebuilds the
+    // website at most about ten times an hour, while the repository copy is ready within minutes
+    // of every save, so the page never waits behind a rebuild.
+    const RAW = /github\.io$/.test(location.hostname) ? `https://raw.githubusercontent.com/${location.hostname.split(".")[0]}/${location.pathname.split("/").filter(Boolean)[0]}/main/` : "";
+    const stamp = t => { const m = String(t || "").slice(0, 4000).match(/"updated"\s*:\s*"([^"]+)"/); return m ? m[1] : ""; };
+    const texts = new Map();
+    const grab = async file => {
+      const t = Date.now(), get = u => fetch(`${u}?t=${t}`, { cache: "no-store" }).then(r => r.ok ? r.text() : null).catch(() => null);
+      const [site, repo] = await Promise.all([get(file), RAW ? get(RAW + file) : null]);
+      if (site == null && repo == null) throw new Error("unreachable");
+      return { site, best: repo && (!site || stamp(repo) > stamp(site)) ? repo : site };
+    };
     const changed = async file => {
-      const res = await fetch(`${file}?t=${Date.now()}`, { cache: "no-store" });
-      if (!res.ok) throw new Error(res.status);
-      const fp = hash(await res.text());
-      const seen = fingerprints.get(file);
+      const { site, best } = await grab(file);
+      texts.set(file, best);
+      const fp = hash(best);
+      let seen = fingerprints.get(file);
+      // first look: a quiet file is compared with the copy this page loaded, so a website copy
+      // that is behind the repository is replaced at once
+      if (seen === undefined && QUIET[file] && site != null) seen = hash(site);
       fingerprints.set(file, fp);
       return !!seen && seen !== fp;
     };
     // re-run a data file in place, so window.GDC_* picks up the new figures
     const reload = file => new Promise((done, fail) => {
-      const sc = document.createElement("script");
-      sc.src = `${file}?t=${Date.now()}`;
+      const sc = document.createElement("script"), txt = texts.get(file);
+      sc.src = txt ? URL.createObjectURL(new Blob([txt], { type: "text/javascript" })) : `${file}?t=${Date.now()}`;
       sc.onload = () => { sc.remove(); done(); };
       sc.onerror = () => { sc.remove(); fail(new Error("could not load")); };
       document.body.appendChild(sc);
@@ -4768,7 +4860,7 @@
   renderNews();
   paintMarketLines();
   refreshRates();
-  setInterval(refreshRates, 30 * 60 * 1000);
+  setInterval(refreshRates, 5 * 60 * 1000);
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { fit(); if (!board.hidden) fit(board); });
   let resizeTimer;
   window.addEventListener("resize", () => {
