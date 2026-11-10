@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T18:48:07.250Z",
+  "updated": "2026-11-10T19:03:04.838Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s GH¢357 Billion Budget Faces Procurement Leakages as Government Tightens Compliance",
+      "link": "https://thehighstreetjournal.com/ghanas-gh%c2%a2357-billion-budget-faces-procurement-leakages-as-government-tightens-compliance/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T19:00:00.000Z",
+      "summary": "Government is tightening procurement compliance as public spending exposes significant resources to waste, with estimated annual losses of GH¢2.36 billion raising pressure for stronger…"
+    },
     {
       "title": "Finance Ministry Tightens Project Approval Rules to Curb Unplanned Public Spending",
       "link": "https://thehighstreetjournal.com/finance-ministry-tightens-project-approval-rules-to-curb-unplanned-public-spending/",
