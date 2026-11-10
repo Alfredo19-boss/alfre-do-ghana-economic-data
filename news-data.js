@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T22:13:13.639Z",
+  "updated": "2026-11-10T23:23:14.085Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s next oil bet: Can the Voltaian Basin end the country’s dependence on offshore fields?",
+      "link": "https://www.myjoyonline.com/ghanas-next-oil-bet-can-the-voltaian-basin-end-the-countrys-dependence-on-offshore-fields/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:20:24.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) says a rig could be on site by the end of the year. The big question is what happens to Ghana’s oil industry if the three main fields…"
+    },
     {
       "title": "Non-interest banking is for everyone, not a religious tool – BoG Governor",
       "link": "https://www.myjoyonline.com/non-interest-banking-is-for-everyone-not-a-religious-tool-bog-governor/",

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T22:13:44.199Z",
+  "updated": "2026-11-10T23:23:44.070Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,53 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s next oil bet: Can the Voltaian Basin end the country’s dependence on offshore fields?",
+      "link": "https://www.myjoyonline.com/ghanas-next-oil-bet-can-the-voltaian-basin-end-the-countrys-dependence-on-offshore-fields/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:20:24.000Z",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) says a rig could be on site by the end of the year. The big question is what happens to Ghana’s oil industry if the three main fields…",
+      "categories": [
+        "Analysis",
+        "Data",
+        "HP Research 3",
+        "Investments",
+        "National",
+        "News",
+        "Research",
+        "offshore fields",
+        "oil bet",
+        "Voltaian basin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kim Kardashian’s Skims offers refunds for $148 advent calendar after backlash",
+      "link": "https://www.myjoyonline.com/kim-kardashians-skims-offers-refunds-for-148-advent-calendar-after-backlash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:12:00.000Z",
+      "summary": "Kim Kardashian's Skims is offering refunds for its $148 (£110) advent calendar after widespread social media criticism.",
+      "categories": [
+        "International",
+        "Movies",
+        "Kim Kardarshian",
+        "SKIMS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "link": "https://www.myjoyonline.com/qantas-to-outsource-850-local-jobs-with-most-roles-moving-to-india/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T22:03:00.000Z",
+      "summary": "Qantas will outsource 850 local corporate jobs to consulting giant Accenture, with most roles moving to India as the airline fast-tracks AI investment.",
+      "categories": [
+        "International",
+        "India",
+        "Qantas"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘Stay and learn; don’t go and do galamsey’ – Richard Jakpa urges male students in Daffiama-Bussie-Issa",
       "link": "https://www.myjoyonline.com/stay-and-learn-dont-go-and-do-galamsey-richard-jakpa-urges-male-students-in-daffiama-bussie-issa/",
@@ -86,47 +133,6 @@ window.GDC_PAPERS = {
         "African Group of Negotiators on Climate Change (AGN)",
         "Climate change",
         "Nana Dr. Antwi-Boasiako Amoah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GH¢60,000 kidney treatment ordeal drives Pulima chief’s support for GMTF",
-      "link": "https://www.myjoyonline.com/gh%c2%a260000-kidney-treatment-ordeal-drives-pulima-chiefs-support-for-gmtf/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:34:00.000Z",
-      "summary": "The Paramount Chief of the Pulima and Gandawii Traditional Area, Kuoro Osman Deiwia Nankpa III, says a kidney condition that cost him more than GH¢60,000 to treat in 2008 has strengthened…",
-      "categories": [
-        "Health",
-        "GMTF",
-        "Pulima chief"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Non-interest banking is for everyone, not a religious tool – BoG Governor",
-      "link": "https://www.myjoyonline.com/non-interest-banking-is-for-everyone-not-a-religious-tool-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:31:26.000Z",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Asiama, has dispelled misconceptions surrounding non-interest banking, clarifying that the financial model is a commercial, inclusive…",
-      "categories": [
-        "Banking and Finance",
-        "National",
-        "Bank of Ghana",
-        "Banking"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Vegetable farmers urge gov’t to capture Anloga tomato factory in 2027 budget",
-      "link": "https://www.myjoyonline.com/vegetable-farmers-urge-govt-to-capture-anloga-tomato-factory-in-2027-budget/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T21:26:00.000Z",
-      "summary": "Vegetable farmers in the Anloga District of the Volta Region have appealed to the government to include provision for a tomato processing factory in the 2027 national budget to address…",
-      "categories": [
-        "Agribusiness",
-        "National",
-        "Anloga tomato factory",
-        "Vegetable farmers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
