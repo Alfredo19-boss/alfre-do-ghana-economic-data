@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T17:08:37.539Z",
+  "updated": "2026-11-10T17:13:35.916Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghanaian startup launches SMS-based AI platform to reach young people without internet access",
+      "link": "https://www.myjoyonline.com/ghanaian-startup-launches-sms-based-ai-platform-to-reach-young-people-without-internet-access/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T17:08:58.000Z",
+      "summary": "A Ghanaian technology startup, Scopeg AI, is partnering with the Ministry of Youth Development and Empowerment to expand access to artificial intelligence through an SMS-based platform…",
+      "categories": [
+        "Technology",
+        "AI platform",
+        "Internet access",
+        "SMS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Patience Enyonam Akyianu",
       "link": "https://www.myjoyonline.com/patience-enyonam-akyianu/",
@@ -124,20 +138,6 @@ window.GDC_PAPERS = {
         "Branding",
         "Failed Promises",
         "new economy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dakar 2026: Ghanaian boxer Robert Tagoe Amartey suffers quarter-final defeat to UAE’s Moaz Mohamed",
-      "link": "https://www.myjoyonline.com/dakar-2026-ghanaian-boxer-robert-tagoe-amartey-suffers-quarter-final-defeat-to-uaes-moaz-mohamed-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:24:57.000Z",
-      "summary": "Ghana’s participation at the Dakar 2026 Youth Olympic Games is down to one athlete after boxer Robert Tagoe Amartey became the latest to exit the competition following a split-decision…",
-      "categories": [
-        "HP Sports 1",
-        "Sports",
-        "Dakar 2026 Youth Olympics",
-        "Robert Tagoe Amartey"
       ],
       "site": "https://www.myjoyonline.com/"
     },
