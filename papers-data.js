@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:03:38.382Z",
+  "updated": "2026-11-10T16:08:35.841Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘When we invest in one young woman, we touch many more lives’ – YSA Global opens Impact Circle Cohort 3",
+      "link": "https://www.myjoyonline.com/when-we-invest-in-one-young-woman-we-touch-many-more-lives-ysa-global-opens-impact-circle-cohort-3/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:04:55.000Z",
+      "summary": "Fifty young women have been selected for a year-long leadership and career development programme organised by youth development NGO YSA Global (Young Smart Africa), bringing the total…",
+      "categories": [
+        "National",
+        "News",
+        "Impact Circle initiative"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "TCL partners Guinness Ghana DJ Awards 2026; announces fan gifts and regional watch parties",
       "link": "https://www.myjoyonline.com/tcl-partners-guinness-ghana-dj-awards-2026-announces-fan-gifts-and-regional-watch-parties/",
@@ -129,20 +142,6 @@ window.GDC_PAPERS = {
         "Chief Justice",
         "Gabriel Pwamang",
         "Prima facie"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
-      "link": "https://www.myjoyonline.com/ghanas-capital-market-has-money-but-lacks-investment-ready-projects-gse-md/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:19:49.000Z",
-      "summary": "Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, says Ghana’s capital market has sufficient funds to support businesses and major infrastructure projects but lacks a strong…",
-      "categories": [
-        "Business",
-        "Investments",
-        "Abena Amoah",
-        "GSE"
       ],
       "site": "https://www.myjoyonline.com/"
     },
