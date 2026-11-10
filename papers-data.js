@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T20:43:44.379Z",
+  "updated": "2026-11-10T20:53:43.773Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Military High Command briefs Defence Minister on the state of the Ghana Armed Forces",
+      "link": "https://www.myjoyonline.com/military-high-command-briefs-the-defence-minister-on-the-state-of-the-ghana-armed-forces/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T20:49:44.000Z",
+      "summary": "The Military High Command has briefed the Minister for Defence, Kenneth Gilbert Adjei, on the state of the Ghana Armed Forces (GAF), outlining ongoing efforts to improve personnel welfare…",
+      "categories": [
+        "National",
+        "Ghana Armed Forces",
+        "Military High Command",
+        "Minister for Defence"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Japan Motors donates Foton truck to Fisheries Ministry to support World Fisheries Day 2026",
       "link": "https://www.myjoyonline.com/japan-motors-donates-foton-truck-to-fisheries-ministry-to-support-world-fisheries-day-2026/",
@@ -120,17 +134,6 @@ window.GDC_PAPERS = {
         "AI",
         "brain scan",
         "KNUST researcher"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GIPA CEO calls for shift from raw material exports to value addition",
-      "link": "https://www.myjoyonline.com/gipa-ceo-calls-for-shift-from-raw-material-exports-to-value-addition/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T19:40:03.000Z",
-      "summary": "Mr Madjie made the call at the 15th Ghana Economic Forum, hosted by the Business and Financial Times (B&FT) in Accra, under the theme “From Stabilisation to Scale: Mobilising Capital…",
-      "categories": [
-        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },
