@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T21:33:14.611Z",
+  "updated": "2026-11-10T21:43:13.591Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Non-interest banking is for everyone, not a religious tool – BoG Governor",
+      "link": "https://www.myjoyonline.com/non-interest-banking-is-for-everyone-not-a-religious-tool-bog-governor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:31:26.000Z",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Asiama, has dispelled misconceptions surrounding non-interest banking, clarifying that the financial model is a commercial, inclusive…"
+    },
+    {
+      "title": "Vegetable farmers urge gov’t to capture Anloga tomato factory in 2027 budget",
+      "link": "https://www.myjoyonline.com/vegetable-farmers-urge-govt-to-capture-anloga-tomato-factory-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:26:00.000Z",
+      "summary": "Vegetable farmers in the Anloga District of the Volta Region have appealed to the government to include provision for a tomato processing factory in the 2027 national budget to address…"
+    },
+    {
+      "title": "GACL targets year-end start for Wa, Bolgatanga and Sunyani airport projects",
+      "link": "https://www.myjoyonline.com/gacl-targets-year-end-start-for-wa-bolgatanga-and-sunyani-airport-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:16:00.000Z",
+      "summary": "The Ghana Airports Company Limited (GACL) hopes to begin construction on airport projects in Wa, Bolgatanga and Sunyani before the end of 2026 to improve domestic connectivity and expand…"
+    },
     {
       "title": "Ghana’s Tourism Investment Faces Delivery Test as Creative Funds Remain Underfunded",
       "link": "https://thehighstreetjournal.com/ghanas-tourism-investment-faces-delivery-test-as-creative-funds-remain-underfunded/",

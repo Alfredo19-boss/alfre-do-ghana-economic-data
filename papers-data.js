@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T21:33:44.774Z",
+  "updated": "2026-11-10T21:43:44.123Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,15 +21,73 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "NDC regional chairman aspirant unveils 10-pillar transformation agenda for Upper West",
+      "link": "https://www.myjoyonline.com/ndc-regional-chairman-aspirant-unveils-10-pillar-transformation-agenda-for-upper-west/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:40:51.000Z",
+      "summary": "An aspirant for the National Democratic Congress (NDC) Upper West Regional Chairmanship, Alhaji Alhassan Adams Randy, has unveiled a 10-pillar transformation agenda aimed at rebuilding the…",
+      "categories": [
+        "National",
+        "Alhassan Adams Randy",
+        "NDC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "AGN Chair backs stronger inclusion of children in global climate negotiations",
+      "link": "https://www.myjoyonline.com/agn-chair-backs-stronger-inclusion-of-children-in-global-climate-negotiations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:37:22.000Z",
+      "summary": "The Chair of the African Group of Negotiators on Climate Change (AGN), Nana Dr. Antwi-Boasiako Amoah, has pledged the Group's support for efforts to strengthen the participation of children…",
+      "categories": [
+        "National",
+        "African Group of Negotiators on Climate Change (AGN)",
+        "Climate change",
+        "Nana Dr. Antwi-Boasiako Amoah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Non-interest banking is for everyone, not a religious tool – BoG Governor",
       "link": "https://www.myjoyonline.com/non-interest-banking-is-for-everyone-not-a-religious-tool-bog-governor/",
       "source": "MyJoyOnline",
       "published": "2026-11-10T21:31:26.000Z",
       "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Asiama, has dispelled misconceptions surrounding non-interest banking, clarifying that the financial model is a commercial, inclusive…",
       "categories": [
+        "Banking and Finance",
         "National",
         "Bank of Ghana",
         "Banking"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Vegetable farmers urge gov’t to capture Anloga tomato factory in 2027 budget",
+      "link": "https://www.myjoyonline.com/vegetable-farmers-urge-govt-to-capture-anloga-tomato-factory-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:26:00.000Z",
+      "summary": "Vegetable farmers in the Anloga District of the Volta Region have appealed to the government to include provision for a tomato processing factory in the 2027 national budget to address…",
+      "categories": [
+        "Agribusiness",
+        "National",
+        "Anloga tomato factory",
+        "Vegetable farmers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "GACL targets year-end start for Wa, Bolgatanga and Sunyani airport projects",
+      "link": "https://www.myjoyonline.com/gacl-targets-year-end-start-for-wa-bolgatanga-and-sunyani-airport-projects/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T21:16:00.000Z",
+      "summary": "The Ghana Airports Company Limited (GACL) hopes to begin construction on airport projects in Wa, Bolgatanga and Sunyani before the end of 2026 to improve domestic connectivity and expand…",
+      "categories": [
+        "National",
+        "News",
+        "Transport",
+        "Ghana Airports Company Limited (GACL)",
+        "Sunyani",
+        "Wa Bolga"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -73,63 +131,6 @@ window.GDC_PAPERS = {
         "Obuasi SHS",
         "Sexual Assault",
         "Shield"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t plans acquisition of naval ships and aircraft to strengthen the military – Defence Minister",
-      "link": "https://www.myjoyonline.com/govt-plans-acquisition-of-naval-ships-and-aircraft-to-strengthen-the-military-defence-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:53:58.000Z",
-      "summary": "The government is advancing plans to acquire new naval ships and aircraft for the Ghana Armed Forces (GAF) as part of efforts to strengthen its operational readiness and military…",
-      "categories": [
-        "National",
-        "Aircraft",
-        "Defence Minister",
-        "naval ships"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Military High Command briefs Defence Minister on the state of the Ghana Armed Forces",
-      "link": "https://www.myjoyonline.com/military-high-command-briefs-the-defence-minister-on-the-state-of-the-ghana-armed-forces/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:49:44.000Z",
-      "summary": "The Military High Command has briefed the Minister for Defence, Kenneth Gilbert Adjei, on the state of the Ghana Armed Forces (GAF), outlining ongoing efforts to improve personnel welfare…",
-      "categories": [
-        "National",
-        "Ghana Armed Forces",
-        "Military High Command",
-        "Minister for Defence"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Japan Motors donates Foton truck to Fisheries Ministry to support World Fisheries Day 2026",
-      "link": "https://www.myjoyonline.com/japan-motors-donates-foton-truck-to-fisheries-ministry-to-support-world-fisheries-day-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:40:34.000Z",
-      "summary": "Japan Motors Trading Company Limited has donated a 2.2-tonne-capacity Foton light truck to the Ministry of Fisheries and Aquaculture to support preparations for the 2026 World Fisheries Day…",
-      "categories": [
-        "National",
-        "Foton Truck",
-        "Japan Motors",
-        "Ministry of fisheries and Aquaculture",
-        "World Fisheries Day 2026"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ho Central MP provides mechanised borehole for Housing M.A. Basic School",
-      "link": "https://www.myjoyonline.com/ho-central-mp-provides-mechanised-borehole-for-housing-m-a-basic-school/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T20:23:12.000Z",
-      "summary": "The Member of Parliament for Ho Central, Richmond Edem Kpotosu, has provided a mechanised borehole facility for Housing M.A. Basic School in Ho. The project, financed with the MP’s share of…",
-      "categories": [
-        "News",
-        "Regional",
-        "Ho Central Constituency",
-        "Richmond Kpotosu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
