@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T14:13:36.561Z",
+  "updated": "2026-11-10T14:23:37.441Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,62 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Speaker Bagbin to Media: Be watchdogs, not lapdogs, and guard Ghana against hate speech",
+      "link": "https://ghanaiantimes.com.gh/speaker-bagbin-to-media-be-watchdogs-not-lapdogs-and-guard-ghana-against-hate-speech/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:23:32.000Z",
+      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, has urged Ghanaian journalists to hold power to account while resisting the spread of misinformation and hate speech, as…",
+      "categories": [
+        "Hot!",
+        "News",
+        "Uncategorized"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Delegation from academia pays courtesy call on Speaker",
+      "link": "https://ghanaiantimes.com.gh/delegation-from-academia-pays-courtesy-call-on-speaker/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:18:25.000Z",
+      "summary": "A delegation from the academic community, led by Professor Robert Darko Osei, has paid a courtesy call on Speaker Bagbin, during which they presented a collection of reports and books to…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana, Sweden to deepen cooperation in digital economy, AI and trade",
+      "link": "https://ghanaiantimes.com.gh/ghana-sweden-to-deepen-cooperation-in-digital-economy-ai-and-trade/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:16:39.000Z",
+      "summary": "Ghana and Sweden have pledged to deepen bilateral cooperation in the digital economy, artificial intelligence (AI), trade and investment. The commitment was made on Monday, November 9…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Black Stars to hold final training in Accra before Sekondi trip for Somalia double-header",
+      "link": "https://ghanaiantimes.com.gh/black-stars-to-hold-final-training-in-accra-before-sekondi-trip-for-somalia-double-header/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T14:14:24.000Z",
+      "summary": "The Black Stars will hold their final training session in Accra on Tuesday afternoon before travelling to Sekondi for their 2027 Africa Cup of Nations qualifying double-header against…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
       "title": "Spend more in 2027 to boost growth – PwC to govt",
       "link": "https://www.myjoyonline.com/spend-more-in-2027-to-boost-growth-pwc-to-govt/",
       "source": "MyJoyOnline",
       "published": "2026-11-10T14:09:33.000Z",
       "summary": "The government must use the 2027 Budget to increase efficient spending and prioritise resources towards productive sectors to stimulate economic growth without undermining the gains made in…",
       "categories": [
-        "News",
+        "National",
         "Government",
         "Growth",
         "PwC"
@@ -276,50 +325,6 @@ window.GDC_PAPERS = {
       "summary": "\\ The National Film Authority (NFA) has launched the Cinema Train Initiative to expand access to cinema across the country and give filmmakers better opportunities to exhibit and…",
       "categories": [
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Fear, stigma put women at risk of breast cancer deaths – Police Ladies",
-      "link": "https://ghanaiantimes.com.gh/fear-stigma-put-women-at-risk-of-breast-cancer-deaths-police-ladies/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:38:15.000Z",
-      "summary": "Women have been urged to overcome fear, stigma and misconceptions surrounding breast cancer and seek early medical screening, as delayed diagnosis continues to put lives at risk. The Deputy…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Banks told to link lending to environmental protection",
-      "link": "https://ghanaiantimes.com.gh/banks-told-to-link-lending-to-environmental-protection/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:36:37.000Z",
-      "summary": "Ghanaian banks and other financial institutions have been urged to consider the environmental impact of businesses before granting loans, as the loss of biodiversity puts the country’s…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Demystifying derivatives: Yield enhancement through equity and credit-linked solutions (Part 1)",
-      "link": "https://ghanaiantimes.com.gh/demystifying-derivatives-yield-enhancement-through-equity-and-credit-linked-solutions-part-1/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:34:05.000Z",
-      "summary": "Institutional investors traditionally gain exposure to equities and bonds by purchasing the underlying securities directly. While this approach remains central to portfolio construction…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Beyond the conference room: What ITU PP-26 could mean for Ghana’s digital future",
-      "link": "https://ghanaiantimes.com.gh/beyond-the-conference-room-what-itu-pp-26-could-mean-for-ghanas-digital-future/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T07:30:07.000Z",
-      "summary": "As global leaders prepare to meet in Doha, Qatar, Ghana has an opportunity to advance a digital agenda that places people, opportunity and inclusion at its centre. For a young Ghanaian…",
-      "categories": [
-        "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
