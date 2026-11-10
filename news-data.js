@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T14:03:05.935Z",
+  "updated": "2026-11-10T14:13:05.792Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Developing countries’ external debt surges to a record $9.4trn – World Bank",
+      "link": "https://www.myjoyonline.com/developing-countries-external-debt-surges-to-a-record-9-4trn-world-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:01:00.000Z",
+      "summary": "Access to international finance has improved, but the price of finance has not, and high debt burdens in the poorest countries threaten to crowd out essential investments in people."
+    },
     {
       "title": "Bond market: Turnover declines by 45% to GH¢2.72bn",
       "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-45-to-gh%c2%a22-72bn/",

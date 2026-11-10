@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T14:03:36.026Z",
+  "updated": "2026-11-10T14:13:36.561Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,73 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Spend more in 2027 to boost growth – PwC to govt",
+      "link": "https://www.myjoyonline.com/spend-more-in-2027-to-boost-growth-pwc-to-govt/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:09:33.000Z",
+      "summary": "The government must use the 2027 Budget to increase efficient spending and prioritise resources towards productive sectors to stimulate economic growth without undermining the gains made in…",
+      "categories": [
+        "News",
+        "Government",
+        "Growth",
+        "PwC"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“The fire around December in GH feels a bit doused” – George Quaye",
+      "link": "https://www.myjoyonline.com/the-fire-around-december-in-gh-feels-a-bit-doused-george-quaye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:09:05.000Z",
+      "summary": "Team Lead for ImageBureau, George Quaye, has expressed concern about the apparent lull in activities surrounding the government’s December in GH initiative, saying the brand has lost some…",
+      "categories": [
+        "Events",
+        "HP Entertainment 2",
+        "December in GH",
+        "George Quaye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nacee’s KAVOD 26 delivers an evening of drama, laughter and gospel music at National Theatre",
+      "link": "https://www.myjoyonline.com/nacees-kavod-26-delivers-an-evening-of-drama-laughter-and-gospel-music-at-national-theatre/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:02:10.000Z",
+      "summary": "Unlike a conventional gospel concert, KAVOD 26 adopted various entertainment formats, with a dramatic opening setting the tone for an evening that combined humour, social commentary…",
+      "categories": [
+        "Arts and Culture",
+        "Comp. Entertainment",
+        "Events",
+        "HP Entertainment 1",
+        "Music",
+        "Theatre",
+        "Comedy",
+        "Drama",
+        "Gospel Music",
+        "KAVOD",
+        "Live performance",
+        "Nacee"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Developing countries’ external debt surges to a record $9.4trn – World Bank",
+      "link": "https://www.myjoyonline.com/developing-countries-external-debt-surges-to-a-record-9-4trn-world-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:01:00.000Z",
+      "summary": "Access to international finance has improved, but the price of finance has not, and high debt burdens in the poorest countries threaten to crowd out essential investments in people.",
+      "categories": [
+        "Business",
+        "Economy",
+        "external debt",
+        "Haishan Fu",
+        "IBRD",
+        "IDA",
+        "World Bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Bond market: Turnover declines by 45% to GH¢2.72bn",
       "link": "https://www.myjoyonline.com/bond-market-turnover-declines-by-45-to-gh%c2%a22-72bn/",
@@ -77,68 +144,6 @@ window.GDC_PAPERS = {
         "Dr. Asiama",
         "Heritage Series banknotes",
         "President Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s banking sector urged to embrace AI, technology to remain competitive",
-      "link": "https://www.myjoyonline.com/ghanas-banking-sector-urged-to-embrace-ai-technology-to-remain-competitive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:39:55.000Z",
-      "summary": "Ghana’s banking industry has been urged to leverage emerging technologies, particularly artificial intelligence (AI), to strengthen operations, improve customer confidence and remain…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 7",
-        "2026 Ghana Banking Conference",
-        "CIB",
-        "Haruna Iddrisu",
-        "Minister of Education"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "DDC26 announces speakers to headline Ghana’s largest design conference",
-      "link": "https://www.myjoyonline.com/ddc26-announces-speakers-to-headline-ghanas-largest-design-conference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:32:35.000Z",
-      "summary": "dEX Ghana Foundation has announced the speakers for DDC26, the seventh dEX Design Conference. The conference runs from 12 to 14 November 2026 at the National Theatre of Ghana under the…",
-      "categories": [
-        "National",
-        "dEX Ghana Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Partnerships key to unlocking Ghana’s mineral wealth – MIIF CEO",
-      "link": "https://www.myjoyonline.com/partnerships-key-to-unlocking-ghanas-mineral-wealth-miif-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:31:42.000Z",
-      "summary": "Speaking on the sidelines of the 2026 China (Guangxi)–ASEAN Mining Cooperation Conference in China on Friday, November 6, Mrs. Nelson presented Ghana’s mineral resource potential and…",
-      "categories": [
-        "Business",
-        "Mining",
-        "Alhaji Yusif Sulemana",
-        "Bauxite",
-        "China",
-        "Iron ore",
-        "Justina Nelson",
-        "MIIF",
-        "Ministry of Lands"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Businesses must strengthen corporate governance to attract investment – GIPA",
-      "link": "https://www.myjoyonline.com/businesses-must-strengthen-corporate-governance-to-attract-investment-gipa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T13:31:00.000Z",
-      "summary": "The Chief Executive Officer of the Ghana Investment Promotion Authority (GIPA), Simon Madjie, has urged local businesses to strengthen corporate governance, improve financial transparency…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 6",
-        "Simon Madjie"
       ],
       "site": "https://www.myjoyonline.com/"
     },
