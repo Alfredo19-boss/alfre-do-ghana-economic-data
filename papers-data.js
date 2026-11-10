@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T15:23:36.631Z",
+  "updated": "2026-11-10T15:33:36.389Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -50,13 +50,17 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget to be presented at 6 pm on Thursday – Bagbin",
+      "title": "2027 budget to be presented at 6 pm on Thursday – Bagbin",
       "link": "https://www.myjoyonline.com/2027-budget-to-be-presented-at-6-pm-on-thursday-bagbin/",
       "source": "MyJoyOnline",
       "published": "2026-11-10T15:10:08.000Z",
       "summary": "The 2027 Budget Statement and Economic Policy will be presented to Parliament at 6pm on Thursday, November 12, Speaker Alban Bagbin has announced. The Speaker disclosed this in Parliament…",
       "categories": [
+        "Economy",
+        "HP Business 2",
         "National",
+        "News",
+        "Top Story",
         "2027 Budget",
         "Bagbin",
         "Budget",
@@ -66,7 +70,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "2027 Budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
+      "title": "2027 budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
       "link": "https://www.myjoyonline.com/2027-budget-must-prioritise-roads-water-and-electricity-for-commercial-farmers-prof-egyir/",
       "source": "MyJoyOnline",
       "published": "2026-11-10T15:02:07.000Z",

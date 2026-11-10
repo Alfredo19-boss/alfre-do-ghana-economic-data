@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T15:23:11.067Z",
+  "updated": "2026-11-10T15:33:05.681Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -36,7 +36,14 @@ window.GDC_NEWS = {
       "summary": "The International Monetary Fund (IMF) Resident Representative for Ghana, Dr. Adrian Alter, says Ghana’s recent economic stability is real but not yet self-sustaining, warning that…"
     },
     {
-      "title": "2027 Budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
+      "title": "2027 budget to be presented at 6 pm on Thursday – Bagbin",
+      "link": "https://www.myjoyonline.com/2027-budget-to-be-presented-at-6-pm-on-thursday-bagbin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:10:08.000Z",
+      "summary": "The 2027 Budget Statement and Economic Policy will be presented to Parliament at 6pm on Thursday, November 12, Speaker Alban Bagbin has announced. The Speaker disclosed this in Parliament…"
+    },
+    {
+      "title": "2027 budget must prioritise roads, water and electricity for commercial farmers – Prof Egyir",
       "link": "https://www.myjoyonline.com/2027-budget-must-prioritise-roads-water-and-electricity-for-commercial-farmers-prof-egyir/",
       "source": "MyJoyOnline",
       "published": "2026-11-10T15:02:07.000Z",
