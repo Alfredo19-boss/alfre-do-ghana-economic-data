@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:58:35.967Z",
+  "updated": "2026-11-10T17:08:37.539Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,18 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Patience Enyonam Akyianu",
+      "link": "https://www.myjoyonline.com/patience-enyonam-akyianu/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:58:31.000Z",
+      "summary": "Mr Peter Korsinah, Head of Korsinah Family, Mawutor Kudoziah, the Korsinah and Allied Families, Nene Kpabitey Martey III – Nankese Amanfrom Odikro, Elizabeth Tawia – Queen Mother – Nankese…",
+      "categories": [
+        "Obituary",
+        "Patience Enyonam Akyianu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Obuasi SHTS abuse probe 85% complete, evidence points to prosecution – Haruna Iddrisu",
       "link": "https://www.myjoyonline.com/obuasi-shts-abuse-probe-85-complete-evidence-points-to-prosecution-haruna-iddrisu/",
       "source": "MyJoyOnline",
@@ -34,6 +46,17 @@ window.GDC_PAPERS = {
         "Prima facie"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Omega Psi Phi Fraternity, PNHF to screen 100 men for prostate cancer",
+      "link": "https://www.graphic.com.gh/news/health/omega-psi-phi-fraternity-pnhf-to-screen-100-men-for-prostate-cancer.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T16:54:37.000Z",
+      "summary": "",
+      "categories": [
+        "Health"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Agbodza dares Ofori-Atta to return to Ghana and witness Ato Forson’s performance",
@@ -128,20 +151,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana seeks US investment in local manufacturing, agriculture and technology",
-      "link": "https://www.myjoyonline.com/ghana-seeks-us-investment-in-local-manufacturing-agriculture-and-technology/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T16:20:42.000Z",
-      "summary": "Ghana’s Ambassador to the United States, Victor Emmanuel Smith, has called on American investors to explore opportunities in local manufacturing and processing of the country’s raw…",
-      "categories": [
-        "National",
-        "Ghana",
-        "United States",
-        "Victor Emmanuel Smith"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Parliament to sit at 2pm, mornings reserved for committee work",
@@ -263,6 +272,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "Energy Ministry targeting six new agreements in Ghana's oil sector by March 2027",
+      "link": "https://www.graphic.com.gh/news/general-news/energy-ministry-targeting-six-new-agreements-in-ghanas-oil-sector-by-march-2027.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T13:48:06.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Peki SHS: Student dies after dormitory altercation over schoolbag",
       "link": "https://www.graphic.com.gh/news/general-news/peki-shs-student-dies-after-dormitory-altercation-over-schoolbag.html",
       "source": "Daily Graphic",
@@ -285,32 +305,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "President Mahama announces major gas, condensate discovery offshore Ghana",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-announces-major-gas-condensate-discovery-offshore-ghana.html",
+      "title": "Ghana agrees settlement roadmap with Tullow on US$393m tax liability",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-agrees-settlement-roadmap-with-tullow-over-us-393m-tax-liability.html",
       "source": "Daily Graphic",
-      "published": "2026-11-10T12:42:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ayariga sets new target for Aayalolo buses to double Accra passenger journeys from 8000 to 16,000 by Christmas 2026",
-      "link": "https://www.graphic.com.gh/news/general-news/aayalolo-targets-16-000-daily-passengers-by-christmas.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T11:05:36.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "National Identification Authority suspends date of birth amendments on Ghana Card",
-      "link": "https://www.graphic.com.gh/news/general-news/national-identification-authority-suspends-date-of-birth-amendments-on-ghana-card.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T09:53:24.000Z",
+      "published": "2026-11-10T13:00:02.000Z",
       "summary": "",
       "categories": [
         "General News"
