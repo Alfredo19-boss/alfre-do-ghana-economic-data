@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T16:23:06.007Z",
+  "updated": "2026-11-10T16:33:04.922Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Records Fresh and First Ghana-led Oil and Gas Discovery",
+      "link": "https://thehighstreetjournal.com/ghana-records-fresh-and-first-ghana-led-oil-and-gas-discovery/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T16:28:17.000Z",
+      "summary": "President Mahama announced a major offshore hydrocarbon discovery in the Tano Basin by Ghanaian-led Planet One, highlighting growing indigenous capacity in energy exploration."
+    },
     {
       "title": "OPEC Fund, SEforALL Push to Scale Up Electricity Access Across Africa",
       "link": "https://thehighstreetjournal.com/opec-fund-seforall-push-electricity-reach/",

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:23:38.168Z",
+  "updated": "2026-11-10T16:33:35.611Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Dakar 2026: Ghanaian boxer Robert Tagoe Amartey suffers quarter-final defeat to UAE’s Moaz Mohamed",
+      "link": "https://www.myjoyonline.com/dakar-2026-ghanaian-boxer-robert-tagoe-amartey-suffers-quarter-final-defeat-to-uaes-moaz-mohamed-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:24:57.000Z",
+      "summary": "Ghana’s participation at the Dakar 2026 Youth Olympic Games is down to one athlete after boxer Robert Tagoe Amartey became the latest to exit the competition following a split-decision…",
+      "categories": [
+        "HP Sports 1",
+        "Sports",
+        "Dakar 2026 Youth Olympics",
+        "Robert Tagoe Amartey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GIS boss unveils rotational transfer system, urges officers to stay resilient after Hamile blast",
       "link": "https://www.graphic.com.gh/news/general-news/gis-boss-unveils-rotational-transfer-system-urges-officers-to-stay-resilient-after-hamile-blast.html",
@@ -130,19 +144,6 @@ window.GDC_PAPERS = {
         "Amin Adam",
         "Government",
         "Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Obuasi SHTS sexual abuse: Domestic Violence Coalition demands independent probe, accountability",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-domestic-violence-coalition-demands-independent-probe-accountability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:56:02.000Z",
-      "summary": "The Domestic Violence Coalition has called for an independent, comprehensive and survivor-centred investigation into the sexual abuse allegations involving female students of Obuasi Senior…",
-      "categories": [
-        "National",
-        "Domestic Violence Coalition",
-        "Obuasi SHTS sexual abuse"
       ],
       "site": "https://www.myjoyonline.com/"
     },
