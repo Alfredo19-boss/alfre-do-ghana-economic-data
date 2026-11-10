@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T01:47:59.178Z",
+  "updated": "2026-11-10T02:53:43.496Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘We have waited too long’ – Bunkpurugu MP on GH¢10m media fund",
+      "link": "https://www.myjoyonline.com/we-have-waited-too-long-bunkpurugu-mp-on-gh%c2%a210m-media-fund/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T02:44:55.000Z",
+      "summary": "The allocation of GH¢10 million as seed money for the Media Development Fund has come after years of waiting and calls for greater support for Ghana’s media industry, the MP for Bunkpurugu…",
+      "categories": [
+        "News",
+        "Media",
+        "media fund",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama’s GH¢10m media fund commitment wins bipartisan backing – Bunkpurugu MP",
+      "link": "https://www.myjoyonline.com/mahamas-gh%c2%a210m-media-fund-commitment-wins-bipartisan-backing-bunkpurugu-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T02:00:32.000Z",
+      "summary": "President John Mahama's decision to allocate GH¢10 million as seed money for the Media Development Fund has received support from both sides of Parliament, with the MP for Bunkpurugu, Dr…",
+      "categories": [
+        "News",
+        "Ghana",
+        "Media",
+        "Media Development Fund"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UG students reject hostel fee hikes as EFL raises academic freedom concerns",
       "link": "https://www.myjoyonline.com/ug-students-reject-hostel-fee-hikes-as-efl-raises-academic-freedom-concerns/",
@@ -98,35 +126,6 @@ window.GDC_PAPERS = {
         "Economy",
         "Ghana",
         "Tourism"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We should avoid creating a big bureaucracy around Media Development Fund – George Sarpong",
-      "link": "https://www.myjoyonline.com/we-should-avoid-creating-a-big-bureaucracy-around-media-development-fund-george-sarpong/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T00:09:00.000Z",
-      "summary": "The Chairman of Parliament’s Select Committee on Information and Communications, Dr Abednego Lamangin Bandim, has urged a lean management structure for the Media Development Fund.",
-      "categories": [
-        "National",
-        "George Sarpong",
-        "Media Development Fund",
-        "National Media Commission (NMC)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ken Ashigbey rejoins Kofi Bentil’s Facebook post on Gold Fields",
-      "link": "https://www.myjoyonline.com/ken-ashigbey-rejoins-kofi-bentils-facebook-post-on-gold-fields/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T00:04:33.000Z",
-      "summary": "Kofi Bentil, my brother, I have responded to the issues you raised, but let me reiterate a few important points. We must be careful not to present selective information in a manner that…",
-      "categories": [
-        "National",
-        "Opinion",
-        "Gold Fields",
-        "Ken Ashigbey",
-        "Kofi Bentil"
       ],
       "site": "https://www.myjoyonline.com/"
     },
