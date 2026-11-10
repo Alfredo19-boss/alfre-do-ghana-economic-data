@@ -230,9 +230,21 @@
     if (!SR) { pill("Voice isn’t supported in this browser. Try Chrome, Edge or Safari."); VP.on = false; return; }
     var r = new SR(); VP.rec = r; r.lang = "en-GH"; r.continuous = true; r.interimResults = true;
     r.onresult = function (e) { for (var i = e.resultIndex; i < e.results.length; i++) { var s = e.results[i][0].transcript; caption(s); if (/\b(close( it| this)?)$/i.test(s.trim()) && e.results[i].isFinal) { close(); continue; } if (/\bnext( one)?$/i.test(s.trim()) && e.results[i].isFinal) { step(1); continue; } var k = heardFigure(s); if (!k) continue; var now = Date.now(); if ((k === VP.lastK && now - VP.last < 9000) || now - VP.last < 2500) continue; if (project(s)) { VP.last = now; VP.lastK = k; pill("Projected: " + (SP.cur ? SP.cur.label : k)); } } };
-    r.onerror = function (e) { if (e.error === "not-allowed" || e.error === "service-not-allowed") { pill("The microphone is blocked. Allow it in your browser."); vpSet(false); } };
-    r.onend = function () { if (VP.on && VP.rec === r) setTimeout(function () { try { r.start(); } catch (e) {} }, 250); };
-    try { r.start(); } catch (e) {}
+    VP.fails = 0;
+    var warn = function (msg) { vpSet(false); pill(msg); clearTimeout(VP.pt); VP.pt = setTimeout(function () { if (!VP.on) pill(""); }, 8000); };
+    r.onerror = function (e) {
+      if (e.error === "language-not-supported" && r.lang !== "en-US") { r.lang = r.lang === "en-GH" ? "en-GB" : "en-US"; return; }
+      if (e.error === "not-allowed" || e.error === "service-not-allowed") return warn("The microphone is blocked. Allow it for this site in your browser, then tap Voice projector again.");
+      if (e.error === "audio-capture") return warn("No microphone was found. Plug one in or check your sound settings, then try again.");
+      if (e.error !== "no-speech" && e.error !== "aborted") VP.fails++;
+    };
+    r.onresult = (function (h) { return function (e) { VP.fails = 0; h(e); }; })(r.onresult);
+    r.onend = function () {
+      if (!VP.on || VP.rec !== r) return;
+      if (VP.fails > 6) return warn("The speech service isn’t responding. Check your internet connection and use Chrome or Edge, then tap Voice projector again.");
+      setTimeout(function () { if (VP.on && VP.rec === r) { try { r.start(); } catch (e) { VP.fails++; } } }, 250);
+    };
+    try { r.start(); } catch (e) { warn("Voice couldn’t start here. Try Chrome or Edge."); }
   }
   function pill(msg) {
     var P = $("ap-pill"); if (!P) { P = document.createElement("div"); P.id = "ap-pill"; P.setAttribute("role", "status"); P.innerHTML = '<i></i><span></span><button type="button" aria-label="Stop listening">×</button>'; document.body.appendChild(P); P.querySelector("button").onclick = function () { vpSet(false); }; }
@@ -266,7 +278,7 @@
     var r = new SR(), L = lang(); TK.rec = r; r.lang = /^(en|fr)/.test(L.speech) ? L.speech : "en-GH"; r.interimResults = true; r.continuous = false;
     var got = ""; tState("listen", ""); sfx("listen");
     r.onresult = function (e) { got = ""; for (var i = 0; i < e.results.length; i++) got += e.results[i][0].transcript; $("ap-tq").textContent = got; };
-    r.onerror = function (e) { if (e.error === "not-allowed") { tState("idle", "The microphone is blocked. Allow it in your browser."); TK.on = false; } };
+    r.onerror = function (e) { if (e.error === "language-not-supported" && r.lang !== "en-GB") { r.lang = "en-GB"; return; } if (e.error === "not-allowed" || e.error === "service-not-allowed") { tState("idle", "The microphone is blocked. Allow it for this site in your browser."); TK.on = false; } else if (e.error === "audio-capture") { tState("idle", "No microphone was found."); TK.on = false; } else if (e.error === "network") { tState("idle", "The speech service isn’t responding. Check your connection."); TK.on = false; } };
     r.onend = function () { if (!TK.on || TK.rec !== r) return; if (got.trim()) handle(got.trim()); else tState("idle", "I didn’t catch that. Tap the circle to try again."); };
     try { r.start(); } catch (e) {}
   }
