@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:13:37.980Z",
+  "updated": "2026-11-10T16:23:38.168Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,46 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GIS boss unveils rotational transfer system, urges officers to stay resilient after Hamile blast",
+      "link": "https://www.graphic.com.gh/news/general-news/gis-boss-unveils-rotational-transfer-system-urges-officers-to-stay-resilient-after-hamile-blast.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T16:21:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Ghana seeks US investment in local manufacturing, agriculture and technology",
+      "link": "https://www.myjoyonline.com/ghana-seeks-us-investment-in-local-manufacturing-agriculture-and-technology/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:20:42.000Z",
+      "summary": "Ghana’s Ambassador to the United States, Victor Emmanuel Smith, has called on American investors to explore opportunities in local manufacturing and processing of the country’s raw…",
+      "categories": [
+        "National",
+        "Ghana",
+        "United States",
+        "Victor Emmanuel Smith"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dakar 2026: Ghanaian boxer Robert Tagoe Amartey suffers quarter-final defeat to UAE’s Moaz Mohamed",
+      "link": "https://www.myjoyonline.com/dakar-2026-ghanaian-boxer-robert-tagoe-amartey-suffers-quarter-final-defeat-to-uaes-moaz-mohamed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:17:58.000Z",
+      "summary": "The 17-year-old had received a bye in the Round of 16, and his quarter-final contest against the United Arab Emirates' Moaz Mohamed presented him with an opportunity to secure a medal, as…",
+      "categories": [
+        "Football",
+        "National",
+        "Dakar 2026 Youth Olympics",
+        "Moaz Mohamed",
+        "Robert Tagoe Amartey"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "18-year-old Ghanaian shot in Canada identified as victim of Toronto’s 33rd homicide in 2026",
       "link": "https://www.myjoyonline.com/18-year-old-ghanaian-shot-in-canada-identified-as-victim-of-torontos-33rd-homicide-in-2026/",
@@ -103,33 +143,6 @@ window.GDC_PAPERS = {
         "National",
         "Domestic Violence Coalition",
         "Obuasi SHTS sexual abuse"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority challenges government to publish jobs created under 24-Hour Economy",
-      "link": "https://www.myjoyonline.com/minority-challenges-government-to-publish-jobs-created-under-24-hour-economy/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:53:47.000Z",
-      "summary": "The Minority in Parliament has demanded a verifiable account of employment generated under the government's 24-Hour Economy programme, questioning the administration's inability to provide…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Ato Forson",
-        "Minority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minority questions impact of falling inflation on cost of living",
-      "link": "https://www.myjoyonline.com/minority-questions-impact-of-falling-inflation-on-cost-of-living/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:53:14.000Z",
-      "summary": "The Minority in Parliament has questioned the extent to which Ghana’s declining inflation rate has improved the financial circumstances of ordinary households, arguing that the headline…",
-      "categories": [
-        "National",
-        "Amin Adam",
-        "Minority"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -301,17 +314,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/national-identification-authority-suspends-date-of-birth-amendments-on-ghana-card.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T09:53:24.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Service passport ‘goro boy’ deals: See the 4 passports earlier cancelled among 701 in May 2025 and resurfaced in 2026 allegation",
-      "link": "https://www.graphic.com.gh/news/general-news/service-passport-goro-boy-deals-see-the-4-passports-earlier-cancelled-among-701-in-may-2025-and-resurfaced-in-2026-passport-sale-brouhaha.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T09:51:17.000Z",
       "summary": "",
       "categories": [
         "General News"
