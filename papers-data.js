@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T16:08:35.841Z",
+  "updated": "2026-11-10T16:13:37.980Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "18-year-old Ghanaian shot in Canada identified as victim of Toronto’s 33rd homicide in 2026",
+      "link": "https://www.myjoyonline.com/18-year-old-ghanaian-shot-in-canada-identified-as-victim-of-torontos-33rd-homicide-in-2026/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:07:30.000Z",
+      "summary": "An 18-year-old Ghanaian has been identified as the victim of a fatal shooting in Toronto, Canada, which has been recorded as the city’s 33rd homicide of 2026. The victim, identified by…",
+      "categories": [
+        "National",
+        "News",
+        "Canada",
+        "Ghanaian",
+        "Homicide",
+        "Toronto"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s Ambassador to US, Victor Smith, visits Fisk University to strengthen historic ties",
+      "link": "https://www.myjoyonline.com/ghanas-ambassador-to-us-victor-smith-visits-fisk-university-to-strengthen-historic-ties/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T16:06:26.000Z",
+      "summary": "Ghana’s Ambassador to the United States, Victor Emmanuel Smith, has visited Fisk University in Nashville, Tennessee, to strengthen the longstanding academic and cultural relationship…",
+      "categories": [
+        "National",
+        "Fisk University",
+        "Victor Emmanuel Smith"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘When we invest in one young woman, we touch many more lives’ – YSA Global opens Impact Circle Cohort 3",
       "link": "https://www.myjoyonline.com/when-we-invest-in-one-young-woman-we-touch-many-more-lives-ysa-global-opens-impact-circle-cohort-3/",
@@ -105,19 +134,15 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Minority demands names of firms benefiting from 24-Hour Economy tax incentives",
-      "link": "https://www.myjoyonline.com/minority-demands-names-of-firms-benefiting-from-24-hour-economy-tax-incentives/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:47:47.000Z",
-      "summary": "The Minority in Parliament has challenged the government to account for the tax incentives announced under the 24-Hour Economy programme, demanding details of companies that have benefited…",
+      "title": "Parliament to sit at 2pm, mornings reserved for committee work",
+      "link": "https://www.graphic.com.gh/news/politics/parliament-to-sit-at-2pm-mornings-reserved-for-committee-work.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T15:51:10.000Z",
+      "summary": "",
       "categories": [
-        "HP News 5",
-        "National",
-        "Amin Adam",
-        "Ato Forson",
-        "Minority"
+        "Politics"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Chief Justice finds no prima facie case in petition against Justice Gabriel Pwamang",
@@ -129,21 +154,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Chief Justice finds no prima facie case against Justice Pwamang",
-      "link": "https://www.myjoyonline.com/chief-justice-finds-no-prima-facie-case-against-justice-pwamang/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T15:39:30.000Z",
-      "summary": "The Chief Justice has found no prima facie case to warrant further investigation into a petition submitted against Supreme Court Justice Gabriel Scott Pwamang. The petition was filed by Mr…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Chief Justice",
-        "Gabriel Pwamang",
-        "Prima facie"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "NIA suspends date of birth changes on Ghana card until further notice",
@@ -302,17 +312,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/service-passport-goro-boy-deals-see-the-4-passports-earlier-cancelled-among-701-in-may-2025-and-resurfaced-in-2026-passport-sale-brouhaha.html",
       "source": "Daily Graphic",
       "published": "2026-11-10T09:51:17.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Hamile curfew lifted, ban on carrying firearms maintained",
-      "link": "https://www.graphic.com.gh/news/general-news/government-lifts-hamile-curfew-six-days-after-deadly-explosion.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T09:48:49.000Z",
       "summary": "",
       "categories": [
         "General News"
