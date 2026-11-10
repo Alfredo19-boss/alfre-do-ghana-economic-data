@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T02:53:13.527Z",
+  "updated": "2026-11-10T10:34:58.681Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -16,11 +16,116 @@ window.GDC_NEWS = {
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
     "The High Street Journal: 10/10 stories",
-    "Ghana Business News: 4/10 stories",
+    "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "DFC’s $400m Private Capital Push to Expand Africa’s Digital Infrastructure",
+      "link": "https://thehighstreetjournal.com/dfcs-400m-private-capital-push-to-expand-africas-digital-infrastructure/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T10:03:00.000Z",
+      "summary": "The US development finance agency is backing fibre networks, subsea cables and data centres to improve connectivity and unlock new business opportunities across more than 30 African…"
+    },
+    {
+      "title": "Beyond bank accounts: Queen Máxima hears Ghanaian entrepreneurs’ financial struggles",
+      "link": "https://www.myjoyonline.com/beyond-bank-accounts-queen-maxima-hears-ghanaian-entrepreneurs-financial-struggles/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T09:35:14.000Z",
+      "summary": "Queen Máxima of the Netherlands has met Ghanaian microentrepreneurs in Accra to discuss the challenges of growing businesses, supporting families and building financial security."
+    },
+    {
+      "title": "SOE Debt Risks and Commodity Price Swings Threaten Ghana’s 2027 Fiscal Outlook",
+      "link": "https://thehighstreetjournal.com/soe-debt-risks-and-commodity-price-swings-threaten-ghanas-2027-fiscal-outlook/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T09:31:00.000Z",
+      "summary": "Ghana's 2027 fiscal outlook faces risks from financially distressed state-owned enterprises and volatile commodity prices, threatening government revenue, expenditure management and efforts…"
+    },
+    {
+      "title": "DFC Targets African Investment Gaps With Expanded $205bn Financing Capacity",
+      "link": "https://thehighstreetjournal.com/dfc-targets-african-investment-gaps-with-expanded-205bn-financing-capacity/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T09:14:39.000Z",
+      "summary": "The DFC plans to deploy up to $205 billion over five years, targeting critical minerals, energy, transport, and other sectors while mobilising private capital for African development."
+    },
+    {
+      "title": "What Will Be the Fate of Our Traditional Markets When Gen Zs Rule?",
+      "link": "https://thehighstreetjournal.com/what-will-be-the-fate-of-our-traditional-markets-when-gen-zs-rule/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T08:00:00.000Z",
+      "summary": "Ghana’s Gen Z consumers are embracing online shopping and delivery services, raising questions about the future of traditional markets as traders face growing pressure to adopt digital…"
+    },
+    {
+      "title": "JUSAG and SSAJUG Suspend Strike, Courts to Resume Today",
+      "link": "https://thehighstreetjournal.com/jusag-and-ssajug-suspend-strike-courts-to-resume-today/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T05:05:00.000Z",
+      "summary": "JUSAG and SSAJUG have suspended their strike after government concessions on salaries and allowances, allowing courts nationwide to resume sittings Tuesday."
+    },
+    {
+      "title": "3 to 7 Yrs in Court: How Ghana’s Slow & Congested Judicial System May Be ‘Protecting’ Willful Loan Defaulters",
+      "link": "https://thehighstreetjournal.com/3-to-7-yrs-in-court-why-ghanas-slow-congested-judicial-system-may-be-protecting-willful-loan-defaulters/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T05:03:00.000Z",
+      "summary": "Dr. Richmond Atuahene warns that Ghana’s court delays and collateral enforcement loopholes enable loan defaulters, worsen banks’ bad debts and restrict credit, urging specialised financial…"
+    },
+    {
+      "title": "GIPA Identifies 100 Investment-Ready Projects for Invest in Ghana Summit",
+      "link": "https://thehighstreetjournal.com/gipa-identifies-100-investment-projects/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T05:02:00.000Z",
+      "summary": "GIPA (Ghana Investment Promotion Authority) has identified about 100 investment-ready projects, largely in manufacturing and infrastructure, to present to international investors at the…"
+    },
+    {
+      "title": "From Tamale to Kassel: Ibrahim Mahama Takes Ghanaian Art to New Global Heights",
+      "link": "https://thehighstreetjournal.com/from-tamale-to-kassel-ibrahim-mahama-takes-ghanaian-art-to-new-global-heights/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T05:01:00.000Z",
+      "summary": "Ghanaian artist Ibrahim Mahama’s 2026 Arnold Bode Prize in Germany highlights his growing influence on the global art scene and the role of his cultural institutions in Tamale in nurturing…"
+    },
+    {
+      "title": "Heritage Series banknotes expected in circulation weeks after November 12 launch",
+      "link": "https://www.myjoyonline.com/heritage-series-banknotes-expected-in-circulation-weeks-after-november-12-launch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T04:17:00.000Z",
+      "summary": "Ghana’s upgraded cedi banknotes, known as the Heritage Series, could enter circulation about two weeks after their official November 12, 2026 launch."
+    },
+    {
+      "title": "Ghana cedi remains relatively stable over one-week trading window",
+      "link": "https://www.ghanabusinessnews.com/2026/11/10/ghana-cedi-remains-relatively-stable-over-one-week-trading-window/",
+      "source": "Ghana Business News",
+      "published": "2026-11-10T04:15:31.000Z",
+      "summary": "The Ghana cedi recorded relative stability against the major trading currencies over a one-week trading window, according to the Bank of Ghana’s daily exchange rate data."
+    },
+    {
+      "title": "Finance Minister urged to create tax environment that stimulates business growth",
+      "link": "https://www.ghanabusinessnews.com/2026/11/10/finance-minister-urged-to-create-tax-environment-that-stimulates-business-growth/",
+      "source": "Ghana Business News",
+      "published": "2026-11-10T04:12:02.000Z",
+      "summary": "Youth in the Volta Region have appealed to the Minister for Finance, Dr. Cassiel Ato Forson, to establish a favorable tax environment that stimulates business growth and addresses critical…"
+    },
+    {
+      "title": "Mahama announces Seven firms shortlisted to start Keta Port",
+      "link": "https://www.ghanabusinessnews.com/2026/11/10/mahama-announces-seven-firms-shortlisted-to-start-keta-port/",
+      "source": "Ghana Business News",
+      "published": "2026-11-10T04:09:00.000Z",
+      "summary": "President John Dramani Mahama has given the clearest signal yet that the long-awaited Keta Port is moving from paper to action."
+    },
+    {
+      "title": "IEA urges Ghana to secure investment, technology transfers through BRICS",
+      "link": "https://www.ghanabusinessnews.com/2026/11/10/iea-urges-ghana-to-secure-investment-technology-transfers-through-brics/",
+      "source": "Ghana Business News",
+      "published": "2026-11-10T04:05:21.000Z",
+      "summary": "The Institute of Economic Affairs (IEA) has urged the Government to use Ghana’s proposed partnership with BRICS to attract investment, technology transfers and industrial partnerships to…"
+    },
+    {
+      "title": "Absa celebrates 40yrs of African Art with Ezra Appiah’s Solo Exhibition in ACCRA Absa L’Atelier",
+      "link": "https://www.myjoyonline.com/absa-celebrates-40yrs-of-african-art-with-ezra-appiahs-solo-exhibition-in-accra-absa-latelier/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T04:03:00.000Z",
+      "summary": "Absa L’Atelier, Absa Bank’s pan-African visual arts programme has reaffirmed its commitment to nurturing African artistic talent as it marks its 40th anniversary, celebrating four decades…"
+    },
     {
       "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
       "link": "https://www.myjoyonline.com/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/",

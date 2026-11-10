@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T02:53:43.496Z",
+  "updated": "2026-11-10T10:35:29.753Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,119 +21,92 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "‘We have waited too long’ – Bunkpurugu MP on GH¢10m media fund",
-      "link": "https://www.myjoyonline.com/we-have-waited-too-long-bunkpurugu-mp-on-gh%c2%a210m-media-fund/",
+      "title": "Jonathan Mensah calls time on professional football",
+      "link": "https://www.myjoyonline.com/jonathan-mensah-calls-time-on-professional-football/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T02:44:55.000Z",
-      "summary": "The allocation of GH¢10 million as seed money for the Media Development Fund has come after years of waiting and calls for greater support for Ghana’s media industry, the MP for Bunkpurugu…",
+      "published": "2026-11-10T10:28:45.000Z",
+      "summary": "The 2009 FIFA U-20 World Cup winner announced his retirement from the sport on Monday, November 9, calling time on an impressive career.",
       "categories": [
-        "News",
-        "Media",
-        "media fund",
-        "Parliament"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama’s GH¢10m media fund commitment wins bipartisan backing – Bunkpurugu MP",
-      "link": "https://www.myjoyonline.com/mahamas-gh%c2%a210m-media-fund-commitment-wins-bipartisan-backing-bunkpurugu-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T02:00:32.000Z",
-      "summary": "President John Mahama's decision to allocate GH¢10 million as seed money for the Media Development Fund has received support from both sides of Parliament, with the MP for Bunkpurugu, Dr…",
-      "categories": [
-        "News",
-        "Ghana",
-        "Media",
-        "Media Development Fund"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UG students reject hostel fee hikes as EFL raises academic freedom concerns",
-      "link": "https://www.myjoyonline.com/ug-students-reject-hostel-fee-hikes-as-efl-raises-academic-freedom-concerns/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T01:18:56.000Z",
-      "summary": "The Economic Fighters League (EFL) has thrown its support behind students of the University of Ghana who staged a demonstration against increased hostel accommodation charges, describing…",
-      "categories": [
-        "News",
-        "hostel fee",
-        "Protest",
-        "Student",
-        "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "New Economy raises questions over delivery of 24-hour economy – IPPA",
-      "link": "https://www.myjoyonline.com/new-economy-raises-questions-over-delivery-of-24-hour-economy-ippa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T00:57:41.000Z",
-      "summary": "The Institute of Public Policy and Accountability (IPPA) has questioned the government's proposed $10 billion New Economy programme, demanding clarity on how it differs from the 24-Hour…",
-      "categories": [
+        "Football",
         "National",
-        "Politics",
-        "24-hour economy",
-        "new economy"
+        "Black Stars",
+        "Jonathan Mensah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
-      "link": "https://www.myjoyonline.com/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/",
+      "title": "Black Sharks begin camping in Keta in readiness for Beach Soccer AFCON Senegal 2026",
+      "link": "https://www.myjoyonline.com/black-sharks-begin-camping-in-keta-in-readiness-for-beach-soccer-afcon-senegal-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T00:35:00.000Z",
-      "summary": "Nvidia and Chief Executive Jensen Huang were sued on Monday in a proposed class action accusing them of defrauding shareholders by concealing Huang's ties to a suspected Chinese spy.",
+      "published": "2026-11-10T09:55:32.000Z",
+      "summary": "The Keta camp marks the start of the final phase of Ghana's preparations for the continental showpiece, which will be played from November 28 to December 6, 2026, in Senegal.",
       "categories": [
-        "Technology",
-        "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Media houses must have accountability systems to receive grants – George Sarpong",
-      "link": "https://www.myjoyonline.com/media-houses-must-have-accountability-systems-to-receive-grants-george-sarpong/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T00:27:00.000Z",
-      "summary": "Media houses seeking grants from the Media Development Fund must have accountability systems, the Executive Secretary of the National Media Commission (NMC), George Sarpong, said.",
-      "categories": [
+        "Football",
         "National",
-        "George Sarpong",
-        "Media Development Fund"
+        "2026 Beach Soccer AFCON",
+        "Black Sharks"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Global Changemakers Conference 2026: Build Beyond Africa set to inspire young people to drive change",
-      "link": "https://www.myjoyonline.com/global-changemakers-conference-2026-build-beyond-africa-set-to-inspire-young-people-to-drive-change/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T00:17:07.000Z",
-      "summary": "With just a week to go, preparations are underway for the 2026 Global Changemakers Conference, which seeks to inspire young people to recognise their potential, embrace purposeful…",
+      "title": "Interior Ministry lifts Hamile curfew, maintains weapons ban",
+      "link": "https://www.graphic.com.gh/news/general-news/government-lifts-hamile-curfew-six-days-after-deadly-explosion.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T09:48:49.000Z",
+      "summary": "",
       "categories": [
-        "Events",
-        "Africa",
-        "Ghana"
+        "General News"
       ],
-      "site": "https://www.myjoyonline.com/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Ghana’s tourism economy: The gains, the opportunities and the road ahead",
-      "link": "https://www.myjoyonline.com/ghanas-tourism-economy-the-gains-the-opportunities-and-the-road-ahead/",
+      "title": "Daily Insight for CEOs: The CEO’s Responsibility for Financial Performance",
+      "link": "https://www.myjoyonline.com/daily-insight-for-ceos-the-ceos-responsibility-for-financial-performance/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T00:11:13.000Z",
-      "summary": "Government performance should be examined through evidence rather than political sentiment. Progress deserves recognition where it exists, just as public institutions must remain…",
+      "published": "2026-11-10T09:45:24.000Z",
+      "summary": "Financial performance is not exclusively the responsibility of the Chief Financial Officer. It is a core leadership responsibility of the CEO because every major strategic decision has…",
       "categories": [
+        "Features",
+        "Lifestyle",
         "Opinion",
-        "Economy",
-        "Ghana",
-        "Tourism"
+        "Daily Insight",
+        "Ernest De-Graft Egyir",
+        "financial performance"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Judicial Service staff suspend indefinite strike",
-      "link": "https://www.graphic.com.gh/news/general-news/judicial-service-staff-suspend-indefinite-strike.html",
+      "title": "Beyond bank accounts: Queen Máxima hears Ghanaian entrepreneurs’ financial struggles",
+      "link": "https://www.myjoyonline.com/beyond-bank-accounts-queen-maxima-hears-ghanaian-entrepreneurs-financial-struggles/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T09:35:14.000Z",
+      "summary": "Queen Máxima of the Netherlands has met Ghanaian microentrepreneurs in Accra to discuss the challenges of growing businesses, supporting families and building financial security.",
+      "categories": [
+        "Banking and Finance",
+        "Opportunity International Savings and Loans Ltd. (OISL)",
+        "Queen Máxima"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Climate change is becoming a matter of life and death for health systems – UN Climate Chief",
+      "link": "https://www.myjoyonline.com/climate-change-is-becoming-a-matter-of-life-and-death-for-health-systems-un-climate-chief/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T09:28:24.000Z",
+      "summary": "UN Climate Change Executive Secretary Simon Stiell has warned that climate change is increasingly threatening healthcare delivery, with extreme heat, flooding, power outages and disrupted…",
+      "categories": [
+        "Health",
+        "News",
+        "COP31",
+        "UN Climate Chief"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2nd GhanaFest Europe fixed for December 8",
+      "link": "https://www.graphic.com.gh/news/general-news/2nd-ghanafest-europe-fixed-for-december-8.html",
       "source": "Daily Graphic",
-      "published": "2026-11-09T21:10:07.000Z",
+      "published": "2026-11-10T09:22:32.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -141,10 +114,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "EOCO says visit to Wontumi's Tema property on Monday was for 'professional valuation'",
-      "link": "https://www.graphic.com.gh/news/general-news/eoco-says-visit-to-wontumis-tema-property-on-monday-was-to-under-professional-valuation.html",
+      "title": "Ghana tops West, Central Africa in maritime safety oversight",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-tops-west-central-africa-in-maritime-safety-oversight.html",
       "source": "Daily Graphic",
-      "published": "2026-11-09T19:44:10.000Z",
+      "published": "2026-11-10T08:51:27.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -152,21 +125,45 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Futsal at the Dakar 2026 YOG: Senegal Showcases a Fast-Growing Sport",
-      "link": "https://ghanaiantimes.com.gh/futsal-at-the-dakar-2026-yog-senegal-showcases-a-fast-growing-sport/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-09T17:56:13.000Z",
-      "summary": "DAKAR, Senegal – With the four finalists now known in the futsal tournaments at the Dakar 2026 Youth Olympic Games (YOG), the growth of futsal worldwide, and particularly in Senegal, is…",
+      "title": "Labadi Beach Hotel celebrates 35 years of hospitality",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-labadi-beach-hotel-celebrates-35-years-of-hospitality.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T08:47:06.000Z",
+      "summary": "",
       "categories": [
-        "Sports"
+        "General News"
       ],
-      "site": "https://ghanaiantimes.com.gh/"
+      "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "30 young writers honoured at Samira Bawumia Literature Prize",
-      "link": "https://www.graphic.com.gh/news/politics/30-young-writers-honoured-at-samira-bawumia-literature-prize.html",
+      "title": "Parliament to create online platform for journalists — Speaker",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-parliament-to-create-online-platform-for-journalists-speaker.html",
       "source": "Daily Graphic",
-      "published": "2026-11-09T16:11:37.000Z",
+      "published": "2026-11-10T08:43:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "COP31 leaders call for shift from climate promises to practical action as implementation takes centre stage",
+      "link": "https://www.myjoyonline.com/cop31-leaders-call-for-shift-from-climate-promises-to-practical-action-as-implementation-takes-centre-stage/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T08:38:30.000Z",
+      "summary": "World leaders at the opening of COP31 in Antalya, Türkiye, have called for a stronger focus on implementing existing climate commitments, arguing that global targets and promises must…",
+      "categories": [
+        "News",
+        "Antalya",
+        "COP31"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Odarteifio files nomination for NDC National Youth Organiser",
+      "link": "https://www.graphic.com.gh/news/politics/odarteifio-files-nomination-for-ndc-national-youth-organiser.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-10T08:37:56.000Z",
       "summary": "",
       "categories": [
         "Politics"
@@ -174,10 +171,25 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "PPA warns CEOs over procurement breaches and irregularities in government contracts",
-      "link": "https://www.graphic.com.gh/news/general-news/ppa-warns-ceos-tender-committees-over-procurement-breaches.html",
+      "title": "Ghana, four countries pursue new deals in trade, transport and security",
+      "link": "https://www.myjoyonline.com/ghana-four-countries-pursue-new-deals-in-trade-transport-and-security/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T08:35:29.000Z",
+      "summary": "Ghana has opened discussions on a range of bilateral cooperation initiatives with Sweden, Slovakia, Finland and Thailand following engagements with the four countries' newly appointed…",
+      "categories": [
+        "HP News 8",
+        "National",
+        "Ghana",
+        "Security",
+        "Trade"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Relaunch of free fertiliser programme: 3.5m Bags of fertiliser for cocoa farmers",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-relaunch-of-free-fertiliser-programme-3-5m-bags-of-fertiliser-for-cocoa-farmers.html",
       "source": "Daily Graphic",
-      "published": "2026-11-09T16:02:17.000Z",
+      "published": "2026-11-10T08:32:28.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -185,10 +197,10 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "KNUST closes swimming pool after student's death, sets up probe committee",
-      "link": "https://www.graphic.com.gh/news/general-news/knust-closes-swimming-pool-after-students-death-sets-up-probe-committee.html",
+      "title": "Rebecca Foundation equips young women with skills",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-rebecca-foundation-equips-young-women-with-skills.html",
       "source": "Daily Graphic",
-      "published": "2026-11-09T15:14:59.000Z",
+      "published": "2026-11-10T08:29:27.000Z",
       "summary": "",
       "categories": [
         "General News"
@@ -196,121 +208,106 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "Majority alleges NPP fostered passport racketeering, rejects call for Parliamentary probe",
-      "link": "https://www.graphic.com.gh/news/politics/majority-alleges-npp-fostered-passport-racketeering-rejects-call-for-parliamentary-probe.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-09T15:03:43.000Z",
-      "summary": "",
+      "title": "Ghana Card: NIA freezes date of birth corrections nationwide",
+      "link": "https://www.myjoyonline.com/ghana-card-nia-freezes-date-of-birth-corrections-nationwide/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T08:17:38.000Z",
+      "summary": "The National Identification Authority (NIA) has placed an immediate nationwide freeze on changes to dates of birth recorded on the Ghana Card as it moves to tighten the procedures for…",
       "categories": [
-        "Politics"
+        "HP News 5",
+        "National",
+        "Ghana Card",
+        "NIA"
       ],
-      "site": "https://www.graphic.com.gh/"
+      "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Foreign Affairs Ministry interdicts two officers over illegal service passport scheme",
-      "link": "https://ghanaiantimes.com.gh/foreign-affairs-ministry-interdicts-two-officers-over-illegal-service-passport-scheme/",
+      "title": "VAG marks Remembrance Day on Nov 11",
+      "link": "https://ghanaiantimes.com.gh/vag-marks-remembrance-day-on-nov-11/",
       "source": "Ghanaian Times",
-      "published": "2026-11-09T14:36:48.000Z",
-      "summary": "The Ministry of Foreign Affairs has interdicted two officers over an alleged illegal scheme involving the issuance of Ghanaian Service Passports to unqualified individuals in exchange for…",
+      "published": "2026-11-10T07:47:10.000Z",
+      "summary": "The Veterans Administration, Ghana (VAG), will on November 11, 2026, hold a Remembrance Day religious service at the Osu War Cemetery in Accra to honour men and women who died in the…",
       "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "This is how to verify genuine TraffiTech-GH notices before making payment",
-      "link": "https://www.graphic.com.gh/news/general-news/csa-warns-motorists-against-fake-traffitech-gh-fine-messages.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-09T14:35:50.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Amansie West DCD enstool Amantiahene,Mponuahene of Akyem Bosume Traditional Area.",
-      "link": "https://ghanaiantimes.com.gh/amansie-west-dcd-enstool-amantiahenemponuahene-of-akyem-bosume-traditional-area/",
+      "title": "UNFPA urges journalists to scrutinise development programmes",
+      "link": "https://ghanaiantimes.com.gh/unfpa-urges-journalists-to-scrutinise-development-programmes/",
       "source": "Ghanaian Times",
-      "published": "2026-11-09T14:33:45.000Z",
-      "summary": "NanaThomas Kwame Okrah Debrah, the Amansie West District Coordinating Director, in the Ashanti Region, was on Wednesday enstooled Amantiahene and Omanhene Mponuahene of the Akyem Bosume…",
+      "published": "2026-11-10T07:45:38.000Z",
+      "summary": "The United Nations Population Fund (UNFPA) has urged journalists to go beyond headlines and intensify scrutiny of development programmes to ensure interventions translate into tangible…",
       "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Tekpetey breaks silence: “Why call me at 18 if it was not my time?”",
-      "link": "https://ghanaiantimes.com.gh/tekpetey-breaks-silence-why-call-me-at-18-if-it-was-not-my-time/",
+      "title": "GAYO targets 200 tonnes of organic waste monthly",
+      "link": "https://ghanaiantimes.com.gh/gayo-targets-200-tonnes-of-organic-waste-monthly/",
       "source": "Ghanaian Times",
-      "published": "2026-11-09T14:25:25.000Z",
-      "summary": "Ludogorets forward Bernard Tekpetey has questioned the Black Stars’ selection decisions after being overlooked once again despite his consistent performances in Europe. In an interview, the…",
+      "published": "2026-11-10T07:43:15.000Z",
+      "summary": "The Green Africa Youth Organisation (GAYO) is targeting a fourfold increase in the volume of organic waste it collects and diverts from landfills monthly, from 50 tonnes to 200 tonnes by…",
       "categories": [
-        "Hot!",
-        "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Praise Achievement Awards 2026 announces successful petitions, adds two new nominations",
-      "link": "https://ghanaiantimes.com.gh/praise-achievement-awards-2026-announces-successful-petitions-adds-two-new-nominations/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-09T14:17:03.000Z",
-      "summary": "The Board and Executives of the Praise Achievement Awards (PAA) have officially announced the outcome of successful petitions received during the petition window for the 5th Edition of the…",
-      "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Ayariga inspects HAO XIN Quarry ahead of Mahama Inner City Big Push Initiative",
-      "link": "https://ghanaiantimes.com.gh/ayariga-inspects-hao-xin-quarry-ahead-of-mahama-inner-city-big-push-initiative/",
+      "title": "NFA moves to expand market for local films",
+      "link": "https://ghanaiantimes.com.gh/nfa-moves-to-expand-market-for-local-films/",
       "source": "Ghanaian Times",
-      "published": "2026-11-09T14:14:28.000Z",
-      "summary": "The Minister for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has visited the HAO XIN Quarry Annex as preparations advance towards the commencement of the John…",
+      "published": "2026-11-10T07:40:51.000Z",
+      "summary": "\\ The National Film Authority (NFA) has launched the Cinema Train Initiative to expand access to cinema across the country and give filmmakers better opportunities to exhibit and…",
       "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Minority caucus urges Prez Mahama to intervene in JUSAG strike",
-      "link": "https://ghanaiantimes.com.gh/minority-caucus-urges-prez-mahama-to-intervene-in-jusag-strike/",
+      "title": "Fear, stigma put women at risk of breast cancer deaths – Police Ladies",
+      "link": "https://ghanaiantimes.com.gh/fear-stigma-put-women-at-risk-of-breast-cancer-deaths-police-ladies/",
       "source": "Ghanaian Times",
-      "published": "2026-11-09T14:13:09.000Z",
-      "summary": "The Minority Caucus in Parliament has appealed to President John Dramani Mahama to urgently intervene in the ongoing strike by the Judicial Service Staff Association of Ghana (JUSAG) and…",
+      "published": "2026-11-10T07:38:15.000Z",
+      "summary": "Women have been urged to overcome fear, stigma and misconceptions surrounding breast cancer and seek early medical screening, as delayed diagnosis continues to put lives at risk. The Deputy…",
       "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "JUSAG, SSAJUG extend indefinite strike over unresolved salary dispute",
-      "link": "https://ghanaiantimes.com.gh/jusag-ssajug-extend-indefinite-strike-over-unresolved-salary-dispute/",
+      "title": "Banks told to link lending to environmental protection",
+      "link": "https://ghanaiantimes.com.gh/banks-told-to-link-lending-to-environmental-protection/",
       "source": "Ghanaian Times",
-      "published": "2026-11-09T14:10:34.000Z",
-      "summary": "The Judicial Service Staff Association of Ghana (JUSAG), in collaboration with the Senior Staff Association of the Judicial Service of Ghana (SSAJUG), has extended its indefinite strike…",
+      "published": "2026-11-10T07:36:37.000Z",
+      "summary": "Ghanaian banks and other financial institutions have been urged to consider the environmental impact of businesses before granting loans, as the loss of biodiversity puts the country’s…",
       "categories": [
-        "Hot!",
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "'Prepare graduates to create jobs, not just seek them' – Presby University Chancellor",
-      "link": "https://www.graphic.com.gh/news/education/prepare-graduates-to-create-jobs-not-just-seek-them-presby-university-chancellor.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-09T12:41:46.000Z",
-      "summary": "",
+      "title": "Demystifying derivatives: Yield enhancement through equity and credit-linked solutions (Part 1)",
+      "link": "https://ghanaiantimes.com.gh/demystifying-derivatives-yield-enhancement-through-equity-and-credit-linked-solutions-part-1/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T07:34:05.000Z",
+      "summary": "Institutional investors traditionally gain exposure to equities and bonds by purchasing the underlying securities directly. While this approach remains central to portfolio construction…",
       "categories": [
-        "Education"
+        "Features"
       ],
-      "site": "https://www.graphic.com.gh/"
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Beyond the conference room: What ITU PP-26 could mean for Ghana’s digital future",
+      "link": "https://ghanaiantimes.com.gh/beyond-the-conference-room-what-itu-pp-26-could-mean-for-ghanas-digital-future/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-10T07:30:07.000Z",
+      "summary": "As global leaders prepare to meet in Doha, Qatar, Ghana has an opportunity to advance a digital agenda that places people, opportunity and inclusion at its centre. For a young Ghanaian…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };
