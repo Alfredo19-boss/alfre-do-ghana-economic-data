@@ -188,6 +188,9 @@
   $("pes-dots").innerHTML = Array.from({ length: 100 }, (_, i) => `<i class="${i + 1 <= Math.floor(pesewas) ? "on" : i < pesewas ? "half" : ""}"></i>`).join("");
   $("months").innerHTML = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"].map(m => `<span>${m}</span>`).join("");
 
+  // The three rates people come to the page for. They get more room and bigger type than the
+  // readings around them, because "what is the dollar today" is the most-asked question here.
+  const FX_LABELS = ["US dollar", "British pound", "Euro"];
   const chipFor = it => {
     const age = staleDays(it);
     if (age) return `<span class="chip stale" title="This reading is ${age} days old and a newer release is probably out">Update due</span>`;
@@ -219,9 +222,11 @@
       <h3 class="group-h">${esc(g.group)}</h3>
       <div class="panel lines econ-grid">
         ${g.items.map(it => `
-          <div class="cell stat tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}">
+          <div class="cell stat tappable${FX_LABELS.includes(it.label) ? " stat-fx" : ""}${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-label="${esc(it.label)}">
             <div class="stat-top"><span class="k">${esc(it.label)}</span>${chipFor(it)}</div>
             <span class="mono"${it.live ? ` data-calc="${it.live}"` : ""}>${readValue(it)}</span>
+            <span class="market-line" data-market="${esc(it.label)}" data-official="${esc(readValue(it).replace(/<[^>]+>/g, ""))}" data-officialdate="${esc(it.date || "")}" data-officialsrc="${esc(it.autoSource || "")}" hidden></span>
+            ${it.sourceNewer ? `<span class="source-newer">${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} <small>${esc(it.sourceNewer.source)} · ${esc(it.sourceNewer.date)}</small></span>` : ""}
             <span class="note">${toneNote(it.note, it.tone)}${it.status || staleDays(it) ? ` · ${esc(it.date)}` : ""}</span>
           </div>`).join("")}
       </div>
@@ -253,10 +258,21 @@
   }).join("");
   $("cedi-note").textContent = D.cediNote;
 
-  const readHtml = it => `<div class="b-read tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}"><span class="b-label">${esc(it.label)}</span><span class="mono">${readValue(it)}</span><span class="date">${esc(it.date || "")}${staleDays(it) ? " · update due" : ""}</span></div>`;
+  const readHtml = it => `<div class="b-read tappable${staleDays(it) ? " is-stale" : ""}" data-detail="read:${readKey(it)}" data-bread="${esc(it.label)}"><span class="b-label">${esc(it.label)}</span><span class="mono">${readValue(it)}</span><span class="date">${esc(it.date || "")}${staleDays(it) ? " · update due" : ""}</span></div>`;
+  // Twelve readings to a panel. The ones marked board:true in data.js lead, in the order they
+  // are written there; if fewer than twelve carry the mark, the next readings from the same
+  // section fill the panel out rather than leaving it short. Nothing is invented to fill a
+  // gap — a reading with no value is skipped.
+  const BOARD_PER_PAGE = 12;
+  const boardPanel = list => {
+    const on = list.filter(i => i.board);
+    if (on.length >= BOARD_PER_PAGE) return on.slice(0, BOARD_PER_PAGE);
+    const rest = list.filter(i => !i.board && i.value !== undefined && i.value !== null && isFinite(i.value));
+    return [...on, ...rest.slice(0, BOARD_PER_PAGE - on.length)];
+  };
   const boardPages = [
-    [...D.economy.flatMap(g => g.items), ...D.people].filter(i => i.board),
-    D.markets.flatMap(g => g.items).filter(i => i.board)
+    boardPanel([...D.economy.flatMap(g => g.items), ...D.people]),
+    boardPanel(D.markets.flatMap(g => g.items))
   ];
   $("b-econ").innerHTML = boardPages.map((p, i) => `<div class="b-page${i ? "" : " on"}">${p.map(readHtml).join("")}</div>`).join("");
 
@@ -278,6 +294,33 @@
   $("m1").textContent = `Ghana publishes its debt monthly, two to three months late, so there is no official figure for this exact second. The site starts from the Bank of Ghana’s ${L.label} total of GH¢${fmt(L.total / 1e9, 1)}bn and adds debt at the pace between ${P.label} and ${L.label}: GH¢${fmt((L.total - P.total) / 1e9, 1)}bn over ${Math.round(span / DAY)} days, or about GH¢${fmt(rate.total, 0)} a second.`;
   $("sources").innerHTML = D.sources.map(([t, u]) => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a></li>`).join("");
   $$("[data-checked]").forEach(el => (el.textContent = `Figures last checked ${D.checked}`));
+
+  /* ---- counting visitors ------------------------------------------------------
+   * Off until a token is pasted into data.js, so the site ships with nothing phoning home.
+   * Both options count page views without cookies and without following anyone between
+   * sites, which is why they need no consent banner and collect nothing to protect. The
+   * script is loaded last and asynchronously: it must never delay a figure appearing.
+   */
+  (function countVisits() {
+    const a = D.analytics || {};
+    const add = (src, attrs) => {
+      const s = document.createElement("script");
+      s.src = src; s.async = true; s.defer = true;
+      Object.entries(attrs || {}).forEach(([k, v]) => s.setAttribute(k, v));
+      document.body.appendChild(s);
+    };
+    try {
+      if (a.cloudflareToken) {
+        add("https://static.cloudflareinsights.com/beacon.min.js",
+          { "data-cf-beacon": JSON.stringify({ token: a.cloudflareToken }) });
+      }
+      if (a.goatcounterUrl) {
+        add("https://gc.zgo.at/count.js", { "data-goatcounter": a.goatcounterUrl });
+      }
+    } catch (e) { /* a blocked script is not worth interrupting the page for */ }
+  })();
+  // The copyright year keeps itself current, so the footer does not quietly go stale in January.
+  $$("[data-year]").forEach(el => (el.textContent = String(new Date().getFullYear())));
 
   // data health: what is past its usual update date
   (function dataStatus() {
@@ -409,6 +452,7 @@
       const bits = [KIND_WORD[e.entry.kind], anniversary(e)].filter(Boolean);
       band.className = `dayband ${e.entry.kind}`;
       band.innerHTML = `
+        ${e.entry.kind === "holiday" ? GH_FLAG.replace("gh-flag", "gh-flag band-flag") : ""}
         <span class="db-tag">Today</span>
         <b class="db-name">${esc(e.entry.name)}</b>
         <span class="db-meta">${bits.map(esc).join(" · ")}</span>
@@ -454,6 +498,14 @@
     }
   }
 
+
+  // the flag of Ghana, star and all
+  const GH_FLAG = `<svg class="gh-flag" viewBox="0 0 30 20" role="img" aria-label="Flag of Ghana">
+      <rect width="30" height="6.667" fill="#ce1126"/>
+      <rect y="6.667" width="30" height="6.666" fill="#fcd116"/>
+      <rect y="13.333" width="30" height="6.667" fill="#006b3f"/>
+      <polygon fill="#000" points="15.00,6.20 15.85,8.83 18.61,8.83 16.38,10.45 17.23,13.07 15.00,11.45 12.77,13.07 13.62,10.45 11.39,8.83 14.15,8.83"/>
+    </svg>`;
 
   /* ================= trade & reserves shown beside the milestone ================= */
   const OZ_PER_TONNE = 32150.7465;
@@ -653,10 +705,46 @@
             ${typeof c.prev === "number" ? factRow("Month before", `${fmt(c.prev, 1)}% · ${move > 0 ? "up" : move < 0 ? "down" : "unchanged"}${move ? ` ${fmt(Math.abs(move), 1)} pts` : ""}`) : ""}
             ${factRow("Against Ghana", id === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts (Ghana ${fmt(gh.latest.value, 1)}%)`)}
             ${factRow("Rank in Africa", `${ordinal(place)} highest of ${list.length}`)}
+            ${c.gdp ? factRow("Size of the economy", `US$${fmt(c.gdp.value, c.gdp.value < 10 ? 1 : 0)}bn <span class="u">${esc(c.gdp.year)}</span>`) : ""}
+            ${c.gdp && A.countries.GHA && A.countries.GHA.gdp ? factRow("Against Ghana's economy", id === "GHA" ? "—" : `${fmt(c.gdp.value / A.countries.GHA.gdp.value, c.gdp.value / A.countries.GHA.gdp.value < 1 ? 2 : 1)}×`) : ""}
           </div>
           ${points.length > 2 ? sheetSection("Recent months, %", sheetChart(points, pc)) : ""}
           ${points.length > 1 ? sheetSection("Readings", sheetTable(points, pc)) : `<div class="sheet-empty"><b>One reading so far.</b><p>This board keeps every month it collects, so ${esc(c.name)} will build a run of readings from here.</p></div>`}
           <p class="sheet-src">${esc(A.note || "")}</p>`
+      };
+    }
+
+    // an instrument on the Global markets board
+    if (type === "market") {
+      const M = marketsData();
+      const world = (M && M.world) || {};
+      let q = null, groupKey = "";
+      for (const [key, list] of Object.entries(world)) {
+        const hit = (list || []).find(x => x && x.symbol === id);
+        if (hit) { q = hit; groupKey = key; break; }
+      }
+      if (!q) return null;
+      const u = { unit: q.unit || "", dec: q.dec ?? 2, pre: /^US\$|^GH\u00a2/.test(q.unit || "") };
+      const points = (Array.isArray(q.history) ? q.history : []).map(p => ({ date: p.date, value: p.value }));
+      const first = points[0], last = points[points.length - 1];
+      const overall = first && last ? last.value - first.value : null;
+      const shown = v => `${u.pre ? esc((q.unit || "").split("/")[0]) : ""}${fmt(v, u.dec)}${u.pre ? "" : `<span class="u">${esc(q.unit || "")}</span>`}`;
+      return {
+        eyebrow: `Global markets \u00b7 ${esc((GROUP_TITLES[groupKey] || [""])[0])}`,
+        title: q.name,
+        body: `
+          <div class="facts">
+            ${factRow("Last price", shown(q.value))}
+            ${factRow("Quoted", esc(quoteTime(q.at)))}
+            ${q.prev != null ? factRow("Previous close", shown(q.prev)) : ""}
+            ${q.pct != null ? factRow("Move on the day", `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%${q.change == null ? "" : ` (${q.change > 0 ? "+" : ""}${fmt(q.change, Math.abs(q.change) < 10 ? 2 : 0)})`}`) : ""}
+            ${overall != null && points.length > 2 ? factRow(`Since ${esc(first.date)}`, `${overall > 0 ? "+" : ""}${fmt(overall, u.dec)}${first.value ? ` (${overall > 0 ? "+" : ""}${fmt(overall / first.value * 100, 1)}%)` : ""}`) : ""}
+            ${factRow("Symbol", esc(q.symbol))}
+          </div>
+          ${points.length > 2
+            ? sheetSection(`Since ${esc(first.date)}`, sheetChart(points, u) + sheetTable(points.slice(-30), u)) + sheetSection("Trend", trendHtml(analyse(points, u)))
+            : `<div class="sheet-empty"><b>The trend is still being built.</b><p>This site keeps one closing price a day for every instrument, starting from the first time the job saw one. ${points.length ? `There ${points.length === 1 ? "is one point" : `are ${points.length} points`} so far` : "There are no points yet"} \u2014 the line fills in from here.</p></div>`}
+          <p class="sheet-src">${esc((M && M.note) || "")}</p>`
       };
     }
 
@@ -668,9 +756,10 @@
       const age = staleDays(it);
       const nowQ = liveFor(it.label);
       const facts = [
-        nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(liveTime(nowQ.at))}</span>`) : "",
+        nowQ ? factRow("Market, right now", `${nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`} <span class="u">${esc(quoteWhen(nowQ))}</span>`) : "",
         factRow(nowQ ? "Official reading" : "Latest reading", showVal(it.value, u)),
         factRow("Period", esc(it.date || "—")),
+        it.sourceNewer ? factRow("A newer figure exists", `${fmt(it.sourceNewer.value, 1)}${esc(it.unit || "")} · ${esc(it.sourceNewer.source)}, ${esc(it.sourceNewer.date)}`) : "",
         it.autoSource ? factRow("Updated", "Automatically, every morning") : "",
         age ? factRow("Age", `${age} days old · update due`) : ""
       ].join("");
@@ -679,7 +768,8 @@
         title: it.label,
         body: `
           <div class="facts">${facts}</div>
-          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The official reading above is the Bank of Ghana's, published once each morning — it is the figure the rest of this page counts with.</p>` : ""}
+          ${it.sourceNewer ? `<p class="sheet-note">The figure above is the one Ghana's own statistics office last published. ${esc(it.sourceNewer.source)} has a newer estimate for ${esc(it.sourceNewer.date)} — it is measured differently, so it sits alongside rather than replacing it, until a person checks the official release.</p>` : ""}
+          ${nowQ ? `<p class="sheet-note">The market quote is taken every 20 minutes and carries the minute it was taken. The daily reading is ${esc(it.autoSource || "the published rate")}, checked each morning and dated ${esc(it.date || "—")} — published rates are for the previous business day, so that date is normally a day or more behind today.${/bank of ghana/i.test(it.autoSource || "") ? "" : " The Bank of Ghana's own page did not yield a rate, so this is a market mid-rate standing in for it, not an official figure."} It is the figure the rest of this page counts with.</p>` : ""}
           ${it.note ? `<p class="sheet-note">${toneNote(it.note, it.tone)}</p>` : ""}
           ${points.length > 1
             ? sheetSection("History", sheetChart(points, u) + sheetTable(points, u)) + sheetSection("Trend", trendHtml(analyse(points, u)))
@@ -1169,8 +1259,10 @@
   /* ================= board view ================= */
   const board = $("board"), stage = $("stage");
   function scaleStage() {
-    const s = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
-    stage.style.transform = `translate(-50%, -50%) scale(${s})`;
+    /* Original 1920 x 1080 layout, stretched to fill a landscape window. Upright screens keep even scaling. */
+    const sx = window.innerWidth / 1920, sy = window.innerHeight / 1080;
+    const landscape = window.innerWidth >= window.innerHeight;
+    stage.style.transform = landscape ? `translate(-50%, -50%) scale(${sx}, ${sy})` : `translate(-50%, -50%) scale(${Math.min(sx, sy)})`;
   }
   function openBoard(fromClick = true) {
     document.body.classList.add("board-on");
@@ -1199,6 +1291,7 @@
   $("board-close").addEventListener("click", closeBoard);
   document.addEventListener("keydown", e => { if (e.key === "Escape" && !board.hidden && sheetEl.hidden) closeBoard(); });
   document.addEventListener("fullscreenchange", () => { if (!board.hidden) scaleStage(); });
+  window.addEventListener("resize", () => { if (!board.hidden) scaleStage(); });
 
   /* ================= green ticker: GH¢ rates and GDP ================= */
   const FXT = A.fxTable || { rates: {}, prev: {} };
@@ -1246,17 +1339,132 @@
   // Market quotes taken through the day (live-data.js, every 20 minutes). The Bank of Ghana's
   // interbank rate stays the official figure; this is what the market is quoting right now.
   const liveData = () => window.GDC_LIVE || null;
-  const LIVE_MAX_AGE = 8 * 3600e3;          // older than this and it is not "now" any more
+  // An intraday quote stops being "now" after eight hours. A daily mid-market rate is stamped
+  // midnight and is the rate for the whole of that day, so it is allowed two days before it
+  // counts as stale — otherwise the cedi would vanish from the page every afternoon.
+  const LIVE_MAX_AGE = 8 * 3600e3;
+  const DAILY_MAX_AGE = 48 * 3600e3;
   function liveQuotes() {
     const LV = liveData();
     if (!LV || !LV.quotes) return [];
     return Object.entries(LV.quotes)
-      .filter(([, q]) => q && typeof q.value === "number" && q.at && Date.now() - Date.parse(q.at) < LIVE_MAX_AGE)
+      .filter(([, q]) => q && typeof q.value === "number" && q.at
+        && Date.now() - Date.parse(q.at) < (q.daily ? DAILY_MAX_AGE : LIVE_MAX_AGE))
       .map(([key, q]) => ({ key, ...q }));
   }
   const LIVE_LABELS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur", "Chinese yuan": "cny", "Gold price": "gold" };
   const liveFor = label => liveQuotes().find(q => q.key === LIVE_LABELS[label]) || null;
   const liveTime = iso => new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
+  // A quote taken at a minute says the minute; a daily mid-market rate says the day it is for.
+  // Putting a time on a daily rate would claim a precision the source does not have.
+  const quoteWhen = q => q && q.daily ? dateFmt(q.at) : liveTime(q.at);
+  const quoteKind = q => q && q.daily ? "mid-market" : "market";
+  // The Bank of Ghana's own interbank rate, read straight from their daily page every twenty
+  // minutes by the live-rates job. This is the dashboard's headline figure.
+  const BOG_KEYS = { "US dollar": "usd", "British pound": "gbp", "Euro": "eur" };
+  const BOG_MAX_AGE = 7 * 864e5;            // a BoG reading older than a week is not "the rate"
+  function bogFor(label) {
+    const LV = liveData();
+    const o = LV && LV.official;
+    const key = BOG_KEYS[label];
+    if (!o || !key || !o.date || !o.rates || !o.rates[key] || typeof o.rates[key].value !== "number") return null;
+    if (Date.now() - Date.parse(`${o.date}T00:00:00Z`) > BOG_MAX_AGE) return null;
+    return { value: o.rates[key].value, date: o.date, source: o.source || "Bank of Ghana interbank mid-rate" };
+  }
+  // Both rates, one above the other, official on top. The Bank of Ghana's interbank rate is
+  // the figure in the big type — it is the rate the rest of the page counts with, and the one
+  // people mean by "the rate". It carries BoG's own date, taken from the same row the number
+  // came from, so the headline figure and its date can never drift apart. The market quote
+  // sits under it with the minute it was taken, so the card never implies BoG publishes by
+  // the minute. Gold has no official rate and keeps the market price on top.
+  function paintMarketLines() {
+    $$("[data-market]").forEach(el => {
+      const cell = el.closest(".stat");
+      const mono = cell && cell.querySelector(".mono");
+      if (mono && mono.dataset.base === undefined) mono.dataset.base = mono.innerHTML;
+      const label = el.dataset.market;
+      const q = liveFor(label);
+      const bog = bogFor(label);
+
+      // What the published reading says, and where it came from. BoG's live page wins when it
+      // has one, because it is read every twenty minutes rather than once a morning.
+      let off = el.dataset.official || "", when = el.dataset.officialdate || "", src = el.dataset.officialsrc || "";
+      if (bog) { off = `GH¢${fmt(bog.value, 4)}`; when = dateFmt(`${bog.date}T00:00:00Z`); src = bog.source; }
+
+      // Name the daily figure for what it actually is. When the Bank of Ghana's own page has
+      // not yielded a rate the site falls back to a market mid-rate, and saying "official"
+      // there would put BoG's name on somebody else's number.
+      const kind = label === "Gold price" ? "daily close"
+        : /bank of ghana/i.test(src) ? "BoG official"
+        : /currency-api|market mid/i.test(src) ? "market mid-rate"
+        : "daily rate";
+
+      // Only the three currencies BoG actually publishes lead with the official figure. Every
+      // other reading on the page keeps exactly the behaviour it had: it shows a second line
+      // only when there is a live quote to put on it, and stays silent otherwise.
+      const officialLeads = !!bog;
+
+      // Gold has no Ghanaian official rate — there is one world price, and the site should show
+      // one number for it. It was showing two: the live world quote in the big type and an older
+      // published figure from a different source underneath, which read as a disagreement. The
+      // world market price wins and the second figure goes; Global markets quotes the same
+      // instrument, so the two sections now agree by construction.
+      if (label === "Gold price" && q) { off = ""; when = ""; }
+
+      if (!q && !officialLeads) {
+        if (mono && mono.dataset.base !== undefined) mono.innerHTML = mono.dataset.base;
+        el.hidden = true;
+        return;
+      }
+
+      const dir = q && typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
+      const arrow = dir ? `<i class="t-arrow ${dir}">${dir === "up" ? "▲" : "▼"}</i>` : "";
+      const shown = q ? (q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`) : "";
+
+      if (officialLeads) {
+        if (mono) mono.innerHTML = off;
+        // The date chip in the corner is built from data.js when the page loads. BoG's page is
+        // read every twenty minutes and is the figure now in the big type, so the chip has to
+        // carry BoG's date too — otherwise the card shows one number and two different days,
+        // which is exactly the inconsistency this replaces. A fresh BoG reading also clears
+        // any "update due" mark, because the reading is no longer old.
+        if (cell) {
+          cell.classList.remove("is-stale");
+          const chip = cell.querySelector(".stat-top .date, .stat-top .chip");
+          if (chip && when) { chip.className = "date auto"; chip.textContent = when; chip.removeAttribute("title"); }
+        }
+        el.innerHTML = `<span class="at">${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>`
+          + (q ? `<span class="mkt"><b class="official">${shown}${arrow}</b><span>${esc(quoteKind(q))} · ${esc(quoteWhen(q))}</span></span>` : "");
+      } else {
+        if (mono) mono.innerHTML = `${shown}${arrow}`;
+        // the figure in the big type is today's world price, so the corner date says today
+        if (label === "Gold price" && cell) {
+          cell.classList.remove("is-stale");
+          const chip = cell.querySelector(".stat-top .date, .stat-top .chip");
+          if (chip) { chip.className = "date auto"; chip.textContent = dateFmt(q.at); chip.removeAttribute("title"); }
+        }
+        el.innerHTML = `<span class="at">${esc(quoteKind(q))} · ${esc(quoteWhen(q))}</span>`
+          + (off ? `<b class="official">${esc(off)}</b><span>${esc(kind)}${when ? ` · ${esc(when)}` : ""}</span>` : "");
+      }
+      el.hidden = false;
+    });
+
+    // The board view carries the same three currencies in its own compact rows. They are built
+    // from data.js, so without this they would keep showing the morning job's figure while the
+    // card beside them showed BoG's — the same number with two different days on it.
+    Object.keys(BOG_KEYS).forEach(label => {
+      const bog = bogFor(label);
+      if (!bog) return;
+      $$(`[data-bread="${label.replace(/"/g, "")}"]`).forEach(row => {
+        const mono = row.querySelector(".mono");
+        const date = row.querySelector(".date");
+        if (mono) mono.innerHTML = `<span class="p">GH¢</span>${fmt(bog.value, 4)}`;
+        if (date) date.textContent = dateFmt(`${bog.date}T00:00:00Z`);
+        row.classList.remove("is-stale");
+      });
+    });
+  }
+
   function liveGroup() {
     const qs = liveQuotes();
     if (!qs.length) return "";
@@ -1264,34 +1472,61 @@
       const dir = typeof q.prev === "number" ? (q.value > q.prev ? "up" : q.value < q.prev ? "down" : "") : "";
       const shown = q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`;
       const name = q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`;
-      return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span class="t-rev">${esc(liveTime(q.at))}</span></span>`;
+      return `<span class="t-item t-live"><span class="t-name">${esc(name)}</span><b class="${dir}">${shown}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</b><span class="t-rev">${esc(quoteWhen(q))}</span></span>`;
     }).join("");
-    return `<span class="t-group t-group-live">Market, right now</span>${items}`;
+    return `<span class="t-group t-group-live">GH¢ market rates</span>${items}`;
   }
 
   function renderTicker() {
     if (!tickerTrack || !D.fxTicker) return;
-    const growth = allItems.find(i => i.label === "Real GDP growth");
-    const perPerson = allItems.find(i => i.label === "Income per person");
-    const gdpUsd = D.debt.nominalGdp / D.fx.usd;
     const live = liveGroup();
     const cedi = [
       `<span class="t-item t-cedi"><span class="t-code">GHS</span><span class="t-name">Ghana cedi</span><b>GH¢1.00</b><span class="t-rev">base currency · 100 pesewas</span></span>`,
       cediItem("USD", "US dollars"), cediItem("EUR", "euros"), cediItem("GBP", "pounds"), cediItem("CNY", "yuan"),
       cediItem("NGN", "naira"), cediItem("XOF", "CFA francs"), cediItem("ZAR", "rand")
     ].join("");
-    const gdp = [
-      `<span class="t-item"><span class="t-name">Nominal GDP, ${Y} projection</span><b>GH¢${fmt(D.debt.nominalGdp / 1e12, 2)} trillion</b><span class="t-name">≈ US$${fmt(gdpUsd / 1e9, 1)}bn</span></span>`,
-      growth ? `<span class="t-item"><span class="t-name">Real GDP growth</span><b>${fmt(growth.value, 1)}%</b><span class="t-name">${esc(growth.date)}</span></span>` : "",
-      perPerson ? `<span class="t-item"><span class="t-name">GDP per person</span><b>US$${fmt(perPerson.value, 0)}</b><span class="t-name">${esc(perPerson.date || "")}</span></span>` : "",
-      `<span class="t-item"><span class="t-name">Debt-to-GDP</span><b>${fmt(debtAt(Date.now()) / D.debt.nominalGdp * 100, 1)}%</b><span class="t-name">estimate</span></span>`
-    ].join("");
-    const world = D.fxTicker.world.map(tickerItem).join("");
-    const africa = D.fxTicker.africa.map(tickerItem).join("");
-    const copy = `<span class="ticker-copy">${live}<span class="t-group t-group-cedi">Ghana cedi</span>${cedi}<span class="t-group">Ghana GDP</span>${gdp}<span class="t-group">Africa vs GH¢</span>${africa}<span class="t-group">World vs GH¢</span>${world}</span>`;
-    const both = copy + copy.replace('class="ticker-copy"', 'class="ticker-copy" aria-hidden="true"');
+    // The strip used to run the cedi, then GDP, then every African currency, then the world —
+    // a full lap took longer than anyone stands in front of a screen, so the one thing people
+    // came for scrolled past once and did not come back. It now carries the cedi rates only,
+    // each with the moment it was taken. GDP is on the dashboard, the currencies are in Global
+    // markets, and the ticker is short enough to watch round.
+    // Every rate here carries the moment it was taken. The cedi-per-unit items below follow
+    // without a second heading, because they are the same rates read the other way round.
+    const copy = `<span class="ticker-copy">${live || `<span class="t-group t-group-cedi">GH¢ market rates</span>`}${cedi}</span>`;
+    // The strip scrolls one copy while the next follows it. If a single copy is narrower than
+    // the screen there would be a visible gap between them, so it is repeated until two laps
+    // comfortably cover the viewport — short content, no hole in the marquee.
+    const wide = tickerTrack ? tickerTrack.parentElement.clientWidth || 1200 : 1200;
+    const probe = document.createElement("span");
+    probe.style.cssText = "position:absolute;visibility:hidden;white-space:nowrap";
+    probe.innerHTML = copy;
+    document.body.appendChild(probe);
+    const oneLap = probe.firstElementChild ? probe.firstElementChild.getBoundingClientRect().width : wide;
+    probe.remove();
+    const laps = Math.max(2, Math.ceil((wide * 2) / Math.max(oneLap, 1)));
+    const both = Array.from({ length: laps }, (_, i) =>
+      i ? copy.replace('class="ticker-copy"', 'class="ticker-copy" aria-hidden="true"') : copy).join("");
     tickerTracks.forEach(tr => { if (tr.innerHTML !== both) tr.innerHTML = both; });
-    $$("[data-fx-date]").forEach(el => (el.textContent = FXT.date ? isoDayLabel(FXT.date) : ""));
+    // The strip carries two vintages at once: live market quotes stamped with the minute they
+    // were taken, and the daily table, which is published for the previous business day. One
+    // bare date beside both reads as though everything is that old, so the label says which
+    // is which whenever a live quote is present.
+    // The strip can carry three vintages: a quote taken at a minute, a daily mid-market rate,
+    // and the published table. The label names whichever is actually there rather than putting
+    // one bare date beside all of them, which reads as though everything is that old.
+    const liveNow = liveQuotes();
+    const intraday = liveNow.filter(q => !q.daily);
+    const midday = liveNow.filter(q => q.daily);
+    const newest = list => list.length ? list.map(q => Date.parse(q.at)).sort((a, b) => b - a)[0] : null;
+    $$("[data-fx-date]").forEach(el => {
+      // The strip no longer carries the published currency table, so its date does not belong
+      // in the label any more — only the stamps of what is actually scrolling past.
+      const parts = [];
+      const nLive = newest(intraday), nMid = newest(midday);
+      if (nMid) parts.push(dateFmt(new Date(nMid).toISOString()));
+      if (nLive) parts.push(liveTime(new Date(nLive).toISOString()));
+      el.textContent = parts.join(" · ") || (FXT.date ? isoDayLabel(FXT.date) : "");
+    });
     sizeTickers();
   }
   $("ticker-pause").addEventListener("click", e => {
@@ -1329,7 +1564,12 @@
   const VIEWS = {
     dashboard: { el: $("dashboard-view") },
     news: { el: newsView, draw: () => renderNews() },
+    afrnews: { el: $("afrnews-view"), draw: () => renderAfrNews() },
     africa: { el: $("africa-view"), draw: () => renderAfrica() },
+    exchange: { el: $("exchange-view"), draw: () => renderExchange() },
+    markets: { el: $("markets-view"), draw: () => renderMarkets() },
+    world: { el: $("world-view"), draw: () => renderWorld() },
+    charts: { el: $("charts-view"), draw: () => renderCharts() },
     papers: { el: $("papers-view"), draw: () => renderPapers() },
     articles: { el: $("articles-view"), draw: () => renderArticles() },
     status: { el: $("status-view"), draw: () => renderStatus() }
@@ -1341,7 +1581,7 @@
     Object.entries(VIEWS).forEach(([name, v]) => { if (v.el) v.el.hidden = name !== view; });
     $$("[data-view-link]").forEach(a => (a.dataset.viewLink === view ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
     const v = VIEWS[view];
-    if (v.draw && (!drawn[view] || view === "news" || view === "status")) { v.draw(); drawn[view] = true; }
+    if (v.draw && (!drawn[view] || ["news", "status", "markets", "exchange", "world", "afrnews"].includes(view))) { v.draw(); drawn[view] = true; }
     fit();
   }
   function routeFromHash() {
@@ -1353,9 +1593,1088 @@
   }
   window.addEventListener("hashchange", routeFromHash);
 
+  /* ================= Ghana in pictures: the charts portal ================= */
+  // One measure per chart, one axis, thin marks, recessive grid. The four series colours
+  // are a validated categorical set (blue, orange, aqua, yellow) checked for colour-blind
+  // separation against this page's dark surface; text stays in the ink tokens.
+  // The categorical palette, checked for colour-blind separation against this dark surface.
+  // Hues are assigned in this fixed order and never cycled: a chart that would need a fifth
+  // series is split in two instead.
+  const SERIES = ["#3987e5", "#d95926", "#199e70", "#c98500"];
+  const chartsData = () => ({ H: HIST, A: window.GDC_AUTO || {}, AF: africaData() });
+
+  const niceTop = max => {
+    const pow = Math.pow(10, Math.floor(Math.log10(Math.abs(max) || 1)));
+    return Math.ceil(max / (pow / 2)) * (pow / 2);
+  };
+  const axisFmt = (v, dec) => (Math.abs(v) >= 1000 ? fmt(v, 0) : fmt(v, dec ?? (Math.abs(v) < 10 ? 1 : 0)));
+  const showAt = (v, o) => `${o.pre || ""}${axisFmt(v, o.dec)}${o.unit || ""}`;
+
+  // Axis labels, shortened to suit the span. Slicing the last four characters off every label
+  // turns a run of months into a row of identical years, and an ISO date into nonsense, so the
+  // shape of the labels decides what is shown.
+  const MON_SHORT = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  function axisTicks(labels) {
+    const strs = labels.map(l => String(l));
+    const years = new Set(strs.map(l => (l.match(/(19|20)\d{2}/) || [])[0]).filter(Boolean));
+    const manyYears = years.size > 1;
+    return strs.map(l => {
+      const iso = /^(\d{4})-(\d{2})-(\d{2})$/.exec(l);
+      if (iso) return manyYears ? `${MON_SHORT[+iso[2] - 1]} ${iso[1].slice(2)}` : `${+iso[3]} ${MON_SHORT[+iso[2] - 1]}`;
+      const mon = /^([A-Za-z]{3})[a-z]*\s+((19|20)\d{2})$/.exec(l);
+      if (mon) return manyYears ? `${mon[1]} ${mon[2].slice(2)}` : mon[1];
+      const yr = /^((19|20)\d{2})$/.exec(l.trim());
+      if (yr) return yr[1];
+      return l.length > 9 ? l.slice(-8) : l;          // anything else: keep it short
+    });
+  }
+
+  // Every chart returns its picture AND the numbers behind it, so the same payload can feed
+  // the read-out under the pointer, the table view and the CSV download. One source, three uses.
+  function chartData(cols, rows, colors, opts) {
+    return { cols, rows, colors, unit: opts.unit || "", pre: opts.pre || "", dec: opts.dec };
+  }
+
+  // a line (or area) over an evenly spaced series
+  function pLine(series, opts = {}) {
+    const W = 760, H = 300, L = 54, R = 16, T = 18, B = 34;
+    const all = series.flatMap(s => s.points.map(p => p.value));
+    if (!all.length) return null;
+    const min = Math.min(...all), max = Math.max(...all);
+    const lo = opts.zero === false ? Math.max(0, min - (max - min) * 0.35) : Math.min(0, min);
+    const hi = opts.zero === false ? max + (max - min) * 0.25 : niceTop(max);
+    const labels = series[0].points.map(p => p.date);
+    const x = i => L + (labels.length === 1 ? (W - L - R) / 2 : i * (W - L - R) / (labels.length - 1));
+    const y = v => T + (H - T - B) * (1 - (v - lo) / ((hi - lo) || 1));
+    const ticks = [0, 0.25, 0.5, 0.75, 1].map(f => lo + (hi - lo) * f);
+    const step = Math.max(1, Math.ceil(labels.length / 7));
+
+    const paths = series.map((s, i) => {
+      const d = s.points.map((p, k) => `${k ? "L" : "M"}${x(k).toFixed(1)},${y(p.value).toFixed(1)}`).join("");
+      const area = opts.area && series.length === 1
+        ? `<path class="c-area" d="${d}L${x(s.points.length - 1).toFixed(1)},${y(lo).toFixed(1)}L${x(0).toFixed(1)},${y(lo).toFixed(1)}Z" fill="${SERIES[i]}" opacity=".14"/>` : "";
+      const last = s.points[s.points.length - 1];
+      return `${area}<path d="${d}" fill="none" stroke="${SERIES[i]}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="${x(s.points.length - 1).toFixed(1)}" cy="${y(last.value).toFixed(1)}" r="4.5" fill="${SERIES[i]}" stroke="#0d1211" stroke-width="2"/>
+        <text class="c-tip-label" x="${(x(s.points.length - 1) - 8).toFixed(1)}" y="${(y(last.value) + (i === 0 ? -12 : 18)).toFixed(1)}" text-anchor="end" fill="${SERIES[i]}">${esc(s.name)} ${axisFmt(last.value, opts.dec)}</text>`;
+    }).join("");
+
+    // the crosshair, and one wide hit target per point so a finger can find it
+    const marks = labels.map((lab, k) => series.map((s, i) => {
+      const p = s.points[k];
+      return p ? `<circle class="c-dot" data-i="${k}" cx="${x(k).toFixed(1)}" cy="${y(p.value).toFixed(1)}" r="3.5" fill="${SERIES[i]}"/>` : "";
+    }).join("")).join("");
+    const hot = labels.map((lab, k) =>
+      `<rect class="c-hot" data-i="${k}" data-x="${x(k).toFixed(1)}" x="${(x(k) - (W - L - R) / (labels.length * 2)).toFixed(1)}" y="${T}" width="${Math.max(10, (W - L - R) / labels.length).toFixed(1)}" height="${H - T - B}" fill="transparent"/>`).join("");
+
+    const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+      ${ticks.map(t => `<line class="c-grid" x1="${L}" x2="${W - R}" y1="${y(t).toFixed(1)}" y2="${y(t).toFixed(1)}"/>
+        <text class="c-axis" x="${L - 9}" y="${(y(t) + 4).toFixed(1)}" text-anchor="end">${axisFmt(t, opts.dec)}</text>`).join("")}
+      ${axisTicks(labels).map((lab, k) => (k % step === 0 || k === labels.length - 1)
+        ? `<text class="c-axis" x="${x(k).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(lab)}</text>` : "").join("")}
+      <line class="c-cross" x1="0" x2="0" y1="${T}" y2="${H - B}" style="opacity:0"/>
+      ${paths}${marks}${hot}
+    </svg>`;
+
+    const rows = labels.map((lab, k) => [lab, ...series.map(s => (s.points[k] ? s.points[k].value : null))]);
+    return { svg, data: chartData([opts.xName || "Period", ...series.map(s => s.name)], rows, SERIES.slice(0, series.length), opts) };
+  }
+
+  // vertical bars for one measure across a handful of periods
+  function pBars(points, opts = {}) {
+    const W = 760, H = 300, L = 54, R = 16, T = 18, B = 34;
+    if (!points.length) return null;
+    const hi = niceTop(Math.max(...points.map(p => p.value)));
+    const bw = (W - L - R) / points.length;
+    const y = v => T + (H - T - B) * (1 - v / (hi || 1));
+    const ticks = [0, 0.25, 0.5, 0.75, 1].map(f => hi * f);
+    const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+      ${ticks.map(t => `<line class="c-grid" x1="${L}" x2="${W - R}" y1="${y(t).toFixed(1)}" y2="${y(t).toFixed(1)}"/>
+        <text class="c-axis" x="${L - 9}" y="${(y(t) + 4).toFixed(1)}" text-anchor="end">${axisFmt(t, opts.dec)}</text>`).join("")}
+      ${(() => { const ticks = axisTicks(points.map(p => p.date)); return points.map((p, i) => {
+        const h = Math.max(2, H - B - y(p.value));
+        const px = L + i * bw + bw * 0.16, pw = bw * 0.68;
+        return `<rect class="c-bar c-hot" data-i="${i}" x="${px.toFixed(1)}" y="${y(p.value).toFixed(1)}" width="${pw.toFixed(1)}" height="${h.toFixed(1)}" rx="4" fill="${p.accent ? SERIES[3] : SERIES[0]}"/>
+          <text class="c-axis" x="${(px + pw / 2).toFixed(1)}" y="${H - 12}" text-anchor="middle">${esc(ticks[i])}</text>
+          ${i === points.length - 1 || points.length <= 8 ? `<text class="c-val" x="${(px + pw / 2).toFixed(1)}" y="${(y(p.value) - 7).toFixed(1)}" text-anchor="middle">${axisFmt(p.value, opts.dec)}</text>` : ""}`;
+      }).join(""); })()}
+    </svg>`;
+    return { svg, data: chartData([opts.xName || "Period", opts.name || "Value"], points.map(p => [p.date, p.value]), [SERIES[0]], opts) };
+  }
+
+  // horizontal bars: good for ranking a list by size
+  function pHBars(rows, opts = {}) {
+    const W = 760, rowH = 30, T = 10, L = 158, R = 58;
+    if (!rows.length) return null;
+    const H = T * 2 + rows.length * rowH;
+    const hi = niceTop(Math.max(...rows.map(r => r.value)));
+    const w = v => Math.max(2, (W - L - R) * (v / (hi || 1)));
+    const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(opts.alt || "")}" preserveAspectRatio="xMidYMid meet">
+      ${rows.map((r, i) => {
+        const yy = T + i * rowH;
+        return `<text class="c-axis c-name" x="${L - 10}" y="${(yy + rowH / 2 + 4).toFixed(1)}" text-anchor="end">${esc(r.name)}</text>
+          <rect class="c-bar c-hot" data-i="${i}" x="${L}" y="${(yy + 5).toFixed(1)}" width="${w(r.value).toFixed(1)}" height="${rowH - 12}" rx="4" fill="${r.accent ? SERIES[3] : SERIES[0]}"/>
+          <text class="c-val" x="${(L + w(r.value) + 8).toFixed(1)}" y="${(yy + rowH / 2 + 4).toFixed(1)}">${opts.pre || ""}${axisFmt(r.value, opts.dec)}${opts.unit || ""}</text>`;
+      }).join("")}
+    </svg>`;
+    return { svg, data: chartData([opts.xName || "Name", opts.name || "Value"], rows.map(r => [r.name, r.value]), [SERIES[0]], opts) };
+  }
+
+  /* ---- a chart card: the picture, the numbers behind it, and a way to take both away ---- */
+  let chartSeq = 0;
+  /* ---- how to read each chart ------------------------------------------------
+   * Written for somebody meeting the chart for the first time — a student, or anyone who has
+   * not spent years looking at economic series. Each one says what is actually plotted, how to
+   * read the shape, and the one mistake that is easiest to make with it. Matched on the start
+   * of the chart's title, because three of the titles carry a year in them.
+   */
+  const CHART_LEARN = [
+    ["Public debt this year", "The same debt as the bar chart further down, but month by month instead of year by year — so you can see what is happening now rather than how Ghana got here. Each point is an official Bank of Ghana reading. A month where the line dips is usually the cedi strengthening rather than debt being repaid: most external debt is owed in dollars, so its cedi value falls when the cedi rises."],
+    ["Debt-to-GDP this year", "The monthly debt divided by the size of the economy. Watch the slope rather than the level: a line climbing steadily means debt is growing faster than the economy can carry it, which is the thing that matters more than any single month's number."],
+    ["Inflation this year", "Each point is how much prices rose over the twelve months ending in that month. A falling line still means prices are rising — just more slowly than before. The jump and fall between months is normal; one month tells you very little, the direction over several tells you a lot."],
+    ["The policy rate against inflation", "Two lines, same scale. The distance between them is the real interest rate. When the policy rate sits above inflation, the Bank is leaning against rising prices and saving beats inflation; when it sits below, money loses value in the bank. The gap closing or opening is the story here, not either line alone."],
+    ["Treasury bills this year", "What the government pays to borrow, for three months and for a year. Normally the longer loan costs more, so the 364-day line sits above the 91-day. When they converge or cross, the market is saying something has changed about how risky the near term looks."],
+    ["The cedi against the dollar, daily", "How many cedis one dollar costs, each day the site has recorded. The line going <em>up</em> means the cedi getting <em>weaker</em> — the cedi is on the bottom of the fraction. The trail starts the day this site first ran, so it is short at first and lengthens over time; nothing is backfilled."],
+    ["Public debt, GH", "Each bar is the total the government owed at the end of that year, in billions of cedis. Taller means more debt. Read the <em>gaps</em> between bars rather than their height: a jump from one year to the next is a year of heavy borrowing, and a bar that is only slightly taller is a quiet year. The last bar is the most recent month rather than a full year, so it is not yet comparable with the ones before it."],
+    ["Debt-to-GDP", "This is the debt divided by the size of the whole economy, as a percentage. It matters more than the raw debt because it asks whether the country can carry what it owes — GH¢100bn is heavy for a small economy and light for a large one. The line can fall in two quite different ways: the country repays debt, or the economy grows faster than the debt does. Both look identical here."],
+    ["Debt per person", "The same total debt, divided by how many people lived in Ghana that year. Nobody is handed this bill — it is a way of putting a number too large to picture into one you can. Because the population keeps growing, this line rises more slowly than the debt itself."],
+    ["Inflation since 1993", "Inflation is how fast prices rose over a year, as a percentage. A falling line does not mean prices fell — it means they rose more slowly than before. Prices only actually fall when the line goes below zero, which is rare. Notice how the 1990s dwarf everything since: that is the scale problem this chart exists to show."],
+    ["Inflation and the policy rate", "Two lines on one scale. The policy rate is what the Bank of Ghana charges banks; inflation is what prices are doing. The distance between them is the <em>real</em> interest rate. When the policy rate sits above inflation, saving beats rising prices and borrowing is expensive — that is the Bank leaning against inflation. When it sits below, money loses value in the bank."],
+    ["Cedi per US dollar", "How many cedis one dollar costs. Because the cedi is on the bottom of that fraction, the line going <em>up</em> means the cedi is getting <em>weaker</em> — this catches almost everyone out the first time. A weaker cedi raises the price of anything imported, which is most fuel, most medicine and most machinery."],
+    ["Petrol and diesel", "The published pump price per litre. This is the figure that reaches ordinary prices fastest: fuel moves transport costs, transport costs move food prices, and food is the biggest single item in Ghana's inflation basket. Watch it as an early warning for the inflation chart above."],
+    ["Real GDP growth", "The percentage the economy grew in each year, after stripping inflation out — that is what \"real\" means. A smaller positive number is still growth, just slower growth. Only a bar below zero means the economy actually shrank."],
+    ["Income per person", "Total national income divided by the population, in US dollars. It is an average, so it says nothing about how income is shared. Because it is converted into dollars, a fall can mean the economy weakened, or simply that the cedi did — the 2022 dip is mostly the second."],
+    ["Gross reserves", "The foreign currency the central bank holds. It is the buffer behind the cedi and behind the country's ability to pay for imports: economists usually judge it in months of import cover, and three months is the conventional comfort line. Reserves rising is generally a sign of strength."],
+    ["Remittances", "Money sent home by Ghanaians living abroad. It arrives as foreign currency, exactly like export earnings, which is why it belongs on the same page as trade. It is also unusually steady — it tends to hold up in years when exports fall."],
+    ["Unemployment rate", "The share of people who want work and cannot find it. This is the modelled international estimate, which is why it runs lower than Ghana's own survey: the two count differently, and neither is wrong. Comparing this line with another country is fair; comparing it with the Ghanaian survey figure is not."],
+    ["Population, millions", "How many people live in Ghana. It sits under nearly every other figure on this site: debt per person, income per person and reserves per person all use it as their denominator, so its slope quietly shapes those lines too."],
+    ["Exports and imports", "Two lines: what Ghana sold abroad and what it bought. The gap between them is the trade balance. Exports above imports means money coming in on trade; imports above exports means money going out, which has to be financed from somewhere — usually borrowing or reserves."],
+    ["Trade balance", "Exports minus imports, so this is the gap from the chart above drawn as a single line. Above zero is a surplus, below zero a deficit. The zero line is the one that matters: crossing it is a change of kind, not just of degree."],
+    ["Gold and cocoa", "Two prices on very different scales — an ounce of gold and a tonne of cocoa — so both are rebased to 100 at the start year. Every point then reads as \"this per cent of where it began\". That makes the comparison about <em>how much each has moved</em>, not which is worth more."],
+    ["Where the", "Each bar is one line of the approved budget for the year, in billions of cedis. Sorted largest first, so the ordering tells you the government's priorities as written down. Remember this is what was <em>approved</em>, not what has been spent yet."],
+    ["Inflation across Africa", "One bar per country, Ghana in gold. Each country publishes on its own timetable, so the months behind the bars are not identical — treat this as a rough ranking rather than a precise league table. It answers \"is this normal for the region?\", which a single country's line never can."],
+    ["The biggest economies in Africa", "The total value of what each country produces in a year, in US dollars, with Ghana marked in gold. Bigger is not the same as richer: a large economy divided among many people can leave each person with less than a small one. For that, look at income per person instead."]
+  ];
+  const chartLearn = title => (CHART_LEARN.find(([k]) => String(title).startsWith(k)) || [])[1] || "";
+
+  function chartCard(title, blurb, chart, source, legend) {
+    if (!chart || !chart.svg) return "";
+    const id = `ch${++chartSeq}`;
+    const d = chart.data;
+    const learn = chartLearn(title);
+    return `<figure class="chart-card" id="${id}" data-title="${esc(title)}">
+      <figcaption>
+        <h3>${esc(title)}</h3>
+        <p>${esc(blurb)}</p>
+        ${legend && legend.length > 1 ? `<div class="c-legend">${legend.map((n, i) => `<span><i style="background:${SERIES[i]}"></i>${esc(n)}</span>`).join("")}</div>` : ""}
+      </figcaption>
+      <div class="chart-box">
+        ${chart.svg}
+        <div class="c-tip" hidden></div>
+      </div>
+      ${learn ? `<details class="c-learn">
+        <summary>How to read this chart</summary>
+        <p>${learn}</p>
+      </details>` : ""}
+      <div class="c-tools">
+        <button type="button" class="c-btn" data-table="${id}" aria-expanded="false">Read the numbers</button>
+        <span class="c-tools-right">
+          <button type="button" class="c-btn" data-png="${id}">Download PNG</button>
+          <button type="button" class="c-btn" data-csv="${id}">Download CSV</button>
+        </span>
+      </div>
+      <div class="c-table-wrap" hidden>
+        <table class="rank-table c-table">
+          <thead><tr>${d.cols.map(c => `<th>${esc(c)}</th>`).join("")}</tr></thead>
+          <tbody>${d.rows.map(r => `<tr>${r.map((v, i) => `<td${i ? ' class="v"' : ""}>${i === 0 ? esc(String(v)) : (v == null ? "\—" : esc(showAt(v, d)))}</td>`).join("")}</tr>`).join("")}</tbody>
+        </table>
+      </div>
+      <p class="c-src">${esc(source)}</p>
+      <script type="application/json" class="c-json">${JSON.stringify(d).replace(/</g, "\\\u003c")}</script>
+    </figure>`;
+  }
+
+  /* ---- reading a chart: a read-out that follows the pointer, and works under a finger ---- */
+  const chartPayload = fig => {
+    if (!fig._data) {
+      const tag = fig.querySelector(".c-json");
+      try { fig._data = JSON.parse(tag.textContent); } catch (e) { fig._data = null; }
+    }
+    return fig._data;
+  };
+  function showChartTip(fig, i, clientX) {
+    const d = chartPayload(fig);
+    const tip = fig.querySelector(".c-tip");
+    const box = fig.querySelector(".chart-box");
+    if (!d || !tip || !d.rows[i]) return;
+    const row = d.rows[i];
+    tip.innerHTML = `<b>${esc(String(row[0]))}</b>` + row.slice(1).map((v, j) =>
+      `<span><i style="background:${d.colors[j] || SERIES[0]}"></i>${esc(d.cols[j + 1])} <b>${v == null ? "\—" : esc(showAt(v, d))}</b></span>`).join("");
+    tip.hidden = false;
+    const r = box.getBoundingClientRect();
+    const half = tip.offsetWidth / 2;
+    const at = Math.min(Math.max((clientX == null ? r.left + r.width / 2 : clientX) - r.left, half + 6), r.width - half - 6);
+    tip.style.left = `${at}px`;
+
+    // the crosshair, on charts that have one
+    const cross = fig.querySelector(".c-cross");
+    const hot = fig.querySelector(`.c-hot[data-i="${i}"]`);
+    if (cross && hot && hot.dataset.x) {
+      cross.setAttribute("x1", hot.dataset.x);
+      cross.setAttribute("x2", hot.dataset.x);
+      cross.style.opacity = "1";
+    }
+    fig.querySelectorAll(".c-dot").forEach(c => c.classList.toggle("on", c.dataset.i === String(i)));
+    fig.querySelectorAll(".c-bar").forEach(b => b.classList.toggle("dim", b.dataset.i !== String(i)));
+  }
+  function hideChartTip(fig) {
+    const tip = fig.querySelector(".c-tip");
+    if (tip) tip.hidden = true;
+    const cross = fig.querySelector(".c-cross");
+    if (cross) cross.style.opacity = "0";
+    fig.querySelectorAll(".c-dot.on").forEach(c => c.classList.remove("on"));
+    fig.querySelectorAll(".c-bar.dim").forEach(b => b.classList.remove("dim"));
+  }
+
+  /* ---- taking a chart away: the picture as PNG, the numbers as CSV ---- */
+  const saveBlob = (blob, name) => {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = name;
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 4000);
+  };
+  const fileName = (fig, ext) =>
+    `${(fig.dataset.title || "chart").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}-${new Date().toISOString().slice(0, 10)}.${ext}`;
+
+  function chartToCsv(fig) {
+    const d = chartPayload(fig);
+    if (!d) return;
+    const cell = v => (v == null ? "" : /[",\n]/.test(String(v)) ? `"${String(v).replace(/"/g, '""')}"` : String(v));
+    const lines = [d.cols.map(cell).join(","), ...d.rows.map(r => r.map(cell).join(","))];
+    saveBlob(new Blob([lines.join("\n")], { type: "text/csv;charset=utf-8" }), fileName(fig, "csv"));
+  }
+
+  // The SVG on the page leans on the stylesheet for its greys. A file saved to disk has no
+  // stylesheet, so every computed colour is written onto the clone before it is rasterised.
+  function chartToPng(fig) {
+    const src = fig.querySelector("svg");
+    if (!src) return;
+    const clone = src.cloneNode(true);
+    const css = getComputedStyle(document.documentElement);
+    const panel = (css.getPropertyValue("--panel") || "#0d1211").trim();
+    const ink3 = (css.getPropertyValue("--ink-3") || "#8a9a94").trim();
+    const line = (css.getPropertyValue("--line") || "#1d2725").trim();
+    const ink = (css.getPropertyValue("--ink") || "#eef3f1").trim();
+    clone.querySelectorAll(".c-grid").forEach(el => { el.setAttribute("stroke", line); el.setAttribute("stroke-width", "1"); });
+    clone.querySelectorAll(".c-axis").forEach(el => { el.setAttribute("fill", ink3); el.setAttribute("font-size", "11"); el.setAttribute("font-family", "system-ui, sans-serif"); });
+    clone.querySelectorAll(".c-val, .c-tip-label").forEach(el => { if (!el.getAttribute("fill")) el.setAttribute("fill", ink); el.setAttribute("font-size", "12"); el.setAttribute("font-family", "system-ui, sans-serif"); el.setAttribute("font-weight", "600"); });
+    // the invisible hit targets go, but a bar is both a mark and its own hit target
+    clone.querySelectorAll(".c-hot:not(.c-bar), .c-cross, .c-tip, .c-dot").forEach(el => el.remove());
+    clone.querySelectorAll("[stroke^='var('], [fill^='var(']").forEach(el => {
+      if ((el.getAttribute("stroke") || "").startsWith("var(")) el.setAttribute("stroke", panel);
+      if ((el.getAttribute("fill") || "").startsWith("var(")) el.setAttribute("fill", panel);
+    });
+    const vb = (src.getAttribute("viewBox") || "0 0 760 300").split(/\s+/).map(Number);
+    const w = vb[2] || 760, plot = vb[3] || 300, scale = 2;
+    // room above for the title and below for the source, so the file explains itself
+    const TOP = 56, FOOT = 30, h = plot + TOP + FOOT;
+    const title = fig.dataset.title || "";
+    const srcText = (fig.querySelector(".c-src") || {}).textContent || "";
+    [...clone.children].forEach(el => el.setAttribute("transform", `translate(0, ${TOP})`));
+    const wrapped = `<g transform="translate(0,${TOP})">${[...clone.children].map(el => { el.removeAttribute("transform"); return el.outerHTML; }).join("")}</g>`;
+    clone.innerHTML = `<rect x="0" y="0" width="${w}" height="${h}" fill="${panel}"/>
+      <text x="20" y="34" fill="${ink}" font-family="system-ui, sans-serif" font-size="20" font-weight="700">${esc(title)}</text>
+      ${wrapped}
+      <text x="20" y="${h - 11}" fill="${ink3}" font-family="system-ui, sans-serif" font-size="12">${esc(srcText)} · alfredo19-boss.github.io/alfre-do-ghana-economic-data</text>`;
+    clone.setAttribute("viewBox", `0 0 ${w} ${h}`);
+    clone.setAttribute("width", w); clone.setAttribute("height", h);
+    clone.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+
+    const svgText = new XMLSerializer().serializeToString(clone);
+    const img = new Image();
+    img.onload = () => {
+      const cv = document.createElement("canvas");
+      cv.width = w * scale; cv.height = h * scale;
+      const ctx = cv.getContext("2d");
+      ctx.fillStyle = panel; ctx.fillRect(0, 0, cv.width, cv.height);
+      ctx.drawImage(img, 0, 0, cv.width, cv.height);
+      cv.toBlob(b => { if (b) saveBlob(b, fileName(fig, "png")); }, "image/png");
+    };
+    img.onerror = () => { /* a browser that refuses the conversion: the CSV is still there */ };
+    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svgText);
+  }
+
+  /* ---- the charts themselves ---- */
+  function renderCharts() {
+    const { H, A, AF } = chartsData();
+    const cards = [];
+    const seriesOf_ = key => (H[key] && H[key].points) || [];
+    const readSeries = label => {
+      const it = allItems.find(i => i.label === label);
+      return it && Array.isArray(it.series) ? it.series.map(p => ({ date: p.date, value: p.value })) : [];
+    };
+
+    /* ---- this year first ------------------------------------------------------
+     * The long annual series answer "how did Ghana get here". They are not much use for
+     * "what is happening now", which is what most people open the page for — a chart that
+     * starts in 1993 flattens this year into the last pixel. These come first and cover the
+     * months the site actually holds readings for, so the trend you can see on the dashboard
+     * is the trend you can see in the charts.
+     */
+    const monthKey = s => {
+      const m = /^([A-Za-z]{3})[a-z]*\s+(\d{4})$/.exec(String(s || ""));
+      if (!m) return null;
+      const i = ["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"].indexOf(m[1].toLowerCase());
+      return i < 0 ? null : `${m[2]}-${String(i + 1).padStart(2, "0")}`;
+    };
+    const monthly = (label, since = "2025-12") => readSeries(label)
+      .map(p => ({ ...p, k: monthKey(p.date) }))
+      .filter(p => p.k && p.k >= since)
+      .sort((a, b) => a.k.localeCompare(b.k))
+      .map(({ date, value }) => ({ date, value }));
+
+    // the debt, month by month, from the official readings themselves
+    const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    const debtMonths = (D.debt.readings || [])
+      .filter(r => r.date >= "2025-12-31" && typeof r.total === "number")
+      .map(r => ({ date: `${MON[+r.date.slice(5, 7) - 1]} ${r.date.slice(2, 4)}`, value: r.total }));
+    if (debtMonths.length > 2) {
+      cards.push(chartCard("Public debt this year, GH\¢ billion", "Every month the Bank of Ghana has reported, newest last.",
+        pLine([{ name: "Public debt", points: debtMonths }], { area: true, zero: false, unit: "bn", dec: 0, xName: "Month", alt: "Ghana's public debt month by month this year" }),
+        "Bank of Ghana \· Ministry of Finance"));
+    }
+
+    const ratioMonths = (D.debt.readings || [])
+      .filter(r => r.date >= "2025-12-31" && typeof r.ratio === "number")
+      .map(r => ({ date: `${MON[+r.date.slice(5, 7) - 1]} ${r.date.slice(2, 4)}`, value: r.ratio }));
+    if (ratioMonths.length > 2) {
+      cards.push(chartCard("Debt-to-GDP this year, %", "The same debt measured against the size of the economy.",
+        pLine([{ name: "Debt-to-GDP", points: ratioMonths }], { area: true, zero: false, unit: "%", dec: 1, xName: "Month", alt: "Ghana's debt-to-GDP ratio month by month this year" }),
+        "Bank of Ghana \· Ministry of Finance"));
+    }
+
+    const inflMonths = monthly("Inflation");
+    const polMonths = monthly("BoG policy rate");
+    if (inflMonths.length > 2) {
+      cards.push(chartCard("Inflation this year, %", "Year-on-year inflation for each month published.",
+        pLine([{ name: "Inflation", points: inflMonths }], { area: true, zero: false, unit: "%", dec: 1, xName: "Month", alt: "Ghana's monthly inflation rate this year" }),
+        "Ghana Statistical Service"));
+    }
+    if (inflMonths.length > 2 && polMonths.length > 2) {
+      cards.push(chartCard("The policy rate against inflation, this year", "The gap between the two lines is the real rate — what saving actually earns.",
+        pLine([{ name: "Policy rate", points: polMonths }, { name: "Inflation", points: inflMonths }],
+          { zero: true, unit: "%", dec: 1, xName: "Month", alt: "Ghana's policy rate against inflation, month by month" }),
+        "Bank of Ghana \· Ghana Statistical Service", ["Policy rate", "Inflation"]));
+    }
+
+    const t91 = monthly("91-day T-bill"), t364 = monthly("364-day T-bill");
+    if (t91.length > 2 && t364.length > 2) {
+      cards.push(chartCard("Treasury bills this year, %", "What the government pays to borrow for three months and for a year.",
+        pLine([{ name: "91-day", points: t91 }, { name: "364-day", points: t364 }],
+          { zero: true, unit: "%", dec: 2, xName: "Month", alt: "Ghana's 91-day and 364-day treasury bill rates this year" }),
+        "Bank of Ghana", ["91-day", "364-day"]));
+    }
+
+    // the cedi, from the daily closes the live job has been collecting
+    const M = marketsData();
+    const usdTrail = (((M && M.world && M.world.currencies) || []).find(c => c.symbol === "GHS=X") || {}).history || [];
+    if (usdTrail.length > 3) {
+      const pts = usdTrail.map(p => ({ date: dateFmt(`${p.date}T00:00:00Z`), value: p.value }));
+      cards.push(chartCard("The cedi against the dollar, daily", "Every daily close this site has recorded. It starts the day the job first ran and grows from there.",
+        pLine([{ name: "GH\¢ per US$", points: pts }], { area: true, zero: false, pre: "GH\¢", dec: 2, xName: "Date", alt: "Cedis per US dollar, daily" }),
+        "Daily mid-market rate"));
+    }
+
+    // the debt itself
+    const debtBars = (D.history || []).filter(h => h.debt).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.debt }));
+    cards.push(chartCard("Public debt, GH\¢ billion", "Year-end stock, with the latest reported month at the end.",
+      pBars(debtBars, { unit: "bn", dec: 0, name: "Public debt", xName: "Period", alt: "Ghana's public debt stock by year" }), "Bank of Ghana \· Ministry of Finance"));
+
+    const ratioBars = (D.history || []).filter(h => h.ratio).map(h => ({ date: String(h.label || h.k).replace("End-", ""), value: h.ratio }));
+    cards.push(chartCard("Debt-to-GDP, %", "The burden has almost halved since the 2022 peak.",
+      pBars(ratioBars, { unit: "%", dec: 1, name: "Debt-to-GDP", xName: "Period", alt: "Ghana's debt-to-GDP ratio by year" }), "Bank of Ghana \· Ministry of Finance"));
+
+    // debt carried per person, worked out from the two series the site already holds
+    const popSeries = seriesOf_("population");
+    if (debtBars.length && popSeries.length) {
+      const popAtYear = yr => {
+        const hit = popSeries.filter(p => String(p.date).slice(0, 4) <= String(yr)).slice(-1)[0];
+        return hit ? hit.value : null;
+      };
+      const perHead = debtBars.map(b => {
+        const yr = (String(b.date).match(/(19|20)\d{2}/) || [])[0];
+        const pop = yr ? popAtYear(yr) : null;
+        return pop ? { date: b.date, value: b.value * 1e9 / pop } : null;
+      }).filter(Boolean);
+      if (perHead.length > 2) cards.push(chartCard("Debt per person, GH\¢", "The same debt divided by the population of the year it belongs to.",
+        pLine([{ name: "Per person", points: perHead }], { area: true, pre: "GH\¢", dec: 0, zero: false, xName: "Period", alt: "Ghana's public debt per person" }),
+        "Ghana Statistical Service \· Bank of Ghana"));
+    }
+
+    // prices and the cedi
+    const infl = seriesOf_("Inflation");
+    cards.push(chartCard("Inflation since 1993, %", "Annual average consumer price inflation. The 1990s peaks dwarf anything since.",
+      pLine([{ name: "Inflation", points: infl }], { area: true, unit: "%", dec: 1, xName: "Year", alt: "Ghana's annual inflation since 1993" }), "World Bank, World Development Indicators"));
+
+    // inflation against the policy rate, both in per cent, so one scale serves both
+    const inflMonthly = readSeries("Inflation"), policy = readSeries("BoG policy rate");
+    if (inflMonthly.length > 2 && policy.length > 2) {
+      const dates = inflMonthly.map(p => p.date).filter(d => policy.some(q => q.date === d));
+      if (dates.length > 2) {
+        const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
+        cards.push(chartCard("Inflation and the policy rate, %", "What prices are doing, against what the Bank of Ghana charges. The gap between them is the real rate.",
+          pLine([
+            { name: "Inflation", points: dates.map(d => ({ date: d, value: pick(inflMonthly, d) })) },
+            { name: "Policy rate", points: dates.map(d => ({ date: d, value: pick(policy, d) })) }
+          ], { unit: "%", dec: 1, zero: false, xName: "Month", alt: "Ghana's inflation against the policy rate" }),
+          "Ghana Statistical Service \· Bank of Ghana", ["Inflation", "Policy rate"]));
+      }
+    }
+
+    const cedi = (A.cediHistory || []).map(c => ({ date: c.date, value: c.rate }));
+    const cediPts = cedi.length > 3 ? cedi : (D.cedi || []).map(c => ({ date: c.label || c.date, value: c.rate }));
+    cards.push(chartCard("Cedi per US dollar", "Every Bank of Ghana interbank rate this site has recorded.",
+      pLine([{ name: "GH\¢ per US$", points: cediPts }], { area: true, zero: false, pre: "GH\¢", dec: 2, xName: "Date", alt: "Cedi per US dollar over recent months" }), "Bank of Ghana interbank mid-rate"));
+
+    // what a litre costs
+    const petrol = readSeries("Petrol"), diesel = readSeries("Diesel");
+    if (petrol.length > 2 && diesel.length > 2) {
+      const dates = petrol.map(p => p.date).filter(d => diesel.some(q => q.date === d));
+      if (dates.length > 2) {
+        const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
+        cards.push(chartCard("Petrol and diesel, GH\¢ a litre", "Pump prices as published, the figure that reaches the trotro fare fastest.",
+          pLine([
+            { name: "Petrol", points: dates.map(d => ({ date: d, value: pick(petrol, d) })) },
+            { name: "Diesel", points: dates.map(d => ({ date: d, value: pick(diesel, d) })) }
+          ], { pre: "GH\¢", dec: 2, zero: false, xName: "Date", alt: "Petrol and diesel pump prices" }),
+          "National Petroleum Authority", ["Petrol", "Diesel"]));
+      }
+    }
+
+    // the wider economy, year by year
+    const growth = seriesOf_("Real GDP growth");
+    if (growth.length > 3) cards.push(chartCard("Real GDP growth, %", "How fast the economy grew each year. 2020 is the pandemic; 2023 the crisis year.",
+      pBars(growth.slice(-16), { unit: "%", dec: 1, name: "Real GDP growth", xName: "Year", alt: "Ghana's real GDP growth by year" }), "World Bank, World Development Indicators"));
+
+    const income = seriesOf_("Income per person");
+    if (income.length > 3) cards.push(chartCard("Income per person, US$", "Gross national income per head. The dip after 2022 is the cedi as much as the economy.",
+      pLine([{ name: "Income per person", points: income }], { area: true, pre: "US$", dec: 0, zero: false, xName: "Year", alt: "Ghana's income per person" }), "World Bank, World Development Indicators"));
+
+    const reserves = seriesOf_("Gross reserves");
+    if (reserves.length > 3) cards.push(chartCard("Gross reserves, US$ billion", "What the country holds in foreign currency \— the buffer behind the cedi.",
+      pLine([{ name: "Gross reserves", points: reserves }], { area: true, pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's gross international reserves" }), "World Bank \· Bank of Ghana"));
+
+    const remit = seriesOf_("Remittances");
+    if (remit.length > 3) cards.push(chartCard("Remittances, US$ billion", "Money sent home by Ghanaians abroad \— bigger than most export lines.",
+      pLine([{ name: "Remittances", points: remit }], { area: true, pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Remittances to Ghana" }), "World Bank, World Development Indicators"));
+
+    const jobless = seriesOf_("Unemployment rate");
+    if (jobless.length > 3) cards.push(chartCard("Unemployment rate, %", "The modelled international estimate, which runs lower than Ghana's own survey.",
+      pLine([{ name: "Unemployment", points: jobless }], { area: true, unit: "%", dec: 1, zero: false, xName: "Year", alt: "Ghana's unemployment rate" }), "World Bank / ILO modelled estimate"));
+
+    const people = seriesOf_("population");
+    if (people.length > 3) cards.push(chartCard("Population, millions", "Ghana has roughly doubled in a generation \— the denominator under every per-person figure on this site.",
+      pLine([{ name: "Population", points: people.map(p => ({ date: p.date, value: p.value / 1e6 })) }], { unit: "m", dec: 1, area: true, zero: false, xName: "Year", alt: "Ghana's population" }), "World Bank, World Development Indicators"));
+
+    // trade
+    const ex = seriesOf_("exports"), im = seriesOf_("imports");
+    if (ex.length > 3 && im.length > 3) {
+      const years = ex.map(p => p.date).filter(d => im.some(q => q.date === d));
+      const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
+      cards.push(chartCard("Exports and imports, US$ billion", "Goods and services for the whole year. The gap between the lines is the trade balance.",
+        pLine([
+          { name: "Exports", points: years.map(d => ({ date: d, value: pick(ex, d) })) },
+          { name: "Imports", points: years.map(d => ({ date: d, value: pick(im, d) })) }
+        ], { pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's exports against imports" }),
+        "World Bank, World Development Indicators", ["Exports", "Imports"]));
+
+      const bal = seriesOf_("balance");
+      if (bal.length > 3) cards.push(chartCard("Trade balance, US$ billion", "Exports minus imports. Above the line is a surplus; the recent run of them is gold-led.",
+        pLine([{ name: "Trade balance", points: bal }], { pre: "US$", unit: "bn", dec: 1, xName: "Year", alt: "Ghana's trade balance" }), "World Bank, World Development Indicators"));
+    }
+
+    // gold and cocoa, indexed so two very different prices share one scale
+    const gold = seriesOf_("Gold price"), cocoa = seriesOf_("Cocoa world price");
+    if (gold.length > 3 && cocoa.length > 3) {
+      const years = gold.map(p => p.date).filter(d => cocoa.some(q => q.date === d));
+      if (years.length > 3) {
+        const base = (arr, d0) => (arr.find(p => p.date === d0) || {}).value || 1;
+        const from = years[0];
+        const g0 = base(gold, from), c0 = base(cocoa, from);
+        const pick = (arr, d) => (arr.find(p => p.date === d) || {}).value ?? null;
+        cards.push(chartCard(`Gold and cocoa, ${from} = 100`, "Ghana's two biggest earners, indexed so they share one scale.",
+          pLine([
+            { name: "Gold", points: years.map(d => ({ date: d, value: pick(gold, d) / g0 * 100 })) },
+            { name: "Cocoa", points: years.map(d => ({ date: d, value: pick(cocoa, d) / c0 * 100 })) }
+          ], { dec: 0, zero: false, xName: "Year", alt: "Gold and cocoa prices indexed to a common base" }),
+          "Futures settlement prices", ["Gold", "Cocoa"]));
+      }
+    }
+
+    // the budget
+    const bud = budgetItems.filter(b => b.key !== "exp");
+    if (bud.length) {
+      const total = (budgetItems.find(b => b.key === "exp") || {}).value || 0;
+      const named = bud.map(b => ({ name: b.label, value: b.value / 1e9 }));
+      const rest = total / 1e9 - named.reduce((n, b) => n + b.value, 0);
+      cards.push(chartCard(`Where the ${Y} budget goes, GH\¢ billion`,
+        "The approved allocations, with everything not named separately grouped at the end.",
+        pHBars([...named, ...(rest > 0 ? [{ name: "Everything else", value: rest }] : [])].sort((a, b) => b.value - a.value),
+          { pre: "GH\¢", unit: "bn", dec: 1, name: "Allocation", xName: "Line", alt: "How the budget is allocated" }),
+        "Ministry of Finance, budget statement"));
+    }
+
+    // Ghana against Africa
+    if (AF && AF.countries) {
+      const list = Object.entries(AF.countries).filter(([, c]) => c.latest)
+        .map(([iso, c]) => ({ iso, name: c.name, value: c.latest.value }))
+        .sort((a, b) => b.value - a.value);
+      const gh = list.find(c => c.iso === "GHA");
+      const rows = [...list.slice(0, 8), ...(list.slice(0, 8).includes(gh) ? [] : [gh])].filter(Boolean)
+        .map(c => ({ name: c.name, value: c.value, accent: c.iso === "GHA" }));
+      cards.push(chartCard("Inflation across Africa, %", "The eight highest rates on the continent, with Ghana marked in gold.",
+        pHBars(rows, { unit: "%", dec: 1, name: "Inflation", xName: "Country", alt: "African inflation compared with Ghana" }), AF.source || "National statistics offices"));
+
+      const sized = Object.entries(AF.countries).filter(([, c]) => c.gdp && c.gdp.value)
+        .map(([iso, c]) => ({ iso, name: c.name, value: c.gdp.value }))
+        .sort((a, b) => b.value - a.value);
+      if (sized.length > 4) {
+        const ghs = sized.find(c => c.iso === "GHA");
+        const top = sized.slice(0, 8);
+        cards.push(chartCard("The biggest economies in Africa, US$ billion", "Nominal GDP, with Ghana marked in gold wherever it falls.",
+          pHBars([...top, ...(top.includes(ghs) ? [] : [ghs])].filter(Boolean).map(c => ({ name: c.name, value: c.value, accent: c.iso === "GHA" })),
+            { pre: "US$", unit: "bn", dec: 0, name: "GDP", xName: "Country", alt: "The largest African economies by GDP" }),
+          "IMF estimates"));
+      }
+    }
+
+    const built = cards.filter(Boolean);
+    $("chart-wall").innerHTML = built.join("");
+    $("charts-status").textContent = `${built.length} charts`;
+    $("charts-note").textContent = "Every chart is drawn from the same figures as the dashboard \— nothing here is smoothed, projected or rebased except where a title says so. Point at any chart, or touch it, to read the value under your finger.";
+    setupChartSlider(built.length);
+  }
+
+  /* ---- the charts slide, one at a time, with everything still reachable ---- */
+  // A wall of sixteen charts is a lot to scroll past. By default they slide: one on screen,
+  // arrows and dots to move, and a slow auto-advance that stops the moment anyone touches
+  // the controls, reads a value, or opens a table. "Show all" puts the wall back for anyone
+  // who would rather scan or print the lot.
+  let chartAt = 0, chartTimer = null, chartSlide = true, chartHeld = false;
+  const CHART_EVERY = 11000;
+
+  function chartCards() { return $$("#chart-wall > .chart-card"); }
+  function paintChartSlider() {
+    const cards = chartCards();
+    if (!cards.length) return;
+    if (chartAt >= cards.length) chartAt = 0;
+    if (chartAt < 0) chartAt = cards.length - 1;
+    const wall = $("chart-wall");
+    wall.classList.toggle("sliding", chartSlide);
+    cards.forEach((c, i) => {
+      const on = !chartSlide || i === chartAt;
+      c.classList.toggle("on", on);
+      c.setAttribute("aria-hidden", String(!on));
+    });
+    const dots = $("chart-dots");
+    if (dots) {
+      dots.hidden = !chartSlide;
+      dots.innerHTML = chartSlide ? cards.map((c, i) =>
+        `<button type="button" class="${i === chartAt ? "on" : ""}" data-go="${i}" aria-label="Chart ${i + 1}: ${esc(c.dataset.title || "")}"${i === chartAt ? ' aria-current="true"' : ""}></button>`).join("") : "";
+    }
+    const at = $("chart-at");
+    if (at) at.textContent = chartSlide ? `${chartAt + 1} of ${cards.length}` : `${cards.length} charts`;
+    $$("#chart-prev, #chart-next").forEach(b => (b.hidden = !chartSlide));
+  }
+  function chartGo(n) {
+    const cards = chartCards();
+    if (!cards.length) return;
+    chartAt = (n + cards.length) % cards.length;
+    cards.forEach(c => hideChartTip(c));
+    paintChartSlider();
+  }
+  function setupChartSlider(count) {
+    chartAt = 0;
+    paintChartSlider();
+    if (chartTimer) clearInterval(chartTimer);
+    if (!count) return;
+    chartTimer = setInterval(() => {
+      if (!chartSlide || chartHeld) return;
+      if (VIEWS.charts.el.hidden) return;                       // nobody is looking
+      if (document.hidden) return;                              // the tab is in the background
+      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+      chartGo(chartAt + 1);
+    }, CHART_EVERY);
+  }
+
+  // reading a value: pointer, finger or the keyboard's own focus
+  (() => {
+    const wall = $("chart-wall");
+    if (!wall) return;
+    const figOf = e => e.target.closest && e.target.closest(".chart-card");
+    // A finger is not a mouse: a tap fires pointerdown, then a pointerleave a moment later as
+    // the finger lifts. Hiding on that would flash the read-out and take it away again, so on
+    // touch the value stays put until the next tap somewhere else.
+    let touching = false;
+    wall.addEventListener("pointermove", e => {
+      if (e.pointerType === "touch") return;
+      const fig = figOf(e); if (!fig) return;
+      const hot = e.target.closest(".c-hot");
+      if (hot) { chartHeld = true; showChartTip(fig, +hot.dataset.i, e.clientX); }
+      else hideChartTip(fig);
+    });
+    wall.addEventListener("pointerdown", e => {
+      touching = e.pointerType === "touch";
+      const fig = figOf(e); if (!fig) return;
+      const hot = e.target.closest(".c-hot");
+      if (hot) { chartHeld = true; showChartTip(fig, +hot.dataset.i, e.clientX); }
+      else if (touching) hideChartTip(fig);
+    });
+    wall.addEventListener("pointerleave", e => {
+      if (touching || e.pointerType === "touch") return;
+      chartCards().forEach(hideChartTip);
+      chartHeld = false;
+    }, true);
+    wall.addEventListener("mouseleave", e => {
+      if (touching) return;
+      const fig = figOf(e); if (fig) hideChartTip(fig);
+    }, true);
+    // a tap anywhere off the charts clears the read-out
+    document.addEventListener("pointerdown", e => {
+      if (!touching) return;
+      if (e.target.closest && e.target.closest(".chart-box")) return;
+      chartCards().forEach(hideChartTip);
+    }, true);
+
+    // the buttons under each chart
+    wall.addEventListener("click", e => {
+      const fig = figOf(e); if (!fig) return;
+      const t = e.target.closest("button"); if (!t) return;
+      if (t.dataset.png) { chartHeld = true; chartToPng(fig); return; }
+      if (t.dataset.csv) { chartHeld = true; chartToCsv(fig); return; }
+      if (t.dataset.table) {
+        chartHeld = true;
+        const box = fig.querySelector(".c-table-wrap");
+        const open = box.hidden;
+        box.hidden = !open;
+        t.setAttribute("aria-expanded", String(open));
+        t.textContent = open ? "Hide the numbers" : "Read the numbers";
+      }
+    });
+  })();
+
+  // the slider's own controls
+  (() => {
+    const prev = $("chart-prev"), next = $("chart-next"), dots = $("chart-dots"), all = $("chart-all");
+    if (prev) prev.addEventListener("click", () => { chartHeld = true; chartGo(chartAt - 1); });
+    if (next) next.addEventListener("click", () => { chartHeld = true; chartGo(chartAt + 1); });
+    if (dots) dots.addEventListener("click", e => {
+      const b = e.target.closest("button[data-go]");
+      if (b) { chartHeld = true; chartGo(+b.dataset.go); }
+    });
+    if (all) all.addEventListener("click", () => {
+      chartSlide = !chartSlide;
+      chartHeld = true;
+      all.textContent = chartSlide ? "Show all" : "Show one at a time";
+      all.setAttribute("aria-pressed", String(!chartSlide));
+      paintChartSlider();
+      if (!chartSlide) window.scrollTo({ top: window.scrollY, behavior: "instant" });
+    });
+    // arrow keys move through the charts while the portal is open
+    document.addEventListener("keydown", e => {
+      if (VIEWS.charts.el.hidden || !chartSlide) return;
+      if (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+      if (e.key === "ArrowRight") { chartHeld = true; chartGo(chartAt + 1); }
+      if (e.key === "ArrowLeft") { chartHeld = true; chartGo(chartAt - 1); }
+    });
+    // a swipe on a touch screen
+    let x0 = null;
+    const wall = $("chart-wall");
+    if (wall) {
+      wall.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; }, { passive: true });
+      wall.addEventListener("touchend", e => {
+        if (x0 == null || !chartSlide) return;
+        const dx = e.changedTouches[0].clientX - x0;
+        if (Math.abs(dx) > 60) { chartHeld = true; chartGo(chartAt + (dx < 0 ? 1 : -1)); }
+        x0 = null;
+      }, { passive: true });
+    }
+  })();
+
+  /* ================= global markets, and the Ghana Stock Exchange ================= */
+  const marketsData = () => window.GDC_MARKETS || null;
+  const GROUP_TITLES = {
+    indices: ["Share indices", "What the world's stock markets did today"],
+    commodities: ["Commodities", "Gold and cocoa are Ghana's two biggest earners; oil moves the fuel price"],
+    crypto: ["Crypto", "Quoted around the clock, unlike the exchanges above"],
+    currencies: ["Currencies", "The cedi against the currencies Ghana trades in, and the majors against each other"]
+  };
+  const moveClass = pct => (pct > 0 ? "up" : pct < 0 ? "down" : "flat");
+  const moveMark = pct => (pct > 0 ? "▲" : pct < 0 ? "▼" : "—");
+  const quoteTime = iso => {
+    const ms = Date.now() - Date.parse(iso);
+    if (!isFinite(ms)) return "";
+    if (ms < 36e5) return `${Math.max(1, Math.round(ms / 6e4))} min ago`;
+    if (ms < 864e5) return new Date(iso).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "UTC" }) + " GMT";
+    return new Date(iso).toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" });
+  };
+
+  function renderMarkets() {
+    const M = marketsData();
+    const world = (M && M.world) || {};
+    const groups = Object.entries(GROUP_TITLES).filter(([key]) => (world[key] || []).length);
+    $("markets-empty").hidden = groups.length > 0;
+    $("markets-status").textContent = M && M.updated
+      ? `${Object.values(world).reduce((n, l) => n + (l || []).length, 0)} prices · ${timeAgo(M.updated)}`
+      : "Waiting for the first run";
+    $("markets-body").innerHTML = groups.map(([key, [title, blurb]]) => `
+      <section class="block">
+        <div class="block-head"><h2>${esc(title)}</h2><p>${esc(blurb)}</p></div>
+        <div class="quote-grid">${world[key].map(q => {
+          const cls = moveClass(q.pct);
+          const trail = Array.isArray(q.history) ? q.history : [];
+          return `<article class="quote tappable ${cls}" data-detail="market:${esc(q.symbol)}" tabindex="0" aria-label="${esc(q.name)}: show its trend">
+            <span class="q-name">${esc(q.name)}</span>
+            <span class="q-value">${q.unit && /^US\$|^GH¢/.test(q.unit) ? esc(q.unit.split("/")[0]) : ""}${fmt(q.value, q.dec ?? 2)}${q.unit && !/^US\$|^GH¢/.test(q.unit) ? `<small>${esc(q.unit)}</small>` : q.unit && q.unit.includes("/") ? `<small>${esc("/" + q.unit.split("/")[1])}</small>` : ""}</span>
+            <span class="q-move">${moveMark(q.pct)} ${q.pct == null ? "—" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`}${q.change == null ? "" : ` <i>${q.change > 0 ? "+" : ""}${fmt(q.change, Math.abs(q.change) < 10 ? 2 : 0)}</i>`}</span>
+            ${trail.length > 2 ? `<span class="q-spark">${alfSpark(trail, `${q.name} over time`)}</span>` : ""}
+            <span class="q-when">${esc(quoteTime(q.at))}</span>
+          </article>`;
+        }).join("")}</div>
+      </section>`).join("");
+    const src = M && M.source ? ` Source: ${esc(M.source)}.` : "";
+    $("markets-note").innerHTML = `${esc((M && M.note) || "")}${src} Prices are for information, not for trading.`;
+  }
+
+  /* ================= Exchange: the cedi against the world =================
+   * Two rates sit side by side and they are not the same thing. The Bank of Ghana's interbank
+   * mid-rate is Ghana's official figure, published once a business day. The table below it is
+   * the world mid-market rate — the midpoint between what buyers and sellers are quoting,
+   * before any bank adds its margin. Nobody is offered the mid-market rate at a counter, and
+   * the page says so rather than letting a reader plan around a number they cannot get.
+   */
+  const exchangeData = () => {
+    const M = marketsData();
+    return (M && M.exchange) || null;
+  };
+  let fxFind = "", fxPick = "USD", fxFrom = "GHS";
+
+  const fxRate = code => {
+    const X = exchangeData();
+    return X && X.rates && X.rates[code] ? X.rates[code] : null;
+  };
+  // how many cedis one unit of that currency costs
+  const fxGhs = code => {
+    if (code === "GHS") return 1;
+    // The three the Bank of Ghana publishes come from BoG, so the converter and the dashboard
+    // give the same answer. Everything else is the mid-market table.
+    const bog = bogFor({ USD: "US dollar", GBP: "British pound", EUR: "Euro" }[code] || "");
+    if (bog) return bog.value;
+    const r = fxRate(code);
+    return r ? r.ghs : null;
+  };
+  const fxName = code => code === "GHS" ? "Ghana cedi" : (fxRate(code) || {}).name || code;
+  const fxNum = s => {
+    const n = Number(String(s).replace(/[^\d.\-]/g, ""));
+    return isFinite(n) ? n : null;
+  };
+  const fxShow = n => n == null ? "" : (Math.abs(n) >= 1000 ? fmt(n, 2) : Math.abs(n) >= 1 ? fmt(n, 4) : fmt(n, 6));
+
+  function renderExchange() {
+    if (!$("fx-table")) return;
+    const X = exchangeData();
+    const rates = (X && X.rates) || {};
+    const codes = Object.keys(rates);
+    $("exchange-empty").hidden = !!codes.length;
+    $("exchange-status").textContent = X && X.date
+      ? `${codes.length} currencies · ${dateFmt(`${X.date}T00:00:00Z`)}`
+      : "Waiting for the first run";
+
+    // the official three, large, straight from the Bank of Ghana where we have them
+    const LV = liveData() || {};
+    const off = LV.official || null;
+    $("fx-official").innerHTML = [["USD", "US dollar"], ["GBP", "British pound"], ["EUR", "Euro"]].map(([code, label]) => {
+      const bog = bogFor(label), mid = fxRate(code);
+      const headline = bog ? bog.value : (mid ? mid.ghs : null);
+      if (headline == null) return "";
+      return `<article class="fx-card">
+        <span class="fx-card-code">${esc(code)}</span>
+        <span class="fx-card-name">${esc(label)}</span>
+        <b class="fx-card-value">GH¢${fmt(headline, 4)}</b>
+        <span class="fx-card-when">${bog ? `Bank of Ghana · ${esc(dateFmt(`${bog.date}T00:00:00Z`))}` : "mid-market"}</span>
+        ${bog && mid ? `<span class="fx-card-alt">mid-market GH¢${fmt(mid.ghs, 4)}</span>` : ""}
+      </article>`;
+    }).join("");
+    $("fx-official").hidden = !off && !codes.length;
+
+    // the picker keeps whatever was chosen, as long as it still exists
+    if (!rates[fxPick] && codes.length) fxPick = rates.USD ? "USD" : codes[0];
+    const sel = $("fx-currency");
+    if (sel && sel.dataset.built !== String(codes.length)) {
+      sel.innerHTML = codes
+        .sort((a, b) => fxName(a).localeCompare(fxName(b)))
+        .map(c => `<option value="${esc(c)}">${esc(c)} · ${esc(fxName(c))}</option>`).join("");
+      sel.dataset.built = String(codes.length);
+    }
+    if (sel) sel.value = fxPick;
+    fxConvert("ghs");
+
+    const q = fxFind.trim().toLowerCase();
+    const rows = codes
+      .filter(c => !q || `${c} ${rates[c].name} ${rates[c].place}`.toLowerCase().includes(q))
+      .sort((a, b) => fxName(a).localeCompare(fxName(b)));
+    $("fx-table").innerHTML = `
+      <thead><tr><th>Currency</th><th class="v">1 unit in cedis</th><th class="v">GH¢1 buys</th></tr></thead>
+      <tbody>${rows.map(c => {
+        const r = rates[c], ghs = fxGhs(c);
+        return `<tr>
+          <td><b>${esc(c)}</b> ${esc(r.name)}<span class="fx-place">${esc(r.place)}</span></td>
+          <td class="v mono">GH¢${fmt(ghs, ghs >= 1 ? 4 : 6)}</td>
+          <td class="v mono">${fmt(r.per, r.per >= 1 ? 4 : 6)} ${esc(c)}</td>
+        </tr>`;
+      }).join("")}</tbody>`;
+
+    $("exchange-note").innerHTML = `Official dollar, pound and euro rates are the Bank of Ghana's interbank mid-rate, read from their daily page. `
+      + `The rest are world mid-market rates${X && X.date ? ` for ${esc(dateFmt(`${X.date}T00:00:00Z`))}` : ""}, refreshed every twenty minutes. `
+      + `A mid-market rate is the midpoint between buying and selling — a bank or a bureau will quote you something either side of it, so treat these as the reference, not the price you will be offered.`;
+  }
+
+  // Typing in either box fills the other. "ghs" means the cedi box was the one edited.
+  function fxConvert(from) {
+    const sel = $("fx-currency");
+    if (!sel) return;
+    const code = sel.value || fxPick;
+    const rate = fxGhs(code);
+    const a = $("fx-amount-ghs"), b = $("fx-amount-other");
+    if (!rate || !a || !b) return;
+    if (from === "ghs") {
+      const n = fxNum(a.value);
+      b.value = n == null ? "" : fxShow(n / rate);
+    } else {
+      const n = fxNum(b.value);
+      a.value = n == null ? "" : fxShow(n * rate);
+    }
+    const one = $("fx-line");
+    if (one) one.innerHTML = `<b>1 ${esc(code)} = GH¢${fmt(rate, rate >= 1 ? 4 : 6)}</b> · GH¢1 = ${fmt(1 / rate, 1 / rate >= 1 ? 4 : 6)} ${esc(code)}`;
+  }
+
+  if ($("fx-amount-ghs")) {
+    $("fx-amount-ghs").addEventListener("input", () => fxConvert("ghs"));
+    $("fx-amount-other").addEventListener("input", () => fxConvert("other"));
+    $("fx-currency").addEventListener("change", e => { fxPick = e.target.value; fxConvert("ghs"); });
+    $("fx-find").addEventListener("input", e => { fxFind = e.target.value; renderExchange(); });
+    // the swap button moves the amount across rather than reversing the layout, which is what
+    // people actually want: "I have 50 dollars" and "I have 50 cedis" are different questions
+    $("fx-swap").addEventListener("click", () => {
+      const a = $("fx-amount-ghs"), b = $("fx-amount-other");
+      const keep = a.value; a.value = b.value; b.value = keep;
+      fxConvert("ghs");
+    });
+  }
+
+  /* ================= World news ================= */
+  // Headlines from the world's wires, through GDELT. Nothing here is summarised or rewritten:
+  // the headline, the publisher, the time it was seen and a link to the publisher's own page.
+  // The headlines may arrive in either of two places: their own world-data.js, or carried
+  // inside news-data.js by the news job. Whichever holds stories is used, so the feature works
+  // with or without a separate step in the workflow.
+  const worldData = () => {
+    const own = window.GDC_WORLD || null;
+    if (own && ((own.global || []).length || (own.africa || []).length)) return own;
+    const news = window.GDC_NEWS || null;
+    if (news && ((news.world || []).length || (news.africa || []).length)) {
+      // worldAt is the minute the world lists themselves were last refreshed; news.updated is
+      // the Ghana business run, which happens far more often and would overstate how fresh
+      // these headlines are.
+      return { updated: news.worldAt || news.updated, note: own && own.note, source: "the publishers' own feeds", global: news.world || [], africa: news.africa || [] };
+    }
+    return own;
+  };
+  const worldStories = (key = "global") => {
+    const W = worldData();
+    const list = (W && Array.isArray(W[key])) ? W[key] : [];
+    return list
+      .filter(i => i && i.title && i.link && i.published)
+      .sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+  };
+
+  /* ---- publisher lettermarks ----------------------------------------------
+   * A small badge for each newsroom: the letters people know it by, in one of eight
+   * tones from the site's own palette. These are NOT the publishers' logos — the site
+   * does not reproduce anyone's mark. They exist so a reader can tell AllAfrica from
+   * Al Jazeera at a glance without reading the label, and so the two news portals read
+   * as one designed system rather than a list of grey text.
+   */
+  const SRC_MARKS = {
+    "Al Jazeera": ["AJ", 1], "Africanews": ["AN", 2], "NPR World": ["NPR", 3],
+    "UN News": ["UN", 4], "BBC News": ["BBC", 5], "BBC Africa": ["BBC", 5],
+    "Deutsche Welle": ["DW", 6], "France 24": ["F24", 7],
+    "AllAfrica": ["AA", 8], "AllAfrica Business": ["AA", 8],
+    "Reuters": ["RT", 3], "Citi Newsroom": ["CN", 2], "MyJoyOnline": ["MJ", 1],
+    "Graphic Online": ["GO", 4], "Graphic Business": ["GB", 4],
+    "The High Street Journal": ["HSJ", 6], "Ghana Business News": ["GBN", 7],
+    "Ghana News Agency": ["GNA", 8], "News Ghana": ["NG", 5]
+  };
+  function srcMark(source) {
+    const hit = SRC_MARKS[source];
+    if (hit) return { text: hit[0], tone: hit[1] };
+    // an unknown publisher still gets a stable badge: its initials, and a tone picked
+    // from its name so the same source always looks the same
+    const words = String(source || "?").replace(/^the\s+/i, "").split(/\s+/).filter(Boolean);
+    const text = (words.length > 1 ? words.slice(0, 3).map(w => w[0]).join("") : (words[0] || "?").slice(0, 2)).toUpperCase();
+    let h = 0;
+    for (const ch of String(source || "")) h = (h * 31 + ch.charCodeAt(0)) % 8;
+    return { text, tone: h + 1 };
+  }
+  const srcBadge = (source, cls = "") => {
+    const m = srcMark(source);
+    return `<span class="src-badge ${cls}" data-tone="${m.tone}" title="${esc(source)}" aria-hidden="true">${esc(m.text)}</span>`;
+  };
+
+  /* Two portals, one piece of machinery. Global news and African news differ only in which
+   * list they read and a line of wording, so they share this renderer: a fix or an improvement
+   * to one is a fix to both, and they cannot drift apart. */
+  const FEEDS_UI = {
+    world: { list: "global", ids: "world", find: "", src: "" },
+    afrnews: { list: "africa", ids: "afrnews", find: "", src: "" }
+  };
+  function renderFeedPortal(name) {
+    const cfg = FEEDS_UI[name];
+    const id = suffix => $(`${cfg.ids}-${suffix}`);
+    if (!id("list")) return;                       // that portal is not in this page
+    const W = worldData() || {};
+    const all = worldStories(cfg.list);
+    const q = cfg.find.trim().toLowerCase();
+    if (cfg.src && !all.some(i => i.source === cfg.src)) cfg.src = "";   // that publisher has nothing left
+    const shown = all
+      .filter(i => !cfg.src || i.source === cfg.src)
+      .filter(i => !q || `${i.title} ${i.source}`.toLowerCase().includes(q));
+
+    id("status").textContent = W.updated
+      ? `${all.length} stories · updated ${timeAgo(W.updated)}`
+      : "Waiting for the first run";
+    id("empty").hidden = !!shown.length;
+
+    // One chip per newsroom, newsiest first, so a reader can read one publisher at a time.
+    const counts = new Map();
+    all.forEach(i => counts.set(i.source, (counts.get(i.source) || 0) + 1));
+    const chips = [["", "All newsrooms", all.length],
+      ...[...counts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).map(([s, n]) => [s, s, n])];
+    id("sources").innerHTML = chips.map(([val, label, n]) =>
+      `<button type="button" class="src-chip${cfg.src === val ? " on" : ""}" data-src="${esc(val)}">
+        ${val ? srcBadge(val) : `<span class="src-badge all" aria-hidden="true">ALL</span>`}
+        <span>${esc(val || label)}</span><b>${n}</b>
+      </button>`).join("");
+    id("sources").hidden = !all.length;
+
+    // A picture the publisher put on its own feed. It is loaded from their server, never copied
+    // here, and a story without one simply keeps its lettermark — the layout has to look right
+    // either way, because plenty of feeds carry no image at all.
+    const pic = (i, cls) => i.image
+      ? `<span class="${cls}"><img src="${esc(i.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>`
+      : "";
+
+    // the newest three, given room at the top; the first gets the width
+    const lead = (q || cfg.src) ? [] : shown.slice(0, 3);
+    id("lead").innerHTML = lead.map(i => `
+      <article class="world-card${i.image ? " has-pic" : ""}">
+        ${pic(i, "world-pic")}
+        <div class="world-body">
+          <div class="story-meta">${srcBadge(i.source)}<span class="src">${esc(i.source)}</span>${i.country ? `<span class="wire-tag">${esc(i.country)}</span>` : ""}<time datetime="${esc(i.published)}">${esc(timeAgo(i.published))}</time></div>
+          <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+          ${i.summary ? `<p class="sum">${esc(i.summary)}</p>` : ""}
+        </div>
+      </article>`).join("");
+    id("lead").hidden = !lead.length;
+
+    const rest = (q || cfg.src) ? shown : shown.slice(3);
+    id("list").innerHTML = rest.map(i => {
+      const fresh = Date.now() - Date.parse(i.published) < 3 * 3600e3;
+      return `<article class="story has-badge${i.image ? " has-pic" : ""}">
+        ${i.image ? pic(i, "story-thumb") : srcBadge(i.source, "sm")}
+        <div class="story-body">
+          <div class="story-meta">${i.image ? srcBadge(i.source, "xs") : ""}<span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
+          <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+        </div>
+      </article>`;
+    }).join("");
+    id("list").hidden = !rest.length;
+
+    // A publisher's image can 404, move, or be blocked. When one fails to load, its frame is
+    // removed and the story falls back to the lettermark rather than leaving a broken box.
+    $$(`#${cfg.ids}-lead img, #${cfg.ids}-list img`).forEach(img => {
+      img.addEventListener("error", () => {
+        const card = img.closest(".story, .world-card");
+        img.parentElement.remove();
+        if (!card) return;
+        card.classList.remove("has-pic");
+        if (card.classList.contains("story") && !card.querySelector(".src-badge")) {
+          card.insertAdjacentHTML("afterbegin", srcBadge(card.querySelector(".src") ? card.querySelector(".src").textContent : "", "sm"));
+        }
+      }, { once: true });
+    });
+
+    const src = W.source ? ` Read from ${esc(W.source)}.` : "";
+    id("note").innerHTML = `Headlines and links only — each story opens on the publisher's own page, where it belongs.${src} Refreshed about every twenty minutes; anything older than a day and a half drops off.`;
+  }
+  const renderWorld = () => renderFeedPortal("world");
+  const renderAfrNews = () => { renderFeedPortal("afrnews"); renderAfrWire(); };
+  Object.keys(FEEDS_UI).forEach(name => {
+    const cfg = FEEDS_UI[name];
+    const find = $(`${cfg.ids}-find`), sources = $(`${cfg.ids}-sources`);
+    if (find) find.addEventListener("input", e => { cfg.find = e.target.value; renderFeedPortal(name); });
+    if (sources) sources.addEventListener("click", e => {
+      const chip = e.target.closest(".src-chip");
+      if (!chip) return;
+      cfg.src = chip.dataset.src === cfg.src ? "" : chip.dataset.src;   // tapping the chosen one clears it
+      renderFeedPortal(name);
+    });
+  });
+
+  /* ---- the African headline strip above the inflation orbit ---- */
+  // One story at a time, sliding on the same rhythm as the board view, so the portal carries
+  // what is happening across Africa as well as what prices are doing.
+  let afrWireAt = 0, afrWireTimer = null;
+  function renderAfrWire() {
+    const wrap = $("afr-wire");
+    if (!wrap) return;
+    const items = worldStories("africa").slice(0, 8);
+    wrap.hidden = false;
+    if (!items.length) {
+      // Nothing to slide yet. Say so plainly rather than vanishing, so it is obvious the strip
+      // exists and is waiting on the job rather than broken.
+      if (afrWireTimer) { clearInterval(afrWireTimer); afrWireTimer = null; }
+      $("afr-wire-stage").innerHTML = `<span class="afr-slide on afr-waiting"><span class="afr-title">African headlines appear here once <b>Update business news</b> has run.</span></span>`;
+      $("afr-wire-dots").innerHTML = "";
+      return;
+    }
+    if (afrWireAt >= items.length) afrWireAt = 0;
+
+    $("afr-wire-stage").innerHTML = items.map((i, n) => `
+      <a class="afr-slide${n === afrWireAt ? " on" : ""}" href="${esc(i.link)}" target="_blank" rel="noopener">
+        ${srcBadge(i.source, "sm")}
+        <span class="afr-src">${esc(i.source)}</span>
+        <span class="afr-title">${esc(i.title)}</span>
+        <span class="afr-when">${esc(timeAgo(i.published))}</span>
+      </a>`).join("");
+    $("afr-wire-dots").innerHTML = items.map((_, n) => `<i class="${n === afrWireAt ? "on" : ""}"></i>`).join("");
+
+    if (!afrWireTimer) {
+      afrWireTimer = setInterval(() => {
+        const slides = $$(".afr-slide");
+        if (!slides.length || VIEWS.afrnews.el.hidden) return;   // no work while nobody is looking
+        afrWireAt = (afrWireAt + 1) % slides.length;
+        slides.forEach((el, n) => el.classList.toggle("on", n === afrWireAt));
+        $$("#afr-wire-dots i").forEach((d, n) => d.classList.toggle("on", n === afrWireAt));
+      }, 6000);
+    }
+  }
+
   /* ================= Africa inflation: Ghana at the centre ================= */
   const africaData = () => window.GDC_AFRICA || null;
   function renderAfrica() {
+    // the headline strip lives in the African news portal now; this one is the inflation data
     const AFRICA = africaData();
     if (!AFRICA || !AFRICA.countries) { $("africa-status").textContent = "No data yet"; return; }
     const gh = AFRICA.countries.GHA;
@@ -1390,20 +2709,21 @@
       const y = 50 + RADIUS[r] * Math.sin(angle) * 0.98;
       const band = Math.abs(diff) <= 2 ? "near" : diff > 0 ? "high" : "low";
       return `<button type="button" class="orb ${band}" style="left:${x.toFixed(2)}%;top:${y.toFixed(2)}%" data-iso="${esc(c.iso)}" data-detail="africa:${esc(c.iso)}"
-        title="${esc(c.name)}: ${fmt(c.value, 1)}% in ${esc(c.period)} · ${diff > 0 ? "+" : ""}${fmt(diff, 1)} points against Ghana">
+        title="${esc(c.name)}: ${fmt(c.value, 1)}% in ${esc(c.period)} · ${diff > 0 ? "+" : ""}${fmt(diff, 1)} points against Ghana${c.gdp ? ` · economy US$${fmt(c.gdp.value, 0)}bn` : ""}">
         <b>${fmt(c.value, 1)}</b><span>${esc(c.name)}</span></button>`;
     })).join("");
 
     $("orbit").innerHTML = `
       <div class="orb-rings" aria-hidden="true"><i></i><i></i><i></i></div>
       <div class="orb-centre" title="Ghana: ${fmt(gh.latest.value, 1)}% (${esc(ghPeriod)})">
-        <span class="orb-flag" aria-hidden="true"></span>
+        ${GH_FLAG.replace("gh-flag", "gh-flag orb-flag")}
         <b>${fmt(gh.latest.value, 1)}<small>%</small></b>
         <span>Ghana · ${esc(ghPeriod)}</span>
+        ${gh.gdp ? `<span class="orb-gdp">US$${fmt(gh.gdp.value, 0)}bn economy</span>` : ""}
       </div>${html}`;
 
     $("africa-table").innerHTML = `
-      <thead><tr><th>#</th><th>Country</th><th>Inflation</th><th>As of</th><th>Vs Ghana</th><th>Month before</th></tr></thead>
+      <thead><tr><th>#</th><th>Country</th><th>Inflation</th><th>As of</th><th>Vs Ghana</th><th>Month before</th><th>Economy, US$bn</th></tr></thead>
       <tbody>${list.map((c, i) => {
         const diff = c.value - gh.latest.value;
         const prev = typeof c.prev === "number" ? c.prev
@@ -1416,12 +2736,13 @@
           <td class="d">${esc(c.period)}</td>
           <td class="d ${diff > 0 ? "up" : diff < 0 ? "down" : ""}">${c.iso === "GHA" ? "—" : `${diff > 0 ? "+" : ""}${fmt(diff, 1)} pts`}</td>
           <td class="d">${typeof prev === "number" ? `${fmt(prev, 1)}% <span class="${move > 0 ? "up" : move < 0 ? "down" : ""}">${move > 0 ? "▲" : move < 0 ? "▼" : "—"}</span>` : "—"}</td>
+          <td class="v gdp">${c.gdp ? `${fmt(c.gdp.value, c.gdp.value < 10 ? 1 : 0)}<small>${esc(c.gdp.year)}</small>` : "—"}</td>
         </tr>`;
       }).join("")}</tbody>`;
 
     markTappable();
     const src = AFRICA.sourceUrl ? ` <a href="${esc(AFRICA.sourceUrl)}" target="_blank" rel="noopener">${esc(AFRICA.source)}</a>.` : "";
-    $("africa-note").innerHTML = `${esc(AFRICA.note || "")}${src}`;
+    $("africa-note").innerHTML = `${esc(AFRICA.note || "")}${src}${AFRICA.gdpNote ? ` ${esc(AFRICA.gdpNote)}` : ""}`;
   }
   const ordinal = n => `${n}${["th", "st", "nd", "rd"][(n % 100 - n % 10 !== 10) * (n % 10 < 4) * (n % 10)] || "th"}`;
 
@@ -1573,7 +2894,7 @@
     $("news-list").innerHTML = shown.map((i, idx) => {
       const fresh = Date.now() - Date.parse(i.published) < 3 * 3600e3;
       return `<article class="story${leadAllowed && idx === 0 ? " lead" : ""}">
-        <div class="story-meta"><span class="src">${esc(i.source)}</span><time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
+        <div class="story-meta"><span class="src">${esc(i.source)}</span>${i.wire ? `<span class="wire-tag">wire</span>` : ""}<time datetime="${esc(i.published)}"${fresh ? ' class="fresh"' : ""}>${esc(timeAgo(i.published))}</time></div>
         <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
         ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
         ${i.topics.length ? `<div class="tags">${i.topics.slice(0, 2).map(k => `<span class="tag">${esc(topicName(k))}</span>`).join("")}</div>` : ""}
@@ -1635,9 +2956,9 @@
         every: "Every 20 minutes", at: (window.GDC_LIVE || {}).updated, lateAfter: 0.5,
         note: `${Object.keys((window.GDC_LIVE || {}).quotes || {}).length} quotes held` },
       { name: "Update long history", feeds: "The series since 1993",
-        every: "3rd of each month", at: HISTF.updated, lateAfter: 45, note: `${Object.keys(HISTF.series || {}).length} indicators` },
+        every: "Every morning, 06:40 GMT", at: HISTF.updated, lateAfter: 45, note: `${Object.keys(HISTF.series || {}).length} indicators` },
       { name: "…and African inflation", feeds: "Africa inflation tab",
-        every: "3rd of each month", at: AFRICA.updated, lateAfter: 45, note: `${Object.keys(AFRICA.countries || {}).length} countries` },
+        every: "Every morning, 06:40 GMT", at: AFRICA.updated, lateAfter: 45, note: `${Object.keys(AFRICA.countries || {}).length} countries` },
       { name: "Write weekly briefing", feeds: "Articles tab",
         every: "Mondays, 06:30 GMT", at: (ARTS[0] || {}).published || null,
         fallbackDate: (ARTS[0] || {}).date, lateAfter: 10, note: ARTS.length ? `Newest: ${ARTS[0].title}` : "None yet" },
@@ -1671,16 +2992,17 @@
     // every published reading, oldest first
     const figs = allItems.map(it => ({ it, stale: staleDays(it) })).sort((a, b) => b.stale - a.stale);
     const due = figs.filter(f => f.stale);
+    const behind = figs.filter(f => f.it.sourceNewer);
     $("status-figures-note").textContent = due.length
       ? `${due.length} of ${figs.length} figures are past their usual release date and are marked Update due on the dashboard. The site keeps showing the last published value with its date — it never guesses a newer one.`
-      : `All ${figs.length} published figures are within their usual release interval.`;
+      : `All ${figs.length} published figures are within their usual release interval.${behind.length ? ` ${behind.length} have a newer third-party estimate waiting to be checked.` : ""}`;
     $("status-figures").innerHTML = `
       <thead><tr><th>Figure</th><th>Value</th><th>Period</th><th>State</th><th>Comes from</th></tr></thead>
       <tbody>${figs.map(f => `<tr>
         <td>${esc(f.it.label)}</td>
         <td class="v">${readValue(f.it)}</td>
         <td class="d">${esc(f.it.date || "—")}</td>
-        <td><span class="pill ${f.stale ? "bad" : "good"}">${f.stale ? `${f.stale} days old` : "Current"}</span></td>
+        <td><span class="pill ${f.stale ? "bad" : f.it.sourceNewer ? "warn" : "good"}">${f.stale ? `${f.stale} days old` : f.it.sourceNewer ? "Newer exists" : "Current"}</span></td>
         <td class="d note-cell">${f.it.autoSource ? esc(f.it.autoSource) : "Entered by hand"}</td>
       </tr>`).join("")}</tbody>`;
 
@@ -1694,6 +3016,33 @@
     $("status-intro").textContent = waitingCount
       ? `How fresh everything on this site is. ${waitingCount} job${waitingCount === 1 ? " has" : "s have"} never delivered — normal before the site is published and the Actions schedules are switched on; run each one once from the Actions tab.`
       : "How fresh everything on this site is: when each automatic job last delivered, and how old every published figure is.";
+
+    // A source that has quietly stopped working is worse than one that has obviously failed,
+    // so where a figure is standing in for another source the status page says so outright.
+    const standIns = allItems.filter(i => i.autoSource && /currency-api|market mid/i.test(i.autoSource));
+    const bogNote = $("status-standin");
+    if (bogNote) {
+      bogNote.hidden = !standIns.length;
+      if (standIns.length) bogNote.innerHTML =
+        `<b>${standIns.length} figure${standIns.length === 1 ? " is" : "s are"} using a stand-in source.</b> `
+        + `${standIns.map(i => esc(i.label)).join(", ")} ${standIns.length === 1 ? "is" : "are"} coming from a market mid-rate because the Bank of Ghana's daily page did not yield a rate. `
+        + `The figures are real market prices and are labelled as such on the dashboard — they are simply not BoG's official numbers. `
+        + `The morning job tries four different Bank of Ghana pages before falling back.`;
+    }
+
+    // what Alfredo was asked and could not answer, from this browser's own record
+    const misses = alfMisses();
+    $("status-alf-block").hidden = !misses.length;
+    if (misses.length) {
+      $("status-misses").innerHTML = `
+        <thead><tr><th>Asked</th><th>When</th><th>Language</th><th>What he offered instead</th></tr></thead>
+        <tbody>${misses.slice(0, 20).map(m => `<tr>
+          <td>${esc(m.q || "")}</td>
+          <td class="d">${m.at ? timeAgo(Date.parse(m.at)) : "—"}</td>
+          <td class="d">${esc(((LANGS[m.lang] || {}).name) || m.lang || "—")}</td>
+          <td class="d note-cell">${(m.near || []).length ? esc((m.near || []).join(", ")) : "Nothing close"}</td>
+        </tr>`).join("")}</tbody>`;
+    }
 
     $("status-note").innerHTML = `This page reads the data files themselves, so it reflects what visitors are actually seeing, not what GitHub intended to run. A job marked late usually means the Actions schedule stopped — GitHub pauses scheduled workflows in a repository that has had no activity for 60 days. Open the <b>Actions</b> tab, re-enable them, and run the job once by hand. The page itself re-reads every data file once a minute.`;
   }
@@ -1728,20 +3077,30 @@
   const ASK_TAGS = { debt: "total debt", percap: "debt per person", inflation: "inflation",
     dollar: "us dollar", population: "population", holiday: "next holiday",
     trade: "exports imports", budget: "budget" };
-  function alfLocalIntents(raw) {
-    const low = raw.toLowerCase();
-    const tags = [];
-    let greet = false, help = false;
+  // Every language's trigger words, flattened once instead of on every question, so the
+  // match is a single pass over a plain list however many languages are installed.
+  let ASK_INDEX = null;
+  function askIndex() {
+    if (ASK_INDEX) return ASK_INDEX;
+    ASK_INDEX = [];
     for (const code of Object.keys(LANGS)) {
       const ask = LANGS[code].ask || {};
       for (const [intent, words] of Object.entries(ask)) {
-        if (!words.some(w => low.includes(w.toLowerCase()))) continue;
-        if (intent === "hello") greet = true;
-        else if (intent === "help") help = true;
-        else if (ASK_TAGS[intent]) tags.push(ASK_TAGS[intent]);
+        (words || []).forEach(w => ASK_INDEX.push({ intent, word: String(w).toLowerCase() }));
       }
     }
-    return { tags, greet, help };
+    return ASK_INDEX;
+  }
+  function alfLocalIntents(raw) {
+    const low = raw.toLowerCase();
+    const tags = [];
+    const hit = new Set();
+    for (const { intent, word } of askIndex()) {
+      if (!low.includes(word)) continue;
+      hit.add(intent);
+      if (ASK_TAGS[intent]) tags.push(ASK_TAGS[intent]);
+    }
+    return { tags, hit, greet: hit.has("hello"), help: hit.has("help") };
   }
 
   const alfNorm = q => q.toLowerCase().replace(/[^a-z0-9%\s.-]/g, " ").replace(/\s+/g, " ").trim();
@@ -1815,27 +3174,635 @@
     const note = alfLang === "en" && it.note ? `<span class="alf-note">${toneNote(it.note, it.tone)}</span>` : "";
     const nowQ = liveFor(it.label);
     const liveLine = nowQ
-      ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`, time: esc(liveTime(nowQ.at)) })}</span>`
+      ? `<span class="alf-note">${t("reading.live", { value: nowQ.key === "gold" ? `US$${fmt(nowQ.value, 0)}` : `GH¢${fmt(nowQ.value, 4)}`, time: esc(quoteWhen(nowQ)) })}</span>`
       : "";
+    // a picture of where the figure has been, and a way through to the full detail.
+    // Its own recent readings come first — they are closer to the figure being quoted than
+    // an annual series that may end a year earlier.
+    const chartPoints = points.length >= 4 ? points : ((long && long.points) || points);
+    const chart = alfSpark(chartPoints, `${it.label} over time`);
+    const src = it.seriesSource || it.autoSource || (long && long.source) || "";
+    const from = src ? `<span class="alf-note">${t("reading.from", { source: esc(src), date: esc(it.date || "") })}</span>` : "";
+    const open = readKey(it) ? `<button type="button" class="alf-open-read" data-detail="read:${readKey(it)}">${t("reading.open")}</button>` : "";
     return `${t("reading", { label: esc(L10N(it.label)), value: showVal(it.value, u), date: esc(it.date || "") })}
       ${liveLine}
       ${note}
       ${trend ? `<span class="alf-note">${trend}</span>` : ""}
-      ${range ? `<span class="alf-note">${range}</span>` : ""}`;
+      ${range ? `<span class="alf-note">${range}</span>` : ""}
+      ${chart}${from}${open}`;
   };
+
+  /* ---- how close two phrasings are, so a near miss can be offered back ---- */
+  // Dice coefficient on character pairs: tolerant of typos and of endings ("inflashun",
+  // "petrol prices"), and cheap enough to run over every figure name on every miss.
+  const alfPairs = s => { const o = []; for (let i = 0; i < s.length - 1; i++) o.push(s.slice(i, i + 2)); return o; };
+  function alfDice(a, b) {
+    if (a === b) return 1;
+    const A = alfPairs(a), B = alfPairs(b);
+    if (!A.length || !B.length) return 0;
+    const pool = new Map();
+    A.forEach(g => pool.set(g, (pool.get(g) || 0) + 1));
+    let hit = 0;
+    B.forEach(g => { const n = pool.get(g) || 0; if (n > 0) { pool.set(g, n - 1); hit++; } });
+    return 2 * hit / (A.length + B.length);
+  }
+  const ALF_STOP = new Set("the a an of for is are was were what how much many and or to in on at me my mine i you your tell show about please can could do does did give".split(" "));
+  // every name a figure answers to, English plus the chosen language.
+  // Built once per language rather than on every miss.
+  let NAME_INDEX = null, NAME_INDEX_LANG = null;
+  function alfNameIndex() {
+    if (NAME_INDEX && NAME_INDEX_LANG === alfLang) return NAME_INDEX;
+    const out = new Map();
+    Object.entries(ALF_WORDS).forEach(([label, words]) => out.set(label, [label.toLowerCase(), ...words]));
+    allItems.forEach(i => {
+      const words = out.get(i.label) || [i.label.toLowerCase()];
+      const local = L10N(i.label);
+      if (local && local !== i.label) words.push(String(local).toLowerCase());
+      out.set(i.label, words);
+    });
+    NAME_INDEX = out;
+    NAME_INDEX_LANG = alfLang;
+    return out;
+  }
+  // the closest figures to what was actually typed, best first
+  function alfNear(q, n = 3) {
+    const toks = alfNorm(q).split(" ").filter(w => w.length > 2 && !ALF_STOP.has(w));
+    const tries = [];
+    toks.forEach((w, i) => { tries.push(w); if (toks[i + 1]) tries.push(`${w} ${toks[i + 1]}`); });
+    if (!tries.length) return [];
+    const scored = [];
+    alfNameIndex().forEach((words, label) => {
+      let best = 0;
+      words.forEach(p => tries.forEach(c => { const s = alfDice(c, p); if (s > best) best = s; }));
+      if (best >= 0.5) scored.push({ label, best });
+    });
+    return scored.sort((a, b) => b.best - a.best).slice(0, n).map(s => s.label);
+  }
+
+  /* ---- a small chart, sized for a chat bubble ---- */
+  function alfSpark(points, alt) {
+    const pts = (points || []).filter(p => typeof p.value === "number").slice(-24);
+    if (pts.length < 3) return "";
+    const vals = pts.map(p => p.value);
+    const min = Math.min(...vals), max = Math.max(...vals), span = (max - min) || 1;
+    const W = 208, H = 46, P = 4;
+    const x = i => P + i * (W - 2 * P) / (pts.length - 1);
+    const y = v => H - P - (v - min) / span * (H - 2 * P);
+    const d = pts.map((p, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(p.value).toFixed(1)}`).join("");
+    const rising = vals[vals.length - 1] >= vals[0];
+    return `<span class="alf-chart">
+      <svg class="alf-spark ${rising ? "up" : "down"}" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(alt || "")}">
+        <path class="alf-spark-area" d="${d}L${x(pts.length - 1).toFixed(1)},${H - P}L${x(0).toFixed(1)},${H - P}Z"/>
+        <path class="alf-spark-line" d="${d}"/>
+        <circle class="alf-spark-dot" cx="${x(pts.length - 1).toFixed(1)}" cy="${y(vals[vals.length - 1]).toFixed(1)}" r="3"/>
+      </svg>
+      <span class="alf-spark-ends">${esc(pts[0].date)} — ${esc(pts[pts.length - 1].date)}</span>
+    </span>`;
+  }
+
+  /* ---- what he was last talking about, so a follow-up makes sense ---- */
+  let alfLast = { item: null, country: null };
+  const alfForget = () => { alfLast = { item: null, country: null }; };
+
+  // the long annual series for a figure, or its own recent readings
+  const alfSeriesFor = it => {
+    const long = HIST[HIST_ALIAS[it.label] || it.label];
+    const own = seriesOf(it);
+    return (long && long.points && long.points.length > own.length) ? long.points : own;
+  };
+
+  // "and last year?", "why?", "where is that from?" — only reached when nothing else matched
+  function alfFollowUp(q) {
+    const it = alfLast.item;
+    if (!it) return null;
+    const u = unitBits(it);
+    const label = esc(L10N(it.label));
+
+    if (/^(why|why is|why was|how come)\b/.test(q)) {
+      const pts = seriesOf(it);
+      const prev = pts.length > 1 ? pts[pts.length - 2] : null;
+      const move = prev ? it.value - prev.value : 0;
+      const trend = prev
+        ? `<span class="alf-note">${T(move > 0 ? "reading.up" : move < 0 ? "reading.down" : "reading.flat", { from: showVal(prev.value, u), fromDate: esc(prev.date) })}</span>`
+        : "";
+      return `${T("follow.why", { label })} ${it.note && alfLang === "en" ? toneNote(it.note, it.tone) : ""}${trend}${alfSourceLine(it)}`.trim();
+    }
+
+    if (/(source|where.*(from|get)|who says|who published|is it true)/.test(q))
+      return `${T("follow.source", { label })} ${alfSourceLine(it) || esc(it.date || "")}`;
+
+    if (/(last year|a year ago|year before|previously|earlier|before that|what about (the )?(past|history)|since when|trend|history)/.test(q))
+      return alfChangeAnswer(it, q);
+
+    if (/(high|highest|peak|record|low|lowest|worst|best|weakest|strongest|cheapest|dearest|most expensive)/.test(q))
+      return alfExtremeAnswer(it, q);
+
+    if (/^(and|what about|how about|ok|okay)\b/.test(q) && q.split(" ").length <= 4)
+      return alfReadingAnswer(it);
+
+    return null;
+  }
+
+  const alfSourceLine = it => {
+    const src = it.seriesSource || it.autoSource || (HIST[HIST_ALIAS[it.label] || it.label] || {}).source || "";
+    return src ? `<span class="alf-note">${T("reading.from", { source: esc(src), date: esc(it.date || "") })}</span>` : "";
+  };
+
+  // a gap between two readings of the same figure: percentages move in points, not per cent
+  const alfGap = (diff, it, u) =>
+    (it.unit || "").trim() === "%" ? `${fmt(Math.abs(diff), 1)} points` : showVal(Math.abs(diff), u);
+
+  // how a figure has moved: to a named year if one is given, otherwise a year back.
+  // The "now" end is always the figure published on the page, never the last point of an
+  // annual series that may stop a year short of it.
+  function alfChangeAnswer(it, q) {
+    const pts = alfSeriesFor(it);
+    if (pts.length < 2) return null;
+    const u = unitBits(it);
+    const yearOf = p => +((String((p || {}).date || "").match(/\b(19|20)\d{2}\b/) || [])[0] || 0);
+    const now = { date: it.date || (pts[pts.length - 1] || {}).date, value: it.value };
+    const nowYear = yearOf(now);
+    const wanted = (q.match(/\b(19|20)\d{2}\b/) || [])[0];
+
+    let then = null;
+    if (wanted) then = pts.filter(p => String(p.date).includes(wanted)).slice(-1)[0] || null;
+    if (!then && nowYear) then = pts.filter(p => yearOf(p) === nowYear - 1).slice(-1)[0] || null;
+    if (!then) then = pts.filter(p => yearOf(p) < nowYear).slice(-1)[0] || pts[Math.max(0, pts.length - 13)];
+    if (!then || then.date === now.date) return null;
+
+    const diff = now.value - then.value;
+    // a relative percentage on top of a figure already measured in per cent reads as a second,
+    // different number for the same move, so it is only shown for levels and money
+    const pct = (it.unit || "").trim() !== "%" && then.value ? Math.abs(diff / then.value) * 100 : null;
+    const line = pts.some(p => p.date === now.date) ? pts : [...pts, now];
+    return `${T("change", {
+      label: esc(L10N(it.label)), from: showVal(then.value, u), fromDate: esc(then.date),
+      to: showVal(now.value, u), toDate: esc(now.date),
+      direction: T(diff > 0 ? "rose" : diff < 0 ? "fell" : "held"),
+      gap: alfGap(diff, it, u)
+    })}${pct !== null && isFinite(pct) ? ` <span class="alf-note">${T("change.pct", { pct: fmt(pct, 1) })}</span>` : ""}
+      ${alfSpark(line, `${it.label} over time`)}${alfOpenLink(it)}`;
+  }
+
+  // the high or low of a figure across everything the site holds
+  function alfExtremeAnswer(it, q) {
+    const pts = alfSeriesFor(it);
+    if (pts.length < 3) return null;
+    // "weakest" for a currency means the most cedis per dollar, so it belongs with the highs
+    const wantLow = /(low|lowest|least|smallest|best|strongest|cheapest)/.test(q) && !/(high|highest|peak|record|worst|weakest|dearest|most expensive)/.test(q);
+    const pick = pts.reduce((a, b) => (wantLow ? (b.value < a.value ? b : a) : (b.value > a.value ? b : a)));
+    const u = unitBits(it);
+    const now = { date: it.date || (pts[pts.length - 1] || {}).date, value: it.value };
+    const line = pts.some(p => p.date === now.date) ? pts : [...pts, now];
+    return `${T(wantLow ? "extreme.low" : "extreme.high", {
+      label: esc(L10N(it.label)), value: showVal(pick.value, u), date: esc(pick.date),
+      since: esc(pts[0].date), now: showVal(it.value, u), nowDate: esc(it.date || "")
+    })} ${alfSpark(line, `${it.label} over time`)}${alfOpenLink(it)}`;
+  }
+
+  const alfOpenLink = it => {
+    const key = readKey(it);
+    return key ? `<button type="button" class="alf-open-read" data-detail="read:${key}">${T("reading.open")}</button>` : "";
+  };
+
+  /* ---- two figures at once ---- */
+  const ALF_SPLIT = /\bvs\.?\b|\bversus\b|\bcompared (?:to|with)\b|\bagainst\b|\bor\b|\bthan\b|\bminus\b|\band\b/;
+  function alfCompare(q) {
+    // the classic one first: is money actually earning anything above inflation?
+    const pol = readBy("BoG policy rate"), infl = readBy("Inflation");
+    if (pol && infl && /(real (interest )?rate|above inflation|beat(s|ing)? inflation|ahead of inflation|policy rate.*inflation|inflation.*policy rate)/.test(q)) {
+      const real = pol.value - infl.value;
+      return T("real.rate", {
+        policy: fmt(pol.value, 1), policyDate: esc(pol.date || ""),
+        inflation: fmt(infl.value, 1), inflationDate: esc(infl.date || ""),
+        real: fmt(Math.abs(real), 1), direction: T(real >= 0 ? "above" : "below")
+      });
+    }
+    const parts = q.split(ALF_SPLIT);
+    if (parts.length < 2) return null;
+    const a = alfFindReading(parts[0]);
+    const b = alfFindReading(parts.slice(1).join(" "));
+    if (!a || !b || a === b) return null;
+    const ua = unitBits(a), ub = unitBits(b);
+    const same = (a.unit || "") === (b.unit || "");
+    const gap = same
+      ? ` <span class="alf-note">${T("compare.gap", {
+          higher: esc(L10N(a.value >= b.value ? a.label : b.label)),
+          gap: showVal(Math.abs(a.value - b.value), ua)
+        })}</span>` : "";
+    alfLast.item = a;
+    return `${T("compare", {
+      a: esc(L10N(a.label)), av: showVal(a.value, ua), ad: esc(a.date || ""),
+      b: esc(L10N(b.label)), bv: showVal(b.value, ub), bd: esc(b.date || "")
+    })}${gap}`;
+  }
+
+  /* ================= what Alfredo knows beyond the published readings =================
+   * He can read the three headline lists, the market board and the direction each figure has
+   * travelled, so "what is in the news", "how are the markets" and "what should I watch" are
+   * answerable from the page itself. Two rules hold throughout: he never fetches anything, and
+   * he never predicts a number. He will say which way something has moved, what is due, and
+   * what would change it — an outlook is a judgement, and this site does not make those up.
+   */
+  const ALF_NEWS_NAME = { ghana: "Ghana business", world: "world", africa: "African" };
+  const alfHeadlines = kind => kind === "ghana" ? newsItems() : worldStories(kind === "africa" ? "africa" : "global");
+
+  function alfHeadlineList(list, n = 4) {
+    return `<ul class="alf-list">${list.slice(0, n).map(i =>
+      `<li><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a><span class="alf-src">${esc(i.source)} · ${esc(timeAgo(i.published))}</span></li>`).join("")}</ul>`;
+  }
+
+  // Words that are about the act of asking for news rather than about a subject.
+  const ALF_NEWS_WORDS = /^(news|newses|headline|headlines|story|stories|report|reports|reporting|world|global|africa|african|continent|ghana|ghanaian|business|latest|recent|today|todays|now|happening|happened|going|summary|summarise|summarize|brief|briefing|update|updates|anything|something)$/;
+
+  function alfNewsAnswer(kind, q) {
+    const list = alfHeadlines(kind);
+    if (!list.length) return `I don't have any ${ALF_NEWS_NAME[kind]} headlines in front of me just now — the news job may not have run yet. Everything else on the dashboard I can still answer.`;
+
+    // a subject inside the question narrows the list
+    const words = alfNorm(q).split(" ").filter(w => w.length > 3 && !ALF_STOP.has(w) && !ALF_NEWS_WORDS.test(w));
+    const hits = words.length ? list.filter(i => words.some(w => `${i.title} ${i.summary || ""}`.toLowerCase().includes(w))) : [];
+    if (hits.length) return `Here is what I have on that — ${hits.length} ${hits.length === 1 ? "story" : "stories"} in the ${ALF_NEWS_NAME[kind]} list:${alfHeadlineList(hits, 5)}`;
+    if (words.length) return `I have ${list.length} ${ALF_NEWS_NAME[kind]} headlines, but none of them mention that. Here are the newest, in case one is close:${alfHeadlineList(list, 3)}`;
+
+    const sources = [...new Set(list.slice(0, 24).map(i => i.source))];
+    const named = sources.slice(0, 3).join(", ") + (sources.length > 3 ? ` and ${sources.length - 3} more` : "");
+    return `There are ${list.length} ${ALF_NEWS_NAME[kind]} headlines on the page, the newest from ${timeAgo(list[0].published)}, carried by ${named}. These are at the top:${alfHeadlineList(list)}`;
+  }
+
+  // The biggest movers on the market board, by size of the day's percentage change.
+  function alfMovers(n = 4) {
+    const M = marketsData();
+    if (!M || !M.world) return [];
+    return Object.values(M.world).flat()
+      .filter(x => x && typeof x.pct === "number" && isFinite(x.pct))
+      .sort((a, b) => Math.abs(b.pct) - Math.abs(a.pct))
+      .slice(0, n);
+  }
+  const alfMoveWord = p => p > 0 ? "up" : p < 0 ? "down" : "flat";
+
+  function alfMarketAnswer(q) {
+    const M = marketsData() || {};
+    const movers = alfMovers(4);
+
+    // Company-by-company prices are not carried: the exchange sells that feed, and every free
+    // republisher of it refused the site's servers. The index itself is published by the Bank
+    // of Ghana and is on the dashboard, so that is what he gives.
+    if (/\b(gse|stock exchange|listed compan|share price|equit)\b/.test(q)) {
+      const idx = alfRead("GSE Composite Index");
+      const bits = idx
+        ? [`The GSE Composite Index is <b>${fmt(idx.value, 0)}</b>, ${esc(idx.date || "")}. ${esc(idx.note || "")}`]
+        : [`I don't have the Ghana Stock Exchange index to hand just now.`];
+      bits.push(`I don't carry prices company by company — the exchange sells that feed, so this site reports the market as a whole rather than publishing figures it cannot stand behind.`);
+      return bits.join(" ");
+    }
+
+    if (!movers.length) return `The market board is empty at the moment — run <b>Update live rates</b> and I'll have the world indices, the commodities, crypto and the currency pairs.`;
+    const lines = movers.map(m => `<li>${esc(m.name)} <b>${alfMoveWord(m.pct)} ${fmt(Math.abs(m.pct), 2)}%</b><span class="alf-src">${esc(m.unit || "")} ${fmt(m.value, m.dec ?? 2)}</span></li>`).join("");
+    const rose = movers.filter(m => m.pct > 0).length;
+    const mood = rose > movers.length / 2 ? "More of them are up than down" : rose ? "It is mixed" : "They are mostly lower";
+    return `${mood} today. The biggest moves on the board:<ul class="alf-list">${lines}</ul>Exchanges close overnight and at weekends, so each price carries the moment it was quoted.`;
+  }
+
+  // Which way a published reading has travelled since the previous one on file.
+  function alfDirection(it) {
+    const s = (it.series || []).filter(p => p && typeof p.value === "number");
+    if (!s.length || typeof it.value !== "number") return null;
+    const prev = s[s.length - 1];
+    const diff = it.value - prev.value;
+    if (!isFinite(diff)) return null;
+    return { word: Math.abs(diff) < 1e-9 ? "unchanged" : diff > 0 ? "higher" : "lower", diff, from: prev };
+  }
+
+  const alfRead = label => allItems.find(i => i.label === label);
+
+  function alfBriefing() {
+    const t = Date.now();
+    const bits = [];
+    bits.push(`Ghana's public debt is running at ${alfMoney(debtAt(t))} right now, about ${sym()}${fmt(money(rate.total), 0)} a second on the pace between ${esc(P.label)} and ${esc(L.label)}.`);
+    const infl = alfRead("Inflation"), pol = alfRead("BoG policy rate");
+    if (infl && pol) bits.push(`Inflation is ${fmt(infl.value, infl.dec)}% for ${esc(infl.date)} and the policy rate is ${fmt(pol.value, pol.dec)}%, so money lent at policy is earning about ${fmt(pol.value - infl.value, 1)} points above inflation.`);
+    const usd = alfRead("US dollar");
+    if (usd) bits.push(`The cedi is at ${sym()}${fmt(usd.value, 4)} to the dollar.`);
+    const movers = alfMovers(1);
+    if (movers.length) bits.push(`On the world board the biggest move is ${esc(movers[0].name)}, ${alfMoveWord(movers[0].pct)} ${fmt(Math.abs(movers[0].pct), 2)}%.`);
+    const gh = alfHeadlines("ghana"), wd = alfHeadlines("world");
+    if (gh.length) bits.push(`In Ghana business news the top headline is “${esc(gh[0].title)}” — ${esc(gh[0].source)}, ${esc(timeAgo(gh[0].published))}.`);
+    if (wd.length) bits.push(`Around the world: “${esc(wd[0].title)}” — ${esc(wd[0].source)}.`);
+    return bits.join(" ");
+  }
+
+  // "What to expect" — honestly answered. Direction of travel, what is due, what would move it.
+  // Deliberately no projected numbers: this site has never printed a figure nobody published.
+  function alfWatch() {
+    const bits = [`I can run the counters forward if you name a date — ask me what the debt or the debt-to-GDP ratio will be by December. What I won't do is guess at a surveyed figure like inflation. Here is which way things are travelling and what is due.`];
+    const moved = [];
+    for (const label of ["Inflation", "BoG policy rate", "91-day T-bill", "US dollar", "Gold price"]) {
+      const it = alfRead(label);
+      const d = it && alfDirection(it);
+      if (!d || d.word === "unchanged") continue;
+      moved.push(`${esc(it.label.toLowerCase())} is ${d.word} than at ${esc(d.from.date || d.from.label || "the previous reading")} (${fmt(d.from.value, it.dec)}${esc(it.unit || "")} → ${fmt(it.value, it.dec)}${esc(it.unit || "")})`);
+    }
+    if (moved.length) bits.push(`Since the last readings on file: ${moved.join("; ")}.`);
+    const due = allItems.filter(i => staleDays(i)).slice(0, 4);
+    if (due.length) bits.push(`Due an update, by the age of what is published: ${due.map(i => esc(i.label.toLowerCase())).join(", ")}. When those land the page picks them up on its own.`);
+    bits.push(`The debt counter will keep climbing whatever happens — it counts forward from the last two official totals, so it moves at the same pace until a new figure is published.`);
+    bits.push(`If you want my honest advice on what matters: watch inflation against the policy rate, and watch the cedi. Those two set nearly everything else on this page.`);
+    return bits.join(" ");
+  }
+
+  /* ================= projecting a counter forward =================
+   * The debt clock already extrapolates: it counts forward from the last two official totals
+   * at the pace measured between them. Asking what the figure will be in December is the same
+   * arithmetic run further, so it is a fair thing to answer — as long as it is called what it
+   * is. Every projection here says the assumption out loud and shows the sum. Readings that
+   * are surveyed rather than counted (inflation, unemployment, the T-bill) are NOT projected:
+   * there is no pace to run forward, and inventing one would be a forecast wearing a sum's
+   * clothing.
+   */
+  const ALF_MONTHS = { january: 0, february: 1, march: 2, april: 3, may: 4, june: 5, july: 6, august: 7, september: 8, october: 9, november: 10, december: 11, jan: 0, feb: 1, mar: 2, apr: 3, jun: 5, jul: 6, aug: 7, sep: 8, sept: 8, oct: 9, nov: 10, dec: 11 };
+  const endOfMonth = (y, m) => Date.UTC(y, m + 1, 0, 23, 59, 59);
+
+  function alfTargetDate(q) {
+    const now = new Date();
+    let m = /\bin (\d{1,3}) (day|days|week|weeks|month|months|year|years)\b/.exec(q);
+    if (m) {
+      const n = +m[1], d = new Date(now);
+      if (/month/.test(m[2])) d.setUTCMonth(d.getUTCMonth() + n);
+      else if (/year/.test(m[2])) d.setUTCFullYear(d.getUTCFullYear() + n);
+      else if (/week/.test(m[2])) d.setUTCDate(d.getUTCDate() + n * 7);
+      else d.setUTCDate(d.getUTCDate() + n);
+      return { at: d.getTime(), label: dateFmt(d.toISOString()) };
+    }
+    m = /\b(?:by|in|at|end of|before|come)\s+(?:the\s+)?(january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|sept|oct|nov|dec)\b(?:\s+(\d{4}))?/.exec(q);
+    if (m) {
+      const mo = ALF_MONTHS[m[1]];
+      let y = m[2] ? +m[2] : now.getUTCFullYear();
+      if (!m[2] && mo < now.getUTCMonth()) y++;              // "by March" said in September means next March
+      const at = endOfMonth(y, mo);
+      return { at, label: `the end of ${dateFmt(new Date(at).toISOString()).replace(/^\d+\s/, "")}` };
+    }
+    if (/\b(end of (the )?year|year.?end|by christmas|31 december|december 31)\b/.test(q)) {
+      const at = endOfMonth(now.getUTCFullYear(), 11);
+      return { at, label: `the end of ${now.getUTCFullYear()}` };
+    }
+    if (/\bnext year\b/.test(q)) {
+      const at = endOfMonth(now.getUTCFullYear() + 1, 11);
+      return { at, label: `the end of ${now.getUTCFullYear() + 1}` };
+    }
+    m = /\b(20[2-9]\d)\b/.exec(q);
+    if (m && +m[1] > now.getUTCFullYear()) {
+      const at = endOfMonth(+m[1], 11);
+      return { at, label: `the end of ${m[1]}` };
+    }
+    return null;
+  }
+
+  const ALF_PROJECTABLE = [
+    [/(debt to gdp|debt-to-gdp|ratio|per cent of gdp|percent of gdp)/, "ratio", "debt-to-GDP", t => LIVE.ratio[0](t), v => `${fmt(v, 1)}%`],
+    [/(per person|per head|each (ghanaian|person)|per capita)/, "percap", "debt per person", t => LIVE.percap[0](t), v => alfMoney(v)],
+    [/(domestic debt|owed at home)/, "dom", "domestic debt", t => LIVE.dom[0](t), v => alfMoney(v)],
+    [/(external debt|foreign debt|owed abroad)/, "ext", "external debt", t => LIVE.ext[0](t), v => alfMoney(v)],
+    [/(population|how many people)/, "pop", "the population", t => popAt(t), v => fmt(v, 0)],
+    [/(debt|owe|borrow)/, "debt", "the total debt", t => debtAt(t), v => alfMoney(v)]
+  ];
+
+  function alfProject(q) {
+    const target = alfTargetDate(q);
+    if (!target) return null;
+    if (target.at <= Date.now()) return `That date has already passed, so I can give you the figure rather than a projection — ask me without the date and I'll read it off the counter.`;
+
+    const hit = ALF_PROJECTABLE.find(([re]) => re.test(q));
+    if (!hit) {
+      // Named a date but not something the counters extrapolate.
+      return `I can only run a figure forward when the dashboard already counts it forward — the debt, the debt-to-GDP ratio, debt per person, the domestic and external split, and the population. Inflation, the T-bill and the rest are surveyed and published, not counted, so there is no pace to project and I would only be guessing. Ask me about one of the counters with your date, or ask what to watch and I'll tell you which way things are travelling.`;
+    }
+    const [, , name, calc, show] = hit;
+    const now = Date.now();
+    const a = calc(now), b = calc(target.at);
+    const days = Math.max(1, Math.round((target.at - now) / DAY / SEC));
+    const diff = b - a;
+    const dir = diff > 0 ? "higher" : diff < 0 ? "lower" : "unchanged";
+
+    let arith = "";
+    if (hit[1] === "ratio") {
+      arith = `The ratio is the debt divided by nominal GDP of ${alfMoney(D.debt.nominalGdp)}, which is the ${esc(D.debt.gdpLabel || "latest published")} figure and is held flat — so this shows the debt growing against an economy that is not growing in the sum. Real GDP will rise over the same period, which would pull the true ratio below this.`;
+    } else if (hit[1] === "pop") {
+      arith = `That grows at ${fmt(D.population.growth * 100, 1)}% a year from the published projection.`;
+    } else {
+      arith = `That is ${sym()}${fmt(money(rate.total), 0)} a second for ${fmt(days, 0)} days, the pace measured between ${esc(P.label)} and ${esc(L.label)}.`;
+    }
+
+    return `<b>${show(b)}</b> by ${esc(target.label)} — ${esc(name)}, ${dir === "unchanged" ? "about where it is now" : `${show(Math.abs(diff))} ${dir} than the ${show(a)} showing right now`}. `
+      + `${arith} `
+      + `<span class="alf-note">This is a projection, not a forecast. It is the dashboard's own arithmetic run forward and it assumes today's pace simply continues — no new borrowing decision, no repayment, no shock. Treat it as "where this ends up if nothing changes", which is the one thing that never quite happens.</span>`;
+  }
+
+  /* ================= the ideas behind the figures =================
+   * Plain-language explanations, written for somebody who has not studied economics. They are
+   * general knowledge rather than anything about Ghana specifically — where a Ghanaian figure
+   * exists, it gets added underneath so the idea and the number arrive together.
+   */
+  const ALF_TEACH = [
+    ["inflation", "Inflation is how fast prices are rising, measured as a percentage over twelve months. If inflation is 5%, something that cost GH¢100 a year ago costs about GH¢105 now. The most-missed point: when inflation <em>falls</em>, prices are still rising — just more slowly. Prices only fall when inflation goes below zero, which is called deflation and is rarer and usually worse."],
+    ["deflation", "Deflation is inflation below zero — prices actually falling. It sounds good and generally is not: people put off buying because things will be cheaper next month, so businesses sell less, cut jobs, and the cycle deepens."],
+    ["gross domestic product", "GDP is the value of everything a country produces in a year. \"Nominal\" GDP counts it at today's prices; \"real\" GDP strips inflation out, so real growth tells you whether the country actually produced more rather than just charged more."],
+    ["gdp", "GDP is the value of everything a country produces in a year. \"Nominal\" GDP counts it at today's prices; \"real\" GDP strips inflation out, so real growth tells you whether the country actually produced more rather than just charged more."],
+    ["debt to gdp", "The debt-to-GDP ratio is what a country owes divided by what it produces in a year, as a percentage. It matters more than the raw debt because it asks whether the country can carry the load: the same GH¢100bn is crushing for a small economy and comfortable for a large one. It can fall two ways — paying debt down, or growing the economy faster than the debt."],
+    ["policy rate", "The policy rate is what the central bank charges commercial banks to borrow. It is the lever monetary policy is pulled with: raise it and borrowing gets dearer everywhere, which cools spending and, in time, inflation. Lower it and the opposite happens. Every other interest rate in the country is built on top of it."],
+    ["real interest rate", "The real interest rate is the interest rate minus inflation. If a bank pays 10% and inflation is 12%, you are earning 10% and losing 12% — a real rate of minus 2%, so your money buys less at the end of the year than at the start. It is the number that tells you whether saving is actually worth it."],
+    ["treasury bill", "A treasury bill is a short-term loan to the government, usually 91, 182 or 364 days. You buy it below face value and are paid the full face value at maturity; the difference is your return. They are considered the safest local investment because the government would have to fail to repay for you to lose."],
+    ["t-bill", "A treasury bill is a short-term loan to the government, usually 91, 182 or 364 days. You buy it below face value and are paid the full face value at maturity; the difference is your return. They are the benchmark every other local interest rate is judged against."],
+    ["bond", "A bond is a longer-term loan to a government or company. You lend a sum, receive interest (the \"coupon\") at fixed intervals, and get the sum back at the end. Bond prices move opposite to interest rates: when rates rise, existing bonds paying the old lower rate become less attractive, so their price falls."],
+    ["eurobond", "A Eurobond is a bond issued in a foreign currency — for Ghana, usually US dollars — and sold to international investors. The catch is that it has to be repaid in that currency, so if the cedi weakens the debt gets heavier without a single extra dollar being borrowed."],
+    ["budget deficit", "A deficit is spending more in a year than you raise in revenue. The gap has to be filled by borrowing, which is where debt comes from. A surplus is the opposite — raising more than you spend."],
+    ["primary balance", "The primary balance is the budget balance before interest payments are counted. It answers a specific question: leaving aside the cost of old debt, is the government living within its means today? A primary surplus with an overall deficit means the debt problem is inherited rather than being made worse."],
+    ["fiscal policy", "Fiscal policy is what the government does with taxing and spending. Monetary policy is what the central bank does with interest rates and the money supply. They are separate hands on separate levers, and they do not always pull the same way."],
+    ["monetary policy", "Monetary policy is the central bank's control of interest rates and the supply of money, aimed mainly at keeping inflation under control. Fiscal policy — taxing and spending — belongs to the government instead."],
+    ["exchange rate", "An exchange rate is the price of one currency in another. When it takes more cedis to buy a dollar, the cedi has weakened: imports get dearer, exports earn more in cedi terms, and any debt owed in dollars grows in cedi terms without new borrowing."],
+    ["depreciation", "Depreciation is a currency losing value against another on the market. Devaluation is the same thing done deliberately by the authorities. Either way, imports cost more and foreign-currency debt gets heavier."],
+    ["devaluation", "Devaluation is an official decision to lower a currency's value. Depreciation is the market doing it on its own. The effect on prices is the same: imports cost more."],
+    ["foreign reserves", "Reserves are the foreign currency a central bank holds. They pay for imports and defend the exchange rate. The usual measure is months of import cover, and roughly three months is the conventional comfort line."],
+    ["remittance", "Remittances are money sent home by people working abroad. For Ghana they arrive as foreign currency, exactly like export earnings, and they are unusually steady — they tend to hold up in the years when exports fall."],
+    ["balance of trade", "The trade balance is exports minus imports. A surplus means more money coming in from trade than going out; a deficit means the opposite, and it has to be paid for somehow — from reserves, or by borrowing."],
+    ["current account", "The current account is the trade balance plus income and transfers, including remittances. It is the broader measure of whether a country is earning more from the rest of the world than it spends."],
+    ["credit rating", "A credit rating is an agency's judgement of how likely a borrower is to repay. Ratings run from AAA down through B and C to D for default. Below BBB− is called \"sub-investment grade\" or \"junk\", which raises what a country pays to borrow because some large funds are not permitted to hold it."],
+    ["recession", "A recession is a sustained fall in economic activity — the common rule of thumb is two consecutive quarters of shrinking real GDP, though the fuller definition looks at employment and incomes too."],
+    ["compound interest", "Compound interest is interest earned on interest. GH¢100 at 10% is GH¢110 after a year, then GH¢121 after two — the second year earns on GH¢110, not GH¢100. Over long periods this is why debt and savings both grow faster than people expect."],
+    ["stock exchange", "A stock exchange is a market where shares in listed companies are bought and sold. Buying a share makes you a part-owner: you may receive a share of the profits as a dividend, and the share price rises or falls with what people will pay for that ownership."],
+    ["dividend", "A dividend is a share of a company's profit paid out to its shareholders, usually as an amount per share. A company can also keep the profit and reinvest it instead, which is why some healthy companies pay nothing."],
+    ["market capitalisation", "Market capitalisation is the share price multiplied by the number of shares — the market's price for the whole company. It is how you compare companies fairly, because a high share price alone says nothing about size."],
+    ["money supply", "The money supply is the total money circulating in an economy. If it grows much faster than the economy produces, there is more money chasing the same goods, which pushes prices up — one of the oldest explanations of inflation."],
+    ["imf", "The International Monetary Fund lends to countries in balance-of-payments difficulty. The loans come with conditions — usually spending cuts, revenue measures and reforms — which is why an IMF programme is politically heavy as well as financially significant."],
+    ["value added tax", "VAT is a tax charged on the value added at each stage of production, collected by businesses and ultimately paid by the final buyer. Because everyone pays the same rate regardless of income, it takes a larger share of a poor household's spending than a rich one's."],
+    ["vat", "VAT is a tax charged on the value added at each stage of production and ultimately paid by the final buyer. Because everyone pays the same rate regardless of income, it takes a larger share of a poor household's spending than a rich one's."],
+    ["liquidity", "Liquidity is how easily something can be turned into cash without moving its price. Cash is perfectly liquid; a house is not. A market described as \"thin\" or illiquid moves sharply on small trades, which is why some quoted prices sit still for days and then jump."],
+    ["interest rate", "An interest rate is the price of borrowing money, as a percentage per year. What matters for your pocket is the real rate — the interest rate minus inflation — because that is what says whether your money is actually gaining or losing value."]
+  ];
+  // onlyIdeas: answer only when the thing asked about is an idea with no published figure of
+  // its own. "Compound interest" and "a eurobond" are ideas; "inflation" is a reading, and
+  // somebody typing that wants Ghana's number, not a lecture. This is what keeps the concepts
+  // from stealing questions the dashboard can answer with a figure.
+  // Ideas the dashboard also publishes a figure for. Somebody typing one of these wants
+  // Ghana's number first, so they never short-circuit the figure lookup — they are still
+  // explained when the question explicitly asks to have them explained.
+  const ALF_OWN_TOPICS = new Set(["inflation", "gdp", "gross domestic product", "debt to gdp",
+    "policy rate", "exchange rate", "foreign reserves", "remittance", "treasury bill", "t-bill",
+    "balance of trade", "stock exchange"]);
+
+  function alfTeach(q, onlyIdeas) {
+    const hits = ALF_TEACH.filter(([k]) => q.includes(k)).sort((a, b) => b[0].length - a[0].length);
+    if (!hits.length) return null;
+    const [key, text] = hits[0];
+    const own = ALF_OWN_TOPICS.has(key);
+    if (onlyIdeas && own) return null;
+    // If Ghana has a figure for it, the idea and the number belong together.
+    const it = alfFindReading(key) || alfFindReading(q);
+    const num = it && typeof it.value === "number"
+      ? `<span class="alf-note">Ghana's figure: <b>${fmt(it.value, it.dec)}${esc(it.unit || "")}</b>, ${esc(it.date || "")}.</span>` : "";
+    return text + num;
+  }
+
+  /* ================= weather =================
+   * The one thing on this page fetched live by the reader's own browser. It is a free service
+   * that needs no key and permits browser requests; if it is unreachable Alfredo says so
+   * plainly rather than showing nothing.
+   */
+  const ALF_PLACES = {
+    accra: [5.556, -0.1969, "Accra"], kumasi: [6.6885, -1.6244, "Kumasi"],
+    takoradi: [4.8845, -1.7554, "Takoradi"], "sekondi": [4.9344, -1.7137, "Sekondi-Takoradi"],
+    tamale: [9.4008, -0.8393, "Tamale"], "cape coast": [5.1053, -1.2466, "Cape Coast"],
+    ho: [6.6, 0.4713, "Ho"], sunyani: [7.3349, -2.3268, "Sunyani"],
+    koforidua: [6.0941, -0.2591, "Koforidua"], bolgatanga: [10.7856, -0.8514, "Bolgatanga"],
+    wa: [10.0601, -2.5099, "Wa"], techiman: [7.5907, -1.9383, "Techiman"],
+    tema: [5.6698, -0.0166, "Tema"], obuasi: [6.2027, -1.6631, "Obuasi"]
+  };
+  // WMO weather codes, in words
+  const WMO = {
+    0: "clear sky", 1: "mainly clear", 2: "partly cloudy", 3: "overcast", 45: "fog", 48: "freezing fog",
+    51: "light drizzle", 53: "drizzle", 55: "heavy drizzle", 56: "freezing drizzle", 57: "freezing drizzle",
+    61: "light rain", 63: "rain", 65: "heavy rain", 66: "freezing rain", 67: "freezing rain",
+    71: "light snow", 73: "snow", 75: "heavy snow", 77: "snow grains",
+    80: "light rain showers", 81: "rain showers", 82: "violent rain showers",
+    85: "snow showers", 86: "heavy snow showers", 95: "a thunderstorm", 96: "a thunderstorm with hail", 99: "a thunderstorm with hail"
+  };
+  const wmoWord = c => WMO[c] || "changeable weather";
+
+  function alfPlace(q) {
+    for (const [key, v] of Object.entries(ALF_PLACES)) if (q.includes(key)) return v;
+    return ALF_PLACES.accra;
+  }
+
+  async function alfWeatherAnswer(q) {
+    const [lat, lon, name] = alfPlace(q);
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}`
+      + `&current=temperature_2m,relative_humidity_2m,wind_speed_10m,weather_code`
+      + `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max`
+      + `&timezone=Africa%2FAccra&forecast_days=4`;
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const j = await res.json();
+      const c = j.current || {}, d = j.daily || {};
+      const day = (n) => {
+        const when = n === 0 ? "Today" : new Date(`${d.time[n]}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "long", timeZone: "UTC" });
+        const rain = d.precipitation_probability_max && d.precipitation_probability_max[n];
+        return `<li><b>${esc(when)}</b> ${esc(wmoWord(d.weather_code[n]))}, ${fmt(d.temperature_2m_min[n], 0)}–${fmt(d.temperature_2m_max[n], 0)}°C${typeof rain === "number" ? `<span class="alf-src">${fmt(rain, 0)}% chance of rain</span>` : ""}</li>`;
+      };
+      const days = (d.time || []).map((_, n) => n).slice(0, 4).map(day).join("");
+      return `In <b>${esc(name)}</b> right now it is <b>${fmt(c.temperature_2m, 0)}°C</b> with ${esc(wmoWord(c.weather_code))}`
+        + `${typeof c.relative_humidity_2m === "number" ? `, humidity ${fmt(c.relative_humidity_2m, 0)}%` : ""}`
+        + `${typeof c.wind_speed_10m === "number" ? `, wind ${fmt(c.wind_speed_10m, 0)} km/h` : ""}.`
+        + `<ul class="alf-list">${days}</ul>`
+        + `<span class="alf-note">Forecast from Open-Meteo, read by your browser just now. Everything else I tell you comes from this site's own data files.</span>`;
+    } catch (e) {
+      return `I couldn't reach the weather service just then — that one is fetched live, so it needs a working connection. Everything on the dashboard I can still answer from the page itself.`;
+    }
+  }
 
   function alfAnswer(raw) {
     const local = alfLocalIntents(raw);
-    const q = alfNorm(`${raw} ${local.tags.join(" ")}`);
+    let q = alfNorm(`${raw} ${local.tags.join(" ")}`);
     const t0 = Date.now();
     const t = t0;
     if (!q) return null;
+
+    // manners first, so "thank you Alfredo" is taken as thanks and not as his name
+    if (local.hit.has("thanks") || /\b(thanks|thank you|thank u|thankyou|thx|i appreciate|much obliged|well done|good job|nice one)\b/.test(q))
+      return T("thanks");
+
+    // apostrophes are stripped before matching, so "that's all" arrives as "that s all"
+    if (local.hit.has("bye") || /\b(bye|goodbye|good bye|see you|goodnight|good night|that s all|thats all|i m done|im done|nothing else|no more questions)\b/.test(q))
+      return T("bye");
+
+    if (local.hit.has("howareyou") || /\b(how are you|how you dey|how far|are you (ok|well|fine)|hope you are well)\b/.test(q))
+      return T("howareyou");
+
+    // His name. Said on its own it is someone calling him, and he answers at once. Said as
+    // part of a real question — "Alfredo, what is inflation?" — the name is dropped and the
+    // question answered, which is what the person actually wanted.
+    if (/\balfredo\b/.test(q)) {
+      const rest = q.replace(/\b(alfredo|hi|hello|hey|yo|ok|okay|please|oh|eh)\b/g, " ").replace(/[^a-z0-9%]+/g, " ").trim();
+      if (!rest || rest.length < 4) return T("iam");
+      q = q.replace(/\balfredo\b/g, " ").replace(/\s+/g, " ").trim();
+    }
 
     if (local.greet || /^(hi|hello|hey|good (morning|afternoon|evening)|ete sen|akwaaba)\b/.test(q))
       return T("hello");
 
     if (local.help || /(help|what can you|how do you work|who are you)/.test(q))
       return T("help", { count: allItems.length });
+
+    /* ---- the ordinary things people say to a screen, answered like a person would ---- */
+    if (/\b(who (made|built|created|wrote) you|who is your (maker|owner)|where do you (come from|get your))\b/.test(q))
+      return `I'm Alfredo, the assistant built into this page. I read the same figures you can see on it — the Bank of Ghana rate, the Ministry of Finance numbers, the news feeds — and nothing else. Every figure I give you has its source on the card it comes from.`;
+    if (/\b(are you (a |an )?(robot|human|person|real|ai|bot|computer|machine))\b/.test(q))
+      return `Not a person, no — I'm a small piece of the page itself. It does mean I'm never guessing: if a number isn't published on this dashboard, I'd rather tell you I don't have it.`;
+    if (/\b(sorry|my bad|my fault|apolog)/.test(q) && q.split(" ").length <= 6)
+      return `No need to apologise at all. Ask me anything you like — I don't mind repeating myself.`;
+    if (/\b(nice|cool|great|lovely|beautiful|brilliant|impressive|amazing|well done|good work|i like (this|it|you)|i love (this|it))\b/.test(q) && q.split(" ").length <= 7)
+      return `That's kind of you, thank you. Is there another figure you'd like me to pull up?`;
+    if (/\b(ok|okay|alright|all right|fine|got it|understood|i see|noted|sure|yes|yeah)\b/.test(q) && q.split(" ").length <= 2)
+      return `Good. I'm here whenever you need the next one.`;
+    if (/\b(what (is )?your name|your name)\b/.test(q))
+      return `Alfredo. Call my name any time and I'll answer.`;
+
+    /* ---- weather: the one answer fetched live, so it is handed back as work to do ---- */
+    if (/\b(weather|forecast|rain|raining|sunny|temperature|hot|cold|humid|harmattan|climate today|how is the sky)\b/.test(q)
+      && !/\b(inflation|debt|rate|market|price)\b/.test(q))
+      return { work: () => alfWeatherAnswer(q) };
+
+    /* ---- an idea with no figure of its own: explain it before anything else claims the words.
+       "Compound interest" was being answered with the budget's interest line, because the word
+       interest matches a reading. A concept the dashboard does not publish is safe to take. ---- */
+    const idea = alfTeach(q, true);
+    if (idea) return idea;
+
+    /* ---- projecting a counter to a date the person named ---- */
+    // "will" on its own, because "what will inflation be by December" puts a word between
+    // "will" and "be". Paired with a date the person actually named, it is a safe signal.
+    if (/\b(will|going to|projection|project|forecast|expect|estimate)\b/.test(q) && alfTargetDate(q)) {
+      const forward = alfProject(q);
+      if (forward) return forward;
+    }
+
+    /* ---- the news, the markets, a briefing, and what to watch ---- */
+    if (/\b(brief|briefing|summary|summarise|summarize|overview|catch me up|what should i know|tell me everything|how are things|state of (the )?(economy|things)|the big picture)\b/.test(q))
+      return alfBriefing();
+
+    if (/\b(what to expect|expect|outlook|forecast|predict|prediction|what next|what happens next|what should i watch|going forward|future|coming (weeks|months)|projection)\b/.test(q))
+      return alfWatch();
+
+    if (/\b(africa|african|continent)\b/.test(q) && /\b(news|headline|story|stories|happening|report)\b/.test(q))
+      return alfNewsAnswer("africa", q);
+    if (/\b(world|global|international|abroad|overseas)\b/.test(q) && /\b(news|headline|story|stories|happening|report)\b/.test(q))
+      return alfNewsAnswer("world", q);
+    if (/\b(news|headline|headlines|top story|what.s happening|what happened|any stories)\b/.test(q))
+      return alfNewsAnswer("ghana", q);
+
+    if (/\b(gse|stock exchange|listed compan|share price|equities)\b/.test(q)
+      || (/\b(market|markets|trading|movers|moving)\b/.test(q) && !/\b(mobile money|momo)\b/.test(q)))
+      return alfMarketAnswer(q);
 
     // the live counters
     if (/(debt per person|each person|per capita|how much do i owe|每)/.test(q) || (/per person/.test(q) && /debt/.test(q)))
@@ -1846,7 +3813,8 @@
       return T("debt.household", { n, share: alfMoney(debtAt(t) / popAt(t) * n), ytd: alfMoney((debtAt(t) - P.total) / popAt(t) * n) });
     }
 
-    if (/(total debt|public debt|how much (does|do) ghana owe|debt (right )?now|national debt|what is the debt|how much debt|the debt)/.test(q) || /^debt\b/.test(q))
+    // "debt to gdp" begins with the word debt but is a question about the ratio, handled below
+    if ((/(total debt|public debt|how much (does|do) ghana owe|debt (right )?now|national debt|what is the debt|how much debt|the debt)/.test(q) || /^debt\b/.test(q)) && !/(gdp|ratio|per cent of|percent of)/.test(q))
       return T("debt.total", { now: alfMoney(debtAt(t)), latestLabel: esc(L.label), latest: alfMoney(L.total), perSecond: `${sym()}${fmt(money(rate.total), 0)}`, prevLabel: esc(P.label) });
 
     if (/(domestic debt|owed at home)/.test(q)) return T("debt.domestic", { value: alfMoney(LIVE.dom[0](t)), share: fmt(L.domestic / L.total * 100, 1), label: esc(L.label) });
@@ -1897,42 +3865,119 @@
       const gh = AFRICA.countries.GHA;
       const named = namedCountry;
       if (named && named.iso !== "GHA") {
+        alfLast.country = named;
         const diff = gh.latest.value - named.value;
         const per = p => esc(p.latest.period || p.latest.year || "");
-        return T("africa.country", { country: esc(named.name), value: fmt(named.value, 1), period: per(named), ghana: fmt(gh.latest.value, 1), ghanaPeriod: per(gh), gap: fmt(Math.abs(diff), 1), direction: T(diff > 0 ? "higher" : "lower") });
+        const size = named.gdp ? ` <span class="alf-note">${T("africa.gdp", { country: esc(named.name), gdp: fmt(named.gdp.value, named.gdp.value < 10 ? 1 : 0), year: esc(named.gdp.year) })}</span>` : "";
+        return T("africa.country", { country: esc(named.name), value: fmt(named.value, 1), period: per(named), ghana: fmt(gh.latest.value, 1), ghanaPeriod: per(gh), gap: fmt(Math.abs(diff), 1), direction: T(diff > 0 ? "higher" : "lower") }) + size;
       }
       const rank = list.findIndex(c => c.iso === "GHA") + 1;
       return `${T("africa.rank", { ghana: fmt(gh.latest.value, 1), period: esc(gh.latest.period || gh.latest.year || ""), rank: ordinal(list.length - rank + 1), count: list.length, highest: esc(list[list.length - 1].name), highestValue: fmt(list[list.length - 1].value, 1), lowest: esc(list[0].name), lowestValue: fmt(list[0].value, 1) })} <a href="#africa">${T("africa.open")}</a>.`;
     }
 
+    // two figures at once: "the policy rate against inflation", "petrol or diesel"
+    const two = alfCompare(q);
+    if (two) return two;
+
+    // Asked to explain rather than to quote: the idea comes first, with Ghana's figure under
+    // it. "What is inflation" still gives the number, because that is what people mean by it.
+    if (/\b(explain|define|definition|what does .* mean|meaning of|what do you mean by|in simple terms|simply put|teach me|help me understand|how does .* work|difference between)\b/.test(q)) {
+      const lesson = alfTeach(q);
+      if (lesson) return lesson;
+    }
+
     // any published reading, with its history
     const it = alfFindReading(q);
-    if (it) return alfReadingAnswer(it);
+    if (it) {
+      alfLast.item = it;
+      if (/(chang|mov|ris|ros|fall|fell|since|a year ago|last year|trend|history|over time)/.test(q)) {
+        const moved = alfChangeAnswer(it, q);
+        if (moved) return moved;
+      }
+      if (/(high|highest|peak|record|low|lowest|worst|best|weakest|strongest|cheapest|dearest|most expensive)/.test(q)) {
+        const ext = alfExtremeAnswer(it, q);
+        if (ext) return ext;
+      }
+      return alfReadingAnswer(it);
+    }
+
+    // nothing named at all: it may be following on from the last answer
+    const follow = alfFollowUp(q);
+    if (follow) return follow;
+
+    // no figure by that name, but it may be an idea he can explain
+    const taught = alfTeach(q);
+    if (taught) return taught;
 
     return null;
   }
 
+  // A wall display can be left open for days. Keeping every message would grow the page
+  // without limit, so the oldest fall away once the conversation is long — well past
+  // anything a reader would scroll back through.
+  const ALF_LOG_MAX = 60;
   function alfSay(who, html) {
     const div = document.createElement("div");
     div.className = `alf-msg ${who}`;
     div.innerHTML = html;
     alfLog.appendChild(div);
+    while (alfLog.children.length > ALF_LOG_MAX) alfLog.removeChild(alfLog.firstChild);
     alfLog.scrollTop = alfLog.scrollHeight;
     return div;
   }
 
+  // Three dots while he works. Even a local answer arrives in under a millisecond, and a reply
+  // that appears in the same instant as the question reads as a lookup table rather than as
+  // somebody listening — so the dots hold for a short beat. Long enough to feel considered,
+  // short enough that nobody waits for it.
+  const alfThinking = () => alfSay("alf", `<span class="alf-dots" aria-label="Thinking"><i></i><i></i><i></i></span>`);
+  const settle = (bubble, html) => { bubble.innerHTML = html; alfLog.scrollTop = alfLog.scrollHeight; };
+  const beat = ms => new Promise(r => setTimeout(r, ms));
+
   async function alfAsk(question) {
     alfSay("you", esc(question));
     const local = alfAnswer(question);
-    if (local) { alfSay("alf", local); speak(local); return; }
+
+    // an answer that has to go and fetch something: dots until it lands
+    if (local && typeof local === "object" && typeof local.work === "function") {
+      const bubble = alfThinking();
+      let html;
+      // the dots hold for at least a beat even when the answer comes back instantly, so a
+      // failure does not flash past before anyone has seen him thinking
+      try { [html] = await Promise.all([local.work(), beat(450)]); }
+      catch (e) { html = `Something went wrong working that out. Try me again in a moment.`; }
+      settle(bubble, html);
+      speak(html);
+      return;
+    }
+
+    if (local) {
+      const bubble = alfThinking();
+      await beat(420 + Math.round(Math.random() * 260));
+      settle(bubble, local);
+      speak(local);
+      return;
+    }
 
     if (!ALF.apiUrl) {
+      // a dead end helps nobody: offer the figures closest to what was actually asked
+      const near = alfNear(question);
+      noteMiss(question, near);
+      const bubble = alfThinking();
+      await beat(520 + Math.round(Math.random() * 280));
+      if (near.length) {
+        const chips = near.map(l => `<button type="button" class="alf-guess" data-ask="${esc(l)}">${esc(L10N(l))}</button>`).join("");
+        const lead = T("unknown.near");
+        settle(bubble, `${lead}<span class="alf-guesses">${chips}</span>`);
+        speak(lead);
+        return;
+      }
       const miss = T("unknown", { count: allItems.length });
-      alfSay("alf", miss);
+      settle(bubble, miss);
       speak(miss);
       return;
     }
-    const waiting = alfSay("alf", `<span class="alf-wait">Asking…</span>`);
+    const waiting = alfThinking();
     try {
       const res = await fetch(ALF.apiUrl, {
         method: "POST",
@@ -1947,6 +3992,24 @@
       waiting.innerHTML = `I couldn't reach the assistant just then. Everything on the dashboard I can still answer myself.`;
     }
   }
+
+  // Questions Alfredo could not answer, kept in this browser only so the person running the
+  // site can see what people actually ask and teach him those words. Nothing is sent anywhere.
+  function noteMiss(question, near) {
+    try {
+      const list = JSON.parse(recall("alf.misses") || "[]");
+      list.unshift({ q: String(question).slice(0, 140), at: new Date().toISOString(), lang: alfLang, near });
+      remember("alf.misses", JSON.stringify(list.slice(0, 40)));
+    } catch (e) { /* private window, or storage full: not worth interrupting the answer */ }
+  }
+  // a declaration, not a const: the status page renders before this block is reached
+  function alfMisses() { try { return JSON.parse(recall("alf.misses") || "[]"); } catch (e) { return []; } }
+
+  // tapping one of the "did you mean" chips asks that question properly
+  alfLog.addEventListener("click", e => {
+    const b = e.target.closest("button[data-ask]");
+    if (b) alfAsk(b.dataset.ask);
+  });
 
   // what an external assistant would need to answer well
   function alfContext() {
@@ -1972,26 +4035,168 @@
     d.innerHTML = html;
     return (d.textContent || "").replace(/\s+/g, " ").trim();
   };
+  // Which installed voice to use. A device usually has several English voices and no
+  // Ghanaian one at all, so this tries the exact language, then any close relative the
+  // language pack names, and only then falls back to English — saying so the first time.
+  let saidNoVoice = {};
+
+  // The Web Speech API doesn't say whether a voice is a man or a woman, so this matches the
+  // names devices actually ship. It only sets the default — the chooser lists every voice.
+  const MALE_NAMES = /\b(male|man|daniel|alex|fred|thomas|george|david|mark|ryan|james|oliver|arthur|gordon|nathan|aaron|reed|rocko|jamie|lee|rishi|guy|william|tom|john|paul|peter|eric|carlos|diego|kwame|kofi|samuel|michael|richard|christopher|brian|liam|noah|ethan|junior)\b/i;
+  const FEMALE_NAMES = /\b(female|woman|samantha|victoria|karen|moira|tessa|fiona|serena|allison|ava|susan|zoe|kate|emma|olivia|sophia|amelie|joana|luciana|paulina|nora|ama|akua|abena|mary|sarah|linda|jenny|aria|michelle)\b/i;
+  const isMale = v => MALE_NAMES.test(v.name || "") || (!FEMALE_NAMES.test(v.name || "") && /male/i.test(v.name || ""));
+  // devices ship both a thin old voice and a fuller modern one under similar names
+  const GOOD_VOICE = /\b(natural|neural|enhanced|premium|siri|google|online|eloquence)\b/i;
+  const quality = v => (GOOD_VOICE.test(v.name || "") ? 2 : 0) + (v.localService === false ? 1 : 0);
+  const bestOf = list => [...list].sort((a, b) => quality(b) - quality(a))[0];
+
+  // voices worth offering for the language in play: its own first, then English
+  function voicesFor(pack) {
+    const all = (synth && synth.getVoices()) || [];
+    if (!all.length) return [];
+    const want = [(pack.speech || "en-GH").toLowerCase(), ...(pack.voiceHints || []).map(h => h.toLowerCase())];
+    const near = all.filter(v => want.some(h => (v.lang || "").toLowerCase().startsWith(h.slice(0, 2))));
+    const english = all.filter(v => (v.lang || "").toLowerCase().startsWith("en") && !near.includes(v));
+    return [...near, ...english];
+  }
+
+  function chosenVoice(pack) {
+    const list = voicesFor(pack);
+    if (!list.length) return null;
+    const saved = recall(`alf.voice.${alfLang}`);
+    const match = saved && list.find(v => v.name === saved);
+    if (match) return match;
+    // a voice in the right language first; among those, a man's voice by default
+    const want = [(pack.speech || "en-GH").toLowerCase(), ...(pack.voiceHints || []).map(h => h.toLowerCase())];
+    const own = list.filter(v => want.some(h => (v.lang || "").toLowerCase().startsWith(h.slice(0, 2)) && h.slice(0, 2) !== "en"));
+    const pool = own.length ? own : list;
+    const men = pool.filter(isMale);
+    return bestOf(men.length ? men : pool);        // the fullest-sounding man's voice available
+  }
+
+  function drawVoices() {
+    const bar = $("alf-voicebar"), sel = $("alf-voice");
+    if (!bar || !sel) return;
+    const pack = LANGS[alfLang] || {};
+    const list = voicesFor(pack);
+    bar.hidden = list.length < 2;             // nothing to choose between
+    if (bar.hidden) return;
+    const current = chosenVoice(pack);
+    sel.innerHTML = list.map(v => {
+      const kind = isMale(v) ? "man" : FEMALE_NAMES.test(v.name || "") ? "woman" : "";
+      return `<option value="${esc(v.name)}"${current && v.name === current.name ? " selected" : ""}>${esc(v.name)} · ${esc(v.lang)}${kind ? ` · ${kind}` : ""}</option>`;
+    }).join("");
+  }
+
+  // Choosing a voice means walking every voice the device has installed, which on a laptop
+  // can be a hundred or more. The answer only changes when the device's voice list changes,
+  // so it is worked out once per language and kept.
+  let VOICE_CACHE = {};
+  function pickVoice(pack) {
+    const voices = (synth && synth.getVoices()) || [];
+    if (!voices.length) return { voice: null, matched: false };
+    const key = `${pack.speech || "en-GH"}|${voices.length}`;
+    if (!VOICE_CACHE[key]) VOICE_CACHE[key] = pickVoiceFresh(pack, voices);
+    return VOICE_CACHE[key];
+  }
+  function pickVoiceFresh(pack, voices) {
+    const want = (pack.speech || "en-GH").toLowerCase();
+    // English entries in voiceHints are stand-ins, not a match — they must not suppress the
+    // "no voice for this language" note, so they are left to the fallback below.
+    const wantsEnglish = want.startsWith("en");
+    const hints = [want, ...(pack.voiceHints || []).map(h => h.toLowerCase())]
+      .filter(h => wantsEnglish || !h.startsWith("en"));
+    for (const h of hints) {
+      const exact = voices.find(v => (v.lang || "").toLowerCase().replace("_", "-") === h);
+      if (exact) return { voice: exact, matched: true };
+      const loose = voices.find(v => (v.lang || "").toLowerCase().startsWith(h.slice(0, 2)));
+      if (loose) return { voice: loose, matched: true };
+    }
+    const english = voices.find(v => (v.lang || "").toLowerCase().startsWith("en-gh"))
+      || voices.find(v => (v.lang || "").toLowerCase().startsWith("en-ng"))
+      || voices.find(v => (v.lang || "").toLowerCase().startsWith("en-gb"))
+      || voices.find(v => (v.lang || "").toLowerCase().startsWith("en"));
+    return { voice: english || null, matched: false };
+  }
+
+  // If data.js carries `alfredo.ttsUrl`, the text is sent there instead and whatever audio
+  // comes back is played. That is where a Ghanaian text-to-speech service plugs in.
+  async function speakThroughService(text, code) {
+    const res = await fetch(ALF.ttsUrl, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ text, lang: code, speech: (LANGS[code] || {}).speech || code })
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const type = res.headers.get("content-type") || "";
+    let src;
+    if (type.includes("application/json")) {
+      const data = await res.json();
+      src = data.audio || data.url;                 // a data: URI, or an address to play
+      if (!src) throw new Error("no audio in the reply");
+    } else {
+      src = URL.createObjectURL(await res.blob());
+    }
+    const player = new Audio(src);
+    await player.play();
+  }
+
+  // What gets read aloud, as against what is on screen. A chart's date range, the button
+  // through to the history and the caveats underneath are all worth reading with the eye and
+  // tedious to sit through, so the voice takes the answer itself and starts sooner for it.
+  function spokenText(html) {
+    const d = document.createElement("div");
+    d.innerHTML = html;
+    d.querySelectorAll("svg, .alf-spark-ends, .alf-open-read, .alf-guesses").forEach(n => n.remove());
+    const lead = (d.textContent || "").replace(/\s+/g, " ").trim();
+    if (lead.length <= 260) return lead;
+    // a long answer: read to the end of the sentence that carries the figure
+    const cut = lead.slice(0, 260).lastIndexOf(". ");
+    return cut > 60 ? lead.slice(0, cut + 1) : lead.slice(0, 260);
+  }
+
   function speak(html) {
-    if (!speakOn || !synth) return;
-    const text = plainText(html);
+    if (!speakOn) return;
+    const text = spokenText(html);
     if (!text) return;
+    const code = alfLang;
+    const pack = LANGS[code] || {};
+
+    if (ALF.ttsUrl) {
+      speakThroughService(text, code).catch(() => speakWithDevice(text, pack, code));
+      return;
+    }
+    speakWithDevice(text, pack, code);
+  }
+
+  function speakWithDevice(text, pack, code) {
+    if (!synth) return;
     try {
       synth.cancel();
       const say = new SpeechSynthesisUtterance(text);
-      const want = ((LANGS[alfLang] || {}).speech || "en-GH");
-      const voices = synth.getVoices() || [];
-      // a voice in the chosen language if the device has one, otherwise any English voice
-      const voice = voices.find(v => v.lang && v.lang.toLowerCase() === want.toLowerCase())
-        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith(want.slice(0, 2).toLowerCase()))
-        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith("en-gh"))
-        || voices.find(v => v.lang && v.lang.toLowerCase().startsWith("en"));
-      if (voice) say.voice = voice;
+      const picked = chosenVoice(pack);
+      const { voice: auto, matched } = pickVoice(pack);
+      const voice = picked || auto;
+      try { if (voice) say.voice = voice; } catch (e) { /* a stale voice: the browser picks its own */ }
       say.lang = voice ? voice.lang : "en-GB";
-      say.rate = 0.98;
+      say.rate = matched ? 0.98 : 0.94;             // a fraction slower when the voice is a stand-in
       synth.speak(say);
+      if (!matched && code !== "en" && !saidNoVoice[code]) {
+        saidNoVoice[code] = true;
+        alfSay("alf", `<span class="alf-note">${T("voice.none", { language: pack.name || code })}</span>`);
+      }
     } catch (e) { /* no voice on this device: the answer is on screen anyway */ }
   }
+  if (synth && typeof synth.addEventListener === "function") synth.addEventListener("voiceschanged", () => { saidNoVoice = {}; VOICE_CACHE = {}; drawVoices(); });
+  // Ask the browser for its voice list now rather than at the moment of the first answer:
+  // on Chrome the first call is what triggers the list to load, and doing it here means the
+  // first thing Alfredo says starts speaking straight away instead of after a pause.
+  if (synth) { try { synth.getVoices(); } catch (e) { /* no voices on this device */ } }
+  $("alf-voice").addEventListener("change", e => {
+    remember(`alf.voice.${alfLang}`, e.target.value);
+    const pack = LANGS[alfLang] || {};
+    if (speakOn) speakWithDevice(`${(pack.strings || {})["ui.send"] || "Ask"}. ${T("hello").replace(/<[^>]*>/g, "").slice(0, 90)}`, pack, alfLang);
+  });
   function setSpeak(on) {
     speakOn = on;
     remember("alf.speak", on ? "1" : "0");
@@ -2046,6 +4251,7 @@
     $("alf-langs").innerHTML = Object.entries(LANGS)
       .map(([code, l]) => `<button type="button" data-lang="${esc(code)}" class="${code === alfLang ? "on" : ""}" lang="${esc(code)}">${esc(l.name)}</button>`)
       .join("");
+    drawVoices();
     alfInput.placeholder = T("ui.placeholder");
     $("alf-send").textContent = T("ui.send");
     $("alf-chips").innerHTML = alfSuggestions().map(x => `<button type="button">${esc(x)}</button>`).join("");
@@ -2055,14 +4261,23 @@
     alfLang = code;
     remember("alf.lang", code);
     drawLangs();
-    alfLog.innerHTML = "";
-    const note = T("note.figures");
-    alfSay("alf", T("greeting") + (note ? ` <span class="alf-note">${note}</span>` : ""));
+    newChat();
   }
   $("alf-langs").addEventListener("click", e => {
     const b = e.target.closest("button[data-lang]");
     if (b) setLang(b.dataset.lang);
   });
+  function newChat() {
+    if (synth) synth.cancel();
+    alfForget();
+    alfLog.innerHTML = "";
+    const note = T("note.figures");
+    alfSay("alf", T("greeting") + (note ? ` <span class="alf-note">${note}</span>` : ""));
+    $("alf-chips").innerHTML = alfSuggestions().map(x => `<button type="button">${esc(x)}</button>`).join("");
+    alfInput.value = "";
+    setTimeout(() => alfInput.focus(), 40);
+  }
+  $("alf-new").addEventListener("click", newChat);
   $("alf-speak").addEventListener("click", () => setSpeak(!speakOn));
   if (Recogniser) $("alf-mic").hidden = false;
   $("alf-mic").addEventListener("click", listen);
@@ -2301,7 +4516,7 @@
         return `<div class="b-cellule">
           <span class="b-label">${esc(q.key === "gold" ? "Gold, an ounce" : `${q.name} in cedis`)}</span>
           <span class="mono big ${dir}">${q.key === "gold" ? `US$${fmt(q.value, 0)}` : `GH¢${fmt(q.value, 4)}`}${dir ? `<i class="t-arrow">${dir === "up" ? "▲" : "▼"}</i>` : ""}</span>
-          <span class="b-when">${esc(liveTime(q.at))}</span>
+          <span class="b-when">${esc(quoteWhen(q))}</span>
         </div>`;
       }).join("")}</div>` });
     }
@@ -2342,6 +4557,67 @@
           <span class="b-head-title">${esc(lead.title)}</span>
           <span class="b-when">${esc(timeAgo(lead.published))}</span>
         </div>`).join("")}</div>` });
+    }
+
+    // what things cost
+    const costLabels = ["Petrol", "Diesel", "Cooking gas (LPG)", "Daily minimum wage", "Electricity tariff change"];
+    const cost = costLabels.map(l => allItems.find(i => i.label === l)).filter(Boolean);
+    if (cost.length) {
+      pages.push({ key: "cost", tag: "What things cost", html: `<div class="b-grid b-grid-5">${cost.map(it => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(it.label)}</span>
+          <span class="mono big">${readValue(it)}</span>
+          <span class="b-when">${esc(it.date || "")}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    // what lenders think
+    if ((D.ratings || []).length) {
+      pages.push({ key: "ratings", tag: "Credit ratings", html: `<div class="b-grid b-grid-3">${D.ratings.map(r => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(r.agency)}</span>
+          <span class="mono big gold">${esc(r.rating)}</span>
+          <span class="b-when">${esc(r.outlook || "")} outlook · ${esc(r.date || "")}${r.note ? ` · ${esc(r.note)}` : ""}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    // the days ahead
+    const ahead = calendarFrom(dayStart(Date.now()), 4);
+    if (ahead.length) {
+      pages.push({ key: "days", tag: "The days ahead", html: `<div class="b-grid b-grid-4">${ahead.map(e => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(calDateFmt(e.at))}</span>
+          <span class="b-head-title">${esc(e.entry.name)}</span>
+          <span class="b-when">${e.entry.kind === "holiday" ? "Public holiday" : esc(e.entry.note || "Economic release")}</span>
+        </div>`).join("")}</div>` });
+    }
+
+    // the world's markets
+    const M = marketsData();
+    const world = (M && M.world) || {};
+    const pick = [...(world.commodities || []).slice(0, 3), ...(world.indices || []).slice(0, 2)];
+    if (pick.length) {
+      pages.push({ key: "world", tag: "World markets", html: `<div class="b-grid b-grid-5">${pick.map(q => `
+        <div class="b-cellule">
+          <span class="b-label">${esc(q.name)}</span>
+          <span class="mono big ${moveClass(q.pct)}">${/US\$/.test(q.unit || "") ? "US$" : ""}${fmt(q.value, q.dec ?? 2)}</span>
+          <span class="b-when">${moveMark(q.pct)} ${q.pct == null ? "" : `${q.pct > 0 ? "+" : ""}${fmt(q.pct, 2)}%`} · ${esc(quoteTime(q.at))}</span>
+        </div>`).join("")}</div>` });
+    }
+
+
+    // what the world's wires are carrying, in the same shape as the Ghana headlines panel
+    const wworld = worldStories("global").slice(0, 4);
+    if (wworld.length) {
+      pages.push({ key: "wnews", tag: "Global news", html: `<ol class="b-heads">${wworld.map(n => `
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
+    }
+
+    // and what is being reported across Africa
+    const wafrica = worldStories("africa").slice(0, 4);
+    if (wafrica.length) {
+      pages.push({ key: "anews", tag: "Across Africa", html: `<ol class="b-heads">${wafrica.map(n => `
+        <li><span class="b-head-title">${esc(n.title)}</span><span class="b-when">${esc(n.source)} · ${esc(timeAgo(n.published))}</span></li>`).join("")}</ol>` });
     }
 
     const art = articleData()[0];
@@ -2405,11 +4681,34 @@
     if (!/^https?:/.test(location.protocol)) return;
     const RELOAD = ["data.js", "auto-data.js", "history-data.js"];
     const QUIET = {
-      "news-data.js": () => { drawn.news = false; if (!VIEWS.news.el.hidden) renderNews(); if (!board.hidden) renderBoardDeck(); },
+      "news-data.js": () => {
+        drawn.news = false; drawn.world = false;
+        if (!VIEWS.news.el.hidden) renderNews();
+        if (!VIEWS.world.el.hidden) renderWorld();      // the world headlines ride in this file
+        if (!VIEWS.afrnews.el.hidden) renderAfrNews();
+        if (!board.hidden) renderBoardDeck();
+      },
       "papers-data.js": () => { drawn.papers = false; if (!VIEWS.papers.el.hidden) renderPapers(); if (!board.hidden) renderBoardDeck(); },
       "africa-data.js": () => { drawn.africa = false; if (!VIEWS.africa.el.hidden) renderAfrica(); if (!board.hidden) renderBoardDeck(); },
       "articles-data.js": () => { drawn.articles = false; if (!VIEWS.articles.el.hidden) renderArticles(); if (!board.hidden) renderBoardDeck(); },
-      "live-data.js": () => { renderTicker(); if (!board.hidden) renderBoardDeck(); if (!VIEWS.status.el.hidden) renderStatus(); }
+      "world-data.js": () => {
+        drawn.world = false;
+        if (!VIEWS.world.el.hidden) renderWorld();
+        if (!VIEWS.afrnews.el.hidden) renderAfrNews();
+        if (!board.hidden) renderBoardDeck();
+      },
+      "markets-data.js": () => {
+        drawn.markets = false; drawn.exchange = false;
+        if (!VIEWS.markets.el.hidden) renderMarkets();
+        if (!VIEWS.exchange.el.hidden) renderExchange();
+        if (!board.hidden) renderBoardDeck();
+      },
+      "live-data.js": () => {
+        renderTicker(); paintMarketLines();
+        if (!VIEWS.exchange.el.hidden) renderExchange();   // the official three come from here
+        if (!board.hidden) renderBoardDeck();
+        if (!VIEWS.status.el.hidden) renderStatus();
+      }
     };
     const fingerprints = new Map();
     let pending = false, busy = false;
@@ -2467,6 +4766,7 @@
   if (location.hash === "#board") openBoard(false);
   routeFromHash();
   renderNews();
+  paintMarketLines();
   refreshRates();
   setInterval(refreshRates, 30 * 60 * 1000);
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { fit(); if (!board.hidden) fit(board); });
