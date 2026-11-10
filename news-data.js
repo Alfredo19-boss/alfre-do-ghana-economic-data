@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T14:43:05.168Z",
+  "updated": "2026-11-10T14:53:05.105Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,27 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Republic Financial Holdings Limited announces Karen Yip Chuck as Group President Nigel Baptiste retires",
+      "link": "https://www.myjoyonline.com/republic-financial-holdings-limited-announces-karen-yip-chuck-as-group-president-nigel-baptiste-retires/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:47:42.000Z",
+      "summary": "Republic Financial Holdings Limited (RFHL) has announced a historic leadership transition following the retirement of Nigel Baptiste as Group President and Chief Executive Officer of RFHL…"
+    },
+    {
+      "title": "Rising Global Debt Costs Put Ghana’s Development Financing Under Pressure",
+      "link": "https://thehighstreetjournal.com/rising-global-debt-costs-put-ghanas-development-financing-under-pressure/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T14:45:00.000Z",
+      "summary": "Developing countries' external debt reached US$9.4 trillion in 2025, as rising interest costs and repayments threaten development spending, reinforcing the need for Ghana to prioritise…"
+    },
+    {
+      "title": "GUTA calls for cheaper credit, lower business costs in 2027 Budget",
+      "link": "https://www.myjoyonline.com/guta-calls-for-cheaper-credit-lower-business-costs-in-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:40:30.000Z",
+      "summary": "The Ghana Union of Traders Associations (GUTA) has urged the government to introduce measures in the 2027 Budget to create a more enabling business environment, improve access to affordable…"
+    },
     {
       "title": "Dangote storms Ghana as President Mahama, GIPA’s Madjie lead Investment Summit on November 16-17, 2026",
       "link": "https://www.myjoyonline.com/dangote-storms-ghana-as-president-mahama-gipas-madjie-lead-investment-summit-on-november-16-17-2026/",

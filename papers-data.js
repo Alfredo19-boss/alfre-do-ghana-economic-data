@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T14:43:35.312Z",
+  "updated": "2026-11-10T14:53:35.047Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Republic Financial Holdings Limited announces Karen Yip Chuck as Group President Nigel Baptiste retires",
+      "link": "https://www.myjoyonline.com/republic-financial-holdings-limited-announces-karen-yip-chuck-as-group-president-nigel-baptiste-retires/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T14:47:42.000Z",
+      "summary": "Republic Financial Holdings Limited (RFHL) has announced a historic leadership transition following the retirement of Nigel Baptiste as Group President and Chief Executive Officer of RFHL…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "President Nigel Baptiste",
+        "Republic Financial Holdings"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GUTA calls for cheaper credit, lower business costs in 2027 Budget",
       "link": "https://www.myjoyonline.com/guta-calls-for-cheaper-credit-lower-business-costs-in-2027-budget/",
@@ -54,6 +68,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-10T14:32:14.000Z",
       "summary": "The Finance Ministry has indicated that the government will assume the full financial cost of settling the contractual dispute over the Teshie desalination plant, Executive Secretary of the…",
       "categories": [
+        "HP News 2",
         "National",
         "desalination plant",
         "Finance Ministry",
@@ -224,23 +239,6 @@ window.GDC_PAPERS = {
         "KAVOD",
         "Live performance",
         "Nacee"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Developing countries’ external debt surges to a record $9.4trn – World Bank",
-      "link": "https://www.myjoyonline.com/developing-countries-external-debt-surges-to-a-record-9-4trn-world-bank/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T14:01:00.000Z",
-      "summary": "Access to international finance has improved, but the price of finance has not, and high debt burdens in the poorest countries threaten to crowd out essential investments in people.",
-      "categories": [
-        "Business",
-        "Economy",
-        "external debt",
-        "Haishan Fu",
-        "IBRD",
-        "IDA",
-        "World Bank"
       ],
       "site": "https://www.myjoyonline.com/"
     },
