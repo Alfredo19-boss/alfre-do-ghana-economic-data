@@ -3,17 +3,17 @@
  * Do not edit by hand.
  */
 window.GDC_AFRICA = {
-  "updated": "2026-09-13T18:33:25.186Z",
+  "updated": "2026-11-10T01:52:02.425Z",
   "indicator": "Consumer price inflation, % on a year earlier",
   "note": "The prevailing rate: each country's most recently published month-on-year consumer price inflation. Countries publish at different times, so the month shown differs between them. Collected from Trading Economics' national statistics table.",
   "source": "Trading Economics, from national statistics offices",
   "sourceUrl": "https://tradingeconomics.com/country-list/inflation-rate?continent=africa",
   "ghana": {
-    "value": 5,
-    "period": "Aug 2026",
-    "key": "2026-08"
+    "value": 5.5,
+    "period": "Oct 2026",
+    "key": "2026-10"
   },
-  "ghanaRank": 29,
+  "ghanaRank": 32,
   "countries": {
     "EGY": {
       "name": "Egypt",
@@ -195,15 +195,19 @@ window.GDC_AFRICA = {
       "name": "Ghana",
       "region": "West",
       "latest": {
-        "value": 5,
-        "period": "Aug 2026",
-        "key": "2026-08"
+        "value": 5.5,
+        "period": "Oct 2026",
+        "key": "2026-10"
       },
-      "prev": 4.6,
+      "prev": 5,
       "series": [
         {
           "date": "2026-08",
           "value": 5
+        },
+        {
+          "date": "2026-10",
+          "value": 5.5
         }
       ]
     },
