@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T19:08:36.017Z",
+  "updated": "2026-11-10T20:43:44.379Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,119 +21,116 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Obuasi SHTS sexual abuse probe 85% complete; evidence points to prosecution – Education Minister",
-      "link": "https://www.myjoyonline.com/obuasi-shts-sexual-abuse-probe-85-complete-evidence-points-to-prosecution-education-minister/",
+      "title": "Japan Motors donates Foton truck to Fisheries Ministry to support World Fisheries Day 2026",
+      "link": "https://www.myjoyonline.com/japan-motors-donates-foton-truck-to-fisheries-ministry-to-support-world-fisheries-day-2026/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T19:01:44.000Z",
-      "summary": "The Minister of Education, Haruna Iddrisu, says investigations into the sexual abuse allegations involving female students of Obuasi Senior High Technical School (SHTS) are 85 per cent…",
+      "published": "2026-11-10T20:40:34.000Z",
+      "summary": "Japan Motors Trading Company Limited has donated a 2.2-tonne-capacity Foton light truck to the Ministry of Fisheries and Aquaculture to support preparations for the 2026 World Fisheries Day…",
+      "categories": [
+        "National",
+        "Foton Truck",
+        "Japan Motors",
+        "Ministry of fisheries and Aquaculture",
+        "World Fisheries Day 2026"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ho Central MP provides mechanised borehole for Housing M.A. Basic School",
+      "link": "https://www.myjoyonline.com/ho-central-mp-provides-mechanised-borehole-for-housing-m-a-basic-school/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T20:23:12.000Z",
+      "summary": "The Member of Parliament for Ho Central, Richmond Edem Kpotosu, has provided a mechanised borehole facility for Housing M.A. Basic School in Ho. The project, financed with the MP’s share of…",
+      "categories": [
+        "News",
+        "Regional",
+        "Ho Central Constituency",
+        "Richmond Kpotosu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Traditional institutions have a central role in building peace in Africa",
+      "link": "https://www.myjoyonline.com/traditional-institutions-have-a-central-role-in-building-peace-in-africa/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T20:20:17.000Z",
+      "summary": "The Acting Coordinator of the Silencing the Guns Unit, Sheku Tejan Sesay, said that traditional authorities have a “central role” in building peace across the African continent. He said…",
+      "categories": [
+        "Africa",
+        "News",
+        "African Union",
+        "Silencing the Guns Initiative"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Anti-LGBTQ+ Bill: Parliament rescinds earlier passage; bill to return for further consideration",
+      "link": "https://www.myjoyonline.com/anti-lgbtq-bill-parliament-rescinds-earlier-passage-bill-to-return-for-further-consideration/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T20:02:11.000Z",
+      "summary": "Parliament has rescinded its earlier decision to pass the Human Sexual Rights and Family Values Bill 2025, following the discovery of inconsistencies between decisions taken by the House…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Anti-LGBTQ+ bill",
+        "Parliament"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana engages US civil rights lawyer Ben Crump over killings of nationals",
+      "link": "https://www.myjoyonline.com/ghana-engages-us-civil-rights-lawyer-ben-crump-over-killings-of-nationals/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T19:57:03.000Z",
+      "summary": "The Ministry of Foreign Affairs has approved the engagement of prominent US civil rights lawyer Ben Crump to assist Ghana in seeking justice for nationals killed in the United States in…",
+      "categories": [
+        "National",
+        "Ben Crump",
+        "Foreign Affairs Ministry",
+        "Ghanaian killings",
+        "US civil rights lawyer",
+        "US killings"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gov’t considers legal backing for GES Code of Conduct – Education Minister",
+      "link": "https://www.myjoyonline.com/govt-considers-legal-backing-for-ges-code-of-conduct-education-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T19:44:43.000Z",
+      "summary": "The Minister of Education, Haruna Iddrisu, says the government is considering elevating the Ghana Education Service (GES) Code of Conduct into legislation to ensure teachers who engage in…",
       "categories": [
         "Education",
-        "HP News 3",
         "National",
-        "Education Minister",
-        "Haruna Iddrisu",
-        "Obuasi SHTS sexual abuse"
+        "GES Code of Conduct",
+        "Haruna Iddrisu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Ablakwa expresses Ghana’s interest in nuclear energy cooperation with US",
-      "link": "https://www.myjoyonline.com/ablakwa-expresses-ghanas-interest-in-nuclear-energy-cooperation-with-us/",
+      "title": "KNUST Researcher investigates how AI can improve brain scan analysis",
+      "link": "https://www.myjoyonline.com/knust-researcher-investigates-how-ai-can-improve-brain-scan-analysis/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T18:38:59.000Z",
-      "summary": "The Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has expressed Ghana's interest in exploring opportunities for cooperation with the United States in nuclear energy as the two…",
+      "published": "2026-11-10T19:42:52.000Z",
+      "summary": "How well can artificial intelligence developed using medical data from Europe and North America analyse brain scans from Ghanaian patients? This question took Ghanaian biomedical engineer…",
       "categories": [
-        "National",
-        "Nuclear Energy",
-        "Samuel Okudzeto Ablakwa",
-        "United States"
+        "Health",
+        "Research",
+        "Technology",
+        "AI",
+        "brain scan",
+        "KNUST researcher"
       ],
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "A policy born out of sight, not sympathy: Ghana’s new dawn for persons with disabilities",
-      "link": "https://www.myjoyonline.com/a-policy-born-out-of-sight-not-sympathy-ghanas-new-dawn-for-persons-with-disabilities/",
+      "title": "GIPA CEO calls for shift from raw material exports to value addition",
+      "link": "https://www.myjoyonline.com/gipa-ceo-calls-for-shift-from-raw-material-exports-to-value-addition/",
       "source": "MyJoyOnline",
-      "published": "2026-11-10T18:38:32.000Z",
-      "summary": "The launch of the Free Tertiary Education for Persons with Disabilities Initiative by His Excellency John Dramani Mahama has ignited renewed hope and pride among Ghana’s disability…",
+      "published": "2026-11-10T19:40:03.000Z",
+      "summary": "Mr Madjie made the call at the 15th Ghana Economic Forum, hosted by the Business and Financial Times (B&FT) in Accra, under the theme “From Stabilisation to Scale: Mobilising Capital…",
       "categories": [
-        "HP Opinion 3",
-        "Opinion",
-        "Free Tertiary Education",
-        "John Dramani Mahama",
-        "Persons with Disabilities"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t reaffirms commitment to women’s economic empowerment",
-      "link": "https://www.myjoyonline.com/govt-reaffirms-commitment-to-womens-economic-empowerment/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T18:38:25.000Z",
-      "summary": "The government has reaffirmed its commitment to strengthening women's economic empowerment through improved access to affordable financing, business development support, export training and…",
-      "categories": [
-        "National",
-        "5th Ghana Women Entrepreneurship Summit",
-        "Vice President Professor Naana Jane Opoku-Agyemang",
-        "women’s economic empowerment"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hassan Ayariga acknowledges government’s economic gains but questions impact on living standards",
-      "link": "https://www.myjoyonline.com/hassan-ayariga-acknowledges-governments-economic-gains-but-questions-impact-on-living-standards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T18:37:05.000Z",
-      "summary": "Founder and Leader of the All People’s Congress (APC), Dr Hassan Ayariga, has acknowledged improvements in Ghana’s macroeconomic performance under the National Democratic Congress (NDC)…",
-      "categories": [
-        "HP News 9",
-        "Politics",
-        "Gains",
-        "Hassan Ayariga"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Minerals Commission CEO calls for prosecution of Chinese nationals involved in illegal mining",
-      "link": "https://www.myjoyonline.com/minerals-commission-ceo-calls-for-prosecution-of-chinese-nationals-involved-in-illegal-mining/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T18:34:03.000Z",
-      "summary": "The Chief Executive Officer of the Minerals Commission, Isaac Andrews Tandoh, has called for the strict enforcement of Ghana’s mining laws against Chinese nationals and companies involved…",
-      "categories": [
-        "National",
-        "Chinese nationals",
-        "Illegal mining",
-        "Minerals Commission CEO"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Patoranking reunites with Olamide for new Lagos-inspired single, ‘Welcome to Lagos’",
-      "link": "https://www.myjoyonline.com/patoranking-reunites-with-olamide-for-new-lagos-inspired-single-welcome-to-lagos/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T18:33:56.000Z",
-      "summary": "Produced by longtime Patoranking collaborator Ctea, the song combines rolling basslines, syncopated drums and a chant-driven hook, with Patoranking's signature blend of Afrobeats, reggae…",
-      "categories": [
-        "Arts and Culture",
-        "Music",
-        "New music",
-        "Olamide",
-        "Patoranking",
-        "Welcome to Lagos"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Policy implementation gap undermining West African trade integration- GSA",
-      "link": "https://www.myjoyonline.com/policy-implementation-gap-undermining-west-african-trade-integration-gsa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T18:03:33.000Z",
-      "summary": "The Ghana Shippers Authority (GSA) has warned that the gap between regional trade policy commitments and their actual implementation continues to undermine economic integration and…",
-      "categories": [
-        "Business",
-        "Transport",
-        "GSA",
-        "Silvia Asana Dauda Owu"
+        "News"
       ],
       "site": "https://www.myjoyonline.com/"
     },

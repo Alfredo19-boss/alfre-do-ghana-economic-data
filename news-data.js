@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T19:08:05.327Z",
+  "updated": "2026-11-10T20:43:13.264Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s Tourism Investment Faces Delivery Test as Creative Funds Remain Underfunded",
+      "link": "https://thehighstreetjournal.com/ghanas-tourism-investment-faces-delivery-test-as-creative-funds-remain-underfunded/",
+      "source": "The High Street Journal",
+      "published": "2026-11-10T20:00:00.000Z",
+      "summary": "Ghana's tourism and creative economy faces a delivery gap as funding releases and infrastructure delays limit business opportunities, prompting calls for transparent reporting, accessible…"
+    },
     {
       "title": "Ghana’s GH¢357 Billion Budget Faces Procurement Leakages as Government Tightens Compliance",
       "link": "https://thehighstreetjournal.com/ghanas-gh%c2%a2357-billion-budget-faces-procurement-leakages-as-government-tightens-compliance/",
@@ -146,6 +153,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T15:40:00.000Z",
       "summary": "A UCC crop scientist warns that prolonged water shortages are already destroying farm investments, with food supplies and prices at risk as Ghana struggles to prepare for drier conditions."
+    },
+    {
+      "title": "Telecel Ghana targets 20,000 merchants with new e-commerce platform, launches e-wallet",
+      "link": "https://www.myjoyonline.com/telecel-ghana-targets-20000-merchants-with-new-e-commerce-platform-launches-e-wallet/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T15:31:00.000Z",
+      "summary": "Telecel Ghana is targeting 20,000 local merchants by the end of 2026 as it expands its digital commerce operations with the launch of a new e-commerce platform and a network-agnostic…"
     },
     {
       "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
