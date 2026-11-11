@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T06:05:14.000Z",
+  "updated": "2026-11-11T06:15:13.432Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "ICSG launches campaign to educate traders on compulsory cargo insurance",
+      "link": "https://www.ghanabusinessnews.com/2026/11/11/icsg-launches-campaign-to-educate-traders-on-compulsory-cargo-insurance/",
+      "source": "Ghana Business News",
+      "published": "2026-11-11T06:08:49.000Z",
+      "summary": "Insurance Claims Specialist Group (ICSG) Limited has launched a public education campaign to improve awareness of compulsory marine cargo insurance and equip importers and exporters with…"
+    },
     {
       "title": "From 11 cents per kWh to 6 cents per kWh: Why Bui Power Can Sell Cheaper Electricity to Drive Industrialization",
       "link": "https://thehighstreetjournal.com/from-11-cents-per-kwh-to-6-cents-per-kwh-why-bui-power-can-sell-cheaper-electricity-to-drive-industrialization/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T03:04:00.000Z",
       "summary": "Goods shipped from the United Arab Emirates now take up to four months to reach Ghana, leaving traders facing delayed deliveries and pressure to repay banks, GUTA President Clement Boateng…"
-    },
-    {
-      "title": "Some regions face higher inflation than national average – GNCCI CEO",
-      "link": "https://www.myjoyonline.com/some-regions-face-higher-inflation-than-national-average-gncci-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T02:44:00.000Z",
-      "summary": "Some regions are recording inflation above the national average, despite easing price pressures overall, the Chief Executive Officer of the Ghana National Chamber of Commerce and Industry…"
     }
   ]
 };

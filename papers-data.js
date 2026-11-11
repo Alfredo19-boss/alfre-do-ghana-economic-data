@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T06:05:44.258Z",
+  "updated": "2026-11-11T06:15:43.772Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,53 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana, Slovakia to negotiate visa waiver agreement",
+      "link": "https://ghanaiantimes.com.gh/ghana-slovakia-to-negotiate-visa-waiver-agreement/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:15:31.000Z",
+      "summary": "Ghana and Slovakia have agreed to begin immediate negotiations towards a visa waiver agreement for holders of diplomatic and service passports to facilitate official travel and strengthen…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Preparing for the heat: El Niño demands action now",
+      "link": "https://ghanaiantimes.com.gh/preparing-for-the-heat-el-nino-demands-action-now/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:12:45.000Z",
+      "summary": "Ghana has been here before. The very strong El Niño events of 1982/83, 1997/98 and 2015/16, and the moderate episode of 2023/24, each left their mark on our farms, rivers, power supply and…",
+      "categories": [
+        "Editorial"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cyber Security Authority warns against fake TraffiTech-GH traffic fine messages",
+      "link": "https://ghanaiantimes.com.gh/cyber-security-authority-warns-against-fake-traffitech-gh-traffic-fine-messages/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:11:21.000Z",
+      "summary": "The Cyber Security Authority (CSA) has warned motorists against fraudulent text messages claiming they have committed traffic offences under the Ghana Police Service’s automated traffic…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Desist from siphoning fuel from accident tankers …NPA cautions",
+      "link": "https://ghanaiantimes.com.gh/desist-from-siphoning-fuel-from-accident-tankers-npa-cautions/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:07:11.000Z",
+      "summary": "The National Petroleum Authority (NPA) has warned people who rush to siphon fuel from tankers involved in accidents to desist from the practice or risk prosecution. The Chief Executive of…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "NIA suspends date of birth updates on Ghana Card",
       "link": "https://ghanaiantimes.com.gh/nia-suspends-date-of-birth-updates-on-ghana-card/",
@@ -223,55 +270,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Edward Agyekum Kufuor declares intention to contest Atwima Nwabiagya North NPP Parliamentary Candidacy",
-      "link": "https://ghanaiantimes.com.gh/edward-agyekum-kufuor-declares-intention-to-contest-atwima-nwabiagya-north-npp-parliamentary-candidacy/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:27:32.000Z",
-      "summary": "Edward Agyekum Kufuor has formally declared his intention to contest for the New Patriotic Party (NPP) Parliamentary Candidacy for the Atwima Nwabiagya North Constituency. In a public…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ablakwa bids farewell to acting US Ambassador Rolf Olson, touts major diplomatic gains",
-      "link": "https://ghanaiantimes.com.gh/ablakwa-bids-farewell-to-acting-us-ambassador-rolf-olson-touts-major-diplomatic-gains/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:26:05.000Z",
-      "summary": "Minister for Foreign Affairs, Samuel Okudzeto Ablakwa, has hosted the acting United States Ambassador to Ghana, Mr. Rolf Olson, to a farewell meeting at the Foreign Ministry in Accra. Mr…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Speaker Bagbin to Media: Be watchdogs, not lapdogs, and guard Ghana against hate speech",
-      "link": "https://ghanaiantimes.com.gh/speaker-bagbin-to-media-be-watchdogs-not-lapdogs-and-guard-ghana-against-hate-speech/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:23:32.000Z",
-      "summary": "The Speaker of Parliament, Rt. Hon. Alban Sumana Kingsford Bagbin, has urged Ghanaian journalists to hold power to account while resisting the spread of misinformation and hate speech, as…",
-      "categories": [
-        "Hot!",
-        "News",
-        "Uncategorized"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Delegation from academia pays courtesy call on Speaker",
-      "link": "https://ghanaiantimes.com.gh/delegation-from-academia-pays-courtesy-call-on-speaker/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:18:25.000Z",
-      "summary": "A delegation from the academic community, led by Professor Robert Darko Osei, has paid a courtesy call on Speaker Bagbin, during which they presented a collection of reports and books to…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
