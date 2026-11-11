@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T17:17:00.469Z",
+  "updated": "2026-11-11T17:27:02.007Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Two NAIMOS officers wounded in fatal Manso Keniago anti-galamsey clash",
+      "link": "https://www.myjoyonline.com/two-naimos-officers-wounded-in-fatal-manso-keniago-anti-galamsey-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:23:55.000Z",
+      "summary": "Two personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) have sustained gunshot wounds following a confrontation with an armed group at Manso Keniago in the Amansie…",
+      "categories": [
+        "HP News 1",
+        "National",
+        "Manso Keniago",
+        "NAIMOS",
+        "wounds"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "COP31: GAYO pushes for climate finance to reach waste pickers and zero waste communities",
+      "link": "https://www.myjoyonline.com/cop31-gayo-pushes-for-climate-finance-to-reach-waste-pickers-and-zero-waste-communities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:21:07.000Z",
+      "summary": "The Green Africa Youth Organisation (GAYO) has called on governments and climate financiers at COP31 to channel climate finance directly to the waste pickers, communities and cities already…",
+      "categories": [
+        "Africa",
+        "National",
+        "Climate Finance",
+        "GAYO",
+        "Zero waste"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TOR considers BDCs partners in downstream petroleum market – Kombat",
+      "link": "https://www.myjoyonline.com/tor-considers-bdcs-partners-in-downstream-petroleum-market-kombat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:19:32.000Z",
+      "summary": "The Tema Oil Refinery (TOR) says Bulk Distribution Companies (BDCs) should be considered partners in its operations rather than competitors as it seeks to strengthen its position in Ghana’s…",
+      "categories": [
+        "Business",
+        "Energy",
+        "Ghana",
+        "TOR"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "ICC, TikTok launch free digital commerce labs to prepare Ghanaian SMEs for cross-border trade",
       "link": "https://www.myjoyonline.com/icc-tiktok-launch-free-digital-commerce-labs-to-prepare-ghanaian-smes-for-cross-border-trade/",
@@ -115,20 +159,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Indonesia’s vice president resigns over high school certificate that was ruled invalid",
-      "link": "https://www.myjoyonline.com/indonesias-vice-president-resigns-over-high-school-certificate-that-was-ruled-invalid/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:02:43.000Z",
-      "summary": "Indonesia's Vice-President Gibran Rakabuming Raka has submitted his resignation, an aide has told the BBC, in a move which could further strain the political alliance that helped propel…",
-      "categories": [
-        "International",
-        "Certificate",
-        "Indonesia",
-        "invalid"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Pulima Chief endorses GMTF, calls for heart surgeons in Upper West",
       "link": "https://www.graphic.com.gh/news/general-news/pulima-chief-endorses-gmtf-calls-for-heart-surgeons-in-upper-west.html",
       "source": "Daily Graphic",
@@ -138,36 +168,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Lattice Energy positions for growth in Ghana’s petroleum downstream industry",
-      "link": "https://www.myjoyonline.com/lattice-energy-positions-for-growth-in-ghanas-petroleum-downstream-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:51:11.000Z",
-      "summary": "Ghanaian energy trading and supply company, Lattice Energy Ltd, says it is positioning itself to contribute to the growth of the country’s petroleum downstream industry through strategic…",
-      "categories": [
-        "Business",
-        "HP Business 5",
-        "National",
-        "bulk petroleum importation",
-        "Lattice Energy",
-        "NPA"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TOR seeks private investors to shield refinery from political interference",
-      "link": "https://www.myjoyonline.com/tor-seeks-private-investors-to-shield-refinery-from-political-interference/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:51:01.000Z",
-      "summary": "The Tema Oil Refinery (TOR) is working to attract private-sector investors as part of efforts to strengthen its governance structure and protect the state-owned facility from political…",
-      "categories": [
-        "Business",
-        "Energy",
-        "Edmond Kombat",
-        "TOR"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Ghana’s Nana Yaa Serwaa Sarpong wins Global Social Impact Award at GEF 2026 In Cairo",

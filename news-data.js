@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T17:16:29.202Z",
+  "updated": "2026-11-11T17:26:32.281Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "TOR considers BDCs partners in downstream petroleum market – Kombat",
+      "link": "https://www.myjoyonline.com/tor-considers-bdcs-partners-in-downstream-petroleum-market-kombat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:19:32.000Z",
+      "summary": "The Tema Oil Refinery (TOR) says Bulk Distribution Companies (BDCs) should be considered partners in its operations rather than competitors as it seeks to strengthen its position in Ghana’s…"
+    },
+    {
+      "title": "ICC, TikTok launch free digital commerce labs to prepare Ghanaian SMEs for cross-border trade",
+      "link": "https://www.myjoyonline.com/icc-tiktok-launch-free-digital-commerce-labs-to-prepare-ghanaian-smes-for-cross-border-trade/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:15:38.000Z",
+      "summary": "Small and medium-sized enterprises (SMEs) across Ghana, including those in rural communities, can now access free training to sell beyond their local markets following the launch of the…"
+    },
     {
       "title": "Lattice Energy positions for growth in Ghana’s petroleum downstream industry",
       "link": "https://www.myjoyonline.com/lattice-energy-positions-for-growth-in-ghanas-petroleum-downstream-industry/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T06:04:00.000Z",
       "summary": "Advans Ghana Savings & Loans Limited has reaffirmed its commitment to women’s health and economic empowerment by organizing a breast cancer awareness and screening exercise alongside a…"
-    },
-    {
-      "title": "Huayou, seeking control of Ghana’s Ewoyaa lithium mine, faces scrutiny over compensation delays in Congo",
-      "link": "https://www.myjoyonline.com/huayou-seeking-control-of-ghanas-ewoyaa-lithium-mine-faces-scrutiny-over-compensation-delays-in-congo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T05:56:30.000Z",
-      "summary": "Zhejiang Huayou Cobalt, the Chinese company seeking to acquire Atlantic Lithium, the developer of Ghana’s Ewoyaa lithium mine, is facing scrutiny in the Democratic Republic of Congo over…"
-    },
-    {
-      "title": "Analysis: Presidency says new national airline is viable. Government should publish the reports",
-      "link": "https://www.myjoyonline.com/analysis-presidency-says-new-national-airline-is-viable-government-should-publish-the-reports/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T05:47:19.000Z",
-      "summary": "The Presidency says preliminary studies have confirmed that Ghana’s proposed national airline is viable."
     }
   ]
 };
