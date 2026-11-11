@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T11:39:35.308Z",
+  "updated": "2026-11-11T11:49:33.932Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,13 +21,53 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Buck Press Limited funds renovation of KNUST Publishing Studies Department facilities",
+      "link": "https://www.myjoyonline.com/buck-press-limited-funds-renovation-of-knust-publishing-studies-department-facilities/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:45:14.000Z",
+      "summary": "The Publishing Studies Department of the Kwame Nkrumah University of Science and Technology (KNUST) has undergone a major infrastructure upgrade after Buck Press Limited financed the…",
+      "categories": [
+        "Education",
+        "Regional",
+        "Buck Press Limited",
+        "KNUST Publishing Department"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From GH¢350 to GH¢2,000: A breakdown of Ghana's passport application fees",
+      "link": "https://www.graphic.com.gh/news/general-news/from-ghc350-to-ghc2-000-a-breakdown-of-ghanas-passport-application-fees.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T11:44:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Former DVLA boss urges police to prioritise vehicle roadworthiness checks over licence inspections",
+      "link": "https://www.myjoyonline.com/former-dvla-boss-urges-police-to-prioritise-vehicle-roadworthiness-checks-over-licence-inspections/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:37:34.000Z",
+      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, has criticised the police and other road safety authorities for what he describes as…",
+      "categories": [
+        "National",
+        "road safety"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "History will vindicate Akufo-Addo’s leadership – Former legal counsel Kow Essuman",
       "link": "https://www.myjoyonline.com/history-will-vindicate-akufo-addos-leadership-former-legal-counsel-kow-essuman/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T11:33:21.000Z",
       "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, said history will vindicate the former President’s leadership, describing him as a leader who consistently…",
       "categories": [
-        "National"
+        "National",
+        "Akufo-Addo",
+        "History",
+        "Kow Essuman"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -99,36 +139,6 @@ window.GDC_PAPERS = {
         "Education",
         "Academic City University",
         "Prof. Fred McBagonluri"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "CJID announces 2026 Excellence in Media Awards finalists across nine West African countries",
-      "link": "https://www.myjoyonline.com/cjid-announces-2026-excellence-in-media-awards-finalists-across-nine-west-african-countries/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T10:37:34.000Z",
-      "summary": "The Centre for Journalism Innovation and Development (CJID) has announced the finalists for the 2026 Excellence in Media Awards, following submissions from journalists across nine West…",
-      "categories": [
-        "Events",
-        "National",
-        "2026",
-        "CJID",
-        "Media awards finalist"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TraffiTech is a step in the right direction – Former DVLA Boss",
-      "link": "https://www.myjoyonline.com/traffitech-is-a-step-in-the-right-direction-former-dvla-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T10:05:32.000Z",
-      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, has welcomed the introduction of the TraffiTech-GH initiative, describing it as a step in…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "DVLA",
-        "Justice Yaw Amegashie",
-        "TraffiTech"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -295,17 +305,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ashaiman-roundabout-atimpoku-road-under-big-push-minister.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T08:00:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Wednesday weather: Mist, sunshine and afternoon thunderstorms – GMet",
-      "link": "https://www.graphic.com.gh/news/general-news/wednesday-weather-mist-sunshine-and-afternoon-thunderstorms-gmet.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T07:58:43.000Z",
       "summary": "",
       "categories": [
         "General News"
