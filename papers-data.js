@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T16:12:00.418Z",
+  "updated": "2026-11-11T16:21:59.728Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,42 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Betfox Ghana, Big Ghun partner to distribute over 3,000 helmets in Nationwide Road Safety Campaign",
+      "link": "https://ghanaiantimes.com.gh/betfox-ghana-big-ghun-partner-to-distribute-over-3000-helmets-in-nationwide-road-safety-campaign/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:19:40.000Z",
+      "summary": "Award-winning filmmaker, rapper and creative personality Big Ghun has joined forces with Betfox Ghana to launch a nationwide road safety initiative aimed at distributing more than 3,000…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Prof. D. K. Yeboah-Amankwah",
+      "link": "https://www.myjoyonline.com/prof-d-k-yeboah-amankwah-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:18:54.000Z",
+      "summary": "The family of the late Prof. D. K. Yeboah-Amankwah, Ogyeamansan Boahen Korkor II ( Sunyani Manhene), Nana Akosua Duaa Sao-Sika Brayie (Sunyani Manhemaa), Nana Mensah Abrampa (Abakomahene,)…",
+      "categories": [
+        "Obituary",
+        "Prof. D. K. Yeboah-Amankwah"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gender Ministry condemns death of 5-year-old girl at Mim in Ahafo Region",
+      "link": "https://ghanaiantimes.com.gh/gender-ministry-condemns-death-of-5-year-old-girl-at-mim-in-ahafo-region/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:15:35.000Z",
+      "summary": "The Ministry of Gender, Children and Social Protection (MoGCSP) has condemned the death of a five-year-old girl at Mim in the Asunafo North Municipality of the Ahafo Region. The Ministry…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
       "link": "https://www.myjoyonline.com/scottish-dj-32-confirmed-as-victim-of-krakow-shooting/",
@@ -110,21 +146,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Business",
         "Energy"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WEAR Ghana, Republic of Africa win CANEX Creative Pitch 2026 in Lagos",
-      "link": "https://www.myjoyonline.com/wear-ghana-republic-of-africa-win-canex-creative-pitch-2026-in-lagos/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:54:00.000Z",
-      "summary": "Ghanaian creative entrepreneur Awura Abena Agyeman has won the CANEX Creative Pitch 2026 in Lagos, Nigeria, with a presentation on the evolution of WEAR Ghana into the pan-African cultural…",
-      "categories": [
-        "Fashion",
-        "HP Entertainment 3",
-        "Awura Abena Agyeman",
-        "CANEX Creative Pitch 2026",
-        "Wear Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -283,28 +304,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Features",
         "Uncategorized"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ensuring fairer, more sustainable tax administration in Ghana …Understanding dispute resolution, legal processes and taxpayers’ rights",
-      "link": "https://ghanaiantimes.com.gh/ensuring-fairer-more-sustainable-tax-administration-in-ghana-understanding-dispute-resolution-legal-processes-and-taxpayers-rights/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:13:16.000Z",
-      "summary": "What should a taxpayer do when they disagree with a decision by the Ghana Revenue Authority (GRA)? It is one of the most frequently asked questions in my role as Technical Advisor to the…",
-      "categories": [
-        "Features"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana’s iGaming Market Is Maturing. Here Is What Operators Need From Their Game Content",
-      "link": "https://ghanaiantimes.com.gh/ghanas-igaming-market-is-maturing-here-is-what-operators-need-from-their-game-content/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:02:05.000Z",
-      "summary": "Ghana has become one of West Africa’s most active betting markets. Most players bet on their phones, football is the main driver of activity, and casino-style games have grown into a large…",
-      "categories": [
-        "Technology"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
