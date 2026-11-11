@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T09:29:34.705Z",
+  "updated": "2026-11-11T09:39:33.586Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "The Lion Roars Louder: Mfantsipim School’s sesquicentennial celebration of shaping the greatest minds",
+      "link": "https://www.myjoyonline.com/the-lion-roars-louder-mfantsipim-schools-sesquicentennial-celebration-of-shaping-the-greatest-minds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:32:39.000Z",
+      "summary": "Like a mighty lion that has trekked through countless thorny savannahs, yet comes to roar above his entire pride, Mfantsipim School celebrates one hundred and fifty years of legacy, service…",
+      "categories": [
+        "Education",
+        "Features",
+        "National",
+        "Leslie Hans-Anderson",
+        "Mfantsipim",
+        "Mfantsipim 150th anniversary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim: One hundred and fifty",
+      "link": "https://www.myjoyonline.com/mfantsipim-one-hundred-and-fifty/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:27:17.000Z",
+      "summary": "One hundred and fifty years, and still the walls remember. They remember footsteps, that have long disappeared, voices that filled the corridors, and dreams that began here, before the…",
+      "categories": [
+        "Features",
+        "National",
+        "Mfantsipim",
+        "Mfantsipim 150th anniversary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "What the 150th Anniversary of Mfantsipim means to me",
       "link": "https://www.myjoyonline.com/what-the-150th-anniversary-of-mfantsipim-means-to-me/",
@@ -141,21 +171,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "AFCON 2027Q: Black Stars touch down in Takoradi ahead of Somalia doubleheader",
-      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-touch-down-in-takoradi-ahead-of-somalia-doubleheader/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T08:26:58.000Z",
-      "summary": "The team touched down in Takoradi on Tuesday evening after wrapping up their final training session in Accra on Tuesday at the Accra Sports Stadium.",
-      "categories": [
-        "Football",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "121 file nominations for NDC national executive elections",
       "link": "https://ghanaiantimes.com.gh/121-file-nominations-for-ndc-national-executive-elections/",
       "source": "Ghanaian Times",
@@ -189,20 +204,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Vice President joins GEA CEO Margaret Ansei to promote SMEs at GWES ‘26",
-      "link": "https://www.myjoyonline.com/vice-president-joins-gea-ceo-margaret-ansei-to-promote-smes-at-gwes-26/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T08:18:54.000Z",
-      "summary": "The Vice President, Professor Jane Naana Opoku-Agyemang, joined the CEO of the Ghana Enterprises Agency (GEA), Ms Margaret Ansei, at the opening of the 5th Ghana Women Entrepreneurship…",
-      "categories": [
-        "Economy",
-        "National",
-        "Ghana Enterprises Agency (GEA)",
-        "Small and Medium Enterprises (SMEs)"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Islamic civilisation and its impact on science, technology and mathematics that ushered in the Industrial Revolution (700AD–1700AD)",
