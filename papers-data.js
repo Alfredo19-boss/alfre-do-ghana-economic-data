@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T09:39:33.586Z",
+  "updated": "2026-11-11T09:49:33.043Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GEA Summit focuses on financing and growth opportunities for women-led businesses",
+      "link": "https://www.myjoyonline.com/gea-summit-focuses-on-financing-and-growth-opportunities-for-women-led-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:43:35.000Z",
+      "summary": "The Ghana Enterprises Agency (GEA) has brought together women entrepreneurs, policymakers and development partners at its 5th Ghana Women Entrepreneurship Summit to explore strategies for…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 2",
+        "GEA",
+        "Professor Jane Naana Opoku-Agyemang",
+        "Vice President"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim School: The inconvenience of wonder",
+      "link": "https://www.myjoyonline.com/mfantsipim-school-the-inconvenience-of-wonder/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:39:12.000Z",
+      "summary": "A meditation on one hundred and fifty years of becoming. How dare the morning arrive with such nonchalance, spilling its gold across the firmament as though a century and a half were merely…",
+      "categories": [
+        "Features",
+        "National",
+        "Mfantsipim 150th anniversary",
+        "Mfantsipim School"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The Lion Roars Louder: Mfantsipim School’s sesquicentennial celebration of shaping the greatest minds",
       "link": "https://www.myjoyonline.com/the-lion-roars-louder-mfantsipim-schools-sesquicentennial-celebration-of-shaping-the-greatest-minds/",
@@ -117,35 +147,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Global fertilizer prices to drop 12% in 2027, offering potential relief to Ghanaian farmers",
-      "link": "https://www.myjoyonline.com/global-fertilizer-prices-to-drop-12-in-2027-offering-potential-relief-to-ghanaian-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T08:59:56.000Z",
-      "summary": "Ghana’s agricultural sector could benefit from an anticipated decline in global fertilizer prices in 2027, potentially easing input cost pressures on farmers and supporting food production…",
-      "categories": [
-        "Agribusiness",
-        "Business",
-        "HP Business 1",
-        "Farmers",
-        "Fertilizer"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "U23 AFCON 2027Q: Black Meteors wrap up preparations ahead of Libya showdown in Benghazi",
-      "link": "https://www.myjoyonline.com/u23-afcon-2027q-black-meteors-wrap-up-preparations-ahead-of-libya-showdown-in-benghazi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T08:37:02.000Z",
-      "summary": "Head coach Desmond Ofei supervised Tuesday evening's training session as the team fine-tuned preparations for the crucial first-leg encounter against the Mediterranean Knights.",
-      "categories": [
-        "Football",
-        "2027 U-23 AFCON",
-        "Black Meteors",
-        "Libya"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Fear, stigma put women at risk of breast cancer deaths – Police Ladies",

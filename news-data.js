@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T09:39:02.811Z",
+  "updated": "2026-11-11T09:49:02.731Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GEA Summit focuses on financing and growth opportunities for women-led businesses",
+      "link": "https://www.myjoyonline.com/gea-summit-focuses-on-financing-and-growth-opportunities-for-women-led-businesses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:43:35.000Z",
+      "summary": "The Ghana Enterprises Agency (GEA) has brought together women entrepreneurs, policymakers and development partners at its 5th Ghana Women Entrepreneurship Summit to explore strategies for…"
+    },
     {
       "title": "Invest in Ghana Summit Offers Investors Access to 100 Projects, 19 Government Agencies",
       "link": "https://thehighstreetjournal.com/invest-ghana-summit-investor-access/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T09:40:11.000Z",
       "summary": "Government Statistician Dr Alhassan Iddrisu has warned that Ghana could face fresh inflationary pressures from an anticipated severe El Niño weather event, which threatens to disrupt…"
-    },
-    {
-      "title": "IFS calls for reforms in 2027 budget to boost domestic revenue mobilisation",
-      "link": "https://www.myjoyonline.com/ifs-calls-for-reforms-in-2027-budget-to-boost-domestic-revenue-mobilisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T07:18:56.000Z",
-      "summary": "The Institute for Fiscal Studies (IFS) is warning that Ghana’s weak domestic revenue mobilisation is undermining the country’s capacity to finance critical infrastructure, improve public…"
     }
   ]
 };
