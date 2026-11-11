@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T11:19:33.182Z",
+  "updated": "2026-11-11T11:29:32.744Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -136,7 +136,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "US lawyer Ben Crump to pursue justice for Ghanaians killed in America - Ablakwa announces",
+      "title": "US lawyer Ben Crump to pursue justice for Javits Frimpong",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-engages-us-lawyer-ben-crump-to-seek-justice-for-nationals-killed-abroad.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T09:05:20.000Z",
