@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T02:50:12.232Z",
+  "updated": "2026-11-11T03:00:13.043Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "We need government to spend to stimulate growth – Bokpin",
+      "link": "https://www.myjoyonline.com/we-need-government-to-spend-to-stimulate-growth-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:55:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin has urged the government to spend to stimulate growth, warning that cuts to expenditure are delaying the benefits of economic stability for…"
+    },
     {
       "title": "‘Government has done quite well’ in restoring macroeconomic stability – Bokpin",
       "link": "https://www.myjoyonline.com/government-has-done-quite-well-in-restoring-macroeconomic-stability-bokpin/",

@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T02:50:42.907Z",
+  "updated": "2026-11-11T03:00:43.637Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "We need government to spend to stimulate growth – Bokpin",
+      "link": "https://www.myjoyonline.com/we-need-government-to-spend-to-stimulate-growth-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:55:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin has urged the government to spend to stimulate growth, warning that cuts to expenditure are delaying the benefits of economic stability for…",
+      "categories": [
+        "Economy",
+        "National",
+        "new economy",
+        "Prof Godfred Bokpin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Former Magistrate Mary Bibiana Oduro to be buried November 20",
       "link": "https://www.myjoyonline.com/former-magistrate-mary-bibiana-oduro-to-be-buried-november-20/",
@@ -111,20 +125,6 @@ window.GDC_PAPERS = {
         "Iran",
         "RAF",
         "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agya Koo eyes collaboration with Shirley Frimpong-Manso",
-      "link": "https://www.myjoyonline.com/agya-koo-eyes-collaboration-with-shirley-frimpong-manso/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T01:15:00.000Z",
-      "summary": "They are two celebrated names in Ghana's movie industry, each having carved a formidable reputation in their respective fields. Yet, despite their towering contributions to filmmaking…",
-      "categories": [
-        "Movies",
-        "Agya Koo",
-        "Movie",
-        "Shirley Frimpong-Manso"
       ],
       "site": "https://www.myjoyonline.com/"
     },
