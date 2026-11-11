@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T11:59:34.581Z",
+  "updated": "2026-11-11T12:09:34.892Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Edward Agyekum Kufuor: Kufuor's son declares bid for father's old Parliamentary seat",
+      "link": "https://www.graphic.com.gh/news/politics/edward-agyekum-kufuor-kufuors-son-declares-bid-for-fathers-old-parliamentary-seat.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T12:07:34.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "‘We don’t place value on human lives’ – Former DVLA boss on road deaths",
+      "link": "https://www.myjoyonline.com/we-dont-place-value-on-human-lives-former-dvla-boss-on-road-deaths/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:02:54.000Z",
+      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, says road crashes and fatalities in the country can only be significantly reduced when…",
+      "categories": [
+        "National",
+        "DVLA",
+        "Justice Yaw Amegashie",
+        "Road crashes",
+        "Road fatalities",
+        "road safety"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kow Essuman threatens to sue government over unpaid salary arrears and terminal benefits",
+      "link": "https://www.myjoyonline.com/kow-essuman-threatens-to-sue-government-over-unpaid-salary-arrears-and-terminal-benefits/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:55:15.000Z",
+      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has threatened legal action against the government over unpaid salary arrears and terminal benefits, saying…",
+      "categories": [
+        "National",
+        "Top Story",
+        "Kow Essuman",
+        "Legal action",
+        "terminal benefits",
+        "unpaid salary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Kow Essuman threatens legal action over unpaid salary arrears, terminal benefits",
       "link": "https://www.myjoyonline.com/kow-essuman-threatens-legal-action-over-unpaid-salary-arrears-terminal-benefits/",
@@ -117,36 +160,6 @@ window.GDC_PAPERS = {
         "Covid 19",
         "Kow Essuman",
         "Lockdown"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Uwumborche Gideon seeks to retain Saboba NPP secretary post, pledges stronger organisation",
-      "link": "https://www.myjoyonline.com/uwumborche-gideon-seeks-to-retain-saboba-npp-secretary-post-pledges-stronger-organisation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:10:28.000Z",
-      "summary": "The New Patriotic Party (NPP) Constituency Secretary for Saboba, Uwumborche Bitermi Gideon, is seeking re-election, pledging to strengthen the party’s grassroots structures, improve…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Gideon Uwumborche",
-        "NPP Secretary post",
-        "Saboba"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "U23 AFCON 2027Q: Daniel Adu Adjei ‘confident’ Black Meteors can beat Libya",
-      "link": "https://www.myjoyonline.com/u23-afcon-2027q-daniel-adu-adjei-confident-black-meteors-can-beat-libya/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:02:18.000Z",
-      "summary": "The Black Meteors are up against the North African side on Wednesday in the first leg of their encounter, hoping to claim a favourable results.",
-      "categories": [
-        "Football",
-        "National",
-        "Black Meteors",
-        "Daniel Adu-Adjei",
-        "U-23 AFCON Qualifiers"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -307,17 +320,6 @@ window.GDC_PAPERS = {
         "Technology"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ashaiman Roundabout–Atimpoku road under Big Push - Minister",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ashaiman-roundabout-atimpoku-road-under-big-push-minister.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T08:00:47.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     }
   ]
 };
