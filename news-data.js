@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T04:55:13.908Z",
+  "updated": "2026-11-11T05:05:17.397Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -15,12 +15,61 @@ window.GDC_NEWS = {
   "log": [
     "MyJoyOnline: 50/50 stories",
     "Citi Newsroom: failed (not an RSS/Atom feed)",
-    "The High Street Journal: failed (HTTP 403)",
+    "The High Street Journal: 10/10 stories",
     "Ghana Business News: 5/10 stories",
     "Ghana News Agency: 1/1 stories",
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "From 11 cents per kWh to 6 cents per kWh: Why Bui Power Can Sell Cheaper Electricity to Drive Industrialization",
+      "link": "https://thehighstreetjournal.com/from-11-cents-per-kwh-to-6-cents-per-kwh-why-bui-power-can-sell-cheaper-electricity-to-drive-industrialization/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T05:05:03.000Z",
+      "summary": "Dr. Kwabena Donkor wants Bui Power to reduce electricity tariffs to 6–7 US cents per kWh, arguing that repaid investment costs and improved efficiency should deliver cheaper power to drive…"
+    },
+    {
+      "title": "2027 Budget Must Back Irrigation and Drought Preparedness as El Niño Threatens Farms",
+      "link": "https://thehighstreetjournal.com/2027-budget-must-back-irrigation-and-drought-preparedness-as-el-nino-threatens-farms/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T05:05:00.000Z",
+      "summary": "Government faces calls to prioritise irrigation, drought-resistant seeds, water management and food reserves in the 2027 Budget as El Niño threatens agricultural production and food…"
+    },
+    {
+      "title": "How New Is the New Economy? Three Questions for Budget 2027",
+      "link": "https://thehighstreetjournal.com/how-new-is-the-new-economy-three-questions-for-budget-2027/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T05:03:00.000Z",
+      "summary": "Ghanaian professor of economics, Dennis Nsafoah questions whether Ghana's New Economy spending is genuinely new, how a bigger deficit will be financed, and whether it clashes with reserve…"
+    },
+    {
+      "title": "AGI Seeks Long-Term Industrial Financing and Lower Power Costs to Drive 24-Hour Economy",
+      "link": "https://thehighstreetjournal.com/agi-seeks-long-term-industrial-financing-and-lower-power-costs-to-drive-24-hour-economy/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T05:02:00.000Z",
+      "summary": "AGI wants the 2027 Budget to prioritise affordable industrial financing, electricity costs and trade protection, warning that these factors will determine local manufacturers’…"
+    },
+    {
+      "title": "Ghana Targets Keta Basin in Push to Reverse Declining Oil Reserves",
+      "link": "https://thehighstreetjournal.com/push-to-reverse-declining-oil-reserves/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T05:01:00.000Z",
+      "summary": "Ghana is stepping up efforts to revive offshore oil exploration in the Accra-Keta Basin as the government seeks to replenish declining petroleum reserves and attract fresh investment into…"
+    },
+    {
+      "title": "OPEC Fund Urges Stronger Project Preparation to Unlock Climate Finance in Emerging Markets",
+      "link": "https://thehighstreetjournal.com/opec-fund-on-stronger-project-preparation/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T05:00:00.000Z",
+      "summary": "The OPEC Fund for International Development is urging development finance institutions to do more than provide capital, calling for stronger project preparation and risk-sharing mechanisms…"
+    },
+    {
+      "title": "Improving Access to Financing in Ghana’s Agric Sector: The 4 Tests the 2027 Budget Must Pass",
+      "link": "https://thehighstreetjournal.com/improving-access-to-financing-in-ghanas-agric-sector-the-4-tests-the-2027-budget-must-pass/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T05:00:00.000Z",
+      "summary": "Sitsofe Mensah outlines four tests for Ghana’s 2027 Budget: channel funds through development finance institutions, reduce agricultural risks, provide affordable industrial power and build…"
+    },
     {
       "title": "Ghana secures $2b investment in petroleum agreements",
       "link": "https://www.ghanabusinessnews.com/2026/11/11/ghana-secures-2b-investment-in-petroleum-agreements/",
@@ -1021,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T02:27:00.000Z",
       "summary": "The CEO of the Ghana National Chamber of Commerce and Industry (GNCCI), Mark Badu-Aboagye, says production costs still need improvement."
-    },
-    {
-      "title": "GCB Bank Plc launches Opemsuo Royal Golf Invitational scheduled for November 28",
-      "link": "https://gna.org.gh/2026/11/gcb-bank-plc-launches-opemsuo-royal-golf-invitational-scheduled-for-november-28/",
-      "source": "Ghana News Agency",
-      "published": "2026-11-05T16:13:18.000Z",
-      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
     }
   ]
 };

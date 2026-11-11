@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T04:55:44.355Z",
+  "updated": "2026-11-11T05:05:44.204Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -35,6 +35,18 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Dangote Cement shelves London listing, blames market conditions for blow to LSE",
+      "link": "https://www.myjoyonline.com/dangote-cement-shelves-london-listing-blames-market-conditions-for-blow-to-lse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:21:00.000Z",
+      "summary": "Nigeria's Dangote Cement postponed its plans for a secondary listing in London on Tuesday, citing deteriorating market conditions, in a setback for the UK bourse.",
+      "categories": [
+        "Africa",
+        "Dangote Cement"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Cedi strengthens on GoldBod’s boost to forex liquidity; going for GH¢12.15 against a dollar at forex bureaus",
       "link": "https://www.myjoyonline.com/cedi-strengthens-on-goldbods-boost-to-forex-liquidity-going-for-gh%c2%a212-15-against-a-dollar-at-forex-bureaus/",
       "source": "MyJoyOnline",
@@ -48,6 +60,19 @@ window.GDC_PAPERS = {
         "Euro",
         "Goldbod",
         "Pound"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nigeria approves 145 new oil wells so far this year, regulator says",
+      "link": "https://www.myjoyonline.com/nigeria-approves-145-new-oil-wells-so-far-this-year-regulator-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:10:00.000Z",
+      "summary": "Nigeria's upstream oil regulator has approved ​145 new well-drilling operations, 595 well re-entries and ‌39 field development plans (FDPs) so far this year as it seeks to boost crude…",
+      "categories": [
+        "Africa",
+        "Nigeria",
+        "NNPC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -108,38 +133,6 @@ window.GDC_PAPERS = {
         "OMESS",
         "Richard Ahenkorah",
         "Salia Salifu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Economic stability will take time to reflect in Ghanaians’ lives – Bokpin",
-      "link": "https://www.myjoyonline.com/economic-stability-will-take-time-to-reflect-in-ghanaians-lives-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:44:00.000Z",
-      "summary": "Economics professor Godfred Alufar Bokpin says Ghanaians will have to wait to feel the benefits of economic stability because the recovery has relied heavily on government spending cuts.",
-      "categories": [
-        "Economy",
-        "National",
-        "economic stability",
-        "Prof Godfred A. Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GSE maintains positive run in October 2026; 68m shares traded",
-      "link": "https://www.myjoyonline.com/gse-maintains-positive-run-in-october-2026-68m-shares-traded/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:35:55.000Z",
-      "summary": "Trading activity recorded 88,630 transactions, representing a 59.07% increase compared with the same period last year.",
-      "categories": [
-        "Business",
-        "Stocks",
-        "GFIM",
-        "GSE",
-        "GSE-CI",
-        "GSE-FSI",
-        "Market Capitalization",
-        "volume traded"
       ],
       "site": "https://www.myjoyonline.com/"
     },
