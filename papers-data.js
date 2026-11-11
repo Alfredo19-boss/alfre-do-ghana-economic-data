@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T07:59:34.765Z",
+  "updated": "2026-11-11T08:09:34.106Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,29 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ghana’s iGaming Market Is Maturing. Here Is What Operators Need From Their Game Content",
+      "link": "https://ghanaiantimes.com.gh/ghanas-igaming-market-is-maturing-here-is-what-operators-need-from-their-game-content/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:02:05.000Z",
+      "summary": "Ghana has become one of West Africa’s most active betting markets. Most players bet on their phones, football is the main driver of activity, and casino-style games have grown into a large…",
+      "categories": [
+        "Technology"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "$18.8m project targets 20,000 rice farmers in Northern Ghana",
+      "link": "https://ghanaiantimes.com.gh/18-8m-project-targets-20000-rice-farmers-in-northern-ghana/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:01:18.000Z",
+      "summary": "THE Minister of Food and Agriculture, Dr Eric Opoku, on Monday launched the $18.8 million Regional West African Resilient Rice Value Chain Project (REWARD) to increase rice production…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Wednesday weather: Mist, sunshine and afternoon thunderstorms – GMet",
       "link": "https://www.graphic.com.gh/news/general-news/wednesday-weather-mist-sunshine-and-afternoon-thunderstorms-gmet.html",
@@ -107,28 +130,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Messi returns to FIFPRO World 11 as Kane misses out",
-      "link": "https://ghanaiantimes.com.gh/messi-returns-to-fifpro-world-11-as-kane-misses-out/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:34:56.000Z",
-      "summary": "Lionel Messi returned to the FIFPRO Men’s World 11 for a record-extending 18th selection on Monday, but Ballon d’Or winner Harry Kane was a surprise omission from the team chosen by…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Bayern coach Vincent Kompany returns to club for first time since collapse",
-      "link": "https://ghanaiantimes.com.gh/bayern-coach-vincent-kompany-returns-to-club-for-first-time-since-collapse/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:30:12.000Z",
-      "summary": "Bayern Munich coach Vincent Kompany has returned to the club’s training ground for the first time since he collapsed during practice last month. Bayern also revealed he suffered a shoulder…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     },
     {
       "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
