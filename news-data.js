@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T17:46:29.875Z",
+  "updated": "2026-11-11T17:56:29.619Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Cargo Losses Threaten Working Capital as ICSG Pushes for Stronger Insurance Awareness Among Importers",
+      "link": "https://thehighstreetjournal.com/cargo-losses-threaten-working-capital-as-icsg-pushes-for-stronger-insurance-awareness-among-importers/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T17:51:09.000Z",
+      "summary": "ICSG is targeting cargo-related financial losses through insurance education while calling for higher personal injury compensation limits, highlighting the importance of stronger financial…"
+    },
     {
       "title": "Women-Owned Businesses Face Working Capital Constraints Despite Growing Market Opportunities",
       "link": "https://thehighstreetjournal.com/women-owned-businesses-face-working-capital-constraints-despite-growing-market-opportunities/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T10:54:32.000Z",
       "summary": "The summit will bring together international investors, multinational companies, policymakers and business executives to explore opportunities in manufacturing, agribusiness…"
-    },
-    {
-      "title": "Ghana Chamber of Mines donates US$400,000 to GAF to support redevelopment of Burma Camp",
-      "link": "https://www.myjoyonline.com/ghana-chamber-of-mines-donates-us400000-to-gaf-to-support-redevelopment-of-burma-camp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T09:25:08.000Z",
-      "summary": "The Ghana Chamber of Mines has donated US$400,000 towards the ongoing redevelopment of Burma Camp to support the provision of decent accommodation for personnel of the Ghana Armed Forces…"
     }
   ]
 };

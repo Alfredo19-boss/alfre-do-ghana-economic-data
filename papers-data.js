@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T17:47:00.017Z",
+  "updated": "2026-11-11T17:56:59.749Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -46,6 +46,24 @@ window.GDC_PAPERS = {
         "National",
         "Clash",
         "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Former Oti Regional Minister Daniel Machator declares bid to contest Nkwanta South NPP parliamentary ticket",
+      "link": "https://www.myjoyonline.com/former-oti-regional-minister-daniel-machator-declares-bid-to-contest-nkwanta-south-npp-parliamentary-ticket/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:27:31.000Z",
+      "summary": "Former Oti Regional Minister, Daniel Machator, has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary for the Nkwanta South Constituency, seeking to…",
+      "categories": [
+        "National",
+        "Politics",
+        "Regional",
+        "Daniel Machator",
+        "Nkwanta",
+        "Nkwanta South",
+        "NPP",
+        "Oti Regional Minister"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -136,20 +154,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Mahama calls on diplomats to support Ghana’s AU agenda and reparatory justice drive",
-      "link": "https://www.myjoyonline.com/mahama-calls-on-diplomats-to-support-ghanas-au-agenda-and-reparatory-justice-drive/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:14:25.000Z",
-      "summary": "President John Mahama has called on diplomatic representatives in Ghana to support the African Union's priorities and sustain momentum on the reparatory justice agenda ahead of his…",
-      "categories": [
-        "National",
-        "African Union",
-        "President John Mahama",
-        "Reparatory justice"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Of failed promises and repackaged slogans: Ghana needs jobs, not another economic catchphrase - Amin Adam's open letter to Finance Minister",
