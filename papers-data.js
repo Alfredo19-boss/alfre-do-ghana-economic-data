@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T16:32:00.553Z",
+  "updated": "2026-11-11T16:41:59.553Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,88 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Deputy Minister engages Ghana Culture Forum on Creative Arts development",
+      "link": "https://ghanaiantimes.com.gh/deputy-minister-engages-ghana-culture-forum-on-creative-arts-development/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:40:21.000Z",
+      "summary": "The Deputy Minister for Tourism, Culture and Creative Arts, Yussif Issaka Jajah has engaged the Ghana Culture Forum (GCF) on strengthening collaboration to advance Ghana’s cultural and…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "NIA begins Ghana Card registration for children in Upper West and Savannah on November 12",
+      "link": "https://www.myjoyonline.com/nia-begins-ghana-card-registration-for-children-in-upper-west-and-savannah-on-november-12/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:38:19.000Z",
+      "summary": "Children aged between six and 14 in the Upper West and Savannah Regions will be registered for the Ghana Card from Thursday, November 12, as the National Identification Authority (NIA)…",
+      "categories": [
+        "National",
+        "Ghana Card",
+        "Registration",
+        "Upper West"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana engages US civil rights lawyer Ben Crump to seek Justice For Ghanaians Killed In US",
+      "link": "https://ghanaiantimes.com.gh/ghana-engages-us-civil-rights-lawyer-ben-crump-to-seek-justice-for-ghanaians-killed-in-us/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:38:08.000Z",
+      "summary": "Approval has been granted to Ghana’s Permanent Mission in New York to engage the services of celebrated US civil rights lawyer, Ben Crump, to assist Ghana in securing justice for all…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana Police intercepts GH₵20m worth of fake GTP fabric",
+      "link": "https://www.myjoyonline.com/ghana-police-intercepts-gh%e2%82%b520m-worth-of-fake-gtp-fabric/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:37:36.000Z",
+      "summary": "The Special Operations Team of the Inspector General of Police has intercepted counterfeit wax prints from Nigeria with imitated designs of Tex Styles Ghana Limited, producers of GTP…",
+      "categories": [
+        "Business",
+        "HP Business 2",
+        "Investments",
+        "Ghana Police",
+        "GTP fabric",
+        "Nigeria",
+        "Schandorf Nii Obodai",
+        "Tex Styles Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Fake Prophets are causing more harm than good in Ghana …A personal reflection on truth, discernment, and responsible faith",
+      "link": "https://ghanaiantimes.com.gh/fake-prophets-are-causing-more-harm-than-good-in-ghana-a-personal-reflection-on-truth-discernment-and-responsible-faith/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:34:48.000Z",
+      "summary": "For some time now, Ghana has witnessed an alarming proliferation of self-styled prophets and prophetic ministries whose practices raise serious questions about the integrity of the Gospel…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Interior Minister urges Western and Western North security councils to strengthen intelligence-sharing",
+      "link": "https://www.myjoyonline.com/interior-minister-urges-western-and-western-north-security-councils-to-strengthen-intelligence-sharing/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:34:06.000Z",
+      "summary": "The Minister for the Interior, Muntaka Mohammed-Mubarak, has urged the Western and Western North Regional Security Councils (REGSECs) to strengthen intelligence-sharing and collaboration…",
+      "categories": [
+        "National",
+        "Interior Minister",
+        "Muntaka Mohammed-Mubarak",
+        "Western and Western North security councils"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Environment Minister urges Parliament to fast-track National Sex Offenders Register",
       "link": "https://ghanaiantimes.com.gh/environment-minister-urges-parliament-to-fast-track-national-sex-offenders-register/",
@@ -145,47 +227,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘How many Ghanaians sleep at 6pm?’ Agalga defends evening Budget presentation",
-      "link": "https://www.myjoyonline.com/how-many-ghanaians-sleep-at-6pm-agalga-defends-evening-budget-presentation/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:07:11.000Z",
-      "summary": "Majority Leader James Agalga has dismissed concerns by the Minority over the 6:00 p.m. presentation of the 2027 Budget, insisting that Ghanaians will be wide awake to follow the Finance…",
-      "categories": [
-        "National",
-        "Agalga",
-        "Budget 2027",
-        "Majority"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama leads 81st Remembrance Day commemoration in Accra",
-      "link": "https://www.myjoyonline.com/mahama-leads-81st-remembrance-day-commemoration-in-accra/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:00:27.000Z",
-      "summary": "President John Dramani Mahama has led the commemoration of the 81st Annual Remembrance Day service at the Christiansborg War Cemetery in Accra, paying tribute to fallen soldiers of the…",
-      "categories": [
-        "National",
-        "Photo Story",
-        "81st Remembrance Day",
-        "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-      "link": "https://www.myjoyonline.com/hundreds-of-italian-schools-hit-by-threats-in-suspected-bomb-hoax/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:59:59.000Z",
-      "summary": "Some 300 schools across Italy have received bomb threats, according to Education Minister Giuseppe Valditara, who described the incidents as probably a \"cyber-attack, not a genuine risk\".",
-      "categories": [
-        "International",
-        "bomb hoax",
-        "Italia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Silence protects the abuser, not the child – Dr Apaak warns teachers over sexual misconduct",
       "link": "https://www.graphic.com.gh/news/education/silence-protects-the-abuser-not-the-child-dr-apaak-warns-teachers-over-sexual-misconduct.html",
       "source": "Daily Graphic",
@@ -272,41 +313,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Fear, stigma put women at risk of breast cancer deaths – Police Ladies",
-      "link": "https://ghanaiantimes.com.gh/fear-stigma-put-women-at-risk-of-breast-cancer-deaths-police-ladies-2/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:29:32.000Z",
-      "summary": "WOMEN have been urged to overcome fear, stigma and misconceptions surrounding breast cancer and seek early medical screening, as delayed diagnosis continues to put lives at risk. The Deputy…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Petroleum sector reforms submitted to Cabinet for approval",
-      "link": "https://ghanaiantimes.com.gh/petroleum-sector-reforms-submitted-to-cabinet-for-approval/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:27:04.000Z",
-      "summary": "THE Ministry of Energy and Green Transition has completed a review of Ghana’s upstream petroleum legal, regulatory and fiscal regime, the Chief Executive Officer (CEO) of the Petroleum…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "121 file nominations for NDC national executive elections",
-      "link": "https://ghanaiantimes.com.gh/121-file-nominations-for-ndc-national-executive-elections/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:23:39.000Z",
-      "summary": "A total of 121 aspirants have successfully filed their nomination forms to contest various positions in the National Democratic Congress (NDC) national executive elections, out of the 138…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
     }
   ]
 };

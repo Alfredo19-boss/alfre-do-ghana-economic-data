@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T16:31:29.845Z",
+  "updated": "2026-11-11T16:41:29.019Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana Police intercepts GH₵20m worth of fake GTP fabric",
+      "link": "https://www.myjoyonline.com/ghana-police-intercepts-gh%e2%82%b520m-worth-of-fake-gtp-fabric/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:37:36.000Z",
+      "summary": "The Special Operations Team of the Inspector General of Police has intercepted counterfeit wax prints from Nigeria with imitated designs of Tex Styles Ghana Limited, producers of GTP…"
+    },
     {
       "title": "2027 Budget: Gov’t Rules Out New Taxes as it Unveils $10bn Economic Transformation Plan",
       "link": "https://thehighstreetjournal.com/2027-budget-govt-rules-out-new-taxes-as-it-unveils-10bn-economic-transformation-plan/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-09T03:40:12.000Z",
       "summary": "Professor Michael Osei Adu, a Professor of Crop Ecophysiology and Improvement at the University of Cape Coast (UCC), has called for more research and increased investment in neglected and…"
-    },
-    {
-      "title": "Without media, economic policy means nothing to citizens – Governor",
-      "link": "https://www.ghanabusinessnews.com/2026/11/09/without-media-economic-policy-means-nothing-to-citizens-governor/",
-      "source": "Ghana Business News",
-      "published": "2026-11-09T03:33:48.000Z",
-      "summary": "Economic policy means nothing to citizens if they do not understand it, Dr Johnson Pandit Asiam, Governor of the Bank of Ghana (BoG), has said, describing the media is an essential partner…"
     }
   ]
 };
