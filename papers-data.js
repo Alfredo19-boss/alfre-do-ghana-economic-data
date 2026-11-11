@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T19:27:01.121Z",
+  "updated": "2026-11-11T19:36:59.735Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Interim Black Stars coach admits challenging circumstances",
+      "link": "https://www.myjoyonline.com/interim-black-stars-coach-admits-challenging-circumstances/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T19:31:59.000Z",
+      "summary": "Ghana’s interim manager Kim Lars Bjorkegren has admitted the unique challenges ahead of the 2027 Africa Cup of Nations Qualifiers against Somalia. Bjorkegren was appointed as interim Black…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 1",
+        "Sports",
+        "Afcon 2027",
+        "Black Queens",
+        "Black Stars",
+        "Ghana",
+        "Kim Lars Björkegren"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "ENNY Foundation wins award for autism advocacy and special needs support",
+      "link": "https://www.myjoyonline.com/enny-foundation-wins-award-for-autism-advocacy-and-special-needs-support/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T19:31:44.000Z",
+      "summary": "The ENNY Foundation has received the Paragon of Autism Advocacy and Special Needs Excellence award at the fifth edition of the Eminent Awards, in recognition of its work supporting children…",
+      "categories": [
+        "Events",
+        "autism advocacy",
+        "ENNY foundation",
+        "Special needs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama woos Thai investors for 12,000-hectare oil palm plantation in Ghana",
       "link": "https://www.myjoyonline.com/mahama-woos-thai-investors-for-12000-hectare-oil-palm-plantation-in-ghana/",
@@ -117,20 +150,6 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GES engages Funsi SHS authorities over lack of water and electricity in boys’ dormitory",
-      "link": "https://www.myjoyonline.com/ges-engages-funsi-shs-authorities-over-lack-of-water-electricity-in-boys-dormitory/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:25:36.000Z",
-      "summary": "The Ghana Education Service (GES) says it is working with the authorities of Funsi Senior High School (SHS) and relevant government agencies to address concerns over the lack of electricity…",
-      "categories": [
-        "Education",
-        "National",
-        "Funsi SHS",
-        "GES"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Parliament says no MP received bribe in AKSA Energy deal; Report forwarded to OSP",
       "link": "https://www.graphic.com.gh/news/politics/parliament-says-no-mp-received-bribe-in-aksa-energy-case-report-forwarded-to-osp.html",
       "source": "Daily Graphic",
@@ -140,23 +159,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
-      "link": "https://www.myjoyonline.com/gitex-world-robotix-2026-to-showcase-humanoid-robots-embodied-ai-and-next-generation-automation-in-dubai/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:16:44.000Z",
-      "summary": "The showcase will demonstrate how machines capable of perceiving, reasoning and acting in the physical world are reshaping sectors such as manufacturing, logistics, healthcare, hospitality…",
-      "categories": [
-        "Business",
-        "Technology",
-        "Dubai",
-        "embodied AI",
-        "GITEX World RobotiX 2026",
-        "humanoid robots",
-        "next-generation automation"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Kwahu Professionals Network brings free healthcare and relief to Kwahu Tafo residents",
