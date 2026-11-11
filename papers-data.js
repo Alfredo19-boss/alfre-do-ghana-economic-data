@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T02:30:42.675Z",
+  "updated": "2026-11-11T02:40:43.380Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘Government has done quite well’ in restoring macroeconomic stability – Bokpin",
+      "link": "https://www.myjoyonline.com/government-has-done-quite-well-in-restoring-macroeconomic-stability-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:36:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin says the government has done well to restore macroeconomic stability, citing falling inflation, lower interest rates, and the cedi’s relative…",
+      "categories": [
+        "Economy",
+        "National",
+        "new economy",
+        "Prof Godfred A. Bokpin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Former Magistrate Mary Bibiana Oduro to be buried November 20",
       "link": "https://www.myjoyonline.com/former-magistrate-mary-bibiana-oduro-to-be-buried-november-20/",
@@ -111,19 +125,6 @@ window.GDC_PAPERS = {
         "Agya Koo",
         "Movie",
         "Shirley Frimpong-Manso"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Alumni groups cannot fix it all – 1987 year group appeals for support for Seikwa Presbyterian School",
-      "link": "https://www.myjoyonline.com/alumni-groups-cannot-fix-it-all-1987-year-group-appeals-for-support-for-seikwa-presbyterian-school/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T01:02:00.000Z",
-      "summary": "The 1987 year group of Seikwa Presbyterian School has appealed to fellow alumni and stakeholders to unite and support efforts to address mounting infrastructural challenges at their alma…",
-      "categories": [
-        "News",
-        "School",
-        "Seikwa"
       ],
       "site": "https://www.myjoyonline.com/"
     },

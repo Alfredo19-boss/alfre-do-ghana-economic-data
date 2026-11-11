@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T02:30:12.207Z",
+  "updated": "2026-11-11T02:40:12.649Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "‘Government has done quite well’ in restoring macroeconomic stability – Bokpin",
+      "link": "https://www.myjoyonline.com/government-has-done-quite-well-in-restoring-macroeconomic-stability-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:36:00.000Z",
+      "summary": "Economics Professor Godfred Alufar Bokpin says the government has done well to restore macroeconomic stability, citing falling inflation, lower interest rates, and the cedi’s relative…"
+    },
     {
       "title": "Government’s spending cuts are cooling economy and squeezing demand – Bokpin",
       "link": "https://www.myjoyonline.com/governments-spending-cuts-are-cooling-economy-and-squeezing-demand-bokpin/",
