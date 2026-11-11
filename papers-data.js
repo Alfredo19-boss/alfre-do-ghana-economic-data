@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T05:45:44.177Z",
+  "updated": "2026-11-11T05:55:43.633Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Dr Nyaho-Tamakloe: Celebrating Hearts of Oak’s 115 years of history, excellence and institutional development",
+      "link": "https://www.myjoyonline.com/dr-nyaho-tamakloe-celebrating-hearts-of-oaks-115-years-of-history-excellence-and-institutional-development/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T05:52:57.000Z",
+      "summary": "Today, as Accra Hearts of Oak Sporting Club celebrates its 115th anniversary, I consider it a great honour to join the entire Phobian fraternity, both in Ghana and across the world, in…",
+      "categories": [
+        "Football",
+        "HP Sports 2",
+        "Dr Nyaho-Tamakloe",
+        "Hearts of Oak",
+        "Hearts of Oak anniversary",
+        "Togbe Afede"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gbentri-Nakpanduri Road: Agbodza vows to address abandoned 40km stretch",
       "link": "https://www.myjoyonline.com/gbentri-nakpanduri-road-agbodza-vows-to-address-abandoned-40km-stretch/",
@@ -42,6 +58,21 @@ window.GDC_PAPERS = {
         "Agric",
         "Otokunor",
         "Poultry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "African parties must prepare to govern, not just win elections — Asiedu Nketiah",
+      "link": "https://www.myjoyonline.com/african-parties-must-prepare-to-govern-not-just-win-elections-asiedu-nketiah/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T05:39:00.000Z",
+      "summary": "Political parties across Africa must move beyond the pursuit of electoral victories and build the institutional strength and expertise needed to govern effectively, the new Chairman of the…",
+      "categories": [
+        "News",
+        "Politics",
+        "AAPI",
+        "Asiedu Nketiah",
+        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -99,33 +130,6 @@ window.GDC_PAPERS = {
         "National",
         "Centre for Journalism Innovation and Development (CJID)",
         "Emmanuel Dzivenu"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gates Foundation says AGRA’s revised transformation strategy is strengthening Africa’s food systems",
-      "link": "https://www.myjoyonline.com/gates-foundation-says-agras-revised-transformation-strategy-is-strengthening-africas-food-systems/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:31:00.000Z",
-      "summary": "The Gates Foundation says AGRA’s revised strategy for transforming Africa’s food systems, which prioritises country-level needs and better connects farmers to markets, is helping strengthen…",
-      "categories": [
-        "Africa",
-        "Agribusiness",
-        "AGRA",
-        "Enock Chikava",
-        "Gates Foundation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dangote Cement shelves London listing, blames market conditions for blow to LSE",
-      "link": "https://www.myjoyonline.com/dangote-cement-shelves-london-listing-blames-market-conditions-for-blow-to-lse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:21:00.000Z",
-      "summary": "Nigeria's Dangote Cement postponed its plans for a secondary listing in London on Tuesday, citing deteriorating market conditions, in a setback for the UK bourse.",
-      "categories": [
-        "Africa",
-        "Dangote Cement"
       ],
       "site": "https://www.myjoyonline.com/"
     },
