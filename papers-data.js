@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T16:01:59.947Z",
+  "updated": "2026-11-11T16:12:00.418Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,47 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
+      "link": "https://www.myjoyonline.com/scottish-dj-32-confirmed-as-victim-of-krakow-shooting/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:07:39.000Z",
+      "summary": "A 32-year-old Scottish man has been confirmed as one of the victims of a mass shooting in Poland that left six people dead.",
+      "categories": [
+        "International",
+        "Krakow",
+        "Scottish",
+        "Shooting"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kennedys sue to block Trump’s arch, arguing it would cast shadow on JFK’s grave",
+      "link": "https://www.myjoyonline.com/kennedys-sue-to-block-trumps-arch-arguing-it-would-cast-shadow-on-jfks-grave/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:07:27.000Z",
+      "summary": "The family of former US President John F Kennedy has sued to block construction of a triumphal arch that President Donald Trump plans to build in the nation's capital.",
+      "categories": [
+        "International",
+        "Donald Trump",
+        "John F Kennedy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘How many Ghanaians sleep at 6pm?’ Agalga defends evening Budget presentation",
+      "link": "https://www.myjoyonline.com/how-many-ghanaians-sleep-at-6pm-agalga-defends-evening-budget-presentation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:07:11.000Z",
+      "summary": "Majority Leader James Agalga has dismissed concerns by the Minority over the 6:00 p.m. presentation of the 2027 Budget, insisting that Ghanaians will be wide awake to follow the Finance…",
+      "categories": [
+        "National",
+        "Agalga",
+        "Budget 2027",
+        "Majority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama leads 81st Remembrance Day commemoration in Accra",
       "link": "https://www.myjoyonline.com/mahama-leads-81st-remembrance-day-commemoration-in-accra/",
@@ -84,55 +125,6 @@ window.GDC_PAPERS = {
         "Awura Abena Agyeman",
         "CANEX Creative Pitch 2026",
         "Wear Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "link": "https://www.myjoyonline.com/russia-ukraine-talks-turn-to-post-war-security-but-end-without-breakthrough/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:50:18.000Z",
-      "summary": "Trilateral talks in Abu Dhabi between Russia, Ukraine and the US aimed at ending the war in Ukraine have concluded after a second day.",
-      "categories": [
-        "International",
-        "Breakthrough",
-        "Russia",
-        "Ukraine"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "71% want jobs and youth employment prioritised in 2027 Budget – KPMG/UNDP survey",
-      "link": "https://www.myjoyonline.com/71-want-jobs-and-youth-employment-prioritised-in-2027-budget-kpmg-undp-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:42:09.000Z",
-      "summary": "More than seven in 10 respondents want job creation and youth employment prioritised in Ghana’s 2027 Budget, according to a survey conducted by KPMG and the United Nations Development…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP News 2",
-        "National",
-        "Research",
-        "2027 Budget",
-        "Jobs",
-        "KPMG/UNDP",
-        "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TOR targets listing on Ghana Stock Exchange by 2028 to ensure long-term sustainability",
-      "link": "https://www.myjoyonline.com/tor-targets-listing-on-ghana-stock-exchange-by-2028-to-ensure-long-term-sustainability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:35:46.000Z",
-      "summary": "The Tema Oil Refinery (TOR) is targeting a listing on the Ghana Stock Exchange by 2028 as part of efforts to secure its long-term sustainability and prevent a recurrence of its operational…",
-      "categories": [
-        "Business",
-        "Energy",
-        "HP Business 2",
-        "Ghana Economic Forum",
-        "Ghana Stock Exchange",
-        "TOR"
       ],
       "site": "https://www.myjoyonline.com/"
     },

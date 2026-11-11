@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T16:01:29.216Z",
+  "updated": "2026-11-11T16:11:30.440Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget: Gov’t Rules Out New Taxes as it Unveils $10bn Economic Transformation Plan",
+      "link": "https://thehighstreetjournal.com/2027-budget-govt-rules-out-new-taxes-as-it-unveils-10bn-economic-transformation-plan/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T16:07:15.000Z",
+      "summary": "Government will rule out new taxes in the 2027 Budget, introduce a US$10 billion four-year economic transformation programme and outline petroleum-funded infrastructure and financing…"
+    },
+    {
+      "title": "TOR reduces negative equity from GH¢7.5bn to GH¢5bn – Kombat",
+      "link": "https://www.myjoyonline.com/tor-reduces-negative-equity-from-gh%c2%a27-5bn-to-gh%c2%a25bn-kombat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:58:05.000Z",
+      "summary": "The Tema Oil Refinery (TOR) says it has reduced its negative equity from GH¢7.5 billion to GH¢5 billion as part of efforts to restore its financial stability. Managing Director of TOR…"
+    },
     {
       "title": "71% want jobs and youth employment prioritised in 2027 Budget – KPMG/UNDP survey",
       "link": "https://www.myjoyonline.com/71-want-jobs-and-youth-employment-prioritised-in-2027-budget-kpmg-undp-survey/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "Ghana Business News",
       "published": "2026-11-09T03:33:48.000Z",
       "summary": "Economic policy means nothing to citizens if they do not understand it, Dr Johnson Pandit Asiam, Governor of the Bank of Ghana (BoG), has said, describing the media is an essential partner…"
-    },
-    {
-      "title": "Dangote to join President Mahama at GIPA Invest Ghana Summit",
-      "link": "https://www.ghanabusinessnews.com/2026/11/09/dangote-to-join-president-mahama-at-gipa-invest-ghana-summit/",
-      "source": "Ghana Business News",
-      "published": "2026-11-09T03:30:11.000Z",
-      "summary": "Mr Aliko Dangote, Africa’s foremost industrialist, and Chief Executive of the Dangote Group, West Africa’s largest conglomerate, will join President John Dramani Mahama to open the Invest…"
-    },
-    {
-      "title": "Fidelity Bank picks Atta Yeboah Gyan as MD, pending BoG approval",
-      "link": "https://www.myjoyonline.com/fidelity-bank-picks-atta-yeboah-gyan-as-md-pending-bog-approval/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T03:23:00.000Z",
-      "summary": "Fidelity Bank's Board has selected Deputy Managing Director Atta Yeboah Gyan as the bank’s next Managing Director, effective November 21, 2026."
     }
   ]
 };
