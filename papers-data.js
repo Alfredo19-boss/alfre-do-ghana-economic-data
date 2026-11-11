@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T08:09:34.106Z",
+  "updated": "2026-11-11T08:19:33.600Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,56 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2nd GhanaFest Europe fixed for December 8",
+      "link": "https://ghanaiantimes.com.gh/2nd-ghanafest-europe-fixed-for-december-8/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:19:23.000Z",
+      "summary": "The second GhanaFest Europe – Trade and Cultural Expo is scheduled to take place from December 8 to 10, 2026, at the RAI Amsterdam in the Netherlands. The expo is expected to bring together…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Islamic civilisation and its impact on science, technology and mathematics that ushered in the Industrial Revolution (700AD–1700AD)",
+      "link": "https://ghanaiantimes.com.gh/islamic-civilisation-and-its-impact-on-science-technology-and-mathematics-that-ushered-in-the-industrial-revolution-700ad-1700ad/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:17:00.000Z",
+      "summary": "THE core essence of this subject is to build unflinching confidence in our youth globally. It is a reminder of our glorious past and an attempt to provide a springboard that propels us into…",
+      "categories": [
+        "Features",
+        "Uncategorized"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ensuring fairer, more sustainable tax administration in Ghana …Understanding dispute resolution, legal processes and taxpayers’ rights",
+      "link": "https://ghanaiantimes.com.gh/ensuring-fairer-more-sustainable-tax-administration-in-ghana-understanding-dispute-resolution-legal-processes-and-taxpayers-rights/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T08:13:16.000Z",
+      "summary": "What should a taxpayer do when they disagree with a decision by the Ghana Revenue Authority (GRA)? It is one of the most frequently asked questions in my role as Technical Advisor to the…",
+      "categories": [
+        "Features"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON 2027Q: Black Stars hold final training in Accra before departure to Takoradi",
+      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-hold-final-training-in-accra-before-departure-to-takoradi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T08:11:39.000Z",
+      "summary": "The Black Stars held their final training session at the Accra Sports Stadium on Tuesday, before departing for Takoradi for the 2027 Africa Cup of Nations double-header against Somalia…",
+      "categories": [
+        "Football",
+        "HP Sports 1",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s iGaming Market Is Maturing. Here Is What Operators Need From Their Game Content",
       "link": "https://ghanaiantimes.com.gh/ghanas-igaming-market-is-maturing-here-is-what-operators-need-from-their-game-content/",
@@ -84,39 +134,6 @@ window.GDC_PAPERS = {
       "summary": "Interim coach, Kim Lars Björkegren, on Monday named a 26-man squad for the 2027 Africa Cup of Nations double-header against Somalia. The squad consists of a blend of home and foreign-based…",
       "categories": [
         "Sports"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "World Athletics raises entry standards for LA 2028 Games",
-      "link": "https://ghanaiantimes.com.gh/world-athletics-raises-entry-standards-for-la-2028-games/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:39:28.000Z",
-      "summary": "Athletes chasing qualification for the Los Angeles 2028 Olympics will face much tougher entry standards than for the Paris Games, with World Athletics yesterday tightening benchmarks across…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Musiala may never return to his best – Hoeness",
-      "link": "https://ghanaiantimes.com.gh/musiala-may-never-return-to-his-best-hoeness/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:38:15.000Z",
-      "summary": "Bayern Munich forward, Jamal Musiala, may never “regain the performance level he once had”, says honorary president, Uli Hoeness. The 23-year-old Germany international collapsed twice in…",
-      "categories": [
-        "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Usyk may stay at heavyweight for trilogy with Fury – Warren",
-      "link": "https://ghanaiantimes.com.gh/usyk-may-stay-at-heavyweight-for-trilogy-with-fury-warren/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:36:38.000Z",
-      "summary": "The prospect of a trilogy fight with Tyson Fury could tempt Oleksandr Usyk to call off his move out of the heavyweight division, says promoter Frank Warren. Usyk has an outstanding legacy…",
-      "categories": [
-        "Foriegn"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -229,22 +246,6 @@ window.GDC_PAPERS = {
         "HP News 1",
         "News",
         "Budget",
-        "finance",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
-      "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:58:00.000Z",
-      "summary": "The proposed “new economy” being advanced by the government is largely a rebranding of the 24-hour economy policy, with the key difference being a shift towards public financing after…",
-      "categories": [
-        "HP News 8",
-        "News",
-        "Budget",
-        "Economy",
         "finance",
         "Ghana"
       ],
