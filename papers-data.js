@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T12:19:34.562Z",
+  "updated": "2026-11-11T12:29:34.155Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,57 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Agbodza gives contractor one week to resume Bolgatanga-Bawku bridge works or risk termination",
+      "link": "https://www.myjoyonline.com/agbodza-gives-contractor-one-week-to-resume-bolgatanga-bawku-bridge-works-or-risk-termination/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:23:52.000Z",
+      "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has given Rango Construction one week to mobilise and resume work on a critical bridge along the Bolgatanga-Bawku-Pulmakom Road…",
+      "categories": [
+        "National",
+        "Bolgatanga-Bawku-Pulmakom Road",
+        "One Week",
+        "Rango Construction"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘It’s very worrying’ – Selassie Ibrahim raises concerns about AI in filmmaking",
+      "link": "https://www.myjoyonline.com/its-very-worrying-selassie-ibrahim-raises-concerns-about-ai-in-filmmaking/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:22:48.000Z",
+      "summary": "Ghanaian filmmaker Selassie Ibrahim has expressed concern about artificial intelligence (AI) in filmmaking, warning that it could push many industry professionals out of business.",
+      "categories": [
+        "HP Entertainment 1",
+        "Movies",
+        "Artificial Intelligence (AI)",
+        "Films",
+        "Selassie Ibrahim"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "President Mahama breaks ground for $235 million ship repair, Berth-19 projects at Takoradi Port",
+      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-breaks-ground-for-235-million-ship-repair-berth-19-projects-at-takoradi-port.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T12:22:26.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "The 2027 Budget must account before it announces: The fiscal test Ghanaians will use to judge it",
+      "link": "https://www.graphic.com.gh/news/politics/the-2027-budget-must-account-before-it-announces-the-fiscal-test-ghanaians-will-use-to-judge-it.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T12:16:24.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "UG’s Communication Studies Department to host maiden Chambas Memorial Lecture",
       "link": "https://www.myjoyonline.com/ugs-communication-studies-department-to-host-maiden-chambas-memorial-lecture/",
@@ -119,39 +170,6 @@ window.GDC_PAPERS = {
         "Legal action",
         "terminal benefits",
         "unpaid salary"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana’s economy expands by 6.8% in August 2026, driven by Services sector",
-      "link": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-8-in-august-2026-driven-by-services-sector/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:53:46.000Z",
-      "summary": "Ghana’s economy recorded a 6.8 percent growth in August 2026, up from 5.3 per cent in the same period last year, driven largely by strong performance in the services sector. Data from the…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 1",
-        "HP News 2",
-        "National",
-        "News",
-        "Ghana",
-        "Ghana Statistical Service",
-        "MIEG"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Buck Press Limited funds renovation of KNUST Publishing Studies Department facilities",
-      "link": "https://www.myjoyonline.com/buck-press-limited-funds-renovation-of-knust-publishing-studies-department-facilities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:45:14.000Z",
-      "summary": "The Publishing Studies Department of the Kwame Nkrumah University of Science and Technology (KNUST) has undergone a major infrastructure upgrade after Buck Press Limited financed the…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Buck Press Limited",
-        "KNUST Publishing Department"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -285,28 +303,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/ghana-news-womens-devt-bank-in-offing-banking-licence-application-awaiting-approval.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T08:12:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ghana discovers new gas",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-nation-discovers-new-gas.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T08:09:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "$18.8m Rice production initiative launched - Targets 20,000 smallholder farmers",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-18-8m-rice-production-initiative-launched-targets-20-000-smallholder-farmers.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T08:03:35.000Z",
       "summary": "",
       "categories": [
         "General News"

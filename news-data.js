@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T12:19:03.794Z",
+  "updated": "2026-11-11T12:29:04.731Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -34,6 +34,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T11:53:46.000Z",
       "summary": "Ghana’s economy recorded a 6.8 percent growth in August 2026, up from 5.3 per cent in the same period last year, driven largely by strong performance in the services sector. Data from the…"
+    },
+    {
+      "title": "Ghana’s economy expands by 6.8% in August 2026, driven by the services sector",
+      "link": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-8-in-august-2026-driven-by-the-services-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:53:46.000Z",
+      "summary": "Ghana’s economy recorded a 6.8 per cent growth in August 2026, up from 5.3 per cent in the same period last year, driven largely by strong performance in the services sector. Data from the…"
     },
     {
       "title": "IFAD Announces Climate Adaptation Bond to Mobilise Funding for Small-Scale Farmers",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T16:54:14.000Z",
       "summary": "The Institute of Packaging, Ghana (IOPG) says it will deepen collaboration with farmers, agro-processors and other stakeholders in the agricultural value chain to improve packaging…"
-    },
-    {
-      "title": "IMF acknowledges Ghana’s strong revenue performance and progress in tax administration reforms",
-      "link": "https://www.myjoyonline.com/imf-acknowledges-ghanas-strong-revenue-performance-and-progress-in-tax-administration-reforms/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T14:34:55.000Z",
-      "summary": "The IMF highlighted the early completion of the review of customs and excise legislation, ongoing digitalization through the Integrated Tax Administration System (ITAS) and electronic…"
     }
   ]
 };
