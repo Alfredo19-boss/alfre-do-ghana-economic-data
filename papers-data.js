@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T04:05:44.194Z",
+  "updated": "2026-11-11T04:15:43.706Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Cedi strengthens on GoldBod’s boost to forex liquidity; going for GH¢12.15 against a dollar at forex bureaus",
+      "link": "https://www.myjoyonline.com/cedi-strengthens-on-goldbods-boost-to-forex-liquidity-going-for-gh%c2%a212-15-against-a-dollar-at-forex-bureaus/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:12:12.000Z",
+      "summary": "“We believe October’s US$1.011 billion intermediation, offered at a uniform market-clearing rate, significantly anchored demand expectations and guided market pricing”, said Databank…",
+      "categories": [
+        "Business",
+        "Economy",
+        "BoG",
+        "Cedi",
+        "Euro",
+        "Goldbod",
+        "Pound"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
       "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
@@ -125,20 +142,6 @@ window.GDC_PAPERS = {
         "Judiciary",
         "Magsitrate",
         "Mary Bibiana Ama Ansomaa Oduro"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Government has done quite well’ in restoring macroeconomic stability – Bokpin",
-      "link": "https://www.myjoyonline.com/government-has-done-quite-well-in-restoring-macroeconomic-stability-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:36:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin says the government has done well to restore macroeconomic stability, citing falling inflation, lower interest rates, and the cedi’s relative…",
-      "categories": [
-        "Economy",
-        "National",
-        "new economy",
-        "Prof Godfred A. Bokpin"
       ],
       "site": "https://www.myjoyonline.com/"
     },
