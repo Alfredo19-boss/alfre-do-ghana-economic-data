@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T02:10:43.330Z",
+  "updated": "2026-11-11T02:20:43.064Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘I’ve been wounded, shed tears’ – Lateef Adedimeji speaks on life battles",
+      "link": "https://www.myjoyonline.com/ive-been-wounded-shed-tears-lateef-adedimeji-speaks-on-life-battles/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:14:00.000Z",
+      "summary": "Nollywood actor Lateef Adedimeji has disclosed that he is facing a series of challenges.",
+      "categories": [
+        "Movies",
+        "Lateef Adedimeji",
+        "Nollywood"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Judge allows Trump’s $10bn defamation case against BBC to proceed",
+      "link": "https://www.myjoyonline.com/judge-allows-trumps-10bn-defamation-case-against-bbc-to-proceed/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:11:44.000Z",
+      "summary": "A federal judge in Florida has allowed US President Donald Trump's defamation case against the BBC to go ahead after the broadcaster sought to dismiss it.",
+      "categories": [
+        "International",
+        "BBC",
+        "Trump",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
       "link": "https://www.myjoyonline.com/arrests-made-in-mohamed-al-fayed-probe-in-france-police-say/",
@@ -46,6 +73,34 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.myjoyonline.com/three-iran-backed-suspects-plotted-attacks-including-raf-fairford-incident-us-says/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T01:40:00.000Z",
+      "summary": "The US Department of Justice (DOJ) has announced charges against three Iran-backed operatives that it alleges were involved in a string of plots in the US and Europe.",
+      "categories": [
+        "International",
+        "Iran",
+        "RAF",
+        "US"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Agya Koo eyes collaboration with Shirley Frimpong-Manso",
+      "link": "https://www.myjoyonline.com/agya-koo-eyes-collaboration-with-shirley-frimpong-manso/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T01:15:00.000Z",
+      "summary": "They are two celebrated names in Ghana's movie industry, each having carved a formidable reputation in their respective fields. Yet, despite their towering contributions to filmmaking…",
+      "categories": [
+        "Movies",
+        "Agya Koo",
+        "Movie",
+        "Shirley Frimpong-Manso"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Alumni groups cannot fix it all – 1987 year group appeals for support for Seikwa Presbyterian School",
       "link": "https://www.myjoyonline.com/alumni-groups-cannot-fix-it-all-1987-year-group-appeals-for-support-for-seikwa-presbyterian-school/",
       "source": "MyJoyOnline",
@@ -68,63 +123,6 @@ window.GDC_PAPERS = {
         "International",
         "Meghan",
         "Thomas Markle"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Real Madrid’s Vinícius Jr sends surprise message to boy who lost his legs in Sudan’s war",
-      "link": "https://www.myjoyonline.com/real-madrids-vinicius-jr-sends-surprise-message-to-boy-who-lost-his-legs-in-sudans-war/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T00:19:00.000Z",
-      "summary": "In a dark room in Cairo, a 13-year-old boy looks up at a television screen, barely blinking.",
-      "categories": [
-        "International",
-        "Sports",
-        "Real Madrid",
-        "Sudan",
-        "Vinicius"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Government’s spending cuts are cooling economy and squeezing demand – Bokpin",
-      "link": "https://www.myjoyonline.com/governments-spending-cuts-are-cooling-economy-and-squeezing-demand-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T00:17:00.000Z",
-      "summary": "Economics professor Godfred Alufar Bokpin says government’s heavy reliance on spending cuts is cooling the economy and squeezing demand, even as key economic indicators improve.",
-      "categories": [
-        "Economy",
-        "National",
-        "new economy",
-        "Prof Godfred A. Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Managerial ‘inconsistency’ hurting Ghana – Hughton",
-      "link": "https://www.myjoyonline.com/managerial-inconsistency-hurting-ghana-hughton/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:52:00.000Z",
-      "summary": "As Ghana prepare for two make-or-break 2027 Africa Cup of Nations (Afcon) qualifiers with women's coach Kim Bjorkegren in temporary charge, former boss Chris Hughton has called for greater…",
-      "categories": [
-        "Football",
-        "National",
-        "Afcon 2027",
-        "Black Stars",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Lecturer’s bid to challenge FIFA president Infantino",
-      "link": "https://www.myjoyonline.com/lecturers-bid-to-challenge-fifa-president-infantino/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:43:00.000Z",
-      "summary": "University lecturer Peter Auf der Heyde is launching an ambitious bid to challenge Gianni Infantino for the FIFA presidency.",
-      "categories": [
-        "Football",
-        "FIFA",
-        "Peter Auf der Heyde"
       ],
       "site": "https://www.myjoyonline.com/"
     },
