@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T23:18:48.803Z",
+  "updated": "2026-11-11T23:28:46.711Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,26 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
+      "link": "https://www.myjoyonline.com/jimmy-aglah-takes-the-fight-against-galamsey-into-ghanaian-classrooms/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T23:20:20.000Z",
+      "summary": "Kumasi, Ghana — Ghanaian author and media executive Jimmy Aglah is taking the national conversation on illegal mining, environmental destruction and responsible citizenship into the…",
+      "categories": [
+        "Books",
+        "Education",
+        "National",
+        "News",
+        "Galamsey",
+        "Ghana",
+        "Jimmy Aglah",
+        "NaCCA",
+        "National Council for Curriculum and Assessment",
+        "When the River Testified"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports",
       "link": "https://www.myjoyonline.com/nvidia-ceo-huang-had-relationship-with-executive-who-reported-to-him-nyt-reports/",
@@ -117,20 +137,6 @@ window.GDC_PAPERS = {
         "Javits Frimpong",
         "Murder",
         "New York"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: Why COP31 climate negotiations should matter to Ghana",
-      "link": "https://www.myjoyonline.com/2027-budget-why-cop31-climate-negotiations-should-matter-to-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:03:42.000Z",
-      "summary": "Climate finance is no longer just an environmental funding issue. It is increasingly a fiscal, economic development, and national security concern, with direct implications for government…",
-      "categories": [
-        "National",
-        "2027 Budget",
-        "COP31 climate negotiations",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
