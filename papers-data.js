@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T10:59:33.290Z",
+  "updated": "2026-11-11T11:09:32.740Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "U23 AFCON 2027Q: Daniel Adu Adjei ‘confident’ Black Meteors can beat Libya",
+      "link": "https://www.myjoyonline.com/u23-afcon-2027q-daniel-adu-adjei-confident-black-meteors-can-beat-libya/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:02:18.000Z",
+      "summary": "The Black Meteors are up against the North African side on Wednesday in the first leg of their encounter, hoping to claim a favourable results.",
+      "categories": [
+        "Football",
+        "National",
+        "Black Meteors",
+        "Daniel Adu-Adjei",
+        "U-23 AFCON Qualifiers"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Academic City urges business leaders to make purpose central to business growth",
       "link": "https://www.myjoyonline.com/academic-city-urges-business-leaders-to-make-purpose-central-to-business-growth/",
@@ -116,22 +131,6 @@ window.GDC_PAPERS = {
         "National",
         "Mfantsipim 150th anniversary",
         "Mfantsipim School"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Lion Roars Louder: Mfantsipim School’s sesquicentennial celebration of shaping the greatest minds",
-      "link": "https://www.myjoyonline.com/the-lion-roars-louder-mfantsipim-schools-sesquicentennial-celebration-of-shaping-the-greatest-minds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:32:39.000Z",
-      "summary": "Like a mighty lion that has trekked through countless thorny savannahs, yet comes to roar above its entire pride, Mfantsipim School celebrates one hundred and fifty years of legacy, service…",
-      "categories": [
-        "Education",
-        "Features",
-        "National",
-        "Leslie Hans-Anderson",
-        "Mfantsipim",
-        "Mfantsipim 150th anniversary"
       ],
       "site": "https://www.myjoyonline.com/"
     },
