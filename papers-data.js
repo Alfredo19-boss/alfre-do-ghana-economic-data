@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T05:15:44.052Z",
+  "updated": "2026-11-11T05:25:43.680Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -29,6 +29,21 @@ window.GDC_PAPERS = {
       "categories": [
         "News",
         "Budget",
+        "finance",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
+      "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:58:00.000Z",
+      "summary": "The proposed “new economy” being advanced by the government is largely a rebranding of the 24-hour economy policy, with the key difference being a shift towards public financing after…",
+      "categories": [
+        "News",
+        "Budget",
+        "Economy",
         "finance",
         "Ghana"
       ],
@@ -88,21 +103,6 @@ window.GDC_PAPERS = {
         "Africa",
         "Nigeria",
         "NNPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
-      "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:08:00.000Z",
-      "summary": "The proposed “new economy” being advanced by the government is largely a rebranding of the 24-hour economy policy, with the key difference being a shift towards public financing after…",
-      "categories": [
-        "News",
-        "Budget",
-        "Economy",
-        "finance",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
