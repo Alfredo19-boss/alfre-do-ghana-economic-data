@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T16:51:59.858Z",
+  "updated": "2026-11-11T17:01:59.972Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Pulima Chief endorses GMTF, calls for heart surgeons in Upper West",
+      "link": "https://www.graphic.com.gh/news/general-news/pulima-chief-endorses-gmtf-calls-for-heart-surgeons-in-upper-west.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T17:00:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
     {
       "title": "Lattice Energy positions for growth in Ghana’s petroleum downstream industry",
       "link": "https://www.myjoyonline.com/lattice-energy-positions-for-growth-in-ghanas-petroleum-downstream-industry/",
@@ -306,17 +317,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/general-news/akufo-addo-govt-secured-key-approvals-for-new-oil-discovery-adomako-mensah.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T13:18:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "President Mahama breaks ground for $235 million ship repair, Berth-19 projects at Takoradi Port",
-      "link": "https://www.graphic.com.gh/news/general-news/president-mahama-breaks-ground-for-235-million-ship-repair-berth-19-projects-at-takoradi-port.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T12:22:26.000Z",
       "summary": "",
       "categories": [
         "General News"

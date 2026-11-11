@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T16:51:29.939Z",
+  "updated": "2026-11-11T17:01:29.311Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Lattice Energy positions for growth in Ghana’s petroleum downstream industry",
+      "link": "https://www.myjoyonline.com/lattice-energy-positions-for-growth-in-ghanas-petroleum-downstream-industry/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:51:11.000Z",
+      "summary": "Ghanaian energy trading and supply company, Lattice Energy Ltd, says it is positioning itself to contribute to the growth of the country’s petroleum downstream industry through strategic…"
+    },
+    {
+      "title": "TOR seeks private investors to shield refinery from political interference",
+      "link": "https://www.myjoyonline.com/tor-seeks-private-investors-to-shield-refinery-from-political-interference/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:51:01.000Z",
+      "summary": "The Tema Oil Refinery (TOR) is working to attract private-sector investors as part of efforts to strengthen its governance structure and protect the state-owned facility from political…"
+    },
     {
       "title": "MIIF Targets Foreign Capital To Unlock Ghana’s $528 Million Iron and Steel Import Substitution Potential",
       "link": "https://thehighstreetjournal.com/miif-targets-foreign-capital-to-unlock-ghanas-528-million-iron-and-steel-import-substitution-potential/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T05:47:19.000Z",
       "summary": "The Presidency says preliminary studies have confirmed that Ghana’s proposed national airline is viable."
-    },
-    {
-      "title": "ADB launches Green-Grow scheme to empower smallholder vegetable farmers",
-      "link": "https://www.myjoyonline.com/adb-launches-green-grow-scheme-to-empower-smallholder-vegetable-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T05:28:00.000Z",
-      "summary": "Agricultural Development Bank (ADB) PLC has launched its Green-Grow Vegetable Farmers Lending Scheme to expand access to structured agricultural financing and boost local vegetable…"
-    },
-    {
-      "title": "Ghana nears finish line in external debt restructuring – GSDR",
-      "link": "https://www.myjoyonline.com/ghana-nears-finish-line-in-external-debt-restructuring-gsdr/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T03:41:00.000Z",
-      "summary": "Ghana’s external debt restructuring is nearing completion, with 16 of 25 bilateral agreements with official creditors finalised, according to the Global Sovereign Debt Roundtable (GSDR)."
     }
   ]
 };
