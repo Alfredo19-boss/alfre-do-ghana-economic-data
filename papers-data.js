@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T18:47:01.927Z",
+  "updated": "2026-11-11T18:57:01.010Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "AFPNC founder calls for expanded NHIS coverage, longer maternity leave for mothers of premature babies",
+      "link": "https://www.myjoyonline.com/afpnc-founder-calls-for-expanded-nhis-coverage-longer-maternity-leave-for-mothers-of-premature-babies/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:56:39.000Z",
+      "summary": "The Founder and Executive Director of the African Foundation for Premature Babies and Maternal Care (AFPNC), Selina Bentoom, has called for expanded National Health Insurance Scheme (NHIS)…",
+      "categories": [
+        "Health",
+        "National",
+        "AFPNC",
+        "NHIS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Gov’t launches Foundational Learning Programme 2026-20240 to improve early childhood education",
       "link": "https://www.myjoyonline.com/govt-launches-foundational-learning-programme-2026-20240-to-improve-early-childhood-education/",
@@ -140,22 +154,6 @@ window.GDC_PAPERS = {
         "AI",
         "digital solutions",
         "Npontu Technologies"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Apples, family & a brilliant business idea: My day at B.J. Reece Orchards and what Ghana can learn",
-      "link": "https://www.myjoyonline.com/apples-family-a-brilliant-business-idea-my-day-at-b-j-reece-orchards-and-what-ghana-can-learn/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:05:51.000Z",
-      "summary": "It started as a simple family idea. My sister said, “Let’s go do something outdoors, something for bonding.” So, we found ourselves driving up to Ellijay — Georgia’s Apple Capital — to the…",
-      "categories": [
-        "Features",
-        "Food",
-        "Lifestyle",
-        "Travel",
-        "Apples",
-        "B.J. Reece Orchards"
       ],
       "site": "https://www.myjoyonline.com/"
     },
