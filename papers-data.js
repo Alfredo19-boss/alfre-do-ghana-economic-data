@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T13:09:32.925Z",
+  "updated": "2026-11-11T13:19:34.789Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,100 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Akufo-Addo gov’t secured key approvals for new oil discovery – Adomako-Mensah",
+      "link": "https://www.graphic.com.gh/news/general-news/akufo-addo-govt-secured-key-approvals-for-new-oil-discovery-adomako-mensah.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T13:18:03.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov’t intervention",
+      "link": "https://www.myjoyonline.com/small-scale-miners-accuse-security-agencies-of-extortion-during-anti-galamsey-raids-demand-govt-intervention/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:14:05.000Z",
+      "summary": "A group calling itself the Progressive Small Scale Miners Association of Ghana is accusing security agencies tasked with combating illegal mining of extorting money from miners.",
+      "categories": [
+        "National",
+        "anti-galamsey raids",
+        "Extortion",
+        "Security agencies",
+        "Small-scale miners"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ennobled Foundation recognises Female Accounting Graduate to encourage more women in the profession",
+      "link": "https://www.myjoyonline.com/ennobled-foundation-recognises-female-accounting-graduate-to-encourage-more-women-in-the-profession/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:10:38.000Z",
+      "summary": "Ennobled Foundation has presented its Best Graduating Female Accounting Student Award to Matilda Dede Angmortey at the 18th Congregation of the University of Professional Studies, Accra…",
+      "categories": [
+        "Banking and Finance",
+        "Business",
+        "HP Business 7",
+        "Ennobled Foundation",
+        "Mrs Gloria Boye-Doku"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "“I’ve never liked democracy”- George Quaye",
+      "link": "https://www.myjoyonline.com/ive-never-liked-democracy-george-quaye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:10:31.000Z",
+      "summary": "Ghanaian creative entrepreneur George Quaye has weighed in on the concept of democracy, arguing that its four-year electoral cycle has hindered the country’s development, particularly in…",
+      "categories": [
+        "HP Entertainment 2",
+        "Radio & TV",
+        "Democracy",
+        "George Quaye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Wa West District Assembly disburses Disability Common Fund to PWDs",
+      "link": "https://www.myjoyonline.com/wa-west-district-assembly-disburses-disability-common-fund-to-pwds/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:08:19.000Z",
+      "summary": "The Wa West District Assembly has disbursed support items and cash to Persons with Disabilities (PWDs) under the Disability Common Fund, in a ceremony described as a major step towards…",
+      "categories": [
+        "National",
+        "PWDs",
+        "Wa West District Assembly"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mrs Janet Gyasi Boakye",
+      "link": "https://www.myjoyonline.com/mrs-janet-gyasi-boakye/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:08:16.000Z",
+      "summary": "Called To Glory The Aryeetey Family of Gbese, Accra, Kwame Addo Family of Akuapem, Ekuona and Gyasi Royal Family from Akoase and Opanyini Albert Agyei of Asona Abusuapanyini of Akyem Nwinso…",
+      "categories": [
+        "National",
+        "Obituary",
+        "Mrs Janet Gyasi Boakye"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama directs Petroleum Commission, other agencies to work on feedstock supply for Petroleum Hub Project",
+      "link": "https://www.myjoyonline.com/mahama-directs-petroleum-commission-other-agencies-to-work-on-feedstock-supply-for-petroleum-hub-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:05:45.000Z",
+      "summary": "The Petroleum Commission and other state agencies in the upstream oil and gas sector have been instructed by President John Dramani Mahama to work with the Petroleum Hub Development…",
+      "categories": [
+        "Energy",
+        "Mahama",
+        "Petroleum Hub"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Over 70% of Ghanaians expect jobs and youth employment as top priorities in 2027 Budget-KPMG/UNDP survey",
       "link": "https://www.myjoyonline.com/over-70-of-ghanaians-expect-jobs-and-youth-employment-as-top-priorities-in-2027-budget-kpmg-undp-survey/",
@@ -47,95 +141,6 @@ window.GDC_PAPERS = {
         "National",
         "Obituary",
         "Isaac Nii Kpakpo Oti van der Puije"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mrs Margaret Marie Krakue (Maame Efua Good Friday)",
-      "link": "https://www.myjoyonline.com/mrs-margaret-marie-krakue-maame-efua-good-friday/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:57:35.000Z",
-      "summary": "Awulae Attibrukusu (III) (Omanhene and President of Lower Axim Traditional Council), Nana Kofi Arko (Divisional Chief of Ewoku), Obaahema Ekpone Ama (ll) (Divisional Queen Mother of Ewoku)…",
-      "categories": [
-        "National",
-        "Obituary",
-        "Margaret Marie Krakue"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NYA denies organising December trip to Togo",
-      "link": "https://www.myjoyonline.com/nya-denies-organising-december-trip-to-togo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:53:26.000Z",
-      "summary": "The National Youth Authority (NYA) has denied claims circulating on social media that it is organising a trip to Togo in December 2026, describing the reports as false and misleading.",
-      "categories": [
-        "National",
-        "December",
-        "NYA",
-        "Togo",
-        "Trip"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kow Essuman accuses Finance Minister, AG of ignoring letters over unpaid entitlements",
-      "link": "https://www.myjoyonline.com/kow-essuman-accuses-finance-minister-ag-of-ignoring-letters-over-unpaid-entitlements/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:49:48.000Z",
-      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has criticised the Attorney-General and Finance Minister for failing to respond to his demands for payment of…",
-      "categories": [
-        "National",
-        "AG",
-        "Finance Minister",
-        "Kow Essuman",
-        "Unpaid entitlements"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Margaret Obuobea Bafo",
-      "link": "https://www.myjoyonline.com/margaret-obuobea-bafo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:46:09.000Z",
-      "summary": "With deep sorrow and in submission to the will of Almighty God, the family announces the passing of their beloved mother, grandmother, sister, aunt and relative.MADAM MARGARET OBUOBEA…",
-      "categories": [
-        "National",
-        "Obituary",
-        "Margaret Obuobea Bafo"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Powering Ghana’s future: Can small modular reactors drive the nation’s industrial growth",
-      "link": "https://www.myjoyonline.com/powering-ghanas-future-can-small-modular-reactors-drive-the-nations-industrial-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:45:58.000Z",
-      "summary": "Ghana stands at a pivotal juncture in its national energy development. With a rapidly growing economy and an expanding industrial base, long-term national planning requires a secure…",
-      "categories": [
-        "Business",
-        "Comp. Opinion",
-        "HP Opinion 1",
-        "ACP100",
-        "CNNC",
-        "Ghana",
-        "IAEA",
-        "SMRs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Agbodza gives contractor one week to resume Bolgatanga-Bawku bridge works or risk termination",
-      "link": "https://www.myjoyonline.com/agbodza-gives-contractor-one-week-to-resume-bolgatanga-bawku-bridge-works-or-risk-termination/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:23:52.000Z",
-      "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has given Rango Construction one week to mobilise and resume work on a critical bridge along the Bolgatanga-Bawku-Pulmakom Road…",
-      "categories": [
-        "HP News 3",
-        "National",
-        "Bolgatanga-Bawku-Pulmakom Road",
-        "One Week",
-        "Rango Construction"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -296,17 +301,6 @@ window.GDC_PAPERS = {
         "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Women’s Devt Bank in offing: Banking licence application awaiting approval",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-womens-devt-bank-in-offing-banking-licence-application-awaiting-approval.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T08:12:56.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana’s iGaming Market Is Maturing. Here Is What Operators Need From Their Game Content",

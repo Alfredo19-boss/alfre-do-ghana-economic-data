@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T13:09:02.249Z",
+  "updated": "2026-11-11T13:19:03.346Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Analyst urges focus on high cost of essentials ahead of 2027 budget",
+      "link": "https://www.myjoyonline.com/analyst-urges-focus-on-high-cost-of-essentials-ahead-of-2027-budget/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:17:41.000Z",
+      "summary": "Economic and environmental policy analyst Michael Adofo Abuah has urged the government to address the rising cost of essential goods and services as it prepares to roll out its New Economy…"
+    },
+    {
+      "title": "Ennobled Foundation recognises Female Accounting Graduate to encourage more women in the profession",
+      "link": "https://www.myjoyonline.com/ennobled-foundation-recognises-female-accounting-graduate-to-encourage-more-women-in-the-profession/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:10:38.000Z",
+      "summary": "Ennobled Foundation has presented its Best Graduating Female Accounting Student Award to Matilda Dede Angmortey at the 18th Congregation of the University of Professional Studies, Accra…"
+    },
     {
       "title": "Mahama directs Petroleum Commission, other agencies to work on feedstock supply for Petroleum Hub Project",
       "link": "https://www.myjoyonline.com/mahama-directs-petroleum-commission-other-agencies-to-work-on-feedstock-supply-for-petroleum-hub-project/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-07T08:12:22.000Z",
       "summary": "The Chief Executive Officer of WeWire, Ebenezer Ghanney, says tokenising Ghana's government securities could make it easier for international investors to access the domestic market and…"
-    },
-    {
-      "title": "Comrade Steven Nhyira Odarteifio donates 1,000 bags of organic fertiliser to support young farmers",
-      "link": "https://www.myjoyonline.com/comrade-steven-nhyira-odarteifio-donates-1000-bags-of-organic-fertiliser-to-support-young-farmers/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T06:01:00.000Z",
-      "summary": "Comrade Steven Nhyira Odarteifio, an aspirant for the position of National Youth Organiser of the National Democratic Congress (NDC), has donated 1,000 bags of 10-kilogramme organic…"
-    },
-    {
-      "title": "Zenith SME Business Empowerment Lab: SMEs urged to identify business risks and adopt mitigation strategies to ensure sustainability",
-      "link": "https://www.myjoyonline.com/zenith-sme-business-empowerment-lab-smes-urged-to-identify-business-risks-and-adopt-mitigation-strategies-to-ensure-sustainability/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T05:15:45.000Z",
-      "summary": "According to the experts, business resilience goes beyond responding to crises. It requires a deliberate and strategic approach to identifying potential vulnerabilities, safeguarding…"
     }
   ]
 };
