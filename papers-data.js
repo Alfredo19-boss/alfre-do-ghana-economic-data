@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T22:28:46.855Z",
+  "updated": "2026-11-11T22:38:47.045Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ahead of 2027 Budget: Techiman drivers complain about fuel prices as traders lament slow sales and delays in Women’s Development Bank",
+      "link": "https://www.myjoyonline.com/ahead-of-2027-budget-techiman-drivers-complain-about-fuel-prices-as-traders-lament-slow-sales-and-delays-in-womens-development-bank/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:35:34.000Z",
+      "summary": "As Finance Minister Dr Cassiel Ato Forson prepares to present the 2027 Budget Statement and Economic Policy to Parliament tomorrow, Thursday, November 12, at 6:00 pm, the mood in Techiman…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "Techiman drivers",
+        "Traders",
+        "women's development bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "The Politics of Reconciliation: A case for lawyer Kwasi Kwarteng",
       "link": "https://www.myjoyonline.com/the-politics-of-reconciliation-a-case-for-lawyer-kwasi-kwarteng-2/",
@@ -68,21 +83,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Spain intercepts 2.6 tonnes of cocaine shipped from Tema Port",
-      "link": "https://www.myjoyonline.com/spain-intercepts-2-6-tonnes-of-cocaine-shipped-from-tema-port/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:57:19.000Z",
-      "summary": "Spanish law enforcement agencies have uncovered a major cocaine consignment concealed in a shipment of coconuts from Ghana, seizing 2.6 tonnes of the narcotic and arresting two men in…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Cocaine",
-        "Tema Port"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Upper West Region honours fallen heroes on 81st Remembrance Day",
       "link": "https://www.myjoyonline.com/upper-west-region-honours-fallen-heroes-on-81st-remembrance-day/",
       "source": "MyJoyOnline",
@@ -93,6 +93,21 @@ window.GDC_PAPERS = {
         "81st Remembrance Day",
         "fallen heroes",
         "Upper West Region"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Spain intercepts 2.6 tonnes of cocaine shipped from Tema Port",
+      "link": "https://www.myjoyonline.com/spain-intercepts-2-6-tonnes-of-cocaine-shipped-from-tema-port/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:47:00.000Z",
+      "summary": "Spanish law enforcement agencies have uncovered a major cocaine consignment concealed in a shipment of coconuts from Ghana, seizing 2.6 tonnes of the narcotic and arresting two men in…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Cocaine",
+        "Tema Port"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -121,20 +136,6 @@ window.GDC_PAPERS = {
         "Regional",
         "1984 year group",
         "Wa Senior High School (WASEC)"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Why Dr. Farouk Aliu Mahama remains NPP’s best bet to reclaim Yendi seat in 2028",
-      "link": "https://www.myjoyonline.com/why-dr-farouk-aliu-mahama-remains-npps-best-bet-to-reclaim-yendi-seat-in-2028/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:21:10.000Z",
-      "summary": "In politics, numbers do not lie. And the numbers from Yendi in the 2020 and 2024 elections tell a very clear story.",
-      "categories": [
-        "Opinion",
-        "Dr. Farouk Aliu Mahama",
-        "NPP",
-        "Yendi seat"
       ],
       "site": "https://www.myjoyonline.com/"
     },
