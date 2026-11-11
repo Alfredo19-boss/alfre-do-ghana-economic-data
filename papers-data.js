@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T23:53:44.152Z",
+  "updated": "2026-11-11T00:03:45.331Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,32 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Lecturer’s bid to challenge FIFA president Infantino",
+      "link": "https://www.myjoyonline.com/lecturers-bid-to-challenge-fifa-president-infantino/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:43:00.000Z",
+      "summary": "University lecturer Peter Auf der Heyde is launching an ambitious bid to challenge Gianni Infantino for the FIFA presidency.",
+      "categories": [
+        "Football",
+        "FIFA",
+        "Peter Auf der Heyde"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kompany back at Bayern training after collapse",
+      "link": "https://www.myjoyonline.com/kompany-back-at-bayern-training-after-collapse/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:32:00.000Z",
+      "summary": "Head coach Vincent Kompany has returned to Bayern Munich's training ground after collapsing at the end of last month.",
+      "categories": [
+        "Football",
+        "Bayern Munich",
+        "Vincent Kompany"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Wenger considers standing against Infantino",
       "link": "https://www.myjoyonline.com/wenger-considers-standing-against-infantino/",
@@ -106,33 +132,6 @@ window.GDC_PAPERS = {
         "International",
         "Jensen Huang",
         "Nvidia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Malaysia’s disgraced former PM leaves jail for house arrest after embezzling millions",
-      "link": "https://www.myjoyonline.com/malaysias-disgraced-former-pm-leaves-jail-for-house-arrest-after-embezzling-millions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:21:00.000Z",
-      "summary": "Malaysia's disgraced former Prime Minister Najib Razak has arrived home to begin serving the rest of a jail sentence for corruption under house arrest.",
-      "categories": [
-        "International",
-        "Malaysia",
-        "Najib Razak"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kim Kardashian’s Skims offers refunds for $148 advent calendar after backlash",
-      "link": "https://www.myjoyonline.com/kim-kardashians-skims-offers-refunds-for-148-advent-calendar-after-backlash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:12:00.000Z",
-      "summary": "Kim Kardashian's Skims is offering refunds for its $148 (£110) advent calendar after widespread social media criticism.",
-      "categories": [
-        "International",
-        "Movies",
-        "Kim Kardarshian",
-        "SKIMS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
