@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T12:29:34.155Z",
+  "updated": "2026-11-11T12:39:40.902Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,6 +27,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T12:23:52.000Z",
       "summary": "The Minister of Roads and Highways, Kwame Governs Agbodza, has given Rango Construction one week to mobilise and resume work on a critical bridge along the Bolgatanga-Bawku-Pulmakom Road…",
       "categories": [
+        "HP News 3",
         "National",
         "Bolgatanga-Bawku-Pulmakom Road",
         "One Week",
@@ -108,6 +109,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T12:08:40.000Z",
       "summary": "President John Mahama has broken ground for the construction of the 300-metre-long Berth 19 facility at the Takoradi Port, a project expected to expand the port's capacity to handle larger…",
       "categories": [
+        "In Focus",
         "National",
         "President John Mahama",
         "Takoradi Port"

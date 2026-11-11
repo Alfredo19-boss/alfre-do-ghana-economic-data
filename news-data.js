@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T12:29:04.731Z",
+  "updated": "2026-11-11T12:39:03.084Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "OPEC Fund Calls for Coordinated Climate Financing to Accelerate Country-Led Projects",
+      "link": "https://thehighstreetjournal.com/opec-fund-oncoordinated-climate-financing/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T12:35:00.000Z",
+      "summary": "The OPEC Fund says stronger partnerships, country ownership and innovative financing instruments are critical to unlocking private capital and turning climate commitments into development…"
+    },
     {
       "title": "2027 Budget: CERPA Outlines a 5-Point Recommendation for Consideration After a Pre-Budget Study",
       "link": "https://thehighstreetjournal.com/2027-budget-cerpa-outlines-a-5-point-recommendation-for-consideration-after-a-pre-budget-study/",
@@ -279,6 +286,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-10T20:00:00.000Z",
       "summary": "Ghana's tourism and creative economy faces a delivery gap as funding releases and infrastructure delays limit business opportunities, prompting calls for transparent reporting, accessible…"
+    },
+    {
+      "title": "GIPA CEO calls for shift from raw material exports to value addition",
+      "link": "https://www.myjoyonline.com/gipa-ceo-calls-for-shift-from-raw-material-exports-to-value-addition/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T19:40:03.000Z",
+      "summary": "Mr Madjie made the call at the 15th Ghana Economic Forum, hosted by the Business and Financial Times (B&FT) in Accra, under the theme “From Stabilisation to Scale: Mobilising Capital…"
     },
     {
       "title": "Ghana’s GH¢357 Billion Budget Faces Procurement Leakages as Government Tightens Compliance",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-07T03:09:07.000Z",
       "summary": "The country loses an estimated $6.56 billion in potential revenue from the mining sector every year due to the government’s limited participation in mineral extraction, the Institute for…"
-    },
-    {
-      "title": "Mining Reforms Must Protect Jobs, Investment and Community Interests — Ghana Chamber of Mines",
-      "link": "https://www.myjoyonline.com/mining-reforms-must-protect-jobs-investment-and-community-interests-ghana-chamber-of-mines/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T19:14:01.000Z",
-      "summary": "The Ghana Chamber of Mines has called for sustained dialogue and careful consideration of the economic implications of ongoing mining sector reforms, stressing that efforts to deepen…"
-    },
-    {
-      "title": "Institute of Packaging Ghana to strengthen collaboration with farmers, agribusinesses to boost packaging industry",
-      "link": "https://www.myjoyonline.com/institute-of-packaging-ghana-to-strengthen-collaboration-with-farmers-agribusinesses-to-boost-packaging-industry/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T16:54:14.000Z",
-      "summary": "The Institute of Packaging, Ghana (IOPG) says it will deepen collaboration with farmers, agro-processors and other stakeholders in the agricultural value chain to improve packaging…"
     }
   ]
 };
