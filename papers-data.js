@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T10:29:34.573Z",
+  "updated": "2026-11-11T10:49:33.982Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,34 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Prof. McBagonluri inducted into Ghana Academy of Arts and Sciences, is first private university inductee",
+      "link": "https://www.myjoyonline.com/prof-mcbagonluri-inducted-into-ghana-academy-of-arts-and-sciences-is-first-private-university-inductee/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T10:43:44.000Z",
+      "summary": "Prof. Fred McBagonluri, President of Academic City University, has been inducted into the Ghana Academy of Arts and Sciences (GAAS) in recognition of his contributions to engineering…",
+      "categories": [
+        "Education",
+        "Academic City University",
+        "Prof. Fred McBagonluri"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CJID announces 2026 Excellence in Media Awards finalists across nine West African countries",
+      "link": "https://www.myjoyonline.com/cjid-announces-2026-excellence-in-media-awards-finalists-across-nine-west-african-countries/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T10:37:34.000Z",
+      "summary": "The Centre for Journalism Innovation and Development (CJID) has announced the finalists for the 2026 Excellence in Media Awards, following submissions from journalists across nine West…",
+      "categories": [
+        "Events",
+        "National",
+        "2026",
+        "CJID",
+        "Media awards finalist"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "TraffiTech is a step in the right direction – Former DVLA Boss",
       "link": "https://www.myjoyonline.com/traffitech-is-a-step-in-the-right-direction-former-dvla-boss/",
@@ -110,35 +138,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mfantsipim: One hundred and fifty",
-      "link": "https://www.myjoyonline.com/mfantsipim-one-hundred-and-fifty/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:27:17.000Z",
-      "summary": "One hundred and fifty years, and still the walls remember. They remember footsteps, that have long disappeared, voices that filled the corridors, and dreams that began here, before the…",
-      "categories": [
-        "Features",
-        "National",
-        "Mfantsipim",
-        "Mfantsipim 150th anniversary"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "What the 150th Anniversary of Mfantsipim means to me",
-      "link": "https://www.myjoyonline.com/what-the-150th-anniversary-of-mfantsipim-means-to-me/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:20:48.000Z",
-      "summary": "A personal reflection on 150 years of Mfantsipim School, its history, its people and its future. There is something remarkable about celebrating an institution’s survival without…",
-      "categories": [
-        "Features",
-        "National",
-        "Mfantsipim",
-        "Mfantsipim 150th anniversary"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana hires US lawyer Ben Crump to pursue justice for Ghanaians killed in America",
+      "title": "US lawyer Ben Crump to pursue justice for Ghanaians killed in America - Ablakwa announces",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-engages-us-lawyer-ben-crump-to-seek-justice-for-nationals-killed-abroad.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T09:05:20.000Z",
