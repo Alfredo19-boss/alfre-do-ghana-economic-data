@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T05:05:17.397Z",
+  "updated": "2026-11-11T05:15:13.364Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -69,6 +69,13 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-11T05:00:00.000Z",
       "summary": "Sitsofe Mensah outlines four tests for Ghana’s 2027 Budget: channel funds through development finance institutions, reduce agricultural risks, provide affordable industrial power and build…"
+    },
+    {
+      "title": "Gates Foundation says AGRA’s revised transformation strategy is strengthening Africa’s food systems",
+      "link": "https://www.myjoyonline.com/gates-foundation-says-agras-revised-transformation-strategy-is-strengthening-africas-food-systems/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:31:00.000Z",
+      "summary": "The Gates Foundation says AGRA’s revised strategy for transforming Africa’s food systems, which prioritises country-level needs and better connects farmers to markets, is helping strengthen…"
     },
     {
       "title": "Ghana secures $2b investment in petroleum agreements",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T02:44:00.000Z",
       "summary": "Some regions are recording inflation above the national average, despite easing price pressures overall, the Chief Executive Officer of the Ghana National Chamber of Commerce and Industry…"
-    },
-    {
-      "title": "‘Things are a bit better’ – GNCCI CEO on business conditions",
-      "link": "https://www.myjoyonline.com/things-are-a-bit-better-gncci-ceo-on-business-conditions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T02:27:00.000Z",
-      "summary": "The CEO of the Ghana National Chamber of Commerce and Industry (GNCCI), Mark Badu-Aboagye, says production costs still need improvement."
     }
   ]
 };

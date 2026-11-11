@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T05:05:44.204Z",
+  "updated": "2026-11-11T05:15:44.052Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -24,13 +24,28 @@ window.GDC_PAPERS = {
       "title": "Where will the money come from? MP questions 24-hour economy funding",
       "link": "https://www.myjoyonline.com/where-will-the-money-come-from-mp-questions-24-hour-economy-funding/",
       "source": "MyJoyOnline",
-      "published": "2026-11-11T04:43:00.000Z",
+      "published": "2026-11-11T05:12:00.000Z",
       "summary": "The proposed financing model for the government’s 24-hour economy programme could come under pressure in 2027 if revenue targets are not met, the MP for Manso Nkwanta, Tweneboa Kodua Fokuo…",
       "categories": [
         "News",
         "Budget",
         "finance",
         "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Gates Foundation says AGRA’s revised transformation strategy is strengthening Africa’s food systems",
+      "link": "https://www.myjoyonline.com/gates-foundation-says-agras-revised-transformation-strategy-is-strengthening-africas-food-systems/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:31:00.000Z",
+      "summary": "The Gates Foundation says AGRA’s revised strategy for transforming Africa’s food systems, which prioritises country-level needs and better connects farmers to markets, is helping strengthen…",
+      "categories": [
+        "Africa",
+        "Agribusiness",
+        "AGRA",
+        "Enock Chikava",
+        "Gates Foundation"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -77,6 +92,21 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
+      "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:08:00.000Z",
+      "summary": "The proposed “new economy” being advanced by the government is largely a rebranding of the 24-hour economy policy, with the key difference being a shift towards public financing after…",
+      "categories": [
+        "News",
+        "Budget",
+        "Economy",
+        "finance",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Congo’s Ebola cases surpass 11,000, government data show",
       "link": "https://www.myjoyonline.com/congos-ebola-cases-surpass-11000-government-data-show/",
       "source": "MyJoyOnline",
@@ -86,21 +116,6 @@ window.GDC_PAPERS = {
         "Africa",
         "DR Congo",
         "Ebola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
-      "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:58:00.000Z",
-      "summary": "The proposed “new economy” being advanced by the government is largely a rebranding of the 24-hour economy policy, with the key difference being a shift towards public financing after…",
-      "categories": [
-        "News",
-        "Budget",
-        "Economy",
-        "finance",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -115,24 +130,6 @@ window.GDC_PAPERS = {
         "Oil prices",
         "Strait of Hormuz",
         "US-Iran war"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oppon Memorial Senior High School celebrates 50 years of educational excellence, resilience",
-      "link": "https://www.myjoyonline.com/oppon-memorial-senior-high-school-celebrates-50-years-of-educational-excellence-resilience/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:53:39.000Z",
-      "summary": "Nestled within the historic and revered enclave of Kokofu in the Bekwai Municipality in the Ashanti region, Oppon Memorial Senior High School (OMESS) has triumphantly commemorated its…",
-      "categories": [
-        "Education",
-        "News",
-        "GSE",
-        "Kokofu",
-        "Leticia Obeng",
-        "OMESS",
-        "Richard Ahenkorah",
-        "Salia Salifu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
