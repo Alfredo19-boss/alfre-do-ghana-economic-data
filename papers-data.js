@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T23:38:48.035Z",
+  "updated": "2026-11-11T23:48:47.112Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Ablekuma West: Roni Nicol declares third bid for NPP parliamentary candidacy",
+      "link": "https://www.myjoyonline.com/ablekuma-west-roni-nicol-declares-third-bid-for-npp-parliamentary-candidacy/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T23:40:17.000Z",
+      "summary": "Roni Nicol, a long-standing member of the New Patriotic Party (NPP), has declared his intention to contest the party’s parliamentary primary in Ablekuma West ahead of the 2028 general…",
+      "categories": [
+        "National",
+        "Politics",
+        "Ablekuma West",
+        "NPP",
+        "Roni Nicol"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
       "link": "https://www.myjoyonline.com/jimmy-aglah-takes-the-fight-against-galamsey-into-ghanaian-classrooms/",
@@ -116,23 +131,6 @@ window.GDC_PAPERS = {
         "National",
         "Carbon credit",
         "Frank Annoh-Dompreh"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Politics of Reconciliation: A case for lawyer Kwasi Kwarteng",
-      "link": "https://www.myjoyonline.com/the-politics-of-reconciliation-a-case-for-lawyer-kwasi-kwarteng-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T22:08:24.000Z",
-      "summary": "As the NPP embarks on the difficult but necessary task of rebuilding party unity, it has an opportunity to demonstrate that unity is not merely a political slogan, but a commitment…",
-      "categories": [
-        "News",
-        "Opinion",
-        "Politics",
-        "Asante Akyem North",
-        "Charles Wereko",
-        "Kwasi Kwarteng",
-        "NPP"
       ],
       "site": "https://www.myjoyonline.com/"
     },

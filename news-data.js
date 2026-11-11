@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T23:38:16.359Z",
+  "updated": "2026-11-11T23:48:16.229Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Zonda Tec, Rainbow support 42nd National Farmers’ Day",
+      "link": "https://gna.org.gh/2026/11/zonda-tec-rainbow-support-42nd-national-farmers-day/",
+      "source": "Ghana News Agency",
+      "published": "2026-11-11T23:40:34.000Z",
+      "summary": "Stay up-to-date on the latest news from Ghana and the world. Visit the Ghana News Agency (GNA) website now. GNA provides comprehensive coverage of Ghanaian politics, economy, business and…"
+    },
     {
       "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
       "link": "https://www.myjoyonline.com/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T14:27:27.000Z",
       "summary": "The Secretariat of the prestigious Ghana Energy Awards (GEA) has officially announced the shortlisted nominees for the 2026 edition of the Awards, marking a significant milestone in the…"
-    },
-    {
-      "title": "Heavy Debt Makes Healthy Food Harder to Afford During Global Shocks",
-      "link": "https://thehighstreetjournal.com/heavy-debt-makes-healthy-food-harder-to-afford-during-global-shocks/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T14:16:00.000Z",
-      "summary": "The World Bank finds that heavily indebted countries face greater difficulty protecting households from rising food costs during global crises."
     }
   ]
 };
