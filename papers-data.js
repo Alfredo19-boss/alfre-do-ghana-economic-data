@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T05:35:44.208Z",
+  "updated": "2026-11-11T05:45:44.177Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Gbentri-Nakpanduri Road: Agbodza vows to address abandoned 40km stretch",
+      "link": "https://www.myjoyonline.com/gbentri-nakpanduri-road-agbodza-vows-to-address-abandoned-40km-stretch/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T05:43:44.000Z",
+      "summary": "The government is seeking a lasting solution to a 40-kilometre section of the Gbentri-Nakpanduri Road in the North East Region that was left out of the existing construction contract…",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nkokonkitinkiti poultry policy has not failed — Otokunor",
+      "link": "https://www.myjoyonline.com/nkokonkitinkiti-poultry-policy-has-not-failed-otokunor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T05:39:15.000Z",
+      "summary": "Dr Peter Boamah Otokunor, Director of Presidential Initiatives in Agriculture and Agribusiness, has rejected claims that the government’s Nkokonkitinkiti poultry policy has failed…",
+      "categories": [
+        "News",
+        "Agric",
+        "Otokunor",
+        "Poultry"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Where will the money come from? MP questions 24-hour economy funding",
       "link": "https://www.myjoyonline.com/where-will-the-money-come-from-mp-questions-24-hour-economy-funding/",
@@ -46,6 +71,20 @@ window.GDC_PAPERS = {
         "Economy",
         "finance",
         "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Demystifying Derivatives: Yield enhancement through equity and credit-linked solutions (Part 1)",
+      "link": "https://www.myjoyonline.com/demystifying-derivatives-yield-enhancement-through-equity-and-credit-linked-solutions-part-1/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:56:00.000Z",
+      "summary": "Derivatives can provide an alternative route. When combined with traditional deposits, they can create structured solutions whose returns are linked to the performance of equities, market…",
+      "categories": [
+        "Opinion",
+        "Derivatives",
+        "Gerald Nana Kusi",
+        "Investments"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -87,49 +126,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Africa",
         "Dangote Cement"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Cedi strengthens on GoldBod’s boost to forex liquidity; going for GH¢12.15 against a dollar at forex bureaus",
-      "link": "https://www.myjoyonline.com/cedi-strengthens-on-goldbods-boost-to-forex-liquidity-going-for-gh%c2%a212-15-against-a-dollar-at-forex-bureaus/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:12:12.000Z",
-      "summary": "“We believe October’s US$1.011 billion intermediation, offered at a uniform market-clearing rate, significantly anchored demand expectations and guided market pricing”, said Databank…",
-      "categories": [
-        "Business",
-        "Economy",
-        "BoG",
-        "Cedi",
-        "Euro",
-        "Goldbod",
-        "Pound"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nigeria approves 145 new oil wells so far this year, regulator says",
-      "link": "https://www.myjoyonline.com/nigeria-approves-145-new-oil-wells-so-far-this-year-regulator-says/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:10:00.000Z",
-      "summary": "Nigeria's upstream oil regulator has approved ​145 new well-drilling operations, 595 well re-entries and ‌39 field development plans (FDPs) so far this year as it seeks to boost crude…",
-      "categories": [
-        "Africa",
-        "Nigeria",
-        "NNPC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Congo’s Ebola cases surpass 11,000, government data show",
-      "link": "https://www.myjoyonline.com/congos-ebola-cases-surpass-11000-government-data-show/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:01:00.000Z",
-      "summary": "The number of confirmed Ebola cases in ​the Democratic Republic of Congo has surpassed ‌11,000, government data showed on Tuesday.",
-      "categories": [
-        "Africa",
-        "DR Congo",
-        "Ebola"
       ],
       "site": "https://www.myjoyonline.com/"
     },
