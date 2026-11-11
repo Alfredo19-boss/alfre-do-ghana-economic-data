@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T02:00:43.437Z",
+  "updated": "2026-11-11T02:10:43.330Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "link": "https://www.myjoyonline.com/arrests-made-in-mohamed-al-fayed-probe-in-france-police-say/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:03:00.000Z",
+      "summary": "French police have made arrests after three properties, including the Ritz hotel in Paris, were searched in relation to an investigation into Mohamed Al Fayed's abuse.",
+      "categories": [
+        "International",
+        "Mohamed Al Fayed",
+        "Ritz"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "US federal authorities could have prevented Epstein crimes, report finds",
       "link": "https://www.myjoyonline.com/us-federal-authorities-could-have-prevented-epstein-crimes-report-finds/",
@@ -55,6 +68,21 @@ window.GDC_PAPERS = {
         "International",
         "Meghan",
         "Thomas Markle"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Real Madrid’s Vinícius Jr sends surprise message to boy who lost his legs in Sudan’s war",
+      "link": "https://www.myjoyonline.com/real-madrids-vinicius-jr-sends-surprise-message-to-boy-who-lost-his-legs-in-sudans-war/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T00:19:00.000Z",
+      "summary": "In a dark room in Cairo, a 13-year-old boy looks up at a television screen, barely blinking.",
+      "categories": [
+        "International",
+        "Sports",
+        "Real Madrid",
+        "Sudan",
+        "Vinicius"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -97,33 +125,6 @@ window.GDC_PAPERS = {
         "Football",
         "FIFA",
         "Peter Auf der Heyde"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kompany back at Bayern training after collapse",
-      "link": "https://www.myjoyonline.com/kompany-back-at-bayern-training-after-collapse/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:32:00.000Z",
-      "summary": "Head coach Vincent Kompany has returned to Bayern Munich's training ground after collapsing at the end of last month.",
-      "categories": [
-        "Football",
-        "Bayern Munich",
-        "Vincent Kompany"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wenger considers standing against Infantino",
-      "link": "https://www.myjoyonline.com/wenger-considers-standing-against-infantino/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T23:27:00.000Z",
-      "summary": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in FIFA's presidential election.",
-      "categories": [
-        "Football",
-        "Arsène Wenger",
-        "FIFA",
-        "Gianni Infantino"
       ],
       "site": "https://www.myjoyonline.com/"
     },
