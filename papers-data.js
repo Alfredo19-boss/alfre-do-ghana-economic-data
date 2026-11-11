@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T00:03:45.331Z",
+  "updated": "2026-11-11T00:13:43.613Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Managerial ‘inconsistency’ hurting Ghana – Hughton",
+      "link": "https://www.myjoyonline.com/managerial-inconsistency-hurting-ghana-hughton/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:52:00.000Z",
+      "summary": "As Ghana prepare for two make-or-break 2027 Africa Cup of Nations (Afcon) qualifiers with women's coach Kim Bjorkegren in temporary charge, former boss Chris Hughton has called for greater…",
+      "categories": [
+        "Football",
+        "National",
+        "Afcon 2027",
+        "Black Stars",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Lecturer’s bid to challenge FIFA president Infantino",
       "link": "https://www.myjoyonline.com/lecturers-bid-to-challenge-fifa-president-infantino/",
@@ -119,19 +134,6 @@ window.GDC_PAPERS = {
         "Technology",
         "Anthropic",
         "Claude"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "link": "https://www.myjoyonline.com/nvidia-hires-major-new-york-law-firm-to-investigate-jensen-huang-affair/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:30:00.000Z",
-      "summary": "Nvidia has hired New York law firm Wachtell, Lipton, Rosen & Katz to investigate the affair between its chief executive and an alleged Chinese spy.",
-      "categories": [
-        "International",
-        "Jensen Huang",
-        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
