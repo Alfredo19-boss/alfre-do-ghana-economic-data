@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T16:21:59.728Z",
+  "updated": "2026-11-11T16:32:00.553Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,67 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Environment Minister urges Parliament to fast-track National Sex Offenders Register",
+      "link": "https://ghanaiantimes.com.gh/environment-minister-urges-parliament-to-fast-track-national-sex-offenders-register/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:31:01.000Z",
+      "summary": "The Minister for Environment, Science and Technology, Dr. Zanetor Agyeman-Rawlings, has urged Parliament to fast-track the establishment of a National Sex Offenders Register. She warned…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Two dead after clash between residents, illegal miners and NAIMOS personnel at Manso Keniago",
+      "link": "https://www.myjoyonline.com/two-dead-after-clash-between-residents-illegal-miners-and-naimos-personnel-at-manso-keniago/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:29:37.000Z",
+      "summary": "Two people have died following a confrontation involving residents, suspected illegal miners and personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) at Manso…",
+      "categories": [
+        "National",
+        "ILLEGAL MINERS",
+        "Manso Keniago",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Deaconess Vincentia Yawa Anku",
+      "link": "https://www.myjoyonline.com/deaconess-vincentia-yawa-anku/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:28:12.000Z",
+      "summary": "Togbe Agbobada Iv Dufia Of Adaklu Anfoe, Togbe Ashiagbor V (Dutorfia), Togbe Gbeda Iv (Tufia), Togbe Zenyi (Ze Clan Leader), Richard Amankwa (Dutor Mama Agbebianku Iv (Dunyornufia), Mama…",
+      "categories": [
+        "Obituary",
+        "Deaconess Vincentia Yawa Anku"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament issues directives on Obuasi SHTS abuse scandal, demands fast-tracked prosecution",
+      "link": "https://ghanaiantimes.com.gh/parliament-issues-directives-on-obuasi-shts-abuse-scandal-demands-fast-tracked-prosecution/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:26:37.000Z",
+      "summary": "The Parliamentary Select Committees on Human Rights, Gender, Children and Social Welfare, and Education have issued a joint statement with decisive directives following a briefing by the…",
+      "categories": [
+        "Uncategorized"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "President Mahama announces new offshore discovery at Nya Gyidie well",
+      "link": "https://ghanaiantimes.com.gh/president-mahama-announces-new-offshore-discovery-at-nya-gyidie-well/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T16:23:09.000Z",
+      "summary": "President John Dramani Mahama has announced a new offshore hydrocarbon discovery in Ghana’s Deepwater Cape Three Points contract area, describing it as an important milestone for the…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Betfox Ghana, Big Ghun partner to distribute over 3,000 helmets in Nationwide Road Safety Campaign",
       "link": "https://ghanaiantimes.com.gh/betfox-ghana-big-ghun-partner-to-distribute-over-3000-helmets-in-nationwide-road-safety-campaign/",
@@ -121,31 +182,6 @@ window.GDC_PAPERS = {
         "International",
         "bomb hoax",
         "Italia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Philip Nai & Friends partners La Traditional Council for 7th Christmas outreach",
-      "link": "https://www.myjoyonline.com/philip-nai-friends-partners-la-traditional-council-for-7th-christmas-outreach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:59:14.000Z",
-      "summary": "Philip Nai & Friends has partnered with the La Traditional Council to host the seventh edition of its annual Christmas Charity Outreach for underprivileged children on Thursday, 24 December…",
-      "categories": [
-        "Events",
-        "La Traditional Council",
-        "Philip Nai & Friends"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TOR reduces negative equity from GH¢7.5bn to GH¢5bn – Kombat",
-      "link": "https://www.myjoyonline.com/tor-reduces-negative-equity-from-gh%c2%a27-5bn-to-gh%c2%a25bn-kombat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:58:05.000Z",
-      "summary": "The Tema Oil Refinery (TOR) says it has reduced its negative equity from GH¢7.5 billion to GH¢5 billion as part of efforts to restore its financial stability. Managing Director of TOR…",
-      "categories": [
-        "Business",
-        "Energy"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -269,41 +305,6 @@ window.GDC_PAPERS = {
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "ECG begins nationwide revenue mobilisation exercise",
-      "link": "https://ghanaiantimes.com.gh/ecg-begins-nationwide-revenue-mobilisation-exercise/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:20:50.000Z",
-      "summary": "THE Electricity Company of Ghana (ECG) will today begin a nationwide mass revenue mobilisation exercise to recover outstanding electricity bills from customers. The exercise, which will run…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "2nd GhanaFest Europe fixed for December 8",
-      "link": "https://ghanaiantimes.com.gh/2nd-ghanafest-europe-fixed-for-december-8/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:19:23.000Z",
-      "summary": "The second GhanaFest Europe – Trade and Cultural Expo is scheduled to take place from December 8 to 10, 2026, at the RAI Amsterdam in the Netherlands. The expo is expected to bring together…",
-      "categories": [
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Islamic civilisation and its impact on science, technology and mathematics that ushered in the Industrial Revolution (700AD–1700AD)",
-      "link": "https://ghanaiantimes.com.gh/islamic-civilisation-and-its-impact-on-science-technology-and-mathematics-that-ushered-in-the-industrial-revolution-700ad-1700ad/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T08:17:00.000Z",
-      "summary": "THE core essence of this subject is to build unflinching confidence in our youth globally. It is a reminder of our glorious past and an attempt to provide a springboard that propels us into…",
-      "categories": [
-        "Features",
-        "Uncategorized"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     }
