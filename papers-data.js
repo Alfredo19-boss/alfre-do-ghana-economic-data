@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T20:17:00.209Z",
+  "updated": "2026-11-11T20:36:59.509Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,22 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Black Meteors face uphill task after 1-0 loss to Libya",
+      "link": "https://www.myjoyonline.com/black-meteors-face-uphill-task-after-1-0-loss-to-libya/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T20:26:35.000Z",
+      "summary": "Ghana’s Black Meteors suffered a 1-0 defeat to Libya in the first leg of their 2027 CAF U-23 Africa Cup of Nations qualifier at the Martyrs of Benina Stadium in Benghazi on Wednesday.",
+      "categories": [
+        "Football",
+        "HP Sports 3",
+        "Sports",
+        "Black Meteors",
+        "Ghana",
+        "Libya"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Account for failed 24-hour Economy before selling us ‘new 24-hour economy’ slogan – Dr. Amin Adam to Finance Minister",
       "link": "https://www.myjoyonline.com/account-for-failed-24-hour-economy-before-selling-us-new-24-hour-economy-slogan-dr-amin-adam-to-finance-minister/",
@@ -126,20 +142,6 @@ window.GDC_PAPERS = {
         "BNC",
         "Ghana",
         "South Africa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "AFPNC founder calls for expanded NHIS coverage, longer maternity leave for mothers of premature babies",
-      "link": "https://www.myjoyonline.com/afpnc-founder-calls-for-expanded-nhis-coverage-longer-maternity-leave-for-mothers-of-premature-babies/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:56:39.000Z",
-      "summary": "The Founder and Executive Director of the African Foundation for Premature Babies and Maternal Care (AFPNC), Selina Bentoom, has called for expanded National Health Insurance Scheme (NHIS)…",
-      "categories": [
-        "Health",
-        "National",
-        "AFPNC",
-        "NHIS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
