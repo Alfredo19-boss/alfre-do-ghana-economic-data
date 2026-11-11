@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T08:39:33.671Z",
+  "updated": "2026-11-11T08:49:34.646Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,17 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "U23 AFCON 2027Q: Black Meteors wrap up preparations ahead of Libya showdown in Benghazi",
+      "link": "https://www.myjoyonline.com/u23-afcon-2027q-black-meteors-wrap-up-preparations-ahead-of-libya-showdown-in-benghazi/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T08:37:02.000Z",
+      "summary": "Head coach Desmond Ofei supervised Tuesday evening's training session as the team fine-tuned preparations for the crucial first-leg encounter against the Mediterranean Knights.",
+      "categories": [
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Fear, stigma put women at risk of breast cancer deaths – Police Ladies",
       "link": "https://ghanaiantimes.com.gh/fear-stigma-put-women-at-risk-of-breast-cancer-deaths-police-ladies-2/",
@@ -233,22 +244,6 @@ window.GDC_PAPERS = {
         "Agric",
         "Otokunor",
         "Poultry"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "African parties must prepare to govern, not just win elections — Asiedu Nketiah",
-      "link": "https://www.myjoyonline.com/african-parties-must-prepare-to-govern-not-just-win-elections-asiedu-nketiah/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T05:39:00.000Z",
-      "summary": "Political parties across Africa must move beyond the pursuit of electoral victories and build the institutional strength and expertise needed to govern effectively, the new Chairman of the…",
-      "categories": [
-        "HP News 7",
-        "News",
-        "Politics",
-        "AAPI",
-        "Asiedu Nketiah",
-        "NDC"
       ],
       "site": "https://www.myjoyonline.com/"
     },
