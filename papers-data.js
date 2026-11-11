@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T15:52:01.607Z",
+  "updated": "2026-11-11T16:01:59.947Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,73 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama leads 81st Remembrance Day commemoration in Accra",
+      "link": "https://www.myjoyonline.com/mahama-leads-81st-remembrance-day-commemoration-in-accra/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:00:27.000Z",
+      "summary": "President John Dramani Mahama has led the commemoration of the 81st Annual Remembrance Day service at the Christiansborg War Cemetery in Accra, paying tribute to fallen soldiers of the…",
+      "categories": [
+        "National",
+        "Photo Story",
+        "81st Remembrance Day",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+      "link": "https://www.myjoyonline.com/hundreds-of-italian-schools-hit-by-threats-in-suspected-bomb-hoax/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:59:59.000Z",
+      "summary": "Some 300 schools across Italy have received bomb threats, according to Education Minister Giuseppe Valditara, who described the incidents as probably a \"cyber-attack, not a genuine risk\".",
+      "categories": [
+        "International",
+        "bomb hoax",
+        "Italia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Philip Nai & Friends partners La Traditional Council for 7th Christmas outreach",
+      "link": "https://www.myjoyonline.com/philip-nai-friends-partners-la-traditional-council-for-7th-christmas-outreach/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:59:14.000Z",
+      "summary": "Philip Nai & Friends has partnered with the La Traditional Council to host the seventh edition of its annual Christmas Charity Outreach for underprivileged children on Thursday, 24 December…",
+      "categories": [
+        "Events",
+        "La Traditional Council",
+        "Philip Nai & Friends"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TOR reduces negative equity from GH¢7.5bn to GH¢5bn – Kombat",
+      "link": "https://www.myjoyonline.com/tor-reduces-negative-equity-from-gh%c2%a27-5bn-to-gh%c2%a25bn-kombat/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:58:05.000Z",
+      "summary": "The Tema Oil Refinery (TOR) says it has reduced its negative equity from GH¢7.5 billion to GH¢5 billion as part of efforts to restore its financial stability. Managing Director of TOR…",
+      "categories": [
+        "Business",
+        "Energy"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "WEAR Ghana, Republic of Africa win CANEX Creative Pitch 2026 in Lagos",
+      "link": "https://www.myjoyonline.com/wear-ghana-republic-of-africa-win-canex-creative-pitch-2026-in-lagos/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:54:00.000Z",
+      "summary": "Ghanaian creative entrepreneur Awura Abena Agyeman has won the CANEX Creative Pitch 2026 in Lagos, Nigeria, with a presentation on the evolution of WEAR Ghana into the pan-African cultural…",
+      "categories": [
+        "Fashion",
+        "HP Entertainment 3",
+        "Awura Abena Agyeman",
+        "CANEX Creative Pitch 2026",
+        "Wear Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
       "link": "https://www.myjoyonline.com/russia-ukraine-talks-turn-to-post-war-security-but-end-without-breakthrough/",
@@ -79,77 +146,6 @@ window.GDC_PAPERS = {
         "Education"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Bagbin warns youth against internet fraud, calls for responsible use of technology",
-      "link": "https://www.myjoyonline.com/bagbin-warns-youth-against-internet-fraud-calls-for-responsible-use-of-technology/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:22:44.000Z",
-      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has denounced the rising incidence of cybercrime and internet fraud in Ghana, cautioning the youth to desist from misusing the…",
-      "categories": [
-        "National",
-        "Alban Bagbin",
-        "Internet Fraud",
-        "Youth"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations",
-      "link": "https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:22:37.000Z",
-      "summary": "The Ghana Petroleum Commission (PC) has introduced a Digital Permit Application Platform to simplify regulatory processes, reduce delays, and improve business operations in Ghana’s upstream…",
-      "categories": [
-        "Business",
-        "Economy",
-        "National",
-        "Digital Permit Platform",
-        "Ghana Petroleum Commission"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Planet One opens new exploration frontier with offshore Ghana hydrocarbon discovery",
-      "link": "https://www.myjoyonline.com/planet-one-opens-new-exploration-frontier-with-offshore-ghana-hydrocarbon-discovery/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:22:28.000Z",
-      "summary": "Planet One Oil & Gas has announced the discovery of hydrocarbons at its Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore Ghana.",
-      "categories": [
-        "Energy",
-        "Ghana hydrocarbon discovery",
-        "Planet One"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "45-minute downpour floods parts of China Afri Mall, strands commuters in Koforidua",
-      "link": "https://www.myjoyonline.com/45-minute-downpour-floods-parts-of-china-afri-mall-strands-commuters-in-koforidua/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:19:00.000Z",
-      "summary": "Parts of the newly established China Afri Mall in Koforidua flooded after about 45 minutes of rain on Tuesday night, stranding commuters and disrupting traffic on surrounding roads.",
-      "categories": [
-        "HP News 3",
-        "In Focus",
-        "Regional",
-        "China Afri Mall",
-        "Koforidua"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dikan partners with dEX, to screen The Eyes of Ghana documentary at DDC26",
-      "link": "https://www.myjoyonline.com/dikan-partners-with-dex-to-screen-the-eyes-of-ghana-documentary-at-ddc26/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T15:18:32.000Z",
-      "summary": "In partnership with Dikan, dEX Ghana Foundation will host a special screening of The Eyes of Ghana, the acclaimed documentary directed by Ben Proudfoot, at the National Theatre of Ghana on…",
-      "categories": [
-        "National",
-        "DDC26",
-        "Dikan",
-        "The Eyes of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "VIDEO: How supporters said to be for Azorka tried to force their way into restricted areas at NDC vetting of aspirants",
