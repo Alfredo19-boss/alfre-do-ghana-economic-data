@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T06:45:43.836Z",
+  "updated": "2026-11-11T07:34:33.419Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,11 +21,77 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "2027 Budget: Turn economic gains into jobs • Experts, businesses demand job-centred policies",
-      "link": "https://ghanaiantimes.com.gh/2027-budget-turn-economic-gains-into-jobs-experts-businesses-demand-job-centred-policies/",
+      "title": "Bayern coach Vincent Kompany returns to club for first time since collapse",
+      "link": "https://ghanaiantimes.com.gh/bayern-coach-vincent-kompany-returns-to-club-for-first-time-since-collapse/",
       "source": "Ghanaian Times",
-      "published": "2026-11-11T06:38:02.000Z",
-      "summary": "As the government prepares to present the 2027 Budget Statement and Economic Policy to Parliament tomorrow, businesses, workers, farmers and other sections of the public are looking to it…",
+      "published": "2026-11-11T07:30:12.000Z",
+      "summary": "Bayern Munich coach Vincent Kompany has returned to the club’s training ground for the first time since he collapsed during practice last month. Bayern also revealed he suffered a shoulder…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON qualifiers could confirm first 2027 finalists",
+      "link": "https://ghanaiantimes.com.gh/afcon-qualifiers-could-confirm-first-2027-finalists/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:28:19.000Z",
+      "summary": "The first teams to book a place in next year’s Africa Cup of Nations (AFCON) finals could be confirmed after the ‌latest rounds of qualifiers, which get under way tomorrow. Democratic…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "2026 CAF Awards to take place on Dec. 2 in Lagos",
+      "link": "https://ghanaiantimes.com.gh/2026-caf-awards-to-take-place-on-dec-2-in-lagos/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:26:21.000Z",
+      "summary": "The new date, 2 December 2026, brings forward one of the most prestigious events on the African sporting calendar, as the continent’s finest players, coaches and teams gather in Lagos for a…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Cubarsi scoops Golden Boy award",
+      "link": "https://ghanaiantimes.com.gh/cubarsi-scoops-golden-boy-award/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:24:33.000Z",
+      "summary": "Barcelona teenager Pau Cubarsi capped a highly successful year for club and country by winning the Golden Boy award two months shy of his 20th birthday. Cubarsi was instrumental in Spain’s…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "GAAE calls for inclusive approach to transform Ghana’s agri-food systems",
+      "link": "https://ghanaiantimes.com.gh/gaae-calls-for-inclusive-approach-to-transform-ghanas-agri-food-systems/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:21:54.000Z",
+      "summary": "The Ghana Association of Agricultural Economists (GAAE) has called for stronger collaboration among policymakers, researchers, development partners and agribusiness operators to address…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Uphold trust, high ethical standards to safeguard credibility of banking industry …CIB Ghana urges",
+      "link": "https://ghanaiantimes.com.gh/uphold-trust-high-ethical-standards-to-safeguard-credibility-of-banking-industry-cib-ghana-urges/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:17:55.000Z",
+      "summary": "The Chartered Institute of Bankers (CIB) Ghana has called on bankers to uphold trust and high ethical standards in their professional conduct to strengthen and safeguard the credibility of…",
+      "categories": [
+        "Business"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "EU study exposes gaps in fight against galamsey",
+      "link": "https://ghanaiantimes.com.gh/eu-study-exposes-gaps-in-fight-against-galamsey/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:10:54.000Z",
+      "summary": "A European Union (EU)-funded study has exposed major gaps in Ghana’s fight against illegal mining, revealing that about 74 per cent of people engaged in artisanal and small-scale mining in…",
       "categories": [
         "Hot!",
         "News"
@@ -33,82 +99,14 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "Thousands flee Nigeria violence into Niger",
-      "link": "https://ghanaiantimes.com.gh/thousands-flee-nigeria-violence-into-niger/",
+      "title": "Women’s Development Bank moves a step closer",
+      "link": "https://ghanaiantimes.com.gh/womens-development-bank-moves-a-step-closer/",
       "source": "Ghanaian Times",
-      "published": "2026-11-11T06:24:12.000Z",
-      "summary": "Nearly 64,000 people have fled northern Nigeria for neighbouring Niger this ‌year, escaping attacks by Islamist militants and armed gangs and adding to mounting humanitarian needs in one of…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Rwandan deported from US to face genocide charges",
-      "link": "https://ghanaiantimes.com.gh/rwandan-deported-from-us-to-face-genocide-charges/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T06:22:49.000Z",
-      "summary": "A Rwandan man suspected of participating in the country’s 1994 genocide has been deported from the United States and will stand trial for his alleged crimes, according to local authorities…",
-      "categories": [
-        "World"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "DR Congo sentences 66 soldiers to death for mutiny, cowardice",
-      "link": "https://ghanaiantimes.com.gh/dr-congo-sentences-66-soldiers-to-death-for-mutiny-cowardice/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T06:20:59.000Z",
-      "summary": "At least 66 soldiers have been sentenced to death in the Democratic Republic of Congo for cowardice, mutiny and refusing to obey orders, local media report. The sentences followed a trial…",
-      "categories": [
-        "Africa"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, Slovakia to negotiate visa waiver agreement",
-      "link": "https://ghanaiantimes.com.gh/ghana-slovakia-to-negotiate-visa-waiver-agreement/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T06:15:31.000Z",
-      "summary": "Ghana and Slovakia have agreed to begin immediate negotiations towards a visa waiver agreement for holders of diplomatic and service passports to facilitate official travel and strengthen…",
+      "published": "2026-11-11T07:05:56.000Z",
+      "summary": "The report on the establishment of the proposed Women’s Development Bank has been completed, with an application for a banking licence submitted to the Bank of Ghana (BoG) for…",
       "categories": [
         "Hot!",
         "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Preparing for the heat: El Niño demands action now",
-      "link": "https://ghanaiantimes.com.gh/preparing-for-the-heat-el-nino-demands-action-now/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T06:12:45.000Z",
-      "summary": "Ghana has been here before. The very strong El Niño events of 1982/83, 1997/98 and 2015/16, and the moderate episode of 2023/24, each left their mark on our farms, rivers, power supply and…",
-      "categories": [
-        "Editorial"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Cyber Security Authority warns against fake TraffiTech-GH traffic fine messages",
-      "link": "https://ghanaiantimes.com.gh/cyber-security-authority-warns-against-fake-traffitech-gh-traffic-fine-messages/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T06:11:21.000Z",
-      "summary": "The Cyber Security Authority (CSA) has warned motorists against fraudulent text messages claiming they have committed traffic offences under the Ghana Police Service’s automated traffic…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Desist from siphoning fuel from accident tankers …NPA cautions",
-      "link": "https://ghanaiantimes.com.gh/desist-from-siphoning-fuel-from-accident-tankers-npa-cautions/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T06:07:11.000Z",
-      "summary": "The National Petroleum Authority (NPA) has warned people who rush to siphon fuel from tankers involved in accidents to desist from the practice or risk prosecution. The Chief Executive of…",
-      "categories": [
-        "Crime",
-        "Hot!"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
@@ -222,6 +220,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T04:58:00.000Z",
       "summary": "The proposed “new economy” being advanced by the government is largely a rebranding of the 24-hour economy policy, with the key difference being a shift towards public financing after…",
       "categories": [
+        "HP News 8",
         "News",
         "Budget",
         "Economy",

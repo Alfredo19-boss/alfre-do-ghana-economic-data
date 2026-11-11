@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T06:45:13.687Z",
+  "updated": "2026-11-11T07:34:03.272Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana eyes $10.5 trillion non-interest market as three banks seek licences",
+      "link": "https://www.ghanabusinessnews.com/2026/11/11/ghana-eyes-10-5-trillion-non-interest-market-as-three-banks-seek-licences/",
+      "source": "Ghana Business News",
+      "published": "2026-11-11T07:01:45.000Z",
+      "summary": "Ghana is positioning itself to tap into the fast-growing global non-interest finance market, projected to reach $10.5 trillion by 2030, as three banks apply to operate non-interest banking…"
+    },
+    {
+      "title": "Jobs & Cost of Living Top Public Demands in CERPA’s Pre-Budget Study Ahead of 2027 Budget",
+      "link": "https://thehighstreetjournal.com/jobs-cost-of-living-top-public-demands-in-cerpas-pre-budget-study-ahead-of-2027-budget/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T06:50:00.000Z",
+      "summary": "Ahead of Ghana’s 2027 Budget presentation, job creation and reducing living costs are the main public priorities, demanding immediate government attention. Infrastructure, healthcare…"
+    },
     {
       "title": "Entrepreneur calls for job-focused investments in 2027 Budget",
       "link": "https://www.ghanabusinessnews.com/2026/11/11/entrepreneur-calls-for-job-focused-investments-in-2027-budget/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T04:08:00.000Z",
       "summary": "The President of the Ghana Union of Traders’ Associations (GUTA), Clement Boateng, has urged authorities to examine the expansion of Chinese shopping malls, warning that local businesses…"
-    },
-    {
-      "title": "Goods delayed, banks demanding repayment – GUTA President details traders’ pressures",
-      "link": "https://www.myjoyonline.com/goods-delayed-banks-demanding-repayment-guta-president-details-traders-pressures/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T03:50:00.000Z",
-      "summary": "Rising cargo volumes are causing port congestion and delaying goods clearance, the President of the Ghana Union of Traders’ Associations (GUTA), Clement Boateng, said."
-    },
-    {
-      "title": "GUTA President calls for loan repayment moratorium as shipment delays hit traders",
-      "link": "https://www.myjoyonline.com/guta-president-calls-for-loan-repayment-moratorium-as-shipment-delays-hit-traders/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T03:38:00.000Z",
-      "summary": "GUTA President Clement Boateng has called for a moratorium on loan repayments to give traders breathing space as shipment delays leave them facing bank demands before their goods arrive."
     }
   ]
 };
