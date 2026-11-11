@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T05:25:43.680Z",
+  "updated": "2026-11-11T05:35:44.208Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -46,6 +46,20 @@ window.GDC_PAPERS = {
         "Economy",
         "finance",
         "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "JoyNews’ Emmanuel Dzivenu named finalist for West Africa journalism excellence award",
+      "link": "https://www.myjoyonline.com/joynews-emmanuel-dzivenu-named-finalist-for-west-africa-journalism-excellence-award/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:42:00.000Z",
+      "summary": "JoyNews journalist and television producer Emmanuel Dzivenu has been named a finalist in the 2026 Excellence in Journalism Awards organised by the Centre for Journalism Innovation and…",
+      "categories": [
+        "HP News 5",
+        "National",
+        "Centre for Journalism Innovation and Development (CJID)",
+        "Emmanuel Dzivenu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -116,20 +130,6 @@ window.GDC_PAPERS = {
         "Africa",
         "DR Congo",
         "Ebola"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
-      "link": "https://www.myjoyonline.com/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:55:00.000Z",
-      "summary": "Oil prices rose on Wednesday after falling to two-month lows in the previous session, as the market swung between hopes for a de-escalation in the Iran ​war and concerns about ongoing…",
-      "categories": [
-        "International",
-        "Oil prices",
-        "Strait of Hormuz",
-        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
