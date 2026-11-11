@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T06:25:44.153Z",
+  "updated": "2026-11-11T06:45:43.836Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "2027 Budget: Turn economic gains into jobs • Experts, businesses demand job-centred policies",
+      "link": "https://ghanaiantimes.com.gh/2027-budget-turn-economic-gains-into-jobs-experts-businesses-demand-job-centred-policies/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:38:02.000Z",
+      "summary": "As the government prepares to present the 2027 Budget Statement and Economic Policy to Parliament tomorrow, businesses, workers, farmers and other sections of the public are looking to it…",
+      "categories": [
+        "Hot!",
+        "News"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Thousands flee Nigeria violence into Niger",
       "link": "https://ghanaiantimes.com.gh/thousands-flee-nigeria-violence-into-niger/",
@@ -101,18 +113,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "NIA suspends date of birth updates on Ghana Card",
-      "link": "https://ghanaiantimes.com.gh/nia-suspends-date-of-birth-updates-on-ghana-card/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T06:03:58.000Z",
-      "summary": "The National Identification Authority (NIA) has temporarily suspended all date of birth updates on the Ghana Card until further notice, following a review of the process which identified…",
-      "categories": [
-        "Crime",
-        "Hot!"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
       "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
       "link": "https://www.myjoyonline.com/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths/",
       "source": "MyJoyOnline",
@@ -149,7 +149,9 @@ window.GDC_PAPERS = {
       "summary": "The government is seeking a lasting solution to a 40-kilometre section of the Gbentri-Nakpanduri Road in the North East Region that was left out of the existing construction contract…",
       "categories": [
         "HP News 2",
-        "News"
+        "News",
+        "Construction",
+        "Road"
       ],
       "site": "https://www.myjoyonline.com/"
     },
