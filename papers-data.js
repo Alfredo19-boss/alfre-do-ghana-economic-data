@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T09:49:33.043Z",
+  "updated": "2026-11-11T09:59:34.440Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UEW VC urges graduates to embrace entrepreneurship, shun corruption",
+      "link": "https://www.myjoyonline.com/uew-vc-urges-graduates-to-embrace-entrepreneurship-shun-corruption/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:45:30.000Z",
+      "summary": "The Vice-Chancellor of the University of Education, Winneba (UEW), Professor Stephen Jobson Mitchual, has urged university graduates to use their skills and knowledge to create jobs rather…",
+      "categories": [
+        "Education",
+        "National",
+        "Bluecrest University College",
+        "UEW"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GEA Summit focuses on financing and growth opportunities for women-led businesses",
       "link": "https://www.myjoyonline.com/gea-summit-focuses-on-financing-and-growth-opportunities-for-women-led-businesses/",
@@ -55,12 +69,26 @@ window.GDC_PAPERS = {
       "link": "https://www.myjoyonline.com/the-lion-roars-louder-mfantsipim-schools-sesquicentennial-celebration-of-shaping-the-greatest-minds/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T09:32:39.000Z",
-      "summary": "Like a mighty lion that has trekked through countless thorny savannahs, yet comes to roar above his entire pride, Mfantsipim School celebrates one hundred and fifty years of legacy, service…",
+      "summary": "Like a mighty lion that has trekked through countless thorny savannahs, yet comes to roar above its entire pride, Mfantsipim School celebrates one hundred and fifty years of legacy, service…",
       "categories": [
         "Education",
         "Features",
         "National",
         "Leslie Hans-Anderson",
+        "Mfantsipim",
+        "Mfantsipim 150th anniversary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim School: One hundred and fifty",
+      "link": "https://www.myjoyonline.com/mfantsipim-school-one-hundred-and-fifty/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:27:17.000Z",
+      "summary": "One hundred and fifty years, and still the walls remember. They remember footsteps, that have long disappeared, voices that filled the corridors, and dreams that began here, before the…",
+      "categories": [
+        "Features",
+        "National",
         "Mfantsipim",
         "Mfantsipim 150th anniversary"
       ],
@@ -110,34 +138,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Man Utd open talks with Pochettino about replacing Carrick",
-      "link": "https://www.myjoyonline.com/man-utd-open-talks-with-pochettino-about-replacing-carrick/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:15:51.000Z",
-      "summary": "Carrick's future at United will be decided at a meeting in Monaco on Wednesdaythat will be attended by chief executive Omar Berrada, director of football Jason Wilcox and co-owner Sir Jim…",
-      "categories": [
-        "Football",
-        "Manchester United",
-        "Mauricio Pochettino",
-        "Michael Carrick"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UEW VC urges graduates to use acquired skills to drive Ghana’s development",
-      "link": "https://www.myjoyonline.com/uew-vc-urges-graduates-to-use-acquired-skills-to-drive-ghanas-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:09:48.000Z",
-      "summary": "The Vice Chancellor of the University of Education, Winneba (UEW), Prof. Stephen Jobson Mitchual, has urged university graduates to diligently apply the knowledge, skills and competencies…",
-      "categories": [
-        "Education",
-        "National",
-        "BlueCrescent University",
-        "UEW"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana hires US lawyer Ben Crump to pursue justice for Ghanaians killed in America",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-engages-us-lawyer-ben-crump-to-seek-justice-for-nationals-killed-abroad.html",
       "source": "Daily Graphic",
@@ -170,6 +170,17 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ghana, Slovakia to pursue visa waiver, defence cooperation agreements",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-slovakia-to-pursue-visa-waiver-defence-cooperation-agreements.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T08:25:38.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "121 file nominations for NDC national executive elections",
@@ -219,6 +230,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "Unpredictable markets hampering pharmaceutical sector - Dr Sodzi-Tettey",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-unpredictable-markets-hampering-pharmaceutical-sector-dr-sodzi-tettey.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T08:16:01.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Ensuring fairer, more sustainable tax administration in Ghana …Understanding dispute resolution, legal processes and taxpayers’ rights",
       "link": "https://ghanaiantimes.com.gh/ensuring-fairer-more-sustainable-tax-administration-in-ghana-understanding-dispute-resolution-legal-processes-and-taxpayers-rights/",
       "source": "Ghanaian Times",
@@ -228,6 +250,28 @@ window.GDC_PAPERS = {
         "Features"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Women’s Devt Bank in offing: Banking licence application awaiting approval",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-womens-devt-bank-in-offing-banking-licence-application-awaiting-approval.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T08:12:56.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "$18.8m Rice production initiative launched - Targets 20,000 smallholder farmers",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-18-8m-rice-production-initiative-launched-targets-20-000-smallholder-farmers.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T08:03:35.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ghana’s iGaming Market Is Maturing. Here Is What Operators Need From Their Game Content",
@@ -241,6 +285,17 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
+      "title": "Ashaiman Roundabout–Atimpoku road under Big Push - Minister",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ashaiman-roundabout-atimpoku-road-under-big-push-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T08:00:47.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "Wednesday weather: Mist, sunshine and afternoon thunderstorms – GMet",
       "link": "https://www.graphic.com.gh/news/general-news/wednesday-weather-mist-sunshine-and-afternoon-thunderstorms-gmet.html",
       "source": "Daily Graphic",
@@ -252,68 +307,13 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "GoldBod losses: Majority backs probe into gold purchase losses",
-      "link": "https://www.graphic.com.gh/news/politics/ghana-news-goldbod-losses-majority-backs-probe-into-gold-purchase-losses.html",
+      "title": "Garden City University launches programme to support SHS students",
+      "link": "https://www.graphic.com.gh/news/education/ghana-news-garden-city-university-launches-programme-to-support-shs-students.html",
       "source": "Daily Graphic",
-      "published": "2026-11-11T07:35:09.000Z",
+      "published": "2026-11-11T07:57:10.000Z",
       "summary": "",
       "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Omega Psi Phi Fraternity, PNHF to screen 100 men for prostate cancer",
-      "link": "https://www.graphic.com.gh/news/health/omega-psi-phi-fraternity-pnhf-to-screen-100-men-for-prostate-cancer.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T16:54:37.000Z",
-      "summary": "",
-      "categories": [
-        "Health"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GIS boss unveils rotational transfer system, urges officers to stay resilient after Hamile blast",
-      "link": "https://www.graphic.com.gh/news/general-news/gis-boss-unveils-rotational-transfer-system-urges-officers-to-stay-resilient-after-hamile-blast.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T16:21:26.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Parliament to sit at 2pm, mornings reserved for committee work",
-      "link": "https://www.graphic.com.gh/news/politics/parliament-to-sit-at-2pm-mornings-reserved-for-committee-work.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T15:51:10.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Chief Justice finds no prima facie case in petition against Justice Gabriel Pwamang",
-      "link": "https://www.graphic.com.gh/news/general-news/chief-justice-finds-no-prima-facie-case-in-petition-against-justice-gabriel-pwamang.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T15:39:42.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Energy Ministry targeting six new agreements in Ghana's oil sector by March 2027",
-      "link": "https://www.graphic.com.gh/news/general-news/energy-ministry-targeting-six-new-agreements-in-ghanas-oil-sector-by-march-2027.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-10T13:48:06.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
+        "Education"
       ],
       "site": "https://www.graphic.com.gh/"
     }
