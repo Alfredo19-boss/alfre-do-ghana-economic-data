@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T04:45:44.828Z",
+  "updated": "2026-11-11T04:55:44.355Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -52,6 +52,19 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Congo’s Ebola cases surpass 11,000, government data show",
+      "link": "https://www.myjoyonline.com/congos-ebola-cases-surpass-11000-government-data-show/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:01:00.000Z",
+      "summary": "The number of confirmed Ebola cases in ​the Democratic Republic of Congo has surpassed ‌11,000, government data showed on Tuesday.",
+      "categories": [
+        "Africa",
+        "DR Congo",
+        "Ebola"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
       "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
       "source": "MyJoyOnline",
@@ -63,6 +76,20 @@ window.GDC_PAPERS = {
         "Economy",
         "finance",
         "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+      "link": "https://www.myjoyonline.com/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:55:00.000Z",
+      "summary": "Oil prices rose on Wednesday after falling to two-month lows in the previous session, as the market swung between hopes for a de-escalation in the Iran ​war and concerns about ongoing…",
+      "categories": [
+        "International",
+        "Oil prices",
+        "Strait of Hormuz",
+        "US-Iran war"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -113,34 +140,6 @@ window.GDC_PAPERS = {
         "GSE-FSI",
         "Market Capitalization",
         "volume traded"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "64% of Ghanaians oppose creation of new districts – CLGA survey",
-      "link": "https://www.myjoyonline.com/64-of-ghanaians-oppose-creation-of-new-districts-clga-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:23:06.000Z",
-      "summary": "A survey by the Centre for Local Governance Advocacy (CLGA) has found that 64 per cent of respondents believe Ghana's 261 Metropolitan, Municipal and District Assemblies (MMDAs) are…",
-      "categories": [
-        "News",
-        "District",
-        "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana cannot celebrate austerity amid huge infrastructure deficit – Bokpin",
-      "link": "https://www.myjoyonline.com/ghana-cannot-celebrate-austerity-amid-huge-infrastructure-deficit-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T03:14:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin says Ghana cannot celebrate spending cuts while a huge infrastructure deficit continues to hold back growth and burden citizens.",
-      "categories": [
-        "Economy",
-        "National",
-        "Infrastructure deficit",
-        "new economy",
-        "Prof Godfred A. Bokpin"
       ],
       "site": "https://www.myjoyonline.com/"
     },
