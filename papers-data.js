@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T11:29:32.744Z",
+  "updated": "2026-11-11T11:39:35.308Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,33 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "History will vindicate Akufo-Addo’s leadership – Former legal counsel Kow Essuman",
+      "link": "https://www.myjoyonline.com/history-will-vindicate-akufo-addos-leadership-former-legal-counsel-kow-essuman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:33:21.000Z",
+      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, said history will vindicate the former President’s leadership, describing him as a leader who consistently…",
+      "categories": [
+        "National"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Akufo-Addo had to take tough COVID-19 lockdown decisions – Kow Essuman",
+      "link": "https://www.myjoyonline.com/akufo-addo-had-to-take-tough-covid-19-lockdown-decisions-kow-essuman/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:26:58.000Z",
+      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has defended the former government’s COVID-19 lockdown measures, describing them as a difficult but necessary…",
+      "categories": [
+        "National",
+        "News",
+        "Alufo-Addo",
+        "Covid 19",
+        "Kow Essuman",
+        "Lockdown"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Uwumborche Gideon seeks to retain Saboba NPP secretary post, pledges stronger organisation",
       "link": "https://www.myjoyonline.com/uwumborche-gideon-seeks-to-retain-saboba-npp-secretary-post-pledges-stronger-organisation/",
@@ -102,36 +129,6 @@ window.GDC_PAPERS = {
         "DVLA",
         "Justice Yaw Amegashie",
         "TraffiTech"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "UEW VC urges graduates to embrace entrepreneurship, shun corruption",
-      "link": "https://www.myjoyonline.com/uew-vc-urges-graduates-to-embrace-entrepreneurship-shun-corruption/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:45:30.000Z",
-      "summary": "The Vice-Chancellor of the University of Education, Winneba (UEW), Professor Stephen Jobson Mitchual, has urged university graduates to use their skills and knowledge to create jobs rather…",
-      "categories": [
-        "Education",
-        "National",
-        "Bluecrest University College",
-        "UEW"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GEA Summit focuses on financing and growth opportunities for women-led businesses",
-      "link": "https://www.myjoyonline.com/gea-summit-focuses-on-financing-and-growth-opportunities-for-women-led-businesses/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:43:35.000Z",
-      "summary": "The Ghana Enterprises Agency (GEA) has brought together women entrepreneurs, policymakers and development partners at its 5th Ghana Women Entrepreneurship Summit to explore strategies for…",
-      "categories": [
-        "Business",
-        "Economy",
-        "HP Business 2",
-        "GEA",
-        "Professor Jane Naana Opoku-Agyemang",
-        "Vice President"
       ],
       "site": "https://www.myjoyonline.com/"
     },
