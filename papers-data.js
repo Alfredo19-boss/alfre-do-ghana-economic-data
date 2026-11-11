@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T09:19:34.873Z",
+  "updated": "2026-11-11T09:29:34.705Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "What the 150th Anniversary of Mfantsipim means to me",
+      "link": "https://www.myjoyonline.com/what-the-150th-anniversary-of-mfantsipim-means-to-me/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:20:48.000Z",
+      "summary": "A personal reflection on 150 years of Mfantsipim School, its history, its people and its future. There is something remarkable about celebrating an institution’s survival without…",
+      "categories": [
+        "Features",
+        "National",
+        "Mfantsipim",
+        "Mfantsipim 150th anniversary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mfantsipim@150: Reflections on legacy, leadership and service",
+      "link": "https://www.myjoyonline.com/mfantsipim150-reflections-on-legacy-leadership-and-service/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:16:20.000Z",
+      "summary": "Introduction As Mfantsipim School celebrates 150 years of existence, we are reminded that an institution’s true significance is measured not merely by its longevity but by the lives it…",
+      "categories": [
+        "Education",
+        "Features",
+        "National",
+        "Mfantsipim",
+        "Mfantsipim 150th anniversary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Man Utd open talks with Pochettino about replacing Carrick",
+      "link": "https://www.myjoyonline.com/man-utd-open-talks-with-pochettino-about-replacing-carrick/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T09:15:51.000Z",
+      "summary": "Carrick's future at United will be decided at a meeting in Monaco on Wednesdaythat will be attended by chief executive Omar Berrada, director of football Jason Wilcox and co-owner Sir Jim…",
+      "categories": [
+        "Football",
+        "Manchester United",
+        "Mauricio Pochettino",
+        "Michael Carrick"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UEW VC urges graduates to use acquired skills to drive Ghana’s development",
       "link": "https://www.myjoyonline.com/uew-vc-urges-graduates-to-use-acquired-skills-to-drive-ghanas-development/",
@@ -185,22 +228,6 @@ window.GDC_PAPERS = {
       "site": "https://ghanaiantimes.com.gh/"
     },
     {
-      "title": "AFCON 2027Q: Black Stars hold final training in Accra before departure to Takoradi",
-      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-hold-final-training-in-accra-before-departure-to-takoradi/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T08:11:39.000Z",
-      "summary": "The Black Stars held their final training session at the Accra Sports Stadium on Tuesday, before departing for Takoradi for the 2027 Africa Cup of Nations double-header against Somalia…",
-      "categories": [
-        "Football",
-        "HP Sports 1",
-        "National",
-        "2027 AFCON Qualifiers",
-        "Black Stars",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Ghana’s iGaming Market Is Maturing. Here Is What Operators Need From Their Game Content",
       "link": "https://ghanaiantimes.com.gh/ghanas-igaming-market-is-maturing-here-is-what-operators-need-from-their-game-content/",
       "source": "Ghanaian Times",
@@ -232,35 +259,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
-      "link": "https://www.myjoyonline.com/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T05:54:39.000Z",
-      "summary": "The number of confirmed Ebola cases in the Democratic Republic of the Congo (DRC) has reached 11,042, according to government data, with at least 5,387 deaths.",
-      "categories": [
-        "Africa",
-        "HP News 10",
-        "News"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Dr Nyaho-Tamakloe: Celebrating Hearts of Oak’s 115 years of history, excellence and institutional development",
-      "link": "https://www.myjoyonline.com/dr-nyaho-tamakloe-celebrating-hearts-of-oaks-115-years-of-history-excellence-and-institutional-development/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T05:52:57.000Z",
-      "summary": "Today, as Accra Hearts of Oak Sporting Club celebrates its 115th anniversary, I consider it a great honour to join the entire Phobian fraternity, both in Ghana and across the world, in…",
-      "categories": [
-        "Football",
-        "HP Sports 2",
-        "Dr Nyaho-Tamakloe",
-        "Hearts of Oak",
-        "Hearts of Oak anniversary",
-        "Togbe Afede"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Omega Psi Phi Fraternity, PNHF to screen 100 men for prostate cancer",
