@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T02:20:43.064Z",
+  "updated": "2026-11-11T02:30:42.675Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Former Magistrate Mary Bibiana Oduro to be buried November 20",
+      "link": "https://www.myjoyonline.com/former-magistrate-mary-bibiana-oduro-to-be-buried-november-20/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T02:27:57.000Z",
+      "summary": "The late Her Worship Mary Bibiana Ama Ansomaa Oduro, a former Magistrate of the Judicial Service of Ghana and accomplished entrepreneur, will be buried on Friday, November 20, 2026. She was…",
+      "categories": [
+        "News",
+        "Judiciary",
+        "Magsitrate",
+        "Mary Bibiana Ama Ansomaa Oduro"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "‘I’ve been wounded, shed tears’ – Lateef Adedimeji speaks on life battles",
       "link": "https://www.myjoyonline.com/ive-been-wounded-shed-tears-lateef-adedimeji-speaks-on-life-battles/",
@@ -110,19 +124,6 @@ window.GDC_PAPERS = {
         "News",
         "School",
         "Seikwa"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Meghan’s father back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.myjoyonline.com/meghans-father-back-in-federal-custody-after-allegedly-removing-ankle-monitor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T00:26:00.000Z",
-      "summary": "Thomas Markle, the father of Meghan, Duchess of Sussex, is back in federal custody in Florida after allegedly removing his ankle monitor, according to court documents.",
-      "categories": [
-        "International",
-        "Meghan",
-        "Thomas Markle"
       ],
       "site": "https://www.myjoyonline.com/"
     },
