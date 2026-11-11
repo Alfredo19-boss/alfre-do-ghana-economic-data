@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T21:06:29.658Z",
+  "updated": "2026-11-11T21:16:29.643Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Only 36% of businesses described electricity as very or mostly reliable – KPMG, UNDP survey",
+      "link": "https://www.myjoyonline.com/only-36-of-businesses-described-electricity-as-very-or-mostly-reliable-kpmg-undp-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:10:23.000Z",
+      "summary": "The survey highlights the combined effect of power interruptions, affordability and billing."
+    },
     {
       "title": "Mahama woos Thai investors for 12,000-hectare oil palm plantation in Ghana",
       "link": "https://www.myjoyonline.com/mahama-woos-thai-investors-for-12000-hectare-oil-palm-plantation-in-ghana/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T13:48:43.000Z",
       "summary": "COP31 opens with calls for faster climate action, greater adaptation finance and renewable energy investment as governments face mounting pressure to turn commitments into measurable…"
-    },
-    {
-      "title": "New Economy will transform Ghana’s economic structure — Ato Forson tells chiefs",
-      "link": "https://www.myjoyonline.com/new-economy-will-transform-ghanas-economic-structure-ato-forson-tells-chiefs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T13:26:30.000Z",
-      "summary": "Finance Minister Dr. Cassiel Ato Forson says the government’s New Economy programme is a four-year plan to transform Ghana’s economic structure. Speaking during a meeting with the National…"
     }
   ]
 };

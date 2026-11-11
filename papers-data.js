@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T21:06:59.995Z",
+  "updated": "2026-11-11T21:17:00.104Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Only 36% of businesses described electricity as very or mostly reliable – KPMG, UNDP survey",
+      "link": "https://www.myjoyonline.com/only-36-of-businesses-described-electricity-as-very-or-mostly-reliable-kpmg-undp-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:10:23.000Z",
+      "summary": "The survey highlights the combined effect of power interruptions, affordability and billing.",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "electricity tariffs",
+        "IMF",
+        "KPMG",
+        "UNDP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Mahama pushes for expanded economic cooperation with India, Lebanon",
       "link": "https://www.myjoyonline.com/mahama-pushes-for-expanded-economic-cooperation-with-india-lebanon/",
@@ -126,20 +143,6 @@ window.GDC_PAPERS = {
         "autism advocacy",
         "ENNY foundation",
         "Special needs"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama woos Thai investors for 12,000-hectare oil palm plantation in Ghana",
-      "link": "https://www.myjoyonline.com/mahama-woos-thai-investors-for-12000-hectare-oil-palm-plantation-in-ghana/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T19:17:41.000Z",
-      "summary": "President John Mahama has encouraged Thai investors to pursue plans to establish a 12,000-hectare oil palm plantation and a modern processing mill in Ghana.",
-      "categories": [
-        "Economy",
-        "National",
-        "President John Mahama",
-        "Thai investors"
       ],
       "site": "https://www.myjoyonline.com/"
     },
