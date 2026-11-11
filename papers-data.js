@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T10:49:33.982Z",
+  "updated": "2026-11-11T10:59:33.290Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,18 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Academic City urges business leaders to make purpose central to business growth",
+      "link": "https://www.myjoyonline.com/academic-city-urges-business-leaders-to-make-purpose-central-to-business-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T10:49:42.000Z",
+      "summary": "Academic City University urged business leaders to put purpose at the centre of their growth strategies at its inaugural Xperience ACity Industry Breakfast, held last Friday at its Haatso…",
+      "categories": [
+        "Education",
+        "Academic City"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Prof. McBagonluri inducted into Ghana Academy of Arts and Sciences, is first private university inductee",
       "link": "https://www.myjoyonline.com/prof-mcbagonluri-inducted-into-ghana-academy-of-arts-and-sciences-is-first-private-university-inductee/",
@@ -118,20 +130,6 @@ window.GDC_PAPERS = {
         "Features",
         "National",
         "Leslie Hans-Anderson",
-        "Mfantsipim",
-        "Mfantsipim 150th anniversary"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim School: One hundred and fifty",
-      "link": "https://www.myjoyonline.com/mfantsipim-school-one-hundred-and-fifty/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:27:17.000Z",
-      "summary": "One hundred and fifty years, and still the walls remember. They remember footsteps, that have long disappeared, voices that filled the corridors, and dreams that began here, before the…",
-      "categories": [
-        "Features",
-        "National",
         "Mfantsipim",
         "Mfantsipim 150th anniversary"
       ],
