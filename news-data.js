@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T03:35:13.898Z",
+  "updated": "2026-11-11T03:45:13.545Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GSE maintains positive run in October 2026; 68m shares traded",
+      "link": "https://www.myjoyonline.com/gse-maintains-positive-run-in-october-2026-68m-shares-traded/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:35:55.000Z",
+      "summary": "Trading activity recorded 88,630 transactions, representing a 59.07% increase compared with the same period last year."
+    },
     {
       "title": "Ghana cannot celebrate austerity amid huge infrastructure deficit – Bokpin",
       "link": "https://www.myjoyonline.com/ghana-cannot-celebrate-austerity-amid-huge-infrastructure-deficit-bokpin/",

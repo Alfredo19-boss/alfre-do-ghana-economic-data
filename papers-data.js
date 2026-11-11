@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T03:35:44.117Z",
+  "updated": "2026-11-11T03:45:44.288Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,24 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GSE maintains positive run in October 2026; 68m shares traded",
+      "link": "https://www.myjoyonline.com/gse-maintains-positive-run-in-october-2026-68m-shares-traded/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:35:55.000Z",
+      "summary": "Trading activity recorded 88,630 transactions, representing a 59.07% increase compared with the same period last year.",
+      "categories": [
+        "Business",
+        "Stocks",
+        "GFIM",
+        "GSE",
+        "GSE-CI",
+        "GSE-FSI",
+        "Market Capitalization",
+        "volume traded"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "64% of Ghanaians oppose creation of new districts – CLGA survey",
       "link": "https://www.myjoyonline.com/64-of-ghanaians-oppose-creation-of-new-districts-clga-survey/",
@@ -115,19 +133,6 @@ window.GDC_PAPERS = {
         "BBC",
         "Trump",
         "US"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "link": "https://www.myjoyonline.com/arrests-made-in-mohamed-al-fayed-probe-in-france-police-say/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:03:00.000Z",
-      "summary": "French police have made arrests after three properties, including the Ritz hotel in Paris, were searched in relation to an investigation into Mohamed Al Fayed's abuse.",
-      "categories": [
-        "International",
-        "Mohamed Al Fayed",
-        "Ritz"
       ],
       "site": "https://www.myjoyonline.com/"
     },
