@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T22:48:48.283Z",
+  "updated": "2026-11-11T23:18:48.803Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,19 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports",
+      "link": "https://www.myjoyonline.com/nvidia-ceo-huang-had-relationship-with-executive-who-reported-to-him-nyt-reports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:50:00.000Z",
+      "summary": "Nvidia CEO Jensen Huang had an extramarital ​affair with a company ‌executive who reported to him, the New York Times ​reported on Wednesday, citing ​five people who worked ⁠at the company.",
+      "categories": [
+        "International",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Ahead of 2027 Budget: Techiman drivers complain about fuel prices as traders lament slow sales and delays in Women’s Development Bank",
       "link": "https://www.myjoyonline.com/ahead-of-2027-budget-techiman-drivers-complain-about-fuel-prices-as-traders-lament-slow-sales-and-delays-in-womens-development-bank/",
       "source": "MyJoyOnline",
@@ -32,6 +45,32 @@ window.GDC_PAPERS = {
         "Techiman drivers",
         "Traders",
         "women's development bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "link": "https://www.myjoyonline.com/clashes-erupt-in-barcelona-after-thousands-join-spain-general-strike/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:33:10.000Z",
+      "summary": "Clashes have broken out between groups of masked men and police in Barcelona after tens of thousands of people took part in Spain's first general strike for 14 years, called by the…",
+      "categories": [
+        "News",
+        "Barcelona",
+        "Protest"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+      "link": "https://www.myjoyonline.com/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:18:00.000Z",
+      "summary": "Nvidia board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with ​a suspected Chinese spy, the Wall Street Journal reported ‌on Wednesday, citing…",
+      "categories": [
+        "Technology",
+        "Jensen Huang",
+        "Nvidia"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -92,49 +131,6 @@ window.GDC_PAPERS = {
         "2027 Budget",
         "COP31 climate negotiations",
         "Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Upper West Region honours fallen heroes on 81st Remembrance Day",
-      "link": "https://www.myjoyonline.com/upper-west-region-honours-fallen-heroes-on-81st-remembrance-day/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:50:39.000Z",
-      "summary": "At the eleventh hour of the eleventh day of the eleventh month, the usual morning bustle of Wa came to a sudden, solemn halt.",
-      "categories": [
-        "Regional",
-        "81st Remembrance Day",
-        "fallen heroes",
-        "Upper West Region"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Spain intercepts 2.6 tonnes of cocaine shipped from Tema Port",
-      "link": "https://www.myjoyonline.com/spain-intercepts-2-6-tonnes-of-cocaine-shipped-from-tema-port/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:47:00.000Z",
-      "summary": "Spanish law enforcement agencies have uncovered a major cocaine consignment concealed in a shipment of coconuts from Ghana, seizing 2.6 tonnes of the narcotic and arresting two men in…",
-      "categories": [
-        "National",
-        "News",
-        "Top Story",
-        "Cocaine",
-        "Tema Port"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Living Waters Hospital ends Customer Service Week with heartfelt donation to clients",
-      "link": "https://www.myjoyonline.com/living-waters-hospital-ends-customer-service-week-with-heartfelt-donation-to-clients/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:31:25.000Z",
-      "summary": "The Chief Executive Officer of Living Waters Hospital, Dr Gabriel Sakyi Kwofie, marked his birthday with a remarkable show of generosity, making massive donations to clients, customers…",
-      "categories": [
-        "Regional",
-        "Customer Service Week",
-        "Dr Gabriel Sakyi Kwofie",
-        "Living Waters Hospital"
       ],
       "site": "https://www.myjoyonline.com/"
     },

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T22:48:17.488Z",
+  "updated": "2026-11-11T23:18:16.802Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+      "link": "https://www.myjoyonline.com/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:18:00.000Z",
+      "summary": "Nvidia board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, including one with ​a suspected Chinese spy, the Wall Street Journal reported ‌on Wednesday, citing…"
+    },
     {
       "title": "2027 Budget should protect fiscal credibility, direct scarce public resources towards productive capacity – KPMG Boss",
       "link": "https://www.myjoyonline.com/2027-budget-should-protect-fiscal-credibility-direct-scarce-public-resources-towards-productive-capacity-kpmg-boss/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T14:16:00.000Z",
       "summary": "The World Bank finds that heavily indebted countries face greater difficulty protecting households from rising food costs during global crises."
-    },
-    {
-      "title": "Some OMCs drop fuel prices ahead of November 16 review as competition intensifies",
-      "link": "https://www.myjoyonline.com/some-omcs-drop-fuel-prices-ahead-of-november-16-review-as-competition-intensifies/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T14:14:15.000Z",
-      "summary": "Under the current regulations governing the pricing of petroleum products, prices are supposed to be reviewed on the 1st and 16th of each month."
     }
   ]
 };
