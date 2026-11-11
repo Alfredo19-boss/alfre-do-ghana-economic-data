@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T17:06:59.873Z",
+  "updated": "2026-11-11T17:17:00.469Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,54 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "ICC, TikTok launch free digital commerce labs to prepare Ghanaian SMEs for cross-border trade",
+      "link": "https://www.myjoyonline.com/icc-tiktok-launch-free-digital-commerce-labs-to-prepare-ghanaian-smes-for-cross-border-trade/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:15:38.000Z",
+      "summary": "Small and medium-sized enterprises (SMEs) across Ghana, including those in rural communities, can now access free training to sell beyond their local markets following the launch of the…",
+      "categories": [
+        "Business",
+        "Technology",
+        "cross-border trade",
+        "digital commerce labs",
+        "SMEs",
+        "TikTok"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kwahu Professionals Network brings free healthcare and relief to Kwahu Tafo residents",
+      "link": "https://www.graphic.com.gh/news/general-news/kwahu-professionals-network-brings-free-healthcare-and-relief-to-kwahu-tafo-residents.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T17:15:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Mahama calls on diplomats to support Ghana’s AU agenda and reparatory justice drive",
+      "link": "https://www.myjoyonline.com/mahama-calls-on-diplomats-to-support-ghanas-au-agenda-and-reparatory-justice-drive/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:14:25.000Z",
+      "summary": "President John Mahama has called on diplomatic representatives in Ghana to support the African Union's priorities and sustain momentum on the reparatory justice agenda ahead of his…",
+      "categories": [
+        "National",
+        "African Union",
+        "President John Mahama",
+        "Reparatory justice"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GAIA, GAYO, Experts call for Zero Waste Solutions at COP31",
       "link": "https://www.myjoyonline.com/gaia-gayo-experts-call-for-zero-waste-solutions-at-cop31/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T17:06:25.000Z",
       "summary": "Climate advocates, researchers, youth leaders and local government officials have urged governments and climate financiers at COP31 to reject waste incineration and put their money into…",
       "categories": [
+        "International",
         "National",
         "COP 31",
         "GAIA",
@@ -34,6 +76,17 @@ window.GDC_PAPERS = {
         "Zero waste"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Of failed promises and repackaged slogans: Ghana needs jobs, not another economic catchphrase - Amin Adam's open letter to Finance Minister",
+      "link": "https://www.graphic.com.gh/news/politics/of-failed-promises-and-repackaged-slogans-ghana-needs-jobs-not-another-economic-catchphrase-dr-mohammed-amin-adam-open-letter-to-finance-minister.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T17:05:51.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Egyptian journalist’s retrial adjourned as UN warns of ‘assaults on press freedom’",
@@ -113,35 +166,6 @@ window.GDC_PAPERS = {
         "Energy",
         "Edmond Kombat",
         "TOR"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "NIA to begin Ghana Card registration for children in Upper West, Savannah on November 12",
-      "link": "https://www.myjoyonline.com/nia-to-begin-ghana-card-registration-for-children-in-upper-west-savannah-on-november-12/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:49:11.000Z",
-      "summary": "The National Identification Authority (NIA), in collaboration with the National Health Insurance Authority (NHIA), will begin the nationwide Ghana Card registration exercise for children…",
-      "categories": [
-        "Regional",
-        "Ghana Card",
-        "NIA",
-        "Savannah"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Centre for CSR West Africa urges greener festivals and concerts as festive season approaches",
-      "link": "https://www.myjoyonline.com/centre-for-csr-west-africa-urges-greener-festivals-and-concerts-as-festive-season-approaches/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T16:44:03.000Z",
-      "summary": "The Centre for CSR, West Africa, has urged event organisers in Ghana to adopt more environmentally responsible practices as the country approaches a season of festivals, concerts, corporate…",
-      "categories": [
-        "Art & Design",
-        "National",
-        "Centre for CSR West Africa",
-        "Climate x Culture Summit",
-        "Priscilla Adomaah Nsonwaah"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -292,28 +316,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "GSA deploys 264 inspectors to clamp down on substandard goods ahead of festive season",
-      "link": "https://www.graphic.com.gh/news/general-news/gsa-deploys-264-inspectors-to-clamp-down-on-substandard-goods-ahead-of-festive-season.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T13:27:37.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Akufo-Addo gov’t deserves credit for new oil find – Adomako-Mensah",
-      "link": "https://www.graphic.com.gh/news/general-news/akufo-addo-govt-secured-key-approvals-for-new-oil-discovery-adomako-mensah.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T13:18:03.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     }
