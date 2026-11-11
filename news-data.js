@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T13:19:03.346Z",
+  "updated": "2026-11-11T15:51:30.875Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -22,6 +22,55 @@ window.GDC_NEWS = {
   ],
   "items": [
     {
+      "title": "71% want jobs and youth employment prioritised in 2027 Budget – KPMG/UNDP survey",
+      "link": "https://www.myjoyonline.com/71-want-jobs-and-youth-employment-prioritised-in-2027-budget-kpmg-undp-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:42:09.000Z",
+      "summary": "More than seven in 10 respondents want job creation and youth employment prioritised in Ghana’s 2027 Budget, according to a survey conducted by KPMG and the United Nations Development…"
+    },
+    {
+      "title": "TOR targets listing on Ghana Stock Exchange by 2028 to ensure long-term sustainability",
+      "link": "https://www.myjoyonline.com/tor-targets-listing-on-ghana-stock-exchange-by-2028-to-ensure-long-term-sustainability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:35:46.000Z",
+      "summary": "The Tema Oil Refinery (TOR) is targeting a listing on the Ghana Stock Exchange by 2028 as part of efforts to secure its long-term sustainability and prevent a recurrence of its operational…"
+    },
+    {
+      "title": "Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations",
+      "link": "https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:22:37.000Z",
+      "summary": "The Ghana Petroleum Commission (PC) has introduced a Digital Permit Application Platform to simplify regulatory processes, reduce delays, and improve business operations in Ghana’s upstream…"
+    },
+    {
+      "title": "Planet One opens new exploration frontier with offshore Ghana hydrocarbon discovery",
+      "link": "https://www.myjoyonline.com/planet-one-opens-new-exploration-frontier-with-offshore-ghana-hydrocarbon-discovery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:22:28.000Z",
+      "summary": "Planet One Oil & Gas has announced the discovery of hydrocarbons at its Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore Ghana."
+    },
+    {
+      "title": "VRA calls for sustained investment in energy infrastructure to drive industrialisation",
+      "link": "https://www.myjoyonline.com/vra-calls-for-sustained-investment-in-energy-infrastructure-to-drive-industrialisation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T14:48:24.000Z",
+      "summary": "The Chief Executive Officer of the Volta River Authority (VRA), Edward Obeng Kenzo, is calling for sustained investment in Ghana’s energy infrastructure to ensure reliable, affordable and…"
+    },
+    {
+      "title": "Three Banks Seek Non-Interest Licences as Ghana Targets US$10.5 Trillion Market",
+      "link": "https://thehighstreetjournal.com/three-banks-seek-non-interest-licences-as-ghana-targets-us10-5-trillion-market/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T14:21:39.000Z",
+      "summary": "Ghana is targeting the US$10.5 trillion global non-interest finance market by 2030 as three banks seek licences, potentially expanding business financing, investment opportunities and…"
+    },
+    {
+      "title": "Beyond Bananas: How Golden Exotics holds a blueprint for Ghana’s agricultural transformation",
+      "link": "https://www.myjoyonline.com/beyond-bananas-how-golden-exotics-holds-a-blueprint-for-ghanas-agricultural-transformation/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:58:43.000Z",
+      "summary": "Ghana’s banana industry is demonstrating the potential of large-scale irrigation and private-sector investment to transform agricultural production, create jobs and strengthen the country’s…"
+    },
+    {
       "title": "Analyst urges focus on high cost of essentials ahead of 2027 budget",
       "link": "https://www.myjoyonline.com/analyst-urges-focus-on-high-cost-of-essentials-ahead-of-2027-budget/",
       "source": "MyJoyOnline",
@@ -31,6 +80,13 @@ window.GDC_NEWS = {
     {
       "title": "Ennobled Foundation recognises Female Accounting Graduate to encourage more women in the profession",
       "link": "https://www.myjoyonline.com/ennobled-foundation-recognises-female-accounting-graduate-to-encourage-more-women-in-the-profession/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:10:38.000Z",
+      "summary": "Ennobled Foundation has presented its Best Graduating Female Accounting Student Award to Matilda Dede Angmortey at the 18th Congregation of the University of Professional Studies, Accra…"
+    },
+    {
+      "title": "Ennobled Foundation recognises Best Female Accounting Graduate to encourage more women in the profession",
+      "link": "https://www.myjoyonline.com/ennobled-foundation-recognises-best-female-accounting-graduate-to-encourage-more-women-in-the-profession/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T13:10:38.000Z",
       "summary": "Ennobled Foundation has presented its Best Graduating Female Accounting Student Award to Matilda Dede Angmortey at the 18th Congregation of the University of Professional Studies, Accra…"
@@ -460,7 +516,7 @@ window.GDC_NEWS = {
       "link": "https://www.myjoyonline.com/telecel-ghana-targets-20000-merchants-with-new-e-commerce-platform-launches-e-wallet/",
       "source": "MyJoyOnline",
       "published": "2026-11-10T15:31:00.000Z",
-      "summary": "Telecel Ghana is targeting 20,000 local merchants by the end of 2026 as it expands its digital commerce operations with the launch of a new e-commerce platform and a network-agnostic…"
+      "summary": "Telecel Ghana aims to reach 20,000 local merchants by the end of 2026 as it expands its digital commerce operations by launching a new e-commerce platform and a network-agnostic e-wallet."
     },
     {
       "title": "Ghana’s capital market has money, but lacks investment-ready projects – GSE MD",
@@ -1014,62 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T03:23:00.000Z",
       "summary": "Fidelity Bank's Board has selected Deputy Managing Director Atta Yeboah Gyan as the bank’s next Managing Director, effective November 21, 2026."
-    },
-    {
-      "title": "Aliko Dangote to join President Mahama at Invest Ghana Summit 2026",
-      "link": "https://www.myjoyonline.com/aliko-dangote-to-join-president-mahama-at-invest-ghana-summit-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T16:11:43.000Z",
-      "summary": "Convened by the Ghana Investment Promotion Authority (GIPA), with support from the Ministry of Trade, Agribusiness and Industry; Ghana Export Promotion Authority (GEPA); Bank of Ghana…"
-    },
-    {
-      "title": "Ghana ranks 18th in Sub-Saharan Africa in terms of total revenue-to-GDP ratio",
-      "link": "https://www.myjoyonline.com/ghana-ranks-18th-in-sub-saharan-africa-in-terms-of-total-revenue-to-gdp-ratio/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T15:55:19.000Z",
-      "summary": "Namibia recorded the highest revenue-to-GDP ratio of 31.3% in Sub-Saharan Africa, followed by Seychelles (30.0%) in 3rd position and Botswana (29.5%) in 4th position."
-    },
-    {
-      "title": "When the floods struck, Activa delivered: Over GH₵4.7m paid in flood claims as of October 2026",
-      "link": "https://www.myjoyonline.com/when-the-floods-struck-activa-delivered-over-gh%e2%82%b54-7m-paid-in-flood-claims-as-of-october-2026/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T15:49:58.000Z",
-      "summary": "Following the heavy rains and widespread flooding experienced in Accra and several other parts of Ghana during the 2026 rainy season, Activa International Insurance Ghana demonstrated its…"
-    },
-    {
-      "title": "T-bills auction: Government records 41% oversubscription; but yield on 91-day bill increases",
-      "link": "https://www.myjoyonline.com/t-bills-auction-government-records-41-oversubscription-but-yield-on-91-day-bill-increases/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T14:55:34.000Z",
-      "summary": "A little over GH¢3.0 billion of the bids came from the 91-day bill, representing 59% of the total bids. The uptake was about GH¢2.9 billion"
-    },
-    {
-      "title": "BoG introduces economic and financial journalism award with international training opportunities at 30th GJA Media Awards",
-      "link": "https://www.myjoyonline.com/bog-introduces-economic-and-financial-journalism-award-with-international-training-opportunities-at-30th-gja-media-awards/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-08T00:15:34.000Z",
-      "summary": "The Bank of Ghana (BoG) has announced a new award scheme to recognise excellence in economic and financial journalism, offering winners opportunities for international exposure…"
-    },
-    {
-      "title": "New Economy to push Ghana towards investment grade – Dr. Ato Forson",
-      "link": "https://www.myjoyonline.com/new-economy-to-push-ghana-towards-investment-grade-dr-ato-forson/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T14:38:57.000Z",
-      "summary": "This is to lower the country’s borrowing costs and help Ghanaian businesses raise long-term financing, Finance Minister Dr. Cassiel Ato Forson has said."
-    },
-    {
-      "title": "ECG to begin nationwide revenue mobilisation exercise, warns customers with arrears of disconnection",
-      "link": "https://www.myjoyonline.com/ecg-to-begin-nationwide-revenue-mobilisation-exercise-warns-customers-with-arrears-of-disconnection-2/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T14:33:08.000Z",
-      "summary": "The Electricity Company of Ghana (ECG) will begin a nationwide Mass Revenue Mobilisation Exercise on Monday, November 9, to recover outstanding electricity bills from customers. The…"
-    },
-    {
-      "title": "Tokenising government securities could attract more foreign investors to Ghana – WeWire CEO",
-      "link": "https://www.myjoyonline.com/tokenising-government-securities-could-attract-more-foreign-investors-to-ghana-wewire-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T08:12:22.000Z",
-      "summary": "The Chief Executive Officer of WeWire, Ebenezer Ghanney, says tokenising Ghana's government securities could make it easier for international investors to access the domestic market and…"
     }
   ]
 };

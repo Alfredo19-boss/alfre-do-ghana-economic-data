@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T13:19:34.789Z",
+  "updated": "2026-11-11T15:52:01.607Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,7 +21,182 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
-      "title": "Akufo-Addo gov’t secured key approvals for new oil discovery – Adomako-Mensah",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "link": "https://www.myjoyonline.com/russia-ukraine-talks-turn-to-post-war-security-but-end-without-breakthrough/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:50:18.000Z",
+      "summary": "Trilateral talks in Abu Dhabi between Russia, Ukraine and the US aimed at ending the war in Ukraine have concluded after a second day.",
+      "categories": [
+        "International",
+        "Breakthrough",
+        "Russia",
+        "Ukraine"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "71% want jobs and youth employment prioritised in 2027 Budget – KPMG/UNDP survey",
+      "link": "https://www.myjoyonline.com/71-want-jobs-and-youth-employment-prioritised-in-2027-budget-kpmg-undp-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:42:09.000Z",
+      "summary": "More than seven in 10 respondents want job creation and youth employment prioritised in Ghana’s 2027 Budget, according to a survey conducted by KPMG and the United Nations Development…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP News 2",
+        "National",
+        "Research",
+        "2027 Budget",
+        "Jobs",
+        "KPMG/UNDP",
+        "Youth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "TOR targets listing on Ghana Stock Exchange by 2028 to ensure long-term sustainability",
+      "link": "https://www.myjoyonline.com/tor-targets-listing-on-ghana-stock-exchange-by-2028-to-ensure-long-term-sustainability/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:35:46.000Z",
+      "summary": "The Tema Oil Refinery (TOR) is targeting a listing on the Ghana Stock Exchange by 2028 as part of efforts to secure its long-term sustainability and prevent a recurrence of its operational…",
+      "categories": [
+        "Business",
+        "Energy",
+        "HP Business 2",
+        "Ghana Economic Forum",
+        "Ghana Stock Exchange",
+        "TOR"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Silence protects the abuser, not the child – Dr Apaak warns teachers over sexual misconduct",
+      "link": "https://www.graphic.com.gh/news/education/silence-protects-the-abuser-not-the-child-dr-apaak-warns-teachers-over-sexual-misconduct.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T15:34:37.000Z",
+      "summary": "",
+      "categories": [
+        "Education"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Bagbin warns youth against internet fraud, calls for responsible use of technology",
+      "link": "https://www.myjoyonline.com/bagbin-warns-youth-against-internet-fraud-calls-for-responsible-use-of-technology/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:22:44.000Z",
+      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has denounced the rising incidence of cybercrime and internet fraud in Ghana, cautioning the youth to desist from misusing the…",
+      "categories": [
+        "National",
+        "Alban Bagbin",
+        "Internet Fraud",
+        "Youth"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations",
+      "link": "https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:22:37.000Z",
+      "summary": "The Ghana Petroleum Commission (PC) has introduced a Digital Permit Application Platform to simplify regulatory processes, reduce delays, and improve business operations in Ghana’s upstream…",
+      "categories": [
+        "Business",
+        "Economy",
+        "National",
+        "Digital Permit Platform",
+        "Ghana Petroleum Commission"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Planet One opens new exploration frontier with offshore Ghana hydrocarbon discovery",
+      "link": "https://www.myjoyonline.com/planet-one-opens-new-exploration-frontier-with-offshore-ghana-hydrocarbon-discovery/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:22:28.000Z",
+      "summary": "Planet One Oil & Gas has announced the discovery of hydrocarbons at its Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore Ghana.",
+      "categories": [
+        "Energy",
+        "Ghana hydrocarbon discovery",
+        "Planet One"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "45-minute downpour floods parts of China Afri Mall, strands commuters in Koforidua",
+      "link": "https://www.myjoyonline.com/45-minute-downpour-floods-parts-of-china-afri-mall-strands-commuters-in-koforidua/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:19:00.000Z",
+      "summary": "Parts of the newly established China Afri Mall in Koforidua flooded after about 45 minutes of rain on Tuesday night, stranding commuters and disrupting traffic on surrounding roads.",
+      "categories": [
+        "HP News 3",
+        "In Focus",
+        "Regional",
+        "China Afri Mall",
+        "Koforidua"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Dikan partners with dEX, to screen The Eyes of Ghana documentary at DDC26",
+      "link": "https://www.myjoyonline.com/dikan-partners-with-dex-to-screen-the-eyes-of-ghana-documentary-at-ddc26/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T15:18:32.000Z",
+      "summary": "In partnership with Dikan, dEX Ghana Foundation will host a special screening of The Eyes of Ghana, the acclaimed documentary directed by Ben Proudfoot, at the National Theatre of Ghana on…",
+      "categories": [
+        "National",
+        "DDC26",
+        "Dikan",
+        "The Eyes of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "VIDEO: How supporters said to be for Azorka tried to force their way into restricted areas at NDC vetting of aspirants",
+      "link": "https://www.graphic.com.gh/news/politics/video-how-azorka-supporters-tried-to-force-their-way-to-restricted-areas-at-ndc-vetting-of-aspirants.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T14:48:22.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Establish independent abuse reporting channels in senior high schools since current GES pathways 'are broken' - Parliament to Ministry",
+      "link": "https://www.graphic.com.gh/news/general-news/parliament-directs-education-ministry-to-set-up-independent-abuse-reporting-channel-for-shs-students.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T14:06:25.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "NDC vetting 121 aspirants for 14 National Executive positions",
+      "link": "https://www.graphic.com.gh/news/politics/ndc-begins-vetting-of-121-aspirants-for-national-executive-positions.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T13:45:47.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "GSA deploys 264 inspectors to clamp down on substandard goods ahead of festive season",
+      "link": "https://www.graphic.com.gh/news/general-news/gsa-deploys-264-inspectors-to-clamp-down-on-substandard-goods-ahead-of-festive-season.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T13:27:37.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
+      "title": "Akufo-Addo gov’t deserves credit for new oil find – Adomako-Mensah",
       "link": "https://www.graphic.com.gh/news/general-news/akufo-addo-govt-secured-key-approvals-for-new-oil-discovery-adomako-mensah.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T13:18:03.000Z",
@@ -30,119 +205,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov’t intervention",
-      "link": "https://www.myjoyonline.com/small-scale-miners-accuse-security-agencies-of-extortion-during-anti-galamsey-raids-demand-govt-intervention/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:14:05.000Z",
-      "summary": "A group calling itself the Progressive Small Scale Miners Association of Ghana is accusing security agencies tasked with combating illegal mining of extorting money from miners.",
-      "categories": [
-        "National",
-        "anti-galamsey raids",
-        "Extortion",
-        "Security agencies",
-        "Small-scale miners"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ennobled Foundation recognises Female Accounting Graduate to encourage more women in the profession",
-      "link": "https://www.myjoyonline.com/ennobled-foundation-recognises-female-accounting-graduate-to-encourage-more-women-in-the-profession/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:10:38.000Z",
-      "summary": "Ennobled Foundation has presented its Best Graduating Female Accounting Student Award to Matilda Dede Angmortey at the 18th Congregation of the University of Professional Studies, Accra…",
-      "categories": [
-        "Banking and Finance",
-        "Business",
-        "HP Business 7",
-        "Ennobled Foundation",
-        "Mrs Gloria Boye-Doku"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "“I’ve never liked democracy”- George Quaye",
-      "link": "https://www.myjoyonline.com/ive-never-liked-democracy-george-quaye/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:10:31.000Z",
-      "summary": "Ghanaian creative entrepreneur George Quaye has weighed in on the concept of democracy, arguing that its four-year electoral cycle has hindered the country’s development, particularly in…",
-      "categories": [
-        "HP Entertainment 2",
-        "Radio & TV",
-        "Democracy",
-        "George Quaye"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Wa West District Assembly disburses Disability Common Fund to PWDs",
-      "link": "https://www.myjoyonline.com/wa-west-district-assembly-disburses-disability-common-fund-to-pwds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:08:19.000Z",
-      "summary": "The Wa West District Assembly has disbursed support items and cash to Persons with Disabilities (PWDs) under the Disability Common Fund, in a ceremony described as a major step towards…",
-      "categories": [
-        "National",
-        "PWDs",
-        "Wa West District Assembly"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mrs Janet Gyasi Boakye",
-      "link": "https://www.myjoyonline.com/mrs-janet-gyasi-boakye/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:08:16.000Z",
-      "summary": "Called To Glory The Aryeetey Family of Gbese, Accra, Kwame Addo Family of Akuapem, Ekuona and Gyasi Royal Family from Akoase and Opanyini Albert Agyei of Asona Abusuapanyini of Akyem Nwinso…",
-      "categories": [
-        "National",
-        "Obituary",
-        "Mrs Janet Gyasi Boakye"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama directs Petroleum Commission, other agencies to work on feedstock supply for Petroleum Hub Project",
-      "link": "https://www.myjoyonline.com/mahama-directs-petroleum-commission-other-agencies-to-work-on-feedstock-supply-for-petroleum-hub-project/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:05:45.000Z",
-      "summary": "The Petroleum Commission and other state agencies in the upstream oil and gas sector have been instructed by President John Dramani Mahama to work with the Petroleum Hub Development…",
-      "categories": [
-        "Energy",
-        "Mahama",
-        "Petroleum Hub"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Over 70% of Ghanaians expect jobs and youth employment as top priorities in 2027 Budget-KPMG/UNDP survey",
-      "link": "https://www.myjoyonline.com/over-70-of-ghanaians-expect-jobs-and-youth-employment-as-top-priorities-in-2027-budget-kpmg-undp-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:05:00.000Z",
-      "summary": "54 percent of the respondents identify the cost of living as a key national priority apart from the growing unemployment situation in the country.",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "24-hour economy",
-        "KPMG",
-        "Tax",
-        "UNDP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Isaac Nii Kpakpo Oti van der Puije",
-      "link": "https://www.myjoyonline.com/isaac-nii-kpakpo-oti-van-der-puije/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T13:03:40.000Z",
-      "summary": "HOME CALL Nii Dodoo Nsaki II (Paramount Chief of Otublohum), Nii Okanta Ankrah II (Head, Mantse Ankrah Royal Family), Nii Kpakpo Oti IV, (Adontenhene of Otublohum), Naa Densua V (Otublohum…",
-      "categories": [
-        "National",
-        "Obituary",
-        "Isaac Nii Kpakpo Oti van der Puije"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "President Mahama breaks ground for $235 million ship repair, Berth-19 projects at Takoradi Port",
@@ -163,39 +225,6 @@ window.GDC_PAPERS = {
       "summary": "",
       "categories": [
         "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Edward Agyekum Kufuor: Kufuor's son declares bid for father's old Parliamentary seat",
-      "link": "https://www.graphic.com.gh/news/politics/edward-agyekum-kufuor-kufuors-son-declares-bid-for-fathers-old-parliamentary-seat.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T12:07:34.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "From GH¢350 to GH¢2,000: A breakdown of Ghana's passport application fees",
-      "link": "https://www.graphic.com.gh/news/general-news/from-ghc350-to-ghc2-000-a-breakdown-of-ghanas-passport-application-fees.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T11:44:35.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "US lawyer Ben Crump to pursue justice for Javits Frimpong; Ablakwa asks him to extend services to other Ghanaian victims",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-engages-us-lawyer-ben-crump-to-seek-justice-for-nationals-killed-abroad.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T09:05:20.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
       ],
       "site": "https://www.graphic.com.gh/"
     },
@@ -221,17 +250,6 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, Slovakia to pursue visa waiver, defence cooperation agreements",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-slovakia-to-pursue-visa-waiver-defence-cooperation-agreements.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T08:25:38.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "121 file nominations for NDC national executive elections",
@@ -279,17 +297,6 @@ window.GDC_PAPERS = {
         "Uncategorized"
       ],
       "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Unpredictable markets hampering pharmaceutical sector - Dr Sodzi-Tettey",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-unpredictable-markets-hampering-pharmaceutical-sector-dr-sodzi-tettey.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T08:16:01.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "Ensuring fairer, more sustainable tax administration in Ghana …Understanding dispute resolution, legal processes and taxpayers’ rights",
