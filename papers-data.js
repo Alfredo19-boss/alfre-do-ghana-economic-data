@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T03:25:44.273Z",
+  "updated": "2026-11-11T03:35:44.117Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "64% of Ghanaians oppose creation of new districts – CLGA survey",
+      "link": "https://www.myjoyonline.com/64-of-ghanaians-oppose-creation-of-new-districts-clga-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:23:06.000Z",
+      "summary": "A survey by the Centre for Local Governance Advocacy (CLGA) has found that 64 per cent of respondents believe Ghana's 261 Metropolitan, Municipal and District Assemblies (MMDAs) are…",
+      "categories": [
+        "News",
+        "District",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana cannot celebrate austerity amid huge infrastructure deficit – Bokpin",
       "link": "https://www.myjoyonline.com/ghana-cannot-celebrate-austerity-amid-huge-infrastructure-deficit-bokpin/",
@@ -115,18 +128,6 @@ window.GDC_PAPERS = {
         "International",
         "Mohamed Al Fayed",
         "Ritz"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US federal authorities could have prevented Epstein crimes, report finds",
-      "link": "https://www.myjoyonline.com/us-federal-authorities-could-have-prevented-epstein-crimes-report-finds/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T01:51:00.000Z",
-      "summary": "Crimes committed by the late disgraced financier Jeffrey Epstein after 2005 could have been prevented were it not for \"failures\" by federal investigators and prosecutors, a congressional…",
-      "categories": [
-        "International",
-        "Epstein"
       ],
       "site": "https://www.myjoyonline.com/"
     },
