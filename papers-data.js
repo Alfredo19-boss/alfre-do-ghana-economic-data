@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T20:36:59.509Z",
+  "updated": "2026-11-11T20:46:59.559Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama pushes for expanded economic cooperation with India, Lebanon",
+      "link": "https://www.myjoyonline.com/mahama-pushes-for-expanded-economic-cooperation-with-india-lebanon/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T20:35:11.000Z",
+      "summary": "President John Mahama has called for stronger economic and diplomatic relations between Ghana and India and Lebanon, highlighting opportunities for expanded trade, investment and…",
+      "categories": [
+        "National",
+        "India",
+        "President John Mahama"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Black Meteors face uphill task after 1-0 loss to Libya",
       "link": "https://www.myjoyonline.com/black-meteors-face-uphill-task-after-1-0-loss-to-libya/",
@@ -126,22 +139,6 @@ window.GDC_PAPERS = {
         "National",
         "President John Mahama",
         "Thai investors"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Ghana committed to strengthening bilateral relations with South Africa despite postponement of BNC – Mahama",
-      "link": "https://www.myjoyonline.com/ghana-committed-to-strengthening-bilateral-relations-with-south-africa-despite-postponement-of-bnc-mahama/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T19:17:02.000Z",
-      "summary": "President John Mahama says Ghana remains committed to strengthening its longstanding friendship and bilateral relations with South Africa despite the postponement of the third session of…",
-      "categories": [
-        "HP News 4",
-        "National",
-        "Bilateral relations",
-        "BNC",
-        "Ghana",
-        "South Africa"
       ],
       "site": "https://www.myjoyonline.com/"
     },
