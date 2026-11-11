@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T18:26:59.765Z",
+  "updated": "2026-11-11T18:36:59.997Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,17 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Manso Keniago: 3 reported dead, 13 injured",
+      "link": "https://www.graphic.com.gh/news/general-news/manso-keniago-3-reported-dead-13-injured.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T18:26:08.000Z",
+      "summary": "",
+      "categories": [
+        "General News"
+      ],
+      "site": "https://www.graphic.com.gh/"
+    },
+    {
       "title": "GES engages Funsi SHS authorities over lack of water, electricity in boys’ dormitory",
       "link": "https://www.myjoyonline.com/ges-engages-funsi-shs-authorities-over-lack-of-water-electricity-in-boys-dormitory/",
       "source": "MyJoyOnline",
@@ -33,6 +44,17 @@ window.GDC_PAPERS = {
         "GES"
       ],
       "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Parliament says no MP received bribe in AKSA Energy deal; Report forwarded to OSP",
+      "link": "https://www.graphic.com.gh/news/politics/parliament-says-no-mp-received-bribe-in-aksa-energy-case-report-forwarded-to-osp.html",
+      "source": "Daily Graphic",
+      "published": "2026-11-11T18:22:28.000Z",
+      "summary": "",
+      "categories": [
+        "Politics"
+      ],
+      "site": "https://www.graphic.com.gh/"
     },
     {
       "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
@@ -48,6 +70,20 @@ window.GDC_PAPERS = {
         "GITEX World RobotiX 2026",
         "humanoid robots",
         "next-generation automation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "From dining table to African AI ecosystem: Npontu Technologies marks 10 years of building digital solutions",
+      "link": "https://www.myjoyonline.com/from-dining-table-to-african-ai-ecosystem-npontu-technologies-marks-10-years-of-building-digital-solutions/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:08:51.000Z",
+      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…",
+      "categories": [
+        "Technology",
+        "AI",
+        "digital solutions",
+        "Npontu Technologies"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -121,20 +157,6 @@ window.GDC_PAPERS = {
         "Ayawaso West Wuogon",
         "Barbara Quashigah",
         "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Attacks on NAIMOS personnel will not be tolerated – Secretariat on fatal Manso Keniago anti-galamsey clash",
-      "link": "https://www.myjoyonline.com/attacks-on-naimos-personnel-will-not-be-tolerated-secretariat-on-fatal-manso-keniago-anti-galamsey-clash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:34:46.000Z",
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has cautioned individuals and groups against obstructing its personnel in the discharge of their duties. This follows a…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "Clash",
-        "NAIMOS"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -293,28 +315,6 @@ window.GDC_PAPERS = {
       "link": "https://www.graphic.com.gh/news/politics/video-how-azorka-supporters-tried-to-force-their-way-to-restricted-areas-at-ndc-vetting-of-aspirants.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T14:48:22.000Z",
-      "summary": "",
-      "categories": [
-        "Politics"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Establish independent abuse reporting channels in senior high schools since current GES pathways 'are broken' - Parliament to Ministry",
-      "link": "https://www.graphic.com.gh/news/general-news/parliament-directs-education-ministry-to-set-up-independent-abuse-reporting-channel-for-shs-students.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T14:06:25.000Z",
-      "summary": "",
-      "categories": [
-        "General News"
-      ],
-      "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "NDC vetting 121 aspirants for 14 National Executive positions",
-      "link": "https://www.graphic.com.gh/news/politics/ndc-begins-vetting-of-121-aspirants-for-national-executive-positions.html",
-      "source": "Daily Graphic",
-      "published": "2026-11-11T13:45:47.000Z",
       "summary": "",
       "categories": [
         "Politics"

@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T18:26:29.232Z",
+  "updated": "2026-11-11T18:36:29.569Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -31,6 +31,13 @@ window.GDC_NEWS = {
     {
       "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
       "link": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:08:51.000Z",
+      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…"
+    },
+    {
+      "title": "From dining table to African AI ecosystem: Npontu Technologies marks 10 years of building digital solutions",
+      "link": "https://www.myjoyonline.com/from-dining-table-to-african-ai-ecosystem-npontu-technologies-marks-10-years-of-building-digital-solutions/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T18:08:51.000Z",
       "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…"
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T13:21:00.000Z",
       "summary": "Recently, there has been a controversy surrounding the alleged sale of Diplomatic and Service Passports. The issue has brought an otherwise ordinary travel document into the centre of…"
-    },
-    {
-      "title": "Banks Don’t Starve Agric of Loans Because of Default; It Defaults Because It Is Starved of Critical Infrastructure",
-      "link": "https://thehighstreetjournal.com/banks-dont-starve-agric-of-loans-because-of-default-it-defaults-because-it-is-starved-of-critical-infrastructure/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T12:19:00.000Z",
-      "summary": "Sitsofe Mensah argues that inadequate irrigation, poor feeder roads, weak land documentation and delayed payments make agriculture risky for banks, urging government to fix infrastructure…"
     }
   ]
 };
