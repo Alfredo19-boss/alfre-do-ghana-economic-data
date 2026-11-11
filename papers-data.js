@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T17:36:59.999Z",
+  "updated": "2026-11-11T17:47:00.017Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,12 +21,28 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "Ghanaian entrepreneur Barbara Quashigah declares intent to contest Ayawaso West Wuogon NPP parliamentary ticket",
+      "link": "https://www.myjoyonline.com/ghanaian-entrepreneur-barbara-quashigah-declares-intent-to-contest-ayawaso-west-wuogon-npp-parliamentary-ticket/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:40:07.000Z",
+      "summary": "Ghanaian entrepreneur and investment adviser, Barbara Quashigah, has formally declared her intention to contest the New Patriotic Party (NPP) parliamentary primary for the Ayawaso West…",
+      "categories": [
+        "National",
+        "Politics",
+        "Ayawaso West Wuogon",
+        "Barbara Quashigah",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Attacks on NAIMOS personnel will not be tolerated – Secretariat on fatal Manso Keniago anti-galamsey clash",
       "link": "https://www.myjoyonline.com/attacks-on-naimos-personnel-will-not-be-tolerated-secretariat-on-fatal-manso-keniago-anti-galamsey-clash/",
       "source": "MyJoyOnline",
       "published": "2026-11-11T17:34:46.000Z",
       "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has cautioned individuals and groups against obstructing its personnel in the discharge of their duties. This follows a…",
       "categories": [
+        "HP News 2",
         "National",
         "Clash",
         "NAIMOS"
@@ -132,22 +148,6 @@ window.GDC_PAPERS = {
         "African Union",
         "President John Mahama",
         "Reparatory justice"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "GAIA, GAYO, Experts call for Zero Waste Solutions at COP31",
-      "link": "https://www.myjoyonline.com/gaia-gayo-experts-call-for-zero-waste-solutions-at-cop31/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:06:25.000Z",
-      "summary": "Climate advocates, researchers, youth leaders and local government officials have urged governments and climate financiers at COP31 to reject waste incineration and put their money into…",
-      "categories": [
-        "International",
-        "National",
-        "COP 31",
-        "GAIA",
-        "GAYO",
-        "Zero waste"
       ],
       "site": "https://www.myjoyonline.com/"
     },

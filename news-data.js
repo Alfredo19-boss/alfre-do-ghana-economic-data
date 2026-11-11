@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T17:36:29.552Z",
+  "updated": "2026-11-11T17:46:29.875Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Women-Owned Businesses Face Working Capital Constraints Despite Growing Market Opportunities",
+      "link": "https://thehighstreetjournal.com/women-owned-businesses-face-working-capital-constraints-despite-growing-market-opportunities/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T17:45:50.000Z",
+      "summary": "Women-owned businesses face working capital shortages that constrain production and contract execution, prompting calls for affordable financing, stronger market linkages and institutional…"
+    },
     {
       "title": "TOR considers BDCs partners in downstream petroleum market – Kombat",
       "link": "https://www.myjoyonline.com/tor-considers-bdcs-partners-in-downstream-petroleum-market-kombat/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T09:25:08.000Z",
       "summary": "The Ghana Chamber of Mines has donated US$400,000 towards the ongoing redevelopment of Burma Camp to support the provision of decent accommodation for personnel of the Ghana Armed Forces…"
-    },
-    {
-      "title": "Patricia Sappor launches a new book, ‘Creating a Unique Client Experience’",
-      "link": "https://www.myjoyonline.com/patricia-sappor-launches-a-new-book-creating-a-unique-client-experience/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T06:05:00.000Z",
-      "summary": "…unveils THE SAPPOR FRAMEWORK Mrs. Patricia Sappor, one of Ghana’s most respected banking executives and the first woman to lead the Chartered Institute of Bankers, Ghana (CIB Ghana), has…"
     }
   ]
 };
