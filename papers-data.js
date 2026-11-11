@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T12:49:33.431Z",
+  "updated": "2026-11-11T12:59:34.701Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,67 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NYA denies organising December trip to Togo",
+      "link": "https://www.myjoyonline.com/nya-denies-organising-december-trip-to-togo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:53:26.000Z",
+      "summary": "The National Youth Authority (NYA) has denied claims circulating on social media that it is organising a trip to Togo in December 2026, describing the reports as false and misleading.",
+      "categories": [
+        "National",
+        "December",
+        "NYA",
+        "Togo",
+        "Trip"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kow Essuman accuses Finance Minister, AG of ignoring letters over unpaid entitlements",
+      "link": "https://www.myjoyonline.com/kow-essuman-accuses-finance-minister-ag-of-ignoring-letters-over-unpaid-entitlements/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:49:48.000Z",
+      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has criticised the Attorney-General and Finance Minister for failing to respond to his demands for payment of…",
+      "categories": [
+        "National",
+        "AG",
+        "Finance Minister",
+        "Kow Essuman",
+        "Unpaid entitlements"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Margaret Obuobea Bafo",
+      "link": "https://www.myjoyonline.com/margaret-obuobea-bafo/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:46:09.000Z",
+      "summary": "With deep sorrow and in submission to the will of Almighty God, the family announces the passing of their beloved mother, grandmother, sister, aunt and relative.MADAM MARGARET OBUOBEA…",
+      "categories": [
+        "National",
+        "Obituary",
+        "Margaret Obuobea Bafo"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Powering Ghana’s future: Can small modular reactors drive the nation’s industrial growth",
+      "link": "https://www.myjoyonline.com/powering-ghanas-future-can-small-modular-reactors-drive-the-nations-industrial-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:45:58.000Z",
+      "summary": "Ghana stands at a pivotal juncture in its national energy development. With a rapidly growing economy and an expanding industrial base, long-term national planning requires a secure…",
+      "categories": [
+        "Business",
+        "Comp. Opinion",
+        "HP Opinion 1",
+        "ACP100",
+        "CNNC",
+        "Ghana",
+        "IAEA",
+        "SMRs"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Agbodza gives contractor one week to resume Bolgatanga-Bawku bridge works or risk termination",
       "link": "https://www.myjoyonline.com/agbodza-gives-contractor-one-week-to-resume-bolgatanga-bawku-bridge-works-or-risk-termination/",
@@ -103,20 +164,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Mahama breaks ground for $98.41m project to expand Takoradi Port’s cargo handling capacity",
-      "link": "https://www.myjoyonline.com/mahama-breaks-ground-for-98-41m-project-to-expand-takoradi-ports-cargo-handling-capacity/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:08:40.000Z",
-      "summary": "President John Mahama has broken ground for the construction of the 300-metre-long Berth 19 facility at the Takoradi Port, a project expected to expand the port's capacity to handle larger…",
-      "categories": [
-        "In Focus",
-        "National",
-        "President John Mahama",
-        "Takoradi Port"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "Edward Agyekum Kufuor: Kufuor's son declares bid for father's old Parliamentary seat",
       "link": "https://www.graphic.com.gh/news/politics/edward-agyekum-kufuor-kufuors-son-declares-bid-for-fathers-old-parliamentary-seat.html",
       "source": "Daily Graphic",
@@ -126,54 +173,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "‘We don’t place value on human lives’ – Former DVLA boss on road deaths",
-      "link": "https://www.myjoyonline.com/we-dont-place-value-on-human-lives-former-dvla-boss-on-road-deaths/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:02:54.000Z",
-      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, says road crashes and fatalities in the country can only be significantly reduced when…",
-      "categories": [
-        "HP News 8",
-        "National",
-        "DVLA",
-        "Justice Yaw Amegashie",
-        "Road crashes",
-        "Road fatalities",
-        "road safety"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kow Essuman threatens to sue government over unpaid salary arrears and terminal benefits",
-      "link": "https://www.myjoyonline.com/kow-essuman-threatens-to-sue-government-over-unpaid-salary-arrears-and-terminal-benefits/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:55:15.000Z",
-      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has threatened legal action against the government over unpaid salary arrears and terminal benefits, saying…",
-      "categories": [
-        "National",
-        "Top Story",
-        "Kow Essuman",
-        "Legal action",
-        "terminal benefits",
-        "unpaid salary"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kow Essuman threatens legal action over unpaid salary arrears, terminal benefits",
-      "link": "https://www.myjoyonline.com/kow-essuman-threatens-legal-action-over-unpaid-salary-arrears-terminal-benefits/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:55:15.000Z",
-      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has threatened legal action against the government over unpaid salary arrears and terminal benefits, saying…",
-      "categories": [
-        "National",
-        "Kow Essuman",
-        "Legal action",
-        "terminal benefits",
-        "unpaid salary"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "From GH¢350 to GH¢2,000: A breakdown of Ghana's passport application fees",
