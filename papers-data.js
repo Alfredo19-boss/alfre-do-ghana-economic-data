@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T22:38:47.045Z",
+  "updated": "2026-11-11T22:48:48.283Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -32,6 +32,19 @@ window.GDC_PAPERS = {
         "Techiman drivers",
         "Traders",
         "women's development bank"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana risks being shortchanged in carbon credit deal – Annoh-Dompreh",
+      "link": "https://www.myjoyonline.com/ghana-risks-being-shortchanged-in-carbon-credit-deal-annoh-dompreh/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:09:00.000Z",
+      "summary": "Minority Chief Whip Frank Annoh-Dompreh has urged the government to negotiate better prices under Ghana’s proposed carbon credit agreement, warning that the country risks undervaluing its…",
+      "categories": [
+        "National",
+        "Carbon credit",
+        "Frank Annoh-Dompreh"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -122,20 +135,6 @@ window.GDC_PAPERS = {
         "Customer Service Week",
         "Dr Gabriel Sakyi Kwofie",
         "Living Waters Hospital"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "WASEC 1984 year group donates 80 tables and 160 benches worth GH¢96,000 to alma mater",
-      "link": "https://www.myjoyonline.com/wasec-1984-year-group-donates-80-tables-and-160-benches-worth-gh%c2%a296000-to-alma-mater/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:28:21.000Z",
-      "summary": "The 1984 year group of Wa Senior High School (WASEC) has donated dining hall furniture worth GH¢96,000 to the school.",
-      "categories": [
-        "Education",
-        "Regional",
-        "1984 year group",
-        "Wa Senior High School (WASEC)"
       ],
       "site": "https://www.myjoyonline.com/"
     },
