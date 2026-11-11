@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T08:49:34.646Z",
+  "updated": "2026-11-11T08:59:34.147Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -27,7 +27,10 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T08:37:02.000Z",
       "summary": "Head coach Desmond Ofei supervised Tuesday evening's training session as the team fine-tuned preparations for the crucial first-leg encounter against the Mediterranean Knights.",
       "categories": [
-        "News"
+        "Football",
+        "2027 U-23 AFCON",
+        "Black Meteors",
+        "Libya"
       ],
       "site": "https://www.myjoyonline.com/"
     },
