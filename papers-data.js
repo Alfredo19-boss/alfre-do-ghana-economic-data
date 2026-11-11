@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T21:32:00.274Z",
+  "updated": "2026-11-11T22:28:46.855Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,110 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "The Politics of Reconciliation: A case for lawyer Kwasi Kwarteng",
+      "link": "https://www.myjoyonline.com/the-politics-of-reconciliation-a-case-for-lawyer-kwasi-kwarteng-2/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:08:24.000Z",
+      "summary": "As the NPP embarks on the difficult but necessary task of rebuilding party unity, it has an opportunity to demonstrate that unity is not merely a political slogan, but a commitment…",
+      "categories": [
+        "News",
+        "Opinion",
+        "Politics",
+        "Asante Akyem North",
+        "Charles Wereko",
+        "Kwasi Kwarteng",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "17-year-old charged with murder over killing of Ghanaian teenager Javits Frimpong in New York",
+      "link": "https://www.myjoyonline.com/17-year-old-charged-with-murder-over-killing-of-ghanaian-teenager-javits-frimpong-in-new-york/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:07:19.000Z",
+      "summary": "A 17-year-old has been charged with murder in connection with the fatal shooting of 15-year-old Ghanaian boy Javits Frimpong in the Bronx, New York. The New York Police Department (NYPD)…",
+      "categories": [
+        "International",
+        "National",
+        "Bronx",
+        "Javits Frimpong",
+        "Murder",
+        "New York"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget: Why COP31 climate negotiations should matter to Ghana",
+      "link": "https://www.myjoyonline.com/2027-budget-why-cop31-climate-negotiations-should-matter-to-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T22:03:42.000Z",
+      "summary": "Climate finance is no longer just an environmental funding issue. It is increasingly a fiscal, economic development, and national security concern, with direct implications for government…",
+      "categories": [
+        "National",
+        "2027 Budget",
+        "COP31 climate negotiations",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Spain intercepts 2.6 tonnes of cocaine shipped from Tema Port",
+      "link": "https://www.myjoyonline.com/spain-intercepts-2-6-tonnes-of-cocaine-shipped-from-tema-port/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:57:19.000Z",
+      "summary": "Spanish law enforcement agencies have uncovered a major cocaine consignment concealed in a shipment of coconuts from Ghana, seizing 2.6 tonnes of the narcotic and arresting two men in…",
+      "categories": [
+        "National",
+        "News",
+        "Top Story",
+        "Cocaine",
+        "Tema Port"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Upper West Region honours fallen heroes on 81st Remembrance Day",
+      "link": "https://www.myjoyonline.com/upper-west-region-honours-fallen-heroes-on-81st-remembrance-day/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:50:39.000Z",
+      "summary": "At the eleventh hour of the eleventh day of the eleventh month, the usual morning bustle of Wa came to a sudden, solemn halt.",
+      "categories": [
+        "Regional",
+        "81st Remembrance Day",
+        "fallen heroes",
+        "Upper West Region"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Living Waters Hospital ends Customer Service Week with heartfelt donation to clients",
+      "link": "https://www.myjoyonline.com/living-waters-hospital-ends-customer-service-week-with-heartfelt-donation-to-clients/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:31:25.000Z",
+      "summary": "The Chief Executive Officer of Living Waters Hospital, Dr Gabriel Sakyi Kwofie, marked his birthday with a remarkable show of generosity, making massive donations to clients, customers…",
+      "categories": [
+        "Regional",
+        "Customer Service Week",
+        "Dr Gabriel Sakyi Kwofie",
+        "Living Waters Hospital"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "WASEC 1984 year group donates 80 tables and 160 benches worth GH¢96,000 to alma mater",
+      "link": "https://www.myjoyonline.com/wasec-1984-year-group-donates-80-tables-and-160-benches-worth-gh%c2%a296000-to-alma-mater/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:28:21.000Z",
+      "summary": "The 1984 year group of Wa Senior High School (WASEC) has donated dining hall furniture worth GH¢96,000 to the school.",
+      "categories": [
+        "Education",
+        "Regional",
+        "1984 year group",
+        "Wa Senior High School (WASEC)"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Why Dr. Farouk Aliu Mahama remains NPP’s best bet to reclaim Yendi seat in 2028",
       "link": "https://www.myjoyonline.com/why-dr-farouk-aliu-mahama-remains-npps-best-bet-to-reclaim-yendi-seat-in-2028/",
       "source": "MyJoyOnline",
@@ -31,112 +135,6 @@ window.GDC_PAPERS = {
         "Dr. Farouk Aliu Mahama",
         "NPP",
         "Yendi seat"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget should protect fiscal credibility, direct scarce public resources towards productive capacity – KPMG Boss",
-      "link": "https://www.myjoyonline.com/2027-budget-should-protect-fiscal-credibility-direct-scarce-public-resources-towards-productive-capacity-kpmg-boss/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:19:39.000Z",
-      "summary": "Highlighting his expectations of the 2027 Budget, Mr. Akoto said Ghana enters the 2027 budget cycle from a stronger macroeconomic position, with growth remaining firm and inflation…",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "Andy Akoto",
-        "Fiscal credibility",
-        "KPMG",
-        "UNDP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The politics of reconciliation: A case for Lawyer Kwasi Kwarteng",
-      "link": "https://www.myjoyonline.com/the-politics-of-reconciliation-a-case-for-lawyer-kwasi-kwarteng/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:19:30.000Z",
-      "summary": "As the NPP embarks on the difficult but necessary task of rebuilding party unity, it has an opportunity to demonstrate that unity is not merely a political slogan, but a commitment…",
-      "categories": [
-        "Opinion",
-        "Kwasi Kwarteng"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "About 32% of businesses to consider investing or expanding under 24-Hour Programme – KPMG UNDP Report",
-      "link": "https://www.myjoyonline.com/about-32-of-businesses-to-consider-investing-or-expanding-under-24-hour-programme-kpmg-undp-report/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:16:04.000Z",
-      "summary": "The factors that would encourage businesses to participate or invest in the 24-hour economy were access to finance, reliable and affordable utilities and tax incentives.",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "24-Hour Programme",
-        "Access to finance",
-        "KPMG",
-        "UNDP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Only 36% of businesses described electricity as very or mostly reliable – KPMG, UNDP survey",
-      "link": "https://www.myjoyonline.com/only-36-of-businesses-described-electricity-as-very-or-mostly-reliable-kpmg-undp-survey/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T21:10:23.000Z",
-      "summary": "The survey highlights the combined effect of power interruptions, affordability and billing.",
-      "categories": [
-        "Business",
-        "Economy",
-        "2027 Budget",
-        "electricity tariffs",
-        "IMF",
-        "KPMG",
-        "UNDP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mahama pushes for expanded economic cooperation with India, Lebanon",
-      "link": "https://www.myjoyonline.com/mahama-pushes-for-expanded-economic-cooperation-with-india-lebanon/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T20:35:11.000Z",
-      "summary": "President John Mahama has called for stronger economic and diplomatic relations between Ghana and India and Lebanon, highlighting opportunities for expanded trade, investment and…",
-      "categories": [
-        "National",
-        "India",
-        "Lebanon",
-        "President John Mahama"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Black Meteors face uphill task after 1-0 loss to Libya",
-      "link": "https://www.myjoyonline.com/black-meteors-face-uphill-task-after-1-0-loss-to-libya/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T20:26:35.000Z",
-      "summary": "Ghana’s Black Meteors suffered a 1-0 defeat to Libya in the first leg of their 2027 CAF U-23 Africa Cup of Nations qualifier at the Martyrs of Benina Stadium in Benghazi on Wednesday.",
-      "categories": [
-        "Football",
-        "HP Sports 3",
-        "Sports",
-        "Black Meteors",
-        "Ghana",
-        "Libya"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Account for failed 24-hour Economy before selling us ‘new 24-hour economy’ slogan – Dr. Amin Adam to Finance Minister",
-      "link": "https://www.myjoyonline.com/account-for-failed-24-hour-economy-before-selling-us-new-24-hour-economy-slogan-dr-amin-adam-to-finance-minister/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T20:07:30.000Z",
-      "summary": "Former Finance Minister, Dr. Mohammed Amin Adam, has fired a major salvo at the government ahead of tomorrow's presentation of the 2027 Budget, demanding that the Finance Minister first…",
-      "categories": [
-        "National",
-        "Ato Forson",
-        "Dr. Amin Adam"
       ],
       "site": "https://www.myjoyonline.com/"
     },
