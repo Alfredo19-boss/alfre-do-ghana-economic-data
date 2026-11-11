@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T04:25:13.455Z",
+  "updated": "2026-11-11T04:45:14.336Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -34,6 +34,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T04:12:12.000Z",
       "summary": "“We believe October’s US$1.011 billion intermediation, offered at a uniform market-clearing rate, significantly anchored demand expectations and guided market pricing”, said Databank…"
+    },
+    {
+      "title": "Economic stability will take time to reflect in Ghanaians’ lives – Bokpin",
+      "link": "https://www.myjoyonline.com/economic-stability-will-take-time-to-reflect-in-ghanaians-lives-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:44:00.000Z",
+      "summary": "Economics professor Godfred Alufar Bokpin says Ghanaians will have to wait to feel the benefits of economic stability because the recovery has relied heavily on government spending cuts."
     },
     {
       "title": "GSE maintains positive run in October 2026; 68m shares traded",

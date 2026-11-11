@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T04:25:43.674Z",
+  "updated": "2026-11-11T04:45:44.828Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Where will the money come from? MP questions 24-hour economy funding",
+      "link": "https://www.myjoyonline.com/where-will-the-money-come-from-mp-questions-24-hour-economy-funding/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T04:43:00.000Z",
+      "summary": "The proposed financing model for the government’s 24-hour economy programme could come under pressure in 2027 if revenue targets are not met, the MP for Manso Nkwanta, Tweneboa Kodua Fokuo…",
+      "categories": [
+        "News",
+        "Budget",
+        "finance",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Cedi strengthens on GoldBod’s boost to forex liquidity; going for GH¢12.15 against a dollar at forex bureaus",
       "link": "https://www.myjoyonline.com/cedi-strengthens-on-goldbods-boost-to-forex-liquidity-going-for-gh%c2%a212-15-against-a-dollar-at-forex-bureaus/",
@@ -71,6 +85,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Economic stability will take time to reflect in Ghanaians’ lives – Bokpin",
+      "link": "https://www.myjoyonline.com/economic-stability-will-take-time-to-reflect-in-ghanaians-lives-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:44:00.000Z",
+      "summary": "Economics professor Godfred Alufar Bokpin says Ghanaians will have to wait to feel the benefits of economic stability because the recovery has relied heavily on government spending cuts.",
+      "categories": [
+        "Economy",
+        "National",
+        "economic stability",
+        "Prof Godfred A. Bokpin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "GSE maintains positive run in October 2026; 68m shares traded",
       "link": "https://www.myjoyonline.com/gse-maintains-positive-run-in-october-2026-68m-shares-traded/",
       "source": "MyJoyOnline",
@@ -113,35 +141,6 @@ window.GDC_PAPERS = {
         "Infrastructure deficit",
         "new economy",
         "Prof Godfred A. Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We need government to spend to stimulate growth – Bokpin",
-      "link": "https://www.myjoyonline.com/we-need-government-to-spend-to-stimulate-growth-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:55:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin has urged the government to spend to stimulate growth, warning that cuts to expenditure are delaying the benefits of economic stability for…",
-      "categories": [
-        "Economy",
-        "HP News 3",
-        "National",
-        "new economy",
-        "Prof Godfred Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Magistrate Mary Bibiana Oduro to be buried November 20",
-      "link": "https://www.myjoyonline.com/former-magistrate-mary-bibiana-oduro-to-be-buried-november-20/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:47:57.000Z",
-      "summary": "The late Her Worship Mary Bibiana Ama Ansomaa Oduro, a former Magistrate of the Judicial Service of Ghana and accomplished entrepreneur, will be buried on Friday, November 20, 2026. She was…",
-      "categories": [
-        "News",
-        "Judiciary",
-        "Magsitrate",
-        "Mary Bibiana Ama Ansomaa Oduro"
       ],
       "site": "https://www.myjoyonline.com/"
     },
