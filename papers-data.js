@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T12:39:40.902Z",
+  "updated": "2026-11-11T12:49:33.431Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -62,7 +62,7 @@ window.GDC_PAPERS = {
       "site": "https://www.graphic.com.gh/"
     },
     {
-      "title": "The 2027 Budget must account before it announces: The fiscal test Ghanaians will use to judge it",
+      "title": "The 2027 Budget must account before it announces: The fiscal test Ghanaians will use to judge it - Minority",
       "link": "https://www.graphic.com.gh/news/politics/the-2027-budget-must-account-before-it-announces-the-fiscal-test-ghanaians-will-use-to-judge-it.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T12:16:24.000Z",

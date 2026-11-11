@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T12:39:03.084Z",
+  "updated": "2026-11-11T12:49:02.894Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Powering Ghana’s future: Can small modular reactors drive the nation’s industrial growth",
+      "link": "https://www.myjoyonline.com/powering-ghanas-future-can-small-modular-reactors-drive-the-nations-industrial-growth/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:45:58.000Z",
+      "summary": "Ghana stands at a pivotal juncture in its national energy development. With a rapidly growing economy and an expanding industrial base, long-term national planning requires a secure…"
+    },
     {
       "title": "OPEC Fund Calls for Coordinated Climate Financing to Accelerate Country-Led Projects",
       "link": "https://thehighstreetjournal.com/opec-fund-oncoordinated-climate-financing/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-07T04:57:47.000Z",
       "summary": "The Ghana Cocoa Board (COCOBOD) has issued a stern warning to individuals and officials involved in the diversion, hoarding or illegal sale of free fertiliser and other farm inputs, saying…"
-    },
-    {
-      "title": "Ghana loses $6.5bn in potential mining revenue – IFS",
-      "link": "https://www.myjoyonline.com/ghana-loses-6-5bn-in-potential-mining-revenue-ifs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T03:09:07.000Z",
-      "summary": "The country loses an estimated $6.56 billion in potential revenue from the mining sector every year due to the government’s limited participation in mineral extraction, the Institute for…"
     }
   ]
 };
