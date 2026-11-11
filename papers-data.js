@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T19:57:03.121Z",
+  "updated": "2026-11-11T20:17:00.209Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Account for failed 24-hour Economy before selling us ‘new 24-hour economy’ slogan – Dr. Amin Adam to Finance Minister",
+      "link": "https://www.myjoyonline.com/account-for-failed-24-hour-economy-before-selling-us-new-24-hour-economy-slogan-dr-amin-adam-to-finance-minister/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T20:07:30.000Z",
+      "summary": "Former Finance Minister, Dr. Mohammed Amin Adam, has fired a major salvo at the government ahead of tomorrow's presentation of the 2027 Budget, demanding that the Finance Minister first…",
+      "categories": [
+        "National",
+        "Ato Forson",
+        "Dr. Amin Adam"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "We want to give them a show – Thomas-Asante pledges ahead of Somalia test",
       "link": "https://www.myjoyonline.com/we-want-to-give-them-a-show-thomas-asante-pledges-ahead-of-somalia-test/",
@@ -127,20 +140,6 @@ window.GDC_PAPERS = {
         "National",
         "AFPNC",
         "NHIS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Gov’t launches Foundational Learning Programme 2026-20240 to improve early childhood education",
-      "link": "https://www.myjoyonline.com/govt-launches-foundational-learning-programme-2026-20240-to-improve-early-childhood-education/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:44:24.000Z",
-      "summary": "The government has launched a flagship foundational learning programme aimed at improving the quality of early childhood education and strengthening literacy and numeracy skills among…",
-      "categories": [
-        "Education",
-        "National",
-        "childhood education",
-        "Foundational Learning Programme"
       ],
       "site": "https://www.myjoyonline.com/"
     },
