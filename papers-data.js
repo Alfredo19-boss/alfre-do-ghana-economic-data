@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T18:57:01.010Z",
+  "updated": "2026-11-11T19:27:01.121Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,35 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Mahama woos Thai investors for 12,000-hectare oil palm plantation in Ghana",
+      "link": "https://www.myjoyonline.com/mahama-woos-thai-investors-for-12000-hectare-oil-palm-plantation-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T19:17:41.000Z",
+      "summary": "President John Mahama has encouraged Thai investors to pursue plans to establish a 12,000-hectare oil palm plantation and a modern processing mill in Ghana.",
+      "categories": [
+        "Economy",
+        "National",
+        "President John Mahama",
+        "Thai investors"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana committed to strengthening bilateral relations with South Africa despite postponement of BNC – Mahama",
+      "link": "https://www.myjoyonline.com/ghana-committed-to-strengthening-bilateral-relations-with-south-africa-despite-postponement-of-bnc-mahama/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T19:17:02.000Z",
+      "summary": "President John Mahama says Ghana remains committed to strengthening its longstanding friendship and bilateral relations with South Africa despite the postponement of the third session of…",
+      "categories": [
+        "National",
+        "Bilateral relations",
+        "BNC",
+        "Ghana",
+        "South Africa"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "AFPNC founder calls for expanded NHIS coverage, longer maternity leave for mothers of premature babies",
       "link": "https://www.myjoyonline.com/afpnc-founder-calls-for-expanded-nhis-coverage-longer-maternity-leave-for-mothers-of-premature-babies/",
@@ -126,34 +155,6 @@ window.GDC_PAPERS = {
         "GITEX World RobotiX 2026",
         "humanoid robots",
         "next-generation automation"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "From dining table to African AI ecosystem: Npontu Technologies marks 10 years of building digital solutions",
-      "link": "https://www.myjoyonline.com/from-dining-table-to-african-ai-ecosystem-npontu-technologies-marks-10-years-of-building-digital-solutions/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:08:51.000Z",
-      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…",
-      "categories": [
-        "Technology",
-        "AI",
-        "digital solutions",
-        "Npontu Technologies"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
-      "link": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:08:51.000Z",
-      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…",
-      "categories": [
-        "Technology",
-        "AI",
-        "digital solutions",
-        "Npontu Technologies"
       ],
       "site": "https://www.myjoyonline.com/"
     },

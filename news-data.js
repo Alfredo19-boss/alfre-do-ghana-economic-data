@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T18:56:30.069Z",
+  "updated": "2026-11-11T19:26:30.030Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Mahama woos Thai investors for 12,000-hectare oil palm plantation in Ghana",
+      "link": "https://www.myjoyonline.com/mahama-woos-thai-investors-for-12000-hectare-oil-palm-plantation-in-ghana/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T19:17:41.000Z",
+      "summary": "President John Mahama has encouraged Thai investors to pursue plans to establish a 12,000-hectare oil palm plantation and a modern processing mill in Ghana."
+    },
     {
       "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
       "link": "https://www.myjoyonline.com/gitex-world-robotix-2026-to-showcase-humanoid-robots-embodied-ai-and-next-generation-automation-in-dubai/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T13:26:30.000Z",
       "summary": "Finance Minister Dr. Cassiel Ato Forson says the government’s New Economy programme is a four-year plan to transform Ghana’s economic structure. Speaking during a meeting with the National…"
-    },
-    {
-      "title": "Diplomatic and Service Passports: Who Qualifies, and What Makes Them Special?",
-      "link": "https://thehighstreetjournal.com/diplomatic-and-service-passports-who-qualifies-and-what-makes-them-special/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T13:21:00.000Z",
-      "summary": "Recently, there has been a controversy surrounding the alleged sale of Diplomatic and Service Passports. The issue has brought an otherwise ordinary travel document into the centre of…"
     }
   ]
 };
