@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-10T23:43:44.281Z",
+  "updated": "2026-11-10T23:53:44.152Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Wenger considers standing against Infantino",
+      "link": "https://www.myjoyonline.com/wenger-considers-standing-against-infantino/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:27:00.000Z",
+      "summary": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in FIFA's presidential election.",
+      "categories": [
+        "Football",
+        "Arsène Wenger",
+        "FIFA",
+        "Gianni Infantino"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghana’s next oil bet: Can the Voltaian Basin end the country’s dependence on offshore fields?",
       "link": "https://www.myjoyonline.com/ghanas-next-oil-bet-can-the-voltaian-basin-end-the-countrys-dependence-on-offshore-fields/",
@@ -41,6 +55,20 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
+      "title": "Spending cuts delaying benefits of economic stability – Bokpin",
+      "link": "https://www.myjoyonline.com/spending-cuts-delaying-benefits-of-economic-stability-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:18:00.000Z",
+      "summary": "Economics professor Godfred Alufar Bokpin says Ghana’s reliance on spending cuts to stabilise the economy is delaying the benefits Ghanaians expect from improving economic indicators.",
+      "categories": [
+        "Economy",
+        "National",
+        "new economy",
+        "Prof Godfred Bokpin"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "‘Inflation of 5.2% means nothing’ to someone spending 12 hours travelling to Kumasi – Bokpin",
       "link": "https://www.myjoyonline.com/inflation-of-5-2-means-nothing-to-someone-spending-12-hours-travelling-to-kumasi-bokpin/",
       "source": "MyJoyOnline",
@@ -48,6 +76,7 @@ window.GDC_PAPERS = {
       "summary": "Economics Professor Godfred Alufar Bokpin says inflation of 5.2% means little to someone spending up to 12 hours travelling to Kumasi, arguing that improving economic indicators must…",
       "categories": [
         "Economy",
+        "HP News 1",
         "National",
         "Inflation",
         "Prof. Godfred Bokpin"
@@ -104,34 +133,6 @@ window.GDC_PAPERS = {
         "Movies",
         "Kim Kardarshian",
         "SKIMS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "link": "https://www.myjoyonline.com/qantas-to-outsource-850-local-jobs-with-most-roles-moving-to-india/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:03:00.000Z",
-      "summary": "Qantas will outsource 850 local corporate jobs to consulting giant Accenture, with most roles moving to India as the airline fast-tracks AI investment.",
-      "categories": [
-        "International",
-        "India",
-        "Qantas"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Stay and learn; don’t go and do galamsey’ – Richard Jakpa urges male students in Daffiama-Bussie-Issa",
-      "link": "https://www.myjoyonline.com/stay-and-learn-dont-go-and-do-galamsey-richard-jakpa-urges-male-students-in-daffiama-bussie-issa/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:00:32.000Z",
-      "summary": "The Director of Operations at the National Security Secretariat, Richard Jakpa, has raised concern over the growing number of male students abandoning school in the Daffiama-Bussie-Issa…",
-      "categories": [
-        "Education",
-        "Regional",
-        "Daffiama-Bussie-Issa District",
-        "male students",
-        "Richard Jakpa"
       ],
       "site": "https://www.myjoyonline.com/"
     },

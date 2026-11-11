@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-10T23:43:13.637Z",
+  "updated": "2026-11-10T23:53:13.562Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -27,6 +27,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-10T23:20:24.000Z",
       "summary": "The Ghana National Petroleum Corporation (GNPC) says a rig could be on site by the end of the year. The big question is what happens to Ghana’s oil industry if the three main fields…"
+    },
+    {
+      "title": "Spending cuts delaying benefits of economic stability – Bokpin",
+      "link": "https://www.myjoyonline.com/spending-cuts-delaying-benefits-of-economic-stability-bokpin/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-10T23:18:00.000Z",
+      "summary": "Economics professor Godfred Alufar Bokpin says Ghana’s reliance on spending cuts to stabilise the economy is delaying the benefits Ghanaians expect from improving economic indicators."
     },
     {
       "title": "‘Inflation of 5.2% means nothing’ to someone spending 12 hours travelling to Kumasi – Bokpin",
