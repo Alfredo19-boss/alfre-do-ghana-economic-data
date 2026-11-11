@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T09:59:34.440Z",
+  "updated": "2026-11-11T10:19:34.253Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,21 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "TraffiTech is a step in the right direction – Former DVLA Boss",
+      "link": "https://www.myjoyonline.com/traffitech-is-a-step-in-the-right-direction-former-dvla-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T10:05:32.000Z",
+      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, has welcomed the introduction of the TraffiTech-GH initiative, describing it as a step in…",
+      "categories": [
+        "HP News 2",
+        "National",
+        "DVLA",
+        "Justice Yaw Amegashie",
+        "TraffiTech"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "UEW VC urges graduates to embrace entrepreneurship, shun corruption",
       "link": "https://www.myjoyonline.com/uew-vc-urges-graduates-to-embrace-entrepreneurship-shun-corruption/",
@@ -115,21 +130,6 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T09:20:48.000Z",
       "summary": "A personal reflection on 150 years of Mfantsipim School, its history, its people and its future. There is something remarkable about celebrating an institution’s survival without…",
       "categories": [
-        "Features",
-        "National",
-        "Mfantsipim",
-        "Mfantsipim 150th anniversary"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Mfantsipim@150: Reflections on legacy, leadership and service",
-      "link": "https://www.myjoyonline.com/mfantsipim150-reflections-on-legacy-leadership-and-service/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T09:16:20.000Z",
-      "summary": "Introduction As Mfantsipim School celebrates 150 years of existence, we are reminded that an institution’s true significance is measured not merely by its longevity but by the lives it…",
-      "categories": [
-        "Education",
         "Features",
         "National",
         "Mfantsipim",
