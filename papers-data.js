@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T12:09:34.892Z",
+  "updated": "2026-11-11T12:19:34.562Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "UG’s Communication Studies Department to host maiden Chambas Memorial Lecture",
+      "link": "https://www.myjoyonline.com/ugs-communication-studies-department-to-host-maiden-chambas-memorial-lecture/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:11:25.000Z",
+      "summary": "The Department of Communication Studies at the University of Ghana (UG) is set to host the maiden edition of the Dr Mohamed Ibn Chambas Memorial Lecture on Thursday, December 10, as part of…",
+      "categories": [
+        "Education",
+        "National",
+        "Communication Studies Department",
+        "Mohamed Ibn Chambas Memorial Lecture",
+        "University of Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Motorists must adapt driving to road conditions to prevent crashes – Former DVLA Boss urges motorists",
+      "link": "https://www.myjoyonline.com/motorists-must-adapt-driving-to-road-conditions-to-prevent-crashes-former-dvla-boss-urges-motorists/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:10:53.000Z",
+      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, has urged motorists to adjust their driving to prevailing road conditions to reduce…",
+      "categories": [
+        "National",
+        "News",
+        "DVLA",
+        "Justice Yaw Amegashie",
+        "Road Safety Authority"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mahama breaks ground for $98.41m project to expand Takoradi Port’s cargo handling capacity",
+      "link": "https://www.myjoyonline.com/mahama-breaks-ground-for-98-41m-project-to-expand-takoradi-ports-cargo-handling-capacity/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:08:40.000Z",
+      "summary": "President John Mahama has broken ground for the construction of the 300-metre-long Berth 19 facility at the Takoradi Port, a project expected to expand the port's capacity to handle larger…",
+      "categories": [
+        "National",
+        "President John Mahama",
+        "Takoradi Port"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Edward Agyekum Kufuor: Kufuor's son declares bid for father's old Parliamentary seat",
       "link": "https://www.graphic.com.gh/news/politics/edward-agyekum-kufuor-kufuors-son-declares-bid-for-fathers-old-parliamentary-seat.html",
@@ -38,6 +81,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T12:02:54.000Z",
       "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, says road crashes and fatalities in the country can only be significantly reduced when…",
       "categories": [
+        "HP News 8",
         "National",
         "DVLA",
         "Justice Yaw Amegashie",
@@ -88,6 +132,9 @@ window.GDC_PAPERS = {
         "Business",
         "Economy",
         "HP Business 1",
+        "HP News 2",
+        "National",
+        "News",
         "Ghana",
         "Ghana Statistical Service",
         "MIEG"
@@ -118,50 +165,6 @@ window.GDC_PAPERS = {
         "General News"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Former DVLA boss urges police to prioritise vehicle roadworthiness checks over licence inspections",
-      "link": "https://www.myjoyonline.com/former-dvla-boss-urges-police-to-prioritise-vehicle-roadworthiness-checks-over-licence-inspections/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:37:34.000Z",
-      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, has criticised the police and other road safety authorities for what he describes as…",
-      "categories": [
-        "HP News 2",
-        "National",
-        "road safety"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "History will vindicate Akufo-Addo’s leadership – Former legal counsel Kow Essuman",
-      "link": "https://www.myjoyonline.com/history-will-vindicate-akufo-addos-leadership-former-legal-counsel-kow-essuman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:33:21.000Z",
-      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, said history will vindicate the former President’s leadership, describing him as a leader who consistently…",
-      "categories": [
-        "HP News 6",
-        "National",
-        "Akufo-Addo",
-        "History",
-        "Kow Essuman"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Akufo-Addo had to take tough COVID-19 lockdown decisions – Kow Essuman",
-      "link": "https://www.myjoyonline.com/akufo-addo-had-to-take-tough-covid-19-lockdown-decisions-kow-essuman/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T11:26:58.000Z",
-      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has defended the former government’s COVID-19 lockdown measures, describing them as a difficult but necessary…",
-      "categories": [
-        "National",
-        "News",
-        "Alufo-Addo",
-        "Covid 19",
-        "Kow Essuman",
-        "Lockdown"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "US lawyer Ben Crump to pursue justice for Javits Frimpong; Ablakwa asks him to extend services to other Ghanaian victims",

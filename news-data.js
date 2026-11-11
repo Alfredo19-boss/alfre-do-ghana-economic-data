@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T12:09:04.461Z",
+  "updated": "2026-11-11T12:19:03.794Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget: CERPA Outlines a 5-Point Recommendation for Consideration After a Pre-Budget Study",
+      "link": "https://thehighstreetjournal.com/2027-budget-cerpa-outlines-a-5-point-recommendation-for-consideration-after-a-pre-budget-study/",
+      "source": "The High Street Journal",
+      "published": "2026-11-11T12:11:00.000Z",
+      "summary": "Ahead of the 2027 Budget, CERPA urges Ghana’s government to target job creation, reduce essential living costs, link macroeconomic goals to household welfare, enhance tax fairness, and…"
+    },
     {
       "title": "Ghana’s economy expands by 6.8% in August 2026, driven by Services sector",
       "link": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-8-in-august-2026-driven-by-services-sector/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T14:34:55.000Z",
       "summary": "The IMF highlighted the early completion of the review of customs and excise legislation, ongoing digitalization through the Integrated Tax Administration System (ITAS) and electronic…"
-    },
-    {
-      "title": "Cashew crisis: Usibras imports Ivorian kernels to save Ghanaian jobs",
-      "link": "https://www.myjoyonline.com/cashew-crisis-usibras-imports-ivorian-kernels-to-save-ghanaian-jobs/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T13:55:00.000Z",
-      "summary": "In a dramatic shift highlighting systemic pressures on domestic agro-processors, leading Ghanaian cashew processor Usibras has turned to importing semi-processed cashew kernels from…"
     }
   ]
 };
