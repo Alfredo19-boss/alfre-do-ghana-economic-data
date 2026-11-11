@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T17:27:02.007Z",
+  "updated": "2026-11-11T17:36:59.999Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,36 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Attacks on NAIMOS personnel will not be tolerated – Secretariat on fatal Manso Keniago anti-galamsey clash",
+      "link": "https://www.myjoyonline.com/attacks-on-naimos-personnel-will-not-be-tolerated-secretariat-on-fatal-manso-keniago-anti-galamsey-clash/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:34:46.000Z",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has cautioned individuals and groups against obstructing its personnel in the discharge of their duties. This follows a…",
+      "categories": [
+        "National",
+        "Clash",
+        "NAIMOS"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Former Oti Regional Minister Daniel Machator declares bid to contest Nkwanta NPP parliamentary ticket",
+      "link": "https://www.myjoyonline.com/former-oti-regional-minister-daniel-machator-declares-bid-to-contest-nkwanta-npp-parliamentary-ticket/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T17:27:31.000Z",
+      "summary": "Former Oti Regional Minister, Daniel Machator, has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary for the Nkwanta South Constituency, seeking to…",
+      "categories": [
+        "National",
+        "Politics",
+        "Regional",
+        "Daniel Machator",
+        "Nkwanta",
+        "NPP",
+        "Oti Regional Minister"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Two NAIMOS officers wounded in fatal Manso Keniago anti-galamsey clash",
       "link": "https://www.myjoyonline.com/two-naimos-officers-wounded-in-fatal-manso-keniago-anti-galamsey-clash/",
@@ -131,32 +161,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "Egyptian journalist’s retrial adjourned as UN warns of ‘assaults on press freedom’",
-      "link": "https://www.myjoyonline.com/egyptian-journalists-retrial-adjourned-as-un-warns-of-assaults-on-press-freedom/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:03:15.000Z",
-      "summary": "A criminal court in Cairo has postponed the retrial of the prominent Egyptian journalist Lina Attalah, whose case has drawn international condemnation.",
-      "categories": [
-        "International",
-        "Egyptian",
-        "UN"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
-      "link": "https://www.myjoyonline.com/eswatini-gives-illegal-foreign-businesses-12-months-to-leave/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:02:55.000Z",
-      "summary": "Businesses owned by Asian nationals are being closed across Eswatini, previously known as Swaziland, as the government cracks down on foreign-owned enterprises.",
-      "categories": [
-        "Africa",
-        "Businesses",
-        "eSwatini"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Pulima Chief endorses GMTF, calls for heart surgeons in Upper West",

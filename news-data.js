@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T17:26:32.281Z",
+  "updated": "2026-11-11T17:36:29.552Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -41,6 +41,13 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-11T16:51:11.000Z",
       "summary": "Ghanaian energy trading and supply company, Lattice Energy Ltd, says it is positioning itself to contribute to the growth of the country’s petroleum downstream industry through strategic…"
+    },
+    {
+      "title": "Lattice Energy secures NPA licence for bulk petroleum importation and distribution.",
+      "link": "https://www.myjoyonline.com/lattice-energy-secures-npa-licence-for-bulk-petroleum-importation-and-distribution/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T16:51:11.000Z",
+      "summary": "Lattice Energy Ltd, a member of Abagona Legacy Holdings, has secured a Bulk Import, Distribution and Export (BIDEC) licence from the National Petroleum Authority (NPA), allowing it to…"
     },
     {
       "title": "TOR seeks private investors to shield refinery from political interference",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T06:05:00.000Z",
       "summary": "…unveils THE SAPPOR FRAMEWORK Mrs. Patricia Sappor, one of Ghana’s most respected banking executives and the first woman to lead the Chartered Institute of Bankers, Ghana (CIB Ghana), has…"
-    },
-    {
-      "title": "Advans Ghana empowers over 150 women through breast cancer screening and financial literacy outreach",
-      "link": "https://www.myjoyonline.com/advans-ghana-empowers-over-150-women-through-breast-cancer-screening-and-financial-literacy-outreach/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T06:04:00.000Z",
-      "summary": "Advans Ghana Savings & Loans Limited has reaffirmed its commitment to women’s health and economic empowerment by organizing a breast cancer awareness and screening exercise alongside a…"
     }
   ]
 };
