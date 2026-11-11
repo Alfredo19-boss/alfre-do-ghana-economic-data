@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T21:22:00.119Z",
+  "updated": "2026-11-11T21:32:00.274Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Why Dr. Farouk Aliu Mahama remains NPP’s best bet to reclaim Yendi seat in 2028",
+      "link": "https://www.myjoyonline.com/why-dr-farouk-aliu-mahama-remains-npps-best-bet-to-reclaim-yendi-seat-in-2028/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:21:10.000Z",
+      "summary": "In politics, numbers do not lie. And the numbers from Yendi in the 2020 and 2024 elections tell a very clear story.",
+      "categories": [
+        "Opinion",
+        "Dr. Farouk Aliu Mahama",
+        "NPP",
+        "Yendi seat"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "2027 Budget should protect fiscal credibility, direct scarce public resources towards productive capacity – KPMG Boss",
+      "link": "https://www.myjoyonline.com/2027-budget-should-protect-fiscal-credibility-direct-scarce-public-resources-towards-productive-capacity-kpmg-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:19:39.000Z",
+      "summary": "Highlighting his expectations of the 2027 Budget, Mr. Akoto said Ghana enters the 2027 budget cycle from a stronger macroeconomic position, with growth remaining firm and inflation…",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "Andy Akoto",
+        "Fiscal credibility",
+        "KPMG",
+        "UNDP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "The politics of reconciliation: A case for Lawyer Kwasi Kwarteng",
+      "link": "https://www.myjoyonline.com/the-politics-of-reconciliation-a-case-for-lawyer-kwasi-kwarteng/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:19:30.000Z",
+      "summary": "As the NPP embarks on the difficult but necessary task of rebuilding party unity, it has an opportunity to demonstrate that unity is not merely a political slogan, but a commitment…",
+      "categories": [
+        "Opinion",
+        "Kwasi Kwarteng"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "About 32% of businesses to consider investing or expanding under 24-Hour Programme – KPMG UNDP Report",
       "link": "https://www.myjoyonline.com/about-32-of-businesses-to-consider-investing-or-expanding-under-24-hour-programme-kpmg-undp-report/",
@@ -94,58 +137,6 @@ window.GDC_PAPERS = {
         "National",
         "Ato Forson",
         "Dr. Amin Adam"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "We want to give them a show – Thomas-Asante pledges ahead of Somalia test",
-      "link": "https://www.myjoyonline.com/we-want-to-give-them-a-show-thomas-asante-pledges-ahead-of-somalia-test/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T19:51:17.000Z",
-      "summary": "Coventry City forward Brandon Thomas-Asante has said the Black Stars are eager to put on a show for fans in the Western Region, ahead of Thursday’s Africa Cup of Nations (AFCON 2027)…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 2",
-        "Afcon 2027",
-        "Black Stars",
-        "Brandon Thomas-Asante",
-        "Ghana",
-        "Somalia"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Kojo Brace officially declares intention to contest NPP parliamentary primaries in Ahanta West",
-      "link": "https://www.myjoyonline.com/kojo-brace-officially-declares-intention-to-contest-npp-parliamentary-primaries-in-ahanta-west/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T19:45:50.000Z",
-      "summary": "Former JoyNews presenter Samuel Kojo Brace has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary in the Ahanta West constituency of the Western Region…",
-      "categories": [
-        "Politics",
-        "Regional",
-        "Ahanta West",
-        "Kojo Brace",
-        "NPP"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Interim Black Stars coach admits challenging circumstances",
-      "link": "https://www.myjoyonline.com/interim-black-stars-coach-admits-challenging-circumstances/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T19:31:59.000Z",
-      "summary": "Ghana’s interim manager Kim Lars Bjorkegren has admitted the unique challenges ahead of the 2027 Africa Cup of Nations Qualifiers against Somalia. Bjorkegren was appointed as interim Black…",
-      "categories": [
-        "Comp. Sports",
-        "Football",
-        "HP Sports 1",
-        "Sports",
-        "Afcon 2027",
-        "Black Queens",
-        "Black Stars",
-        "Ghana",
-        "Kim Lars Björkegren"
       ],
       "site": "https://www.myjoyonline.com/"
     },

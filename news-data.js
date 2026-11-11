@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T21:21:29.454Z",
+  "updated": "2026-11-11T21:31:29.620Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "2027 Budget should protect fiscal credibility, direct scarce public resources towards productive capacity – KPMG Boss",
+      "link": "https://www.myjoyonline.com/2027-budget-should-protect-fiscal-credibility-direct-scarce-public-resources-towards-productive-capacity-kpmg-boss/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:19:39.000Z",
+      "summary": "Highlighting his expectations of the 2027 Budget, Mr. Akoto said Ghana enters the 2027 budget cycle from a stronger macroeconomic position, with growth remaining firm and inflation…"
+    },
     {
       "title": "About 32% of businesses to consider investing or expanding under 24-Hour Programme – KPMG UNDP Report",
       "link": "https://www.myjoyonline.com/about-32-of-businesses-to-consider-investing-or-expanding-under-24-hour-programme-kpmg-undp-report/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T14:14:15.000Z",
       "summary": "Under the current regulations governing the pricing of petroleum products, prices are supposed to be reviewed on the 1st and 16th of each month."
-    },
-    {
-      "title": "IEA backs government’s decision to join BRICS",
-      "link": "https://www.myjoyonline.com/iea-backs-governments-decision-to-join-brics/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-09T13:50:52.000Z",
-      "summary": "In a statement, it said Ghana’s proposed engagement with BRICS is neither a rejection of its traditional international partners nor a departure from its longstanding commitment to…"
     }
   ]
 };
