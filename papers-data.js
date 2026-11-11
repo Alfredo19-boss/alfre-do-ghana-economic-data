@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T03:00:43.637Z",
+  "updated": "2026-11-11T03:15:43.600Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -28,6 +28,7 @@ window.GDC_PAPERS = {
       "summary": "Economics Professor Godfred Alufar Bokpin has urged the government to spend to stimulate growth, warning that cuts to expenditure are delaying the benefits of economic stability for…",
       "categories": [
         "Economy",
+        "HP News 3",
         "National",
         "new economy",
         "Prof Godfred Bokpin"
