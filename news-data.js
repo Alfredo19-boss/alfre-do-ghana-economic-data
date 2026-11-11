@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T18:06:30.327Z",
+  "updated": "2026-11-11T18:16:29.068Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
+      "link": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:08:51.000Z",
+      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…"
+    },
     {
       "title": "Cargo Losses Threaten Working Capital as ICSG Pushes for Stronger Insurance Awareness Among Importers",
       "link": "https://thehighstreetjournal.com/cargo-losses-threaten-working-capital-as-icsg-pushes-for-stronger-insurance-awareness-among-importers/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T12:03:00.000Z",
       "summary": "Adamus Resources Pty Limited, the Australian company at the centre of the dispute over the 90 per cent shareholding in Adamus Resources Limited (Adamus Ghana), says it has appealed the High…"
-    },
-    {
-      "title": "Aliko Dangote to Headline Ghana Investment Summit on Nov. 16",
-      "link": "https://thehighstreetjournal.com/dangote-toheadlineghana-investment-summit/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T10:54:32.000Z",
-      "summary": "The summit will bring together international investors, multinational companies, policymakers and business executives to explore opportunities in manufacturing, agribusiness…"
     }
   ]
 };

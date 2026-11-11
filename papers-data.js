@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T18:07:00.235Z",
+  "updated": "2026-11-11T18:17:00.181Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -21,6 +21,37 @@ window.GDC_PAPERS = {
   ],
   "items": [
     {
+      "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
+      "link": "https://www.myjoyonline.com/gitex-world-robotix-2026-to-showcase-humanoid-robots-embodied-ai-and-next-generation-automation-in-dubai/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:16:44.000Z",
+      "summary": "The showcase will demonstrate how machines capable of perceiving, reasoning and acting in the physical world are reshaping sectors such as manufacturing, logistics, healthcare, hospitality…",
+      "categories": [
+        "Business",
+        "Technology",
+        "Dubai",
+        "embodied AI",
+        "GITEX World RobotiX 2026",
+        "humanoid robots",
+        "next-generation automation"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
+      "link": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:08:51.000Z",
+      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s…",
+      "categories": [
+        "Technology",
+        "AI",
+        "digital solutions",
+        "Npontu Technologies"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
       "title": "Apples, family & a brilliant business idea: My day at B.J. Reece Orchards and what Ghana can learn",
       "link": "https://www.myjoyonline.com/apples-family-a-brilliant-business-idea-my-day-at-b-j-reece-orchards-and-what-ghana-can-learn/",
       "source": "MyJoyOnline",
@@ -31,6 +62,7 @@ window.GDC_PAPERS = {
         "Food",
         "Lifestyle",
         "Travel",
+        "Apples",
         "B.J. Reece Orchards"
       ],
       "site": "https://www.myjoyonline.com/"
@@ -107,38 +139,6 @@ window.GDC_PAPERS = {
         "Nkwanta South",
         "NPP",
         "Oti Regional Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Oti Regional Minister Daniel Machator declares bid to contest Nkwanta NPP parliamentary ticket",
-      "link": "https://www.myjoyonline.com/former-oti-regional-minister-daniel-machator-declares-bid-to-contest-nkwanta-npp-parliamentary-ticket/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:27:31.000Z",
-      "summary": "Former Oti Regional Minister, Daniel Machator, has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary for the Nkwanta South Constituency, seeking to…",
-      "categories": [
-        "National",
-        "Politics",
-        "Regional",
-        "Daniel Machator",
-        "Nkwanta",
-        "NPP",
-        "Oti Regional Minister"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Two NAIMOS officers wounded in fatal Manso Keniago anti-galamsey clash",
-      "link": "https://www.myjoyonline.com/two-naimos-officers-wounded-in-fatal-manso-keniago-anti-galamsey-clash/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:23:55.000Z",
-      "summary": "Two personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) have sustained gunshot wounds following a confrontation with an armed group at Manso Keniago in the Amansie…",
-      "categories": [
-        "HP News 1",
-        "National",
-        "Manso Keniago",
-        "NAIMOS",
-        "wounds"
       ],
       "site": "https://www.myjoyonline.com/"
     },
