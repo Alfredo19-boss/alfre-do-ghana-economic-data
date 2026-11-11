@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T03:45:44.288Z",
+  "updated": "2026-11-11T04:05:44.194Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "‘New economy is repackaged 24-hour economy’ – Manso Nkwanta MP",
+      "link": "https://www.myjoyonline.com/new-economy-is-repackaged-24-hour-economy-manso-nkwanta-mp/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:58:00.000Z",
+      "summary": "The proposed “new economy” being advanced by the government is largely a rebranding of the 24-hour economy policy, with the key difference being a shift towards public financing after…",
+      "categories": [
+        "News",
+        "Budget",
+        "Economy",
+        "finance",
+        "Ghana"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Oppon Memorial Senior High School celebrates 50 years of educational excellence, resilience",
+      "link": "https://www.myjoyonline.com/oppon-memorial-senior-high-school-celebrates-50-years-of-educational-excellence-resilience/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T03:53:39.000Z",
+      "summary": "Nestled within the historic and revered enclave of Kokofu in the Bekwai Municipality in the Ashanti region, Oppon Memorial Senior High School (OMESS) has triumphantly commemorated its…",
+      "categories": [
+        "Education",
+        "News",
+        "GSE",
+        "Kokofu",
+        "Leticia Obeng",
+        "OMESS",
+        "Richard Ahenkorah",
+        "Salia Salifu"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GSE maintains positive run in October 2026; 68m shares traded",
       "link": "https://www.myjoyonline.com/gse-maintains-positive-run-in-october-2026-68m-shares-traded/",
@@ -106,33 +139,6 @@ window.GDC_PAPERS = {
         "National",
         "new economy",
         "Prof Godfred A. Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘I’ve been wounded, shed tears’ – Lateef Adedimeji speaks on life battles",
-      "link": "https://www.myjoyonline.com/ive-been-wounded-shed-tears-lateef-adedimeji-speaks-on-life-battles/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:14:00.000Z",
-      "summary": "Nollywood actor Lateef Adedimeji has disclosed that he is facing a series of challenges.",
-      "categories": [
-        "Movies",
-        "Lateef Adedimeji",
-        "Nollywood"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Judge allows Trump’s $10bn defamation case against BBC to proceed",
-      "link": "https://www.myjoyonline.com/judge-allows-trumps-10bn-defamation-case-against-bbc-to-proceed/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T02:11:44.000Z",
-      "summary": "A federal judge in Florida has allowed US President Donald Trump's defamation case against the BBC to go ahead after the broadcaster sought to dismiss it.",
-      "categories": [
-        "International",
-        "BBC",
-        "Trump",
-        "US"
       ],
       "site": "https://www.myjoyonline.com/"
     },
