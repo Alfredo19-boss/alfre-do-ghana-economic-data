@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T00:23:44.258Z",
+  "updated": "2026-11-11T00:33:44.310Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,19 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Meghan’s father back in federal custody after allegedly removing ankle monitor",
+      "link": "https://www.myjoyonline.com/meghans-father-back-in-federal-custody-after-allegedly-removing-ankle-monitor/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T00:26:00.000Z",
+      "summary": "Thomas Markle, the father of Meghan, Duchess of Sussex, is back in federal custody in Florida after allegedly removing his ankle monitor, according to court documents.",
+      "categories": [
+        "International",
+        "Meghan",
+        "Thomas Markle"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Government’s spending cuts are cooling economy and squeezing demand – Bokpin",
       "link": "https://www.myjoyonline.com/governments-spending-cuts-are-cooling-economy-and-squeezing-demand-bokpin/",
@@ -120,21 +133,6 @@ window.GDC_PAPERS = {
         "National",
         "new economy",
         "Prof Godfred Bokpin"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "‘Inflation of 5.2% means nothing’ to someone spending 12 hours travelling to Kumasi – Bokpin",
-      "link": "https://www.myjoyonline.com/inflation-of-5-2-means-nothing-to-someone-spending-12-hours-travelling-to-kumasi-bokpin/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-10T22:59:00.000Z",
-      "summary": "Economics Professor Godfred Alufar Bokpin says inflation of 5.2% means little to someone spending up to 12 hours travelling to Kumasi, arguing that improving economic indicators must…",
-      "categories": [
-        "Economy",
-        "HP News 1",
-        "National",
-        "Inflation",
-        "Prof. Godfred Bokpin"
       ],
       "site": "https://www.myjoyonline.com/"
     },
