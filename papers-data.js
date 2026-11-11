@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T19:36:59.735Z",
+  "updated": "2026-11-11T19:57:03.121Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,39 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "We want to give them a show – Thomas-Asante pledges ahead of Somalia test",
+      "link": "https://www.myjoyonline.com/we-want-to-give-them-a-show-thomas-asante-pledges-ahead-of-somalia-test/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T19:51:17.000Z",
+      "summary": "Coventry City forward Brandon Thomas-Asante has said the Black Stars are eager to put on a show for fans in the Western Region, ahead of Thursday’s Africa Cup of Nations (AFCON 2027)…",
+      "categories": [
+        "Comp. Sports",
+        "Football",
+        "HP Sports 2",
+        "Afcon 2027",
+        "Black Stars",
+        "Brandon Thomas-Asante",
+        "Ghana",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Kojo Brace officially declares intention to contest NPP parliamentary primaries in Ahanta West",
+      "link": "https://www.myjoyonline.com/kojo-brace-officially-declares-intention-to-contest-npp-parliamentary-primaries-in-ahanta-west/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T19:45:50.000Z",
+      "summary": "Former JoyNews presenter Samuel Kojo Brace has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary in the Ahanta West constituency of the Western Region…",
+      "categories": [
+        "Politics",
+        "Regional",
+        "Ahanta West",
+        "Kojo Brace",
+        "NPP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Interim Black Stars coach admits challenging circumstances",
       "link": "https://www.myjoyonline.com/interim-black-stars-coach-admits-challenging-circumstances/",
@@ -74,6 +107,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T19:17:02.000Z",
       "summary": "President John Mahama says Ghana remains committed to strengthening its longstanding friendship and bilateral relations with South Africa despite the postponement of the third session of…",
       "categories": [
+        "HP News 4",
         "National",
         "Bilateral relations",
         "BNC",
@@ -107,34 +141,6 @@ window.GDC_PAPERS = {
         "National",
         "childhood education",
         "Foundational Learning Programme"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "The Church of Pentecost Dome-Asamang District marks 10th anniversary with community impact",
-      "link": "https://www.myjoyonline.com/the-church-of-pentecost-dome-asamang-district-marks-10th-anniversary-with-community-impact/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:44:13.000Z",
-      "summary": "The Church of Pentecost, Dome-Asamang District, under the Dunkwa Area, celebrated its 10th anniversary, marking a decade of spiritual growth, church expansion, and significant contributions…",
-      "categories": [
-        "Regional",
-        "10th anniversary",
-        "Church of Pentecost",
-        "Community impact",
-        "Dome-Asamang District"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Fire destroys 10 shops, damages 30 others at Kasoa New Market",
-      "link": "https://www.myjoyonline.com/fire-destroys-10-shops-damages-30-others-at-kasoa-new-market/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T18:43:57.000Z",
-      "summary": "A fire outbreak at the Kasoa New Market in the early hours of Tuesday, November 10, has destroyed 10 metal container shops and partially damaged 30 others.",
-      "categories": [
-        "National",
-        "Fire",
-        "kasoa new market"
       ],
       "site": "https://www.myjoyonline.com/"
     },
