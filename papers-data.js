@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T21:17:00.104Z",
+  "updated": "2026-11-11T21:22:00.119Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,23 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "About 32% of businesses to consider investing or expanding under 24-Hour Programme – KPMG UNDP Report",
+      "link": "https://www.myjoyonline.com/about-32-of-businesses-to-consider-investing-or-expanding-under-24-hour-programme-kpmg-undp-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:16:04.000Z",
+      "summary": "The factors that would encourage businesses to participate or invest in the 24-hour economy were access to finance, reliable and affordable utilities and tax incentives.",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "24-Hour Programme",
+        "Access to finance",
+        "KPMG",
+        "UNDP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Only 36% of businesses described electricity as very or mostly reliable – KPMG, UNDP survey",
       "link": "https://www.myjoyonline.com/only-36-of-businesses-described-electricity-as-very-or-mostly-reliable-kpmg-undp-survey/",
@@ -129,20 +146,6 @@ window.GDC_PAPERS = {
         "Black Stars",
         "Ghana",
         "Kim Lars Björkegren"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ENNY Foundation wins award for autism advocacy and special needs support",
-      "link": "https://www.myjoyonline.com/enny-foundation-wins-award-for-autism-advocacy-and-special-needs-support/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T19:31:44.000Z",
-      "summary": "The ENNY Foundation has received the Paragon of Autism Advocacy and Special Needs Excellence award at the fifth edition of the Eminent Awards, in recognition of its work supporting children…",
-      "categories": [
-        "Events",
-        "autism advocacy",
-        "ENNY foundation",
-        "Special needs"
       ],
       "site": "https://www.myjoyonline.com/"
     },

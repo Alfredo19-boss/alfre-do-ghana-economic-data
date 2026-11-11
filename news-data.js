@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T21:16:29.643Z",
+  "updated": "2026-11-11T21:21:29.454Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "About 32% of businesses to consider investing or expanding under 24-Hour Programme – KPMG UNDP Report",
+      "link": "https://www.myjoyonline.com/about-32-of-businesses-to-consider-investing-or-expanding-under-24-hour-programme-kpmg-undp-report/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T21:16:04.000Z",
+      "summary": "The factors that would encourage businesses to participate or invest in the 24-hour economy were access to finance, reliable and affordable utilities and tax incentives."
+    },
     {
       "title": "Only 36% of businesses described electricity as very or mostly reliable – KPMG, UNDP survey",
       "link": "https://www.myjoyonline.com/only-36-of-businesses-described-electricity-as-very-or-mostly-reliable-kpmg-undp-survey/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-09T13:50:52.000Z",
       "summary": "In a statement, it said Ghana’s proposed engagement with BRICS is neither a rejection of its traditional international partners nor a departure from its longstanding commitment to…"
-    },
-    {
-      "title": "Stiell Calls for Action on Climate Finance, Renewable Energy as COP31 Opens",
-      "link": "https://thehighstreetjournal.com/stiell-calls-for-action-on-climate-finance-renewable-energy-as-cop31-opens/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T13:48:43.000Z",
-      "summary": "COP31 opens with calls for faster climate action, greater adaptation finance and renewable energy investment as governments face mounting pressure to turn commitments into measurable…"
     }
   ]
 };
