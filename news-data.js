@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T18:16:29.068Z",
+  "updated": "2026-11-11T18:26:29.232Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
+      "link": "https://www.myjoyonline.com/gitex-world-robotix-2026-to-showcase-humanoid-robots-embodied-ai-and-next-generation-automation-in-dubai/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:16:44.000Z",
+      "summary": "The showcase will demonstrate how machines capable of perceiving, reasoning and acting in the physical world are reshaping sectors such as manufacturing, logistics, healthcare, hospitality…"
+    },
     {
       "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
       "link": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "The High Street Journal",
       "published": "2026-11-09T12:19:00.000Z",
       "summary": "Sitsofe Mensah argues that inadequate irrigation, poor feeder roads, weak land documentation and delayed payments make agriculture risky for banks, urging government to fix infrastructure…"
-    },
-    {
-      "title": "Adamus Australia Appeals High Court Injunction Decision, Insists Ghana Share Ownership Dispute Remains Unresolved",
-      "link": "https://thehighstreetjournal.com/adamus-australia-appeals-high-court-injunction-decision-insists-ghana-share-ownership-dispute-remains-unresolved/",
-      "source": "The High Street Journal",
-      "published": "2026-11-09T12:03:00.000Z",
-      "summary": "Adamus Resources Pty Limited, the Australian company at the centre of the dispute over the 90 per cent shareholding in Adamus Resources Limited (Adamus Ghana), says it has appealed the High…"
     }
   ]
 };

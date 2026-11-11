@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T18:17:00.181Z",
+  "updated": "2026-11-11T18:26:59.765Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,20 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "GES engages Funsi SHS authorities over lack of water, electricity in boys’ dormitory",
+      "link": "https://www.myjoyonline.com/ges-engages-funsi-shs-authorities-over-lack-of-water-electricity-in-boys-dormitory/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:25:36.000Z",
+      "summary": "The Ghana Education Service (GES) says it is working with the authorities of Funsi Senior High School (SHS) and relevant government agencies to address concerns over the lack of electricity…",
+      "categories": [
+        "Education",
+        "National",
+        "Funsi SHS",
+        "GES"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
       "link": "https://www.myjoyonline.com/gitex-world-robotix-2026-to-showcase-humanoid-robots-embodied-ai-and-next-generation-automation-in-dubai/",
@@ -121,24 +135,6 @@ window.GDC_PAPERS = {
         "National",
         "Clash",
         "NAIMOS"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Former Oti Regional Minister Daniel Machator declares bid to contest Nkwanta South NPP parliamentary ticket",
-      "link": "https://www.myjoyonline.com/former-oti-regional-minister-daniel-machator-declares-bid-to-contest-nkwanta-south-npp-parliamentary-ticket/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:27:31.000Z",
-      "summary": "Former Oti Regional Minister, Daniel Machator, has declared his intention to contest the New Patriotic Party (NPP) parliamentary primary for the Nkwanta South Constituency, seeking to…",
-      "categories": [
-        "National",
-        "Politics",
-        "Regional",
-        "Daniel Machator",
-        "Nkwanta",
-        "Nkwanta South",
-        "NPP",
-        "Oti Regional Minister"
       ],
       "site": "https://www.myjoyonline.com/"
     },
