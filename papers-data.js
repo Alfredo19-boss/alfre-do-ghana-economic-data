@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T17:56:59.749Z",
+  "updated": "2026-11-11T18:07:00.235Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Apples, family & a brilliant business idea: My day at B.J. Reece Orchards and what Ghana can learn",
+      "link": "https://www.myjoyonline.com/apples-family-a-brilliant-business-idea-my-day-at-b-j-reece-orchards-and-what-ghana-can-learn/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:05:51.000Z",
+      "summary": "It started as a simple family idea. My sister said, “Let’s go do something outdoors, something for bonding.” So, we found ourselves driving up to Ellijay — Georgia’s Apple Capital — to the…",
+      "categories": [
+        "Features",
+        "Food",
+        "Lifestyle",
+        "Travel",
+        "B.J. Reece Orchards"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "CSIR expert questions engineering supervision amid recurring building collapses",
+      "link": "https://www.myjoyonline.com/csir-expert-questions-engineering-supervision-amid-recurring-building-collapses/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:04:35.000Z",
+      "summary": "The Head of the Advanced Materials Science Division at the Council for Scientific and Industrial Research (CSIR), Ing. Professor Mark Bediako, has questioned the effectiveness of…",
+      "categories": [
+        "National",
+        "Building collapse",
+        "CSIR",
+        "Engineering supervision"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "link": "https://www.myjoyonline.com/spain-sees-widespread-disruption-in-first-general-strike-for-14-years/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T18:00:38.000Z",
+      "summary": "Transport and other public services across Spain have faced serious disruption in the first general strike for 14 years called by the main unions over housing and the high cost of living.",
+      "categories": [
+        "International",
+        "Spain",
+        "Strike",
+        "widespread"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Ghanaian entrepreneur Barbara Quashigah declares intent to contest Ayawaso West Wuogon NPP parliamentary ticket",
       "link": "https://www.myjoyonline.com/ghanaian-entrepreneur-barbara-quashigah-declares-intent-to-contest-ayawaso-west-wuogon-npp-parliamentary-ticket/",
@@ -96,51 +139,6 @@ window.GDC_PAPERS = {
         "Manso Keniago",
         "NAIMOS",
         "wounds"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "COP31: GAYO pushes for climate finance to reach waste pickers and zero waste communities",
-      "link": "https://www.myjoyonline.com/cop31-gayo-pushes-for-climate-finance-to-reach-waste-pickers-and-zero-waste-communities/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:21:07.000Z",
-      "summary": "The Green Africa Youth Organisation (GAYO) has called on governments and climate financiers at COP31 to channel climate finance directly to the waste pickers, communities and cities already…",
-      "categories": [
-        "Africa",
-        "National",
-        "Climate Finance",
-        "GAYO",
-        "Zero waste"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "TOR considers BDCs partners in downstream petroleum market – Kombat",
-      "link": "https://www.myjoyonline.com/tor-considers-bdcs-partners-in-downstream-petroleum-market-kombat/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:19:32.000Z",
-      "summary": "The Tema Oil Refinery (TOR) says Bulk Distribution Companies (BDCs) should be considered partners in its operations rather than competitors as it seeks to strengthen its position in Ghana’s…",
-      "categories": [
-        "Business",
-        "Energy",
-        "Ghana",
-        "TOR"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "ICC, TikTok launch free digital commerce labs to prepare Ghanaian SMEs for cross-border trade",
-      "link": "https://www.myjoyonline.com/icc-tiktok-launch-free-digital-commerce-labs-to-prepare-ghanaian-smes-for-cross-border-trade/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T17:15:38.000Z",
-      "summary": "Small and medium-sized enterprises (SMEs) across Ghana, including those in rural communities, can now access free training to sell beyond their local markets following the launch of the…",
-      "categories": [
-        "Business",
-        "Technology",
-        "cross-border trade",
-        "digital commerce labs",
-        "SMEs",
-        "TikTok"
       ],
       "site": "https://www.myjoyonline.com/"
     },
