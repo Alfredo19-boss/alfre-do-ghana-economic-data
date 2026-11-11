@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T08:29:34.668Z",
+  "updated": "2026-11-11T08:39:33.671Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -42,6 +42,21 @@ window.GDC_PAPERS = {
         "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "AFCON 2027Q: Black Stars touch down in Takoradi ahead of Somalia doubleheader",
+      "link": "https://www.myjoyonline.com/afcon-2027q-black-stars-touch-down-in-takoradi-ahead-of-somalia-doubleheader/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T08:26:58.000Z",
+      "summary": "The team touched down in Takoradi on Tuesday evening after wrapping up their final training session in Accra on Tuesday at the Accra Sports Stadium.",
+      "categories": [
+        "Football",
+        "National",
+        "2027 AFCON Qualifiers",
+        "Black Stars",
+        "Somalia"
+      ],
+      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "121 file nominations for NDC national executive elections",
@@ -234,21 +249,6 @@ window.GDC_PAPERS = {
         "AAPI",
         "Asiedu Nketiah",
         "NDC"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "2027 Budget: How Mahama plans to turn Ghana’s fortunes with $10bn ‘New Economy’ plan",
-      "link": "https://www.myjoyonline.com/2027-budget-how-mahama-plans-to-turn-ghanas-fortunes-with-10bn-new-economy-plan/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T05:22:00.000Z",
-      "summary": "Ghana’s next phase of economic management is expected to place greater emphasis on what the economy produces, how much it processes locally and the jobs its industries can create, as the…",
-      "categories": [
-        "In Focus",
-        "News",
-        "2027 Budget",
-        "Economy",
-        "Ghana"
       ],
       "site": "https://www.myjoyonline.com/"
     },
