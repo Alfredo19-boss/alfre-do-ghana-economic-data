@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T07:34:33.419Z",
+  "updated": "2026-11-11T07:44:33.217Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,50 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "World Athletics raises entry standards for LA 2028 Games",
+      "link": "https://ghanaiantimes.com.gh/world-athletics-raises-entry-standards-for-la-2028-games/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:39:28.000Z",
+      "summary": "Athletes chasing qualification for the Los Angeles 2028 Olympics will face much tougher entry standards than for the Paris Games, with World Athletics yesterday tightening benchmarks across…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Musiala may never return to his best – Hoeness",
+      "link": "https://ghanaiantimes.com.gh/musiala-may-never-return-to-his-best-hoeness/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:38:15.000Z",
+      "summary": "Bayern Munich forward, Jamal Musiala, may never “regain the performance level he once had”, says honorary president, Uli Hoeness. The 23-year-old Germany international collapsed twice in…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Usyk may stay at heavyweight for trilogy with Fury – Warren",
+      "link": "https://ghanaiantimes.com.gh/usyk-may-stay-at-heavyweight-for-trilogy-with-fury-warren/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:36:38.000Z",
+      "summary": "The prospect of a trilogy fight with Tyson Fury could tempt Oleksandr Usyk to call off his move out of the heavyweight division, says promoter Frank Warren. Usyk has an outstanding legacy…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Messi returns to FIFPRO World 11 as Kane misses out",
+      "link": "https://ghanaiantimes.com.gh/messi-returns-to-fifpro-world-11-as-kane-misses-out/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T07:34:56.000Z",
+      "summary": "Lionel Messi returned to the FIFPRO Men’s World 11 for a record-extending 18th selection on Monday, but Ballon d’Or winner Harry Kane was a surprise omission from the team chosen by…",
+      "categories": [
+        "Foriegn"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
     {
       "title": "Bayern coach Vincent Kompany returns to club for first time since collapse",
       "link": "https://ghanaiantimes.com.gh/bayern-coach-vincent-kompany-returns-to-club-for-first-time-since-collapse/",
@@ -61,52 +105,6 @@ window.GDC_PAPERS = {
       "summary": "Barcelona teenager Pau Cubarsi capped a highly successful year for club and country by winning the Golden Boy award two months shy of his 20th birthday. Cubarsi was instrumental in Spain’s…",
       "categories": [
         "Foriegn"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "GAAE calls for inclusive approach to transform Ghana’s agri-food systems",
-      "link": "https://ghanaiantimes.com.gh/gaae-calls-for-inclusive-approach-to-transform-ghanas-agri-food-systems/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:21:54.000Z",
-      "summary": "The Ghana Association of Agricultural Economists (GAAE) has called for stronger collaboration among policymakers, researchers, development partners and agribusiness operators to address…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Uphold trust, high ethical standards to safeguard credibility of banking industry …CIB Ghana urges",
-      "link": "https://ghanaiantimes.com.gh/uphold-trust-high-ethical-standards-to-safeguard-credibility-of-banking-industry-cib-ghana-urges/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:17:55.000Z",
-      "summary": "The Chartered Institute of Bankers (CIB) Ghana has called on bankers to uphold trust and high ethical standards in their professional conduct to strengthen and safeguard the credibility of…",
-      "categories": [
-        "Business"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "EU study exposes gaps in fight against galamsey",
-      "link": "https://ghanaiantimes.com.gh/eu-study-exposes-gaps-in-fight-against-galamsey/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:10:54.000Z",
-      "summary": "A European Union (EU)-funded study has exposed major gaps in Ghana’s fight against illegal mining, revealing that about 74 per cent of people engaged in artisanal and small-scale mining in…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Women’s Development Bank moves a step closer",
-      "link": "https://ghanaiantimes.com.gh/womens-development-bank-moves-a-step-closer/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-11T07:05:56.000Z",
-      "summary": "The report on the establishment of the proposed Women’s Development Bank has been completed, with an application for a banking licence submitted to the Bank of Ghana (BoG) for…",
-      "categories": [
-        "Hot!",
-        "News"
       ],
       "site": "https://ghanaiantimes.com.gh/"
     },
