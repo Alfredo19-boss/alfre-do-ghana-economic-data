@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T05:55:43.633Z",
+  "updated": "2026-11-11T06:05:44.258Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,31 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "NIA suspends date of birth updates on Ghana Card",
+      "link": "https://ghanaiantimes.com.gh/nia-suspends-date-of-birth-updates-on-ghana-card/",
+      "source": "Ghanaian Times",
+      "published": "2026-11-11T06:03:58.000Z",
+      "summary": "The National Identification Authority (NIA) has temporarily suspended all date of birth updates on the Ghana Card until further notice, following a review of the process which identified…",
+      "categories": [
+        "Crime",
+        "Hot!"
+      ],
+      "site": "https://ghanaiantimes.com.gh/"
+    },
+    {
+      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+      "link": "https://www.myjoyonline.com/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T05:54:39.000Z",
+      "summary": "The number of confirmed Ebola cases in the Democratic Republic of the Congo (DRC) has reached 11,042, according to government data, with at least 5,387 deaths.",
+      "categories": [
+        "Africa",
+        "HP News 10",
+        "News"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Dr Nyaho-Tamakloe: Celebrating Hearts of Oak’s 115 years of history, excellence and institutional development",
       "link": "https://www.myjoyonline.com/dr-nyaho-tamakloe-celebrating-hearts-of-oaks-115-years-of-history-excellence-and-institutional-development/",
@@ -43,6 +68,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T05:43:44.000Z",
       "summary": "The government is seeking a lasting solution to a 40-kilometre section of the Gbentri-Nakpanduri Road in the North East Region that was left out of the existing construction contract…",
       "categories": [
+        "HP News 2",
         "News"
       ],
       "site": "https://www.myjoyonline.com/"
@@ -68,6 +94,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T05:39:00.000Z",
       "summary": "Political parties across Africa must move beyond the pursuit of electoral victories and build the institutional strength and expertise needed to govern effectively, the new Chairman of the…",
       "categories": [
+        "HP News 7",
         "News",
         "Politics",
         "AAPI",
@@ -116,20 +143,6 @@ window.GDC_PAPERS = {
         "Derivatives",
         "Gerald Nana Kusi",
         "Investments"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "JoyNews’ Emmanuel Dzivenu named finalist for West Africa journalism excellence award",
-      "link": "https://www.myjoyonline.com/joynews-emmanuel-dzivenu-named-finalist-for-west-africa-journalism-excellence-award/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T04:42:00.000Z",
-      "summary": "JoyNews journalist and television producer Emmanuel Dzivenu has been named a finalist in the 2026 Excellence in Journalism Awards organised by the Centre for Journalism Innovation and…",
-      "categories": [
-        "HP News 5",
-        "National",
-        "Centre for Journalism Innovation and Development (CJID)",
-        "Emmanuel Dzivenu"
       ],
       "site": "https://www.myjoyonline.com/"
     },
@@ -256,18 +269,6 @@ window.GDC_PAPERS = {
       "source": "Ghanaian Times",
       "published": "2026-11-10T14:18:25.000Z",
       "summary": "A delegation from the academic community, led by Professor Robert Darko Osei, has paid a courtesy call on Speaker Bagbin, during which they presented a collection of reports and books to…",
-      "categories": [
-        "Hot!",
-        "News"
-      ],
-      "site": "https://ghanaiantimes.com.gh/"
-    },
-    {
-      "title": "Ghana, Sweden to deepen cooperation in digital economy, AI and trade",
-      "link": "https://ghanaiantimes.com.gh/ghana-sweden-to-deepen-cooperation-in-digital-economy-ai-and-trade/",
-      "source": "Ghanaian Times",
-      "published": "2026-11-10T14:16:39.000Z",
-      "summary": "Ghana and Sweden have pledged to deepen bilateral cooperation in the digital economy, artificial intelligence (AI), trade and investment. The commitment was made on Monday, November 9…",
       "categories": [
         "Hot!",
         "News"
