@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T12:59:03.948Z",
+  "updated": "2026-11-11T13:09:02.249Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,20 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Mahama directs Petroleum Commission, other agencies to work on feedstock supply for Petroleum Hub Project",
+      "link": "https://www.myjoyonline.com/mahama-directs-petroleum-commission-other-agencies-to-work-on-feedstock-supply-for-petroleum-hub-project/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:05:45.000Z",
+      "summary": "The Petroleum Commission and other state agencies in the upstream oil and gas sector have been instructed by President John Dramani Mahama to work with the Petroleum Hub Development…"
+    },
+    {
+      "title": "Over 70% of Ghanaians expect jobs and youth employment as top priorities in 2027 Budget-KPMG/UNDP survey",
+      "link": "https://www.myjoyonline.com/over-70-of-ghanaians-expect-jobs-and-youth-employment-as-top-priorities-in-2027-budget-kpmg-undp-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:05:00.000Z",
+      "summary": "54 percent of the respondents identify the cost of living as a key national priority apart from the growing unemployment situation in the country."
+    },
     {
       "title": "Powering Ghana’s future: Can small modular reactors drive the nation’s industrial growth",
       "link": "https://www.myjoyonline.com/powering-ghanas-future-can-small-modular-reactors-drive-the-nations-industrial-growth/",
@@ -1056,20 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-07T05:15:45.000Z",
       "summary": "According to the experts, business resilience goes beyond responding to crises. It requires a deliberate and strategic approach to identifying potential vulnerabilities, safeguarding…"
-    },
-    {
-      "title": "Policy rate of 14% between May and September 2026 was meant to preserve economic stability – BoG Governor",
-      "link": "https://www.myjoyonline.com/policy-rate-of-14-between-may-and-september-2026-was-meant-to-preserve-economic-stability-bog-governor/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T05:07:15.000Z",
-      "summary": "The Bank of Ghana Governor, Dr. Johnson Asiama, has strongly defended the decision by the Monetary Policy Committee to hold the policy rate at 14% between May and September 2026. According…"
-    },
-    {
-      "title": "‘Days of diverting cocoa inputs are over’ – COCOBOD CEO",
-      "link": "https://www.myjoyonline.com/days-of-diverting-cocoa-inputs-are-over-cocobod-ceo/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-07T04:57:47.000Z",
-      "summary": "The Ghana Cocoa Board (COCOBOD) has issued a stern warning to individuals and officials involved in the diversion, hoarding or illegal sale of free fertiliser and other farm inputs, saying…"
     }
   ]
 };

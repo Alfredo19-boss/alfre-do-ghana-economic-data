@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T12:59:34.701Z",
+  "updated": "2026-11-11T13:09:32.925Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,49 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Over 70% of Ghanaians expect jobs and youth employment as top priorities in 2027 Budget-KPMG/UNDP survey",
+      "link": "https://www.myjoyonline.com/over-70-of-ghanaians-expect-jobs-and-youth-employment-as-top-priorities-in-2027-budget-kpmg-undp-survey/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:05:00.000Z",
+      "summary": "54 percent of the respondents identify the cost of living as a key national priority apart from the growing unemployment situation in the country.",
+      "categories": [
+        "Business",
+        "Economy",
+        "2027 Budget",
+        "24-hour economy",
+        "KPMG",
+        "Tax",
+        "UNDP"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Isaac Nii Kpakpo Oti van der Puije",
+      "link": "https://www.myjoyonline.com/isaac-nii-kpakpo-oti-van-der-puije/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T13:03:40.000Z",
+      "summary": "HOME CALL Nii Dodoo Nsaki II (Paramount Chief of Otublohum), Nii Okanta Ankrah II (Head, Mantse Ankrah Royal Family), Nii Kpakpo Oti IV, (Adontenhene of Otublohum), Naa Densua V (Otublohum…",
+      "categories": [
+        "National",
+        "Obituary",
+        "Isaac Nii Kpakpo Oti van der Puije"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Mrs Margaret Marie Krakue (Maame Efua Good Friday)",
+      "link": "https://www.myjoyonline.com/mrs-margaret-marie-krakue-maame-efua-good-friday/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T12:57:35.000Z",
+      "summary": "Awulae Attibrukusu (III) (Omanhene and President of Lower Axim Traditional Council), Nana Kofi Arko (Divisional Chief of Ewoku), Obaahema Ekpone Ama (ll) (Divisional Queen Mother of Ewoku)…",
+      "categories": [
+        "National",
+        "Obituary",
+        "Margaret Marie Krakue"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "NYA denies organising December trip to Togo",
       "link": "https://www.myjoyonline.com/nya-denies-organising-december-trip-to-togo/",
@@ -97,21 +140,6 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "‘It’s very worrying’ – Selassie Ibrahim raises concerns about AI in filmmaking",
-      "link": "https://www.myjoyonline.com/its-very-worrying-selassie-ibrahim-raises-concerns-about-ai-in-filmmaking/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:22:48.000Z",
-      "summary": "Ghanaian filmmaker Selassie Ibrahim has expressed concern about artificial intelligence (AI) in filmmaking, warning that it could push many industry professionals out of business.",
-      "categories": [
-        "HP Entertainment 1",
-        "Movies",
-        "Artificial Intelligence (AI)",
-        "Films",
-        "Selassie Ibrahim"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
       "title": "President Mahama breaks ground for $235 million ship repair, Berth-19 projects at Takoradi Port",
       "link": "https://www.graphic.com.gh/news/general-news/president-mahama-breaks-ground-for-235-million-ship-repair-berth-19-projects-at-takoradi-port.html",
       "source": "Daily Graphic",
@@ -132,36 +160,6 @@ window.GDC_PAPERS = {
         "Politics"
       ],
       "site": "https://www.graphic.com.gh/"
-    },
-    {
-      "title": "UG’s Communication Studies Department to host maiden Chambas Memorial Lecture",
-      "link": "https://www.myjoyonline.com/ugs-communication-studies-department-to-host-maiden-chambas-memorial-lecture/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:11:25.000Z",
-      "summary": "The Department of Communication Studies at the University of Ghana (UG) is set to host the maiden edition of the Dr Mohamed Ibn Chambas Memorial Lecture on Thursday, December 10, as part of…",
-      "categories": [
-        "Education",
-        "National",
-        "Communication Studies Department",
-        "Mohamed Ibn Chambas Memorial Lecture",
-        "University of Ghana"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Motorists must adapt driving to road conditions to prevent crashes – Former DVLA Boss urges motorists",
-      "link": "https://www.myjoyonline.com/motorists-must-adapt-driving-to-road-conditions-to-prevent-crashes-former-dvla-boss-urges-motorists/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T12:10:53.000Z",
-      "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, has urged motorists to adjust their driving to prevailing road conditions to reduce…",
-      "categories": [
-        "National",
-        "News",
-        "DVLA",
-        "Justice Yaw Amegashie",
-        "Road Safety Authority"
-      ],
-      "site": "https://www.myjoyonline.com/"
     },
     {
       "title": "Edward Agyekum Kufuor: Kufuor's son declares bid for father's old Parliamentary seat",
