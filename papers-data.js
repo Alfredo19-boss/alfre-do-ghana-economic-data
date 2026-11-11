@@ -3,7 +3,7 @@
  * Headlines and links only. Do not edit by hand.
  */
 window.GDC_PAPERS = {
-  "updated": "2026-11-11T11:49:33.932Z",
+  "updated": "2026-11-11T11:59:34.581Z",
   "note": "Front-page stories as the newsrooms are running them. Headlines and links only; every story opens on the publisher's own website.",
   "papers": [
     {
@@ -20,6 +20,37 @@ window.GDC_PAPERS = {
     }
   ],
   "items": [
+    {
+      "title": "Kow Essuman threatens legal action over unpaid salary arrears, terminal benefits",
+      "link": "https://www.myjoyonline.com/kow-essuman-threatens-legal-action-over-unpaid-salary-arrears-terminal-benefits/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:55:15.000Z",
+      "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, has threatened legal action against the government over unpaid salary arrears and terminal benefits, saying…",
+      "categories": [
+        "National",
+        "Kow Essuman",
+        "Legal action",
+        "terminal benefits",
+        "unpaid salary"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
+    {
+      "title": "Ghana’s economy expands by 6.8% in August 2026, driven by Services sector",
+      "link": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-8-in-august-2026-driven-by-services-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:53:46.000Z",
+      "summary": "Ghana’s economy recorded a 6.8 percent growth in August 2026, up from 5.3 per cent in the same period last year, driven largely by strong performance in the services sector. Data from the…",
+      "categories": [
+        "Business",
+        "Economy",
+        "HP Business 1",
+        "Ghana",
+        "Ghana Statistical Service",
+        "MIEG"
+      ],
+      "site": "https://www.myjoyonline.com/"
+    },
     {
       "title": "Buck Press Limited funds renovation of KNUST Publishing Studies Department facilities",
       "link": "https://www.myjoyonline.com/buck-press-limited-funds-renovation-of-knust-publishing-studies-department-facilities/",
@@ -52,6 +83,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T11:37:34.000Z",
       "summary": "Former Chief Executive of the Driver and Vehicle Licensing Authority (DVLA), Justice Yaw Amegashie, has criticised the police and other road safety authorities for what he describes as…",
       "categories": [
+        "HP News 2",
         "National",
         "road safety"
       ],
@@ -64,6 +96,7 @@ window.GDC_PAPERS = {
       "published": "2026-11-11T11:33:21.000Z",
       "summary": "Former legal counsel to President Nana Addo Dankwa Akufo-Addo, Kow Essuman, said history will vindicate the former President’s leadership, describing him as a leader who consistently…",
       "categories": [
+        "HP News 6",
         "National",
         "Akufo-Addo",
         "History",
@@ -118,32 +151,7 @@ window.GDC_PAPERS = {
       "site": "https://www.myjoyonline.com/"
     },
     {
-      "title": "Academic City urges business leaders to make purpose central to business growth",
-      "link": "https://www.myjoyonline.com/academic-city-urges-business-leaders-to-make-purpose-central-to-business-growth/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T10:49:42.000Z",
-      "summary": "Academic City University urged business leaders to put purpose at the centre of their growth strategies at its inaugural Xperience ACity Industry Breakfast, held last Friday at its Haatso…",
-      "categories": [
-        "Education",
-        "Academic City"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "Prof. McBagonluri inducted into Ghana Academy of Arts and Sciences, is first private university inductee",
-      "link": "https://www.myjoyonline.com/prof-mcbagonluri-inducted-into-ghana-academy-of-arts-and-sciences-is-first-private-university-inductee/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-11T10:43:44.000Z",
-      "summary": "Prof. Fred McBagonluri, President of Academic City University, has been inducted into the Ghana Academy of Arts and Sciences (GAAS) in recognition of his contributions to engineering…",
-      "categories": [
-        "Education",
-        "Academic City University",
-        "Prof. Fred McBagonluri"
-      ],
-      "site": "https://www.myjoyonline.com/"
-    },
-    {
-      "title": "US lawyer Ben Crump to pursue justice for Javits Frimpong",
+      "title": "US lawyer Ben Crump to pursue justice for Javits Frimpong; Ablakwa asks him to extend services to other Ghanaian victims",
       "link": "https://www.graphic.com.gh/news/general-news/ghana-engages-us-lawyer-ben-crump-to-seek-justice-for-nationals-killed-abroad.html",
       "source": "Daily Graphic",
       "published": "2026-11-11T09:05:20.000Z",

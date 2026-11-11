@@ -3,7 +3,7 @@
  * Do not edit by hand; the next run overwrites this file.
  */
 window.GDC_NEWS = {
-  "updated": "2026-11-11T11:49:02.704Z",
+  "updated": "2026-11-11T11:59:04.972Z",
   "sources": [
     "MyJoyOnline",
     "Citi Newsroom",
@@ -21,6 +21,13 @@ window.GDC_NEWS = {
     "News Ghana: failed (HTTP 403)"
   ],
   "items": [
+    {
+      "title": "Ghana’s economy expands by 6.8% in August 2026, driven by Services sector",
+      "link": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-8-in-august-2026-driven-by-services-sector/",
+      "source": "MyJoyOnline",
+      "published": "2026-11-11T11:53:46.000Z",
+      "summary": "Ghana’s economy recorded a 6.8 percent growth in August 2026, up from 5.3 per cent in the same period last year, driven largely by strong performance in the services sector. Data from the…"
+    },
     {
       "title": "IFAD Announces Climate Adaptation Bond to Mobilise Funding for Small-Scale Farmers",
       "link": "https://thehighstreetjournal.com/ifads-funding-for-small-scale-farmers/",
@@ -1063,13 +1070,6 @@ window.GDC_NEWS = {
       "source": "MyJoyOnline",
       "published": "2026-11-06T13:55:00.000Z",
       "summary": "In a dramatic shift highlighting systemic pressures on domestic agro-processors, leading Ghanaian cashew processor Usibras has turned to importing semi-processed cashew kernels from…"
-    },
-    {
-      "title": "10 young fintech innovators to pitch for national-stage places at MoMo Fintech Lab Accra Hackathon",
-      "link": "https://www.myjoyonline.com/10-young-fintech-innovators-to-pitch-for-national-stage-places-at-momo-fintech-lab-accra-hackathon/",
-      "source": "MyJoyOnline",
-      "published": "2026-11-06T12:14:48.000Z",
-      "summary": "Ten innovators from the Southern Zone of the 2026 MoMo Fintech Lab will pitch their solutions to a panel of industry experts on Friday, November 6, 2026, competing for five places in the…"
     }
   ]
 };
